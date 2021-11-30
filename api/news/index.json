@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-30-why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool.md",
+      "title": "Why Employers Should Ditch Relying On AI As A Recruitment Tool",
+      "excerpt": "As has been written here and elsewhere, one of the great mysteries of the current economic environment is how businesses of all sorts can be complaining of staff shortages at the same time as even the best qualified young people struggle to get on to the employment ladder.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/",
+      "originalUrl": "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a633e163d816f8c303d8c8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/amp/",
+      "publishedDateTime": "2021-11-30T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai.md",
+      "title": "Spy chief's warning: Our foes are now 'pouring money' into quantum computing and AI",
+      "excerpt": "In a rare public speech, MI6 chief warns that hostile states focused on quantum and AI. The rise of technologies like artificial intelligence (AI) and quantum computing is changing the world – and intelligence services must adapt in order to operate in an increasingly digital environment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/",
+      "originalUrl": "https://www.zdnet.com/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/64fd1585f18543733a0d67b09d20120e3acbd131/2021/10/28/adc45ef8-776c-4eab-a21f-a311dfcb86ac/20211028-sf-nov.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/",
+      "publishedDateTime": "2021-11-30T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-healthcare-natural-language-processing-market-is-going-to-boom-3m-cerner-nuance.md",
       "title": "Healthcare Natural Language Processing Market is Going to Boom | 3M, Cerner, Nuance",
       "excerpt": "Latest Study on Industrial Growth of Worldwide Healthcare Natural Language Processing Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the Worldwide Healthcare Natural Language Processing market The report contains different market predictions related",
@@ -321,50 +423,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-30-trans-ai-will-propel-artificial-general-intelligence-to-superintelligence.md",
-      "title": "Trans-AI will propel Artificial General Intelligence to Superintelligence",
-      "excerpt": "The critical issue is that Artificial Intelligence is weak and narrow, instead of being trans-disciplinary AI or true machine intelligence and learnin..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-87995459,imgsize-1900172,width-1200,height-628,overlay-etcio/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "publishedDateTime": "2021-11-29T19:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-11-30-face-off-robots-come-equipped-with-facial-recognition.md",
       "title": "Face-Off: Robots Come Equipped With Facial Recognition",
       "excerpt": "In the not-so-distant future, robotic dogs equipped with facial recognition cameras might just scamper about outside and help police officers identify suspicious persons. Contactless commerce, airport security and law enforcement: The use of facial recognition technology (FRT) is quickly becoming a must-have for the public and private sectors.",
@@ -613,7 +671,7 @@
       "originalUrl": "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -699,58 +757,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-clearview-ai-is-facing-a-23-million-fine-over-facial-recognition-in-the-uk.md",
-      "title": "Clearview AI Is Facing A $23 Million Fine Over Facial Recognition In The UK",
-      "excerpt": "The provisional decision comes after a series of BuzzFeed News investigations revealing widespread and sometimes unsanctioned use of the company’s facial recognition software around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial",
-      "originalUrl": "https://www.buzzfeednews.com/article/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 252,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2017-12/18/7/campaign_images/buzzfeed-prod-fastlane-01/35-times-privacy-was-a-lie-in-2017-2-22650-1513601379-1_dblbig.jpg",
-          "width": 625,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial",
-      "publishedDateTime": "2021-11-29T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1091,6 +1097,48 @@
       ]
     },
     {
+      "path": "_news/2021-11-30-exclusive-pentagon-weighing-reorganization-of-ai-data-offices.md",
+      "title": "EXCLUSIVE: Pentagon weighing reorganization of AI, data offices",
+      "excerpt": "The Defense Digital Service (DDS), the Joint Artificial Intelligence Center (JAIC) and the office of the Chief Data Officer (CDO) would all report up to a new individual, tentatively named the Chief Data & AI Officer.",
+      "sourceUrl": null,
+      "webUrl": "https://breakingdefense.com/2021/11/exclusive-pentagon-weighing-reorganization-of-ai-data-offices/",
+      "originalUrl": "https://breakingdefense.com/2021/11/exclusive-pentagon-weighing-reorganization-of-ai-data-offices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sites.breakingmedia.com/uploads/sites/3/2021/11/211129_pentagon_code_gfx_v2b.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://breakingdefense.com/2021/11/exclusive-pentagon-weighing-reorganization-of-ai-data-offices/amp/",
+      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/11/exclusive-pentagon-weighing-reorganization-of-ai-data-offices/amp/",
+      "publishedDateTime": "2021-11-29T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Breaking Defense",
+        "domain": "breakingdefense.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-coolpad-cool-20-pro-teaser-poster-confirms-the-mediatek-dimensity-900-5g-chip.md",
       "title": "Coolpad Cool 20 Pro teaser poster confirms the MediaTek Dimensity 900 5G chip",
       "excerpt": "Chinese smartphone maker Coolpad is expected to release the COOL 20 Pro smartphone on December 1. The company had earlier released a teaser poster which gave us a look at the design of the sleek smartphone.",
@@ -1139,49 +1187,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-why-ghana-needs-robotics-industry-for-national-development.md",
-      "title": "Why Ghana needs robotics industry for national development",
-      "excerpt": "The evolution of technology in recent years has sparked significant public and media discourse, anticipations, and concerns about robotics and its ability to ensure positive transformation in every sector around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernghana.com/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
-      "originalUrl": "https://www.modernghana.com/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.modernghana.com/images/content/1129202154037-h41o2s6fey-picture---julian-bennett.jpg",
-          "width": 800,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernghana.com/amp/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
-      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
-      "publishedDateTime": "2021-11-29T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modernghana.com",
-        "domain": "modernghana.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI is making applying for jobs even more miserable"
-    excerpt: "The platforms say the process is fairer and less biased than human recruiters, leading to better and more diverse candidates making the cut. Of course, there is fierce debate about whether algorithms could in fact reinforce human biases rather than eliminate them."
-    publishedDateTime: 2021-11-30T05:00:00Z
-    webUrl: "https://www.ft.com/content/a81245ee-9916-47e2-81b9-846e9403be00"
-    ampWebUrl: "https://amp.ft.com/content/a81245ee-9916-47e2-81b9-846e9403be00"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a81245ee-9916-47e2-81b9-846e9403be00"
+  - title: "Why Employers Should Ditch Relying On AI As A Recruitment Tool"
+    excerpt: "As has been written here and elsewhere, one of the great mysteries of the current economic environment is how businesses of all sorts can be complaining of staff shortages at the same time as even the best qualified young people struggle to get on to the employment ladder."
+    publishedDateTime: 2021-11-30T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/"
+    ampWebUrl: "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/amp/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14cf9789-78fa-445f-900a-c626ed5f5af7.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a633e163d816f8c303d8c8%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "7Dvbpvy86tIbIQJc5Z7UJt8hYP+1WTHzcl5XRtYbon8IFRO0rFLaz/hUw28Ty0N0cj9kk4QP7d8Hx8lDpJ6aA4Vl0Ef4y2RzdjbHYWg7tjNDkm91l/nAX10Rgk/qnbJ7Fm49PMUZ8i3mlZtqlApvKazazHlEVIiUILy+kp6rH6dJ6psb8PMQpTZW1XU/fx9HRZfpV+vWRBpnunonAAii3tHYJ//LbD/keDMukv057YT+O6ccnhtPCOzuO+kb1pKEX5vmIxZJ8fwZH9CSGwyOqSGVU/3eiOWB1FuEUjmvxv2M2yPDKhJ2jSWZF8A8LdWsR31WC+32SO9PBVSIO/1k/9+24GtCg5O6hNgVH7cN+X9Vqoe0VlN0w698o8mhZIGXOs9sYNMCM+vLEP3gzovIEKgNwFS8l1CA+28Hycc9pVeajeCvQXU8QR3wSVX2DZX0iMN8dDqexkjhoI29q0j8S+9eKKRk7ax6uzNXPAww9HKrbyyWv0CDzPDCF7j1MfkWskTU0gzw5gPwO1Jjcb42kw==;Iyb9IbjVKRycUPSWxb5gTQ=="

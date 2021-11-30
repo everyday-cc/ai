@@ -37,22 +37,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 20
-  - title: "Self Healing Concrete Market: Global and Regional Analysis with Forecast till 2028, Business Opportunities, Post COVID Scenario"
-    excerpt: "According to the report The global Self Healing Concrete market size was valued at 22 68 Billion in 2020 and is expected to reach 147 05 Billion by 2028 growing at the CAGR of 25 31 from 2021 to 2028"
-    publishedDateTime: 2021-11-29T11:54:00Z
-    webUrl: "https://www.openpr.com/news/2477981/self-healing-concrete-market-global-and-regional-analysis-with"
-    ampWebUrl: "https://www.openpr.com/amp/2477981/self-healing-concrete-market-global-and-regional-analysis-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2477981/self-healing-concrete-market-global-and-regional-analysis-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub29131153_g.jpg"
-        width: 603
-        height: 394
-        isCached: true
   - title: "Outlook on the Explainable AI Global Market to 2030 - Opportunity Analysis and Industry Forecasts"
     excerpt: "The \"Explainable AI Market by Offering, by Deployment, by Technology, by End-use Industry, by Application - Global Opportunity Analysis and Industry Forecast, 2021-2030\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-11-29T16:29:00Z

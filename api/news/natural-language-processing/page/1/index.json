@@ -89,6 +89,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-26-rescon-praises-throne-speech-recognition-of-housing-immigration.md",
+      "title": "RESCON praises Throne Speech recognition of housing, immigration",
+      "excerpt": "VAUGHAN, ONT. - The Residential Construction Council of Ontario (RESCON) has released a statement saying it is pleased that housing, immigration and stability of the supply chain would be federal government priorities as indicated in the Nov.",
+      "sourceUrl": null,
+      "webUrl": "https://canada.constructconnect.com/dcn/news/associations/2021/11/rescon-praises-throne-speech-recognition-of-housing-immigration",
+      "originalUrl": "https://canada.constructconnect.com/dcn/news/associations/2021/11/rescon-praises-throne-speech-recognition-of-housing-immigration",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2018/07/Parliament-Buildings-WEB.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-26T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "canada.constructconnect",
+        "domain": "constructconnect.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-vibrating-sleeve-gives-wearers-a-feel-for-languages.md",
       "title": "Vibrating sleeve gives wearers a feel for languages",
       "excerpt": "For the past year or so, a student team from the Eindhoven University of Technology has been working on a wearable that could allow folks to understand what's being said in another language through vibrations on the arm.",
@@ -1413,58 +1456,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-googles-project-relate-aims-to-help-people-with-atypical-speech-communicate.md",
-      "title": "Google's Project Relate Aims to Help People With Atypical Speech Communicate",
-      "excerpt": "Google's newest assistive technology, Project Relate, looks to help people with atypical speech communicate with the people and technology around them.",
-      "sourceUrl": null,
-      "webUrl": "https://in.pcmag.com/news/146071/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate",
-      "originalUrl": "https://in.pcmag.com/news/146071/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_in/news/g/googles-pr/googles-project-relate-aims-to-help-people-with-atypical-spe_5rm9.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T08:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

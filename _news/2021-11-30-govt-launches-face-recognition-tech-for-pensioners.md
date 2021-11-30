@@ -135,22 +135,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Jitendra Singh launches unique face recognition technology for pensioners, says it will bring ease of living for retired, elderly citizens"
-    excerpt: "Union Minister of State Dr Jitendra Singh on Monday launched unique Face Recognition Technology for Pensioners and said that this will bring ease of living for the retired and the elderly citizens."
-    publishedDateTime: 2021-11-30T02:54:00Z
-    webUrl: "https://www.catchnews.com/national-news/jitendra-singh-launches-unique-face-recognition-technology-for-pensioners-says-it-will-bring-ease-of-living-for-retired-elderly-citizens-226739.html"
-    ampWebUrl: "https://www.catchnews.com/amp/national-news/jitendra-singh-launches-unique-face-recognition-technology-for-pensioners-says-it-will-bring-ease-of-living-for-retired-elderly-citizens-226739.html"
-    cdnAmpWebUrl: "https://www-catchnews-com.cdn.ampproject.org/c/s/www.catchnews.com/amp/national-news/jitendra-singh-launches-unique-face-recognition-technology-for-pensioners-says-it-will-bring-ease-of-living-for-retired-elderly-citizens-226739.html"
-    type: article
-    provider:
-      name: Catch News
-      domain: catchnews.com
-    quality: 25
-    images:
-      - url: "http://images.catchnews.com/upload/2021/11/30/jitendrasinghbjp.jpg"
-        width: 730
-        height: 419
-        isCached: true
   - title: "Dr Jitendra launches unique ‘Face Recognition Technology’ for Pensioners"
     excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today launched unique “Face Recognition Technology” for Pensioners and said,"
     publishedDateTime: 2021-11-29T11:23:00Z
@@ -169,6 +153,15 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 18
+  - title: "Jitendra Singh launches unique face recognition technology for pensioners, says it will bring ease of living for retired, elderly citizens"
+    excerpt: "Union Minister of State Dr Jitendra Singh on Monday launched unique Face Recognition Technology for Pensioners and said that this will bring ease of living for the retired and the elderly citizens. Singh said,"
+    publishedDateTime: 2021-11-30T14:18:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/India/20211130/3864416.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "SVKu1z2vBq/N7qO/afDMMpHkStU+Pt+lbuWZI9i3zDKvGIGKpsXtPYEuEmvQEWejVR1I8rccQdlySY8PkAOP65NMBbIKtFaepq/Z1o4shBZQgnrvR43ISsfAfgYp3ji2ooxXEJ2Q+cm2MCbry9WGBRGvcR7ZVX9BmNxzPeFyVVupy5iUNIqrn7eo8G1inQ8yLfaPP2jRez41logtzujbcxySkJrYd/bFAyNRhfnVpsgKrDIEKK6J2dleqvIQF0Df7I1C3M6Go9VPuwzkJSnQB+DmSx4NsiVJa1qcsc0yMgikyNT1tR0MPqQx6Ox2qLhRSLmaS7fOh509YPaXuh6pIcc47oOcuZZ1QAhnuUe6MWDPARHuG7+O7KtZO3uxEk2uvKcSjH1D3gDDw2LYVthXqvVI+E2fDnx+FY1JMWrMs0t8/fHsytWn9H/+VO/FypoRdG/4J72dy2v55/zctDj/uW3I/3uRf+vr9hZUWk/x8Vd+ZewCglzedih8iiIOR9w+/C5Ar5NAokXNG3kzd4Ke/g==;vwdaZxT5vqtZGPVujwF74A=="
 ---

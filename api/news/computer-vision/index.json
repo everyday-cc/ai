@@ -53,7 +53,7 @@
       "originalUrl": "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -89,21 +89,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-30-clearview-ai-is-facing-a-23-million-fine-over-facial-recognition-in-the-uk.md",
-      "title": "Clearview AI Is Facing A $23 Million Fine Over Facial Recognition In The UK",
-      "excerpt": "The provisional decision comes after a series of BuzzFeed News investigations revealing widespread and sometimes unsanctioned use of the company’s facial recognition software around the world.",
+      "path": "_news/2021-11-29-ico-warns-facial-recognition-company-clearview-ai-could-face-17m-fine-over-privacy-breaches.md",
+      "title": "ICO warns facial recognition company Clearview AI could face £17m fine over privacy breaches",
+      "excerpt": "The controversial facial recognition company, Clearview AI, has been warned it could face a £17 million fine for multiple breaches of UK Data Protection law. The Information Commissioner said today that the company,",
       "sourceUrl": null,
-      "webUrl": "https://www.buzzfeednews.com/article/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial",
-      "originalUrl": "https://www.buzzfeednews.com/article/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial",
+      "webUrl": "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches",
+      "originalUrl": "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches",
       "featuredContent": null,
       "highlight": null,
-      "heat": 252,
+      "heat": 303,
       "tags": null,
       "images": [
         {
-          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2017-12/18/7/campaign_images/buzzfeed-prod-fastlane-01/35-times-privacy-was-a-lie-in-2017-2-22650-1513601379-1_dblbig.jpg",
-          "width": 625,
-          "height": 415,
+          "url": "https://www.computerweekly.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -111,23 +111,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial",
-      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial",
-      "publishedDateTime": "2021-11-29T14:03:00-08:00",
+      "ampWebUrl": "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1",
+      "publishedDateTime": "2021-11-29T06:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BuzzFeed News",
-        "domain": "buzzfeednews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

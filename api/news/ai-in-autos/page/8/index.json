@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-09-26-good-tesla-drivers-might-be-next-to-get-full-self-driving-software.md",
-      "title": "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software",
-      "excerpt": "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
-      "originalUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/09/Tesla_Crash_88520.jpg?w=1024&#038;h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/09/25/tesla-starts-judging-owners-it-charged-10000-for-self-driving/amp/",
-      "publishedDateTime": "2021-09-25T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-09-25-good-tesla-drivers-might-be-next-to-get-full-self-driving-software.md",
       "title": "‘Good’ Tesla drivers might be next to get ‘full’ self-driving software",
       "excerpt": "Chief Executive Officer Elon Musk tweeted that the download button customers will see Friday will request car owners’ permission for Tesla to assess their driving behavior for seven days.",
@@ -1402,6 +1359,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-17-science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late.md",
+      "title": "Science Could Make Self-Driving Cars Know When They’re Failing, Before It’s Too Late",
+      "excerpt": "No matter what car makers’ marketing says, scientists affirm that the current self-driving technologies are still not safe enough. Various research and development projects continue to improve autonomous driving technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoevolution.com/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607.html",
+      "originalUrl": "https://www.autoevolution.com/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.cdn.autoevolution.com/images/news/science-could-make-self-driving-cars-know-when-theyre-failing-before-its-too-late-169607-7.jpg",
+          "width": 728,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-17T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "autoevolution.com",
+        "domain": "autoevolution.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

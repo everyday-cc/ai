@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-11-ai-assisted-device-traditiona
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-ai-assisted-device-traditional-stethoscopes.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 567
     height: 425
     isCached: true
+
+related:
+  - title: "New AI assisted device could soon replace traditional stethoscope"
+    excerpt: "A stethoscope is one of a doctor's most important instruments, but there haven't been any fundamental improvements in the device itself since the 1960s."
+    publishedDateTime: 2021-11-30T14:39:00Z
+    webUrl: "https://healthcare-in-europe.com/en/news/new-ai-assisted-device-could-soon-replace-traditional-stethoscope.html"
+    type: article
+    provider:
+      name: healthcare-in-europe.com
+      domain: healthcare-in-europe.com
+    quality: 37
+    images:
+      - url: "https://healthcare-in-europe.com/media/story/26231/rect-01-device.jpg"
+        width: 400
+        height: 240
+        isCached: true
 
 secured: "cqjT0XOP21aJL88+e2NBxnuRapZ3EapdDVe+mP5YSSCCYY1rjkMUGyH032hHt33MCTpMFZYtqrppYunIsDYGU5HOZfT/qZzCJI2+zRWjWDr6PjvbVDJlBPJPFTAhkvNDeoMPyMtmLuNfhUPCLJiM/IYx9faJPVNAdKfEgrDoHCQmkG1rQvWBIh3P+da10OHhOuuofG2nlsKxJbJKVjgZ0RTblrogRZskeqzJ7cHyk040YYcnX9a9Sz4DMJK7j4rAI4deKD8VjiEUHDbZ144qyweMvqMJmvdjA4m5as2SU75b6pmpe9lwDdIHlyOZRHD4k9UZ9tsy6F23sptFDu/h2H8g61M8HA8lhb8qdHGTlD3IEM/0tgQFLsFbt84ksmX8/yUnahAHm6zGNRzt0TWJf763/3QvZfbSd6m28g9S7uOMwmzQo0KGP+ul93PcjM0FU7Z6fWJ8RCKSAJPkvpnHJVpiUionfbT9LoRNGHPCRr/8BVlBR+kiWVDNIYVLxIbuBWScIBQGSB+3J16nGnjXmw==;iwYuWGfZaj4bBMVDfsC2gQ=="
 ---

@@ -45,22 +45,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 20
-  - title: "Self Healing Concrete Market: Global and Regional Analysis with Forecast till 2028, Business Opportunities, Post COVID Scenario"
-    excerpt: "According to the report The global Self Healing Concrete market size was valued at 22 68 Billion in 2020 and is expected to reach 147 05 Billion by 2028 growing at the CAGR of 25 31 from 2021 to 2028"
-    publishedDateTime: 2021-11-29T11:54:00Z
-    webUrl: "https://www.openpr.com/news/2477981/self-healing-concrete-market-global-and-regional-analysis-with"
-    ampWebUrl: "https://www.openpr.com/amp/2477981/self-healing-concrete-market-global-and-regional-analysis-with"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2477981/self-healing-concrete-market-global-and-regional-analysis-with"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub29131153_g.jpg"
-        width: 603
-        height: 394
-        isCached: true
 
 secured: "vSCB1qgs1xEHkhuKVWsmuvvSVwxtPAolDH9LsZpSLUewMpvlCS/RPZtcES7z2mF2MM8LovgMzigxZ9vhmup5qjgNNwutGjcj7nDHfQ5PL4hxce2KF8UE6iJpm6NTL7tE8HW0REEgzVUzZH0J1TgqRODGuIk/M6Adx36A6QTy66j+jLXImYSXnQNe4QYiSoGBASgGr7PaQmCNmZd1wzPhnbezcPYM6jMFlTifTFLLvAGXM23RLCf4+3MeQkU723R2hWcZAZuAwl5ExWFrn44MV0R0klShD9PwLhlipafGoZNj6V1ICDWt4dnob3kjU0atDUWI0ngINd8UN0RIdYtpiLQh0ZlkrcvlgyOfLDw37VU=;WVb0A42c9+qMOaXl1mU4PA=="
 ---

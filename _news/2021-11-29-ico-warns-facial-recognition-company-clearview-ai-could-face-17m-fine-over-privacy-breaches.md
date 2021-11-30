@@ -8,9 +8,9 @@ webUrl: "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognit
 ampWebUrl: "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1"
 type: article
-quality: 63
-heat: -1
-published: false
+quality: 163
+heat: 303
+published: true
 
 provider:
   name: Computer Weekly
@@ -90,22 +90,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1167845607.jpg?w=1024"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Three Critical Facets For Financial Services To Succeed In The Digital Future"
-    excerpt: "We are at an apex of digital transformation, and precision analytics is driving the most successful innovation initiatives across many industries. The unequivocal rise of the connected ecosystem has forced consumers to engage across digital channels,"
-    publishedDateTime: 2021-11-29T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 71
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197a677f53d14e9ec8aedae%2F0x0.jpg"
-        width: 1200
-        height: 799
         isCached: true
   - title: "Facial-Recognition Firm Clearview AI Risks $23 Million Fine for Snooping on Brits"
     excerpt: "Clearview AI Inc. faces a 17 million-pound ($23 million) fine after the U.K.’s data protection watchdog said the facial-recognition firm may have collected images from a “substantial number” of British people without their knowledge."
@@ -199,21 +183,19 @@ related:
         width: 1688
         height: 1190
         isCached: true
-  - title: "Artificial intelligence may not actually be the solution for stopping the spread of fake news"
-    excerpt: "Disinformation has been used in warfare and military strategy over time. But it is undeniably being intensified by the use of smart technologies and social media. This is because these communication technologies provide a relatively low-cost,"
-    publishedDateTime: 2021-11-29T13:50:00Z
-    webUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.amp"
+  - title: "UK: Facial recognition company gets USD22.68M privacy fine"
+    excerpt: "An Australian company that asserts to have a database of over 10 billion facial pictures could face a USD22.68 million sanction for its processing of"
+    publishedDateTime: 2021-11-30T14:40:00Z
+    webUrl: "https://menafn.com/1103279930/UK-Facial-recognition-company-gets-USD2268M-privacy-fine"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 46
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-50.jpg"
-        width: 1356
-        height: 668
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Media_65.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Victory! The ICO provisionally issues £17 million fine against facial recognition company Clearview AI"
     excerpt: "In what could be seen as one of the strongest sanctions against the company in Europe, the Information Commissioner’s Office (ICO), which is tasked with enforcing data protection legislation in the UK,"
@@ -253,6 +235,6 @@ related:
         height: 500
         isCached: true
 
-secured: "eWtyVGIqRYXqHpmxuB8OCoBKyADs0EkIgmX2hXdFp5SsBHL/qvneUlhu2HHSWM3HowfJ5ot7nD2TW59Ho6H/jijneuLlUmU1TWHzZ2JhmpilEq9jXqEdcZES7iU3GcW5MPEYYjC5P7nTD5fMK3cYOnr+aLqEk99PX53XSFq0zCFlx5FYglz+fs6dtH1bzT/A7jHWu0ziHLo4mqPlF0yy8sWnAWo6Ezvz9UiWZV5JbwcIPy1bEAtSDES3j8N9p0wBDiTx5sSMX7wOyDYtPQ7F791DwmlMHiVOm/o2bSKjAFXg+Xv3ANKaOTWqhcmGlMi+lv2EOlkftF0NT6v15Hzsr1ngPsfikT15NJXk0XguOAI=;xPy069lWdW53UUsXZ4zVpQ=="
+secured: "QVwEAfmOyOd+PiWHPgaYO1c+BYfE/6g5oiJZbbc7T8JXgvB+xLGWZe9gsqI/TxHtk4kzRtHg7cxUHUzwgGuyOQIVmtK+hp8KjVsyf16ID+XR0LxXtDlM95OuBGn/QRkllv9x13ektUwnFKxveHEsDjJw1+6HwalGifd6PRp070ZDcys6YHFnzeFgT0s6Mmlc+mddkr5LvHgaXDGX5JBx5pE+c5eIyK+MCmSCW4rRqJndt7e8Up8M8oIUWmeLjzGtEVsfBfjRjUqX3HpnuonTKIVzwvQKbc7zmRT1cLI6O1ApMiu2a2EbCrWu2jumes1uRahBLGFXS1Nt+363+Nr933Iur5AbggT4/sgLugZrgHtbLR88tiJv9zHF4z5K1IbpRy2lQEsE2BnAjpeXI2ndl6POl18CifWnJwrh02LBoLTZb4X7xHSoPilzD+5oi9hkr7TlueCzW5rrRCQBbrc1C1m9QYjqzgNNdojGdo9n8wgSeFtHnqEYNLADCkFlktArIxSNy1HhDRD8XBr9H0saqpyANHGKJnGEW7huEzmoVxA=;ihzA81OGqcTrbH5MvuGA2Q=="
 ---
 

@@ -27,42 +27,66 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Drug Discovery Markets - Global Industry Analysis, Trends, Market Size, and Forecasts to 2027 - ResearchAndMarkets.com"
-    excerpt: "How to Find Winning Stocks with Omicron Variant Looming! CLICK TO WATCH! The \"Artificial Intelligence (AI) in Drug Discovery Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-11-29T11:26:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24327562/artificial-intelligence-ai-in-drug-discovery-markets-global-industry-analysis-trends-market-size-a"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24327562"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24327562"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Global Artificial Intelligence ai in Drug Discovery market 2021 Analysis & Forecast to 2028 by Key Players, Share, Trend, Segmentation"
-    excerpt: "Nowadays businesses are highly relying on the different segments covered in the market research report which presents better insights to drive the business into right direction Artificial Intelligence ai in Drug Discovery market report presents the company profile product specifications"
-    publishedDateTime: 2021-11-26T07:23:00Z
-    webUrl: "https://www.openpr.com/news/2475652/global-artificial-intelligence-ai-in-drug-discovery"
-    ampWebUrl: "https://www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
+  - title: "Artificial Intelligence in Healthcare Market: Post COVID Growth Opportunity Analysis, Key Players | NVIDIA, Intel, IBM and Google"
+    excerpt: "According to the report The global Artificial Intelligence in the Healthcare market size was valued at 4 72 Billion in 2020 and is expected to reach 95 31 Billion by 2028 growing at the CAGR of 43 08 from 2021"
+    publishedDateTime: 2021-11-30T14:18:00Z
+    webUrl: "https://www.openpr.com/news/2480076/artificial-intelligence-in-healthcare-market-post-covid"
+    ampWebUrl: "https://www.openpr.com/amp/2480076/artificial-intelligence-in-healthcare-market-post-covid"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2480076/artificial-intelligence-in-healthcare-market-post-covid"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 20
-  - title: "Outlook on the Explainable AI Global Market to 2030 - Opportunity Analysis and Industry Forecasts"
-    excerpt: "The \"Explainable AI Market by Offering, by Deployment, by Technology, by End-use Industry, by Application - Global Opportunity Analysis and Industry Forecast, 2021-2030\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-11-29T16:29:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/11/29/9500623.htm"
+    quality: 45
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub30890192_g.jpg"
+        width: 603
+        height: 380
+        isCached: true
+  - title: "Deep Learning Chipset Market Size 2021 with CAGR of 37.1%, Top Growth Companies: NVIDIA, Intel, IBM, and, End-User, SWOT Analysis in Industry 2026"
+    excerpt: "In 2021, “ Deep Learning Chipset Market “ Size, Status and Market Insights, Forecast to 2027 |( Number of Pages:121)"
+    publishedDateTime: 2021-11-27T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-2021-with-cagr-of-371-top-growth-companies-nvidia-intel-ibm-and-end-user-swot-analysis-in-industry-2026-2021-11-27"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Healing Robots Market : Global and Regional Analysis with Forecast till 2028, Business Opportunities, Post COVID Scenario"
+    excerpt: "According to the report The global Self Healing Robots market size is expected to reach Billion by 2028 growing at the CAGR of 75 26 from 2021 to 2028 The rising production and consumption of robots and labor saving devices"
+    publishedDateTime: 2021-11-29T12:56:00Z
+    webUrl: "https://www.openpr.com/news/2478157/self-healing-robots-market-global-and-regional-analysis-with"
+    ampWebUrl: "https://www.openpr.com/amp/2478157/self-healing-robots-market-global-and-regional-analysis-with"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2478157/self-healing-robots-market-global-and-regional-analysis-with"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 16
+    images:
+      - url: "https://cdn.openpr.com/U/b/Ub29326385_g.jpg"
+        width: 602
+        height: 394
+        isCached: true
+  - title: "Global Blockchain Distributed Ledger Market Outlook to 2026 with Profiles of Key Players, Including Accenture, AWS, Huawei Technologies, Intel, IBM, i"
+    excerpt: "The \"Blockchain Distributed Ledger Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global blockchain distributed ledger market exhibited robust growth during 2015-2020."
+    publishedDateTime: 2021-11-26T15:32:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=577943"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "gksxs7U6coqJBTVXBLXddDz66i8kwVQzI+lHo91+fqr7qfiQXMmYdRGokZrdoOuMpGPTOTXQvgqwotYbpYBS5EUkaqEK2Zcd/bzToVJNta+t9aHw44KFh56sd5bB8r4U/PyBhbCPzFyzMnkEqeTXzep+p3WGu1AyWYtZPOQSxeBIcsfjLaLdbqFjFbSh6ocq35BXu7WTcwiMQMGy5Rk8taXJSNgXpT3kek0hFc6GwN/pszpby8d6ZRemXmBdzoyWPveb+oPBHCw8jNS8gTZUPBt2wMExowJ9E86tmOl5O4TMCgpsOGr64KdvkOWAPNmz8BmV5D1xwGC5U4FYYkP0c8YYv0IgQaYuNPXxZe8pXCk=;QlVYDOlvOFV/lDuteLQIdA=="
 ---

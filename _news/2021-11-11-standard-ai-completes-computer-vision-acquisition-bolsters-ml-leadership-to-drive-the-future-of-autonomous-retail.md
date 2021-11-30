@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Standard AI Completes Computer Vision Acquisition, Bolsters ML Leadership to Drive the Future of Autonomous Retail"
-excerpt: "Standard AI (alt. “Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition of UK-based computer vision company, ThirdEye Labs (“ThirdEye”); and added Sameer Qureshi, who joins from ..."
-publishedDateTime: 2021-11-10T17:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-7e05400f94394a46ae38b0a4611b3a6f"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-europe-7e05400f94394a46ae38b0a4611b3a6f"
+excerpt: "“Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition ... AI platform in exciting new ways to drive forward the future of ..."
+publishedDateTime: 2021-11-10T17:17:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail"
+webUrl: "https://aithority.com/computer-vision/standard-ai-completes-computer-vision-acquisition-bolsters-ml-leadership-to-drive-the-future-of-autonomous-retail/"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - Computer Vision
   - AI
   - Machine Learning
+  - Computer Vision
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://aithority.com/wp-content/uploads/2021/11/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
-secured: "Lqo5QurvjIPoCbSBl6+kQ5kh/n6p2PjAK/nE33CW5tjyfhVgwCSQ3yhBZrmLJXY5MqvA+VjB0k+maA6nhbzAx9rt3hTrhWmXjtMHAsB7Lx/Y5y+pueuGFsXknrjg4vB7jog4LliaV6XRal7++lS11jDTSHSMrJN7a26ufKPp+kBRDpxBliBjmPOqR3n4FvWl+ldRAfbPKIoCfVzsOD0w2B1FbvmiWqulPzKdX9q2nJOyOGNzzPcZFePstYe0vQkB7vrvL9DsH5ExsjZIosNuI/d4iGVV/i4tOQKKgxkBh1P99gJ7hSf3y1GucAgKxqhqzAbhwoYWCynmkIRiadgFD/NUdv6F5RitCH8ugZMpnag=;5/YTHC+Tyz8fNBbsJ3xmaA=="
+secured: "RK2mkFnlBsgxxKuWPORiHL2HKxt5xLeRt6G3t8Ipw5XzdjXUej+N8S5se4QdUumsSGlASPFjDjM+xiHdFtKoe3Hai4vueCUwhP3PwKD9nrt4Ofu+UOib848ax0GcF+NLMO26QDr+d347Z4Q9KBCGaLxaxgFN7svzKNTThJXWG9gzKtUc7/GAXL+mPN+304OkoqLz32EFf8Pyrlg4Y/5tkJRoBx5lwzMIsjJACi/si4+KePnh5VUTJJI3LCtIe/NUPtrWuoT1Z8vAhTMfNh5bWGbko75RjZF8gWZu13TwaqaYaOBd79KzjUcA/SMNInpIexL6D5LQe1f+n1cDuaJ6TcoTfoE/7AXJD2B2TTuriNA=;SC+saJ4KZifqE5HuDvy/DQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-29-three-critical-facets-for-financial-services-to-succeed-in-the-digital-future.md",
+      "title": "Three Critical Facets For Financial Services To Succeed In The Digital Future",
+      "excerpt": "We are at an apex of digital transformation, and precision analytics is driving the most successful innovation initiatives across many industries. The unequivocal rise of the connected ecosystem has forced consumers to engage across digital channels,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197a677f53d14e9ec8aedae%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/11/29/three-critical-facets-for-financial-services-to-succeed-in-the-digital-future/amp/",
+      "publishedDateTime": "2021-11-29T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-view-how-to-take-fintech-banks-to-the-next-level.md",
       "title": "View: How to take fintech banks to the next level",
       "excerpt": "India has the highest fintech adoption rate of 87%, against the global average of 64%. Several new segments of fintech startups have emerged, and are gaining popularity among consumers in India. These are redefining financial services for customers and providing more value to them.",
@@ -43,50 +95,6 @@
         "Microsoft AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022.md",
-      "title": "AI and Machine Learning, Cloud Computing, and 5G Will Dominate in 2022",
-      "excerpt": "Artificial Intelligence (AI) and machine learning, cloud computing, and 5G will be the most important technologies in 2022, according to a survey to global technology leaders from the U.S., U.K., China,",
-      "sourceUrl": null,
-      "webUrl": "https://iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/",
-      "originalUrl": "https://iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://iblnews.org/wp-content/uploads/2021/11/impactoftech.jpg",
-          "width": 860,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/amp/",
-      "cdnAmpWebUrl": "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/amp/",
-      "publishedDateTime": "2021-11-26T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBL News",
-        "domain": "iblnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1005,10 +1013,10 @@
     {
       "path": "_news/2021-11-11-ai-and-machine-learning-in-financial-services.md",
       "title": "AI and machine learning in financial services",
-      "excerpt": "AI and machine learning in financial services While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption ...",
+      "excerpt": "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes.",
       "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
-      "originalUrl": "https://www.infoworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
+      "webUrl": "https://www.computerworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
+      "originalUrl": "https://www.computerworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1018,21 +1026,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T13:55:00-08:00",
+      "publishedDateTime": "2021-11-10T17:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

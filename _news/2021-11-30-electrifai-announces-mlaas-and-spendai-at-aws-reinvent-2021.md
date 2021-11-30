@@ -113,6 +113,20 @@ related:
         width: 610
         height: 458
         isCached: true
+  - title: "BigID Announces Auto-Discovery Apps for Cloud at AWS re:Invent"
+    excerpt: "BigID, the leading data intelligence platform, has launched a set of Auto Discovery apps to allow customers to quickly and automatically find sensitive and personal data stored in the cloud.  The new Automatic Discovery Apps are designed for"
+    publishedDateTime: 2021-11-30T13:48:00Z
+    webUrl: "https://www.lelezard.com/en/news-20131739.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "hy9PIO3AOVJuFEcF6l6aAf2s9Ao7sjJ8DfnF6IdfygBmrs4DTP0Ugmxl1hv2bwHzOnFtLX6oE/TbvCFfpauJGw007E2Y7TFvA1pVPKh6EuEw40zEioSyeu0pwk4+YhEkznqGKtQU2syWkQqMR4Dbof85TSJKW9QiKmu9e7qrDgKU2wq1q5oHT5R5KVkq1g3pbLY02wM7pNLOarzyHNTbuwvyjfJOV95dZZQEE0kXYg7XD0pFTFyI+Ot2ssbN40pu3Ex72L1eYx/4ssQUFZUW3wOI0HvQ0TqPxurKruvt5JQGu3WmPFbYcH+rQnlCkL1uyDQpF9Jij/9Lw3fQUEhtenkimLwmwFrsTSZk5yvQQg8hdDR/u04FQhumiFrrNsOBtYmMZopRfpIAfOVNIUFCSv1boEARLNzH5jklTPXhZshCnWhnFhRgp4zxY+xDO9yN1nON+gEZJYtsvIry8kiel0q/dClIbMTeJg+xsQyziee2Z+rDtpgRYme3KHxaNr8oUkXT1rI3+zYnNC8EmZi+iA==;ye86X5gF+z81IV8LyoNkEg=="
 ---

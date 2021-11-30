@@ -8,9 +8,9 @@ webUrl: "https://breakingdefense.com/2021/11/exclusive-pentagon-weighing-reorgan
 ampWebUrl: "https://breakingdefense.com/2021/11/exclusive-pentagon-weighing-reorganization-of-ai-data-offices/amp/"
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/11/exclusive-pentagon-weighing-reorganization-of-ai-data-offices/amp/"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 157
+heat: 157
+published: true
 
 provider:
   name: Breaking Defense
@@ -25,6 +25,6 @@ images:
     height: 900
     isCached: true
 
-secured: "UL60cNIsI97PJwFxhID1T2vU262GyqtMqxaCa6e0obZ6/8leFzTYyDILcZYBwIRJ7kaPJ+eAHt3mxSZYmPPh1CMBXwJ+JolunDb/IK347EyYJOv72M5IIjmWPClFGjQJT0EXeEG2YFerNQ9JG61RzMsxC+JgKIgH0N7wUQZAhwTHGYiTtY4y4CsnqI5ydD1CXA5ISbZe3wMDHbodYRK/H/Q+bJgdw7G3EMaJzL6LkJeYx82ClEeuEEJBgi/OXhmTH3cAZlpCoE97KNYBp0y+To4tokb7RnR/V+Xzw56C3lExrqsfArdtDmc7bIvGMlLq7I2MCBfZxckofSW5D3SzztiKWosy/7qstfcboAfQm+Q=;a3nbkQef8BvEWpNHpm2OvA=="
+secured: "DHV/yJVY5B8PsHin1nXXewgHi5nJtm0/4wOrRiBDsYma9/IBufkDbARYlHKKGB4jdN7wFZe1yiSt0kpXbF/4i3iGviHSQO9YQKvM3fyAaYVa5uuFm8cHO05/F/1H9iFjaKYqL9riUM+QuKj6bkh9sqbyfD1Xe3iYF8YAkFp2qBqvOv7DUkE4jmXhgtHZfy5abgyLrUfV5rvz1vMNKRdIWpCFt/ztMxTLe+/p4GulK0ytmHGrVuYAMa+ln7jl/aWyVXaYl6iVmLE0CYWfXSvtSOwDcTRSaw7eELsrLMZxiS3yymVc/XNyU5Xh3SAWgiHdfRsAiCZaEeDhBDqDFhyXuGqI83ldBwQtWuygef6kRktAQhNwSTy7yaRa3HuVOGFV/RGPV6xe9ZLnH1g4BmQXc5G45RZ9T5rybM6Ipylw1X1DljfKFiIEKX0VbiWgW3dLvfL0FX02uw2ETB3YGnTwIhMTrJx0F4V2jcjQBgtu4toYc09zXfnU7drJAkc3VPaO7cmy2RDVzJ7zxM3Di0e6Q10L2bIGKx/4b2urpMlPwbI=;BnMi//Ywk0AiAPh58RtLcw=="
 ---
 

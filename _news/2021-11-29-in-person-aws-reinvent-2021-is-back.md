@@ -9,7 +9,7 @@ ampWebUrl: "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-ba
 cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -112,6 +112,20 @@ related:
       - url: "https://www.crn.com/resources/026f-13d709a952d4-bb07aeb87d76-1000/aws-reinvent-21.jpg"
         width: 610
         height: 458
+        isCached: true
+  - title: "BigID Announces Auto-Discovery Apps for Cloud at AWS re:Invent"
+    excerpt: "BigID, the leading data intelligence platform, has launched a set of Auto Discovery apps to allow customers to quickly and automatically find sensitive and personal data stored in the cloud.  The new Automatic Discovery Apps are designed for"
+    publishedDateTime: 2021-11-30T13:48:00Z
+    webUrl: "https://www.lelezard.com/en/news-20131739.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 39
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "QW77pH6bh7edRIARtcO3GLZz5yVBK1j1PVwKGSYY29vhF5ArDmK8v4rjf6jkXk2jU7m8jH1aJMBEh4cfYd9TfuZZ0OApebvc+Cgts/1C6AeZ0YWliLIx8C1hWEk53W1Lbv3VpwzD3WWeJdTeMJaK3QNQJC7/W4t55PRENqcN2KA/CkijTQhJmlIyGgB/knVb0Wvkzcilcd4mAEQ7v+ln+N+bP8zLM1MktLCGAn5yH/YyWkyosKiMtQhwIy3tiwxJruOaKKZj9KW8p8XmPkfyisQ4FhhssIkdQMQeBeClDrUnb6MYgoqbvbbzx8egglGrgO86pw3esaQxFLZUMxnq2xz0GLUtuJaxJWctUIoq1uU=;26m6/AE/eyj+Xjtvfg0atw=="

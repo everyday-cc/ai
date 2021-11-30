@@ -7,8 +7,8 @@ originalUrl: "https://www.technologyrecord.com/Article/hisar-school-and-microsof
 webUrl: "https://www.technologyrecord.com/Article/hisar-school-and-microsoft-turkey-deliver-artificial-intelligence-education-127299"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: technologyrecord.com
@@ -24,6 +24,22 @@ images:
     width: 940
     height: 443
     isCached: true
+
+related:
+  - title: "Taking Microsoft’s Azure Digital Twins to the next level in IoT"
+    excerpt: "As countless IoT applications track live systems, real-time analytics plays an essential role in identifying problems or finding opportunities and then responding fast enough to make a difference. How can digital twins create leverage for implementing real-time analytics in IoT?"
+    publishedDateTime: 2021-11-30T13:04:00Z
+    webUrl: "https://iottechnews.com/news/2021/nov/30/taking-microsoft-azure-digital-twins-to-next-level-in-iot/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 54
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/11/scaleout-software-azure-digital-twins-iot-internet-of-things.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
 
 secured: "xTKmX6ZvVjWKylBXbGFlfRtfy14Rdr9gU/lUbHtllJx7SIDq6bwmRbNw2kAqw7thGns4vhZch3yG6sleP3w0quqhdKYHOEJEuI0f+iK6+yxJP05Qv4K5aBGYF1jvP/GG6dTdYNDH/PlI0EbdyyxQIPzTFSPWeNPpw1fdHz66VqRU45ZyErgvTMkDSVtpfellTKBZiUa8yKkNGZH2bW8xsD7qn6cO5AmQpUqTT9wfMRnV20ozwJZTQpw9owNAl+sYS+PYvMPiSGdiRFZgmwjFQLmnLsPxQnQBr2htNh7guFyfdRn6mZLWZx5xA9XcATZbUnIY8D2mo8ira8vwPoAvfPSSGo2Wrh6PMV1NuF2qVnz6omZSEUjF1FWyReGtPSel9gfr/i9e3rvWsU1wArw5Yr+XKRvBVME8TXs6gOqHqKA+NKRABdzmSgkPLjALNfrEgNbltT69mTrQBg+iLSUU117B2L4ijf0fKxKOPs9GiKi3vRmyneBJxyZ+jkEApE9y2U0EQ1e007G0CW0S8ioG0Q==;DeguSTnduUvre+JksFTTKg=="
 ---

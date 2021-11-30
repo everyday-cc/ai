@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-11-19-new-book-discusses-essential-digital-skills-in-the-ai-age-iq-eq-dq.md",
+      "title": "New Book Discusses Essential Digital Skills In The AI Age: IQ, EQ & DQ",
+      "excerpt": "The DQ Institute, NUS and Penguin Random House SEA, announces the launch of Dr Yuhyun Park’s book entitled “IQ, EQ, DQ: New Intelligence in the AI Age” for readers interested in mastering digital skills and online safety.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-online-safety-df4cfe926f0e0057f48837063b90bef2",
+      "originalUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-online-safety-df4cfe926f0e0057f48837063b90bef2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-19T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-embracing-socratic-paradox-may-lead-to-more-reliable-predictions-from-ai-models.md",
       "title": "Embracing Socratic Paradox May Lead to More Reliable Predictions from AI Models",
       "excerpt": "Next-generation artificial intelligence (AI) models used in public health, IoT, and other critical applications will soon be able to make better decisions and more accurate predictions thanks to a bit of philosophical wisdom being instilled in them at Georgia Tech.",
@@ -1410,58 +1453,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-facebook-is-working-on-ai-tech-that-will-monitor-your-every-move.md",
-      "title": "Facebook is working on AI tech that will monitor your every move",
-      "excerpt": "The data will be open to the research community, the blog post said, but the goal of the project is clear: To create the type of AI that can power a slew of Facebook devices currently in the works.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/facebook-tech-that-watches-your-every-move-2021-10",
-      "originalUrl": "https://www.businessinsider.com/facebook-tech-that-watches-your-every-move-2021-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61683d5c41af0d00193ea120?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-tech-that-watches-your-every-move-2021-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-tech-that-watches-your-every-move-2021-10?amp",
-      "publishedDateTime": "2021-10-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
