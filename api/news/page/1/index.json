@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-01-machine-learning-to-make-sign-language-more-accessible.md",
+      "title": "Machine learning to make sign language more accessible",
+      "excerpt": "Google has spent over twenty years helping to make information accessible and useful in more than 150 languages. And our work is definitely not done, because the internet changes so quickly. About 15% of searches we see are entirely new every day. And when it comes to other types of information beyond",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/accessibility/ml-making-sign-language-more-accessible/",
+      "originalUrl": "https://blog.google/outreach-initiatives/accessibility/ml-making-sign-language-more-accessible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/9DoGwSqjhw3vBUB.max-1300x1300.png",
+          "width": 1215,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/accessibility/ml-making-sign-language-more-accessible/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/ml-making-sign-language-more-accessible/amp/",
+      "publishedDateTime": "2021-11-30T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells.md",
       "title": "Scientists use AI to design self-replicating xenobots from frog cells",
       "excerpt": "Last year, a team of scientists announced the development of “living robots,” a new type of organism made using cells harvested from frog embryos. That same team is back with an update",
@@ -51,6 +104,58 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-qualcomm-targets-ai-and-camera-with-series-8-soc.md",
+      "title": "Qualcomm Targets AI And Camera With Series 8 SoC",
+      "excerpt": "With double the memory, new tensor cores capable of double the processing throughput speed, and enhancements to the other elements of the 7th generation AI Engine, the new SoC will have 4x the overall AI performance of the previous generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/11/30/qualcomm-targets-ai-and-camera-with-series-8-soc/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/11/30/qualcomm-targets-ai-and-camera-with-series-8-soc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a6749a3e06dc733a03d8c8%2F0x0.jpg",
+          "width": 991,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/11/30/qualcomm-targets-ai-and-camera-with-series-8-soc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/11/30/qualcomm-targets-ai-and-camera-with-series-8-soc/amp/",
+      "publishedDateTime": "2021-11-30T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -114,7 +219,7 @@
       "originalUrl": "https://www.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1045,7 +1150,7 @@
       "originalUrl": "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1135,93 +1240,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-healthcare-natural-language-processing-market-is-going-to-boom-3m-cerner-nuance.md",
-      "title": "Healthcare Natural Language Processing Market is Going to Boom | 3M, Cerner, Nuance",
-      "excerpt": "Latest Study on Industrial Growth of Worldwide Healthcare Natural Language Processing Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the Worldwide Healthcare Natural Language Processing market The report contains different market predictions related",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2479613/healthcare-natural-language-processing-market-is-going-to-boom",
-      "originalUrl": "https://www.openpr.com/news/2479613/healthcare-natural-language-processing-market-is-going-to-boom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub30950504_g.jpg",
-          "width": 800,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2479613/healthcare-natural-language-processing-market-is-going-to-boom",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2479613/healthcare-natural-language-processing-market-is-going-to-boom",
-      "publishedDateTime": "2021-11-30T02:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-actions-taken-for-ethical-ai-in-2021.md",
-      "title": "Actions Taken For Ethical AI In 2021",
-      "excerpt": "Countries are investing heavily in AI research and development. However, there are currently no norms or standards in place for ethical AI research, design, or use.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/",
-      "originalUrl": "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/11/Actions-Taken-For-Ethical-AI-In-2021.jpg",
-          "width": 1678,
-          "height": 943,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

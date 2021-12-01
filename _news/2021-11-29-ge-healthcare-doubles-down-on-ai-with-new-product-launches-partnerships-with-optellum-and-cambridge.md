@@ -24,17 +24,6 @@ images:
     height: 587
     isCached: true
 
-related:
-  - title: "GE Healthcare and Optellum Join Forces to Advance Lung Cancer Diagnosis with Artificial Intelligence"
-    excerpt: "Oxford, UK/Chalfont St Giles, 26 November 2021 - GE Healthcare and Optellum today announced that they have signed a letter of intent to collaborate to advance precision diagnosis and treatment of lung cancer."
-    publishedDateTime: 2021-11-26T09:29:00Z
-    webUrl: "https://www.publicnow.com/view/8D7E0F28BF59849F8253869787629ED0347ECEC6"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
-
 secured: "zXGYO+t1uHqtcW28SkDCv8w8pTvT5MrAXMVScE5pIoJWk+AtZyU8fm4XCLE/g0Ws8AP8eXoHCMtj2ylLKqa5VtAC7jv/egO5O/WOHhHMFPte1CvO9SFcUX9vXhqFq19D9PvpwRjNX4q/xuzc8rJweJLNlWmWJjC0KQm7w/cFtigJ+9M5D9e1VeA3DjL5TiXalyGxa5W/6yUdx3D8GbMmrCvMcPeQi6s/WpH1Tz7N6HgtbCOCDJjFAfDqYv9I+qnPL5BqmENKZ1nebGYWG7O+ltyLSKlAK5/Z2GjJSYDRTiHHWQqu06FpqCyq43dU7wlr77ImvUHRxPC7OKruuRb1kb4RswebA0tZrCt9wJlOA/msZdLYnKUz8LUQFZbf07oNewNLCFJshpzmj+gi7WPNiULOQH3ukG4E/sy7dksNnNQPNv+atGDaPpGqyM7q1vbc9jEZFgSpAiMqAgqhpcv04HPDzdFrh0Htth0K8U0bjXwrNntjd+SDFFq4LHWq+DlvAxheHpSGDhRhlMjz/yeR9A==;9bQ8FRObKdgDalcAPO3/Mg=="
 ---
 

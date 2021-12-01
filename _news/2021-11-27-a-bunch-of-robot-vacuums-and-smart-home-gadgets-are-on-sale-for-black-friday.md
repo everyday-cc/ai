@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The 101+ Best Black Friday Deals in 2021"
-    excerpt: "Black Friday 2021 has officially arrived. Find all the best Black Friday deals on Wirecutter-recommended TVs, laptops, vacuums, and more from retailers like Walmart, Best Buy, Amazon, Apple and Home Depot."
-    publishedDateTime: 2021-11-26T10:40:00Z
-    webUrl: "https://www.nytimes.com/wirecutter/money/the-best-black-friday-deals-2021/"
-    ampWebUrl: "https://www.nytimes.com/wirecutter/money/the-best-black-friday-deals-2021/amp/"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/the-best-black-friday-deals-2021/amp/"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://cdn.thewirecutter.com/wp-content/media/2020/11/giftguide-2020-grandparents-2048px-applewatch-8492.jpg?auto=webp&width=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Best Black Friday Deals: AirPods, Robotic Vacuums & Much More"
     excerpt: "Save big on smart TVs, Beats headphones, adidas apparel, Instant Pots, air fryers, the season's hottest toys and everything in between."
     publishedDateTime: 2021-11-26T16:56:00Z

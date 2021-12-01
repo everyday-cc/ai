@@ -9,8 +9,8 @@ ampWebUrl: "https://www.smarteranalyst.com/yahoo/baidus-robotaxi-service-approve
 cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report/amp/"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: Smarter Analyst
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu begins commercial robotaxi services in Beijing"
-    excerpt: "Baidu received the country’s first permit for commercial robotaxi services, a major milestone for Chinese self-driving car industry."
-    publishedDateTime: 2021-11-26T09:16:00Z
-    webUrl: "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/"
-    ampWebUrl: "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://technode.com/wp-content/uploads/2021/11/WechatIMG558的副本.jpeg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Baidu Officially Launches Robotaxi Service In Beijing After Getting The OK To Charge Fees"
-    excerpt: "After the country's capital, Baidu expects other major cities like Shanghai, Guangzhou, and Shenzhen to follow suit"
-    publishedDateTime: 2021-11-26T09:56:00Z
-    webUrl: "https://www.carscoops.com/2021/11/baidu-officially-launches-robotaxi-service-in-beijing-after-getting-the-ok-to-charge-fees/"
-    ampWebUrl: "https://www.carscoops.com/2021/11/baidu-officially-launches-robotaxi-service-in-beijing-after-getting-the-ok-to-charge-fees/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/11/baidu-officially-launches-robotaxi-service-in-beijing-after-getting-the-ok-to-charge-fees/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 50
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/11/Baidu-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
   - title: "Beijing launches first commercial trial of self-driving vehicle"
     excerpt: "The Chinese capital of Beijing launched its first commercial trial of autonomous driving and rolled out relevant management policie"
     publishedDateTime: 2021-11-27T09:02:00Z

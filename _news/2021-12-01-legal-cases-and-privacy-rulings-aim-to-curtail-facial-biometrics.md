@@ -1,0 +1,45 @@
+---
+category: news
+title: "Legal Cases and Privacy Rulings Aim to Curtail Facial Biometrics"
+excerpt: "Decisions in the UK and Australia, and lawsuits in the United States, could force facial-recognition providers to remove data from their machine-learning models."
+publishedDateTime: 2021-11-30T23:00:00Z
+originalUrl: "https://www.darkreading.com/vulnerabilities-threats/legal-cases-and-privacy-policies-threaten-use-of-facial-biometrics"
+webUrl: "https://www.darkreading.com/vulnerabilities-threats/legal-cases-and-privacy-policies-threaten-use-of-facial-biometrics"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: Dark Reading
+  domain: darkreading.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc5cb08894c1db841/61a6a1e261a2a97c7a4fa228/FacialBiometrics_EyeEm_Alamy.jpeg"
+    width: 656
+    height: 656
+    isCached: true
+
+related:
+  - title: "Veridas achieves high scores in NIST face and voice biometrics accuracy evaluation"
+    excerpt: "Veridas has scored impressive results in the joint face-and-voice-recognition biometrics evaluation from the National Institute of Standards and Technology."
+    publishedDateTime: 2021-11-29T19:31:00Z
+    webUrl: "https://www.biometricupdate.com/202111/veridas-achieves-high-scores-in-nist-face-and-voice-biometrics-accuracy-evaluation"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/05/06171613/7052BDC7-83B9-4556-BACE-D20ABFE7057B.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "3Wh6iyxzDzKa8vWjlOMGzx1VhUk6zZ7P7m1LPloouh7cFo/yvEYJB8RziW/s9C025nnmzgAPV+jE6p0UPaDiK5ZhPJt47tqdf3fTOVqSuRKRHLQItWyxoh16zAbRNxM4NgIH+/69lXHDmsZUKDNA8COz+vnsEaxeKONrLS8mUExRA46XqKwve3OZIolIOXVtcC6lAptXDR7igqcp0QPGmuf3l+X7gEQqN/BCDNbMBUyP05CeMESjWKIiK7/Jg/yiaaxVzspkHuoxaaeUD18DGa4eLW+9Mu+Y2wWenuQJWCcsmDlRE8N4uPtPXu+j5mZy+TJWrVv3CRIz3htDCnFh+4O46gV9jhqQb7lsmJt7P9I=;5BQKcEgb7dBiJoQCibdxTw=="
+---
+

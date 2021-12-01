@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202111/veridas-achieves-high-score
 webUrl: "https://www.biometricupdate.com/202111/veridas-achieves-high-scores-in-nist-face-and-voice-biometrics-accuracy-evaluation"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Legal Cases and Privacy Rulings Aim to Curtail Facial Biometrics"
+    excerpt: "Decisions in the UK and Australia, and lawsuits in the United States, could force facial-recognition providers to remove data from their machine-learning models."
+    publishedDateTime: 2021-11-30T23:00:00Z
+    webUrl: "https://www.darkreading.com/vulnerabilities-threats/legal-cases-and-privacy-policies-threaten-use-of-facial-biometrics"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc5cb08894c1db841/61a6a1e261a2a97c7a4fa228/FacialBiometrics_EyeEm_Alamy.jpeg"
+        width: 656
+        height: 656
+        isCached: true
 
 secured: "h6V5Qbbqqxt5hJyODDySi2tZWNi3j5F1RtJy7INm1OzYJln/mi4d3k6W0MJvREb27AaCvaiEFQ7E+CDHe0olYtG9kYPmHEKQMsR8s3uENuQLCEAs1TqpqpuVnGJdeKwpqNoTqX+7zge27bHdHbn3fI/7u9whG2oseBT+fcXcynaGTksGT14w0qD+UcMZDD1oCrgJ8DSO22lYAeeWu9MPVj8ueh/bIcPsm6bbFM1AUq7o0fMfcPJeFUChZl2dhbOI0rFLFYL6FRzc5mgzIuZSQgre9K1zAeZ0+9t0WNGHKN+7zpIBVzFqOS8B3TDY8NP2H6z+/7KJmdvl8ezaF6v3a4KgQXLXRzrugZ+ToF833UN2FAFoqTx7rR5oF9e8GW25nGkgxcrTcpajTCcGTMQ9Z+8adLj/NefcjwvSacz9tVYD6ZxaEQoWNd2hSoXpj4eTmARU39rmnoA8JA0dySuy3HhuoRykb9sz6fP/Qw0/Mz0hv4VrHCVN+z/sF5Y+AsEkX3lpW/jDdL1GfMnPy+uVRQ==;7hnwkCrST4/a7fxWdhXLZg=="
 ---

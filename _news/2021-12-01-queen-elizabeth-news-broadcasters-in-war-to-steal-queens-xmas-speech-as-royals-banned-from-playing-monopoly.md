@@ -3,27 +3,29 @@ category: news
 title: "Queen Elizabeth news – Broadcasters in war to steal Queen’s Xmas speech as royals banned from playing Monopoly"
 excerpt: "CHANNEL 4 has entered the race to air the Queen’s Christmas Day speech. The broadcaster’s application comes in the wake of the Royal Family falling out with the BBC. An insider said: “This is a"
 publishedDateTime: 2021-11-30T21:19:00Z
-originalUrl: "https://www.thesun.co.uk/fabulous/16894789/queen-elizabeth-news-christmas-speech-bbc-channel4/"
-webUrl: "https://www.thesun.co.uk/fabulous/16894789/queen-elizabeth-news-christmas-speech-bbc-channel4/"
+originalUrl: "https://www.the-sun.com/lifestyle/4173671/queen-elizabeth-news-christmas-speech-bbc-channel4/"
+webUrl: "https://www.the-sun.com/lifestyle/4173671/queen-elizabeth-news-christmas-speech-bbc-channel4/"
+ampWebUrl: "https://www.the-sun.com/lifestyle/4173671/queen-elizabeth-news-christmas-speech-bbc-channel4/amp/"
+cdnAmpWebUrl: "https://www-the--sun-com.cdn.ampproject.org/c/s/www.the-sun.com/lifestyle/4173671/queen-elizabeth-news-christmas-speech-bbc-channel4/amp/"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
   name: The Sun
-  domain: thesun.co.uk
+  domain: the-sun.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2021/11/Royals-teaser-10.png?strip=all&quality=100&w=1200&h=800&crop=1"
+  - url: "https://www.the-sun.com/wp-content/uploads/sites/6/2021/11/Royals-teaser-10.png?strip=all&quality=100&w=1200&h=800&crop=1"
     width: 1200
     height: 800
     isCached: true
 
-secured: "PZChw5sCw5IxKH020OgdQvQZZguQu1R/dM39wC/nPdRdaoOovySWrF4v6IvoVh0lWhpVQD2fdnbzh4HMA+FLf/1goywpm0mWRPtB3z+HVj4vzpDyxqVIZV2oZRSFcH5v6plY4rdve7YaNqZ83apJwWvxjyfdDH9AqHkHeRbIQm1uY5+K7s+zUunL/VPQxtaFv0kCpTrZd3LhO6hsYe1QqY7ytkPPWoK7Rzg4C8oBaoH01+otxy0EJlkt/Lqu2+j6Rm8VbtbCiDLjFOmdsY3A9zb+qiwyaWqW3W0qK2rbHrDLhWD3mpfoeZmvkUSYkDcRidozkR6YYWcaAc7rTarVTo5a+t6ss7XLy0Rxj+H6/eI=;8TlPfwrEdZcjm+SmlF86EQ=="
+secured: "kZZFfn2Qq7U2ambiZ7D1EBRfhkc32gZSlbHIg8XfNs6bYff1kXJeMHIvyHhb7w0qOWdlsOvI/GjvQ2qBuwHl9mADvzVg9BNO6SmGV3W5t9r4JSRoXFxnsjsY52uGhFMi+oZbCI/65tR5F6fQbbAppadfJdRHHGsbpcDcsRqFkWXuyOl7drkZIzunhhlHicyu+mrQZKNcV85knEM9iegM2PbEiqGzCwXqGVW/sz2JZ5HcvnPNLz0bhtXxBFnI+orUY8RSRmNIAlJsZa+4l5CWpHaCEhbIJYEnUoM9ut50NQIl6gVw8yCIAqU1IANVf1XOyPatMFb7syJzbN0R4bo9QB7ncI1EPm56HK9pYPwdO9A=;78/79ldm8zOAP8fHmZsEgw=="
 ---
 

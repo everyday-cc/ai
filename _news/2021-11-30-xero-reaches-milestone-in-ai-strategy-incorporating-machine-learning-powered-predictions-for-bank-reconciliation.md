@@ -9,7 +9,7 @@ ampWebUrl: "https://m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-i
 cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -20,22 +20,6 @@ topics:
   - Machine Learning
   - AI
   - AI in Finance
-
-related:
-  - title: "Canon Medical Introduces Super-Resolution Deep-Learning Reconstruction for Cardiac CT Scans"
-    excerpt: "Canon Medical is breaking ground once again with the introduction of Precise IQ Engine (PIQE) DLR and SilverBeam filter in the latest version of the Aquilion ONE / PRISM edition. PIQE, super-resolution deep-learning reconstruction technology for cardiac CT scans,"
-    publishedDateTime: 2021-11-28T13:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-ct-scans-e227cdf8a8d04ec7ada2992850e3398a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 14
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "5rermz6xoalqDVeePcliBWyYdjGho2CZ28s2EBioMFD97YfRWvebeNs9ys/ibc2snEhqE3oVw/u/+kxgLz+7YxR6/OJ8jlCPjgBD9BdUQDfElxgieTBE4/oERPl7XFT59eUvimDpErel3NgHSc0J8vG8pwY7FyZ36+yP3IAgXz+xpVV3MVwej95tq2T7AuoupL27dZIhAi4yaM2Pwz4yDQlYyOhaL5fZGEaNiUzqErUsv2hkcITS45yqap8b8Nky5Mu3bDSLVooQBF5o4RARzObSRPF/Il9EGxLcYDF/qeWGucmDbTI7DsuqAjV/rGBZGHF8QiApP41umy3ok/CX7CwT65K470zZY5laDnQr/ew=;RFYdoGDQwjIJnsnIB7Ow5g=="
 ---

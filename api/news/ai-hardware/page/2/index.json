@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-17-supermicro-universal-gpu-servers-announced.md",
+      "title": "Supermicro Universal GPU Servers Announced",
+      "excerpt": "Supermicro has announced Universal GPU modular servers, which will allow users to configure systems for their specific applications and workloads, giving them the choice of mixing and matching components like GPUs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced",
+      "originalUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.storagereview.com/wp-content/uploads/2021/11/StorageReview-supermicro-Total-IT-Solutions-universal-GPU-front2.jpg",
+          "width": 964,
+          "height": 471,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced?amp",
+      "cdnAmpWebUrl": "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/supermicro-universal-gpu-servers-announced?amp",
+      "publishedDateTime": "2021-11-16T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StorageReview",
+        "domain": "storagereview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-rethinking-ai-dire-warnings-and-imperfect-results.md",
       "title": "Rethinking AI: Dire Warnings And Imperfect Results",
       "excerpt": "AI has been in the news a lot lately, and not all for good reasons. What are the issues? I am write about some of them here.",
@@ -1419,49 +1462,6 @@
         "name": "Cheddar",
         "domain": "cheddar.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads.md",
-      "title": "AMD rolls out Instinct MI200 GPUs for HPC and AI workloads",
-      "excerpt": "AMD on Monday unveiled the Instinct MI200 accelerator, the latest generation of its data center GPU. The chipmaker says it's the fastest HPC and AI accelerator, surpassing records set by the MI100, rolled out last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
-      "originalUrl": "https://www.zdnet.com/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
-      "publishedDateTime": "2021-11-08T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

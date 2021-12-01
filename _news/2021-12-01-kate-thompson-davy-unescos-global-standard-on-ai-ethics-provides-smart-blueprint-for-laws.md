@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Unesco member states adopt global artificial intelligence ethics"
-    excerpt: "The global agreement, adopted by Unesco’s 193 member states, which includes SA, addresses the increased gender and ethnic bias posed by AI."
-    publishedDateTime: 2021-11-26T10:30:00Z
-    webUrl: "https://www.itweb.co.za/content/O2rQGMAnog9qd1ea"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/O2rQGMAnog9qd1ea"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/O2rQGMAnog9qd1ea"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://lh3.googleusercontent.com/bVXnIuD5cZ7d-8D3A5ISv2p2z2XsJBCbqhUvoAKs6LS8t9L_IdaIoZ5mqUuuonx7Rk75_LuUWMUG-_ufYR8-TulFsdxILOr8c25Z=w816-h428"
-        width: 816
-        height: 414
-        isCached: true
   - title: "UNESCO member states adopt the first ever global agreement on the Ethics of Artificial Intelligence"
     excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference.T"
     publishedDateTime: 2021-11-26T22:18:00Z

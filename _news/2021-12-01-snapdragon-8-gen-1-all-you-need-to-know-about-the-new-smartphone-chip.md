@@ -7,7 +7,7 @@ originalUrl: "https://www.trustedreviews.com/news/snapdragon-8-gen-1-specs-featu
 webUrl: "https://www.trustedreviews.com/news/snapdragon-8-gen-1-specs-features-benchmarks-4185549"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 1742
     isCached: true
 
-secured: "WmIavFUkVJCjxqQ2h0V+q1Wsx3MEFLxqE/aCGEB1dQNKEUuoen3KHVBJWb/yC1FO3g0ULReWj5HQn55p4YgbTrYn/LrYuc9j0MG5VROAp+/ZbaOzQqi1m/ApCoZs3fDFyAlUQ+zF2G3BpER1oLiLXIZZcrv/QnoU7KM/qwkbTl4s8fU1DnpJC9k2faleLlozwW9fUHaMm227Bg/VRU8RtsWxX2AtoYe4jOzL0eIVY8hbk8Ze3vDbeham3iOn9N2S9lUmh8mJnuC71CWKL80tle0Uj64IdolvEZaCrjHU2uwI29kO27o0yvWNfn5z7Cie0ZvRD89UOxqGcilGPhHBYWa6SwvYX0cUfA6ucHo1dNA=;+ZhgXCzre/6OvuRImuPv9A=="
+related:
+  - title: "The new Snapdragon 8 Gen 1 is all about big cameras, fast connections, and AI"
+    excerpt: "There's no question that Qualcomm's Snapdragon 888 was a major step forward for smartphone performance, but it was far from a perfect chipset. Plenty of users and developers alike found the 888 running fast and hot,"
+    publishedDateTime: 2021-11-30T23:01:00Z
+    webUrl: "https://www.androidpolice.com/the-new-snapdragon-8-gen-1-is-all-about-big-cameras-fast-connections-and-ai/"
+    ampWebUrl: "https://www.androidpolice.com/the-new-snapdragon-8-gen-1-is-all-about-big-cameras-fast-connections-and-ai/amp/"
+    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/the-new-snapdragon-8-gen-1-is-all-about-big-cameras-fast-connections-and-ai/amp/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 56
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/11/snapdragon-8-gen-1-hero.jpg"
+        width: 2000
+        height: 1308
+        isCached: true
+
+secured: "d6Bf9l00BcFFVe9wd82VZ/AP/L/es67qyYX1m8Zk4zX81+XCmegvM58uDWcvHSCPLAARYP/jUxUWLJ6za4OWS80sCaBri9junMWi4kJtHK4UOw/ofkn+7TxI5hCmE1monc49bIzkqFP6NypjYRNBWSQ2EhIFMh1ucgS295YWYeb3QiusgvElsZDMYY14T+tn77dlFZDjlLUkJVjD2YX/vK+sp+y6Og6hdZMo9sVB1f1wRk1qHEtmxuh1zEpe4oXXGn7wUNAq1vM/+4CIq0tV+fuLFl7j1s4ykccsxg0gXTwBgyn7RN4h3huFhK7FyZ+LZiRIA/nQ6u68yxQu/wlYJ+Fr0WcpyxoQeS471olURtreTwBdnKsQESxxl2ikLZMstHLmadAjPcGEKwVNUBjq5HJmijS8VrBajBpdN0WkICg0tWgKVAnDueg2xYKxZHtjEqiu5Rm6wCQgo9uqihVTCbeKMP5+5CVF1ot5e0DDnI3sEqRP4/REJO6GyXlnwqWwRLPQWBpBZbQjLbtakCMm+Q==;J9yFitl4v9eMWTAHQrcaAw=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-01-qualcomm-targets-ai-and-camera-with-series-8-soc.md",
+      "title": "Qualcomm Targets AI And Camera With Series 8 SoC",
+      "excerpt": "With double the memory, new tensor cores capable of double the processing throughput speed, and enhancements to the other elements of the 7th generation AI Engine, the new SoC will have 4x the overall AI performance of the previous generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/11/30/qualcomm-targets-ai-and-camera-with-series-8-soc/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/11/30/qualcomm-targets-ai-and-camera-with-series-8-soc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a6749a3e06dc733a03d8c8%2F0x0.jpg",
+          "width": 991,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/11/30/qualcomm-targets-ai-and-camera-with-series-8-soc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/11/30/qualcomm-targets-ai-and-camera-with-series-8-soc/amp/",
+      "publishedDateTime": "2021-11-30T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight.md",
       "title": "AWS re:Invent: Faster chips, smarter AI, and developer tools grab the spotlight",
       "excerpt": "Invent conference, an event where it typically announces the biggest changes in the cloud computing industry’s dominant platform. This year’s news includes faster chips, more aggressive artificial intelligence,",
@@ -1395,49 +1447,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-supermicro-universal-gpu-servers-announced.md",
-      "title": "Supermicro Universal GPU Servers Announced",
-      "excerpt": "Supermicro has announced Universal GPU modular servers, which will allow users to configure systems for their specific applications and workloads, giving them the choice of mixing and matching components like GPUs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced",
-      "originalUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.storagereview.com/wp-content/uploads/2021/11/StorageReview-supermicro-Total-IT-Solutions-universal-GPU-front2.jpg",
-          "width": 964,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.storagereview.com/news/supermicro-universal-gpu-servers-announced?amp",
-      "cdnAmpWebUrl": "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/supermicro-universal-gpu-servers-announced?amp",
-      "publishedDateTime": "2021-11-16T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StorageReview",
-        "domain": "storagereview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
