@@ -2,21 +2,28 @@
 category: news
 title: "AWS Announces New Serverless Options for Three Analytics Services"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
-publishedDateTime: 2021-11-30T22:40:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211130005973/en/AWS-Announces-New-Serverless-Options-for-Three-Analytics-Services"
-webUrl: "https://www.businesswire.com/news/home/20211130005973/en/AWS-Announces-New-Serverless-Options-for-Three-Analytics-Services"
+publishedDateTime: 2021-11-30T17:41:00Z
+originalUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
+webUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
+  - AWS AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
+    width: 320
+    height: 300
+    isCached: true
 
 related:
   - title: "AWS gets a no-code ML service"
@@ -82,6 +89,20 @@ related:
         height: 600
         isCached: true
   - title: "Astadia Joins the AWS Mainframe Modernization Service"
+    excerpt: "Astadia joins the AWS Mainframe Modernization Service initiative to support organizations that are moving mainframe workloads to AWS.Enterprises and government agencies can license the Astadia Migration Factory to simplify,"
+    publishedDateTime: 2021-12-01T15:31:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=580660"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 54
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Astadia Joins the AWS Mainframe Modernization Service"
     excerpt: "Astadia, the mainframe to cloud company, joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions and experience in migrating mainframe workloads to AWS."
     publishedDateTime: 2021-12-01T16:53:00Z
     webUrl: "https://www.lelezard.com/en/news-20135524.html"
@@ -96,6 +117,6 @@ related:
         height: 480
         isCached: true
 
-secured: "4t5scScpTKLpKlrKN7w5HsdKemBeizIj4GF2XfGCsGxtQaJ3ETPysNfL2XoiBpepCzFBtr54Nj7do6oOtE/jpZUIYrB8XN4mpZFE6wV3O1qKOIoZx+bIjk3ArndoJOijqhELysE+AUp5lm4IdsxS8jgZF6E+vGQiDSAfHgiYf/S3Yr29XrlFtBOv5wn1le1kXil8DmcuGaiGnBsDS+E1g+7xZ/dpK3piRNivN3uoP3cxqYzbliasKCBaXNvO0JLlg/qDWzDvv+7xFQB2kyuTdmmkSaF+t/djEsvucduNw0bOVyd2hWMJBjMSFv0KWUSsRlL8oiX3816S5t0zxvdcy+6UhVjwKH2e5agxDS/q0IY=;6YsYpejsNiopmvsZvP9e/Q=="
+secured: "IISssz/FRwzlW3O0ijxkwuBBU2LQecj1y5Hx4bMr8+TQTwRA7E4us9tAeE7en8Ljxu2+sPpfHpWOUdhgZr+jV97UXY8XX7HM5hyQjEH7KyNuEexg4ITBqNeBxlyOKrzLgd7datN0jYfP0XTJuDVYpO8gJTRvKYrUALEzp54YoRjTVsafgMxdA4GIJRlWme9SdyN/UxCcmF2ilcglfrc6xYoSGZLVIsG+oTP2OBtW9A9I73NuuRrZ/92zkMQZtb7ZaiLyDf1mMQ7PGpNun9t1K15Bw9t2ttSYJjr3Zo3t1S4aoPMUMQrIGcE2RIXVUSktLgB+yzM+A5tX7fQQFTyupNu0rck5/hIQZ0gaXgdfHuA=;uEDmAla6/G3lCTgv78KyoQ=="
 ---
 

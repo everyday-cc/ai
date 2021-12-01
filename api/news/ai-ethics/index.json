@@ -2,6 +2,42 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-02-security-privacy-risks-of-artificial-intelligence-in-healthcare.md",
+      "title": "Security, Privacy Risks of Artificial Intelligence in Healthcare",
+      "excerpt": "While regulatory agencies work to catch up to technological advances, the security and privacy risks of artificial intelligence in healthcare remain.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/features/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "originalUrl": "https://healthitsecurity.com/features/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "publishedDateTime": "2021-12-01T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Security",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-ai-strategic-competition-norms-and-the-ethics-of-global-empire.md",
       "title": "AI Strategic Competition, Norms, and the Ethics of Global Empire",
       "excerpt": "Western democracies should play an active role in shaping the norms governing artificial intelligence and other advanced technologies.",
@@ -53,7 +89,7 @@
       "originalUrl": "https://www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -287,7 +323,7 @@
       "originalUrl": "https://www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1399,50 +1435,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-strange-news-virgin-condor-births-ethical-ai-facebook-and-facial-recognition.md",
-      "title": "Strange News: Virgin Condor Births, Ethical AI, Facebook and Facial Recognition",
-      "excerpt": "Check out this great listen on Audible.com. Scientists discover that the endangered California Condor is capable of producing offspring without the presence of male condors, prompting troubling questions for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.audible.com/pd/B09LVW43PR",
-      "originalUrl": "https://www.audible.com/pd/B09LVW43PR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/61CIjwuBRcS._SL500_.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Audible",
-        "domain": "audible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

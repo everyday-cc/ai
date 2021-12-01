@@ -1,29 +1,27 @@
 ---
 category: news
 title: "UAE launches first driverless, 100% electric vehicle"
-excerpt: "The driverless and 100% electric shuttle is ... and Best Use of Automation categories at the prestigious 2021 Artificial Intelligence (AI) and Machine Learning Awards in the UK."
-publishedDateTime: 2021-11-27T14:16:00Z
-originalUrl: "https://www.khaleejtimes.com/transport/uae-launches-first-driverless-100-electric-vehicle"
-webUrl: "https://www.khaleejtimes.com/transport/uae-launches-first-driverless-100-electric-vehicle"
-ampWebUrl: "https://www.khaleejtimes.com/transport/uae-launches-first-driverless-100-electric-vehicle?amp=1"
-cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/uae-launches-first-driverless-100-electric-vehicle?amp=1"
+excerpt: "Sheikh Hamed bin Zayed Al Nahyan, Member of the Executive Council of the Emirate of Abu Dhabi and Chairman of the Board of Trustees of Khalifa University of Science and Technology, witnessed the launch of the Khalifa University autonomous vehicle (AV),"
+publishedDateTime: 2021-11-27T10:07:00Z
+originalUrl: "https://menafn.com/1103259272/UAE-launches-first-driverless-100-electric-vehicle"
+webUrl: "https://menafn.com/1103259272/UAE-launches-first-driverless-100-electric-vehicle"
 type: article
-quality: 59
-heat: 69
+quality: 39
+heat: -1
 published: false
 
 provider:
-  name: Khaleej Times
-  domain: khaleejtimes.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://image.khaleejtimes.com?uuid=8635f53b-190e-4061-a0bb-4452f7df472b&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675"
-    width: 1200
-    height: 675
+  - url: "https://menafn.com/updates/pr/2021-11/27/KT_172daimage_story.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -44,6 +42,6 @@ related:
         height: 800
         isCached: true
 
-secured: "lDU4eCe5CWmqx4bUQF6ju0B0zDT142f/VqhdV+z7BGFSP5WYP9i9M3L0GfA/Ie9yNFjxbfnGdFepSvO791eqF3XI1pl2ZTpNwyTnr4LOS9BIAYC7VaEksv6bPKlCcAnyK7YCgnG1GHbMVvjgVD2qBZPOE7PUGctLxSzLws1aAHuhK2PXh1le3SstACV8ao2fQYY6//AHW64d+y2fntxB4tp/PvGbmNTYLUW8fCN/yBfP9O4XXoMFqx+ftB3EIpu5BV/t8eXlUeom8HuCCKfKCpOzsxdF7cg1wKweiX630U7polWV6kWXvCzlB1vMl1T5I1pSpNttmjkcBz/SVZaQAjX/yYFaK+WOw6I308QHCl8=;fUjCait/mRVvuEJazCTS/g=="
+secured: "qvZvL9ifAfaSrl1Dt5pp5Ujm2EIYDzhuHR/i1J55w93zAcDSgt8QJJEEDhvITus+JX8JksFxG2nH6MTSuiCzBQV/h2T2lWCKWUGsfAl4YAmeMKXP8+sn7AASsDYzTcgOdQgxO+MPUFVV61murrA0iY0vL1omJcpQzPYdt5k6yA4PcOYvcwphsnKsLj87ewR3QZBTRdxLo/AXqMekL/sUD3sxGisescBeow8AxJEhRPT7gxYjOVO6aKK+Rb7aTdk4VSVdoNYVW5b0HGlIVqQVI3P7pTyNTjZoy0nF+aMPVUm4Z0mcjBLXb9ke1boaYtUJnDxTiCZ6bGom00AGcV1CreNqx/l2Ehc6iiFB4jpzXZI=;xACeah33zogC8F9jbJP3qQ=="
 ---
 

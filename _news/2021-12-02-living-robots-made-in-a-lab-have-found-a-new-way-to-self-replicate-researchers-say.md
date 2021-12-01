@@ -149,6 +149,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Scientists Say They Have Created Self-Replicating 'Living Robots'"
+    excerpt: "There are many things that are possible if we take advantage of this kind of plasticity and ability of cells to solve problems.'"
+    publishedDateTime: 2021-12-01T12:39:00Z
+    webUrl: "https://ijr.com/scientists-created-self-replicating-living-robots/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 39
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2021/11/Xenobots.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Xenobots: First Living Robots Can Now Reproduce, US Scientists Say"
     excerpt: "The American scientists who created the first living robots known as Xenobots have disclosed that the bots can now reproduce without manipulation of genes."
     publishedDateTime: 2021-12-01T08:54:00Z
@@ -164,6 +178,6 @@ related:
         height: 630
         isCached: true
 
-secured: "e2iSxlZQUMvwLNeUxI+UD4oLs6oQYik4KnnpPOjnPFMy5abA+0Nk7YjaqT3AzRjvspW/8KBxXHPJYoev843bz65sQbBPu1F5udTMCFGzmT2W8/UoFT0F8lay1Fc0n7pn+vXK2d9TXZnwxMZoWzl8CLOFprJUABa2I8mgHhb7gsKsCWhSTfQ0YZ58qUgEBKSwA5Q6vt4XU5CpORfWiw9vyp1Bt1YTtfy3UdGhtewzFlc/9A7VzTLqIEXSgJhcKSpKdWWYPQY8JWoS1f8ApwAHg5DloTph+qYebY7IB+77quTbmBaBlabECMC4aMOhOmAmYQ5KcVvsL7EyOu58qk72iCS6Axg0qKZM4YeJga9WyqI=;UgZr/i5V+wRn05tH8mMwqQ=="
+secured: "VxmsrBnZ0Px7zhFVJGRBKr/k1Pv5z3VlNsK6jkrr6gcofbLXsBei3Jqi7WPRUFpe/G04gL7giEJ4eGk2Hg+NTolryrBYf0bXRGiThymZaND7u+2AFKrGVFZTu4tuOVp3I6ZgiYwdZFQKGprj1UJXgoCnuQ9DhmPtODCfRyaO1r0rzILTlX44vm/VWar0qAKE7EhCYG96TY9sURF4n0JXAVER7Qmj7eKXmHxw9nsRDDWI3UpxLDGfPpEBylYvVuZesgjLo3uZ5hRD00l/i73LCOXjq8poO0TEMmfMQrsYe1+35uUAwu9He1i3OpVGzdsrx2Uf6xLceBuyGaMLnFD2dM5daelIxevyt28CW16dgbp+p5kHHkNH1DC6vDR/l+fvAYkFYcTQBMWZYgNFphIHRlix+QNCwOIc2LI82oe3/RKcL/FHKpyh0zfDRTSPbqHg02uN8mHqkDUVVmz+szkrlFdvmXCSzf+5yHoqizEpvcejK6yhmdmWnkKgzefTgfWdxix/4HS3t6/GjWrQvyVrvA==;An01Vnf37RXf13fk6V5yzA=="
 ---
 

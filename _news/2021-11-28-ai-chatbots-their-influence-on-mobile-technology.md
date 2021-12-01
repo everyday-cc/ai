@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-
 cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chatbots Technology: Which one is Ideal Match NLP OR Machine Learning?"
+    excerpt: "In this increasingly competitive consumer-driven economy, chatbots are the hottest automated technology. To achieve maximum"
+    publishedDateTime: 2021-12-01T18:58:00Z
+    webUrl: "https://www.cioapplications.com/news/chatbots-technology-which-one-is-ideal-match-nlp-or-machine-learning--nid-8801.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 56
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/6ysx450b308.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "2022 is set to transform chatbots with the best five natural language processing trends"
     excerpt: "Top five natural language processing trends to look out for in 2022 by business owners to implement in chatbots for customer service. NLP trends should be observed carefully to be advanced with the trends of NLP in 2022."
     publishedDateTime: 2021-11-28T12:30:00Z

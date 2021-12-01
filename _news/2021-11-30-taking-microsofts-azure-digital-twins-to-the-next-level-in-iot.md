@@ -40,18 +40,18 @@ related:
         height: 443
         isCached: true
   - title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-    excerpt: "WARREN, N.J. and BANGALORE, India, Dec. 1, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on"
-    publishedDateTime: 2021-12-01T09:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html"
+    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
+    publishedDateTime: 2021-12-01T14:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 61
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/ca/eca138ab-1f6a-575c-ab5b-20f351a1974f/607984186af13.image.jpg?crop=659%2C346%2C420%2C0&resize=659%2C346&order=crop%2Cresize"
-        width: 659
-        height: 346
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
         isCached: true
 
 secured: "CYMu8thRJDye6Yntu2y6OpfpyrwWJhsNdCZsE5iW7u2/ZfN3uv2J/1JokvP94IbJJDz/zjasSNdym346XzqHLCqqQsYwrcb6TxHsQzjLzopQgvb7baesXdFxOhOg1GrpE+SZFumW/e1lFBITh+jcqz4xOIr9++T86B0MKFBj0Z8HxI0750sUPaTaUuaDt6SVdz1oRas+bxAlJGwteOjALRDP9NvVYZksb6rPT0dub6aC+yMmiI53VQ9IO537zQ+zhSf8w+RnXkjSkGhiwVEm5Bw96l5QgYdceS1Dn9Sgrm9WGOHAvPxB4i/NTFgnSIxmh3dFDtKZsA1I81sVrVPZ8SkiPDiGqRDFUzP84Py8oG7lZd3xQliVdsFyiWHSq2G+800NaQ7Dcjk9ghZPIPQvVi16i1taMUyTmDxF3qYW3PXnuXFw6wadz7+ikk7LJOOlviNvCFsHZnJ9vA5QUhQ01tFpauYBjj4SLIqaZPjiHnyYRNhZ4C5bu3RMrHOm0/e3ryRmcbcT3iS5mzmlrOm5cA==;ASGZec6yA0IkC//VP+LvBw=="

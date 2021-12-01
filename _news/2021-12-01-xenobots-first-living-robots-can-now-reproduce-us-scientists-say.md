@@ -149,6 +149,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Scientists Say They Have Created Self-Replicating 'Living Robots'"
+    excerpt: "There are many things that are possible if we take advantage of this kind of plasticity and ability of cells to solve problems.'"
+    publishedDateTime: 2021-12-01T12:39:00Z
+    webUrl: "https://ijr.com/scientists-created-self-replicating-living-robots/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 39
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2021/11/Xenobots.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Living robots made in a lab have found a new way to self-replicate, researchers say"
     excerpt: "Xenobots, a type of programmable organism made from frog cells, can replicate by spontaneously sweeping up loose stem cells, researchers say. This could have implications for regenerative medicine."
     publishedDateTime: 2021-12-01T16:42:00Z

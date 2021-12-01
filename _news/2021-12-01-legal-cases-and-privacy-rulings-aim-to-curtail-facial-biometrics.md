@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Simplified Arrival face biometrics reaches 5 new ports, faces questions"
+    excerpt: "CBP is up to 113 million travelers processed with face biometrics at ports of entry, and has prevented the entry of more than 1,050 imposters into the U.S."
+    publishedDateTime: 2021-12-01T18:36:00Z
+    webUrl: "https://www.biometricupdate.com/202112/simplified-arrival-face-biometrics-reaches-5-new-ports-faces-questions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
+        isCached: true
   - title: "Veridas achieves high scores in NIST face and voice biometrics accuracy evaluation"
     excerpt: "Veridas has scored impressive results in the joint face-and-voice-recognition biometrics evaluation from the National Institute of Standards and Technology."
     publishedDateTime: 2021-11-29T19:31:00Z

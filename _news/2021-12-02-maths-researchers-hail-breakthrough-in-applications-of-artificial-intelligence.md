@@ -44,6 +44,36 @@ related:
         width: 1198
         height: 600
         isCached: true
+  - title: "AI proves a dab hand at pure mathematics and protein hallucination"
+    excerpt: "One of the reasons artificial intelligence is such an interesting field is that pretty much no one knows what it might turn out to be good at. Two papers by leading labs published in the journal Nature today show that machine learning can be applied to tasks as technically demanding as protein"
+    publishedDateTime: 2021-12-01T17:51:00Z
+    webUrl: "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/"
+    ampWebUrl: "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 121
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/12/AI-for-Maths-blog-artwork.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "DeepMind’s AI helps untangle the mathematics of knots"
+    excerpt: "Researchers at AI powerhouse DeepMind, based in London, teamed up with mathematicians to tackle two separate problems — one in the theory of knots and the other in the study of symmetries. In both cases,"
+    publishedDateTime: 2021-12-01T17:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-03593-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 86
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-03593-1/d41586-021-03593-1_19914642.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "DeepMind AI collaborates with humans on two mathematical breakthroughs"
     excerpt: "Humans and AI working together can reveal new areas of mathematics where data sets are too large to be comprehended by mathematicians"
     publishedDateTime: 2021-12-01T16:00:00Z
@@ -74,7 +104,23 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Mathematical discoveries take intuition and creativity – and now a little help from AI"
+    excerpt: "To find the answers, mathematicians like me try to find patterns that relate complicated mathematical objects by making conjectures (ideas about how those patterns might work), which are promoted to theorems if we can prove they are true."
+    publishedDateTime: 2021-12-01T17:10:00Z
+    webUrl: "https://theconversation.com/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
+    ampWebUrl: "https://theconversation.com/amp/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 51
+    images:
+      - url: "https://images.theconversation.com/files/434870/original/file-20211130-17-1ydvy5w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=397&fit=crop"
+        width: 320
+        height: 397
+        isCached: true
 
-secured: "/hARkpPSDOUjAn1RdF3b75IHthUNIvx83myQP11uEfjghWTd/TXSnK++Ea5iFTUXqOUXt0Y0svke08y9ITRP6ke8RWzj2gqL5ozBCtRdoM1Ffo3usYL/oYvVTLhXjpDOWpP7jOh3+K20uFwTs/UExm64/Q7rWjBEutqHyuubYfdmkKo8Rx5/Qmk/bkcJTgXi0nuGeCoktoP/4GMHWKZgRb554lqj0dcOGuPxAcwBYrpdwhSQo0WfWFjAUICo3YMlInhSTgUFyvSd3tMqQRa5cMzDS28vSEO+4Yu6LsK7TgUzlYTxCwL54sFKKMpda6B37f9lrS3nBgmjRpOz2ysxFrIdzElrBwJ7fUz/ewYv9IQ=;3OrHZUPMolV5wWpdK6OhOg=="
+secured: "Q0Hg6IhptNIQBd3BkkdIpOBd9M1YCISHu9ASLbyU8C1983gcvpWpFBcNyYG+R0OWjzaht+eLcOO/WCI5hKogZ50A335I+lyZfuazaAINoLu9KQA2ICcyXnrH16DfGmyZJum31e8QtnL0GQgZbtojU4vLMx2aAVrYl0KpVMI3H9NUqXm+O7otrj3GLeqTlGNJVPoAeIe2+rcSW2rmOD2nxDS0UO6IKOB1R6HAPP0TiOYYPwbfVBXDF6PvjGLZjAJpnTFKDHDcP4cyNvfaO5b7LviXLhe3mEqd20PIEGv36YNh65/8o+PVDw8jwtMa2fcyjbdBOzkHeeDSkEPOkiCWE2gX1FMGueFG1f7LswL6xjKi1kxqPtgQcnbwNMmakZ526ZtORFeG3kaObfDBSonXd5YvmcH2ktFb++Z5vgubIk5zuOnji05OUcyCU3zUY+hJe4tgDXfrvWcZExibAlIvuZCpVYIuXI+SbqF+afbBP+ck6aYyAG8RiaiOzmXLbo+rvEH/XzZ1nBJGoun6XBZ6jQ==;lzHO/gm/N1MT5E3oS5156g=="
 ---
 

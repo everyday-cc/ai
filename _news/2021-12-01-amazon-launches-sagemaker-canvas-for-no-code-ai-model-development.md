@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/amp/"
 type: article
 quality: 104
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,64 @@ images:
     isCached: true
 
 related:
+  - title: "AWS launches SageMaker Studio Lab, a free tool for learning machine learning"
+    excerpt: "Invent conference, AWS today announced SageMaker Studio Lab, a free service to help developers learn machine learning techniques and experiment with the technology. Studio Lab provides users with all of the basics to get started,"
+    publishedDateTime: 2021-12-01T18:30:00Z
+    webUrl: "https://techcrunch.com/2021/12/01/aws-launches-sagemaker-studio-lab-a-free-tool-for-learning-machine-learning/"
+    ampWebUrl: "https://techcrunch.com/2021/12/01/aws-launches-sagemaker-studio-lab-a-free-tool-for-learning-machine-learning/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/aws-launches-sagemaker-studio-lab-a-free-tool-for-learning-machine-learning/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 118
+    images:
+      - url: "https://i.ytimg.com/vi/k2nVIvHB1dk/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
+  - title: "Roundup of re:Invent 2021 Amazon SageMaker announcements"
+    excerpt: "At re:Invent 2021, AWS announced several new Amazon SageMaker features that make machine learning (ML) accessible to new types of users while continuing to increase performance and reduce cost for data scientists and ML experts. In this post, we provide a summary of these announcements, along with resources"
+    publishedDateTime: 2021-12-01T18:35:47Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/roundup-of-reinvent-2021-amazon-sagemaker-announcements/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/01/Sagemaker_Thumbnail_12.01.21.jpg"
+        width: 800
+        height: 451
+        isCached: true
+  - title: "Create and manage Amazon EMR Clusters from SageMaker Studio to run interactive Spark and ML workloads – Part 1"
+    excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps required to prepare data, as well as build, train, and deploy models. We recently introduced the"
+    publishedDateTime: 2021-12-01T18:03:45Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-1-create-and-manage-amazon-emr-clusters-from-sagemaker-studio-to-run-interactive-spark-and-ml-workloads/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/30/ML-6841-PART1-image003-999x630.png"
+        width: 999
+        height: 630
+        isCached: true
+  - title: "Create and manage Amazon EMR Clusters from SageMaker Studio to run interactive Spark and ML workloads – Part 2"
+    excerpt: "In Part 1 of this series, we offered step-by-step guidance for creating, connecting, stopping, and debugging Amazon EMR clusters from Amazon SageMaker Studio in a single-account setup. In this post, we dive deep into how you can use the same functionality in certain enterprise-ready, multi-account setups."
+    publishedDateTime: 2021-12-01T18:03:49Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/part-2-create-and-manage-amazon-emr-clusters-from-sagemaker-studio-to-run-interactive-spark-and-ml-workloads/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/30/ML-6841-PART2-image001-736x630.png"
+        width: 736
+        height: 630
+        isCached: true
   - title: "AWS launches SageMaker Canvas to enable no-code AI development"
     excerpt: "Amazon Web Services Inc. expanded its artificial intelligence portfolio at AWS re:Invent today by launching SageMaker Canvas, a tool that enables business users to create machine learning models ..."
     publishedDateTime: 2021-11-30T21:31:00Z
@@ -73,6 +131,15 @@ related:
         width: 333
         height: 285
         isCached: true
+  - title: "AWS Announces Six New Amazon SageMaker Capabilities"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."
+    publishedDateTime: 2021-12-01T18:40:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-six-new-amazon-sagemaker-capabilities-/2021/12/01/9503014.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "/zViHV8PoYT2fd2Yuz07VVF7OP+xQVLVYmPyEqPQl8UzdKLM98iG1KZ5415V1jtCATt+V7umTRRReIMf5GTM4UBBpAF7/Eq01Q96ZTfu4ltDCC/Wl/uIzUeaQB+/mtNsphA2igugB6amlpgRJKGckPq1fd4XbC7X6GMFht3vj2cWwYv7nYU100WYiiWF2ISD86ThhKogy6ZJF+b+t2l51zWZp81O5AjbPtYV7Zs2Ye2DofngFxkvVcNn6vg8YEy+sbN5Wu8Sj465R+59X1/2cRqZ0qVhSenHFM3AVCE7bygcWmPyG3PoDq7yQ0CcxWsNgQzYTNrhvtMLrVhGD/iJm3xdvLGbNB7hdHfNNF6xZIm7To6+KUI2V/wzuehNeiZb6/yaQRMn+bH+xRKgvCEIBCwkkKHL4nfhm2duVZaqjZdN+V9kgLlST+iq/nxx5TVh9SjRP5ZN2ulXk4GJlHmawbNXJR8gOHhmF7zWLFZv3gQDMDFp+bl3lLIhH0XsMif+VKzWfXo3kq7wXRQb+a5FTw==;JrW/3drb38eCDSrZlaXEDQ=="
 ---

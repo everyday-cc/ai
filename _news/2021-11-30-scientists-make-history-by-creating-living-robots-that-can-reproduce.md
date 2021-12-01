@@ -9,8 +9,8 @@ ampWebUrl: "https://www.joe.co.uk/amp/life/scientists-make-history-by-creating-l
 cdnAmpWebUrl: "https://www-joe-co-uk.cdn.ampproject.org/c/s/www.joe.co.uk/amp/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: joe.co.uk
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "This Seems Bad: World’s First ‘Living Robots’ Can Now ‘Reproduce’, According To Scientists"
+    excerpt: "Xenobots, the first \"living robots\", can now apparently reproduce, according to the scientists that are studying them."
+    publishedDateTime: 2021-12-01T17:54:00Z
+    webUrl: "https://brobible.com/culture/article/xenobots-reproducing/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 29
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2021/07/terminator-.jpeg"
+        width: 1300
+        height: 719
+        isCached: true
   - title: "Team builds first living robots that can reproduce (w/video)"
     excerpt: "AI-designed Xenobots reveal entirely new form of biological self-replication - promising for regenerative medicine."
     publishedDateTime: 2021-11-30T07:04:00Z

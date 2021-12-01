@@ -40,6 +40,20 @@ related:
         width: 656
         height: 656
         isCached: true
+  - title: "Simplified Arrival face biometrics reaches 5 new ports, faces questions"
+    excerpt: "CBP is up to 113 million travelers processed with face biometrics at ports of entry, and has prevented the entry of more than 1,050 imposters into the U.S."
+    publishedDateTime: 2021-12-01T18:36:00Z
+    webUrl: "https://www.biometricupdate.com/202112/simplified-arrival-face-biometrics-reaches-5-new-ports-faces-questions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
+        isCached: true
 
 secured: "h6V5Qbbqqxt5hJyODDySi2tZWNi3j5F1RtJy7INm1OzYJln/mi4d3k6W0MJvREb27AaCvaiEFQ7E+CDHe0olYtG9kYPmHEKQMsR8s3uENuQLCEAs1TqpqpuVnGJdeKwpqNoTqX+7zge27bHdHbn3fI/7u9whG2oseBT+fcXcynaGTksGT14w0qD+UcMZDD1oCrgJ8DSO22lYAeeWu9MPVj8ueh/bIcPsm6bbFM1AUq7o0fMfcPJeFUChZl2dhbOI0rFLFYL6FRzc5mgzIuZSQgre9K1zAeZ0+9t0WNGHKN+7zpIBVzFqOS8B3TDY8NP2H6z+/7KJmdvl8ezaF6v3a4KgQXLXRzrugZ+ToF833UN2FAFoqTx7rR5oF9e8GW25nGkgxcrTcpajTCcGTMQ9Z+8adLj/NefcjwvSacz9tVYD6ZxaEQoWNd2hSoXpj4eTmARU39rmnoA8JA0dySuy3HhuoRykb9sz6fP/Qw0/Mz0hv4VrHCVN+z/sF5Y+AsEkX3lpW/jDdL1GfMnPy+uVRQ==;7hnwkCrST4/a7fxWdhXLZg=="
 ---

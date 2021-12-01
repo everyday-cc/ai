@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/aws-announces-service-for-enterprise
 webUrl: "https://analyticsindiamag.com/aws-announces-service-for-enterprises-to-deploy-and-scale-private-5g-networks/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "AWS Announces AWS Private 5G"
-    excerpt: "Invent, Amazon Web Services (News - Alert), Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Private 5G, a new"
-    publishedDateTime: 2021-11-30T20:22:00Z
-    webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/11/30/9501903.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 39
-    images:
-      - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-        width: 1577
-        height: 1050
-        isCached: true
 
 secured: "tMgxsN3rNUIENS6oDySGoCDWyvXMWiMe7qcRu0GZ5XjNQp/r1F8oEkpW5jqj8iyyYI1sI12o8kC3szp65arRPeMzsYJhV8Pt2ZtQd8zIBFvx99E3NDW9OofqsQHlsgOJHd8LRvQKVTa6zuoSFs4HVe6PS/pwIyOD2L6AC817H+Usb2inQqPMkNaZv46A0rpSkl4tZSOljK8sR6Hg61lCgIoaP85gaoZSn6ReAVK0uFqH8OA+JEBn18uMLAVB6vrA5QY9l1x8RluNg2sfcEuzwzFDwDTG3kMLk0Hr5TheEeoxXYQ01tJjF/BR1dSCTXv90ptUu3XgElD+O9pB/QbNMCBFz4hmuvwiscbDcm9DC+g=;fMIQGVhp0aRQbpF9MbNRkg=="
 ---

@@ -2,6 +2,42 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-02-security-privacy-risks-of-artificial-intelligence-in-healthcare.md",
+      "title": "Security, Privacy Risks of Artificial Intelligence in Healthcare",
+      "excerpt": "While regulatory agencies work to catch up to technological advances, the security and privacy risks of artificial intelligence in healthcare remain.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/features/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "originalUrl": "https://healthitsecurity.com/features/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "publishedDateTime": "2021-12-01T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Security",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-using-ai-for-accurately-predicting-synergistic-cancer-drug-combinations.md",
       "title": "Using AI for accurately predicting synergistic cancer drug combinations",
       "excerpt": "A research team led by a scholar from City University of Hong Kong (CityU) has recently developed a novel artificial intelligence (AI) framework that can make synergistic anti-cancer drug combination predictions on both the therapeutic and toxic effects.",
@@ -147,6 +183,59 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-will-2022-be-the-year-of-machine-learning-in-healthcare.md",
+      "title": "Will 2022 Be The Year of Machine Learning in Healthcare?",
+      "excerpt": "As we end 2021, we’re seeing once again many predictions that 2022 will be the Year of Machine Learning in Healthcare.  Having been in the field for several years now, we’re delighted by the optimism!",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/2022-year-machine-learning-healthcare-jaikumar-ramanathan/",
+      "originalUrl": "https://www.linkedin.com/pulse/2022-year-machine-learning-healthcare-jaikumar-ramanathan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH_yh2awX0W1Q/article-cover_image-shrink_720_1280/0/1638304560217?e=1643846400&v=beta&t=tr7TC_D7D2U1rOoX8clY8zFCEeArwWpdJg_DqOhuzvA",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1270,93 +1359,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-technology-innovation-roundup-how-do-you-market-tea-try-ai-and-micro-influencers.md",
-      "title": "Technology & Innovation Roundup: How do you market tea? Try AI and ‘micro-influencers’",
-      "excerpt": "The company used that information to craft Sama’s four adaptogenic hot tea blends, which the brand says can offer physical and mental benefits. The organic blends are inspired by Ayurveda, a holistic medicine system with historical roots in India,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/southflorida/news/2021/11/15/technology-innovation-roundup-11-12-21.html",
-      "originalUrl": "https://www.bizjournals.com/southflorida/news/2021/11/15/technology-innovation-roundup-11-12-21.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-future-of-ai-artificial-intelligence-ka-future-bharat-mein.md",
-      "title": "FUTURE OF AI -Artificial Intelligence ka future Bharat Mein",
-      "excerpt": "Over the past decade, we experienced exponential growth in AI. Well all the credit goes to the technological advancement with the help of which we are talking to Siri or Alexa In India, businesses like Swiggy and Zomato,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/future-ai-artificial-intelligence-ka-bharat-mein-bilibacadem",
-      "originalUrl": "https://www.linkedin.com/pulse/future-ai-artificial-intelligence-ka-bharat-mein-bilibacadem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGQkUr0BIkYSA/article-cover_image-shrink_720_1280/0/1636961562319?e=1643241600&v=beta&t=lPwIzRQl576retgAYC_qBWySNkmUKSyRL_lKBcB_CCU",
-          "width": 1279,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-14T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

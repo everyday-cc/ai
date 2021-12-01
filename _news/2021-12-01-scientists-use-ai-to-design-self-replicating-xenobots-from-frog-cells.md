@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/scientists-use-ai-to-design-self-replicati
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/amp/"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://eandt.theiet.org/media/17241/xenobot-reproducing.jpg?crop=0,0.26833333333333337,0,0.2394791666666666&cropmode=percentage&width=1200&height=450&rnd=132827439180000000"
         width: 1200
         height: 450
+        isCached: true
+  - title: "Scientists Say They Have Created Self-Replicating 'Living Robots'"
+    excerpt: "There are many things that are possible if we take advantage of this kind of plasticity and ability of cells to solve problems.'"
+    publishedDateTime: 2021-12-01T12:39:00Z
+    webUrl: "https://ijr.com/scientists-created-self-replicating-living-robots/"
+    type: article
+    provider:
+      name: ijr.com
+      domain: ijr.com
+    quality: 39
+    images:
+      - url: "https://ijr.com/wp-content/uploads/2021/11/Xenobots.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Xenobots: First Living Robots Can Now Reproduce, US Scientists Say"
     excerpt: "The American scientists who created the first living robots known as Xenobots have disclosed that the bots can now reproduce without manipulation of genes."

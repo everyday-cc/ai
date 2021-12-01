@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/2022-year-machine-learning-healthca
 webUrl: "https://www.linkedin.com/pulse/2022-year-machine-learning-healthcare-jaikumar-ramanathan/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: LinkedIn
@@ -44,6 +44,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Big data in healthcare: 3 spine surgeons weigh in"
+    excerpt: "Three surgeons consider the pros and cons of big data and how it will affect spine care and the wider healthcare field."
+    publishedDateTime: 2021-12-01T18:38:00Z
+    webUrl: "https://www.beckersspine.com/orthopedic-spine-practices-improving-profits/item/53143-big-data-in-healthcare-3-spine-surgeons-weigh-in.html"
+    type: article
+    provider:
+      name: Becker's Spine Review
+      domain: beckersspine.com
+    quality: 19
 
 secured: "0aoDaNkWjVgMdy0jmWWAaapauSTNb3ewGjL0vJ4S91yKE5yBfvyTfAGloacI7uyGbEVYbXECaL1+Na2CMA1wvOUgUuIldoKZlkUdJq3q5Q0Iuo/g/xcDsX82OCJNXRR/dtKi2vK0nfnnnTGeKYJplB+vAx6dXUdTQPpR9Zg9TKCO9T6HP8FPxSXeh742kr/Nspv61PCdg2B/BT63X7jvBqBmmLdMnI15pPBPQxvj7M0OdhqO8+bILXtLywIsxR5F0ZW7xL9QvDvpdHV3IeQb7lVyBYCg9MYHU6tjZX2odfHmoekap/SNDFUegod9Q6hm6bIN+1UJvmwKgqts89/SZba6njHMy6cnSH/cZ2aikwDU23GG5YoxeGsU8jg2alLTL0s93cfxk8ANs0ZDRv+bEOOVnTKKFgn9Grsq1O16igtITbZfCcJ+1NDFAv7CvBq8aSQA1KRoa12hWJ7SUuBxvW+2lXBTen+OlJcpqE2NMOPUhPn9jyQ2vZAdIkxG2vZmMUbxf0IQg9qAf/i5FVd7Dg==;xDbSdF223EtaYuziVAdh8w=="
 ---

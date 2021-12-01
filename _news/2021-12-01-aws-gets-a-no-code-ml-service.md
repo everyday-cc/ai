@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/30/aws-gets-a-no-code-ml-service/amp/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-gets-a-no-code-ml-service/amp/"
 type: article
 quality: 108
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
         height: 600
         isCached: true
   - title: "Astadia Joins the AWS Mainframe Modernization Service"
+    excerpt: "Astadia joins the AWS Mainframe Modernization Service initiative to support organizations that are moving mainframe workloads to AWS.Enterprises and government agencies can license the Astadia Migration Factory to simplify,"
+    publishedDateTime: 2021-12-01T15:31:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=580660"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 54
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Astadia Joins the AWS Mainframe Modernization Service"
     excerpt: "Astadia, the mainframe to cloud company, joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions and experience in migrating mainframe workloads to AWS."
     publishedDateTime: 2021-12-01T16:53:00Z
     webUrl: "https://www.lelezard.com/en/news-20135524.html"
@@ -95,13 +109,18 @@ related:
         isCached: true
   - title: "AWS Announces New Serverless Options for Three Analytics Services"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
-    publishedDateTime: 2021-11-30T22:40:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211130005973/en/AWS-Announces-New-Serverless-Options-for-Three-Analytics-Services"
+    publishedDateTime: 2021-11-30T17:41:00Z
+    webUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 41
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
+        width: 320
+        height: 300
+        isCached: true
 
 secured: "p5PgDb/RE1iy8Rdw/w/1U1ZsojBZKvaQDIRUfklqJxkg//M7nVhNehkv5KtgIbgRWLKOMJWUe4E3L8BvlPO+MBMNwqjd7JZfw4pRksFZ2IZQiE3A6uUcCyyz4u1UVE9Pb4MgkWNZYb7ZXiwLKW5QsUrbYPGToCorbPJ4ZJuIWOLGwpN7w1B2pEYqdQuFr0qGW8sZMhgxTyXcQpBbTki8fEc3v/JIadEqLWuuSeijbGjFZml8oYzQQHQ4+TpFNRJhgNKWUJP2PAOprNP3/aB2K9HCDN09k8tOwc9J8EYrpF7BQvuajGaqxJQLWTOw2QczU7x5yTbo0Ol5TTiuZdvxIPqNFshB45sJrJ3b7f1aFeh3RCsBnH63p+EyIpFgmKnNu+Go1Jic7qJjEwwuQwkW6hgNrrXUYcEtNxnmlyCcALvew8HtdUiZCAA9C121TaM5nufSGLAJpPMkqdmXHT9It2LBlXgMJB/mNFNAlljUXH0o1w6o8ZEEXVcE3r+TY/d/4S1qUlTie4GbP9lvnL879g==;wBwYyffq2sCB0h4fT7BrJg=="
 ---

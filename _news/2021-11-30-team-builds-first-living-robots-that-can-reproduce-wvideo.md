@@ -35,6 +35,20 @@ related:
         width: 647
         height: 340
         isCached: true
+  - title: "This Seems Bad: World’s First ‘Living Robots’ Can Now ‘Reproduce’, According To Scientists"
+    excerpt: "Xenobots, the first \"living robots\", can now apparently reproduce, according to the scientists that are studying them."
+    publishedDateTime: 2021-12-01T17:54:00Z
+    webUrl: "https://brobible.com/culture/article/xenobots-reproducing/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 29
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2021/07/terminator-.jpeg"
+        width: 1300
+        height: 719
+        isCached: true
 
 secured: "xDOysFwOodd9bKJpTb4DJyVoXDF1og5oX+L1zdmdWi3mzaw5Hp3pvdJcgZHx561OI8wOAzIXGCVOr3FpRY2gyQlkkLnYAwWs36steaqKPZtjoGl3ytHDmuVoZZJVTWJLngtPrOIwyd/qtV4Mc7oaDr2be5xeqUgwBGk6P+gNGx6CusDv6+Y0OodDt+neSlt/NshvuMx56C9oZpvrfcshHNjRHFEIPDohzP/w1mCfGge5s/ft0le91DwZG8UR8BTbPNGMWot0PYfaDcnUMVEf+Pe5g4mHYWk7ADqKX5j6OOi46qnZkVopWcAOG+5Q3mLwohmGgihqVlwUJM0cdue2pDRzYpuDeF+t95lNQsMKFHVsaS1uRfxiWaIxnLJlsCB2IOkoUTLEu3N5mf5mqVcXuBIbbgFosEpnaZ34GVvlQkXQiVCTxs/oteBmzzTaNwFa15yLQuWxyGcJmbOtMpg2nGDkd1x+0xcQREcN9NhGPr58YYUkAQCEWN8qaS+D5w7pySy6kOY3RVdDnoNO9fM74g==;PdM+JtiacF5ZDlCzZlF1tQ=="
 ---
