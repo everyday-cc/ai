@@ -3,7 +3,7 @@ name: "Fei-Fei Li"
 bio: "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare"
 location: Stanford, CA, U.S.A.
 type: "profile"
-heat: 243
+heat: 234
 
 affiliation:
   name: Stanford
@@ -21,7 +21,7 @@ website: https://profiles.stanford.edu/fei-fei-li
 twitter:
   username: drfeifei
   url: https://twitter.com/drfeifei
-  followers: 392824
+  followers: 392823
 
 googleScholar:
   url: https://scholar.google.com/citations?user=rDfyQnIAAAAJ
@@ -43,6 +43,6 @@ images:
     isCached: true
     title: "Fei-Fei Li"
 
-secured: "VLyG0SDUW/gqvDddPUM2NnPN/TJ5f1QZc9W/zqsOkJ7ZTiV7Jdrysh8CA3MMHGBSv8/JAQk6wTiCOIH5iFoV39f5KbxKKtslOSGF5gf1Igxhcpp84veiSw9r4UpfkhJGgjPWH19i0VzEelkboZYpePd/6bi/QL/bbAqKjxNA66jEaR0SNygC52r0jdHzRc+xTWLgJOdsIZ7EJSMCi9GzmU/SJRbnf4Qnpe4Dyah5YJJMerF8MjofwWOhj1BT+aMUMIwJc/CvRHWKgQlnkDyeHPvJeWLMohYBXUCW9K068R6eBSd0lBcnvcNj4/t92SJV+ZM4cE7at1OUSItZhZJZLewydvkr9KQst0Kutiw2ivVGEJwdBbouJPq4y+QJ7Xpz9rayQQLJoF4rO6MjM0ZDUU73pJ3ZPvNlDw72ahEuREQ=;io4X7NmOgKXi6hY7RS9PwQ=="
+secured: "aUHSPwIEhGvlZzJ69EP8P4bzRUXlen0xJYlHSGXokCfzh5hLTG1lzJ485fVkQsWEGBGFu5di9QjOi4LjguAfLwf+BRAXS32hADyT6kQVMCIMdifZzhUHpTp3IZ/1l2O4kud/htiAnge+5elUWeCufGPjabedRHv42wyTcVmmmbBOhOtSWAK9l7jgKYwmnFTbryHWeKx4nlMPbJxTA4ntMEvtraj7S4dziJcFToxib6jOBcR0uzVjSf27HtGaLLG/fY/db9POtGK07KAQa2HyImfgWI5CDPJG1sqFdScjrVGcyR/v5UZ+YG0yDC0hRhb1EfA2tDXEzol6irhK8KaLY/itSWo75OdNun4OeLW2Qf57PjnqcbsNowvjoe2FWQUsF4yabg5F7Zunxm85xARXuvwKGKFvLRTyfuuqxbZXsOQ=;RJ7rV0+pK7zNxoB1rasc0g=="
 ---
 
