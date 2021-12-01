@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-30T03:11:00Z
 originalUrl: "https://www.tweaktown.com/news/83023/ai-has-designed-the-first-living-robot-makes-its-own-babies/index.html"
 webUrl: "https://www.tweaktown.com/news/83023/ai-has-designed-the-first-living-robot-makes-its-own-babies/index.html"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI Hardware
 
 related:
   - title: "AI Just Designed The World’s First Living Robot That Can Make Babies"
@@ -50,6 +51,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/211129174929-02-xenobots-self-replicating-robots-scn-112921-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Xenobots, The World’s First Living Robots, Can Reproduce"
+    excerpt: "With scientists making biological robots that can reproduce called Xenobots, one science fiction horror story is coming true. Or is it?"
+    publishedDateTime: 2021-11-29T23:58:00Z
+    webUrl: "https://www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/"
+    ampWebUrl: "https://www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/amp/"
+    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/amp/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 59
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2021/11/Xenobot.jpg"
+        width: 1000
+        height: 666
         isCached: true
   - title: "Meet Xenobots, World's First Living Robots That Can Reproduce"
     excerpt: "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world."

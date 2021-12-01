@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvtechnology.com/amp/news/discovery-extends-relationship
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS announces expanded cloud partnerships with Meta, Discovery and Aurora"
+    excerpt: "Meta Platforms Inc., formerly Facebook Inc., as well as Discovery Inc. and Aurora Innovation Inc., which develops autonomous vehicle technology. The partnership with Meta is the main highlight. Besides being one of the world’s largest tech firms,"
+    publishedDateTime: 2021-12-01T18:35:00Z
+    webUrl: "https://siliconangle.com/2021/12/01/aws-announces-expanded-cloud-partnerships-meta-discovery-aurora/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/aws.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Discovery chooses AWS to power rollout and increased personalization of of discovery+"
     excerpt: "Discovery is also accelerating its digital transformation and enhancing viewing experiences across its more than 450 television channels"
     publishedDateTime: 2021-12-01T14:55:00Z
@@ -51,6 +65,6 @@ related:
       domain: mobilitytechzone.com
     quality: 11
 
-secured: "hxlV3Y+GCU78WLXitGRmYallZ1WMKC0ck4BapIXu2oX4XwOpKu1H4SXBYJXY3eFRlRNmSFU5o/o9V2160YIYypnYDFQUyZKRV/sTBEFVQ3t4b+QjEJSd9j7XtdSq6JKMe0RzjWMmRjNCKoQ1UjhSQDKvHV/FWwXS3hEqjGJpY9e1IVxWGU6lPgA0Rsc0vS2XJYiZBlEVi7tgbB9/uhc07oVNd1LBFcFzLHyEj8vhUx8k5SAMhYhQZPoL3+/c2/11uBzUgg2oK1F1GTmFWJbl67v3RXUaLrwhFdzjijzZ8nsguFvTZioNqwYFzx6inL4H0DFh9B+MqvC91QAOIwbBP97hIlp2uiJA3H6Hgo5cFhY=;u5u8TWHcIE17+XdzeujM2g=="
+secured: "elHhlGJPeGAHqtSO4gXry8qwuE8wXD2Q1kg3n6qsDJThR0BqEBNt020djQPg7OSX53CZmhbccYAv2HwLVKs/CFXgdmcUfkKSiksVHddeYRtb5d8fjHsNHCzUhnI79Lbpxcxb6cFMckXPUNyWVG7t7Tuyf3MjVCT9sz43yJdzB2dLlVjQe8FY/ZXAkOSC08s0vS6+kxwcMXCB2iKPM+W472CqP9b03NoVdQBYYTLoMy/EBIJnmjVdyRvstKJD7C7bs12js4bIZeH2aIkHQgUem4t4JLRe0+6fmCZoMEGail5OYl8WlQh1h1YFPECwITzpZ7IECuu4Cu6j0TmLjsQW3SqGZVYaJAgmeJ2g0c0y+lG1KxNAYfbCOlAqfNZFzfbjGwbmCBXGVwUORYkpP38HVrY2Yuayrge+xFasfiEgklcnlMoUa23oaUte5xytQ3LGp2a5hzCrY3uVb2Hr6Sh+fYRlPXJ8cC+3gMaD0MXqENBkm8gK2g0i8TXuIrJlpNF6AlHfwFhV35uspem/IT41ew==;AebYoA+l+Foiq4S3SGf+AQ=="
 ---
 

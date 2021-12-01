@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
 
 related:
   - title: "Artificial Intelligence (AI) in HIV and AIDS Market"

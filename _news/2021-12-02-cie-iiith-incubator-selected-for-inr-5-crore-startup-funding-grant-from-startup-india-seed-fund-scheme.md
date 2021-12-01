@@ -1,28 +1,22 @@
 ---
 category: news
 title: "CIE (IIITH Incubator) selected for INR 5 Crore startup funding grant from Startup India Seed Fund Scheme"
-excerpt: "CIE (IIITH Foundation), the Center for Innovation & Entrepreneurship of IIIT Hyderabad, has been selected for the Startup India Seed"
-publishedDateTime: 2021-12-01T16:36:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/cie-iiith-incubator-selected-for-inr-5-crore-startup-funding-grant-from-startup-india-seed-fund-scheme-891985182.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/cie-iiith-incubator-selected-for-inr-5-crore-startup-funding-grant-from-startup-india-seed-fund-scheme-891985182.html"
+excerpt: "CIE (IIITH Foundation), the Center for Innovation & Entrepreneurship of IIIT Hyderabad, has been selected for the Startup India Seed Fund Scheme by the Department for Promotion of Industry and Internal Trade (DPIIT),"
+publishedDateTime: 2021-12-01T20:19:00Z
+originalUrl: "https://news.webindia123.com/news/articles/Business/20211201/3865234.html"
+webUrl: "https://news.webindia123.com/news/articles/Business/20211201/3865234.html"
 type: article
-quality: 7
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/600789/IIIT_Hyderabad_Logo.jpg?p=facebook"
-    width: 2398
-    height: 1257
-    isCached: true
 
 related:
   - title: "IIIT-Hyderabad’s incubation centre bags ₹5 cr grant from Startup India"
@@ -41,6 +35,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "IIIT-Hyderabad selected for startup funding grant"
+    excerpt: "Hyderabad: The Centre for Innovation & Entrepreneurship (CIE) of IIIT Hyderabad has been selected for the Startup India Seed Fund Scheme by the"
+    publishedDateTime: 2021-12-01T19:16:00Z
+    webUrl: "https://telanganatoday.com/iiit-hyderabad-selected-for-startup-funding-grant"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 24
+    images:
+      - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2021/12/IIIT-Hyderabad.jpg"
+        width: 680
+        height: 370
+        isCached: true
   - title: "CIE (IIITH Incubator) selected for INR 5 Crore startup funding grant from Startup India Seed Fund Scheme"
     excerpt: "CIE (IIITH Foundation), the Center for Innovation & Entrepreneurship of IIIT Hyderabad, has been selected for the Startup India Seed Fund Scheme by the Department for Promotion of Industry and Internal Trade (DPIIT),"
     publishedDateTime: 2021-12-01T07:09:00Z
@@ -51,6 +59,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "PcO5n3hmKwLNW1Ryc2GZ3XX10myVZ7hxEzreAaB9hQFOcVbZlRkpF/kuJsr5r6qLnbpz6DbSA0cL6S/HpNUEv8pRhF0Jrqw05fSEcDvWj87bvK/6xMSrHaq08p+2VH/voFNBs/oz+DefXviyFZmLt7ENmMCz5kJni/90cut4rwyAxvVpx1WNIMPOSdGeH4Ame8QpWwpIV78GcRnkZLKf8GguPoGfrszQ2cDNL4lTHHG4D8sa/nPS7Q+/f8LFaFQiImbuGGr+wn7pGookXqdARA2sgW9s16n83NIstfNyTo4L3gkbEuvR07635ZTCE/zJtm6jSSBXr2RpDCa1aHXpgCsQs/fzIT3wB0MCjEe9wTo=;v1j1UQYzPVeZjtwt5+98oA=="
+secured: "BO7x8eGQoLOe5Vcva7cQJ2tiPhuxoxEz5jbssfmXVXp/+8ldZYkYaCcLMNMSNgh2tkzspWL5B4ZLF032qXTqdbfSqU4FTZcmj93mzkBMOTR1yS9JrykDW2qqO2TNvV3OAYzZHxE3Lmp+4cVtndeV+SG//47Ztcqs4EZM4rUrQAVbgNXRlewrgQj+k0RpBonICcqw6BDUgNb4bU7L/1jAY9ofQ08gMSvrw4GhdnSHixFgE+OxJcCrquf2nlLDbX/meSHammmFFfNUKVSJwD0q1iVljlw6Y0kVsqF+HLHm5NLojj3hsMJOVyesN+LkdGiYRDEAHCcf+I3Lwtx888zwczplfQO/iyD5rPVQSrFuoDU=;V5uIWglTUDHze611kL3RPQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20135314.html"
 webUrl: "https://www.lelezard.com/en/news-20135314.html"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -34,7 +34,7 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/a8/9a89c8cd-8a54-517a-a141-e6f99720e344/608abc26aae43.image.jpg?crop=629%2C330%2C85%2C0&resize=629%2C330&order=crop%2Cresize"
         width: 629

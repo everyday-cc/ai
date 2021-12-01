@@ -35,6 +35,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "2 Unstoppable Artificial-Intelligence Stocks to Buy for the New Year"
+    excerpt: "With their huge success so far and their massive market opportunities, buying these two AI powerhouses before the new year could be a smart move. Image source: . Upstart is using artificial intelligence to redefine how banks determine creditworthiness for loans."
+    publishedDateTime: 2021-12-01T11:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-unstoppable-artificial-intelligence-stocks-to-buy-for-the-new-year"
+    ampWebUrl: "https://www.nasdaq.com/articles/2-unstoppable-artificial-intelligence-stocks-to-buy-for-the-new-year?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-unstoppable-artificial-intelligence-stocks-to-buy-for-the-new-year?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 52
 
 secured: "SPC2in8Ta9LUkL8AdRBXqPq1Q7WhW/P7rA4pZHDr6cQ8oyQ/tFMozGadpNwuJnGQagZKCxkNut0XE1fZB/F7y29A746dg4mkB0tQopjI+R/K1HlskXb0y3CEycQDtWnRu2S3F+x1YbQpKmUYwz9mnJn96ArYvQFpJ+NEsz4Y/AANECateLiCkXNoZmMccONjSSC4o1nUVUkzHikTDT11psTZDoZoJYn6rTYBhiLkE8uNQ5yTgJ/oUF+HYWcyH+1VTiFLCbNsjh8NvVJgbSqXQ3i2HVJRtwi79UHCV6HgUwKihs2eQro42oAqKLBhK0ejkiaAD/kVBEpnuflNDKSIwGg/HQSBhP31IlFNxm79KhI=;CmAnW9ZPMR1JC5vGZZnvBg=="
 ---

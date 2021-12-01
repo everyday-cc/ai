@@ -1,0 +1,33 @@
+---
+category: news
+title: "3 Chip Stocks to Buy in December"
+excerpt: "The semiconductor industry has been aggressively expanding its manufacturing capabilities amid the global chip shortage. And because the demand for semiconductors is expected to rise over time, the industry"
+publishedDateTime: 2021-12-01T19:03:00Z
+originalUrl: "https://www.entrepreneur.com/article/400214"
+webUrl: "https://www.entrepreneur.com/article/400214"
+type: article
+quality: 69
+heat: 69
+published: false
+
+provider:
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-400214.jpeg"
+    width: 2560
+    height: 1440
+    isCached: true
+
+secured: "V6TtlngkpQau5iqmUGFgRXAlLQIja+457kHSDA9asVGrMZPGvpAicVawLCncWHsC2yNjghBujDsRC8zPK9mUIyJz9RmRxyFxRw1+/OE57O4aQcekPbHHqy+xGkQVnMxeL54a0w/6LRdZJzx7R4J8xcfE6glBORGIm4/gafX6UwbMpQFr1KW84prccp7XFN5HVXZPyfqTAjkpMloNfWdROlWya7vzsoMosYj+xsz0mLZEYzQ0rVKsnGriurCN7Bp/WTGAO4sDEW4yIEO23s92HAVpHnNJfREC1tWarg4xU+ap/0KgMvBp5UFkwoPmdeQ412c6AWdsaUPOfNcWYK6ZYrzdcryd85DLcgnFGabTuf4=;plrgBa+jgXNVCb7oeu8NVw=="
+---
+

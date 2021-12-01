@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/tra
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "2 Unstoppable Artificial-Intelligence Stocks to Buy for the New Year"
+    excerpt: "With their huge success so far and their massive market opportunities, buying these two AI powerhouses before the new year could be a smart move. Image source: . Upstart is using artificial intelligence to redefine how banks determine creditworthiness for loans."
+    publishedDateTime: 2021-12-01T11:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/2-unstoppable-artificial-intelligence-stocks-to-buy-for-the-new-year"
+    ampWebUrl: "https://www.nasdaq.com/articles/2-unstoppable-artificial-intelligence-stocks-to-buy-for-the-new-year?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-unstoppable-artificial-intelligence-stocks-to-buy-for-the-new-year?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 52
   - title: "Arizton Advisory & Intelligence: Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
     excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI) market report. The"
     publishedDateTime: 2021-12-01T15:30:00Z

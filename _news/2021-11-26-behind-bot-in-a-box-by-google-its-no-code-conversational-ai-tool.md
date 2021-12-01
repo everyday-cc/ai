@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/bot-banner_11zon-1.jpg"

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "We tried Tesla’s ‘full self-driving.’ Here’s what happened"
-excerpt: "When a dozen small children crossed in front of our Tesla with “full self-driving,” I had good reason to be nervous. I’d spent my morning so far in the backseat of the Model 3 using “full ..."
-publishedDateTime: 2021-11-19T07:37:00Z
-originalUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
-webUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
-ampWebUrl: "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
-cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
+excerpt: "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent."
+publishedDateTime: 2021-11-18T17:45:00Z
+originalUrl: "https://www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
+webUrl: "https://www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/"
+ampWebUrl: "https://www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/"
 type: article
 
 provider:
-  name: Mercury News
-  domain: mercurynews.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.mercurynews.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576"
     width: 1024
     height: 576
     isCached: true
 
-secured: "14AoWttnsSPijf8PczUx9OygNqtRojORs6vUJLuAB1FnL+X9lN6EqpZffWfwWozzWfg/uSxRFUwGaxp0f4BP+9qy3dnl30GA0/oGh8wBvwuQl0lMzBBvTO+Lf4hcdG+Uy1nVCNgLFKu1VnT7ppHCLXowweYTFu54ZpNq0tgbRS/HED0KkQJNyOSfWInVqXF6EVrbXdDvMLOFXpUJyhp85SP2KFDTWjYrClfaaf0vqTH8PH45VuFthWWYDhxRUtmyU+7mIzmTqcP0N+1upkfiGHgNRwzW7KQCTgk60lmFSZbB9NhNzkE24HvgZfgSr2xw0XSi8mqwjDQDPxl5XnJK0bvF9Qis5VF2UfemddyVxtA=;xzyLAFJog02JRA6kgBzKBQ=="
+secured: "Mc03w3Nt3MqxAKW/Q8Gzc32G5wzg+VnzNwWIj2mnep/nW+9skMo0WmCBkIyx9d7S9JkG64mwrMYYzPopN0PvCtTNEwjsFPYU4ccfxLoK8Bia3Yu33JrrM3hP6c4iZ7yBNlnGGnB3OlrmmeE7S/mmFwFllyt64MiRjx/zsxv2vpoWrBiXoEG9bIwmU2htxIQD0cW4X2ZK1JA+meJ8uCHbhxqvbFG7RvLyzJfLc82Qf9CuOuhEvJl+rp/gKpsje8mB0159z2/1E2dk9A6nOcvAWx7qLQWWq/m6Qzcc/ISY7zVfhiVuwPYNJ9VRImX2hDoCHYuxuLc57qXUmjLMMbSzkukinvEsRmMMKVvAlWYStt4=;nHWKuZ1En3zcDk64hO+ykA=="
 ---
 

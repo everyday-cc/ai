@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-ai-accurately-synergistic-can
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.amp"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Magnetic resonance imaging and artificial intelligence can detect early signs of tumor cell death after novel therapy"
+    excerpt: "In a recent study published in Nature Biomedical Engineering, a team led by researchers at Massachusetts General Hospital (MGH) has demonstrated that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumor cell death in response to a novel virus-based cancer therapy."
+    publishedDateTime: 2021-12-01T20:29:00Z
+    webUrl: "https://medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/brain-tumor.jpg"
+        width: 2880
+        height: 2188
+        isCached: true
   - title: "Xero Reaches Milestone In AI Strategy Incorporating Machine Learning-powered Predictions For Bank Reconciliation"
     excerpt: "Xero, the global small business platform, today announced a significant milestone in its AI strategy with the roll-out of new bank reconciliation predictions. The predictions feature brings a new application of AI into the Xero platform,"
     publishedDateTime: 2021-11-29T19:31:00Z
@@ -54,6 +70,20 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 50
+  - title: "AI Predictions and Innovations for 2022"
+    excerpt: "Most enterprises failed to scale their AI deployments this year. Will 2022 be the year when this actually happens?"
+    publishedDateTime: 2021-11-30T11:09:00Z
+    webUrl: "https://tdwi.org/articles/2021/11/30/adv-all-ai-predictions-and-innovations-for-2022.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 39
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/2022_blocks.jpg"
+        width: 976
+        height: 400
+        isCached: true
 
 secured: "Jwk8Vbl8xw29AfKFAevQWFXALf7XgzqNEROmFjssYSzZ4qSluGfR59Wgz5yHF6nhft0MniHJRr1jAk9+Ts0AUQTc522hNd1ZcBZnmIna1+Be5frZqnvegsD0FeckZw89PlySHCcDz2OY4gso+cFRPldyVINAt+WLIDsOuiGISTXxMEDHPVR5/9gQ7zjGaxGHZN11B9KoQjGO2X6eJrCRfGXxRhVd5YbJQ8hXT/cZTzZeCe+2u8U7KFSOBwo6yzH8TIiJi6QCvdiKzw9+AEjaT4bA19HyfGgT+OBYBz8KuOcKtZab2i/zBJDQRm+iLgPz0avRS3Y552YtNu/jZol0HdgVbP1B4ED65V6LvuFsW5Hz3FemKkS1F/144hcKGcmKLfULNNk9yHuzTVOnpuVAJbMcgNbRcWX8OKfthG8p71PTiwLNfG5MHXWrIQN1NzV+jPbOFxmF3Nvxc041DS7eInclZEW9ZmwAnM+wGEHWTXcgFayElhxfvk7mwbSNO6POZJ7tflNPzQThvKALdIyPDg==;Ezz/Uqy4stTx2firWy8UGQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24363441"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24363441"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Discovery heads to AWS for cloud transformation"
+    excerpt: "Aiming to accelerate its digital transformation into the cloud and enhancing viewing experiences across its TV channels, content giant Discovery has extended its strategic relationship with AWS."
+    publishedDateTime: 2021-12-01T18:24:00Z
+    webUrl: "https://www.rapidtvnews.com/2021120161673/discovery-heads-to-aws-for-cloud-transformation.html"
+    ampWebUrl: "https://www.rapidtvnews.com/2021120161673/discovery-heads-to-aws-for-cloud-transformation.amp.html"
+    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021120161673/discovery-heads-to-aws-for-cloud-transformation.amp.html"
+    type: article
+    provider:
+      name: Rapid TV
+      domain: rapidtvnews.com
+    quality: 59
+    images:
+      - url: "https://www.rapidtvnews.com/images/2021/Feb_2021/Dplus_discovery_10Feb2021.jpg"
+        width: 831
+        height: 333
+        isCached: true
   - title: "Nasdaq, Inc.: Nasdaq and AWS Partner to Transform Capital Markets"
     excerpt: "Nasdaq Will Begin Migrating Markets to AWS Starting in 2022 Co-Designed Edge Computing Solution Offers On-Ramp for Global Capital Markets to Migrate to AWS Nasdaq's Primary Data Center Becomes"
     publishedDateTime: 2021-12-01T12:51:00Z

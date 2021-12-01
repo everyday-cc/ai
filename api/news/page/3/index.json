@@ -2,6 +2,207 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-01-chinese-province-plans-face-recognition-surveillance-for-journalists.md",
+      "title": "Chinese province plans face recognition surveillance for journalists",
+      "excerpt": "Security officials in China's Henan province have commissioned a surveillance system they say they want to use to track journalists and international students among other \"suspicious people\", Reuters reported.",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/chinese-province-plans-face-recognition-surveillance-for-journalists-1638295667513",
+      "originalUrl": "https://inshorts.com/en/news/chinese-province-plans-face-recognition-surveillance-for-journalists-1638295667513",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/11_nov/30_tue/img_1638292436536_567.jpg?",
+          "width": 960,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/chinese-province-plans-face-recognition-surveillance-for-journalists-1638295667513",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/chinese-province-plans-face-recognition-surveillance-for-journalists-1638295667513",
+      "publishedDateTime": "2021-11-30T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight.md",
+      "title": "AWS re:Invent: Faster chips, smarter AI, and developer tools grab the spotlight",
+      "excerpt": "Invent conference, an event where it typically announces the biggest changes in the cloud computing industry’s dominant platform. This year’s news includes faster chips, more aggressive artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/",
+      "originalUrl": "https://venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-855686630-e1629739858292.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/amp/",
+      "publishedDateTime": "2021-11-30T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models.md",
+      "title": "AWS introduces new Trn1 chips to speed up training of machine learning models",
+      "excerpt": "As more companies move to custom silicon for their customer’s workloads, Amazon has been busy on this front. They introduced the Inferentia chip in 2019 to help speed up inference learning. Then last year the company launched a second Trainium chip,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/",
+      "originalUrl": "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-12.02.09-PM.jpg?w=1024",
+          "width": 1024,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/amp/",
+      "publishedDateTime": "2021-11-30T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-aws-launches-its-graviton-3-processor.md",
+      "title": "AWS launches its Graviton 3 processor",
+      "excerpt": "Invent conference, AWS today announced the newest generation of its Arm-based Graviton processors: the Graviton 3. The company promises that the new chip will be 25 percent faster than the last-generation chips,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/",
+      "originalUrl": "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 259,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-12.00.02-PM.jpg?w=1024",
+          "width": 1024,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/",
+      "publishedDateTime": "2021-11-30T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-swimming-australia-making-gold-medalists-with-machine-learning.md",
       "title": "Swimming Australia: Making Gold Medalists With Machine Learning",
       "excerpt": "For Swimming Australia, a more unified view of data was essential to optimizing athlete performance at the Tokyo Olympic games—and bringing home nine gold medals.",
@@ -144,6 +345,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-nasdaq-and-aws-partner-to-transform-capital-markets.md",
+      "title": "Nasdaq and AWS Partner to Transform Capital Markets",
+      "excerpt": "Nasdaq Will Begin Migrating Markets to AWS Starting in 2022 Co-Designed Edge Computing Solution Offers On-Ramp for Global Capital Markets to Migrate to AWS Nasdaq's Primary",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/g24363441/nasdaq-and-aws-partner-to-transform-capital-markets",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/g24363441/nasdaq-and-aws-partner-to-transform-capital-markets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24363441",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24363441",
+      "publishedDateTime": "2021-11-30T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -398,7 +642,7 @@
       "originalUrl": "https://www.lelezard.com/en/news-20132061.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -441,7 +685,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 215,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -483,7 +727,9 @@
         "Machine Learning",
         "AI",
         "AI in Autos",
-        "Microsoft AI"
+        "Microsoft AI",
+        "IBM AI",
+        "AWS AI"
       ]
     },
     {
@@ -578,6 +824,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-aws-reinvent-2021-keynote-live-heroes-bowed-clouds-endowed-crowds-allowed.md",
+      "title": "AWS re:Invent 2021: Keynote live - heroes bowed, clouds endowed & crowds allowed",
+      "excerpt": "Invent 2021 is big… but actually it’s not, this event has about a third of its normal number of attendees with somewhere around 20,000 people on-site, which (in the continuing Covid-19 era) still feels very crowded.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-reInvent-2021-Keynote-live-heroes-bowed-clouds-endowed-crowds-allowed",
+      "originalUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-reInvent-2021-Keynote-live-heroes-bowed-clouds-endowed-crowds-allowed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itknowledgeexchange.techtarget.com/cwdn/files/2021/11/111-1.jpg",
+          "width": 580,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-reInvent-2021-Keynote-live-heroes-bowed-clouds-endowed-crowds-allowed?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/AWS-reInvent-2021-Keynote-live-heroes-bowed-clouds-endowed-crowds-allowed?amp=1",
+      "publishedDateTime": "2021-11-30T05:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -685,7 +974,7 @@
       "originalUrl": "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -780,7 +1069,7 @@
       "originalUrl": "https://www.wired.com/story/an-ai-finds-superbug-killing-potential-in-human-proteins/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -914,273 +1203,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-us-robot-manufacturer-to-pay-15-crore-to-claim-rights-for-kind-and-friendly-human-face.md",
-      "title": "US Robot Manufacturer To Pay 1.5 Crore To Claim Rights For 'kind And Friendly' Human Face",
-      "excerpt": "A tech company named Promobot is seeking a face for its next humanoid robot. The face of the person will be used for appearance of robots in places like malls.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/technology-news/other-tech-news/us-robot-manufacturer-to-pay-1-dot-5-crore-to-claim-rights-for-kind-and-friendly-human-face.html",
-      "originalUrl": "https://www.republicworld.com/technology-news/other-tech-news/us-robot-manufacturer-to-pay-1-dot-5-crore-to-claim-rights-for-kind-and-friendly-human-face.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/jrckmcyacezbwqgf_1638243005.jpeg",
-          "width": 768,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/technology-news/other-tech-news/us-robot-manufacturer-to-pay-1-dot-5-crore-to-claim-rights-for-kind-and-friendly-human-face.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/technology-news/other-tech-news/us-robot-manufacturer-to-pay-1-dot-5-crore-to-claim-rights-for-kind-and-friendly-human-face.html",
-      "publishedDateTime": "2021-11-29T20:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability.md",
-      "title": "Eftpos expands security kit bag with new AI anti-fraud capability",
-      "excerpt": "Eftpos has switched on a new AI anti-fraud online capability as the Australian debit payments provider continues to expand its security features. The new capability is underpinned by a fraud detection engine that uses AI and machine learning to predict individual behaviour in real time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability/",
-      "originalUrl": "https://www.zdnet.com/article/eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability/",
-      "publishedDateTime": "2021-11-29T20:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-trans-ai-will-propel-artificial-general-intelligence-to-superintelligence.md",
-      "title": "Trans-AI will propel Artificial General Intelligence to Superintelligence",
-      "excerpt": "The critical issue is that Artificial Intelligence is weak and narrow, instead of being trans-disciplinary AI or true machine intelligence and learnin..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-87995459,imgsize-1900172,width-1200,height-628,overlay-etcio/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "publishedDateTime": "2021-11-29T19:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-face-off-robots-come-equipped-with-facial-recognition.md",
-      "title": "Face-Off: Robots Come Equipped With Facial Recognition",
-      "excerpt": "In the not-so-distant future, robotic dogs equipped with facial recognition cameras might just scamper about outside and help police officers identify suspicious persons. Contactless commerce, airport security and law enforcement: The use of facial recognition technology (FRT) is quickly becoming a must-have for the public and private sectors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367",
-      "originalUrl": "https://www.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/489420",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367/amp",
-      "publishedDateTime": "2021-11-29T17:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-botto-the-decentralized-aihuman-artist-makes-its-first-million.md",
-      "title": "Botto, the decentralized AI/human artist, makes its first million",
-      "excerpt": "An AI algorithm called Botto has made somewhere around US$1.3 million at auction for its first six NFT artworks. Botto generates thousands of images, and a community of humans vote to influence its direction and decide which pieces go to auction.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/collectibles/botto-ai-art/",
-      "originalUrl": "https://newatlas.com/collectibles/botto-ai-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/34517ed/2147483647/strip/true/crop/2048x1365+0+341/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb0%2F89%2F6489f46f43dcbb4de8256f316912%2Fblossoming-cadaver.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/collectibles/botto-ai-art/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/collectibles/botto-ai-art/?amp=true",
-      "publishedDateTime": "2021-11-29T17:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security.md",
-      "title": "Hyderabad: GITAM to host FDP on AI in Cyber Security",
-      "excerpt": "The Department of CSE, School of Technology of GITAM Deemed to be University, here, is organising a one-week faculty development programme (FDP) on ‘Role of Artificial Intelligence in",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security-717508",
-      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security-717508",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/11/29/1124076-gitam.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security-717508",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security-717508",
-      "publishedDateTime": "2021-11-29T16:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

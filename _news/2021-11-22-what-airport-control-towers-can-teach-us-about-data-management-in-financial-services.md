@@ -5,6 +5,8 @@ excerpt: "Currently, the biggest challenge in data management for FIs is removin
 publishedDateTime: 2021-11-22T11:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/what-airport-control-towers-can-teach-us-about-data-management-in-financial-services/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/what-airport-control-towers-can-teach-us-about-data-management-in-financial-services/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/what-airport-control-towers-can-teach-us-about-data-management-in-financial-services/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/22/what-airport-control-towers-can-teach-us-about-data-management-in-financial-services/amp/"
 type: article
 quality: 62
 heat: 62
@@ -28,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "0OHLPlR8ji4hIYLkU9IoVQhK2/hkTP8bio/Paed3ERWiu3chKp/W+SKKt0MWU2dZzeQ+q6lD88WQMLAxrWy9Le0DR80uOvg9PXnybqluyLNfoyzvOlVx74O0Ixrhj8uAyIXP9HWQgOaydClZFBElQU+tOxLbVxSZATwkWHuqRtaVzpss6d51GsPwhn3dzCId/Q71KB/9Hk6WOCjyNDs51utHYOsZOrHXkgV4IWXwMjH7F6ZoT5VCHY1DryFE+cPCD6msBB+ojt7x67moAjhWA/5NN9mqf4wLWO3Q+xlosJFt6F0BYQ4Gq/gNxMS+Ji3Fc8pCrQengFqGgHo5juggW5iQ5vQlDWB+TtH4WsLwNtk=;nd0cMa/0p/DNSLXsyDeH5Q=="
+secured: "HR5bY9C6OKjAgbHzhbX7eM57PDSNKKwkTjNkIEo2EX1sxymuSSh+3usTuT4Eh7P0bpo97Yj9U9mAET01YVTmbOTE5dF/zQuMPjSet+skn6gNoFG8vZxfD1Ijcq3azgkBex7/oOH2eSJTsf9uIfOk3Ef+Kz3kwNNmGhYAEahIIc8l8YAgRO1S3fJta8ioFBCUWv86dzgPY2RwF9jAqFb4pRRyeXvM3u7OB2jvVT69P3C2zx71sDh2e9NE9Yo/J7J4aL9guGwD4U3G/PLmoj5aNjKQSsGhi3kq1b1sM3RvT7N2SX6LrAtvzeiRSituNgzuiGcmz4F4wmH3m8tbpokwh4OyyNkL+GwQmQWkr0T4Pf5M9k64LeuVEUTe0xqMD3aRrNEJW0FJj01Ur/CJ/Fp/o1j3odvHpoj8Nx/j1UqpLr8/5hRo823GLb0XXZ2mbF2hF05XbDkFVdx6oyaKyXAUMZE84HDXwQSQDi1SEC+XQ0V94uJbu7OmkgJTmsQf3oJOgtlAkQmkW5xqaw+NSh2oZg==;vSlUssrvonXK4hEW8wB1QQ=="
 ---
 

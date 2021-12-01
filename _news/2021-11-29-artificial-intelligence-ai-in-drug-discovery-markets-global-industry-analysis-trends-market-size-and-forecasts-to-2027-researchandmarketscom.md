@@ -79,6 +79,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
+  - title: "3D Printing Sourcing and Procurement Report Forecasts the Market to Have an Incremental Spend of USD 29.41 Billion | SpendEdge"
+    excerpt: "During the forecast period, the 3D Printing industry will see an increase in spending of around USD 29.41 billion. However, the majority of this expansion will be driven by only a few regions. Furthermore,"
+    publishedDateTime: 2021-12-01T18:40:00Z
+    webUrl: "https://www.lelezard.com/en/news-20135745.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1697964/3D_Printing_Market_Procurement.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "tQ2uM5SMPMwvCuYkMolZ0iTxbhZkRlRxshKW2aQUCeOAM9t5dktUCCfYCjzlF0mznZy2b8yiVa9nTrbsK6P6kMNK8y+HzTWXcRyzKwrPpaZXZZSSTdNPgqWZs9djhGlMQ2eZVRDpWoxlM01JHU9Il8B+Sin4urPaN6WpNDFAEQTbQChNSxAD0rDrdsQMhdKIVxkcZO7YlrOq7pmVexWUUukoWn/zoWCdRzXKok7nnrrVBsq9XfISDlnb8rQBM1oMAkGkWI0VrORRpoj8VHjFQjaY/EIzux+ym9lvoRKRoX/4N0esN3QqS11W2yjNWzvAyJl5o/JlZMDihEMVpCCHiGVCO50HPPW4abgKjtZ8vrY=;V0QLO4yVGA8nQ9x+2MVGKw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/211129174929-02-xenobots-self-replicating-robots-scn-112921-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Xenobots, The World’s First Living Robots, Can Reproduce"
+    excerpt: "With scientists making biological robots that can reproduce called Xenobots, one science fiction horror story is coming true. Or is it?"
+    publishedDateTime: 2021-11-29T23:58:00Z
+    webUrl: "https://www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/"
+    ampWebUrl: "https://www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/amp/"
+    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/amp/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 59
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2021/11/Xenobot.jpg"
+        width: 1000
+        height: 666
         isCached: true
   - title: "Meet Xenobots, World's First Living Robots That Can Reproduce"
     excerpt: "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world."
@@ -126,7 +142,7 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 34
+    quality: 36
 
 secured: "gEKuufIZv0t3xb8wrBlFldRHjSEFHYd+R5K3vXpftLJgB5a+NW0dMmNHSyYw9G7VaIyMDpIWgWoas+TuASZ/BU6fpdhRN5TL6p17JpFzzRi1gYfDNyJhJpzXIMCyOlXXjYdOf/UYRwekkBbCyh4IBlhzP4XPLjxpUtAP774L46ET1PseZlfgFf0HymvkFWoq2Crsu9oWfozYOe9jJhkXXNR4Vu1j8XbRQ9fPJ8E8Ro1DV5OVWu7OW2CcrvnH5S27Sjn9OHgfptuXdkyR/Cfr7xbOkqej2RpyajAUJPVHH/KawQdCjMxhlcqtg1G7ZfzT3g5I8Km2ZuEn9v/peCv1tNaSZSBQVRTSKBlQM6flFqUnJvsytf+AapCI7PcOsE9vGsmIeHOJ61QI3sMGtlMa57EKFlphTMhhb9m8K9s5qH7uN8lzkPwFeCoIbI7kLxPlhWG7NOpzLeBJxTZbm2yYqPXI3KOtO6ul64QZRpbZrhBvwV8HNad6uOf+4tXQyvx8ckRlHlzfwiN8PXp4SBLmDw==;nNgqmIw67UN81NtvMj5xog=="
 ---

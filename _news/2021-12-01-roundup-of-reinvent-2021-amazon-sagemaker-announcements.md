@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS launches new SageMaker features to make scaling machine learning easier"
+    excerpt: "Invent conference, AWS today rolled out a slew of new features for SageMaker, the company’s managed service for building, training and deploying machine learning (ML) models. Swami Sivasubramanian, the vice president of machine learning at Amazon,"
+    publishedDateTime: 2021-12-01T19:05:00Z
+    webUrl: "https://techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/"
+    ampWebUrl: "https://techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/12/aws-conference-header.png?w=1024"
+        width: 1022
+        height: 565
+        isCached: true
   - title: "AWS launches SageMaker Studio Lab, a free tool for learning machine learning"
     excerpt: "Invent conference, AWS today announced SageMaker Studio Lab, a free service to help developers learn machine learning techniques and experiment with the technology. Studio Lab provides users with all of the basics to get started,"
     publishedDateTime: 2021-12-01T18:30:00Z
@@ -44,6 +60,22 @@ related:
       - url: "https://i.ytimg.com/vi/k2nVIvHB1dk/hqdefault.jpg"
         width: 480
         height: 360
+        isCached: true
+  - title: "AWS wants to make it easier to get to grips with machine learning"
+    excerpt: "Getting to grips with Machine Learning (ML) technology could soon be much easier thanks to a new service from Amazon Web Services. The company has launched Amazon SageMaker Studio Lab, a free, no-configuration version of its SageMaker program that lets ..."
+    publishedDateTime: 2021-12-01T20:43:00Z
+    webUrl: "https://www.techradar.com/uk/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 106
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/44N2dMX6W8iN7QUNtgTKWM-1200-80.jpg"
+        width: 970
+        height: 516
         isCached: true
   - title: "Amazon launches SageMaker Canvas for no-code AI model development"
     excerpt: "Invent 2021 conference, Amazon announced SageMaker Canvas, a no-code development tool for machine learning applications."
@@ -61,6 +93,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "AWS rolls out SageMaker Studio Lab, a free ML service for beginners"
+    excerpt: "Invent, the cloud giant also announced a new $10 million AI & ML scholarship program for underrepresented and underserved students."
+    publishedDateTime: 2021-12-01T18:30:00Z
+    webUrl: "https://www.zdnet.com/article/aws-rolls-out-sagemaker-studio-lab-a-free-ml-service-for-beginners/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-rolls-out-sagemaker-studio-lab-a-free-ml-service-for-beginners/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-rolls-out-sagemaker-studio-lab-a-free-ml-service-for-beginners/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
   - title: "Create and manage Amazon EMR Clusters from SageMaker Studio to run interactive Spark and ML workloads – Part 1"
     excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps required to prepare data, as well as build, train, and deploy models. We recently introduced the"
     publishedDateTime: 2021-12-01T18:03:45Z
@@ -130,6 +173,20 @@ related:
       - url: "https://technuter.com/wp-content/uploads/2020/05/Qlik.jpg"
         width: 333
         height: 285
+        isCached: true
+  - title: "AWS Announces AWS IoT TwinMaker"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS IoT TwinMaker, a new service that makes it faster and easier for developers to create digital twins of real-world systems like buildings,"
+    publishedDateTime: 2021-11-30T17:38:00Z
+    webUrl: "https://www.eagletribune.com/region/aws-announces-aws-iot-twinmaker/article_daf87a52-cb4e-57ab-a868-dff09aacecd1.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
         isCached: true
   - title: "AWS Announces Six New Amazon SageMaker Capabilities"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."

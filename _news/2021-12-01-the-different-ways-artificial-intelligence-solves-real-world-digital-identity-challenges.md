@@ -1,18 +1,18 @@
 ---
 category: news
 title: "The Different Ways Artificial Intelligence Solves Real-World Digital Identity Challenges"
-excerpt: "Forward-looking businesses are using artificial intelligence to solve real-world digital identity challenges.  Javelin's 2020 Identity Fraud Survey revealed the total cost of identity fraud in 2019 to be about $16."
-publishedDateTime: 2021-11-30T23:41:00Z
-originalUrl: "https://www.mysanantonio.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
-webUrl: "https://www.mysanantonio.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
+excerpt: "Forward-looking businesses are using artificial intelligence to solve real-world digital identity challenges. Javelin's 2020 Identity Fraud Survey revealed the total cost of identity fraud in 2019 to be about $16."
+publishedDateTime: 2021-11-30T23:27:00Z
+originalUrl: "https://www.timesunion.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
+webUrl: "https://www.timesunion.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
@@ -41,6 +41,6 @@ related:
         height: 800
         isCached: true
 
-secured: "s3T+jb+AhkiB68curju8oaKofI285OfYAaUDl4QoyDoZNXzCFtCsXYa7CoJF2BPw6KUP7VRDr30Fj/3AHLvONGpnkd1UJaDw5DQ7U4i8FWwz9/+yCrIb49igrCPjrBIT9XAm4XsOOtpIHZ5HTeJN4CMPdaugDzm5kthIaukbCT5/d5pxvN470I++/EdV33YpGyvm0GxGceind3PhH8v/4eB108Mhk5QafqBzCsvQd1j5bUzP9Yh+Yv+4nGnY4JhZmNtV6uChKurSEvww6D1iqVs1WLy98LuZswOg7PPXV78WiV9X8WwPMAb7PtG0RP52qo8TXIPtfYYJpDAei9RzOezrmJKAUJJI1wYBWuzyxLo=;17l2SC/4fjXo/Gyw3G3RaA=="
+secured: "lG7B/udIQFhdvOb8KpRLNMsyOJs7/nK50jisS3IEqo+2LLUVpCBE3T6yHO6PJWt3oqmlrRT75aSHnDxgy8CgpWl1mZ5rjlzGkMMQhpSauvmMIhZuNqN7YKxOBnDhVSnfhYz0KCw4HPXbdDYrmjsvbNFSR9uSYnK7+hQHgmTbyTX9alttXRB2ZGcxVq+nutoYutu42wdv7+jK1PteGCVkfFrBUYGZGhiklqfyjDA8X5KPdrl45dGtLEpIQzRM+2fdkzDxBm/qBoqRjuJZLYufqNwN05D/sMboZi3oArHtKHQFOvkYA447O514ds/JLnT3FTEmUOIv53JxYE5P7AFFCSMOeusvN2fKDmm/2DJWpMQ=;g7JYlx1nqNkCkiZAc/PfzQ=="
 ---
 

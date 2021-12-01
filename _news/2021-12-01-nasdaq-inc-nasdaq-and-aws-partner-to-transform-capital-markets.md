@@ -41,6 +41,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Discovery heads to AWS for cloud transformation"
+    excerpt: "Aiming to accelerate its digital transformation into the cloud and enhancing viewing experiences across its TV channels, content giant Discovery has extended its strategic relationship with AWS."
+    publishedDateTime: 2021-12-01T18:24:00Z
+    webUrl: "https://www.rapidtvnews.com/2021120161673/discovery-heads-to-aws-for-cloud-transformation.html"
+    ampWebUrl: "https://www.rapidtvnews.com/2021120161673/discovery-heads-to-aws-for-cloud-transformation.amp.html"
+    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021120161673/discovery-heads-to-aws-for-cloud-transformation.amp.html"
+    type: article
+    provider:
+      name: Rapid TV
+      domain: rapidtvnews.com
+    quality: 59
+    images:
+      - url: "https://www.rapidtvnews.com/images/2021/Feb_2021/Dplus_discovery_10Feb2021.jpg"
+        width: 831
+        height: 333
+        isCached: true
 
 secured: "VqH0/P6NVcciNQjBxJMiDUzALbX5l3iB4zwYYBZoCnmg0c87oJdzTmO2vDFV95+K0ulo/eHfycnfeqpbRgN7NO5i8HKMS2swdi9xVnEJH22qOz5mc8nfuVus4gKfhsu+luwivay1RpsKnxVsxuzvQwoKtGtJZHdK3yCuYCJXJpITaxE+GPX0MbyAGXyGVTmLV9KhuAjPC5w5BC4QS5Nh5prgwQpU1mdm5ldU/1QKATUyihR85Ur+ggDjezy7VSD0uV19SZ2eoY4IKL9/SXDfBcdDhmkUuR04Bz1QIVY39EqbHpc2Fq1hGlWaqm6ubRSfN0oINRJDYPHUfMGCOMoLiHUgpyT9FfhGCRH1WwbTDk0=;HojGo2d0tMBEKdeoI7MylQ=="
 ---

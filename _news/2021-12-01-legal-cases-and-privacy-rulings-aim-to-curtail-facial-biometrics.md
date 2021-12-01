@@ -39,6 +39,20 @@ related:
         width: 1100
         height: 734
         isCached: true
+  - title: "Adversarial image attacks could spawn new biometric presentation attacks"
+    excerpt: "New research conducted by the University of Adelaide unveils new security risks connected to adversarial image attacks against object recognition algorithms."
+    publishedDateTime: 2021-12-01T20:25:00Z
+    webUrl: "https://www.biometricupdate.com/202112/adversarial-image-attacks-could-spawn-new-biometric-presentation-attacks"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/01151845/object-recognition.jpg"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Veridas achieves high scores in NIST face and voice biometrics accuracy evaluation"
     excerpt: "Veridas has scored impressive results in the joint face-and-voice-recognition biometrics evaluation from the National Institute of Standards and Technology."
     publishedDateTime: 2021-11-29T19:31:00Z

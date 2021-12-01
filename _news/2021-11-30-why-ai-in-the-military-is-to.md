@@ -9,7 +9,7 @@ ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/w
 cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
 type: article
 quality: 57
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-01T08:02:00Z
 originalUrl: "https://semiengineering.com/startup-funding-november-2021/"
 webUrl: "https://semiengineering.com/startup-funding-november-2021/"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/2016/11/iStock_105922901_SMALL.jpg?fit=848%2C565&#038;ssl=1"

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Full Self-Driving Diary: A longtime Tesla driver’s perspective on FSD beta"
+    excerpt: "After a month of safe and cautious driving, I finally achieved a Safety Score of 99 last week, and shortly thereafter, I was granted access to the Full Self-Driving Beta for my 2021 Model Y. The experience with the FSD Beta over the last seven days has made a few things clear: it’s very much"
+    publishedDateTime: 2021-12-01T20:46:00Z
+    webUrl: "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/"
+    ampWebUrl: "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 87
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla releases new footage of auto labeling tool for its self-driving effort"
     excerpt: "Tesla’s head of AI has released new footage of the automaker’s auto labeling tool for its self-driving effort. It’s expected to be an important accelerator in improving Tesla’s Full Self-Driving Beta."
     publishedDateTime: 2021-12-01T11:14:00Z
@@ -41,21 +57,21 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla's New Self-Labeling AI Just Brought It One Step Closer to Level-3 Automation"
-    excerpt: "Tesla's self-labeling AI just brought Elon Musk's firm a step closer to level-3 automation! And it could roll out in the Full Self-Driving Beta."
-    publishedDateTime: 2021-12-01T16:33:00Z
-    webUrl: "https://interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
-    ampWebUrl: "https://amp.interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
+  - title: "Level-Setting: Why Drivers Still Don’t Understand Self-Driving"
+    excerpt: "In the survey, only 37% of respondents correctly identified Levels 4 and 5 (based on SAE definitions) as referring to fully automated self-driving. In fact, more than half (55%) pointed to descriptions that are actually aligned with more modest driver ..."
+    publishedDateTime: 2021-11-30T14:07:00Z
+    webUrl: "https://www.forbes.com/wheels/news/power-mobility-confidence-index/"
+    ampWebUrl: "https://www.forbes.com/wheels/news/power-mobility-confidence-index/?amp"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/power-mobility-confidence-index/?amp"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 68
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplPZVOW/sizes/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation_resize_md.jpg"
-        width: 744
-        height: 419
+      - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/11/Smart-self-drive-proto-1200px.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "YYjjXIwiG6xYzvM2f2ZAsmRii4U/V0LdPJMZ7/cI4sYUo0kI9OZzZrWr/e7rZ25iK6Ke7ZqhaDxu6hN5NKLWh6amcUj/hD267cgdRWWTXZHHaNCQ3Z1mL4m4wNzfPk58xbt67Nz9vyAf95kQQcl+TJCP8BM8vq7ehb3mePFYmoci9BQ+xK3FU/aXt8PvcFDqBaptplFZZ6LZ1BZRcvftJ7mh2kYFp66ozXv/y2V2kVJqfZU98EAtEBjgD5bUSrmFztSF/maPIhrX4SP0I1bPiSa65tB1bMvflkoMdronjOBi/l8tX1baTx8UPqPK7paaarNqNpUAWKHdMKI4M75WrMBhg4ghTlg9jWxQ+V5Gmg4mPXcFz1C17KxfwH07W0TNrj9gB0ThiGohL5MMvD9g3eLeG8mQF6RmIjRMYAk+BIXmMtFw+hDJKBzNk8efr98RZVYtZt6wv55obSt7lMZf8nz49T0q3wf4BCm8IR2ENXE+irgPX0QYbqz7IfYYzSC/Ik/6Pn2Hsw+Oqn9wI4K16g==;Ksgu1m0TctIbgW5ewUQgew=="

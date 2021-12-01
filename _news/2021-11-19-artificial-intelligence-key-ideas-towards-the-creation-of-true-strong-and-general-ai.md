@@ -22,6 +22,7 @@ topics:
   - Google AI
   - AI
   - Facebook AI
+  - Machine Learning
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQEh8NspAmAjfg/article-cover_image-shrink_600_2000/0/1637232676977?e=1642636800&v=beta&t=6r0uZjq9SnEEPI22-sxBoyQ8QGn1gjNHMDmSXY2K73U"

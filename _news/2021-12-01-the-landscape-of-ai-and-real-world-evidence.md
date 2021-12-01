@@ -31,13 +31,13 @@ images:
 
 related:
   - title: "The Different Ways Artificial Intelligence Solves Real-World Digital Identity Challenges"
-    excerpt: "Forward-looking businesses are using artificial intelligence to solve real-world digital identity challenges.  Javelin's 2020 Identity Fraud Survey revealed the total cost of identity fraud in 2019 to be about $16."
-    publishedDateTime: 2021-11-30T23:41:00Z
-    webUrl: "https://www.mysanantonio.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
+    excerpt: "Forward-looking businesses are using artificial intelligence to solve real-world digital identity challenges. Javelin's 2020 Identity Fraud Survey revealed the total cost of identity fraud in 2019 to be about $16."
+    publishedDateTime: 2021-11-30T23:27:00Z
+    webUrl: "https://www.timesunion.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
     type: article
     provider:
-      name: My San Antonio
-      domain: mysanantonio.com
+      name: Times Union
+      domain: timesunion.com
     quality: 28
     images:
       - url: "https://s.hdnux.com/photos/01/23/03/11/21770833/3/rawImage.jpg"

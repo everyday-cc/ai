@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-reInven
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/AWS-reInvent-2021-Keynote-live-heroes-bowed-clouds-endowed-crowds-allowed?amp=1"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Computer Weekly
@@ -40,6 +40,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/selipskyreinvent2021-2.jpg"
         width: 3735
         height: 2514
+        isCached: true
+  - title: "Adam Selipsky Keynote | re:Invent 2021 Recap"
+    excerpt: "Topic Adam Selipsky, AWS CEO, takes the stage to share his insights and the latest news about AWS customers, products, and services. Observations Newbie, Adam Selipsky, gave us his first re:Invent keynote at this year's 10th-anniversary conference,"
+    publishedDateTime: 2021-12-01T10:33:00Z
+    webUrl: "https://www.linkedin.com/pulse/adam-selipsky-keynote-reinvent-2021-recap-jason-oliver"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHF0ZZYadax3g/article-cover_image-shrink_720_1280/0/1638307143591?e=1643846400&v=beta&t=V48DnsEa7CUJtlqWL6OzMNu2-I40b7vJTxHYxe3D3VY"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "PkWmaf8ZZJ/FTpZ1hjh5QYIwhAmoSZRpbnemOIH+iyxNTRG2R2ZOkpoMdDwB9FWBN6Ca3FkMu7flgmXdQde8sFQhOU/Pd+o/4r5Hbch3Xwp1X7evaUBRbQMJVIoB2DR4fZgAOI/Dcea0qI/O3H6vpRq6bZLfdBACACAFE8rVihX2yfjgWigPQ9CQrwSBAVJV8nQXCx5x3tVzEs/8JKKeortr6eC8Win/4XNveB/SUZriSq8jgD7izdR+DDi5QPpX7zZPNCjY5yW7PHpuxAv9sM4BJvvCS2g7dQjRPNg7vshmMWvb/IO4D4z94joglR0tulvrsie14oCbY1T5q9Etn/3LHHAX2H2ozDPC9/83g+SCfq8srrIHt0tCX4PoyaOuhk2gm1ngMSbCug/p5aWmxLjufHZ6/aCtwckrbyi7Vn8F3rH6A1DLeuxNGXs2PIxiQgn3LLYEBxJzzFmemjCTIYZAL+QAhzLxlHUGZ9fWtlZb5OggQtFjlGbmHBKq9f0GY27ns0osa8+qvmUWXFDFOw==;UboGsq0op3aNsBP2+6ulHQ=="

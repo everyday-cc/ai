@@ -148,6 +148,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Qualcomm Unveils New Snapdragon 8 Gen 1 Chip for Next-Generation Flagship Phones"
+    excerpt: "Qualcomm unveiled its new 5G mobile platform for next-generation flagship Android devices, called Snapdragon 8 Gen 1."
+    publishedDateTime: 2021-12-01T19:20:00Z
+    webUrl: "https://www.androidbeat.com/2021/12/qualcomm-unveils-snapdragon-8-gen-1-chip-next-generation-flagships/"
+    ampWebUrl: "https://www.androidbeat.com/2021/12/qualcomm-unveils-snapdragon-8-gen-1-chip-next-generation-flagships/amp/"
+    cdnAmpWebUrl: "https://www-androidbeat-com.cdn.ampproject.org/c/s/www.androidbeat.com/2021/12/qualcomm-unveils-snapdragon-8-gen-1-chip-next-generation-flagships/amp/"
+    type: article
+    provider:
+      name: androidbeat.com
+      domain: androidbeat.com
+    quality: 54
+    images:
+      - url: "https://www.androidbeat.com/wp-content/uploads/2021/12/Snapdragon-8-Gen-1-hero.png"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "Qualcomm and Google are partnering to provide a better AI experience on smartphones"
     excerpt: "Google and Qualcomm plan to accelerate neural network development and differentiation for Snapdragon mobile, ACPC, and XR platforms, Snapdragon Ride Platform, and Qualcomm Technologies’ IoT platforms"
     publishedDateTime: 2021-12-01T07:41:00Z
@@ -163,6 +179,22 @@ related:
       - url: "https://st1.bgr.in/wp-content/uploads/2021/11/google.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Qualcomm Snapdragon 8 Gen 1 Arrives To Supercharge Next-Gen AI Powered Flagship Phones"
+    excerpt: "Qualcomm unveils a powerful new flagship Android phone chipset successor to Snapdragon 888, with big performance claims and fresh new branding."
+    publishedDateTime: 2021-11-30T22:00:00Z
+    webUrl: "https://hothardware.com/news/qualcomm-snapdragon-8-gen-1next-gen-ai-flagship-phones"
+    ampWebUrl: "https://amp.hothardware.com/news/qualcomm-snapdragon-8-gen-1next-gen-ai-flagship-phones"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/qualcomm-snapdragon-8-gen-1next-gen-ai-flagship-phones"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 51
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56920/content/small_snapdragon-8-gen-1-phone.jpg"
+        width: 708
+        height: 531
         isCached: true
   - title: "Qualcomm Snapdragon 8 Gen 1 announced: Top features, specs, and phones to be powered by new chip"
     excerpt: "Qualcomm unveiled the much-anticipated Snapdragon 8 Gen 1 processor as its new 5G mobile platform for next-generation flagship Android devices at the annual Snapdragon Tech Summit on Wednesday. The chip is the first to feature the new Snapdragon branding."

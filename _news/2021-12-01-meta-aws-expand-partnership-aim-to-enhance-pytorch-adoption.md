@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-aws-expand-partnership
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/"
 type: article
 quality: 103
-heat: 143
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -27,54 +27,20 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Beyond the migration: Accenture and AWS expand partnership to support continuous cloud innovation"
-    excerpt: "Five-year extension also includes training to help clients understand and implement cloud capabilities more quickly."
-    publishedDateTime: 2021-11-29T23:33:00Z
-    webUrl: "https://www.techrepublic.com/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/"
+  - title: "Evolution of Cresta’s machine learning architecture: Migration to AWS and PyTorch"
+    excerpt: "Cresta Intelligence, a California-based AI startup, makes businesses radically more productive by using Expertise AI to help sales and service teams unlock their full potential. Cresta is bringing together world-renowned AI thought-leaders, engineers, and investors to create a real-time coaching and"
+    publishedDateTime: 2021-12-01T19:26:58Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 76
+      name: AWS
+      domain: aws.amazon.com
+    quality: 118
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/08/27/06823878-e36c-485b-a5ef-0f779b1e98f8/resize/1200x/ef0d165740f66078f83f197b32b4039e/gettyimages-da-kuk.jpg"
-        width: 1200
-        height: 900
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/26/ML-6937-image001-782x630.png"
+        width: 782
+        height: 630
         isCached: true
-  - title: "AWS announces expanded cloud partnerships with Meta, Discovery and Aurora"
-    excerpt: "Meta Platforms Inc., formerly Facebook Inc., as well as Discovery Inc. and Aurora Innovation Inc., which develops autonomous vehicle technology. The partnership with Meta is the main highlight. Besides being one of the world’s largest tech firms,"
-    publishedDateTime: 2021-12-01T18:35:00Z
-    webUrl: "https://siliconangle.com/2021/12/01/aws-announces-expanded-cloud-partnerships-meta-discovery-aurora/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/aws.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-    excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS's proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-01T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-meta-selects-aws-as-key-long-term-strategic-/2021/12/01/9502660.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-    excerpt: "Meta and AWS will jointly help enterprises use PyTorch on AWS to bring deep learning models from research into production faster and easier Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc."
-    publishedDateTime: 2021-12-01T16:16:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/meta-selects-aws-as-key-long-term-strategic-cloud-provider"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 19
 
 secured: "jWIGoGtjJ3pFB0R8PwhREd0GEmIbs56kWvw/u2v4LccSZc+7b0B8JLS1MWFCqhuVA4ktnG5igBwdqSRx3yPBjjtopjG5xeEnzvrguRmXLRhrqokBOGl3zb6vzBOs9LxKEw68eKkUWG3xdEwqF+kv3F166RxkWfiIiuX6kgl+WzPZ/wd1lJRU4CwtDlxZQNj9+pNI22rM/Vf0NV9GUBh1dlINNsQU6XvtBywRmqFHFs5dPHWctBEet9aio3NHT1zmeHA74aydj6QoElNq+NGetcdkOG4t3PVlxpQhl9p8VJheLbtl/OGfHpaHAVRTqNx52lBo1m0dyUJkUe5WBppjzn34jG4f3LBdny1tReXEZBkogyQZ+Ztjo692LKITQ8hs2x6CaA0ThIucHVuSgaTvrwRn8ZSamEPwZuCxtkd7H8B0WB0uBptlwA9YDB2LY5FXZKUC6Ri58PBt/UVaWRl5OYGd1oSGkgFBfELWg2STupN6KL2gyE/vbxor1cJ2BdM5AVqZ6/LOfqscK7UnrH3B5Q==;Bov0p4/C7w03kUdHUZgLpQ=="
 ---

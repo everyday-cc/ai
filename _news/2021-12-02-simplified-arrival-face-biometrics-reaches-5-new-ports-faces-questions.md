@@ -39,6 +39,20 @@ related:
         width: 656
         height: 656
         isCached: true
+  - title: "Adversarial image attacks could spawn new biometric presentation attacks"
+    excerpt: "New research conducted by the University of Adelaide unveils new security risks connected to adversarial image attacks against object recognition algorithms."
+    publishedDateTime: 2021-12-01T20:25:00Z
+    webUrl: "https://www.biometricupdate.com/202112/adversarial-image-attacks-could-spawn-new-biometric-presentation-attacks"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/01151845/object-recognition.jpg"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Veridas achieves high scores in NIST face and voice biometrics accuracy evaluation"
     excerpt: "Veridas has scored impressive results in the joint face-and-voice-recognition biometrics evaluation from the National Institute of Standards and Technology."
     publishedDateTime: 2021-11-29T19:31:00Z
@@ -54,6 +68,6 @@ related:
         height: 630
         isCached: true
 
-secured: "tvEsGiliCyBEfJ/Mms7AIWoCNEqv1J8AZyMrXE0itWW8xqgMhnUUkYV97adDTeXoKxGALCArNIY5ng2yc0+RZqSW8WKn+daniHzyQgLq8qzQhwAc23HV6kTmi22IKjM+I4e4JZjIQcTX2DbSPmqD96W5eo6kEvXirOeycRSAwkBfQuPNXVE4MLYZWLpHuCF3kyPyZiuJSnqtsZ/M9MeEpCJw3myb5rPtzi8NgM0m9GND+n5ScpT3pQwhZXFPJvjA5IhTrPI9lLPkD+Wn9OjttNqUkPstI9V5rCklfT7EivRNTTxt9bNbKBrSnuPtL3kyt5s/BeeKIq85wfzdj9ZIOuCQ/8cfzM/1XNDDeqBqnu4=;RBq+oTQuve7ubh5ww+nZMw=="
+secured: "L3nLKxgVsxl6SaZ8MmmFpVaQcg4EwDcNsijvpfkVcSFz1lvmWPdbHXDXUD47sC0h5F0JEFDZdAdGAhOKWG8Td8K1cT2CTOowJJkWVwPNfJwSfzEMmXdN4dKlNp4u3zJeOtuKOAOkZwOGGEDuZJhB/fzWNqmhj7Zda/kW0+wlP/uWucvy3gnGysBcE5TRDqQAEsHD68AeiWITOADe2eiYhSgxnQXx1xX/zxF4qbKeTyFbEpJMtvRl97J6UA7XzvItGmrCQt9QX3SmTQOjtiBNM8K/IabtIaoKd0LYSieKd91skv6eNS6hHSC66N2sUPQEk/HXlvT7UDbYMwnb33OKWzLkCTJcUB9dmQVd4xpg0sXlmjYir2E7VbV3t8nA+fjjd+oAAb7pqTEfEmbQ5BMEOWzJe5eoMN18d62iFBG/eP5EmcujrCRNDpBZS3TMQOQzzfGIazO6ZFsUZ75LNK4gPbwvlO8U6p6DmRkr7jLmIoKQ3oZPBrEgszOMzZHI4zmkIJEkAj/7W1Yx1lqRiG006A==;renvzHosBxcGluGiV7RPkA=="
 ---
 

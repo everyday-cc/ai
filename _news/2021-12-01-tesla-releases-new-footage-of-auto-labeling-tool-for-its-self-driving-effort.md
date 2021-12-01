@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2021/12/01/tesla-releases-new-footage-auto-label
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/amp/"
 type: article
 quality: 86
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's New Self-Labeling AI Just Brought It One Step Closer to Level-3 Automation"
-    excerpt: "Tesla's self-labeling AI just brought Elon Musk's firm a step closer to level-3 automation! And it could roll out in the Full Self-Driving Beta."
-    publishedDateTime: 2021-12-01T16:33:00Z
-    webUrl: "https://interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
-    ampWebUrl: "https://amp.interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
+  - title: "Full Self-Driving Diary: A longtime Tesla driver’s perspective on FSD beta"
+    excerpt: "After a month of safe and cautious driving, I finally achieved a Safety Score of 99 last week, and shortly thereafter, I was granted access to the Full Self-Driving Beta for my 2021 Model Y. The experience with the FSD Beta over the last seven days has made a few things clear: it’s very much"
+    publishedDateTime: 2021-12-01T20:46:00Z
+    webUrl: "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/"
+    ampWebUrl: "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 68
+      name: Electrek
+      domain: electrek.co
+    quality: 87
     images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplPZVOW/sizes/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation_resize_md.jpg"
-        width: 744
-        height: 419
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Level-Setting: Why Drivers Still Don’t Understand Self-Driving"
+    excerpt: "In the survey, only 37% of respondents correctly identified Levels 4 and 5 (based on SAE definitions) as referring to fully automated self-driving. In fact, more than half (55%) pointed to descriptions that are actually aligned with more modest driver ..."
+    publishedDateTime: 2021-11-30T14:07:00Z
+    webUrl: "https://www.forbes.com/wheels/news/power-mobility-confidence-index/"
+    ampWebUrl: "https://www.forbes.com/wheels/news/power-mobility-confidence-index/?amp"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/power-mobility-confidence-index/?amp"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/11/Smart-self-drive-proto-1200px.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Tesla's self-driving beta now requires video recordings"
     excerpt: "Tesla’s full self-driving beta will now send video recordings to testers.The car company is currently beta testing a self-driving mode, and it has now been claimed the company has updated"

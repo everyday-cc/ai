@@ -2,28 +2,21 @@
 category: news
 title: "AWS Announces New Serverless Options for Three Analytics Services"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
-publishedDateTime: 2021-11-30T17:41:00Z
-originalUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
-webUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
+publishedDateTime: 2021-11-30T22:40:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211130005973/en/AWS-Announces-New-Serverless-Options-for-Three-Analytics-Services"
+webUrl: "https://www.businesswire.com/news/home/20211130005973/en/AWS-Announces-New-Serverless-Options-for-Three-Analytics-Services"
 type: article
-quality: 41
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Finance
-  - AI
   - AWS AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
-    width: 320
-    height: 300
-    isCached: true
+  - AI
 
 related:
   - title: "AWS gets a no-code ML service"
@@ -57,6 +50,22 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
+        isCached: true
+  - title: "AWS Announces New Storage Services and Capabilities"
+    excerpt: "Amazon announced four new storage services and capabilities at AWS re:Invent that deliver more choice, reduce costs, and help customers better protect their data. Amazon Simple Storage Service (Amazon S3) Glacier Instant Retrieval is now available as a new access tier in Amazon S3 Intelligent-Tiering."
+    publishedDateTime: 2021-12-01T20:37:00Z
+    webUrl: "https://www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities"
+    ampWebUrl: "https://www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities?amp"
+    cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities?amp"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 61
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2021/12/s3-glacier-overview.png"
+        width: 2360
+        height: 888
         isCached: true
   - title: "AWS Announces Four New Storage Services and Capabilities"
     excerpt: "New Amazon S3 Glacier storage class is designed to offer the lowest cost storage for milliseconds retrieval of archived data—also available as a new access tier in Amazon"
@@ -103,20 +112,15 @@ related:
         height: 339
         isCached: true
   - title: "Astadia Joins the AWS Mainframe Modernization Service"
-    excerpt: "Astadia, the mainframe to cloud company, joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions and experience in migrating mainframe workloads to AWS."
-    publishedDateTime: 2021-12-01T16:53:00Z
-    webUrl: "https://www.lelezard.com/en/news-20135524.html"
+    excerpt: "Astadia joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions in migrating mainframes to AWS."
+    publishedDateTime: 2021-12-01T20:31:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005839/en/Astadia-Joins-the-AWS-Mainframe-Modernization-Service"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 54
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
 
-secured: "IISssz/FRwzlW3O0ijxkwuBBU2LQecj1y5Hx4bMr8+TQTwRA7E4us9tAeE7en8Ljxu2+sPpfHpWOUdhgZr+jV97UXY8XX7HM5hyQjEH7KyNuEexg4ITBqNeBxlyOKrzLgd7datN0jYfP0XTJuDVYpO8gJTRvKYrUALEzp54YoRjTVsafgMxdA4GIJRlWme9SdyN/UxCcmF2ilcglfrc6xYoSGZLVIsG+oTP2OBtW9A9I73NuuRrZ/92zkMQZtb7ZaiLyDf1mMQ7PGpNun9t1K15Bw9t2ttSYJjr3Zo3t1S4aoPMUMQrIGcE2RIXVUSktLgB+yzM+A5tX7fQQFTyupNu0rck5/hIQZ0gaXgdfHuA=;uEDmAla6/G3lCTgv78KyoQ=="
+secured: "Cr9sgJ1Kf04MEl00i9KnEDfAeeZKskRQYmtHtxBxPoakC6m//vgjPlDS8WrpofiFAOt5/GjNerzbGfWL2H86lrWk7ZsiEtOaYdTSM68lxnovgq3L4p+Y+OsQfyThTBYOpoeS89euTKFuCvaPBAlN7n/fB01+gsulyIIGzp4Rb5sh44sbMTATXIRZ1YUtyTA7n2ezW70R8txDrDbdOtVQI8LN2/lRET6Im4XyK7H4/KVvdBAbbYEGBW+rujfLj/1+rFDsW4z4Fa1xW18AX57kCmzTpZiAPrAPsA6x3tNDZPGyMb051Gr5pE+cxdJL4JQlT66M3YZbgq0roc6GcfQKyi6XEU4B2u1vlSJss3vpJ6Y=;CEz0v2Pr+eminD5TuxdXQw=="
 ---
 

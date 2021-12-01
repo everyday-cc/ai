@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/12/01/aws-announces-free-machine-lea
 webUrl: "https://siliconangle.com/2021/12/01/aws-announces-free-machine-learning-educational-materials-training-resources/"
 type: article
 quality: 66
-heat: 76
+heat: 79
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
         height: 1050
         isCached: true
 
-secured: "1Or9GOr4qvJrtR09Ih1fXaFS6FyObbJoHGBF6JazfyizhCNiSom485Cw1WgpWuNCT6QQ9tEsfqJa1A+D2QUF7Y/Nx3eLzd3EAHQRUBRxcQxhTVcKMUw8gnxeqr4uSQD90YN96GuA9S3+PKoYUodeKJlDz6QHwp1GHsAYj5b5QDTBt7QaeMHSpezWhj/290Fk/s1XhjqAa2DWaPFRfrALwGkb9uYTBMFf5lg2as1tPOvF6VXVQXXI8+KOpAF0nAwg2owdscMTpocsVz8yFg3Sqiu7Jmz6IrvgulwIZTw80mOyxWy+1shy3NZRyOTM4kQ1BDOa7nSfu+xhPcLcU+h/1mXvbMcXB1LJjBYvu3a+tSY=;GLOuzIxEC7qDnF6vzFnOYA=="
+secured: "6zvvPwEtHLZcRkouj9o12co1rtf7+fpsVEM5uX8bBfYE2S5qqGR4Luundnw+PLaggxbavRIRkW6Ooh5tZcx4KrQsG80LQ/hsdp7qBhanOe4igMh8UsBf1lqPmTxXTnfxe5xETpcWWcgT2stnzwcEK2LgMEt5OGsinUlng7UfCLZHLtpsOuFfPlXCHGvMC/bTR4S8WNYcb40uxrfAvBa+/6Q90l1nYC5xdsXSdw1Uq3+jxPHRlHj3ZNw/Wv8UktbRXQr+F0ZGv15bkmepWwbBzJsPnEOJ1DCZ1WSzmu+RekpvTRHow/VJvd4XwUgevbSd4I3HVpXybsX22/QHg2DCYxyX2HBdyjabJt3L18un9KIZXCYZXa2wTld7PKzxCwdkXi6EYYZwqhZYnN67P4A8xhXR4Hi6n5vr5MdT5YwIDQDAm+xinOcULeJxcvIKPWP/hgN97DYB71hgo8LCaGrUwwDq3qnSoyn9EAo5eOvpBxEFeBFqMsRmod71779I6eichSWHFafVea4P9iaXulIQUQ==;KR5U43EF60yeOouQ+osbRg=="
 ---
 

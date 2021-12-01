@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-proces
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/"
 type: article
 quality: 189
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -41,7 +41,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 96
+    quality: 98
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a65ed13635b6190e7f2e6d%2F0x0.png"
         width: 1200
@@ -116,7 +116,21 @@ related:
         width: 800
         height: 419
         isCached: true
+  - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
+    excerpt: "Amazon EC2 C7g instances powered by new AWS Graviton3 processors provide up to 25% better performance for compute-intensive workloads over current generation C6g instances powered by"
+    publishedDateTime: 2021-12-01T17:53:00Z
+    webUrl: "https://www.wicz.com/story/45347689/aws-announces-three-new-amazon-ec2-instances-powered-by-aws-designed-chips"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 37
+    images:
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
+        isCached: true
 
-secured: "ScdqmsutMEwE3mGziCzCfSPAYWxgndFTe92a9IpvyfJh/g8PdrsLTho4FZUQc8+kkhKC5MwRNnIrQJSJ1cnk4mypDGHMGvGPtX3AgRmLcFd5VUjjItfMHjgOZHFFCV29341xcJUL4G2Smw6Htc+eznbRbVnL95J9Thm0A4uCvRZ0RNnYtThbkoBpqBUpApNNPVP9VqULxoZDZKQouYapojaVtft9/QzCZFtxtZRYQthwYZmPAE1VDOfIQ5rwp0EB53otBX1GMMeLTI8o4F0JQCFKunu4dPgyJy84ofrCsi21p3rNdU+O3/IkeCoQKCBfVOEQRsPsa5tseLDIQJ0NYPhi8JHWaORdW9H7830d81w=;a0RPW/UEvnLUoEeBU412og=="
+secured: "wCJDWKLHNzbzogRJF4poNc5Qgsbulq7SLGQ2HZggWVrqK9wlHaeqqo/v7qjDS9KWyIB2yzbsexpDbkQjYyB6SvNhtQ/glDxrSvSP2K+sXlDWIEaxwWU6Tp8saqcAc7qsQn9YwZi+BdlHuBMFpSqK+cI3c6l5Juc/Jh1OY3zYfHqccNZ9oNfcApjLq2zpbv/2cxxlYepHgg22oYXPGQdE6xcdODE5sIpF/hXho7qkPIbnWugiThWtDIx4VGbVYWNVht2JFCJF0lu2NKP8/qnarqn+SDyt/adL8l3Xe8hws1BPeqAydVJuKSayJQz6gp6N6ffGx0wKGW85MZOyJr89N9HpyLqq6nIHXMlniaNfW/2kM69K1w+l0g8vmXXzV0uwAVP15KEFUKIHWS4XbUXBi+NsA2DwtP3pCTbmwOlO6lOdrfqvC+SiuY12jAtWIvHAeJ3RL/hXeyQoVYIaZzHodizOnZpdelF9DniHvyVGHRnJVYlW2Bxnt0+RnXZYE2x8kEpWe0q4fHgZj3bhmVSrwzgzqvGtubhAWJkRrHBkSbM=;D5Oh1BIiA5DHldA5aJEuaQ=="
 ---
 

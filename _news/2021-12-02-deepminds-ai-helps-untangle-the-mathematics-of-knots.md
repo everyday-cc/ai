@@ -90,6 +90,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mathematicians hail breakthrough in using AI to suggest new theorems"
+    excerpt: "Their work examined knot theory and representation theory, areas of \"pure mathematics\" which typically depend on human intuition for breakthroughs."
+    publishedDateTime: 2021-12-01T19:27:00Z
+    webUrl: "https://news.sky.com/story/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934"
+    ampWebUrl: "https://news.sky.com/story/amp/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 59
+    images:
+      - url: "https://e3.365dm.com/21/12/1600x900/skynews-oxford-mathematical_5601403.jpg?20211201160219"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Artificial intelligence aids intuition in mathematical discovery"
     excerpt: "Machine-learning tools have been used to assist the part of mathematical research that usually relies on human intuition and creativity — leading to two fundamental results in different areas of mathematics."
     publishedDateTime: 2021-12-01T16:27:00Z
@@ -121,6 +137,6 @@ related:
         height: 397
         isCached: true
 
-secured: "Q8kO09d1uSqRZpuvZbJ16gYeTqnkl4EDu4La1HXoJyJ2WTMhXRtmY7+EXnkSmMvX1Q0f3uD1ZvPKWKBxMdnVyeoabHXlvhJGLzHcEEV4OMRXICvcgxFR5kj7wJfWnqqMbOtXF4E6pi+Qj5uxs31yXvvkFZgH22cYHH9Py6KMZl+huX2fZIUKeccd/EPmsBCIRVLZ2GEwukf3H+U6A3c1H6H58HUuCTTQzOhSKksWrjA2YUB/knm6f2roqKI1NGz1825SSEKdeX2M2BT753QYnZAIhlLvYIZwhNqIa2UdadZZCbq1mr2REDzJq6L2j1ULcKa8Dq05v+8VnCcFtQ26uqGbVMZvqMY3biixCm0hqQ4=;3b1ehB8zIZD7li1BAPiKnA=="
+secured: "uunypHG7hJ/iELXI6GUHi77mcp1vLyTG6RXdNz7uN8BVcczKZyxG4oTs0pTL3tl/z6rFHsgJfpJcocCiHstjzTCgKxnfzOlgRYsHcn4ew05zJh7/gV2FgXRSJP6YrZFDt7d2fE+Kv7H7zsPftA7Ay7d9RhHd7q645kk43OtlgSTme675uZW6zWXxD/8cSfGcCZaT2Ml8I1P+LWzu4Z4wDxaktUZL1Wn5ZfSr1x47dkNIDuGW3v0HSdZ+HYuD14YADdbOj5YyQDScr7GVzbaiwxA9ijYfc4u1DfGJp8HI4mnf714OBrdOmjWmam3Xh5hQx0cQd/TPes4sNNimARtG8heEbbiXu+TdLssrGrFNjaTj486g/PCYWZwD9QJ/tq+Zg0ew3t0gLrRwYd2nmAH2M5JHyAsMW4BQGUr+QkT9CZ58RlqQWjAJoHWfuUCyF54Vp9iUVwSgjs3IQh+qqHTxCLlCOiUgrYFc1tFOSLpmfsrxUNQvKACyV8HmwZ21dr4v7CvCI9zpfMxYTouoSZkJrg==;Ehv4mMPP9KnE2sr/8ZZzsA=="
 ---
 

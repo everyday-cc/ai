@@ -25,52 +25,46 @@ images:
     isCached: true
 
 related:
-  - title: "Meta, AWS expand partnership, aim to enhance PyTorch adoption"
-    excerpt: "Meta is selecting Amazon Web Services as its long-term strategic cloud provider as part of its hybrid cloud, integration and PyTorch strategy. The partnership has broadened the existing relationship between Meta and AWS over the last five years."
-    publishedDateTime: 2021-12-01T14:00:00Z
-    webUrl: "https://www.zdnet.com/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/"
+  - title: "Discovery Extends Relationship with AWS To Assist in Global Rollout of Discovery+"
+    excerpt: "Discovery has turned to Amazon Web Services (AWS) to assist with the global rollout of discovery+, including enabling greater personalization capabilities to assist viewers in finding content that appeals to their interests,"
+    publishedDateTime: 2021-12-01T17:24:00Z
+    webUrl: "https://www.tvtechnology.com/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery"
+    ampWebUrl: "https://www.tvtechnology.com/amp/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 103
-  - title: "Beyond the migration: Accenture and AWS expand partnership to support continuous cloud innovation"
-    excerpt: "Five-year extension also includes training to help clients understand and implement cloud capabilities more quickly."
-    publishedDateTime: 2021-11-29T23:33:00Z
-    webUrl: "https://www.techrepublic.com/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 76
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 54
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/08/27/06823878-e36c-485b-a5ef-0f779b1e98f8/resize/1200x/ef0d165740f66078f83f197b32b4039e/gettyimages-da-kuk.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/BrqKp374eMt7ua6V9k3wzg-1200-80.jpg"
         width: 1200
-        height: 900
+        height: 675
         isCached: true
-  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-    excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS's proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-01T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-meta-selects-aws-as-key-long-term-strategic-/2021/12/01/9502660.htm"
+  - title: "Discovery chooses AWS to power rollout and increased personalization of of discovery+"
+    excerpt: "Discovery is also accelerating its digital transformation and enhancing viewing experiences across its more than 450 television channels"
+    publishedDateTime: 2021-12-01T14:55:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/KM-In-Practice/Discovery-chooses-AWS-to-power-rollout-of-discovery---150311.aspx"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-    excerpt: "Meta and AWS will jointly help enterprises use PyTorch on AWS to bring deep learning models from research into production faster and easier Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc."
-    publishedDateTime: 2021-12-01T16:16:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/meta-selects-aws-as-key-long-term-strategic-cloud-provider"
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 32
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/141916-1200-by-630-personalized-viewing--307606049-ORG.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
+    excerpt: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+. Today, Amazon Web Services (News - Alert), Inc. (AWS), an Amazon.com, Inc. company (NASDAQ:"
+    publishedDateTime: 2021-12-01T15:41:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/01/9502667.htm"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 19
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 11
 
-secured: "HGaCi4rCAaAaAny9ujXNaP4jSKExFjULXbj0ecyNX5sopZ8quipHcscaf4oxBmpaHjUOraNPS4Jiuf+QTGDDlThYKmTHqOW3sNqJVJsNnLF1F9AYOZBVLf4xG3AAPIBXCOQjjsT0KDwviRd5HZjldeE2cdQFGK+GyRTIOXdVEA/A8KNtGjQanFNT4LqjcqiqomFUHg/Yl3gaVt5aAPyekP2ZqrrXEhsHWX1o2cEQjYCYxU73efxJW9coOQgqI+Pvw2e8/QR+6e8LLdyN9KgfsgK4vT9IvsR/boqeg9tKZWk2jB9O91CIbY7ZP9u2xIstO2VmsVg13bxPgeixP1hhb5iYlzLups56DMGeqgxQrIc=;zmP4YfUoUFJpAGi8og+5lg=="
+secured: "r9K0Xk2KT/6XxdJJb3FoGXL2Fh4Fa9mLVg71HZJW3NnCfOYEOSyoHKcR45MHkJtuHtkryvwsve3XB204yNYSKHLPa1apsUkRGOttNodmeVfVtfevpN7z9od5u830wTPmgPRprJp9HZ19ak3rWBNFGZUcf8Q7n+SuNVrVUxCy6G+MR0mWKooqAmk+oyjwbzmLecNk/Witf+06+8NibN4aVrNKufik3YRqx59zpzJS1EkInTMGX+W0eD+JBilw59BLLQ2DdmJCO2c3pdQ81QZ3o7++Sq1nT3VCema2oVpJPQOvgZDrpKP7sbOXg+axV9h8+wVR1WAgg5PmLuEWVwkTqD+lexqWfLmKZr7c19gwf3rG+U+lMTqxKUgvTSEs53CGRQxdQ7UgzfbZnRqtBfHNWaK1SPcdCxKWv9b3Lbsp9X7tZ4rNuFmIIUnRddGsG2RpoFsTps9iOt7KQGV7LPuCcOSwh4MhAQuSggvW1fQ8SkM45MjHiMBuZPjBeDpKnbzIkQptADDSnLtaVUlquWNivg==;OD5gA6vxHgOpTWIu8iN5iQ=="
 ---
 

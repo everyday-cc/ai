@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/11/30/aws-unveils-the
 ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/11/30/aws-unveils-the-latest-on-graviton-inferentia-and-trainium-instances-at-reinvent-2021/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/11/30/aws-unveils-the-latest-on-graviton-inferentia-and-trainium-instances-at-reinvent-2021/amp/"
 type: article
-quality: 96
+quality: 98
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a65ed13635b6190e7f2e6d%2F0x0.png"
@@ -115,6 +116,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1698271/Granulate_Achieves_AWS_Graviton_Ready.jpg?p=facebook"
         width: 800
         height: 419
+        isCached: true
+  - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
+    excerpt: "Amazon EC2 C7g instances powered by new AWS Graviton3 processors provide up to 25% better performance for compute-intensive workloads over current generation C6g instances powered by"
+    publishedDateTime: 2021-12-01T17:53:00Z
+    webUrl: "https://www.wicz.com/story/45347689/aws-announces-three-new-amazon-ec2-instances-powered-by-aws-designed-chips"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 37
+    images:
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "0XUjGe265w6WcPWVuabu0Jm+4gy9E6JAXnjDRtizBY7Q5mt4wUzhXBTBXtXmn2BysV3ZZIKfPZ5gh9InhbDZ8w99FZELwbuvCHx42tInU1su1IwyM6ZDWZm/fk9c6N77/2TNYllnggu6BOVNH17hMe9tkBShyDHt/o8uDTQ4ccAS7sH7VcUEMQqSF3copXtXCZ0XXWykV19gIxuv18igrS7V2dYGvXh3HuI2f55sNhhYXf9CJlYc0sPmt5ZHawjvoLMRIpskM9105M2dDqrHjq3umaqPcty2xT2oqKY4/PpDxM+zwj1Hc93cbI2S7K2o8n3Ree4jpqo0t2RUXaPvXotxm1PcjMUUBw25GHM9vGfchDK7Tl5XNDbFwOqF+qv2qo79VbHqtFt9nBK4rU+3QYQ7JFDsYhRLvmA1yXCJ4bMZVJPHuD1jrgm0a1unXcqXke0Uku+QrSOUSL6nRUOwyBJpag/YRA194bvwhDejFnIsHqV6QAeC2cjCNjbwt1SS9iuDR64vfcIYnwEJPp50nA==;zRzDtczGlL4TocA2nRFnxQ=="

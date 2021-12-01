@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 secured: "62l78nykR8Nb0/+zLXfJjhzDReZubPf9rV6m59iKeSB56PYNGT8d8FHgJtFwSjer7l9oqrQuESmiSqdTionscYWSFTWcGMZ0oazs+PTWZjol7ua2j94YH5PiqjooEWNNNXZPcrapwBcCXIiwYOgWeukSGD+eWQmXym3r07SbjvfLAYTlolyibbV/Xi5wudvR+xnP3nNjJWKQBNZ7UpDX6bP82A78fq1g8bDNDUupeFgzKqhB/iGK1Wb4ZeGEtxW7vSlphHN+tS0T/bmDdix9U6UjhgfwZ5xfvP2WTZ/xJlOP+gztfl2KWl+DfpkvmepJINUn2ifFUHwEZH2zggN9LhzPhv+ncaojXgYBMHCzZXw=;dAxcnopc+lciTgiC6N8AJg=="
 ---

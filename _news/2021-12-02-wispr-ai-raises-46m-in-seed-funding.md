@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-01T16:09:00Z
 originalUrl: "https://www.finsmes.com/2021/12/wispr-ai-raises-4-6m-in-seed-funding.html"
 webUrl: "https://www.finsmes.com/2021/12/wispr-ai-raises-4-6m-in-seed-funding.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.finsmes.com/wp-content/uploads/2021/12/image-3.jpeg"

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/continuously-improve
 webUrl: "https://aws.amazon.com/blogs/machine-learning/continuously-improve-search-application-effectiveness-with-amazon-kendra-analytics-dashboard/"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -56,6 +56,22 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
         width: 768
         height: 385
+        isCached: true
+  - title: "Tech Companies Catering to Demand in Healthcare Predictive Analytics Market Keenly Expanding Care Delivery Continuum"
+    excerpt: "Proponents of value-based health care are growing their bets on the capabilities of predictive analytics and the underlying AI algorithms. The past few years have witnessed an enormous body of study on making clinical prediction models useful in improving the health care delivery across the continuum."
+    publishedDateTime: 2021-12-01T18:40:00Z
+    webUrl: "https://techbullion.com/tech-companies-catering-to-demand-in-healthcare-predictive-analytics-market-keenly-expanding-care-delivery-continuum/"
+    ampWebUrl: "https://techbullion.com/tech-companies-catering-to-demand-in-healthcare-predictive-analytics-market-keenly-expanding-care-delivery-continuum/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/tech-companies-catering-to-demand-in-healthcare-predictive-analytics-market-keenly-expanding-care-delivery-continuum/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/ezgif.com-gif-maker-4.jpg"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "TOJk7eIb9/g6xG579ZGOXxg4uI0UE3nbVtEGClKHg+Uue/YZ+DUGupgaaaYpmGcVGPqJEGigNFbE5lC3WX2cB5WNXvyhB8dGdfUf2zOcBjif5iEI93eI4TBtbt0qWWHejqYOzr6l9KGxNOtxjgoJrSBWa3+Ri7shK2+igxFGVR3iIaV+vI1u9sNztHwpC963dbT9vfEjuJ2zwK77b7bzPFGhmvpr5YqIlOcs1P8KUgsH9MT39I2sCLDMJm34tfR8ixOgG+sy1OTvv57RjLqoIlwQE0aKZypyd126lgYGXPfWUgWRji4Q9oerdwj14cc8f/xKktnQLPcv+C08G3EVNMlTnjZP6B8CKp/stxf4LbI=;Xef/kip7M/tVvBuc9Qyb7Q=="

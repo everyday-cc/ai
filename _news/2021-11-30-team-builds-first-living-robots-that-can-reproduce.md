@@ -55,6 +55,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Xenobots, The World’s First Living Robots, Can Reproduce"
+    excerpt: "With scientists making biological robots that can reproduce called Xenobots, one science fiction horror story is coming true. Or is it?"
+    publishedDateTime: 2021-11-29T23:58:00Z
+    webUrl: "https://www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/"
+    ampWebUrl: "https://www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/amp/"
+    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/amp/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 59
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2021/11/Xenobot.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Meet Xenobots, World's First Living Robots That Can Reproduce"
     excerpt: "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world."
     publishedDateTime: 2021-12-01T16:32:00Z
@@ -125,7 +141,7 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 34
+    quality: 36
 
 secured: "uONSZdFcDqaTE3Vdgfo3hdWVF9SWI+zbTrS39eOS2ajZuI3P5wHplqOXeMlrC8c6kk3iQSLcBdImjSOjTHTXk2SHP0UJi8mVibnIfNaI349aI3ThiiFYYzPhWAkdSZ0ZyrjIY7Nyd3qnSq02s7Nx8E9IlkdLmLmpgcMujnoeJJsQahUcjlW8GkZW4+GZvxbVYPMkow6e8hM+HZutwAGPJSOBf5YBx5ItpvYpW9yGtC0MV4+B4X4lbKz/bL4BCA1k7nXNUwRIXV0knoScNdvD9lsfa6uqOpj65OeMVmBIUh++zg7NMuuGAeVcDdej3E1D/vG6t8SBqG+ZrlX82R6eD+bhDNV+JCgGYHBjE+qsmvc=;5nG8A7/Iwsv0ciKfYX5BZA=="
 ---

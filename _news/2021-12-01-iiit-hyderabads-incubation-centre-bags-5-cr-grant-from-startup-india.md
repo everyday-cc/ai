@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "CIE (IIITH Incubator) selected for INR 5 Crore startup funding grant from Startup India Seed Fund Scheme"
-    excerpt: "CIE (IIITH Foundation), the Center for Innovation & Entrepreneurship of IIIT Hyderabad, has been selected for the Startup India Seed"
-    publishedDateTime: 2021-12-01T16:36:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/cie-iiith-incubator-selected-for-inr-5-crore-startup-funding-grant-from-startup-india-seed-fund-scheme-891985182.html"
+  - title: "IIIT-Hyderabad selected for startup funding grant"
+    excerpt: "Hyderabad: The Centre for Innovation & Entrepreneurship (CIE) of IIIT Hyderabad has been selected for the Startup India Seed Fund Scheme by the"
+    publishedDateTime: 2021-12-01T19:16:00Z
+    webUrl: "https://telanganatoday.com/iiit-hyderabad-selected-for-startup-funding-grant"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 7
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/600789/IIIT_Hyderabad_Logo.jpg?p=facebook"
-        width: 2398
-        height: 1257
+      - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2021/12/IIIT-Hyderabad.jpg"
+        width: 680
+        height: 370
         isCached: true
   - title: "CIE (IIITH Incubator) selected for INR 5 Crore startup funding grant from Startup India Seed Fund Scheme"
     excerpt: "CIE (IIITH Foundation), the Center for Innovation & Entrepreneurship of IIIT Hyderabad, has been selected for the Startup India Seed Fund Scheme by the Department for Promotion of Industry and Internal Trade (DPIIT),"
@@ -49,6 +49,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "CIE (IIITH Incubator) selected for INR 5 Crore startup funding grant from Startup India Seed Fund Scheme"
+    excerpt: "CIE (IIITH Foundation), the Center for Innovation & Entrepreneurship of IIIT Hyderabad, has been selected for the Startup India Seed Fund Scheme by the Department for Promotion of Industry and Internal Trade (DPIIT),"
+    publishedDateTime: 2021-12-01T20:19:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20211201/3865234.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 0
 
 secured: "EgkkNla6/cWdulMh9N0hjeyVhn5xUTNlmyFui39icqCZyzhZh8+bEiEhsdjWqYkgoSOFPoCbnS+w1AMaaRTOiM3+QjY9Uf1bi84D6wv4wi7lQlA0sawRtCviGI1vIINx12igdfR4ncHYSiv8uoc962no+kMlRLg7Z8KpaPFdIxT0zPmbtx+5Bbsdpu89dAz/0Gj8Db2bYUbe9P25NuI0UqDBJWz6iPJ6jCLp4Ti5LaRrZ6YdqbUH3ucuLbVZF4Gb6GeiVpFLFkR9h3fQOsRykCjn1dfb1gAD/UkU42KO3cO5PXf7HDSMlJUY2KqgG7h0BrT2zL/7s9n6XViF31Lo5QwYafq8X4I5GzJBv2v52mQ=;f/c7NI5SHmEGlD18yximQA=="

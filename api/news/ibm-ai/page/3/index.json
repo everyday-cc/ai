@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-15-dish-selects-ibm-for-ai-for-5g-network.md",
+      "title": "Dish Selects IBM for AI for 5G Network",
+      "excerpt": "DISH Network Corporation (NYSE:DISH) selected IBM (NYSE:IBM) to help automate the United States’ first greenfield cloud-native 5G network. DISH’s new smart network will be designed to be agile, scalable and fully virtualized,",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecompetitor.com/dish-selects-ibm-for-ai-for-5g-network/",
+      "originalUrl": "https://www.telecompetitor.com/dish-selects-ibm-for-ai-for-5g-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telecompetitor.com/images/5g-signal-290x290.jpg",
+          "width": 290,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "OTT",
+        "domain": "telecompetitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-ibm-watson-set-up-new-ai-and-automations.md",
       "title": "IBM Watson Set Up New AI and Automations",
       "excerpt": "IBM (NYSE: IBM) today declare the set up of new AI and automation ability in IBM Watson Assistant plan to make it easier for businesses to create intensify customer service experiences over any channe",

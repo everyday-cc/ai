@@ -41,6 +41,20 @@ related:
         width: 580
         height: 375
         isCached: true
+  - title: "Adam Selipsky Keynote | re:Invent 2021 Recap"
+    excerpt: "Topic Adam Selipsky, AWS CEO, takes the stage to share his insights and the latest news about AWS customers, products, and services. Observations Newbie, Adam Selipsky, gave us his first re:Invent keynote at this year's 10th-anniversary conference,"
+    publishedDateTime: 2021-12-01T10:33:00Z
+    webUrl: "https://www.linkedin.com/pulse/adam-selipsky-keynote-reinvent-2021-recap-jason-oliver"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHF0ZZYadax3g/article-cover_image-shrink_720_1280/0/1638307143591?e=1643846400&v=beta&t=V48DnsEa7CUJtlqWL6OzMNu2-I40b7vJTxHYxe3D3VY"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "tARhb2UFQlxgyzgBPdEQCUj3BOGbhSoHzYLaT7cOAqp9kaDq/eMkTuNFBgZ2UUn5I2C3PnEFoYWrwKyHOOPieldx1KcnIT/f6myNaoNiK6yXZaiw4lVKeEn+GwDjYroyAEGsKyzBAqG4LuXepBZmbgRpaPJyvDlwStYPqAHUQew84tgiLM18ksLVtBBG6pk/Hgwlwm0uCSGAalY4/4vgAEQgDFwvqR2rLKYASDs2CE5AxMjewl4V55lEd3jQZ2UEqJb927oewOPDwxBCthRFBtAI/dZxcxHDMMzVlUd0UTiy0SK1mOfv1UIqq3t62V6fpDkvifCBq21ja+QwQN/QLGEDQsCu3BFT+lcoQ9hHNdY=;vqRS6lUOOVMmDTmFZQB/lA=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2021-11-29T08:25:00Z
 originalUrl: "https://www.linkedin.com/pulse/optimism-fear-ai-pr-sector-andrew-bruce-smith"
 webUrl: "https://www.linkedin.com/pulse/optimism-fear-ai-pr-sector-andrew-bruce-smith"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHLxvkX1gfWpg/article-cover_image-shrink_720_1280/0/1638103566910?e=1643846400&v=beta&t=P-tSQTxT5vL03_j1Md6FaXXALuaGW3npsGhqisxLcn0"

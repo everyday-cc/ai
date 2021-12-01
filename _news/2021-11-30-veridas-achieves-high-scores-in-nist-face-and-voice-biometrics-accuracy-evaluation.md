@@ -54,6 +54,20 @@ related:
         width: 1100
         height: 734
         isCached: true
+  - title: "Adversarial image attacks could spawn new biometric presentation attacks"
+    excerpt: "New research conducted by the University of Adelaide unveils new security risks connected to adversarial image attacks against object recognition algorithms."
+    publishedDateTime: 2021-12-01T20:25:00Z
+    webUrl: "https://www.biometricupdate.com/202112/adversarial-image-attacks-could-spawn-new-biometric-presentation-attacks"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/01151845/object-recognition.jpg"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "h6V5Qbbqqxt5hJyODDySi2tZWNi3j5F1RtJy7INm1OzYJln/mi4d3k6W0MJvREb27AaCvaiEFQ7E+CDHe0olYtG9kYPmHEKQMsR8s3uENuQLCEAs1TqpqpuVnGJdeKwpqNoTqX+7zge27bHdHbn3fI/7u9whG2oseBT+fcXcynaGTksGT14w0qD+UcMZDD1oCrgJ8DSO22lYAeeWu9MPVj8ueh/bIcPsm6bbFM1AUq7o0fMfcPJeFUChZl2dhbOI0rFLFYL6FRzc5mgzIuZSQgre9K1zAeZ0+9t0WNGHKN+7zpIBVzFqOS8B3TDY8NP2H6z+/7KJmdvl8ezaF6v3a4KgQXLXRzrugZ+ToF833UN2FAFoqTx7rR5oF9e8GW25nGkgxcrTcpajTCcGTMQ9Z+8adLj/NefcjwvSacz9tVYD6ZxaEQoWNd2hSoXpj4eTmARU39rmnoA8JA0dySuy3HhuoRykb9sz6fP/Qw0/Mz0hv4VrHCVN+z/sF5Y+AsEkX3lpW/jDdL1GfMnPy+uVRQ==;7hnwkCrST4/a7fxWdhXLZg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2021/12/mlcommons-releases-mlperf-training-v
 webUrl: "https://insidehpc.com/2021/12/mlcommons-releases-mlperf-training-v1-1-ai-benchmarks/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 348
     isCached: true
 
-secured: "IYAch/6AAMy8PkbXvnJHztO2Cl05qEKGvYaVSlm9hXOkIHjnqvjdm8TEZBZigLFEPr5yFd0GK3+l6QVt7v7ja3CoMAZEgWsNwJ3HXFGMxsAmr4XfYn15rX4aly84IU19SIRMTIvFRAS9AszpKifflKLFZIk4aW8VPv9nFJcMtTbjqzlfNVuAlSqkMqWjqR2ulw98nBoxcQWt+NrRcp3octMLbUjOFr1ANFH8/etqTVx/7hAaLUc6xeNlHl7EZNeElYbf+tLsGdio9d0IgZzoUXAQ2MDoRjTuRIfTkcZ/p6so6h7Tk7neKFYPvTzdNQYmT3q6aSqFie5+tQvExMJSgjLVok+GKm5mSiRx2UF2Qto=;tGIDtt6CFKwXieVTEpbUWg=="
+related:
+  - title: "Google uses MLPerf competition to showcase performance on gigantic version of BERT language model"
+    excerpt: "Google said training large models is a \"huge focus\" for the company, and ought to get more attention in the benchmark results."
+    publishedDateTime: 2021-12-01T20:10:00Z
+    webUrl: "https://www.zdnet.com/article/google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 61
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/547e402c837aacf5da42103d55a79a7cc87ae178/2021/12/01/7a51176a-d83a-45d9-8872-b2ee491d8554/google-tpuv4-data-center.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "Lt+btGZ4wCSPydgigCdnCCZbRalnihuwfEUZMNzp+EZuwZpk1+Yb+Kx1AC/kRRQUl1E3oLa3hd7RuLJ082hijSq2ZdpwrO0nmUMNSGMWfKKQOjO6Lui8ZQkURD3tykURqovioud18Oul2+QRlCPpMB9nRy+N5njmP3Lkb9o35qyqbYxskivKRusekw+8hR++3qQxeIzUANux3PlOdqyGK+ySeIfzdrgl6dPmHIjfiXd9bcKHt4bwSRj7/mw5DeQRcY8UriKs1KlpHqKUXizzfzZmmhYnRmMXJ9+jmkXSdGQE26aRFFR6i180LVfTsJbjRuoOoup30wnndirupqesXkANke+TeQHXUmXMEv47kfPxCpepdSQzpnV/RGhby5uhSxT1w1FT4u97FIF8OMYAW+ovCUxWuzOGcDjelxgA4ikxTYP6suELAy52vUxEBQ/Jd1dZGSSHHZBWm5ZdtxNcxDudC8gfhgwH+76QWB96KSywuHPVbrq8g7Yn/e7oq5tgYavlIuD+itY0Sd8qivWzIg==;oaKeOFJEs02hFOgZgB63FA=="
 ---
 

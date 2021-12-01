@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "The Films Were Right- The Robots Are Taking Over."
+    excerpt: "Because there has been a lot of talk about AI taking over the copywriting industry. It's like Terminator but less guns and action and more job loss and business closures. I wanted to address the issue."
+    publishedDateTime: 2021-11-30T18:44:00Z
+    webUrl: "https://www.linkedin.com/pulse/films-were-right-robots-taking-over-sam-cooke"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEOyXHLGP-odA/article-cover_image-shrink_720_1280/0/1638296221551?e=1643846400&v=beta&t=5kILaw6N1WFsGWmnRztukutI10uvkjZfskYBEfbJIIM"
+        width: 480
+        height: 720
+        isCached: true
 
 secured: "h8WON54ghgn0qU6CIGcW/199lPat/V1iNQQpGfs9SxdlsZCLlQJ9ukcjEQEgfMNopL/MBd1wqaKVNhsAT2Rxn/Mc/6toNIHgHiDKZTgtmyUIwr+/tlRbJcoeP2Z+/eBGs7FxIdMiuWZfrZLjKEsQu++XOw+iVqtSUdEzKUTH6pVxImDFFTDufAtSfFDmHHBdELm/Y0V5lCyI7fsf7FM49oyD2liKoC0Ar2udDXFm59cYxgbhLvsQKnDR7ted9MGvDGKrX842TtdTzVlwG3luOFLDN2p8Ga3+RThCi4PgrFfwokRT92gFsdvHG0NapI9KCY72s7RJJEwz1O74BZu9g90GiSSBtBO5ZiWJnoD6UrU=;Pn7YVitts+MYgwhramd9eg=="
 ---

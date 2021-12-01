@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-01T14:21:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/healthcare-artificial-intelligence-ai-market-size-to-reach-revenues-of-usd-44-5-billion-by/article_e3da9ca0-4e15-52a4-b19f-0c1d5a02a226.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/healthcare-artificial-intelligence-ai-market-size-to-reach-revenues-of-usd-44-5-billion-by/article_e3da9ca0-4e15-52a4-b19f-0c1d5a02a226.html"
 type: article
-quality: 51
-heat: -1
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI Ethics
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/a8/9a89c8cd-8a54-517a-a141-e6f99720e344/608abc26aae43.image.jpg?crop=629%2C330%2C85%2C0&resize=629%2C330&order=crop%2Cresize"

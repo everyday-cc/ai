@@ -59,6 +59,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Xenobots, The World’s First Living Robots, Can Reproduce"
+    excerpt: "With scientists making biological robots that can reproduce called Xenobots, one science fiction horror story is coming true. Or is it?"
+    publishedDateTime: 2021-11-29T23:58:00Z
+    webUrl: "https://www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/"
+    ampWebUrl: "https://www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/amp/"
+    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/amp/"
+    type: article
+    provider:
+      name: Lowyat.net
+      domain: lowyat.net
+    quality: 59
+    images:
+      - url: "https://www.lowyat.net/wp-content/uploads/2021/11/Xenobot.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Ai-Da, the world’s first AI humanoid artist, has now made history as a poet"
     excerpt: "Ai-Da, the humanoid AI artist who made history in 2019, as the first ever robot who can draw without any human input, is now an AI poet. Her first performance? A recital at the University of Oxford’s Ashmolean Museum,"
     publishedDateTime: 2021-11-28T15:38:00Z
@@ -122,7 +138,7 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 34
+    quality: 36
 
 secured: "w5q2t9JKG0dk6spU6ZK9d77nxGfked2YzHX4WHfUjDEcTkOgMI57YvFUHSxFvSd1IqaDK/OMJRjfvgF8H4llHbKW9K6zIXqcFSs9KeRgPkHiXBY2QQZepWO3h/3+1Q2BsYSR19J9JB1p2SqWRq548jJ4VDsQ5GSISBT5qWOZkiBcK/lZVQaVSPV1E5O0jEpKQdNSCVa/FsgyqU4Je4sRvK+7jwuqNUanDMIi37RkpK/GxxdKI2ZLlEQBpHMwwLIH4cFxczxnhI42kIC+HOWpwEWjqDdZi7p6ejM4ZOI8/Z1fCpITNMsIMjO0T4AKR5muWi/WDcDMlYOHrD1RhDRP+TxE2Wi6BIAQNxgo3VlxDVc=;JTEGaLEvTvFq/S2uigFD6A=="
 ---

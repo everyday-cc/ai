@@ -52,7 +52,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 96
+    quality: 98
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a65ed13635b6190e7f2e6d%2F0x0.png"
         width: 1200
@@ -112,6 +112,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1698271/Granulate_Achieves_AWS_Graviton_Ready.jpg?p=facebook"
         width: 800
         height: 419
+        isCached: true
+  - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
+    excerpt: "Amazon EC2 C7g instances powered by new AWS Graviton3 processors provide up to 25% better performance for compute-intensive workloads over current generation C6g instances powered by"
+    publishedDateTime: 2021-12-01T17:53:00Z
+    webUrl: "https://www.wicz.com/story/45347689/aws-announces-three-new-amazon-ec2-instances-powered-by-aws-designed-chips"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 37
+    images:
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "FWNzMZWU94ksWuLgtbQgPd+KqA4aLXsg2KlDS889Rep3c3VmfKyhnjve+aB7y9bQri7KGHoJY0owEGSkzGryQ/so8tS552+YSg9vin8u4PvtE5r6Oz7XmJXRIGvgUmMeHGuDAfEVoYDFGebVRX+pCZFrfyiBV977TwPcJCFmxWSEDc1rRZkPh+q05o3aRTcpTrSMwLi4Sf8HYgt8UXFkecGklPK5fxK7WzMgpVfzobW7my65CHbgYpKKXdVC+WYNT8loYENNG++PtXX5+v0JMgoRSu2/dIUYwqgZ/4WQAjTNd+9J+JI6/tDbBUaCYjwbiectAO4DET5ho5/GVq5FZF6paM+FJLsMCq2dIOQdYZg=;guH9A/J6snHUuVHeHbASgQ=="

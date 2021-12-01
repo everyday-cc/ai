@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Level-Setting: Why Drivers Still Don’t Understand Self-Driving"
-    excerpt: "In the survey, only 37% of respondents correctly identified Levels 4 and 5 (based on SAE definitions) as referring to fully automated self-driving. In fact, more than half (55%) pointed to descriptions that are actually aligned with more modest driver ..."
-    publishedDateTime: 2021-11-30T14:07:00Z
-    webUrl: "https://www.forbes.com/wheels/news/power-mobility-confidence-index/"
-    ampWebUrl: "https://www.forbes.com/wheels/news/power-mobility-confidence-index/?amp"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/power-mobility-confidence-index/?amp"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/11/Smart-self-drive-proto-1200px.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "An Insight into Autonomous and Self Driving Trucks"
     excerpt: "Imagine a world where trucks drive themselves, and autonomous vehicles rule the road. Industry experts project autonomous vehicles will become more common over the next ten years. Already there are companies that operate autonomous trucks in select areas such as mines,"
     publishedDateTime: 2021-12-01T14:44:00Z

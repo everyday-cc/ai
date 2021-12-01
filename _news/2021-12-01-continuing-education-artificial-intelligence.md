@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-01T05:00:00Z
 originalUrl: "https://www.architecturalrecord.com/articles/15409-continuing-education-artificial-intelligence"
 webUrl: "https://www.architecturalrecord.com/articles/15409-continuing-education-artificial-intelligence"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Education
   - AI in Robotics
+  - AWS AI
 
 images:
   - url: "https://www.architecturalrecord.com/ext/resources/Issues/2021/12-December/Wisteria.jpg?height=635&t=1637704256&width=1200"

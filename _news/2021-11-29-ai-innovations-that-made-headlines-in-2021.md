@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 650
         isCached: true
+  - title: "AI applications progress in musculoskeletal applications"
+    excerpt: "Artificial intelligence (AI) algorithms are demonstrating utility in a number of important musculoskeletal imaging applications, according to a hot topic session held Tuesday at RSNA 2021 in Chicago."
+    publishedDateTime: 2021-12-01T16:44:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=134400"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 37
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/radcastredirect/2021_11_28_21_10_5678_RSNA_2021_AI_social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "oPg6MhWr2Brhfe0k1iVpof0u1nKvun/r9z0YJ7cnI8y7HDoL3cqsFDRZm4cw9pOEqTLf6D4TkTaawsSjqCebwcAlotKPxqDAqW0Sw4MwtFn/F5+GluZLhpP9A+Ul5h/vzn0Sxd5fHT6/jt8Rf0s0TXvFij3UO4DjbVdo2gCh9nKQgr/nhz8wBWyXHTiCIsrcRZyHc62vFettwBBGLO1cG3FyfRUUGUXm0O8ZnA9E2R9CJhQQ0Qfn0C2/UWylpOGJJEgojYPNeXr1Xu9b4jYFoDg3QIOdDrS22odytv3HPWPXbwAPDoaGTMWGqHmS5cMFCSP8ajXBLtTCEXOubiFlE0rnZIXSYLxYxRfuygBsd+efdNjkYZ2Zl90+IrTbasRpdwrX+nLfYLmPRB498HNDn1Bod0Z6gcWcdPif8lNcZzGlIr88pNr9OZEF2wxv7d7h+s5/Kv07Oqjdn4gxvQBtJ7ZuSWOS6wyJSj7gf/OPCjyXEFIiO/6g2ftNIbQbOY6cRaRh4pxNJGxb+yjUx1/DLQ==;VmzXz7P/dNB7zO7z9CDncg=="
 ---

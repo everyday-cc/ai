@@ -42,6 +42,22 @@ related:
         width: 1890
         height: 1103
         isCached: true
+  - title: "Magnetic resonance imaging and artificial intelligence can detect early signs of tumor cell death after novel therapy"
+    excerpt: "In a recent study published in Nature Biomedical Engineering, a team led by researchers at Massachusetts General Hospital (MGH) has demonstrated that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumor cell death in response to a novel virus-based cancer therapy."
+    publishedDateTime: 2021-12-01T20:29:00Z
+    webUrl: "https://medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/brain-tumor.jpg"
+        width: 2880
+        height: 2188
+        isCached: true
   - title: "Xero Reaches Milestone In AI Strategy Incorporating Machine Learning-powered Predictions For Bank Reconciliation"
     excerpt: "Xero, the global small business platform, today announced a significant milestone in its AI strategy with the roll-out of new bank reconciliation predictions. The predictions feature brings a new application of AI into the Xero platform,"
     publishedDateTime: 2021-11-29T19:31:00Z
@@ -53,6 +69,20 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 50
+  - title: "AI Predictions and Innovations for 2022"
+    excerpt: "Most enterprises failed to scale their AI deployments this year. Will 2022 be the year when this actually happens?"
+    publishedDateTime: 2021-11-30T11:09:00Z
+    webUrl: "https://tdwi.org/articles/2021/11/30/adv-all-ai-predictions-and-innovations-for-2022.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 39
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/2022_blocks.jpg"
+        width: 976
+        height: 400
+        isCached: true
 
 secured: "8odrcSrCGSUUIu5STdE0wkWeccA6u3Max/Uk+Klt4+HUDJ8zb1k5aOkQbBYaxSyw7ojFghKBtTbZqziHdeuIDbn3bM5eTf/CamaLLsRbeNV/1yS51bmgvYcVNs4BeO41VFttB6plGL2xGbzdyy1Iki/icAjpaNfcM+3RZlkrOpPUKtbiIsMGAJ9NyY6Vi1mqKkwCkgy3fQNBwwk2DbeVAOpUFZs+ur/7GdMffQgX8ue8qYSdb2pwu0i7+vgtPEghV7WSkcM8ydMS+a8wbIw6j2zQQZtvXcNt2nkqDH397c/YkfIK57uzadxTkfpl67Qer/iIEPTcr4Axskqi0zcyg4eoiUt90RqUzqI0Na/3DWSa5KesPrEvPn64UFgJAD2DJ7+UP3lO3tyviS+v1mRDk7HyNyuh4qFXtO1or6rU7RMVmH2tAXJFccV//dCKsVw3D0nForR0bC4wLtPqqzHc1eagcvT6MCZRpfYvDuRR2JFbtHV3nJEe9VPupV661KuGi1wNicMR4JEUJPWXwKqlOg==;RXylKC0CAnbTj0iQTr2FWQ=="
 ---

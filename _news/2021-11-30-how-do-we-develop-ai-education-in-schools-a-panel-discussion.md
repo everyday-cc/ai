@@ -36,7 +36,7 @@ related:
     provider:
       name: Architectural Record
       domain: architecturalrecord.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://www.architecturalrecord.com/ext/resources/Issues/2021/12-December/Wisteria.jpg?height=635&t=1637704256&width=1200"
         width: 1129

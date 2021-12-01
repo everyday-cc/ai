@@ -51,6 +51,24 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 34
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS's proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-01T14:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-meta-selects-aws-as-key-long-term-strategic-/2021/12/01/9502660.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "Meta and AWS will jointly help enterprises use PyTorch on AWS to bring deep learning models from research into production faster and easier Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc."
+    publishedDateTime: 2021-12-01T16:16:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/meta-selects-aws-as-key-long-term-strategic-cloud-provider"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 19
 
 secured: "xKU8JOAGffx+vsIvZleEBQVA4t4/9v6aWkOzXOmShrjuBm+Rpupb5vXFPZ2i8qyzPlIYvouugCqnPxP5nTphWuwZYpdDPnUefdOtLEtAND+e0ugn3Sr9ZRV7NLjFp0Ucz2Gyfl1kBIwtqXtGOrNtTiwIUOAjEayBrzNpUx+o8rhOpvNl87Tu5NJuOv8AweiLL2+gof3U05OqukPsYPx7ao13Iy6usLtZ8qOtR/YtE66i6xO5pD//kiWwTtQOX1DUqi1/UkdgIs69DIBrw6YskHSDyQ5+5HM9M9Zp3l8EvuxPuRGWvFOWwhwN8TjARbb0TPnpzdNA5OFbmE6j4crMTKb5GfVlNK1HHl5uAMKjuWU=;0ncSHRKhyjU185W7IDtqYw=="
 ---

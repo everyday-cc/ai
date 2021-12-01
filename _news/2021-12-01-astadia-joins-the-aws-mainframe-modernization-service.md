@@ -57,6 +57,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "AWS Announces New Storage Services and Capabilities"
+    excerpt: "Amazon announced four new storage services and capabilities at AWS re:Invent that deliver more choice, reduce costs, and help customers better protect their data. Amazon Simple Storage Service (Amazon S3) Glacier Instant Retrieval is now available as a new access tier in Amazon S3 Intelligent-Tiering."
+    publishedDateTime: 2021-12-01T20:37:00Z
+    webUrl: "https://www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities"
+    ampWebUrl: "https://www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities?amp"
+    cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities?amp"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 61
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2021/12/s3-glacier-overview.png"
+        width: 2360
+        height: 888
+        isCached: true
   - title: "AWS Announces Four New Storage Services and Capabilities"
     excerpt: "New Amazon S3 Glacier storage class is designed to offer the lowest cost storage for milliseconds retrieval of archived data—also available as a new access tier in Amazon"
     publishedDateTime: 2021-11-30T23:25:00Z
@@ -88,33 +104,23 @@ related:
         height: 600
         isCached: true
   - title: "Astadia Joins the AWS Mainframe Modernization Service"
-    excerpt: "Astadia, the mainframe to cloud company, joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions and experience in migrating mainframe workloads to AWS."
-    publishedDateTime: 2021-12-01T16:53:00Z
-    webUrl: "https://www.lelezard.com/en/news-20135524.html"
+    excerpt: "Astadia joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions in migrating mainframes to AWS."
+    publishedDateTime: 2021-12-01T20:31:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005839/en/Astadia-Joins-the-AWS-Mainframe-Modernization-Service"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 54
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
   - title: "AWS Announces New Serverless Options for Three Analytics Services"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
-    publishedDateTime: 2021-11-30T17:41:00Z
-    webUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
+    publishedDateTime: 2021-11-30T22:40:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211130005973/en/AWS-Announces-New-Serverless-Options-for-Three-Analytics-Services"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 41
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
-        width: 320
-        height: 300
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "x9fbAmIUooIeJq3EbDwE57epbrG3+q6zfPpy0l1UKqHznI950JWT2V9QLq8xBuOsxnuVwNOBCHpXXX1KNkvUQR+XF9ZidhrhDpYQRaivs9vLgFnE1lQ9n+/wcKVdppHG20TK1FLb910w/L3h1nfyRCcDUT2V2C6EGHFkW6+TT9l3q76oBk6jI4/ppsfd4XrkZr9+DUBkas2MezBku9f3aj7pk9pCAvD9EzC65pyN8FHt583TKGUbvOC/b+epeRDOUd/Di3wpR3JbGtUWuzFPQYnW5dkvYjsVKDYSKddBgtdf4S73AfNdwR0dGX1EvA844iL4X9dmIB1sMdZ8pTbhdobZMmDJc84pp+EvnYVtaoI=;TXIqT3b4ypnDHikFI7sKDQ=="
 ---

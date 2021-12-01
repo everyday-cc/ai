@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021
 webUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/"
 type: article
 quality: 54
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2021/11/artificial-intelligenc.jpg"
         width: 1200
         height: 650
+        isCached: true
+  - title: "AI applications progress in musculoskeletal applications"
+    excerpt: "Artificial intelligence (AI) algorithms are demonstrating utility in a number of important musculoskeletal imaging applications, according to a hot topic session held Tuesday at RSNA 2021 in Chicago."
+    publishedDateTime: 2021-12-01T16:44:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=134400"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 37
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/radcastredirect/2021_11_28_21_10_5678_RSNA_2021_AI_social.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "2wL8ojW4JTUCsm1+jwEFQOaJ7VoPinyZ7aWIqYjVZYNVeNOK//0nUv6AMYK3EqLgJsi0T8kOSB3rkqFmhiSa24KVvpOMeudJQG3qadTmJ4ZwLHN+vx9EsPF25VTv5DVO8oVh7knwyC6MNPy9pN5hmN2mJEMQF3co3rRSUAWbWp2kilAPHvvRXm1j9bH40yX3JOlO9eRSWA4Y5vPy0OoH35hGwF+VBGPVdeodW53JdCIsrZlpNZ/iXYbjLdw716CX4H7nsJVbahhwun+29BrKyrVg59JfMsntSDbo5hEvbyE8JiqR6nPDX4woyglpQT/4AFH6u3cpBLYMCJRlbzGGxtS2Qh4PNmDs4Kfm9YxT3Dk=;aeQVmAzSl1w6kh9FoOdq4w=="

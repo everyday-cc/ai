@@ -25,6 +25,22 @@ images:
     height: 655
     isCached: true
 
+related:
+  - title: "AI can reliably spot molecules on exoplanets and might one day even discover new laws of physics"
+    excerpt: "Do you know what the Earth's atmosphere is made of? You'd probably remember it's oxygen, and maybe nitrogen. And with a little help from Google y"
+    publishedDateTime: 2021-12-01T20:50:00Z
+    webUrl: "https://menafn.com/1103287359/AI-can-reliably-spot-molecules-on-exoplanets-and-might-one-day-even-discover-new-laws-of-physics"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/01/TC_9214aimage_story.jpg"
+        width: 1240
+        height: 877
+        isCached: true
+
 secured: "jRoCwXQLzW+/9sXRY+caMsz/8YfldlKWvIYe6DJk4H1R2buspPKfRbkUZ4rtTB9vkdqUhtmce6M17ZKpvs+rZDCYO6yMzF78jfX9t0NlGHxN8iRKeiabzvX4sd7zgbIeKubG5koihu+pyMDK9RfbTEH+vvnVPPCJJO2kz9FRWr5c0p0T2KsmYVC3Pc08KLEZ5ZNyhIxLBfVKw12Z9MJi5WoB6wfBmcnNtAjGWAIukUpipCDGMiexeSCmuYjwyO/K8hrGXqXNOei7T+zuLo1aRBFSywg3327YbnmqL4StyjR8P5V2ZPKF5jf25aI9gcarDOg+ytt2mBENflX/kTH2pEskV5k0UK6OqcBfoXiPYF6dB17SUqAqq7r+FTX+TWtw8vfFuJ8VX+LA3p4KwOnGmCpdKIRQqfL1oMMN/Gisu+b+DW4NKyKMJvmkI4MEegp/o55ji4GisWwtMYZaWzRi4cKePO320u2F2lYEJNGJTAkUTkeRL7bJUS76flUmB/06wttiraSrHfFT+FJq09RsVg==;8C4xSCQ9DwU2ZiVcEHHPQw=="
 ---
 
