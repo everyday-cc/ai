@@ -140,20 +140,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Qualcomm, Google Cloud collaborate to create next-gen mobile AI"
-    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
-    publishedDateTime: 2021-12-01T05:07:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=899494"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 39
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
-        width: 280
-        height: 250
-        isCached: true
   - title: "Qualcomm, Google Cloud join hands to create Next-Gen Mobile AI"
     excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
     publishedDateTime: 2021-12-01T05:33:00Z
@@ -198,6 +184,15 @@ related:
         width: 1200
         height: 612
         isCached: true
+  - title: "Qualcomm, Google Cloud collaborate to create next-gen mobile AI"
+    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search ..."
+    publishedDateTime: 2021-12-01T10:57:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211201/3865312.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "zzHfYKf4u7e9KEe+aGAplSs0R1Fquo/tzgpJatsnQHXqpi/sm+Ptd4h1noUUH5OnEv9MPwfCv8BRBffWR759m3sIAC7rjH87C0pNV+h7M9sumQOm3FsT7ee05RuYAuhf0+qGKRIRs0H296QB+cRoYTVyy2Y8PiYLtpU7fjQEczX9kCvzmJ+YXx/PShd1T9r3qbiRRHnQCRnLA4ipNIRu6SsMUHWEC57eyHkRwKLExRm6K0CMNAPa7T/CaXvwQbW5/mpMO49Hz/z/anNo3IzBQQtaZYcS4SFBEE1L9dEDiMjhsaPKbo4ZUldEtUqBVwvZaTiDt3nyejJUXhur5MCCEqkunFDCKxjWrvBuEXJPQOc=;/VPuVqnnzZQHbn4n7mc0Ng=="
 ---

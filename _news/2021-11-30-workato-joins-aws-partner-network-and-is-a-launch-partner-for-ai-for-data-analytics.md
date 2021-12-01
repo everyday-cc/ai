@@ -31,13 +31,18 @@ related:
     quality: 30
   - title: "S&P Global Market Intelligence launches Artificial Intelligence-enabled Document Analytics functionality on S&P Capital IQ Pro platform"
     excerpt: "S&P Global Market Intelligence has launched an Artificial Intelligence-enabled (AI) workflow tool on S&P Capital IQ Pro that enables users to search across and extract relevant insights quickly and efficiently from textual content."
-    publishedDateTime: 2021-11-30T16:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/s-p-global-market-intelligence-launches-artificial-intelligence-enabled-document-analytics-functionality-on-s-p-capital-iq-pro-platform-1031012903"
+    publishedDateTime: 2021-11-30T17:19:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-80d36f4f4779332d03cb2711b7394dc0"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 15
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Rp1XD0V/Mfyf1uD1eIsc20MIOKuZvYQ2bOD9nmE57ZCrlFig6264lOi2pqLcnRkrFdigWKXpqkAHQXW8HHiA/x3ppTBOWEwoHYsvf33sF1aK+IPVPFGPNnjDlws3GkA3+OjnLm0boxAwW+1okTvuP6s3fdWnHKJ6rv7sRsV9AmWsuHzSpiC8Q/kjdwla+o6vhPhSjINgnNtYZqzdu9Yom6BYOJbvmYYj8FkNtvDWcCy2tf5Be06G+yuPrTpHjiZJ+b3G05Au+vPfOL97YI3+XK6V/HQ/4jituP92o0o2lGDaF+DOqeR8ClGvB1YTO4cGb4+vNjd6YDcL/DOBpIXs9QlBo6US6AbM4gXvVaycHA0=;zBcArmu5XkKCBjce3Ugu4Q=="
 ---

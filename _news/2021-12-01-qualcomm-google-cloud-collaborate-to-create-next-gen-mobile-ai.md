@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Qualcomm, Google Cloud collaborate to create next-gen mobile AI"
-excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
-publishedDateTime: 2021-12-01T05:07:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=899494"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=899494"
+excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search ..."
+publishedDateTime: 2021-12-01T10:57:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20211201/3865312.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20211201/3865312.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
-  - Machine Learning
+  - AI Hardware
   - AI
-
-images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
-    width: 280
-    height: 250
-    isCached: true
 
 related:
   - title: "Qualcomm launches Snapdragon 8 Gen 1 mobile platform with AI, camera, security boost"
@@ -200,6 +194,6 @@ related:
       domain: greencarcongress.com
     quality: 0
 
-secured: "pPXOWmgFHcOn2BEMeJLwQgm/5bEqe/+Ig5NDsyXHyZFLyCuMlM5b1/n8KOd9ybjre6UZYRHXZ0aeUj8MlmTYPvrSydHYAg7jMP+a50/K/laLasA8ucDfkf7FEWXynUU2FDeXDmVlgo+ebKRRolIxtTKIK7vPh3jYLMaNNnN2zrkuMix0ggkRKZ0INC3ZZSLqVxpLKca35+GRh8sbcsDbHTxUyqXunX3PTlh56Zh33UAWBz/NTOgydG+Ipk6HfT6DstqtNY8cskosn6Io8yuLWLWWoOtqe1O32sd0ywO2vqGdevd4zzIlg9SU4wOzhSSvOfQ+3TeaWMLqkeXMvj8dWL8BIHNuIUKdsvDz4iVN1wU=;3FYlVk9rsFD2UZc9Ndhlog=="
+secured: "YkzXS0S5zjojRnhy4/RBTbV6yWs+Dxu/xoXHDLNFggRvOA+s64Hc2YpU1+2x0HDpbp/vSr3pJkOX44xd5qNvrZp8Wn571FoRqcL968tFDUmdBqAeS2Y2eWyTtwBjwClki1s7s8UQfZ77+W3id/MpPfsEB3escTUEWKxb0TcjegMGPPh2HsJ/EFHx/dEcHm5pzRNbiOzTIQBt3OGfCl+zkL+eEG6yNC8tzDDGx/uO6AQq4GDJEMm+drCHEEGhtXVmiwd83Deq/bK8s6Iw+xfo1FryiUnEZRLIyHLQiGp49/KR3oraD3XzLdyoqpRURxva/2BqfPb7IBdRPmiWBaIGZL2UaVq3n0si5RFtYB7PyFs=;N2D6BS2T5Zy4xk2ocf0krQ=="
 ---
 

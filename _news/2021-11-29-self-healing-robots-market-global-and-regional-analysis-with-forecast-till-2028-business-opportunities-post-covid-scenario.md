@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Face Recognition Device Market Size 2021 – Global Growth, Trends, Industry Analysis, Key Players and Forecast 2027"
+    excerpt: "Global Face Recognition Device Market includes Extensive company profiling of leading players of the Face Recognition Device market. All of the segments studied in the report are analyzed based on different factors such as market share,"
+    publishedDateTime: 2021-11-30T04:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2021-global-growth-trends-industry-analysis-key-players-and-forecast-2027-2021-11-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market: Post COVID Growth Opportunity Analysis, Key Players | NVIDIA, Intel, IBM and Google"
     excerpt: "According to the report The global Artificial Intelligence in the Healthcare market size was valued at 4 72 Billion in 2020 and is expected to reach 95 31 Billion by 2028 growing at the CAGR of 43 08 from 2021"
     publishedDateTime: 2021-11-30T14:18:00Z
@@ -43,19 +57,21 @@ related:
         width: 603
         height: 380
         isCached: true
-  - title: "Deep Learning Chipset Market Size 2021 with CAGR of 37.1%, Top Growth Companies: NVIDIA, Intel, IBM, and, End-User, SWOT Analysis in Industry 2026"
-    excerpt: "In 2021, “ Deep Learning Chipset Market “ Size, Status and Market Insights, Forecast to 2027 |( Number of Pages:121)"
-    publishedDateTime: 2021-11-27T06:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-2021-with-cagr-of-371-top-growth-companies-nvidia-intel-ibm-and-end-user-swot-analysis-in-industry-2026-2021-11-27"
+  - title: "Artificial Intelligence (AI) in Drug Discovery Markets - Global Industry Analysis, Trends, Market Size, and Forecasts to 2027 - ResearchAndMarkets.com"
+    excerpt: "How to Find Winning Stocks with Omicron Variant Looming! CLICK TO WATCH! The \"Artificial Intelligence (AI) in Drug Discovery Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-11-29T11:26:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24327562/artificial-intelligence-ai-in-drug-discovery-markets-global-industry-analysis-trends-market-size-a"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24327562"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24327562"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Self Healing Concrete Market: Global and Regional Analysis with Forecast till 2028, Business Opportunities, Post COVID Scenario"
     excerpt: "According to the report The global Self Healing Concrete market size was valued at 22 68 Billion in 2020 and is expected to reach 147 05 Billion by 2028 growing at the CAGR of 25 31 from 2021 to 2028"
@@ -73,6 +89,15 @@ related:
         width: 603
         height: 394
         isCached: true
+  - title: "Outlook on the Explainable AI Global Market to 2030 - Opportunity Analysis and Industry Forecasts"
+    excerpt: "The \"Explainable AI Market by Offering, by Deployment, by Technology, by End-use Industry, by Application - Global Opportunity Analysis and Industry Forecast, 2021-2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-11-29T16:29:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/11/29/9500623.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "vojyobq/4Ia/HPjLQtP67XZ7gLq4OhjZ7DAGTO7AimNP+dIfz5DS+bZujrAHBcV1OxMFuYCZYrDRi//x1b/PhjxSpIO95DbE9TVxgWc0SniuwxoeyuGFlxUSIsIERURwcnKriCORIm/Uwi3+S8hRx+Kvsw2ltByg4owCp+gAxC37C/Zov4rocfosWHUYapgzSe6L+zERWb4GRaNARZ0VFguhtqsdwrjnGMJ2aVz80QMWP9ziy82kOTbLzKzu+XbgibiS0Pjw9xXoRpfNLjl6wlpSN16j7wnz4gkqDtWb9wiG306V+eI3thO4+d+1NnHBJWsTzFcnOWmwUwlj+L5v2SmyIEKKZxJzaSnmOCmP3nU=;Ut3ZVGe2W4JONWceiQ1Btg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/beyond-the-migration
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Astadia Migration Factory to Reduce the Duration of Mainframe to AWS Migrations by up to 90%"
+    excerpt: "Organizations looking to reap the benefits of moving IBM and Unisys mainframe applications to Amazon Web Services (AWS) can now simplify and accelerate complex transformation projects by leveraging the Astadia Migration Factory."
+    publishedDateTime: 2021-11-30T15:56:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-web-services-6213aaaf498a4fc8894b34538e35e8d6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 43
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Astadia Migration Factory to Reduce the Duration of Mainframe to AWS Migrations by up to 90%"
     excerpt: "Organizations looking to reap the benefits of moving IBM and Unisys mainframe applications to Amazon Web Services (AWS) can now simplify and accelerate complex transformation projects by leveraging the Astadia Migration Factory."
     publishedDateTime: 2021-11-30T16:14:00Z

@@ -219,6 +219,20 @@ related:
         width: 555
         height: 312
         isCached: true
+  - title: "Facial recognition firm to been fined over its handling of personal data in the UK"
+    excerpt: "It was recently found out that an Australian facial recognition firm faces a potential fine due to its handling of personal data in the UK. Indeed, the Information Commissioner’s Office has reported its concerns about the use of Clearview AI facial recognition software by police forces in the UK."
+    publishedDateTime: 2021-12-01T10:35:00Z
+    webUrl: "https://www.softwaretestingnews.co.uk/facial-recognition-firm-to-been-fined-over-its-handling-of-personal-data-in-the-uk/"
+    type: article
+    provider:
+      name: softwaretestingnews.co.uk
+      domain: softwaretestingnews.co.uk
+    quality: 33
+    images:
+      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/12/dave-redfern-6yMnWHFehxQ-unsplash.jpg"
+        width: 640
+        height: 424
+        isCached: true
   - title: "Facial recognition firm Clearview facing £17m fine for \"serious breaches\" of the UK’s data protection laws"
     excerpt: "The Information Commissioner’s Office (ICO) has announced its provisional intent to impose a potential fine of just over £17m on Clearview AI Inc – a company that describes itself as the ‘World’s Largest Facial Network’."
     publishedDateTime: 2021-11-30T11:14:00Z

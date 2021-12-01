@@ -96,6 +96,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Ethics Of AI: 193 Members Of UNESCO Adopt Recommendations"
+    excerpt: "In a historic global agreement, all 193 members of UNESCO adopt the recommendations on the ethics of AI document"
+    publishedDateTime: 2021-12-01T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/ethics-of-ai-193-members-of-unesco-adopt-recommendations/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/eithic-banner_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "UNESCO member states adopt AI standards"
     excerpt: "Audrey Azoulay, director-general of UNESCO presented this past week the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference."
     publishedDateTime: 2021-11-27T12:14:00Z

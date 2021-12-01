@@ -1,23 +1,29 @@
 ---
 category: news
 title: "CrowdStrike Delivers A Fully Integrated Breach Prevention Platform for Cloud Workloads Across AWS Cloud and Edge Environments"
-excerpt: "CrowdStrike expands support across AWS Outposts and Amazon EKS Anywhere to further deliver security consistency from the edge to the cloud, and launches new AWS integrations with Humio CrowdStrike Inc."
-publishedDateTime: 2021-11-30T16:59:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20211130006129/crowdstrike-delivers-a-fully-integrated-breach-prevention-platform-for-cloud-workloads-across-aws-cloud-and-edge-environments"
-webUrl: "https://www.morningstar.com/news/business-wire/20211130006129/crowdstrike-delivers-a-fully-integrated-breach-prevention-platform-for-cloud-workloads-across-aws-cloud-and-edge-environments"
+excerpt: "CrowdStrike Inc., (NASDAQ: CRWD) a leader in cloud-delivered endpoint and workload protection, today announced new product integrations and certifications that deliver breach protection and streaming observability."
+publishedDateTime: 2021-11-30T22:59:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-ee342ffbbfc940a9a4379b35917eca18"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-ee342ffbbfc940a9a4379b35917eca18"
 type: article
-quality: 0
-heat: 0
+quality: 12
+heat: 12
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "IP7drF26yH2iZLHydX599jWse7LnevAoQcx6SxYqzGt9hptEAMVLN5T/0ks8X8AvjcOL7g5y2f7N2KQM++bYT87Jjf/7acGphdG9xH8Y9oOOSBW30gK2Cu4hP1vReY/yyNZ2Dw/6FIo7S5pIQf6vM60qstWy/R7v+84MsfyRV1kBI3b+8hx00oWlDc1RAJzXVcplG1FGhR2EuuAy3gMqogszJ4HQ6WNig3uqeg3Jb+s/SB3Ud6M1DTn/DyRO6KDsmTfjiYSydCcH1KL9GVqnzg0dnRQT4P3u59Sv53MpRek7zeFGaPK4wIvlfw4MuuTJC/R6UyJ/pjPriPruXr+0wGwOmXhMEUxYb6CF/sB6Ti8=;G+usE9lH07r523BWmQt76A=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "dDm45DBqZnap3W32M4DrfCrwaDS7EZILHFZgDyyPuvxqxJRVuOZUAwhVMgT09P+6+gRRt1gxaPQenBYaS87bSfgjIvHJYYWWKXIrMw++Rk7nb1PtSFBxDy6RFAqljO21Zu3760F2lVFjemdA8UfCdYyxkw4vQk0d2+qZ+XrmiBkoiBdC0EatVo+VTVpf6RyUAWRDkbr540gxSBS/LULUcy1S4pUy23OvmdN7taGNISI8gXQdgifI6C3TVBd2zMyWbL+UelwNGX2fcA2hg1tz49/OK2+yxrXyX1ClCSyMPoc4VOYrx8QX1baXJkA2uBlJwdUXiU5X3++6iSnRO1T2RQJtqJP7iH29W9pnCP02Dv0=;WjwTQPTG/GsQF7re0lxncg=="
 ---
 

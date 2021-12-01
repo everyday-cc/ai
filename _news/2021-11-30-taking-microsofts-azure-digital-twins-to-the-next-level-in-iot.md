@@ -55,6 +55,20 @@ related:
         width: 940
         height: 443
         isCached: true
+  - title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
+    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
+    publishedDateTime: 2021-12-01T10:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 61
+    images:
+      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+        width: 1496
+        height: 785
+        isCached: true
   - title: "Microsoft Open Sources This “Mixture of Experts” Models Library"
     excerpt: "Tutel is an implementation of the mixture-of-experts technique for large-scale DNN model training. a subset of large-scale AI models."
     publishedDateTime: 2021-12-01T04:32:00Z

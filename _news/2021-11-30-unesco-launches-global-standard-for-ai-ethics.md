@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3642831/unesco-launches-global-sta
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.amp.html"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/ai_dreamstime_2.jpg"
         width: 504
         height: 315
+        isCached: true
+  - title: "Ethics Of AI: 193 Members Of UNESCO Adopt Recommendations"
+    excerpt: "In a historic global agreement, all 193 members of UNESCO adopt the recommendations on the ethics of AI document"
+    publishedDateTime: 2021-12-01T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/ethics-of-ai-193-members-of-unesco-adopt-recommendations/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/eithic-banner_11zon.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "UNESCO member states adopt AI standards"
     excerpt: "Audrey Azoulay, director-general of UNESCO presented this past week the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference."

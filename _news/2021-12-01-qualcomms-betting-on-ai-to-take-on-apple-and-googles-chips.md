@@ -136,20 +136,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Qualcomm, Google Cloud collaborate to create next-gen mobile AI"
-    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
-    publishedDateTime: 2021-12-01T05:07:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=899494"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 39
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
-        width: 280
-        height: 250
-        isCached: true
   - title: "Qualcomm, Google Cloud join hands to create Next-Gen Mobile AI"
     excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
     publishedDateTime: 2021-12-01T05:33:00Z
@@ -194,6 +180,15 @@ related:
         width: 1200
         height: 612
         isCached: true
+  - title: "Qualcomm, Google Cloud collaborate to create next-gen mobile AI"
+    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search ..."
+    publishedDateTime: 2021-12-01T10:57:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211201/3865312.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
   - title: "JiDU, Baidu and Qualcomm to build China’s first production vehicle powered by Gen4 Snapdragon Automotive Cockpit Platform"
     excerpt: "Baidu, Inc., JiDU Automotive and Qualcomm Technologies, Inc. announced that JiDU’s first production vehicle will feature an intelligent digital cockpit system assisted by Baidu and Qualcomm Technologies."
     publishedDateTime: 2021-11-30T08:06:00Z

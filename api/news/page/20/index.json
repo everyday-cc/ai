@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-11-12-brainchip-goes-to-the-edge-and-beyond-at-edge-ai-summit.md",
+      "title": "BrainChip Goes to the Edge and Beyond at Edge AI Summit",
+      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BCHPY), a leading provider of ultra-low power, high-performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-brainchip-holdings-ltd-artificial-intelligence-789183d73dfb4fe3aed03ac83f32e2d4",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-brainchip-holdings-ltd-artificial-intelligence-789183d73dfb4fe3aed03ac83f32e2d4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T09:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-the-best-early-black-friday-deals-2021-walmart-amazon-airpods-more.md",
       "title": "The Best Early Black Friday Deals 2021: Walmart, Amazon, Airpods & More",
       "excerpt": "Early Black Friday 2021 deals are here. These are the best Black Friday deals on TVs, laptops, Airpods and more from retailers like Walmart, Amazon and more.",
@@ -1185,49 +1228,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-autonomous-taxi-market-set-to-rev-up.md",
-      "title": "Autonomous taxi market set to rev up",
-      "excerpt": "The market size of China's self-driving taxi services is expected to surpass 1.3 trillion yuan ($203 billion) by 2030, accounting for 60 percent of the country's ride-hailing market by then, said a report by global consultancy IHS Markit.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202111/11/WS618c6db7a310cdd39bc74a71.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202111/11/WS618c6db7a310cdd39bc74a71.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202111/11/618c6db7a310cdd3d819abef.jpeg",
-          "width": 635,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T17:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

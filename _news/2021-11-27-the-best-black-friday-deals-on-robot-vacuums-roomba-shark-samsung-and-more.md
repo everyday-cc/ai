@@ -43,36 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "A bunch of robot vacuums and smart home gadgets are on sale for Black Friday"
-    excerpt: "Here are the best smart home and kitchen deals for Black Friday, including discounts on Instant Pots, robot vacuums, smart lights and more.."
-    publishedDateTime: 2021-11-26T18:07:00Z
-    webUrl: "https://www.engadget.com/best-robot-vacuum-smart-home-kitchen-deals-black-friday-2021-174554281.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 66
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2020-10/6f4230f0-0be4-11eb-b3f6-db9714009fa4"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Black Friday 2021: Best Smart Home & Kitchen Deals"
-    excerpt: "Black Friday 2021 is the perfect time to nab the kitchen gadget you've always wanted or that snazzy new addition to your living room. And whether you're in need of a dirt-busting steam mop or the smart TV of your dreams,"
-    publishedDateTime: 2021-11-26T17:26:00Z
-    webUrl: "https://patch.com/us/dealtown/black-friday-2021-best-smart-home-kitchen-deals"
-    ampWebUrl: "https://patch.com/us/dealtown/amp/30162156/black-friday-2021-best-smart-home-kitchen-deals"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/dealtown/amp/30162156/black-friday-2021-best-smart-home-kitchen-deals"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
-    images:
-      - url: "https://patch.com/img/cdn20/users/22872995/20211126/114008/styles/patch_image/public/black-friday-smart-home-kitchen___26113948138.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
 
 secured: "IbA9dKfYvdEBf5LL5X801ohStO5RYdXcUgpm4C/DeTbvmlKBYnnW7OsptpNQ1kjMUJ1y0PfDQdghhBtSdVorJg2S0MlQTEIH6DRRX6UQ/o6lBVEdnzEhYvUkhBYnYsbKH6r1Yv/CVKxfM87Ul5pIaM4HVrLM6ALAJa4ZzHnC5eXGiSC+hm6gTon0y77hwE9d1RCJGnTT2O/QzUO358aUsnFvXTr1P1W3TP6k/eYADvjsy8LdZOsfRL/d77K0I+pbweH7Rj7grZ003NN3vKPrwM28sKS8s60ETB/bV2zICG7MttTH5MoufKu+qcp3J6S/ipqqRv4PTgKMLpMpHAY0qOsbgs77fqAOGCeIY3g2Ivn8FYwrRhgRQAPYtSva3nska6o8qi9KNgGdwx2i99MU8ceXgwDzO8SlF0Hmb/m8EzYG1fZ2vCf9PqJY7i4XR1LSu4mYP4VvAFXJsOChaZqomrDolH3b7lYHR3IZ/j79gfSTXfGKHjs+tJuXM+ENdLilrVZVRrt7EP0ceZme9mIy0Q==;raf6sVaLT5gEB1wPaVCP/Q=="
 ---

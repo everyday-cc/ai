@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recog
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1"
 type: article
 quality: 163
-heat: 303
+heat: 313
 published: true
 
 provider:
@@ -210,6 +210,20 @@ related:
       - url: "https://www.privacyinternational.org/sites/default/files/styles/middle_column_cropped_small_1x/public/2021-06/Face_exchange_0.jpg?itok=EAJ1AISz"
         width: 555
         height: 312
+        isCached: true
+  - title: "Facial recognition firm to been fined over its handling of personal data in the UK"
+    excerpt: "It was recently found out that an Australian facial recognition firm faces a potential fine due to its handling of personal data in the UK. Indeed, the Information Commissioner’s Office has reported its concerns about the use of Clearview AI facial recognition software by police forces in the UK."
+    publishedDateTime: 2021-12-01T10:35:00Z
+    webUrl: "https://www.softwaretestingnews.co.uk/facial-recognition-firm-to-been-fined-over-its-handling-of-personal-data-in-the-uk/"
+    type: article
+    provider:
+      name: softwaretestingnews.co.uk
+      domain: softwaretestingnews.co.uk
+    quality: 33
+    images:
+      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/12/dave-redfern-6yMnWHFehxQ-unsplash.jpg"
+        width: 640
+        height: 424
         isCached: true
   - title: "ICO fines facial recognition tech company Clearview AI over GBP 17 million"
     excerpt: "The UK Information Commissioner's Office (ICO) has announced a provisional decision to fine facial recognition technology company Clearview AI over GBP 17"

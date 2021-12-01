@@ -2,24 +2,26 @@
 category: news
 title: "S&P Global Market Intelligence launches Artificial Intelligence-enabled Document Analytics functionality on S&P Capital IQ Pro platform"
 excerpt: "S&P Global Market Intelligence has launched an Artificial Intelligence-enabled (AI) workflow tool on S&P Capital IQ Pro that enables users to search across and extract relevant insights quickly and efficiently from textual content."
-publishedDateTime: 2021-11-30T16:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/s-p-global-market-intelligence-launches-artificial-intelligence-enabled-document-analytics-functionality-on-s-p-capital-iq-pro-platform-1031012903"
-webUrl: "https://markets.businessinsider.com/news/stocks/s-p-global-market-intelligence-launches-artificial-intelligence-enabled-document-analytics-functionality-on-s-p-capital-iq-pro-platform-1031012903"
+publishedDateTime: 2021-11-30T17:19:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-80d36f4f4779332d03cb2711b7394dc0"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-80d36f4f4779332d03cb2711b7394dc0"
 type: article
-quality: 15
+quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
@@ -41,6 +43,6 @@ related:
       domain: financialbuzz.com
     quality: 30
 
-secured: "9WHEPXOwszLgNN8Wrd336PDoTM9BXzKdnCI6oVT8fAXV3MP1pII/Aq4670+aY7+C1E3OzlguFpkL5aGto0+YA7rG82864rcUYHiUnS5g1Szu/eTvB1s7WQy8KkJEI6s5jaortGKgDL6ejzKhljeyzI0YqdoC/HsVjZsSQyOOKh/3r724FS52L0fgyLMYlPjmmxrhS7jMvwm4waIlijz08Cc/uMQ3t+01P8fCVgqPOPs+UzGgo/WxZykCsyqv4ix+6rrN3yVEZws0v+9LSKsT4H3sUMxnsuuiN74TvQPttsStWJMen39ibNfhAwI4ZJ9L6c3u5tysoQ6BXyJkdlhajCwQv6KKBsdmF4ztgQLUXvI=;6pwj5EIE1CUjcnVkxic5og=="
+secured: "rXaRT2kT96adZc+5BMTR9BAhkQRgWeFvsbmE8G2Ahha2QD9webZMsYg1jIAtkb+85NwPUIxx0JfGqETmtwM15AJNx2zwXDKJS+6Elt37Z5+yAW4Svnw2Qp6jSVZmNdo51IxRTL7eekVHRswhl5aYTwJ3V2DQjuh/ljGfXIO2xwBd8IY0zxdIMfA4DLPt0+Vgx0QU8/9kPsqllx6fEOZ+D1B9MduTFAlKYN7qP3p1EVqpCMFXg1Xamz8Tj3XLgl5Tf+EwDY6gMo2rCCCTzqjH+KtJNiBxKzNscz2LWUPMM2c71NrhQN+yFQwdRbwrLfZzu7JFQm8OU6eCFIWbxB/WzS7nFm+14O60ebhTwwtxtgc=;GtSO0+cGAhoz1X8CnCv83w=="
 ---
 
