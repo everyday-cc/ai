@@ -51,6 +51,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "AWS re:Invent 2021 keynote live blog: All the latest news, announcements and more"
+    excerpt: "Invent 2021 to report on the latest news, announcements, partner showcases and more from Amazon Web Services' annual event. Amongst the highlights from yesterday are the launch of Graviton3, the most powerful CPU launched by AWS yet,"
+    publishedDateTime: 2021-11-30T15:25:00Z
+    webUrl: "https://www.techradar.com/uk/news/live/aws-reinvent-2021-keynote-live-blog"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 64
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2idsF7Q9EqPcYWnwzgwtoF-1200-80.jpg"
+        width: 971
+        height: 545
+        isCached: true
   - title: "In-Person AWS re:Invent 2021 is Back!"
     excerpt: "Invent 2021 developer conference returns Las Vegas from November 30 through December 3. In-person attendance sold out quickly."
     publishedDateTime: 2021-11-29T13:23:00Z
@@ -94,6 +108,20 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/selipsky_aws.png"
         width: 1475
         height: 1051
+        isCached: true
+  - title: "New AWS CEO Selipsky unveils new AWS services at Re:Invent"
+    excerpt: "While a few new services announcements were made Monday at the Global Partner Summit, the CEO keynote got the lion’s share, including ones like new Graviton3 ARM chips and related C7g Instance for"
+    publishedDateTime: 2021-12-01T14:00:00Z
+    webUrl: "https://channelbuzz.ca/2021/12/new-aws-ceo-selipsky-unveils-new-aws-services-at-reinvent-38067/"
+    type: article
+    provider:
+      name: Channel Buzz
+      domain: channelbuzz.ca
+    quality: 41
+    images:
+      - url: "https://i1.wp.com/channelbuzz.ca/wp-content/uploads/2021/12/AWS-Reinvent-2021.png?fit=680%2C298&#038;ssl=1"
+        width: 680
+        height: 298
         isCached: true
   - title: "What To Expect From AWS re:Invent 2021 Event?"
     excerpt: "Based on the announcement, and trends in the cloud industry, among other factors, we predict what will happen at the AWS re:Invent event."

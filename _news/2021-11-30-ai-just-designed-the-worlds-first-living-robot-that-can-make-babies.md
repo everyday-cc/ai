@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/211129174929-02-xenobots-self-replicating-robots-scn-112921-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Meet Xenobots, World's First Living Robots That Can Reproduce"
+    excerpt: "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world."
+    publishedDateTime: 2021-12-01T16:32:00Z
+    webUrl: "https://thelogicalindian.com/technology/xenobots-worlds-first-reproducing-living-robots-32326"
+    ampWebUrl: "https://thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326"
+    cdnAmpWebUrl: "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326"
+    type: article
+    provider:
+      name: The Logical Indian
+      domain: thelogicalindian.com
+    quality: 59
+    images:
+      - url: "https://thelogicalindian.com/h-upload/2021/11/29/400x400_207630-untitled-design-2021-11-29t103354438.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Ai-Da, the world’s first AI humanoid artist, has now made history as a poet"
     excerpt: "Ai-Da, the humanoid AI artist who made history in 2019, as the first ever robot who can draw without any human input, is now an AI poet. Her first performance? A recital at the University of Oxford’s Ashmolean Museum,"

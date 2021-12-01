@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-15-why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco.md",
+      "title": "Why are Waymo AVs flocking to one dead end in San Francisco?",
+      "excerpt": "There’s quite the conundrum going on in San Francisco’s Richmond District. Waymo self-driving vehicles, which recently started offering rides to select passengers in the city, are reportedly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/question-of-the-day/why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco",
+      "originalUrl": "https://www.govtech.com/question-of-the-day/why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/0ed328f/2147483647/strip/true/crop/940x490+0+46/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fa0%2F40%2Ff54af073727f3f1d09fcd332e8ba%2Fwaymo.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.govtech.com/question-of-the-day/why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/why-are-waymo-avs-flocking-to-one-dead-end-in-san-francisco?_amp=true",
+      "publishedDateTime": "2021-10-14T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-15-waymos-autonomous-vehicles-keep-getting-stuck-in-a-dead-end-street-in-san-francisco.md",
       "title": "Waymo’s autonomous vehicles keep getting stuck in a dead-end street in San Francisco",
       "excerpt": "So, the Waymo Driver was obeying the same road ... about the need for companies to train their vehicle’s artificial intelligence software in all the elements of human driving, including messy ...",
@@ -1375,49 +1418,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-08-jdcom-baidu-invest-400-million-in-elevator-ad-firm-xinchao.md",
-      "title": "JD.com, Baidu invest $400 million in elevator ad firm Xinchao",
-      "excerpt": "JD.com and Baidu have jointly invested $400 million in elevator advertising firm Xinchao Media Group. Why it matters: The two Chinese tech giants are returning investors in the Chengdu-based media company. The deal is a major external investment for JD ...",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
-      "originalUrl": "https://technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2021/10/截屏2021-10-08-上午10.42.23.png",
-          "width": 1848,
-          "height": 1202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/10/08/jd-com-baidu-invest-400-million-in-elevator-ad-firm-xinchao/",
-      "publishedDateTime": "2021-10-08T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

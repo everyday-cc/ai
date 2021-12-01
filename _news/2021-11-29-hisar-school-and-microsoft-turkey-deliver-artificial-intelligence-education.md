@@ -7,8 +7,8 @@ originalUrl: "https://www.technologyrecord.com/Article/hisar-school-and-microsof
 webUrl: "https://www.technologyrecord.com/Article/hisar-school-and-microsoft-turkey-deliver-artificial-intelligence-education-127299"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: technologyrecord.com
@@ -26,46 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches fully managed Azure Load Testing service"
-    excerpt: "Microsoft has launched a fully managed load testing service for Azure, helping QA testers and developers optimize their app's performance."
-    publishedDateTime: 2021-11-26T23:31:00Z
-    webUrl: "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/"
-    ampWebUrl: "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Mindtree achieves AI and Machine Learning on Microsoft Azure advanced specialization"
-    excerpt: "Mindtree announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner's deep knowledge, extensive experience and proven success in enabling customer adoption of AI and implementing Azure solutions for machine learning life cycle and AI-powered apps."
-    publishedDateTime: 2021-12-01T12:46:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 79
   - title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
-    publishedDateTime: 2021-12-01T14:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+    excerpt: "WARREN, N.J. and BANGALORE, India, Dec. 1, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on"
+    publishedDateTime: 2021-12-01T09:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 61
     images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/ca/eca138ab-1f6a-575c-ab5b-20f351a1974f/607984186af13.image.jpg?crop=659%2C346%2C420%2C0&resize=659%2C346&order=crop%2Cresize"
+        width: 659
+        height: 346
         isCached: true
   - title: "Taking Microsoft’s Azure Digital Twins to the next level in IoT"
     excerpt: "As countless IoT applications track live systems, real-time analytics plays an essential role in identifying problems or finding opportunities and then responding fast enough to make a difference. How can digital twins create leverage for implementing real-time analytics in IoT?"
@@ -80,20 +53,6 @@ related:
       - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/11/scaleout-software-azure-digital-twins-iot-internet-of-things.jpg"
         width: 1800
         height: 1200
-        isCached: true
-  - title: "Microsoft Open Sources This “Mixture of Experts” Models Library"
-    excerpt: "Tutel is an implementation of the mixture-of-experts technique for large-scale DNN model training. a subset of large-scale AI models."
-    publishedDateTime: 2021-12-01T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/tutel-mixture-of-experts-technique/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Microsoft-Open-Sources-This-Mixture-of-Experts-Models-Library.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "xTKmX6ZvVjWKylBXbGFlfRtfy14Rdr9gU/lUbHtllJx7SIDq6bwmRbNw2kAqw7thGns4vhZch3yG6sleP3w0quqhdKYHOEJEuI0f+iK6+yxJP05Qv4K5aBGYF1jvP/GG6dTdYNDH/PlI0EbdyyxQIPzTFSPWeNPpw1fdHz66VqRU45ZyErgvTMkDSVtpfellTKBZiUa8yKkNGZH2bW8xsD7qn6cO5AmQpUqTT9wfMRnV20ozwJZTQpw9owNAl+sYS+PYvMPiSGdiRFZgmwjFQLmnLsPxQnQBr2htNh7guFyfdRn6mZLWZx5xA9XcATZbUnIY8D2mo8ira8vwPoAvfPSSGo2Wrh6PMV1NuF2qVnz6omZSEUjF1FWyReGtPSel9gfr/i9e3rvWsU1wArw5Yr+XKRvBVME8TXs6gOqHqKA+NKRABdzmSgkPLjALNfrEgNbltT69mTrQBg+iLSUU117B2L4ijf0fKxKOPs9GiKi3vRmyneBJxyZ+jkEApE9y2U0EQ1e007G0CW0S8ioG0Q==;DeguSTnduUvre+JksFTTKg=="

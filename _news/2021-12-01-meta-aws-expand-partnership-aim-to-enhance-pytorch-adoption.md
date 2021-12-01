@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-aws-expand-partnership
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/"
 type: article
 quality: 103
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -51,6 +51,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 19
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "Meta and AWS will jointly help enterprises use PyTorch on AWS to bring deep learning models from research into production faster and easier Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc."
+    publishedDateTime: 2021-12-01T16:16:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/meta-selects-aws-as-key-long-term-strategic-cloud-provider"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 19
 
 secured: "jWIGoGtjJ3pFB0R8PwhREd0GEmIbs56kWvw/u2v4LccSZc+7b0B8JLS1MWFCqhuVA4ktnG5igBwdqSRx3yPBjjtopjG5xeEnzvrguRmXLRhrqokBOGl3zb6vzBOs9LxKEw68eKkUWG3xdEwqF+kv3F166RxkWfiIiuX6kgl+WzPZ/wd1lJRU4CwtDlxZQNj9+pNI22rM/Vf0NV9GUBh1dlINNsQU6XvtBywRmqFHFs5dPHWctBEet9aio3NHT1zmeHA74aydj6QoElNq+NGetcdkOG4t3PVlxpQhl9p8VJheLbtl/OGfHpaHAVRTqNx52lBo1m0dyUJkUe5WBppjzn34jG4f3LBdny1tReXEZBkogyQZ+Ztjo692LKITQ8hs2x6CaA0ThIucHVuSgaTvrwRn8ZSamEPwZuCxtkd7H8B0WB0uBptlwA9YDB2LY5FXZKUC6Ri58PBt/UVaWRl5OYGd1oSGkgFBfELWg2STupN6KL2gyE/vbxor1cJ2BdM5AVqZ6/LOfqscK7UnrH3B5Q==;Bov0p4/C7w03kUdHUZgLpQ=="

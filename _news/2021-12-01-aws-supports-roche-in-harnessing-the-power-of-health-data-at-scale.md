@@ -53,20 +53,6 @@ related:
         width: 500
         height: 500
         isCached: true
-  - title: "AWS Announces AWS Private 5G"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Private 5G, a new managed service that helps enterprises set up and scale private 5G mobile networks in their facilities in days instead of months."
-    publishedDateTime: 2021-11-30T18:36:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-software-amazoncom-inc-web-services-394a03c95d054bdda7ab4d979d78daaa"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AWS Supports Roche in Harnessing the Power of Health Data at Scale"
     excerpt: "Roche uses AWS cloud capabilities to facilitate research collaboration, deliver new diagnostic technologies, and unlock insights from health data."
     publishedDateTime: 2021-11-30T09:01:00Z

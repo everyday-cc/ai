@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-10-self-driving-truck-startup-kodiak-robotics-raises-125m.md",
+      "title": "Self-driving truck startup Kodiak Robotics raises $125M",
+      "excerpt": "Kodiak Robotics, one of the last privately held autonomous truck outfits in Silicon Valley, has raised $125 million in new capital, funding that will be used to double its workforce as it pursues a path to commercialization.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-robotics-raises-125m/",
+      "originalUrl": "https://techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-robotics-raises-125m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/kodiak-robotics-trucck-profile.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-robotics-raises-125m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/10/self-driving-truck-startup-kodiak-robotics-raises-125m/amp/",
+      "publishedDateTime": "2021-11-10T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-motional-and-lyft-to-launch-fully-driverless-ride-hail-service-in-las-vegas-in-2023-will-mark-first-city-in-multimarket-deployment.md",
       "title": "Motional And Lyft To Launch Fully Driverless Ride-Hail Service In Las Vegas In 2023 - Will Mark First City In Multimarket Deployment",
       "excerpt": "The service will be the first time fully driverless robotaxis are available to public riders in Nevada, and will use Motional's next generation robotaxi, the all-electric Hyundai IONIQ 5-based ...",
@@ -1326,49 +1379,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-the-hottest-tech-trend-of-2022.md",
-      "title": "The Hottest Tech Trend Of 2022",
-      "excerpt": "The Hottest Tech Trend Of 2022 <p>It's an industry that will never retire or ever go obsolete.</p> <p> It's a revolutionary virtual marketplace, and",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103096381/The-Hottest-Tech-Trend-Of-2022",
-      "originalUrl": "https://menafn.com/1103096381/The-Hottest-Tech-Trend-Of-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-11/03/B_26655image_story.jpg",
-          "width": 845,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T10:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -238,6 +238,20 @@ related:
         width: 1024
         height: 561
         isCached: true
+  - title: "Qualcomm’s Snapdragon 8 Gen 1 is here with a 30% faster Adreno GPU"
+    excerpt: "As the world’s most advanced mobile platform, Snapdragon is synonymous with premium Android experiences, and the new Snapdragon 8 Gen 1 sets the standard for the next generation of flagship mobile devices,"
+    publishedDateTime: 2021-12-01T16:13:00Z
+    webUrl: "https://technosports.co.in/2021/12/01/qualcomms-snapdragon-8-gen-1-is-here-with-a-30-faster-adreno-gpu/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 39
+    images:
+      - url: "https://technosports.co.in/wp-content/uploads/2021/12/qc_onq_sd_8-gen-1_header.png"
+        width: 688
+        height: 376
+        isCached: true
   - title: "Qualcomm Snapdragon 8 live blog — all the big news as it happens"
     excerpt: "We just learned a little bit more about the Snapdragon 8 Gen 1, Qualcomm's new system-on-chip for mobile phones. The chipset was introduced during a keynote launching the chip maker's annual Snapdragon Tech Summit in Hawaii."
     publishedDateTime: 2021-11-30T19:28:00Z
@@ -252,6 +266,15 @@ related:
         width: 1200
         height: 612
         isCached: true
+  - title: "Qualcomm adopts Google Cloud neural architecture search for AI Engine"
+    excerpt: "Qualcomm and Google Cloud agreed to work together to accelerate neural network development and differentiation for Snapdragon mobile, ACPC and XR platforms, the Snapdragon Ride Platform and Qualcomm's IoT platforms."
+    publishedDateTime: 2021-12-01T14:43:00Z
+    webUrl: "https://www.telecompaper.com/news/qualcomm-google-cloud-enter-collaboration-on-neural-architecture-search-for-connected-intelligent-edge--1406171"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
   - title: "JiDU, Baidu and Qualcomm to build China’s first production vehicle powered by Gen4 Snapdragon Automotive Cockpit Platform"
     excerpt: "Baidu, Inc., JiDU Automotive and Qualcomm Technologies, Inc. announced that JiDU’s first production vehicle will feature an intelligent digital cockpit system assisted by Baidu and Qualcomm Technologies."
     publishedDateTime: 2021-11-30T08:06:00Z

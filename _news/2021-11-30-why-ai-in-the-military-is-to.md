@@ -9,7 +9,7 @@ ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/w
 cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
 type: article
 quality: 57
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/8/3/3/100833_monacoteam_942409.jpg"
         width: 1024
         height: 536
-        isCached: true
-  - title: "How the city hopes to rein in the job market’s AI gatekeepers"
-    excerpt: "A recently approved bill will make New York a leader in regulating automation in hiring, though tech watchdogs say the measure does not go far enough"
-    publishedDateTime: 2021-11-29T19:47:00Z
-    webUrl: "https://www.crainsnewyork.com/technology/how-new-york-city-hopes-rein-job-markets-ai-robot-gatekeepers"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/232895556.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Why speed is no substitute for long-term value on the path to AI"
     excerpt: "Over the last 20 months, we have seen a growing sense that speed is more important than perfection. As we rapidly moved to working from home, and needed ways to stay in touch or manage work remotely,"

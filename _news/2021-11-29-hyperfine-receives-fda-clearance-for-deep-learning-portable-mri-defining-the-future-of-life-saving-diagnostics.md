@@ -173,6 +173,34 @@ related:
         width: 800
         height: 464
         isCached: true
+  - title: "How AI and Automation Are Transforming Legal Teams for the Better"
+    excerpt: "How can legal firms benefit by transitioning away from traditional contract management processes and adopting AI and automation?"
+    publishedDateTime: 2021-12-01T15:31:00Z
+    webUrl: "https://www.lawyer-monthly.com/2021/12/how-ai-and-automation-are-transforming-legal-teams/"
+    type: article
+    provider:
+      name: Lawyer Monthly
+      domain: lawyer-monthly.com
+    quality: 39
+    images:
+      - url: "https://www.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2021/12/Matt-Gould_ContractPodAi.jpg"
+        width: 990
+        height: 660
+        isCached: true
+  - title: "How to bridge the imaging AI adoption gap with an ecosystem approach — 3 learnings"
+    excerpt: "Imaging technologies powered by artificial intelligence have proliferated in recent years, yet adoption of these technologies, which are designed to assist with the complexities of diagnostics and their associated workflows,"
+    publishedDateTime: 2021-12-01T13:42:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/how-to-bridge-the-imaging-ai-adoption-gap-with-an-ecosystem-approach-3-learnings.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 33
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "Q7N0txTq1ml2LI0rzX4ysSqMm7mIzrM8+P3FTdR9zEIMSgp4UXq8kJVoCHizr2Q20b4t+mHCO3pgBCjiLyXwhvDbXhbPGzjfUGMxsMkwV0tm2ciqY23E7ChKIFYwKVxTjWIdJ47f93qKGgyKWcqRJAgmvtR3/OWI4PnqE+/NKAj7F7sB19pZEpbkUmYiPM1udKPmiA8cI13lKMkXIWueLtlyJNWlEEXOdd21ZOFaWGY6fwpSHqJhm5xXr4nzX6qFK06Vczp0dSNbZA5pm//TZSu/S7ebxUZ+xzbW3HoKs/W3OOpGvojxqZZ50E4eVrMrq/LbB7Sl6fie23XFVOpnfQaAoF9iE53p4X2gZ7a3cf8YiMfr09+3B0/yDuwdbSi5jDlHO+HZdhptAf0WOOhidDqTx3TnVkdotZBPISh+kLJbTu9c1KJ4zLCKgF8fmBYvnKpOUZPuV3f/3eK0OTZyklOk+kdCi0MoVXxLE0wSEuB/hf8lHbaRl3z5aRfQ0o6ev7OieysntDDzJRymGU1d5w==;KWrSn6noZb+3MBpk9JxJjQ=="
 ---

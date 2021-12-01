@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/uk-government-publishes-standard-and-guidance
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/uk-government-publishes-standard-and-guidance-ai-algorithmic-transparency?amp"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 980
     isCached: true
 
-secured: "ugIMTLO3JsQ8j+LI/y43eW1lsHsBH1vggD0Pt9xY5IA30ojR+E89cRdyjFOag+WWoprk55NEq1hejhywLCewP/ZvQrRO6vvQiy65s1C9A01uhcQNEp6+OpJ5WLtKbxjXIkJi8+sM94qLko/ubj2k03dzJbhoi/qjAhbBriDgEoAWWRp8EKGASjSg1j44uSQAr/ZcNn0ttjK6faQXGrmd6vJ7plRV1Gi0XwWwBQGp6MOMuBuwdN2DXX7b6Y38FFJ7Gxg/KpPLoDPu5TrFF9WLnMHY7fsYIkWej1SpK3Wmnkzq8QECFTY6VreZ0MaJd903KE0Cph15QQCYEwVHKsboCalyHmOdcBbHaKmOtRAfnb4=;E7RoS/0O55KrMWYax60Whw=="
+related:
+  - title: "Transparency standards for AI piloted in the UK"
+    excerpt: "AI coders are expected to use the standard to be meaningfully transparent about how algorithms are used in supporting decisions."
+    publishedDateTime: 2021-12-01T16:36:00Z
+    webUrl: "https://www.biometricupdate.com/202112/transparency-standards-for-ai-piloted-in-the-uk"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "8IZcNKAzLq5Cl+A2w3qOujxOVrP4XYMDJlwCSE83MbDVUa8619q3EQYGpFOh2ZOGPTFhNeduUj5gqnJ+SVUYLCyU4aLwZC1bI8UWA1QhVxf4YutDgcEFcAz/k7Ww7H2Ve7Og7f8o3nAesYnTlXKCBTTS+988vrbVCOYbw2GjK59Aciu67FqvjsloBYmUQpjq0XloqPQNfI0wyGaYXeHogusjrRGzFAuvuokLx69QekvpyT3o9MfG0IdhYKPCEJowHYWSN4d9mBRVXyor2M0Yw6sdHSWLaplCn6GY84g+agPfvZGakyL2SWYDM+RWLn1M5/jek4mcG/AfRlfh0QPeFUsUMsvWFIfuxuj3hbZi+9y4k0hXJqyqMzGY3O+PPd4o9NDeReUiuhofy030oXAhmcME6BuzAPYU0bXIM43kcMqyftWFYsM1Dh4TuTmLIGgbixTH+LbFxjgXjixUQ85bBGtcbMMhx/NBCIIM2BL9/90sRFgPOIEfaMxk4BVyeKDf4lB3Oc9agQ8g9ae5VKlZdw==;Od/5S4fz8YR3Qlq50HJwZA=="
 ---
 

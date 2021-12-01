@@ -41,6 +41,20 @@ related:
         width: 5076
         height: 3384
         isCached: true
+  - title: "Twitch Will Use Machine Learning To Crack Down on Ban Evasion"
+    excerpt: "Twitch will be using machine learning to combat users circumventing bans. The platform announced its new Suspicious User Detection system to flag users who may be creating new accounts to evade bans from a streamer’s channel."
+    publishedDateTime: 2021-12-01T15:48:00Z
+    webUrl: "https://hypebeast.com/2021/12/twitch-ban-evasion-machine-learning-system"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F12%2FTwitch-Will-Use-Machine-Learning-To-Crack-Down-on-Ban-Evasion-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
 
 secured: "BwdYEpU51N0BbHEckEtS5foB9Pr/hmR0D8alBVlo1oBVY/zsDC5nR+R9MEOZNQaW6afU9ENv9+P5+PEfAWQbsI9oKsAr2jsepfzmQtCPaGGhXUvAiP9S91BlnEbzpLdKFG3JGTRnPnvaCKw4tJdHfYWBv14DvFnR4WZsUTpcfL9m/N2l/OIX18b0DQYltZhFgKEJyEVrfbqPHzmTHW5gm8WONG32xWfiaTnGEEqFPtEYvqu/lwrt1UcDSu8f7KH2d1wUB+rfyG4esHcRO/EItsWEO10AQWvduYnTY6xZ4mWr3oLdfOVlF0qXDbki4X+8VARJMcZHRRbcYGbjm+G+hJPDu5vrpTZVCb4TZoj5gE4=;pgE2MYdvtuwiXeWuwQNlgw=="
 ---

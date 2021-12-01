@@ -1,58 +1,31 @@
 ---
 category: news
 title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
-publishedDateTime: 2021-12-01T14:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+excerpt: "WARREN, N.J. and BANGALORE, India, Dec. 1, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on"
+publishedDateTime: 2021-12-01T09:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html"
 type: article
 quality: 61
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Microsoft AI
-  - AI
   - Machine Learning
+  - AI
+  - Microsoft AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-    width: 1496
-    height: 785
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/ca/eca138ab-1f6a-575c-ab5b-20f351a1974f/607984186af13.image.jpg?crop=659%2C346%2C420%2C0&resize=659%2C346&order=crop%2Cresize"
+    width: 659
+    height: 346
     isCached: true
 
 related:
-  - title: "Microsoft launches fully managed Azure Load Testing service"
-    excerpt: "Microsoft has launched a fully managed load testing service for Azure, helping QA testers and developers optimize their app's performance."
-    publishedDateTime: 2021-11-26T23:31:00Z
-    webUrl: "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/"
-    ampWebUrl: "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Mindtree achieves AI and Machine Learning on Microsoft Azure advanced specialization"
-    excerpt: "Mindtree announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner's deep knowledge, extensive experience and proven success in enabling customer adoption of AI and implementing Azure solutions for machine learning life cycle and AI-powered apps."
-    publishedDateTime: 2021-12-01T12:46:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 79
   - title: "Hisar School and Microsoft Turkey deliver artificial intelligence education"
     excerpt: "Turkish education provider Hisar School and Microsoft Turkey are providing students with education in artificial intelligence (AI). As part of this, students use Azure Stack Edge Pro to create an AI-based application that improves early diagnosis of Alzheimer's disease."
     publishedDateTime: 2021-11-29T12:12:00Z
@@ -81,21 +54,7 @@ related:
         width: 1800
         height: 1200
         isCached: true
-  - title: "Microsoft Open Sources This “Mixture of Experts” Models Library"
-    excerpt: "Tutel is an implementation of the mixture-of-experts technique for large-scale DNN model training. a subset of large-scale AI models."
-    publishedDateTime: 2021-12-01T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/tutel-mixture-of-experts-technique/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Microsoft-Open-Sources-This-Mixture-of-Experts-Models-Library.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
-secured: "JHrQRVhHDH3hsgFn5BIkcf6IjPIZecOCj4cp0e7vLA8pINThG7t+M4RC/WJxGongtp4gRipXdQFrRqz389swwcmYXs0Op7KH2w7uIFj55hhIONc6EMlKtWjF3wlTnnRxg/nFPSjGSjVn9G38Dm3+/RYW5oqekoBE9N6Qli9q/u5SLKzbuJ6XhNOs8C8d9hePxH8eSlB0QD6EoLdPkp9uSPHSo9U9Gf8rVvpOK+uwHvZ0btv9D7B1P1Q45tzoep6lPXx7kGFI5FXpgboElRlT2O7XrEfr7OVsF4SOkUQQ4jGWZ/A07cy9xj5eJqd+XZ9+i6CeW2xP7U9YP/sz6Gjw8cmhrqzdZS2xUhYuqnICbzk=;WzRSSrrX1gFLA8qmJoaSxQ=="
+secured: "gCHsyxIQHVp8J/mqZDnZkiuVDihADHdL+DVVET/r5toJyE8a9AzZuBVPyo9NXJLhwApVgGOYdxSDc1qmMof7vniTMJIqRXGAWEaa/lfy5lvq3+1mLEdgGMRKzWHlBtPOuPe3G7VMSdNm2u82juuE0IR/wjHnNNBKoGxWoOD/NcgTTZlsxMcW8afy9aKHRZdZ08P1l9xKlGNN9Ni5jWEs4WQDv1+8ypXTlHnHLY8hoH16Q9pZtFuDxcT8eBSxeMJFXkFANAO4QRpG+cQUzfXw36EovXRkeiZpsY31zg9owAaMuiDHacuBiXwnpNfjcZrdslPEecq0UO69rv3Bkl/OQgZVhb7rs11f8A5BwEKwl9k=;UpSRoKbm6Y3PYf/ENtu3LQ=="
 ---
 

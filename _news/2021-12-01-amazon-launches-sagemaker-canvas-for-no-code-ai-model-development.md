@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/SageMaker.png"
         width: 930
         height: 520
+        isCached: true
+  - title: "Qlik Beefs Up Machine Learning Capabilities in Qlik Cloud with Amazon SageMaker"
+    excerpt: "Qlik is deepening its partnership with Amazon Web Services (AWS) with the release of an advanced analytics connector for Amazon SageMaker and integration with Amazon SageMaker Autopilot. These integrations increase the breadth of advanced analytics capabilities already available in Qlik Cloud,"
+    publishedDateTime: 2021-12-01T15:01:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Qlik-Beefs-Up-Machine-Learning-Capabilities-in-Qlik-Cloud-with-Amazon-SageMaker-150310.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 52
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Qlik extends advanced machine learning capabilities in Qlik Cloud with Amazon SageMaker"
     excerpt: "Qlik deepened its work with Amazon Web Services (AWS) today with the release of an advanced analytics connector for Amazon SageMaker and integration with Amazon"

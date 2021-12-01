@@ -81,7 +81,21 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Astadia Joins the AWS Mainframe Modernization Service"
+    excerpt: "Astadia, the mainframe to cloud company, joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions and experience in migrating mainframe workloads to AWS."
+    publishedDateTime: 2021-12-01T16:53:00Z
+    webUrl: "https://www.lelezard.com/en/news-20135524.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 54
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
-secured: "RHRiSzrzYgRhIMhMW43wd3ldH2wJFGz/2FeuI6CF9FrB2SGkb2u6OMG8NQICoFh9uRkx4xWkrhykRAOlHAih0IjT3jq6qB3PkEmfwEtsZM5nuGn5eM4zvJgQZUEVRbL4p177hOqbmUAmm/oFQmnk7uIY6i7cveUqZtDdA676UWS9G0bUzqXmp28eE8E9RhSTnc+QD8IPcxKIpl5OicztaF3KgH/TZqmd56XnX5/V6c0x7IWZV+qf1R2NTbu3axawgJZfb7a9UUQNp4/HJWNYH4sasTgkvLo35AK0f8ToZlKJ0kgghFnqaa8eTb0tThK3o9zkywNRunGxX55mwbcuBmlVuA22CFlvJr7+Wl571r4=;iXRGYkrqHGq5YyNpt3zhMg=="
+secured: "4t5scScpTKLpKlrKN7w5HsdKemBeizIj4GF2XfGCsGxtQaJ3ETPysNfL2XoiBpepCzFBtr54Nj7do6oOtE/jpZUIYrB8XN4mpZFE6wV3O1qKOIoZx+bIjk3ArndoJOijqhELysE+AUp5lm4IdsxS8jgZF6E+vGQiDSAfHgiYf/S3Yr29XrlFtBOv5wn1le1kXil8DmcuGaiGnBsDS+E1g+7xZ/dpK3piRNivN3uoP3cxqYzbliasKCBaXNvO0JLlg/qDWzDvv+7xFQB2kyuTdmmkSaF+t/djEsvucduNw0bOVyd2hWMJBjMSFv0KWUSsRlL8oiX3816S5t0zxvdcy+6UhVjwKH2e5agxDS/q0IY=;6YsYpejsNiopmvsZvP9e/Q=="
 ---
 

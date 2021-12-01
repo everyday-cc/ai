@@ -149,7 +149,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Living robots made in a lab have found a new way to self-replicate, researchers say"
+    excerpt: "Xenobots, a type of programmable organism made from frog cells, can replicate by spontaneously sweeping up loose stem cells, researchers say. This could have implications for regenerative medicine."
+    publishedDateTime: 2021-12-01T16:42:00Z
+    webUrl: "https://www.npr.org/2021/12/01/1060027395/robots-xenobots-living-self-replicating-copy"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 33
+    images:
+      - url: "https://media.npr.org/assets/img/2021/12/01/blackiston2_wide-57c488cfed3706d584776301869007e9b12c249c.jpg?s=1400"
+        width: 1323
+        height: 744
+        isCached: true
 
-secured: "WsPUtQOHW6KIUQ++bcZ12R6/m19eAXDGqAlooQCFcmHlfbHYIx2EMGKantpLoozsm0Dy4xIc0bMSxnhv9DrRjMLGMJQ2ds5z1shTTfH9ak+bYES2S6NjzaH0U5alFYx+TSMvST3kyhErpsVKi9yOS0hm0rSXjU0Dh58J83mljdAO9NLqkxqeCZY/xZHuBhn9/8eU55dYtRj1oCEk6R4bH81mVRWmwMHLbFPuxvFbhpg32aG3Grg+baGO9weiGY+/g7UODk3I4vBFPdYwwrVVlH6u63PL2OWM3lP3bi1KyK5K1iUhLzabqrWSoBNZwzKphL+JSRNqz6y6ioNjCAkX7zvBs/XFEy8aiaUYBRDlWEI=;HD1PDViWBibZupiOwagbYw=="
+secured: "VlPARHnz6BNTY5M+HmaK+7RMQt4XgAVPuFFAas5rPU0Fn173joKI4xznVfFK4w7WHTpDIKAz0DTMguXAe8Zt6dpCPJ3iS5gUll5+xC0uSAMJLO2sXt/DH3hQcqESmhQxeNWDXA4QnuwLDAgCWOqjySEURkJKEpvWr15pfi61MJR3bzwlBDWAVXlS7ccIYoU/1n4pV5Mht8ZkD83BUoKjkAqoVmQFtdwvZEfCdyqKQkSpNNq85zLlkDZ7YZdKVG1w9JTxZ93+5UtwxCZzouqghtbQymZ9PfKqR+Q8cCcHhyJuWtbXGIyn1z5ynn4kbrM0+8ZoonJShDQPwC1xluxRrn0jFVVMgTeF1KNPaclMcGu4ZdJsKqnMhRcaFMD9Njpee01uELNSyxfBx5o49oKEb0EpcMM6OuGjpyKs4NS2Gz2Pz049l1mJbPVV2DNJL2CezYHW99zHTn6Zp+q/P2TO8gTAAucjpwlQFI3t9R5e/qnrWW1kCOh7gJj1sdxpWxYErIZ8HwRSdsmlPGMmcyMbQg==;OPi0AqVDumK65Nzw07nz2w=="
 ---
 

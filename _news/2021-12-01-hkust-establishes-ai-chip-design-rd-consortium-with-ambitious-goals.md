@@ -7,7 +7,7 @@ originalUrl: "https://digitimes.com/news/a20211130VL205.html"
 webUrl: "https://digitimes.com/news/a20211130VL205.html"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,66 @@ images:
     width: 1280
     height: 853
     isCached: true
+
+related:
+  - title: "HKUST and other universities in the city team with US researchers to work on AI chips"
+    excerpt: "AI chips are processors optimised for data-intensive AI applications such as Internet of Things (IoT) devices, allowing them to run faster."
+    publishedDateTime: 2021-11-30T21:00:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 97
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/30/8881de5f-9221-46c3-83b9-7968d752e7a8_5c1086f0.jpg?itok=d_8xI6OY&v=1638274676"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "MDOTM cuts AI and ESG research deal with the University of Gothenburg"
+    excerpt: "MDOTM, the European leader in AI-driven investment strategies, signed a partnership with School of Business, Economics & Law at the University of Gothenburg in Sweden."
+    publishedDateTime: 2021-11-29T10:28:00Z
+    webUrl: "https://www.finextra.com/pressarticle/90451/mdotm-cuts-ai-and-esg-research-deal-with-the-university-of-gothenburg"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "How the city hopes to rein in the job market’s AI gatekeepers"
+    excerpt: "A recently approved bill will make New York a leader in regulating automation in hiring, though tech watchdogs say the measure does not go far enough"
+    publishedDateTime: 2021-11-29T19:47:00Z
+    webUrl: "https://www.crainsnewyork.com/technology/how-new-york-city-hopes-rein-job-markets-ai-robot-gatekeepers"
+    type: article
+    provider:
+      name: Crain's New York
+      domain: crainsnewyork.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/232895556.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Artificial Intelligence Capabilities Are Quickly Becoming Essential for Customer Experience Initiatives, According to Dash Research"
+    excerpt: "Eastern Standard Time Dash Research's report, “Artificial Intelligence for CX Applications” , focuses on the market drivers and barriers surrounding the adoption and use of AI in CX platforms, applications,"
+    publishedDateTime: 2021-12-01T06:30:00Z
+    webUrl: "https://menafn.com/1103281768/Artificial-Intelligence-Capabilities-Are-Quickly-Becoming-Essential-for-Customer-Experience-Initiatives-According-to-Dash-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?268511"
+        width: 444
+        height: 250
+        isCached: true
 
 secured: "imprv5DSXG4iy4H/oTLGD4YbiKSk4lLiGMdpL0C8dL7BP9TupFU5kDaXY0a99G8yylAeRkj16wOPfTzWV4lbK7KK46NOXr5i48SZkUs0rXrFUF1xzNJbksMNvso6MTuTqyXmhn1vYO+w18aNmD6QvvT6UoEs1nAB51I6TEh30Yqy4ac8tiI5zgj6cLUBKGuFKdOcRVAoa+N05vk3PctXH1fv+oEQHE/fUVeDvhJlRrJdnHfx23pmmlD4UZqQ5e2GZdfwfcafAovGmP5T9SnB8GvpZE58gbieQMtXVMZA9b4FeDObGPFqZujr778md8dn1CMcpNp2Mo7Q8agoL34hiqp8JTlzvP3SxetLgPMEaF5Kf5Gtvo+pig2suArmcr10MInx1Qv7DfLSxsupsQFda9O4OcaFK6WLEdvkxKfyiCIrHzunXvQh3JqLvFAHPv2Wtv3fvTOj97xNUA6LPyPkqPOu3ZbvZPK1zGN2sE0iQaAWFV2hu9rzAL7sVEOhTlTgvFI1YiO+QqD1F7Y2BwBuyg==;IDxymR0eAHE/asG5ssUfrQ=="
 ---

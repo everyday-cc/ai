@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla's New Self-Labeling AI Just Brought It One Step Closer to Level-3 Automation"
+    excerpt: "Tesla's self-labeling AI just brought Elon Musk's firm a step closer to level-3 automation! And it could roll out in the Full Self-Driving Beta."
+    publishedDateTime: 2021-12-01T16:33:00Z
+    webUrl: "https://interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
+    ampWebUrl: "https://amp.interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 68
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplPZVOW/sizes/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
 
 secured: "YYjjXIwiG6xYzvM2f2ZAsmRii4U/V0LdPJMZ7/cI4sYUo0kI9OZzZrWr/e7rZ25iK6Ke7ZqhaDxu6hN5NKLWh6amcUj/hD267cgdRWWTXZHHaNCQ3Z1mL4m4wNzfPk58xbt67Nz9vyAf95kQQcl+TJCP8BM8vq7ehb3mePFYmoci9BQ+xK3FU/aXt8PvcFDqBaptplFZZ6LZ1BZRcvftJ7mh2kYFp66ozXv/y2V2kVJqfZU98EAtEBjgD5bUSrmFztSF/maPIhrX4SP0I1bPiSa65tB1bMvflkoMdronjOBi/l8tX1baTx8UPqPK7paaarNqNpUAWKHdMKI4M75WrMBhg4ghTlg9jWxQ+V5Gmg4mPXcFz1C17KxfwH07W0TNrj9gB0ThiGohL5MMvD9g3eLeG8mQF6RmIjRMYAk+BIXmMtFw+hDJKBzNk8efr98RZVYtZt6wv55obSt7lMZf8nz49T0q3wf4BCm8IR2ENXE+irgPX0QYbqz7IfYYzSC/Ik/6Pn2Hsw+Oqn9wI4K16g==;Ksgu1m0TctIbgW5ewUQgew=="
 ---

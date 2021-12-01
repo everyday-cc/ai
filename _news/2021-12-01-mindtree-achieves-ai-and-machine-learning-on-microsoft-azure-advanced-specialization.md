@@ -22,77 +22,19 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Microsoft launches fully managed Azure Load Testing service"
-    excerpt: "Microsoft has launched a fully managed load testing service for Azure, helping QA testers and developers optimize their app's performance."
-    publishedDateTime: 2021-11-26T23:31:00Z
-    webUrl: "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/"
-    ampWebUrl: "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/"
+  - title: "Healthcare Artificial Intelligence Market Boosting the Growth Worldwide | IBM,Microsoft, Medtronic, AiCure"
+    excerpt: "The latest study released on the Global Healthcare Artificial Intelligence Market by AMA Research evaluates market"
+    publishedDateTime: 2021-12-01T14:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-boosting-the-growth-worldwide-ibmmicrosoft-medtronic-aicure-2021-12-01"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 98
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "Hisar School and Microsoft Turkey deliver artificial intelligence education"
-    excerpt: "Turkish education provider Hisar School and Microsoft Turkey are providing students with education in artificial intelligence (AI). As part of this, students use Azure Stack Edge Pro to create an AI-based application that improves early diagnosis of Alzheimer's disease."
-    publishedDateTime: 2021-11-29T12:12:00Z
-    webUrl: "https://www.technologyrecord.com/Article/hisar-school-and-microsoft-turkey-deliver-artificial-intelligence-education-127299"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 69
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10619/img-Hisar-School_web.jpg"
-        width: 940
-        height: 443
-        isCached: true
-  - title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
-    publishedDateTime: 2021-12-01T14:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 61
-    images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
-        isCached: true
-  - title: "Taking Microsoft’s Azure Digital Twins to the next level in IoT"
-    excerpt: "As countless IoT applications track live systems, real-time analytics plays an essential role in identifying problems or finding opportunities and then responding fast enough to make a difference. How can digital twins create leverage for implementing real-time analytics in IoT?"
-    publishedDateTime: 2021-11-30T13:04:00Z
-    webUrl: "https://iottechnews.com/news/2021/nov/30/taking-microsoft-azure-digital-twins-to-next-level-in-iot/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 54
-    images:
-      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/11/scaleout-software-azure-digital-twins-iot-internet-of-things.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
-  - title: "Microsoft Open Sources This “Mixture of Experts” Models Library"
-    excerpt: "Tutel is an implementation of the mixture-of-experts technique for large-scale DNN model training. a subset of large-scale AI models."
-    publishedDateTime: 2021-12-01T04:32:00Z
-    webUrl: "https://analyticsindiamag.com/tutel-mixture-of-experts-technique/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Microsoft-Open-Sources-This-Mixture-of-Experts-Models-Library.jpg"
-        width: 1920
-        height: 1080
+        height: 630
         isCached: true
 
 secured: "j4qHXIOHlv2KUpAyGzHzxJMBzbUKXWugVgCPRkIpiCAzUwy38Lt65kwalUNNsKGTfJUm2XrOwXC+M4fhcu6O0r0N3+8n3CmEgS7kgpLe4EC4E9ALgv10Mpu6lLPG6+Crr4qaV9g/I5w0CXRg1pMQz0VyzgUBmP6WnhydK13E7jOBvHQ+zym0pWA6yODDiPZV5GllxE/R0EZgSTb/BSaWgmsXvb7TidPykpZaKJrh4dsHZkU5QB2Q2sXec0sqnnxGUKA7a2nhkIN2RlsGQ0Ec9fodf8WvCvlMG7gzoLZojZ5SSf396EtpivGDkc4iad9Q0vJ2czFjZUEJsZw6rhNBQngnUyxBqT059LnTOqHS0gw=;oIapxOZ3jt4mzxX/6vynSA=="

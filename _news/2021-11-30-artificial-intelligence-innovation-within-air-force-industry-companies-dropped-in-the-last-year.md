@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Supposing We Restricted AI Self-Driving Cars To Operating On Public Roads Only Late At Night To Sunrise"
+    excerpt: "One intriguing and controversial proposal about AI self-driving cars involves only allowing them to initially operate during late night and early morning hours. Here's the scoop."
+    publishedDateTime: 2021-12-01T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60596518d910750488dc5aaf%2F0x0.jpg%3FcropX1%3D109%26cropX2%3D1130%26cropY1%3D0%26cropY2%3D681"
+        width: 1021
+        height: 681
+        isCached: true
   - title: "Don’t Let Tooling and Management Approaches Stifle Your AI Innovation"
     excerpt: "Article in partnership with ModelOp It is no coincidence that companies are investing in AI at unprecedented levels at a time when they are under tremendous pressure to innovate. The artificial intelligence models developed by data scientists give enterprises new insights,"
     publishedDateTime: 2021-11-27T15:39:00Z

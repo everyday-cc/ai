@@ -25,63 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI in the Military is to"
-    excerpt: "Let’s answer One of the most rising concerns – how AI in the Military will create both international stability & conflict with the AI-enabled military systems? The world is becoming independent; we are seeing and living the advancement of independent vehicles,"
-    publishedDateTime: 2021-11-29T18:16:00Z
-    webUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628"
-    ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
-    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
+  - title: "HKUST and other universities in the city team with US researchers to work on AI chips"
+    excerpt: "AI chips are processors optimised for data-intensive AI applications such as Internet of Things (IoT) devices, allowing them to run faster."
+    publishedDateTime: 2021-11-30T21:00:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai"
     type: article
     provider:
-      name: El Clasificado
-      domain: elclasificado.com
-    quality: 57
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 97
     images:
-      - url: "https://elclasificado.com/photos/5a/04/5a0442bda5094029a6efe5fdb3c5bcc5/l.jpg?image=0"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Our award-winning AI is no threat to lawyers"
-    excerpt: "Monaco Solicitors won the 2021 Law Society Award for Excellence in Technology and Innovation for our Virtual Lawyer AI employment law advice project. We are proud to say that our Virtual Lawyer tool is helping increase access to justice by making legal advice in employment law available for free for tens of thousands of users."
-    publishedDateTime: 2021-11-29T00:01:00Z
-    webUrl: "https://www.lawgazette.co.uk/practice-points/our-award-winning-ai-is-no-threat-to-lawyers/5110715.article"
-    type: article
-    provider:
-      name: lawgazette.co.uk
-      domain: lawgazette.co.uk
-    quality: 39
-    images:
-      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/8/3/3/100833_monacoteam_942409.jpg"
-        width: 1024
-        height: 536
-        isCached: true
-  - title: "Why speed is no substitute for long-term value on the path to AI"
-    excerpt: "Over the last 20 months, we have seen a growing sense that speed is more important than perfection. As we rapidly moved to working from home, and needed ways to stay in touch or manage work remotely,"
-    publishedDateTime: 2021-11-30T18:28:00Z
-    webUrl: "https://www.linkedin.com/pulse/why-speed-substitute-long-term-value-path-ai-mark-lambrecht"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHDxdSzArBqJQ/article-cover_image-shrink_600_2000/0/1638295469290?e=1643846400&v=beta&t=MFujEMwUG_O2JTejHCLrDxhvWtdBvyIh2d9OjoALeVI"
-        width: 1377
-        height: 600
-        isCached: true
-  - title: "NYC aims to be first to rein in AI hiring tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their résumés or analyzing their video interviews. But New York City residents could soon get more say over the"
-    publishedDateTime: 2021-11-28T13:11:00Z
-    webUrl: "https://www.bendbulletin.com/ap/nyc-aims-to-be-first-to-rein-in-ai-hiring-tools/article_49263b77-34ad-5b74-95ab-bec31b15059e.html"
-    type: article
-    provider:
-      name: The Bulletin
-      domain: bendbulletin.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/b/a3/ba3d351f-8ce1-5934-a302-de297af7f77d/6198335736a55.image.jpg?resize=1200%2C800"
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/30/8881de5f-9221-46c3-83b9-7968d752e7a8_5c1086f0.jpg?itok=d_8xI6OY&v=1638274676"
         width: 1200
-        height: 800
+        height: 630
+        isCached: true
+  - title: "HKUST establishes AI chip design R&D consortium with ambitious goals"
+    excerpt: "The AI Chip Center for Emerging Smart Systems (ACCESS) founded by the Hong Kong University of Science and Technology (HKUST) convened a press conference on the 30th of November to share the vision of fostering a semi-open R&D platform bridging the gap between the semiconductor industry and the academics while helping develop transnational talents to meet the huge demand of the market."
+    publishedDateTime: 2021-12-01T02:40:00Z
+    webUrl: "https://digitimes.com/news/a20211130VL205.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://digitimes.com/newsshow/20211130VL205_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "MDOTM cuts AI and ESG research deal with the University of Gothenburg"
+    excerpt: "MDOTM, the European leader in AI-driven investment strategies, signed a partnership with School of Business, Economics & Law at the University of Gothenburg in Sweden."
+    publishedDateTime: 2021-11-29T10:28:00Z
+    webUrl: "https://www.finextra.com/pressarticle/90451/mdotm-cuts-ai-and-esg-research-deal-with-the-university-of-gothenburg"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Artificial Intelligence Capabilities Are Quickly Becoming Essential for Customer Experience Initiatives, According to Dash Research"
+    excerpt: "Eastern Standard Time Dash Research's report, “Artificial Intelligence for CX Applications” , focuses on the market drivers and barriers surrounding the adoption and use of AI in CX platforms, applications,"
+    publishedDateTime: 2021-12-01T06:30:00Z
+    webUrl: "https://menafn.com/1103281768/Artificial-Intelligence-Capabilities-Are-Quickly-Becoming-Essential-for-Customer-Experience-Initiatives-According-to-Dash-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?268511"
+        width: 444
+        height: 250
         isCached: true
 
 secured: "LeQXXZONIKFNQCwzSkXV4sR03Fn73eLe5CbGJMrsacWGm8i02IahAdXAXlzvyPZxitHzijbZCQvBQPfMTDxrcvTJ52CNVPCJh1j6TQwCMznT3DPAhcLPHRWfhMaHO7+Tx28Std6ixgCq8PdGZ2qUk9iOc6wp/4KIJSkffgXNLb1I8TltCKNizbomi0EqCHvq5PUCkM48BuJW0Bsx290Tc+anAtmcMsOAvWlo9jQWdnXyohiD2YL3s6SRAX2Uq5Y8ZSODx7hAzioPyog3TAPuDnb1nFrh2CwaFqVdeFjD1GRsRL8OISSKOTiP5HkL8ElQMyy1ToRhM9GURAq3ynITgn16CAHYxAw6VRLbwtB/S33I/3EjM+2xvt8RfTCRzqJmNIAK2yfmIO9kDS+o2ozNhqlfqpyQCFYfURnwTvz7blQDR6Ejh5ADPLYdECVA8d7lEnG5DMAjrUDuAZ+jIrk3kVZ7rT2MI9pksBotYE7J4RGjdNQlN/5nHsvx6GcCYuItL+/5t/c4U8Kqow+vfBfmnw==;wV7qJBQGEJ5kLBSaynP0aA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/scientists-use-ai-to-design-self-replicati
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -152,6 +152,20 @@ related:
       - url: "https://netstorage-tuko.akamaized.net/images/bf588309baf0ccf5.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Living robots made in a lab have found a new way to self-replicate, researchers say"
+    excerpt: "Xenobots, a type of programmable organism made from frog cells, can replicate by spontaneously sweeping up loose stem cells, researchers say. This could have implications for regenerative medicine."
+    publishedDateTime: 2021-12-01T16:42:00Z
+    webUrl: "https://www.npr.org/2021/12/01/1060027395/robots-xenobots-living-self-replicating-copy"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 33
+    images:
+      - url: "https://media.npr.org/assets/img/2021/12/01/blackiston2_wide-57c488cfed3706d584776301869007e9b12c249c.jpg?s=1400"
+        width: 1323
+        height: 744
         isCached: true
 
 secured: "jitz1fmqYqI8rD3L7bVe4fDMi+0fOkrwYDJ6KPn67rnpouWsXrHFPkKp0sHIDEm6/KoAmjSUjSG26AH2ptJWAbw9oe5GsyLqGtfjskx9prwFjFJYLYFUQxBBiPDWLwB+mEl4BXv1j5K1BSLGzyB6ou1iEMzdCJ6AR2XWdSXk6ivGHjYhxVcbfFXlZRl7VnIOQiKWDe3v8TBalFROaNKhzcEUdOqvuE/RaiUjAsbUfxfVMiCWtrjqkPLhBFro7mqdBfve1Md6RUepC13kaCGxHFGJWiZ6jRU+ZVhVHQhfrT78yC7pFjcVKkJ27pRC1AO3BGLGnUKzGWdOwR3XMYCVUxbuBQTdquYJj6W/Gr0+qcjOnAKThwKobUgx4vwYtB/EDOW9fOvGKRTueZH5BvDs3C6ycxDIDerafBGRAL+OEP2iVGbStMGdz1bQJy2BOANedx8VfC4Iiogtep7PGCLldO/ZvEUF9hgZm/has/wXuQa1uvDGOu4Ppp+Un0I+41eBbntYbxaIi3Emq2XEmA/eSA==;yAv/7YQ5FPvKz/us7b2/vw=="

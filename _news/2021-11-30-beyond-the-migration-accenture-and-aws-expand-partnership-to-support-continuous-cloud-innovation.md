@@ -51,6 +51,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "Meta and AWS will jointly help enterprises use PyTorch on AWS to bring deep learning models from research into production faster and easier Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc."
+    publishedDateTime: 2021-12-01T16:16:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/meta-selects-aws-as-key-long-term-strategic-cloud-provider"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 19
 
 secured: "YQXTrhxK9U+Npmwd0ygy0Su34m2mi9Jplssp5mryAGeOHGQ7IazL7t7QsACTVQUjZhPCtxTcjTJAUZkRq56AVJuA1x3nSj2uRIp01J7sDB5UR7InuezKIevBpqvxiEL8CITZc20RPLpi47dyMZDPou4LlRupITiSozsksDryAOyBjouHswsFKWE1VPN2HhNkhNHbmw9VHzr5zdpxJcy1yjlKoW1dXA25lr7uPJnXxstoF0gS3ZLItvEkxg/1qw2etL8LgNe7qkewQ+0pwcEso8Urnw009CTQsHTrwLUJ0+8d/9OELA1wxuSyn9ztNp9dLb5gBR5y0cwIyrCMAb30MeC2G5NeUlRc8J3hLGMETS8=;vZNbOdlO+RLb+2UMDywG1Q=="
 ---

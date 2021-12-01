@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
 type: article
 quality: 95
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -164,6 +164,34 @@ related:
       - url: "https://cdn.openpr.com/U/b/Ub30422061_g.jpg"
         width: 800
         height: 464
+        isCached: true
+  - title: "How AI and Automation Are Transforming Legal Teams for the Better"
+    excerpt: "How can legal firms benefit by transitioning away from traditional contract management processes and adopting AI and automation?"
+    publishedDateTime: 2021-12-01T15:31:00Z
+    webUrl: "https://www.lawyer-monthly.com/2021/12/how-ai-and-automation-are-transforming-legal-teams/"
+    type: article
+    provider:
+      name: Lawyer Monthly
+      domain: lawyer-monthly.com
+    quality: 39
+    images:
+      - url: "https://www.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2021/12/Matt-Gould_ContractPodAi.jpg"
+        width: 990
+        height: 660
+        isCached: true
+  - title: "How to bridge the imaging AI adoption gap with an ecosystem approach — 3 learnings"
+    excerpt: "Imaging technologies powered by artificial intelligence have proliferated in recent years, yet adoption of these technologies, which are designed to assist with the complexities of diagnostics and their associated workflows,"
+    publishedDateTime: 2021-12-01T13:42:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/how-to-bridge-the-imaging-ai-adoption-gap-with-an-ecosystem-approach-3-learnings.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 33
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Hyperfine Receives FDA Clearance for Deep Learning Portable MRI, Defining the Future of Life-Saving Diagnostics"
     excerpt: "Inc., creator of the first FDA-cleared portable magnetic resonance imaging (MRI) device, Swoop®, today announced the FDA 510(k) clearance and launch of"

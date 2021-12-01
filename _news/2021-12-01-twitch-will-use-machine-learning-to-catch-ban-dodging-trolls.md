@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/twitch-suspicious-user-detection-announce
 webUrl: "https://www.engadget.com/twitch-suspicious-user-detection-announcement-000510859.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2021/12/01/1124326-twitch.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Twitch Will Use Machine Learning To Crack Down on Ban Evasion"
+    excerpt: "Twitch will be using machine learning to combat users circumventing bans. The platform announced its new Suspicious User Detection system to flag users who may be creating new accounts to evade bans from a streamer’s channel."
+    publishedDateTime: 2021-12-01T15:48:00Z
+    webUrl: "https://hypebeast.com/2021/12/twitch-ban-evasion-machine-learning-system"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 39
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F12%2FTwitch-Will-Use-Machine-Learning-To-Crack-Down-on-Ban-Evasion-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
         isCached: true
 
 secured: "m+NGnXCvdc1tX261FWPRsYbl2mJWmYVCF3Yc2WfTzB+gSLp/UpOUmiL+DPmUFQm4xfLjVAGUoXtDCSz/diHHYaBSs6IEcuBDIINcHFVVmdsfmL3EK/4RasAoNZ425ipn2gzEcI8As3D/r64AN67OmnU6ejNqo0PaoGogrBqsGnTUaU45vOBbSjfAF1zcfVyW6emWkoLrBvIEiK23K4fuiSl98yiFUCr0GmnvTF1Gic6b2JsHv0of/SUyFnqNMzBeH+te76EDSsD9+PfpTZnS+ts9c9qVFC+SFAyxnYrfyLbOiLjrCuaGPKkVxhZ2T+O9QcJ7rso9/AMCS40ChEksi6H+SBnkPUXaJvPaaaQNxsG5x1FjmLdjTqwd3wjqWEEW5nADcFdc6vIU9yNBpFd63fWC0UtQTH9UOTnW0MLAszvvy9AzTEQjiExH8yA169QQoZz93sAnnN8C42OaUchttTA1sIpFmr58XuBjmc+RCcR7wgml4h2OiHFztO+li989vHDanyZNepRNMh0legH/uw==;EB0Au4/LwqnFbHG22VkkPw=="

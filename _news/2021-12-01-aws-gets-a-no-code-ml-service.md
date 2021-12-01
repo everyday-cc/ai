@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/30/aws-gets-a-no-code-ml-service/amp/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-gets-a-no-code-ml-service/amp/"
 type: article
 quality: 108
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/AWS-gets-a-no-code-ML-service.png"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Astadia Joins the AWS Mainframe Modernization Service"
+    excerpt: "Astadia, the mainframe to cloud company, joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions and experience in migrating mainframe workloads to AWS."
+    publishedDateTime: 2021-12-01T16:53:00Z
+    webUrl: "https://www.lelezard.com/en/news-20135524.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 54
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "AWS Announces New Serverless Options for Three Analytics Services"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"

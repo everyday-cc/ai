@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/01/tesla-releases-new-footage-auto-label
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla's New Self-Labeling AI Just Brought It One Step Closer to Level-3 Automation"
+    excerpt: "Tesla's self-labeling AI just brought Elon Musk's firm a step closer to level-3 automation! And it could roll out in the Full Self-Driving Beta."
+    publishedDateTime: 2021-12-01T16:33:00Z
+    webUrl: "https://interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
+    ampWebUrl: "https://amp.interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 68
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplPZVOW/sizes/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
   - title: "Tesla's self-driving beta now requires video recordings"
     excerpt: "Tesla’s full self-driving beta will now send video recordings to testers.The car company is currently beta testing a self-driving mode, and it has now been claimed the company has updated"
     publishedDateTime: 2021-11-28T08:46:00Z

@@ -56,6 +56,20 @@ related:
         width: 930
         height: 520
         isCached: true
+  - title: "Qlik Beefs Up Machine Learning Capabilities in Qlik Cloud with Amazon SageMaker"
+    excerpt: "Qlik is deepening its partnership with Amazon Web Services (AWS) with the release of an advanced analytics connector for Amazon SageMaker and integration with Amazon SageMaker Autopilot. These integrations increase the breadth of advanced analytics capabilities already available in Qlik Cloud,"
+    publishedDateTime: 2021-12-01T15:01:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Qlik-Beefs-Up-Machine-Learning-Capabilities-in-Qlik-Cloud-with-Amazon-SageMaker-150310.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 52
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cPHV6iB42NpbbjYS6lLmqjCFZN55mrNQDPSiGT4aLaFsa0pHgQ4UVMUvJ/l0JUoegMt3sLn0RCaesriCrTU2O9yYUszF199JW74mgQyGIU7b8/y+IBjca2UqL18m/JNfiGQ45SXb9theBv3XlobcT4YStJ9xUP7tIX85TZp8oPQ9XO2qQA2k/3DveZGjuEoo7wXG6An64BngHoiFR5CNoGSey7n7nJTfqrkuTiQd+0mtqXDfARV/zAAF+Klnxhxd8SDhyAL9aVRlzKDXfbbeBaksl9njMJscHfYtLBu+PQhoQ45MNcHR8/oib5v0QSjNFFsMGoEYss9owabpok+H5Q/agmdl6jLLz0X0sTL4wUjYpxj4YRYVmML7XThZK7zQRUFUV7BhU9xP6O5geNKH/rUn/rlx24iq00T1xCp93laVFzq3+SyzNtX7jpnSlWl2vgdHDfogdNzjhmZlUwihemfTFNsQ+YIoteOxSO2ddrKz8ptPmvSfn7AVbbKZZyhp6Ka2CVt2DKm2b3Lz+/FdlQ==;Tm2cUziutlIjZB23JMDWnQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-13-stock-news-analysis.md",
+      "title": "Stock News & Analysis",
+      "excerpt": "A temporary halt of its driverless vehicle testing combined with a tech stock sell-off were the culprits behind the artificial intelligence player's stock drop on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing-news/info_pflanzen.php?page=5941",
+      "originalUrl": "https://www.fool.com/investing-news/info_pflanzen.php?page=5941",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://optimize.foolcdn.com/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets/jester.png&w=400&op=resize",
+          "width": 400,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-11-dubai-eyes-the-future-with-self-driving-cabs.md",
       "title": "Dubai eyes the future with self-driving cabs",
       "excerpt": "Dubai already boasts of a top-of-the-line public transport system with the driverless Dubai Metro ... overhaul the taxi sector by employing artificial intelligence and smart systems.",

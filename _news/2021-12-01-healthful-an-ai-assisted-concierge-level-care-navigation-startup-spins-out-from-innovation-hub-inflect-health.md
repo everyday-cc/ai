@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Healthful, an AI-Assisted, Concierge-Level Care Navigation Startup, Spins Out From Innovation Hub Inflect Health"
-excerpt: "Vituity and Inflect Health today announced the launch of Healthful, a new company dedicated to delivering highly personalized support and guidance to patients. Healthful is the first startup to spin out of Inflect Health,"
-publishedDateTime: 2021-11-30T16:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-healthful-an-ai-assisted-concierge-level-care-navigation-/2021/11/30/9501789.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-healthful-an-ai-assisted-concierge-level-care-navigation-/2021/11/30/9501789.htm"
+excerpt: "Vituity and Inflect Health launch Healthful, a new company and platform dedicated to delivering highly personalized support and guidance to patients."
+publishedDateTime: 2021-12-01T01:36:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211130005167/en/Healthful-an-AI-Assisted-Concierge-Level-Care-Navigation-Startup-Spins-Out-From-Innovation-Hub-Inflect-Health"
+webUrl: "https://www.businesswire.com/news/home/20211130005167/en/Healthful-an-AI-Assisted-Concierge-Level-Care-Navigation-Startup-Spins-Out-From-Innovation-Hub-Inflect-Health"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
@@ -28,6 +28,6 @@ related:
       domain: heraldstandard.com
     quality: 0
 
-secured: "frfNlfFD55u0ZBxo7U6tgXPdjhzi9nwdTbLwersmbxWPlXy/BSOtMZ9e5NpGKDEf/s0rkw/jX7PVj0kwX4PPmkDHxS5P4a7QIF2Z/AueGvwStstA8in+5o0BqUPWBY1sp53mGlWIsUvLzzTBiIStHrL5XZ5+LdFiHTJWsgi5sr9R3xmc0YQsB42GTtotQvKbWmOrGQ+ZzWBp7/XC8dhaHm7Zon3ppli4QJmnTNfCksqo3Rzm4NnRlgnPAMdPJPQTXT47FXyGAmLFUJiFvi2LStCEZXJdR4paQb+Wa/j+kBMfYRqCQtPPLKrcl8U+TSzTSvWcCNcn+yA/KncQQEFShjEv99Y0+sP4/JytcpTZZL8=;huuiz0v81m44XAsQRjQ14g=="
+secured: "IL0wgXsLjo3FyYJBgj1nD9pC+pMLKbJ6sA5qo0ufeEsTrAUWCJeX9RrSxuqY4/ntldyRwHtYdG0afPMTjOOHlDlz80p3jUbwRygB4nHVXzUXV2BBGMNapVx0PBLanuhFlppvPQCV3MLSVjIkXgyt3J52/3x0n2bg+NGsHYNy/u1phCyoTm0Da/F2J3zGmr1uC0sSwTdN5CFdRvN/EyIO1Hc7X+9xhbLKrIB6mHkrsOvEOv33PqyFnpE0ZCKDH5KaB28Y5T0Ass+zWKPCW8Vi1y7S8Yu64/GdrvfRrSvoh/zSQT+NJx8/t1f5+Poj66YoXRb9bR6BuNz5DeRQkzz6DBrhCeg3QnOSMgmXQmezENm8kBW7n18iqwp2R2hDbEyD8stVe/tdn+DMkqOTKezCXtxie8j/hWzZtBE3fRedyfFSICOhLGGelJpJ6W/ThLbHRGP5i6jpNjw6gkoht1q01t6ZQiYt/gaEvY1SpOnbuGIfmj1AFu1HEvLqL9SzrstIEW9tSPrAf6I4blwxIH7+2g==;LdcVqbYBVjDeCzBTvcu5Sw=="
 ---
 

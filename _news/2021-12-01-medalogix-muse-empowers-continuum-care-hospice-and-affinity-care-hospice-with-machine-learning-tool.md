@@ -1,27 +1,30 @@
 ---
 category: news
 title: "Medalogix Muse Empowers Continuum Care Hospice and Affinity Care Hospice with Machine Learning Tool"
-excerpt: "Continuum Care Hospice and Affinity Care Hospice, a New York based hospice and palliative care provider operating in seven states, has successfully implemented Medalogix Muse, a machine learning and predictive modeling tool to meet the needs of their patients."
-publishedDateTime: 2021-12-01T12:13:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/medalogix-muse-empowers-continuum-care-hospice-and-affinity-care-hospice-with-machine-learning-tool-1031015441"
-webUrl: "https://markets.businessinsider.com/news/stocks/medalogix-muse-empowers-continuum-care-hospice-and-affinity-care-hospice-with-machine-learning-tool-1031015441"
+excerpt: "Continuum Care Hospice and Affinity Care Hospice, a New York based hospice and palliative care provider operating in seven states, has successfully implemented Medalogix Muse, a machine learning and predictive modeling tool to meet the needs of"
+publishedDateTime: 2021-12-01T13:54:00Z
+originalUrl: "https://www.lelezard.com/en/news-20133968.html"
+webUrl: "https://www.lelezard.com/en/news-20133968.html"
 type: article
-quality: 35
-heat: 35
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-secured: "UgMbgH5hiHDQKQclqyZPu/XrxyHy5+TFnVOr1REuKZ5wIHdCssAyIk/7dSISaGqhosCVmjeNCGSP9rbq6omzVxpPOpMJLgNMYE4HY1v4DcjgEBmSaeEFfQO7XvxVffOlncxbooCsOVkjp8pOEkXrghfv54Fj0CEGM3i3txDVhd3pAvBLuZ8u46mX7cTfndO3raJh/AjceTEC2Y0u+BIOYJt2fV2u6KEmG2kaFA6dk/vN2l1aSIlO/zkohx13Yjd0e8m7rQ+rnjAJWWdWb3ohjDWdQhelKIa6ccjZ7g7WqeYjFwG2sAKtZhVU4ZapK5TMUZe0qWs5R9vsJC/7rbJnNVg4VX4xRnc84xbESJEChAM=;7SvHdnz/AmQeeEb4Px+mQg=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "Te20KJyEjyr92uC/NvFGx+KBLOI8ljpmSJWc0HKfDnp2Vio+wOiiUliFOi/8ZQl1JiLFx8cXB58ih370lYGA8XqwS1LCIVB8feMcs7mKEoXwfVFbn+BrcrUWKXDI3ycL7m5SjMGlNj8SN/d7uQvbfSnTu7g+4xuUeqNyV7WhTxLpL8RIsLqAgWZfaxJkp9nT98n2dNbLyBLRltdQrnVz5fzwnCrAarLweQsokr1aIqfD9i79X+rYi83JRCaWWO+2ZpvSPCO4mfANU/D8LwJjwpo5gBc8/FcS8DL+s5y6wTCrfd/+tKU5ZgKnz6/yvP/OtORuDRuODGzaraM81AF7W7bBCOFse4VzptD+hcp+22k=;cxx4RHXSryZ4ozdbeb0lIw=="
 ---
 

@@ -59,6 +59,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Meet Xenobots, World's First Living Robots That Can Reproduce"
+    excerpt: "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world."
+    publishedDateTime: 2021-12-01T16:32:00Z
+    webUrl: "https://thelogicalindian.com/technology/xenobots-worlds-first-reproducing-living-robots-32326"
+    ampWebUrl: "https://thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326"
+    cdnAmpWebUrl: "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326"
+    type: article
+    provider:
+      name: The Logical Indian
+      domain: thelogicalindian.com
+    quality: 59
+    images:
+      - url: "https://thelogicalindian.com/h-upload/2021/11/29/400x400_207630-untitled-design-2021-11-29t103354438.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Xenobots: Scientists Build the First-Ever Living Robots That Can Reproduce"
     excerpt: "AI-designed Xenobots reveal entirely new form of biological self-replication—promising for regenerative medicine. To persist, life must reproduce. Over billions of years, organisms have evolved many ways of replicating,"
     publishedDateTime: 2021-11-30T08:40:00Z
