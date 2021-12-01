@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Tanium"
   url: "https://twitter.com/Tanium"
-  followers: 6750
+  followers: 6751
 
 locations:
   - Emeryville, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Tanium"
 
-secured: "AOWKt+DjKcd8FMVS+RPZbswOXjYYaEe5OKSrMXiZ2asmrsGp7fsiFTrdFelkTMV56OtV7w/VDCX0sohyUwqpKuWqwLMqCIvCnecWJq/IsS0Qaeh4s83yojGafJMcqrKT+Z+qRGfX/UPDGV2K7y41orWtQsZxg2TWywT6TOBaSGpZnPVU819jvZnTBXQjXQnGuUJPT3QpZR2GP+VZGZTCAA2/yEosmci642CwGQD2bPXCLYs7ro4wpAPXQHKdB9Oikr9CeCrw6t2UCYLkJkr13/tCI+iC2SYs0pz4Ayz4mv8mhDPyRsIozaquqBlq4DJSHUahwPC8pyrKNKqftiJC8mIeV+z7n9VUXmILbhzh4bm4jAkGM/CAMYpg9U6g+1yPbJPHfR3wUBkKViUZKZNcpw39OTepUaxL+aZXKD7H1nI=;gAoFjwcidVWwaoH8hrVowg=="
+secured: "eIHZ6JgDugKK/hXzjKXphfGk6uz7Zc5JYOlTf5/M+ZREvXpNR3OeU57E/o+hJTtAiJYiRdy7bLbLCJTdb5GfDZT1XFs/4RMtHNyrSpQblnrIG25o5iYtbUvx1qfUaluZyMZui3MaffMTn192TAUtwLoUj2PfVZ5MzRYH3AT4+Xkm+u2ieAlNxxoIJq2RGrnc329uW6GLiXwILS4TQ0JveMbw2dKiBnhwCzzB07MkEkOaIkAVz3JyN+RrxZRaNxceRL5L3FbBiTnhTOGR8E7Ouc3iAsTTFCDP1WsxQ+gHMn2ApsY3+krMgvshPZl41D6ruBxgopcI7KpxRnwHp6mf4x2c/brJV929c2WpheB40i3Q6byq6WYNePzl75mtZ208fYNN/R0rtW94Vv5egK6x+eMPqB5zwBPP1IU5xjXOh1g=;ZJZ2CkGU18JhdkxDV+8PQg=="
 ---
 

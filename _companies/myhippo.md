@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "hippo_insurance"
   url: "https://twitter.com/hippo_insurance"
-  followers: 2696
+  followers: 2698
 
 size: 51-200 employees
 yearFounded: 2015
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "Hippo Insurance"
 
-secured: "8IQHtRJDhm9pOTV6oAeJob10ukD9l4o0IUswBneiC2iCOpVsb8CTWPu1iNFQZDDvJYE7/U0nJM+FUA8z6q5jBBnYmu2vhXFDO3n8JdVrwJoGFF7Au1PEAPqa6CxXU/rCIB6tU471N+8nIDsVCebamiTC20slZfyn4klY2ypoD89SbOAa8Du0MZX+mJUgruN9FbaoYDLqQSB+69drTgKZkbrqRqWloQARdMSI1QNNtiv7eAf2ewL/sMA913+WTknZBURoYeA3m8wVv0sJwYM3F4MyvdpLGw33IhnoTIZU1byb4JROPSQ3DNbI/MCgqpXiexMpgp/M3ByEImWoUGQQWFCXLM2pbf5psp3VAHDMUHrAigfYa12tk6X5s79uvV+JyE/6QaK3krDfl7VrAc+H04wgydrsxJMhVngyJLp7zPc=;0NM0Op1re4KYyATjqp2TAg=="
+secured: "Dwiu9IdKBn+pMiSYrJ2o8WGmrnWQAHL+Pe/m1Dv0DIhi7ogIPunuaN1nP+ppBbYwP/XSJEnejsf68tUvppAleuRTnQWT5MoqXwZwd7GQNC4ZnKy+X6vELYurPuRgoGqfFC2pTrxEVCTI2HNWAVxogFZXMK0ABSz9HgioAYnRW7oTx2s4Gyw9p8MPKNs/jJ81L/5GVpGVqhS6kVHRT6MPGkeYTrgtCWRg5lAet+Fq1u9pRWqTnt0yD9mJTOMzKw/hDrLANQfOyuPLv0854e7PZ5bR27GDGIXpnq8irwvxVIv8huTQPTxNajbto37ylsCmbNtNM0iGpyVBJQZrAAKE5otucDk6O3YmCXoCMolOFQVe82FtVwEfnJhAgkA+0Ac+5o21FQQjIyXCYUipkssMYBIUfhDq5zOqhk6MxL9DE7E=;hyG/i/QpNqGAdKnQi7GsAA=="
 ---
 

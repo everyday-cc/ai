@@ -2,7 +2,7 @@
 name: "Nutrino"
 overview: "Our team of nutrition enthusiasts, engineers and data scientists are united by one singular goal: to provide personalized nutritional insights to every person on earth, empowering humankind to live smarter, healthier, and happier."
 type: "profile"
-heat: 41
+heat: 50
 
 website: https://www.nutrinohealth.com/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ynhELhRZO1s"
 
-secured: "R41SQnxrEVZ3rExVy2Guc3XDpRsckqh4QZTKIecbR+0OffQtxNsDyxrzvy5nibjw4e84T+wKFxUOrd/LTuvlXwB5bg5YFXZL+yO0Snbrhh6KfCPTjwEHzofbNbVRH+vXdYQRyApj0nHaUR1yuKUqW2cixEkQ7JTXfn9ojcnkHuwMtn6COJRhsEeAfyAOUw16H8yBwH4ThQLbTKCpNmeaaQPz9g7/8nhBNPs1O07XCFOYDjg+ThcTWembGy6bojFJV4uuS5D17Jc4IFqIDLV9W0vFgG3P/02qUZuYpFaB+nfD0lcQlcaFWG3i0UNyGzyZABrOvin4a4iBtitfGvAsCT5Euu3QrPpiKxN7MLzDwxUk5eK5RD2tI8ytgrgZIfktZbpKm/j2N4O1yHUy2Hm1cg==;lXQfT5gzbV7kPSecSRm5Qg=="
+secured: "CSZsnmzuHFoQx0xJK8OIZXODFm/qrcPGC0RCIpI0g61z72ILuxMtPcs6rtYTujcYd1FjUXiDAc7YvSZ3j0on3NTR8Lv0V5hqXcPzR3ZfibplpUbyNglgmgedLe1YEsBSQi23gqxoGX/VclsV+SI640ZiPB3ASJROIQDqMdDC7qzLToahOBnfJBCYEsgHRdqE5ukm0xxLlm8DCoR2pNOUfgv2teOaAOyKbC6eU+wtqFPiFe7J4MeiO4VZkeI2/RkCOGxksbpHWJSbm8+BXcF5XJq8Thy55ViFTZHSnjbx7ndTwosXfNsKSS0/tIjnyYjqOtBopbehOOQIopDM+jN66KBIYAaut0th8ShYaQlS7cAee+T/eaqgg15mV3yY566ulZX07B46ZtDi6pVN9s9TnQ==;Pd7oERPvVwTxFXoW0YkSHw=="
 ---
 
