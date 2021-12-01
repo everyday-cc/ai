@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-11-18-driverless-car-start-up-weride-partners-with-major-chinese-automaker-gac-on-robotaxis-as-competition-rises.md",
-      "title": "Driverless car start-up WeRide partners with major Chinese automaker GAC on robotaxis as competition rises",
-      "excerpt": "WeRide and Guangzhou Automobile Group (GAC Group) plan to make the robotaxis available via ride-hailing app Ontime to the public by 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
-      "originalUrl": "https://www.cnbc.com/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106977211-1637212648567-WeRide_GAC_Group_and_ONTIME_jointly_launched_Robotaxi_service.png?v=1637212972",
-          "width": 2500,
-          "height": 1432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
-      "publishedDateTime": "2021-11-18T02:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-11-18-artificial-intelligence-ai-in-retail-market-2021-2028.md",
       "title": "Artificial Intelligence (AI) in Retail Market 2021-2028",
       "excerpt": "New study report \" Artificial Intelligence (AI) in Retail Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30.",
@@ -1348,6 +1295,49 @@
       "provider": {
         "name": "fierceelectronics",
         "domain": "fierceelectronics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-today-in-retail-walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool.md",
+      "title": "Today in Retail: Walmart Manages Fully Driverless Deliveries; Lowe’s to Launch Room-Scanning Tool",
+      "excerpt": "Walmart has achieved daily deliveries without a safety driver, and Amazon is promoting the use of its payment service on other merchants’ sites.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/Lowes_Companies_Inc_Room_Measurements-457x274.jpeg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/",
+      "publishedDateTime": "2021-11-08T17:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
         "images": null,
         "publishers": null,
         "authors": null

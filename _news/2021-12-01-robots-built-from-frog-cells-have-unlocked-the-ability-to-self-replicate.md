@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists use AI to design self-replicating xenobots from frog cells"
+    excerpt: "Last year, a team of scientists announced the development of “living robots,” a new type of organism made using cells harvested from frog embryos. That same team is back with an update"
+    publishedDateTime: 2021-11-30T22:44:00Z
+    webUrl: "https://www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/"
+    ampWebUrl: "https://www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/xenobots-harvard-study-self-replicating.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Living robots made from frog cells can replicate themselves in a dish"
     excerpt: "Swarms of tiny \"xenobots\" can self-replicate in the lab by pushing loose cells together – the first time this form of reproduction has been seen in multicellular organisms"
     publishedDateTime: 2021-11-29T20:00:00Z
@@ -43,15 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI has designed the first living robot, makes its own robot babies"
-    excerpt: "These swarms of super-small 'xenobots' can self-replicate, the first time reproduction has been seen in multicellular organisms."
-    publishedDateTime: 2021-11-30T03:11:00Z
-    webUrl: "https://www.tweaktown.com/news/83023/ai-has-designed-the-first-living-robot-makes-its-own-babies/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
 
 secured: "x9kbbNqaPH6sqgVTk76RXDuinraHMCVmDU8e1dpyDGKVIFN5su2J28em/HQETPFSJ8RqDah3/qjPyByar3xJ1lw6WMdzzSHGCUgdYY9YW4KxvUzmhxDsVu2m3/MJjdCgUv/qHB6TQy7B1W+aE0etg2AR9BJ7oLIv/+K4TFBsz6HxaFAhFPlXyJjuVr1OIttJ3O7xl3VcmqqZ81yB064mS4nLLc8sj/iAIR2YmBDsyLWa1D6C+U9RUp3M38utmV+rZeIgxLVyKlWGVcES9JISeYBw3/GSauhx8oGRe+vcJCKSIidUg+P8HqUlMWk1kWgUKJwEEZBtKzwzUI1JTwJgHvEgdKHor8k8rJ2TS+XaHe3P48oEBANaSM25cKVpE8IhTt7l9oDlbv9zPSVscUR5npVQ32Yp5z6ryKEyzsh8wKlA5sR36Qq0WtM7EuozAS5+aOZ+W7Br0dVcioEIUVxFHrZz3ibJGx4w7u99kwInvYGwSvXLKa7cF9OgmHZXh6qAf1bXAeQ6SEeFxwMXti/rdA==;Lc5qNS3yd8Y9zXZGC6us2w=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-01-scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells.md",
+      "title": "Scientists use AI to design self-replicating xenobots from frog cells",
+      "excerpt": "Last year, a team of scientists announced the development of “living robots,” a new type of organism made using cells harvested from frog embryos. That same team is back with an update",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/",
+      "originalUrl": "https://www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/11/xenobots-harvard-study-self-replicating.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/amp/",
+      "publishedDateTime": "2021-11-30T14:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-linkedin-and-intel-tech-leaders-on-the-state-of-ai.md",
       "title": "LinkedIn and Intel tech leaders on the state of AI",
       "excerpt": "Industry leaders discuss the \"duct tape of data,\" if language models are a good way to approximate AI, and how to gain hybrid intelligence.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -49,7 +101,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -454,7 +507,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/30/amazon-announces-graviton3-processors-for-ai-inferencing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -652,7 +705,7 @@
       "originalUrl": "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -788,6 +841,58 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program.md",
+      "title": "AWS targets the energy industry with launch of the AWS Energy Competency Program",
+      "excerpt": "Amazon today announced a new program that will formally identify AWS Partners who develop specialized solutions aimed at the energy industry. The new AWS Energy Competency Program, as it’s called, will identify these specialized partners who have already demonstrated the technical expertise",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/",
+      "originalUrl": "https://techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/AWS-Energy-Competency-reInvent-Launch-2.png?w=680",
+          "width": 680,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/amp/",
+      "publishedDateTime": "2021-11-30T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1117,109 +1222,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-sophos-intercept-x-advanced-review-ai-powered-protection.md",
-      "title": "Sophos Intercept X Advanced review: AI-powered protection",
-      "excerpt": "These days AI seems to be everywhere, and Sophos Intercept X proudly exploits it to help identify unknown malware. It also blocks ransomware attacks using behavioral analysis, and provides tools to investigate potential threats to see how and why they occurred.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection",
-      "originalUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638265976/sophos_1.png",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection?amp",
-      "publishedDateTime": "2021-11-30T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay.md",
-      "title": "Portugal’s ‘Predictive maintenance’ startup Stratio pulls in a $12M Series A round led by Forestay",
-      "excerpt": "The fleet management industry needs to be able to predict when a truck or a van is about to break down. Not only does this prevent millions in lost revenues, it also has huge implications for supply chains.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/",
-      "originalUrl": "https://techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Stratio.jpeg?w=660",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/amp/",
-      "publishedDateTime": "2021-11-29T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

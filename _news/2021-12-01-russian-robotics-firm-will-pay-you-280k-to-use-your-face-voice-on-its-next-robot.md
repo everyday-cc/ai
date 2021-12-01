@@ -56,23 +56,7 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Would YOU apply? Tech firm will pay a brave volunteer £150,000 to use their face on its ROBOTS which will work in hotels, shopping malls and airports by 2023"
-    excerpt: "In its latest campaign, New York-based Promobot is seeking someone with a 'kind and friendly' face, to be used on a humanoid robot-assistant."
-    publishedDateTime: 2021-11-26T08:53:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10245493/Robots-Tech-firm-pay-150-000-use-face-ROBOTS.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10245493/amp/Robots-Tech-firm-pay-150-000-use-face-ROBOTS.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10245493/amp/Robots-Tech-firm-pay-150-000-use-face-ROBOTS.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 31
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/11/26/09/50997671-0-image-a-35_1637920279368.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
-secured: "5ZcjsXSSChR89gfAO1vraCM/6dmWMzlkRapREx5Qzc+Mcy9E0D2kIigomX2GfFC95W5tPVmg1mIvn3rX3XuS2j2gkSpcgP13NgohEQXrB1zXJrOiERrlJY5OQGrkfxFVoYLKeDMpspkLGWA6DjRyt5Svbe2LbJeSfP1X/JCN1VUr3JVG+EGFMntKtrNn/JzO7IcLGMzmranbw9mHcte/dQLR6FnpD8J437Z3RbOYhm002OhDN8lg5hdbDcRDnzbQPwYk0AR2sJoJDP9woeoR5t4m+PUhb1H7CpQDJBoY0alCSDWXZ0eDUCHGdncP6AbkLtqnY6VFZtwa4O18uTwKSsZqUQAHjKoK22ggo4Z8zsg=;CMuVBe9kVbasr12EDx/LuQ=="
+secured: "QphYt0iOTmRnE3twUG2hDKDMj1sfY6UUQRNLUtp4d8qhXIwazgBtBo0Vy01FUtSKZcE0l2hIEuQq2EKpMULyRb36XA2HOMyFWbQMnvX0M/KHk3cxrGvqdnLlLntC0fLS+7H+GSOk1tZn4o+Ye2oI/ZqQntO1Wndu6L3yeZnzObWTeFmOSJUXcOvnDrKKhNQUKJAwHcv2QopWoO4Df9J+8GEV7KQN0hdQwNEupjqC0gxbZCELvSD8nk4ya9tLYHl6qFbhCJCyK2wyGhukK4gHCBUD3CmeCGIirnyYkhSve2/UaqaXLuiuL5TtPuxN817xkC+EOeDPxALbyqYWtXCff9fgnQbvfskiQG/big9qzxqWkBCv2P40WICBBhFVXtgw635TY5jBEUKOeUwjD6B8Glk2jzI03kYvX4YFeb9vZJ+0OMVBuVOU+dC5cafqqvZ+UfWirJE8ccT1W7cKVi0WAvVhzO7g26MV1nJM+d0UQ5ER4U3214oHdR74q5T9CUjguR2hNqw/NQRYTqVODREE0g==;yq1sPihi9K/+3dKAi13adA=="
 ---
 

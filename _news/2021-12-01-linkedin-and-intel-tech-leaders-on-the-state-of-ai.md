@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-t
 ampWebUrl: "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "Xlt+uLxC9Dj8/ij4BXzQ3sRl9INCarNN0EDWAfsAx4RoScXVc9/WwNQ3ApVuT/tc2/AWd4HMPCt4rQjNdaLi+q4s7P5gywnJn0b4ZLfy4/usNOPYcju3A80xx0GgW04OvqoB9eD/gDMxpiW+77KsjqBq7IYTmBwiOeR2Mg6MDm3eMaaR6z6WQxeneoNAcnkPfl1nmt6UVvF/RQdZSEJfb3RhOx8zvQjNFekHQePTpwLWtEYk5vLgCShEctYubUirPaJzf/ReLFKiFwriFNY+Cff26ndH0XDbXtG11JzBWv6cBF3gJLrUAQfYPwsN1BSdYlBfperlMBeBeS9wAQHoj1VWecW+Q58eKXjHYGRiyuM=;H48TdL3yFWUY6Ez0iPMK4A=="
+secured: "xre9UCx3O/8GJFS+B+wEArVoygZ0ysS1vhaT8efG6Bfto82J9UjZYHNN/bGX/RiZVbAATefOredMNLSIZoj32/4ng0Le0pG5ZkWILqaxycU1bKldAVIqnBTP+6k3BPApTr/KSezEP3bEykY/P3EadUOOCPwE+k8kpvzhhdS/hORp52fV0zKQ7Mwox5MQq8UBs9zJ0S42yHUhOBdWalBz/vf35SHJu0Th4IMTjhNZ41P3ySpnG/ppm/4XUwkH7oDktWGXOtPcB4o7aNYDXoUc4WjzNBJ7ZlRNuDqxI5GOjn7arNpWF8SvEAPRb+RQVG324F+uqDQoQQarxogrvMM5jzyAenCdBkS88wU/iYIzY6K01i8gQltd18jafust91mEhGMp2lbbly500fF6UnxLNtuoEEy/+SldNpgtf0MgCzFyj5ln8NWhrrrCH6mj8m4aL9V+rpsUkNBO1s3JtLmEnOsEwohBAPWiBQ2cjJs+E/Uzzor3BxCR1/usDiUlb67qLHm1RLK30wnsKvtvqEQigw==;L4bXa8yA53uA/1vakU2dkA=="
 ---
 

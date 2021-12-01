@@ -41,6 +41,20 @@ related:
         width: 603
         height: 380
         isCached: true
+  - title: "Deep Learning Chipset Market Size 2021 with CAGR of 37.1%, Top Growth Companies: NVIDIA, Intel, IBM, and, End-User, SWOT Analysis in Industry 2026"
+    excerpt: "In 2021, “ Deep Learning Chipset Market “ Size, Status and Market Insights, Forecast to 2027 |( Number of Pages:121)"
+    publishedDateTime: 2021-11-27T06:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-2021-with-cagr-of-371-top-growth-companies-nvidia-intel-ibm-and-end-user-swot-analysis-in-industry-2026-2021-11-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self Healing Concrete Market: Global and Regional Analysis with Forecast till 2028, Business Opportunities, Post COVID Scenario"
     excerpt: "According to the report The global Self Healing Concrete market size was valued at 22 68 Billion in 2020 and is expected to reach 147 05 Billion by 2028 growing at the CAGR of 25 31 from 2021 to 2028"
     publishedDateTime: 2021-11-29T11:54:00Z

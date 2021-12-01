@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/aws-launches-the-aws-energy-competency-p
 webUrl: "https://bestgamingpro.com/aws-launches-the-aws-energy-competency-program-to-target-the-energy-industry/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS targets the energy industry with launch of the AWS Energy Competency Program"
+    excerpt: "Amazon today announced a new program that will formally identify AWS Partners who develop specialized solutions aimed at the energy industry. The new AWS Energy Competency Program, as it’s called, will identify these specialized partners who have already demonstrated the technical expertise"
+    publishedDateTime: 2021-11-30T14:54:00Z
+    webUrl: "https://techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/"
+    ampWebUrl: "https://techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/AWS-Energy-Competency-reInvent-Launch-2.png?w=680"
+        width: 680
+        height: 398
+        isCached: true
   - title: "Ambyint Achieves AWS Energy Competency Status"
     excerpt: "Ambyint, a production and artificial lift optimization solutions provider, today announced that it has achieved Amazon Web Services ( News - Alert) (AWS) Energy Competency status. This designation recognizes that Ambyint has demonstrated deep expertise and technical proficiency helping customers leverage AWS cloud technology to transform complex systems and provides energy customers the ability to more easily select skilled partners to accelerate their digital transition to a sustainable energy future with confidence."
     publishedDateTime: 2021-11-30T14:40:00Z

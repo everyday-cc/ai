@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newscientist.com/article/2299252-living-robots-made-from
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2299252-living-robots-made-from-frog-cells-can-replicate-themselves-in-a-dish/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: New Scientist
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists use AI to design self-replicating xenobots from frog cells"
+    excerpt: "Last year, a team of scientists announced the development of “living robots,” a new type of organism made using cells harvested from frog embryos. That same team is back with an update"
+    publishedDateTime: 2021-11-30T22:44:00Z
+    webUrl: "https://www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/"
+    ampWebUrl: "https://www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/xenobots-harvard-study-self-replicating.jpg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Robots built from frog cells have unlocked the ability to self-replicate"
     excerpt: "Robots such as these, capable of making offshoots of themselves, could be a future tool for science and medicine."
     publishedDateTime: 2021-11-30T17:39:00Z
@@ -43,15 +59,6 @@ related:
         width: 720
         height: 405
         isCached: true
-  - title: "AI has designed the first living robot, makes its own robot babies"
-    excerpt: "These swarms of super-small 'xenobots' can self-replicate, the first time reproduction has been seen in multicellular organisms."
-    publishedDateTime: 2021-11-30T03:11:00Z
-    webUrl: "https://www.tweaktown.com/news/83023/ai-has-designed-the-first-living-robot-makes-its-own-babies/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 34
 
 secured: "5vzc829/gBiE0tHWjW84C60MeIIs0kHDnSDmrg6NsaTlnxbG3uGCBuZh5qP5Rvav/QefGfPM+p6FFnKiGpbteJhF7BjdSFmbgmyV1zxPUnsHChQf/fZZaYTk5uZo6oTy7rY2uFrd/h/N9f7anYkdLs4Eg4BNpwh6LVx8Cej1jusEijECg2Zg+DYWb9U0aWIQMW8keaYv3vpvd9clfi3tew8X5KTsQrIEIYdAou7JdThV8A9+a+r3tZpwqcy+zsIQfWISWDM8Jbf8KvVAPUOMjFSHKPvlF02Xb6B2LHteuKPIMxItIw/oGUakqoYAnCpPRayGn0a4vHnCm07Ivl9o1RwWNl0+Yx8pzinco4wXn1+2oXiFtkd71iz69rEZ3/3xGVGqA518qNZe2v2Xaux4jfqyQZyHnx3kbxpop7Z8w/2Z3yR88pS/tAl8ivSph5/C//KbAhcGMTvT1uAqDFpsz0fDey3zxVgSCGTJj6Lk8QaLPu/fXRDR2FmzIVFXYV8AwkZ++PpACkvHIdUxebyPTg==;fDUxRKxnyvF1xCupNQ0Ruw=="
 ---

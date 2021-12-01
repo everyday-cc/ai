@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/11/29/americas/xenobots-self-replicatin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/11/29/americas/xenobots-self-replicating-robots-scn/index.html"
 type: article
 quality: 89
-heat: 189
+heat: 190
 published: true
 
 provider:

@@ -2,40 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-10-29-abb-invests-in-building-technology-startup-brainbox-ai.md",
-      "title": "ABB Invests in Building Technology Startup BrainBox AI",
-      "excerpt": "ABB Technology Ventures leads BrainBox AI’s Series A investment round. Launched in 2019, BrainBox AI has pioneered the use of artificial intelligence to reduce energy costs and carbon emissions from Heating,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/176528/ABB-Invests-in-Building-Technology-Startup-BrainBox-AI/",
-      "originalUrl": "https://www.newswiretoday.com/news/176528/ABB-Invests-in-Building-Technology-Startup-BrainBox-AI/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-28-living-with-robots-an-excellent-non-technical-overview-of-robotics.md",
       "title": "“Living With Robots” – An Excellent Non-Technical Overview Of Robotics",
       "excerpt": "This is a review of the third book sent to me recently by MIT Press, and the book is the best of the bunch. “Living With Robots,” by Ruth Aylett and Patricia A. Vargas is a good, non-technical book that discusses a number of issues with robots in human ...",
@@ -1375,6 +1341,58 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-inhabitats-week-in-green-the-worlds-tallest-skyscraper-mind-controlled-robot-exoskeleton-and-a-lego-bat-cave.md",
+      "title": "Inhabitat's Week in Green: the world's tallest skyscraper, mind-controlled robot exoskeleton and a Lego Bat Cave",
+      "excerpt": "In the world of wearable tech, Japanese company Cyberdyne created a mind-controlled robot exoskeleton to protect Fukushima workers from nuclear radiation, and NASA developed an Iron Man-like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2012-10-21-tallest-skyscraper-mind-controlled-robot-lego-bat-cave.html",
+      "originalUrl": "https://www.engadget.com/2012-10-21-tallest-skyscraper-mind-controlled-robot-lego-bat-cave.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/KewcAbB25TppQrbiOH3ETQ--~B/aD00MTE7dz01Mzc7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2012/10/yang-holographic-butterfly-coating-537x411.jpeg",
+          "width": 537,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

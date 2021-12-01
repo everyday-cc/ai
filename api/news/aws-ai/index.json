@@ -301,6 +301,58 @@
       ]
     },
     {
+      "path": "_news/2021-11-30-aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program.md",
+      "title": "AWS targets the energy industry with launch of the AWS Energy Competency Program",
+      "excerpt": "Amazon today announced a new program that will formally identify AWS Partners who develop specialized solutions aimed at the energy industry. The new AWS Energy Competency Program, as it’s called, will identify these specialized partners who have already demonstrated the technical expertise",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/",
+      "originalUrl": "https://techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/AWS-Energy-Competency-reInvent-Launch-2.png?w=680",
+          "width": 680,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/amp/",
+      "publishedDateTime": "2021-11-30T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-aws-named-united-airlines-preferred-cloud-provider.md",
       "title": "AWS Named United Airlines' Preferred Cloud Provider",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced that United Airlines has selected AWS as its preferred cloud provider. AWS will support United's digital innovation, providing machine learning,",
@@ -457,7 +509,7 @@
       "originalUrl": "https://www.zdnet.com/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 127,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1347,49 +1399,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-commerceai-launches-in-aws-marketplace.md",
-      "title": "Commerce.AI Launches In AWS Marketplace",
-      "excerpt": "Commerce.AI, a leading CX AI platform, announced today that it is available in AWS Marketplace, a digital catalog with listings from independent software vendors that make it easy to find, test, buy and deploy software.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-05ad8e6cc9e20770edc051afaadf02c6",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-05ad8e6cc9e20770edc051afaadf02c6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

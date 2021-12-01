@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/"
 type: article
 quality: 59
-heat: 93
+heat: 79
 published: true
 
 provider:
@@ -54,22 +54,6 @@ related:
       - url: "https://www.khaama.com/wp-content/uploads/2021/05/Immigration-to-Canada-and-US.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Would YOU apply? Tech firm will pay a brave volunteer £150,000 to use their face on its ROBOTS which will work in hotels, shopping malls and airports by 2023"
-    excerpt: "In its latest campaign, New York-based Promobot is seeking someone with a 'kind and friendly' face, to be used on a humanoid robot-assistant."
-    publishedDateTime: 2021-11-26T08:53:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10245493/Robots-Tech-firm-pay-150-000-use-face-ROBOTS.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10245493/amp/Robots-Tech-firm-pay-150-000-use-face-ROBOTS.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10245493/amp/Robots-Tech-firm-pay-150-000-use-face-ROBOTS.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 31
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/11/26/09/50997671-0-image-a-35_1637920279368.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "oNhbsmMDm9RCquKto9EjhZb+2vMFMhOHxcWdHDveevMYXDNFf1gWsQq37guJaqGbzPnD6O9k8AAAOMMCe34YLyBrPOK0T8wq6Okv8FjOJyOj5yfzbqPTJOqELXXAL0YFxG4jniixpn7uwU/RFelm3w4WixvnDY0eZFwGj9S4D0ezmEl7wUEyumyye3SE2y3ioykYv0xlJ8Zp02yohQq5ZOeqNEtjQrUMfVMMHz0o+Q55+ka5c6+0wX2gzNxwl3bQAqpJ3wsxwZPj03Z0eZf51xKfuc3QC9zjCCBQdzxl0FvWbGNS5GUxEgDKVS6BdrmzgHKKE5lOGj1i2L35zYSTrEkJ4uhymo7w+4OUOmYnZidVKTrFPtdgz6aPmaTd/k13d9LwfYCgClEb6CISYL+WGRgkRMjdNCwZdYorLbMZ8Y7hnM/IgDJngYlHdEjOhlxcGCnq4PEl4GaIQL/Yrksqt17C3/4n3vz8ME3gFp7rfRDQlg5tAtSu6XqAIHD69+WtLuyu2og+1Ron038HW97DaQ==;f/alKAb+oRY9TtKXcOi/Tw=="

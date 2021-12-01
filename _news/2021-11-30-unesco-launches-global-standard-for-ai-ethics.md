@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3642831/unesco-launches-global-sta
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.amp.html"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://lh3.googleusercontent.com/bVXnIuD5cZ7d-8D3A5ISv2p2z2XsJBCbqhUvoAKs6LS8t9L_IdaIoZ5mqUuuonx7Rk75_LuUWMUG-_ufYR8-TulFsdxILOr8c25Z=w816-h428"
         width: 816
         height: 414
-        isCached: true
-  - title: "UNESCO Chief Audrey Azoulay Presents First-ever Global Standard On Ethics Of AI"
-    excerpt: "The Recommendation on AI Ethics lays out common ideals to assist in the development of the legal infrastructure needed to enable its healthy development."
-    publishedDateTime: 2021-11-26T07:45:00Z
-    webUrl: "https://www.republicworld.com/world-news/europe/unesco-chief-audrey-azoulay-presents-first-ever-global-standard-on-ethics-of-ai.html"
-    ampWebUrl: "https://www.republicworld.com/amp/world-news/europe/unesco-chief-audrey-azoulay-presents-first-ever-global-standard-on-ethics-of-ai.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/europe/unesco-chief-audrey-azoulay-presents-first-ever-global-standard-on-ethics-of-ai.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 70
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/1fiewltd84lwzqqj_1637909944.jpeg"
-        width: 768
-        height: 439
         isCached: true
   - title: "KATE THOMPSON DAVY: Unesco’s global standard on AI ethics provides smart blueprint for laws"
     excerpt: "Rather, the good governance of AI was given a huge boost in the form of the first global standard on AI ethics. A Unesco project presented to the world by director-general Audrey Azoulay on November 25,"

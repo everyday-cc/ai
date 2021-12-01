@@ -70,17 +70,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Global Artificial Intelligence ai in Drug Discovery market 2021 Analysis & Forecast to 2028 by Key Players, Share, Trend, Segmentation"
-    excerpt: "Nowadays businesses are highly relying on the different segments covered in the market research report which presents better insights to drive the business into right direction Artificial Intelligence ai in Drug Discovery market report presents the company profile product specifications"
-    publishedDateTime: 2021-11-26T07:23:00Z
-    webUrl: "https://www.openpr.com/news/2475652/global-artificial-intelligence-ai-in-drug-discovery"
-    ampWebUrl: "https://www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 20
 
 secured: "ooGA3Yy0ncV55DOAOA9r+mJi6f1AqW167T94mRTctAyL2EfAvxGa94pPeH0cT+eVZ32SZSoRZ7494dzxmo5c2UF3AGWys8FllikqNsme+EbYeyiZ+XT7FTfraKcjeVg17EUYRgD1AdI4if1MY2G2/iH41CFqwtJhSd3MEQqBtoHmffpMJuPpjdzH7N12S/vqbpGp+Q2oWhFmu7NYePYBqWZEBClaTji+3BtCgdIcWcwn5RiSrcjDKTFh37/NSpigS8L+SpaI3a5brIz7Y0nhaDqhl0Los8fXhDY+k4E2bpSE5i0zGUOBXTKfTDuq9TIh6Bx5wKGSEerHyy2zwm893nbAubyUf+pjvTTOy5BSIzU=;VsMCpS+n/vGXDMD2319GJg=="
 ---

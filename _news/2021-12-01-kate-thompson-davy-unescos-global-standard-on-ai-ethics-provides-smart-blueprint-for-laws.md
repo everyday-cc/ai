@@ -59,22 +59,6 @@ related:
         width: 816
         height: 414
         isCached: true
-  - title: "UNESCO Chief Audrey Azoulay Presents First-ever Global Standard On Ethics Of AI"
-    excerpt: "The Recommendation on AI Ethics lays out common ideals to assist in the development of the legal infrastructure needed to enable its healthy development."
-    publishedDateTime: 2021-11-26T07:45:00Z
-    webUrl: "https://www.republicworld.com/world-news/europe/unesco-chief-audrey-azoulay-presents-first-ever-global-standard-on-ethics-of-ai.html"
-    ampWebUrl: "https://www.republicworld.com/amp/world-news/europe/unesco-chief-audrey-azoulay-presents-first-ever-global-standard-on-ethics-of-ai.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/world-news/europe/unesco-chief-audrey-azoulay-presents-first-ever-global-standard-on-ethics-of-ai.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 70
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/1fiewltd84lwzqqj_1637909944.jpeg"
-        width: 768
-        height: 439
-        isCached: true
   - title: "UNESCO member states adopt the first ever global agreement on the Ethics of Artificial Intelligence"
     excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference.T"
     publishedDateTime: 2021-11-26T22:18:00Z

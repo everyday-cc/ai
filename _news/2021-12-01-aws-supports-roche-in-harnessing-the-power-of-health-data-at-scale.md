@@ -54,13 +54,13 @@ related:
         height: 500
         isCached: true
   - title: "AWS Supports Roche in Harnessing the Power of Health Data at Scale"
-    excerpt: "AWS Supports Roche in Harnessing the Power of Health Data at Scale. Today, Amazon Web Services (AWS), an Amazon.com (News - Alert), Inc. company (NASDAQ: AMZN), announced that the"
-    publishedDateTime: 2021-11-30T06:34:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/30/9500913.htm"
+    excerpt: "Roche uses AWS cloud capabilities to facilitate research collaboration, deliver new diagnostic technologies, and unlock insights from health data."
+    publishedDateTime: 2021-11-30T09:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211129005490/en/AWS-Supports-Roche-in-Harnessing-the-Power-of-Health-Data-at-Scale"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 19
 
 secured: "ynTDU1vnqzQlw7FXhBhyZkk2SFBkOZb9Z82QZbes/62wMajpRGUKEOHob8e0g3h49ZIuIt1rUu5rtr7XLgfOg3ueAyF7Z+AITF7MP8yFUC2UNtXW+Kb0Zc01DVgIG+kW9dDHe/wzedY8tlTUARl+1PxXBRfEx56M1s3uK/O8cbory7W9oOO6ZkVJHdKkq2F8IyYM1++2Mcn2mu6CUtRWxk2IKqjI6alnZ+3oCHaZm1xbYyFTf+69rWS69IdUhEXbY/4h+9gcS4uW7y3du3QromjTR+vG2qLCbLt0mF73jUDcwqeHgCrfivYwjNrt0lrGYrAGYJcjOcoBKgTyLGHXhpxuAa/Z6rlMs4VGU6Wsdxs=;xH8XyGI2yqyHPDVMmAe6cA=="

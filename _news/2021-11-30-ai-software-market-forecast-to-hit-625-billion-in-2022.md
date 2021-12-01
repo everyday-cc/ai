@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62
 webUrl: "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -74,17 +74,6 @@ related:
         width: 990
         height: 550
         isCached: true
-  - title: "Global Artificial Intelligence ai in Drug Discovery market 2021 Analysis & Forecast to 2028 by Key Players, Share, Trend, Segmentation"
-    excerpt: "Nowadays businesses are highly relying on the different segments covered in the market research report which presents better insights to drive the business into right direction Artificial Intelligence ai in Drug Discovery market report presents the company profile product specifications"
-    publishedDateTime: 2021-11-26T07:23:00Z
-    webUrl: "https://www.openpr.com/news/2475652/global-artificial-intelligence-ai-in-drug-discovery"
-    ampWebUrl: "https://www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475652/global-artificial-intelligence-ai-in-drug-discovery"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 20
 
 secured: "Q/6hsXuKE093GOdiB8Vx3D0skC09dGBXfwHnDHHpdxZ5FtVZW7EYD2UHNiQyUIO+L+Y5UZCt0ScUVfntUnbQ7Z5NzX4XGZDed2Ls0r7GV0J99l4qhg0uGMFd5wp8yevl5pUPLxot52qN142Og5izNQ7jmTa9z/ElrRj1wMlfoakpUAOMCbyjcY/UPmZCAE+9u4Ln0AN0l1+B3mC9a7kfdDEhtzdd47qYmdobuViUVaOqo1aFB5owZ4B5aCmm7xnlwF21oiJQQQVU186z1LAf4lMhWBmE7+wOlvQ2kuNZ/tMd3n9CzKqBDA2LJ0NnzqhpXYUV/nOsEwVTEV5FWhR/Ok3r2bDHrvO77Wn3bQuZeGQEVi8J5BrQGslHq579wUx4bGDjjj5mcsTWGe+Dllu9zCQpYN07kNCFM/b9VpMGXCaP3YrHttg5DZnnM37rqVGEMp2akNksz9VU6cL7T2LWahjGjeb05VGmAZlQaAaMWSpugVHNSl0dBXHpnMwpLcvBNq1CRXvHXb9aV2/Nvu4VeA==;06aLQCCqCvAP06XmNOkqSw=="
 ---

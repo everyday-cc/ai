@@ -2,50 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-09-25-baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.md",
-      "title": "Baidu DeepWay Unveils Smart Robot Truck With Advanced Self-driving Technology",
-      "excerpt": "DeepWay Smart Truck backed by Baidu has just been launched and the users are curious to know more about it. Here is all we know about this smart truck. Read",
-      "sourceUrl": null,
-      "webUrl": "https://www.republicworld.com/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html",
-      "originalUrl": "https://www.republicworld.com/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/3pop1htofhvj56ox_1632499179.jpeg",
-          "width": 768,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.republicworld.com/amp/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html",
-      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/auto-news/cars/baidu-deepway-unveils-smart-robot-truck-with-advanced-self-driving-technology.html",
-      "publishedDateTime": "2021-09-24T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-09-24-todays-discover-samsung-deal-saves-you-100-on-a-jet-bot-robot-vacuum.md",
       "title": "Today’s Discover Samsung Deal Saves You $100 On A Jet Bot Robot Vacuum",
       "excerpt": "Today, you can save up $100 on a Samsung Jet Bot robot vacuum, complete with LiDAR. It’s part of Discover Samsung, a weeklong sale that saves you thousands.",
@@ -1363,6 +1319,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-19-uaeu-turns-to-artificial-intelligence-and-robotics-as-part-of-the-fourth-industrial-revolution.md",
+      "title": "UAEU turns to Artificial Intelligence and Robotics as part of the Fourth Industrial Revolution",
+      "excerpt": "The UAEU's Artificial Intelligence and Robotics Laboratory (AIRL) aligns its work to the UAE's strategic vision. Its initial focus is on education and health technologies. Dr Fady Al-Najjar ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102819811/UAEU-turns-to-Artificial-Intelligence-and-Robotics-as-part-of-the-Fourth-Industrial-Revolution",
+      "originalUrl": "https://menafn.com/1102819811/UAEU-turns-to-Artificial-Intelligence-and-Robotics-as-part-of-the-Fourth-Industrial-Revolution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-09/18/M_7a69eimage_story.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-18T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

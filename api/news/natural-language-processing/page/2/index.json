@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-10-ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery.md",
+      "title": "IBM to Add New Natural Language Processing Enhancements to Watson Discovery",
+      "excerpt": "IBM (NYSE: IBM) today announced new natural language processing (NLP) enhancements planned for IBM Watson Discovery. These planned upda",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-1030959202",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-add-new-natural-language-processing-enhancements-to-watson-discovery-1030959202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-google-project-relate-android-app-helps-those-with-speech-impairments.md",
       "title": "Google Project Relate Android app helps those with speech impairments",
       "excerpt": "There are several medical conditions and diseases that can impact a person’s ability to communicate with others through speech. Google is working to make its apps more accessible to people",
@@ -1380,58 +1433,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-the-evolution-of-speech-recognition-technology.md",
-      "title": "The evolution of speech recognition technology",
-      "excerpt": "About the Author Graeme John Cole is a contributor for Rev, creator of the world's most accurate automatic speech recognition engine, Rev.ai. Today, we all carry KITT in our pockets. We sigh when KITT answers the phone at the bank. The personality isn’t ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/the-evolution-of-speech-recognition-technology",
-      "originalUrl": "https://www.techradar.com/sg/news/the-evolution-of-speech-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/bQttsYAKmrwusDNeEaNGnC-1200-80.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/the-evolution-of-speech-recognition-technology",
-      "publishedDateTime": "2021-10-29T17:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

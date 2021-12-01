@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-19-lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia.md",
+      "title": "Lost in translation: Language barrier is hurting commercialisation in Australia",
+      "excerpt": "It's hard to collaborate when industry want to get straight to the point and academics rely on lengthy research papers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
+      "originalUrl": "https://www.zdnet.com/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b6720e60a46b7b4223f6c02fb97515471eb6e217/2018/04/05/ebb87ff9-14b6-4a39-a906-ad4a7a5b31b9/istock-625736338.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lost-in-translation-language-barrier-is-hurting-commercialisation-in-australia/",
+      "publishedDateTime": "2021-10-18T22:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-state-of-ai-report-tracks-transformers-in-critical-infrastructure.md",
       "title": "State of AI Report tracks transformers in critical infrastructure",
       "excerpt": "Critical infrastructure, life sciences and LMMs loom large in the latest State of AI Report from venture capitalists.",
@@ -1283,40 +1335,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-language-imitation-games-and-the-arrival-of-broad-and-shallow-ai.md",
-      "title": "Language Imitation Games and the Arrival of Broad and Shallow AI",
-      "excerpt": "Natural language generation systems in Artificial Intelligence are currently going through a rather fertile phase of imitation themselves—only not limited to a couple of hapless parents, but rather the whole world.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/blogs/blog-cacm/256068-language-imitation-games-and-the-arrival-of-broad-and-shallow-ai/fulltext",
-      "originalUrl": "https://cacm.acm.org/blogs/blog-cacm/256068-language-imitation-games-and-the-arrival-of-broad-and-shallow-ai/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

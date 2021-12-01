@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "AWS targets the energy industry with launch of the AWS Energy Competency Program"
+    excerpt: "Amazon today announced a new program that will formally identify AWS Partners who develop specialized solutions aimed at the energy industry. The new AWS Energy Competency Program, as it’s called, will identify these specialized partners who have already demonstrated the technical expertise"
+    publishedDateTime: 2021-11-30T14:54:00Z
+    webUrl: "https://techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/"
+    ampWebUrl: "https://techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/AWS-Energy-Competency-reInvent-Launch-2.png?w=680"
+        width: 680
+        height: 398
+        isCached: true
   - title: "AWS Launches the AWS Energy Competency Program to Target the Energy Industry"
     excerpt: "Amazon has announced a new program that will officially identify AWS Partners who create specialized solutions geared towards the energy sector. The AWS Energy Competency Program, as it’s called, will identify these specialist partners with demonstrated technical expertise and client success in helping energy producers all over the world develop and deploy AWS-powered solutions utilizing cutting-edge technology while also navigating the shift to a more sustainable energy future."
     publishedDateTime: 2021-11-30T16:20:00Z

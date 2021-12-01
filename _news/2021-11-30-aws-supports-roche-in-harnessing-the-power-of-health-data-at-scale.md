@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AWS Supports Roche in Harnessing the Power of Health Data at Scale"
-excerpt: "AWS Supports Roche in Harnessing the Power of Health Data at Scale. Today, Amazon Web Services (AWS), an Amazon.com (News - Alert), Inc. company (NASDAQ: AMZN), announced that the"
-publishedDateTime: 2021-11-30T06:34:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/30/9500913.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/30/9500913.htm"
+excerpt: "Roche uses AWS cloud capabilities to facilitate research collaboration, deliver new diagnostic technologies, and unlock insights from health data."
+publishedDateTime: 2021-11-30T09:01:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211129005490/en/AWS-Supports-Roche-in-Harnessing-the-Power-of-Health-Data-at-Scale"
+webUrl: "https://www.businesswire.com/news/home/20211129005490/en/AWS-Supports-Roche-in-Harnessing-the-Power-of-Health-Data-at-Scale"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
@@ -62,6 +62,6 @@ related:
         height: 400
         isCached: true
 
-secured: "ctHBMM3fCZhuzgflH2owKYrmfk5ZnqgPKq4kjLXgLqF0fXhm//G34xLEyYRGn7ukZX1kzk6fx9lt2A6DDOowt0tmLWYDHWS/92sII6g2zHSLdZrJ34Iq41Na4MJU7qp7gWEqssqZPdv0XuTKD4oGRnUz9EqIgTo/5SDOfNXoLVL9fRJkGwohm6+8zeI9IjzwFFJ1pYkDw5YMEsvrrBnI5hJ5qzn39O3MHRturvpzbphZXwqxamQO3hzbkHyk524ghkyl+FXT8O/GDU5a3VjRCA0wSx5UAUDjus1DZoxXRpSCk8JQrkVRBPu1IXGg3YrJz8X5aCHovKfFJRGcYJIxg5/nFnT5/pzTGmdt5Xga5To=;3HZLX6+eN+pw8coB67dsQg=="
+secured: "2Ukmy60JofIEVJ6BYoxlJ0I9la9gSjxm68dCMBI/DpuaTpSYc/88WgPXItbeo+QFzU6Bfmpkzr5/Be9mNwYmuIvSIfmW1zl8zjcfTOCvE+bSG2o9xFPxmb47rgTkM1XsC18GgD/4dQTNOsho1W+hG9Tvd4OPUi/Qp/EcyOMfybwXQKPVz5le3FYVwxNOf4mdINWvL2fW+WGOR+nQI9hMzTKHJgXdzN/DJvo96+psYNZDi11C5Kin9hv8hnwzzEe5EJRR4B65h8E40TSrIbfR6qfaiwSqMggQh8Bg+QhZ8d6LXDPfzPo5h2mw/iGzYdmjvaqz5afxVieJBNQUJn+uC7LNw56GZOILbuBEq3PYDYA=;+SIdBisQU3tC5LVlDt1ehw=="
 ---
 
