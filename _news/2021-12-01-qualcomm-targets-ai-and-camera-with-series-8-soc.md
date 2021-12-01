@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2021/11/30/qualcomm-targ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/11/30/qualcomm-targets-ai-and-camera-with-series-8-soc/amp/"
 type: article
 quality: 89
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,136 @@ images:
     height: 786
     isCached: true
 
-secured: "i4A7UjLOgYEHpL08Lnw7CvesqoJ7KzBf+IhVeTTussXiMeD6OPKsJAelPt/i6ztUA3MCVSQ7ObQ5sGVhkaUNEwyI5nHty2RzQn4IsVaVRiTvWf6cV1FHBkmYlpoivGh8hg6VXxUqNJJYKfS4jIZ8J97p1YFLpwx9IVh9i253eZ7xDG8vGuD+2AwdBKhqzhBMbQKi7tt3bEniH/aj1zyqHpgjAHYSE3zOPc8Zll3GpED9343BLQGI3pWAFPAgMwjZljTOFqfW81+RTzmtAydYazql2P0eTwYWn4mXYTQqAk3voKin90TUAhzviAmuvzCpjBHRmL+zrLA2LqUnlpQlKo/k2QYzOVT9hcfgtw5ci9M=;4jHnSnMCQqaqJVk5tjo+FQ=="
+related:
+  - title: "Qualcomm launches Snapdragon 8 Gen 1 mobile platform with AI, camera, security boost"
+    excerpt: "Qualcomm has announced Snapdragon 8 Gen 1 featuring improved camera capabilities, artificial intelligence (AI) applications, and security enhancements.  During the annual Qualcomm Snapdragon Tech Summit,"
+    publishedDateTime: 2021-11-30T23:32:00Z
+    webUrl: "https://www.zdnet.com/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 99
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/06c2754bb5fd41361d2d19fb5758a85123fdf813/2021/11/24/37ec361f-765c-4608-910d-f9b36d8d9acc/screenshot-2021-11-24-at-15-37-15.png?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 783
+        isCached: true
+  - title: "Google, Qualcomm partner on mobile AI, neural networking technologies"
+    excerpt: "The tech giants will collaborate on neural networking to speed up and optimize AI models. KONA, HAWAII: Google Cloud and Qualcomm have revealed a new partnership in the neural networking space. Announced at the annual Qualcomm Snapdragon Tech Summit on Tuesday,"
+    publishedDateTime: 2021-11-30T23:38:00Z
+    webUrl: "https://www.zdnet.com/article/google-qualcomm-partner-on-mobile-ai-technologies/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-qualcomm-partner-on-mobile-ai-technologies/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-qualcomm-partner-on-mobile-ai-technologies/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+  - title: "Qualcomm’s betting on AI to take on Apple and Google’s chips"
+    excerpt: "Apple has been in a league of its own when it comes to developing processors for phones and embedding its own AI-powered experience. But this year, Google has thrown its hat in the ring by debuting it"
+    publishedDateTime: 2021-12-01T03:25:00Z
+    webUrl: "https://thenextweb.com/news/qualcomms-snapdragon-8-gen-1-ai-analysis"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 84
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FSnapdragon-8-Gen-1-Chip-Image-e1638281690475.jpg&signature=257e4c16e7241d1faf4b29cb8bf87f4a"
+        width: 1266
+        height: 633
+        isCached: true
+  - title: "Qualcomm launches Snapdragon 8 Gen 1 chip; will power next-gen Android flagship smartphones"
+    excerpt: "As expected, Qualcomm has today announced its next-generation flagship smartphone processor at the Snapdragon Tech Summit. The new chipset is called Snapdragon 8 Gen 1 and the company has also revealed details about the processor."
+    publishedDateTime: 2021-11-30T23:43:00Z
+    webUrl: "https://www.gizmochina.com/2021/11/30/qualcomm-snapdragon-8-gen-1-announced/"
+    ampWebUrl: "https://www.gizmochina.com/2021/11/30/qualcomm-snapdragon-8-gen-1-announced/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/30/qualcomm-snapdragon-8-gen-1-announced/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 79
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2021/11/Snapdragon-8-Gen-1-Mobile-Platform-Featured.jpeg"
+        width: 2048
+        height: 1152
+        isCached: true
+  - title: "Snapdragon 8 Gen 1 flagship chip launched with better 5G connectivity, camera support, AI"
+    excerpt: "The new flagship chipset gets added benefits in terms of 5G connectivity, AI, gaming, camera, and Wi-Fi and Bluetooth"
+    publishedDateTime: 2021-12-01T04:50:00Z
+    webUrl: "https://www.bgr.in/news/snapdragon-8-gen-1-chipset-launched-with-better-5g-connectivity-camera-support-ai-and-more-1024805/"
+    ampWebUrl: "https://www.bgr.in/news/snapdragon-8-gen-1-chipset-launched-with-better-5g-connectivity-camera-support-ai-and-more-1024805/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/snapdragon-8-gen-1-chipset-launched-with-better-5g-connectivity-camera-support-ai-and-more-1024805/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 65
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/11/Qualcomm-Snapdragon-8-Gen-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Qualcomm Snapdragon 8 Gen 1 chip will power flagship phones from OnePlus and Xiaomi"
+    excerpt: "The Qualcomm Snapdragon 8 Gen 1 will power most top-end Android smartphones coming later this year and early next year."
+    publishedDateTime: 2021-12-01T01:44:00Z
+    webUrl: "https://indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/"
+    ampWebUrl: "https://indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 53
+    images:
+      - url: "https://images.indianexpress.com/2021/11/Snapdragon.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "Qualcomm Snapdragon 8 Gen 1 4nm Mobile Platform official: 30% faster GPU, 8K HDR video capture, 10Gbps 5G modem"
+    excerpt: "Qualcomm just made the Snapdragon 8 Gen 1, the company’s latest flagship Mobile Platform official at the Qualcomm Snapdragon Tech Summit 2021 event, as it had announced. It has world’s first 10 Gigabit 5G Snapdragon X65 5G Modem-RF System,"
+    publishedDateTime: 2021-11-30T18:02:00Z
+    webUrl: "https://www.fonearena.com/blog/352777/qualcomm-snapdragon-8-gen-1-features.html"
+    ampWebUrl: "https://www.fonearena.com/blog/352777/qualcomm-snapdragon-8-gen-1-features.html/amp"
+    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/352777/qualcomm-snapdragon-8-gen-1-features.html/amp"
+    type: article
+    provider:
+      name: FoneArena
+      domain: fonearena.com
+    quality: 39
+    images:
+      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Qualcomm Snapdragon 8 live blog — all the big news as it happens"
+    excerpt: "We just learned a little bit more about the Snapdragon 8 Gen 1, Qualcomm's new system-on-chip for mobile phones. The chipset was introduced during a keynote launching the chip maker's annual Snapdragon Tech Summit in Hawaii."
+    publishedDateTime: 2021-11-30T19:28:00Z
+    webUrl: "https://www.tomsguide.com/news/live/qualcomm-snapdragon-announcement-all-the-big-news-as-it-happens"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 24
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/WDKRVyAVxTwmwvxBSUpMf6-1200-80.jpeg"
+        width: 1200
+        height: 612
+        isCached: true
+  - title: "JiDU, Baidu and Qualcomm to build China’s first production vehicle powered by Gen4 Snapdragon Automotive Cockpit Platform"
+    excerpt: "Baidu, Inc., JiDU Automotive and Qualcomm Technologies, Inc. announced that JiDU’s first production vehicle will feature an intelligent digital cockpit system assisted by Baidu and Qualcomm Technologies."
+    publishedDateTime: 2021-11-30T08:06:00Z
+    webUrl: "https://www.greencarcongress.com/2021/11/20211130-jidu.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 0
+
+secured: "3HZNuBSvPlaifjWj5hlgkcqBkVy6AYog1gpZ/fAVqisefgtXM8Y7ZSj3O9RuRuehGU8UhyHX8T9OpR75zwO1RBxADYS1squ56CKAfyuiodRiwNFVKzQpo0xAvxJnMgQ3eZPMNbpUJFUMp7AEoD1p3FHGAcb+iHgvRMh0nfr60aRHhyG1XIpaqRhxx52XN5qHcFqjS/CIFmTzkbmWv104nM/qIufXyS+N4+ogfbvsGYi6t+6KrANe53ZoDTkDpEpSgCS1HKChIRF9ZElbDCN4IHCUVqCGfMPRmfsANRvkOyP2VfFpv0fwignUh+2pOoy6uDY3yucp3lPv6bA2dYBKSv1LuMOLMKulzCsO1sOgOr8ZSqAwWPLRd1AzdezNg2ifSD92IiBItLoMhZ1f0UYvuAguQpkTAxM4ZVWvi0i4wpX1joLX2l6Phr9wIgWhv2EoLmd/zTvrC8QCwJ35JD1lWnFjqOyPYUT580T2p7KD2i8sxkPfwo0ODt7Es7IDGv5mAl3xHPiHvhqhkn/P1BoMQg==;CYakvGdPWDj2YhVIqIWKoQ=="
 ---
 

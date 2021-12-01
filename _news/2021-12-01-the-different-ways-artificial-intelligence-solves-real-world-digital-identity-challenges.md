@@ -1,18 +1,18 @@
 ---
 category: news
 title: "The Different Ways Artificial Intelligence Solves Real-World Digital Identity Challenges"
-excerpt: "Forward-looking businesses are using artificial intelligence to solve real-world digital identity challenges.  Javelin's 2020 Identity Fraud Survey revealed the total cost of identity fraud in 2019 to be about $16."
-publishedDateTime: 2021-11-30T23:41:00Z
-originalUrl: "https://www.mysanantonio.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
-webUrl: "https://www.mysanantonio.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
+excerpt: "Forward-looking businesses are using artificial intelligence to solve real-world digital identity challenges. Javelin's 2020 Identity Fraud Survey revealed the total cost of identity fraud in 2019 to be about $16."
+publishedDateTime: 2021-11-30T23:27:00Z
+originalUrl: "https://www.timesunion.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
+webUrl: "https://www.timesunion.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 1333
     isCached: true
 
-secured: "Zu6mh5bZKyHceZh0MUBe2PX65EIOJJs5xxhqsKd24wWMcFQHhj/ci/1xXFhuy6PW3okPZXgQbrlQWq/YE2raxnRkz+9eby6EgHRmuNr2X+OEbR36IvTtBlPtsanMK44OrrFZfjM0wQC+8nkH7dcrMFrBvoRCvKOWkkG14VrokAQjcaiYiP8/erUh9JjpjWDLrfsPSjcAXE5MGb8aKkPJQbnOS/uLkIJs2imSErSyKGopYqJq01laVLFXa7Sab/vkQjxUF0p/h1mjhvUWWcxkO+lYx65OMZvmQjNP/wMTmW9XCotNnL/jQcStn4NdRBmLjMqisSaZf7gpQSNYDuuGQg8rnopum+/4sPoj9ktbn3/ho5FRbikjxOxRjwqB9PCwjfKBwRiGpYkFQOX48aT02aHKxxM+PW4jfTdbSEA4UppxMy2rlPR+yEQmdl59ISiMS6SbWTOFyj5YU5i4vdIIJ/yWA+gaZSJgKThaNI0wcI0BqNNr7ObfGqGpRstgJeG9W9i7poVxiQaDw/k+8O3d6A==;skNLaLhbFuJBlNH2o575vw=="
+secured: "mx1qHY57DUc6dzqjo6yR+pR2q0rKV6GOsDVQYIa7YFEsXUq1IurkGQ+n78hzQ4srk8VCXAMJY4cJUZm4nw7fLFbFktCwgYt7/9Xvx/+ga1QZmRbRx/ZOpPWo6IaXnn3FM6GRlL7rQxWBc2I2BYveoQhmHcBwWsP8qPeQQl5mElrWQURGJPIU+CZOYbrfR4YNY3p4LdF1tr3UDEtpFK9V7ri/SdoUltLNx/ieNe6IfMeBknhhuotgiMBFFTYT52i1XDrZmfHTPMK5RIWjZwjg9pJztSCZ5IkvjqTu96WZZTJKZrs8YSYyzME72HNrVRT2z1PKPsiG7ArjfZ80C+V8AYikGxyAUR7JQlsddObvVAA=;JHioXVAaVaG0vAjtgNLCYA=="
 ---
 

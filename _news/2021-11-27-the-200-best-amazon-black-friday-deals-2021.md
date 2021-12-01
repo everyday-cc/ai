@@ -78,22 +78,6 @@ related:
         height: 1280
         isCached: true
   - title: "The best Black Friday deals on robot vacuums: Roomba, Shark, Samsung and more"
-    excerpt: "The most advanced robot vacuum from Shark, the AI Self Empty XL features a bagless base that holds ... It even pairs up with the Bissell app to start and schedule cleanings when on the go. Easily portable, thanks to a weight of just over three pounds ..."
-    publishedDateTime: 2021-11-26T12:49:00Z
-    webUrl: "https://www.cbsnews.com/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 56
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2019/11/12/a329680b-cf5e-4576-a677-a9d7634d7727/thumbnail/1200x630/9e676bb8124ab66fd8fa2effae81ca44/robot-vacuum-gettyimages-1058885458south-agency-2000x1333.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The best Black Friday deals on robot vacuums: Roomba, Shark, Samsung and more"
     excerpt: "A robot vacuum, or robot vacuum with a mopping feature, can be a game changer for your chores list, especially around the holidays. Luckily, Black Friday is here, and there are plenty of deals on household gadgets to take advantage of."
     publishedDateTime: 2021-11-26T19:38:00Z
     webUrl: "https://www.cbsnews.com/essentials/robot-vacuums-black-friday-deals-roomba-shark-samsung-2021-11-26/"

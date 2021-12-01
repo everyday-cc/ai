@@ -20,6 +20,20 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Danger Moment for Self-Driving Industry –Consumers Don’t Know"
+    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
+    publishedDateTime: 2021-12-01T00:38:00Z
+    webUrl: "https://www.autoconnectedcar.com/2021/11/danger-moment-for-self-driving-industry-consumers-dont-know/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 24
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews.png"
+        width: 640
+        height: 300
+        isCached: true
   - title: "J.D. Power Study on Fully Automated Self-Driving Vehicles: Consumers Don't Know What They Don't Know"
     excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
     publishedDateTime: 2021-11-30T13:12:00Z

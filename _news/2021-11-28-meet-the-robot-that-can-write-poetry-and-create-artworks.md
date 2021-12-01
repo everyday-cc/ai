@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/11/27/tech/ai-da-robot-intl-scli-gbr/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/11/27/tech/ai-da-robot-intl-scli-gbr/index.html"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists create living robots that can reproduce on their own"
+    excerpt: "In 2020, scientists unveiled the creation of extremely small robots (less than a milimeter wide) made from stem cells of the African clawed frog. Called xenobots, these tiny autonomous creatures were designed using artificial intelligence to resemble Pacman-like shapes,"
+    publishedDateTime: 2021-12-01T04:41:00Z
+    webUrl: "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own"
+    ampWebUrl: "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/xenobots-reproduce-header_dhke.620.png"
+        width: 620
+        height: 310
+        isCached: true
   - title: "Meet the robot that can write poetry and create artworks"
     excerpt: "When people think of artificial intelligence, the images that often come to mind are of the sinister robots that populate the worlds of"
     publishedDateTime: 2021-11-29T00:54:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/11/scaleout-software-azure-digital-twins-iot-internet-of-things.jpg"
         width: 1800
         height: 1200
+        isCached: true
+  - title: "Microsoft Open Sources This “Mixture of Experts” Models Library"
+    excerpt: "Tutel is an implementation of the mixture-of-experts technique for large-scale DNN model training. a subset of large-scale AI models."
+    publishedDateTime: 2021-12-01T04:32:00Z
+    webUrl: "https://analyticsindiamag.com/tutel-mixture-of-experts-technique/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Microsoft-Open-Sources-This-Mixture-of-Experts-Models-Library.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "eXyOT7JUrcOuxCo2b0crRZ/mGIRdRxqCVJ0HQzucRBYPTMEYw2E/zPn0ulQfkZnVADiNvAIGLLc+G9/ZrM4Qv7w5CacGQ+0mSp5jX7BQYz1e3zuyeGri1XoNnZtjR1M6fWREgsIqJQB7eAN88lO2+3L3DOFjF8AqybE2u4QWOeURABJMReaFMxguHsxe9MeiKwvoy9mCBGLEMppYAUlcTK2tvUSe5C+916YLTRBcK5KaO700wG+izD0YTcr2p7ahT09PjisgMQjgA4bjevYczKnu6e5AsqtkxkBRNJsSdsqY0GjAjfwfjj53K2Mcfm8ug8titkD5te5ysmqJBaQHXerXgkW4NG0w5505TNpZOmgtd1KvPJNqtae+1CBP2QNuI7M5e5y4UJ7da8hAVOo4IxZE8XQykVmnh79wsLQ2MJiV4+5Bz2g+7MgfqaFun3EYdHmflEnz1JpOqijKM/6KCw5/PPclRcfHsHuzuwKgOhu+MbJbetOrjYGWDLSMUopgRYVmM0KW0s19h1MBiVZuoA==;8gu+eGoktxrlOOto32W+Fg=="

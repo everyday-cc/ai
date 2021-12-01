@@ -35,6 +35,22 @@ related:
         width: 679
         height: 376
         isCached: true
+  - title: "AWS Announces AWS Mainframe Modernization"
+    excerpt: "AWS Mainframe Modernization makes it faster and easier for customers to migrate mainframe and legacy workloads to the cloud and benefit from the superior agility, elasticity,"
+    publishedDateTime: 2021-11-30T17:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24366327/aws-announces-aws-mainframe-modernization"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24366327"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24366327"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "No-Code Machine Learning Services for AWS"
     excerpt: "Amazon has today announced Amazon SageMaker Canvas, a new machine learning service. The target audience here isn’t high-tech data scientists and engineers, but rather anyone working in a company with access to IT resources."
     publishedDateTime: 2021-11-30T20:20:00Z
@@ -48,20 +64,6 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/AWS-gets-a-no-code-ML-service.png"
         width: 1000
         height: 600
-        isCached: true
-  - title: "AWS Announces AWS Mainframe Modernization"
-    excerpt: "AWS Mainframe Modernization makes it faster and easier for customers to migrate mainframe and legacy workloads to the cloud and benefit from the superior agility, elasticity, and cost savings of AWSBanco Inter,"
-    publishedDateTime: 2021-11-30T17:35:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=579884"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 54
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "rQllX0dW1ZMnKeORKoBqZVwZ1a9cQUIbmtSqQFRalnw/41PSFK6woAW7CaPUeV+2Mv8pIsVnArCI6Yaeou8zIuubW3TElE8/pOUifuedZIzBxK31k1uKaCySPLVdQFXyC6OHMWPVCVphWwFd17893qq6Cx31fAEqm/or+Fpq75Cl0R66sVWPxzeDgWqW4TO8SjvZ5+gEjYtA297t0L1iSmUQKrwno+aMtDY3dvFohN3DkXFmO/MiW6dHPPmBJ0DHyrd2QxMu5aZjAZdqQCVEashJn+qxjvnknbagvz3Zbzlyh+Dh+/4QzLEGYZePqjDGHJrVlwg+g3P0Xr4M+yemuhzUJGtrHC7FrEoO8/wbKpQ=;I5ZLOsmQ3GG5amv5FJKngg=="

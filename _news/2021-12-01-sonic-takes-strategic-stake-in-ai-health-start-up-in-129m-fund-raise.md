@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/companies/healthcare-and-fitness/sonic-takes-s
 webUrl: "https://www.afr.com/companies/healthcare-and-fitness/sonic-takes-strategic-stake-in-ai-health-start-up-in-129m-fund-raise-20211129-p59d6t"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Healthcare startup Harrison.ai lands $129 million Series B"
-    excerpt: "Artificial intelligence healthcare startup Harrison.ai has raised US$97 million (A$129 million) in a series B to ramp up its global ambitions. Existing backer Horizons Ventures, the VC firm of Hong Kong billionaire Li Ka-shing,"
-    publishedDateTime: 2021-11-30T21:00:00Z
-    webUrl: "https://www.startupdaily.net/2021/12/healthcare-startup-harrison-ai-lands-129-million-series-b/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 54
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2019/12/L-R-Dr-Aengus-Tran-Dimitry-Tran-e1638274365682.jpg"
-        width: 770
-        height: 513
-        isCached: true
 
 secured: "Jt4zvDRjNjYceBOXwOMJGTFepa9ymweTNOcRVIPFztZoYSjX5uzoGMN8oNt6t4K3J7294w6xM5b0VDjBHdu0+HgoBOe7ufaGlr/ghDDA947wGUbglV3DGER+GNdLLmdTeoeNmUSs6/iJ/T9VHDJS0oka5r1AjrC1uxUc8mQLyqCc76nHwksGg6xF9E0LZegsd5piCHGQ/QPdY7NzenUwGwDMU9n+mcUjc44uxNPyq5x1Xhj0EnNFjJS2WU2Pf4PG0toUe07FkkXxJ2nA4xi8buyNjuQ/BJDZXXCoo/ld3xhatTALBlQ2rQ5O2YKAfc+STHrR+VaSx+Qsj44TPgy+PkFnaJUe2oAB29s6ipZ+TxiJnRD0lodKYH4qbL6UNiu3fSAsopVnFNsx6NJuw4MNb2KrwRnfr4wEPSCFkeofYTJ8QPhaOFMxMExqHzt9e/9sQnjPMbywBUACW20AiMg5/pDdxwfzCx1Lt3fItxoemcLS2TWFEfYboq2ZMjEz6iGKdhkGIzmXhtQjmh76oEJukQ==;Niv7LcVPKxBwyBC203SRFg=="
 ---

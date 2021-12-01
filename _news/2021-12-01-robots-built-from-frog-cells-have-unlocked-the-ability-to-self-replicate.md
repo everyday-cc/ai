@@ -43,6 +43,36 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Xenobots, 'living robots', are now able to reproduce"
+    excerpt: "American scientists who created the Xenobots, the first living robots, from frog embryo cells reported Monday that they can now reproduce. They explained the process they observed, the robots are able to find individual cells,"
+    publishedDateTime: 2021-11-30T18:26:00Z
+    webUrl: "https://www.entrepreneur.com/article/399918"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1638295831-xeno3-090409.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "'Never been observed': In a first, scientists create self-replicating living robots | Details"
+    excerpt: "The scientists created Xenobots by scraping living stem cells from frog embryos And with the help of artificial intelligence the researchers then tested billions of body shapes to make the Xenobots mo"
+    publishedDateTime: 2021-11-30T10:38:00Z
+    webUrl: "https://english.jagran.com/trending/never-been-observed-in-a-first-scientists-create-selfreplicating-living-robots-details-10035690"
+    ampWebUrl: "https://english.jagran.com/lite/trending/never-been-observed-in-a-first-scientists-create-selfreplicating-living-robots-details-10035690"
+    cdnAmpWebUrl: "https://english-jagran-com.cdn.ampproject.org/c/s/english.jagran.com/lite/trending/never-been-observed-in-a-first-scientists-create-selfreplicating-living-robots-details-10035690"
+    type: article
+    provider:
+      name: Jagran
+      domain: jagran.com
+    quality: 63
+    images:
+      - url: "https://imgeng.jagran.com/images/2021/nov/Robot1638268509637.jpg"
+        width: 650
+        height: 540
+        isCached: true
   - title: "Living robots made from frog cells can replicate themselves in a dish"
     excerpt: "Swarms of tiny \"xenobots\" can self-replicate in the lab by pushing loose cells together – the first time this form of reproduction has been seen in multicellular organisms"
     publishedDateTime: 2021-11-29T20:00:00Z
@@ -58,6 +88,36 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/11/29124505/PRI_212541902.jpg?width=1200&enable=upscale"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Scientists made tiny xenobots out of frog cells. Now they say those robots can reproduce."
+    excerpt: "Using artificial intelligence, the xenobots were able to replicate themselves using a process not seen in humans or any other animals."
+    publishedDateTime: 2021-11-30T15:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/nation/2021/11/30/living-robots-reproduce-artificial-intelligence/8801610002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/8801610002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8801610002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 50
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/11/21/USATODAY/usatsports/247WallSt.com-247WS-996564-Xenobots.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Scientists build self-replicating living robots"
+    excerpt: "US researchers have discovered a new form of biological reproduction and have created what they say are the world’s first living robots that can self-replicate."
+    publishedDateTime: 2021-11-30T12:49:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/11/scientists-build-self-replicating-living-robots/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/17241/xenobot-reproducing.jpg?crop=0,0.26833333333333337,0,0.2394791666666666&cropmode=percentage&width=1200&height=450&rnd=132827439180000000"
+        width: 1200
+        height: 450
         isCached: true
 
 secured: "x9kbbNqaPH6sqgVTk76RXDuinraHMCVmDU8e1dpyDGKVIFN5su2J28em/HQETPFSJ8RqDah3/qjPyByar3xJ1lw6WMdzzSHGCUgdYY9YW4KxvUzmhxDsVu2m3/MJjdCgUv/qHB6TQy7B1W+aE0etg2AR9BJ7oLIv/+K4TFBsz6HxaFAhFPlXyJjuVr1OIttJ3O7xl3VcmqqZ81yB064mS4nLLc8sj/iAIR2YmBDsyLWa1D6C+U9RUp3M38utmV+rZeIgxLVyKlWGVcES9JISeYBw3/GSauhx8oGRe+vcJCKSIidUg+P8HqUlMWk1kWgUKJwEEZBtKzwzUI1JTwJgHvEgdKHor8k8rJ2TS+XaHe3P48oEBANaSM25cKVpE8IhTt7l9oDlbv9zPSVscUR5npVQ32Yp5z6ryKEyzsh8wKlA5sR36Qq0WtM7EuozAS5+aOZ+W7Br0dVcioEIUVxFHrZz3ibJGx4w7u99kwInvYGwSvXLKa7cF9OgmHZXh6qAf1bXAeQ6SEeFxwMXti/rdA==;Lc5qNS3yd8Y9zXZGC6us2w=="

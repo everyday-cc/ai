@@ -7,7 +7,7 @@ originalUrl: "https://www.statewatch.org/news/2021/november/eu-artificial-intell
 webUrl: "https://www.statewatch.org/news/2021/november/eu-artificial-intelligence-act-must-put-human-rights-first/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Ai-Da, the world’s first AI humanoid artist, has now made history as a poet"
-    excerpt: "Ai-Da, the humanoid AI artist who made history in 2019, as the first ever robot who can draw without any human input, is now an AI poet. Her first performance? A recital at the University of Oxford’s Ashmolean Museum,"
-    publishedDateTime: 2021-11-28T15:38:00Z
-    webUrl: "https://www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante"
-    ampWebUrl: "https://www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante?amp=1"
-    cdnAmpWebUrl: "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante?amp=1"
-    type: article
-    provider:
-      name: Dazed
-      domain: dazeddigital.com
-    quality: 57
-    images:
-      - url: "https://dazedimg-dazedgroup.netdna-ssl.com/959/0-0-959-639/azure/dazed-prod/1310/7/1317114.jpg"
-        width: 959
-        height: 639
-        isCached: true
 
 secured: "sYfJ7rgqn4S4ot6VJ0e6bKksxoNzqb5pQSozNRbBIMv5bOj95aNopS5B7V3HgTCSrhw0fBE/07e4A87OSyAazotBnOzyDTNZxnNuwWPJ+EeTdl2Sq+dGOPy4PAZv0JkTxfpoqWY4hkNFMVzcJJqvwPU9pAx6KbkGZNyazv9M+y1us8MPCxItnA21zUEturkVu1bfFZtgUhqCZ9l+w/GXRe+Mz2llyuw3sAxyEAyGmeV0cMl3qV4dv6PUil0geOZDFFPkIRoxd3qFblol1Tt+jRL/Qa55GzdYPxPXwswq+wgSbVvj2SJG25X+cXh+ZeKsGzDwAQtQTXi9/kIf60Llq8c/7LHcbYu7hlzMYD/JTc8=;6o05qWOjom21JMosI2jC4g=="
 ---

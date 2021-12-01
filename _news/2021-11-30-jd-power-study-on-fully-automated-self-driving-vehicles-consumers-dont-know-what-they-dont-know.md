@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-jd-power-study-fully-automated-sel
 webUrl: "https://www.tmcnet.com/usubmit/-jd-power-study-fully-automated-self-driving-vehicles-/2021/11/30/9501254.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Danger Moment for Self-Driving Industry –Consumers Don’t Know"
+    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
+    publishedDateTime: 2021-12-01T00:38:00Z
+    webUrl: "https://www.autoconnectedcar.com/2021/11/danger-moment-for-self-driving-industry-consumers-dont-know/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 24
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews.png"
+        width: 640
+        height: 300
+        isCached: true
   - title: "Government of Canada backs emerging leader in silicon chip photonics that produces navigation sensors for self-driving vehicles"
     excerpt: "Investment supports OSCP, a growing Canadian cleantech company, and will help advance the safety and accuracy of autonomous vehicles and drones. MONTRÉAL, Nov. 30, 2021 /CNW/ - C"
     publishedDateTime: 2021-11-30T20:09:00Z

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "AWS Announces AWS Mainframe Modernization"
-excerpt: "AWS Mainframe Modernization makes it faster and easier for customers to migrate mainframe and legacy workloads to the cloud and benefit from the superior agility, elasticity, and cost savings of AWSBanco Inter,"
+excerpt: "AWS Mainframe Modernization makes it faster and easier for customers to migrate mainframe and legacy workloads to the cloud and benefit from the superior agility, elasticity,"
 publishedDateTime: 2021-11-30T17:35:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=579884"
-webUrl: "https://us.acrofan.com/detail.php?number=579884"
+originalUrl: "https://www.benzinga.com/pressreleases/21/11/b24366327/aws-announces-aws-mainframe-modernization"
+webUrl: "https://www.benzinga.com/pressreleases/21/11/b24366327/aws-announces-aws-mainframe-modernization"
+ampWebUrl: "https://www.benzinga.com/amp/content/24366327"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24366327"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -65,6 +67,6 @@ related:
       domain: businesswire.com
     quality: 19
 
-secured: "l61o+s/GntKQxmeB6F39/WcmLPSKhekzgWB6VRV0oqkL2qdia13oExIsmd6FH+zlCO2Jvaf4SLKVND9UJTST8IDJXqG+wCZL7+DxJ9XYBSqJfp9JK7pgAy9MCt7zw3lW3hhdsUmbY89Z50Ni7CdxnmYmWj0nzwUNPQw9LFAJaU+PgFWUuU+WGZgnkJqZDtVN/gaCdPqBYHpdMAxuu2AIIIhPW09G1jvvYKIXnXbT/CdXHon1EcqJq66XVYgo5Jkn4fDXCL/4ZzVXmGaLm3KcdSs96sHRMtvQeXmYidHNvlWq1LukrcbxrRyToxvl4/tO6nCQKJ/Hob5hWQbA2OuD5pua7PTDMfSXKgTboKyvckA=;CdbmjW3r8Gxmd/Xrukyu6w=="
+secured: "0vDwzYfODojwD5o8bRw3kb0lcNMDvq7Z2bseqDmwNtXcr37EMhifoaVKlgkL28TTuy3waKjUJ2DS63pLIH8t3F4bfagntZZMWBy4kAcjup98kIkUW+5hm7MxebLh/cz0tFLOe2sWBXLlTFZyBg2vYIocZ3hp2jTSSf4p8unj+R3hIWcl8vCsP71hR7VLkmdc0QPxSNISQNJ25VFnsWgVhdkXuxFw2Q5NdXtJV/y/q1lK3XwY7UFjSQr0atTsRTrkGo+wHlU9Xqm1BUFo0FWDOWjY5LAtX90uAJo/Vhemps2Wm01qwJcw0jJ33FWziA5yFKs3sa4HOaLHY1SgpKPOi1IfeIKkRRU4mPrPmPsA5BU=;Z/Dl4/643BvZboJ/IOjwRw=="
 ---
 

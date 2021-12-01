@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/does-right-to-bear-arms-cover-ai-guns-
 webUrl: "https://thenextweb.com/news/does-right-to-bear-arms-cover-ai-guns-and-killer-robots"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Will The Great Resignation Lead to a Rise of the Robots?"
-    excerpt: "Production will gain scalability even as production lead times decline. This trend will shift competition toward capital-expenditure investments in automation technology and toward the social, emotional,"
-    publishedDateTime: 2021-11-26T11:51:00Z
-    webUrl: "https://www.nasdaq.com/articles/will-the-great-resignation-lead-to-a-rise-of-the-robots"
-    ampWebUrl: "https://www.nasdaq.com/articles/will-the-great-resignation-lead-to-a-rise-of-the-robots?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-the-great-resignation-lead-to-a-rise-of-the-robots?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
 
 secured: "MtY5iZmJbOIavy5ErzJwi1FVP7jugsvKrgANZ7D8re/8cr99r6oj+fa5Nu1Bk/zTh6AAZYgjqLbJ8zjFF+TWjBi74+y+mcucL43xcoTat00S/vzmnueT5tIfiwdrSOWlD63OszcOsW0mGL1v449BMmCldaNoFe2NpmQ+tfPfbvyn8UBPNldI9WT8iaRzjc1oBVsBYFeM4vM3c/hVZbjFZOu4Zenbvu8bWvCavVBzLAxgcs110kpaORh+9M6ottI361aSP3WjSawdsGVLM2E1hCCwJxpuOueVvy/JKVQuusdfzK5Q2uGr8dyak6qS4090iSB9RX3ribd2XF0XW9FR2wl59IZGALLlws9hzCsasWYB9ir+RVCBQqeKOf8cF0WNfVPmQEIRseoZP+SJ//6AowM4DxeUth1GiR5deuQHKzPy/fzIbf3FoIOsHzDsuZSEqy04bYoTTPygKVeBuDGZQ0jJGivuk9UVQfvO0TFF63rnlfohwV8TNvLKMgrtG2Ja7jXYlC8RziiTijrKyvbNFw==;rYJLJNd26StEXh0+iOlgOw=="
 ---

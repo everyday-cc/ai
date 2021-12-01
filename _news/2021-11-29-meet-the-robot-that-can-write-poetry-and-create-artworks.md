@@ -35,6 +35,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Scientists create living robots that can reproduce on their own"
+    excerpt: "In 2020, scientists unveiled the creation of extremely small robots (less than a milimeter wide) made from stem cells of the African clawed frog. Called xenobots, these tiny autonomous creatures were designed using artificial intelligence to resemble Pacman-like shapes,"
+    publishedDateTime: 2021-12-01T04:41:00Z
+    webUrl: "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own"
+    ampWebUrl: "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/xenobots-reproduce-header_dhke.620.png"
+        width: 620
+        height: 310
+        isCached: true
 
 secured: "ornkNdacymqczp297qM9dwh4AKiqhuxwgoE+BZGyg63RiWvsHXdmFGRfNs3Bc7pCLupdSIdpRiL0v8nkZnjsta4PHeYl8jYmBWa7YWazeAhMkWSLWGKDJeTFsYo051i7caWNeytok0/Mk6U8m25whpKNTBZMwiVtfZhXTTSSI/zoOhWuDJFC+lHL92Me9U/ccK+cwDdOfWYIP/90GPOKmJ9CovSO8oIlE94dtrTWTvNT1RP4M3H46Nl9lj9p71ctXL9d7M61AynuZDAZuppvuULBd9j4QreFuKe39UWGjc6kvH3l499lvWcdBmnvVtmusHOhlAUpmTkocc0dHbyVum7CpeZda9bgyJUrCzP/jZ4SGxMlKwUFrkX4WTK/foZHb5Em9TLLKvL4ww6BUDHL+vV0fq+PslhXg+7p6svU0nhL5n6Cz6SkUNPl6JNNTeY5VQ4mFcKSCclqaTBJxyenkOyzx8Fr0nkoiNn6HsMxWdvn1sWp4kBAMXVMNNQVkb0/pnBWdWQ6M21nRUwHV34c3Q==;GfKYZMjuDB4v1lKP45oI8w=="
 ---

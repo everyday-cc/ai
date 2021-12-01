@@ -25,45 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu’s Robotaxi Service Approved For Commercial Deployment in Beijing – Report"
-    excerpt: "Baidu (BIDU) and self-driving startup Pony.ai can proceed and launch paid driverless robotaxi services in Beijing. According to a report published by"
-    publishedDateTime: 2021-11-26T11:23:00Z
-    webUrl: "https://www.smarteranalyst.com/yahoo/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report/"
-    ampWebUrl: "https://www.smarteranalyst.com/yahoo/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report/amp/"
+  - title: "Seoul launches commercial self-driving shuttle service"
+    excerpt: "South Korea's capital city unveiled a commercial driverless car service Monday, the first step in an ambitious plan to bring autonomous vehicles into everyday life over the next five years."
+    publishedDateTime: 2021-11-29T15:28:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2021/11/29/Seoul-autonomous-vehicles-self-driving-cars-commercial-service/3041638200273/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/11/29/Seoul-autonomous-vehicles-self-driving-cars-commercial-service/3041638200273/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/11/29/Seoul-autonomous-vehicles-self-driving-cars-commercial-service/3041638200273/"
     type: article
     provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 55
+      name: UPI.com
+      domain: upi.com
+    quality: 44
     images:
-      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/11/BIDU-1-750x406-1.jpg"
-        width: 750
-        height: 406
-        isCached: true
-  - title: "China's Baidu Granted a Permit to Collect Fares From Passengers Using its ‘Apollo Go' Robotaxi Service on Public Roads in Beijing"
-    excerpt: "China’s Baidu Inc announced that it was granted a service permit for Beijing's newly-launched zone for autonomous driving commercial services, which allows the company to charge for rides in its fully-autonomous ride-hailing vehicles."
-    publishedDateTime: 2021-11-26T18:30:00Z
-    webUrl: "https://www.futurecar.com/5022/China’s-Baidu-Granted-a-Permit-to-Collect-Fares-From-Passengers-Using-its-‘Apollo-Go’--Robotaxi-Service-on-Public-Roads-in-Beijing"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 10
-    images:
-      - url: "https://img.futurecar.com/202111/26/l_61a13c362aca4.jpeg"
+      - url: "https://cdnph.upi.com/sv/ph/og/i/3041638200273/2021/1/16382007321530/v1.5/Seoul-launches-commercial-self-driving-shuttle-service.jpg"
         width: 800
-        height: 534
+        height: 533
         isCached: true
-  - title: "China's Baidu Granted a Permit to Collect Fares From Passengers Using its Fully-Autonomous ‘Apollo Go' Robotaxi Service in Beijing"
-    excerpt: "China’s Baidu Inc announced that it was granted a service permit for Beijing's newly-launched zone for autonomous driving commercial services, which allows the company to charge for rides in its fully-autonomous ride-hailing vehicles."
-    publishedDateTime: 2021-11-26T18:30:00Z
-    webUrl: "https://www.futurecar.com/5022/China’s-Baidu-Granted-a-Permit-to-Collect-Fares-From-Passengers-Using-its-Fully-Autonomous-‘Apollo-Go’-Robotaxi-Service-in-Beijing"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 0
 
 secured: "qJKlSlnI8eZilgCtvxs5NXv9MmRfjWbuiFOLTRMwJbMaGjFop7U0sCvPqgHxgVJzZpYB47anT85pgJg+6ewAxxpsfbSNA4XmL5DtjQ3Bl+Z7Q+x4kZUcImDY3kAO+tbKtUG35fB+raYAGRLOHWAewGngUVxmkfNbOZQguvRx58rj2M/CrP1POvgRT94fS2hMJ+V7Qhhosb4d46xXy6wN0xLp9o6EC+LGGbKQDayKozLGR7VKGJtlljja/CcfxqnjiX9m7QptDP+UU2dFEXsip+aM7AgJcBgCdexcH1R6ZeAgXwnNLKgyl2yvJ8WNRBo2yXWJgTHfMAnlhldG6z1MVs/RlmuVCHSgUkqwhgnUrjo=;OcUc6qBY7dc7aDIl/RIP0g=="
 ---

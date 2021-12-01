@@ -1208,10 +1208,10 @@
     {
       "path": "_news/2021-11-11-ai-and-machine-learning-in-financial-services.md",
       "title": "AI and machine learning in financial services",
-      "excerpt": "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes.",
+      "excerpt": "AI and machine learning in financial services While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption ...",
       "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
-      "originalUrl": "https://www.computerworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
+      "webUrl": "https://www.infoworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
+      "originalUrl": "https://www.infoworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1221,12 +1221,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T17:30:00-08:00",
+      "publishedDateTime": "2021-11-10T13:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

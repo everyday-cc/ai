@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI and Machine Learning, Cloud Computing, and 5G Will Dominate in 2022"
-    excerpt: "Artificial Intelligence (AI) and machine learning, cloud computing, and 5G will be the most important technologies in 2022, according to a survey to global technology leaders from the U.S., U.K., China,"
-    publishedDateTime: 2021-11-26T11:25:00Z
-    webUrl: "https://iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/"
-    ampWebUrl: "https://iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/amp/"
-    cdnAmpWebUrl: "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/ai-and-machine-learning-cloud-computing-and-5g-will-dominate-in-2022/amp/"
-    type: article
-    provider:
-      name: IBL News
-      domain: iblnews.org
-    quality: 76
-    images:
-      - url: "https://iblnews.org/wp-content/uploads/2021/11/impactoftech.jpg"
-        width: 860
-        height: 499
-        isCached: true
   - title: "Announcing the Intelligent Applications Top 40; a New Industry Ranking of the Top Private Companies Building Applications with AI and Machine Learning"
     excerpt: "Today the Intelligent Applications Top 40 (#IA40) was unveiled by Madrona Venture Group. The list of the top private companies building applications that truly incorporate intelligence into how they process data and predict outcomes was voted on"
     publishedDateTime: 2021-11-30T03:04:00Z

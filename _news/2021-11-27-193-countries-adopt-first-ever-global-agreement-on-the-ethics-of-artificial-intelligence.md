@@ -21,20 +21,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "193 countries adopt 1st global agreement on Ethics of AI"
-    excerpt: "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI)."
-    publishedDateTime: 2021-11-26T11:59:00Z
-    webUrl: "https://www.pna.gov.ph/articles/1161070"
-    type: article
-    provider:
-      name: Gov
-      domain: pna.gov.ph
-    quality: 56
-    images:
-      - url: "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg"
-        width: 720
-        height: 377
-        isCached: true
   - title: "193 Countries Adopt First-Ever Global Agreement on the Ethics of Artificial Intelligence"
     excerpt: "One of its main calls is to protect data, going beyond what tech firms and governments are doing to guarantee individuals more protection by ensuring transparency, agency and control over their personal data."
     publishedDateTime: 2021-11-29T13:42:00Z

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-01-qualcomm-targets-ai-and-camera-with-series-8-soc.md",
-      "title": "Qualcomm Targets AI And Camera With Series 8 SoC",
-      "excerpt": "With double the memory, new tensor cores capable of double the processing throughput speed, and enhancements to the other elements of the 7th generation AI Engine, the new SoC will have 4x the overall AI performance of the previous generation.",
+      "path": "_news/2021-12-01-qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost.md",
+      "title": "Qualcomm launches Snapdragon 8 Gen 1 mobile platform with AI, camera, security boost",
+      "excerpt": "Qualcomm has announced Snapdragon 8 Gen 1 featuring improved camera capabilities, artificial intelligence (AI) applications, and security enhancements.  During the annual Qualcomm Snapdragon Tech Summit,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/11/30/qualcomm-targets-ai-and-camera-with-series-8-soc/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/11/30/qualcomm-targets-ai-and-camera-with-series-8-soc/",
+      "webUrl": "https://www.zdnet.com/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/",
+      "originalUrl": "https://www.zdnet.com/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 189,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a6749a3e06dc733a03d8c8%2F0x0.jpg",
-          "width": 991,
-          "height": 786,
+          "url": "https://www.zdnet.com/a/img/resize/06c2754bb5fd41361d2d19fb5758a85123fdf813/2021/11/24/37ec361f-765c-4608-910d-f9b36d8d9acc/screenshot-2021-11-24-at-15-37-15.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 783,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/11/30/qualcomm-targets-ai-and-camera-with-series-8-soc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/11/30/qualcomm-targets-ai-and-camera-with-series-8-soc/amp/",
-      "publishedDateTime": "2021-11-30T14:34:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/",
+      "publishedDateTime": "2021-11-30T15:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,9 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI",
-        "AI Hardware"
+        "AI in Security"
       ]
     },
     {

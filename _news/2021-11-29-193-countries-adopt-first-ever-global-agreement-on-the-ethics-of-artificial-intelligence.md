@@ -7,7 +7,7 @@ originalUrl: "https://www.hstoday.us/industry/industry-news/193-countries-adopt-
 webUrl: "https://www.hstoday.us/industry/industry-news/193-countries-adopt-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "193 countries adopt 1st global agreement on Ethics of AI"
-    excerpt: "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI)."
-    publishedDateTime: 2021-11-26T11:59:00Z
-    webUrl: "https://www.pna.gov.ph/articles/1161070"
-    type: article
-    provider:
-      name: Gov
-      domain: pna.gov.ph
-    quality: 56
-    images:
-      - url: "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg"
-        width: 720
-        height: 377
-        isCached: true
   - title: "193 countries adopt first-ever global agreement on the Ethics of Artificial Intelligence"
     excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
     publishedDateTime: 2021-11-27T06:16:00Z

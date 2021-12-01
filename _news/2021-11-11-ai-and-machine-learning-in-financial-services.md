@@ -1,21 +1,25 @@
 ---
 category: news
 title: "AI and machine learning in financial services"
-excerpt: "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes."
-publishedDateTime: 2021-11-11T01:30:00Z
-originalUrl: "https://www.computerworld.com/resources/227440/ai-and-machine-learning-in-financial-services"
-webUrl: "https://www.computerworld.com/resources/227440/ai-and-machine-learning-in-financial-services"
+excerpt: "AI and machine learning in financial services While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption ..."
+publishedDateTime: 2021-11-10T21:55:00Z
+originalUrl: "https://www.infoworld.com/resources/227440/ai-and-machine-learning-in-financial-services"
+webUrl: "https://www.infoworld.com/resources/227440/ai-and-machine-learning-in-financial-services"
 type: article
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "bCSXm1ThodCVmQrXVlJs21GqpJQPb+d4k4PpsLI65SA8QvCvUpJMEWFrBiuorvl8e1ROPoki8k72P2X6ei2SIN2WtTWXEMTHFt7R5VrgU5jE0ENID+gVhmbiVOrrKGOUPybCTatEN4WWJLUNsIHhES7ocA4J0ct8j0ljlCjWX/NLvIb6Qm/X25i89Wbtv1/zJSR6L5R6kSduQPB1KUHuwAsKOV5NAgy40oLb60ytV79DdhOWML9VvLDErNllwQHICJm8I8H76tAV1h0kDfl9OCkwwoFYAEeOoU8P7pYEpS6Vm7XNWX/gKrAxTsuKuxm4nWfnh2c+SoVfr7P97EHMpr1WbvC5WBPJVF3clnmZ4h0=;W8rqyJz0uv8ACl1VQye4CA=="
+secured: "eMqU7bzVZxWPNdcVoEMkngwKkcBayxPpj+v34i5SGesE7hagAFUnlXGLOCPvyeNNPnrNWO8g3cVpLoLrv/Vmk17RLMqan/nQBorV9x6Gj7qvMNawPcbMeMu1GJo+sQp6WGK/LB39GEvnGyNk6nkO04mRfcNXYUV/P8/BYOloigQq+8K7WSPy2e/9J7+ObBe5+pKFqLdCcs+Kn14YXDnBnz0whRPsGCTRpFDzej167gBycuzRnH4oslCpg5mM7iYTCYm9G6z4uOv5ct+zsEB2+Uw+4HvcSJecxF94sdc0k7eBq6KoPSGaB1lXpnC3zQLRLejK2T9UiGuaaN1WTfjxG1J6JQoW2eq455eNo5O+8L0=;Hk8J0NpztodYyHhOed+6Nw=="
 ---
 

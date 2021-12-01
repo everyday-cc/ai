@@ -19,36 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Baidu’s Robotaxi Service Approved For Commercial Deployment in Beijing – Report"
-    excerpt: "Baidu (BIDU) and self-driving startup Pony.ai can proceed and launch paid driverless robotaxi services in Beijing. According to a report published by"
-    publishedDateTime: 2021-11-26T11:23:00Z
-    webUrl: "https://www.smarteranalyst.com/yahoo/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report/"
-    ampWebUrl: "https://www.smarteranalyst.com/yahoo/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report/amp/"
-    type: article
-    provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 55
-    images:
-      - url: "https://www.smarteranalyst.com/wp-content/uploads/2021/11/BIDU-1-750x406-1.jpg"
-        width: 750
-        height: 406
-        isCached: true
-  - title: "Beijing launches first commercial trial of self-driving vehicle"
-    excerpt: "The Chinese capital of Beijing launched its first commercial trial of autonomous driving and rolled out relevant management policie"
-    publishedDateTime: 2021-11-27T09:02:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271816493/beijing-launches-first-commercial-trial-of-self-driving-vehicle"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "China's Baidu Granted a Permit to Collect Fares From Passengers Using its ‘Apollo Go' Robotaxi Service on Public Roads in Beijing"
     excerpt: "China’s Baidu Inc announced that it was granted a service permit for Beijing's newly-launched zone for autonomous driving commercial services, which allows the company to charge for rides in its fully-autonomous ride-hailing vehicles."
     publishedDateTime: 2021-11-26T18:30:00Z

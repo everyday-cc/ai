@@ -28,17 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top Opportunities for Artificial Intelligence to Improve Cancer Care"
-    excerpt: "By implementing artificial intelligence into cancer care, machine learning tools can detect cancer, assist in decision-making, and recommend treatment approaches."
-    publishedDateTime: 2021-11-29T13:30:00Z
-    webUrl: "https://healthitanalytics.com/features/top-opportunities-for-artificial-intelligence-to-improve-cancer-care"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/top-opportunities-for-artificial-intelligence-to-improve-cancer-care"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/top-opportunities-for-artificial-intelligence-to-improve-cancer-care"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
   - title: "Nuance launches ‘Precision Imaging Network’ providing AI first reads to relieve overburdened docs"
     excerpt: "Nuance announced the launch of a new “Precision Imaging Network” on Monday, which will help relieve overburdened physicians by providing artificial intelligence-powered first reads of exams. The Burlington,"
     publishedDateTime: 2021-11-30T08:13:00Z

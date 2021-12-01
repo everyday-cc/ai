@@ -2,6 +2,212 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-27-a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd.md",
+      "title": "A mysterious Chinese GPU firm with deep pockets is gunning for Nvidia and AMD",
+      "excerpt": "Moore Threads has already rolled out its first generation of GPU products, which it is describes as “a standard GPU that includes graphics rendering, universal parallel computing, video codecing [sic],",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
+      "originalUrl": "https://www.techradar.com/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/vRFjq3fcDEZp5RJTjH4u9N-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
+      "publishedDateTime": "2021-11-27T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-27-heres-what-defines-a-self-driving-car.md",
+      "title": "Here's what defines a self-driving car",
+      "excerpt": "Get the breakdown on what is and what isn't a self-driving car. Spoiler: Teslas aren't autonomous. Despite what some companies may say, there are no self-driving cars on sale. None. Zip. Not a single system currently bundled with a new car meets the SAE Scale of Autonomy's standard for a true autonomous car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/gXDWQg_Y5WW3tSuaBtDtIfx7WLE=/2021/07/22/0374dde4-e7b4-44df-b180-f9ac7be9e38b/2022-gmc-sierra-1500-towing-super-cruise-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/",
+      "publishedDateTime": "2021-11-27T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-27-building-artificial-intelligence-staffing-is-the-most-challenging-part.md",
+      "title": "Building artificial intelligence: staffing is the most challenging part",
+      "excerpt": "Every company worth its weight is set on achieving practical and scalable artificial intelligence and machine learning. However, it's all much easier said than done -- to which AI leaders within some of the most information-intensive enterprises can attest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/building-artificial-intelligence-staffing-is-the-most-challenging-part/",
+      "originalUrl": "https://www.zdnet.com/article/building-artificial-intelligence-staffing-is-the-most-challenging-part/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/82792f320a8b17f93e4402163655922ba45427cb/2021/11/26/ad71fe56-766b-46a9-9ad4-4f14164f0760/path-station-people-train-station-path-october-2016-photo-by-joe-mckendrick.jpg?width=770&height=578&fit=crop&auto=webp",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-27-hondas-new-safety-target-focuses-on-ai-powered-technology.md",
+      "title": "Honda’s New Safety Target Focuses On AI-Powered Technology",
+      "excerpt": "Honda’s AI-powered driver assistance technology, which was revealed this week in Japan, checks a driver’s actions and health by using a cockpit-mounted camera and sensors. Honda reported it is proposing to incorporate its world-first technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/",
+      "originalUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a1ab6806761cd8fb70c192%2F0x0.jpg",
+          "width": 900,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/amp/",
+      "publishedDateTime": "2021-11-26T18:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-27-microsoft-launches-fully-managed-azure-load-testing-service.md",
       "title": "Microsoft launches fully managed Azure Load Testing service",
       "excerpt": "Microsoft has launched a fully managed load testing service for Azure, helping QA testers and developers optimize their app's performance.",
@@ -10,7 +216,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1016,187 +1222,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-baidu-ponyai-approved-for-robotaxi-services-in-beijing.md",
-      "title": "Baidu, Pony.ai approved for robotaxi services in Beijing",
-      "excerpt": "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp",
-      "publishedDateTime": "2021-11-24T22:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-baidu-ponyai-get-chinas-green-light-to-charge-for-robotaxis.md",
-      "title": "Baidu, Pony.ai Get China's Green Light to Charge for Robotaxis",
-      "excerpt": "By Yifan Wang Chinese tech giant Baidu Inc. and Toyota Motor Corp.-backed startup Pony.ai Inc. have received China's first-ever regulatory go-ahead to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
-      "originalUrl": "https://www.marketwatch.com/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 294,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
-      "publishedDateTime": "2021-11-24T21:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-accelerate-your-marketing-plan-by-leveraging-ai-for-content-creation.md",
-      "title": "Accelerate your marketing plan by leveraging AI for content creation",
-      "excerpt": "Facing rapid ecommerce growth and increased customer expectations, businesses can accelerate marketing plans using AI for content creation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/24/accelerate-your-marketing-plan-by-leveraging-ai-for-content-creation/",
-      "originalUrl": "https://venturebeat.com/2021/11/24/accelerate-your-marketing-plan-by-leveraging-ai-for-content-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-597317521.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/24/accelerate-your-marketing-plan-by-leveraging-ai-for-content-creation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/accelerate-your-marketing-plan-by-leveraging-ai-for-content-creation/amp/",
-      "publishedDateTime": "2021-11-24T21:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish.md",
-      "title": "University of Helsinki: Massive open online course Ethics of AI translated in Finnish and Swedish",
-      "excerpt": "The Finnish and Swedish translations for the University of Helsinki’s online course Ethics of AI will open on 23 November, in connection with a seminar on information policy at the Ministry of Finances.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish-2/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/02/university-of-helsinki.png",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish-2/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish-2/",
-      "publishedDateTime": "2021-11-24T20:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

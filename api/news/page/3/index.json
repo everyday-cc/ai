@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-30-coolpad-cool-20-pro-teaser-poster-confirms-the-mediatek-dimensity-900-5g-chip.md",
+      "title": "Coolpad Cool 20 Pro teaser poster confirms the MediaTek Dimensity 900 5G chip",
+      "excerpt": "Chinese smartphone maker Coolpad is expected to release the COOL 20 Pro smartphone on December 1. The company had earlier released a teaser poster which gave us a look at the design of the sleek smartphone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/11/29/coolpad-cool-20-pro-teaser-poster-confirms-the-mediatek-dimensity-900-5g-chip/",
+      "originalUrl": "https://www.gizmochina.com/2021/11/29/coolpad-cool-20-pro-teaser-poster-confirms-the-mediatek-dimensity-900-5g-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/coolpad-cool-20-pro.jpg",
+          "width": 820,
+          "height": 1458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/11/29/coolpad-cool-20-pro-teaser-poster-confirms-the-mediatek-dimensity-900-5g-chip/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/29/coolpad-cool-20-pro-teaser-poster-confirms-the-mediatek-dimensity-900-5g-chip/?amp=1",
+      "publishedDateTime": "2021-11-29T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-why-ghana-needs-robotics-industry-for-national-development.md",
+      "title": "Why Ghana needs robotics industry for national development",
+      "excerpt": "The evolution of technology in recent years has sparked significant public and media discourse, anticipations, and concerns about robotics and its ability to ensure positive transformation in every sector around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernghana.com/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
+      "originalUrl": "https://www.modernghana.com/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.modernghana.com/images/content/1129202154037-h41o2s6fey-picture---julian-bennett.jpg",
+          "width": 800,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernghana.com/amp/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
+      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
+      "publishedDateTime": "2021-11-29T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modernghana.com",
+        "domain": "modernghana.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible.md",
+      "title": "Exclusive: How The Austin Lighthouse For The Blind Uses Robotics To Make Warehouse Work More Efficient And More Accessible",
+      "excerpt": "This spring, in partnership with Fetch Robotics, the Lighthouse began working with autonomous mobile robots, or AMRs, in an effort to help Blind and low vision workers in the warehouse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/29/exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/29/exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a50ace24ac178c27ec113d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/29/exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2021/11/29/exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible/amp/",
+      "publishedDateTime": "2021-11-29T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-c3ai-stock-is-approaching-bargain-territory.md",
       "title": "C3.AI Stock is Approaching Bargain Territory",
       "excerpt": "Enterprise artificial intelligence application software company C3.AI (NYSE: AI) stock has been in a terrifying sell-off hitting lows of $36.33 all the way from a high of $183.90 nearly",
@@ -761,6 +908,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-28-ai-chatbots-their-influence-on-mobile-technology.md",
+      "title": "AI, Chatbots & Their Influence on Mobile Technology",
+      "excerpt": "Relatively, chatbots are also now witnessing rapid growth in their adoption by corporates, big or small, to assist users with queries faster than ever before. A report by Statista states, by 2025, the global AI market is expected to cross a value threshold amounting to $126 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/",
+      "originalUrl": "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/11/AI-and-Chatbots-ITNA.jpg",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/?amp",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/?amp",
+      "publishedDateTime": "2021-11-27T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-28-creepy-humanoid-robo-artist-gives-public-performance-of-its-own-ai-generated-poetry.md",
       "title": "Creepy Humanoid Robo-Artist Gives Public Performance Of Its Own AI-Generated Poetry",
       "excerpt": "Ai-Da creates artworks and writes poetry using a sophisticated language model, word data bank, and speech pattern analysis.",
@@ -863,7 +1053,7 @@
       "originalUrl": "https://www.cnn.com/2021/11/27/tech/ai-da-robot-intl-scli-gbr/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -967,7 +1157,7 @@
       "originalUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1007,212 +1197,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd.md",
-      "title": "A mysterious Chinese GPU firm with deep pockets is gunning for Nvidia and AMD",
-      "excerpt": "Moore Threads has already rolled out its first generation of GPU products, which it is describes as “a standard GPU that includes graphics rendering, universal parallel computing, video codecing [sic],",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
-      "originalUrl": "https://www.techradar.com/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/vRFjq3fcDEZp5RJTjH4u9N-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
-      "publishedDateTime": "2021-11-27T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-heres-what-defines-a-self-driving-car.md",
-      "title": "Here's what defines a self-driving car",
-      "excerpt": "Get the breakdown on what is and what isn't a self-driving car. Spoiler: Teslas aren't autonomous. Despite what some companies may say, there are no self-driving cars on sale. None. Zip. Not a single system currently bundled with a new car meets the SAE Scale of Autonomy's standard for a true autonomous car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/gXDWQg_Y5WW3tSuaBtDtIfx7WLE=/2021/07/22/0374dde4-e7b4-44df-b180-f9ac7be9e38b/2022-gmc-sierra-1500-towing-super-cruise-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/",
-      "publishedDateTime": "2021-11-27T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-building-artificial-intelligence-staffing-is-the-most-challenging-part.md",
-      "title": "Building artificial intelligence: staffing is the most challenging part",
-      "excerpt": "Every company worth its weight is set on achieving practical and scalable artificial intelligence and machine learning. However, it's all much easier said than done -- to which AI leaders within some of the most information-intensive enterprises can attest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/building-artificial-intelligence-staffing-is-the-most-challenging-part/",
-      "originalUrl": "https://www.zdnet.com/article/building-artificial-intelligence-staffing-is-the-most-challenging-part/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/82792f320a8b17f93e4402163655922ba45427cb/2021/11/26/ad71fe56-766b-46a9-9ad4-4f14164f0760/path-station-people-train-station-path-october-2016-photo-by-joe-mckendrick.jpg?width=770&height=578&fit=crop&auto=webp",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-27T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-hondas-new-safety-target-focuses-on-ai-powered-technology.md",
-      "title": "Honda’s New Safety Target Focuses On AI-Powered Technology",
-      "excerpt": "Honda’s AI-powered driver assistance technology, which was revealed this week in Japan, checks a driver’s actions and health by using a cockpit-mounted camera and sensors. Honda reported it is proposing to incorporate its world-first technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/",
-      "originalUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a1ab6806761cd8fb70c192%2F0x0.jpg",
-          "width": 900,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/amp/",
-      "publishedDateTime": "2021-11-26T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -56,6 +56,20 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "Microsoft Open Sources This “Mixture of Experts” Models Library"
+    excerpt: "Tutel is an implementation of the mixture-of-experts technique for large-scale DNN model training. a subset of large-scale AI models."
+    publishedDateTime: 2021-12-01T04:32:00Z
+    webUrl: "https://analyticsindiamag.com/tutel-mixture-of-experts-technique/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Microsoft-Open-Sources-This-Mixture-of-Experts-Models-Library.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "xTKmX6ZvVjWKylBXbGFlfRtfy14Rdr9gU/lUbHtllJx7SIDq6bwmRbNw2kAqw7thGns4vhZch3yG6sleP3w0quqhdKYHOEJEuI0f+iK6+yxJP05Qv4K5aBGYF1jvP/GG6dTdYNDH/PlI0EbdyyxQIPzTFSPWeNPpw1fdHz66VqRU45ZyErgvTMkDSVtpfellTKBZiUa8yKkNGZH2bW8xsD7qn6cO5AmQpUqTT9wfMRnV20ozwJZTQpw9owNAl+sYS+PYvMPiSGdiRFZgmwjFQLmnLsPxQnQBr2htNh7guFyfdRn6mZLWZx5xA9XcATZbUnIY8D2mo8ira8vwPoAvfPSSGo2Wrh6PMV1NuF2qVnz6omZSEUjF1FWyReGtPSel9gfr/i9e3rvWsU1wArw5Yr+XKRvBVME8TXs6gOqHqKA+NKRABdzmSgkPLjALNfrEgNbltT69mTrQBg+iLSUU117B2L4ijf0fKxKOPs9GiKi3vRmyneBJxyZ+jkEApE9y2U0EQ1e007G0CW0S8ioG0Q==;DeguSTnduUvre+JksFTTKg=="
 ---
