@@ -104,6 +104,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Qualcomm, Google Cloud collaborate to create next-gen mobile AI"
+    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions."
+    publishedDateTime: 2021-12-01T06:23:00Z
+    webUrl: "https://www.sify.com/finance/qualcomm-google-cloud-collaborate-to-create-next-gen-mobile-ai-news-technology-vmbgwFiafjdje.html"
+    ampWebUrl: "https://www.sify.com/finance/qualcomm-google-cloud-collaborate-to-create-next-gen-mobile-ai-news-technology-vmbgwFiafjdje.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/qualcomm-google-cloud-collaborate-to-create-next-gen-mobile-ai-news-technology-vmbgwFiafjdje.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 59
+    images:
+      - url: "https://www.sify.com/uploads/qualcomm_ians_umxhlQhhdgaaj.jpeg"
+        width: 680
+        height: 359
+        isCached: true
   - title: "Qualcomm Snapdragon 8 Gen 1 chip will power flagship phones from OnePlus and Xiaomi"
     excerpt: "The Qualcomm Snapdragon 8 Gen 1 will power most top-end Android smartphones coming later this year and early next year."
     publishedDateTime: 2021-12-01T01:44:00Z
@@ -119,6 +135,20 @@ related:
       - url: "https://images.indianexpress.com/2021/11/Snapdragon.jpg"
         width: 1200
         height: 667
+        isCached: true
+  - title: "Qualcomm, Google Cloud join hands to create Next-Gen Mobile AI"
+    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
+    publishedDateTime: 2021-12-01T05:33:00Z
+    webUrl: "https://ummid.com/news/2021/december/01.12.2021/qualcomm-google-cloud-join-hands-to-create-next-gen-mobile-ai.html"
+    type: article
+    provider:
+      name: Ummid
+      domain: ummid.com
+    quality: 39
+    images:
+      - url: "https://ummid.com/news/2021/december/01.12.2021/qualcomm-google.jpg"
+        width: 790
+        height: 530
         isCached: true
   - title: "Qualcomm Snapdragon 8 Gen 1 4nm Mobile Platform official: 30% faster GPU, 8K HDR video capture, 10Gbps 5G modem"
     excerpt: "Qualcomm just made the Snapdragon 8 Gen 1, the company’s latest flagship Mobile Platform official at the Qualcomm Snapdragon Tech Summit 2021 event, as it had announced. It has world’s first 10 Gigabit 5G Snapdragon X65 5G Modem-RF System,"
@@ -160,6 +190,6 @@ related:
       domain: greencarcongress.com
     quality: 0
 
-secured: "jPddq82xQkO32YpIKpWCFJ3vNHlt+S1bdpunmgrqVuNCRK5sqJYK9QDKFlriKGF0g5E3VBQgTusT99/vWtBs57zH2zEgRtpf6hoHrjbOOoSyZ3q89bxXldK9e9pdHQYZuVGF91fZdc3xwOQCFrG0pUSnFW9Z6MDo7FEeZpvbR7HZIXM5rSjQ8Q63VyqhrpnV3yY0NuKmiHPWWZ7R8M7ttxIx9GN5G9mgaUKPWnxYywzDrKhl/tOfg3XrcMbieoxh+TZkiv7dcps3rsJ2te13g+gpAM657Pj8w2VqyoNbFzv6fXWHEPjA01qFQyF36Kne+qsBVYmamR2u2QbKoO6U4JGAuN6bC3ZF8lPFAHcWlS8=;SobDPTazglkHmW3NQ15FmQ=="
+secured: "u5UbV4NtAoBWFq0tIYI9eHUK+MQk2FWVhILJnF0ni4tHtAhtQH0yazGwI7Wez6h29z/fReFjpo6lNkLW52Unk5BNAxQe41zXsYGm+0fB/A2+xzXaMeoU1Tui9/hFbqs/np/wmv1FaxzQQ07EV0b6QEpWYIElXs48UsSdNVPDelVdXcE2qFc/d5OcTW7gPmfmbQpSM8XKKXEIcpTkehTXKhYjQ87lfWbdUc8v26aijyhDuSGXEubUy8WaGxdAPtx8ws3WCP86dAPXsUjgvEyuEq8sNg9KTY4ge2sYkLad7vl9FpxXq5uNcaRPvTrl6tcXL+mL7wXJsz+ZNAY/JYLakEsvUELKgOAH4RgiqQYuIS7N4f9WVD3mbRMx5cjfBZ4uvyeO4Zxe9C8uAcgypKuPW+xK0kFMPPJLS2y4CJU8zN83D6oUGHCj2OwT6oIPbV2jEPBNyCvFwP1aN2/J8XKnjYSGreEU9BIh0FqzFsR8Zv9vJ0dqtDVanvrM4KrUlQg3s2CeoZZ1UYJjPKRVjL22gQ==;5Z4FEhdtO1sl7Mh00089yw=="
 ---
 

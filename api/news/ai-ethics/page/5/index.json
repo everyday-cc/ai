@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-14-money-and-mind-control-big-tech-slams-ethics-brakes-on-ai.md",
+      "title": "Money and mind control: Big Tech slams ethics brakes on AI",
+      "excerpt": "In September last year, Google's cloud unit looked into using artificial intelligence (AI) to help a financial firm decide whom to lend money to.. Read more at straitstimes.com.",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/tech/tech-news/money-and-mind-control-big-tech-slams-ethics-brakes-on-ai-0",
+      "originalUrl": "https://www.straitstimes.com/tech/tech-news/money-and-mind-control-big-tech-slams-ethics-brakes-on-ai-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/14/eb-microsoft-091421.jpg?itok=QsveiyyI",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-13-with-intels-help-community-college-students-can-earn-degree-in-ai.md",
       "title": "With Intel’s Help, Community College Students Can Earn Degree in AI",
       "excerpt": "The need for AI technology in the workforce, across several industries, is critical for U.S. economic growth,” Pat Gelsinger, Intel CEO said announcing a program expansion.",

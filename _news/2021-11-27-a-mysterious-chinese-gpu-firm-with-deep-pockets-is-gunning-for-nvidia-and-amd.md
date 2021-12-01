@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/a-mysterious-chinese-gpu-firm-wit
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Moore Threads announces itself as the first Chinese company capable of delivering a fully-featured GPU solution"
+    excerpt: "The company claims that its GPU solutions are based on fully domestic intellectual property and manufacturing expertise, and that they can handle a wide range of GPU workloads, such as 3D graphics computing,"
+    publishedDateTime: 2021-11-30T16:26:00Z
+    webUrl: "https://technosports.co.in/2021/11/30/moore-threads-announces-itself-as-the-first-chinese-company-capable-of-delivering-a-fully-featured-gpu-solution/"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 19
+    images:
+      - url: "https://technosports.co.in/wp-content/uploads/2021/11/TSCover1-1-1024x576.png"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "d8Hx2B8CJsH4eFNnYNy01eHuLr2ToyBvpoLkCfGvIDM8eUiW9uYa1W1S30MgN9kaNcicA/Y5SFunr2AejldOFlBdhddC2v/3kJCD1cNoeL/qEEhEd2HivMGz+lQwypDzoaDa/mahm6g8yQ/aQCNMSBW7SNpZ3+bhTX3f2Wx+fJBfjmJiGgEewsTuoTkYKhLVcUd3LUU/liv8NAD1nnOTLXazMWLrKlTs6vZ/HIXPlIeWpC5jo+gIT9whCwfYlZey5VBxQdCAW5uU2JN6+22VrSpOHhdMfEH4cf4broLDf5uzeoG/MgXPosn0VGu+5j4DrYjS5V5ZdmocV/NccnO+hopcw3jmdkA/ZW9VrMm3tvSIikxlBmCaF20yZfz8OKT6U1xSxwpq6+lR3hPFualU3RTgo7GaHSS561w2qQMLUgFW2q4AJSfdtTGs/Bwz+MW/ihqSzBqubvFbpiYqUi1xsSkziOwYRk7V1WU1/JH/FmoXMzxmitBZxbXk/ujOM2/Is4GkCl8snHgaFFerFs7kZQ==;Qbhx4pZp65v+RWQ3/MdjtQ=="
 ---

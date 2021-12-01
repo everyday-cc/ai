@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/news/india/government-launches-unique-fa
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms"
 type: article
 quality: 59
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/IMAGE_1638185692.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Good News Pensioners! You Can Now Submit Life Certificate Via Mobile App Using Face Recognition Tech"
+    excerpt: "All pensioners are mandated to submit life certificates annually to continue receiving pension. The Ministry of Personnel, Public Grievances and Pensions has implemented a facility of submitting certificates digitally."
+    publishedDateTime: 2021-12-01T05:06:00Z
+    webUrl: "https://www.india.com/business/submit-life-certificate-via-mobile-app-using-face-recognition-technology-for-jeevan-pramaan-good-news-for-pensioners-5118513/"
+    ampWebUrl: "https://www.india.com/business/submit-life-certificate-via-mobile-app-using-face-recognition-technology-for-jeevan-pramaan-good-news-for-pensioners-5118513/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/submit-life-certificate-via-mobile-app-using-face-recognition-technology-for-jeevan-pramaan-good-news-for-pensioners-5118513/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 46
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2021/09/pension-scheme.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Good news for pensioners! Government rolls out Unique Face Recognition Technology for life certificate"
     excerpt: "In order to make the process of life certificate easier for elderly pensioners, the government has rolled out Unique Face Recognition Technology on Monday."

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-20-motherandroid-chloe-grace-moretz-is-on-the-run-from-robots-in-new-trailer.md",
+      "title": "'Mother/Android': Chloë Grace Moretz is on the run from robots in new trailer",
+      "excerpt": "Chloë Grace Moretz is an expecting mother who is trying to survive amid a war with artificial intelligence in the new trailer for upcoming Hulu film, \"Mother/Android.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "originalUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/2171637350187/2021/1/30206a0b14643694b66e2c2e76dc7c40/v1.5/MotherAndroid-Chlo-Grace-Moretz-is-on-the-run-from-robots-in-new-trailer.jpg",
+          "width": 800,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "publishedDateTime": "2021-11-19T11:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire.md",
       "title": "Two Young Roommates Are Building An Artificial Intelligence Real Estate Empire",
       "excerpt": "It's amazing to see that the pandemic has created a boom in entrepreneurialism and shown how AI and tech, along with the human touch, can both improve the lives of people and build new innovative businesses.",
@@ -1401,50 +1444,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-sourceless-blockchain-board-at-larnaca-conferences-2021-the-reality-of-tomorrows-ai-robotics.md",
-      "title": "Sourceless Blockchain Board at Larnaca Conferences 2021 – The reality of tomorrow’s AI & Robotics",
-      "excerpt": "Sourceles Blockchain Board will be present at Larnaca Conferences, where various topics on AI & Robotics will be discussed ... founder of Sourceless Blockchain, Ccoin Network Fintech and Wisp Communication. - Iulian Bondari, graphic and web designer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
-      "originalUrl": "https://www.openpr.com/news/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub11664540_g.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
-      "publishedDateTime": "2021-11-11T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

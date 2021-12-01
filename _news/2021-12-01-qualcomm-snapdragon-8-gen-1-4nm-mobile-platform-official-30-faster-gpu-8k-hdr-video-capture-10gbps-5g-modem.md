@@ -116,6 +116,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Qualcomm, Google Cloud collaborate to create next-gen mobile AI"
+    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions."
+    publishedDateTime: 2021-12-01T06:23:00Z
+    webUrl: "https://www.sify.com/finance/qualcomm-google-cloud-collaborate-to-create-next-gen-mobile-ai-news-technology-vmbgwFiafjdje.html"
+    ampWebUrl: "https://www.sify.com/finance/qualcomm-google-cloud-collaborate-to-create-next-gen-mobile-ai-news-technology-vmbgwFiafjdje.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/qualcomm-google-cloud-collaborate-to-create-next-gen-mobile-ai-news-technology-vmbgwFiafjdje.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 59
+    images:
+      - url: "https://www.sify.com/uploads/qualcomm_ians_umxhlQhhdgaaj.jpeg"
+        width: 680
+        height: 359
+        isCached: true
   - title: "Qualcomm Snapdragon 8 Gen 1 chip will power flagship phones from OnePlus and Xiaomi"
     excerpt: "The Qualcomm Snapdragon 8 Gen 1 will power most top-end Android smartphones coming later this year and early next year."
     publishedDateTime: 2021-12-01T01:44:00Z
@@ -131,6 +147,20 @@ related:
       - url: "https://images.indianexpress.com/2021/11/Snapdragon.jpg"
         width: 1200
         height: 667
+        isCached: true
+  - title: "Qualcomm, Google Cloud join hands to create Next-Gen Mobile AI"
+    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
+    publishedDateTime: 2021-12-01T05:33:00Z
+    webUrl: "https://ummid.com/news/2021/december/01.12.2021/qualcomm-google-cloud-join-hands-to-create-next-gen-mobile-ai.html"
+    type: article
+    provider:
+      name: Ummid
+      domain: ummid.com
+    quality: 39
+    images:
+      - url: "https://ummid.com/news/2021/december/01.12.2021/qualcomm-google.jpg"
+        width: 790
+        height: 530
         isCached: true
   - title: "Qualcomm Snapdragon 8 live blog — all the big news as it happens"
     excerpt: "We just learned a little bit more about the Snapdragon 8 Gen 1, Qualcomm's new system-on-chip for mobile phones. The chipset was introduced during a keynote launching the chip maker's annual Snapdragon Tech Summit in Hawaii."

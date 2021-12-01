@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Government of Canada backs emerging leader in silicon chip photonics that produces navigation sensors for self-driving vehicles"
-excerpt: "Investment supports OSCP, a growing Canadian cleantech company, and will help advance the safety and accuracy of autonomous vehicles and drones. MONTRÉAL, Nov. 30, 2021 /CNW/ - C"
-publishedDateTime: 2021-11-30T20:09:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-government-canada-backs-emerging-leader-silicon-chip-photonics-/2021/11/30/9501955.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-government-canada-backs-emerging-leader-silicon-chip-photonics-/2021/11/30/9501955.htm"
+excerpt: "Investment supports OSCP, a growing Canadian cleantech company, and will help advance the safety and accuracy of autonomous vehicles and drones Canada’s cleantech entrepreneurs are proving their power to take on today’s environmental challenges."
+publishedDateTime: 2021-12-01T05:14:00Z
+originalUrl: "https://www.canada.ca/en/innovation-science-economic-development/news/2021/11/government-of-canada-backs-emerging-leader-in-silicon-chip-photonics-that-produces-navigation-sensors-for-self-driving-vehicles.html"
+webUrl: "https://www.canada.ca/en/innovation-science-economic-development/news/2021/11/government-of-canada-backs-emerging-leader-in-silicon-chip-photonics-that-produces-navigation-sensors-for-self-driving-vehicles.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Canada
+  domain: canada.ca
 
 topics:
   - AI in Autos
@@ -44,6 +44,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "94KdJAZ25HYF7SQr0GcwOO+0Fq6jSV7gb1QvVEmK40q6N1iojYZx2fYm8a0tgd6IZYfXmSHjwvsdDoZTK9lanS3YCZccuNCD1asxpRer5vQokw0yNozlPFsyqvYsY2UekWfx08B8wJvF0ya0sa1WsNwxCx4yQHSP3AoZ0GYnJU8uE1BQwSVk0Hg+dbL3DISbOBd2Im9NKs3iIlvB/kk5Vfw9TlQCXMz+9PzQ8TGHDUOAbvxdG0V3Tgi1csX0el5LMVhEL3MkIhYVrQrXbMIApak+lAmTh1FYuzm6Xraj/Mg/TOARB/yl0UIfVQ+aP7QtTW+ddu09GyKrXzhthgri9hdTZKcfvIkifhuSRLdsIMw=;wjz841pdjsMVuHHEPMLO2A=="
+secured: "ANZdcuqjBucmgl7+k8o3FvOC/H/spqvDd2G5OdjW48LDEtcXZqbFfV8cnJ3b3ml8Z89CAP04wPgDuWrbtD0fkPmi1W34XQPCKiO7waCSk8kyfuzsuQ+w4JYJHsSkPW8k2KMqP0kupCv3Njgxv4C/L3lQBF6810KwljhuiVdzPrVuZtCVcisJN0R4TFznYDdfs6a5JpxGeojpObmyulbuqrnzq+hCkdasfplZ7lFTsU0WrvJJ6ttMoYk7g5brH18t5GV30Hv5+v3Kg7nxBgtIrlaWjSzlJDPGSPbVyASNwhULvg/DsKUsAwETBT3wnbH6yH8cGQzCTD3lf5rK3hbyfeabS0GQDarjci1USFxYEdU=;Q04osHAADlbDT1t1rkqoyA=="
 ---
 

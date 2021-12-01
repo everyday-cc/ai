@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-25-when-reddit-is-your-ai-language-instructor.md",
+      "title": "When Reddit Is Your AI Language Instructor",
+      "excerpt": "When it was asked about bringing a Polish friend, it replied, “Yes, but you can’t bring your own booze.” Mrksic, who is Serbian, admits that the system appeared to think people from Serbia were immature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-11-25/ai-can-take-rude-turns-when-no-one-is-watching-how-machines-learn-skills",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-11-25/ai-can-take-rude-turns-when-no-one-is-watching-how-machines-learn-skills",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEyMHEStSMhA/v1/1200x824.jpg",
+          "width": 1200,
+          "height": 824,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-security-flaws-identified-in-mediatek-smartphone-chips-check-point-research.md",
+      "title": "Security flaws identified in MediaTek smartphone chips: Check Point Research",
+      "excerpt": "Check Point Research (CPR) has identified security flaws in the smartphone chip made by Taiwanese manufacturer MediaTek. Found in 37 per cent of the world’s smartphones, MediaTek’s chip serves as the main processor for nearly every notable Android device,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/todays-paper/36ervb/article37155956.ece/ALTERNATES/LANDSCAPE_615/Web-and-print-bGKK946ARE3jpgjpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/security-flaws-identified-in-mediatek-smartphone-chips-check-point-research/article37677838.ece/amp/",
+      "publishedDateTime": "2021-11-24T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-baidu-ponyai-approved-for-robotaxi-services-in-beijing.md",
       "title": "Baidu, Pony.ai approved for robotaxi services in Beijing",
       "excerpt": "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in ...",
@@ -1085,101 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us.md",
-      "title": "Samsung to spend $17 billion to build new chip plant in the US",
-      "excerpt": "Samsung on Wednesday said it would spend an estimated $17 billion in the US to build a new semiconductor manufacturing facility that will produce advanced logic chips. The new plant, to be built at Taylor,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
-      "originalUrl": "https://www.zdnet.com/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/bb4db8585baa7730723206c0bfaa1bdb74477f1a/2020/02/20/ce30201d-cc31-4d68-be0d-cef488c3e6d1/image-samsungs-new-euv-line-in-hwaseong.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
-      "publishedDateTime": "2021-11-23T16:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-computer-vision-for-cleaning-and-sports-the-ukrainian-it-company-powercode-has-entered-the-persian-gulf-market-with-its-oil-of-the-21st-century.md",
-      "title": "Computer Vision for Cleaning and Sports. The Ukrainian IT Company Powercode Has Entered the Persian Gulf Market With Its Oil of the 21st Century",
-      "excerpt": "According to a new Gartner survey, over 30% of technology companies worldwide plan to invest in artificial intelligence and computer",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/ae/news-releases/computer-vision-for-cleaning-and-sports-the-ukrainian-it-company-powercode-has-entered-the-persian-gulf-market-with-its-oil-of-the-21st-century-853668331.html",
-      "originalUrl": "https://www.prnewswire.com/ae/news-releases/computer-vision-for-cleaning-and-sports-the-ukrainian-it-company-powercode-has-entered-the-persian-gulf-market-with-its-oil-of-the-21st-century-853668331.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1695268/Powercode_computer_vision_technologies.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T15:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

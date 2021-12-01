@@ -2,6 +2,153 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-11-12-is-this-top-artificial-intelligence-powered-cybersecurity-stock-a-buy.md",
+      "title": "Is This Top Artificial-Intelligence-Powered Cybersecurity Stock a Buy?",
+      "excerpt": "The cybersecurity industry has massive secular tailwinds as risks and awareness rise. Does this young outperformer have the metrics and technology to continue to dominate the market?",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
+      "originalUrl": "https://www.fool.com/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F652465%2Fgettyimages-1279862993.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/11/is-this-top-artificial-intelligence-powered-cybers/",
+      "publishedDateTime": "2021-11-11T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-ai-customer-service-bots-are-making-their-way-to-a-store-near-you.md",
+      "title": "AI customer service bots are making their way to a store near you",
+      "excerpt": "There are already more than a billion people interacting with businesses via either text or voice-based conversational tools.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-customer-service-bots-in-store-near-you-syndication",
+      "originalUrl": "https://thenextweb.com/news/ai-customer-service-bots-in-store-near-you-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FAISyndi.jpg&signature=ec8be9af29b8c962347fed54d39570a7",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-european-bank-sees-path-to-fastest-ai-supercomputer.md",
+      "title": "European Bank Sees Path to Fastest AI Supercomputer",
+      "excerpt": "While Hungarian banks with collective names like OTP Group might not have household recognition here in the U.S., they do represent a notable portion of",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/",
+      "originalUrl": "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/10/ab_business_building.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/11/11/european-bank-sees-path-to-fastest-ai-supercomputer/amp/",
+      "publishedDateTime": "2021-11-11T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-report-ai-startup-funding-hits-record-high-of-179b-in-q3.md",
       "title": "Report: AI startup funding hits record high of $17.9B in Q3",
       "excerpt": "A new report from CB Insights has revealed that global funding in AI startups has seen a surge of 8% to $17.9 billion during Q3 2021.",
@@ -1088,145 +1235,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to.md",
-      "title": "ZONE DEFENSE: These self-driving, AI-powered drones do recon so soldiers don’t have to",
-      "excerpt": "Today, the brothers are cofounders of Shield AI, a rapidly growing artificial intelligence company based in San Diego, with offices in Washington, DC, and Pittsburgh, and Shield AI’s unmanned Nova drones are used in war zones around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.alumni.hbs.edu/careers/blog/post/zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to",
-      "originalUrl": "https://www.alumni.hbs.edu/careers/blog/post/zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudinary.hbs.edu/hbsit/image/upload/s--4h9UIwGH--/f_auto,c_fill,h_375,w_880,/v20200101/C7FD1A04C9CC32757626E4E144C43021.jpg",
-          "width": 880,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business School",
-        "domain": "hbs.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-ai-and-machine-learning-in-financial-services.md",
-      "title": "AI and machine learning in financial services",
-      "excerpt": "AI and machine learning in financial services While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
-      "originalUrl": "https://www.infoworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T13:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m.md",
-      "title": "CoreWeave, a provider of cloud services for GPU-powered apps, gets $50M",
-      "excerpt": "CoreWeave, a specialized cloud services provider for GPU-based workloads, also partnered with Nvidia to enable companies to scale infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/",
-      "originalUrl": "https://venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/cloud-6621829_1920-e1634161645991.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/coreweave-a-provider-of-cloud-services-for-gpu-powered-apps-gets-50m/amp/",
-      "publishedDateTime": "2021-11-10T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

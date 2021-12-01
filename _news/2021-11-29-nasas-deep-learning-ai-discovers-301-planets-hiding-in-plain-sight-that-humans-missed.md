@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nasas-deep-learning-ai-discovers-30
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Deep learning tool helps NASA discover 301 exoplanets"
+    excerpt: "NASA scientists used a neural network called ExoMiner to examine data from Kepler, increasing the total tally of confirmed exoplanets in the universe."
+    publishedDateTime: 2021-12-01T01:39:00Z
+    webUrl: "https://www.pbs.org/wgbh/nova/article/exominer-neural-network-kepler-exoplanet-discovery/"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 19
 
 secured: "yQ4JBZ8OpSlZhnh95K7Ac6KMDzOYdGcX+BhT1cTw4lV4kSkOTljLf0LRZkVYuY7U/kufrgwesYqBnIsIUgj9zg/zrWQLxBlah7cpK/aSqtc9FXuUnusZxtBeWMqjo4R18zbCGVjo61NL8UO1gqRfzosbk5Mg/f3mgipfBc9Z1WD7XA2gDTzrsjnL9rN7Uu+BnKM3ieQAKCMqxziEDQeYwvXTC3ah0tOzjb6SOpt9cjlPP96sbNpKwo2Fx8I76KwTAjDKRGd3/gbSuCk7yCQmHt0cpRfnO7RtaUQqmvBnPamw6UjohgDOtfzLTRTiDPJt5oUMbFc3HdMot4yCsRne5jH7bKBISShWmVFMB/x5DBbiWaDZW6/7QXzMkJVIk5mDR26ccWRmot/HaEWMadZ6SjqKhUmPF75eWKfLhk8n1Xlc3d8zmtINg1SKq9xQVgCq/DZo59GyVIZxm7XnC3Zn/XAlK6STzpQKDCNGVWIl2OoYx6Bw0CpQwUcbWtWry4M+gphO+obxFnkrm8R7NGSgjg==;JjIseesNxSEUUYnCoQU+Bg=="
 ---

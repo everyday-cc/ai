@@ -35,15 +35,15 @@ related:
       domain: tmcnet.com
     quality: 0
   - title: "Government of Canada backs emerging leader in silicon chip photonics that produces navigation sensors for self-driving vehicles"
-    excerpt: "Investment supports OSCP, a growing Canadian cleantech company, and will help advance the safety and accuracy of autonomous vehicles and drones. MONTRÉAL, Nov. 30, 2021 /CNW/ - C"
-    publishedDateTime: 2021-11-30T20:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-government-canada-backs-emerging-leader-silicon-chip-photonics-/2021/11/30/9501955.htm"
+    excerpt: "Investment supports OSCP, a growing Canadian cleantech company, and will help advance the safety and accuracy of autonomous vehicles and drones Canada’s cleantech entrepreneurs are proving their power to take on today’s environmental challenges."
+    publishedDateTime: 2021-12-01T05:14:00Z
+    webUrl: "https://www.canada.ca/en/innovation-science-economic-development/news/2021/11/government-of-canada-backs-emerging-leader-in-silicon-chip-photonics-that-produces-navigation-sensors-for-self-driving-vehicles.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Canada
+      domain: canada.ca
     quality: 0
 
-secured: "NeS2rp12Nh82WRRgdC+0cfNgJwOl8J15F8q3/toS+LYtHjqDWSOb5omyNmvCu6Ph5brBFPYdn7w1IiVHrsM972dzU+VOAE8lzo1nJGEqKGIPN9qu/ohfZh/fpXxUBZXVNY8SZ41noaROsA7pswCJfP3zVM6jI3vxnXSMC0z8sbj56x/75Wwa2ONZQwCL7fSL+nqb1nJdFVIbGr430oxfwaPduib+mz8frlQPYAV9pynKckYJR/UyF5HeAhnOwwH2cQXdqJuBAni3xiFUilAuR1Hcjt2OuEoX/1y/aKomMcVV/BqlP9cr26WcE5IKQMjQpZsrPL/xeKxHGkj+wK/K422QmzWu27dyV6NhH8RrROw=;67GMMQomCr7qYr79EgxGgA=="
+secured: "l/PYvj2rvQLRkc9TDXIzYUIkjQOBk60FCxP+xfpGEMNjbRDZCQJBIIVTn0OmBpXtRKSDMSodkX0kibbIV/NbZcV79WvJP5493UdN5/lpbYboZ6Su4n0DPYfBl7KcSMfpURQMfV/BLCu5ioNTVDV39IPjYuwA3GpBCjLRUzonf92xWXLv86ncAJmtoauhw6Pzo8clb0RwZCFckHEweBHHRg80nuiopIJmATB+GfCo6ry0/5j7afpbZEsC4uLWUgy5I5DSZsctiEDfFWO01W9seRrDVDePV8GuhxbBFmZ2eCw+UxG+QP1x9hky6/PULo4F89sBR1fZkVudSlQpLaqDbC8Lwe/VTO82kHxGMZ4W1IyJXf+1M+1MiXWCNZkkrBaZwoFK+0H6SeINeTLjNwm0Ulvzo/vBcEkIf9ZqhZ1qJ2VHduSKkqo+27+Z3FJLC8QvA+xPdAYyRUz6URihFdhVprdiQbxe+KcXyZf70hYIiMPkyEfU17f6G2Qbb++NedpOlRHEnJifA2WiwCt5vQ832w==;8oNe3s2Tz+p7gGSf9PDVaw=="
 ---
 

@@ -21,6 +21,20 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "AI Strategic Competition, Norms, and the Ethics of Global Empire"
+    excerpt: "Western democracies should play an active role in shaping the norms governing artificial intelligence and other advanced technologies."
+    publishedDateTime: 2021-12-01T06:38:00Z
+    webUrl: "https://thediplomat.com/2021/12/ai-strategic-competition-norms-and-the-ethics-of-global-empire/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 54
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2021/12/sizes/td-story-s-2/thediplomat_2021-12-01-035701.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "193 Countries Adopt First-Ever Global Agreement on the Ethics of Artificial Intelligence"
     excerpt: "One of its main calls is to protect data, going beyond what tech firms and governments are doing to guarantee individuals more protection by ensuring transparency, agency and control over their personal data."
     publishedDateTime: 2021-11-29T13:42:00Z

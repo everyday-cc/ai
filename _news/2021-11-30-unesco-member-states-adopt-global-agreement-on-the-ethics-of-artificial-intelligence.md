@@ -96,20 +96,6 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "UNESCO member countries adopt first global agreement on the ethics of artificial intelligence"
-    excerpt: "AI has gradually made its way into our lives. But the algorithms that enable it to function have also been misused in recent years, illustrating its dangers."
-    publishedDateTime: 2021-11-26T13:57:00Z
-    webUrl: "https://www.euronews.com/next/2021/11/26/unesco-member-countries-adopt-first-global-agreement-on-the-ethics-of-artificial-intellige"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 43
-    images:
-      - url: "https://static.euronews.com/articles/stories/06/26/46/00/1000x563_cmsv2_db3bb7f9-b558-5c44-a486-42f628f64a51-6264600.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "UNESCO member states adopt AI standards"
     excerpt: "Audrey Azoulay, director-general of UNESCO presented this past week the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference."
     publishedDateTime: 2021-11-27T12:14:00Z

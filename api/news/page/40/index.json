@@ -2,6 +2,153 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-10-28-government-pressed-on-gchq-aws-cloud-deal.md",
+      "title": "Government pressed on GCHQ-AWS cloud deal",
+      "excerpt": "The UK Government has been pressed to explain details of a reported deal between intelligence and security agency GCHQ and Amazon Web Services (AWS). Conor McGinn MP, the Labour Party’s shadow security minister,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ukauthority.com/articles/government-pressed-on-gchq-aws-cloud-deal/",
+      "originalUrl": "https://www.ukauthority.com/articles/government-pressed-on-gchq-aws-cloud-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ukauthority.com/media/10871/cyber-lock-cloud-istock-953782812-ipopba.jpg",
+          "width": 608,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ukauthority.com",
+        "domain": "ukauthority.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-mcdonalds-and-ibm-could-bring-ai-powered-drive-thrus-to-more-restaurants.md",
+      "title": "McDonald's and IBM could bring AI-powered drive-thrus to more restaurants",
+      "excerpt": "McDonald's might not be the only restaurant experimenting with AI-based order taking in the ... while bolstering IBM's Watson-powered customer service offerings. The deal is expected to close ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/mcdonalds-ibm-ai-food-orders-131806578.html",
+      "originalUrl": "https://www.engadget.com/mcdonalds-ibm-ai-food-orders-131806578.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-images/2020-06/b72651f0-ab1b-11ea-ab97-77d87c130d3e",
+          "width": 5616,
+          "height": 3744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-this-program-can-give-ai-a-sense-of-ethicssometimes.md",
+      "title": "This Program Can Give AI a Sense of Ethics—Sometimes",
+      "excerpt": "Isaac Asimov’s famous Three Laws of Robotics popularized the idea that machines might follow human ethics, although the short stories that explored the idea highlighted contradictions in such simplistic reasoning. Search our artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/program-give-ai-ethics-sometimes/",
+      "originalUrl": "https://www.wired.com/story/program-give-ai-ethics-sometimes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61786868a7da35fe9f08a807/master/pass/ai-morals-544024698.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/program-give-ai-ethics-sometimes/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/program-give-ai-ethics-sometimes/amp",
+      "publishedDateTime": "2021-10-28T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-artificial-intelligence-ai-robots-market-worth-353-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
       "title": "Artificial Intelligence (AI) Robots Market worth $35.3 billion by 2026 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "CHICAGO, Oct. 28, 2021 /PRNewswire/ -- According to the new market research report \"Artificial Intelligence (AI) Robots Market With COVID-19 Impact Analysis by Robot Type (Service, and Industrial), Technology (Machine Learning, Computer Vision, Context ...",
@@ -997,136 +1144,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-free-month-for-robotics-learning-center-grand-opening.md",
-      "title": "Free Month for Robotics Learning Center Grand Opening",
-      "excerpt": "It’s a quick subway ride away for the robotics, coding, and entrepreneurship after-school program that first started here in the neighborhood.",
-      "sourceUrl": null,
-      "webUrl": "https://tribecacitizen.com/2021/10/28/rocket-club-academy-will-open-in-columbus-circle/",
-      "originalUrl": "https://tribecacitizen.com/2021/10/28/rocket-club-academy-will-open-in-columbus-circle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tribecacitizen.com/wp-content/uploads/2021/10/Rocket-Club-420x280.jpg",
-          "width": 420,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tribeca Citizen",
-        "domain": "tribecacitizen.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-top-benefits-of-using-azure-machine-learning.md",
-      "title": "Top Benefits of Using Azure Machine Learning",
-      "excerpt": "Fortunately, Microsoft's Azure Machine Learning empowers organizations to overcome these challenges when deploying and using ML. It delivers comprehensive, simple, robust and responsible services enabling partners to build impactful data driven apps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/Think-About-It/Top-Benefits-of-Using-Azure-Machine-Learning-149029.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/Think-About-It/Top-Benefits-of-Using-Azure-Machine-Learning-149029.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta.com",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-verizon-and-aws-team-up-to-manufacture-a-5g-fueled-future.md",
-      "title": "Verizon and AWS Team Up to Manufacture a 5G-Fueled Future",
-      "excerpt": "Additionally, 5G Edge with AWS Outposts may help optimize costs ... Automation, robotics, IoT, and use of artificial intelligence and machine learning are critical technology initiatives for manufacturers on their digital transformation journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inc.com/verizon-aws/verizon-and-aws-team-up-to-manufacture-a-five-g-fueled-future.html",
-      "originalUrl": "https://www.inc.com/verizon-aws/verizon-and-aws-team-up-to-manufacture-a-five-g-fueled-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/5g-feature-image_484047_rtdl5n.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

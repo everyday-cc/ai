@@ -7,7 +7,7 @@ originalUrl: "https://www.hstoday.us/industry/industry-news/193-countries-adopt-
 webUrl: "https://www.hstoday.us/industry/industry-news/193-countries-adopt-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Strategic Competition, Norms, and the Ethics of Global Empire"
+    excerpt: "Western democracies should play an active role in shaping the norms governing artificial intelligence and other advanced technologies."
+    publishedDateTime: 2021-12-01T06:38:00Z
+    webUrl: "https://thediplomat.com/2021/12/ai-strategic-competition-norms-and-the-ethics-of-global-empire/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 54
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2021/12/sizes/td-story-s-2/thediplomat_2021-12-01-035701.jpg"
+        width: 600
+        height: 600
+        isCached: true
   - title: "193 countries adopt first-ever global agreement on the Ethics of Artificial Intelligence"
     excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
     publishedDateTime: 2021-11-27T06:16:00Z

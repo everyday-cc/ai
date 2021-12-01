@@ -2,6 +2,145 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-11-01-real-time-object-recognition-at-low-costpowerlatency.md",
+      "title": "Real-Time Object Recognition At Low Cost/Power/Latency",
+      "excerpt": "But we find that the number one neural network of interest for most customers is real-time object recognition, such as YOLOv3. It’s not possible to do comparisons here because nobody shows a YOLOv3 benchmark for their inferencing. But it’s very ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/real-time-object-recognition-at-low-cost-power-latency/",
+      "originalUrl": "https://semiengineering.com/real-time-object-recognition-at-low-cost-power-latency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/semiengineering.com/wp-content/uploads/2018/10/Flex-Logix_NMAX-benchmarks-fig2-YOLOv3.png?fit=1380%2C509&#038;ssl=1",
+          "width": 1380,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-the-best-robot-vacuums-let-you-clean-up-without-lifting-a-finger.md",
+      "title": "The best robot vacuums let you clean up without lifting a finger",
+      "excerpt": "Keep in mind, some vacuums have different power ... care of itself after taking care of your floors. Do you want to control the robot vacuum with your phone? The best robot vacuums pair with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/story/reviews/best-robot-vacuum/",
+      "originalUrl": "https://www.popsci.com/story/reviews/best-robot-vacuum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2021/07/03/best-robot-vacuums.jpg?auto=webp",
+          "width": 1000,
+          "height": 626,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/story/reviews/best-robot-vacuum/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/story/reviews/best-robot-vacuum/?amp",
+      "publishedDateTime": "2021-10-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-deepmind-takes-next-step-in-robotics-research.md",
+      "title": "DeepMind takes next step in robotics research",
+      "excerpt": "MuJoCo's free availability will have a positive impact on the work of scientists who are struggling with the costs of robotics research.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
+      "originalUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/AI-e1635273178346.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/",
+      "publishedDateTime": "2021-10-31T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-11-01-umass-lowell-partners-to-launch-ai-robotics-initiative-to-aid-older-adults.md",
       "title": "UMass Lowell, partners to launch AI-robotics initiative to aid older adults",
       "excerpt": "The quality of life for senior citizens is being improved through a new initiative developing robotics and artificial intelligence systems, and UMass Lowell researchers are among",
@@ -1041,162 +1180,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-build-conversational-experiences-for-retail-order-management-using-amazon-lex.md",
-      "title": "Build conversational experiences for retail order management using Amazon Lex",
-      "excerpt": "Retailers want to stay engaged with their customers as they move seamlessly between digital channels and physical storefronts. By delivering personalized and consistent experiences across a range of retail touchpoints, companies can drive brand loyalty. Customers contact retailers’ customer support for",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-retail-order-management-using-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-conversational-experiences-for-retail-order-management-using-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/29/Lex-Retail-image001-961x630.png",
-          "width": 961,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-29T15:04:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-cnvrgio-develops-on-demand-service-to-run-ai-workloads-across-infrastructures.md",
-      "title": "Cnvrg.io develops on-demand service to run AI workloads across infrastructures",
-      "excerpt": "Cnvrg.io has launched a Metacloud service to help AI developers run their workloads across any mainstream infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/",
-      "originalUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/",
-      "publishedDateTime": "2021-10-29T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you.md",
-      "title": "Do You Trust Artificial Intelligence To Spend Your Media Dollars For You?",
-      "excerpt": "The decisions on what to buy, how much to buy, and what prices to pay are controlled by AI (artificial intelligence ... Dr. Fou was formerly the Group Chief Digital Officer of Omnicom’s Healthcare Consultancy Group, and Digital Strategy Lead at McCann ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/hessiejones/2021/10/29/do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you/",
-      "originalUrl": "https://www.forbes.com/sites/hessiejones/2021/10/29/do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617c6485679c0833204d1796%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2021/10/29/do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2021/10/29/do-you-trust-artificial-intelligence-to-spend-your-media-dollars-for-you/amp/",
-      "publishedDateTime": "2021-10-29T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,21 +2,28 @@
 category: news
 title: "AWS Announces New Serverless Options for Three Analytics Services"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
-publishedDateTime: 2021-11-30T22:40:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211130005973/en/AWS-Announces-New-Serverless-Options-for-Three-Analytics-Services"
-webUrl: "https://www.businesswire.com/news/home/20211130005973/en/AWS-Announces-New-Serverless-Options-for-Three-Analytics-Services"
+publishedDateTime: 2021-11-30T17:41:00Z
+originalUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
+webUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
+  - AWS AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
+    width: 320
+    height: 300
+    isCached: true
 
 related:
   - title: "AWS gets a no-code ML service"
@@ -51,6 +58,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "AWS Announces Four New Storage Services and Capabilities"
+    excerpt: "New Amazon S3 Glacier storage class is designed to offer the lowest cost storage for milliseconds retrieval of archived data—also available as a new access tier in Amazon"
+    publishedDateTime: 2021-11-30T23:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24373445/aws-announces-four-new-storage-services-and-capabilities"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24373445"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24373445"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "No-Code Machine Learning Services for AWS"
     excerpt: "Amazon has today announced Amazon SageMaker Canvas, a new machine learning service. The target audience here isn’t high-tech data scientists and engineers, but rather anyone working in a company with access to IT resources."
     publishedDateTime: 2021-11-30T20:20:00Z
@@ -66,6 +89,6 @@ related:
         height: 600
         isCached: true
 
-secured: "rQllX0dW1ZMnKeORKoBqZVwZ1a9cQUIbmtSqQFRalnw/41PSFK6woAW7CaPUeV+2Mv8pIsVnArCI6Yaeou8zIuubW3TElE8/pOUifuedZIzBxK31k1uKaCySPLVdQFXyC6OHMWPVCVphWwFd17893qq6Cx31fAEqm/or+Fpq75Cl0R66sVWPxzeDgWqW4TO8SjvZ5+gEjYtA297t0L1iSmUQKrwno+aMtDY3dvFohN3DkXFmO/MiW6dHPPmBJ0DHyrd2QxMu5aZjAZdqQCVEashJn+qxjvnknbagvz3Zbzlyh+Dh+/4QzLEGYZePqjDGHJrVlwg+g3P0Xr4M+yemuhzUJGtrHC7FrEoO8/wbKpQ=;I5ZLOsmQ3GG5amv5FJKngg=="
+secured: "jNtZRMYS8DI+op3YlEzo21joJIQOzd1IsJDDYZ3Bdxzo84Dcz+AMu90M01A6xB3Tg//KGrTanhfVRe7O2rCKRGzzxx/Ji18kC9FrrV5FpTbULxrH9Tf8DhBDNA3ELaCEIsWXyqD94+aSUV7rt7PuEdLkUTVJWbV3e4inaSeEhGCJG/2q84pfwbnaMkJxepRl8uKwU4RT2dnlPoQM+UqC70YRMupHZ1i8G4dcNO8EX/91P7hwMz1RmtsmTVPhGNDhgOL2IRsNCtU/0aOPfuu9ayXFaN8mQr3VMdTkjcsniVOtHFbe9i+WbtFdrhOcpoWwcUY84GQhVuQPtcjN8d3DITgmAXCg2np6ffzVb8lwJBY=;EQUqrTTVMSN+EN1VBEI7ZQ=="
 ---
 
