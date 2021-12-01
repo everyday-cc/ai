@@ -104,6 +104,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "AWS Announces New Serverless Options for Three Analytics Services"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
+    publishedDateTime: 2021-11-30T17:41:00Z
+    webUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 41
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
+        width: 320
+        height: 300
+        isCached: true
   - title: "Astadia Joins the AWS Mainframe Modernization Service"
     excerpt: "Astadia joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions in migrating mainframes to AWS."
     publishedDateTime: 2021-12-01T20:31:00Z
@@ -113,15 +127,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
-  - title: "AWS Announces New Serverless Options for Three Analytics Services"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
-    publishedDateTime: 2021-11-30T22:40:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211130005973/en/AWS-Announces-New-Serverless-Options-for-Three-Analytics-Services"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "0bgMVoqZ8QpWPxmc1xVRkhnreHMxbJC77pd57XmHbE43w/EIFcPSvlrxixIt5hJ6amOcUM8cxChjBkjCBGjr0pMfeDTapaJ6HraZs/Yz2vfI5fV+OYcrci4fy9Q0kZ+Llko60uwpr0Tb2P4IrVzBYu3CQ5J2qW+CO7i3Bo6apZxDkMDukvBl5GLRiAGm7LtfYaRMSfrsStnnchZ8ISsnbmRokmczyERJ0AWY9402wTcvn/Hxz9j/hxY3GCor2GZ/jSz9Mht+MROZ1SOrNsw+Kv66a4KNCkfFFZL0capt8GA01OpVbjWSxaVJBgn5RUvu7JV+1CvOGXXKyzgjy/Nr55YkNY9h+rAAL0MNIsR3CAU=;mK5pq9bcHSMbb2OW/1/xlA=="
 ---

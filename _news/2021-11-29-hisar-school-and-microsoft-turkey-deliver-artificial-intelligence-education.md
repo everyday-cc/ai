@@ -7,8 +7,8 @@ originalUrl: "https://www.technologyrecord.com/Article/hisar-school-and-microsof
 webUrl: "https://www.technologyrecord.com/Article/hisar-school-and-microsoft-turkey-deliver-artificial-intelligence-education-127299"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: technologyrecord.com
@@ -26,6 +26,47 @@ images:
     isCached: true
 
 related:
+  - title: "Mindtree achieves AI and Machine Learning on Microsoft Azure advanced specialization"
+    excerpt: "Mindtree announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partners deep knowledge, extensive experience and proven success in enabling customer adoption of AI and implementing Azure solutions for machine learning life cycle and AI-powered apps."
+    publishedDateTime: 2021-12-01T21:37:00Z
+    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120100516_1.html"
+    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120100516_1.html"
+    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120100516_1.html"
+    type: article
+    provider:
+      name: India Infoline
+      domain: indiainfoline.com
+    quality: 99
+    images:
+      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+        width: 350
+        height: 233
+        isCached: true
+  - title: "Healthcare Artificial Intelligence Market Boosting the Growth Worldwide | IBM,Microsoft, Medtronic, AiCure"
+    excerpt: "The latest study released on the Global Healthcare Artificial Intelligence Market by AMA Research evaluates market"
+    publishedDateTime: 2021-12-01T14:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-boosting-the-growth-worldwide-ibmmicrosoft-medtronic-aicure-2021-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 98
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Mindtree achieves AI and Machine Learning on Microsoft Azure advanced specialization"
+    excerpt: "Mindtree announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner's deep knowledge, extensive experience and proven success in enabling customer adoption of AI and implementing Azure solutions for machine learning life cycle and AI-powered apps."
+    publishedDateTime: 2021-12-01T12:46:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 79
   - title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
     publishedDateTime: 2021-12-01T14:00:00Z

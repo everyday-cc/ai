@@ -7,7 +7,7 @@ originalUrl: "https://www.qsrmagazine.com/news/7-eleven-tests-self-driving-deliv
 webUrl: "https://www.qsrmagazine.com/news/7-eleven-tests-self-driving-delivery-cars-california"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 446
     isCached: true
 
-secured: "T13w4rSQn+gDfpmtr4Yqoll6KqpRomU3A0jAE54U1fEB9eFkxVH7RxJUDRQZBCSDX+FBdf+FW2EvtKyzXsRUvxfcgmhlzquBrLDXBxHIkC3NiO/ZcrqOLk/EzYanrm7xeW89H618M9mQol4STpQc5J857hes8wDRgG1uvisYpmhz/Y4UwGH70qvRgmFi/smu+G59QSndPycbKwn8cIAWLOqFPiOWYNrfw003md4hNQKe8R8Q5lkXLj69kM0m3uLRcUDTWfNC2MW/6iWrb+z9bxBpekzLGit2oCMZRhwTyBmK+SQVZTw6+AYfQWC0AdowarADrBko9m48hcqzPLIouiT8IW9yc3f7cqV+Ju/43hE=;sBEJyppm9D3l1TUrlL854A=="
+related:
+  - title: "7-Eleven to pilot delivery via robotics-powered vehicles"
+    excerpt: "Convenience store giant 7-Eleven plans to test online order delivery in California using Nuro autonomous vehicles. Irving, Texas-based 7-Eleven said Wednesday said the pilot in Mountain View, Calif.,"
+    publishedDateTime: 2021-12-01T19:40:00Z
+    webUrl: "https://www.supermarketnews.com/online-retail/7-eleven-pilot-delivery-robotics-powered-vehicles"
+    type: article
+    provider:
+      name: Supermarket News
+      domain: supermarketnews.com
+    quality: 54
+    images:
+      - url: "https://www.supermarketnews.com/sites/supermarketnews.com/files/7Eleven-Nuro%20autonomous%20vehicle%20delivery.jpg"
+        width: 770
+        height: 400
+        isCached: true
+
+secured: "fEpcstjmf3dyuZR6nXQWHTi8N/IWEmZTCkaCdzYUzmSn/U6f2uU+L5LlrO2CdbijsQT18A6Z1Fz58JtrMG+MD4QDrGfyyzGvMPL0jY0uBceYaZphUbNJBaKPEq99ormte7ToGrjeydE8as4OxwVsLBZlHjx3UmAWO4HKt2BNeoKSPGRDoGOjKssOJUj08PAVrPF28a/DU1HGcTaRjVxhXXpmx+fgzVknmYhRJog4EHX9KVmyky2GSWXMMOiGhXdZJFwbfuJWreFOr0kEEt5cYMno8XsIh7g10WK8EJUyHv2TMxOCnIqR325G19ZEZSrVlLrEpmunFn9SVuBthrHdMF+gTbuwauaVK8Oyc0oJtY+EJwsbvsaoUhfH/fcgRoTKoFWmOf0kfzuKUq69zyZPLBZV0WT/VJ6HXORnQRkdSrYKQgROggR8jOmzpNVunvXqJcvrmSyqWDt7O7NtotJ4IX9HFpyHsdZgquteN2grzZFzRatog4GJ1DQKNo6l1Ry/MUU+ScGTcuyhDwV7QqYwXw==;ROQNZ/tqR+N1Ghq9rD3NUA=="
 ---
 

@@ -24,6 +24,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "IWIL India in partnership with Tech SuperGirl and AWS ID & E brings India's biggest startup acceleration program - 'TechXelerate'"
+    excerpt: "IWIL India, in partnership with Amazon ID & E and Tech SuperGirl has launched one of the nation's largest program, TechXelerate to accelerate women into tech and entrepreneurship in India. The outreach of this program will be with 20 incubating partners such as Amazon ID & E,"
+    publishedDateTime: 2021-12-01T22:48:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20211201/3865321.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
+
 secured: "DbAyigVTq5emTPthyA2eASn2btLrQV1AiceBY0sj4XdYz3C9xK8lG1K0xAuUiPTa0KMwH1DgpeC40lpL0GtoLDPZd4WHkiTt5z4R6PedgBUOhGE/vbWg+vwNDWS6g5RP2Gh6W2mz7Kg4FgvtvYHjxmeGTzUHrcBNodcgSEbB24ff+/KCzjQCJawYwiMbvIiz4zHGqL4LaShQAckKSzF/PVYPtpRQn3ubDkGI1VkFNSHoFJdYpA1HNjbzd42/h0Qn+cVLdNB1Khbnwu0MTsuESey0d3zFdMy3mKHGfdBTrbg3xzUaGy6uIJ9Infr8rYe4ClVuxSOIigf/soXXCLwB5/NqaXwDfclbtfsbNZdxyg4=;/xb4AfU0SEqMF3JdAkapEQ=="
 ---
 

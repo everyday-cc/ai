@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/new-chest-imaging-database-assists-ai-in-th
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://cdn.openpr.com/U/b/Ub30852857_g.jpg"
         width: 800
         height: 371
-        isCached: true
-  - title: "How artificial intelligence can fight Long COVID"
-    excerpt: "Clinicians pivoted their AI efforts to engage in the battle against the COVID-19 pandemic. How can it help those with persistent symptoms - \"long COVID\"?"
-    publishedDateTime: 2021-12-01T12:35:00Z
-    webUrl: "https://dataconomy.com/2021/12/how-artificial-intelligence-long-covid/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 39
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/12/how-artificial-intelligence-fight-long-covid.jpg"
-        width: 1920
-        height: 1280
         isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size, Key Players, Demands, Trend, Covid-19 Impact Analysis and Forecasts 2021-2025"
     excerpt: "The global AI in healthcare market is forecasted to record a value of US 22 68 billion in 2025 progressing at a CAGR of 35 59 for the duration spanning 2021 2025 The factors such as rising utilization of robots"

@@ -15,9 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
 
 related:
   - title: "Machine learning to make sign language more accessible"
@@ -37,6 +37,6 @@ related:
         height: 634
         isCached: true
 
-secured: "96bUHcWo0Q7YmAP5EzdJdoKsQ7X81VqG42yCqgGwgGIeRj588aTBH/uEu8NudiykCDHjFzJnlEXuneN2lZ8YfgDlDoVoCMYlqthuziI01tpfw1gB86hv5BmgFL5vBtwNS4gKRKc1d7Fi1Lv995il3rP6IdvS4yxSgohjlLa79we/xVvCBhSHgtkfurkgg/kVepmuWgVmJAebd/sexNJyK1Qr8PlCp8dXXvDBqu9UXWEGvCBXsUAWPCHS/t+/nPGh0aKYQUgyOBg3rROJFRQ/XFnxhEV7xbH1MiNq9rGoCdPL5SeNJNRayvuZtJGdh3vkJw1YR322kEy355dr42a40hVmAwRlTm+7NPI/nvbnuIc=;gBrselfXPC9XajUe5CmQYg=="
+secured: "4DFSrEiLotrGtByBgt3JUGY2HKzU8KBYFYCX+4ewEDdQnCaSbqT/PJJ/+uiQaw+pFwY1Kd9xKrAWYTTzZHZddDVaXqZv0Sg3AuzsnRUUHMQhQInhGaz+CvadiCAlTWu2n+4JxXYLhTtrKTS0XDy/2P9EY+Bce9TNQt53Eu7JjXBqWx+jNdOvwEAVYoWCvMsQs7DaQEgbah8WmwzBxNnuAlQ+9WastOKmgJDgNmVr+wsZygpZsxpwwSDVgGFmOpupEYakCaSsb/dd6jEoMTK/NfB6DKMKvi1dVo6OKI0JbWCN1H+TCatlMhLk5XJsdXafNU22R4U/R5mMtkSTQ/AKpnwJ054+VfibgLFMZMrn1Dk=;tx27Kb3oIPZHP29OYIqrfQ=="
 ---
 

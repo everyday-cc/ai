@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-
 ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a7aedec9cd7a21719f5183%2F0x0.jpg"
@@ -30,6 +31,6 @@ images:
     height: 637
     isCached: true
 
-secured: "NjXJwZAZ+G5wsCqIjmjO0G3hXHVEZuyk0ZoPwJZNMeKEbMI3YBOh/rPo5PK0wYWZDoCrdVFW2IQE0KCliJfEKPLW4uDVy2lA/UPNZYhMHVRQ8bDFhkq9vTY2cltVL7veRNquV5hfSZIyJxY+K5xv/JeYJ7hpwaXWRiTftSFHBKAlCohqruXbi9ibBVIdjRtYIklzriu3IkVmviyVHuARXe78FL6XRsunsFxf9miivAkuBjYPROp2dBVKG2TtqsgaHh8nr5xQFoSq3JtJyPVoeSSkoevDc7sUvgmf41Wu8BT6o0COnuadDFPx3gQ5Yi3qdFF/Idml9p9cG0ye4HiwU8tuWUMXvEGJvq0xjpuwv1A=;NcyvSWp2lk9L/LEHibz1xw=="
+secured: "SYk/GiZnt0BMzwa12bgWD4MRXtDnlN56jAATJw1pEVEnA8E9ZEmj0VYmU1Tt9wW1f3wdLni8Yqul57v3u34LcGkQEU8OOLg3Wu7K2UWb1rru/AgJD1a/rO8/UO2V5pEgZnrkkL+69f7m5IjJ87Fz9SB1Jvx7HFwy4IRKliIv6+dSdzagXvgzjB6hamPOQSk4N1k+dyyOSQAWJ04fFL/rYCIACLcr1K2BW/m5cAJhHHbXlL03meFdhJ4j/+DPvYH9uzL90Pp7+ERq1NibVWxckvbvYYfQ6FOIodezTmWNsdrd5WBHeQ6UO76ba37kEhbO0Y1t/HZbRrZjsEJCILqRCOyth4+jst7lDwAtbOlFQTL3jY3xNzI9idpH0+1nK/Yjp1VvUKbJ4r4BPGEvessPHMT35BlxGqXIEQqjUdfkmeFJW+m6ep7w7JyR2p1G2lJ81QKF5AC6NIlQawroMIx+C4qsrO3xM1Ywr+eYZkoQkxtQa2I6fpxcyrsmYv/AwEti7jQXs6BB1eU4vryQ7XCofw==;BMv6mt65jZhchhl7Nltc5Q=="
 ---
 

@@ -54,20 +54,6 @@ related:
         width: 800
         height: 371
         isCached: true
-  - title: "How artificial intelligence can fight Long COVID"
-    excerpt: "Clinicians pivoted their AI efforts to engage in the battle against the COVID-19 pandemic. How can it help those with persistent symptoms - \"long COVID\"?"
-    publishedDateTime: 2021-12-01T12:35:00Z
-    webUrl: "https://dataconomy.com/2021/12/how-artificial-intelligence-long-covid/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 39
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/12/how-artificial-intelligence-fight-long-covid.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "tnd46IvHBPyHe8Moo9bzFWuSgXBFVAiFa/IxZWLfnvGU5Exot8ypqQSVijoLA1+krhv7PBIo+677fq5u2vVDZxf6EnH5NLL2gj4aS9ihaKslTHKD+/swJ0Sc0QfGcMN9SYdqu0kRyyAbSoJ1E4BfR8rxtF4TCrXSkt5+7HkAuFWPB+hbVARGztKsa/z8vu+372Ny7bBEYkkacaaNHa1+ESYtvbSMicLOOZ5yxwlk7wgj4Erv11gVHPnB54IfyPxKyF5jdENOHI9Vbq1INejV5T/QWYNrkMOq/Aq0d3dc064/YWrv0YWcTThKlcH3rDXbm9NPRsMk0OVOt6EpyROkHW+CpVxujf1rtIsii4ztsBw=;grMlGeDDcxPBQYjhKjOKLg=="
 ---

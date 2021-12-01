@@ -57,6 +57,20 @@ related:
         width: 686
         height: 392
         isCached: true
+  - title: "Artificial Intelligence and Networks Advanced Naval Technology Exercise"
+    excerpt: "BigBear.ai announced on Wednesday that the company placed first in the Artificial Intelligence and Networks Advanced Naval Technology Exercise (“AINetANTX”) Artificial Intelligence (“AI”) Prize Challenge hosted by the Naval Information Warfare Systems Command ExecutiveGov,"
+    publishedDateTime: 2021-12-01T21:37:00Z
+    webUrl: "https://www.executivegov.com/tag/artificial-intelligence-and-networks-advanced-naval-technology-exercise/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 37
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2021/12/01/3f/d2/ef/eb/26/63/c0/94/00P4y000019l9SKEAY-480x384.png"
+        width: 480
+        height: 384
+        isCached: true
 
 secured: "OPmft4IXJGZl09r3KzTWilPvHoag+VJKLttCKIRkRbRCxxQLvdl5lcLUnC799QWbv+xh2eAL6cDShj0zArdaLNRhNvK7DXTzCySrsLsSczBtFQKCnpMjZ1fjwLgOUbcbFKndocvDIbw1ORDFT3KTYePJJM5CHsjttQ43/XAHy88cVZIrPG44uchIVfpzFPB9Ql1awyWo9+g+1ct7ASEGGm2X3IQ0rGr26HxFE4nsPowwfq9PA8iHah89/wkiL1BK0t5BG0iFoJJwwAy5bKhKoCFP+gdgD+NRqdhk7UP/WcsU1UG8zJtDcG21DF4Px7DR6Yji5w0UdHxstXwhmACqgUvV/WOIuX4gYYS1qdWYkmxmgguTAE4qX/Kf7AXya21jIv2sjY71spSTtk2RvdKLD0W4hqGg9DgdyP1glE91j9/Blzta1S23oJDnAWIoQEqgMkecdEW9HmVUsvVh5SX7+Gd2VEOLAysCOEpgXILDRm3o/gtUHsadRa5eZTVjjtsNgC7SQyFZZ4/HurizFvVDqg==;Frn777PqHpZxixONU77r3A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-advance-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/64c1c260-e375-4d60-b4ce-0d1ad3f692ba/Rendition/thumbnail/Content/Public"
         width: 300
         height: 239
+        isCached: true
+  - title: "Artificial Intelligence and Networks Advanced Naval Technology Exercise"
+    excerpt: "BigBear.ai announced on Wednesday that the company placed first in the Artificial Intelligence and Networks Advanced Naval Technology Exercise (“AINetANTX”) Artificial Intelligence (“AI”) Prize Challenge hosted by the Naval Information Warfare Systems Command ExecutiveGov,"
+    publishedDateTime: 2021-12-01T21:37:00Z
+    webUrl: "https://www.executivegov.com/tag/artificial-intelligence-and-networks-advanced-naval-technology-exercise/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 37
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2021/12/01/3f/d2/ef/eb/26/63/c0/94/00P4y000019l9SKEAY-480x384.png"
+        width: 480
+        height: 384
         isCached: true
 
 secured: "77xOtWWXTSvVcnO5sZEApbvk8S7ZTcCLza04uoe4EP9aPFIl5d/F5d2T10CymbOAQOyEimOdOJgU7IN/IxCFS30uiA6aSVBcDeGOUV/Dm+vLHOGcv9fvIdJjweE++ktAvFjzVKfiQNrYvFuz2yrx6pL+U+nqWo2lzFJ2FykvAauhNpvgPyyaoToRx8R0nbruGqmve3Jtm3WRgojXMhDPljvwB/hLObbvn4gaReAMP7ytKwcskQoF0hO6lZO8Px/p4/tIcQkOMGGHHr/E3Fd124+ZdfqehRO1+j1V5/X8w7z2PCsQr/veWzRk5VuFMydCPjAI1s7WSkMPhNLhKfOyrNcBGlE4rlZUhcbT/pdxBMf+URiVPr7fs+9CdWZ/I30xrdLGgggHd2w+389kRFYIzN0+qJaV4KNPX/jTLfYbjPuFpfu6cLcFtW5mUPrhXdBtrxjH+vTKrEzOMLf7wmqm8NEHtv5ueL/su5V8PKXAS2U3O75MeUImLdw07yAign6+oHuvB8UeRDFNfEUGzDaf5g==;dOaHP3Kj9eFZ+k7JidO4DA=="

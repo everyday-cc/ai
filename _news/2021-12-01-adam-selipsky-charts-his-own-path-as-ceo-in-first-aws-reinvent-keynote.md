@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meeting expectations a key focus for AWS in machine learning/AI keynote at re:Invent"
+    excerpt: "Invent 2021 kicked off with a two-hour presentation on the company’s initiatives in machine learning and artificial intelligence. In typical style for the public cloud giant, the approach taken by presenting executives was to level-set customer expectations and then show precisely how Amazon Web Services Inc."
+    publishedDateTime: 2021-12-01T22:27:00Z
+    webUrl: "https://siliconangle.com/2021/12/01/meeting-expectations-key-focus-aws-machine-learning-ai-keynote-reinvent-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 64
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/AWS-reInvent-2021-Keynote-Day-3.jpg"
+        width: 833
+        height: 482
+        isCached: true
   - title: "AWS re:Invent 2021: Keynote live - heroes bowed, clouds endowed & crowds allowed"
     excerpt: "Invent 2021 is big… but actually it’s not, this event has about a third of its normal number of attendees with somewhere around 20,000 people on-site, which (in the continuing Covid-19 era) still feels very crowded."
     publishedDateTime: 2021-11-30T13:22:00Z

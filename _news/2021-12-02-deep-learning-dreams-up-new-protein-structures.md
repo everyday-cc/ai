@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Deep learning dreams up new protein structures"
-excerpt: "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools. In a report in Nature, researchers describe the development of a neural network that \"hallucinates\" proteins with new,"
-publishedDateTime: 2021-12-01T16:00:00Z
-originalUrl: "https://phys.org/news/2021-12-deep-protein.html"
-webUrl: "https://phys.org/news/2021-12-deep-protein.html"
-ampWebUrl: "https://phys.org/news/2021-12-deep-protein.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-deep-protein.amp"
+excerpt: "Using artificial intelligence and deep learning, researchers have developed a neural network that 'hallucinates' the structures of new protein molecules. The scientists made up completely random protein sequences and introduced mutations into them until the neural network predicted they would fold into stable structures."
+publishedDateTime: 2021-12-01T21:36:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/12/211201111930.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/12/211201111930.htm"
 type: article
-quality: 59
-heat: 59
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-dreams-u.jpg"
-    width: 1920
-    height: 1080
-    isCached: true
-
-secured: "iqYw4pEdFdJFjMqWH9M1MLBMEe0G/WkFzpSSVh3idpgl7NslZtsfd/XkeKqPOe3Elo1CHUW20mzjNOAWDx166ulqA5cicITRqzCMowMb+NL089nX/cYn5BTzNv+VkF5eQvljb0yM7unl8aDz7kQ40YL8tBq0TmeFAc/MEFCT1Yl3zKP9ut59OzqUHPR7xnQP3YFukWijqQ4+Cu1G8ConAFPOR/DgTM8Uc5V/jqZsrX9FNLnPJv4rc3Q9zvye8fMnxqqNUkEp+5UajKTFd4k6JmxolKKj8TwJuobSyDTq1+5HsZ06K7dPl1kAHTz0vW8M2HCf/ZuGXDdJD0Kkb/UjBGAwEe05rugrbzXhzZQ1ZbKfMnYd+N5NI+Pygx/fwJuO9sWP/f7WEQ0TlLy2D4iUdZYQq6Sy4ROrvVP5zI/VmA0FarScHdf4Yq7ZRLMLV1G1Q/Vh+wltvfdp244lJ7XTkdBTlqBHQXvxK5mPyEIA0y8WU8UiqGdOWnZKFiW5OnPDTkSbboCUy8sfeFTIRsRZmQ==;GkqDIlhuM5C9kg5KzT0s3g=="
+secured: "SsJi1HNb4UV5ytTY8X0ZTEHKalcb3/MsJqAPwW9u66JD5TZsdsJxq2/LumJkokZQ8Qn+DUxW2sABBxvKuHcA3GNXS+YxD3Au2tG8rXnyk2b7USyfja/1o0BK/L6CFrTZWMP54iml34dpX6nq/LehEg+K/688EFPFadJiwDPzyC4A7JaYzefQXbZtZ1pYEG0gqB1a9Hb36inYWBPXyuYLi27XZluOmq6ePPx1cDFQfBSVnREohglUNJaj+JFqLFnrHp2ev9LZcbnY5U5O3RS3cUPPZjVpmr5/2OnOTKErN/2jSHQlPTn3ey+tMzB3Pty2mOUmO+U85DLebHsDkb/Pi0cTbnYQgnTRfWRWTsbWXjA=;qtM1H/Q91W/eENOHg+Kz4A=="
 ---
 

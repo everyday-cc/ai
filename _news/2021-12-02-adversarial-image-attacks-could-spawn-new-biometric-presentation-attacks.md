@@ -67,7 +67,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SAFR face biometrics deployed for access control at Japanese construction sites"
+    excerpt: "Thanks to SAFR biometrics, the system automatically registers workers’ attendance and departure while also checking body temperatures for fever symptoms."
+    publishedDateTime: 2021-12-01T22:56:00Z
+    webUrl: "https://www.biometricupdate.com/202112/safr-face-biometrics-deployed-for-access-control-at-japanese-construction-sites"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/01175152/construction-site-japan.jpg"
+        width: 1024
+        height: 512
+        isCached: true
 
-secured: "Ci9ZQcx5QI6wMOuiDxajxMcM2GTOgOIydWm1rYXiaIy2S3B8GslwczNB6+X7af76wigsfMQpIxKC33/rXkht+gyN2zqTHrOGbevs/jaScmJOz8T87y4wCEzSFHwR686tsOom/KKxoHPLO78M0BKBPoWwIdOmUXB1+Siba3Y63j9NB+G9+h4tmIo3lCJwh55+6UrDo5YZ2cC85Z0Ye7CwK/O6Va7JD197Fxg0+kLHzf7QzNwrJhJce4H8pxgjwOrbJUVLWMeWML13rdRiSnC41jCtuDCyojnEM9YxFY1f2SNbimKYlnonnlVmNMIBtR7KSzqNTGXM8tYqWPau+DqxQofzKtn9Cf2L52rQi+kYfC8=;Elx22jN5cTYeIRrcVuGTDw=="
+secured: "EMhu1D51upEuHVR8OoKHCGQfJbJ5hnEpMZbghBtVYSzYf8Aqrny7QxqvzuRmAP7Czl5yRWRW1PM0zjNoVpiRsqYJW7gu1bHJ3/x0RW42SgNwrn9uxmGSmmj9TRGtZ/Oy4ntubf/WFKS77Rok9xL/tPtsfrViGmIcERzYuD+gXxBGlcHpXlLtp5PBaBFdclQ7iqBD8bPcrco5kvXCwCd/OvQZpW1u/ILmf4yShWseIejGaeYt64pjNWk60E36Wfl4C4cDA6bKUWctUL2vRKsCjXYvRPlDtciNiVYch9sbR2DL2Fukul0ruRHYROCNxquBjbBqHIQ5UQqK87CMyyHPLhCEV4Kd97L+ebjwgn1iAUhrj4keFkuZ04/swmEmcJouA/qMpoN/Ex12R0IqpV1C9W9htf1v6iscEcZqK2HnfWWb2ZryOsdv8MZ4wHtT9NWp7vet7JrfJKnS59rGUEGryQParPx1BGN3oKepTURHNIdW4zzduRk0KlloChCNb0iLIxVY85yDNOhnDJBiP3MS5g==;kIYxUs5wmgJNd6HU7iZTgQ=="
 ---
 

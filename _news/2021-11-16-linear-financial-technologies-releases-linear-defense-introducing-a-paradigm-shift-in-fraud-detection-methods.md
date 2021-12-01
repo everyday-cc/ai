@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Linear Financial Technologies Releases Linear Defense™, Introducing A Paradigm Shift in Fraud Detection Methods"
-excerpt: "Linear Financial Technologies, the market leader in digital account origination technology and insights for financial institutions, B2B vendors, and SMB service providers, today announced the release of Linear DefenseTM."
-publishedDateTime: 2021-11-16T15:24:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-6f472ae1a0fa998cf8a969ef7bcf42d3"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-6f472ae1a0fa998cf8a969ef7bcf42d3"
+excerpt: "NEW YORK, Nov. 16, 2021 /PRNewswire/ -- Linear Financial Technologies ... and leverages some of the most advanced techniques in machine learning to help identify fraudulent applications and ..."
+publishedDateTime: 2021-11-16T14:04:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/linear-financial-technologies-releases-linear-defense-introducing-a-paradigm-shift-in-fraud-detection-methods-301424312.html"
+webUrl: "https://www.prnewswire.com/news-releases/linear-financial-technologies-releases-linear-defense-introducing-a-paradigm-shift-in-fraud-detection-methods-301424312.html"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1688412/LinearFT_Logo_Logo_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
     isCached: true
 
-secured: "WRKEZ80wU1X64Q0XXqsMHVcDWgdStfiWzDyzvJIb0ePN5ugNpzeAiBwjUXfTS866n9G7rNOgKhVubAarXmtjtAQ+uacBoWGe+Y0rL2nvEUdo5KbSqLquw2x1e5ZoIfHDnXtHxcOSFbHzVdtgUk2KJUnBPW8LN5JN8Q7Mqgf6kw49/C8L5XUeMTUnOmc9sTkVYxFOpa2i790XyUviQCunGRu+bqZVRUvJIbhr3yJ4m9y+XuMgZHcobumXssicayqA/DXyZ6ZbKfue6p31g27bvyVXrIwAMeuojWuV7uf3690uM1c2DgZgO7GxBvI+XmQDVRTEufVKsKAWg9Q46zKiNm+idgmkIeaXdFbTJzqaGig=;2Z7lTRFFSn6gwipXc+oM8w=="
+secured: "4YeAEwyJBnKybH8LfIKYb/ZCqHcnotmEsGNqv0IYPeCD04oQ7fXlNWXrcma63uK27RLwdiwcIDgvJlUmeCM5c4iM8UloV2VNkjsxv2mu1H/oJgMGcFWuEVTgT56JG+XDTEBoZK3Ook9bZqLds8mD9o5zoJXIFrd7BuRLi5bDPmF/rCz+V27qwzlR1dNXm0O933UztrS9KJnJySMjHUiVPa4XyM1nKTU1nChBtGA/WitR+61pCb4Jq0AP+kGf5nPWhFB32siX34HS97dA5yU3QsMEPCmFqLSSi9iIjBf1zHLAPLMoMZ18/8DG0JGkIsZzsyuM/fduur1xWTIOEC3lmg850aXnKhsf8hm8DKuB5Vc=;dh1L/HPRVkmAbV9HoHJvEQ=="
 ---
 

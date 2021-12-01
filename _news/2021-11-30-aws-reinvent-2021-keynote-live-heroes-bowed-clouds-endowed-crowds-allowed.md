@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-reInven
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/AWS-reInvent-2021-Keynote-live-heroes-bowed-clouds-endowed-crowds-allowed?amp=1"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Computer Weekly
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meeting expectations a key focus for AWS in machine learning/AI keynote at re:Invent"
+    excerpt: "Invent 2021 kicked off with a two-hour presentation on the company’s initiatives in machine learning and artificial intelligence. In typical style for the public cloud giant, the approach taken by presenting executives was to level-set customer expectations and then show precisely how Amazon Web Services Inc."
+    publishedDateTime: 2021-12-01T22:27:00Z
+    webUrl: "https://siliconangle.com/2021/12/01/meeting-expectations-key-focus-aws-machine-learning-ai-keynote-reinvent-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 64
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/AWS-reInvent-2021-Keynote-Day-3.jpg"
+        width: 833
+        height: 482
+        isCached: true
   - title: "Adam Selipsky charts his own path as CEO in first AWS re:Invent keynote"
     excerpt: "Selipsky announced general availability for Amazon SageMaker Canvas, a no-code solution targeted for an audience with little machine learning experience. “We’re focused on building out all the ..."
     publishedDateTime: 2021-11-30T21:07:00Z

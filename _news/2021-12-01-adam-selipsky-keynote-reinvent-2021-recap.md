@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meeting expectations a key focus for AWS in machine learning/AI keynote at re:Invent"
+    excerpt: "Invent 2021 kicked off with a two-hour presentation on the company’s initiatives in machine learning and artificial intelligence. In typical style for the public cloud giant, the approach taken by presenting executives was to level-set customer expectations and then show precisely how Amazon Web Services Inc."
+    publishedDateTime: 2021-12-01T22:27:00Z
+    webUrl: "https://siliconangle.com/2021/12/01/meeting-expectations-key-focus-aws-machine-learning-ai-keynote-reinvent-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 64
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/AWS-reInvent-2021-Keynote-Day-3.jpg"
+        width: 833
+        height: 482
+        isCached: true
   - title: "AWS re:Invent 2021: Keynote live - heroes bowed, clouds endowed & crowds allowed"
     excerpt: "Invent 2021 is big… but actually it’s not, this event has about a third of its normal number of attendees with somewhere around 20,000 people on-site, which (in the continuing Covid-19 era) still feels very crowded."
     publishedDateTime: 2021-11-30T13:22:00Z
@@ -60,6 +74,6 @@ related:
         height: 2514
         isCached: true
 
-secured: "/4Xuq/dL33U2I0uEgZ4oqCyeBTX8p7NGMWP1FK1aRPz21S+fALL0rpDeLS/A4wNEti3gR3BEy1hP+x6S7rJHMeq7ZU0M1BXpuYLLDLX7ik6cOehPHZ9vINGNtUHse5wnXbXaLfj3n0N/8Cu/xTFp9E0RaIDyDdAg27ISoDKHohHJzvY07fguKOu2K9KaSAeEjD2bKS1lr0wpU2gwalJDSZNasaVGwyAewEXq4UdEy3P14nGf4cdNLcnse/j89Bze+vccXr+pQ6s5a5JzDnUo4e42rvnVbbrKFX3XFCpHUZ6aFUwu1ssJzoB/hu4wu5ADqr5qoKF99MsJPrlv4E0vmrMxWpRXxlroVMOoJbxHfKg=;2EnNebdfjUAHglSRnaHP7g=="
+secured: "ZqfvQENAKbJvhm/QmUJy9Yekh0eo3HbknHit0PuIKyguhpyNJPY/475HztHNxecruEC+kYvcPR6Chg+h0FJmfR/zpOKNflLCwMt3L2McH4StOaIv/TBlGpDr4M3po9nQm/BeB76/w34jaZXE86REZ3MAi5bC/qm9BgvhykRxezgau8BUJHRT8HS4pD6Lm9ZlZp6U2JbYuXSurXBT8s36sWt0G6fg1s/kJ8OGWHzo/LdFzjAFKqXOIfhPme2LQVIiMpG7olN+BCUPHwijK540ho6n8rtVTZqu8S1QAGZmaQklm8Q9DXrPiDVmHUMvXbNfFBwXY68bekU6Rqp4COrXnYwntN0/XfBgKqkmaYtk4kTWeHp3qYTLFMS7Q1pQL1AHGXWvGAaYLLUBHzsVEdrItcOiy3v3Wm15CkKy+HguImfuNT2pE8f6ZDXdNShCyJZ6v2VBGJC2nGO+Bnn+TJf50+4rB4aFBQ6VyTGyuAYOPaei3mij3xcF8/EDD6kej0WUGZB78Rv9AGva1VX52q09sw==;a0e65ikkQfI3Hc2j+lyfpQ=="
 ---
 

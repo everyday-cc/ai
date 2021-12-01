@@ -100,6 +100,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 101
+  - title: "AWS updates SageMaker for faster machine learning deployments"
+    excerpt: "The new tools and capabilities will make it faster and cheaper to label data, train machine learning models, and deploy models for inference."
+    publishedDateTime: 2021-12-01T20:39:00Z
+    webUrl: "https://www.zdnet.com/article/aws-updates-sagemaker-for-faster-machine-learning-deployments/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-updates-sagemaker-for-faster-machine-learning-deployments/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-updates-sagemaker-for-faster-machine-learning-deployments/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
   - title: "Roundup of re:Invent 2021 Amazon SageMaker announcements"
     excerpt: "At re:Invent 2021, AWS announced several new Amazon SageMaker features that make machine learning (ML) accessible to new types of users while continuing to increase performance and reduce cost for data scientists and ML experts. In this post, we provide a summary of these announcements, along with resources"
     publishedDateTime: 2021-12-01T18:35:47Z
@@ -142,6 +153,20 @@ related:
         width: 736
         height: 630
         isCached: true
+  - title: "AWS introduces flurry of new AI tools for Amazon SageMaker"
+    excerpt: "Organizations using Amazon Web Services Inc.’s Amazon SageMaker platform to build artificial intelligence models now have access to a wealth of new features that will make machine learning projects simpler in several ways."
+    publishedDateTime: 2021-12-01T21:49:00Z
+    webUrl: "https://siliconangle.com/2021/12/01/aws-introduces-flurry-new-ai-tools-amazon-sagemaker/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 73
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/amazon.png"
+        width: 933
+        height: 519
+        isCached: true
   - title: "AWS launches SageMaker Canvas to enable no-code AI development"
     excerpt: "Amazon Web Services Inc. expanded its artificial intelligence portfolio at AWS re:Invent today by launching SageMaker Canvas, a tool that enables business users to create machine learning models ..."
     publishedDateTime: 2021-11-30T21:31:00Z
@@ -155,6 +180,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/SageMaker.png"
         width: 930
         height: 520
+        isCached: true
+  - title: "AWS Bolsters SageMaker with New Capabilities"
+    excerpt: "Amazon Web Services unveiled a half-dozen new SageMaker services today at its re:Invent conference in Las Vegas. The cloud giant bolstered its flagship AI"
+    publishedDateTime: 2021-12-01T20:55:00Z
+    webUrl: "https://www.datanami.com/2021/12/01/aws-bolsters-sagemaker-with-new-capabilities/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/SM-Recommender-300x219.png"
+        width: 300
+        height: 219
         isCached: true
   - title: "Qlik Beefs Up Machine Learning Capabilities in Qlik Cloud with Amazon SageMaker"
     excerpt: "Qlik is deepening its partnership with Amazon Web Services (AWS) with the release of an advanced analytics connector for Amazon SageMaker and integration with Amazon SageMaker Autopilot. These integrations increase the breadth of advanced analytics capabilities already available in Qlik Cloud,"
