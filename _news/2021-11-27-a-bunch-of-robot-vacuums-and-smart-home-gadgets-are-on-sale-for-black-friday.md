@@ -45,38 +45,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Best Black Friday Deals: AirPods, Robotic Vacuums & Much More"
-    excerpt: "Save big on smart TVs, Beats headphones, adidas apparel, Instant Pots, air fryers, the season's hottest toys and everything in between."
-    publishedDateTime: 2021-11-26T16:56:00Z
-    webUrl: "https://patch.com/us/dealtown/best-black-friday-2021-deals"
-    ampWebUrl: "https://patch.com/us/dealtown/amp/30147188/best-black-friday-deals-apple-watches-robotic-vacuums-more"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/us/dealtown/amp/30147188/best-black-friday-deals-apple-watches-robotic-vacuums-more"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 74
-    images:
-      - url: "https://patch.com/img/cdn20/users/22872995/20211126/025555/styles/patch_image/public/blackfriday-1200x900-3___26025206316.jpg?width=984"
-        width: 984
-        height: 738
-        isCached: true
-  - title: "The 200+ Best Amazon Black Friday Deals 2021"
-    excerpt: "Amazon's early Black Friday deals are already live for 2021. Shop the best Amazon Black Friday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more."
-    publishedDateTime: 2021-11-26T16:39:00Z
-    webUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021/"
-    ampWebUrl: "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021/amp/"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021/amp/"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 74
-    images:
-      - url: "https://cdn.thewirecutter.com/wp-content/media/2021/11/amazondeals-2048px-3x2-v4.jpg?auto=webp&quality=60&crop=1.91:1&width=1200"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "The best Black Friday deals on robot vacuums: Roomba, Shark, Samsung and more"
     excerpt: "A robot vacuum, or robot vacuum with a mopping feature, can be a game changer for your chores list, especially around the holidays. Luckily, Black Friday is here, and there are plenty of deals on household gadgets to take advantage of."
     publishedDateTime: 2021-11-26T19:38:00Z

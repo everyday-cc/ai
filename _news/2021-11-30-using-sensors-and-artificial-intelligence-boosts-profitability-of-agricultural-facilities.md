@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/936133"
 webUrl: "https://www.eurekalert.org/news-releases/936133"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Using sensors and artificial intelligence boosts profitability of agricultural facilities"
-    excerpt: "According to the Spanish Ministry of Agriculture, Fisheries and Food, the livestock industry accounted for over €20.2 billion of production in the Spanish economy in 2020. Research at the Universitat Oberta de Catalunya (UOC) has confirmed that this figure could significantly improve with the use of new technologies and artificial intelligence,"
-    publishedDateTime: 2021-11-26T15:16:00Z
-    webUrl: "https://phys.org/news/2021-11-sensors-artificial-intelligence-boosts-profitability.html"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 28
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/pigindustry.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "ow/HeO+WS3Uf61dj7MleOwLpbfOMeU5yQqUwhEbxeVp5YC1LxP0pQtIW6Adjao51duFETgVK2ZQ7GwJnS98S+OMsKWv/O6LpRbxdgMH8F+BaeapprVFsZbgQXybiL7ueI37m22hex01k3Tj/pk/Cz03ZfnaadJWNtsJ8QKz7MvguVGbu7GxwHm8LFrGFNE0KhspCo0xFxGJlTh7HgFDk+U+NWmMTHqRSXqrB/3GaNVj44pmq26yMhbY3ljG8HhDmeo9aOep10w2RZzDaMm9mXxCrpbECggmhyw4dRTL9mNawa4i0Ro3LF1ZVHC94RNwwT51cKq7ZQf4FdJnB/uF2Ke0gRp/17YDtk6zly0i9+Ew=;idCj7zI7vhDKsgqHJW2PeQ=="
 ---

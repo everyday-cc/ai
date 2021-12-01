@@ -110,15 +110,6 @@ related:
         width: 591
         height: 591
         isCached: true
-  - title: "UNESCO member states adopt global artificial intelligence ethics"
-    excerpt: "The United Nations Educational, Scientific and Cultural Organization (UNESCO) member states Friday adopted the first global agreement on the ethics of artificial intelligence (AI) that defines the common values and principles needed to ensure the healthy development of the expert system."
-    publishedDateTime: 2021-11-26T16:16:00Z
-    webUrl: "https://www.app.com.pk/global/unesco-member-states-adopt-global-artificial-intelligence-ethics/"
-    type: article
-    provider:
-      name: Associated Press of Pakistan
-      domain: app.com.pk
-    quality: 36
 
 secured: "qnIF9odZHAOHwnsPNK8CRszpvPDpcRvnA4V7dNqCq3hbPIjNuMszTVCMTx/3tsSBJWKN+fxkEDL04pW1D/nASW2sjFu+ZgNvNKnqCUeNWUQ6AvIZJZWyuvWxQr2vJsEwlLEz8wSS1rqH66Al2M9R7N/DHNrXyJBtjyk9TQFFXsBeWW25PpxFlqFoadlKk5Gub8xkRZxWZDI4E0fPVKmluwskBKKNbO2+Jt2EbzTD3njkRJmy+mkrx8cwCX0VWHlXThYDabiVFjmMIubSlXGXBPntYl7cEhlcyRnw0MLqB2MK+dn5ppMceqs0B7WrGa05Byfd6HHJnEfbuMo6gtrPw+c6ZisrhFJZh6GUK2ogrS8=;6k/Jdlwgbt46UmzOE6Ll2Q=="
 ---

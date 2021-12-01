@@ -100,21 +100,21 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Qualcomm, Google Cloud collaborate to create next-gen mobile AI"
-    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions."
-    publishedDateTime: 2021-12-01T06:23:00Z
-    webUrl: "https://www.sify.com/finance/qualcomm-google-cloud-collaborate-to-create-next-gen-mobile-ai-news-technology-vmbgwFiafjdje.html"
-    ampWebUrl: "https://www.sify.com/finance/qualcomm-google-cloud-collaborate-to-create-next-gen-mobile-ai-news-technology-vmbgwFiafjdje.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/qualcomm-google-cloud-collaborate-to-create-next-gen-mobile-ai-news-technology-vmbgwFiafjdje.html"
+  - title: "Qualcomm and Google are partnering to provide a better AI experience on smartphones"
+    excerpt: "Google and Qualcomm plan to accelerate neural network development and differentiation for Snapdragon mobile, ACPC, and XR platforms, Snapdragon Ride Platform, and Qualcomm Technologies’ IoT platforms"
+    publishedDateTime: 2021-12-01T07:41:00Z
+    webUrl: "https://www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/"
+    ampWebUrl: "https://www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/amp/"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 59
+      name: BGR
+      domain: www.bgr.in
+    quality: 53
     images:
-      - url: "https://www.sify.com/uploads/qualcomm_ians_umxhlQhhdgaaj.jpeg"
-        width: 680
-        height: 359
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/11/google.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Qualcomm Snapdragon 8 Gen 1 chip will power flagship phones from OnePlus and Xiaomi"
     excerpt: "The Qualcomm Snapdragon 8 Gen 1 will power most top-end Android smartphones coming later this year and early next year."
@@ -131,6 +131,20 @@ related:
       - url: "https://images.indianexpress.com/2021/11/Snapdragon.jpg"
         width: 1200
         height: 667
+        isCached: true
+  - title: "Qualcomm, Google Cloud collaborate to create next-gen mobile AI"
+    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
+    publishedDateTime: 2021-12-01T05:07:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=899494"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 39
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
+        width: 280
+        height: 250
         isCached: true
   - title: "Qualcomm, Google Cloud join hands to create Next-Gen Mobile AI"
     excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"

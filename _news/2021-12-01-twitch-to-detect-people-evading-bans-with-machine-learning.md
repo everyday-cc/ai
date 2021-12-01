@@ -1,0 +1,47 @@
+---
+category: news
+title: "Twitch to Detect People Evading Bans with Machine Learning"
+excerpt: "Twitch is advancing its efforts to reduce bullying with a new tool that makes use of machine learning to detect people who might be trying to evade bans. Suspicious user detection will be"
+publishedDateTime: 2021-12-01T07:50:00Z
+originalUrl: "https://www.thehansindia.com/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724"
+webUrl: "https://www.thehansindia.com/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724"
+ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724"
+cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724"
+type: article
+quality: 59
+heat: -1
+published: false
+
+provider:
+  name: The Hans India
+  domain: thehansindia.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://assets.thehansindia.com/h-upload/2021/12/01/1124326-twitch.jpg"
+    width: 1000
+    height: 600
+    isCached: true
+
+related:
+  - title: "Twitch will use machine learning to catch ban-dodging trolls"
+    excerpt: "Twitch is introducing a new machine learning feature to help streamers protect their channels from people who may be attempting to avoid bans.."
+    publishedDateTime: 2021-12-01T04:04:00Z
+    webUrl: "https://www.engadget.com/twitch-suspicious-user-detection-announcement-000510859.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 69
+    images:
+      - url: "https://s.yimg.com/os/creatr-images/2019-10/cf1228f0-eb47-11e9-b7bf-ed13b8e4c860"
+        width: 5076
+        height: 3384
+        isCached: true
+
+secured: "BwdYEpU51N0BbHEckEtS5foB9Pr/hmR0D8alBVlo1oBVY/zsDC5nR+R9MEOZNQaW6afU9ENv9+P5+PEfAWQbsI9oKsAr2jsepfzmQtCPaGGhXUvAiP9S91BlnEbzpLdKFG3JGTRnPnvaCKw4tJdHfYWBv14DvFnR4WZsUTpcfL9m/N2l/OIX18b0DQYltZhFgKEJyEVrfbqPHzmTHW5gm8WONG32xWfiaTnGEEqFPtEYvqu/lwrt1UcDSu8f7KH2d1wUB+rfyG4esHcRO/EItsWEO10AQWvduYnTY6xZ4mWr3oLdfOVlF0qXDbki4X+8VARJMcZHRRbcYGbjm+G+hJPDu5vrpTZVCb4TZoj5gE4=;pgE2MYdvtuwiXeWuwQNlgw=="
+---
+

@@ -73,20 +73,6 @@ related:
         width: 602
         height: 394
         isCached: true
-  - title: "Global Blockchain Distributed Ledger Market Outlook to 2026 with Profiles of Key Players, Including Accenture, AWS, Huawei Technologies, Intel, IBM, i"
-    excerpt: "The \"Blockchain Distributed Ledger Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global blockchain distributed ledger market exhibited robust growth during 2015-2020."
-    publishedDateTime: 2021-11-26T15:32:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=577943"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "gksxs7U6coqJBTVXBLXddDz66i8kwVQzI+lHo91+fqr7qfiQXMmYdRGokZrdoOuMpGPTOTXQvgqwotYbpYBS5EUkaqEK2Zcd/bzToVJNta+t9aHw44KFh56sd5bB8r4U/PyBhbCPzFyzMnkEqeTXzep+p3WGu1AyWYtZPOQSxeBIcsfjLaLdbqFjFbSh6ocq35BXu7WTcwiMQMGy5Rk8taXJSNgXpT3kek0hFc6GwN/pszpby8d6ZRemXmBdzoyWPveb+oPBHCw8jNS8gTZUPBt2wMExowJ9E86tmOl5O4TMCgpsOGr64KdvkOWAPNmz8BmV5D1xwGC5U4FYYkP0c8YYv0IgQaYuNPXxZe8pXCk=;QlVYDOlvOFV/lDuteLQIdA=="
 ---

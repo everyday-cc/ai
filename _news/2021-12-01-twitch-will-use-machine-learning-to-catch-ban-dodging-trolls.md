@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/twitch-suspicious-user-detection-announce
 webUrl: "https://www.engadget.com/twitch-suspicious-user-detection-announcement-000510859.html"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Engadget
@@ -27,6 +27,24 @@ images:
     width: 5076
     height: 3384
     isCached: true
+
+related:
+  - title: "Twitch to Detect People Evading Bans with Machine Learning"
+    excerpt: "Twitch is advancing its efforts to reduce bullying with a new tool that makes use of machine learning to detect people who might be trying to evade bans. Suspicious user detection will be"
+    publishedDateTime: 2021-12-01T07:50:00Z
+    webUrl: "https://www.thehansindia.com/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724"
+    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/12/01/1124326-twitch.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "m+NGnXCvdc1tX261FWPRsYbl2mJWmYVCF3Yc2WfTzB+gSLp/UpOUmiL+DPmUFQm4xfLjVAGUoXtDCSz/diHHYaBSs6IEcuBDIINcHFVVmdsfmL3EK/4RasAoNZ425ipn2gzEcI8As3D/r64AN67OmnU6ejNqo0PaoGogrBqsGnTUaU45vOBbSjfAF1zcfVyW6emWkoLrBvIEiK23K4fuiSl98yiFUCr0GmnvTF1Gic6b2JsHv0of/SUyFnqNMzBeH+te76EDSsD9+PfpTZnS+ts9c9qVFC+SFAyxnYrfyLbOiLjrCuaGPKkVxhZ2T+O9QcJ7rso9/AMCS40ChEksi6H+SBnkPUXaJvPaaaQNxsG5x1FjmLdjTqwd3wjqWEEW5nADcFdc6vIU9yNBpFd63fWC0UtQTH9UOTnW0MLAszvvy9AzTEQjiExH8yA169QQoZz93sAnnN8C42OaUchttTA1sIpFmr58XuBjmc+RCcR7wgml4h2OiHFztO+li989vHDanyZNepRNMh0legH/uw==;EB0Au4/LwqnFbHG22VkkPw=="
 ---

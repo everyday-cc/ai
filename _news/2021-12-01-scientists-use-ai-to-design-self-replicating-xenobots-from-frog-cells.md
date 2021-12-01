@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/scientists-use-ai-to-design-self-replicati
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://eandt.theiet.org/media/17241/xenobot-reproducing.jpg?crop=0,0.26833333333333337,0,0.2394791666666666&cropmode=percentage&width=1200&height=450&rnd=132827439180000000"
         width: 1200
         height: 450
+        isCached: true
+  - title: "Xenobots: First Living Robots Can Now Reproduce, US Scientists Say"
+    excerpt: "The American scientists who created the first living robots known as Xenobots have disclosed that the bots can now reproduce without manipulation of genes."
+    publishedDateTime: 2021-12-01T08:54:00Z
+    webUrl: "https://www.tuko.co.ke/world/us/435444-first-living-robots-can-now-reproduce-us-scientists-say/"
+    type: article
+    provider:
+      name: Tuko
+      domain: tuko.co.ke
+    quality: 39
+    images:
+      - url: "https://netstorage-tuko.akamaized.net/images/bf588309baf0ccf5.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "jitz1fmqYqI8rD3L7bVe4fDMi+0fOkrwYDJ6KPn67rnpouWsXrHFPkKp0sHIDEm6/KoAmjSUjSG26AH2ptJWAbw9oe5GsyLqGtfjskx9prwFjFJYLYFUQxBBiPDWLwB+mEl4BXv1j5K1BSLGzyB6ou1iEMzdCJ6AR2XWdSXk6ivGHjYhxVcbfFXlZRl7VnIOQiKWDe3v8TBalFROaNKhzcEUdOqvuE/RaiUjAsbUfxfVMiCWtrjqkPLhBFro7mqdBfve1Md6RUepC13kaCGxHFGJWiZ6jRU+ZVhVHQhfrT78yC7pFjcVKkJ27pRC1AO3BGLGnUKzGWdOwR3XMYCVUxbuBQTdquYJj6W/Gr0+qcjOnAKThwKobUgx4vwYtB/EDOW9fOvGKRTueZH5BvDs3C6ycxDIDerafBGRAL+OEP2iVGbStMGdz1bQJy2BOANedx8VfC4Iiogtep7PGCLldO/ZvEUF9hgZm/has/wXuQa1uvDGOu4Ppp+Un0I+41eBbntYbxaIi3Emq2XEmA/eSA==;yAv/7YQ5FPvKz/us7b2/vw=="

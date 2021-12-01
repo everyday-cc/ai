@@ -3,8 +3,8 @@ category: news
 title: "AI Software Market Forecast to Hit $62.5 Billion in 2022"
 excerpt: "The AI software market is expected grow 21.3% next year, according to Gartner, as enterprises boost their AI spending."
 publishedDateTime: 2021-11-30T15:03:00Z
-originalUrl: "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230"
-webUrl: "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230"
+originalUrl: "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230?mod=business_featst_pos2"
+webUrl: "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230?mod=business_featst_pos2"
 type: article
 quality: 67
 heat: 97
@@ -75,6 +75,6 @@ related:
         height: 550
         isCached: true
 
-secured: "Q/6hsXuKE093GOdiB8Vx3D0skC09dGBXfwHnDHHpdxZ5FtVZW7EYD2UHNiQyUIO+L+Y5UZCt0ScUVfntUnbQ7Z5NzX4XGZDed2Ls0r7GV0J99l4qhg0uGMFd5wp8yevl5pUPLxot52qN142Og5izNQ7jmTa9z/ElrRj1wMlfoakpUAOMCbyjcY/UPmZCAE+9u4Ln0AN0l1+B3mC9a7kfdDEhtzdd47qYmdobuViUVaOqo1aFB5owZ4B5aCmm7xnlwF21oiJQQQVU186z1LAf4lMhWBmE7+wOlvQ2kuNZ/tMd3n9CzKqBDA2LJ0NnzqhpXYUV/nOsEwVTEV5FWhR/Ok3r2bDHrvO77Wn3bQuZeGQEVi8J5BrQGslHq579wUx4bGDjjj5mcsTWGe+Dllu9zCQpYN07kNCFM/b9VpMGXCaP3YrHttg5DZnnM37rqVGEMp2akNksz9VU6cL7T2LWahjGjeb05VGmAZlQaAaMWSpugVHNSl0dBXHpnMwpLcvBNq1CRXvHXb9aV2/Nvu4VeA==;06aLQCCqCvAP06XmNOkqSw=="
+secured: "Td/FkDyrkui7auzDit1TqgEsUYw/DUfPUb4BRg6363dO7OI7ZTLpMcdUPT3e3pTsbOVT0//hMcPiBPUzFND+b38zl8PdKgQhgUb4lefTJR3VF0pXeFhPQkDWRJ8Vwdb6x7tBHQ/wPAU/QY6VY81XPUDPmWxaUFZTvM0snrtqrWVKchxrpTnSALrnsQtH1xq8n7DD38tYlwGbFb4aAfzXEi2qWZ5b0SNo0p6CER84soqZRCVDepuSbRQ57n66pIUTxu2elVlEgRtdgSwUQfWvqgtIrx6c5NwmEr70BrVvhJMpU1rFJ3T9MKDszYHBWepBDga+xq7tiPSev4YDCUEmWgub5eOpYqkJrgyMUBGLi7Q=;bzXE+W2qC6vrJL/QI6fgZw=="
 ---
 

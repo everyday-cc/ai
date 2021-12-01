@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Xenobots: First Living Robots Can Now Reproduce, US Scientists Say"
+    excerpt: "The American scientists who created the first living robots known as Xenobots have disclosed that the bots can now reproduce without manipulation of genes."
+    publishedDateTime: 2021-12-01T08:54:00Z
+    webUrl: "https://www.tuko.co.ke/world/us/435444-first-living-robots-can-now-reproduce-us-scientists-say/"
+    type: article
+    provider:
+      name: Tuko
+      domain: tuko.co.ke
+    quality: 39
+    images:
+      - url: "https://netstorage-tuko.akamaized.net/images/bf588309baf0ccf5.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5vzc829/gBiE0tHWjW84C60MeIIs0kHDnSDmrg6NsaTlnxbG3uGCBuZh5qP5Rvav/QefGfPM+p6FFnKiGpbteJhF7BjdSFmbgmyV1zxPUnsHChQf/fZZaYTk5uZo6oTy7rY2uFrd/h/N9f7anYkdLs4Eg4BNpwh6LVx8Cej1jusEijECg2Zg+DYWb9U0aWIQMW8keaYv3vpvd9clfi3tew8X5KTsQrIEIYdAou7JdThV8A9+a+r3tZpwqcy+zsIQfWISWDM8Jbf8KvVAPUOMjFSHKPvlF02Xb6B2LHteuKPIMxItIw/oGUakqoYAnCpPRayGn0a4vHnCm07Ivl9o1RwWNl0+Yx8pzinco4wXn1+2oXiFtkd71iz69rEZ3/3xGVGqA518qNZe2v2Xaux4jfqyQZyHnx3kbxpop7Z8w/2Z3yR88pS/tAl8ivSph5/C//KbAhcGMTvT1uAqDFpsz0fDey3zxVgSCGTJj6Lk8QaLPu/fXRDR2FmzIVFXYV8AwkZ++PpACkvHIdUxebyPTg==;fDUxRKxnyvF1xCupNQ0Ruw=="
 ---

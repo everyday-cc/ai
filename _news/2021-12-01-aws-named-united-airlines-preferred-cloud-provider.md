@@ -1,18 +1,18 @@
 ---
 category: news
-title: "AWS Named United Airlines' Preferred Cloud Provider"
+title: "AWS Named United Airlines Preferred Cloud Provider"
 excerpt: "(NASDAQ: AMZN), announced that United Airlines (NASDAQ: UAL) has selected AWS as its preferred cloud provider. AWS will support United’s digital innovation, providing machine learning, Internet of Things (IoT),"
-publishedDateTime: 2021-11-30T19:35:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/11/30/aws-named-united-airlines-preferred-cloud-provider"
-webUrl: "https://stockhouse.com/news/press-releases/2021/11/30/aws-named-united-airlines-preferred-cloud-provider"
+publishedDateTime: 2021-12-01T08:49:00Z
+originalUrl: "https://www.financialbuzz.com/aws-named-united-airlines-preferred-cloud-provider/"
+webUrl: "https://www.financialbuzz.com/aws-named-united-airlines-preferred-cloud-provider/"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AWS AI
@@ -42,7 +42,16 @@ related:
       name: Mobility Techzone
       domain: mobilitytechzone.com
     quality: 34
+  - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
+    excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
+    publishedDateTime: 2021-12-01T08:50:00Z
+    webUrl: "https://www.financialbuzz.com/aig-selects-aws-as-its-preferred-public-cloud-provider/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 34
 
-secured: "4uO4FAQ7teUwZ8Dco1Bcf7v2rTds5Ti+ouHDJvJc3wDXXoHbFlpktSak4s6lq5ejfsVduoNnMkq/wIiGPkhKBLlfYEZpmtkF66yuUU4X+C5zBPwFNnqvlsM7YTDdoyPJOZKj8eG8JWcqA2cbRnMPR1Y0mkkxpn0AwpibgPNzG0KPZl1yPaUTl+Dheq1shS6/ZRCz0gjq1QiqL8NSaxDL6WujDg0nsOZNF6A+CkIEjUU5KByFAF/mCy1l3o4kfQEJS0uhYozeGZQV1B0GYDVXuWF1YfcjphtxbXYe16yhhPhvxzypz60iN4N2NlVcETP/esnkQucZxXAu2v2SYhGrO9IDHmIxuQV+t6+BO/omc+n4fieeM62sMW35Z4DlZbtesfmSdPjd32z3o7aSOLDZ+7HLO6VbmXlh8xOfbq5sfb7UROIsvPJyNOznN5RdgpWt/x3ZY8q80yVA6CTJ7bWliG0OEFeNVHHwyUUcUPWjAjnGUbHwt7Wdev9FAUGXUmi33ujDRl8mwIs5hJ81k9bQFQ==;6cTXSVUMiCqVpZtNj4WE1A=="
+secured: "Y49QgoZe1RyU0JtkahIIKij4Ougr+Z06tpv+nF20cv0jo+liNKtGt3BhTLiSV8P1wOD4eRIqokjkXsQKwlTOGyQ/GcqVMzEQO+t0YNWzCHM2tHuVCpfMnSnm8T6D2opzN7gIbSAe8cJGjlKpsFziIjrwMtRESDjerlU5JXk5NrEO7X6WbcGgq1IEkJ9ZEFFdUty+Q0dlBqWoQ2XXtvzwlqnHSdKsTmImXcJxUCYXaWRLDR/d3Ze6nR+kTU9mIlMxHagyZbuRuIY8EYzgllITb2MHaFKrMOj6htV2B9/UKr1/6YqMy/NuYvCQ18iwCnMCCLtgMWnuB4IYR0m4OxSmhUzpMCL1Obm4jHqGDxQuM0I=;qWlO7nOMhsitp397yD+7RQ=="
 ---
 

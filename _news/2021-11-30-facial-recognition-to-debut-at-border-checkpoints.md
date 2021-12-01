@@ -57,20 +57,6 @@ related:
         width: 2508
         height: 1672
         isCached: true
-  - title: "RESCON praises Throne Speech recognition of housing, immigration"
-    excerpt: "VAUGHAN, ONT. - The Residential Construction Council of Ontario (RESCON) has released a statement saying it is pleased that housing, immigration and stability of the supply chain would be federal government priorities as indicated in the Nov."
-    publishedDateTime: 2021-11-26T15:18:00Z
-    webUrl: "https://canada.constructconnect.com/dcn/news/associations/2021/11/rescon-praises-throne-speech-recognition-of-housing-immigration"
-    type: article
-    provider:
-      name: canada.constructconnect
-      domain: constructconnect.com
-    quality: 54
-    images:
-      - url: "https://cc-production-uploads-bucket.s3.amazonaws.com/uploads/2018/07/Parliament-Buildings-WEB.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "HBaGTGo8FqqvPeWK5q/wjZwcVeqx08RX4rcUAP8y9BPuf4xcnWfLoGgOW28MhSwrjFoGc3jD1b++tDVbZ6lvX9nbXR1W9sydhKap2eMfqu+YiVBL1xe7ybC5mJfnfMpUKFOZtDrmEEsAxpI7jT5jyW8TYJAlWVhkBOHTbPNH7pV5M6zw6X87oOA55wS+rEvSznrHstOpFlVDUYLxtEg76vaMwaiyOhG9dSanXCacS0STt00TnnVw1XjxHOHFpjfWXS+TDGfE+HrNOyeBv1YP4kmalYyuMW93QUJ7fII/LKZYGyOF7Yk1l1xf8o/INkPH1FUhoW2qSNERroH3LztirVUbsKK5WQyFnhxn/7LSBI3/PUwtoDyiFvvfCIuzBZ+wL+6E/MghKrVf77CIhYFGGEafVDU8vJERLbkL3FrtMadJaYfaB3BQH08LJocuI1YrZ+ICam8H5x0ymeg4ouIwBvoWtqMRCdzl8vnE/el0Qq5RKAtMD2qasuIi7DKXru5MTWWac/UCRNhvAAZjg0agrg==;SxjNjoyr2v10VVKA0MeDhQ=="
 ---

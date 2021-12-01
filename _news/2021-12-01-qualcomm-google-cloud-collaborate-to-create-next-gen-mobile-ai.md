@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Qualcomm, Google Cloud collaborate to create next-gen mobile AI"
-excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions."
-publishedDateTime: 2021-12-01T06:23:00Z
-originalUrl: "https://www.sify.com/finance/qualcomm-google-cloud-collaborate-to-create-next-gen-mobile-ai-news-technology-vmbgwFiafjdje.html"
-webUrl: "https://www.sify.com/finance/qualcomm-google-cloud-collaborate-to-create-next-gen-mobile-ai-news-technology-vmbgwFiafjdje.html"
-ampWebUrl: "https://www.sify.com/finance/qualcomm-google-cloud-collaborate-to-create-next-gen-mobile-ai-news-technology-vmbgwFiafjdje.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/qualcomm-google-cloud-collaborate-to-create-next-gen-mobile-ai-news-technology-vmbgwFiafjdje.html"
+excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
+publishedDateTime: 2021-12-01T05:07:00Z
+originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=899494"
+webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=899494"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Daijiworld
+  domain: daijiworld.com
 
 topics:
-  - AI Hardware
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.sify.com/uploads/qualcomm_ians_umxhlQhhdgaaj.jpeg"
-    width: 680
-    height: 359
+  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
+    width: 280
+    height: 250
     isCached: true
 
 related:
@@ -116,6 +114,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Qualcomm and Google are partnering to provide a better AI experience on smartphones"
+    excerpt: "Google and Qualcomm plan to accelerate neural network development and differentiation for Snapdragon mobile, ACPC, and XR platforms, Snapdragon Ride Platform, and Qualcomm Technologies’ IoT platforms"
+    publishedDateTime: 2021-12-01T07:41:00Z
+    webUrl: "https://www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/"
+    ampWebUrl: "https://www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 53
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/11/google.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Qualcomm Snapdragon 8 Gen 1 chip will power flagship phones from OnePlus and Xiaomi"
     excerpt: "The Qualcomm Snapdragon 8 Gen 1 will power most top-end Android smartphones coming later this year and early next year."
     publishedDateTime: 2021-12-01T01:44:00Z
@@ -186,6 +200,6 @@ related:
       domain: greencarcongress.com
     quality: 0
 
-secured: "jf4xw5vexxRN88ohHuZt/vMGwvoZDGssxq0N8zMGEvvQXBXKN37P2AdOjrSvgh+569fggP+998WWVtaTXFTGz7avdQ4ab3FgQgGgqAiX5oJXRA5A+MGUlkx8cOJCDcG4zz9TBDx5NMMRNFrNZwnRBnV8/vPtHHxO2QizKH8pkFX8qgLyOtyRh4HPohcgf/zy7BQf/Zath27OI+fYgmfAf57K0DxmKXGW7CdPcT5ckJS9Uazs2OjoW4MxUKWkYFLmd6INHi9CtEa3iNOFE8P2WLXlCwXy+95UG8I6nvlznBzLSZg5WryshtC8weWj9h5gkwHZLD2ISIJncXMUXej05vuzl4eJwdCvSWM8lHa9Nuc=;WduIeHlBeWk/wKhZJHj4fA=="
+secured: "pPXOWmgFHcOn2BEMeJLwQgm/5bEqe/+Ig5NDsyXHyZFLyCuMlM5b1/n8KOd9ybjre6UZYRHXZ0aeUj8MlmTYPvrSydHYAg7jMP+a50/K/laLasA8ucDfkf7FEWXynUU2FDeXDmVlgo+ebKRRolIxtTKIK7vPh3jYLMaNNnN2zrkuMix0ggkRKZ0INC3ZZSLqVxpLKca35+GRh8sbcsDbHTxUyqXunX3PTlh56Zh33UAWBz/NTOgydG+Ipk6HfT6DstqtNY8cskosn6Io8yuLWLWWoOtqe1O32sd0ywO2vqGdevd4zzIlg9SU4wOzhSSvOfQ+3TeaWMLqkeXMvj8dWL8BIHNuIUKdsvDz4iVN1wU=;3FYlVk9rsFD2UZc9Ndhlog=="
 ---
 
