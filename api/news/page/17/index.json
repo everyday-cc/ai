@@ -2,6 +2,91 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-11-16-how-waymos-self-driving-cars-handle-fog-in-sf.md",
+      "title": "How Waymo’s self-driving cars handle fog in SF",
+      "excerpt": "Waymo's robotaxis face unique challenges driving in San Francisco, where there's a one in three chance of fog every day.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/how-waymos-self-driving-cars-handle-fog-in-sf/",
+      "originalUrl": "https://www.therobotreport.com/how-waymos-self-driving-cars-handle-fog-in-sf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/11/waymo-radar-fog.jpg",
+          "width": 800,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-artificial-intelligencebased-method-predicts-risk-of-atrial-fibrillation.md",
+      "title": "Artificial intelligence–based method predicts risk of atrial fibrillation",
+      "excerpt": "Atrial fibrillation—an irregular and often rapid heart rate—is a common condition that often leads to the formation of clots in the heart that can travel to the brain to cause a stroke. As described in a study published in Circulation,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/atrialfibril.jpg",
+          "width": 850,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-intelligencebased-method-atrial-fibrillation.amp",
+      "publishedDateTime": "2021-11-15T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-using-data-to-help-millions-of-american-workers.md",
       "title": "Using data to help millions of American workers",
       "excerpt": "ADP incorporated a vast range of AWS products to migrate and centralize its data, from Amazon EC2 (AWS’ elastic cloud computing service) instances to Amazon SageMaker (AWS’ fully managed ...",
@@ -1079,99 +1164,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-go-read-this-report-about-how-amazon-tries-to-evade-responsibility-in-delivery-vehicle-crashes.md",
-      "title": "Go read this report about how Amazon tries to evade responsibility in delivery vehicle crashes",
-      "excerpt": "Amazon Logistics has reportedly been the defendant in 119 vehicle injury lawsuits this year Amazon’s fleet of delivery drivers may be detached from Amazon warehouses, but the company still monitors its drivers;",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/11/14/22781896/go-read-this-amazon-tries-evade-responsibility-delivery-vehicle-crashes",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/go-read-this-report-about-how-amazon-tries-to-evade-responsibility-in-delivery-vehicle-crashes/ar-AAQHz1b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/rxZO8mmoe60a0QTLL3t4H0LbP5A=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70142051/acastro_181114_1777_amazon_hq2_0003.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/11/14/22781896/go-read-this-amazon-tries-evade-responsibility-delivery-vehicle-crashes",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/14/22781896/go-read-this-amazon-tries-evade-responsibility-delivery-vehicle-crashes",
-      "publishedDateTime": "2021-11-14T15:27:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2021/11/14/22781896/go-read-this-amazon-tries-evade-responsibility-delivery-vehicle-crashes",
-        "domain": "theverge.com/2021/11/14/22781896/go-read-this-amazon-tries-evade-responsibility-delivery-vehicle-crashes",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-ai-tech-drives-transformation-of-f1-racing.md",
-      "title": "AI tech drives transformation of F1 racing",
-      "excerpt": "The next generation of AI in racing will play a prominent role in car setup and design decisions that yield the best results on track.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/",
-      "originalUrl": "https://venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-139946022-e1636656086505.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/14/ai-tech-drives-transformation-of-f1-racing/amp/",
-      "publishedDateTime": "2021-11-14T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

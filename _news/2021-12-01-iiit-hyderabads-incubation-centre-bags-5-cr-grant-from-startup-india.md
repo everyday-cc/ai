@@ -28,21 +28,14 @@ images:
 
 related:
   - title: "CIE (IIITH Incubator) selected for INR 5 Crore startup funding grant from Startup India Seed Fund Scheme"
-    excerpt: "CIE (IIITH Foundation), the Center for Innovation & Entrepreneurship of IIIT Hyderabad, has been selected for the Startup India Seed Fund Scheme by the Department for Promotion of"
-    publishedDateTime: 2021-12-01T09:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/cie-iiith-incubator-selected-for-inr-5-crore-startup-funding-grant-from-startup-india-seed-fund-scheme-121120100861_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/cie-iiith-incubator-selected-for-inr-5-crore-startup-funding-grant-from-startup-india-seed-fund-scheme-121120100861_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/cie-iiith-incubator-selected-for-inr-5-crore-startup-funding-grant-from-startup-india-seed-fund-scheme-121120100861_1.html"
+    excerpt: "CIE (IIITH Foundation), the Center for Innovation & Entrepreneurship of IIIT Hyderabad, has been selected for the Startup India Seed Fund Scheme by the Department for Promotion of Industry and Internal Trade (DPIIT),"
+    publishedDateTime: 2021-12-01T07:09:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cie-iiith-incubator-selected-inr-5-crore-startup-/2021/12/01/9502145.htm"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 27
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/01/full/20211201133352.jpg"
-        width: 600
-        height: 450
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "EgkkNla6/cWdulMh9N0hjeyVhn5xUTNlmyFui39icqCZyzhZh8+bEiEhsdjWqYkgoSOFPoCbnS+w1AMaaRTOiM3+QjY9Uf1bi84D6wv4wi7lQlA0sawRtCviGI1vIINx12igdfR4ncHYSiv8uoc962no+kMlRLg7Z8KpaPFdIxT0zPmbtx+5Bbsdpu89dAz/0Gj8Db2bYUbe9P25NuI0UqDBJWz6iPJ6jCLp4Ti5LaRrZ6YdqbUH3ucuLbVZF4Gb6GeiVpFLFkR9h3fQOsRykCjn1dfb1gAD/UkU42KO3cO5PXf7HDSMlJUY2KqgG7h0BrT2zL/7s9n6XViF31Lo5QwYafq8X4I5GzJBv2v52mQ=;f/c7NI5SHmEGlD18yximQA=="
 ---

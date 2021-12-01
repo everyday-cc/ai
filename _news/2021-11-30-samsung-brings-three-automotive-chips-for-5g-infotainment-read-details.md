@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/auto-news/samsung-brings-three-automotive-c
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details/amp-11638251302523.html"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung introduces three automotive chips for seamless 5G connectivity, vehicle infotainment"
+    excerpt: "Samsung brings three automotive chips- Exynos Auto V7, V9, S2VPS01 (PMIC) for in-vehicle infotainment, parking assistance, better 5G connectivity."
+    publishedDateTime: 2021-12-01T12:19:00Z
+    webUrl: "https://www.bgr.in/news/samsung-introduces-three-automotive-chips-for-seamless-5g-connectivity-vehicle-infotainment-exynos-auto-v7-v9-1025078/"
+    ampWebUrl: "https://www.bgr.in/news/samsung-introduces-three-automotive-chips-for-seamless-5g-connectivity-vehicle-infotainment-exynos-auto-v7-v9-1025078/amp/"
+    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/samsung-introduces-three-automotive-chips-for-seamless-5g-connectivity-vehicle-infotainment-exynos-auto-v7-v9-1025078/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: www.bgr.in
+    quality: 63
+    images:
+      - url: "https://st1.bgr.in/wp-content/uploads/2021/12/Samsung-Automotive-chip.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Samsung to supply automotive chips to Volkswagen"
     excerpt: "Samsung Electronics announced Tuesday that it would supply automotive chips to Volkswagen. The Exynos Auto V7, used for comprehensive in-vehicle infotainment systems, is in mass production. It's a component of Volkswagen's latest in-car application server."
     publishedDateTime: 2021-11-30T15:03:00Z

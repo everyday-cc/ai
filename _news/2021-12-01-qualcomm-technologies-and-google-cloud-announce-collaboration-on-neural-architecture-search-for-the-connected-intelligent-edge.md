@@ -1,0 +1,31 @@
+---
+category: news
+title: "Qualcomm Technologies and Google Cloud announce collaboration on neural architecture search for the connected intelligent edge"
+excerpt: "Highlights: Qualcomm Technologies and Google Cloud are collaborating on Neural Architecture Search (NAS), enabling the companies to create and optimize AI models automatically rat"
+publishedDateTime: 2021-12-01T12:17:00Z
+originalUrl: "https://www.telecomtv.com/content/ai-analytics-automation/qualcomm-technologies-and-google-cloud-announce-collaboration-on-neural-architecture-search-for-the-connected-intelligent-edge-43070/"
+webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/qualcomm-technologies-and-google-cloud-announce-collaboration-on-neural-architecture-search-for-the-connected-intelligent-edge-43070/"
+ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/qualcomm-technologies-and-google-cloud-announce-collaboration-on-neural-architecture-search-for-the-connected-intelligent-edge-43070/amp/"
+cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/qualcomm-technologies-and-google-cloud-announce-collaboration-on-neural-architecture-search-for-the-connected-intelligent-edge-43070/amp/"
+type: article
+quality: 16
+heat: 16
+published: false
+
+provider:
+  name: TelecomTV
+  domain: telecomtv.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "wBrglxn9eWUPsSwZsaQZzAPV9k3Ty5RFuBOTN1YU5ANFp9cBfG3WDFeMDlZyvYmydrsutrkFbxhh40jF9gOF9y+9cHV69JS41qI8u39afWMcohLZUbTLs1/b5ZXOJi59avRavZCLN3Qk2Lurws7zbm+yfIKwj8jaZDAmUNc9np3odUiik7kzaDyyLGTCRysVvRmAT83kPIju2LJZIxsPLYd+wlNwmPF1McaUgrqF4CPahlL20r43d2wq5/uz10URxWb1znpafPqi12/n0RfK1RdsQfmqBzGWU7TCcdwZgFxBBFYxpN/YTktfBit/z/g/7AmxH7YYCELkMspgtlupc6DPkhdLRXHO6scibamUFI4=;u6/X94JpBt7h/sFHhzR3Gg=="
+---
+

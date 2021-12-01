@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/30/amazon-announces-graviton3-proces
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/amazon-announces-graviton3-processors-for-ai-inferencing/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

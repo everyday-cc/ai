@@ -100,6 +100,38 @@ related:
         width: 2048
         height: 1152
         isCached: true
+  - title: "Chip-maker Qualcomm joins hand with Google Cloud to create next-gen mobile AI models"
+    excerpt: "Chip-maker Qualcomm is working hard to give users a powerful, smooth function chipset with improved AI capabilities, for which the tech company has partnered with Google Cloud to"
+    publishedDateTime: 2021-12-01T11:13:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/chip-maker-qualcomm-joins-hand-with-google-cloud-to-create-next-gen-mobile-ai-models/articleshow/88026590.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/chip-maker-qualcomm-joins-hand-with-google-cloud-to-create-next-gen-mobile-ai-models/amp_articleshow/88026590.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/chip-maker-qualcomm-joins-hand-with-google-cloud-to-create-next-gen-mobile-ai-models/amp_articleshow/88026590.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46718,msid-88030230/chip.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Snapdragon 8 Gen 1: The first phones to use Qualcomm's new supercharged chip"
+    excerpt: "We've just seen the Qualcomm 8 Gen 1 chipset get announced, and its touted camera, gaming, 5G and AI benefits certainly sound impressive. However, we won't know just how good this chip is until we get it in a real production phone."
+    publishedDateTime: 2021-12-01T10:49:00Z
+    webUrl: "https://www.tomsguide.com/news/snapdragon-8-gen-1-the-first-phones-to-use-qualcomms-new-supercharged-chip"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/snapdragon-8-gen-1-the-first-phones-to-use-qualcomms-new-supercharged-chip"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/snapdragon-8-gen-1-the-first-phones-to-use-qualcomms-new-supercharged-chip"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/VLG9Q6q6dpiRast38M4Mfj-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Qualcomm and Google are partnering to provide a better AI experience on smartphones"
     excerpt: "Google and Qualcomm plan to accelerate neural network development and differentiation for Snapdragon mobile, ACPC, and XR platforms, Snapdragon Ride Platform, and Qualcomm Technologies’ IoT platforms"
     publishedDateTime: 2021-12-01T07:41:00Z
@@ -132,6 +164,36 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Qualcomm Snapdragon 8 Gen 1 announced: Top features, specs, and phones to be powered by new chip"
+    excerpt: "Qualcomm unveiled the much-anticipated Snapdragon 8 Gen 1 processor as its new 5G mobile platform for next-generation flagship Android devices at the annual Snapdragon Tech Summit on Wednesday. The chip is the first to feature the new Snapdragon branding."
+    publishedDateTime: 2021-12-01T12:50:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/qualcomm-snapdragon-8-gen-1-announced-top-features-specs-and-phones-to-be-powered-by-new-chip/2380111/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/qualcomm-snapdragon-8-gen-1-announced-top-features-specs-and-phones-to-be-powered-by-new-chip/2380111/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/qualcomm-snapdragon-8-gen-1-announced-top-features-specs-and-phones-to-be-powered-by-new-chip/2380111/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 46
+    images:
+      - url: "https://images.financialexpress.com/2021/12/qualcomm-snapdragon.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Qualcomm, Google Cloud collaborate to create next-gen mobile AI"
+    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
+    publishedDateTime: 2021-12-01T05:07:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=899494"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 39
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
+        width: 280
+        height: 250
+        isCached: true
   - title: "Qualcomm, Google Cloud join hands to create Next-Gen Mobile AI"
     excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
     publishedDateTime: 2021-12-01T05:33:00Z
@@ -162,6 +224,20 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Qualcomm unveils its latest flagship Snapdragon chip"
+    excerpt: "US mobile chip giant Qualcomm is so happy with its latest top-end SoC that it has even revamped the naming scheme."
+    publishedDateTime: 2021-12-01T12:31:00Z
+    webUrl: "https://telecoms.com/512436/qualcomm-unveils-its-latest-flagship-snapdragon-chip/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 39
+    images:
+      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2021/12/Snapdragon-8-Gen-1-1024x561.jpg"
+        width: 1024
+        height: 561
+        isCached: true
   - title: "Qualcomm Snapdragon 8 live blog — all the big news as it happens"
     excerpt: "We just learned a little bit more about the Snapdragon 8 Gen 1, Qualcomm's new system-on-chip for mobile phones. The chipset was introduced during a keynote launching the chip maker's annual Snapdragon Tech Summit in Hawaii."
     publishedDateTime: 2021-11-30T19:28:00Z
@@ -176,15 +252,6 @@ related:
         width: 1200
         height: 612
         isCached: true
-  - title: "Qualcomm, Google Cloud collaborate to create next-gen mobile AI"
-    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search ..."
-    publishedDateTime: 2021-12-01T10:57:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20211201/3865312.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "JiDU, Baidu and Qualcomm to build China’s first production vehicle powered by Gen4 Snapdragon Automotive Cockpit Platform"
     excerpt: "Baidu, Inc., JiDU Automotive and Qualcomm Technologies, Inc. announced that JiDU’s first production vehicle will feature an intelligent digital cockpit system assisted by Baidu and Qualcomm Technologies."
     publishedDateTime: 2021-11-30T08:06:00Z

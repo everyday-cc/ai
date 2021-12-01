@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/top-5-machine-learning-trends-look-
 webUrl: "https://www.linkedin.com/pulse/top-5-machine-learning-trends-look-out-2021-aman-kumar-singh"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -37,7 +37,7 @@ related:
     provider:
       name: CIO Applications
       domain: cioapplications.com
-    quality: 37
+    quality: 41
     images:
       - url: "https://www.cioapplications.com/newstransfer/upload/okqgy450x308.jpg"
         width: 450

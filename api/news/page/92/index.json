@@ -2,6 +2,154 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2021-09-22-robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process.md",
+      "title": "Robots and machine learning researchers combine forces to speed up the drug development process",
+      "excerpt": "IBM Research and Arctoris are bringing the power of artificial intelligence and robotic automation to the process of developing new drugs. The two companies aim to make smarter ch",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "originalUrl": "https://www.techrepublic.com/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/21/da423e03-baee-48a1-a496-5d7b1687a678/resize/1200x/cb835c5e04a13149c7d356d4637df0e7/arctoris-ulysses-platform.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robots-and-machine-learning-researchers-combine-forces-to-speed-up-the-drug-development-process/",
+      "publishedDateTime": "2021-09-22T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-hai-robotics-picks-up-200m-for-its-warehouse-robot.md",
+      "title": "Hai Robotics picks up $200M for its warehouse robot",
+      "excerpt": "Hai Robotics, a Shenzhen, China-based warehouse robotics startup that develops autonomous, case-handling robotic (ACR) system, announced it has raised $200 million. The funding comes from two separate equity rounds,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/22/hai-robotics-picks-up-200m-for-its-warehouse-robot/",
+      "originalUrl": "https://techcrunch.com/2021/09/22/hai-robotics-picks-up-200m-for-its-warehouse-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/HAI-ROBOTICS-1.jpeg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/22/hai-robotics-picks-up-200m-for-its-warehouse-robot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/hai-robotics-picks-up-200m-for-its-warehouse-robot/amp/",
+      "publishedDateTime": "2021-09-22T01:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-amp-robotics-installs-its-first-recycling-robots-in-the-united-kingdom-and-ireland-with-recyco.md",
+      "title": "AMP Robotics Installs its First Recycling Robots in the United Kingdom and Ireland with Recyco",
+      "excerpt": "AMP Robotics Corp. (“AMP”), a pioneer in AI, robotics, and infrastructure for the waste and recycling industry, has installed its first AI-guided robotics systems in the UK and Ireland with Recyco, a leading recycling and waste management business in Northern Ireland.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=534676",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=534676",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-technological-advancements-in-machine-learning-in-healthcare-to-boost-the-world-market.md",
       "title": "Technological Advancements in Machine Learning in Healthcare to Boost the World Market",
       "excerpt": "Staying ahead in business is often about being the first; check the pulse of Machine Learning in Healthcare Market know what is hot and what’s going wrong in your industry is a key to success. Stay tuned with latest trends of Machine Learning in Healthcare Market with latest edition released by HTF MI.",
@@ -990,146 +1138,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-ge-healthcare-unveils-new-ai-powered-ct-system.md",
-      "title": "GE Healthcare unveils new AI-powered CT system",
-      "excerpt": "GE Healthcare today introduced its Revolution Ascend with Effortless Workflow computed tomography (CT) system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.massdevice.com/ge-healthcare-unveils-new-ai-powered-ct-system/",
-      "originalUrl": "https://www.massdevice.com/ge-healthcare-unveils-new-ai-powered-ct-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.massdevice.com/wp-content/uploads/2021/09/revolution_ascend_ge_healthcare.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassDevice",
-        "domain": "massdevice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-the-companys-fall-lineup-has-something-for-every-taste-and-budget.md",
-      "title": "The company's fall lineup has something for every taste and budget",
-      "excerpt": "After Dell, Asus, and Lenovo, HP is the latest manufacturer launching new devices designed for Microsoft's upcoming Windows 11 operating system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
-      "originalUrl": "https://www.techspot.com/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-21-image-22.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91348-hp-first-windows-11-hardware-lineup-includes-oled.html",
-      "publishedDateTime": "2021-09-21T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-facebook-sharpens-focus-on-safety-security-to-address-wsj-allegations-launches-consumer-products.md",
-      "title": "Facebook Sharpens Focus On Safety, Security To Address 'WSJ' Allegations, Launches Consumer Products",
-      "excerpt": "“These teams reduce the spread of harmful and illicit content on our platforms and develop AI technology to ... “plain false: that Facebook conducts research and then systematically and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/367112/facebook-takes-new-approach-to-address-safety-sec.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/367112/facebook-takes-new-approach-to-address-safety-sec.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/09/21/fbportal-10inch-600_RmiWiCI.jpg",
-          "width": 600,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

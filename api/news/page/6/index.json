@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-24-tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2.md",
+      "title": "Tintra Shares Climb After Entering Artificial Intelligence JV With TMC2",
+      "excerpt": "By Jaime Llinares Taboada Shares in Tintra PLC rose Wednesday after it said it has entered into a joint venture with investment and research company",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
+      "originalUrl": "https://www.marketwatch.com/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
+      "publishedDateTime": "2021-11-24T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-rws-wins-deal-to-provide-european-parliament-with-live-translation-and-transcription-service.md",
+      "title": "RWS Wins Deal to Provide European Parliament With Live Translation and Transcription Service",
+      "excerpt": "RWS, the world's leading provider of technology-enabled language, content management and intellectual property services, together with a consortium of partners, has won a highly competitive tender to provide real-time,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20123001.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20123001.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-24T00:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-artificial-intelligence-ai-in-hiv-and-aids-market.md",
       "title": "Artificial Intelligence (AI) in HIV and AIDS Market",
       "excerpt": "Portland United States Big Market Research newly added a research report on the Artificial Intelligence AI in HIV and AIDS Market which represents a study for the period from 2021 to 2026 The research study provides a near look at",
@@ -1053,93 +1147,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-ibm-watson-services-market-is-projected-to-be-valued-at-us-446-bn-by-2031-end.md",
-      "title": "IBM Watson Services Market is Projected to be Valued at US$ 44.6 Bn by 2031 End",
-      "excerpt": "ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams continue working from home. Focus on fast automation, use of real-time operation within various end-use sectors such as automotive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
-      "originalUrl": "https://www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2021/03/research-report-3-1.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
-      "publishedDateTime": "2021-11-23T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation.md",
-      "title": "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation",
-      "excerpt": "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

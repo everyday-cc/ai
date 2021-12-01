@@ -56,6 +56,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Using AI with Explainable Deep Learning To Help Save Lives"
+    excerpt: "Health systems have been at the epicenter of the fight against COVID-19, and have had to balance the need to alleviate suffering and save lives with substantial financial pressures.\" \"Health systems’ income statements are likely to see negative pressure as a result of the COVID-19 crisis."
+    publishedDateTime: 2021-12-01T10:56:00Z
+    webUrl: "https://www.bbntimes.com/technology/using-ai-with-explainable-deep-learning-to-help-save-lives"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 58
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_with_Explainable_Deep_Learning_To_Help_Save_Lives.jpeg"
+        width: 1280
+        height: 682
+        isCached: true
   - title: "Transforming Hospital Supply Chain with AI and Automation"
     excerpt: "Medical supplies procurement is the second largest expense which constitutes approximately 1/3rd of a hospital’s Total Cost of Operations (TCO). Tec.."
     publishedDateTime: 2021-11-29T07:58:00Z
@@ -101,20 +115,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Using AI with Explainable Deep Learning To Help Save Lives"
-    excerpt: "Health systems have been at the epicenter of the fight against COVID-19, and have had to balance the need to alleviate suffering and save lives with substantial financial pressures.\" \"Health systems’ income statements are likely to see negative pressure as a result of the COVID-19 crisis."
-    publishedDateTime: 2021-12-01T10:56:00Z
-    webUrl: "https://www.bbntimes.com/technology/using-ai-with-explainable-deep-learning-to-help-save-lives"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 56
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_with_Explainable_Deep_Learning_To_Help_Save_Lives.jpeg"
-        width: 1280
-        height: 682
         isCached: true
   - title: "Top 5 Incredible Examples of AI and Machine Learning"
     excerpt: "Artificial intelligence (AI) used to exist only in the realm of science fiction authors. Now, it promises to alter businesses and the world around us in ways that we never imagined."

@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-01T10:08:00Z
 originalUrl: "https://www.cioapplications.com/news/most-popular-artificial-ai-trends-to-watch-out-for-in-2021-nid-8825.html"
 webUrl: "https://www.cioapplications.com/news/most-popular-artificial-ai-trends-to-watch-out-for-in-2021-nid-8825.html"
 type: article
-quality: 37
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.cioapplications.com/newstransfer/upload/okqgy450x308.jpg"
@@ -39,6 +41,6 @@ related:
         height: 669
         isCached: true
 
-secured: "o4BqEVzx8ajFh0R3e4Ahp+67ddS1WdTK3eaczX69Pba4eFDY514AUHiTDF0wsoNFJph9kM4G+eoHZ6/Iq3r2KM7lZXTpPzvrnBxEojONnrAqdG2UMG27wHIg0qnwlM+mcw6YIKIbEWlyMiTfRil4xYXqec/ZZWqTuYpJhbawZfQQoFA2JYsnM/dNujtMBZKKrD9un3OKRcjxWcKdSHT7WF4cmUfX4ED/rjTidkArfTeOBsdKDUa/VIaKqLcP94Gs0eddCsS6TcHxi3kWxPaJVvxqnJ6dJrmvmtoC44MAj/rBA/ZD8oBTe398oGdI+e99wrGtyob3eqXj7+fXDQSVcl3UIgqn8HNQBG0hbxGcii0=;8hZZKNptyJBkVySKWpV4rw=="
+secured: "KbwXaMF6YqazFFV8iHm6bUkCso+hZcAwj4LyeLTiGVemXN9qmf+iXMxk/V2nCwu2xR2nxC1okUWkUm2fr52e9F3NXFCeEAnI07NBeTHwT4U2tIB1gKFy+o+QhCYymGqBJkEx3V+0cv3sXO10dS8EQqM/wdO/aL9YGp/6kf7+tsxZgHb2h368QV6ktAgkcqMF0SN0XhXRw4cq08zDtdg4Of3AUAa81a/PEm+xUw7sfxczLSEeVWGupUsYS/D/c5m01RkM+n3dTexaon7Dj5PMTXdf2J+2NtxB3EUfLRvU2r0VqCaQH8POnp6Dn4u2+sFFRd5/YvPNgvv1zVNbwQ3aYxAWQSXa0dBv6ToNgZuszBQHjlC5iJs/Aqlw7afVVbvFyssK/JDaxwxatbZAP0udwIBseFXE9IWLBH0zMhzOZczPLUlEf/6HoTlLhUsybhYYlMvBbmFY2WmtD8HTgC4a1VjzmUEsabY4CuiAxTxXVoTSDrVeR+T/wYSes8lYCONYgMvGNqYocgWhmnK+JEGdgg==;ZUz8l9vtif//sAslub38Dg=="
 ---
 

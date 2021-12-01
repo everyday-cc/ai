@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-09-motional-and-lyft-to-launch-fully-driverless-ride-hail-service-in-las-vegas-in-2023-will-mark-first-city-in-multimarket-deployment.md",
+      "title": "Motional And Lyft To Launch Fully Driverless Ride-Hail Service In Las Vegas In 2023 - Will Mark First City In Multimarket Deployment",
+      "excerpt": "The service will be the first time fully driverless robotaxis are available to public riders in Nevada, and will use Motional's next generation robotaxi, the all-electric Hyundai IONIQ 5-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/motional-and-lyft-to-launch-fully-driverless-ride-hail-service-in-las-vegas-in-2023---will-mark-first-city-in-multimarket-deployment-301419623.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/motional-and-lyft-to-launch-fully-driverless-ride-hail-service-in-las-vegas-in-2023---will-mark-first-city-in-multimarket-deployment-301419623.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1682516/Lyft_Motional_Start_Ride.jpg?p=facebook",
+          "width": 1467,
+          "height": 767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-hashtag-trending-nov-9-ftc-amazon-drivers-walmarts-driverless-trucks-meta-store.md",
       "title": "Hashtag Trending Nov. 9- FTC Amazon drivers; Walmart’s driverless trucks; Meta store",
       "excerpt": "The FTC reimburses Amazon drivers for tips the company withheld, Walmart is rolling out driverless trucks for grocery services, and is a Meta store in the works? That’s all the tech news that ...",
@@ -1326,59 +1369,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has.md",
-      "title": "Scale AI acquires SiaSearch to give companies the same data engine superpowers that Tesla has",
-      "excerpt": "Scale AI, the five-year-old visual data labeling company, has acquired a small startup that could help expand its reach in Europe and speed up development of its newest product. Financial terms were not disclosed.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/",
-      "originalUrl": "https://techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/PandaSet-flyover-GIF-credit_-Scale-AI.gif?w=720",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/03/scale-ai-acquires-siasearch-to-give-companies-the-same-data-engine-superpowers-that-tesla-has/amp/",
-      "publishedDateTime": "2021-11-03T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

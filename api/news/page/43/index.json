@@ -2,6 +2,153 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-10-27-gpu-market-size-2021-industry-analysis-size-share-growth-by-2024.md",
+      "title": "GPU Market Size 2021: Industry Analysis, Size, Share, Growth by 2024",
+      "excerpt": "The overall GPU Market Size is projected to surpass $80 billion mark by 2024, according to a report by Global Market Insights, Inc. The accelerated adoption of AI & IoT technologies across a plethora of industrial sectors is expected to turn graphic processing unit (GPU) market into an extremely lucrative investment ground over the forthcoming years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-size-2021-industry-analysis-size-share-growth-by-2024-2021-10-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-market-size-2021-industry-analysis-size-share-growth-by-2024-2021-10-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales.md",
+      "title": "Report: 81% of online retailers increase AI budget to boost holiday sales",
+      "excerpt": "AI is becoming an essential tool in ecommerce, used to enable targeted campaigns and improve supply chain management.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/",
+      "originalUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-6228-000619-e1634748179549.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/report-81-of-online-retailers-increase-ai-budget-to-boost-holiday-sales/amp/",
+      "publishedDateTime": "2021-10-26T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-the-future-of-workspaces-is-flexible-secure-and-collaborative-20-quotes-of-the-week-on-digital-transformation.md",
+      "title": "‘The future of workspaces is flexible, secure, and collaborative’ – 20 quotes of the week on digital transformation",
+      "excerpt": "Innovation can be greatly accelerated with AI capabilities that are on par with those of humans in areas such as object recognition, speech recognition, reading comprehension, and language ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
+      "originalUrl": "https://yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/28b451402d6a11e9aa979329348d4c3e/ving-hybrid-1635242078838.png ",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/10/quotes-digital-transformation-indian-startups-collaboration/amp",
+      "publishedDateTime": "2021-10-26T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-insurtech-ai-enhanced-platform-arturo-joins-amazon-web-services-partner-network.md",
       "title": "Insurtech: AI enhanced Platform Arturo Joins Amazon Web Services Partner Network",
       "excerpt": "an artificial intelligence-powered platform that derives property insights and predictive analytics from aerial and satellite imagery, announced that it has joined the Amazon Web Services (AWS ...",
@@ -1054,134 +1201,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-ai-driven-3d-animation-startup-plask-raises-us256-million-in-pre-series-a-funding.md",
-      "title": "AI-Driven 3D Animation Startup Plask Raises US$2.56 million in Pre-Series A Funding",
-      "excerpt": "AI-driven animation startup Plask has raised US$2.56 million in pre-Series A funding to bring their cutting-edge cloud-based animation technology to c",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211026005059/en/AI-Driven-3D-Animation-Startup-Plask-Raises-US2.56-million-in-Pre-Series-A-Funding",
-      "originalUrl": "https://www.businesswire.com/news/home/20211026005059/en/AI-Driven-3D-Animation-Startup-Plask-Raises-US2.56-million-in-Pre-Series-A-Funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-qualcomm-unveils-latest-mobile-chips-for-mid-range-and-budget-devices.md",
-      "title": "Qualcomm unveils latest mobile chips for mid-range and budget devices",
-      "excerpt": "Qualcomm has added four new Snapdragon mobile chips to its portfolio for both 4G and 5G-capable handsets at varying budget ranges. The Snapdragon 778G Plus 5G, 695 5G, 480 Plus 5G, and 680 4G chips are now official,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
-      "originalUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1635255685/itpro/Qualcomm_Snapdragon_Refresh_Oct_2021.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/mobile/mobile-phones/361363/embargoed-until-4pm-qualcomm-unveils-latest-line-of-mobile-chips-for?amp",
-      "publishedDateTime": "2021-10-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-teaching-robots-to-think-like-us-brain-cells-electrical-impulses-steer-robot-though-maze.md",
-      "title": "Teaching robots to think like us: Brain cells, electrical impulses steer robot though maze",
-      "excerpt": "Can intelligence be taught to robots? Advances in physical reservoir computing, a technology that makes sense of brain signals, could contribute to creating artificial intelligence machines that think like us.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.html",
-      "originalUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/teaching-robots-to-thi.jpg",
-          "width": 854,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-robots-brain-cells-electrical-impulses.amp",
-      "publishedDateTime": "2021-10-26T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

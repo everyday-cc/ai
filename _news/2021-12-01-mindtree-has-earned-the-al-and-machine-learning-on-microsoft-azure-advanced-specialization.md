@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
-publishedDateTime: 2021-12-01T10:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+title: "Mindtree has earned the Al and Machine Learning on Microsoft Azure advanced specialization"
+excerpt: "India], December 1 (ANI/PRNewswire): Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced"
+publishedDateTime: 2021-12-01T12:01:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
 type: article
-quality: 61
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Microsoft AI
@@ -20,9 +22,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-    width: 1496
-    height: 785
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/01/full/20211201170518.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -85,6 +87,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "gbkZVIJr9kR5BMlMrWocn60Hf9IS9oFWx8SGwmZ82R8cvmkji7ojoH8Y6CAvutiVpvMa94IUnbQczoP5Zike2EQZ0TCfCOlA2VT7JJWP5sqcfbH5TFjhnoPaiiIahQgUSZ3gyFTS11/20cIxKUyGSdJOUl9P/kFhmEvj9Z/H6VkahvpT37yUgt8ua4CpO50AH3qHlikGrl21Sh4n/FpYjRKAJSZTX290m3SQYSG33tR5g1FIkWj9uYcS6L+jHZ69NMroYBN/3XCPEE/Wi/004M80BH9ODOQ/k6fzkjMGVJ603IQpBHP1qAM9gt+cB4keRNx+HwL1rvRvm+63b6zlKTSYCGa3lUFQlEsR8/vzRrk=;XlZ19mpxTLH437EqscQ7lA=="
+secured: "Wjz8RWClbEVTXvBL/IzJaGpRWm+dpQd7z4lvNa3S4y9+2QA5ZQXI+W/CrfRvceOZRIvKRrxa0xUiiPt5dCJyBbPBj36n7rxn02L13JQIHzL7Roz1Jl82LWWSt2mLYiqPKGFowa2JgrjejQycqMcydSEPg2GoiODB6VCZt+95+MgOvGlmEu/o4m8oSYfVSgNo2/joY783lNZURCEnlOntRr+D4WyzKrFGaG8RQ0Da+WZ8F1RlTU9nFt/auQIVv3e5ixVMS3MyOcQVZQpwO7IeacQrYEXCHw5Jo2ieKQLIWGJAWcMF7E1RjKaYnjsl8BZiQCfuaOUFgALkltDZLH9wXMjxjMNT0KqdmWbImugSDNE=;QYQPof8NFUWn+MN0i6FoGA=="
 ---
 

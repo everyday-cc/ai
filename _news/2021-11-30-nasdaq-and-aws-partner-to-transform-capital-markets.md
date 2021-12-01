@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24363441"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24363441"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 336
     isCached: true
+
+related:
+  - title: "Nasdaq, Inc.: Nasdaq and AWS Partner to Transform Capital Markets"
+    excerpt: "Nasdaq Will Begin Migrating Markets to AWS Starting in 2022 Co-Designed Edge Computing Solution Offers On-Ramp for Global Capital Markets to Migrate to AWS Nasdaq's Primary Data Center Becomes"
+    publishedDateTime: 2021-12-01T12:51:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-11/54634627-nasdaq-inc-nasdaq-and-aws-partner-to-transform-capital-markets-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 39
+    images:
+      - url: "https://ml.globenewswire.com/Resource/Download/e9dd3dda-36f4-4ef4-a21d-b8121287d277"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "dGuPTXeFV2pL9O9zNh5X3c4Dav3ADrHKqU9ZZ79mCwQ4Rs/QAJYngOjPJ8RaOqCXSy5/SETElB/wJNONlMbEl4SI7OOHCtmQF6En0+06hbU9rEqx1cw8oCtWtlOgZDG2e4hsgSTWYHs1zxcjUQoxX0F7u1ixr11w2sTM+2O2sal0M+LfipswRYwQHBGNDV/O4aVjNVwh/x9913hHS9Clu5tk5CZxvy4z0FTYcCTEOcT61ugCGf+TrGsVWkpYvOqCuX1LDr3dfTNWFmqZgxL3gNBfQqp/pavxH4vFTXCRx2xOOMLrm3bcZ7mh53LK+SD0ddpWU6nmDNDA789rtBFlxwQqi65bYf1z8HlBznvKI3U=;Pd2iD9Ku0zfMJv9yFaSnSQ=="
 ---

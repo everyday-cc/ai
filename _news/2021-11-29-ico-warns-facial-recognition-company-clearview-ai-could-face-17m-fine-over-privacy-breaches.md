@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recog
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1"
 type: article
 quality: 163
-heat: 313
+heat: 323
 published: true
 
 provider:
@@ -196,6 +196,20 @@ related:
       - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Media_65.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Korean Facial Recognition Project Faces Opposition"
+    excerpt: "It was discovered last month that a South Korean government project has been providing millions of facial images taken at Incheon International Airport to private industry without the consent of"
+    publishedDateTime: 2021-12-01T12:00:00Z
+    webUrl: "https://hackaday.com/2021/12/01/korean-facial-recognition-project-faces-opposition/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2021/11/tsa_checkpoint.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Victory! The ICO provisionally issues £17 million fine against facial recognition company Clearview AI"
     excerpt: "In what could be seen as one of the strongest sanctions against the company in Europe, the Information Commissioner’s Office (ICO), which is tasked with enforcing data protection legislation in the UK,"

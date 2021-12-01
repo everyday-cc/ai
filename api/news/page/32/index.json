@@ -2,6 +2,153 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-11-04-cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025.md",
+      "title": "Cloud datacenters anticipated to become largely robot-dependent by 2025",
+      "excerpt": "In a strong endorsement to the value of artificial intelligence and machine learning, research firm Gartner predicts that half of cloud datacenters will be leveraging advanced robots by 2025. Gartner believes these AI-centered deployments will ramp up the operating efficiency of datacenters by a margin of 30%.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/",
+      "originalUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/human_robot_collaboration-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/cloud-datacenters-anticipated-to-become-largely-robot-dependent-by-2025/amp/",
+      "publishedDateTime": "2021-11-03T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.md",
+      "title": "Oracle bolsters cloud infrastructure with suite of AI tools",
+      "excerpt": "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/692775/oracle-bolsters-cloud-infrastructure-suite-ai-tools/",
+      "originalUrl": "https://www.reseller.co.nz/article/692775/oracle-bolsters-cloud-infrastructure-suite-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/oracle-cloud-on-building-100730618-orig_1.jpgautowebp8570",
+          "width": 472,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-privacy-commission-demands-clearview-ai-delete-all-facial-recognition-data-collected-in-australia.md",
+      "title": "Privacy commission demands Clearview AI delete all facial recognition data collected in Australia",
+      "excerpt": "Australian regulators have demanded that facial-recognition firm Clearview AI cease scraping the biometric data of Australian citizens and destroy all information and images previously gathered on",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
+      "originalUrl": "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/03/2021-03-23-ts3_thumbs-2c5.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
+      "publishedDateTime": "2021-11-03T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-why-big-tech-wants-some-facial-recognition-rules.md",
       "title": "Why Big Tech Wants (Some) Facial Recognition Rules",
       "excerpt": "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some have been making an exception for facial recognition software. That’s not to say that any consensus has developed on this rapidly developing branch of artificial intelligence: The European Union and cities and states across the U.",
@@ -1049,144 +1196,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-zillow-just-gave-up-on-ibuying-whats-the-deal-with-the-algorithmic-home-sales.md",
-      "title": "Zillow just gave up on ibuying. What’s the deal with the algorithmic home sales?",
-      "excerpt": "Zillow, OpenDoor and similar companies pledge a fast, hassle-free way to sell or buy a home. Are they raising home prices, and can technology keep up?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zillow.com/",
-      "originalUrl": "https://www.msn.com/en-us/finance/realestate/hi-or-bye-to-ibuyers-algorithmic-home-sales-growing-in-popularity-hit-early-hurdles/ar-AAQgQ35",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T04:00:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "zillow.com/",
-        "domain": "zillow.com/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-3-ways-robots-won-in-2021.md",
-      "title": "3 ways robots won in 2021",
-      "excerpt": "For all its ups and downs, 2021 has been a phenomenally important year for automation. Robots had a big year. Amid uncertainties related to the pandemic, chronic labor shortages, supply chain catastrophes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/3-ways-robots-won-in-2021/",
-      "originalUrl": "https://www.zdnet.com/article/3-ways-robots-won-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7e09bb766f67616acc2732d695a17f0ff180c967/2021/11/01/65cc6183-2683-4c96-b7d9-dda44927a628/ubtech-walker.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 923,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/3-ways-robots-won-in-2021/",
-      "publishedDateTime": "2021-11-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-even-as-china-cracks-down-on-tech-ai-companies-plan-ipos.md",
-      "title": "Even as China Cracks Down on Tech, AI Companies Plan IPOs",
-      "excerpt": "SenseTime and Megvii both include facial recognition technology among their offerings and do a lot of business with government agencies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/",
-      "originalUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6181a0f2ee0e567bfb9b47b3/master/pass/Business-Chinese-AI-Firms-Avoid-Crackdown-455720268.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/china-cracks-down-tech-ai-companies-plan-ipos/amp",
-      "publishedDateTime": "2021-11-03T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

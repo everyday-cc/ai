@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-01-eu-lawmakers-agree-data-reuse-rules-to-foster-ai-and-rd.md",
+      "title": "EU lawmakers agree data reuse rules to foster AI and R&D",
+      "excerpt": "It’s just over a year since the European Union’s executive proposed legislation aimed at encouraging widespread sharing and reuse of industrial data and protected public sector data-sets — such as health data,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/",
+      "originalUrl": "https://techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1295745465.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/amp/",
+      "publishedDateTime": "2021-12-01T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-tesla-releases-new-footage-of-auto-labeling-tool-for-its-self-driving-effort.md",
+      "title": "Tesla releases new footage of auto labeling tool for its self-driving effort",
+      "excerpt": "Tesla’s head of AI has released new footage of the automaker’s auto labeling tool for its self-driving effort. It’s expected to be an important accelerator in improving Tesla’s Full Self-Driving Beta.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/",
+      "originalUrl": "https://electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/12/Tesla-auto-labeling.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/amp/",
+      "publishedDateTime": "2021-12-01T03:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-ai-strategic-competition-norms-and-the-ethics-of-global-empire.md",
       "title": "AI Strategic Competition, Norms, and the Ethics of Global Empire",
       "excerpt": "Western democracies should play an active role in shaping the norms governing artificial intelligence and other advanced technologies.",
@@ -260,7 +363,7 @@
       "originalUrl": "https://www.zdnet.com/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -755,7 +858,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -861,7 +964,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/30/amazon-announces-graviton3-processors-for-ai-inferencing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1150,102 +1253,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-aws-pitches-robotics-as-the-next-big-thing.md",
-      "title": "AWS pitches robotics as the next big thing",
-      "excerpt": "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
-      "originalUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/7aaca86652042fcb618061ebd565670c_M.jpg",
-          "width": 375,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program.md",
-      "title": "AWS targets the energy industry with launch of the AWS Energy Competency Program",
-      "excerpt": "Amazon today announced a new program that will formally identify AWS Partners who develop specialized solutions aimed at the energy industry. The new AWS Energy Competency Program, as it’s called, will identify these specialized partners who have already demonstrated the technical expertise",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/",
-      "originalUrl": "https://techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/AWS-Energy-Competency-reInvent-Launch-2.png?w=680",
-          "width": 680,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program/amp/",
-      "publishedDateTime": "2021-11-30T06:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,135 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2021-09-14-robot-vacuums-are-learning-to-avoid-dog-poop-but-thats-not-all-they-can-see.md",
+      "title": "Robot vacuums are learning to avoid dog poop. But that’s not all they can see.",
+      "excerpt": "Robot's new robot vacuum uses a front-facing camera and artificial intelligence to deftly maneuver your home. However these tools require more data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/09/14/roomba-ai-vacuum-dog-poop/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/09/14/roomba-ai-vacuum-dog-poop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HDXFKGT55RHXJJKXPPKBQLAIXY.jpg&w=1440",
+          "width": 1440,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-ibm-watson-set-up-new-ai-and-automations.md",
+      "title": "IBM Watson Set Up New AI and Automations",
+      "excerpt": "IBM (NYSE: IBM) today declare the set up of new AI and automation ability in IBM Watson Assistant plan to make it easier for businesses to create intensify customer service experiences over any channe",
+      "sourceUrl": null,
+      "webUrl": "https://www.smechannels.com/ibm-watson-set-up-new-ai-and-automations/",
+      "originalUrl": "https://www.smechannels.com/ibm-watson-set-up-new-ai-and-automations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.smechannels.com/wp-content/uploads/2021/09/vishwanath.png?fit=610%2C380&ssl=1",
+          "width": 610,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NETGEAR",
+        "domain": "smechannels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-new-ai-writes-computer-code-still-not-skynet-but-its-learning.md",
+      "title": "New AI Writes Computer Code: Still Not Skynet, But It’s Learning",
+      "excerpt": "Sometimes, when you feed an AI content from the Internet, it learns natural language. Sometimes, it reads the entire contents of GitHub and learns to produce simple snippets of code. This is the story of what happens when the AI does both.",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/extreme/326929-new-ai-writes-computer-code-still-not-skynet-but-its-learning",
+      "originalUrl": "https://www.extremetech.com/extreme/326929-new-ai-writes-computer-code-still-not-skynet-but-its-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2015/12/Brain-Machine-2.jpg",
+          "width": 1710,
+          "height": 952,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-taking-lessons-from-a-sea-slug-study-points-to-better-hardware-for-artificial-intelligence.md",
       "title": "Taking lessons from a sea slug, study points to better hardware for artificial intelligence",
       "excerpt": "For artificial intelligence to get any smarter, it needs first to be as intelligent as one of the simplest creatures in the animal kingdom: the sea slug.",
@@ -964,135 +1093,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-41640-million-by-2027.md",
-      "title": "Artificial Intelligence Diagnostic Market is Projected to Reach USD 416,4.0 Million By 2027",
-      "excerpt": "A recent study conducted by the strategic consulting and market research firm, BlueWeave Consulting, revealed that the global artificial intelligence diagnostic market was worth USD 416.1 million in the year 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-4164-0-million-by-2027-2/",
-      "originalUrl": "https://manometcurrent.com/artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-4164-0-million-by-2027-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/10-6-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-4164-0-million-by-2027-2/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-diagnostic-market-is-projected-to-reach-usd-4164-0-million-by-2027-2/?amp=1",
-      "publishedDateTime": "2021-09-14T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-adopting-amazon-web-services-aws-for-success-three-uk-case-studies.md",
-      "title": "Adopting Amazon Web Services (AWS) for success: three UK case studies",
-      "excerpt": "Andrew Rigg, managed services solution architecture head at Perfect Image, identifies three UK case studies that demonstrate success with AWS",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/adopting-amazon-web-services-aws-for-success-three-uk-case-studies-123496899/",
-      "originalUrl": "https://www.information-age.com/adopting-amazon-web-services-aws-for-success-three-uk-case-studies-123496899/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/09/adopting-amazon-web-services-aws-for-success-three-uk-case-studies.jpeg.optimal.jpeg",
-          "width": 1013,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-money-and-mind-control-big-tech-slams-ethics-brakes-on-ai.md",
-      "title": "Money and mind control: Big Tech slams ethics brakes on AI",
-      "excerpt": "In September last year, Google's cloud unit looked into using artificial intelligence (AI) to help a financial firm decide whom to lend money to.. Read more at straitstimes.com.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/tech/tech-news/money-and-mind-control-big-tech-slams-ethics-brakes-on-ai-0",
-      "originalUrl": "https://www.straitstimes.com/tech/tech-news/money-and-mind-control-big-tech-slams-ethics-brakes-on-ai-0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/09/14/eb-microsoft-091421.jpg?itok=QsveiyyI",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

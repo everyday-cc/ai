@@ -2,6 +2,144 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-11-06-artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits.md",
+      "title": "Artificial Intelligence Bot Has Turned Racist And Homophobic After Copying Human Traits",
+      "excerpt": "As technology advances, many of us have wondered what life might be like if major decisions were made by AI robots rather than by flawed, easy influenced human beings. Surely the cold synthetic mind would cut through problems with far greater ease than we emotional mortals,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/",
+      "originalUrl": "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unilad.co.uk/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fwww.unilad.co.uk%2Fwp-content%2Fuploads%2F2021%2F11%2FRacist_AI.jpg",
+          "width": 1200,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/amp/",
+      "cdnAmpWebUrl": "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/artificial-intelligence-bot-has-turned-racist-and-homophobic-after-copying-human-traits/amp/",
+      "publishedDateTime": "2021-11-05T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNILAD",
+        "domain": "unilad.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-linode-and-other-alternative-cloud-providers-outperform-aws-azure-and-gcp-in-nvme-benchmarking-analysis.md",
+      "title": "Linode and Other Alternative Cloud Providers Outperform AWS, Azure and GCP in NVMe Benchmarking Analysis",
+      "excerpt": "A study conducted by Cloud Spectator and released by Linode reports that NVMe-based block storage from alternative cloud providers consistently outperforms offerings from Amazon Web Services (AWS), Google Cloud Platform (GCP) and Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20087407.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20087407.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-aiba-uses-ai-technology-to-vet-judges-and-refs-at-belgrade-worlds.md",
+      "title": "AIBA uses AI technology to vet judges and refs at Belgrade worlds",
+      "excerpt": "Boxing's governing AIBA claimed a win against corruption and bout manipulation on Friday after using military-approved artificial intelligence to screen judges and referees at the world championships in Belgrade.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/lifestyle/sports/aiba-uses-ai-technology-vet-judges-refs-belgrade-worlds-2021-11-05/",
+      "originalUrl": "https://www.reuters.com/lifestyle/sports/aiba-uses-ai-technology-vet-judges-refs-belgrade-worlds-2021-11-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/w_zT4LABtnS_bpcBh9Xn6Jivquc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D75EWXMYIJJ4DMAWJ4ICT2KNXU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-who-is-the-robot-voice-in-finch-caleb-landry-jones-shines-as-a-bumbling-ai.md",
       "title": "Who Is the Robot Voice in ‘Finch’? Caleb Landry Jones Shines As A Bumbling AI",
       "excerpt": "I’m speaking of course, of the voice of the anthropomorphic robot who becomes Hanks’ son/best friend in the movie, Jeff. The premise of Finch is fairly straightforward. A series of radioactive solar flares have destroyed the ozone layer,",
@@ -1062,151 +1200,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-should-you-be-using-ai-to-solve-your-online-retail-woes.md",
-      "title": "Should you be using AI to solve your online retail woes?",
-      "excerpt": "The use of AI in e-Commerce and digital retail is commonplace, so how exactly can it be used to alleviate problems faced by online retailers?",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/",
-      "originalUrl": "https://techwireasia.com/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/10/shutterstock_524159932-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/",
-      "publishedDateTime": "2021-11-04T20:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers.md",
-      "title": "How Artificial Intelligence Is Helping Veterans Become First Time Homebuyers",
-      "excerpt": "Recent statistics show that veteran homelessness increased by about 4% in 2020, aggravating an already bad situation. The US government and the VA have created very accommodating measures to enable Veterans to become homeowners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/11/04/how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/11/04/how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6184985bca6403c5698595c7%2F0x0.jpg",
-          "width": 1200,
-          "height": 807,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/11/04/how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/11/04/how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers/amp/",
-      "publishedDateTime": "2021-11-04T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-disruption-in-action-ai-accelerated.md",
-      "title": "Disruption In Action: AI Accelerated",
-      "excerpt": "Global spending on artificial intelligence systems has nearly tripled since 2019, and it's set to more than double again by the end of 2025, according to IDC. Hear from a pair of disruptors driving the accelerated adoption of AI's many promising applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/11/05/disruption-in-action-ai-accelerated.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106964175-5ED1-REQ-102121-DISRUPTIONINACTIONAIACCELERATED.jpg?v=1635776688",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T19:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

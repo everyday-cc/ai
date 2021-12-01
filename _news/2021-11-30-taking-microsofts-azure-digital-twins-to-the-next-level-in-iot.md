@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Mindtree has earned the Al and Machine Learning on Microsoft Azure advanced specialization"
+    excerpt: "India], December 1 (ANI/PRNewswire): Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced"
+    publishedDateTime: 2021-12-01T12:01:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 81
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/01/full/20211201170518.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Hisar School and Microsoft Turkey deliver artificial intelligence education"
     excerpt: "Turkish education provider Hisar School and Microsoft Turkey are providing students with education in artificial intelligence (AI). As part of this, students use Azure Stack Edge Pro to create an AI-based application that improves early diagnosis of Alzheimer's disease."
     publishedDateTime: 2021-11-29T12:12:00Z
@@ -54,20 +70,6 @@ related:
       - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10619/img-Hisar-School_web.jpg"
         width: 940
         height: 443
-        isCached: true
-  - title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
-    publishedDateTime: 2021-12-01T10:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 61
-    images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
         isCached: true
   - title: "Microsoft Open Sources This “Mixture of Experts” Models Library"
     excerpt: "Tutel is an implementation of the mixture-of-experts technique for large-scale DNN model training. a subset of large-scale AI models."

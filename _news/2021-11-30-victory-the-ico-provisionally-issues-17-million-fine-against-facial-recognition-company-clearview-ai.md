@@ -211,6 +211,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Korean Facial Recognition Project Faces Opposition"
+    excerpt: "It was discovered last month that a South Korean government project has been providing millions of facial images taken at Incheon International Airport to private industry without the consent of"
+    publishedDateTime: 2021-12-01T12:00:00Z
+    webUrl: "https://hackaday.com/2021/12/01/korean-facial-recognition-project-faces-opposition/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2021/11/tsa_checkpoint.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Facial recognition firm to been fined over its handling of personal data in the UK"
     excerpt: "It was recently found out that an Australian facial recognition firm faces a potential fine due to its handling of personal data in the UK. Indeed, the Information Commissioner’s Office has reported its concerns about the use of Clearview AI facial recognition software by police forces in the UK."
     publishedDateTime: 2021-12-01T10:35:00Z

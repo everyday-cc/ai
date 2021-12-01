@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-01T07:33:00Z
 originalUrl: "https://www.hydro-international.com/content/news/ai-to-optimize-environmental-perception-of-underwater-robots"
 webUrl: "https://www.hydro-international.com/content/news/ai-to-optimize-environmental-perception-of-underwater-robots"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.hydro-international.com/cache/4/3/e/f/1/43ef196ecbc90ac9caaa3ab5424c5a28b023fb06.png"
@@ -24,6 +25,6 @@ images:
     height: 408
     isCached: true
 
-secured: "Qd0YhPOpfBEh7R+jgUCjmBHEFc11ZpgC5bbGZmuvgCQQ+o2+zN0JXgw6N+IX+aZ3V2ZnPpA2T/AMjgOdnfXoDGZnUQpSRnmgBOwpxIVcJmZRkBq6jQGCEPQ+UyLZtYEonvhUh5YNKf4CP5lfNvc4nKYv/u3XdPBX3VGLij5hh4dbiMoe7cFJ2iKQfIZwZ6nMhLogfBA+wnvKS9mDJUslpT3+0RpI+MBmFERv0wTh7q4vv1ZsJHgPJdH2p4hCKwdFk2GPi5FT6N0M9UdwtjZDYMqO4CizTrOBbz+J8PRzTJWJCOTi+4+a0+WXczUZoqTyyPCHwNaSBRmFZUL0j3lGPF4tAEAOYxtZZA++F2cQKlU=;IgDQPmKKkahEAkbu/u++5A=="
+secured: "QFwAukDfKGmvJeN3f7IaNUo1MUd2zWGMHUwJKmb0kYcEOxBMFT9pUR1CFrE9okW2RlFFAyE63/xX0XCJqDcopKUH978lI8q4xZjmrzrJQR6j6jwZfQDHGlwJW1IidCT+BMjBaFjP9mhEGJ4OOcN/RaT8DlovpTwmKjevjrkAztBQuqbWBatAq8le9xMUjg8w59OowNNoi9vAW6k6sirx78UHjBtfegTw45SwVhx//GFCLhVZL1BnJhUb5mlSEfC4mOPCeStn81VmMidRd9Q9fWEUrfb4TSH4GH7Cw6A6TeY2b5L3AC3nrwKaDUiuv4+nYkkYcRnFJ7phTyM5qfUu9el263hTl7yRaDTQ/ps37vX7KCJF/4l0/lCio1LcXvnV+sk0sKVhO5RTQCqpI5HsJYAEb5IinM68TSN6NpxtwJJL92N7T8c7IOhc4MKe01Q9zSxSGwenVAFN6OpmX+vDKNGNJHubcLy24T/j+Wg7tIuV4N52m3xtc/V3D8jnoNYXgJ+y5VDltN5B0f3bHlGGGQ==;9ZNmURYEK7Q/VzaZdme+Ag=="
 ---
 

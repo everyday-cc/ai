@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-25-design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml.md",
+      "title": "Design of AI may change with the open-source Apache TVM and a little help from startup OctoML",
+      "excerpt": "Optimizing the compute graph of neural nets for new hardware may change even the training of neural nets, says startup OctoML.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
+      "originalUrl": "https://www.zdnet.com/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5122e903258a58970502b65f243f042e398e4268/2021/11/24/9dcb6e32-5e9a-4462-9146-0a02ab9e4e18/luis-ceze-octoml-sept-2021.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
+      "publishedDateTime": "2021-11-25T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users.md",
+      "title": "MediaTek fixes vulnerability on its chips allowing certain apps to listen users",
+      "excerpt": "MediaTek went from a controversial chipmaker to one of the most relevant in the last years. The Dimensity lineup brought the Taiwanese chipmaker big achievements",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/",
+      "originalUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/11/MediaTek-Dimensity-2232-1024x576.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/",
+      "publishedDateTime": "2021-11-25T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt.md",
       "title": "Kozhikode-based AI-driven healthcare start-up gets funding from Malta govt",
       "excerpt": "Kozhikode: Kozhikode-based IT start-up Intpurple Technologies, which developed an Artificial Intelligence driven healthcare software, has received funding from the Government of Malta, the company said on Thursday.",
@@ -1113,100 +1208,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2.md",
-      "title": "Tintra Shares Climb After Entering Artificial Intelligence JV With TMC2",
-      "excerpt": "By Jaime Llinares Taboada Shares in Tintra PLC rose Wednesday after it said it has entered into a joint venture with investment and research company",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
-      "originalUrl": "https://www.marketwatch.com/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
-      "publishedDateTime": "2021-11-24T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-rws-wins-deal-to-provide-european-parliament-with-live-translation-and-transcription-service.md",
-      "title": "RWS Wins Deal to Provide European Parliament With Live Translation and Transcription Service",
-      "excerpt": "RWS, the world's leading provider of technology-enabled language, content management and intellectual property services, together with a consortium of partners, has won a highly competitive tender to provide real-time,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20123001.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20123001.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-24T00:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

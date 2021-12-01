@@ -59,6 +59,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Using AI with Explainable Deep Learning To Help Save Lives"
+    excerpt: "Health systems have been at the epicenter of the fight against COVID-19, and have had to balance the need to alleviate suffering and save lives with substantial financial pressures.\" \"Health systems’ income statements are likely to see negative pressure as a result of the COVID-19 crisis."
+    publishedDateTime: 2021-12-01T10:56:00Z
+    webUrl: "https://www.bbntimes.com/technology/using-ai-with-explainable-deep-learning-to-help-save-lives"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 58
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_with_Explainable_Deep_Learning_To_Help_Save_Lives.jpeg"
+        width: 1280
+        height: 682
+        isCached: true
   - title: "Transforming Hospital Supply Chain with AI and Automation"
     excerpt: "Medical supplies procurement is the second largest expense which constitutes approximately 1/3rd of a hospital’s Total Cost of Operations (TCO). Tec.."
     publishedDateTime: 2021-11-29T07:58:00Z
@@ -118,20 +132,6 @@ related:
       - url: "https://imengine.prod.srp.navigacloud.com?uuid=eed53b4f-ab4a-5fe3-b067-6e404d33834e&type=primary&q=72&width=1200"
         width: 1199
         height: 799
-        isCached: true
-  - title: "Using AI with Explainable Deep Learning To Help Save Lives"
-    excerpt: "Health systems have been at the epicenter of the fight against COVID-19, and have had to balance the need to alleviate suffering and save lives with substantial financial pressures.\" \"Health systems’ income statements are likely to see negative pressure as a result of the COVID-19 crisis."
-    publishedDateTime: 2021-12-01T10:56:00Z
-    webUrl: "https://www.bbntimes.com/technology/using-ai-with-explainable-deep-learning-to-help-save-lives"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 56
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_with_Explainable_Deep_Learning_To_Help_Save_Lives.jpeg"
-        width: 1280
-        height: 682
         isCached: true
   - title: "3 Ways AI and Machine Learning Can Transform Public Agencies"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
