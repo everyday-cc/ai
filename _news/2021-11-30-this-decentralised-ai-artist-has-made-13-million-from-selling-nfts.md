@@ -36,7 +36,7 @@ related:
     provider:
       name: New Atlas
       domain: newatlas.com
-    quality: 87
+    quality: 187
     images:
       - url: "https://assets.newatlas.com/dims4/default/34517ed/2147483647/strip/true/crop/2048x1365+0+341/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb0%2F89%2F6489f46f43dcbb4de8256f316912%2Fblossoming-cadaver.jpg"
         width: 1200

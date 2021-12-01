@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Mindtree has earned the Al and Machine Learning on Microsoft Azure advanced specialization"
-excerpt: "India], December 1 (ANI/PRNewswire): Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced"
-publishedDateTime: 2021-12-01T12:01:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
+title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
+excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
+publishedDateTime: 2021-12-01T14:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
 type: article
-quality: 81
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
@@ -22,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/01/full/20211201170518.jpg"
-    width: 600
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+    width: 1496
+    height: 785
     isCached: true
 
 related:
@@ -44,6 +42,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Mindtree achieves AI and Machine Learning on Microsoft Azure advanced specialization"
+    excerpt: "Mindtree announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner's deep knowledge, extensive experience and proven success in enabling customer adoption of AI and implementing Azure solutions for machine learning life cycle and AI-powered apps."
+    publishedDateTime: 2021-12-01T12:46:00Z
+    webUrl: "https://www.business-standard.com/article/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 79
   - title: "Hisar School and Microsoft Turkey deliver artificial intelligence education"
     excerpt: "Turkish education provider Hisar School and Microsoft Turkey are providing students with education in artificial intelligence (AI). As part of this, students use Azure Stack Edge Pro to create an AI-based application that improves early diagnosis of Alzheimer's disease."
     publishedDateTime: 2021-11-29T12:12:00Z
@@ -87,6 +96,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Wjz8RWClbEVTXvBL/IzJaGpRWm+dpQd7z4lvNa3S4y9+2QA5ZQXI+W/CrfRvceOZRIvKRrxa0xUiiPt5dCJyBbPBj36n7rxn02L13JQIHzL7Roz1Jl82LWWSt2mLYiqPKGFowa2JgrjejQycqMcydSEPg2GoiODB6VCZt+95+MgOvGlmEu/o4m8oSYfVSgNo2/joY783lNZURCEnlOntRr+D4WyzKrFGaG8RQ0Da+WZ8F1RlTU9nFt/auQIVv3e5ixVMS3MyOcQVZQpwO7IeacQrYEXCHw5Jo2ieKQLIWGJAWcMF7E1RjKaYnjsl8BZiQCfuaOUFgALkltDZLH9wXMjxjMNT0KqdmWbImugSDNE=;QYQPof8NFUWn+MN0i6FoGA=="
+secured: "JHrQRVhHDH3hsgFn5BIkcf6IjPIZecOCj4cp0e7vLA8pINThG7t+M4RC/WJxGongtp4gRipXdQFrRqz389swwcmYXs0Op7KH2w7uIFj55hhIONc6EMlKtWjF3wlTnnRxg/nFPSjGSjVn9G38Dm3+/RYW5oqekoBE9N6Qli9q/u5SLKzbuJ6XhNOs8C8d9hePxH8eSlB0QD6EoLdPkp9uSPHSo9U9Gf8rVvpOK+uwHvZ0btv9D7B1P1Q45tzoep6lPXx7kGFI5FXpgboElRlT2O7XrEfr7OVsF4SOkUQQ4jGWZ/A07cy9xj5eJqd+XZ9+i6CeW2xP7U9YP/sz6Gjw8cmhrqzdZS2xUhYuqnICbzk=;WzRSSrrX1gFLA8qmJoaSxQ=="
 ---
 

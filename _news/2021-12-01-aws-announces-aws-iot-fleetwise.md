@@ -50,6 +50,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "AWS Announces AWS IoT FleetWise"
+    excerpt: "The new service is part of AWS for Automotive, an initiative that provides automotive customers with purpose-built tools for connected mobility, autonomous development, digital customer engagement, product design and engineering,"
+    publishedDateTime: 2021-11-30T12:37:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20211130005970/aws-announces-aws-iot-fleetwise"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
 
 secured: "U+vxWz3JbGlSK6wpWMB+cAmVvKvg6R3Hl1g/odoWA2DwNtydtBuMlcsJGCVrOWLL0kq1iXLsCN9XryuyHRcZdKlqEZ9VASfJphQZs9h9jcGCoG5vMMgs6mEbRqRcO8vZXS/1V9W6CEbUcNEWO9AtFTIT2rGnKHUgfKNYERmKhtX6HOQDQEnF0gNiU3rm//OJhb3+0Debz3A8BAGUYeaOvnIGYI5VQ5xW2IPs1N+sySiHDBXnCHDfpWsjvkQ0CarSxt+3fgGgfQ8zMhqTYxD9y4zhKw9DHjQlRu6DvXRPB6+ZyjbzAYOx8XMHFIY9RLarwAp7L7ldmNxvuPqCiH8/rUV8orfDNeJnEabybNmburHeP5FB+2STcBST3qk2SOc54GT+TtwxeEzU7cTLvRFuOJ3U/4/df7EW8Vbu9uGqCOqxkiQzfqSvpgwCHw5MSS+8LM4Nys5wsf2IvBMfTvo/+uPILUgA8Z/9qsekH8Y0ug8aTm8J0QJAI48kjOqR/5Dxy7zOhvLqLVvEjLJ0Wv2miw==;xPLX8c8n2ayY37p7l8qlxA=="
 ---

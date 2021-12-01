@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/11/30/purpose-built-cloud-aws-chief-
 webUrl: "https://siliconangle.com/2021/11/30/purpose-built-cloud-aws-chief-selipsky-aims-move-software-stack/"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning will drive the cloud data journey, says AWS chief Adam Selipsky"
+    excerpt: "One reason Adam Selipsky was appointed chief executive of Amazon Web Services Inc. earlier this year was his extensive experience at AWS — but it’s a good bet that his tenure heading Tableau Software Inc."
+    publishedDateTime: 2021-12-01T13:50:00Z
+    webUrl: "https://siliconangle.com/2021/12/01/machine-learning-will-drive-cloud-data-journey-says-aws-chief-adam-selipsky/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/05/adamselipsky-exasole-twitter.jpg"
+        width: 829
+        height: 617
+        isCached: true
   - title: "Where new AWS CEO Adam Selipsky plans to take cloud computing next"
     excerpt: "Adam Selipsky, Amazon Web Services Inc.’s new chief executive, doesn’t want to show all his cards just yet. But it’s clear, as he looks ahead in anticipation of the No. 1 cloud computing provider’s 10th annual re:Invent conference starting today,"
     publishedDateTime: 2021-11-29T02:48:00Z

@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AWS Unveils The Latest On Graviton, Inferentia And Trainium Instances At Re:Invent 2021"
-    excerpt: "Invent 2021, which is the Amazon Web Services (AWS) annual user conference. This article will attempt to synthesize what he considers the biggest EC2 announcements related to AWS’s custom silicon."
-    publishedDateTime: 2021-11-30T17:30:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/11/30/aws-unveils-the-latest-on-graviton-inferentia-and-trainium-instances-at-reinvent-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/11/30/aws-unveils-the-latest-on-graviton-inferentia-and-trainium-instances-at-reinvent-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/11/30/aws-unveils-the-latest-on-graviton-inferentia-and-trainium-instances-at-reinvent-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a65ed13635b6190e7f2e6d%2F0x0.png"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AWS kicks off re:Invent with compute, networking, and data launches"
     excerpt: "New AWS CEO Adam Selipsky fired off a barrage of new product announcements in his first AWS re:Invent keynote."
     publishedDateTime: 2021-11-30T21:00:00Z
@@ -92,20 +76,6 @@ related:
       - url: "https://www.storagereview.com/wp-content/uploads/2021/11/2021_reInvent_Event-Site.png"
         width: 781
         height: 300
-        isCached: true
-  - title: "AWS unveils new Graviton and machine learning chips at re:Invent"
-    excerpt: "Invent gets underway once again, AWS has kicked things off with its next-gen Graviton processor and a new Trainium AI chip."
-    publishedDateTime: 2021-12-01T12:28:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/dec/01/aws-unveils-new-graviton-and-machine-learning-chips-at-reinvent/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 56
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/12/brian-kostiuk-S4jSvcHYcOs-unsplash-scaled.jpg"
-        width: 2560
-        height: 1704
         isCached: true
   - title: "ElectrifAi Announces MLaaS and SpendAi at AWS re:Invent 2021"
     excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
@@ -191,6 +161,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Top news from re:Invent keynotes"
+    excerpt: "Invent keynote given by new CEO Adam Selipsky followed the familiar format and provided totally new services and expected updates to existing ones. No surprise that there were surprises! Adam took us back the 15 years of AWS from the beginnings of S3 early EC2 instances and important launches over the years."
+    publishedDateTime: 2021-12-01T14:09:00Z
+    webUrl: "https://www.publicnow.com/view/8CF5C818C46E1E5BA93DEDB7CA53D7D342DEED8F"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 4
 
 secured: "cyQtS8kotyOoICdR2mnpllnP3xVVmpF8bcv9joV730q9RBZi6CcGE+xn2d4ZxEWwn6gZzz2iW8l8HG1fhyg9TNmRYrlgRRLjzJYVD72F0CtbLuTEdEtKi3lpGcOMm9+y/m2ALr1pciglZR9IFCadqMTXxVKDIdZbk+7K8DZnP6WVseQHyt6UQPMa0hXJBqhHj73FbhLW/wX9ag2Sp/YgOnHzi1xw7xHQRcXTtfkiGGqv6ZIRFR4f73A/w/Uaruv96sbnMLK45FEMSiQW/fIVfnzFa1rV/VdcqIUxG9HNEBvAfXgjqHWLzH99UdbGKOe26030M6dJIzfgukTGO/gH8GM4wHC77bE97t1cgPX0sOZxcAA6bh/dEcK2ejy6VdpRgLEX0dOrmLxCXuHYiRUbPNpl+WKgv66I8H4TSg0O7bLiNtueTsrkQJwljG58hwhT3r8yhQTTzO9p2GNdNfEiuSjH6B2TZzJDOdBTH+bsZWDH5u4Gl1YLoZPzfl+OKWgainvXh2PzutoR3CnJqfkXVA==;ZtP0ejK7sRzMalHtbpyJuw=="
 ---

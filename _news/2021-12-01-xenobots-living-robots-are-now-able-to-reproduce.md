@@ -93,6 +93,22 @@ related:
         width: 720
         height: 405
         isCached: true
+  - title: "VIDEO: Living Robots Made From Frog Cells Can Now Self-Replicate, Scientists Say"
+    excerpt: "By Martin M Barillas A team of scientists reports they have discovered a new form of biological reproduction and have applied it to create the world’s"
+    publishedDateTime: 2021-12-01T12:49:00Z
+    webUrl: "https://vidanewspaper.com/2021/12/01/video-living-robots-made-from-frog-cells-can-now-self-replicate-scientists-say/"
+    ampWebUrl: "https://vidanewspaper.com/2021/12/01/video-living-robots-made-from-frog-cells-can-now-self-replicate-scientists-say/?amp"
+    cdnAmpWebUrl: "https://vidanewspaper-com.cdn.ampproject.org/c/s/vidanewspaper.com/2021/12/01/video-living-robots-made-from-frog-cells-can-now-self-replicate-scientists-say/?amp"
+    type: article
+    provider:
+      name: Vida
+      domain: vidanewspaper.com
+    quality: 54
+    images:
+      - url: "https://storage.googleapis.com/prod-zenger-storage/image/20211130/16-9_fdb4d1d4-6d2d-44ef-983e-f948a8ffd34d.png?20211201083356"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Scientists made tiny xenobots out of frog cells. Now they say those robots can reproduce."
     excerpt: "Using artificial intelligence, the xenobots were able to replicate themselves using a process not seen in humans or any other animals."
     publishedDateTime: 2021-11-30T15:46:00Z

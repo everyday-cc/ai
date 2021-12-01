@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-targets-auto-and-indust
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-targets-auto-and-industrial-sectors-with-fleetwise-twinmaker/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "AWS Announces AWS IoT FleetWise"
+    excerpt: "The new service is part of AWS for Automotive, an initiative that provides automotive customers with purpose-built tools for connected mobility, autonomous development, digital customer engagement, product design and engineering,"
+    publishedDateTime: 2021-11-30T12:37:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20211130005970/aws-announces-aws-iot-fleetwise"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
 
 secured: "NIql/ZxGQQs8PjJAiz4I/OU3kizTGoOGhtrpTK+7WcjVbSjRLPdydvocZTbx3nI6nGS6TlPaRn2EYGAYh3aLdgXe1iNB6YypLya+VRw5JyseMESchBvVGNYQ0uQQRCL3AFaYeE5elQ7TklQNkAT8g4HgLdAUkYj/l0TM4E2sRzuMFbhSH5eHfmMiucwlVK6h2VInUJKQOjxuAXSLzG3U43DswCZ/2xLey7yYc3GLd4My4yyiRKlbZDTiyoNjazqrvSOsJZK9IZgMZcX225VDU8oaHWjCzHIxRQl49AvqdNBNZNORUcmJ3nXyKumQxw7KvCJ6WvJUv75QVVhKxTxFAQvdXC1Kxh7iKpw5LQnGXrg=;wf33lvb/JQ9fKcmwF5XYoA=="
 ---

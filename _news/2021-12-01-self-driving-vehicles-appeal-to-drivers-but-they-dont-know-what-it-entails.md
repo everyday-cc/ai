@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "An Insight into Autonomous and Self Driving Trucks"
+    excerpt: "Imagine a world where trucks drive themselves, and autonomous vehicles rule the road. Industry experts project autonomous vehicles will become more common over the next ten years. Already there are companies that operate autonomous trucks in select areas such as mines,"
+    publishedDateTime: 2021-12-01T14:44:00Z
+    webUrl: "https://techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/"
+    ampWebUrl: "https://techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/Autonomous-and-Self-Driving-Trucks.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "J.D. Power Examines Understanding Of Self-Driving Vehicles"
     excerpt: "The study index is based on six unique attributes of consumer comfort with fully automated, self-driving vehicles."
     publishedDateTime: 2021-11-30T16:45:00Z
@@ -70,6 +86,20 @@ related:
       - url: "https://s19538.pcdn.co/wp-content/uploads/2021/01/self-driving-1000x563.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Level-Setting: Why Drivers Still Don’t Understand Self-Driving"
+    excerpt: "The deficits are definitely concerning—it’s a mismatch for sure.” In a release, she called it “a ‘Danger, Will Robinson’ moment for the fully automated self-driving vehicle industry.” The results do not reflect a lack of curiosity."
+    publishedDateTime: 2021-11-30T19:07:00Z
+    webUrl: "https://www.timesunion.com/news/article/Level-Setting-Why-Drivers-Still-Don-t-16662829.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/03/01/21770345/3/rawImage.jpg"
+        width: 533
+        height: 300
         isCached: true
 
 secured: "00eSROv8+Ttft+gnImX6imWPCo93Wo9pFlHoXvXwwkPVeXiYGBZtrDM1T8MYgqgwOZicEcc1Vv0CPE6Ar3sdVNokAZ1/q1Fv6YxuCw8SuJyAe1kBvfCyUWrYryapr/PYav0iIw+XMqQIPyoaMXprgI9dM19jgp2rCa8YPySvN13AR8kYpFwXo3+ZivlLXpnWgWrKTCkb+61cBxJkP56q/U+IMu+aNFOIQCWIMGn6BldjLrVxDA5ruZ6HzX69HN8qR4ZZfagd9am+zGymBTUF67nG8zBy8nVKvIDNSRDtI1iFWUZcyiN8z+o1bBS+6NvNgFFxh8DQuxd8ZqFBI4ejfpJ0mUbpxT4je1jW5MYlWNt6OYqqQAXfSrsRAk9BmvSBtYVLgD/iDlo0HiJixLCevbSgrBFZx16yhtpplo+GC0enAEkGeIM/iYuGWrAUSUaldGxm3kNJ+3kkmg+LhsFiJqeLVg/g851LDyAwZJ9LLhHX5AZ+vzbkxsEYPdOe7Ials2DHHKgLr9KCl+k5z2LOig==;1yYZgqCE2Og8Nary9UlNDg=="

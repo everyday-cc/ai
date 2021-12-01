@@ -26,50 +26,59 @@ images:
     isCached: true
 
 related:
-  - title: "AI Software Market Forecast to Hit $62.5 Billion in 2022"
-    excerpt: "The AI software market is expected grow 21.3% next year, according to Gartner, as enterprises boost their AI spending."
-    publishedDateTime: 2021-11-30T15:03:00Z
-    webUrl: "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230"
+  - title: "GPU Market Size | Industry Forecast Report To 2024"
+    excerpt: "GPU Market is set to exceed USD 80 billion by 2024; according to a new research report by Global Market Insights, Inc. Ever increasing demand for advanced graphics processing across several sectors is majorly driving the graphics processing unit (GPU) market trends."
+    publishedDateTime: 2021-12-01T04:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/gpu-market-size-industry-forecast-report-to-2024-2021-12-01"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "https://images.wsj.net/im-443065/social"
-        width: 1280
-        height: 640
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence System Software Market Offers Greater Future Potential By 2026"
-    excerpt: "Portland United States The Artificial Intelligence System Software Market study offers a comprehensive analysis of the business models key strategies and respective market shares of some of the most prominent players in this landscape Along with an in depth commentary"
-    publishedDateTime: 2021-11-30T16:39:00Z
-    webUrl: "https://www.openpr.com/news/2480274/artificial-intelligence-system-software-market-offers-greater"
-    ampWebUrl: "https://www.openpr.com/amp/2480274/artificial-intelligence-system-software-market-offers-greater"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2480274/artificial-intelligence-system-software-market-offers-greater"
+  - title: "Face Recognition Device Market Size 2021 – Global Growth, Trends, Industry Analysis, Key Players and Forecast 2027"
+    excerpt: "Global Face Recognition Device Market includes Extensive company profiling of leading players of the Face Recognition Device market. All of the segments studied in the report are analyzed based on different factors such as market share,"
+    publishedDateTime: 2021-11-30T04:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2021-global-growth-trends-industry-analysis-key-players-and-forecast-2027-2021-11-30"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
-      - url: "https://cdn.openpr.com/U/b/Ub30290979_g.jpg"
-        width: 800
-        height: 453
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "News: Global AI software market to touch $62 billion in 2022: Gartner"
-    excerpt: "As per the report the top five use cases for AI software spending in 2022 will be knowledge management virtual assistants autonomous vehicles digital workplace and crowdsourced data"
-    publishedDateTime: 2021-11-29T03:32:00Z
-    webUrl: "https://www.peoplematters.in/news/technology/global-ai-software-market-to-touch-62-billion-in-2022-gartner-31762"
+  - title: "Artificial Intelligence (AI) in Drug Discovery Markets - Global Industry Analysis, Trends, Market Size, and Forecasts to 2027 - ResearchAndMarkets.com"
+    excerpt: "How to Find Winning Stocks with Omicron Variant Looming! CLICK TO WATCH! The \"Artificial Intelligence (AI) in Drug Discovery Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-11-29T11:26:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24327562/artificial-intelligence-ai-in-drug-discovery-markets-global-industry-analysis-trends-market-size-a"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24327562"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24327562"
     type: article
     provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 37
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
     images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1636960766/ad-kqkzykwk.png"
-        width: 990
-        height: 550
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
+  - title: "Outlook on the Explainable AI Global Market to 2030 - Opportunity Analysis and Industry Forecasts"
+    excerpt: "The \"Explainable AI Market by Offering, by Deployment, by Technology, by End-use Industry, by Application - Global Opportunity Analysis and Industry Forecast, 2021-2030\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-11-29T16:29:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/11/29/9500623.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "L4xQHUy5yTQNrY+So+1Qf6IFuBu6VPK71737DlGDK8k7tQU/XUksHMSYTMOP3lsX0KezHYsdQEs32u6Bk3os/whOw8thaQ+F1v45OsuPfEKiqeKPyW3H1pz0IqqiNFmIt+kYq5t2xJ44I029Gbtox9MjvWPQ21cenihTeADQpRaQap7nAf41ECDfoExE9tLT5FihCcBoEInELwk/cTWxBBO4pppFsrlA6+GeELrEPIp0k0gP08nWQaGxKwpTAq5z5ryFbwiZCdbjefNkf5GwsgaF3IuN+U02/x4QAmrpNhE7tYevukd8wJBcOxqDgXtPiuS75IkLb0iWRB+AEQziDadGEGcSA4G3zpERFO+IRGvelnyMOhIQPIBjXe4bqzRQh/EdO3UlNYGHDxWZA2u5Rx3xGtQRLI5/iKO8/LT6BxBVE49wXAu5UtIZZ3hAA18YE8x9wq8VeqxJWI6OUMZBcoI9jEQudtCeoXBE5Yj3EbdaFQ66Lax4NgtYtdk86sJeD3xIuLl5MgfYD9zUHUoA/Q==;6EZXvqmt5tybU8jozownOg=="
 ---

@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-27-google-is-trying-to-make-its-cloud-more-attractive-to-app-developers.md",
+      "title": "Google is trying to make its cloud more attractive to app developers",
+      "excerpt": "AWS still leads with a 32% share of spending, followed by Microsoft Azure's 19% and Google Cloud's 7%. Google is focusing on machine learning, analytics and data management. Apple and Google have reduced platform commissions for their respective app ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/24/233629f0-3087-439c-b2ea-3a229ab17af3/thumbnail/1200x675/e09a6de7f7548d8d07a36872bb51025e/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "publishedDateTime": "2021-09-27T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-engineering-local-recommendations-leveraging-heinekens-global-scale.md",
+      "title": "Engineering local recommendations leveraging HEINEKEN's global scale",
+      "excerpt": "The HEINEKEN Company is innovating its 157 years old business with data and analytics. Recommendation systems increasingly support our business processes by filtering information for insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/engineering-local-recommendations-leveraging-global-van-der-goes",
+      "originalUrl": "https://www.linkedin.com/pulse/engineering-local-recommendations-leveraging-global-van-der-goes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGMyYVesu3FuQ/article-cover_image-shrink_600_2000/0/1632724880412?e=1639008000&v=beta&t=946KCQQXJKo69bwczeC5H4hei93-oj4imvn9zWmqoZ0",
+          "width": 1664,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-26-become-a-microsoft-azure-expert-with-this-60-bundle.md",
       "title": "Become a Microsoft Azure expert with this $60 bundle",
       "excerpt": "Meanwhile, Microsoft Azure powers thousands of cloud platforms ... Instead of being tied to a particular work machine, we will be able to access data and run powerful software from a virtual ...",
@@ -1234,84 +1338,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot.md",
-      "title": "Wells Fargo taps Microsoft Azure, Google Cloud for its multi-cloud pivot",
-      "excerpt": "Banking giant Wells Fargo said it is adopting a multi-cloud strategy that combines its data centers with cloud compute from Microsoft Azure and Google Cloud. Under the new digital",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
-      "originalUrl": "https://www.zdnet.com/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
-      "publishedDateTime": "2021-09-15T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation.md",
-      "title": "Deep Learning Market – Major Technology Giants in Buzz Again | General Vision Inc., Microsoft Corporation, Intel Corporation",
-      "excerpt": "A new research study from JCMR with title Global Deep Learning Market Research Report 2021 provides an in-depth assessment of the Deep Learning including key market trends, upcoming technologies, industry drivers,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation/",
-      "originalUrl": "https://manometcurrent.com/deep-learning-market-major-technology-giants-in-buzz-again-general-vision-inc-microsoft-corporation-intel-corporation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T21:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "Microsoft AI"
       ]

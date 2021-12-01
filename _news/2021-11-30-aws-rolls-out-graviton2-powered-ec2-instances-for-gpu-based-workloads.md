@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-rolls-out-graviton2-pow
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/"
 type: article
 quality: 86
-heat: 127
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -26,15 +26,68 @@ topics:
   - AWS AI
 
 related:
-  - title: "Habana Labs and AWS Provide Alternative to GPU in Machine-Learning Training Workloads"
-    excerpt: "AWS announced the availability of Amazon EC2 DL1 instances or virtual server services powered by Gaudi accelerators from Habana Labs. Founded in 2016 and acquired by Intel in 2019 for US$2 billion, Israel-based Habana Labs designs programmable Machine-Learning (ML) accelerators for model inference and training in the data center and cloud."
-    publishedDateTime: 2021-11-30T18:48:00Z
-    webUrl: "https://www.abiresearch.com/market-research/product/7780014-habana-labs-and-aws-provide-alternative-to/"
+  - title: "AWS launches its Graviton 3 processor"
+    excerpt: "Invent conference, AWS today announced the newest generation of its Arm-based Graviton processors: the Graviton 3. The company promises that the new chip will be 25 percent faster than the last-generation chips,"
+    publishedDateTime: 2021-11-30T17:18:00Z
+    webUrl: "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/"
+    ampWebUrl: "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/"
     type: article
     provider:
-      name: ABI Research
-      domain: abiresearch.com
-    quality: 46
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 189
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-12.00.02-PM.jpg?w=1024"
+        width: 1024
+        height: 558
+        isCached: true
+  - title: "AWS Unveils The Latest On Graviton, Inferentia And Trainium Instances At Re:Invent 2021"
+    excerpt: "Invent 2021, which is the Amazon Web Services (AWS) annual user conference. This article will attempt to synthesize what he considers the biggest EC2 announcements related to AWS’s custom silicon."
+    publishedDateTime: 2021-11-30T17:30:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/11/30/aws-unveils-the-latest-on-graviton-inferentia-and-trainium-instances-at-reinvent-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/11/30/aws-unveils-the-latest-on-graviton-inferentia-and-trainium-instances-at-reinvent-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/11/30/aws-unveils-the-latest-on-graviton-inferentia-and-trainium-instances-at-reinvent-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 96
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a65ed13635b6190e7f2e6d%2F0x0.png"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Amazon announces Graviton3 processors for AI inferencing"
+    excerpt: "Invent 2021 conference, Amazon announced Graviton3, the latest generation of its cloud-hosted AI inferencing chips."
+    publishedDateTime: 2021-11-30T17:32:00Z
+    webUrl: "https://venturebeat.com/2021/11/30/amazon-announces-graviton3-processors-for-ai-inferencing/"
+    ampWebUrl: "https://venturebeat.com/2021/11/30/amazon-announces-graviton3-processors-for-ai-inferencing/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/amazon-announces-graviton3-processors-for-ai-inferencing/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "AWS unveils new Graviton and machine learning chips at re:Invent"
+    excerpt: "Invent gets underway once again, AWS has kicked things off with its next-gen Graviton processor and a new Trainium AI chip."
+    publishedDateTime: 2021-12-01T12:28:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/dec/01/aws-unveils-new-graviton-and-machine-learning-chips-at-reinvent/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 56
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/12/brian-kostiuk-S4jSvcHYcOs-unsplash-scaled.jpg"
+        width: 2560
+        height: 1704
+        isCached: true
   - title: "Amazon EC2 G5g NVIDIA GPU-Accelerated Graviton-Based instances"
     excerpt: "The AWS team have confirmed the general availability of the new Amazon EC2 G5g instances providing up to 30 percent lower cost"
     publishedDateTime: 2021-11-30T12:23:00Z
@@ -62,20 +115,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1698271/Granulate_Achieves_AWS_Graviton_Ready.jpg?p=facebook"
         width: 800
         height: 419
-        isCached: true
-  - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
-    excerpt: "Amazon Web Services (AWS) recently announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by AWS-designed chips."
-    publishedDateTime: 2021-12-01T12:01:00Z
-    webUrl: "https://analyticsindiamag.com/aws-announces-three-new-amazon-ec2-instances-powered-by-aws-designed-chips/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/Screen-Shot-2021-11-30-at-12.00.02-PM.jpg"
-        width: 730
-        height: 398
         isCached: true
 
 secured: "9QeHvps0M7CLJqDbsGXDnnOVLXLRH0ytN7HDsrgU9IY2O8ne03pGy/sVmg6lPQF79JRmJ80cTWprZn69f0eEsjJZ+1ZcXh6pe99ZuXhaz209sVOI+QdEL80trJnQTNdwxPxJ2CJQNPiIYg4razGEHWs4LJH22aae0uBOiTA7Y7hCSRiEt/JJ+ZeHSJtJNzLlwz8UzXWdYh6WDwz2RKRjUm74NW1l9zn9EGfoio98NH7AmJTNHhjCJ1mHU38aj9GS+pSXp4JpMA+fgR49Vudpluxa4g9tBklsQQeMfQuFNvQQ8BwRZAxWbUKH2XgOifuIxnUaGq4OyKG3FKhPLFY9AySVpNvxJK4BTCVwrRXwDSATY092YmJYnXoCBDYGx4KjIfeJ6dtc7oH35eEpBJEHjYMKB9NL08fNyYek+3vxXJuL+gmzAXcL9LxcxRQ1e1on1W3/EIPQuaih9rkh55GgDHQKRrS4+emz2IrfI9IK7fVOhuOB3GQ/r1O8ZPtTNZ4fA2o3LI/UeGouCWVHQ2U0Eg==;H+UNiKUDeIZewLYnWBb2OQ=="

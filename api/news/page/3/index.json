@@ -2,6 +2,438 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-30-face-off-robots-come-equipped-with-facial-recognition.md",
+      "title": "Face-Off: Robots Come Equipped With Facial Recognition",
+      "excerpt": "In the not-so-distant future, robotic dogs equipped with facial recognition cameras might just scamper about outside and help police officers identify suspicious persons. Contactless commerce, airport security and law enforcement: The use of facial recognition technology (FRT) is quickly becoming a must-have for the public and private sectors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367",
+      "originalUrl": "https://www.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/489420",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367/amp",
+      "publishedDateTime": "2021-11-29T17:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-botto-the-decentralized-aihuman-artist-makes-its-first-million.md",
+      "title": "Botto, the decentralized AI/human artist, makes its first million",
+      "excerpt": "An AI algorithm called Botto has made somewhere around US$1.3 million at auction for its first six NFT artworks. Botto generates thousands of images, and a community of humans vote to influence its direction and decide which pieces go to auction.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/collectibles/botto-ai-art/",
+      "originalUrl": "https://newatlas.com/collectibles/botto-ai-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/34517ed/2147483647/strip/true/crop/2048x1365+0+341/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb0%2F89%2F6489f46f43dcbb4de8256f316912%2Fblossoming-cadaver.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/collectibles/botto-ai-art/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/collectibles/botto-ai-art/?amp=true",
+      "publishedDateTime": "2021-11-29T17:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security.md",
+      "title": "Hyderabad: GITAM to host FDP on AI in Cyber Security",
+      "excerpt": "The Department of CSE, School of Technology of GITAM Deemed to be University, here, is organising a one-week faculty development programme (FDP) on ‘Role of Artificial Intelligence in",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security-717508",
+      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security-717508",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/11/29/1124076-gitam.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security-717508",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security-717508",
+      "publishedDateTime": "2021-11-29T16:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2.md",
+      "title": "Using AI To Scrub Image Noise (And Save Money And Time) In The Addams Family 2",
+      "excerpt": "Removing visual noise from visual effects is a big challenge for post-production companies, but a new Intel de-noiser using artificial intelligence saved Cinesite an estimated 20 percent in creating the recently released 'The Addams Family 2' movie.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/",
+      "originalUrl": "https://www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a5675509704b2b0f06c332%2F0x0.jpg",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/amp/",
+      "publishedDateTime": "2021-11-29T15:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-robot-company-offers-200k-for-your-face.md",
+      "title": "Robot company offers $200K for your face",
+      "excerpt": "A robot manufacturing company is looking for a human face to put on its newest product. Promobot, a European company, said in a press release that it is willing to pay $200,000 to someone for the rights to use their face forever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/",
+      "originalUrl": "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/4i5kX0KZOnbyyPlSvYI4czaobwk=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/XR5L5PB3QFA3HDDEALPG5F3BCQ.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp",
+      "publishedDateTime": "2021-11-29T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KIRO-TV",
+        "domain": "kiro7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-how-hiya-taps-ai-to-kill-phone-spam.md",
+      "title": "How Hiya taps AI to kill phone spam",
+      "excerpt": "The company claims its new adaptive AI is much more effective than conventional tactics that only react to known numbers for phone spam.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/29/how-hiya-taps-ai-to-kill-phone-spam/",
+      "originalUrl": "https://venturebeat.com/2021/11/29/how-hiya-taps-ai-to-kill-phone-spam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1329425423-e1638200728634.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/29/how-hiya-taps-ai-to-kill-phone-spam/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/29/how-hiya-taps-ai-to-kill-phone-spam/amp/",
+      "publishedDateTime": "2021-11-29T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-does-the-right-to-bear-arms-cover-ai-guns-and-killer-robots.md",
+      "title": "Does the right to bear arms cover AI guns and killer robots?",
+      "excerpt": "The conversation surrounding autonomous weapons may center on warfare and terrorism, but it's time we discussed the 2nd Amendment too.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/does-right-to-bear-arms-cover-ai-guns-and-killer-robots",
+      "originalUrl": "https://thenextweb.com/news/does-right-to-bear-arms-cover-ai-guns-and-killer-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2Frobots_with_guns.jpg&signature=6445c569aa46bc45e677c928eb00d8ce",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-how-to-remove-bias-from-ai-models.md",
+      "title": "How to remove bias from AI models",
+      "excerpt": "With AI making more real-world decisions everyday, reining in bias is more important than ever. As AI becomes more pervasive, AI-based discrimination is getting the attention of policymakers and corporate leaders but keeping it out of AI-models in the first place is harder than it sounds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-to-remove-bias-from-ai-models/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-remove-bias-from-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/11/29/4b8e4a82-a67b-4109-ba38-9161274c3446/resize/1200x/2ce3b0768b0e30006d45a90e02f1399b/shutterstock-1218220324.jpg",
+          "width": 1200,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-remove-bias-from-ai-models/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-remove-bias-from-ai-models/",
+      "publishedDateTime": "2021-11-29T12:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-artificial-intelligence-that-understands-object-relationships.md",
+      "title": "Artificial intelligence that understands object relationships",
+      "excerpt": "When humans look at a scene, they see objects and the relationships between them. On top of your desk, there might be a laptop that is sitting to the left of a phone, which is in front of a computer monitor.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/artificial-intelligenc-51.jpg",
+          "width": 900,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-relationships.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-relationships.amp",
+      "publishedDateTime": "2021-11-29T12:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-ai-just-designed-the-worlds-first-living-robot-that-can-make-babies.md",
       "title": "AI Just Designed The World’s First Living Robot That Can Make Babies",
       "excerpt": "People have philosophized about this forever,” says Joshua Bongard, senior author and computer scientist at the University of Vermont. “But now you can actually do experiments to create biological machines,",
@@ -54,50 +486,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-30-aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads.md",
-      "title": "AWS rolls out Graviton2-powered EC2 instances for GPU-based workloads",
-      "excerpt": "Amazon Web Services on Monday said it's bringing a new set of EC2 instances into general availability, including Graviton2-based instances designed for GPU-based workloads. Along with Amazon's custom-designed Graviton2 chip,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/",
-      "originalUrl": "https://www.zdnet.com/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/",
-      "publishedDateTime": "2021-11-29T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-30-unesco-launches-global-standard-for-ai-ethics.md",
       "title": "UNESCO launches global standard for AI ethics",
       "excerpt": "Standard aims to provide AI with a strong ethical basis that will not only protect but also promote human rights and human dignity.",
@@ -106,7 +494,7 @@
       "originalUrl": "https://www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -158,7 +546,7 @@
       "originalUrl": "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -791,395 +1179,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-south-america-artificial-intelligence-in-marketing-market.md",
-      "title": "South America Artificial Intelligence in Marketing Market",
-      "excerpt": "The artificial intelligence in marketing market in SAM is expected to reach US 11 291 23 million by 2028 from US 1 728 64 million in 2021 The market is estimated to grow at a CAGR of 30 7 from",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2477805/south-america-artificial-intelligence-in-marketing-market-will",
-      "originalUrl": "https://www.openpr.com/news/2477805/south-america-artificial-intelligence-in-marketing-market-will",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub29191501_g.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2477805/south-america-artificial-intelligence-in-marketing-market-will",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2477805/south-america-artificial-intelligence-in-marketing-market-will",
-      "publishedDateTime": "2021-11-29T02:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-amazon-personalize-announces-recommenders-optimized-for-retail-and-media-entertainment.md",
-      "title": "Amazon Personalize announces recommenders optimized for Retail and Media & Entertainment",
-      "excerpt": "Today, we’re excited to announce the launch of personalized recommenders in Amazon Personalize that are optimized for retail and media and entertainment, making it even easier to personalize your websites, apps, and marketing campaigns. With this launch, we have drawn on Amazon’s rich experience creating",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-announces-recommenders-optimized-for-retail-and-media-entertainment/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-announces-recommenders-optimized-for-retail-and-media-entertainment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T00:07:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-robotics-startup-fjdynamics-raises-70m-to-make-manual-labor-easier.md",
-      "title": "Robotics startup FJDynamics raises $70M to make manual labor easier",
-      "excerpt": "FJDynamics, founded by DJI’s former chief scientist Wu Di, just closed a Series B round of $70 million as it advances its goal to empower workers in the harshest environment with robotic technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/",
-      "originalUrl": "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/2421637834861_.pic_hd-e1638163752386.jpg?w=823",
-          "width": 823,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/",
-      "publishedDateTime": "2021-11-28T21:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-ai-robotics-alongside-us-today.md",
-      "title": "AI Robotics alongside us today",
-      "excerpt": "From a young age, my fascination with how our world works drove me to imagine machines that make our everyday lives more enjoyable. Robots working alongside humans to manage day-to-day mundane tasks was a world I wanted to help create.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-robotics-alongside-us-today-pieter-abbeel",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-robotics-alongside-us-today-pieter-abbeel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE9kuTiv0zQng/article-cover_image-shrink_720_1280/0/1638149826611?e=1643846400&v=beta&t=Vtk75rpPqFM5evGX6jMTVcGclCt70iskUoREeePExvY",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-28T17:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-view-how-to-take-fintech-banks-to-the-next-level.md",
-      "title": "View: How to take fintech banks to the next level",
-      "excerpt": "India has the highest fintech adoption rate of 87%, against the global average of 64%. Several new segments of fintech startups have emerged, and are gaining popularity among consumers in India. These are redefining financial services for customers and providing more value to them.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/articleshow/87967546.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/articleshow/87967546.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/thumb/height-450,width-600,imgsize-12608,msid-87967859/.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms",
-      "publishedDateTime": "2021-11-28T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-is-your-ai-project-doomed-to-fail-before-it-begins.md",
-      "title": "Is your AI project doomed to fail before it begins?",
-      "excerpt": "Yet despite increased adoption over the past two years, only a small percentage of companies feel they are gaining significant value from their AI initiatives. Where are their efforts going wrong? Simple missteps can derail any AI initiative,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/28/is-your-ai-project-doomed-to-fail-before-it-begins/",
-      "originalUrl": "https://venturebeat.com/2021/11/28/is-your-ai-project-doomed-to-fail-before-it-begins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/28/is-your-ai-project-doomed-to-fail-before-it-begins/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/28/is-your-ai-project-doomed-to-fail-before-it-begins/amp/",
-      "publishedDateTime": "2021-11-28T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-28-vuno-boasts-of-its-ai-solutions-and-research-results-at-rsna-2021.md",
-      "title": "VUNO Boasts of its AI Solutions and Research Results at RSNA 2021",
-      "excerpt": "South Korean artificial intelligence (AI) developer VUNO Inc. announced that it will join the Radiological Society of North America 2021 (RSNA 2021), one of the biggest annual events, featuring a series of industry symposia in radiology.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vuno-boasts-of-its-ai-solutions-and-research-results-at-rsna-2021-1031007150",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vuno-boasts-of-its-ai-solutions-and-research-results-at-rsna-2021-1031007150",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1696983/VUNO_at_RSNA_2021.jpg",
-          "width": 400,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-28T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-28-ai-chatbots-their-influence-on-mobile-technology.md",
-      "title": "AI, Chatbots & Their Influence on Mobile Technology",
-      "excerpt": "Relatively, chatbots are also now witnessing rapid growth in their adoption by corporates, big or small, to assist users with queries faster than ever before. A report by Statista states, by 2025, the global AI market is expected to cross a value threshold amounting to $126 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/",
-      "originalUrl": "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/11/AI-and-Chatbots-ITNA.jpg",
-          "width": 800,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/?amp",
-      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/?amp",
-      "publishedDateTime": "2021-11-27T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

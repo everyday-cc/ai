@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning will drive the cloud data journey, says AWS chief Adam Selipsky"
+    excerpt: "One reason Adam Selipsky was appointed chief executive of Amazon Web Services Inc. earlier this year was his extensive experience at AWS — but it’s a good bet that his tenure heading Tableau Software Inc."
+    publishedDateTime: 2021-12-01T13:50:00Z
+    webUrl: "https://siliconangle.com/2021/12/01/machine-learning-will-drive-cloud-data-journey-says-aws-chief-adam-selipsky/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/05/adamselipsky-exasole-twitter.jpg"
+        width: 829
+        height: 617
+        isCached: true
   - title: "The purpose-built cloud: AWS chief Selipsky aims to move up the software stack"
     excerpt: "Invent Tuesday morning, AWS Chief Executive Adam Selipsky hinted at his ambitious plan to move Amazon.com Inc.’s cloud computing unit up the software stack. Selipsky (pictured) told SiliconANGLE in an interview that the company he took over earlier this year will offer more higher-level services such as Amazon’s Connect cloud contact center,"
     publishedDateTime: 2021-11-30T13:58:00Z

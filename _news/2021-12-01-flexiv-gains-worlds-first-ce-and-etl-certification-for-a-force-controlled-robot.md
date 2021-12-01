@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Flexiv Gains World's First CE and ETL Certification for a Force-Controlled Robot"
-excerpt: "Flexiv, the world leader in general-purpose robotics, has received CE and ETL approval for their Rizon 4 robot, making it the first-ever seven-axis force-controlled adaptive robot to achieve both certifications at the same time."
-publishedDateTime: 2021-12-01T04:33:00Z
-originalUrl: "https://www.lelezard.com/en/news-20133477.html"
-webUrl: "https://www.lelezard.com/en/news-20133477.html"
+title: "Flexiv Gains World’s First CE and ETL Certification for a Force-Controlled Robot"
+excerpt: "Demonstrating the intrinsic safety of the Rizon 4 robot, the CE and ETL approval was awarded by the world's foremost testing, inspection, certification and assurance provider, Intertek. Accepted in the EU and Northern America,"
+publishedDateTime: 2021-12-01T14:03:00Z
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=17890"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=17890"
 type: article
-quality: 49
-heat: 49
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "rLsthasUBEOrKacdlHutbbzhh6lrrBklsuOKriB3B9esGQKGWQuPF0D4aQJWvS6PcUI3hSXbJ+kyBUgLNl6O70wf5BWNxCe2vEspRCUXEL7ZQG1aqYMonJWryoufycFUoMcVBgLA0Z3T1RzL4kCBChlncHP5s1/m3k6LhiVhkzR1kJtoWNS8beaPVdaDwlz/VrPc8wBRkdJrROnVMp06p33AT/2hFVvuN7iLMj4vnSmV7Vn3eU/eNmTd1P5QzN3Mu4qyOiTDOzHpJwzGIs4PhhxhOHI/tvIvVlbqnp+tzoJjFKjrBBx7sUJHedm/Oab+Q4rUaCvDnD74YLIieYu55AT6tHPeBBsto+joNmvPA+k=;ewHpXtK4lrJS6sk72/dnTQ=="
+secured: "EJn5ZfAciHzSNqI9dKNTizXfppAbFXLd6QmMyyN6rO9Om3wER8kpfGQ2G9/Sk6P3sAGOc1Sv6FWXDySUJpqtairZXVhdE/Z5T8pqQweTGBaLqomsg0hkqxN5yM4blCz2rrXYin67Cu/qLpoJKKCT2WmsADXE8Xomt/JLDqHTlhNgUyN2OqLyV33aMztXx/IlnpKLzTtTMqsrcxHo1gYIostRxiF2esuq6s2LFSX4eu2mG389oSUAaG3G4EbSCQr43YI+2aApiWxOFvIDq04K2mBBxffuCN3/QCOA4jYqOsfZZjwgAAYFVMdMmHhp6/+DkVM9ynoK/0BfrrakgqJD2Kh86rBqqWTHgQLgl2+D1Qg=;liVFeYGV2VN3aeBHo9ZciA=="
 ---
 

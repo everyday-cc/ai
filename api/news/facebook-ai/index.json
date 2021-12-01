@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-01-meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption.md",
+      "title": "Meta, AWS expand partnership, aim to enhance PyTorch adoption",
+      "excerpt": "Meta is selecting Amazon Web Services as its long-term strategic cloud provider as part of its hybrid cloud, integration and PyTorch strategy. The partnership has broadened the existing relationship between Meta and AWS over the last five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/",
+      "originalUrl": "https://www.zdnet.com/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/",
+      "publishedDateTime": "2021-12-01T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Facebook AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-nvidia-gaugan2-ai-can-create-photorealistic-artwork-from-words.md",
       "title": "NVIDIA GauGAN2 AI can create photorealistic artwork from words",
       "excerpt": "NVIDIA has released a new demonstration of its latest GauGAN AI in the form of GauGAN2 which uses deep learning models",
@@ -1392,58 +1437,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-facebook-here-comes-the-ai-of-the-metaverse.md",
-      "title": "Facebook: Here comes the AI of the Metaverse",
-      "excerpt": "Facebook is has gathered thousands of hours of first-person video so that neural networks can be developed to operate more capably with data seen from a first-person point of view.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-here-comes-the-ai-of-the-metaverse/",
-      "originalUrl": "https://www.zdnet.com/article/facebook-here-comes-the-ai-of-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/cea33ab7569a2a56e6368d94900c1553c4e1067c/2021/10/14/acd9a5f9-79ea-4ae2-92b6-f51c656ce8b5/facebook-2021-before-after-detectron-modelfinal.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-here-comes-the-ai-of-the-metaverse/",
-      "publishedDateTime": "2021-10-14T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

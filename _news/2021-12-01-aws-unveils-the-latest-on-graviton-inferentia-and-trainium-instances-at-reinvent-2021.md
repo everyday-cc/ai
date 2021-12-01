@@ -31,54 +31,49 @@ images:
     isCached: true
 
 related:
-  - title: "AWS re:Invent: Faster chips, smarter AI, and developer tools grab the spotlight"
-    excerpt: "Invent conference, an event where it typically announces the biggest changes in the cloud computing industry’s dominant platform. This year’s news includes faster chips, more aggressive artificial intelligence,"
-    publishedDateTime: 2021-11-30T18:05:00Z
-    webUrl: "https://venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/"
-    ampWebUrl: "https://venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/amp/"
+  - title: "AWS launches its Graviton 3 processor"
+    excerpt: "Invent conference, AWS today announced the newest generation of its Arm-based Graviton processors: the Graviton 3. The company promises that the new chip will be 25 percent faster than the last-generation chips,"
+    publishedDateTime: 2021-11-30T17:18:00Z
+    webUrl: "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/"
+    ampWebUrl: "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 189
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-12.00.02-PM.jpg?w=1024"
+        width: 1024
+        height: 558
+        isCached: true
+  - title: "Amazon announces Graviton3 processors for AI inferencing"
+    excerpt: "Invent 2021 conference, Amazon announced Graviton3, the latest generation of its cloud-hosted AI inferencing chips."
+    publishedDateTime: 2021-11-30T17:32:00Z
+    webUrl: "https://venturebeat.com/2021/11/30/amazon-announces-graviton3-processors-for-ai-inferencing/"
+    ampWebUrl: "https://venturebeat.com/2021/11/30/amazon-announces-graviton3-processors-for-ai-inferencing/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/amazon-announces-graviton3-processors-for-ai-inferencing/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 117
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-855686630-e1629739858292.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true
-  - title: "AWS kicks off re:Invent with compute, networking, and data launches"
-    excerpt: "New AWS CEO Adam Selipsky fired off a barrage of new product announcements in his first AWS re:Invent keynote."
-    publishedDateTime: 2021-11-30T21:00:00Z
-    webUrl: "https://www.infoworld.com/article/3642374/aws-kicks-off-reinvent-with-compute-networking-and-data-launches.html"
-    ampWebUrl: "https://www.infoworld.com/article/3642374/aws-kicks-off-reinvent-with-compute-networking-and-data-launches.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642374/aws-kicks-off-reinvent-with-compute-networking-and-data-launches.amp.html"
+  - title: "AWS rolls out Graviton2-powered EC2 instances for GPU-based workloads"
+    excerpt: "Amazon Web Services on Monday said it's bringing a new set of EC2 instances into general availability, including Graviton2-based instances designed for GPU-based workloads. Along with Amazon's custom-designed Graviton2 chip,"
+    publishedDateTime: 2021-11-29T19:06:00Z
+    webUrl: "https://www.zdnet.com/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.techhive.com/images/idgnsImport/2015/08/id-2958856-reinvent_2015_03_keynote_1-100601984-large.jpg?auto=webp&quality=85,70"
-        width: 700
-        height: 466
-        isCached: true
-  - title: "In-Person AWS re:Invent 2021 is Back!"
-    excerpt: "Invent 2021 developer conference returns Las Vegas from November 30 through December 3. In-person attendance sold out quickly."
-    publishedDateTime: 2021-11-29T13:23:00Z
-    webUrl: "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back"
-    ampWebUrl: "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp"
-    cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 59
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2021/11/2021_reInvent_Event-Site.png"
-        width: 781
-        height: 300
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
   - title: "AWS unveils new Graviton and machine learning chips at re:Invent"
     excerpt: "Invent gets underway once again, AWS has kicked things off with its next-gen Graviton processor and a new Trainium AI chip."
     publishedDateTime: 2021-12-01T12:28:00Z
@@ -93,103 +88,33 @@ related:
         width: 2560
         height: 1704
         isCached: true
-  - title: "ElectrifAi Announces MLaaS and SpendAi at AWS re:Invent 2021"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-    publishedDateTime: 2021-11-30T03:10:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-announces-mlaas-and-spendai-at-aws-re-invent-2021-837723933.html"
+  - title: "Amazon EC2 G5g NVIDIA GPU-Accelerated Graviton-Based instances"
+    excerpt: "The AWS team have confirmed the general availability of the new Amazon EC2 G5g instances providing up to 30 percent lower cost"
+    publishedDateTime: 2021-11-30T12:23:00Z
+    webUrl: "https://www.geeky-gadgets.com/amazon-ec2-g5g-30-11-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/Amazon-EC2-G5g.jpg"
+        width: 700
+        height: 457
+        isCached: true
+  - title: "Granulate Achieves AWS Graviton Ready Designation"
+    excerpt: "Granulate, a provider of autonomous real-time computing workload optimization and cost reductions solutions, announced today that it"
+    publishedDateTime: 2021-11-29T23:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/granulate-achieves-aws-graviton-ready-designation-301433173.html"
     type: article
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook"
-        width: 594
-        height: 315
-        isCached: true
-  - title: "AWS Rocks with New Analytics, AI Services at re:Invent"
-    excerpt: "With classic rock tunes playing, Adam Selipsky took the stage for his first re:Invent keynote as the new CEO of AWS, the $60-billion cloud juggernaut that"
-    publishedDateTime: 2021-11-30T21:11:00Z
-    webUrl: "https://www.datanami.com/2021/11/30/aws-rocks-with-new-analytics-ai-services-at-reinvent/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/selipsky_aws.png"
-        width: 1475
-        height: 1051
-        isCached: true
-  - title: "What To Expect From AWS re:Invent 2021 Event?"
-    excerpt: "Based on the announcement, and trends in the cloud industry, among other factors, we predict what will happen at the AWS re:Invent event."
-    publishedDateTime: 2021-11-27T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/what-to-expect-from-aws-reinvent-2021-event/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/AWS_AIM.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "My guide to AWS re:Invent 2021"
-    excerpt: "Invent conference has not only become the much anticipated event for customers and partners, but pretty much anyone interested in cloud computing. After the pandemic forced last year’s pilgrimage to Las Vegas to move to a virtual only format,"
-    publishedDateTime: 2021-11-28T20:07:00Z
-    webUrl: "https://www.linkedin.com/pulse/my-guide-aws-reinvent-2021-adrian-de-luca/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEYM9LIE1Cftw/article-cover_image-shrink_720_1280/0/1638128964080?e=1643846400&v=beta&t=EnD-aIeOeI0glv_YgDnicOcMABnIIXQ-GGaY5HvHwlA"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "All Eyes on New AWS Boss Selipsky as re:Invent Kicks Off"
-    excerpt: "When Jassy left his AWS post to take Jeff Bezos’ old chair at the head of Amazon.com in May, it opened up one of the most visible positions in all of big data and AI. The job went to Selipsky, who was one of Jassy’s lieutenants when AWS launched back in 2007."
-    publishedDateTime: 2021-11-29T21:32:00Z
-    webUrl: "https://www.datanami.com/2021/11/29/all-eyes-on-new-aws-boss-selipsky-as-reinvent-kicks-off/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/adam-selpisky-300x277.png"
-        width: 300
-        height: 277
-        isCached: true
-  - title: "AWS re:Invent 2021: The 10 Biggest Announcements"
-    excerpt: "Invent at The Venetian in Las Vegas are new partner paths, AI for data analytics and new partner competencies."
-    publishedDateTime: 2021-11-30T00:30:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/aws-re-invent-2021-the-10-biggest-announcements"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/026f-13d709a952d4-bb07aeb87d76-1000/aws-reinvent-21.jpg"
-        width: 610
-        height: 458
-        isCached: true
-  - title: "BigID Announces Auto-Discovery Apps for Cloud at AWS re:Invent"
-    excerpt: "BigID, the leading data intelligence platform, has launched a set of Auto Discovery apps to allow customers to quickly and automatically find sensitive and personal data stored in the cloud.  The new Automatic Discovery Apps are designed for"
-    publishedDateTime: 2021-11-30T13:48:00Z
-    webUrl: "https://www.lelezard.com/en/news-20131739.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://mma.prnewswire.com/media/1698271/Granulate_Achieves_AWS_Graviton_Ready.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "0XUjGe265w6WcPWVuabu0Jm+4gy9E6JAXnjDRtizBY7Q5mt4wUzhXBTBXtXmn2BysV3ZZIKfPZ5gh9InhbDZ8w99FZELwbuvCHx42tInU1su1IwyM6ZDWZm/fk9c6N77/2TNYllnggu6BOVNH17hMe9tkBShyDHt/o8uDTQ4ccAS7sH7VcUEMQqSF3copXtXCZ0XXWykV19gIxuv18igrS7V2dYGvXh3HuI2f55sNhhYXf9CJlYc0sPmt5ZHawjvoLMRIpskM9105M2dDqrHjq3umaqPcty2xT2oqKY4/PpDxM+zwj1Hc93cbI2S7K2o8n3Ree4jpqo0t2RUXaPvXotxm1PcjMUUBw25GHM9vGfchDK7Tl5XNDbFwOqF+qv2qo79VbHqtFt9nBK4rU+3QYQ7JFDsYhRLvmA1yXCJ4bMZVJPHuD1jrgm0a1unXcqXke0Uku+QrSOUSL6nRUOwyBJpag/YRA194bvwhDejFnIsHqV6QAeC2cjCNjbwt1SS9iuDR64vfcIYnwEJPp50nA==;zRzDtczGlL4TocA2nRFnxQ=="

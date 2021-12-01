@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-01-cloud-computing-is-evolving-heres-where-its-going-next.md",
+      "title": "Cloud computing is evolving: Here's where it's going next",
+      "excerpt": "Today's hybrid and multi-cloud architectures will evolve into highly optimised app-centric, AI-driven environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cloud-computing-is-evolving-heres-where-its-going-next/",
+      "originalUrl": "https://www.zdnet.com/article/cloud-computing-is-evolving-heres-where-its-going-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9cc167d03300a8a659d7dd21a109b0bffc5efce3/2021/11/18/90f56bcf-5471-4462-8640-a96c9f978e85/ibm-hybrid-multicloud-won.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cloud-computing-is-evolving-heres-where-its-going-next/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloud-computing-is-evolving-heres-where-its-going-next/",
+      "publishedDateTime": "2021-12-01T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption.md",
+      "title": "Meta, AWS expand partnership, aim to enhance PyTorch adoption",
+      "excerpt": "Meta is selecting Amazon Web Services as its long-term strategic cloud provider as part of its hybrid cloud, integration and PyTorch strategy. The partnership has broadened the existing relationship between Meta and AWS over the last five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/",
+      "originalUrl": "https://www.zdnet.com/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/",
+      "publishedDateTime": "2021-12-01T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Facebook AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-aws-gets-a-no-code-ml-service.md",
       "title": "AWS gets a no-code ML service",
       "excerpt": "AWS today announced a new machine learning service, Amazon SageMaker Canvas. Unlike its existing machine learning services, the target audience here isn’t highly technical data scientists and engineers but any engineer or business user inside a company.",
@@ -320,7 +417,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -630,10 +727,10 @@
     {
       "path": "_news/2021-11-18-protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Seamless Data Protection to Support Advanced Analytics, AI, and Machine Learning on Microsoft Azure As part of the Co-Sell Ready achievement, Protegrity met Microsoft’s strict architecture and ...",
+      "excerpt": "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure.",
       "sourceUrl": null,
-      "webUrl": "https://www.afp.com/en/news/1315/protegrity-data-protection-platform-and-cloud-protect-snowflake-now-available-microsoft-azure-marketplace-202111180052591",
-      "originalUrl": "https://www.afp.com/en/news/1315/protegrity-data-protection-platform-and-cloud-protect-snowflake-now-available-microsoft-azure-marketplace-202111180052591",
+      "webUrl": "https://www.financialbuzz.com/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace/",
+      "originalUrl": "https://www.financialbuzz.com/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -643,11 +740,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T16:00:00-08:00",
+      "publishedDateTime": "2021-11-18T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AFP",
-        "domain": "afp.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1324,113 +1421,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers.md",
-      "title": "FlyFin offers AI-based tax app aimed at freelancers, gig workers",
-      "excerpt": "This new AI tax engine replaces the self-employed and ... A desktop version is also available for Macs with an Apple M1 chip. Android users can download FlyFin’s app here.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
-      "originalUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/cryptocurrency-tax.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/flyfin-offers-ai-based-tax-app-aimed-at-freelancers-gig-workers/amp/",
-      "publishedDateTime": "2021-11-11T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-faang-leader-microsoft-is-banking-on-4-key-trends.md",
-      "title": "FAANG-Leader Microsoft Is Banking On 4 Key Trends",
-      "excerpt": "Azure’s strength in hybrid computing has made ... Mesh introduces 2D and 3D meetings with personalized avatars that use AI to imitate movements even when the camera is off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/",
-      "originalUrl": "https://www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618dec1106ea61fcfc93c0c6%2F0x0.jpg",
-          "width": 1200,
-          "height": 829,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2021/11/11/faang-leader-microsoft-is-banking-on-4-key-trends/amp/",
-      "publishedDateTime": "2021-11-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

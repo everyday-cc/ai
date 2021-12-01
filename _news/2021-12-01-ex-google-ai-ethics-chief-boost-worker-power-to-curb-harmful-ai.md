@@ -8,8 +8,8 @@ webUrl: "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-
 ampWebUrl: "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/"
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 174
+heat: 174
 published: true
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 628
     isCached: true
 
-secured: "8BYVgUBcvlitnbyMQXbTmIiSLmTIqQfWT5S4r4NG9H8PDBZx2iKcFS2ipwf3FvYNHNpgfcq6P9IYdz3JKrRmHaHlVRW7vX15QamrQr1yKawU4Ur21l0M6hREtZFPx6VSpxAB9U3X99cn2QzffVeXKRnPJOxLNcvl371MMMMIWhnC15woi8sc6bryG5Ae9eb1nmLc5bbmmjQDtrUkGMLmlL/NkOKIL5nzUhIfFnSSFFPQvrwMfbXkcGoHtOoBlVdsP5zHlKdTtQVZQ0CvsnBnxBstFWR26FXDx/373YS/3/h6nZEcoP0MoocfWzhSsNyOrno0XFVW0/CJnpP85WdLTGrKMgCBA0is4irm2L7KYr2O8X8cTkBiYo4FT4t8JcPrWSZ8yOWo/Vd3bD4ldiJwk5EUVhbU14/s4grKm6HTX8rYL4DM+CRm1QLtdAXtp/1H+B/dZOPHzHOoKljBlhBY68h90ZJDjN2spVeRJuhkftZGIeMWH70gBLza3y/4koib0Emb9WvzJ3RIM9ZT4zhKLg==;mFIVdl+6hsw+RYXXpD7BHQ=="
+secured: "ZzbkkAZbFZr7B2gRnZjA/UI0NbKIROsMJwY8BqjMK4ypbf54N40Ta8YxfpIge5qyzswFTYr/A766P/Ngi5uO23nNBT2VCS2K2JpMGTCcdwOnXseZC+qbw8f+JcHM7Wl6r4M/03oReWmFuu2wZdyCw7LSdB7IIdYZs1c57+uBNJ8KZJ6riI2StGpB1mtuVQWHZhRnTiqbH+jcrQMdsXkzsJTdcjOtUnFP8DmMZnRzPpybGfCEZXpkkWJwIVziCKuCqIjW7YBmETkwYKQjb56aBV7Px7o9EnU8x2KMyfDcsqzUPfOuFvRUfMNPhMZbX4RX4dQLDiawTKcdFx5zGK779q6zSztERW1/ARQYmlTVZHZkxxHxJU7OJFyFl1rRt7kiunyjlC1whhQ2iX7zE6Jb9FTa1+fjfzmNjmYCMZAESZ/6CmNPdfG/wbXjKGWV24IWWdJVzHHsgnMenxT8cASx1Q448JFZ1DMCWO3bEb88VBl5Nx2E73T4KrGr1pU06jG7fyaRII04OVu104WAEiiIHLihcI99ACr0dzp8nohMLL8=;YCBi4aGI344/VDM0twW8jA=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://newatlas.com/collectibles/botto-ai-art/"
 ampWebUrl: "https://newatlas.com/collectibles/botto-ai-art/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/collectibles/botto-ai-art/?amp=true"
 type: article
-quality: 87
-heat: 97
+quality: 187
+heat: 197
 published: true
 
 provider:
@@ -47,6 +47,6 @@ related:
         height: 960
         isCached: true
 
-secured: "nBKKzXAi9AQKX3JLhh7twLqpte/g1/oD8i0RbCCa17S4WcaKld3zPxaSHGTX7Cap99K0SBk5TJC4UGiG1oFAt/JZoJ1Jsj+uGpEVlkoKhR8VqUTcjgpyfFVrtVEg221EqsyHXqJzgIUrb37QVmdvMdTtqbo80y+F8GoPPxVZ3FxmNNprVyBPNPRcYH0ckpvAIl8dEbgqq5ZGaj220y7WiyI5Apv8kbNLhAfFM+cNHbIcNHmhr4oINSNPSoniYcul0643wEvXTGZUqf0RaZ7fXaFrjtCRTLrkzJsPAsu+t4DvQDOMJg8kAGbtex9G6EV1gkMVbfLNhdh70aDRYAAl9Ma6xieml8h8WtRYx3WmC8CZAquc6cNAdzn1B8vOUHghuT+A1m+79o3tnhXaTFCDeZV3AQDf4SX4fx1deurGZA1o5MWvGmyRmsE1BwZhc5s62XubuGw7phnlcf/8Oyu6fNH1YzcJMZsSGd6cmWgUzOqyC3AtJgkV6piuVW0fJCukV2yhedueAHc3EU0tz/twYg==;+ao+z2oyDrXrlA8PSau0IA=="
+secured: "dmM/5vUMbQon5IVKe+VRYTAVs3aO4n/GmhnG/GAOENL/UqKrPBEiJ7AYLvAHPlAzibIiMv4SNvPJT/XryacGVMN8OM+p4/y2Udrqfq+E2V7qpCHSmnbCdWjRwockU8guWf4esCralPNc0x7+97I3tgPs0zf+BG8QiOBuFn8pi1w5/BfuqCKE0q+/wQYCir6Z0F3RC+WpGRErR2Xas7fbYccqe1K6qPmPTtv27hG3e5lNMp0upTUy7QdFUrvoPEJx5Uq1/CP8s7ax2abq5jSsaw9oEbUP7vhSq/uN1dEczzcyxzPpSPQDcYK/WMzh0vtpASMpgdtpC2U6WvcgPivhLGnB8AYyc/S0TTxBrO5OKVz1pqsG8fONF92KBenvtrDbfEnSPRkjbhTSowRCDZJg7IAkizl9MMOs/OZLh1rolD2utI6me8pswWOuiLi4gntT8h+P8NgA3M0mipBk6dSpo0hrVzETiayGOrahJsGz2O6TEDBtL+hTyXdV54NqzpOCGbIGeIvHKfTuYbm+66KnO/jFUFccNw/Js2OafJLcj5k=;wy++i0RN0aPgnUr/svGwtQ=="
 ---
 

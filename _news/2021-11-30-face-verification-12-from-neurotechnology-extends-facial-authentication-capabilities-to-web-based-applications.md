@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "MegaMatcher On Card 12 from Neurotechnology Features New Face Recognition and Fingerprint 1-to-N Matching Algorithms for Smart Cards"
-    excerpt: "Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, today announced the release of the new MegaMatcher On Card software development kit (SDK)."
-    publishedDateTime: 2021-11-29T09:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/megamatcher-on-card-12-from-neurotechnology-features-new-face-recognition-and-fingerprint-1-to-n-matching-algorithms-for-smart-cards-1031007807"
+  - title: "Astadia Migration Factory to Reduce the Duration of Mainframe to AWS Migrations by up to 90%"
+    excerpt: "Organizations looking to reap the benefits of moving IBM and Unisys mainframe applications to Amazon Web Services (AWS) can now simplify and accelerate complex transformation projects by leveraging the Astadia Migration Factory."
+    publishedDateTime: 2021-11-30T15:56:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-web-services-6213aaaf498a4fc8894b34538e35e8d6"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 18
+      name: Associated Press
+      domain: apnews.com
+    quality: 43
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Astadia Migration Factory to Reduce the Duration of Mainframe to AWS Migrations by up to 90%"
+    excerpt: "Organizations looking to reap the benefits of moving IBM and Unisys mainframe applications to Amazon Web Services (AWS) can now simplify and accelerate complex transformation projects by leveraging the Astadia Migration Factory."
+    publishedDateTime: 2021-11-30T16:14:00Z
+    webUrl: "https://www.lelezard.com/en/news-20132528.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 43
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "fu/FvPKHJcLcP0POs+75i1PxUUd9gFYcfHcvox6NWjJ4I4Vm4n+VvwWF+G2fnIk61Wt7sUKDLvpQBCMrrDh0P1Ql2qBkvkUUGMjykOpvii4badR8ssmA1ASserCoSZTTZsG+98kw5TVi50U47BLb14Ckkx4JbLzJNI6OAX7voJf8WLalXcuoybbxqv66zh9YQI73peJalSb2+aFA8kONPFddHeV+bqqpEJQCcbAkfYO6o0ZbZ0Im+riFekCDEKKkoW9A9nzGOZd+hDAMhMsLaZhOJb5UdVrgPik7tWCk+JDK7MFAoX3XcS6Ubqh32iA1rFc5joM9ovmlM/hqu6N6WXfJgobOzunlBGgrhRFpHIQ=;gR5nOGaA+N3nMe9oMcp/5w=="
 ---

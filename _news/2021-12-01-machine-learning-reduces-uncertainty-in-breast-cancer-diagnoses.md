@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Machine Learning Reduces Uncertainty in Breast Cancer Diagnoses"
-excerpt: "Researchers at Michigan Tech have developed a machine learning model for detecting breast cancer from histopathology images — tissues and cells examined under microscope. The model can classify benign and malignant tumors from these images — and it can also evaluate the uncertainty in its predictions."
-publishedDateTime: 2021-12-01T05:00:00Z
-originalUrl: "https://www.mtu.edu/ttoday/?issue=20211201"
-webUrl: "https://www.mtu.edu/ttoday/?issue=20211201"
+title: "Machine learning reduces uncertainty in breast cancer diagnoses"
+excerpt: "A Michigan Tech-developed machine learning model uses probability to more accurately classify breast cancer shown in histopathology images and evaluate the uncertainty of its predictions."
+publishedDateTime: 2021-12-01T14:12:00Z
+originalUrl: "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.html"
+webUrl: "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.amp"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: Michigan Technological University
-  domain: mtu.edu
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.mtu.edu/news/2021/11/images/campus-vistas-10.13-banner1200.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-reduc-1.jpg"
     width: 1200
-    height: 540
+    height: 2629
     isCached: true
 
-secured: "xFvYLpQcp0lDiFtfC+dbl9vZC9uOQcutogZAp+hVIxL0QEXPcg31+xDNSx1hhkpoIjDimJVfg6vE6PmpKt4RCFW01C9InPVV/b6UYmcsLfVPrJSuVySxm1DnwTI6ulYKzsyCam+2IvV90WXz22DofJhIGGtcceE0uKdIUzZTJTPQhzfZfr+QcEhGRqtxTyDHra30IKP6MBfw6oTb1bBvR2d5nkQ5dps6t4puj7LAhtNoyIbyQYswlmMdKP2o++jQJQOu6hO2OwqVInvHjD9k95/46XEtX4Rml4AcoF/KRVyUNv4L//+uuRKKi3De9UCsrkhLFJa8WU7X5qC3S7BzKGBUciITMUOZ8LJgmajKdIg=;JBSXqrsKA1REUk92fH/wuQ=="
+secured: "4wLaeuYbve7mWH1du2pOPW0aAwF9wzzhrpAyaUKTaPUPPhNRxHcEtjAlh9te064HfXTLNCEB5JfZxumSSmx1l/lqbPJ1T1Wxnp6QQ/h+MJCsQxlMAN5Yq9KGDXRgMjdmkKGsooftK4e89zsuAo0FmnxzPIEIxP2ETzCZ9LwCOGt2J1dtrToB5cLddPbclrIHalmcuyeEdJfwNX22yX0dh48wR2C5sOZ6QLVAR1KBJ/zJzaGb0fSs63TYEpHCPy3mtW+gPv7zhxkKJBcNodtmw9aASK+/ghTzPQ5DG9Tfbtzz7rvvVky+R0RmaDxqxDUTn/M5XshDlrVT7FFGVnjOdRhYiNupUz1c7gK5Em7ilQ0=;4FURKv0doNiOSdhhImjRow=="
 ---
 

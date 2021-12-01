@@ -2,6 +2,95 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-01-meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption.md",
+      "title": "Meta, AWS expand partnership, aim to enhance PyTorch adoption",
+      "excerpt": "Meta is selecting Amazon Web Services as its long-term strategic cloud provider as part of its hybrid cloud, integration and PyTorch strategy. The partnership has broadened the existing relationship between Meta and AWS over the last five years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/",
+      "originalUrl": "https://www.zdnet.com/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/",
+      "publishedDateTime": "2021-12-01T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Facebook AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-machine-learning-will-drive-the-cloud-data-journey-says-aws-chief-adam-selipsky.md",
+      "title": "Machine learning will drive the cloud data journey, says AWS chief Adam Selipsky",
+      "excerpt": "One reason Adam Selipsky was appointed chief executive of Amazon Web Services Inc. earlier this year was his extensive experience at AWS — but it’s a good bet that his tenure heading Tableau Software Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/12/01/machine-learning-will-drive-cloud-data-journey-says-aws-chief-adam-selipsky/",
+      "originalUrl": "https://siliconangle.com/2021/12/01/machine-learning-will-drive-cloud-data-journey-says-aws-chief-adam-selipsky/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/05/adamselipsky-exasole-twitter.jpg",
+          "width": 829,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-aws-targets-auto-and-industrial-sectors-with-fleetwise-twinmaker.md",
       "title": "AWS targets auto and industrial sectors with FleetWise, TwinMaker",
       "excerpt": "Amazon Web Services on Tuesday announced two new IoT products that bring more out-of-the-box fleet management tools to the automotive and industrial sectors. IoT FleetWise will help auto companies manage data coming from cars,",
@@ -10,7 +99,7 @@
       "originalUrl": "https://www.zdnet.com/article/aws-targets-auto-and-industrial-sectors-with-fleetwise-twinmaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -159,7 +248,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 217,
       "tags": null,
       "images": [
         {
@@ -257,6 +346,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-01-aws-launches-its-graviton-3-processor.md",
+      "title": "AWS launches its Graviton 3 processor",
+      "excerpt": "Invent conference, AWS today announced the newest generation of its Arm-based Graviton processors: the Graviton 3. The company promises that the new chip will be 25 percent faster than the last-generation chips,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/",
+      "originalUrl": "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-12.00.02-PM.jpg?w=1024",
+          "width": 1024,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/",
+      "publishedDateTime": "2021-11-30T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-aws-pitches-robotics-as-the-next-big-thing.md",
       "title": "AWS pitches robotics as the next big thing",
       "excerpt": "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations",
@@ -265,7 +406,7 @@
       "originalUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -396,58 +537,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-30-beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation.md",
-      "title": "Beyond the migration: Accenture and AWS expand partnership to support continuous cloud innovation",
-      "excerpt": "Five-year extension also includes training to help clients understand and implement cloud capabilities more quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
-      "originalUrl": "https://www.techrepublic.com/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/27/06823878-e36c-485b-a5ef-0f779b1e98f8/resize/1200x/ef0d165740f66078f83f197b32b4039e/gettyimages-da-kuk.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
-      "publishedDateTime": "2021-11-29T15:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-30-how-hiya-taps-ai-to-kill-phone-spam.md",
       "title": "How Hiya taps AI to kill phone spam",
       "excerpt": "The company claims its new adaptive AI is much more effective than conventional tactics that only react to known numbers for phone spam.",
@@ -498,50 +587,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads.md",
-      "title": "AWS rolls out Graviton2-powered EC2 instances for GPU-based workloads",
-      "excerpt": "Amazon Web Services on Monday said it's bringing a new set of EC2 instances into general availability, including Graviton2-based instances designed for GPU-based workloads. Along with Amazon's custom-designed Graviton2 chip,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/",
-      "originalUrl": "https://www.zdnet.com/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/",
-      "publishedDateTime": "2021-11-29T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -1342,58 +1387,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-11-19T09:57:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-next-gen-stats-decision-guide-predicting-fourth-down-conversion.md",
-      "title": "Next Gen Stats Decision Guide: Predicting fourth-down conversion",
-      "excerpt": "It is fourth-and-one on the Texans’ 36-yard line with 3:21 remaining on the clock in a tie game. Should the Colts’ head coach Frank Reich send out kicker Rodrigo Blankenship to attempt a 54-yard field goal or rely on his offense to convert a first down? Frank chose to go for it, leading to a […]",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/next-gen-stats-decision-guide-predicting-fourth-down-conversion/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/next-gen-stats-decision-guide-predicting-fourth-down-conversion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/03/ML-5940-image003.png",
-          "width": 674,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T16:14:03-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

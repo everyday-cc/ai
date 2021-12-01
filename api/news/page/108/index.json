@@ -2,6 +2,405 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2021-09-10-why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power.md",
+      "title": "Why The Next Big AI Accuracy Breakthrough Won’t Come From Algorithms Or Computing Power",
+      "excerpt": "Just as we swung from championing algorithms to data to infrastructure, we'll shift our focus back to data — more specifically, acquiring the right data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613a216d46e0d2616c5039f8%2F0x0.jpg",
+          "width": 1200,
+          "height": 878,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/why-the-next-big-ai-accuracy-breakthrough-wont-come-from-algorithms-or-computing-power/amp/",
+      "publishedDateTime": "2021-09-10T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-security-risk-quantification-empowering-better-business-decision-making-to-address-security-risks.md",
+      "title": "Security Risk Quantification: Empowering Better Business Decision Making to Address Security Risks",
+      "excerpt": "IBM is modernizing its entire portfolio, strategy, and execution, from software to hardware to consulting and managed services, to leverage cognitive and cloud technologies and engage clients ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/resources/223847/security-risk-quantification-empowering-better-business-decision-making-to-address-security-risks",
+      "originalUrl": "https://www.computerworld.com/resources/223847/security-risk-quantification-empowering-better-business-decision-making-to-address-security-risks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ctw/computerworld-logo300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise.md",
+      "title": "Leading MLOps Tools Are The Next Frontier Of Scaling AI In The Enterprise",
+      "excerpt": "Machine Learning Operations (MLOps) is on the rise as a critical technology to help to scale machine learning in the enterprise. Leading companies have emerged as top machine learning operations tool enablers for the industry to handle these challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613b4f87a07dff77c5cd4264%2F0x0.jpg",
+          "width": 1200,
+          "height": 754,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/09/10/leading-mlops-tools-are-the-next-frontier-of-scaling-ai-in-the-enterprise/amp/",
+      "publishedDateTime": "2021-09-10T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "IBM AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-lantheus-announces-presentation-at-the-2021-american-urological-association-aua-annual-meeting.md",
+      "title": "Lantheus Announces Presentation at the 2021 American Urological Association (AUA) Annual Meeting",
+      "excerpt": "Lantheus Holdings, Inc. (the “Company”) (NASDAQ: LNTH), an established leader and fully integrated provider committed to innovative imaging diagnostics, targeted therapeutics and artificial intelligence solutions to find,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-1668c512fcbaea63debb5036c6b071af",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-health-cancer-artificial-intelligence-1668c512fcbaea63debb5036c6b071af",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-10T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-how-ai-will-drive-the-precision-health-research-revolution-through-2030.md",
+      "title": "How AI Will Drive The Precision Health Research Revolution Through 2030",
+      "excerpt": "Ethical AI will be critical to widespread AI adoption. Algorithms used in care delivery must perform well across diverse patient populations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-ai-will-drive-the-precision-health-research-revolution-through-2030/amp/",
+      "publishedDateTime": "2021-09-10T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-the-best-robotic-lawnmowers-for-2021.md",
+      "title": "The best robotic lawnmowers for 2021",
+      "excerpt": "You can control this lawn care device through your ... and more. Yes. Keep in mind that a robotic mower may not offer the same power and features as a traditional push mower, gas- or electric ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/81avkxoa8rl-_ac_sl1500_.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-lawnmowers/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-lawnmowers/?amp",
+      "publishedDateTime": "2021-09-10T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-how-to-help-tame-cognitive-bias-in-your-ai-system.md",
+      "title": "How To Help Tame Cognitive Bias In Your AI System",
+      "excerpt": "The more measures and techniques we develop to minimize the transmission of our biases, the more reliable AI will be.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b279b38fb40a4043817d3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-to-help-tame-cognitive-bias-in-your-ai-system/amp/",
+      "publishedDateTime": "2021-09-10T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-10-how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows.md",
+      "title": "How Small Businesses Can Rely On Robots As The Labor Shortage Grows",
+      "excerpt": "One robot that can help business owners serving customers is Pepper, a humanoid robot originally developed by SoftBank Robotics and now equipped with new AI skills through my company ... business ready for automation? Start with the following: 1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613a098bc291d5e725168983%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/10/how-small-businesses-can-rely-on-robots-as-the-labor-shortage-grows/amp/",
+      "publishedDateTime": "2021-09-10T04:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-10-gpu-for-ai-market-insights-into-the-future-of-asset-tracking-service-management-in-2021-2027.md",
       "title": "GPU for AI Market Insights Into The Future of Asset Tracking, Service Management in 2021-2027",
       "excerpt": "The primary objective of the GPU for AI market study is to offer insights on the GPU for AI that can help the reader understand the influence of the sector over the forecast period. Additionally, the market study also covers the market trends,",
@@ -742,377 +1141,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-4-buy-rated-big-data-stocks-to-add-to-your-portfolio.md",
-      "title": "4 Buy-Rated Big Data Stocks to Add to Your Portfolio",
-      "excerpt": "The demand for analytics and automation is rising together with the artificial intelligence and cloud computing mega-trends. And because this backdrop makes the prospects bright for the big-data industry,",
-      "sourceUrl": null,
-      "webUrl": "https://stocknews.com/news/orcl-ibm-vmw-tdc-4-buy-rated-big-data-stocks-to-add-to-your-portfolio/",
-      "originalUrl": "https://stocknews.com/news/orcl-ibm-vmw-tdc-4-buy-rated-big-data-stocks-to-add-to-your-portfolio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stocknews.com/single-snippet-page/amp/",
-      "cdnAmpWebUrl": "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/",
-      "publishedDateTime": "2021-09-09T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stock News",
-        "domain": "stocknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think.md",
-      "title": "Gartner: AI is moving fast and will be ready for prime time sooner than you think",
-      "excerpt": "Companies have two to three years to lay the groundwork for successful use of generative AI, synthetic data and orchestration platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
-      "originalUrl": "https://www.techrepublic.com/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/09/29d4406a-7712-4b65-8dd4-817123216bcd/resize/1200x/5081b29b2f5108111e249f873b3feda0/gartner-hype-cycle-for-artificial-intelligence-2021.jpg",
-          "width": 1200,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-ai-is-moving-fast-and-will-be-ready-for-prime-time-sooner-than-you-think/",
-      "publishedDateTime": "2021-09-09T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-facebook-developing-machine-learning-chip-the-information.md",
-      "title": "Facebook developing machine learning chip - The Information",
-      "excerpt": "Facebook Inc is developing a machine learning chip to handle tasks such as content recommendation to users, The Information reported on Thursday, citing two people familiar with the project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/facebook-developing-machine-learning-chip-information-2021-09-09/",
-      "originalUrl": "https://www.reuters.com/technology/facebook-developing-machine-learning-chip-information-2021-09-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 248,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/d0h2VGieUoa8rWcphU5zvwQoS_s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L2JN4NFPXBJGPJNAA2A7ECHILE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-09T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-biobest-makes-investment-in-robotics-and-artificial-intelligence.md",
-      "title": "Biobest Makes Investment in Robotics and Artificial Intelligence",
-      "excerpt": "Along with Biobest’s $10 million investment in ecoation, the companies are also joining forces to develop new IPM-related technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/",
-      "originalUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.greenhousegrower.com/greenhousegrow/wp-content/uploads/2021/07/Ecoation-OKO-Platform.jpg",
-          "width": 896,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/?amp",
-      "cdnAmpWebUrl": "https://www-greenhousegrower-com.cdn.ampproject.org/c/s/www.greenhousegrower.com/production/biobest-makes-investment-in-robotics-and-artificial-intelligence/?amp",
-      "publishedDateTime": "2021-09-09T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Greenhouse Grower",
-        "domain": "greenhousegrower.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-update-on-artificial-intelligence-court-rules-that-ai-cannot-qualify-as-inventor.md",
-      "title": "Update on Artificial Intelligence: Court Rules that AI Cannot Qualify As “Inventor”",
-      "excerpt": "Striking a blow to patent applicants seeking to assert inventorship by artificial intelligence (“AI”) systems, the U.S. District Court for the Eastern District of Virginia ruled on Septemb",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor",
-      "originalUrl": "https://www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/update-artificial-intelligence-court-rules-ai-cannot-qualify-inventor?amp",
-      "publishedDateTime": "2021-09-09T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now.md",
-      "title": "The Mind-Bending Physics Of Walking With Coffee May Save Humanity, For Now",
-      "excerpt": "If you’ve found your fear of the robot apocalypse building lately, new research suggests humans will remain in charge as long as we’re the best around at one simple activity: walking with a cup of coffee in hand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ericmack/2021/09/09/the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now/",
-      "originalUrl": "https://www.forbes.com/sites/ericmack/2021/09/09/the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613a4966d8a6273d89d10425%2F0x0.jpg",
-          "width": 1200,
-          "height": 1138,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ericmack/2021/09/09/the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ericmack/2021/09/09/the-mind-bending-physics-of-walking-with-coffee-may-save-humanity-for-now/amp/",
-      "publishedDateTime": "2021-09-09T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-3-traps-companies-should-avoid-in-their-ai-journeys.md",
-      "title": "3 traps companies should avoid in their AI journeys",
-      "excerpt": "The industry is still in the early days of AI adoption, and organizations need to develop an adoption strategy specific to their organization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/",
-      "originalUrl": "https://venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-2-e1623874115544.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/09/three-traps-companies-should-avoid-in-their-ai-journeys/amp/",
-      "publishedDateTime": "2021-09-09T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-10-4-self-driving-truck-stocks-you-need-to-keep-an-eye-on.md",
-      "title": "4 Self-Driving Truck Stocks You Need to Keep an Eye On",
-      "excerpt": "The global economy is moving toward several exciting trends that lead to new and interesting investment areas like self-driving truck stocks. Driverless vehicles promise a revolution in safety and ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2021/09/4-self-driving-truck-stocks-you-need-to-keep-an-eye-on/",
-      "originalUrl": "https://investorplace.com/2021/09/4-self-driving-truck-stocks-you-need-to-keep-an-eye-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2021/09/shutterstock_1850697253.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/09/4-self-driving-truck-stocks-you-need-to-keep-an-eye-on/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/09/4-self-driving-truck-stocks-you-need-to-keep-an-eye-on/amp/",
-      "publishedDateTime": "2021-09-09T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

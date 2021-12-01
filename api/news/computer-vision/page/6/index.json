@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-04-tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept.md",
+      "title": "Tamil Nadu CM MK Stalin Launches Face Recognition Software Aimed At Assisting Police Dept",
+      "excerpt": "The software would help the police personnel to compare the photos of suspects with a data resource uploaded in the Crime and Criminal Tracking Network and Systems (CCTNS).",
+      "sourceUrl": null,
+      "webUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919",
+      "originalUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/09/14/004e57e228a060db41cf8e468c733bc5_original.jpg?impolicy=abp_images&imwidth=1200",
+          "width": 720,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919/amp",
+      "cdnAmpWebUrl": "https://news-abplive-com.cdn.ampproject.org/c/s/news.abplive.com/tamil-nadu/tamil-nadu-cm-mk-stalin-launches-face-recognition-software-aimed-at-assisting-police-dept-1485919/amp",
+      "publishedDateTime": "2021-10-04T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.abplive",
+        "domain": "abplive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-computer-vision-market-to-reach-4111-bn-globally-by-2030-at-160-cagr-allied-market-research.md",
       "title": "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research",
       "excerpt": "PORTLAND, Ore., Oct. 4, 2021 /PRNewswire/ -- Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product (PC-Based Computer ...",
@@ -1345,58 +1388,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark.md",
-      "title": "AI industry, obsessed with speed, is loathe to consider the energy cost in latest MLPerf benchmark",
-      "excerpt": "on Wednesday issued the latest vendor results for performance on benchmark tests of machine learning such as object recognition and natural language processing. Compared to the previous report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "originalUrl": "https://www.zdnet.com/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ad988efb009532b6ffb0ff752ba39e0e2f795839/2021/10/05/d4f24554-7da2-44c4-8e5d-87c09f1f8234/20210924-tiernan-beth-sus.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "publishedDateTime": "2021-09-22T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

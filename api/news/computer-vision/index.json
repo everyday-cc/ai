@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-01-face-recognition-ai-chip-with-978-accuracy-up-to-3-metres-for-sonys-imx500.md",
+      "title": "Face recognition AI chip with 97.8% accuracy up to 3 metres for Sony’s IMX500",
+      "excerpt": "Xailient has revealed what it describes as the ‘world’s most power-efficient’ Face Recognition AI which runs on Sony’s IMX500 intelligent vision sensor with edge AI processing capability. The chip, which is so small it fits on a fingertip,",
+      "sourceUrl": null,
+      "webUrl": "https://www.hiddenwires.co.uk/products/article/face-recognition-ai-chip-with-978-accuracy-up-to-3-metres-for-sonys-imx500",
+      "originalUrl": "https://www.hiddenwires.co.uk/products/article/face-recognition-ai-chip-with-978-accuracy-up-to-3-metres-for-sonys-imx500",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1638355186/widgetdocs/MicrosoftTeams-image_17_dljs1q.jpg",
+          "width": 750,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T02:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hiddenwires",
+        "domain": "hiddenwires.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-hong-kong-introduces-contactless-immigration-channels-featuring-facial-recognition-technology.md",
       "title": "Hong Kong introduces contactless immigration channels featuring facial recognition technology",
       "excerpt": "The new ‘contactless e-channels’ will enable users to cross the border in seven seconds flat, immigration official says.",
@@ -1335,49 +1379,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats.md",
-      "title": "This farm is developing a smart facial recognition system.. for its goats",
-      "excerpt": "Despite the smart technology's advances throughout the years, not many people think about its other uses and applications. Shanghai-based Vert City Farm says its goat facial recognition system should be up and running by 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats",
-      "originalUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/cover_2a5x.620.png",
-          "width": 620,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1",
-      "publishedDateTime": "2021-11-11T20:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

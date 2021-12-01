@@ -2,6 +2,403 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-11-13-is-scotland-a-major-contender-in-the-ai-space.md",
+      "title": "Is Scotland A Major Contender In The AI Space?",
+      "excerpt": "Governments and countries are taking advantage of the tremendous transformation presented by AI to position themselves for global competitiveness. Scotland is one such country doing this. Are they now becoming a major contender in the AI space?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618fd05810b6172dc4166969%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2209%26cropY1%3D27%26cropY2%3D1270",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/amp/",
+      "publishedDateTime": "2021-11-13T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem.md",
+      "title": "Robots vs. Fatbergs: High-Tech Approaches to America’s Sewer Problem",
+      "excerpt": "Cash-strapped U.S. cities are turning to drones, artificial intelligence and other innovations to help inspect and fix the country’s aging, underground arteries of waste",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
+      "originalUrl": "https://www.wsj.com/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-434095/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
+      "publishedDateTime": "2021-11-12T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-ai-tool-offers-cure-for-scattered-medical-data.md",
+      "title": "AI tool offers cure for scattered medical data",
+      "excerpt": "Aggregating medical data for patients and analyzing it using AI algorithms can yield useful insights for hospitals and health care systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/",
+      "originalUrl": "https://venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1286541345-e1636479956952.jpg?fit=800%2C560&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/amp/",
+      "publishedDateTime": "2021-11-12T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision.md",
+      "title": "Facebook, bad news and business ethics: Consider the consequences of every decision",
+      "excerpt": "Facebook's recent challenges should serve as a lesson to all leaders to identify and mitigate ethical concerns before they escalate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/",
+      "originalUrl": "https://www.techrepublic.com/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2018/07/17/a6335d0b-5cd2-4ef0-b45e-4c9053d26ab6/resize/1200x/66c6341c84855bd86c7adc99fc13dd42/ethics.jpg",
+          "width": 1200,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facebook-bad-news-and-business-ethics-consider-the-consequences-of-every-decision/",
+      "publishedDateTime": "2021-11-12T12:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late.md",
+      "title": "AI Weekly: Workplace surveillance algorithms need to be regulated before it’s too late",
+      "excerpt": "A growing number of companies are using potentially flawed, invasive workplace monitoring algorithms -- with little oversight.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/",
+      "originalUrl": "https://venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1092756998-e1636570502724.jpg?fit=800%2C534&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/12/ai-weekly-workplace-surveillance-algorithms-need-to-be-regulated-before-its-too-late/amp/",
+      "publishedDateTime": "2021-11-12T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai.md",
+      "title": "How Element 451’s Focus On Bias In Education Teaches The Rest Of Us About Disability And Bias In AI",
+      "excerpt": "For all the myriad benefits, one of the problems with AI is bias—it’s fair to question whether the data these systems are given is favoring (or not) certain types of people more than others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618ebbd032e2561bbc93c0c6%2F0x0.jpg",
+          "width": 474,
+          "height": 319,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2021/11/12/how-element-451s-focus-on-bias-in-education-teaches-the-rest-of-us-about-disability-and-bias-in-ai/amp/",
+      "publishedDateTime": "2021-11-12T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-software-platform-speeds-deployment-of-large-language-models.md",
+      "title": "Software platform speeds deployment of large language models",
+      "excerpt": "NVIDIA opened the door for enterprises worldwide to develop and deploy large language models (LLM) by enabling them to build their own domain-specific chatbots, personal assistants, and other AI applications that understand language with unprecedented levels of subtlety and nuance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eeworldonline.com/software-platform-speeds-deployment-of-large-language-models/",
+      "originalUrl": "https://www.eeworldonline.com/software-platform-speeds-deployment-of-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eeworldonline.com/wp-content/uploads/2021/11/large-language-model-nemo-megatron.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeworldonline.com",
+        "domain": "eeworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-exploring-the-impact-of-machine-learning-and-artificial-intelligence-in-drug-development-from-discovery-to-healthcare.md",
+      "title": "Exploring the Impact of Machine Learning and Artificial Intelligence in Drug Development from Discovery to Healthcare",
+      "excerpt": "SMi Group reports the 3rd Annual AI in Drug Discovery is set to return to London in March 2022 with a key focus on the opportunities of machine learning and AI in drug development SMi Group is delighted to announce",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "originalUrl": "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub12584002_g.jpg",
+          "width": 650,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "publishedDateTime": "2021-11-12T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-monitor-operational-metrics-for-your-amazon-lex-chatbot.md",
       "title": "Monitor operational metrics for your Amazon Lex chatbot",
       "excerpt": "Chatbots are increasingly becoming an important channel for companies to interact with their customers, employees, and partners. Amazon Lex allows you to build&nbsp;conversational interfaces into any application using voice and text. Amazon Lex V2 console and APIs make it easier to build, deploy, and",
@@ -813,381 +1210,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats.md",
-      "title": "This farm is developing a smart facial recognition system.. for its goats",
-      "excerpt": "Despite the smart technology's advances throughout the years, not many people think about its other uses and applications. Shanghai-based Vert City Farm says its goat facial recognition system should be up and running by 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats",
-      "originalUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/cover_2a5x.620.png",
-          "width": 620,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18209/this-farm-is-developing-a-smart-facial-recognition-system-for-its-goats?amp=1",
-      "publishedDateTime": "2021-11-11T20:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-university-of-washington-study-deep-learning-reveals-3d-models-of-protein-machines.md",
-      "title": "University of Washington study: Deep learning reveals 3D models of protein machines",
-      "excerpt": "A new study peers into the structure of hundreds of protein complexes, tiny machines in cells that control everything from energy use to DNA replication. Researchers at the University of",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/",
-      "originalUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-11-at-10.40.14-AM-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/amp/",
-      "publishedDateTime": "2021-11-11T18:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-azure-machine-learning-your-first-experiment.md",
-      "title": "Azure Machine Learning - Your first experiment",
-      "excerpt": "In a previous article, we talked about Azure Machine Learning (ML). This time we will create our first ML model from 0 to predict data. The predictions will be obtained from the data stored in an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sqlservercentral.com/articles/azure-machine-learning-your-first-experiment-1",
-      "originalUrl": "https://www.sqlservercentral.com/articles/azure-machine-learning-your-first-experiment-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sqlservercentral.com/wp-content/uploads/legacy/76c0d6654d7eece200c128485660a8b83ee55e3c/29440.jpg",
-          "width": 420,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SQL Server Central",
-        "domain": "sqlservercentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-self-driving-truck-startup-kodiak-robotics-raises-125-million.md",
-      "title": "Self-Driving Truck Startup Kodiak Robotics Raises $125 Million",
-      "excerpt": "Self-driving truck startup Kodiak Robotics recently announced a $125 million funding round as the trucking industry is facing major challenges, including growing shipping demand and driver shortages.",
-      "sourceUrl": null,
-      "webUrl": "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million",
-      "originalUrl": "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.chdrstatic.com/media/4d811bbb-96df-46b3-885f-771caf17ad34.jpg?width=1200&source=backend&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp",
-      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp",
-      "publishedDateTime": "2021-11-11T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cheddar",
-        "domain": "cheddar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-customize-amazon-translate-output-to-meet-your-domain-and-organization-specific-vocabulary.md",
-      "title": "Customize Amazon Translate output to meet your domain and organization specific vocabulary",
-      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. When you translate from one language to another, you want your machine translation to be accurate, fluent, and most importantly contextual. Customization is key",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-translate-output-to-meet-your-domain-and-organization-specific-vocabulary/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-translate-output-to-meet-your-domain-and-organization-specific-vocabulary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T14:09:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-companies-order-record-number-of-robots-amid-labor-shortage.md",
-      "title": "Companies Order Record Number of Robots Amid Labor Shortage",
-      "excerpt": "North American firms ordered nearly 29,000 robotics units in first nine months of 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
-      "originalUrl": "https://www.wsj.com/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-433263/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
-      "publishedDateTime": "2021-11-11T13:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-video-level-computer-vision-advances-business-insights.md",
-      "title": "Video-level computer vision advances business insights",
-      "excerpt": "Instance-based classification, segmentation, and object detection in images are fundamental issues in the context of computer vision. Different from image-level information retrieval, the video ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/",
-      "originalUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-3-e1628543109807.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/amp/",
-      "publishedDateTime": "2021-11-11T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance.md",
-      "title": "The Intersection of AI and DeFi and Why It’s the Future of Finance",
-      "excerpt": "SingularityNET CEO Ben Goertzel joins Jill Malandrino on Nasdaq #TradeTalks virtually from the Singapore Fintech Festival to discuss the intersection of AI and #DeFi and why it’s the future of finance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
-      "originalUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
-      "publishedDateTime": "2021-11-11T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

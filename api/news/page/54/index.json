@@ -2,6 +2,366 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-10-19-singapore-based-geniebooks-personalized-learning-platform-raises-166m-series-a.md",
+      "title": "Singapore-based Geniebook’s personalized learning platform raises $16.6M Series A",
+      "excerpt": "Geniebook is a Singapore-based learning platform that uses a combination of machine learning and human teacheres to personalize each student’s education. The company announced today it has raised $16.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/",
+      "originalUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/Geniebook_iPhone_iPad_Interface-copy.jpg?w=1000",
+          "width": 1000,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/18/singapore-based-geniebooks-personalized-learning-platform-raises-16-6m-series-a/amp/",
+      "publishedDateTime": "2021-10-18T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-state-university-seeks-software-with-ai-machine-learning.md",
+      "title": "State University Seeks Software With AI, Machine Learning",
+      "excerpt": "In a Request for Proposal, California State University, Long Beach calls for responses from vendors who can provide a software system to help it do more with fundraising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning",
+      "originalUrl": "https://www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/92c0ccc/2147483647/strip/true/crop/3395x1770+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb4%2F71%2Fa53a04cb4015b24d1e52db3b4c8b%2Fshutterstock-1089266585.jpg",
+          "width": 840,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning?_amp=true",
+      "cdnAmpWebUrl": "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/state-university-seeks-software-with-ai-machine-learning?_amp=true",
+      "publishedDateTime": "2021-10-18T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "California Techwire",
+        "domain": "techwire.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac.md",
+      "title": "Artificial Intelligence and Air-based sensors to help Indian Army scan LAC",
+      "excerpt": "As part of a multi-pronged plan, road infrastructure, specially at the sensitive Tawang sector, is also being enhanced significantly with a network of bridges and tunnels that will take away dependence on air assets to support troops in all weather conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/articleshow/87126332.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/articleshow/87126332.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-167562,msid-87126353/untitled-14.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/amp_articleshow/87126332.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/defence/artificial-intelligence-and-air-based-sensors-to-help-indian-army-scan-lac/amp_articleshow/87126332.cms",
+      "publishedDateTime": "2021-10-18T19:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-robotaxi-market-to-witness-astonishing-growth-by-2030.md",
+      "title": "Robotaxi Market to Witness Astonishing Growth by 2030",
+      "excerpt": "Attractive Opportunities in Robotaxi Market” Robotaxi Market by Application (Goods and Passenger), Level of Autonomy (L4 and L5), Vehicle (Car and Shuttle/Van), Service (Rental and Station Based), Propulsion (Electric and Fuel Cell),",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/robotaxi-market-to-witness-astonishing-growth-by-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/robotaxi-market-to-witness-astonishing-growth-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1634619649.jpeg",
+          "width": 650,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-state-of-ai-report-tracks-transformers-in-critical-infrastructure.md",
+      "title": "State of AI Report tracks transformers in critical infrastructure",
+      "excerpt": "Critical infrastructure, life sciences and LMMs loom large in the latest State of AI Report from venture capitalists.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/",
+      "originalUrl": "https://venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/main-image-homepage-3-e1611744189157.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/state-of-ai-report-tracks-critical-infrastructure-transformers/amp/",
+      "publishedDateTime": "2021-10-18T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-skepticism-abounds-for-artificial-intelligence-in-high-level-decisions.md",
+      "title": "Skepticism Abounds For Artificial Intelligence In High-Level Decisions",
+      "excerpt": "Higher-level, more strategic decisions that shape the direction of a business represent the last great frontier for AI in enterprises. And, to date, there is no shortage of skepticism among decision makers when it comes to strategic AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abounds-for-artificial-intelligence-in-high-level-decisions/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abounds-for-artificial-intelligence-in-high-level-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6169e8484f9cb5f76e994825%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abounds-for-artificial-intelligence-in-high-level-decisions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/10/18/skepticism-abounds-for-artificial-intelligence-in-high-level-decisions/amp/",
+      "publishedDateTime": "2021-10-18T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-british-fintech-zopa-hits-1-billion-valuation-with-softbank-investment.md",
+      "title": "British fintech Zopa hits $1 billion valuation with SoftBank investment",
+      "excerpt": "British digital bank Zopa has raised $300 million from investors including Japan's SoftBank Group 9984.T, it said on Tuesday, as the lender looks to expand its business ahead of a possible listing as soon as next year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18",
+      "originalUrl": "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/british-fintech-zopa-hits-%241-billion-valuation-with-softbank-investment-2021-10-18?amp",
+      "publishedDateTime": "2021-10-18T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-start-ups-at-in5-secure-investments-worth-aed14-billion.md",
+      "title": "Start-ups at in5 secure investments worth AED1.4 billion",
+      "excerpt": "DUBAI, 18th October, 2021 (WAM) -- in5, an enabling platform for entrepreneurs, recently reached a new milestone as its start-ups crossed the AED1.4 billion investment mark, reaffirming Dubai’s leading position as an attractive destination for talent and entrepreneurship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/271518317/start-ups-at-in5-secure-investments-worth-aed14-billion",
+      "originalUrl": "https://www.bignewsnetwork.com/news/271518317/start-ups-at-in5-secure-investments-worth-aed14-billion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-scan-amazon-s3-buckets-for-content-moderation-using-s3-batch-and-amazon-rekognition.md",
       "title": "Scan Amazon S3 buckets for content moderation using S3 Batch and Amazon Rekognition",
       "excerpt": "Dealing with content in large scale is often challenging, costly, and a heavy lift operation. The volume of user-generated and third-party content has been increasing substantially in industries like social media, ecommerce, online advertising, and media sharing. Customers may want to review this content",
@@ -791,376 +1151,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-wandisco-announces-general-availability-of-livedata-platform-for-azure.md",
-      "title": "WANdisco Announces General Availability of LiveData Platform for Azure",
-      "excerpt": "Zero-downtime, data-first automated platform for Hadoop to Azure migration accelerates time to business insights in the cloud",
-      "sourceUrl": null,
-      "webUrl": "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
-      "originalUrl": "https://www.kktv.com/prnewswire/2021/10/18/wandisco-announces-general-availability-livedata-platform-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KKTV11",
-        "domain": "kktv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-data-transformation-platform-metrolinkai-raises-22m.md",
-      "title": "Data transformation platform Metrolink.ai raises $22M",
-      "excerpt": "Metrolink.ai, a startup developing a data transformation and management platform, has raised $22 million in venture funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/",
-      "originalUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/big-data-e1628088752737.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/18/data-transformation-platform-metrolink-ai-raises-22m/amp/",
-      "publishedDateTime": "2021-10-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing.md",
-      "title": "Quris combines AI with ‘patient on a chip’ to speed drug development and reduce animal testing",
-      "excerpt": "The necessity of animal testing is a sad one for the process of drug discovery, but there’s seemingly no good alternative to mice, even though they’re not particularly accurate human analogues. Quris claims to have the first real option in its combination of AI with data from a",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/",
-      "originalUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?w=1024",
-          "width": 1024,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/18/quris-combines-ai-with-patient-on-a-chip-to-speed-drug-development-and-reduce-animal-testing/amp/",
-      "publishedDateTime": "2021-10-18T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-ai-drug-discovery-startup-quris-launches-with-9m-to-predict-drug-success-starting-with-rare-diseases.md",
-      "title": "AI drug discovery startup Quris launches with $9M to predict drug success starting with rare diseases",
-      "excerpt": "Quris, a new artificial intelligence startup, thinks it has the tools to predict whether a drug candidate will work safely in humans. The drug discovery company launches with $9 million in angel funding to help reduce risks and costs associated with failed clinical trials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercebiotech.com/cro/ai-drug-discovery-startup-quris-launches-9m-to-predict-drug-success-starting-rare-diseases",
-      "originalUrl": "https://www.fiercebiotech.com/cro/ai-drug-discovery-startup-quris-launches-9m-to-predict-drug-success-starting-rare-diseases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1634327322/QurisTeam.jpg?VersionId=sRLtIqVJTWSRl8PAqDyx6AZjSbneBLjM",
-          "width": 2040,
-          "height": 1360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions.md",
-      "title": "Guardforce AI launches Intelligent Cloud Platform to Transform Robotics Solutions",
-      "excerpt": "PRNewswire/ -- Guardforce AI Co., Limited (Nasdaq: GFAI) ('Guardforce AI'), an integrated security solutions provider",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions-1030873229",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/guardforce-ai-launches-intelligent-cloud-platform-to-transform-robotics-solutions-1030873229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-the-cloud-computing-ads-in-sports-games-are-out-of-control.md",
-      "title": "The Cloud Computing Ads in Sports Games Are Out of Control",
-      "excerpt": "Cloud commercials in sports are getting almost as ubiquitous as the grand (slash insanely annoying) DraftKings-FanDuel ad war of a few years back. Hardly a highlight can now pass without Google Cloud helping to spew an obscure comparison of baseball hitting averages or Amazon Web Services calculating the predicted overtaking times of Formula One drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-10-18/aws-google-cloud-and-azure-flood-the-airwaves-of-nfl-mlb-nhl",
-      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-10-18/aws-google-cloud-and-azure-flood-the-airwaves-of-nfl-mlb-nhl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/in6VwBsYKMkE/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-moving-towards-a-modern-healthcare-future-with-hololens.md",
-      "title": "Moving towards a modern healthcare future with HoloLens",
-      "excerpt": "Pharmaceutical organisations are discovering multiple applications for mixed reality solutions. They can remotely share their science to accelerate discovery and development, support clinical trials,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyrecord.com/Article/moving-towards-a-modern-healthcare-future-with-hololens-126329",
-      "originalUrl": "https://www.technologyrecord.com/Article/moving-towards-a-modern-healthcare-future-with-hololens-126329",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10550/img-Hololens-in-healthcare_940x443.jpg",
-          "width": 940,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T02:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologyrecord.com",
-        "domain": "technologyrecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse.md",
-      "title": "Facebook: We want 10,000 new recruits to help build our VR metaverse",
-      "excerpt": "Facebook says it wants to work with European governments to hire local talent and develop a metaverse that's made with European values from the outset.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
-      "originalUrl": "https://www.zdnet.com/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/49ccbe5d1a9bdcecf263eae1f9bbde3c5326b333/2021/09/22/7e5fcb71-d1bd-4e84-9725-7729629c14e4/20210903-tiernan-beth-aol.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-we-want-10000-new-recruits-to-help-build-our-vr-metaverse/",
-      "publishedDateTime": "2021-10-18T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3642831/unesco-launches-global-sta
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.amp.html"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://lh3.googleusercontent.com/CE9YAGTU_fFacfQpbYn6FXWVmXjCv8OpSl-fgc1nAI0sEsK2UX_BMKTO2kQRyB9pFh2K4-KcTuijJMXukJZQOJOyY5CE2Y1qNsqTaQM_q4rltA=s750"
         width: 750
         height: 500
-        isCached: true
-  - title: "UNESCO member states adopt the first ever global agreement on the Ethics of Artificial Intelligence"
-    excerpt: "Audrey Azoulay, Director-General of UNESCO presented Thursday the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference.T"
-    publishedDateTime: 2021-11-26T22:18:00Z
-    webUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-    ampWebUrl: "https://indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/unesco-member-states-adopt-the-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 62
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2021/11/unesco.jpg"
-        width: 680
-        height: 680
         isCached: true
   - title: "United Nations launches global standard for AI ethics"
     excerpt: "Standard aims to provide AI with a strong ethical basis that will not only protect but also promote human rights and human dignity."

@@ -2,6 +2,396 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-25-forget-roomba-this-advanced-samsung-robot-vacuum-is-350-off-for-black-friday.md",
+      "title": "Forget Roomba: This advanced Samsung Robot Vacuum is $350 OFF for Black Friday",
+      "excerpt": "This Samsung Robot Vacuum Black Friday deal is one of the smartest vacuums available today, with intelligence that help keep your floors clean.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/",
+      "originalUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/?amp",
+      "publishedDateTime": "2021-11-24T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-the-shape-of-edge-ai-to-come.md",
+      "title": "The shape of edge AI to come",
+      "excerpt": "Making chips work in this new world of edge AI requires new ways of setting up neurals, designing memory paths, and compiling to hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/",
+      "originalUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1197264259-1-e1637768065636.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/",
+      "publishedDateTime": "2021-11-24T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash.md",
+      "title": "Tesla requires Full Self Driving testers to allow video collection in case of a crash",
+      "excerpt": "With Tesla's latest FSD release, it's asking drivers to consent to allowing it to collect video taken by a car's exterior and interior cameras in case of an accident or \"serious safety risk.\"",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/",
+      "originalUrl": "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash/amp/",
+      "publishedDateTime": "2021-11-24T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies.md",
+      "title": "Break Down Silos And Improve Productivity With These Emerging AI Technologies",
+      "excerpt": "Work to identify areas in which AI could add the most value to operations and collaboration. When integrated successfully, these technologies can lead to noted improvements in business outcomes, customer experience and employee happiness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60520f51e51980009c63f201%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/amp/",
+      "publishedDateTime": "2021-11-24T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-south-korea-starts-work-on-330m-national-ai-complex.md",
+      "title": "South Korea starts work on $330m national AI complex",
+      "excerpt": "A groundbreaking ceremony was held on Monday for a $330m artificial intelligence complex in the southwestern Korean city of Gwangju, the Yonhap news agency reports. The National AI Industrial",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalconstructionreview.com/south-korea-starts-work-on-330m-national-ai-complex/",
+      "originalUrl": "https://www.globalconstructionreview.com/south-korea-starts-work-on-330m-national-ai-complex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalconstructionreview.com/wp-content/uploads/2021/11/241121-Korea-AI-complex.jpg",
+          "width": 465,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-24T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "globalconstructionreview.com",
+        "domain": "globalconstructionreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-can-ai-truly-give-us-a-glimpse-of-lost-masterpieces.md",
+      "title": "Can AI Truly Give Us a Glimpse of Lost Masterpieces?",
+      "excerpt": "Recent projects used machine learning to resurrect paintings by Klimt and Rembrandt. They raise questions about what computers can understand about art.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/",
+      "originalUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/619d6ee45b2d2156d9905d6b/master/pass/Culture_TA_Rijksmuseum---De-Nachtwacht---installatie-van-de-missende-delen.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-reviving-lost-art/amp",
+      "publishedDateTime": "2021-11-24T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-machine-learning-software-market-breaks-out-to-new-high-microsoft-google-tensorflow-kount.md",
+      "title": "Machine Learning Software Market Breaks Out to New High | Microsoft, Google, TensorFlow, Kount",
+      "excerpt": "Global Machine Learning Software Market Status Trends and COVID 19 Impact Report 2021 Covid 19 Outbreak Impact research report added by Report Ocean is an in depth analysis of market characteristics size and growth segmentation regional and country breakdowns competitive",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2472920/machine-learning-software-market-breaks-out-to-new-high",
+      "originalUrl": "https://www.openpr.com/news/2472920/machine-learning-software-market-breaks-out-to-new-high",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub24176834_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2472920/machine-learning-software-market-breaks-out-to-new-high",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472920/machine-learning-software-market-breaks-out-to-new-high",
+      "publishedDateTime": "2021-11-24T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-healthcare-artificial-intelligence-ai-market-insights-on-challenges-opportunities-size-2026.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market– Insights on Challenges & Opportunities size 2026",
+      "excerpt": "According to Stratistics MRC, the Global Healthcare Artificial Intelligence (AI) Market is accounted for $0.95 billion in 2017 and is expected to reach $19.25 billion by 2026 growing at a CAGR of 39.7% during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pr-inside.com/healthcare-artificial-intelligence-ai-market-insights-on-challenges-opportunities-size-r4856223.htm",
+      "originalUrl": "https://www.pr-inside.com/healthcare-artificial-intelligence-ai-market-insights-on-challenges-opportunities-size-r4856223.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-24T01:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR-Inside",
+        "domain": "pr-inside.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2.md",
       "title": "Tintra Shares Climb After Entering Artificial Intelligence JV With TMC2",
       "excerpt": "By Jaime Llinares Taboada Shares in Tintra PLC rose Wednesday after it said it has entered into a joint venture with investment and research company",
@@ -795,349 +1185,6 @@
         "name": "Cheddar",
         "domain": "cheddar.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-how-artificial-intelligence-is-improving-cancer-research.md",
-      "title": "How Artificial Intelligence is Improving Cancer Research",
-      "excerpt": "Today, though, humanity has a powerful new ally in the fight to eliminate cancer: artificial intelligence. AI and machine learning algorithms gather the data needed to understand cancer holistically and support cancer researchers by providing them with a deeper level of insight than ever available before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research",
-      "originalUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research?amp",
-      "publishedDateTime": "2021-11-23T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-ai-tech-top-5-ai-chips-that-made-it-to-the-market-in-2021.md",
-      "title": "AI Tech: Top 5 AI Chips That Made It to The Market in 2021",
-      "excerpt": "There has been immense growth in the domain of artificial intelligence and machine learning. Thus, more developed AI chips and hardware are being formulated and released to match the processing abilities of complex neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/ai-tech-top-5-ai-chips-that-made-it-to-the-market-in-2021/",
-      "originalUrl": "https://www.analyticsinsight.net/ai-tech-top-5-ai-chips-that-made-it-to-the-market-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/11/AI-Tech-Top-5-AI-Chips-That-Made-It-to-The-Market-in-2021.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-ai-education-for-teens-lifting-the-hood-on-data-and-machine-learning.md",
-      "title": "AI Education for Teens: Lifting the Hood on Data and Machine Learning",
-      "excerpt": "What are key ideas and intuitions foundational to AI that AI education in secondary schools should target? This blog post describes our approach to teaching AI and Machine Learning (AI/ML) to 13-15 year olds through situations/issues set in the context of cybersecurity in ways that \"lift the hood\" on how ML models are designed,",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/blogs/blog-cacm/256999-ai-education-for-teens-lifting-the-hood-on-data-and-machine-learning/fulltext",
-      "originalUrl": "https://cacm.acm.org/blogs/blog-cacm/256999-ai-education-for-teens-lifting-the-hood-on-data-and-machine-learning/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh4.googleusercontent.com/Zze54gK3NEgNpowFweb-8rMY0Q-E9KR7Vpj0hX-ZoSLwPfob3-O9e1Xg3UWlKbfDPzvelic5g3FN5Nh4WwMTHZFqxrzKe7xEA8aEuXQq9YTSN8sIrB4Iflcmoq0_hrjHY_dC8acb",
-          "width": 1146,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-amazons-amzn-aws-clientele-expands-with-adidas-selection.md",
-      "title": "Amazon's (AMZN) AWS Clientele Expands With adidas' Selection",
-      "excerpt": "Amazon's AMZN robust cloud services portfolio is helping it gain customers. adidas selected Amazon Web Services (AWS) as its preferred cloud provider for SAP workloads. This highlights the efficiency and reliability of AWS’ innovative cloud products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection",
-      "originalUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-clientele-expands-with-adidas-selection?amp",
-      "publishedDateTime": "2021-11-23T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-microsofts-tutel-optimizes-mixture-of-experts-model-training.md",
-      "title": "Microsoft’s Tutel optimizes mixture of experts model training",
-      "excerpt": "Microsoft's Tutel library, now available in open source, optimizes the training of mixture of experts machine learning systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/",
-      "originalUrl": "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/amp/",
-      "publishedDateTime": "2021-11-23T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-the-limitations-of-ai-generated-text.md",
-      "title": "The limitations of AI-generated text",
-      "excerpt": "Artificial intelligence has reached a point where it can compose text that sounds so human that it dupes most people into thinking it was written by another person. These AI programs—based on what are called autoregressive models—are being successfully used to create and deliberately spread everything from fake political news to AI-written blog posts that seem authentic to the average person and are published under human-sounding byline.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-11-limitations-ai-generated-text.html",
-      "originalUrl": "https://techxplore.com/news/2021-11-limitations-ai-generated-text.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/text-messaging.jpg",
-          "width": 1920,
-          "height": 1439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-11-limitations-ai-generated-text.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-limitations-ai-generated-text.amp",
-      "publishedDateTime": "2021-11-23T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-transcription-firm-verbit-raises-250m-doubling-valuation-to-2b.md",
-      "title": "Transcription firm Verbit raises $250m, doubling valuation to $2b",
-      "excerpt": "Israeli firm Verbit, a hybrid AI-based and human transcription and captioning software company, said on Tuesday that it secured $250 million in Series E funding, just some six months after raising $150 million at a valuation of $1 billion and marking its entry into the “unicorn” club.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/",
-      "originalUrl": "https://www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2021/06/Verbit-Compnay-Photo-by-Eric-Sultan-3-e1623147226939-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/transcription-firm-verbit-raises-250m-doubling-valuation-to-2b/amp/",
-      "publishedDateTime": "2021-11-23T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-globally-awarded-ai-startup-receives-usd-14-million-in-seed-funding.md",
-      "title": "Globally Awarded AI Startup Receives USD 1.4 Million In Seed Funding",
-      "excerpt": "Globally awarded Croatian AI startup Mindsmiths received USD 1.4 million in seed funding from Feelsgood investment fund which supports companies with proven positive social impact. Mindsmiths will use this investment to further develop and expand its autonomous support system (ASS) platform with a proven social impact record.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-1030998098",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/globally-awarded-ai-startup-receives-usd-1-4-million-in-seed-funding-1030998098",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1693334/1103802_image.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

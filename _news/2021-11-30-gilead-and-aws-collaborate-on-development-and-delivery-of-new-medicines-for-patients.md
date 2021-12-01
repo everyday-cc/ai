@@ -33,6 +33,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Aurora Accelerates Development of the Aurora Driver with AWS"
+    excerpt: "With AWS's capabilities in high-performance computing, machine learning, storage, and security, Aurora optimizes and scales its virtual testing efforts to expand the capabilities of the Aurora Driver safely and quickly."
+    publishedDateTime: 2021-12-01T14:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aurora-accelerates-development-the-aurora-driver-with-aws-/2021/12/01/9502633.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Amazon Web Services and Gilead Work Together to Develop and Deliver New Medicines for Patients"
     excerpt: "(NASDAQ: AMZN) company, Amazon Web Services Inc. and Gilead Services, Inc. (NASDAQ: GILD) have selected AWS as preferred cloud provider. Gilead will utilize AWS to provide its data scientist with the latest advances in machine learning and analytics."
     publishedDateTime: 2021-11-29T16:53:00Z

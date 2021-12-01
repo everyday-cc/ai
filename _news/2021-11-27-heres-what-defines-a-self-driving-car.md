@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-def
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/"
 type: article
 quality: 74
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "An Insight into Autonomous and Self Driving Trucks"
+    excerpt: "Imagine a world where trucks drive themselves, and autonomous vehicles rule the road. Industry experts project autonomous vehicles will become more common over the next ten years. Already there are companies that operate autonomous trucks in select areas such as mines,"
+    publishedDateTime: 2021-12-01T14:44:00Z
+    webUrl: "https://techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/"
+    ampWebUrl: "https://techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/Autonomous-and-Self-Driving-Trucks.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Self-Driving Vehicles Appeal to Drivers, But They Don’t Know What it Entails"
     excerpt: "Drivers don’t know much about self-driving vehicles, but that isn’t stopping the technology’s growing acceptance. TheDetroitBureu.com digs through the numbers."
     publishedDateTime: 2021-11-30T20:28:00Z
@@ -74,6 +90,20 @@ related:
       - url: "https://s19538.pcdn.co/wp-content/uploads/2021/01/self-driving-1000x563.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Level-Setting: Why Drivers Still Don’t Understand Self-Driving"
+    excerpt: "The deficits are definitely concerning—it’s a mismatch for sure.” In a release, she called it “a ‘Danger, Will Robinson’ moment for the fully automated self-driving vehicle industry.” The results do not reflect a lack of curiosity."
+    publishedDateTime: 2021-11-30T19:07:00Z
+    webUrl: "https://www.timesunion.com/news/article/Level-Setting-Why-Drivers-Still-Don-t-16662829.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/03/01/21770345/3/rawImage.jpg"
+        width: 533
+        height: 300
         isCached: true
 
 secured: "SYgZEc/0CJZ1PKjhM0YLh+bOsyp718HKvyIEDCTEnbYMPjy1+EH5N2UT+38F/Hl5jYwxLqRBr/y2eFyv7a2q23rjKwPcVmSuuyaXrh7RaiNUhNGdG2KzNJbi61qCwxGC4j3DhT0WnipaQWlLLArbPZAu9SK1UeHsOLcOefPPgZcMst6JNw8+gX9cT76QX2aojf9ltuTSucIS/GO2+zYsURb2A5o7pNoAkXlTQKNXqhKsbl2lWbuCKvKAKSpyTcaZzDN5xiKl47Eq3+dSYDQvntt98ILKVKcSt6YzzULx3SDfwsKBHTrsZ5q8/ZR/zK42fl+Z9HXck0lza/JiKkHmXIcU29hddMtlMslIT7I02NA=;KJb1sURH88cj1+mFqGAAPA=="

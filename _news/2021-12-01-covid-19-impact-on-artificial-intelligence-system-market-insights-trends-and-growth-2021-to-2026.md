@@ -50,7 +50,7 @@ related:
     provider:
       name: dataconomy.com
       domain: dataconomy.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://dataconomy.com/wp-content/uploads/2021/12/how-artificial-intelligence-fight-long-covid.jpg"
         width: 1920

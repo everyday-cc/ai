@@ -76,6 +76,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
+  - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by AWS-designed chips that help customers significantly improve the performance,"
+    publishedDateTime: 2021-11-30T16:41:00Z
+    webUrl: "https://www.heraldstandard.com/business_ap/aws-announces-three-new-amazon-ec2-instances-powered-by-aws-designed-chips/article_3dc0a993-62f3-5458-a08f-9e4fe07499f7.html"
+    type: article
+    provider:
+      name: The Herald-Standard
+      domain: heraldstandard.com
+    quality: 17
 
 secured: "SZ7RmSg1Sd1IMTm3nLEcrmFA4Wz9E9P831DBYAkg5RgWzR3qvX9K98gGJydF2dBfSYimxV/pMxdXLuZRmaBhFYQ75IySQDs4xtIXv8pnUXgmc97AlHNLtFXyTcAeHyJasfSaoSH3alTqsEu/codOq9U23V00I7tkj6lSsROJA/pnebRuh9KmlbZkvzO3XWKdYPR5vE4puGITiIOHH43A6w8SkUBybdP78hZhm2QQps8aI7lyngvKNsG0CuS37bpGx1+0xwfcC9IJhCm/KBN/Y+0Pyqb+u7wfR9SiccbbCHUPm9MNJFXDO4sh9dqvl57Y64iyY6Dn/gKbnV7UsHe7W4+gF73CXE0qzytdk5bWErw=;EJuJdSwwPPYot7Jx8zYHqg=="
 ---
