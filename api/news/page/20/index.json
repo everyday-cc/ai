@@ -2,6 +2,143 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-11-16-growing-virtual-tumours-and-drugs-designed-by-ai-could-be-future-of-cancer-therapy.md",
+      "title": "'Growing virtual tumours and drugs designed by AI could be future of cancer therapy'",
+      "excerpt": "Exciting work creating digital tumours, involving Bristol University, could be key to effectively targeting cancer cells, writes Dr",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955",
+      "originalUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article25460013.ece/ALTERNATES/s615/2_JS239592337.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/lifestyle/health/growing-virtual-tumours-drugs-designed-25461955.amp",
+      "publishedDateTime": "2021-11-15T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-ai-can-quickly-identify-structure-of-drugs-designed-for-legal-highs.md",
+      "title": "AI can quickly identify structure of drugs designed for legal highs",
+      "excerpt": "Artificial intelligence can quickly identify the chemical structure of new drugs that have similar effects to substances such as cocaine and heroin, but have been designed to evade detection by existi",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2297611-ai-can-quickly-identify-structure-of-drugs-designed-for-legal-highs/",
+      "originalUrl": "https://www.newscientist.com/article/2297611-ai-can-quickly-identify-structure-of-drugs-designed-for-legal-highs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/11/15154701/PRI_210388506.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2297611-ai-can-quickly-identify-structure-of-drugs-designed-for-legal-highs/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2297611-ai-can-quickly-identify-structure-of-drugs-designed-for-legal-highs/amp/",
+      "publishedDateTime": "2021-11-15T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-openai-rival-cohere-launches-language-model-api.md",
+      "title": "OpenAI rival Cohere launches language model API",
+      "excerpt": "Cohere, a startup creating large language models to rival those from OpenAI and AI2Labs, today announced the general availability of its commercial platform for app and service development. Through an API,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/",
+      "originalUrl": "https://venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/openai-rival-cohere-launches-language-model-api/amp/",
+      "publishedDateTime": "2021-11-15T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-15-honda-tests-prototype-autonomous-work-vehicle-at-solar-construction-site-with-black-veatch.md",
       "title": "Honda Tests Prototype Autonomous Work Vehicle at Solar Construction Site with Black & Veatch",
       "excerpt": "TORRANCE, Calif. and OVERLAND PARK, Kan., Nov. 15, 2021 /PRNewswire/ -- Honda and Black & Veatch have successfully tested the prototype Honda",
@@ -1026,152 +1163,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-passenger-vehicle-voice-recognition-market-2021-qualitative-insights-key-enhancement-share-analysis-to-2028.md",
-      "title": "Passenger Vehicle Voice Recognition: Market 2021 Qualitative Insights, Key Enhancement, Share Analysis To 2028",
-      "excerpt": "Passenger Vehicle Voice Recognition Market Size, share 2021 by Global Demand, Regional Analysis, Market Trends, Top",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-2021-qualitative-insights-key-enhancement-share-analysis-to-2028-2021-11-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-2021-qualitative-insights-key-enhancement-share-analysis-to-2028-2021-11-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-14T06:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-unity-moves-robotics-training-to-the-metaverse.md",
-      "title": "Unity Moves Robotics Training to the Metaverse",
-      "excerpt": "The launch of Unity Simulation Pro and Unity SystemGraph, announced on November 10 by the San Francisco-based platform for creating and running games and other 3D content, is crucial to improving modeling,",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/unity-moves-robotics-training-to-the-metaverse/",
-      "originalUrl": "https://bestgamingpro.com/unity-moves-robotics-training-to-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2021/11/Unity-moves-robotics-design-and-training-to-the-metaverse.png",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-14T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-embedding-artificial-intelligence-at-work-from-efficiency-gains-to-leadership-expertise.md",
-      "title": "Embedding Artificial Intelligence At Work: From Efficiency Gains To Leadership Expertise",
-      "excerpt": "Despite the positive benefits of AI technologies in the workplace, further research is needed on the ethical, moral, and legal matters related to adopting such technologies and how disruption may even redefine how traditional business and management functions are organized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/",
-      "originalUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6190da3008ee75ea9193c0c6%2F0x0.jpg%3FcropX1%3D269%26cropX2%3D1664%26cropY1%3D0%26cropY2%3D784",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminlaker/2021/11/14/embedding-artificial-intelligence-at-work-from-efficiency-gains-to-employee-experience/amp/",
-      "publishedDateTime": "2021-11-14T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

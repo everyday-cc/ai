@@ -9,7 +9,7 @@ ampWebUrl: "https://www.9news.com/amp/article/news/local/wildfire/aspen-testing-
 cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/local/wildfire/aspen-testing-wildfire-prevention-program/73-10f2b05d-fec9-4bd7-8d59-eb45d5dae8c3"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "S.F. startup uses AI to detect wildfires before they become catastrophic"
+    excerpt: "As another brutal wildfire season winds down across the Western United States, a San Francisco startup has devised a means of detecting blazes in remote landscapes within moments of ignition. If the early tests are successful,"
+    publishedDateTime: 2021-12-02T12:00:00Z
+    webUrl: "https://www.sfchronicle.com/travel/article/S-F-startup-uses-AI-to-detect-wildfires-before-16668146.php"
+    ampWebUrl: "https://www.sfchronicle.com/travel/amp/S-F-startup-uses-AI-to-detect-wildfires-before-16668146.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/travel/amp/S-F-startup-uses-AI-to-detect-wildfires-before-16668146.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 56
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/04/67/21777912/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Aspen testing program that uses artificial intelligence to detect wildfire smoke"
     excerpt: "Aspen Fire partnered with a California-based company for a pilot program training cameras with artificial intelligence to better detect smoke."
     publishedDateTime: 2021-12-01T04:53:00Z

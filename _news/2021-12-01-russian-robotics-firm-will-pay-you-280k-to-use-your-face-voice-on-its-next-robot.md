@@ -7,7 +7,7 @@ originalUrl: "https://www.bandt.com.au/russian-robotics-firm-will-pay-you-280k-f
 webUrl: "https://www.bandt.com.au/russian-robotics-firm-will-pay-you-280k-for-letting-one-of-its-robots-use-your-face-voice/"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech firm will pay you £150,000 to sell your identity to its robots"
-    excerpt: "Promobot is on the lookout for a face for its humanoid robot assistant which will work in hotels and shopping malls."
-    publishedDateTime: 2021-11-29T11:26:00Z
-    webUrl: "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/"
-    ampWebUrl: "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/11/PRI_212088133.jpg?quality=90&strip=all&zoom=1&resize=600%2C401"
-        width: 600
-        height: 401
-        isCached: true
   - title: "Tech firms will pay you $280,000 to have your face imprinted on robots"
     excerpt: "A tech company is gearing up to launch a new line of human-looking robots, but they want them to have a friendly face. Tech firms will pay a brave volunteer $280,000 to use their face on their robots which will work in hotels,"
     publishedDateTime: 2021-11-30T08:42:00Z

@@ -24,6 +24,22 @@ images:
     height: 1024
     isCached: true
 
+related:
+  - title: "Legislators hear testimony on facial recognition bills"
+    excerpt: "In line with its “Press Pause on Face Surveillance” campaign, the ACLU of Massachusetts gave testimony at a hearing Nov. 23 for the state Joint Committee on the Judiciary in support of bills moving through the Massachusetts legislature that would limit use of facial recognition technology."
+    publishedDateTime: 2021-12-02T11:00:00Z
+    webUrl: "https://www.baystatebanner.com/2021/12/02/legislators-hear-testimony-on-facial-recognition-bills/"
+    type: article
+    provider:
+      name: The Bay State Banner
+      domain: baystatebanner.com
+    quality: 39
+    images:
+      - url: "https://www.baystatebanner.com/wp-content/uploads/2021/12/Surveillance-2.jpg"
+        width: 1680
+        height: 1928
+        isCached: true
+
 secured: "xwnohvbJjLEFFjViasfw23BZdAQz27P5OWfqfJrxRlqu+h6Lur9eBaqDOzbT8ZycNzpaYKDkgn/Hax8pRo436mtn7Bf55eP7tRMm7RrDWf7qlx6/IuNo6tDcAMDMyqrvx3fq0lN45vqk3mM/5NtvZUaNxJjPt6PN+tvbEceR7FRtvqDThEMYp3VoJ9T2oyfmf5cBTXFX3nRadDAvg1PchX8kXzX1FZOpqkuJXCtmgcPU6UdGtOVYF2YZdw0PJI8rPbJxm0gGIbJw4MivQ8nD8KQ5o1ot32SdwjcisM6JxCzoiGKh8rve27/CaMNiVRXB6k8icaDEVWfLov9ylm9w1e42vksxwcOqLmOn/1Pc7us=;cX7WZ1vKOdNgqD9mtxL7jw=="
 ---
 

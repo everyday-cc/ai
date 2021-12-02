@@ -43,20 +43,6 @@ related:
         width: 800
         height: 695
         isCached: true
-  - title: "AWS Introduces A New Platform For Developing Robotics Applications"
-    excerpt: "According to recent research from Automation World, most businesses that adopted robots in the last year did so to reduce labour expenses."
-    publishedDateTime: 2021-12-02T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "jVUWgZ+wZcL21Y4ZGxsasgQ2MVJW52+Gsk6oGVooIn3lVtwbYLDJGTwhweUv7pW+pD0liQ40FMp4WzrY3Z23KCk7EqGU3KX72sAgETRhLgcUoZVEBLK7asjUNlRddjfBNHWzRxizDbfvpupjdcNk/PsmAp9cAVcoAcAXIN26HjsCX/iKzcCe3AmXmWo16NBT0PgQRqcK4mPDWT5r1KOdBtOQhpXfFDAvoP/QHnPbn5OFJNFXtxN20Ui2q6si02uS7dnkwSlylKKWqdfg3qvc/SFjSn7OoXRUx9WBQGjFds6oo/vgkdMg7mp3nsilpzfXcTb53gfo/4uth+T1Im3BX18S7cO8VEySoLEJ4x6GSrw=;+yu7y3gLluTaTJIVjZg/rg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20129709.html"
 webUrl: "https://www.lelezard.com/en/news-20129709.html"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "SEEDS Capital and Real Tech Fund Participate in AI startup, Sentient.io, in its Series B1 Investment Round"
-    excerpt: "SINGAPORE – Media OutReach – 1 December 2021 – Singapore-based AI startup, Sentient.io, announced today that SEEDS Capital, the investment arm of Enterprise Singapore, has invested in its Series B1 funding round following co-investor,"
-    publishedDateTime: 2021-12-01T06:02:00Z
-    webUrl: "https://www.macaubusiness.com/seeds-capital-and-real-tech-fund-participate-in-ai-startup-sentient-io-in-its-series-b1-investment-round/"
+  - title: "Radium looks to speed up AI and ML jobs in cloud datacenters"
+    excerpt: "Radium, which uses AI and machine learning to accelerate cloud hardware, is deploying its solutions to cloud datacenters run by Cyxtera."
+    publishedDateTime: 2021-12-02T11:02:00Z
+    webUrl: "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/"
+    ampWebUrl: "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/amp/"
     type: article
     provider:
-      name: Macau Business
-      domain: macaubusiness.com
-    quality: 19
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2021/12/Sentient-io-logo-rMrq4T.jpeg"
-        width: 1210
-        height: 680
+      - url: "https://venturebeat.com/wp-content/uploads/2014/02/data-center-cloud-wavebreakmedia-shutterstock.jpg?w=1200&strip=all"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "eY3QSuTWCQ101LhnZzBEuR8E5kRZYdaJIMwGO42v0QSkSjseitKzCViSNxLIqMG3gRooOgyAfur8elPAlu/Oi6hmP7mHmjs9lrnoMo8x0HXPaBma/7TgRkgTc58gg/N2GLxH3tVmP/dTzsGyhYTj4BQ1CefjIT6+PtJ2Z1nBYiiusI+sCqj6zYS6XRxV0fBix639DlKVuZ7famhm3IRIYZuW8oYURkk64A5fy1G1pvfbx1QllIB4gAAURXTl5OJqTefbbINQYI41uZIlasricYRm7guRXE6Q15jnuCy7n2u8GW/gp7H1gd0byFrzLSTckBblXOfTCveIEloTl5dmAdSuuNBag3L+DPLoc/sIZD4=;2mWhTmeGRCzg9KvX/wVZmQ=="

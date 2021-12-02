@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Qualcomm unveils new chip for Windows PCs"
-excerpt: "Chipmaker Qualcomm has announced the new Snapdragon 8cx Gen 3 compute platform as a successor of the 8cx Gen 2 model"
-publishedDateTime: 2021-12-02T06:54:00Z
-originalUrl: "https://menafn.com/1103290964/Qualcomm-unveils-new-chip-for-Windows-PCs"
-webUrl: "https://menafn.com/1103290964/Qualcomm-unveils-new-chip-for-Windows-PCs"
+excerpt: "The NPU in the chipset comes with 6.5 TOPS of AI compute power which is an improvement as the NPU in the predecessor has 5 TOPS. It supports 5G (sub-6 GHz and mmWave) and the Snapdragon X65 5G RF ..."
+publishedDateTime: 2021-12-02T12:58:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20211202/3866108.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20211202/3866108.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://menafn.com/updates/pr/2021-12/02/I_b6810image_story.jpg"
-    width: 400
-    height: 211
-    isCached: true
 
 related:
   - title: "Qualcomm launches Snapdragon 8 Gen 1 mobile platform with AI, camera, security boost"
@@ -284,6 +278,17 @@ related:
         width: 1024
         height: 561
         isCached: true
+  - title: "Qualcomm Announces the World’s First 5nm Chip for Windows Laptops"
+    excerpt: "The Snapdragon 8 Gen 1 was not the only major announcement at Qualcomm’s recent Tech Summit. The American chipmaker is"
+    publishedDateTime: 2021-12-02T12:04:00Z
+    webUrl: "https://propakistani.pk/2021/12/02/qualcomm-announces-the-worlds-first-5nm-chip-for-windows-laptops/"
+    ampWebUrl: "https://propakistani.pk/2021/12/02/qualcomm-announces-the-worlds-first-5nm-chip-for-windows-laptops/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/12/02/qualcomm-announces-the-worlds-first-5nm-chip-for-windows-laptops/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 39
   - title: "Qualcomm’s Snapdragon 8 Gen 1 is here with a 30% faster Adreno GPU"
     excerpt: "As the world’s most advanced mobile platform, Snapdragon is synonymous with premium Android experiences, and the new Snapdragon 8 Gen 1 sets the standard for the next generation of flagship mobile devices,"
     publishedDateTime: 2021-12-01T16:13:00Z
@@ -370,6 +375,6 @@ related:
       domain: greencarcongress.com
     quality: 0
 
-secured: "axGWQhEE6O1QctHuBDbiTpZU4dgWvkoViQ+Us8bapKO4bcHslmIx/KVR+mafg94Ge67jvSLHuG2rAxq8Rbkcfu3Zs3kEvIPAd8uaEiYhDRtY/NNbBqqSuzkfBRp/By9vBj9HUfpf7Hda0gSJP26fLpwvdsO84UrYKM6qDdtsB1gFSH1HXLAo6G+EA+SnusMDyKMXZSpMllQm2j1KgOYgpF9Oy1Lzs9GI3thdXa7qTF/6/2jmlbRPhvINbDJM4TZ+lm6bPPSXZLmTEn90Kg8Rq0XHvsXNitffuHf25z0gjZy0jl9F0mGg5CHRlU8KzZTNhADpWMsyCx701Mgi2PUy/lSz6EK2LRCOqyCsnob3Ess=;a7zDfOM+DbOzTRcrPLu7wQ=="
+secured: "Zol/m8GpkF9+h7yV15h+XX2ekit6Cg2HUJDwbv0+JkZ8TmFMYELseos9xOwoabD+yDqPWpBYzgu/omDQh9wGFedBfBmuVz+KFg2AKkpNtV11KfHSrmKxdYa1K7j2RYfDO8o0CmzvSoZ11KQMKszu9zovlQydoosnUC2QaVn2Gs24T3LXYMOS4zQZ5YGJ6ffuc7okZ04T1OcE/QfifpBMpgFl+oGnv3gdrF29pNkT2uCQHOrZQ2+tCtZkS9jflXe3s6cvZ0bvatnlb8B+K552MnPTQN2UYgNCDznv7L0N5izGs2pENxgN4SGF2jmIsI/Bc/6yO5fpUaiVJq4K2mWgppTysQGlwhiavm8d8CeGUM4=;kTZSOtZ87LdaNJmY+sCLPQ=="
 ---
 

@@ -33,6 +33,20 @@ related:
         width: 375
         height: 213
         isCached: true
+  - title: "AWS Introduces A New Platform For Developing Robotics Applications"
+    excerpt: "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together."
+    publishedDateTime: 2021-12-02T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Is Data-First AI the Next Big Thing?"
     excerpt: "We are roughly a decade removed from the beginnings of the modern machine learning (ML) platform, inspired largely by the growing ecosystem of open-source"
     publishedDateTime: 2021-11-29T08:15:00Z

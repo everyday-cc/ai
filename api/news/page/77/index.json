@@ -2,6 +2,135 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2021-10-05-fintech-50-evaluating-how-firstbank-strengthens-collaboration.md",
+      "title": "Fintech 5.0: Evaluating how FirstBank strengthens collaboration",
+      "excerpt": "Take the fintech (financial technology) space in Nigeria, where one bank is known to have stood as a giant with very broad shoulders, having capacities that have been built up and accumulated over 127 continuous years.",
+      "sourceUrl": null,
+      "webUrl": "https://nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/",
+      "originalUrl": "https://nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nairametrics-prod-s3.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/10/05084959/FirstBank-HQ-image.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/?amp=1",
+      "cdnAmpWebUrl": "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2021/10/05/fintech-5-0-evaluating-how-firstbank-strengthens-collaboration/?amp=1",
+      "publishedDateTime": "2021-10-05T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nairametrics",
+        "domain": "nairametrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-avenues-in-computer-vision.md",
+      "title": "Avenues in computer vision",
+      "excerpt": "A decade-and-a-half ago, computer vision, natural language processing (NLP), and speech recognition were disparate fields with specialised algorithms for each domain. Then came deep learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/education/career-opportunities-in-computer-vision/article36835398.ece",
+      "originalUrl": "https://www.thehindu.com/education/career-opportunities-in-computer-vision/article36835398.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/education/ixd93a/article36835397.ece/ALTERNATES/LANDSCAPE_615/05EPBSONLINE-ONLYCOMPUTER-VISION-2",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/education/career-opportunities-in-computer-vision/article36835398.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/career-opportunities-in-computer-vision/article36835398.ece/amp/",
+      "publishedDateTime": "2021-10-05T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report.md",
+      "title": "Artificial Intelligence Market 2021-26: Size, Share, Trends, Analysis and Research Report",
+      "excerpt": "The global artificial intelligence market reached a value of US$ 40.21 Billion in 2020. Looking forward, IMARC Group expects the market to exhibit robust growth during 2021-2026, according to the latest report by IMARC Group.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/",
+      "originalUrl": "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/10/artifical-intelligence-market-30.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-market-2021-26-size-share-trends-analysis-and-research-report/?amp=1",
+      "publishedDateTime": "2021-10-05T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-graph-based-natural-language-processing-and-information-retrieval.md",
       "title": "Graph-based Natural Language Processing and Information Retrieval",
       "excerpt": "Graph theory and the fields of natural language processing and information retrieval are well-studied disciplines. Traditionally, these areas have been perceived as distinct, with different algorithms, different applications and different potential end-users.",
@@ -923,117 +1052,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-image-recognition-market-will-reach-usd-91029-million-by-2030-at-156-cagr-marketbiz.md",
-      "title": "Image Recognition Market, Will Reach USD 91,029 Million By 2030 at 15.6% CAGR-Market.Biz",
-      "excerpt": "The Image Recognition Industry research report focuses on global and regional key company information such as company profiles, products, object specifications, industrial capacity, production ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/image-recognition-market-will-reach-usd-91029-million-by-2030-at-15-6-cagr-market-biz",
-      "originalUrl": "https://www.digitaljournal.com/pr/image-recognition-market-will-reach-usd-91029-million-by-2030-at-15-6-cagr-market-biz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-cloud-providers-green-data-center-market-is-projected-to-witness-market-growth-of-2350-by-forecast-2027.md",
-      "title": "Cloud Providers Green Data Center Market is projected to witness market growth of 23.50% by forecast 2027",
-      "excerpt": "In the forecast period from 2020 to 2027, the cloud providers green data centre market is projected to witness market growth of 23.50%. The Data Bridge Market Research Report on the cloud providers green data centre market offers analysis and insights into the various factors expected to be prevalent over the forecast period,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/",
-      "originalUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cloud-providers-green-data-center-market-swot-analysis-emerging-trends-key-players-apc-cisco-dell-eaton-emerson-electric-fujitsu-hitachi-hewlett-packard-and-more-future-scope-forecast-202/?amp=1",
-      "publishedDateTime": "2021-10-04T05:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-04-roboflow-and-ultralytics-creator-of-yolov5-partner-to-streamline-custom-computer-vision-model-development.md",
-      "title": "Roboflow and Ultralytics, Creator of YOLOv5, Partner to Streamline Custom Computer Vision Model Development",
-      "excerpt": "Roboflow, an end-to-end computer vision developer platform, and Ultralytics, the creators of the popular open source YOLOv5 model, have partnered to launch a streamlined way to prepare, label, and train computer vision models on custom datasets with an emphasis on active learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/10/04/9461608.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/10/04/9461608.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-04T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

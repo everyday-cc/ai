@@ -7,7 +7,7 @@ originalUrl: "https://tdwi.org/articles/2021/12/02/adv-all-hidden-technical-dept
 webUrl: "https://tdwi.org/articles/2021/12/02/adv-all-hidden-technical-dept.aspx"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     height: 400
     isCached: true
 
-secured: "dkZOsE80N7DIiI362LdkUyir2O0DNIf31fVVEbfG+KGZ7DPMJWaYIzYWtu90e33QUQzUIDD27xtwtjJTYfOL7lGjZ3tqT9xpWD3k3vJaqzyH8tHgl3RyqyGz8da8gy+RUmFjU2vbnKuiEDRS7NpMzkJ20jdNFIntJeWK07yTeJ++r8D165eMnXrbB3TW5LmmsfWLF8ZvgqB3VjFdr33mwbeK6e81M0MD7L8xC34cxvhczjHczAWzf5VdgQ6ssz/bxHJ8B0/zZUVViqFotD2g+tscOyYMDtid2r0xUE2lc+8xkPoUMPTvopkTWhfAkIlkWLbMtICPYqwQhJsKQdk2TxyRTIY8TeByAOBMVbJkskE=;0+MYxZV929YUUTq8Kx9+fg=="
+related:
+  - title: "This Is The Golden Age Of Machine Learning: Priya Ponnapalli, AWS"
+    excerpt: "I have always been interested in real-world impact. So, I decided to pursue a career which would allow me to apply ML to various applications"
+    publishedDateTime: 2021-12-02T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/this-is-the-golden-age-of-machine-learning-priya-ponnapalli-aws/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/Priya_AIM.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "GYWq/eOI9BcB6O53t85bX8rDA7/0j1RutRWFE8N392/GaRhUdTod3/ohv81GJMRWJ/FrahCDZMq5wLylgZ5eWeNHKXdl6BMjftPOdy77ibtVTHabWKAzncULgM1Cy/2prTYfA71VPxkIyhenfEfg9yRisgNpQRIs35gWmDB2ivbcvpqRP5kcV2TfltbWN5SZHN7mEMKO2OvQXgVKOGpjjJ8GWeU9A9R9R5b5QsFDeD3ztz+7k6uJbsRjgwr9uCTjPt54lsk0Qw/2WonOhs5KPf7sqI6zE2CXZTz45sQZTiq+ziZpJ3rhNa6u24jlY9fYIVIdOwGNtAiDxH//g7UvQwHi+13hlDyGNYvqEGHPYQ8KT9Rkb82s+Ee2TQW7uJZ5F1H0DpmbibX9N+a+xqivYq18IrbS7Tlqr1xqplkV5zl/jljuwxl867ZItPRrMjdlvB5ryWZp+e+oqC3UWI8U11kJs7lttU1XHSPGSlmQXhOyQOCZjpnHvDDpNGAjj5DmPW4cGUMekkCIO04L6MVNqg==;M/mwXb+vPScBd5AEuAQFxg=="
 ---
 

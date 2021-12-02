@@ -2,6 +2,126 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-11-09-nvidia-brings-large-language-ai-models-to-enterprises-worldwide.md",
+      "title": "NVIDIA Brings Large Language AI Models to Enterprises Worldwide",
+      "excerpt": "NVIDIA today opened the door for enterprises worldwide to develop and deploy large language models (LLM) by enabling them to build their own domain-specific chatbots, personal assistants and other AI applications that understand language with unprecedented levels of subtlety and nuance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/g23974704/nvidia-brings-large-language-ai-models-to-enterprises-worldwide",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/g23974704/nvidia-brings-large-language-ai-models-to-enterprises-worldwide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23974704",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23974704",
+      "publishedDateTime": "2021-11-08T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-soekarno-hatta-airport-readies-facial-recognition-system.md",
+      "title": "Soekarno-Hatta Airport readies facial recognition system",
+      "excerpt": "State-owned airport operator PT Angkasa Pura (AP) II (Persero) is creating a facial recognition system with biometric technology for aircraft passengers to process departures at Soekarno-Hatta Airport.",
+      "sourceUrl": null,
+      "webUrl": "https://en.antaranews.com/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
+      "originalUrl": "https://en.antaranews.com/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.antaranews.com/cache/800x533/2021/11/08/IMG-20211108-WA0006_3.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.antaranews.com/amp/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
+      "cdnAmpWebUrl": "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/198513/soekarno-hatta-airport-readies-facial-recognition-system",
+      "publishedDateTime": "2021-11-08T23:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Antara News",
+        "domain": "antaranews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-yellowai-launches-inbox-an-omnichannel-agent-assist-platform-to-elevate-customer-and-agent-experience.md",
+      "title": "Yellow.ai Launches INBOX - an Omnichannel Agent Assist Platform to Elevate Customer and Agent Experience",
+      "excerpt": "DUBAI, UAE, Nov. 9, 2021 /PRNewswire/ -- Yellow.ai, the world's leading customer ... to handle requests from a single dashboard in any language, offering complete customer history with superior ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-11/54431714-yellow-ai-launches-inbox-an-omnichannel-agent-assist-platform-to-elevate-customer-and-agent-experience-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-11/54431714-yellow-ai-launches-inbox-an-omnichannel-agent-assist-platform-to-elevate-customer-and-agent-experience-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T23:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-ai-being-employed-to-translate-sign-language-to-assist-deaf-in-japan.md",
       "title": "AI being employed to translate sign language to assist deaf in Japan",
       "excerpt": "Local governments in Japan are turning to artificial intelligence to improve communication with people who are deaf or hard of hearin",
@@ -1031,130 +1151,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs.md",
-      "title": "FinTech JUMO Raises $120M to Support Emerging Market Entrepreneurs",
-      "excerpt": "FinTech JUMO raised $120 million to help the startup further support emerging market entrepreneurs with next-generation financial services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/shutterstock_1902368425-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2021/fintech-jumo-raises-120m-to-support-emerging-market-entrepreneurs/amp/",
-      "publishedDateTime": "2021-11-08T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-artificial-intelligence-stocks-the-10-best-ai-companies.md",
-      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
-      "excerpt": "AI stocks may be excellent long-term investments. The rise of artificial intelligence, automation and robots is disrupting virtually every major industry and business. From machine learning to",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/",
-      "originalUrl": "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2021/11/artificial-intelligence-stocks-the-10-best-ai-companies-4/amp/",
-      "publishedDateTime": "2021-11-08T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics",
-        "Microsoft AI",
-        "AI in Autos",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-improved-ai-gives-chatbots-a-second-life-in-the-digital-ecosystem.md",
-      "title": "Improved AI Gives Chatbots a Second Life in the Digital Ecosystem",
-      "excerpt": "Chatbots could be set to make a comeback, as improved artificial intelligence has some eCommerce leaders looking to use messaging platforms to make sales.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/improved-ai-gives-chatbots-second-life-in-digital-ecosystem/",
-      "originalUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/improved-ai-gives-chatbots-second-life-in-digital-ecosystem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/ecommerce-chatbot-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/artificial-intelligence-2/2021/improved-ai-gives-chatbots-second-life-in-digital-ecosystem/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/improved-ai-gives-chatbots-second-life-in-digital-ecosystem/amp/",
-      "publishedDateTime": "2021-11-08T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

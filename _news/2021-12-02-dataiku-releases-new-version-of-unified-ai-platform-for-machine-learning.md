@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash-e1638387079382.jpg?w=1200&strip=all"
@@ -30,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "bW53SxBu1yywTj0Vz0zhdZBOwgHN430HsxfVOCIwRNmVeCMcy/VW5LZWiJd2ayYGfOIEKDXjFMfLjoceJihLara+dNH7B10bgujg9/1ujE6plv+YiZQ257f4shxeMvuVytmBqUuAXcXyHDFeLXhbVKolNYBnnjV5GhC7rv2M4avsfu0wF67mfrkvgq9yGxQzswcHQAoZ1j7FvAhQMTyH7RU3nWp6g9X6B/GrUUWPDyamr4LXzlp0zwlgeEtjMKmrx5UvqjtD4YYc9E9AEeN72sS6EdAzh7QPBB15PZwX6KtiyLEnPRTji91qu7jXBkUMAa456LO9PJX+c+j9smpbQKn8HNmUtFpgcUcbWUPG3IM=;2t2HjOXpF3rS+Dx8KmhvVg=="
+secured: "RuEF00u74oOiuX+7Ecj4ZO7/u4ukC3Ln4hf2SXOVpeMW/oDofLvl6/iWyg0/dImkoy7YNc7Z3uszKRPfL3oZ1F/EUKuV1y227hpFxR2qNdgpD5Nr53Ph4HWZMgOHgApPuEwoE5pGVx8t1y1qoUBnGstbeBs2Uu880ziSltvlqL6oQn8NJl+6qQI/x9QBlsCwISu2CfiIheqH0M+JucCYyx5HWlvINlKWS9DgckT1LUIvGcw5GxR+44V9XjN6+mzTbSHJl6G5iMcHCFzC0DxRplaNJp2FMAFyu9DhTvtUQcxYNV27ZZu739bPM72oEuTC8zWTHvThKTcMU8vIKrJ4ZEDLkJ0b7tS382e6pFYPE80=;OIlWQsCUyss/wkLZ5jB6jw=="
 ---
 

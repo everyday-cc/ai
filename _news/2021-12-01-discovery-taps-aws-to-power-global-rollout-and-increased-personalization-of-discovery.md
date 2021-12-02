@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AWS increases relationship with Discovery"
+    excerpt: "Amazon Web Services (AWS) has extended its relationship with Discovery as the broadcaster looks to the cloud to feed 450 linear TV channels and streaming service Discovery+."
+    publishedDateTime: 2021-12-02T11:19:00Z
+    webUrl: "https://www.broadbandtvnews.com/2021/12/02/aws-increases-relationship-with-discovery/"
+    type: article
+    provider:
+      name: Broadband TV News
+      domain: broadbandtvnews.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2021/12/Discovery-Logos.jpg?fit=1200%2C675&#038;ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AWS announces expanded cloud partnerships with Meta, Discovery and Aurora"
     excerpt: "Meta Platforms Inc., formerly Facebook Inc., as well as Discovery Inc. and Aurora Innovation Inc., which develops autonomous vehicle technology. The partnership with Meta is the main highlight. Besides being one of the world’s largest tech firms,"
     publishedDateTime: 2021-12-01T18:35:00Z
@@ -64,13 +78,13 @@ related:
         height: 630
         isCached: true
   - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship"
-    publishedDateTime: 2021-12-01T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
+    excerpt: "(NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud. As Discovery’s preferred cloud provider, AWS powers the vast majority of the company’s infrastructure needs to deliver its discovery+ on-demand streaming video service,"
+    publishedDateTime: 2021-12-01T23:08:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 11
 
 secured: "SH1xWz4Gfu36boLcoSw50LDY4pRUX/sw7mf6EOXWXc+Flmzbhw6LZ6Cpo5SBh5BGPtvwNmlivzKdEna8/c0xF45aJyENLmyXSICDtGDBAKutEb/TGVANJD9WUK11vr7wKGMHOAexQ73OtVJc2EXQzMAI/weyjD1bmIw3G1M7pj6xp9QX3eYcyXHANK9jj/ttW9kYA8+cAyTsR1BCBrARqQTCWxt18qLv0IC1T4YLQ4HJIWFApRENRSZ91Wky3llrCJBvfSKAJ66n+mVuoxAP9yUOyW9zHe7OUxFQrEfwBol4AtGk46IhuVc3KpUNVswK16moWePiVGoDW4qeFqcOtZ4mVIjoCciTxjqqMoZZH+U=;vqIdyVewzUWqap+zvLAEiA=="

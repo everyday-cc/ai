@@ -39,6 +39,20 @@ related:
         width: 375
         height: 213
         isCached: true
+  - title: "AWS Introduces A New Platform For Developing Robotics Applications"
+    excerpt: "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together."
+    publishedDateTime: 2021-12-02T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AWS Supports Roche in Harnessing the Power of Health Data at Scale"
     excerpt: "(NASDAQ: AMZN), announced that the Roche Group (SIX: RO, ROG; OTCQX: RHHBY) is using AWS for the majority of its cloud workloads to help Roche extract greater value from its health data. The company uses AWS capabilities in high performance computing,"
     publishedDateTime: 2021-11-30T16:55:00Z

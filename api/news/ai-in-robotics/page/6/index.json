@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-24-ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it.md",
+      "title": "“AI 2041” Co-Author Kai-Fu Lee Talks About AI’s Sweeping Future And How He Invests In It",
+      "excerpt": "Kai-Fu Lee has been sizing up the implications for decades. The former Google executive turned venture capitalist looked at U.S.-China competition in his 2018 book, “AI Superpowers.” His new book, “AI 2041,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/",
+      "originalUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6175629b1f835cb5881bf699%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/amp/",
+      "publishedDateTime": "2021-10-24T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-10-24-xpeng-unveils-plan-to-go-beyond-cars-with-ai-flying-car-robot.md",
       "title": "Xpeng Unveils Plan to Go Beyond Cars With AI, Flying Car, Robot",
       "excerpt": "The Guangzhou-based company also launched the prototype of a ridable robot horse at its so-called “Tech Day.” Xpeng said 60% of its users have paid for the assisted-driving feature, called the navigation-guided-pilot function,",
@@ -1334,49 +1386,6 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer.md",
-      "title": "The USB-C iPhone Becomes A Reality Thanks To A Robotics Engineer",
-      "excerpt": "Recall when we brought to your attention plans by the European Commission to propose legal measures that would force phone",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/",
-      "originalUrl": "https://techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/10/77972c1fdb2ec0e1057ad6778dbf7fcb.jpg",
-          "width": 976,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/the-usb-c-iphone-becomes-a-reality-thanks-to-a-robotics-engineer/?amp=1",
-      "publishedDateTime": "2021-10-13T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

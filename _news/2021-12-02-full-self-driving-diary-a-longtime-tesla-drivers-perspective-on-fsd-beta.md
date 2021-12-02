@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressio
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 118
 published: true
 
 provider:

@@ -2,6 +2,153 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-11-25-baidu-pony-ai-granted-chinas-first-licences-to-charge-passengers-for-self-driving-taxis-in-beijing.md",
+      "title": "Baidu, Pony AI granted China’s first licences to charge passengers for self-driving taxis in Beijing",
+      "excerpt": "Baidu and Pony AI became the first companies to be approved by mainland Chinese authorities to launch their autonomous cab services commercially following successful trial periods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/6fdc88ce-dddc-4a5d-8ba9-e374c88fc240_dea56383.jpg?itok=TisaetVJ&v=1637822271",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "publishedDateTime": "2021-11-25T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml.md",
+      "title": "Design of AI may change with the open-source Apache TVM and a little help from startup OctoML",
+      "excerpt": "Optimizing the compute graph of neural nets for new hardware may change even the training of neural nets, says startup OctoML.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
+      "originalUrl": "https://www.zdnet.com/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5122e903258a58970502b65f243f042e398e4268/2021/11/24/9dcb6e32-5e9a-4462-9146-0a02ab9e4e18/luis-ceze-octoml-sept-2021.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
+      "publishedDateTime": "2021-11-25T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users.md",
+      "title": "MediaTek fixes vulnerability on its chips allowing certain apps to listen users",
+      "excerpt": "MediaTek went from a controversial chipmaker to one of the most relevant in the last years. The Dimensity lineup brought the Taiwanese chipmaker big achievements",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/",
+      "originalUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/11/MediaTek-Dimensity-2232-1024x576.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/",
+      "publishedDateTime": "2021-11-25T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt.md",
       "title": "Kozhikode-based AI-driven healthcare start-up gets funding from Malta govt",
       "excerpt": "Kozhikode: Kozhikode-based IT start-up Intpurple Technologies, which developed an Artificial Intelligence driven healthcare software, has received funding from the Government of Malta, the company said on Thursday.",
@@ -1070,146 +1217,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-south-korea-starts-work-on-330m-national-ai-complex.md",
-      "title": "South Korea starts work on $330m national AI complex",
-      "excerpt": "A groundbreaking ceremony was held on Monday for a $330m artificial intelligence complex in the southwestern Korean city of Gwangju, the Yonhap news agency reports. The National AI Industrial",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalconstructionreview.com/south-korea-starts-work-on-330m-national-ai-complex/",
-      "originalUrl": "https://www.globalconstructionreview.com/south-korea-starts-work-on-330m-national-ai-complex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalconstructionreview.com/wp-content/uploads/2021/11/241121-Korea-AI-complex.jpg",
-          "width": 465,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-24T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "globalconstructionreview.com",
-        "domain": "globalconstructionreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-can-ai-truly-give-us-a-glimpse-of-lost-masterpieces.md",
-      "title": "Can AI Truly Give Us a Glimpse of Lost Masterpieces?",
-      "excerpt": "Recent projects used machine learning to resurrect paintings by Klimt and Rembrandt. They raise questions about what computers can understand about art.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/619d6ee45b2d2156d9905d6b/master/pass/Culture_TA_Rijksmuseum---De-Nachtwacht---installatie-van-de-missende-delen.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-reviving-lost-art/amp",
-      "publishedDateTime": "2021-11-24T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-machine-learning-software-market-breaks-out-to-new-high-microsoft-google-tensorflow-kount.md",
-      "title": "Machine Learning Software Market Breaks Out to New High | Microsoft, Google, TensorFlow, Kount",
-      "excerpt": "Global Machine Learning Software Market Status Trends and COVID 19 Impact Report 2021 Covid 19 Outbreak Impact research report added by Report Ocean is an in depth analysis of market characteristics size and growth segmentation regional and country breakdowns competitive",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2472920/machine-learning-software-market-breaks-out-to-new-high",
-      "originalUrl": "https://www.openpr.com/news/2472920/machine-learning-software-market-breaks-out-to-new-high",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub24176834_g.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2472920/machine-learning-software-market-breaks-out-to-new-high",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472920/machine-learning-software-market-breaks-out-to-new-high",
-      "publishedDateTime": "2021-11-24T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

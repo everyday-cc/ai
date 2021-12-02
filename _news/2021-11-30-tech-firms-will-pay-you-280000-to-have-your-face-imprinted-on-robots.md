@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech firm will pay you £150,000 to sell your identity to its robots"
-    excerpt: "Promobot is on the lookout for a face for its humanoid robot assistant which will work in hotels and shopping malls."
-    publishedDateTime: 2021-11-29T11:26:00Z
-    webUrl: "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/"
-    ampWebUrl: "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2021/11/PRI_212088133.jpg?quality=90&strip=all&zoom=1&resize=600%2C401"
-        width: 600
-        height: 401
-        isCached: true
   - title: "Russian Robotics Firm Will Pay You $280K To Use Your Face & Voice On Its Next Robot"
     excerpt: "Take your robot dancing 'next level' by becoming an actual robot with this highly profitable, albeit ridiculous stunt."
     publishedDateTime: 2021-11-30T21:00:00Z

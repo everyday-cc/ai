@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-02-the-movement-to-hold-ai-accountable-gains-more-steam.md",
+      "title": "The Movement to Hold AI Accountable Gains More Steam",
+      "excerpt": "A New York City law requires algorithms used in hiring to be “audited” for bias. It’s the first in the US—and part of a larger push toward regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/",
+      "originalUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61a8157414eaf61b0530a9fd/master/pass/Business_Papers_1332101305.jpg",
+          "width": 2400,
+          "height": 1601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp",
+      "publishedDateTime": "2021-12-02T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-big-tech-wants-to-compete-with-banks-let-them-deal-with-ai-ethics-first.md",
       "title": "Big tech wants to compete with banks? Let them deal with AI ethics first",
       "excerpt": "As big tech moves into the world of finance, AI ethics will be one of its biggest challenges including bias and ensuring data privacy.",
@@ -1404,49 +1456,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart.md",
-      "title": "AI shop assistants: get ready for a world where you can’t tell humans and chatbots apart",
-      "excerpt": "There are already more than a billion people interacting with businesses via either text or voice-based conversational tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/phildavis/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
-      "originalUrl": "https://www.thestreet.com/phildavis/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg1NDUyMzY2ODM1NzU0NTEx/file-20211109-15-ll83na.jpg",
-          "width": 620,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/phildavis/.amp/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/phildavis/.amp/news/ai-shop-assistants-get-ready-for-a-world-where-you-cant-tell-humans-and-chatbots-apart",
-      "publishedDateTime": "2021-11-16T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

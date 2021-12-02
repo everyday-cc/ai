@@ -7,7 +7,7 @@ originalUrl: "https://www.macaubusiness.com/seeds-capital-and-real-tech-fund-par
 webUrl: "https://www.macaubusiness.com/seeds-capital-and-real-tech-fund-participate-in-ai-startup-sentient-io-in-its-series-b1-investment-round/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1210
     height: 680
     isCached: true
-
-related:
-  - title: "Advancements Series to Explore Recent Developments in Artificial Intelligence and Data"
-    excerpt: "Scheduled to broadcast Spring/2022, an upcoming episode of Advancements with Ted Danson will focus on developments in machine learning, artificial intelligence, and data optimization. This segment of Advancements will explore how a"
-    publishedDateTime: 2021-11-29T15:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-20129709.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 31
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "i2uUKcJMPPFZNLNX98bedhaE+4jYauZIbvd2O5t9qejdo08NuULGk0UY4/ndqZXH+0ieHzrDjvOz7wIbZp1qRrTx5fROlTOwio9vb1UBb8Rs1dqJdLO43UZJ26bzmrdCgSK9xXUWupcSIeCkFiwuwaz0olGXkF2XtT7nKU5csURyf57V2UXnb3F8aAeVtfwdOTOrZ9qQToMzns/jUkPAA98DZQiQQYFYYzNWrfxn1MAl5tGWxpaTBLGVcKDr/fFmdjoaYeWRvIDu7mc6h0zo4yOrk+/meqep/sB78JYz/elx7AMKYP+u7j08cK3ONjp9qnab/DLb9qSFlfo4/DYkDV1ooFQXpTJA0oexFB+f5SGFr2cfCfVRmuW7HW7p81qJc/EUwtKMACILLxjtvXhNa+MTtsiNEqWj7UBDIlTgl4XFWDnxUH8Lmj999TFW7JJnmZ6K6mFDXc0I8GeD2jTWkqbdFu5jjVQggPqpeblFhKOjdJD3xmJgVIsevQv8EYIeSYr4f/PjG1SE4dbiQPzx9A==;3lgPIo84mqrTevFudf3m3Q=="
 ---

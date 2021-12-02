@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "IIIT Hyderabad Launches 36 Week Foundation Course On Modern Machine Learning"
+    excerpt: "Hub-Data at IIIT Hyderabad announced that it invites applications from undergraduate engineering students across the country for its 36-week foundation course on Modern Machine Learning commencing January 2022."
+    publishedDateTime: 2021-12-02T12:36:00Z
+    webUrl: "https://analyticsindiamag.com/iiit-hyderabad-launches-36-week-foundation-course-on-modern-machine-learning/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/1600682483phpLyGPwm.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "IIIT-Hyderabad selected for startup funding grant"
     excerpt: "Hyderabad: The Centre for Innovation & Entrepreneurship (CIE) of IIIT Hyderabad has been selected for the Startup India Seed Fund Scheme by the"
     publishedDateTime: 2021-12-01T19:16:00Z

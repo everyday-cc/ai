@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship"
-publishedDateTime: 2021-12-01T18:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
-webUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
+excerpt: "(NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud. As Discovery’s preferred cloud provider, AWS powers the vast majority of the company’s infrastructure needs to deliver its discovery+ on-demand streaming video service,"
+publishedDateTime: 2021-12-01T23:08:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/12/01/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of"
+webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
@@ -32,6 +32,20 @@ related:
     quality: 54
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/BrqKp374eMt7ua6V9k3wzg-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AWS increases relationship with Discovery"
+    excerpt: "Amazon Web Services (AWS) has extended its relationship with Discovery as the broadcaster looks to the cloud to feed 450 linear TV channels and streaming service Discovery+."
+    publishedDateTime: 2021-12-02T11:19:00Z
+    webUrl: "https://www.broadbandtvnews.com/2021/12/02/aws-increases-relationship-with-discovery/"
+    type: article
+    provider:
+      name: Broadband TV News
+      domain: broadbandtvnews.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2021/12/Discovery-Logos.jpg?fit=1200%2C675&#038;ssl=1"
         width: 1200
         height: 675
         isCached: true
@@ -73,6 +87,6 @@ related:
       domain: mobilitytechzone.com
     quality: 11
 
-secured: "wz02mIPXpuXU1w0dXTaPSuuHOO8c4urwR422vEnfFgjj8SQ/TJKVuv2EZ98btgf7o39iVnL8R+dmGmnBxr4rLvrn4f2QVkRLPEW1BIavrtRS0dspn24qwgUCx9+VXtpEaaGyeVoLVo1IhGUX8nlY7afsZzEJfFGUMabY/WmEZ6eAxd9YDCWwAkRHDvSe0GHxh36Z5vrcw5WpeWBX7GfJXAQ1oKAoEOm9VMsFlsAZo1mPEK8fuzDuWB1NBbOgPtYV9HNg7YUMII6/23mQMnR1GXuUwlMZffkIeI+dxBTGD95CtTSxeDGUWnyRymn5lPTnNKVl8yFwfJ048OI43cKSE1MuUp3tJd3iV1/dlKnXYxA=;8YGxhJXFgXJsNrYYAqB6dQ=="
+secured: "McgdWLK5m4Mk5wNtKtx6rptgeFJKK5XZcwdLWPXyWMeJiL1joM+UT8jnxZrEsst6pOk//5RQi7LKsGQZsPpsc8QOwkRF884k8E/gH9CW7oTvfDB1O6TNLlG8ZpYbt/wGgd1YH+O5PyTvszGsr2D9wEU8OIq2Rhnt8rkdSXIwH0AJwYsFwE04/6YYpQsEbrJ/sklQhIOYpJ9CyR9f70fMsAsruSiKTBQxr3YW2xEXk7JzaVY0NFsJOeWnqaRVdwtGl2SvsUA2BIfkXmYPXOxGav5fXO/jBLn+/wbNo+PwL0r5KxZ/wBHD/vPYIGfGeXBklcfMZNNvLh3BiL20wQV624iJFuUC4V7R2qp05NsQUSQIj5SPrk8gF9bVne0RoIYlR2F9+kfOBZtzNGG6gkwzU79s5LG2cdc0oJMNKtTtZYaFuqom4G5EVRIa8kbqAq0O4CTKai+YE0wmqHlNxmCz0BrsV7yBTYY0CXAOGNguxHNZRBz7oA5dpqnSdg5K0pXbHHFatzHzeDl1/6TjpT63XA==;TSnyj0QlN3MV5E7Ro7340Q=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.newelectronics.co.uk/electronics-news/synopsys-expands
 webUrl: "https://www.newelectronics.co.uk/electronics-news/synopsys-expands-use-of-ai/242593/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Synopsys Expands Use of AI to Optimize Samsung's Latest Mobile Designs"
+    excerpt: "Synopsys, Inc. (Nasdaq: SNPS) today announced that its AI-based design system has been used by Samsung to successfully complete a state-of-the-art, high-performance design at an advanced process technology,"
+    publishedDateTime: 2021-11-29T14:51:00Z
+    webUrl: "https://www.design-reuse.com/news/51014/synopsys-aisamsung-mobile-designs.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 39
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage51014/syno.jpg"
+        width: 1150
+        height: 492
+        isCached: true
   - title: "Samsung Taps Synopsys' AI-based Design System"
     excerpt: "Synopsys announced that its AI-based design system has been used by Samsung to successfully complete a state-of-the-art, high-"
     publishedDateTime: 2021-12-02T03:39:00Z

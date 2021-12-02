@@ -9,8 +9,8 @@ ampWebUrl: "https://metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/11/29/tech-firm-will-pay-you-150000-to-sell-your-identity-to-its-robots-15681961/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Metro
@@ -27,33 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Russian Robotics Firm Will Pay You $280K To Use Your Face & Voice On Its Next Robot"
-    excerpt: "Take your robot dancing 'next level' by becoming an actual robot with this highly profitable, albeit ridiculous stunt."
-    publishedDateTime: 2021-11-30T21:00:00Z
-    webUrl: "https://www.bandt.com.au/russian-robotics-firm-will-pay-you-280k-for-letting-one-of-its-robots-use-your-face-voice/"
+  - title: "You can now get £150,000 if you let a robot use your face and voice"
+    excerpt: "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot."
+    publishedDateTime: 2021-12-02T12:28:00Z
+    webUrl: "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783"
+    ampWebUrl: "https://www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783"
+    cdnAmpWebUrl: "https://www-her-ie.cdn.ampproject.org/c/s/www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783"
     type: article
     provider:
-      name: B and T
-      domain: bandt.com.au
-    quality: 50
+      name: Her
+      domain: www.her.ie
+    quality: 61
     images:
-      - url: "https://www.bandt.com.au/information/uploads/2021/11/Screen-Shot-2021-11-30-at-3.46.35-pm-707x500.png"
-        width: 707
-        height: 500
-        isCached: true
-  - title: "Tech firms will pay you $280,000 to have your face imprinted on robots"
-    excerpt: "A tech company is gearing up to launch a new line of human-looking robots, but they want them to have a friendly face. Tech firms will pay a brave volunteer $280,000 to use their face on their robots which will work in hotels,"
-    publishedDateTime: 2021-11-30T08:42:00Z
-    webUrl: "https://www.khaama.com/tech-firms-will-pay-you-280000-to-have-your-face-imprinted-on-robots-2023/"
-    type: article
-    provider:
-      name: Khaama Press
-      domain: khaama.com
-    quality: 39
-    images:
-      - url: "https://www.khaama.com/wp-content/uploads/2021/05/Immigration-to-Canada-and-US.jpg"
-        width: 300
-        height: 300
+      - url: "https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmhlci5pZVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMlxcXC8wMjEyMTYyNlxcXC9TdHVkaW8tUHJvamVjdC0yMDIxLTEyLTAyVDEyMTYwOC43MDYucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_aWQ9YjZmODRkNjI3YjQxMTRmMDBmNTBcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMmRjMjZjNzA0ZTc4YWE2N2QxMzkzMDY3NmEwODQzZDIxMzY1ZGYyYyJ9/studio-project-2021-12-02t121608-706.png"
+        width: 647
+        height: 340
         isCached: true
 
 secured: "oNhbsmMDm9RCquKto9EjhZb+2vMFMhOHxcWdHDveevMYXDNFf1gWsQq37guJaqGbzPnD6O9k8AAAOMMCe34YLyBrPOK0T8wq6Okv8FjOJyOj5yfzbqPTJOqELXXAL0YFxG4jniixpn7uwU/RFelm3w4WixvnDY0eZFwGj9S4D0ezmEl7wUEyumyye3SE2y3ioykYv0xlJ8Zp02yohQq5ZOeqNEtjQrUMfVMMHz0o+Q55+ka5c6+0wX2gzNxwl3bQAqpJ3wsxwZPj03Z0eZf51xKfuc3QC9zjCCBQdzxl0FvWbGNS5GUxEgDKVS6BdrmzgHKKE5lOGj1i2L35zYSTrEkJ4uhymo7w+4OUOmYnZidVKTrFPtdgz6aPmaTd/k13d9LwfYCgClEb6CISYL+WGRgkRMjdNCwZdYorLbMZ8Y7hnM/IgDJngYlHdEjOhlxcGCnq4PEl4GaIQL/Yrksqt17C3/4n3vz8ME3gFp7rfRDQlg5tAtSu6XqAIHD69+WtLuyu2og+1Ron038HW97DaQ==;f/alKAb+oRY9TtKXcOi/Tw=="
