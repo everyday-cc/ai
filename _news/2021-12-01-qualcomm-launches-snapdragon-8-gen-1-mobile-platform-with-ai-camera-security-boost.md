@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomm-launches-snapdrago
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/"
 type: article
 quality: 99
-heat: 309
+heat: 329
 published: true
 
 provider:
@@ -275,6 +275,20 @@ related:
         width: 1024
         height: 561
         isCached: true
+  - title: "Qualcomm unveils new chip for Windows PCs"
+    excerpt: "Chipmaker Qualcomm has announced the new Snapdragon 8cx Gen 3 compute platform as a successor of the 8cx Gen 2 model"
+    publishedDateTime: 2021-12-02T06:54:00Z
+    webUrl: "https://menafn.com/1103290964/Qualcomm-unveils-new-chip-for-Windows-PCs"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/02/I_b6810image_story.jpg"
+        width: 400
+        height: 211
+        isCached: true
   - title: "Qualcomm’s Snapdragon 8 Gen 1 is here with a 30% faster Adreno GPU"
     excerpt: "As the world’s most advanced mobile platform, Snapdragon is synonymous with premium Android experiences, and the new Snapdragon 8 Gen 1 sets the standard for the next generation of flagship mobile devices,"
     publishedDateTime: 2021-12-01T16:13:00Z
@@ -288,6 +302,20 @@ related:
       - url: "https://technosports.co.in/wp-content/uploads/2021/12/qc_onq_sd_8-gen-1_header.png"
         width: 688
         height: 376
+        isCached: true
+  - title: "\"Snapdragon 8cx Gen 3\": Qualcomm unveils new chip for Windows PCs"
+    excerpt: "Chipmaker Qualcomm has announced the new Snapdragon 8cx Gen 3 compute platform as a successor of the 8cx Gen 2 model that was launched last year. The new Snapdragon 8cx Gen 3 chipset is built for always on,"
+    publishedDateTime: 2021-12-02T06:51:00Z
+    webUrl: "https://www.ummid.com/news/2021/december/02.12.2021/snapdragon-8cx-gen-3-qualcomm-unveils-new-chip-for-windows-pcs.html"
+    type: article
+    provider:
+      name: Ummid
+      domain: ummid.com
+    quality: 39
+    images:
+      - url: "https://ummid.com/news/2021/december/02.12.2021/snapdragon-new-chip.jpg"
+        width: 790
+        height: 530
         isCached: true
   - title: "Qualcomm Snapdragon 8cx Gen 3 5nm Compute Platform announced — up to 85% faster CPU, up to 60% faster GPU, 4K HDR video"
     excerpt: "The new Snapdragon 8cx Gen 3 is built on the 5nm architecture that offers up to 85% faster CPU multitasking performance and up to 60% faster GPU performance. It supports 5G (sub-6 GHz and mmWave) and the Snapdragon X65 5G RF-Modem system delivers peak download speeds of up to 10 Gbps,"

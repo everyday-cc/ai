@@ -2,125 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2021-11-19-sensetime-gets-green-light-from-hong-kong-exchange-to-proceed-with-us2-billion-ipo-sources-say.md",
-      "title": "SenseTime gets green light from Hong Kong exchange to proceed with US$2 billion IPO, sources say",
-      "excerpt": "SenseTime has got the green light from the Hong Kong stock exchange to proceed with its flotation, according to people familiar with the transaction, taking the largest artificial intelligence (AI) company in China a step closer to its US$2 billion initial public offering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
-      "originalUrl": "https://www.msn.com/en-xl/money/other/sensetime-gets-green-light-from-hong-kong-exchange-to-proceed-with-us-2-billion-ipo-sources-say/ar-AAQU7Bm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/19/c27a751e-493e-11ec-88c2-0bacf4eabd5b_image_hires_215158.jpg?itok=D_CZNEt0&v=1637329925",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
-      "publishedDateTime": "2021-11-19T05:11:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
-        "domain": "scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027-at-a-cagr-of-105-valuates-reports.md",
-      "title": "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports",
-      "excerpt": "Face & Voice Biometrics Market is segmented by By Type - Face Biometrics, Voice Biometrics, By Application - Banking, Financial Services & Insurance",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027/article_31c770f9-2932-52f2-8954-609504635c1a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027/article_31c770f9-2932-52f2-8954-609504635c1a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-19T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-new-book-discusses-essential-digital-skills-in-the-ai-age-iq-eq-dq.md",
-      "title": "New Book Discusses Essential Digital Skills In The AI Age: IQ, EQ & DQ",
-      "excerpt": "The DQ Institute, NUS and Penguin Random House SEA, announces the launch of Dr Yuhyun Park’s book entitled “IQ, EQ, DQ: New Intelligence in the AI Age” for readers interested in mastering digital skills and online safety.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-online-safety-df4cfe926f0e0057f48837063b90bef2",
-      "originalUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-online-safety-df4cfe926f0e0057f48837063b90bef2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-19T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-19-advancing-ai-with-data-and-machine-learning-what-else-is-needed.md",
       "title": "Advancing AI With Data And Machine Learning: What Else Is Needed?",
       "excerpt": "The U.S. and almost all countries today identify AI as a critical strategic area in the future of computing. Companies are more invested than ever in discovering how AI can provide advantages in their competitive markets.",
@@ -1166,6 +1047,153 @@
         "AI",
         "Google AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-we-tried-teslas-full-self-driving-heres-what-happened.md",
+      "title": "We tried Tesla’s ‘full self-driving.’ Here’s what happened",
+      "excerpt": "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/",
+      "originalUrl": "https://www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/",
+      "publishedDateTime": "2021-11-18T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-what-happens-when-ai-falls-into-the-wrong-hands.md",
+      "title": "What Happens When AI Falls Into The Wrong Hands?",
+      "excerpt": "However, as with any nascent technology, AI has the potential to cause harm when placed in the wrong hands. We’ve begun seeing AI used for nefarious purposes, chiefly in the form of AI-facilitated Cyberattacks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/",
+      "originalUrl": "https://www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61968b78eabb15899588bc19%2F0x0.jpg",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/amp/",
+      "publishedDateTime": "2021-11-18T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-pge-tests-ai-machine-learning-for-wildfire-detection.md",
+      "title": "PG&E Tests AI, Machine Learning For Wildfire Detection",
+      "excerpt": "By Kimberly Chin PG&E Corp. is testing artificial intelligence and machine learning in some of its high-definition cameras in Northern and Central",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/pg-e-tests-ai-machine-learning-for-wildfire-detection-271637259309",
+      "originalUrl": "https://www.marketwatch.com/story/pg-e-tests-ai-machine-learning-for-wildfire-detection-271637259309",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/pg-e-tests-ai-machine-learning-for-wildfire-detection-271637259309",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/pg-e-tests-ai-machine-learning-for-wildfire-detection-271637259309",
+      "publishedDateTime": "2021-11-18T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

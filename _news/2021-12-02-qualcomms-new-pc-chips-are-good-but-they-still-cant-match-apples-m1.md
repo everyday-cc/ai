@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-appl
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-apple-3068879/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/c0d9545492f9f5714d92ced6b51a364b.jpg"
         width: 800
         height: 448
+        isCached: true
+  - title: "Qualcomm ditches TSMC, lets Samsung produce new chips"
+    excerpt: "But some officials said that behind Qualcomm's selection of Samsung in the latest deal is TSMC's accelerated focus on making customized chips for Apple. Samsung's foundry service unit is said to have lost its status as a leading foundry service provider for the production of Nvidia's next-generation graphic processing unit (GPU) chips."
+    publishedDateTime: 2021-12-02T06:24:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/12/129_319858.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202112/57726f6325e54003b0e20662c879ec92.jpg"
+        width: 980
+        height: 524
         isCached: true
 
 secured: "Rb5ER7UG5V075uim3ZUg0G5lqNZJHytASbhnS82R2q/63v+eX7ovXMqjNptC7DmWb063wHtk94PrufiRfzTHv8qw/maXLaXBwB8ByhoMJ+w6gm1bPg2kAB61GRl+8UVgrsb8+C84ySa8E3xVhwVIX7gI5aJwyWUe9Sp4dDo/mUrMnWIEJNstandbEZtG4N4Dk6COzvFlYmQrmdQxO3cio94sr96MhkdwVGyVKq9h2t+1uyT9n08gc1Xt6NXIBdpqQjSLIAGvZovNVB38TOSr3tWq3FTX/eRNXzwlebCl44K5Q0I8xCLl/S9qrdHNym4jPDQ2r7UJs3LIPFldpjrYV58NpRZulTeRKTWG8qMFpg2MW0X3YCsgGecCDP6X57ej4QW5BcKNQhd6+GfXmibjShz5zu3p5ijnRXxPsi3GG5HyOeUlbrtgyPp53BREvGfHP5z4I2bbvKqcYLYluQSqYKcAzEYWCqpVME5e+c928attwVw4qllVI96ysFTA3N2KLvjD6cKnt3O09WN1Z9ppUA==;K588D2omNwkCOxJfkbAdwQ=="

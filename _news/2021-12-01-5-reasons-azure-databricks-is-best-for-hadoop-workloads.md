@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/5-reasons-azure-databricks-is-bes
 webUrl: "https://azure.microsoft.com/blog/5-reasons-azure-databricks-is-best-for-hadoop-workloads/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Microsoft
@@ -21,22 +21,6 @@ provider:
 topics:
   - AI
   - Microsoft AI
-
-related:
-  - title: "Machine learning pipeline that runs on Databricks platform"
-    excerpt: "Machine learningpipeline for Titanic dataset run on Databricks - titanic_on_databricks/README.md at main · opsabarsec/titanic_on_databricks"
-    publishedDateTime: 2021-11-27T14:00:00Z
-    webUrl: "https://github.com/opsabarsec/titanic_on_databricks/blob/main/README.md"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 39
-    images:
-      - url: "https://opengraph.githubassets.com/f004a710bb21444136ba5bfdaf949e97421057784dd0adb9ad7146ae394fcb11/opsabarsec/titanic_on_databricks"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "2vjMOvtepy0keC7pam+Y7fJQSjIi0LBRZdNrYOveztBeaKg7iuFl6JtyFdfsB/bcwJQPVADGHLQi1kWssqYX2tSgiFDZayvqJ6rcIstnsonl3dAPHArxgN6eEWLVpzduzgqaaZNvLADu2v84QAIfNWK8NeoIuH7HtKCcwLEfKTlHxm12lahxPzsIO8JI9Xg4cWwBKzeuBwQjBWoLepFkwldeAU71RmToHbAZ0ebRSMuZl7i46xyu06/i5dPsth1z1dDTE7FgTGDjMBBbycVMxsxMuc2H+IvUfSzY70x2MLLlSHOsfYBXAabkdUZ39T5BAfn7ii8MQGGAkv09clMu8E+LsS0p5if6uCAqfqpToeA=;KGw/RONq4njmBj6eHAiegA=="
 ---

@@ -2,58 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-10-06-neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health.md",
-      "title": "Neural network approach to diabetes treatment nets $140 million Series C for startup Twin Health",
-      "excerpt": "By composing a whole-body digital twin, the company can use recurrent neural nets to predict the results of dietary interventions to reverse root causes of diabetes and other metabolic disorders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/",
-      "originalUrl": "https://www.zdnet.com/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/227b0d7ee6f46df331bd8bc29309849fd712ee90/2021/10/06/e5b0fe07-3745-436a-8f05-6b45be92b2db/twin-health-platform-2021.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/neural-network-approach-to-diabetes-treatment-nets-140-million-series-c-for-startup-twin-health/",
-      "publishedDateTime": "2021-10-06T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-06-box-taps-deep-learning-to-detect-sophisticated-malware.md",
       "title": "Box taps deep learning to detect sophisticated malware",
       "excerpt": "Box has announced a new \"deep scan\" functionality that scans files as they are uploaded to identify sophisticated malware and avert attacks.",
@@ -1429,6 +1377,49 @@
       "provider": {
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-next-wave-of-deep-learning-models-applications-markets-2021-focus-on-rnn-cnn-and-gan-researchandmarketscom.md",
+      "title": "Next Wave of Deep Learning Models & Applications Markets 2021: Focus on RNN, CNN, and GAN - ResearchAndMarkets.com",
+      "excerpt": "The “Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)” report has been added to ResearchAndMarkets.com’s offering. As digitization progresses across industries, AI is gaining a ubiquitous adoption as more and more business processes are being automated.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-c75da96895804268aa68ebd35cad71f2",
+      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-c75da96895804268aa68ebd35cad71f2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

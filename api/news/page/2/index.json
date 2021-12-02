@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-12-02-deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics.md",
-      "title": "DeepMind claims AI has aided new discoveries and insights in mathematics",
-      "excerpt": "DeepMind claims that its AI systems helped mathematicians to discover new -- and significant -- mathematical insights.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/",
-      "originalUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/",
-      "publishedDateTime": "2021-12-01T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-01-using-ai-for-accurately-predicting-synergistic-cancer-drug-combinations.md",
       "title": "Using AI for accurately predicting synergistic cancer drug combinations",
       "excerpt": "A research team led by a scholar from City University of Hong Kong (CityU) has recently developed a novel artificial intelligence (AI) framework that can make synergistic anti-cancer drug combination predictions on both the therapeutic and toxic effects.",
@@ -735,49 +682,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-01-5-reasons-azure-databricks-is-best-for-hadoop-workloads.md",
-      "title": "5 reasons Azure Databricks is best for Hadoop workloads",
-      "excerpt": "Due to the complexity, high cost of operations, and unscalable infrastructure, on-premises Hadoop platforms have often not delivered on their initial promises to impact business value. As a result, many enterprises are now seeking to modernize their Hadoop platforms to cloud data platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/5-reasons-azure-databricks-is-best-for-hadoop-workloads/",
-      "originalUrl": "https://azure.microsoft.com/blog/5-reasons-azure-databricks-is-best-for-hadoop-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T01:00:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-01-gpu-market-size-industry-forecast-report-to-2024.md",
       "title": "GPU Market Size | Industry Forecast Report To 2024",
       "excerpt": "GPU Market is set to exceed USD 80 billion by 2024; according to a new research report by Global Market Insights, Inc. Ever increasing demand for advanced graphics processing across several sectors is majorly driving the graphics processing unit (GPU) market trends.",
@@ -1140,7 +1044,7 @@
       "originalUrl": "https://www.zdnet.com/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 329,
       "tags": null,
       "images": [
         {
@@ -1234,6 +1138,109 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-analysis-ai-vigilantes-fuel-censorship-fears-in-russian-cyberspace.md",
+      "title": "Analysis: AI vigilantes fuel censorship fears in Russian cyberspace",
+      "excerpt": "A woman posing in a thong outside a church; a single mother who berated Russian lawmakers and President Vladimir Putin; a saxophonist who criticised World War Two commemorations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/litigation/ai-vigilantes-fuel-censorship-fears-russian-cyberspace-2021-11-30/",
+      "originalUrl": "https://www.reuters.com/legal/litigation/ai-vigilantes-fuel-censorship-fears-russian-cyberspace-2021-11-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/wsqt_O6GjTxsHZk92fMlQvbQiCM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6GCRI5L3ABLHZPBJFJHSZXJOTU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T13:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-linkedin-and-intel-tech-leaders-on-the-state-of-ai.md",
+      "title": "LinkedIn and Intel tech leaders on the state of AI",
+      "excerpt": "Industry leaders discuss the \"duct tape of data,\" if language models are a good way to approximate AI, and how to gain hybrid intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/",
+      "originalUrl": "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/amp/",
+      "publishedDateTime": "2021-11-30T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

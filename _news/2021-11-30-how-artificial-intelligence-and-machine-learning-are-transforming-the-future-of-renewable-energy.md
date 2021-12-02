@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
 type: article
 quality: 99
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -222,6 +222,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/3b/23b63473-edae-522e-b0b6-21ebdfa611d3/6153786b3f1f2.image.jpg?crop=764%2C401%2C968%2C0&resize=764%2C401&order=crop%2Cresize"
         width: 764
         height: 401
+        isCached: true
+  - title: "Hyperfine Receives FDA Approval for Deep Learning Portable MRI, Ushering in the Future of Life-Saving Diagnostics"
+    excerpt: "The world's first portable MRI uses deep learning to revolutionize imaging at the patient's bedside, enabling prompt diagnosis and"
+    publishedDateTime: 2021-12-02T06:46:00Z
+    webUrl: "https://www.cioapplications.com/news/hyperfine-receives-fda-approval-for-deep-learning-portable-mri-ushering-in-the-future-of-lifesaving-diagnostics-nid-8880.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 18
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/kb3nz450308-11.jpg"
+        width: 450
+        height: 308
         isCached: true
 
 secured: "aT0v5VtwLsywA9cX5B4xdg2LlSVT3X8Y0AQ9FzIbIg2Rd7LdA+OqzH8Kg5IRIoPtMkc6PMdYu8kPesSHZK+ylVn+FyTfyG59LoQCa5vNt5I2vtaPZ/eCn4FFlJ2XYbWk8hiT2ePHVx84hPv1cHAKhxcaVZZ6Hj05PVj+CeZFK2roRFupCgIdk7V2D3xTO05R6QxiA2vP/lKnkpaAGnlfRbq3X4FyHEhVj7A3gIP4bffTHAQCJLP+OB6OKiCfeiqC6B+8BUOLD7sBidPz2f5GJ1BOzdn630+Th75iQrlJvsZneVTEfq3hpZbw7vEY/PoEeJ18YQxdM+psrTQtD03LJThSxcHa9e5UO5ApTrHzlteaxS8JYIGdmruZLmc+fid5jtflnMMcqAkHgsHj1IKWCW/C9eFcejZ77bjCuIK4KzW38DbW8908lIjkXiq6hKEsqCfj2THpYIoZWVMDVODwGyGs1Ywghh9bmEwFkuc89koRvt+Ar2BRs1nMVsH54uvPALEtUsdI+DwwAJDRey1Omg==;RpkJV6TF/6m5rhOp7XqqAA=="

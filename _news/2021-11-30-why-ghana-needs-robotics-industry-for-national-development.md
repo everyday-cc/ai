@@ -9,7 +9,7 @@ ampWebUrl: "https://www.modernghana.com/amp/news/1122336/why-ghana-needs-robotic
 cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1122336/why-ghana-needs-robotics-industry-for-national.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://thebftonline.com/wp-content/uploads/2021/12/Julien.jpg"
         width: 545
         height: 473
+        isCached: true
+  - title: "AWS Introduces A New Platform For Developing Robotics Applications"
+    excerpt: "According to recent research from Automation World, most businesses that adopted robots in the last year did so to reduce labour expenses."
+    publishedDateTime: 2021-12-02T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "ruyXWqubfa1wlN4Y0M5N/+b+aAoUqbqgM5/tkO/fbwuBaGnj3zXbD0idIKGSJL7adJm8YbVOPIXaV+XxwxGcYmyQsP45E5McnO4OaKj6GZR+AnF5JLMsPwnZ1jyF0JLQQs051hUx94Y0IiYYQqTKkawzANg48o5geNj3NI3TEIdz/uNWPxgtnSFn+XoNL1wI0hfd9UVVjzj2u6/ao/Ft9tkcQgIhDirAAs1bWKHyi6s+sSZJJ3vQ2rga8S7hpC3F5L7WYzYRVMZqhKwDHQZxlmQX0UmFg3n9bRv5JHzrHJ9wuq8qzFDeA/GvRqMMnH2i1yjN4MHKIxEKVu8xSi14okJzE4St5HGK/uQCLY9LRno=;ms9ZsfAyOoL5F5bwiGbzwg=="

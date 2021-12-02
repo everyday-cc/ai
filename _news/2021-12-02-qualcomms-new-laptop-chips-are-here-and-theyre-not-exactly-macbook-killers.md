@@ -47,6 +47,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Qualcomm ditches TSMC, lets Samsung produce new chips"
+    excerpt: "But some officials said that behind Qualcomm's selection of Samsung in the latest deal is TSMC's accelerated focus on making customized chips for Apple. Samsung's foundry service unit is said to have lost its status as a leading foundry service provider for the production of Nvidia's next-generation graphic processing unit (GPU) chips."
+    publishedDateTime: 2021-12-02T06:24:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/12/129_319858.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858"
+    type: article
+    provider:
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 59
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202112/57726f6325e54003b0e20662c879ec92.jpg"
+        width: 980
+        height: 524
+        isCached: true
 
 secured: "NLQp+ZRAo5CfZNO0FHbc7YlRbLpuJr6xVUOy2rM/K/HUfQEDN7FW8UXhe/Ph1MK2JPS5a7OIdnRCECkUkeH+TKi4+NLIMSGWAvW4b3I9A0k4AbUfV8aU0gtZ7xQcmVGtw1ZAQiKnojMj3EhxAN4Uov1whsQnYgpMYONR8Myw5skbku0ftHr3yiBgL5ToBpTDmx2k1zpnESuSjt6rLV/WgGadFvByxux1n/aujOOWYUkzNDwb9Z3MvA38m3jpg+vSHBPFoQly45OzaVE/Sy3fbZS9kIioQy6oBogq8znQA99iQA291dwxuFMDFUZoGoeik2bs4bxHknWJrtRtWTEGukzgzhT2fXCyYYgSnYnQCjWlr8TJTuf7LvFNltFy3lLiuQnyWGeQKTjkqggraJC0sgLlqsbXEri8J98XgeZ+emUjqtigItJUK/Giyq6z1839Kh625XB0KCwTlWOcvhxoxHSseJUbXhofxB2Dg+pEshQhqsXUiyygI6rZaZV1ymBoIoyoLQ30gdweKiMJeu1Rcg==;BeMbBiPhxKTthgFBZZeT5A=="
 ---

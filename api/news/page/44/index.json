@@ -2,100 +2,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_news/2021-10-28-mux-partner-program-launches-to-help-companies-bring-modern-video-experiences-to-market-faster.md",
-      "title": "Mux Partner Program Launches to Help Companies Bring Modern Video Experiences to Market Faster",
-      "excerpt": "an Advanced Consulting Partner for Amazon Web Services (AWS), developed a content moderation plugin that integrates Amazon Rekognition directly into Mux. When developers stack tools and services like these on top of Mux, they’re able to create incredible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.streamingmedia.com/PressRelease/Mux-Partner-Program-Launches-to-Help-Companies-Bring-Modern-Video-Experiences-to-Market-Faster_53114.aspx",
-      "originalUrl": "https://www.streamingmedia.com/PressRelease/Mux-Partner-Program-Launches-to-Help-Companies-Bring-Modern-Video-Experiences-to-Market-Faster_53114.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/141144-DataDriven21-ORG.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Streaming Media Magazine",
-        "domain": "streamingmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.md",
-      "title": "McDonald's enters strategic partnership with IBM to automate drive-thru lanes",
-      "excerpt": "McDonald's has entered a strategic partnership with IBM to help the fast-food chain automate its drive-thru lanes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106891207-1622645077770-gettyimages-1133268648-MCDONALDS_TECH.jpeg?v=1622645106",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/27/mcdonalds-enters-strategic-partnership-with-ibm-to-automate-drive-thru-lanes.html",
-      "publishedDateTime": "2021-10-27T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-28-github-updates-copilot-ai-pair-programmer-and-codespaces-online-vs-code.md",
       "title": "GitHub Updates Copilot 'AI Pair Programmer' and Codespaces (Online VS Code)",
       "excerpt": "Microsoft-owned GitHub announced several updates to its sprawling development and code repository platform, including two fairly new offerings: GitHub Copilot, described as an 'AI pair programmer,' and GitHub Codespaces,",
@@ -1189,6 +1095,101 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-what-do-sae-automated-driving-levels-mean-anyway.md",
+      "title": "What Do SAE Automated Driving Levels Mean Anyway?",
+      "excerpt": "There is a lot of confusion surrounding SAE Level 0-5 autonomy, so we’ll take a crack at clearing it up. Social media hyperbole has combined with somewhat opaque industry standards to create a level of misunderstanding about nascent autonomous driving systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automotive-engineering/what-do-sae-automated-driving-levels-mean-anyway",
+      "originalUrl": "https://www.designnews.com/automotive-engineering/what-do-sae-automated-driving-levels-mean-anyway",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/BlueCruise_technology_02.jpg",
+          "width": 3080,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-speech-and-voice-recognition-market-key-drivers-industry-size-regional-investments-and-top-segments-data-till-2028.md",
+      "title": "Speech and Voice Recognition Market Key Drivers, Industry Size, Regional Investments and Top Segments Data till 2028",
+      "excerpt": "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-key-drivers-industry-size-regional-investments-and-top-segments-data-till-2028-2021-10-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-key-drivers-industry-size-regional-investments-and-top-segments-data-till-2028-2021-10-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

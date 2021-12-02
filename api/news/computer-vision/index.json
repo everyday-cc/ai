@@ -792,6 +792,40 @@
       ]
     },
     {
+      "path": "_news/2021-11-18-citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.md",
+      "title": "CITIC Telecom CPC And ASTRI Partnership Expands Business Innovation Possibilities With AI-AR Integration",
+      "excerpt": "The key features include data visualization, cognitive object recognition and middleware enhancement. \"Fostering a culture of innovation and embracing intelligence are our core values and are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scoop.co.nz/stories/BU2111/S00503/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.htm",
+      "originalUrl": "https://www.scoop.co.nz/stories/BU2111/S00503/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2111/S00503/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.htm",
+      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00503/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.htm",
+      "publishedDateTime": "2021-11-17T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scoop",
+        "domain": "scoop.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-computer-vision-in-agriculture.md",
       "title": "Computer Vision in Agriculture",
       "excerpt": "Modern Computer Vision for Agriculture In today’s fast-paced world of city living and stressful work-life imbalances, especially on the (hopefully) tail-end of a year of pandemic quarantine measures,",
@@ -1328,49 +1362,6 @@
         "AI Hardware",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec.md",
-      "title": "ElectrifAi Announces Computer Vision and MLaaS for Oil, Gas and Energy at ADIPEC",
-      "excerpt": "ElectrifAi, one of the world's leading companies in practical artificial intelligence (Ai) and pre-built machine learning (ML) models,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/in/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-805648369.html",
-      "originalUrl": "https://www.prnewswire.com/in/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-805648369.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook",
-          "width": 594,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -19,47 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Want to develop ethical AI? Then we need more African voices"
-    excerpt: "Artificial intelligence (AI) was once the stuff of science fiction. But it’s becoming widespread. It is used in mobile phone technology and motor vehicles. It powers tools for agriculture and healthcare."
-    publishedDateTime: 2021-11-27T14:00:00Z
-    webUrl: "https://thenextweb.com/news/defining-ethical-artificial-intelligence-input-africans-syndication"
+  - title: "How to innovate my company using Artificial Intelligence?"
+    excerpt: "Artificial Intelligence ( AI ) has been one of the most recurrent topics of conversation and analysis in companies in recent years, especially among those who work on innovation within the company. Faced with an increasingly globalized world and in constant digital transformation,"
+    publishedDateTime: 2021-12-01T13:36:00Z
+    webUrl: "https://www.timesunion.com/business/article/How-to-innovate-my-company-using-Artificial-16665257.php"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
+      name: Times Union
+      domain: timesunion.com
+    quality: 37
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2018%2F11%2FOur-lack-of-interest-in-data-ethics-will-come-back-to-haunt-us.png&signature=4cab15d0901dee2c33971b54d2ff6dba"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How can we make sure future AI systems behave ethically?"
-    excerpt: "For machines to help us to their full potential, we need to make sure they behave ethically. So the question becomes: how do the ethics of AI developers and engineers influence the decisions made by AI? Imagine a future with self-driving cars that are ..."
-    publishedDateTime: 2021-11-28T22:57:00Z
-    webUrl: "https://www.smartcompany.com.au/technology/how-can-we-make-sure-future-ai-systems-behave-ethically/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 54
-    images:
-      - url: "https://www.smartcompany.com.au/wp-content/uploads/2021/08/possessed-photography-robot.jpg"
-        width: 733
-        height: 358
-        isCached: true
-  - title: "Defining what’s ethical in artificial intelligence needs input from Africans"
-    excerpt: "We need international and national policies and regulatory frameworks to ensure that these emerging technologies benefit humanity as a whole."
-    publishedDateTime: 2021-11-27T22:21:00Z
-    webUrl: "https://www.moneyweb.co.za/news/tech/defining-whats-ethical-in-artificial-intelligence-needs-input-from-africans/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 53
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2021/11/file-20211115-25-jk2xnt-1024x670.jpg"
-        width: 1024
-        height: 670
+      - url: "https://s.hdnux.com/photos/01/23/03/76/21774256/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "u0Sh6PGLgYD0FZV5yMQ8VYXl+4n7k9mc6XUu3V3pkCC3AJRdG58IRvDmjeGWKCl0JObSngPEJqV9ZygdDbqNIK9+JWP9EcwfdLyLS+WVIBqX5J1scZyGtBo8DiabAgoaj6H5xFLXU7SD/Coah2BEj4AQ/xTr7Dk8CCMqBpe+D/LgfefENWmAX5fOjtwHFPU0MRaRs56+kuuRhPIy9CRKFQPdAZo4LNCoXgqOsK6I1nNX9IpKADnTOoB8ReZ2YNcCjqp7r0ch4rF7ZEgvzZntrXednP6Q6k6bRdyRVaSrmo+Zr/p/zUCVhy/UPclYfdzf5OBHHcY12NzJnJAiJNXne0NrsPzji8gPym+Er/EA+1I=;mRArl0pa9rEGyl6E/4i3pA=="
