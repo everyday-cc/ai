@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://cdnwp-s3.benzinga.com/wp-content/uploads/2021/12/01175321/zblw0fg8xu8.jpg"
         width: 900
         height: 701
+        isCached: true
+  - title: "Top ways Artificial Intelligence is affecting the world"
+    excerpt: "Top Ways Artificial Intelligence is Affecting the World Artificial Intelligence changed the way we work, eat, socialise, and even how we travel. AI is an invisible part of life"
+    publishedDateTime: 2021-12-02T15:02:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/newtech/top-ways-artificial-intelligence-is-affecting-the-world-39359/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "X/nybquTeYx8YB8bki8gjIF7U226s1aWj4ASOPbxeOsYp0q0LBKSm9xlukIr8mTU50RDFAExz39hNvuT/DDlpcy+yPKbfDArU17pJD5az58WTkrzVR0I4brychwJJBNcKcGkjlObSbRESGRRAnjURbWqWHw3uwfrHIEl5IzhmUzhhTZGFfRY7IVqOn5A2T5m+V6hr/scKolqAj0YAd5NaPxBy1EVB5ZNj0ndIGHMB3jGUf4nCmsw1BK31BllWxU8qFLoaUco12u+2d4nOwj9n+HpWV9ouBF3tLB+v/1grhdufrB/oxUzJ5B2BFs68ePZcQVLCp1VqGNE3LDRkw827rNoesCZugCgb8LzuU7ITrul7a+bEuAeDO0S1wNqVj61Y2gPkStUVnmS4bJU2x8EzcU6I6g0fh9A9mI1lxSxhNB7kPRhpK2pdCUWiaXEeMuKoSD4zp48y/D95af0q3y6V6Q3+qlEG5OYPdQRfbCjQHJ6fjGGupr2+UDiVWVRPzXY6eKoS5ZyIwhLgJwa4rwEsQ==;QKc+UTLfNsmZZ+gucWl6RQ=="

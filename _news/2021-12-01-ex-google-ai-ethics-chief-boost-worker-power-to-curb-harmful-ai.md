@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-geb
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/"
 type: article
 quality: 174
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Former Google AI Scientist Creates Center to Combat Ethical Ills"
+    excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."
+    publishedDateTime: 2021-12-02T13:00:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/former-google-ai-scientist-creates-center-to-combat-ethical-ills"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 54
+    images:
+      - url: "https://aboutblaw.com/Q2V"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "ZzbkkAZbFZr7B2gRnZjA/UI0NbKIROsMJwY8BqjMK4ypbf54N40Ta8YxfpIge5qyzswFTYr/A766P/Ngi5uO23nNBT2VCS2K2JpMGTCcdwOnXseZC+qbw8f+JcHM7Wl6r4M/03oReWmFuu2wZdyCw7LSdB7IIdYZs1c57+uBNJ8KZJ6riI2StGpB1mtuVQWHZhRnTiqbH+jcrQMdsXkzsJTdcjOtUnFP8DmMZnRzPpybGfCEZXpkkWJwIVziCKuCqIjW7YBmETkwYKQjb56aBV7Px7o9EnU8x2KMyfDcsqzUPfOuFvRUfMNPhMZbX4RX4dQLDiawTKcdFx5zGK779q6zSztERW1/ARQYmlTVZHZkxxHxJU7OJFyFl1rRt7kiunyjlC1whhQ2iX7zE6Jb9FTa1+fjfzmNjmYCMZAESZ/6CmNPdfG/wbXjKGWV24IWWdJVzHHsgnMenxT8cASx1Q448JFZ1DMCWO3bEb88VBl5Nx2E73T4KrGr1pU06jG7fyaRII04OVu104WAEiiIHLihcI99ACr0dzp8nohMLL8=;YCBi4aGI344/VDM0twW8jA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/01/aws-launches-new-sagemaker-feature
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/amp/"
 type: article
 quality: 119
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -253,6 +253,20 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 34
+  - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
+    excerpt: "Lightspin, the multi-layer cloud security platform that prioritizes and remediates critical vulnerabilities across hybrid cloud and"
+    publishedDateTime: 2021-12-02T14:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-862473560.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1341650/Lightspin_Logo.jpg?p=facebook"
+        width: 967
+        height: 506
+        isCached: true
 
 secured: "S6VsSWESQaFSZ+0Y83DOfsoSYirWnt7Cq5xq80icdmtVzfzj856IbEAG7Zrhfi0GYBqPopDV0Zp3PCjG+XsLZqmr2BSYOOKfqxGrHHvPsmmg/2AbeHmCBR4qHOii0VQWzVbkN1/75UF4nnLd5STzyj98i75dZzj/O1w/gMtwkiS0visQvCBWSjjTDvcR8ZtWYr5QTwGuDzkQ8q53vArqX5KCPR2s6+fOZnmS+GWol7PwtsJR4KsjHgeieuX87rk3TC2YMjoRsNHvpcxvKvYCv+cZ3lG5IXBobW2v013Wwb4GxrGBax/5GcOCsqTvFUUVWEys2FT1ZK29cn8upO556sv/BD/6dHCLiJ0++vxuSx9C2714QpS9xUmH3cPjEPJu3Ro0nvBK24pyRfvtK6xoFXR+VuFyMvmHDekfX2Cadd/c/DrZSvxw/1FzNR/nsjic2CCeECR7NacOe6Uo1/ZgnIOQSjz2RbguIUDfY47MJPGN3OZ9uklgEjYxHF0K7cmzjKz6GW45m7erXaX/HksNFQ==;JdZ52jQwZqbGpzvyxv4JuQ=="
 ---

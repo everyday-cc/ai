@@ -25,92 +25,68 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI for accurately predicting synergistic cancer drug combinations"
-    excerpt: "A research team led by a scholar from City University of Hong Kong (CityU) has recently developed a novel artificial intelligence (AI) framework that can make synergistic anti-cancer drug combination predictions on both the therapeutic and toxic effects."
-    publishedDateTime: 2021-12-01T15:54:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.amp"
+  - title: "Future Chip Innovation Will Be Driven By AI-Powered Co-Optimization Of Hardware And Software"
+    excerpt: "The invention of the printing press and the ascension of the internet come to mind as similar inflection points, but current innovation trends are being driven by artificial intelligence (AI) at scale,"
+    publishedDateTime: 2021-12-02T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 93
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/using-ai-for-accuratel.jpg"
-        width: 1890
-        height: 1103
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8e24e35c83b6938d1e648%2F0x0.jpg"
+        width: 1000
+        height: 579
         isCached: true
-  - title: "Top five artificial intelligence predictions for 2022"
-    excerpt: "Ethical/responsible AI will move beyond ‘fluffy policy’, and become embedded in tangible tools and actual law and regulations."
-    publishedDateTime: 2021-12-02T07:42:00Z
-    webUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/"
-    ampWebUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
+  - title: "7 Proven Ways to Scale AI Projects and Speed Up AI Implementation In Your Organization"
+    excerpt: "According to an Accenture report, 75% of C-Suite executives think that their business will go out of business within"
+    publishedDateTime: 2021-11-30T17:30:00Z
+    webUrl: "https://www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112"
+    ampWebUrl: "https://www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112/amp"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 49
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/02/artificial-intelligence-4117035_640.jpg"
-        width: 640
-        height: 426
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/11/artificial_intelligence_machine_learning_network_thinkstock_671750598-100724432-large.jpg"
+        width: 700
+        height: 467
         isCached: true
-  - title: "Artificial intelligence could be used to accurately predict tsunamis"
-    excerpt: "A reliable early warning system to detect tsunamis could be a step closer thanks to research from Cardiff University."
-    publishedDateTime: 2021-11-30T12:40:00Z
-    webUrl: "https://phys.org/news/2021-11-artificial-intelligence-accurately-tsunamis.html"
-    ampWebUrl: "https://phys.org/news/2021-11-artificial-intelligence-accurately-tsunamis.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-artificial-intelligence-accurately-tsunamis.amp"
+  - title: "Agnisys Announces Availability of AI-Based Approach for Specification of Assertions and FPGA Support"
+    excerpt: "Agnisys, Inc.®, the leading EDA provider of the industry's most comprehensive solution for Design and Verification of SoC Hardware/Software Interface (HSI), today announced availability of a unique AI-based approach for specification of assertions and a new product to support FPGA development."
+    publishedDateTime: 2021-12-02T13:45:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12637"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12637"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12637"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 44
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-tsunami.jpg"
-        width: 1280
-        height: 960
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12637_16384507321308025.jpg"
+        width: 350
+        height: 215
         isCached: true
-  - title: "Magnetic resonance imaging and artificial intelligence can detect early signs of tumor cell death after novel therapy"
-    excerpt: "In a recent study published in Nature Biomedical Engineering, a team led by researchers at Massachusetts General Hospital (MGH) has demonstrated that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumor cell death in response to a novel virus-based cancer therapy."
-    publishedDateTime: 2021-12-01T20:29:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.amp"
+  - title: "Agnisys Delivers Novel AI Technology and FPGA Support for IP and SoC Specification Automation"
+    excerpt: "Agnisys, Inc.®, the leading EDA provider of the industry’s most comprehensive solution for Design and Verification of SoC Hardware/Software Interface (HSI), today announced availability of a unique AI-based approach for specification of assertions and a new product to support FPGA development."
+    publishedDateTime: 2021-12-01T14:23:00Z
+    webUrl: "https://www.design-reuse.com/news/51030/agnisys-design-and-verification-of-soc-hardware-software-interface-hsi.html"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 30
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/brain-tumor.jpg"
-        width: 2880
-        height: 2188
+      - url: "https://www.design-reuse.com/news_img2/homepage51030/ispec-ai.jpg"
+        width: 1328
+        height: 512
         isCached: true
-  - title: "Xero Reaches Milestone In AI Strategy Incorporating Machine Learning-powered Predictions For Bank Reconciliation"
-    excerpt: "Xero, the global small business platform, today announced a significant milestone in its AI strategy with the roll-out of new bank reconciliation predictions. The predictions feature brings a new application of AI into the Xero platform,"
-    publishedDateTime: 2021-11-29T19:31:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 50
-  - title: "Artificial Intelligence Predicts Synergistic Drugs"
-    excerpt: "New study revealed the potential of using AI and machine learning to identify effective drug combinations in therapies for cancers."
-    publishedDateTime: 2021-12-02T09:13:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
 
 secured: "wfcMWJ7kCUp1zKxTxR6yszEpgviJqPgg1hjili5anjU0Me8scE7jDgI4/2Kadrq0VQaESbt+ppo2jtmskd2l/lNzyPrEICRJSjXGQKFul8So7E3ZpBik5XzXGKIxqS1pn0K6xCfzeMPoLM5+XKximceHXDU+PGRp9tX1l93pL0HzQGF4P3GmfM25KteOY96w2FdGRgbqmcRyLmD4pTu0FEmw6kXu+QhI6zEVVAeHvojaXSvWS3X0wWwUeqXqx9TkAin29MdmNm6LS9X/y3I+gAVMO4pOJP+r9XJVMkxNMUfylNYNMDLdJYXNwrBEufalM5j71/0gZrYjP+qXstEkQqQNGJKCD0JoM4Hng8GjsHo=;rQq1QP8ZPvKfE2J7o8EvpA=="
 ---

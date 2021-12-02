@@ -207,6 +207,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "‘Living’ Robots Able to Reproduce"
+    excerpt: "This week, a newly released study appears to add yet another particularly thorny complication to the debate: robots that could reproduce on their own. Scientists at three New England universities hailed the discovery of an entirely new form of reproduction — one in which tiny,"
+    publishedDateTime: 2021-12-02T16:05:00Z
+    webUrl: "https://www.manufacturing.net/video/video/21928066/living-robots-able-to-reproduce"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/12/MM_290_Thumb.61a7f05d66989.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meet the robot that can write poetry and create artworks"
     excerpt: "When people think of artificial intelligence, the images that often come to mind are of the sinister robots that populate the worlds of"
     publishedDateTime: 2021-11-29T00:54:00Z

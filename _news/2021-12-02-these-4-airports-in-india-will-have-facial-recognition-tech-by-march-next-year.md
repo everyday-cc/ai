@@ -91,6 +91,38 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "AAI working on facial recognition-based passenger boarding system: Government"
+    excerpt: "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government."
+    publishedDateTime: 2021-12-02T15:14:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/articleshow/88056152.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88056152.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88056152.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 71
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-88056152,imgsize-5438,width-800/88056152.jpg"
+        width: 800
+        height: 599
+        isCached: true
+  - title: "Travelling To Get Easier As AAI To Launch Facial Recognition Technology At 4 Airports"
+    excerpt: "FRT-based Biometric Boarding System is a project that the government has been working on as part of first phase of Digi Yatra Implementation at four airports"
+    publishedDateTime: 2021-12-02T15:35:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 67
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/mfz2ujc21wxgkppg_1638456981.jpeg"
+        width: 768
+        height: 439
+        isCached: true
   - title: "Facial recognition technology at 4 airports to be introduced by March next year: Centre"
     excerpt: "Civil Aviation General V K Singh (retd) said FRT has not yet been introduced at any of the airports in India. However, the Airports Authority of India (AAI) is working on a project of FRT-based Biometric Boarding System as part of the first phase of Digi Yatra Implementation at four Airports (Varanasi,"
     publishedDateTime: 2021-12-02T09:53:00Z

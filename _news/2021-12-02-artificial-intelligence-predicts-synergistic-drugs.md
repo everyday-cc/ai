@@ -96,20 +96,6 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 50
-  - title: "AI Predictions and Innovations for 2022"
-    excerpt: "Most enterprises failed to scale their AI deployments this year. Will 2022 be the year when this actually happens?"
-    publishedDateTime: 2021-11-30T11:09:00Z
-    webUrl: "https://tdwi.org/articles/2021/11/30/adv-all-ai-predictions-and-innovations-for-2022.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 39
-    images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/2022_blocks.jpg"
-        width: 976
-        height: 400
-        isCached: true
 
 secured: "TV20qHAO2s1JV1KmRlJAy1VKT4trWv6gKR92qn5nJBWOjOam8RW30N+c5PMidxy5BnHGNf0NocES4gceqkU0NC/9xe+VUuRzfOxJv3kiReBF7jjiEUVtlcpdbErtVkfQ8megrW80n898fZijuKH0KNN4LQeGbfzAxFD5A8gf56y8RfAkK+oOZUyblxdeV/3D+hbrFNJxV3omOMBWyKzLcWKkY5LVy6vU4fKR43398M3wXD7Oqfmq+68020zsVp5TuzfeeLILlU2UTJTnvhAvFWsjPP3BHMSnJHYfeJou0dDqwsB22wP4QEl7z7YK7DsOYg/heXNrDUiyFDkIhgHEDbUkkTaoxfV09DW4oYB7RWk=;e5i1kouz3RwcZ8iNsJK3OA=="
 ---

@@ -139,6 +139,20 @@ related:
         width: 507
         height: 330
         isCached: true
+  - title: "Team builds first living robots that can reproduce"
+    excerpt: "Now scientists at the University of Vermont, Tufts University, and the Wyss Institute for Biologically Inspired Engineering at Harvard University have discovered an entirely new form of biological reproduction—and applied their discovery to create the first-ever,"
+    publishedDateTime: 2021-12-02T15:57:00Z
+    webUrl: "https://robohub.org/team-builds-first-living-robots-that-can-reproduce/"
+    type: article
+    provider:
+      name: Robohub
+      domain: robohub.org
+    quality: 39
+    images:
+      - url: "https://robohub.org/wp-content/uploads/2021/12/Blackiston3-425x331.jpg"
+        width: 425
+        height: 331
+        isCached: true
 
 secured: "bxwwE8aCSd0kZERKgQlw3NH89VQcKU86KT2PZ2jdecbrz6vHj/h+41Hy0fortjoY5NWVXnORUG/dRNxaa7qKtgD/UiXSUxGmEmF6jIIakT3eQa8IO+BSz+m8ecOcYdQn76J/Io2NiBefvPtf5VRJNLd4Cy5VH6+6ABXJoCbxFzscmq5T8HuyxHproTdhl38i0hinmg5mta9oVb2cThteHxfg9BpaLbG15MLGdLpjcJ2jg4wLGbmWkiDzwzWUoK8z4xiHY5T+/3K0LyAb4J2+OExJHxZiMcQIa+ElMhPKLMrW76X7FPQDROJwq3eMAfGI3yblozo2M53fObTO6mXOKG0hFceGFHDodN67GchdKxk=;xVyyIhCtcsvxnONZetgm5A=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Neural Network “Hallucinates” Protein Structures"
+    excerpt: "In a report in Nature, researchers describe the development of a neural network that “hallucinates” proteins with new, stable structures."
+    publishedDateTime: 2021-12-02T10:32:00Z
+    webUrl: "https://www.technologynetworks.com/proteomics/news/neural-network-hallucinates-protein-structures-356426"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 39
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/356426/neural-network-hallucinates-protein-structures-356426-640x360.jpg?cb=20211202"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "Px+bt6NpLeKPIpD9/S0aUXAiueL0Q7kdd2i8SXqS93ajSDJEKBxwdmJOXLCEtcefLPJhZUeCK2lwCrDJN+1/pvj8If2u474+mxJYTXLnJuLlGXRyx51jou84RkzHD4kXBJ8E1cnea42t0rAt0SHAxH9N7lOW8cz8SmAOTszEdzu9x8z75qvBOkH03Six9zUidEn+THOjV8tdSLsk9+fdnYMrOsjPNvxi8ePaIeS1xTNnz2Tfe7TnH9ywMkxV7jEowXhZgwYpH6CHjwQQwzv46AzbcaN5yKoL90mZgjiKVY/ucXlK3f7D4fQdf4azBCgMy7dU3/b/54/Zc8FSpxVUehALHgc1+bKnssF/LEnDMfw=;uZw/9fUa9nbStnmBKvw7wA=="
 ---

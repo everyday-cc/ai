@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-ai-accurately-synergistic-can
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.amp"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 50
-  - title: "AI Predictions and Innovations for 2022"
-    excerpt: "Most enterprises failed to scale their AI deployments this year. Will 2022 be the year when this actually happens?"
-    publishedDateTime: 2021-11-30T11:09:00Z
-    webUrl: "https://tdwi.org/articles/2021/11/30/adv-all-ai-predictions-and-innovations-for-2022.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 39
-    images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/2022_blocks.jpg"
-        width: 976
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence Predicts Synergistic Drugs"
     excerpt: "New study revealed the potential of using AI and machine learning to identify effective drug combinations in therapies for cancers."
     publishedDateTime: 2021-12-02T09:13:00Z

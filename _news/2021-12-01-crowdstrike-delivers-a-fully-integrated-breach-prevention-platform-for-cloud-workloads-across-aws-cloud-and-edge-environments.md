@@ -18,17 +18,6 @@ topics:
   - AWS AI
   - AI
 
-related:
-  - title: "CrowdStrike Earns Highest Rating in October 2021 Gartner Peer Insights ‘Voice of the Customer’ for Endpoint Protection Platforms Report"
-    excerpt: "CrowdStrike Inc., a leader in cloud-delivered endpoint protection and workload protection, today announced that for the third year in a row, it has be"
-    publishedDateTime: 2021-12-01T21:32:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201006192/en/CrowdStrike-Earns-Highest-Rating-in-October-2021-Gartner-Peer-Insights-‘Voice-of-the-Customer’-for-Endpoint-Protection-Platforms-Report"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-
 secured: "aK14BxDMZTBJvXp9K4+4t4xl1B7lelvn2fHrNunUiMGM34Xry0MtozH5/jKRuF+MTDZVIL7776nCS4nRSUOmMeI0cM1SDMSRp41RrK44CN7YhBAzJnx7vj2RcYXTx3nb40b1otB62VNwTkdMfkjj2gbP9Qra+spDNIpuCmz5yz31pCTys0E2jfzMlTs/DUtnTNgryX1OSqx9rBtjHQ3DzKZHdRIOYMA90dPzvLWA++Rhy8jsnU18We5A8cJmZFOimO7pkK+bGv/Fj+9WInNhyjiz7s0/t+Ri/bny8cA+RVtiIlfTEbmY+AoIJv6z094766+FNQHtL4s0qsslSbHryNv3n0xDI5mTa8qVLgqX38c=;cZ1JI9elNFTj42OT6aWtzw=="
 ---
 

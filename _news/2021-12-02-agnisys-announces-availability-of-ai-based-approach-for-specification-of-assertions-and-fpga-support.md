@@ -27,21 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Genesys Completes Acquisitions of Pointillist and Exceed.ai"
-    excerpt: "Genesys®, a global leader in customer experience orchestration, today announced the completion of its acquisitions of Pointillist and Exceed.ai. Pointillist, recognized for its award-winning journey management platform,"
-    publishedDateTime: 2021-12-01T21:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/genesys-completes-acquisitions-of-pointillist-and-exceed-ai-1031017563"
+  - title: "Future Chip Innovation Will Be Driven By AI-Powered Co-Optimization Of Hardware And Software"
+    excerpt: "The invention of the printing press and the ascension of the internet come to mind as similar inflection points, but current innovation trends are being driven by artificial intelligence (AI) at scale,"
+    publishedDateTime: 2021-12-02T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 93
     images:
-      - url: "https://mma.prnewswire.com/media/1700527/Genesys_Acquires_Pointillist_and_Exceedai_Logo.jpg"
-        width: 400
-        height: 209
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8e24e35c83b6938d1e648%2F0x0.jpg"
+        width: 1000
+        height: 579
+        isCached: true
+  - title: "7 Proven Ways to Scale AI Projects and Speed Up AI Implementation In Your Organization"
+    excerpt: "According to an Accenture report, 75% of C-Suite executives think that their business will go out of business within"
+    publishedDateTime: 2021-11-30T17:30:00Z
+    webUrl: "https://www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112"
+    ampWebUrl: "https://www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 49
+    images:
+      - url: "https://cdn.business2community.com/wp-content/uploads/2021/11/artificial_intelligence_machine_learning_network_thinkstock_671750598-100724432-large.jpg"
+        width: 700
+        height: 467
+        isCached: true
+  - title: "AI Predictions and Innovations for 2022"
+    excerpt: "Most enterprises failed to scale their AI deployments this year. Will 2022 be the year when this actually happens?"
+    publishedDateTime: 2021-11-30T11:09:00Z
+    webUrl: "https://tdwi.org/articles/2021/11/30/adv-all-ai-predictions-and-innovations-for-2022.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 39
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/2022_blocks.jpg"
+        width: 976
+        height: 400
+        isCached: true
+  - title: "Agnisys Delivers Novel AI Technology and FPGA Support for IP and SoC Specification Automation"
+    excerpt: "Agnisys, Inc.®, the leading EDA provider of the industry’s most comprehensive solution for Design and Verification of SoC Hardware/Software Interface (HSI), today announced availability of a unique AI-based approach for specification of assertions and a new product to support FPGA development."
+    publishedDateTime: 2021-12-01T14:23:00Z
+    webUrl: "https://www.design-reuse.com/news/51030/agnisys-design-and-verification-of-soc-hardware-software-interface-hsi.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 30
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage51030/ispec-ai.jpg"
+        width: 1328
+        height: 512
         isCached: true
 
-secured: "SECOhPFsvApqY/UjmG/hgo/YSHiFHdm0zaS8SxvCQNxClFq7tmc8Uvu3Bi4pKbknm5ILn2OvDkgIJJDjdt1txma9a4eRM7DGTqZ91WrJ3n/nhwaeqUC12fGXzSmz9fpODq41//jQ0eXJyAZn7wPGD08joR7xzd+OTQ2uIAX47YnEfop9FhC3nNoQvAxdsaogSGiN2Dlyk7eKuR8NHTr818Kb3OgBV2/+DayiHCoy+a+wGh1eBKzVvk+ia1XRIWknF7ZcIhfe2pYoTvjzw56ona1gYKzRSYyKpprbjPYAgbYaDQiJMpr8CFGgRoegEoWeqFSHIAGdwdlWZ0yc4YsHvmuflmb9UbGIhPkhCi417D4=;wUMUO/FN+9rNjmamehAbKw=="
+secured: "04vVW5CXibC/Jzb16qs4b3jUyQCHNBCImotKGzCwP2KX3RyPx1zUWlXdDqAbROGO68YT33Qa5uqHwFcelX0NVhrli0SYKJ+82rY6qCosV0q0tI+7l3OOB4O18Klisv09A6s+NEp4KKfz3fXaPdpgXnRFCHnmY968+kTIwDCLEnLsX01GHndEnV0kp3/duieFWNg+ttpfFRK9oomq+UuMPoYpubhMNwEiQcyAWfgdYj48YBy45k5H8vmeYRzpXb6pStiKT5ZYuHFuVvI3Ui+BL31TssKoNcmRWNlHaPHGjlMIaCywWV4ko1Lu9q/w2+eZ37fc94Ol5PZ1g+XXOJYgzcz5/TOsTCj7ZGHcT9HltabzB9OGdCCy8/4wR4S+TdXopY27uGeIITtBPmyIVItGcc5tInzfR929oWAnF0DVCm6yYPYKbfk7dIm51zqFw62+4mEJZ59BZ8x82FwYFMAYEzieX5zSzQtqwPLgLmga+A4x6gLZ3qhbK8xN6gysjkfwcp691mI9cG0DkzL3v1EQBw==;ZQVm8lposBiSCCsfNG6bNg=="
 ---
 

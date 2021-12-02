@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Google fired its star AI researcher one year ago. Now she’s launching her own institute"
+    excerpt: "Timnit Gebru is launching Distributed Artificial Intelligence Research Institute (DAIR) to document AI’s harms on marginalized groups"
+    publishedDateTime: 2021-12-02T17:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/12/02/timnit-gebru-dair/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 31
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NYWRF4CS5YI6ZA6S3HNLBYR3PY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+
 secured: "l8ZXlMMJsoExVe4TZ39Z1y77bgxNRnRb7udlCsVDl+WhnKC1xd0VtXb520F08sqt5+0B+wgIuVqf0MrsfXN4GoyiYikLpPBtY5Xes8L58pETVMUbyfRG6jiWs2rm7XRDXnDasrYqQJ3h+UsMTwiIijYtiBWi3Cub/6J8G0Tg0/pKRMCaxy8Ad1ywhMHLTRb6REjV94LUgxFxWKx5eZhnKQlHRLMrobXyAjTh5/auSGhMoa/tcuhFDaXFn2QBFS17Fr1iJ7ifue91FNlVKwiTyfV0dtwiu5s7FxKtWi1x6tYQOiUh0UbdW97Vm853YS/eDSF6YErndsdXShzhVvhLUcuCJ2Dv2cCi70UXWtBIPhg=;oT0rymHjs0/4UsZlFwYxhA=="
 ---
 

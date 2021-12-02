@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Integrating A2P, Voice and Numbering: Capturing New Revenue with a Unified Approach"
-    excerpt: "The emergence of this ultra-connected environment is driving demand for access numbers, A2P messaging and voice services. More organizations are preparing to incorporate these unified solutions into their offerings."
-    publishedDateTime: 2021-11-28T00:00:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/21581-integrating-a2p-voice-and-numbering-capturing-new-revenue-with-a-unified-approach"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 18
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/fbf40094f863b89c0fd4f899f3c81949.jpg?t=20211129_034904"
-        width: 1126
-        height: 550
-        isCached: true
   - title: "Announcing the Intelligent Applications Top 40; a New Industry Ranking of the Top Private Companies Building Applications with AI and Machine Learning"
     excerpt: "Today the Intelligent Applications Top 40 (#IA40) was unveiled by Madrona Venture Group. The list of the top private companies building applications that truly incorporate intelligence into how they process data and predict outcomes was voted on by the top 40 venture capital firms investing in this industry,"
     publishedDateTime: 2021-11-29T15:20:00Z

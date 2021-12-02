@@ -67,6 +67,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Neurotechnology extends face biometrics to include web service component"
+    excerpt: "The facial authentication solution works on web applications for personal devices to serve different biometric authentication purposes."
+    publishedDateTime: 2021-12-02T16:46:00Z
+    webUrl: "https://www.biometricupdate.com/202112/neurotechnology-extends-face-biometrics-to-include-web-service-component"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 23
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/01115107/passive-facial-biometric-liveness-detection.jpg"
+        width: 1024
+        height: 600
+        isCached: true
   - title: "Veridas achieves high scores in NIST face and voice biometrics accuracy evaluation"
     excerpt: "Veridas has scored impressive results in the joint face-and-voice-recognition biometrics evaluation from the National Institute of Standards and Technology."
     publishedDateTime: 2021-11-29T19:31:00Z

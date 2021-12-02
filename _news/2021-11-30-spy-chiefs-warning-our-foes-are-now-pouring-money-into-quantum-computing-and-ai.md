@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/spy-chiefs-warning-our-foes
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/"
 type: article
 quality: 81
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Integrating A2P, Voice and Numbering: Capturing New Revenue with a Unified Approach"
-    excerpt: "The emergence of this ultra-connected environment is driving demand for access numbers, A2P messaging and voice services. More organizations are preparing to incorporate these unified solutions into their offerings."
-    publishedDateTime: 2021-11-28T00:00:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/21581-integrating-a2p-voice-and-numbering-capturing-new-revenue-with-a-unified-approach"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 18
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/fbf40094f863b89c0fd4f899f3c81949.jpg?t=20211129_034904"
-        width: 1126
-        height: 550
-        isCached: true
   - title: "Announcing the Intelligent Applications Top 40; a New Industry Ranking of the Top Private Companies Building Applications with AI and Machine Learning"
     excerpt: "Today the Intelligent Applications Top 40 (#IA40) was unveiled by Madrona Venture Group. The list of the top private companies building applications that truly incorporate intelligence into how they process data and predict outcomes was voted on"
     publishedDateTime: 2021-11-30T03:04:00Z

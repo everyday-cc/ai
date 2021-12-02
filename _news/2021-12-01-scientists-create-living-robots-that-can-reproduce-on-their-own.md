@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/life/18408/scientists-create-living-robots-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -192,6 +192,20 @@ related:
       - url: "https://netstorage-tuko.akamaized.net/images/bf588309baf0ccf5.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "‘Living’ Robots Able to Reproduce"
+    excerpt: "This week, a newly released study appears to add yet another particularly thorny complication to the debate: robots that could reproduce on their own. Scientists at three New England universities hailed the discovery of an entirely new form of reproduction — one in which tiny,"
+    publishedDateTime: 2021-12-02T16:05:00Z
+    webUrl: "https://www.manufacturing.net/video/video/21928066/living-robots-able-to-reproduce"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/12/MM_290_Thumb.61a7f05d66989.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "This Seems Bad: World’s First ‘Living Robots’ Can Now ‘Reproduce’, According To Scientists"
     excerpt: "Xenobots, the first \"living robots\", can now apparently reproduce, according to the scientists that are studying them."

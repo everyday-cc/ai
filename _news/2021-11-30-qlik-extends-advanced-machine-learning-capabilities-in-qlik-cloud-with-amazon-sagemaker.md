@@ -249,6 +249,20 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 34
+  - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
+    excerpt: "Lightspin, the multi-layer cloud security platform that prioritizes and remediates critical vulnerabilities across hybrid cloud and"
+    publishedDateTime: 2021-12-02T14:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-862473560.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1341650/Lightspin_Logo.jpg?p=facebook"
+        width: 967
+        height: 506
+        isCached: true
 
 secured: "cPHV6iB42NpbbjYS6lLmqjCFZN55mrNQDPSiGT4aLaFsa0pHgQ4UVMUvJ/l0JUoegMt3sLn0RCaesriCrTU2O9yYUszF199JW74mgQyGIU7b8/y+IBjca2UqL18m/JNfiGQ45SXb9theBv3XlobcT4YStJ9xUP7tIX85TZp8oPQ9XO2qQA2k/3DveZGjuEoo7wXG6An64BngHoiFR5CNoGSey7n7nJTfqrkuTiQd+0mtqXDfARV/zAAF+Klnxhxd8SDhyAL9aVRlzKDXfbbeBaksl9njMJscHfYtLBu+PQhoQ45MNcHR8/oib5v0QSjNFFsMGoEYss9owabpok+H5Q/agmdl6jLLz0X0sTL4wUjYpxj4YRYVmML7XThZK7zQRUFUV7BhU9xP6O5geNKH/rUn/rlx24iq00T1xCp93laVFzq3+SyzNtX7jpnSlWl2vgdHDfogdNzjhmZlUwihemfTFNsQ+YIoteOxSO2ddrKz8ptPmvSfn7AVbbKZZyhp6Ka2CVt2DKm2b3Lz+/FdlQ==;Tm2cUziutlIjZB23JMDWnQ=="
 ---

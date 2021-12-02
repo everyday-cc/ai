@@ -45,7 +45,7 @@ related:
   - title: "AWS Announces Custom Lenses Feature for Its Well-Architected Framework"
     excerpt: "AWS announced AWS Well-Architected Custom Lenses, a new feature of the AWS Well-Architected Tool. With this new feature, customers can bring their own best practices to complement the existing framework based on their industry,"
     publishedDateTime: 2021-12-02T13:19:00Z
-    webUrl: "https://www.infoq.com/news/2021/12/aws-well-architected-custom-lens/?topicPageSponsorship=dbe6e2de-6df7-4f02-be85-52086734816f&itm_source=presentations_about_development&itm_medium=link&itm_campaign=development"
+    webUrl: "https://www.infoq.com/news/2021/12/aws-well-architected-custom-lens/"
     type: article
     provider:
       name: InfoQ

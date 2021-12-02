@@ -34,18 +34,13 @@ images:
 related:
   - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
-    publishedDateTime: 2021-12-02T01:59:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-web-services-education-ffa801fcb7634e1aaf7bd9d58db2d071"
+    publishedDateTime: 2021-12-01T18:34:00Z
+    webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 53
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 35
 
 secured: "M6w/pHNUy6l9bhRQNbjqkui76W5FbxFw1deyd9DhhiFa5Q6HmByRTgclj9YlA6lQUgZFFJRr4GTtQuOei1/uWAqPwV8WsfAjOyOrewe4enh6YJOZCrLPtPiytlq7GPqSUptU5+fgRTQO7OuWEAakVFiBhADLabHTu7nEtYP1ph8v4ba1+pb78veSKhPv1iQJDo7Uwr3Orv5vkiY+FWshm+7VDgvC+hu4VFqisG/QUtiD0gCvBhNAMV3JFxZg2cHGOSA3xM8qd8yJ+GIE0G503eP8Kf2vX7DlZYq3g6nv8i4Tbh2X3MnplCOHyGzfW9URnrfP5wyd+vNSYL36zuFfQvsEDjqosQ7MlRs2VpRryNA=;TOnZsJLLq8pic/DM8CwbTw=="
 ---

@@ -130,6 +130,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Team builds first living robots that can reproduce"
+    excerpt: "Now scientists at the University of Vermont, Tufts University, and the Wyss Institute for Biologically Inspired Engineering at Harvard University have discovered an entirely new form of biological reproduction—and applied their discovery to create the first-ever,"
+    publishedDateTime: 2021-12-02T15:57:00Z
+    webUrl: "https://robohub.org/team-builds-first-living-robots-that-can-reproduce/"
+    type: article
+    provider:
+      name: Robohub
+      domain: robohub.org
+    quality: 39
+    images:
+      - url: "https://robohub.org/wp-content/uploads/2021/12/Blackiston3-425x331.jpg"
+        width: 425
+        height: 331
+        isCached: true
   - title: "AI has designed the first living robot, makes its own robot babies"
     excerpt: "These swarms of super-small 'xenobots' can self-replicate, the first time reproduction has been seen in multicellular organisms."
     publishedDateTime: 2021-11-30T03:11:00Z

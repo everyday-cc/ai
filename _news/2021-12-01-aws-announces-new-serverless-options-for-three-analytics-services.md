@@ -2,26 +2,27 @@
 category: news
 title: "AWS Announces New Serverless Options for Three Analytics Services"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
-publishedDateTime: 2021-11-30T18:41:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
+publishedDateTime: 2021-11-30T17:41:00Z
+originalUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
+webUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
+  - AWS AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
+    width: 320
+    height: 300
     isCached: true
 
 related:
@@ -143,6 +144,6 @@ related:
       domain: businesswire.com
     quality: 34
 
-secured: "xLGDzM0zzmNVA1Wvet6XB50DyT9kqm8S6CBjOXZwDK+qHPrVGpzLxHMU3z6RHCia5QSS1e+NE0gwjvK8fSVCqWd7ex2eV5rRfcZgz3WyM/iGZEHxo/1YQd9MJmNN3NmZNSVqYW3/tkqA+HPDKRTfhVQFm/cwE9/XMV9da0JS/M7zxms0YaeYtX/lgpx1aoSpUZHTKpeuGzHuhc5nQLXs6xOQkj+swwB/gsVauh2Jtrb50y1MrILTcZmbviU+2+S+w6612XQnjPkQaiaOb99T8+IMhLtLwbPbZR+AJe8xyXGTN54us1JfzWqPBGMd/Qh98NiN/GR/JzMeE0zcPY+0bOvDN1cW92BTr0hcds7d2X8=;ue2wEgIeBSlGrOb17SDZHQ=="
+secured: "hq2KaAuPwcn5yGD/K04Oh4bkL1fG++LQ0rl6x4XssYSVWVh9NFMfYdLKbZYOVnP1lPr32O66LacsUCYflSVBhgXU5UaBXuL1MuZ5XmTOtXHZiY9Z7trNQ5FpXcqO1hxKOK3+9BbZYOx7UvQv+4CVg1GPXaaCtLMb5pqS9Z1X+EXOK7vPGSsxhouinvOotVs48tI7YpvQOy4vPa8/J6ExwNrGPrxgWuLzp9LxJRKU9MY1Tx6SR26xK3OTv3rMeGVkdCS4M/tvAXjFGlDBISR6dNoaYs/ozPIEKEg0DJIXTwpx10mMLulDxZJs5AUuu4sHnuh8N2htIzFtfgMvHLIUcSoOkFcnTIq9zTKqZ8wWAnM=;Y228iMZPKixIDKE8FvTSmw=="
 ---
 
