@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Artificial intelligence powers protein-folding predictions"
-excerpt: "The buzz over the November 2020 debut of AlphaFold2, Google DeepMind’s artificial-intelligence (AI) system for predicting the 3D structure of proteins, has only intensified since the tool was ..."
-publishedDateTime: 2021-11-23T00:00:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-03499-y?amp;amp"
-webUrl: "https://www.nature.com/articles/d41586-021-03499-y?amp;amp"
+excerpt: "Deep-learning algorithms such as AlphaFold2 and RoseTTAFold can now predict a protein’s 3D shape from its linear sequence — a huge boon to structural biologists."
+publishedDateTime: 2021-11-23T11:19:00Z
+originalUrl: "https://www.nature.com/articles/d41586-021-03499-y?code=b17f9aab-d5dd-4a67-9622-b8ccfdd47c47&error=cookies_not_supported"
+webUrl: "https://www.nature.com/articles/d41586-021-03499-y?code=b17f9aab-d5dd-4a67-9622-b8ccfdd47c47&error=cookies_not_supported"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 576
     isCached: true
 
-secured: "8p+xBLUl5LelPSD2dcnm48M+04utHXosCCs0JPrtuCG4rf7Gd4koOrLE8VDQ5O8o7N0OGzyIfB8MpVDoaaxYd9nQU/4viJMlmscBCfxG01XzqELzG4r0JsQk7fOH5lz6tQZt9MdY9Aa7N2xg0mzEHbozgOHr51yNeq98EP4JfV/NEUQ/SQXocu9Fg31b6+dASwQqbokNC4d9O0uiXutwxniD4aWy5vULtew1w6n9DqNSs6KdG74X+o3O9PKAFt4/PMTXn+tDSIbSZDEgWkPOYeBecj7cKmouy746zgTuUdrJZ21Euk/9ByOdR9OfBW2M1OiRWUaEBoTxDtM7lO6A5Sq0MJ3lFQVIWpqycFSlx6ADhaJvGw0oskWPsxyQT2pbF7S68wYcaqZvULyOAEdIKeQVmr7/vY+Um3g7nX6QxH73NC1u0Bqf9exOCCB6SDcsvco8QHxc5pBkhiUFJE59erJYPQkVdxJ1MAbTtG4vd/nlLjfnzvVabywqQ+HgI7nDQaSNJnwH9akS+uIRdtdBfw==;MnScZkMM8SfIaFlyE8W7+w=="
+secured: "zzy8GzlOiJtudXp95Nwmq3yj6nl6c4LCfB6NksyeD0dd+RPy5wFl6w6u4KIMqNJo8odjocoxYBwXqpIUqe+5bpOg0Wga56NJwzOAowVUEw33JYGqtwADxHWbfRQ6rJRJYthapDg1zzt9zJJrbdWYbcJZtkakd+y4M+urVbPoW27Fs3kxnWqB7MNr2xOoJhF09Hv6vlqJQWXI4EfxEn9K3hh5+5RZR/iszBLTz9qRZckfPGEEElFrj8fVA6Mg3+v0MKmVDzR0KSCG/c/2AqzgOVxXUjtv+ph4XZ8t3C7caxYf8OXPGBHoHYFlzFsGk+5H6Kvg80cYs9Yq9EuntCzwx0ua6edKwemGTEWFaeXcqDI=;C8g7pKjACJTWhU1Bx0SLOg=="
 ---
 

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "adidas Migrates SAP Environments to AWS"
-excerpt: "By applying machine learning capabilities, such as Amazon SageMaker, AWS’s service that helps developers and data scientists build, train, and deploy machine learning models quickly in the cloud ..."
-publishedDateTime: 2021-11-22T06:07:00Z
-originalUrl: "https://www.retaildive.com/press-release/20211122-adidas-migrates-sap-environments-to-aws/"
-webUrl: "https://www.retaildive.com/press-release/20211122-adidas-migrates-sap-environments-to-aws/"
+excerpt: "AWS’s extensive SAP experience allows adidas ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ..."
+publishedDateTime: 2021-11-22T07:00:00Z
+originalUrl: "https://www.register-herald.com/region/adidas-migrates-sap-environments-to-aws/article_72c1b13e-d407-58bb-8608-c8ede6d9d764.html"
+webUrl: "https://www.register-herald.com/region/adidas-migrates-sap-environments-to-aws/article_72c1b13e-d407-58bb-8608-c8ede6d9d764.html"
 type: article
 
 provider:
-  name: Retail Dive
-  domain: retaildive.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1637560622/press_release/assets/company_logos/AWS_logo_RGB_zwql0q.png"
-    width: 400
-    height: 400
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
+    width: 320
+    height: 300
     isCached: true
 
-secured: "qc9ZXmiMMCFW5D5ekjMowWzlerLv7XhBfF58G739Fx35Q4o/6T4l4wzX2eifrIMZTly85Y/cEAKOtH56jgutnLu9K+i702brioTGr3j5fTiRQQ0qj6Iq235t+sdkaDgrzWUN2HFOzT5PYKZwbXEnAW24U/QLeOP10Zs7g8kKpn1dT1ZboSmabR+FEYImJwZFtI9/O5PtPYigHAt03aIw8CbBDEUCB23zqnZXmTa+zt8/8np5bi0HBrJti8AxOenzpWWhH+m1zYeytJ7QoHlRID5MIIiWfEPu/DVdEhNMzrnqWU2IKv2HaL9TB5IxQ8PvtY7PnDD6KKVM4pQxiQZj/bnAfjhU4u7n9+3/dv3JPwE=;WK8fWfPz70SfqSFdiZQuPw=="
+secured: "CSyF/9GGz4pUzh2Bcu0R8Y211+sMiW8pBxpIqsDfk4M6qnF/MZfm7Tt13wj44izvbfV+5UqV71HruYaGHbeZOqeg/h4e/PtEoTQsrT9XsQ37UixJy1hBOBALXiyKAzj4clR+NOrb4wGjkhlIFZ8igX6hLH3NOMHOtN2V9XxFV++KmFWjvcFc9pMQWIxY3WE3vkTzqDPoYaL//6CJjDiN3NIQ2+LWpIHLSLXOTiqybFJPBC8fzA3QQuYGRWMngUkZLGOTehZcHhzjepckBF9HTCI4A09DqSw2z2qlZruq0HMj+4/gqEfMFtEktk4inEoyYGTejJqnwu4bHuClWdB5UKDsITCv8wEVnCVYGmWyjwU=;/ra/nSP+fwnvBr674L6gpw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jackkelly/2021/12/01/billion-dollar-uni
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/12/01/billion-dollar-unicorn-and-artificial-intelligence-career-tech-startup-is-improving-the-job-search-experience/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 801
     isCached: true
+
+related:
+  - title: "How AI-Powered Startups Are Improving IVF"
+    excerpt: "In-vitro fertilization (IVF) is \"too hard,\" patients say. A slew of new startups want to improve the IVF process with artificial intelligence."
+    publishedDateTime: 2021-12-02T21:20:00Z
+    webUrl: "https://www.bustle.com/wellness/ai-powered-startups-ivf-success"
+    type: article
+    provider:
+      name: Bustle
+      domain: bustle.com
+    quality: 39
+    images:
+      - url: "https://imgix.bustle.com/uploads/image/2021/12/2/cc1ccd42-a787-401f-9f0e-906bda0cf28c-credit-cavan-images_gettyimages-961085158.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "j+KTbaShM79lpsJgzuTVuTGk5KPfLXuWtKfdeQ8o740zSIaaxxWAWc5naZfa94z1KzvRooqUrWJ2lK0+35bkzWAiOvTMHuSIr75XRmqfNJcxQrscSEtsKfSxw0a0XbFz8w47UXI2FhPqSZgR1ZWmuhUIu3GcCVLtayMHQC6PAF8w9lY/KBjQ/ll00AbEdnDrIsOGk6xdICfzVhDL97D6y2LToYudrFIJR0MLpLJAW5VVcM63JF1ZSIs5MSKNcf9sWLB0kzCNYt2fsv9Bs6jFvO9aslhhrn1Z8OjHnhopUOBSjRD9qWDVEbzFDsmZ1ET2tyksABv16yQk/tGMkdyNXTkuS6JFt7Veyw1xsKdwKHSbmeIfONkrspq70yaq/4vB+Svpc4ZhuwoZx8FpVyz9bH/NX3lVADKKWKA/IESEC+xfJKfbjiaB/t/bhdrESI1ohPCuUQ7OIfQ5OJ5T8myaCt3LD00NOePNK2/YCBMbGg4WBWtBvl32kssdTkaJXfCwGLfc++OuliVtbPGrR/ficw==;sVfexq53nKbPVN3Vju7O+g=="
 ---

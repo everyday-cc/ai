@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-11-19-af-blakemore-sales-rise-by-12-in-first-quarter-following-disrupted-year-of-trade.md",
+      "title": "AF Blakemore sales rise by 12% in first quarter following disrupted year of trade",
+      "excerpt": "According to its latest financial results filed this week ... New functionality includes voice search supported by machine learning algorithms providing a more accurate result when the retailer searches online for a product. It also has enhanced product ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thegrocer.co.uk/convenience/af-blakemore-sales-rise-by-12-in-first-quarter-following-disrupted-year-of-trade/661984.article",
+      "originalUrl": "https://www.thegrocer.co.uk/convenience/af-blakemore-sales-rise-by-12-in-first-quarter-following-disrupted-year-of-trade/661984.article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/1024x536/3/6/0/250360_a.f.blakemoresbedforddistributioncentreexterior_521992_crop.jpg",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T09:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grocer",
+        "domain": "thegrocer.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots.md",
       "title": "ABB partners with start-up Sevensense to drive next generation autonomous mobile robots",
       "excerpt": "ABB invests in Swiss start-up and ETH Zurich spin-off Sevensense Robotics (Sevensense), a leading provider of artificial intelligence (AI) and 3D visual technology • Integrating Sevensense AI and navigation technology will enable future autonomous mobile robots (AMR) to work in more dynamic,",
@@ -764,6 +808,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-18-the-race-for-the-domination-of-ai-chips.md",
+      "title": "The race for the domination of AI chips",
+      "excerpt": "the impact of AI chips on the global technology landscape will gradually evolve in the coming decade PREMIUM The market for AI chips has consistently increased in the last decade, with AI chips ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/opinion/the-race-for-the-domination-of-ai-chips-101637221920806.html",
+      "originalUrl": "https://www.hindustantimes.com/opinion/the-race-for-the-domination-of-ai-chips-101637221920806.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/11/18/1600x900/e4167cbe-4843-11ec-aba3-fad0c0ca5ea6_1637221919824.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/opinion/the-race-for-the-domination-of-ai-chips-101637221920806-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/the-race-for-the-domination-of-ai-chips-101637221920806-amp.html",
+      "publishedDateTime": "2021-11-17T23:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-corrected-drugmaker-sanofi-invests-180-mln-in-french-ai-startup-owkin.md",
       "title": "CORRECTED-Drugmaker Sanofi invests $180 mln in French AI startup Owkin",
       "excerpt": "Drugmaker Sanofi is investing $180 million in French startup Owkin, whose predictive algorithms aim to improve the research and development of new cures against cancer, the Paris-based group said on Thursday.",
@@ -1007,100 +1094,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-using-ai.md",
-      "title": "Grammarly raises $200M at a $13B valuation to make you an even better writer using AI",
-      "excerpt": "Grammarly, the popular auto-editing tool for writing, has raised $200 million in funding at a $13 billion valuation from new investors including Baillie Gifford and funds and accounts managed by BlackRock,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/",
-      "originalUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Grammarly-Abstract.jpg?w=1024",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/grammarly-raises-200m-at-a-13b-valuation-to-make-you-an-even-better-writer-through-ai/amp/",
-      "publishedDateTime": "2021-11-17T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-advanced-verification-unlocking-the-door-to-a-new-era-of-ai-chips.md",
-      "title": "Advanced Verification: Unlocking the Door to a New Era of AI Chips",
-      "excerpt": "A look at how chip manufacturers will have to adjust hardware architecture in order to accommodate ever-growing demand for increased AI functionality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eetindia.co.in/advanced-verification-unlocking-the-door-to-a-new-era-of-ai-chips/",
-      "originalUrl": "https://www.eetindia.co.in/advanced-verification-unlocking-the-door-to-a-new-era-of-ai-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/11/Synopsys-Kiran-Vittal-featured-image-EDA-tools-.jpg",
-          "width": 600,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T16:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eetindia.co.in",
-        "domain": "eetindia.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

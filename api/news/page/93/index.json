@@ -2,6 +2,215 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2021-09-24-ibm-research-says-analog-ai-will-be-100x-more-efficient-yes-100x.md",
+      "title": "IBM Research Says Analog AI Will Be 100X More Efficient. Yes, 100X.",
+      "excerpt": "IBM Research believes it has a handle on how to train AI with analog circuitry. This could be the next wave of innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/09/23/ibm-research-says-analog-ai-will-be-100x-more-efficient-yes-100x/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/09/23/ibm-research-says-analog-ai-will-be-100x-more-efficient-yes-100x/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6112e12d6ef9021481ae033c%2F0x0.jpg",
+          "width": 900,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/09/23/ibm-research-says-analog-ai-will-be-100x-more-efficient-yes-100x/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/09/23/ibm-research-says-analog-ai-will-be-100x-more-efficient-yes-100x/amp/",
+      "publishedDateTime": "2021-09-23T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026.md",
+      "title": "3D Facial Recognition Market Size, Analysis, Competitive Strategies and Forecasts to 2026",
+      "excerpt": "This detailed presentation on ‘ 3D Facial Recognition market’ available at MarketStudyReport.com, features an exhaustive study conveying influential trends prevailing in the global business sphere. The report also presents significant details concerning market size,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026-2021-09-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/3d-facial-recognition-market-size-analysis-competitive-strategies-and-forecasts-to-2026-2021-09-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste.md",
+      "title": "Nosh uses AI to help people and businesses cut down on their food waste",
+      "excerpt": "When founder Somdip Dey was a computer science masters student at the University of Manchester, his parents got in a terrible car accident. He sent all of his money back to his parents in India to help with their medical bills,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/",
+      "originalUrl": "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/nosh-white-1024-768-e1632010708309.png?w=1024",
+          "width": 1024,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/23/nosh-uses-ai-to-help-people-and-businesses-cut-down-on-their-food-waste/amp/",
+      "publishedDateTime": "2021-09-23T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-explore-image-analysis-results-from-amazon-rekognition-and-store-your-findings-in-amazon-documentdb.md",
+      "title": "Explore image analysis results from Amazon Rekognition and store your findings in Amazon DocumentDB",
+      "excerpt": "When we analyze images, we may want to incorporate other metadata related to the image. Examples include when and where the image was taken, who took the image, as well as what is featured in the image. One way to represent this metadata is to use a JSON format, which is well-suited for a document […]",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/explore-image-analysis-results-from-amazon-rekognition-and-store-your-findings-in-amazon-documentdb/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/explore-image-analysis-results-from-amazon-rekognition-and-store-your-findings-in-amazon-documentdb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/14/ML-3022-image003.jpg",
+          "width": 1240,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T09:51:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-android-adds-facial-gesture-controls-and-handwriting-recognition-accessibility-features.md",
       "title": "Android adds facial gesture controls and handwriting recognition accessibility features",
       "excerpt": "Google’s raft of new features coming to Android this fall includes some interesting new accessibility features. There are new facial gesture controls designed for people with motor impairments, as well as a new handwriting recognition feature for Lookout,",
@@ -960,204 +1169,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-facebook-cto-mike-schroepfer-to-step-down-next-year.md",
-      "title": "Facebook CTO Mike Schroepfer to Step Down Next Year",
-      "excerpt": "and from helping us develop new technologies like AI and VR to operating our infrastructure and business services at global scale.” Bosworth created Facebook’s AR/VR organization, which was ...",
-      "sourceUrl": null,
-      "webUrl": "https://variety.com/2021/digital/news/facebook-cto-mike-schroepfer-resigns-1235071842/",
-      "originalUrl": "https://variety.com/2021/digital/news/facebook-cto-mike-schroepfer-resigns-1235071842/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://variety.com/wp-content/uploads/2021/09/Facebook-Mike-Schroepfer.jpg?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://variety.com/2021/digital/news/facebook-cto-mike-schroepfer-resigns-1235071842/amp/",
-      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/digital/news/facebook-cto-mike-schroepfer-resigns-1235071842/amp/",
-      "publishedDateTime": "2021-09-22T18:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Variety",
-        "domain": "variety.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-here-are-the-5-startup-battlefield-finalists-at-disrupt-2021.md",
-      "title": "Here are the 5 Startup Battlefield finalists at Disrupt 2021",
-      "excerpt": "Over the last two days, 20 companies took the stage in TechCrunch’s Startup Battlefield in a bid to win $100,000 and the Startup Battlefield cup. They had six minutes to present their pitch decks and answered six minutes of questions from noted investors and executives.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/22/here-are-the-five-startup-battlefield-finalists-at-disrupt-2021/",
-      "originalUrl": "https://techcrunch.com/2021/09/22/here-are-the-five-startup-battlefield-finalists-at-disrupt-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.vidible.tv/prod/2021-09/21/614a37cc37969837d31060e1/614a384b56a7033202b01b4a_o_U_v1.jpg?w=550&h=310",
-          "width": 550,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/22/here-are-the-five-startup-battlefield-finalists-at-disrupt-2021/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/here-are-the-five-startup-battlefield-finalists-at-disrupt-2021/amp/",
-      "publishedDateTime": "2021-09-22T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership.md",
-      "title": "Robotics Gets A Jolt From An Open Robotics-Nvidia Partnership",
-      "excerpt": "The predesigned algorithms combined the synthetic data allow even the most novice developer or startup to quickly develop robotic platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614bc3ee359d7d34aa0c0d2e%2F0x0.jpg",
-          "width": 586,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2021/09/22/robotics-gets-a-jolt-from-an-open-robotics-nvidia-partnership/amp/",
-      "publishedDateTime": "2021-09-22T17:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-building-more-equitable-education-systems-with-the-help-of-ai.md",
-      "title": "Building More Equitable Education Systems With The Help Of AI",
-      "excerpt": "AI is already supporting education non-profits in their efforts to provide students with the skills they need for success in college and beyond, and might be the key to enabling lasting change in educational systems worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614bbdbab0e0477d030c0d2e%2F0x0.jpg",
-          "width": 1200,
-          "height": 747,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/amp/",
-      "publishedDateTime": "2021-09-22T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

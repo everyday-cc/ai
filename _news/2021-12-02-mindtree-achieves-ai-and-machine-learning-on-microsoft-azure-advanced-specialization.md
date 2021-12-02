@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "CVS Health and Microsoft Link Up to Speed Healthcare’s Digital Shift on Retail’s Frontlines"
+    excerpt: "Connected healthcare keeps making new connections as firms from different parts of the business world join forces to drive greater digital transformation for millions of consumers. New evidence of the gathering trend comes from CVS Health and Microsoft,"
+    publishedDateTime: 2021-12-02T22:46:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 81
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/CVS-Health-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Mindtree achieves AI and Machine Learning on Microsoft Azure advanced specialization"
     excerpt: "Mindtree announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner's deep knowledge, extensive experience and proven success in enabling customer adoption of AI and implementing Azure solutions for machine learning life cycle and AI-powered apps."
     publishedDateTime: 2021-12-01T12:46:00Z

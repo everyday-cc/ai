@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-02-tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml.md",
+      "title": "Tenders2Bid – Revolutionizing Tenders & RFP discovery with AI & ML",
+      "excerpt": "Tenders2Bid has been in the news for developing world's largest aggregator platform of Tenders, RFPs. Tenders2Bid is the latest & hottest startup in the AI & ML",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/ab24396560/tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/ab24396560/tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24396560",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24396560",
+      "publishedDateTime": "2021-12-01T15:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-meeting-expectations-a-key-focus-for-aws-in-machine-learningai-keynote-at-reinvent.md",
       "title": "Meeting expectations a key focus for AWS in machine learning/AI keynote at re:Invent",
       "excerpt": "Invent 2021 kicked off with a two-hour presentation on the company’s initiatives in machine learning and artificial intelligence. In typical style for the public cloud giant, the approach taken by presenting executives was to level-set customer expectations and then show precisely how Amazon Web Services Inc.",
@@ -400,7 +443,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -453,7 +496,7 @@
       "originalUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -970,7 +1013,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 246,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1012,49 +1055,6 @@
         "Google AI",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-deep-learning-dreams-up-new-protein-structures.md",
-      "title": "Deep learning dreams up new protein structures",
-      "excerpt": "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools. In a report in Nature, researchers describe the development of a neural network that \"hallucinates\" proteins with new,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-12-deep-protein.html",
-      "originalUrl": "https://phys.org/news/2021-12-deep-protein.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-dreams-u.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-12-deep-protein.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-deep-protein.amp",
-      "publishedDateTime": "2021-12-01T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

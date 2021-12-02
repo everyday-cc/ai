@@ -2,6 +2,198 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2021-10-25-tusimple-taking-retail-money-may-be-too-simple.md",
+      "title": "TuSimple: Taking Retail Money May Be Too Simple",
+      "excerpt": "Driverless technology is the future of ... A wicked waste of dumb money may be chasing the industry. Artificial intelligence is progressively more central to leading investment themes – whether ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
+      "originalUrl": "https://seekingalpha.com/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1127822663/medium_image_1127822663.jpg",
+          "width": 768,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4461709-tusimple-stock-superior-risk-adjusted-returns-remains-completely-unproven",
+      "publishedDateTime": "2021-10-24T20:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-machine-learning-ml-certifications.md",
+      "title": "Machine Learning (ML) Certifications",
+      "excerpt": "Learning artificial intelligence (AI) skills will cover some of machine learning ... program match the requirements sought by a future employer. Amazon’s AWS Certified Machine Learning program is based upon a test and requires candidates to be able ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/machine-learning-certifications/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/machine-learning-certifications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/10/An-employee-works-at-their-remote-desk-with-a-laptop-and-headphones.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-24T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-machine-learning-tackling-the-big-in-big-data.md",
+      "title": "Machine learning: Tackling the ‘big’ in Big Data",
+      "excerpt": "“These sort of cognitive services lower the cost and complexity ... or that can afford to hire a team of data scientists, according to Microsoft’s Olson. But with data becoming a competitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/machine-learning-tackling-big-big-data/",
+      "originalUrl": "https://sdtimes.com/ai/machine-learning-tackling-big-big-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2016/10/machineLearn.jpg",
+          "width": 490,
+          "height": 276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier.md",
+      "title": "How Moveworks’ AI platform broke through the multilingual NLP barrier",
+      "excerpt": "Multilingual NLP in an enterprise context -- using no scripting or system-integration prework -- is the future of conversational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/",
+      "originalUrl": "https://venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/nlp-e1634938579138.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/amp/",
+      "publishedDateTime": "2021-10-24T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-artificial-intelligence-ai-in-banking.md",
       "title": "Artificial Intelligence (AI) in Banking",
       "excerpt": "Artificial intelligence (AI) is one of the most disruptive technologies today, and the banking industry is a prime example of its potential. AI in banking is a relatively new concept, but it’s already making banks safer,",
@@ -971,195 +1163,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-new-bill-would-secure-government-contractors-use-of-ai.md",
-      "title": "New Bill Would Secure Government Contractors' Use of AI",
-      "excerpt": "Two Senate leaders on Thursday introduced legislation that would form a working group charged with monitoring the security of AI data obtained by federal",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/",
-      "originalUrl": "https://www.inforisktoday.com/new-bill-would-secure-government-contractors-use-ai-a-17786",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/615f6fab0208edf75baf39bd/master/pass/AI-Bill-of-Rights.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-bill-of-rights-artificial-intelligence/amp",
-      "publishedDateTime": "2021-10-22T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Info Risk Today",
-        "domain": "inforisktoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-restaurants-prep-for-long-term-labor-crunch-by-turning-to-robots-to-work-the-fryer-shuttle-food-to-tables.md",
-      "title": "Restaurants prep for long-term labor crunch by turning to robots to work the fryer, shuttle food to tables",
-      "excerpt": "Restaurants that are struggling to fill jobs are beginning to turn to robotic solutions to ease staffing challenges and to speed up operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "originalUrl": "https://www.cnbc.com/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106964441-1634924133556-106964441-1634903029090Team_Member_Next_to_Flippy_ROAR_at_the_Fryer_2.JPG?v=1634924157",
-          "width": 4032,
-          "height": 3024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/22/restaurants-looking-for-labor-and-speed-turn-to-robots-.html",
-      "publishedDateTime": "2021-10-22T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws.md",
-      "title": "Improve your data science workflow with a multi-branch training MLOps pipeline using AWS",
-      "excerpt": "In this post, you will learn how to create a multi-branch training MLOps continuous integration and continuous delivery (CI/CD) pipeline using AWS CodePipeline and AWS CodeCommit, in addition to Jenkins and GitHub. I discuss the concept of experiment branches, where data scientists can work in parallel",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-your-data-science-workflow-with-a-multi-branch-training-mlops-pipeline-using-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/19/ML-5217-image001.jpg",
-          "width": 622,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T11:56:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-embedded-news-week-robotics-rainforests-and-iot-security.md",
-      "title": "embedded news week: robotics, rainforests and IoT security",
-      "excerpt": "A roundup of this week’s embedded news includes robotics, IoT security and onboarding, automotive wireless charging and building automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
-      "originalUrl": "https://www.embedded.com/embedded-news-week-robotics-rainforests-and-iot-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2021/10/Infineon-Rain-Forest-Connection.jpg",
-          "width": 1700,
-          "height": 1130,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-22T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

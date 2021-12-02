@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/"
 type: article
 quality: 135
-heat: 246
+heat: 245
 published: true
 
 provider:

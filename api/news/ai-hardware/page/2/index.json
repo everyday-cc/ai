@@ -236,6 +236,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-18-the-race-for-the-domination-of-ai-chips.md",
+      "title": "The race for the domination of AI chips",
+      "excerpt": "the impact of AI chips on the global technology landscape will gradually evolve in the coming decade PREMIUM The market for AI chips has consistently increased in the last decade, with AI chips ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/opinion/the-race-for-the-domination-of-ai-chips-101637221920806.html",
+      "originalUrl": "https://www.hindustantimes.com/opinion/the-race-for-the-domination-of-ai-chips-101637221920806.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/11/18/1600x900/e4167cbe-4843-11ec-aba3-fad0c0ca5ea6_1637221919824.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/opinion/the-race-for-the-domination-of-ai-chips-101637221920806-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/the-race-for-the-domination-of-ai-chips-101637221920806-amp.html",
+      "publishedDateTime": "2021-11-17T23:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-advanced-verification-unlocking-the-door-to-a-new-era-of-ai-chips.md",
       "title": "Advanced Verification: Unlocking the Door to a New Era of AI Chips",
       "excerpt": "A look at how chip manufacturers will have to adjust hardware architecture in order to accommodate ever-growing demand for increased AI functionality.",
@@ -468,6 +511,92 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-ai-accelerator-chip-market-shares-swot-analysis-key-development-strategies-and-forecasts-till-2027.md",
+      "title": "AI Accelerator Chip Market Shares SWOT Analysis, Key Development Strategies and Forecasts Till 2027",
+      "excerpt": "The AI Accelerator Chip Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services. This market report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2463873/ai-accelerator-chip-market-shares-swot-analysis-key",
+      "originalUrl": "https://www.openpr.com/news/2463873/ai-accelerator-chip-market-shares-swot-analysis-key",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2463873/ai-accelerator-chip-market-shares-swot-analysis-key",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2463873/ai-accelerator-chip-market-shares-swot-analysis-key",
+      "publishedDateTime": "2021-11-16T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-edge-artificial-intelligence-ai-chip-market-industry-analysis-and-prospect-2022-2027.md",
+      "title": "Edge Artificial Intelligence (AI) Chip Market Industry Analysis and Prospect 2022-2027",
+      "excerpt": "Nov 16, 2021 (Heraldkeepers) -- The Edge Artificial Intelligence (AI) Chip Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-industry-analysis-and-prospect-2022-2027-2021-11-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-industry-analysis-and-prospect-2022-2027-2021-11-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T22:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1306,153 +1435,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidias-new-ai-brain-for-robots-is-six-times-more-powerful-than-its-predecessor.md",
-      "title": "NVIDIA's new AI brain for robots is six times more powerful than its predecessor",
-      "excerpt": "NVIDIA has launched the Jetson AGX Orin, its new AI brain for robots with six times the processing power of its predecessor..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/nvidi-as-new-ai-brain-for-robots-is-six-times-more-powerful-than-its-predecessor-093024102.html?src=rss",
-      "originalUrl": "https://www.engadget.com/nvidi-as-new-ai-brain-for-robots-is-six-times-more-powerful-than-its-predecessor-093024102.html?src=rss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-11/7720b2b0-4130-11ec-96e3-0babf84499b8",
-          "width": 1152,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-supermicro-enhances-broadest-portfolio-of-edge-to-cloud-ai-systems-with-accelerated-inferencing-and-new-intelligent-fabric-support.md",
-      "title": "Supermicro Enhances Broadest Portfolio of Edge to Cloud AI Systems with Accelerated Inferencing and New Intelligent Fabric Support",
-      "excerpt": "Supermicro's latest NVIDIA-Certified Systems deliver ten times more AI inference performance than previous generations, ensuring that AI enabled applications such as Image Classification, Object Detection,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-supermicro-enhances-broadest-portfolio-edge-cloud-ai-systems-/2021/11/09/9487111.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-supermicro-enhances-broadest-portfolio-edge-cloud-ai-systems-/2021/11/09/9487111.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
-          "width": 400,
-          "height": 206,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai.md",
-      "title": "Nvidia debuts ReOpt to optimize supply chain routing with AI",
-      "excerpt": "Nvidia's new ReOpt service employs AI to help shippers optimize the routing of packages bound for customers' doorsteps.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/11/Delivery-Truck.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/",
-      "publishedDateTime": "2021-11-09T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

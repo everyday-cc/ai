@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship"
-publishedDateTime: 2021-12-01T18:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
-webUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
+excerpt: "(NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud. As Discovery’s preferred cloud provider, AWS powers the vast majority of the company’s infrastructure needs to deliver its discovery+ on-demand streaming video service,"
+publishedDateTime: 2021-12-01T23:08:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/12/01/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of"
+webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
@@ -87,6 +87,6 @@ related:
       domain: mobilitytechzone.com
     quality: 11
 
-secured: "hwd/RWjgGuBxHnQSZeCZF2s3DIyL8MA9DVKZVx/Kf4ku2z1ryqMpbmCohRcBZRMWX7lK98CVRxthRtIj7kd2dKrdo06sOn4+W0lCYJGGqcBZ2nDCbfiRqNhzSyVfD29tLOXwGlSLVypaYukqLtRkT12argnAz+uznP/ZSTZnESM2tXycrybZQnoc2fiwNJ0ld078kCKMuxT2u9rNT/tvsYG5MyTvR9vkvgkBCcvuYSQrgUdVVGJF5VvHsFe/Xh3wAj/RUIrFwGIEigg4/bqERGkrb10JQquwKeZ+GNhuTqR0IM4BOMoMyrlj4QxcBYWOtXmjhoS6apsEkJ2/w33+eupnOPXRf+wxZA/SP+Gn8Uo=;2U6DuqV8pRn6q7E2PZfGXQ=="
+secured: "F4CE/snzWBPhoq50DTYnHaHZHpQPXD4aKELir6OZ05Dxmv7cE/k/RY4xYbwHMosVmX3OCfYw2p/IRdsmmDn7KlUcH1UeiLvM6RhX/Uty9W0cnWzAzhpzBcMVyy0LE0JcpS47YrqiQ1sUL/N5CQGazDTMmm8p+GgzPgIb4Wk3ku3HTvkeCcp8rujfQXcJzgNBJ1gGP/0lLhQcTzhuavKorFt4R/MWux889pEVKeR0Ul6bOE325ctLrnNK+XIL+h/veGOch+eBldxM47KeIB/yuLXbw2jIBefzDkKlmx2bJMiUYoramhJV2rV0V4ZPQtr9ACfTpvYMzUVBe350+TbXBfC/RXs+Ciqjc9ig2BmbE8JaNa5bfpQUXfg2QkoWUaRvIyI1Ak5rolhb5tJsRBaa6si/vLJvABU8Yl75jgm7eWyWrKvLMx/hONnPXIxdwNcjNOuM203ZwnyK+Pu5AF580BQwu9T+Atzl+fw+ckjjm3AMytydTyJuXuhy6Io7GRurUhRQc5r5VQpWChGJWbd4FQ==;iSAcmf2HctZoONQNFpaAxQ=="
 ---
 

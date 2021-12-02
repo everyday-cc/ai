@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning dreams up new protein structures"
-    excerpt: "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools. In a report in Nature, researchers describe the development of a neural network that \"hallucinates\" proteins with new,"
-    publishedDateTime: 2021-12-01T16:00:00Z
-    webUrl: "https://phys.org/news/2021-12-deep-protein.html"
-    ampWebUrl: "https://phys.org/news/2021-12-deep-protein.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-deep-protein.amp"
+  - title: "Univ. of Washington deep learning researchers ‘hallucinate’ protein designs from scratch"
+    excerpt: "New protein structures not seen in nature have emerged from deep learning software deployed by University of Washington researchers and their colleagues. The approach is a step toward building"
+    publishedDateTime: 2021-12-02T22:52:00Z
+    webUrl: "https://www.geekwire.com/2021/univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch/"
+    ampWebUrl: "https://www.geekwire.com/2021/univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch/amp/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: GeekWire
+      domain: geekwire.com
+    quality: 80
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-dreams-u.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2021/12/hallucinated-protein-630x352.png"
+        width: 630
+        height: 352
         isCached: true
   - title: "Machine Learning Algorithm Hallucinates Novel Protein Structures"
     excerpt: "A deep-learning network trained to predict protein shapes can also generate proteins with new, stable structures."

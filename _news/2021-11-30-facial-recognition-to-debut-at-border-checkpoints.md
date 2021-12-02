@@ -57,6 +57,22 @@ related:
         width: 2508
         height: 1672
         isCached: true
+  - title: "Professors working on self-driving car technology that uses facial recognition system"
+    excerpt: "Professor A.J. Alnaser is turning this tricked-out Ford Fusion by moving his head, no hands needed. It might be the future of self-driving technology."
+    publishedDateTime: 2021-12-02T19:04:00Z
+    webUrl: "https://www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system"
+    ampWebUrl: "https://www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system?_amp=true"
+    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system?_amp=true"
+    type: article
+    provider:
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 54
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/f9c/45bf940c346f431c9be273b8942ab6eb/f9c346911ec54171a39166a39d302dd0/poster_a84395db2a4e4150ab8f0cdfc18b9575.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "HBaGTGo8FqqvPeWK5q/wjZwcVeqx08RX4rcUAP8y9BPuf4xcnWfLoGgOW28MhSwrjFoGc3jD1b++tDVbZ6lvX9nbXR1W9sydhKap2eMfqu+YiVBL1xe7ybC5mJfnfMpUKFOZtDrmEEsAxpI7jT5jyW8TYJAlWVhkBOHTbPNH7pV5M6zw6X87oOA55wS+rEvSznrHstOpFlVDUYLxtEg76vaMwaiyOhG9dSanXCacS0STt00TnnVw1XjxHOHFpjfWXS+TDGfE+HrNOyeBv1YP4kmalYyuMW93QUJ7fII/LKZYGyOF7Yk1l1xf8o/INkPH1FUhoW2qSNERroH3LztirVUbsKK5WQyFnhxn/7LSBI3/PUwtoDyiFvvfCIuzBZ+wL+6E/MghKrVf77CIhYFGGEafVDU8vJERLbkL3FrtMadJaYfaB3BQH08LJocuI1YrZ+ICam8H5x0ymeg4ouIwBvoWtqMRCdzl8vnE/el0Qq5RKAtMD2qasuIi7DKXru5MTWWac/UCRNhvAAZjg0agrg==;SxjNjoyr2v10VVKA0MeDhQ=="
 ---

@@ -359,19 +359,19 @@
     {
       "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-aws.md",
       "title": "adidas Migrates SAP Environments to AWS",
-      "excerpt": "By applying machine learning capabilities, such as Amazon SageMaker, AWS’s service that helps developers and data scientists build, train, and deploy machine learning models quickly in the cloud ...",
+      "excerpt": "AWS’s extensive SAP experience allows adidas ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.retaildive.com/press-release/20211122-adidas-migrates-sap-environments-to-aws/",
-      "originalUrl": "https://www.retaildive.com/press-release/20211122-adidas-migrates-sap-environments-to-aws/",
+      "webUrl": "https://www.register-herald.com/region/adidas-migrates-sap-environments-to-aws/article_72c1b13e-d407-58bb-8608-c8ede6d9d764.html",
+      "originalUrl": "https://www.register-herald.com/region/adidas-migrates-sap-environments-to-aws/article_72c1b13e-d407-58bb-8608-c8ede6d9d764.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1637560622/press_release/assets/company_logos/AWS_logo_RGB_zwql0q.png",
-          "width": 400,
-          "height": 400,
+          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300",
+          "width": 320,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -381,11 +381,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T22:07:00-08:00",
+      "publishedDateTime": "2021-11-21T23:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Retail Dive",
-        "domain": "retaildive.com",
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -67,7 +67,7 @@ related:
     provider:
       name: Wonderful Engineering
       domain: wonderfulengineering.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-Sl7zbvKjbvj7Ba1n.jpg"
         width: 1200

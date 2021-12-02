@@ -49,7 +49,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 66
+    quality: 68
     images:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-3-1.jpg&signature=196efe9508285abc0c8bab5b6653929b"
         width: 1280

@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-11-24-artificial-intelligence-ai-in-hiv-and-aids-market.md",
+      "title": "Artificial Intelligence (AI) in HIV and AIDS Market",
+      "excerpt": "Portland United States Big Market Research newly added a research report on the Artificial Intelligence AI in HIV and AIDS Market which represents a study for the period from 2021 to 2026 The research study provides a near look at",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
+      "originalUrl": "https://www.openpr.com/news/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub24296920_g.jpg",
+          "width": 727,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472463/artificial-intelligence-ai-in-hiv-and-aids-market-share",
+      "publishedDateTime": "2021-11-23T23:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-apollo-tyres-moves-to-aws-to-enhance-customer-experience.md",
       "title": "Apollo Tyres moves to AWS to enhance customer experience",
       "excerpt": "Apollo Tyres, India's largest tyre maker, is moving its entire infrastructure to Amazon Web Services (AWS). To change the customer exper..|News Track",
@@ -1085,49 +1129,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-ibm-watson-services-market-is-projected-to-be-valued-at-us-446-bn-by-2031-end.md",
-      "title": "IBM Watson Services Market is Projected to be Valued at US$ 44.6 Bn by 2031 End",
-      "excerpt": "ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams continue working from home. Focus on fast automation, use of real-time operation within various end-use sectors such as automotive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
-      "originalUrl": "https://www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2021/03/research-report-3-1.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
-      "publishedDateTime": "2021-11-23T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

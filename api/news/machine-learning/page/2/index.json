@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-11-23-new-deep-learning-method-adds-301-planets-to-keplers-total-count.md",
-      "title": "New deep learning method adds 301 planets to Kepler's total count",
-      "excerpt": "Scientists recently added a whopping 301 newly validated exoplanets to the total exoplanet tally. The throng of planets is the latest to join the 4,569 already validated planets orbiting a multitude of distant stars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpl.nasa.gov/news/new-deep-learning-method-adds-301-planets-to-keplers-total-count",
-      "originalUrl": "https://phys.org/news/2021-11-deep-method-planets-kepler-total.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-11-23-fighting-blood-diseases-with-artificial-intelligence.md",
       "title": "Fighting blood diseases with artificial intelligence",
       "excerpt": "Every day, cytologists around the world use optical microscopes to analyze and classify samples of bone marrow cells thousands of times. This method to diagnose blood diseases was established more than 150 years ago,",
@@ -1383,6 +1349,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-15-astera-labs-announces-memory-acceleration-to-clear-datacenter-aiml-bottlenecks.md",
+      "title": "Astera Labs announces memory acceleration to clear datacenter AI/ML bottlenecks",
+      "excerpt": "Astera Labs announced a memory accelerator platform based on the Compute Express Link (CXL) standard for datacenter devices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/",
+      "originalUrl": "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/datacenters-e1621237633386.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/amp/",
+      "publishedDateTime": "2021-11-15T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
       ]
     }
   ],

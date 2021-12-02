@@ -8,7 +8,7 @@ webUrl: "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-us
 ampWebUrl: "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/"
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - Computer Vision
+  - Natural Language Processing
 
 images:
   - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-Sl7zbvKjbvj7Ba1n.jpg"
@@ -75,6 +76,6 @@ related:
         height: 424
         isCached: true
 
-secured: "d0QNYLJggUHVXPJvPV+dUx6q3AYrOChKEzOkz+7+7j11C+D4hCGt05ifs9ZGQeT10fTEPju01ixqadCVaHLloGCDVYB5BDTc8s0HEfYq9pz41aUYSnj7Y2z1ST9nXNJJ6cQCWlHSCCUZBzDigw1MUODKUca6CSTXsYObGg3TMdfUpqSywo1Qq6L3txxcNPWPZUsPMgSjemRuyB1qWSqGmSelqXTHaJ1tQlhYNXKXv+N8FRRu5L6ovSWHxsOjcprdK0Eyx213D7QkjFrwKuYaTfgDM5II74a8FUpo0jZGLNn3rx4sWLUCywZaH0vn5dbXtMAZ7kXNXWtjjx0vPBCyjcLM7rzGwqibozG7kI5unto=;DMBOOt5s8OYUQAtydieiVg=="
+secured: "7gimCMwkbe5EsYi8A8etPHgOKTbODpUxPkJoLNdiGHYLx0qjschk31HtjE+vp7U3T8Lz342Fwn5ahvQX8sMgrF/ubV4GBfUnRVvYjAjHpyxHQBQbICWJlTVe82HJvCucxlDF37tgTrmmN8iOYpLk/367/5op4SIkHG1iunRlXmOumTBq8mv13DlqY+Eag47MdWJMayvy0W1p2+x9a+F27vxT/YGPc/kiVXb4PXXlGkEJCL3xDXhoTt55A3reLkKJogOxotdmI7VQGljZ/kJRDgQvtRM9bnD6WwX5xP0/HI6PQEnmOYRS0zixt9NS52CNXy7PZwKK3+2t2sZ6vg8Xw90tBPErEn9QsmfrKD2MIW174WkZfs2h7D92bd0xnbCjnFES7ey+TRQ+2z/MnWvsL5+jrlfnzY+tgh/4uvlG1JtAwcPA9FwB4Wx3UeoO/g/ak6G8sChHgZ6XXe6ZqgvL4Vk4d1/50fZyS4SaOawXy0K9OJaEMzSNj7Ulp+qdM73Vzi6+PjhokMIRowo9J761QA==;2bdrdDXJpOZOamG7O8IZNA=="
 ---
 

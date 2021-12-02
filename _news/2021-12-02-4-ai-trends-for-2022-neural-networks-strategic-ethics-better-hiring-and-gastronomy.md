@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/4-ai-trends-for-2022
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/"
 type: article
 quality: 99
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Revisiting Enterprise Artificial Intelligence in 2022: Challenges and Opportunities"
+    excerpt: "Skepticism about AI in enterprises may have been justified a decade ago, but a lot has changed. See how old challenges have been addressed in today’s landscape."
+    publishedDateTime: 2021-12-02T18:47:00Z
+    webUrl: "https://www.linkedin.com/pulse/revisiting-enterprise-artificial-intelligence-2022-/?trackingId=3LQ%2Fpw5LUVpPA%2FheeygT7A%3D%3D"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 31
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFe36ilHapKMw/article-cover_image-shrink_720_1280/0/1638469915686?e=1643846400&v=beta&t=D03YCwWh0wtNHI4KWdIyCsgS7MUmWneUx80ak7wQXVY"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "wMnbMYwszTfbiWD4KvHisX8cmXtGyAMCiODaNEMWOAlymPQx66vRNBx7AxZGmerbOP1M1kD892WGMxXVofu0BiHAF7pVsLuJAEH7r5txAHuMBKk3rvmymmhZQ4UJSJTu12zS3BFOyvbH7j+/hueUatB73oJ6xNeQKhE/HGUv8mRpTKzHftytlm7+6cqDVIKM8gO4eXhrF8ba+GG4coUPboGHqB44kWmyvtIZWS37JHSUSUtnsJzOhWb4iEwgmA5c0Kk8+pSEZdkZdmpxksV5Hy4wLIgCsZpnMyVi/qssDGRcqguW70XtuIo9ehX2M22FXlDpCP7oPGmtTEEyDMuCq/bNS0/BYhTZvh0PbZK+i7ihFffWp5OXcSzGQigVHQ+gS2tqISQwKENEsMLTYG8T2CpeCn5sOeMT9E+ynW+ADFovtg15W+IoUWH7cpDJTiLfZRnQDx4tqbisiwRx2Utsivr1CW8xr9IgsNbk4ji5tmmPGn22lSIMLrMB5WVDDnZRE0IeSExif8VcUSZeYoYaaw==;fo5Uahid8LbiU0j0ZydpaA=="
 ---

@@ -2,50 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-09-23-uw-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.md",
-      "title": "UW research provides a basic structure of neural networks in the mammalian brain",
-      "excerpt": "Two University of Wyoming researchers decided to pick each other's brain, so to speak. Specifically, they examined the importance of the frontal cortex, the portion of the brain used in decision-making,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210922/UW-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210922/UW-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210922/UW-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210922/UW-research-provides-a-basic-structure-of-neural-networks-in-the-mammalian-brain.aspx",
-      "publishedDateTime": "2021-09-22T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-09-23-cellino-is-using-ai-and-machine-learning-to-scale-production-of-stem-cell-therapies.md",
       "title": "Cellino is using AI and machine learning to scale production of stem cell therapies",
       "excerpt": "Cellino, a company developing a platform to automate stem cell production, presented today at TechCrunch Disrupt 2021 to detail how its system, which combines A.I. technology, machine learning, hardware,",
@@ -1428,6 +1384,49 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-dive-deep-into-machine-learning-with-over-75-hours-of-expert-led-training.md",
+      "title": "Dive Deep Into Machine Learning With Over 75 Hours Of Expert Led Training",
+      "excerpt": "One way to dive deep into these pivotal technologies is to take advantage of this deal on The Premium Machine Learning Artificial Intelligence Super Bundle, which is on sale for $36.99 (reg. $2,388).",
+      "sourceUrl": null,
+      "webUrl": "https://www.ign.com/articles/dive-deep-into-machine-learning-over-75-hours-expert-led-training",
+      "originalUrl": "https://www.ign.com/articles/dive-deep-into-machine-learning-over-75-hours-expert-led-training",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-prd.ignimgs.com/2021/09/15/sale-302250-article-image-1631738245370.jpeg?width=1280",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IGN",
+        "domain": "ign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

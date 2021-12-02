@@ -2,6 +2,195 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-11-15-honda-tests-prototype-autonomous-work-vehicle-at-solar-construction-site-with-black-veatch.md",
+      "title": "Honda Tests Prototype Autonomous Work Vehicle at Solar Construction Site with Black & Veatch",
+      "excerpt": "TORRANCE, Calif. and OVERLAND PARK, Kan., Nov. 15, 2021 /PRNewswire/ -- Honda and Black & Veatch have successfully tested the prototype Honda",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/honda-tests-prototype-autonomous-work-vehicle-at-solar-construction-site-with-black--veatch-301423487.html",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/honda-tests-prototype-autonomous-work-vehicle-at-solar-construction-site-with-black-veatch-1030976674",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1687569/Honda_work_vehicle2.jpg?w=400",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-15-electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec.md",
+      "title": "ElectrifAi Announces Computer Vision and MLaaS for Oil, Gas and Energy at ADIPEC",
+      "excerpt": "ElectrifAi, one of the world's leading companies in practical artificial intelligence (Ai) and pre-built machine learning (ML) models,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/in/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-805648369.html",
+      "originalUrl": "https://www.prnewswire.com/in/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-805648369.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook",
+          "width": 594,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-15-artificial-intelligence-market-size-worth-64130-billion-globally-by-2028-at-361-cagr-verified-market-research.md",
+      "title": "Artificial Intelligence Market size worth $ 641.30 Billion, Globally, by 2028 at 36.1% CAGR: Verified Market Research®",
+      "excerpt": "Verified Market Research recently published a report, \" Artificial Intelligence Market \" By Component Analysis (Hardware, Software and Services), By Technology (Deep Learning, Machine Learning, Natural Language Processing),",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/n24093831/artificial-intelligence-market-size-worth-641-30-billion-globally-by-2028-at-36-1-cagr-verified-ma",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/n24093831/artificial-intelligence-market-size-worth-641-30-billion-globally-by-2028-at-36-1-cagr-verified-ma",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24093831",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24093831",
+      "publishedDateTime": "2021-11-15T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-15-timekettle-wt2-edge-ai-translator-earbuds-review.md",
+      "title": "TimeKettle WT2 Edge AI Translator Earbuds review",
+      "excerpt": "Then you might well consider using something like the TimeKettle WT2 Edge AI Translator Earbuds, providing built-for-purpose simultaneous translation between forty languages. These aren’t a cheap option,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/reviews/timekettle-wt2-edge-ai-translator-earbuds",
+      "originalUrl": "https://www.techradar.com/reviews/timekettle-wt2-edge-ai-translator-earbuds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/qXRN26kfpZaDgtppr6e3zC-1200-80.jpg",
+          "width": 1200,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-15-supermicro-accelerates-delivery-of-hpc-clusters-for-total-it-solutions-with-a-broad-portfolio-of-servers-storage-ai-solutions-and-liquid-cooling.md",
       "title": "Supermicro Accelerates Delivery of HPC Clusters for Total IT Solutions with a Broad Portfolio of Servers, Storage, AI Solutions, and Liquid Cooling",
       "excerpt": "SAN JOSE, Calif., Nov. 15, 2021 /PRNewswire/ -- (SMCI), a global leader in high-performance computing, storage, networking solutions, and green computing technology, is expanding its HPC",
@@ -983,204 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-25-tech-gifts-you-and-your-kids-will-go-crazy-over.md",
-      "title": "25 Tech Gifts (You and) Your Kids Will Go Crazy Over",
-      "excerpt": "This guide has gadgets for every kid on your list this year—to help them to play, learn, code, rock out and roll down the street.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809",
-      "originalUrl": "https://www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1929915/kid-tech-holiday-gift-guide-2021.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/25-tech-gifts-you-your-kids-will-go-crazy-over-1647809?amp=1",
-      "publishedDateTime": "2021-11-14T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-4-ways-successful-enterprises-are-driving-success-in-ai.md",
-      "title": "4 Ways Successful Enterprises Are Driving Success In AI",
-      "excerpt": "In this article, I provide you with a summary of Deloitte's findings to determine whether or not you need to go deeper to get more value.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2021/11/14/4-ways-successful-enterprises-are-driving-success-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2021/11/14/4-ways-successful-enterprises-are-driving-success-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618f0264d0677f73d608af71%2F0x0.jpg",
-          "width": 729,
-          "height": 753,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2021/11/14/4-ways-successful-enterprises-are-driving-success-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2021/11/14/4-ways-successful-enterprises-are-driving-success-in-ai/amp/",
-      "publishedDateTime": "2021-11-14T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-baidu-stock-the-hidden-ai-opportunity.md",
-      "title": "Baidu Stock: The Hidden AI Opportunity",
-      "excerpt": "Although Baidu is a leader in self-driving as well, this revenue is currently immaterial. Around the year 2025, the cost of autonomous ride hailing may be low enough to jumpstart exponential ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4469311-baidu-bidu-stock-buy-hidden-ai-opportunity",
-      "originalUrl": "https://seekingalpha.com/article/4469311-baidu-bidu-stock-buy-hidden-ai-opportunity",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1183684002/medium_image_1183684002.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4469311-baidu-bidu-stock-buy-hidden-ai-opportunity",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4469311-baidu-bidu-stock-buy-hidden-ai-opportunity",
-      "publishedDateTime": "2021-11-13T23:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-unity-moves-robotics-design-and-training-to-the-metaverse.md",
-      "title": "Unity moves robotics design and training to the metaverse",
-      "excerpt": "Unity launched Unity Simulation Pro and Unity SystemGraph to improve robotics modeling, testing, and training complex systems through AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/",
-      "originalUrl": "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/robot.AI_.world_.GettyImages-640351083-e1634835504844.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/unity-moves-robotics-design-and-training-to-the-metaverse/amp/",
-      "publishedDateTime": "2021-11-13T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

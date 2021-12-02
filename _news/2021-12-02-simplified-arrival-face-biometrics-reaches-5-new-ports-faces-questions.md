@@ -109,6 +109,20 @@ related:
         width: 1173
         height: 697
         isCached: true
+  - title: "What's Your Hot Take on Biometrics? Add Your Voice to the FindBiometrics Year in Review Survey"
+    excerpt: "FindBiometrics, the internet's leading resource for news, interviews and thought leadership in biometrics and digital identity, has launched the 19th Annual FindBiometrics Year in Review Survey, sponsored by NEC,"
+    publishedDateTime: 2021-12-02T21:25:00Z
+    webUrl: "https://www.lelezard.com/en/news-20138589.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 12
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "L3nLKxgVsxl6SaZ8MmmFpVaQcg4EwDcNsijvpfkVcSFz1lvmWPdbHXDXUD47sC0h5F0JEFDZdAdGAhOKWG8Td8K1cT2CTOowJJkWVwPNfJwSfzEMmXdN4dKlNp4u3zJeOtuKOAOkZwOGGEDuZJhB/fzWNqmhj7Zda/kW0+wlP/uWucvy3gnGysBcE5TRDqQAEsHD68AeiWITOADe2eiYhSgxnQXx1xX/zxF4qbKeTyFbEpJMtvRl97J6UA7XzvItGmrCQt9QX3SmTQOjtiBNM8K/IabtIaoKd0LYSieKd91skv6eNS6hHSC66N2sUPQEk/HXlvT7UDbYMwnb33OKWzLkCTJcUB9dmQVd4xpg0sXlmjYir2E7VbV3t8nA+fjjd+oAAb7pqTEfEmbQ5BMEOWzJe5eoMN18d62iFBG/eP5EmcujrCRNDpBZS3TMQOQzzfGIazO6ZFsUZ75LNK4gPbwvlO8U6p6DmRkr7jLmIoKQ3oZPBrEgszOMzZHI4zmkIJEkAj/7W1Yx1lqRiG006A==;renvzHosBxcGluGiV7RPkA=="
 ---

@@ -54,6 +54,22 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "CVS Health and Microsoft Link Up to Speed Healthcare’s Digital Shift on Retail’s Frontlines"
+    excerpt: "Connected healthcare keeps making new connections as firms from different parts of the business world join forces to drive greater digital transformation for millions of consumers. New evidence of the gathering trend comes from CVS Health and Microsoft,"
+    publishedDateTime: 2021-12-02T22:46:00Z
+    webUrl: "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/"
+    ampWebUrl: "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 81
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/CVS-Health-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Hisar School and Microsoft Turkey deliver artificial intelligence education"
     excerpt: "Turkish education provider Hisar School and Microsoft Turkey are providing students with education in artificial intelligence (AI). As part of this, students use Azure Stack Edge Pro to create an AI-based application that improves early diagnosis of Alzheimer's disease."
     publishedDateTime: 2021-11-29T12:12:00Z

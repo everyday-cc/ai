@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-02T20:18:00Z
 originalUrl: "https://thenextweb.com/news/timnit-gebru-launches-dair-to-challenge-big-tech-control-ai-research"
 webUrl: "https://thenextweb.com/news/timnit-gebru-launches-dair-to-challenge-big-tech-control-ai-research"
 type: article
-quality: 66
+quality: 68
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-3-1.jpg&signature=196efe9508285abc0c8bab5b6653929b"
@@ -73,6 +74,6 @@ related:
         height: 960
         isCached: true
 
-secured: "HQOp+qGbmViDLPs/s7+BcjGy4HvfJ4qT2WskTpcuMZmfD0l6Uq7qPF5jcYkzUkJl981BMUU4ZLDRpgaVal8rgw2flVS0q+XSdqDuH0v42Ub4Uqe3+8xdAKpULuWMaA0pu0/ZBXkqfYbn8Jep+65DP9TT0dCIbv/vQ2VPoYWdpxGSxMGgF5E3jvMb013n/PuDu7+SqVZUFi1+XCKmuDmt6L8PDVBM/LiyEedd7UBMnEguZgpgIYoPNQwI2LtOKvxhttsHK5cjvDr9kin72DwLVOkZH+zGmxSHye3vXsAh6GRtvEo/7Gd4+L4d8dkqz/2LgiJNDKirFdgYiJBPRgKdGvCKPyiASxIskdcKroOYUCs=;fFdTMChGGinhbfxEkNFBcQ=="
+secured: "PhFUcKhQOofBC8ep1KH/qq2xNHSP8jkEI3yUyhEZ7654YHaNwT4oQZH5WUpSbYzsB4s7d2bLf0aZIZ2H5mzyepzgKxjCcIes0jF1nQsUvdPNBIMkk7usVqlupFQY4Oibv8RCyqoMtoC4Fge+Umrhp8vbx8ejmO0J164i2A+flqyjh2yQ0BeWQ/2qCFw36Ema2pvudgBJrSuHEUaI85F+Z8naZsZziIEGPepYgjWFLykqXMZmVl91lBr2ZyKPm1w4kUuHnklifqJLCnncvZ1hGnuRVdfhsCDFUyIC6c7zHMMXM6utAkRuueD56cEgQybaH+eAtTS7tMjKTjjMTQbr1IQYNH+/gd2G8Db9uN3Z/6PxR+gLT9/fZyys7FTxvR2i75Z4YVrRGH0dPjFPhlQhbS7IyInfftPAy+7BcqiG2TnE8qakfMxPJKqpkQiu7F1ltKjxWuRyzNG1jQnN9rZvlKAUvClHMYRmFebCbFQedrQ+FtA5vjwdv3kMzbrV+SLB5GntMMopaxxMPxIhCYVNIQ==;rQepoQe6L+L7P8ShIh56ZA=="
 ---
 

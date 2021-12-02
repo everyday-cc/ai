@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-23-ibm-watson-services-market-is-projected-to-be-valued-at-us-446-bn-by-2031-end.md",
+      "title": "IBM Watson Services Market is Projected to be Valued at US$ 44.6 Bn by 2031 End",
+      "excerpt": "ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams continue working from home. Focus on fast automation, use of real-time operation within various end-use sectors such as automotive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
+      "originalUrl": "https://www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2021/03/research-report-3-1.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
+      "publishedDateTime": "2021-11-23T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation.md",
       "title": "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation",
       "excerpt": "CVG is using computer vision, AI, and advanced technologies to manage capacity constraints while maintaining its commitment to customer service and brand reputation TaskWatch enhances CVG with ...",
@@ -431,6 +474,49 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-artificial-intelligence-powers-protein-folding-predictions.md",
+      "title": "Artificial intelligence powers protein-folding predictions",
+      "excerpt": "Deep-learning algorithms such as AlphaFold2 and RoseTTAFold can now predict a protein’s 3D shape from its linear sequence — a huge boon to structural biologists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-021-03499-y?code=b17f9aab-d5dd-4a67-9622-b8ccfdd47c47&error=cookies_not_supported",
+      "originalUrl": "https://www.nature.com/articles/d41586-021-03499-y?code=b17f9aab-d5dd-4a67-9622-b8ccfdd47c47&error=cookies_not_supported",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-03499-y/d41586-021-03499-y_19875776.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T03:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1027,49 +1113,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-23-artificial-intelligence-powers-protein-folding-predictions.md",
-      "title": "Artificial intelligence powers protein-folding predictions",
-      "excerpt": "The buzz over the November 2020 debut of AlphaFold2, Google DeepMind’s artificial-intelligence (AI) system for predicting the 3D structure of proteins, has only intensified since the tool was ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-03499-y?amp;amp",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-03499-y?amp;amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-03499-y/d41586-021-03499-y_19875776.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-23-kids-dont-try-this-at-home-robot-destroys-mankind.md",
       "title": "Kids! Don’t Try This At Home! Robot Destroys Mankind",
       "excerpt": "Keep in mind, I’m interpreting their comments as saying (essentially): “Soon machines will think and then they will out-think us and be impossible to control.” It is easy to imagine ...",
@@ -1109,40 +1152,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-stocks-to-buy-now.md",
-      "title": "Stocks to Buy Now",
-      "excerpt": "It even has an artificial intelligence engine called Koa that ... Nvidia has more employees working on driverless cars than Alphabet's Waymo, an actual driverless car project.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=bhogge%40live.com&email=bhogge%40live.com&moneymorning_subscribe=complete",
-      "originalUrl": "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=bhogge%40live.com&email=bhogge%40live.com&moneymorning_subscribe=complete",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-30-cnvrgio-develops-on-demand-service-to-run-ai-workloads-across-infrastructures.md",
+      "title": "Cnvrg.io develops on-demand service to run AI workloads across infrastructures",
+      "excerpt": "Cnvrg.io has launched a Metacloud service to help AI developers run their workloads across any mainstream infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/",
+      "originalUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/istock-636754212-e1629925759866.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/29/cnvrg-io-develops-service-to-run-ai-workloads-across-infrastructures/amp/",
+      "publishedDateTime": "2021-10-29T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-slashnext-which-uses-ai-to-combat-phishing-raises-26m.md",
       "title": "SlashNext, which uses AI to combat phishing, raises $26M",
       "excerpt": "“Our technology has logged more than 2.5 million [phishing] threats hiding in legitimate infrastructures like Amazon Web Services, Outlook, Sharepoint, and Microsoft Azure. [SlashNext’s AI ...",
@@ -1327,49 +1379,6 @@
       "provider": {
         "name": "Le Lézard",
         "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-happiest-minds-included-in-now-tech-robotic-process-automation-services-analyst-report.md",
-      "title": "Happiest Minds included in Now Tech: Robotic Process Automation Services analyst report",
-      "excerpt": "Born Agile', Mindful IT Company, today announced being included in the Forrester Now Tech: Robotic Process Automation Services ... Tibco and RPA products of Microsoft, UiPath, Blueprism ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/happiest-minds-included-in--now-tech-robotic-process-automation-services-analyst-report-301403108.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/happiest-minds-included-in--now-tech-robotic-process-automation-services-analyst-report-301403108.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1327416/Happiest_Minds_Logo.jpg?p=facebook",
-          "width": 1497,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

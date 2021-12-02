@@ -2,6 +2,126 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-15-this-invisible-ai-powered-keyboard-used-an-nvidia-gtx-1080-ti-to-help-you-type-faster-on-a-smartphone.md",
+      "title": "This invisible AI-powered keyboard used an NVIDIA GTX 1080 Ti to help you type faster on a smartphone",
+      "excerpt": "A group of South Korean researchers have developed the Invisible Mobile Keyboard, letting you type into your smartphone without needing an on-screen keyboard.",
+      "sourceUrl": null,
+      "webUrl": "https://soyacincau.com/2021/09/15/this-invisible-ai-powered-keyboard-used-an-nvidia-gtx-1080-ti-to-help-you-type-faster-on-a-smartphone/",
+      "originalUrl": "https://soyacincau.com/2021/09/15/this-invisible-ai-powered-keyboard-used-an-nvidia-gtx-1080-ti-to-help-you-type-faster-on-a-smartphone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://soyacincau.com/wp-content/uploads/2021/09/210909-gtx-1080-ti.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SoyaCincau",
+        "domain": "soyacincau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-all-change-founders-out-and-new-ceo-in-at-gpu-based-storage-array-control-biz-nyriad.md",
+      "title": "All change: founders out and new CEO in at GPU-based storage array control biz Nyriad",
+      "excerpt": "New Zealand-based Nyriad has had a makeover, with the founders out, new chairman, new funding, new CEO, exec hires, and a relocation to the USA. Back in 2014 CEO Matthew Simmons and CTO Alex St John co-founded Nyriad and devised a different way to build a storage controller designed to cope with exabyte levels of",
+      "sourceUrl": null,
+      "webUrl": "https://blocksandfiles.com/2021/09/14/all-change-new-ceo-and-founders-out-at-gpu-based-storage-array-control-biz-nyriad/",
+      "originalUrl": "https://blocksandfiles.com/2021/09/14/all-change-new-ceo-and-founders-out-at-gpu-based-storage-array-control-biz-nyriad/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blocksandfiles.com/wp-content/uploads/2021/09/ronnie_barker_1.jpg",
+          "width": 648,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "blocksandfiles",
+        "domain": "blocksandfiles.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market.md",
+      "title": "NeuReality collaborates with Xilinx to deliver NeuReality's novel AI-centric server to the market",
+      "excerpt": "NeuReality, an Israeli AI startup developing high performance AI compute platforms for cloud data centers and edge nodes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n22933078/neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n22933078/neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-gpu-as-a-service-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025.md",
       "title": "GPU as a Service Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025",
       "excerpt": "A comprehensive research study on GPU as a Service market added on Market Study Report provides insights into the market size and growth trends of this industry over the forecast timeline. The study evaluates key aspects of GPU as a Service market in terms of the demand landscape,",

@@ -39,7 +39,7 @@ related:
     provider:
       name: The Next Web
       domain: thenextweb.com
-    quality: 66
+    quality: 68
     images:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-3-1.jpg&signature=196efe9508285abc0c8bab5b6653929b"
         width: 1280
@@ -74,6 +74,6 @@ related:
         height: 960
         isCached: true
 
-secured: "g369jMOtm3WJOfbUbkmtJWtKqas51GBjaR9rtiq9LBpFExgTryLInd513ISlVirfi04w9+7wPCRRxzVfHi+9hlyybvV5E+ybC42GMVroz7mNJznuhuWthxWEHrDrN1lTwKRu1wscujAnjvjG+k5xb8qzQ0noOGocouau1YG1YJSRxpW07FFgd/xjTA82KIr2sr5pUfzo571RJ3HPIP6Ptslyo0kTxbGOKxgM7OxTjzVzfmFL1NQtP1okJv4z+dNFEGSb2mlHr7q77RBX4gVoDwH4Pcq2dcZVt67XyfNaac6ygD/Plw7ZdGehNSL/mf8ZDK2foz61iRbLx4kmqFHdkxvE4K0kZii6OjP+bfrqB6Y=;WcmXEHdRuNdARZWiWoIEeQ=="
+secured: "XpSbhbqJp79CZBsqOOl882MkXS4odtfdHrnlEHH7vE++XVN2saQKva/lGxs7fnoMQxToc9VbNZyVztEL9KUvom8bAyYUSw+M0gw9eITBiFLd/T3iDeH1B4vR0DYV8wS5DIC/CwAhn6a1eS+lk2PenD4LNZhltNZ7mbchpPG7c+bj2WF9FSL+yA/RNW0jpPPUaJ5kyG1bq3YIQwDFX+fD4bfEOWOf62T9xl49EYGs/R+c81KJeEqosExtvaREsg84lv6ji7n0pHQpBdkFoR2/Vn0OePvCPQiE13A/LrR0DmGBA2q1u9zp3KRyl4EZeGC4FP01eLXEMu5liNkDY42yfoSk6t3t7xmnb0r9iodBdx4z3VaLdVKvReiMB6cJYpHNyBIchIs149P86VSM4KxK1bIYMTrvi+/35u1bcn1zqQzup7ncMFHWwbrKGyuHTQp14v3JZ0JdeU+ug/TuIu1Z3ezJqoalyJCklBrEn3lMTWa2ppQoPyC711H7DR4sOCJNMpokjPRJYQGr/F70Tv6J0Q==;K4ltb1oYdJ1hNV04G0IY/A=="
 ---
 
