@@ -2,28 +2,23 @@
 category: news
 title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
-publishedDateTime: 2021-12-02T01:59:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-web-services-education-ffa801fcb7634e1aaf7bd9d58db2d071"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-web-services-education-ffa801fcb7634e1aaf7bd9d58db2d071"
+publishedDateTime: 2021-12-01T18:34:00Z
+originalUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
+webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
 type: article
-quality: 53
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - AWS AI
 
 related:
   - title: "Machine learning to make sign language more accessible"
@@ -43,6 +38,6 @@ related:
         height: 634
         isCached: true
 
-secured: "CLCYyDdEFzSgQLjijqiu9j5vKz1rlnylGFfExx4lE/KypDJIDzO5uG3DRiqDCufesItlWbKVk1UqABiC8FvCMnV2WFXLyDdcpfx/c4lB0NHNKBPoo4c70Z5MIF4h3mFD9MJAS0jIHcCu72QQD4zdfioXwWYlB9q+Ujc6HGJIk4SiIv+UgeoifQtlcSSIzMNzOI8jsG/KccM34qan7qgkOviazBMISQ14bXioTclLyebEXywBj4Pv0IusjIalQzE8FzxEYVU53EWbN1HCGzPR7FaLpE5Jl1hqBX2jFkg4vLeHQVtGKw4kuVz5tJUwv2GmOyhyHImP2X/ULbCFiB6BZZ1KgiPt5bkraD5JtEfik9M=;Pv+2yr3WYJ2B2A5KSJWrZA=="
+secured: "H/TLJJkCaR9BlJfGtBerQKrFkYdpcRmQ1CVd65NEaksjxH/T07eWD3RzoVdzTXu+9v8U+EYhcs6ZrnFXBy/tQa7ahI76+HBJTZuRJaw+FAe6Zam0DN1+I0Mt6vEKNehWoxaOqnzXbLJrXnqwDfB0OuPBSzfoCKbii1ZQ6b7fzJVmqQYxtKYPt41CcJo/QzvFDngI3TbyJKH3Aaki6a9wUdTZelYk0Eudqke/qFb3dgWd5kvcQAzKRuSSPduwPElwl7iTgMEpb2JL65OhAnp7B33JHdsgz7DhniD4aWJ2pDcF31MMa7VPvKXW0ZIFjO6GM+333zFNpITJo2lJsVcdUeOPeXovUSyY3VuC0y0H65E=;y65zFYYNs4Jso7h6gs7vRg=="
 ---
 

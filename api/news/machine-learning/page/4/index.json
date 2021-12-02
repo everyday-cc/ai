@@ -2,6 +2,149 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-08-interesting-ai-ml-nlp-applications-in-finance-and-insurance.md",
+      "title": "Interesting AI, ML, NLP Applications in Finance and Insurance",
+      "excerpt": "Many blogs address the effect of AI in the financial and insurance industries, but many of them focus on far-fetched AI and machine learning concepts that have yet to be proven or implemented in either.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-in-finance-and-insurance/",
+      "originalUrl": "https://analyticsindiamag.com/interesting-ai-ml-nlp-applications-in-finance-and-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/08/Learning_AIM.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T02:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-h2oai-secures-100m-lands-partnership-with-australian-bank.md",
+      "title": "H2O.ai secures $100M, lands partnership with Australian bank",
+      "excerpt": "H2O.ai, an AI development platform, has raised a fresh $100 million, bringing its total to over $250 million at a $1.6 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/",
+      "originalUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/amp/",
+      "publishedDateTime": "2021-11-07T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-seeq-announces-expanded-microsoft-azure-machine-learning-support.md",
+      "title": "Seeq Announces Expanded Microsoft Azure Machine Learning Support",
+      "excerpt": "(MENAFN- Mid-East.Info) New Seeq Azure Add-on feature enables rapid deployment of Azure Machine Learning algorithms to frontline plant employees. Seeq Corporation, a leader in manufacturing and ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103115716/Seeq-Announces-Expanded-Microsoft-Azure-Machine-Learning-Support",
+      "originalUrl": "https://menafn.com/1103115716/Seeq-Announces-Expanded-Microsoft-Azure-Machine-Learning-Support",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-11/07/M_f011cimage_story.jpg",
+          "width": 600,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-07T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-07-sber-to-open-rd-centre-in-berlin-to-expand-horizons-in-machine-learning.md",
       "title": "Sber to open R&D centre in Berlin “to expand horizons in machine learning”",
       "excerpt": "Sber, the Russian financial and digital giant, is preparing to open an R&D centre in Berlin — its first one in Western Europe. These plans were",
@@ -1225,147 +1368,6 @@
       "provider": {
         "name": "technologynetworks.com",
         "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-01-machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia.md",
-      "title": "Machine Learning in Retail Market 2021 is Booming Globally with Top Key Players- IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA",
-      "excerpt": "IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA, Google, Sentient Technologies, Salesforce, ViSenze Recently added report provided by QY Reports Machine Learning in Retail Market Presents an Analysis of Market Situation and Challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/",
-      "originalUrl": "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://chipdesignmag.com/wp-content/uploads/2021/10/market-research-1-390x220.jpg",
-          "width": 390,
-          "height": 220,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chip Design",
-        "domain": "chipdesignmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-30-activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons.md",
-      "title": "Activ Surgical harnesses AI and machine learning to collaborate with surgeons",
-      "excerpt": "With machine learning, Activ Surgical's autonomous model can annotate a one-hour surgical video 20,000 times faster than humans can.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/",
-      "originalUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1251551899-e1635530619575.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/amp/",
-      "publishedDateTime": "2021-10-30T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes.md",
-      "title": "tinyML-based machine learning platform helps build AI models in minutes",
-      "excerpt": "Imagimob announced that the new release of its tinyML platform is now available to its customers. The new release focuses on making it easier and faster for developers to build and deploy performance-ready tinyML applications on edge devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eeworldonline.com/tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes/",
-      "originalUrl": "https://www.eeworldonline.com/tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eeworldonline.com/wp-content/uploads/2021/10/Capture-2-1.png",
-          "width": 862,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eeworldonline.com",
-        "domain": "eeworldonline.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,147 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-01-machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia.md",
+      "title": "Machine Learning in Retail Market 2021 is Booming Globally with Top Key Players- IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA",
+      "excerpt": "IBM, Microsoft, Amazon Web Services, Oracle, SAP, Intel, NVIDIA, Google, Sentient Technologies, Salesforce, ViSenze Recently added report provided by QY Reports Machine Learning in Retail Market Presents an Analysis of Market Situation and Challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/",
+      "originalUrl": "https://chipdesignmag.com/machine-learning-in-retail-market-2021-is-booming-globally-with-top-key-players-ibm-microsoft-amazon-web-services-oracle-sap-intel-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://chipdesignmag.com/wp-content/uploads/2021/10/market-research-1-390x220.jpg",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T00:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chip Design",
+        "domain": "chipdesignmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons.md",
+      "title": "Activ Surgical harnesses AI and machine learning to collaborate with surgeons",
+      "excerpt": "With machine learning, Activ Surgical's autonomous model can annotate a one-hour surgical video 20,000 times faster than humans can.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/",
+      "originalUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1251551899-e1635530619575.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/30/activ-surgical-harnesses-ai-and-machine-learning-to-collaborate-with-surgeons/amp/",
+      "publishedDateTime": "2021-10-30T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes.md",
+      "title": "tinyML-based machine learning platform helps build AI models in minutes",
+      "excerpt": "Imagimob announced that the new release of its tinyML platform is now available to its customers. The new release focuses on making it easier and faster for developers to build and deploy performance-ready tinyML applications on edge devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eeworldonline.com/tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes/",
+      "originalUrl": "https://www.eeworldonline.com/tinyml-based-machine-learning-platform-helps-build-ai-models-in-minutes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eeworldonline.com/wp-content/uploads/2021/10/Capture-2-1.png",
+          "width": 862,
+          "height": 514,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T16:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeworldonline.com",
+        "domain": "eeworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai.md",
       "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
       "excerpt": "Having an AI Risk Management Playbook and a list of best practices can help AI projects in the federal government achieve success.",
@@ -1232,137 +1373,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-machine-learning-tackling-the-big-in-big-data.md",
-      "title": "Machine learning: Tackling the ‘big’ in Big Data",
-      "excerpt": "“These sort of cognitive services lower the cost and complexity ... or that can afford to hire a team of data scientists, according to Microsoft’s Olson. But with data becoming a competitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/machine-learning-tackling-big-big-data/",
-      "originalUrl": "https://sdtimes.com/ai/machine-learning-tackling-big-big-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2016/10/machineLearn.jpg",
-          "width": 490,
-          "height": 276,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain.md",
-      "title": "Researchers Use Artificial Intelligence Supported Neural Networks To Reason Like The Human Brain",
-      "excerpt": "A neural network, a series of algorithms that strives to recognize underlying relationships in a set of given data with",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/",
-      "originalUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/10/Researchers-Uses-Artificial-Intelligence-Supported-Neural-Networks.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/?amp=1",
-      "publishedDateTime": "2021-10-24T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-is-data-a-differentiator-for-your-business-if-so-traditional-ocr-cannot-be-an-answer.md",
-      "title": "Is Data a Differentiator for Your Business? If So, Traditional OCR Cannot Be An Answer",
-      "excerpt": "In this contributed article, Ankur Goyal, CEO and co-founder of Impira, discusses how to make the most of your OCR investment with AutoML. Automated Machine Learning is a nascent AI technology that exposes the power of machine learning (ML) to a much broader audience than data scientists and technologists.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2021/10/22/is-data-a-differentiator-for-your-business-if-so-traditional-ocr-cannot-be-an-answer/",
-      "originalUrl": "https://insidebigdata.com/2021/10/22/is-data-a-differentiator-for-your-business-if-so-traditional-ocr-cannot-be-an-answer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-23T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

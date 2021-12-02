@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20138117.html"
 webUrl: "https://www.lelezard.com/en/news-20138117.html"
 type: article
 quality: 13
-heat: 13
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "CrowdStrike Earns Highest Rating in October 2021 Gartner Peer Insights ‘Voice of the Customer’ for Endpoint Protection Platforms Report"
-    excerpt: "CrowdStrike Inc., a leader in cloud-delivered endpoint protection and workload protection, today announced that for the third year in a row, it has be"
-    publishedDateTime: 2021-12-01T21:32:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201006192/en/CrowdStrike-Earns-Highest-Rating-in-October-2021-Gartner-Peer-Insights-‘Voice-of-the-Customer’-for-Endpoint-Protection-Platforms-Report"
+  - title: "PredictHQ Named a 2021 Gartner® Cool Vendor in 'Data for Artificial Intelligence and Machine Learning' Report"
+    excerpt: "PredictHQ, the demand intelligence company, today announced it has been recognized as a 2021 Cool Vendor in the \"Data for Artificial Intelligence and Machine Learning\" Gartner Cool Vendors™ report by Afraz Jaffri,"
+    publishedDateTime: 2021-12-02T20:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/predicthq-named-a-2021-gartner-cool-vendor-in-data-for-artificial-intelligence-and-machine-learning-report-1031021250"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "Alida Named a Visionary in 2021 Gartner® Magic Quadrant™ for Voice of the Customer Solutions"
     excerpt: "Alida, a leader in Total Experience Management (TXM), today announced it has been named a Visionary in the 2021 Gartner Magic Quadrant for Voice of th"
     publishedDateTime: 2021-12-02T16:30:00Z

@@ -42,6 +42,22 @@ related:
         width: 1000
         height: 579
         isCached: true
+  - title: "Public relations practitioners' AI knowledge is limited, but they are aware of AI's potential"
+    excerpt: "A new research report from the Chartered Institute of Public Relations' AIinPR Panel, which has been co-authored by the University's Emeritus Professor of Corporate Communication Anne Gregory, has found that practitioners see the huge potential that artificial intelligence (AI) and Big Data offers the profession but possess limited knowledge on technical aspects of both."
+    publishedDateTime: 2021-12-02T19:52:00Z
+    webUrl: "https://phys.org/news/2021-12-practitioners-ai-knowledge-limited-aware.html"
+    ampWebUrl: "https://phys.org/news/2021-12-practitioners-ai-knowledge-limited-aware.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-practitioners-ai-knowledge-limited-aware.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-ai.jpg"
+        width: 1920
+        height: 1324
+        isCached: true
   - title: "Agnisys Announces Availability of AI-Based Approach for Specification of Assertions and FPGA Support"
     excerpt: "Agnisys, Inc.®, the leading EDA provider of the industry's most comprehensive solution for Design and Verification of SoC Hardware/Software Interface (HSI), today announced availability of a unique AI-based approach for specification of assertions and a new product to support FPGA development."
     publishedDateTime: 2021-12-02T13:45:00Z

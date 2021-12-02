@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 2400
     height: 1601
     isCached: true
+
+related:
+  - title: "Bond needs more than Q in AI age"
+    excerpt: "It sounds like an analogue James Bond needs more powerful weapons from gadget provider Q, but Moore said the way forward was “pursuing partnerships with the tech community to help develop world-class technologies to solve our biggest mission problems”."
+    publishedDateTime: 2021-12-02T20:22:00Z
+    webUrl: "https://www.ft.com/content/88b073ac-2426-41c2-ab01-c7938c93d313"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
 
 secured: "6oT3hgvpTubS5nlR6f5oFbnxNLh5/3wlQKWBriEq7BRW+wZ1WvY/7sEQMO2opGQjdf/8tN+02NMhu8JOCD8qfg7mrDG2EroqO5a52Zs/VZWYGy6V/ySVPhO2AdXgcHO5B+fzhngN64Ie86sxCIiYu70yxH83I/LFSJoAUzKmYG0gWcSOnXCzhkPHYgIcElyPGzRERF7Ft55wekpsRiDWXtpQd5rJ4JcelzBSccp2o8kg70g2uqXwl3P+UFdkDi1qAhMSwNvzaDTDDZ4gQc7IKESmlJOyM9R/CEv4kMjX2J5YgtVFeGUyS4VyAzIuYRKbk0ZkqhGvqlbuGCeJ2iJwHrN+jzvgn/iaLomF8Ycx0jWazy+IHE+OmFuOV1QNglBVpdX2oyyL99GA9NHwLvZ3VopRPpH0G66gda9/x/c8iCq7VH3EgJ3LcaOYKQ8zzarRrP63JwQLfhe9CPA1L/1EpdBD/ORWoaqCPguu+jaGKIiGWkxKJWvsSuTaArzPo0SfXG/4WU+koioZyEjF0TKSNw==;RjNvlfgUDX+5ciqrTbxeaA=="
 ---

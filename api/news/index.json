@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-03-aws-brings-no-code-to-amazon-sagemaker-machine-learning.md",
+      "title": "AWS brings no-code to Amazon SageMaker machine learning",
+      "excerpt": "Amazon SageMaker Canvas provides a visual interface for preparing data and training models, no programming or machine learning expertise required.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 281,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyimages-1206796363_2400x1600-100858181-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html",
+      "publishedDateTime": "2021-12-02T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-after-being-pushed-out-of-google-timnit-gebru-forms-her-own-ai-research-institute-dair.md",
+      "title": "After being pushed out of Google, Timnit Gebru forms her own AI research institute: DAIR",
+      "excerpt": "Timnit Gebru, one of the leaders of Google’s ethics in AI team and one of the foremost experts in that topic, was fired after sending an email of concern to her team. Now she has set up shop herself with a brand new research institute,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/",
+      "originalUrl": "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1028811892.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/amp/",
+      "publishedDateTime": "2021-12-02T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation.md",
+      "title": "The New Self-Labeling AI Has Brought Tesla Closer To Level-3 Automation",
+      "excerpt": "Advertisement Tesla’s head of artificial intelligence has revealed new footage showing its auto labelling tool for its self-driving initiative. It’s believed to provide a significant boost to Tesla’s Full Self-Driving Beta.",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/",
+      "originalUrl": "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/newsimage336112.jpg",
+          "width": 595,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/",
+      "publishedDateTime": "2021-12-02T10:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-artificial-intelligence-ai-to-detect-signs-of-anxiety.md",
       "title": "Artificial Intelligence (AI) to Detect Signs of Anxiety",
       "excerpt": "Artificial intelligence (AI) has been used to detect behavioral signs of anxiety with more than 90% accuracy, reveled researchers.",
@@ -156,7 +304,7 @@
       "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -492,7 +640,7 @@
       "originalUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -770,57 +918,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-prostate-cancer-ai-pathologist-used-to-help-diagnosis.md",
-      "title": "Prostate cancer: AI pathologist used to help diagnosis",
-      "excerpt": "Artificial intelligence could improve cancer diagnosis and help save lives, a senior doctor has claimed. Betsi Cadwaladr University Health Board has rolled out an \"AI pathologist\" to help test men for prostate cancer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-59491186",
-      "originalUrl": "https://www.bbc.com/news/uk-wales-59491186",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/12AAE/production/_121926467_ibexaiinaction.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T01:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022.md",
       "title": "Govt to introduce facial recognition technology at airports by March 2022",
       "excerpt": "Minister of State for Civil Aviation Ministry General V K Singh (retd) said AAI is working on a project of FRT-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports.",
@@ -829,7 +926,7 @@
       "originalUrl": "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022-11638434344157.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 233,
+      "heat": 253,
       "tags": null,
       "images": [
         {
@@ -861,6 +958,102 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning.md",
+      "title": "Dataiku releases new version of unified AI platform for machine learning",
+      "excerpt": "While trying to make data scientists more effective, Dataiku’s AI platform also provides no-code GUIs for data prep and AutoML capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash-e1638387079382.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/amp/",
+      "publishedDateTime": "2021-12-01T20:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-ai-chief-highlights-continued-evolution-of-its-big-bet-on-machine-learning.md",
+      "title": "AWS’ AI chief highlights continued evolution of its big bet on machine learning",
+      "excerpt": "AI, and the company showed every intention of getting its money’s worth from the investment during a string of new product announcements today at AWS’ re:Invent conference in Las Vegas. Following a keynote from Chief Executive Adam Selipsky on Tuesday where the company announced innovations such as a new processor for deep learning workloads and a no-code machine learning development tool called SageMaker Canvas,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/12/01/swami-sivasubramanians-keynote-highlights-continued-evolution-aws-big-bet-machine-intelligence/",
+      "originalUrl": "https://siliconangle.com/2021/12/01/swami-sivasubramanians-keynote-highlights-continued-evolution-aws-big-bet-machine-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/swami-reinvent2021-1-1.jpg",
+          "width": 4855,
+          "height": 3182,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T17:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -1009,205 +1202,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-meeting-expectations-a-key-focus-for-aws-in-machine-learningai-keynote-at-reinvent.md",
-      "title": "Meeting expectations a key focus for AWS in machine learning/AI keynote at re:Invent",
-      "excerpt": "Invent 2021 kicked off with a two-hour presentation on the company’s initiatives in machine learning and artificial intelligence. In typical style for the public cloud giant, the approach taken by presenting executives was to level-set customer expectations and then show precisely how Amazon Web Services Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/12/01/meeting-expectations-key-focus-aws-machine-learning-ai-keynote-reinvent-reinvent/",
-      "originalUrl": "https://siliconangle.com/2021/12/01/meeting-expectations-key-focus-aws-machine-learning-ai-keynote-reinvent-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/AWS-reInvent-2021-Keynote-Day-3.jpg",
-          "width": 833,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-reimagining-your-customer-experience-with-conversational-ai.md",
-      "title": "Reimagining Your Customer Experience With Conversational AI",
-      "excerpt": "That needn’t be the case: it’s time for organizations to reevaluate the role of conversational AI in customer experiences. In many cases, it’s already become obvious that simple speech can replace high-friction processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a7ff3b1e9bfe123b852719%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1578%26cropY1%3D0%26cropY2%3D887",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/amp/",
-      "publishedDateTime": "2021-12-01T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment.md",
-      "title": "How much can we trust AI? How to build confidence before large-scale deployment",
-      "excerpt": "Organizations must still build trust in AI before they deploy it throughout the organization. Here are some simple steps to make AI more dependable and ethical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "originalUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "publishedDateTime": "2021-12-01T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-full-self-driving-diary-a-longtime-tesla-drivers-perspective-on-fsd-beta.md",
-      "title": "Full Self-Driving Diary: A longtime Tesla driver’s perspective on FSD beta",
-      "excerpt": "After a month of safe and cautious driving, I finally achieved a Safety Score of 99 last week, and shortly thereafter, I was granted access to the Full Self-Driving Beta for my 2021 Model Y. The experience with the FSD Beta over the last seven days has made a few things clear: it’s very much",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/",
-      "originalUrl": "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/",
-      "publishedDateTime": "2021-12-01T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

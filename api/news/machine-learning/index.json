@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-03-aws-brings-no-code-to-amazon-sagemaker-machine-learning.md",
+      "title": "AWS brings no-code to Amazon SageMaker machine learning",
+      "excerpt": "Amazon SageMaker Canvas provides a visual interface for preparing data and training models, no programming or machine learning expertise required.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 281,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyimages-1206796363_2400x1600-100858181-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html",
+      "publishedDateTime": "2021-12-02T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters.md",
       "title": "Radium looks to speed up AI and ML jobs in cloud datacenters",
       "excerpt": "Radium, which uses AI and machine learning to accelerate cloud hardware, is deploying its solutions to cloud datacenters run by Cyxtera.",
@@ -51,6 +104,102 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning.md",
+      "title": "Dataiku releases new version of unified AI platform for machine learning",
+      "excerpt": "While trying to make data scientists more effective, Dataiku’s AI platform also provides no-code GUIs for data prep and AutoML capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash-e1638387079382.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/amp/",
+      "publishedDateTime": "2021-12-01T20:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-ai-chief-highlights-continued-evolution-of-its-big-bet-on-machine-learning.md",
+      "title": "AWS’ AI chief highlights continued evolution of its big bet on machine learning",
+      "excerpt": "AI, and the company showed every intention of getting its money’s worth from the investment during a string of new product announcements today at AWS’ re:Invent conference in Las Vegas. Following a keynote from Chief Executive Adam Selipsky on Tuesday where the company announced innovations such as a new processor for deep learning workloads and a no-code machine learning development tool called SageMaker Canvas,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/12/01/swami-sivasubramanians-keynote-highlights-continued-evolution-aws-big-bet-machine-intelligence/",
+      "originalUrl": "https://siliconangle.com/2021/12/01/swami-sivasubramanians-keynote-highlights-continued-evolution-aws-big-bet-machine-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/swami-reinvent2021-1-1.jpg",
+          "width": 4855,
+          "height": 3182,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T17:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -138,6 +287,59 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning.md",
+      "title": "AWS wants to make it easier to get to grips with machine learning",
+      "excerpt": "Getting to grips with Machine Learning (ML) technology could soon be much easier thanks to a new service from Amazon Web Services. The company has launched Amazon SageMaker Studio Lab, a free, no-configuration version of its SageMaker program that lets ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
+      "originalUrl": "https://www.techradar.com/uk/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/44N2dMX6W8iN7QUNtgTKWM-1200-80.jpg",
+          "width": 970,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
+      "publishedDateTime": "2021-12-01T12:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -238,59 +440,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier.md",
-      "title": "AWS launches new SageMaker features to make scaling machine learning easier",
-      "excerpt": "Invent conference, AWS today rolled out a slew of new features for SageMaker, the company’s managed service for building, training and deploying machine learning (ML) models. Swami Sivasubramanian, the vice president of machine learning at Amazon,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/",
-      "originalUrl": "https://techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 289,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/aws-conference-header.png?w=1024",
-          "width": 1022,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/amp/",
-      "publishedDateTime": "2021-12-01T11:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-aws-announces-free-machine-learning-educational-materials-and-training-resources.md",
       "title": "AWS announces free machine learning educational materials and training resources",
       "excerpt": "says it’s trying to break down accessibility barriers around machine learning technology and make it possible for anyone who’s interested to become an",
@@ -299,7 +448,7 @@
       "originalUrl": "https://siliconangle.com/2021/12/01/aws-announces-free-machine-learning-educational-materials-training-resources/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -676,7 +825,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1295,127 +1444,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-new-deep-learning-method-adds-301-planets-to-keplers-total-count.md",
-      "title": "New deep learning method adds 301 planets to Kepler's total count",
-      "excerpt": "Scientists recently added a whopping 301 newly validated exoplanets to the total exoplanet tally. The throng of planets is the latest to join the 4,569 already validated planets orbiting a multitude of distant stars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpl.nasa.gov/news/new-deep-learning-method-adds-301-planets-to-keplers-total-count",
-      "originalUrl": "https://phys.org/news/2021-11-deep-method-planets-kepler-total.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-fighting-blood-diseases-with-artificial-intelligence.md",
-      "title": "Fighting blood diseases with artificial intelligence",
-      "excerpt": "Every day, cytologists around the world use optical microscopes to analyze and classify samples of bone marrow cells thousands of times. This method to diagnose blood diseases was established more than 150 years ago,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/fighting-blood-disease.jpg",
-          "width": 1300,
-          "height": 1300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.amp",
-      "publishedDateTime": "2021-11-22T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-ai-combines-advanced-ability-to-learn-patterns-using-traditional-machine-learning.md",
-      "title": "AI Combines Advanced Ability to Learn Patterns Using Traditional Machine Learning",
-      "excerpt": "A new research center focusing on next-generation artificial intelligence (AI) technology will create the high-caliber expertise that Australia needs to be competitive in the approaching machine learning-enabled global economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12617",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12617",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12617_16375844573647560.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12617",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12617",
-      "publishedDateTime": "2021-11-22T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -259,6 +259,29 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Mantra Softech joins NIST facial recognition tests for verification and identification"
+    excerpt: "Mantra Softech has participated for the first time in the NIST Face Recognition Vendor Tests (FRVT) 1:1 and 1:N for biometric accuracy."
+    publishedDateTime: 2021-12-02T20:06:00Z
+    webUrl: "https://www.biometricupdate.com/202112/mantra-softech-joins-nist-facial-recognition-tests-for-verification-and-identification"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
+  - title: "Facial recognition technology at 4 airports to be introduced by March next year: Centre"
+    excerpt: "Facial Recognition Technology (FRT) has not yet been introduced at any of the airports in India, replied Minister of State in the Ministry of Civil Aviation General V K Singh (retd) to a question in Lok Sabha on Thursday."
+    publishedDateTime: 2021-12-02T20:50:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20211202/3865969.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 26
   - title: "Three-in-Four Massachusetts Residents See Facial Recognition Technologies as Beneficial"
     excerpt: "Seventy-five percent of Massachusetts residents see the use of facial recognition technologies by law enforcement as appropriate and beneficial, according to new research"
     publishedDateTime: 2021-11-30T13:03:00Z

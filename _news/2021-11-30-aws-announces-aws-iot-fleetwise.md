@@ -44,6 +44,20 @@ related:
         width: 320
         height: 300
         isCached: true
+  - title: "AWS Announces AWS IoT TwinMaker"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS IoT TwinMaker, a new service that makes it faster and easier for developers to create digital twins of real-world systems like buildings,"
+    publishedDateTime: 2021-11-30T17:38:00Z
+    webUrl: "https://www.eagletribune.com/region/aws-announces-aws-iot-twinmaker/article_daf87a52-cb4e-57ab-a868-dff09aacecd1.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "f1vErIjcaARcYmE7CcniOX2xZD9wFOQUQ9xgd5wm93wWQg651xG32quYkXx7S0I8HMgSp0HeRXkZXLXZ04pAB2HKtXcxSjZRcx/tlsUmyeuV3TZhxyK9LBYKuXP9xBSBtZ0i0lCnaolRLShmV9uoRj9c70As7oHG1FIAmGmLhqZrlM3bWWAgrI+CNYotIzOXfYBQqnSpS5l8KyIvt7U5I1QG6ZS2CjdZTIGuxJ3q3v8RHk3RioNDD6D0h39dujfX7Dcd2WjhDZ9G9M+P2HFDc1xNdANiO6JFmEoDEtns7LA/e+3FaWCpK2EgPPd1XQPf7dJV2HAz7Fy1gPtdQQWVRKktAaVLlO15+prcYSHEJ+k=;3vBLmEPZAv+uIprXboGNyA=="
 ---

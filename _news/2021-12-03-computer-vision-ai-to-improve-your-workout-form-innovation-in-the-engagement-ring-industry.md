@@ -9,7 +9,7 @@ ampWebUrl: "https://cheddar.com/media/computer-vision-a-i-to-improve-your-workou
 cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/computer-vision-a-i-to-improve-your-workout-form-innovation-in-the-engagement-ring-industry.amp"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -27,35 +27,23 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence innovation among retail industry companies rebounded in the last quarter"
-    excerpt: "Research and innovation in artificial intelligence in the retail sector has rebounded in the last quarter. The most recent figures show that the number of AI patent applications in the industry stood at 111 in the three months ending September – down from 120 over the same period last year."
-    publishedDateTime: 2021-12-02T12:08:00Z
-    webUrl: "https://www.retail-insight-network.com/features/artificial-intelligence-innovation-among-retail-industry-companies-rebounded-in-the-last-quarter/"
+  - title: "How Computer Vision, A.I. Can Improve Your Workout Form"
+    excerpt: "Mike Telem, Co-Founder at Kemtai, joins Cheddar Innovates to discuss how the platform is using computer vision and artificial intelligence as a virtual personal trainer through a laptop's camera, and how this technology can be adapted for physical therapy."
+    publishedDateTime: 2021-12-02T18:23:00Z
+    webUrl: "https://cheddar.com/media/how-computer-vision-a-i-can-improve-your-workout-form"
+    ampWebUrl: "https://cheddar.com/media/how-computer-vision-a-i-can-improve-your-workout-form.amp"
+    cdnAmpWebUrl: "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/how-computer-vision-a-i-can-improve-your-workout-form.amp"
     type: article
     provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 39
+      name: Cheddar
+      domain: cheddar.com
+    quality: 59
     images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/shutterstock_594560369.jpg"
-        width: 500
-        height: 334
-        isCached: true
-  - title: "Artificial intelligence innovation among automotive industry companies has dropped off in the last year"
-    excerpt: "Research and innovation in artificial intelligence in the automotive manufacturing and supply sector has declined in the last year. The...Read"
-    publishedDateTime: 2021-11-29T12:33:00Z
-    webUrl: "https://www.just-auto.com/news/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-year/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 21
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_518160535.jpg"
-        width: 500
-        height: 273
+      - url: "https://img.chdrstatic.com/media/d0f18561-da2d-4b66-950a-f24311a69a3d.png?width=1200&source=backend&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
 
-secured: "k4Ga2ajVyWmYCjTtxBBQqs9ivXUzFSb7b/apoyVudG5YNFDC3LCmfgaiSoWu1YUrSyoLtEucasxbj7H3RjOiOT11IQconvkE4LaqhsqMvlU7RdzPf4eN87+jy5AuecxN5g6YuBXDzrE7kAcR5TUXUQL853vOFf73oVIy7ZPxsJPmOwFsoZ3x4ZBDUnTAF86F1yGv+hmJhozpTyUTgo58cRli3EFBNtK4WkpzsLTYcgw0uRPs+tBm/KBr2E8YQr4CNNMUVLR2BAzUfApUCE86Pb5jHibuKR7u6YMRinC5vq3jbQgZJsfNfOqFM8qhyr4bTW4CrUBUUck3jh8v96UMAVyTKPhmc86R8vrHL8SYCfE=;WwXW683hnEGPqQzCM01lyw=="
+secured: "/OCmJNs799fGUZKBxW/InGfq4HzLKAaMvxjrmWrJ2X7r0NwbRIghy2J3dSiItkqfgqgJi4uz3vxShK3Yqf2YXMzYs3XnDHpBEIpGa2lvlwAtqARXjl+wnPqlvKRE1+0SMQxEUYacWiKo07Wt5JUQhciMjTRvM6lG2dbSRwusnTSZEHUcqKc788MM+eeCCGfl1f8TPc3xcruLBdRgREX+GRSDhB8RVE9BNouStidsrx+Bzco3rRqBfQS2lyva0DAUkIIsWmk9XkiR3R4vX58bSrgU8bIzuOy4oiIWDWFyG9e2b3N05OT3Kw8B5VTolDhUm/t2PFWAwt49y3NSUV67zLs4+x/3MQ4oSqJE1D6pcWCI+kNTf7jHcMsSIH0KtGzLgjkp7rodWYauoT3d3zl2kucgiTsoyiZ6k7uUbz6e3b6Dpi5VwpHcWHUI80+XtGJRfXrwCjbQ4Vwa564l0gyLbKqmjCmm9qNGb0ANWVA0MC2KcXJpZlzNe3W0T8Z40lqcGRzUCjTA5frD2IrnfuGzeQ==;PSZ2M4+PexOL9RPMbCR+8Q=="
 ---
 

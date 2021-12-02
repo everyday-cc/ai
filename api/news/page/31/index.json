@@ -2,6 +2,195 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-11-08-artificial-intelligence-is-still-no-match-for-us.md",
+      "title": "Artificial Intelligence Is Still No Match for Us",
+      "excerpt": "Scientists misunderstand human reason and an AI system fails the Turing test.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-427090/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-ai-gpt-3-turing-test-reason-science-technology-11636144673",
+      "publishedDateTime": "2021-11-07T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-metas-face-recognition-ai-may-yet-metastasize.md",
+      "title": "Meta’s face recognition AI may yet metastasize",
+      "excerpt": "Facebook said it would drop this tool and delete a billion-plus face templates, but it looks integral to its parent company’s metaverse ambitions. This makes privacy regulation a must",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html",
+      "originalUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/11/07/600x338/edit_1636303267610_1636303286718.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html",
+      "publishedDateTime": "2021-11-07T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars.md",
+      "title": "Colorado Bear Busts In And Finally Sort Of Busts Out Of A Car, Providing Bearish Lessons For AI Self-Driving Cars",
+      "excerpt": "Bears are smart enough to try and find food inside of cars, which brings up considerations for AI ... [+] self-driving cars. Get ready for a bit of a surprise. Imagine that you’ve driven up to the mountains to enjoy some fresh air and are relishing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613e7aa68eb80aa61d6a1636%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3403%26cropY1%3D24%26cropY2%3D2555",
+          "width": 1200,
+          "height": 893,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-11-07T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-07-alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs.md",
+      "title": "Alphabet Chases Wonder Drugs With DeepMind AI Spinoff Isomorphic Labs",
+      "excerpt": "After DeepMind's breakthrough in protein folding last year, Alphabet will double down on artificial intelligence in biology and health with its new venture.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/",
+      "originalUrl": "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/11/pills-rows-yellow-background-1-1.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/",
+      "publishedDateTime": "2021-11-07T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-07-first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai.md",
       "title": "First Artificial Intelligence-based driver evaluation hub launched in Dubai",
       "excerpt": "Dubai: An Artificial Intelligence-based driving hub is opening its doors in Dubai with an aim to cut accident risks and improve drivers’ skills. Starting November 15, a private driving institute in Dubai will make use of the Artificial Intelligence (AI)-based driver evaluation hub,",
@@ -964,182 +1153,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-seeq-announces-expanded-microsoft-azure-machine-learning-support.md",
-      "title": "Seeq Announces Expanded Microsoft Azure Machine Learning Support",
-      "excerpt": "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things advanced analytics software, announced today additional integration support for Microsoft Azure Machine Learning. This new Seeq Azure Add-on, announced at Microsoft Ignite 2021 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.automationworld.com/supplier-news/news/21809180/seeq-seeq-announces-expanded-microsoft-azure-machine-learning-support",
-      "originalUrl": "https://www.automationworld.com/supplier-news/news/21809180/seeq-seeq-announces-expanded-microsoft-azure-machine-learning-support",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2021/11/Seeq_Azure_Add_On_press_release_image.6184150d0c127.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T18:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation World",
-        "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-google-nest-cam-indoor-wired-review-the-best-nest-yet.md",
-      "title": "Google Nest Cam (indoor, wired) review: The best Nest yet",
-      "excerpt": "It's also the smartest. With on-device machine learning for specific object recognition, sound recognition and some free video history, there's a lot to like. The price is high and other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/security/google-nest-cam-wired-indoor-review-the-best-nest-yet/",
-      "originalUrl": "https://www.cnet.com/home/security/google-nest-cam-wired-indoor-review-the-best-nest-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/vI1aDyJSJSO-9QeNjcyWcCmoJr0=/1200x630/2021/10/06/5083f7e3-e1fd-49f8-a75b-8e026597c9b8/20211006-130938.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-nest-cam-wired-indoor-review-the-best-nest-yet/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-nest-cam-wired-indoor-review-the-best-nest-yet/",
-      "publishedDateTime": "2021-11-05T18:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-castle-biosciences-publishes-decisiondx-melanoma-study-on-the-validation-of-the-i31-gep-slnb-artificial-intelligence-algorithm.md",
-      "title": "Castle Biosciences Publishes DecisionDx®-Melanoma Study on the Validation of the i31-GEP SLNB Artificial Intelligence Algorithm",
-      "excerpt": "Castle announced the publication of a study validating performance of the i31-SLNB algorithm to determine sentinel lymph node biopsy positivity risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm",
-      "originalUrl": "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
-      "title": "AI & ML latest: Google disbands another AI ethics committee",
-      "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computing.co.uk/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "Google AI"
       ]
     }
   ],

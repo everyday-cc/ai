@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 522
         isCached: true
+  - title: "This Russian Company Will Pay You $200,000 To Use Your Face And Voice On Their Robots"
+    excerpt: "Advertisement Promobotis is a Russian robotic company that is offering $200,000 to people in return for the right to use their face and voice on its robots forever. The company is currently developing “a humanoid robot assistant which will work in hotels,"
+    publishedDateTime: 2021-12-02T18:59:00Z
+    webUrl: "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/"
+    ampWebUrl: "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 54
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-Sl7zbvKjbvj7Ba1n.jpg"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "tpY/9FtWzDpgBXRRHDYpBnk3iMAZ/s4H2nReJ+N5IO9Ib9xr5asOt2wyrInssvfIqtFXlR+gcwW2ke0sqKBBJnSvUbWkTyqzyBTT8CgJJsw28gt3d4FlV59/uBFl2HqcVlcxQs63Mj7BvNugD7zixlIVdPjx8zVyQ066oYSe9a0Fpm7/lNW+O+XJSv8n1tqL/K5siZAM8eCfmNqmMLD7EDta+YWu6CDqLXvyTeUpX91qvm5CvgWuTGjwcpJ60nJ4Xr7H3dzdd3WnDcvf38QplJ5cFL0M4L/WXf97p3hWmdYa6aNO2fFLneG5WZuV/9MwfOvtymv91dvQOddf2R9IiKYUS63BjJvchfiyt9txdzda0eg22dpsrEu8lFmU3DV+0u2aVAhbOgQ1eVq+I570p8ehco64V4jPf7+JqUkoi2Tv5yFFJT9PuJ3/9FrxCJffzP8cxbO+/Y+t0tN29pucANy7sRoUSJ3H7w0OLPRxrmKvcC+z5liDjNap7AS7GF+Wl9BV1czZLhkSTCtHXk3MuA==;ptKcVuWNTKl7bsDmRJbaag=="
 ---

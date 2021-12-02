@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-03-the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation.md",
+      "title": "The New Self-Labeling AI Has Brought Tesla Closer To Level-3 Automation",
+      "excerpt": "Advertisement Tesla’s head of artificial intelligence has revealed new footage showing its auto labelling tool for its self-driving initiative. It’s believed to provide a significant boost to Tesla’s Full Self-Driving Beta.",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/",
+      "originalUrl": "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/newsimage336112.jpg",
+          "width": 595,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/",
+      "publishedDateTime": "2021-12-02T10:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-full-self-driving-diary-a-longtime-tesla-drivers-perspective-on-fsd-beta.md",
       "title": "Full Self-Driving Diary: A longtime Tesla driver’s perspective on FSD beta",
       "excerpt": "After a month of safe and cautious driving, I finally achieved a Safety Score of 99 last week, and shortly thereafter, I was granted access to the Full Self-Driving Beta for my 2021 Model Y. The experience with the FSD Beta over the last seven days has made a few things clear: it’s very much",
@@ -470,8 +513,8 @@
       "title": "Artificial Intelligence Ethics Agreement adopted by 193 countries",
       "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
       "sourceUrl": null,
-      "webUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
-      "originalUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
+      "webUrl": "https://www.bna.bh/en/National/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
+      "originalUrl": "https://www.bna.bh/en/National/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -490,7 +533,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T23:07:00-08:00",
+      "publishedDateTime": "2021-11-25T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "bna.bh",
@@ -1345,59 +1388,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire.md",
-      "title": "Two Young Roommates Are Building An Artificial Intelligence Real Estate Empire",
-      "excerpt": "It's amazing to see that the pandemic has created a boom in entrepreneurialism and shown how AI and tech, along with the human touch, can both improve the lives of people and build new innovative businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197b0ddfb2e0726828aedae%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/11/19/two-young-roommates-are-building-an-artificial-intelligence-real-estate-empire/amp/",
-      "publishedDateTime": "2021-11-19T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

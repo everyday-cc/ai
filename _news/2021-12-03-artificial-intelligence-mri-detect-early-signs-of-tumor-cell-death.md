@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-02T17:26:00Z
 originalUrl: "https://healthitanalytics.com/news/artificial-intelligence-mri-detect-early-signs-of-tumor-cell-death"
 webUrl: "https://healthitanalytics.com/news/artificial-intelligence-mri-detect-early-signs-of-tumor-cell-death"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://healthitanalytics.com/images/site/article_headers/_normal/RadiologyAI_Getty.jpg"
@@ -24,6 +25,6 @@ images:
     height: 451
     isCached: true
 
-secured: "KYVjUxBPstK7/3C9vMDKi2wJ7hLnZfP1UQROFAiD0xMZp0o2pNg3MhohH11aijl1lnP4yFcylALte9VZynryeFNL65THF0IcgIbhaT/L0OxoZayhteHZdcpOUJV8b7jIpJdqfDMxQpOjlhuh4DFaC3d2Nmi9krwPyjkqwrnnZLqFLJX4hU5Q4q8OFNvrkW1oHnKD7zwmZvwnrWOF2cMhFd1rq8pSvbhp37vKBLXHbD5YbTB0Fx2HEXXP1hRQdbJ8dAG31SMWwMshR0+CSVpVob4Z2769+hT+Va6slQC6W4PDEbi4PzXcqrIYMU092uY5rn4uf5YdDT7JAdrEobwYHmfq+PfWRBIaF0dKqaFzoUY=;UtnAAyrvMQYOuhcErqXwLg=="
+secured: "aq2TzQbDXE4lxSurZqWSV30mMg1veugats1qJpYTgTxn3fqDeW06/hGUQ5nt9rYfMd3Pj2y6Q/y0eHyKRsHwZipKu6WbKfDX9jWJjpDswguNRVh3md5W1LTBkLLkfVPmNHgvj/PO2IV3rs3ILPDu6kFT3raoNBxZgHtnx1xvY+8ViXvK1IezPRFAK9DgSCYYkvLJ6zzC1rfOFzqYClytJVWz/SBofzL8blyihlvamkXm28Be5ld/HcgI9JM8yjM0WqTNy8xkQ+iWacpBx05UzYflfd5qDT3FhOWnHWWkaArbeDEFjkHQYJJ+BD7KbrUsAgP/OIjRyomUkGVQkkwYXjtolif5wE91rnCXL4XyOijERGVydnGFINIz0DRt2gWRn3OuTbc511tKeYrmpBMDlNRNxlK27h/ZQ6pFHimB4c0Q6fHZWLh5E/C9xx/aFFl8BVXuDllVRACWQ40WOBViOpX2jaTZltibRmQRWIpNS6Of2qHWF3L1Psr7fQNyxTCsfVO/DDJveljRyrhsN/Sf8g==;pzeTCWnPgOTGJr/WkJ100A=="
 ---
 

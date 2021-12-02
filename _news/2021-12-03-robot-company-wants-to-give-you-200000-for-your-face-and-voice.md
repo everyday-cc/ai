@@ -44,6 +44,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "This Russian Company Will Pay You $200,000 To Use Your Face And Voice On Their Robots"
+    excerpt: "Advertisement Promobotis is a Russian robotic company that is offering $200,000 to people in return for the right to use their face and voice on its robots forever. The company is currently developing “a humanoid robot assistant which will work in hotels,"
+    publishedDateTime: 2021-12-02T18:59:00Z
+    webUrl: "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/"
+    ampWebUrl: "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 54
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-Sl7zbvKjbvj7Ba1n.jpg"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Promobot will pay you $200,000 to use your face on its ROBOTS"
     excerpt: "The firm is giving the brave volunteer a whopping £150,000 ($200,000) in exchange for transferring the rights to use their face indefinitely."
     publishedDateTime: 2021-11-28T10:14:00Z
@@ -59,6 +75,6 @@ related:
         height: 424
         isCached: true
 
-secured: "LEEUChunSU52QMOmigDxzztFEf54j1b0paxNBHFA0SRnaTPRbjfBDzUilbKE3/UBTpbRA2sQb9yLnOdXFXO5r2FSRFv/B7t7tVoFplso22w3gy4TpDRs9MJvwMoX3sLUkF9kY/XgARInY3c31KEYJRoLLR7F1wSpG3sMUQjfiOmB6/EnJd3ZRE7VU5npAJ8zLsVWydqSu9Sbwx1PDHeYd3nAepIO/mFi4NiaqTP4QJEvCEgdfmFHU7NPa+bcCZqfVHcbBC8cyCxalQaI34d5fNHraE8IQtoHceVe4trzE+a5DuDZ2VKvOChKZwdmgG1V3f2TxUTbe7r8KGXmk1EUZR1pGnrKtV3GtuoGLTlcYwk=;3TWr91N5TCcQ4Dbs06HXSg=="
+secured: "oda7/fwByDg78dOcsZTCGdXV7VzqE8YbiiymidIyzP34E2RuP/jYGRHQzCKfZNkseaft4s0lwBJuGNKPGRUPXqWwNR7UIDh1OstTwJ/NF6xVmLTucqR38cTUx4Rd4rg0mOVBTdsHIH6T9TCuqyQ4TgfaGgj2kvbMmgmRp+w8SOhxVgXibEbGCogvdGgL0SoiOlML32s0bgsRxe196UPDRZS9Fo3duGAXXTZwT9n/iRvMl9OBc627FoBeMxQF1idgrzON++mt+E2KKgazDYXllmGtWzuRNX/GfqPU3jGUYXmjHwFANSqbEPh8S8bJHwGeRSesMx91gk5XeI7Z36RpjSzzL4C75oCSMAlhWxasLWIWI+f9E0gE8wfSwdndgzxi3VZdrm4fE0tBbT84IQn7fxz4TxcQlef9aIKe2xz5P9xA3i7+4WT7miJ+s5pj5QaQht9acFS2F3dOcqECN9ywSYqDjHCjnDMZVIQT+W27QLU2u0qkFMqKgUHBi714AYIW9w9VRsq0QWF/guZfatOJlg==;P797hRAX3+EjUEVedHBqKQ=="
 ---
 

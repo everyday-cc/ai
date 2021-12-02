@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "PredictHQ Named a 2021 Gartner® Cool Vendor in 'Data for Artificial Intelligence and Machine Learning' Report"
+    excerpt: "PredictHQ, the demand intelligence company, today announced it has been recognized as a 2021 Cool Vendor in the \"Data for Artificial Intelligence and Machine Learning\" Gartner Cool Vendors™ report by Afraz Jaffri,"
+    publishedDateTime: 2021-12-02T20:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/predicthq-named-a-2021-gartner-cool-vendor-in-data-for-artificial-intelligence-and-machine-learning-report-1031021250"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
   - title: "Alida Named a Visionary in 2021 Gartner® Magic Quadranttm for Voice of the Customer Solutions"
     excerpt: "Alida, a leader in Total Experience Management (TXM), today announced it has been named a Visionary in the 2021 Gartner Magic Quadrant for Voice of the Customer Solutions. Gartner recognized Alida as one of the 14 global providers for Voice of"
     publishedDateTime: 2021-12-02T16:47:00Z
@@ -33,15 +42,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "CrowdStrike Earns Highest Rating in October 2021 Gartner Peer Insights ‘Voice of the Customer’ for Endpoint Protection Platforms Report"
-    excerpt: "CrowdStrike Inc., a leader in cloud-delivered endpoint protection and workload protection, today announced that for the third year in a row, it has be"
-    publishedDateTime: 2021-12-01T21:32:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201006192/en/CrowdStrike-Earns-Highest-Rating-in-October-2021-Gartner-Peer-Insights-‘Voice-of-the-Customer’-for-Endpoint-Protection-Platforms-Report"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "1e3SK7sL7PXdnYKHzBNevN36JFHEVNmFQFyakBeuL+Q/CpkCUGt0CZR40YQMR4FLPebbnH38OEODK9Y3xY4Nyw8MbsWWIsmNQ7BVzcsrfYRY5RndaTAPAO9sPlOiDczyZGYm2+5A1RE2t94FK8MjWOoUcf8aeHNfDW+jdPftfGP7IRtP0uaeXLZHY1HBgM5Zyh6we/5VBRMLSK/zd3QI2fV+cGFWAxD4yxjO7/UMx/MHNWXPEak37r+15NNB9gB0ZUrTVbG8UjShTS5+m2mJqxZJGtFbYLNcWsIwtH2C5qVg2DjFeOMp2eIoZbEDj20sre9s+2cdDfJyfuDnWAU6edowdSk0kkMQ6B6zEniY92ibm4svcWzfTd5OqSphWa5BlSqiDLGGUnsPAyR8z9jN6WP/4LfjY6M0c9JHL/IYogFLmgquOo69PsULOEPjc6oMDsTzkS09xgxm36rQAp7PVX+JYgj1kV9DbdQlllkZWIqP08kHvDIGuHK/+oqwzNpZVFXM5zz8AjsVPyqj+WVLqg==;MaUi0ZnVHd5iaznx6WNO0A=="
 ---

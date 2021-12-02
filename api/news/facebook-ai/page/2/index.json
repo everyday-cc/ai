@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-17-facebook-says-ai-will-clean-up-the-platform-its-own-engineers-have-doubts.md",
+      "title": "Facebook Says AI Will Clean Up the Platform. Its Own Engineers Have Doubts.",
+      "excerpt": "AI has only minimal success in removing hate speech, violent images and other problem content, according to internal company reports. It can’t consistently identify first-person shooting videos, racist rants or gruesome car crashes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184",
+      "originalUrl": "https://www.wsj.com/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 405,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-418418/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-ai-enforce-rules-engineers-doubtful-artificial-intelligence-11634338184",
+      "publishedDateTime": "2021-10-17T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-16-researchers-argue-national-ai-research-resource-will-entrench-big-tech.md",
       "title": "Researchers argue National AI Research Resource will entrench Big Tech",
       "excerpt": "Artificial intelligence research groups are urging the National AI Research Resource (NAIRR) Task Force to reconsider investing in shared computing and data infrastructure, which they say will subsidize the tech giants that control it rather than democratize access.",
@@ -1416,49 +1468,6 @@
       "provider": {
         "name": "IT Business",
         "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-what-happened-when-humans-stopped-managing-social-media-content.md",
-      "title": "What happened when humans stopped managing social media content",
-      "excerpt": "Their decisions are then pumped into the companies’ machine-learning tools, which require large datasets of removal decisions to learn from, according to Tarleton Gillespie, who works at Microsoft Research ... artificial intelligence,\" Guy Rosen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/facebook-content-moderation-automation/",
-      "originalUrl": "https://www.politico.eu/article/facebook-content-moderation-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2020/10/sr_explosion453x239-1-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/facebook-content-moderation-automation/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facebook-content-moderation-automation/amp/",
-      "publishedDateTime": "2021-09-16T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
         "images": null,
         "publishers": null,
         "authors": null

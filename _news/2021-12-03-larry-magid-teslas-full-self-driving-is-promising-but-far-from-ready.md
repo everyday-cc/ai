@@ -2,14 +2,14 @@
 category: news
 title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
 excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving (FSD) beta,"
-publishedDateTime: 2021-12-02T16:00:00Z
-originalUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/"
-webUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/"
+publishedDateTime: 2021-12-02T17:45:00Z
+originalUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/?preview_id=8190635"
+webUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/?preview_id=8190635"
 ampWebUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
 cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,40 @@ images:
     height: 782
     isCached: true
 
-secured: "t2yfOpv4dIUWx6JQz39xE4P4MTi7U2DXuCMCvoTOjzyGUQeVGZkrquY59aOkMcpL82VtSGa0U4ejL8nSd8x1w4qGg6mpkeVan0qE5Zu5LJNMpEiXqwT/fKLvjAx1F3lnWiY0OcKc2XydWdmU2p2bqDziBs27QXsipWbTI6ivg5ub33nuRhID8YcIdnLqqhps2ZvS/DW/f/fe+gdLcIImA+sPLtQf+0Nk2nM9+09AmYZjQMcUIXMBnNw4Y6pahqjkglv25GeW0Nts20gJplRxE1Ap/Xlhl1uag5HIRXBK+ALcDSpkwMqFChwsccJRDwhxt3Bl/1aa7SwpdE+OMN8HTYCio0DQk60FUq1XgmJrxMo=;XVjzd27tv1NyGMdWw9RCCg=="
+related:
+  - title: "The New Self-Labeling AI Has Brought Tesla Closer To Level-3 Automation"
+    excerpt: "Advertisement Tesla’s head of artificial intelligence has revealed new footage showing its auto labelling tool for its self-driving initiative. It’s believed to provide a significant boost to Tesla’s Full Self-Driving Beta."
+    publishedDateTime: 2021-12-02T18:59:00Z
+    webUrl: "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/"
+    ampWebUrl: "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 74
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/newsimage336112.jpg"
+        width: 595
+        height: 225
+        isCached: true
+  - title: "Tesla's New Self-Labeling AI Just Brought It One Step Closer to Level-3 Automation"
+    excerpt: "Tesla's self-labeling AI just brought Elon Musk's firm a step closer to level-3 automation! And it could roll out in the Full Self-Driving Beta."
+    publishedDateTime: 2021-12-01T16:33:00Z
+    webUrl: "https://interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
+    ampWebUrl: "https://amp.interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 68
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplPZVOW/sizes/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation_resize_md.jpg"
+        width: 744
+        height: 419
+        isCached: true
+
+secured: "MUyEFvC4RK5e5/GiVk2NAky5tk+eLEcolvUh4LDxBPPls/ueKxdkzbovMP16W7AXvohdlDIR5pYxLbzf34hUFo2QwzNln46FqY9FtwX0NAtpdk0e/rWtYAIK/GYywWnGchicBIIX/Gb5yhv8V6IupEfW5EqCxeO7Fxvyrg1mA9WTq9AdIY97YjeLeeGbBpcKkWxA/z/D5COFJuwhU8+aSwlAtKk7wWpWQSfjIV608+kWNUdqH1SLxxQOydqwiXIPmmbvjHWfqWfv4A6wMeqQ6pgwZy2MnwS0bMpGjO2LoG3cRntjWoUrlMYX/CoAmXMZUJWrsoRkGb5OhhR+ShwcJzGTzqhplg4NA8zta+tTr70=;GnskU8LaWk0Bx4W4PLjDNQ=="
 ---
 

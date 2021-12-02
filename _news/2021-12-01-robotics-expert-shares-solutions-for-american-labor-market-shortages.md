@@ -35,6 +35,20 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "AI governance Market Outlook 2021- Record High Markets Ahead of Escalating Economy Globally"
+    excerpt: "AI governance market The AI governance market is segmented on the basis of component, deployment model, enterprise size, industry vertica"
+    publishedDateTime: 2021-12-02T20:43:00Z
+    webUrl: "https://menafn.com/1103295688/AI-governance-Market-Outlook-2021-Record-High-Markets-Ahead-of-Escalating-Economy-Globally"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/02/EP_3205aimage_story.jpeg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Rise in Advent of Machine Learning and Artificial Intelligence is Set to Drive North America Digital Transformation Market: Ken Research"
     excerpt: "Digital transformation refers as the use of digital technology with an objective to address the conventional issues. The switch from traditional to new digitized business models accelerates the introduction of advanced high-tech products & solutions."
     publishedDateTime: 2021-12-02T09:32:00Z

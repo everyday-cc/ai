@@ -42,6 +42,22 @@ related:
         width: 1024
         height: 582
         isCached: true
+  - title: "AWS introduces new features to make ML more accessible"
+    excerpt: "Amazon Web Services (AWS) has announced a slew of features and services to make technologies like machine learning more accessible and cost-effective,.."
+    publishedDateTime: 2021-12-02T07:16:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 76
+    images:
+      - url: "https://st.etb2bimg.com/Themes/Release/images/responsive/etcio-logo-400x400.jpg"
+        width: 850
+        height: 850
+        isCached: true
 
 secured: "2UhkuNy+2WkVNMhIV6ePa3AuwaAVeHHt/0/rAVxWKwepaarbxCI0opWqzi97yWfc7WEWKkXVoqVuAEX8FvmbCS1lDc3pmAiHPdulE3jW7l+DWc51Ww9bMTnWBV+LeUNNklg1V4z8s6iaK95GTOIRjXCRY/BwP1uXio4IAIJ1lWiBpzmMqzAu3GlcqTtYBOtk3QZO+GnxZpueRCscPgdndi/8Vx5+973qEz7hD1NIbe8nyaq3vXFlGq37yUUYL9AoyD5YcoXDxwZx7vuzLX0imTp5SGzFJMneyfLSQqoZ9pUNMRFXlB8DtCb9BTDm3u56gQS511gHSiXKX+PCXr5i9fGkMfF9VH4i0LEUaOrB8iM=;E4ge/HZPINu+VSvp/OgWrA=="
 ---

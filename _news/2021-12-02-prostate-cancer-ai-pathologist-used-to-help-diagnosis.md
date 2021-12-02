@@ -3,20 +3,16 @@ category: news
 title: "Prostate cancer: AI pathologist used to help diagnosis"
 excerpt: "Artificial intelligence could improve cancer diagnosis and help save lives, a senior doctor has claimed. Betsi Cadwaladr University Health Board has rolled out an \"AI pathologist\" to help test men for prostate cancer."
 publishedDateTime: 2021-12-02T09:23:00Z
-originalUrl: "https://www.bbc.com/news/uk-wales-59491186"
-webUrl: "https://www.bbc.com/news/uk-wales-59491186"
+originalUrl: "https://www.bbc.co.uk/news/uk-wales-59491186"
+webUrl: "https://www.bbc.co.uk/news/uk-wales-59491186"
 type: article
-quality: 67
-heat: 87
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -56,6 +52,6 @@ related:
       domain: healthitanalytics.com
     quality: 39
 
-secured: "xR9U8lcqyxN14J6kNvkjcHe9BHWMNh3PScu/NSv8QGnmFBtzRNInm1CcqGw4vCV0aiFwTYOJMlUhXDKxp7fvk2GU5m34/qA4Ic+KmjIjtxBH2VcEGh7IdqRc8R9BvDBLJa9F+h7UDUZt6OYvC/X6IA2zCp6xk7W5s4weVpSeWy72mROP4U96Ow2ge3Yu1R6KXE+J696g7IucPzoFSVVZp9mJEeE82OmDxKxU5QSSqP6ANym9CoRI0cOD1SpvqIHmclfDf7vrVGdlxWPJGkt9KmWSK9g1PMXl9LspF5B3CE8Z/fU/UPqXJ/E0oeFtBLN20dXStMkKmd/bzsfNEOFlDp7voeqOzUnUVfeVFuQvDRR6gj0Kco0hzyLwWoErHEIyG5q9x/NzmK7PMrZkluOnhixXONQ9XHA5RYnExOGRPvVIWfVf+GI6CSgaaHcmLmxFxdVHQNvS8N99JQ6JzhzqeSX2Ge2isKsyubul9mmiT84TAMRU9EdIysR4LIKUwtztvTmRrgjVVE9qgwTN/OaQ2Q==;kjUB1uu7Th9xvsJuBeF+hg=="
+secured: "SKD5dVizsH35LVdY9GHxxfmdj3mHflSnk+OTkmDccKA5YdennUjodVlKKk6/0arhy3C8SMU/c1ZQSe2QIXlswR3RmudvAdlE9MkwijOyrBoU38tNHWOyj+IKku+ShgZKOte8iG21AZ5OK5JtFlge/ylWcuuL+cUlmIHSKgWsEK8HVkvRBIG+p9VAUr78JlLG2ln6IwV2o3NlxmiZ2I039gtOABQY1JYQZcX7bn7s8vy5RYa7RxzXXPyx/Lzm8zOczhPdgDaRHxZ8rlj+Pcjj7xKPCmbSJnkcxTMjKvjxz48BFSye+ZZGVm15sr68+39EhC9tfMM0aw6migYQ/4hsaxSqK+9pm5XNr7UJD+oxBbc=;BgTaiKm1VD1Xd8qPNhU53g=="
 ---
 

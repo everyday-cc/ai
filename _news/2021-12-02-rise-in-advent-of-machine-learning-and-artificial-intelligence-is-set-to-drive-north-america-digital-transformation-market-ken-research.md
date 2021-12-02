@@ -54,6 +54,20 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 34
+  - title: "AI governance Market Outlook 2021- Record High Markets Ahead of Escalating Economy Globally"
+    excerpt: "AI governance market The AI governance market is segmented on the basis of component, deployment model, enterprise size, industry vertica"
+    publishedDateTime: 2021-12-02T20:43:00Z
+    webUrl: "https://menafn.com/1103295688/AI-governance-Market-Outlook-2021-Record-High-Markets-Ahead-of-Escalating-Economy-Globally"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/02/EP_3205aimage_story.jpeg"
+        width: 600
+        height: 300
+        isCached: true
 
 secured: "7DBLkLU95qWML2x3zTlR5SuK/oS7vnCLsY2cXjkNlmvdDMNkBbagqNWe14MZYsw7s5sJCvtJRGW2lpjBsfWtEjnFWe+uq7qduCBMWWElMaMwv6wzfHKf3Yqj+t2XisAQaQhhbbFI/Lih8wC/X0pXFrSu5d+rGyA7aKsMurIwsAIwcUHzQqThWWIfxojl8FvJGfiJnZxrP7pz9mWMDZSlW5WDifoivATO/MHV/HeydAuzgBKI2eUewoUiBbatGWrmem96a/h5Hf3AKsK8cmkk562QZ9gDBGIKKFzGzSURODGEELh8WlXyOjBxrKOBQ7eWPAss2MA6jsMvy6SHBfowbX6bQ63SgJMuuQdnO5zsdb4=;cUJZ1KqDK8wzXIex07tykg=="
 ---

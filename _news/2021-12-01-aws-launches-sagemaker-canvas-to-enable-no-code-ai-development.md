@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS brings no-code to Amazon SageMaker machine learning"
+    excerpt: "Amazon SageMaker Canvas provides a visual interface for preparing data and training models, no programming or machine learning expertise required."
+    publishedDateTime: 2021-12-02T20:28:00Z
+    webUrl: "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html"
+    ampWebUrl: "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 121
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/09/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyimages-1206796363_2400x1600-100858181-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AWS launches new SageMaker features to make scaling machine learning easier"
     excerpt: "Invent conference, AWS today rolled out a slew of new features for SageMaker, the company’s managed service for building, training and deploying machine learning (ML) models. Swami Sivasubramanian, the vice president of machine learning at Amazon,"
     publishedDateTime: 2021-12-01T19:05:00Z
@@ -56,22 +72,6 @@ related:
       - url: "https://i.ytimg.com/vi/k2nVIvHB1dk/hqdefault.jpg"
         width: 480
         height: 360
-        isCached: true
-  - title: "AWS wants to make it easier to get to grips with machine learning"
-    excerpt: "Getting to grips with Machine Learning (ML) technology could soon be much easier thanks to a new service from Amazon Web Services. The company has launched Amazon SageMaker Studio Lab, a free, no-configuration version of its SageMaker program that lets ..."
-    publishedDateTime: 2021-12-01T20:43:00Z
-    webUrl: "https://www.techradar.com/uk/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 106
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/44N2dMX6W8iN7QUNtgTKWM-1200-80.jpg"
-        width: 970
-        height: 516
         isCached: true
   - title: "Amazon launches SageMaker Canvas for no-code AI model development"
     excerpt: "Invent 2021 conference, Amazon announced SageMaker Canvas, a no-code development tool for machine learning applications."
@@ -153,22 +153,6 @@ related:
         width: 736
         height: 630
         isCached: true
-  - title: "AWS introduces new features to make ML more accessible"
-    excerpt: "Amazon Web Services (AWS) has announced a slew of features and services to make technologies like machine learning more accessible and cost-effective,.."
-    publishedDateTime: 2021-12-02T07:16:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 76
-    images:
-      - url: "https://st.etb2bimg.com/Themes/Release/images/responsive/etcio-logo-400x400.jpg"
-        width: 850
-        height: 850
-        isCached: true
   - title: "AWS introduces flurry of new AI tools for Amazon SageMaker"
     excerpt: "Organizations using Amazon Web Services Inc.’s Amazon SageMaker platform to build artificial intelligence models now have access to a wealth of new features that will make machine learning projects simpler in several ways."
     publishedDateTime: 2021-12-01T21:49:00Z
@@ -182,6 +166,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/amazon.png"
         width: 933
         height: 519
+        isCached: true
+  - title: "AWS brings point-and-click to machine learning"
+    excerpt: "Amazon Web Services has announced six new capabilities for its machine learning (ML) service, Amazon SageMaker, that make it more accessible and cost effective."
+    publishedDateTime: 2021-12-02T08:21:00Z
+    webUrl: "https://gadget.co.za/aws-brings-point-and-click-to-machine-learning/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 56
+    images:
+      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2020/12/aws-logo-scaled.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
         isCached: true
   - title: "AWS Bolsters SageMaker with New Capabilities"
     excerpt: "Amazon Web Services unveiled a half-dozen new SageMaker services today at its re:Invent conference in Las Vegas. The cloud giant bolstered its flagship AI"
@@ -224,20 +222,6 @@ related:
       - url: "https://technuter.com/wp-content/uploads/2020/05/Qlik.jpg"
         width: 333
         height: 285
-        isCached: true
-  - title: "AWS Announces AWS IoT TwinMaker"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS IoT TwinMaker, a new service that makes it faster and easier for developers to create digital twins of real-world systems like buildings,"
-    publishedDateTime: 2021-11-30T17:38:00Z
-    webUrl: "https://www.eagletribune.com/region/aws-announces-aws-iot-twinmaker/article_daf87a52-cb4e-57ab-a868-dff09aacecd1.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 39
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
         isCached: true
   - title: "AWS Announces Six New Amazon SageMaker Capabilities"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."

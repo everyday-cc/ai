@@ -59,6 +59,22 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Public relations practitioners' AI knowledge is limited, but they are aware of AI's potential"
+    excerpt: "A new research report from the Chartered Institute of Public Relations' AIinPR Panel, which has been co-authored by the University's Emeritus Professor of Corporate Communication Anne Gregory, has found that practitioners see the huge potential that artificial intelligence (AI) and Big Data offers the profession but possess limited knowledge on technical aspects of both."
+    publishedDateTime: 2021-12-02T19:52:00Z
+    webUrl: "https://phys.org/news/2021-12-practitioners-ai-knowledge-limited-aware.html"
+    ampWebUrl: "https://phys.org/news/2021-12-practitioners-ai-knowledge-limited-aware.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-practitioners-ai-knowledge-limited-aware.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-ai.jpg"
+        width: 1920
+        height: 1324
+        isCached: true
   - title: "AI Predictions and Innovations for 2022"
     excerpt: "Most enterprises failed to scale their AI deployments this year. Will 2022 be the year when this actually happens?"
     publishedDateTime: 2021-11-30T11:09:00Z
