@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "flatironhealth"
   url: "https://twitter.com/flatironhealth"
-  followers: 10829
+  followers: 10828
 
 size: 501-1,000 employees
 yearFounded: 2012
