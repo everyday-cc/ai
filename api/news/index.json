@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-02-artificial-intelligence-based-spine-modeling-now-available.md",
+      "title": "Artificial Intelligence Based Spine Modeling Now Available",
+      "excerpt": "Based on artificial intelligence (AI) algorithms from IBM’s Watson Health, Ricoh USA, the U.S. arm of the Japanese digital services and information company, has created a remarkable, must-be-seen-to-be-believed,",
+      "sourceUrl": null,
+      "webUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/",
+      "originalUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ryortho.com/wp-content/uploads/2021/12/ArtificialIntelligence_ROCOH_WEB.jpg",
+          "width": 850,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/amp/",
+      "cdnAmpWebUrl": "https://ryortho-com.cdn.ampproject.org/c/s/ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/amp/",
+      "publishedDateTime": "2021-12-02T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orthopedics This Week",
+        "domain": "ryortho.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-replai-uses-computer-vision-and-data-analysis-to-figure-out-the-best-video-ads.md",
+      "title": "Replai uses computer vision and data analysis to figure out the best video ads",
+      "excerpt": "Replai automates analysis of video ad effectiveness and it makes recommendations for how to fix details to make ads more engaging.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/",
+      "originalUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/Replai-Dashboard-3-auto-recommendations.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/amp/",
+      "publishedDateTime": "2021-12-02T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-smartling-lands-160m-to-help-companies-translate-their-content-automatically.md",
+      "title": "Smartling lands $160M to help companies translate their content automatically",
+      "excerpt": "Smartling, a company providing a mix of AI- and human-powered translation services, has raised $160 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/",
+      "originalUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-3324171_1920-e1631120646603.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/amp/",
+      "publishedDateTime": "2021-12-02T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-you-can-now-get-150000-if-you-let-a-robot-use-your-face-and-voice.md",
       "title": "You can now get £150,000 if you let a robot use your face and voice",
       "excerpt": "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot.",
@@ -96,7 +243,7 @@
       "originalUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -136,7 +283,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -305,7 +453,7 @@
       "originalUrl": "https://www.openpr.com/news/2482636/ai-based-fever-detection-camera-2021-global-market-key-players",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -339,6 +487,57 @@
       ]
     },
     {
+      "path": "_news/2021-12-02-prostate-cancer-ai-pathologist-used-to-help-diagnosis.md",
+      "title": "Prostate cancer: AI pathologist used to help diagnosis",
+      "excerpt": "Artificial intelligence could improve cancer diagnosis and help save lives, a senior doctor has claimed. Betsi Cadwaladr University Health Board has rolled out an \"AI pathologist\" to help test men for prostate cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-wales-59491186",
+      "originalUrl": "https://www.bbc.com/news/uk-wales-59491186",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/12AAE/production/_121926467_ibexaiinaction.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T01:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022.md",
       "title": "Govt to introduce facial recognition technology at airports by March 2022",
       "excerpt": "Minister of State for Civil Aviation Ministry General V K Singh (retd) said AAI is working on a project of FRT-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports.",
@@ -347,7 +546,7 @@
       "originalUrl": "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022-11638434344157.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -379,58 +578,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning.md",
-      "title": "Dataiku releases new version of unified AI platform for machine learning",
-      "excerpt": "While trying to make data scientists more effective, Dataiku’s AI platform also provides no-code GUIs for data prep and AutoML capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash-e1638387079382.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/amp/",
-      "publishedDateTime": "2021-12-01T20:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -495,7 +642,7 @@
       "originalUrl": "https://www.androidauthority.com/snapdragon-8cx-gen-3-intel-apple-3068879/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -737,7 +884,7 @@
       "originalUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120100516_1.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -770,6 +917,57 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-genesys-completes-acquisitions-of-pointillist-and-exceedai.md",
+      "title": "Genesys Completes Acquisitions of Pointillist and Exceed.ai",
+      "excerpt": "Genesys®, a global leader in customer experience orchestration, today announced the completion of its acquisitions of Pointillist and Exceed.ai. Pointillist, recognized for its award-winning journey management platform,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/genesys-completes-acquisitions-of-pointillist-and-exceed-ai-1031017563",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/genesys-completes-acquisitions-of-pointillist-and-exceed-ai-1031017563",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1700527/Genesys_Acquires_Pointillist_and_Exceedai_Logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T13:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -928,7 +1126,7 @@
       "originalUrl": "https://www.supermarketnews.com/online-retail/7-eleven-pilot-delivery-robotics-powered-vehicles",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1013,219 +1211,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy.md",
-      "title": "4 AI trends for 2022: Neural networks, strategic ethics, better hiring and gastronomy",
-      "excerpt": "In 2022, we can expect AI to expand its reach into robotic automation, better software for decision-making and a confrontation of the looming ethical issues, according to Sony experts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "originalUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/02/b1bed642-5c3b-45a0-83b4-6f3308cf3795/resize/1200x/5a1638d5619f9c86f3ccb120f4785b3b/server-robot.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "publishedDateTime": "2021-12-01T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch.md",
-      "title": "Evolution of Cresta’s machine learning architecture: Migration to AWS and PyTorch",
-      "excerpt": "Cresta Intelligence, a California-based AI startup, makes businesses radically more productive by using Expertise AI to help sales and service teams unlock their full potential. Cresta is bringing together world-renowned AI thought-leaders, engineers, and investors to create a real-time coaching and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/26/ML-6937-image001-782x630.png",
-          "width": 782,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T11:26:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-meta-launches-pytorch-live-to-build-ai-powered-mobile-experiences.md",
-      "title": "Meta launches PyTorch Live to build AI-powered mobile experiences",
-      "excerpt": "Meta (formerly Facebook) has launched PyTorch Live, a set of tools for developing AI-powered experiences on Android and iOS.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/",
-      "originalUrl": "https://venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-10.28.20-PM.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/amp/",
-      "publishedDateTime": "2021-12-01T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier.md",
-      "title": "AWS launches new SageMaker features to make scaling machine learning easier",
-      "excerpt": "Invent conference, AWS today rolled out a slew of new features for SageMaker, the company’s managed service for building, training and deploying machine learning (ML) models. Swami Sivasubramanian, the vice president of machine learning at Amazon,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/",
-      "originalUrl": "https://techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 279,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/aws-conference-header.png?w=1024",
-          "width": 1022,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/amp/",
-      "publishedDateTime": "2021-12-01T11:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

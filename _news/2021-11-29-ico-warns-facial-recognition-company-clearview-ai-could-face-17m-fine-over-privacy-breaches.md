@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recog
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1"
 type: article
 quality: 163
-heat: 323
+heat: 333
 published: true
 
 provider:
@@ -182,6 +182,20 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2021-11/Screenshot%202021-11-30%20at%2012.25.17.png"
         width: 1688
         height: 1190
+        isCached: true
+  - title: "Consecutive NIST Tests Confirm Superiority of Clearview AI's Facial Recognition Platform"
+    excerpt: "Clearview AI’s facial recognition algorithm again ranks No. 1 in U.S. – tops in 1:N and 1:1 Facial Recognition Vendor Tests (FRVT)."
+    publishedDateTime: 2021-12-02T13:26:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/press-release/21248663/clearview-ai-consecutive-nist-tests-confirm-superiority-of-clearview-ais-facial-recognition-platform"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 45
+    images:
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/12/16x9/clearviewai.61a8c7950357f.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "UK: Facial recognition company gets USD22.68M privacy fine"
     excerpt: "An Australian company that asserts to have a database of over 10 billion facial pictures could face a USD22.68 million sanction for its processing of"

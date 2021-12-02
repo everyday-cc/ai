@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-appl
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-apple-3068879/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202112/57726f6325e54003b0e20662c879ec92.jpg"
         width: 980
         height: 524
+        isCached: true
+  - title: "Qualcomm Announced the Chip That’ll Power Almost Every Android Flagship in 2022"
+    excerpt: "Qualcomm has just announced the ARM chip that will power most of next year’s high-end Android phones. The rumored 898 model number isn’t happening, though. Qualcomm has changed its naming scheme with the latest flagship chip,"
+    publishedDateTime: 2021-12-02T13:26:00Z
+    webUrl: "https://www.extremetech.com/mobile/329418-qualcomm-announced-the-chip-thatll-power-almost-every-android-flagship-in-2022"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 35
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/12/Snapdragon_8_Gen_1_Chip-640x353.jpg"
+        width: 640
+        height: 353
         isCached: true
 
 secured: "Rb5ER7UG5V075uim3ZUg0G5lqNZJHytASbhnS82R2q/63v+eX7ovXMqjNptC7DmWb063wHtk94PrufiRfzTHv8qw/maXLaXBwB8ByhoMJ+w6gm1bPg2kAB61GRl+8UVgrsb8+C84ySa8E3xVhwVIX7gI5aJwyWUe9Sp4dDo/mUrMnWIEJNstandbEZtG4N4Dk6COzvFlYmQrmdQxO3cio94sr96MhkdwVGyVKq9h2t+1uyT9n08gc1Xt6NXIBdpqQjSLIAGvZovNVB38TOSr3tWq3FTX/eRNXzwlebCl44K5Q0I8xCLl/S9qrdHNym4jPDQ2r7UJs3LIPFldpjrYV58NpRZulTeRKTWG8qMFpg2MW0X3YCsgGecCDP6X57ej4QW5BcKNQhd6+GfXmibjShz5zu3p5ijnRXxPsi3GG5HyOeUlbrtgyPp53BREvGfHP5z4I2bbvKqcYLYluQSqYKcAzEYWCqpVME5e+c928attwVw4qllVI96ysFTA3N2KLvjD6cKnt3O09WN1Z9ppUA==;K588D2omNwkCOxJfkbAdwQ=="

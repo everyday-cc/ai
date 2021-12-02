@@ -58,6 +58,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Global In-Car Speech Recognition Market 2021 Latest Innovations, Key Indicators and Future Development Status Recorded during 2021 to 2027"
+    excerpt: "A new research market study report titled Global In-Car Speech Recognition Market Research Report 2021-2027 has been featured by MarketandResearch.biz. The report delivers different segments on basis of product category,"
+    publishedDateTime: 2021-12-02T00:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-in-car-speech-recognition-market-2021-latest-innovations-key-indicators-and-future-development-status-recorded-during-2021-to-2027-2021-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SWgzVXxQpMBSVD7BSoagkHgGC88DholUnTYI/+Fjanmv4Avrfxzz99EDYKXPP61at8NLAjd61PhDvXrDAzwpzSsxeVu9hu/Y7RYX+p7dKN7vNhHEuMMXXNET3C8zTbB2GWotXFguU/KInyn61pp7D+qkw0nmMKUY73WJpYhdSvogW0QOiLokPrcfXL8gwYoW/w5zQLTT7Ite/lXAdXdk8tqUxXb3SBqlvRTQx8WWaniy1GnXhYMbS8WrDd5TjcKbupZRIKjPTXt2J4DtOf3ccG5yahYEBqEglCwqU1Fb5HuDPWmjD2MITTeEBR4Fgj8XV8r+122amh6w65jBsCfNX7zfC0r8FXd9rJ5snT3vcGA=;dBegAYqWfByHEbVKrmR3Sw=="
 ---

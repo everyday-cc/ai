@@ -2,6 +2,335 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-11-19-baidu-reveals-its-maximally-autonomous-robocar.md",
+      "title": "Baidu reveals its maximally autonomous ‘robocar’",
+      "excerpt": "At the end of 2018, John Krafcik, boss of Waymo at the time (Alphabet ... Kunlun chip specialised in calculations and artificial intelligence seems to be part of the solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/08/20/baidu-reveals-its-maximally-autonomous-robocar",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/08/20/baidu-reveals-its-maximally-autonomous-robocar",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/08/20/1262768.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-can-using-artificial-intelligence-lead-to-intellectual-property-infringement.md",
+      "title": "Can using artificial intelligence lead to intellectual property infringement?",
+      "excerpt": "It is co-authored by partner Gina Bibby and intellectual property / technology summer 2021 intern Erica Barseghian. The short answer is, yes. As retail and fashion companies increasingly use artificial intelligence (AI) and machine learning technologies to perform predictive consumer analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.martindale.com/legal-news/article_withers-bergman-llp_2552029.htm",
+      "originalUrl": "https://www.martindale.com/legal-news/article_withers-bergman-llp_2552029.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Martindale",
+        "domain": "martindale.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-mediatek-leaps-into-flagship-phones-with-cutting-edge-4nm-dimensity-9000-chip.md",
+      "title": "MediaTek leaps into flagship phones with cutting-edge 4nm Dimensity 9000 chip",
+      "excerpt": "The Dimensity 9000 is MediaTek's first true flagship phone processor, and the world's first built using a 4nm process. The company talked to us about it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/mediatek-dimensity-9000.jpg",
+          "width": 1510,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/mediatek-dimensity-9000-interview-news/?amp",
+      "publishedDateTime": "2021-11-18T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-ad-industry-must-come-together-to-solve-bias-in-advertising-marketing.md",
+      "title": "Ad Industry Must Come Together To Solve Bias In Advertising, Marketing",
+      "excerpt": "Removing bias in advertising will become a major challenge for marketers and brands in 2022, so a group within the Interactive Advertising Bureau is working to ease the burden for brands and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/368796/ad-industry-must-come-together-to-solve-bias-in-ad.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/368796/ad-industry-must-come-together-to-solve-bias-in-ad.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/11/18/mixedracefamily_DK5GFZ2.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T13:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-2-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
+      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "excerpt": "These two stocks are built on artificial intelligence, and this foundation could enable them to redefine their space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/",
+      "originalUrl": "https://www.fool.com/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F653598%2Fai-button-on-a-circuit-board.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/18/2-ai-stocks-to-buy-and-hold-for-a-decade/",
+      "publishedDateTime": "2021-11-18T12:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-solving-entertainments-globalization-problem-with-ai-and-ml.md",
+      "title": "Solving entertainment’s globalization problem with AI and ML",
+      "excerpt": "Fully autonomous translation solutions are some ways off, but that doesn’t mean AI/ML cannot reduce the workload today. It can.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/",
+      "originalUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1095494266.jpg?w=1024",
+          "width": 1024,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/",
+      "publishedDateTime": "2021-11-18T12:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-apple-aims-to-launch-self-driving-electric-car-in-2025-says-report.md",
+      "title": "Apple aims to launch self-driving electric car in 2025, says report",
+      "excerpt": "The vehicle is rumoured to have no steering wheel or pedals, and the interior has a U-shaped seating plan",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report",
+      "originalUrl": "https://www.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4448db54e2ba2aed4090188ec80a459152b5e269/33_121_1983_1190/master/1983.jpg?width=620&quality=85&auto=format&fit=max&s=b7867d39ae37de046a18f46673bf80e2",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/18/apple-aims-to-launch-self-driving-electric-car-in-2025-says-report",
+      "publishedDateTime": "2021-11-18T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge.md",
       "title": "IBM and David Clark Cause Crown Saaf Water Winner of 4th Annual Call for Code Global Challenge",
       "excerpt": "Moved to prevent further suffering in their community and around the world, Saaf Water built a solution using IBM Cloud and IBM Watson services ... technology using AI, blockchain, and cloud ...",
@@ -400,6 +729,50 @@
       ]
     },
     {
+      "path": "_news/2021-11-18-artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study.md",
+      "title": "Artificial Intelligence and Machine Learning, Cloud Computing and 5G Will be the Most Important Technologies in 2022, Says New IEEE Study",
+      "excerpt": "IEEE, the world’s largest technical professional organization dedicated to advancing technology for humanity, today released the results of “The Impact of Technology in 2022 and Beyond: an IEEE Global Study,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-china-99cbebbb8df0c379de6b43cd6152a751",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-china-99cbebbb8df0c379de6b43cd6152a751",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-commerceai-launches-in-aws-marketplace.md",
       "title": "Commerce.AI Launches In AWS Marketplace",
       "excerpt": "Commerce.AI, a leading CX AI platform, announced today that it is available in AWS Marketplace, a digital catalog with listings from independent software vendors that make it easy to find, test, buy and deploy software.",
@@ -440,50 +813,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study.md",
-      "title": "Artificial Intelligence and Machine Learning, Cloud Computing and 5G Will be the Most Important Technologies in 2022, Says New IEEE Study",
-      "excerpt": "Which technologies will be the most important in 2022?  Among total respondents, more than one in five (21%) say AI and machine learning, cloud computing (20%) and 5G (17%) will be the most important technologies next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-machine-learning-cloud-computing-5g-will-/2021/11/18/9495974.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-machine-learning-cloud-computing-5g-will-/2021/11/18/9495974.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1017741/IEEE_Advanced_Technology_Logo_Logo.jpg",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -820,327 +1149,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-du-showcases-5g-controlled-robot-over-private-5g-sa-network-leveraging-aws-and-athonet-technologies.md",
-      "title": "du showcases 5G controlled robot over private 5G SA Network leveraging AWS and Athonet technologies",
-      "excerpt": "G Private Network with Athonet's cloud native 5G Standalone core network, and running on Amazon Web Services Snowball Edge",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/",
-      "originalUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/du_showcases_5G_controlled_robot_over_private_5G_SA_Network_leveraging_AWS_and_Athonet_technologies-ZAWYA20211118083453/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/pr/images/2021/FPR_1367_2021_11_18.jpg",
-          "width": 450,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20211118083453/",
-      "publishedDateTime": "2021-11-18T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-driverless-car-start-up-weride-partners-with-major-chinese-automaker-gac-on-robotaxis-as-competition-rises.md",
-      "title": "Driverless car start-up WeRide partners with major Chinese automaker GAC on robotaxis as competition rises",
-      "excerpt": "WeRide and Guangzhou Automobile Group (GAC Group) plan to make the robotaxis available via ride-hailing app Ontime to the public by 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
-      "originalUrl": "https://www.cnbc.com/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106977211-1637212648567-WeRide_GAC_Group_and_ONTIME_jointly_launched_Robotaxi_service.png?v=1637212972",
-          "width": 2500,
-          "height": 1432,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/18/china-driverless-cars-weride-gac-partner-on-robotaxis.html",
-      "publishedDateTime": "2021-11-18T02:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-nvidia-crypto-mining-chip-sales-drop-60-overall-revenue-growth-strong.md",
-      "title": "Nvidia Crypto Mining Chip Sales Drop 60%, Overall Revenue Growth Strong",
-      "excerpt": "Nvidia has released its financial results for the third quarter of the 2022 fiscal year. While overall revenue has grown considerably, the sales of its 'Cryptocurrency Mining Processors' have experienced a sharp decline.",
-      "sourceUrl": null,
-      "webUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
-      "originalUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s32659.pcdn.co/wp-content/uploads/2021/08/BIC_nvidia_blockchain_AI.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
-      "cdnAmpWebUrl": "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/nvidia-crypto-mining-chip-sales-drop-revenue-growth-strong/",
-      "publishedDateTime": "2021-11-18T01:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https//beincrypto.com",
-        "domain": "beincrypto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-artificial-intelligence-ai-in-retail-market-2021-2028.md",
-      "title": "Artificial Intelligence (AI) in Retail Market 2021-2028",
-      "excerpt": "New study report \" Artificial Intelligence (AI) in Retail Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
-      "originalUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub18124618_g.jpg",
-          "width": 800,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
-      "publishedDateTime": "2021-11-18T01:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-optima-recruit-ai-pioneer-to-boost-customer-service-in-banking-sector.md",
-      "title": "Optima recruit AI pioneer to boost customer service in banking sector",
-      "excerpt": "Optima Partners have recruited an AI pioneer at their Edinburgh HQ to work on improved customer service in the banking industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/",
-      "originalUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deadlinenews.co.uk/wp-content/uploads/2021/11/Danilo-Blagojevich-e1637227266740.jpeg",
-          "width": 803,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/",
-      "cdnAmpWebUrl": "https://www-deadlinenews-co-uk.cdn.ampproject.org/c/s/www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/",
-      "publishedDateTime": "2021-11-18T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deadline News",
-        "domain": "deadlinenews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-surecore-designs-multi-port-memory-for-semidynamics-ai-chip.md",
-      "title": "sureCore designs multi-port memory for Semidynamics AI chip",
-      "excerpt": "Core, the embedded memory specialist, has designed a power and area efficient, high performance, multi-port, embedded memory solution for Semidynamics’ new RISC-V-based, tensor processing chip. Semidynamics is developing a high bandwidth,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-news/surecore-designs-multi-port-memory-for-semidynamics-ai-chip/242258/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/surecore-designs-multi-port-memory-for-semidynamics-ai-chip/242258/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/242258/surecore.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-corrected-drugmaker-sanofi-invests-180-mln-in-french-ai-startup-owkin.md",
-      "title": "CORRECTED-Drugmaker Sanofi invests $180 mln in French AI startup Owkin",
-      "excerpt": "Drugmaker Sanofi is investing $180 million in French startup Owkin, whose predictive algorithms aim to improve the research and development of new cures against cancer, the Paris-based group said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/sanofi-owkin-idCNL8N2S85QE",
-      "originalUrl": "https://www.reuters.com/article/sanofi-owkin-idCNL8N2S85QE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20211118&t=2&i=1581774667&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHAH08L",
-          "width": 858,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL8N2S85QE",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL8N2S85QE",
-      "publishedDateTime": "2021-11-17T23:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

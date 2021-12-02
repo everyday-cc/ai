@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/"
 ampWebUrl: "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/61a8157414eaf61b0530a9fd/master/pass/Business_Papers_1332101305.jpg"
@@ -30,6 +31,6 @@ images:
     height: 1601
     isCached: true
 
-secured: "sjonu2N0/LR82siM0PGkz6mBPEqrdgco8WflpGT5JYvCgikb/VKhoRs4hO/Sc7cdNBLR3hgUrsVkE9c0/HekymZrofX6bJ48+wIj5Snfjex/bAOu0E+I20tgEgjxekcFtvL22+BgdsAAzqRPr61MJzbd1nKVpg90tC6+WJ0g+85wJvpQNomue+eFHTjlbnioY6fzsU4kcboLt4AWxxLO4tvDxtWAaomsrBkfeTpkh6E/dxtyZjgCSUIX5cxWHWBcsHMBOiyMtNQuFbzpVshsS82iBknirGyhb+2ikoaU+svnYyz9pivJA/JszTq7hdspDAujI1eF2hPw8uKezHKOKLgiGsvTWiYt9ecFQ9Pgl1g=;WkIvU1svlvi8Gc9WaCO1zA=="
+secured: "6oT3hgvpTubS5nlR6f5oFbnxNLh5/3wlQKWBriEq7BRW+wZ1WvY/7sEQMO2opGQjdf/8tN+02NMhu8JOCD8qfg7mrDG2EroqO5a52Zs/VZWYGy6V/ySVPhO2AdXgcHO5B+fzhngN64Ie86sxCIiYu70yxH83I/LFSJoAUzKmYG0gWcSOnXCzhkPHYgIcElyPGzRERF7Ft55wekpsRiDWXtpQd5rJ4JcelzBSccp2o8kg70g2uqXwl3P+UFdkDi1qAhMSwNvzaDTDDZ4gQc7IKESmlJOyM9R/CEv4kMjX2J5YgtVFeGUyS4VyAzIuYRKbk0ZkqhGvqlbuGCeJ2iJwHrN+jzvgn/iaLomF8Ycx0jWazy+IHE+OmFuOV1QNglBVpdX2oyyL99GA9NHwLvZ3VopRPpH0G66gda9/x/c8iCq7VH3EgJ3LcaOYKQ8zzarRrP63JwQLfhe9CPA1L/1EpdBD/ORWoaqCPguu+jaGKIiGWkxKJWvsSuTaArzPo0SfXG/4WU+koioZyEjF0TKSNw==;RjNvlfgUDX+5ciqrTbxeaA=="
 ---
 

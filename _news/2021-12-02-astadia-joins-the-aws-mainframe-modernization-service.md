@@ -35,6 +35,22 @@ related:
         width: 679
         height: 376
         isCached: true
+  - title: "Meta picks AWS to help expand its AI services"
+    excerpt: "Meta, the parent company of Facebook, said it will use AWS services to \"complement\" its on-premise infrastructure and also broaden its use of AWS compute, storage and security ser"
+    publishedDateTime: 2021-12-02T13:10:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 106
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638449640/itpro/pytorch_meta_aws_GettyImages-1236945622.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "AWS Announces AWS Mainframe Modernization"
     excerpt: "AWS Mainframe Modernization makes it faster and easier for customers to migrate mainframe and legacy workloads to the cloud and benefit from the superior agility, elasticity,"
     publishedDateTime: 2021-11-30T17:35:00Z
@@ -113,17 +129,17 @@ related:
         isCached: true
   - title: "AWS Announces New Serverless Options for Three Analytics Services"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
-    publishedDateTime: 2021-11-30T17:41:00Z
-    webUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
+    publishedDateTime: 2021-11-30T18:41:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 41
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
-        width: 320
-        height: 300
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "l/FZ3Bo3kHentdPqiKouiWExIgzJfWYx3sTxURQwkt+G5PrOqKai6K+9i5stMgdzp5ldEiCC3Ax6vFeXXpKcbL76v4QfgIihlm0B5Woy1gXTLM70/6oOSsqknTw9GtDqXcsOc9y4x91pwzqtpDFFupnqI2cuZIdSnFh8htO6WDRz5Md7LWiFgu286Ybrrl0/CKCvStbLl4pEhaBLfx2JnhKd+Ath7BH12ElsDxpHtc2Gi81+40ZO6rXH8EoLedy6FM6iLhuDFEiT0FeNCamMsjkS/PetiRT21A/ygmkLaHzN7mSEOMG3aJ82qIKV3jG+TKKx1DPW4duhFow7uJXOO9mVrBUn14AaN7DnlgVnFsU=;Zqmafj6apYF2TFJKQJbUJw=="

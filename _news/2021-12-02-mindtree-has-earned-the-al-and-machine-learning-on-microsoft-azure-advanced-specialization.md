@@ -114,6 +114,15 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 54
+  - title: "CVS Health and Microsoft Announce New Strategic Alliance to Reimagine Personalized Care and Accelerate Digital Transformation"
+    excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions to help consumers improve their health, while empowering over 300,"
+    publishedDateTime: 2021-12-02T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cvs-health-microsoft-announce-new-strategic-alliance-reimagine-/2021/12/02/9503702.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "uEARpynKnn/nHWPodjUbQ9SZyBlRhC9diGsjH8+JNwwxzOFsAKif01yTDaBit9nmmBUVYGYJWaBmBeRSyjMPVCaexX1PdYic0JzkxtGa8ZV5rvRxXyWJng8fTLsg8qaOdQc8AQGUvxE+4o8vADm/HcAaLVZaWBsJZNi/8DywAy+RgQRPxVsJxmC/nvm8H22HVlSIeqhs7v3aP0MWUKHwCxjk8kuPt9C85c4sjzyvvEnQaDPIUZ9xeCmqZwFp7p2131BxcV7RqycQSHBDwLdq4qJz6r2vMARyeQ9EGBgTlXczkrRJT7UgIMs3+hTZ+nqlOreQQWAwSc831s9lF5dSSh35iiFSYQgLQY23/LcBVlM=;jFy2/eYaJ/r43Jg0j3anIw=="
 ---

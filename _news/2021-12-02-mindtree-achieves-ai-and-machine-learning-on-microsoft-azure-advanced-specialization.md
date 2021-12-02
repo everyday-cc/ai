@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-n
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120100516_1.html"
 type: article
 quality: 99
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -115,6 +115,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 41
+  - title: "CVS Health and Microsoft Announce New Strategic Alliance to Reimagine Personalized Care and Accelerate Digital Transformation"
+    excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions to help consumers improve their health, while empowering over 300,"
+    publishedDateTime: 2021-12-02T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cvs-health-microsoft-announce-new-strategic-alliance-reimagine-/2021/12/02/9503702.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "g4oYdWadM34R4+xLKu8ad1WA0OrcfgJ08cthc9fo5F8qVbcc/0Im6z8HRgE6TmUR8NYyKyL4WKPtZkEBuVjFVNa6djKUQ1v6kpbUpSn98DTB9UIE1b52RzIBIuxli8ZTGWH0cSnzsPJS6/Gfk/BpqArZrwxUHfOS5uLtaQNqkO8DhwZDBHF/osKoVTQuSwQtfbyDFwn1mNxXU7z5L5LlcjB2Xozbeqcb1B2RwmAeZihi9LkEdIjEoNYd9yg4ZpCtl2iovvoHhQB8eqUXVlns6LjwY5gIAJFaj4sF22mLVeUHRPimUlZe91w1uxuEAQZ8EKVNmaULs+AJafsnkeeU3JCW5DNlqhACGBDCbjtgFRo=;KSA9SCze9yfWECDig2r41Q=="
 ---

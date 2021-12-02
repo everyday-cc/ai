@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/amp/"
 type: article
 quality: 117
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -175,6 +175,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "The Future of Artificial Intelligence, Cloud Computing, and Digital Twins: Highlights from AWS re: Invent 2021"
+    excerpt: "Invent celebrated its 10th year this year by welcoming visitors back to an in-person event, following last year’s fully virtual event. It also marked the 15th anniversary of the launch of Amazon Web Services itself."
+    publishedDateTime: 2021-12-02T13:33:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-artificial-intelligence-cloud-computing-digital-bernard-marr"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 34
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGRQphiMhqKKg/article-cover_image-shrink_720_1280/0/1638451226850?e=1643846400&v=beta&t=WVSAv4yvlhwKErf2gQf14QW4V6AK5UeRXOdLxHoLSrM"
+        width: 1079
+        height: 720
         isCached: true
   - title: "Top news from re:Invent keynotes"
     excerpt: "Invent keynote given by new CEO Adam Selipsky followed the familiar format and provided totally new services and expected updates to existing ones. No surprise that there were surprises! Adam took us back the 15 years of AWS from the beginnings of S3 early EC2 instances and important launches over the years."

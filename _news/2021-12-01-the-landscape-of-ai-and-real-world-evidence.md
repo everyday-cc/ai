@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai-and-real-world-evidence-supporting-drug-approvals/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and Risk Management Can Work Together"
+    excerpt: "Enterprise risks often consist of unlikely disastrous events. Here is how risk management lends itself to the cognitive capabilities of AI."
+    publishedDateTime: 2021-12-02T13:01:00Z
+    webUrl: "https://www.itbusinessedge.com/it-management/ai-risk-management/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 39
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/12/Can-Artificial-Intelligence-and-Risk-Management-Work-Together-scaled.jpeg"
+        width: 2560
+        height: 1978
+        isCached: true
   - title: "The Different Ways Artificial Intelligence Solves Real-World Digital Identity Challenges"
     excerpt: "Forward-looking businesses are using artificial intelligence to solve real-world digital identity challenges. Javelin's 2020 Identity Fraud Survey revealed the total cost of identity fraud in 2019 to be about $16."
     publishedDateTime: 2021-11-30T23:27:00Z

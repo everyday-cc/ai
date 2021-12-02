@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-22-digital-summit-replay-how-to-bring-your-datasets-to-life.md",
+      "title": "Digital Summit replay: how to bring your datasets to life",
+      "excerpt": "director of AI and data science, Shutterstock; Will Lowe, chief data officer, Engine UK; Sorcha Gilroy, data science team lead, Peak; and David Olesnevich, head of product, IBM Watson Advertising.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrum.com/news/2021/10/22/digital-summit-replay-how-bring-your-datasets-life",
+      "originalUrl": "https://www.thedrum.com/news/2021/10/22/digital-summit-replay-how-bring-your-datasets-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-669632-shutterstock_post-promo--default--1080.png",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drum",
+        "domain": "thedrum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-ibm-rebrands-its-gbs-division-to-emphasize-what-it-actually-does-consulting.md",
       "title": "IBM rebrands its GBS division to emphasize what it actually does: Consulting",
       "excerpt": "Almost two decades after its landmark acquisition of PwC Consulting, IBM Global Business Services (GBS) is now IBM Consulting. What may seem like semantics in the short term should bear fruit in the long.",
@@ -1302,50 +1345,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-indias-health-terrain.md",
-      "title": "IBM, Microsoft, Local Firms Team, Harness AI to Recontour Rural India’s Health Terrain",
-      "excerpt": "Second only to China’s, most of India’s over 1.3 billion-strong population lives in villages. “ [I]n rural India, some 840 million people are challenged by obtaining the healthcare they need. For the average citizen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-india-health-terrain",
-      "originalUrl": "https://www.yicaiglobal.com/news/ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-india-health-terrain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.yicaiglobal.com/cdn/news/ibm-microsoft-local-firms-team-harness-ai-to-recontour-rural-india-health-terrain/16204481401716736.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -41,6 +41,20 @@ related:
         width: 800
         height: 464
         isCached: true
+  - title: "Global Deep Learning Camera Market 2021 Driving Factors, Industry Growth, Key Vendors and Outcomes of the Five Forces Analysis by 2027"
+    excerpt: "MarketandResearch.biz has declared the addition of a new research report titled Global Deep Learning Camera Market Research Report 2021-2027 which is all around made by considering its essential information in the overall global Deep Learning Camera market."
+    publishedDateTime: 2021-12-02T02:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-camera-market-2021-driving-factors-industry-growth-key-vendors-and-outcomes-of-the-five-forces-analysis-by-2027-2021-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "JPi+mifbNQXT3X2/yFRnkz0XmubIiIMuQY8CHjaQqtLYVgDR09xxop11x9EuCYsCRGcm7VGn96+glCmVfmLhxG22fRa5NETY3e5bVywyVpc/YqX9MTcIq1Iwl6MNV4VZZjRZFciTRZ3hTrsjnpeLIZTJL7cuCxutBaoGqpIn9HwM8zecSW5jVFcRsROMC+YTqtqOLX9zsGMxrcN1CpxKc9XNCJOBj21bv5CCzrKXKYoX7/j2f+XwhrjYZslvx3b5OBwwZNVEmtMm58JCmMX4F/Y8VywkwiCIhpZ/DkaEk4xcmLAm11bIxZ6Ltyf+txQJHidz2kp2PqwjZXwWza/0t/2aCV8HEnPqXBnzSPjamantroMVj9dAS/2R/jjVLeneZ2bGLsSSf1X9EEG4ROOpEqAlVq9rdIp90DKpBFjico+zJN6T2ZkTt6zCcygiyWqDpbI/IObN5dJoErhJemtQVGaJs1OErMP2htoHrmX0LWj+Tt8kAhGrv7MKjx/mdOHzcquonLkf8+CitForeulkwA==;Esz4nazzVhY4b5tRfI0ENg=="
 ---

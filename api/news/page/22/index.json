@@ -2,6 +2,344 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-11-13-software-platform-speeds-deployment-of-large-language-models.md",
+      "title": "Software platform speeds deployment of large language models",
+      "excerpt": "NVIDIA opened the door for enterprises worldwide to develop and deploy large language models (LLM) by enabling them to build their own domain-specific chatbots, personal assistants, and other AI applications that understand language with unprecedented levels of subtlety and nuance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eeworldonline.com/software-platform-speeds-deployment-of-large-language-models/",
+      "originalUrl": "https://www.eeworldonline.com/software-platform-speeds-deployment-of-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eeworldonline.com/wp-content/uploads/2021/11/large-language-model-nemo-megatron.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeworldonline.com",
+        "domain": "eeworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-exploring-the-impact-of-machine-learning-and-artificial-intelligence-in-drug-development-from-discovery-to-healthcare.md",
+      "title": "Exploring the Impact of Machine Learning and Artificial Intelligence in Drug Development from Discovery to Healthcare",
+      "excerpt": "SMi Group reports the 3rd Annual AI in Drug Discovery is set to return to London in March 2022 with a key focus on the opportunities of machine learning and AI in drug development SMi Group is delighted to announce",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "originalUrl": "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub12584002_g.jpg",
+          "width": 650,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "publishedDateTime": "2021-11-12T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-monitor-operational-metrics-for-your-amazon-lex-chatbot.md",
+      "title": "Monitor operational metrics for your Amazon Lex chatbot",
+      "excerpt": "Chatbots are increasingly becoming an important channel for companies to interact with their customers, employees, and partners. Amazon Lex allows you to build&nbsp;conversational interfaces into any application using voice and text. Amazon Lex V2 console and APIs make it easier to build, deploy, and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/monitor-operational-metrics-for-your-amazon-lex-chatbot/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/monitor-operational-metrics-for-your-amazon-lex-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-5649-image001.jpg",
+          "width": 2052,
+          "height": 707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T10:19:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-how-ai-fights-fraud-in-the-telecom-industry.md",
+      "title": "How AI fights fraud in the telecom industry",
+      "excerpt": "Americans lost $29.8 billion in phone fraud over the past year. Can AI fraud detection change this? In 2021, over 59 million Americans said they lost money as a result of phone scams, with an average reported loss of $502.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ai-fights-fraud-in-the-telecom-industry/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ai-fights-fraud-in-the-telecom-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/11/12/8fd559d3-583c-4749-a481-c64fd1c451b8/resize/1200x/cb959c0d1ff5d8f4c3b6e9f00d07ee11/shutterstock-1908709960.jpg",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-fights-fraud-in-the-telecom-industry/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-fights-fraud-in-the-telecom-industry/",
+      "publishedDateTime": "2021-11-12T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera.md",
+      "title": "AWS and NVIDIA launch “Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs” on Coursera",
+      "excerpt": "AWS and NVIDIA are excited to announce the new&nbsp;Hands-on Machine Learning with Amazon SageMaker and NVIDIA GPUs course. The course has four parts, and is designed to help machine learning (ML) enthusiasts quickly learn how to perform modern ML in the AWS Cloud. Sign up for the course today on&nbsp;Coursera.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-and-nvidia-launch-hands-on-machine-learning-with-amazon-sagemaker-and-nvidia-gpus-on-coursera/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T09:09:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-when-doctors-become-too-reliant-on-artificial-intelligence.md",
+      "title": "When Doctors Become Too Reliant on Artificial Intelligence",
+      "excerpt": "Human error can confound algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
+      "originalUrl": "https://www.wsj.com/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-434048/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-artificial-intelligence-doctors-medicine-training-patient-records-11636673034",
+      "publishedDateTime": "2021-11-12T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-the-ethics-of-digital-technology-in-the-food-sector.md",
+      "title": "The ethics of digital technology in the food sector",
+      "excerpt": "Imagine a world in which smart packaging for supermarket-ready meals updates you in real-time to tell you about carbon footprints, gives live warnings on product recalls and instant safety alerts because allergens were detected unexpectedly in the factory.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-ethics-digital-technology-food-sector.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-ethics-digital-technology-food-sector.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/supermarket.jpg",
+          "width": 1920,
+          "height": 1104,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-ethics-digital-technology-food-sector.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ethics-digital-technology-food-sector.amp",
+      "publishedDateTime": "2021-11-12T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-stori-raises-200-million-for-financial-services-for-the-underserved.md",
       "title": "Stori Raises $200 Million for Financial Services for the Underserved",
       "excerpt": "Mexico-based Stori landed $200 million this week in combined debt and equity. The investment, which bring the company’s total funding to almost $250 million, will help the fintech provide financial services to its region’s underserved customers.",
@@ -851,317 +1189,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-video-level-computer-vision-advances-business-insights.md",
-      "title": "Video-level computer vision advances business insights",
-      "excerpt": "Instance-based classification, segmentation, and object detection in images are fundamental issues in the context of computer vision. Different from image-level information retrieval, the video ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/",
-      "originalUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-3-e1628543109807.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/amp/",
-      "publishedDateTime": "2021-11-11T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance.md",
-      "title": "The Intersection of AI and DeFi and Why It’s the Future of Finance",
-      "excerpt": "SingularityNET CEO Ben Goertzel joins Jill Malandrino on Nasdaq #TradeTalks virtually from the Singapore Fintech Festival to discuss the intersection of AI and #DeFi and why it’s the future of finance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
-      "originalUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
-      "publishedDateTime": "2021-11-11T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-baidu-3-trades-to-take-advantage-of-recent-price-slip.md",
-      "title": "Baidu: 3 Trades To Take Advantage Of Recent Price Slip",
-      "excerpt": "Although Baidu is known for its internet services and as the leading search engine in China, management’s focus has been shifting to artificial intelligence and autonomous driving. Despite ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investing.com/analysis/baidu-3-trades-to-take-advantage-of-recent-price-slip-200607994",
-      "originalUrl": "https://www.investing.com/analysis/baidu-3-trades-to-take-advantage-of-recent-price-slip-200607994",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-          "width": 500,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-uae-aws-announces-plans-to-open-second-region-in-canada.md",
-      "title": "UAE - AWS Announces Plans to Open Second Region in Canada",
-      "excerpt": "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103152461/UAE-AWS-Announces-Plans-to-Open-Second-Region-in-Canada",
-      "originalUrl": "https://menafn.com/1103152461/UAE-AWS-Announces-Plans-to-Open-Second-Region-in-Canada",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-11/11/A_32f2eimage_story.jpg",
-          "width": 1000,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T11:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-brainchip-goes-to-the-edge-and-beyond-at-edge-ai-summit.md",
-      "title": "BrainChip Goes to the Edge and Beyond at Edge AI Summit",
-      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BCHPY), a leading provider of ultra-low power, high-performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-brainchip-holdings-ltd-artificial-intelligence-789183d73dfb4fe3aed03ac83f32e2d4",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-brainchip-holdings-ltd-artificial-intelligence-789183d73dfb4fe3aed03ac83f32e2d4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-the-best-early-black-friday-deals-2021-walmart-amazon-airpods-more.md",
-      "title": "The Best Early Black Friday Deals 2021: Walmart, Amazon, Airpods & More",
-      "excerpt": "Early Black Friday 2021 deals are here. These are the best Black Friday deals on TVs, laptops, Airpods and more from retailers like Walmart, Amazon and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-walmart-airpods-amazon/",
-      "originalUrl": "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-walmart-airpods-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thewirecutter.com/wp-content/uploads/2019/09/instantreadthermometer-lowres-6543.jpg",
-          "width": 636,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-walmart-airpods-amazon/amp/",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/black-friday-2021-best-early-deals-walmart-airpods-amazon/amp/",
-      "publishedDateTime": "2021-11-11T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-sourceless-blockchain-board-at-larnaca-conferences-2021-the-reality-of-tomorrows-ai-robotics.md",
-      "title": "Sourceless Blockchain Board at Larnaca Conferences 2021 – The reality of tomorrow’s AI & Robotics",
-      "excerpt": "Sourceles Blockchain Board will be present at Larnaca Conferences, where various topics on AI & Robotics will be discussed ... founder of Sourceless Blockchain, Ccoin Network Fintech and Wisp Communication. - Iulian Bondari, graphic and web designer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
-      "originalUrl": "https://www.openpr.com/news/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub11664540_g.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2459423/sourceless-blockchain-board-at-larnaca-conferences-2021",
-      "publishedDateTime": "2021-11-11T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

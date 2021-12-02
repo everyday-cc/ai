@@ -39,20 +39,6 @@ related:
         width: 1678
         height: 943
         isCached: true
-  - title: "Defining what’s ethical in artificial intelligence needs input from Africans"
-    excerpt: "We need international and national policies and regulatory frameworks to ensure that these emerging technologies benefit humanity as a whole."
-    publishedDateTime: 2021-11-27T22:21:00Z
-    webUrl: "https://www.moneyweb.co.za/news/tech/defining-whats-ethical-in-artificial-intelligence-needs-input-from-africans/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 53
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2021/11/file-20211115-25-jk2xnt-1024x670.jpg"
-        width: 1024
-        height: 670
-        isCached: true
   - title: "AI, not the solution for fake news"
     excerpt: "Technology companies and social media enterprises are working on the automatic detection of fake news through natural language processing, machine learning and network analysis. The idea is that an algorithm will identify information as “fake news,"
     publishedDateTime: 2021-11-29T08:09:00Z

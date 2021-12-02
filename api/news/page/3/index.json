@@ -2,21 +2,21 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-12-01-twitch-will-use-machine-learning-to-catch-ban-dodging-trolls.md",
-      "title": "Twitch will use machine learning to catch ban-dodging trolls",
-      "excerpt": "Twitch is introducing a new machine learning feature to help streamers protect their channels from people who may be attempting to avoid bans..",
+      "path": "_news/2021-12-01-the-landscape-of-ai-and-real-world-evidence.md",
+      "title": "The Landscape Of AI And Real-World Evidence",
+      "excerpt": "A new report profiles 125 global companies that bring AI tools to the emerging real-world data and real-world evidence industry",
       "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/twitch-suspicious-user-detection-announcement-000510859.html",
-      "originalUrl": "https://www.engadget.com/twitch-suspicious-user-detection-announcement-000510859.html",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai-and-real-world-evidence-supporting-drug-approvals/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai-and-real-world-evidence-supporting-drug-approvals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://s.yimg.com/os/creatr-images/2019-10/cf1228f0-eb47-11e9-b7bf-ed13b8e4c860",
-          "width": 5076,
-          "height": 3384,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6145eddd5d6aa1cb5c537b2d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T20:04:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai-and-real-world-evidence-supporting-drug-approvals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai-and-real-world-evidence-supporting-drug-approvals/amp/",
+      "publishedDateTime": "2021-12-01T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,196 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-eu-lawmakers-agree-data-reuse-rules-to-foster-ai-and-rd.md",
+      "title": "EU lawmakers agree data reuse rules to foster AI and R&D",
+      "excerpt": "It’s just over a year since the European Union’s executive proposed legislation aimed at encouraging widespread sharing and reuse of industrial data and protected public sector data-sets — such as health data,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/",
+      "originalUrl": "https://techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1295745465.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/amp/",
+      "publishedDateTime": "2021-12-01T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-face-recognition-ai-chip-with-978-accuracy-up-to-3-metres-for-sonys-imx500.md",
+      "title": "Face recognition AI chip with 97.8% accuracy up to 3 metres for Sony’s IMX500",
+      "excerpt": "Xailient has revealed what it describes as the ‘world’s most power-efficient’ Face Recognition AI which runs on Sony’s IMX500 intelligent vision sensor with edge AI processing capability. The chip, which is so small it fits on a fingertip,",
+      "sourceUrl": null,
+      "webUrl": "https://www.hiddenwires.co.uk/products/article/face-recognition-ai-chip-with-978-accuracy-up-to-3-metres-for-sonys-imx500",
+      "originalUrl": "https://www.hiddenwires.co.uk/products/article/face-recognition-ai-chip-with-978-accuracy-up-to-3-metres-for-sonys-imx500",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1638355186/widgetdocs/MicrosoftTeams-image_17_dljs1q.jpg",
+          "width": 750,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T02:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hiddenwires",
+        "domain": "hiddenwires.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-scientists-create-living-robots-that-can-reproduce-on-their-own.md",
+      "title": "Scientists create living robots that can reproduce on their own",
+      "excerpt": "In 2020, scientists unveiled the creation of extremely small robots (less than a milimeter wide) made from stem cells of the African clawed frog. Called xenobots, these tiny autonomous creatures were designed using artificial intelligence to resemble Pacman-like shapes,",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own",
+      "originalUrl": "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/xenobots-reproduce-header_dhke.620.png",
+          "width": 620,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1",
+      "publishedDateTime": "2021-11-30T20:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-gpu-market-size-industry-forecast-report-to-2024.md",
+      "title": "GPU Market Size | Industry Forecast Report To 2024",
+      "excerpt": "GPU Market is set to exceed USD 80 billion by 2024; according to a new research report by Global Market Insights, Inc. Ever increasing demand for advanced graphics processing across several sectors is majorly driving the graphics processing unit (GPU) market trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-size-industry-forecast-report-to-2024-2021-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-market-size-industry-forecast-report-to-2024-2021-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T20:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -93,6 +282,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-twitchs-new-suspicious-user-detection-tool-aims-to-stop-ban-evasion.md",
+      "title": "Twitch's new Suspicious User Detection tool aims to stop ban evasion",
+      "excerpt": "Twitch has introduced a new tool designed to detect people who create new accounts to circumvent channel bans. Called Suspicious User Detection, this new feature is intended to help combat harassment — a recurring problem on the streaming platform.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/twitch-ban-evasion-detection",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/twitchs-new-suspicious-user-detection-tool-aims-to-stop-ban-evasion/ar-AARjX7I",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/05b2W2RLB9O93IPii7yTggq/hero-image.fill.size_1200x675.v1638323039.jpg",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/twitch-ban-evasion-detection?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/twitch-ban-evasion-detection?amp",
+      "publishedDateTime": "2021-11-30T18:04:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https://mashable.com/article/twitch-ban-evasion-detection",
+        "domain": "https://mashable.com/article/twitch-ban-evasion-detection",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -354,6 +585,57 @@
         "AI Hardware",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-overconfident-china-could-make-miscalculations-british-spy-chief-says.md",
+      "title": "Overconfident China could make miscalculations, British spy chief says",
+      "excerpt": "An overconfident and assertive China under President Xi Jinping and Communist Party rule risks making miscalculations on the international stage, including underestimating the resolve of the United States,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/world/uk/british-mi6-spy-chief-warns-race-is-mastery-ai-2021-11-30/",
+      "originalUrl": "https://www.reuters.com/world/uk/british-mi6-spy-chief-warns-race-is-mastery-ai-2021-11-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/uDYE4bLV87mJrMK1nYeyRc8TWQ0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZKYAV62CXBMBRNX27LUVAJ5FHM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -711,7 +993,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/30/aws-gets-a-no-code-ml-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 188,
       "tags": null,
       "images": [
         {
@@ -808,7 +1090,7 @@
       "originalUrl": "https://venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 237,
       "tags": null,
       "images": [
         {
@@ -955,298 +1237,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-swimming-australia-making-gold-medalists-with-machine-learning.md",
-      "title": "Swimming Australia: Making Gold Medalists With Machine Learning",
-      "excerpt": "For Swimming Australia, a more unified view of data was essential to optimizing athlete performance at the Tokyo Olympic games—and bringing home nine gold medals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a556232a037d3c244a6212%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/amp/",
-      "publishedDateTime": "2021-11-30T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-using-artificial-intelligence-to-advance-energy-technologies.md",
-      "title": "Using artificial intelligence to advance energy technologies",
-      "excerpt": "Hongliang Xin, an associate professor of chemical engineering in the College of Engineering, and his collaborators have devised a new artificial intelligence framework that can accelerate discovery of materials for important technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.html",
-      "originalUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/68-artificialin.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.amp",
-      "publishedDateTime": "2021-11-30T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-europes-ai-act-falls-far-short-on-protecting-fundamental-rights-civil-society-groups-warn.md",
-      "title": "Europe’s AI Act falls far short on protecting fundamental rights, civil society groups warn",
-      "excerpt": "Civil society has been poring over the detail of the European Commission’s proposal for a risk-based framework for regulating applications of artificial intelligence which was proposed by the EU’s executive back in April.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/30/eu-ai-act-civil-society-recommendations/",
-      "originalUrl": "https://techcrunch.com/2021/11/30/eu-ai-act-civil-society-recommendations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-51478187.jpg?w=1024",
-          "width": 1024,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/30/eu-ai-act-civil-society-recommendations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/eu-ai-act-civil-society-recommendations/amp/",
-      "publishedDateTime": "2021-11-30T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-nasdaq-and-aws-partner-to-transform-capital-markets.md",
-      "title": "Nasdaq and AWS Partner to Transform Capital Markets",
-      "excerpt": "Nasdaq Will Begin Migrating Markets to AWS Starting in 2022 Co-Designed Edge Computing Solution Offers On-Ramp for Global Capital Markets to Migrate to AWS Nasdaq's Primary",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/g24363441/nasdaq-and-aws-partner-to-transform-capital-markets",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/g24363441/nasdaq-and-aws-partner-to-transform-capital-markets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24363441",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24363441",
-      "publishedDateTime": "2021-11-30T07:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-ai-software-market-forecast-to-hit-625-billion-in-2022.md",
-      "title": "AI Software Market Forecast to Hit $62.5 Billion in 2022",
-      "excerpt": "The AI software market is expected grow 21.3% next year, according to Gartner, as enterprises boost their AI spending.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230",
-      "originalUrl": "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-443065/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-fundbox-a-fintech-focused-on-smbs-raises-100m-at-a-11b-valuation.md",
-      "title": "Fundbox, a fintech focused on SMBs, raises $100M at a $1.1B valuation",
-      "excerpt": "Fundbox, a company that offers loans to small businesses, announced today it has raised $100 million in a Series D round at a valuation of $1.1 billion. Or more simply, the company aims to solve SMBs’ working capital needs through its credit and payments offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/30/fundbox-raises-100m/",
-      "originalUrl": "https://techcrunch.com/2021/11/30/fundbox-raises-100m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/06/unicorn-money.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/30/fundbox-raises-100m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/fundbox-raises-100m/amp/",
-      "publishedDateTime": "2021-11-30T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

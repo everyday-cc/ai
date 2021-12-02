@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-02-artificial-intelligence-based-spine-modeling-now-available.md",
+      "title": "Artificial Intelligence Based Spine Modeling Now Available",
+      "excerpt": "Based on artificial intelligence (AI) algorithms from IBM’s Watson Health, Ricoh USA, the U.S. arm of the Japanese digital services and information company, has created a remarkable, must-be-seen-to-be-believed,",
+      "sourceUrl": null,
+      "webUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/",
+      "originalUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ryortho.com/wp-content/uploads/2021/12/ArtificialIntelligence_ROCOH_WEB.jpg",
+          "width": 850,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/amp/",
+      "cdnAmpWebUrl": "https://ryortho-com.cdn.ampproject.org/c/s/ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/amp/",
+      "publishedDateTime": "2021-12-02T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orthopedics This Week",
+        "domain": "ryortho.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy.md",
       "title": "How Artificial Intelligence And Machine Learning Are Transforming The Future Of Renewable Energy",
       "excerpt": "All of these resources are tied up with the weather, which is something humans can’t control. Artificial intelligence has helped in overcoming this challenge because it is a reliable tool for forecasting the weather.",
@@ -1307,49 +1350,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-22-digital-summit-replay-how-to-bring-your-datasets-to-life.md",
-      "title": "Digital Summit replay: how to bring your datasets to life",
-      "excerpt": "director of AI and data science, Shutterstock; Will Lowe, chief data officer, Engine UK; Sorcha Gilroy, data science team lead, Peak; and David Olesnevich, head of product, IBM Watson Advertising.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrum.com/news/2021/10/22/digital-summit-replay-how-bring-your-datasets-life",
-      "originalUrl": "https://www.thedrum.com/news/2021/10/22/digital-summit-replay-how-bring-your-datasets-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-669632-shutterstock_post-promo--default--1080.png",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drum",
-        "domain": "thedrum.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

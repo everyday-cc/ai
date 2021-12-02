@@ -53,6 +53,20 @@ related:
         width: 765
         height: 446
         isCached: true
+  - title: "Nuro partners with 7-Eleven on self-driving delivery project"
+    excerpt: "Nuro, an autonomous delivery company, is partnering with 7-Eleven on the convenience store’s first self-driving delivery project that will take place in Mountain View, California. Customers will be able to use the 7NOW delivery app to have their products delivered via self-driving cars."
+    publishedDateTime: 2021-12-02T13:26:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17483/nuro-partners-with-7-eleven-on-self-driving-delivery-project"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/483/17483/7_Eleven_x_Nuro.jpg"
+        width: 752
+        height: 500
+        isCached: true
 
 secured: "AtIvZMYf6WCuTw9wS4otVna4Ekk0qOYIVcoxxc/BW9bjURvL2nmZ7RQA2BOZdgJHyhoDjH3nS2UrxKo4i8VD76EgsXlO1WWLiaobEYyKhjjkE3pVDs1+EX5zib6SiBq2DkwcsGeWDGJ2qpb1Q7bYHlvDu7s7qHMoPSn/mCcoCcVZ69Uv0swAWuJkLMGjNX1MU4LiFzMsUGJkUInME9goaC3gddgqkCfje6B6gTJUOcTwtBc8+KRLkvRv66l2/Qem2M9O4XjJhW6alZ/vxpOBLjOQPpm7/QNTi7j11FxrA/bZ15Ks8xoVXsxI1gDPGINcA00ZmkJ4VkSkFX+3vR7z0MfgBEO+NbBIu/yDjfBh6Gw=;2YDL9xMIpEkaVrbIMHxrZw=="
 ---

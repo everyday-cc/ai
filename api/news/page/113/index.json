@@ -2,6 +2,335 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2021-09-09-the-best-voice-assistant.md",
+      "title": "The best voice assistant",
+      "excerpt": "Whether your voice assistant is the hub of your smart home, or simply a smartphone-based helper that tells you if it's raining, the best assistants streamline your relationship with technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/the-best-voice-assistant/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/the-best-voice-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/09/02/3b21433b-785f-4116-b615-9ffb576a6e72/amazon-alexa.jpg",
+          "width": 1000,
+          "height": 994,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/the-best-voice-assistant/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/the-best-voice-assistant/",
+      "publishedDateTime": "2021-09-08T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-chinas-weride-unveils-robovan-its-first-electric-autonomous-cargo-van.md",
+      "title": "China’s WeRide unveils Robovan, its first electric, autonomous cargo van",
+      "excerpt": "Chinese autonomous driving company WeRide has unveiled its first cargo van, the vessel upon which it will self-drive into the world of urban logistics. WeRide will work with Chinese automobile manufacturer Jiangling Motors (JMC) and Chinese express delivery company ZTO Express to commercialize its",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/08/weride-jiangling-motors-and-zto-express-unveil-robovan-an-autonomous-cargo-van/",
+      "originalUrl": "https://techcrunch.com/2021/09/08/weride-jiangling-motors-and-zto-express-unveil-robovan-an-autonomous-cargo-van/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/WeRide-Robovan-Chinas-first-L4-self-driving-cargo-van-2-1.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/08/weride-jiangling-motors-and-zto-express-unveil-robovan-an-autonomous-cargo-van/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/08/weride-jiangling-motors-and-zto-express-unveil-robovan-an-autonomous-cargo-van/amp/",
+      "publishedDateTime": "2021-09-08T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-irobot-introduces-roomba-j7-robot-vacuum-with-genius-30-home-intelligence-clean-the-way-you-want-so-you-can-human.md",
+      "title": "iRobot Introduces Roomba® j7+ Robot Vacuum with Genius™ 3.0 Home Intelligence - Clean the Way You Want, So You Can Human",
+      "excerpt": "Designed to seamlessly blend into your home, the iRobot Roomba j7+ is a thoughtful, collaborative cleaning partner that delivers superior cleaning performance with every mission. Powered by iRobot Genius 3.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence-clean-the-way-you-want-so-you-can-human-1030788791",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence-clean-the-way-you-want-so-you-can-human-1030788791",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.multivu.com/players/English/8917451-irobot-introduces-roomba-j7-robot-vacuum-with-genius-3-0-home-intelligence/image/PetWaste_1630535359137-HR.jpg",
+          "width": 2048,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-bill-virgin-driverless-trucks-could-give-drones-a-run-for-their-delivery-money.md",
+      "title": "Bill Virgin: Driverless trucks could give drones a run for their delivery money",
+      "excerpt": "Earlier this year, it announced it has been working with Nvidia, a developer of artificial-intelligence systems, on driverless trucks. The announcement was accompanied by a video of just such a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenewstribune.com/news/business/biz-columns-blogs/article147436959.html",
+      "originalUrl": "https://www.thenewstribune.com/news/business/biz-columns-blogs/article147436959.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.thenewstribune.com/news/business/biz-columns-blogs/article147436959.html",
+      "cdnAmpWebUrl": "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/biz-columns-blogs/article147436959.html",
+      "publishedDateTime": "2021-09-08T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Tribune",
+        "domain": "thenewstribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold.md",
+      "title": "This Robot Trader Just Turned Bullish on Amazon, Facebook, and Nvidia. Here’s What It Sold.",
+      "excerpt": "An exchange-traded fund with holdings decided by artificial intelligence ... and Lam Research (LRCX), and beauty products powerhouse Estée Lauder (EL). Facebook and Nvidia’s respective pushes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold-51631118900?siteid=yhoof2",
+      "originalUrl": "https://www.barrons.com/articles/this-robot-trader-just-turned-bullish-on-amazon-facebook-and-nvidia-heres-what-it-sold-51631118900?siteid=yhoof2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-378016/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/robot-trader-amazon-facebook-nvidia-stock-51631118900",
+      "publishedDateTime": "2021-09-08T21:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-irobot-introduces-roomba-j7-robot-vacuum-with-geniustm-30-home-intelligence-clean-the-way-you-want-so-you-can-human.md",
+      "title": "iRobot Introduces Roomba® j7+ Robot Vacuum with Geniustm 3.0 Home Intelligence - Clean the Way You Want, So You Can Human",
+      "excerpt": "Robots should clean your home exactly how you want them to, understanding your specific instructions and unique preferences. iRobot Corp. , a leader in consumer robots, today is giving customers even more control over their clean with the",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19988400.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19988400.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-08T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-irobots-roomba-j7-robot-vacuum-uses-machine-learning-to-avoid-pet-poop.md",
+      "title": "iRobot's Roomba j7+ Robot Vacuum Uses Machine Learning to Avoid Pet Poop",
+      "excerpt": "The company is offering a P.O.O.P. (Pet Owner Official Promise) guarantee that its latest robot vac will avoid solid waste.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet",
+      "originalUrl": "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02r1tXjDU88QfgITP4P7TKQ-1.1631035488.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/irobots-roomba-j7-plus-robot-vacuum-uses-machine-learning-to-avoid-pet?amp=true",
+      "publishedDateTime": "2021-09-08T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-police-are-investing-in-facial-recognition-and-ai-not-everyone-thinks-that-its-going-well.md",
       "title": "Police are investing in facial recognition and AI. Not everyone thinks that it's going well",
       "excerpt": "A panel of experts warns that the growing use of technology in law enforcement agencies is starting a new wave of backlash from citizens and civil society.",
@@ -868,327 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-the-massive-though-less-flashy-opportunity-in-fintech.md",
-      "title": "The Massive (Though Less Flashy) Opportunity In FinTech",
-      "excerpt": "The best value for investors will be unlocked by companies that figure out how to enable the big players to take advantage of the innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/08/the-massive-though-less-flashy-opportunity-in-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/08/the-massive-though-less-flashy-opportunity-in-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa04090dbe6060713a7319b%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/09/08/the-massive-though-less-flashy-opportunity-in-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/09/08/the-massive-though-less-flashy-opportunity-in-fintech/amp/",
-      "publishedDateTime": "2021-09-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling.md",
-      "title": "Sonoco (SON) Inks Deal With AMP Robotics, Boosts Paper Can Recycling",
-      "excerpt": "Sonoco Products Company SON has joined forces with AMP Robotics to recycle the spiral wound paper canister with steel bottom produced by it and other manufacturers. Recycled steel usage has a 45% lesser environmental impact when compared to producing an equal amount from a virgin material,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling-2021-09-08",
-      "originalUrl": "https://www.nasdaq.com/articles/sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling-2021-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling-2021-09-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sonoco-son-inks-deal-with-amp-robotics-boosts-paper-can-recycling-2021-09-08?amp",
-      "publishedDateTime": "2021-09-08T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-the-pentagons-robot-warship-just-fired-its-first-missile.md",
-      "title": "The Pentagon’s Robot Warship Just Fired Its First Missile",
-      "excerpt": "One of the U.S. Defense Department’s two prototype robot warships just fired its first missile. The military on Friday hailed the test-launch of an SM-6 missile from the Unmanned Surface Vessel Ranger,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidaxe/2021/09/08/the-pentagons-robot-warships-just-fired-their-first-missiles/",
-      "originalUrl": "https://www.forbes.com/sites/davidaxe/2021/09/08/the-pentagons-robot-warships-just-fired-their-first-missiles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6137d6cc26410bfa71ebcb59%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1104%26cropY1%3D74%26cropY2%3D591",
-          "width": 1104,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidaxe/2021/09/08/the-pentagons-robot-warships-just-fired-their-first-missiles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidaxe/2021/09/08/the-pentagons-robot-warships-just-fired-their-first-missiles/amp/",
-      "publishedDateTime": "2021-09-08T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-secureauth-identity-security-solutions-now-available-in-aws-marketplace.md",
-      "title": "SecureAuth Identity Security Solutions Now Available in AWS Marketplace",
-      "excerpt": "SecureAuth, an identity security leader, today announced the availability of the SecureAuth Identity Platform and the SecureAuth Identity Store in AWS Marketplace. AWS Marketplace is a digital catalog with thousands of software listings",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19986009.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19986009.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T03:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-what-you-need-to-know-about-facial-recognition-home-security-cameras.md",
-      "title": "What you need to know about facial recognition home security cameras",
-      "excerpt": "As facial recognition technology becomes more prevalent in home security cameras, it's important to understand what it is and how it's used. Here, we break it all down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/what-you-need-to-know-about-facial-recognition-home-security-cameras/",
-      "publishedDateTime": "2021-09-07T23:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-microsoft-grows-azure-space-australia-with-nokia-sa-govt-and-university-of-adelaide.md",
-      "title": "Microsoft grows Azure Space Australia with Nokia, SA govt and University of Adelaide",
-      "excerpt": "Azure Space Australia will be focused on building space and satellite solutions that leverage cloud, 5G technology, AI, and analytics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "originalUrl": "https://www.zdnet.com/index.php/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/09/07/c3bacc60-39aa-4bae-b0b8-02b219f987e2/azure-satellite-diagram-1000x563.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/microsoft-australia-grows-azure-space-with-nokia-sa-government-and-university-of-adelaide/",
-      "publishedDateTime": "2021-09-07T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-six-masters-two-phd-scholarships-available-at-su-courtesy-of-deepmind.md",
-      "title": "Six Masters, two PhD scholarships available at SU courtesy of DeepMind",
-      "excerpt": "The DeepMind scholarship programme gives talented students from groups currently underrepresented in machine learning, including women, the support they need to study at leading universities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engineeringnews.co.za/article/six-masters-two-phd-scholarships-available-at-su-courtesy-of-deepmind-2021-06-04/rep_id:4136",
-      "originalUrl": "https://www.engineeringnews.co.za/article/six-masters-two-phd-scholarships-available-at-su-courtesy-of-deepmind-2021-06-04/rep_id:4136",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg",
-          "width": 1022,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering News",
-        "domain": "engineeringnews.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

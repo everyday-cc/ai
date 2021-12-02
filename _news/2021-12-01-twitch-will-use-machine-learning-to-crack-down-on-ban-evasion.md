@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Twitch's new Suspicious User Detection tool aims to stop ban evasion"
+    excerpt: "Twitch has introduced a new tool designed to detect people who create new accounts to circumvent channel bans. Called Suspicious User Detection, this new feature is intended to help combat harassment — a recurring problem on the streaming platform."
+    publishedDateTime: 2021-12-01T02:04:54Z
+    webUrl: "https://mashable.com/article/twitch-ban-evasion-detection"
+    ampWebUrl: "https://mashable.com/article/twitch-ban-evasion-detection?amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/twitch-ban-evasion-detection?amp"
+    type: article
+    provider:
+      name: https://mashable.com/article/twitch-ban-evasion-detection
+      domain: https://mashable.com/article/twitch-ban-evasion-detection
+    quality: 157
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/05b2W2RLB9O93IPii7yTggq/hero-image.fill.size_1200x675.v1638323039.jpg"
+        width: 1199
+        height: 675
+        isCached: true
   - title: "Twitch will use machine learning to catch ban-dodging trolls"
     excerpt: "Twitch is introducing a new machine learning feature to help streamers protect their channels from people who may be attempting to avoid bans.."
     publishedDateTime: 2021-12-01T04:04:00Z

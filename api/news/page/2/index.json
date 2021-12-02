@@ -2,6 +2,219 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-02-4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy.md",
+      "title": "4 AI trends for 2022: Neural networks, strategic ethics, better hiring and gastronomy",
+      "excerpt": "In 2022, we can expect AI to expand its reach into robotic automation, better software for decision-making and a confrontation of the looming ethical issues, according to Sony experts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
+      "originalUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/02/b1bed642-5c3b-45a0-83b4-6f3308cf3795/resize/1200x/5a1638d5619f9c86f3ccb120f4785b3b/server-robot.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
+      "publishedDateTime": "2021-12-01T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch.md",
+      "title": "Evolution of Cresta’s machine learning architecture: Migration to AWS and PyTorch",
+      "excerpt": "Cresta Intelligence, a California-based AI startup, makes businesses radically more productive by using Expertise AI to help sales and service teams unlock their full potential. Cresta is bringing together world-renowned AI thought-leaders, engineers, and investors to create a real-time coaching and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/26/ML-6937-image001-782x630.png",
+          "width": 782,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T11:26:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-meta-launches-pytorch-live-to-build-ai-powered-mobile-experiences.md",
+      "title": "Meta launches PyTorch Live to build AI-powered mobile experiences",
+      "excerpt": "Meta (formerly Facebook) has launched PyTorch Live, a set of tools for developing AI-powered experiences on Android and iOS.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/",
+      "originalUrl": "https://venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-10.28.20-PM.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/meta-launches-pytorch-live-a-set-of-tools-for-building-ai-powered-mobile-experiences/amp/",
+      "publishedDateTime": "2021-12-01T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier.md",
+      "title": "AWS launches new SageMaker features to make scaling machine learning easier",
+      "excerpt": "Invent conference, AWS today rolled out a slew of new features for SageMaker, the company’s managed service for building, training and deploying machine learning (ML) models. Swami Sivasubramanian, the vice president of machine learning at Amazon,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/",
+      "originalUrl": "https://techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/aws-conference-header.png?w=1024",
+          "width": 1022,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/amp/",
+      "publishedDateTime": "2021-12-01T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-aws-announces-free-machine-learning-educational-materials-and-training-resources.md",
       "title": "AWS announces free machine learning educational materials and training resources",
       "excerpt": "says it’s trying to break down accessibility barriers around machine learning technology and make it possible for anyone who’s interested to become an",
@@ -367,7 +580,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 246,
       "tags": null,
       "images": [
         {
@@ -409,6 +622,49 @@
         "Google AI",
         "AI",
         "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-deep-learning-dreams-up-new-protein-structures.md",
+      "title": "Deep learning dreams up new protein structures",
+      "excerpt": "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools. In a report in Nature, researchers describe the development of a neural network that \"hallucinates\" proteins with new,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-12-deep-protein.html",
+      "originalUrl": "https://phys.org/news/2021-12-deep-protein.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-dreams-u.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-12-deep-protein.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-deep-protein.amp",
+      "publishedDateTime": "2021-12-01T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -942,247 +1198,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-the-landscape-of-ai-and-real-world-evidence.md",
-      "title": "The Landscape Of AI And Real-World Evidence",
-      "excerpt": "A new report profiles 125 global companies that bring AI tools to the emerging real-world data and real-world evidence industry",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai-and-real-world-evidence-supporting-drug-approvals/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai-and-real-world-evidence-supporting-drug-approvals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6145eddd5d6aa1cb5c537b2d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai-and-real-world-evidence-supporting-drug-approvals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai-and-real-world-evidence-supporting-drug-approvals/amp/",
-      "publishedDateTime": "2021-12-01T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-eu-lawmakers-agree-data-reuse-rules-to-foster-ai-and-rd.md",
-      "title": "EU lawmakers agree data reuse rules to foster AI and R&D",
-      "excerpt": "It’s just over a year since the European Union’s executive proposed legislation aimed at encouraging widespread sharing and reuse of industrial data and protected public sector data-sets — such as health data,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/",
-      "originalUrl": "https://techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1295745465.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/data-governance-act-provisional-agreement/amp/",
-      "publishedDateTime": "2021-12-01T04:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-face-recognition-ai-chip-with-978-accuracy-up-to-3-metres-for-sonys-imx500.md",
-      "title": "Face recognition AI chip with 97.8% accuracy up to 3 metres for Sony’s IMX500",
-      "excerpt": "Xailient has revealed what it describes as the ‘world’s most power-efficient’ Face Recognition AI which runs on Sony’s IMX500 intelligent vision sensor with edge AI processing capability. The chip, which is so small it fits on a fingertip,",
-      "sourceUrl": null,
-      "webUrl": "https://www.hiddenwires.co.uk/products/article/face-recognition-ai-chip-with-978-accuracy-up-to-3-metres-for-sonys-imx500",
-      "originalUrl": "https://www.hiddenwires.co.uk/products/article/face-recognition-ai-chip-with-978-accuracy-up-to-3-metres-for-sonys-imx500",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/iml/image/upload/w_750,c_scale/w_750,c_scale/v1638355186/widgetdocs/MicrosoftTeams-image_17_dljs1q.jpg",
-          "width": 750,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T02:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hiddenwires",
-        "domain": "hiddenwires.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-scientists-create-living-robots-that-can-reproduce-on-their-own.md",
-      "title": "Scientists create living robots that can reproduce on their own",
-      "excerpt": "In 2020, scientists unveiled the creation of extremely small robots (less than a milimeter wide) made from stem cells of the African clawed frog. Called xenobots, these tiny autonomous creatures were designed using artificial intelligence to resemble Pacman-like shapes,",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own",
-      "originalUrl": "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/xenobots-reproduce-header_dhke.620.png",
-          "width": 620,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1",
-      "publishedDateTime": "2021-11-30T20:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-gpu-market-size-industry-forecast-report-to-2024.md",
-      "title": "GPU Market Size | Industry Forecast Report To 2024",
-      "excerpt": "GPU Market is set to exceed USD 80 billion by 2024; according to a new research report by Global Market Insights, Inc. Ever increasing demand for advanced graphics processing across several sectors is majorly driving the graphics processing unit (GPU) market trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-size-industry-forecast-report-to-2024-2021-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-market-size-industry-forecast-report-to-2024-2021-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T20:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

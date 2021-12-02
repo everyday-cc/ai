@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24374114"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24374114"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Prostate cancer: AI pathologist used to help diagnosis"
+    excerpt: "Artificial intelligence could improve cancer diagnosis and help save lives, a senior doctor has claimed. Betsi Cadwaladr University Health Board has rolled out an \"AI pathologist\" to help test men for prostate cancer."
+    publishedDateTime: 2021-12-02T09:23:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-59491186"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/12AAE/production/_121926467_ibexaiinaction.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Top Opportunities for Artificial Intelligence to Improve Cancer Care"
     excerpt: "By implementing artificial intelligence into cancer care, machine learning tools can detect cancer, assist in decision-making, and recommend treatment approaches."
     publishedDateTime: 2021-11-29T13:30:00Z
@@ -38,20 +52,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 39
-  - title: "Prostate cancer: AI pathologist used to help diagnosis"
-    excerpt: "Artificial intelligence could improve cancer diagnosis and help save lives, a senior doctor has claimed. Betsi Cadwaladr University Health Board has rolled out an \"AI pathologist\" to help test men for prostate cancer."
-    publishedDateTime: 2021-12-02T09:23:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-wales-59491186?at_medium=RSS&at_campaign=KARANGA"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13756/production/_121920797_gettyimages-1128870494.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "RLUwy6xrOO8v76U7kRDNNd3EncvAeO8tbdpVYPF7+ZBZXZKOXLwBoIjOcXf6MoiX48BE5ymc/eitLgGoq6z1WTHu+Y9Adeb3xH7/MsWIQGPaKXFaPTvb0z2G+utqRMdutc967218LfQN7lcEBh/2Zy1x49D9ekfT1c1zInuG//wEuHpkr4LmnLuzXQYej6TjiJ6/R4iZyPWYCFkulTvrRqnmKqF8hr8F9t9pY+CTTN+/rct2NRck0weoqq5XuqT1Jge7bngbpJi0NW0+JCigIXs+VSV6iUX18oIfbs4f7+F51osuZrwMFiaUKgh81heKYLoqy+CIFYBsuhb9PFezA+9g/d3s/EkOhhdcXWJSNMM=;mHp43j1XIcQUoRtjyQON1w=="
 ---

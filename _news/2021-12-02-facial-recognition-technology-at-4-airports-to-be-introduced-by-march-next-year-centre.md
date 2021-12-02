@@ -43,6 +43,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "These 4 Airports To Have Facial Recognition-Based Boarding By March 2022"
+    excerpt: "The Airports Authority of India (AAI) was working on the country's first facial recognition technology-based biometric boarding system for passengers at Varanasi, Pune, Kolkata and Vijayawada airports,"
+    publishedDateTime: 2021-12-02T13:35:00Z
+    webUrl: "https://www.ndtv.com/india-news/these-4-airports-to-have-facial-recognition-based-boarding-by-march-2022-2634514"
+    ampWebUrl: "https://www.ndtv.com/india-news/these-4-airports-to-have-facial-recognition-based-boarding-by-march-2022-2634514/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/these-4-airports-to-have-facial-recognition-based-boarding-by-march-2022-2634514/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 73
+    images:
+      - url: "https://c.ndtvimg.com/2019-05/soicn89g_airport-generic_625x300_10_May_19.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Facial recognition tech at 4 airports to be introduced by March 2022: Govt"
     excerpt: "The Airports Authority of India (AAI) is working on a project of FRT-based Biometric Boarding System as part of the first phase of Digi Yatra Implementation at four airports"
     publishedDateTime: 2021-12-02T09:22:00Z
@@ -90,6 +106,22 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/12/02/1600x900/convention-software-recognition-internet-conference-advertising-national_4e1e1bbc-468e-11ea-b9ea-c2a424b98379_1638437892029.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "AAI working on India's first facial recognition-based passenger boarding system: Government"
+    excerpt: "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government."
+    publishedDateTime: 2021-12-02T13:36:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/aai-working-on-indias-first-facial-recognition-based-passenger-boarding-system-government/articleshow/88054660.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/transportation/airlines-/-aviation/aai-working-on-indias-first-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88054660.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/transportation/airlines-/-aviation/aai-working-on-indias-first-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88054660.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 64
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-5438,msid-88054686/aviation-.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Centre introduces unique face recognition technology for pensioners"
     excerpt: "The Central government on Monday introduced a unique face recognition technology for pensioners aimed at bringing ease of living for the retired and t.."
@@ -166,6 +198,20 @@ related:
       - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/biometric-technology-digital-Face-Scanning-recognition-human-head-shut.jpg"
         width: 760
         height: 443
+        isCached: true
+  - title: "Facial recognition at airports optional, data will not be shared with anyone: Ministry of Civil Aviation"
+    excerpt: "With the government introducing facial recognition in airports, the Ministry of Civil Aviation clarifies that passengers can opt out."
+    publishedDateTime: 2021-12-02T13:09:00Z
+    webUrl: "https://www.medianama.com/2021/12/223-facial-recognition-airports-digi-yatra-parliament/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 37
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/12/l-filipe-c-sousa-0nUcd4-pp5k-unsplash-e1638448316926.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Three-in-Four Massachusetts Residents See Facial Recognition Technologies as Beneficial"
     excerpt: "Seventy-five percent of Massachusetts residents see the use of facial recognition technologies by law enforcement as appropriate and beneficial, according to new research"

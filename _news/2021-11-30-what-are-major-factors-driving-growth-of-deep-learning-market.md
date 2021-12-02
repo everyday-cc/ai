@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2479968/what-are-major-factors-driving-gr
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2479968/what-are-major-factors-driving-growth-of-deep-learning-market"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: openpr.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Deep Learning Camera Market 2021 Driving Factors, Industry Growth, Key Vendors and Outcomes of the Five Forces Analysis by 2027"
+    excerpt: "MarketandResearch.biz has declared the addition of a new research report titled Global Deep Learning Camera Market Research Report 2021-2027 which is all around made by considering its essential information in the overall global Deep Learning Camera market."
+    publishedDateTime: 2021-12-02T02:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-camera-market-2021-driving-factors-industry-growth-key-vendors-and-outcomes-of-the-five-forces-analysis-by-2027-2021-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Omaha startup Bot Image set to revolutionize prostate cancer detection using cutting-edge machine learning software"
     excerpt: "The Omaha-based MRI medical device company, Bot Image Inc., announced this month an addition to its line of software products aimed at assisting the detection of prostate cancer. Dubbed QT Prostate MRI,"
     publishedDateTime: 2021-11-30T20:30:00Z

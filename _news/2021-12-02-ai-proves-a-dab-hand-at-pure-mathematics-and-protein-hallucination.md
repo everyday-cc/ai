@@ -48,6 +48,22 @@ related:
         width: 1198
         height: 600
         isCached: true
+  - title: "How Machine Learning Aids New Mathematics Discoveries"
+    excerpt: "Computers have long been used to aid mathematicians when it comes to solving long, complex and experimental equations. Additionally, machine learning and AI have also found application in disproving mathematical conjectures and theorems by being able to toil through vast fields of data and spot anomalies."
+    publishedDateTime: 2021-12-02T14:31:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12638"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12638"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12638"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 108
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12638_16384551289877625.jpg"
+        width: 2000
+        height: 1285
+        isCached: true
   - title: "Maths researchers hail breakthrough in applications of artificial intelligence"
     excerpt: "For the first time, computer scientists and mathematicians have used artificial intelligence to help prove or suggest new mathematical theorems in the complex fields of knot theory and representation theory."
     publishedDateTime: 2021-12-01T16:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021
 webUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Defining what’s ethical in artificial intelligence needs input from Africans"
-    excerpt: "We need international and national policies and regulatory frameworks to ensure that these emerging technologies benefit humanity as a whole."
-    publishedDateTime: 2021-11-27T22:21:00Z
-    webUrl: "https://www.moneyweb.co.za/news/tech/defining-whats-ethical-in-artificial-intelligence-needs-input-from-africans/"
-    type: article
-    provider:
-      name: Moneyweb
-      domain: moneyweb.co.za
-    quality: 53
-    images:
-      - url: "https://www.moneyweb.co.za/wp-content/uploads/2021/11/file-20211115-25-jk2xnt-1024x670.jpg"
-        width: 1024
-        height: 670
-        isCached: true
   - title: "AI Innovations That Made Headlines In 2021"
     excerpt: "As 2021 ends, we look back at the AI innovations and incidents that remained in the news this year AI has, by now, proven its power and impact. The artificial intelligence space is constantly evolving and improving with every passing day."
     publishedDateTime: 2021-11-29T12:30:00Z

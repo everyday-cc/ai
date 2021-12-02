@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-17-computer-vision-ai-artificial-intelligence-camera-market-strategies-2290-high-cagr-industry-growth-key-players-challenges-and-forecast.md",
+      "title": "Computer Vision AI (Artificial Intelligence) Camera Market Strategies, 22.90% High CAGR, Industry Growth, Key Players, Challenges and Forecast 2027",
+      "excerpt": "An international Computer Vision AI (Artificial Intelligence) Camera Market research report endows clients with the information on their business scenario with which they can put together business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2464467/computer-vision-ai-artificial-intelligence-camera-market",
+      "originalUrl": "https://www.openpr.com/news/2464467/computer-vision-ai-artificial-intelligence-camera-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2464467/computer-vision-ai-artificial-intelligence-camera-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2464467/computer-vision-ai-artificial-intelligence-camera-market",
+      "publishedDateTime": "2021-11-16T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec.md",
       "title": "ElectrifAi Announces Computer Vision and MLaaS for Oil, Gas and Energy at ADIPEC",
       "excerpt": "\"We're pleased to introduce our Computer Vision and Machine Learning as a Service offerings to the global energy industry. Every company can now easily achieve the benefits of computer vision and ...",
@@ -1364,58 +1398,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-privacy-commission-demands-clearview-ai-delete-all-facial-recognition-data-collected-in-australia.md",
-      "title": "Privacy commission demands Clearview AI delete all facial recognition data collected in Australia",
-      "excerpt": "Australian regulators have demanded that facial-recognition firm Clearview AI cease scraping the biometric data of Australian citizens and destroy all information and images previously gathered on",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "originalUrl": "https://www.techspot.com/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/03/2021-03-23-ts3_thumbs-2c5.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92063-privacy-commission-demands-clearview-ai-delete-all-facial.html",
-      "publishedDateTime": "2021-11-03T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

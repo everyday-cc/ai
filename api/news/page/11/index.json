@@ -2,6 +2,325 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-11-23-how-do-you-scale-artificial-intelligence-ai-in-healthcare.md",
+      "title": "How do you scale Artificial Intelligence (AI) in Healthcare?",
+      "excerpt": "Sunny Dosanjh, Director lead for Deloitte’s Healthcare AI and Data team, explores the three key aspects in scaling AI in healthcare",
+      "sourceUrl": null,
+      "webUrl": "https://www.openaccessgovernment.org/healthcare-artificial-intelligence/124827/",
+      "originalUrl": "https://www.openaccessgovernment.org/healthcare-artificial-intelligence/124827/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.openaccessgovernment.org/wp-content/uploads/2021/11/dreamstime_xxl_163033011-scaled.jpg",
+          "width": 2000,
+          "height": 1108,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openaccessgovernment.org",
+        "domain": "openaccessgovernment.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-ai-combines-advanced-ability-to-learn-patterns-using-traditional-machine-learning.md",
+      "title": "AI Combines Advanced Ability to Learn Patterns Using Traditional Machine Learning",
+      "excerpt": "A new research center focusing on next-generation artificial intelligence (AI) technology will create the high-caliber expertise that Australia needs to be competitive in the approaching machine learning-enabled global economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12617",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12617",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12617_16375844573647560.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12617",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12617",
+      "publishedDateTime": "2021-11-22T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-aws-wins-adidas-contract-to-host-its-sap-workloads.md",
+      "title": "AWS wins Adidas contract to host its SAP workloads",
+      "excerpt": "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads",
+      "originalUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1637598528/itpro/adidas_shoeboxes_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp",
+      "publishedDateTime": "2021-11-22T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-brazilian-airports-expand-facial-recognition-trials.md",
+      "title": "Brazilian airports expand facial recognition trials",
+      "excerpt": "The domestic airports in São Paulo and Rio de Janeiro are advancing trials of a system developed by the federal government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/brazilian-airports-expand-facial-recognition-trials/",
+      "originalUrl": "https://www.zdnet.com/article/brazilian-airports-expand-facial-recognition-trials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazilian-airports-expand-facial-recognition-trials/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-airports-expand-facial-recognition-trials/",
+      "publishedDateTime": "2021-11-22T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-iot-anomaly-detection-startup-shield-iot-lands-74m.md",
+      "title": "IoT anomaly detection startup Shield-IoT lands $7.4M",
+      "excerpt": "IoT, which offers AI-driven anomaly detection for internet of things networks, raised $7.4 million for expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shield-iot-lands-7-4m/",
+      "originalUrl": "https://venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shield-iot-lands-7-4m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Shield-IoT.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shield-iot-lands-7-4m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shield-iot-lands-7-4m/amp/",
+      "publishedDateTime": "2021-11-22T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales.md",
+      "title": "Retailers Use AI to Build Trust in Secondhand Luxury, Sneaker Sales",
+      "excerpt": "Vidyuth Srinivasan, CEO of high-value goods authentication platform Entrupy, told PYMNTS counterfeit items are a $3 trillion problem for the retail industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/luxury-retail-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/amp/",
+      "publishedDateTime": "2021-11-22T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-red-hat-bolsters-partner-ecosystem-to-accelerate-data-science-pipelines-across-the-open-hybrid-cloud.md",
+      "title": "Red Hat Bolsters Partner Ecosystem to Accelerate Data Science Pipelines Across the Open Hybrid Cloud",
+      "excerpt": "Red Hat, Inc., the world’s leading provider of open source solutions, today announced the availability of Red Hat OpenShift Data Science as a field trial, as well as an expanded partner ecosystem focused on this new cloud service offering.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-fd3edb68af4f431895e6eca8b976ba26",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-fd3edb68af4f431895e6eca8b976ba26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-22-nvidias-latest-ai-tech-translates-text-into-landscape-images.md",
       "title": "Nvidia’s latest AI tech translates text into landscape images",
       "excerpt": "Nvidia today detailed an AI system called GauGAN2, the successor to its GauGAN model, that lets users create lifelike landscape images that don’t exist. Combining techniques like segmentation mapping,",
@@ -777,334 +1096,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-transforming-legacy-manufacturing-enterprises-with-ai-on-the-edge.md",
-      "title": "Transforming Legacy Manufacturing Enterprises With AI on the Edge",
-      "excerpt": "This article discusses how legacy manufacturing enterprises can harness the latest technologies, to optimize factory operations without having to ramp up infrastructure investment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturingtomorrow.com/content.php?post=17886",
-      "originalUrl": "https://www.manufacturingtomorrow.com/content.php?post=17886",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.manufacturingtomorrow.com/images/articles/17886.jpg",
-          "width": 680,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturingtomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools.md",
-      "title": "New York City Passes Bill to Address Bias in AI-Based Hiring Tools",
-      "excerpt": "The New York City Council has passed a bill meant to address bias in AI-based hiring tools. The bill was introduced in February 2020; the NYCC passed it on Nov. 10. New York City",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools",
-      "originalUrl": "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03TmzGcHJj6gOoz7jg8a3Aw-1.fit_lim.size_1200x630.v1637501264.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/new-york-city-passes-bill-to-address-bias-in-ai-based-hiring-tools?amp=true",
-      "publishedDateTime": "2021-11-21T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-want-ethical-ai-hand-the-keys-to-middle-schoolers.md",
-      "title": "Want ethical AI? Hand the keys to middle schoolers.",
-      "excerpt": "An innovative curriculum developed at MIT takes aim at eliminating the biases inherent in our algorithms—by teaching the concept to youngsters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/science/mit-camp-teaches-ethical-ai/",
-      "originalUrl": "https://www.popsci.com/science/mit-camp-teaches-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2021/11/19/210817_PopSci_9121-811x1024.jpg",
-          "width": 811,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/science/mit-camp-teaches-ethical-ai/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/mit-camp-teaches-ethical-ai/?amp",
-      "publishedDateTime": "2021-11-21T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-a-robot-wrote-this-book-review.md",
-      "title": "A Robot Wrote This Book Review",
-      "excerpt": "In “The Age of AI,” Henry Kissinger, Eric Schmidt and Daniel Huttenlocher explore how far artificial intelligence has come.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/11/21/books/review/the-age-of-ai-henry-kissinger-eric-schmidt-daniel-huttenlocher.html",
-      "originalUrl": "https://www.nytimes.com/2021/11/21/books/review/the-age-of-ai-henry-kissinger-eric-schmidt-daniel-huttenlocher.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/11/27/books/review/27Roose/27Roose-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/11/21/books/review/the-age-of-ai-henry-kissinger-eric-schmidt-daniel-huttenlocher.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/21/books/review/the-age-of-ai-henry-kissinger-eric-schmidt-daniel-huttenlocher.amp.html",
-      "publishedDateTime": "2021-11-21T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-can-big-tech-ever-be-reined-in.md",
-      "title": "Can big tech ever be reined in?",
-      "excerpt": "The Biden administration has shown an early determination to tackle the power of Amazon, Google, Facebook and co. But is it already too late?",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2021/nov/21/can-big-tech-ever-be-reined-in",
-      "originalUrl": "https://www.theguardian.com/technology/2021/nov/21/can-big-tech-ever-be-reined-in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/de27ff656ff972f8b7e627ed985641e194cded76/0_0_3250_2100/master/3250.jpg?width=620&quality=85&auto=format&fit=max&s=d14f6bdc492d64a7be9232e0030a3c93",
-          "width": 620,
-          "height": 401,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2021/nov/21/can-big-tech-ever-be-reined-in",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/21/can-big-tech-ever-be-reined-in",
-      "publishedDateTime": "2021-11-21T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time.md",
-      "title": "Returning India’s missing pets with facial recognition, one dog at a time",
-      "excerpt": "ForPAWS is an app that will soon allow you to find a lost puppy's home using just your smartphone. Here's how it aims to make things easier for pet families down the road.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/",
-      "originalUrl": "https://indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/11/ForPAWS-1.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/returning-indias-missing-pets-with-facial-recognition-one-dog-at-a-time-7633950/lite/",
-      "publishedDateTime": "2021-11-21T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-driverless-car-trials-at-abu-dhabis-yas-island-soon.md",
-      "title": "Driverless car trials at Abu Dhabi's Yas Island soon",
-      "excerpt": "Group 42’s Bayanat unit will begin with five cars on Yas Island Dubai: Mubadala backed Group 42 plans to start trials for the Middle East’s first driverless ride-sharing service this month, with the goal of eventually rolling out the technology across the UAE.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
-      "originalUrl": "https://gulfnews.com/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2019/02/20/autonomous_car,_driverless_car,_self-driving_car_resources1_16a4a16589d_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/driverless-car-trials-at-abu-dhabis-yas-island-soon-1.83854370",
-      "publishedDateTime": "2021-11-21T01:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -114,6 +114,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 41
+  - title: "CVS Health and Microsoft Announce New Strategic Alliance to Reimagine Personalized Care and Accelerate Digital Transformation"
+    excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions to help consumers improve their health, while empowering over 300,"
+    publishedDateTime: 2021-12-02T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cvs-health-microsoft-announce-new-strategic-alliance-reimagine-/2021/12/02/9503702.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "j4qHXIOHlv2KUpAyGzHzxJMBzbUKXWugVgCPRkIpiCAzUwy38Lt65kwalUNNsKGTfJUm2XrOwXC+M4fhcu6O0r0N3+8n3CmEgS7kgpLe4EC4E9ALgv10Mpu6lLPG6+Crr4qaV9g/I5w0CXRg1pMQz0VyzgUBmP6WnhydK13E7jOBvHQ+zym0pWA6yODDiPZV5GllxE/R0EZgSTb/BSaWgmsXvb7TidPykpZaKJrh4dsHZkU5QB2Q2sXec0sqnnxGUKA7a2nhkIN2RlsGQ0Ec9fodf8WvCvlMG7gzoLZojZ5SSf396EtpivGDkc4iad9Q0vJ2czFjZUEJsZw6rhNBQngnUyxBqT059LnTOqHS0gw=;oIapxOZ3jt4mzxX/6vynSA=="
 ---

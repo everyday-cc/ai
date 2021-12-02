@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/evolution-of-crestas
 webUrl: "https://aws.amazon.com/blogs/machine-learning/evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch/"
 type: article
 quality: 118
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 103
+  - title: "AWS Announces Custom Lenses Feature for Its Well-Architected Framework"
+    excerpt: "AWS announced AWS Well-Architected Custom Lenses, a new feature of the AWS Well-Architected Tool. With this new feature, customers can bring their own best practices to complement the existing framework based on their industry,"
+    publishedDateTime: 2021-12-02T13:19:00Z
+    webUrl: "https://www.infoq.com/news/2021/12/aws-well-architected-custom-lens/?topicPageSponsorship=dbe6e2de-6df7-4f02-be85-52086734816f&itm_source=presentations_about_development&itm_medium=link&itm_campaign=development"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 39
+    images:
+      - url: "https://res.infoq.com/news/2021/12/aws-well-architected-custom-lens/en/headerimage/generatedHeaderImage-1638300484379.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "26cLnv3cIsQhnTZRgAAogZBYBA1VtrTa1jwtWLg1/wTPQ7DQ4O6QrQbfQrgW3BtZcqCVoZH80BNflFwRT0Qz8jPXJi9B9G21HtHsVv84dNMXafQyNAdmpvjpfk9RgFHdDpeCjfCtf9FokmYlQAzP0axfPbZp6nPgBMVGYRTVQtzy4lcuU5ELxn+CUBdhOE4k4j3IiO9rF8of6EJa3/LAQeNNrDaxRKTlWoomx6gwWAW3GCJEzAg+ZMsDyuFjClEOlvBs2AIuYm2ZJpYsvRulvQk18d+nRXUab9ojF1y2jY/fc3myYAMqbjYsP5oc405b8c4VhlifD85ADao1JegRdBIYHadRIin7DcgR+fnOxYg=;7pbTZaC+ku1xk+9V03EjRQ=="
 ---

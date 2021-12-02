@@ -197,6 +197,20 @@ related:
         width: 1688
         height: 1190
         isCached: true
+  - title: "Consecutive NIST Tests Confirm Superiority of Clearview AI's Facial Recognition Platform"
+    excerpt: "Clearview AI’s facial recognition algorithm again ranks No. 1 in U.S. – tops in 1:N and 1:1 Facial Recognition Vendor Tests (FRVT)."
+    publishedDateTime: 2021-12-02T13:26:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/press-release/21248663/clearview-ai-consecutive-nist-tests-confirm-superiority-of-clearview-ais-facial-recognition-platform"
+    type: article
+    provider:
+      name: Officer
+      domain: officer.com
+    quality: 45
+    images:
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/12/16x9/clearviewai.61a8c7950357f.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Korean Facial Recognition Project Faces Opposition"
     excerpt: "It was discovered last month that a South Korean government project has been providing millions of facial images taken at Incheon International Airport to private industry without the consent of"
     publishedDateTime: 2021-12-01T12:00:00Z

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI and Risk Management Can Work Together"
+    excerpt: "Enterprise risks often consist of unlikely disastrous events. Here is how risk management lends itself to the cognitive capabilities of AI."
+    publishedDateTime: 2021-12-02T13:01:00Z
+    webUrl: "https://www.itbusinessedge.com/it-management/ai-risk-management/"
+    type: article
+    provider:
+      name: IT Business Edge
+      domain: itbusinessedge.com
+    quality: 39
+    images:
+      - url: "https://www.itbusinessedge.com/wp-content/uploads/2021/12/Can-Artificial-Intelligence-and-Risk-Management-Work-Together-scaled.jpeg"
+        width: 2560
+        height: 1978
+        isCached: true
 
 secured: "lG7B/udIQFhdvOb8KpRLNMsyOJs7/nK50jisS3IEqo+2LLUVpCBE3T6yHO6PJWt3oqmlrRT75aSHnDxgy8CgpWl1mZ5rjlzGkMMQhpSauvmMIhZuNqN7YKxOBnDhVSnfhYz0KCw4HPXbdDYrmjsvbNFSR9uSYnK7+hQHgmTbyTX9alttXRB2ZGcxVq+nutoYutu42wdv7+jK1PteGCVkfFrBUYGZGhiklqfyjDA8X5KPdrl45dGtLEpIQzRM+2fdkzDxBm/qBoqRjuJZLYufqNwN05D/sMboZi3oArHtKHQFOvkYA447O514ds/JLnT3FTEmUOIv53JxYE5P7AFFCSMOeusvN2fKDmm/2DJWpMQ=;g7JYlx1nqNkCkiZAc/PfzQ=="
 ---

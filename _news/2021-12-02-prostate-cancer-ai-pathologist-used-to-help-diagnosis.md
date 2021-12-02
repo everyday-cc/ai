@@ -3,22 +3,26 @@ category: news
 title: "Prostate cancer: AI pathologist used to help diagnosis"
 excerpt: "Artificial intelligence could improve cancer diagnosis and help save lives, a senior doctor has claimed. Betsi Cadwaladr University Health Board has rolled out an \"AI pathologist\" to help test men for prostate cancer."
 publishedDateTime: 2021-12-02T09:23:00Z
-originalUrl: "https://www.bbc.co.uk/news/uk-wales-59491186?at_medium=RSS&at_campaign=KARANGA"
-webUrl: "https://www.bbc.co.uk/news/uk-wales-59491186?at_medium=RSS&at_campaign=KARANGA"
+originalUrl: "https://www.bbc.com/news/uk-wales-59491186"
+webUrl: "https://www.bbc.com/news/uk-wales-59491186"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 67
+heat: 87
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13756/production/_121920797_gettyimages-1128870494.jpg"
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/12AAE/production/_121926467_ibexaiinaction.jpg"
     width: 1024
     height: 576
     isCached: true
@@ -52,6 +56,6 @@ related:
       domain: healthitanalytics.com
     quality: 39
 
-secured: "WpLKk3OyhqVOGEiORW5ZjS2JhDjwiu0exh5uT7ff5dBsL1GjNLnF5LUu5u1rK2PtbTxuMzJXYK0na8+WGYs1SJKYWUJZAikHZsft4gpJ8IDXpt9CPqXf0lfo5rmbPhs+odVHAURub0F0MU8ot7YN7b0ckyoCbAeP73kUDsJYQhp91SZiZRVWTK0mxW9LcYLoOSR7ii6AYFffQVj+IQ+JW6glRk0RYYmd/2N219FfUxV7/DwxQbw6N098EhwLkjDagiyGWO5OOAtj42As5dQ+3WOzIdW0UxYoHmJLH5b8ModOnIe13JkYJMBqU4Mpmixk53TReOc2yk5FxdnciiIaRWJGmA6NMw1zXziUMA4Iy9o=;byFc4wzc162BciBIFbmh3w=="
+secured: "WbUzyvjnM2POtyeOJl/h+6t3hsN3eK3uWBNrV5xfE6/AWYx1ebJloxzcZ5VRG1AXtlEBp6/7G/ah5qnxq8PDn2XA/qIlx/1MtWhS+AzC27ZdCLEDKXOV6LPYQHgOspASuic6aeg7bpeZ6GSdaauoovBZ614e7Uyi07z5zqeDjhdKPiCpQhmoVqCaY1EG8++5F6JtyPULal+/ZP9ekPO3nfBBGyOpa6OH3QB6r1aXhJs6ICYwOt8Tyepusn3jzXPaundpLrMK1RxkbUGL1QuYyo9H4JYaKAUIZz3NBLMp3guI46xARtreFej8JVGOjCjnZkZvndAI3HWXtjCkSdUmCqolZjFr3SfOIyFjzYWajLU=;PuV9hoNwI0YicYgtojUzDw=="
 ---
 

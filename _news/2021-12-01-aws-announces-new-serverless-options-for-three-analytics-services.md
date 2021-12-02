@@ -2,27 +2,26 @@
 category: news
 title: "AWS Announces New Serverless Options for Three Analytics Services"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
-publishedDateTime: 2021-11-30T17:41:00Z
-originalUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
-webUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
+publishedDateTime: 2021-11-30T18:41:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
 type: article
-quality: 41
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - AWS AI
+  - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
-    width: 320
-    height: 300
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -41,6 +40,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/11/sagemaker-canvas.png?w=680"
         width: 679
         height: 376
+        isCached: true
+  - title: "Meta picks AWS to help expand its AI services"
+    excerpt: "Meta, the parent company of Facebook, said it will use AWS services to \"complement\" its on-premise infrastructure and also broaden its use of AWS compute, storage and security ser"
+    publishedDateTime: 2021-12-02T13:10:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 106
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638449640/itpro/pytorch_meta_aws_GettyImages-1236945622.jpg"
+        width: 1260
+        height: 710
         isCached: true
   - title: "AWS Announces AWS Mainframe Modernization"
     excerpt: "AWS Mainframe Modernization makes it faster and easier for customers to migrate mainframe and legacy workloads to the cloud and benefit from the superior agility, elasticity,"
@@ -128,6 +143,6 @@ related:
       domain: businesswire.com
     quality: 34
 
-secured: "s0RchtEXtePS9XpFrApXvkYXCbu1Lo8P02TJVOtCkQX23vP7HFdloEubC0VYEYkDLZCxTWXaMwHuZvtGsCkkCs2PCoN9meUQ6ew6ezB2DKZgxxNZtLv8KxHbqTmV0DwxdBPRhih1nKgqv2I1Soe7stnp+fdeCZFH5O5tfeeiOp8eH5mlWYmZU5RDDmKI6vHehPviueWVv4zMJzu2o7A9zoQVZCL5Ss8yLoSjt6alNhGRxICt252ZJ3vpzcVhIVFboc1+xrP5DlFIonwPiHoFR0nNauqRLbKTDWCO88oG/V67EBF0vEQGF1QWI411ood5yUqVEXGmIr8rVGYzcODg4JEl/lLeODMQFah/ZyhB/ow=;zjPEUV0r6QzWCAovKyLk1w=="
+secured: "xLGDzM0zzmNVA1Wvet6XB50DyT9kqm8S6CBjOXZwDK+qHPrVGpzLxHMU3z6RHCia5QSS1e+NE0gwjvK8fSVCqWd7ex2eV5rRfcZgz3WyM/iGZEHxo/1YQd9MJmNN3NmZNSVqYW3/tkqA+HPDKRTfhVQFm/cwE9/XMV9da0JS/M7zxms0YaeYtX/lgpx1aoSpUZHTKpeuGzHuhc5nQLXs6xOQkj+swwB/gsVauh2Jtrb50y1MrILTcZmbviU+2+S+w6612XQnjPkQaiaOb99T8+IMhLtLwbPbZR+AJe8xyXGTN54us1JfzWqPBGMd/Qh98NiN/GR/JzMeE0zcPY+0bOvDN1cW92BTr0hcds7d2X8=;ue2wEgIeBSlGrOb17SDZHQ=="
 ---
 

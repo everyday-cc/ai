@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-02-the-movement-to-hold-ai-accountable-gains-more-steam.md",
+      "title": "The Movement to Hold AI Accountable Gains More Steam",
+      "excerpt": "A New York City law requires algorithms used in hiring to be “audited” for bias. It’s the first in the US—and part of a larger push toward regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/",
+      "originalUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61a8157414eaf61b0530a9fd/master/pass/Business_Papers_1332101305.jpg",
+          "width": 2400,
+          "height": 1601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp",
+      "publishedDateTime": "2021-12-02T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-big-tech-wants-to-compete-with-banks-let-them-deal-with-ai-ethics-first.md",
       "title": "Big tech wants to compete with banks? Let them deal with AI ethics first",
       "excerpt": "As big tech moves into the world of finance, AI ethics will be one of its biggest challenges including bias and ensuring data privacy.",
@@ -63,7 +116,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1395,49 +1448,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-researchers-argue-national-ai-research-resource-will-entrench-big-tech.md",
-      "title": "Researchers argue National AI Research Resource will entrench Big Tech",
-      "excerpt": "Artificial intelligence research groups are urging the National AI Research Resource (NAIRR) Task Force to reconsider investing in shared computing and data infrastructure, which they say will subsidize the tech giants that control it rather than democratize access.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/research-groups-nairr-big-tech/",
-      "originalUrl": "https://www.fedscoop.com/research-groups-nairr-big-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-15T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],
