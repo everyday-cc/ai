@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-ai-accurately-synergistic-can
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.amp"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -100,6 +100,17 @@ related:
         width: 976
         height: 400
         isCached: true
+  - title: "Artificial Intelligence Predicts Synergistic Drugs"
+    excerpt: "New study revealed the potential of using AI and machine learning to identify effective drug combinations in therapies for cancers."
+    publishedDateTime: 2021-12-02T09:13:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
 
 secured: "Jwk8Vbl8xw29AfKFAevQWFXALf7XgzqNEROmFjssYSzZ4qSluGfR59Wgz5yHF6nhft0MniHJRr1jAk9+Ts0AUQTc522hNd1ZcBZnmIna1+Be5frZqnvegsD0FeckZw89PlySHCcDz2OY4gso+cFRPldyVINAt+WLIDsOuiGISTXxMEDHPVR5/9gQ7zjGaxGHZN11B9KoQjGO2X6eJrCRfGXxRhVd5YbJQ8hXT/cZTzZeCe+2u8U7KFSOBwo6yzH8TIiJi6QCvdiKzw9+AEjaT4bA19HyfGgT+OBYBz8KuOcKtZab2i/zBJDQRm+iLgPz0avRS3Y552YtNu/jZol0HdgVbP1B4ED65V6LvuFsW5Hz3FemKkS1F/144hcKGcmKLfULNNk9yHuzTVOnpuVAJbMcgNbRcWX8OKfthG8p71PTiwLNfG5MHXWrIQN1NzV+jPbOFxmF3Nvxc041DS7eInclZEW9ZmwAnM+wGEHWTXcgFayElhxfvk7mwbSNO6POZJ7tflNPzQThvKALdIyPDg==;Ezz/Uqy4stTx2firWy8UGQ=="
 ---

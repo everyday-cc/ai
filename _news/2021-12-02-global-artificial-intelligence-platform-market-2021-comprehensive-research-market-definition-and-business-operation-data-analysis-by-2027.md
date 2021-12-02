@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2021-comprehensive-research-market-definition-and-business-operation-data-analysis-by-2027-2021-12-01"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -28,15 +28,36 @@ images:
     isCached: true
 
 related:
-  - title: "Global Data Monetization Platform Markets Report 2021: AI and Digital Advertising Emerging as Critical Elements for Telcos to Create Differentiation"
-    excerpt: "The \"Global Data Monetization Platform Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-11-30T16:15:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-data-monetization-platform-markets-report-2021-ai-and-digital-advertising-emerging-as-critical-elements/article_36cb0dd4-7977-5d77-bca6-06ad1ce25612.html"
+  - title: "AI-based Fever Detection Camera Market 2021-2028"
+    excerpt: "New study report \" AI-based Fever Detection Camera. Market Overview- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals,"
+    publishedDateTime: 2021-12-02T10:03:00Z
+    webUrl: "https://www.openpr.com/news/2482636/ai-based-fever-detection-camera-2021-global-market-key-players"
+    ampWebUrl: "https://www.openpr.com/amp/2482636/ai-based-fever-detection-camera-2021-global-market-key-players"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2482636/ai-based-fever-detection-camera-2021-global-market-key-players"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc02850118_g.jpg"
+        width: 800
+        height: 428
+        isCached: true
+  - title: "Top AI-Based Geopolitical News Of 2021"
+    excerpt: "In 2021, we saw AI taking a central place in the political space globally"
+    publishedDateTime: 2021-12-02T09:32:00Z
+    webUrl: "https://analyticsindiamag.com/top-ai-based-geopolitical-news-of-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/geo-banner.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "SWgzVXxQpMBSVD7BSoagkHgGC88DholUnTYI/+Fjanmv4Avrfxzz99EDYKXPP61at8NLAjd61PhDvXrDAzwpzSsxeVu9hu/Y7RYX+p7dKN7vNhHEuMMXXNET3C8zTbB2GWotXFguU/KInyn61pp7D+qkw0nmMKUY73WJpYhdSvogW0QOiLokPrcfXL8gwYoW/w5zQLTT7Ite/lXAdXdk8tqUxXb3SBqlvRTQx8WWaniy1GnXhYMbS8WrDd5TjcKbupZRIKjPTXt2J4DtOf3ccG5yahYEBqEglCwqU1Fb5HuDPWmjD2MITTeEBR4Fgj8XV8r+122amh6w65jBsCfNX7zfC0r8FXd9rJ5snT3vcGA=;dBegAYqWfByHEbVKrmR3Sw=="
 ---

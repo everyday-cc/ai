@@ -25,37 +25,85 @@ images:
     isCached: true
 
 related:
-  - title: "Government launches 'unique' face recognition tech for pensioners"
-    excerpt: "\"The central government has been sensitive to the needs of pensioners and to ensure ease of living for them. Soon after coming to power in 2014, the government decided to introduce and implement digital life certificate for the pensioners."
-    publishedDateTime: 2021-11-29T13:39:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/articleshow/87985779.cms"
-    ampWebUrl: "https://m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms"
+  - title: "Govt to introduce facial recognition technology at airports by March 2022"
+    excerpt: "Minister of State for Civil Aviation Ministry General V K Singh (retd) said AAI is working on a project of FRT-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports."
+    publishedDateTime: 2021-12-02T09:01:00Z
+    webUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022-11638434344157.html"
+    ampWebUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 73
+    images:
+      - url: "https://images.livemint.com/img/2021/12/02/600x338/Airport_1638434633717_1638434633820.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Facial recognition tech at 4 airports to be introduced by March 2022: Govt"
+    excerpt: "The Airports Authority of India (AAI) is working on a project of FRT-based Biometric Boarding System as part of the first phase of Digi Yatra Implementation at four airports"
+    publishedDateTime: 2021-12-02T09:22:00Z
+    webUrl: "https://www.business-standard.com/article/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 72
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2013-09/24/full/1380033844-9265.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Facial Recognition Technology To Be Launched At 4 Airports By March: Centre"
+    excerpt: "Facial Recognition Technology (FRT) has not yet been introduced at any of the airports in India, Minister of State in the Ministry of Civil Aviation General VK Singh (retd) said in Lok Sabha today."
+    publishedDateTime: 2021-12-02T08:52:00Z
+    webUrl: "https://www.ndtv.com/india-news/facial-recognition-technology-to-be-launched-at-4-airports-by-march-2022-centre-in-lok-sabha-2633960"
+    ampWebUrl: "https://www.ndtv.com/india-news/facial-recognition-technology-to-be-launched-at-4-airports-by-march-2022-centre-in-lok-sabha-2633960/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/facial-recognition-technology-to-be-launched-at-4-airports-by-march-2022-centre-in-lok-sabha-2633960/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 72
+    images:
+      - url: "https://c.ndtvimg.com/2020-05/akkcko9c_airport-generic_625x300_25_May_20.jpg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "These 4 airports in India will have facial recognition tech by March next year"
+    excerpt: "It is important to note that data shared by passengers is to be retained during the transit of the passenger at the airport and will not be retained for more than 24 hours after take-off/departure of the flight,"
+    publishedDateTime: 2021-12-02T09:40:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/these-4-airports-in-india-will-have-facial-recognition-tech-by-march-next-year-101638437659674.html"
+    ampWebUrl: "https://www.hindustantimes.com/india-news/these-4-airports-in-india-will-have-facial-recognition-tech-by-march-next-year-101638437659674-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/these-4-airports-in-india-will-have-facial-recognition-tech-by-march-next-year-101638437659674-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 70
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/12/02/1600x900/convention-software-recognition-internet-conference-advertising-national_4e1e1bbc-468e-11ea-b9ea-c2a424b98379_1638437892029.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Facial recognition technology at 4 airports to be introduced by March next year: Centre"
+    excerpt: "Civil Aviation General V K Singh (retd) said FRT has not yet been introduced at any of the airports in India. However, the Airports Authority of India (AAI) is working on a project of FRT-based Biometric Boarding System as part of the first phase of Digi Yatra Implementation at four Airports (Varanasi,"
+    publishedDateTime: 2021-12-02T09:53:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/facial-recognition-technology-at-4-airports-to-be-introduced-by-march-next-year-centre/articleshow/88049590.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/transportation/airlines-/-aviation/facial-recognition-technology-at-4-airports-to-be-introduced-by-march-next-year-centre/amp_articleshow/88049590.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/transportation/airlines-/-aviation/facial-recognition-technology-at-4-airports-to-be-introduced-by-march-next-year-centre/amp_articleshow/88049590.cms"
     type: article
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 59
+    quality: 66
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-59696,msid-87985779/government-launches-unique-face-recognition-tech-for-pensioners.jpg"
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-27938,msid-88049590/facial-recognition-technology-at-4-airports-to-be-introduced-by-march-next-year-centre.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Govt launches ‘unique’ face recognition tech for pensioners"
-    excerpt: "All pensioners are mandated to submit their life certificate annually to continue receiving pension. The Ministry of Personnel, Public Grievances and Pensions has already implemented a facility of giving the certificate digitally."
-    publishedDateTime: 2021-11-29T13:27:00Z
-    webUrl: "https://www.financialexpress.com/money/govt-launches-unique-face-recognition-tech-for-pensioners/2378474/"
-    ampWebUrl: "https://www.financialexpress.com/money/govt-launches-unique-face-recognition-tech-for-pensioners/2378474/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/govt-launches-unique-face-recognition-tech-for-pensioners/2378474/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://images.financialexpress.com/2021/10/2-5.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Centre introduces unique face recognition technology for pensioners"
     excerpt: "The Central government on Monday introduced a unique face recognition technology for pensioners aimed at bringing ease of living for the retired and t.."
@@ -105,38 +153,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Good News Pensioners! You Can Now Submit Life Certificate Via Mobile App Using Face Recognition Tech"
-    excerpt: "All pensioners are mandated to submit life certificates annually to continue receiving pension. The Ministry of Personnel, Public Grievances and Pensions has implemented a facility of submitting certificates digitally."
-    publishedDateTime: 2021-12-01T05:06:00Z
-    webUrl: "https://www.india.com/business/submit-life-certificate-via-mobile-app-using-face-recognition-technology-for-jeevan-pramaan-good-news-for-pensioners-5118513/"
-    ampWebUrl: "https://www.india.com/business/submit-life-certificate-via-mobile-app-using-face-recognition-technology-for-jeevan-pramaan-good-news-for-pensioners-5118513/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/submit-life-certificate-via-mobile-app-using-face-recognition-technology-for-jeevan-pramaan-good-news-for-pensioners-5118513/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 46
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2021/09/pension-scheme.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Good news for pensioners! Government rolls out Unique Face Recognition Technology for life certificate"
-    excerpt: "In order to make the process of life certificate easier for elderly pensioners, the government has rolled out Unique Face Recognition Technology on Monday."
-    publishedDateTime: 2021-11-30T08:20:00Z
-    webUrl: "https://www.zeebiz.com/personal-finance/news-good-news-for-pensioners-government-rolls-out-unique-face-recognition-technology-for-life-certificate-172008"
-    ampWebUrl: "https://www.zeebiz.com/personal-finance/news-good-news-for-pensioners-government-rolls-out-unique-face-recognition-technology-for-life-certificate-172008/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/personal-finance/news-good-news-for-pensioners-government-rolls-out-unique-face-recognition-technology-for-life-certificate-172008/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 43
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Centre introduces unique face recognition technology for pensioners"
     excerpt: "The Central government on Monday introduced a unique face recognition technology for pensioners aimed at bringing ease of living for the retired and the elderly"
     publishedDateTime: 2021-11-29T13:56:00Z
@@ -151,33 +167,29 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Dr Jitendra launches unique ‘Face Recognition Technology’ for Pensioners"
-    excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today launched unique “Face Recognition Technology” for Pensioners and said,"
-    publishedDateTime: 2021-11-29T11:23:00Z
-    webUrl: "https://www.dailyexcelsior.com/dr-jitendra-launches-unique-face-recognition-technology-for-pensioners/"
+  - title: "Three-in-Four Massachusetts Residents See Facial Recognition Technologies as Beneficial"
+    excerpt: "Seventy-five percent of Massachusetts residents see the use of facial recognition technologies by law enforcement as appropriate and beneficial, according to new research"
+    publishedDateTime: 2021-11-30T13:03:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/three-in-four-massachusetts-residents-see-facial-recognition-technologies-as-beneficial/article_7268ed31-6a35-5adb-8a11-b7f5a76f9e37.html"
     type: article
     provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 18
-  - title: "Dr Jitendra launches unique ‘Face Recognition Technology’ for Pensioners"
-    excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today launched unique “Face Recognition Technology” for Pensioners and said,"
-    publishedDateTime: 2021-11-29T21:40:00Z
-    webUrl: "https://www.dailyexcelsior.com/dr-jitendra-launches-unique-face-recognition-technology-for-pensioners-2/"
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 11
+  - title: "Face Verification 12 from Neurotechnology Extends Facial Authentication Capabilities to Web-Based Applications"
+    excerpt: "Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, today announced the release of the new Face Verification system. Face Verification 12 is designed for the integration of facial authentication and liveness detection into PC,"
+    publishedDateTime: 2021-11-30T08:04:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-web-applications-europe-762cf6ce0a6c2e7fdf86a3f5a868ca93"
     type: article
     provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 18
-  - title: "Jitendra Singh launches unique face recognition technology for pensioners, says it will bring ease of living for retired, elderly citizens"
-    excerpt: "Union Minister of State Dr Jitendra Singh on Monday launched unique Face Recognition Technology for Pensioners and said that this will bring ease of living for the retired and the elderly citizens. Singh said,"
-    publishedDateTime: 2021-11-30T14:18:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20211130/3864416.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "SVKu1z2vBq/N7qO/afDMMpHkStU+Pt+lbuWZI9i3zDKvGIGKpsXtPYEuEmvQEWejVR1I8rccQdlySY8PkAOP65NMBbIKtFaepq/Z1o4shBZQgnrvR43ISsfAfgYp3ji2ooxXEJ2Q+cm2MCbry9WGBRGvcR7ZVX9BmNxzPeFyVVupy5iUNIqrn7eo8G1inQ8yLfaPP2jRez41logtzujbcxySkJrYd/bFAyNRhfnVpsgKrDIEKK6J2dleqvIQF0Df7I1C3M6Go9VPuwzkJSnQB+DmSx4NsiVJa1qcsc0yMgikyNT1tR0MPqQx6Ox2qLhRSLmaS7fOh509YPaXuh6pIcc47oOcuZZ1QAhnuUe6MWDPARHuG7+O7KtZO3uxEk2uvKcSjH1D3gDDw2LYVthXqvVI+E2fDnx+FY1JMWrMs0t8/fHsytWn9H/+VO/FypoRdG/4J72dy2v55/zctDj/uW3I/3uRf+vr9hZUWk/x8Vd+ZewCglzedih8iiIOR9w+/C5Ar5NAokXNG3kzd4Ke/g==;vwdaZxT5vqtZGPVujwF74A=="
 ---

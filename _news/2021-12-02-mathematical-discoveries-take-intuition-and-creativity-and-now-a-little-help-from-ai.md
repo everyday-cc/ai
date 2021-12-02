@@ -105,6 +105,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DeepMind AI Used To Develop New Math Techniques"
+    excerpt: "Researchers are using DeepMind's artificial intelligence to develop fundamentally new techniques in mathematics."
+    publishedDateTime: 2021-12-02T10:03:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/deepmind-ai-used-to-develop-new-math-techniques-356418"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 71
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/356418/deepmind-ai-used-to-develop-new-math-techniques-356418-640x360.jpg?cb=20211202"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Mathematicians hail breakthrough in using AI to suggest new theorems"
     excerpt: "Their work examined knot theory and representation theory, areas of \"pure mathematics\" which typically depend on human intuition for breakthroughs."
     publishedDateTime: 2021-12-01T19:27:00Z
@@ -159,6 +173,6 @@ related:
         height: 675
         isCached: true
 
-secured: "SS8Rg5uKBl7tQu0Sbebf+P4NEMdhA/TuX7fhxO8yVjkeAm5rl87MoffJS/If3J7QJT+27YMjnnFwsFqM56K/FrOI2kMjEGQSg3MgUkigVQoGO1pTXsX+RixO/CquPp24jmamTrr47U+AqJQguoOWUCkD9NQCdP7g8383cYtDyo8CdpG3OeeF0mnkr6nueAXhFa0U98mEEs3R88tOk+44rL7nkjEEyBm6gwInttAQd9/OsXXBnTAw/5mhpVwrbSvNkr/N0xZGfBqvxc36KeyJ/wLEx6ED1MZuHK8owlvfiYMUArnmsPb+eSltIGph3KwtUJVecVNzf31QcejNm3w4qJqZ0Al6Zb59KI9dOUTsujU=;EXfoL8Ph4yO88uWP33RjRQ=="
+secured: "myN3M05x4ZieqF8dLs2/0v+0lBkIan2DVTngYdR7GAo66qckQAyOgt+zOglaDT4ciV2uL+VcLzPxPue+8FwQOTYxVtmVaiS7r85Gh0UzwhYadIzxukqs0Qul3TKcapLR97/9J+rt6Ti3Aur9MToBIoHwZpEeaP/uJYJl/dPP15/4G4sxt3ZP8tDJeRYd8Zw25Jy1lX6sZUOEoXo6xDDJmyMNOJr3b785JFEkqas+mj7Cj/l1MpxTpt7xVl1pHVMIgssJavaNLFy7Bla5h7DJi35t318bKuV5uV2vfKFa78TF/qYOmcw4GSFNuwI8iFLRPfloRNlYP29XC+u0hVBTQf3AKR/4j4bXpAzyEUPilqQUkM3a417o9E/G3MVJ0B+U4KL+CBewZ6cGbIP6rPoHbF6CWIrOSGLgQxEFhF4TW9p+Flu4LUM/+1EFjo++43Y9gpw6hMWZKJTW9/e8w46TrzHxv4VtfvPByi+z/7uVGXWYB7Pu8DAIfGvOUXteX8vYi64ryw8eRGhwy5JLS4eH7A==;FuYFWbtsZMUGKfsIlEjOaQ=="
 ---
 

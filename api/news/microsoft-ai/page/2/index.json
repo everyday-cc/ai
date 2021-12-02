@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-11-17-as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion.md",
-      "title": "As cloud threats inundate businesses, Cado Security aims for rapid expansion",
-      "excerpt": "Cado Security reports big demand for its cloud-native digital forensics platform, supporting cloud security investigations for AWS and Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/cloud_security-shutterstock_new.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/as-cloud-threats-inundate-businesses-cado-security-aims-for-rapid-expansion/amp/",
-      "publishedDateTime": "2021-11-16T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2021-11-17-windows-10s-forgotten-november-feature-update-is-rolling-out-now.md",
       "title": "Windows 10’s forgotten November feature update is rolling out now",
       "excerpt": "Microsoft began shipping the Windows 10 November 2021 Update (21H2) today, which PC users can begin asking for via Windows Update.",
@@ -1363,6 +1310,49 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-06-cognitive-systems-spending-market.md",
+      "title": "Cognitive Systems Spending Market",
+      "excerpt": "Some of the key players profiled in the study are IBM, HP, Microsoft ... Software Systems, Services Systems 7) How influencing factors driving the demand of Cognitive Systems Spending in next ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2452798/cognitive-systems-spending-market-likely-to-boost-future-growth",
+      "originalUrl": "https://www.openpr.com/news/2452798/cognitive-systems-spending-market-likely-to-boost-future-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub05559761_g.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2452798/cognitive-systems-spending-market-likely-to-boost-future-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2452798/cognitive-systems-spending-market-likely-to-boost-future-growth",
+      "publishedDateTime": "2021-11-05T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

@@ -246,12 +246,12 @@ related:
         isCached: true
   - title: "AWS Announces Six New Amazon SageMaker Capabilities"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."
-    publishedDateTime: 2021-12-01T18:40:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-six-new-amazon-sagemaker-capabilities-/2021/12/01/9503014.htm"
+    publishedDateTime: 2021-12-02T09:36:00Z
+    webUrl: "https://www.financialbuzz.com/aws-announces-six-new-amazon-sagemaker-capabilities/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 34
 
 secured: "S6VsSWESQaFSZ+0Y83DOfsoSYirWnt7Cq5xq80icdmtVzfzj856IbEAG7Zrhfi0GYBqPopDV0Zp3PCjG+XsLZqmr2BSYOOKfqxGrHHvPsmmg/2AbeHmCBR4qHOii0VQWzVbkN1/75UF4nnLd5STzyj98i75dZzj/O1w/gMtwkiS0visQvCBWSjjTDvcR8ZtWYr5QTwGuDzkQ8q53vArqX5KCPR2s6+fOZnmS+GWol7PwtsJR4KsjHgeieuX87rk3TC2YMjoRsNHvpcxvKvYCv+cZ3lG5IXBobW2v013Wwb4GxrGBax/5GcOCsqTvFUUVWEys2FT1ZK29cn8upO556sv/BD/6dHCLiJ0++vxuSx9C2714QpS9xUmH3cPjEPJu3Ro0nvBK24pyRfvtK6xoFXR+VuFyMvmHDekfX2Cadd/c/DrZSvxw/1FzNR/nsjic2CCeECR7NacOe6Uo1/ZgnIOQSjz2RbguIUDfY47MJPGN3OZ9uklgEjYxHF0K7cmzjKz6GW45m7erXaX/HksNFQ==;JdZ52jQwZqbGpzvyxv4JuQ=="

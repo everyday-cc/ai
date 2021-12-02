@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/beyond-the-migration
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS, Discovery Plus extend strategic partnership"
+    excerpt: "Extension enables Discovery Plus to deploy AWS so that it can offer greater personalisation capabilities to help viewers find the content they want to watch"
+    publishedDateTime: 2021-12-02T08:58:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership"
+    ampWebUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 59
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/11/discovery-plus.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Astadia Migration Factory to Reduce the Duration of Mainframe to AWS Migrations by up to 90%"
     excerpt: "Organizations looking to reap the benefits of moving IBM and Unisys mainframe applications to Amazon Web Services (AWS) can now simplify and accelerate complex transformation projects by leveraging the Astadia Migration Factory."
     publishedDateTime: 2021-11-30T15:56:00Z

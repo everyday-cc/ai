@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Mobile Robot Market Size Forecasted to Reach Valuation of USD 117.89 Billion by 2027"
+    excerpt: "The global mobile robot market is expected to be valued at USD 117.89 Billion by 2027 from USD 23.48 billion in 2019, registering a CAGR of 23.6% through the forecast period. This growth is attributed to surge in adoption of mobile robots especially across manufacturing plants."
+    publishedDateTime: 2021-12-02T10:30:00Z
+    webUrl: "https://techbullion.com/mobile-robot-market-size-forecasted-to-reach-valuation-of-usd-117-89-billion-by-2027/"
+    ampWebUrl: "https://techbullion.com/mobile-robot-market-size-forecasted-to-reach-valuation-of-usd-117-89-billion-by-2027/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/mobile-robot-market-size-forecasted-to-reach-valuation-of-usd-117-89-billion-by-2027/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 52
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/Mobile-Robot.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Face Recognition Device Market Size 2021 – Global Growth, Trends, Industry Analysis, Key Players and Forecast 2027"
     excerpt: "Global Face Recognition Device Market includes Extensive company profiling of leading players of the Face Recognition Device market. All of the segments studied in the report are analyzed based on different factors such as market share,"
     publishedDateTime: 2021-11-30T04:05:00Z

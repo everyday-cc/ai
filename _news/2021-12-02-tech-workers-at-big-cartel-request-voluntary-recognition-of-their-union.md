@@ -2,26 +2,28 @@
 category: news
 title: "Tech Workers at Big Cartel Request Voluntary Recognition of Their Union"
 excerpt: "Employees at the e-commerce company Big Cartel today requested from their employer voluntary recognition of their union with the Office and Professional Employees International Union (OPEIU) Local Union 1010."
-publishedDateTime: 2021-12-01T18:42:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tech-workers-at-big-cartel-request-voluntary-recognition-of-their-union-1031017281"
-webUrl: "https://markets.businessinsider.com/news/stocks/tech-workers-at-big-cartel-request-voluntary-recognition-of-their-union-1031017281"
+publishedDateTime: 2021-12-01T18:33:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/business-eric-turner-79e95b0607adc2966e34bc5f29ec2726"
+webUrl: "https://apnews.com/press-release/PRNewswire/business-eric-turner-79e95b0607adc2966e34bc5f29ec2726"
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "xXGLzAQ3ZkLE/Tkjwy6WkcLjUVb4X9tauPzE69jgVKeGReftMMobZD07oK89GbO3Yc9dK9RuZ31lyM8T6lYV4Kr3qTn3xKTJ8z6u7vMdXho9/BdB6bIBDuBDarLHFXwAf3YRndfV3YFj3ArJWL/7zIsM93aOqXvRUqmsvXXVSJWQ0qaXUqs2yzqFMQoLb7sPOY6jmKzV6smnzu7KbWN6VXYiMV4nZCAtQYWMukSwYDUpG1tENix1ryDMPaK2Bh2Q4gFdKw6wos0wsNSP9x+czT9yQ4QgFnOvn25HMnTuB1hTex0Mg+aVn0x9rHxsVtuChMBMxU6jqanI9SIrGQBJVuMIjQkcarkRrQkWLsKSjWE=;i68/775UiZtH7j02DM0acg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "e815lfvXSWOuN4qG5Be9v2hepnmtyT7u3vtXAAfJ0c9tCxE6xHQ9c7PguF2J/FaHFRQ08IjBeWXeBwY/6W5mVCJloZDeBNvwFOFlXKfOc+6mPCMmmsfFSb6BBtnKEHRlB6i7v49e0fdB+qy6bdGRfljmdU1cvEBIfHZ00SFKOLc3SgLsSmA7x1u0lYQCIUnicHjFTDS+jk8uzz01Kf0gwKD6bQTbW0yuoj6AepXHN2T3dKtENsHIseTciCdYFoYkFQMKmf8X2xNMYv/qJ+epyzjTM5i0DRJOyrTJhVbHqBVAGfhdBIrWNrZdukqn4C7e47S1L/MS1ltJsuXCs9tK/K8HvRTX6rzSXbM4giIeFq0=;CIrGQS9jsdNQFidcQmis5Q=="
 ---
 

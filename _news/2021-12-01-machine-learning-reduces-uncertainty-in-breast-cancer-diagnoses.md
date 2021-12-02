@@ -44,18 +44,18 @@ related:
         height: 480
         isCached: true
   - title: "Machine Learning Reduces Uncertainty in Breast Cancer Diagnoses"
-    excerpt: "Breast cancer is the most common cancer with the highest mortality rate. Swift detection and diagnosis diminish the impact of the disease. Researchers at Michigan Tech have developed a machine learning model for detecting breast cancer from histopathology images."
-    publishedDateTime: 2021-12-01T16:50:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/936541"
+    excerpt: "A machine learning model uses probability to more accurately classify breast cancer shown in histopathology images and evaluate the uncertainty of its predictions."
+    publishedDateTime: 2021-12-02T10:30:00Z
+    webUrl: "https://www.technologynetworks.com/diagnostics/news/machine-learning-reduces-uncertainty-in-breast-cancer-diagnoses-356428"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: technologynetworks.com
+      domain: technologynetworks.com
     quality: 54
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/76b778f4-7cf9-42d4-a8a5-bc09d8c053bd/Rendition/low-res/Content/Public"
-        width: 319
-        height: 700
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/356428/machine-learning-reduces-uncertainty-in-breast-cancer-diagnoses-356428-640x360.jpg?cb=20211202"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "/NnwrS2JKxExgQOsPINNcFTP1foOWmztMKGVYNKYldMOCc98JcMqkuob5SJa/Qkd+nqR6/tk2XUtcgwvohrOoEba3f6QtHj66DUJrg4YMxgDuZ7Iyh0pLmOEgN6q5GPcBqe/36U4x5VWUKAsiRGAAYHEM36gBgEXK4YRI19LTmEz2hU6XH9Toi3NjozpwZiQSgQTrWY7BpF++BW5A/Pl9AzW8uS6jvxPjDBQKfHb1iDd/OnKFZvroI6P/VAnJa7YLzEXt3jyG8CYGTD+7zbF1kQIIiATctmSvm2Fb68eD2cW36fsvavak+YRa/DzQ1Miq3wiqh6MtdJsLuknUI8Ik9D6bwCf7jI0bJm1I58ldG9PQWqgs/Wb1NIvNJkvJ98iSDnhOrUUS1p23rk/nT1ahbAvae+CZVbCJBzDFuxGXMH29B/Y24ay3OqZicjgCMgrNUbJAZBJJQqNJ2/l0dS2cAIAS6plKQAujpRGU05iNtLZUgBdp+yRfmCuH70pC94aC55jKbeTYGQQn/fKlQnUzA==;1mBB+E8Fxp78m0dNwFSBYQ=="

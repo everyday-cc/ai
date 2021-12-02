@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-02-govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022.md",
+      "title": "Govt to introduce facial recognition technology at airports by March 2022",
+      "excerpt": "Minister of State for Civil Aviation Ministry General V K Singh (retd) said AAI is working on a project of FRT-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022-11638434344157.html",
+      "originalUrl": "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022-11638434344157.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/12/02/600x338/Airport_1638434633717_1638434633820.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html",
+      "publishedDateTime": "2021-12-02T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-face-recognition-ai-chip-with-978-accuracy-up-to-3-metres-for-sonys-imx500.md",
       "title": "Face recognition AI chip with 97.8% accuracy up to 3 metres for Sony’s IMX500",
       "excerpt": "Xailient has revealed what it describes as the ‘world’s most power-efficient’ Face Recognition AI which runs on Sony’s IMX500 intelligent vision sensor with edge AI processing capability. The chip, which is so small it fits on a fingertip,",
@@ -279,7 +322,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/articleshow/87985779.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1288,49 +1331,6 @@
       "provider": {
         "name": "openpr.com",
         "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec.md",
-      "title": "ElectrifAi Announces Computer Vision and MLaaS for Oil, Gas and Energy at ADIPEC",
-      "excerpt": "\"We're pleased to introduce our Computer Vision and Machine Learning as a Service offerings to the global energy industry. Every company can now easily achieve the benefits of computer vision and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-301423688.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/electrifai-announces-computer-vision-and-mlaas-for-oil-gas-and-energy-at-adipec-301423688.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook",
-          "width": 594,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T13:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

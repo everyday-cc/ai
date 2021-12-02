@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unif
 ampWebUrl: "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/amp/"
 type: article
-quality: 105
-heat: 106
+quality: 103
+heat: 104
 published: true
 
 provider:
@@ -21,9 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Machine Learning
-  - Microsoft AI
+  - AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash-e1638387079382.jpg?w=1200&strip=all"
@@ -31,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "WdhCBgYcbL+0EOYKbJ1Ij2gofoMbH3ShYbhtmlLsiFRz9A3tozblrnHFqYepazpq98Uxl+IS9s5cEE3y2bXyHJ32I1NmDZ/Iu+q2vJ4ud8Y6KVsNXQR8fpsXNCcaqrxmZ/w58FvO2/PN577/LLaINYmoCtDbI72gCH29GscgBWQauMw5adtbJgV+cpDsj/2U8Ene3KtNPQ3b9j/CqdY0V7QrF5FVUYKZe9ZKihQioVrMyo8LdP3+RNmtvuwMQdYDqzJ0+PcX7rIrUykxGbs2tpHCt9SuUqZvCv6/JlHFNSjVbwRkina5en7kdJs4szwxpvH20XKghFf+lbqU7UP7k6k+5c20ChGGSovw0S1KQB4=;7KjGaPMnaUMn7KT4ztP3ew=="
+secured: "bW53SxBu1yywTj0Vz0zhdZBOwgHN430HsxfVOCIwRNmVeCMcy/VW5LZWiJd2ayYGfOIEKDXjFMfLjoceJihLara+dNH7B10bgujg9/1ujE6plv+YiZQ257f4shxeMvuVytmBqUuAXcXyHDFeLXhbVKolNYBnnjV5GhC7rv2M4avsfu0wF67mfrkvgq9yGxQzswcHQAoZ1j7FvAhQMTyH7RU3nWp6g9X6B/GrUUWPDyamr4LXzlp0zwlgeEtjMKmrx5UvqjtD4YYc9E9AEeN72sS6EdAzh7QPBB15PZwX6KtiyLEnPRTji91qu7jXBkUMAa456LO9PJX+c+j9smpbQKn8HNmUtFpgcUcbWUPG3IM=;2t2HjOXpF3rS+Dx8KmhvVg=="
 ---
 

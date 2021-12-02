@@ -100,6 +100,17 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 50
+  - title: "Artificial Intelligence Predicts Synergistic Drugs"
+    excerpt: "New study revealed the potential of using AI and machine learning to identify effective drug combinations in therapies for cancers."
+    publishedDateTime: 2021-12-02T09:13:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
 
 secured: "wfcMWJ7kCUp1zKxTxR6yszEpgviJqPgg1hjili5anjU0Me8scE7jDgI4/2Kadrq0VQaESbt+ppo2jtmskd2l/lNzyPrEICRJSjXGQKFul8So7E3ZpBik5XzXGKIxqS1pn0K6xCfzeMPoLM5+XKximceHXDU+PGRp9tX1l93pL0HzQGF4P3GmfM25KteOY96w2FdGRgbqmcRyLmD4pTu0FEmw6kXu+QhI6zEVVAeHvojaXSvWS3X0wWwUeqXqx9TkAin29MdmNm6LS9X/y3I+gAVMO4pOJP+r9XJVMkxNMUfylNYNMDLdJYXNwrBEufalM5j71/0gZrYjP+qXstEkQqQNGJKCD0JoM4Hng8GjsHo=;rQq1QP8ZPvKfE2J7o8EvpA=="
 ---

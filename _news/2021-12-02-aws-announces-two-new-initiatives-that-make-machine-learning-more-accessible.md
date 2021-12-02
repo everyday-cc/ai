@@ -2,22 +2,28 @@
 category: news
 title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
-publishedDateTime: 2021-12-01T23:59:00Z
-originalUrl: "https://www.heraldstandard.com/business_ap/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/article_93b7535f-0bc8-5b22-bea6-cf77b12685ec.html"
-webUrl: "https://www.heraldstandard.com/business_ap/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/article_93b7535f-0bc8-5b22-bea6-cf77b12685ec.html"
+publishedDateTime: 2021-12-02T01:59:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-web-services-education-ffa801fcb7634e1aaf7bd9d58db2d071"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-web-services-education-ffa801fcb7634e1aaf7bd9d58db2d071"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: The Herald-Standard
-  domain: heraldstandard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
   - AWS AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Machine learning to make sign language more accessible"
@@ -37,6 +43,6 @@ related:
         height: 634
         isCached: true
 
-secured: "Eto/OcoRprP789rRo/6mqlkgkCjmoh3oWbbm0tSMJ0BSeXsnA+b45VpOcexIoICvxlFSzCnFtZiayUgN/XLNhlffwwfT/TEQ93a9Ah95/nftxrGX5mjvVRcmY9u2Nld6pZM9VdSC4hZnquqykD+K+Io4/ShfL6LMMTpgeUtpsTLyxzP6LIqDrr4E6MwLYXP/gmH/ipUqU5ztCIXklENb3JygvW//itfHGjFwvnRSruRpNm9Dq/hGa6ASLy5KOWExp//zDg4XHFDhshrGllB2IZZUpRVfqN9vdn3AQ4ab+XldENl+NO7+eKFf+OZOS07RuBgzRvJ9xDYNhnuFlWUJfljBnlpcr6MuPU1kjm2leJwvU1VhKt4V5Fzy334XGRbkvB+yfMSRPZyK5g9hVYA1YDT2Zo+DkZdu13z0XoOOdz0TFrIKJGA5NIMQn7w5zUm0BktF/k+1ZGJCInj9QEuL84savxf5RnEtor52Z+XiAtk+b2eBNVICkBJ2WEShPsq0KZhYlvrgB5Olbzh2sofCvw==;yuRaWea+c+Ms2S8rgdtwpA=="
+secured: "rBe68nd5uF7Uc7JeWXbGotrsWBP9C3htArd9GtCzHACwOzNHMXrDZhbdeqY89IfwL/XyRfxlMqrspBU3N4Q/p4dxlkcxoyVbJBZ0xYL0FF7dijruZvJzcJDDaybGNeZaUVdogclSJi/hVx0gD2dBx4uA78gUsHz6W67zvEkWPmsqQlfyczc8N3ujv6S0cvqevQPn2kV/zsxavVDgsZ7PXup7o11WGQBSeeozZPWvWdekQck8QKgej+A40tXCBuHTeV+6NaNutnq1rNs/Iy1RR+gZqSSsA12Fd/uq/+X/PJj5N3wDW1LXm5euzI9GwLapAaKMcsMlZhUzdkkYhwk7tpb0Qw9OHtBxkzMnUai5mGI=;D9unLhjlSij9gM7fgTNZTg=="
 ---
 

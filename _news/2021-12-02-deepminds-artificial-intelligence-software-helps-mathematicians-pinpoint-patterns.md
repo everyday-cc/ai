@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DeepMind AI Used To Develop New Math Techniques"
+    excerpt: "Researchers are using DeepMind's artificial intelligence to develop fundamentally new techniques in mathematics."
+    publishedDateTime: 2021-12-02T10:03:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/deepmind-ai-used-to-develop-new-math-techniques-356418"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 71
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/356418/deepmind-ai-used-to-develop-new-math-techniques-356418-640x360.jpg?cb=20211202"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Mathematicians hail breakthrough in using AI to suggest new theorems"
     excerpt: "Their work examined knot theory and representation theory, areas of \"pure mathematics\" which typically depend on human intuition for breakthroughs."
     publishedDateTime: 2021-12-01T19:27:00Z

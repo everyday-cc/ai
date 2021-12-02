@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Prostate cancer: AI pathologist used to help diagnosis"
+    excerpt: "Artificial intelligence could improve cancer diagnosis and help save lives, a senior doctor has claimed. Betsi Cadwaladr University Health Board has rolled out an \"AI pathologist\" to help test men for prostate cancer."
+    publishedDateTime: 2021-12-02T09:23:00Z
+    webUrl: "https://www.bbc.com/news/uk-wales-59491186"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 67
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/13756/production/_121920797_gettyimages-1128870494.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Deep Bio and Tribun Health Join Forces to Enhance Cancer Care with AI-Powered Digital Pathology"
     excerpt: "DeepDx® Prostate, Deep Bio's deep learning-based prostate cancer diagnostic support software, aids pathologists in making fast and consistent diagnostic decisions for prostate cancer. Recently, Tribun Health unveiled the \"Tribun Health Platform\", with at ..."
     publishedDateTime: 2021-12-01T03:38:00Z

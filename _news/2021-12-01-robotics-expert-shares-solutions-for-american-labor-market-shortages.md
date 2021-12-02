@@ -35,6 +35,20 @@ related:
         width: 800
         height: 449
         isCached: true
+  - title: "Rise in Advent of Machine Learning and Artificial Intelligence is Set to Drive North America Digital Transformation Market: Ken Research"
+    excerpt: "Digital transformation refers as the use of digital technology with an objective to address the conventional issues. The switch from traditional to new digitized business models accelerates the introduction of advanced high-tech products & solutions."
+    publishedDateTime: 2021-12-02T09:32:00Z
+    webUrl: "https://www.linkedin.com/pulse/rise-advent-machine-learning-artificial-intelligence-set-riya-sharma"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 21
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQH-Tl-ZbJItOg/article-cover_image-shrink_600_2000/0/1638436174613?e=1643846400&v=beta&t=BbGQpa-XP2oZc7hxdQAWEQDC9vwhAzak1Xpq9tyt3-8"
+        width: 797
+        height: 446
+        isCached: true
 
 secured: "bWRSsSXsCLGkg1JKfA192g/Cb46epqyh0iATKAdqOR+V+hUZCEeon2Fog7DZbXYwUfIKuiTRd3I3UuS+p3ccBs+L0R3Odh48f99Wba/5SGs8pL33mhid8ZqOko9J9R4ZVhjWNRurSxjdgtAv41o4fW+Jm5GRop7LeLObQS75WDyGB7bsMCpA7zYpFBPgh1noOgJnNa33suIc6C2E1KKQp2ZnfcaJRIBkj246wBkTCgSlgSjTWSRWDkyA0BIp+A/ZeoR57c8rXHvHHRYyJPk2xa7cojrmdV/s+k4VnZth+3h3VoWOZBK6MkeKpDwm+j4BgS0H7NsONXwIfxbFDywvwtyFB2BWdltxf/IqhVMYEEM=;FQsK4ENHBdx2eGWpuFDAfA=="
 ---

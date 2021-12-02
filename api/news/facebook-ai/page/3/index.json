@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-16-facebook-election-2021-green-party-cries-foul-over-facebook-ad-by-labour-group.md",
+      "title": "Facebook – Election 2021: Green party cries foul over Facebook ad by labour group",
+      "excerpt": "Green party cries foul over Facebook ad by labour group The campaign team for the incumbent Green party candidate-Ladysmith, Paul Manly, has filed a complaint with Elections Canada over an ad that was paid for by the Canadian Labour Congress.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-election-2021-green-party-cries-foul-over-facebook-ad-by-labour-group/",
+      "originalUrl": "https://fintechzoom.com/fintech_news_facebook/facebook-election-2021-green-party-cries-foul-over-facebook-ad-by-labour-group/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/vancouversun/wp-content/uploads/2021/09/nanaimo-byelection-20190506.jpg?quality=90&strip=all&w=288",
+          "width": 288,
+          "height": 216,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechzoom",
+        "domain": "fintechzoom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-ex-google-exec-describes-4-top-dangers-of-artificial-intelligence.md",
       "title": "Ex-Google exec describes 4 top dangers of artificial intelligence",
       "excerpt": "In a new interview, AI expert Kai-Fu Lee explained the top four dangers of burgeoning AI technology: externalities, personal data risks, inability to explain consequential choices, and warfare.",

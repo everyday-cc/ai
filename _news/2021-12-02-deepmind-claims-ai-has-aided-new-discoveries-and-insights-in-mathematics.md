@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/"
 type: article
 quality: 135
-heat: 226
+heat: 236
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/12/01145204/PRI_212914641.jpg?width=1200&enable=upscale"
         width: 1200
         height: 800
+        isCached: true
+  - title: "DeepMind AI Used To Develop New Math Techniques"
+    excerpt: "Researchers are using DeepMind's artificial intelligence to develop fundamentally new techniques in mathematics."
+    publishedDateTime: 2021-12-02T10:03:00Z
+    webUrl: "https://www.technologynetworks.com/neuroscience/news/deepmind-ai-used-to-develop-new-math-techniques-356418"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 71
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/356418/deepmind-ai-used-to-develop-new-math-techniques-356418-640x360.jpg?cb=20211202"
+        width: 640
+        height: 360
         isCached: true
   - title: "Mathematicians hail breakthrough in using AI to suggest new theorems"
     excerpt: "Their work examined knot theory and representation theory, areas of \"pure mathematics\" which typically depend on human intuition for breakthroughs."

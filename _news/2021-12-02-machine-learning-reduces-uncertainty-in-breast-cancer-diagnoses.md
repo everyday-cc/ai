@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Machine Learning Reduces Uncertainty in Breast Cancer Diagnoses"
-excerpt: "Breast cancer is the most common cancer with the highest mortality rate. Swift detection and diagnosis diminish the impact of the disease. Researchers at Michigan Tech have developed a machine learning model for detecting breast cancer from histopathology images."
-publishedDateTime: 2021-12-01T16:50:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/936541"
-webUrl: "https://www.eurekalert.org/news-releases/936541"
+excerpt: "A machine learning model uses probability to more accurately classify breast cancer shown in histopathology images and evaluate the uncertainty of its predictions."
+publishedDateTime: 2021-12-02T10:30:00Z
+originalUrl: "https://www.technologynetworks.com/diagnostics/news/machine-learning-reduces-uncertainty-in-breast-cancer-diagnoses-356428"
+webUrl: "https://www.technologynetworks.com/diagnostics/news/machine-learning-reduces-uncertainty-in-breast-cancer-diagnoses-356428"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: technologynetworks.com
+  domain: technologynetworks.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/76b778f4-7cf9-42d4-a8a5-bc09d8c053bd/Rendition/low-res/Content/Public"
-    width: 319
-    height: 700
+  - url: "https://assets.technologynetworks.com/production/dynamic/images/content/356428/machine-learning-reduces-uncertainty-in-breast-cancer-diagnoses-356428-640x360.jpg?cb=20211202"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 480
         isCached: true
 
-secured: "130Xcfp3WRdSrCVV8ZwykYBSM5IxVtltkrYdawfRO9BTiw7zeGFR5SHLiVlkKTYpi2EsV3iTAJt/nGbZhG/ryMg55QA7/87WwKpkxta06oV7fLv/Ddu+oAfILAAk1ggd6jFvZSFcypZ7V0lcvp9H3yMuXLsGUhuLhg3gW/jP/fjCxTaRD0PuOy7el0e6sbU0bOndDBYdydgc6UGxxMzWzzDamg5KLJTXVR2tsMWhx8mzZ9kRMkrZod1F09f8Im5VZ9/Wqv6qYvaWA72rMQYwdm+BC+jBm8voxnO/UsBUCe9yovsUurBwm4IfckJeVyqxawtK7llMMWXkzv3WSuPNfNKllBbBtzJTwfDnHDfYTTM=;aP0vCyxjfzbz1CXyMy/mYw=="
+secured: "gE7NFojzFMmpRx0V9pXk/lb03oDJix3qwHNf3q9k1QU7Pj99aZsssiolc7GkOV+tcT5A4AGJUEGsHD3To2ONk1iOHu8T3vxwxbACUIHHBU8BdRvV0G5WxyDTn93BnK9MxAyHs3XnJ9Ya/v8dz7W4hCA8dn3vzUuHMfsOF7j+gmaQSDtyNpdFYOKytRMdom9ovuwyrLuH0CaBV6/TXDwQV1wK5/DOK65Ywu9Ah0qouyAF/dHXbihsZJTrYdIGtd01bPOt3j33VislL/wIq493MkvJuFzECaCxBrNlFHLsF5aO97sqHVDbw99kS2aE2rxP2TTXXPWemNaOEq/CjLSHqhL79B1FOFeTW/DJgkPoQa0=;gR/AM1sr5Q4hjoYjY6DJlA=="
 ---
 

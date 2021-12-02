@@ -99,6 +99,17 @@ related:
         width: 976
         height: 400
         isCached: true
+  - title: "Artificial Intelligence Predicts Synergistic Drugs"
+    excerpt: "New study revealed the potential of using AI and machine learning to identify effective drug combinations in therapies for cancers."
+    publishedDateTime: 2021-12-02T09:13:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
 
 secured: "8odrcSrCGSUUIu5STdE0wkWeccA6u3Max/Uk+Klt4+HUDJ8zb1k5aOkQbBYaxSyw7ojFghKBtTbZqziHdeuIDbn3bM5eTf/CamaLLsRbeNV/1yS51bmgvYcVNs4BeO41VFttB6plGL2xGbzdyy1Iki/icAjpaNfcM+3RZlkrOpPUKtbiIsMGAJ9NyY6Vi1mqKkwCkgy3fQNBwwk2DbeVAOpUFZs+ur/7GdMffQgX8ue8qYSdb2pwu0i7+vgtPEghV7WSkcM8ydMS+a8wbIw6j2zQQZtvXcNt2nkqDH397c/YkfIK57uzadxTkfpl67Qer/iIEPTcr4Axskqi0zcyg4eoiUt90RqUzqI0Na/3DWSa5KesPrEvPn64UFgJAD2DJ7+UP3lO3tyviS+v1mRDk7HyNyuh4qFXtO1or6rU7RMVmH2tAXJFccV//dCKsVw3D0nForR0bC4wLtPqqzHc1eagcvT6MCZRpfYvDuRR2JFbtHV3nJEe9VPupV661KuGi1wNicMR4JEUJPWXwKqlOg==;RXylKC0CAnbTj0iQTr2FWQ=="
 ---
