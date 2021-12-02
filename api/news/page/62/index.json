@@ -2,6 +2,101 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-10-14-natural-language-processing-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth.md",
+      "title": "Natural Language Processing Market Detailed Analysis of Current Industry Figures with Forecasts Growth",
+      "excerpt": "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Oct 13, 2021, 08:34 /Comserve / -- Natural Language Processing Market With Top Countries Data, Industry Analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102966192/Natural-Language-Processing-Market-Detailed-Analysis-of-Current-Industry-Figures-with-Forecasts-Growth",
+      "originalUrl": "https://menafn.com/1102966192/Natural-Language-Processing-Market-Detailed-Analysis-of-Current-Industry-Figures-with-Forecasts-Growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?12923",
+          "width": 406,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-applying-the-power-of-deep-learning-to-cybersecurity.md",
+      "title": "Applying The Power Of Deep Learning To Cybersecurity",
+      "excerpt": "There are lots of cybersecurity tools out there that promise to help organizations scale to manage the volume of threats and help separate the signal from the noise to identify security events that should be escalated to the IT security team for response.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616733004f45ec9f5112fd25%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2021/10/13/applying-the-power-of-deep-learning-to-cybersecurity/amp/",
+      "publishedDateTime": "2021-10-13T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-cambridge-quantum-makes-quantum-natural-language-processing-a-reality.md",
       "title": "Cambridge Quantum Makes Quantum Natural Language Processing A Reality",
       "excerpt": "Goodson, dives in as Cambridge Quantum (\"CQ\") today announced a quantum computing first. It released an open-source toolkit and library for a Quantum Natural Language Processing (QNLP) toolkit called lambeq.",
@@ -1031,109 +1126,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale.md",
-      "title": "IBM's ModelMesh goes open-source, enabling developers to deploy AI models at scale",
-      "excerpt": "Model serving is a critical component of AI use-cases ... allocation. IBM solved this challenge with its proprietary ModelMesh model-serving management layer for Watson products such as Watson ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale/",
-      "originalUrl": "https://www.neowin.net/news/ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/04/1554122456_machine_learn_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ibms-modelmesh-goes-open-source-enabling-developers-to-deploy-ai-models-at-scale/",
-      "publishedDateTime": "2021-10-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement.md",
-      "title": "Shareef O’Neal Lands New NIL Deal Using AI-Based Product Placement",
-      "excerpt": "Influential, an influencer marketing company, has partnered with Mirriad, an AI-based digital advertising platform specializing in product placement, to launch the first-ever superimposed image and video capability on social media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/",
-      "originalUrl": "https://www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616666cc49248193aa9e94f3%2F0x0.jpg",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kristidosh/2021/10/13/shareef-oneal-lands-new-nil-deal-using-ai-based-product-placement/amp/",
-      "publishedDateTime": "2021-10-13T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

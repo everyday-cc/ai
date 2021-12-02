@@ -2,6 +2,101 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2021-09-09-machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says.md",
+      "title": "Machine learning is a great tool for cybersecurity, but be cautious, expert says",
+      "excerpt": "Supervised and unsupervised machine learning are good ways to detect threats. But what's the difference? TechRepublic's Karen Roby spoke with Chris Ford, VP of product for Threat Stack, about supervised and unsupervised machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says/",
+      "originalUrl": "https://www.techrepublic.com/article/machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/09/08/71859f8e-a1a5-4870-9362-9cb9a8581f7a/thumbnail/1200x675/68c3d582211ee59ed85ef0b8f319e370/20210903-supervisedml-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/machine-learning-is-a-great-tool-for-cybersecurity-but-be-cautious-expert-says/",
+      "publishedDateTime": "2021-09-08T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-09-cognitive-services-market-to-witness-huge-growth-by-2028-softarex-baidu-nokia.md",
+      "title": "Cognitive Services Market to Witness Huge Growth by 2028 | Softarex, Baidu, Nokia",
+      "excerpt": "The Cognitive Services market size section gives the Cognitive Services market revenue, covering both the historic growth of the market and the forecasting of the future. Moreover, the report covers a host of company profiles,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/cognitive-services-market-to-witness-huge-growth-by-2028-softarex-baidu-nokia/",
+      "originalUrl": "https://manometcurrent.com/cognitive-services-market-to-witness-huge-growth-by-2028-softarex-baidu-nokia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/chart-2021-09-09T000226.751-780x470.jpg",
+          "width": 780,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/cognitive-services-market-to-witness-huge-growth-by-2028-softarex-baidu-nokia/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/cognitive-services-market-to-witness-huge-growth-by-2028-softarex-baidu-nokia/",
+      "publishedDateTime": "2021-09-08T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-09-us-government-forms-committee-to-advise-on-ai-competitiveness-ethics.md",
       "title": "US government forms committee to advise on AI competitiveness, ethics",
       "excerpt": "The newly-formed committee will advise the President of AI matters. It's no surprise that artificial intelligence is the future. So much so that the Department of Commerce is forming the National Artificial Intelligence Advisory Committee to focus on a range of issues related to AI.",

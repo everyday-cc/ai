@@ -56,6 +56,20 @@ related:
         height: 630
         isCached: true
   - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud."
+    publishedDateTime: 2021-12-02T00:10:00Z
+    webUrl: "https://www.productionhub.com/press/76179/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of-discovery"
+    type: article
+    provider:
+      name: ProductionHUB
+      domain: productionhub.com
+    quality: 31
+    images:
+      - url: "https://s3.amazonaws.com/images.productionhub.com/banners/127_5829_6556_KF44.png"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
     excerpt: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+. Today, Amazon Web Services (News - Alert), Inc. (AWS), an Amazon.com, Inc. company (NASDAQ:"
     publishedDateTime: 2021-12-01T15:41:00Z
     webUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/01/9502667.htm"
@@ -63,15 +77,6 @@ related:
     provider:
       name: Mobility Techzone
       domain: mobilitytechzone.com
-    quality: 11
-  - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-    excerpt: "(NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud. As Discovery’s preferred cloud provider, AWS powers the vast majority of the company’s infrastructure needs to deliver its discovery+ on-demand streaming video service,"
-    publishedDateTime: 2021-12-01T23:08:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
     quality: 11
 
 secured: "elHhlGJPeGAHqtSO4gXry8qwuE8wXD2Q1kg3n6qsDJThR0BqEBNt020djQPg7OSX53CZmhbccYAv2HwLVKs/CFXgdmcUfkKSiksVHddeYRtb5d8fjHsNHCzUhnI79Lbpxcxb6cFMckXPUNyWVG7t7Tuyf3MjVCT9sz43yJdzB2dLlVjQe8FY/ZXAkOSC08s0vS6+kxwcMXCB2iKPM+W472CqP9b03NoVdQBYYTLoMy/EBIJnmjVdyRvstKJD7C7bs12js4bIZeH2aIkHQgUem4t4JLRe0+6fmCZoMEGail5OYl8WlQh1h1YFPECwITzpZ7IECuu4Cu6j0TmLjsQW3SqGZVYaJAgmeJ2g0c0y+lG1KxNAYfbCOlAqfNZFzfbjGwbmCBXGVwUORYkpP38HVrY2Yuayrge+xFasfiEgklcnlMoUa23oaUte5xytQ3LGp2a5hzCrY3uVb2Hr6Sh+fYRlPXJ8cC+3gMaD0MXqENBkm8gK2g0i8TXuIrJlpNF6AlHfwFhV35uspem/IT41ew==;AebYoA+l+Foiq4S3SGf+AQ=="

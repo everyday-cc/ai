@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
 type: article
 quality: 99
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -180,6 +180,20 @@ related:
       - url: "https://www.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2021/12/Matt-Gould_ContractPodAi.jpg"
         width: 990
         height: 660
+        isCached: true
+  - title: "With an AI to the future"
+    excerpt: "By Corin Campbell, PR and Media Manager, Communications and Marketing Will artificial intelligence provide the answers to everything or spell the downfall of humankind? Professor Michael Rovatsos unravels the hype and asks if we really want to make machines that think just like us."
+    publishedDateTime: 2021-12-01T16:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-future-university-of-edinburgh"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEOfjjlOde_KA/article-cover_image-shrink_720_1280/0/1638373093390?e=1643846400&v=beta&t=BJQBad7pXcQxxxp7m7uxg6aLh8tBmeII72_FhaMirBk"
+        width: 1081
+        height: 720
         isCached: true
   - title: "How to bridge the imaging AI adoption gap with an ecosystem approach — 3 learnings"
     excerpt: "Imaging technologies powered by artificial intelligence have proliferated in recent years, yet adoption of these technologies, which are designed to assist with the complexities of diagnostics and their associated workflows,"

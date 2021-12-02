@@ -87,6 +87,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "How Do We Support Digital Transformation in the Fintech Industry?"
+    excerpt: "The Fintech Industry has seen some exciting changes in the last few years. AI, voice recognition, SaaS cloud services, better online banking, increased security and protection… these are just some of the latest FinTech trends that prove that there's a lot of potential still to be reached."
+    publishedDateTime: 2021-12-01T13:38:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-do-we-support-digital-transformation-fintech-industry-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE3jqiw6R4B2w/article-cover_image-shrink_720_1280/0/1638199043166?e=1643846400&v=beta&t=UYR1394C07GfEMs4ZBK5JPGRnSYVHo-QDwwVmwE0IKk"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Tenet Fintech Addresses Recent Trading Volatility"
     excerpt: "November 30, 2021) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business Hub™, today confirmed that the Company is not aware of any undisclosed material event or events affecting its business operations that might be responsible for the recent trading volatility in its common shares."
     publishedDateTime: 2021-11-30T18:36:00Z

@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Machine learning helps mathematicians make new connections"
-excerpt: "Mathematicians have partnered with artificial intelligence to suggest and prove new mathematical theorems. For the first time, mathematicians have partnered with artificial intelligence to suggest and prove new mathematical theorems."
-publishedDateTime: 2021-12-01T21:33:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/12/211201111925.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/12/211201111925.htm"
+excerpt: "For the first time, mathematicians have partnered with artificial intelligence to suggest and prove new mathematical theorems. The work was done in a collaboration between the University of Oxford, the University of Sydney in Australia and DeepMind,"
+publishedDateTime: 2021-12-01T16:09:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/936528"
+webUrl: "https://www.eurekalert.org/news-releases/936528"
 type: article
-quality: 51
-heat: 51
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Google AI
   - AI
   - Machine Learning
 
-secured: "lKSVbngYUN0Y2Cv/uGk5QdnRgVKt+UZ0J4h7Xx14/ajoAgBOTmZ+S8oB8WXDiZsxrPx3X8jedCYIriJpFhEsJXZN5KvB70oulxWiNQ3Odm/kxs9NM20MtQJMZF32aVsOYsQiGE0JMO9gLq5PKI9yApni2KORH8TVbAQUGE9fjUKud7Xj4if7thaOFYOb/GeSQiqfxuk2Vy6OiGVdC2t9S/t0akkNdBIxSPLUxNAxGEyGKzzLOTNkwHS6VWpnBkihG/6RSW8Qd9hORbrlIye3wNqozUnw13Wk6ZhkbijMzdPr7DbX8I6SipzCybH0MrxeqHp9J42NTAqxJKXqnpaEpV+Aho4a+HuWn2PY/sVuxlE=;QUJXK6UpmLr+52cdoTY51g=="
+secured: "hnz9ZBmu/WD+Ocp8Biu0D72toRGD3UQ535+RTocL/3a2YVR0PxgBmKX9so2lNsO2U6+NHwZgqIq63SZ0UEW+hJ7TLk2cxXpFgCepbxMT1p8r/sn5JFMj6exLZEZAWwok3T5rH5WWifB+axyiDhUy1u/XoE3n4GUTjgWSC/8nGa3zAyvWtZEwg8Lax3fRUsh+kVIdh6sKN13jOMGt83vDyF2uMPUD1kw05EryX9KkaGC45kudxhv+GpZl8f1BorkUS+28Ej9DG1BPkKvSWrjnBwEEzD0+QvOdwuKiHCLIoJjwqhynizkDgTG6DkF2o3pBsc2upxIKr6Dm0u3RzC+gN6fZ9mwozCgkxKDCGxjCDiY=;oLDlK1Grmx9eJJt2ILXULg=="
 ---
 

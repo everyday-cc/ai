@@ -73,6 +73,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "How Do We Support Digital Transformation in the Fintech Industry?"
+    excerpt: "The Fintech Industry has seen some exciting changes in the last few years. AI, voice recognition, SaaS cloud services, better online banking, increased security and protection… these are just some of the latest FinTech trends that prove that there's a lot of potential still to be reached."
+    publishedDateTime: 2021-12-01T13:38:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-do-we-support-digital-transformation-fintech-industry-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE3jqiw6R4B2w/article-cover_image-shrink_720_1280/0/1638199043166?e=1643846400&v=beta&t=UYR1394C07GfEMs4ZBK5JPGRnSYVHo-QDwwVmwE0IKk"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "EarlyBirds Draws Attention To How Fintech And Insurtech Are Disrupting These Industries"
     excerpt: "Open innovation ecosystem EarlyBirds is helping businesses in the Fintech and Insurtech industries benefit from the innovations in their respective"
     publishedDateTime: 2021-11-29T05:10:00Z

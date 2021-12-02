@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-01-using-ai-for-accurately-predicting-synergistic-cancer-drug-combinations.md",
+      "title": "Using AI for accurately predicting synergistic cancer drug combinations",
+      "excerpt": "A research team led by a scholar from City University of Hong Kong (CityU) has recently developed a novel artificial intelligence (AI) framework that can make synergistic anti-cancer drug combination predictions on both the therapeutic and toxic effects.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/using-ai-for-accuratel.jpg",
+          "width": 1890,
+          "height": 1103,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.amp",
+      "publishedDateTime": "2021-12-01T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-how-ai-can-help-close-the-racial-wealth-gap.md",
       "title": "How AI Can Help Close The Racial Wealth Gap",
       "excerpt": "Artificial intelligence shows fantastic promise and, in many cases, has already proven successful for its intended purposes. Unfortunately, AI is only as good as the data it learns from.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2021/12/01/how-ai-can-help-close-the-racial-wealth-gap/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1189,58 +1232,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-linkedin-and-intel-tech-leaders-on-the-state-of-ai.md",
-      "title": "LinkedIn and Intel tech leaders on the state of AI",
-      "excerpt": "Industry leaders discuss the \"duct tape of data,\" if language models are a good way to approximate AI, and how to gain hybrid intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/",
-      "originalUrl": "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/amp/",
-      "publishedDateTime": "2021-11-30T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

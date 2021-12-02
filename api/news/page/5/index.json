@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-30-exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible.md",
+      "title": "Exclusive: How The Austin Lighthouse For The Blind Uses Robotics To Make Warehouse Work More Efficient And More Accessible",
+      "excerpt": "This spring, in partnership with Fetch Robotics, the Lighthouse began working with autonomous mobile robots, or AMRs, in an effort to help Blind and low vision workers in the warehouse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/29/exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/29/exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a50ace24ac178c27ec113d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/29/exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2021/11/29/exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible/amp/",
+      "publishedDateTime": "2021-11-29T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-c3ai-stock-is-approaching-bargain-territory.md",
       "title": "C3.AI Stock is Approaching Bargain Territory",
       "excerpt": "Enterprise artificial intelligence application software company C3.AI (NYSE: AI) stock has been in a terrifying sell-off hitting lows of $36.33 all the way from a high of $183.90 nearly",
@@ -623,7 +675,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/articleshow/87967546.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1154,57 +1206,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-building-artificial-intelligence-staffing-is-the-most-challenging-part.md",
-      "title": "Building artificial intelligence: staffing is the most challenging part",
-      "excerpt": "Every company worth its weight is set on achieving practical and scalable artificial intelligence and machine learning. However, it's all much easier said than done -- to which AI leaders within some of the most information-intensive enterprises can attest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/building-artificial-intelligence-staffing-is-the-most-challenging-part/",
-      "originalUrl": "https://www.zdnet.com/article/building-artificial-intelligence-staffing-is-the-most-challenging-part/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/82792f320a8b17f93e4402163655922ba45427cb/2021/11/26/ad71fe56-766b-46a9-9ad4-4f14164f0760/path-station-people-train-station-path-october-2016-photo-by-joe-mckendrick.jpg?width=770&height=578&fit=crop&auto=webp",
-          "width": 770,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-27T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

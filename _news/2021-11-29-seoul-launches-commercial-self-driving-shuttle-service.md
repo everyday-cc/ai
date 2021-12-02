@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Beijing launches first commercial trial of self-driving vehicle"
-    excerpt: "The Chinese capital of Beijing launched its first commercial trial of autonomous driving and rolled out relevant management policie"
-    publishedDateTime: 2021-11-27T09:02:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271816493/beijing-launches-first-commercial-trial-of-self-driving-vehicle"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Self-Driving and Service to Country"
     excerpt: "Welcome back to the Stack, a monthly newsletter from Argo AI and Ground Truth featuring the best content in the field we’re all so passionate about: self-driving cars! Subscribe here to receive upcoming editions in your email inbox."
     publishedDateTime: 2021-12-01T16:21:00Z

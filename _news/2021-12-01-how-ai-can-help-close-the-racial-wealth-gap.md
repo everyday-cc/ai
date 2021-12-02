@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/12/01/how-ai-can-help-close-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/12/01/how-ai-can-help-close-the-racial-wealth-gap/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "How artificial intelligence in healthcare will change the way you're treated forever"
-    excerpt: "Here's why using artificial intelligence in healthcare is something to be celebrated, not feared While artificial intelligence in healthcare may seem a new, and perhaps a slightly alien concept, it is revolutionizing diagnoses and treatments in hospitals around the country."
-    publishedDateTime: 2021-11-27T10:30:00Z
-    webUrl: "https://www.womanandhome.com/health-wellbeing/artificial-intelligence-in-healthcare/"
-    ampWebUrl: "https://www.womanandhome.com/amp/health-wellbeing/artificial-intelligence-in-healthcare/"
-    cdnAmpWebUrl: "https://www-womanandhome-com.cdn.ampproject.org/c/s/www.womanandhome.com/amp/health-wellbeing/artificial-intelligence-in-healthcare/"
-    type: article
-    provider:
-      name: Woman & Home
-      domain: womanandhome.com
-    quality: 69
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jfK2usqkTyYfVaaC4XfucK-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "cqiWja+koKDyTseBCBWo1QHCZ11z8ackRw7IbhFxPWivjUsM8sJbK6OIPO79GEpTR8le0UrFl210alWLfts/GA6U4gwhEJCYSqTRhTiCZlug+cT8UccWjtG5V9bzyJXuw5ja6BOr31mLW1Zpb6F7o4hW1osKz+ZG3EK+C0ppWSurwRx96o9YjCaOy9D/89zLqFwlyacC8GbVA71gCtRRRd8Je+XR0oFEz/2eoYAzRJZfhR3ueKixeMBDtkY/1JVV05MtvmuURF3pvEyFjCrX4umEXRh8/ZSblZda7/2ohxWsJZV+JfUfxcd8Ie9eCQ4r5IDHPbBLckwux5JW8fbXr3elwGL1TUH1WBg5bmoXjf+3ltAFaQEO5tWpMwaMPef99WGxz477nPdNU4puO020o3Mw7BMEKPb53myjaAYxcmr2I3aT4ws0qfuy11DUBM9M2E7nvCF6U+yucArLUK/hDCzHFFNmUchUoNSCGmQXhO2t9f95se/qRS7i1wsHu6m95npZB+naLTsOYVwIu2a0dQ==;RlSLcO0XkRBvv0SFRtxycQ=="
 ---

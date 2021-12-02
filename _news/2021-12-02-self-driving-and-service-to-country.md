@@ -45,20 +45,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Beijing launches first commercial trial of self-driving vehicle"
-    excerpt: "The Chinese capital of Beijing launched its first commercial trial of autonomous driving and rolled out relevant management policie"
-    publishedDateTime: 2021-11-27T09:02:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271816493/beijing-launches-first-commercial-trial-of-self-driving-vehicle"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "Su2fPgLmrMIh0iiVUdfJwDKwbrpr8A1UwQK54eqjwHpQ6S+tTH3oT6Dnf8oNz9ztU3R1BdTlpVuXImG9O5t4iDk2TODVauSz5mOFnVCm+zxEGVKuZAIIijHo5g7qMLMwS56UtzmwPVTaZLskFSYiHUYJL1xRb+iDl2L/KL1hLrneD3k7uyBNcXHmfiiwzGFZ6+K+5D9Y8Z8aiLo2Pf75YaQnSoxA823DPMEgAK9A1BJsbP3zaz3qwuVp/sZ+rAVl8+ztX81zwzneWFiky42644t3Uv11oIEx2/cjvz+WUwb+CabC50Wy09Y8BbWmeDyCXMEHqcQZj8OyfWI299sEOx7FRdLV494bsnsP+Jcb9ME=;y9ATpLDZME44EcaAhik7kQ=="
 ---

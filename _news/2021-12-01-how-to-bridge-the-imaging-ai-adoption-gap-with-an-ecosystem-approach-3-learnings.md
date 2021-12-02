@@ -187,6 +187,20 @@ related:
         width: 990
         height: 660
         isCached: true
+  - title: "With an AI to the future"
+    excerpt: "By Corin Campbell, PR and Media Manager, Communications and Marketing Will artificial intelligence provide the answers to everything or spell the downfall of humankind? Professor Michael Rovatsos unravels the hype and asks if we really want to make machines that think just like us."
+    publishedDateTime: 2021-12-01T16:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-future-university-of-edinburgh"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEOfjjlOde_KA/article-cover_image-shrink_720_1280/0/1638373093390?e=1643846400&v=beta&t=BJQBad7pXcQxxxp7m7uxg6aLh8tBmeII72_FhaMirBk"
+        width: 1081
+        height: 720
+        isCached: true
   - title: "Hyperfine Receives FDA Clearance for Deep Learning Portable MRI, Defining the Future of Life-Saving Diagnostics"
     excerpt: "Inc., creator of the first FDA-cleared portable magnetic resonance imaging (MRI) device, Swoop®, today announced the FDA 510(k) clearance and launch of"
     publishedDateTime: 2021-11-29T12:00:00Z

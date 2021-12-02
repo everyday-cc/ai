@@ -39,6 +39,20 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "Nuro launches self-driving vehicle deliveries in Mountain View, the first ever in California"
+    excerpt: "In a major milestone for autonomous vehicle technology, the Mountain View-based company Nuro launched a new commercial delivery service Wednesday that uses self-driving cars to ferry food and other goods right to peoples' doorstep."
+    publishedDateTime: 2021-12-01T18:59:00Z
+    webUrl: "https://www.mv-voice.com/news/show_story.php?id=18925"
+    type: article
+    provider:
+      name: mv-voice.com
+      domain: mv-voice.com
+    quality: 28
+    images:
+      - url: "https://www.mv-voice.com/news/photos/2021/december/1/41063_col.jpg"
+        width: 2400
+        height: 1596
+        isCached: true
 
 secured: "fEpcstjmf3dyuZR6nXQWHTi8N/IWEmZTCkaCdzYUzmSn/U6f2uU+L5LlrO2CdbijsQT18A6Z1Fz58JtrMG+MD4QDrGfyyzGvMPL0jY0uBceYaZphUbNJBaKPEq99ormte7ToGrjeydE8as4OxwVsLBZlHjx3UmAWO4HKt2BNeoKSPGRDoGOjKssOJUj08PAVrPF28a/DU1HGcTaRjVxhXXpmx+fgzVknmYhRJog4EHX9KVmyky2GSWXMMOiGhXdZJFwbfuJWreFOr0kEEt5cYMno8XsIh7g10WK8EJUyHv2TMxOCnIqR325G19ZEZSrVlLrEpmunFn9SVuBthrHdMF+gTbuwauaVK8Oyc0oJtY+EJwsbvsaoUhfH/fcgRoTKoFWmOf0kfzuKUq69zyZPLBZV0WT/VJ6HXORnQRkdSrYKQgROggR8jOmzpNVunvXqJcvrmSyqWDt7O7NtotJ4IX9HFpyHsdZgquteN2grzZFzRatog4GJ1DQKNo6l1Ry/MUU+ScGTcuyhDwV7QqYwXw==;ROQNZ/tqR+N1Ghq9rD3NUA=="
 ---
