@@ -8,8 +8,8 @@ webUrl: "https://www.news-medical.net/news/20211201/Noisy-and-quiet-environments
 ampWebUrl: "https://www.news-medical.net/amp/news/20211201/Noisy-and-quiet-environments-impact-speech-recognition-in-people-with-mild-dementia.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211201/Noisy-and-quiet-environments-impact-speech-recognition-in-people-with-mild-dementia.aspx"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Dementia-620x480.jpg"
@@ -26,6 +27,6 @@ images:
     height: 480
     isCached: true
 
-secured: "iTRvn8kCBL8eAOBSuUVB3Po/tT4UnekIoJJ6GeyIJJKk46vF7GHGNPDmPpo7oiRVty2YJ++P4y7An1yqPlOk7d1J5flsd8tLDHFHQl6zv+UZp38Sub8X79vsAB217UnCGGYdXTimQEE83j1YT1AMPyaDqkMGOMnm4Yak29E8UKOAVEKNlSyKvOODcrTSlvLdz9WGTI7GH1MyzQi60euPLlXpFCLwHO3H1gPix3MtZfkpzTjKvSr5LGLlp5jKTYg+2JF59iOAhXG3tMGAcPjTCC7lvNkwUq4XPXuVM2u35h3BHOXFGJkBe6QiIQIGi/7u8ee2owGtav+iOKd5lBH3q8DTnZPiV/RJ0JP2viUcNfA=;vSjn8+0aVWShzJXlbo0QCQ=="
+secured: "57wNZpJvItSWDkXXxw6cykkZdTkrJNF1o2kMu0Pw96jU3cvCisqh7cRhH8ZlEbYIJSJUGzDxJ9WA+0buHqgE96i89QUItNigSsVv8N1aluqUEqe5yVURRMJ90FPK49k6/uyuTbCReBD1I8rmYAPp8kqlzKNi0prVSR6SbrRw5fA+lrUrRr/pgU2Q4/6yxiBS5aKHGvYaQFYJCUeOy5ft+TrdF+KLGnIfds1nIGSgP7zqwYWrPokivQoh/h97gLqaPNUESw8/+ZYP01ZW20fLGuGbcBGY/9Y1r0cMeorjZx4BOrYCOdu+kV8Ag0wbuXzuBel+Oy/RtbJrcQptPRZIhagxK7g0Mdc2JOlCgFm0wiX1wR7Gnm/lUg58ZrJbVWt86MdMNlrUheVbLKwvWHs1j8eDchNAPI+fnhE4h3DrtIhRwSeXAs2C1k29NsZewmlDe4FUo6SYSLoATmdnnQNSX8pDYr9vZVxeee2oIu8+TfCAbF7MN/h+Lo2p6jb0n3HPnQIymJzS5bMPrTL6mXA1Mw==;pf2WVfKhlOHfn1hZ4mJq2A=="
 ---
 

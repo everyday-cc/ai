@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Seoul launches commercial self-driving shuttle service"
-    excerpt: "South Korea's capital city unveiled a commercial driverless car service Monday, the first step in an ambitious plan to bring autonomous vehicles into everyday life over the next five years."
-    publishedDateTime: 2021-11-29T15:28:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2021/11/29/Seoul-autonomous-vehicles-self-driving-cars-commercial-service/3041638200273/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/11/29/Seoul-autonomous-vehicles-self-driving-cars-commercial-service/3041638200273/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/11/29/Seoul-autonomous-vehicles-self-driving-cars-commercial-service/3041638200273/"
+  - title: "An Insight into Autonomous and Self Driving Trucks"
+    excerpt: "Imagine a world where trucks drive themselves, and autonomous vehicles rule the road. Industry experts project autonomous vehicles will become more common over the next ten years. Already there are companies that operate autonomous trucks in select areas such as mines,"
+    publishedDateTime: 2021-12-01T14:44:00Z
+    webUrl: "https://techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/"
+    ampWebUrl: "https://techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/amp/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 44
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/3041638200273/2021/1/16382007321530/v1.5/Seoul-launches-commercial-self-driving-shuttle-service.jpg"
-        width: 800
-        height: 533
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/Autonomous-and-Self-Driving-Trucks.jpg"
+        width: 700
+        height: 400
         isCached: true
 
 secured: "Su2fPgLmrMIh0iiVUdfJwDKwbrpr8A1UwQK54eqjwHpQ6S+tTH3oT6Dnf8oNz9ztU3R1BdTlpVuXImG9O5t4iDk2TODVauSz5mOFnVCm+zxEGVKuZAIIijHo5g7qMLMwS56UtzmwPVTaZLskFSYiHUYJL1xRb+iDl2L/KL1hLrneD3k7uyBNcXHmfiiwzGFZ6+K+5D9Y8Z8aiLo2Pf75YaQnSoxA823DPMEgAK9A1BJsbP3zaz3qwuVp/sZ+rAVl8+ztX81zwzneWFiky42644t3Uv11oIEx2/cjvz+WUwb+CabC50Wy09Y8BbWmeDyCXMEHqcQZj8OyfWI299sEOx7FRdLV494bsnsP+Jcb9ME=;y9ATpLDZME44EcaAhik7kQ=="

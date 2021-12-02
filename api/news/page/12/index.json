@@ -2,6 +2,91 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-11-21-robots-big-data-as-gulf-nations-bet-on-artificial-intelligence.md",
+      "title": "Robots, big data as Gulf nations bet on artificial intelligence",
+      "excerpt": "Robots puttering around Dubai’s hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core. The 5G-enabled Expo,",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
+      "originalUrl": "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.malaymail.com/uploads/articles/2021/2021-11/20211121_AI_Expo_Dubai_AFP.jpg",
+          "width": 1000,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
+      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
+      "publishedDateTime": "2021-11-20T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "malaymail",
+        "domain": "malaymail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-ai-played-big-role-in-approach-to-pandemic-says-uae-minister.md",
+      "title": "AI Played 'Big Role' in Approach to Pandemic, Says UAE Minister",
+      "excerpt": "Omar Al Olama, the UAE's AI Minister, explains how COVID-19 has been an accelerator for AI applications; why the US and China would benefit from a 'constant dialogue' on AI; and why 'the new roads that we need to be building right now are roads in the digital realm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister",
+      "originalUrl": "https://www.realclearpolitics.com/2021/11/20/ai_played_big_role_in_approach_to_pandemic_says_uae_minister_557114.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-11/omar.jpeg?h=a5ae579a&itok=OqPGVht5",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister?amp",
+      "cdnAmpWebUrl": "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister?amp",
+      "publishedDateTime": "2021-11-20T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-reshaping-fintech-with-ai-top-ai-innovations-in-the-financial-industry.md",
       "title": "Reshaping Fintech with AI: Top AI Innovations in the Financial Industry",
       "excerpt": "Banking and finance procedures have been made easier because of the use of AI and machine learning. Check out the top 10 AI innovations in the financial industry.",
@@ -1132,82 +1217,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-sensetime-gets-green-light-from-hong-kong-exchange-to-proceed-with-us2-billion-ipo-sources-say.md",
-      "title": "SenseTime gets green light from Hong Kong exchange to proceed with US$2 billion IPO, sources say",
-      "excerpt": "SenseTime has got the green light from the Hong Kong stock exchange to proceed with its flotation, according to people familiar with the transaction, taking the largest artificial intelligence (AI) company in China a step closer to its US$2 billion initial public offering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
-      "originalUrl": "https://www.msn.com/en-xl/money/other/sensetime-gets-green-light-from-hong-kong-exchange-to-proceed-with-us-2-billion-ipo-sources-say/ar-AAQU7Bm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/19/c27a751e-493e-11ec-88c2-0bacf4eabd5b_image_hires_215158.jpg?itok=D_CZNEt0&v=1637329925",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
-      "publishedDateTime": "2021-11-19T05:11:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
-        "domain": "scmp.com/business/article/3156756/sensetime-gets-green-light-hong-kong-exchange-proceed-us2-billion-ipo",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027-at-a-cagr-of-105-valuates-reports.md",
-      "title": "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports",
-      "excerpt": "Face & Voice Biometrics Market is segmented by By Type - Face Biometrics, Voice Biometrics, By Application - Banking, Financial Services & Insurance",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027/article_31c770f9-2932-52f2-8954-609504635c1a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027/article_31c770f9-2932-52f2-8954-609504635c1a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-19T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

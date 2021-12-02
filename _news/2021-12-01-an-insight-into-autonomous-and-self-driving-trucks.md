@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/an-insight-into-autonomous-and-self-driving-
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,63 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Here's what defines a self-driving car"
-    excerpt: "Get the breakdown on what is and what isn't a self-driving car. Spoiler: Teslas aren't autonomous. Despite what some companies may say, there are no self-driving cars on sale. None. Zip. Not a single system currently bundled with a new car meets the SAE Scale of Autonomy's standard for a true autonomous car."
-    publishedDateTime: 2021-11-27T12:30:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/"
+  - title: "Self-Driving and Service to Country"
+    excerpt: "Welcome back to the Stack, a monthly newsletter from Argo AI and Ground Truth featuring the best content in the field we’re all so passionate about: self-driving cars! Subscribe here to receive upcoming editions in your email inbox."
+    publishedDateTime: 2021-12-01T16:21:00Z
+    webUrl: "https://www.linkedin.com/pulse/self-driving-service-country-argo-ai"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://www.cnet.com/a/img/gXDWQg_Y5WW3tSuaBtDtIfx7WLE=/2021/07/22/0374dde4-e7b4-44df-b180-f9ac7be9e38b/2022-gmc-sierra-1500-towing-super-cruise-ogi.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-Driving Vehicles Appeal to Drivers, But They Don’t Know What it Entails"
-    excerpt: "Drivers don’t know much about self-driving vehicles, but that isn’t stopping the technology’s growing acceptance. TheDetroitBureu.com digs through the numbers."
-    publishedDateTime: 2021-11-30T20:28:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/11/self-driving-vehicles-appeal-to-drivers-but-they-dont-know-what-it-entails/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 36
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2012/06/Self-driving-Cadillac.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "J.D. Power Examines Understanding Of Self-Driving Vehicles"
-    excerpt: "The study index is based on six unique attributes of consumer comfort with fully automated, self-driving vehicles."
-    publishedDateTime: 2021-11-30T16:45:00Z
-    webUrl: "https://www.aftermarketnews.com/j-d-power-study-on-fully-automated-self-driving-vehicles-consumers-dont-know-what-they-dont-know/"
-    type: article
-    provider:
-      name: After Market News
-      domain: aftermarketnews.com
+      name: LinkedIn
+      domain: linkedin.com
     quality: 24
     images:
-      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/01/self-driving-1000x563.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Level-Setting: Why Drivers Still Don’t Understand Self-Driving"
-    excerpt: "The deficits are definitely concerning—it’s a mismatch for sure.” In a release, she called it “a ‘Danger, Will Robinson’ moment for the fully automated self-driving vehicle industry.” The results do not reflect a lack of curiosity."
-    publishedDateTime: 2021-11-30T19:07:00Z
-    webUrl: "https://www.timesunion.com/news/article/Level-Setting-Why-Drivers-Still-Don-t-16662829.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/03/01/21770345/3/rawImage.jpg"
-        width: 533
-        height: 300
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHZ1e2mogyVUQ/article-cover_image-shrink_720_1280/0/1638374100706?e=1643846400&v=beta&t=fTLVYQsU82How8sZc8sZnT207jWcYChJl2aSdZwJYng"
+        width: 1280
+        height: 641
         isCached: true
 
 secured: "JCzEd4aUFzHqbAOKCYcQL1/hrdY8sABU573kn7e8nHszlLB0blOtvSY9eOxixU3oqCrP5MSkK0I+DFueqKZ8FyyosWGtl6J+0FsXfcLiKndafDEy4AIlISypUE+eb5w6UM6XvprfFdWjPv+WGQqD0IVv0B+s3KNCB2RJQ4TbfSVS4otWPrThI24yDo8HFZivBipb+WXXZrwY9lDypzbEltpuVeXFATAnubSOnZ4pMZydD5EvqITzPtUrPaj0T26qQwPKbxtdpTDRDumPWGTeiDoqGSMl8tttXKRx30JI6a31TIpfdlEmWsifCbVuNwbcCYbmESSp9sK7J7joJEjHVjEEa3UIP47t7frjhS0tZh+RPysIRJ6eGble3rVpE1GHBMkR9slYnJ5/79vG0HEyJOY84DlV55ABL0+q65mky4Bd8LUJW5bDiwluAPa0gbocTZfsYs2fHyzsVSxLfou1JumK1mF/r0jPYYRcQRvcj6nE3zBKRObu9355BHV++bhvknYq9Jn4zL1P4bIy8MR7tw==;TssKnuZcIGa8yYAy5YYWaQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-12-deep-protein.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-deep-protein.amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     height: 1080
     isCached: true
 
-secured: "L80ypj9AXhfxEa0lYZLk2XquWPZzxoLXu4w40Zl8Nbj+CcJeu0o8gAU+RKnyciKmGW6f7cWVtDzCmBKQaqg1AT2+dFRJByZ7NJL1hdfIAAl/xi4gaCtl6TJrr6xPGDNvRPL09K5s17s+5EIKZmOCAVeESRU6PDQF29BB2zzoX9ABl5c/NcNFq8QKD5oxwdJcT5KO9yzV5hxJieYozRi6tWsNq1D8aK+v6cn0zCvWuoQXt5zcETY3j3Gom5jL4C/TLWUNmFWqhYSbMTVNzSrHwH0GiOIEIweYkzwDOtPBxmi4oh3QrMSLZFXUVsVeSiwh9h9wOsZyqMMSsKMZY8xxsTCtAYsoiVwTszCZCP0e89g=;HAdWik9beTJ7FVAi2Luhqg=="
+related:
+  - title: "Neural network 'hallucinates' proteins with new, stable structures"
+    excerpt: "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools. In a report in Nature, a team including researchers at the University of Washington,"
+    publishedDateTime: 2021-12-02T03:02:00Z
+    webUrl: "https://www.news-medical.net/news/20211201/Neural-network-hallucinates-proteins-with-new-stable-structures.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211201/Neural-network-hallucinates-proteins-with-new-stable-structures.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211201/Neural-network-hallucinates-proteins-with-new-stable-structures.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Protein-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+
+secured: "VWbnTn7VJFpjFa8v7IIhJKwsGZrb0Cga5cZcIih2V0p8IcahTNVfQzjSM3nzM8SbTArwuCzTX/8iG4JmnhEDe/E7a77k8u8woFQI+qpB3c+8oO1xAXc7Hv/4SXbRVnWFMFoqxVDrdTDMr18nZd/dUwmreGAlj+tp+zCwDSuWDeomOeI9KxlkeLA/2UXtsZOBh709YLy8m7vf9P1nrC9YHxcnC4t3l7ocCZs2OOBdh25CeMtldm0jWiX7eLJBieCgEtwBWa0Et/Kp00b4EJdvpnvGR/u1PE5LQQuB7OWPxuouDTXCbG8iy11jtkEsWmBUl00wtfdaWNw6C9OwOyicbIj2ryOEjHTIM2XKNDBDJzDSC1k3mX+CjRJJ29RxZA8vRdiWl/lF3qQfOAUkZyITfYuhXCqURbUgpSHhC1R2iCesyi2hVt3iDgY41+g0bGZFbxR8Aiv/MNKhyx9FfjtiJ/yRnZwDiysKZ+jkDDo82XvQ53it+NoyDYANEO08Rpq6qF7ZKvhSY45gK7mhN0HpyQ==;wnsYGgLHauKZETMaNqOc/g=="
 ---
 

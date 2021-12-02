@@ -128,22 +128,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Mathematical discoveries take intuition and creativity – and now a little help from AI"
-    excerpt: "To find the answers, mathematicians like me try to find patterns that relate complicated mathematical objects by making conjectures (ideas about how those patterns might work), which are promoted to theorems if we can prove they are true."
-    publishedDateTime: 2021-12-01T17:10:00Z
-    webUrl: "https://theconversation.com/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
-    ampWebUrl: "https://theconversation.com/amp/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 51
-    images:
-      - url: "https://images.theconversation.com/files/434870/original/file-20211130-17-1ydvy5w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=397&fit=crop"
-        width: 320
-        height: 397
-        isCached: true
   - title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
     excerpt: "A mathematician,” the Hungarian number theorist Alfred Renyi said, “is a machine for turning coffee into theorems”.The world’s mathematicians might soon be n"
     publishedDateTime: 2021-12-02T00:01:00Z
@@ -157,6 +141,20 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F31c8a572-52f8-11ec-a5fe-8f0d6a1c517d.jpg?crop=2000%2C1125%2C0%2C104&resize=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mathematical discoveries take intuition and creativity and now a little help from AI"
+    excerpt: "Research in mathematics is a deeply imaginative and intuitive process. This might come as a surprise for those who are still recovering from high"
+    publishedDateTime: 2021-12-02T03:43:00Z
+    webUrl: "https://menafn.com/1103287337/Mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-AI"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 32
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/01/TC_54cd8image_story.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "BRF6cydOd7cMwhJKWB6+dylzsqCo1DJS4JPFP4jxRS/4PNx5JRcZy27DbPvy4BNDqOEOJj6lQ+ARefz39K/4v/QuEvgI3tLW0t2p7IkeqwnPFpt41JWCIikqmuFczbFxQFlWivgdLft3QeMPjaZmr4kuQcs4afl0QH9Voe35elTy/EFfsVFW8NR4iPyFB+2raAMwntCRSQmwVw2LVNpFF5XhYo+XJSsTZD7hotClnMGPjxIlzMDLEg+M3P1XlQLYp0B6bhdhkfiF5BI5OFlTpDBpQFS41TBMSUPbdOXLrqqxjOXy9M5tcsMEnXNNNMotWaUGURlkBlnSNGN44pw4gwx//aR2f1FRfQVU7Jnsr8g=;37Gxh05XKnX1ux40GfrvjA=="

@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-11-19-we-tried-teslas-full-self-driving-heres-what-happened.md",
+      "title": "We tried Tesla’s ‘full self-driving.’ Here’s what happened",
+      "excerpt": "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/",
+      "originalUrl": "https://www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/",
+      "publishedDateTime": "2021-11-18T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-what-happens-when-ai-falls-into-the-wrong-hands.md",
+      "title": "What Happens When AI Falls Into The Wrong Hands?",
+      "excerpt": "However, as with any nascent technology, AI has the potential to cause harm when placed in the wrong hands. We’ve begun seeing AI used for nefarious purposes, chiefly in the form of AI-facilitated Cyberattacks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/",
+      "originalUrl": "https://www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61968b78eabb15899588bc19%2F0x0.jpg",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/amp/",
+      "publishedDateTime": "2021-11-18T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-pge-tests-ai-machine-learning-for-wildfire-detection.md",
       "title": "PG&E Tests AI, Machine Learning For Wildfire Detection",
       "excerpt": "By Kimberly Chin PG&E Corp. is testing artificial intelligence and machine learning in some of its high-definition cameras in Northern and Central",
@@ -1049,101 +1144,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-computer-vision-in-agriculture.md",
-      "title": "Computer Vision in Agriculture",
-      "excerpt": "Modern Computer Vision for Agriculture In today’s fast-paced world of city living and stressful work-life imbalances, especially on the (hopefully) tail-end of a year of pandemic quarantine measures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/computer-vision-agriculture-exxactcorp",
-      "originalUrl": "https://www.linkedin.com/pulse/computer-vision-agriculture-exxactcorp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGLbK4229LvLg/article-cover_image-shrink_720_1280/0/1637252530672?e=1643241600&v=beta&t=7Suuvkau68tBE8YHvNNqyoIY-j0y7-cODF49bx0teME",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-tools-tricks-and-learning-in-machine-learning-ft-aliaksei-mikhailiuk-ml-054.md",
-      "title": "Tools, Tricks, and Learning in Machine Learning ft. Aliaksei Mikhailiuk - ML 054",
-      "excerpt": "Aliaksei Mikhailiuk joins the Adventure to discuss the tools he wishes he'd mastered before getting his PhD in Machine Learning. However, the conversation meanders through his background, what qualifications people should have, algorithms, and approaches ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.audible.com/pd/Tools-Tricks-and-Learning-in-Machine-Learning-ft-Aliaksei-Mikhailiuk-ML-054-Podcast/B09M7C5SG5",
-      "originalUrl": "https://www.audible.com/pd/Tools-Tricks-and-Learning-in-Machine-Learning-ft-Aliaksei-Mikhailiuk-ML-054-Podcast/B09M7C5SG5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/51hS6VOUAML._SL500_.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Audible",
-        "domain": "audible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

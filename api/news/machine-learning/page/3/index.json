@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-12-european-banking-authority-releases-machine-learning-discussion-paper.md",
+      "title": "European Banking Authority Releases Machine Learning Discussion Paper",
+      "excerpt": "The European Banking Authority (EBA) has released its discussion paper on machine learning 'used in the context of internal ratings-based (IRB) models to calculate regulatory capital for credit risk.' As noted in the announcement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/50-Euros-Europe-Inspect-Review-Look.jpeg",
+          "width": 1400,
+          "height": 1867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/",
+      "publishedDateTime": "2021-11-12T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-googles-self-supervised-ai-model-can-help-improve-neural-networks-in-medical-research.md",
       "title": "Google’s self-supervised AI model can help improve neural networks in medical research",
       "excerpt": "The key postulate of self supervised machine learning models is that they are trained on unlabelled data, thereby enabling application of AI in niche areas where collection of clearly defined data sets may be difficult,",
@@ -1376,50 +1419,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-seeq-announces-expanded-microsoft-azure-machine-learning-support.md",
-      "title": "Seeq Announces Expanded Microsoft Azure Machine Learning Support",
-      "excerpt": "Seeq Corporation, a leader in manufacturing and Industrial Internet of Things advanced analytics software, announced today additional integration support for Microsoft Azure Machine Learning. This new Seeq Azure Add-on, announced at Microsoft Ignite 2021 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.automationworld.com/supplier-news/news/21809180/seeq-seeq-announces-expanded-microsoft-azure-machine-learning-support",
-      "originalUrl": "https://www.automationworld.com/supplier-news/news/21809180/seeq-seeq-announces-expanded-microsoft-azure-machine-learning-support",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2021/11/Seeq_Azure_Add_On_press_release_image.6184150d0c127.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T18:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation World",
-        "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

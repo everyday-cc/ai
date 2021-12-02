@@ -3,8 +3,8 @@ category: news
 title: "Showa Denko Develops Neural Network Models to Predict Mechanical Properties of Aluminum Alloys Accurately"
 excerpt: "Showa Denko K.K. (SDK; TSE: 4004) has developed neural network models*1 to predict mechanical properties of 2000-series aluminum alloys*2 from their design conditions with high accuracy in collaboration with National Institute for Material Science (NIMS) and The University of Tokyo (UTokyo)."
 publishedDateTime: 2021-12-02T02:30:00Z
-originalUrl: "https://www.jcnnewswire.com/pressrelease/71568/3/Showa-Denko-Develops-Neural-Network-Models-to-Predict-Mechanical-Properties-of-Aluminum-Alloys-Accur"
-webUrl: "https://www.jcnnewswire.com/pressrelease/71568/3/Showa-Denko-Develops-Neural-Network-Models-to-Predict-Mechanical-Properties-of-Aluminum-Alloys-Accur"
+originalUrl: "https://www.jcnnewswire.com/english/pressrelease/71568/2/Showa-Denko-Develops-Neural-Network-Models-to-Predict-Mechanical-Properties-of-Aluminum-Alloys-Accur"
+webUrl: "https://www.jcnnewswire.com/english/pressrelease/71568/2/Showa-Denko-Develops-Neural-Network-Models-to-Predict-Mechanical-Properties-of-Aluminum-Alloys-Accur"
 type: article
 quality: 22
 heat: 22
@@ -24,6 +24,6 @@ images:
     height: 265
     isCached: true
 
-secured: "gt2+fcMCejaBQEUoROpdgrQ7UU7jG+8XJPmBz1/Sq1v35EcUXr3ulPRGAsMDVQ9aXxCt0QA4Hh1KNa3H0BDM7g+zTMHp8lSbxmtOMsZ5Xv3E4ggNvA2FKjoT/3XOnAXqavp90PWaMbYmPCxtT4TN8b+JqgHhfapChGHl2kQMewlIcdHfA39FIMocIt7pZr0k38ulQCV9eYKmL+35obfU80m+YofurYAMBHfE4UYMHWv+z9j2JgH7pcqCwraVdVWrUnvZs0zU+qX2tDvWy9XXI7JB8EFU10ZZKG2GyVeHP5DsDFsSPMP0B5OHado9NOGzdK+WqVetZk4PeH2FubIafdP/7dfWo5Q2iOl9L7WH8kM=;k/j7zq7f0MgqWygyvq1mOg=="
+secured: "p4m1hyz64bwEwVSHSyjqh8kaiRo1jBgYHHcJgtzhiYQhu0RWZn4NML5tAO6MIHfh2NkKCchR05U11YUndlhejWFmChixS0jfo8IzEnowFNkEM0UqVxdghAu8Bfr3mnHeSTXqqefBbYTVUuKlA8uU6n/VoqKpxxIiq02dS5hOYkRhrWImz+wo0q87OEzN+mlRjDAwat1V/7r+yEOGaPDkISXzAzgApvs529cANLa1Egfu40r53hg0KrH+KPkgCDk9zZMBTJbqVrbJI9c9cKYGiv0/5yzZtU8f/SDfsSglKT2yEe6n2sN4VXxMyLZxGlewBICISPcL7X2wmmzGgyWq2FE6mkM0QeRG2MWBjDn+tkc=;WnAD9Eak55Yxj1919txVNA=="
 ---
 

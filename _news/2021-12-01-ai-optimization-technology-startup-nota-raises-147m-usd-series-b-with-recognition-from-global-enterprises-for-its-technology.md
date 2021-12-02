@@ -2,28 +2,25 @@
 category: news
 title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
 excerpt: "Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was finalized last month, a year after the series A funding of USD 6."
-publishedDateTime: 2021-12-01T04:32:00Z
-originalUrl: "https://www.lelezard.com/en/news-20133479.html"
-webUrl: "https://www.lelezard.com/en/news-20133479.html"
+publishedDateTime: 2021-12-01T03:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
 type: article
-quality: 11
-heat: 11
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "5tMgIEnVYYQxDtn4uZhPZMrVFfuF0rA2W0sK4RG8fmqRjbUkR3DfMoj3OvQKE0z6tNCgva+ouAMBp57YLT5hjPqjxj8VhBwyGwSvgZMlijdeuxNKjvhnWlZCdncAwvXTHlHwjH7ltyTclUn3PRUo7DPcLk1eWFnPQCu6ZyPwq4s3qSrqtkd0E8Hr9Wgb9e0pfGjQUJbicTSKykU3uVwpM+V4ebBVzguRVC/c1l5p2nKw8JHPYcuS9hCLD/2RBQpkqGwRY0Dmcya2Zx5pBOaRskJfpYbJJKxet1vBHlqsMVcf8JcQ0isIj+nm0QHjcTcz3U55isi4EqiSY6hPJCtrD1kqPRxBrfLMOINdO1TvaxI=;xWxeAdVLjh4xQZ3cfLM3Tg=="
+secured: "rAk82yidntTCClHRKeSW5WXCs3kLfcp632cDRapnik9rXgJU9WM1GaTN0eWKrr+qBvqSy+AeF47m2GFrL0gzMwDGafgLPD/+DnBd/1jCUme7ZvhawqXwYxjUstamSVGBUyonIiAfihlHz00+vm75sedqVObYfy8srqFWEOgwlcTpkdI6Erx6e9W+52NtVDgfaoYDfMYjjfZOtUi1erKmsboa75mmyGizHHyUgdNkkTJ5UwDURGo7EZMhzmMGsECG+mCQLrx+RHqDMI8dsncawJAqFYM0pn9azD6BsJqaoOwHzqcWkpyccV5VYDsxs8w3YyxgismcABkz43dg8swa8X4CpwU32YT3bZ3aHLAnfDNM/zHjIVyeQymsrRWvVj1pIjf55SS7O7lF4sQXRgM5WrkgEG2jAlW30PfgWkUTYt71YDDYbyN9VGqo6o3pzqwqrjkYFDztqCWmTaKT7LKcouuw2InolaKK3QY2DFY7ibCRQiv7V5A60lG9RPus/8+lL3YHm2qoeYGtaHpnP43AhA==;pWKqL2Wsf1Vv/cbcj5WXSA=="
 ---
 

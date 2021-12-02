@@ -1,23 +1,22 @@
 ---
 category: news
 title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
-excerpt: "New $10 million AWS Artificial Intelligence and Machine Learning Scholarship (AWS AI & ML Scholarship) program is designed to prepare underrepresented and underserved students globally for careers in machine learning Amazon SageMaker Studio Lab makes it easy for anyone to quickly set up a machine learning development environment for learning and experimentation at no cost Today,"
-publishedDateTime: 2021-12-01T19:02:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible"
-webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
+publishedDateTime: 2021-12-01T23:59:00Z
+originalUrl: "https://www.heraldstandard.com/business_ap/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/article_93b7535f-0bc8-5b22-bea6-cf77b12685ec.html"
+webUrl: "https://www.heraldstandard.com/business_ap/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/article_93b7535f-0bc8-5b22-bea6-cf77b12685ec.html"
 type: article
-quality: 35
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: The Herald-Standard
+  domain: heraldstandard.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
   - AWS AI
 
 related:
@@ -38,6 +37,6 @@ related:
         height: 634
         isCached: true
 
-secured: "33t3qUwExnCIAUMo9NICvY5dhhtPiWs82265XeiLMp2DAbHF8MVwKxmnorhorfbzI9z8mIJxvIt4Ns2j2P90999KW3bnlqCTbe3ALE6HM7sBB5TTkMbwl9PQRICt2ZNq+MzaNnFlplTiM0+Ec/hyKrKuSs0ok67oENYgXEfAG0rbANqArIkvORKHciOPcnHr5uppHN01Y+L7SjXJ1k1cohCPFJQX+En5s/0alAQMbkh+iky5XuMeAoJVc/XpuXput+aqRvbQhWiWA2VJXrDWZGFzBXxJqN8/ptN8URZVHScLmdJDmcJZKcSPiGXV7CplxTFUcOgmVfUJGgDbuXoXNv/qt9A454AZsoUkZu3aqGPBVVdTQ+oXgYHHlkukvz7ChdHqGnCuafPCc+HNgxWmQo0gWIi+FkiOnhzuhRPEexu5dRb1ab/wl0wtgydTnLEOCBXhRTewzqLVclNC5Gy7g0OU3qwD7EnVmjG6E02mV7Qyxyds4RmoPCCnBZFkD0COZV4DiopKRF3i2GfnEeCKQQ==;QGxoamCnXJjS4Z3D0TO0MA=="
+secured: "Eto/OcoRprP789rRo/6mqlkgkCjmoh3oWbbm0tSMJ0BSeXsnA+b45VpOcexIoICvxlFSzCnFtZiayUgN/XLNhlffwwfT/TEQ93a9Ah95/nftxrGX5mjvVRcmY9u2Nld6pZM9VdSC4hZnquqykD+K+Io4/ShfL6LMMTpgeUtpsTLyxzP6LIqDrr4E6MwLYXP/gmH/ipUqU5ztCIXklENb3JygvW//itfHGjFwvnRSruRpNm9Dq/hGa6ASLy5KOWExp//zDg4XHFDhshrGllB2IZZUpRVfqN9vdn3AQ4ab+XldENl+NO7+eKFf+OZOS07RuBgzRvJ9xDYNhnuFlWUJfljBnlpcr6MuPU1kjm2leJwvU1VhKt4V5Fzy334XGRbkvB+yfMSRPZyK5g9hVYA1YDT2Zo+DkZdu13z0XoOOdz0TFrIKJGA5NIMQn7w5zUm0BktF/k+1ZGJCInj9QEuL84savxf5RnEtor52Z+XiAtk+b2eBNVICkBJ2WEShPsq0KZhYlvrgB5Olbzh2sofCvw==;yuRaWea+c+Ms2S8rgdtwpA=="
 ---
 

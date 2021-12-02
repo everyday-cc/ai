@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Mathematical discoveries take intuition and creativity – and now a little help from AI"
-excerpt: "To find the answers, mathematicians like me try to find patterns that relate complicated mathematical objects by making conjectures (ideas about how those patterns might work), which are promoted to theorems if we can prove they are true."
-publishedDateTime: 2021-12-01T17:10:00Z
-originalUrl: "https://theconversation.com/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
-webUrl: "https://theconversation.com/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
-ampWebUrl: "https://theconversation.com/amp/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
+title: "Mathematical discoveries take intuition and creativity and now a little help from AI"
+excerpt: "Research in mathematics is a deeply imaginative and intuitive process. This might come as a surprise for those who are still recovering from high"
+publishedDateTime: 2021-12-02T03:43:00Z
+originalUrl: "https://menafn.com/1103287337/Mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-AI"
+webUrl: "https://menafn.com/1103287337/Mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-AI"
 type: article
-quality: 51
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/434870/original/file-20211130-17-1ydvy5w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=397&fit=crop"
-    width: 320
-    height: 397
+  - url: "https://menafn.com/updates/pr/2021-12/01/TC_54cd8image_story.jpg"
+    width: 1000
+    height: 600
     isCached: true
 
 related:
@@ -159,6 +157,6 @@ related:
         height: 675
         isCached: true
 
-secured: "XggVLpt2ZTjeVYwiZzAt/zzdcdo4MBt64+uTuf40EHVRTisx7ao5x8X2W7ahcmPC0Kps6SInp+KlScy0oUFnF3dRnIGJv36Sx9ByAGRCxgocBVc98x4D6G9Mj2K+/SNd+9b+Vs6RYrY4ZN+olm6i5EWlzrdl4DsNeEs7m4ZbJWziqsKmHkBPWw/wouxvZ9rLFV01I5aU6DbNBITNVquvEcKcEFretXmVWS2KMZjJD4ChAgbCVDUzfra2bp+VyM5LVWYdNUVy4qZCDzbwbdzxQcQL/oi7hM5nhg+P19101HL2Ap4Ypy/VSTeDAhUSebElQzk/G7xeNtNwvvINIGAIEexoMCPbrVYpscRSxsM48AtT3DdkUnhu/xWj0IPRWMWwbVhRe/ygGei5rPeU7p9JTCs0HGU4/PIsTCppEJK3AvDd3Z0+8GReT5/QOF2rfTDNE4J2Pl3/eQESzYCOqxwN7c20VZ5FNM2LRZyfV5oo+RO1USyL6HyfhFLz8pkD1TqvmReX4+fK7nHttHMHWR/fJQ==;SkGc1fq4CTqKCnu4k0kW3A=="
+secured: "3Ravo7ibIR18Si8n4WwMUCVQcVC/DsVln3goi6a8ocjya/lGEuya//NYfE2i6fYjSdyQ5oPHglapyoAaPl84Ql62VPGtXN7JnSBJ2F7WsK7Yity4n0BPtk+cIoVBms3LpWDX3B0UW41wWJi2WVh7YmqzzruaSUqB4F4ROTu60bZQLx/48sK/pVoMMS/ErKna7IDej7cLNBZr49pWMnnVrYwhvK7Xoj/KBuwOMPmt6EtdajLrjdQUtH5AQJJMgjRTB4WmXMKU0q6oYkT078pgpq7UYWWUB9KiMqe6lip8wTu313zdC3HWWnaylAmrZQjKm+ZZCcnYAevlfbjw+EJV0PRmUN9p/po+mJ+YqbRTink=;5XdWWV4FJ+Jsn2haiXjC7A=="
 ---
 

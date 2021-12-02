@@ -56,22 +56,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Artificial intelligence can help reduce backlog of pending cases: Law Minister Kiren Rijiju"
-    excerpt: "Since courts in India are already undergoing a transformational change by going digital, the emerging domain of AI could help in surprising ways to ensure sustainable justice delivery and reduce backlog of pending cases,"
-    publishedDateTime: 2021-11-27T12:56:00Z
-    webUrl: "https://www.financialexpress.com/india-news/artificial-intelligence-can-help-reduce-backlog-of-pending-cases-law-minister-kiren-rijiju/2377393/"
-    ampWebUrl: "https://www.financialexpress.com/india-news/artificial-intelligence-can-help-reduce-backlog-of-pending-cases-law-minister-kiren-rijiju/2377393/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/india-news/artificial-intelligence-can-help-reduce-backlog-of-pending-cases-law-minister-kiren-rijiju/2377393/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 47
-    images:
-      - url: "https://images.financialexpress.com/2021/11/1-658.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "u3nkLqsM6ebcSW/Lqs38nXz1qk9Xfeco3UASSV82KBCnx07gPAyXk0GQH8U54lnNUHGTcHh6c8ncTvByBob1/wgW0EtyYrHBFpmGobg5O6x43XlFwH/6pPery5ZRxrnGxTJBmQf9GI2K7xwau26RbnJUYdIMJPDYqEL4Njerkm/j2CcfKg6/gBnxfwbvsyhJf+h3dZ1tfbpyDRDphRgcCgT3LJIhNtn+K8pK238hKeOwSXmLxyreDxBpPooGzS2GzGHyS00I9htBcmAkqKEKQk77mj1McDniZzorCH9jxuXOKJXNuqKvfiarpL81+VUrNwPcuK9WhVTXunEmxX/iNwPXfNcbbq4wZqtjsju1zvA=;ztk66tbtQ7hAxEK+D7b6Mw=="
 ---

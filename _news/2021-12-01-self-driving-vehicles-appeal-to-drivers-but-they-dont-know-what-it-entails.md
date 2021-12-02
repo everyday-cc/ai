@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Here's what defines a self-driving car"
-    excerpt: "Get the breakdown on what is and what isn't a self-driving car. Spoiler: Teslas aren't autonomous. Despite what some companies may say, there are no self-driving cars on sale. None. Zip. Not a single system currently bundled with a new car meets the SAE Scale of Autonomy's standard for a true autonomous car."
-    publishedDateTime: 2021-11-27T12:30:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/"
+  - title: "The 6 terms you need to know to understand self-driving cars"
+    excerpt: "Level-up your knowledge of the spectrum of driver-assistance features on the road, from consumer vehicles to self-driving taxis."
+    publishedDateTime: 2021-11-29T20:00:00Z
+    webUrl: "https://www.popsci.com/technology/autonomous-vehicles-explained/"
+    ampWebUrl: "https://www.popsci.com/technology/autonomous-vehicles-explained/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/autonomous-vehicles-explained/?amp"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
+      name: Popular Science
+      domain: popsci.com
+    quality: 44
     images:
-      - url: "https://www.cnet.com/a/img/gXDWQg_Y5WW3tSuaBtDtIfx7WLE=/2021/07/22/0374dde4-e7b4-44df-b180-f9ac7be9e38b/2022-gmc-sierra-1500-towing-super-cruise-ogi.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "An Insight into Autonomous and Self Driving Trucks"
-    excerpt: "Imagine a world where trucks drive themselves, and autonomous vehicles rule the road. Industry experts project autonomous vehicles will become more common over the next ten years. Already there are companies that operate autonomous trucks in select areas such as mines,"
-    publishedDateTime: 2021-12-01T14:44:00Z
-    webUrl: "https://techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/"
-    ampWebUrl: "https://techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 59
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/12/Autonomous-and-Self-Driving-Trucks.jpg"
-        width: 700
-        height: 400
+      - url: "https://www.popsci.com/uploads/2021/11/29/bram-van-oost-_K8D5vzEqIo-unsplash.jpg?auto=webp"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "J.D. Power Examines Understanding Of Self-Driving Vehicles"
     excerpt: "The study index is based on six unique attributes of consumer comfort with fully automated, self-driving vehicles."

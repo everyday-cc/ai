@@ -129,20 +129,6 @@ related:
         width: 680
         height: 298
         isCached: true
-  - title: "What To Expect From AWS re:Invent 2021 Event?"
-    excerpt: "Based on the announcement, and trends in the cloud industry, among other factors, we predict what will happen at the AWS re:Invent event."
-    publishedDateTime: 2021-11-27T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/what-to-expect-from-aws-reinvent-2021-event/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/AWS_AIM.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "My guide to AWS re:Invent 2021"
     excerpt: "Invent conference has not only become the much anticipated event for customers and partners, but pretty much anyone interested in cloud computing. After the pandemic forced last year’s pilgrimage to Las Vegas to move to a virtual only format,"
     publishedDateTime: 2021-11-28T20:07:00Z

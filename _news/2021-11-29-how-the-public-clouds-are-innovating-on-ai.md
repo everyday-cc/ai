@@ -84,7 +84,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://cdnwp-s3.benzinga.com/wp-content/uploads/2021/12/01175321/zblw0fg8xu8.jpg"
         width: 900

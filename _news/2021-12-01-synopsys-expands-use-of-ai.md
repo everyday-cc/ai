@@ -24,6 +24,22 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "Samsung Taps Synopsys' AI-based Design System"
+    excerpt: "Synopsys announced that its AI-based design system has been used by Samsung to successfully complete a state-of-the-art, high-"
+    publishedDateTime: 2021-12-02T03:39:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/21612-samsung-taps-synopsys-ai-based-design-system"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 39
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/f7ea4f42918aa84a7d3eec0536d022fb.jpg?t=20211202_033729"
+        width: 752
+        height: 408
+        isCached: true
+
 secured: "8LxDcRH3jXhiQOgCLYRVeSbdrDZTs9YuXKvW8qlq8Fqkpjlhqfc39rh+O6mpWvZBgMhhBaOHDz1/TuF5O3Mg832o4WO22reZ9MfFDx9TItcK9YfCsWIhPwrs+dTqzY2zjKd1AUOBuF4TWEiZ5xakcZreO2URQmNJeaOq0MgPsakpYJbElezvm0JKqHlBJSbimTHAH3+fd7Thps9e+tnBmtNzblm+sxcY6RI6RmdNjycjRoeUDR/t+uejVsVOQ56BnkdIqs3QRTFvDreWiiad1capuKG+7C9eWeXaY+gP1hqrwsT0BVYxEiRKWxmL59jzVkOpGJ/CfZwb8TiTlh4yh3lT2C1eSR3G/Duyg9e930M=;Tvh7S+xyLpSSOEVRd3Mruw=="
 ---
 

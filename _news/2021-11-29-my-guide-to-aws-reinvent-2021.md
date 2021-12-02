@@ -133,20 +133,6 @@ related:
         width: 680
         height: 298
         isCached: true
-  - title: "What To Expect From AWS re:Invent 2021 Event?"
-    excerpt: "Based on the announcement, and trends in the cloud industry, among other factors, we predict what will happen at the AWS re:Invent event."
-    publishedDateTime: 2021-11-27T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/what-to-expect-from-aws-reinvent-2021-event/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/AWS_AIM.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "All Eyes on New AWS Boss Selipsky as re:Invent Kicks Off"
     excerpt: "When Jassy left his AWS post to take Jeff Bezos’ old chair at the head of Amazon.com in May, it opened up one of the most visible positions in all of big data and AI. The job went to Selipsky, who was one of Jassy’s lieutenants when AWS launched back in 2007."
     publishedDateTime: 2021-11-29T21:32:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-01T22:54:00Z
 originalUrl: "https://www.benzinga.com/money/how-to-invest-in-ai-startups/"
 webUrl: "https://www.benzinga.com/money/how-to-invest-in-ai-startups/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdnwp-s3.benzinga.com/wp-content/uploads/2021/12/01175321/zblw0fg8xu8.jpg"

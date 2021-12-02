@@ -91,20 +91,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 54
-  - title: "UNESCO member states adopt AI standards"
-    excerpt: "Audrey Azoulay, director-general of UNESCO presented this past week the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference."
-    publishedDateTime: 2021-11-27T12:14:00Z
-    webUrl: "https://www.ept.ca/2021/11/unesco-member-states-adopt-ai-standards/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 39
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2021/11/AI-2.jpeg"
-        width: 591
-        height: 591
-        isCached: true
 
 secured: "qnIF9odZHAOHwnsPNK8CRszpvPDpcRvnA4V7dNqCq3hbPIjNuMszTVCMTx/3tsSBJWKN+fxkEDL04pW1D/nASW2sjFu+ZgNvNKnqCUeNWUQ6AvIZJZWyuvWxQr2vJsEwlLEz8wSS1rqH66Al2M9R7N/DHNrXyJBtjyk9TQFFXsBeWW25PpxFlqFoadlKk5Gub8xkRZxWZDI4E0fPVKmluwskBKKNbO2+Jt2EbzTD3njkRJmy+mkrx8cwCX0VWHlXThYDabiVFjmMIubSlXGXBPntYl7cEhlcyRnw0MLqB2MK+dn5ppMceqs0B7WrGa05Byfd6HHJnEfbuMo6gtrPw+c6ZisrhFJZh6GUK2ogrS8=;6k/Jdlwgbt46UmzOE6Ll2Q=="
 ---

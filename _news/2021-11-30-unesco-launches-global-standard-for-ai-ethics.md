@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3642831/unesco-launches-global-sta
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.amp.html"
 type: article
 quality: 104
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 54
-  - title: "UNESCO member states adopt AI standards"
-    excerpt: "Audrey Azoulay, director-general of UNESCO presented this past week the first ever global standard on the ethics of artificial intelligence adopted by the member states of UNESCO at the General Conference."
-    publishedDateTime: 2021-11-27T12:14:00Z
-    webUrl: "https://www.ept.ca/2021/11/unesco-member-states-adopt-ai-standards/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 39
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2021/11/AI-2.jpeg"
-        width: 591
-        height: 591
-        isCached: true
   - title: "UNESCO Member States Adopt Global Agreement on the Ethics of Artificial Intelligence"
     excerpt: "The agreement aims to realize the advantages artificial intelligence brings to society, and to reduce the risks it entails."
     publishedDateTime: 2021-11-29T20:42:00Z
