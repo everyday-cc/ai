@@ -61,20 +61,6 @@ related:
         width: 1920
         height: 1269
         isCached: true
-  - title: "Don’t Let Tooling and Management Approaches Stifle Your AI Innovation"
-    excerpt: "Article in partnership with ModelOp It is no coincidence that companies are investing in AI at unprecedented levels at a time when they are under tremendous pressure to innovate. The artificial intelligence models developed by data scientists give enterprises new insights,"
-    publishedDateTime: 2021-11-27T15:39:00Z
-    webUrl: "https://www.linkedin.com/pulse/dont-let-tooling-management-approaches-stifle-your-ai-liguori-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEAPU9h9f1T_w/article-cover_image-shrink_720_1280/0/1638026978872?e=1643846400&v=beta&t=vhFa13m68lm6Hnbrl16F5f8dXCb_jsansdvnViVzCSs"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "How To Invest in AI Startups"
     excerpt: "Benzinga explains how to invest in AI startups, where to find opportunities and what to look for before choosing an AI startup to invest in."
     publishedDateTime: 2021-12-01T22:54:00Z

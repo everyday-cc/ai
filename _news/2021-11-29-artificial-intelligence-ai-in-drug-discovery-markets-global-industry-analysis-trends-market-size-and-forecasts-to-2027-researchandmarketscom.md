@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chipsets Market Size | Opportunity Analysis Report by 2026"
+    excerpt: "Artificial Intelligence Chipsets Market size is set to surpass USD 70 billion by 2026, according to a new research report by Global Market Insights, Inc. The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms."
+    publishedDateTime: 2021-12-02T03:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026-2021-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Device Market Size 2021 – Global Growth, Trends, Industry Analysis, Key Players and Forecast 2027"
     excerpt: "Global Face Recognition Device Market includes Extensive company profiling of leading players of the Face Recognition Device market. All of the segments studied in the report are analyzed based on different factors such as market share,"
     publishedDateTime: 2021-11-30T04:05:00Z

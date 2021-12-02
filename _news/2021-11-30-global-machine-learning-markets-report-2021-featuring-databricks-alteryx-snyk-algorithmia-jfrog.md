@@ -25,17 +25,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Global Data Monetization Platform Markets Report 2021: AI and Digital Advertising Emerging as Critical Elements for Telcos to Create Differentiation"
-    excerpt: "The \"Global Data Monetization Platform Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-11-30T16:15:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-data-monetization-platform-markets-report-2021-ai-and-digital-advertising-emerging-as-critical-elements/article_36cb0dd4-7977-5d77-bca6-06ad1ce25612.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-
 secured: "LNf0WJn3ZGlEYM6Mjl+e2eUWv9YFC5aobWvknOzj2SajXLstsp2Kx6t0h+bONa25DXiEJu4lVMh1wY3jOc3W67FRB4SomDmkwDd/9W/5dpMG0aEKy221bSVGmcy7QWRgC2fl8Qw4mh91Z9oKq7tmq47psQBTxKxcXZS2ZPjq1p2dv194JtUrtIMXYpAvWe/tLgYVZPKcu3dBvd/bN8Kdkzb4ICxRj+agMTU3vhkobhn2v2PFJml1j3X/+QBpRsrse78oOJ4aw92m45tw8OoVA/iEYewpocinBHn+CVIO6fGE+PwWo+gzn0gszMWLfUNL8wDQMHKXHkebtPYUfwbOwEpRnQVAn87MgVikRWI7Jiw=;H4Zxlew548ZYwAFPaVQyug=="
 ---
 

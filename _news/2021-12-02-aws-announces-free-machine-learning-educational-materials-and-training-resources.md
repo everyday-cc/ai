@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/12/01/aws-announces-free-machine-lea
 webUrl: "https://siliconangle.com/2021/12/01/aws-announces-free-machine-learning-educational-materials-training-resources/"
 type: article
 quality: 66
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS brings point-and-click to machine learning"
+    excerpt: "Amazon Web Services has announced six new capabilities for its machine learning (ML) service, Amazon SageMaker, that make it more accessible and cost effective."
+    publishedDateTime: 2021-12-02T08:21:00Z
+    webUrl: "https://gadget.co.za/aws-brings-point-and-click-to-machine-learning/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 56
+    images:
+      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2020/12/aws-logo-scaled.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "AWS Announces AWS Private 5G"
     excerpt: "Invent, Amazon Web Services (News - Alert), Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Private 5G, a new"
     publishedDateTime: 2021-11-30T20:22:00Z

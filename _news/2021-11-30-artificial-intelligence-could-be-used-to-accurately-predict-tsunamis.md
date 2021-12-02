@@ -42,6 +42,22 @@ related:
         width: 1890
         height: 1103
         isCached: true
+  - title: "Top five artificial intelligence predictions for 2022"
+    excerpt: "Ethical/responsible AI will move beyond ‘fluffy policy’, and become embedded in tangible tools and actual law and regulations."
+    publishedDateTime: 2021-12-02T07:42:00Z
+    webUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/"
+    ampWebUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/02/artificial-intelligence-4117035_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Magnetic resonance imaging and artificial intelligence can detect early signs of tumor cell death after novel therapy"
     excerpt: "In a recent study published in Nature Biomedical Engineering, a team led by researchers at Massachusetts General Hospital (MGH) has demonstrated that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumor cell death in response to a novel virus-based cancer therapy."
     publishedDateTime: 2021-12-01T20:29:00Z

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists create living robots that can reproduce on their own"
+    excerpt: "In 2020, scientists unveiled the creation of extremely small robots (less than a milimeter wide) made from stem cells of the African clawed frog. Called xenobots, these tiny autonomous creatures were designed using artificial intelligence to resemble Pacman-like shapes,"
+    publishedDateTime: 2021-12-01T04:41:00Z
+    webUrl: "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own"
+    ampWebUrl: "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1"
+    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 89
+    images:
+      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/xenobots-reproduce-header_dhke.620.png"
+        width: 620
+        height: 310
+        isCached: true
   - title: "Scientists use AI to design self-replicating xenobots from frog cells"
     excerpt: "Last year, a team of scientists announced the development of “living robots,” a new type of organism made using cells harvested from frog embryos. That same team is back with an update"
     publishedDateTime: 2021-11-30T22:44:00Z
@@ -73,21 +89,21 @@ related:
         width: 650
         height: 540
         isCached: true
-  - title: "Robots built from frog cells have unlocked the ability to self-replicate"
-    excerpt: "Robots such as these, capable of making offshoots of themselves, could be a future tool for science and medicine."
-    publishedDateTime: 2021-11-30T17:39:00Z
-    webUrl: "https://www.popsci.com/science/xenobots-synthetic-life-form-reproduce/"
-    ampWebUrl: "https://www.popsci.com/science/xenobots-synthetic-life-form-reproduce/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/xenobots-synthetic-life-form-reproduce/?amp"
+  - title: "Scientists make history by creating living robots that can reproduce"
+    excerpt: "Scientists have created robots that can reproduce entirely independently - and frankly, we have just one question: Oh God, why?"
+    publishedDateTime: 2021-11-30T15:19:00Z
+    webUrl: "https://www.joe.co.uk/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241"
+    ampWebUrl: "https://www.joe.co.uk/amp/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241"
+    cdnAmpWebUrl: "https://www-joe-co-uk.cdn.ampproject.org/c/s/www.joe.co.uk/amp/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 58
+      name: joe.co.uk
+      domain: joe.co.uk
+    quality: 59
     images:
-      - url: "https://www.popsci.com/uploads/2021/11/29/opener.jpg?auto=webp&width=720&crop=16:9,offset-x50"
-        width: 720
-        height: 405
+      - url: "https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmpvZS5jby51a1xcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMVxcXC8zMDE1MTkyMVxcXC9Sb2JvdHMucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP2lkPTBhODk3NjFkMGEzYzZmNTFmN2Q2XCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAzY2NkMzdmMmFiOGU4OTFmMDNkZGQ5OGVhMjQyNTg3NmMyNGE0ODUifQ==/robots.png"
+        width: 647
+        height: 340
         isCached: true
   - title: "VIDEO: Living Robots Made From Frog Cells Can Now Self-Replicate, Scientists Say"
     excerpt: "By Martin M Barillas A team of scientists reports they have discovered a new form of biological reproduction and have applied it to create the world’s"
@@ -120,6 +136,20 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/11/21/USATODAY/usatsports/247WallSt.com-247WS-996564-Xenobots.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Living robots have sex like Tetris"
+    excerpt: "Making their porn a little dullThe US scientists who created the first living robots say the life forms, known as xenobots, can now reproduce -- and in a way not seen in plants and animals. The xenobots are made from the stem cells of the African clawed frog (Xenopus laevis) from which it takes"
+    publishedDateTime: 2021-11-30T11:26:00Z
+    webUrl: "https://www.fudzilla.com/news/53963-living-robots-have-sex-like-tetris"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/61ac51b4aca69f064102c7de8fbd1eaf_L.jpg"
+        width: 620
+        height: 465
         isCached: true
   - title: "Scientists build self-replicating living robots"
     excerpt: "US researchers have discovered a new form of biological reproduction and have created what they say are the world’s first living robots that can self-replicate."
@@ -163,20 +193,38 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Living robots made in a lab have found a new way to self-replicate, researchers say"
-    excerpt: "Xenobots, a type of programmable organism made from frog cells, can replicate by spontaneously sweeping up loose stem cells, researchers say. This could have implications for regenerative medicine."
-    publishedDateTime: 2021-12-01T16:42:00Z
-    webUrl: "https://www.npr.org/2021/12/01/1060027395/robots-xenobots-living-self-replicating-copy"
+  - title: "This Seems Bad: World’s First ‘Living Robots’ Can Now ‘Reproduce’, According To Scientists"
+    excerpt: "Xenobots, the first \"living robots\", can now apparently reproduce, according to the scientists that are studying them."
+    publishedDateTime: 2021-12-01T17:54:00Z
+    webUrl: "https://brobible.com/culture/article/xenobots-reproducing/"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 33
+      name: BroBible
+      domain: brobible.com
+    quality: 29
     images:
-      - url: "https://media.npr.org/assets/img/2021/12/01/blackiston2_wide-57c488cfed3706d584776301869007e9b12c249c.jpg?s=1400"
-        width: 1323
-        height: 744
+      - url: "https://brobible.com/wp-content/uploads/2021/07/terminator-.jpeg"
+        width: 1300
+        height: 719
         isCached: true
+  - title: "Meet the robot that can write poetry and create artworks"
+    excerpt: "When people think of artificial intelligence, the images that often come to mind are of the sinister robots that populate the worlds of"
+    publishedDateTime: 2021-11-29T00:54:00Z
+    webUrl: "https://www.cnnphilippines.com/world/2021/11/28/Meet-the-robot-that-can-write-poetry-and-create-artworks-.html?_=1638146797578"
+    type: article
+    provider:
+      name: CNN Philippines
+      domain: cnnphilippines.com
+    quality: 19
+  - title: "Team builds first living robots that can reproduce (w/video)"
+    excerpt: "AI-designed Xenobots reveal entirely new form of biological self-replication - promising for regenerative medicine."
+    publishedDateTime: 2021-11-30T07:04:00Z
+    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59257.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 19
 
 secured: "5vzc829/gBiE0tHWjW84C60MeIIs0kHDnSDmrg6NsaTlnxbG3uGCBuZh5qP5Rvav/QefGfPM+p6FFnKiGpbteJhF7BjdSFmbgmyV1zxPUnsHChQf/fZZaYTk5uZo6oTy7rY2uFrd/h/N9f7anYkdLs4Eg4BNpwh6LVx8Cej1jusEijECg2Zg+DYWb9U0aWIQMW8keaYv3vpvd9clfi3tew8X5KTsQrIEIYdAou7JdThV8A9+a+r3tZpwqcy+zsIQfWISWDM8Jbf8KvVAPUOMjFSHKPvlF02Xb6B2LHteuKPIMxItIw/oGUakqoYAnCpPRayGn0a4vHnCm07Ivl9o1RwWNl0+Yx8pzinco4wXn1+2oXiFtkd71iz69rEZ3/3xGVGqA518qNZe2v2Xaux4jfqyQZyHnx3kbxpop7Z8w/2Z3yR88pS/tAl8ivSph5/C//KbAhcGMTvT1uAqDFpsz0fDey3zxVgSCGTJj6Lk8QaLPu/fXRDR2FmzIVFXYV8AwkZ++PpACkvHIdUxebyPTg==;fDUxRKxnyvF1xCupNQ0Ruw=="
 ---

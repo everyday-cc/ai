@@ -155,6 +155,22 @@ related:
         width: 736
         height: 630
         isCached: true
+  - title: "AWS introduces new features to make ML more accessible"
+    excerpt: "Amazon Web Services (AWS) has announced a slew of features and services to make technologies like machine learning more accessible and cost-effective,.."
+    publishedDateTime: 2021-12-02T07:16:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 76
+    images:
+      - url: "https://st.etb2bimg.com/Themes/Release/images/responsive/etcio-logo-400x400.jpg"
+        width: 850
+        height: 850
+        isCached: true
   - title: "AWS launches SageMaker Canvas to enable no-code AI development"
     excerpt: "Amazon Web Services Inc. expanded its artificial intelligence portfolio at AWS re:Invent today by launching SageMaker Canvas, a tool that enables business users to create machine learning models ..."
     publishedDateTime: 2021-11-30T21:31:00Z

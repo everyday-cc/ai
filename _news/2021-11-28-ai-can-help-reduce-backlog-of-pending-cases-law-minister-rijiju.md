@@ -9,7 +9,7 @@ ampWebUrl: "https://www.outlookindia.com/website/amp/ai-can-help-reduce-backlog-
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/ai-can-help-reduce-backlog-of-pending-cases-law-minister-rijiju/402853"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 550
     height: 367
     isCached: true
-
-related:
-  - title: "Artificial Intelligence may ensure justice delivery, reduce backlog of pending cases: Law Minister Rijiju"
-    excerpt: "During his speech, Rijiju also urged to think about how a law becomes difficult to implement despite getting passed by the Supreme Court, High Court, Assembly or Parliament."
-    publishedDateTime: 2021-11-27T15:45:00Z
-    webUrl: "https://www.indiatvnews.com/news/india/law-minister-kiren-rijiju-speech-artificial-intelligence-justice-system-india-747009"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 20
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2021/11/pti11-26-2021-000252b-1638027709.jpg"
-        width: 715
-        height: 402
-        isCached: true
 
 secured: "mI2vXOlxXvCciUaIjfEMdtb313CnI19y9ZPnUC5Y2kIqEJ9Csv5OETcUkOuhrwqqoF+i6K9JcSy82JBGXRMKPo40zj3AR1Xg+fGt0keNmvCpQpe4W89r0HRepzQhmAt6+nTR4n4zSB6nHgXqszVlPwQzSwTI0RjdQJ8hSyR+9nU307VK14Wq22+WA251dt7pwFhSwaWrA2+cv78XJUE+eKCDNdkqKmcJ85m9jyhKbf5rT/V/8NBEbls2mm+3t2oMipiRAR7s4DEl5Y6GfZA2gIzX+bJ3e2xI5vaeCaIp/HC307Q70nvNl0SwUTL6ukcCXwZTg4A9y0eLqBgDvap9/zTZNG8Qgt2pygjjgBwqmWU=;NpK5o4QvZwLHPnPjKukzHg=="
 ---

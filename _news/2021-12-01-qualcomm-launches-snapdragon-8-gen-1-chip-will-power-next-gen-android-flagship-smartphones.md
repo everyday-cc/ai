@@ -355,6 +355,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
+  - title: "Qualcomm upgrades 5G laptop chips, offers new mobile gaming platform"
+    excerpt: "Qualcomm is continuing its efforts to expand beyond the smartphone market with new chips to drive mobile gaming devices and computers. At the Snapdragon Tech Summit, the company presented the Snapdragon G3x Gen 1 Gaming Platform and the Snapdragon 8cx and 7c+ Gen 3 Compute Platform"
+    publishedDateTime: 2021-12-02T08:15:00Z
+    webUrl: "https://www.telecompaper.com/news/qualcomm-upgrades-5g-laptop-chips-offers-new-mobile-gaming-platform--1406279"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
   - title: "JiDU, Baidu and Qualcomm to build China’s first production vehicle powered by Gen4 Snapdragon Automotive Cockpit Platform"
     excerpt: "Baidu, Inc., JiDU Automotive and Qualcomm Technologies, Inc. announced that JiDU’s first production vehicle will feature an intelligent digital cockpit system assisted by Baidu and Qualcomm Technologies."
     publishedDateTime: 2021-11-30T08:06:00Z

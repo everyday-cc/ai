@@ -61,13 +61,13 @@ related:
       domain: financialbuzz.com
     quality: 34
   - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-    excerpt: "Meta and AWS will jointly help enterprises use PyTorch on AWS to bring deep learning models from research into production faster and easier Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc."
-    publishedDateTime: 2021-12-01T16:16:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/meta-selects-aws-as-key-long-term-strategic-cloud-provider"
+    excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS’s proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-02T08:38:00Z
+    webUrl: "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 19
 
 secured: "IA3J2sOlkRF2y3gibvLr6uZfEN4U9y54k+TAIRY84UzczfqzSSlJIu5bFD93V7smBrE0bX/KwYaN/Axqt8Kvr8qyqr0QoQrCBoilh/V9SIUkFRYxbyX1vRdlgVvziq4Ui/G5k39FwdYAKOGTo4S9WqfkbLtqZH4/nbqnc0uTAXYoOnAgQxgO1IlzaUFSoGYIUZtVTYoazxzQq2esICHjy0iP5m5+DQXiolOrGwe9xtq6KDWV85x6pzoBDwhKYz4thK1/E/wEMyEql0ITBwYJl29A0eX76xT1qzerWwVEGIYe95AxWzpu5oB3j9uRuHECb+YTaZty4t+1TpgHJ8P1OF9refHBd1dh5N1VY/xjkgs=;X/tCbZllAf87S2VnwYeu6g=="

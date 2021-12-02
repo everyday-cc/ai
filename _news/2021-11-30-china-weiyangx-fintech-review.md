@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Fintech enters into licensing agreement with digital mortgage platform"
+    excerpt: "Marble Financial has announced that it has secured a licensing agreement that will pave the way for the integration of its Marble Connect service with digital mortgage platform WiiBid Solutions. Under this agreement,"
+    publishedDateTime: 2021-12-02T08:12:00Z
+    webUrl: "https://www.mpamag.com/ca/news/general/fintech-enters-into-licensing-agreement-with-digital-mortgage-platform/318561"
+    type: article
+    provider:
+      name: Mortgage
+      domain: mpamag.com
+    quality: 24
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637740295353940776.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "EarlyBirds Draws Attention To How Fintech And Insurtech Are Disrupting These Industries"
     excerpt: "Open innovation ecosystem EarlyBirds is helping businesses in the Fintech and Insurtech industries benefit from the innovations in their respective"
     publishedDateTime: 2021-11-29T05:10:00Z

@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-excerpt: "Meta and AWS will jointly help enterprises use PyTorch on AWS to bring deep learning models from research into production faster and easier Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc."
-publishedDateTime: 2021-12-01T16:16:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/12/01/meta-selects-aws-as-key-long-term-strategic-cloud-provider"
-webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/meta-selects-aws-as-key-long-term-strategic-cloud-provider"
+excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS’s proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
+publishedDateTime: 2021-12-02T08:38:00Z
+originalUrl: "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/"
+webUrl: "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AWS AI
@@ -70,6 +70,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "kqtUKRLd5riLX+GuR7LO/Rz1IkIRgtV4evXFOMxQbHjAwaXr/HFDOJTxug0+cyc4VAXJx7jnxOpMp15du7fiRpFzrwlzrtL7X+QARu5t68lYf/sRMxGm38+n3Nmjn1rJ5mA0CLOgOceP9nZUhRNzwPZe6mbQ15yxyuDPw+WHoM7btkJySbkzQGMCX6yXbe/bO9Q+HJAGMlbnQQyykFhojwp3WPjupArkEuxSroIFAVh433nQaROPOkHDqw7zo+GU7P6zq2lpZ+aLafh/gIyeAHSDaWMpznHns78+2h5aySdanT1gVw6lA5ZI55KFHPXU6dLoUU+H2Dl4WPkTzW/laPh+PvKJfQUsFBa37+1TDqE=;xcXlG2B/YCajGtKlFISdtw=="
+secured: "5UYc2UNjpwzjEKK0IByxfyPHy8t43VwVeEOa7f6VI1zmRqfo3hfFZ9F3E4BUn44q4uoUZGrtNkDI1DROzhDkEYyJvAaI8Sa8NjNGnoFbtZvpgY9m2RbzWUOADPqJV7cJkFf7xf95UACP5XS9mtXJbEoFR9LkhWSlaTpYe2DyaUX/oHIbqUBzEmo69u+0jVdrR7HQVaMFMiweXVdDlOp8pmnJ6hgZoaKQH+8nRFltUji62lScpjtyU9xXXW0UtL1BrEvll0wFecTRIjUGb1vmnWv2R9WQ79L+rChiRqHQrin9jxB2nOM//9XWya8hW+jo10/mqoYJA9IEngp3gkdT8iefQMUkIqrlUlDBcKR5Gzw=;vk5jLXmS0Lq1QOYD3cY8nQ=="
 ---
 

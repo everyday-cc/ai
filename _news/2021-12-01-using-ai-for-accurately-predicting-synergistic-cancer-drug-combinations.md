@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-ai-accurately-synergistic-can
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.amp"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Top five artificial intelligence predictions for 2022"
+    excerpt: "Ethical/responsible AI will move beyond ‘fluffy policy’, and become embedded in tangible tools and actual law and regulations."
+    publishedDateTime: 2021-12-02T07:42:00Z
+    webUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/"
+    ampWebUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/02/artificial-intelligence-4117035_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
   - title: "Artificial intelligence could be used to accurately predict tsunamis"
     excerpt: "A reliable early warning system to detect tsunamis could be a step closer thanks to research from Cardiff University."
     publishedDateTime: 2021-11-30T12:40:00Z

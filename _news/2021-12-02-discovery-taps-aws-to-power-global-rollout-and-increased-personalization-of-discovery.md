@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud."
-publishedDateTime: 2021-12-02T00:10:00Z
-originalUrl: "https://www.productionhub.com/press/76179/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of-discovery"
-webUrl: "https://www.productionhub.com/press/76179/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of-discovery"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship"
+publishedDateTime: 2021-12-01T18:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
+webUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: ProductionHUB
-  domain: productionhub.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://s3.amazonaws.com/images.productionhub.com/banners/127_5829_6556_KF44.png"
-    width: 300
-    height: 250
-    isCached: true
 
 related:
   - title: "Discovery Extends Relationship with AWS To Assist in Global Rollout of Discovery+"
@@ -79,6 +73,6 @@ related:
       domain: mobilitytechzone.com
     quality: 11
 
-secured: "+8J+QjPFZRYNiEa74nLbCrpKxHgODBP7vdTBbWuc5fuKeLS7lDsnkMZuxoxnQ1ka2L3qmv8Q6nZkUBYsAE3WOEKnTSAYMKkUogtJHY64U+3LcVn0uYxyHvGYRvOoOo0E87fywGozcd2Lxiy2MmVBqZIIO+OInNXPGUGpBeiGR8ph7Y4m4qDFptus/TphCnLyp/v3UGKG/LRhm2EaEnnS/FYhIYdk/ddTY9pZsVRhrpOote4maw4ZKG/RYk+ZdifPZrr4lYnwhA4g8ToDkRddkXwMOz8ics9TItiTBYALDxDGZoSRfhDWDuuleEUSNLx7i+fGyYJu08tArUtbOMDYAjy5aPFPra3wtT4RyuDC+/U=;f0aVLLuqC34CultjxG3WCg=="
+secured: "IQWvI/VJsE4A6PheWVdPyalpgnsc/jPe5iSflxgWQ3iVr+rVBax/a06cvu3NVftAROMGsJ+VgNXxAtR5Q3DAMUSAGwOQFAgAnj2Wlgam+e3ExlggCx5U6q7mYRMbunrkuUETgndKPdGwlV3aFDstB2DuSk2JHb/n8ba1uZY189A/ZPx+qHdMtQ8E5aOVd96yEwjmtHTNg7z62RFMlOQJ5eh8Uwyi7cNhFKDbc0jwRugWH4huxFco5wtLKNdivd4Mwc7WiynZZDA749PDmtdXEfotZDPs44u0hHsvZqfsIRvIvTz2iUd9MbJhkrWTUXe7eWYkbQ2qvx+2xALdghlDLLAfuTbHPSfe9s/IGqXdVRo=;B6GRhb26q5lwuFcCSxxnCQ=="
 ---
 

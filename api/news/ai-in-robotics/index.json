@@ -228,21 +228,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-30-scientists-make-history-by-creating-living-robots-that-can-reproduce.md",
-      "title": "Scientists make history by creating living robots that can reproduce",
-      "excerpt": "Scientists have created robots that can reproduce entirely independently - and frankly, we have just one question: Oh God, why?",
+      "path": "_news/2021-12-01-scientists-create-living-robots-that-can-reproduce-on-their-own.md",
+      "title": "Scientists create living robots that can reproduce on their own",
+      "excerpt": "In 2020, scientists unveiled the creation of extremely small robots (less than a milimeter wide) made from stem cells of the African clawed frog. Called xenobots, these tiny autonomous creatures were designed using artificial intelligence to resemble Pacman-like shapes,",
       "sourceUrl": null,
-      "webUrl": "https://www.joe.co.uk/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241",
-      "originalUrl": "https://www.joe.co.uk/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241",
+      "webUrl": "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own",
+      "originalUrl": "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 229,
       "tags": null,
       "images": [
         {
-          "url": "https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmpvZS5jby51a1xcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMVxcXC8zMDE1MTkyMVxcXC9Sb2JvdHMucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP2lkPTBhODk3NjFkMGEzYzZmNTFmN2Q2XCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAzY2NkMzdmMmFiOGU4OTFmMDNkZGQ5OGVhMjQyNTg3NmMyNGE0ODUifQ==/robots.png",
-          "width": 647,
-          "height": 340,
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/xenobots-reproduce-header_dhke.620.png",
+          "width": 620,
+          "height": 310,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -250,13 +250,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.joe.co.uk/amp/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241",
-      "cdnAmpWebUrl": "https://www-joe-co-uk.cdn.ampproject.org/c/s/www.joe.co.uk/amp/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241",
-      "publishedDateTime": "2021-11-30T07:19:00-08:00",
+      "ampWebUrl": "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1",
+      "publishedDateTime": "2021-11-30T20:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "joe.co.uk",
-        "domain": "joe.co.uk",
+        "name": "Mashable",
+        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -279,7 +279,7 @@
       "originalUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {

@@ -56,20 +56,6 @@ related:
         height: 450
         isCached: true
   - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud."
-    publishedDateTime: 2021-12-02T00:10:00Z
-    webUrl: "https://www.productionhub.com/press/76179/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of-discovery"
-    type: article
-    provider:
-      name: ProductionHUB
-      domain: productionhub.com
-    quality: 31
-    images:
-      - url: "https://s3.amazonaws.com/images.productionhub.com/banners/127_5829_6556_KF44.png"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
     excerpt: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+. Today, Amazon Web Services (News - Alert), Inc. (AWS), an Amazon.com, Inc. company (NASDAQ:"
     publishedDateTime: 2021-12-01T15:41:00Z
     webUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/01/9502667.htm"
@@ -77,6 +63,15 @@ related:
     provider:
       name: Mobility Techzone
       domain: mobilitytechzone.com
+    quality: 11
+  - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship"
+    publishedDateTime: 2021-12-01T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 11
 
 secured: "AeIDNjOUrMRj1EYOK/N2fpTeIllQrKLQ3KZ43dNGbeNJ46Y1szrTj3mgjyC7wG+RauQLoZjxf+/+xOVuCUnoN2dGxht69Mjicz/fA23S3UVbd5Ixr6r68TTAO3tm33+RIBG363btflZ9GWBAd1XiezGVUY+ahj/n+SfEXMdGfJH0Tk1Wb5tn/9ucJBsl2fQSMAE6UjPCHLCh4QUszNMrYxDIcPEZ7siZpQgXYju4Cefafpe2J1TqjezSqzLTCmjVjQ1F+48U7dV+j1yz1c1Di2Jl62iOL3nMrpTDI2KoTVTWhXpB3LNjI1hc76fqJde33Lojk6Sle1pnj3EB9ehhnMyW6lTrGDqSo896q29vpB0=;OaDOt6t/rk74Z8ql/yh2Fg=="

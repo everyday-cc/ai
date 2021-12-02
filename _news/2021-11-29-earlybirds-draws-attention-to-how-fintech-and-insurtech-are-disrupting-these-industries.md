@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Fintech enters into licensing agreement with digital mortgage platform"
+    excerpt: "Marble Financial has announced that it has secured a licensing agreement that will pave the way for the integration of its Marble Connect service with digital mortgage platform WiiBid Solutions. Under this agreement,"
+    publishedDateTime: 2021-12-02T08:12:00Z
+    webUrl: "https://www.mpamag.com/ca/news/general/fintech-enters-into-licensing-agreement-with-digital-mortgage-platform/318561"
+    type: article
+    provider:
+      name: Mortgage
+      domain: mpamag.com
+    quality: 24
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637740295353940776.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Tenet Fintech Addresses Recent Trading Volatility"
     excerpt: "November 30, 2021) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business Hub™, today confirmed that the Company is not aware of any undisclosed material event or events affecting its business operations that might be responsible for the recent trading volatility in its common shares."
     publishedDateTime: 2021-11-30T18:36:00Z

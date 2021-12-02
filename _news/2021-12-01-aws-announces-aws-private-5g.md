@@ -39,6 +39,20 @@ related:
         width: 2880
         height: 1024
         isCached: true
+  - title: "AWS brings point-and-click to machine learning"
+    excerpt: "Amazon Web Services has announced six new capabilities for its machine learning (ML) service, Amazon SageMaker, that make it more accessible and cost effective."
+    publishedDateTime: 2021-12-02T08:21:00Z
+    webUrl: "https://gadget.co.za/aws-brings-point-and-click-to-machine-learning/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 56
+    images:
+      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2020/12/aws-logo-scaled.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "XEswJTLGZ3Cg1xjTXPcs/8jwMN9UbtQ+EyLd0DS7h2E05wb+TPw9yxIN3DnL0XPY27ZRGAND/j2dIT10aOLCxG2oLzauB/1zOIE4PMDS9Mpqbd2rrijJi/TJjIWBJZ8ACmL6Cb7rXwTYt2eGo4XKslizbvfm997Yp5EcTE/MKEdIQW0eckMeFur6i1q3LDGW6SXUN2m8aNe1GiBLfm1xqspd9q5mbafiMDtXGKJphh1Q08ApB5JE5wDPN2CRPAuB2crJmn9W7a1aZ0FguXO7zppOLQPvveNQ7cHvewSondxLhO/lrbnFmAluIYabPrnHywLhIwXzoIcc/gjjwx08AXg9Xz0MToQj+fn7X12kcrI=;c34Rc3eojM2D5Hhg7Y284w=="
 ---

@@ -70,6 +70,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
+  - title: "Meta picks AWS as long-term strategic cloud provider"
+    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-02T07:52:00Z
+    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "mBeeqaH+WEyuvOW876N+ZegY4XEVNm0ByaLVkZRee6x9d0+ndhALrh4rulanadzWgP5Kbd0A0g8CCjXnPwLh396XVWFdJwuT26clRLHi6rUEqcVqsSFxGiGAFn5p1GeM20TjLU1a12h+CSevezW8Vv3uwusS6hh4K55Co+WQNzUuE7qA/HwhdvlcIy1otl79hmkXS6W3bxEHN+94Wrdb0Bt4mhhP0u3enpQ6bVrU0AXfuVOOqbfYo7cuMGeBhDf7JGEj1du7u+XCLETZ0HsdFbVSUhfB0lZZR+N8OX+n9xpt439vpK7eQHUYx3qdsqDfUxaP2QaX4ePdstFenFOpfYL66agO6kMdbZenjY3JvM8cNUg/kQsiX/2n1K462yfaF8gLb0FHSac9TmHsiBQPMWAbm2LJoWbP6iazlv02PUqgE7l9HEhFUuImvcBKm8ric6gu2zkZnhy8WJbPNHAYnBHWb8fYFC3JQSZwETpHcuwOcv7ZI4IU2KmzuBFizW0Z56jUaGHFlKyklVktJupH2A==;O6vlSuRCgNTw2Mm1TwcV4Q=="
 ---

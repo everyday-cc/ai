@@ -142,19 +142,21 @@ related:
       name: natureasia.com
       domain: natureasia.com
     quality: 51
-  - title: "Mathematical discoveries take intuition and creativity and now a little help from AI"
-    excerpt: "Research in mathematics is a deeply imaginative and intuitive process. This might come as a surprise for those who are still recovering from high"
-    publishedDateTime: 2021-12-02T03:43:00Z
-    webUrl: "https://menafn.com/1103287337/Mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-AI"
+  - title: "Mathematical discoveries take intuition and creativity – and now a little help from AI"
+    excerpt: "To find the answers, mathematicians like me try to find patterns that relate complicated mathematical objects by making conjectures (ideas about how those patterns might work), which are promoted to theorems if we can prove they are true."
+    publishedDateTime: 2021-12-01T17:10:00Z
+    webUrl: "https://theconversation.com/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
+    ampWebUrl: "https://theconversation.com/amp/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 32
+      name: The Conversation
+      domain: theconversation.com
+    quality: 51
     images:
-      - url: "https://menafn.com/updates/pr/2021-12/01/TC_54cd8image_story.jpg"
-        width: 1000
-        height: 600
+      - url: "https://images.theconversation.com/files/434870/original/file-20211130-17-1ydvy5w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=397&fit=crop"
+        width: 320
+        height: 397
         isCached: true
 
 secured: "osBSintqZAfqrmnvYJysIaj5cPSGDX9wzZlXsegVSXkh5iGuzzwyIjid8FHUXiowilq0/HNSCST3nB9wu9G0S5sEGNQ6ZFJTu4nA14dz8OtBE9j3vdqgINVRmuLKlcCBXLwDzkLhLABzAbLRkpEdbYkeBhSveiEqWgHO5hqq+GDI7XlC4k5PEL1d47SxGxx4+hgO+e8EklzoaxHL73ea3AaGyaYnnVaYF4rwiWxuWJkhxU/H0oZzKLDqns7i73cS7ioyihZbz3DrLfbrACLIOjM6PkT7nOqGeqo/X/hff+4PsfwYZS2wVE8781aTG9TLpk8Lp228MQof3LNcmtbqr82KIsWA0bFaDLYGtgvh5Eew8eDQhLh/lIiIJAR/xlxvuVNjeG6WFSJJv4s9R3AbOs7G9EXEHsfiVC/FWhuszJpCHbb+Nv14vr+4xwIzqAkymtiFeZBHR6mrE77i7u7gFeJRVZxUdq+rOOkzVitzvs1/StWZc46Jg7N+fOYudLu7XpoGpstWeyFD0eW9iaWC0Q==;JH4JrZNKXJNMYcf8sxBlZQ=="

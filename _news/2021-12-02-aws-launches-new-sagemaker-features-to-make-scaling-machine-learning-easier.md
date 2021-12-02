@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/01/aws-launches-new-sagemaker-feature
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/aws-launches-new-sagemaker-features-to-make-scaling-machine-learning-easier/amp/"
 type: article
 quality: 119
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -143,6 +143,22 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/30/ML-6841-PART2-image001-736x630.png"
         width: 736
         height: 630
+        isCached: true
+  - title: "AWS introduces new features to make ML more accessible"
+    excerpt: "Amazon Web Services (AWS) has announced a slew of features and services to make technologies like machine learning more accessible and cost-effective,.."
+    publishedDateTime: 2021-12-02T07:16:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 76
+    images:
+      - url: "https://st.etb2bimg.com/Themes/Release/images/responsive/etcio-logo-400x400.jpg"
+        width: 850
+        height: 850
         isCached: true
   - title: "AWS introduces flurry of new AI tools for Amazon SageMaker"
     excerpt: "Organizations using Amazon Web Services Inc.’s Amazon SageMaker platform to build artificial intelligence models now have access to a wealth of new features that will make machine learning projects simpler in several ways."

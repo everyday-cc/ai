@@ -94,6 +94,17 @@ related:
         width: 1496
         height: 785
         isCached: true
+  - title: "Mindtree has earned Microsoft Azure specialization"
+    excerpt: "Partners with the Microsoft Azure advanced specialization can provide the tools and knowledge to develop AI solutions on their terms"
+    publishedDateTime: 2021-12-02T08:43:00Z
+    webUrl: "https://www.ciol.com/mindtree-earned-microsoft-azure/"
+    ampWebUrl: "https://www.ciol.com/mindtree-earned-microsoft-azure/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/mindtree-earned-microsoft-azure/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 54
   - title: "Mindtree has earned the Al and Machine Learning on Microsoft Azure advanced specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner's deep knowledge,"
     publishedDateTime: 2021-12-02T00:19:00Z

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-01-linkedin-and-intel-tech-leaders-on-the-state-of-ai.md",
+      "title": "LinkedIn and Intel tech leaders on the state of AI",
+      "excerpt": "Industry leaders discuss the \"duct tape of data,\" if language models are a good way to approximate AI, and how to gain hybrid intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/",
+      "originalUrl": "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/linkedin-and-intel-tech-leaders-on-the-state-of-ai/amp/",
+      "publishedDateTime": "2021-11-30T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-hkust-and-other-universities-in-the-city-team-with-us-researchers-to-work-on-ai-chips.md",
       "title": "HKUST and other universities in the city team with US researchers to work on AI chips",
       "excerpt": "AI chips are processors optimised for data-intensive AI applications such as Internet of Things (IoT) devices, allowing them to run faster.",
@@ -689,49 +741,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-30-scientists-make-history-by-creating-living-robots-that-can-reproduce.md",
-      "title": "Scientists make history by creating living robots that can reproduce",
-      "excerpt": "Scientists have created robots that can reproduce entirely independently - and frankly, we have just one question: Oh God, why?",
-      "sourceUrl": null,
-      "webUrl": "https://www.joe.co.uk/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241",
-      "originalUrl": "https://www.joe.co.uk/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmpvZS5jby51a1xcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMVxcXC8zMDE1MTkyMVxcXC9Sb2JvdHMucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP2lkPTBhODk3NjFkMGEzYzZmNTFmN2Q2XCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAzY2NkMzdmMmFiOGU4OTFmMDNkZGQ5OGVhMjQyNTg3NmMyNGE0ODUifQ==/robots.png",
-          "width": 647,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.joe.co.uk/amp/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241",
-      "cdnAmpWebUrl": "https://www-joe-co-uk.cdn.ampproject.org/c/s/www.joe.co.uk/amp/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241",
-      "publishedDateTime": "2021-11-30T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "joe.co.uk",
-        "domain": "joe.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-30-ai-software-market-forecast-to-hit-625-billion-in-2022.md",
       "title": "AI Software Market Forecast to Hit $62.5 Billion in 2022",
       "excerpt": "The AI software market is expected grow 21.3% next year, according to Gartner, as enterprises boost their AI spending.",
@@ -843,7 +852,7 @@
       "originalUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {

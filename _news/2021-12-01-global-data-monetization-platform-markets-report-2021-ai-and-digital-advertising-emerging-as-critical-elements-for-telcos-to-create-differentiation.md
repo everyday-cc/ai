@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Global Machine Learning Markets Report 2021 Featuring Databricks, Alteryx, Snyk, Algorithmia, JFrog"
-    excerpt: "The New Driving Force for DevOps\" report has been added to ResearchAndMarkets.com's offering. When they work together, software development and operations teams can advance a company's business transformation."
-    publishedDateTime: 2021-11-29T22:17:00Z
-    webUrl: "https://www.lelezard.com/en/news-20130260.html"
+  - title: "Global Artificial Intelligence Platform Market 2021 Comprehensive Research, Market Definition and Business Operation Data Analysis by 2027"
+    excerpt: "A study on the Global Artificial Intelligence Platform Market Research Report 2021-2027 is disclosed by MarketandResearch.biz. It consists of various section such as research methodology, market introduction,"
+    publishedDateTime: 2021-12-01T20:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2021-comprehensive-research-market-definition-and-business-operation-data-analysis-by-2027-2021-12-01"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 27
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "neKWm4hADjHsEJ4UAbb2rAF5FjvC+IRbXWFfMW8ce8kyY/dyv4+gcPklQOHtUdxESspo62rsg4na4taOKXyKRYO7RCN/sf1p+Vr6RZdqDRS9ILcLklv/YnsWHl3AW98553Jy+sg4m77kyUi6C0pcx5eZkgpxTLNNwY8rJYfbb582fw1zFfgpG1mErU5OKcNn6QORRvok01PaeTX6K7/I0DJtlGo0qq/KWydDb5coZorq8d6Bb7AHK9kRjGd5g+GSbXBDyzKxoKE+Za9/qaoS/rAfedX6JBaiGcM1qw9W7kU9pE11wFcnYBcNPCVHemc/LKnf+00uw3TYcVWCfwPtL+NgUF8KEhO1qLpLI+Nr5fO3GW4kijpkvRMl4oB1TDHP/O/eo5OH1j+PlqDZ2vbEOCxeY/t0Pp49O+aR/hROqqmidurGfOzZMxoQCjTAn8BFFT7QBcAacD+9qIAL9ZUaATIU5qWuRTH+HVj3ZD+q/+J6VtasnHUJtD3YvC3f/9J/QgYLFi5Udy4CoYiqRsgsoA==;c+R3o3nadR8QK3TPNepTbQ=="
