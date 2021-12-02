@@ -2,17 +2,16 @@
 category: news
 title: "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
 excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
-publishedDateTime: 2021-11-26T05:13:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/271808320/193-countries-adopt-the-first-global-agreement-on-the-ethics-of-artificial-intelligence"
-webUrl: "https://www.bignewsnetwork.com/news/271808320/193-countries-adopt-the-first-global-agreement-on-the-ethics-of-artificial-intelligence"
+publishedDateTime: 2021-11-26T10:20:00Z
+originalUrl: "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+webUrl: "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+ampWebUrl: "https://www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
+cdnAmpWebUrl: "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
 type: article
-quality: 48
-heat: -1
-published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Daily Sun
+  domain: daily-sun.com
 
 topics:
   - AI in Autos
@@ -20,80 +19,11 @@ topics:
   - AI Ethics
 
 images:
-  - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
-    width: 630
-    height: 420
+  - url: "https://www.daily-sun.com/assets/news_images/2021/11/26/UNESCO.jpg"
+    width: 830
+    height: 530
     isCached: true
 
-related:
-  - title: "Our global agreement on AI could reduce bias and surveillance"
-    excerpt: "Nearly 200 countries have signed up to UNESCO's agreement on the ethics of artificial intelligence. This could help make the technology fairer for all, says Gabriela Ramos"
-    publishedDateTime: 2021-11-26T06:00:00Z
-    webUrl: "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/"
-    ampWebUrl: "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 59
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/11/24163708/PRI_211829081.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "193 countries adopt 1st global agreement on Ethics of AI"
-    excerpt: "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI)."
-    publishedDateTime: 2021-11-26T11:59:00Z
-    webUrl: "https://www.pna.gov.ph/articles/1161070"
-    type: article
-    provider:
-      name: Gov
-      domain: pna.gov.ph
-    quality: 56
-    images:
-      - url: "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg"
-        width: 720
-        height: 377
-        isCached: true
-  - title: "193 Countries Adopt First-Ever Global Agreement on the Ethics of Artificial Intelligence"
-    excerpt: "One of its main calls is to protect data, going beyond what tech firms and governments are doing to guarantee individuals more protection by ensuring transparency, agency and control over their personal data."
-    publishedDateTime: 2021-11-29T13:42:00Z
-    webUrl: "https://www.hstoday.us/industry/industry-news/193-countries-adopt-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 49
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2018/12/binary-1536624_1920-1.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "UAE - 193 countries adopt the first global agreement on the Ethics of Artificial Intelligence"
-    excerpt: "( MENAFN - Emirates News Agency (WAM)) NEW YORK, 26th November, 2021 (WAM) -- All the nations members of the UN Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of AI."
-    publishedDateTime: 2021-11-26T09:39:00Z
-    webUrl: "https://menafn.com/1103254638/UAE-193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 45
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?994757"
-        width: 377
-        height: 250
-        isCached: true
-  - title: "193 countries adopt first-ever global agreement on the Ethics of Artificial Intelligence"
-    excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
-    publishedDateTime: 2021-11-27T06:16:00Z
-    webUrl: "https://www.publicnow.com/view/B73061C387565349315DA2D7990FF03A9B822A43"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 29
-
-secured: "f87EaTn4as77Y9I+ZOpP0UGVHtXI3sppKdy5hy7N1i/THBJUm3T3DyvM28RBzyu+O8lBkIttqiv1/KZh1bKAVJr8TDZBOyTH9oI857MglWQCroXYSttPTpsquNJp+nI80pS0V2F0NF2q1mKH/qf3d6HAoppCN0VlL7m9JDgrG0S1z3Csb2PGqy1aMjF+BgquflqF4OHbyra40c3blsDe1Ubl2QEX4r4hQSX1rLBsoU+uNdiMPCZG/BTEaq8bU6cgkg6TxlnPBjQ1cduzJ6zBZcIqJcJnnJaYp1JMk4r/pvH8fUVb78iSk4QJtDTyIhHt6BkMWhD3KdHGZw/oHh9WfMXPo/Z+D1qryIR9PqE4+Pk=;3n1fytX4bsJHJLam968chA=="
+secured: "RjHHyRNBuU4XWOiT9MezvStY3BvrmsdrGU74FMKSsSSEhIVuwxl9lk/7/d3/FLHwSnJ3WYE0l+qe9x0HENkpxx+JHVgYs3lsUFd+5AgLV9q34kO3OdVM9bgN4P6LvqZp/tQVyCFAU8bAw40z57OPt40A0Au21vHn5clogIEmmgmGp5m0Cd6R49J+hYO1VSzdpFYaCvu5BJ8QIGNyJDaRYB2rMeyI7bJ3QkOtqMVx3Sl+/zTNRD1eNN4pkxo3VsL81++uPRrDBZmADRY2zyAZTjh605IgB6qZ1LNTAK7JaUtY+Xziq8q5xlZ2rveWEZRYChTjLQfjrhhP0wUpHvF1dEqBlBsOF47mFhQla49Hyrc=;SICMX7gsRLDIujE7G1ELLw=="
 ---
 

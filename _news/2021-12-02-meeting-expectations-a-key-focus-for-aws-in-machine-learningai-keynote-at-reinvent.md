@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/12/01/meeting-expectations-key-focus
 webUrl: "https://siliconangle.com/2021/12/01/meeting-expectations-key-focus-aws-machine-learning-ai-keynote-reinvent-reinvent/"
 type: article
 quality: 64
-heat: 94
+heat: 95
 published: true
 
 provider:
@@ -71,6 +71,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Q9OoE0T5kdSxQWX8Z4m2v2bpk0BsUbZQsB8QkoGDnoWVfXyFlt3hRO7ZWtdvhk6egxSxEk5Vmjz19530XExJ8JvfSvvYXP+Jo6qCzU1hyobFYT6SR+XyGijRintJmi1MNJs/UxZJjh24w7jxMua96zI7uYtRquW7whZyYxOuAH0VwD2LC/JxfT4D70QzEJ7h6eRjgceYFGryqPddtYUWK1mhhUjI8g2WnoTkzQ+Wj1ojVb1cFPVmsg3Q4xvtZor+93x4Wz2IKcQW/ZCCH6Ns9vJKw6qSdFvlKW5MtEyitZKvuYo2So4pPeCqVY3ISyEI54XDAM1o86D5ru6j2pl66aUPLEoPgHoY3GNtrvHDw2M=;7AHp9KUHGT5v/CyauYvyAQ=="
+secured: "a2KUC1ZXOEE/TBxWRhlD+DbF5I7mmi5SWyB719SLPE2HEcCNKyK44qG/1+5a1dY8GxFjtf1HrLSPJe9EsrwP+F6m9M6i8Nh1Fqr5Mvxi3tiVnH0TkiV0ZhrJcc54LMZn+i5+tkYF5KpdKsIhPQXYx0MQmwI4q1QzLjhzzfVXhBrzFV4fbu83yE7t0uTSif+YMk8zEy3Ljs8ZjIfGHGH9nG5Uf4WBDF54GsBjV/+vB9XzQjRYxr/+FHZ/ykA1yXNYKaSYdewVxHn1i8BX0bbRTF4l/szXZ/XC3njBeqZtF7y7K4vMQrAphyZUa3HwlprMffmvtjFkUispkAEBnM2PziGh2a3LtZLwuWwD6mwMQ/kONHhl9REGHtHXP7ECm74LjXoTm3esUziM61Jqx73sfI+X2+gegLmptx702AQP0gX43fUM7pOKjFKVW0rG+qh3DMMhyLEKNZWkiULWLpDpM7wQbWTAwTYxj0I3WHz7x4uhNmFesuHx4eMzaiiFiR7ehf97BKPn29JAlWQlrR1Hag==;hcCtB95M5P+01uFkavVE/w=="
 ---
 

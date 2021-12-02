@@ -1,22 +1,23 @@
 ---
 category: news
 title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
-excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
-publishedDateTime: 2021-12-01T20:32:00Z
-originalUrl: "https://cloud-computing.tmcnet.com/news/2021/12/01/9503015.htm"
-webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/01/9503015.htm"
+excerpt: "New $10 million AWS Artificial Intelligence and Machine Learning Scholarship (AWS AI & ML Scholarship) program is designed to prepare underrepresented and underserved students globally for careers in machine learning Amazon SageMaker Studio Lab makes it easy for anyone to quickly set up a machine learning development environment for learning and experimentation at no cost Today,"
+publishedDateTime: 2021-12-01T19:02:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible"
+webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
   - AWS AI
 
 related:
@@ -37,6 +38,6 @@ related:
         height: 634
         isCached: true
 
-secured: "4DFSrEiLotrGtByBgt3JUGY2HKzU8KBYFYCX+4ewEDdQnCaSbqT/PJJ/+uiQaw+pFwY1Kd9xKrAWYTTzZHZddDVaXqZv0Sg3AuzsnRUUHMQhQInhGaz+CvadiCAlTWu2n+4JxXYLhTtrKTS0XDy/2P9EY+Bce9TNQt53Eu7JjXBqWx+jNdOvwEAVYoWCvMsQs7DaQEgbah8WmwzBxNnuAlQ+9WastOKmgJDgNmVr+wsZygpZsxpwwSDVgGFmOpupEYakCaSsb/dd6jEoMTK/NfB6DKMKvi1dVo6OKI0JbWCN1H+TCatlMhLk5XJsdXafNU22R4U/R5mMtkSTQ/AKpnwJ054+VfibgLFMZMrn1Dk=;tx27Kb3oIPZHP29OYIqrfQ=="
+secured: "jJW/esD7dMFqVmLNppOx61PeB70fN0OdCwOMDU8yjkDJ4dKHqKZ1W0CFAsFjSgU2L7s00Ihd6wAe1POCZYMNpTxFI0eMX73gpYjJ8jrHSyS2CklO7/5zNslEtOsC8BP5qgGdd7DDGiZN+qHqkJf6BedJCwwxabdV6IlUghcYBWLCRJhek/hQPHcs2nSnd7W+l7BSSba/42RKHxSNl+gUD4awMz5Q6owF5DEqm7xpvFUG7xnPsUmPL1BLeK0InGdPu+8k7zVI3D8WvR+cDAsb9zLrE3iLhZEsbjVCrHMY/PKtz9fHOFhqDCg1NhfOaNeJuRUBSG9WpbD3kf0NHz6nYgw+rijiEeEEePOWrrQEzArTLVTGwWEQmohTizRz+W6RbtwVGisoO8V/DM5pmFJatYTKDyS/YNKXmqdU4rrcg3SyI/4brnBD3+lCfPeMwfSbKISjil7WG0FbdCOlO9Ff8GpE0gJAwbleVbPke1f8zc4kYu5QHNlYB40zrGp1dpm5yFfz2tQbCKvmzptDNXKgAw==;joK9APgWMhthsWpVsgagTA=="
 ---
 

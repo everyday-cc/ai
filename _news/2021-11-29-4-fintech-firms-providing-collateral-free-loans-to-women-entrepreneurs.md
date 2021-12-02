@@ -73,20 +73,6 @@ related:
         width: 2560
         height: 1843
         isCached: true
-  - title: "10 Reasons Why Fintech's Great for the Future of Franchising"
-    excerpt: "Exploring ways fintech can improve franchising, from offering better security using biometrics to improving user experience through contactless payments"
-    publishedDateTime: 2021-11-27T09:00:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/10-reasons-why-fintechs-great-future-franchising"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/franchise_0.jpg.png?itok=xpLQeqOm"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "EarlyBirds Draws Attention To How Fintech And Insurtech Are Disrupting These Industries"
     excerpt: "Open innovation ecosystem EarlyBirds is helping businesses in the Fintech and Insurtech industries benefit from the innovations in their respective"
     publishedDateTime: 2021-11-29T05:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-n
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120100516_1.html"
 type: article
 quality: 99
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "Mindtree has earned the Al and Machine Learning on Microsoft Azure advanced specialization"
+    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner's deep knowledge,"
+    publishedDateTime: 2021-12-02T00:19:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20211201/3865385.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 41
 
 secured: "g4oYdWadM34R4+xLKu8ad1WA0OrcfgJ08cthc9fo5F8qVbcc/0Im6z8HRgE6TmUR8NYyKyL4WKPtZkEBuVjFVNa6djKUQ1v6kpbUpSn98DTB9UIE1b52RzIBIuxli8ZTGWH0cSnzsPJS6/Gfk/BpqArZrwxUHfOS5uLtaQNqkO8DhwZDBHF/osKoVTQuSwQtfbyDFwn1mNxXU7z5L5LlcjB2Xozbeqcb1B2RwmAeZihi9LkEdIjEoNYd9yg4ZpCtl2iovvoHhQB8eqUXVlns6LjwY5gIAJFaj4sF22mLVeUHRPimUlZe91w1uxuEAQZ8EKVNmaULs+AJafsnkeeU3JCW5DNlqhACGBDCbjtgFRo=;KSA9SCze9yfWECDig2r41Q=="
 ---

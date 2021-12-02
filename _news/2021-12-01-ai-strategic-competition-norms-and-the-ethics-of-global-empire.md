@@ -7,7 +7,7 @@ originalUrl: "https://thediplomat.com/2021/12/ai-strategic-competition-norms-and
 webUrl: "https://thediplomat.com/2021/12/ai-strategic-competition-norms-and-the-ethics-of-global-empire/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 600
     isCached: true
-
-related:
-  - title: "193 Countries Adopt First-Ever Global Agreement on the Ethics of Artificial Intelligence"
-    excerpt: "One of its main calls is to protect data, going beyond what tech firms and governments are doing to guarantee individuals more protection by ensuring transparency, agency and control over their personal data."
-    publishedDateTime: 2021-11-29T13:42:00Z
-    webUrl: "https://www.hstoday.us/industry/industry-news/193-countries-adopt-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 49
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2018/12/binary-1536624_1920-1.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "+J2bhlM7vM2ESRTMz5vm1mdZv7zJ59bDOeq3XkKMwElRldxMqmOhfy7Esndrbq7YyFblBhynT8CReMhL2w1lvvQuw1pr/GF4SZpoQMquMhm+/18VrueG77V3XCVxjg9lrADYMdjV+7MUYDTt8rq9PbmwB761lqbNjlDcItHlMghRUTj9416C6Ps1sUVIKY5kiuh6EYjJqvcph2FIo4hzBF1xwaaHJbFau6U8rhSri0mqYK4IGFl0AMd92m0yNLFbdl1OnfDtXsSO7kojoPon6BFhneUrDxtRULdxEVfFgLBU7JwKq5erXlKemAuph7LtHVuZ/1BsDK/0T0f4aKMKCwrbYNYziPFGoF+rNtpoK/WCurj+4jHyPC7Xo6loZJ7ngh/81cvYU5vrayW2abXQRVXALA4IxfsD1kFEFfvoIhXLBj72lGu6ks9If3IfdWwNlhwESmqLkrxdblr759u4UAqNILe+AqrietKi0G2bEnGNBxPPEOzMqHTvm1xPQsXxkLrtz2VrlP2n/svFbCa8Jg==;2pZh6vdIsWKhY2ALvz9F3Q=="
 ---

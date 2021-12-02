@@ -8,8 +8,8 @@ webUrl: "https://manometcurrent.com/artificial-intelligence-in-agriculture-marke
 ampWebUrl: "https://manometcurrent.com/artificial-intelligence-in-agriculture-market-climbs-on-positive-outlook-of-booming-sales-2028/?amp=1"
 cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/artificial-intelligence-in-agriculture-market-climbs-on-positive-outlook-of-booming-sales-2028/?amp=1"
 type: article
-quality: 64
-heat: 64
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Sales
+  - AI in Robotics
 
 images:
   - url: "https://manometcurrent.com/wp-content/uploads/2021/11/The-Insights-Partner-4-2.png"
@@ -27,6 +28,6 @@ images:
     height: 350
     isCached: true
 
-secured: "v9cu2HOOnT+WrgwTUPcjQvhk8Y7Z4hBv0W0LFaiJvlsSTxarCTF8UPU8fpVcB+ytvC1E/T9KONJ9rN+YXeJpuYwrDxOuQfzQt6O/8lkI/gmUayJZjsqhbsuyM1FBoPLBc+Bf0MO2YTVXvxYeXyp0nUx8C7Jy97LQnlrKFm6cT5D/JzTyF0d6eJh2IFWzASXhsKAXiDplxt5auMJPUKqhFBkOJBHHrAkJjpgQEDBvK/MSgleAI2mecWZ7J7ZztfJ4WopS7ZWFMIbi477D6QH1gpZTjVFQruDQP7MW0WUXkTezL/1Es4h2nIv1fx+WqMoSwZLVqo3LQ3btnklG2Fs43PFOqyz1CGeNEovrDRd5vX8=;vam3qWACunwunTNXIpmZwQ=="
+secured: "4HUxmpyiSDyiD6h7WhLa32UCVlQoha2gHjL6MHgi1zKeEy0CQuR0wf6bxMvQCQQe10MxernGCXT2A9bEDYeYFK5UyLiW/Hgzd9E2785ho4xPJ1WsRDflmfPGbitMUUMXXM2+hVpCQ8ao4WS/vtYnvXe4v27zfdik0zMJ+01L6Fwv1bi+TKf/ddmGgiF/OiT6d26R7254RTyAbI5m9f/htoUYMJxZNT8iOZm541Nd/82jHMIdWW/FCGOeyAwMEp1/sAVUnKaCn35r3pqxrq9kOSPOBcKgYs/7lU6eTPCHVXgH3iE17gXFUx71I2iNbb/Wf13en3ZkBklacCof/ckcS9LiOglI0xE1F95+HWNVE5DlRqKtQRxNSm/fc5zNDnAVwbJYJ7tHCxsL199ybLmoK6KZMU8X2zdXK/x16ysBW0ES5i40hyGh49B8tCpOKjkzvIfbg73iSt1AoWsOyspuASji9npXWrJO9ZzZ6tmYpNPsCckoawkUm37Yzpaibu5zrF6VhgRvFcn7aJw8Aat+jA==;VDoUiVe1os763mGpDf3ndg=="
 ---
 

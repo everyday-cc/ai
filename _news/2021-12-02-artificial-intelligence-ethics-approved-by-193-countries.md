@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-01T22:23:00Z
 originalUrl: "https://ens-newswire.com/artificial-intelligence-ethics-approved-by-193-countries/"
 webUrl: "https://ens-newswire.com/artificial-intelligence-ethics-approved-by-193-countries/"
 type: article
-quality: 54
-heat: 54
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -17,6 +17,8 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://ens-newswire.com/wp-content/uploads/2021/12/WisconsinAutonomousVan.png"
@@ -24,6 +26,22 @@ images:
     height: 325
     isCached: true
 
-secured: "8GmaTegT6hb4KCvSjDRrttcRrL7bZsPWqom3Bm31CJFaKEQFubePGccU6bJx8nPQvRK/nEoHDr0PTUU5ROuPDLeYtiS+fzGu3gJUASwiu03bm22PWMUUDyciiX2SVeqbIKGPanWj0PFDQkzBJScZ4GmJoCxVEiCuayKBTy+zEhR3y4u0h3o+4BrGhKHPuB/SsehhOHHytCWBebP2QE2eObadG0IDeTpxw41XF8XWpEl+I9gt8zMam+4cULQtZLZ9qJt1slTgK84kz4MqcZniLOx6oIUp3wtprhbA/4tWxOYRzyM/PSc+ZK8emEmDBXGwvxKcDj8PGmyCmuAb5v2jjgmDxlAvNl/nO3bdrhNPSAA=;BR90C2swjii40FtqqcTKHA=="
+related:
+  - title: "193 Countries Adopt First-Ever Global Agreement on the Ethics of Artificial Intelligence"
+    excerpt: "One of its main calls is to protect data, going beyond what tech firms and governments are doing to guarantee individuals more protection by ensuring transparency, agency and control over their personal data."
+    publishedDateTime: 2021-11-29T13:42:00Z
+    webUrl: "https://www.hstoday.us/industry/industry-news/193-countries-adopt-first-ever-global-agreement-on-the-ethics-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 49
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2018/12/binary-1536624_1920-1.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+
+secured: "fGRwcYUFzwEezsYDhhbjpX7cXkHmruQLtMZeTZAuReDP212HTef0BbsUz5E2KfSfh35zSwy0toidGIo5MZmjP9AM7kV49AKc+BScQYupPqWjAjSoKnT4csOD3LwIm/ynAlA76G39Ytck6LZ+fNH1RVLwts7BgKGy14SHV0ORz2cFvfrsOd9kV6rqTd1ndxTKbihJENTweF60SLgwDHL7iUTxTURUkqE7FRQnZOruyjaDdf9VnfHu5yTLhJwsEGu0+MWCs9fxmtviqXYNN4eYyfUTJtjny9kEzHYBPi3fwrj+QVzqETQMxK3NkEyjd3c7i822N7aSfZ70/qzAmHOl288RCQDX2RZ4zMkE/1tkqK1hNjWrcbxsbkf8SUdMiog8qayjBbULd86t6vW2wD8u7G4eau+ZmFKwnd/GG9VhY7SuEu67LV0OEMzvqpB6mTwJTBZ2ZFfPWuNjRlSiCczCFDWBt3/hYWP+jO9KNmBVwx3gJvGtG7NKXzlpQlD/G6LIEHVQzKvm3KO0ghPFFN1I8A==;wjxPvRIHstAkO+mfd/8hFw=="
 ---
 

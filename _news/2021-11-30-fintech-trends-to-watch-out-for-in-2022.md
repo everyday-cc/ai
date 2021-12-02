@@ -59,20 +59,6 @@ related:
         width: 1280
         height: 1277
         isCached: true
-  - title: "10 Reasons Why Fintech's Great for the Future of Franchising"
-    excerpt: "Exploring ways fintech can improve franchising, from offering better security using biometrics to improving user experience through contactless payments"
-    publishedDateTime: 2021-11-27T09:00:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/10-reasons-why-fintechs-great-future-franchising"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/franchise_0.jpg.png?itok=xpLQeqOm"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "4 FinTech firms providing collateral free loans to women entrepreneurs"
     excerpt: "FinTech companies have bridged this gap by specifically offering financial assistance to women, in the form of loans. Several"
     publishedDateTime: 2021-11-29T08:11:00Z

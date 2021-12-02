@@ -135,6 +135,29 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Computer science: Artificial intelligence does the maths"
+    excerpt: "Since the 1960s, mathematicians have used computers to aid the discovery of patterns and formulation of conjectures, but artificial intelligence systems are not commonly used in theoretical mathematical research."
+    publishedDateTime: 2021-12-01T23:59:00Z
+    webUrl: "https://www.natureasia.com/en/research/highlight/13893"
+    type: article
+    provider:
+      name: natureasia.com
+      domain: natureasia.com
+    quality: 51
+  - title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
+    excerpt: "A mathematician,” the Hungarian number theorist Alfred Renyi said, “is a machine for turning coffee into theorems”.The world’s mathematicians might soon be n"
+    publishedDateTime: 2021-12-02T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 48
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F31c8a572-52f8-11ec-a5fe-8f0d6a1c517d.jpg?crop=2000%2C1125%2C0%2C104&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "XggVLpt2ZTjeVYwiZzAt/zzdcdo4MBt64+uTuf40EHVRTisx7ao5x8X2W7ahcmPC0Kps6SInp+KlScy0oUFnF3dRnIGJv36Sx9ByAGRCxgocBVc98x4D6G9Mj2K+/SNd+9b+Vs6RYrY4ZN+olm6i5EWlzrdl4DsNeEs7m4ZbJWziqsKmHkBPWw/wouxvZ9rLFV01I5aU6DbNBITNVquvEcKcEFretXmVWS2KMZjJD4ChAgbCVDUzfra2bp+VyM5LVWYdNUVy4qZCDzbwbdzxQcQL/oi7hM5nhg+P19101HL2Ap4Ypy/VSTeDAhUSebElQzk/G7xeNtNwvvINIGAIEexoMCPbrVYpscRSxsM48AtT3DdkUnhu/xWj0IPRWMWwbVhRe/ygGei5rPeU7p9JTCs0HGU4/PIsTCppEJK3AvDd3Z0+8GReT5/QOF2rfTDNE4J2Pl3/eQESzYCOqxwN7c20VZ5FNM2LRZyfV5oo+RO1USyL6HyfhFLz8pkD1TqvmReX4+fK7nHttHMHWR/fJQ==;SkGc1fq4CTqKCnu4k0kW3A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-ca
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "New machine learning model reduces uncertainty in detection of breast cancer"
+    excerpt: "Breast cancer is the most common cancer with the highest mortality rate. Swift detection and diagnosis diminish the impact of the disease."
+    publishedDateTime: 2021-12-02T00:38:00Z
+    webUrl: "https://www.news-medical.net/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 71
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/91618146-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "Machine Learning Reduces Uncertainty in Breast Cancer Diagnoses"
     excerpt: "Breast cancer is the most common cancer with the highest mortality rate. Swift detection and diagnosis diminish the impact of the disease. Researchers at Michigan Tech have developed a machine learning model for detecting breast cancer from histopathology images."
     publishedDateTime: 2021-12-01T16:50:00Z

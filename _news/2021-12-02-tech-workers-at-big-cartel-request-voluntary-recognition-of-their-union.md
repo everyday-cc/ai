@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Tech Workers at Big Cartel Request Voluntary Recognition of Their Union"
-excerpt: "Employees at the e-commerce company Big Cartel today requested from their employer voluntary recognition of their union with the Office"
-publishedDateTime: 2021-12-01T17:31:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tech-workers-at-big-cartel-request-voluntary-recognition-of-their-union-301435471.html"
-webUrl: "https://www.prnewswire.com/news-releases/tech-workers-at-big-cartel-request-voluntary-recognition-of-their-union-301435471.html"
+excerpt: "Employees at the e-commerce company Big Cartel today requested from their employer voluntary recognition of their union with the Office and Professional Employees International Union (OPEIU) Local Union 1010."
+publishedDateTime: 2021-12-01T18:40:00Z
+originalUrl: "https://www.lelezard.com/en/news-20135781.html"
+webUrl: "https://www.lelezard.com/en/news-20135781.html"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "eS2lVH1opohKwEiDEAuUiBQFFOt8hgwdDIEBURidROToXwaYPFs6KGXcYynS/BMX+1IK9jKarNOx7fmbSXsXw/93/6600z81hyyjj4cFO42yoiQU/sGCeSzTFo/vGkOsGrv+kGexEt97hL5dIDiwL9YwxXKG2CsOM0LKTSC7eDw+p81DlhfvHzb/vwcKvGkcMZUxlNx4w3F/PuPDMXZW1ZH7eGChBY03hMDW0QFIFKmup2oy7kPqWYCGhkdqKDmyZxJ7QsXlkgl0fxb2MAs41uPu1FYDnvnLlQ5qVAigoTL5SqoqaPp/0vcpPas6khmO57FBrhcGXaX/OXBIjnKnlzQGZightIqyUsl5Dl2ZgoA=;Kh+LAcygyHPKKZ0hAjGCbQ=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "h0aeNyiZsKlVUuJuf92XEJPaN4ZU3u/YZmAHxmtm5n55yn0pJOlIr1TCQ/H4w3YP8KKbGKfS5ucTR4xjMRb3/pq7apRNkEfeJfm7kyPrIWV8Tn/LF+mttq3qbeUUo70Lan6jPQ/qbWO8Tqf8QM1OKsTOUcF+X/jUz1N5XANlFTxflu4yqrz3uSKK4+2X8cR5oN+/GYCZjyMuxRUz38X6XSLe+nAydKtP27uRdrw+E0WqCcaWVmbdbC72shNfI3n1E0M3ZgwNWGNNdONYUkEAHeAVLo3GF7jei/D/UGT2g+2GfiYWoggQ1ttW8frnVR1OoRNu8XI0iCFXvNnsLqoJx4F1GiTWUhLxXMfSkYMw3Gw=;dx7qZV/TjyxLMTuwscuCqA=="
 ---
 

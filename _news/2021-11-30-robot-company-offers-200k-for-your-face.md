@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-f
 cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp"
 type: article
 quality: 61
-heat: 73
+heat: 71
 published: true
 
 provider:

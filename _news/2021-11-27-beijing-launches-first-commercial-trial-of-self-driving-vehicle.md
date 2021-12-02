@@ -41,6 +41,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Self-Driving and Service to Country"
+    excerpt: "Welcome back to the Stack, a monthly newsletter from Argo AI and Ground Truth featuring the best content in the field we’re all so passionate about: self-driving cars! Subscribe here to receive upcoming editions in your email inbox."
+    publishedDateTime: 2021-12-01T16:21:00Z
+    webUrl: "https://www.linkedin.com/pulse/self-driving-service-country-argo-ai"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHZ1e2mogyVUQ/article-cover_image-shrink_720_1280/0/1638374100706?e=1643846400&v=beta&t=fTLVYQsU82How8sZc8sZnT207jWcYChJl2aSdZwJYng"
+        width: 1280
+        height: 641
+        isCached: true
 
 secured: "qJKlSlnI8eZilgCtvxs5NXv9MmRfjWbuiFOLTRMwJbMaGjFop7U0sCvPqgHxgVJzZpYB47anT85pgJg+6ewAxxpsfbSNA4XmL5DtjQ3Bl+Z7Q+x4kZUcImDY3kAO+tbKtUG35fB+raYAGRLOHWAewGngUVxmkfNbOZQguvRx58rj2M/CrP1POvgRT94fS2hMJ+V7Qhhosb4d46xXy6wN0xLp9o6EC+LGGbKQDayKozLGR7VKGJtlljja/CcfxqnjiX9m7QptDP+UU2dFEXsip+aM7AgJcBgCdexcH1R6ZeAgXwnNLKgyl2yvJ8WNRBo2yXWJgTHfMAnlhldG6z1MVs/RlmuVCHSgUkqwhgnUrjo=;OcUc6qBY7dc7aDIl/RIP0g=="
 ---

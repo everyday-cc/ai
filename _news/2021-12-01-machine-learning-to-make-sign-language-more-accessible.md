@@ -33,14 +33,14 @@ images:
 
 related:
   - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
-    excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
-    publishedDateTime: 2021-12-01T20:32:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/01/9503015.htm"
+    excerpt: "New $10 million AWS Artificial Intelligence and Machine Learning Scholarship (AWS AI & ML Scholarship) program is designed to prepare underrepresented and underserved students globally for careers in machine learning Amazon SageMaker Studio Lab makes it easy for anyone to quickly set up a machine learning development environment for learning and experimentation at no cost Today,"
+    publishedDateTime: 2021-12-01T19:02:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 35
 
 secured: "M6w/pHNUy6l9bhRQNbjqkui76W5FbxFw1deyd9DhhiFa5Q6HmByRTgclj9YlA6lQUgZFFJRr4GTtQuOei1/uWAqPwV8WsfAjOyOrewe4enh6YJOZCrLPtPiytlq7GPqSUptU5+fgRTQO7OuWEAakVFiBhADLabHTu7nEtYP1ph8v4ba1+pb78veSKhPv1iQJDo7Uwr3Orv5vkiY+FWshm+7VDgvC+hu4VFqisG/QUtiD0gCvBhNAMV3JFxZg2cHGOSA3xM8qd8yJ+GIE0G503eP8Kf2vX7DlZYq3g6nv8i4Tbh2X3MnplCOHyGzfW9URnrfP5wyd+vNSYL36zuFfQvsEDjqosQ7MlRs2VpRryNA=;TOnZsJLLq8pic/DM8CwbTw=="
 ---

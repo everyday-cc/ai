@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomm-launches-snapdrago
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/"
 type: article
 quality: 99
-heat: 299
+heat: 309
 published: true
 
 provider:
@@ -288,6 +288,22 @@ related:
       - url: "https://technosports.co.in/wp-content/uploads/2021/12/qc_onq_sd_8-gen-1_header.png"
         width: 688
         height: 376
+        isCached: true
+  - title: "Qualcomm Snapdragon 8cx Gen 3 5nm Compute Platform announced — up to 85% faster CPU, up to 60% faster GPU, 4K HDR video"
+    excerpt: "The new Snapdragon 8cx Gen 3 is built on the 5nm architecture that offers up to 85% faster CPU multitasking performance and up to 60% faster GPU performance. It supports 5G (sub-6 GHz and mmWave) and the Snapdragon X65 5G RF-Modem system delivers peak download speeds of up to 10 Gbps,"
+    publishedDateTime: 2021-12-01T17:30:00Z
+    webUrl: "https://www.fonearena.com/blog/352865/qualcomm-snapdragon-8cx-gen-3-compute-platform-features.html"
+    ampWebUrl: "https://www.fonearena.com/blog/352865/qualcomm-snapdragon-8cx-gen-3-compute-platform-features.html/amp"
+    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/352865/qualcomm-snapdragon-8cx-gen-3-compute-platform-features.html/amp"
+    type: article
+    provider:
+      name: FoneArena
+      domain: fonearena.com
+    quality: 35
+    images:
+      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
   - title: "Qualcomm Snapdragon 8 live blog — all the big news as it happens"
     excerpt: "We just learned a little bit more about the Snapdragon 8 Gen 1, Qualcomm's new system-on-chip for mobile phones. The chipset was introduced during a keynote launching the chip maker's annual Snapdragon Tech Summit in Hawaii."

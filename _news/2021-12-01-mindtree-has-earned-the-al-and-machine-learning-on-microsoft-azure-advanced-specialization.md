@@ -95,6 +95,15 @@ related:
         width: 1800
         height: 1200
         isCached: true
+  - title: "Mindtree has earned the Al and Machine Learning on Microsoft Azure advanced specialization"
+    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner's deep knowledge,"
+    publishedDateTime: 2021-12-02T00:19:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20211201/3865385.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 41
 
 secured: "Co9u5FgropJSNGR4uCXtiH/R2ka/lXmUwjnb/gXA9qjaBP36VPyDCoOEHIFalG3pOKWIyMYby328xh2+GVRvuTYQbZhnV3AcMzOrI2Klh93JAnC6daQgWMjoXdeB802xuy55CzZAfRhlnjNWLZahUq/H/7/pCPpnh5emuzXXsJgPb9Gs+e1MQf0wnBdfy4ZT95ntW41W2ktG3KwgoKs9MAD/Im/5mLBattaiy/qD1qXwXa5p9zxOioto/ftclo18ctS/Cnm/+3YJfzQ+8rHuC15eTNlJOHLhMg6d2Pry6GuIkDis+Tzj6yh8lD/aF5RkzXx0yBSYpt12pMzmd76Qdoevc1RfVsJGlQVZmatY+TFTyhDk1TbALqb0rCnolrelpvc++U294szn/7BZ6jXrjt9ny4ss+jfvYYZUC1HBVyjw08yz/K6bd00BWW9yeuStgl9PDZ+eZTIo/x/a0UdGSZQrwveYr//PldxPHOs+tUbR4CTBk2z8rxjjpG/tk21SnFdRhnrrBxFAm6lUfaAPRg==;XvLPpTlSNI3Y+ZAC9kc/0Q=="
 ---

@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Strategic Competition, Norms, and the Ethics of Global Empire"
-    excerpt: "Western democracies should play an active role in shaping the norms governing artificial intelligence and other advanced technologies."
-    publishedDateTime: 2021-12-01T06:38:00Z
-    webUrl: "https://thediplomat.com/2021/12/ai-strategic-competition-norms-and-the-ethics-of-global-empire/"
+  - title: "Artificial Intelligence Ethics Approved by 193 Countries"
+    excerpt: "PARIS, France, December 1, 2021 (ENS) – The first global agreement on the ethics of artificial intelligence, AI, was adopted Thursday by 193 countries. All the member states of the UN ..."
+    publishedDateTime: 2021-12-01T22:23:00Z
+    webUrl: "https://ens-newswire.com/artificial-intelligence-ethics-approved-by-193-countries/"
     type: article
     provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 54
+      name: Environment News Service
+      domain: ens-newswire.com
+    quality: 58
     images:
-      - url: "https://thediplomat.com/wp-content/uploads/2021/12/sizes/td-story-s-2/thediplomat_2021-12-01-035701.jpg"
-        width: 600
-        height: 600
+      - url: "https://ens-newswire.com/wp-content/uploads/2021/12/WisconsinAutonomousVan.png"
+        width: 500
+        height: 325
         isCached: true
 
 secured: "5CsbZYT/an6OB/YylwCE5x7x6LInMGMo0WRTP4AJCODj3rJ73G4Ktmbu3l0cUd96OrtLTAjXYVA6IzPgFlIFK3M96ZE0yNRKnVC5iPgRz5Tj7jdMvGOCV9CmdOCxszoSa444NeK4GNEd1mplMQcHs3y2Sd3sEgiW7a5lMQ/LAwdbG3xW97fb5ZuuFubi5Io7YDq5vd5UuejTjkDs+HhkKJqYX8qakci1TzgzyebgUFWZ1l6rC72akxi357bngX6w6xyIRIu9i3Ss6R5QBkrVHK1A7IUO8+nmjPKrIYxLx1rR99Fcby9EZOFM/ccMdC5yg56xzrSkrDYpSi5M63KdObTDbdxupzO72mQDIl+WFKSakdPruv3U8gzQ58UDEtqR9q7Q2+aNJU5gp1+deY7VxiB/gw8F7VW0Lmn2cPTgg5aPd0H7VSZHPpGKj6+/W9kVzHmiZLaww0CyjAfdw82v/msOlpLtcyqoPw4hyFpIQxibMJ+89qw77ALySr5DRjHzvQkT6r+cvlk20VS14kqyNQ==;jYixmSDFDRGXNhjri18URQ=="

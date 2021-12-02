@@ -120,6 +120,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Computer science: Artificial intelligence does the maths"
+    excerpt: "Since the 1960s, mathematicians have used computers to aid the discovery of patterns and formulation of conjectures, but artificial intelligence systems are not commonly used in theoretical mathematical research."
+    publishedDateTime: 2021-12-01T23:59:00Z
+    webUrl: "https://www.natureasia.com/en/research/highlight/13893"
+    type: article
+    provider:
+      name: natureasia.com
+      domain: natureasia.com
+    quality: 51
   - title: "Mathematical discoveries take intuition and creativity – and now a little help from AI"
     excerpt: "To find the answers, mathematicians like me try to find patterns that relate complicated mathematical objects by making conjectures (ideas about how those patterns might work), which are promoted to theorems if we can prove they are true."
     publishedDateTime: 2021-12-01T17:10:00Z
@@ -135,6 +144,20 @@ related:
       - url: "https://images.theconversation.com/files/434870/original/file-20211130-17-1ydvy5w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=397&fit=crop"
         width: 320
         height: 397
+        isCached: true
+  - title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
+    excerpt: "A mathematician,” the Hungarian number theorist Alfred Renyi said, “is a machine for turning coffee into theorems”.The world’s mathematicians might soon be n"
+    publishedDateTime: 2021-12-02T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 48
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F31c8a572-52f8-11ec-a5fe-8f0d6a1c517d.jpg?crop=2000%2C1125%2C0%2C104&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "Q0Hg6IhptNIQBd3BkkdIpOBd9M1YCISHu9ASLbyU8C1983gcvpWpFBcNyYG+R0OWjzaht+eLcOO/WCI5hKogZ50A335I+lyZfuazaAINoLu9KQA2ICcyXnrH16DfGmyZJum31e8QtnL0GQgZbtojU4vLMx2aAVrYl0KpVMI3H9NUqXm+O7otrj3GLeqTlGNJVPoAeIe2+rcSW2rmOD2nxDS0UO6IKOB1R6HAPP0TiOYYPwbfVBXDF6PvjGLZjAJpnTFKDHDcP4cyNvfaO5b7LviXLhe3mEqd20PIEGv36YNh65/8o+PVDw8jwtMa2fcyjbdBOzkHeeDSkEPOkiCWE2gX1FMGueFG1f7LswL6xjKi1kxqPtgQcnbwNMmakZ526ZtORFeG3kaObfDBSonXd5YvmcH2ktFb++Z5vgubIk5zuOnji05OUcyCU3zUY+hJe4tgDXfrvWcZExibAlIvuZCpVYIuXI+SbqF+afbBP+ck6aYyAG8RiaiOzmXLbo+rvEH/XzZ1nBJGoun6XBZ6jQ==;lzHO/gm/N1MT5E3oS5156g=="

@@ -298,6 +298,22 @@ related:
         width: 688
         height: 376
         isCached: true
+  - title: "Qualcomm Snapdragon 8cx Gen 3 5nm Compute Platform announced — up to 85% faster CPU, up to 60% faster GPU, 4K HDR video"
+    excerpt: "The new Snapdragon 8cx Gen 3 is built on the 5nm architecture that offers up to 85% faster CPU multitasking performance and up to 60% faster GPU performance. It supports 5G (sub-6 GHz and mmWave) and the Snapdragon X65 5G RF-Modem system delivers peak download speeds of up to 10 Gbps,"
+    publishedDateTime: 2021-12-01T17:30:00Z
+    webUrl: "https://www.fonearena.com/blog/352865/qualcomm-snapdragon-8cx-gen-3-compute-platform-features.html"
+    ampWebUrl: "https://www.fonearena.com/blog/352865/qualcomm-snapdragon-8cx-gen-3-compute-platform-features.html/amp"
+    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/352865/qualcomm-snapdragon-8cx-gen-3-compute-platform-features.html/amp"
+    type: article
+    provider:
+      name: FoneArena
+      domain: fonearena.com
+    quality: 35
+    images:
+      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Qualcomm adopts Google Cloud neural architecture search for AI Engine"
     excerpt: "Qualcomm and Google Cloud agreed to work together to accelerate neural network development and differentiation for Snapdragon mobile, ACPC and XR platforms, the Snapdragon Ride Platform and Qualcomm's IoT platforms."
     publishedDateTime: 2021-12-01T14:43:00Z
