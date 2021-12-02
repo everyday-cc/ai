@@ -42,6 +42,24 @@ related:
         width: 400
         height: 335
         isCached: true
+  - title: "CVS Health and Microsoft Announce New Strategic Alliance to Reimagine Personalized Care and Accelerate Digital Transformation"
+    excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions to help consumers improve their health, while empowering over 300,"
+    publishedDateTime: 2021-12-02T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cvs-health-microsoft-announce-new-strategic-alliance-reimagine-/2021/12/02/9503702.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "CVS Health and Microsoft Announce New Strategic Alliance to Reimagine Personalized Care and Accelerate Digital Transformation"
+    excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions to help consumers improve their health, while empowering over 300,"
+    publishedDateTime: 2021-12-02T18:01:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/02/9503702.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "0h+Q3a8Wcr6z78r2UHDdr8RKXxiaFNouXs7N1X5Pgumhyq+G0nc4ZcckHfvOWq6Vr2hGx9/gvO1oDiFzAcrl0+mCLjoQeq/vD726pUEJm7EZwhCmiujGsqPEXdPcGPmwPAE2dKjih6K1YMy0u8UAoOa0bXoJ30hYSmgVsUFX6rSFFA+luROU8YXEPOk/CVifV/73qN2kJq6rGZi8r/qp+zuTtCN/VDTuhQ3lvSjV/2AFbFsjpPmL+nOOjQDSPYnTs/jzqaCyO/QnbaNpf9nKl9lmk0lbf+W5PfzirrbZH4JG7nXbHxZi8WDUqMr9C5DYXUFqrdgbTzLkXFlqNV3Ya6LMqJ8YRWqto3OBGBVRRr/eMERVSA1sPs1cDn7qMoSQq0abyiuPSZeTUKRGN5+D7jsRvPVstq+AiFY3juob2M9v9zwJ14jCBX3ATV5XPXV72mrsI7kWSWIM7FjFV/juuwwmujNIXrs+I7kRV0OpyFtjTL6QtQjW0LDIVIWV+DZMHYZGKXsxlnfigrDpkPbbug==;0mQ9HVsANBx0lGrBZ6nj0g=="
 ---

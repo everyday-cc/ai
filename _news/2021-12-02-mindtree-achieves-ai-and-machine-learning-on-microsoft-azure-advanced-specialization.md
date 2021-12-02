@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-n
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120100516_1.html"
 type: article
 quality: 99
-heat: 199
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Infoline
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence Market Boosting the Growth Worldwide | IBM,Microsoft, Medtronic, AiCure"
-    excerpt: "The latest study released on the Global Healthcare Artificial Intelligence Market by AMA Research evaluates market"
-    publishedDateTime: 2021-12-01T14:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-boosting-the-growth-worldwide-ibmmicrosoft-medtronic-aicure-2021-12-01"
+  - title: "Microsoft and KPMG team up to bring Azure Quantum to more enterprises"
+    excerpt: "Microsoft announced that it and KPMG, now an Azure Quantum Systems Integrator, will use quantum-inspired algorithms to solve problems."
+    publishedDateTime: 2021-12-02T17:00:00Z
+    webUrl: "https://venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/"
+    ampWebUrl: "https://venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 98
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/two-module-quantum-computer-prototype-25111.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
   - title: "Mindtree achieves AI and Machine Learning on Microsoft Azure advanced specialization"
     excerpt: "Mindtree announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner's deep knowledge, extensive experience and proven success in enabling customer adoption of AI and implementing Azure solutions for machine learning life cycle and AI-powered apps."
@@ -143,15 +145,20 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "CVS Health and Microsoft Announce New Strategic Alliance to Reimagine Personalized Care and Accelerate Digital Transformation"
-    excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions to help consumers improve their health, while empowering over 300,"
-    publishedDateTime: 2021-12-02T14:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cvs-health-microsoft-announce-new-strategic-alliance-reimagine-/2021/12/02/9503702.htm"
+  - title: "CVS, Microsoft partner on product development"
+    excerpt: "The partnership comes as more healthcare companies heighten their focus digitization. Insurers expect their technology budgets to rise 13.7% in 2022."
+    publishedDateTime: 2021-12-02T17:28:00Z
+    webUrl: "https://www.modernhealthcare.com/information-technology/cvs-microsoft-partner-product-development"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 39
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/CVS%20Health%20and%20Microsoft_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "g4oYdWadM34R4+xLKu8ad1WA0OrcfgJ08cthc9fo5F8qVbcc/0Im6z8HRgE6TmUR8NYyKyL4WKPtZkEBuVjFVNa6djKUQ1v6kpbUpSn98DTB9UIE1b52RzIBIuxli8ZTGWH0cSnzsPJS6/Gfk/BpqArZrwxUHfOS5uLtaQNqkO8DhwZDBHF/osKoVTQuSwQtfbyDFwn1mNxXU7z5L5LlcjB2Xozbeqcb1B2RwmAeZihi9LkEdIjEoNYd9yg4ZpCtl2iovvoHhQB8eqUXVlns6LjwY5gIAJFaj4sF22mLVeUHRPimUlZe91w1uxuEAQZ8EKVNmaULs+AJafsnkeeU3JCW5DNlqhACGBDCbjtgFRo=;KSA9SCze9yfWECDig2r41Q=="
 ---

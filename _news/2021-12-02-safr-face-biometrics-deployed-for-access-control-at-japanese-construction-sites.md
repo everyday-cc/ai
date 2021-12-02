@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Acuant face biometrics, document authentication listed to US government marketplace"
+    excerpt: "Acuant's biometric authentication and recognition technologies have been approved and released to the FedRAMP marketplace."
+    publishedDateTime: 2021-12-02T18:07:00Z
+    webUrl: "https://www.biometricupdate.com/202112/acuant-face-biometrics-document-authentication-listed-to-us-government-marketplace"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28173912/remote-biometric-onboarding-digital-identity-verification.png"
+        width: 1173
+        height: 697
+        isCached: true
 
 secured: "I0RXB1dpWYAUmWnakxuhLJQqTBQ7J7cNL5aEy0Cqaduq50BBI6ZNI6WGQfV4fT22Li/w9orQB1fa9QdDOH2+fn/gMMVDdh5csKLLmzI0/eAxOriz+RiCmyeLoqwZGfgsJi5BBScmjc09SuEltASheaq3m3+kvEHlSXgwJPgyS+EwtwoNTG8SOhnbcVH6fW9qot6xtuGTb4FQwtdaE6qCH4pT8WPWbWqsDjy+MmpdbJhrRFPilL9s1U07VZsTxCMoZtwCw0LZAFiVDskgaqlS0xsfFKEDbEtEB1IIagYGDp6qQ+SoXGSnhtAYLKB4N8Hf67/BowxXCPDR9lAtGHSE9QrlYxnckn0UkKHAMJAsaFVX3KzQGG5Dh4gUkNHwtw826bReglPsybiSV728pXV9BO07Wp4+56uJk+BZblWLaPIeyqZZOFcv7JupN7z7vvvohOIot+37P57KiFUroPeUrHVdUmm9yJkzTFhCox2cnjkCHixhjdAgaRcLrCg+KBUV7d32ydEmwaW8VN4eGjNyMg==;rmN2uerL8kZ6/RhXNVTVQw=="
 ---

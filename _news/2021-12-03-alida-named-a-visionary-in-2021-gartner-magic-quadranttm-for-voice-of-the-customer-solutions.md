@@ -34,6 +34,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 0
+  - title: "Alida Named a Visionary in 2021 Gartner® Magic Quadrant™ for Voice of the Customer Solutions"
+    excerpt: "Alida, a leader in Total Experience Management (TXM), today announced it has been named a Visionary in the 2021 Gartner Magic Quadrant for Voice of th"
+    publishedDateTime: 2021-12-02T16:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211202005177/en/Alida-Named-a-Visionary-in-2021-Gartner®-Magic-Quadrant™-for-Voice-of-the-Customer-Solutions"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "dCDFthppa70pvtoRi22frRuagWdtIHIrzjpLqnGWSJGoQlVkFDJKY29vD1BQFZ+ZtkNgyhe99jXQyF9Gy51xYeczX/q3BtvD7K9Y5c9MOwErZ1aBi1DYK6RrIcu103UuQjugTrVAmwJLBPaeAO6ZaANjhpYyYsUCzVh9QJUpf5+y8mz9MvOgLj1aFy6hJY5CXHfLHHGK9BjYL6AhcsJkLIC+u2VyI3wlq8yCHAIDxzAjBtjjur2/EHI8m5N+SF4lpUbvrnbXqXU/sOMMj/cSx5RsQZa+CpiWVAF/6e9UNU64qzP243BAiIXPHsMDjAYu3htJvvhhWNz+MbuTM3ydsWzQFEL0Keu3HHtgQZ81swo=;+ispAY5OfIUgXM2xplrGRA=="
 ---

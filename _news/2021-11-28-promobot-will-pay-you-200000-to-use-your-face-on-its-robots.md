@@ -41,6 +41,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Robot Company Wants To Give You $200,000 For Your Face And Voice"
+    excerpt: "In an odd proposal, a Russian company is willing to pay you $200,000 if you forfeit your face and voice to help develop its next robot."
+    publishedDateTime: 2021-12-02T17:00:00Z
+    webUrl: "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/"
+    ampWebUrl: "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 61
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/12/iStock-1320626664-1024x522.jpg"
+        width: 1024
+        height: 522
+        isCached: true
 
 secured: "tpY/9FtWzDpgBXRRHDYpBnk3iMAZ/s4H2nReJ+N5IO9Ib9xr5asOt2wyrInssvfIqtFXlR+gcwW2ke0sqKBBJnSvUbWkTyqzyBTT8CgJJsw28gt3d4FlV59/uBFl2HqcVlcxQs63Mj7BvNugD7zixlIVdPjx8zVyQ066oYSe9a0Fpm7/lNW+O+XJSv8n1tqL/K5siZAM8eCfmNqmMLD7EDta+YWu6CDqLXvyTeUpX91qvm5CvgWuTGjwcpJ60nJ4Xr7H3dzdd3WnDcvf38QplJ5cFL0M4L/WXf97p3hWmdYa6aNO2fFLneG5WZuV/9MwfOvtymv91dvQOddf2R9IiKYUS63BjJvchfiyt9txdzda0eg22dpsrEu8lFmU3DV+0u2aVAhbOgQ1eVq+I570p8ehco64V4jPf7+JqUkoi2Tv5yFFJT9PuJ3/9FrxCJffzP8cxbO+/Y+t0tN29pucANy7sRoUSJ3H7w0OLPRxrmKvcC+z5liDjNap7AS7GF+Wl9BV1czZLhkSTCtHXk3MuA==;ptKcVuWNTKl7bsDmRJbaag=="
 ---

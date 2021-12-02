@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Computer Vision for Cleaning and Sports. The Ukrainian IT Company Powercode Has Entered the Persian Gulf Market With Its Oil of the 21st Century"
-excerpt: "According to a new Gartner survey, over 30% of technology companies worldwide plan to invest in artificial intelligence and computer"
-publishedDateTime: 2021-11-23T23:12:00Z
-originalUrl: "https://www.prnewswire.com/ae/news-releases/computer-vision-for-cleaning-and-sports-the-ukrainian-it-company-powercode-has-entered-the-persian-gulf-market-with-its-oil-of-the-21st-century-853668331.html"
-webUrl: "https://www.prnewswire.com/ae/news-releases/computer-vision-for-cleaning-and-sports-the-ukrainian-it-company-powercode-has-entered-the-persian-gulf-market-with-its-oil-of-the-21st-century-853668331.html"
+excerpt: "The Ukrainian IT company has entered the Persian Gulf market with its oil of the 21st century KIEV, Ukraine, Nov. 23, 2021 /PRNewswire/ -- According to a new Gartner survey, over 30% of technology companies worldwide plan to invest in artificial intelligence and computer vision technology $1 Million or more in the next two years."
+publishedDateTime: 2021-11-23T19:18:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-computer-vision-cleaning-sports-ukrainian-it-company-powercode-/2021/11/23/9498931.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-computer-vision-cleaning-sports-ukrainian-it-company-powercode-/2021/11/23/9498931.htm"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1695268/Powercode_computer_vision_technologies.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://mma.prnewswire.com/media/1695268/Powercode_computer_vision_technologies.jpg"
+    width: 400
+    height: 225
     isCached: true
 
-secured: "EOwMor10uUZ4raJ2N1lkrY8Q251YX2XmHqcLVJYg3A0/5kNXMCAGaFXAXRHU+3YBjsCdcJ6pBsDcKFEGYjhjBRI6gHyry9SQJficML88SJz+K8U9TgJKOOA1Aq/Hcv0/MJr0mzC5k/C7IpRR+ghUW5FpmscD+a4yrzp1imGLeF7k6pME/ptkK7+AujIdc7EOo+/n3fbQWw1+IJskNVC46npjZHh9gc9QEcI4mxj9t6erZc8uTHtIueKk6P9AZgBKs0xUFO+8uv0ZcrCgh8ZyPacJ3f9zizE70dqrdJ0SoosAe+ceBRGZEhgX6LwRzYMBwPCsrjFid5BKQxwp/cBxbrb2NZ1V9hsVfA7irKD1AzPc7SQtHQrt5bF7HST0gMQDIZ80+PzqrVMJ7XYLYihMRksAC3CLDVqWIJWM3+ILj4d/h36DQnZebBL3pDrFKc5VjcpPUfTlAAj51YXLcUiJH8IhOdSzlHj9mZI6THfRiZl+SrgtDI24KncaB+ICtPxJD6WczE+XEaHoddtbDYRFiw==;xWiuZEaCefCQuMkyxrv7Rg=="
+secured: "9ubVmp6Lt9NndrS4/hVsMYbbLDFszQWXDGZAiKGgx1jrhmMObL+59yPriEQEMup/rSirVbTOZSREb9D50Nr03XyPVfe6NjDofEp0TjcGghbp1ZH/BfHmagrit+Gt9lJw5WIQ4Pljc3duCwvuLfqgwwsVWDzAEfKSd8OQ7GmdBtl8pH0j8//xm9wHPwq8BAgT21OoYkkaj4fz3ftLSYuXWnCWS9Ffd5CfwQZcUh1r1SJLXF5u5lrvGsFcyLqjD/6YAfsPK2vdBeGOLJIjnUJEYsuoz19QLQZk/8LDAkSC7ciq+u9jmoXfqBZQYFaAq6h4Xr3ovbq5kSoOEFSxBwExp130/svD8/wBMBqRppteWgc=;l1SPv3HivAHPyHMZsweY8w=="
 ---
 

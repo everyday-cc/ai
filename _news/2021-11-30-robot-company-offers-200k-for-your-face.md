@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-f
 cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robot Company Wants To Give You $200,000 For Your Face And Voice"
+    excerpt: "In an odd proposal, a Russian company is willing to pay you $200,000 if you forfeit your face and voice to help develop its next robot."
+    publishedDateTime: 2021-12-02T17:00:00Z
+    webUrl: "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/"
+    ampWebUrl: "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 61
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/12/iStock-1320626664-1024x522.jpg"
+        width: 1024
+        height: 522
+        isCached: true
   - title: "Promobot will pay you $200,000 to use your face on its ROBOTS"
     excerpt: "The firm is giving the brave volunteer a whopping £150,000 ($200,000) in exchange for transferring the rights to use their face indefinitely."
     publishedDateTime: 2021-11-28T10:14:00Z

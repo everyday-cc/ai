@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-12-machine-covid-.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-machine-covid-.amp"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://dataconomy.com/wp-content/uploads/2021/12/how-artificial-intelligence-fight-long-covid.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "New system powered by deep learning makes it possible to detect COVID-19 lesions by analyzing CT chest scans"
+    excerpt: "A new automated system that involves deep learning technology enables the detection of COVID-19 lesion via the analysis of a computed tomography (CT) scan. This system, described in a study published in the journal Computers in Biology and Medicine,"
+    publishedDateTime: 2021-12-02T17:01:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936712"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 20
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/02d95561-c911-4518-ba62-c793368db480/Rendition/low-res/Content/Public"
+        width: 700
+        height: 258
         isCached: true
 
 secured: "IUVs3CBbZl/mPwJXPuNnNtDMXDvfDv9oOb7/40QJdMH8fp/vWImfZ9fitmydLvpPRafnvbIVFd5R4Ucp4MIGfKZkVR0JwqmFfm8W3MG/5DJaveq8drLrB5esD8zB8AFbh9k980h8Z4B+CG+IByFs5xfjirICeZJe03ze3PdZKLhGnDp90z7pYWF/6lxzQJCY6VroxkWs8AIRdOklwGh4nzMNo0zPH+/ygIpk6TnAkaMowiigRVCC7pJibc/cQnOhYRCYE0HV+7Jpp6kJWT6r26oodsSDF8GG8o0rqMX1hHWPeez1UtlZFnt/jPcv50ueVlpKjrtwbmH/ZRolZQ9y9Y/HJrlpFgH1n6M/C/G3UlhklJMO5iEJCkOLC42H4yHypWa+27r9QYsOrHugtw0nczUnHoVio9MxkRyL3mKJ5BNSY2D8IZXPIkAVxl239TDnIOooB0NSEbTB/t+BXyKS/bTXOFPpFfBj4RqtUI/bUm4sPLDXhwKzQMju/sz0smhQL0doY9JPBUOOT/kET0gShg==;UAf7iH4YnJYb52qrZeJc5g=="

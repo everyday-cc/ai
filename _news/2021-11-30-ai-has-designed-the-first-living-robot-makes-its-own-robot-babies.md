@@ -153,6 +153,20 @@ related:
         width: 425
         height: 331
         isCached: true
+  - title: "Scientists Unveiled the World’s First Living Robots Last Year. Now, They Can Now Reproduce"
+    excerpt: "Early last year, a team of researchers announced the world's first living machines —bundles of stem cells from African clawed frogs ( Xenopus laevis) that could be programmed to accomplish certain tasks."
+    publishedDateTime: 2021-12-02T17:16:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/scientists-unveiled-the-worlds-first-living-robots-last-year-now-they-can-now-reproduce-180979150/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 29
+    images:
+      - url: "https://th-thumbnailer.cdn-si-edu.com/2SQX_-OVgaZ-ySZDex8YhEPHaUM=/fit-in/1600x0/filters:focal(400x267:401x268)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/99/03/9903cce2-00af-41f5-a4b9-005793089c82/121_robots.jpeg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "bxwwE8aCSd0kZERKgQlw3NH89VQcKU86KT2PZ2jdecbrz6vHj/h+41Hy0fortjoY5NWVXnORUG/dRNxaa7qKtgD/UiXSUxGmEmF6jIIakT3eQa8IO+BSz+m8ecOcYdQn76J/Io2NiBefvPtf5VRJNLd4Cy5VH6+6ABXJoCbxFzscmq5T8HuyxHproTdhl38i0hinmg5mta9oVb2cThteHxfg9BpaLbG15MLGdLpjcJ2jg4wLGbmWkiDzwzWUoK8z4xiHY5T+/3K0LyAb4J2+OExJHxZiMcQIa+ElMhPKLMrW76X7FPQDROJwq3eMAfGI3yblozo2M53fObTO6mXOKG0hFceGFHDodN67GchdKxk=;xVyyIhCtcsvxnONZetgm5A=="
 ---

@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "New system powered by deep learning makes it possible to detect COVID-19 lesions by analyzing CT chest scans"
+    excerpt: "A new automated system that involves deep learning technology enables the detection of COVID-19 lesion via the analysis of a computed tomography (CT) scan. This system, described in a study published in the journal Computers in Biology and Medicine,"
+    publishedDateTime: 2021-12-02T17:01:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936712"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 20
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/02d95561-c911-4518-ba62-c793368db480/Rendition/low-res/Content/Public"
+        width: 700
+        height: 258
+        isCached: true
 
 secured: "s1C9hzgQYR5Lf6RCFE7hb3o5BJXVr8NYZqr1r/q+TfLtMHAh0ZqHasg+1uBlAyqhNk4oBXX6Id3jUaCMb27u2A6gkNdrORNCKfmZ2bwxMYvmIEfLYWaS8HBi7zY7BUnIbG8BZ9jNMgrKF5iRTH3ixXHqTTKyKBZnzJ+/8z73ISJBEJcgBLWnNZiVzI+AsrWuFw82oO/Vi+fuUU6xctLG6QEuqQE6p4HBQ8zr2xv/Kus1/AkadYcxTZfmAIzWwasHQrDxBA/ksOjPXMCzVc4D/YMKZf4w8RTEWS4La2Jj3BHXkwQXw9A8Ma6oSYnE+9fHImrKHHjSTYDsN+v6oUBdZPWC0Twg6SOZIvtw9c2xRukVLwKjAV6mZvVxaLm2eTI+EpqLHgZxpwXXvhhljaBXCwL688hRsiORZgtHIh4fBnG5Ro/yp2NV4gS0pIibcvLM0RgaeypQBBfHiMHM7831ipl2Pn43tH2qg7UkvhTH9IE3MXFPNnuYmI/DDEb7yztQ2sqjlqa06lGprdLqPBsVCA==;aq8rNeN3hXGmGE4yrO/D5w=="
 ---

@@ -99,6 +99,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "AWS Announces AWS Amplify Studio"
+    excerpt: "New visual development environment for creating rich user interfaces extends AWS Amplify to make it easier for developers to create fully customizable web applications"
+    publishedDateTime: 2021-12-02T16:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24412640/aws-announces-aws-amplify-studio"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24412640"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24412640"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "No-Code Machine Learning Services for AWS"
     excerpt: "Amazon has today announced Amazon SageMaker Canvas, a new machine learning service. The target audience here isn’t high-tech data scientists and engineers, but rather anyone working in a company with access to IT resources."
     publishedDateTime: 2021-11-30T20:20:00Z
@@ -141,6 +157,15 @@ related:
         width: 320
         height: 300
         isCached: true
+  - title: "AWS Announces AWS Cloud WAN"
+    excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Cloud WAN, a managed wide area network (WAN) service that makes it faster and easier for enterprises to build, manage, and monitor a unified global network that seamlessly connects cloud and on-premises environments."
+    publishedDateTime: 2021-12-02T17:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-aws-cloud-wan-/2021/12/02/9504034.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "l/FZ3Bo3kHentdPqiKouiWExIgzJfWYx3sTxURQwkt+G5PrOqKai6K+9i5stMgdzp5ldEiCC3Ax6vFeXXpKcbL76v4QfgIihlm0B5Woy1gXTLM70/6oOSsqknTw9GtDqXcsOc9y4x91pwzqtpDFFupnqI2cuZIdSnFh8htO6WDRz5Md7LWiFgu286Ybrrl0/CKCvStbLl4pEhaBLfx2JnhKd+Ath7BH12ElsDxpHtc2Gi81+40ZO6rXH8EoLedy6FM6iLhuDFEiT0FeNCamMsjkS/PetiRT21A/ygmkLaHzN7mSEOMG3aJ82qIKV3jG+TKKx1DPW4duhFow7uJXOO9mVrBUn14AaN7DnlgVnFsU=;Zqmafj6apYF2TFJKQJbUJw=="
 ---

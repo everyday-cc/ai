@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/12/01/meeting-expectations-key-focus
 webUrl: "https://siliconangle.com/2021/12/01/meeting-expectations-key-focus-aws-machine-learning-ai-keynote-reinvent-reinvent/"
 type: article
 quality: 64
-heat: 95
+heat: 94
 published: true
 
 provider:

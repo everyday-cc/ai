@@ -287,7 +287,7 @@
       "originalUrl": "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -515,19 +515,19 @@
     {
       "path": "_news/2021-11-24-computer-vision-for-cleaning-and-sports-the-ukrainian-it-company-powercode-has-entered-the-persian-gulf-market-with-its-oil-of-the-21st-century.md",
       "title": "Computer Vision for Cleaning and Sports. The Ukrainian IT Company Powercode Has Entered the Persian Gulf Market With Its Oil of the 21st Century",
-      "excerpt": "According to a new Gartner survey, over 30% of technology companies worldwide plan to invest in artificial intelligence and computer",
+      "excerpt": "The Ukrainian IT company has entered the Persian Gulf market with its oil of the 21st century KIEV, Ukraine, Nov. 23, 2021 /PRNewswire/ -- According to a new Gartner survey, over 30% of technology companies worldwide plan to invest in artificial intelligence and computer vision technology $1 Million or more in the next two years.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/ae/news-releases/computer-vision-for-cleaning-and-sports-the-ukrainian-it-company-powercode-has-entered-the-persian-gulf-market-with-its-oil-of-the-21st-century-853668331.html",
-      "originalUrl": "https://www.prnewswire.com/ae/news-releases/computer-vision-for-cleaning-and-sports-the-ukrainian-it-company-powercode-has-entered-the-persian-gulf-market-with-its-oil-of-the-21st-century-853668331.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-computer-vision-cleaning-sports-ukrainian-it-company-powercode-/2021/11/23/9498931.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-computer-vision-cleaning-sports-ukrainian-it-company-powercode-/2021/11/23/9498931.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1695268/Powercode_computer_vision_technologies.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
+          "url": "https://mma.prnewswire.com/media/1695268/Powercode_computer_vision_technologies.jpg",
+          "width": 400,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -537,11 +537,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T15:12:00-08:00",
+      "publishedDateTime": "2021-11-23T11:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

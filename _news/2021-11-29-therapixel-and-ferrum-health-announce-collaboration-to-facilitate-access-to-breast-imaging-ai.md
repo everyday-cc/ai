@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/therapixel-and-fer
 webUrl: "https://markets.businessinsider.com/news/stocks/therapixel-and-ferrum-health-announce-collaboration-to-facilitate-access-to-breast-imaging-ai-1031008692"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 86
+published: true
 
 provider:
   name: Business Insider
@@ -42,6 +42,24 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "CVS Health and Microsoft Announce New Strategic Alliance to Reimagine Personalized Care and Accelerate Digital Transformation"
+    excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions to help consumers improve their health, while empowering over 300,"
+    publishedDateTime: 2021-12-02T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cvs-health-microsoft-announce-new-strategic-alliance-reimagine-/2021/12/02/9503702.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "CVS Health and Microsoft Announce New Strategic Alliance to Reimagine Personalized Care and Accelerate Digital Transformation"
+    excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions to help consumers improve their health, while empowering over 300,"
+    publishedDateTime: 2021-12-02T18:01:00Z
+    webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/02/9503702.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "/rOztsJW89Enu7VfW75Ie1Nx7X4s2HtHstu8PoNC9fyJvIzUDopAwpG3/AkHY0xNK5XNAvltILqZLHM5/dNB9u6/pHJ2z9ZsV+MkMr+7aNg0MkMM1fOD43nqlGJ2hLM+SjKstOAmYSrkdYceK8wRu0EOmsJEyh0Fw0QLVG9hzPjA/gewFwYn0x2+Q6OTU9VqS4NOqPJ48wNpAZtoRpL+BAYMquItRs+Ohgo2VR1CfzDI896oZLf2y6WweP4aqbAXcNcG6IWIKBLyT3ycsB7BlNL+XeGtpntBfVk/Qaj5yz9RDCAILJSVqWw5SR2G74O/Thg88WJicu1zmUPOCMCqL577gUFm8IuUNkSHWpHsbQgG/D9BJAQ/4WVZNLkdw1Zc2S/oto4Bx86kPKT3L5B4xQB4uV4VdWck3KKwb1bDKQ+4S5qtv5Puhpu1bpNcCJkmKzSnhEtL8yz1Qv+bgfPO89VeoMdVPzw/d+1olHCLUETjTdS+MSmlXbEN8HIPWcanJJhdO+shm2H3ywOkMSKoWA==;/f7DxHDJsgtkhApU1h3PCA=="
 ---
