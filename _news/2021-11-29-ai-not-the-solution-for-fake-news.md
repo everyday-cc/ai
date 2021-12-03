@@ -25,22 +25,6 @@ images:
 
 related:
   - title: "Artificial intelligence may not actually be the solution for stopping the spread of fake news"
-    excerpt: "Artificial intelligence is becoming increasingly sophisticated. But we’re still a long way off from AI being able to discern what’s fake news."
-    publishedDateTime: 2021-11-28T12:05:00Z
-    webUrl: "https://theconversation.com/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-172001"
-    ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-172001"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-172001"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 46
-    images:
-      - url: "https://images.theconversation.com/files/433777/original/file-20211124-15-o3hamt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
-  - title: "Artificial intelligence may not actually be the solution for stopping the spread of fake news"
     excerpt: "Disinformation has been used in warfare and military strategy over time. But it is undeniably being intensified by the use of smart technologies and social media. This is because these communication technologies provide a relatively low-cost,"
     publishedDateTime: 2021-11-29T13:50:00Z
     webUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.html"

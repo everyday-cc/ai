@@ -2,6 +2,58 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-11-08-fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round.md",
+      "title": "Fidelity, Visa and Kingsway back South African fintech JUMO in $120M round",
+      "excerpt": "JUMO, a South Africa- and London-based company that offers financial services to entrepreneurs and businesses in emerging markets, has raised $120 million in a new round of funding led by Fidelity Management & Research Company.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/",
+      "originalUrl": "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/09/Andrew-Watkins-Ball-JUMO2.jpg?w=900",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/fidelity-visa-and-kingsway-back-south-african-fintech-jumo-in-120m-round/amp/",
+      "publishedDateTime": "2021-11-08T00:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-symblai-provider-of-conversational-intelligence-apis-and-tools-gets-17m.md",
       "title": "Symbl.ai, provider of conversational intelligence APIs and tools, gets $17M",
       "excerpt": "Communication platform-as-a-service startup Symbl.ai raised $17 million in series A funding to develop its conversational AI tools.",
@@ -1121,40 +1173,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-microsoft-releases-azure-open-ai-service-including-access-to-powerful-gpt-3-models.md",
-      "title": "Microsoft Releases Azure Open AI Service Including Access to Powerful GPT-3 Models",
-      "excerpt": "At its recent Ignite conference, Microsoft announced the new Azure OpenAI Service in preview, allowing access to OpenAI’s API through the Azure platform. This new Azure Cognitive Service will give customers access to OpenAI’s powerful GPT-3 models,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/11/azure-openai-service-gpt3/?topicPageSponsorship=28e8ee01-780d-4a8b-a80a-e83395bce1a2&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops",
-      "originalUrl": "https://www.infoq.com/news/2021/11/azure-openai-service-gpt3/?topicPageSponsorship=28e8ee01-780d-4a8b-a80a-e83395bce1a2&itm_source=presentations_about_Devops&itm_medium=link&itm_campaign=Devops",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.amp"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence may not actually be the solution for stopping the spread of fake news"
-    excerpt: "Artificial intelligence is becoming increasingly sophisticated. But we’re still a long way off from AI being able to discern what’s fake news."
-    publishedDateTime: 2021-11-28T12:05:00Z
-    webUrl: "https://theconversation.com/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-172001"
-    ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-172001"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-172001"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 46
-    images:
-      - url: "https://images.theconversation.com/files/433777/original/file-20211124-15-o3hamt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
   - title: "AI, not the solution for fake news"
     excerpt: "Technology companies and social media enterprises are working on the automatic detection of fake news through natural language processing, machine learning and network analysis. The idea is that an algorithm will identify information as “fake news,"
     publishedDateTime: 2021-11-29T08:09:00Z

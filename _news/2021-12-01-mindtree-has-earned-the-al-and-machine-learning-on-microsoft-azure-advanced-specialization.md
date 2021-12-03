@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-excerpt: "Partners with the AI and Machine Learning on Microsoft Azure advanced specialization can give organizations the tools and knowledge to develop AI solutions on their terms, build AI into their ..."
-publishedDateTime: 2021-12-01T10:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434822.html"
-webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434822.html"
+excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
+publishedDateTime: 2021-12-01T14:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
 type: article
 quality: 61
 heat: -1
@@ -176,6 +176,6 @@ related:
         height: 600
         isCached: true
 
-secured: "9jmt+lz/t6Q5Dcj4NBlJE1I+iF+TMfEQohsAy+OuXFTiFltUNbDGuywbUeyLJDavFXBkmhN4eVZjGl9uildKShKSThFgzwPVJwu1bzrNgZ1c1ToJ9Sz/2/Tn/4OBCAnquSfJngVysaS6ffqmFY3UYxxi+VdKoXBzZaOBN3FmRP0Gq+gbnY35Vw6FkiBmfkGM4a91fq/y20ztaSzpt5W7YswB8AAvQ8BEBjZWfkrnbRJSD0jIxg3m+IHDMAeiV7Z3G/Y2orG0Iws/YSGsEgvpFD/2V5vkMYLikfQgnTJHbjYCv6QnfVgK/aVKaoaS/BNX/5DlhsXTe7i8OnRYX5oRBWkbi/nE6WX7GeNVF8nTuPE=;Q7jwnTFSRCrWK5fIpv/8/w=="
+secured: "D+qSO4ZhTIZBpMf4iAlTWFPm0ZLGIqAgc0R7MiHkmfokQiY3ImCrb14hCOhYkGY9ywcbu94L3qYYJDHhTI+RdMte/WUrbEd+uBDT+LdJbldPew7CsQXcuuaWwkPMzQ+3oRWNQuxAjpKt2UFYSPg7sLQk2i9hRmR8X0vboWoCfMJOD6nnumbPg92ORPd5NT7O0aA6UDtQduHZsSAUvLe0eJtYPFj2VI6bW1P7rJ1pb7YVmthYb31KNdVjiYH6NT+qBLHWvoYlZs2rbwvTXrxuHRS59ORizRqnWCmImASlQ7YYRy+2kRc5Z8Zc/k1DhminqY31s3hNDBBMcDQR1kaiv/Cl4+1iawCbvDDa2xGGrsY=;SC7GKcBbnHaNU7SHw0Pu1w=="
 ---
 
