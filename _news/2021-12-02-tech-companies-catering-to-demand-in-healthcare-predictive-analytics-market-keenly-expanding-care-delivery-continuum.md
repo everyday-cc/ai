@@ -27,48 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Continuously improve search application effectiveness with Amazon Kendra Analytics Dashboard"
-    excerpt: "Unstructured data belonging to enterprises continues to grow, making it a challenge for customers and employees to get the information they need. Amazon Kendra is a highly accurate intelligent search service powered by machine learning (ML). It helps you easily find the content you’re looking for, even"
-    publishedDateTime: 2021-12-01T18:26:09Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/continuously-improve-search-application-effectiveness-with-amazon-kendra-analytics-dashboard/"
+  - title: "Predicting The Future Of Demand: How Amazon Is Reinventing Forecasting With Machine Learning"
+    excerpt: "Through a comprehensive predictive model built entirely on the cloud, Amazon.com is using data to make better decisions, streamline operations, and deliver winning consumer experiences."
+    publishedDateTime: 2021-12-03T18:40:00Z
+    webUrl: "https://www.forbes.com/sites/amazonwebservices/2021/12/03/predicting-the-future-of-demand-how-amazon-is-reinventing-forecasting-with-machine-learning/"
+    ampWebUrl: "https://www.forbes.com/sites/amazonwebservices/2021/12/03/predicting-the-future-of-demand-how-amazon-is-reinventing-forecasting-with-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/12/03/predicting-the-future-of-demand-how-amazon-is-reinventing-forecasting-with-machine-learning/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 63
+      name: Forbes
+      domain: forbes.com
+    quality: 78
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa727b8782af36a8644f5a%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Quickly build custom search applications without writing code using Amazon Kendra Experience Builder"
-    excerpt: "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content repositories"
-    publishedDateTime: 2021-12-01T18:19:02Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/quickly-build-custom-search-applications-without-writing-code-using-amazon-kendra-experience-builder/"
+  - title: "A comprehensive review on fake news detection with deep learning"
+    excerpt: "A protuberant issue of the present time is that, organizations from different domains are struggling to obtain effective solutions for detecting online-based fake news. It is quite thought-provoking to distinguish fake information on the internet as it is often written to deceive users."
+    publishedDateTime: 2021-12-02T13:59:00Z
+    webUrl: "https://www.bibsonomy.org/bibtex/186ec2b4bc68c7a9c9c977b5d70860153"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 59
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
-  - title: "Enrich your content and metadata to enhance your search experience with custom document enrichment in Amazon Kendra"
-    excerpt: "Amazon Kendra customers can now enrich document metadata and content during the document ingestion process using custom document enrichment (CDE). Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines search for your websites and applications so your"
-    publishedDateTime: 2021-12-01T18:26:20Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enrich-your-content-and-metadata-to-enhance-your-search-experience-with-custom-document-enrichment-in-amazon-kendra/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 52
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
+      name: BibSonomy
+      domain: bibsonomy.org
+    quality: 19
 
 secured: "oRffVe1DnpVdoj8dkmgeXldTuYalIWmTwfyv3FJa/P45KAxql5j1437yTMT/XURDidd5VUCXA4PimjUKwMFkAC5b+FqLmmGMfvTNyN3HDrXPqbtcVSA1WQQoTwiINQINmNRgPU5vfbjsfBmMQXcmCFkrYBtV+C8PNq88O238HtW4bDet+NOmO7tiVlBEn7qh9WGk3Z/HNBHKtBGt1iHrdL1WyvZyYc0uJI7c2zNWmR84BEVVwHD98PhRAZQ7vhUW/UjX7vx6avWizbJJF2KqEI76BdMURTvWV5GGgUkuHWMyxGhpzti9jgBMUEhVqcEuO59eIxvLZnE862XivToGO15eBOk10UdsHeG2wrYKUQs=;rmjEmNErh4klTVeEcZSgDg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/30/aws-gets-a-no-code-ml-service/amp/
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-gets-a-no-code-ml-service/amp/"
 type: article
 quality: 108
-heat: 218
+heat: 198
 published: true
 
 provider:
@@ -97,22 +97,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "AWS Announces AWS Cloud WAN"
-    excerpt: "New managed WAN service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises"
-    publishedDateTime: 2021-12-02T16:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24412664/aws-announces-aws-cloud-wan"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24412664"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24412664"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "No-Code Machine Learning Services for AWS"
     excerpt: "Amazon has today announced Amazon SageMaker Canvas, a new machine learning service. The target audience here isn’t high-tech data scientists and engineers, but rather anyone working in a company with access to IT resources."
     publishedDateTime: 2021-11-30T20:20:00Z
@@ -183,15 +167,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "AWS Announces AWS Amplify Studio"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Amplify Studio, a new visual development environment that allows developers to create web application user interfaces (UIs) with minimal coding,"
-    publishedDateTime: 2021-12-02T21:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211202005810/en/AWS-Announces-AWS-Amplify-Studio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "p5PgDb/RE1iy8Rdw/w/1U1ZsojBZKvaQDIRUfklqJxkg//M7nVhNehkv5KtgIbgRWLKOMJWUe4E3L8BvlPO+MBMNwqjd7JZfw4pRksFZ2IZQiE3A6uUcCyyz4u1UVE9Pb4MgkWNZYb7ZXiwLKW5QsUrbYPGToCorbPJ4ZJuIWOLGwpN7w1B2pEYqdQuFr0qGW8sZMhgxTyXcQpBbTki8fEc3v/JIadEqLWuuSeijbGjFZml8oYzQQHQ4+TpFNRJhgNKWUJP2PAOprNP3/aB2K9HCDN09k8tOwc9J8EYrpF7BQvuajGaqxJQLWTOw2QczU7x5yTbo0Ol5TTiuZdvxIPqNFshB45sJrJ3b7f1aFeh3RCsBnH63p+EyIpFgmKnNu+Go1Jic7qJjEwwuQwkW6hgNrrXUYcEtNxnmlyCcALvew8HtdUiZCAA9C121TaM5nufSGLAJpPMkqdmXHT9It2LBlXgMJB/mNFNAlljUXH0o1w6o8ZEEXVcE3r+TY/d/4S1qUlTie4GbP9lvnL879g==;wBwYyffq2sCB0h4fT7BrJg=="
 ---

@@ -65,6 +65,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "US government sues to block $40 billion Nvidia-Arm chip deal"
+    excerpt: "The Federal Trade Commission has sued to block graphics chip maker Nvidia’s $40 billion purchase of chip designer Arm."
+    publishedDateTime: 2021-12-03T19:43:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article256295257.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article256295257.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article256295257.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 39
 
 secured: "/BdsBO5AQX7ftxS4WAF1Nuu121xWhEgql1gbpooKooA2SSjcOsHsmWuUoSd68mabuj9itgQE7JJGvNJcerP/KGTFt8W6gy9NbQRpRBalL4eUp+kXtQO/fDVot7SBcK82+aa06ccKkVs5n+r9JEvqCu8w0CvCdKE8ZMFvDxUJYTzYu1cZtIy1pu71Aer5LKJ1dU/Y7dQmPpwB9r+GylZhdDPjOf4Enqt4wI626zRFOdv30VCb9y8XzfweAcO2y+MSM8QZRtKMwoSFJzWB7vsh7ueGybXuxRfNa//QTZ5C2kL0DtH62mkI1XvPNsfSoXm3cdZsPlvCVm0GWV+eJ4NfMZPA9rApaiosLXEFYAQARDo=;4IXwM29HyWNzM4n2NpcwQA=="
 ---

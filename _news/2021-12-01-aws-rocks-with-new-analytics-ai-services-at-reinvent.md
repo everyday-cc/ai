@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Top 12 AI and machine learning announcements at AWS re:Invent 2021"
+    excerpt: "Invent 2021 conference, Amazon announced a slew of new Amazon Web Services features powered by AI and machine learning."
+    publishedDateTime: 2021-12-03T19:30:00Z
+    webUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/"
+    ampWebUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 121
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AWS re:Invent: Faster chips, smarter AI, and developer tools grab the spotlight"
     excerpt: "Invent conference, an event where it typically announces the biggest changes in the cloud computing industry’s dominant platform. This year’s news includes faster chips, more aggressive artificial intelligence,"
     publishedDateTime: 2021-11-30T18:05:00Z
@@ -73,6 +89,20 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "AWS Announces Scholarship Program For Their AI And ML courses"
+    excerpt: "Students who take part in the DeepRacer Student League will be eligible for a chance to win 2,500 annual scholarships from Udacity,"
+    publishedDateTime: 2021-12-03T06:56:00Z
+    webUrl: "https://analyticsindiamag.com/aws-announces-scholarship-program-for-their-ai-and-ml-courses/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/aiml_scholarship_program_featured.png"
+        width: 812
+        height: 400
+        isCached: true
   - title: "AWS re:Invent 2021 keynote live blog: All the latest news, announcements and more"
     excerpt: "Invent 2021 to report on the latest news, announcements, partner showcases and more from Amazon Web Services' annual event. Amongst the highlights from yesterday are the launch of Graviton3, the most powerful CPU launched by AWS yet,"
     publishedDateTime: 2021-11-30T15:25:00Z
@@ -86,6 +116,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/2idsF7Q9EqPcYWnwzgwtoF-1200-80.jpg"
         width: 971
         height: 545
+        isCached: true
+  - title: "Meeting expectations a key focus for AWS in machine learning/AI keynote at re:Invent"
+    excerpt: "Invent 2021 kicked off with a two-hour presentation on the company’s initiatives in machine learning and artificial intelligence. In typical style for the public cloud giant, the approach taken by presenting executives was to level-set customer expectations and then show precisely how Amazon Web Services Inc."
+    publishedDateTime: 2021-12-01T22:27:00Z
+    webUrl: "https://siliconangle.com/2021/12/01/meeting-expectations-key-focus-aws-machine-learning-ai-keynote-reinvent-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 64
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/AWS-reInvent-2021-Keynote-Day-3.jpg"
+        width: 833
+        height: 482
         isCached: true
   - title: "In-Person AWS re:Invent 2021 is Back!"
     excerpt: "Invent 2021 developer conference returns Las Vegas from November 30 through December 3. In-person attendance sold out quickly."
@@ -102,6 +146,38 @@ related:
       - url: "https://www.storagereview.com/wp-content/uploads/2021/11/2021_reInvent_Event-Site.png"
         width: 781
         height: 300
+        isCached: true
+  - title: "AWS Announces AWS Cloud WAN"
+    excerpt: "New managed WAN service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises"
+    publishedDateTime: 2021-12-02T16:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24412664/aws-announces-aws-cloud-wan"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24412664"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24412664"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "AWS re:Invent 2021: Keynote live - heroes bowed, clouds endowed & crowds allowed"
+    excerpt: "Invent 2021 is big… but actually it’s not, this event has about a third of its normal number of attendees with somewhere around 20,000 people on-site, which (in the continuing Covid-19 era) still feels very crowded."
+    publishedDateTime: 2021-11-30T13:22:00Z
+    webUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-reInvent-2021-Keynote-live-heroes-bowed-clouds-endowed-crowds-allowed"
+    ampWebUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-reInvent-2021-Keynote-live-heroes-bowed-clouds-endowed-crowds-allowed?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/AWS-reInvent-2021-Keynote-live-heroes-bowed-clouds-endowed-crowds-allowed?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
+    images:
+      - url: "https://itknowledgeexchange.techtarget.com/cwdn/files/2021/11/111-1.jpg"
+        width: 580
+        height: 375
         isCached: true
   - title: "ElectrifAi Announces MLaaS and SpendAi at AWS re:Invent 2021"
     excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
@@ -130,6 +206,22 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFTpxCuJ0-E1A/article-cover_image-shrink_720_1280/0/1638537981050?e=1643846400&v=beta&t=xCBkkxlgdenBM-tuYCoT5I6Ifqxot4PoxcMNdwHP_lw"
         width: 1079
         height: 720
+        isCached: true
+  - title: "Hyperscalers don't appreciate the needs of SMBs - what should AWS be doing at re:Invent?"
+    excerpt: "When surveying cloud adoption, nowhere is the distinction so stark as between large enterprises (those with more than 500 or 1,000 employees) and SMBs (those with fewer than 500 employees). With AWS re:Invent upon us,"
+    publishedDateTime: 2021-11-29T10:22:00Z
+    webUrl: "https://diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent"
+    ampWebUrl: "https://diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/hyperscalers-dont-appreciate-needs-smbs-what-should-aws-be-doing-reinvent?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 50
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2021-10/D5C71572-4813-4A9B-8652-32DC6B1AD682.jpeg"
+        width: 640
+        height: 422
         isCached: true
   - title: "New AWS CEO Selipsky unveils new AWS services at Re:Invent"
     excerpt: "While a few new services announcements were made Monday at the Global Partner Summit, the CEO keynote got the lion’s share, including ones like new Graviton3 ARM chips and related C7g Instance for"
@@ -201,6 +293,43 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Adam Selipsky charts his own path as CEO in first AWS re:Invent keynote"
+    excerpt: "Selipsky announced general availability for Amazon SageMaker Canvas, a no-code solution targeted for an audience with little machine learning experience. “We’re focused on building out all the ..."
+    publishedDateTime: 2021-11-30T21:07:00Z
+    webUrl: "https://siliconangle.com/2021/11/30/adam-selipsky-charts-path-ceo-first-aws-reinvent-keynote/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/selipskyreinvent2021-2.jpg"
+        width: 3735
+        height: 2514
+        isCached: true
+  - title: "AWS Announces AWS Private 5G"
+    excerpt: "Invent, Amazon Web Services (News - Alert), Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Private 5G, a new"
+    publishedDateTime: 2021-11-30T20:22:00Z
+    webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/11/30/9501903.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 39
+    images:
+      - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
+        width: 1577
+        height: 1050
+        isCached: true
+  - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
+    publishedDateTime: 2021-12-01T18:34:00Z
+    webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible-2/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 35
   - title: "The Future of Artificial Intelligence, Cloud Computing, and Digital Twins: Highlights from AWS re: Invent 2021"
     excerpt: "Invent celebrated its 10th year this year by welcoming visitors back to an in-person event, following last year’s fully virtual event. It also marked the 15th anniversary of the launch of Amazon Web Services itself."
     publishedDateTime: 2021-12-02T13:33:00Z
@@ -215,6 +344,66 @@ related:
         width: 1079
         height: 720
         isCached: true
+  - title: "Advancements Series to Explore Recent Developments in Artificial Intelligence and Data"
+    excerpt: "Scheduled to broadcast Spring/2022, an upcoming episode of Advancements with Ted Danson will focus on developments in machine learning, artificial intelligence, and data optimization. This segment of Advancements will explore how a"
+    publishedDateTime: 2021-11-29T15:11:00Z
+    webUrl: "https://www.lelezard.com/en/news-20129709.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 31
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Adam Selipsky Keynote | re:Invent 2021 Recap"
+    excerpt: "Topic Adam Selipsky, AWS CEO, takes the stage to share his insights and the latest news about AWS customers, products, and services. Observations Newbie, Adam Selipsky, gave us his first re:Invent keynote at this year's 10th-anniversary conference,"
+    publishedDateTime: 2021-12-01T10:33:00Z
+    webUrl: "https://www.linkedin.com/pulse/adam-selipsky-keynote-reinvent-2021-recap-jason-oliver"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHF0ZZYadax3g/article-cover_image-shrink_720_1280/0/1638307143591?e=1643846400&v=beta&t=V48DnsEa7CUJtlqWL6OzMNu2-I40b7vJTxHYxe3D3VY"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Swami Sivasubramanian Keynote | re:Invent 2021 Recap"
+    excerpt: "Topic Join Swami Sivasubramanian, Vice President, Amazon Machine Learning, to explore what it takes to put data in action with an end to end data strategy, including the latest news on databases, analytics,"
+    publishedDateTime: 2021-12-01T22:07:00Z
+    webUrl: "https://www.linkedin.com/pulse/swami-sivasubramanian-keynote-reinvent-2021-recap-jason-oliver"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHuk2y6zq4zGQ/article-cover_image-shrink_720_1280/0/1638387314079?e=1643846400&v=beta&t=dXuxOdS83D_k-zVLCPGQE6N2-dxV4sOMBn09YK7ExEk"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AWS Announces AWS Amplify Studio"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Amplify Studio, a new visual development environment that allows developers to create web application user interfaces (UIs) with minimal coding,"
+    publishedDateTime: 2021-12-02T21:33:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211202005810/en/AWS-Announces-AWS-Amplify-Studio"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
+  - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by AWS-designed chips that help customers significantly improve the performance,"
+    publishedDateTime: 2021-11-30T16:41:00Z
+    webUrl: "https://www.heraldstandard.com/business_ap/aws-announces-three-new-amazon-ec2-instances-powered-by-aws-designed-chips/article_3dc0a993-62f3-5458-a08f-9e4fe07499f7.html"
+    type: article
+    provider:
+      name: The Herald-Standard
+      domain: heraldstandard.com
+    quality: 17
   - title: "Top news from re:Invent keynotes"
     excerpt: "Invent keynote given by new CEO Adam Selipsky followed the familiar format and provided totally new services and expected updates to existing ones. No surprise that there were surprises! Adam took us back the 15 years of AWS from the beginnings of S3 early EC2 instances and important launches over the years."
     publishedDateTime: 2021-12-01T14:09:00Z

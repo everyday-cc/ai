@@ -85,15 +85,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by AWS-designed chips that help customers significantly improve the performance,"
-    publishedDateTime: 2021-11-30T16:41:00Z
-    webUrl: "https://www.heraldstandard.com/business_ap/aws-announces-three-new-amazon-ec2-instances-powered-by-aws-designed-chips/article_3dc0a993-62f3-5458-a08f-9e4fe07499f7.html"
-    type: article
-    provider:
-      name: The Herald-Standard
-      domain: heraldstandard.com
-    quality: 17
 
 secured: "ynTDU1vnqzQlw7FXhBhyZkk2SFBkOZb9Z82QZbes/62wMajpRGUKEOHob8e0g3h49ZIuIt1rUu5rtr7XLgfOg3ueAyF7Z+AITF7MP8yFUC2UNtXW+Kb0Zc01DVgIG+kW9dDHe/wzedY8tlTUARl+1PxXBRfEx56M1s3uK/O8cbory7W9oOO6ZkVJHdKkq2F8IyYM1++2Mcn2mu6CUtRWxk2IKqjI6alnZ+3oCHaZm1xbYyFTf+69rWS69IdUhEXbY/4h+9gcS4uW7y3du3QromjTR+vG2qLCbLt0mF73jUDcwqeHgCrfivYwjNrt0lrGYrAGYJcjOcoBKgTyLGHXhpxuAa/Z6rlMs4VGU6Wsdxs=;xH8XyGI2yqyHPDVMmAe6cA=="
 ---

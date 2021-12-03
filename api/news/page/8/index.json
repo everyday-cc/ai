@@ -2,91 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-11-27-analysis-of-mental-and-physical-disorders-associated-with-covid-19-in-online-health-forums-a-natural-language-processing-study.md",
-      "title": "Analysis of mental and physical disorders associated with COVID-19 in online health forums: a natural language processing study.",
-      "excerpt": "Online health forums provide rich and untapped real-time data on population health. Through novel data extraction and natural language processing (NLP) techniques, we characterise the evolution of mental and physical health concerns relating to the COVID-19 pandemic among online health forum users.",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/34740937",
-      "originalUrl": "https://europepmc.org/article/MED/34740937",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-26T23:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-hondas-new-safety-target-focuses-on-ai-powered-technology.md",
-      "title": "Honda’s New Safety Target Focuses On AI-Powered Technology",
-      "excerpt": "Honda’s AI-powered driver assistance technology, which was revealed this week in Japan, checks a driver’s actions and health by using a cockpit-mounted camera and sensors. Honda reported it is proposing to incorporate its world-first technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/",
-      "originalUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a1ab6806761cd8fb70c192%2F0x0.jpg",
-          "width": 900,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2021/11/26/hondas-new-safety-target-focuses-on-ai-powered-technology/amp/",
-      "publishedDateTime": "2021-11-26T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-27-microsoft-launches-fully-managed-azure-load-testing-service.md",
       "title": "Microsoft launches fully managed Azure Load Testing service",
       "excerpt": "Microsoft has launched a fully managed load testing service for Azure, helping QA testers and developers optimize their app's performance.",
@@ -571,8 +486,8 @@
       "title": "Artificial Intelligence Ethics Agreement adopted by 193 countries",
       "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
       "sourceUrl": null,
-      "webUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
-      "originalUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
+      "webUrl": "https://www.bna.bh/en/National/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
+      "originalUrl": "https://www.bna.bh/en/National/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -591,7 +506,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T23:07:00-08:00",
+      "publishedDateTime": "2021-11-25T23:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "bna.bh",
@@ -1169,6 +1084,92 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users.md",
+      "title": "MediaTek fixes vulnerability on its chips allowing certain apps to listen users",
+      "excerpt": "MediaTek went from a controversial chipmaker to one of the most relevant in the last years. The Dimensity lineup brought the Taiwanese chipmaker big achievements",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/",
+      "originalUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/11/MediaTek-Dimensity-2232-1024x576.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/",
+      "publishedDateTime": "2021-11-25T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-hire-mobile-app-developers-in-england.md",
+      "title": "Hire Mobile App Developers in England",
+      "excerpt": "Hire the best freelance Mobile App Developers in England on Upwork™, the world’s top freelancing website. It’s simple to post your job and we’ll quickly match you with the top Mobile App Developers in England for your Mobile App Development project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upwork.com/hire/mobile-app-developers/england-gb/",
+      "originalUrl": "https://www.upwork.com/hire/mobile-app-developers/england-gb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Upwork",
+        "domain": "upwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     }

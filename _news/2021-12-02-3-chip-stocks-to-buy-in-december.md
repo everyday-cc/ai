@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/400214"
 webUrl: "https://www.entrepreneur.com/article/400214"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-400662.jpeg"
         width: 2560
         height: 1707
+        isCached: true
+  - title: "6 Best Identity Theft Protection Services of December 2021"
+    excerpt: "Identity theft protection services can provide the help you need if your data has been compromised. These services monitor your personal information, credit files and the web, alerting you to any suspicious or fraudulent activity."
+    publishedDateTime: 2021-12-03T18:06:00Z
+    webUrl: "https://www.stltoday.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-december-2021/article_c33bf5be-4b4d-56c5-bf23-60f82c8a64f4.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/38/d3804c59-fba1-5804-9dd1-6d5acacfb720/61aa718ba7be7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "V6TtlngkpQau5iqmUGFgRXAlLQIja+457kHSDA9asVGrMZPGvpAicVawLCncWHsC2yNjghBujDsRC8zPK9mUIyJz9RmRxyFxRw1+/OE57O4aQcekPbHHqy+xGkQVnMxeL54a0w/6LRdZJzx7R4J8xcfE6glBORGIm4/gafX6UwbMpQFr1KW84prccp7XFN5HVXZPyfqTAjkpMloNfWdROlWya7vzsoMosYj+xsz0mLZEYzQ0rVKsnGriurCN7Bp/WTGAO4sDEW4yIEO23s92HAVpHnNJfREC1tWarg4xU+ap/0KgMvBp5UFkwoPmdeQ412c6AWdsaUPOfNcWYK6ZYrzdcryd85DLcgnFGabTuf4=;plrgBa+jgXNVCb7oeu8NVw=="

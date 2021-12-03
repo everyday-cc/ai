@@ -57,22 +57,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "Tech Companies Catering to Demand in Healthcare Predictive Analytics Market Keenly Expanding Care Delivery Continuum"
-    excerpt: "Proponents of value-based health care are growing their bets on the capabilities of predictive analytics and the underlying AI algorithms. The past few years have witnessed an enormous body of study on making clinical prediction models useful in improving the health care delivery across the continuum."
-    publishedDateTime: 2021-12-01T18:40:00Z
-    webUrl: "https://techbullion.com/tech-companies-catering-to-demand-in-healthcare-predictive-analytics-market-keenly-expanding-care-delivery-continuum/"
-    ampWebUrl: "https://techbullion.com/tech-companies-catering-to-demand-in-healthcare-predictive-analytics-market-keenly-expanding-care-delivery-continuum/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/tech-companies-catering-to-demand-in-healthcare-predictive-analytics-market-keenly-expanding-care-delivery-continuum/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 36
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/12/ezgif.com-gif-maker-4.jpg"
-        width: 960
-        height: 640
-        isCached: true
 
 secured: "RAe7OmF+gO2fE05z/dG+BvDygh/Dv4hAOoIlJ5vysaCVUKVzmTjVS0XCtqwJchdfwFV6nuRPIexFAhbY+EbqaFFvENbjPi90uQGUUTBirbzb+GIztvAQtTmClb9SFI6bvoYwhzdQ9UkKOaJLiSt8lNLXwj4BIav7v0OYpX4Cd2meJJAytvnmr8HBC+8/uVaki5FjeqqwNt6W7BANYGkWSYFQ+ImzIluiFjVlS8uBhMMEOt1FV1JQChWx8YJG1d0AhP8e+20kvyJiqSywesK/tPtAKXDsq3vb5+hMnLr+pHKil7HUEHeUcINO8Bxjz5SpYDNZxdZLXIhaTTzv+F08IurcFfrGQBYa0RBCByTG0kQ=;pAGPAUbLsw1X22l3igqfbg=="
 ---

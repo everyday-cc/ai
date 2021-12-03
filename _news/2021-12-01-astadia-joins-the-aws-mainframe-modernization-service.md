@@ -105,22 +105,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "AWS Announces AWS Cloud WAN"
-    excerpt: "New managed WAN service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises"
-    publishedDateTime: 2021-12-02T16:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24412664/aws-announces-aws-cloud-wan"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24412664"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24412664"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "No-Code Machine Learning Services for AWS"
     excerpt: "Amazon has today announced Amazon SageMaker Canvas, a new machine learning service. The target audience here isn’t high-tech data scientists and engineers, but rather anyone working in a company with access to IT resources."
     publishedDateTime: 2021-11-30T20:20:00Z
@@ -177,15 +161,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "AWS Announces AWS Amplify Studio"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Amplify Studio, a new visual development environment that allows developers to create web application user interfaces (UIs) with minimal coding,"
-    publishedDateTime: 2021-12-02T21:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211202005810/en/AWS-Announces-AWS-Amplify-Studio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "x9fbAmIUooIeJq3EbDwE57epbrG3+q6zfPpy0l1UKqHznI950JWT2V9QLq8xBuOsxnuVwNOBCHpXXX1KNkvUQR+XF9ZidhrhDpYQRaivs9vLgFnE1lQ9n+/wcKVdppHG20TK1FLb910w/L3h1nfyRCcDUT2V2C6EGHFkW6+TT9l3q76oBk6jI4/ppsfd4XrkZr9+DUBkas2MezBku9f3aj7pk9pCAvD9EzC65pyN8FHt583TKGUbvOC/b+epeRDOUd/Di3wpR3JbGtUWuzFPQYnW5dkvYjsVKDYSKddBgtdf4S73AfNdwR0dGX1EvA844iL4X9dmIB1sMdZ8pTbhdobZMmDJc84pp+EvnYVtaoI=;TXIqT3b4ypnDHikFI7sKDQ=="
 ---

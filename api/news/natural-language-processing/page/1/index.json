@@ -527,8 +527,8 @@
       "title": "Future of literary translation addressed during Korea Times award ceremony",
       "excerpt": "Participants in the 52nd Modern Korean Literature Translation Awards pose during a ceremony at the Lotte Hotel in central Seoul, Wednesday. From left are Korea Times President-Publisher Oh Young-jin;",
       "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl",
-      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl",
+      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -635,6 +635,49 @@
       "ampWebUrl": "https://www.indiainfoline.com/article-amp/capital-market-hot-pursuit/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400448_1.html",
       "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-hot-pursuit/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400448_1.html",
       "publishedDateTime": "2021-11-23T21:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-secureklouds-step-down-subsidiary-bags-document-processing-automation-contract-in-us.md",
+      "title": "SecureKlouds step down subsidiary bags document processing automation contract in US",
+      "excerpt": "USA, a step-down subsidiary of SecureKloud Technologies has been selected by Monument Health to automate their document processing through readable A.I. Healthcare Triangles deep expertise in Artificial Intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/secureklouds-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400431_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/capital-market-corporate-news/secureklouds-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400431_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/secureklouds-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400431_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/secureklouds-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400431_1.html",
+      "publishedDateTime": "2021-11-23T20:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "India Infoline",
@@ -1384,49 +1427,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-in-the-mena-region.md",
-      "title": "Amethis completes a minority investment in Tarjama, the leading language technology & services firm in the MENA region",
-      "excerpt": "Amethis, through its newly launched fund, Amethis MENA Fund II (AMF2), has completed its second transaction, acquiring a",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/n24114911/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-i",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/n24114911/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24114911",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24114911",
-      "publishedDateTime": "2021-11-15T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

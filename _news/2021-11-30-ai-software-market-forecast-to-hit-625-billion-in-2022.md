@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62
 webUrl: "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230?mod=business_featst_pos2"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://assets.wakelet.com/monomer/thumbnail/wakelet-socail-thumbnail.png"
         width: 1080
         height: 540
-        isCached: true
-  - title: "News: Global AI software market to touch $62 billion in 2022: Gartner"
-    excerpt: "As per the report the top five use cases for AI software spending in 2022 will be knowledge management virtual assistants autonomous vehicles digital workplace and crowdsourced data"
-    publishedDateTime: 2021-11-29T03:32:00Z
-    webUrl: "https://www.peoplematters.in/news/technology/global-ai-software-market-to-touch-62-billion-in-2022-gartner-31762"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1636960766/ad-kqkzykwk.png"
-        width: 990
-        height: 550
         isCached: true
 
 secured: "vO1rRlXBxPI1UZ37kxXOs+QCxysff+N1GyRs8wiCFy/9iPtnWleYCdWK4PgCbRPC9WEvsJRHbq641B+s2DiVRYBZMYDpcspPH7KYKfCqheGi7zgfZGWxNDwYH/GhtPOhW6Kq0xvuFL8D6kuGFedyjrPr/Og5sjgKo0oukQ2P3cfsSVGGM63zXuK55UagqeolqaMoIdi++yiJol325m6k1bvCot5zjIfsmWdtrUjGre0WdqeFbWoIKdwxI7JewqRSjw+22lZCbAIUU47CvZP+027bLHEIatSYk2FFoufoU8kHlsu2RkUK6imaEQY3dM9JMwGsoHcKBl6ExgI1wu6LrHCef4/y/DFVei5Lv4OWB7c=;m0MY/wEiyCVdTenXx9G3VA=="

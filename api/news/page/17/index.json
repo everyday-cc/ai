@@ -2,49 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2021-11-18-optima-recruit-ai-pioneer-to-boost-customer-service-in-banking-sector.md",
-      "title": "Optima recruit AI pioneer to boost customer service in banking sector",
-      "excerpt": "Optima Partners have recruited an AI pioneer at their Edinburgh HQ to work on improved customer service in the banking industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/",
-      "originalUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deadlinenews.co.uk/wp-content/uploads/2021/11/Danilo-Blagojevich-e1637227266740.jpeg",
-          "width": 803,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/",
-      "cdnAmpWebUrl": "https://www-deadlinenews-co-uk.cdn.ampproject.org/c/s/www.deadlinenews.co.uk/2021/11/18/it-pioneer-boosting-customer-service-at-banks/amp/",
-      "publishedDateTime": "2021-11-18T00:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deadline News",
-        "domain": "deadlinenews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-18-surecore-designs-multi-port-memory-for-semidynamics-ai-chip.md",
       "title": "sureCore designs multi-port memory for Semidynamics AI chip",
       "excerpt": "Core, the embedded memory specialist, has designed a power and area efficient, high performance, multi-port, embedded memory solution for Semidynamics’ new RISC-V-based, tensor processing chip. Semidynamics is developing a high bandwidth,",
@@ -1121,6 +1078,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-how-visual-effects-helped-tom-hanks-robot-costar-come-to-life-in-finch.md",
+      "title": "How visual effects helped Tom Hanks’ robot costar come to life in Finch",
+      "excerpt": "It took a combination of visual effects, motion-capture performance, and an animatronic actor to create the breakout star of the Apple TV+ sci-fi drama Finch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/",
+      "originalUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/finch_photo_featire.jpg",
+          "width": 2000,
+          "height": 1506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/finch-visual-effects-vfx-interview/?amp",
+      "publishedDateTime": "2021-11-17T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

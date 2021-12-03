@@ -2,108 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-11-30-why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool.md",
-      "title": "Why Employers Should Ditch Relying On AI As A Recruitment Tool",
-      "excerpt": "As has been written here and elsewhere, one of the great mysteries of the current economic environment is how businesses of all sorts can be complaining of staff shortages at the same time as even the best qualified young people struggle to get on to the employment ladder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/",
-      "originalUrl": "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a633e163d816f8c303d8c8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/amp/",
-      "publishedDateTime": "2021-11-30T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai.md",
-      "title": "Spy chief's warning: Our foes are now 'pouring money' into quantum computing and AI",
-      "excerpt": "In a rare public speech, MI6 chief warns that hostile states focused on quantum and AI. The rise of technologies like artificial intelligence (AI) and quantum computing is changing the world – and intelligence services must adapt in order to operate in an increasingly digital environment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/",
-      "originalUrl": "https://www.zdnet.com/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/64fd1585f18543733a0d67b09d20120e3acbd131/2021/10/28/adc45ef8-776c-4eab-a21f-a311dfcb86ac/20211028-sf-nov.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/",
-      "publishedDateTime": "2021-11-30T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-30-healthcare-natural-language-processing-market-is-going-to-boom-3m-cerner-nuance.md",
       "title": "Healthcare Natural Language Processing Market is Going to Boom | 3M, Cerner, Nuance",
       "excerpt": "Latest Study on Industrial Growth of Worldwide Healthcare Natural Language Processing Market 2021 2027 A detailed study accumulated to offer Latest insights about acute features of the Worldwide Healthcare Natural Language Processing market The report contains different market predictions related",
@@ -1196,6 +1094,101 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible.md",
+      "title": "Exclusive: How The Austin Lighthouse For The Blind Uses Robotics To Make Warehouse Work More Efficient And More Accessible",
+      "excerpt": "This spring, in partnership with Fetch Robotics, the Lighthouse began working with autonomous mobile robots, or AMRs, in an effort to help Blind and low vision workers in the warehouse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/29/exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible/",
+      "originalUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/29/exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a50ace24ac178c27ec113d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevenaquino/2021/11/29/exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevenaquino/2021/11/29/exclusive-how-the-austin-lighthouse-for-the-blind-uses-robotics-to-make-warehouse-work-more-efficient-and-more-accessible/amp/",
+      "publishedDateTime": "2021-11-29T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-nasas-deep-learning-ai-discovers-301-planets-hiding-in-plain-sight-that-humans-missed.md",
+      "title": "NASA's Deep Learning AI Discovers 301 Planets Hiding In Plain Sight That Humans Missed",
+      "excerpt": "Thanks to a new deep neural network called ExoMiner, NASA has added a whopping 301 exoplanets that human eyes had missed. These exoplanets have been added to the 4,569 other planets that have been validated by NASA.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
+      "originalUrl": "https://hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56914/content/exominer-exoplanet.jpg",
+          "width": 708,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets",
+      "publishedDateTime": "2021-11-29T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

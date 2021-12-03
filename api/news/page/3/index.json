@@ -150,50 +150,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-meeting-expectations-a-key-focus-for-aws-in-machine-learningai-keynote-at-reinvent.md",
-      "title": "Meeting expectations a key focus for AWS in machine learning/AI keynote at re:Invent",
-      "excerpt": "Invent 2021 kicked off with a two-hour presentation on the company’s initiatives in machine learning and artificial intelligence. In typical style for the public cloud giant, the approach taken by presenting executives was to level-set customer expectations and then show precisely how Amazon Web Services Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/12/01/meeting-expectations-key-focus-aws-machine-learning-ai-keynote-reinvent-reinvent/",
-      "originalUrl": "https://siliconangle.com/2021/12/01/meeting-expectations-key-focus-aws-machine-learning-ai-keynote-reinvent-reinvent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/AWS-reInvent-2021-Keynote-Day-3.jpg",
-          "width": 833,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-reimagining-your-customer-experience-with-conversational-ai.md",
       "title": "Reimagining Your Customer Experience With Conversational AI",
       "excerpt": "That needn’t be the case: it’s time for organizations to reevaluate the role of conversational AI in customer experiences. In many cases, it’s already become obvious that simple speech can replace high-friction processes.",
@@ -305,7 +261,7 @@
       "originalUrl": "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -709,7 +665,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/400214",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -761,7 +717,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/continuously-improve-search-application-effectiveness-with-amazon-kendra-analytics-dashboard/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -995,7 +951,7 @@
       "originalUrl": "https://www.tvtechnology.com/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1209,6 +1165,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-a-golden-age-for-natural-language.md",
+      "title": "A Golden Age For Natural Language",
+      "excerpt": "The last three years signaled the beginning of a golden age for natural language processing (NLP). Here are a few promising companies emerging in space and why this is all happening now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louisaxu/2021/12/01/a-golden-age-for-natural-language/",
+      "originalUrl": "https://www.forbes.com/sites/louisaxu/2021/12/01/a-golden-age-for-natural-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619d98cfa48a446f44ac5b85%2F0x0.jpg",
+          "width": 1200,
+          "height": 920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louisaxu/2021/12/01/a-golden-age-for-natural-language/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louisaxu/2021/12/01/a-golden-age-for-natural-language/amp/",
+      "publishedDateTime": "2021-12-01T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }
