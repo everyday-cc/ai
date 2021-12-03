@@ -26,49 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI, Chatbots & Their Influence on Mobile Technology"
-    excerpt: "Relatively, chatbots are also now witnessing rapid growth in their adoption by corporates, big or small, to assist users with queries faster than ever before. A report by Statista states, by 2025, the global AI market is expected to cross a value threshold amounting to $126 billion."
-    publishedDateTime: 2021-11-28T07:30:00Z
-    webUrl: "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/"
-    ampWebUrl: "https://www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/11/ai-chatbots-their-influence-on-mobile-technology/?amp"
+  - title: "The good, the bad and the ugly of deep learning technology"
+    excerpt: "The use of deep learning for social media and online content generation has gained equal parts attraction and concern in recent years. With a reputation as a cog in the fake news machine, deep learning has been a driving force behind political propaganda,"
+    publishedDateTime: 2021-11-30T09:30:00Z
+    webUrl: "https://www.itproportal.com/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/"
     type: article
     provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
+      name: IT Pro Portal
+      domain: itproportal.com
     quality: 59
     images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2021/11/AI-and-Chatbots-ITNA.jpg"
-        width: 800
-        height: 520
+      - url: "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
-  - title: "2022 is set to transform chatbots with the best five natural language processing trends"
-    excerpt: "Top five natural language processing trends to look out for in 2022 by business owners to implement in chatbots for customer service. NLP trends should be observed carefully to be advanced with the trends of NLP in 2022."
-    publishedDateTime: 2021-11-28T12:30:00Z
-    webUrl: "https://www.analyticsinsight.net/5-natural-language-processing-trends-to-look-forward-in-2022/"
+  - title: "How to Use Machine Learning and Other Technology to Make the Most of Your Data"
+    excerpt: "If your company isn't treating data like an asset, you could be missing out on a major growth opportunity. That's according to Swami Sivasubramanian, vice president of Amazon Machine Learning. Sivasubramanian was speaking during a keynote conversation on data and machine learning Wednesday at AWS re:Invent,"
+    publishedDateTime: 2021-12-02T10:31:00Z
+    webUrl: "https://www.inc.com/kevin-j-ryan/aws-reinvent-machine-learning-swami-sivasubramanian-data.html"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 31
+      name: Inc
+      domain: inc.com
+    quality: 35
     images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Five-NLP-trends-to-look-forward-in-2022.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "It’s the Golden Age of Natural Language Processing, So Why Can’t Chatbots Solve More Problems?"
-    excerpt: "View Article on Loris Blog Advancements in the field of AI and Machine Learning (ML), specifically Natural Language Processing (NLP), are revolutionizing the way we live and interact with machines and each other."
-    publishedDateTime: 2021-11-29T22:05:00Z
-    webUrl: "https://www.linkedin.com/pulse/its-golden-age-natural-language-processing-so-why-cant-seth-levine"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 27
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQECB8gO-NGBwA/article-cover_image-shrink_720_1280/0/1638218486597?e=1643846400&v=beta&t=kOPZDBDCA6FuVHairjeuUEIr84ie7adoFOnD7p20vMU"
-        width: 1272
-        height: 720
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1180500748_488983_kg8hzv.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "ZeFuhToDh1XfaN4OJVL2EcLHN5hRT3JG0T2P1yG7squRvLgQS1Ze0H/5a21QPfiuMZsjN1aS6sccKmfedI75DfYC+9a5w0wDI+wAlBUL5T6bf4WNymr27uvFFOf357UH6Ryt+SdzfozkKIqNPjke1fss/SfT8+Rs6brFsGYLlWG5eTb5doKlx8d3XUPNv1MZJipmv4umlOUbdKkSE4im6bdxW8zLqBQAqBPez/qLSMIYEDSUr9dNL9CDZuW+Y7B5CzpEk1Zmr3Y5OgGRcrMaPocwwGYu7pWGuQ4XFfXFMmZGfALFYDFP5aXqQSpNOLwkH77+akzzZMhv7wZqnuZu2ubunIbRYVsGkBK+bZW1cS9IxHtzXsGvGnknaBxBmT+s8drjAl/mVNKTqRN0L4iXhjcjIb2hbLWYteSt8vcLB7a9WWpoeEdk3uoySDqNVk3HoHhWrDEpBdOVyeRuW9cq9UGW3Rm7nNkCRnTTRpVqXegk36JN+1OIp8PS+dwzuFze2nQYK66AyYfRA9b6j4o3ZQ==;7DyPlehMcpQSlF6Hw4ravQ=="

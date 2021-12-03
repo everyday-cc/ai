@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/hong-kong/transport/article/3157920/hong-k
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels"
 type: article
 quality: 78
-heat: 110
+heat: 108
 published: true
 
 provider:

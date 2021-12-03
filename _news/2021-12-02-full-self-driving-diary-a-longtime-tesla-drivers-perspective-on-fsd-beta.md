@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressio
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/"
 type: article
 quality: 87
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/11/Smart-self-drive-proto-1200px.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Tesla's self-driving beta now requires video recordings"
-    excerpt: "Tesla’s full self-driving beta will now send video recordings to testers.The car company is currently beta testing a self-driving mode, and it has now been claimed the company has updated"
-    publishedDateTime: 2021-11-28T08:46:00Z
-    webUrl: "https://www.kilgorenewsherald.com/teslas-self-driving-beta-now-requires-video-recordings/article_5ee4bfb9-6cb4-55bd-8f31-e84234262521.html"
-    type: article
-    provider:
-      name: Kilgore News Herald
-      domain: kilgorenewsherald.com
-    quality: 39
-    images:
-      - url: "http://feeds.bangshowbiz.com/i.php?k=aW1hZ2VzMS8yMDIwLzA3LzEwLzAwNzkzNjQwMDE1OTQzODIzMTctMTM1LmpwZyY2NTAmNjUw"
-        width: 650
-        height: 650
         isCached: true
 
 secured: "ijV1C2mtJ6PsyjXfHg5+7i2fbXNNlc9N/j5G7k1OP5QEhXVRxkJ8fGxX+KuHjsqrA/uK0LWjeMcacmT1Jcd0+e76U7RkWemoGM5ew6AC6e7F6RsRzP14eAaBKyQPxY8wcT1JHAWccKIqQSBPeKRrzQRoq6mpmpWAv4WQFGXv6vlZcHUj0c2wyFurANt6/JJQ38fWwn5jkkdOnPQnv+F98HUnd/VpTx5XXCKoCg/OI8Dfvnf/bf1iE4VEpwGIu4hB+jgy0Bhvj4prejLneDs60bQyxoNkuV5bWlhSJUhENTSvjPNQq7JCTVWwP60xRHBauWmi60MTbeXxb1MNRYDuuk50HXDTBxk2DP+YbPep/cAY2/nJr3nqA30VVqjARmxIQ9ZoAiLWI2WWzFZHlG0m5OEZT0ByP9D5bOcKCFo59r+yOOdP0/xHx5BJt+8Vf4dQbxKyd5GKimwxbvWzNslwdpW45wZg6T6Mouz156D3dnVt+kt2xsjYxKdzFK1nu3U/g9otneCtihry61KKukcDyg==;oCQZAsgLnHVlu+vNi5Bfcg=="

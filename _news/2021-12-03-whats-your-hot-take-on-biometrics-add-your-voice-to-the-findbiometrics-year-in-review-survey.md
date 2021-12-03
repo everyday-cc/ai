@@ -2,26 +2,28 @@
 category: news
 title: "What's Your Hot Take on Biometrics? Add Your Voice to the FindBiometrics Year in Review Survey"
 excerpt: "FindBiometrics, the internet's leading resource for news, interviews and thought leadership in biometrics and digital identity, has launched the 19th Annual FindBiometrics Year in Review Survey, sponsored by NEC,"
-publishedDateTime: 2021-12-02T21:25:00Z
-originalUrl: "https://www.lelezard.com/en/news-20138589.html"
-webUrl: "https://www.lelezard.com/en/news-20138589.html"
+publishedDateTime: 2021-12-02T20:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24418539/whats-your-hot-take-on-biometrics-add-your-voice-to-the-findbiometrics-year-in-review-survey"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/n24418539/whats-your-hot-take-on-biometrics-add-your-voice-to-the-findbiometrics-year-in-review-survey"
+ampWebUrl: "https://www.benzinga.com/amp/content/24418539"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24418539"
 type: article
-quality: 12
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -38,6 +40,20 @@ related:
       - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc5cb08894c1db841/61a6a1e261a2a97c7a4fa228/FacialBiometrics_EyeEm_Alamy.jpeg"
         width: 656
         height: 656
+        isCached: true
+  - title: "Nota raises $14.7M to adapt biometrics, AI models for edge applications"
+    excerpt: "The technology is important piece of the puzzle when it comes to helping resource-constrained edge devices run applications such as biometric identification."
+    publishedDateTime: 2021-12-02T22:56:00Z
+    webUrl: "https://www.biometricupdate.com/202112/nota-raises-14-7m-to-adapt-biometrics-ai-models-for-edge-applications"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
         isCached: true
   - title: "Simplified Arrival face biometrics reaches 5 new ports, faces questions"
     excerpt: "CBP is up to 113 million travelers processed with face biometrics at ports of entry, and has prevented the entry of more than 1,050 imposters into the U.S."
@@ -124,6 +140,6 @@ related:
         height: 697
         isCached: true
 
-secured: "YSqmB6hiA6r5+Idu92p1TMBpHvl6d4V5Oz8NGtfTfYYwvafEVbf0FbAnBHB0AImgpH0BRf5eKPiht0t1PkagXbPiKQHVO/TDrkyMo654zAQIt4Yu86pTmhJLDDJddQ0DeV8ZwtTNNyu8P1Md60AYJW307DN8lijI8EInAJjzueuUsAYhi94Vfv0vOoVdfmyLsx9bVky+oG6Uw/UjW4wWlEE1yjVAW7leHM40kk2IOes1EunkprlaERY6Q+caVNb0e2jY5FpDZJbVctoWn5NYLwtItHtdSZ4j6YOwMWyN5OYiIYr6wGmaVkkLLLzgpX/PPqfPROUPBV/689aA+kImlDIADb0sgEtfWgM2a6R2MaM=;Kr3p+tWXCSE5JUZf8S3eNQ=="
+secured: "Es+EyreaMmFeBzXOvJQa/IWQV6XZVOeudfIo8v4clKbGUgHey/M+s/zzKKEVOyy+XBlbSI86xCEUSP31beTbgav1vxaLX566eSQ6Al06mvmMF3oTm897Ocn+w0P8X8+Ugas/8cKodnR2JAM4yNA2XZgFjem9Aheo25hAndNyXE2m0N1/RQe7L75dRjEp6t70+42J/iTD49QGpjJAUBWHKT7fwhXYL+RtNObYNBf/epmH5JiQOjOezcvwNGR6u8XY2Kl6vumaC+m1/uglaZpecPOkQzkpAI8nsJkZYe3ut/aAJriax99R9XrnwE+mmJZuXrAN14OzYVx7MDicfMzZTHGiwJvnKnLrJxIGf7Dp5fA=;1n3na5u7lqmGFLQhHqnFeQ=="
 ---
 

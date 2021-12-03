@@ -79,13 +79,13 @@ related:
       domain: mobilitytechzone.com
     quality: 11
   - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-    excerpt: "(NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud. As Discovery’s preferred cloud provider, AWS powers the vast majority of the company’s infrastructure needs to deliver its discovery+ on-demand streaming video service,"
-    publishedDateTime: 2021-12-01T23:08:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship"
+    publishedDateTime: 2021-12-01T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 11
 
 secured: "KVHunFGZzKqGMUoGIfPrMse1mVEfHw8IUvmyUMtshFO1Y8Fre5/vTjFBUcQkmPpj6fSdr6R627fHfhpr8Ackz+HPT1u92T30p207vBuD1GHUAUPgTcduntzXDrjyv8Xm+BuysAhzvlnZKiIl4A6TNkXNluBCiyepxussay9ThNpuYOiT2NKh1QBMzfwKForiU7a1n9RKk4a3SrscpssqNNKD5+PlswW9W/86zzmWqecqLvo5JJkLBVfQ9bLx1poQgrQv8GJ5ACvGYJ1LSNW/nQwYYtwtnpxm4Kr0wAWgCGwwJAG8aE/gKMkqvBud8WbA4TE064tKY9YEBao1QKXDE5NZiJmf1jdb1J13kUg5QJVm1zelh0JwjIMWXZNZ+TNrovI9aIYNzRZh48oQrjBAgbvaEzKl2f5ot0FAK2nj1m+g05if55xpibOyr7WrHYbszoc4buEKlhvnqW8xmLTL51CH8E8p+8sCVJoQ7hnEBuSEhwgc2TRh7Kc0yL0lVK2XOSf60b7oW0EAPAttAa+wQQ==;oBaiaLVyXAX8EAE080vPTQ=="

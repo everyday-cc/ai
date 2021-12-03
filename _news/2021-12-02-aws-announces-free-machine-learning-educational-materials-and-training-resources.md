@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/12/01/aws-announces-free-machine-lea
 webUrl: "https://siliconangle.com/2021/12/01/aws-announces-free-machine-learning-educational-materials-training-resources/"
 type: article
 quality: 66
-heat: 80
+heat: 76
 published: true
 
 provider:

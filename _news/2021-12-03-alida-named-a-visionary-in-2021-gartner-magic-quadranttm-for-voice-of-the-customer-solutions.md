@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "PredictHQ Named a 2021 Gartner® Cool Vendor in 'Data for Artificial Intelligence and Machine Learning' Report"
-    excerpt: "PredictHQ, the demand intelligence company, today announced it has been recognized as a 2021 Cool Vendor in the \"Data for Artificial Intelligence and Machine Learning\" Gartner Cool Vendors™ report by Afraz Jaffri,"
-    publishedDateTime: 2021-12-02T20:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/predicthq-named-a-2021-gartner-cool-vendor-in-data-for-artificial-intelligence-and-machine-learning-report-1031021250"
+    excerpt: "PredictHQ, the demand intelligence company, today announced it has been recognized as a 2021 Cool Vendor in the \"Data for Artificial Intelligence and Machine Learning\" Gartner Cool Vendorstm report by Afraz Jaffri,"
+    publishedDateTime: 2021-12-02T21:24:00Z
+    webUrl: "https://www.lelezard.com/en/news-20138509.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 37
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Alida Named a Visionary in 2021 Gartner® Magic Quadrant™ for Voice of the Customer Solutions"
     excerpt: "Alida, a leader in Total Experience Management (TXM), today announced it has been named a Visionary in the 2021 Gartner Magic Quadrant for Voice of th"
     publishedDateTime: 2021-12-02T16:30:00Z

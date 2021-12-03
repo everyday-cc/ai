@@ -78,22 +78,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Amazon launches SageMaker Canvas for no-code AI model development"
-    excerpt: "Invent 2021 conference, Amazon announced SageMaker Canvas, a no-code development tool for machine learning applications."
-    publishedDateTime: 2021-11-30T18:13:00Z
-    webUrl: "https://venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/"
-    ampWebUrl: "https://venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/03/2018-03-08t180745z_2_lynxnpee271pp_rtroptp_4_france-business-e1569258361231.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AWS rolls out SageMaker Studio Lab, a free ML service for beginners"
     excerpt: "Invent, the cloud giant also announced a new $10 million AI & ML scholarship program for underrepresented and underserved students."
     publishedDateTime: 2021-12-01T18:30:00Z
@@ -172,6 +156,15 @@ related:
         width: 930
         height: 520
         isCached: true
+  - title: "Amazon launches SageMaker Canvas for no-code AI model development"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At its re:Invent 2021 conference, Amazon announced SageMaker Canvas, a no-code development tool ..."
+    publishedDateTime: 2021-12-01T02:53:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development-10798678"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 64
   - title: "AWS brings point-and-click to machine learning"
     excerpt: "Amazon Web Services has announced six new capabilities for its machine learning (ML) service, Amazon SageMaker, that make it more accessible and cost effective."
     publishedDateTime: 2021-12-02T08:21:00Z
@@ -241,6 +234,20 @@ related:
     excerpt: "Lightspin, the multi-layer cloud security platform that prioritizes and remediates critical vulnerabilities across hybrid cloud and"
     publishedDateTime: 2021-12-02T13:30:00Z
     webUrl: "https://www.prnewswire.com/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-301436125.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1341650/Lightspin_Logo.jpg?p=facebook"
+        width: 967
+        height: 506
+        isCached: true
+  - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
+    excerpt: "Through a previously unreported vulnerability, attackers could run any code on an AWS SageMaker Jupyter Notebook Instance across accounts, access the Notebook Instance metadata endpoint, and steal the access token for the attached role TEL AVIV ..."
+    publishedDateTime: 2021-12-02T23:16:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-862473560.html"
     type: article
     provider:
       name: PR Newswire

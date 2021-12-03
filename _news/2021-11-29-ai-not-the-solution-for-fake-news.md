@@ -24,47 +24,37 @@ images:
     isCached: true
 
 related:
-  - title: "Actions Taken For Ethical AI In 2021"
-    excerpt: "Countries are investing heavily in AI research and development. However, there are currently no norms or standards in place for ethical AI research, design, or use."
-    publishedDateTime: 2021-11-30T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/"
+  - title: "Artificial intelligence may not actually be the solution for stopping the spread of fake news"
+    excerpt: "Artificial intelligence is becoming increasingly sophisticated. But we’re still a long way off from AI being able to discern what’s fake news."
+    publishedDateTime: 2021-11-28T12:05:00Z
+    webUrl: "https://theconversation.com/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-172001"
+    ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-172001"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-may-not-actually-be-the-solution-for-stopping-the-spread-of-fake-news-172001"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: The Conversation
+      domain: theconversation.com
+    quality: 46
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Actions-Taken-For-Ethical-AI-In-2021.jpg"
-        width: 1678
-        height: 943
+      - url: "https://images.theconversation.com/files/433777/original/file-20211124-15-o3hamt.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
         isCached: true
-  - title: "AI Innovations That Made Headlines In 2021"
-    excerpt: "As 2021 ends, we look back at the AI innovations and incidents that remained in the news this year AI has, by now, proven its power and impact. The artificial intelligence space is constantly evolving and improving with every passing day."
-    publishedDateTime: 2021-11-29T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/ai-innovations-that-made-headlines-in-2021/"
+  - title: "Artificial intelligence may not actually be the solution for stopping the spread of fake news"
+    excerpt: "Disinformation has been used in warfare and military strategy over time. But it is undeniably being intensified by the use of smart technologies and social media. This is because these communication technologies provide a relatively low-cost,"
+    publishedDateTime: 2021-11-29T13:50:00Z
+    webUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.html"
+    ampWebUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-solution-fake-news.amp"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 46
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/incident.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AI applications progress in musculoskeletal applications"
-    excerpt: "Artificial intelligence (AI) algorithms are demonstrating utility in a number of important musculoskeletal imaging applications, according to a hot topic session held Tuesday at RSNA 2021 in Chicago."
-    publishedDateTime: 2021-12-01T16:44:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=134400"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/radcastredirect/2021_11_28_21_10_5678_RSNA_2021_AI_social.jpg"
-        width: 1200
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/artificial-intelligenc-50.jpg"
+        width: 1356
+        height: 668
         isCached: true
 
 secured: "8HxjQ1QjmOVO72/SndZax9iUK9doQ2qBCsn1gwKc9DX0N1ImXWUS920oMOU9NEfykDZKH9f/A3XDMOQ+F4SkOkG0NBFStZssg3LB1S0cetl08XCfTZ0PokM3pdctVKR+Tuh2NjLmVMJhR+iByRXX9pM1MG462bGNtaQ2LdI/EebauMeAnahfQAmtCIESsdOzoHtK/f2V2+xAWcQ9VgHyJVZf+sOy6j0AHwcXx7zYS++86tmgKwfKjApW8iL8/+AGGls9jgOFvkFox/CC7liHtcd7WskSFChyZ406jAwqkqLlCNDpVUiaikjqFFG1ePpxN4XbGNXMvOdGVrhj9EkiNphsqyqDeJY+saeo7oIHJyU=;Is16peEme3e9bY9p5DhWuA=="

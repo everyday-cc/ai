@@ -22,22 +22,6 @@ topics:
   - AI in Finance
 
 related:
-  - title: "Using AI for accurately predicting synergistic cancer drug combinations"
-    excerpt: "A research team led by a scholar from City University of Hong Kong (CityU) has recently developed a novel artificial intelligence (AI) framework that can make synergistic anti-cancer drug combination predictions on both the therapeutic and toxic effects."
-    publishedDateTime: 2021-12-01T15:54:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/using-ai-for-accuratel.jpg"
-        width: 1890
-        height: 1103
-        isCached: true
   - title: "Top five artificial intelligence predictions for 2022"
     excerpt: "Ethical/responsible AI will move beyond ‘fluffy policy’, and become embedded in tangible tools and actual law and regulations."
     publishedDateTime: 2021-12-02T07:42:00Z
@@ -54,49 +38,50 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Artificial intelligence could be used to accurately predict tsunamis"
-    excerpt: "A reliable early warning system to detect tsunamis could be a step closer thanks to research from Cardiff University."
-    publishedDateTime: 2021-11-30T12:40:00Z
-    webUrl: "https://phys.org/news/2021-11-artificial-intelligence-accurately-tsunamis.html"
-    ampWebUrl: "https://phys.org/news/2021-11-artificial-intelligence-accurately-tsunamis.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-artificial-intelligence-accurately-tsunamis.amp"
+  - title: "Rules of war need rewriting for the age of AI weapons"
+    excerpt: "The computer scientist Stuart Russell — who will devote a forthcoming Reith Lecture on BBC radio to the subject — met UK defence officials recently to warn that incorporating AI into weapons could wipe out humanity."
+    publishedDateTime: 2021-12-01T14:51:00Z
+    webUrl: "https://www.ft.com/content/d8371144-364b-496d-943c-16f7e0982b6e"
+    ampWebUrl: "https://amp.ft.com/content/d8371144-364b-496d-943c-16f7e0982b6e"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/d8371144-364b-496d-943c-16f7e0982b6e"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
+      name: The Financial Times
+      domain: ft.com
     quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-tsunami.jpg"
-        width: 1280
-        height: 960
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F67d740f3-0b9f-4861-9159-5db0fe0fc551.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
-  - title: "Magnetic resonance imaging and artificial intelligence can detect early signs of tumor cell death after novel therapy"
-    excerpt: "In a recent study published in Nature Biomedical Engineering, a team led by researchers at Massachusetts General Hospital (MGH) has demonstrated that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumor cell death in response to a novel virus-based cancer therapy."
-    publishedDateTime: 2021-12-01T20:29:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.amp"
+  - title: "Actions Taken For Ethical AI In 2021"
+    excerpt: "Countries are investing heavily in AI research and development. However, there are currently no norms or standards in place for ethical AI research, design, or use."
+    publishedDateTime: 2021-11-30T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/brain-tumor.jpg"
-        width: 2880
-        height: 2188
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Actions-Taken-For-Ethical-AI-In-2021.jpg"
+        width: 1678
+        height: 943
         isCached: true
-  - title: "Artificial Intelligence Predicts Synergistic Drugs"
-    excerpt: "New study revealed the potential of using AI and machine learning to identify effective drug combinations in therapies for cancers."
-    publishedDateTime: 2021-12-02T09:13:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
+  - title: "Using AI for accurately predicting synergistic cancer drug combinations"
+    excerpt: "A research team led by a scholar from City University of Hong Kong (CityU) has recently developed a novel artificial intelligence (AI) framework that can make synergistic anti-cancer drug combination predictions on both the therapeutic and toxic effects."
+    publishedDateTime: 2021-12-01T15:31:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936492"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a1767d85-5672-4eae-9001-61fde9ac24ec/Rendition/low-res/Content/Public"
+        width: 700
+        height: 409
+        isCached: true
 
 secured: "5rermz6xoalqDVeePcliBWyYdjGho2CZ28s2EBioMFD97YfRWvebeNs9ys/ibc2snEhqE3oVw/u/+kxgLz+7YxR6/OJ8jlCPjgBD9BdUQDfElxgieTBE4/oERPl7XFT59eUvimDpErel3NgHSc0J8vG8pwY7FyZ36+yP3IAgXz+xpVV3MVwej95tq2T7AuoupL27dZIhAi4yaM2Pwz4yDQlYyOhaL5fZGEaNiUzqErUsv2hkcITS45yqap8b8Nky5Mu3bDSLVooQBF5o4RARzObSRPF/Il9EGxLcYDF/qeWGucmDbTI7DsuqAjV/rGBZGHF8QiApP41umy3ok/CX7CwT65K470zZY5laDnQr/ew=;RFYdoGDQwjIJnsnIB7Ow5g=="
 ---

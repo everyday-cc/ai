@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itproportal.com/amp/features/the-good-the-bad-and-the-ug
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: IT Pro Portal
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chatbots Technology: Which one is Ideal Match NLP OR Machine Learning?"
+    excerpt: "In this increasingly competitive consumer-driven economy, chatbots are the hottest automated technology. To achieve maximum"
+    publishedDateTime: 2021-12-01T18:58:00Z
+    webUrl: "https://www.cioapplications.com/news/chatbots-technology-which-one-is-ideal-match-nlp-or-machine-learning--nid-8801.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 56
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/6ysx450b308.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "How to Use Machine Learning and Other Technology to Make the Most of Your Data"
     excerpt: "If your company isn't treating data like an asset, you could be missing out on a major growth opportunity. That's according to Swami Sivasubramanian, vice president of Amazon Machine Learning. Sivasubramanian was speaking during a keynote conversation on data and machine learning Wednesday at AWS re:Invent,"
     publishedDateTime: 2021-12-02T10:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-magnetic-resonance-imaging-ar
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.amp"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -28,76 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI for accurately predicting synergistic cancer drug combinations"
-    excerpt: "A research team led by a scholar from City University of Hong Kong (CityU) has recently developed a novel artificial intelligence (AI) framework that can make synergistic anti-cancer drug combination predictions on both the therapeutic and toxic effects."
-    publishedDateTime: 2021-12-01T15:54:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-ai-accurately-synergistic-cancer-drug.amp"
+  - title: "Artificial Intelligence, MRI Detect Early Signs Of Tumor Cell Death"
+    excerpt: "Researchers created a non-invasive approach for measuring cancer treatment response using AI and MRI technology."
+    publishedDateTime: 2021-12-02T17:26:00Z
+    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-mri-detect-early-signs-of-tumor-cell-death"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 41
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/using-ai-for-accuratel.jpg"
-        width: 1890
-        height: 1103
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/RadiologyAI_Getty.jpg"
+        width: 700
+        height: 451
         isCached: true
-  - title: "Top five artificial intelligence predictions for 2022"
-    excerpt: "Ethical/responsible AI will move beyond ‘fluffy policy’, and become embedded in tangible tools and actual law and regulations."
-    publishedDateTime: 2021-12-02T07:42:00Z
-    webUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/"
-    ampWebUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/02/artificial-intelligence-4117035_640.jpg"
-        width: 640
-        height: 426
-        isCached: true
-  - title: "Artificial intelligence could be used to accurately predict tsunamis"
-    excerpt: "A reliable early warning system to detect tsunamis could be a step closer thanks to research from Cardiff University."
-    publishedDateTime: 2021-11-30T12:40:00Z
-    webUrl: "https://phys.org/news/2021-11-artificial-intelligence-accurately-tsunamis.html"
-    ampWebUrl: "https://phys.org/news/2021-11-artificial-intelligence-accurately-tsunamis.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-artificial-intelligence-accurately-tsunamis.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-tsunami.jpg"
-        width: 1280
-        height: 960
-        isCached: true
-  - title: "Xero Reaches Milestone In AI Strategy Incorporating Machine Learning-powered Predictions For Bank Reconciliation"
-    excerpt: "Xero, the global small business platform, today announced a significant milestone in its AI strategy with the roll-out of new bank reconciliation predictions. The predictions feature brings a new application of AI into the Xero platform,"
-    publishedDateTime: 2021-11-29T19:31:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 50
-  - title: "Artificial Intelligence Predicts Synergistic Drugs"
-    excerpt: "New study revealed the potential of using AI and machine learning to identify effective drug combinations in therapies for cancers."
-    publishedDateTime: 2021-12-02T09:13:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
 
 secured: "6qUYwZlpCEC25KCt9ck9hVIfG/notSvbSvP0f5TcK7x9GlqQZxtrBg2T4p/VEmkTYmhQeCoaFA/95m7Kj28oqe0Qhv0IrZE4ykY28hTVzoV/iEjtqqzz3odVLQlyKdh+peOJmiScaYlR/iJt95cZFa0/7oKve60Hv4lUPKY0KjpOAQsx4EqbUZ9I06ltdxL4+IVmrXJ/+fX94y7nwtCMdh6z1poQ3CfOT4I9+IGYuE3t4AnBn+cKqlDYMochn2M07tAep+pW7J9vl4p6MDUSAUnZLDHymSHtUcnhen19bCHPwNeXKoyC0397F5d53/hKq9cp59LRDY17S2ZHQ613gKZth6W9/jaYjSPwYDtwLCMC5jB/k6o9oGNLlYlaLEqjegfkFKgeCcGMvg4wt4qsgFuZG4bssC2ww71wXYD+gUt3y1GQPUAyoQa77/uB8qtXkbqhp6RFXzT3rNDwVW7WiUkM2zmZMbNOJ+rHi570ld5+bhsAZa325kRd5eEsp8cFbiuQr0PSANTbSNb+9t0eQw==;MEQ+vpXSNP30bsPADCjkoA=="
 ---

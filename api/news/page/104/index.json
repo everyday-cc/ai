@@ -2,6 +2,92 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2021-09-15-ai-processor-chipmaker-deep-vision-raises-35-million-in-series-b-funding.md",
+      "title": "AI Processor Chipmaker Deep Vision Raises $35 Million in Series B Funding",
+      "excerpt": "Deep Vision, Inc., the developers of an AI processor and comprehensive software development suite for edge computing applications, today announced that it received $35 million in a Series B financing round,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-software-software-development-a76d66a4ddb14ae0dfaf46fdca9edc2c",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-software-software-development-a76d66a4ddb14ae0dfaf46fdca9edc2c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-15-facial-recognition-enters-new-phase-at-gates.md",
+      "title": "Facial recognition enters new phase at gates",
+      "excerpt": "Some drivers may have noticed a difference if they’re using the facial recognition to gain access to Redstone this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theredstonerocket.com/news/article_b4087992-1633-11ec-82e6-b306b9e4ef9f.html",
+      "originalUrl": "https://www.theredstonerocket.com/news/article_b4087992-1633-11ec-82e6-b306b9e4ef9f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/theredstonerocket.com/content/tncms/custom/image/71ee924c-4845-11e6-a51b-ebabb80465c3.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Redstone Rocket",
+        "domain": "theredstonerocket.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-soft-robotics-launches-softai-to-accelerate-adoption-of-robotics-in-food-processing.md",
       "title": "Soft Robotics Launches SoftAI™ to Accelerate Adoption of Robotics in Food Processing",
       "excerpt": "Today Soft Robotics Inc. announced its launch of SoftAI Solutions incorporating proprietary 3D vision, artificial intelligence software, and industry-proven soft grasping to address the most pressing problem plaguing the food industry – the inability to meaningfully automate operations.",
@@ -1008,101 +1094,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot.md",
-      "title": "Wells Fargo taps Microsoft Azure, Google Cloud for its multi-cloud pivot",
-      "excerpt": "Banking giant Wells Fargo said it is adopting a multi-cloud strategy that combines its data centers with cloud compute from Microsoft Azure and Google Cloud. Under the new digital",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
-      "originalUrl": "https://www.zdnet.com/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/wells-fargo-taps-microsoft-azure-google-cloud-for-its-multi-cloud-pivot/",
-      "publishedDateTime": "2021-09-15T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-a-stanford-proposal-over-ais-foundations-ignites-debate.md",
-      "title": "A Stanford Proposal Over AI's 'Foundations' Ignites Debate",
-      "excerpt": "They said a new research center at Stanford would build—and study—these “foundation models” of AI. Critics of the ... tech companies like Google and Facebook, which use them in areas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/stanford-proposal-ai-foundations-ignites-debate/",
-      "originalUrl": "https://www.wired.com/story/stanford-proposal-ai-foundations-ignites-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/613bf26d928ce651c8571f81/master/pass/Foundational-AI.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/stanford-proposal-ai-foundations-ignites-debate/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/stanford-proposal-ai-foundations-ignites-debate/amp",
-      "publishedDateTime": "2021-09-15T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

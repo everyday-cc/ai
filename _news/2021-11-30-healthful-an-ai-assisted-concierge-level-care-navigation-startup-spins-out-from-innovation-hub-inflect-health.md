@@ -7,7 +7,7 @@ originalUrl: "https://www.heraldstandard.com/business_ap/healthful-an-ai-assiste
 webUrl: "https://www.heraldstandard.com/business_ap/healthful-an-ai-assisted-concierge-level-care-navigation-startup-spins-out-from-innovation-hub-inflect/article_41403a81-1e52-58b2-bb2a-2d3745657083.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Netsmart Accelerates AI Healthcare Technology Innovations with Acquisition of Remarkable Health"
+    excerpt: "Netsmart announced today it has acquired Remarkable Health, an industry-leading provider of artificial intelligence (AI) technology and software solutions for behavioral health, substance use and human services organizations."
+    publishedDateTime: 2021-12-02T20:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-netsmart-accelerates-ai-healthcare-technology-innovations-with-acquisition-/2021/12/02/9504119.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
   - title: "Healthful, an AI-Assisted, Concierge-Level Care Navigation Startup, Spins Out From Innovation Hub Inflect Health"
     excerpt: "Vituity and Inflect Health launch Healthful, a new company and platform dedicated to delivering highly personalized support and guidance to patients."
     publishedDateTime: 2021-12-01T01:36:00Z

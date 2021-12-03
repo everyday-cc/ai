@@ -41,6 +41,20 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Chatbots Technology: Which one is Ideal Match NLP OR Machine Learning?"
+    excerpt: "In this increasingly competitive consumer-driven economy, chatbots are the hottest automated technology. To achieve maximum"
+    publishedDateTime: 2021-12-01T18:58:00Z
+    webUrl: "https://www.cioapplications.com/news/chatbots-technology-which-one-is-ideal-match-nlp-or-machine-learning--nid-8801.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 56
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/6ysx450b308.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "qZQMYEGZ+ENLORazrFJJoEf9JWMizZe7+tj2PQys4RFvXtKjMX+lTL4Em7Nga2ue2zrwNHT1RrAA+GfRU4MhzGNoD4hUYEXOrBcyWl9xFBFh1vGOVh6URZEQcGHp+a74xraqqrPf9fW75El+hObNrpc7p1AUsmBtpUfoUrHFu3VXCFLG5APl/jg1vOeHpoAc9W3i3E59GCZeumS1NF5CNQpapRQvJySwxdyXkco68fPmG3hzOB76sipSw1Sf7f4bEVoJkJn+tXGXPFO3QWkKHfJpwDGq9qR2GSM3UR5sCmfLu/QmboR10tK0QOk1xoIBl6ewBtXkDJOWNybfM3q93QEu6ZOh4h8lNF8ilKS3/yU=;HOqRtjif4c5aMvwGEHZHDg=="
 ---

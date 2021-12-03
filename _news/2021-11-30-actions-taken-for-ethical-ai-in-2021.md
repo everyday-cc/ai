@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021
 webUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -25,47 +25,62 @@ images:
     isCached: true
 
 related:
-  - title: "AI Innovations That Made Headlines In 2021"
-    excerpt: "As 2021 ends, we look back at the AI innovations and incidents that remained in the news this year AI has, by now, proven its power and impact. The artificial intelligence space is constantly evolving and improving with every passing day."
-    publishedDateTime: 2021-11-29T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/ai-innovations-that-made-headlines-in-2021/"
+  - title: "Top five artificial intelligence predictions for 2022"
+    excerpt: "Ethical/responsible AI will move beyond ‘fluffy policy’, and become embedded in tangible tools and actual law and regulations."
+    publishedDateTime: 2021-12-02T07:42:00Z
+    webUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/"
+    ampWebUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/02/artificial-intelligence-4117035_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
+  - title: "Rules of war need rewriting for the age of AI weapons"
+    excerpt: "The computer scientist Stuart Russell — who will devote a forthcoming Reith Lecture on BBC radio to the subject — met UK defence officials recently to warn that incorporating AI into weapons could wipe out humanity."
+    publishedDateTime: 2021-12-01T14:51:00Z
+    webUrl: "https://www.ft.com/content/d8371144-364b-496d-943c-16f7e0982b6e"
+    ampWebUrl: "https://amp.ft.com/content/d8371144-364b-496d-943c-16f7e0982b6e"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/d8371144-364b-496d-943c-16f7e0982b6e"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F67d740f3-0b9f-4861-9159-5db0fe0fc551.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Xero Reaches Milestone In AI Strategy Incorporating Machine Learning-powered Predictions For Bank Reconciliation"
+    excerpt: "Xero, the global small business platform, today announced a significant milestone in its AI strategy with the roll-out of new bank reconciliation predictions. The predictions feature brings a new application of AI into the Xero platform,"
+    publishedDateTime: 2021-11-29T19:31:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 50
+  - title: "Using AI for accurately predicting synergistic cancer drug combinations"
+    excerpt: "A research team led by a scholar from City University of Hong Kong (CityU) has recently developed a novel artificial intelligence (AI) framework that can make synergistic anti-cancer drug combination predictions on both the therapeutic and toxic effects."
+    publishedDateTime: 2021-12-01T15:31:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936492"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/incident.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AI, not the solution for fake news"
-    excerpt: "Technology companies and social media enterprises are working on the automatic detection of fake news through natural language processing, machine learning and network analysis. The idea is that an algorithm will identify information as “fake news,"
-    publishedDateTime: 2021-11-29T08:09:00Z
-    webUrl: "https://telanganatoday.com/ai-not-the-solution-for-fake-news"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
-    images:
-      - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2021/11/artificial-intelligenc.jpg"
-        width: 1200
-        height: 650
-        isCached: true
-  - title: "AI applications progress in musculoskeletal applications"
-    excerpt: "Artificial intelligence (AI) algorithms are demonstrating utility in a number of important musculoskeletal imaging applications, according to a hot topic session held Tuesday at RSNA 2021 in Chicago."
-    publishedDateTime: 2021-12-01T16:44:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=134400"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/radcastredirect/2021_11_28_21_10_5678_RSNA_2021_AI_social.jpg"
-        width: 1200
-        height: 630
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a1767d85-5672-4eae-9001-61fde9ac24ec/Rendition/low-res/Content/Public"
+        width: 700
+        height: 409
         isCached: true
 
 secured: "2wL8ojW4JTUCsm1+jwEFQOaJ7VoPinyZ7aWIqYjVZYNVeNOK//0nUv6AMYK3EqLgJsi0T8kOSB3rkqFmhiSa24KVvpOMeudJQG3qadTmJ4ZwLHN+vx9EsPF25VTv5DVO8oVh7knwyC6MNPy9pN5hmN2mJEMQF3co3rRSUAWbWp2kilAPHvvRXm1j9bH40yX3JOlO9eRSWA4Y5vPy0OoH35hGwF+VBGPVdeodW53JdCIsrZlpNZ/iXYbjLdw716CX4H7nsJVbahhwun+29BrKyrVg59JfMsntSDbo5hEvbyE8JiqR6nPDX4woyglpQT/4AFH6u3cpBLYMCJRlbzGGxtS2Qh4PNmDs4Kfm9YxT3Dk=;aeQVmAzSl1w6kh9FoOdq4w=="

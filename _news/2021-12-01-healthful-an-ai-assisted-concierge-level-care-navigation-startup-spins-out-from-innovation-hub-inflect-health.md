@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Netsmart Accelerates AI Healthcare Technology Innovations with Acquisition of Remarkable Health"
+    excerpt: "Netsmart announced today it has acquired Remarkable Health, an industry-leading provider of artificial intelligence (AI) technology and software solutions for behavioral health, substance use and human services organizations."
+    publishedDateTime: 2021-12-02T20:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-netsmart-accelerates-ai-healthcare-technology-innovations-with-acquisition-/2021/12/02/9504119.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 22
   - title: "Healthful, an AI-Assisted, Concierge-Level Care Navigation Startup, Spins Out From Innovation Hub Inflect Health"
     excerpt: "Healthful’s proprietary patient navigation platform is among the first to leverage artificial intelligence and machine learning to help team members accurately determine the needs and resources for the patients who will benefit most from care navigation."
     publishedDateTime: 2021-11-30T14:02:00Z

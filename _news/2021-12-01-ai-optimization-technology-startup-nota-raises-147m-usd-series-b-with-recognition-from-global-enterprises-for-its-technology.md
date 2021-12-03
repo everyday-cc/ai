@@ -1,29 +1,26 @@
 ---
 category: news
 title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-excerpt: "Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B"
-publishedDateTime: 2021-12-01T01:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-301434615.html"
-webUrl: "https://www.prnewswire.com/news-releases/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-301434615.html"
+excerpt: "Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was finalized last month, a year after the series A funding of USD 6."
+publishedDateTime: 2021-12-01T03:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
 type: article
-quality: 11
-heat: 11
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1698783/image_1.jpg?p=facebook"
-    width: 797
-    height: 419
-    isCached: true
-
-secured: "6yRsPFwwbEGOnmuyHlWIw/uW2YGmVMSvY8HVQceIF/BYlPjuWwD0oTwPsZ618ExUDorGlkGF/WvHwsYwe8YRWpsbjwGPoi07Bi0vLV2vbRRXAzS4Eft1ven1WcM9MNqEh1tAXud1bzzTyJIGhrGpCGyCwsWS+om68PtsAsxBM2O2d05QUdJSdss/ZHSJbPaqWRX7E3vAfDPxvSvkNfd+If1TcbQVhljlZ+ykdduAXxOhbeY05Pb18OeinDHu8AZO3VbI5lWtGMsi5pZ3khwwGPARWgbxBI+LFWSae4fCu9dXZH/o3Ruwu84oonnN6Moit2pJBJKBEt3d7fl2NvCA6ltOKto+27RwZcK05X8l+CA=;mQCYS+z/ZPdmM0OxoesyPw=="
+secured: "TktlpYcX0l+x6Q1kHW2k1sE2EgzSlm0ZjF1OdlYYsvdYpOnEQ9xCXzFKnQQmyYPttYnmAUQoinb1PdrXx83SgH+K0/k8+SyntAOl4sr+tdunsMdzoqugAa6lv2hDF+pdPM34e01scOWqwiq+eWiTIOx4OJfVm0hCdfIepXesKe6IAuxyH05KlILAeHVmZV7w3AoQRg5N8f/2cSgYeo/UgUuzewgYduDTo+zu5VMR+BVShRNWjQ7GqyyErs0eiGOW2PSpNzP3ITx4b1J2d5seD5u7e1dOHcXA7Rd80VF+gdxaDS+x0297AboIdGEcc/QdZlf+bgf8FA9efqlOL6cKty4KaXxZOnHgCOHi0TEmZEdi8GL3YWRovrfJFu0yp2o/QFEBvL2ep366CGMeGqhcwVyR+ol55hjzl0W/tTNUDK9T4Uv7PQ0/GclRzgbNMWwmEmpDvpnXF2WGoEab1V+UCKhwXWhblDcjDJaBSrdWYvKNJNITJ6dYlzI5u9JgCOpwtcp+95AFlCEZRAUz9kQzhw==;v+GyHQ9/AAB+puARrLXVGw=="
 ---
 

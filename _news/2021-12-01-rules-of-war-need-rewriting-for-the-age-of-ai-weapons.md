@@ -26,21 +26,60 @@ images:
     isCached: true
 
 related:
-  - title: "AI weapons pose threat to humanity, warns top scientist"
-    excerpt: "The computer scientist Stuart Russell met with officials from the UK’s Ministry of Defence in October to deliver a stark warning: building artificial intelligence into weapons could wipe out humanity."
-    publishedDateTime: 2021-11-29T05:00:00Z
-    webUrl: "https://www.ft.com/content/03b2c443-b839-4093-a8f0-968987f426f4"
-    ampWebUrl: "https://amp.ft.com/content/03b2c443-b839-4093-a8f0-968987f426f4"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/03b2c443-b839-4093-a8f0-968987f426f4"
+  - title: "Top five artificial intelligence predictions for 2022"
+    excerpt: "Ethical/responsible AI will move beyond ‘fluffy policy’, and become embedded in tangible tools and actual law and regulations."
+    publishedDateTime: 2021-12-02T07:42:00Z
+    webUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/"
+    ampWebUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F25bc485c-b750-48e8-9707-0abf6aa4eca5.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/02/artificial-intelligence-4117035_640.jpg"
+        width: 640
+        height: 426
+        isCached: true
+  - title: "Actions Taken For Ethical AI In 2021"
+    excerpt: "Countries are investing heavily in AI research and development. However, there are currently no norms or standards in place for ethical AI research, design, or use."
+    publishedDateTime: 2021-11-30T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Actions-Taken-For-Ethical-AI-In-2021.jpg"
+        width: 1678
+        height: 943
+        isCached: true
+  - title: "Xero Reaches Milestone In AI Strategy Incorporating Machine Learning-powered Predictions For Bank Reconciliation"
+    excerpt: "Xero, the global small business platform, today announced a significant milestone in its AI strategy with the roll-out of new bank reconciliation predictions. The predictions feature brings a new application of AI into the Xero platform,"
+    publishedDateTime: 2021-11-29T19:31:00Z
+    webUrl: "https://www.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 50
+  - title: "Using AI for accurately predicting synergistic cancer drug combinations"
+    excerpt: "A research team led by a scholar from City University of Hong Kong (CityU) has recently developed a novel artificial intelligence (AI) framework that can make synergistic anti-cancer drug combination predictions on both the therapeutic and toxic effects."
+    publishedDateTime: 2021-12-01T15:31:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936492"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a1767d85-5672-4eae-9001-61fde9ac24ec/Rendition/low-res/Content/Public"
+        width: 700
+        height: 409
         isCached: true
 
 secured: "HRe3bojPOhmmw7QQbbxjV221HGVjogdpelgRC3G4JKLwJ6YDQ3dzSVTskaekU+suGWm1hisAzXliY2i+ZOenVzCd5BjfaZOxLSsXJV+PLWMNanGWGx3AYFMVUWZqbyyE2xuBjZUGQ/AF+7Lc6h6hNnulJqDc2M+bgms3SShq5iIf1Woopf83OlkleizbDKmjHlmW5qGgm/E2l3+BTKPl95lIckNzrgtmDuNY2ZH5KiKYV934gwwM7p9W0B0rIxW8TLZidKNjMrxxv/2LcNv0ZTnsWPBWEt5B5FMWOmNNrexpzG5262g/ybacIMrYOFm06fxs7sV6wXnQ7E1vjwMTmhB/nTMep8TsdxBSiF9t/KZU0E6CDKifWPTISNX558NjQEs/RfIzmqxFdskj0XhJTJBOG93z2+aFitMzxyRKKnAzwqupsEBAOlfCyKiwv9VUY9OGVgiGhwHO009fyR/MQtSxf4IxkxDpevshS5A3DsJBpeJ9BKc62IqeI3RPK/i8R/Idugry5MCDnGMr5LqJlA==;ZjzHn1fIzhcoAG3bRGX5Fw=="

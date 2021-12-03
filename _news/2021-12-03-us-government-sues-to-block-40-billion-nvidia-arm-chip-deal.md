@@ -1,41 +1,44 @@
 ---
 category: news
-title: "US government sues to block $40 billion Nvidia-Arm chip deal"
-excerpt: "The Federal Trade Commission has sued to block graphics chip maker Nvidia’s $40 billion purchase of chip designer Arm."
-publishedDateTime: 2021-12-02T22:24:00Z
-originalUrl: "https://www.thenewstribune.com/news/business/article256295257.html"
-webUrl: "https://www.thenewstribune.com/news/business/article256295257.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/business/article256295257.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article256295257.html"
+title: "U.S. government sues to block $40 billion Nvidia-Arm chip deal"
+excerpt: "The Federal Trade Commission on Thursday sued to block graphics chip maker Nvidia’s $40 billion purchase of ... to “create the world’s premier computing company for the age of AI.” But the deal immediately raised concerns that Arm would abandon ..."
+publishedDateTime: 2021-12-03T00:31:00Z
+originalUrl: "https://www.spokesman.com/stories/2021/dec/02/us-government-sues-to-block-40-billion-nvidia-arm-/"
+webUrl: "https://www.spokesman.com/stories/2021/dec/02/us-government-sues-to-block-40-billion-nvidia-arm-/"
+ampWebUrl: "https://www.spokesman.com/stories/2021/dec/02/us-government-sues-to-block-40-billion-nvidia-arm-/?amp-content=amp"
+cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/dec/02/us-government-sues-to-block-40-billion-nvidia-arm-/?amp-content=amp"
 type: article
-quality: 39
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: The Spokesman-Review
+  domain: spokesman.com
 
 topics:
   - AI Hardware
   - AI
 
+images:
+  - url: "https://thumb.spokesman.com/1iGfwoD3CTuCU7N7rqMHAcmciNQ=/480x0/media.spokesman.com/photos/2021/12/02/61a95d61a7d3f.hires.jpg"
+    width: 480
+    height: 308
+    isCached: true
+
 related:
-  - title: "Nvidia provides powerful GPUs to support innovative AI developments"
-    excerpt: "GPUs, however, are ready to lend themselves to the development of artificial intelligence, with Nvidia Corp. seeking to give AI developers a powerful platform capable of taking on innovative projects."
-    publishedDateTime: 2021-11-30T18:15:00Z
-    webUrl: "https://siliconangle.com/2021/11/30/nvidia-provides-powerful-gpus-support-innovative-ai-developments-reinvent/"
+  - title: "FTC Sues To Block $40 Billion Nvidia – Arm Computer Chip Deal"
+    excerpt: "The Federal Trade Commission on Thursday sued to block graphics chip maker Nvidia’s $40 billion purchase of chip designer Arm."
+    publishedDateTime: 2021-12-02T23:07:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2021/12/02/nvidia-arm-ltd-chip-deal-ftc-lawsuit/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/12/02/nvidia-arm-ltd-chip-deal-ftc-lawsuit/?amp"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/12/02/nvidia-arm-ltd-chip-deal-ftc-lawsuit/?amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Ian-Buck-AWS-reInvent-2021.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 39
 
-secured: "hS+ozgfJRA1OS5YZi0hmTDeTxM4L9/04S4C4U3LLaPQs/nRHx+e+pukfuEe3UtJgIY27JfztN8LQOObBqfI8dTqdIAXAYBuWxOzdGR51JdmyF3wY5AgOXolm5fNX19vEGI3t+mbVyju8GSuvx/yQzJ3292V8VKWRuwaqqkeHQM5r2bKXYX6BZH8jWYmeCktzdh+qqspLXxobjcVyJROWbwohRHuR5VWzuoae13Ob8ksIn2tFhqBJjtd+4T3en6SbSkj6N77tRCr1EVeBgHBT4THPKGTwPozd1uel306zQf3kUoarRfyAvsvY8+6r9NeonS+wjCaN6PuCRazJ8x2NNmJAn4CHVyHQPunthw/OsfxX3sAL2JyV7rZ+dV/UL9FbRuVXjKdvvPmgvwpfT+gVLSLeDr0H3OZED31fZXcu/8Y52+NNBOvcWDCXsnyXatrb/+fF/4oZGNp6zrs4c93YQDZ3O34Gl6hFnWCXbJFPIh26cGgUXwuUsW2ehy6SyzKnZTKrW22GHb1BjN1RVEd4hg==;/mi1sxNoA18Q1O/qEI3kqg=="
+secured: "Yo+3USG7wKl7bUuuextxyadEFh/yoQgBOHRJ0GNQJiMcE0S7pwE8hofUdQX2ZakOV5dkB4RXDoOAoTA5hCKA/EMuENFwefsVI/r/0xiVJguxPZIDrwiJUzzxm9hhaiyxLcB7PkbbKiY6EQOFnd6LZhZ71iCtwzbimTITzeEn1QlKCnxDzXy2ZRDecsa1MYjhLI7NyV4v9tXbn4J0JIdgeEnhy1miyxdx9vK55Hb0eqBWC1s2MCEWjr3ZGWwC1jtg+UCKF4ncwRHFI8dtL6+p8TXTGm5A4dizOci44UF8pAKBEg3neUgkHWKVAaRNieJkWo0y3W41vtLw2NFU/N9hAauc3S9mkgH5KXJmN2UVGLY=;S/1yRflAbUCAXX6ZR8h/rA=="
 ---
 

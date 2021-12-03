@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/11/30/nvidia-provides-powerful-gpus-
 webUrl: "https://siliconangle.com/2021/11/30/nvidia-provides-powerful-gpus-support-innovative-ai-developments-reinvent/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "US government sues to block $40 billion Nvidia-Arm chip deal"
-    excerpt: "The Federal Trade Commission has sued to block graphics chip maker Nvidia’s $40 billion purchase of chip designer Arm."
-    publishedDateTime: 2021-12-02T22:24:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article256295257.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article256295257.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article256295257.html"
-    type: article
-    provider:
-      name: News Tribune
-      domain: thenewstribune.com
-    quality: 39
 
 secured: "6XF8Q/MmnehTVTDTYYxrUinuNOO5bdea/o4ah90EFGs8UyFm5acjyJjXQcO2DbuFDuTEjoWmI6j2lzRTSCQa7frumBARz712KrqK33+Z6AqslJWrRZIxv9QTAhpFQMl7Yx6anPU3AKIHBAiyVi84GUWH6aJRmXwWmtVCC5DaH0wpxwKG3LRl1n2RkN1zM7k2Rf7ehkkda7/kdfTzeF7zf+OaBR9xP9XD0GYYB/x5YYe9FDBuNrACYBkLDEpNSe048Fd4pco6+GNuErIWVAHkMSbTP4WxRBKotEBvQIpInICkUkpRGmIZcK0tg7eq1HhaEFRZMVGGwkpB4RWsfFEqVjBEaNS1VlN7n0bDC2EXCv0=;KAQQT5JfA5YZ5dw3DaS6Ig=="
 ---

@@ -1,34 +1,26 @@
 ---
 category: news
 title: "Amazon launches SageMaker Canvas for no-code AI model development"
-excerpt: "Invent 2021 conference, Amazon announced SageMaker Canvas, a no-code development tool for machine learning applications."
-publishedDateTime: 2021-11-30T18:13:00Z
-originalUrl: "https://venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/"
-webUrl: "https://venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/"
-ampWebUrl: "https://venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/amp/"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At its re:Invent 2021 conference, Amazon announced SageMaker Canvas, a no-code development tool ..."
+publishedDateTime: 2021-12-01T02:53:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development-10798678"
+webUrl: "https://markets.businessinsider.com/news/stocks/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development-10798678"
 type: article
-quality: 104
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2018/03/2018-03-08t180745z_2_lynxnpee271pp_rtroptp_4_france-business-e1569258361231.jpg?w=1200&strip=all"
-    width: 1200
-    height: 800
-    isCached: true
 
 related:
   - title: "AWS brings no-code to Amazon SageMaker machine learning"
@@ -250,7 +242,21 @@ related:
         width: 967
         height: 506
         isCached: true
+  - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
+    excerpt: "Through a previously unreported vulnerability, attackers could run any code on an AWS SageMaker Jupyter Notebook Instance across accounts, access the Notebook Instance metadata endpoint, and steal the access token for the attached role TEL AVIV ..."
+    publishedDateTime: 2021-12-02T23:16:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-862473560.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1341650/Lightspin_Logo.jpg?p=facebook"
+        width: 967
+        height: 506
+        isCached: true
 
-secured: "/zViHV8PoYT2fd2Yuz07VVF7OP+xQVLVYmPyEqPQl8UzdKLM98iG1KZ5415V1jtCATt+V7umTRRReIMf5GTM4UBBpAF7/Eq01Q96ZTfu4ltDCC/Wl/uIzUeaQB+/mtNsphA2igugB6amlpgRJKGckPq1fd4XbC7X6GMFht3vj2cWwYv7nYU100WYiiWF2ISD86ThhKogy6ZJF+b+t2l51zWZp81O5AjbPtYV7Zs2Ye2DofngFxkvVcNn6vg8YEy+sbN5Wu8Sj465R+59X1/2cRqZ0qVhSenHFM3AVCE7bygcWmPyG3PoDq7yQ0CcxWsNgQzYTNrhvtMLrVhGD/iJm3xdvLGbNB7hdHfNNF6xZIm7To6+KUI2V/wzuehNeiZb6/yaQRMn+bH+xRKgvCEIBCwkkKHL4nfhm2duVZaqjZdN+V9kgLlST+iq/nxx5TVh9SjRP5ZN2ulXk4GJlHmawbNXJR8gOHhmF7zWLFZv3gQDMDFp+bl3lLIhH0XsMif+VKzWfXo3kq7wXRQb+a5FTw==;JrW/3drb38eCDSrZlaXEDQ=="
+secured: "OOSpyRFNYYGYhYI9dODq+ZM1jm14tZzHtkbt1knBubGG3bM8Yg9ySeUS/MIc6Q+fWlW3AYHxj9FaBu3pE71HcvjD2j3mdFAP3tncflNGXkxc1qkm88M+QDEH+sNJaWYPUxgCtl0NggJ316am6pYCNHSVBPAPuaVQmPWDktaIvlPdvRgjBAVVk/RGQm20B0vqq0WBFYlrL7ishChO6SQ4U8OBLEy53jx+aAjCaxO+LwDwfIWt0Fu+fT16dfFd7osKffh4iwBXiQpOGyI8Ii64zVokKk9EGGstEOk5DeMLhUhd6IgosIyLM/3v9mRdqtgzxV6rc4tn18bdI+WC1+b75MF34wzWIONBTPK58HPvTlI=;x7tkZ2K1RKhA46Lyg2cOKg=="
 ---
 

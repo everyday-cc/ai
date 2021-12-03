@@ -7,8 +7,8 @@ originalUrl: "https://www.finsmes.com/2021/12/monsters-aliens-robots-zombies-rai
 webUrl: "https://www.finsmes.com/2021/12/monsters-aliens-robots-zombies-raises-6-5m-in-series-a-funding.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: finsmes.com
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "MeetElise, the Leading Proptech AI Leasing Software, Raises $23.5m in Series B Funding"
+    excerpt: "MeetElise, known best for their conversational multifamily leasing assistant, announced $23.5m in Series B funding today. Navitas Capital and JLL Spark co-led the round"
+    publishedDateTime: 2021-12-02T21:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/ab24421470/meetelise-the-leading-proptech-ai-leasing-software-raises-23-5m-in-series-b-funding"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24421470"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24421470"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Pow! Bam! Biff! Special effects studio Monsters Aliens Robots Zombies raises $6.5 million"
     excerpt: "Special effects studio-turned AI startup Monsters Aliens Robots Zombies just raised $6.5 million CAD in Series A funding."
     publishedDateTime: 2021-12-02T10:59:00Z

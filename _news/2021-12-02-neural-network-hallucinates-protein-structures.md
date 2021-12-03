@@ -35,7 +35,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 80
+    quality: 82
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2021/12/hallucinated-protein-630x352.png"
         width: 630

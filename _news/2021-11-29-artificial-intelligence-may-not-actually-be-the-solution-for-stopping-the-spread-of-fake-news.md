@@ -42,6 +42,20 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "AI, not the solution for fake news"
+    excerpt: "Technology companies and social media enterprises are working on the automatic detection of fake news through natural language processing, machine learning and network analysis. The idea is that an algorithm will identify information as “fake news,"
+    publishedDateTime: 2021-11-29T08:09:00Z
+    webUrl: "https://telanganatoday.com/ai-not-the-solution-for-fake-news"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 37
+    images:
+      - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2021/11/artificial-intelligenc.jpg"
+        width: 1200
+        height: 650
+        isCached: true
 
 secured: "KHM7NjI7K0rh73OMAof1qOzny1sfz4FCsmmfbEJVtpKpIPYUsnIjQSBcQOBlhxBXcVD911bhJNe8V3KcYaf+OieZHU7q+ipGqnLu5+La/dxRyPY05A21nxEuAzD9A04MQNcExslVZ9Kvs4ZU6j0M3ZUB1n3/NX2/wHcaMAqGoicKo7mZzURO6ylUqpo9RyUWXoe0aBRIeLqJVw17se5/CukNt3rS5D6NTJYj5OqH/tbrxRd4manfhW5QOO/lia9X6xINbmpa98VHnWoBvWzCQi+Xi7wVm4ytNIs8XFW8pzyK+Y1T0lyQiP3AdvjjGhcEUzGFiElGLegRaRA1Ca8QF6Rvdiv9cUYDVeh0bejp3cq9l1j6cRFwY8p453g+PVz1rVuAHyg4c73ls2TvvxZMghnWahhmGdjuP6s8mP4rzaj4Jr5lVhl3uPlZ3seoQ4fLMbyD41BX+yB850KlQV0MBTgOJSr4bc1groMASPFn3mncMHuA5D7E/oPsaYd37TY/5Z5m00qygczAkANHt0wHiA==;I5jiMtRtU4hqNaufacwehw=="
 ---

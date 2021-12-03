@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/ai-innovations-that-made-headlines-i
 webUrl: "https://analyticsindiamag.com/ai-innovations-that-made-headlines-in-2021/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,47 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Actions Taken For Ethical AI In 2021"
-    excerpt: "Countries are investing heavily in AI research and development. However, there are currently no norms or standards in place for ethical AI research, design, or use."
-    publishedDateTime: 2021-11-30T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/"
+  - title: "Artificial intelligence innovation among retail industry companies rebounded in the last quarter"
+    excerpt: "Research and innovation in artificial intelligence in the retail sector has rebounded in the last quarter. The most recent figures show that the number of AI patent applications in the industry stood at 111 in the three months ending September – down from 120 over the same period last year."
+    publishedDateTime: 2021-12-02T12:08:00Z
+    webUrl: "https://www.retail-insight-network.com/features/artificial-intelligence-innovation-among-retail-industry-companies-rebounded-in-the-last-quarter/"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 39
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Actions-Taken-For-Ethical-AI-In-2021.jpg"
-        width: 1678
-        height: 943
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/shutterstock_594560369.jpg"
+        width: 500
+        height: 334
         isCached: true
-  - title: "AI, not the solution for fake news"
-    excerpt: "Technology companies and social media enterprises are working on the automatic detection of fake news through natural language processing, machine learning and network analysis. The idea is that an algorithm will identify information as “fake news,"
-    publishedDateTime: 2021-11-29T08:09:00Z
-    webUrl: "https://telanganatoday.com/ai-not-the-solution-for-fake-news"
+  - title: "Artificial intelligence innovation among automotive industry companies has dropped off in the last year"
+    excerpt: "Research and innovation in artificial intelligence in the automotive manufacturing and supply sector has declined in the last year. The...Read"
+    publishedDateTime: 2021-11-29T12:33:00Z
+    webUrl: "https://www.just-auto.com/news/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-year/"
     type: article
     provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 37
+      name: Just Auto
+      domain: just-auto.com
+    quality: 21
     images:
-      - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2021/11/artificial-intelligenc.jpg"
-        width: 1200
-        height: 650
-        isCached: true
-  - title: "AI applications progress in musculoskeletal applications"
-    excerpt: "Artificial intelligence (AI) algorithms are demonstrating utility in a number of important musculoskeletal imaging applications, according to a hot topic session held Tuesday at RSNA 2021 in Chicago."
-    publishedDateTime: 2021-12-01T16:44:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=134400"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 37
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/radcastredirect/2021_11_28_21_10_5678_RSNA_2021_AI_social.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_518160535.jpg"
+        width: 500
+        height: 273
         isCached: true
 
 secured: "oPg6MhWr2Brhfe0k1iVpof0u1nKvun/r9z0YJ7cnI8y7HDoL3cqsFDRZm4cw9pOEqTLf6D4TkTaawsSjqCebwcAlotKPxqDAqW0Sw4MwtFn/F5+GluZLhpP9A+Ul5h/vzn0Sxd5fHT6/jt8Rf0s0TXvFij3UO4DjbVdo2gCh9nKQgr/nhz8wBWyXHTiCIsrcRZyHc62vFettwBBGLO1cG3FyfRUUGUXm0O8ZnA9E2R9CJhQQ0Qfn0C2/UWylpOGJJEgojYPNeXr1Xu9b4jYFoDg3QIOdDrS22odytv3HPWPXbwAPDoaGTMWGqHmS5cMFCSP8ajXBLtTCEXOubiFlE0rnZIXSYLxYxRfuygBsd+efdNjkYZ2Zl90+IrTbasRpdwrX+nLfYLmPRB498HNDn1Bod0Z6gcWcdPif8lNcZzGlIr88pNr9OZEF2wxv7d7h+s5/Kv07Oqjdn4gxvQBtJ7ZuSWOS6wyJSj7gf/OPCjyXEFIiO/6g2ftNIbQbOY6cRaRh4pxNJGxb+yjUx1/DLQ==;VmzXz7P/dNB7zO7z9CDncg=="

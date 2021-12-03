@@ -39,6 +39,22 @@ related:
         width: 360
         height: 360
         isCached: true
+  - title: "MeetElise, the Leading Proptech AI Leasing Software, Raises $23.5m in Series B Funding"
+    excerpt: "MeetElise, known best for their conversational multifamily leasing assistant, announced $23.5m in Series B funding today. Navitas Capital and JLL Spark co-led the round"
+    publishedDateTime: 2021-12-02T21:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/ab24421470/meetelise-the-leading-proptech-ai-leasing-software-raises-23-5m-in-series-b-funding"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24421470"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24421470"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "92YJeej3guqqIj7PAfHmsIHDmD6/SNruUZVLVrzYhh1XYowrOII1ae5DjSBLJ0zbLziBKT5yziGaWvPVU8LCVMy8rcXcEvUrVGwzTsSW1cuHld73+CtWSCPXLKILmB6+4DtcBeofn0+292nWhtNO0Q0t4Kq44S6f4zLRwqOVsOiMpxdQIdPybVQzODpOkFMSxqvI4RqufvmUx1nRlTZMB+aKRoH2HDqwfaV6zVmB4wXGKw4xqd+pfRg/A3+CQIPhm9bfd8pMdbpS6zurdhxZxWjogQ0Gyc/VnQZU6nQ+OKY9SMqoW4qSLaYGV8/JhGqsjmtYG/hg8yIzhsF3VO0L7lDnbWj3R6cYFEXseMdwKb8=;1YiWTLG5BvonnWV7+7H3nQ=="
 ---
