@@ -52,6 +52,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Top 6 Ways Artificial Intelligence Is Changing Real Estate Industry"
+    excerpt: "There was a time when Artificial intelligence or anything close to it seemed like an impossibility. That''s not the case anymore. Artificial intelligence has impacted our lives in great ways and there is no stopping to it."
+    publishedDateTime: 2021-12-03T16:24:00Z
+    webUrl: "https://news.tmcnet.com/topics/articles/2021/12/03/450830-top-6-ways-artificial-intelligence-changing-real-estate.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-dec/5159830407-artificial-intelligence-3382507_960_720.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Three Ways Artificial Intelligence is Changing Food and Beverage Manufacturing"
     excerpt: "Artificial intelligence can aid in remedying some of the pain points in manufacturing, such as maintaining consistent product quality, need for predictive maintenance, and demand for actionable insights from sensor data."
     publishedDateTime: 2021-11-29T14:00:00Z

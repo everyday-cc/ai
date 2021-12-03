@@ -3,8 +3,8 @@ category: news
 title: "Could Google's DeepMind AI Transform Healthcare?"
 excerpt: "Google's DeepMind artificial intelligence (AI) software is being used to predict the structure of proteins. In this Motley Fool Live video recorded on Nov. 16, 2021, Fool contributors Keith Speights and Brian Orelli discuss whether or not DeepMind could even transform healthcare."
 publishedDateTime: 2021-12-03T11:52:00Z
-originalUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare"
-webUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare"
+originalUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?time=1638532201"
+webUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?time=1638532201"
 ampWebUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?amp"
 type: article
@@ -200,6 +200,6 @@ related:
         height: 675
         isCached: true
 
-secured: "SAHajD6pA01ay2iXY2g4ZSZiyj9sW2z7fCj+zjaEKQ6K9AxdGggv8uklMLmKe5MTVkOcmD6rM9Kdu/djflFkVZ8YRLUUAT54f/9ViozmMfop2pxCWh6G+AcgKPkAlmRFnaZw2EyposYEMbyksiKqAmCt3Dn1i8hIIE4IFW4jhBRBDQlwcLuzKcF4DuCMJHcsxuazrX5MYhFROTp+Ebby9CcmZsJwwU2DHTL5KIxRCavgkIUY+mP9tclNGlbXLm5hvQ7Gjm9u+KOtaojnxrEzkbpg4dANtfzdUQOX2FepIfpffiaObXBte8Xs7pHQ99O3F7Cx/lbUhQXcTtPLYamsjI77bwlngbSAbMnzfM1pohjpSljxI5ycjZU0QTeZ/4L0iw3NzCDcey4aBMcG075Gv2neoal9OavAdCBO6FT1fol4Rgri1CJ406rMkWuQjxazbPRpTu2mpjrfOM47JWTQ0QD/hupWC/EatDsI6F2dWIAhxu2cynA+OOlitOyhzM8KV5TMtQzpzYw6VA516arN1w==;cEfyPFQJ3ij94Csr+MsUHQ=="
+secured: "AeTJXMR20DQqwvE5mXcgTwMf59W5MDeCX882IF5ke9ikmjVZHm8bALUGnZHFjpWqnd/CX5eT6US7ysRifC20+KeNzHghhjf0c7J9amfoGoCr7ggyVU1zObVP6h2mcZYIKNQXa9bo6rMmr0IElWaKCYS5APYgNdwWmN70LMnlEgITeGrFGk26jEf84xhbi/SqC6OyscrzJHe+3RuDeXxG4kMeJ6zTMoubvGa7CDknxXQrPjXxu9fW6i3CL3FkvA6roaUFY9tAOW8zbKts+s2iYeJFDaImFJM9+GTpqx2TbKmSG2ry869Or9BSwH77BqFWMyM5V4VqUSfJHHh6CijKeOMYwS1EM9OqGUfCUdA9hQOIFDOQ+tEegph7NvxuvAC9fza4XiAtN5olPQ3aHrR74Y9WpOjyT+YeU5Wh6pJkltIZ131gz+1dxdRWXKMdVKnGH8Ss4YTQYnzwA9CFIPx5SMnYUJrsDSzKXx8gCr1BYKCSCAXXcU4TfmZuC6ZcIx1cCOzKy67Q0MX5OrmuYkmUjw==;/tA0M6kFME/YSZUWqxPyOQ=="
 ---
 

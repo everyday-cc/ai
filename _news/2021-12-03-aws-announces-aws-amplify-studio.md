@@ -107,22 +107,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "AWS Announces AWS Cloud WAN"
-    excerpt: "New managed WAN service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises"
-    publishedDateTime: 2021-12-02T16:34:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24412664/aws-announces-aws-cloud-wan"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24412664"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24412664"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "No-Code Machine Learning Services for AWS"
     excerpt: "Amazon has today announced Amazon SageMaker Canvas, a new machine learning service. The target audience here isn’t high-tech data scientists and engineers, but rather anyone working in a company with access to IT resources."
     publishedDateTime: 2021-11-30T20:20:00Z
@@ -193,6 +177,15 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "AWS Announces AWS Cloud WAN"
+    excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Cloud WAN, a managed wide area network (WAN) service that makes it faster and easier for enterprises to build, manage, and monitor a unified global network that seamlessly connects cloud and on-premises environments."
+    publishedDateTime: 2021-12-02T17:44:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-aws-cloud-wan-/2021/12/02/9504034.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "WoxNR8ApbdPZlCxIFufjS9d5pBQgqkVs2XREytlDe7eAIH/fX+rkOvwVjbAXu5DnlXkuKAPLiHVvZ2605UcNdEXd24jsiAUvTD+2LNpw5uB6aVg7mmDgQhuOmImKd7VBxAyvAUio092UnuJkeNy6NRjUpK1nYjLtHM/WWcFp9N8fVWvdX0Y+pk9yF1iV/R5PoRHq+1KnL31+6TDyJNLlO/8gB/dDwjbrqADD8SW3DcP2lxSqk7T5SW4iMkiQUAdFizLtDtfJouMjtkiesYOR6cGBxYJPYF6qiZNMWNYw1GH/UB9a627IqDcoKCgZ1YB93KnElV+2FeGZ8ocOeNXF/KYGuypx1EB7R4WJ8WCv9/o=;rwJ9mq2fGCcbd0yWom9cGA=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "U.S. Shuts Down International Calls to Ban “Killer Robots”"
+    excerpt: "The Biden administration has rejected calls to ban the use of lethal autonomous weapons, also known as “killer robots.” During a United Nations meeting in Geneva Thursday, the U.S. instead proposed establishing a code of conduct for their use."
+    publishedDateTime: 2021-12-03T15:31:00Z
+    webUrl: "https://www.democracynow.org/2021/12/3/headlines/us_shuts_down_international_calls_to_ban_killer_robots"
+    type: article
+    provider:
+      name: Democracy Now
+      domain: democracynow.org
+    quality: 39
+    images:
+      - url: "https://www.democracynow.org/images/headlines/18/60618/full_hd/H13-US-shuts-down-ban-killer-robots.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Slaughterbots Sequel Warns of Widespread Proliferation of Lethal AI Unless UN Acts at Upcoming Meeting"
     excerpt: "The Future of Life Institute (FLI), a nonprofit working to reduce extreme risks from powerful technologies, has today released Slaughterbots: if human: kill(), a short film that warns anew of humanity's accelerating path towards the"
     publishedDateTime: 2021-12-01T10:22:00Z

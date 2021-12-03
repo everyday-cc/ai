@@ -8,8 +8,8 @@ webUrl: "https://techbullion.com/global-assistive-robotics-market-size-to-reach-
 ampWebUrl: "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/"
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/"
 type: article
-quality: 73
-heat: 143
+quality: 75
+heat: 145
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2021/12/Assistive-Robotics-Market.jpg"
@@ -127,6 +128,6 @@ related:
       domain: finanznachrichten.de
     quality: 14
 
-secured: "p70b0qHFMhvhsJ0PemPNh2GctUh46Xk4m1KOvzLN1y8HE3dk3nKa9mneAxz8Kjq1mtF5ZkkBINor9Lw5FOtE2Ucj4CUCjiHQAbZuxbqYD4prhkH903rBp478JsnBMId7qkdvmCGBmoOKcU5AmXJGMkoYJrcwsPyAV6a+ak2JlU0lGYn4bHtnGtMiFEUub2nc+fGJrEh0zIn5j5CUKsIYwws4hMOAkQ25CYD39kDz3KnNC2346H/xYOqRfYbioiWlgpuFTTyAfJy5W1Q4HQF2Ltq1vr8X0yRDjSxU2t+QihV8u1nfeyZvtdMBotPYFx9eqwAW5cmreaACcSk78EYRkZ2FIjlO6+UyXge7ePkVFGg=;bqDamuEfPMrRnYuVoE4gyQ=="
+secured: "nPmjNBu5e8OcxmvOzzY/BCP6bA7cC0KbN0jDvVJAtoKzIdg+/pD9WvEqaByZst/cwpUEy3VU832KKN9RF6uUa1Pi+5sQ5sdxDP2rja+Pa6GBRjDH/Ok9TBFnZ+no3w7+x5QQqPuVcRs4Xb0qmTYGNA8NRVgI5kgAKvlxSAOYhPoSsRzUAnmhK3/PuiCWKgWmQEwFCwkmpKSrgEuzBLHQ2PH2TGkPhjv8p3QTaq1QUxHPYNoVm3FMhcazkaUVtw8R82hSwWVFoTFZzFZhmfFMGuwyuLFJxn7ODm5/KUqfoimOZvRO1VZCR2dCsRn7LaDbiqOq5xMQZDVzr8+zdnAfcqW89xYiWw7lcirrBad054A3LMJJhwqitN7l5M+gjp3spFtuYzkzVguGgKdtK5vIhxonLDagbL521KYkLYp56rVSwO+pWlqDGPjOqelE6Izcxbi6Kd1FZkhA0YPIpHFAO/dvnlPkd+rIw+k6zeUTxan5iH+Cg3AftxqFp5iP+lpFGhTrIkM11EuXYmTGvld/sQ==;oGHPVl0yPiTqmekizIPbSQ=="
 ---
 

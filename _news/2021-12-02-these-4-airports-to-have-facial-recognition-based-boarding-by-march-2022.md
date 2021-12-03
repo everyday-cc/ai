@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Facial recognition technology could change the face of Indian airports"
+    excerpt: "With the Airports Authority of India (AAI) working on a facial recognition technology-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports, including Varanasi,"
+    publishedDateTime: 2021-12-03T15:08:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html"
+    ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 74
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2019/1/3/face-facial-recognition-software-system-computer-shut.jpg"
+        width: 760
+        height: 443
+        isCached: true
   - title: "Face-Off: Robots Come Equipped With Facial Recognition"
     excerpt: "In the not-so-distant future, robotic dogs equipped with facial recognition cameras might just scamper about outside and help police officers identify suspicious persons. Contactless commerce, airport security and law enforcement: The use of facial recognition technology (FRT) is quickly becoming a must-have for the public and private sectors."
     publishedDateTime: 2021-11-30T01:56:00Z

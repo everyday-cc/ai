@@ -37,7 +37,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 158
+    quality: 160
     images:
       - url: "https://cdn.sanity.io/images/wc2kmxvk/production/8ba934ca12f0a32532ca9cca98d37500b7641e93-1440x695.png"
         width: 1440

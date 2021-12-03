@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AWS updates databases, AI and serverless offerings at re:Invent"
+    excerpt: "AWS unveiled updates to database, machine learning and serverless offerings designed to reduce complexity and cost."
+    publishedDateTime: 2021-12-03T16:15:00Z
+    webUrl: "https://www.infoworld.com/article/3643572/aws-updates-databases-ai-and-serverless-offerings-at-reinvent.html"
+    ampWebUrl: "https://www.infoworld.com/article/3643572/aws-updates-databases-ai-and-serverless-offerings-at-reinvent.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643572/aws-updates-databases-ai-and-serverless-offerings-at-reinvent.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 106
+    images:
+      - url: "https://images.techhive.com/images/article/2013/10/database_servers_blue-100067015-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 774
+        isCached: true
   - title: "AWS re:Invent 2021 keynote live blog: All the latest news, announcements and more"
     excerpt: "Invent 2021 to report on the latest news, announcements, partner showcases and more from Amazon Web Services' annual event. Amongst the highlights from yesterday are the launch of Graviton3, the most powerful CPU launched by AWS yet,"
     publishedDateTime: 2021-11-30T15:25:00Z

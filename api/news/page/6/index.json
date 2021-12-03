@@ -2,6 +2,152 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-11-30-sophos-intercept-x-advanced-review-ai-powered-protection.md",
+      "title": "Sophos Intercept X Advanced review: AI-powered protection",
+      "excerpt": "These days AI seems to be everywhere, and Sophos Intercept X proudly exploits it to help identify unknown malware. It also blocks ransomware attacks using behavioral analysis, and provides tools to investigate potential threats to see how and why they occurred.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection",
+      "originalUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638265976/sophos_1.png",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/endpoint-security/361685/sophos-intercept-x-advanced-review-ai-powered-protection?amp",
+      "publishedDateTime": "2021-11-30T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-the-good-the-bad-and-the-ugly-of-deep-learning-technology.md",
+      "title": "The good, the bad and the ugly of deep learning technology",
+      "excerpt": "The use of deep learning for social media and online content generation has gained equal parts attraction and concern in recent years. With a reputation as a cog in the fake news machine, deep learning has been a driving force behind political propaganda,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
+      "originalUrl": "https://www.itproportal.com/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
+      "publishedDateTime": "2021-11-30T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-an-ai-finds-superbug-killing-potential-in-human-proteins.md",
+      "title": "An AI Finds Superbug-Killing Potential in Human Proteins",
+      "excerpt": "A team scoured the human proteome for antimicrobial molecules and found thousands, plus a surprise about how animals evolved to fight infections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/an-ai-finds-superbug-killing-potential-in-human-proteins/",
+      "originalUrl": "https://www.wired.com/story/an-ai-finds-superbug-killing-potential-in-human-proteins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61a56b78cf519df9b5d9e394/master/pass/Science_protein_GettyImages-1278429417.jpg",
+          "width": 2400,
+          "height": 1601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/an-ai-finds-superbug-killing-potential-in-human-proteins/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/an-ai-finds-superbug-killing-potential-in-human-proteins/amp",
+      "publishedDateTime": "2021-11-29T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay.md",
       "title": "Portugal’s ‘Predictive maintenance’ startup Stratio pulls in a $12M Series A round led by Forestay",
       "excerpt": "The fleet management industry needs to be able to predict when a truck or a van is about to break down. Not only does this prevent millions in lost revenues, it also has huge implications for supply chains.",
@@ -771,48 +917,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-30-why-ai-in-the-military-is-to.md",
-      "title": "Why AI in the Military is to",
-      "excerpt": "Let’s answer One of the most rising concerns – how AI in the Military will create both international stability & conflict with the AI-enabled military systems? The world is becoming independent; we are seeing and living the advancement of independent vehicles,",
-      "sourceUrl": null,
-      "webUrl": "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628",
-      "originalUrl": "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://elclasificado.com/photos/5a/04/5a0442bda5094029a6efe5fdb3c5bcc5/l.jpg?image=0",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html",
-      "cdnAmpWebUrl": "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html",
-      "publishedDateTime": "2021-11-29T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "El Clasificado",
-        "domain": "elclasificado.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-30-exclusive-pentagon-weighing-reorganization-of-ai-data-offices.md",
       "title": "EXCLUSIVE: Pentagon weighing reorganization of AI, data offices",
       "excerpt": "The Defense Digital Service (DDS), the Joint Artificial Intelligence Center (JAIC) and the office of the Chief Data Officer (CDO) would all report up to a new individual, tentatively named the Chief Data & AI Officer.",
@@ -1053,7 +1157,7 @@
       "originalUrl": "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches",
       "featuredContent": null,
       "highlight": null,
-      "heat": 333,
+      "heat": 343,
       "tags": null,
       "images": [
         {
@@ -1074,91 +1178,6 @@
       "provider": {
         "name": "Computer Weekly",
         "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-new-chest-imaging-database-assists-ai-in-the-covid-19-fight.md",
-      "title": "New Chest Imaging Database Assists AI in the COVID-19 Fight",
-      "excerpt": "Data journal GigaScience is the National COVID-19 Chest Imaging Database (NCCID), a centralized database containing chest X-rays, Computed Tomography (CT) and MRI scans from patients across the UK. Ut",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/",
-      "originalUrl": "https://scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Chest-Xray-Image-777x583.jpg",
-          "width": 777,
-          "height": 583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/amp/",
-      "publishedDateTime": "2021-11-29T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-government-launches-unique-face-recognition-tech-for-pensioners.md",
-      "title": "Government launches 'unique' face recognition tech for pensioners",
-      "excerpt": "\"The central government has been sensitive to the needs of pensioners and to ensure ease of living for them. Soon after coming to power in 2014, the government decided to introduce and implement digital life certificate for the pensioners.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/articleshow/87985779.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/articleshow/87985779.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-59696,msid-87985779/government-launches-unique-face-recognition-tech-for-pensioners.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms",
-      "publishedDateTime": "2021-11-29T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

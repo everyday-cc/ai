@@ -47,6 +47,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "J.D. Power Study on Fully Automated Self-Driving Vehicles: Consumers Don't Know What They Don't Know"
+    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
+    publishedDateTime: 2021-11-30T13:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-jd-power-study-fully-automated-self-driving-vehicles-/2021/11/30/9501254.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "JmzSqDR2SQSn3JtPtDELqh+vFIS/fMXXl0ifIM6jk62MF4u5DzowepoxScPkEOPqkn9bTL4J7hDt6USoIYIxXnRzk9yfg9wj0fPqCU12Jqi2+eeOy4YHXQYV0aaY1c7KlAIWvH78UkRMiAsEuKOJDq3fAjBK02MujqDoRISgfevxif0RXSU5XrziMJ95GVW0Rv9GVMJIy5740Q6zbHD2Ouyw5of7ydvAr6nATP/ARE9viYrsku6ZKtvV38u7lNHGRso/0ix6WI+Y+H/98DndCnd6cjSzK3zNno0mfvVbl6ZgOe/8O8uA1RbUn4BR6gPydujAAp1rU3BcdCGxtm61IpSBZHF30APeXBpfHf5/T68=;PYmHUg8f1+YSUnRK80NZ8g=="
 ---

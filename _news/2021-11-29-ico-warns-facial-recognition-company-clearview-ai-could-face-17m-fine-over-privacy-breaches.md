@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recog
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1"
 type: article
 quality: 163
-heat: 333
+heat: 343
 published: true
 
 provider:
@@ -182,6 +182,22 @@ related:
       - url: "https://diginomica.com/sites/default/files/images/2021-11/Screenshot%202021-11-30%20at%2012.25.17.png"
         width: 1688
         height: 1190
+        isCached: true
+  - title: "Clearview AI Facing £17 Million Fine From UK ICO Over Violation of Data Protection Laws"
+    excerpt: "Clearview AI faces fresh legal trouble in the UK, where it may soon be fined for violation of the country's data protection laws and forced to delete any biometric data it has collected."
+    publishedDateTime: 2021-12-03T16:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/clearview-ai-facing-17-million-fine-from-uk-ico-over-violation-of-data-protection-laws/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/clearview-ai-facing-17-million-fine-from-uk-ico-over-violation-of-data-protection-laws/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/clearview-ai-facing-17-million-fine-from-uk-ico-over-violation-of-data-protection-laws/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 49
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/12/clearview-ai-facing-17-million-fine-from-uk-ico-over-violation-of-data-protection-laws_1500.jpg"
+        width: 1500
+        height: 860
         isCached: true
   - title: "Consecutive NIST Tests Confirm Superiority of Clearview AI's Facial Recognition Platform"
     excerpt: "Clearview AI’s facial recognition algorithm again ranks No. 1 in U.S. – tops in 1:N and 1:1 Facial Recognition Vendor Tests (FRVT)."

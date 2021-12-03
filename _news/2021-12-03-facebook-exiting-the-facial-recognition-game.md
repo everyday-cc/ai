@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/"
 type: article
 quality: 91
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition technology could change the face of Indian airports"
+    excerpt: "With the Airports Authority of India (AAI) working on a facial recognition technology-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports, including Varanasi,"
+    publishedDateTime: 2021-12-03T15:08:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html"
+    ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 74
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2019/1/3/face-facial-recognition-software-system-computer-shut.jpg"
+        width: 760
+        height: 443
+        isCached: true
   - title: "These 4 Airports To Have Facial Recognition-Based Boarding By March 2022"
     excerpt: "The Airports Authority of India (AAI) was working on the country's first facial recognition technology-based biometric boarding system for passengers at Varanasi, Pune, Kolkata and Vijayawada airports,"
     publishedDateTime: 2021-12-02T13:35:00Z
@@ -153,6 +169,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1DIh+vKWfhAOnHC3G4S+PgWuGhrfQ1jSWevkRXu/fAUL9iSu9m4b3t5MozCBT5iCbVGh/dEfNXUYwWxjTgg+ut5FWOYNdV08+132Gr9hALGbk8pLd++RMfr0HidlKI/3Bc4iFnZSuFHtHl4A6a36n4xb78gzkchCI0GruI8REeyEfeTLsw00Gd0/X2DzQQwEpkythyiKgc8Ooua9mMSc50tIelyap/0oX2E7csc+49r7TEfiucdN/AJ0V2uXNYerU/E1rt8dYyeFcPkdOPjjkKezR1u3LNNwsRn2L3bMuHYV7QkTpfIota+f6rFDDUG6aDcD//NngfYAFWZyodoU1GRvii6GbsWPeS0AsifjNp8=;Yp06i5XXnsHCBLpGvhIN2A=="
+secured: "0CFzLuVmvUMXCBJM2omMtNKoJB3D1XYqyJaJJe5L30L2VQN1X4Wzd1xoXW+sblGrE3/Q9p9I0Zh9ywVE3B1baOcgZebXnkdfNkYnkveAIydqhwTrg5yuV72S8wY5/h2ZcCr5+gHtsr4FRyrratuBNrg0dpzaW3HsrO0rPkgEmpk1bg+hzDoQdHX9Tend75203Xd/5Sy073IxlUFK37wLzsyq4ZKao3yI+rqEJCC5AtBjpUJY7TghRe/hq6Pf/2ZDxVj0fWmazmVMqKlCSoXgDIxHWz+fq+QWoMigmiyFwrEa3zkvExca+PgUeibqcygcRSjUU5MyTCS6TFOOV1d60cQUCYYZYfHSuU3Wn1PcQSgClttIpMRjNyA4nK51PC8BqX2aNYVxy3uL72LsJCLBFIiTO9kABy9s5z80AnNZAT0KxAfSdYl71gOZzsYYUgX9KTszE9iNhL1THhP0Q2oh3IXdz6uIqL6EBZI2EXBUjXNV/MT6oMuMAtAXpBZlNThdmkuPXnJtZckabCAdlHNHmg==;TbDP+YEg270WXkfe3Td6Xg=="
 ---
 

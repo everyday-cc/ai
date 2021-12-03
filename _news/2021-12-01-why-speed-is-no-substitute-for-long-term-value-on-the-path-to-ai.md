@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/why-speed-substitute-long-term-valu
 webUrl: "https://www.linkedin.com/pulse/why-speed-substitute-long-term-value-path-ai-mark-lambrecht"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     width: 1377
     height: 600
     isCached: true
-
-related:
-  - title: "Why AI in the Military is to"
-    excerpt: "Let’s answer One of the most rising concerns – how AI in the Military will create both international stability & conflict with the AI-enabled military systems? The world is becoming independent; we are seeing and living the advancement of independent vehicles,"
-    publishedDateTime: 2021-11-29T18:16:00Z
-    webUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628"
-    ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
-    cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
-    type: article
-    provider:
-      name: El Clasificado
-      domain: elclasificado.com
-    quality: 57
-    images:
-      - url: "https://elclasificado.com/photos/5a/04/5a0442bda5094029a6efe5fdb3c5bcc5/l.jpg?image=0"
-        width: 720
-        height: 405
-        isCached: true
-  - title: "Our award-winning AI is no threat to lawyers"
-    excerpt: "Monaco Solicitors won the 2021 Law Society Award for Excellence in Technology and Innovation for our Virtual Lawyer AI employment law advice project. We are proud to say that our Virtual Lawyer tool is helping increase access to justice by making legal advice in employment law available for free for tens of thousands of users."
-    publishedDateTime: 2021-11-29T00:01:00Z
-    webUrl: "https://www.lawgazette.co.uk/practice-points/our-award-winning-ai-is-no-threat-to-lawyers/5110715.article"
-    type: article
-    provider:
-      name: lawgazette.co.uk
-      domain: lawgazette.co.uk
-    quality: 39
-    images:
-      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/8/3/3/100833_monacoteam_942409.jpg"
-        width: 1024
-        height: 536
-        isCached: true
 
 secured: "+8nrTjg+P1IX88r64Ob+9x0AWNp3hp6YWHUCoGCTdnyFdWappHIvQ+ZGgkkFXEUA3ThdatEDMPm4hbtz827NVD4yetN+r7vrmw3zI9eRl8i/0ISnURVMxLyz2fhay9jzNrE39AFdDBKWWX56YQAGTGA+qQfaorNaZAILYc73YrsGryIeLaMfswJoxR+008cvFmxRn2qMTsS41N+RapOOvbimQgbYhPSJ7fYTKvl0WblcT1qwr30kIs1+SZYVQ78S6kDpSBgFEQBESLLFxE8YoahTzyXhRfY8ksn3pEWBYRDmMDLGWlbIDAWb4EDIVKic9BMHVuOZVpa6wha0Ev+J2Ba2QIPko4jw+kidecb4iRFvts28lRjN3Yig2UdfeBP2QaYjVC8qeRK8FyvjUYa4OVHR5grDtDjAuKEMXTDGMLuaF2GXJ69PaRTBDc6rFak+Y4POwDzM4gABQw7xZ+q0Fty7cagrIOsz1bIJjI9ZjqrdG2cnuJ0XilL3iDHKT3U4q4c9QcFjD2/qMCnOLnER3A==;Fy5E39HytXIwRfMufeJSKA=="
 ---

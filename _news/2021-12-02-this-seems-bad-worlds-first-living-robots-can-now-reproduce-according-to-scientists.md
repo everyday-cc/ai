@@ -232,15 +232,6 @@ related:
       name: WHDH
       domain: whdh.com
     quality: 39
-  - title: "Meet the robot that can write poetry and create artworks"
-    excerpt: "When people think of artificial intelligence, the images that often come to mind are of the sinister robots that populate the worlds of"
-    publishedDateTime: 2021-11-29T00:54:00Z
-    webUrl: "https://www.cnnphilippines.com/world/2021/11/28/Meet-the-robot-that-can-write-poetry-and-create-artworks-.html?_=1638146797578"
-    type: article
-    provider:
-      name: CNN Philippines
-      domain: cnnphilippines.com
-    quality: 19
   - title: "Team builds first living robots that can reproduce (w/video)"
     excerpt: "AI-designed Xenobots reveal entirely new form of biological self-replication - promising for regenerative medicine."
     publishedDateTime: 2021-11-30T07:04:00Z

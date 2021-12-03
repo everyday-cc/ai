@@ -2,6 +2,92 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-10-27-nightly-news-full-broadcast-october-26th.md",
+      "title": "Nightly News Full Broadcast (October 26th)",
+      "excerpt": "FDA panel recommends Pfizer’s Covid vaccine for kids ages 5 to 11, powerful nor’easter hits East Coast, and how facial recognition will change the way you travel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-october-26th-124680261894",
+      "originalUrl": "https://www.nbcnews.com/nightly-news-netcast/video/nightly-news-full-broadcast-october-26th-124680261894",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2021_10/NY-NN-XXXXXXXX_CLN_18_30_19_00_Nightly_News_with_Lester_Holt_AS_frame_5770-shy7m3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo124680261894",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo124680261894",
+      "publishedDateTime": "2021-10-26T17:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-artificial-intelligence-in-regtech-market-size-forecast-to-reach-33-billion-by-2026.md",
+      "title": "Artificial Intelligence in Regtech Market Size Forecast to Reach $3.3 Billion by 2026",
+      "excerpt": "Rising Demand for Regulatory Compliance Driving the Growth of Artificial Intelligence in Regtech Market ... It can create risk models and self- improving methods for data analytics, modelling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-regtech-market-size-forecast-to-reach-3-3-billion-by-2026",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-regtech-market-size-forecast-to-reach-3-3-billion-by-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1635161709.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-aws-announces-general-availability-of-amazon-ec2-dl1-instances.md",
       "title": "AWS Announces General Availability of Amazon EC2 DL1 Instances",
       "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced general availability of Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances, a new instance type designed for training machine learning models.",
@@ -1095,92 +1181,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-pepsico-hiring-150-in-dallas-for-new-digital-hub-leveraging-ai-and-machine-learning.md",
-      "title": "PepsiCo hiring 150 in Dallas for new ‘digital hub’ leveraging AI and machine learning",
-      "excerpt": "PepsiCo’s chief strategy and transformation officer describes the new high-tech team as a first for legacy consumer packaged goods brands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beveragedaily.com/Article/2021/10/26/PepsiCo-s-new-Digital-Hubs-to-develop-AI-and-machine-learning?utm_source=copyright&utm_medium=OnSite&utm_campaign=copyright",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/pepsico-hiring-150-in-dallas-for-new-e2-80-98digital-hub-e2-80-99-leveraging-ai-and-machine-learning/ar-AAPYqqF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/beveragedaily.com/news/r-d/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning/12958789-1-eng-GB/PepsiCo-s-new-Digital-Hubs-to-develop-AI-and-machine-learning.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T07:38:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "beveragedaily.com/article/2021/10/26/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning?utm_source=copyright&utm_medium=onsite&utm_campaign=copyright",
-        "domain": "beveragedaily.com/article/2021/10/26/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning?utm_source=copyright&utm_medium=onsite&utm_campaign=copyright",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round.md",
-      "title": "Fintech Mortgage Lender Button Finance Finalizes $2M Seed Round",
-      "excerpt": "Button Finance, Inc., a Fintech mortgage lender focused on home equity, announced that it has finalized a $2 million seed round. The proceeds should allow Button Finance to recruit talent and to further develop its proprietary technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Money-Benjamin-Dollars-2.jpg",
-          "width": 1280,
-          "height": 934,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/amp/",
-      "publishedDateTime": "2021-10-26T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

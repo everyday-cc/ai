@@ -37,7 +37,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 73
+    quality: 75
     images:
       - url: "https://techbullion.com/wp-content/uploads/2021/12/Assistive-Robotics-Market.jpg"
         width: 818

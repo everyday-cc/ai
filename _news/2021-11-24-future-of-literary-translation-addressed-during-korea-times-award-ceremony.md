@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Future of literary translation addressed during Korea Times award ceremony"
-excerpt: "Participants in the 52nd Modern Korean Literature Translation Awards pose during a ceremony at the Lotte Hotel in central Seoul, Wednesday. From left are Korea Times President-Publisher Oh Young-jin;"
-publishedDateTime: 2021-11-24T07:45:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl"
-webUrl: "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl"
+excerpt: "\"In terms of translation accuracy, AI may be better than humans. But languages are complex and nuanced, and there are extra-linguistic factors such as context or emotional output that need to be taken into consideration. There's creative aspects of ..."
+publishedDateTime: 2021-11-24T07:44:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw"
+webUrl: "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 653
     isCached: true
 
-secured: "XWpyMmxC62KcSGpBTxHgAQ9cQXHudrLm+9/GG3dOEtaoHmYbwMfOGME3x1+ahEhrhyCvGlluuqSbevhoFsqhBuqjGX0zOUF05L8OY1BDazqlOKzO6CY1jjE2+oue8CmGVS9BWk5es8IPicLIADxILZ26u5uJ87KPJ9G4941+zvpD7pHzSzDwWNT0yBsJAMvxMwM5Ad9SKKBfGq+KJcVoFmRSTv9up0nuEw13bqYoi06oA83lHFkWRdY5Vkfx1sMzHFRhz6rQnBe4GWFW9RMJ3/9ZrCKwuf0r6pYvl7XMvKCKDBGRpOf7/xV8v5nu8x9t5lh8Hsxg39oFCybAn/l22kSjEM+6atvLb36gH4HUwE4=;/lMAr8Emxhhq4pcuga9BEw=="
+secured: "cDq6YbWFUO5NynC3OOAidhCxNh5mhuOKKEJ7MVUVFtnqg8LJJfdR6/WSZb5uo6rkFVw620Hr4FTKaqECb9b3vvpTJGLVfQV4O28dsuS/Vx3D6qF5qntvU+ptHUayipbT9CORH8EXfsiLIH4UUdVnhbs9IqfUw0kKC70UhQ57tbmhz7uFgy8xqOYL6S/7pmR/Op5SSs82R4mc19EnHuKI0To1q19eVJfj+HEvniwuYu6CMZKLagZZA+BADTPDJyYmLXUHWwJkB2sf6ZKqJLzJ0/NPhCfz70qewNF7f6W28HeJb/Gat99UJmqcrGxIcSJBd6UJT8oW4aqOpBM/gU+d/g0A241x2EbjSq/3+4K6Qgc=;1PLe6JrRmomFUqYTvDZhfw=="
 ---
 

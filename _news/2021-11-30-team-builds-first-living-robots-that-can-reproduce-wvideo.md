@@ -240,15 +240,6 @@ related:
         width: 1300
         height: 719
         isCached: true
-  - title: "Meet the robot that can write poetry and create artworks"
-    excerpt: "When people think of artificial intelligence, the images that often come to mind are of the sinister robots that populate the worlds of"
-    publishedDateTime: 2021-11-29T00:54:00Z
-    webUrl: "https://www.cnnphilippines.com/world/2021/11/28/Meet-the-robot-that-can-write-poetry-and-create-artworks-.html?_=1638146797578"
-    type: article
-    provider:
-      name: CNN Philippines
-      domain: cnnphilippines.com
-    quality: 19
 
 secured: "xDOysFwOodd9bKJpTb4DJyVoXDF1og5oX+L1zdmdWi3mzaw5Hp3pvdJcgZHx561OI8wOAzIXGCVOr3FpRY2gyQlkkLnYAwWs36steaqKPZtjoGl3ytHDmuVoZZJVTWJLngtPrOIwyd/qtV4Mc7oaDr2be5xeqUgwBGk6P+gNGx6CusDv6+Y0OodDt+neSlt/NshvuMx56C9oZpvrfcshHNjRHFEIPDohzP/w1mCfGge5s/ft0le91DwZG8UR8BTbPNGMWot0PYfaDcnUMVEf+Pe5g4mHYWk7ADqKX5j6OOi46qnZkVopWcAOG+5Q3mLwohmGgihqVlwUJM0cdue2pDRzYpuDeF+t95lNQsMKFHVsaS1uRfxiWaIxnLJlsCB2IOkoUTLEu3N5mf5mqVcXuBIbbgFosEpnaZ34GVvlQkXQiVCTxs/oteBmzzTaNwFa15yLQuWxyGcJmbOtMpg2nGDkd1x+0xcQREcN9NhGPr58YYUkAQCEWN8qaS+D5w7pySy6kOY3RVdDnoNO9fM74g==;PdM+JtiacF5ZDlCzZlF1tQ=="
 ---

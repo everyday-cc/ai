@@ -52,6 +52,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Top 6 Ways Artificial Intelligence Is Changing Real Estate Industry"
+    excerpt: "There was a time when Artificial intelligence or anything close to it seemed like an impossibility. That''s not the case anymore. Artificial intelligence has impacted our lives in great ways and there is no stopping to it."
+    publishedDateTime: 2021-12-03T16:24:00Z
+    webUrl: "https://news.tmcnet.com/topics/articles/2021/12/03/450830-top-6-ways-artificial-intelligence-changing-real-estate.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-dec/5159830407-artificial-intelligence-3382507_960_720.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "How This Pune-Based Startup Is Leveraging AI to Democratize Location Intelligence"
     excerpt: "Dista uses location information from anything with a GPS and translates it into a rich dataset to provide meaningful insights and predictions."
     publishedDateTime: 2021-12-03T09:30:00Z

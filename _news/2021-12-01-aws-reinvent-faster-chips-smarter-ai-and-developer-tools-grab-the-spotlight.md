@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/amp/"
 type: article
 quality: 117
-heat: 247
+heat: 257
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS updates databases, AI and serverless offerings at re:Invent"
+    excerpt: "AWS unveiled updates to database, machine learning and serverless offerings designed to reduce complexity and cost."
+    publishedDateTime: 2021-12-03T16:15:00Z
+    webUrl: "https://www.infoworld.com/article/3643572/aws-updates-databases-ai-and-serverless-offerings-at-reinvent.html"
+    ampWebUrl: "https://www.infoworld.com/article/3643572/aws-updates-databases-ai-and-serverless-offerings-at-reinvent.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643572/aws-updates-databases-ai-and-serverless-offerings-at-reinvent.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 106
+    images:
+      - url: "https://images.techhive.com/images/article/2013/10/database_servers_blue-100067015-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 774
+        isCached: true
   - title: "AWS kicks off re:Invent with compute, networking, and data launches"
     excerpt: "New AWS CEO Adam Selipsky fired off a barrage of new product announcements in his first AWS re:Invent keynote."
     publishedDateTime: 2021-11-30T21:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveragi
 webUrl: "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveraging-artificial-intelligence/"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Top 6 Ways Artificial Intelligence Is Changing Real Estate Industry"
+    excerpt: "There was a time when Artificial intelligence or anything close to it seemed like an impossibility. That''s not the case anymore. Artificial intelligence has impacted our lives in great ways and there is no stopping to it."
+    publishedDateTime: 2021-12-03T16:24:00Z
+    webUrl: "https://news.tmcnet.com/topics/articles/2021/12/03/450830-top-6-ways-artificial-intelligence-changing-real-estate.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-dec/5159830407-artificial-intelligence-3382507_960_720.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Three Ways Artificial Intelligence is Changing Food and Beverage Manufacturing"
     excerpt: "Artificial intelligence can aid in remedying some of the pain points in manufacturing, such as maintaining consistent product quality, need for predictive maintenance, and demand for actionable insights from sensor data."
     publishedDateTime: 2021-11-29T14:00:00Z
@@ -71,6 +85,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "AGrnNoOyPtDRgL7H5iVFen2JY1HYPXMNGONy+lwcCrSVxL3rJksbMRe04/Um6n3njiQru+rppEyeJhVM6pa1TVwo/OO9Q0dP741NsVNfFH3y0M3PbUInHlXH/IwystDDfxpSLl406CazMT0RRLjR1bZvposumhUkY8zvn20XcEK1atZHUAyz9oRKYEOp9XAS/9CIUm+i8KlENTlB3QcbmlphKfSFSKxww7mGRtbgSORYGJ/TJg+V+peRc8Gs4hv15dayDTQeghvn2e2gdnuuN/YjLWLpUzS6XI+IYzaBdy/a9xd+qbw0vs+5V0EXDCcmZEIq2yMLEdCwMxepgW86iwoutsbaNFerclUQZtXQftQ=;/fnWJhdLP7LXtvPoSqxXWw=="
+secured: "rMddHNOsvaLii/Fizi/33mAePKVAHvfGhshm0RKFirI7lx8bexi0LC1FJHkPE+T8GwXnVRZn2o0Uv3qylLbiy+xtn0SRhMHWz1KIYZ1FgNbPpv4xwJXySHPmEyUGBh5ACDSQez7bMApN/GmO5TAL74Rsw+3TrDV977lk6839ZA1VI1PGce6Y4lCsNAv3srOVSi/+sr9Wj0SrRy2TRD5pNzMeAEKwvZONAydSNG2LmXAPAGQplbBH7z6czcx26bFggDm188uXfZYDa294ozE3EnZF4K/c0chB3r8wCBj2ELcfZ6HSFaLVffZ8SeDXq0Zo9lWlM4gQUOMUIPlY6kVm28E/dDsja1FQHyl6k6bXNMcVLmdpBNhngMiximQtjRFnAuvOibkgyIyshNVUH13hy2gfKYYt+VhO2ebqS5tsJjvZJwrSdECv1ks8YGgV2++NDN5R3wvEd+Y9FeFT7m5bm4TaodARUFroP/hYfdblnteUmwZaeFDR80gx8Hkce5DaBmhxcRxvZN9sbn5W/thFyQ==;AWU5JgpMuJKhqcIIv6QyUQ=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/w
 cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: El Clasificado
@@ -26,33 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Our award-winning AI is no threat to lawyers"
-    excerpt: "Monaco Solicitors won the 2021 Law Society Award for Excellence in Technology and Innovation for our Virtual Lawyer AI employment law advice project. We are proud to say that our Virtual Lawyer tool is helping increase access to justice by making legal advice in employment law available for free for tens of thousands of users."
-    publishedDateTime: 2021-11-29T00:01:00Z
-    webUrl: "https://www.lawgazette.co.uk/practice-points/our-award-winning-ai-is-no-threat-to-lawyers/5110715.article"
+  - title: "The Onset Of Data-Centric AI And Why It’s Here To Stay"
+    excerpt: "The present circumstances indicate that if a company or organization wishes to start working with an AI system or wants to improve their current operation, giving much more emphasis on the data component will be a huge step forward."
+    publishedDateTime: 2021-12-03T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/03/the-onset-of-data-centric-ai-and-why-its-here-to-stay/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/03/the-onset-of-data-centric-ai-and-why-its-here-to-stay/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/03/the-onset-of-data-centric-ai-and-why-its-here-to-stay/amp/"
     type: article
     provider:
-      name: lawgazette.co.uk
-      domain: lawgazette.co.uk
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://d1d8vslyhr7rdg.cloudfront.net/Pictures/1024x536/8/3/3/100833_monacoteam_942409.jpg"
-        width: 1024
-        height: 536
-        isCached: true
-  - title: "Why speed is no substitute for long-term value on the path to AI"
-    excerpt: "Over the last 20 months, we have seen a growing sense that speed is more important than perfection. As we rapidly moved to working from home, and needed ways to stay in touch or manage work remotely,"
-    publishedDateTime: 2021-11-30T18:28:00Z
-    webUrl: "https://www.linkedin.com/pulse/why-speed-substitute-long-term-value-path-ai-mark-lambrecht"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHDxdSzArBqJQ/article-cover_image-shrink_600_2000/0/1638295469290?e=1643846400&v=beta&t=MFujEMwUG_O2JTejHCLrDxhvWtdBvyIh2d9OjoALeVI"
-        width: 1377
-        height: 600
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61892951ad641ca64a264904%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "7USWDPCesz12vnxWvJm5xJiRQeIcJ6AOGNAb7dh0TCoK2DkmnZT/KRhiQ6eoI9qtSceY+jwYsOpjoEOO7ePRbP8AW69VhT5xE2UJBSn2AnwqCLCZwZ5cB/dyXaIsqOjkvQbtdmzEHbq6qDIjOeb0lYl1YkaFaJZhZig/lz1wBqgWZMjFJuhb9B6S0o4BNVCwVFS73waP0PJq4rtEWrCixquM4qHqu4oPLNeukXQHhHEznMckOtidvKRV6dePr8f/SNimpjn0pTIF6TpDeLBXcPvpsdiAqDZClIOIogqGs3at5TKhxqRkwEoo1iox9/c4jJdzusYhZSpc3WUR47pemgCbNRVx1NZcYLeIICQc0DguMjDmUVMqgAeiezj0H7I366MV9ZRLwSrrS2ok4HJU/7ORFvJeVSjNwo+IgGKdPvBl55jDug1uCBwTKCAHMzuvIL7ZY7SnBW3ZQjTtmfDM8PbV7wepgBsJb83tyW/YBBGhMJZfjsQ1jMkdYk/3MlRxzjAx1AAmAeqLctU+5QiPpA==;KBr2kygmtsTKTc6ucBophw=="

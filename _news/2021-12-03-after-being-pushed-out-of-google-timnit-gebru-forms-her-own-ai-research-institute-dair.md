@@ -6,20 +6,21 @@ publishedDateTime: 2021-12-02T19:17:00Z
 originalUrl: "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/"
 webUrl: "https://www.dair-institute.org/press-release"
 type: article
-quality: 158
-heat: 238
+quality: 160
+heat: 240
 published: true
 
 provider:
   name: TechCrunch
   domain: techcrunch.com
   images:
-    - url: "/assets/images/organizations/techcrunch.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.sanity.io/images/wc2kmxvk/production/8ba934ca12f0a32532ca9cca98d37500b7641e93-1440x695.png"
@@ -138,6 +139,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "ihuOLW9VkNc4neHFtn6gGixRWMElarUzDUxJMRuuqJktehtMbhNlluazT7JwdDFTA3ZI43eWs6JdTv+Nl9WHmjKze1eaw1rUksYqGGMTuk6sPm4W2sDE3Fn/dD5K+oU9zKNO1IwzoPcFNdXiKJjVcdYc1xUcAamuZgNSvE2xMNacie2VOA+orEl2jxZIeCY0zZtr9v8a1xp2sfKNZAic3KfTJPEKJcLhorVqBl25RHHpa9pKUaupGj7ugz16oPI1wfMl+vOrT0NmVf7CzfnNIVjo5UI2L2rt44B/kLo1y0+rToa2jttsDc31AoW7UYzJDBf90iNjwofpMXyh10bQrMJvbOVCvsBOaEJAw7ytpXQ=;FmBAIHlu30O7ZQdIJYTk/g=="
+secured: "FFhp+1Fh6PrA2gFALI1OowWzcfMzsk+P+C2HjxOfnXgT45/lYfhsPhTA0THCZJXXUSo6nwA8ICACdecRwpg2ynKlR7jedOwU3YfpvRqOsfWVLxVvxitc9bk7292HoSQsYORqPcEW2nMvHhdwqGEPFNtQkPy7T6U0W8oL7oZ6L5jOftNJcPgYIFpT+CyTMZYSnkKHDJ2Sp++c5DfuLO+gCkvmCVjiJ26itjehaDU8PTCJpGInRCrmQhGAlhR9n2JPa9Yc7sgCM/ZNssjAmgKW/cv6DR6mbajk62DHepurU+Ubb7IIpcGrOPeKJYjVYp8JvqFUsI3oXWX+o+djrji8fPE7/KH1Fm3ZtUJJiybeFUv5k0gLSkUGP4fVUF0GycNe5oVB/yIPa6x8HS+7JAoEdH0DfieRONdbXMBaY4IfOR7iiUCFp6/BvyNWVT2Uqfa85xJgqiYXu6spxIZ0ZKfcEN0VqDXwgM1vzwfr4S0426sp3VTHV3JUczjs+qhesUS4MK/e805ym82YUF1yo9++1Hg041eAZE+JDvBocuaewDQ=;O6GBsRLPElvkoI5X34VfuQ=="
 ---
 
