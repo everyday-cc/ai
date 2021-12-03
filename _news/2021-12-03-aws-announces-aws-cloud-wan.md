@@ -143,6 +143,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Astadia Joins the AWS Mainframe Modernization Service"
+    excerpt: "Astadia, the mainframe to cloud company, joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions and experience in migrating mainframe workloads to AWS."
+    publishedDateTime: 2021-12-01T16:32:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-f74a29e7d5e9442a9d42ced21a2928e9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AWS Announces New Serverless Options for Three Analytics Services"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
     publishedDateTime: 2021-11-30T17:41:00Z
@@ -171,15 +185,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Astadia Joins the AWS Mainframe Modernization Service"
-    excerpt: "Astadia joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions in migrating mainframes to AWS."
-    publishedDateTime: 2021-12-01T20:31:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201005839/en/Astadia-Joins-the-AWS-Mainframe-Modernization-Service"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
 
 secured: "0u1x/Yn5YPKTwEqBnNNMRYN8BDcRm+qhYWxnYFnwG+9zADwRW0owR386bGBpr1Ij8ft+F/5BmU8dPEFJDg5mDtUpP1uQIESiRODWifKe6ySrpfD5Cj32poMXhtggFUPUP42yaL9voMiZm9rBFfekhxsQLPgRpUdeSg27fe1i4xC25eiElQ4S4VSFKuL6IXJq+MSAl4pAgUC5Zww41AzwdrtioNMK9kRMgld9x3lV+dx2a6oc9SWR/HMMJatQkuht3IW038culrvCcannhrgB+BusIQ3E0ssMBgxCdYJjLHeA2IkDqP4ncG0iLnFnJO2FiJ2WFFho+AOaVzMINM9OR245CM+3/ifWVT2e0r2/x+o=;uDFEpybrIQhYmbYHiBfUoQ=="
 ---

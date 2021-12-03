@@ -1,27 +1,21 @@
 ---
 category: news
 title: "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation"
-excerpt: "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,"
-publishedDateTime: 2021-11-23T14:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58"
+excerpt: "CVG is using computer vision, AI, and advanced technologies to manage capacity constraints while maintaining its commitment to customer service and brand reputation TaskWatch enhances CVG with ..."
+publishedDateTime: 2021-11-23T14:11:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation"
+webUrl: "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Computer Vision
   - AI
   - AWS AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "QlFlRKrzIC910SEQMjm4WG1cs9ARmUVK4V8s4nfOu1PwKQ2LWIAJVP9ff6Od0kfJIWyIyHGfiv7OMb3GKYzbg4AyK9aJMMdFkPgvHGiv017u0qbfZlra18IyHM0kLSF3NCoA/z2QMRhV+YPCQvRpPqNiVXrd1ZJOcNnH60UgqFjYXNyKDRFCOIssQgBG2MjoYM94Y/XLP4htZzL4gqpXrI+xxSX4MvVL9LXYLmEu8EWLbUE/0533eRlvZj849DoNlbM0cZq5m0ki0d7f7P/5mQqZKMZstjCqwy7sW2lY284DirxT8ievtx+FxHthmB1iyGUL27DD1dyoKb/0ZdgRQVizFguXMiD3DIa05VaNZpk=;RpuhVCsYuBhHjxCFxLp6ZQ=="
+secured: "kXlsBOWtIK0Mstkb+YANu8NNxc6LziUTqzkmrgi4il2JyjeNMjvpyyFCd/NfQZyO+Fv+8HpwnMmq5rRH48EJ8nKTDrMwVUUQtOEr/Wi+Wj3UHkgK+6FLNzyFI6yqeUk6nE/G/BP/fKvftUR8I408z/+TjG4RimdI3/lkQz0dnfjmtDYaG8loUi4JT2hzeL5UYszOKOFIg0d57yyWZkvHuCdX9FD3UUhcAcLfSjjViUFo/owbiu6sSwLrUwi/AyvYYd/LokqpgedtSsjGNNLyAlZe1xLxoLNmMM8t4tW1+MsAEBMcLsLRsm6Wc6ZJJH6KUGBUItjuNthqUYVuTkyxT3bLEnrms5fOWB3wpOvxtP4=;Ve1xSYLlBuQIKB125YOF3A=="
 ---
 

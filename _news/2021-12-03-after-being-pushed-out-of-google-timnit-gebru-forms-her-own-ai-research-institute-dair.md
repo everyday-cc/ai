@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-da
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/amp/"
 type: article
 quality: 82
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "After being fired from Google, Gebru forms AI research institute"
-    excerpt: "Artificial Intelligence (AI) researcher Timnit Gebru, fired from Google after sending an email of concern to her Ethical AI team, has set up her own research institute that will be an independent, community-rooted institute set to counter Big Techs pervasive influence on the research,"
-    publishedDateTime: 2021-12-03T07:05:00Z
-    webUrl: "https://www.sify.com/finance/after-being-fired-from-google-gebru-forms-ai-research-institute-news-technology-vmdhfhjhjdide.html"
-    ampWebUrl: "https://www.sify.com/finance/after-being-fired-from-google-gebru-forms-ai-research-institute-news-technology-vmdhfhjhjdide.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/after-being-fired-from-google-gebru-forms-ai-research-institute-news-technology-vmdhfhjhjdide.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 59
-    images:
-      - url: "https://www.sify.com/uploads/ai-robot-tlhnOxahhjcei.jpg"
-        width: 700
-        height: 525
-        isCached: true
   - title: "Timnit Gebru’s New Research Group Wants to Free AI From Its Corporate Ills"
     excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."
     publishedDateTime: 2021-12-02T13:34:00Z
@@ -106,6 +90,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Will Timnit Gebru’s New Institute Take On Big Tech’s Influence On AI Research"
+    excerpt: "AI needs to be brought back down to earth. It has been elevated to a superhuman level, which leads us to believe it is inevitable and beyond our control.”"
+    publishedDateTime: 2021-12-03T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/will-timnit-gebrus-new-institute-take-on-big-techs-influence-on-ai-research/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/Timnit-AIM.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Google fired its star AI researcher one year ago. Now she’s launching her own institute"
     excerpt: "Timnit Gebru is launching Distributed Artificial Intelligence Research Institute (DAIR) to document AI’s harms on marginalized groups"
     publishedDateTime: 2021-12-02T17:00:00Z
@@ -120,6 +118,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "After being fired from Google, Gebru forms AI research institute"
+    excerpt: "Artificial Intelligence (AI) researcher Timnit Gebru, fired from Google after sending an email of concern to her Ethical AI team, has set up her own research institute that will be an independent, community-rooted institute set to counter Big Tech's pervasive influence on the research,"
+    publishedDateTime: 2021-12-03T11:28:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211203/3866666.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "XpSbhbqJp79CZBsqOOl882MkXS4odtfdHrnlEHH7vE++XVN2saQKva/lGxs7fnoMQxToc9VbNZyVztEL9KUvom8bAyYUSw+M0gw9eITBiFLd/T3iDeH1B4vR0DYV8wS5DIC/CwAhn6a1eS+lk2PenD4LNZhltNZ7mbchpPG7c+bj2WF9FSL+yA/RNW0jpPPUaJ5kyG1bq3YIQwDFX+fD4bfEOWOf62T9xl49EYGs/R+c81KJeEqosExtvaREsg84lv6ji7n0pHQpBdkFoR2/Vn0OePvCPQiE13A/LrR0DmGBA2q1u9zp3KRyl4EZeGC4FP01eLXEMu5liNkDY42yfoSk6t3t7xmnb0r9iodBdx4z3VaLdVKvReiMB6cJYpHNyBIchIs149P86VSM4KxK1bIYMTrvi+/35u1bcn1zqQzup7ncMFHWwbrKGyuHTQp14v3JZ0JdeU+ug/TuIu1Z3ezJqoalyJCklBrEn3lMTWa2ppQoPyC711H7DR4sOCJNMpokjPRJYQGr/F70Tv6J0Q==;K4ltb1oYdJ1hNV04G0IY/A=="
 ---

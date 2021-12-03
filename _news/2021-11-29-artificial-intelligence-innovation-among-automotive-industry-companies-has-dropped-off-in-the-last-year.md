@@ -52,6 +52,20 @@ related:
         width: 500
         height: 334
         isCached: true
+  - title: "Artificial intelligence innovation among power industry companies has dropped off in the last year"
+    excerpt: "Research and innovation in artificial intelligence in the power industry operations and technologies sector has declined in the last year. The most recent figures show that the number of AI patent applications in the industry stood at 127 in the three months ending September – down from 185 over the same period last year."
+    publishedDateTime: 2021-12-03T10:00:00Z
+    webUrl: "https://www.power-technology.com/features/artificial-intelligence-innovation-power-industry-companies/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 23
+    images:
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/10/shutterstock_1097273573.jpg"
+        width: 500
+        height: 334
+        isCached: true
 
 secured: "MG3PubhSjiGRvEJpTbWc9xa+AbW6Tu2il3n2tT1BMqNf7Y7fNPdq1Ip+/BmkAmrzC4843mv1rcicgm9saqpMR2/nB0hHcE0GewrtejoeaD794vE2OWNWik/gaUTxcDmtjZPdmsVZwMyUkbGPvTPTOk1gacgwD2C3f7D1R9Y7NRDGdvX6R1s2POkjpzMgpion4Bw/J5MGMNNFyjFGFOje3B6JkTk2eEg7CTNkeT1dF1K50I1/21T1U0FgojNB66PPA7WmhUzMzbmCIHxOiv+2dbxI1jDyYl2lNZ+4lsm9oxQOruwX08oLzogw8sQCKkhynmOuh7EPCnjMZ3XXCke4jThuHl15LKNPghdNT0rddQk=;S3gVrUvlEvDBje/3fHfj3A=="
 ---

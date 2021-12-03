@@ -149,6 +149,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Astadia Joins the AWS Mainframe Modernization Service"
+    excerpt: "Astadia, the mainframe to cloud company, joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions and experience in migrating mainframe workloads to AWS."
+    publishedDateTime: 2021-12-01T16:32:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-f74a29e7d5e9442a9d42ced21a2928e9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AWS Announces New Serverless Options for Three Analytics Services"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
     publishedDateTime: 2021-11-30T17:41:00Z
@@ -163,15 +177,6 @@ related:
         width: 320
         height: 300
         isCached: true
-  - title: "Astadia Joins the AWS Mainframe Modernization Service"
-    excerpt: "Astadia joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions in migrating mainframes to AWS."
-    publishedDateTime: 2021-12-01T20:31:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201005839/en/Astadia-Joins-the-AWS-Mainframe-Modernization-Service"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
   - title: "AWS Announces AWS Cloud WAN"
     excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Cloud WAN, a managed wide area network (WAN) service that makes it faster and easier for enterprises to build, manage, and monitor a unified global network that seamlessly connects cloud and on-premises environments."
     publishedDateTime: 2021-12-02T17:44:00Z
@@ -182,6 +187,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "9ufxbzs4Bh4H/5q7jyoQb9bRUkvBrxY7niuihxW3jYRP7Idku4ZArO/aJtwoH64hh5+4+ebEi6N04r5Eu5Ekl96f/JRiBxAZaTa8/P7foNe6yEudsewrrBK74BjYUX0ZYsZXIiQ0OMFhD6DD4q5iMZALAOwMvW0OhgIdU+BPX5vqqECHbm6gTrPKYHqNUKQ/vVsgFzsvGNB63j40bi16sxVJqu1UynM0RFlisat+BF+L8HB61pwZ8I2xT7vnqS8j0AVbNxFwSF1dodSWDicECERobrZPG8tzvROCYc10Kgfq8D1eiXu1tkpsPyJsK92ZoteTLEJc2hJ/DUavvJUVVHVcmBekPpUXSWw+8KxDh+M=;DQAkPQBSvxOm7ZVgzesk7A=="
+secured: "igqxsNtsyAH22Ht/ubwObk7NBHcy4qLT6eC39AJyCMTd7+aT5tfmdspY9rdgoHxT3zhPAmfrlNQmcaEDMqfau3roAdqwJKU7V1tSbB9icvp5fSEF4o2pnYWAc2GkZtD/HV1WMrQEIBBOSOD3TH0Oks0LTJrksf6BMczvREsC3oCRQCkV+4M8wJGnZfBBNQ6VHqZuLJw1ZGOpmFxH6VhpIfwIDNBgyoLyHZbnyFOksi/aFe9zSAQ9XI1KGM82ksCJnG0vyWlhDv4tT1m/i6exAC/MJtD4ThM/x/vohxPEqkTPbXDdSNkX6hn3aVYin/ZQK3eP3HvYWT5JBm/IIgZBt4hO0TyKl3vTm0hNUPO7rheG6YZ0ZDRT5NlFb1WRboX7ERKr+VJ2ZhYNWZ7tOo1/knLSjY1MkFo6sel2I0yafv8S/JEKlRbbDYp8kqMN0LXX6jrHLGIiZ8ZsMYCvktxGrEMf3f58tcNMkDLDWcwhloir4pe/K51ZtUsilW6E7tahjGt0uMkOXeljRI+yORXavg==;XMG9PkUD/WpbbrqFGNZbUg=="
 ---
 

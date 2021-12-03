@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/how-this-pune-based-startup-is-lever
 webUrl: "https://analyticsindiamag.com/how-this-pune-based-startup-is-leveraging-ai-to-democratize-location-intelligence/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "How This AI Parrot Is Giving Navigation and Communication to Those Who Need it"
-    excerpt: "The Health Wildcatters alum is using technology to provide hope and assistance to the neurologically challenged."
-    publishedDateTime: 2021-12-01T21:00:00Z
-    webUrl: "https://www.dmagazine.com/healthcare-business/2021/12/how-this-ai-parrot-is-giving-navigation-and-communication-to-those-who-need-it/"
-    type: article
-    provider:
-      name: D Magazine
-      domain: dmagazine.com
-    quality: 33
-    images:
-      - url: "https://assets.dmagstatic.com/wp-content/uploads/2021/12/iStock-1164009670.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
-
-secured: "NxlIakLbeFx1U0vmk+5mdaVKJk3TG14lrd5K/KLVhiK1VeppgusEO0Q06LHdt5QOMczOKvzqINMiXKItfYWwzz0kh+4fyj8rGGG0uTy/61hcSiB/zgP+l76iCNJMxWO7/33qBaMc+TWYMRIYVe0v4nKk4csEMybqY4TpbQ4ze9jFbQKhcX8Cd6n47EqMbvQIZZunKYWjs5gslfS5T59yfHeuKrjTWxO9sRMbVbDVmq/9HFWwpfmfn+1HhMszwQp9AuUgyGe97Hlr4CS71gmSnwv3HbnXsDBaOhHH9uBHCcZ4mqtNBbYRAyJoBNUsIf4ju7g2TUT62QDMluJBk9eqGIinXh3xVFucoumR52fvF9c=;4w8UwSmpHYa7BEw+VuSKmw=="
+secured: "Bdoei0afA9XzQ4PGxQ5cWwSc6oRE9c6VSUawglY+ea8MuVMIa0/DiefZMg6YYaYIUCtDhSYyRv8Y806bAhVuA9R0MGPUXa1S17NTiw5t/rcmgelikMeBVwugJ2SrhTOk//++op5D9D+zQGlKA2EtEj4YRIVo58KcpWk6ZqapLIpA4FX986JXyclHNSdyf6LuLwFQXECcHaqigso3bAtr8p2Upml4Vd1Paio2MIV5Z2FDLShufVYjKQ2cBrYn6Fpezfig/zx000e7QywIa79dD9uia3GF57EfVvO8QhM9zpRQG0uEQ+9qIStbbPANGs7x26R0JJXcHGZOTmYE5XF6RBqw4bVwtRkV4pWo7Bd7/koFGnPPuP7rthCUVzPL090TYaxD+KXsIc+Wl1xwJ3tNR4hssL6hap8dIx2rdw66lhWDpmFAp67j3vzCEvMT1NoJaiMkb5IhsUqJB6mXF42A8GOVwPPIJ3XO5wz3B4sySBjAk4rEH9QRbxLbPI+38N/VCUXnYDN35iQJrZQwlWppLg==;nKg14umt+PuCPI/cmTKodw=="
 ---
 

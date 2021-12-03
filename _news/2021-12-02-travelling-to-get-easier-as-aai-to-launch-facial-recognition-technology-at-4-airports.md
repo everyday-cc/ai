@@ -337,20 +337,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 11
-  - title: "Face Verification 12 from Neurotechnology Extends Facial Authentication Capabilities to Web-Based Applications"
-    excerpt: "Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, today announced the release of the new Face Verification system. Face Verification 12 is designed for the integration of facial authentication and liveness detection into PC,"
-    publishedDateTime: 2021-11-30T08:04:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-web-applications-europe-762cf6ce0a6c2e7fdf86a3f5a868ca93"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "u1WSX6rttf9TWGDOCPx2XBGRNA3mguUVE+NyUzBWQ7tx4ympBNEHSxvktiTSy6h9XwNVtt1TjF+SX37dnyTpRLTB5oY4G4T2GV5J2Y4ELP5EjJJrzB37XpCeDR1dvUs9Lj0SFxWPbhzbq9QyqJ6M7KdnyU1tfpGz4F4jZlwey0Ik1cc9Dx7n7pf+ZjDeAgu98hWZiKo06CzXZ29xsXlRWQ0UmmzagBedBtEX0dj50cDVYR/8WgzO8gQhQWpBpwaBc2/4Fju4A2HAOi1cgndRJElsiH/rvQazBGGoq8kq4vbEYMoghOxTEDYZD6aEEFRyu1W0nEHUyl18H9CBjOKvGYSPUUoFH2pryCjadphk0uo9GhcZBI3J35KSYluvI+9ly37MBdIJmoYwaZSGEN9utTjmbn0NZ8Q5IGADO6kYbI/o3hRr2asdEmHva7XnE43oEJzVnLXy/ono1qkInMTSgUREaka7x90W3CAB+Gs2agFuQV9JAxcnD7U7+kEijgC3qOr0cevObJB25EgloWMOWg==;lOhLi8pIzwC19TELDBrUmQ=="
 ---

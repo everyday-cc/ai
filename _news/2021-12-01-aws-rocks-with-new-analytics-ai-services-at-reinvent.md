@@ -129,20 +129,6 @@ related:
         width: 350
         height: 456
         isCached: true
-  - title: "My guide to AWS re:Invent 2021"
-    excerpt: "Invent conference has not only become the much anticipated event for customers and partners, but pretty much anyone interested in cloud computing. After the pandemic forced last year’s pilgrimage to Las Vegas to move to a virtual only format,"
-    publishedDateTime: 2021-11-28T20:07:00Z
-    webUrl: "https://www.linkedin.com/pulse/my-guide-aws-reinvent-2021-adrian-de-luca/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEYM9LIE1Cftw/article-cover_image-shrink_720_1280/0/1638128964080?e=1643846400&v=beta&t=EnD-aIeOeI0glv_YgDnicOcMABnIIXQ-GGaY5HvHwlA"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "All Eyes on New AWS Boss Selipsky as re:Invent Kicks Off"
     excerpt: "When Jassy left his AWS post to take Jeff Bezos’ old chair at the head of Amazon.com in May, it opened up one of the most visible positions in all of big data and AI. The job went to Selipsky, who was one of Jassy’s lieutenants when AWS launched back in 2007."
     publishedDateTime: 2021-11-29T21:32:00Z

@@ -150,6 +150,20 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Astadia Joins the AWS Mainframe Modernization Service"
+    excerpt: "Astadia, the mainframe to cloud company, joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions and experience in migrating mainframe workloads to AWS."
+    publishedDateTime: 2021-12-01T16:32:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-f74a29e7d5e9442a9d42ced21a2928e9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Discovery sticks with AWS for cloud services"
     excerpt: "Discovery has extended its use of AWS for cloud services. The broadcaster uses AWS’ tech for the infrastructure carrying its discovery+ platform, digital services, and over 450 linear channels around the globe."
     publishedDateTime: 2021-12-03T09:50:00Z
@@ -164,15 +178,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Astadia Joins the AWS Mainframe Modernization Service"
-    excerpt: "Astadia joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions in migrating mainframes to AWS."
-    publishedDateTime: 2021-12-01T20:31:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201005839/en/Astadia-Joins-the-AWS-Mainframe-Modernization-Service"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
   - title: "AWS Announces AWS Cloud WAN"
     excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Cloud WAN, a managed wide area network (WAN) service that makes it faster and easier for enterprises to build, manage, and monitor a unified global network that seamlessly connects cloud and on-premises environments."
     publishedDateTime: 2021-12-02T17:44:00Z

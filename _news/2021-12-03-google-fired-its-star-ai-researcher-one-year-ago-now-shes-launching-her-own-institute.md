@@ -71,22 +71,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "After being fired from Google, Gebru forms AI research institute"
-    excerpt: "Artificial Intelligence (AI) researcher Timnit Gebru, fired from Google after sending an email of concern to her Ethical AI team, has set up her own research institute that will be an independent, community-rooted institute set to counter Big Techs pervasive influence on the research,"
-    publishedDateTime: 2021-12-03T07:05:00Z
-    webUrl: "https://www.sify.com/finance/after-being-fired-from-google-gebru-forms-ai-research-institute-news-technology-vmdhfhjhjdide.html"
-    ampWebUrl: "https://www.sify.com/finance/after-being-fired-from-google-gebru-forms-ai-research-institute-news-technology-vmdhfhjhjdide.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/after-being-fired-from-google-gebru-forms-ai-research-institute-news-technology-vmdhfhjhjdide.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 59
-    images:
-      - url: "https://www.sify.com/uploads/ai-robot-tlhnOxahhjcei.jpg"
-        width: 700
-        height: 525
-        isCached: true
   - title: "Timnit Gebru’s New Research Group Wants to Free AI From Its Corporate Ills"
     excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."
     publishedDateTime: 2021-12-02T13:34:00Z
@@ -115,6 +99,29 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Will Timnit Gebru’s New Institute Take On Big Tech’s Influence On AI Research"
+    excerpt: "AI needs to be brought back down to earth. It has been elevated to a superhuman level, which leads us to believe it is inevitable and beyond our control.”"
+    publishedDateTime: 2021-12-03T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/will-timnit-gebrus-new-institute-take-on-big-techs-influence-on-ai-research/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/Timnit-AIM.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "After being fired from Google, Gebru forms AI research institute"
+    excerpt: "Artificial Intelligence (AI) researcher Timnit Gebru, fired from Google after sending an email of concern to her Ethical AI team, has set up her own research institute that will be an independent, community-rooted institute set to counter Big Tech's pervasive influence on the research,"
+    publishedDateTime: 2021-12-03T11:28:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211203/3866666.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "L4un0g0+fu//aDUbYp072q/7lhDnQNIGQzSHqJIe3LQ9MU0pvdFa0Q2482fJNqVQvm+NnhLpXDWQQvdgBdfUpCd3wY+LIbtPEzggUfE1LOQy2Oo4J4ZBLroNemPe1Z8VmOQoczQyulNutHv6uC77DdlOC6NCr8S6Mkm6pLd98hjcUPq1vKGts5osY3Zr/QuJ9ob4Sd9iUsBQX8gLI5v604fAEBgjkkXUa3B3vFsxAMio0uhQ60pW1a3tzznADd0gU0Dslrpz8Jvez7jhPaow6NKB4A6Xu0K7rYFJXWtPQoSlUu7jcEZKFVRhg00+Z8bym80ULHLtC4QO0eAqTJN+S5mHYYycsLzb8BMWqvKBtK+VLcSe77HncmpZMh8GRNbypr/yuIUeZr6Et2b7ydN+YLipM5Tee/tewNf6P3vn7MaCIM0ynXpzHjbQkJMdIFGSKt+JutTBTVAU+ZgwbVEc4URkW8MQXDjhe/tT6Y8s6d8cYBjKcrSGw3xUEghbUcQEvu5TpouItqBAjesIem7Quw==;eN1wxWBDc1MW9yPaQ/Ubzg=="
 ---

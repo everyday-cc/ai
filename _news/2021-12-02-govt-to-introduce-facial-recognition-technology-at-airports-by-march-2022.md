@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recogni
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
 type: article
 quality: 73
-heat: 293
+heat: 283
 published: true
 
 provider:
@@ -337,20 +337,6 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 11
-  - title: "Face Verification 12 from Neurotechnology Extends Facial Authentication Capabilities to Web-Based Applications"
-    excerpt: "Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, today announced the release of the new Face Verification system. Face Verification 12 is designed for the integration of facial authentication and liveness detection into PC,"
-    publishedDateTime: 2021-11-30T08:04:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-web-applications-europe-762cf6ce0a6c2e7fdf86a3f5a868ca93"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "F2iJKpvnBklknl7/CUcfapMTJv1JhoA8968JgirXw5cSkEx13gbuFy+fh6Z7gNddmRR+YgCpDX1eg6jHoYuqMUq/p70uM3PbZTMuarP7gEsdls9Y5TIgfVfwT3TUaaGAiPoYOecq14yTb+PcR8LZqFGZZpTNuxjH6gVcyw6e070mk5F7xrZybBdx6vNlCdA5xo80b7qicAdjtNgxGQGm5+Jp8nKSpd4bbMDH4bhjuJnD27FKxy2Nr6oAZI+/yi4sKZSwIateqB3isBqxAQxGXJEHo9zkuEt8qPCpAodkFv7V6KbN3SkA8j7RebNiyJyX/Tsr9uMwGsxe4AdVt1BoIIPEhPuL616SdH7Q3+AGKQ5FaddI+7RVhFQwNHkTUVTmNyXR5rgmBECp20tt9AKsja3fIgbO31pq8CDAyldIL2jMky7pMShNo2qM0X0NUSDchg3p6JTKfm5b75teizGMQ2jGk5ElwxdJY4bS9FIQeyaIvL8iWkbxbTcq34TmsVuiAtbvZFef3BGazPEUMuo6oA==;nd1CVWoYSM5HdHp6hRfLaQ=="
 ---

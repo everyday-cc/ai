@@ -1,24 +1,30 @@
 ---
 category: news
 title: "US government sues to block $40 billion Nvidia-Arm chip deal"
-excerpt: "The Federal Trade Commission has sued to block graphics chip maker Nvidia’s $40 billion purchase of chip designer Arm."
-publishedDateTime: 2021-12-02T20:08:00Z
-originalUrl: "https://www.kentucky.com/news/business/article256295257.html"
-webUrl: "https://www.kentucky.com/news/business/article256295257.html"
-ampWebUrl: "https://amp.kentucky.com/news/business/article256295257.html"
-cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article256295257.html"
+excerpt: "The Federal Trade Commission said the deal would create a powerful company that could hurt the growth of new technologies."
+publishedDateTime: 2021-12-03T10:58:00Z
+originalUrl: "https://www.detroitnews.com/story/business/2021/12/03/ftc-nvidia-arm-chip-deal/8849542002/"
+webUrl: "https://www.detroitnews.com/story/business/2021/12/03/ftc-nvidia-arm-chip-deal/8849542002/"
+ampWebUrl: "https://amp.detroitnews.com/amp/8849542002"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8849542002"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 59
+heat: 79
+published: true
 
 provider:
-  name: Lexington Herald Leader
-  domain: kentucky.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.gannett-cdn.com/presto/2021/12/03/PDTN/7f39b23b-daeb-4203-af90-f4d9295d4832-AP21336801147181.jpg?auto=webp&crop=3659,2058,x1,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Nvidia provides powerful GPUs to support innovative AI developments"
@@ -35,7 +41,18 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "FTC Sues To Block $40 Billion Nvidia – Arm Computer Chip Deal"
+    excerpt: "The Federal Trade Commission on Thursday sued to block graphics chip maker Nvidia’s $40 billion purchase of chip designer Arm."
+    publishedDateTime: 2021-12-02T23:07:00Z
+    webUrl: "https://sanfrancisco.cbslocal.com/2021/12/02/nvidia-arm-ltd-chip-deal-ftc-lawsuit/"
+    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/12/02/nvidia-arm-ltd-chip-deal-ftc-lawsuit/?amp"
+    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/12/02/nvidia-arm-ltd-chip-deal-ftc-lawsuit/?amp"
+    type: article
+    provider:
+      name: CBS Local
+      domain: cbslocal.com
+    quality: 39
 
-secured: "H7EpaM5lvQKlp5KYdmUeueTDUlnp9DwP0qEYb2R/ZF/oxNd3MZRvgLKRzh3yoZ7QlKUMoChwwchgXlNnGoFSDYEZ+Bvw9XPO2/W6t5onN/eHZ+kmDhI9DgjAI+AAaJfjuO0lUmdkdNX6mHqYuQdILtseXLfyaIwOFKv65rp/pUOIpLmQ42w4Sl54Y44FooCCpHZJ8oMPWvu6RY3ciG2ZE31sYihVgd0dyF9bKz/4Tw1sEVBuX9XJrxn3L+1LCkceowzCC7tjxju21tYW/aotKq9dlNvDN8RFwsXsO7XHZ4vHu2s9mTO0NmX/707vn0WYFuyRgK34tArvOzNa0YCuJOirGCtzLKjrSkdqxSgb59lbZ2SboP2WCJcTSrv9iDzEGd951N1vx4ISXkv9qnJFp0q0qxwnHlbBpVw6FyWMApfXse4FUgTqErDGXQL9YSMS42D/MomNULVx+Nflek1Oq3PKxhQ2VAnZbdazvYd9PWq6NF/g5fqCVtiRMK+bTwEUP3R38qM4YVyKtV0P1V7N4w==;lFMh+TIjYyhMqcCjWKJiuA=="
+secured: "DY+WtjJ7PcQptfDwT8S6aIoJg+G1mm2OCF96lmKolN3MC2Qde0Ht8MMB7pm59uAzWk09Ql04mCynotf1t9aUtxayWXSniEFbVCXMyfddfheW6b9cDIvU10xo1Y1botZjmq33a9umYZFK+6YNLF9NtNHaywCDYz6G1ohavl+1WM59QR/3FWAyBeAOo0/7UmfvOEQKKyZROAQgkBfTQNNzfdukZPGxJ2+QByatXJLG54Fy3uweolf52YTwWP43dV8CkDvtcbPAtvz9WWAXN9PeK6N/llqSCofh1igcS856f+DsHZdsm2MgrQK5jk0K/9mzOVi2rcmIVO6QwN38e7qUJagV4/GeEQ1A3YANozMMCns=;mgWU8lcx/hBPWiRxyvziPg=="
 ---
 

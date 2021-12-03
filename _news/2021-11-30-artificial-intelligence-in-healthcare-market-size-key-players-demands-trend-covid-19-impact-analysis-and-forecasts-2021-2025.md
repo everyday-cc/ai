@@ -54,6 +54,15 @@ related:
         width: 800
         height: 371
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
+    publishedDateTime: 2021-12-03T12:21:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5127884-global-artificial-intelligence-ai-in-healthcare-market-research-report-2021-impact-of-covid-19-on-the-market.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 28
 
 secured: "tnd46IvHBPyHe8Moo9bzFWuSgXBFVAiFa/IxZWLfnvGU5Exot8ypqQSVijoLA1+krhv7PBIo+677fq5u2vVDZxf6EnH5NLL2gj4aS9ihaKslTHKD+/swJ0Sc0QfGcMN9SYdqu0kRyyAbSoJ1E4BfR8rxtF4TCrXSkt5+7HkAuFWPB+hbVARGztKsa/z8vu+372Ny7bBEYkkacaaNHa1+ESYtvbSMicLOOZ5yxwlk7wgj4Erv11gVHPnB54IfyPxKyF5jdENOHI9Vbq1INejV5T/QWYNrkMOq/Aq0d3dc064/YWrv0YWcTThKlcH3rDXbm9NPRsMk0OVOt6EpyROkHW+CpVxujf1rtIsii4ztsBw=;grMlGeDDcxPBQYjhKjOKLg=="
 ---

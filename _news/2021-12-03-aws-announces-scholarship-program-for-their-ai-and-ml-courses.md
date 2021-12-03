@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/aws-announces-scholarship-program-fo
 webUrl: "https://analyticsindiamag.com/aws-announces-scholarship-program-for-their-ai-and-ml-courses/"
 type: article
 quality: 71
-heat: 131
+heat: 133
 published: true
 
 provider:

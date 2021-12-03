@@ -90,6 +90,17 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "Could Google's DeepMind AI Transform Healthcare?"
+    excerpt: "Google's DeepMind artificial intelligence (AI) software is being used to predict the structure of proteins. In this Motley Fool Live video recorded on Nov. 16, 2021, Fool contributors Keith Speights and Brian Orelli discuss whether or not DeepMind could even transform healthcare."
+    publishedDateTime: 2021-12-03T11:52:00Z
+    webUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare"
+    ampWebUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 101
   - title: "DeepMind’s AI helps untangle the mathematics of knots"
     excerpt: "Researchers at AI powerhouse DeepMind, based in London, teamed up with mathematicians to tackle two separate problems — one in the theory of knots and the other in the study of symmetries. In both cases,"
     publishedDateTime: 2021-12-01T17:00:00Z
