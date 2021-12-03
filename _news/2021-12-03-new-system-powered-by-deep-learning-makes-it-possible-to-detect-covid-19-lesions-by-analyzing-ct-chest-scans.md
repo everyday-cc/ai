@@ -71,6 +71,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Using Machine Learning to Enhance COVID-19 Prediction Models"
+    excerpt: "Using an advanced machine learning technique, Brown University researchers are exploring how to improve COVID-19 predictive models. “There’s an old saying in the modeling field that ‘all models are wrong,"
+    publishedDateTime: 2021-12-03T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/using-machine-learning-to-enhance-covid-19-prediction-models"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Use_and_Optimization.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "O4zDG6qszBUcREB090vYBYuy8ov0fQqHUOAFUlXwrCc4ifj0Ow2xIIq45HXT4ubIsi44NWS/1i34SWuPMvOMqEKFu3BrK1SyyJv5oQmJYc3mEjUlvPME8R0LUvpKNL/N2xrdtsmNWSqkSv/bxyjymtjsnthploUZk7cP+G4R2QxdxRc7DWIyeCNyov9Fj3WsDluaTjLfMQo8iyaWELjm0mYmrlomHslVfB940N0p+NtuLSahusSQuLNlKKQR3nPVxPzy+zRQGi5lZ7okb65sn4sRRV5cOMdSzmsKMqkcY/mVNpuRDeKGm+Uh+5+c2S0cANJvJkw2pZpj+6ZwPB9t0T4F8V9gqwVm2+nLPsbGJUyLTJwDshicyTvmmREpf88z5hVvOg6i5pouJ9pk9rVb/GTLcEJ5gWbcpKoA1tTaZflSD90AQiMya8UvBNtMnJ5x4mvswlvLx+9hqT05QdXdGP3ARpwl1qYkkeQApnp6QCxsMOGiN8fBeL7PM7qI1XOTkT0VuRBR1h9BF1hyg8UABA==;iJIJwAUGK19uAao58CN+ng=="
 ---

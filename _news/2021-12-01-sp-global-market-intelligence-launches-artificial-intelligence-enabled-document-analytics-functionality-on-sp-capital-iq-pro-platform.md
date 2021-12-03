@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-
 webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-80d36f4f4779332d03cb2711b7394dc0"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Data Storage Market to Escalate Swiftly; Adoption of Big Data Analytics and AI to Amplify Revenue, states Fortune Business Insights™"
+    excerpt: "The growing demand for cloud drives owing to enormous data collection is expected to foster the growth of the market,"
+    publishedDateTime: 2021-12-02T08:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24399161/data-storage-market-to-escalate-swiftly-adoption-of-big-data-analytics-and-ai-to-amplify-revenue-s"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24399161"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24399161"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Digital Transformation 2021: 5G Technology and Solutions for IoT, Artificial Intelligence in Big Data Analytics and IoT, Digital Twins Market Sizing a"
     excerpt: "G, AI, Big Data Analytics, Blockchain, Cloud and Mobile Edge Computing, Connected and Wearable Devices, Cybersecurity, Digital Twins, Identity Management, IoT, Robotics, Smart Cities, Teleoperation and Virtual Reality\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-12-03T09:26:00Z

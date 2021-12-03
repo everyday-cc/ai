@@ -4,31 +4,27 @@ title: "After being pushed out of Google, Timnit Gebru forms her own AI research
 excerpt: "Timnit Gebru, one of the leaders of Google’s ethics in AI team and one of the foremost experts in that topic, was fired after sending an email of concern to her team. Now she has set up shop herself with a brand new research institute,"
 publishedDateTime: 2021-12-02T19:17:00Z
 originalUrl: "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/"
-webUrl: "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/"
-ampWebUrl: "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/amp/"
+webUrl: "https://www.dair-institute.org/press-release"
 type: article
-quality: 82
-heat: 154
+quality: 158
+heat: 238
 published: true
 
 provider:
   name: TechCrunch
   domain: techcrunch.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+    - url: "/assets/images/organizations/techcrunch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Facebook AI
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1028811892.jpg?w=1024"
-    width: 1024
-    height: 683
+  - url: "https://cdn.sanity.io/images/wc2kmxvk/production/8ba934ca12f0a32532ca9cca98d37500b7641e93-1440x695.png"
+    width: 1440
+    height: 695
     isCached: true
 
 related:
@@ -61,6 +57,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-3-1.jpg&signature=196efe9508285abc0c8bab5b6653929b"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Former Google scientist Timnit Gebru has launched an AI research centre"
+    excerpt: "Dr Timnit Gebru has launched DAIR one year after her departure from Google to continue her work in the area of ethical AI."
+    publishedDateTime: 2021-12-03T12:05:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/timnit-gebru-google-ai-dair-launch"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/12/29603362277_e84137266b_c.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Timnit Gebru’s New Research Group Wants to Free AI From Its Corporate Ills"
     excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."
@@ -128,6 +138,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "XpSbhbqJp79CZBsqOOl882MkXS4odtfdHrnlEHH7vE++XVN2saQKva/lGxs7fnoMQxToc9VbNZyVztEL9KUvom8bAyYUSw+M0gw9eITBiFLd/T3iDeH1B4vR0DYV8wS5DIC/CwAhn6a1eS+lk2PenD4LNZhltNZ7mbchpPG7c+bj2WF9FSL+yA/RNW0jpPPUaJ5kyG1bq3YIQwDFX+fD4bfEOWOf62T9xl49EYGs/R+c81KJeEqosExtvaREsg84lv6ji7n0pHQpBdkFoR2/Vn0OePvCPQiE13A/LrR0DmGBA2q1u9zp3KRyl4EZeGC4FP01eLXEMu5liNkDY42yfoSk6t3t7xmnb0r9iodBdx4z3VaLdVKvReiMB6cJYpHNyBIchIs149P86VSM4KxK1bIYMTrvi+/35u1bcn1zqQzup7ncMFHWwbrKGyuHTQp14v3JZ0JdeU+ug/TuIu1Z3ezJqoalyJCklBrEn3lMTWa2ppQoPyC711H7DR4sOCJNMpokjPRJYQGr/F70Tv6J0Q==;K4ltb1oYdJ1hNV04G0IY/A=="
+secured: "ihuOLW9VkNc4neHFtn6gGixRWMElarUzDUxJMRuuqJktehtMbhNlluazT7JwdDFTA3ZI43eWs6JdTv+Nl9WHmjKze1eaw1rUksYqGGMTuk6sPm4W2sDE3Fn/dD5K+oU9zKNO1IwzoPcFNdXiKJjVcdYc1xUcAamuZgNSvE2xMNacie2VOA+orEl2jxZIeCY0zZtr9v8a1xp2sfKNZAic3KfTJPEKJcLhorVqBl25RHHpa9pKUaupGj7ugz16oPI1wfMl+vOrT0NmVf7CzfnNIVjo5UI2L2rt44B/kLo1y0+rToa2jttsDc31AoW7UYzJDBf90iNjwofpMXyh10bQrMJvbOVCvsBOaEJAw7ytpXQ=;FmBAIHlu30O7ZQdIJYTk/g=="
 ---
 

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Data Storage Market to Escalate Swiftly; Adoption of Big Data Analytics and AI to Amplify Revenue, states Fortune Business Insights™"
+    excerpt: "The growing demand for cloud drives owing to enormous data collection is expected to foster the growth of the market,"
+    publishedDateTime: 2021-12-02T08:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24399161/data-storage-market-to-escalate-swiftly-adoption-of-big-data-analytics-and-ai-to-amplify-revenue-s"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24399161"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24399161"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "S&P Global Market Intelligence launches Artificial Intelligence-enabled Document Analytics functionality on S&P Capital IQ Pro platform"
     excerpt: "S&P Global Market Intelligence has launched an Artificial Intelligence-enabled (AI) workflow tool on S&P Capital IQ Pro that enables users to search across and extract relevant insights quickly and efficiently from textual content."
     publishedDateTime: 2021-11-30T17:19:00Z

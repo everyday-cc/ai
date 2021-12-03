@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2479968/what-are-major-factors-driving-gr
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2479968/what-are-major-factors-driving-growth-of-deep-learning-market"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://siliconprairienews.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-1.53.09-PM-e1638302361180.png"
         width: 700
         height: 396
+        isCached: true
+  - title: "Global Self-driving Taxi Market 2021-2025: Supportive Regulations for Self-driving Cars Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The “Global Self-driving Taxi Market 2021-2025” report has been added to ResearchAndMarkets.com’s offering. The self-driving taxi market is poised to grow by 56162.96 units during 2021-2025, progressing at a CAGR of 58."
+    publishedDateTime: 2021-12-02T16:09:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-94af2a132b674d21a7a8dde020927072"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "pGT7dq9TFHvcXhDW5nL0ClBBFW5fiyEcsux+erfVmVXxNkDvGAZU5MEmha1buMq06ydI2N83p1qz1J2oi+kG8ZZFPsrq0SKarNcgkRRqu3w3b9rMBuhAzPowNVq0YNuQKIbxcoQuwMYJPAP7KZQDeHRE2uXlanX6+mt8kas0Xr6XzMzz4p/ugFJJKnscMw49HmPB0vNbp8UdY1FKNlJ4zGj8mOQ1D8vG9yRw31T2nTop+8FuaoOpi5lDPafAOJbbc6prWv1F/n5B5Tm28a90l609G9uaAz9ZOlu2oEyi/uOLHx8Em1kbhgExNazVsmaV9XN33+PSZJd5t18QoFm95ko5BzUOKFYpSH6AMCGK39XeeKSzMO2sqR592de/0S+oL0A4B0aZWtoj905fpnnUXXMuWevusdya5ib/1MgObem6/0EKEkmsAVXdS5CKtvvYaqD10kLTGOQN7x6C6tip2lEVDnB8LMn3EJxELIdMNs1bI+umnFsaIBkyDZuczlXH810b6KXf3TPtcrnhBY3IhQ==;UqyvUeAvkLLRHyMQ8aVG6Q=="

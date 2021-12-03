@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recogni
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
 type: article
 quality: 73
-heat: 283
+heat: 253
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "These 4 Airports To Have Facial Recognition-Based Boarding By March 2022"
-    excerpt: "The Airports Authority of India (AAI) was working on the country's first facial recognition technology-based biometric boarding system for passengers at Varanasi, Pune, Kolkata and Vijayawada airports,"
-    publishedDateTime: 2021-12-02T13:35:00Z
-    webUrl: "https://www.ndtv.com/india-news/these-4-airports-to-have-facial-recognition-based-boarding-by-march-2022-2634514"
-    ampWebUrl: "https://www.ndtv.com/india-news/these-4-airports-to-have-facial-recognition-based-boarding-by-march-2022-2634514/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/these-4-airports-to-have-facial-recognition-based-boarding-by-march-2022-2634514/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 73
-    images:
-      - url: "https://c.ndtvimg.com/2019-05/soicn89g_airport-generic_625x300_10_May_19.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Facial recognition tech at 4 airports to be introduced by March 2022: Govt"
     excerpt: "The Airports Authority of India (AAI) is working on a project of FRT-based Biometric Boarding System as part of the first phase of Digi Yatra Implementation at four airports"
     publishedDateTime: 2021-12-02T09:22:00Z
@@ -219,20 +203,6 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "facial recognition tech at airports"
-    excerpt: "Trak.in is a popular Indian Business, Technology, Mobile & Startup blog featuring trending News, views and analytical take on Technology, Business, Finance, Telecom, Mobile, startups & Social Media Sp"
-    publishedDateTime: 2021-12-03T06:06:00Z
-    webUrl: "https://trak.in/Tags/Business/facial-recognition-tech-at-airports/"
-    type: article
-    provider:
-      name: Trak.in - India Business Blog
-      domain: trak.in
-    quality: 54
-    images:
-      - url: "https://trak.in/wp-content/uploads/2016/02/cropped-Favicon-Square-2016-2.gif"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Face Recognition Technology Launched; 68 Lakh Central Govt, Crores Of EPFO Pensioners To Benefit"
     excerpt: "In a bid to bring in ease of living for the retired and elderly citizens, the Union Minister of State (Independent Charge) Science & Technology Jitendra Singh on Monday launched unique Face Recognition Technology for pensioners."
     publishedDateTime: 2021-11-29T11:36:00Z
@@ -276,20 +246,6 @@ related:
       - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/biometric-technology-digital-Face-Scanning-recognition-human-head-shut.jpg"
         width: 760
         height: 443
-        isCached: true
-  - title: "NEC to introduce facial recognition vaccination check system"
-    excerpt: "Japan's NEC Corp. will start the full-scale introduction of a vaccination certification system for COVID-19 based on facial recogniti"
-    publishedDateTime: 2021-12-03T10:20:00Z
-    webUrl: "https://mainichi.jp/english/articles/20211203/p2g/00m/0bu/073000c"
-    type: article
-    provider:
-      name: mainichi.jp
-      domain: mainichi.jp
-    quality: 39
-    images:
-      - url: "https://cdn.mainichi.jp/vol1/2021/12/03/20211203p2g00m0bu072000p/0c10.jpg?1"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Facial recognition at airports optional, data will not be shared with anyone: Ministry of Civil Aviation"
     excerpt: "With the government introducing facial recognition in airports, the Ministry of Civil Aviation clarifies that passengers can opt out."

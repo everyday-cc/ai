@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/amp/"
 type: article
 quality: 117
-heat: 237
+heat: 247
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/selipsky_aws.png"
         width: 1475
         height: 1051
+        isCached: true
+  - title: "The Future Of Cloud-Based Machine Learning: Highlights from AWS re:Invent 2021"
+    excerpt: "Swami Sivasubramanian is credited with starting a revolution in the IT industry. His innovation was to take the artificial intelligence (AI) and deep learning services that had been so effective for A"
+    publishedDateTime: 2021-12-03T13:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-cloud-based-machine-learning-highlights-from-aws-bernard-marr"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 52
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFTpxCuJ0-E1A/article-cover_image-shrink_720_1280/0/1638537981050?e=1643846400&v=beta&t=xCBkkxlgdenBM-tuYCoT5I6Ifqxot4PoxcMNdwHP_lw"
+        width: 1079
+        height: 720
         isCached: true
   - title: "New AWS CEO Selipsky unveils new AWS services at Re:Invent"
     excerpt: "While a few new services announcements were made Monday at the Global Partner Summit, the CEO keynote got the lion’s share, including ones like new Graviton3 ARM chips and related C7g Instance for"

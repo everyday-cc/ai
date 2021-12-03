@@ -1,27 +1,28 @@
 ---
 category: news
-title: "PredictHQ Named a 2021 Gartner® Cool Vendor in ‘Data for Artificial Intelligence and Machine Learning’ Report"
-excerpt: "PredictHQ, the demand intelligence company, today announced it has been recognized as a 2021 Cool Vendor in the “Data for Artificial Intelligence and Machine Learning” Gartner Cool Vendors™ report by Afraz Jaffri,"
-publishedDateTime: 2021-12-02T20:04:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-fa6f56e2186b85c8510e72ea978fe638"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-fa6f56e2186b85c8510e72ea978fe638"
+title: "PredictHQ Named a 2021 Gartner® Cool Vendor in 'Data for Artificial Intelligence and Machine Learning' Report"
+excerpt: "PredictHQ, the demand intelligence company, today announced it has been recognized as a 2021 Cool Vendor in the \"Data for Artificial Intelligence and Machine Learning\" Gartner Cool Vendorstm report by Afraz Jaffri,"
+publishedDateTime: 2021-12-02T21:24:00Z
+originalUrl: "https://www.lelezard.com/en/news-20138509.html"
+webUrl: "https://www.lelezard.com/en/news-20138509.html"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Finance
   - AI
   - Machine Learning
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -49,6 +50,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "M+ZlKqnriZz49hhcjurBI94uP3He6oXuXaR+RAo/i4V5Ko/RE6IoS+EGfsS0qgjdNP4WVQtqPkwGQNuzxawE9HsnayyDByT1DlfvNmtwslCywjsXjtKnDUATvfAoNZ2cLbjua5PW3ll58Wkx2Q1WaKzQ4tovyTHU49dh2/pXxWOdXHZtYheWLsVSJpbARo/cwijDqhOFsq50CMIhjyCddMcIv0Dd9UuPKhaNu037T9A4bCgBcKLGcl7qW1cnYsmVHAjnZSfxRv9T0xTIKph4hZj0n/z+HGxoOgaOVIWGtmeH3+GeY/8YN0CGhRLJqHABXcAHgmR+M6ZGwdxkM/rur9zcwltO2zdHW4rT1AiKDNQ=;QCMPKXDFP1ITATKTGY1RwQ=="
+secured: "4E96fNoqqG6Tv4qr4ClkfuQVLlZhd1eY2Qs+dPACxREs39JZc4QcYhWUvjc4A3i9n++0KH3QrLNYw9RQzAiVhZvPDfkrvYAV+YYwGTjpQv/5mCYUe/RO4+bYG7Fya/EZJ/XA5hqksSv6aRkHSRtCDqcXZ5ZPcMgKjxTo2PpUZr5sksSD696mwfmu4UModfKEeRT8gbDp8bOPENE9ZpE4ckSV5ev+Noa6X+5UOC9SZD3B73JRpKTRBXYRrapidlY1apfgVblAW3PwTx7uvMomvcOdGKQBFSYYDAlYuRkta06BfbjemU0UXqFEoXX1yeNvm+QWZXh8WId2sJKwoA9QbU6wKnlYfgVr0JG/uF20Wu0=;A/boIKW6eQuFtnPRsvoRtQ=="
 ---
 

@@ -36,15 +36,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Arizton Advisory & Intelligence: Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
-    excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI) market report. The"
-    publishedDateTime: 2021-12-01T15:30:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54638906-arizton-advisory-intelligence-healthcare-artificial-intelligence-ai-market-size-to-reach-revenues-of-usd-44-5-billion-by-2026-arizton-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 14
 
 secured: "Wrck6atqk5rxEKS4DcepVF0UHWdZMpWWu+7xRW2PHp3Y8WJUbyDVP6xhukPJpsrm0xxJNrcEUluGDQCLFy45NiJzmL36+pOfdr3ftm5Xn5pLX6oDFEkWlBqDr4O/pJ6Up9UgTKpLATiBonE7JuaWOuGIvAz+I3F2b4p2xig7f7rkJQCb8UitXzjGN1Sbpg/cZ8uo8TGhPtwICiheBcq8OW1MCRwtx0TZi3BXSycu1OuZD1dfMevVlO/592eCE+7NdTQjpPEhuv027IW47nxIlohIVB97jSgXQgETYz2Aon4T9/T+l0d68jqzrHtIUVj+v6OUniIt9hXTbtlK40W4UA4mlE9Amia+fjVE4I4rgeHgc2E5MF22Oyr5j7+vXHiWgC1Hho+xpK5h7rZkQH2BDk2f0PPEjoymy7Hy+5edtIiOGT2W0HrA94BOElD8j9KSTMP+ZF6GpNAON3KTvtaIjQFQOWjLAPNR1b2cOi8Fbe1DEyrpRoGfYxdxxHnOFMzaqtSv7sKhXMUMCV+i/Bqi5Q==;+K7kMQVjMnB193oAL7Yfog=="
 ---

@@ -52,6 +52,20 @@ related:
       name: CBS Local
       domain: cbslocal.com
     quality: 39
+  - title: "US Gov't Sues to Block $40B Nvidia-Arm Chip Deal"
+    excerpt: "Many of the world’s smartphones run on Arm’s chip designs and it is a vital supplier for companies like Apple and Samsung."
+    publishedDateTime: 2021-12-03T14:40:00Z
+    webUrl: "https://www.manufacturing.net/operations/news/21928232/us-govt-sues-to-block-40b-nvidiaarm-chip-deal"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/12/16x9/Nvidia_AP.61aa2c3470bb6.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "6XF8Q/MmnehTVTDTYYxrUinuNOO5bdea/o4ah90EFGs8UyFm5acjyJjXQcO2DbuFDuTEjoWmI6j2lzRTSCQa7frumBARz712KrqK33+Z6AqslJWrRZIxv9QTAhpFQMl7Yx6anPU3AKIHBAiyVi84GUWH6aJRmXwWmtVCC5DaH0wpxwKG3LRl1n2RkN1zM7k2Rf7ehkkda7/kdfTzeF7zf+OaBR9xP9XD0GYYB/x5YYe9FDBuNrACYBkLDEpNSe048Fd4pco6+GNuErIWVAHkMSbTP4WxRBKotEBvQIpInICkUkpRGmIZcK0tg7eq1HhaEFRZMVGGwkpB4RWsfFEqVjBEaNS1VlN7n0bDC2EXCv0=;KAQQT5JfA5YZ5dw3DaS6Ig=="
 ---

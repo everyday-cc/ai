@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-uses-mlperf-competit
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -39,7 +39,7 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 39
+    quality: 139
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2020/10/MLPerf-logo-1020.png"
         width: 500

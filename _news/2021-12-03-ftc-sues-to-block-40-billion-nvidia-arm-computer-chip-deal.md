@@ -51,6 +51,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "US Gov't Sues to Block $40B Nvidia-Arm Chip Deal"
+    excerpt: "Many of the world’s smartphones run on Arm’s chip designs and it is a vital supplier for companies like Apple and Samsung."
+    publishedDateTime: 2021-12-03T14:40:00Z
+    webUrl: "https://www.manufacturing.net/operations/news/21928232/us-govt-sues-to-block-40b-nvidiaarm-chip-deal"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 39
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/12/16x9/Nvidia_AP.61aa2c3470bb6.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "/BdsBO5AQX7ftxS4WAF1Nuu121xWhEgql1gbpooKooA2SSjcOsHsmWuUoSd68mabuj9itgQE7JJGvNJcerP/KGTFt8W6gy9NbQRpRBalL4eUp+kXtQO/fDVot7SBcK82+aa06ccKkVs5n+r9JEvqCu8w0CvCdKE8ZMFvDxUJYTzYu1cZtIy1pu71Aer5LKJ1dU/Y7dQmPpwB9r+GylZhdDPjOf4Enqt4wI626zRFOdv30VCb9y8XzfweAcO2y+MSM8QZRtKMwoSFJzWB7vsh7ueGybXuxRfNa//QTZ5C2kL0DtH62mkI1XvPNsfSoXm3cdZsPlvCVm0GWV+eJ4NfMZPA9rApaiosLXEFYAQARDo=;4IXwM29HyWNzM4n2NpcwQA=="
 ---

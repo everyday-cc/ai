@@ -207,6 +207,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meet the robot that can write poetry and create artworks"
+    excerpt: "When people think of artificial intelligence, the images that often come to mind are of the sinister robots that populate the worlds of"
+    publishedDateTime: 2021-12-03T13:38:00Z
+    webUrl: "https://whdh.com/news/meet-the-robot-that-can-write-poetry-and-create-artworks/"
+    ampWebUrl: "https://whdh.com/news/meet-the-robot-that-can-write-poetry-and-create-artworks/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/meet-the-robot-that-can-write-poetry-and-create-artworks/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 39
   - title: "This Seems Bad: World’s First ‘Living Robots’ Can Now ‘Reproduce’, According To Scientists"
     excerpt: "Xenobots, the first \"living robots\", can now apparently reproduce, according to the scientists that are studying them."
     publishedDateTime: 2021-12-01T17:54:00Z

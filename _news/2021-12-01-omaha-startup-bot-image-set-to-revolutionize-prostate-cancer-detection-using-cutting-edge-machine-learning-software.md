@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Self-driving Taxi Market 2021-2025: Supportive Regulations for Self-driving Cars Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The “Global Self-driving Taxi Market 2021-2025” report has been added to ResearchAndMarkets.com’s offering. The self-driving taxi market is poised to grow by 56162.96 units during 2021-2025, progressing at a CAGR of 58."
+    publishedDateTime: 2021-12-02T16:09:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-94af2a132b674d21a7a8dde020927072"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "JPi+mifbNQXT3X2/yFRnkz0XmubIiIMuQY8CHjaQqtLYVgDR09xxop11x9EuCYsCRGcm7VGn96+glCmVfmLhxG22fRa5NETY3e5bVywyVpc/YqX9MTcIq1Iwl6MNV4VZZjRZFciTRZ3hTrsjnpeLIZTJL7cuCxutBaoGqpIn9HwM8zecSW5jVFcRsROMC+YTqtqOLX9zsGMxrcN1CpxKc9XNCJOBj21bv5CCzrKXKYoX7/j2f+XwhrjYZslvx3b5OBwwZNVEmtMm58JCmMX4F/Y8VywkwiCIhpZ/DkaEk4xcmLAm11bIxZ6Ltyf+txQJHidz2kp2PqwjZXwWza/0t/2aCV8HEnPqXBnzSPjamantroMVj9dAS/2R/jjVLeneZ2bGLsSSf1X9EEG4ROOpEqAlVq9rdIp90DKpBFjico+zJN6T2ZkTt6zCcygiyWqDpbI/IObN5dJoErhJemtQVGaJs1OErMP2htoHrmX0LWj+Tt8kAhGrv7MKjx/mdOHzcquonLkf8+CitForeulkwA==;Esz4nazzVhY4b5tRfI0ENg=="
 ---

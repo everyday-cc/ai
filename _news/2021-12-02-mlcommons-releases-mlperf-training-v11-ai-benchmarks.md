@@ -6,9 +6,9 @@ publishedDateTime: 2021-12-01T18:02:00Z
 originalUrl: "https://insidehpc.com/2021/12/mlcommons-releases-mlperf-training-v1-1-ai-benchmarks/"
 webUrl: "https://insidehpc.com/2021/12/mlcommons-releases-mlperf-training-v1-1-ai-benchmarks/"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 139
+heat: 149
+published: true
 
 provider:
   name: insideHPC
@@ -42,6 +42,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Lt+btGZ4wCSPydgigCdnCCZbRalnihuwfEUZMNzp+EZuwZpk1+Yb+Kx1AC/kRRQUl1E3oLa3hd7RuLJ082hijSq2ZdpwrO0nmUMNSGMWfKKQOjO6Lui8ZQkURD3tykURqovioud18Oul2+QRlCPpMB9nRy+N5njmP3Lkb9o35qyqbYxskivKRusekw+8hR++3qQxeIzUANux3PlOdqyGK+ySeIfzdrgl6dPmHIjfiXd9bcKHt4bwSRj7/mw5DeQRcY8UriKs1KlpHqKUXizzfzZmmhYnRmMXJ9+jmkXSdGQE26aRFFR6i180LVfTsJbjRuoOoup30wnndirupqesXkANke+TeQHXUmXMEv47kfPxCpepdSQzpnV/RGhby5uhSxT1w1FT4u97FIF8OMYAW+ovCUxWuzOGcDjelxgA4ikxTYP6suELAy52vUxEBQ/Jd1dZGSSHHZBWm5ZdtxNcxDudC8gfhgwH+76QWB96KSywuHPVbrq8g7Yn/e7oq5tgYavlIuD+itY0Sd8qivWzIg==;oaKeOFJEs02hFOgZgB63FA=="
+secured: "DFFUchVPcTrjx2ZdjxCgVm1/UXkYgc2bjr8gAfaHjzZ00bMNgzuvLT9sqnivHbSRIPlrgtrGf4vBXlu0J/q/1YF6sy0MCnmkm9rHQFatx+5+81YTYB09Hitgg1sn6QUaoMAcNCskFisMhw/5PEk8a4OTgl/zyMVqhtxDyuy1IhCZfmUUGf3V6sRcKjOGdE7/HLTwzXT/gXIXrhIU1gwnApMXG0HJJiS3dUzBZ6UTrMjFGNNmACP4pXt2fggG0nsYHasjyg5C+t2Kdt8GxMAqTA52wTaQ7jQL9vScqu+e4fDzjihTPDkjRGtg3L8QALQIKfKCXUDNrVluM6mbon8kkzmyUxqZd/UpIotv2XhE67RUwBMpF+lCOOnKVZl1N97b6icNJY2mVm2zRjYAJDNbSb1Cd0rIcbEO36z5RfevLYdx6UihrfqwhMYwMFGrU5oSnIETNyWUqj1OuFZSq0fbszrA6g3qrXi9BczX9OvyfSbIPBVgT57MntD6EpKNWJmvckf7+sHKnPhCL2XqLJoTSIi+c31dIxl5mZApx9874NA=;Uuc5hV9HEjIkx8bX9vhpWw=="
 ---
 

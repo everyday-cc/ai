@@ -41,6 +41,20 @@ related:
         width: 2000
         height: 1308
         isCached: true
+  - title: "Connecticut Money: Artificial intelligence and the AI revolution"
+    excerpt: "You don’t need to be a financial adviser to hear the daily drumbeat of financial analysts talking about artificial intelligence and its long-term impact on finance, health and transportation, among other industries."
+    publishedDateTime: 2021-12-03T13:00:00Z
+    webUrl: "https://www.chron.com/opinion/article/Connecticut-Money-Artificial-intelligence-and-16665402.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 56
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/04/00/21774399/6/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "d6Bf9l00BcFFVe9wd82VZ/AP/L/es67qyYX1m8Zk4zX81+XCmegvM58uDWcvHSCPLAARYP/jUxUWLJ6za4OWS80sCaBri9junMWi4kJtHK4UOw/ofkn+7TxI5hCmE1monc49bIzkqFP6NypjYRNBWSQ2EhIFMh1ucgS295YWYeb3QiusgvElsZDMYY14T+tn77dlFZDjlLUkJVjD2YX/vK+sp+y6Og6hdZMo9sVB1f1wRk1qHEtmxuh1zEpe4oXXGn7wUNAq1vM/+4CIq0tV+fuLFl7j1s4ykccsxg0gXTwBgyn7RN4h3huFhK7FyZ+LZiRIA/nQ6u68yxQu/wlYJ+Fr0WcpyxoQeS471olURtreTwBdnKsQESxxl2ikLZMstHLmadAjPcGEKwVNUBjq5HJmijS8VrBajBpdN0WkICg0tWgKVAnDueg2xYKxZHtjEqiu5Rm6wCQgo9uqihVTCbeKMP5+5CVF1ot5e0DDnI3sEqRP4/REJO6GyXlnwqWwRLPQWBpBZbQjLbtakCMm+Q==;J9yFitl4v9eMWTAHQrcaAw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidpolice.com/the-new-snapdragon-8-gen-1-is-all-abou
 cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/the-new-snapdragon-8-gen-1-is-all-about-big-cameras-fast-connections-and-ai/amp/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Android Police
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Connecticut Money: Artificial intelligence and the AI revolution"
+    excerpt: "You don’t need to be a financial adviser to hear the daily drumbeat of financial analysts talking about artificial intelligence and its long-term impact on finance, health and transportation, among other industries."
+    publishedDateTime: 2021-12-03T13:00:00Z
+    webUrl: "https://www.chron.com/opinion/article/Connecticut-Money-Artificial-intelligence-and-16665402.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 56
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/04/00/21774399/6/rawImage.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Snapdragon 8 Gen 1: All you need to know about the new smartphone chip"
     excerpt: "Qualcomm has revealed its next flagship chip, the Snapdragon 8 Gen 1. Here are all the main upgrades it will be giving future smartphones."
     publishedDateTime: 2021-11-30T22:01:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-12-machine-covid-.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-machine-covid-.amp"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://dataconomy.com/wp-content/uploads/2021/12/how-artificial-intelligence-fight-long-covid.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Using Machine Learning to Enhance COVID-19 Prediction Models"
+    excerpt: "Using an advanced machine learning technique, Brown University researchers are exploring how to improve COVID-19 predictive models. “There’s an old saying in the modeling field that ‘all models are wrong,"
+    publishedDateTime: 2021-12-03T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/using-machine-learning-to-enhance-covid-19-prediction-models"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Use_and_Optimization.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "New system powered by deep learning makes it possible to detect COVID-19 lesions by analyzing CT chest scans"
     excerpt: "A new automated system that involves deep learning technology enables the detection of COVID-19 lesion via the analysis of a computed tomography (CT) scan. This system, described in a study published in the journal Computers in Biology and Medicine,"

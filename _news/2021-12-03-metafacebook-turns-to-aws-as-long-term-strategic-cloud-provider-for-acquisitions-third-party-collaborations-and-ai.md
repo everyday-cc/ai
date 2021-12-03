@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-turns-to-a
 webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-turns-to-aws-as-long-term-strategic-cloud-provider-for-acquisitions-third-party-collaborations-and-ai/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     height: 383
     isCached: true
 
-related:
-  - title: "Facebook parent Meta tightens links with open source community through expanded AWS partnership"
-    excerpt: "Social media conglomerate Meta confirms AWS’s elevation to strategic cloud partner status as tech giants’ ongoing collaboration enters next phase."
-    publishedDateTime: 2021-12-02T04:45:00Z
-    webUrl: "https://www.computerweekly.com/news/252510363/Facebook-parent-Meta-tightens-links-with-open-source-community-through-expanded-AWS-partnership"
-    ampWebUrl: "https://www.computerweekly.com/news/252510363/Facebook-parent-Meta-tightens-links-with-open-source-community-through-expanded-AWS-partnership?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510363/Facebook-parent-Meta-tightens-links-with-open-source-community-through-expanded-AWS-partnership?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 49
-    images:
-      - url: "https://www.computerweekly.com/visuals/German/article/facebook-reflection-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
-
-secured: "hGZsj7rtxc08Gl/bJUclZkuU7PjiJE9WQCkMAAaAb1/NnNRfSLgnMMyV7RQZEOneNEb1hgQIyyDjZtWl9uJn3QYzl7PGhtHCiPMX5OPTF1U0P1Y5XkMiDZAR7I18TTXrzMxt3DWWOJRMPo4smoz671Wuaalzy+K45zrbEov5xpKYFQroG48YYMKp5SGISj9HFXNKr9QxyBbeJahiOs8hm7/CxFz1qOty4h4hgaNAXzPSnH50l16SnEC+W19gkmekaKLowZOVB63rdKP6XLS56mKavTSuqBHc9yBV0VjDDfDf092/63xyTUjv7ufN1EE2VybR8wIErdQBHa89IZzdr/FRmW2E2R+3Vm/9tNgfTPo=;KZ4NH9/LFfn3sMxq0P7TBA=="
+secured: "aKvbmFBGCmBrSxsxMcCC/Uhwva3H+4v9Qtq6mUruwIHBN/90+Q5keJyqnrpDnXqZaT0EjQYzqDkrCOCCoANsxJAckvjRyxiGI+hPT1MuqJRPs+0K0Tq7fmC3hmUw/U7OrBmHr5m3CN8jwwnEa982jWeBTO2U6vK9TFHdBfiuYitKWYG3zmoYgK3YI39upwylhha/pberjP6mEk5OBnYdpVLinNGODY4MoLCrNsIb5m2F10FXfBnbGg0gJpNn8jkRr3llqyEsv19xkibR9/8kigVGKWMD5Y1uwc0paHGb2MNo4OScMuic5FklBQAxh+km/SyS1nig0gUF0a0CbaX0H5OFgY3HxukInTLxTdEHBjc/5nJa0e1bxHf+swLEpCmYQjvEaWgvYfit/BbqJBJowLL3ggo26+rQ+EqV/3o0//C904o+jX1MGy831KegU09P5txlHf+n/Q6mrNE1BOrwZ019mKSgNcpnUi3Q5P5ouPtjislKmLJ9q7bvSIVYTc50fjASOqwbB38SWg9JxLeYEA==;7x6oyF+zlqi3hjo/L20ZsQ=="
 ---
 

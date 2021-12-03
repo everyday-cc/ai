@@ -222,6 +222,17 @@ related:
         height: 675
         isCached: true
   - title: "Meet the robot that can write poetry and create artworks"
+    excerpt: "When people think of artificial intelligence, the images that often come to mind are of the sinister robots that populate the worlds of"
+    publishedDateTime: 2021-12-03T13:38:00Z
+    webUrl: "https://whdh.com/news/meet-the-robot-that-can-write-poetry-and-create-artworks/"
+    ampWebUrl: "https://whdh.com/news/meet-the-robot-that-can-write-poetry-and-create-artworks/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/meet-the-robot-that-can-write-poetry-and-create-artworks/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 39
+  - title: "Meet the robot that can write poetry and create artworks"
     excerpt: "When people think of artificial intelligence, the images that often come to mind are of the sinister robots that populate the worlds of"
     publishedDateTime: 2021-11-29T00:54:00Z
     webUrl: "https://www.cnnphilippines.com/world/2021/11/28/Meet-the-robot-that-can-write-poetry-and-create-artworks-.html?_=1638146797578"

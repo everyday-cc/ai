@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "Global Assistive Robotics Market Size to Reach USD 25.16 Billion in 2028"
+    excerpt: "Rapidly increasing geriatric population, advancements in Artificial Intelligence, and surging prevalence of autism are some key factors driving market revenue growth Market Size – USD 5.05 Billion in 2020,"
+    publishedDateTime: 2021-12-03T13:35:00Z
+    webUrl: "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/"
+    ampWebUrl: "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 73
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/Assistive-Robotics-Market.jpg"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Service Robotics Market worth USD 41.49 billion at 15.9% CAGR; Government Investments in AI to Spur Growth: Fortune Business Insights™"
+    excerpt: "The global service robotics market is set to gain traction from the increasing adoption of these robots in a wide range"
+    publishedDateTime: 2021-11-30T05:52:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/g24350090/service-robotics-market-worth-usd-41-49-billion-at-15-9-cagr-government-investments-in-ai-to-spur-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24350090"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24350090"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 57
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
     excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI) market report."
     publishedDateTime: 2021-12-01T14:21:00Z
@@ -40,6 +72,61 @@ related:
         width: 629
         height: 330
         isCached: true
+  - title: "Mobile Robot Market Size Forecasted to Reach Valuation of USD 117.89 Billion by 2027"
+    excerpt: "The global mobile robot market is expected to be valued at USD 117.89 Billion by 2027 from USD 23.48 billion in 2019, registering a CAGR of 23.6% through the forecast period. This growth is attributed to surge in adoption of mobile robots especially across manufacturing plants."
+    publishedDateTime: 2021-12-02T10:30:00Z
+    webUrl: "https://techbullion.com/mobile-robot-market-size-forecasted-to-reach-valuation-of-usd-117-89-billion-by-2027/"
+    ampWebUrl: "https://techbullion.com/mobile-robot-market-size-forecasted-to-reach-valuation-of-usd-117-89-billion-by-2027/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/mobile-robot-market-size-forecasted-to-reach-valuation-of-usd-117-89-billion-by-2027/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 52
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/Mobile-Robot.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "The Role of AI in the Global Healthcare Market 2021: Rising Utilization of Robots for Surgical and Rehabilitation Procedures"
+    excerpt: "The global AI in healthcare market is forecasted to record a value of US$22.68 billion in 2025, progressing at a CAGR of 35.59%, for the duration spanning 2021-2025. Factors such as rising utilization of robots for surgical and rehabilitation procedures,"
+    publishedDateTime: 2021-12-03T10:41:00Z
+    webUrl: "https://menafn.com/1103298459/The-Role-of-AI-in-the-Global-Healthcare-Market-2021-Rising-Utilization-of-Robots-for-Surgical-and-Rehabilitation-Procedures"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 44
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?991765"
+        width: 362
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence in Energy Market Size Forecasted to Reach Valuation of USD 20.83 Billion by 2028"
+    excerpt: "The global Artificial Intelligence in energy market is expected to reach a valuation of USD 20.83 Billion in 2028, and register a revenue CAGR of 23.6% over the forecast period. The market revenue growth is attributed to growing need for obtaining operational efficiency to meet energy requirements."
+    publishedDateTime: 2021-11-29T20:08:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-in-energy-market-size-forecasted-to-reach-valuation-of-usd-20-83-billion-by-2028/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-in-energy-market-size-forecasted-to-reach-valuation-of-usd-20-83-billion-by-2028/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-energy-market-size-forecasted-to-reach-valuation-of-usd-20-83-billion-by-2028/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 40
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/11/Artificial-Intelligence-in-Energy.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "Arizton Advisory & Intelligence: Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
+    excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI) market report. The"
+    publishedDateTime: 2021-12-01T15:30:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54638906-arizton-advisory-intelligence-healthcare-artificial-intelligence-ai-market-size-to-reach-revenues-of-usd-44-5-billion-by-2026-arizton-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 14
 
 secured: "AngSxvCScxqnBfTsvsQQnbvttV4/+pCGRGVxztX1L3HD9X5L2vE+X2btfeCeEtRMUuhN+EHtuENji8Xis/Qh3SGrHmXLWlyKcmRZxnr2fCQCVYrKph7EzKCgZ7W1EOjRsXV3R0Gw6j296W4eo+qgdhnSIb5l15Zywm5177j4qJLNh1rLMQoyNC2/yLIIiqT3lzlNxR+Ueh8TZw+Qtj+n0Ce+n2U7O7BCZmu573ix8ltoLMRlHpQjLtW81aCtAaEBgaVzRcjKQsVco0mrG0VWm2KBzYgYSizP2GEe/2ddfL8ugP7P/3W6xyAnI1QUhZIKOk3NcVrhdh+mGQ/Gy0eGy4UY1ggGfHK5c27+SCnvKh0=;LYG1xSdfNzAc0jTz2WVxtA=="
 ---

@@ -112,6 +112,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "AWS Announces AWS Cloud WAN"
+    excerpt: "New managed WAN service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises"
+    publishedDateTime: 2021-12-02T16:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24412664/aws-announces-aws-cloud-wan"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24412664"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24412664"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "No-Code Machine Learning Services for AWS"
     excerpt: "Amazon has today announced Amazon SageMaker Canvas, a new machine learning service. The target audience here isn’t high-tech data scientists and engineers, but rather anyone working in a company with access to IT resources."
     publishedDateTime: 2021-11-30T20:20:00Z
@@ -182,15 +198,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "AWS Announces AWS Cloud WAN"
-    excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Cloud WAN, a managed wide area network (WAN) service that makes it faster and easier for enterprises to build, manage, and monitor a unified global network that seamlessly connects cloud and on-premises environments."
-    publishedDateTime: 2021-12-02T17:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-aws-cloud-wan-/2021/12/02/9504034.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "eR2PzhNldYfHcwaKxO5QfOlFvpaTKJYVPcKq5jJihhJ+AS5zrOVpFmHKZfcjpxqYgcnGoVUV4/pXCkCwdocVE6yhAGng1X81ndmLtTi0LdDN7Wy7YXkC0w1HWcrwcF4YMtXMlUCYA5YJyhQCLy4k5GeEg+gS9qFQQQv8z1NLZpriCS5QThDSSPxtdGJyqMH2aVWslxIz2eeisfzadKOmdyOwlO+rbmlYYy+7niAaX1NLKFCv78cT6ZHMgXZiq7pdvHI96yYOS5ogauG2QIkhDqaOjw5joB2VRkGDiz9wUMkLcVcfbzgf9jzKvdf6Zna58irWzSsuBx5nqVFdy7kZ31BxEhWjZQEU3M/zukNr6c4=;+DGk284rWnKi0jb8tGu4Ew=="
 ---
