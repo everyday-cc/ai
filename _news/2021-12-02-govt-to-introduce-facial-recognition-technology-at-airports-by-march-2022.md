@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recogni
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
 type: article
 quality: 73
-heat: 253
+heat: 263
 published: true
 
 provider:
@@ -246,6 +246,20 @@ related:
       - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/biometric-technology-digital-Face-Scanning-recognition-human-head-shut.jpg"
         width: 760
         height: 443
+        isCached: true
+  - title: "Neurotechnology Brings Facial Recognition Solution to Web Apps"
+    excerpt: "Neurotechnology has announced a much-improved version of its Face Verification solution featuring enhanced algorithms and support"
+    publishedDateTime: 2021-12-03T17:25:00Z
+    webUrl: "https://mobileidworld.com/neurotechnology-brings-facial-recognition-solution-web-apps-7122101/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock_Face-Feature.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Facial recognition at airports optional, data will not be shared with anyone: Ministry of Civil Aviation"
     excerpt: "With the government introducing facial recognition in airports, the Ministry of Civil Aviation clarifies that passengers can opt out."

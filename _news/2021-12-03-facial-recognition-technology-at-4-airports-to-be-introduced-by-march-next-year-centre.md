@@ -255,6 +255,20 @@ related:
         width: 760
         height: 443
         isCached: true
+  - title: "Neurotechnology Brings Facial Recognition Solution to Web Apps"
+    excerpt: "Neurotechnology has announced a much-improved version of its Face Verification solution featuring enhanced algorithms and support"
+    publishedDateTime: 2021-12-03T17:25:00Z
+    webUrl: "https://mobileidworld.com/neurotechnology-brings-facial-recognition-solution-web-apps-7122101/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock_Face-Feature.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Facial recognition at airports optional, data will not be shared with anyone: Ministry of Civil Aviation"
     excerpt: "With the government introducing facial recognition in airports, the Ministry of Civil Aviation clarifies that passengers can opt out."
     publishedDateTime: 2021-12-02T13:09:00Z

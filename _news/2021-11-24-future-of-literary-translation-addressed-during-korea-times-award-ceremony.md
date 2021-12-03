@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Future of literary translation addressed during Korea Times award ceremony"
-excerpt: "\"In terms of translation accuracy, AI may be better than humans. But languages are complex and nuanced, and there are extra-linguistic factors such as context or emotional output that need to be taken into consideration. There's creative aspects of ..."
-publishedDateTime: 2021-11-24T07:44:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw"
-webUrl: "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw"
+excerpt: "Participants in the 52nd Modern Korean Literature Translation Awards pose during a ceremony at the Lotte Hotel in central Seoul, Wednesday. From left are Korea Times President-Publisher Oh Young-jin;"
+publishedDateTime: 2021-11-24T07:45:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl"
+webUrl: "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 653
     isCached: true
 
-secured: "cDq6YbWFUO5NynC3OOAidhCxNh5mhuOKKEJ7MVUVFtnqg8LJJfdR6/WSZb5uo6rkFVw620Hr4FTKaqECb9b3vvpTJGLVfQV4O28dsuS/Vx3D6qF5qntvU+ptHUayipbT9CORH8EXfsiLIH4UUdVnhbs9IqfUw0kKC70UhQ57tbmhz7uFgy8xqOYL6S/7pmR/Op5SSs82R4mc19EnHuKI0To1q19eVJfj+HEvniwuYu6CMZKLagZZA+BADTPDJyYmLXUHWwJkB2sf6ZKqJLzJ0/NPhCfz70qewNF7f6W28HeJb/Gat99UJmqcrGxIcSJBd6UJT8oW4aqOpBM/gU+d/g0A241x2EbjSq/3+4K6Qgc=;1PLe6JrRmomFUqYTvDZhfw=="
+secured: "EYwIq+OX1mF20yz6CDVfKSM4BZDSTRg+zHyBLKSfk3ggjkzW4h++5T5g/LPbigP7+KUfJU8dDc3Xii7YvrU2yy1eu0AG703FGqw7B5rtS+rRj+z9Vpfdb4WAM3XhbMMqnfPAnMsPfzYDxkKljrlVpGC8Qb6yn7WK/B2b5QOZpy65dJCy+sSDLo7FuGsmftZYyFVXzbMThSrye8+nLESHOmqzWpwm+CIHcVNWFYTMwCTHWhiG6CMeC5Y7w3Jec60wbsApNuo+kRbDYjSKu4iFwEUGrtw3hhEqE1RwX4S9hWAKH5FEs8ljN/VXRsBmtXBOi2Ugse7WHF1WtGS8MvOXn5UoNrolq07c7Ny/UTMcLqk=;9JHJjjuWOJcPQyqX/cSTYQ=="
 ---
 

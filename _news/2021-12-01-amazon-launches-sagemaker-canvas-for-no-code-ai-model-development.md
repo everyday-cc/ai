@@ -93,6 +93,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 101
+  - title: "Amazon SageMaker – The Easiest Way To Build Artificial Intelligence Models Became Even Easier"
+    excerpt: "VIce President and Principal Analyst Quantum, AI, and Space, Paul Smith-Goodson dives into two of Amazon SageMaker's new features that were announced at one of the most important annual technical cloud conferences,"
+    publishedDateTime: 2021-12-03T17:28:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 95
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa5933cafd39f832c92b71%2F0x0.jpg%3FcropX1%3D18%26cropX2%3D572%26cropY1%3D0%26cropY2%3D312"
+        width: 554
+        height: 312
+        isCached: true
   - title: "Roundup of re:Invent 2021 Amazon SageMaker announcements"
     excerpt: "At re:Invent 2021, AWS announced several new Amazon SageMaker features that make machine learning (ML) accessible to new types of users while continuing to increase performance and reduce cost for data scientists and ML experts. In this post, we provide a summary of these announcements, along with resources"
     publishedDateTime: 2021-12-01T18:35:47Z
@@ -257,6 +273,6 @@ related:
         height: 506
         isCached: true
 
-secured: "kd3BtUSOXeYqkwY0naZva06jVYk030AGWRN+bF78h9yapUeqC3ke6XGH/kP5h19P8bFYVj5UUu86wRzcJl1d6MYMBugIOXLQBTBqKU7hLQWzTIz+weFoCxEbjeNJAG1/MdNwR0dKJWzZyBBKATlhZd0Ocf/ZLI540vrr1Qo6AuZtqj++NfVK5uEv2GCA60M7jLbf+nP2SZfZiq2mjP5vGgl2jtv695GGxHYqSW2unK6Lqeak11b8qvfkAttJiqu9HTaxjXr/BGdU7F9ZAcVHke+UzlRJtJ1hjJ5IxM8swllTm8F+Cz9QDWrfZ+dLqKTLWZU9W0iUk659JEtqvEnrG8nNfDXQ4TTITdyKJ6Lp1xw=;0UrcTetQj8rNbpoX1RaGKA=="
+secured: "gEDCaT17kTbJIBrF1UOLY/TKzTHKuM2HabiBI4opzJbJ9cwDKwYP5xujRpOu0MDX3a8cCjf6bTrCE8kO8HB8lxpbUoa6PQJrTzVNieUV7GkaNT/cBMoVtmWDFhcMjAnspbYXRpBWXhbtauBn3Rs6iKih2D+Zw00aEqJnPfqvnsdgxpUYbQ+qZTodln/00SciPKSsgFmpDZshHnSufDd2SIHZLwB6sX9jWtOHKDZrnHj3CYmFsi4MNahrOKhebE/Z3f7GCyjSAxCDZOIBN90nOs5XDLdNxgLDY3YXu7YVttM/QFfADyUuFHnHCoo6q0BPRFCXT+2QwNy1Y1yCi394s3RUAZU2HTNPT0JjRVOEZ7Y=;WxizvxDUKPni+P+EkinDCg=="
 ---
 

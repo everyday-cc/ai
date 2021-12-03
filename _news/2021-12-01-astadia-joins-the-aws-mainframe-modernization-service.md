@@ -105,12 +105,12 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "AWS Announces AWS Amplify Studio"
-    excerpt: "New visual development environment for creating rich user interfaces extends AWS Amplify to make it easier for developers to create fully customizable web applications"
-    publishedDateTime: 2021-12-02T16:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24412640/aws-announces-aws-amplify-studio"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24412640"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24412640"
+  - title: "AWS Announces AWS Cloud WAN"
+    excerpt: "New managed WAN service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises"
+    publishedDateTime: 2021-12-02T16:34:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24412664/aws-announces-aws-cloud-wan"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24412664"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24412664"
     type: article
     provider:
       name: Benzinga.com
@@ -177,14 +177,14 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "AWS Announces AWS Cloud WAN"
-    excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Cloud WAN, a managed wide area network (WAN) service that makes it faster and easier for enterprises to build, manage, and monitor a unified global network that seamlessly connects cloud and on-premises environments."
-    publishedDateTime: 2021-12-02T17:44:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-aws-cloud-wan-/2021/12/02/9504034.htm"
+  - title: "AWS Announces AWS Amplify Studio"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Amplify Studio, a new visual development environment that allows developers to create web application user interfaces (UIs) with minimal coding,"
+    publishedDateTime: 2021-12-02T21:33:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211202005810/en/AWS-Announces-AWS-Amplify-Studio"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 19
 
 secured: "x9fbAmIUooIeJq3EbDwE57epbrG3+q6zfPpy0l1UKqHznI950JWT2V9QLq8xBuOsxnuVwNOBCHpXXX1KNkvUQR+XF9ZidhrhDpYQRaivs9vLgFnE1lQ9n+/wcKVdppHG20TK1FLb910w/L3h1nfyRCcDUT2V2C6EGHFkW6+TT9l3q76oBk6jI4/ppsfd4XrkZr9+DUBkas2MezBku9f3aj7pk9pCAvD9EzC65pyN8FHt583TKGUbvOC/b+epeRDOUd/Di3wpR3JbGtUWuzFPQYnW5dkvYjsVKDYSKddBgtdf4S73AfNdwR0dGX1EvA844iL4X9dmIB1sMdZ8pTbhdobZMmDJc84pp+EvnYVtaoI=;TXIqT3b4ypnDHikFI7sKDQ=="

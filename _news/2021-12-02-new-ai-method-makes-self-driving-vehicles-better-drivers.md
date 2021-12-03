@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Superior self-driving system developed with ‘common sense’ AI"
+    excerpt: "Researchers believe they have developed a superior self-driving system that combines modern neural learning with “common-sense reasoning” to overcome some of the pitfalls of current autonomous systems."
+    publishedDateTime: 2021-12-03T16:55:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/12/superior-self-driving-system-developed-with-common-sense-ai/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/11434/dreamstime_l_140582302.jpg?crop=0,0.36458333333333337,0,0.1432291666666666&cropmode=percentage&width=1200&height=450&rnd=132350717730000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "J.D. Power Study on Fully Automated Self-Driving Vehicles: Consumers Don't Know What They Don't Know"
     excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
     publishedDateTime: 2021-11-30T13:12:00Z

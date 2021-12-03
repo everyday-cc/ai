@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amaz
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html"
 type: article
 quality: 121
-heat: 292
+heat: 302
 published: true
 
 provider:
@@ -86,6 +86,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 101
+  - title: "Amazon SageMaker – The Easiest Way To Build Artificial Intelligence Models Became Even Easier"
+    excerpt: "VIce President and Principal Analyst Quantum, AI, and Space, Paul Smith-Goodson dives into two of Amazon SageMaker's new features that were announced at one of the most important annual technical cloud conferences,"
+    publishedDateTime: 2021-12-03T17:28:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 95
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa5933cafd39f832c92b71%2F0x0.jpg%3FcropX1%3D18%26cropX2%3D572%26cropY1%3D0%26cropY2%3D312"
+        width: 554
+        height: 312
+        isCached: true
   - title: "Roundup of re:Invent 2021 Amazon SageMaker announcements"
     excerpt: "At re:Invent 2021, AWS announced several new Amazon SageMaker features that make machine learning (ML) accessible to new types of users while continuing to increase performance and reduce cost for data scientists and ML experts. In this post, we provide a summary of these announcements, along with resources"
     publishedDateTime: 2021-12-01T18:35:47Z

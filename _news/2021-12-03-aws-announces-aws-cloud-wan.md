@@ -1,22 +1,30 @@
 ---
 category: news
 title: "AWS Announces AWS Cloud WAN"
-excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Cloud WAN, a managed wide area network (WAN) service that makes it faster and easier for enterprises to build, manage, and monitor a unified global network that seamlessly connects cloud and on-premises environments."
-publishedDateTime: 2021-12-02T17:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-aws-cloud-wan-/2021/12/02/9504034.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-aws-cloud-wan-/2021/12/02/9504034.htm"
+excerpt: "New managed WAN service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises"
+publishedDateTime: 2021-12-02T16:34:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/b24412664/aws-announces-aws-cloud-wan"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/b24412664/aws-announces-aws-cloud-wan"
+ampWebUrl: "https://www.benzinga.com/amp/content/24412664"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24412664"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "AWS gets a no-code ML service"
@@ -99,22 +107,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "AWS Announces AWS Amplify Studio"
-    excerpt: "New visual development environment for creating rich user interfaces extends AWS Amplify to make it easier for developers to create fully customizable web applications"
-    publishedDateTime: 2021-12-02T16:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24412640/aws-announces-aws-amplify-studio"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24412640"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24412640"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "No-Code Machine Learning Services for AWS"
     excerpt: "Amazon has today announced Amazon SageMaker Canvas, a new machine learning service. The target audience here isn’t high-tech data scientists and engineers, but rather anyone working in a company with access to IT resources."
     publishedDateTime: 2021-11-30T20:20:00Z
@@ -185,7 +177,16 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "AWS Announces AWS Amplify Studio"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Amplify Studio, a new visual development environment that allows developers to create web application user interfaces (UIs) with minimal coding,"
+    publishedDateTime: 2021-12-02T21:33:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211202005810/en/AWS-Announces-AWS-Amplify-Studio"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
-secured: "xvBgYwA85pKcL7SXNMrlM3acM63oNXzzzNYmxlmqo0X9oupYt2k6H+70hZhLM0Pf07/WYIM/zGTL1JfauwhSLbK0UDtZz68u66Ri5fUmnXt8KG1DjaaAbkHMXlV8eH26d+baGASE/JTYaEHspgs5YK+dMh+/BNnBo61doAwJsd0CMS5OqbTcDr2rx8t/1riv9EOcy5H2+nYX5nDz3EZZmPyRejT/Z4EYopADxJ9po5jFJQ5iI+id9pBqK3CrvsitPl5Qqc9s1Jloi6BzWXlDTrZm5WUbmP7y/lqtRqQzM22PzrQsEPJnkT3iZT8OjYYtU6uyoCWWDnSdGT2Vpg/4uMTvGS0oL4HsD55hkVTYwXQ=;WF+3FVQaprpxSQK+cUw9Gg=="
+secured: "Jf+YmqY085tlHkhhpANxpX1NmfkolXMmjRZdtHGdpFQ7YCYZuqa8dlD5G7a/wYACotJaDDF5YRkyfBzndFUMzOPonabLWCTh31CKe1TvRC0538ZQRj6qlmuLkgZ+dutIK1L+hL+tBEk0Il1Ip/wuzJ9SIO+1301dhigO7X7gcK/foFYykDH/H3Hwm4Ga5tghfEh/ny+ju0J0UIpD3T6U+jsVQTy+d3Y+xc8tJPY/1LSzAlCYNdtTly47jzDdYkkReetmFvm6tGT8OXsB1D5hxGUCSlBpT3EqlbdqS2lcWdWKwr22xhJBZng9R6f/POB/ketuM+JG3G17l1860zF7Nv3Qmk9mShzu3X/KhisP87c=;RGV6wQD0tw4nducx1KB2pQ=="
 ---
 

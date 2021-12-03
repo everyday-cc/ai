@@ -167,7 +167,7 @@
       "originalUrl": "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022-11638434344157.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 253,
+      "heat": 263,
       "tags": null,
       "images": [
         {
@@ -949,6 +949,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-20-ai-in-computer-vision-market-new-emerging-trends-technology-standards-revenue-impact-objectives-studies-estimation-analysis.md",
+      "title": "AI in Computer Vision Market New Emerging Trends & Technology Standards, Revenue Impact, Objectives Studies & Estimation Analysis",
+      "excerpt": "London, UK — (SBWIRE) — 11/19/2021 — This report provides an overview of current global AI In Computer Vision based on segmented Types, Applications and key regions. It focuses on major ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-new-emerging-trends-technology-standards-revenue-impact-objectives-studies-estimation-analysis",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-new-emerging-trends-technology-standards-revenue-impact-objectives-studies-estimation-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/48390f2af271ef50423df694c8ef0835d356e1e8-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-19T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-congratulations-to-prof-shaogang-gong-who-has-been-elected-an-ellis-fellow-in-the-ellis-program-multimodal-learning-systems.md",
       "title": "Congratulations to Prof Shaogang Gong who has been elected an ELLIS Fellow in the ELLIS Program Multimodal Learning Systems.",
       "excerpt": "ELLIS Fellows are leading scientists in the European ML/AI community who advance science, and also act as ambassadors of ELLIS, thus giving a voice to data-driven AI research in Europe. Further information about the Ellis fellowship can be found here.",
@@ -1315,50 +1358,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-canons-450-camera-uses-facial-recognition-to-automatically-take-photos.md",
-      "title": "Canon's £450 camera uses facial recognition to automatically take photos",
-      "excerpt": "The PowerShot PX, which is released in the UK and Europe today for £450 (€500), is like having 'your own personal photographer', but scaled down into a five-inch-tall device.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10212821/Canons-450-camera-uses-facial-recognition-automatically-photos.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10212821/Canons-450-camera-uses-facial-recognition-automatically-photos.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2021/11/17/16/50614429-0-image-a-14_1637165765360.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10212821/amp/Canons-450-camera-uses-facial-recognition-automatically-photos.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10212821/amp/Canons-450-camera-uses-facial-recognition-automatically-photos.html",
-      "publishedDateTime": "2021-11-17T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },
