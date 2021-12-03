@@ -1,27 +1,29 @@
 ---
 category: news
 title: "After being fired from Google, Gebru forms AI research institute"
-excerpt: "Artificial Intelligence (AI) researcher Timnit Gebru, fired from Google after sending an email of concern to her Ethical AI team, has set up her own research institute that will be an independent, community-rooted institute set to counter Big Tech's pervasive influence on the research,"
-publishedDateTime: 2021-12-03T06:15:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=900302"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=900302"
+excerpt: "Artificial Intelligence (AI) researcher Timnit Gebru, fired from Google after sending an email of concern to her Ethical AI team, has set up her own research institute that will be an independent, community-rooted institute set to counter Big Techs pervasive influence on the research,"
+publishedDateTime: 2021-12-03T07:05:00Z
+originalUrl: "https://www.sify.com/finance/after-being-fired-from-google-gebru-forms-ai-research-institute-news-technology-vmdhfhjhjdide.html"
+webUrl: "https://www.sify.com/finance/after-being-fired-from-google-gebru-forms-ai-research-institute-news-technology-vmdhfhjhjdide.html"
+ampWebUrl: "https://www.sify.com/finance/after-being-fired-from-google-gebru-forms-ai-research-institute-news-technology-vmdhfhjhjdide.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/after-being-fired-from-google-gebru-forms-ai-research-institute-news-technology-vmdhfhjhjdide.html"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
-    width: 280
-    height: 250
+  - url: "https://www.sify.com/uploads/ai-robot-tlhnOxahhjcei.jpg"
+    width: 700
+    height: 525
     isCached: true
 
 related:
@@ -98,6 +100,6 @@ related:
         height: 960
         isCached: true
 
-secured: "29nGIsSX7kLP5NhdksHGXmglF0acVtB1H4hlWLb5iYgb9WPh7JEU4/eH8K6k4rmBZqRkamHeLu7KqS4nxhNOQqysXI8JJsbFPkRUq1SjStwf9l+3h5dqAmfbWUk+P46ckz/VVb7Y8N10+YowmtTqwTC8nX0SG2tF+3w0xYoRObjt9mjpWXsmSXZsn79IJuQqHdQ7r7UQ8ILkHRb2lPCUMYqMqH8Udm67TmCY6OLTF9OikLvIMjAw0BZJzxNxhKIL9W/VA86Xvn7quM73PLYUmeiDUtpHIW9Vdtbl0jNjyddK7a+SjWUkDigB1f2QMCDRM7fpTmTcV/OZyC8B7CMQFckM0NieVvtRXZqho1R8Z7A=;B/853UJhTS5g1EenhtackA=="
+secured: "Qf5dmdSldfLKYu7d5Mkjcn3wbEefSLuDQuf1hQYaufqmzBtwmeG3dfP77sSFW8viyIsWQj++e6texQyY9GffVrlqaXq7nz1n0e5FOA+4oZ1WPmgSLtq5pLfnSCyaiHd7Ei3hSyKGCNLBNENWoiVz0h0m2I72gkSyF8RuG0vQyZSCdnN2NgW3RxFM4r/VNRw9BiGkJI+2YTjXEUPgYWEB+bGcqOgX3s9gSXJaQ6L+P2CD7tyysnDw99/Tu8oVm8ugrTCN3jZ3OkUzPEm259xEmE+n3YLPmw+SWAEUJB/GCr3fuTvb6fIS28lq8GEbJfK+Kx9apgLOGi3r5Eibn2PBuWd8dOw5gXYaLrfbWXXanCE=;89wkupvwdqD69c8sh3YQkQ=="
 ---
 

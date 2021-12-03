@@ -32,13 +32,13 @@ images:
 
 related:
   - title: "Smartling Announces $160 Million Growth Investment from Battery Ventures as Digital Economy Fuels Growth in Global Translation and Localization Market"
-    excerpt: "Smartling, the leading cloud translation technology platform company, today announced a $160 million growth investment from Battery Ventures, a global, technology-focused investment firm. Smartling's Enterprise Translation Cloud is used by hundreds of B2B and B2C brands,"
-    publishedDateTime: 2021-12-02T13:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/12/02/9503574.htm"
+    excerpt: "Smartling, the leading cloud translation technology platform company, today announced a $160 million growth investment from Battery Ventures, a global, technology-focused investment firm. Smartling’s Enterprise Translation Cloud is used by hundreds of B2B and B2C brands,"
+    publishedDateTime: 2021-12-02T13:00:00Z
+    webUrl: "https://www.financialbuzz.com/smartling-announces-160-million-growth-investment-from-battery-ventures-as-digital-economy-fuels-growth-in-global-translation-and-localization-market/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 0
 
 secured: "Q+KN5GAXjIdgbjwPAm7PuLkGCp9nfjAd69UWZxvVD4EAEctttQT8E9FJ1gJCQ3DxRvun+rkEqcrhSYM6TmdNGPK0IVrblvFEnQUKyKd9BplZ9cSaALbeq6O/iDBSv1bExdELTHozhzOuJTUVICRx2lLsrZiiTTNJqVk3O6IYacjxFgvKyiPM9YvqArGjoQtaxSRMfOAqw1+66c7JtIFeCFT2COluP38U99rOhJmUoO5AmU8+H4KE8tT6qetjzjbap7VJ0bSu4N3fH0dT+SaiGMe9iQG/Ta4QcefivTHg6qqy3nJ7KIe1mUilFpiNfebM3h0Yn6/6dUfPinV/g7www4N7PaBVHf1wq0POBbubP2EE4HvgS4FqI5xGwaTq7sW/Y4qNKc1nQmAJM8cnpOyPBBRMQDm8lwVkMIApLnMdr1wJRNLdf3vVLkuf+rEsPS5NysRCEsp9aS09uqvuK+/gl6iZcMFzdZFGb2eS0754f4JltJCwWJ59M83Ce5TGtG2RKbmxqtLcGm1fw+5JuakpaQ==;MqVsNJqsLuPWqAlrYrwOew=="

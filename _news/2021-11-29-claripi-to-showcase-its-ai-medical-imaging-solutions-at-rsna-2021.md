@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/claripi-to-showcas
 webUrl: "https://markets.businessinsider.com/news/stocks/claripi-to-showcase-its-ai-medical-imaging-solutions-at-rsna-2021-1031009004"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "VUNO Boasts of its AI Solutions and Research Results at RSNA 2021"
-    excerpt: "South Korean artificial intelligence (AI) developer VUNO Inc. announced that it will join the Radiological Society of North America 2021 (RSNA 2021), one of the biggest annual events, featuring a series of industry symposia in radiology."
-    publishedDateTime: 2021-11-28T15:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vuno-boasts-of-its-ai-solutions-and-research-results-at-rsna-2021-1031007150"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/1696983/VUNO_at_RSNA_2021.jpg"
-        width: 400
-        height: 215
-        isCached: true
   - title: "Philips extends AI-enabled CT imaging portfolio at RSNA 2021"
     excerpt: "New CT 5100 ? Incisive ? with CT Smart Workflow applies artificial intelligence* (AI) at every step in the CT imaging process to help customers meet financial, clinical, and operational goalsAI-enabled Smart Workflow is"
     publishedDateTime: 2021-11-29T14:08:00Z

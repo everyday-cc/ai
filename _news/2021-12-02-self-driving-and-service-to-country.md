@@ -45,6 +45,22 @@ related:
         width: 700
         height: 400
         isCached: true
+  - title: "Why We Aren’t Using Self-Driving Cars Yet"
+    excerpt: "The term ‘self-driving cars’ or ‘autonomous vehicles’ have been making rounds in the industry for quite some time now. We have even seen a few of them in action on the roads. It is almost a consensus that self-driving cars are the future of the automobile industry."
+    publishedDateTime: 2021-12-03T07:46:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet"
+    ampWebUrl: "https://www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 44
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2019/06/Waymo-the-first-commercial-self-driving-car.jpg"
+        width: 1075
+        height: 624
+        isCached: true
 
 secured: "Su2fPgLmrMIh0iiVUdfJwDKwbrpr8A1UwQK54eqjwHpQ6S+tTH3oT6Dnf8oNz9ztU3R1BdTlpVuXImG9O5t4iDk2TODVauSz5mOFnVCm+zxEGVKuZAIIijHo5g7qMLMwS56UtzmwPVTaZLskFSYiHUYJL1xRb+iDl2L/KL1hLrneD3k7uyBNcXHmfiiwzGFZ6+K+5D9Y8Z8aiLo2Pf75YaQnSoxA823DPMEgAK9A1BJsbP3zaz3qwuVp/sZ+rAVl8+ztX81zwzneWFiky42644t3Uv11oIEx2/cjvz+WUwb+CabC50Wy09Y8BbWmeDyCXMEHqcQZj8OyfWI299sEOx7FRdLV494bsnsP+Jcb9ME=;y9ATpLDZME44EcaAhik7kQ=="
 ---

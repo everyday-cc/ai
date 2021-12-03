@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/lawmakers-warn
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/lawmakers-warn-fintechs-about-ai-based-financial-tools/amp/"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 457
     height: 274
     isCached: true
+
+related:
+  - title: "SKKU: FinTech Research & Education Center for Global Leaders in Financial Innovation holds “2021 Global AI Finance Research Conference”"
+    excerpt: "FinTech Research & Education Center for Global Leaders in Financial Innovation (Director: Prof. Kyo Jik Song) will hold the “2021 Global AI Finance Research Conference” at Sonocam Hotel in Yeosu from"
+    publishedDateTime: 2021-12-03T03:16:00Z
+    webUrl: "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/"
+    ampWebUrl: "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 59
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/11/640px-Samsung_Library_at_Suwon_campus_of_Sungkyunkwan_University.jpeg"
+        width: 640
+        height: 361
+        isCached: true
 
 secured: "6TAX7eHoTLObS2Dd0m5a74CRZzOEz0cDgob+ns+1z4VpEE/BoZPvgpGYbOMsPw+UopcMCRXcvq/ezjx6Ut2dDRT3mIiZKxdswR6TNruZ88Bh6FpVwFgyy1044gDLO/l3DC0vXHQYpnLzKbQjDRmCmAR8CnvA5VOcwY5nr0ApHUPXfu6RxHet6BR60P9uw+VCJ3iuOT4P2gjmsEDgfYx/jG0lgNxPSmERmNCrmdHmCgWbXjGekft5JDh/soeXFLi2RZYVHmntefIvItA6KVA/vIHfix7BYsprHTk0jfGMQazys4hwNtc5DjTGDDP+rMK9WhwhPFynKL0geESifsTKAobpRMnAG192NBbLIMkqLIJJVPbpqWQ3Rimw/C3KqRfIgpCY5XIYJJ3uNio+u4P/b6yeQEzBk4KVg0mqO0cJIe7aaRc2T+zvL6Gmll8sWbcVVQzYSfIGHkSK6KnlBMa4YWmNFrIrseFNxdlzxq6f0NBRdYkt5lYSPFvRcO45/I7lc505vMWdXufSzSIjwjTl6w==;jSeGwARdRX55okiDCkqDow=="
 ---

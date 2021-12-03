@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-03-aws-announces-scholarship-program-for-their-ai-and-ml-courses.md",
+      "title": "AWS Announces Scholarship Program For Their AI And ML courses",
+      "excerpt": "Students who take part in the DeepRacer Student League will be eligible for a chance to win 2,500 annual scholarships from Udacity,",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/aws-announces-scholarship-program-for-their-ai-and-ml-courses/",
+      "originalUrl": "https://analyticsindiamag.com/aws-announces-scholarship-program-for-their-ai-and-ml-courses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/12/aiml_scholarship_program_featured.png",
+          "width": 812,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T22:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-aws-bugbust-sets-the-guinness-world-record-for-the-largest-bug-fixing-challenge.md",
       "title": "AWS BugBust sets the Guinness World Record for the largest bug fixing challenge",
       "excerpt": "AWS BugBust is the first global bug-busting challenge for developers to eliminate 1 million software bugs and save $100 million in technical debt for their organizations. AWS BugBust allows you to create and manage private events that transform and gamify the process of finding and fixing bugs in your",
@@ -400,50 +444,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-aws-announces-free-machine-learning-educational-materials-and-training-resources.md",
-      "title": "AWS announces free machine learning educational materials and training resources",
-      "excerpt": "says it’s trying to break down accessibility barriers around machine learning technology and make it possible for anyone who’s interested to become an",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/12/01/aws-announces-free-machine-learning-educational-materials-training-resources/",
-      "originalUrl": "https://siliconangle.com/2021/12/01/aws-announces-free-machine-learning-educational-materials-training-resources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/SM_Masthead_single-image_2x.5bff688695257f5a21a469dad76ace2d44256b79.png",
-          "width": 2880,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-01-continuously-improve-search-application-effectiveness-with-amazon-kendra-analytics-dashboard.md",
       "title": "Continuously improve search application effectiveness with Amazon Kendra Analytics Dashboard",
       "excerpt": "Unstructured data belonging to enterprises continues to grow, making it a challenge for customers and employees to get the information they need. Amazon Kendra is a highly accurate intelligent search service powered by machine learning (ML). It helps you easily find the content you’re looking for, even",
@@ -556,7 +556,7 @@
       "originalUrl": "https://www.tvtechnology.com/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Announces Scholarship Program For Their AI And ML courses"
+    excerpt: "Students who take part in the DeepRacer Student League will be eligible for a chance to win 2,500 annual scholarships from Udacity,"
+    publishedDateTime: 2021-12-03T06:56:00Z
+    webUrl: "https://analyticsindiamag.com/aws-announces-scholarship-program-for-their-ai-and-ml-courses/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/aiml_scholarship_program_featured.png"
+        width: 812
+        height: 400
+        isCached: true
   - title: "AWS announces free machine learning educational materials and training resources"
     excerpt: "says it’s trying to break down accessibility barriers around machine learning technology and make it possible for anyone who’s interested to become an"
     publishedDateTime: 2021-12-01T18:30:00Z
@@ -39,6 +53,52 @@ related:
         width: 2880
         height: 1024
         isCached: true
+  - title: "AWS announces expanded cloud partnerships with Meta, Discovery and Aurora"
+    excerpt: "Meta Platforms Inc., formerly Facebook Inc., as well as Discovery Inc. and Aurora Innovation Inc., which develops autonomous vehicle technology. The partnership with Meta is the main highlight. Besides being one of the world’s largest tech firms,"
+    publishedDateTime: 2021-12-01T18:35:00Z
+    webUrl: "https://siliconangle.com/2021/12/01/aws-announces-expanded-cloud-partnerships-meta-discovery-aurora/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/aws.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "AWS Announces Service For Enterprises To Deploy And Scale Private 5G Networks"
+    excerpt: "AWS Identity and Access Management allow network administrators to directly control which mobile devices can access on their private networks."
+    publishedDateTime: 2021-12-01T12:52:00Z
+    webUrl: "https://analyticsindiamag.com/aws-announces-service-for-enterprises-to-deploy-and-scale-private-5g-networks/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/maxresdefault-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
+    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services ( News - Alert ),"
+    publishedDateTime: 2021-11-30T14:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/11/30/9501580.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
+    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services, Inc."
+    publishedDateTime: 2021-12-01T08:55:00Z
+    webUrl: "https://www.financialbuzz.com/workato-joins-aws-partner-network-and-is-a-launch-partner-for-ai-for-data-analytics/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 30
 
 secured: "XEswJTLGZ3Cg1xjTXPcs/8jwMN9UbtQ+EyLd0DS7h2E05wb+TPw9yxIN3DnL0XPY27ZRGAND/j2dIT10aOLCxG2oLzauB/1zOIE4PMDS9Mpqbd2rrijJi/TJjIWBJZ8ACmL6Cb7rXwTYt2eGo4XKslizbvfm997Yp5EcTE/MKEdIQW0eckMeFur6i1q3LDGW6SXUN2m8aNe1GiBLfm1xqspd9q5mbafiMDtXGKJphh1Q08ApB5JE5wDPN2CRPAuB2crJmn9W7a1aZ0FguXO7zppOLQPvveNQ7cHvewSondxLhO/lrbnFmAluIYabPrnHywLhIwXzoIcc/gjjwx08AXg9Xz0MToQj+fn7X12kcrI=;c34Rc3eojM2D5Hhg7Y284w=="
 ---

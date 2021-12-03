@@ -91,22 +91,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Ai-Da, the world’s first AI humanoid artist, has now made history as a poet"
-    excerpt: "Ai-Da, the humanoid AI artist who made history in 2019, as the first ever robot who can draw without any human input, is now an AI poet. Her first performance? A recital at the University of Oxford’s Ashmolean Museum,"
-    publishedDateTime: 2021-11-28T15:38:00Z
-    webUrl: "https://www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante"
-    ampWebUrl: "https://www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante?amp=1"
-    cdnAmpWebUrl: "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante?amp=1"
-    type: article
-    provider:
-      name: Dazed
-      domain: dazeddigital.com
-    quality: 57
-    images:
-      - url: "https://dazedimg-dazedgroup.netdna-ssl.com/959/0-0-959-639/azure/dazed-prod/1310/7/1317114.jpg"
-        width: 959
-        height: 639
-        isCached: true
   - title: "Team builds first living robots that can reproduce"
     excerpt: "Scientists have discovered a new form of biological reproduction -- and created self-replicating living robots. Made from frog cells, these computer-designed organisms gather single cells inside a Pac-Man-shaped 'mouth' -- and release Xenobot 'babies' that look and move like themselves."
     publishedDateTime: 2021-11-30T00:43:00Z

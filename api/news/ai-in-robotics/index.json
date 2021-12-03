@@ -410,6 +410,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-01-the-10-coolest-robotics-startups-of-2021.md",
+      "title": "The 10 Coolest Robotics Startups Of 2021",
+      "excerpt": "The robotics industry is one of revolution, as startups develop new autonomous robots to increase the efficiency of human workers or perhaps free them for tasks that are less dangerous or that add value to a business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/mobility/the-10-coolest-robotics-startups-of-2021",
+      "originalUrl": "https://www.crn.com/slide-shows/mobility/the-10-coolest-robotics-startups-of-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/026f-13d90a4b9997-a7f882416c5e-1000/robotics-startups-2021.jpg",
+          "width": 610,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-aws-pitches-robotics-as-the-next-big-thing.md",
       "title": "AWS pitches robotics as the next big thing",
       "excerpt": "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations",
@@ -644,7 +687,7 @@
       "originalUrl": "https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1380,49 +1423,6 @@
       "provider": {
         "name": "The Engineer",
         "domain": "theengineer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-little-big-robots-mech-battle-is-a-pvp-multiplayer-robot-battling-game-out-now-on-android-in-select-countries.md",
-      "title": "Little Big Robots. Mech Battle is a PvP multiplayer robot battling game, out now on Android in select countries",
-      "excerpt": "Little Big Robots. Mech Battle is a fast-paced multiplayer battle game featuring giant robots. Each robot is unique, be it design or skill-wise. As you might have already guessed, you play as a robot and take down enemy robots controlled by other players",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocketgamer.com/little-big-robots-mech-battle/out-now-on-android-in-select-countries/",
-      "originalUrl": "https://www.pocketgamer.com/little-big-robots-mech-battle/out-now-on-android-in-select-countries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.pocketgamer.com/artwork/na-33569-1637690283/little-big-robots.-mech-battle.jpg",
-          "width": 1010,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketgamer",
-        "domain": "pocketgamer.com",
         "images": null,
         "publishers": null,
         "authors": null

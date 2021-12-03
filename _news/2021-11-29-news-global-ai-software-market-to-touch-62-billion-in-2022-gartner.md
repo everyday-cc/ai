@@ -54,6 +54,20 @@ related:
         width: 800
         height: 453
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market 2021-2026: Global Size, Share, Trends and Forecast"
+    excerpt: "The global artificial intelligence in healthcare market exhibited strong growth during 2015-2020. Looking forward, the market is expected to grow at a CAGR of 42.3% during 2021-2026."
+    publishedDateTime: 2021-12-03T08:56:00Z
+    webUrl: "https://wakelet.com/wake/IgHaelmGd4xKI7s1MJmqj"
+    type: article
+    provider:
+      name: wakelet.com
+      domain: wakelet.com
+    quality: 42
+    images:
+      - url: "https://assets.wakelet.com/monomer/thumbnail/wakelet-socail-thumbnail.png"
+        width: 1080
+        height: 540
+        isCached: true
 
 secured: "ooGA3Yy0ncV55DOAOA9r+mJi6f1AqW167T94mRTctAyL2EfAvxGa94pPeH0cT+eVZ32SZSoRZ7494dzxmo5c2UF3AGWys8FllikqNsme+EbYeyiZ+XT7FTfraKcjeVg17EUYRgD1AdI4if1MY2G2/iH41CFqwtJhSd3MEQqBtoHmffpMJuPpjdzH7N12S/vqbpGp+Q2oWhFmu7NYePYBqWZEBClaTji+3BtCgdIcWcwn5RiSrcjDKTFh37/NSpigS8L+SpaI3a5brIz7Y0nhaDqhl0Los8fXhDY+k4E2bpSE5i0zGUOBXTKfTDuq9TIh6Bx5wKGSEerHyy2zwm893nbAubyUf+pjvTTOy5BSIzU=;VsMCpS+n/vGXDMD2319GJg=="
 ---

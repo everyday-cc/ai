@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designe
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/amp/"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://thelogicalindian.com/h-upload/2021/11/29/400x400_207630-untitled-design-2021-11-29t103354438.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Ai-Da, the world’s first AI humanoid artist, has now made history as a poet"
-    excerpt: "Ai-Da, the humanoid AI artist who made history in 2019, as the first ever robot who can draw without any human input, is now an AI poet. Her first performance? A recital at the University of Oxford’s Ashmolean Museum,"
-    publishedDateTime: 2021-11-28T15:38:00Z
-    webUrl: "https://www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante"
-    ampWebUrl: "https://www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante?amp=1"
-    cdnAmpWebUrl: "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/art-photography/article/54912/1/ai-da-world-first-humanoid-artist-poet-oxford-ashmolean-museum-dante?amp=1"
-    type: article
-    provider:
-      name: Dazed
-      domain: dazeddigital.com
-    quality: 57
-    images:
-      - url: "https://dazedimg-dazedgroup.netdna-ssl.com/959/0-0-959-639/azure/dazed-prod/1310/7/1317114.jpg"
-        width: 959
-        height: 639
         isCached: true
   - title: "Xenobots: Scientists Build the First-Ever Living Robots That Can Reproduce"
     excerpt: "AI-designed Xenobots reveal entirely new form of biological self-replication—promising for regenerative medicine. To persist, life must reproduce. Over billions of years, organisms have evolved many ways of replicating,"

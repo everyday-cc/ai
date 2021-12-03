@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "VUNO Boasts of its AI Solutions and Research Results at RSNA 2021"
-    excerpt: "South Korean artificial intelligence (AI) developer VUNO Inc. announced that it will join the Radiological Society of North America 2021 (RSNA 2021), one of the biggest annual events, featuring a series of industry symposia in radiology."
-    publishedDateTime: 2021-11-28T15:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vuno-boasts-of-its-ai-solutions-and-research-results-at-rsna-2021-1031007150"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/1696983/VUNO_at_RSNA_2021.jpg"
-        width: 400
-        height: 215
-        isCached: true
   - title: "ClariPi to Showcase its AI Medical Imaging Solutions at RSNA 2021"
     excerpt: "ClariPi, a leading AI medical imaging company, is presenting its AI-powered low-dose CT denoising solution, ClariCT.AI along with new innovative AI imaging solutions at RSNA 2021. ClariCT.AI is a vendor-agnostic software solution offering a superb clarity of CT images scanned with substantially reduced radiation dose,"
     publishedDateTime: 2021-11-29T14:10:00Z

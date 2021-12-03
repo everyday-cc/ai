@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Smartling Announces $160 Million Growth Investment from Battery Ventures as Digital Economy Fuels Growth in Global Translation and Localization Market"
-excerpt: "Smartling, the leading cloud translation technology platform company, today announced a $160 million growth investment from Battery Ventures, a global, technology-focused investment firm. Smartling's Enterprise Translation Cloud is used by hundreds of B2B and B2C brands,"
-publishedDateTime: 2021-12-02T13:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2021/12/02/9503574.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2021/12/02/9503574.htm"
+excerpt: "Smartling, the leading cloud translation technology platform company, today announced a $160 million growth investment from Battery Ventures, a global, technology-focused investment firm. Smartling’s Enterprise Translation Cloud is used by hundreds of B2B and B2C brands,"
+publishedDateTime: 2021-12-02T13:00:00Z
+originalUrl: "https://www.financialbuzz.com/smartling-announces-160-million-growth-investment-from-battery-ventures-as-digital-economy-fuels-growth-in-global-translation-and-localization-market/"
+webUrl: "https://www.financialbuzz.com/smartling-announces-160-million-growth-investment-from-battery-ventures-as-digital-economy-fuels-growth-in-global-translation-and-localization-market/"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Natural Language Processing
@@ -36,6 +36,6 @@ related:
         height: 600
         isCached: true
 
-secured: "hrDzyQjMrB9H1bvkNV8jTce57Fslzx4uxUjcWiEPa3G1j0xkX4TM63fFdA1YYaAioyHRu6BTnxvy4ajIZXgn4dgV4WOnZbEgGMn2myCChn+ksw7eg+vVf6mZhm/YyQXh4A4GhMZ26UFQ8wf3+wAp+4g1ATLE1pZTF3wn5KHNcRgp0JOvHLQKygFS5JV6ImxZXFQBxFJU004VryGg36BDefU8k95ZIQauxfAmBEKfiBp8X8yifB4V4y1Qew18iaHclooxGWVYvBhbjhg2iLubj0BXFW40kEaQ1ayfpRXLXC2a5CxarDufZn82SYGCEprL0V07Ixq28u9FvUB8HF6FQy4psqyln8Eq23WiBKhvEew=;drpmaHM7ETmmNDQR7hIrMg=="
+secured: "supdeIG0qY7f1FsrZ/9qiGa/KE4vxCMdhMSBroDBqugEAmCM4UNva1wK/XvV7+LjdjhXLUFn0p0hmseWSfihZJJEOjCdszyrmUlZ2OqB7/FGS6o9LPjKFePU1MleuHsRiXhY7IOKwde4F8lkZt4zfzNEcM/mclrzBDLPmy/2R5gDyE5V0C4R+ABf56Kaez5v8fJbbl1vgSKgNgkDV3ip5jLTlR/0Hj5fD3g8k7XIT/gVPeA8cCQPe64x20YRVrIa6xfO1R4XAw7Opnaqjcnmgmoch/pi0u+j5mLEXUXabPmfw/gc2s4tS41vKYr5Ponh10kZRc7Q02+/NRWp9u+U72z9QiDki2WOqpivAclXIbQ=;8/v7fmLO9z0jNt0cxw6gfA=="
 ---
 

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AWS announces expanded cloud partnerships with Meta, Discovery and Aurora"
-    excerpt: "Meta Platforms Inc., formerly Facebook Inc., as well as Discovery Inc. and Aurora Innovation Inc., which develops autonomous vehicle technology. The partnership with Meta is the main highlight. Besides being one of the world’s largest tech firms,"
-    publishedDateTime: 2021-12-01T18:35:00Z
-    webUrl: "https://siliconangle.com/2021/12/01/aws-announces-expanded-cloud-partnerships-meta-discovery-aurora/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/aws.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Discovery chooses AWS to power rollout and increased personalization of of discovery+"
     excerpt: "Discovery is also accelerating its digital transformation and enhancing viewing experiences across its more than 450 television channels"
     publishedDateTime: 2021-12-01T14:55:00Z
@@ -79,13 +65,13 @@ related:
       domain: mobilitytechzone.com
     quality: 11
   - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-    excerpt: "(NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud. As Discovery’s preferred cloud provider, AWS powers the vast majority of the company’s infrastructure needs to deliver its discovery+ on-demand streaming video service,"
-    publishedDateTime: 2021-12-01T23:08:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship"
+    publishedDateTime: 2021-12-01T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 11
 
 secured: "KVHunFGZzKqGMUoGIfPrMse1mVEfHw8IUvmyUMtshFO1Y8Fre5/vTjFBUcQkmPpj6fSdr6R627fHfhpr8Ackz+HPT1u92T30p207vBuD1GHUAUPgTcduntzXDrjyv8Xm+BuysAhzvlnZKiIl4A6TNkXNluBCiyepxussay9ThNpuYOiT2NKh1QBMzfwKForiU7a1n9RKk4a3SrscpssqNNKD5+PlswW9W/86zzmWqecqLvo5JJkLBVfQ9bLx1poQgrQv8GJ5ACvGYJ1LSNW/nQwYYtwtnpxm4Kr0wAWgCGwwJAG8aE/gKMkqvBud8WbA4TE064tKY9YEBao1QKXDE5NZiJmf1jdb1J13kUg5QJVm1zelh0JwjIMWXZNZ+TNrovI9aIYNzRZh48oQrjBAgbvaEzKl2f5ot0FAK2nj1m+g05if55xpibOyr7WrHYbszoc4buEKlhvnqW8xmLTL51CH8E8p+8sCVJoQ7hnEBuSEhwgc2TRh7Kc0yL0lVK2XOSf60b7oW0EAPAttAa+wQQ==;oBaiaLVyXAX8EAE080vPTQ=="

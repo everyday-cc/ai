@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS’s proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
-publishedDateTime: 2021-12-02T08:38:00Z
-originalUrl: "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/"
-webUrl: "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
+publishedDateTime: 2021-12-01T18:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
+webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
@@ -70,6 +70,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "5UYc2UNjpwzjEKK0IByxfyPHy8t43VwVeEOa7f6VI1zmRqfo3hfFZ9F3E4BUn44q4uoUZGrtNkDI1DROzhDkEYyJvAaI8Sa8NjNGnoFbtZvpgY9m2RbzWUOADPqJV7cJkFf7xf95UACP5XS9mtXJbEoFR9LkhWSlaTpYe2DyaUX/oHIbqUBzEmo69u+0jVdrR7HQVaMFMiweXVdDlOp8pmnJ6hgZoaKQH+8nRFltUji62lScpjtyU9xXXW0UtL1BrEvll0wFecTRIjUGb1vmnWv2R9WQ79L+rChiRqHQrin9jxB2nOM//9XWya8hW+jo10/mqoYJA9IEngp3gkdT8iefQMUkIqrlUlDBcKR5Gzw=;vk5jLXmS0Lq1QOYD3cY8nQ=="
+secured: "cYRxWsTmOvgtLCjI4PMsD06GI8YA9RfdEzx0cIB3l0O6Vx7hH6WKsP1yInozszH+HQA3esJhI9ZpdIN5DHO/cq56Dchp/JlvUgu8sqm9pCfjOTaErYg5H4hY8UfsannOtn8plEpJOt2hp8aym/hPL6siHNrr1LMEPWZ7umDMZfHTIn0QVAfE60zNwx0GVAjbWD6iGPOTL1/d2ovfMNv3OojQ4rBNqLaMuGXFWDNf/ca0Fl8lhBSBnQ8eAQO5VmJ2bbua5TY5DvlBiQuX637BlQ/m6QxhyGLJxgaB+2mu8RnE3YVv6HZQkKdE32jJyY64iu+xoowLKJtkYHvtac8Lli1lyxxR44Y3GKI6n9IB4vw=;gGGxxU6soWFS9cOe/nEkKQ=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-03-aws-announces-scholarship-program-for-their-ai-and-ml-courses.md",
+      "title": "AWS Announces Scholarship Program For Their AI And ML courses",
+      "excerpt": "Students who take part in the DeepRacer Student League will be eligible for a chance to win 2,500 annual scholarships from Udacity,",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/aws-announces-scholarship-program-for-their-ai-and-ml-courses/",
+      "originalUrl": "https://analyticsindiamag.com/aws-announces-scholarship-program-for-their-ai-and-ml-courses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/12/aiml_scholarship_program_featured.png",
+          "width": 812,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T22:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-emerging-ai-companies-are-driving-a-paradigm-shift-in-ml.md",
       "title": "Emerging AI Companies Are Driving A Paradigm Shift in ML",
       "excerpt": "Leadership from Cruise and Facebook AI discuss the emergence of AI native companies and the paradigm shift being driven by advances in ML and robotics. Just as web transformed business, then the emergence of mobile and cloud,",
@@ -261,58 +305,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning.md",
-      "title": "Dataiku releases new version of unified AI platform for machine learning",
-      "excerpt": "While trying to make data scientists more effective, Dataiku’s AI platform also provides no-code GUIs for data prep and AutoML capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash-e1638387079382.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/amp/",
-      "publishedDateTime": "2021-12-01T20:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -639,50 +631,6 @@
         "AWS AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-announces-free-machine-learning-educational-materials-and-training-resources.md",
-      "title": "AWS announces free machine learning educational materials and training resources",
-      "excerpt": "says it’s trying to break down accessibility barriers around machine learning technology and make it possible for anyone who’s interested to become an",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/12/01/aws-announces-free-machine-learning-educational-materials-training-resources/",
-      "originalUrl": "https://siliconangle.com/2021/12/01/aws-announces-free-machine-learning-educational-materials-training-resources/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/SM_Masthead_single-image_2x.5bff688695257f5a21a469dad76ace2d44256b79.png",
-          "width": 2880,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -1462,6 +1410,51 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-ai-education-for-teens-lifting-the-hood-on-data-and-machine-learning.md",
+      "title": "AI Education for Teens: Lifting the Hood on Data and Machine Learning",
+      "excerpt": "What are key ideas and intuitions foundational to AI that AI education in secondary schools should target? This blog post describes our approach to teaching AI and Machine Learning (AI/ML) to 13-15 year olds through situations/issues set in the context of cybersecurity in ways that \"lift the hood\" on how ML models are designed,",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/blogs/blog-cacm/256999-ai-education-for-teens-lifting-the-hood-on-data-and-machine-learning/fulltext",
+      "originalUrl": "https://cacm.acm.org/blogs/blog-cacm/256999-ai-education-for-teens-lifting-the-hood-on-data-and-machine-learning/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh4.googleusercontent.com/Zze54gK3NEgNpowFweb-8rMY0Q-E9KR7Vpj0hX-ZoSLwPfob3-O9e1Xg3UWlKbfDPzvelic5g3FN5Nh4WwMTHZFqxrzKe7xEA8aEuXQq9YTSN8sIrB4Iflcmoq0_hrjHY_dC8acb",
+          "width": 1146,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education",
+        "AI Ethics"
       ]
     }
   ],

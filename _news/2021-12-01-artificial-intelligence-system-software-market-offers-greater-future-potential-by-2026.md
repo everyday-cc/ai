@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market 2021-2026: Global Size, Share, Trends and Forecast"
+    excerpt: "The global artificial intelligence in healthcare market exhibited strong growth during 2015-2020. Looking forward, the market is expected to grow at a CAGR of 42.3% during 2021-2026."
+    publishedDateTime: 2021-12-03T08:56:00Z
+    webUrl: "https://wakelet.com/wake/IgHaelmGd4xKI7s1MJmqj"
+    type: article
+    provider:
+      name: wakelet.com
+      domain: wakelet.com
+    quality: 42
+    images:
+      - url: "https://assets.wakelet.com/monomer/thumbnail/wakelet-socail-thumbnail.png"
+        width: 1080
+        height: 540
+        isCached: true
   - title: "News: Global AI software market to touch $62 billion in 2022: Gartner"
     excerpt: "As per the report the top five use cases for AI software spending in 2022 will be knowledge management virtual assistants autonomous vehicles digital workplace and crowdsourced data"
     publishedDateTime: 2021-11-29T03:32:00Z

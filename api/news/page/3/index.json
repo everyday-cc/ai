@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-02-adt-commercial-introduces-humanoid-robotics-to-security-industry.md",
+      "title": "ADT Commercial introduces humanoid robotics to security industry",
+      "excerpt": "DALLAS—ADT Commercial prides itself on delivering innovative commercial security, fire, life safety and risk consulting solutions for its customer base throughout the United States. That focus on",
+      "sourceUrl": null,
+      "webUrl": "https://www.securitysystemsnews.com/article/adt-commercial-introduces-humanoid-robotics-to-security-industry",
+      "originalUrl": "https://www.securitysystemsnews.com/article/adt-commercial-introduces-humanoid-robotics-to-security-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securitysystemsnews.com/uploads/blog/968733cf011da9e33bf470bf2926d7d8.jpg",
+          "width": 260,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Systems News",
+        "domain": "securitysystemsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery.md",
       "title": "Discovery Extends Relationship with AWS To Assist in Global Rollout of Discovery+",
       "excerpt": "Discovery has turned to Amazon Web Services (AWS) to assist with the global rollout of discovery+, including enabling greater personalization capabilities to assist viewers in finding content that appeals to their interests,",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.tvtechnology.com/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -329,6 +373,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-an-insight-into-autonomous-and-self-driving-trucks.md",
+      "title": "An Insight into Autonomous and Self Driving Trucks",
+      "excerpt": "Imagine a world where trucks drive themselves, and autonomous vehicles rule the road. Industry experts project autonomous vehicles will become more common over the next ten years. Already there are companies that operate autonomous trucks in select areas such as mines,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/",
+      "originalUrl": "https://techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/12/Autonomous-and-Self-Driving-Trucks.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/an-insight-into-autonomous-and-self-driving-trucks/amp/",
+      "publishedDateTime": "2021-12-01T06:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1105,101 +1192,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech.md",
-      "title": "Artists criticise Spotify CEO Daniel Ek’s investment in AI defence tech",
-      "excerpt": "Spotify‘s CEO Daniel Ek’s investment in artificial intelligence defence technology has been met with backlash by artists and users on the streaming platform. Ek announced earlier this month, that he was investing 100million euros (£85.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nme.com/news/music/artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech-3107864",
-      "originalUrl": "https://www.nme.com/en_asia/news/music/artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech-3108279",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nme.com/wp-content/uploads/2021/11/2021_spotify_danielek_getty_2000x1270.jpg",
-          "width": 2000,
-          "height": 1270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nme.com/news/music/artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech-3107864?amp",
-      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/music/artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech-3107864?amp",
-      "publishedDateTime": "2021-11-30T16:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NME",
-        "domain": "nme.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-exploring-the-beauty-of-pure-mathematics-in-novel-ways.md",
-      "title": "Exploring the beauty of pure mathematics in novel ways",
-      "excerpt": "Discovering new patterns in the fields of topology and representation theory with machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/exploring-the-beauty-of-pure-mathematics-in-novel-ways",
-      "originalUrl": "https://deepmind.com/blog/article/exploring-the-beauty-of-pure-mathematics-in-novel-ways",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/sw1M-C5HyXbBVTYuk0cIfqEZk2t5lV518WkXzNyaXOCs-2CbiCoX5KPrpaGIk0c4kpHYye7pYKj4SwucFUhyZTHtRmMWVowGM1Boh2ShyBH_B-hOmg",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Math for AI"
       ]
     }
   ],

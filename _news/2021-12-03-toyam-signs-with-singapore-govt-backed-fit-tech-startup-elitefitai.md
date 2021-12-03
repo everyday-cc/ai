@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Toyam signs with Singapore govt. backed fit-tech startup Elitefit.ai"
-excerpt: "New Delhi [India], December 3 (ANI/GIPR): Toyam Industries Ltd., India's biggest MMA promotion company signs a partnership agreement with EliteFit.AI, a FitTech startup supported by Singapore ..."
-publishedDateTime: 2021-12-03T06:56:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20211203/3866584.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20211203/3866584.html"
+excerpt: "Toyam Industries Ltd India biggest MMA promotion company signs a partnership agreement with EliteFitAI a FitTech startup supported by Singapore Government"
+publishedDateTime: 2021-12-03T06:59:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/271856876/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefitai"
+webUrl: "https://www.bignewsnetwork.com/news/271856876/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefitai"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - AI
+
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1638513949.jpg"
+    width: 630
+    height: 420
+    isCached: true
 
 related:
   - title: "The 30th Edition of World AI Show Highlighted the Importance of Driving AI adoption in Singapore"
@@ -35,6 +41,6 @@ related:
         height: 509
         isCached: true
 
-secured: "BtBdKbKXXSY9rHL7v54ULRtO4MDnCJujl+b0d3fkmCYGiAdk2hIzId/JOqYljr2d3/HarMKPSU75ZCrDP3GkaIihVGZ7dTqjOqtI9xce2VTIaxwpe/r327WMQTwUk0jMWI31iPT90uE/CD6tJm4174GfZ5clP5f5uovUWdhZlMfoEFrcleKrJFr/K1H5a0WjK9ES8V39uNxwZGboBSPs4FXd2SrIrPIi5kenl9wncOAezqHgcEyIbzjzPll58vmpDWvOv+uVJN6ATgztVWLel6aFPAV0Dx2S6IuqB5TK0sL9Wygz0OOb9kdMtaqHFVcEdvSnJ/2vl3IiggO7CceoxhJ4Vm60FE62CAB/tm53ZPw=;4A4H/7nqBC6fKNbAKC0mgA=="
+secured: "WBuEVxmeFLgPBRXLWuIWvS1TP2UrDMaDK++qYGSNKMjkqWzOXi6VI1O4X3QRicSvMn/UGgM+i1Ep8Le8UOsev/MTfxm1mWlg8ehi1tJ3gvqeEXsYHOM7po+oon+eXGce22fNyWv3kMWtr7aeTbtpv5yQ4swY0rXZSn86FzFxEvK/uz4IhyS1JaaU4re0UDkqpc9QuUbn40eQEuMGa6WoT6mbkY5UQm8mDG6Qgj795EGWbFf6Rjz8zcGoxgRX54FJqyGwzUYO6HI2DnB5ybmH9nlptR5I5TYdljgmyz0TjN6q/yuY4yQ9jXLGjLFjIUaJswfdEgLyomhaKPCaTSZdhkifUsdNv/acVpVWMoRITIU=;CY0JH7M0A8L8KSGfQxMSbQ=="
 ---
 

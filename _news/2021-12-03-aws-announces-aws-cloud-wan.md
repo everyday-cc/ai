@@ -1,30 +1,22 @@
 ---
 category: news
 title: "AWS Announces AWS Cloud WAN"
-excerpt: "New managed WAN service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises"
-publishedDateTime: 2021-12-02T16:34:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/b24412664/aws-announces-aws-cloud-wan"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/b24412664/aws-announces-aws-cloud-wan"
-ampWebUrl: "https://www.benzinga.com/amp/content/24412664"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24412664"
+excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Cloud WAN, a managed wide area network (WAN) service that makes it faster and easier for enterprises to build, manage, and monitor a unified global network that seamlessly connects cloud and on-premises environments."
+publishedDateTime: 2021-12-02T17:44:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-aws-cloud-wan-/2021/12/02/9504034.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-aws-cloud-wan-/2021/12/02/9504034.htm"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "AWS gets a no-code ML service"
@@ -175,6 +167,6 @@ related:
       domain: businesswire.com
     quality: 34
 
-secured: "nY8oimrnY5TUKBoyYsvxVUfJ6xdObJHLHuXbGjw74h2lmD/unzgAJjBys8P7CB2gIGZgWWIA0j8Ba7Tfg4DVZNR/cdEnXqZkkWt97fJdZp1JO8aSP0gbXq3bmizPT3PoooRlXhzNSKSyM76vG5L9A3d6bfzUk71LPWycgnc2ChByv4ZvnEJQexV44TI9EECdUhS1E8K87WHPAdf+da9t31lfxh6P0a2MebviM1Ww30x35QgN98PQIVjL91BEZUBuEtMQIQUfDkAF6kun21urGNNRRAFWznhMER6eu2z5bSIDm7hLSG4lNxskzvsjWsC1VhMHSYaXWuXqY4y4hADkigrBsCv9yiou+01vg2oN62M=;4rd/MJi3Vd/SdxTS0/kf7g=="
+secured: "0u1x/Yn5YPKTwEqBnNNMRYN8BDcRm+qhYWxnYFnwG+9zADwRW0owR386bGBpr1Ij8ft+F/5BmU8dPEFJDg5mDtUpP1uQIESiRODWifKe6ySrpfD5Cj32poMXhtggFUPUP42yaL9voMiZm9rBFfekhxsQLPgRpUdeSg27fe1i4xC25eiElQ4S4VSFKuL6IXJq+MSAl4pAgUC5Zww41AzwdrtioNMK9kRMgld9x3lV+dx2a6oc9SWR/HMMJatQkuht3IW038culrvCcannhrgB+BusIQ3E0ssMBgxCdYJjLHeA2IkDqP4ncG0iLnFnJO2FiJ2WFFho+AOaVzMINM9OR245CM+3/ifWVT2e0r2/x+o=;uDFEpybrIQhYmbYHiBfUoQ=="
 ---
 
