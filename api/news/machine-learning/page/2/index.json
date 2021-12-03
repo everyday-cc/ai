@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-24-ai-education-for-teens-lifting-the-hood-on-data-and-machine-learning.md",
+      "title": "AI Education for Teens: Lifting the Hood on Data and Machine Learning",
+      "excerpt": "What are key ideas and intuitions foundational to AI that AI education in secondary schools should target? This blog post describes our approach to teaching AI and Machine Learning (AI/ML) to 13-15 year olds through situations/issues set in the context of cybersecurity in ways that \"lift the hood\" on how ML models are designed,",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/blogs/blog-cacm/256999-ai-education-for-teens-lifting-the-hood-on-data-and-machine-learning/fulltext",
+      "originalUrl": "https://cacm.acm.org/blogs/blog-cacm/256999-ai-education-for-teens-lifting-the-hood-on-data-and-machine-learning/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh4.googleusercontent.com/Zze54gK3NEgNpowFweb-8rMY0Q-E9KR7Vpj0hX-ZoSLwPfob3-O9e1Xg3UWlKbfDPzvelic5g3FN5Nh4WwMTHZFqxrzKe7xEA8aEuXQq9YTSN8sIrB4Iflcmoq0_hrjHY_dC8acb",
+          "width": 1146,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-can-a-machine-learning-model-tame-your-cloud-costs.md",
       "title": "Can a Machine Learning model tame your cloud costs?",
       "excerpt": "There are plenty of third-party services that promise to babysit your cloud footprints to keep your monthly bills in check. But each year, when we hit the expo floor in Vegas, we've wondered when somebody would come up with a solution for training a machine learning model on the job to perform the job more systematically.",
@@ -864,50 +909,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-18-artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study.md",
-      "title": "Artificial Intelligence and Machine Learning, Cloud Computing and 5G Will be the Most Important Technologies in 2022, Says New IEEE Study",
-      "excerpt": "IEEE, the world’s largest technical professional organization dedicated to advancing technology for humanity, today released the results of “The Impact of Technology in 2022 and Beyond: an IEEE Global Study,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-china-99cbebbb8df0c379de6b43cd6152a751",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-china-99cbebbb8df0c379de6b43cd6152a751",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-11-18-a-new-direction-for-artificial-neural-networks.md",
       "title": "A new direction for artificial neural networks",
       "excerpt": "LETI’s latest project in this field focuses on how reservoir computers based on the principles of magnonics can offer a new direction for artificial neural networks. The project is headed by Mikhail Kostylev, professor in the department of physics at the ...",
@@ -948,6 +949,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study.md",
+      "title": "Artificial Intelligence and Machine Learning, Cloud Computing, and 5G Will Be the Most Important Technologies in 2022, Says New IEEE Study",
+      "excerpt": "Chief information officers, chief technology officers, and technology leaders globally surveyed on key technology trends, priorities, and predictions for 2022 and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/vulnerabilities-threats/artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study",
+      "originalUrl": "https://www.darkreading.com/vulnerabilities-threats/artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.darkreading.com/images/og-image.jpg",
+          "width": 342,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T00:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1331,50 +1376,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution.md",
-      "title": "DGTL Holdings is helping companies accelerate the Artificial Intelligence and Machine Learning (AI-ML) technological revolution",
-      "excerpt": "DGTL – which stands for Digital Growth Technologies and Licensing - specializes in accelerating fully commercialized enterprise-level",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
-      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/966351/dgtl-holdings-is-helping-companies-accelerate-the-artificial-intelligence-and-machine-learning-ai-ml-technological-revolution-966351.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.proactiveinvestors.co.uk//thumbs/upload/News/Image/2021_11/1200z740_1637055115_shutterstock_1164788407.jpg",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.co.uk/companies/amp/news/966351",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/966351",
-      "publishedDateTime": "2021-11-15T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactive Investors",
-        "domain": "proactiveinvestors.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

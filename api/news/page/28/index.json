@@ -2,6 +2,229 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-11-09-breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers.md",
+      "title": "Breaking Out Of The Content Clutter: Machine Learning And Artificial Intelligence Offer A Vital Tool For Broadcasters And Streamers",
+      "excerpt": "For streamers and broadcasters looking to break out of the clutter, machine learning models can ... [+] offer a new way to promote or offer additional content.  Wi",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marcberman1/2021/11/09/breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers/",
+      "originalUrl": "https://www.forbes.com/sites/marcberman1/2021/11/09/breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618a85beb852c065881b3db1%2F0x0.jpg",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marcberman1/2021/11/09/breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcberman1/2021/11/09/breaking-out-of-the-content-clutter-machine-learning-and-artificial-intelligence-offer-a-vital-tool-for-broadcasters-and-streamers/amp/",
+      "publishedDateTime": "2021-11-09T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai.md",
+      "title": "New Spiking Neuromorphic Chip Could Usher in an Era of Highly Efficient AI",
+      "excerpt": "Neurons spike in a time sequence, and it's their basis for wiring up into circuits and hierarchies, allowing highly energy-efficient processing.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/",
+      "originalUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/11/Low-Res_Illustration_TTFS_Credit_Göltz-and-Kriener-et-al..jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/09/new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai/amp/",
+      "publishedDateTime": "2021-11-09T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-ai-can-help-overcome-challenges-in-conventional-chips-ibms-top-engineer-says.md",
+      "title": "AI can help overcome challenges in conventional chips, IBM’s top engineer says",
+      "excerpt": "In an exclusive interview with The Hindu, Christian Jacobi, IBM’s Chief Architect for IBM Z Processor Design, explains the importance of AI-powered computer chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/ai-can-help-overcome-challenges-in-conventional-chips-ibms-top-engineer-says/article37402354.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/ai-can-help-overcome-challenges-in-conventional-chips-ibms-top-engineer-says/article37402354.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/1vpu8y/article37402496.ece/ALTERNATES/LANDSCAPE_615/Christian-Jacobi-IBM",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/ai-can-help-overcome-challenges-in-conventional-chips-ibms-top-engineer-says/article37402354.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/ai-can-help-overcome-challenges-in-conventional-chips-ibms-top-engineer-says/article37402354.ece/amp/",
+      "publishedDateTime": "2021-11-09T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how.md",
+      "title": "Nvidia and Lockheed Martin plan to fight forest fires with AI. Here's how",
+      "excerpt": "The companies have teamed up with state and federal firefighting services and are creating a dedicated lab to predict the path of fires to help stop them in their tracks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
+      "originalUrl": "https://www.cnet.com/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/G6G2x6gQsRtkGqciyOhYYdHfo7I=/1200x630/2021/11/09/7a97c262-f936-4251-9ddf-195eb78471f4/gettyimages-1234819592.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-and-lockheed-martin-plan-to-fight-forest-fires-with-ai-heres-how/",
+      "publishedDateTime": "2021-11-09T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-mediamath-ibm-watson-advertising-strengthen-relationship.md",
+      "title": "MediaMath, IBM Watson Advertising strengthen relationship",
+      "excerpt": "MediaMath, the independent advertising technology company for leading brands and agencies, has integrated its demand side platform (DSP) with IBM Watson Adverti",
+      "sourceUrl": null,
+      "webUrl": "https://advanced-television.com/2021/11/09/mediamath-ibm-watson-advertising-strengthen-relationship/",
+      "originalUrl": "https://advanced-television.com/2021/11/09/mediamath-ibm-watson-advertising-strengthen-relationship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Advanced Television",
+        "domain": "advanced-television.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-what-analysing-language-tells-us-about-inflation.md",
       "title": "What analysing language tells us about inflation",
       "excerpt": "We’ve used natural language processing (NLP) to analyse 15 years of US company announcements. The result is a clearer picture of today’s inflation outlook",
@@ -941,248 +1164,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidias-new-ai-brain-for-robots-is-six-times-more-powerful-than-its-predecessor.md",
-      "title": "NVIDIA's new AI brain for robots is six times more powerful than its predecessor",
-      "excerpt": "NVIDIA has launched the Jetson AGX Orin, its new AI brain for robots with six times the processing power of its predecessor..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/nvidi-as-new-ai-brain-for-robots-is-six-times-more-powerful-than-its-predecessor-093024102.html?src=rss",
-      "originalUrl": "https://www.engadget.com/nvidi-as-new-ai-brain-for-robots-is-six-times-more-powerful-than-its-predecessor-093024102.html?src=rss",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-11/7720b2b0-4130-11ec-96e3-0babf84499b8",
-          "width": 1152,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-supermicro-enhances-broadest-portfolio-of-edge-to-cloud-ai-systems-with-accelerated-inferencing-and-new-intelligent-fabric-support.md",
-      "title": "Supermicro Enhances Broadest Portfolio of Edge to Cloud AI Systems with Accelerated Inferencing and New Intelligent Fabric Support",
-      "excerpt": "Supermicro's latest NVIDIA-Certified Systems deliver ten times more AI inference performance than previous generations, ensuring that AI enabled applications such as Image Classification, Object Detection,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-supermicro-enhances-broadest-portfolio-edge-cloud-ai-systems-/2021/11/09/9487111.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-supermicro-enhances-broadest-portfolio-edge-cloud-ai-systems-/2021/11/09/9487111.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
-          "width": 400,
-          "height": 206,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-carbon-robotics-manufactures-ai-powered-weeding-robots.md",
-      "title": "Carbon Robotics Manufactures AI-Powered Weeding Robots",
-      "excerpt": "Concept: Seattle-based agricultural robotics startup Carbon Robotics has developed an autonomous robot that lasers to zap weeds. Integrated with computer vision, the weeders can clear out around 100,000 weeds an hour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmaceutical-technology.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/",
-      "originalUrl": "https://www.pharmaceutical-technology.com/research-reports/carbon-robotics-manufactures-ai-powered-weeding-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/10/2021/11/shutterstock_651441412.jpg",
-          "width": 500,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T01:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pharmaceutical Technology",
-        "domain": "pharmaceutical-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more.md",
-      "title": "Everything announced at Nvidia's Fall GTC 2021: Omniverse Avatar, CuQuantum, Clara Holoscan and more",
-      "excerpt": "During the GTC keynote, Nvidia CEO Jensen Huang showcased a range of new Nvidia products and initiatives, spanning virtual reality, enterprise AI, cybersecurity, quantum computing, advances in automotive and healthcare and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/",
-      "originalUrl": "https://www.zdnet.com/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/f3093f55db1b12000c82b7534e35491a88175dbc/2021/11/09/2859cd08-d3cd-48bc-a1b6-ee39f3b82f30/doca-zero-trust-image.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/everything-announced-at-nvidias-fall-gtc-2021-omniverse-avatar-cuquantum-clara-holoscan-and-more/",
-      "publishedDateTime": "2021-11-09T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai.md",
-      "title": "Nvidia debuts ReOpt to optimize supply chain routing with AI",
-      "excerpt": "Nvidia's new ReOpt service employs AI to help shippers optimize the routing of packages bound for customers' doorsteps.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/11/Delivery-Truck.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-debuts-reopt-to-optimize-supply-chain-routing-with-ai/amp/",
-      "publishedDateTime": "2021-11-09T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

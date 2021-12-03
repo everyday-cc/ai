@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recogni
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
 type: article
 quality: 73
-heat: 283
+heat: 293
 published: true
 
 provider:
@@ -276,6 +276,20 @@ related:
       - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/biometric-technology-digital-Face-Scanning-recognition-human-head-shut.jpg"
         width: 760
         height: 443
+        isCached: true
+  - title: "NEC to introduce facial recognition vaccination check system"
+    excerpt: "Japan's NEC Corp. will start the full-scale introduction of a vaccination certification system for COVID-19 based on facial recogniti"
+    publishedDateTime: 2021-12-03T10:20:00Z
+    webUrl: "https://mainichi.jp/english/articles/20211203/p2g/00m/0bu/073000c"
+    type: article
+    provider:
+      name: mainichi.jp
+      domain: mainichi.jp
+    quality: 39
+    images:
+      - url: "https://cdn.mainichi.jp/vol1/2021/12/03/20211203p2g00m0bu072000p/0c10.jpg?1"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facial recognition at airports optional, data will not be shared with anyone: Ministry of Civil Aviation"
     excerpt: "With the government introducing facial recognition in airports, the Ministry of Civil Aviation clarifies that passengers can opt out."

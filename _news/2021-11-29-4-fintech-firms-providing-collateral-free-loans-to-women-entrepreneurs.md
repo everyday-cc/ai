@@ -25,95 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "View: How to take fintech banks to the next level"
-    excerpt: "India has the highest fintech adoption rate of 87%, against the global average of 64%. Several new segments of fintech startups have emerged, and are gaining popularity among consumers in India. These are redefining financial services for customers and providing more value to them."
-    publishedDateTime: 2021-11-28T18:05:00Z
-    webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/articleshow/87967546.cms"
-    ampWebUrl: "https://m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms"
+  - title: "Fintech star BizPay wins battle for coveted tech talent as it prepares for IPO"
+    excerpt: "David Huang said Customers see us as a payment product, not credit. To occupy this space, you cannot ask for a lot of financial information in the same way that credit products do."
+    publishedDateTime: 2021-12-02T11:57:00Z
+    webUrl: "https://www.ibtimes.sg/fintech-star-bizpay-wins-battle-coveted-tech-talent-it-prepares-ipo-61578"
+    ampWebUrl: "https://amp.ibtimes.sg/fintech-star-bizpay-wins-battle-coveted-tech-talent-it-prepares-ipo-61578"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/fintech-star-bizpay-wins-battle-coveted-tech-talent-it-prepares-ipo-61578"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 61
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 40
     images:
-      - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-12608,msid-87967859/.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "China: WeiyangX Fintech Review"
-    excerpt: "Beijing Looks to Set Up Digital Asset Exchange in the Sub-Center Area On November 26th, the State Council released a circular on supporting Beijing’s sub-center in pursuing high-quality development. To achieve the goals of a green city,"
-    publishedDateTime: 2021-11-29T19:15:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/183533-china-weiyangx-fintech-review-224/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183533-china-weiyangx-fintech-review-224/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183533-china-weiyangx-fintech-review-224/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Beijing-China-2.jpeg"
-        width: 1280
-        height: 1277
-        isCached: true
-  - title: "FinTech Trends to Watch Out for in 2022"
-    excerpt: "The Fintech industry is completely focused on leveraging cutting-edge technology to make financial transactions more engaging for customers/users across"
-    publishedDateTime: 2021-11-30T06:53:00Z
-    webUrl: "https://techspective.net/2021/11/30/fintech-trends-to-watch-out-for-in-2022/"
-    ampWebUrl: "https://techspective.net/2021/11/30/fintech-trends-to-watch-out-for-in-2022/amp/"
-    cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/11/30/fintech-trends-to-watch-out-for-in-2022/amp/"
-    type: article
-    provider:
-      name: techspective.net
-      domain: techspective.net
-    quality: 44
-    images:
-      - url: "https://techspective.net/wp-content/uploads/2021/11/pexels-anna-nekrashevich-6801874-scaled.jpg"
-        width: 2560
-        height: 1843
-        isCached: true
-  - title: "How Do We Support Digital Transformation in the Fintech Industry?"
-    excerpt: "The Fintech Industry has seen some exciting changes in the last few years. AI, voice recognition, SaaS cloud services, better online banking, increased security and protection… these are just some of the latest FinTech trends that prove that there's a lot of potential still to be reached."
-    publishedDateTime: 2021-12-01T13:38:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-do-we-support-digital-transformation-fintech-industry-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE3jqiw6R4B2w/article-cover_image-shrink_720_1280/0/1638199043166?e=1643846400&v=beta&t=UYR1394C07GfEMs4ZBK5JPGRnSYVHo-QDwwVmwE0IKk"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Fintech enters into licensing agreement with digital mortgage platform"
-    excerpt: "Marble Financial has announced that it has secured a licensing agreement that will pave the way for the integration of its Marble Connect service with digital mortgage platform WiiBid Solutions. Under this agreement,"
-    publishedDateTime: 2021-12-02T08:12:00Z
-    webUrl: "https://www.mpamag.com/ca/news/general/fintech-enters-into-licensing-agreement-with-digital-mortgage-platform/318561"
-    type: article
-    provider:
-      name: Mortgage
-      domain: mpamag.com
-    quality: 24
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637740295353940776.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Portugal Fintech Report: Top 30 Fintechs and First Unicorn"
-    excerpt: "Portugal’s fintech industry had a fructuous year 2021 as it welcomed its first fintech startup unicorn and new regulatory development in the booming digital asset industry. Although the country is steadily rising as a startup hub in Europe,"
-    publishedDateTime: 2021-12-03T05:55:00Z
-    webUrl: "https://fintechnews.ch/fintechportugal/portugal-fintech-report-top-30-fintechs-and-first-unicorn/50441/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2021/12/Portugal-Fintech-Industry-1440x564_c.jpg?x22073"
-        width: 1440
-        height: 564
+      - url: "https://data.ibtimes.sg/en/full/53494/david-huang.jpg"
+        width: 688
+        height: 860
         isCached: true
   - title: "EarlyBirds Draws Attention To How Fintech And Insurtech Are Disrupting These Industries"
     excerpt: "Open innovation ecosystem EarlyBirds is helping businesses in the Fintech and Insurtech industries benefit from the innovations in their respective"
@@ -129,15 +55,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Tenet Fintech Addresses Recent Trading Volatility"
-    excerpt: "November 30, 2021) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business Hub™, today confirmed that the Company is not aware of any undisclosed material event or events affecting its business operations that might be responsible for the recent trading volatility in its common shares."
-    publishedDateTime: 2021-11-30T18:36:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/11/30/tenet-fintech-addresses-recent-trading-volatility"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 4
 
 secured: "Zy8m0xjMwkO8MqDwxadVmJ6EdgvINzN66YDLdG1yflsz6r9QEN7T3CTxLiRhj1spD7zOKb87fBUcuIcZvuueVabTMCmSaCp3oy4KrsDHEl5ugpGKYIjlbPYPBYlDZxq7IUrZPVMuZYLdSr2+m12XjiAce6BUR9u97peXWypVxmGCZnOTpJXOTPPpIl2rRhzZ0AwAYUa99i6CLQFvMxQD9reWI4lQ+jxYdQFZE8lEXCNDkFA57dSKRSBCtos+w009XXnWam/4ianxn0S2qbktmwU/UXC00FBgw9rk0BuukfsUcHs1kxnC3RM/sBjTJnx3vPIWmzTE6T9qQ1jTJCW3kWuY88PH79BL3r8VEV3tNX7sYETOFnsCnjO2TQlK7ZxkcwEXmTUVqxzIZir0Sd/A3nw9gEtiaCAXFCfF/UKiCJelGKahyuUpcc0h0B19nJhENsSBntF6q7kPHeOPKEmTbaPD9OQtfpxhHvZFIUH3HOEwFONra3S7rDQ1seBkN0Jn0LleNsD9QKcy2X8kUvJ5SQ==;ftNI1urekcX7kXXSL4rqDA=="
 ---

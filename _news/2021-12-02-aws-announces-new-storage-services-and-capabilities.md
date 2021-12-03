@@ -150,6 +150,20 @@ related:
         width: 320
         height: 300
         isCached: true
+  - title: "Discovery sticks with AWS for cloud services"
+    excerpt: "Discovery has extended its use of AWS for cloud services. The broadcaster uses AWS’ tech for the infrastructure carrying its discovery+ platform, digital services, and over 450 linear channels around the globe."
+    publishedDateTime: 2021-12-03T09:50:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/discovery-sticks-with-aws-for-cloud-services/5165717.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 39
+    images:
+      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/0/8/6/1359086_discoverymultidevicelockupimage_764460.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "Astadia Joins the AWS Mainframe Modernization Service"
     excerpt: "Astadia joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions in migrating mainframes to AWS."
     publishedDateTime: 2021-12-01T20:31:00Z

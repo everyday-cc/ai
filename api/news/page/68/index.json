@@ -2,6 +2,230 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2021-10-12-accenture-to-acquire-bridgei2i-expanding-capabilities-in-data-science-machine-learning-and-ai-powered-insights.md",
+      "title": "Accenture to Acquire BRIDGEi2i, Expanding Capabilities in Data Science, Machine Learning and AI-Powered Insights",
+      "excerpt": "Accenture (NYSE: ACN) has entered into an agreement to acquire BRIDGEi2i, an artificial intelligence (AI) and analytics firm headquartered in Bangalore, India, with additional offices in the US and Australia.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-bangalore-health-c556c1819c3548c6b3a52ebee48de471",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-bangalore-health-c556c1819c3548c6b3a52ebee48de471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study.md",
+      "title": "Artificial neural network promising tool in pain prediction after RCT: Study",
+      "excerpt": "With the development of endodontic treatment, the incidence of pain and swelling during RCT is only approximately 10%. However, patients frequently report of postoperative pain.",
+      "sourceUrl": null,
+      "webUrl": "https://medicaldialogues.in/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
+      "originalUrl": "https://medicaldialogues.in/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medicaldialogues.in/h-upload/2021/10/02/161347-capture.jpg",
+          "width": 575,
+          "height": 263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicaldialogues.in/amp/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
+      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/dentistry/cases/artificial-neural-network-promising-tool-in-pain-prediction-after-rct-study-82971",
+      "publishedDateTime": "2021-10-11T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily",
+        "domain": "medicaldialogues.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics.md",
+      "title": "House Task Force on Artificial Intelligence to Hold Hearing on Ethics",
+      "excerpt": "On Wednesday, October 13, the House Committee on Financial Services, Task Force on Artificial Intelligence (AI) will hold a hearing to discuss ethics and AI. According to the hearing memo, in financial services,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/h-heyerlein-on-Unsplash-AI-technology-Data-Artificial-Intelligence.jpg",
+          "width": 1280,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/181516-house-task-force-on-artificial-intelligence-to-hold-hearing-on-ethics/amp/",
+      "publishedDateTime": "2021-10-11T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-attention-based-deep-neural-network-increases-detection-capability-in-sonar-systems.md",
+      "title": "Attention-based deep neural network increases detection capability in sonar systems",
+      "excerpt": "In underwater acoustics, deep learning may improve sonar systems to help detect ships and submarines in distress or in restricted waters. However, noise interference can be a challenge. In the Journal of the Acoustical Society of America,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/931330",
+      "originalUrl": "https://www.eurekalert.org/news-releases/931330",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/fe97e8e6-4c23-4810-afd5-e124401f45d5/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-12-data-driven-workforce-management-for-a-work-from-anywhere-world.md",
+      "title": "Data-Driven Workforce Management For A Work-From-Anywhere World",
+      "excerpt": "Fueled by the COVID-19 ... and the rest based anywhere) are becoming the norm. In this environment, organizations are challenged to gain real-time insights on staff productivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www2.deloitte.com/us/en/insights/focus/cognitive-technologies/enterprise-artificial-intelligence-4th-edition.html?id=us:2el:3pr:4diUS144384:5awa::MMDDYY:&pkid=1008396",
+      "originalUrl": "https://www.forbes.com/sites/cognizant/2021/10/12/data-driven-workforce-management-for-a-work-from-anywhere-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www2.deloitte.com/content/dam/insights/articles/US144384_CIR-State-of-AI-4th-edition/primary/144384_Banner-1920x630.jpg/jcr:content/renditions/cq5dam.web.1200.627.jpeg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-fintech-insurtech-live-day-one-overview-at-tobacco-dock.md",
       "title": "FinTech & InsurTech Live: Day one overview at Tobacco Dock",
       "excerpt": "Day one of FinTech and InsurTech Live comes to a close and we highlight some of the topics and discussions we have seen from day one of the hybrid event",
@@ -894,264 +1118,6 @@
         "name": "Inshorts",
         "domain": "inshorts.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains.md",
-      "title": "AI May Have A Thing Or Two To Learn From Our Imperfect Brains",
-      "excerpt": "By making neural nets imperfect, just like our brains, researchers show that AI can learn faster and more robustly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains/",
-      "originalUrl": "https://www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615f0727aaf1ba4f05fea398%2F0x0.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2021/10/11/ai-may-have-a-thing-or-two-to-learn-from-our-imperfect-brains/amp/",
-      "publishedDateTime": "2021-10-11T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-amazon-awss-ai-team-seeks-the-profound-in-the-industrial.md",
-      "title": "Amazon AWS's AI team seeks the profound in the industrial",
-      "excerpt": "In what's called \"Graceful AI,\" Amazon AWS AI lead Stephan Soatto and colleagues work to solve industrial problems that in turn may produce new insights into the fundamentals of deep learning and information theory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/53056df0e801ec62e2c0b045f9ec78a478910e4c/2021/10/11/4a05eedc-7dfa-4f68-994f-c3b0170c3a4c/stefano-soatto-amazon-aws-applied-ai-2021.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1086,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-awss-ai-team-seeks-the-profound-in-the-industrial/",
-      "publishedDateTime": "2021-10-11T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-how-fintech-is-changing-the-insurance-industry.md",
-      "title": "How FinTech Is Changing The Insurance Industry",
-      "excerpt": "Article take from FinTech Magazine. The insurance industry has always been a complicated but firmly rooted environment, but advancements in technology have collided with customer needs, creating systemic challenges for the insurance industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/how-fintech-changing-insurance-industry-banq-ai",
-      "originalUrl": "https://www.linkedin.com/pulse/how-fintech-changing-insurance-industry-banq-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEGg8v3R79fEA/article-cover_image-shrink_600_2000/0/1633965955561?e=1640217600&v=beta&t=Y63Cbkp6bJc1FUkTSXa-8DGMh9RFFzHHa0TScgIiSos",
-          "width": 744,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-2-artificial-intelligence-stocks-to-buy-2-to-avoid.md",
-      "title": "2 Artificial Intelligence Stocks to Buy, 2 to Avoid",
-      "excerpt": "As artificial intelligence (AI) gains importance with the ongoing digital transformation, tech giants Apple (AAPL) and Alphabet (GOOGL) are well-positioned to gain owing to their consistent product innovations and",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/390452",
-      "originalUrl": "https://www.entrepreneur.com/article/390452",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-390452.jpeg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-ai-estimates-85-of-worlds-population-is-affected-by-climate-change.md",
-      "title": "AI estimates 85% of world's population is affected by climate change",
-      "excerpt": "A team of researchers in Germany used machine learning to crunch at least 60,000 studies related to climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
-      "originalUrl": "https://www.cnet.com/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/xhSpkTmhDuqAlahdqvYTA7t3MJ4=/1200x630/2021/10/11/29fa3084-59a6-447e-b90c-5d4aa8fa774b/gettyimages-1235419694.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-estimates-85-of-the-population-is-affected-by-climate-change/",
-      "publishedDateTime": "2021-10-11T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

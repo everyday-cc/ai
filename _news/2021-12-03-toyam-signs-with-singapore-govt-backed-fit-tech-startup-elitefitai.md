@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Toyam signs with Singapore govt. backed fit-tech startup Elitefit.ai"
-excerpt: "Toyam Industries Ltd India biggest MMA promotion company signs a partnership agreement with EliteFitAI a FitTech startup supported by Singapore Government"
-publishedDateTime: 2021-12-03T06:59:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/271856876/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefitai"
-webUrl: "https://www.bignewsnetwork.com/news/271856876/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefitai"
+excerpt: "Toyam Industries Ltd., India's biggest MMA promotion company signs a partnership agreement with EliteFit.AI, a FitTech startup supported by Singapore Government."
+publishedDateTime: 2021-12-03T10:00:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefit-ai-121120300769_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefit-ai-121120300769_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefit-ai-121120300769_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefit-ai-121120300769_1.html"
 type: article
-quality: 37
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - AI
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/ani1638513949.jpg"
-    width: 630
-    height: 420
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/03/full/20211203114046.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -41,6 +43,6 @@ related:
         height: 509
         isCached: true
 
-secured: "WBuEVxmeFLgPBRXLWuIWvS1TP2UrDMaDK++qYGSNKMjkqWzOXi6VI1O4X3QRicSvMn/UGgM+i1Ep8Le8UOsev/MTfxm1mWlg8ehi1tJ3gvqeEXsYHOM7po+oon+eXGce22fNyWv3kMWtr7aeTbtpv5yQ4swY0rXZSn86FzFxEvK/uz4IhyS1JaaU4re0UDkqpc9QuUbn40eQEuMGa6WoT6mbkY5UQm8mDG6Qgj795EGWbFf6Rjz8zcGoxgRX54FJqyGwzUYO6HI2DnB5ybmH9nlptR5I5TYdljgmyz0TjN6q/yuY4yQ9jXLGjLFjIUaJswfdEgLyomhaKPCaTSZdhkifUsdNv/acVpVWMoRITIU=;CY0JH7M0A8L8KSGfQxMSbQ=="
+secured: "f2YtMP5RQrZG1lEDDDD2j5kt78S9MZMT/o2y+jWYkNg2zQBKtHUUHaNkSNjj69DrF9+dJOnD3B2D7EbqmbrDfSnWBuqqnUIw8JvMN4pJR7iKzRYmcVFn+YLfYe/fBJ7jjvz3QKdHIFNROf7vlEPTTus7U0K7qFUb+lNquGvSvrIv95hN6mqqS2egx61yXj7Yndk6ZTuHPlMYaSxn41o0Op5tBIs/zljoJcq8I2tikQSeBDI5RwUVmJDbBnG6FnMv4bPf+1ZSo/7BHrMLkRhD2lFcMs1qKagoa8oF1clGhEShq2J0C0QZMqd8kR7m3TekyoZr6bNBH4JMY+8TrpZy9aCPMBakbbVoKklc9h2iPjg=;fnuvrDwsN83dX6rYAFsYgA=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-03-skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference.md",
+      "title": "SKKU: FinTech Research & Education Center for Global Leaders in Financial Innovation holds “2021 Global AI Finance Research Conference”",
+      "excerpt": "FinTech Research & Education Center for Global Leaders in Financial Innovation (Director: Prof. Kyo Jik Song) will hold the “2021 Global AI Finance Research Conference” at Sonocam Hotel in Yeosu from",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
+      "originalUrl": "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/11/640px-Samsung_Library_at_Suwon_campus_of_Sungkyunkwan_University.jpeg",
+          "width": 640,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
+      "publishedDateTime": "2021-12-02T19:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-fundbox-a-fintech-focused-on-smbs-raises-100m-at-a-11b-valuation.md",
       "title": "Fundbox, a fintech focused on SMBs, raises $100M at a $1.1B valuation",
       "excerpt": "Fundbox, a company that offers loans to small businesses, announced today it has raised $100 million in a Series D round at a valuation of $1.1 billion. Or more simply, the company aims to solve SMBs’ working capital needs through its credit and payments offerings.",
@@ -41,6 +85,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad.md",
+      "title": "AI-based fintech firm BridgeWeave opens research lab in Hyderabad",
+      "excerpt": "BridgeWeave, a London headquartered fintech firm that offers retail investors an Artificial Intelligence (AI) constructed portfolio for investment, has opened a ‘lab’ to ‘experiment with cutting edge ideas’ in Hyderabad according to its Founder and Executive Chairman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/todays-paper/m4m6g6/article37063817.ece/ALTERNATES/LANDSCAPE_615/bl19-hykvk-iiitGK793GH2G3jpgjpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece/amp/",
+      "publishedDateTime": "2021-11-30T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -471,50 +558,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-18-artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study.md",
-      "title": "Artificial Intelligence and Machine Learning, Cloud Computing and 5G Will be the Most Important Technologies in 2022, Says New IEEE Study",
-      "excerpt": "IEEE, the world’s largest technical professional organization dedicated to advancing technology for humanity, today released the results of “The Impact of Technology in 2022 and Beyond: an IEEE Global Study,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-china-99cbebbb8df0c379de6b43cd6152a751",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-health-china-99cbebbb8df0c379de6b43cd6152a751",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T07:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-11-18-radical-transparency-what-healthcare-can-learn-from-fintech.md",
       "title": "Radical Transparency: What Healthcare Can Learn From Fintech",
       "excerpt": "With the line between healthtech and fintech increasingly blurring, it’s high time for the healthcare industry to find ways to deliver a better consumer experience.",
@@ -617,6 +660,50 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study.md",
+      "title": "Artificial Intelligence and Machine Learning, Cloud Computing, and 5G Will Be the Most Important Technologies in 2022, Says New IEEE Study",
+      "excerpt": "Chief information officers, chief technology officers, and technology leaders globally surveyed on key technology trends, priorities, and predictions for 2022 and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/vulnerabilities-threats/artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study",
+      "originalUrl": "https://www.darkreading.com/vulnerabilities-threats/artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.darkreading.com/images/og-image.jpg",
+          "width": 342,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T00:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1252,110 +1339,6 @@
         "AI in Finance",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-how-fintech-companies-are-changing-the-idea-of-credit-in-india.md",
-      "title": "How Fintech Companies Are Changing the Idea Of Credit In India",
-      "excerpt": "Credit is a more frequent term in the current Indian fintech industry in comparison with a decade-ago period. India has developed as Asia’s biggest target for fintech deals, leaving behind China. With around 33 deals valued at $647.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/396710",
-      "originalUrl": "https://www.entrepreneur.com/article/396710",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1636627414-towfiqu-barbhuiya-jpqyfK7GB4w-unsplash1.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T02:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-what-tech-challenges-are-facing-the-financial-services-sector.md",
-      "title": "What tech challenges are facing the financial services sector?",
-      "excerpt": "Jenny Darmody wrote this piece Silicon Republic following our discussion that I thought I'd share on here, link to original piece is below. InterSystems Ireland’s Redmond O’Leary discusses how financial services can streamline operations using tech,",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/what-tech-challenges-facing-financial-services-sector-redmond-o-leary",
-      "originalUrl": "https://www.linkedin.com/pulse/what-tech-challenges-facing-financial-services-sector-redmond-o-leary",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGMEpYBOEmzBA/article-cover_image-shrink_600_2000/0/1636567453241?e=1642636800&v=beta&t=sQB3Rwff8qvYY-GrdVPIusKiMss1wGNN-tILnLh00fs",
-          "width": 900,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

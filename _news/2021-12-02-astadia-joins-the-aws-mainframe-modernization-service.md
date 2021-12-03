@@ -157,6 +157,20 @@ related:
         width: 320
         height: 300
         isCached: true
+  - title: "Discovery sticks with AWS for cloud services"
+    excerpt: "Discovery has extended its use of AWS for cloud services. The broadcaster uses AWS’ tech for the infrastructure carrying its discovery+ platform, digital services, and over 450 linear channels around the globe."
+    publishedDateTime: 2021-12-03T09:50:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/discovery-sticks-with-aws-for-cloud-services/5165717.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 39
+    images:
+      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/0/8/6/1359086_discoverymultidevicelockupimage_764460.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "AWS Announces AWS Cloud WAN"
     excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Cloud WAN, a managed wide area network (WAN) service that makes it faster and easier for enterprises to build, manage, and monitor a unified global network that seamlessly connects cloud and on-premises environments."
     publishedDateTime: 2021-12-02T17:44:00Z

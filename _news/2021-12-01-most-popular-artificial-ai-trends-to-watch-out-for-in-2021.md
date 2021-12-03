@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Role of AI in the Global Healthcare Market 2021: Rising Utilization of Robots for Surgical and Rehabilitation Procedures"
+    excerpt: "The global AI in healthcare market is forecasted to record a value of US$22.68 billion in 2025, progressing at a CAGR of 35.59%, for the duration spanning 2021-2025. Factors such as rising utilization of robots for surgical and rehabilitation procedures,"
+    publishedDateTime: 2021-12-03T10:41:00Z
+    webUrl: "https://menafn.com/1103298459/The-Role-of-AI-in-the-Global-Healthcare-Market-2021-Rising-Utilization-of-Robots-for-Surgical-and-Rehabilitation-Procedures"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 44
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?991765"
+        width: 362
+        height: 250
+        isCached: true
 
 secured: "KbwXaMF6YqazFFV8iHm6bUkCso+hZcAwj4LyeLTiGVemXN9qmf+iXMxk/V2nCwu2xR2nxC1okUWkUm2fr52e9F3NXFCeEAnI07NBeTHwT4U2tIB1gKFy+o+QhCYymGqBJkEx3V+0cv3sXO10dS8EQqM/wdO/aL9YGp/6kf7+tsxZgHb2h368QV6ktAgkcqMF0SN0XhXRw4cq08zDtdg4Of3AUAa81a/PEm+xUw7sfxczLSEeVWGupUsYS/D/c5m01RkM+n3dTexaon7Dj5PMTXdf2J+2NtxB3EUfLRvU2r0VqCaQH8POnp6Dn4u2+sFFRd5/YvPNgvv1zVNbwQ3aYxAWQSXa0dBv6ToNgZuszBQHjlC5iJs/Aqlw7afVVbvFyssK/JDaxwxatbZAP0udwIBseFXE9IWLBH0zMhzOZczPLUlEf/6HoTlLhUsybhYYlMvBbmFY2WmtD8HTgC4a1VjzmUEsabY4CuiAxTxXVoTSDrVeR+T/wYSes8lYCONYgMvGNqYocgWhmnK+JEGdgg==;ZUz8l9vtif//sAslub38Dg=="
 ---

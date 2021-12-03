@@ -291,6 +291,20 @@ related:
         width: 760
         height: 443
         isCached: true
+  - title: "NEC to introduce facial recognition vaccination check system"
+    excerpt: "Japan's NEC Corp. will start the full-scale introduction of a vaccination certification system for COVID-19 based on facial recogniti"
+    publishedDateTime: 2021-12-03T10:20:00Z
+    webUrl: "https://mainichi.jp/english/articles/20211203/p2g/00m/0bu/073000c"
+    type: article
+    provider:
+      name: mainichi.jp
+      domain: mainichi.jp
+    quality: 39
+    images:
+      - url: "https://cdn.mainichi.jp/vol1/2021/12/03/20211203p2g00m0bu072000p/0c10.jpg?1"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mantra Softech joins NIST facial recognition tests for verification and identification"
     excerpt: "Mantra Softech has participated for the first time in the NIST Face Recognition Vendor Tests (FRVT) 1:1 and 1:N for biometric accuracy."
     publishedDateTime: 2021-12-02T20:06:00Z

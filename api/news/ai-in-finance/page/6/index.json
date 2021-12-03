@@ -2,6 +2,93 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-14-aci-worldwide-ranked-in-the-top-20-largest-global-providers-of-financial-technology-by-idc-fintech-rankings.md",
+      "title": "ACI Worldwide Ranked in the Top 20 Largest Global Providers of Financial Technology by IDC FinTech Rankings",
+      "excerpt": "ACI Worldwide, a leading global provider of real-time payments and digital payment software solutions, today announced its ranking in the IDC (News - Alert) Financial Insights 2021 FinTech Rankings. ACI is ranked 19 on this international list of financial technology companies that were judged according to their global revenues attributed to financial institutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aci-worldwide-ranked-the-top-20-largest-global-/2021/09/14/9448212.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-machine-learning-is-moving-beyond-the-hype.md",
+      "title": "Machine learning is moving beyond the hype",
+      "excerpt": "Today, companies across every industry are deploying millions of machine learning models across multiple lines of business. Soon every enterprise will take part.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.html",
+      "originalUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_technology_abstract_layered_background_by_4x-image_gettyimages_1097235688-100817777-large.jpg?auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3630517/machine-learning-is-moving-beyond-the-hype.amp.html",
+      "publishedDateTime": "2021-09-14T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-global-cloud-ai-in-fintech-market-comprehensive-insights-autodesk-ibm-sap-fanuc.md",
       "title": "Global Cloud AI in Fintech Market Comprehensive Insights – Autodesk, IBM, SAP, Fanuc",
       "excerpt": "Cloud AI in Fintech Market is anticipated to develop at a solid speed in the coming years. The Market research report looks at the worldwide market’s size, share, cost structure, development, patterns,",

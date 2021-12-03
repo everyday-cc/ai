@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-2021-research-strategies-trend-and-future-development-status-forecast-by-2027-2021-12-01"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Role of AI in the Global Healthcare Market 2021: Rising Utilization of Robots for Surgical and Rehabilitation Procedures"
+    excerpt: "The global AI in healthcare market is forecasted to record a value of US$22.68 billion in 2025, progressing at a CAGR of 35.59%, for the duration spanning 2021-2025. Factors such as rising utilization of robots for surgical and rehabilitation procedures,"
+    publishedDateTime: 2021-12-03T10:41:00Z
+    webUrl: "https://menafn.com/1103298459/The-Role-of-AI-in-the-Global-Healthcare-Market-2021-Rising-Utilization-of-Robots-for-Surgical-and-Rehabilitation-Procedures"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 44
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?991765"
+        width: 362
+        height: 250
+        isCached: true
   - title: "Most Popular Artificial (AI) Trends to Watch out for in 2021"
     excerpt: "Fremont, CA: While the COVID-19 pandemic had an impact on many aspects of how we do business, it did not lessen the impact of Artificial Intelligence (AI) on our daily lives. Indeed, it is becoming clear that self-teaching algorithms and intelligent ..."
     publishedDateTime: 2021-12-01T10:08:00Z

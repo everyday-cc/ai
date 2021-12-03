@@ -42,6 +42,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "AWS Helps Pfizer Accelerate Drug Development and Clinical Manufacturing"
+    excerpt: "(NASDAQ: AMZN), announced that it is working with Pfizer to create innovative, cloud-based solutions with the potential to improve how new medicines are developed, manufactured, and distributed for testing in clinical trials."
+    publishedDateTime: 2021-12-03T09:09:00Z
+    webUrl: "https://www.financialbuzz.com/aws-helps-pfizer-accelerate-drug-development-and-clinical-manufacturing/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 19
   - title: "Amazon Web Services and Gilead Work Together to Develop and Deliver New Medicines for Patients"
     excerpt: "(NASDAQ: AMZN) company, Amazon Web Services Inc. and Gilead Services, Inc. (NASDAQ: GILD) have selected AWS as preferred cloud provider. Gilead will utilize AWS to provide its data scientist with the latest advances in machine learning and analytics."
     publishedDateTime: 2021-11-29T16:53:00Z

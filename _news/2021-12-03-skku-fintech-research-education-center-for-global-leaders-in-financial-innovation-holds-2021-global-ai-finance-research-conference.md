@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/skku-fintech-research-education-cente
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Education Diary
@@ -44,7 +44,21 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Fintech enters into licensing agreement with digital mortgage platform"
+    excerpt: "Marble Financial has announced that it has secured a licensing agreement that will pave the way for the integration of its Marble Connect service with digital mortgage platform WiiBid Solutions. Under this agreement,"
+    publishedDateTime: 2021-12-02T08:12:00Z
+    webUrl: "https://www.mpamag.com/ca/news/general/fintech-enters-into-licensing-agreement-with-digital-mortgage-platform/318561"
+    type: article
+    provider:
+      name: Mortgage
+      domain: mpamag.com
+    quality: 24
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637740295353940776.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
-secured: "ejSgAF3p2FUd6jdrvmeDkTzv75NKC9Ae0Ub1+fFnO1KIQDVkMZfmXPD4h+rTDETk8hZxGRceaJm+x9pmAXh/4L+NV4embi5nId+wCz20C4maA3NJqhbJd6doGw+7p6+3ju98Y5UpccC42NWXlLFwEUBuyB5RBJWBFYEVxvO3cxMk7Jq2aQbSr+9PFN9QL8iTzB6RExGuhzJNQWI22c5xS1Gc0JmHv/KUU7Y4rbIMcA14U1Tm65ovgRtl+PgapIdOjNycz+86mT+WG9eMed7EBuRSEX5fNQfw3F31n6jxhxoKbs5mZXhh65oR2QPBOb+Ueb1CShfiyhHcNuIOI8NOOetVNoEAAoGOM71RfPFOZDQ=;6HSpbVXBigy/uBkAmyqJUQ=="
+secured: "NAXnOgpzOZdPFkSMHv6RaaaSDpEXSCQZ0FtVfKy72TSvpjlJgQC+byYPx8G7hirm/nIj/svKIuwjKpVztqI/IuJzGh8I8t7Atlr6TQoBRPRSj4iCKPf1RzXaW29un5MaAZLbCPuNvLCq5JoQ0MzX+FTvEPDg2tccqHe+W+fa1NjEOTXOJRz6887SX+yU98GVIj0wGoAEGzZzXity7A+UsEblx47sCUbIkOKD4Nkr6CSCCZY4PFzWoS9UYP4vSnT0WPaXJFkxcamB9f18rENV3/B+h94378ZYE5fX8DNsF8XR66vcsH3aWRDg8Go4oIG8gQEFYwhnADD0ElxXEhvga3tEsdjbCsRV9KLPrXcsaSlJOMzuk+97m09r+ViQJs9zvr7qUYXhm6A8usboEe4vx/lfwnenJXbg6MOCFVmnzX9oZZLXQHPcQ8rt+JzjIhGP5+XX8wa6zmD2DgIC/w/l7DiTgbU1coAAZPcOed8VgPbIy48Zi9ndx/pfjVKPMoI3m1xSjcIXPIRCihntTwME4g==;iwaceUUbGAq5a++X7c2Uzw=="
 ---
 

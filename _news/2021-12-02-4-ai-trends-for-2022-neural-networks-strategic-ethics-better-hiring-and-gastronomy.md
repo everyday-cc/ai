@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/4-ai-trends-for-2022
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/"
 type: article
 quality: 99
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Data centre trends in 2022: Climate, AI and integration"
+    excerpt: "Vertiv announces expected data centre trends for 2022, highlighting importance of climate-related moves and efforts towards sustainability"
+    publishedDateTime: 2021-12-03T10:51:00Z
+    webUrl: "https://www.itp.net/network/vertiv-announces-expected-data-centre-trends-for-2022"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
 
 secured: "wMnbMYwszTfbiWD4KvHisX8cmXtGyAMCiODaNEMWOAlymPQx66vRNBx7AxZGmerbOP1M1kD892WGMxXVofu0BiHAF7pVsLuJAEH7r5txAHuMBKk3rvmymmhZQ4UJSJTu12zS3BFOyvbH7j+/hueUatB73oJ6xNeQKhE/HGUv8mRpTKzHftytlm7+6cqDVIKM8gO4eXhrF8ba+GG4coUPboGHqB44kWmyvtIZWS37JHSUSUtnsJzOhWb4iEwgmA5c0Kk8+pSEZdkZdmpxksV5Hy4wLIgCsZpnMyVi/qssDGRcqguW70XtuIo9ehX2M22FXlDpCP7oPGmtTEEyDMuCq/bNS0/BYhTZvh0PbZK+i7ihFffWp5OXcSzGQigVHQ+gS2tqISQwKENEsMLTYG8T2CpeCn5sOeMT9E+ynW+ADFovtg15W+IoUWH7cpDJTiLfZRnQDx4tqbisiwRx2Utsivr1CW8xr9IgsNbk4ji5tmmPGn22lSIMLrMB5WVDDnZRE0IeSExif8VcUSZeYoYaaw==;fo5Uahid8LbiU0j0ZydpaA=="
 ---

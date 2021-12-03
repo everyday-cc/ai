@@ -144,20 +144,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Top 5 Incredible Examples of AI and Machine Learning"
-    excerpt: "Artificial intelligence (AI) used to exist only in the realm of science fiction authors. Now, it promises to alter businesses and the world around us in ways that we never imagined."
-    publishedDateTime: 2021-11-28T17:52:00Z
-    webUrl: "https://www.linkedin.com/pulse/top-5-incredible-examples-ai-machine-learning-imran-zaman"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHI8e9APN_vVQ/article-cover_image-shrink_720_1280/0/1638121054340?e=1643846400&v=beta&t=gXjkcGh886U9qPbehUpzAlECJnj4-QFU_v065kKheHE"
-        width: 1279
-        height: 720
-        isCached: true
   - title: "3 Ways AI and Machine Learning Can Transform Public Agencies"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
     publishedDateTime: 2021-11-29T20:00:00Z

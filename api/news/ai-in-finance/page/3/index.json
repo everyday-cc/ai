@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-10-26-icaif21-showcases-how-artificial-intelligence-is-transforming-finance.md",
+      "title": "ICAIF'21 Showcases How Artificial Intelligence Is Transforming Finance",
+      "excerpt": "ACM, the Association for Computing Machinery, will hold the 2nd ACM International Conference on AI in Finance (ICAIF'21), virtually from November 3-5, 2021. More than 950 people registered for the inaugural conference,",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103049537/ICAIF21-Showcases-How-Artificial-Intelligence-Is-Transforming-Finance",
+      "originalUrl": "https://menafn.com/1103049537/ICAIF21-Showcases-How-Artificial-Intelligence-Is-Transforming-Finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/b45ebf54-a.png",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T09:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round.md",
+      "title": "Fintech Mortgage Lender Button Finance Finalizes $2M Seed Round",
+      "excerpt": "Button Finance, Inc., a Fintech mortgage lender focused on home equity, announced that it has finalized a $2 million seed round. The proceeds should allow Button Finance to recruit talent and to further develop its proprietary technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/",
+      "originalUrl": "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/07/Money-Benjamin-Dollars-2.jpg",
+          "width": 1280,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/10/182132-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round/amp/",
+      "publishedDateTime": "2021-10-26T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-visionary-global-fintech-companies-invest-in-customer-service-experience-by-partnering-with-helpshift.md",
       "title": "Visionary Global Fintech Companies Invest in Customer Service Experience by Partnering with Helpshift",
       "excerpt": "Helpshift, the established leader for in-app customer service in the mobile gaming industry, has set its sights on expanding its services to the rapidly growing fintech industry. Helpshift had long predicted an all-mobile shift of payments,",
@@ -1227,94 +1314,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud.md",
-      "title": "FiVerity Unveils Machine Learning-Powered Solution to Detect and Prevent Cyber Fraud",
-      "excerpt": "US-based tech startup FiVerity has launched a new machine learning solution, Collaborative AI platform, to detect and prevent cybercrime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/",
-      "originalUrl": "https://www.just-auto.com/research-reports/fiverity-unveils-machine-learning-powered-solution-to-detect-and-prevent-cyber-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_1602197377.jpg",
-          "width": 500,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T22:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-accenture-to-acquire-bridgei2i-expanding-capabilities-in-data-science-machine-learning-and-ai-powered-insights.md",
-      "title": "Accenture to Acquire BRIDGEi2i, Expanding Capabilities in Data Science, Machine Learning and AI-Powered Insights",
-      "excerpt": "Accenture (NYSE: ACN) has entered into an agreement to acquire BRIDGEi2i, an artificial intelligence (AI) and analytics firm headquartered in Bangalore, India, with additional offices in the US and Australia.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-bangalore-health-c556c1819c3548c6b3a52ebee48de471",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/coronavirus-pandemic-technology-business-bangalore-health-c556c1819c3548c6b3a52ebee48de471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-11T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

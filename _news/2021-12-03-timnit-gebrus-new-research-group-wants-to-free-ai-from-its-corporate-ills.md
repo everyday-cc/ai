@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Timnit Gebru’s New Research Group Wants to Free AI From Its Corporate Ills"
-excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."
-publishedDateTime: 2021-12-03T01:34:00Z
-originalUrl: "https://www.bloombergquint.com/technology/former-google-ethical-ai-researcher-creates-global-nonprofit"
-webUrl: "https://www.bloombergquint.com/technology/former-google-ethical-ai-researcher-creates-global-nonprofit"
+title: "Timnit Gebru’s new research group wants to free AI from its corporate ills"
+excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."
+publishedDateTime: 2021-12-03T09:12:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/03/timnit-gebrus-new-research-group-wants-to-free-ai-from-its-corporate-ills"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/03/timnit-gebrus-new-research-group-wants-to-free-ai-from-its-corporate-ills"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-    width: 1200
-    height: 630
+  - url: "https://apicms.thestar.com.my/uploads/images/2021/12/03/1391455.jpeg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
@@ -40,6 +40,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1028811892.jpg?w=1024"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Google ethical AI co-lead Timnit Gebru launches own research project"
+    excerpt: "Google scientist Dr Timnit Gebru's exit exposes rift in its ethical AI unit, head Jeff Dean faces criticism. Gebru was ousted from Google after a falling out with manag"
+    publishedDateTime: 2021-12-03T10:54:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 74
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2020/12/Dr-Timnit-Gebru-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
   - title: "Can Timnit Gebru’s new lab challenge big tech’s control over AI research?"
     excerpt: "Timnit Gebru, the renowned academic who was controversially fired by Google, has launched an independent AI research institute."
@@ -100,6 +116,6 @@ related:
         height: 960
         isCached: true
 
-secured: "KI5U5RS6pSiLPyNkcTYvzzXoDlZE5yl9gCy9gWiqID1k8LLXprbQtHP+RzNs4gdwcM6nauEchRaFdmqzAhJyhANhNWJMS4Qhg1B7YplqMAUnFsp5g1rBwbB9h7Hy3qWhUhWXc6D1sAcU1vaXSgBgmPCUENfgCWv3pM2ybcViYt9qTXFXsrqnewIMEfVVhWA/0LheWCEXz9kDYSm1gX8lTzyYsuJXFu5lwGOTG+1OSVyNm0pHzzJPTrzoUwWZ66DxLLnpedu6+4iYBMwrI5GDBhxgX5PvKK5p/JAH4TKVvE66QAhTkOYhZtCodHaLyYpmRvACLEyqXpGj2gepe9qJl9xhsFrVRuyPBah4k/5xh+Y=;non1Q9AMTpvgcd/KN+taEg=="
+secured: "1yLmtdaR9uSdAfgcXE3wF0qyobex/bmrMNQWDfjcom5bGjGiWulFx8W/fd3iQQCc3TvqEYEzM4m4kFdHWQe7mt9Kzi4CfYkbExmN+Qu56NSVGB7E3UMzRpkab4XHppO7Tg92xAz558ACJr99+UoexOh9KmDmWwVzzJFANfVvQQ8QsMf3oD6bh2XBhgHd4h0HUxVOAOxrtt13VPH5f1zWsh5SVDbpTgK0HTjLLJHtac3vtUM4OpQJgt52f/d7mcCSlSQQ1HW10400UMpFDf5XH44k7lagV1YIGAR53hWGRkFxjPpJO2chnXFSzbNvs3KYojYPbB9M7ZbXoOrQGSihyZcHR1UuXlwWFmBYH/6+Zd8=;c++4L21SWxfWbKnExgM85Q=="
 ---
 

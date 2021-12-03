@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Data centre trends in 2022: Climate, AI and integration"
+    excerpt: "Vertiv announces expected data centre trends for 2022, highlighting importance of climate-related moves and efforts towards sustainability"
+    publishedDateTime: 2021-12-03T10:51:00Z
+    webUrl: "https://www.itp.net/network/vertiv-announces-expected-data-centre-trends-for-2022"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
 
 secured: "19XNOal3APgK8gfvLKEx5V86eXTwLMynnCdzFcfKz5k6yTJH/B68CKiu+k7rQpLP6hr0p4ovsmrPVCUnXlsbVla0WE0SW7satfiH1shWIVsftVRnJbPEqr7MZY5pdG4ZwDqQWeZhubkNU1mPanUyzHzt0x2pJ72vad2FwkoqPXsN5uoZQsZUu+7kEVdtVVvqQP7QmC7fvezAkxcoEhkKCW7PxK5iG9nQgl5FF+EX9y2CvjfH3g8Jf8w1vvR0pnf4mKebRVutO/Z4TKrcaxxer2r4OF0ocWISS+3YAUf5bJ3cIvzpCfcXMQx3Z/OHZrNqmgnlSQ6ddIiiywrpkOqf+Z9aOGcLXdmIfBLW6Hgtj+8aTemefmjsEIfYSru+VzuAC8C0gnSlhd269r5HsWm6YKf781set6hwRNAzf6AsVSumso1gCOI5VLVkM8XM//lqxJ/eoCewJMs0bKj3cHipfDpZuZ4QsyxtP5Be4i8j2gH7hNAi/ns44lo3MQoPBpBhZpFatGZRoe4AhDes9IaNdQ==;OKgxyOkVLLBgvMM8pXxoUg=="
 ---

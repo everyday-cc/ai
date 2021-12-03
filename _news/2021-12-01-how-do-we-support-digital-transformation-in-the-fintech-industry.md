@@ -29,119 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "View: How to take fintech banks to the next level"
-    excerpt: "India has the highest fintech adoption rate of 87%, against the global average of 64%. Several new segments of fintech startups have emerged, and are gaining popularity among consumers in India. These are redefining financial services for customers and providing more value to them."
-    publishedDateTime: 2021-11-28T18:05:00Z
-    webUrl: "https://economictimes.indiatimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/articleshow/87967546.cms"
-    ampWebUrl: "https://m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms"
+  - title: "Robots extend reach in the food industry"
+    excerpt: "Robot use in food manufacturing is increasing. While robots are more common in the US than in the EU, several EU countries boast the highest levels"
+    publishedDateTime: 2021-12-01T11:46:00Z
+    webUrl: "https://think.ing.com/articles/robots-extend-reach-in-the-food-industry/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 61
+      name: ING
+      domain: ing.com
+    quality: 39
     images:
-      - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-12608,msid-87967859/.jpg"
-        width: 600
+      - url: "https://think.ing.com/uploads/hero/_w800h450/Roboticarms.jpg"
+        width: 800
         height: 450
         isCached: true
-  - title: "China: WeiyangX Fintech Review"
-    excerpt: "Beijing Looks to Set Up Digital Asset Exchange in the Sub-Center Area On November 26th, the State Council released a circular on supporting Beijing’s sub-center in pursuing high-quality development. To achieve the goals of a green city,"
-    publishedDateTime: 2021-11-29T19:15:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/183533-china-weiyangx-fintech-review-224/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183533-china-weiyangx-fintech-review-224/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183533-china-weiyangx-fintech-review-224/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Beijing-China-2.jpeg"
-        width: 1280
-        height: 1277
-        isCached: true
-  - title: "FinTech Trends to Watch Out for in 2022"
-    excerpt: "The Fintech industry is completely focused on leveraging cutting-edge technology to make financial transactions more engaging for customers/users across"
-    publishedDateTime: 2021-11-30T06:53:00Z
-    webUrl: "https://techspective.net/2021/11/30/fintech-trends-to-watch-out-for-in-2022/"
-    ampWebUrl: "https://techspective.net/2021/11/30/fintech-trends-to-watch-out-for-in-2022/amp/"
-    cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2021/11/30/fintech-trends-to-watch-out-for-in-2022/amp/"
-    type: article
-    provider:
-      name: techspective.net
-      domain: techspective.net
-    quality: 44
-    images:
-      - url: "https://techspective.net/wp-content/uploads/2021/11/pexels-anna-nekrashevich-6801874-scaled.jpg"
-        width: 2560
-        height: 1843
-        isCached: true
-  - title: "4 FinTech firms providing collateral free loans to women entrepreneurs"
-    excerpt: "FinTech companies have bridged this gap by specifically offering financial assistance to women, in the form of loans. Several"
-    publishedDateTime: 2021-11-29T08:11:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-firms-providing-collateral-free-loans-to-women-entrepreneurs/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/08/SLT.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Fintech enters into licensing agreement with digital mortgage platform"
-    excerpt: "Marble Financial has announced that it has secured a licensing agreement that will pave the way for the integration of its Marble Connect service with digital mortgage platform WiiBid Solutions. Under this agreement,"
-    publishedDateTime: 2021-12-02T08:12:00Z
-    webUrl: "https://www.mpamag.com/ca/news/general/fintech-enters-into-licensing-agreement-with-digital-mortgage-platform/318561"
-    type: article
-    provider:
-      name: Mortgage
-      domain: mpamag.com
-    quality: 24
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637740295353940776.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Portugal Fintech Report: Top 30 Fintechs and First Unicorn"
-    excerpt: "Portugal’s fintech industry had a fructuous year 2021 as it welcomed its first fintech startup unicorn and new regulatory development in the booming digital asset industry. Although the country is steadily rising as a startup hub in Europe,"
-    publishedDateTime: 2021-12-03T05:55:00Z
-    webUrl: "https://fintechnews.ch/fintechportugal/portugal-fintech-report-top-30-fintechs-and-first-unicorn/50441/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2021/12/Portugal-Fintech-Industry-1440x564_c.jpg?x22073"
-        width: 1440
-        height: 564
-        isCached: true
-  - title: "EarlyBirds Draws Attention To How Fintech And Insurtech Are Disrupting These Industries"
-    excerpt: "Open innovation ecosystem EarlyBirds is helping businesses in the Fintech and Insurtech industries benefit from the innovations in their respective"
-    publishedDateTime: 2021-11-29T05:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/earlybirds-draws-attention-to-how-fintech-and-insurtech-are-disrupting-these-industries"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 16
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/Brazil-football-crash-survivor-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Tenet Fintech Addresses Recent Trading Volatility"
-    excerpt: "November 30, 2021) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business Hub™, today confirmed that the Company is not aware of any undisclosed material event or events affecting its business operations that might be responsible for the recent trading volatility in its common shares."
-    publishedDateTime: 2021-11-30T18:36:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/11/30/tenet-fintech-addresses-recent-trading-volatility"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 4
 
 secured: "JPWeziXuzeAolQubUHmrcp0MMS3Up340884UtJKlkqybwpjojS8oelhOEJcI57XH3CF8pZKxz6Fzwm0lydWGKzW5Jf026TwofzbZpBMO+C5Urg5Bb/o9ocSCLCOzF0sQ2sPk/lK0A1l2YEyENTRxTbrf6/u2s+bXXR7uCDz5eR8AEpWPZsWELIvy4phSnQP92dj6veUdmtc6LBqGIAfOVqqxvlpC9BHos3VnFTCxrqGLql+cXt1zpDxi2IAT3LlN6CCTTTelYsHyywXPyVFZFlBjhTPna3aqT/8YvAh2cwOY4sdRro6aIoJajHe/Ui+RGAcEps2A0bLDrLyLhNMs9t1kC0lg5h9+QAowynN17Ns=;+j+3hTS77fk4gdGBPy/CPQ=="
 ---

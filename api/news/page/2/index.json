@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-02-toronto-based-vfx-startup-marz-raises-53m-to-develop-ai-technology-solutions.md",
+      "title": "Toronto-based VFX startup MARZ raises $5.3M to develop AI technology solutions",
+      "excerpt": "Technology and visual effects startup Monsters Aliens Robots Zombies (MARZ) has raised $5.3 million in Series A funding. The investment was led by Round13 Captial with participation from Rhino Ventures and Harlo Equity Partners.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/02/toronto-based-vfx-startup-marz-raises-5-3m-to-develop-ai-technology-solutions/",
+      "originalUrl": "https://techcrunch.com/2021/12/02/toronto-based-vfx-startup-marz-raises-5-3m-to-develop-ai-technology-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Marz.png?w=842",
+          "width": 842,
+          "height": 586,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/02/toronto-based-vfx-startup-marz-raises-5-3m-to-develop-ai-technology-solutions/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/toronto-based-vfx-startup-marz-raises-5-3m-to-develop-ai-technology-solutions/amp/",
+      "publishedDateTime": "2021-12-02T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-ambarella-booming-on-ai-based-chip-demand-strong-earnings.md",
       "title": "Ambarella Booming on AI-based Chip Demand, Strong Earnings",
       "excerpt": "Ambarella has recently experienced significant growth, fueled by rising demand for its artificial intelligence (AI)-based silicon products, particularly in the automotive and home security industries.",
@@ -139,7 +191,7 @@
       "originalUrl": "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022-11638434344157.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 283,
+      "heat": 293,
       "tags": null,
       "images": [
         {
@@ -217,6 +269,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-02-dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning.md",
+      "title": "Dataiku releases new version of unified AI platform for machine learning",
+      "excerpt": "While trying to make data scientists more effective, Dataiku’s AI platform also provides no-code GUIs for data prep and AutoML capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash-e1638387079382.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/amp/",
+      "publishedDateTime": "2021-12-01T20:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-aws-ai-chief-highlights-continued-evolution-of-its-big-bet-on-machine-learning.md",
       "title": "AWS’ AI chief highlights continued evolution of its big bet on machine learning",
       "excerpt": "AI, and the company showed every intention of getting its money’s worth from the investment during a string of new product announcements today at AWS’ re:Invent conference in Las Vegas. Following a keynote from Chief Executive Adam Selipsky on Tuesday where the company announced innovations such as a new processor for deep learning workloads and a no-code machine learning development tool called SageMaker Canvas,",
@@ -258,6 +362,57 @@
         "Machine Learning",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-global-artificial-intelligence-ai-in-insurance-market-2021-research-strategies-trend-and-future-development-status-forecast-by-2027.md",
+      "title": "Global Artificial Intelligence (AI) in Insurance Market 2021 Research Strategies, Trend and Future Development Status, Forecast by 2027",
+      "excerpt": "MarketandResearch.biz has deployed an intelligence report entitled Global Artificial Intelligence (AI) in Insurance Market Research Report 2021-2027 that is the complete creation of meticulous primary and secondary research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-2021-research-strategies-trend-and-future-development-status-forecast-by-2027-2021-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-2021-research-strategies-trend-and-future-development-status-forecast-by-2027-2021-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T16:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -905,7 +1060,7 @@
       "originalUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1054,153 +1209,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-continuously-improve-search-application-effectiveness-with-amazon-kendra-analytics-dashboard.md",
-      "title": "Continuously improve search application effectiveness with Amazon Kendra Analytics Dashboard",
-      "excerpt": "Unstructured data belonging to enterprises continues to grow, making it a challenge for customers and employees to get the information they need. Amazon Kendra is a highly accurate intelligent search service powered by machine learning (ML). It helps you easily find the content you’re looking for, even",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/continuously-improve-search-application-effectiveness-with-amazon-kendra-analytics-dashboard/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/continuously-improve-search-application-effectiveness-with-amazon-kendra-analytics-dashboard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T10:26:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-expedite-conversation-design-with-the-automated-chatbot-designer-in-amazon-lex.md",
-      "title": "Expedite conversation design with the automated chatbot designer in Amazon Lex",
-      "excerpt": "Today, we’re launching the Amazon Lex automated chatbot designer (preview), which reduces the time and effort it takes for customers to design a chatbot by automating the process using existing conversation transcripts. Amazon Lex helps you build, test, and deploy chatbots and virtual assistants on contact",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-conversation-design-with-the-automated-chatbot-designer-in-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-conversation-design-with-the-automated-chatbot-designer-in-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-whats-next-for-retail-robots.md",
-      "title": "What’s Next for Retail Robots",
-      "excerpt": "From Walmart’s slow dance with robots to Schnucks’ robot rollout to 111 stores to Ahold Delhaize’s in-store AI presence, robots are coming to retail. In the previous three installments of this series,",
-      "sourceUrl": null,
-      "webUrl": "https://www.winsightgrocerybusiness.com/retailers/whats-next-retail-robots",
-      "originalUrl": "https://www.winsightgrocerybusiness.com/retailers/whats-next-retail-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.winsightmedia.com/platform/files/public/2021-12/background/400x600/Robotsshutterstock.jpg?VersionId=9IQ6u8HOrbKU5OFZyF0dJdzOCcM8ft8e",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/retailers/whats-next-retail-robots",
-      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/retailers/whats-next-retail-robots",
-      "publishedDateTime": "2021-12-01T10:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Winsight Grocery Business",
-        "domain": "winsightgrocerybusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

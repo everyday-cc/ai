@@ -46,6 +46,50 @@
       ]
     },
     {
+      "path": "_news/2021-12-03-skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference.md",
+      "title": "SKKU: FinTech Research & Education Center for Global Leaders in Financial Innovation holds “2021 Global AI Finance Research Conference”",
+      "excerpt": "FinTech Research & Education Center for Global Leaders in Financial Innovation (Director: Prof. Kyo Jik Song) will hold the “2021 Global AI Finance Research Conference” at Sonocam Hotel in Yeosu from",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
+      "originalUrl": "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/11/640px-Samsung_Library_at_Suwon_campus_of_Sungkyunkwan_University.jpeg",
+          "width": 640,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
+      "publishedDateTime": "2021-12-02T19:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-emerging-ai-companies-are-driving-a-paradigm-shift-in-ml.md",
       "title": "Emerging AI Companies Are Driving A Paradigm Shift in ML",
       "excerpt": "Leadership from Cruise and Facebook AI discuss the emergence of AI native companies and the paradigm shift being driven by advances in ML and robotics. Just as web transformed business, then the emergence of mobile and cloud,",
@@ -359,7 +403,7 @@
       "originalUrl": "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -455,7 +499,7 @@
       "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -498,7 +542,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-convious-raises-12m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1168,58 +1212,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-toronto-based-vfx-startup-marz-raises-53m-to-develop-ai-technology-solutions.md",
-      "title": "Toronto-based VFX startup MARZ raises $5.3M to develop AI technology solutions",
-      "excerpt": "Technology and visual effects startup Monsters Aliens Robots Zombies (MARZ) has raised $5.3 million in Series A funding. The investment was led by Round13 Captial with participation from Rhino Ventures and Harlo Equity Partners.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/02/toronto-based-vfx-startup-marz-raises-5-3m-to-develop-ai-technology-solutions/",
-      "originalUrl": "https://techcrunch.com/2021/12/02/toronto-based-vfx-startup-marz-raises-5-3m-to-develop-ai-technology-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Marz.png?w=842",
-          "width": 842,
-          "height": 586,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/02/toronto-based-vfx-startup-marz-raises-5-3m-to-develop-ai-technology-solutions/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/toronto-based-vfx-startup-marz-raises-5-3m-to-develop-ai-technology-solutions/amp/",
-      "publishedDateTime": "2021-12-02T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
