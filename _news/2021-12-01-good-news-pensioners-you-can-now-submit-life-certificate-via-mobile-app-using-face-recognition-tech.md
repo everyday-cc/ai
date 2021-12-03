@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Crores of pensioners to be verified using UIDAI-linked facial recognition app"
+    excerpt: "A facial recognition-based app to verify and detect pensioners' liveness has been launched by the Department of Pension & Pensioners’ Welfare."
+    publishedDateTime: 2021-12-03T06:23:00Z
+    webUrl: "https://www.medianama.com/2021/12/223-facial-recognition-app-pensioners-uidai/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 51
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2020/07/face-detection-4762379_1920.jpg-e1630391608288.jpg"
+        width: 1280
+        height: 570
+        isCached: true
   - title: "Good news for pensioners! Government rolls out Unique Face Recognition Technology for life certificate"
     excerpt: "In order to make the process of life certificate easier for elderly pensioners, the government has rolled out Unique Face Recognition Technology on Monday."
     publishedDateTime: 2021-11-30T08:20:00Z

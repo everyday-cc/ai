@@ -35,22 +35,6 @@ related:
         width: 708
         height: 419
         isCached: true
-  - title: "AI discovers over 300 unknown exoplanets in Kepler telescope data"
-    excerpt: "A new artificial intelligence algorithm has discovered over 300 previously unknown exoplanets in data gathered by a now-defunct exoplanet-hunting telescope. The Kepler Space Telescope, NASA's first dedicated exoplanet hunter,"
-    publishedDateTime: 2021-11-28T13:15:00Z
-    webUrl: "https://www.space.com/artificial-intelligence-300-exoplanets-in-kepler-data"
-    ampWebUrl: "https://www.space.com/amp/artificial-intelligence-300-exoplanets-in-kepler-data"
-    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/artificial-intelligence-300-exoplanets-in-kepler-data"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/KqZ88LfG2sXsy5c8PzyCeW-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "/CS9YnvkcpNMD9Ntu+wn4X3YrLNiNmdnKBzTnhaXkum0EEhCtpyd+9nn2whQZiLZdEb8wNK4qjcyd7X95XUTDUzIWaEFvU58eEO9fMNYBg/k6yrY25+HTNJ/CDhtIWs5b8m1SNOOxMXRpCBqAZ9KrCfOecbaZMkuEYK1M1QJSC3f7otrbxIiqVBwMZ7W3BwKnssYLi2AGu6OXlSNizXhgpm5zmSBhVttqa3oxQotW15u0XwYh5hp8taAQqNE05SFEW3ew4LM/13bac16CtcPhM5oot5qWIC4SpfUOQBJh3rfXlhmcL3BBSnHC5pLULbm9oXxy1xHK/yb1zVrfAyJJ0vKaamGhRwXPaWSiWO+mUdF8zgw86sZ9KDXD/0jLtLvPC69QOayKYVVsKyGIxMNBHotK1EqiF9dsDo17fXoxHRNegdscaluccpnBuxFTUuczdZsF7yaWWJKMDrrJI0EigS5fdIxoCEnYSviXTmGmOxeEtsH5LyBIjEH5C7JB8GZgta3bVyp7vPkyzHlWAdrqg==;e025FBKjWDCaX7AmGOfj8A=="
 ---

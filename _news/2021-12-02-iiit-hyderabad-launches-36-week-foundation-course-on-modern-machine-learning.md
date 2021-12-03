@@ -41,6 +41,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Tax Exemptions, Benefits And Implications That Every Startup In India Should Be Aware Of"
+    excerpt: "Startup India is a flagship initiative of the government of India, intended to build a strong eco-system for nurturing innovation and startups that will drive sustainable economic growth and generate"
+    publishedDateTime: 2021-12-03T05:44:00Z
+    webUrl: "https://www.entrepreneur.com/article/400561"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 43
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1638510328-MyPost78.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "IIIT-Hyderabad selected for startup funding grant"
     excerpt: "Hyderabad: The Centre for Innovation & Entrepreneurship (CIE) of IIIT Hyderabad has been selected for the Startup India Seed Fund Scheme by the"
     publishedDateTime: 2021-12-01T19:16:00Z

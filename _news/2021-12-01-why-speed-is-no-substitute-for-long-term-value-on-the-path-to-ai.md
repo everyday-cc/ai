@@ -59,20 +59,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "NYC aims to be first to rein in AI hiring tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their résumés or analyzing their video interviews. But New York City residents could soon get more say over the"
-    publishedDateTime: 2021-11-28T13:11:00Z
-    webUrl: "https://www.bendbulletin.com/ap/nyc-aims-to-be-first-to-rein-in-ai-hiring-tools/article_49263b77-34ad-5b74-95ab-bec31b15059e.html"
-    type: article
-    provider:
-      name: The Bulletin
-      domain: bendbulletin.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/b/a3/ba3d351f-8ce1-5934-a302-de297af7f77d/6198335736a55.image.jpg?resize=1200%2C800"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "+8nrTjg+P1IX88r64Ob+9x0AWNp3hp6YWHUCoGCTdnyFdWappHIvQ+ZGgkkFXEUA3ThdatEDMPm4hbtz827NVD4yetN+r7vrmw3zI9eRl8i/0ISnURVMxLyz2fhay9jzNrE39AFdDBKWWX56YQAGTGA+qQfaorNaZAILYc73YrsGryIeLaMfswJoxR+008cvFmxRn2qMTsS41N+RapOOvbimQgbYhPSJ7fYTKvl0WblcT1qwr30kIs1+SZYVQ78S6kDpSBgFEQBESLLFxE8YoahTzyXhRfY8ksn3pEWBYRDmMDLGWlbIDAWb4EDIVKic9BMHVuOZVpa6wha0Ev+J2Ba2QIPko4jw+kidecb4iRFvts28lRjN3Yig2UdfeBP2QaYjVC8qeRK8FyvjUYa4OVHR5grDtDjAuKEMXTDGMLuaF2GXJ69PaRTBDc6rFak+Y4POwDzM4gABQw7xZ+q0Fty7cagrIOsz1bIJjI9ZjqrdG2cnuJ0XilL3iDHKT3U4q4c9QcFjD2/qMCnOLnER3A==;Fy5E39HytXIwRfMufeJSKA=="
 ---

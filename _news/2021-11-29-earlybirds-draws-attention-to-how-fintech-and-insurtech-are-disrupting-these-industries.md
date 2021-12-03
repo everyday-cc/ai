@@ -115,6 +115,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Portugal Fintech Report: Top 30 Fintechs and First Unicorn"
+    excerpt: "Portugal’s fintech industry had a fructuous year 2021 as it welcomed its first fintech startup unicorn and new regulatory development in the booming digital asset industry. Although the country is steadily rising as a startup hub in Europe,"
+    publishedDateTime: 2021-12-03T05:55:00Z
+    webUrl: "https://fintechnews.ch/fintechportugal/portugal-fintech-report-top-30-fintechs-and-first-unicorn/50441/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2021/12/Portugal-Fintech-Industry-1440x564_c.jpg?x22073"
+        width: 1440
+        height: 564
+        isCached: true
   - title: "Tenet Fintech Addresses Recent Trading Volatility"
     excerpt: "November 30, 2021) - Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business Hub™, today confirmed that the Company is not aware of any undisclosed material event or events affecting its business operations that might be responsible for the recent trading volatility in its common shares."
     publishedDateTime: 2021-11-30T18:36:00Z

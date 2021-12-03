@@ -9,7 +9,7 @@ ampWebUrl: "https://www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-vo
 cdnAmpWebUrl: "https://www-her-ie.cdn.ampproject.org/c/s/www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783"
 type: article
 quality: 61
-heat: 71
+heat: 72
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-con
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-convious-raises-12m/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

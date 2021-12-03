@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-da
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/amp/"
 type: article
 quality: 82
-heat: 122
+heat: 133
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-3-1.jpg&signature=196efe9508285abc0c8bab5b6653929b"
         width: 1280
         height: 640
+        isCached: true
+  - title: "After being fired from Google, Gebru forms AI research institute"
+    excerpt: "Artificial Intelligence (AI) researcher Timnit Gebru, fired from Google after sending an email of concern to her Ethical AI team, has set up her own research institute that will be an independent, community-rooted institute set to counter Big Tech's pervasive influence on the research,"
+    publishedDateTime: 2021-12-03T06:15:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=900302"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 39
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
+        width: 280
+        height: 250
         isCached: true
   - title: "Timnit Gebru’s New Research Group Wants to Free AI From Its Corporate Ills"
     excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."

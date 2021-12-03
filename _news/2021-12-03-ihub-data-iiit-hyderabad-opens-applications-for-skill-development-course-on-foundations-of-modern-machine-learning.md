@@ -41,6 +41,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Tax Exemptions, Benefits And Implications That Every Startup In India Should Be Aware Of"
+    excerpt: "Startup India is a flagship initiative of the government of India, intended to build a strong eco-system for nurturing innovation and startups that will drive sustainable economic growth and generate"
+    publishedDateTime: 2021-12-03T05:44:00Z
+    webUrl: "https://www.entrepreneur.com/article/400561"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 43
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1638510328-MyPost78.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "IIIT Hyderabad Launches 36 Week Foundation Course On Modern Machine Learning"
     excerpt: "Hub-Data at IIIT Hyderabad announced that it invites applications from undergraduate engineering students across the country for its 36-week foundation course on Modern Machine Learning commencing January 2022."
     publishedDateTime: 2021-12-02T12:36:00Z

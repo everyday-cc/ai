@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/news/india/government-launches-unique-fa
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.financialexpress.com/2021/10/2-5.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Crores of pensioners to be verified using UIDAI-linked facial recognition app"
+    excerpt: "A facial recognition-based app to verify and detect pensioners' liveness has been launched by the Department of Pension & Pensioners’ Welfare."
+    publishedDateTime: 2021-12-03T06:23:00Z
+    webUrl: "https://www.medianama.com/2021/12/223-facial-recognition-app-pensioners-uidai/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 51
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2020/07/face-detection-4762379_1920.jpg-e1630391608288.jpg"
+        width: 1280
+        height: 570
         isCached: true
   - title: "Good News Pensioners! You Can Now Submit Life Certificate Via Mobile App Using Face Recognition Tech"
     excerpt: "All pensioners are mandated to submit life certificates annually to continue receiving pension. The Ministry of Personnel, Public Grievances and Pensions has implemented a facility of submitting certificates digitally."

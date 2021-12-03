@@ -26,6 +26,17 @@ images:
     height: 509
     isCached: true
 
+related:
+  - title: "Toyam signs with Singapore govt. backed fit-tech startup Elitefit.ai"
+    excerpt: "New Delhi [India], December 3 (ANI/GIPR): Toyam Industries Ltd., India's biggest MMA promotion company signs a partnership agreement with EliteFit.AI, a FitTech startup supported by Singapore ..."
+    publishedDateTime: 2021-12-03T06:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20211203/3866584.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
+
 secured: "OBmUEZT0S3hmIMsI4qzv1k7gE0ozQamSCLs6pe54ra/QtqnOo9SDQVv9e5vNd5FE3cNhxdYgJ8RTBQjmWwfsPHMCT/B2Q1NtsvAjjjcFf83ZEzXUdcx2Y1irf7TZyoJ1NfkoUwcf9PraVLxtuwQ/LNyCtZd0r90t2Feih/Yct8n3RnGN4GwHEfaKVCbQUHclcRgNJWZuXQdo3kMDkz7c0y0s7QxtCJ2FGKOYAYmt4rD51qsOlulCGUoewwjzB0Vc68q6jv0Or1jz4HLgR2C/yHU6pb3ey9kO8fFvEJrEY0bFH0/ZBNI2BA4fOMjEIhk3X2tZ3j1axbPoj7lbHWwKoRdJSQB1w8nm4DdrDVSoMshPB2eDB5O+QVc+1//ilLsGJwMrjcze5b31WhUbezvGgUz3VV6tWCy1EW6Tl44WNaJQIAN4dHtx1Q0GKnHMh9xK7X9jmZd5pDUf9fKekQKxopKSROkUS/dEXSZ1BtLozdp9gTArZhe+clP/Ub8nYcCrlXr8737a4VpWvNKn+gRDJw==;KMgrI4GcKXZ8oz7C2v12vQ=="
 ---
 

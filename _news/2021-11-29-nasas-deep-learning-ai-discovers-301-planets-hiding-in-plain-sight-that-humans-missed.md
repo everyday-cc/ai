@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nasas-deep-learning-ai-discovers-30
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nasas-deep-learning-ai-discovers-301-planets"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI discovers over 300 unknown exoplanets in Kepler telescope data"
-    excerpt: "A new artificial intelligence algorithm has discovered over 300 previously unknown exoplanets in data gathered by a now-defunct exoplanet-hunting telescope. The Kepler Space Telescope, NASA's first dedicated exoplanet hunter,"
-    publishedDateTime: 2021-11-28T13:15:00Z
-    webUrl: "https://www.space.com/artificial-intelligence-300-exoplanets-in-kepler-data"
-    ampWebUrl: "https://www.space.com/amp/artificial-intelligence-300-exoplanets-in-kepler-data"
-    cdnAmpWebUrl: "https://www-space-com.cdn.ampproject.org/c/s/www.space.com/amp/artificial-intelligence-300-exoplanets-in-kepler-data"
-    type: article
-    provider:
-      name: Space.com
-      domain: space.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/KqZ88LfG2sXsy5c8PzyCeW-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Deep learning tool helps NASA discover 301 exoplanets"
     excerpt: "NASA scientists used a neural network called ExoMiner to examine data from Kepler, increasing the total tally of confirmed exoplanets in the universe."
     publishedDateTime: 2021-12-01T01:39:00Z

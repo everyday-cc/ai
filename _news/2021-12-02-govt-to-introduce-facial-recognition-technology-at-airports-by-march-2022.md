@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recogni
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
 type: article
 quality: 73
-heat: 263
+heat: 283
 published: true
 
 provider:
@@ -155,6 +155,22 @@ related:
         width: 494
         height: 301
         isCached: true
+  - title: "These 4 Indian Airports Will Have Facial Recognition; Data Will Be Deleted In 24 Hours"
+    excerpt: "The Airports Authority of India has been working on a project of FRT-based Biometric Boarding System.Facial Recognition Technology (FRT) is highly looked forward to, after the Indian government announ"
+    publishedDateTime: 2021-12-03T06:06:00Z
+    webUrl: "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/"
+    ampWebUrl: "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/amp/"
+    cdnAmpWebUrl: "https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/amp/"
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 66
+    images:
+      - url: "https://trak.in/wp-content/uploads/2021/12/72b0f32797dd441c89b1396bba9ac524_18.jpeg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "AAI working on India's first facial recognition-based passenger boarding system: Government"
     excerpt: "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government."
     publishedDateTime: 2021-12-02T13:36:00Z
@@ -202,6 +218,20 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2021-11/ba2281fc-9298-4b27-8a87-1142cb19dd48/FFXnI_mVUAE4s48.jfif?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1199
         height: 675
+        isCached: true
+  - title: "facial recognition tech at airports"
+    excerpt: "Trak.in is a popular Indian Business, Technology, Mobile & Startup blog featuring trending News, views and analytical take on Technology, Business, Finance, Telecom, Mobile, startups & Social Media Sp"
+    publishedDateTime: 2021-12-03T06:06:00Z
+    webUrl: "https://trak.in/Tags/Business/facial-recognition-tech-at-airports/"
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 54
+    images:
+      - url: "https://trak.in/wp-content/uploads/2016/02/cropped-Favicon-Square-2016-2.gif"
+        width: 512
+        height: 512
         isCached: true
   - title: "Face Recognition Technology Launched; 68 Lakh Central Govt, Crores Of EPFO Pensioners To Benefit"
     excerpt: "In a bid to bring in ease of living for the retired and elderly citizens, the Union Minister of State (Independent Charge) Science & Technology Jitendra Singh on Monday launched unique Face Recognition Technology for pensioners."

@@ -9,7 +9,7 @@ ampWebUrl: "https://elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/w
 cdnAmpWebUrl: "https://elclasificado-com.cdn.ampproject.org/c/s/elclasificado.com/sfbayarea/servicio/servicios-miscelaneos/why-ai-in-the-military-is-to-18383628-amp.html"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHDxdSzArBqJQ/article-cover_image-shrink_600_2000/0/1638295469290?e=1643846400&v=beta&t=MFujEMwUG_O2JTejHCLrDxhvWtdBvyIh2d9OjoALeVI"
         width: 1377
         height: 600
-        isCached: true
-  - title: "NYC aims to be first to rein in AI hiring tools"
-    excerpt: "Job candidates rarely know when hidden artificial intelligence tools are rejecting their résumés or analyzing their video interviews. But New York City residents could soon get more say over the"
-    publishedDateTime: 2021-11-28T13:11:00Z
-    webUrl: "https://www.bendbulletin.com/ap/nyc-aims-to-be-first-to-rein-in-ai-hiring-tools/article_49263b77-34ad-5b74-95ab-bec31b15059e.html"
-    type: article
-    provider:
-      name: The Bulletin
-      domain: bendbulletin.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/b/a3/ba3d351f-8ce1-5934-a302-de297af7f77d/6198335736a55.image.jpg?resize=1200%2C800"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "7USWDPCesz12vnxWvJm5xJiRQeIcJ6AOGNAb7dh0TCoK2DkmnZT/KRhiQ6eoI9qtSceY+jwYsOpjoEOO7ePRbP8AW69VhT5xE2UJBSn2AnwqCLCZwZ5cB/dyXaIsqOjkvQbtdmzEHbq6qDIjOeb0lYl1YkaFaJZhZig/lz1wBqgWZMjFJuhb9B6S0o4BNVCwVFS73waP0PJq4rtEWrCixquM4qHqu4oPLNeukXQHhHEznMckOtidvKRV6dePr8f/SNimpjn0pTIF6TpDeLBXcPvpsdiAqDZClIOIogqGs3at5TKhxqRkwEoo1iox9/c4jJdzusYhZSpc3WUR47pemgCbNRVx1NZcYLeIICQc0DguMjDmUVMqgAeiezj0H7I366MV9ZRLwSrrS2ok4HJU/7ORFvJeVSjNwo+IgGKdPvBl55jDug1uCBwTKCAHMzuvIL7ZY7SnBW3ZQjTtmfDM8PbV7wepgBsJb83tyW/YBBGhMJZfjsQ1jMkdYk/3MlRxzjAx1AAmAeqLctU+5QiPpA==;KBr2kygmtsTKTc6ucBophw=="
