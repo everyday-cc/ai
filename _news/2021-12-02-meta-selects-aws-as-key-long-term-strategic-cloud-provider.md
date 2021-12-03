@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS’s proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
-publishedDateTime: 2021-12-02T08:38:00Z
-originalUrl: "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/"
-webUrl: "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
+publishedDateTime: 2021-12-01T18:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
+webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
@@ -69,7 +69,16 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Meta picks AWS as long-term strategic cloud provider"
+    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-02T07:52:00Z
+    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
-secured: "4kdeX7uhq3nrPiTWXKz7/iuqF9rhdAGodo4x05XCZvQdX2l+2hU6l7SXVvIlt1OesCCJqcx/jhXqg41A+A72Xd0rMUnSa4Io8In2eXpuf+USNLh0bFDu3+VGFibw4XoBdxiNvrvC79utt58dwYRTHWTx3oKDKmoNiPaImnllmjaVdbYHwBHlvKSQAw1LPzWrhl4cGylDeEL16bAGiARgNzXQMagrk81wImf0DFRICdy+XmypnfiHMkQzUwg/mBj9w+KBUJax46ij56dmJA74Zdt6RcPRJZE5MuHVZyoeaK8b2oqd6gJk+gSe4dlRpBqlWs1lqmXDcRrUJzwl0OziACipAM7OFbwF1ayTHLR7XSo=;+L/qRXeiP3l57U/V+nlMSg=="
+secured: "wLZC+uey6IPuKQnqvePvdnVTCaX3vGzbDcshgmGOfK25in4/lUxvvsZm5avV4rU6GTRuxDmFMQB9K8KQQoquIohtwmtTWQVmdOVYt6ZztrjdLCHyD/UpjppQq3luFLjs6kJJvM8jf4enuKaHGXGVX73H1dsnnaqwjZXLxO2xKvMlpC1HGsRLkZOf2no/TMuQNPC7y9Jzt8Ei+mkKiVw8m7qglTfbSKQyDwsyWUwiU4jC7+5G0nkPoXrrtk4ysj5a4IktaKThGrEOucfD0r+xnoKtZW0khX0ksE1ewWd3EI+BbduVD8wTGhL5qHbxuV0oEmNT9HNPcEXKc8k82gAWEH0QUObVDuyXtWzCc7xgzmw=;3Pq0E3KHpkm1nIek+ppLlg=="
 ---
 

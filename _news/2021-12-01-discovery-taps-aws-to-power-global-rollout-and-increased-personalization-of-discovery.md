@@ -78,13 +78,13 @@ related:
         height: 630
         isCached: true
   - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship"
-    publishedDateTime: 2021-12-01T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
+    excerpt: "(NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud. As Discovery’s preferred cloud provider, AWS powers the vast majority of the company’s infrastructure needs to deliver its discovery+ on-demand streaming video service,"
+    publishedDateTime: 2021-12-01T23:08:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 11
 
 secured: "SH1xWz4Gfu36boLcoSw50LDY4pRUX/sw7mf6EOXWXc+Flmzbhw6LZ6Cpo5SBh5BGPtvwNmlivzKdEna8/c0xF45aJyENLmyXSICDtGDBAKutEb/TGVANJD9WUK11vr7wKGMHOAexQ73OtVJc2EXQzMAI/weyjD1bmIw3G1M7pj6xp9QX3eYcyXHANK9jj/ttW9kYA8+cAyTsR1BCBrARqQTCWxt18qLv0IC1T4YLQ4HJIWFApRENRSZ91Wky3llrCJBvfSKAJ66n+mVuoxAP9yUOyW9zHe7OUxFQrEfwBol4AtGk46IhuVc3KpUNVswK16moWePiVGoDW4qeFqcOtZ4mVIjoCciTxjqqMoZZH+U=;vqIdyVewzUWqap+zvLAEiA=="

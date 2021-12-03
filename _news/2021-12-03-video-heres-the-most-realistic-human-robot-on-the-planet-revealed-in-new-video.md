@@ -57,6 +57,20 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Meet Ameca, the Humanoid Robot With Eerily Realistic Facial Expressions"
+    excerpt: "Okay, we know that most humanoid robots are designed to mimic human motion and interaction. But Ameca, the new machine developed by robotics company Engineered Arts, takes that to a new level. It can move and put on facial expressions that look incredibly natural and real – too real."
+    publishedDateTime: 2021-12-03T20:26:00Z
+    webUrl: "https://www.autoevolution.com/news/meet-ameca-the-humanoid-robot-with-eerily-realistic-facial-expressions-175714.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 39
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/meet-ameca-the-humanoid-robot-with-eerily-realistic-facial-expressions-175714_1.jpg"
+        width: 1269
+        height: 580
+        isCached: true
 
 secured: "xtflpJVJChwCSfQL7yjkulTz1oifHu8histy1eIzjNa9x2I/WbDwc9N5QgM4Y0T9BWWCqr+wYnFUkAajZFu0SGNUybSiJ+cTZbWwkoWpq131fZYpt8559YclLGWV7lbeMtS9hKsejQBDb8oVsfpvIwGeZMXo7s8X4nraq54FGfqfIzL3DcYjSuRf8+xqmqSIs8wrT4ZRw6ejCNp1DF9iTrRkOH7buH0C2GF+nTZwJYI8KDtEAABv/PIXjnFuDgmCo80LnKsDfm+Q3ab/SXVid7zeoQ5/DEK89fmV5baQlAli3iSrKaGSlaZk9j3CBwSPHK9tQ/gPLKJNnJObfKC4efgs9OoFyFB7+HIQF/2C6B+Kj1W8uY1uhjJh2IHmUJfowTRJe1O92V6JdOTZer70+0Yz/IxNQL2WBxNMuL1tzE0ov6CqGfaDxR14uKgr0XL9B/jG2ULVBla23d2ly3jXYaIs+qpkzQ7BRSDKeR0iF7QA4rMB7mUJVOU7yXSG0dzefnUVDJ1XVL6+7EO8vp5MUQ==;XeCRMyL6aHe/2orgQK6NZA=="
 ---

@@ -2,6 +2,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-11-23-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires.md",
+      "title": "AI Firefight: PG&E Using Artificial Intelligence To Help Stop Wildfires",
+      "excerpt": "PG&E is trying something new to help stop wildfires. The utility is testing artificial intelligence software in some of its ALERTWildfire cameras set up around the state.",
+      "sourceUrl": null,
+      "webUrl": "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/",
+      "originalUrl": "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/1FD/FA5/1FDFA5A43B22D5E135477BB753EAEE6F.jpg?Expires=1732233600&KeyName=mcpkey1&Signature=FJUU18ZaSYcSubArBbUM3YM4nh8",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/?amp",
+      "cdnAmpWebUrl": "https://sacramento-cbslocal-com.cdn.ampproject.org/c/s/sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/?amp",
+      "publishedDateTime": "2021-11-22T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-swiss-re-partners-with-tcs-to-develop-a-resilient-and-futuristic-digital-workplace.md",
       "title": "Swiss Re Partners with TCS to Develop a Resilient and Futuristic Digital Workplace",
       "excerpt": "To find out more, read our updated Cookie Policy Swiss Re Partners with TCS to Develop a Resilient and Futuristic Digital Workplace Tata Consultancy Services to Further Develop the New Digital Core on Microsoft 365 to Allow the Reinsurer to Enhance their User Experience Even More,",
@@ -1064,49 +1106,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-red-hat-bolsters-partner-ecosystem-to-accelerate-data-science-pipelines-across-the-open-hybrid-cloud.md",
-      "title": "Red Hat Bolsters Partner Ecosystem to Accelerate Data Science Pipelines Across the Open Hybrid Cloud",
-      "excerpt": "Red Hat, Inc., the world’s leading provider of open source solutions, today announced the availability of Red Hat OpenShift Data Science as a field trial, as well as an expanded partner ecosystem focused on this new cloud service offering.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-fd3edb68af4f431895e6eca8b976ba26",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-fd3edb68af4f431895e6eca8b976ba26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

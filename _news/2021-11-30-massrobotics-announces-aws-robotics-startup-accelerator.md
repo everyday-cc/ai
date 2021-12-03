@@ -20,35 +20,21 @@ topics:
   - AWS AI
 
 related:
-  - title: "Robotics startup FJDynamics raises $70M to make manual labor easier"
-    excerpt: "FJDynamics, founded by DJI’s former chief scientist Wu Di, just closed a Series B round of $70 million as it advances its goal to empower workers in the harshest environment with robotic technologies."
-    publishedDateTime: 2021-11-29T05:41:00Z
-    webUrl: "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/"
-    ampWebUrl: "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/"
+  - title: "How the 'Great Resignation' is accelerating the use of robotics and AI-based tools"
+    excerpt: "artificial intelligence with machine learning, robotics, high-speed data streaming and a slew of other technologies, Reinharz says. The revolution will include the use of autonomous remote services, commonly known as robotics, and will benefit industries ..."
+    publishedDateTime: 2021-12-03T16:52:00Z
+    webUrl: "https://www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/"
+    ampWebUrl: "https://www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/?amp=1"
+    cdnAmpWebUrl: "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/?amp=1"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
+      name: Benefits Pro
+      domain: benefitspro.com
+    quality: 83
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/2421637834861_.pic_hd-e1638163752386.jpg?w=823"
-        width: 823
-        height: 438
-        isCached: true
-  - title: "MassRobotics Announces AWS Robotics Startup Accelerator"
-    excerpt: "AWS Robotics Accelerator to scale robotics startups focused on automation and IIOT BOSTON, MA / ACCESSWIRE / November 29, 2021 / MassRobotics has announced a new Amazon Web Services, Inc. (AWS) Robotics Startup Accelerator to address the biggest challenges in the automation,"
-    publishedDateTime: 2021-11-29T13:48:00Z
-    webUrl: "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 71
-    images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
+      - url: "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/12/Artificial-Intelligence-AI-robot-tech-automate.jpg"
+        width: 617
+        height: 412
         isCached: true
 
 secured: "Ow26oLBKy9dt3MQmWu0DbNbozYgC5v72VVCEykEZqavPaZTV14REn7wRjE3TjjXgyKSuPAk0uuRtX4MqDjaPPi8nbu3xc4FncUOY/qBaTSrelhqgCSwZthpPeJYfvdC3eE1zQm8LB+PXI1/Kd8QfzyxfnaKeyN/o1pgRvB6fcuUh7IP3GOtW8170f0LQwM2jpFJnKYtYcQboPN7bcBloylCZaa3e3z46MSdn7JCnIS8qoOnD/glAOU1npjcdH/Eqxn7PH2/T3ltkEyUUndkxq6BTTVSxs/2vMilg2a9vzPn3wfXuFP9uKOunf4lNNQy1I2zbwcOBzrLZ7px0DVUFu9prNb96ACy6AmlKRe4X9YU=;dkvTjbNuubEinB8vMQvuUQ=="

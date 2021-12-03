@@ -60,14 +60,23 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-    excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS’s proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-02T08:38:00Z
-    webUrl: "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/"
+  - title: "Meta picks AWS as long-term strategic cloud provider"
+    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-02T07:52:00Z
+    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
+    publishedDateTime: 2021-12-01T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 19
 
 secured: "Y49QgoZe1RyU0JtkahIIKij4Ougr+Z06tpv+nF20cv0jo+liNKtGt3BhTLiSV8P1wOD4eRIqokjkXsQKwlTOGyQ/GcqVMzEQO+t0YNWzCHM2tHuVCpfMnSnm8T6D2opzN7gIbSAe8cJGjlKpsFziIjrwMtRESDjerlU5JXk5NrEO7X6WbcGgq1IEkJ9ZEFFdUty+Q0dlBqWoQ2XXtvzwlqnHSdKsTmImXcJxUCYXaWRLDR/d3Ze6nR+kTU9mIlMxHagyZbuRuIY8EYzgllITb2MHaFKrMOj6htV2B9/UKr1/6YqMy/NuYvCQ18iwCnMCCLtgMWnuB4IYR0m4OxSmhUzpMCL1Obm4jHqGDxQuM0I=;qWlO7nOMhsitp397yD+7RQ=="

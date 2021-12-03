@@ -2,6 +2,83 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-02-cerebras-hits-the-accelerator-for-deep-learning-workloads.md",
+      "title": "Cerebras Hits the Accelerator for Deep Learning Workloads",
+      "excerpt": "When it comes to large neural networks like BERT or GPT-3, organizations often must wait weeks or even months for a training task to complete if they’re",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2021/11/01/cerebras-hits-the-accelerator-for-deep-learning-workloads/",
+      "originalUrl": "https://www.datanami.com/2021/11/01/cerebras-hits-the-accelerator-for-deep-learning-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/Cerebras_4.png",
+          "width": 743,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-global-machine-learning-as-a-service-mlaas-market-drivers-strategies-applications-and-competitive-landscape.md",
+      "title": "Global Machine Learning as a Service (MLaaS) Market Drivers, Strategies, Applications and competitive Landscape",
+      "excerpt": "this market research report draws attention to key market dynamics of the sector. Increasing need to understand the customer behaviour, growing adoption of machine learning as a service (MLaaS) solutions by small and medium scale organisations and surge in ...",
+      "sourceUrl": null,
+      "webUrl": "https://chipdesignmag.com/global-machine-learning-as-a-service-mlaas-market-drivers-strategies-applications-and-competitive-landscape/",
+      "originalUrl": "https://chipdesignmag.com/global-machine-learning-as-a-service-mlaas-market-drivers-strategies-applications-and-competitive-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-01T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chip Design",
+        "domain": "chipdesignmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-global-deep-learning-in-computer-vision-market-trends-analysis-and-future-projections-with-top-key-players.md",
       "title": "Global Deep Learning in Computer Vision Market Trends Analysis and Future Projections with Top key Players",
       "excerpt": "this market research report draws attention to key market dynamics of the sector. Deep learning in computer vision market will grow at a rate of 55.65% for the forecast period of 2020 to 2027. Data Bridge Market Research report deep learning in computer ...",
@@ -1292,93 +1369,6 @@
         "Machine Learning",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-agencies-face-continued-challenges-making-security-data-ready-for-machine-learning.md",
-      "title": "Agencies face continued challenges making security data ready for machine learning",
-      "excerpt": "Proofpoint fraud expert Rob Holmes looks at how threat actors are exploiting agency supply chains to launch imposter email attacks and compromise agency networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/category/sponsored-content/",
-      "originalUrl": "https://www.fedscoop.com/category/sponsored-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-the-coming-convergence-of-nfts-and-artificial-intelligence.md",
-      "title": "The Coming Convergence of NFTs and Artificial Intelligence",
-      "excerpt": "Building AI capabilities into the lifecycle of NFTs opens the door to forms of intelligent ownership, says the CEO of IntoTheBlock.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
-      "originalUrl": "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.coindesk.com/resizer/337Dm4j0iUQkmYa0l8YD8QPsAXQ=/1200x628/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LANV5ORSRJAIRN7KPVV7V2ZCDE.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-coindesk-com.cdn.ampproject.org/c/s/www.coindesk.com/business/2021/10/25/the-coming-convergence-of-nfts-and-artificial-intelligence/",
-      "publishedDateTime": "2021-10-25T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinDesk",
-        "domain": "coindesk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
-excerpt: "A mathematician,” the Hungarian number theorist Alfred Renyi said, “is a machine for turning coffee into theorems”.The world’s mathematicians might soon be n"
-publishedDateTime: 2021-12-02T00:01:00Z
-originalUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt"
-webUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt"
+excerpt: "DeepMind, the UK-based artificial intelligence company backed by Google’s parent company, Alphabet Inc, has developed a program that can help mathematicians spot patterns. It has already led to ..."
+publishedDateTime: 2021-12-02T11:00:00Z
+originalUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt?shareToken=bb133333581b31a70da05562c8e5cf05"
+webUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt?shareToken=bb133333581b31a70da05562c8e5cf05"
 type: article
 quality: 48
 heat: -1
@@ -200,6 +200,6 @@ related:
         height: 397
         isCached: true
 
-secured: "osBSintqZAfqrmnvYJysIaj5cPSGDX9wzZlXsegVSXkh5iGuzzwyIjid8FHUXiowilq0/HNSCST3nB9wu9G0S5sEGNQ6ZFJTu4nA14dz8OtBE9j3vdqgINVRmuLKlcCBXLwDzkLhLABzAbLRkpEdbYkeBhSveiEqWgHO5hqq+GDI7XlC4k5PEL1d47SxGxx4+hgO+e8EklzoaxHL73ea3AaGyaYnnVaYF4rwiWxuWJkhxU/H0oZzKLDqns7i73cS7ioyihZbz3DrLfbrACLIOjM6PkT7nOqGeqo/X/hff+4PsfwYZS2wVE8781aTG9TLpk8Lp228MQof3LNcmtbqr82KIsWA0bFaDLYGtgvh5Eew8eDQhLh/lIiIJAR/xlxvuVNjeG6WFSJJv4s9R3AbOs7G9EXEHsfiVC/FWhuszJpCHbb+Nv14vr+4xwIzqAkymtiFeZBHR6mrE77i7u7gFeJRVZxUdq+rOOkzVitzvs1/StWZc46Jg7N+fOYudLu7XpoGpstWeyFD0eW9iaWC0Q==;JH4JrZNKXJNMYcf8sxBlZQ=="
+secured: "qb5JZ+6HkWgoCzl4Ce1iz+SCRRwg/S9Jg72OHZdaEMOXy7v6o+LZHCAdgWIcobsC4pWB23kpXNjqPKwxV1KGwPWV7sMIVjYGZq8Yg6CNP/HImr5/gMhilapBiaeZp2zlc21IG6W+/Cf7CYrCZE8Tg3bzDiPaW5BYaRk/NM+M7B+GMBQ8EFm1Pesa/cUhVo+MIC2kTxI1SwGbGfkPBhTEbwbmMqFzZf0PH83UGN6otzhLfdjLG18n1QX/tiEbn/GiCPlGBHyvn0RJsrtR5Xq1o3/OvFT7y217xF8yre38729wxdYiZSjTsuEJadlGyUVqnkakw/3BwDs93aa3RW7QNYBWx7pK7LzCBvaidXJyP58=;NhKx2/ZCfhUDqvCOxS7FtA=="
 ---
 

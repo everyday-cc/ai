@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 401,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,9 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI in Finance",
+        "AI Hardware"
       ]
     },
     {
@@ -115,7 +117,7 @@
       "originalUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 302,
+      "heat": 292,
       "tags": null,
       "images": [
         {
@@ -801,50 +803,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-30-aws-pitches-robotics-as-the-next-big-thing.md",
-      "title": "AWS pitches robotics as the next big thing",
-      "excerpt": "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
-      "originalUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/7aaca86652042fcb618061ebd565670c_M.jpg",
-          "width": 375,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-30-aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program.md",
       "title": "AWS targets the energy industry with launch of the AWS Energy Competency Program",
       "excerpt": "Amazon today announced a new program that will formally identify AWS Partners who develop specialized solutions aimed at the energy industry. The new AWS Energy Competency Program, as it’s called, will identify these specialized partners who have already demonstrated the technical expertise",
@@ -905,7 +863,7 @@
       "originalUrl": "https://www.lelezard.com/en/news-20132061.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1098,6 +1056,50 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-massrobotics-announces-aws-robotics-startup-accelerator.md",
+      "title": "MassRobotics Announces AWS Robotics Startup Accelerator",
+      "excerpt": "AWS Robotics Accelerator to scale robotics startups focused on automation and IIOT BOSTON, MA / ACCESSWIRE / November 29, 2021 / MassRobotics has announced a new Amazon Web Services, Inc. (AWS) Robotics Startup Accelerator to address the biggest challenges in the automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm",
+      "originalUrl": "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T05:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR-Inside",
+        "domain": "pr-inside.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
       ]
     },
     {

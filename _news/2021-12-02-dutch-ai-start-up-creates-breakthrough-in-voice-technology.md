@@ -35,22 +35,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "The Tecno way of winning AI camera technology race for future"
-    excerpt: "Step into the TAIVOS Imaging Lab to learn about the cool technology behind Camon 18’s clear and steady, advanced AI Camera"
-    publishedDateTime: 2021-11-29T06:05:00Z
-    webUrl: "https://www.philstar.com/lifestyle/2021/11/29/2144584/tecno-way-winning-ai-camera-technology-race-future"
-    ampWebUrl: "https://www.philstar.com/lifestyle/gadgets/2021/11/29/2144584/tecno-way-winning-ai-camera-technology-race-future/amp/"
-    cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/lifestyle/gadgets/2021/11/29/2144584/tecno-way-winning-ai-camera-technology-race-future/amp/"
-    type: article
-    provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 57
-    images:
-      - url: "https://media.philstar.com/photos/2021/11/29/taivos-labtecno_2021-11-29_11-53-05605_thumbnail.jpg"
-        width: 686
-        height: 392
-        isCached: true
   - title: "Artificial intelligence to advance energy technologies"
     excerpt: "Titled “Infusing theory into deep learning for interpretable reactivity prediction,” their paper in the journal Nature Communications details a new approach called TinNet — short for theory-infused neural network — that combines machine-learning algorithms and theories for identifying new catalysts."
     publishedDateTime: 2021-11-30T16:16:00Z

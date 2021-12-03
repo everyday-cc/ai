@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/life/18408/scientists-create-living-robots-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1"
 type: article
 quality: 89
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -104,6 +104,22 @@ related:
       - url: "https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmpvZS5jby51a1xcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMVxcXC8zMDE1MTkyMVxcXC9Sb2JvdHMucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP2lkPTBhODk3NjFkMGEzYzZmNTFmN2Q2XCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAzY2NkMzdmMmFiOGU4OTFmMDNkZGQ5OGVhMjQyNTg3NmMyNGE0ODUifQ==/robots.png"
         width: 647
         height: 340
+        isCached: true
+  - title: "Robots made from living cells learned how to replicate themselves"
+    excerpt: "Xenobots, which are \"living robots\" made of frog cells, are simple robots that can move autonomously in a petri dish. When scientists added more cells to the dish, the xenobots pushed them together to form new xenobots."
+    publishedDateTime: 2021-12-03T22:11:00Z
+    webUrl: "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6271598"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 59
+    images:
+      - url: "https://i.cbc.ca/1.6272805.1638559444!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/xeno-headline.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "VIDEO: Living Robots Made From Frog Cells Can Now Self-Replicate, Scientists Say"
     excerpt: "By Martin M Barillas A team of scientists reports they have discovered a new form of biological reproduction and have applied it to create the world’s"

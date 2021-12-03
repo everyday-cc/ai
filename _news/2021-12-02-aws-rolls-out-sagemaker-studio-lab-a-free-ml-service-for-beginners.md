@@ -74,6 +74,22 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Amazon launches SageMaker Canvas for no-code AI model development"
+    excerpt: "Learn more During a keynote address today at its re:Invent 2021 conference, Amazon announced SageMaker Canvas, which enables users to create machine learning models without having to write any code."
+    publishedDateTime: 2021-11-30T18:27:00Z
+    webUrl: "https://venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/"
+    ampWebUrl: "https://venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/2018-03-08t180745z_2_lynxnpee271pp_rtroptp_4_france-business-e1569258361231.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "AWS updates SageMaker for faster machine learning deployments"
     excerpt: "The new tools and capabilities will make it faster and cheaper to label data, train machine learning models, and deploy models for inference."
     publishedDateTime: 2021-12-01T20:39:00Z
@@ -100,20 +116,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa5933cafd39f832c92b71%2F0x0.jpg%3FcropX1%3D18%26cropX2%3D572%26cropY1%3D0%26cropY2%3D312"
         width: 554
         height: 312
-        isCached: true
-  - title: "Roundup of re:Invent 2021 Amazon SageMaker announcements"
-    excerpt: "At re:Invent 2021, AWS announced several new Amazon SageMaker features that make machine learning (ML) accessible to new types of users while continuing to increase performance and reduce cost for data scientists and ML experts. In this post, we provide a summary of these announcements, along with resources"
-    publishedDateTime: 2021-12-01T18:35:47Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/roundup-of-reinvent-2021-amazon-sagemaker-announcements/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/01/Sagemaker_Thumbnail_12.01.21.jpg"
-        width: 800
-        height: 451
         isCached: true
   - title: "Create and manage Amazon EMR Clusters from SageMaker Studio to run interactive Spark and ML workloads – Part 1"
     excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps required to prepare data, as well as build, train, and deploy models. We recently introduced the"
@@ -143,6 +145,22 @@ related:
         width: 736
         height: 630
         isCached: true
+  - title: "AWS Announces Six New Amazon SageMaker Capabilities"
+    excerpt: "Amazon SageMaker Canvas expands access to machine learning by providing business analysts the ability to generate more accurate machine learning predictions using a point-and-click interface—no coding required Amazon SageMaker Ground Truth Plus offers a ..."
+    publishedDateTime: 2021-12-01T23:33:00Z
+    webUrl: "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities/"
+    ampWebUrl: "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities/amp/"
+    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities/amp/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 74
+    images:
+      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "AWS introduces flurry of new AI tools for Amazon SageMaker"
     excerpt: "Organizations using Amazon Web Services Inc.’s Amazon SageMaker platform to build artificial intelligence models now have access to a wealth of new features that will make machine learning projects simpler in several ways."
     publishedDateTime: 2021-12-01T21:49:00Z
@@ -171,15 +189,6 @@ related:
         width: 930
         height: 520
         isCached: true
-  - title: "Amazon launches SageMaker Canvas for no-code AI model development"
-    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net At its re:Invent 2021 conference, Amazon announced SageMaker Canvas, a no-code development tool ..."
-    publishedDateTime: 2021-12-01T02:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development-10798678"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
   - title: "AWS brings point-and-click to machine learning"
     excerpt: "Amazon Web Services has announced six new capabilities for its machine learning (ML) service, Amazon SageMaker, that make it more accessible and cost effective."
     publishedDateTime: 2021-12-02T08:21:00Z
@@ -236,15 +245,6 @@ related:
         width: 333
         height: 285
         isCached: true
-  - title: "AWS Announces Six New Amazon SageMaker Capabilities"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."
-    publishedDateTime: 2021-12-02T09:36:00Z
-    webUrl: "https://www.financialbuzz.com/aws-announces-six-new-amazon-sagemaker-capabilities/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 34
   - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
     excerpt: "Lightspin, the multi-layer cloud security platform that prioritizes and remediates critical vulnerabilities across hybrid cloud and"
     publishedDateTime: 2021-12-02T13:30:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.pr-inside.com/massrobotics-announces-aws-robotics-star
 webUrl: "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 141
+published: true
 
 provider:
   name: PR-Inside
@@ -26,31 +26,91 @@ images:
     isCached: true
 
 related:
-  - title: "Robotics startup FJDynamics raises $70M to make manual labor easier"
-    excerpt: "FJDynamics, founded by DJI’s former chief scientist Wu Di, just closed a Series B round of $70 million as it advances its goal to empower workers in the harshest environment with robotic technologies."
-    publishedDateTime: 2021-11-29T05:41:00Z
-    webUrl: "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/"
-    ampWebUrl: "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/"
+  - title: "AWS pitches robotics as the next big thing"
+    excerpt: "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations"
+    publishedDateTime: 2021-11-30T14:55:00Z
+    webUrl: "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 119
+      name: ITWire
+      domain: itwire.com
+    quality: 71
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/2421637834861_.pic_hd-e1638163752386.jpg?w=823"
-        width: 823
-        height: 438
+      - url: "https://itwire.com/media/k2/items/cache/7aaca86652042fcb618061ebd565670c_M.jpg"
+        width: 375
+        height: 213
         isCached: true
-  - title: "MassRobotics Announces AWS Robotics Startup Accelerator"
-    excerpt: "Robotics Startup Accelerator to address the biggest challenges in the automation, robotics, and industrial internet-of-things (IIoT) industries. MassRobotics is helping to create and scale the next generation of successful robotics and connected devices companies by providing entrepreneurs and innovative robotics startups with the workspace and resources they need to develop,"
-    publishedDateTime: 2021-11-29T20:05:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2021/11/29/massrobotics-announces-aws-robotics-startup-accelerator/17874/"
+  - title: "AWS Introduces A New Platform For Developing Robotics Applications"
+    excerpt: "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together."
+    publishedDateTime: 2021-12-02T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 51
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Amazon Launches Preview of AWS IoT RoboRunner for Better Robotic Fleets"
+    excerpt: "Now available in public preview, at no additional cost, AWS IoT RoboRunner aims to simplify fleet app development and management."
+    publishedDateTime: 2021-11-30T18:58:00Z
+    webUrl: "https://www.hackster.io/news/amazon-launches-preview-of-aws-iot-roborunner-for-better-robotic-fleets-4857781e98c9"
+    ampWebUrl: "https://www.hackster.io/news/amazon-launches-preview-of-aws-iot-roborunner-for-better-robotic-fleets-4857781e98c9.amp"
+    cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/amazon-launches-preview-of-aws-iot-roborunner-for-better-robotic-fleets-4857781e98c9.amp"
+    type: article
+    provider:
+      name: Hackster
+      domain: hackster.io
+    quality: 59
+    images:
+      - url: "https://hackster.imgix.net/uploads/attachments/1379809/image_nrYONkldZg.png?auto=compress%2Cformat"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "The 10 Coolest Robotics Startups Of 2021"
+    excerpt: "The robotics industry is one of revolution, as startups develop new autonomous robots to increase the efficiency of human workers or perhaps free them for tasks that are less dangerous or that add value to a business."
+    publishedDateTime: 2021-11-30T19:10:00Z
+    webUrl: "https://www.crn.com/slide-shows/mobility/the-10-coolest-robotics-startups-of-2021"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/026f-13d90a4b9997-a7f882416c5e-1000/robotics-startups-2021.jpg"
+        width: 610
+        height: 458
+        isCached: true
+  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
+    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services ( News - Alert ),"
+    publishedDateTime: 2021-11-30T14:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/11/30/9501580.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
+    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services, Inc."
+    publishedDateTime: 2021-12-01T08:55:00Z
+    webUrl: "https://www.financialbuzz.com/workato-joins-aws-partner-network-and-is-a-launch-partner-for-ai-for-data-analytics/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 30
+  - title: "Enzolytics Announces Progress As It Recognizes World AIDS Day"
+    excerpt: "COLLEGE STATION, TX / ACCESSWIRE / December 2, 2021 / Enzolytics wishes to recognize and acknowledge World AIDS Day - a day to call attention to the continued need for a more effective treatment for HIV,"
+    publishedDateTime: 2021-12-02T22:08:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/12/02/enzolytics-announces-progress-as-it-recognizes-world-aids-day"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 19
 
 secured: "v6rr5G7LyTIDxrNYmankQ+Kb6Xq4nnHfZjbjmiJ5y1vD5bLYEY/RtGqF78/c98+3PgFQIKk2lNCSErM7cx9APYgxJ5nfgIDun2w3II/A0vDCdVmF8I5o1f9SUEraOtZ35SUXraqkRPIwH2UUriQBflH6oQO8/9jvipTSeKWLFSBNTlKNWNKxLBUQ2WJmZOLHzb4PCpNss0lQtsdRm0paAPJU4xJQDNnPLArYEBFLj0E2E4kOwdXUtc87znZfEInTsi/WQgY1O/CVxAdyns/6aLP3eAKy+bkARea/3SGLKfoot7C9GTSRMEH5slJuJ//nBkD/2YcZdeDlVDpgIuK6uWJWZmCoj+ayq0+e38SmlVI=;ONRiD2qZIStcS9sLoaLx3w=="
 ---

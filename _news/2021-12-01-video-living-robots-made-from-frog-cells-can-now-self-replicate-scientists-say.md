@@ -121,6 +121,22 @@ related:
         width: 647
         height: 340
         isCached: true
+  - title: "Robots made from living cells learned how to replicate themselves"
+    excerpt: "Xenobots, which are \"living robots\" made of frog cells, are simple robots that can move autonomously in a petri dish. When scientists added more cells to the dish, the xenobots pushed them together to form new xenobots."
+    publishedDateTime: 2021-12-03T22:11:00Z
+    webUrl: "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6271598"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 59
+    images:
+      - url: "https://i.cbc.ca/1.6272805.1638559444!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/xeno-headline.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Scientists made tiny xenobots out of frog cells. Now they say those robots can reproduce."
     excerpt: "Using artificial intelligence, the xenobots were able to replicate themselves using a process not seen in humans or any other animals."
     publishedDateTime: 2021-11-30T15:46:00Z

@@ -36,6 +36,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How to take advantage of Microsoft 365's AI meeting Scheduler"
+    excerpt: "Can a computer plan your meetings for you over email? See how Scheduler for Microsoft 365 uses AI to handle this tedious chore."
+    publishedDateTime: 2021-12-03T20:54:00Z
+    webUrl: "https://www.techrepublic.com/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/12/03/62a79d85-7901-4b4a-a2dd-d91b0ee8db8c/resize/1200x/ee03377875167bd67e3d988e0d938258/shutterstock-1680627343.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Mindtree achieves AI and Machine Learning on Microsoft Azure advanced specialization"
     excerpt: "Mindtree announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partners deep knowledge, extensive experience and proven success in enabling customer adoption of AI and implementing Azure solutions for machine learning life cycle and AI-powered apps."
     publishedDateTime: 2021-12-01T21:37:00Z

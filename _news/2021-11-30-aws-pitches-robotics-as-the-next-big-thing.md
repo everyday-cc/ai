@@ -7,8 +7,8 @@ originalUrl: "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thin
 webUrl: "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html"
 type: article
 quality: 71
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: ITWire
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "MassRobotics Announces AWS Robotics Startup Accelerator"
+    excerpt: "AWS Robotics Accelerator to scale robotics startups focused on automation and IIOT BOSTON, MA / ACCESSWIRE / November 29, 2021 / MassRobotics has announced a new Amazon Web Services, Inc. (AWS) Robotics Startup Accelerator to address the biggest challenges in the automation,"
+    publishedDateTime: 2021-11-29T13:48:00Z
+    webUrl: "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 71
+    images:
+      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AWS Introduces A New Platform For Developing Robotics Applications"
     excerpt: "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together."
     publishedDateTime: 2021-12-02T11:30:00Z
@@ -40,51 +54,62 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Is Data-First AI the Next Big Thing?"
-    excerpt: "We are roughly a decade removed from the beginnings of the modern machine learning (ML) platform, inspired largely by the growing ecosystem of open-source"
-    publishedDateTime: 2021-11-29T08:15:00Z
-    webUrl: "https://www.datanami.com/2021/11/29/is-data-first-ai-the-next-big-thing/"
+  - title: "Amazon Launches Preview of AWS IoT RoboRunner for Better Robotic Fleets"
+    excerpt: "Now available in public preview, at no additional cost, AWS IoT RoboRunner aims to simplify fleet app development and management."
+    publishedDateTime: 2021-11-30T18:58:00Z
+    webUrl: "https://www.hackster.io/news/amazon-launches-preview-of-aws-iot-roborunner-for-better-robotic-fleets-4857781e98c9"
+    ampWebUrl: "https://www.hackster.io/news/amazon-launches-preview-of-aws-iot-roborunner-for-better-robotic-fleets-4857781e98c9.amp"
+    cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/amazon-launches-preview-of-aws-iot-roborunner-for-better-robotic-fleets-4857781e98c9.amp"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
+      name: Hackster
+      domain: hackster.io
+    quality: 59
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/ml-circle_500px.png"
-        width: 500
-        height: 500
+      - url: "https://hackster.imgix.net/uploads/attachments/1379809/image_nrYONkldZg.png?auto=compress%2Cformat"
+        width: 900
+        height: 506
         isCached: true
-  - title: "AWS Supports Roche in Harnessing the Power of Health Data at Scale"
-    excerpt: "(NASDAQ: AMZN), announced that the Roche Group (SIX: RO, ROG; OTCQX: RHHBY) is using AWS for the majority of its cloud workloads to help Roche extract greater value from its health data. The company uses AWS capabilities in high performance computing,"
-    publishedDateTime: 2021-11-30T16:55:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20211130-aws-supports-roche-in-harnessing-the-power-of-health-data-at-scale/"
+  - title: "The 10 Coolest Robotics Startups Of 2021"
+    excerpt: "The robotics industry is one of revolution, as startups develop new autonomous robots to increase the efficiency of human workers or perhaps free them for tasks that are less dangerous or that add value to a business."
+    publishedDateTime: 2021-11-30T19:10:00Z
+    webUrl: "https://www.crn.com/slide-shows/mobility/the-10-coolest-robotics-startups-of-2021"
     type: article
     provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 39
+      name: CRN
+      domain: crn.com
+    quality: 54
     images:
-      - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1638259608/press_release/assets/company_logos/AWS_logo_RGB_fyojsl.png"
-        width: 400
-        height: 400
+      - url: "https://www.crn.com/resources/026f-13d90a4b9997-a7f882416c5e-1000/robotics-startups-2021.jpg"
+        width: 610
+        height: 458
         isCached: true
-  - title: "AWS Supports Roche in Harnessing the Power of Health Data at Scale"
-    excerpt: "Roche uses AWS cloud capabilities to facilitate research collaboration, deliver new diagnostic technologies, and unlock insights from health data."
-    publishedDateTime: 2021-11-30T09:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211129005490/en/AWS-Supports-Roche-in-Harnessing-the-Power-of-Health-Data-at-Scale"
+  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
+    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services ( News - Alert ),"
+    publishedDateTime: 2021-11-30T14:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2021/11/30/9501580.htm"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-  - title: "Meta picks AWS as long-term strategic cloud provider"
-    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-02T07:52:00Z
-    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
+  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
+    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services, Inc."
+    publishedDateTime: 2021-12-01T08:55:00Z
+    webUrl: "https://www.financialbuzz.com/workato-joins-aws-partner-network-and-is-a-launch-partner-for-ai-for-data-analytics/"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 30
+  - title: "Enzolytics Announces Progress As It Recognizes World AIDS Day"
+    excerpt: "COLLEGE STATION, TX / ACCESSWIRE / December 2, 2021 / Enzolytics wishes to recognize and acknowledge World AIDS Day - a day to call attention to the continued need for a more effective treatment for HIV,"
+    publishedDateTime: 2021-12-02T22:08:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/12/02/enzolytics-announces-progress-as-it-recognizes-world-aids-day"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
     quality: 19
 
 secured: "C7QVlBqyg0I30i8were4igVsqQcma6IkzVvwn+uWceUhdNKRlzZN3KBKODrqDwzyOSu50wHXpEKe+lL49OJzKQdEBPdKLEobG6Zf0nw8fam7EFgMWNXkM1hpl5mEnnykVJNnlWXTCpkIFjGwd+VgS4s6y21OVAVtu669AUdWlJul/6QB2QtKmqB3dvjr+dRWcNiCOBZx3eQbDhXlYAkVlZAGMUmQCP0JUZ/+Nd0x1jScYI0BghJt9b/VTKOQ7vIPvKIqVkqEN6ycC+occ3rb8Ut875ofuyok8JypeTgi0aPPpX/d8Z1NWLsMS+7OkB76lC44Nanl2P4Tt8JQopz8S9ePf2ys5VLgWay0VCBdp0w=;+rAM7tyidaL2VDTcrScuDQ=="

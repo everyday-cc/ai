@@ -2,6 +2,102 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-11-10-singapore-launches-national-ai-programme-in-finance.md",
+      "title": "Singapore launches national AI programme in finance",
+      "excerpt": "The programme is a joint initiative by the Monetary Authority of Singapore (MAS) and the National AI Office (NAIO) at the Smart Nation and Digital Government Office (SNDGO). It aims to build deep AI capabilities within Singapore's financial sector to strengthen customer service,",
+      "sourceUrl": null,
+      "webUrl": "https://en.dangcongsan.vn/world-events-and-comments/news/singapore-launches-national-ai-programme-in-finance-586590.html",
+      "originalUrl": "https://en.dangcongsan.vn/world-events-and-comments/news/singapore-launches-national-ai-programme-in-finance-586590.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://en.dangcongsan.vn/DATA/3/IMAGES/2021/11/BTA_KK101121SGLA.jpg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T18:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dangcongsan.vn",
+        "domain": "dangcongsan.vn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage.md",
+      "title": "Li Ka-Shing-Backed AI Startup Founder Targets Electric Vehicles, Growth Amid Global Chip Shortage",
+      "excerpt": "Albert Liu founded San Diego-based AI startup Kneron in 2015. Since then, it has raised more than $100 million in funding from investors including Alibaba, Foxconn and Hong Kong billionaire Li Ka-shing's Horizons Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6182e7f21c5eaa7c4fe42480%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D868%26cropY1%3D0%26cropY2%3D579",
+          "width": 868,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/amp/",
+      "publishedDateTime": "2021-11-09T15:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-lawmakers-come-for-facebook-algorithm-with-filter-bubble-bill.md",
       "title": "Lawmakers come for Facebook algorithm with 'filter bubble' bill",
       "excerpt": "Facebook's algorithm sucks, and Congress wants to do something about it. A bipartisan group of lawmakers is pushing forward what it's titled the \"Filter Bubble ... the bill is aimed at the heart ...",
@@ -1084,99 +1180,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-youcom-wants-to-remake-the-search-engine.md",
-      "title": "You.com wants to remake the search engine",
-      "excerpt": "The service abandons the linear list of links you’ll find in most general-purpose search engines, opting for a grid of answers organized by source. The sources include generic categories like “web results” and “news” but also specific sites like StackOverflow,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/11/9/22770614/you-salesforce-startup-search-engine-privacy-information-control",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/youcom-wants-to-remake-the-search-engine/ar-AAQv26d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/uTsSQ3wjiiMElU_L0KUDjCtV0qo=/0x0:3106x2650/1400x933/filters:focal(1305x1077:1801x1573):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70116185/Billie_Eilish.0.png",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/11/9/22770614/you-salesforce-startup-search-engine-privacy-information-control",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/9/22770614/you-salesforce-startup-search-engine-privacy-information-control",
-      "publishedDateTime": "2021-11-09T06:24:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2021/11/9/22770614/you-salesforce-startup-search-engine-privacy-information-control",
-        "domain": "theverge.com/2021/11/9/22770614/you-salesforce-startup-search-engine-privacy-information-control",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience.md",
-      "title": "Four Use Cases For AI Voicebots That Help Improve The Retail Customer Experience",
-      "excerpt": "Let’s take a look at four voice automation use cases that can drive human-centric customer experiences and higher ROI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6189318020bdaaea69582562%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/09/four-use-cases-for-ai-voicebots-that-help-improve-the-retail-customer-experience/amp/",
-      "publishedDateTime": "2021-11-09T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

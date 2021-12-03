@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20132061.html"
 webUrl: "https://www.lelezard.com/en/news-20132061.html"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -61,14 +61,23 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-    excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS’s proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-02T08:38:00Z
-    webUrl: "https://www.financialbuzz.com/meta-selects-aws-as-key-long-term-strategic-cloud-provider/"
+  - title: "Meta picks AWS as long-term strategic cloud provider"
+    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-02T07:52:00Z
+    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
+    publishedDateTime: 2021-12-01T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 19
 
 secured: "0pFpsQh/M9bWU5jgISB5S19fzzLbhQGm0bSS+FJWqN7U8P8Akog9VLrDdyl8wrdhBx+3wl1x9d+U3PQLZYQYoGJ9voccsSEGU7NOmTNobL1xl39hE1/0eGG+mrz7pAhALQ3+U2QfTICqAFbuwgzf4yg3algIuCw7HMV45p0jC2Te5GqMrOfNO0cOv8mEvgsaMM+L0mg7RrmKn4P88eKDprkDdCLqU0wOyFwEQBBTE/oJJaH2rAjhjXs/Fy6rLwBbfZ+Tuz2Oza5tENasqcUOtDt+WcbPN1NWxUvnHsvLslWtaJz6/c2ASd1CUyk/lBgad0YZiPMppxzXx3xOQUkKihQZVrDaxw9Zr0Yeff/CXkI=;4+2lEsDrZ/tO6xJNOQaOmw=="

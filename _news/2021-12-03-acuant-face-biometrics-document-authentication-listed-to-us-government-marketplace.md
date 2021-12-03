@@ -98,19 +98,14 @@ related:
         height: 600
         isCached: true
   - title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-    excerpt: "SEOUL, South Korea, Nov. 30, 2021 /PRNewswire/ -- Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was ..."
-    publishedDateTime: 2021-12-01T03:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global/article_8d56ac87-fd29-530e-be70-858a99697cbb.html"
+    excerpt: "Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was finalized last month, a year after the series A funding of USD 6."
+    publishedDateTime: 2021-12-01T03:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 11
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/65/56589c66-3508-55a4-9074-5d6ade084b55/61a6db942facd.image.jpg"
-        width: 800
-        height: 314
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 19
 
 secured: "qauFZ5JNl/W3CNV6m0RSBIdXs3nyrhKlSwpaRX+G+TBY6Z0QqKCZBjj77nCa+ep1XxfyFvXbGMHpfrTmdHltVX3ix2GnPEld7YpCPfuNedGioPTIUwS+cHuZnzlDyzgJ1DMUzrKUkbloToPBrwScYW2uU2FciRUyp5fg3E/jn2ajGcCPs0nAlSOnFUJWpGEZ1aVwDNTdJWq8SFrGVI6BmXCILlU0hKQofoGnkbZLSse2QyjYFTGsBwjGznTZ9Z2QuTM7N1Cggpc82uRmUyFodd4WXojxX6v11jKKPfibJjh65k9Vp5bf3ryOroDbxsB5diHpbFeuIXKNqtbgK1gtsS5aEx8i80OdqR9uhzNlTwuTdeD8UKFHg+KGIU/LhoMSaq0RcjTLakTtsYNFvLR3hdUHM3HNWGx7ybPlxuDAslUprY85sppxdFNSZAQXb210/t56FsbhLDA4tg11QCtPrfzISea9m3q9bujOnnIBweNk5TZBT+OelS9FFUVIaJ4OTvgLjtYLGTyWJN3sfFzMaw==;ph1gxaPJw2Xn+2glE06Eeg=="
 ---

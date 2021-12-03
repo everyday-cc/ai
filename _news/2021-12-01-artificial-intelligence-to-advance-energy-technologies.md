@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "The Tecno way of winning AI camera technology race for future"
-    excerpt: "Step into the TAIVOS Imaging Lab to learn about the cool technology behind Camon 18’s clear and steady, advanced AI Camera"
-    publishedDateTime: 2021-11-29T06:05:00Z
-    webUrl: "https://www.philstar.com/lifestyle/2021/11/29/2144584/tecno-way-winning-ai-camera-technology-race-future"
-    ampWebUrl: "https://www.philstar.com/lifestyle/gadgets/2021/11/29/2144584/tecno-way-winning-ai-camera-technology-race-future/amp/"
-    cdnAmpWebUrl: "https://www-philstar-com.cdn.ampproject.org/c/s/www.philstar.com/lifestyle/gadgets/2021/11/29/2144584/tecno-way-winning-ai-camera-technology-race-future/amp/"
-    type: article
-    provider:
-      name: philstar.com
-      domain: philstar.com
-    quality: 57
-    images:
-      - url: "https://media.philstar.com/photos/2021/11/29/taivos-labtecno_2021-11-29_11-53-05605_thumbnail.jpg"
-        width: 686
-        height: 392
-        isCached: true
   - title: "Artificial Intelligence and Networks Advanced Naval Technology Exercise"
     excerpt: "BigBear.ai announced on Wednesday that the company placed first in the Artificial Intelligence and Networks Advanced Naval Technology Exercise (“AINetANTX”) Artificial Intelligence (“AI”) Prize Challenge hosted by the Naval Information Warfare Systems Command ExecutiveGov,"
     publishedDateTime: 2021-12-01T21:37:00Z

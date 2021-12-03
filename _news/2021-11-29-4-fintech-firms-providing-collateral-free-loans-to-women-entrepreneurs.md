@@ -41,20 +41,6 @@ related:
         width: 688
         height: 860
         isCached: true
-  - title: "EarlyBirds Draws Attention To How Fintech And Insurtech Are Disrupting These Industries"
-    excerpt: "Open innovation ecosystem EarlyBirds is helping businesses in the Fintech and Insurtech industries benefit from the innovations in their respective"
-    publishedDateTime: 2021-11-29T05:10:00Z
-    webUrl: "https://www.digitaljournal.com/pr/earlybirds-draws-attention-to-how-fintech-and-insurtech-are-disrupting-these-industries"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 16
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/11/Brazil-football-crash-survivor-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "Zy8m0xjMwkO8MqDwxadVmJ6EdgvINzN66YDLdG1yflsz6r9QEN7T3CTxLiRhj1spD7zOKb87fBUcuIcZvuueVabTMCmSaCp3oy4KrsDHEl5ugpGKYIjlbPYPBYlDZxq7IUrZPVMuZYLdSr2+m12XjiAce6BUR9u97peXWypVxmGCZnOTpJXOTPPpIl2rRhzZ0AwAYUa99i6CLQFvMxQD9reWI4lQ+jxYdQFZE8lEXCNDkFA57dSKRSBCtos+w009XXnWam/4ianxn0S2qbktmwU/UXC00FBgw9rk0BuukfsUcHs1kxnC3RM/sBjTJnx3vPIWmzTE6T9qQ1jTJCW3kWuY88PH79BL3r8VEV3tNX7sYETOFnsCnjO2TQlK7ZxkcwEXmTUVqxzIZir0Sd/A3nw9gEtiaCAXFCfF/UKiCJelGKahyuUpcc0h0B19nJhENsSBntF6q7kPHeOPKEmTbaPD9OQtfpxhHvZFIUH3HOEwFONra3S7rDQ1seBkN0Jn0LleNsD9QKcy2X8kUvJ5SQ==;ftNI1urekcX7kXXSL4rqDA=="
 ---

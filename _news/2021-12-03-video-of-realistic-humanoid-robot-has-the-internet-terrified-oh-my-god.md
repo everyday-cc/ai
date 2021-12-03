@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766?amp=1"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/nR6b7dxQwo/sizes/ameca-1920_resize_md.png"
         width: 744
         height: 419
+        isCached: true
+  - title: "Meet Ameca, the Humanoid Robot With Eerily Realistic Facial Expressions"
+    excerpt: "Okay, we know that most humanoid robots are designed to mimic human motion and interaction. But Ameca, the new machine developed by robotics company Engineered Arts, takes that to a new level. It can move and put on facial expressions that look incredibly natural and real – too real."
+    publishedDateTime: 2021-12-03T20:26:00Z
+    webUrl: "https://www.autoevolution.com/news/meet-ameca-the-humanoid-robot-with-eerily-realistic-facial-expressions-175714.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 39
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/meet-ameca-the-humanoid-robot-with-eerily-realistic-facial-expressions-175714_1.jpg"
+        width: 1269
+        height: 580
         isCached: true
   - title: "Video: Here’s the most realistic ‘human’ robot on the planet revealed in new video"
     excerpt: "Stunning video of a hyper-realistic “humanoid” robot that looks like it stepped straight out of a science fiction movie circulated the internet this week. Engineered Arts, which describes itself as the UK’s leading designer and manufacturer of humanoid entertainment robots,"

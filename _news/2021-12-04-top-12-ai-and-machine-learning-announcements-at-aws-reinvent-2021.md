@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-annou
 ampWebUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
 type: article
-quality: 121
-heat: 401
+quality: 125
+heat: 405
 published: true
 
 provider:
@@ -24,6 +24,8 @@ topics:
   - Machine Learning
   - AI
   - AWS AI
+  - AI in Finance
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all"
@@ -79,6 +81,20 @@ related:
       - url: "https://images.techhive.com/images/idgnsImport/2015/08/id-2958856-reinvent_2015_03_keynote_1-100601984-large.jpg?auto=webp&quality=85,70"
         width: 700
         height: 466
+        isCached: true
+  - title: "Roundup of re:Invent 2021 Amazon SageMaker announcements"
+    excerpt: "At re:Invent 2021, AWS announced several new Amazon SageMaker features that make machine learning (ML) accessible to new types of users while continuing to increase performance and reduce cost for data scientists and ML experts. In this post, we provide a summary of these announcements, along with resources"
+    publishedDateTime: 2021-12-01T18:35:47Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/roundup-of-reinvent-2021-amazon-sagemaker-announcements/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/01/Sagemaker_Thumbnail_12.01.21.jpg"
+        width: 800
+        height: 451
         isCached: true
   - title: "AWS Announces Scholarship Program For Their AI And ML courses"
     excerpt: "Students who take part in the DeepRacer Student League will be eligible for a chance to win 2,500 annual scholarships from Udacity,"
@@ -326,15 +342,6 @@ related:
         width: 1577
         height: 1050
         isCached: true
-  - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
-    publishedDateTime: 2021-12-01T18:34:00Z
-    webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible-2/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 35
   - title: "The Future of Artificial Intelligence, Cloud Computing, and Digital Twins: Highlights from AWS re: Invent 2021"
     excerpt: "Invent celebrated its 10th year this year by welcoming visitors back to an in-person event, following last year’s fully virtual event. It also marked the 15th anniversary of the launch of Amazon Web Services itself."
     publishedDateTime: 2021-12-02T13:33:00Z
@@ -419,6 +426,6 @@ related:
       domain: publicnow.com
     quality: 4
 
-secured: "Co2iDtqVXI6A4Hj7LfTAKa6+T1vIHPZadXJiq1uFARTQh4+ceoELcN7aPCS9ePtkngiHgm5C4jDQgxgbDzYR4afsQd/Tv/hlcDdfSanCi+RYgZIbT3spQ9EMHWtTjiBUVsRbiRsi2ktX9sjfIziFXYnxYsxRQonuvYd9dc4gFOMVjH1BYelB+vUq+KjiYrE1xxKL8p9cg2+OrjAGgCuMN5LK0RVSxpR3kQeKMBKfVZ6bOj3mQ5jZ+XGoQB7QnPlxccqJ0P6S22SGoOs/yO530rBlH3jetDlb8G741Ju3Z7SLihfJ1ZtwLvEu/3asV7s+/MuYnkTRV8ZPiNlY/OkKlaLLMI42tiNm56aEk8z1hrA=;c/8PmmAKpK4zNMqIlUNTGQ=="
+secured: "13xabmWbNM5Pa/QpG4Z0eczB65IMKHbp+MLIyV462XBS2OQ/5nr0fycqX3HxUVk1UyMnzN+iKAva24Pz16Sg5F01VZ92oFgB4ABgs3RBtpQMP6zMTEmddywOCU3r5v/tfnH1Ak4LmeGJI5VglhjhIZC6wntD9gkmKbii+IN0RnBuWZBGKCvPzSaNcR4YfPpONgBi1jRhuyCriCFWrvgH797a16L1B4eufM2p80pbgJIDXDr0NRZ3YNA7kwIqIpQyb5Sne0SotWS+Jx/bI9FM8XBSp+ZC/ZEL045zSqE295Hc23Jsv9qflt7QMCMCgldtl/2ZU4a/omgdmMucPLIfhpv/VPUUr5jlEKbm5LZBuoubCXDw0C6TUMjATF35hfcKRPPtZjqf/Z4gSjoDW1KPd+0eIEzSylTEb+5WhW2IbZmDES5lRhVoSpuGcCNJKlNegwqpfVVN1oMtMDMaoI5iMrBroqrtz2QVUB/5sDg6nlUxnO2d67DmkICq76kbpkcP/QZo3i/fiEdmPvHL/3Ervw==;Juu6r5gpFO4rqfjVWIoXIw=="
 ---
 

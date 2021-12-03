@@ -2,9 +2,9 @@
 category: news
 title: "Artificial Intelligence Ethics Agreement adopted by 193 countries"
 excerpt: "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled."
-publishedDateTime: 2021-11-26T07:09:00Z
-originalUrl: "https://www.bna.bh/en/National/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d"
-webUrl: "https://www.bna.bh/en/National/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d"
+publishedDateTime: 2021-11-26T07:07:00Z
+originalUrl: "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d"
+webUrl: "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 452
     isCached: true
 
-secured: "bU60Thbu8CK6adWqJQnUo91GjdorSIcHeJm99HIKcF9YFsJ8LEYiIHSF0OjN7AwQ02A5dxCQbIhjzkisZr0QDi2BflAMKBqahq6MWFUkVx7yxqaWBFlP2ENiTfKdmLkwJmJHJ4Z+HGxv2hLPz6LydfOf20PdRdeSpNQbflli72vSN9WvFClXCPCoAh6DeeGXD3pVkSKyES4iKgUw+IwTbMDVSbXWR9bklBXbjZM+KEuvJuBbw7zOWugbl6LcXbuGSIDO02L8j/HFmgc/a0ZfaHqEkPZRf5VP/BcjSW1b0H+e2MVBBXfGkxUwDSUOR8ciCX7uI5/JHOYUyghQ30bYMZ8+DaZPjyqDNurjdCkaPY4=;bU7bsXX+F1LkboUFknBZ1g=="
+secured: "DoAE7+7W7dhhZR+q+vGHUU2zGZD1MCQj9WFLW9SFtmw6Z2rUcWGayUzo0bpxHnKaMR2tl+bn/6HbD1df3WDYB94sggF2yb5JJbb9TtVsRls1ECIYlFa6nO4gJXW2CD54ZDoNw06mL6Y8Vx3dfWiLhXCnpRf63s7zut6E0fg8XSlLYT0ceb2Kd1yzIPMVQHPc9w4Zw2pIzqA2fuZ9qsHDRdSR+JoT2uoPZ1jj0VbdqpINRpnreN3jC1a1cm9iFstVj9YhQnAw0Q1MWuh2+tyEsStNYn68L9sH27JXmSp5EBAA3pEowPjl3GUwPgjeMa14N2FrEuqssFJ4u+/P6yH3/uGXWKVch5gEMqVu8G9SIIw=;C9yZ9OEJTc0AkhJSuS5YnA=="
 ---
 

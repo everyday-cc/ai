@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24399161"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24399161"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
-    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services ( News - Alert ),"
-    publishedDateTime: 2021-11-30T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/11/30/9501580.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
-    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services, Inc."
-    publishedDateTime: 2021-12-01T08:55:00Z
-    webUrl: "https://www.financialbuzz.com/workato-joins-aws-partner-network-and-is-a-launch-partner-for-ai-for-data-analytics/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 30
   - title: "S&P Global Market Intelligence launches Artificial Intelligence-enabled Document Analytics functionality on S&P Capital IQ Pro platform"
     excerpt: "S&P Global Market Intelligence has launched an Artificial Intelligence-enabled (AI) workflow tool on S&P Capital IQ Pro that enables users to search across and extract relevant insights quickly and efficiently from textual content."
     publishedDateTime: 2021-11-30T17:19:00Z
@@ -59,15 +41,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone"
-    excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone - regardless of skill level and expertise - to ask data questions in plain language and instantly receive the answer in Yellowfin."
-    publishedDateTime: 2021-12-03T14:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-yellowf-launches-guided-natural-language-query-making-true-/2021/12/03/9504439.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
   - title: "Digital Transformation 2021: 5G Technology and Solutions for IoT, Artificial Intelligence in Big Data Analytics and IoT, Digital Twins Market Sizing a"
     excerpt: "G, AI, Big Data Analytics, Blockchain, Cloud and Mobile Edge Computing, Connected and Wearable Devices, Cybersecurity, Digital Twins, Identity Management, IoT, Robotics, Smart Cities, Teleoperation and Virtual Reality\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-12-03T09:26:00Z

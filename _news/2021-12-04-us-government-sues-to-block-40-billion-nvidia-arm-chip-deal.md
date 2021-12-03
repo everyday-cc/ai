@@ -2,19 +2,19 @@
 category: news
 title: "US government sues to block $40 billion Nvidia-Arm chip deal"
 excerpt: "The Federal Trade Commission has sued to block graphics chip maker Nvidia’s $40 billion purchase of chip designer Arm."
-publishedDateTime: 2021-12-03T19:43:00Z
-originalUrl: "https://www.thenewstribune.com/news/business/article256295257.html"
-webUrl: "https://www.thenewstribune.com/news/business/article256295257.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/business/article256295257.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article256295257.html"
+publishedDateTime: 2021-12-03T21:00:00Z
+originalUrl: "https://www.kentucky.com/news/business/article256295257.html"
+webUrl: "https://www.kentucky.com/news/business/article256295257.html"
+ampWebUrl: "https://amp.kentucky.com/news/business/article256295257.html"
+cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article256295257.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: Lexington Herald Leader
+  domain: kentucky.com
 
 topics:
   - AI Hardware
@@ -77,6 +77,6 @@ related:
         height: 576
         isCached: true
 
-secured: "FC4cf+Zp6Cp1F8Kyfyu5uGPxsPrfTu3wiY8kjsSXMB/2YAT/SF465fvUjXQ9p6t5Ow4gehBXtOPFMyv3iYtGriQ0nU9QR2ORniXjD0AZL863vdmLEFZygss5tHJysO+ArMbDzr73y724JYt6VRkBSoDEG2e18judVENnR3xQDcwbgZwmGA95rwHrIBPlDHGD0ldWvw35tMsBVB/TSatsGTEcu6u/7jP3p3QJopizFjHTASAUxy2RhmoY3CZv4CsNZl3mvlAJ6pDhKER2KvdUyK2xWGSRv+oqu9ROUFSXLd898ky5hpzCPOZ2LD21JFRSk41whNEW22qbqUCknVaAY49s8ne3rEd80C/YEKxQK8DzCzOWMDAg/RGeD2HdcnODvt9NGk6eWIZT03UsHbUbP2IpV09uGKWNBpjdliy0aDSP8UTPTTR8NoV0WRvgbsMQNRcoTSfvQ6SLGYK6G8Xz6kJWxUvrjxNSTgV9b7tGT5oklOD0Re4Z970uDQJFei55p7wO0+xEuR9+Au7IrWl1xg==;VrZRI5BY9MWkWajt2n/whQ=="
+secured: "8lxFuPcflPzWCPl8vtkfv2fL4fbdTZZuuSppQa2qkJ018TC1dy/F7319PP+nvRKIpAu99Ftw70n9gQht26XHLYXPUlNWx3lACk2XsCAl6F5gt++i4oGHkNGDwGLGo39WLSjaKqnR4oU06qXGcqcY+OdDhvwDnffqJ9vShvruQ5doc1VinPtWGfS8uoex26voqDRadW8Iuf424BU6j2qLTTybMs2SoBAiYu42RJpMW+kCOoLBAGS+NxZ9IETj8HhDct7k0CTOrnr1YyzTLGJIuj48kijO+8Kz7NY7fjx4hQLZIok0/60gB2tomI958vvysWmfKa7Ww0xCkMwZ4ahWqhwm2js4LndbVldE5J3t3DX+QG1hTIo7iUWnjkvUgYBOh8nvSDzH7AI707en0Pl8k6WUMTtJqdcR495RMKzsBzlNlAX9dxnshKe3uK4d5d8ak5R9f0pr/tbLeDWZi5riUwmJ1GuuTIt9yyqoqhYjJico/HD3aiv0k4REcWeNdVmj6B/fY0vPn5cJRCSKWiaLAA==;b4QkfmA6alGeBg6AYoZMDw=="
 ---
 

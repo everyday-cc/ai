@@ -68,14 +68,14 @@ related:
         isCached: true
   - title: "US government sues to block $40 billion Nvidia-Arm chip deal"
     excerpt: "The Federal Trade Commission has sued to block graphics chip maker Nvidia’s $40 billion purchase of chip designer Arm."
-    publishedDateTime: 2021-12-03T19:43:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article256295257.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article256295257.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article256295257.html"
+    publishedDateTime: 2021-12-03T21:00:00Z
+    webUrl: "https://www.kentucky.com/news/business/article256295257.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article256295257.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article256295257.html"
     type: article
     provider:
-      name: News Tribune
-      domain: thenewstribune.com
+      name: Lexington Herald Leader
+      domain: kentucky.com
     quality: 39
 
 secured: "DY+WtjJ7PcQptfDwT8S6aIoJg+G1mm2OCF96lmKolN3MC2Qde0Ht8MMB7pm59uAzWk09Ql04mCynotf1t9aUtxayWXSniEFbVCXMyfddfheW6b9cDIvU10xo1Y1botZjmq33a9umYZFK+6YNLF9NtNHaywCDYz6G1ohavl+1WM59QR/3FWAyBeAOo0/7UmfvOEQKKyZROAQgkBfTQNNzfdukZPGxJ2+QByatXJLG54Fy3uweolf52YTwWP43dV8CkDvtcbPAtvz9WWAXN9PeK6N/llqSCofh1igcS856f+DsHZdsm2MgrQK5jk0K/9mzOVi2rcmIVO6QwN38e7qUJagV4/GeEQ1A3YANozMMCns=;mgWU8lcx/hBPWiRxyvziPg=="
