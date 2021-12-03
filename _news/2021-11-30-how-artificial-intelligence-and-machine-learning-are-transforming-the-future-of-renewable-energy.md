@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
 type: article
 quality: 99
-heat: 239
+heat: 259
 published: true
 
 provider:
@@ -48,6 +48,34 @@ related:
       - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
         width: 300
         height: 300
+        isCached: true
+  - title: "How AI, ML and Motion Planning Testing Are Advancing New Mobility"
+    excerpt: "Leading MIT and CMU professors will share how AI and ML are creating new breakthroughs in autonomous transportation. Attendees will learn the latest research and testing in motion planning behaviors that will enable autonomous mobility companies to safely and efficiently deploy autonomous vehicles"
+    publishedDateTime: 2021-12-03T02:54:00Z
+    webUrl: "https://techcrunch.com/video/how-ai-ml-and-motion-planning-testing-are-advancing-new-mobility/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://img.vidible.tv/prod/2021-12/01/61a7d99b830dda0e7d106e36/61a7da2a5ff8e42f8c0ee97c_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "The Future of Healthcare AI Depends on Data"
+    excerpt: "Artificial intelligence is transforming healthcare across clinical use-cases like radiology and robotic surgery, as well as many other operational applications. Access to high quality data is one of the key components driving technological innovation in healthcare."
+    publishedDateTime: 2021-12-03T02:54:00Z
+    webUrl: "https://techcrunch.com/video/the-future-of-healthcare-ai-depends-on-data/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://img.vidible.tv/prod/2021-12/01/61a7da70830dda0e7d107090/61a7dcf7e162092f936a9abd_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
         isCached: true
   - title: "Using AI with Explainable Deep Learning To Help Save Lives"
     excerpt: "Health systems have been at the epicenter of the fight against COVID-19, and have had to balance the need to alleviate suffering and save lives with substantial financial pressures.\" \"Health systems’ income statements are likely to see negative pressure as a result of the COVID-19 crisis."

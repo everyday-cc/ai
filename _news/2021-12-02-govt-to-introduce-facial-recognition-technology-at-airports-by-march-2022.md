@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recogni
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
 type: article
 quality: 73
-heat: 253
+heat: 263
 published: true
 
 provider:
@@ -138,6 +138,22 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-27938,msid-88049590/facial-recognition-technology-at-4-airports-to-be-introduced-by-march-next-year-centre.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "Govt names 4 airports where it plans to launch facial recognition-based boarding system"
+    excerpt: "Minister of State in the Ministry of Civil Aviation General VK Singh has said that Airports Authority of India is working on Facial Recognition Technology-based Biometric Boarding System, which is expected to be launched in March 2022."
+    publishedDateTime: 2021-12-03T01:30:00Z
+    webUrl: "https://inshorts.com/en/news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 66
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/2_thu/img_1638463653442_403.jpg?"
+        width: 494
+        height: 301
         isCached: true
   - title: "AAI working on India's first facial recognition-based passenger boarding system: Government"
     excerpt: "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government."

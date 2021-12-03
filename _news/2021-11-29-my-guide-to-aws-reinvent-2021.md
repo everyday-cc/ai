@@ -133,6 +133,20 @@ related:
         width: 680
         height: 298
         isCached: true
+  - title: "Media Alert: Intel at AWS re:Invent 2021"
+    excerpt: "As part of Intel's ongoing commitment to keep its employees and communities safe during the COVID-19 pandemic, Intel at AWS re:Invent 2021 will have a fully virtual presence. A custom-built, interactive 3D “City on the Cloud” experience will highlight key activations and track sessions,"
+    publishedDateTime: 2021-11-29T14:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/media-alert-intel-at-aws-re-invent-2021/article_61c634bd-cb2f-54ae-8665-7cc14b1238fb.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 39
+    images:
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
+        width: 350
+        height: 456
+        isCached: true
   - title: "All Eyes on New AWS Boss Selipsky as re:Invent Kicks Off"
     excerpt: "When Jassy left his AWS post to take Jeff Bezos’ old chair at the head of Amazon.com in May, it opened up one of the most visible positions in all of big data and AI. The job went to Selipsky, who was one of Jassy’s lieutenants when AWS launched back in 2007."
     publishedDateTime: 2021-11-29T21:32:00Z

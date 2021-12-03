@@ -22,7 +22,7 @@ related:
   - title: "Netsmart Accelerates AI Healthcare Technology Innovations with Acquisition of Remarkable Health"
     excerpt: "Netsmart announced today it has acquired Remarkable Health, an industry-leading provider of artificial intelligence (AI) technology and software solutions for behavioral health, substance use and human services organizations."
     publishedDateTime: 2021-12-02T20:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-netsmart-accelerates-ai-healthcare-technology-innovations-with-acquisition-/2021/12/02/9504119.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2021/12/02/9504119.htm"
     type: article
     provider:
       name: TMCnet

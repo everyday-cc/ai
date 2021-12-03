@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
-publishedDateTime: 2021-12-01T14:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+excerpt: "Partners with the AI and Machine Learning on Microsoft Azure advanced specialization can give organizations the tools and knowledge to develop AI solutions on their terms, build AI into their ..."
+publishedDateTime: 2021-12-01T10:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434822.html"
+webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434822.html"
 type: article
 quality: 61
 heat: -1
@@ -176,6 +176,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Co9u5FgropJSNGR4uCXtiH/R2ka/lXmUwjnb/gXA9qjaBP36VPyDCoOEHIFalG3pOKWIyMYby328xh2+GVRvuTYQbZhnV3AcMzOrI2Klh93JAnC6daQgWMjoXdeB802xuy55CzZAfRhlnjNWLZahUq/H/7/pCPpnh5emuzXXsJgPb9Gs+e1MQf0wnBdfy4ZT95ntW41W2ktG3KwgoKs9MAD/Im/5mLBattaiy/qD1qXwXa5p9zxOioto/ftclo18ctS/Cnm/+3YJfzQ+8rHuC15eTNlJOHLhMg6d2Pry6GuIkDis+Tzj6yh8lD/aF5RkzXx0yBSYpt12pMzmd76Qdoevc1RfVsJGlQVZmatY+TFTyhDk1TbALqb0rCnolrelpvc++U294szn/7BZ6jXrjt9ny4ss+jfvYYZUC1HBVyjw08yz/K6bd00BWW9yeuStgl9PDZ+eZTIo/x/a0UdGSZQrwveYr//PldxPHOs+tUbR4CTBk2z8rxjjpG/tk21SnFdRhnrrBxFAm6lUfaAPRg==;XvLPpTlSNI3Y+ZAC9kc/0Q=="
+secured: "9jmt+lz/t6Q5Dcj4NBlJE1I+iF+TMfEQohsAy+OuXFTiFltUNbDGuywbUeyLJDavFXBkmhN4eVZjGl9uildKShKSThFgzwPVJwu1bzrNgZ1c1ToJ9Sz/2/Tn/4OBCAnquSfJngVysaS6ffqmFY3UYxxi+VdKoXBzZaOBN3FmRP0Gq+gbnY35Vw6FkiBmfkGM4a91fq/y20ztaSzpt5W7YswB8AAvQ8BEBjZWfkrnbRJSD0jIxg3m+IHDMAeiV7Z3G/Y2orG0Iws/YSGsEgvpFD/2V5vkMYLikfQgnTJHbjYCv6QnfVgK/aVKaoaS/BNX/5DlhsXTe7i8OnRYX5oRBWkbi/nE6WX7GeNVF8nTuPE=;Q7jwnTFSRCrWK5fIpv/8/w=="
 ---
 

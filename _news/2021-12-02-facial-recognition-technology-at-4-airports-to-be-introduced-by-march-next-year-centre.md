@@ -139,6 +139,22 @@ related:
         width: 768
         height: 439
         isCached: true
+  - title: "Govt names 4 airports where it plans to launch facial recognition-based boarding system"
+    excerpt: "Minister of State in the Ministry of Civil Aviation General VK Singh has said that Airports Authority of India is working on Facial Recognition Technology-based Biometric Boarding System, which is expected to be launched in March 2022."
+    publishedDateTime: 2021-12-03T01:30:00Z
+    webUrl: "https://inshorts.com/en/news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 66
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/2_thu/img_1638463653442_403.jpg?"
+        width: 494
+        height: 301
+        isCached: true
   - title: "AAI working on India's first facial recognition-based passenger boarding system: Government"
     excerpt: "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government."
     publishedDateTime: 2021-12-02T13:36:00Z

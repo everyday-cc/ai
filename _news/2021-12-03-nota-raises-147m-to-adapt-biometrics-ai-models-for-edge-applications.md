@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-02T22:56:00Z
 originalUrl: "https://www.biometricupdate.com/202112/nota-raises-14-7m-to-adapt-biometrics-ai-models-for-edge-applications"
 webUrl: "https://www.biometricupdate.com/202112/nota-raises-14-7m-to-adapt-biometrics-ai-models-for-edge-applications"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
@@ -69,20 +70,6 @@ related:
         width: 1100
         height: 734
         isCached: true
-  - title: "Adversarial image attacks could spawn new biometric presentation attacks"
-    excerpt: "New research conducted by the University of Adelaide unveils new security risks connected to adversarial image attacks against object recognition algorithms."
-    publishedDateTime: 2021-12-01T20:25:00Z
-    webUrl: "https://www.biometricupdate.com/202112/adversarial-image-attacks-could-spawn-new-biometric-presentation-attacks"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 23
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/01151845/object-recognition.jpg"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Neurotechnology extends face biometrics to include web service component"
     excerpt: "The facial authentication solution works on web applications for personal devices to serve different biometric authentication purposes."
     publishedDateTime: 2021-12-02T16:46:00Z
@@ -96,34 +83,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/01115107/passive-facial-biometric-liveness-detection.jpg"
         width: 1024
         height: 600
-        isCached: true
-  - title: "Veridas achieves high scores in NIST face and voice biometrics accuracy evaluation"
-    excerpt: "Veridas has scored impressive results in the joint face-and-voice-recognition biometrics evaluation from the National Institute of Standards and Technology."
-    publishedDateTime: 2021-11-29T19:31:00Z
-    webUrl: "https://www.biometricupdate.com/202111/veridas-achieves-high-scores-in-nist-face-and-voice-biometrics-accuracy-evaluation"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/05/06171613/7052BDC7-83B9-4556-BACE-D20ABFE7057B.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "SAFR face biometrics deployed for access control at Japanese construction sites"
-    excerpt: "Thanks to SAFR biometrics, the system automatically registers workers’ attendance and departure while also checking body temperatures for fever symptoms."
-    publishedDateTime: 2021-12-01T22:56:00Z
-    webUrl: "https://www.biometricupdate.com/202112/safr-face-biometrics-deployed-for-access-control-at-japanese-construction-sites"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/01175152/construction-site-japan.jpg"
-        width: 1024
-        height: 512
         isCached: true
   - title: "Acuant face biometrics, document authentication listed to US government marketplace"
     excerpt: "Acuant's biometric authentication and recognition technologies have been approved and released to the FedRAMP marketplace."
@@ -139,7 +98,21 @@ related:
         width: 1173
         height: 697
         isCached: true
+  - title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
+    excerpt: "SEOUL, South Korea, Nov. 30, 2021 /PRNewswire/ -- Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was ..."
+    publishedDateTime: 2021-12-01T03:45:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global/article_8d56ac87-fd29-530e-be70-858a99697cbb.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 11
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/65/56589c66-3508-55a4-9074-5d6ade084b55/61a6db942facd.image.jpg"
+        width: 800
+        height: 314
+        isCached: true
 
-secured: "OHK40h2hozfnTqx5wCfP1JhaBHx6PO4xXpoFbqEeG0X/eRH3Xd8te7c5K4gdi/GnpHNfzRrws6Kb5PTQwt+bCp+560k+PGXwwI2vxQEKz7AKpwssmDmGgboN83O2EqDJlm9p7DuJgC/WwxiLrBZZNZyiMMhEXuEztIANeRQ5Kjxs+53+qdjImXteMWIN/KJN9RbCo9vkiBQlrS8Yyutr1dss6PpSnzlM9klrZ0SgG5o/aVtHTqEWsgz6bfVV6oHoO6jPWEzIof8sQFQa8TnXSsoFHvmnLjgJ0DYunvVhYPkVYnn7JFtvlzk4NV3NoOJ3nGfP5E5/vmfGbDu24wLWIPqcIyFPHgcaZXKR83+KkMg=;B3otYpY0uEs9OfXgisUSfw=="
+secured: "zCR/SdWGF6wzx+DpHy7kqlS593loM/efBnT7aJIdxq0yre3/AYa9xMDuriCS2WBEY9S06ruJkxadM9mbybAwaSKd1b05bjbKZWlx6OcshMNYFtjWS+cVgl+61ogA+9wGIN2I5J21LniJ3Qr6A5TerWumZnrfP4iTJ4hMFIxru4+EAO+8BNdA5fbaK50x9lqU8BiSBs81iBTzc4kJyTZmJG8IeUPZZPedDKNX8ueToywbTnkx0oaEcZmu+Tan8Q9YA66Eq7wq3XDv+gU4swvHDS8pHtHjQomkQ9gMnXbHuKl+q2r2+YL0mDUXMXqTGwFVbSiUTb8XGxhrU3N2v8x5LxH+5Q4PO1wEnGRwh4jrhs/3qp0tdTeHeYT6qJnqKqdZMPkzwWzJJZmRJ6RLpmlBE+bB4KceehZOh/HQ8LAbiUd6zWGmj4JjycovtQhaqYMCuOBnXe/KO13JyNJwWnwKhCKmHlY/Wg4YQvMgk44Rc590iIT/FkqqcZ0k35rmRR/6CwWZb3pzq5Khmo2OauflhQ==;VPw0EtX5MWbFzKEfL9hNpQ=="
 ---
 

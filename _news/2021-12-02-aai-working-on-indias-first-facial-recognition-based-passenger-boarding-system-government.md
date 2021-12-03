@@ -155,6 +155,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Govt names 4 airports where it plans to launch facial recognition-based boarding system"
+    excerpt: "Minister of State in the Ministry of Civil Aviation General VK Singh has said that Airports Authority of India is working on Facial Recognition Technology-based Biometric Boarding System, which is expected to be launched in March 2022."
+    publishedDateTime: 2021-12-03T01:30:00Z
+    webUrl: "https://inshorts.com/en/news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 66
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/2_thu/img_1638463653442_403.jpg?"
+        width: 494
+        height: 301
+        isCached: true
   - title: "Centre introduces unique face recognition technology for pensioners"
     excerpt: "The Central government on Monday introduced a unique face recognition technology for pensioners aimed at bringing ease of living for the retired and t.."
     publishedDateTime: 2021-11-30T03:09:00Z

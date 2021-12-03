@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Spy chief's warning: Our foes are now 'pouring money' into quantum computing and AI"
-    excerpt: "In a rare public speech, MI6 chief warns that hostile states focused on quantum and AI. The rise of technologies like artificial intelligence (AI) and quantum computing is changing the world – and intelligence services must adapt in order to operate in an increasingly digital environment,"
-    publishedDateTime: 2021-11-30T13:13:00Z
-    webUrl: "https://www.zdnet.com/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai/"
+  - title: "Emerging AI Companies Are Driving A Paradigm Shift in ML"
+    excerpt: "Leadership from Cruise and Facebook AI discuss the emergence of AI native companies and the paradigm shift being driven by advances in ML and robotics. Just as web transformed business, then the emergence of mobile and cloud,"
+    publishedDateTime: 2021-12-03T02:54:00Z
+    webUrl: "https://techcrunch.com/video/emerging-ai-companies-are-driving-a-paradigm-shift-in-ml/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 81
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
     images:
-      - url: "https://www.zdnet.com/a/img/resize/64fd1585f18543733a0d67b09d20120e3acbd131/2021/10/28/adc45ef8-776c-4eab-a21f-a311dfcb86ac/20211028-sf-nov.jpg?width=1200&height=675&fit=crop&auto=webp"
-        width: 1200
-        height: 675
+      - url: "https://img.vidible.tv/prod/2021-12/01/61a7d5b4d0cfc04f658ab6fd/61a7d658b3835047bf8f1227_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "The Obstacles and Opportunities of Democratizing AI for Enterprise Companies"
+    excerpt: "Without question, enterprise deployment of artificial intelligence (AI) is positioned for tremendous growth. Published in early 2021, IBM’s Global AI Adoption Index revealed that a third of those surveyed will be investing in AI skills and solutions over the next 12 months."
+    publishedDateTime: 2021-12-02T06:32:00Z
+    webUrl: "https://www.linkedin.com/pulse/obstacles-opportunities-democratizing-ai-enterprise-companies-yu/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 36
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGcFzUSpDCmEQ/article-cover_image-shrink_720_1280/0/1638426003828?e=1643846400&v=beta&t=pmYmwRDXQI3i1j00VY9wGF1hAtqAF-tS_bna7pN7A8c"
+        width: 720
+        height: 720
         isCached: true
   - title: "Announcing the Intelligent Applications Top 40; a New Industry Ranking of the Top Private Companies Building Applications with AI and Machine Learning"
     excerpt: "Today the Intelligent Applications Top 40 (#IA40) was unveiled by Madrona Venture Group. The list of the top private companies building applications that truly incorporate intelligence into how they process data and predict outcomes was voted on by the top 40 venture capital firms investing in this industry,"

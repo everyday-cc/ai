@@ -115,6 +115,20 @@ related:
         width: 680
         height: 298
         isCached: true
+  - title: "Media Alert: Intel at AWS re:Invent 2021"
+    excerpt: "As part of Intel's ongoing commitment to keep its employees and communities safe during the COVID-19 pandemic, Intel at AWS re:Invent 2021 will have a fully virtual presence. A custom-built, interactive 3D “City on the Cloud” experience will highlight key activations and track sessions,"
+    publishedDateTime: 2021-11-29T14:02:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/media-alert-intel-at-aws-re-invent-2021/article_61c634bd-cb2f-54ae-8665-7cc14b1238fb.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 39
+    images:
+      - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
+        width: 350
+        height: 456
+        isCached: true
   - title: "My guide to AWS re:Invent 2021"
     excerpt: "Invent conference has not only become the much anticipated event for customers and partners, but pretty much anyone interested in cloud computing. After the pandemic forced last year’s pilgrimage to Las Vegas to move to a virtual only format,"
     publishedDateTime: 2021-11-28T20:07:00Z

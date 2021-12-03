@@ -35,7 +35,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 80
+    quality: 82
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1028811892.jpg?w=1024"
         width: 1024
@@ -54,6 +54,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-3-1.jpg&signature=196efe9508285abc0c8bab5b6653929b"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Timnit Gebru’s New Research Group Wants to Free AI From Its Corporate Ills"
+    excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."
+    publishedDateTime: 2021-12-03T01:34:00Z
+    webUrl: "https://www.bloombergquint.com/technology/former-google-ethical-ai-researcher-creates-global-nonprofit"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google fired its star AI researcher one year ago. Now she’s launching her own institute"
     excerpt: "Timnit Gebru is launching Distributed Artificial Intelligence Research Institute (DAIR) to document AI’s harms on marginalized groups"

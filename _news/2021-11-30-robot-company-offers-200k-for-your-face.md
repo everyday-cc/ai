@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-f
 cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-Sl7zbvKjbvj7Ba1n.jpg"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Promobot will pay you $200,000 to use your face on its ROBOTS"
-    excerpt: "The firm is giving the brave volunteer a whopping £150,000 ($200,000) in exchange for transferring the rights to use their face indefinitely."
-    publishedDateTime: 2021-11-28T10:14:00Z
-    webUrl: "https://techstory.in/promobot-will-pay-you-200000-to-use-your-face-on-its-robots/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/11/AAR9TX3.jpeg"
-        width: 634
-        height: 424
         isCached: true
 
 secured: "/FxS8juAYQeQFHrKj0HS4VtqdJUKjg/8iUtT6FEazsabf5JILwM1SQ2PYc9bkItuUw84y90jHeLdhq//DjnDo/Lc8yOSQdzwNSt7D9L8XoIX+Si8/m1OdsGNTr4n9Nh8mL9+ALpw4v/wRQyT5R+kzroYg/Pzzou3O7lJo+/Lp/vHgzIMQSYqb9IW+zpF1pNgFud4SagSTcz6NXhaUyowf7gwpqHoe0nCGaK0oZFlOr5aivDkNl1q8DBT8cxJrhNf5MbjrZ0lchB8Gd9exisV8PVrh7MLKur/zWCqHfAq9xKyeV3vqmj9pIsDIMW7t2LiZDiCR0FMDmptsZ+hYqxDVJXaeaAQvysFlLlLmlqxaeFdfHna3L5VI4n4ayn9J/RpxjU7IVfCOm8V6VxTELWSBfWllkuXEF6YOeVXmMc3SYjcQPAHtE8um2zptWQrVTlS+HJChvEVHYmpeD0J3YJnbR+ZZjZv+Q4lr7CEisCjs6jqV+zGejJTimqnjj4omcOs4UNJ5Pbz2iIqzAYDh3xnMg==;ornkaaUMD1tAzKC4SnDd6A=="

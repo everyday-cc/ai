@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/
 ampWebUrl: "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/amp/"
 type: article
-quality: 80
-heat: 110
+quality: 82
+heat: 122
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1028811892.jpg?w=1024"
@@ -49,6 +50,20 @@ related:
     excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."
     publishedDateTime: 2021-12-02T13:34:00Z
     webUrl: "https://www.bloombergquint.com/onweb/former-google-ethical-ai-researcher-creates-global-nonprofit"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 37
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Timnit Gebru’s New Research Group Wants to Free AI From Its Corporate Ills"
+    excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."
+    publishedDateTime: 2021-12-03T01:34:00Z
+    webUrl: "https://www.bloombergquint.com/technology/former-google-ethical-ai-researcher-creates-global-nonprofit"
     type: article
     provider:
       name: BloombergQuint

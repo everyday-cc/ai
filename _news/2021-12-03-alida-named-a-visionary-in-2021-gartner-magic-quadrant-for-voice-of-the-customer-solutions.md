@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "PredictHQ Named a 2021 Gartner® Cool Vendor in 'Data for Artificial Intelligence and Machine Learning' Report"
-    excerpt: "PredictHQ, the demand intelligence company, today announced it has been recognized as a 2021 Cool Vendor in the \"Data for Artificial Intelligence and Machine Learning\" Gartner Cool Vendorstm report by Afraz Jaffri,"
-    publishedDateTime: 2021-12-02T21:24:00Z
-    webUrl: "https://www.lelezard.com/en/news-20138509.html"
+  - title: "PredictHQ Named a 2021 Gartner® Cool Vendor in ‘Data for Artificial Intelligence and Machine Learning’ Report"
+    excerpt: "PredictHQ, the demand intelligence company, today announced it has been recognized as a 2021 Cool Vendor in the “Data for Artificial Intelligence and Machine Learning” Gartner Cool Vendors™ report by Afraz Jaffri,"
+    publishedDateTime: 2021-12-02T20:04:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-fa6f56e2186b85c8510e72ea978fe638"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 37
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Alida Named a Visionary in 2021 Gartner® Magic Quadranttm for Voice of the Customer Solutions"
     excerpt: "Alida, a leader in Total Experience Management (TXM), today announced it has been named a Visionary in the 2021 Gartner Magic Quadrant for Voice of the Customer Solutions. Gartner recognized Alida as one of the 14 global providers for Voice of"

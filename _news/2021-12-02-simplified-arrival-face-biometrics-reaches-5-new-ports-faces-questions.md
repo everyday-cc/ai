@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nota raises $14.7M to adapt biometrics, AI models for edge applications"
+    excerpt: "The technology is important piece of the puzzle when it comes to helping resource-constrained edge devices run applications such as biometric identification."
+    publishedDateTime: 2021-12-02T22:56:00Z
+    webUrl: "https://www.biometricupdate.com/202112/nota-raises-14-7m-to-adapt-biometrics-ai-models-for-edge-applications"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
   - title: "Legal Cases and Privacy Rulings Aim to Curtail Facial Biometrics"
     excerpt: "Decisions in the UK and Australia, and lawsuits in the United States, could force facial-recognition providers to remove data from their machine-learning models."
     publishedDateTime: 2021-11-30T23:00:00Z
@@ -38,20 +52,6 @@ related:
       - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc5cb08894c1db841/61a6a1e261a2a97c7a4fa228/FacialBiometrics_EyeEm_Alamy.jpeg"
         width: 656
         height: 656
-        isCached: true
-  - title: "Nota raises $14.7M to adapt biometrics, AI models for edge applications"
-    excerpt: "The technology is important piece of the puzzle when it comes to helping resource-constrained edge devices run applications such as biometric identification."
-    publishedDateTime: 2021-12-02T22:56:00Z
-    webUrl: "https://www.biometricupdate.com/202112/nota-raises-14-7m-to-adapt-biometrics-ai-models-for-edge-applications"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
-        width: 2048
-        height: 1366
         isCached: true
   - title: "What's Your Hot Take on Biometrics? Add Your Voice to the FindBiometrics Year in Review Survey"
     excerpt: "FindBiometrics, the internet's leading resource for news, interviews and thought leadership in biometrics and digital identity, has launched the 19th Annual FindBiometrics Year in Review Survey, sponsored by NEC,"
@@ -69,20 +69,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Adversarial image attacks could spawn new biometric presentation attacks"
-    excerpt: "New research conducted by the University of Adelaide unveils new security risks connected to adversarial image attacks against object recognition algorithms."
-    publishedDateTime: 2021-12-01T20:25:00Z
-    webUrl: "https://www.biometricupdate.com/202112/adversarial-image-attacks-could-spawn-new-biometric-presentation-attacks"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 23
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/01151845/object-recognition.jpg"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Neurotechnology extends face biometrics to include web service component"
     excerpt: "The facial authentication solution works on web applications for personal devices to serve different biometric authentication purposes."
     publishedDateTime: 2021-12-02T16:46:00Z
@@ -97,34 +83,6 @@ related:
         width: 1024
         height: 600
         isCached: true
-  - title: "Veridas achieves high scores in NIST face and voice biometrics accuracy evaluation"
-    excerpt: "Veridas has scored impressive results in the joint face-and-voice-recognition biometrics evaluation from the National Institute of Standards and Technology."
-    publishedDateTime: 2021-11-29T19:31:00Z
-    webUrl: "https://www.biometricupdate.com/202111/veridas-achieves-high-scores-in-nist-face-and-voice-biometrics-accuracy-evaluation"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/05/06171613/7052BDC7-83B9-4556-BACE-D20ABFE7057B.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "SAFR face biometrics deployed for access control at Japanese construction sites"
-    excerpt: "Thanks to SAFR biometrics, the system automatically registers workers’ attendance and departure while also checking body temperatures for fever symptoms."
-    publishedDateTime: 2021-12-01T22:56:00Z
-    webUrl: "https://www.biometricupdate.com/202112/safr-face-biometrics-deployed-for-access-control-at-japanese-construction-sites"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/01175152/construction-site-japan.jpg"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Acuant face biometrics, document authentication listed to US government marketplace"
     excerpt: "Acuant's biometric authentication and recognition technologies have been approved and released to the FedRAMP marketplace."
     publishedDateTime: 2021-12-02T18:07:00Z
@@ -138,6 +96,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28173912/remote-biometric-onboarding-digital-identity-verification.png"
         width: 1173
         height: 697
+        isCached: true
+  - title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
+    excerpt: "SEOUL, South Korea, Nov. 30, 2021 /PRNewswire/ -- Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was ..."
+    publishedDateTime: 2021-12-01T03:45:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global/article_8d56ac87-fd29-530e-be70-858a99697cbb.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 11
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/65/56589c66-3508-55a4-9074-5d6ade084b55/61a6db942facd.image.jpg"
+        width: 800
+        height: 314
         isCached: true
 
 secured: "L3nLKxgVsxl6SaZ8MmmFpVaQcg4EwDcNsijvpfkVcSFz1lvmWPdbHXDXUD47sC0h5F0JEFDZdAdGAhOKWG8Td8K1cT2CTOowJJkWVwPNfJwSfzEMmXdN4dKlNp4u3zJeOtuKOAOkZwOGGEDuZJhB/fzWNqmhj7Zda/kW0+wlP/uWucvy3gnGysBcE5TRDqQAEsHD68AeiWITOADe2eiYhSgxnQXx1xX/zxF4qbKeTyFbEpJMtvRl97J6UA7XzvItGmrCQt9QX3SmTQOjtiBNM8K/IabtIaoKd0LYSieKd91skv6eNS6hHSC66N2sUPQEk/HXlvT7UDbYMwnb33OKWzLkCTJcUB9dmQVd4xpg0sXlmjYir2E7VbV3t8nA+fjjd+oAAb7pqTEfEmbQ5BMEOWzJe5eoMN18d62iFBG/eP5EmcujrCRNDpBZS3TMQOQzzfGIazO6ZFsUZ75LNK4gPbwvlO8U6p6DmRkr7jLmIoKQ3oZPBrEgszOMzZHI4zmkIJEkAj/7W1Yx1lqRiG006A==;renvzHosBxcGluGiV7RPkA=="
