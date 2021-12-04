@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-trend-demand-top-players-opportunities-and-forecast-2027-2021-11-30"
 type: article
 quality: 68
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -131,17 +131,6 @@ related:
         width: 800
         height: 2000
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size, Key Players, Demands, Trend, Covid-19 Impact Analysis and Forecasts 2021-2025"
-    excerpt: "The global AI in healthcare market is forecasted to record a value of US 22 68 billion in 2025 progressing at a CAGR of 35 59 for the duration spanning 2021 2025 The factors such as rising utilization of robots"
-    publishedDateTime: 2021-11-30T05:22:00Z
-    webUrl: "https://www.openpr.com/news/2478735/artificial-intelligence-in-healthcare-market-size-key"
-    ampWebUrl: "https://www.openpr.com/amp/2478735/artificial-intelligence-in-healthcare-market-size-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2478735/artificial-intelligence-in-healthcare-market-size-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
 
 secured: "ypgYrXy+/1/N8Ql1l5N5bRXcNoqa/6pYlA24DjPNo/cQzutLRjBv7Q5D84ivvWU+/eKQIFe/Sv3Wr7TtyyiL8HiMyBu5Aqut+p2vYUg+BeZaR0heyNPySVcZUAFFtW7INNBEgNgF1ATEdpHlUYdjwxeptrfLleRRKIrUIWMuT0RZXT6feHa5wxBEICu1sHAi82+8JuU3nHYj6kQ3FfpSDFj3NkGC3e6nfT/8oZncfOaK7NkrFb1o4//QXNlJaVfXzc1jvDI6K7/o4/SgcKtk2Zn00RubucihK1ybqnLTdY3Pvb5zd5OaB37ZFxmykIwWRwYZYvlCAIh8AHOXdEmwvS3xJx2PyKTPsOT9t4qoiZA=;YalYonotbAs8BJ4CjeW1Tw=="
 ---

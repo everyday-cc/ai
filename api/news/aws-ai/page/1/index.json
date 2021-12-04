@@ -170,7 +170,7 @@
       "originalUrl": "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -600,7 +600,7 @@
       "originalUrl": "https://www.zdnet.com/article/aws-targets-auto-and-industrial-sectors-with-fleetwise-twinmaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -845,7 +845,7 @@
       "originalUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -991,19 +991,19 @@
     {
       "path": "_news/2021-11-30-aig-selects-aws-as-its-preferred-public-cloud-provider.md",
       "title": "AIG Selects AWS as Its Preferred Public Cloud Provider",
-      "excerpt": "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities.",
+      "excerpt": "Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, (NASDAQ: AMZN), announced that American International",
       "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html",
+      "webUrl": "https://www.marketwatch.com/press-release/aig-selects-aws-as-its-preferred-public-cloud-provider-2021-11-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/aig-selects-aws-as-its-preferred-public-cloud-provider-2021-11-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
-          "width": 300,
-          "height": 250,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1013,12 +1013,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T05:03:00-08:00",
+      "publishedDateTime": "2021-11-30T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

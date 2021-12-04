@@ -25,66 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Study shows how machine learning could improve COVID-19 predictive models"
-    excerpt: "Throughout the COVID-19 pandemic, case rates have ebbed and flowed in ways that have been hard for epidemiological models to predict. A new study by mathematicians from Brown University uses an advanced machine learning technique to explore the strengths and weaknesses of commonly used models,"
-    publishedDateTime: 2021-12-01T20:27:00Z
-    webUrl: "https://techxplore.com/news/2021-12-machine-covid-.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-machine-covid-.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-machine-covid-.amp"
+  - title: "Interviews Of Eminent Female Leaders To Research The Impact Of COVID-19 On Women And How Policies And AI Can Help"
+    excerpt: "The pandemic has dealt a huge blow to women. Progress for women is stalled due to lack of home resources. There is also a deep problem brewing on policy and compensation for women. Now, women, unlike men,"
+    publishedDateTime: 2021-12-04T20:57:00Z
+    webUrl: "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/"
+    ampWebUrl: "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/amp/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 58
+      name: Forbes
+      domain: forbes.com
+    quality: 66
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/digitalnetwo.jpg"
-        width: 1920
-        height: 1357
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61abe2fde345dee117b90539%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2000%26cropY1%3D163%26cropY2%3D1289"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "New system for analyzing thoracic CT scans with deep learning enables COVID-19 lesion detection"
-    excerpt: "A new automated system that involves deep learning technology enables the detection of COVID-19 lesion via the analysis of a computed tomography (CT) scan. This system, described in a study published in the journal Computers in Biology and Medicine,"
-    publishedDateTime: 2021-12-01T21:38:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-thoracic-ct-scans-deep-enables.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-thoracic-ct-scans-deep-enables.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-thoracic-ct-scans-deep-enables.amp"
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
+    publishedDateTime: 2021-12-03T12:21:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5127884-global-artificial-intelligence-ai-in-healthcare-market-research-report-2021-impact-of-covid-19-on-the-market.html"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 47
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/ctscan.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Using Machine Learning to Enhance COVID-19 Prediction Models"
-    excerpt: "Using an advanced machine learning technique, Brown University researchers are exploring how to improve COVID-19 predictive models. “There’s an old saying in the modeling field that ‘all models are wrong,"
-    publishedDateTime: 2021-12-03T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/using-machine-learning-to-enhance-covid-19-prediction-models"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Use_and_Optimization.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "New system powered by deep learning makes it possible to detect COVID-19 lesions by analyzing CT chest scans"
-    excerpt: "A new automated system that involves deep learning technology enables the detection of COVID-19 lesion via the analysis of a computed tomography (CT) scan. This system, described in a study published in the journal Computers in Biology and Medicine,"
-    publishedDateTime: 2021-12-02T17:01:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/936712"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 20
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/02d95561-c911-4518-ba62-c793368db480/Rendition/low-res/Content/Public"
-        width: 700
-        height: 258
-        isCached: true
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 28
 
 secured: "s1C9hzgQYR5Lf6RCFE7hb3o5BJXVr8NYZqr1r/q+TfLtMHAh0ZqHasg+1uBlAyqhNk4oBXX6Id3jUaCMb27u2A6gkNdrORNCKfmZ2bwxMYvmIEfLYWaS8HBi7zY7BUnIbG8BZ9jNMgrKF5iRTH3ixXHqTTKyKBZnzJ+/8z73ISJBEJcgBLWnNZiVzI+AsrWuFw82oO/Vi+fuUU6xctLG6QEuqQE6p4HBQ8zr2xv/Kus1/AkadYcxTZfmAIzWwasHQrDxBA/ksOjPXMCzVc4D/YMKZf4w8RTEWS4La2Jj3BHXkwQXw9A8Ma6oSYnE+9fHImrKHHjSTYDsN+v6oUBdZPWC0Twg6SOZIvtw9c2xRukVLwKjAV6mZvVxaLm2eTI+EpqLHgZxpwXXvhhljaBXCwL688hRsiORZgtHIh4fBnG5Ro/yp2NV4gS0pIibcvLM0RgaeypQBBfHiMHM7831ipl2Pn43tH2qg7UkvhTH9IE3MXFPNnuYmI/DDEb7yztQ2sqjlqa06lGprdLqPBsVCA==;aq8rNeN3hXGmGE4yrO/D5w=="
 ---

@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-01-ai-in-computer-vision-market-share-growth-trend-demand-top-players-opportunities-and-forecast-2027.md",
+      "title": "AI in Computer Vision Market Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast 2027",
+      "excerpt": "Global AI in computer vision Market to reach USD 64.59 billion by 2027. Global AI in computer vision Market is valued approximately USD 12.6 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 26.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-trend-demand-top-players-opportunities-and-forecast-2027-2021-11-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-trend-demand-top-players-opportunities-and-forecast-2027-2021-11-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-europes-ai-act-falls-far-short-on-protecting-fundamental-rights-civil-society-groups-warn.md",
+      "title": "Europe’s AI Act falls far short on protecting fundamental rights, civil society groups warn",
+      "excerpt": "Civil society has been poring over the detail of the European Commission’s proposal for a risk-based framework for regulating applications of artificial intelligence which was proposed by the EU’s executive back in April.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/30/eu-ai-act-civil-society-recommendations/",
+      "originalUrl": "https://techcrunch.com/2021/11/30/eu-ai-act-civil-society-recommendations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-51478187.jpg?w=1024",
+          "width": 1024,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/30/eu-ai-act-civil-society-recommendations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/eu-ai-act-civil-society-recommendations/amp/",
+      "publishedDateTime": "2021-11-30T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-nasdaq-and-aws-partner-to-transform-capital-markets.md",
       "title": "Nasdaq and AWS Partner to Transform Capital Markets",
       "excerpt": "Nasdaq Will Begin Migrating Markets to AWS Starting in 2022 Co-Designed Edge Computing Solution Offers On-Ramp for Global Capital Markets to Migrate to AWS Nasdaq's Primary",
@@ -156,7 +259,7 @@
       "originalUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -297,49 +400,6 @@
         "Microsoft AI",
         "IBM AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad.md",
-      "title": "AI-based fintech firm BridgeWeave opens research lab in Hyderabad",
-      "excerpt": "BridgeWeave, a London headquartered fintech firm that offers retail investors an Artificial Intelligence (AI) constructed portfolio for investment, has opened a ‘lab’ to ‘experiment with cutting edge ideas’ in Hyderabad according to its Founder and Executive Chairman,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/todays-paper/m4m6g6/article37063817.ece/ALTERNATES/LANDSCAPE_615/bl19-hykvk-iiitGK793GH2G3jpgjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece/amp/",
-      "publishedDateTime": "2021-11-30T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {
@@ -534,19 +594,19 @@
     {
       "path": "_news/2021-11-30-aig-selects-aws-as-its-preferred-public-cloud-provider.md",
       "title": "AIG Selects AWS as Its Preferred Public Cloud Provider",
-      "excerpt": "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities.",
+      "excerpt": "Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, (NASDAQ: AMZN), announced that American International",
       "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html",
-      "originalUrl": "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html",
+      "webUrl": "https://www.marketwatch.com/press-release/aig-selects-aws-as-its-preferred-public-cloud-provider-2021-11-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/aig-selects-aws-as-its-preferred-public-cloud-provider-2021-11-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 164,
       "tags": null,
       "images": [
         {
-          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
-          "width": 300,
-          "height": 250,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -556,12 +616,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T05:03:00-08:00",
+      "publishedDateTime": "2021-11-30T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -583,7 +652,7 @@
       "originalUrl": "https://www.research-live.com/article/news/facial-recognition-company-fined-by-ico-following-data-breach/id/5092802",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1123,57 +1192,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2.md",
-      "title": "Using AI To Scrub Image Noise (And Save Money And Time) In The Addams Family 2",
-      "excerpt": "Removing visual noise from visual effects is a big challenge for post-production companies, but a new Intel de-noiser using artificial intelligence saved Cinesite an estimated 20 percent in creating the recently released 'The Addams Family 2' movie.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/",
-      "originalUrl": "https://www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a5675509704b2b0f06c332%2F0x0.jpg",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/amp/",
-      "publishedDateTime": "2021-11-29T15:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

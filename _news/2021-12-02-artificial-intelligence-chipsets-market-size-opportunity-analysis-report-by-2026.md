@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Research Report 2021 Analysis Based on Industry Size, Shares, Trend, Forecast, Drivers, Restraints and Key Players Data by 2027"
-    excerpt: "Global “Deep Learning Market” research report is to provide detailed analysis of current scenario of the market,"
-    publishedDateTime: 2021-11-30T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-2021-analysis-based-on-industry-size-shares-trend-forecast-drivers-restraints-and-key-players-data-by-2027-2021-11-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "3D Printing Sourcing and Procurement Report Forecasts the Market to Have an Incremental Spend of USD 29.41 Billion | SpendEdge"
     excerpt: "During the forecast period, the 3D Printing industry will see an increase in spending of around USD 29.41 billion. However, the majority of this expansion will be driven by only a few regions. Furthermore,"
     publishedDateTime: 2021-12-01T18:40:00Z

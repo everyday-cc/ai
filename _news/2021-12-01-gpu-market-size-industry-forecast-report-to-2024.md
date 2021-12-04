@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-market-size-industry
 webUrl: "https://www.marketwatch.com/press-release/gpu-market-size-industry-forecast-report-to-2024-2021-12-01"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market Research Report 2021 Analysis Based on Industry Size, Shares, Trend, Forecast, Drivers, Restraints and Key Players Data by 2027"
-    excerpt: "Global “Deep Learning Market” research report is to provide detailed analysis of current scenario of the market,"
-    publishedDateTime: 2021-11-30T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-2021-analysis-based-on-industry-size-shares-trend-forecast-drivers-restraints-and-key-players-data-by-2027-2021-11-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

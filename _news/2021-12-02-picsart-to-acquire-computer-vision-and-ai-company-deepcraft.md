@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Picsart to Acquire Computer Vision and AI Company DeepCraft"
-excerpt: "Picsart, the world's leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an undisclosed sum."
-publishedDateTime: 2021-12-02T15:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm"
+excerpt: "Picsart, the world’s leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an undisclosed sum."
+publishedDateTime: 2021-12-02T15:28:00Z
+originalUrl: "https://www.financialbuzz.com/picsart-to-acquire-computer-vision-and-ai-company-deepcraft/"
+webUrl: "https://www.financialbuzz.com/picsart-to-acquire-computer-vision-and-ai-company-deepcraft/"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "cYApRyU5jtc4EJ/8ZL4j41W/KilY5WfQBvGoobOOXnqjgYvXYAs7bMaPqfCcCTZju1gCBOeUfvf1zRsHTYDjr2Skt1e+H8m4Slx0n+wWpk5gnm45/tkLhnnWYzlrvmc0Je1CRj3qwTeQgHnm5HXFNXOsbllTXL7RQlQC8S6bBKzHsWUwnwrmsg+Z/sOICuq8Z+cxOtQU8Mc3PmctFIkAjDWjELPxxHSWBE+NHkRYU5x1sfYbC7DKbtmz2JTsZzegL0igwo/mdrgwpf49fyt+9xdJEbyj+M0JWR1v4F1KY/oFebPCliBwwv/PIYlxDipeg2UluCm0pxgkOH5dR+mec6KmwdZVhe1NQnqWm80FBi5l7drO33JfFd1K/ej80uz6s9JtCxTy7eOP1okq65l/jtecQ0u9u1tIeN3xtFgd8glBIZd1SaPnExDIbunrrgfOFfouVJV4eLoSCzNH15MjWlsybi0QiWCyvCmYVERAHfESJhz5Q2PQRddMKJSG7UDCpXicFSfSovDRJJ0AdoBwMw==;6w+HhM/HhDLHKQU2ikTloQ=="
+secured: "gh4pfoxbEKAg83BEaemwP8otL/krpwxLOTZzgEQYwX48scB9njTap9tqMcrYHmURm50F/5VgUr6Qhfmfj1DyXjo7VnLqj9Od34Gw9sp76z7812fBus7Yup8zphxBKmpbmjLGZHo2aKEkKsdgtj5JhsHmw+Dj7OJPEyivhJw/sUDsDSNpZWXSFlEFfwJi+fOOt80SyWMx/7Ztu65pJsvxo3CqRKhfSYgEMcT7Pv/An+JwkYNZmTW2o63yvoq+IIQLAP1xnRqg/Ni9FExKtBv8xkxc5AWvYfgfJC4cWeDujyzU8rgYP6gF3edvIjEkd9mXi/t6dauzAKAjckt0En3NPIwqWYmsXpOJjbXuJMFGi6lasdBNp/8kRzsHsNven3WVLlGq82jIseoaSbTqISMD4ddCmgUrgL7sWQqXc8g6WlnmMJ72Z0qvzKGPk6GBDkg9vIH2Mmr1ePMdoj8zTRNCbIAr+/0voxgC640subLuigl9EwHl/KpMGIqO8wwe7Tc2wNX+GSBfwwKmOKoNDbA5jw==;2oV4XoJWaxKS42yOXtpwrg=="
 ---
 

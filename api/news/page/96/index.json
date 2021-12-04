@@ -2,6 +2,93 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2021-09-23-the-royal-air-force-launches-first-trial-of-self-driving-technology-on-its-airbases-with-academy-of-robotics.md",
+      "title": "The Royal Air Force Launches First Trial of Self-Driving Technology on Its Airbases With Academy of Robotics",
+      "excerpt": "Academy of Robotics and the Royal Air Force announced a new trial deployment of autonomous vehicles on an airbase as part of the RAF’s Astra campaign to deliver next generation Air Force capability. This trial is the first time that autonomous vehicles have been deployed on a UK airbase by the RAF.",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/the-royal-air-force-launches-first-trial-of-self-driving-technology-on-its-airbases-with/article_6d44f6af-648c-5dae-9e5a-18fdb9af2fc2.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/the-royal-air-force-launches-first-trial-of-self-driving-technology-on-its-airbases-with/article_6d44f6af-648c-5dae-9e5a-18fdb9af2fc2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/assets/v3/editorial/e/05/e05efa5a-7d9c-5e88-8f85-1dc934d5fad8/614c2d534749d.image.jpg?resize=1200%2C607",
+          "width": 1200,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry.md",
+      "title": "Will AI-led automation transform future of workforce for banking, financial services industry?",
+      "excerpt": "India has immense potential to leverage AI and each sector is a huge opportunity in itself as India leaps ahead with Digital Transformation in the coming decade../Representative image | Banking and financial services industry has always been on the forefront in adoption of technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
+      "originalUrl": "https://www.freepressjournal.in/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/2020-05/9490bbbe-3add-411e-a7e5-f05c423c3800/cats.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/will-ai-led-automation-transform-future-of-workforce-for-banking-financial-services-industry",
+      "publishedDateTime": "2021-09-22T23:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-lammiileen-itoophiyaa-dorgommii-robotics-chaayinaatti-godhame-injifatan.md",
       "title": "Lammiileen Itoophiyaa dorgommii 'Robotics' Chaayinaatti godhame injifatan",
       "excerpt": "Salamuun damee 'Industrial robotics and artificial intelligence' jedhuun dorgome. Dorgommiin kun qaama Konfireensii Roobootii idila addunyaa bara 2015'tti eegalee yeroo ta'u, gama 'artificial ...",
@@ -1105,91 +1192,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-a-machine-learning-algorithm-to-target-covid-testing-of-travellers.md",
-      "title": "A machine-learning algorithm to target COVID testing of travellers",
-      "excerpt": "A machine-learning algorithm for targeted testing has been implemented at the Greek border. Automated system allocates COVID tests to people arriving in Greece. Optimizing the testing of incoming travellers for COVID-19 involves predicting those who are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-02556-w?error=cookies_not_supported&code=ff72bed4-9b5d-4dbf-9f17-27e0b691c5d3",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-02556-w?error=cookies_not_supported&code=ff72bed4-9b5d-4dbf-9f17-27e0b691c5d3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02556-w/d41586-021-02556-w_19664468.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-greece-used-ai-to-curb-covid-what-other-nations-can-learn.md",
-      "title": "Greece used AI to curb COVID: what other nations can learn",
-      "excerpt": "Governments are hungry to deploy big data in health emergencies. Scientists must help to lay the legal, ethical and logistical groundwork.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-02554-y?error=cookies_not_supported&code=f43962d3-2a13-4ce9-808b-ac6b8e509e31",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-02554-y?error=cookies_not_supported&code=8f4770f9-ab1c-4cd2-b94a-d51946023835",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-02554-y/d41586-021-02554-y_19678478.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

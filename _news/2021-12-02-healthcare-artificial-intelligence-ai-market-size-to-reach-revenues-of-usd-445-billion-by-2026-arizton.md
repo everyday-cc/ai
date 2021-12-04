@@ -42,22 +42,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Service Robotics Market worth USD 41.49 billion at 15.9% CAGR; Government Investments in AI to Spur Growth: Fortune Business Insights™"
-    excerpt: "The global service robotics market is set to gain traction from the increasing adoption of these robots in a wide range"
-    publishedDateTime: 2021-11-30T05:52:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/g24350090/service-robotics-market-worth-usd-41-49-billion-at-15-9-cagr-government-investments-in-ai-to-spur-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24350090"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24350090"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Mobile Robot Market Size Forecasted to Reach Valuation of USD 117.89 Billion by 2027"
     excerpt: "The global mobile robot market is expected to be valued at USD 117.89 Billion by 2027 from USD 23.48 billion in 2019, registering a CAGR of 23.6% through the forecast period. This growth is attributed to surge in adoption of mobile robots especially across manufacturing plants."
     publishedDateTime: 2021-12-02T10:30:00Z

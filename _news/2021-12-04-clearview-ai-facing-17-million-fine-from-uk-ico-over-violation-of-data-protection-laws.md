@@ -26,37 +26,67 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition company fined by ICO following data breach"
-    excerpt: "The Information Commissioner’s Office (ICO) is to impose a potential fine of just over £17 million on Clearview AI, a company that describes itself as the “world’s largest facial network”."
-    publishedDateTime: 2021-11-30T11:55:00Z
-    webUrl: "https://www.research-live.com/article/news/facial-recognition-company-fined-by-ico-following-data-breach/id/5092802"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico-following-data-breach"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico-following-data-breach"
+  - title: "Clearview AI set to get patent for controversial facial recognition tech"
+    excerpt: "The news comes as facial recognition systems are more and more widely adopted, despite a lack of clear rules regarding their use."
+    publishedDateTime: 2021-12-04T22:53:00Z
+    webUrl: "https://www.cnet.com/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
     type: article
     provider:
-      name: research
-      domain: research-live.com
-    quality: 59
+      name: CNET
+      domain: cnet.com
+    quality: 103
     images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
+      - url: "https://www.cnet.com/a/img/PmacCt62m6rguedMqOMU_w29krg=/1200x630/center/top/2021/12/04/873d4317-cac4-4f75-ba68-7a754df7c5f8/gettyimages-1167845607.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Facial recognition company fined by ICO"
-    excerpt: "The Information Commissioner’s Office (ICO) is to impose a potential fine of just over £17m on Clearview AI, a company that describes itself as the “world’s largest facial network”."
-    publishedDateTime: 2021-11-30T12:09:00Z
-    webUrl: "https://www.research-live.com/article/news/facial-recognition-company-fined-by-ico/id/5092802"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico"
+  - title: "Govt to introduce facial recognition technology at airports by March 2022"
+    excerpt: "Minister of State for Civil Aviation Ministry General V K Singh (retd) said AAI is working on a project of FRT-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports."
+    publishedDateTime: 2021-12-02T09:01:00Z
+    webUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022-11638434344157.html"
+    ampWebUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
     type: article
     provider:
-      name: research
-      domain: research-live.com
-    quality: 59
+      name: Mint
+      domain: livemint.com
+    quality: 73
     images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
+      - url: "https://images.livemint.com/img/2021/12/02/600x338/Airport_1638434633717_1638434633820.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Travelling To Get Easier As AAI To Launch Facial Recognition Technology At 4 Airports"
+    excerpt: "FRT-based Biometric Boarding System is a project that the government has been working on as part of first phase of Digi Yatra Implementation at four airports"
+    publishedDateTime: 2021-12-02T15:35:00Z
+    webUrl: "https://www.republicworld.com/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
+    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
+    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 67
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/mfz2ujc21wxgkppg_1638456981.jpeg"
+        width: 768
+        height: 439
+        isCached: true
+  - title: "facial recognition tech at airports"
+    excerpt: "Trak.in is a popular Indian Business, Technology, Mobile & Startup blog featuring trending News, views and analytical take on Technology, Business, Finance, Telecom, Mobile, startups & Social Media Sp"
+    publishedDateTime: 2021-12-03T06:06:00Z
+    webUrl: "https://trak.in/Tags/Business/facial-recognition-tech-at-airports/"
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 54
+    images:
+      - url: "https://trak.in/wp-content/uploads/2016/02/cropped-Favicon-Square-2016-2.gif"
+        width: 512
+        height: 512
         isCached: true
   - title: "Clearview AI faces potential £17m fine in UK for face recognition breach"
     excerpt: "Clearview AI is like a search engine for people’s faces and its tech has been used by law enforcement in the UK."
@@ -88,47 +118,19 @@ related:
         width: 1688
         height: 1190
         isCached: true
-  - title: "Tech Digest daily roundup: Facial recognition firm facing possible huge fine"
-    excerpt: "A facial recognition firm which claims to have a database of more than 10 billion facial images is facing a potential £17m fine"
-    publishedDateTime: 2021-11-30T11:18:00Z
-    webUrl: "https://www.techdigest.tv/2021/11/tech-digest-daily-roundup-facial-recognition-firm-facing-possible-huge-fine.html"
+  - title: "Consecutive NIST Tests Confirm Superiority of Clearview AI's Facial Recognition Platform"
+    excerpt: "Clearview AI’s facial recognition algorithm again ranks No. 1 in U.S. – tops in 1:N and 1:1 Facial Recognition Vendor Tests (FRVT)."
+    publishedDateTime: 2021-12-02T13:26:00Z
+    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/press-release/21248663/clearview-ai-consecutive-nist-tests-confirm-superiority-of-clearview-ais-facial-recognition-platform"
     type: article
     provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 51
+      name: Officer
+      domain: officer.com
+    quality: 45
     images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2021/11/facial-recognition-feature_1200x675_hero_090418-1024x576-1.jpeg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "UK: Facial recognition company gets USD22.68M privacy fine"
-    excerpt: "An Australian company that asserts to have a database of over 10 billion facial pictures could face a USD22.68 million sanction for its processing of"
-    publishedDateTime: 2021-11-30T14:40:00Z
-    webUrl: "https://menafn.com/1103279930/UK-Facial-recognition-company-gets-USD2268M-privacy-fine"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Media_65.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Facial recognition firm to been fined over its handling of personal data in the UK"
-    excerpt: "It was recently found out that an Australian facial recognition firm faces a potential fine due to its handling of personal data in the UK. Indeed, the Information Commissioner’s Office has reported its concerns about the use of Clearview AI facial recognition software by police forces in the UK."
-    publishedDateTime: 2021-12-01T10:35:00Z
-    webUrl: "https://www.softwaretestingnews.co.uk/facial-recognition-firm-to-been-fined-over-its-handling-of-personal-data-in-the-uk/"
-    type: article
-    provider:
-      name: softwaretestingnews.co.uk
-      domain: softwaretestingnews.co.uk
-    quality: 33
-    images:
-      - url: "https://www.softwaretestingnews.co.uk/wp-content/uploads/2021/12/dave-redfern-6yMnWHFehxQ-unsplash.jpg"
-        width: 640
-        height: 424
+      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/12/16x9/clearviewai.61a8c7950357f.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "ICO fines facial recognition tech company Clearview AI over GBP 17 million"
     excerpt: "The UK Information Commissioner's Office (ICO) has announced a provisional decision to fine facial recognition technology company Clearview AI over GBP 17"

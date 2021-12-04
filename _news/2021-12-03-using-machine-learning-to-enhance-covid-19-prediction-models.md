@@ -57,20 +57,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "How artificial intelligence can fight Long COVID"
-    excerpt: "Clinicians pivoted their AI efforts to engage in the battle against the COVID-19 pandemic. How can it help those with persistent symptoms - \"long COVID\"?"
-    publishedDateTime: 2021-12-01T12:35:00Z
-    webUrl: "https://dataconomy.com/2021/12/how-artificial-intelligence-long-covid/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 39
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/12/how-artificial-intelligence-fight-long-covid.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "New system powered by deep learning makes it possible to detect COVID-19 lesions by analyzing CT chest scans"
     excerpt: "A new automated system that involves deep learning technology enables the detection of COVID-19 lesion via the analysis of a computed tomography (CT) scan. This system, described in a study published in the journal Computers in Biology and Medicine,"
     publishedDateTime: 2021-12-02T17:01:00Z

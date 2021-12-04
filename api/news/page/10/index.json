@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-25-baidu-ponyai-approved-for-robotaxi-services-in-beijing.md",
+      "title": "Baidu, Pony.ai approved for robotaxi services in Beijing",
+      "excerpt": "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp",
+      "publishedDateTime": "2021-11-24T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-baidu-ponyai-get-chinas-green-light-to-charge-for-robotaxis.md",
       "title": "Baidu, Pony.ai Get China's Green Light to Charge for Robotaxis",
       "excerpt": "By Yifan Wang Chinese tech giant Baidu Inc. and Toyota Motor Corp.-backed startup Pony.ai Inc. have received China's first-ever regulatory go-ahead to",
@@ -438,6 +472,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge.md",
+      "title": "IBM and David Clark Cause Crown Saaf Water Winner of 4th Annual Call for Code Global Challenge",
+      "excerpt": "Moved to prevent further suffering in their community and around the world, Saaf Water built a solution using IBM Cloud and IBM Watson services ... technology using AI, blockchain, and cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1225393&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1225393&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1689951/IBM_Saaf_water.jpg",
+          "width": 400,
+          "height": 234,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-24T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -1096,83 +1173,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-apollo-tyres-moves-to-aws-to-enhance-customer-experience.md",
-      "title": "Apollo Tyres moves to AWS to enhance customer experience",
-      "excerpt": "Apollo Tyres, India's largest tyre maker, is moving its entire infrastructure to Amazon Web Services (AWS). To change the customer exper..|News Track",
-      "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newstrack.in/amp/uploads/business-news/economy/Nov/24/big_thumb/appolo_619ddf6e468e4.JPG",
-          "width": 1609,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html",
-      "publishedDateTime": "2021-11-23T22:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health.md",
-      "title": "Securekloud hit the roof after US subsidiary bags document processing contract from Monument Health",
-      "excerpt": "Securekloud Technologies hit an upper circuit of 5% at Rs 136.15 after the company's step-down subsidiary Healthcare Triangle Inc., USA, was selected by Monument Health to automate document processing through readable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/news-cm/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400395_1.html",
-      "originalUrl": "https://www.business-standard.com/article/news-cm/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400395_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/news-cm/securekloud-hit-the-roof-after-us-arm-bags-document-processing-contract-121112400395_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/securekloud-hit-the-roof-after-us-arm-bags-document-processing-contract-121112400395_1.html",
-      "publishedDateTime": "2021-11-23T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

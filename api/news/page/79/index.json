@@ -2,6 +2,100 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-10-06-horizon3ai-named-a-winner-of-the-pitch-2021-by-constellation-research.md",
+      "title": "Horizon3.ai Named a Winner of The Pitch 2021 By Constellation Research",
+      "excerpt": "Horizon3.ai today announced it was named a first-place winner of The Pitch, a new competition for enterprise startups hosted by Constellation Research. The industry wide two-day event brought together startup founders,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/horizon3-ai-named-a-winner-of-the-pitch-2021-by-constellation-research-1030844893",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/horizon3-ai-named-a-winner-of-the-pitch-2021-by-constellation-research-1030844893",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1652459/1st_place_winner.jpg",
+          "width": 711,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-fruitcore-robotics-closes-20m-series-a.md",
+      "title": "Fruitcore Robotics closes $20M Series A",
+      "excerpt": "Fruitcore Robotics plans to expand its engineering, sales and support teams in Europe as it continues to grow.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/fruitcore-robotics-closes-20m-series-a/",
+      "originalUrl": "https://www.therobotreport.com/fruitcore-robotics-closes-20m-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/10/fruitcore-robotics-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-05T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-new-study-from-strategyr-highlights-a-35-billion-global-market-for-artificial-intelligence-ai-in-call-centers-by-2026.md",
       "title": "New Study from StrategyR Highlights a $3.5 Billion Global Market for Artificial Intelligence (AI) in Call Centers by 2026",
       "excerpt": "Companies: 110 - Players covered include Artificial Solutions; Avaamo; Avaya; AWS; Conversica ... Zendesk and Others. Artificial intelligence is playing a vital role in ensuring transformation ...",
@@ -1067,93 +1161,6 @@
       "topics": [
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-tesla-gears-up-to-launch-self-driving-software-but-with-a-catch.md",
-      "title": "Tesla gears up to launch self-driving software but with a catch",
-      "excerpt": "Tesla will monitor driving behaviors before allowing owners to take advantage of its Full Self-Driving software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/",
-      "originalUrl": "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2021/09/Tesla-autopilot.jpg-image620x372.jpg",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1",
-      "cdnAmpWebUrl": "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1",
-      "publishedDateTime": "2021-10-05T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PropertyCasualty360",
-        "domain": "propertycasualty360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-robot-vs-robot-paypal-taps-aiml-in-battle-against-fraudsters-chargebacks-and-passwords.md",
-      "title": "Robot vs. Robot: PayPal Taps AI/ML in Battle Against Fraudsters, Chargebacks and Passwords",
-      "excerpt": "Arthi Rajan Makhija of PayPal discusses how to stay ahead and win the artificial intelligence-machine learning arms race against increasingly well-armed opponents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/",
-      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/Fireside-Chat-with-Arthi-Rajan-Makhija-457x208.png",
-          "width": 457,
-          "height": 208,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/paypal-taps-artificial-intelligence-machine-learning-battle-against-fraudsters-chargebacks-passwords/amp/",
-      "publishedDateTime": "2021-10-05T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

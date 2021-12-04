@@ -153,49 +153,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-30-ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad.md",
-      "title": "AI-based fintech firm BridgeWeave opens research lab in Hyderabad",
-      "excerpt": "BridgeWeave, a London headquartered fintech firm that offers retail investors an Artificial Intelligence (AI) constructed portfolio for investment, has opened a ‘lab’ to ‘experiment with cutting edge ideas’ in Hyderabad according to its Founder and Executive Chairman,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/todays-paper/m4m6g6/article37063817.ece/ALTERNATES/LANDSCAPE_615/bl19-hykvk-iiitGK793GH2G3jpgjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece/amp/",
-      "publishedDateTime": "2021-11-30T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-29-analytixinsight-reports-third-quarter-2021-financial-results.md",
       "title": "AnalytixInsight Reports Third Quarter 2021 Financial Results",
       "excerpt": "Artificial Intelligence company, AnalytixInsight Inc. (\"AnalytixInsight\", or the \"Company\") ( TSX-V: ALY; OTCQB: ATIXF ), reports financial results for the third quarter ended September 30, 2021. AnalytixInsight significantly advanced its AI-driven research distribution agreement with Refinitiv during the quarter,",
@@ -1321,6 +1278,58 @@
         "AI",
         "AI in Finance",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-report-ai-startup-funding-hits-record-high-of-179b-in-q3.md",
+      "title": "Report: AI startup funding hits record high of $17.9B in Q3",
+      "excerpt": "A new report from CB Insights has revealed that global funding in AI startups has seen a surge of 8% to $17.9 billion during Q3 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/",
+      "originalUrl": "https://venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1136448188-e1636397545585.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/report-ai-startup-funding-hits-record-high-of-17-9b-in-q3/amp/",
+      "publishedDateTime": "2021-11-11T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

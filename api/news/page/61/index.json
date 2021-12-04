@@ -2,6 +2,92 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-10-18-finch-capitals-state-of-european-fintech-as-record-amounts-of-capital-is-raised-signs-emerging-that-the-fintech-blast-is-slowing.md",
+      "title": "Finch Capital’s State of European FinTech: as Record Amounts of Capital Is Raised, Signs Emerging That the FinTech Blast Is Slowing",
+      "excerpt": "Few deals drive FinTech volumes, record number of mid-market M&A transactions, but European capital markets remain elusive for FinTech Today Finch Capital issued the 6th edition of its annual State of European FinTech Report for 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/transaction-banking/finch-capitals-state-european-fintech-record-amounts-capital-raised-signs",
+      "originalUrl": "https://financialit.net/news/transaction-banking/finch-capitals-state-european-fintech-record-amounts-capital-raised-signs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/all/themes/fin/img/android-btn.png",
+          "width": 646,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained.md",
+      "title": "What's So Great About Google Tensor? The New Pixel 6 Chip, Explained",
+      "excerpt": "Google made its own chip to power Pixel 6, but what does that mean for you and for Google? We're coming up on the launch of the Google Pixel 6 and 6 Pro, and, for once, there's a pretty significant change to Google's newest smartphone that isn't just a bigger screen or better camera.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained",
+      "originalUrl": "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/article/w/whats-so-g/whats-so-great-about-google-tensor-the-new-pixel-6-chip-expl_umqb.620.jpg",
+          "width": 619,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/25368/whats-so-great-about-google-tensor-the-new-pixel-6-chip-explained?amp=1",
+      "publishedDateTime": "2021-10-17T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-general-availability-livedata-platform-for-azure.md",
       "title": "General Availability – LiveData Platform for Azure",
       "excerpt": "General Availability of LiveData Platform for Azure. Significant step achieved in converting pipeline customers, provid",
@@ -1034,83 +1120,6 @@
       "provider": {
         "name": "Khaleej Times",
         "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-nalsar-chss-to-empower-security-agencies-with-ai-course.md",
-      "title": "NALSAR, CHSS to empower security agencies with AI course",
-      "excerpt": "Hyderabad: The NALSAR University of Law and the Centre for Human Security Studies (CHSS) have joined hands to organise Artificial Intelligence (AI) for Smart Policing. The 3-day Executive Certificate Program (ECP) to All India Police Departments and Central Paramilitary Forces (CISF-CRPF-SSB-ITBP-BSF) and other important law enforcement agencies in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
-      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/10/16/1117482-nalsr.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/nalsar-chss-to-empower-security-agencies-with-ai-course-711189",
-      "publishedDateTime": "2021-10-16T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-self-driving-waymo-cars-gather-in-a-san-francisco-neighborhood-confusing-residents.md",
-      "title": "Self-driving Waymo cars gather in a San Francisco neighborhood, confusing residents",
-      "excerpt": "It was a modern mystery. In a tiny neighborhood in San Francisco's Richmond District, self-driving Waymo cars have been converging at all hours of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.kawc.org/post/self-driving-waymo-cars-gather-san-francisco-neighborhood-confusing-residents",
-      "originalUrl": "https://www.kawc.org/post/self-driving-waymo-cars-gather-san-francisco-neighborhood-confusing-residents",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-16T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KAWA",
-        "domain": "kawc.org",
         "images": null,
         "publishers": null,
         "authors": null

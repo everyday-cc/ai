@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Tiny living Pac-Man robots have learned how to reproduce"
-excerpt: "Whenever we're confronted with aspects of science fiction becoming scientific reality, philosophical questions arise."
-publishedDateTime: 2021-12-04T16:12:00Z
-originalUrl: "https://www.albanyherald.com/news/tiny-living-pac-man-robots-have-learned-how-to-reproduce/article_09b8cd9a-ddc3-5060-9499-c75e9f702929.html"
-webUrl: "https://www.albanyherald.com/news/tiny-living-pac-man-robots-have-learned-how-to-reproduce/article_09b8cd9a-ddc3-5060-9499-c75e9f702929.html"
+excerpt: "By Ashley Strickland, CNN Whenever we’re confronted with aspects of science fiction becoming scientific reality, philosophical questions arise. This week, many were asking this one: What is a robot, really?"
+publishedDateTime: 2021-12-04T22:12:00Z
+originalUrl: "https://localnews8.com/news/2021/12/04/tiny-living-pac-man-robots-have-learned-how-to-reproduce/"
+webUrl: "https://localnews8.com/news/2021/12/04/tiny-living-pac-man-robots-have-learned-how-to-reproduce/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Albany Herald
-  domain: albanyherald.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/2/e0/2e005156-9692-57fe-a8d2-39da9f800395/619f70bd4d51b.image.jpg?crop=1182%2C1182%2C286%2C0&resize=400%2C400&order=crop%2Cresize"
-    width: 400
-    height: 400
+  - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
+    width: 2560
+    height: 1441
     isCached: true
 
 related:
@@ -330,6 +330,6 @@ related:
       domain: nanowerk.com
     quality: 19
 
-secured: "JlUwUS0mHKqh6AjeigPQdCGPG3JB5A+n/Jbpqe5nplf+HYDwQXal4WiicVIuj5sPLtkc+xw9UtLj9qoe6+YLvU0RENkqD7KpX/56tqPQGbwtNCJH196nFnJy5caQ9h+dA4Nb7V30fVC4guVkccvmKaKrPBd8Aplm3Tba2GZZ2Ce0X5TcGUKyKfYGOU3n5BV+BEhTiDnCokvXPVj77+pU8ueaz/bDDGcn/lUvleNWXEsLVPjMkvcqdfzjXYauWI0oiM+E/NhnOP/wsceXkEaAjBDsa6o2OuOwObtldN4MxpCykR1/ApA+/ZcCaGJKU68LAC6h0hmBjS+l4fi4eFovvwz7xwypp5lAlI6o6uUOXP8=;QvPWS95yA3vRs9hTudrWLQ=="
+secured: "y4axcR97jRuWpteJVVBFrAHyNF6NH/rVgy2E4fdnCAbCh5NN/K+l0eCvzfi4I+D6d0SchF2U5U06OoAA69W2/oH+Nsbf38UUVzyd3WDAdVvJdrfq6nlE8oFc/uzDT/9WhVuxQUysQbFhMdqrIx0PFvZnLSQUHU9ps8N8FByNlPDXPpkbJXBMphgECeGiUYs4L/ITXFTWMd8MwNX/ozs1SnI/y1Kob0lzfptLf9ympdXcwZ3KqlXVduvD2KLC0cm2l25C6XFDbAw2j380+Jn6kKR6ja5x+36C8Gg/jDko8qrR9+okGurLSEF8gaRDJTpo6JK45EtMfFVz+sDYnneEbLzEtUpyOa1CAyiOpYx6DiE=;SzVYe+O0fql/nMIJlbsPjA=="
 ---
 

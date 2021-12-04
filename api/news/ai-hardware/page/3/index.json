@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-10-li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage.md",
+      "title": "Li Ka-Shing-Backed AI Startup Founder Targets Electric Vehicles, Growth Amid Global Chip Shortage",
+      "excerpt": "Albert Liu founded San Diego-based AI startup Kneron in 2015. Since then, it has raised more than $100 million in funding from investors including Alibaba, Foxconn and Hong Kong billionaire Li Ka-shing's Horizons Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6182e7f21c5eaa7c4fe42480%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D868%26cropY1%3D0%26cropY2%3D579",
+          "width": 868,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/amp/",
+      "publishedDateTime": "2021-11-09T15:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-new-spiking-neuromorphic-chip-could-usher-in-an-era-of-highly-efficient-ai.md",
       "title": "New Spiking Neuromorphic Chip Could Usher in an Era of Highly Efficient AI",
       "excerpt": "Neurons spike in a time sequence, and it's their basis for wiring up into circuits and hierarchies, allowing highly energy-efficient processing.",
@@ -1387,58 +1439,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-intel-challenges-amd-and-nvidia-with-new-ai-technologies-amid-renewed-developer-commitments.md",
-      "title": "Intel Challenges AMD And NVIDIA With New AI Technologies Amid Renewed Developer Commitments",
-      "excerpt": "Intel renews AI Technologies with Sapphire Rapids CPU and Ponte Vecchio GPUs. But can they do better than AMD and NVIDIA?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6178729f3f1896228c1e3a3e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2687%26cropY1%3D0%26cropY2%3D1512",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/10/27/intel-challenges-nvidia-with-xeon-software-and-gpu-ai/amp/",
-      "publishedDateTime": "2021-10-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

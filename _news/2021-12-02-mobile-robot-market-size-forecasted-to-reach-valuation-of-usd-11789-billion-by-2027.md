@@ -43,22 +43,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Service Robotics Market worth USD 41.49 billion at 15.9% CAGR; Government Investments in AI to Spur Growth: Fortune Business Insights™"
-    excerpt: "The global service robotics market is set to gain traction from the increasing adoption of these robots in a wide range"
-    publishedDateTime: 2021-11-30T05:52:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/g24350090/service-robotics-market-worth-usd-41-49-billion-at-15-9-cagr-government-investments-in-ai-to-spur-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24350090"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24350090"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
     excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI) market report. The healthcare artificial intelligence (AI) market is expected to grow at a CAGR of over 46."
     publishedDateTime: 2021-12-01T16:38:00Z

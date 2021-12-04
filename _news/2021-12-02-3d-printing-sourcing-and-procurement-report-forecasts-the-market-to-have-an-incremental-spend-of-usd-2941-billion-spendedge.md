@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Research Report 2021 Analysis Based on Industry Size, Shares, Trend, Forecast, Drivers, Restraints and Key Players Data by 2027"
-    excerpt: "Global “Deep Learning Market” research report is to provide detailed analysis of current scenario of the market,"
-    publishedDateTime: 2021-11-30T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-2021-analysis-based-on-industry-size-shares-trend-forecast-drivers-restraints-and-key-players-data-by-2027-2021-11-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "7aTsC7m5bKmKCr6dIaSs9T9W1lsZkJrepyhbXeX14Sg4HUh+2H5ap7t4HRpSIRwxo3vEMjBA8GFpydGoBecxBErLRjkBmV9n7V1HKDfiopb7L5DDIdh0y1KuzB9vnSeRQpabl+cqW2Le6bqh50BVrqkohyMy5nJ3uxzqm7hBS/gTRMa7u4w6pfdf7IV1BQecwg8FVVXecp5oWCPkPdBJFDd7uhFmU69BpJCwGRiIh19YKdUZ+xHRaUhkuCl/QAJVmelanW8JHOQqq9V72ppcje4KDLcm976l7CwDkrojSpTD/bxsR1K+XgVl3dTz9Ra+V3rC7iw7tXqC0gzirwJKIWLJSbOuAjHB3MSmWgEW3Xk=;5Wp9+p4XdSBnEML8xfbJvQ=="
 ---

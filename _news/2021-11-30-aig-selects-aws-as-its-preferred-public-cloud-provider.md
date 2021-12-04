@@ -1,27 +1,31 @@
 ---
 category: news
 title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
-excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
-publishedDateTime: 2021-11-30T13:03:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html"
+excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, (NASDAQ: AMZN), announced that American International"
+publishedDateTime: 2021-11-30T13:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aig-selects-aws-as-its-preferred-public-cloud-provider-2021-11-30"
+webUrl: "https://www.marketwatch.com/press-release/aig-selects-aws-as-its-preferred-public-cloud-provider-2021-11-30"
 type: article
-quality: 54
-heat: 94
+quality: 84
+heat: 164
 published: true
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-    width: 300
-    height: 250
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -38,6 +42,34 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "AWS Announces AWS IoT FleetWise"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS IoT FleetWise, a new service that makes it easier and more cost-effective for automakers to collect,"
+    publishedDateTime: 2021-11-30T17:37:00Z
+    webUrl: "https://www.register-herald.com/region/aws-announces-aws-iot-fleetwise/article_92d3edfc-e376-5c27-bb15-49f5a44583cd.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
+        width: 320
+        height: 300
+        isCached: true
+  - title: "AWS Announces AWS IoT TwinMaker"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS IoT TwinMaker, a new service that makes it faster and easier for developers to create digital twins of real-world systems like buildings,"
+    publishedDateTime: 2021-11-30T17:38:00Z
+    webUrl: "https://www.eagletribune.com/region/aws-announces-aws-iot-twinmaker/article_daf87a52-cb4e-57ab-a868-dff09aacecd1.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
         isCached: true
   - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
     excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
@@ -71,7 +103,25 @@ related:
         width: 730
         height: 383
         isCached: true
+  - title: "Meta picks AWS as long-term strategic cloud provider"
+    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-02T07:52:00Z
+    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
+    publishedDateTime: 2021-12-01T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
-secured: "+5BCtyPbobOXa9GAXYlr6rYlq2M5LM4WHn6VUBqBV5oBMouTy8cNibL4WpihsjcEMexbOkaFkT8Oi4OJCJA0GF8GUySZOjImJhl0qI8bMUw8S5TcCLjX3UPwC9nzpQhTFfuBZbItD19TOKhbSD+S+gSViJCR8WMkaGR6a7wZei0P7m3AtYusClSiUeW/MlSsRjAzIg5jymzFRcC9XXFUeiXhkzzFt/yLuBkeaPkr2newCKCvcV9WKRXGVe8a2ZdD0GUX+Drvx22iXOnUtARMWdSYhnum4hT6qM5j/322Udcd7us3YlXUu61hTOf0PiF4LmR+ASad2mTY5vTTPs0Bi9jOrRI6/hYUVIkB+RcVLqfGa82ZrPCpQo+wyhsYK58JXFuALkZSh8c8+OZWxNeV0lB9UNHjSPhKxb+auseXr8Byb50rapI4TFEe1O1qSMgtizjA2P76rIWDLvckWLzAMamQdz/QkNPxJd5TBJd3x6G46QnHmhQjo4z1YrXG9leKw+H8TqvLPSFbDFwpuZ3ZKg==;yEWRdaed4y0OEMjAVV4FUg=="
+secured: "iWx4SuvAKx2bj9avhIFXsA/pmdER0vFMfpIkw9puULUSkg5uHNTGtYAQRt6Fb9pMtEqTwRvibhMkWqCx+XUxVz7RbtM0oVF0LVRtpMu1IwzbJtnPpT1qaGG7kshXJJ0RRvjygicJdf/sABSAA0Npo3/rpTFkfnYVJDNWvnFP2z/4hv1Q4yL58Nb9xw/0SAwLEaJLkhxCcCE3GIQxRbBFTkwsnQUL1az+JZrAdnhGLlSctL4PqRvKfJ+y0Lz3Sp42BPegUXduq/djEZzcWcloLUpqUNBKVg+S/zHOczZarcUCpsTVmv+42aSVcC/B7WStYTAXpgqDzliCOdRkB6i68hEH2YTEaM1xJBJ5ofcC+fA=;qfG9ELSt8SBhcPBmPuPYCA=="
 ---
 

@@ -43,22 +43,6 @@ related:
         width: 760
         height: 443
         isCached: true
-  - title: "Govt to introduce facial recognition technology at airports by March 2022"
-    excerpt: "Minister of State for Civil Aviation Ministry General V K Singh (retd) said AAI is working on a project of FRT-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports."
-    publishedDateTime: 2021-12-02T09:01:00Z
-    webUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022-11638434344157.html"
-    ampWebUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 73
-    images:
-      - url: "https://images.livemint.com/img/2021/12/02/600x338/Airport_1638434633717_1638434633820.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "These 4 Airports To Have Facial Recognition-Based Boarding By March 2022"
     excerpt: "The Airports Authority of India (AAI) was working on the country's first facial recognition technology-based biometric boarding system for passengers at Varanasi, Pune, Kolkata and Vijayawada airports,"
     publishedDateTime: 2021-12-02T13:35:00Z
@@ -123,22 +107,6 @@ related:
         width: 1019
         height: 573
         isCached: true
-  - title: "Travelling To Get Easier As AAI To Launch Facial Recognition Technology At 4 Airports"
-    excerpt: "FRT-based Biometric Boarding System is a project that the government has been working on as part of first phase of Digi Yatra Implementation at four airports"
-    publishedDateTime: 2021-12-02T15:35:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
-    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 67
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/mfz2ujc21wxgkppg_1638456981.jpeg"
-        width: 768
-        height: 439
-        isCached: true
   - title: "Facial recognition technology at 4 airports to be introduced by March next year: Centre"
     excerpt: "Civil Aviation General V K Singh (retd) said FRT has not yet been introduced at any of the airports in India. However, the Airports Authority of India (AAI) is working on a project of FRT-based Biometric Boarding System as part of the first phase of Digi Yatra Implementation at four Airports (Varanasi,"
     publishedDateTime: 2021-12-02T09:53:00Z
@@ -202,20 +170,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-5438,msid-88054686/aviation-.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "facial recognition tech at airports"
-    excerpt: "Trak.in is a popular Indian Business, Technology, Mobile & Startup blog featuring trending News, views and analytical take on Technology, Business, Finance, Telecom, Mobile, startups & Social Media Sp"
-    publishedDateTime: 2021-12-03T06:06:00Z
-    webUrl: "https://trak.in/Tags/Business/facial-recognition-tech-at-airports/"
-    type: article
-    provider:
-      name: Trak.in - India Business Blog
-      domain: trak.in
-    quality: 54
-    images:
-      - url: "https://trak.in/wp-content/uploads/2016/02/cropped-Favicon-Square-2016-2.gif"
-        width: 512
-        height: 512
         isCached: true
   - title: "Korean Facial Recognition Project Faces Opposition"
     excerpt: "It was discovered last month that a South Korean government project has been providing millions of facial images taken at Incheon International Airport to private industry without the consent of"

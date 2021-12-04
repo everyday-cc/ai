@@ -127,17 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size, Key Players, Demands, Trend, Covid-19 Impact Analysis and Forecasts 2021-2025"
-    excerpt: "The global AI in healthcare market is forecasted to record a value of US 22 68 billion in 2025 progressing at a CAGR of 35 59 for the duration spanning 2021 2025 The factors such as rising utilization of robots"
-    publishedDateTime: 2021-11-30T05:22:00Z
-    webUrl: "https://www.openpr.com/news/2478735/artificial-intelligence-in-healthcare-market-size-key"
-    ampWebUrl: "https://www.openpr.com/amp/2478735/artificial-intelligence-in-healthcare-market-size-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2478735/artificial-intelligence-in-healthcare-market-size-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
 
 secured: "lrGGReNUtJgYX0d8H+cJyOqB5MOBe63MQ9W7DPa7ZiFMw+gHqg42mQ2tuVPyhHGRXyZ0p6PASC74VHzcBWMN/DyrgCJOg3rtI7UqJEoxlnrRI23LscP1IuM26g25Q0EQdMnNJBGYTa7izrB10myIwNKDfSisqpB1q0GEZQZg0wl5IOzdLxwtCR6uX5FjFTiDX3P0OJIBaFt//lDW5MwWWt54NLdrh8QA8Rb3p3BeyEpcvfJ3zihcbO2CGLVEPnxh7e3uBKKlBpbjOkgpwuZro7o7+tRQnj8ys7BvZDPuCsgfnB68O0f2kgxT3q169u4uMCcfRr+a8ZyLUUoqD2FdMo3536WEBy4u5PgcYbiKtHE=;+U2zVWKBXQVnkwHslMdtPw=="
 ---

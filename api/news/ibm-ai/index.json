@@ -230,6 +230,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-25-ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge.md",
+      "title": "IBM and David Clark Cause Crown Saaf Water Winner of 4th Annual Call for Code Global Challenge",
+      "excerpt": "Moved to prevent further suffering in their community and around the world, Saaf Water built a solution using IBM Cloud and IBM Watson services ... technology using AI, blockchain, and cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1225393&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1225393&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1689951/IBM_Saaf_water.jpg",
+          "width": 400,
+          "height": 234,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-24T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-ibm-watson-services-market-is-projected-to-be-valued-at-us-446-bn-by-2031-end.md",
       "title": "IBM Watson Services Market is Projected to be Valued at US$ 44.6 Bn by 2031 End",
       "excerpt": "ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams continue working from home. Focus on fast automation, use of real-time operation within various end-use sectors such as automotive,",
@@ -1275,58 +1318,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/amp/",
       "publishedDateTime": "2021-10-25T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches.md",
-      "title": "Four Phases Of Analytics Evolution: From Spreadsheets To AI Workbenches",
-      "excerpt": "Four phases of growth in analytics tech. getty. Many years ago, I went looking for some “desktop AI”—artificial intelligence that would allow me to tease out trends in data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/",
-      "originalUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6174516510646884d19ee044%2F0x0.jpg",
-          "width": 1200,
-          "height": 794,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joelshapiro/2021/10/25/four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches/amp/",
-      "publishedDateTime": "2021-10-25T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

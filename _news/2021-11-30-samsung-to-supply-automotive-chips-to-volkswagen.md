@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung brings three automotive chips for 5G, infotainment. Read details"
-    excerpt: "Samsung has introduced three of its latest automotive chip solutions; the Exynos Auto T5123 for 5G connectivity, the Exynos Auto V7 for in-vehicle infotainment systems and the ASIL-B certified S2VPS01 power management IC (PMIC) for the Auto V series."
-    publishedDateTime: 2021-11-30T05:54:00Z
-    webUrl: "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details-11638251302523.html"
-    ampWebUrl: "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details/amp-11638251302523.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details/amp-11638251302523.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 73
-    images:
-      - url: "https://images.livemint.com/img/2021/11/30/600x338/LSI-Automotive-Solutions_main1_1638251508275_1638251513779.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Samsung introduces three automotive chips for seamless 5G connectivity, vehicle infotainment"
     excerpt: "Samsung brings three automotive chips- Exynos Auto V7, V9, S2VPS01 (PMIC) for in-vehicle infotainment, parking assistance, better 5G connectivity."
     publishedDateTime: 2021-12-01T12:19:00Z

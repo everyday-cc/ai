@@ -2,6 +2,99 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-03-anand-rathi-wealth-ipo-subscribed-over-2-times-so-far-on-day-2.md",
+      "title": "Anand Rathi Wealth IPO subscribed over 2 times so far on Day 2",
+      "excerpt": "Anand Rathi Wealth's initial public offering (IPO) was subscribed more than two times on Friday, the second day of the bidding process. Anand Rathi Wealth shares are available for bidding in a price band of Rs 530-550 in multiples of 27 under the IPO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/8bc5fe03-03b0-4429-807f-60de1ac0293f",
+      "originalUrl": "https://www.cnbctv18.com/market/stocks/anand-rathi-wealth-ipo-listing-anand-rathi-ipo-subscription-update-december-3-gmp-11689562.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8ded48d3-1fc2-468c-99bd-b1e0d8e02b98.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/8bc5fe03-03b0-4429-807f-60de1ac0293f",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8bc5fe03-03b0-4429-807f-60de1ac0293f",
+      "publishedDateTime": "2021-12-02T23:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems.md",
+      "title": "South African crowd-solving startup Zindi building a community of data scientists and using AI to solve real world problems",
+      "excerpt": "Zindi is all about using AI to solve real world problems for companies and individuals. And the South Africa-based crowd-solving startup has done that over the last three years they have been in existence.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
+      "originalUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Zindi-Team-in-Cape-Town-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/",
+      "publishedDateTime": "2021-12-02T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-crores-of-pensioners-to-be-verified-using-uidai-linked-facial-recognition-app.md",
       "title": "Crores of pensioners to be verified using UIDAI-linked facial recognition app",
       "excerpt": "A facial recognition-based app to verify and detect pensioners' liveness has been launched by the Department of Pension & Pensioners’ Welfare.",
@@ -1106,102 +1199,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-smartling-lands-160m-to-help-companies-translate-their-content-automatically.md",
-      "title": "Smartling lands $160M to help companies translate their content automatically",
-      "excerpt": "Smartling, a company providing a mix of AI- and human-powered translation services, has raised $160 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/",
-      "originalUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-3324171_1920-e1631120646603.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/amp/",
-      "publishedDateTime": "2021-12-02T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-you-can-now-get-150000-if-you-let-a-robot-use-your-face-and-voice.md",
-      "title": "You can now get £150,000 if you let a robot use your face and voice",
-      "excerpt": "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "originalUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmhlci5pZVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMlxcXC8wMjEyMTYyNlxcXC9TdHVkaW8tUHJvamVjdC0yMDIxLTEyLTAyVDEyMTYwOC43MDYucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_aWQ9YjZmODRkNjI3YjQxMTRmMDBmNTBcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMmRjMjZjNzA0ZTc4YWE2N2QxMzkzMDY3NmEwODQzZDIxMzY1ZGYyYyJ9/studio-project-2021-12-02t121608-706.png",
-          "width": 647,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "cdnAmpWebUrl": "https://www-her-ie.cdn.ampproject.org/c/s/www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "publishedDateTime": "2021-12-02T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Her",
-        "domain": "www.her.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

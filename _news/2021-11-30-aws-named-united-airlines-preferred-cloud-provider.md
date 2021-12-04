@@ -26,14 +26,42 @@ images:
 
 related:
   - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
-    excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
-    publishedDateTime: 2021-11-30T13:03:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html"
+    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, (NASDAQ: AMZN), announced that American International"
+    publishedDateTime: 2021-11-30T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aig-selects-aws-as-its-preferred-public-cloud-provider-2021-11-30"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AWS Announces AWS IoT FleetWise"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS IoT FleetWise, a new service that makes it easier and more cost-effective for automakers to collect,"
+    publishedDateTime: 2021-11-30T17:37:00Z
+    webUrl: "https://www.register-herald.com/region/aws-announces-aws-iot-fleetwise/article_92d3edfc-e376-5c27-bb15-49f5a44583cd.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
+        width: 320
+        height: 300
+        isCached: true
+  - title: "AWS Announces AWS IoT TwinMaker"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS IoT TwinMaker, a new service that makes it faster and easier for developers to create digital twins of real-world systems like buildings,"
+    publishedDateTime: 2021-11-30T17:38:00Z
+    webUrl: "https://www.eagletribune.com/region/aws-announces-aws-iot-twinmaker/article_daf87a52-cb4e-57ab-a868-dff09aacecd1.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
     images:
       - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
         width: 300
@@ -71,6 +99,24 @@ related:
         width: 730
         height: 383
         isCached: true
+  - title: "Meta picks AWS as long-term strategic cloud provider"
+    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-02T07:52:00Z
+    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
+    publishedDateTime: 2021-12-01T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "0pFpsQh/M9bWU5jgISB5S19fzzLbhQGm0bSS+FJWqN7U8P8Akog9VLrDdyl8wrdhBx+3wl1x9d+U3PQLZYQYoGJ9voccsSEGU7NOmTNobL1xl39hE1/0eGG+mrz7pAhALQ3+U2QfTICqAFbuwgzf4yg3algIuCw7HMV45p0jC2Te5GqMrOfNO0cOv8mEvgsaMM+L0mg7RrmKn4P88eKDprkDdCLqU0wOyFwEQBBTE/oJJaH2rAjhjXs/Fy6rLwBbfZ+Tuz2Oza5tENasqcUOtDt+WcbPN1NWxUvnHsvLslWtaJz6/c2ASd1CUyk/lBgad0YZiPMppxzXx3xOQUkKihQZVrDaxw9Zr0Yeff/CXkI=;4+2lEsDrZ/tO6xJNOQaOmw=="
 ---

@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-05-clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech.md",
+      "title": "Clearview AI set to get patent for controversial facial recognition tech",
+      "excerpt": "The news comes as facial recognition systems are more and more widely adopted, despite a lack of clear rules regarding their use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/",
+      "originalUrl": "https://www.cnet.com/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/PmacCt62m6rguedMqOMU_w29krg=/1200x630/center/top/2021/12/04/873d4317-cac4-4f75-ba68-7a754df7c5f8/gettyimages-1167845607.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/",
+      "publishedDateTime": "2021-12-04T14:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-05-interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help.md",
+      "title": "Interviews Of Eminent Female Leaders To Research The Impact Of COVID-19 On Women And How Policies And AI Can Help",
+      "excerpt": "The pandemic has dealt a huge blow to women. Progress for women is stalled due to lack of home resources. There is also a deep problem brewing on policy and compensation for women. Now, women, unlike men,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/",
+      "originalUrl": "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61abe2fde345dee117b90539%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2000%26cropY1%3D163%26cropY2%3D1289",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/amp/",
+      "publishedDateTime": "2021-12-04T12:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-05-fears-interviews-done-by-robot-ai-stop-clever-working-class-kids-getting-jobs.md",
       "title": "Fears interviews done by robot AI 'stop clever working-class kids getting jobs'",
       "excerpt": "There are fears that robot interviews by webcam that judge candidates on the way they speak will stop well-qualified youngsters from less privileged families getting jobs",
@@ -539,7 +642,7 @@
       "originalUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 236,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -737,7 +840,7 @@
       "originalUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1063,99 +1166,6 @@
         "name": "Business Standard",
         "domain": "business-standard.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-anand-rathi-wealth-ipo-subscribed-over-2-times-so-far-on-day-2.md",
-      "title": "Anand Rathi Wealth IPO subscribed over 2 times so far on Day 2",
-      "excerpt": "Anand Rathi Wealth's initial public offering (IPO) was subscribed more than two times on Friday, the second day of the bidding process. Anand Rathi Wealth shares are available for bidding in a price band of Rs 530-550 in multiples of 27 under the IPO.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/8bc5fe03-03b0-4429-807f-60de1ac0293f",
-      "originalUrl": "https://www.cnbctv18.com/market/stocks/anand-rathi-wealth-ipo-listing-anand-rathi-ipo-subscription-update-december-3-gmp-11689562.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8ded48d3-1fc2-468c-99bd-b1e0d8e02b98.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/8bc5fe03-03b0-4429-807f-60de1ac0293f",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8bc5fe03-03b0-4429-807f-60de1ac0293f",
-      "publishedDateTime": "2021-12-02T23:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems.md",
-      "title": "South African crowd-solving startup Zindi building a community of data scientists and using AI to solve real world problems",
-      "excerpt": "Zindi is all about using AI to solve real world problems for companies and individuals. And the South Africa-based crowd-solving startup has done that over the last three years they have been in existence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
-      "originalUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Zindi-Team-in-Cape-Town-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/",
-      "publishedDateTime": "2021-12-02T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
