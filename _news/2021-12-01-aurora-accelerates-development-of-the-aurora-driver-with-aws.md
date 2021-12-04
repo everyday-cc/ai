@@ -37,15 +37,6 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 19
-  - title: "Gilead and AWS Collaborate on Development and Delivery of New Medicines for Patients"
-    excerpt: "(NASDAQ: AMZN), announced that Gilead Sciences, Inc. (Nasdaq: GILD), a biopharmaceutical company advancing innovative medicines to prevent and treat life-threatening diseases, has selected AWS as its preferred cloud provider."
-    publishedDateTime: 2021-11-29T22:57:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/11/29/gilead-and-aws-collaborate-on-development-and-delivery-of-new-medicines-for"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 12
 
 secured: "7IL4UQZxWR8vnI8Nbj4IBHk+2ZeBUZYAue474aaKV639z817YBThzGxRSSGWFxTGiZT0UkClEl0vsr+xW/JGSeZervzdvbTIOeBUyfConoG+AdThdxmcrBn98vZT6hcBKjy3FAxlXPZR2N8Yw4XaSk8uzvn37eCzdjSGPyGn12YgLq6FdyDNRFx+OCW393RItypwKeuC4NX5DWzM9cSI7rje8zbGB6HqjITmJcKH4JMBgFhag4JDObYGC97Pz83BiiRuYyeI7mzzGB+j8gyKwP9yBd9qTOsPWUYK1RJQViJKNV6iWnr9vCIOxItNbGS9EbrPAb8xY32XHYLDFQMYi1na9ilSxtlEzuYdT8feLaA=;BMtyGo+nNw57YRpOcvHdCQ=="
 ---

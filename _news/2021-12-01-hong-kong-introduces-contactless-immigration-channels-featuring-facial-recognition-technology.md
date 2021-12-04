@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/hong-kong/transport/article/3157920/hong-k
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://newsstatic.rthk.hk/images/mfile_1622093_1_L_20211130164511.jpg"
         width: 1280
         height: 960
+        isCached: true
+  - title: "Self-driving buses start trial commercial operation in China's Chongqing"
+    excerpt: "Three self-driving buses developed by Chinese tech giant Baidu have started trial commercial operation in southwest China Chongqin"
+    publishedDateTime: 2021-12-04T13:00:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271866124/self-driving-buses-start-trial-commercial-operation-in-chinas-chongqing"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 23
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "Rrw/UYFTReRP7W0Wz9uPHUjLbWkEYSCsrkkzeWepfxXZ3jJxavG4mYJeOO5XOXYMnC7y6GKtK/aca8GOSRxyixxiEd1Yj8ZfqTiSMF0Ddeg3JnIqzr+O1v6srZFxFHAAmvgGAp3HwpesFj3N2JctL7ksjvxurlLAcX3hjTeSHoY6+JnbZRfg/g7d70y6UQbJiH8S64vwvqvox/VyNNXZlAUFaeaorl10nSce8B3U2c7dpw1zyUvb9xNUBbaOwO0aDqz6DmjYjDq6sdNC5APF2idJwv0dGSxwxgbzdG2NUfnm5N9sOJgrVFnbmje82rFl/QQAUzgi/4ZDC9DkYnxnSsMBXeN9PQVgiMWTy58uOUF3hPsbvH0QU33zqmrZebivlBiUnsLFHUBWzHbKxmqjqzVQndDJfuEYDEivJTybWgqJW9P2KUScwhs9+aDUKUNQKIHCxpEIBUSXOC5UB9CpotXkPTyN6zdtIqFSwOdEDnwIj1e5BQznrUV9XFhGPrfvcmD5hbXO+gk6gSxw+CSRwQ==;D2gCyDb8jPwjvW+POh+8KQ=="

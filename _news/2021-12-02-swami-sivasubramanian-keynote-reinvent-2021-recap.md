@@ -237,20 +237,6 @@ related:
         width: 680
         height: 298
         isCached: true
-  - title: "All Eyes on New AWS Boss Selipsky as re:Invent Kicks Off"
-    excerpt: "When Jassy left his AWS post to take Jeff Bezos’ old chair at the head of Amazon.com in May, it opened up one of the most visible positions in all of big data and AI. The job went to Selipsky, who was one of Jassy’s lieutenants when AWS launched back in 2007."
-    publishedDateTime: 2021-11-29T21:32:00Z
-    webUrl: "https://www.datanami.com/2021/11/29/all-eyes-on-new-aws-boss-selipsky-as-reinvent-kicks-off/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/adam-selpisky-300x277.png"
-        width: 300
-        height: 277
-        isCached: true
   - title: "AWS re:Invent 2021: The 10 Biggest Announcements"
     excerpt: "Invent at The Venetian in Las Vegas are new partner paths, AI for data analytics and new partner competencies."
     publishedDateTime: 2021-11-30T00:30:00Z
@@ -310,7 +296,7 @@ related:
   - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
     publishedDateTime: 2021-12-01T18:34:00Z
-    webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible-2/"
+    webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
     type: article
     provider:
       name: Financial Buzz

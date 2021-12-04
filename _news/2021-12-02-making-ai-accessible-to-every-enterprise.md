@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How To Invest in AI Startups"
+    excerpt: "Benzinga explains how to invest in AI startups, where to find opportunities and what to look for before choosing an AI startup to invest in."
+    publishedDateTime: 2021-12-01T22:54:00Z
+    webUrl: "https://www.benzinga.com/money/how-to-invest-in-ai-startups/"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+    images:
+      - url: "https://cdnwp-s3.benzinga.com/wp-content/uploads/2021/12/01175321/zblw0fg8xu8.jpg"
+        width: 900
+        height: 701
+        isCached: true
 
 secured: "q+8uqofcF+EQVAbQyD0L9EWHZ+tZ24u8Mn9kdJMq3EMjiNCECK2RcoGQF6CbA50AHramAcmZ27W9kGK5TBdSxC9lRSsKOhwGwAAxgGLi2yOvdUXS6nd3IfesoxQQpaDiZhzcQb+2zQ7pqJXTwfusSTfuYO0Mn2L8qJHXG130HgK397fUwd3sLJNjxzgDxRZSwKEiUgGJHue7TclfFhnEBQ9tJyQBGpZ6/Ea8AA3j8fZ6+PW1Tc0Z+2UFfdQutVFRW9zLf/rtKW9dhFC4jK2t5xF75+dS58upIn+E0RpTqngKTtbZ7qeH5qPNZrthC4qgbWnyeWs36qzHeId1GowqpCUiLHlCZu9ygs5nZum0gtgU1DuspIAKkh8ElflfjeyyDm6CKlUswR6h+xqRpVL/N5/Fryy4+QoDaJXj+lzyckHZdyaurBkt35/8uqwdpnwldyFnKoF8B28niJKFEauhp6O8PYuZWvbFauTApnD1LAJo5DNOx3PNizu6oMRSYt/LueMN5/Qmin1kXIh5XCNElA==;RR92QVcZigMz3yxWUNPeWw=="
 ---

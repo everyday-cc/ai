@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "US rejects calls for regulating or banning ‘killer robots’"
+    excerpt: "US official proposes ‘non-binding code of conduct’ at United Nations but campaigners disagree"
+    publishedDateTime: 2021-12-02T20:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 142
+    images:
+      - url: "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_70_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0fe3dc3678121882d7e62f5530c8dae3"
+        width: 620
+        height: 372
+        isCached: true
   - title: "New ‘Slaughterbots’ Video Warns Of Need For Legal Controls On Killer Robots"
     excerpt: "A new video highlights the risks posed by autonomous weapons or ‘killer robots’ – and the steps needed prevent them from being used. It even has Elon Musk scared."
     publishedDateTime: 2021-12-03T12:53:00Z
@@ -41,6 +57,64 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "What’s Next for Retail Robots"
+    excerpt: "From Walmart’s slow dance with robots to Schnucks’ robot rollout to 111 stores to Ahold Delhaize’s in-store AI presence, robots are coming to retail. In the previous three installments of this series,"
+    publishedDateTime: 2021-12-01T18:21:00Z
+    webUrl: "https://www.winsightgrocerybusiness.com/retailers/whats-next-retail-robots"
+    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/retailers/whats-next-retail-robots"
+    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/retailers/whats-next-retail-robots"
+    type: article
+    provider:
+      name: Winsight Grocery Business
+      domain: winsightgrocerybusiness.com
+    quality: 74
+    images:
+      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-12/background/400x600/Robotsshutterstock.jpg?VersionId=9IQ6u8HOrbKU5OFZyF0dJdzOCcM8ft8e"
+        width: 400
+        height: 210
+        isCached: true
+  - title: "Xenobots, 'living robots', are now able to reproduce"
+    excerpt: "American scientists who created the Xenobots, the first living robots, from frog embryo cells reported Monday that they can now reproduce. They explained the process they observed, the robots are able to find individual cells,"
+    publishedDateTime: 2021-11-30T18:26:00Z
+    webUrl: "https://www.entrepreneur.com/article/399918"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1638295831-xeno3-090409.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Crunch Time on Killer Robots"
+    excerpt: "The International Committee of the Red Cross (ICRC) and the Campaign to Stop Killer Robots proposed similar legal frameworks that encompassed prohibitions on inexplicable or unpredictable weapons systems (i."
+    publishedDateTime: 2021-12-01T04:01:00Z
+    webUrl: "https://www.hrw.org/news/2021/12/01/crunch-time-killer-robots"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
+    images:
+      - url: "https://www.hrw.org/sites/default/files/multimedia_images_2018/201809arma_killerrobots_campaign_protest_un.jpg"
+        width: 800
+        height: 526
+        isCached: true
+  - title: "Killer Robots: Negotiate New Law to Protect Humanity"
+    excerpt: "Governments should open negotiations to adopt new international law on lethal autonomous weapons systems, also known as “killer robots.” Existing international law is not adequate to address the urgent threats posed by such weapons,"
+    publishedDateTime: 2021-12-01T04:03:00Z
+    webUrl: "https://www.hrw.org/news/2021/12/01/killer-robots-negotiate-new-law-protect-humanity"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 39
+    images:
+      - url: "https://www.hrw.org/sites/default/files/multimedia_images_2018/201809arma_killerrobots_campaign_protest_un.jpg"
+        width: 800
+        height: 526
+        isCached: true
   - title: "U.S. Shuts Down International Calls to Ban “Killer Robots”"
     excerpt: "The Biden administration has rejected calls to ban the use of lethal autonomous weapons, also known as “killer robots.” During a United Nations meeting in Geneva Thursday, the U.S. instead proposed establishing a code of conduct for their use."
     publishedDateTime: 2021-12-03T15:31:00Z
@@ -54,20 +128,6 @@ related:
       - url: "https://www.democracynow.org/images/headlines/18/60618/full_hd/H13-US-shuts-down-ban-killer-robots.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Slaughterbots Sequel Warns of Widespread Proliferation of Lethal AI Unless UN Acts at Upcoming Meeting"
-    excerpt: "The Future of Life Institute (FLI), a nonprofit working to reduce extreme risks from powerful technologies, has today released Slaughterbots: if human: kill(), a short film that warns anew of humanity's accelerating path towards the"
-    publishedDateTime: 2021-12-01T10:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-20133735.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 23
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "N5KXH7O+yDx51+hD+NNKIZyO7ygVLP+SWRXJRq3VMm1ZgzXVuyM0aoyhkU61JDN+mpj/O6ZeeYKK7hs2jTOTOHefM8uvWtJqEcHa+q8QrmeHNR3GOWMuYz8qcA6+fdgLhAf9qtJZ+rtxrB6ry7JNdakqmWbHclOmbQpPhO/4rn6XBE4RoJy7gCL0PO4QSPHji9ecJnDEb+xKygBd9KTBhJS/4e/07Q95NsPuVZ/OjSF+hXR69NDWiIfOZ9R1yCIaYw6TN2VqlDInkKHYcCC3gS8EhxPGWe1fvHoZ9B2e+UvyCZf/haW63B4iU/BTNY4dIEgbKMEwJZbp9jtbIkrMtC7i10Jj7Nj7A+zNB/FjtYI=;ICcxTNddHTz29LOh0OEEUQ=="

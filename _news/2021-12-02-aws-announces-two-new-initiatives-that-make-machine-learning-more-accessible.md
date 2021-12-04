@@ -3,8 +3,8 @@ category: news
 title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
 publishedDateTime: 2021-12-01T18:34:00Z
-originalUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible-2/"
-webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible-2/"
+originalUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
+webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
 type: article
 quality: 35
 heat: -1
@@ -229,20 +229,6 @@ related:
         width: 680
         height: 298
         isCached: true
-  - title: "All Eyes on New AWS Boss Selipsky as re:Invent Kicks Off"
-    excerpt: "When Jassy left his AWS post to take Jeff Bezos’ old chair at the head of Amazon.com in May, it opened up one of the most visible positions in all of big data and AI. The job went to Selipsky, who was one of Jassy’s lieutenants when AWS launched back in 2007."
-    publishedDateTime: 2021-11-29T21:32:00Z
-    webUrl: "https://www.datanami.com/2021/11/29/all-eyes-on-new-aws-boss-selipsky-as-reinvent-kicks-off/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/adam-selpisky-300x277.png"
-        width: 300
-        height: 277
-        isCached: true
   - title: "AWS re:Invent 2021: The 10 Biggest Announcements"
     excerpt: "Invent at The Venetian in Las Vegas are new partner paths, AI for data analytics and new partner competencies."
     publishedDateTime: 2021-11-30T00:30:00Z
@@ -378,6 +364,6 @@ related:
       domain: publicnow.com
     quality: 4
 
-secured: "gWPkoesngpJOE8kv7WjoX32yoJpjwRRueTQntxwoZTdO0J8fBfCwcUX4tk/02nHiSsV46RgoZo1QXA7TYWesVbhf1mUw7mZy/wZmMpO3IKJAvfPoWKURf2uVfgXLr6mnq9MLZHZ1E++fXSSqagFQAnB/cymuFErN7rHhGUpysgzgNBZEO0keKTdumT3r8ImtqENWWf75+UZirUSshZZlqdyo3+VMSQ0cs1IoT9n2OJosXjKxHW9CYSYMvRjGNxmeO7oF+6C+fab2hD49hsszmg7T8EtcE62YrhY931vHP1madcKNncQgAz5uOu22K20dV8zxypw+a/sfnpdeMl90OC8FFk6w45XiGJ7AB4zfS7c=;Bh8tDyDJTB+9O9+BZc8PBw=="
+secured: "S78zEeFl67s3F3zt/0LynJA1dlvhpiCORaUNMNzoWTF4w9mYUfdnmrhlbITFGm9GXq58rp7pkCBvGV7lGwOnbGL6MNeCfZtXl/UalB4+CK5sDBm4FtWseOSe998bq5dxoAvRkanEz+rGZZc3RmtJ63atOmRPiGhtQ5ygCBzVAM6nGGkNrCPO76z9h0/SU7DLDanQX98O/m8WF+JinSdqnxHXvxEq/BKwSicg74tW6vysiLr3w1jI1UkjBDCNhq0Js7NYxNeL6wsOX3uTmYWH188o5lyCtfT/fc0LAp8F+G+8KIfHg+fgv+MvdoN3mJxt9CIrBArS23ILlqx5ort0Z5+HA9wlaYCKcTCOpHE+LEc=;DPZv+h21JS4UuSuORiPCUw=="
 ---
 

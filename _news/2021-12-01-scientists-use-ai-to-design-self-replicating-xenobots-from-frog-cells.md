@@ -47,20 +47,6 @@ related:
         width: 620
         height: 310
         isCached: true
-  - title: "Xenobots, 'living robots', are now able to reproduce"
-    excerpt: "American scientists who created the Xenobots, the first living robots, from frog embryo cells reported Monday that they can now reproduce. They explained the process they observed, the robots are able to find individual cells,"
-    publishedDateTime: 2021-11-30T18:26:00Z
-    webUrl: "https://www.entrepreneur.com/article/399918"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1638295831-xeno3-090409.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "'Never been observed': In a first, scientists create self-replicating living robots | Details"
     excerpt: "The scientists created Xenobots by scraping living stem cells from frog embryos And with the help of artificial intelligence the researchers then tested billions of body shapes to make the Xenobots mo"
     publishedDateTime: 2021-11-30T10:38:00Z
@@ -293,6 +279,20 @@ related:
       name: WHDH
       domain: whdh.com
     quality: 39
+  - title: "World's first living robots can now reproduce, scientists say"
+    excerpt: "(CNN)The US scientists who created the first living robots say the life forms, known as xenobots, can now reproduce -- and in a way not seen in plants and animals. Formed from the stem cells of"
+    publishedDateTime: 2021-12-04T13:36:00Z
+    webUrl: "https://www.weny.com/story/45367778/worlds-first-living-robots-can-now-reproduce-scientists-say"
+    type: article
+    provider:
+      name: WENY News
+      domain: weny.com
+    quality: 39
+    images:
+      - url: "https://WENY.images.worldnow.com/images/21827780_G.jpg?lastEditedDate=1638606957000"
+        width: 774
+        height: 436
+        isCached: true
   - title: "Scientists Unveiled the World’s First Living Robots Last Year. Now, They Can Reproduce"
     excerpt: "Early last year, a team of researchers announced the world's first living machines —bundles of stem cells from African clawed frogs ( Xenopus laevis) that could be programmed to accomplish certain tasks."
     publishedDateTime: 2021-12-02T17:16:00Z

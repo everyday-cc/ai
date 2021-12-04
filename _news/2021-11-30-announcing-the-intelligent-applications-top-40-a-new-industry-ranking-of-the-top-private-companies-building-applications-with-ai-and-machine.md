@@ -39,6 +39,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Top 30 AI chip companies of China in 2021"
+    excerpt: "AI applications are developing rapidly, and an increasing number of AI chip startups have been established in the past several years in China. However, the implementation of AI applications has been the biggest problem."
+    publishedDateTime: 2021-12-04T13:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-30-ai-chip-companies-china-2021-steve-gu"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQH2ZHWp2w8Z0w/article-cover_image-shrink_600_2000/0/1638623585945?e=1643846400&v=beta&t=_1vyV-7xpaV10eczP4xlkI0rpjc2t4VK9og7bfw4vvA"
+        width: 960
+        height: 600
+        isCached: true
   - title: "The Obstacles and Opportunities of Democratizing AI for Enterprise Companies"
     excerpt: "Without question, enterprise deployment of artificial intelligence (AI) is positioned for tremendous growth. Published in early 2021, IBM’s Global AI Adoption Index revealed that a third of those surveyed will be investing in AI skills and solutions over the next 12 months."
     publishedDateTime: 2021-12-02T06:32:00Z

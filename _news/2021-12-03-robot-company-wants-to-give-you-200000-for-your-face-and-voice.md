@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Robot company offers $200K for your face"
-    excerpt: "A robot manufacturing company is looking for a human face to put on its newest product. Promobot, a European company, said in a press release that it is willing to pay $200,000 to someone for the rights to use their face forever."
-    publishedDateTime: 2021-11-29T22:21:00Z
-    webUrl: "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/"
-    ampWebUrl: "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp"
+  - title: "You can now get £150,000 if you let a robot use your face and voice"
+    excerpt: "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot."
+    publishedDateTime: 2021-12-02T12:28:00Z
+    webUrl: "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783"
+    ampWebUrl: "https://www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783"
+    cdnAmpWebUrl: "https://www-her-ie.cdn.ampproject.org/c/s/www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783"
     type: article
     provider:
-      name: KIRO-TV
-      domain: kiro7.com
+      name: Her
+      domain: www.her.ie
     quality: 61
     images:
-      - url: "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/4i5kX0KZOnbyyPlSvYI4czaobwk=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/XR5L5PB3QFA3HDDEALPG5F3BCQ.jpg"
-        width: 1440
-        height: 810
+      - url: "https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmhlci5pZVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMlxcXC8wMjEyMTYyNlxcXC9TdHVkaW8tUHJvamVjdC0yMDIxLTEyLTAyVDEyMTYwOC43MDYucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_aWQ9YjZmODRkNjI3YjQxMTRmMDBmNTBcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMmRjMjZjNzA0ZTc4YWE2N2QxMzkzMDY3NmEwODQzZDIxMzY1ZGYyYyJ9/studio-project-2021-12-02t121608-706.png"
+        width: 647
+        height: 340
         isCached: true
   - title: "This Russian Company Will Pay You $200,000 To Use Your Face And Voice On Their Robots"
     excerpt: "Advertisement Promobotis is a Russian robotic company that is offering $200,000 to people in return for the right to use their face and voice on its robots forever. The company is currently developing “a humanoid robot assistant which will work in hotels,"

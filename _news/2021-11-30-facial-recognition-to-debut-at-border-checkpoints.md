@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Self-driving buses start trial commercial operation in China's Chongqing"
+    excerpt: "Three self-driving buses developed by Chinese tech giant Baidu have started trial commercial operation in southwest China Chongqin"
+    publishedDateTime: 2021-12-04T13:00:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271866124/self-driving-buses-start-trial-commercial-operation-in-chinas-chongqing"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 23
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "HBaGTGo8FqqvPeWK5q/wjZwcVeqx08RX4rcUAP8y9BPuf4xcnWfLoGgOW28MhSwrjFoGc3jD1b++tDVbZ6lvX9nbXR1W9sydhKap2eMfqu+YiVBL1xe7ybC5mJfnfMpUKFOZtDrmEEsAxpI7jT5jyW8TYJAlWVhkBOHTbPNH7pV5M6zw6X87oOA55wS+rEvSznrHstOpFlVDUYLxtEg76vaMwaiyOhG9dSanXCacS0STt00TnnVw1XjxHOHFpjfWXS+TDGfE+HrNOyeBv1YP4kmalYyuMW93QUJ7fII/LKZYGyOF7Yk1l1xf8o/INkPH1FUhoW2qSNERroH3LztirVUbsKK5WQyFnhxn/7LSBI3/PUwtoDyiFvvfCIuzBZ+wL+6E/MghKrVf77CIhYFGGEafVDU8vJERLbkL3FrtMadJaYfaB3BQH08LJocuI1YrZ+ICam8H5x0ymeg4ouIwBvoWtqMRCdzl8vnE/el0Qq5RKAtMD2qasuIi7DKXru5MTWWac/UCRNhvAAZjg0agrg==;SxjNjoyr2v10VVKA0MeDhQ=="
 ---

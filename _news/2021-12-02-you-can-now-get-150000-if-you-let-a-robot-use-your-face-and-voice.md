@@ -9,8 +9,8 @@ ampWebUrl: "https://www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-vo
 cdnAmpWebUrl: "https://www-her-ie.cdn.ampproject.org/c/s/www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 81
+published: true
 
 provider:
   name: Her
@@ -26,6 +26,40 @@ images:
     width: 647
     height: 340
     isCached: true
+
+related:
+  - title: "Robot Company Wants To Give You $200,000 For Your Face And Voice"
+    excerpt: "In an odd proposal, a Russian company is willing to pay you $200,000 if you forfeit your face and voice to help develop its next robot."
+    publishedDateTime: 2021-12-02T17:00:00Z
+    webUrl: "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/"
+    ampWebUrl: "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/"
+    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/"
+    type: article
+    provider:
+      name: Black Enterprise
+      domain: blackenterprise.com
+    quality: 61
+    images:
+      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/12/iStock-1320626664-1024x522.jpg"
+        width: 1024
+        height: 522
+        isCached: true
+  - title: "This Russian Company Will Pay You $200,000 To Use Your Face And Voice On Their Robots"
+    excerpt: "Advertisement Promobotis is a Russian robotic company that is offering $200,000 to people in return for the right to use their face and voice on its robots forever. The company is currently developing “a humanoid robot assistant which will work in hotels,"
+    publishedDateTime: 2021-12-02T18:59:00Z
+    webUrl: "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/"
+    ampWebUrl: "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 56
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-Sl7zbvKjbvj7Ba1n.jpg"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "0j4Hg5G7Q0PS3nojx70yKBCFwEzGsQ+ficXQ4Ng23vmcJ+xUOL7KAmmZxYoLWEk6KQOhqyAVzIGtf3e7M2/yX8BoRGYA5DbbY6UzayOhYRqMsHv4K9vBhmktdbVdDLT5NuXOGYa9CQAys/Y7TJkCV8j9CHcQUWmR/LdJ+6lBUQxijIJQLvx+oqbiFANB8W/83x7ANDcywPAo7cx9GufPdz7iDfNHjlWejaoky6qVSyM94PT2rcwFKXIn4CqvtQnTY9nRdkzxIM8G4zvQP6IpNLAnpOso3+WGKcGUJW8igkMrnsnDw072iREBygOpIwjkF/v1DUaOfoURVMp1lUX9nJGw6gqE45rSg3hNTLvhFZDtay27xbyjDs3V+D6eQ8cXsL+0gwibtvVI6qI1dbRMYMLUSFnxWfQQbSr6u0uMFzNyGzmty0hnaV+NzYfuNe6kWqGaj5AwZAOyTdnEzSuo9w4hcB/kunWdk20TiEgR1G5zID9/lCELbc2TCmUYckpHVpOyCiEuVDpKiv/KucjuLA==;yu0nU24VQmeaLz1mU2AXfA=="
 ---

@@ -285,6 +285,34 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "facial recognition tech at airports"
+    excerpt: "Trak.in is a popular Indian Business, Technology, Mobile & Startup blog featuring trending News, views and analytical take on Technology, Business, Finance, Telecom, Mobile, startups & Social Media Sp"
+    publishedDateTime: 2021-12-03T06:06:00Z
+    webUrl: "https://trak.in/Tags/Business/facial-recognition-tech-at-airports/"
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 54
+    images:
+      - url: "https://trak.in/wp-content/uploads/2016/02/cropped-Favicon-Square-2016-2.gif"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Korean Facial Recognition Project Faces Opposition"
+    excerpt: "It was discovered last month that a South Korean government project has been providing millions of facial images taken at Incheon International Airport to private industry without the consent of"
+    publishedDateTime: 2021-12-01T12:00:00Z
+    webUrl: "https://hackaday.com/2021/12/01/korean-facial-recognition-project-faces-opposition/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 39
+    images:
+      - url: "https://hackaday.com/wp-content/uploads/2021/11/tsa_checkpoint.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Neurotechnology Brings Facial Recognition Solution to Web Apps"
     excerpt: "Neurotechnology has announced a much-improved version of its Face Verification solution featuring enhanced algorithms and support"
     publishedDateTime: 2021-12-03T17:25:00Z
