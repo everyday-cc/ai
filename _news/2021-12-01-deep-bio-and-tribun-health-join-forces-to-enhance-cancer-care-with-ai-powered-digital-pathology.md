@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top Opportunities for Artificial Intelligence to Improve Cancer Care"
-    excerpt: "By implementing artificial intelligence into cancer care, machine learning tools can detect cancer, assist in decision-making, and recommend treatment approaches."
-    publishedDateTime: 2021-11-29T13:30:00Z
-    webUrl: "https://healthitanalytics.com/features/top-opportunities-for-artificial-intelligence-to-improve-cancer-care"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/top-opportunities-for-artificial-intelligence-to-improve-cancer-care"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/top-opportunities-for-artificial-intelligence-to-improve-cancer-care"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
   - title: "Prostate cancer: AI pathologist used to help diagnosis"
     excerpt: "Artificial intelligence could improve cancer diagnosis and help save lives, a senior doctor has claimed. Betsi Cadwaladr University Health Board has rolled out an \"AI pathologist\" to help test men for prostate cancer."
     publishedDateTime: 2021-12-02T09:23:00Z

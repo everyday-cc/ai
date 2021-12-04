@@ -148,22 +148,6 @@ related:
         width: 833
         height: 482
         isCached: true
-  - title: "In-Person AWS re:Invent 2021 is Back!"
-    excerpt: "Invent 2021 developer conference returns Las Vegas from November 30 through December 3. In-person attendance sold out quickly."
-    publishedDateTime: 2021-11-29T13:23:00Z
-    webUrl: "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back"
-    ampWebUrl: "https://www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp"
-    cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/in-person-aws-reinvent-2021-is-back?amp"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 59
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2021/11/2021_reInvent_Event-Site.png"
-        width: 781
-        height: 300
-        isCached: true
   - title: "AWS Announces AWS Cloud WAN"
     excerpt: "New managed WAN service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises"
     publishedDateTime: 2021-12-02T16:34:00Z
@@ -252,20 +236,6 @@ related:
         width: 680
         height: 298
         isCached: true
-  - title: "Media Alert: Intel at AWS re:Invent 2021"
-    excerpt: "As part of Intel's ongoing commitment to keep its employees and communities safe during the COVID-19 pandemic, Intel at AWS re:Invent 2021 will have a fully virtual presence. A custom-built, interactive 3D “City on the Cloud” experience will highlight key activations and track sessions,"
-    publishedDateTime: 2021-11-29T14:02:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/media-alert-intel-at-aws-re-invent-2021/article_61c634bd-cb2f-54ae-8665-7cc14b1238fb.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 39
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
-        width: 350
-        height: 456
-        isCached: true
   - title: "All Eyes on New AWS Boss Selipsky as re:Invent Kicks Off"
     excerpt: "When Jassy left his AWS post to take Jeff Bezos’ old chair at the head of Amazon.com in May, it opened up one of the most visible positions in all of big data and AI. The job went to Selipsky, who was one of Jassy’s lieutenants when AWS launched back in 2007."
     publishedDateTime: 2021-11-29T21:32:00Z
@@ -336,6 +306,15 @@ related:
         width: 1577
         height: 1050
         isCached: true
+  - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
+    publishedDateTime: 2021-12-01T18:34:00Z
+    webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 35
   - title: "The Future of Artificial Intelligence, Cloud Computing, and Digital Twins: Highlights from AWS re: Invent 2021"
     excerpt: "Invent celebrated its 10th year this year by welcoming visitors back to an in-person event, following last year’s fully virtual event. It also marked the 15th anniversary of the launch of Amazon Web Services itself."
     publishedDateTime: 2021-12-02T13:33:00Z

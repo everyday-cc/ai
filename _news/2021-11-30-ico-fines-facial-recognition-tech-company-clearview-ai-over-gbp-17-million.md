@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "ICO warns facial recognition company Clearview AI could face £17m fine over privacy breaches"
-    excerpt: "The controversial facial recognition company, Clearview AI, has been warned it could face a £17 million fine for multiple breaches of UK Data Protection law. The Information Commissioner said today that the company,"
-    publishedDateTime: 2021-11-29T14:55:00Z
-    webUrl: "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches"
-    ampWebUrl: "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 163
-    images:
-      - url: "https://www.computerweekly.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Clearview AI Is Facing A $23 Million Fine Over Facial Recognition In The UK"
     excerpt: "The provisional decision comes after a series of BuzzFeed News investigations revealing widespread and sometimes unsanctioned use of the company’s facial recognition software around the world."
     publishedDateTime: 2021-11-29T22:03:00Z
@@ -66,6 +50,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/11/29/business/29clearview-1/29clearview-1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Facebook Exiting The Facial Recognition Game"
+    excerpt: "Meta, the company formerly known as Facebook is pulling the plug on its facial recognition program. It's planning to delete more than one billion people’s individual facial recognition templates, and"
+    publishedDateTime: 2021-12-03T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/"
+    ampWebUrl: "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a77b820a07bba1e37323e3%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "U.K. privacy commissioner fines Clearview AI $22.6 million."
     excerpt: "The Information Commissioner’s Office said it fined Clearview AI for failing to inform British residents that it was collecting billions of photos from sites including Facebook, Instagram and LinkedIn to build its facial recognition software."
@@ -160,6 +160,36 @@ related:
       - url: "https://i.guim.co.uk/img/media/a5282f111d9a4e58d9d8c99b558ab2c7341a2ce3/0_192_5760_3456/master/5760.jpg?width=620&quality=85&auto=format&fit=max&s=f4a4ed7b12fe9200f658b3587f2ec57d"
         width: 620
         height: 372
+        isCached: true
+  - title: "R.I. Labor Dept., ACLU Collide Over Facial Recognition"
+    excerpt: "(TNS) — The Rhode Island Department of Labor and Training has no plans to use facial-recognition technology in any of its programs. The department's director, Matthew Weldon, made that statement Tuesday after civil-liberties advocates raised questions ..."
+    publishedDateTime: 2021-12-01T22:24:00Z
+    webUrl: "https://www.govtech.com/public-safety/r-i-labor-dept-aclu-collide-over-facial-recognition"
+    ampWebUrl: "https://www.govtech.com/public-safety/r-i-labor-dept-aclu-collide-over-facial-recognition?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/r-i-labor-dept-aclu-collide-over-facial-recognition?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/4b0c0fb/2147483647/strip/true/crop/3840x2002+0+158/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Ff0%2Fd7d5d49246228a0d733bfc67324b%2Fshutterstock-1651644193.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "facial recognition tech at airports"
+    excerpt: "Trak.in is a popular Indian Business, Technology, Mobile & Startup blog featuring trending News, views and analytical take on Technology, Business, Finance, Telecom, Mobile, startups & Social Media Sp"
+    publishedDateTime: 2021-12-03T06:06:00Z
+    webUrl: "https://trak.in/Tags/Business/facial-recognition-tech-at-airports/"
+    type: article
+    provider:
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 54
+    images:
+      - url: "https://trak.in/wp-content/uploads/2016/02/cropped-Favicon-Square-2016-2.gif"
+        width: 512
+        height: 512
         isCached: true
   - title: "Clearview AI faces potential £17m fine in UK for face recognition breach"
     excerpt: "Clearview AI is like a search engine for people’s faces and its tech has been used by law enforcement in the UK."

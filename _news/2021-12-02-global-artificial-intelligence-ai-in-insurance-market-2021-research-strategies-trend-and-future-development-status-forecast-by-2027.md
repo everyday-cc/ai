@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-2021-research-strategies-trend-and-future-development-status-forecast-by-2027-2021-12-01"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -42,6 +42,15 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
+    publishedDateTime: 2021-12-03T12:21:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5127884-global-artificial-intelligence-ai-in-healthcare-market-research-report-2021-impact-of-covid-19-on-the-market.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 28
 
 secured: "0tLTsi26YMimEaa5YguQQSyeXwJZo4dDrkjSDQaYMN0nGoEX8kJidPx9Cl7TqYO5XWzkqy5EbTLLCSNGRvdOGw2A2cYjlbuUFjSAQ/x1z99XLJHNiLjAIEXVqFTGu9QMtbIJ38a8x2xYeje/lEzOeW0dYnmxdyQgv8gE5nn7/aX7aQo3Cb6GTHnmAE/Q4p0MX+LfxfcklNsc+yBg+cuuHeRrgeYCd90EVKrHswgh8L9sdPbHHE5cs2n3evqRaup0vb4Jrk9CGqBGuP2FfKhHnJAtPICRBnsKsmqlPJpe8wBT+TFauskjCY/QYOr0CMVrFbZaPeCo9XOubIy7MOf0CiSq/V6+hwv/a1ItOU5hNCo=;CYehxyuQIqhXV/ko+a8+ow=="
 ---

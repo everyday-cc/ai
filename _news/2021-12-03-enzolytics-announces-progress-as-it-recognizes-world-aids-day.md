@@ -19,96 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "MassRobotics Announces AWS Robotics Startup Accelerator"
-    excerpt: "AWS Robotics Accelerator to scale robotics startups focused on automation and IIOT BOSTON, MA / ACCESSWIRE / November 29, 2021 / MassRobotics has announced a new Amazon Web Services, Inc. (AWS) Robotics Startup Accelerator to address the biggest challenges in the automation,"
-    publishedDateTime: 2021-11-29T13:48:00Z
-    webUrl: "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 71
-    images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "AWS pitches robotics as the next big thing"
-    excerpt: "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations"
-    publishedDateTime: 2021-11-30T14:55:00Z
-    webUrl: "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 71
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/7aaca86652042fcb618061ebd565670c_M.jpg"
-        width: 375
-        height: 213
-        isCached: true
-  - title: "AWS Introduces A New Platform For Developing Robotics Applications"
-    excerpt: "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together."
+  - title: "Enzolytics Announces Progress As It Recognizes World AIDS Day"
+    excerpt: "Enzolytics wishes to recognize and acknowledge World AIDS Day- a day to call attention to the continued need for a more effective treatment for HIV, including successful treatments for the growing number of individuals living longer with HIV."
     publishedDateTime: 2021-12-02T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/"
+    webUrl: "https://www.nasdaq.com/press-release/enzolytics-announces-progress-as-it-recognizes-world-aids-day-2021-12-02"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Amazon Launches Preview of AWS IoT RoboRunner for Better Robotic Fleets"
-    excerpt: "Now available in public preview, at no additional cost, AWS IoT RoboRunner aims to simplify fleet app development and management."
-    publishedDateTime: 2021-11-30T18:58:00Z
-    webUrl: "https://www.hackster.io/news/amazon-launches-preview-of-aws-iot-roborunner-for-better-robotic-fleets-4857781e98c9"
-    ampWebUrl: "https://www.hackster.io/news/amazon-launches-preview-of-aws-iot-roborunner-for-better-robotic-fleets-4857781e98c9.amp"
-    cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/amazon-launches-preview-of-aws-iot-roborunner-for-better-robotic-fleets-4857781e98c9.amp"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 49
+  - title: "Enzolytics, Inc.: Enzolytics Announces Progress As It Recognizes World AIDS Day"
+    excerpt: "COLLEGE STATION, TX / ACCESSWIRE / December 2, 2021 / Enzolytics wishes to recognize and acknowledge World AIDS Day - a day to call attention to the continued need for a more effective treatment for H"
+    publishedDateTime: 2021-12-02T12:33:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54648568-enzolytics-inc-enzolytics-announces-progress-as-it-recognizes-world-aids-day-200.htm"
     type: article
     provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 59
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1379809/image_nrYONkldZg.png?auto=compress%2Cformat"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "The 10 Coolest Robotics Startups Of 2021"
-    excerpt: "The robotics industry is one of revolution, as startups develop new autonomous robots to increase the efficiency of human workers or perhaps free them for tasks that are less dangerous or that add value to a business."
-    publishedDateTime: 2021-11-30T19:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/mobility/the-10-coolest-robotics-startups-of-2021"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/026f-13d90a4b9997-a7f882416c5e-1000/robotics-startups-2021.jpg"
-        width: 610
-        height: 458
-        isCached: true
-  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
-    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services ( News - Alert ),"
-    publishedDateTime: 2021-11-30T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/11/30/9501580.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
-    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services, Inc."
-    publishedDateTime: 2021-12-01T08:55:00Z
-    webUrl: "https://www.financialbuzz.com/workato-joins-aws-partner-network-and-is-a-launch-partner-for-ai-for-data-analytics/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 30
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 15
 
 secured: "VLgnBRdmN4fw4vsHr8fm2I2D0mJ70DBoLHn/sOevye3EzpAx6ixUoGKPfRYrIs7EbgEhklAFDeWVPDGY9gEMo8czARb43hUu11y2FJrqT7SjNwVXxD67V6tdyggv47C3S2W2M3HhEvX93OMqTaVJPwQFuEmZuL3nl06HaL/PciXUnX2nzh2XpW/ze4BBMNO0lUF31QI+Hdp/VmyCuWjDVNBCHdJJ09KMyn/tD6vZFbNiiLd4bumcihyOOBzJ7x3FsmxWR6EWVB3kN6CV8IJFgRfwVN+9Pjg9knjsZVKUx5by8cCWpAzuGAKxUW5y7TxOBTKmcD31ehfbKTNwtU9EzSmTBc/uFsUZJwWUaaG02d/SWtUkx1AGwNoZArdHagY4ispTGlvuPiCJ7fPTlIxDREF2toCQ4P33JOZG/97mbwQgcTPvso0lu3noOWMOBrhsOr8SjbgxdOv02vkwP5A4ufFZCFXl+yMJTqgMSARQ3jeVQpder/NrtAuGfoWtbC13V34FwGg0DacV5AGqaQCRuw==;fk9qdvUgeYYR99E3EeXajA=="
 ---

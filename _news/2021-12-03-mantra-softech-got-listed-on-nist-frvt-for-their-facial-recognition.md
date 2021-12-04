@@ -35,6 +35,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Mantra Softech joins NIST facial recognition tests for verification and identification"
+    excerpt: "Mantra Softech has participated for the first time in the NIST Face Recognition Vendor Tests (FRVT) 1:1 and 1:N for biometric accuracy."
+    publishedDateTime: 2021-12-02T20:06:00Z
+    webUrl: "https://www.biometricupdate.com/202112/mantra-softech-joins-nist-facial-recognition-tests-for-verification-and-identification"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
 
 secured: "CgeZpVaKPBMDIw9KqRcbhpBw+uqrgpqEbSuTZCGAoPLWeHw0DCYSuh8MGWkVM41PIZz10FkijdA27r/+LvFqCr1MvQeDud8axtkztQbTxAjXJzZGF9roTMY+RudzH4iLoFD2JsVnni+V+ydf5sTnAfHHshFHB+Yd27TXxvUXdkCaj7PmwK7KLvyGGVKblsVV3J0/BwvnU06SD0DnUgzZUq475rt5gGqnkcWtEFeaVwwHuUtEHi4wWCjWEl0+dQGpZrkJWfLbTa9TYrJDcnE2nj88AmYzu51P/5KIRcJmTSEb8kUoceMm+/qrVMAUz9PWqoQzstX8NegCrULTca6Z4QQhZjghwQfS4IqgwQkdSm4=;tHFtqjN5/pySYTnJrbpclA=="
 ---

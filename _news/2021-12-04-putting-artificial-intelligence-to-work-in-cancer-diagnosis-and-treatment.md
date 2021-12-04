@@ -24,22 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Body Vision Medical Celebrates 1,000th Patient to Benefit from AI-Driven Lung Cancer Diagnostics Imaging"
-    excerpt: "Body Vision Medical, the pioneer in real-time artificial intelligence imaging for lung cancer diagnostics, announced that 1,000 patients have benefited from LungVision procedures. Body Vision has FDA and CE approvals and started selling"
-    publishedDateTime: 2021-11-29T13:32:00Z
-    webUrl: "https://www.lelezard.com/en/news-20129301.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 22
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
-
-secured: "ft6lve3GfFINi6Pn2hbVwU3b+C3GpcnjxdhTFUQS7GidVSyAP/yws3jhA+stI3gWei6MegWEo7SUFrU/RmJ8fyHCrY0QGkFLuGx9vZPiS2QuGT0YDW8EiNST/GdTc0XDdU/4gjzGD1SPxiUXjOAbSM3bd9ie4fHPX9xJNSaX0PI+rEacKCF4ATLI5YA6Apjc1qtstx3RuyldSMNVg9FOXChJ0sZlPuwUIdKbWbFg3hfGnCgV9IxYydnqo7wKDCKDlsfdmSf2g8l6KuAZdTDGouAuTkNwNRopI3sn1ZBIvIaQdvPWZnkVSS1WtP78iO280c2M8rTJ5LpDI4YcHI/VPfC4JX97EBollzr+sSOVQWk=;/rbb2kfXTuV6OAeV4cbEwg=="
+secured: "kg4/xNXS0dOdlNOvoH2scBYvR5H/YhZTENiuDJoqhYg1ixMLryDaUoNFQmvQlQVGOMUw5ikz5fyHgxfKTzrUXsgitWj9M4CS4hDXAdbr92fExnJr7PG/3xIbuB9CFFkl+HWp1bw9S0Cb141IsLTmjqZAvt703QV/bcZFcQDvsZ02GBx8HgBlhPAd2vXqHOmtG46sLcS2Y14mxMnSEmKQevWhCNLg+YV7amY7h1z1PC9f0Ip05iwMRnVhaHcIMothE0srmlAAjOBpH1HAeYu8Jud0ltRb7lw1EziYtNVhaWmP+U4U+vy3q7f1ZPBNoeHwAufeUoskvLMTOHDIujXZa8OTEg+7ge76fd5Zaq9XRpVM6SfxxTo8vT0eww3fQoupp4cCkNpIjBlkuds6PBHDd01pLsuC0wcpVeAnoBs6Kfrjeu1fAtibVGEBZVM7tbk75V5PcGK1E4ywg0SxJpjC52I6UphJOuhKOU0TpHgE+nrSykm4OhaBvpOXiAMFjldifN67iHS1V4B35EgeDtVA+Q==;Yv3gSfnv78nsmWecxMuQBw=="
 ---
 

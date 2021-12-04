@@ -2,11 +2,11 @@
 category: news
 title: "Artificial Intelligence Is All the Rage. What You Need to Know."
 excerpt: "UBS calls artificial intelligence a top investment theme for the coming decade. But Eric Schmidt, who used to run Google, warns that investing in AI isn’t so easy."
-publishedDateTime: 2021-12-04T04:51:00Z
-originalUrl: "https://www.barrons.com/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116"
-webUrl: "https://www.barrons.com/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116"
-ampWebUrl: "https://www.barrons.com/amp/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116"
+publishedDateTime: 2021-12-04T05:50:00Z
+originalUrl: "https://www.barrons.com/articles/ai-stocks-investing-artificial-intelligence-51638579011"
+webUrl: "https://www.barrons.com/articles/ai-stocks-investing-artificial-intelligence-51638579011"
+ampWebUrl: "https://www.barrons.com/amp/articles/ai-stocks-investing-artificial-intelligence-51638579011"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-stocks-investing-artificial-intelligence-51638579011"
 type: article
 quality: 57
 heat: 77
@@ -57,6 +57,6 @@ related:
         height: 1742
         isCached: true
 
-secured: "DD6Rx3WqNcCQfn/x9aw9JQ7oaJjaSDniQAQ7e3i5ealJd/m+pR5/iiTtFD/xU3EbG118LC+cjq3trm8mJtNzmcI4yzfnrD6Xg8ghgAJiJDYu2YAI5iqSgxt2q1AHSKYFzGc8Wy5IZx1DcfWLZ3DIRdy71iBjH7ruD+nqVgsnElJWIYA4cPqAcDgH8y676uBvaxZ7dEXSZ/Y3Tt/vkq9qsVqtgO3i1BTxbnUTtz4d38GUKyJvFYlZ4QEq+U7A5aN3PhGmQUQIY9vi4+7uVQHvTYUKlL53gT5Cr6fveeVC8Ns55ei0Um78cDyTkmHwrZdY6T+ErMEgppE8mRVe72+lerTFZG3XB5r3DH5Gnq/53Pw=;94nTGmSfKEbAHAqSV59j5g=="
+secured: "g1Ysj4CdpfuIsOmkl3uz0EjXrLlKdBYdquo5TmOzWJK5XRHPbSViWlWVu7eYD+k9CkTxeeRrbge3vhLkCfRNvSoXgCIlvMDCsxRjIqjUMYKYmcv/6bpSzyAG4yxHV/WMkVhJiHaKI4nbMUiCdx/zsmovBWs1t1S6Bp7ginlr6n41AKSc+Y1aa7nDoxVpcPziGMdT9H2vMbWAPMH7PQF+row62Ob7v55v8LpUuPDZ8gcVLTiBIxSke8Cmbj3klmhynnrkyBwdW17gmLHq3eh1D3HIrSqTiRMckYk9jPs6Ty7sd0xJgH9iL0mM5GF95PgurO8fCZZdeTw7eWJT3dFrYVZqWCD4ifPI6WM3pxK3zJg=;yE0Csh5G4/9i0OvZUZChLg=="
 ---
 

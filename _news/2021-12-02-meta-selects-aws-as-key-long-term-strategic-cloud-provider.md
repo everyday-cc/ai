@@ -88,15 +88,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Meta picks AWS as long-term strategic cloud provider"
-    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-02T07:52:00Z
-    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "wLZC+uey6IPuKQnqvePvdnVTCaX3vGzbDcshgmGOfK25in4/lUxvvsZm5avV4rU6GTRuxDmFMQB9K8KQQoquIohtwmtTWQVmdOVYt6ZztrjdLCHyD/UpjppQq3luFLjs6kJJvM8jf4enuKaHGXGVX73H1dsnnaqwjZXLxO2xKvMlpC1HGsRLkZOf2no/TMuQNPC7y9Jzt8Ei+mkKiVw8m7qglTfbSKQyDwsyWUwiU4jC7+5G0nkPoXrrtk4ysj5a4IktaKThGrEOucfD0r+xnoKtZW0khX0ksE1ewWd3EI+BbduVD8wTGhL5qHbxuV0oEmNT9HNPcEXKc8k82gAWEH0QUObVDuyXtWzCc7xgzmw=;3Pq0E3KHpkm1nIek+ppLlg=="
 ---

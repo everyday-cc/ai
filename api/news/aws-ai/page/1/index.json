@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -803,6 +803,50 @@
       ]
     },
     {
+      "path": "_news/2021-11-30-aws-pitches-robotics-as-the-next-big-thing.md",
+      "title": "AWS pitches robotics as the next big thing",
+      "excerpt": "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
+      "originalUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/7aaca86652042fcb618061ebd565670c_M.jpg",
+          "width": 375,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program.md",
       "title": "AWS targets the energy industry with launch of the AWS Energy Competency Program",
       "excerpt": "Amazon today announced a new program that will formally identify AWS Partners who develop specialized solutions aimed at the energy industry. The new AWS Energy Competency Program, as it’s called, will identify these specialized partners who have already demonstrated the technical expertise",
@@ -919,7 +963,7 @@
       "originalUrl": "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1421,50 +1465,6 @@
         "Computer Vision",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning.md",
-      "title": "Apollo Tyres Goes All-In on AWS to Make Factories Smarter with IoT and Machine Learning",
-      "excerpt": "Amazon Web Services (AWS) announced that Apollo Tyres, India’s leading tyre manufacturer, is going all-in on AWS to digitally transform. By moving all of its IT infrastructure to",
-      "sourceUrl": null,
-      "webUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
-      "originalUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/orissadiary.com/wp-content/uploads/2021/11/Apollo-Tyres_AWS-2.jpg?fit=800%2C532&ssl=1",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
-      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
-      "publishedDateTime": "2021-11-23T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odisha Diary",
-        "domain": "orissadiary.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

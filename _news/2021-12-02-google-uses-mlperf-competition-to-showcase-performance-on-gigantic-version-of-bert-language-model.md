@@ -45,6 +45,15 @@ related:
         width: 500
         height: 348
         isCached: true
+  - title: "Inspur Information Impresses in AI Performance with 7 Titles in MLPerf Training v1.1"
+    excerpt: "The open engineering consortium, MLCommons™ released its latest Training v1.1 results. Inspur Information submitted NF5488A5 and NF5688M6 server results for all 8 single-node closed division tasks, winning 7 of them."
+    publishedDateTime: 2021-12-03T16:14:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211203005408/en/Inspur-Information-Impresses-in-AI-Performance-with-7-Titles-in-MLPerf-Training-v1.1"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 12
 
 secured: "hPHQi4PieK8RjujqgxJTXk3lEb99/uDvnHiPSXwWw71HYXartsnCN1qhxg0pSsY4cfs7xSp6oMxf9N0HojIWcg0c8bATJUOt+FThkuAP6jJXdpgAmwMWUOMiezLGYeTqPgPbiO+sBwuHuDDDKmRY9XrggdOhIVG1DI0xuGjEUo4+f0RgoBzIzL8S2mK7+oQtwa5ZRVnDcX2WJGBdUxunP6bOi5cG/gmAHXzZ6boYFIAQXKxU5XZ7yThftm+7az90yiq0RH5wtgSrKmcwlU2Jrbx3nUtKIC11/i/UzWbuHrIe49pZGybe3eCLqHUi64vFqci9Pgstcg0wdf2ys56gxtQcao/nmGNBEvPryQP5HMCFPrZG3jEZrBk1u/J3mZvsMJHifQRVU1kz5Kz2NO2xyGzMozpdsUe1rcHLR7PwMBG6hbU0W1qShEkzK7A503hNSC/ad1H2MO3dA7uI3RY4qSDfabs1lxp1Hb5Yl6YvcaWVpGZ15b5rBzVqFR7AsCdbokBB2e8c4Md1mTSuUxvaQg==;EAKZSKHmwmkj8GPhOyFlyw=="
 ---

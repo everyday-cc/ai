@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/mantra-softech
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Hans India
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mantra Softech joins NIST facial recognition tests for verification and identification"
+    excerpt: "Mantra Softech has participated for the first time in the NIST Face Recognition Vendor Tests (FRVT) 1:1 and 1:N for biometric accuracy."
+    publishedDateTime: 2021-12-02T20:06:00Z
+    webUrl: "https://www.biometricupdate.com/202112/mantra-softech-joins-nist-facial-recognition-tests-for-verification-and-identification"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
   - title: "Mantra Softech Got Listed on NIST FRVT for Their Facial Recognition"
     excerpt: "The National Institute of Standards and Technology (\"NIST\") published the Face Recognition Vendor Test (FRVT): Identification for Paperless"
     publishedDateTime: 2021-12-03T08:00:00Z

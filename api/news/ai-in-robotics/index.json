@@ -643,6 +643,93 @@
       ]
     },
     {
+      "path": "_news/2021-12-01-the-10-coolest-robotics-startups-of-2021.md",
+      "title": "The 10 Coolest Robotics Startups Of 2021",
+      "excerpt": "The robotics industry is one of revolution, as startups develop new autonomous robots to increase the efficiency of human workers or perhaps free them for tasks that are less dangerous or that add value to a business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/mobility/the-10-coolest-robotics-startups-of-2021",
+      "originalUrl": "https://www.crn.com/slide-shows/mobility/the-10-coolest-robotics-startups-of-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/026f-13d90a4b9997-a7f882416c5e-1000/robotics-startups-2021.jpg",
+          "width": 610,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-aws-pitches-robotics-as-the-next-big-thing.md",
+      "title": "AWS pitches robotics as the next big thing",
+      "excerpt": "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
+      "originalUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/7aaca86652042fcb618061ebd565670c_M.jpg",
+          "width": 375,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-robot-company-offers-200k-for-your-face.md",
       "title": "Robot company offers $200K for your face",
       "excerpt": "A robot manufacturing company is looking for a human face to put on its newest product. Promobot, a European company, said in a press release that it is willing to pay $200,000 to someone for the rights to use their face forever.",
@@ -927,6 +1014,58 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-cyber-monday-vacuum-deals-2021-todays-biggest-savings.md",
+      "title": "Cyber Monday vacuum deals 2021: today's biggest savings",
+      "excerpt": "Multiple control options – including touch and voice – and the 100-hour battery life make it a convenient and low-effort way to keep your home clean. Shark AV993 IQ Robot Vacuum: $379.99 Shark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/black-friday/best-black-friday-vacuum-deals",
+      "originalUrl": "https://www.techradar.com/uk/black-friday/best-black-friday-vacuum-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TRr7iHHnTgY7byfwZYbziY-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1286,153 +1425,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-baidu-ponyai-get-chinas-green-light-to-charge-for-robotaxis.md",
-      "title": "Baidu, Pony.ai Get China's Green Light to Charge for Robotaxis",
-      "excerpt": "By Yifan Wang Chinese tech giant Baidu Inc. and Toyota Motor Corp.-backed startup Pony.ai Inc. have received China's first-ever regulatory go-ahead to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
-      "originalUrl": "https://www.marketwatch.com/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 294,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/baidu-pony-ai-get-china-s-green-light-to-charge-for-robotaxis-271637819575",
-      "publishedDateTime": "2021-11-24T21:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens.md",
-      "title": "Robots and AI assist in designing and building Swiss university’s ‘hanging gardens’",
-      "excerpt": "Architecture and construction have always been, rather quietly, at the bleeding edge of tech and materials trends. It’s no surprise, then, especially at a renowned technical university like ETH Zurich,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/",
-      "originalUrl": "https://techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Semiramis_RFL_DSC_7692.jpg?w=1024",
-          "width": 1024,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/amp/",
-      "publishedDateTime": "2021-11-24T12:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-2021-makex-robotics-competition-north-american-open-ends-successfully.md",
-      "title": "2021 MakeX Robotics Competition North American open. ends successfully",
-      "excerpt": "The robot itself is a complex system that combines ... There is a world of possibilities in STEAM ranging from artificial intelligence to the Internet of Things and the hope is that through ...",
-      "sourceUrl": null,
-      "webUrl": "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/",
-      "originalUrl": "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theislandnow.com/wp-content/uploads/2021/11/IMG_4408-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/amp/",
-      "cdnAmpWebUrl": "https://theislandnow-com.cdn.ampproject.org/c/s/theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/amp/",
-      "publishedDateTime": "2021-11-24T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Island Now",
-        "domain": "theislandnow.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

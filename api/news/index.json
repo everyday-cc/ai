@@ -6,8 +6,8 @@
       "title": "Artificial Intelligence Is All the Rage. What You Need to Know.",
       "excerpt": "UBS calls artificial intelligence a top investment theme for the coming decade. But Eric Schmidt, who used to run Google, warns that investing in AI isn’t so easy.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116",
-      "originalUrl": "https://www.barrons.com/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116",
+      "webUrl": "https://www.barrons.com/articles/ai-stocks-investing-artificial-intelligence-51638579011",
+      "originalUrl": "https://www.barrons.com/articles/ai-stocks-investing-artificial-intelligence-51638579011",
       "featuredContent": null,
       "highlight": null,
       "heat": 77,
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116",
-      "publishedDateTime": "2021-12-03T20:51:00-08:00",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/ai-stocks-investing-artificial-intelligence-51638579011",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-stocks-investing-artificial-intelligence-51638579011",
+      "publishedDateTime": "2021-12-03T21:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Barron's",
@@ -103,7 +103,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -293,6 +293,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-facial-recognition-technology-could-change-the-face-of-indian-airports.md",
+      "title": "Facial recognition technology could change the face of Indian airports",
+      "excerpt": "With the Airports Authority of India (AAI) working on a facial recognition technology-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports, including Varanasi,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html",
+      "originalUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 254,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/images/2019/1/3/face-facial-recognition-software-system-computer-shut.jpg",
+          "width": 760,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html",
+      "publishedDateTime": "2021-12-03T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -634,59 +677,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-03-facebook-exiting-the-facial-recognition-game.md",
-      "title": "Facebook Exiting The Facial Recognition Game",
-      "excerpt": "Meta, the company formerly known as Facebook is pulling the plug on its facial recognition program. It's planning to delete more than one billion people’s individual facial recognition templates, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/",
-      "originalUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a77b820a07bba1e37323e3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/",
-      "publishedDateTime": "2021-12-03T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-12-03-could-googles-deepmind-ai-transform-healthcare.md",
       "title": "Could Google's DeepMind AI Transform Healthcare?",
       "excerpt": "Google's DeepMind artificial intelligence (AI) software is being used to predict the structure of proteins. In this Motley Fool Live video recorded on Nov. 16, 2021, Fool contributors Keith Speights and Brian Orelli discuss whether or not DeepMind could even transform healthcare.",
@@ -695,7 +685,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?time=1638532201",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 171,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -996,6 +986,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-03-crores-of-pensioners-to-be-verified-using-uidai-linked-facial-recognition-app.md",
+      "title": "Crores of pensioners to be verified using UIDAI-linked facial recognition app",
+      "excerpt": "A facial recognition-based app to verify and detect pensioners' liveness has been launched by the Department of Pension & Pensioners’ Welfare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medianama.com/2021/12/223-facial-recognition-app-pensioners-uidai/",
+      "originalUrl": "https://www.medianama.com/2021/12/223-facial-recognition-app-pensioners-uidai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medianama.com/wp-content/uploads/2020/07/face-detection-4762379_1920.jpg-e1630391608288.jpg",
+          "width": 1280,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaNama",
+        "domain": "medianama.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference.md",
       "title": "SKKU: FinTech Research & Education Center for Global Leaders in Financial Innovation holds “2021 Global AI Finance Research Conference”",
       "excerpt": "FinTech Research & Education Center for Global Leaders in Financial Innovation (Director: Prof. Kyo Jik Song) will hold the “2021 Global AI Finance Research Conference” at Sonocam Hotel in Yeosu from",
@@ -1141,58 +1174,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-bugbust-sets-the-guinness-world-record-for-the-largest-bug-fixing-challenge.md",
-      "title": "AWS BugBust sets the Guinness World Record for the largest bug fixing challenge",
-      "excerpt": "AWS BugBust is the first global bug-busting challenge for developers to eliminate 1 million software bugs and save $100 million in technical debt for their organizations. AWS BugBust allows you to create and manage private events that transform and gamify the process of finding and fixing bugs in your",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-bugbust-sets-the-guinness-world-record-for-the-largest-bug-fixing-challenge/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-bugbust-sets-the-guinness-world-record-for-the-largest-bug-fixing-challenge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/02/BugBust-Challenge-board.jpg",
-          "width": 701,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T15:06:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

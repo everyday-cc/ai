@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-02-aws-bugbust-sets-the-guinness-world-record-for-the-largest-bug-fixing-challenge.md",
+      "title": "AWS BugBust sets the Guinness World Record for the largest bug fixing challenge",
+      "excerpt": "AWS BugBust is the first global bug-busting challenge for developers to eliminate 1 million software bugs and save $100 million in technical debt for their organizations. AWS BugBust allows you to create and manage private events that transform and gamify the process of finding and fixing bugs in your",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-bugbust-sets-the-guinness-world-record-for-the-largest-bug-fixing-challenge/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-bugbust-sets-the-guinness-world-record-for-the-largest-bug-fixing-challenge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/02/BugBust-Challenge-board.jpg",
+          "width": 701,
+          "height": 589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T15:06:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch.md",
       "title": "Univ. of Washington deep learning researchers ‘hallucinate’ protein designs from scratch",
       "excerpt": "New protein structures not seen in nature have emerged from deep learning software deployed by University of Washington researchers and their colleagues. The approach is a step toward building",
@@ -168,7 +220,7 @@
       "originalUrl": "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -211,7 +263,7 @@
       "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -345,6 +397,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aai-working-on-facial-recognition-based-passenger-boarding-system-government.md",
+      "title": "AAI working on facial recognition-based passenger boarding system: Government",
+      "excerpt": "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/articleshow/88056152.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/articleshow/88056152.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-88056152,imgsize-5438,width-800/88056152.jpg",
+          "width": 800,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88056152.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88056152.cms",
+      "publishedDateTime": "2021-12-02T07:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1107,91 +1202,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-ai-based-fever-detection-camera-market-2021-2028.md",
-      "title": "AI-based Fever Detection Camera Market 2021-2028",
-      "excerpt": "New study report \" AI-based Fever Detection Camera. Market Overview- The global AI-based fever detection camera market is set to gain traction from their increasing deployment by the retailers, hospitals,",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2482636/ai-based-fever-detection-camera-2021-global-market-key-players",
-      "originalUrl": "https://www.openpr.com/news/2482636/ai-based-fever-detection-camera-2021-global-market-key-players",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc02850118_g.jpg",
-          "width": 800,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2482636/ai-based-fever-detection-camera-2021-global-market-key-players",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2482636/ai-based-fever-detection-camera-2021-global-market-key-players",
-      "publishedDateTime": "2021-12-02T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022.md",
-      "title": "Govt to introduce facial recognition technology at airports by March 2022",
-      "excerpt": "Minister of State for Civil Aviation Ministry General V K Singh (retd) said AAI is working on a project of FRT-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022-11638434344157.html",
-      "originalUrl": "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022-11638434344157.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/12/02/600x338/Airport_1638434633717_1638434633820.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html",
-      "publishedDateTime": "2021-12-02T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

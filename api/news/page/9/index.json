@@ -2,6 +2,291 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-11-25-baidu-pony-ai-granted-chinas-first-licences-to-charge-passengers-for-self-driving-taxis-in-beijing.md",
+      "title": "Baidu, Pony AI granted China’s first licences to charge passengers for self-driving taxis in Beijing",
+      "excerpt": "Baidu and Pony AI became the first companies to be approved by mainland Chinese authorities to launch their autonomous cab services commercially following successful trial periods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/6fdc88ce-dddc-4a5d-8ba9-e374c88fc240_dea56383.jpg?itok=TisaetVJ&v=1637822271",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "publishedDateTime": "2021-11-25T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml.md",
+      "title": "Design of AI may change with the open-source Apache TVM and a little help from startup OctoML",
+      "excerpt": "Optimizing the compute graph of neural nets for new hardware may change even the training of neural nets, says startup OctoML.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
+      "originalUrl": "https://www.zdnet.com/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5122e903258a58970502b65f243f042e398e4268/2021/11/24/9dcb6e32-5e9a-4462-9146-0a02ab9e4e18/luis-ceze-octoml-sept-2021.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
+      "publishedDateTime": "2021-11-25T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users.md",
+      "title": "MediaTek fixes vulnerability on its chips allowing certain apps to listen users",
+      "excerpt": "MediaTek went from a controversial chipmaker to one of the most relevant in the last years. The Dimensity lineup brought the Taiwanese chipmaker big achievements",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/",
+      "originalUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/11/MediaTek-Dimensity-2232-1024x576.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/",
+      "publishedDateTime": "2021-11-25T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-hire-mobile-app-developers-in-england.md",
+      "title": "Hire Mobile App Developers in England",
+      "excerpt": "Hire the best freelance Mobile App Developers in England on Upwork™, the world’s top freelancing website. It’s simple to post your job and we’ll quickly match you with the top Mobile App Developers in England for your Mobile App Development project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upwork.com/hire/mobile-app-developers/england-gb/",
+      "originalUrl": "https://www.upwork.com/hire/mobile-app-developers/england-gb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Upwork",
+        "domain": "upwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt.md",
+      "title": "Kozhikode-based AI-driven healthcare start-up gets funding from Malta govt",
+      "excerpt": "Kozhikode: Kozhikode-based IT start-up Intpurple Technologies, which developed an Artificial Intelligence driven healthcare software, has received funding from the Government of Malta, the company said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
+      "originalUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.mathrubhumi.com/polopoly_fs/1.6210998.1637839781!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
+      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
+      "publishedDateTime": "2021-11-25T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mathrubhumi",
+        "domain": "mathrubhumi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-uk.md",
+      "title": "HAI ROBOTICS boosts e-commerce fulfillment for cross-border warehouse in U.K.",
+      "excerpt": "HAI ROBOTICS, a global leader in Autonomous Case-handling Robotic (ACR) system for warehouse logistics, announced that its first project in the U.K. with Chinese cross-border warehouse operator WINIT a success as deliveries for holiday shopping parcels are about to knock on the door.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k-1031003268",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k-1031003268",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1696407/WINIT_cross_border_ecommerce_warehouse_in_UK.jpg",
+          "width": 400,
+          "height": 277,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-baidu-kicks-off-its-robotaxi-business-after-getting-the-ok-to-charge-fees-in-beijing.md",
       "title": "Baidu kicks off its robotaxi business, after getting the OK to charge fees in Beijing",
       "excerpt": "Effective Thursday, Baidu's Apollo unit that runs the robotaxi business can collect fares from passengers taking one of 67 self-driving cars in Beijing's suburban district of Yizhuang. While the ...",
@@ -923,291 +1208,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies.md",
-      "title": "Break Down Silos And Improve Productivity With These Emerging AI Technologies",
-      "excerpt": "Work to identify areas in which AI could add the most value to operations and collaboration. When integrated successfully, these technologies can lead to noted improvements in business outcomes, customer experience and employee happiness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60520f51e51980009c63f201%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/24/break-down-silos-and-improve-productivity-with-these-emerging-ai-technologies/amp/",
-      "publishedDateTime": "2021-11-24T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-south-korea-starts-work-on-330m-national-ai-complex.md",
-      "title": "South Korea starts work on $330m national AI complex",
-      "excerpt": "A groundbreaking ceremony was held on Monday for a $330m artificial intelligence complex in the southwestern Korean city of Gwangju, the Yonhap news agency reports. The National AI Industrial",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalconstructionreview.com/south-korea-starts-work-on-330m-national-ai-complex/",
-      "originalUrl": "https://www.globalconstructionreview.com/south-korea-starts-work-on-330m-national-ai-complex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalconstructionreview.com/wp-content/uploads/2021/11/241121-Korea-AI-complex.jpg",
-          "width": 465,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-24T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "globalconstructionreview.com",
-        "domain": "globalconstructionreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-can-ai-truly-give-us-a-glimpse-of-lost-masterpieces.md",
-      "title": "Can AI Truly Give Us a Glimpse of Lost Masterpieces?",
-      "excerpt": "Recent projects used machine learning to resurrect paintings by Klimt and Rembrandt. They raise questions about what computers can understand about art.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/",
-      "originalUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/619d6ee45b2d2156d9905d6b/master/pass/Culture_TA_Rijksmuseum---De-Nachtwacht---installatie-van-de-missende-delen.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-reviving-lost-art/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-reviving-lost-art/amp",
-      "publishedDateTime": "2021-11-24T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-machine-learning-software-market-breaks-out-to-new-high-microsoft-google-tensorflow-kount.md",
-      "title": "Machine Learning Software Market Breaks Out to New High | Microsoft, Google, TensorFlow, Kount",
-      "excerpt": "Global Machine Learning Software Market Status Trends and COVID 19 Impact Report 2021 Covid 19 Outbreak Impact research report added by Report Ocean is an in depth analysis of market characteristics size and growth segmentation regional and country breakdowns competitive",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2472920/machine-learning-software-market-breaks-out-to-new-high",
-      "originalUrl": "https://www.openpr.com/news/2472920/machine-learning-software-market-breaks-out-to-new-high",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub24176834_g.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2472920/machine-learning-software-market-breaks-out-to-new-high",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472920/machine-learning-software-market-breaks-out-to-new-high",
-      "publishedDateTime": "2021-11-24T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-healthcare-artificial-intelligence-ai-market-insights-on-challenges-opportunities-size-2026.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market– Insights on Challenges & Opportunities size 2026",
-      "excerpt": "According to Stratistics MRC, the Global Healthcare Artificial Intelligence (AI) Market is accounted for $0.95 billion in 2017 and is expected to reach $19.25 billion by 2026 growing at a CAGR of 39.7% during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pr-inside.com/healthcare-artificial-intelligence-ai-market-insights-on-challenges-opportunities-size-r4856223.htm",
-      "originalUrl": "https://www.pr-inside.com/healthcare-artificial-intelligence-ai-market-insights-on-challenges-opportunities-size-r4856223.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-24T01:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR-Inside",
-        "domain": "pr-inside.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2.md",
-      "title": "Tintra Shares Climb After Entering Artificial Intelligence JV With TMC2",
-      "excerpt": "By Jaime Llinares Taboada Shares in Tintra PLC rose Wednesday after it said it has entered into a joint venture with investment and research company",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
-      "originalUrl": "https://www.marketwatch.com/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tintra-shares-climb-after-entering-artificial-intelligence-jv-with-tmc2-271637748015",
-      "publishedDateTime": "2021-11-24T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

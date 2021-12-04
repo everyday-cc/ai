@@ -20,78 +20,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "MassRobotics Announces AWS Robotics Startup Accelerator"
-    excerpt: "AWS Robotics Accelerator to scale robotics startups focused on automation and IIOT BOSTON, MA / ACCESSWIRE / November 29, 2021 / MassRobotics has announced a new Amazon Web Services, Inc. (AWS) Robotics Startup Accelerator to address the biggest challenges in the automation,"
-    publishedDateTime: 2021-11-29T13:48:00Z
-    webUrl: "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 71
-    images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "AWS pitches robotics as the next big thing"
-    excerpt: "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations"
-    publishedDateTime: 2021-11-30T14:55:00Z
-    webUrl: "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 71
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/7aaca86652042fcb618061ebd565670c_M.jpg"
-        width: 375
-        height: 213
-        isCached: true
-  - title: "AWS Introduces A New Platform For Developing Robotics Applications"
-    excerpt: "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together."
-    publishedDateTime: 2021-12-02T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Amazon Launches Preview of AWS IoT RoboRunner for Better Robotic Fleets"
-    excerpt: "Now available in public preview, at no additional cost, AWS IoT RoboRunner aims to simplify fleet app development and management."
-    publishedDateTime: 2021-11-30T18:58:00Z
-    webUrl: "https://www.hackster.io/news/amazon-launches-preview-of-aws-iot-roborunner-for-better-robotic-fleets-4857781e98c9"
-    ampWebUrl: "https://www.hackster.io/news/amazon-launches-preview-of-aws-iot-roborunner-for-better-robotic-fleets-4857781e98c9.amp"
-    cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/amazon-launches-preview-of-aws-iot-roborunner-for-better-robotic-fleets-4857781e98c9.amp"
-    type: article
-    provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 59
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1379809/image_nrYONkldZg.png?auto=compress%2Cformat"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "The 10 Coolest Robotics Startups Of 2021"
-    excerpt: "The robotics industry is one of revolution, as startups develop new autonomous robots to increase the efficiency of human workers or perhaps free them for tasks that are less dangerous or that add value to a business."
-    publishedDateTime: 2021-11-30T19:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/mobility/the-10-coolest-robotics-startups-of-2021"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
-    images:
-      - url: "https://www.crn.com/resources/026f-13d90a4b9997-a7f882416c5e-1000/robotics-startups-2021.jpg"
-        width: 610
-        height: 458
-        isCached: true
   - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
     excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services ( News - Alert ),"
     publishedDateTime: 2021-11-30T14:16:00Z
@@ -101,15 +29,59 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 30
-  - title: "Enzolytics Announces Progress As It Recognizes World AIDS Day"
-    excerpt: "COLLEGE STATION, TX / ACCESSWIRE / December 2, 2021 / Enzolytics wishes to recognize and acknowledge World AIDS Day - a day to call attention to the continued need for a more effective treatment for HIV,"
-    publishedDateTime: 2021-12-02T22:08:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/12/02/enzolytics-announces-progress-as-it-recognizes-world-aids-day"
+  - title: "Data Storage Market to Escalate Swiftly; Adoption of Big Data Analytics and AI to Amplify Revenue, states Fortune Business Insights™"
+    excerpt: "The growing demand for cloud drives owing to enormous data collection is expected to foster the growth of the market,"
+    publishedDateTime: 2021-12-02T08:03:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24399161/data-storage-market-to-escalate-swiftly-adoption-of-big-data-analytics-and-ai-to-amplify-revenue-s"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24399161"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24399161"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 19
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "S&P Global Market Intelligence launches Artificial Intelligence-enabled Document Analytics functionality on S&P Capital IQ Pro platform"
+    excerpt: "S&P Global Market Intelligence has launched an Artificial Intelligence-enabled (AI) workflow tool on S&P Capital IQ Pro that enables users to search across and extract relevant insights quickly and efficiently from textual content."
+    publishedDateTime: 2021-11-30T17:19:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-80d36f4f4779332d03cb2711b7394dc0"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone"
+    excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone - regardless of skill level and expertise - to ask data questions in plain language and instantly receive the answer in Yellowfin."
+    publishedDateTime: 2021-12-03T14:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-yellowf-launches-guided-natural-language-query-making-true-/2021/12/03/9504439.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
+  - title: "Digital Transformation 2021: 5G Technology and Solutions for IoT, Artificial Intelligence in Big Data Analytics and IoT, Digital Twins Market Sizing a"
+    excerpt: "G, AI, Big Data Analytics, Blockchain, Cloud and Mobile Edge Computing, Connected and Wearable Devices, Cybersecurity, Digital Twins, Identity Management, IoT, Robotics, Smart Cities, Teleoperation and Virtual Reality\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-12-03T09:26:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=581911"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "oaNgegLmf3nSMqBRRLknPep88CSrmrb/5DCUgccMIamt0NDHKqxajT0Ho+rl3t+q1cKNNTDbiKFHd1/pWLLdlkg9BuzyhvVWZJhmX5BV7uwHRgAatMNmwhfLC/5zveUhYQIAYCg0nog+1dxtS1ZjMU+JaUE13BuLRRKj2lQyVgLPuQyuIDWMF5ddMZIL6WsWnLKfsIORuAHMGfNR09d2rVoJLlu9MD6spmuLYIsM6pVcKmBJlV480bsznmgYRz7H03Me+5hBo7OxAIFMMHpku5lvZlDkIEEJo3L7J0NcgfjmU6bc6hrVNQLjWSbb8Dw3tV4Hrl78JFQUKsGNKHj6Qh4Mp9LWp1oGLkud+27ajxs=;3pHbPClIudPpU0Vk4z5M/g=="
 ---

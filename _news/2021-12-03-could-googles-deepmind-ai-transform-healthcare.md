@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?amp"
 type: article
 quality: 101
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH_yh2awX0W1Q/article-cover_image-shrink_720_1280/0/1638304560217?e=1643846400&v=beta&t=tr7TC_D7D2U1rOoX8clY8zFCEeArwWpdJg_DqOhuzvA"
         width: 1080
         height: 720
-        isCached: true
-  - title: "How Artificial Intelligence is Transforming Healthcare Philanthropy"
-    excerpt: "Philanthropy is often an untapped yet significant source that can transform a healthcare organization. To raise more money, hospitals need to identify more potential donors. We know people give because of people."
-    publishedDateTime: 2021-11-29T14:57:00Z
-    webUrl: "https://www.beckershospitalreview.com/philanthropy/how-artificial-intelligence-is-transforming-healthcare-philanthropy-2.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
         isCached: true
   - title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
     excerpt: "DeepMind, the UK-based artificial intelligence company backed by Google’s parent company, Alphabet Inc, has developed a program that can help mathematicians spot patterns. It has already led to ..."

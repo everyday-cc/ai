@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Therapixel and Ferrum Health announce collaboration to facilitate access to Breast Imaging AI"
-    excerpt: "Therapixel, a software company specializing in artificial intelligence (AI) applied to breast cancer screening, announced a partnership with Ferrum Health, the developer of a Healthcare AI Hub utilized by health systems to simplify and organized the deployment of artificial intelligence."
-    publishedDateTime: 2021-11-29T13:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/therapixel-and-ferrum-health-announce-collaboration-to-facilitate-access-to-breast-imaging-ai-1031008692"
+  - title: "CVS, Microsoft ink alliance to co-develop digital health, personalized products"
+    excerpt: "CVS has leaned heavily into an omnichannel strategy as it looks to weave together its virtual and physical assets to capture a greater slice of patients' healthcare journeys — and its corresponding revenue."
+    publishedDateTime: 2021-12-02T17:04:00Z
+    webUrl: "https://www.healthcaredive.com/news/cvs-microsoft-alliance-digital-health/610850/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 35
     images:
-      - url: "https://mma.prnewswire.com/media/1697342/Logo_Therapixel_Ferrum.jpg"
-        width: 400
-        height: 335
+      - url: "https://www.healthcaredive.com/user_media/cache/0e/8e/0e8e7ba17368e555bbbd005296e59c53.jpg"
+        width: 770
+        height: 363
         isCached: true
   - title: "CVS Health and Microsoft Announce New Strategic Alliance to Reimagine Personalized Care and Accelerate Digital Transformation"
     excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions to help consumers improve their health, while empowering over 300,"

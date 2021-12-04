@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Researchers propose AI-based approach to contactless machine failure detection"
-    excerpt: "The world's largest manufacturers lose 1 trillion dollars per year to machine failure. Many problems lie in the noisy factory environment—working equipment and processes produce high sound, consequently,"
-    publishedDateTime: 2021-11-29T13:50:00Z
-    webUrl: "https://techxplore.com/news/2021-11-ai-based-approach-contactless-machine-failure.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-ai-based-approach-contactless-machine-failure.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-ai-based-approach-contactless-machine-failure.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/researchers-propose-ai.jpg"
-        width: 2508
-        height: 1672
-        isCached: true
   - title: "Facial recognition to debut at border checkpoints"
     excerpt: "Hong Kong residents will be able to enter or leave the city by simply looking into a camera from Wednesday as the Immigration Department introduces facial recognition technology in the automated ..."
     publishedDateTime: 2021-11-30T08:48:00Z

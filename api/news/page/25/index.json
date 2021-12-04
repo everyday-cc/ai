@@ -2,6 +2,284 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-11-12-self-driving-truck-startup-kodiak-robotics-raises-125-million.md",
+      "title": "Self-Driving Truck Startup Kodiak Robotics Raises $125 Million",
+      "excerpt": "Self-driving truck startup Kodiak Robotics recently announced a $125 million funding round as the trucking industry is facing major challenges, including growing shipping demand and driver shortages.",
+      "sourceUrl": null,
+      "webUrl": "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million",
+      "originalUrl": "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.chdrstatic.com/media/4d811bbb-96df-46b3-885f-771caf17ad34.jpg?width=1200&source=backend&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp",
+      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/self-driving-truck-startup-kodiak-robotics-raises-125-million.amp",
+      "publishedDateTime": "2021-11-11T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cheddar",
+        "domain": "cheddar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-customize-amazon-translate-output-to-meet-your-domain-and-organization-specific-vocabulary.md",
+      "title": "Customize Amazon Translate output to meet your domain and organization specific vocabulary",
+      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. When you translate from one language to another, you want your machine translation to be accurate, fluent, and most importantly contextual. Customization is key",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-translate-output-to-meet-your-domain-and-organization-specific-vocabulary/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-translate-output-to-meet-your-domain-and-organization-specific-vocabulary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T14:09:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-companies-order-record-number-of-robots-amid-labor-shortage.md",
+      "title": "Companies Order Record Number of Robots Amid Labor Shortage",
+      "excerpt": "North American firms ordered nearly 29,000 robotics units in first nine months of 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
+      "originalUrl": "https://www.wsj.com/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-433263/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/companies-order-record-number-of-robots-amid-labor-shortage-11636669766",
+      "publishedDateTime": "2021-11-11T13:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-video-level-computer-vision-advances-business-insights.md",
+      "title": "Video-level computer vision advances business insights",
+      "excerpt": "Instance-based classification, segmentation, and object detection in images are fundamental issues in the context of computer vision. Different from image-level information retrieval, the video ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/",
+      "originalUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-3-e1628543109807.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/11/video-level-computer-vision-advances-business-insights/amp/",
+      "publishedDateTime": "2021-11-11T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance.md",
+      "title": "The Intersection of AI and DeFi and Why It’s the Future of Finance",
+      "excerpt": "SingularityNET CEO Ben Goertzel joins Jill Malandrino on Nasdaq #TradeTalks virtually from the Singapore Fintech Festival to discuss the intersection of AI and #DeFi and why it’s the future of finance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
+      "originalUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
+      "publishedDateTime": "2021-11-11T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-baidu-3-trades-to-take-advantage-of-recent-price-slip.md",
+      "title": "Baidu: 3 Trades To Take Advantage Of Recent Price Slip",
+      "excerpt": "Although Baidu is known for its internet services and as the leading search engine in China, management’s focus has been shifting to artificial intelligence and autonomous driving. Despite ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/analysis/baidu-3-trades-to-take-advantage-of-recent-price-slip-200607994",
+      "originalUrl": "https://www.investing.com/analysis/baidu-3-trades-to-take-advantage-of-recent-price-slip-200607994",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+          "width": 500,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-11T12:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing.com",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-12-uae-aws-announces-plans-to-open-second-region-in-canada.md",
       "title": "UAE - AWS Announces Plans to Open Second Region in Canada",
       "excerpt": "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services ...",
@@ -925,299 +1203,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-samsung-exynos-2200s-amd-gpu-exhibits-34-peak-performance-improvement-over-predecessor.md",
-      "title": "Samsung Exynos 2200’s AMD GPU exhibits 34% peak performance improvement over predecessor",
-      "excerpt": "A reliable leakster has shared that the AMD GPU on the Samsung Exynos 2200 exhibits 34% peak performance improvement over its predecessor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/",
-      "originalUrl": "https://www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/09/Samsung-Exynos-Logo-Featured.jpg",
-          "width": 4000,
-          "height": 2250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/11/samsung-exynos-2200-has-34-better-peak-gpu-performance-than-2100/?amp=1",
-      "publishedDateTime": "2021-11-11T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-facial-recognition-marches-forward-no-matter-what-facebook-says.md",
-      "title": "Facial Recognition Marches Forward, No Matter What Facebook Says",
-      "excerpt": "Facebook parent Meta Platforms Inc. said on Nov. 2 it was shuttering the facial recognition system it used to automatically identify people in images posted to its social network. The company is working to repair a public image crisis—there’s a reason it’s not called Facebook anymore —and facial recognition has become an increasingly toxic concept in many circles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognition-tech-won-t-go-away-despite-facebook-fb-ending-system",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-11/facial-recognition-tech-won-t-go-away-despite-facebook-fb-ending-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iasNo_27kiKU/v0/1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-hello-robot-why-overly-realistic-ai-is-bad.md",
-      "title": "Hello Robot, Why Overly-Realistic AI Is Bad",
-      "excerpt": "The AI software robot ‘bots’ that have passed the Turing test so ... AI engines have been subject to abuse and even sexual harassment. A 2019 UNESCO Artificial Intelligence report demonstrated how AIs can 'reflect, reinforce and spread gender bias ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/11/11/hello-robot-why-overly-realistic-ai-is-bad/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/11/11/hello-robot-why-overly-realistic-ai-is-bad/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618bbcb2fc85269e4a83e35f%2F0x0.jpg",
-          "width": 640,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech.md",
-      "title": "Toch.ai launches Rs 100 cr Startup Fund; to invest in video, audio tech",
-      "excerpt": "Toch.ai, an AI-driven SaaS platform for digital content players today launched a Rs 100 crore Startup Fund to invest in video and audio tech startups globally over a period of time. The fund aims to empower early-stage startups to drive innovation and bolster growth in the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "originalUrl": "https://www.freepressjournal.in/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2021-11/e1f7a425-dd56-4a5f-9314-e526345683bf/Toch_ai_Co_Founders.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
-      "publishedDateTime": "2021-11-10T23:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-google-pixel-6-series-might-get-face-unlock-smarts-after-all.md",
-      "title": "Google Pixel 6 series might get face unlock smarts after all",
-      "excerpt": "The Google Pixel 6 series launched without face unlock, however, a new commit suggests that the firm is still working on the feature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/",
-      "originalUrl": "https://www.androidauthority.com/google-pixel-6-face-unlock-3056814/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/11/pixel-6-fingerprint.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/google-pixel-6-face-unlock-3056814/",
-      "publishedDateTime": "2021-11-10T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-artificial-intelligence-in-healthcare-global-market-forecast-to-2030.md",
-      "title": "Artificial Intelligence in Healthcare Global Market - Forecast to 2030",
-      "excerpt": "(MENAFN- Comserve) Shibuya-ku, Tokyo, Japan, Japan, Nov 10, 2021, 23:02 /Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $ ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103146676/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2030",
-      "originalUrl": "https://menafn.com/1103146676/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?232578",
-          "width": 261,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T21:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

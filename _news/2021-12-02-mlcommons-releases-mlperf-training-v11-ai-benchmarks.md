@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2021/12/mlcommons-releases-mlperf-training-v
 webUrl: "https://insidehpc.com/2021/12/mlcommons-releases-mlperf-training-v1-1-ai-benchmarks/"
 type: article
 quality: 139
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Inspur Information Impresses in AI Performance with 7 Titles in MLPerf Training v1.1"
+    excerpt: "The open engineering consortium, MLCommons™ released its latest Training v1.1 results. Inspur Information submitted NF5488A5 and NF5688M6 server results for all 8 single-node closed division tasks, winning 7 of them."
+    publishedDateTime: 2021-12-03T16:14:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211203005408/en/Inspur-Information-Impresses-in-AI-Performance-with-7-Titles-in-MLPerf-Training-v1.1"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 12
 
 secured: "DFFUchVPcTrjx2ZdjxCgVm1/UXkYgc2bjr8gAfaHjzZ00bMNgzuvLT9sqnivHbSRIPlrgtrGf4vBXlu0J/q/1YF6sy0MCnmkm9rHQFatx+5+81YTYB09Hitgg1sn6QUaoMAcNCskFisMhw/5PEk8a4OTgl/zyMVqhtxDyuy1IhCZfmUUGf3V6sRcKjOGdE7/HLTwzXT/gXIXrhIU1gwnApMXG0HJJiS3dUzBZ6UTrMjFGNNmACP4pXt2fggG0nsYHasjyg5C+t2Kdt8GxMAqTA52wTaQ7jQL9vScqu+e4fDzjihTPDkjRGtg3L8QALQIKfKCXUDNrVluM6mbon8kkzmyUxqZd/UpIotv2XhE67RUwBMpF+lCOOnKVZl1N97b6icNJY2mVm2zRjYAJDNbSb1Cd0rIcbEO36z5RfevLYdx6UihrfqwhMYwMFGrU5oSnIETNyWUqj1OuFZSq0fbszrA6g3qrXi9BczX9OvyfSbIPBVgT57MntD6EpKNWJmvckf7+sHKnPhCL2XqLJoTSIi+c31dIxl5mZApx9874NA=;Uuc5hV9HEjIkx8bX9vhpWw=="
 ---

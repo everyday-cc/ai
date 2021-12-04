@@ -89,20 +89,6 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "How Artificial Intelligence is Transforming Healthcare Philanthropy"
-    excerpt: "Philanthropy is often an untapped yet significant source that can transform a healthcare organization. To raise more money, hospitals need to identify more potential donors. We know people give because of people."
-    publishedDateTime: 2021-11-29T14:57:00Z
-    webUrl: "https://www.beckershospitalreview.com/philanthropy/how-artificial-intelligence-is-transforming-healthcare-philanthropy-2.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
     excerpt: "DeepMind, the UK-based artificial intelligence company backed by Google’s parent company, Alphabet Inc, has developed a program that can help mathematicians spot patterns. It has already led to ..."
     publishedDateTime: 2021-12-02T11:00:00Z

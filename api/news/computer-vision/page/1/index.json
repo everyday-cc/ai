@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-03-facebook-exiting-the-facial-recognition-game.md",
-      "title": "Facebook Exiting The Facial Recognition Game",
-      "excerpt": "Meta, the company formerly known as Facebook is pulling the plug on its facial recognition program. It's planning to delete more than one billion people’s individual facial recognition templates, and",
+      "path": "_news/2021-12-03-facial-recognition-technology-could-change-the-face-of-indian-airports.md",
+      "title": "Facial recognition technology could change the face of Indian airports",
+      "excerpt": "With the Airports Authority of India (AAI) working on a facial recognition technology-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports, including Varanasi,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/",
-      "originalUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/",
+      "webUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html",
+      "originalUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 254,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a77b820a07bba1e37323e3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/images/2019/1/3/face-facial-recognition-software-system-computer-shut.jpg",
+          "width": 760,
+          "height": 443,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/",
-      "publishedDateTime": "2021-12-03T04:00:00-08:00",
+      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html",
+      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html",
+      "publishedDateTime": "2021-12-03T07:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Week",
+        "domain": "theweek.in",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,9 +40,8 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -94,6 +84,92 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-crores-of-pensioners-to-be-verified-using-uidai-linked-facial-recognition-app.md",
+      "title": "Crores of pensioners to be verified using UIDAI-linked facial recognition app",
+      "excerpt": "A facial recognition-based app to verify and detect pensioners' liveness has been launched by the Department of Pension & Pensioners’ Welfare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medianama.com/2021/12/223-facial-recognition-app-pensioners-uidai/",
+      "originalUrl": "https://www.medianama.com/2021/12/223-facial-recognition-app-pensioners-uidai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medianama.com/wp-content/uploads/2020/07/face-detection-4762379_1920.jpg-e1630391608288.jpg",
+          "width": 1280,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaNama",
+        "domain": "medianama.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aai-working-on-facial-recognition-based-passenger-boarding-system-government.md",
+      "title": "AAI working on facial recognition-based passenger boarding system: Government",
+      "excerpt": "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/articleshow/88056152.cms",
+      "originalUrl": "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/articleshow/88056152.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-88056152,imgsize-5438,width-800/88056152.jpg",
+          "width": 800,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88056152.cms",
+      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88056152.cms",
+      "publishedDateTime": "2021-12-02T07:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadgets Now",
+        "domain": "gadgetsnow.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -159,21 +235,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022.md",
-      "title": "Govt to introduce facial recognition technology at airports by March 2022",
-      "excerpt": "Minister of State for Civil Aviation Ministry General V K Singh (retd) said AAI is working on a project of FRT-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports.",
+      "path": "_news/2021-12-01-mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition.md",
+      "title": "Mantra Softech gets Listed on NIST FRVT for Facial Recognition",
+      "excerpt": "Mantra Softech recently announced that its facial recognition algorithms 1:N and 1:1 placed first out of 25 percent tested systems and 367 entrants in the latest NIST FRVT.",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022-11638434344157.html",
-      "originalUrl": "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022-11638434344157.html",
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
       "featuredContent": null,
       "highlight": null,
-      "heat": 253,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://images.livemint.com/img/2021/12/02/600x338/Airport_1638434633717_1638434633820.jpg",
-          "width": 600,
-          "height": 338,
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/01/1124367-mantra-softech.jpg",
+          "width": 1000,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -181,13 +257,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html",
-      "publishedDateTime": "2021-12-02T01:01:00-08:00",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
+      "publishedDateTime": "2021-12-01T06:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -254,7 +330,7 @@
       "originalUrl": "https://www.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -382,6 +458,58 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-clearview-ai-is-facing-a-23-million-fine-over-facial-recognition-in-the-uk.md",
+      "title": "Clearview AI Is Facing A $23 Million Fine Over Facial Recognition In The UK",
+      "excerpt": "The provisional decision comes after a series of BuzzFeed News investigations revealing widespread and sometimes unsanctioned use of the company’s facial recognition software around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.buzzfeednews.com/article/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial",
+      "originalUrl": "https://www.buzzfeednews.com/article/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 302,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2017-12/18/7/campaign_images/buzzfeed-prod-fastlane-01/35-times-privacy-was-a-lie-in-2017-2-22650-1513601379-1_dblbig.jpg",
+          "width": 625,
+          "height": 415,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.buzzfeednews.com/amphtml/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial",
+      "cdnAmpWebUrl": "https://www-buzzfeednews-com.cdn.ampproject.org/c/s/www.buzzfeednews.com/amphtml/richardnieva/clearview-ai-faces-potential-23-million-fine-over-facial",
+      "publishedDateTime": "2021-11-29T14:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BuzzFeed News",
+        "domain": "buzzfeednews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/buzzfeednews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1230,145 +1358,6 @@
         "Computer Vision",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia.md",
-      "title": "Unwelcome in Another Country, Clearview AI Forced to Delete Facial Recognition Data in Australia",
-      "excerpt": "Australia's privacy commissioner has ruled that Clearview AI has violated the privacy of the country's residents, and that means it will be forced to delete its cache of their facial recognition data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/",
-      "originalUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/11/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/",
-      "publishedDateTime": "2021-11-17T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment.md",
-      "title": "Coros raises $6.1M to bring computer vision to e-commerce parcel fulfillment",
-      "excerpt": "Coros, a real-time visibility provider for e-commerce and parcel fulfillment, announced Wednesday that it has raised a $6.1 million seed round of venture capital funding led by Dynamo Ventures. Susa Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment",
-      "originalUrl": "https://www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/11/Leadership-Team-1200x799.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/coros-raises-61m-to-bring-computer-vision-to-e-commerce-parcel-fulfillment/amp",
-      "publishedDateTime": "2021-11-17T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-from-early-disease-detection-to-facial-recognition-tech-heres-how-ai-is-integrated-with-everyday-tools.md",
-      "title": "From early disease detection to facial-recognition tech, here's how AI is integrated with everyday tools",
-      "excerpt": "Businesses are keen to adopt AI solutions in their technology and make the most of the competitive advantage it brings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/how-artificial-intelligence-is-changing-everyday-technology-2021-11",
-      "originalUrl": "https://www.businessinsider.com/sc/how-artificial-intelligence-is-changing-everyday-technology-2021-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6194f1a6a2e68800198a9cfd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T08:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

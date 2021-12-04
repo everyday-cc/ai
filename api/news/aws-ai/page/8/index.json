@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-15-discovery-partners-with-aws-on-track-cycling-insights-cloud.md",
+      "title": "Discovery partners with AWS on track cycling insights, cloud",
+      "excerpt": "Two companies plan to work together to deliver new fan engagement experiences around the UCI cycling competition, including a new UCI Track Champions League app",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud",
+      "originalUrl": "https://www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/09/disco-aws-copy.jpg",
+          "width": 750,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/discovery-partners-with-aws-on-track-cycling-insights-cloud?amp",
+      "publishedDateTime": "2021-09-15T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-snowflake-launches-financial-services-data-cloud-touts-big-customer-wins.md",
       "title": "Snowflake launches Financial Services Data Cloud, touts big customer wins",
       "excerpt": "Snowflake launched its Financial Services Data Cloud with more than 600 industry data partners as well as large customers including BlackRock, Capital One and Western Union. In February, Snowflake ...",

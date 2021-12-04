@@ -2,6 +2,156 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-05-governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says.md",
+      "title": "Governments must check if Facebook really does scrap face recognition, Frances Haugen says",
+      "excerpt": "Facebook made the announcement on Tuesday, partly in response to growing scrutiny from regulators and legislators over user safety and abuses on its p..",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-87533911,imgsize-30076,width-1200,height-628,overlay-etbrandequity/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/governments-must-check-if-facebook-really-does-scrap-face-recognition-frances-haugen-says/87533911",
+      "publishedDateTime": "2021-11-04T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-is-metas-facial-recognition-retreat-another-head-fake.md",
+      "title": "Is Meta’s Facial Recognition Retreat Another Head Fake?",
+      "excerpt": "Facebook, oops, Meta — boy, this is going to take some getting used to — announced this week that it would end its decade-old facial recognition system and delete the face dat",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html",
+      "originalUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/11/04/opinion/04Swisher-image/04Swisher-image-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html",
+      "publishedDateTime": "2021-11-04T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-facebook-should-not-have-bowed-to-public-outrage-and-shut-down-its-facial-recognition-system-former-world-chess-champion-says.md",
+      "title": "Facebook should not have bowed to public outrage and shut down its facial recognition system, former world chess champion says",
+      "excerpt": "Facebook is wrong to shut down facial recognition, according to Gary Kasparov, the former world chess champion and chairman of Human Rights Foundation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
+      "originalUrl": "https://www.cnbc.com/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106173405-1570674137430gettyimages-1167464772.jpeg?v=1570674164",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
+      "publishedDateTime": "2021-11-04T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-super-human-vision-technology-to-revolutionize-road-safety-in-autonomous-vehicles.md",
       "title": "Super-human vision technology to revolutionize road safety in autonomous vehicles",
       "excerpt": "Terranet AB (NASDAQ: TERRNT B) teams up with NEVS to explore innovative applications of its VoxelFlowTM technology to redefine urban road safety enabled by its unrivalled detection speed Lund, Sweden,",
@@ -1203,153 +1353,6 @@
         "AI",
         "Computer Vision",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport.md",
-      "title": "First Look: Delta, TSA Launch Facial Recognition At Atlanta Airport",
-      "excerpt": "The next step in airport automation has become a reality, just in time for the holidays. Delta Airlines, the Transportation Security Administration (TSA), and a travel tech company called Pangiam have partnered up to bring facial recognition technology to the Hartsfield–Jackson Atlanta International Airport (ATL).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6179439eb80f6c3c90620ec3%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/",
-      "publishedDateTime": "2021-10-27T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-atos-integrates-viisights-software-into-atos-computer-vision-platform-to-enable-247-safety-in-cities.md",
-      "title": "Atos integrates viisights software into Atos computer vision platform to enable 24/7 safety in cities",
-      "excerpt": "Atos announces its new partnership to integrate viisights software into its Atos Computer Vision Platform. Atos is a pioneer in global Edge AI. This collaboration will allow viisights’ powerful behavioural video analytics to run on Atos Computer Vision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/atos-integrates-viisights-software-atos-computer-co-1565673901-ga-co-1609308630-ga.1635335734.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/atos-integrates-viisights-software-atos-computer-co-1565673901-ga-co-1609308630-ga.1635335734.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/visights-person-monitoring-fire-detection-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/atos-integrates-viisights-software-atos-computer-co-1565673901-ga-co-1609308630-ga.1635335734.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/atos-integrates-viisights-software-atos-computer-co-1565673901-ga-co-1609308630-ga.1635335734.html",
-      "publishedDateTime": "2021-10-27T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts.md",
-      "title": "Computer vision platform Cogniac nabs $20M to bolster its customer acquisition efforts",
-      "excerpt": "Cogniac, a startup developing computer vision technology primarily for industrial and manufacturing companies, raised $20 million in capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/",
-      "originalUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/27/computer-vision-platform-cogniac-nabs-20m-to-bolster-its-customer-acquisition-efforts/amp/",
-      "publishedDateTime": "2021-10-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Government launches 'unique' face recognition tech for pensioners"
-    excerpt: "\"The central government has been sensitive to the needs of pensioners and to ensure ease of living for them. Soon after coming to power in 2014, the government decided to introduce and implement digital life certificate for the pensioners."
-    publishedDateTime: 2021-11-29T13:39:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/articleshow/87985779.cms"
-    ampWebUrl: "https://m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-59696,msid-87985779/government-launches-unique-face-recognition-tech-for-pensioners.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Govt launches ‘unique’ face recognition tech for pensioners"
-    excerpt: "All pensioners are mandated to submit their life certificate annually to continue receiving pension. The Ministry of Personnel, Public Grievances and Pensions has already implemented a facility of giving the certificate digitally."
-    publishedDateTime: 2021-11-29T13:27:00Z
-    webUrl: "https://www.financialexpress.com/money/govt-launches-unique-face-recognition-tech-for-pensioners/2378474/"
-    ampWebUrl: "https://www.financialexpress.com/money/govt-launches-unique-face-recognition-tech-for-pensioners/2378474/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/money/govt-launches-unique-face-recognition-tech-for-pensioners/2378474/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://images.financialexpress.com/2021/10/2-5.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Crores of pensioners to be verified using UIDAI-linked facial recognition app"
     excerpt: "A facial recognition-based app to verify and detect pensioners' liveness has been launched by the Department of Pension & Pensioners’ Welfare."
     publishedDateTime: 2021-12-03T06:23:00Z
@@ -97,15 +65,20 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Dr Jitendra launches unique ‘Face Recognition Technology’ for Pensioners"
-    excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today launched unique “Face Recognition Technology” for Pensioners and said,"
-    publishedDateTime: 2021-11-29T21:40:00Z
-    webUrl: "https://www.dailyexcelsior.com/dr-jitendra-launches-unique-face-recognition-technology-for-pensioners-2/"
+  - title: "Govt launches face recognition tech for pensioners"
+    excerpt: "Minister of State for Personnel Jitendra Singh on Monday launched a \"unique\" face recognition technology that would act as a proof of life certificate' for pensioners and ensure ease of living for the retired and elderly citizens."
+    publishedDateTime: 2021-11-29T17:38:00Z
+    webUrl: "https://www.theweek.in/news/india/2021/11/29/govt-launches-face-recognition-tech-for-pensioners.html"
     type: article
     provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 18
+      name: The Week
+      domain: theweek.in
+    quality: 39
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/biometric-technology-digital-Face-Scanning-recognition-human-head-shut.jpg"
+        width: 760
+        height: 443
+        isCached: true
 
 secured: "nmpFUWEpIcvbBxIhj4vUTsIuXLQ1nygpPWWQw9C0s5Arj5PIdrlj2WtaUpZb9r03TSOE3tDWc7/sJY06UjaOL3WouVjo0gdFcGADhFgc0gv7xpxAPs1ZPTcCJZ11ITRWwPLUwn3TFA9skrJOH5Dnsudk6vHcnUgEwOdSod5LQ0U05KNZVNtFpH8VO8ocwSaQGdoOREtp+BKMjBokhXX42YjxjRdRu5Dpu+Tj/YKKmXxMZf5O3Plvyc7QhYJDsIliSJB8JT73dLvys5Jv1G7G8byDwSLhRGZrgY8KvknEmfW7WCcP2QmQk0fM+CqM9aKY86zsfn2JzmRHcOY2Y1H3PufoSe7eNoyZhH1Ho9ii95Q=;2dBMZXgwTJRd+/SBNF/RGA=="
 ---

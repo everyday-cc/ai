@@ -3,8 +3,8 @@ category: news
 title: "Qualcomm Technologies and Google Cloud Announce Collaboration on Neural Architecture Search for the Connected Intelligent Edge"
 excerpt: "Qualcomm Technologies and Google Cloud are collaborating on Neural Architecture Search (NAS), enabling the companies to create and optimize AI models automatically rather than manually. • First available on Snapdragon® 8,"
 publishedDateTime: 2021-12-03T05:28:00Z
-originalUrl: "https://www.newswiretoday.com/news/176743/"
-webUrl: "https://www.newswiretoday.com/news/176743/"
+originalUrl: "https://www.newswiretoday.com/news/176743/Qualcomm-Technologies-and-Google-Cloud-Announce-Collaboration-on-Neural-Architecture-Search-for-the-Connected-Intelligent-Edge/"
+webUrl: "https://www.newswiretoday.com/news/176743/Qualcomm-Technologies-and-Google-Cloud-Announce-Collaboration-on-Neural-Architecture-Search-for-the-Connected-Intelligent-Edge/"
 type: article
 quality: 0
 heat: -1
@@ -36,6 +36,6 @@ related:
         height: 675
         isCached: true
 
-secured: "i3kVP9ZaM7BDPs0l6mfP2+7GABXh8b+fdQU6g3l+Ww1lbPaoV1KOB4wEvUbyACVh1oNT+LupyypDAq23z1r5oxzdvsCoDu9gSfhZw6KyT1fBGEgMbSZuoN7QvVs4CtqFONC2ABFwraoFpE1zJHkz03C0gN2zs/XPNloIsoARblMTs2a23p2Dit+4qlwzwMDs5wOvvDX5MBAw3WjsCMMkF06VrWDCSLj8OwPvZ+owd19PWz0TxOofZiUFd3ejUkzeAxNdR5kC/BRosTG0HoJAT2qwad8BxfmY0haj9BywTAO9DiPU0HCc5kmjb8mZRk98XDOFHFLmzFLzPx3i9mhE6InTyn2QHaR7oT8t/Bru+dY=;6btBqIDZ2VuT3yEMN97OSQ=="
+secured: "spyrhIXMXmCthi8o2HbNBxZSfkmXsqjL0GVPvHbSZzf1WpAz3uufjoY+jdg0UqkUfEZTJkH6S/LLxpEZNBpLrw8JuUFHiQ87ko57w4yp7QhHp/sd8tS1BlkvUAbB4v5VnEF9BCCfvLhJEJSuffRaPcEMC8i1I1YUr9Fx2BgTDl/INPbMrfdkwl5lBBSmb/kKUlvh8yyYaF/NUq76mpKXmRw1Xk+TFt1wvGRC8yIzBRY8kv8wOnwAULe3z5yCLsHzHB1KZfV4YFWc+bX/3a/Yzi11c8wZ18u7bRCxgqIS9woe+Q6aRn/9VqAOL0PYJ1zFnCRCNbEo7YjfRaiXygOkknMQE/pElFAwgtkOqwphPL8=;I3e5MG7L0JNbfd4DfF2y/A=="
 ---
 

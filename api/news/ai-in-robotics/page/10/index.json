@@ -2,6 +2,162 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-09-29-amazon-echo-show-astro-event-live-blog-follow-our-coverage-now.md",
+      "title": "Amazon Echo Show, Astro event live blog: Follow our coverage now",
+      "excerpt": "The e-commerce giant is holding an invite-only press event now. Find out what's coming to your cart. And Astro, the robot Alexa.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/home/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/",
+      "originalUrl": "https://www.cnet.com/home/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/nrQga32ASqNPqhWuy9Zbqt9HimI=/647x389:7377x3994/1200x630/2021/09/28/4dcaa407-d125-4473-a62d-b8ba24b4a0a6/hey-disney-echo-show-5-on-white.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-echo-show-astro-event-live-blog-follow-our-coverage-now/",
+      "publishedDateTime": "2021-09-28T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-amazons-astro-is-a-robot-without-a-cause.md",
+      "title": "Amazon’s Astro Is a Robot Without a Cause",
+      "excerpt": "Actually, you get Astro, Amazon’s long-rumored home robot. The company has been working on this for nearly four years, and it has plans for Astro. It’s just not quite sure exactly what those are yet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/amazon-astro/",
+      "originalUrl": "https://www.wired.com/story/amazon-astro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61538083098d958b61f393dc/master/pass/Gear-Amazon-Astro-moving-around-home.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/amazon-astro/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/amazon-astro/amp",
+      "publishedDateTime": "2021-09-28T14:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-amazon-astro-could-be-the-robot-weve-been-waiting-for.md",
+      "title": "Amazon Astro could be the robot we've been waiting for",
+      "excerpt": "Inspired by science fiction, cute as a button, capable and smart -- Amazon's $1,000 home robot Astro is here to help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/home/smart-home/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
+      "originalUrl": "https://www.cnet.com/home/smart-home/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/1apgttjzwvxskXvt2B8u4qNGCmo=/0x38:2300x1330/1200x630/2021/09/28/4fc6682b-c610-466c-a707-cc906c33fdc5/astro.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-astro-could-be-the-robot-weve-been-waiting-for/",
+      "publishedDateTime": "2021-09-28T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-amazons-new-toys-from-999-robot-to-home-security-kids-entertainment-and-much-more.md",
       "title": "Amazon’s new toys: From $999 robot to home security, kids entertainment and much more",
       "excerpt": "Amazon shows off a handful of new Amazon-branded products, including an Echo device that hangs on the wall and acts as a digital whiteboard for the home, an interactive video chat portal for kids, and",
@@ -1252,137 +1408,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-artificial-intelligence-ai-market-may-double-its-market-size-by-2021-amazon-intel-nvidia.md",
-      "title": "Artificial Intelligence (AI) Market May Double its Market Size by 2021 : Amazon, Intel, Nvidia",
-      "excerpt": "Latest published market study on Global Artificial Intelligence AI Market provides an overview of the current market dynamics in the Artificial Intelligence AI space as well as what our survey respondents all outsourcing decision makers predict the market will look",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2403287/artificial-intelligence-ai-market-may-double-its-market-size",
-      "originalUrl": "https://www.openpr.com/news/2403287/artificial-intelligence-ai-market-may-double-its-market-size",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/9/U922608424_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2403287/artificial-intelligence-ai-market-may-double-its-market-size",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403287/artificial-intelligence-ai-market-may-double-its-market-size",
-      "publishedDateTime": "2021-09-22T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-us-50-million-in-funding-closed-for-autonomous-farm-leveraging-ai-robotics.md",
-      "title": "US: $50 million in funding closed for autonomous farm leveraging AI & Robotics",
-      "excerpt": "Iron Ox, which launched an autonomous farm some years ago, announced a new investment round of $50M, bringing total funding to date to $100 million. The series C was led by",
-      "sourceUrl": null,
-      "webUrl": "https://www.freshplaza.com/article/9354805/us-50-million-in-funding-closed-for-autonomous-farm-leveraging-ai-robotics/",
-      "originalUrl": "https://www.freshplaza.com/article/9354805/us-50-million-in-funding-closed-for-autonomous-farm-leveraging-ai-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/VFD_com/2021/09/13/iron_ox.jpg?preset=OgImage",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T05:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FreshPlaza",
-        "domain": "freshplaza.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-how-artificial-intelligence-is-changing-the-future-of-digital-marketing.md",
-      "title": "How Artificial Intelligence Is Changing the Future of Digital Marketing",
-      "excerpt": "Introduction According to a survey conducted by PwC, 72% of business leaders use AI for their business advantage. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101",
-      "originalUrl": "https://www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2021/09/corporate-management-strategy-solution-branding-concept-900x546.jpg",
-          "width": 900,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101/amp",
-      "publishedDateTime": "2021-09-22T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "AI in Robotics"
       ]
     }
   ],

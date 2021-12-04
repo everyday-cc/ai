@@ -2,6 +2,137 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-09-23-artificial-intelligence-ai-market-may-double-its-market-size-by-2021-amazon-intel-nvidia.md",
+      "title": "Artificial Intelligence (AI) Market May Double its Market Size by 2021 : Amazon, Intel, Nvidia",
+      "excerpt": "Latest published market study on Global Artificial Intelligence AI Market provides an overview of the current market dynamics in the Artificial Intelligence AI space as well as what our survey respondents all outsourcing decision makers predict the market will look",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2403287/artificial-intelligence-ai-market-may-double-its-market-size",
+      "originalUrl": "https://www.openpr.com/news/2403287/artificial-intelligence-ai-market-may-double-its-market-size",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/9/U922608424_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2403287/artificial-intelligence-ai-market-may-double-its-market-size",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2403287/artificial-intelligence-ai-market-may-double-its-market-size",
+      "publishedDateTime": "2021-09-22T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-us-50-million-in-funding-closed-for-autonomous-farm-leveraging-ai-robotics.md",
+      "title": "US: $50 million in funding closed for autonomous farm leveraging AI & Robotics",
+      "excerpt": "Iron Ox, which launched an autonomous farm some years ago, announced a new investment round of $50M, bringing total funding to date to $100 million. The series C was led by",
+      "sourceUrl": null,
+      "webUrl": "https://www.freshplaza.com/article/9354805/us-50-million-in-funding-closed-for-autonomous-farm-leveraging-ai-robotics/",
+      "originalUrl": "https://www.freshplaza.com/article/9354805/us-50-million-in-funding-closed-for-autonomous-farm-leveraging-ai-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.freshplaza.com/remote/https/agfstorage.blob.core.windows.net/misc/VFD_com/2021/09/13/iron_ox.jpg?preset=OgImage",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-22T05:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FreshPlaza",
+        "domain": "freshplaza.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-how-artificial-intelligence-is-changing-the-future-of-digital-marketing.md",
+      "title": "How Artificial Intelligence Is Changing the Future of Digital Marketing",
+      "excerpt": "Introduction According to a survey conducted by PwC, 72% of business leaders use AI for their business advantage. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101",
+      "originalUrl": "https://www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/09/corporate-management-strategy-solution-branding-concept-900x546.jpg",
+          "width": 900,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/digital-marketing/how-artificial-intelligence-is-changing-the-future-of-digital-marketing-02432101/amp",
+      "publishedDateTime": "2021-09-22T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-new-ut-program-puts-focus-on-ethical-ai-building-robots-to-do-helpful-tasks.md",
       "title": "New UT program puts focus on ethical AI, building robots to do ‘helpful tasks’",
       "excerpt": "How does society approach the ethical use of artificial intelligence and building robots? It’s a question students at the University of Texas at Austin will soon have to take a deeper look into. Called CREATE (Convergent,",
@@ -1238,127 +1369,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-ai-driven-robotics-key-to-recyclings-challenges.md",
-      "title": "AI-driven robotics key to recycling’s challenges",
-      "excerpt": "“At the start of a new installation the vision system is installed ... founder and CEO at AMP Robotics. “AMP Robotics’ AI has to learn many different material types, and deformations – as well as customer-specific material types, which vary in ...",
-      "sourceUrl": null,
-      "webUrl": "https://eandt.theiet.org/content/articles/2021/09/ai-driven-robotics-key-to-recycling-s-challenges/",
-      "originalUrl": "https://eandt.theiet.org/content/articles/2021/09/ai-driven-robotics-key-to-recycling-s-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eandt.theiet.org/media/16732/ai-waste-man_recycleye-robotics-recycleye.jpg?crop=0.22710440751445102,0.40555285856213896,0.33936958092485503,0.38107105762283205&cropmode=percentage&width=1200&height=450&rnd=132759180770000000",
-          "width": 1200,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-hornet-and-milrem-robotics-exhibit-a-new-combat-ugv-at-dsei.md",
-      "title": "Hornet and Milrem Robotics Exhibit a New Combat UGV at DSEI",
-      "excerpt": "The French remote weapon systems manufacturer Hornet and Europe’s leading developer of robotics and autonomous systems Milrem Robotics display a new THeMIS Comb",
-      "sourceUrl": null,
-      "webUrl": "https://www.asdnews.com/news/defense/2021/09/15/hornet-milrem-robotics-exhibit-new-combat-ugv-at-dsei",
-      "originalUrl": "https://www.asdnews.com/news/defense/2021/09/15/hornet-milrem-robotics-exhibit-new-combat-ugv-at-dsei",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asdnews.com/NewsImages/b/67827/68818_O.jpg",
-          "width": 1200,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Aerospace & Defense News",
-        "domain": "asdnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-three-stocks-to-profit-from-the-robot-revolution.md",
-      "title": "Three stocks to profit from the robot revolution",
-      "excerpt": "These trends, along with developments in areas such as vision systems and artificial intelligence ... of vision and sensor systems. Teams at Waymo, the self-driving car division of Alphabet ...",
-      "sourceUrl": null,
-      "webUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "originalUrl": "https://moneyweek.com/472370/the-robot-revolution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://moneyweek.com/472370/the-robot-revolution?amp",
-      "cdnAmpWebUrl": "https://moneyweek-com.cdn.ampproject.org/c/s/moneyweek.com/472370/the-robot-revolution?amp",
-      "publishedDateTime": "2021-09-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MoneyWeek",
-        "domain": "moneyweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

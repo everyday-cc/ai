@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recogni
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
 type: article
 quality: 73
-heat: 253
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mint
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition technology could change the face of Indian airports"
+    excerpt: "With the Airports Authority of India (AAI) working on a facial recognition technology-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports, including Varanasi,"
+    publishedDateTime: 2021-12-03T15:08:00Z
+    webUrl: "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html"
+    ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 74
+    images:
+      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2019/1/3/face-facial-recognition-software-system-computer-shut.jpg"
+        width: 760
+        height: 443
+        isCached: true
+  - title: "These 4 Airports To Have Facial Recognition-Based Boarding By March 2022"
+    excerpt: "The Airports Authority of India (AAI) was working on the country's first facial recognition technology-based biometric boarding system for passengers at Varanasi, Pune, Kolkata and Vijayawada airports,"
+    publishedDateTime: 2021-12-02T13:35:00Z
+    webUrl: "https://www.ndtv.com/india-news/these-4-airports-to-have-facial-recognition-based-boarding-by-march-2022-2634514"
+    ampWebUrl: "https://www.ndtv.com/india-news/these-4-airports-to-have-facial-recognition-based-boarding-by-march-2022-2634514/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/these-4-airports-to-have-facial-recognition-based-boarding-by-march-2022-2634514/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 73
+    images:
+      - url: "https://c.ndtvimg.com/2019-05/soicn89g_airport-generic_625x300_10_May_19.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "Facial recognition tech at 4 airports to be introduced by March 2022: Govt"
     excerpt: "The Airports Authority of India (AAI) is working on a project of FRT-based Biometric Boarding System as part of the first phase of Digi Yatra Implementation at four airports"
     publishedDateTime: 2021-12-02T09:22:00Z
@@ -59,22 +91,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "AAI working on facial recognition-based passenger boarding system: Government"
-    excerpt: "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government."
-    publishedDateTime: 2021-12-02T15:14:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/articleshow/88056152.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88056152.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88056152.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 71
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-88056152,imgsize-5438,width-800/88056152.jpg"
-        width: 800
-        height: 599
-        isCached: true
   - title: "These 4 airports in India will have facial recognition tech by March next year"
     excerpt: "It is important to note that data shared by passengers is to be retained during the transit of the passenger at the airport and will not be retained for more than 24 hours after take-off/departure of the flight,"
     publishedDateTime: 2021-12-02T09:40:00Z
@@ -90,6 +106,22 @@ related:
       - url: "https://images.hindustantimes.com/img/2021/12/02/1600x900/convention-software-recognition-internet-conference-advertising-national_4e1e1bbc-468e-11ea-b9ea-c2a424b98379_1638437892029.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "AAI working on India's first facial recognition tech for passenger boarding: Govt"
+    excerpt: "CNBCTV18 is India's leading financial, economic and business information source. The leading platform for business & financial news, BSE/NSE stock market news updates, business news live, IPO Analysis,"
+    publishedDateTime: 2021-12-02T15:48:00Z
+    webUrl: "https://www.cnbctv18.com/technology/aai-working-on-indias-first-facial-recognition-tech-for-passenger-boarding-govt-11681072.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/aai-working-on-indias-first-facial-recognition-tech-for-passenger-boarding-govt-11681072.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/aai-working-on-indias-first-facial-recognition-tech-for-passenger-boarding-govt-11681072.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 69
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/05/facialrecognition2-1019x573.jpg"
+        width: 1019
+        height: 573
         isCached: true
   - title: "Travelling To Get Easier As AAI To Launch Facial Recognition Technology At 4 Airports"
     excerpt: "FRT-based Biometric Boarding System is a project that the government has been working on as part of first phase of Digi Yatra Implementation at four airports"
@@ -187,6 +219,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Face-Off: Robots Come Equipped With Facial Recognition"
+    excerpt: "In the not-so-distant future, robotic dogs equipped with facial recognition cameras might just scamper about outside and help police officers identify suspicious persons. Contactless commerce, airport security and law enforcement: The use of facial recognition technology (FRT) is quickly becoming a must-have for the public and private sectors."
+    publishedDateTime: 2021-11-30T01:56:00Z
+    webUrl: "https://www.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367"
+    ampWebUrl: "https://m.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/489420"
+        width: 640
+        height: 428
+        isCached: true
   - title: "Govt. launches unique face recognition technology to benefit pensioners"
     excerpt: "Union Minister of State Dr Jitendra Singh on Monday launched unique Face Recognition Technology for Pensioners and said that this will bring ease of living for the retired and the elderly citizens. Singh said,"
     publishedDateTime: 2021-11-30T03:44:00Z
@@ -203,33 +251,21 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "Centre introduces unique face recognition technology for pensioners"
-    excerpt: "The Central government on Monday introduced a unique face recognition technology for pensioners aimed at bringing ease of living for the retired and the elderly"
-    publishedDateTime: 2021-11-29T13:56:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/271829135/centre-introduces-unique-face-recognition-technology-for-pensioners"
+  - title: "Powering AI with Indian Languages"
+    excerpt: "Language relatedness has a vital role in the multilingual fine-tuning of AI models and making them more accurate. The voice-based internet is here to .."
+    publishedDateTime: 2021-11-30T03:36:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/powering-ai-with-indian-languages/87995514"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/powering-ai-with-indian-languages/87995514"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/powering-ai-with-indian-languages/87995514"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://cdn.bignewsnetwork.com/ani1638192227.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "Govt launches face recognition tech for pensioners"
-    excerpt: "Minister of State for Personnel Jitendra Singh on Monday launched a \"unique\" face recognition technology that would act as a proof of life certificate' for pensioners and ensure ease of living for the retired and elderly citizens."
-    publishedDateTime: 2021-11-29T17:38:00Z
-    webUrl: "https://www.theweek.in/news/india/2021/11/29/govt-launches-face-recognition-tech-for-pensioners.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 39
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/2019/October/biometric-technology-digital-Face-Scanning-recognition-human-head-shut.jpg"
-        width: 760
-        height: 443
+      - url: "https://etimg.etb2bimg.com/thumb/msid-87995514,imgsize-48402,width-1200,height-628,overlay-etcio/powering-ai-with-indian-languages.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Neurotechnology Brings Facial Recognition Solution to Web Apps"
     excerpt: "Neurotechnology has announced a much-improved version of its Face Verification solution featuring enhanced algorithms and support"
@@ -245,34 +281,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Facial recognition at airports optional, data will not be shared with anyone: Ministry of Civil Aviation"
-    excerpt: "With the government introducing facial recognition in airports, the Ministry of Civil Aviation clarifies that passengers can opt out."
-    publishedDateTime: 2021-12-02T13:09:00Z
-    webUrl: "https://www.medianama.com/2021/12/223-facial-recognition-airports-digi-yatra-parliament/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 37
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/12/l-filipe-c-sousa-0nUcd4-pp5k-unsplash-e1638448316926.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Mantra Softech joins NIST facial recognition tests for verification and identification"
-    excerpt: "Mantra Softech has participated for the first time in the NIST Face Recognition Vendor Tests (FRVT) 1:1 and 1:N for biometric accuracy."
-    publishedDateTime: 2021-12-02T20:06:00Z
-    webUrl: "https://www.biometricupdate.com/202112/mantra-softech-joins-nist-facial-recognition-tests-for-verification-and-identification"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 31
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
   - title: "Facial recognition technology at 4 airports to be introduced by March next year: Centre"
     excerpt: "Facial Recognition Technology (FRT) has not yet been introduced at any of the airports in India, replied Minister of State in the Ministry of Civil Aviation General V K Singh (retd) to a question in Lok Sabha on Thursday."
     publishedDateTime: 2021-12-02T20:50:00Z
@@ -282,15 +290,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 26
-  - title: "Three-in-Four Massachusetts Residents See Facial Recognition Technologies as Beneficial"
-    excerpt: "Seventy-five percent of Massachusetts residents see the use of facial recognition technologies by law enforcement as appropriate and beneficial, according to new research"
-    publishedDateTime: 2021-11-30T13:03:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/three-in-four-massachusetts-residents-see-facial-recognition-technologies-as-beneficial/article_7268ed31-6a35-5adb-8a11-b7f5a76f9e37.html"
+  - title: "Indian financial system to face challenges due to stiff green energy commitments"
+    excerpt: "The Indian fiscal strategy is apt to look challenges owed to the stiff green-energy commitments of the state arsenic much than a 4th of banking assemblage loans are to the alleged polluting industries,"
+    publishedDateTime: 2021-12-01T15:31:00Z
+    webUrl: "https://www.linkedin.com/pulse/indian-financial-system-face-challenges-due-stiff-pramanik-"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 11
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 19
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFEN53GMJl1Eg/article-cover_image-shrink_600_2000/0/1638372637457?e=1643846400&v=beta&t=C437T9SZt4ssQWg42PJETrldk28uOflCPG6QiCEWKZg"
+        width: 778
+        height: 518
+        isCached: true
 
 secured: "F2iJKpvnBklknl7/CUcfapMTJv1JhoA8968JgirXw5cSkEx13gbuFy+fh6Z7gNddmRR+YgCpDX1eg6jHoYuqMUq/p70uM3PbZTMuarP7gEsdls9Y5TIgfVfwT3TUaaGAiPoYOecq14yTb+PcR8LZqFGZZpTNuxjH6gVcyw6e070mk5F7xrZybBdx6vNlCdA5xo80b7qicAdjtNgxGQGm5+Jp8nKSpd4bbMDH4bhjuJnD27FKxy2Nr6oAZI+/yi4sKZSwIateqB3isBqxAQxGXJEHo9zkuEt8qPCpAodkFv7V6KbN3SkA8j7RebNiyJyX/Tsr9uMwGsxe4AdVt1BoIIPEhPuL616SdH7Q3+AGKQ5FaddI+7RVhFQwNHkTUVTmNyXR5rgmBECp20tt9AKsja3fIgbO31pq8CDAyldIL2jMky7pMShNo2qM0X0NUSDchg3p6JTKfm5b75teizGMQ2jGk5ElwxdJY4bS9FIQeyaIvL8iWkbxbTcq34TmsVuiAtbvZFef3BGazPEUMuo6oA==;nd1CVWoYSM5HdHp6hRfLaQ=="
 ---

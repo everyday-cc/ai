@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Synopsys Expands Use of AI to Optimize Samsung's Latest Mobile Designs"
-    excerpt: "Synopsys, Inc. (Nasdaq: SNPS) today announced that its AI-based design system has been used by Samsung to successfully complete a state-of-the-art, high-performance design at an advanced process technology,"
-    publishedDateTime: 2021-11-29T14:51:00Z
-    webUrl: "https://www.design-reuse.com/news/51014/synopsys-aisamsung-mobile-designs.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 39
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage51014/syno.jpg"
-        width: 1150
-        height: 492
-        isCached: true
   - title: "Synopsys expands use of AI"
     excerpt: "Synopsys has revealed that its AI-based design system has been used by Samsung to successfully complete a state-of-the-art, high-performance design at an advanced process technology. This is the most recent of several products that have been designed using Synopsys artificial intelligence (AI)."
     publishedDateTime: 2021-12-01T04:11:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.valdostadailytimes.com/news/business/aig-selects-aws-a
 webUrl: "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html"
 type: article
 quality: 54
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -79,15 +79,6 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 19
-  - title: "Meta picks AWS as long-term strategic cloud provider"
-    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-02T07:52:00Z
-    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
     quality: 19
   - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"

@@ -2,6 +2,154 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-26-the-best-kirby-games-ranked-from-best-to-worst.md",
+      "title": "The best Kirby games, ranked from best to worst",
+      "excerpt": "Looking at Kirby's entire catalogue of games is overwhelming. Here's our best attempt to go through all the best Kirby games and rank them from best to worst.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/",
+      "originalUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/kirby-star-allies-review-4.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/gaming/the-best-kirby-games-ranked-from-best-to-worst/?amp",
+      "publishedDateTime": "2021-10-25T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-rent-a-robot-is-a-game-changer-for-manufacturing.md",
+      "title": "‘Rent-A-Robot’ Is A Game Changer For Manufacturing",
+      "excerpt": "For years, cobots have been shown to make manufacturing processes faster and more efficient, but research shows that fewer than 10% of manufacturers use them. The “rent-a-robot” model—which is gaining steam across the country—can change that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/",
+      "originalUrl": "https://www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176c70049b5743372cc15c8%2F0x0.jpg",
+          "width": 1200,
+          "height": 763,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ethankarp/2021/10/25/rent-a-robot-is-a-game-changer-for-manufacturing/amp/",
+      "publishedDateTime": "2021-10-25T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-artificial-intelligence-ai-in-construction.md",
+      "title": "Artificial Intelligence (AI) in Construction",
+      "excerpt": "Examples of artificial intelligence (AI) in construction are increasingly common throughout the industry, from planning to building. Construction professionals are turning to AI to add efficiency and accuracy to projects,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-construction/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-construction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-1-1024x393.jpeg",
+          "width": 1024,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-artificial-intelligence-the-enemy-and-the-solution.md",
       "title": "Artificial Intelligence: The Enemy and The Solution",
       "excerpt": "How do we prevent AI from being used as a tool for cyberattacks? We need to come up with ways to keep AI under control and stop hackers from manipulating automated computer systems and cause them to take actions they were never intended to take.",
@@ -1248,144 +1396,6 @@
         "Microsoft AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-support-scientific-interest-with-a-price-drop-on-this-comprehensive-robot-arm-kit.md",
-      "title": "Support scientific interest with a price drop on this comprehensive robot arm kit",
-      "excerpt": "The robot arm kit is perfect for those interested in AI engineering and related endeavors. The educational kit allows users to explore robotic technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/support-scientific-interest-with-a-price-drop-on-this-comprehensive-robot-arm-kit",
-      "originalUrl": "https://thenextweb.com/news/support-scientific-interest-with-a-price-drop-on-this-comprehensive-robot-arm-kit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F10%2FTNW-Robo-Arm-Kit.jpeg&signature=0cdb2c47927c81dc73cb1f2ceb6f9387",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-here-is-the-list-of-the-top-10-real-world-rescue-robots-you-should-know-in-2021.md",
-      "title": "Here is the list of the top 10 real-world rescue robots you should know in 2021",
-      "excerpt": "Advanced robotics progressively implies to the salvage. Centauro, TRADR, and more are rescue robots those that fly, swim, creep through rubble, splash fires or in any case help people on call tackle inconvenience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/10-real-world-rescue-robots-you-should-know-in-2021/",
-      "originalUrl": "https://www.analyticsinsight.net/10-real-world-rescue-robots-you-should-know-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-17T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-16-life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots.md",
-      "title": "Life keeps getting in the way of my quest to turn my family into robots",
-      "excerpt": "Dinner, bath, book, bedtime: every school year we stick to the timetable – for a few days, says Guardian columnist Emma Brockes",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/67fb223568575d994010faf6950cd6896a705184/0_0_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=55a1c719a4c15bbd3a79c41ec6a581e2",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/oct/16/life-keeps-getting-in-the-way-of-my-quest-to-turn-my-family-into-robots",
-      "publishedDateTime": "2021-10-15T23:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

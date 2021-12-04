@@ -40,17 +40,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Top Opportunities for Artificial Intelligence to Improve Cancer Care"
-    excerpt: "By implementing artificial intelligence into cancer care, machine learning tools can detect cancer, assist in decision-making, and recommend treatment approaches."
-    publishedDateTime: 2021-11-29T13:30:00Z
-    webUrl: "https://healthitanalytics.com/features/top-opportunities-for-artificial-intelligence-to-improve-cancer-care"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/top-opportunities-for-artificial-intelligence-to-improve-cancer-care"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/top-opportunities-for-artificial-intelligence-to-improve-cancer-care"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
 
 secured: "Qv9K5dG0y/U2eaYK0WJw8QkXbit6GrqUm3QNZ9VNNRC+Quc73q4zo2Q+cpHzqKfBwz/QhFRS9DY4FSrqgyHMSRCa8pEQwCdwulfblQFLGi2FRIwQJ/AgpoewO4IEH3RHYv/uk/unzJONZ0xGRuaWjWymxFb4NTIQscY72CmbFKZ4DajlPg9+PPcShqzXA2HYhchoHM6iArgPNW+q2QBbg2iQEQEpwd6XX5NCjDttuaPqKauwoN7tqD98tY3EK6K5fJ7EYR3QVpnmADESgzkdFnZTuao4MTxmpborIGmJ+8Ao1zyFA63jHxLjeQynFsNby8PUXZxPBCTv4yxk8kOGlAmkwCV+g+x2N0rrH9+DoLFImGjZCw1vi6FZoRCCczdlr/Zbl6jaZaKLNF36TAgw6CFdLIgnTLloFYm3nsLPaOKhRn3qScsK/ZCvZQHQ+zvjcaGutbWZ/aIFHZHNHWnxCtEKQ7/DDpL/+QDKBChwHBf5H2/yElv3BrZF8v4fWNUMEVxcte54mf2BqYFEIGZB0w==;9oCFX0BFCzocDa7w/IKmRA=="
 ---
