@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/life/18408/scientists-create-living-robots-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1"
 type: article
 quality: 89
-heat: 309
+heat: 289
 published: true
 
 provider:
@@ -74,22 +74,6 @@ related:
       - url: "https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmpvZS5jby51a1xcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMVxcXC8zMDE1MTkyMVxcXC9Sb2JvdHMucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP2lkPTBhODk3NjFkMGEzYzZmNTFmN2Q2XCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAzY2NkMzdmMmFiOGU4OTFmMDNkZGQ5OGVhMjQyNTg3NmMyNGE0ODUifQ==/robots.png"
         width: 647
         height: 340
-        isCached: true
-  - title: "Xenobots, The World’s First Living Robots, Can Reproduce"
-    excerpt: "With scientists making biological robots that can reproduce called Xenobots, one science fiction horror story is coming true. Or is it?"
-    publishedDateTime: 2021-11-29T23:58:00Z
-    webUrl: "https://www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/"
-    ampWebUrl: "https://www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/amp/"
-    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/amp/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 59
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2021/11/Xenobot.jpg"
-        width: 1000
-        height: 666
         isCached: true
   - title: "Meet Xenobots, World's First Living Robots That Can Reproduce"
     excerpt: "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world."
@@ -171,15 +155,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Team builds first living robots that can reproduce"
-    excerpt: "Scientists have discovered a new form of biological reproduction -- and created self-replicating living robots. Made from frog cells, these computer-designed organisms gather single cells inside a Pac-Man-shaped 'mouth' -- and release Xenobot 'babies' that look and move like themselves."
-    publishedDateTime: 2021-11-30T00:43:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/11/211129155020.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Living robots have sex like Tetris"
     excerpt: "Making their porn a little dullThe US scientists who created the first living robots say the life forms, known as xenobots, can now reproduce -- and in a way not seen in plants and animals. The xenobots are made from the stem cells of the African clawed frog (Xenopus laevis) from which it takes"
     publishedDateTime: 2021-11-30T11:26:00Z

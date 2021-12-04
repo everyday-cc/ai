@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 377,
+      "heat": 357,
       "tags": null,
       "images": [
         {
@@ -159,6 +159,49 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-discovery-plus-extend-strategic-partnership.md",
+      "title": "AWS, Discovery Plus extend strategic partnership",
+      "excerpt": "Extension enables Discovery Plus to deploy AWS so that it can offer greater personalisation capabilities to help viewers find the content they want to watch",
+      "sourceUrl": null,
+      "webUrl": "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership",
+      "originalUrl": "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2021/11/discovery-plus.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp",
+      "publishedDateTime": "2021-12-02T00:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -515,49 +558,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery.md",
-      "title": "Discovery Extends Relationship with AWS To Assist in Global Rollout of Discovery+",
-      "excerpt": "Discovery has turned to Amazon Web Services (AWS) to assist with the global rollout of discovery+, including enabling greater personalization capabilities to assist viewers in finding content that appeals to their interests,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvtechnology.com/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery",
-      "originalUrl": "https://www.tvtechnology.com/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BrqKp374eMt7ua6V9k3wzg-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tvtechnology.com/amp/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery",
-      "cdnAmpWebUrl": "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery",
-      "publishedDateTime": "2021-12-01T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TV Technology",
-        "domain": "tvtechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-01-aws-targets-auto-and-industrial-sectors-with-fleetwise-twinmaker.md",
       "title": "AWS targets auto and industrial sectors with FleetWise, TwinMaker",
       "excerpt": "Amazon Web Services on Tuesday announced two new IoT products that bring more out-of-the-box fleet management tools to the automotive and industrial sectors. IoT FleetWise will help auto companies manage data coming from cars,",
@@ -716,7 +716,7 @@
       "originalUrl": "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -907,7 +907,7 @@
       "originalUrl": "https://www.lelezard.com/en/news-20132061.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1433,21 +1433,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-23-cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation.md",
-      "title": "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation",
-      "excerpt": "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,",
+      "path": "_news/2021-11-23-apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning.md",
+      "title": "Apollo Tyres Goes All-In on AWS to Make Factories Smarter with IoT and Machine Learning",
+      "excerpt": "Amazon Web Services (AWS) announced that Apollo Tyres, India’s leading tyre manufacturer, is going all-in on AWS to digitally transform. By moving all of its IT infrastructure to",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
+      "webUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
+      "originalUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 118,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://i0.wp.com/orissadiary.com/wp-content/uploads/2021/11/Apollo-Tyres_AWS-2.jpg?fit=800%2C532&ssl=1",
+          "width": 800,
+          "height": 532,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1455,13 +1455,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T06:02:00-08:00",
+      "ampWebUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
+      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
+      "publishedDateTime": "2021-11-23T03:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Odisha Diary",
+        "domain": "orissadiary.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1471,9 +1471,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "Machine Learning"
       ]
     }
   ],

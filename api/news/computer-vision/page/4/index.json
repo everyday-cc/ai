@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-28-delta-airlines-using-facial-recognition-to-check-in-travelers.md",
+      "title": "Delta Airlines Using Facial Recognition to Check-in Travelers",
+      "excerpt": "A new facial recognition technology being used by Delta Airlins will analyze people's faces and compare them to passport information stored in a TSA database. Local Health Departments Prepare As ...",
+      "sourceUrl": null,
+      "webUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/",
+      "originalUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/A37/DED/A37DED67A23E096BAE785B57DF9F72CA.jpg?Expires=1729987200&KeyName=mcpkey1&Signature=aurFBxgHrBcuZZ6Law-LjsYkO8k",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp",
+      "cdnAmpWebUrl": "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp",
+      "publishedDateTime": "2021-10-27T19:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Detroit",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027.md",
       "title": "Global Computer Vision in Healthcare Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027",
       "excerpt": "Global Computer Vision in Healthcare Market 2021-2027 unveiled by MarketsandResearch.biz contains an extensive assessment of the business vertical and features the distinctive market segments. The report provides brief information about market size,",
@@ -1389,49 +1432,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-all-new-computer-vision-technology-easily-expands-drive-thru-visibility-helps-reduce-drive-offs.md",
-      "title": "All-New Computer Vision Technology Easily Expands Drive-Thru Visibility, Helps Reduce Drive-Offs",
-      "excerpt": "HME Hospitality and Specialty Communications is excited to announce the launch of its all-new video detection, a breakthrough restaurant technology that seamlessly expands",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/all-new-computer-vision-technology-easily-expands-drive-thru-visibility-helps-reduce-drive-offs/article_1bbc4592-648f-5098-bb9c-dd676f6d6739.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_food_beverages/all-new-computer-vision-technology-easily-expands-drive-thru-visibility-helps-reduce-drive-offs/article_1bbc4592-648f-5098-bb9c-dd676f6d6739.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-18T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

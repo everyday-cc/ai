@@ -101,20 +101,6 @@ related:
         width: 700
         height: 457
         isCached: true
-  - title: "Granulate Achieves AWS Graviton Ready Designation"
-    excerpt: "Granulate, a provider of autonomous real-time computing workload optimization and cost reductions solutions, announced today that it"
-    publishedDateTime: 2021-11-29T23:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/granulate-achieves-aws-graviton-ready-designation-301433173.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1698271/Granulate_Achieves_AWS_Graviton_Ready.jpg?p=facebook"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "lgEGpZl8bgkyvtdVAiPStINFN73xtvJmznhIiGV2IjGc6VCoyI2mnORTA7toU7pxUw+r3DKll7wUcv9TtwZJuvHEtxocRtzZx5rgEnbt6A+vdKp83uI058MQAz8aCv4DlTuWI6AlnxeOQB+1QGnJStvNVNn8hf1j0fNNHyDI4DSnchHJYLHe3Ig0scUj3MZ3cU2h0rembPGt9rNUYmM8++LvVCMtdSj+Bym8KWetYMTsAvrCFLf4XmwEAq4EvU5fFjX9GwIsEUJdhTSHaQVWQPd9JDbjp8xKYXA4Fz1vrLrXvQC3onjc9QlvShIuHeOi4y2XzxdiPIGRejJcN1x9kYO4C+WUq4U8Y+OvnZnN/08=;9vP5CVvdquxN0ou+AySI+A=="
 ---

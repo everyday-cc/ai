@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 377,
+      "heat": 357,
       "tags": null,
       "images": [
         {
@@ -198,24 +198,33 @@
     {
       "path": "_news/2021-11-29-analytixinsight-reports-third-quarter-2021-financial-results.md",
       "title": "AnalytixInsight Reports Third Quarter 2021 Financial Results",
-      "excerpt": "Artificial Intelligence company, AnalytixInsight Inc. (\"AnalytixInsight\", or the \"Company\") ( TSX-V: ALY; OTCQB: ATIXF ), reports financial results for the third quarter ended September 30, 2021. AnalytixInsight significantly advanced its AI-driven research distribution agreement with Refinitiv during the quarter,",
+      "excerpt": "Artificial Intelligence company, AnalytixInsight Inc. (“AnalytixInsight”, or the “Company”) ( TSX-V: ALY; OTCQB: ATIXF), reports financial results for the third quarter ended September 30, 2021. Key Highlights: Business Review AnalytixInsight is an established AI-driven content supplier with the ability to offer scalable machine-created research content on approximately 50,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/11/29/9500366.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/11/29/9500366.htm",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-artificial-intelligence-5995be13848d4baebd8346f92179d829",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-artificial-intelligence-5995be13848d4baebd8346f92179d829",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T04:38:00-08:00",
+      "publishedDateTime": "2021-11-29T04:32:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

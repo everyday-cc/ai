@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amazonwebservices/2021/12/03/predicting
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/12/03/predicting-the-future-of-demand-how-amazon-is-reinventing-forecasting-with-machine-learning/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Best Movies Predicting the Future"
+    excerpt: "Though set in the present, the movie shows a near future where robots, directed by artificial intelligence Skynet, have taken over the world. The robots’ goal is to annihilate humanity."
+    publishedDateTime: 2021-12-04T15:00:00Z
+    webUrl: "https://247wallst.com/special-report/2021/12/04/best-movies-about-the-future/8/"
+    ampWebUrl: "https://247wallst.com/special-report/2021/12/04/best-movies-about-the-future/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/special-report/2021/12/04/best-movies-about-the-future/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 44
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2021/07/imageForEntry100-xTK.jpg?w=400"
+        width: 400
+        height: 224
+        isCached: true
   - title: "Tech Companies Catering to Demand in Healthcare Predictive Analytics Market Keenly Expanding Care Delivery Continuum"
     excerpt: "Proponents of value-based health care are growing their bets on the capabilities of predictive analytics and the underlying AI algorithms. The past few years have witnessed an enormous body of study on making clinical prediction models useful in improving the health care delivery across the continuum."
     publishedDateTime: 2021-12-01T18:40:00Z

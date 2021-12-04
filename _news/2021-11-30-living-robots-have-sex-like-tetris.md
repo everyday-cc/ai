@@ -89,22 +89,6 @@ related:
         width: 647
         height: 340
         isCached: true
-  - title: "Xenobots, The World’s First Living Robots, Can Reproduce"
-    excerpt: "With scientists making biological robots that can reproduce called Xenobots, one science fiction horror story is coming true. Or is it?"
-    publishedDateTime: 2021-11-29T23:58:00Z
-    webUrl: "https://www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/"
-    ampWebUrl: "https://www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/amp/"
-    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/amp/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 59
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2021/11/Xenobot.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "Meet Xenobots, World's First Living Robots That Can Reproduce"
     excerpt: "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world."
     publishedDateTime: 2021-12-01T16:32:00Z
@@ -185,15 +169,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Team builds first living robots that can reproduce"
-    excerpt: "Scientists have discovered a new form of biological reproduction -- and created self-replicating living robots. Made from frog cells, these computer-designed organisms gather single cells inside a Pac-Man-shaped 'mouth' -- and release Xenobot 'babies' that look and move like themselves."
-    publishedDateTime: 2021-11-30T00:43:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/11/211129155020.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Scientists build self-replicating living robots"
     excerpt: "US researchers have discovered a new form of biological reproduction and have created what they say are the world’s first living robots that can self-replicate."
     publishedDateTime: 2021-11-30T12:49:00Z

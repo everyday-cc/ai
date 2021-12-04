@@ -91,22 +91,6 @@ related:
         width: 647
         height: 340
         isCached: true
-  - title: "Xenobots, The World’s First Living Robots, Can Reproduce"
-    excerpt: "With scientists making biological robots that can reproduce called Xenobots, one science fiction horror story is coming true. Or is it?"
-    publishedDateTime: 2021-11-29T23:58:00Z
-    webUrl: "https://www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/"
-    ampWebUrl: "https://www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/amp/"
-    cdnAmpWebUrl: "https://www-lowyat-net.cdn.ampproject.org/c/s/www.lowyat.net/2021/259996/xenobots-the-worlds-first-living-robots-can-reproduce/amp/"
-    type: article
-    provider:
-      name: Lowyat.net
-      domain: lowyat.net
-    quality: 59
-    images:
-      - url: "https://www.lowyat.net/wp-content/uploads/2021/11/Xenobot.jpg"
-        width: 1000
-        height: 666
-        isCached: true
   - title: "Robots made from living cells learned how to replicate themselves"
     excerpt: "Xenobots, which are \"living robots\" made of frog cells, are simple robots that can move autonomously in a petri dish. When scientists added more cells to the dish, the xenobots pushed them together to form new xenobots."
     publishedDateTime: 2021-12-03T22:11:00Z
@@ -171,15 +155,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Team builds first living robots that can reproduce"
-    excerpt: "Scientists have discovered a new form of biological reproduction -- and created self-replicating living robots. Made from frog cells, these computer-designed organisms gather single cells inside a Pac-Man-shaped 'mouth' -- and release Xenobot 'babies' that look and move like themselves."
-    publishedDateTime: 2021-11-30T00:43:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/11/211129155020.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
   - title: "Living robots have sex like Tetris"
     excerpt: "Making their porn a little dullThe US scientists who created the first living robots say the life forms, known as xenobots, can now reproduce -- and in a way not seen in plants and animals. The xenobots are made from the stem cells of the African clawed frog (Xenopus laevis) from which it takes"
     publishedDateTime: 2021-11-30T11:26:00Z

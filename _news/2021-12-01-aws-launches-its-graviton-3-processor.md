@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-proces
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/"
 type: article
 quality: 189
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -90,20 +90,6 @@ related:
       - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/Amazon-EC2-G5g.jpg"
         width: 700
         height: 457
-        isCached: true
-  - title: "Granulate Achieves AWS Graviton Ready Designation"
-    excerpt: "Granulate, a provider of autonomous real-time computing workload optimization and cost reductions solutions, announced today that it"
-    publishedDateTime: 2021-11-29T23:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/granulate-achieves-aws-graviton-ready-designation-301433173.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1698271/Granulate_Achieves_AWS_Graviton_Ready.jpg?p=facebook"
-        width: 800
-        height: 419
         isCached: true
   - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
     excerpt: "Amazon EC2 C7g instances powered by new AWS Graviton3 processors provide up to 25% better performance for compute-intensive workloads over current generation C6g instances powered by"

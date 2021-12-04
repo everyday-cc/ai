@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/video/emerging-ai-companies-are-driving-a-p
 webUrl: "https://techcrunch.com/video/emerging-ai-companies-are-driving-a-paradigm-shift-in-ml/"
 type: article
 quality: 84
-heat: 115
+heat: 114
 published: true
 
 provider:

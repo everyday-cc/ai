@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-web-servi
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-web-services-6213aaaf498a4fc8894b34538e35e8d6"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Beyond the migration: Accenture and AWS expand partnership to support continuous cloud innovation"
-    excerpt: "Five-year extension also includes training to help clients understand and implement cloud capabilities more quickly."
-    publishedDateTime: 2021-11-29T23:33:00Z
-    webUrl: "https://www.techrepublic.com/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 76
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/08/27/06823878-e36c-485b-a5ef-0f779b1e98f8/resize/1200x/ef0d165740f66078f83f197b32b4039e/gettyimages-da-kuk.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "AWS, Discovery Plus extend strategic partnership"
-    excerpt: "Extension enables Discovery Plus to deploy AWS so that it can offer greater personalisation capabilities to help viewers find the content they want to watch"
-    publishedDateTime: 2021-12-02T08:58:00Z
-    webUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership"
-    ampWebUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 59
-    images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/11/discovery-plus.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Astadia Migration Factory to Reduce the Duration of Mainframe to AWS Migrations by up to 90%"
     excerpt: "Organizations looking to reap the benefits of moving IBM and Unisys mainframe applications to Amazon Web Services (AWS) can now simplify and accelerate complex transformation projects by leveraging the Astadia Migration Factory."
     publishedDateTime: 2021-11-30T16:14:00Z

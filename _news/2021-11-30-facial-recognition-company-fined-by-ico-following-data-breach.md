@@ -9,8 +9,8 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5092802&name=facial-r
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico-following-data-breach"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 149
+published: true
 
 provider:
   name: research
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI, a facial recognition company, is fined for breach of Britain’s privacy laws."
-    excerpt: "The Information Commissioner’s Office said it fined Clearview AI for failing to inform British residents that it was collecting billions of photos from sites including Facebook, Instagram and LinkedIn to build its facial recognition software."
-    publishedDateTime: 2021-11-29T23:57:00Z
-    webUrl: "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.html"
-    ampWebUrl: "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 94
-    images:
-      - url: "https://static01.nyt.com/images/2021/11/29/business/29clearview-1/29clearview-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Facial recognition company fined by ICO"
     excerpt: "The Information Commissioner’s Office (ICO) is to impose a potential fine of just over £17m on Clearview AI, a company that describes itself as the “world’s largest facial network”."
     publishedDateTime: 2021-11-30T12:09:00Z
@@ -89,6 +73,20 @@ related:
         width: 1688
         height: 1190
         isCached: true
+  - title: "Tech Digest daily roundup: Facial recognition firm facing possible huge fine"
+    excerpt: "A facial recognition firm which claims to have a database of more than 10 billion facial images is facing a potential £17m fine"
+    publishedDateTime: 2021-11-30T11:18:00Z
+    webUrl: "https://www.techdigest.tv/2021/11/tech-digest-daily-roundup-facial-recognition-firm-facing-possible-huge-fine.html"
+    type: article
+    provider:
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 51
+    images:
+      - url: "https://www.techdigest.tv/wp-content/uploads/2021/11/facial-recognition-feature_1200x675_hero_090418-1024x576-1.jpeg.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Clearview AI Facing £17 Million Fine From UK ICO Over Violation of Data Protection Laws"
     excerpt: "Clearview AI faces fresh legal trouble in the UK, where it may soon be fined for violation of the country's data protection laws and forced to delete any biometric data it has collected."
     publishedDateTime: 2021-12-03T16:00:00Z
@@ -104,20 +102,6 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2021/12/clearview-ai-facing-17-million-fine-from-uk-ico-over-violation-of-data-protection-laws_1500.jpg"
         width: 1500
         height: 860
-        isCached: true
-  - title: "Consecutive NIST Tests Confirm Superiority of Clearview AI's Facial Recognition Platform"
-    excerpt: "Clearview AI’s facial recognition algorithm again ranks No. 1 in U.S. – tops in 1:N and 1:1 Facial Recognition Vendor Tests (FRVT)."
-    publishedDateTime: 2021-12-02T13:26:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/press-release/21248663/clearview-ai-consecutive-nist-tests-confirm-superiority-of-clearview-ais-facial-recognition-platform"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 45
-    images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/12/16x9/clearviewai.61a8c7950357f.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
   - title: "UK: Facial recognition company gets USD22.68M privacy fine"
     excerpt: "An Australian company that asserts to have a database of over 10 billion facial pictures could face a USD22.68 million sanction for its processing of"

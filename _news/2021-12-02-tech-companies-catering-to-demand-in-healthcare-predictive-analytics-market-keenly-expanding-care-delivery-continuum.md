@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Best Movies Predicting the Future"
+    excerpt: "Though set in the present, the movie shows a near future where robots, directed by artificial intelligence Skynet, have taken over the world. The robots’ goal is to annihilate humanity."
+    publishedDateTime: 2021-12-04T15:00:00Z
+    webUrl: "https://247wallst.com/special-report/2021/12/04/best-movies-about-the-future/8/"
+    ampWebUrl: "https://247wallst.com/special-report/2021/12/04/best-movies-about-the-future/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/special-report/2021/12/04/best-movies-about-the-future/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 44
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2021/07/imageForEntry100-xTK.jpg?w=400"
+        width: 400
+        height: 224
+        isCached: true
   - title: "A comprehensive review on fake news detection with deep learning"
     excerpt: "A protuberant issue of the present time is that, organizations from different domains are struggling to obtain effective solutions for detecting online-based fake news. It is quite thought-provoking to distinguish fake information on the internet as it is often written to deceive users."
     publishedDateTime: 2021-12-02T13:59:00Z

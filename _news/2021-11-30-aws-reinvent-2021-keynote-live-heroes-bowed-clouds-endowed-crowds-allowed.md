@@ -219,20 +219,6 @@ related:
         width: 680
         height: 298
         isCached: true
-  - title: "AWS re:Invent 2021: The 10 Biggest Announcements"
-    excerpt: "Invent at The Venetian in Las Vegas are new partner paths, AI for data analytics and new partner competencies."
-    publishedDateTime: 2021-11-30T00:30:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/aws-re-invent-2021-the-10-biggest-announcements"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/026f-13d709a952d4-bb07aeb87d76-1000/aws-reinvent-21.jpg"
-        width: 610
-        height: 458
-        isCached: true
   - title: "BigID Announces Auto-Discovery Apps for Cloud at AWS re:Invent"
     excerpt: "BigID, the leading data intelligence platform, has launched a set of Auto Discovery apps to allow customers to quickly and automatically find sensitive and personal data stored in the cloud.  The new Automatic Discovery Apps are designed for"
     publishedDateTime: 2021-11-30T13:48:00Z
@@ -275,15 +261,6 @@ related:
         width: 1577
         height: 1050
         isCached: true
-  - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
-    publishedDateTime: 2021-12-01T18:34:00Z
-    webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 35
   - title: "The Future of Artificial Intelligence, Cloud Computing, and Digital Twins: Highlights from AWS re: Invent 2021"
     excerpt: "Invent celebrated its 10th year this year by welcoming visitors back to an in-person event, following last year’s fully virtual event. It also marked the 15th anniversary of the launch of Amazon Web Services itself."
     publishedDateTime: 2021-12-02T13:33:00Z

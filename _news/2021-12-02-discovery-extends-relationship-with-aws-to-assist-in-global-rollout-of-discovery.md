@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tvtechnology.com/amp/news/discovery-extends-relationship
 cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery"
 type: article
 quality: 54
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: TV Technology
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS, Discovery Plus extend strategic partnership"
+    excerpt: "Extension enables Discovery Plus to deploy AWS so that it can offer greater personalisation capabilities to help viewers find the content they want to watch"
+    publishedDateTime: 2021-12-02T08:58:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership"
+    ampWebUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
+    type: article
+    provider:
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 59
+    images:
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/11/discovery-plus.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Discovery taps AWS to power rollout of discovery+"
     excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more personalized recommendations. “AWS provides the unparalleled ..."
     publishedDateTime: 2021-12-01T15:03:00Z
@@ -83,6 +99,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS's proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-01T14:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-meta-selects-aws-as-key-long-term-strategic-/2021/12/01/9502660.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
+    publishedDateTime: 2021-12-01T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
   - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
     excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more ..."
     publishedDateTime: 2021-12-01T14:05:00Z
