@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
 type: article
 quality: 99
-heat: 209
+heat: 199
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14cf9789-78fa-445f-900a-c626ed5f5af7.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-        isCached: true
-  - title: "How AI is aiming at the bad math of drug development"
-    excerpt: "Drug makers and investors are spending billions of dollars to turbocharge the search for new treatments using AI."
-    publishedDateTime: 2021-11-29T17:42:00Z
-    webUrl: "https://www.northbaybusinessjournal.com/article/industrynews/how-ai-is-aiming-at-the-bad-math-of-drug-development/"
-    type: article
-    provider:
-      name: The North Bay Business Journal
-      domain: northbaybusinessjournal.com
-    quality: 56
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=eed53b4f-ab4a-5fe3-b067-6e404d33834e&type=primary&q=72&width=1200"
-        width: 1199
-        height: 799
         isCached: true
   - title: "3 Ways AI and Machine Learning Can Transform Public Agencies"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"

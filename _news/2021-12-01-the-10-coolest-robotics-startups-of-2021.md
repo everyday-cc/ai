@@ -7,8 +7,8 @@ originalUrl: "https://www.crn.com/slide-shows/mobility/the-10-coolest-robotics-s
 webUrl: "https://www.crn.com/slide-shows/mobility/the-10-coolest-robotics-startups-of-2021"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: CRN
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The 10 Hottest Machine Learning And Data Science Startups In 2021"
-    excerpt: "Here’s a look at 10 top machine learning and data science companies developing ground-breaking technology for data scientists and machine learning developers."
-    publishedDateTime: 2021-11-29T18:17:00Z
-    webUrl: "https://www.crn.com/slide-shows/applications-os/the-10-hottest-machine-learning-and-data-science-startups-in-2021"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0269-125cbcb274c1-edeaf278162c-1000/typing-data-analytics-software-1.jpg"
-        width: 610
-        height: 458
-        isCached: true
   - title: "10 robots compete for Best Field Robot Concept Award 2021"
     excerpt: "A common definition of a robot is an automatic machine that replaces human effort. Our review of the latest developments in the Best Field Robot Concept"
     publishedDateTime: 2021-12-03T08:00:00Z

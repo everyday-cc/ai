@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Fordham University Hosts Global Ethical Vision AI Conference"
-excerpt: "Fordham University Hosts Global Ethical Vision AI Conference. On November 29th, Fordham University hosted a conference entitled, \"Ethical Vision Artificial Intelligence: Creating"
-publishedDateTime: 2021-12-03T12:35:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/03/9504310.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/03/9504310.htm"
+excerpt: "Fordham University hosted a conference entitled, \"Ethical Vision Artificial Intelligence: Creating an Effective AI Compliance Framework\" in New York. The conference was hosted by Professor Shlomit Yanisky-Ravid,"
+publishedDateTime: 2021-12-03T11:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fordham-university-hosts-global-ethical-vision-ai-conference-/2021/12/03/9504310.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fordham-university-hosts-global-ethical-vision-ai-conference-/2021/12/03/9504310.htm"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
   - AI Ethics
 
-secured: "KwxanADFJwhzDdJFTAdJEKbk8j7wP4o/5VIc5TR6diZItRFyK7fOcBskEC1I33ZB3RiURw7wvr/nSPXvGG23CVeHmfCZtjW7hkjYw0+MAbe/3wGDImL2kBFea8OBVnMvNp1Qj62dbSID1COjwN4jOYNuaQ/CZjoDoWDCl48F56DxoNG4ffFB/Q8KaLsGB8HWN9nQb+oyaH8sKvOFrNHKvHpKeXEWjK1aiAfDcaUcObTlaL7a1VnlC08eXq12q5/nCpp1U7tsPVLxp15Tlr3HOE6tlTvkg+JVNgMT2RzUiYG8pDcsZzFSJG1Nq8TVQNDULpVWiXXFjBnnEFXSVRvLBwkOBPyzx9yU3CqMuKdbGy0=;wcbSEFBslWQQKRFJO0Y5Jg=="
+secured: "jsSJMS1FPrIoxhF1x+OAthcUuLdHQgEHHL+/aV8+eZLv3SwLM3ntf9m4ky2oeq6qJKi4rqWH7ijMBEX+V1w5RGhrrtrVK8YnSIRm3B6uZrXe+yk6RNzcj8GSyTej7z9EzWPqcPRSCfwaAomF2S8PlZijv2IzdVCYeRPWyUmgXNrejsct3/OBCoj644VxyNN1twnyMAy69LHE3rz7sH+UJccA8nQ3zWCQU4/sTo8CGUAZrcZcf6LaWMQ0VLpIHlAspf49j74jbCIwULxOFhaXqodl4u6XvgsvTvRK/3HrsujcxRqFK74b9l4zAeAzbeEQtJF/nmWH2BMdm+O+Ixx3MkS/KYAFnh/gWSSDZIzy93U=;QcDfif7s7iZNNH8B33lppw=="
 ---
 

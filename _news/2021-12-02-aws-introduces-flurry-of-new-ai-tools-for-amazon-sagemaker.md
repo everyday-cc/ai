@@ -199,6 +199,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "AWS Announces Six New Amazon SageMaker Capabilities"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."
+    publishedDateTime: 2021-12-01T18:33:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/nfl-technology-science-sports-business-28c3bc4896a14ad88e611a38db855530"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AWS Bolsters SageMaker with New Capabilities"
     excerpt: "Amazon Web Services unveiled a half-dozen new SageMaker services today at its re:Invent conference in Las Vegas. The cloud giant bolstered its flagship AI"
     publishedDateTime: 2021-12-01T20:55:00Z
@@ -241,15 +255,6 @@ related:
         width: 333
         height: 285
         isCached: true
-  - title: "AWS Announces Six New Amazon SageMaker Capabilities"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."
-    publishedDateTime: 2021-12-02T09:36:00Z
-    webUrl: "https://www.financialbuzz.com/aws-announces-six-new-amazon-sagemaker-capabilities/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 34
   - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
     excerpt: "Through a previously unreported vulnerability, attackers could run any code on an AWS SageMaker Jupyter Notebook Instance across accounts, access the Notebook Instance metadata endpoint ..."
     publishedDateTime: 2021-12-02T14:33:00Z

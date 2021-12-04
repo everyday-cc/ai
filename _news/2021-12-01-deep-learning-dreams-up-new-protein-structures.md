@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Deep learning dreams up new protein structures"
-excerpt: "In recent years, deep learning has revolutionized the accuracy of this work. “For this project, we made up completely random protein sequences and introduced mutations into them until our neural ..."
-publishedDateTime: 2021-12-01T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/936470"
-webUrl: "https://www.eurekalert.org/news-releases/936470"
+title: "Deep Learning Dreams Up New Protein Structures"
+excerpt: "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools."
+publishedDateTime: 2021-12-01T15:56:00Z
+originalUrl: "https://news.rpi.edu/content/2021/12/01/deep-learning-dreams-new-protein-structures"
+webUrl: "https://news.rpi.edu/content/2021/12/01/deep-learning-dreams-new-protein-structures"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: RPI News
+  domain: rpi.edu
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/17a13918-2e5b-42e0-ad49-e0a2ca3e3b09/Rendition/low-res/Content/Public"
-    width: 700
-    height: 394
+  - url: "https://rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg"
+    width: 667
+    height: 446
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "jTunrpmd8Cs3Vmh7iMtExyy/d/JLUyuT3H0E20XD6vnfaM196N3qL6lhWStQRHFrpQb8oIKLEQxzAcxGQsU0eOd+n7ryOAoizrzN5RIEeC0NY3XBVvc/Ce4B7YQlDVnRObfqokrseDCp7cPcH1K2IYxOFvrxQtOMg9tdYhq357szpXOsvvJU7xv3Oy9ENVyuFI5BEjfaAOV6amyYPK9jsg1thgKnTy5hktWld89Ffb34FuZld1iaAfsduY9rPsMsKx33LJ9pKnqoNYbZujr4fVHhLZVhW3v8pbDlXAqqmltNzp5gpxr1kWsSWfJwW9naZzGLdUYm7VSj/mk/OXs9VJlQ0z6nDvD7qzYNToWey2c=;A9qk4OtWpUP8N68N+cfD2A=="
+secured: "Gzdgt1RpILhvAHVo/UgTZ+pNLbmzR0Y0vd99DESU3NtrYSfoWyPzAX24wXwqzDZuGHDAZhy4Unjv/547r9vHiP8PsjGGbTXXtgBYQuvazrxnqXu6ZZXMAb8fyK3tGItCgheH+UIoiR25+Uitxi852XZv4jEwRgmTgI1gGPyc6Y5rfUtG/DezarYsKq3rgDN3Ie632EZakYiuUyQliDi/aTvH5pWHJ60D8MIZD3LpCr4bJuJLpUPlXtGr64qU/t74tHZGnS64oYOc/6m+j7RGGOCP8BM7F8DIrm6SH4UUKzJWdnqVdwvl7IB0HnVwNJYhvyH5v4kGm7IVJiyR4Wr+T5u+/hL1A8dgz97tmohQ+gI=;LkhVGrxqBvixR0ofmyOPyw=="
 ---
 

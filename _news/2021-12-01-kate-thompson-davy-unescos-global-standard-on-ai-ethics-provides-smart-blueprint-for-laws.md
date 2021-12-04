@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bd/opinion/columnists/2021-11-30-
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/opinion/columnists/2021-11-30-kate-thompson-davy-unescos-global-standard-on-ai-ethics-provides-smart-blueprint-for-laws/"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: businesslive.co.za
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UNESCO launches global standard for AI ethics"
-    excerpt: "Standard aims to provide AI with a strong ethical basis that will not only protect but also promote human rights and human dignity."
-    publishedDateTime: 2021-11-29T19:00:00Z
-    webUrl: "https://www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.html"
-    ampWebUrl: "https://www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/01/digital_world_transformation_by_metamorworks_gettyimages-1152954867_woman_thinking_strategy_leadership_imagination_creativity_intelligence_by_metamorworks_gettyimages-1193842896_lightbulb_circuits_by_thinkstock_3x2-100826596-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "United Nations launches global standard for AI ethics"
     excerpt: "Standard aims to provide AI with a strong ethical basis that will not only protect but also promote human rights and human dignity."
     publishedDateTime: 2021-11-30T03:40:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ai_dreamstime_2.jpg"
         width: 504
         height: 315
-        isCached: true
-  - title: "Ethics Of AI: 193 Members Of UNESCO Adopt Recommendations"
-    excerpt: "In a historic global agreement, all 193 members of UNESCO adopt the recommendations on the ethics of AI document"
-    publishedDateTime: 2021-12-01T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/ethics-of-ai-193-members-of-unesco-adopt-recommendations/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/eithic-banner_11zon.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Unesco member states adopt AI ethics recommendation"
     excerpt: "The non-binding recommendation seeks to define a common set of values and principles to guide the development of ethical AI globally"

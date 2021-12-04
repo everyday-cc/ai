@@ -2,21 +2,27 @@
 category: news
 title: "AWS Announces Six New Amazon SageMaker Capabilities"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."
-publishedDateTime: 2021-12-02T09:36:00Z
-originalUrl: "https://www.financialbuzz.com/aws-announces-six-new-amazon-sagemaker-capabilities/"
-webUrl: "https://www.financialbuzz.com/aws-announces-six-new-amazon-sagemaker-capabilities/"
+publishedDateTime: 2021-12-01T18:33:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/nfl-technology-science-sports-business-28c3bc4896a14ad88e611a38db855530"
+webUrl: "https://apnews.com/press-release/BusinessWire/nfl-technology-science-sports-business-28c3bc4896a14ad88e611a38db855530"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AWS brings no-code to Amazon SageMaker machine learning"
@@ -276,6 +282,6 @@ related:
         height: 506
         isCached: true
 
-secured: "RbIBiFvdfT2jY9KZyWJ+gjrRreu87hfLuTI2lyPfX/q1byCDxAvPLuLPpm+BAGR7LlfAHNDyEKWZxBcLbaXxkJRSpU58cSfOdjmrcWNUbl9ARIeuj+i5xAlkjQXk7PJfUySSTiVDxMCIHoJ9zdx0mfGDPBOxJZKkRG+LlhQtQGIx2bV4Q2I4Lb8i3OHsOF/oSuwtesZf7jtUDKdDgiVAF3hgvj8QJ9364wmdvxHB9O0tdeF2fBnG+BeGINeZimu+JrKWeJ7CJf0wTRGmVDDIpdS3XOpQReXpEGRK1dCcIyNYfX0lmk8cOJqxPtNCIeljvEdY1jPCSCkySjTGIrqyNBm7Weg+v6KWs09p7DdDgu8=;2rlSjFvUch0qq9ONOLtGDA=="
+secured: "mdo2oXo6o9DXHpEbrFqE+DDgEZMInh/hu+XEFcYvx8bJQBr6GU1h3vzI1VZxZqVHdKFPQe2YflYlbbTF20vI55R7n50FE3Ucm2xhtNkSmAjJYV3e5swaIr9sQMD7d8xSL55A7ZG0orfy5IGSZB7WNoPJiGKZRHoEhtly+U/EA1KZlQTN52u1n0sJSr1KBgPhvrG9GRfMhpqogDGnZ35CealQ5+K831zl3HrFJIVRFbcCWezww5oOWELCLCom/ebULLNRps17N24rOhSM9tXpwkC8vsijc0AFYgay+eboZGPLoNZvNRUGRTQVwgG47HzkW40lROUKkhg2ZvPKXLL2wb2Qb4BfbII7HT5B2dKuaLg=;boHp+J+Tb1jVewBWRws9KA=="
 ---
 
