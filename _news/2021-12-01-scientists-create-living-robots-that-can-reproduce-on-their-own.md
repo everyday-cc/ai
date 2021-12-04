@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/life/18408/scientists-create-living-robots-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1"
 type: article
 quality: 89
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -263,6 +263,20 @@ related:
       - url: "https://WENY.images.worldnow.com/images/21827780_G.jpg?lastEditedDate=1638606957000"
         width: 774
         height: 436
+        isCached: true
+  - title: "Tiny living Pac-Man robots have learned how to reproduce"
+    excerpt: "Films and TV shows have offered us myriad archetypes of what robots could be like -- as varied as the terrifyingly clever Cylons of \"Battlestar Galactica,\" the intrepid R2-D2 in the Star Wars saga and the lovable and helpful \"Wall-E."
+    publishedDateTime: 2021-12-04T17:13:00Z
+    webUrl: "https://www.wrcbtv.com/story/45368191/tiny-living-pac-man-robots-have-learned-how-to-reproduce"
+    type: article
+    provider:
+      name: WRCB
+      domain: wrcbtv.com
+    quality: 39
+    images:
+      - url: "https://ftpcontent.worldnow.com/professionalservices/clients/wrcb/WRCB_BrandImage.jpg"
+        width: 600
+        height: 338
         isCached: true
   - title: "Scientists Unveiled the World’s First Living Robots Last Year. Now, They Can Reproduce"
     excerpt: "Early last year, a team of researchers announced the world's first living machines —bundles of stem cells from African clawed frogs ( Xenopus laevis) that could be programmed to accomplish certain tasks."

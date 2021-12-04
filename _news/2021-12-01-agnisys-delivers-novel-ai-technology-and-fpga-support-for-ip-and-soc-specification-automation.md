@@ -42,6 +42,22 @@ related:
         width: 1000
         height: 579
         isCached: true
+  - title: "Report: 95% of tech leaders say that AI will drive future innovation"
+    excerpt: "A majority of leaders also agreed that robots will be deployed across their organization to enhance nearly every business function."
+    publishedDateTime: 2021-12-04T18:20:00Z
+    webUrl: "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/"
+    ampWebUrl: "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Public relations practitioners' AI knowledge is limited, but they are aware of AI's potential"
     excerpt: "A new research report from the Chartered Institute of Public Relations' AIinPR Panel, which has been co-authored by the University's Emeritus Professor of Corporate Communication Anne Gregory, has found that practitioners see the huge potential that artificial intelligence (AI) and Big Data offers the profession but possess limited knowledge on technical aspects of both."
     publishedDateTime: 2021-12-02T19:52:00Z

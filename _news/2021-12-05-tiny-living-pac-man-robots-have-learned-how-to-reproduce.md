@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Robots made from living cells learned how to replicate themselves"
-excerpt: "Xenobots, which are \"living robots\" made of frog cells, are simple robots that can move autonomously in a petri dish. When scientists added more cells to the dish, the xenobots pushed them together to form new xenobots."
-publishedDateTime: 2021-12-03T22:11:00Z
-originalUrl: "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598"
-webUrl: "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598"
-ampWebUrl: "https://www.cbc.ca/amp/1.6271598"
-cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598"
+title: "Tiny living Pac-Man robots have learned how to reproduce"
+excerpt: "Films and TV shows have offered us myriad archetypes of what robots could be like -- as varied as the terrifyingly clever Cylons of \"Battlestar Galactica,\" the intrepid R2-D2 in the Star Wars saga and the lovable and helpful \"Wall-E."
+publishedDateTime: 2021-12-04T17:13:00Z
+originalUrl: "https://www.wrcbtv.com/story/45368191/tiny-living-pac-man-robots-have-learned-how-to-reproduce"
+webUrl: "https://www.wrcbtv.com/story/45368191/tiny-living-pac-man-robots-have-learned-how-to-reproduce"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CBC.ca
-  domain: www.cbc.ca
+  name: WRCB
+  domain: wrcbtv.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://i.cbc.ca/1.6272805.1638559444!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/xeno-headline.jpg"
-    width: 620
-    height: 349
+  - url: "https://ftpcontent.worldnow.com/professionalservices/clients/wrcb/WRCB_BrandImage.jpg"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -106,6 +104,22 @@ related:
       - url: "https://thelogicalindian.com/h-upload/2021/11/29/400x400_207630-untitled-design-2021-11-29t103354438.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Robots made from living cells learned how to replicate themselves"
+    excerpt: "Xenobots, which are \"living robots\" made of frog cells, are simple robots that can move autonomously in a petri dish. When scientists added more cells to the dish, the xenobots pushed them together to form new xenobots."
+    publishedDateTime: 2021-12-03T22:11:00Z
+    webUrl: "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598"
+    ampWebUrl: "https://www.cbc.ca/amp/1.6271598"
+    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598"
+    type: article
+    provider:
+      name: CBC.ca
+      domain: www.cbc.ca
+    quality: 59
+    images:
+      - url: "https://i.cbc.ca/1.6272805.1638559444!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/xeno-headline.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Xenobots: Scientists Build the First-Ever Living Robots That Can Reproduce"
     excerpt: "AI-designed Xenobots reveal entirely new form of biological self-replication—promising for regenerative medicine. To persist, life must reproduce. Over billions of years, organisms have evolved many ways of replicating,"
@@ -264,20 +278,6 @@ related:
         width: 774
         height: 436
         isCached: true
-  - title: "Tiny living Pac-Man robots have learned how to reproduce"
-    excerpt: "Films and TV shows have offered us myriad archetypes of what robots could be like -- as varied as the terrifyingly clever Cylons of \"Battlestar Galactica,\" the intrepid R2-D2 in the Star Wars saga and the lovable and helpful \"Wall-E."
-    publishedDateTime: 2021-12-04T17:13:00Z
-    webUrl: "https://www.wrcbtv.com/story/45368191/tiny-living-pac-man-robots-have-learned-how-to-reproduce"
-    type: article
-    provider:
-      name: WRCB
-      domain: wrcbtv.com
-    quality: 39
-    images:
-      - url: "https://ftpcontent.worldnow.com/professionalservices/clients/wrcb/WRCB_BrandImage.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Scientists Unveiled the World’s First Living Robots Last Year. Now, They Can Reproduce"
     excerpt: "Early last year, a team of researchers announced the world's first living machines —bundles of stem cells from African clawed frogs ( Xenopus laevis) that could be programmed to accomplish certain tasks."
     publishedDateTime: 2021-12-02T17:16:00Z
@@ -330,6 +330,6 @@ related:
       domain: nanowerk.com
     quality: 19
 
-secured: "Ap5cKlz0pb7DBlA5JbjK7B3ITfC2fdhhgkS5qrUBhjUq4obHa2xuZ6OU8jzB6wndq2WJZ470muzSp760fXTkC8mWE82tDlLXwPTe0x1h0k/dTSiE/zWMrG91lgcHdaPXqwkEFvRw6+qkRFnaR45KSWEQlDa7QmHoLzUqVDbiNyYlnt3HMXMp6IZjrWObHTPxYrYXNwLz9otJEGC9zyhk4vzImatBprpE0I5Ddf1HfcLfkUPe4wjgZ+qSSzmD6AlDDVQ+clivlGgZe0MlPnhint6s3NBsjquoEieKfRyL730iMlFT+e3yuqzrtJIyhJW2mdGGyPnju6Tdu4ZmW7Cy2ElnubbB4DGtvdYSvH4pOuA=;CXh4yT5S8eerKOe2L9IBBA=="
+secured: "k2t794c/NTrqT2Vqh0WgAOrYENJ+vcUo4tgDIuKbSmj+JcNugt4PH6g9tPGpcZ6iEAir0zvHzVLOOgfcBZ5RiNSCTolDkANHfIa73iiMLsNj1V/JnGtZ0yniPaEhNSRuQGh+tRId9q4ECJzutrmeJ6TqtUWbFwTDG24i/U9cGOXlvr74Ke++OVZhPq9Fk9M1OYSALr5fqpne0PDpK39aoTjLEplC+FBDe82o1f1WU2UWEPmcVnse8uLJThmt3nqH770tLdNgWAnQ09TiEpHGONrrBvQlYpmjXfH2RrdtC0z1t7NeNvH343LHfVveEU+cC/hAAfrtBH4dtxivTBa9t47S3XizuC+4Te/hqXupVmk=;zzB6ZYMuha3dJRAyB/ne4w=="
 ---
 

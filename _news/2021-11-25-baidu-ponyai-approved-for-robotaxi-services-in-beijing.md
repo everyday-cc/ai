@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Baidu, Pony.ai approved for robotaxi services in Beijing"
-excerpt: "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in ..."
-publishedDateTime: 2021-11-25T06:15:00Z
-originalUrl: "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing"
-webUrl: "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing"
-ampWebUrl: "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp"
+excerpt: "SHANGHAI, Nov 25 (Reuters) - Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more ..."
+publishedDateTime: 2021-11-25T11:08:00Z
+originalUrl: "https://www.reuters.com/technology/baidu-ponyai-approved-robotaxi-services-beijing-2021-11-25/"
+webUrl: "https://www.reuters.com/technology/baidu-ponyai-approved-robotaxi-services-beijing-2021-11-25/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "vOeVAaH1HgBBEokbEc50cCuAwisjPpUm6+V+z3h2wYkq/HMyswdsoZ2RFA9b89LP7JkJmEYdSayAEEJruTtylCmGHPHfiw987as7Cxk5tP0jjIVqOB94ee120dPXvRzWwsvFeJWQkAQBltTfXPGCfJmAVU4bu1w8oe0zutZ7cFB83OTrMY6HrnvdkPHEOFvG/AF7gEnjAHVnqgOeKvQ6uFSyL2rMAb2IalN9fFkOL1oNFfDZ2XAFxqTgW/74jsfBl/0CaqzWEYBSYQ0y1CJLuI/MMvAcEWjoi8nETTq0LaPlRdw6VS3ZC7xQaMq143ioOnKahAevcRS+aStB1pa5/q0yg0zVPRCvWGetftgdLc8=;+6sfLJKCcYUg8KEsfUEeDg=="
+images:
+  - url: "https://www.reuters.com/resizer/AIdJQtUnYYgAIck0uaC1BkrnJTQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FDNGVLW23BJLFFEFTNXHSHTCQQ.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "bLVm+GBBIFXgKjCvpQJF7vLB3koZU3wgSSTfAYxwPInX987OZWn7frbVaGGadyKBh6dkpVWq0iDmNLQpWiQgz5w2BlLXNttjo04FL1shMG3ho6wLOf2hB+43be+Sr7YDVfmDrHwHUys56nKMC22KHL8QjQzQ0k7/S/3tSF9EN1/EP6wgBgHdGxAZICnDaBFtUYPOo3F3Q3Fg2e4eijgm/wfeT3GqWlTtzz33VLToqZ9dTAKLUEQiQ7qRV5NBSOj7u3U/LTleflXkWTWWaGCHoCtrX99/s1Vz023Hd98l18Ok9xJeBw+TDBZNjO1d3now8qyxZBxBxm5fu2y9kLiiJTFvnNa6GCgW2DgEIbnDw/M=;Weywc/rAjv8laXXgL5eyEw=="
 ---
 

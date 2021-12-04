@@ -27,22 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook parent Meta tightens links with open source community through expanded AWS partnership"
-    excerpt: "Social media conglomerate Meta confirms AWS’s elevation to strategic cloud partner status as tech giants’ ongoing collaboration enters next phase."
-    publishedDateTime: 2021-12-02T04:45:00Z
-    webUrl: "https://www.computerweekly.com/news/252510363/Facebook-parent-Meta-tightens-links-with-open-source-community-through-expanded-AWS-partnership"
-    ampWebUrl: "https://www.computerweekly.com/news/252510363/Facebook-parent-Meta-tightens-links-with-open-source-community-through-expanded-AWS-partnership?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510363/Facebook-parent-Meta-tightens-links-with-open-source-community-through-expanded-AWS-partnership?amp=1"
+  - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
+    excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
+    publishedDateTime: 2021-11-30T13:03:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 49
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 54
     images:
-      - url: "https://www.computerweekly.com/visuals/German/article/facebook-reflection-adobe.jpg"
-        width: 1200
-        height: 400
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
         isCached: true
+  - title: "AWS Named United Airlines' Preferred Cloud Provider"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced that United Airlines has selected AWS as its preferred cloud provider. AWS will support United's digital innovation, providing machine learning,"
+    publishedDateTime: 2021-11-30T14:36:00Z
+    webUrl: "https://www.lelezard.com/en/news-20132061.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 54
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
+    excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
+    publishedDateTime: 2021-12-01T08:50:00Z
+    webUrl: "https://www.financialbuzz.com/aig-selects-aws-as-its-preferred-public-cloud-provider/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 34
+  - title: "AWS Named United Airlines Preferred Cloud Provider"
+    excerpt: "(NASDAQ: AMZN), announced that United Airlines (NASDAQ: UAL) has selected AWS as its preferred cloud provider. AWS will support United’s digital innovation, providing machine learning, Internet of Things (IoT),"
+    publishedDateTime: 2021-12-01T08:49:00Z
+    webUrl: "https://www.financialbuzz.com/aws-named-united-airlines-preferred-cloud-provider/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 34
 
 secured: "aKvbmFBGCmBrSxsxMcCC/Uhwva3H+4v9Qtq6mUruwIHBN/90+Q5keJyqnrpDnXqZaT0EjQYzqDkrCOCCoANsxJAckvjRyxiGI+hPT1MuqJRPs+0K0Tq7fmC3hmUw/U7OrBmHr5m3CN8jwwnEa982jWeBTO2U6vK9TFHdBfiuYitKWYG3zmoYgK3YI39upwylhha/pberjP6mEk5OBnYdpVLinNGODY4MoLCrNsIb5m2F10FXfBnbGg0gJpNn8jkRr3llqyEsv19xkibR9/8kigVGKWMD5Y1uwc0paHGb2MNo4OScMuic5FklBQAxh+km/SyS1nig0gUF0a0CbaX0H5OFgY3HxukInTLxTdEHBjc/5nJa0e1bxHf+swLEpCmYQjvEaWgvYfit/BbqJBJowLL3ggo26+rQ+EqV/3o0//C904o+jX1MGy831KegU09P5txlHf+n/Q6mrNE1BOrwZ019mKSgNcpnUi3Q5P5ouPtjislKmLJ9q7bvSIVYTc50fjASOqwbB38SWg9JxLeYEA==;7x6oyF+zlqi3hjo/L20ZsQ=="
 ---

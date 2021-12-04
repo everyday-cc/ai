@@ -235,22 +235,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Face-Off: Robots Come Equipped With Facial Recognition"
-    excerpt: "In the not-so-distant future, robotic dogs equipped with facial recognition cameras might just scamper about outside and help police officers identify suspicious persons. Contactless commerce, airport security and law enforcement: The use of facial recognition technology (FRT) is quickly becoming a must-have for the public and private sectors."
-    publishedDateTime: 2021-11-30T01:56:00Z
-    webUrl: "https://www.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367"
-    ampWebUrl: "https://m.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/cybertech/face-off-robots-come-equipped-with-facial-recognition-687367/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/489420"
-        width: 640
-        height: 428
-        isCached: true
   - title: "Powering AI with Indian Languages"
     excerpt: "Language relatedness has a vital role in the multilingual fine-tuning of AI models and making them more accurate. The voice-based internet is here to .."
     publishedDateTime: 2021-11-30T03:36:00Z

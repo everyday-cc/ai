@@ -278,6 +278,20 @@ related:
         width: 774
         height: 436
         isCached: true
+  - title: "Tiny living Pac-Man robots have learned how to reproduce"
+    excerpt: "Films and TV shows have offered us myriad archetypes of what robots could be like -- as varied as the terrifyingly clever Cylons of \"Battlestar Galactica,\" the intrepid R2-D2 in the Star Wars saga and the lovable and helpful \"Wall-E."
+    publishedDateTime: 2021-12-04T17:13:00Z
+    webUrl: "https://www.wrcbtv.com/story/45368191/tiny-living-pac-man-robots-have-learned-how-to-reproduce"
+    type: article
+    provider:
+      name: WRCB
+      domain: wrcbtv.com
+    quality: 39
+    images:
+      - url: "https://ftpcontent.worldnow.com/professionalservices/clients/wrcb/WRCB_BrandImage.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "This Seems Bad: World’s First ‘Living Robots’ Can Now ‘Reproduce’, According To Scientists"
     excerpt: "Xenobots, the first \"living robots\", can now apparently reproduce, according to the scientists that are studying them."
     publishedDateTime: 2021-12-01T17:54:00Z

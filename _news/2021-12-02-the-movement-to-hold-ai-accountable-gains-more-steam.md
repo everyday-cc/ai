@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp"
 type: article
 quality: 91
-heat: 102
+heat: 101
 published: true
 
 provider:

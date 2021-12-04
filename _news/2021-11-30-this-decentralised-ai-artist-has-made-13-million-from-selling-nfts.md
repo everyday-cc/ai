@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/this-decentralised-ai-artist-has-ma
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-decentralised-ai-artist-has-made-1-3-million-from-selling-nfts/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Botto, the decentralized AI/human artist, makes its first million"
-    excerpt: "An AI algorithm called Botto has made somewhere around US$1.3 million at auction for its first six NFT artworks. Botto generates thousands of images, and a community of humans vote to influence its direction and decide which pieces go to auction."
-    publishedDateTime: 2021-11-30T01:54:00Z
-    webUrl: "https://newatlas.com/collectibles/botto-ai-art/"
-    ampWebUrl: "https://newatlas.com/collectibles/botto-ai-art/?amp=true"
-    cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/collectibles/botto-ai-art/?amp=true"
+  - title: "AI-based blood analysis tool geared toward decentralized diagnostics"
+    excerpt: "With the release of its new Sight OLO artificial intelligence based blood analyzer, Sight Diagnostics hopes to offer DCTs reliable, easy-to-use testing."
+    publishedDateTime: 2021-12-01T16:15:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2021/12/01/AI-based-blood-analysis-tool-geared-toward-decentralized-diagnostics"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 187
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 41
     images:
-      - url: "https://assets.newatlas.com/dims4/default/34517ed/2147483647/strip/true/crop/2048x1365+0+341/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb0%2F89%2F6489f46f43dcbb4de8256f316912%2Fblossoming-cadaver.jpg"
-        width: 1200
-        height: 800
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/ai-based-blood-analysis-tool-geared-toward-decentralized-diagnostics/13058453-1-eng-GB/AI-based-blood-analysis-tool-geared-toward-decentralized-diagnostics.jpg"
+        width: 750
+        height: 435
         isCached: true
 
 secured: "yRmkDoY83ILX+hhj0nt9vRfV1erdzTubZi1cnE/67H1PE7uzUcu3aX8x2AuLsVK9vCTBCohM43z3lmIpojJ7qCIklQb0RKqjudMzD2x9x1gnWngp1yFvSqI58qJOg8EkRAhezYv6dJ+Qk1a8FtfDBifm2WlEWbM0q8PF7Zi1gaA35lKTJffLKiMsFlKaMdWYRV7cSMY0NVWQdJQ2gPphFMMWzxnp95mh2wK9NSSec9J+iuwB2lnHwCR7h0WJHcrK7I4QjOPEaxI8SUBYkyF1rpwqrr/M/deYyqTbujBT7EKb+rm3p586C1/Kbi/KiY6NjpuA7ReWe0oBb/onzd4h2xYWHEPf5Elu1GnGtHGBf5r4VxwcHkcvC8n84zFEIFtyUDFB2UcWxLLQC6kL9zsObz6RlmyKGRwYQtS+oNzuwm0Q0bdLLiTLcApskrh2kSohx109vmlNyHtVRq62iCKT7Eds+MIeu93yJcgGpyIS72Qq+5ARUgzWCGiqYOEKQMtq3ozYaEE6OrdREIm/tBufSg==;4I3OEji54QiGG8VFbMCfhw=="

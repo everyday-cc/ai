@@ -1,29 +1,32 @@
 ---
 category: news
-title: "Agnisys Announces Availability of AI-Based Approach for Specification of Assertions and FPGA Support"
-excerpt: "Agnisys, Inc.®, the leading EDA provider of the industry's most comprehensive solution for Design and Verification of SoC Hardware/Software Interface (HSI), today announced availability of a unique AI-based approach for specification of assertions and a new product to support FPGA development."
-publishedDateTime: 2021-12-02T13:45:00Z
-originalUrl: "https://www.azorobotics.com/News.aspx?newsID=12637"
-webUrl: "https://www.azorobotics.com/News.aspx?newsID=12637"
-ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12637"
-cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12637"
+title: "Report: 95% of tech leaders say that AI will drive future innovation"
+excerpt: "A majority of leaders also agreed that robots will be deployed across their organization to enhance nearly every business function."
+publishedDateTime: 2021-12-04T18:20:00Z
+originalUrl: "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/"
+webUrl: "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/"
+ampWebUrl: "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/amp/"
 type: article
-quality: 44
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Azorobotics
-  domain: azorobotics.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12637_16384507321308025.jpg"
-    width: 350
-    height: 215
+  - url: "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -43,22 +46,6 @@ related:
         width: 1000
         height: 579
         isCached: true
-  - title: "Report: 95% of tech leaders say that AI will drive future innovation"
-    excerpt: "A majority of leaders also agreed that robots will be deployed across their organization to enhance nearly every business function."
-    publishedDateTime: 2021-12-04T18:20:00Z
-    webUrl: "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/"
-    ampWebUrl: "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Public relations practitioners' AI knowledge is limited, but they are aware of AI's potential"
     excerpt: "A new research report from the Chartered Institute of Public Relations' AIinPR Panel, which has been co-authored by the University's Emeritus Professor of Corporate Communication Anne Gregory, has found that practitioners see the huge potential that artificial intelligence (AI) and Big Data offers the profession but possess limited knowledge on technical aspects of both."
     publishedDateTime: 2021-12-02T19:52:00Z
@@ -74,6 +61,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-ai.jpg"
         width: 1920
         height: 1324
+        isCached: true
+  - title: "Agnisys Announces Availability of AI-Based Approach for Specification of Assertions and FPGA Support"
+    excerpt: "Agnisys, Inc.®, the leading EDA provider of the industry's most comprehensive solution for Design and Verification of SoC Hardware/Software Interface (HSI), today announced availability of a unique AI-based approach for specification of assertions and a new product to support FPGA development."
+    publishedDateTime: 2021-12-02T13:45:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12637"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12637"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12637"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 44
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12637_16384507321308025.jpg"
+        width: 350
+        height: 215
         isCached: true
   - title: "AI Predictions and Innovations for 2022"
     excerpt: "Most enterprises failed to scale their AI deployments this year. Will 2022 be the year when this actually happens?"
@@ -104,6 +107,6 @@ related:
         height: 512
         isCached: true
 
-secured: "04vVW5CXibC/Jzb16qs4b3jUyQCHNBCImotKGzCwP2KX3RyPx1zUWlXdDqAbROGO68YT33Qa5uqHwFcelX0NVhrli0SYKJ+82rY6qCosV0q0tI+7l3OOB4O18Klisv09A6s+NEp4KKfz3fXaPdpgXnRFCHnmY968+kTIwDCLEnLsX01GHndEnV0kp3/duieFWNg+ttpfFRK9oomq+UuMPoYpubhMNwEiQcyAWfgdYj48YBy45k5H8vmeYRzpXb6pStiKT5ZYuHFuVvI3Ui+BL31TssKoNcmRWNlHaPHGjlMIaCywWV4ko1Lu9q/w2+eZ37fc94Ol5PZ1g+XXOJYgzcz5/TOsTCj7ZGHcT9HltabzB9OGdCCy8/4wR4S+TdXopY27uGeIITtBPmyIVItGcc5tInzfR929oWAnF0DVCm6yYPYKbfk7dIm51zqFw62+4mEJZ59BZ8x82FwYFMAYEzieX5zSzQtqwPLgLmga+A4x6gLZ3qhbK8xN6gysjkfwcp691mI9cG0DkzL3v1EQBw==;ZQVm8lposBiSCCsfNG6bNg=="
+secured: "hk0IjWoKr5UE9GCvn29il9Gg+es4yiQhRzrKo4ULagOUrwCuLxDnKUri/IyKPv+9ZL0zszK18KKPsNj8xMhw0qRDV02H+XQ+Lce9u3Nb3Fiy5HI5pxPqwmt/ToqeWEhmsoQYHfuW9Nc1Q+kwb6jhPGMQMvNqVcxNZaZc37uMAY/O+/SFLP9GJL6i4yPbjz/z0ZXIjaXRMApCVF5C4ycahSHgqhIhmoUwbW9jr7kcrjQ+xOqc0vOy0W0E35a8kwuhsq4GCfV2mLO/XEVmxn9N6JugNptBzutiVK5kTpapdzaZYMABTvvSSmyIJQn5IJz3u3bg8CZihlxLI3J2P2kURj6DxOJuSQZtXktCjnLvKnM=;tTRz7W1WoIr1/N8SpMCWOA=="
 ---
 
