@@ -1,47 +1,42 @@
 ---
 category: news
-title: "Deep Learning Dreams Up New Protein Structures"
-excerpt: "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools."
-publishedDateTime: 2021-12-01T15:56:00Z
-originalUrl: "https://news.rpi.edu/content/2021/12/01/deep-learning-dreams-new-protein-structures"
-webUrl: "https://news.rpi.edu/content/2021/12/01/deep-learning-dreams-new-protein-structures"
+title: "Deep learning dreams up new protein structures"
+excerpt: "In recent years, deep learning has revolutionized the accuracy of this work. \"For this project, we made up completely random protein sequences and introduced mutations into them until our neural ..."
+publishedDateTime: 2021-12-01T00:00:00Z
+originalUrl: "https://phys.org/news/2021-12-deep-protein.html"
+webUrl: "https://phys.org/news/2021-12-deep-protein.html"
+ampWebUrl: "https://phys.org/news/2021-12-deep-protein.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-deep-protein.amp"
 type: article
-quality: 39
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: RPI News
-  domain: rpi.edu
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg"
-    width: 667
-    height: 446
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-dreams-u.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
   - title: "Deep learning dreams up new protein structures"
-    excerpt: "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools. In a report in Nature, researchers describe the development of a neural network that \"hallucinates\" proteins with new,"
-    publishedDateTime: 2021-12-01T16:00:00Z
-    webUrl: "https://phys.org/news/2021-12-deep-protein.html"
-    ampWebUrl: "https://phys.org/news/2021-12-deep-protein.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-deep-protein.amp"
+    excerpt: "Using artificial intelligence and deep learning, researchers have developed a neural network that 'hallucinates' the structures of new protein molecules. The scientists made up completely random protein sequences and introduced mutations into them until the neural network predicted they would fold into stable structures."
+    publishedDateTime: 2021-12-01T21:36:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/12/211201111930.htm"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-dreams-u.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
-secured: "nsxDPxiT3TXc09VYOM7vilKASwmyUnw+ogo4z8y64xahyKY3V+sq3IF+u9nlwBk0nHmvRoYUNBgM001GoJ5nCYyjwyNshtzxcoCCn8TG5xH7gQczqHRtOS6TmVVls7bTl5l86CHKfewO3zokjtprWPqrbo0P5x0Lkm/05NWnul2GI34fV55G4V3e9kzZiIVfLtCL48kRDxvPXeKW80yU8H2M5/1AuSComqvARzVX7E+x4pJrHk2KHICSxTX9C+edJ9+6qdjpjcYJee1VIs0Y2HpEde1dNFW/RYrS9T+mSfhjQ/oPbM5qJQW6rbpuiM52FE/T9gTKlDTc7S2McVBHCLGUbfBguvMGVxQL5alAZ7w7WlwIiT21KyGUz9eASKa0GL9hwJomWKPqUXgorAOSCMoicQhWwLoCjatPaG02YLpVUDhWECrRxyLXRvkrvU+1vvmaaLB72HvOL7XQ7H9wL3aCmx6z3HypjIdGq9lacS/uvJ1PrB6sIKr3tkmYa/fCZuC0coug4jvoS7A3K7SXvA==;iTAHSL0y+enfKBxnKF383Q=="
+secured: "5FapNDldUrD4FIST7UMvbh2pIGBAJ6EyEkLzCk/QMiV/Wo9unQ/SnuGAXVM3mutKoi1PNWgX0J/3yVu0KnxTmok74U7ax9ZPRNvkkRKuA0RfqrQTBUzPArnHt+Vee/Mn9eL3woJTUD3k8HDxzw0vMJrN3n376eqGtbOOC/qmFyHak2j5swPup7twrAjXdZic0nGIorl2dbCvc6/ZS5qogiidHER+8NB1KiOVOW/drWWI2Xp/+DdzilBD9+4Aukx4vV8KJ//YqvR86AVTbYGz6PP+z+//7ud5AwMAk8km2bHibBkTM+NsWcH1BPphVRMhAlCaNe3hklS7m1RspOE6Fy5aitOhzys56CT2Yas/MpQ=;vHJVydxPGaNfPNhBXdwJfA=="
 ---
 

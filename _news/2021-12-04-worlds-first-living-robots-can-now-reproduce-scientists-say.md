@@ -265,18 +265,18 @@ related:
       domain: whdh.com
     quality: 39
   - title: "Tiny living Pac-Man robots have learned how to reproduce"
-    excerpt: "Films and TV shows have offered us myriad archetypes of what robots could be like -- as varied as the terrifyingly clever Cylons of \"Battlestar Galactica,\" the intrepid R2-D2 in the Star Wars saga and the lovable and helpful \"Wall-E."
-    publishedDateTime: 2021-12-04T17:13:00Z
-    webUrl: "https://www.wrcbtv.com/story/45368191/tiny-living-pac-man-robots-have-learned-how-to-reproduce"
+    excerpt: "Whenever we're confronted with aspects of science fiction becoming scientific reality, philosophical questions arise."
+    publishedDateTime: 2021-12-04T16:12:00Z
+    webUrl: "https://www.albanyherald.com/news/tiny-living-pac-man-robots-have-learned-how-to-reproduce/article_09b8cd9a-ddc3-5060-9499-c75e9f702929.html"
     type: article
     provider:
-      name: WRCB
-      domain: wrcbtv.com
+      name: Albany Herald
+      domain: albanyherald.com
     quality: 39
     images:
-      - url: "https://ftpcontent.worldnow.com/professionalservices/clients/wrcb/WRCB_BrandImage.jpg"
-        width: 600
-        height: 338
+      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/2/e0/2e005156-9692-57fe-a8d2-39da9f800395/619f70bd4d51b.image.jpg?crop=1182%2C1182%2C286%2C0&resize=400%2C400&order=crop%2Cresize"
+        width: 400
+        height: 400
         isCached: true
   - title: "Scientists Unveiled the World’s First Living Robots Last Year. Now, They Can Reproduce"
     excerpt: "Early last year, a team of researchers announced the world's first living machines —bundles of stem cells from African clawed frogs ( Xenopus laevis) that could be programmed to accomplish certain tasks."

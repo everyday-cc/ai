@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Tesla releases new footage of auto labeling tool for its self-driving effort"
-excerpt: "Tesla’s head of AI has released new footage of the automaker’s auto labeling tool for its self-driving effort. It’s expected to be an important accelerator in improving Tesla’s Full Self-Driving Beta."
-publishedDateTime: 2021-12-01T11:14:00Z
-originalUrl: "https://electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/"
-webUrl: "https://electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/"
-ampWebUrl: "https://electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/amp/"
-cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/amp/"
+title: "Tesla pushes new Full Self-Driving Beta update with improved object detection"
+excerpt: "Tesla has started to push a new Full Self-Driving Beta software update (version 10.6) to its fleet with improved object detection. It’s the latest step in the long road to improve the FSD package and deliver on a promise to customers that has been delayed several times."
+publishedDateTime: 2021-12-04T19:32:00Z
+originalUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/"
+webUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/"
+ampWebUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
+cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
 type: article
 quality: 86
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - AI
 
 images:
-  - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/12/Tesla-auto-labeling.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+  - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
     width: 1200
     height: 628
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla pushes new Full Self-Driving Beta update with improved object detection"
-    excerpt: "Tesla has started to push a new Full Self-Driving Beta software update (version 10.6) to its fleet with improved object detection. It’s the latest step in the long road to improve the FSD package and deliver on a promise to customers that has been delayed several times."
-    publishedDateTime: 2021-12-04T19:32:00Z
-    webUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/"
-    ampWebUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
+  - title: "Tesla releases new footage of auto labeling tool for its self-driving effort"
+    excerpt: "Tesla’s head of AI has released new footage of the automaker’s auto labeling tool for its self-driving effort. It’s expected to be an important accelerator in improving Tesla’s Full Self-Driving Beta."
+    publishedDateTime: 2021-12-01T11:14:00Z
+    webUrl: "https://electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/"
+    ampWebUrl: "https://electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/amp/"
     type: article
     provider:
       name: Electrek
       domain: electrek.co
     quality: 86
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/12/Tesla-auto-labeling.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
         isCached: true
@@ -96,6 +96,6 @@ related:
         height: 783
         isCached: true
 
-secured: "1mz7aYvW4y/7CS2s1nkLzSi2T5DE9Xhq7WladBOnAS+3qVooUGK46Xb1z2hdfv4mopNs67uqH2OvrREErZlhlnrAngOuk/VZTv0FFFnpLhzZq4qyoWbg4sZc5s3KnqqtInYvdAOC0JjfGfAosfmyoNmq1Fw2mNWdHmxmpk7wxidWLsCtENp14SQQ2t+LkA1JK6Dy6QcpgJuoGgkc9Icx8Bk9eDxRVrbpSEByMD3iAYY1rZ8Q35GbYRtfO3rwwRLSVZ0pR2rTtN8nhX6z27ujRiVPaNBY3PL5UoeMqH66NttjSzIAKKeo214DCluXm+knJ8y1ijq5RfcgvPEaKi/xKJh3BQcJRVs7zas9Zo3YZfHyvkbcmf1NidI7Ni1+HE12OwApr/TL7HJIRkWdTq8u2WaAG92OjcJ3wD7xd5es2yyJl6ha7Jc54E9CT/KnLzYePiqssAP9tP8B+BbwEOA6BWJQ3m+Nr2JO1CbdxV5sYlLwFjaL1e8HTjGXA2VmQBzC6/A5kcW++LvTPYsWfZSpEA==;aIN/lHT32BDPKCS12so9eA=="
+secured: "Sgd4JxcgoDiPQIfDHyKZW0KHb1yUnscL6KOds03joVs2ZdACXGLQk8sbdCQWk4Z66mVpvFqKfUJ7ObqVu9OT10hE0PNAKm4ii1t4b/KUREhx/leR0ilwQBHrFdmBP/HiPpI+XG5PWyx+Vp10lexJW8O+GBBdo6bag8Jjc69QPfHeUp1h58tVudjRtmTSirWEHRt8DUPE4c+Ag8QG+1IGKLyKvKv3kYkvq9NXUUPzKWByh68gyB9sX9VzxduK7JJGtUeWfs55yMfSsBG6HdZc9nJnvDQ2GEInw6ckbjJ+8PQqjhLS7AMAfd0meD/lvq4Wb0tWopfD30i1iR0Oh7meNi8X75Adt6ITIdk7aJUeA04=;zZy731EovygH92rLsMiUaA=="
 ---
 

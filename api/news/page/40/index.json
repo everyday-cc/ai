@@ -2,6 +2,93 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-11-03-global-ai-powered-healthcare-solutions.md",
+      "title": "Global AI-Powered Healthcare Solutions",
+      "excerpt": "Babylon - Tech giant Microsoft has announced a new partnership with Babylon Cloud Services—a company specializing in digital self-care. Together the",
+      "sourceUrl": null,
+      "webUrl": "https://www.trendhunter.com/trends/babylon",
+      "originalUrl": "https://www.trendhunter.com/trends/babylon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.trendhunterstatic.com/thumbs/babylon.jpeg",
+          "width": 800,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.trendhunter.com/amp/trends/babylon",
+      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/babylon",
+      "publishedDateTime": "2021-11-02T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TrendHunter",
+        "domain": "trendhunter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-facebook-does-an-about-face-on-facial-recognition-now-says-it-will-delete-your-face-data.md",
+      "title": "Facebook does an about-face on facial recognition, now says it will delete your face data",
+      "excerpt": "Under increased scrutiny for its use of certain biometric technology, the social media giant says it’s shutting down the system for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90692708/facebook-face-recognition-shutting-down",
+      "originalUrl": "https://www.fastcompany.com/90692708/facebook-face-recognition-shutting-down",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/11/p-1-facebook-makes-an-about-face-on-face-recognition.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T12:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-kinetica-pushes-vectorization-to-the-edge-with-microsoft-azure-stack-hci.md",
       "title": "Kinetica Pushes Vectorization to the Edge with Microsoft Azure Stack HCI",
       "excerpt": "Provides Organizations with the Flexibility to Perform Time and Space Database Analytics in Hybrid Cloud DeploymentsARLINGTON, Va.--(BUSINESS WIRE)--Kinetica, the database for time and space, is now available in the Microsoft Azure Stack Partner Catalog,",
@@ -1101,101 +1188,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-robot-food-delivery-coming-soon-to-a-campus-near-you.md",
-      "title": "Robot food delivery, coming soon to a campus near you",
-      "excerpt": "Robots navigate the Bowling Green State University campus in Bowling Green, Ohio on Thursday, Oct. 13, 2021. Robot food delivery is no longer the stuff of science fiction. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/",
-      "originalUrl": "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wraltechwire.com/wp-content/uploads/2021/11/Starship_Robot_AP_Asset_ID_19957182.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1",
-      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/11/02/robot-food-delivery-coming-soon-to-a-campus-near-you/?amp=1",
-      "publishedDateTime": "2021-11-02T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-ibm-research-and-neureality-announce-partnership-for-ai.md",
-      "title": "IBM Research and NeuReality Announce Partnership For AI",
-      "excerpt": "IBM (NYSE: IBM) and NeuReality, an Israeli AI systems and semiconductor company, have signed an agreement to develop the next generation of high-performance AI inference platforms that will deliver disruptive cost and power consumption improvements for deep learning use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/11/02/ibm-research-and-neureality-announce-partnership-for-ai/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/11/02/ibm-research-and-neureality-announce-partnership-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618013cee0269118180aa325%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

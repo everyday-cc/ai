@@ -43,15 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Device Market Size 2021 – Global Growth, Trends, Industry Analysis, Key Players and Forecast 2027"
-    excerpt: "Global Face Recognition Device Market includes Extensive company profiling of leading players of the Face Recognition Device market. All of the segments studied in the report are analyzed based on different factors such as market share,"
-    publishedDateTime: 2021-11-30T04:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-size-2021-global-growth-trends-industry-analysis-key-players-and-forecast-2027-2021-11-30"
+  - title: "Deep Learning Market Research Report 2021 Analysis Based on Industry Size, Shares, Trend, Forecast, Drivers, Restraints and Key Players Data by 2027"
+    excerpt: "Global “Deep Learning Market” research report is to provide detailed analysis of current scenario of the market,"
+    publishedDateTime: 2021-11-30T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-2021-analysis-based-on-industry-size-shares-trend-forecast-drivers-restraints-and-key-players-data-by-2027-2021-11-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

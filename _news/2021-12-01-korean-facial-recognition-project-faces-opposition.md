@@ -217,54 +217,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Centre introduces unique face recognition technology for pensioners"
-    excerpt: "The Central government on Monday introduced a unique face recognition technology for pensioners aimed at bringing ease of living for the retired and t.."
-    publishedDateTime: 2021-11-30T03:09:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/centre-introduces-unique-face-recognition-technology-for-pensioners/87995015"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/centre-introduces-unique-face-recognition-technology-for-pensioners/87995015"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/centre-introduces-unique-face-recognition-technology-for-pensioners/87995015"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-87995015,imgsize-35057,width-1200,height-628,overlay-etcio/centre-introduces-unique-face-recognition-technology-for-pensioners.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Govt. launches unique face recognition technology to benefit pensioners"
-    excerpt: "Union Minister of State Dr Jitendra Singh on Monday launched unique Face Recognition Technology for Pensioners and said that this will bring ease of living for the retired and the elderly citizens. Singh said,"
-    publishedDateTime: 2021-11-30T03:44:00Z
-    webUrl: "https://www.freepressjournal.in/topnews/govt-launches-unique-face-recognition-technology-to-benefit-pensioners"
-    ampWebUrl: "https://www.freepressjournal.in/amp/topnews/govt-launches-unique-face-recognition-technology-to-benefit-pensioners"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/topnews/govt-launches-unique-face-recognition-technology-to-benefit-pensioners"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 59
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2021-11/ba2281fc-9298-4b27-8a87-1142cb19dd48/FFXnI_mVUAE4s48.jfif?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1199
-        height: 675
-        isCached: true
-  - title: "Powering AI with Indian Languages"
-    excerpt: "Language relatedness has a vital role in the multilingual fine-tuning of AI models and making them more accurate. The voice-based internet is here to .."
-    publishedDateTime: 2021-11-30T03:36:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/powering-ai-with-indian-languages/87995514"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/powering-ai-with-indian-languages/87995514"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/powering-ai-with-indian-languages/87995514"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-87995514,imgsize-48402,width-1200,height-628,overlay-etcio/powering-ai-with-indian-languages.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "facial recognition tech at airports"
     excerpt: "Trak.in is a popular Indian Business, Technology, Mobile & Startup blog featuring trending News, views and analytical take on Technology, Business, Finance, Telecom, Mobile, startups & Social Media Sp"
     publishedDateTime: 2021-12-03T06:06:00Z

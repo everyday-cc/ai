@@ -177,20 +177,6 @@ related:
         width: 580
         height: 375
         isCached: true
-  - title: "ElectrifAi Announces MLaaS and SpendAi at AWS re:Invent 2021"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-    publishedDateTime: 2021-11-30T03:10:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-announces-mlaas-and-spendai-at-aws-re-invent-2021-837723933.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook"
-        width: 594
-        height: 315
-        isCached: true
   - title: "The Future Of Cloud-Based Machine Learning: Highlights from AWS re:Invent 2021"
     excerpt: "Swami Sivasubramanian is credited with starting a revolution in the IT industry. His innovation was to take the artificial intelligence (AI) and deep learning services that had been so effective for A"
     publishedDateTime: 2021-12-03T13:49:00Z

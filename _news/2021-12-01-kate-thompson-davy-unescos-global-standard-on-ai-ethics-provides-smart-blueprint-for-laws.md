@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bd/opinion/columnists/2021-11-30-
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/opinion/columnists/2021-11-30-kate-thompson-davy-unescos-global-standard-on-ai-ethics-provides-smart-blueprint-for-laws/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "United Nations launches global standard for AI ethics"
-    excerpt: "Standard aims to provide AI with a strong ethical basis that will not only protect but also promote human rights and human dignity."
-    publishedDateTime: 2021-11-30T03:40:00Z
-    webUrl: "https://www.reseller.co.nz/article/693536/united-nations-launches-global-standard-ai-ethics/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 54
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ai_dreamstime_2.jpg"
-        width: 504
-        height: 315
-        isCached: true
   - title: "Unesco member states adopt AI ethics recommendation"
     excerpt: "The non-binding recommendation seeks to define a common set of values and principles to guide the development of ethical AI globally"
     publishedDateTime: 2021-12-01T12:00:00Z

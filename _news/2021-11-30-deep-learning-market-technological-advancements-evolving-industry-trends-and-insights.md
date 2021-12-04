@@ -85,22 +85,6 @@ related:
         width: 1280
         height: 682
         isCached: true
-  - title: "AI is making applying for jobs even more miserable"
-    excerpt: "The platforms say the process is fairer and less biased than human recruiters, leading to better and more diverse candidates making the cut. Of course, there is fierce debate about whether algorithms could in fact reinforce human biases rather than eliminate them."
-    publishedDateTime: 2021-11-30T05:00:00Z
-    webUrl: "https://www.ft.com/content/a81245ee-9916-47e2-81b9-846e9403be00"
-    ampWebUrl: "https://amp.ft.com/content/a81245ee-9916-47e2-81b9-846e9403be00"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a81245ee-9916-47e2-81b9-846e9403be00"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14cf9789-78fa-445f-900a-c626ed5f5af7.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "How AI and Automation Are Transforming Legal Teams for the Better"
     excerpt: "How can legal firms benefit by transitioning away from traditional contract management processes and adopting AI and automation?"
     publishedDateTime: 2021-12-01T15:31:00Z

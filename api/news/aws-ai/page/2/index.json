@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-23-apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning.md",
+      "title": "Apollo Tyres Goes All-In on AWS to Make Factories Smarter with IoT and Machine Learning",
+      "excerpt": "Amazon Web Services (AWS) announced that Apollo Tyres, India’s leading tyre manufacturer, is going all-in on AWS to digitally transform. By moving all of its IT infrastructure to",
+      "sourceUrl": null,
+      "webUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
+      "originalUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/orissadiary.com/wp-content/uploads/2021/11/Apollo-Tyres_AWS-2.jpg?fit=800%2C532&ssl=1",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
+      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
+      "publishedDateTime": "2021-11-23T03:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha Diary",
+        "domain": "orissadiary.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation.md",
       "title": "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation",
       "excerpt": "CVG is using computer vision, AI, and advanced technologies to manage capacity constraints while maintaining its commitment to customer service and brand reputation TaskWatch enhances CVG with self-service capability to deploy custom computer vision applications in an ever-evolving business landscape.",
@@ -1340,49 +1384,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-uae-aws-announces-plans-to-open-second-region-in-canada.md",
-      "title": "UAE - AWS Announces Plans to Open Second Region in Canada",
-      "excerpt": "AWS Professional Services is helping us transform our digital business through new applications and services such as Amazon Rekognition for asset tracking using computer vision, and other services ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103152461/UAE-AWS-Announces-Plans-to-Open-Second-Region-in-Canada",
-      "originalUrl": "https://menafn.com/1103152461/UAE-AWS-Announces-Plans-to-Open-Second-Region-in-Canada",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-11/11/A_32f2eimage_story.jpg",
-          "width": 1000,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T11:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

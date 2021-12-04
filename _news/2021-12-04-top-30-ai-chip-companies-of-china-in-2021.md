@@ -57,20 +57,6 @@ related:
         width: 720
         height: 720
         isCached: true
-  - title: "Announcing the Intelligent Applications Top 40; a New Industry Ranking of the Top Private Companies Building Applications with AI and Machine Learning"
-    excerpt: "Today the Intelligent Applications Top 40 (#IA40) was unveiled by Madrona Venture Group. The list of the top private companies building applications that truly incorporate intelligence into how they process data and predict outcomes was voted on"
-    publishedDateTime: 2021-11-30T03:04:00Z
-    webUrl: "https://www.lelezard.com/en/news-20129728.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 14
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "bE8axMxL5wjgwq1IKe4ek66+fnkjtjEHiKJBPImK4P9OmgPg+MIHjacY7tL5W0GhrwPjF0Lkloa9yeQu189rfTsIWCcAH1w/l4+3DMR0B9YyFa3Gd8o2gy9cwx5Gwrj0quJSkBOBEiljHAKp5ThU0/qLcvdGez0aJFicWQyhV0nKOl75k/x/Hsjz47OcpK9QVqbjLpwZaAUzTG40A6cO1yC4EWNyV5IvWheZ7iemxX007btrq+Y9PH7oISpl5yvaCbPNthDigrcIh3Gs5mGVulIqRWZkNoF/buFRlDFJ36gvxa1Pd+9+B/leIYiolBrR9RPKLa1gQW/zp/WlC0160M7uqcEO9HW6hI5lpuT+Fcs=;RSwGH1NQkAvjafhY5fZlKw=="
 ---

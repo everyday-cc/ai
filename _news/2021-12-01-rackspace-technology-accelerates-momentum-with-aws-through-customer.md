@@ -20,9 +20,18 @@ topics:
 
 related:
   - title: "Aurora Accelerates Development of the Aurora Driver with AWS"
-    excerpt: "With AWS's capabilities in high-performance computing, machine learning, storage, and security, Aurora optimizes and scales its virtual testing efforts to expand the capabilities of the Aurora Driver safely and quickly."
-    publishedDateTime: 2021-12-01T14:15:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-aurora-accelerates-development-the-aurora-driver-with-aws-/2021/12/01/9502633.htm"
+    excerpt: "Aurora uses AWS’s proven infrastructure and unparalleled portfolio of capabilities to safely accelerate the development of the Aurora Driver, its scalable self-driving vehicle technology."
+    publishedDateTime: 2021-12-01T14:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005041/en/Aurora-Accelerates-Development-of-the-Aurora-Driver-with-AWS"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 119
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS's proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-01T14:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-meta-selects-aws-as-key-long-term-strategic-/2021/12/01/9502660.htm"
     type: article
     provider:
       name: TMCnet

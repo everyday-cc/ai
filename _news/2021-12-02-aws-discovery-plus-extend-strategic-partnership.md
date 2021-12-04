@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend
 cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
 type: article
 quality: 59
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -99,15 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-    excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS's proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-01T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-meta-selects-aws-as-key-long-term-strategic-/2021/12/01/9502660.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
     publishedDateTime: 2021-12-01T18:00:00Z

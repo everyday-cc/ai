@@ -87,22 +87,6 @@ related:
         width: 1280
         height: 682
         isCached: true
-  - title: "AI is making applying for jobs even more miserable"
-    excerpt: "The platforms say the process is fairer and less biased than human recruiters, leading to better and more diverse candidates making the cut. Of course, there is fierce debate about whether algorithms could in fact reinforce human biases rather than eliminate them."
-    publishedDateTime: 2021-11-30T05:00:00Z
-    webUrl: "https://www.ft.com/content/a81245ee-9916-47e2-81b9-846e9403be00"
-    ampWebUrl: "https://amp.ft.com/content/a81245ee-9916-47e2-81b9-846e9403be00"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/a81245ee-9916-47e2-81b9-846e9403be00"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14cf9789-78fa-445f-900a-c626ed5f5af7.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Deep Learning Market Technological Advancements, Evolving Industry Trends and Insights"
     excerpt: "Deep learning algorithms are being increasingly used in contact centers as the adoption of these algorithms help them in improving the first call resolution process reducing call durations curtailing total call volume and enhancing customer satisfaction thereby increasing their business"
     publishedDateTime: 2021-11-30T13:23:00Z

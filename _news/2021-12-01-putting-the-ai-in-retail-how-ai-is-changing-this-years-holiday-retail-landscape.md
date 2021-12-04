@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/puttin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/putting-the-ai-in-retail-how-ai-is-changing-this-years-holiday-retail-landscape/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "The Role of Artificial Intelligence in Pioneering the Retail Industry"
-    excerpt: "The retail industry's digital transition has been ongoing for a long time. Data and predictive analytics tools are helping organizations make data-driven decisions in every aspect of retail business,"
-    publishedDateTime: 2021-11-30T04:43:00Z
-    webUrl: "https://www.cioreview.com/news/the-role-of-artificial-intelligence-in-pioneering-the-retail-industry-nid-34682-cid-38.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 52
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/oh5vt.retail.jpg"
-        width: 300
-        height: 350
-        isCached: true
 
 secured: "nnwd08phNF9aoDcBVRJJ0olcs3g/Z4jHVejjfjXKnR869yFU1qGXeVGKmFERzGQADzRdVTiyHfw27J+5baf3zET9AcUhAMLRhG8F0kXVVLSOaGtI7RVRzLfUZW7m85lPXwfJnibjiT6rdbl8/yr6POUcRAJGIqZCqGF0aFS93CbXtd/WDVUj2weSxIzpfFTlql5H3rspaNUej/DmK421jyy/whaPG/1gPRc4X9voeFPZHHQ6a0KIe/L+ZgYR0Lq1XWkFApkTeUOZyXTqMjmhHNpHDhTY5MVZg4WXrC5FphrAJoWaFk6HZ5BZN6xGve242PhWLstaTxaXWWJQBwklxl96c/VvSCzqJIK2w8rFu31mMQdOW76U/0pnjdm1b+3b3AFwJFXi1/4pKqgLJJ4yqDsbyPm9A0ea9Bbx2/b9b8XmChJFDgspCWmQiolrE3q9Qze/dOqFsfiUsmgEuvpvlgF3hvv6BsOjQ+hi6b4xyVxcapGIu0kNLR4MYHkoVf4CmdTI6xuqXobM4A4gGaU0Tg==;73oG6vACxxiAHqzUQLkvaQ=="
 ---

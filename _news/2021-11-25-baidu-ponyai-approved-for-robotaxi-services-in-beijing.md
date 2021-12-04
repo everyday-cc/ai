@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Baidu, Pony.ai approved for robotaxi services in Beijing"
-excerpt: "SHANGHAI, Nov 25 (Reuters) - Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more ..."
-publishedDateTime: 2021-11-25T11:08:00Z
-originalUrl: "https://www.reuters.com/technology/baidu-ponyai-approved-robotaxi-services-beijing-2021-11-25/"
-webUrl: "https://www.reuters.com/technology/baidu-ponyai-approved-robotaxi-services-beijing-2021-11-25/"
+excerpt: "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in ..."
+publishedDateTime: 2021-11-25T06:15:00Z
+originalUrl: "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing"
+webUrl: "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing"
+ampWebUrl: "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/AIdJQtUnYYgAIck0uaC1BkrnJTQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FDNGVLW23BJLFFEFTNXHSHTCQQ.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "bLVm+GBBIFXgKjCvpQJF7vLB3koZU3wgSSTfAYxwPInX987OZWn7frbVaGGadyKBh6dkpVWq0iDmNLQpWiQgz5w2BlLXNttjo04FL1shMG3ho6wLOf2hB+43be+Sr7YDVfmDrHwHUys56nKMC22KHL8QjQzQ0k7/S/3tSF9EN1/EP6wgBgHdGxAZICnDaBFtUYPOo3F3Q3Fg2e4eijgm/wfeT3GqWlTtzz33VLToqZ9dTAKLUEQiQ7qRV5NBSOj7u3U/LTleflXkWTWWaGCHoCtrX99/s1Vz023Hd98l18Ok9xJeBw+TDBZNjO1d3now8qyxZBxBxm5fu2y9kLiiJTFvnNa6GCgW2DgEIbnDw/M=;Weywc/rAjv8laXXgL5eyEw=="
+secured: "jTT8bfW60C1rgynCCS5C5ur23CvozDKD+L7rjf9f73raZL1RCj8VSVlGn7CU4MUr3mvxzregx4qjkLnJvSzyFhxr8zwg+FEINUGn/5dTaxFnrzfnAT6ulG6AkeiWspb9ij9PU3HVw+nvwlDqgUulwABCqcKY8RYM9htf0McSnke3cf1YsTBw5HL9Rimae/ncOIn/GWBqfgRhnQdH7CPjYXyqbLWXZ2CfzQLLRR6u0iZ1G92P4n2XCt4nNGeaehF+T/uPZikFIoeJ2xHPL3H+r/EImEHxkuFSKD+cV84W1wjDZLoDJJZvcJcp13qq33CLDpEuRQq+dWk65JrBA8ziBHtyeQcgcJbQNHH0tc0K6pY=;chJKQ0Moz42ZYogF7EUGKQ=="
 ---
 

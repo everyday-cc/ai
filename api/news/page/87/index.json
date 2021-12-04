@@ -2,6 +2,109 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2021-09-29-how-ai-is-making-information-more-useful.md",
+      "title": "How AI is making information more useful",
+      "excerpt": "Today, there’s more information accessible at people’s fingertips than at any point in human history. And advances in artificial intelligence will radically transform the way we use that information, with the ability to uncover new insights that can help us both in our daily lives and in the ways we",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/search/how-ai-making-information-more-useful/",
+      "originalUrl": "https://blog.google/products/search/how-ai-making-information-more-useful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/search_on.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-29T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry.md",
+      "title": "AI (Artificial Intelligence): Poised To Transform The Massive Construction Industry",
+      "excerpt": "But if you look at the S-1 filing, there are some interesting details about the construction industry. For example, the investment in technologies has generally lagged (this is based on research from McKinsey) and the levels are only more than for agriculture and hunting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61549f1ba14eafa27698887b%2F0x0.jpg",
+          "width": 1200,
+          "height": 828,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/09/29/ai-artificial-intelligence-poised-to-transform-the-massive-construction-industry/amp/",
+      "publishedDateTime": "2021-09-29T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-29-deploy-multiple-machine-learning-models-for-inference-on-aws-lambda-and-amazon-efs.md",
       "title": "Deploy multiple machine learning models for inference on AWS Lambda and Amazon EFS",
       "excerpt": "You can deploy machine learning (ML) models for real-time inference with large libraries or pre-trained models. Common use cases include sentiment analysis, image classification, and search applications. These ML jobs typically vary in duration and require instant scaling to meet peak demand. You want",
@@ -1072,92 +1175,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-global-deep-learning-models-market-report-2021-neural-networks-empowering-the-next-generation-of-ai-applications.md",
-      "title": "Global Deep Learning Models Market Report 2021: Neural Networks Empowering the Next Generation of AI Applications",
-      "excerpt": "The \"Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)\" report has been added to ResearchAndMarkets.com's offering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-deep-learning-models-market-report-2021-neural-networks-empowering-the-next-generation-of-ai/article_71a66ad9-6907-56ec-9075-1405f5713615.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-deep-learning-models-market-report-2021-neural-networks-empowering-the-next-generation-of-ai/article_71a66ad9-6907-56ec-9075-1405f5713615.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-next-wave-of-deep-learning-models-applications-markets-2021-focus-on-rnn-cnn-and-gan-researchandmarketscom.md",
-      "title": "Next Wave of Deep Learning Models & Applications Markets 2021: Focus on RNN, CNN, and GAN - ResearchAndMarkets.com",
-      "excerpt": "The “Next Wave of Deep Learning Models & Applications (RNN, CNN, and GaN)” report has been added to ResearchAndMarkets.com’s offering. As digitization progresses across industries, AI is gaining a ubiquitous adoption as more and more business processes are being automated.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/business-technology-c75da96895804268aa68ebd35cad71f2",
-      "originalUrl": "https://apnews.com/press-release/business-wire/business-technology-c75da96895804268aa68ebd35cad71f2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-an
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
 type: article
 quality: 125
-heat: 367
+heat: 357
 published: true
 
 provider:
@@ -169,20 +169,6 @@ related:
       - url: "https://itknowledgeexchange.techtarget.com/cwdn/files/2021/11/111-1.jpg"
         width: 580
         height: 375
-        isCached: true
-  - title: "ElectrifAi Announces MLaaS and SpendAi at AWS re:Invent 2021"
-    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-    publishedDateTime: 2021-11-30T03:10:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-announces-mlaas-and-spendai-at-aws-re-invent-2021-837723933.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1527876/ElectrifAi_Logo.jpg?p=facebook"
-        width: 594
-        height: 315
         isCached: true
   - title: "AWS Rocks with New Analytics, AI Services at re:Invent"
     excerpt: "With classic rock tunes playing, Adam Selipsky took the stage for his first re:Invent keynote as the new CEO of AWS, the $60-billion cloud juggernaut that"

@@ -37,20 +37,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "United Nations launches global standard for AI ethics"
-    excerpt: "Standard aims to provide AI with a strong ethical basis that will not only protect but also promote human rights and human dignity."
-    publishedDateTime: 2021-11-30T03:40:00Z
-    webUrl: "https://www.reseller.co.nz/article/693536/united-nations-launches-global-standard-ai-ethics/"
-    type: article
-    provider:
-      name: Reseller News
-      domain: reseller.co.nz
-    quality: 54
-    images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/ai_dreamstime_2.jpg"
-        width: 504
-        height: 315
-        isCached: true
 
 secured: "24oWC5gYADOhh/ibNXBMk/IIw+eVQPA2fYdmfJV4E75ZgbSQE+R0XyZqjw0PNNTq8SWIyQYZ56OXBGa5tl4KFTr9bN4VXcrOR79PgKpgrLdr/G3iMB5LuONIu3+HUnJxwSGqorgPbPKdhFcdRlC/Cfwk5rlRbx4FpsG59OrXV4UMov+2OdRH+aoPqb4QmnNd6mn/iJMifdwtmh+Ehe1lJ73dyMqKYEuftIH5/0W7EL9O01TSWZ/wFY1yBr884XjalWSnKFh9re8GCS36ES1tPhPbIJRqZlX30oOWrxndZ/OFOVnLo1SrdrsbBPWX8h46h9RRHz1q0y5caUlpvXS1jI87Jfi2fDe7aSEDyFPinsc=;nDyguRL9fHvblzF6Qb+8XQ=="
 ---

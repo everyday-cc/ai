@@ -2,19 +2,19 @@
 category: news
 title: "Your favorite radio host could actually be a robot"
 excerpt: "Some companies are using artificial intelligence (AI) to so perfectly mimic a human voice, they’ve already started to use it with certain radio DJs. Reuters reports that Seattle-based startup, WellSaid Labs,"
-publishedDateTime: 2021-12-03T16:57:00Z
-originalUrl: "https://www.pennlive.com/life/2021/12/your-favorite-radio-host-could-actually-be-a-robot.html"
-webUrl: "https://www.pennlive.com/life/2021/12/your-favorite-radio-host-could-actually-be-a-robot.html"
-ampWebUrl: "https://www.pennlive.com/life/2021/12/your-favorite-radio-host-could-actually-be-a-robot.html?outputType=amp"
-cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/life/2021/12/your-favorite-radio-host-could-actually-be-a-robot.html?outputType=amp"
+publishedDateTime: 2021-12-03T17:43:00Z
+originalUrl: "https://www.oregonlive.com/nation/2021/12/your-favorite-radio-host-could-actually-be-a-robot.html"
+webUrl: "https://www.oregonlive.com/nation/2021/12/your-favorite-radio-host-could-actually-be-a-robot.html"
+ampWebUrl: "https://www.oregonlive.com/nation/2021/12/your-favorite-radio-host-could-actually-be-a-robot.html?outputType=amp"
+cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/12/your-favorite-radio-host-could-actually-be-a-robot.html?outputType=amp"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: Penn Live
-  domain: pennlive.com
+  name: Oregonian
+  domain: oregonlive.com
 
 topics:
   - AI in Robotics
@@ -26,6 +26,6 @@ images:
     height: 4480
     isCached: true
 
-secured: "ENsr9qNt1QGWtb8q78ldGB0nilpnK/ciCcmj72/wouJ53BNqsWHHvsoAdAlZXrMRPNVsKfJobJkpP1+1HX9sTolG77FhMp7f6vQ6sgEG7DZh5M8DYT0WQvFZ3u1pTsbFi13IzrNuDljU0KjVFXek5D6B9/5bwArcvlpNR8afg2FVcXHazOB7E5UcAxAOD2Eb1zXYAWDD488ux/BTQFtru+q6MFnQA3TFKu104inW7RjwQDf8FFn6HWKXh5EmFle4DG5wvJ8ABRFwKCviTyQx4JljXo18cQtVuzD8prB8z12t18wHpvyQ4fHoENcx4RL92g6nEiVokiKsxWQ2lE3bobTWm6eG1mbediRu5FSGDDY=;urEVfJ2iq3qfJ1c1NqVQ+g=="
+secured: "CzYHdh9h4qI8PuP4ZXSdIhWDoWIWLKhhoW4gxlA8S9FA6SlfRWYlNXv5PAf7F9NbeV/R9E8L5uLt3J0eVp4zeGbT736Biq65Kw6VAOoM00uZaCs/PnkmHQn0IY1QhyMys2nKCSsqy6hx2M9nGsjXr3o6PPMWAddINVvCwJ3j8ZycAw5BsE7fDIg2SGXAQ/qlLtluVeqxFbaEeQLFk4ugYGfAyC8r+5NJ0cj4WxD7QhLljRWuHoRrhka6WE+ABiLTc4dPzwaFFzXq6sQng1Foa7kBalHIhaR/foHKmP4feYjv+Y/GvltFih6+fVO7pLBFM3v/PP49mg1cN78kLQUYuKaB0JOjkGGyNsusDqTfd4I=;Oqdi3F62dXP9/Zoq42XZYA=="
 ---
 

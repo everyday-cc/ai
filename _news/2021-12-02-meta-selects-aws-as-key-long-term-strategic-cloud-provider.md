@@ -107,15 +107,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-    excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS's proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-01T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-meta-selects-aws-as-key-long-term-strategic-/2021/12/01/9502660.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
     excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more ..."
     publishedDateTime: 2021-12-01T14:05:00Z

@@ -1,24 +1,33 @@
 ---
 category: news
 title: "Aurora Accelerates Development of the Aurora Driver with AWS"
-excerpt: "With AWS's capabilities in high-performance computing, machine learning, storage, and security, Aurora optimizes and scales its virtual testing efforts to expand the capabilities of the Aurora Driver safely and quickly."
-publishedDateTime: 2021-12-01T14:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aurora-accelerates-development-the-aurora-driver-with-aws-/2021/12/01/9502633.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aurora-accelerates-development-the-aurora-driver-with-aws-/2021/12/01/9502633.htm"
+excerpt: "Aurora uses AWS’s proven infrastructure and unparalleled portfolio of capabilities to safely accelerate the development of the Aurora Driver, its scalable self-driving vehicle technology."
+publishedDateTime: 2021-12-01T14:01:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211201005041/en/Aurora-Accelerates-Development-of-the-Aurora-Driver-with-AWS/"
+webUrl: "https://www.businesswire.com/news/home/20211201005041/en/Aurora-Accelerates-Development-of-the-Aurora-Driver-with-AWS"
 type: article
-quality: 19
-heat: 19
-published: false
+quality: 119
+heat: 149
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AWS AI
   - AI
+  - AWS AI
 
 related:
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS's proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-01T14:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-meta-selects-aws-as-key-long-term-strategic-/2021/12/01/9502660.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Rackspace Technology Accelerates Momentum with AWS Through Customer"
     excerpt: "Rackspace Technology ® (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, today announced its momentum with Amazon Web Services (AWS) through customer transformations, Amazon Quicksight Service Delivery (Amazon Quicksight SDP) and AWS Shield Advanced partner designations,"
     publishedDateTime: 2021-11-30T17:27:00Z
@@ -38,6 +47,6 @@ related:
       domain: financialbuzz.com
     quality: 19
 
-secured: "7IL4UQZxWR8vnI8Nbj4IBHk+2ZeBUZYAue474aaKV639z817YBThzGxRSSGWFxTGiZT0UkClEl0vsr+xW/JGSeZervzdvbTIOeBUyfConoG+AdThdxmcrBn98vZT6hcBKjy3FAxlXPZR2N8Yw4XaSk8uzvn37eCzdjSGPyGn12YgLq6FdyDNRFx+OCW393RItypwKeuC4NX5DWzM9cSI7rje8zbGB6HqjITmJcKH4JMBgFhag4JDObYGC97Pz83BiiRuYyeI7mzzGB+j8gyKwP9yBd9qTOsPWUYK1RJQViJKNV6iWnr9vCIOxItNbGS9EbrPAb8xY32XHYLDFQMYi1na9ilSxtlEzuYdT8feLaA=;BMtyGo+nNw57YRpOcvHdCQ=="
+secured: "nwi5xUOuBF7icqxJYufHWL06rdFL6RzUbATbbO4SNVVrTUdpwT/6a9yg80JFFWbRq4rBKWno1ep4rmec9v22L+wilG4jgu7P3JLoCRjw5jKr3CCnBF4UVqzXNOGeRkJdu7z2ONBaiy0eGgGy3orSrWBw2jJC6AqcQOrDlgtW19VYPW4nb9fs7CWaDPVmngSEskd6Tx7XZ47Nm3b45hh1Rc8/k6+2YpMHd6nYcaP4rVQQ0Yz4XKFFEL0uCOO2VcdFHZxhA1jPpcotM8UeWOUNmMkiVdI0qJh3H0s+4ZMJ4xeqg8GJ1HP27DNpIFD3V22dRYJMqQRizA/jwcR7mSw6zOMQD6oJvBk+u2fQw5YUniY=;gyjXAytZwfJeUGXi3hLtZw=="
 ---
 
