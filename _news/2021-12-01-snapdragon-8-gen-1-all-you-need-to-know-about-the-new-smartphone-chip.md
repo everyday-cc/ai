@@ -41,22 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The 6 terms you need to know to understand self-driving cars"
-    excerpt: "Level-up your knowledge of the spectrum of driver-assistance features on the road, from consumer vehicles to self-driving taxis."
-    publishedDateTime: 2021-11-29T20:00:00Z
-    webUrl: "https://www.popsci.com/technology/autonomous-vehicles-explained/"
-    ampWebUrl: "https://www.popsci.com/technology/autonomous-vehicles-explained/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/autonomous-vehicles-explained/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 44
-    images:
-      - url: "https://www.popsci.com/uploads/2021/11/29/bram-van-oost-_K8D5vzEqIo-unsplash.jpg?auto=webp"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "d6Bf9l00BcFFVe9wd82VZ/AP/L/es67qyYX1m8Zk4zX81+XCmegvM58uDWcvHSCPLAARYP/jUxUWLJ6za4OWS80sCaBri9junMWi4kJtHK4UOw/ofkn+7TxI5hCmE1monc49bIzkqFP6NypjYRNBWSQ2EhIFMh1ucgS295YWYeb3QiusgvElsZDMYY14T+tn77dlFZDjlLUkJVjD2YX/vK+sp+y6Og6hdZMo9sVB1f1wRk1qHEtmxuh1zEpe4oXXGn7wUNAq1vM/+4CIq0tV+fuLFl7j1s4ykccsxg0gXTwBgyn7RN4h3huFhK7FyZ+LZiRIA/nQ6u68yxQu/wlYJ+Fr0WcpyxoQeS471olURtreTwBdnKsQESxxl2ikLZMstHLmadAjPcGEKwVNUBjq5HJmijS8VrBajBpdN0WkICg0tWgKVAnDueg2xYKxZHtjEqiu5Rm6wCQgo9uqihVTCbeKMP5+5CVF1ot5e0DDnI3sEqRP4/REJO6GyXlnwqWwRLPQWBpBZbQjLbtakCMm+Q==;J9yFitl4v9eMWTAHQrcaAw=="
 ---

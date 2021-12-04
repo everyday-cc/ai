@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "China: WeiyangX Fintech Review"
-    excerpt: "Beijing Looks to Set Up Digital Asset Exchange in the Sub-Center Area On November 26th, the State Council released a circular on supporting Beijing’s sub-center in pursuing high-quality development. To achieve the goals of a green city,"
-    publishedDateTime: 2021-11-29T19:15:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/11/183533-china-weiyangx-fintech-review-224/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/11/183533-china-weiyangx-fintech-review-224/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/183533-china-weiyangx-fintech-review-224/amp/"
+  - title: "Fintech star BizPay wins battle for coveted tech talent as it prepares for IPO"
+    excerpt: "David Huang said Customers see us as a payment product, not credit. To occupy this space, you cannot ask for a lot of financial information in the same way that credit products do."
+    publishedDateTime: 2021-12-02T11:57:00Z
+    webUrl: "https://www.ibtimes.sg/fintech-star-bizpay-wins-battle-coveted-tech-talent-it-prepares-ipo-61578"
+    ampWebUrl: "https://amp.ibtimes.sg/fintech-star-bizpay-wins-battle-coveted-tech-talent-it-prepares-ipo-61578"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/fintech-star-bizpay-wins-battle-coveted-tech-talent-it-prepares-ipo-61578"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 40
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Beijing-China-2.jpeg"
-        width: 1280
-        height: 1277
+      - url: "https://data.ibtimes.sg/en/full/53494/david-huang.jpg"
+        width: 688
+        height: 860
         isCached: true
 
 secured: "SAYNcXEPgu2gWCTBT/Abl9TCaEWK7hR0oNuQocGXr63zP0AcfAaOesfru7b/0Mu2MHKSs5zgs0RXBU6SGC6wuBs0LaSv5FCwwo9In3U4XyzJtK6swPXCEB7ftctZ3lJj4gWXqypZOCnissoJVkhcZbdKcd5giSiqiWq29OY5mhaqHLN4jH7NkSlLQmV2aERtEucowH6X7w4PuC/z+XsgJ62+3Yz+SrYpAnTgWVHCZfpsRwioiE0aHO/7DTe5FkbmU+PBmNXYnlZE5ag9ra27r/M4pleJd3A51GSlQGGAPI28tYwnLC+tR0cbm7s8Ay0sxqI/8PyshLDmL6LSsZhRy1eaLiW5BqI8KB7eCwFi5P61MJVo8GoQSl11nL3ju14ALQNRN3MouXFdd1tyjoshPaoUFVYlYN2cFiAyE3waDUOYJ1P8/StbAsGEXvHAOkc655A1399XnWWGFWP4XgJrAmSOAe4iUA9xC8bUqJ/7ckA4Uxc6k/L1jN19hwrb+Hwaa3dKB0+T8EifzpTnRw8CwA==;N/AbD+yIQ5r6vfI2FQSbow=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3157919/hkust-and-othe
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai"
 type: article
 quality: 97
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://digitimes.com/newsshow/20211130VL205_files/2_2b.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "How the city hopes to rein in the job market’s AI gatekeepers"
-    excerpt: "A recently approved bill will make New York a leader in regulating automation in hiring, though tech watchdogs say the measure does not go far enough"
-    publishedDateTime: 2021-11-29T19:47:00Z
-    webUrl: "https://www.crainsnewyork.com/technology/how-new-york-city-hopes-rein-job-markets-ai-robot-gatekeepers"
-    type: article
-    provider:
-      name: Crain's New York
-      domain: crainsnewyork.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.crainsnewyork.com/styles/800x600/s3/232895556.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Artificial Intelligence Capabilities Are Quickly Becoming Essential for Customer Experience Initiatives, According to Dash Research"
     excerpt: "Eastern Standard Time Dash Research's report, “Artificial Intelligence for CX Applications” , focuses on the market drivers and barriers surrounding the adoption and use of AI in CX platforms, applications,"

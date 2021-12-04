@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?amp"
 type: article
 quality: 101
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F31c8a572-52f8-11ec-a5fe-8f0d6a1c517d.jpg?crop=2000%2C1125%2C0%2C104&resize=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "6 recent Big Tech partnerships in healthcare: Amazon, Google & more"
-    excerpt: "Six recent partnerships between healthcare organizations and Big Tech companies, including Amazon, Apple, Google and Microsoft: 1. Microsoft and telehealth provider Babylon are teaming up to use artificial intelligence and cloud computing to explore opportunities to increase their health IT offerings."
-    publishedDateTime: 2021-11-29T20:06:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/6-recent-big-tech-partnerships-in-healthcare-amazon-google-more.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
         isCached: true
   - title: "Big data in healthcare: 3 spine surgeons weigh in"
     excerpt: "Three surgeons consider the pros and cons of big data and how it will affect spine care and the wider healthcare field."

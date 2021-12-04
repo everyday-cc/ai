@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-25-how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier.md",
+      "title": "How Moveworks’ AI platform broke through the multilingual NLP barrier",
+      "excerpt": "Multilingual NLP in an enterprise context -- using no scripting or system-integration prework -- is the future of conversational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/",
+      "originalUrl": "https://venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/nlp-e1634938579138.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/amp/",
+      "publishedDateTime": "2021-10-24T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart.md",
+      "title": "Create a dashboard with SEC text for financial NLP in Amazon SageMaker JumpStart",
+      "excerpt": "Amazon SageMaker JumpStart helps you quickly and easily get started with machine learning (ML) and provides a set of solutions for the most common use cases that can be trained and deployed readily with just a few clicks. JumpStart also includes a collection of multimodal financial text analysis tools,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-a-dashboard-with-sec-text-for-financial-nlp-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-22T08:32:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-natural-language-processing-nlp-in-healthcare-life-sciences.md",
       "title": "Natural Language Processing Nlp In Healthcare Life Sciences",
       "excerpt": "Advance Market Analytics published a new research publication on “Global Natural Language Processing Nlp In Healthcare Life Sciences Market Insights, to 2026” with 232 pages and enriched with ...",
@@ -1238,102 +1343,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-microsoft-taps-ai-techniques-to-bring-translator-to-100-languages.md",
-      "title": "Microsoft taps AI techniques to bring Translator to 100 languages",
-      "excerpt": "Microsoft says it's using AI techniques to improve the quality of language translations across its services, including Translator.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/",
-      "originalUrl": "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 356,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/11/microsoft-taps-ai-techniques-to-bring-translator-to-100-languages/amp/",
-      "publishedDateTime": "2021-10-11T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-windows-11-voice-typing-how-to-configure-it.md",
-      "title": "Windows 11 Voice Typing: How to configure it",
-      "excerpt": "While testing it, I found its speech recognition near to perfect and pretty fast. So, if you do not want to take the hassle of writing things down using the keyboard on your Windows 11 system ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thespectrum.com/story/news/local/mesquite/2021/10/11/pc-periodicals-windows-11-voice-typing-how-configure/6088725001/",
-      "originalUrl": "https://www.thespectrum.com/story/news/local/mesquite/2021/10/11/pc-periodicals-windows-11-voice-typing-how-configure/6088725001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/10/05/USAT/53e029f8-196d-496b-9313-7f40afdbbaeb-Windows-11-PC-Devices.jpg?auto=webp&crop=971,547,x0,y10&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.thespectrum.com/amp/6088725001",
-      "cdnAmpWebUrl": "https://amp-thespectrum-com.cdn.ampproject.org/c/s/amp.thespectrum.com/amp/6088725001",
-      "publishedDateTime": "2021-10-11T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spectrum",
-        "domain": "thespectrum.com",
         "images": null,
         "publishers": null,
         "authors": null

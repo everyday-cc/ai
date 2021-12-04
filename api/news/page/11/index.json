@@ -2,6 +2,102 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-11-23-how-careem-is-detecting-identity-fraud-using-graph-based-deep-learning-and-amazon-neptune.md",
+      "title": "How Careem is detecting identity fraud using graph-based deep learning and Amazon Neptune",
+      "excerpt": "This post was co-written with Kevin O’Brien, Senior Data Scientist in Careem’s Integrity Team. Dubai-based Careem became the Middle East’s first unicorn when it was acquired by Uber for $3.1 billion in 2019. A pioneer of the region’s ride-hailing economy, Careem is now expanding its services to include",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-careem-is-detecting-identity-fraud-using-graph-based-deep-learning-and-amazon-neptune/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-careem-is-detecting-identity-fraud-using-graph-based-deep-learning-and-amazon-neptune/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/12/ML-5154-image001.png",
+          "width": 986,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T11:59:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-computer-vision-for-cleaning-and-sports-the-ukrainian-it-company-powercode-has-entered-the-persian-gulf-market-with-its-oil-of-the-21st-century.md",
+      "title": "Computer Vision for Cleaning and Sports. The Ukrainian IT Company Powercode Has Entered the Persian Gulf Market With Its Oil of the 21st Century",
+      "excerpt": "The Ukrainian IT company has entered the Persian Gulf market with its oil of the 21st century KIEV, Ukraine, Nov. 23, 2021 /PRNewswire/ -- According to a new Gartner survey, over 30% of technology companies worldwide plan to invest in artificial intelligence and computer vision technology $1 Million or more in the next two years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-computer-vision-cleaning-sports-ukrainian-it-company-powercode-/2021/11/23/9498931.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-computer-vision-cleaning-sports-ukrainian-it-company-powercode-/2021/11/23/9498931.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1695268/Powercode_computer_vision_technologies.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T11:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-little-big-robots-mech-battle-is-a-pvp-multiplayer-robot-battling-game-out-now-on-android-in-select-countries.md",
       "title": "Little Big Robots. Mech Battle is a PvP multiplayer robot battling game, out now on Android in select countries",
       "excerpt": "Little Big Robots. Mech Battle is a fast-paced multiplayer battle game featuring giant robots. Each robot is unique, be it design or skill-wise. As you might have already guessed, you play as a robot and take down enemy robots controlled by other players",
@@ -701,24 +797,33 @@
     {
       "path": "_news/2021-11-23-cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation.md",
       "title": "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation",
-      "excerpt": "CVG is using computer vision, AI, and advanced technologies to manage capacity constraints while maintaining its commitment to customer service and brand reputation TaskWatch enhances CVG with ...",
+      "excerpt": "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T06:11:00-08:00",
+      "publishedDateTime": "2021-11-23T06:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1032,102 +1137,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-robots-for-the-win-during-ecommerce-holiday-crunch.md",
-      "title": "Robots for the win during ecommerce holiday crunch",
-      "excerpt": "Between labor shortages, COVID continuing to wreak havoc on the supply chain, and the upcoming holiday season (in which eCommerce is expected to grow up to 15%), retailers, eCommerce, and warehouses will face a challenging few months to meet increased consumer demands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robots-for-the-win-during-ecommerce-crunch/",
-      "originalUrl": "https://www.zdnet.com/article/robots-for-the-win-during-ecommerce-crunch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/071fc579b11fc5f8254621a0b7f3f4f4e58dbf47/2021/11/19/e111dedd-8bb2-4944-af46-19babbfc10cb/berkshire-grey-robtotic-picking-general-merchandise-1000x842.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-for-the-win-during-ecommerce-crunch/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-for-the-win-during-ecommerce-crunch/",
-      "publishedDateTime": "2021-11-23T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning.md",
-      "title": "Apollo Tyres Goes All-In on AWS to Make Factories Smarter with IoT and Machine Learning",
-      "excerpt": "Amazon Web Services (AWS) announced that Apollo Tyres, India’s leading tyre manufacturer, is going all-in on AWS to digitally transform. By moving all of its IT infrastructure to",
-      "sourceUrl": null,
-      "webUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
-      "originalUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/orissadiary.com/wp-content/uploads/2021/11/Apollo-Tyres_AWS-2.jpg?fit=800%2C532&ssl=1",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
-      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
-      "publishedDateTime": "2021-11-23T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odisha Diary",
-        "domain": "orissadiary.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-an
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
 type: article
 quality: 125
-heat: 385
+heat: 387
 published: true
 
 provider:
@@ -299,7 +299,7 @@ related:
   - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
     publishedDateTime: 2021-12-01T18:34:00Z
-    webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
+    webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible-2/"
     type: article
     provider:
       name: Financial Buzz

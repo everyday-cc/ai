@@ -2,6 +2,169 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-11-23-new-deep-learning-method-adds-301-planets-to-keplers-total-count.md",
+      "title": "New deep learning method adds 301 planets to Kepler's total count",
+      "excerpt": "Scientists recently added a whopping 301 newly validated exoplanets to the total exoplanet tally. The throng of planets is the latest to join the 4,569 already validated planets orbiting a multitude of distant stars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpl.nasa.gov/news/new-deep-learning-method-adds-301-planets-to-keplers-total-count",
+      "originalUrl": "https://phys.org/news/2021-11-deep-method-planets-kepler-total.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-the-retail-robot-battle-continues.md",
+      "title": "The Retail Robot Battle Continues",
+      "excerpt": "In this second installment of a four-part series, Georges Mirza looks at the robots powering Schnucks and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.winsightgrocerybusiness.com/technology/retail-robot-battle-continues",
+      "originalUrl": "https://www.winsightgrocerybusiness.com/technology/retail-robot-battle-continues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.winsightmedia.com/platform/files/public/2021-11/background/400x600/Robotsshutterstock_0.jpg?VersionId=8789rnVJ8sKdSKhNKYay7TUlYg5eHrO.",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/technology/retail-robot-battle-continues",
+      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/retail-robot-battle-continues",
+      "publishedDateTime": "2021-11-22T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Winsight Grocery Business",
+        "domain": "winsightgrocerybusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-fighting-blood-diseases-with-artificial-intelligence.md",
+      "title": "Fighting blood diseases with artificial intelligence",
+      "excerpt": "Every day, cytologists around the world use optical microscopes to analyze and classify samples of bone marrow cells thousands of times. This method to diagnose blood diseases was established more than 150 years ago,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/fighting-blood-disease.jpg",
+          "width": 1300,
+          "height": 1300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-blood-diseases-artificial-intelligence.amp",
+      "publishedDateTime": "2021-11-22T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-acclaimed-digital-entertainment-leadership-forum-2021-returns-to-cyberport-on-10-12-december.md",
+      "title": "Acclaimed Digital Entertainment Leadership Forum 2021, Returns to Cyberport on 10-12 December",
+      "excerpt": "DELF will also present DE*SPARK, a month-long series of esports and gaming events, including RoboMaster 2021 Youth Tournament (Hong Kong) (Secondary School), AWS DeepRacer 500 Strong Training Day ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103230508/Acclaimed-Digital-Entertainment-Leadership-Forum-2021-Returns-to-Cyberport-on-10-12-December",
+      "originalUrl": "https://menafn.com/1103230508/Acclaimed-Digital-Entertainment-Leadership-Forum-2021-Returns-to-Cyberport-on-10-12-December",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-11/22/MOL_895976e4-0_Image_In_Body.jpeg",
+          "width": 318,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-paint-me-a-picture-nvidia-research-shows-gaugan-ai-art-demo-now-responds-to-words.md",
       "title": "‘Paint Me a Picture’: NVIDIA Research Shows GauGAN AI Art Demo Now Responds to Words",
       "excerpt": "A picture worth a thousand words now takes just three or four words to create, thanks to GauGAN2, the latest version of NVIDIA Research's wildly popular AI painting demo. The deep learning model behind GauGAN allows anyone to channel their imagination into photorealistic masterpieces - and it's easier than ever.",
@@ -915,177 +1078,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-abu-dhabis-g42-to-start-first-driverless-car-trials-in-mideast.md",
-      "title": "Abu Dhabi’s G42 to start first driverless car trials in Mideast",
-      "excerpt": "The company will start running a small number or vehicles in two years and plans to have 4,000 driverless Origin ... to healthcare G42 is as an artificial intelligence and cloud computing firm ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/abu-dhabis-g42-to-start-first-driverless-car-trials-in-mideast/",
-      "originalUrl": "https://gulfbusiness.com/abu-dhabis-g42-to-start-first-driverless-car-trials-in-mideast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2021/11/Abu-Dhabi-Skyline-1-1-1-768x512-1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-medtronic-and-ibm-launch-a-sweet-new-diabetes-app.md",
-      "title": "Medtronic and IBM Launch a Sweet New Diabetes App",
-      "excerpt": "The latest example of the industry embracing AI's capabilities for the millions of people living with diabetes is an app co-developed by Medtronic and IBM Watson Health dubbed the Sugar.IQ smart diabetes assistant. The app is designed to simplify and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/digital-health/medtronic-and-ibm-launch-sweet-new-diabetes-app",
-      "originalUrl": "https://www.mddionline.com/digital-health/medtronic-and-ibm-launch-sweet-new-diabetes-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/SugarIQ%20Insight%20Sample%20ScreenShot_0.png",
-          "width": 1125,
-          "height": 2001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform.md",
-      "title": "San Diego-based startup LifeVoxel raises $5 million seed funding for its AI diagnostic visualization platform",
-      "excerpt": "San Diego-based startup LifeVoxel has raised $5 million in a seed round to bolster data intelligence of its AI diagnostic visualization platform for faster and precise prognosis. The platform, dubbed Prescient,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/",
-      "originalUrl": "https://techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1294890276.jpg?w=1024",
-          "width": 1024,
-          "height": 481,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/22/san-diego-based-startup-lifevoxel-raises-5-million-seed-funding-for-its-ai-diagnostic-visualization-platform/amp/",
-      "publishedDateTime": "2021-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-stocks-to-buy-now.md",
-      "title": "Stocks to Buy Now",
-      "excerpt": "It even has an artificial intelligence engine called Koa that ... Nvidia has more employees working on driverless cars than Alphabet's Waymo, an actual driverless car project.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/tag/stocks-to-buy./",
-      "originalUrl": "https://moneymorning.com/tag/stocks-to-buy./",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

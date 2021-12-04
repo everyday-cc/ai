@@ -101,22 +101,6 @@ related:
         width: 362
         height: 250
         isCached: true
-  - title: "Artificial Intelligence in Energy Market Size Forecasted to Reach Valuation of USD 20.83 Billion by 2028"
-    excerpt: "The global Artificial Intelligence in energy market is expected to reach a valuation of USD 20.83 Billion in 2028, and register a revenue CAGR of 23.6% over the forecast period. The market revenue growth is attributed to growing need for obtaining operational efficiency to meet energy requirements."
-    publishedDateTime: 2021-11-29T20:08:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-in-energy-market-size-forecasted-to-reach-valuation-of-usd-20-83-billion-by-2028/"
-    ampWebUrl: "https://techbullion.com/artificial-intelligence-in-energy-market-size-forecasted-to-reach-valuation-of-usd-20-83-billion-by-2028/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-in-energy-market-size-forecasted-to-reach-valuation-of-usd-20-83-billion-by-2028/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 40
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/11/Artificial-Intelligence-in-Energy.jpg"
-        width: 700
-        height: 400
-        isCached: true
   - title: "Arizton Advisory & Intelligence: Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
     excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI) market report. The"
     publishedDateTime: 2021-12-01T15:30:00Z
@@ -127,6 +111,6 @@ related:
       domain: finanznachrichten.de
     quality: 14
 
-secured: "s08AHZxV0unpUfRlik4jQvu7xnhPO+RfYwX0h8eRqa2qLORJ3z3wK9MdheiTARodV/8fpmmGYIeW8tItCMn5upeTbQK5wZiA3YOUDJTndMBybq6D0TLVYZ+O+n9sf/uvrXbTveIS2KVhuJUdcDvr1/hn0yBoBTYj0/yHMxT5yV+s8COOJhjyiig+fI+xtwN+8PpUi1KbHztUUnUxm3Rq9/fKyRcmxd34XsrnVnyY9fYph/tji+/p51xVcVO6LbdVkHCznpIhfTeXSV7r7EooEsZokml1WyZNXl+Nt5kTMK6VhUEdeYkwJFoNriRjgzpiWrZs1cezXRqKjbF21IJBy7crT4Hwf2RT1F/1BjBsuW4=;3yKB4Kna8dUnngxi81YRlw=="
+secured: "mpJ0Hy9Og4mDTMMrKrwo44ipge/glA361sn65as3pf/2TlvwglghwE9FeUiha90SQgOG5R5VOTqfV+uyQuc5aWZUYJvky12BgSL3fb7CLBw2bXCwmfQy8WL2smVf1GgXjLrFANdHzi9HyQFnAZJaaFsFG+bGwIMndiQABc5xaASNDhap1OjNk+g4jJLmpKDNomgxiM4X9jZY31L5pjlnAwPswkQtNIkEBFv6HqJZ+HaClmFTIRYsPtwQE8EJgMEhySVJg5ilS4qP+hDNzvnMN8mNnLYz5cBQ82aRQqzg6saWhajL+K9gH3GTAoNwWhiJBEWjUBDoSWWKWKT2r+fGIcii0XznUKHVatwpn3g2bBqX57D0MEZet0k8mGkIp3d4fSh+j3QV7GTvCWqqhifufUecK8MAMsrH4xR7HA6h+XS+Re0GvPhGoYJEaRHvfFt62PQhZSBMTMVzokZzaDM1fQ1nTzfPhpvrtjUf1oV4W+2N8CRsKe9DdjyzblCWUMc8HYhX6VcqNZbq82wVtor+sw==;6AUM2m/ig24o5wnGJg26jg=="
 ---
 

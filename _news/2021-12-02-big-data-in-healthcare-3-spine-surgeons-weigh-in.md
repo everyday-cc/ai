@@ -97,20 +97,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "6 recent Big Tech partnerships in healthcare: Amazon, Google & more"
-    excerpt: "Six recent partnerships between healthcare organizations and Big Tech companies, including Amazon, Apple, Google and Microsoft: 1. Microsoft and telehealth provider Babylon are teaming up to use artificial intelligence and cloud computing to explore opportunities to increase their health IT offerings."
-    publishedDateTime: 2021-11-29T20:06:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/6-recent-big-tech-partnerships-in-healthcare-amazon-google-more.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "cOmtm4oOtyR7CRplRyzwGIOKBsflncKvuiibKCkbzXADg7tX8PbqfkU5pA2IxncpA8zGCSwKOT3pT7K4LFnKjIhO8wZu5ojYxjyoPJUfeQKkGqbsx0yqJzCOBAzhatm+X4e7dBQNo/22sXJDBsIZ3SVIs2x88JMGUCAGZ7zX8MR5+aAEDRLRvdAmkKrR2L+j8SM7m6xuWlMEZ53K/eJcaEW8BkdK+HM76yT55g8uQeK/6piZ6ELy/jka50W/3C7oXW1HEg8nd/nxfbWEAVDasr5lytbIF7AZVaxXtE6+4xT7xyzjvuO4Y2qHVHXJ8P/XD+NsW5aGS2QsNskmaYCVF14kbBoaQscm08y9eOMHKIc=;6QYujtCEnG11hiZinCXdYA=="
 ---

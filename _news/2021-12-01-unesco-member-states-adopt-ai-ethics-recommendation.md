@@ -51,15 +51,6 @@ related:
         width: 504
         height: 315
         isCached: true
-  - title: "UNESCO Member States Adopt Global Agreement on the Ethics of Artificial Intelligence"
-    excerpt: "The agreement aims to realize the advantages artificial intelligence brings to society, and to reduce the risks it entails."
-    publishedDateTime: 2021-11-29T20:42:00Z
-    webUrl: "https://cacm.acm.org/news/257093-unesco-member-states-adopt-global-agreement-on-the-ethics-of-artificial-intelligence/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 29
 
 secured: "24oWC5gYADOhh/ibNXBMk/IIw+eVQPA2fYdmfJV4E75ZgbSQE+R0XyZqjw0PNNTq8SWIyQYZ56OXBGa5tl4KFTr9bN4VXcrOR79PgKpgrLdr/G3iMB5LuONIu3+HUnJxwSGqorgPbPKdhFcdRlC/Cfwk5rlRbx4FpsG59OrXV4UMov+2OdRH+aoPqb4QmnNd6mn/iJMifdwtmh+Ehe1lJ73dyMqKYEuftIH5/0W7EL9O01TSWZ/wFY1yBr884XjalWSnKFh9re8GCS36ES1tPhPbIJRqZlX30oOWrxndZ/OFOVnLo1SrdrsbBPWX8h46h9RRHz1q0y5caUlpvXS1jI87Jfi2fDe7aSEDyFPinsc=;nDyguRL9fHvblzF6Qb+8XQ=="
 ---

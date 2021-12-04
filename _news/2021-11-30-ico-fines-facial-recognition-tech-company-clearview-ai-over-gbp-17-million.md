@@ -99,22 +99,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "US facial recognition firm faces £17m UK fine for ‘serious breaches’"
-    excerpt: "Clearview AI may have gathered data without people’s knowledge, says Information Commissioner’s Office"
-    publishedDateTime: 2021-11-29T19:36:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/nov/29/us-facial-recognition-firm-faces-17m-uk-fine-for-serious-breaches-clearview-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/nov/29/us-facial-recognition-firm-faces-17m-uk-fine-for-serious-breaches-clearview-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/nov/29/us-facial-recognition-firm-faces-17m-uk-fine-for-serious-breaches-clearview-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/a5282f111d9a4e58d9d8c99b558ab2c7341a2ce3/0_192_5760_3456/master/5760.jpg?width=620&quality=85&auto=format&fit=max&s=f4a4ed7b12fe9200f658b3587f2ec57d"
-        width: 620
-        height: 372
-        isCached: true
   - title: "R.I. Labor Dept., ACLU Collide Over Facial Recognition"
     excerpt: "(TNS) — The Rhode Island Department of Labor and Training has no plans to use facial-recognition technology in any of its programs. The department's director, Matthew Weldon, made that statement Tuesday after civil-liberties advocates raised questions ..."
     publishedDateTime: 2021-12-01T22:24:00Z

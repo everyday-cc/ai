@@ -2,9 +2,9 @@
 category: news
 title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
 excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
-publishedDateTime: 2021-12-01T09:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
-webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+publishedDateTime: 2021-12-01T14:00:00Z
+originalUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
 type: article
 quality: 61
 heat: -1
@@ -178,6 +178,6 @@ related:
         height: 600
         isCached: true
 
-secured: "4QeaowSUkd+sHd9QmaUGaGnkjTxJy6QusAo8gWUzBsrs56hejyJoo6CN/CP/rhzAnu8EUqocKeBirVpaYPYdgrucM6YwKKhCBakoN6KxfV7XmHyE6bKyiGo2xE5/NTy3URfGoWNK8X6TmlR0qJvklmYu75Ljx0PzgG1MAYER4he1M2n6NNjI2STKqP35MKmirE8rq0Jj9pwsDdFF38KLzOs3pCNAzaS4BEh0WcEkFB21AomieW0H97IBJi2tqJ05QnKlGgbpVhqKycjFDWUFqUsjOcGDuVuxJ9y3PgPbJe/wgYDUfAJMqbx4ErRIMR8bw91ybij3LQqezmxOOAVA7N/ldX8v9uxxftcCzzH1/JA=;Y7aBNZfSTG5trklAbC4TsQ=="
+secured: "BF55RUAr/JvaabLOosZMxQsyXKXrjB99Odkpv4vr3VE8qxNPatG90Bw7K43LTtLDOEAqxJuQCLgVseVWmHq0LnH/c2ubTsoeu7E7I11j1M5DTpsqGhdrsttswLcf/w6KqXl6RowTx+9PrqgCXlSXaLKY+mymdI10a/ZG/uAaeGBsYHefVLhmtd9mqDtAaeldLCsj9W/O+wjP+bFuLkiUi68pdV8eKGf53+HoSgADv+EeHUF0K+iATbKwxgKK7oBvykgoVVcjaCzOdOoMm5wsnkCKCS7CxHC2D2YM0y1IcvtWrKUHgMuYA5gWSv/pleTW8S3SqG7SromN87sEwih02iOMBqtMOWXThZPQ/qNbH+A=;ytZ+RWYsAljhAXOs3FXifw=="
 ---
 

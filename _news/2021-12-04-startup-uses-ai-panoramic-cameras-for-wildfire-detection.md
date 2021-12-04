@@ -72,17 +72,6 @@ related:
         width: 1678
         height: 943
         isCached: true
-  - title: "Xero Reaches Milestone In AI Strategy Incorporating Machine Learning-powered Predictions For Bank Reconciliation"
-    excerpt: "Xero, the global small business platform, today announced a significant milestone in its AI strategy with the roll-out of new bank reconciliation predictions. The predictions feature brings a new application of AI into the Xero platform,"
-    publishedDateTime: 2021-11-29T19:31:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00796/xero-reaches-milestone-in-ai-strategy-incorporating-machine-learning-powered-predictions-for-bank-reconciliation.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 50
   - title: "Using AI for accurately predicting synergistic cancer drug combinations"
     excerpt: "A research team led by a scholar from City University of Hong Kong (CityU) has recently developed a novel artificial intelligence (AI) framework that can make synergistic anti-cancer drug combination predictions on both the therapeutic and toxic effects."
     publishedDateTime: 2021-12-01T15:31:00Z

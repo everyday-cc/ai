@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
 type: article
 quality: 99
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14cf9789-78fa-445f-900a-c626ed5f5af7.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-        isCached: true
-  - title: "3 Ways AI and Machine Learning Can Transform Public Agencies"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2021-11-29T20:00:00Z
-    webUrl: "https://www.computerworld.com/resources/227974/3-ways-ai-and-machine-learning-can-transform-public-agencies"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 54
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
         isCached: true
   - title: "Deep Learning Market Technological Advancements, Evolving Industry Trends and Insights"
     excerpt: "Deep learning algorithms are being increasingly used in contact centers as the adoption of these algorithms help them in improving the first call resolution process reducing call durations curtailing total call volume and enhancing customer satisfaction thereby increasing their business"

@@ -52,15 +52,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 54
-  - title: "UNESCO Member States Adopt Global Agreement on the Ethics of Artificial Intelligence"
-    excerpt: "The agreement aims to realize the advantages artificial intelligence brings to society, and to reduce the risks it entails."
-    publishedDateTime: 2021-11-29T20:42:00Z
-    webUrl: "https://cacm.acm.org/news/257093-unesco-member-states-adopt-global-agreement-on-the-ethics-of-artificial-intelligence/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 29
 
 secured: "Sr57KTcbJnnOHmO7SI1Oh0bFIyd5e6xQthgiZAAOfzCrgqEIL04KZIYFhTILppAfpfKzMmSU3RezTl00WTkbmFQBEO37HFGuckocb/sY+Aa30s1hc3bcjSFlf4jzq3VFXQWisgezt61j/ajVSLrxtdahuvIuzv3bjwWNds1UBipOgSwCwgFNL/Q/dtJ6Mo1I8Sp2pYAhzSCc3xKoepgroHoV0ZK8RjqsGELzP+mxQB6OTRs+hWcCKT0fsjj0TcuZPGU3+9FAbfzNZBu3v9rP+rKBMK51h3HpXeo0fzzh94ik7VOLtplyVkrmEv2YHcfP6HtEfbSBzCEn34sGgofgjZIe9U5wqmZmxo2qsAFShD0iooHaBeRy+vBMgD8100FGq2XEfjZzZ054qBlalnPy3oBQXkW6BTPYtSEuJBu+2r7PcFg471+jaGh5HEdVR3cEojVp0ASHZTD08WeJ7I2/4nsgikBJTyQoAyMKbP/4AukWyI4z7RY29Mnl6/0cpgD4X9f1nyngPaydP4QWlRDRIg==;q3LrsT99FdAyGhdBeLcSWA=="
 ---

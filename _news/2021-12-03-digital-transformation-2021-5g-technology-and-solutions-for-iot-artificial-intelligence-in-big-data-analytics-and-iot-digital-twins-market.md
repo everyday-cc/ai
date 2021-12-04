@@ -59,6 +59,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone"
+    excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone — regardless of skill level and expertise — to ask data questions in plain language and instantly receive the answer in Yellowfin."
+    publishedDateTime: 2021-12-03T14:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-australia-1af6996d1dba4ef797f6d679a2f7a0d3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "S&P Global Market Intelligence launches Artificial Intelligence-enabled Document Analytics functionality on S&P Capital IQ Pro platform"
     excerpt: "S&P Global Market Intelligence has launched an Artificial Intelligence-enabled (AI) workflow tool on S&P Capital IQ Pro that enables users to search across and extract relevant insights quickly and efficiently from textual content."
     publishedDateTime: 2021-11-30T17:19:00Z
@@ -73,15 +87,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone"
-    excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone - regardless of skill level and expertise - to ask data questions in plain language and instantly receive the answer in Yellowfin."
-    publishedDateTime: 2021-12-03T14:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-yellowf-launches-guided-natural-language-query-making-true-/2021/12/03/9504439.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "zFCrhBVLohCGEKDIArp9D6YBHY8a9bsrUgkRdXPeHPXM7i/Lumy2ZCnRT1MYOHYdcRS44UmheQLHkgDRbNi/QDXDmBuwu+i2TQE66zJqWp2tK3EJsuDoJC2vHtB6Fa8DHTwGNhRmX8+Ee0iYHG7OduEg0I/GSWSpEtNaEW7HPqyvW8u3IcpKC2RMPmzduMz5OH9gnfsx8EQDPhTAbmviDxiLvGQQHPIz6mdLLd2fSzRwqpVsglDMAXiehQx2d0jHo+Mrb6Q3+UsjdINK9oupsygucwKgtYhdlqoaiQA2iP6zgPfxDjusND+ys7Y3hwzlV8bKJsZfRGl72gNQcWZN6OvUbvF8MC+LIk4U1A5UQo0e+M//lalcz/8rN+F2flhzumcHwKTRqmL+Xa8TJJK76vC3uSQG8XuO6fuOWX596d+KbMc+QSQOU6KXj8LwFpo3X71dkEYdKlWxX5nGhwAJv4qyXZIeVPDX9NC055Q53ENHdo55LCaxZJWge9xlGQ0I5UOc12F5zhZlsI/knUMlKQ==;UHzM8hcmxFLhraILXTdu+A=="
 ---

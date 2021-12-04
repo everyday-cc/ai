@@ -481,10 +481,10 @@
     {
       "path": "_news/2021-11-24-future-of-literary-translation-addressed-during-korea-times-award-ceremony.md",
       "title": "Future of literary translation addressed during Korea Times award ceremony",
-      "excerpt": "Participants in the 52nd Modern Korean Literature Translation Awards pose during a ceremony at the Lotte Hotel in central Seoul, Wednesday. From left are Korea Times President-Publisher Oh Young-jin;",
+      "excerpt": "\"In terms of translation accuracy, AI may be better than humans. But languages are complex and nuanced, and there are extra-linguistic factors such as context or emotional output that need to be taken into consideration. There's creative aspects of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl",
-      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl",
+      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw",
+      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -503,7 +503,7 @@
       "type": "article",
       "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395",
       "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395",
-      "publishedDateTime": "2021-11-23T23:45:00-08:00",
+      "publishedDateTime": "2021-11-23T23:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "koreatimes.co.kr",
@@ -683,6 +683,75 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-promethium-announces-issuance-of-a-us-patent-for-natural-language-processing-technology.md",
+      "title": "Promethium Announces Issuance of a U.S. Patent for Natural Language Processing Technology",
+      "excerpt": "Augmented data management and analytics innovator Promethium today announced that the U.S. Patent and Trademark Office has issued a new patent No.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/promethium-announces-issuance-of-a-u-s-patent-for-natural-language-processing-technology/article_cf41f5ee-5358-5af2-a44c-0b87e5c97b24.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/promethium-announces-issuance-of-a-u-s-patent-for-natural-language-processing-technology/article_cf41f5ee-5358-5af2-a44c-0b87e5c97b24.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-healthcare-triangle-hcti-selected-by-monument-health-to-automate-document-processing.md",
+      "title": "Healthcare Triangle (HCTI) Selected By Monument Health to Automate Document Processing",
+      "excerpt": "Healthcare Triangle, Inc. (HCTI) to provide Monument Health with critical support to unlock the data in the documents and gain a comprehensive view of patients&CloseCurlyQuote; medical history PLEASANTON,",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/11/23/healthcare-triangle-hcti-selected-by-monument-health-to-automate-document",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/11/23/healthcare-triangle-hcti-selected-by-monument-health-to-automate-document",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1323,101 +1392,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-unlocking-the-power-of-speech-recognition.md",
-      "title": "Unlocking The Power Of Speech Recognition",
-      "excerpt": "Speech recognition software isn’t simply about asking your digital assistant for a weather forecast or to play your favorite soundtrack. It is a vital tool for business, ensuring relevance and competitiveness in the future business landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192654873177e8882f0f689%2F0x0.jpg",
-          "width": 1200,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/16/unlocking-the-power-of-speech-recognition/amp/",
-      "publishedDateTime": "2021-11-16T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-in-the-mena-region.md",
-      "title": "Amethis completes a minority investment in Tarjama, the leading language technology & services firm in the MENA region",
-      "excerpt": "Amethis, through its newly launched fund, Amethis MENA Fund II (AMF2), has completed its second transaction, acquiring a",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/n24114911/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-i",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/n24114911/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24114911",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24114911",
-      "publishedDateTime": "2021-11-15T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

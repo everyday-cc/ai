@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2021/univ-of-washington-deep-learning-resea
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch/amp/"
 type: article
 quality: 82
-heat: 113
+heat: 112
 published: true
 
 provider:

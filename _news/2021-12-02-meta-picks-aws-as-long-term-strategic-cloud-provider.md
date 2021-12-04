@@ -19,107 +19,52 @@ topics:
   - AI
 
 related:
-  - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
-    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, (NASDAQ: AMZN), announced that American International"
-    publishedDateTime: 2021-11-30T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aig-selects-aws-as-its-preferred-public-cloud-provider-2021-11-30"
+  - title: "AWS pitches robotics as the next big thing"
+    excerpt: "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations"
+    publishedDateTime: 2021-11-30T14:55:00Z
+    webUrl: "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
+      name: ITWire
+      domain: itwire.com
+    quality: 71
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://itwire.com/media/k2/items/cache/7aaca86652042fcb618061ebd565670c_M.jpg"
+        width: 375
+        height: 213
         isCached: true
-  - title: "AWS Named United Airlines' Preferred Cloud Provider"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced that United Airlines has selected AWS as its preferred cloud provider. AWS will support United's digital innovation, providing machine learning,"
-    publishedDateTime: 2021-11-30T14:36:00Z
-    webUrl: "https://www.lelezard.com/en/news-20132061.html"
+  - title: "AWS Introduces A New Platform For Developing Robotics Applications"
+    excerpt: "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together."
+    publishedDateTime: 2021-12-02T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 54
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
-        width: 640
-        height: 480
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon-1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "AWS Announces AWS IoT FleetWise"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS IoT FleetWise, a new service that makes it easier and more cost-effective for automakers to collect,"
-    publishedDateTime: 2021-11-30T17:37:00Z
-    webUrl: "https://www.register-herald.com/region/aws-announces-aws-iot-fleetwise/article_92d3edfc-e376-5c27-bb15-49f5a44583cd.html"
+  - title: "AWS Supports Roche in Harnessing the Power of Health Data at Scale"
+    excerpt: "(NASDAQ: AMZN), announced that the Roche Group (SIX: RO, ROG; OTCQX: RHHBY) is using AWS for the majority of its cloud workloads to help Roche extract greater value from its health data. The company uses AWS capabilities in high performance computing,"
+    publishedDateTime: 2021-11-30T16:55:00Z
+    webUrl: "https://www.healthcaredive.com/press-release/20211130-aws-supports-roche-in-harnessing-the-power-of-health-data-at-scale/"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
+      name: Healthcare Dive
+      domain: healthcaredive.com
     quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
-        width: 320
-        height: 300
+      - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1638259608/press_release/assets/company_logos/AWS_logo_RGB_fyojsl.png"
+        width: 400
+        height: 400
         isCached: true
-  - title: "AWS Announces AWS IoT TwinMaker"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS IoT TwinMaker, a new service that makes it faster and easier for developers to create digital twins of real-world systems like buildings,"
-    publishedDateTime: 2021-11-30T17:38:00Z
-    webUrl: "https://www.eagletribune.com/region/aws-announces-aws-iot-twinmaker/article_daf87a52-cb4e-57ab-a868-dff09aacecd1.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 39
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
-    excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
-    publishedDateTime: 2021-12-01T08:50:00Z
-    webUrl: "https://www.financialbuzz.com/aig-selects-aws-as-its-preferred-public-cloud-provider/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 34
-  - title: "AWS Named United Airlines Preferred Cloud Provider"
-    excerpt: "(NASDAQ: AMZN), announced that United Airlines (NASDAQ: UAL) has selected AWS as its preferred cloud provider. AWS will support United’s digital innovation, providing machine learning, Internet of Things (IoT),"
-    publishedDateTime: 2021-12-01T08:49:00Z
-    webUrl: "https://www.financialbuzz.com/aws-named-united-airlines-preferred-cloud-provider/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 34
-  - title: "Meta/Facebook turns to AWS as \"long-term strategic cloud provider\" for acquisitions, third-party collaborations, and AI"
-    excerpt: "Meta said that it will run third-party collaborations in AWS and use the cloud to support acquisitions of companies that are already powered by AWS. It will also use AWS’s compu"
-    publishedDateTime: 2021-12-03T11:41:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-turns-to-aws-as-long-term-strategic-cloud-provider-for-acquisitions-third-party-collaborations-and-ai/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 34
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Mark_Zuckerberg_Gets_Meta.2e16d0ba.fill-1200x630.png"
-        width: 730
-        height: 383
-        isCached: true
-  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-    excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS's proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-01T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-meta-selects-aws-as-key-long-term-strategic-/2021/12/01/9502660.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
-    publishedDateTime: 2021-12-01T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
+  - title: "AWS Supports Roche in Harnessing the Power of Health Data at Scale"
+    excerpt: "Roche uses AWS cloud capabilities to facilitate research collaboration, deliver new diagnostic technologies, and unlock insights from health data."
+    publishedDateTime: 2021-11-30T09:01:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211129005490/en/AWS-Supports-Roche-in-Harnessing-the-Power-of-Health-Data-at-Scale"
     type: article
     provider:
       name: Business Wire

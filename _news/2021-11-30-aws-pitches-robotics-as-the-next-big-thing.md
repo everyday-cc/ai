@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thin
 webUrl: "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
+    quality: 19
+  - title: "Meta picks AWS as long-term strategic cloud provider"
+    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-02T07:52:00Z
+    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 19
 
 secured: "C7QVlBqyg0I30i8were4igVsqQcma6IkzVvwn+uWceUhdNKRlzZN3KBKODrqDwzyOSu50wHXpEKe+lL49OJzKQdEBPdKLEobG6Zf0nw8fam7EFgMWNXkM1hpl5mEnnykVJNnlWXTCpkIFjGwd+VgS4s6y21OVAVtu669AUdWlJul/6QB2QtKmqB3dvjr+dRWcNiCOBZx3eQbDhXlYAkVlZAGMUmQCP0JUZ/+Nd0x1jScYI0BghJt9b/VTKOQ7vIPvKIqVkqEN6ycC+occ3rb8Ut875ofuyok8JypeTgi0aPPpX/d8Z1NWLsMS+7OkB76lC44Nanl2P4Tt8JQopz8S9ePf2ys5VLgWay0VCBdp0w=;+rAM7tyidaL2VDTcrScuDQ=="

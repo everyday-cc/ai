@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bd/opinion/columnists/2021-11-30-
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/opinion/columnists/2021-11-30-kate-thompson-davy-unescos-global-standard-on-ai-ethics-provides-smart-blueprint-for-laws/"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 54
-  - title: "UNESCO Member States Adopt Global Agreement on the Ethics of Artificial Intelligence"
-    excerpt: "The agreement aims to realize the advantages artificial intelligence brings to society, and to reduce the risks it entails."
-    publishedDateTime: 2021-11-29T20:42:00Z
-    webUrl: "https://cacm.acm.org/news/257093-unesco-member-states-adopt-global-agreement-on-the-ethics-of-artificial-intelligence/fulltext"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 29
 
 secured: "VBzmDLn0JWDw++O2snAR5/0ATRYcilCbuYaNbMAETHgzBwu1W8hsFsYe/AoCvBOERMK/VKcmwIQFZxJP5q0yFdiHS4Cs5AGHOdLJTCUh/7bv1vI3Ah89WK8NZAWSaToA5AsVwSCV7IzgorlpmGZzpvxsPc+ZDLdR8kT1xcflCO1xWfmBX8lJfar5fy+7Rn4JHHDJRE8oR69NZdmM5KSfGjQEykdbqjfqsC6wfDwhqTfo9e+vyDDwy+OeJezd97y1sNFkJTZfSeSXvQgehRY3shs7pH3lMfzCfETE8c22zQU0u8LtzrHx3HwPLqcL1tCAU2snGIFvMQVmskK5n+ORrjYkvfatIqspG2FGIvRHMQ/9nWluwOt9zkzOJUY7OMI3pQDp+VXFIT1NLVgyUc8rFMnI3oVIq2csKt1exJHwe1hNIUlAtlQn7Z2TcfNqsWRsBWyIjxebJW6oAWrRIRzkyFrbO0GIyJcUbL7xgi3Jduq/aCIcSjJ/3d9A+OvcVE3IXqdnoJUcEtWNpt/AoA332Q==;SDp3o+zvWeBQGLaheS7ASQ=="
 ---

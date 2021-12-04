@@ -103,20 +103,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "3 Ways AI and Machine Learning Can Transform Public Agencies"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2021-11-29T20:00:00Z
-    webUrl: "https://www.computerworld.com/resources/227974/3-ways-ai-and-machine-learning-can-transform-public-agencies"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 54
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Deep Learning Market Technological Advancements, Evolving Industry Trends and Insights"
     excerpt: "Deep learning algorithms are being increasingly used in contact centers as the adoption of these algorithms help them in improving the first call resolution process reducing call durations curtailing total call volume and enhancing customer satisfaction thereby increasing their business"
     publishedDateTime: 2021-11-30T13:23:00Z

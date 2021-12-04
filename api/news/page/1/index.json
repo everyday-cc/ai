@@ -46,21 +46,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-04-artificial-intelligence-is-all-the-rage-what-you-need-to-know.md",
-      "title": "Artificial Intelligence Is All the Rage. What You Need to Know.",
-      "excerpt": "UBS calls artificial intelligence a top investment theme for the coming decade. But Eric Schmidt, who used to run Google, warns that investing in AI isn’t so easy.",
+      "path": "_news/2021-12-04-how-to-turn-ai-failure-into-ai-success.md",
+      "title": "How to turn AI failure into AI success",
+      "excerpt": "Enterprises are racing into AI-driven analytics and processes, but there will be a steep learning curve before certain advances are made.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/ai-stocks-investing-artificial-intelligence-51638579011",
-      "originalUrl": "https://www.barrons.com/articles/ai-stocks-investing-artificial-intelligence-51638579011",
+      "webUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/",
+      "originalUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://images.barrons.com/im-446312/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/data-e1619691430527.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -68,14 +68,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/ai-stocks-investing-artificial-intelligence-51638579011",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-stocks-investing-artificial-intelligence-51638579011",
-      "publishedDateTime": "2021-12-03T21:50:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/",
+      "publishedDateTime": "2021-12-03T15:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -147,7 +156,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 387,
       "tags": null,
       "images": [
         {
@@ -306,7 +315,7 @@
       "originalUrl": "https://www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -349,7 +358,7 @@
       "originalUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 254,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -547,7 +556,7 @@
       "originalUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -729,7 +738,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?time=1638532201",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -987,7 +996,7 @@
       "originalUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {

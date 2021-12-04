@@ -101,20 +101,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "3 Ways AI and Machine Learning Can Transform Public Agencies"
-    excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-    publishedDateTime: 2021-11-29T20:00:00Z
-    webUrl: "https://www.computerworld.com/resources/227974/3-ways-ai-and-machine-learning-can-transform-public-agencies"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 54
-    images:
-      - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "How AI and Automation Are Transforming Legal Teams for the Better"
     excerpt: "How can legal firms benefit by transitioning away from traditional contract management processes and adopting AI and automation?"
     publishedDateTime: 2021-12-01T15:31:00Z

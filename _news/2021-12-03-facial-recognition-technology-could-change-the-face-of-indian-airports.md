@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-t
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html"
 type: article
 quality: 74
-heat: 254
+heat: 256
 published: true
 
 provider:

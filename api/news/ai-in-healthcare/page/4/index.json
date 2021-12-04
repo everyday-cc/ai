@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-12-mount-sinai-health-system-unveils-new-department-devoted-to-developing-artificial-intelligence.md",
+      "title": "Mount Sinai Health System unveils new department devoted to developing artificial intelligence",
+      "excerpt": "Now, one of of the nation's top hospital systems has launched a new department focused on artificial intelligence, which it says is the first ever within a U.S. medical school. On Monday, the Mount Sinai Health System,",
+      "sourceUrl": null,
+      "webUrl": "https://vator.tv/news/2021-10-11-mount-sinai-health-system-unveils-new-department-devoted-to-developing-artificial-intelligence",
+      "originalUrl": "https://vator.tv/news/2021-10-11-mount-sinai-health-system-unveils-new-department-devoted-to-developing-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://vatortv.s3.amazonaws.com/images/videos/main/21305.jpg",
+          "width": 320,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vator",
+        "domain": "vator.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud.md",
       "title": "An artificial intelligence ecosystem isn't necessarily all cloud",
       "excerpt": "A call for greater enterprise architecture in building AI ecosystems, leveraging both cloud and on-premises systems.",
@@ -1332,50 +1375,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-opinion-how-artificial-intelligence-could-save-your-life.md",
-      "title": "Opinion: How artificial intelligence could save your life",
-      "excerpt": "Machine intelligence implies serious consequences for human life, with mass unemployment being just one example. And yet, the transformative power of AI might actually save people’s lives. AI aims to simulate the human mind’s ability to learn,",
-      "sourceUrl": null,
-      "webUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life",
-      "originalUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.prod.postmedia.digital/montrealgazette/wp-content/uploads/2021/09/afp_1qa2a5.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/",
-      "cdnAmpWebUrl": "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/",
-      "publishedDateTime": "2021-09-23T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Montreal News",
-        "domain": "montrealgazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

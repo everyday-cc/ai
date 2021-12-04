@@ -64,17 +64,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AWS rolls out Graviton2-powered EC2 instances for GPU-based workloads"
-    excerpt: "Amazon Web Services on Monday said it's bringing a new set of EC2 instances into general availability, including Graviton2-based instances designed for GPU-based workloads. Along with Amazon's custom-designed Graviton2 chip,"
-    publishedDateTime: 2021-11-29T19:06:00Z
-    webUrl: "https://www.zdnet.com/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-rolls-out-graviton2-powered-ec2-instances-for-gpu-based-workloads/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
   - title: "AWS unveils new Graviton and machine learning chips at re:Invent"
     excerpt: "Invent gets underway once again, AWS has kicked things off with its next-gen Graviton processor and a new Trainium AI chip."
     publishedDateTime: 2021-12-01T12:28:00Z
