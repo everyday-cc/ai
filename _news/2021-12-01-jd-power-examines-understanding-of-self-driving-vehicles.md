@@ -25,21 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "The 6 terms you need to know to understand self-driving cars"
-    excerpt: "Level-up your knowledge of the spectrum of driver-assistance features on the road, from consumer vehicles to self-driving taxis."
-    publishedDateTime: 2021-11-29T20:00:00Z
-    webUrl: "https://www.popsci.com/technology/autonomous-vehicles-explained/"
-    ampWebUrl: "https://www.popsci.com/technology/autonomous-vehicles-explained/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/autonomous-vehicles-explained/?amp"
+  - title: "New AI method makes self-driving vehicles better drivers"
+    excerpt: "In traffic, humans are used to constantly anticipating what will happen next. This reasoning ability is something that today's self-driving vehicles and AI systems in general are lacking. In a recent study,"
+    publishedDateTime: 2021-12-02T14:28:00Z
+    webUrl: "https://techxplore.com/news/2021-12-ai-method-self-driving-vehicles-drivers.html"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 44
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 39
     images:
-      - url: "https://www.popsci.com/uploads/2021/11/29/bram-van-oost-_K8D5vzEqIo-unsplash.jpg?auto=webp"
-        width: 1920
-        height: 1280
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-method-makes-se.jpg"
+        width: 2522
+        height: 1545
+        isCached: true
+  - title: "San Francisco opposes self driving company for unlawful behavior"
+    excerpt: "San Francisco Municipal Transportation Agency (SFMTA) opposes showing how Self-driving vehicles are showing unlawful behavior."
+    publishedDateTime: 2021-12-03T03:17:00Z
+    webUrl: "https://techstory.in/san-francisco-opposes-self-driving-company-for-unlawful-behavior/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/12/Cruise-car-in-Hayes-Valley-San-Francisco-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Superior self-driving system developed with ‘common sense’ AI"
+    excerpt: "Researchers believe they have developed a superior self-driving system that combines modern neural learning with “common-sense reasoning” to overcome some of the pitfalls of current autonomous systems."
+    publishedDateTime: 2021-12-03T16:55:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/12/superior-self-driving-system-developed-with-common-sense-ai/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/11434/dreamstime_l_140582302.jpg?crop=0,0.36458333333333337,0,0.1432291666666666&cropmode=percentage&width=1200&height=450&rnd=132350717730000000"
+        width: 1200
+        height: 450
         isCached: true
   - title: "Self-Driving Vehicles Appeal to Drivers, But They Don’t Know What it Entails"
     excerpt: "Drivers don’t know much about self-driving vehicles, but that isn’t stopping the technology’s growing acceptance. TheDetroitBureu.com digs through the numbers."
@@ -69,6 +95,24 @@ related:
         width: 533
         height: 300
         isCached: true
+  - title: "J.D. Power Study on Fully Automated Self-Driving Vehicles: Consumers Don't Know What They Don't Know"
+    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
+    publishedDateTime: 2021-11-30T13:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-jd-power-study-fully-automated-self-driving-vehicles-/2021/11/30/9501254.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "J.D. Power study: consumers possess inaccurate knowledge of fully automated self-driving vehicles"
+    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
+    publishedDateTime: 2021-12-01T11:41:00Z
+    webUrl: "https://www.greencarcongress.com/2021/12/20211201-jdp.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 0
 
 secured: "ZgzVKH4gYgfsWqNPhOcANcAEB8Ws0XG00kWFRzI9iQgO0OXP+wE2KdzE0X0KSZ/UyKFxCNoIA4v8+T47xw52SZ1PJ4FbYxsvFVBwCD2gZDYzPrN5NVPUlW5Yuy3ivFCqRIboZfn5mkvNgbR7HgQO5VFvR7joUlGRhIV33dgAVUv+2Bw9luAU8qpPyajsmBch44Z23ikbJNnObI7BJuLuuNphsPNZkcj3En81IoKKk8AWuGRYiLcuHYAMOvdAhxntqNbdILurhjug3c5WHsbypo1goHxXp2T0e4XD2TMsysrmQXkdqPjC0lLBZTrwuq2D2Xv3ri38bPZFPKlYaP9fA7E4fC0VtVPZeXfR2ahjNih5lwLVvZPN2Ya6j21MA/azcBGMaZv9qFk9qKznFj4TLUj4d+iS1EXB7Q8yuH9Z1QNt7nUjvIpPIg9+wI/gUAn/S0zNK8x+j2Gz1a6xRCOm2k6xDv+WCb38ZorGOgB1RTAzWkRzx2xwMyuuJYCdl8UM7R/fSyjyN075djpGDtV5fg==;t9Z1U6Bb5dMRwyE2zNoOLg=="
 ---

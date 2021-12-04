@@ -42,22 +42,6 @@ related:
         width: 1000
         height: 579
         isCached: true
-  - title: "7 Proven Ways to Scale AI Projects and Speed Up AI Implementation In Your Organization"
-    excerpt: "According to an Accenture report, 75% of C-Suite executives think that their business will go out of business within"
-    publishedDateTime: 2021-11-30T17:30:00Z
-    webUrl: "https://www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112"
-    ampWebUrl: "https://www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 49
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/11/artificial_intelligence_machine_learning_network_thinkstock_671750598-100724432-large.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Agnisys Announces Availability of AI-Based Approach for Specification of Assertions and FPGA Support"
     excerpt: "Agnisys, Inc.®, the leading EDA provider of the industry's most comprehensive solution for Design and Verification of SoC Hardware/Software Interface (HSI), today announced availability of a unique AI-based approach for specification of assertions and a new product to support FPGA development."
     publishedDateTime: 2021-12-02T13:45:00Z

@@ -19,49 +19,65 @@ topics:
   - AI
 
 related:
-  - title: "Using artificial intelligence to advance energy technologies"
-    excerpt: "Hongliang Xin, an associate professor of chemical engineering in the College of Engineering, and his collaborators have devised a new artificial intelligence framework that can accelerate discovery of materials for important technologies,"
-    publishedDateTime: 2021-11-30T16:42:00Z
-    webUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.html"
-    ampWebUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.amp"
+  - title: "Maths researchers hail breakthrough in applications of artificial intelligence"
+    excerpt: "For the first time, computer scientists and mathematicians have used artificial intelligence to help prove or suggest new mathematical theorems in the complex fields of knot theory and representation theory."
+    publishedDateTime: 2021-12-01T16:00:00Z
+    webUrl: "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.html"
+    ampWebUrl: "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.amp"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
+      name: Phys.org
+      domain: phys.org
+    quality: 102
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/68-artificialin.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/maths-researchers-hail-1.jpg"
+        width: 2880
+        height: 1920
         isCached: true
-  - title: "Artificial intelligence to advance energy technologies"
-    excerpt: "Titled “Infusing theory into deep learning for interpretable reactivity prediction,” their paper in the journal Nature Communications details a new approach called TinNet — short for theory-infused neural network — that combines machine-learning algorithms and theories for identifying new catalysts."
-    publishedDateTime: 2021-11-30T16:16:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/936393"
+  - title: "DeepMind’s AI helps untangle the mathematics of knots"
+    excerpt: "Researchers at AI powerhouse DeepMind, based in London, teamed up with mathematicians to tackle two separate problems — one in the theory of knots and the other in the study of symmetries. In both cases,"
+    publishedDateTime: 2021-12-01T17:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-03593-1"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
+      name: Nature
+      domain: nature.com
+    quality: 86
     images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/64c1c260-e375-4d60-b4ce-0d1ad3f692ba/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 239
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-03593-1/d41586-021-03593-1_19914642.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Artificial Intelligence and Networks Advanced Naval Technology Exercise"
-    excerpt: "BigBear.ai announced on Wednesday that the company placed first in the Artificial Intelligence and Networks Advanced Naval Technology Exercise (“AINetANTX”) Artificial Intelligence (“AI”) Prize Challenge hosted by the Naval Information Warfare Systems Command ExecutiveGov,"
-    publishedDateTime: 2021-12-01T21:37:00Z
-    webUrl: "https://www.executivegov.com/tag/artificial-intelligence-and-networks-advanced-naval-technology-exercise/"
+  - title: "DeepMind AI collaborates with humans on two mathematical breakthroughs"
+    excerpt: "Humans and AI working together can reveal new areas of mathematics where data sets are too large to be comprehended by mathematicians"
+    publishedDateTime: 2021-12-01T16:00:00Z
+    webUrl: "https://www.newscientist.com/article/2299564-deepmind-ai-collaborates-with-humans-on-two-mathematical-breakthroughs/"
+    ampWebUrl: "https://www.newscientist.com/article/2299564-deepmind-ai-collaborates-with-humans-on-two-mathematical-breakthroughs/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2299564-deepmind-ai-collaborates-with-humans-on-two-mathematical-breakthroughs/amp/"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/12/01145204/PRI_212914641.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI applications progress in musculoskeletal applications"
+    excerpt: "Artificial intelligence (AI) algorithms are demonstrating utility in a number of important musculoskeletal imaging applications, according to a hot topic session held Tuesday at RSNA 2021 in Chicago."
+    publishedDateTime: 2021-12-01T16:44:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=134400"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
     quality: 37
     images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/12/01/3f/d2/ef/eb/26/63/c0/94/00P4y000019l9SKEAY-480x384.png"
-        width: 480
-        height: 384
+      - url: "https://www.auntminnie.com/user/images/content_images/radcastredirect/2021_11_28_21_10_5678_RSNA_2021_AI_social.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "TFuaVcbShyYecMSD+Yhu70isGRjWvFR9cPrauo82GwfIxU6NLRkiKU8SDiIU15AINEAoPNn9mQQtJFN2H3dmxK2NLtFl/M9YRnYHVnJ8rpzQD8BzcMvFJox1D+M5skXSzMDHx7TEG/C0F2r5T375o+5jeLvP3bXvjun/8F8y8+LeHyGr/w10D9fkqcerOoEFkBj8PAqHnFzte1tXrSwZbEaRHJhOZubxY6cuZh8W3tcSujv+q/Qsc7XVMBItbsJjn5yXsK/OBcH1Duzg1CkOfl/hik2CY1w+3+2W4s/z39nXJprjphrRrJuhYt0lYCuV6ZPI6B8WJ0RPF3TSdoNJPF1NQamtUnAlCDTHF8/XTC4=;so24TCfrMAP7xNxG2X7t3w=="

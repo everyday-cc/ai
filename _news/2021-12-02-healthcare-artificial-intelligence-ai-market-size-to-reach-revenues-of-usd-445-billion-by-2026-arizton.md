@@ -58,20 +58,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
-    excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI) market report."
-    publishedDateTime: 2021-12-01T14:21:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/healthcare-artificial-intelligence-ai-market-size-to-reach-revenues-of-usd-44-5-billion-by/article_e3da9ca0-4e15-52a4-b19f-0c1d5a02a226.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 53
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/a8/9a89c8cd-8a54-517a-a141-e6f99720e344/608abc26aae43.image.jpg?crop=629%2C330%2C85%2C0&resize=629%2C330&order=crop%2Cresize"
-        width: 629
-        height: 330
-        isCached: true
   - title: "Mobile Robot Market Size Forecasted to Reach Valuation of USD 117.89 Billion by 2027"
     excerpt: "The global mobile robot market is expected to be valued at USD 117.89 Billion by 2027 from USD 23.48 billion in 2019, registering a CAGR of 23.6% through the forecast period. This growth is attributed to surge in adoption of mobile robots especially across manufacturing plants."
     publishedDateTime: 2021-12-02T10:30:00Z
@@ -87,6 +73,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2021/12/Mobile-Robot.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
+    excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI)"
+    publishedDateTime: 2021-12-01T14:21:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/healthcare-artificial-intelligence-ai-market-size-to-reach-revenues-of-usd-44-5-billion-by-2026--arizton-301435270.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/818553/Arizton_Logo.jpg?p=facebook"
+        width: 798
+        height: 419
         isCached: true
   - title: "The Role of AI in the Global Healthcare Market 2021: Rising Utilization of Robots for Surgical and Rehabilitation Procedures"
     excerpt: "The global AI in healthcare market is forecasted to record a value of US$22.68 billion in 2025, progressing at a CAGR of 35.59%, for the duration spanning 2021-2025. Factors such as rising utilization of robots for surgical and rehabilitation procedures,"

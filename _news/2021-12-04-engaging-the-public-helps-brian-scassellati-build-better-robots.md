@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-03T22:31:00Z
 originalUrl: "https://www.aaas.org/news/engaging-public-helps-brian-scassellati-build-better-robots"
 webUrl: "https://www.aaas.org/news/engaging-public-helps-brian-scassellati-build-better-robots"
 type: article
-quality: 24
-heat: 24
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.aaas.org/sites/default/files/styles/large/public/2021-12/Scassellati_Brian_440x440.jpg?itok=g-Byy4SL"
@@ -24,6 +25,6 @@ images:
     height: 440
     isCached: true
 
-secured: "QH0p1RXXcc6yrJsmTaMAmShc1LB9PAwK7/OyOMIxQ/SEMQxX8HiTEAjXTtzA+RwJKYXd5alxkIZyFWmYyvAvsezYJKy1aib2C0W/OtwoxvDFON/vNLsm9zE4G81FXNsc0EjClRkKyBDzKC+jDBwp/ijjLMz/w21EXS3I+L3YSEmEHw2T1uzbM5GgMEtgbWGiraPS3xw9o14XzxwlpTKN8mFIjqYvc6/60Ne3eK4wBcUBgzPZsRVMmbSom+Mnn8uqF+fGm/Xr73Iw5RlUZzvvZI+yaRkXNG9xczuFUY0dsj+9OUbqZztcqmDNmMvqj86MyAWOS/vEz/4H/aP1HvFYTAD+NlJ5dMqHZf1evHmKZ14=;h7KMIHTHcLwk4RpzpdE4Fg=="
+secured: "RhJMzNPXfApRdznsUPRgg1x24NkLcAf8e/Z93kAKo9YZcy0cIGKft9aUbiJRUU4vXTZFICK5l9HAIs/3Je8VGRRC1lbPZK4sjpN2veOk21Db2L9kankgORYbOM8TEo/mGhneBtnxAtn3ozFcsJ++U0uYqh97tuHtHQudKvhpwc5Hdtwt15HhW4TPjmtXDCsCyN/T5+lLl3AHf2q3DCoW77BuTffQMfMWak9p0R3/wtgwv0WtLkQfnVRvOzbBGKiOju0tAtnQNEzJQUWqdHeL5tXY8dsyH3mv2b3QWMBKKTpFWtsqMWMn+z4NcTJi8pk6Hoqdg53YUlizb3p53H4QC4OmHhy4Peg+8JH2TKMooqsf8uSYkQPYPi90zBfsEIih91M/KS1krJokQMIhniI/dcdkM9EBiUQwieafzWvjx2qaeRrlYo7+uYxOXzbI5Pb7v0wYULl0TYfsLUZn9NP7uYszWKgIYr4zbkkZKFjHr0g3T12M2H0zslSRciBAH5FAsshvrbkvCmEKbfb30tLOKA==;j4LreqZAEj8WjzZ+94hgUQ=="
 ---
 

@@ -1,30 +1,22 @@
 ---
 category: news
 title: "AWS Announces Six New Amazon SageMaker Capabilities"
-excerpt: "Amazon SageMaker Canvas expands access to machine learning by providing business analysts the ability to generate more accurate machine learning predictions using a point-and-click interface—no coding required Amazon SageMaker Ground Truth Plus offers a ..."
-publishedDateTime: 2021-12-01T23:33:00Z
-originalUrl: "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities/"
-webUrl: "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities/"
-ampWebUrl: "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities/amp/"
-cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities/amp/"
+excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."
+publishedDateTime: 2021-12-02T09:36:00Z
+originalUrl: "https://www.financialbuzz.com/aws-announces-six-new-amazon-sagemaker-capabilities/"
+webUrl: "https://www.financialbuzz.com/aws-announces-six-new-amazon-sagemaker-capabilities/"
 type: article
-quality: 74
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
-    isCached: true
 
 related:
   - title: "AWS brings no-code to Amazon SageMaker machine learning"
@@ -157,6 +149,20 @@ related:
         width: 736
         height: 630
         isCached: true
+  - title: "AWS Announces Six New Amazon SageMaker Capabilities"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. LAS VEGAS, (BUSINESS WIRE) -- Today, at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc ..."
+    publishedDateTime: 2021-12-01T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-announces-six-new-amazon-sagemaker-capabilities-2021-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS introduces flurry of new AI tools for Amazon SageMaker"
     excerpt: "Organizations using Amazon Web Services Inc.’s Amazon SageMaker platform to build artificial intelligence models now have access to a wealth of new features that will make machine learning projects simpler in several ways."
     publishedDateTime: 2021-12-01T21:49:00Z
@@ -242,13 +248,13 @@ related:
         height: 285
         isCached: true
   - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
-    excerpt: "Lightspin, the multi-layer cloud security platform that prioritizes and remediates critical vulnerabilities across hybrid cloud and"
-    publishedDateTime: 2021-12-02T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-301436125.html"
+    excerpt: "Through a previously unreported vulnerability, attackers could run any code on an AWS SageMaker Jupyter Notebook Instance across accounts, access the Notebook Instance metadata endpoint ..."
+    publishedDateTime: 2021-12-02T14:33:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-862473560.html"
     type: article
     provider:
       name: PR Newswire
-      domain: prnewswire.com
+      domain: prnewswire.co.uk
     quality: 34
     images:
       - url: "https://mma.prnewswire.com/media/1341650/Lightspin_Logo.jpg?p=facebook"
@@ -270,6 +276,6 @@ related:
         height: 506
         isCached: true
 
-secured: "u0R0MOGPXId9s+fiUOqPtd1epcdS/kWN8L4qfIX3l3QUy/NaJtjY9IfLi9rs8CrJLicuARKXqRddHfvbQyiukuT45bOSOR/OkpBECfOqPw1V9f1AjK3Rschmmr3WwCYI40et3n+JkxstEhan9lOIslRZpWzsJDbv+fdAG7p5CWCB0B5RpKuylP6eILcnxl8UDMRrTef/q0Zs4XqeEDvUriqq9cdPCcwZmGkB8+IQ5mGw3b/vtKKl+Fi+UnG2iAqz+9qnahvYkez8Xq6uLxXPTHpYLImeHIbZ/2hg1AcxlfooEhm0yhPqADa7FgdoyhD+Z2isrgOgcopsdmE4WUcph2c4jngH4j4Ap1fhktSAqAk=;mqcyIJJE8UPOJYIMsOSQRg=="
+secured: "RbIBiFvdfT2jY9KZyWJ+gjrRreu87hfLuTI2lyPfX/q1byCDxAvPLuLPpm+BAGR7LlfAHNDyEKWZxBcLbaXxkJRSpU58cSfOdjmrcWNUbl9ARIeuj+i5xAlkjQXk7PJfUySSTiVDxMCIHoJ9zdx0mfGDPBOxJZKkRG+LlhQtQGIx2bV4Q2I4Lb8i3OHsOF/oSuwtesZf7jtUDKdDgiVAF3hgvj8QJ9364wmdvxHB9O0tdeF2fBnG+BeGINeZimu+JrKWeJ7CJf0wTRGmVDDIpdS3XOpQReXpEGRK1dCcIyNYfX0lmk8cOJqxPtNCIeljvEdY1jPCSCkySjTGIrqyNBm7Weg+v6KWs09p7DdDgu8=;2rlSjFvUch0qq9ONOLtGDA=="
 ---
 

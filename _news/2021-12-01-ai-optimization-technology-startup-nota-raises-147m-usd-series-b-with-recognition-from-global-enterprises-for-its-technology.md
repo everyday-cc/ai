@@ -1,25 +1,28 @@
 ---
 category: news
 title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-excerpt: "Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was finalized last month, a year after the series A funding of USD 6."
-publishedDateTime: 2021-12-01T03:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
+excerpt: "SEOUL, South Korea, Nov. 30, 2021 /PRNewswire/ -- Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was ..."
+publishedDateTime: 2021-12-01T03:45:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global/article_8d56ac87-fd29-530e-be70-858a99697cbb.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global/article_8d56ac87-fd29-530e-be70-858a99697cbb.html"
 type: article
-quality: 19
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
+  - Machine Learning
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/65/56589c66-3508-55a4-9074-5d6ade084b55/61a6db942facd.image.jpg"
+    width: 800
+    height: 314
+    isCached: true
 
 related:
   - title: "Nota raises $14.7M to adapt biometrics, AI models for edge applications"
@@ -109,6 +112,6 @@ related:
         height: 697
         isCached: true
 
-secured: "UW7llnSYvgr42lMmxvK6hOQI3afySFQy519XedgHbVp8SUllXfevUdtXM0AKLwxe1pBV6DPLsxogNIrD02Pb2RpZZvTDO+BQZD9Au+S8sSlBpmrHn8WQQV8OMlum2nuW38KY87eTi9bCOr85vnOKajr+EmjMS6S9aW5KU434nvW20d8bsSW03OKuV6r0uTOZnw2gaiT7xVQ02ZD4UCrCijAFj5HC8OmbftW+8G2sH4tHvJzP9nXvfcT0MeKfbyJMOEHRHDbM1X0UGzvdZKonwH+nqbd6tSWi43DZbwuQifZn/TwRYLVBnALzrWb6pTM1rCKEZCWaeyQZQaBfODZibb2ASMG3OyPIB2PIankjogs5KPu694JQy5+Snva5m5sm07L8K5anGCvt6q/ha8AsrTIconSdxmRFa/7WwclmVwpzwwzLlSlidF9cEAxmbnXgwcL+fgbhBCp3+Nq3gljNAWqdBjG6PHxFqHe9zrG8vFbtuOS7MW2B6Qqw73+XopsZqjjRmagGpDq6oN4rYIqeug==;gwvp73mG3q3e/SHTZIVc3Q=="
+secured: "AVF8vnNmWIskif7Xm4teiq5CFo4f09mOVXRhLQ6gE07TcUmHk42g3HMbJFgDR7X21Pg89UZ0EoogN2pISzwtasCg+XaOIsx3KXxYITM5z1KtswrxJjhgKmut8LwLpi5L4hdQoI+se00vRa8zP8WEmTsz2xx0rHn/sOdnAITzM+RwEuDYSzetnRPkZ7lenxmgEY1aBsLzjcp7Y02we0t8UBermvJM4uFgEbQ26njEOhJ7ux5zVd9YWO7Iwjzfkc5l6s5AIJAotaa5VubKsQAz+RNRHt7vanN4x0PQSlIpB0OILBG0JRUNbMgBQrEuDUwKU6y+uvm4ArkCEyMgJ3+9Vf6mqJFcA+riWDMEEw3CiOQ=;mHIcmtCn+3MnglHBuzBESA=="
 ---
 

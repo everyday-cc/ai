@@ -26,81 +26,60 @@ images:
     isCached: true
 
 related:
-  - title: "Future Chip Innovation Will Be Driven By AI-Powered Co-Optimization Of Hardware And Software"
-    excerpt: "The invention of the printing press and the ascension of the internet come to mind as similar inflection points, but current innovation trends are being driven by artificial intelligence (AI) at scale,"
-    publishedDateTime: 2021-12-02T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/"
-    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/"
+  - title: "AI proves a dab hand at pure mathematics and protein hallucination"
+    excerpt: "One of the reasons artificial intelligence is such an interesting field is that pretty much no one knows what it might turn out to be good at. Two papers by leading labs published in the journal Nature today show that machine learning can be applied to tasks as technically demanding as protein"
+    publishedDateTime: 2021-12-01T17:51:00Z
+    webUrl: "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/"
+    ampWebUrl: "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 121
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8e24e35c83b6938d1e648%2F0x0.jpg"
-        width: 1000
-        height: 579
+      - url: "https://techcrunch.com/wp-content/uploads/2021/12/AI-for-Maths-blog-artwork.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Public relations practitioners' AI knowledge is limited, but they are aware of AI's potential"
-    excerpt: "A new research report from the Chartered Institute of Public Relations' AIinPR Panel, which has been co-authored by the University's Emeritus Professor of Corporate Communication Anne Gregory, has found that practitioners see the huge potential that artificial intelligence (AI) and Big Data offers the profession but possess limited knowledge on technical aspects of both."
-    publishedDateTime: 2021-12-02T19:52:00Z
-    webUrl: "https://phys.org/news/2021-12-practitioners-ai-knowledge-limited-aware.html"
-    ampWebUrl: "https://phys.org/news/2021-12-practitioners-ai-knowledge-limited-aware.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-practitioners-ai-knowledge-limited-aware.amp"
+  - title: "DeepMind claims AI has aided new discoveries and insights in mathematics"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DeepMind claims that its AI systems helped mathematicians to discover new -- and significant ..."
+    publishedDateTime: 2021-12-02T02:26:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics-10803024"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 46
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
+  - title: "Artificial intelligence aids intuition in mathematical discovery"
+    excerpt: "Machine-learning tools have been used to assist the part of mathematical research that usually relies on human intuition and creativity — leading to two fundamental results in different areas of mathematics."
+    publishedDateTime: 2021-12-01T16:27:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-03512-4"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 52
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-ai.jpg"
-        width: 1920
-        height: 1324
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-03512-4/d41586-021-03512-4_19909408.png"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Agnisys Announces Availability of AI-Based Approach for Specification of Assertions and FPGA Support"
-    excerpt: "Agnisys, Inc.®, the leading EDA provider of the industry's most comprehensive solution for Design and Verification of SoC Hardware/Software Interface (HSI), today announced availability of a unique AI-based approach for specification of assertions and a new product to support FPGA development."
-    publishedDateTime: 2021-12-02T13:45:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12637"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12637"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12637"
+  - title: "Mathematical discoveries take intuition and creativity – and now a little help from AI"
+    excerpt: "To find the answers, mathematicians like me try to find patterns that relate complicated mathematical objects by making conjectures (ideas about how those patterns might work), which are promoted to theorems if we can prove they are true."
+    publishedDateTime: 2021-12-01T17:10:00Z
+    webUrl: "https://theconversation.com/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
+    ampWebUrl: "https://theconversation.com/amp/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
     type: article
     provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 44
+      name: The Conversation
+      domain: theconversation.com
+    quality: 51
     images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12637_16384507321308025.jpg"
-        width: 350
-        height: 215
-        isCached: true
-  - title: "AI Predictions and Innovations for 2022"
-    excerpt: "Most enterprises failed to scale their AI deployments this year. Will 2022 be the year when this actually happens?"
-    publishedDateTime: 2021-11-30T11:09:00Z
-    webUrl: "https://tdwi.org/articles/2021/11/30/adv-all-ai-predictions-and-innovations-for-2022.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 39
-    images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/2022_blocks.jpg"
-        width: 976
-        height: 400
-        isCached: true
-  - title: "Agnisys Delivers Novel AI Technology and FPGA Support for IP and SoC Specification Automation"
-    excerpt: "Agnisys, Inc.®, the leading EDA provider of the industry’s most comprehensive solution for Design and Verification of SoC Hardware/Software Interface (HSI), today announced availability of a unique AI-based approach for specification of assertions and a new product to support FPGA development."
-    publishedDateTime: 2021-12-01T14:23:00Z
-    webUrl: "https://www.design-reuse.com/news/51030/agnisys-design-and-verification-of-soc-hardware-software-interface-hsi.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 30
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage51030/ispec-ai.jpg"
-        width: 1328
-        height: 512
+      - url: "https://images.theconversation.com/files/434870/original/file-20211130-17-1ydvy5w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=397&fit=crop"
+        width: 320
+        height: 397
         isCached: true
 
 secured: "pS8nwPEt59WcEotSiOITMPdkQYoqyw/nj5mPzLc+/NKk1qCb1BBSd2z9q9Q1KbMYAAY0lts1xPwTuR6I1aq44G+wtueMAdWnMN7xE7JCUm0eH+pq1oY/X2ki/UV2KHlY1ejmlSkCPKQ+8ND01iYj7DdokLiRPCUt7TavERuEzoSHzo8UXYo7aKADJwtaEmqjPiHx8V0GwH2/F876Tt7oWW7PG41Fiii0y+FLRZSrfu/6WUTqb6SMpIBCrinbNkExcN6hYdK35mhnAkL0w/nEep5RJ8Z7Elql0FfIz4eSO2R3wtGwKAyGzl1rje430mly3TjlReoPZuM0HBqbwOQqSes1P/Ovk3xyOVRUuYbcPma8Y626GQG9quUUznBYfwo51MGo8pxZWylYYENNhqtu2OCmcu40c6v4M7GYEl4iFSQ3VpUZEI64G8vlR6hn0JFsnlH9jIJGMINL+O1eXSSLzj3p1+tnqYw0Vxkyh63bdmctw07QA0nnMKPelPJHkEV6LY/u/y17b3km5QVw/oE6oA==;0vUxI0uUQcwEI1UoVLyd8w=="

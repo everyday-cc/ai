@@ -2,58 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2021-11-15-microsoft-announces-azure-databricks-visual-studio-app-center-and-azure-devops-projects-at-microsoft-connect.md",
-      "title": "Microsoft announces Azure Databricks, Visual Studio App Center and Azure DevOps projects at Microsoft Connect",
-      "excerpt": "Azure IoT Edge is designed to deploy cloud intelligence to IoT devices and provide advanced AI analytics and machine learning at the IoT edge. “Azure IoT Edge enables developers to build and ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/microsoft-announces-azure-databricks-visual-studio-app-center-azure-devops-projects-microsoft-connect/",
-      "originalUrl": "https://sdtimes.com/ai/microsoft-announces-azure-databricks-visual-studio-app-center-azure-devops-projects-microsoft-connect/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/11/microsoft-connect-2017.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-15-qualtrics-and-aws-expand-relationship-to-transform-customer-feedback-into-enhanced-experiences.md",
       "title": "Qualtrics and AWS Expand Relationship to Transform Customer Feedback into Enhanced Experiences",
       "excerpt": "Amazon will rely on Qualtrics’ experience management technology to listen, understand, and act on customer and employee feedback Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN),",
@@ -1214,6 +1162,49 @@
       "topics": [
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-11-13-software-platform-speeds-deployment-of-large-language-models.md",
+      "title": "Software platform speeds deployment of large language models",
+      "excerpt": "NVIDIA opened the door for enterprises worldwide to develop and deploy large language models (LLM) by enabling them to build their own domain-specific chatbots, personal assistants, and other AI applications that understand language with unprecedented levels of subtlety and nuance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eeworldonline.com/software-platform-speeds-deployment-of-large-language-models/",
+      "originalUrl": "https://www.eeworldonline.com/software-platform-speeds-deployment-of-large-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eeworldonline.com/wp-content/uploads/2021/11/large-language-model-nemo-megatron.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T11:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeworldonline.com",
+        "domain": "eeworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

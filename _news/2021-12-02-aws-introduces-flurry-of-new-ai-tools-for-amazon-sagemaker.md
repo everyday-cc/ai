@@ -158,20 +158,18 @@ related:
         height: 630
         isCached: true
   - title: "AWS Announces Six New Amazon SageMaker Capabilities"
-    excerpt: "Amazon SageMaker Canvas expands access to machine learning by providing business analysts the ability to generate more accurate machine learning predictions using a point-and-click interface—no coding required Amazon SageMaker Ground Truth Plus offers a ..."
-    publishedDateTime: 2021-12-01T23:33:00Z
-    webUrl: "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities/"
-    ampWebUrl: "https://www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities/amp/"
-    cdnAmpWebUrl: "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/aws-announces-six-new-amazon-sagemaker-capabilities/amp/"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. LAS VEGAS, (BUSINESS WIRE) -- Today, at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc ..."
+    publishedDateTime: 2021-12-01T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-announces-six-new-amazon-sagemaker-capabilities-2021-12-01"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AWS launches SageMaker Canvas to enable no-code AI development"
     excerpt: "Amazon Web Services Inc. expanded its artificial intelligence portfolio at AWS re:Invent today by launching SageMaker Canvas, a tool that enables business users to create machine learning models ..."
@@ -243,14 +241,23 @@ related:
         width: 333
         height: 285
         isCached: true
+  - title: "AWS Announces Six New Amazon SageMaker Capabilities"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."
+    publishedDateTime: 2021-12-02T09:36:00Z
+    webUrl: "https://www.financialbuzz.com/aws-announces-six-new-amazon-sagemaker-capabilities/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 34
   - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
-    excerpt: "Lightspin, the multi-layer cloud security platform that prioritizes and remediates critical vulnerabilities across hybrid cloud and"
-    publishedDateTime: 2021-12-02T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-301436125.html"
+    excerpt: "Through a previously unreported vulnerability, attackers could run any code on an AWS SageMaker Jupyter Notebook Instance across accounts, access the Notebook Instance metadata endpoint ..."
+    publishedDateTime: 2021-12-02T14:33:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-862473560.html"
     type: article
     provider:
       name: PR Newswire
-      domain: prnewswire.com
+      domain: prnewswire.co.uk
     quality: 34
     images:
       - url: "https://mma.prnewswire.com/media/1341650/Lightspin_Logo.jpg?p=facebook"

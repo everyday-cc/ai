@@ -353,6 +353,15 @@ related:
         width: 1577
         height: 1050
         isCached: true
+  - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
+    publishedDateTime: 2021-12-01T18:34:00Z
+    webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 35
   - title: "Advancements Series to Explore Recent Developments in Artificial Intelligence and Data"
     excerpt: "Scheduled to broadcast Spring/2022, an upcoming episode of Advancements with Ted Danson will focus on developments in machine learning, artificial intelligence, and data optimization. This segment of Advancements will explore how a"
     publishedDateTime: 2021-11-29T15:11:00Z

@@ -25,35 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "The new Snapdragon 8 Gen 1 is all about big cameras, fast connections, and AI"
-    excerpt: "There's no question that Qualcomm's Snapdragon 888 was a major step forward for smartphone performance, but it was far from a perfect chipset. Plenty of users and developers alike found the 888 running fast and hot,"
-    publishedDateTime: 2021-11-30T23:01:00Z
-    webUrl: "https://www.androidpolice.com/the-new-snapdragon-8-gen-1-is-all-about-big-cameras-fast-connections-and-ai/"
-    ampWebUrl: "https://www.androidpolice.com/the-new-snapdragon-8-gen-1-is-all-about-big-cameras-fast-connections-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/the-new-snapdragon-8-gen-1-is-all-about-big-cameras-fast-connections-and-ai/amp/"
+  - title: "Artificial Intelligence Is All the Rage. What You Need to Know."
+    excerpt: "UBS calls artificial intelligence a top investment theme for the coming decade. But Eric Schmidt, who used to run Google, warns that investing in AI isn’t so easy."
+    publishedDateTime: 2021-12-04T00:51:00Z
+    webUrl: "https://www.barrons.com/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116"
+    ampWebUrl: "https://www.barrons.com/amp/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 56
+      name: Barron's
+      domain: barrons.com
+    quality: 57
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/11/snapdragon-8-gen-1-hero.jpg"
-        width: 2000
-        height: 1308
+      - url: "https://images.barrons.com/im-446312/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "Connecticut Money: Artificial intelligence and the AI revolution"
-    excerpt: "You don’t need to be a financial adviser to hear the daily drumbeat of financial analysts talking about artificial intelligence and its long-term impact on finance, health and transportation, among other industries."
-    publishedDateTime: 2021-12-03T13:00:00Z
-    webUrl: "https://www.chron.com/opinion/article/Connecticut-Money-Artificial-intelligence-and-16665402.php"
+  - title: "The 6 terms you need to know to understand self-driving cars"
+    excerpt: "Level-up your knowledge of the spectrum of driver-assistance features on the road, from consumer vehicles to self-driving taxis."
+    publishedDateTime: 2021-11-29T20:00:00Z
+    webUrl: "https://www.popsci.com/technology/autonomous-vehicles-explained/"
+    ampWebUrl: "https://www.popsci.com/technology/autonomous-vehicles-explained/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/autonomous-vehicles-explained/?amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 56
+      name: Popular Science
+      domain: popsci.com
+    quality: 44
     images:
-      - url: "https://s.hdnux.com/photos/01/23/04/00/21774399/6/rawImage.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://www.popsci.com/uploads/2021/11/29/bram-van-oost-_K8D5vzEqIo-unsplash.jpg?auto=webp"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "d6Bf9l00BcFFVe9wd82VZ/AP/L/es67qyYX1m8Zk4zX81+XCmegvM58uDWcvHSCPLAARYP/jUxUWLJ6za4OWS80sCaBri9junMWi4kJtHK4UOw/ofkn+7TxI5hCmE1monc49bIzkqFP6NypjYRNBWSQ2EhIFMh1ucgS295YWYeb3QiusgvElsZDMYY14T+tn77dlFZDjlLUkJVjD2YX/vK+sp+y6Og6hdZMo9sVB1f1wRk1qHEtmxuh1zEpe4oXXGn7wUNAq1vM/+4CIq0tV+fuLFl7j1s4ykccsxg0gXTwBgyn7RN4h3huFhK7FyZ+LZiRIA/nQ6u68yxQu/wlYJ+Fr0WcpyxoQeS471olURtreTwBdnKsQESxxl2ikLZMstHLmadAjPcGEKwVNUBjq5HJmijS8VrBajBpdN0WkICg0tWgKVAnDueg2xYKxZHtjEqiu5Rm6wCQgo9uqihVTCbeKMP5+5CVF1ot5e0DDnI3sEqRP4/REJO6GyXlnwqWwRLPQWBpBZbQjLbtakCMm+Q==;J9yFitl4v9eMWTAHQrcaAw=="

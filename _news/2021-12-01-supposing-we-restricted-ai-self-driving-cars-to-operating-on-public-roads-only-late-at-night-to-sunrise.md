@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How to turn AI failure into AI success"
+    excerpt: "Enterprises are racing into AI-driven analytics and processes, but there will be a steep learning curve before certain advances are made."
+    publishedDateTime: 2021-12-03T23:10:00Z
+    webUrl: "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/"
+    ampWebUrl: "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/data-e1619691430527.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Artificial intelligence innovation within air force industry companies dropped in the last year"
     excerpt: "Research and innovation in artificial intelligence in the air force equipment and technologies sector have declined in the last year. The most recent figures show that the number of AI patent applications in the industry stood at 64 in the three months ending September – down from 70 over the same period last year."
     publishedDateTime: 2021-11-30T09:44:00Z

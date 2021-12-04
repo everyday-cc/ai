@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brough
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 95
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ambarella-booming-on-ai-based-chip-d
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-booming-on-ai-based-chip-demand-strong-earnings?amp"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressio
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 117
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.forbes.com/wheels/wp-content/uploads/2021/11/Smart-self-drive-proto-1200px.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
+    excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving” (FSD) beta,"
+    publishedDateTime: 2021-12-02T14:00:00Z
+    webUrl: "https://www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/"
+    ampWebUrl: "https://www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 59
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/11/SJM-Z-WALTERS-OPED-1102.jpg?w=1024&#038;h=783"
+        width: 1024
+        height: 783
         isCached: true
 
 secured: "ijV1C2mtJ6PsyjXfHg5+7i2fbXNNlc9N/j5G7k1OP5QEhXVRxkJ8fGxX+KuHjsqrA/uK0LWjeMcacmT1Jcd0+e76U7RkWemoGM5ew6AC6e7F6RsRzP14eAaBKyQPxY8wcT1JHAWccKIqQSBPeKRrzQRoq6mpmpWAv4WQFGXv6vlZcHUj0c2wyFurANt6/JJQ38fWwn5jkkdOnPQnv+F98HUnd/VpTx5XXCKoCg/OI8Dfvnf/bf1iE4VEpwGIu4hB+jgy0Bhvj4prejLneDs60bQyxoNkuV5bWlhSJUhENTSvjPNQq7JCTVWwP60xRHBauWmi60MTbeXxb1MNRYDuuk50HXDTBxk2DP+YbPep/cAY2/nJr3nqA30VVqjARmxIQ9ZoAiLWI2WWzFZHlG0m5OEZT0ByP9D5bOcKCFo59r+yOOdP0/xHx5BJt+8Vf4dQbxKyd5GKimwxbvWzNslwdpW45wZg6T6Mouz156D3dnVt+kt2xsjYxKdzFK1nu3U/g9otneCtihry61KKukcDyg==;oCQZAsgLnHVlu+vNi5Bfcg=="

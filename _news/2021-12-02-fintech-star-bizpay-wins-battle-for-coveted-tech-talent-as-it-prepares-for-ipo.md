@@ -26,22 +26,6 @@ images:
     height: 860
     isCached: true
 
-related:
-  - title: "4 FinTech firms providing collateral free loans to women entrepreneurs"
-    excerpt: "FinTech companies have bridged this gap by specifically offering financial assistance to women, in the form of loans. Several"
-    publishedDateTime: 2021-11-29T08:11:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-fintech-firms-providing-collateral-free-loans-to-women-entrepreneurs/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/08/SLT.jpg"
-        width: 300
-        height: 250
-        isCached: true
-
 secured: "yHs8mfxL3Fz3q5n8rNfa/6oMXN/gThAmRteTpW9HeENYxpABiaR41FSLzWEc+72e6F7b0mR3F7laXxHwugMgXPt9X5PgYNEjc3rjQWaBGweCwJ3SfBgIrZ9y+jNH0Dk+Joq3ImFwKNqoDMs6RGO/lzyG85PI4+PzqcUGmmsmjWSoDIVh12LV02+3S4Dv60WmMpJ9QHcC2LqMmdinRaSVgX2Xb5Tzsrn5/jSFym5ZSFNdgXX1ZHuK2wGokkJIbfY/gZC96F3MaD/bNtg/hVxIo6SnHfbDYWg60MSzDjPKfStTNWfxoz4tczwMFtt8uydO7vSuMKYNi2NqkoLZ3r8a5P/l6nOH+tL+nc1BerG8Mkc=;X+dJUhMksaqsOP2hWFEUWQ=="
 ---
 

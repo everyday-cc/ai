@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?amp"
 type: article
 quality: 101
-heat: -1
-published: false
+heat: 181
+published: true
 
 provider:
   name: Nasdaq
@@ -22,100 +22,31 @@ topics:
   - Google AI
 
 related:
-  - title: "DeepMind claims AI has aided new discoveries and insights in mathematics"
-    excerpt: "DeepMind claims that its AI systems helped mathematicians to discover new -- and significant -- mathematical insights."
-    publishedDateTime: 2021-12-01T16:21:00Z
-    webUrl: "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/"
-    ampWebUrl: "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 135
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all"
-        width: 1198
-        height: 600
-        isCached: true
-  - title: "AI proves a dab hand at pure mathematics and protein hallucination"
-    excerpt: "One of the reasons artificial intelligence is such an interesting field is that pretty much no one knows what it might turn out to be good at. Two papers by leading labs published in the journal Nature today show that machine learning can be applied to tasks as technically demanding as protein"
-    publishedDateTime: 2021-12-01T17:51:00Z
-    webUrl: "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/"
-    ampWebUrl: "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/amp/"
+  - title: "The Future of Healthcare AI Depends on Data"
+    excerpt: "Artificial intelligence is transforming healthcare across clinical use-cases like radiology and robotic surgery, as well as many other operational applications. Access to high quality data is one of the key components driving technological innovation in healthcare."
+    publishedDateTime: 2021-12-03T02:54:00Z
+    webUrl: "https://techcrunch.com/video/the-future-of-healthcare-ai-depends-on-data/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 121
+    quality: 84
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/12/AI-for-Maths-blog-artwork.jpg?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://img.vidible.tv/prod/2021-12/01/61a7da70830dda0e7d107090/61a7dcf7e162092f936a9abd_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
         isCached: true
-  - title: "How Machine Learning Aids New Mathematics Discoveries"
-    excerpt: "Computers have long been used to aid mathematicians when it comes to solving long, complex and experimental equations. Additionally, machine learning and AI have also found application in disproving mathematical conjectures and theorems by being able to toil through vast fields of data and spot anomalies."
-    publishedDateTime: 2021-12-02T14:31:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12638"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12638"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12638"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 108
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12638_16384551289877625.jpg"
-        width: 2000
-        height: 1285
-        isCached: true
-  - title: "Maths researchers hail breakthrough in applications of artificial intelligence"
-    excerpt: "For the first time, computer scientists and mathematicians have used artificial intelligence to help prove or suggest new mathematical theorems in the complex fields of knot theory and representation theory."
-    publishedDateTime: 2021-12-01T16:00:00Z
-    webUrl: "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.html"
-    ampWebUrl: "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 102
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/maths-researchers-hail-1.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
-  - title: "DeepMind’s AI helps untangle the mathematics of knots"
-    excerpt: "Researchers at AI powerhouse DeepMind, based in London, teamed up with mathematicians to tackle two separate problems — one in the theory of knots and the other in the study of symmetries. In both cases,"
+  - title: "Security, Privacy Risks of Artificial Intelligence in Healthcare"
+    excerpt: "While regulatory agencies work to catch up to technological advances, the security and privacy risks of artificial intelligence in healthcare remain."
     publishedDateTime: 2021-12-01T17:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-03593-1"
+    webUrl: "https://healthitsecurity.com/features/security-privacy-risks-of-artificial-intelligence-in-healthcare"
+    ampWebUrl: "https://healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare"
+    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 86
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-03593-1/d41586-021-03593-1_19914642.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "DeepMind AI collaborates with humans on two mathematical breakthroughs"
-    excerpt: "Humans and AI working together can reveal new areas of mathematics where data sets are too large to be comprehended by mathematicians"
-    publishedDateTime: 2021-12-01T16:00:00Z
-    webUrl: "https://www.newscientist.com/article/2299564-deepmind-ai-collaborates-with-humans-on-two-mathematical-breakthroughs/"
-    ampWebUrl: "https://www.newscientist.com/article/2299564-deepmind-ai-collaborates-with-humans-on-two-mathematical-breakthroughs/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2299564-deepmind-ai-collaborates-with-humans-on-two-mathematical-breakthroughs/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 74
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/12/01145204/PRI_212914641.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 800
-        isCached: true
+      name: IT Security
+      domain: healthitsecurity.com
+    quality: 73
   - title: "DeepMind AI Used To Develop New Math Techniques"
     excerpt: "Researchers are using DeepMind's artificial intelligence to develop fundamentally new techniques in mathematics."
     publishedDateTime: 2021-12-02T10:03:00Z
@@ -130,60 +61,33 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Mathematicians hail breakthrough in using AI to suggest new theorems"
-    excerpt: "Their work examined knot theory and representation theory, areas of \"pure mathematics\" which typically depend on human intuition for breakthroughs."
-    publishedDateTime: 2021-12-01T19:27:00Z
-    webUrl: "https://news.sky.com/story/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934"
-    ampWebUrl: "https://news.sky.com/story/amp/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934"
+  - title: "Will 2022 Be The Year of Machine Learning in Healthcare?"
+    excerpt: "As we end 2021, we’re seeing once again many predictions that 2022 will be the Year of Machine Learning in Healthcare.  Having been in the field for several years now, we’re delighted by the optimism!"
+    publishedDateTime: 2021-11-30T20:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/2022-year-machine-learning-healthcare-jaikumar-ramanathan/"
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
     images:
-      - url: "https://e3.365dm.com/21/12/1600x900/skynews-oxford-mathematical_5601403.jpg?20211201160219"
-        width: 1600
-        height: 900
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH_yh2awX0W1Q/article-cover_image-shrink_720_1280/0/1638304560217?e=1643846400&v=beta&t=tr7TC_D7D2U1rOoX8clY8zFCEeArwWpdJg_DqOhuzvA"
+        width: 1080
+        height: 720
         isCached: true
-  - title: "Artificial intelligence aids intuition in mathematical discovery"
-    excerpt: "Machine-learning tools have been used to assist the part of mathematical research that usually relies on human intuition and creativity — leading to two fundamental results in different areas of mathematics."
-    publishedDateTime: 2021-12-01T16:27:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-03512-4"
+  - title: "How Artificial Intelligence is Transforming Healthcare Philanthropy"
+    excerpt: "Philanthropy is often an untapped yet significant source that can transform a healthcare organization. To raise more money, hospitals need to identify more potential donors. We know people give because of people."
+    publishedDateTime: 2021-11-29T14:57:00Z
+    webUrl: "https://www.beckershospitalreview.com/philanthropy/how-artificial-intelligence-is-transforming-healthcare-philanthropy-2.html"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 52
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
     images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-03512-4/d41586-021-03512-4_19909408.png"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Computer science: Artificial intelligence does the maths"
-    excerpt: "Since the 1960s, mathematicians have used computers to aid the discovery of patterns and formulation of conjectures, but artificial intelligence systems are not commonly used in theoretical mathematical research."
-    publishedDateTime: 2021-12-01T23:59:00Z
-    webUrl: "https://www.natureasia.com/en/research/highlight/13893"
-    type: article
-    provider:
-      name: natureasia.com
-      domain: natureasia.com
-    quality: 51
-  - title: "Mathematical discoveries take intuition and creativity – and now a little help from AI"
-    excerpt: "To find the answers, mathematicians like me try to find patterns that relate complicated mathematical objects by making conjectures (ideas about how those patterns might work), which are promoted to theorems if we can prove they are true."
-    publishedDateTime: 2021-12-01T17:10:00Z
-    webUrl: "https://theconversation.com/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
-    ampWebUrl: "https://theconversation.com/amp/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 51
-    images:
-      - url: "https://images.theconversation.com/files/434870/original/file-20211130-17-1ydvy5w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=397&fit=crop"
-        width: 320
-        height: 397
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
     excerpt: "DeepMind, the UK-based artificial intelligence company backed by Google’s parent company, Alphabet Inc, has developed a program that can help mathematicians spot patterns. It has already led to ..."
@@ -199,6 +103,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "6 recent Big Tech partnerships in healthcare: Amazon, Google & more"
+    excerpt: "Six recent partnerships between healthcare organizations and Big Tech companies, including Amazon, Apple, Google and Microsoft: 1. Microsoft and telehealth provider Babylon are teaming up to use artificial intelligence and cloud computing to explore opportunities to increase their health IT offerings."
+    publishedDateTime: 2021-11-29T20:06:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/6-recent-big-tech-partnerships-in-healthcare-amazon-google-more.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Big data in healthcare: 3 spine surgeons weigh in"
+    excerpt: "Three surgeons consider the pros and cons of big data and how it will affect spine care and the wider healthcare field."
+    publishedDateTime: 2021-12-01T18:38:00Z
+    webUrl: "https://www.beckersspine.com/orthopedic-spine-practices-improving-profits/item/53143-big-data-in-healthcare-3-spine-surgeons-weigh-in.html"
+    type: article
+    provider:
+      name: Becker's Spine Review
+      domain: beckersspine.com
+    quality: 19
 
 secured: "AeTJXMR20DQqwvE5mXcgTwMf59W5MDeCX882IF5ke9ikmjVZHm8bALUGnZHFjpWqnd/CX5eT6US7ysRifC20+KeNzHghhjf0c7J9amfoGoCr7ggyVU1zObVP6h2mcZYIKNQXa9bo6rMmr0IElWaKCYS5APYgNdwWmN70LMnlEgITeGrFGk26jEf84xhbi/SqC6OyscrzJHe+3RuDeXxG4kMeJ6zTMoubvGa7CDknxXQrPjXxu9fW6i3CL3FkvA6roaUFY9tAOW8zbKts+s2iYeJFDaImFJM9+GTpqx2TbKmSG2ry869Or9BSwH77BqFWMyM5V4VqUSfJHHh6CijKeOMYwS1EM9OqGUfCUdA9hQOIFDOQ+tEegph7NvxuvAC9fza4XiAtN5olPQ3aHrR74Y9WpOjyT+YeU5Wh6pJkltIZ131gz+1dxdRWXKMdVKnGH8Ss4YTQYnzwA9CFIPx5SMnYUJrsDSzKXx8gCr1BYKCSCAXXcU4TfmZuC6ZcIx1cCOzKy67Q0MX5OrmuYkmUjw==;/tA0M6kFME/YSZUWqxPyOQ=="
 ---

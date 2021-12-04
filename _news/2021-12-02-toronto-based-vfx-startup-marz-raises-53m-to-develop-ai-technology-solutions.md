@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/02/toronto-based-vfx-startup-marz-rai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/toronto-based-vfx-startup-marz-raises-5-3m-to-develop-ai-technology-solutions/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 842
     height: 586
     isCached: true
+
+related:
+  - title: "Visual Effects Startup MARZ Accelerates “AI for VFX” With New Funding"
+    excerpt: "Visual effects (VFX) startup Monsters Aliens Robots Zombies (MARZ), which delivers feature-film quality visual effects to Hollywood studios, has announced that it has raised $5.3 million in Series A funding."
+    publishedDateTime: 2021-12-03T23:28:00Z
+    webUrl: "https://www.unite.ai/visual-effects-startup-marz-accelerates-ai-for-vfx-with-new-funding/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-PM9OzBOi/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/12/cinema-2502213_1280.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "KNQOPzPy1w57JCFXFv5l3r5ByW+YCQn5ve4QYkw2ersqgYpU12cNyLxXLExNtDeL1mT3h4c5M1t+GUhJliHLY4mw4kBzNgwOriQATxv4OkSxjEspGcaMZ4RsJJOvjAmItuGBJZmf2E/9tnaV7TrnOYLsQSIpAVngfmByFy+klV1e8eH6Rg7UioEc2ct3TZhxr1aaiZ8jzpcCdJ/X9dXoF3yEbjrZfnb6To9XDTCBM0+ypytMDXnkiX8oN/0JROXujNGksxtEq5iE6bmbhd/U4tYTqRoVNON1Zns/haLiGogh3EYMPu9ykDt3LIlT/nU4l5LypvpyDHNyXcBnUKGfzFqTgmiIuAgzb1sE7kFXzqw/UZJu52U7a+D4ec0TPmLzcUg+t7jhfaXiAe4d6KKhV9Y+8V0lbDfjJJr1p52ry8M1Pz7hCyVh98GQKHLZpzT8x187UtSwzSbblIlt+AvQB+XTHVclHOaR/d82/PiARLL8Qoa2s4q9JLj14ul4kfCN65o9vu0lntO9UEw0lEC3hQ==;oyFZJxrb4U5DL4cReEdYLg=="
 ---

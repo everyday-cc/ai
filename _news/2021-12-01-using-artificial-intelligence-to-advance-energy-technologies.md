@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-11-artificial-intelligence-advance-
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-artificial-intelligence-advance-energy-technologies.amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 480
         height: 384
         isCached: true
-  - title: "Dutch AI start-up creates breakthrough in voice technology"
-    excerpt: "Today, voice technology company DAISYS B.V. (Leiden, the Netherlands) announces their release of a worldwide breakthrough in the development of human-sounding voices by means of artificial intelligence."
-    publishedDateTime: 2021-12-02T14:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-dutch-ai-start-up-creates-breakthrough-voice-technology-/2021/12/02/9503690.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "77xOtWWXTSvVcnO5sZEApbvk8S7ZTcCLza04uoe4EP9aPFIl5d/F5d2T10CymbOAQOyEimOdOJgU7IN/IxCFS30uiA6aSVBcDeGOUV/Dm+vLHOGcv9fvIdJjweE++ktAvFjzVKfiQNrYvFuz2yrx6pL+U+nqWo2lzFJ2FykvAauhNpvgPyyaoToRx8R0nbruGqmve3Jtm3WRgojXMhDPljvwB/hLObbvn4gaReAMP7ytKwcskQoF0hO6lZO8Px/p4/tIcQkOMGGHHr/E3Fd124+ZdfqehRO1+j1V5/X8w7z2PCsQr/veWzRk5VuFMydCPjAI1s7WSkMPhNLhKfOyrNcBGlE4rlZUhcbT/pdxBMf+URiVPr7fs+9CdWZ/I30xrdLGgggHd2w+389kRFYIzN0+qJaV4KNPX/jTLfYbjPuFpfu6cLcFtW5mUPrhXdBtrxjH+vTKrEzOMLf7wmqm8NEHtv5ueL/su5V8PKXAS2U3O75MeUImLdw07yAign6+oHuvB8UeRDFNfEUGzDaf5g==;dOaHP3Kj9eFZ+k7JidO4DA=="
 ---

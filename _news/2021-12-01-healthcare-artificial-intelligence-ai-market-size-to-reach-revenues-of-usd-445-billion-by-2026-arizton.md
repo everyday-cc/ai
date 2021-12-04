@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
-excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI) market report."
+excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI)"
 publishedDateTime: 2021-12-01T14:21:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/healthcare-artificial-intelligence-ai-market-size-to-reach-revenues-of-usd-44-5-billion-by/article_e3da9ca0-4e15-52a4-b19f-0c1d5a02a226.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/healthcare-artificial-intelligence-ai-market-size-to-reach-revenues-of-usd-44-5-billion-by/article_e3da9ca0-4e15-52a4-b19f-0c1d5a02a226.html"
+originalUrl: "https://www.prnewswire.com/news-releases/healthcare-artificial-intelligence-ai-market-size-to-reach-revenues-of-usd-44-5-billion-by-2026--arizton-301435270.html"
+webUrl: "https://www.prnewswire.com/news-releases/healthcare-artificial-intelligence-ai-market-size-to-reach-revenues-of-usd-44-5-billion-by-2026--arizton-301435270.html"
 type: article
-quality: 53
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI
   - AI in Healthcare
-  - AI Ethics
+  - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/a8/9a89c8cd-8a54-517a-a141-e6f99720e344/608abc26aae43.image.jpg?crop=629%2C330%2C85%2C0&resize=629%2C330&order=crop%2Cresize"
-    width: 629
-    height: 330
+  - url: "https://mma.prnewswire.com/media/818553/Arizton_Logo.jpg?p=facebook"
+    width: 798
+    height: 419
     isCached: true
 
 related:
@@ -128,6 +127,6 @@ related:
       domain: finanznachrichten.de
     quality: 14
 
-secured: "2r3Y6j7zUrKuvsq/IF1C0Wdkcse2fIdggYsPP5pOOD4NOMCeYB9qNUEgHNBkYjcP5e504TWhO5fxQy6rELZrJ3snPyVbLE0fkVp2Ohl7Kah+TiQNGGt4VHaHLsx5SxVtAL+6nnzbUUOdqOGeWkSB6QPVjLGJLlMYpxPOtMs4qjdgohNHClXfXQFbR/Y+m5mWbSBy5JGpEqauIaw7+PtwyCPLD8c8KD35HWLVcmwEzq10MGLvDWSO0nebnWGjgbTqum73s89g+DCRfDweMJvAXjDCmDIo1FuRZljuuSfahY/HxwXjSVjLc/q6Tq4kR5bSqIi7+WwKRCHgNhMZa0LAqnQgNS4WXGfNPWRahCSeFwONiUaHwxsre5ST+IHXWCaLU9muSblcVZWbncNJXzokMTzhZtgaGd5AgmF/MDEJUhu8aaQSlja2Cs4lZBbYNi9Qv7YQGFNvZRdVEx8vEyKjZfcHWUFSkWLj75rj3r8Tun+bEqdazNICqhfj35/syLCdoXJ0GcC89mvQySsQmu9Log==;ySIHIV8sTi3sRAtfSBXL0w=="
+secured: "s08AHZxV0unpUfRlik4jQvu7xnhPO+RfYwX0h8eRqa2qLORJ3z3wK9MdheiTARodV/8fpmmGYIeW8tItCMn5upeTbQK5wZiA3YOUDJTndMBybq6D0TLVYZ+O+n9sf/uvrXbTveIS2KVhuJUdcDvr1/hn0yBoBTYj0/yHMxT5yV+s8COOJhjyiig+fI+xtwN+8PpUi1KbHztUUnUxm3Rq9/fKyRcmxd34XsrnVnyY9fYph/tji+/p51xVcVO6LbdVkHCznpIhfTeXSV7r7EooEsZokml1WyZNXl+Nt5kTMK6VhUEdeYkwJFoNriRjgzpiWrZs1cezXRqKjbF21IJBy7crT4Hwf2RT1F/1BjBsuW4=;3yKB4Kna8dUnngxi81YRlw=="
 ---
 

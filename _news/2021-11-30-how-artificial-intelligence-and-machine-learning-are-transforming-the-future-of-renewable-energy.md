@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
 type: article
 quality: 99
-heat: 249
+heat: 229
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "The Future of Healthcare AI Depends on Data"
-    excerpt: "Artificial intelligence is transforming healthcare across clinical use-cases like radiology and robotic surgery, as well as many other operational applications. Access to high quality data is one of the key components driving technological innovation in healthcare."
-    publishedDateTime: 2021-12-03T02:54:00Z
-    webUrl: "https://techcrunch.com/video/the-future-of-healthcare-ai-depends-on-data/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://img.vidible.tv/prod/2021-12/01/61a7da70830dda0e7d107090/61a7dcf7e162092f936a9abd_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Using AI with Explainable Deep Learning To Help Save Lives"
     excerpt: "Health systems have been at the epicenter of the fight against COVID-19, and have had to balance the need to alleviate suffering and save lives with substantial financial pressures.\" \"Health systems’ income statements are likely to see negative pressure as a result of the COVID-19 crisis."
     publishedDateTime: 2021-12-01T10:56:00Z
@@ -90,22 +76,6 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_with_Explainable_Deep_Learning_To_Help_Save_Lives.jpeg"
         width: 1280
         height: 682
-        isCached: true
-  - title: "Transforming Hospital Supply Chain with AI and Automation"
-    excerpt: "Medical supplies procurement is the second largest expense which constitutes approximately 1/3rd of a hospital’s Total Cost of Operations (TCO). Tec.."
-    publishedDateTime: 2021-11-29T07:58:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/industry/transforming-hospital-supply-chain-with-ai-and-automation/87976757"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/industry/transforming-hospital-supply-chain-with-ai-and-automation/87976757"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/industry/transforming-hospital-supply-chain-with-ai-and-automation/87976757"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-87976757,imgsize-592622,width-1200,height-628,overlay-ethealthworld/transforming-hospital-supply-chain-with-ai-and-automation.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "AI is making applying for jobs even more miserable"
     excerpt: "The platforms say the process is fairer and less biased than human recruiters, leading to better and more diverse candidates making the cut. Of course, there is fierce debate about whether algorithms could in fact reinforce human biases rather than eliminate them."
