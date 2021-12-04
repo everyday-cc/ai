@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-rest
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 133
+published: true
 
 provider:
   name: Forbes
@@ -31,80 +31,87 @@ images:
     isCached: true
 
 related:
-  - title: "How the public clouds are innovating on AI"
-    excerpt: "Companies without the resources to develop in-house machine learning models are turning to the big cloud providers."
-    publishedDateTime: 2021-11-29T11:00:00Z
-    webUrl: "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html"
+  - title: "1 Dividend King Is Leveraging AI to Stay On Top"
+    excerpt: "With new entrants using artificial intelligence to disrupt the industry, this company is taking things into its own hands."
+    publishedDateTime: 2021-12-03T13:55:00Z
+    webUrl: "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveraging-artificial-intelligence/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 91
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
     images:
-      - url: "https://images.techhive.com/images/article/2016/08/machine-learning-cloud-ai-artifical-intelligence-3-100678132-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 900
+      - url: "https://g.foolcdn.com/editorial/images/655460/couple-meets-insurance-agent-at-home-getty.jpg"
+        width: 2120
+        height: 1414
         isCached: true
-  - title: "How to turn AI failure into AI success"
-    excerpt: "Enterprises are racing into AI-driven analytics and processes, but there will be a steep learning curve before certain advances are made."
-    publishedDateTime: 2021-12-03T23:10:00Z
-    webUrl: "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/"
-    ampWebUrl: "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/"
+  - title: "Why We Aren’t Using Self-Driving Cars Yet"
+    excerpt: "The term ‘self-driving cars’ or ‘autonomous vehicles’ have been making rounds in the industry for quite some time now. We have even seen a few of them in action on the roads. It is almost a consensus that self-driving cars are the future of the automobile industry."
+    publishedDateTime: 2021-12-03T07:46:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet"
+    ampWebUrl: "https://www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 44
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/04/data-e1619691430527.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2019/06/Waymo-the-first-commercial-self-driving-car.jpg"
+        width: 1075
+        height: 624
         isCached: true
-  - title: "Artificial intelligence innovation within air force industry companies dropped in the last year"
-    excerpt: "Research and innovation in artificial intelligence in the air force equipment and technologies sector have declined in the last year. The most recent figures show that the number of AI patent applications in the industry stood at 64 in the three months ending September – down from 70 over the same period last year."
-    publishedDateTime: 2021-11-30T09:44:00Z
-    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-innovation-within-air-force-industry-companies-dropped-in-the-last-year/"
+  - title: "New AI method makes self-driving vehicles better drivers"
+    excerpt: "In traffic, humans are used to constantly anticipating what will happen next. This reasoning ability is something that today's self-driving vehicles and AI systems in general are lacking. In a recent study,"
+    publishedDateTime: 2021-12-02T14:28:00Z
+    webUrl: "https://techxplore.com/news/2021-12-ai-method-self-driving-vehicles-drivers.html"
     type: article
     provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 40
-    images:
-      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/10/AF1-6-e1634111806525.jpg"
-        width: 1920
-        height: 1269
-        isCached: true
-  - title: "How To Invest in AI Startups"
-    excerpt: "Benzinga explains how to invest in AI startups, where to find opportunities and what to look for before choosing an AI startup to invest in."
-    publishedDateTime: 2021-12-01T22:54:00Z
-    webUrl: "https://www.benzinga.com/money/how-to-invest-in-ai-startups/"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: techxplore.com
+      domain: techxplore.com
     quality: 39
     images:
-      - url: "https://cdnwp-s3.benzinga.com/wp-content/uploads/2021/12/01175321/zblw0fg8xu8.jpg"
-        width: 900
-        height: 701
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-method-makes-se.jpg"
+        width: 2522
+        height: 1545
         isCached: true
-  - title: "Top ways Artificial Intelligence is affecting the world"
-    excerpt: "Top Ways Artificial Intelligence is Affecting the World Artificial Intelligence changed the way we work, eat, socialise, and even how we travel. AI is an invisible part of life"
-    publishedDateTime: 2021-12-02T15:02:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/newtech/top-ways-artificial-intelligence-is-affecting-the-world-39359/"
+  - title: "Self-Driving and Service to Country"
+    excerpt: "Welcome back to the Stack, a monthly newsletter from Argo AI and Ground Truth featuring the best content in the field we’re all so passionate about: self-driving cars! Subscribe here to receive upcoming editions in your email inbox."
+    publishedDateTime: 2021-12-01T16:21:00Z
+    webUrl: "https://www.linkedin.com/pulse/self-driving-service-country-argo-ai"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 39
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
     images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHZ1e2mogyVUQ/article-cover_image-shrink_720_1280/0/1638374100706?e=1643846400&v=beta&t=fTLVYQsU82How8sZc8sZnT207jWcYChJl2aSdZwJYng"
+        width: 1280
+        height: 641
         isCached: true
+  - title: "Fishers Is Next Proving Ground for Self-Driving Car Service"
+    excerpt: "After a trial run in Indianapolis this summer, a self-driving car service is coming to Fishers. The five-month pilot project begins December 20 and will continue into May. You’ll be able to use an"
+    publishedDateTime: 2021-12-02T20:27:00Z
+    webUrl: "https://www.wibc.com/news/local-indiana/fishers-is-next-proving-ground-for-self-driving-car-service/"
+    type: article
+    provider:
+      name: WIBC
+      domain: wibc.com
+    quality: 24
+    images:
+      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2021/12/02152336/FISHERS_EB_12022021.jpg"
+        width: 4032
+        height: 3024
+        isCached: true
+  - title: "J.D. Power study: consumers possess inaccurate knowledge of fully automated self-driving vehicles"
+    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
+    publishedDateTime: 2021-12-01T11:41:00Z
+    webUrl: "https://www.greencarcongress.com/2021/12/20211201-jdp.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 0
 
 secured: "jySNpS/y12yx4Ct4UQpil3JUHr/zrZpsrRo8bg1rF6dRkYIUmd8850ZAX7/ntAeEAu9yuBu0DlKNmSOcUef6glLVqR74QjKldjlexgkO0AvJE3nXKTecZOJBN+RMVqGLjR2ngRT/3D8e/uuPCHm6OEQFkLII5DikT4EBxgG4HhTLEMWxco6ITVlFGQ9jWBU7nbtJRg7Kd+6OHRH4eAEcEbF5IVJuQOeJ9xjt6TYfZLoKoNf6NEFzZgpp0iQjeY/AehkGKghIqmuQcn9vfp4krcYTJY0dtMJYSpsqUgAxdCRIBAbXPKHhwDjrTfJgXcWDUY5tSd4Q/N9MPKQlqv/p2Fc03cHc4h6Nzzo4MoNvaV/0q+tXjrPnOSHbuNhx1LPHqt6kOt8Zquq5UVGu3Q4ciB/S+dzQvpe5HGYWpafm8a7Qz2TauKDdjkYE1iPzfsrHuQFvLXNZUculYtxCIbIxvE+C2Wl7eiKZvRtvIvkef3KU92oRU3m4B43+/IHY0ZwVYUP7P9QFJH3+LxZV+mhvfA==;wBhc6aQTv+9kG5L16qR0lw=="
 ---

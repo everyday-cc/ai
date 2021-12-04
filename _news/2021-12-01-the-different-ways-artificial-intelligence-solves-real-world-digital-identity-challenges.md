@@ -54,6 +54,20 @@ related:
         width: 2560
         height: 1978
         isCached: true
+  - title: "Top ways Artificial Intelligence is affecting the world"
+    excerpt: "Top Ways Artificial Intelligence is Affecting the World Artificial Intelligence changed the way we work, eat, socialise, and even how we travel. AI is an invisible part of life"
+    publishedDateTime: 2021-12-02T15:02:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/newtech/top-ways-artificial-intelligence-is-affecting-the-world-39359/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "lG7B/udIQFhdvOb8KpRLNMsyOJs7/nK50jisS3IEqo+2LLUVpCBE3T6yHO6PJWt3oqmlrRT75aSHnDxgy8CgpWl1mZ5rjlzGkMMQhpSauvmMIhZuNqN7YKxOBnDhVSnfhYz0KCw4HPXbdDYrmjsvbNFSR9uSYnK7+hQHgmTbyTX9alttXRB2ZGcxVq+nutoYutu42wdv7+jK1PteGCVkfFrBUYGZGhiklqfyjDA8X5KPdrl45dGtLEpIQzRM+2fdkzDxBm/qBoqRjuJZLYufqNwN05D/sMboZi3oArHtKHQFOvkYA447O514ds/JLnT3FTEmUOIv53JxYE5P7AFFCSMOeusvN2fKDmm/2DJWpMQ=;g7JYlx1nqNkCkiZAc/PfzQ=="
 ---

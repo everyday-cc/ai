@@ -19,6 +19,52 @@ topics:
   - AI
 
 related:
+  - title: "Supposing We Restricted AI Self-Driving Cars To Operating On Public Roads Only Late At Night To Sunrise"
+    excerpt: "One intriguing and controversial proposal about AI self-driving cars involves only allowing them to initially operate during late night and early morning hours. Here's the scoop."
+    publishedDateTime: 2021-12-01T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60596518d910750488dc5aaf%2F0x0.jpg%3FcropX1%3D109%26cropX2%3D1130%26cropY1%3D0%26cropY2%3D681"
+        width: 1021
+        height: 681
+        isCached: true
+  - title: "1 Dividend King Is Leveraging AI to Stay On Top"
+    excerpt: "With new entrants using artificial intelligence to disrupt the industry, this company is taking things into its own hands."
+    publishedDateTime: 2021-12-03T13:55:00Z
+    webUrl: "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveraging-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/655460/couple-meets-insurance-agent-at-home-getty.jpg"
+        width: 2120
+        height: 1414
+        isCached: true
+  - title: "Why We Aren’t Using Self-Driving Cars Yet"
+    excerpt: "The term ‘self-driving cars’ or ‘autonomous vehicles’ have been making rounds in the industry for quite some time now. We have even seen a few of them in action on the roads. It is almost a consensus that self-driving cars are the future of the automobile industry."
+    publishedDateTime: 2021-12-03T07:46:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet"
+    ampWebUrl: "https://www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 44
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2019/06/Waymo-the-first-commercial-self-driving-car.jpg"
+        width: 1075
+        height: 624
+        isCached: true
   - title: "New AI method makes self-driving vehicles better drivers"
     excerpt: "In traffic, humans are used to constantly anticipating what will happen next. This reasoning ability is something that today's self-driving vehicles and AI systems in general are lacking. In a recent study,"
     publishedDateTime: 2021-12-02T14:28:00Z
@@ -33,85 +79,34 @@ related:
         width: 2522
         height: 1545
         isCached: true
-  - title: "San Francisco opposes self driving company for unlawful behavior"
-    excerpt: "San Francisco Municipal Transportation Agency (SFMTA) opposes showing how Self-driving vehicles are showing unlawful behavior."
-    publishedDateTime: 2021-12-03T03:17:00Z
-    webUrl: "https://techstory.in/san-francisco-opposes-self-driving-company-for-unlawful-behavior/"
+  - title: "Self-Driving and Service to Country"
+    excerpt: "Welcome back to the Stack, a monthly newsletter from Argo AI and Ground Truth featuring the best content in the field we’re all so passionate about: self-driving cars! Subscribe here to receive upcoming editions in your email inbox."
+    publishedDateTime: 2021-12-01T16:21:00Z
+    webUrl: "https://www.linkedin.com/pulse/self-driving-service-country-argo-ai"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/12/Cruise-car-in-Hayes-Valley-San-Francisco-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Superior self-driving system developed with ‘common sense’ AI"
-    excerpt: "Researchers believe they have developed a superior self-driving system that combines modern neural learning with “common-sense reasoning” to overcome some of the pitfalls of current autonomous systems."
-    publishedDateTime: 2021-12-03T16:55:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/12/superior-self-driving-system-developed-with-common-sense-ai/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/11434/dreamstime_l_140582302.jpg?crop=0,0.36458333333333337,0,0.1432291666666666&cropmode=percentage&width=1200&height=450&rnd=132350717730000000"
-        width: 1200
-        height: 450
-        isCached: true
-  - title: "Self-Driving Vehicles Appeal to Drivers, But They Don’t Know What it Entails"
-    excerpt: "Drivers don’t know much about self-driving vehicles, but that isn’t stopping the technology’s growing acceptance. TheDetroitBureu.com digs through the numbers."
-    publishedDateTime: 2021-11-30T20:28:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/11/self-driving-vehicles-appeal-to-drivers-but-they-dont-know-what-it-entails/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 36
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2012/06/Self-driving-Cadillac.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "J.D. Power Examines Understanding Of Self-Driving Vehicles"
-    excerpt: "The study index is based on six unique attributes of consumer comfort with fully automated, self-driving vehicles."
-    publishedDateTime: 2021-11-30T16:45:00Z
-    webUrl: "https://www.aftermarketnews.com/j-d-power-study-on-fully-automated-self-driving-vehicles-consumers-dont-know-what-they-dont-know/"
-    type: article
-    provider:
-      name: After Market News
-      domain: aftermarketnews.com
+      name: LinkedIn
+      domain: linkedin.com
     quality: 24
     images:
-      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/01/self-driving-1000x563.jpg"
-        width: 1000
-        height: 563
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHZ1e2mogyVUQ/article-cover_image-shrink_720_1280/0/1638374100706?e=1643846400&v=beta&t=fTLVYQsU82How8sZc8sZnT207jWcYChJl2aSdZwJYng"
+        width: 1280
+        height: 641
         isCached: true
-  - title: "Level-Setting: Why Drivers Still Don’t Understand Self-Driving"
-    excerpt: "The deficits are definitely concerning—it’s a mismatch for sure.” In a release, she called it “a ‘Danger, Will Robinson’ moment for the fully automated self-driving vehicle industry.” The results do not reflect a lack of curiosity."
-    publishedDateTime: 2021-11-30T19:07:00Z
-    webUrl: "https://www.timesunion.com/news/article/Level-Setting-Why-Drivers-Still-Don-t-16662829.php"
+  - title: "Fishers Is Next Proving Ground for Self-Driving Car Service"
+    excerpt: "After a trial run in Indianapolis this summer, a self-driving car service is coming to Fishers. The five-month pilot project begins December 20 and will continue into May. You’ll be able to use an"
+    publishedDateTime: 2021-12-02T20:27:00Z
+    webUrl: "https://www.wibc.com/news/local-indiana/fishers-is-next-proving-ground-for-self-driving-car-service/"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
+      name: WIBC
+      domain: wibc.com
     quality: 24
     images:
-      - url: "https://s.hdnux.com/photos/01/23/03/01/21770345/3/rawImage.jpg"
-        width: 533
-        height: 300
+      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2021/12/02152336/FISHERS_EB_12022021.jpg"
+        width: 4032
+        height: 3024
         isCached: true
-  - title: "J.D. Power Study on Fully Automated Self-Driving Vehicles: Consumers Don't Know What They Don't Know"
-    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
-    publishedDateTime: 2021-11-30T13:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-jd-power-study-fully-automated-self-driving-vehicles-/2021/11/30/9501254.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "JmzSqDR2SQSn3JtPtDELqh+vFIS/fMXXl0ifIM6jk62MF4u5DzowepoxScPkEOPqkn9bTL4J7hDt6USoIYIxXnRzk9yfg9wj0fPqCU12Jqi2+eeOy4YHXQYV0aaY1c7KlAIWvH78UkRMiAsEuKOJDq3fAjBK02MujqDoRISgfevxif0RXSU5XrziMJ95GVW0Rv9GVMJIy5740Q6zbHD2Ouyw5of7ydvAr6nATP/ARE9viYrsku6ZKtvV38u7lNHGRso/0ix6WI+Y+H/98DndCnd6cjSzK3zNno0mfvVbl6ZgOe/8O8uA1RbUn4BR6gPydujAAp1rU3BcdCGxtm61IpSBZHF30APeXBpfHf5/T68=;PYmHUg8f1+YSUnRK80NZ8g=="
 ---

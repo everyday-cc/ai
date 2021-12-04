@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-excerpt: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+. Today, Amazon Web Services (News - Alert), Inc. (AWS), an Amazon.com, Inc. company (NASDAQ:"
-publishedDateTime: 2021-12-01T15:41:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/01/9502667.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/01/9502667.htm"
+excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more ..."
+publishedDateTime: 2021-12-01T14:05:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
+webUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
@@ -101,6 +101,6 @@ related:
       domain: stockhouse.com
     quality: 11
 
-secured: "SH1xWz4Gfu36boLcoSw50LDY4pRUX/sw7mf6EOXWXc+Flmzbhw6LZ6Cpo5SBh5BGPtvwNmlivzKdEna8/c0xF45aJyENLmyXSICDtGDBAKutEb/TGVANJD9WUK11vr7wKGMHOAexQ73OtVJc2EXQzMAI/weyjD1bmIw3G1M7pj6xp9QX3eYcyXHANK9jj/ttW9kYA8+cAyTsR1BCBrARqQTCWxt18qLv0IC1T4YLQ4HJIWFApRENRSZ91Wky3llrCJBvfSKAJ66n+mVuoxAP9yUOyW9zHe7OUxFQrEfwBol4AtGk46IhuVc3KpUNVswK16moWePiVGoDW4qeFqcOtZ4mVIjoCciTxjqqMoZZH+U=;vqIdyVewzUWqap+zvLAEiA=="
+secured: "5TZJDbT/56MR56RGYfWeA6Br0lVmeLToFJ6sPdy+fdjtH5gFxf3psljuwevRh5mp+LZ3AxPOptOXSiD3mLvgvh5kQLmGjn2PdU01vD7nvaO02SdygGuCIot/70bVYOZEwbv81WTKgOQe9Nb/dC2CpbzKNk6lFuuLuTYFT1CytAtaUinD7WlEYSu5FEQ8oYKX3g5SEbCbStiQmidLW5Cs9388qEFWpLesmB5XL6rGIUygK2XFzuXVylYJnnE9p+6LGgvIOkDpCNXA32/Z4rO5EA9YsQoDcb2xQ4UHgm9SW52sqHQgS0SfoeTrsCXslk9GNOI34hnjS9P6O+RPfXzd8/AFzNH/5JLm1E19OwFmTU8=;rqp92YCPjQxPNiyfhEY13w=="
 ---
 

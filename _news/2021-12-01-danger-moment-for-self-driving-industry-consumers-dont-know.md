@@ -7,7 +7,7 @@ originalUrl: "https://www.autoconnectedcar.com/2021/11/danger-moment-for-self-dr
 webUrl: "https://www.autoconnectedcar.com/2021/11/danger-moment-for-self-driving-industry-consumers-dont-know/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,14 +25,56 @@ images:
     isCached: true
 
 related:
-  - title: "Government of Canada backs emerging leader in silicon chip photonics that produces navigation sensors for self-driving vehicles"
-    excerpt: "Investment supports OSCP, a growing Canadian cleantech company, and will help advance the safety and accuracy of autonomous vehicles and drones Canada’s cleantech entrepreneurs are proving their power to take on today’s environmental challenges."
-    publishedDateTime: 2021-12-01T05:14:00Z
-    webUrl: "https://www.canada.ca/en/innovation-science-economic-development/news/2021/11/government-of-canada-backs-emerging-leader-in-silicon-chip-photonics-that-produces-navigation-sensors-for-self-driving-vehicles.html"
+  - title: "Self-Driving Vehicles Appeal to Drivers, But They Don’t Know What it Entails"
+    excerpt: "Drivers don’t know much about self-driving vehicles, but that isn’t stopping the technology’s growing acceptance. TheDetroitBureu.com digs through the numbers."
+    publishedDateTime: 2021-11-30T20:28:00Z
+    webUrl: "https://www.thedetroitbureau.com/2021/11/self-driving-vehicles-appeal-to-drivers-but-they-dont-know-what-it-entails/"
     type: article
     provider:
-      name: Canada
-      domain: canada.ca
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 36
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2012/06/Self-driving-Cadillac.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "J.D. Power Examines Understanding Of Self-Driving Vehicles"
+    excerpt: "The study index is based on six unique attributes of consumer comfort with fully automated, self-driving vehicles."
+    publishedDateTime: 2021-11-30T16:45:00Z
+    webUrl: "https://www.aftermarketnews.com/j-d-power-study-on-fully-automated-self-driving-vehicles-consumers-dont-know-what-they-dont-know/"
+    type: article
+    provider:
+      name: After Market News
+      domain: aftermarketnews.com
+    quality: 24
+    images:
+      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/01/self-driving-1000x563.jpg"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Level-Setting: Why Drivers Still Don’t Understand Self-Driving"
+    excerpt: "The deficits are definitely concerning—it’s a mismatch for sure.” In a release, she called it “a ‘Danger, Will Robinson’ moment for the fully automated self-driving vehicle industry.” The results do not reflect a lack of curiosity."
+    publishedDateTime: 2021-11-30T19:07:00Z
+    webUrl: "https://www.timesunion.com/news/article/Level-Setting-Why-Drivers-Still-Don-t-16662829.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/03/01/21770345/3/rawImage.jpg"
+        width: 533
+        height: 300
+        isCached: true
+  - title: "J.D. Power Study on Fully Automated Self-Driving Vehicles: Consumers Don't Know What They Don't Know"
+    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
+    publishedDateTime: 2021-11-30T13:12:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-jd-power-study-fully-automated-self-driving-vehicles-/2021/11/30/9501254.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "l/PYvj2rvQLRkc9TDXIzYUIkjQOBk60FCxP+xfpGEMNjbRDZCQJBIIVTn0OmBpXtRKSDMSodkX0kibbIV/NbZcV79WvJP5493UdN5/lpbYboZ6Su4n0DPYfBl7KcSMfpURQMfV/BLCu5ioNTVDV39IPjYuwA3GpBCjLRUzonf92xWXLv86ncAJmtoauhw6Pzo8clb0RwZCFckHEweBHHRg80nuiopIJmATB+GfCo6ry0/5j7afpbZEsC4uLWUgy5I5DSZsctiEDfFWO01W9seRrDVDePV8GuhxbBFmZ2eCw+UxG+QP1x9hky6/PULo4F89sBR1fZkVudSlQpLaqDbC8Lwe/VTO82kHxGMZ4W1IyJXf+1M+1MiXWCNZkkrBaZwoFK+0H6SeINeTLjNwm0Ulvzo/vBcEkIf9ZqhZ1qJ2VHduSKkqo+27+Z3FJLC8QvA+xPdAYyRUz6URihFdhVprdiQbxe+KcXyZf70hYIiMPkyEfU17f6G2Qbb++NedpOlRHEnJifA2WiwCt5vQ832w==;8oNe3s2Tz+p7gGSf9PDVaw=="

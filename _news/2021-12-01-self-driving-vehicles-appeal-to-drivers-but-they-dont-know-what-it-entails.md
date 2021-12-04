@@ -7,7 +7,7 @@ originalUrl: "https://www.thedetroitbureau.com/2021/11/self-driving-vehicles-app
 webUrl: "https://www.thedetroitbureau.com/2021/11/self-driving-vehicles-appeal-to-drivers-but-they-dont-know-what-it-entails/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "New AI method makes self-driving vehicles better drivers"
-    excerpt: "In traffic, humans are used to constantly anticipating what will happen next. This reasoning ability is something that today's self-driving vehicles and AI systems in general are lacking. In a recent study,"
-    publishedDateTime: 2021-12-02T14:28:00Z
-    webUrl: "https://techxplore.com/news/2021-12-ai-method-self-driving-vehicles-drivers.html"
+  - title: "Danger Moment for Self-Driving Industry –Consumers Don’t Know"
+    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
+    publishedDateTime: 2021-12-01T00:38:00Z
+    webUrl: "https://www.autoconnectedcar.com/2021/11/danger-moment-for-self-driving-industry-consumers-dont-know/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 24
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-method-makes-se.jpg"
-        width: 2522
-        height: 1545
-        isCached: true
-  - title: "San Francisco opposes self driving company for unlawful behavior"
-    excerpt: "San Francisco Municipal Transportation Agency (SFMTA) opposes showing how Self-driving vehicles are showing unlawful behavior."
-    publishedDateTime: 2021-12-03T03:17:00Z
-    webUrl: "https://techstory.in/san-francisco-opposes-self-driving-company-for-unlawful-behavior/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/12/Cruise-car-in-Hayes-Valley-San-Francisco-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Superior self-driving system developed with ‘common sense’ AI"
-    excerpt: "Researchers believe they have developed a superior self-driving system that combines modern neural learning with “common-sense reasoning” to overcome some of the pitfalls of current autonomous systems."
-    publishedDateTime: 2021-12-03T16:55:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/12/superior-self-driving-system-developed-with-common-sense-ai/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/11434/dreamstime_l_140582302.jpg?crop=0,0.36458333333333337,0,0.1432291666666666&cropmode=percentage&width=1200&height=450&rnd=132350717730000000"
-        width: 1200
-        height: 450
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews.png"
+        width: 640
+        height: 300
         isCached: true
   - title: "J.D. Power Examines Understanding Of Self-Driving Vehicles"
     excerpt: "The study index is based on six unique attributes of consumer comfort with fully automated, self-driving vehicles."
@@ -103,15 +75,6 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
-  - title: "J.D. Power study: consumers possess inaccurate knowledge of fully automated self-driving vehicles"
-    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
-    publishedDateTime: 2021-12-01T11:41:00Z
-    webUrl: "https://www.greencarcongress.com/2021/12/20211201-jdp.html"
-    type: article
-    provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
     quality: 0
 
 secured: "00eSROv8+Ttft+gnImX6imWPCo93Wo9pFlHoXvXwwkPVeXiYGBZtrDM1T8MYgqgwOZicEcc1Vv0CPE6Ar3sdVNokAZ1/q1Fv6YxuCw8SuJyAe1kBvfCyUWrYryapr/PYav0iIw+XMqQIPyoaMXprgI9dM19jgp2rCa8YPySvN13AR8kYpFwXo3+ZivlLXpnWgWrKTCkb+61cBxJkP56q/U+IMu+aNFOIQCWIMGn6BldjLrVxDA5ruZ6HzX69HN8qR4ZZfagd9am+zGymBTUF67nG8zBy8nVKvIDNSRDtI1iFWUZcyiN8z+o1bBS+6NvNgFFxh8DQuxd8ZqFBI4ejfpJ0mUbpxT4je1jW5MYlWNt6OYqqQAXfSrsRAk9BmvSBtYVLgD/iDlo0HiJixLCevbSgrBFZx16yhtpplo+GC0enAEkGeIM/iYuGWrAUSUaldGxm3kNJ+3kkmg+LhsFiJqeLVg/g851LDyAwZJ9LLhHX5AZ+vzbkxsEYPdOe7Ials2DHHKgLr9KCl+k5z2LOig==;1yYZgqCE2Og8Nary9UlNDg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.electronicsforu.com/special/truly-innovative-tech/ai-bas
 cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/special/truly-innovative-tech/ai-based-augmented-imaging-radar-for-autonomous-driving/amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 500
     height: 300
     isCached: true
-
-related:
-  - title: "New funding for Vivent's AI based Plant Monitoring"
-    excerpt: "The unique AI technology of PhytlSigns allows growers to tune into the early warnings of disease, pests, nutrient deficiencies and water stress that all plants communicate has received €1.8 million of funding from ePlant,"
-    publishedDateTime: 2021-11-29T10:50:00Z
-    webUrl: "https://www.startupticker.ch/en/news/new-funding-for-vivent-s-ai-based-plant-growth-monitoring"
-    type: article
-    provider:
-      name: startupticker.ch
-      domain: startupticker.ch
-    quality: 37
-    images:
-      - url: "https://www.startupticker.ch/images/startupticker/startupticker-logo-animated.gif"
-        width: 256
-        height: 256
-        isCached: true
 
 secured: "JvtHlAroDaiAX7vJhob25UcMBN4d8JHD9uLfNcxFWo5h8hnj9NSGyn4/RoajDBCjNEUa8fk1zwp1lqTJGJ4Iyiq/cMExvF1NNfBFeWre4dNGAlzIHy5XAVK0mOe0O1ky42rSYQvS8DYFHPCmVNB3UxhA/a5EEOu7KrrANBvu/A/8sxstAPNpKu1f9RVIDVAr0SWkr06fp8+qjnL1Rspu6MwmfmD+TfYq6ly6+ayYAWSygM6nD8UQ7ZAV5BVrX1zPAdCjedVajc5E6K1elLNe5FSUUowLRuQKulxNbEVuKdzuaJeRzc407GiRrl1MDSKhgJJz7ZQ9Ovpeme17zvSoIqozJAi36Y6QGUTby/w2G2TcTjd41ILEzYvoWEYkdE/X5jxjqZ5Kl6bM1fhDfbc9g1XjVNpB9WOVm5Z6XLwpm/gsdtg0aacAhk0sxLHwyYgCO7hjZQEFRNIVVAhpbSTwErQK+EXAKsa4zex9mMAclRStY4F1q+7T47M5YAp6xXUsmms8hah78+sqiLyy2SUxaQ==;+JwnGXq18DJFrTd91RQKMA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-in
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-boosting-the-growth-worldwide-ibmmicrosoft-medtronic-aicure-2021-12-01"
 type: article
 quality: 98
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Deep Learning System Market to Witness Stunning Growth | IBM, Google, Mythic"
+    excerpt: "The latest study released on the Global Deep Learning System Market by AMA Research evaluates market size, trend, and forecast to 2026. The Deep Learning System market study covers significant ..."
+    publishedDateTime: 2021-11-30T16:44:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-system-market-to-witness-stunning-growth-ibm-google-mythic"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/10/48390f2af271ef50423df694c8ef0835d356e1e8-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "Loesp0EUhv2c/wyS0l0wCc2JuQZ+24O/MwodG9kD/JIKxeWWjOUSWW6uytQcSFLpxR+pkU/Pw9h/qnZlVZDhLxki/ZIZnzgTAuN6UZngb58W+avJHjS9gjAu/GkvJYUG/VvALbnhWwGJ2miqgTRufwBwWlyCAWGWbGHT9ht00TecW7KRZri9zzwTJdeRRtc+ZQCVu/n2bepAgdTaU74uozyhKTNz6D8XPEWRUjYeeglz792bJnTfaz8jwz6ooMPd8dvuh0sCcN6JWzDjwNtFQRhhFekBLaS+CrUF40ax0cKtR5yMR5PmNtR3DpP0Hzfeq0kZOrBpuY73x5IQcju00CGdL0Qbrk+5Jt+TAa70A/4=;GuxgTmVMdvuUhrPbHdUy1w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://techstory.in/san-francisco-opposes-self-driving-company-fo
 webUrl: "https://techstory.in/san-francisco-opposes-self-driving-company-for-unlawful-behavior/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,93 +25,14 @@ images:
     isCached: true
 
 related:
-  - title: "New AI method makes self-driving vehicles better drivers"
-    excerpt: "In traffic, humans are used to constantly anticipating what will happen next. This reasoning ability is something that today's self-driving vehicles and AI systems in general are lacking. In a recent study,"
-    publishedDateTime: 2021-12-02T14:28:00Z
-    webUrl: "https://techxplore.com/news/2021-12-ai-method-self-driving-vehicles-drivers.html"
+  - title: "Early Money: A San Francisco startup is now a double-dipper, raising $8.5M in its second seed round this year"
+    excerpt: "M in new seed funding to develop its marketing creation service. #venture #startups #BayArea #SanFrancisco #seedfunding"
+    publishedDateTime: 2021-11-30T16:22:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/inno/stories/fundings/2021/11/30/san-francisco-startup-double-dips-on-seed-funding.html"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-method-makes-se.jpg"
-        width: 2522
-        height: 1545
-        isCached: true
-  - title: "Superior self-driving system developed with ‘common sense’ AI"
-    excerpt: "Researchers believe they have developed a superior self-driving system that combines modern neural learning with “common-sense reasoning” to overcome some of the pitfalls of current autonomous systems."
-    publishedDateTime: 2021-12-03T16:55:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/12/superior-self-driving-system-developed-with-common-sense-ai/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/11434/dreamstime_l_140582302.jpg?crop=0,0.36458333333333337,0,0.1432291666666666&cropmode=percentage&width=1200&height=450&rnd=132350717730000000"
-        width: 1200
-        height: 450
-        isCached: true
-  - title: "Self-Driving Vehicles Appeal to Drivers, But They Don’t Know What it Entails"
-    excerpt: "Drivers don’t know much about self-driving vehicles, but that isn’t stopping the technology’s growing acceptance. TheDetroitBureu.com digs through the numbers."
-    publishedDateTime: 2021-11-30T20:28:00Z
-    webUrl: "https://www.thedetroitbureau.com/2021/11/self-driving-vehicles-appeal-to-drivers-but-they-dont-know-what-it-entails/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 36
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2012/06/Self-driving-Cadillac.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "J.D. Power Examines Understanding Of Self-Driving Vehicles"
-    excerpt: "The study index is based on six unique attributes of consumer comfort with fully automated, self-driving vehicles."
-    publishedDateTime: 2021-11-30T16:45:00Z
-    webUrl: "https://www.aftermarketnews.com/j-d-power-study-on-fully-automated-self-driving-vehicles-consumers-dont-know-what-they-dont-know/"
-    type: article
-    provider:
-      name: After Market News
-      domain: aftermarketnews.com
-    quality: 24
-    images:
-      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/01/self-driving-1000x563.jpg"
-        width: 1000
-        height: 563
-        isCached: true
-  - title: "Level-Setting: Why Drivers Still Don’t Understand Self-Driving"
-    excerpt: "The deficits are definitely concerning—it’s a mismatch for sure.” In a release, she called it “a ‘Danger, Will Robinson’ moment for the fully automated self-driving vehicle industry.” The results do not reflect a lack of curiosity."
-    publishedDateTime: 2021-11-30T19:07:00Z
-    webUrl: "https://www.timesunion.com/news/article/Level-Setting-Why-Drivers-Still-Don-t-16662829.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 24
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/03/01/21770345/3/rawImage.jpg"
-        width: 533
-        height: 300
-        isCached: true
-  - title: "J.D. Power Study on Fully Automated Self-Driving Vehicles: Consumers Don't Know What They Don't Know"
-    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
-    publishedDateTime: 2021-11-30T13:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-jd-power-study-fully-automated-self-driving-vehicles-/2021/11/30/9501254.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "J.D. Power study: consumers possess inaccurate knowledge of fully automated self-driving vehicles"
-    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
-    publishedDateTime: 2021-12-01T11:41:00Z
-    webUrl: "https://www.greencarcongress.com/2021/12/20211201-jdp.html"
-    type: article
-    provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 0
 
 secured: "QKMGR7d/ib1yLqvMHJpCCxq0Rw9qBG5vzvzK0xqoiuwfxExpKXZsVwvSOy7urpiTBRGN5FoyEvT5cIhBK0uS6pyXP5orB5PxNJ7mQCz8jq0ubsTBZC3L2kT5q+nIxyVboyvFOoKJCpf4Mu+0mBiPgvon59dXD0OdgT382LxqixMGdamONC6F4pGOhz9RXpA56z9c8QFfly5ttsj+plxfMqVNCZYhRTfnWAB8MpnrTCPITqo/EyvTrWmlyOm+k2enDiYRKJy/FuwXhO2VedqYjyXwh+koI0NhNSdaTQY8AWrJC6/CCc2lOlTs6sKHou+TwdRkx/yxn2PwZe1MKcMTVb8AlbDnBnBvDs6SqLT2KI8KCtM9pARUW6hh1Vn1U3CZFXmu6W3SdER3vlwuGKd0vqAkqX0jaYo8wTYW+Lo+AHZEdLl1ev9s1yrrJGFm2QILjKPKdvP8MR07D8A+et3z8hdXmvLhFTh36K/VHtD+vnzrSo1pN1P006376GTUe2/9IM8C1e5TiITfCSM2Gga8GA==;zs4gL2Qa/FZVyqb2OWkBbg=="

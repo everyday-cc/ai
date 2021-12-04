@@ -44,22 +44,6 @@ related:
         width: 900
         height: 370
         isCached: true
-  - title: "Artificial Intelligence That Understands Object Relationships – Enabling Machines To Learn More Like Humans Do"
-    excerpt: "A new machine-learning model could enable robots to understand interactions in the world in the way humans do. When humans look at a scene, they see objects and the relationships between them. On top of your desk,"
-    publishedDateTime: 2021-11-29T10:30:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-that-understands-object-relationships-enabling-machines-to-learn-more-like-humans-do/"
-    ampWebUrl: "https://scitechdaily.com/artificial-intelligence-that-understands-object-relationships-enabling-machines-to-learn-more-like-humans-do/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-that-understands-object-relationships-enabling-machines-to-learn-more-like-humans-do/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/Machine-Learning-Model-That-Understands-Object-Relationships-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
 
 secured: "39TTWNLUsmQFFgl90a84jVLdXIpXnubGGML5aG0J6GPlvVJY1c3TRjYaLA5eJ0KQwVd5LcepxTvTBWkfedsK05sRDVojnagEjMLwYbYv95e9kRG9IJROJFwUFU/zbq1YFZRvVw+Ypoyt9P9zTQzJaT2B4ZhZ7Ay4v3vSaDJEDKEKGOQRTifT8f3FEmxxL8vfLwa3ZWUOqMuNCluTkOqDggr5mYQMFCVYV3lv8ZiMJPD97AVKKrmlUpXohWsx/2iROOFLEr+3HTFttOsfywc5ogMH99gxNiN5FuLUOrNy7XULhcKwRg1scVnbR/KGyRUhLmNuRnJOkBxsuZHN6dP2ank0vaOP+6wTtj7hKwai71pOJq2Fe3lKMrhyZQl69tKDEhnZMkJT9+bwqaE80VI1g+n8whNVSlTHdFa70riTynuYgV+M2IaPhGV0I/lguHpWz2loyVM70PV2GB/mtE3jLOqfSyRD6+6PvVj9qe4od1MzA6rd3T9lC6PrSO3na2H4PMXSsaht5/p9A4gqyByTlw==;x4wHCV1nAic1/1MnrqPXyA=="
 ---

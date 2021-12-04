@@ -24,22 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "How Do We Support Digital Transformation in the Fintech Industry?"
-    excerpt: "The Fintech Industry has seen some exciting changes in the last few years. AI, voice recognition, SaaS cloud services, better online banking, increased security and protection… these are just some of the latest FinTech trends that prove that there's a lot of potential still to be reached."
-    publishedDateTime: 2021-12-01T13:38:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-do-we-support-digital-transformation-fintech-industry-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE3jqiw6R4B2w/article-cover_image-shrink_720_1280/0/1638199043166?e=1643846400&v=beta&t=UYR1394C07GfEMs4ZBK5JPGRnSYVHo-QDwwVmwE0IKk"
-        width: 1200
-        height: 720
-        isCached: true
-
 secured: "8JkmMSeAGYOp31raqSNBsniQeRp4vzabPZycMCSSF4q2KS2B0cHV0uxmsAb1KvVYzydVIfuh13P567+AcgsHBE0mDl1ynpRTFHLy0K0XcKPVMAtibOXs6J6GI6w2856o0XOKLG8g8ketfuAAEc+pcVtNUGTQd6u0Zvcv04ddvwNjI7O/T+diEeIu/aO4Lzm9FktRzV6joceRdXml/8/kIeoQ63br8sFywMXgh+QbQbSwl8iNXXGe4tlJTk31BvPr6E+AUwOBZlM/cHJQOG9GqEkxDg0BRYyAeVdTU4OqFTiZ9LocYZSuh2FG9kM7F0PwmUw7PsBwXMMh8ih6a97E3zUbNhTejjrSzIWi/nSPk9I=;JgSTmrK9HwjX6CdIErhMow=="
 ---
 

@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Rise in Advent of Machine Learning and Artificial Intelligence is Set to Drive North America Digital Transformation Market: Ken Research"
+    excerpt: "Digital transformation refers as the use of digital technology with an objective to address the conventional issues. The switch from traditional to new digitized business models accelerates the introduction of advanced high-tech products & solutions."
+    publishedDateTime: 2021-12-02T09:32:00Z
+    webUrl: "https://www.linkedin.com/pulse/rise-advent-machine-learning-artificial-intelligence-set-riya-sharma"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 21
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQH-Tl-ZbJItOg/article-cover_image-shrink_600_2000/0/1638436174613?e=1643846400&v=beta&t=BbGQpa-XP2oZc7hxdQAWEQDC9vwhAzak1Xpq9tyt3-8"
+        width: 797
+        height: 446
+        isCached: true
   - title: "Global Self-driving Taxi Market 2021-2025: Supportive Regulations for Self-driving Cars Driving Growth - ResearchAndMarkets.com"
     excerpt: "The “Global Self-driving Taxi Market 2021-2025” report has been added to ResearchAndMarkets.com’s offering. The self-driving taxi market is poised to grow by 56162.96 units during 2021-2025, progressing at a CAGR of 58."
     publishedDateTime: 2021-12-02T16:09:00Z

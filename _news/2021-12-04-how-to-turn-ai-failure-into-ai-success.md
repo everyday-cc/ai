@@ -30,81 +30,23 @@ images:
     isCached: true
 
 related:
-  - title: "How the public clouds are innovating on AI"
-    excerpt: "Companies without the resources to develop in-house machine learning models are turning to the big cloud providers."
-    publishedDateTime: 2021-11-29T11:00:00Z
-    webUrl: "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.html"
-    ampWebUrl: "https://www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642468/how-the-public-clouds-are-innovating-on-ai.amp.html"
+  - title: "How to remove bias from AI models"
+    excerpt: "With AI making more real-world decisions everyday, reining in bias is more important than ever. As AI becomes more pervasive, AI-based discrimination is getting the attention of policymakers and corporate leaders but keeping it out of AI-models in the first place is harder than it sounds."
+    publishedDateTime: 2021-11-29T20:54:00Z
+    webUrl: "https://www.techrepublic.com/article/how-to-remove-bias-from-ai-models/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-remove-bias-from-ai-models/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-remove-bias-from-ai-models/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 91
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
     images:
-      - url: "https://images.techhive.com/images/article/2016/08/machine-learning-cloud-ai-artifical-intelligence-3-100678132-large.jpg?auto=webp&quality=85,70"
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/11/29/4b8e4a82-a67b-4109-ba38-9161274c3446/resize/1200x/2ce3b0768b0e30006d45a90e02f1399b/shutterstock-1218220324.jpg"
         width: 1200
-        height: 900
-        isCached: true
-  - title: "Supposing We Restricted AI Self-Driving Cars To Operating On Public Roads Only Late At Night To Sunrise"
-    excerpt: "One intriguing and controversial proposal about AI self-driving cars involves only allowing them to initially operate during late night and early morning hours. Here's the scoop."
-    publishedDateTime: 2021-12-01T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60596518d910750488dc5aaf%2F0x0.jpg%3FcropX1%3D109%26cropX2%3D1130%26cropY1%3D0%26cropY2%3D681"
-        width: 1021
-        height: 681
-        isCached: true
-  - title: "Artificial intelligence innovation within air force industry companies dropped in the last year"
-    excerpt: "Research and innovation in artificial intelligence in the air force equipment and technologies sector have declined in the last year. The most recent figures show that the number of AI patent applications in the industry stood at 64 in the three months ending September – down from 70 over the same period last year."
-    publishedDateTime: 2021-11-30T09:44:00Z
-    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-innovation-within-air-force-industry-companies-dropped-in-the-last-year/"
-    type: article
-    provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 40
-    images:
-      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/10/AF1-6-e1634111806525.jpg"
-        width: 1920
-        height: 1269
-        isCached: true
-  - title: "How To Invest in AI Startups"
-    excerpt: "Benzinga explains how to invest in AI startups, where to find opportunities and what to look for before choosing an AI startup to invest in."
-    publishedDateTime: 2021-12-01T22:54:00Z
-    webUrl: "https://www.benzinga.com/money/how-to-invest-in-ai-startups/"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://cdnwp-s3.benzinga.com/wp-content/uploads/2021/12/01175321/zblw0fg8xu8.jpg"
-        width: 900
-        height: 701
-        isCached: true
-  - title: "Top ways Artificial Intelligence is affecting the world"
-    excerpt: "Top Ways Artificial Intelligence is Affecting the World Artificial Intelligence changed the way we work, eat, socialise, and even how we travel. AI is an invisible part of life"
-    publishedDateTime: 2021-12-02T15:02:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/newtech/top-ways-artificial-intelligence-is-affecting-the-world-39359/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
+        height: 500
         isCached: true
 
-secured: "2y+CakzQkG7ZIRBZr2DVSmn82X3RdUIO32XU0wKZl2mmAOYvN9MQ1Ymp5nzCJi2x+wG0os7KvBDdHe3Fl6ujlwBgvi2afJ+pLOpYxNxclYOv3KN0oP6wxVb3JdnucWihZ6ooyml/C+ZlYIl1IWmIkHQoIB9v53tZ8Y2fhgwOZpEgL8LFUvf0oJgbKFgrs67tIK4vjfWSW5fS/nQlRBo6mTUa6R90EoXS830i8hzNxws5JA/NLfUGMMdTpQTikEGDxfj3yLV5vZiwG6I+r2FtOqVYsKuqiepuaYQq0G9CZgGKNNTa68CI1J5uDUnXo/xQ9doFlKIgBtKUwL+ZRbjM1wQMEiSCnT5/jToAF4egU1E=;/jOghAC0ZVsPfVOP5L4pAA=="
+secured: "z1Y0LNHL4U+25Bxfg6IxXWGBRGJnVov2zf0BIg80F4v2vXHZLI9oCZ6C99XPy0hr+yCjxAuyNgbrh+j8VWPmR5YZs47bo2euYi80lvBBGlL3rG6ak6+/Qz+sAmEApid80xAQW0zMnLSv0RIeKiPHPBoqWso3Rq2bNOyEyfjWTYVZtI8Har0iXz0S+eCuCR7/E6l/pEHw6jR7OjmSERrPz2D3LyKTNB8yQePaeDesjIB1jH4yQWLAYJZI7/JgxqyaUosRsMSKPhpXhrjASowoPFSHKBTkQemGObjfMuvvFz19RUbQBYYb5NEbwnr0UoQ3cw9l62kQYEAaNMt9WK3WvlCqBD7xlKw7II/x2ifhFgUr6tGo+7sPWWI2gGtGkhrGjZOb+oY84xudVbFIQZqpCZtgL4f9E0IPok8YHgsDMwy05rvUclhnD059DqruTCcxDMGT0i7FCQVcNPfT/Uw/NhURcL7JUZiRUwitPOGcUQJzEDYNtTg4kf9ZvJgPzo3q4erxXE+f4APHMp1P0YZyzQ==;QQ1WChUsNdrRVjepPFCGsA=="
 ---
 

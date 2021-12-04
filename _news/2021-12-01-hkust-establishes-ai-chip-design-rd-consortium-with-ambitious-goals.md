@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "MDOTM cuts AI and ESG research deal with the University of Gothenburg"
-    excerpt: "MDOTM, the European leader in AI-driven investment strategies, signed a partnership with School of Business, Economics & Law at the University of Gothenburg in Sweden."
-    publishedDateTime: 2021-11-29T10:28:00Z
-    webUrl: "https://www.finextra.com/pressarticle/90451/mdotm-cuts-ai-and-esg-research-deal-with-the-university-of-gothenburg"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "How the city hopes to rein in the job market’s AI gatekeepers"
     excerpt: "A recently approved bill will make New York a leader in regulating automation in hiring, though tech watchdogs say the measure does not go far enough"
     publishedDateTime: 2021-11-29T19:47:00Z

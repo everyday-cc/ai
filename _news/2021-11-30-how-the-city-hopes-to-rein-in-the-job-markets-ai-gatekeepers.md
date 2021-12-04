@@ -55,20 +55,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "MDOTM cuts AI and ESG research deal with the University of Gothenburg"
-    excerpt: "MDOTM, the European leader in AI-driven investment strategies, signed a partnership with School of Business, Economics & Law at the University of Gothenburg in Sweden."
-    publishedDateTime: 2021-11-29T10:28:00Z
-    webUrl: "https://www.finextra.com/pressarticle/90451/mdotm-cuts-ai-and-esg-research-deal-with-the-university-of-gothenburg"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Artificial Intelligence Capabilities Are Quickly Becoming Essential for Customer Experience Initiatives, According to Dash Research"
     excerpt: "Eastern Standard Time Dash Research's report, “Artificial Intelligence for CX Applications” , focuses on the market drivers and barriers surrounding the adoption and use of AI in CX platforms, applications,"
     publishedDateTime: 2021-12-01T06:30:00Z

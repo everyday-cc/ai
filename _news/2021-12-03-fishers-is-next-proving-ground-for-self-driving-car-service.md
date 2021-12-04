@@ -25,22 +25,89 @@ images:
     isCached: true
 
 related:
-  - title: "Seoul launches commercial self-driving shuttle service"
-    excerpt: "South Korea's capital city unveiled a commercial driverless car service Monday, the first step in an ambitious plan to bring autonomous vehicles into everyday life over the next five years."
-    publishedDateTime: 2021-11-29T15:28:00Z
-    webUrl: "https://www.upi.com/Top_News/World-News/2021/11/29/Seoul-autonomous-vehicles-self-driving-cars-commercial-service/3041638200273/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2021/11/29/Seoul-autonomous-vehicles-self-driving-cars-commercial-service/3041638200273/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2021/11/29/Seoul-autonomous-vehicles-self-driving-cars-commercial-service/3041638200273/"
+  - title: "Supposing We Restricted AI Self-Driving Cars To Operating On Public Roads Only Late At Night To Sunrise"
+    excerpt: "One intriguing and controversial proposal about AI self-driving cars involves only allowing them to initially operate during late night and early morning hours. Here's the scoop."
+    publishedDateTime: 2021-12-01T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60596518d910750488dc5aaf%2F0x0.jpg%3FcropX1%3D109%26cropX2%3D1130%26cropY1%3D0%26cropY2%3D681"
+        width: 1021
+        height: 681
+        isCached: true
+  - title: "1 Dividend King Is Leveraging AI to Stay On Top"
+    excerpt: "With new entrants using artificial intelligence to disrupt the industry, this company is taking things into its own hands."
+    publishedDateTime: 2021-12-03T13:55:00Z
+    webUrl: "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveraging-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/655460/couple-meets-insurance-agent-at-home-getty.jpg"
+        width: 2120
+        height: 1414
+        isCached: true
+  - title: "Why We Aren’t Using Self-Driving Cars Yet"
+    excerpt: "The term ‘self-driving cars’ or ‘autonomous vehicles’ have been making rounds in the industry for quite some time now. We have even seen a few of them in action on the roads. It is almost a consensus that self-driving cars are the future of the automobile industry."
+    publishedDateTime: 2021-12-03T07:46:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet"
+    ampWebUrl: "https://www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
     quality: 44
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/i/3041638200273/2021/1/16382007321530/v1.5/Seoul-launches-commercial-self-driving-shuttle-service.jpg"
-        width: 800
-        height: 533
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2019/06/Waymo-the-first-commercial-self-driving-car.jpg"
+        width: 1075
+        height: 624
         isCached: true
+  - title: "New AI method makes self-driving vehicles better drivers"
+    excerpt: "In traffic, humans are used to constantly anticipating what will happen next. This reasoning ability is something that today's self-driving vehicles and AI systems in general are lacking. In a recent study,"
+    publishedDateTime: 2021-12-02T14:28:00Z
+    webUrl: "https://techxplore.com/news/2021-12-ai-method-self-driving-vehicles-drivers.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-method-makes-se.jpg"
+        width: 2522
+        height: 1545
+        isCached: true
+  - title: "Self-Driving and Service to Country"
+    excerpt: "Welcome back to the Stack, a monthly newsletter from Argo AI and Ground Truth featuring the best content in the field we’re all so passionate about: self-driving cars! Subscribe here to receive upcoming editions in your email inbox."
+    publishedDateTime: 2021-12-01T16:21:00Z
+    webUrl: "https://www.linkedin.com/pulse/self-driving-service-country-argo-ai"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHZ1e2mogyVUQ/article-cover_image-shrink_720_1280/0/1638374100706?e=1643846400&v=beta&t=fTLVYQsU82How8sZc8sZnT207jWcYChJl2aSdZwJYng"
+        width: 1280
+        height: 641
+        isCached: true
+  - title: "J.D. Power study: consumers possess inaccurate knowledge of fully automated self-driving vehicles"
+    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
+    publishedDateTime: 2021-12-01T11:41:00Z
+    webUrl: "https://www.greencarcongress.com/2021/12/20211201-jdp.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 0
 
 secured: "XpxiGetbzDUnuow0LAJvfSpNYz/M5dnH0wqsRW+5pmt5oNy4tQMoGXa70G8q36ASShWuxBvjYeD40G9GJ6Mh83ZIX0mGFlIAPUGqqFV3iz6O7fSP/F2hYA9t1HSMuB5r4B5R1Gl965qGqXiNCRAn3WyBL9mct9eCHyUJELxlEACikP8PuLQeS58zGBmwW5fWkvcFVCbMtSxbzk7QQxLk9F96i2YibP4TT3LWsE4/zolJnCDrPNxB3+HongpPRF+qwrj1+BBT6OM0Leu0q+x9KzzT27fxFB+8vEAF5Y2USHiQip47k/qcsCbBOTR3lkEOf9lNzU95VCgGkzHPsC1QrWjl3ayaJ0H+dsl/P7quNsO52TTKOVn5FPn6BAp61FzOnnUT2qimxLCApzUkylf64U2qAPJQ+PWeIdVNvJH0GsMXm/fyKNZJ4TyYerGNT/ooAeS1+DA7yQlzNGZxjFaxz1gt33o7eM5UUCaQNA1qBF7BCWatGRvbgPXMXRYB/k+xzviKAsfooVZTfwbbzln7QQ==;2GxLAID1/urhMTphu0N+PQ=="
 ---

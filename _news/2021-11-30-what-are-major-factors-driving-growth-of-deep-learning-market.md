@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2479968/what-are-major-factors-driving-gr
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2479968/what-are-major-factors-driving-growth-of-deep-learning-market"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Rise in Advent of Machine Learning and Artificial Intelligence is Set to Drive North America Digital Transformation Market: Ken Research"
+    excerpt: "Digital transformation refers as the use of digital technology with an objective to address the conventional issues. The switch from traditional to new digitized business models accelerates the introduction of advanced high-tech products & solutions."
+    publishedDateTime: 2021-12-02T09:32:00Z
+    webUrl: "https://www.linkedin.com/pulse/rise-advent-machine-learning-artificial-intelligence-set-riya-sharma"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 21
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQH-Tl-ZbJItOg/article-cover_image-shrink_600_2000/0/1638436174613?e=1643846400&v=beta&t=BbGQpa-XP2oZc7hxdQAWEQDC9vwhAzak1Xpq9tyt3-8"
+        width: 797
+        height: 446
         isCached: true
   - title: "Omaha startup Bot Image set to revolutionize prostate cancer detection using cutting-edge machine learning software"
     excerpt: "The Omaha-based MRI medical device company, Bot Image Inc., announced this month an addition to its line of software products aimed at assisting the detection of prostate cancer. Dubbed QT Prostate MRI,"

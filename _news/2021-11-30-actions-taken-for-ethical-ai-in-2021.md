@@ -57,6 +57,22 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Startup Uses AI, Panoramic Cameras for Wildfire Detection"
+    excerpt: "The San Francisco-based startup, Pano AI, is installing panoramic cameras on California mountaintops to help spot signs of wildfires. The system uses rotating cameras to snap photos of the landscape every 60 seconds."
+    publishedDateTime: 2021-12-04T01:46:00Z
+    webUrl: "https://www.govtech.com/public-safety/startup-uses-ai-panoramic-cameras-for-wildfire-detection"
+    ampWebUrl: "https://www.govtech.com/public-safety/startup-uses-ai-panoramic-cameras-for-wildfire-detection?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/startup-uses-ai-panoramic-cameras-for-wildfire-detection?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/1b06bfb/2147483647/strip/true/crop/1000x521+0+99/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb4%2Fd5%2F3d6e3e66424a941ead29dc0b459f%2Fshutterstock-734504473.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Xero Reaches Milestone In AI Strategy Incorporating Machine Learning-powered Predictions For Bank Reconciliation"
     excerpt: "Xero, the global small business platform, today announced a significant milestone in its AI strategy with the roll-out of new bank reconciliation predictions. The predictions feature brings a new application of AI into the Xero platform,"
     publishedDateTime: 2021-11-29T19:31:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/ai-innovations-that-made-headlines-i
 webUrl: "https://analyticsindiamag.com/ai-innovations-that-made-headlines-in-2021/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence innovation within air force industry companies dropped in the last year"
+    excerpt: "Research and innovation in artificial intelligence in the air force equipment and technologies sector have declined in the last year. The most recent figures show that the number of AI patent applications in the industry stood at 64 in the three months ending September – down from 70 over the same period last year."
+    publishedDateTime: 2021-11-30T09:44:00Z
+    webUrl: "https://www.airforce-technology.com/analysis/artificial-intelligence-innovation-within-air-force-industry-companies-dropped-in-the-last-year/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 40
+    images:
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2021/10/AF1-6-e1634111806525.jpg"
+        width: 1920
+        height: 1269
+        isCached: true
   - title: "Artificial intelligence innovation among retail industry companies rebounded in the last quarter"
     excerpt: "Research and innovation in artificial intelligence in the retail sector has rebounded in the last quarter. The most recent figures show that the number of AI patent applications in the industry stood at 111 in the three months ending September – down from 120 over the same period last year."
     publishedDateTime: 2021-12-02T12:08:00Z
@@ -38,6 +52,20 @@ related:
       - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/shutterstock_594560369.jpg"
         width: 500
         height: 334
+        isCached: true
+  - title: "How Do We Support Digital Transformation in the Fintech Industry?"
+    excerpt: "The Fintech Industry has seen some exciting changes in the last few years. AI, voice recognition, SaaS cloud services, better online banking, increased security and protection… these are just some of the latest FinTech trends that prove that there's a lot of potential still to be reached."
+    publishedDateTime: 2021-12-01T13:38:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-do-we-support-digital-transformation-fintech-industry-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE3jqiw6R4B2w/article-cover_image-shrink_720_1280/0/1638199043166?e=1643846400&v=beta&t=UYR1394C07GfEMs4ZBK5JPGRnSYVHo-QDwwVmwE0IKk"
+        width: 1200
+        height: 720
         isCached: true
   - title: "Artificial intelligence innovation among power industry companies has dropped off in the last year"
     excerpt: "Research and innovation in artificial intelligence in the power industry operations and technologies sector has declined in the last year. The most recent figures show that the number of AI patent applications in the industry stood at 127 in the three months ending September – down from 185 over the same period last year."

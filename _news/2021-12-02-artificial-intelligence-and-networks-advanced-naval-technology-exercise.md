@@ -48,11 +48,25 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/64c1c260-e375-4d60-b4ce-0d1ad3f692ba/Rendition/thumbnail/Content/Public"
         width: 300
         height: 239
+        isCached: true
+  - title: "Using AI to help Pathologists detect Prostate Cancer"
+    excerpt: "I recently read about two interesting AI solutions developed by healthcare organizations partnering with outside researchers in order to combat serious illnesses. This article is about one with a startup company spinoff from New York Memorial Sloan Kettering Cancer Center."
+    publishedDateTime: 2021-12-04T01:47:00Z
+    webUrl: "https://www.linkedin.com/pulse/using-ai-help-pathologists-detect-prostate-cancer-jack-hueter"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFOSaIudxAFiQ/article-cover_image-shrink_600_2000/0/1638582381214?e=1643846400&v=beta&t=9jE3u9b5BskyrH1pQUpaqJD9BQgq3UE0rLYkkIp6hVk"
+        width: 696
+        height: 392
         isCached: true
 
 secured: "OswWwfmPqHs8uCHMR2UGjTAI1xVgc00jgVvrT/+XSE15uA7hB0PCwJBoPqdHGFYn3cR/lcM+hGh7bkw2kvZDsWvrnqQ8dmY6K3GA14ynADYfjHRJV308KqxDIPbDznbgBJV0BSVdpBa+12AggLRGzfDhrSo1YQ4GGIUAg/6Ny08sJ6lk8gwAIJIkG8UJEj5SYV4/0ehlCqcKR+V4g1ec8NCXl6mig/+LnwxFW/yENzjEcLykBBujaYW79MmXCV8atQTCZC+Y8YVHeO+gv3dUQZex3lnuZf7zl4wO2eXIngLWEaihQxzdjLjlUvdoDnPvBxEiAo4NVP1ZZOt7tJQ6Mqc03U4PruOdXywk0M5jhbg=;+xMFYOUOv8n1DkjMlouYzw=="

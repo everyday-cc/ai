@@ -25,48 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI method makes self-driving vehicles better drivers"
-    excerpt: "In traffic, humans are used to constantly anticipating what will happen next. This reasoning ability is something that today's self-driving vehicles and AI systems in general are lacking. In a recent study,"
-    publishedDateTime: 2021-12-02T14:28:00Z
-    webUrl: "https://techxplore.com/news/2021-12-ai-method-self-driving-vehicles-drivers.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-method-makes-se.jpg"
-        width: 2522
-        height: 1545
-        isCached: true
-  - title: "San Francisco opposes self driving company for unlawful behavior"
-    excerpt: "San Francisco Municipal Transportation Agency (SFMTA) opposes showing how Self-driving vehicles are showing unlawful behavior."
-    publishedDateTime: 2021-12-03T03:17:00Z
-    webUrl: "https://techstory.in/san-francisco-opposes-self-driving-company-for-unlawful-behavior/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/12/Cruise-car-in-Hayes-Valley-San-Francisco-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Superior self-driving system developed with ‘common sense’ AI"
-    excerpt: "Researchers believe they have developed a superior self-driving system that combines modern neural learning with “common-sense reasoning” to overcome some of the pitfalls of current autonomous systems."
-    publishedDateTime: 2021-12-03T16:55:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/12/superior-self-driving-system-developed-with-common-sense-ai/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/11434/dreamstime_l_140582302.jpg?crop=0,0.36458333333333337,0,0.1432291666666666&cropmode=percentage&width=1200&height=450&rnd=132350717730000000"
-        width: 1200
-        height: 450
-        isCached: true
   - title: "Self-Driving Vehicles Appeal to Drivers, But They Don’t Know What it Entails"
     excerpt: "Drivers don’t know much about self-driving vehicles, but that isn’t stopping the technology’s growing acceptance. TheDetroitBureu.com digs through the numbers."
     publishedDateTime: 2021-11-30T20:28:00Z
@@ -80,6 +38,20 @@ related:
       - url: "https://www.thedetroitbureau.com/wp-content/uploads/2012/06/Self-driving-Cadillac.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Danger Moment for Self-Driving Industry –Consumers Don’t Know"
+    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
+    publishedDateTime: 2021-12-01T00:38:00Z
+    webUrl: "https://www.autoconnectedcar.com/2021/11/danger-moment-for-self-driving-industry-consumers-dont-know/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 24
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2019/06/autonomousandselfdrivingvehnews.png"
+        width: 640
+        height: 300
         isCached: true
   - title: "J.D. Power Examines Understanding Of Self-Driving Vehicles"
     excerpt: "The study index is based on six unique attributes of consumer comfort with fully automated, self-driving vehicles."
@@ -103,15 +75,6 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 0
-  - title: "J.D. Power study: consumers possess inaccurate knowledge of fully automated self-driving vehicles"
-    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
-    publishedDateTime: 2021-12-01T11:41:00Z
-    webUrl: "https://www.greencarcongress.com/2021/12/20211201-jdp.html"
-    type: article
-    provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
     quality: 0
 
 secured: "XVl+XFL2gqYyDC6LxsCGGm6o1qjFFqy4erVtd9+5D2QiuKW4LeWiGWxs8cDY/4lsfQuQVuIcbNdbOBgdVp50VDaATagV2RpzrpN2PgNcTEoKE7Pn0XMdcVvxfpsXgkJbzcPxWN7IO52swhRQIC63Pzpvsl8c5FQFfDvcL7QZnBSplPBt8ifzbnqAN7QCPx4XlrxvcTsVv3DU3JkL31lSirtW7IF38cSONM4AS4wr53s2PL+E5hF2HZxuwNdWvF0xGqDu5gkUNruenZG7mEVB/v+D955FchcOrQCLesUKeXh+BI2SkObk7MV6aA/dyuF1q59ptdl5FqgYUeomlY59/tZxw7XJAg52Z4qV/Zttyd/7ukB5x4SNmDVn0sDA4H7v95/ntnIR62dwILs4A1BYtq4nP9LE3dYe1jgkM0TosDjVqAxNc0CbF4hH/PF/rw3uBo3sJCWuRmBqIsS0eOL8/UYFXKqU4MzStmEQrxQtPAbE8uRxEDqMkIc630lNHLhuy/NbXESIS88LMg0k1goJSA==;++nIiKhqZzOBHL6gdsHdPA=="

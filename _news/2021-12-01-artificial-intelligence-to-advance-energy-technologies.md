@@ -6,7 +6,7 @@ publishedDateTime: 2021-11-30T16:16:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/936393"
 webUrl: "https://www.eurekalert.org/news-releases/936393"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/64c1c260-e375-4d60-b4ce-0d1ad3f692ba/Rendition/thumbnail/Content/Public"
@@ -54,6 +55,20 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2021/12/01/3f/d2/ef/eb/26/63/c0/94/00P4y000019l9SKEAY-480x384.png"
         width: 480
         height: 384
+        isCached: true
+  - title: "Using AI to help Pathologists detect Prostate Cancer"
+    excerpt: "I recently read about two interesting AI solutions developed by healthcare organizations partnering with outside researchers in order to combat serious illnesses. This article is about one with a startup company spinoff from New York Memorial Sloan Kettering Cancer Center."
+    publishedDateTime: 2021-12-04T01:47:00Z
+    webUrl: "https://www.linkedin.com/pulse/using-ai-help-pathologists-detect-prostate-cancer-jack-hueter"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFOSaIudxAFiQ/article-cover_image-shrink_600_2000/0/1638582381214?e=1643846400&v=beta&t=9jE3u9b5BskyrH1pQUpaqJD9BQgq3UE0rLYkkIp6hVk"
+        width: 696
+        height: 392
         isCached: true
 
 secured: "OPmft4IXJGZl09r3KzTWilPvHoag+VJKLttCKIRkRbRCxxQLvdl5lcLUnC799QWbv+xh2eAL6cDShj0zArdaLNRhNvK7DXTzCySrsLsSczBtFQKCnpMjZ1fjwLgOUbcbFKndocvDIbw1ORDFT3KTYePJJM5CHsjttQ43/XAHy88cVZIrPG44uchIVfpzFPB9Ql1awyWo9+g+1ct7ASEGGm2X3IQ0rGr26HxFE4nsPowwfq9PA8iHah89/wkiL1BK0t5BG0iFoJJwwAy5bKhKoCFP+gdgD+NRqdhk7UP/WcsU1UG8zJtDcG21DF4Px7DR6Yji5w0UdHxstXwhmACqgUvV/WOIuX4gYYS1qdWYkmxmgguTAE4qX/Kf7AXya21jIv2sjY71spSTtk2RvdKLD0W4hqGg9DgdyP1glE91j9/Blzta1S23oJDnAWIoQEqgMkecdEW9HmVUsvVh5SX7+Gd2VEOLAysCOEpgXILDRm3o/gtUHsadRa5eZTVjjtsNgC7SQyFZZ4/HurizFvVDqg==;Frn777PqHpZxixONU77r3A=="

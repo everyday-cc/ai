@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-remove-bias-f
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-remove-bias-from-ai-models/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 500
     isCached: true
+
+related:
+  - title: "How to turn AI failure into AI success"
+    excerpt: "Enterprises are racing into AI-driven analytics and processes, but there will be a steep learning curve before certain advances are made."
+    publishedDateTime: 2021-12-03T23:10:00Z
+    webUrl: "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/"
+    ampWebUrl: "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/data-e1619691430527.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "GVf5vLm3cbMjk4Ahq+FM5eb3ciNylCuAJ5THuOWS+B6MhCxToRIu+gNso1w/ojPDgDT82Y2waHr1TPvOsFwwYoKQXwoNRJZGeZMYp48b7XDexSAOiS3+foBtP9Bg5mo5FDXxWXB1K4NsQOveLIYkBJMWm/nsDbZ1JlTulUUbxomw3Gq38stqJ6BRzNplQm5D1AI5ZGZWe0kRTlW2lFNozjyvh3dl5zwblwcPOXU8YznOeOQTTyZ09WPg85SnrI9k7rIDU/8+JzcsP9mSap8EBR8uBcLrUswMyEaEC4ZA5nRsf8OLCmmX6FKGJCi5US4OJpUJueptcO4pmyKbJOv3RZmx3KPd2DzdfP6Deme0Qew=;M2Zm6EDbprGB/RH8c4RwSw=="
 ---

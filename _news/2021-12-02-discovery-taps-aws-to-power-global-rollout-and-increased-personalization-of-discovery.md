@@ -92,13 +92,13 @@ related:
         height: 630
         isCached: true
   - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-    excerpt: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+. Today, Amazon Web Services (News - Alert), Inc. (AWS), an Amazon.com, Inc. company (NASDAQ:"
-    publishedDateTime: 2021-12-01T15:41:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/12/01/9502667.htm"
+    excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more ..."
+    publishedDateTime: 2021-12-01T14:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 11
 
 secured: "bg5vLoPWxxNqJwB/A/axexRo2PHjbuUVbazqL+IQKpaVYUw5OGuNXTnNTur9llAKO0BT8ufArlZgdWTRjvJWmBzeH7x3HnkPv5zygT7kNO40LB/cMi17DSvSvbSYaGnUHvIOyvt/xGCZLsI8ZDb7SAc5XDGxf5vtdu05PtTGmTS9njwuH0DgoI8YSjSolaogtbvno0Ew8xyoLFeWuwe0WQw3521cQ+nZ6Hi6eRCa9IPE1w+wBL+5jnoyCGXGeaneh4TCtnJsop8uI8mxmiscfqjTlS9/PJ3q1B7xIIhJw9GkMvUXBmclH8/cdA4ymPThML4NCAiX3fWg8pbfxCT48c9HdtsnOtxJXNhsRTljeCM7+LIIe0i9E5HpRX8WjHJEmS5TkMCCrRLS2DfkqlzepeY85+J/YgVMmlOULeVkDfgsluS97ely+UDu465BHexwpXJrLGhWHQDRpLym3DIL077duj8wPqQl4Bi/qyYcMUC9ZbmSbSLGg80jvCCDEJVW44ykNYe3/25BrP5gQwEqaA==;3cQuzVDpDrPSmdHE7NhaNQ=="
