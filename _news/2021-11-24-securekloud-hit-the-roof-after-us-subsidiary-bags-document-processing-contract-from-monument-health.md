@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Securekloud hit the roof after US subsidiary bags document processing contract from Monument Health"
-excerpt: "Securekloud Technologies hit an upper circuit of 5% at Rs 136.15 after the companys step-down subsidiary Healthcare Triangle Inc., USA, was selected by Monument Health to automate document processing through readable."
-publishedDateTime: 2021-11-24T05:41:00Z
-originalUrl: "https://www.indiainfoline.com/article/capital-market-hot-pursuit/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400448_1.html"
-webUrl: "https://www.indiainfoline.com/article/capital-market-hot-pursuit/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400448_1.html"
-ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-hot-pursuit/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400448_1.html"
-cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-hot-pursuit/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400448_1.html"
+excerpt: "Securekloud Technologies hit an upper circuit of 5% at Rs 136.15 after the company's step-down subsidiary Healthcare Triangle Inc., USA, was selected by Monument Health to automate document processing through readable."
+publishedDateTime: 2021-11-24T06:20:00Z
+originalUrl: "https://www.business-standard.com/article/news-cm/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400395_1.html"
+webUrl: "https://www.business-standard.com/article/news-cm/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400395_1.html"
+ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/securekloud-hit-the-roof-after-us-arm-bags-document-processing-contract-121112400395_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/securekloud-hit-the-roof-after-us-arm-bags-document-processing-contract-121112400395_1.html"
 type: article
 
 provider:
-  name: India Infoline
-  domain: indiainfoline.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-    width: 350
-    height: 233
-    isCached: true
-
-secured: "hsc8P52lo5hw6ziXdkU6f40bgsVaWYVmjd/9V+LtG53MQNt8nKllBN3awJwK+4oHTUE6Ln7WhuBBoz2K44+cOI8XN2ZUUTgoEPkoTbPpJmK1By1JpJm5zSHr/4zOpu59zlf6K/DJKXhIRVP3DXLZZzdtF/3Ox1HYgAHpmu77TKxQoRdGHg9B0iEDjzc54apsbV2ixpHpMCRx7nPGkEBWdelAyt0HTlWPbqdHIMwsvhBuaxr0vXqC008AzDeNWsQDHx+xk5neqDk5HeNwGQRSR9tCFe8h6ky5XVit43yosuEFRT88EdAzNtxoUuVL1JNTBL+b2dhd/nhWxy1B8Y1W4Wrmrs35LXX6E3H/7khLEx0=;WKqjvWrieXx7Agkz9BQuCA=="
+secured: "i7YTb89q1IY19rwJfaVI5pHhgg60A3q+Di1fIS0x9pUZW1TG9zbCWxZxCc7i3LAVd9Qvag3JvrFddEt59q4vsyKUY504rzv3ht1o6V2Uw3gs8nqSULjhA1Rx9xHOLfY9h0p0ZCpiIFg5t6rhEneijPkUB3EQQJVrWkPNkWJMN4GPBGEPIMjTMzbCMh6498mzFiaXTGr6evdU54rx02EXVfabueONihc1SCDrBs7YsbHCBWgaL7s0yKIw0Tz5W8mdHIJW5K0Nu+tff2Kc4bdfXJ/0Eor1QHNSN4IAiuV755Vq66Zj6AKNR2R9nO9NTgJHeo9NT+a92Hew1KE2VmvUnGN37Qvh8jEicbn3VskcGN0=;YRnOp2ir4eSYNT9Qy7CCTA=="
 ---
 

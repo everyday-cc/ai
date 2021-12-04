@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Outlook on the Explainable AI Global Market to 2030 - Opportunity Analysis and Industry Forecasts"
-    excerpt: "The \"Explainable AI Market by Offering, by Deployment, by Technology, by End-use Industry, by Application - Global Opportunity Analysis and Industry Forecast, 2021-2030\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-11-29T16:29:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/11/29/9500623.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
   - title: "3D Printing Sourcing and Procurement Report Forecasts the Market to Have an Incremental Spend of USD 29.41 Billion | SpendEdge"
     excerpt: "During the forecast period, the 3D Printing industry will see an increase in spending of around USD 29.41 billion. However, the majority of this expansion will be driven by only a few regions. Furthermore,"
     publishedDateTime: 2021-12-01T18:40:00Z

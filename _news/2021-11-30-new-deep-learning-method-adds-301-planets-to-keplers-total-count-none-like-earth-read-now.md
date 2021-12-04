@@ -43,6 +43,15 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Deep learning tool helps NASA discover 301 exoplanets"
+    excerpt: "NASA scientists used a neural network called ExoMiner to examine data from Kepler, increasing the total tally of confirmed exoplanets in the universe."
+    publishedDateTime: 2021-12-01T01:39:00Z
+    webUrl: "https://www.pbs.org/wgbh/nova/article/exominer-neural-network-kepler-exoplanet-discovery/"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 19
 
 secured: "COwtxAnB8dlsadLxcyK+Vw1AtLqVuIFC5zsR5fzlh+KuN+QtnVAHIsxa6vAfr2hf3r4Iv5Ga80DsaTIXAp1V7CifKsy1nsbD+ACmjWNjdhdSO58qdqaMajG0UmLs+ee20Wma26Zdfx46Bi3Y0tbE9Cs8/Q34D+JRLlEX2GXr2p//rB96cKrV42sfyABnM0m7b8+mjrkXsdiX5k517yXBMpfO+zyXvurPnR8yHVvGqBoOcX3gBTdcn+0+F5mCBx1gZsm6eDjtfhsPk+1v54KLpCWnkttcB8u7FDfXqQaBQT0tl6j296Cb5HmfvSEEDAXqDMmu9spmC2X6b8SJ+lwHJer4zRHH/mBwgVKdVotez6KSuc6UxNSoI4tptBfyzWNGqx9sB+l4XGIIHVn8VSKnTK+ZiRI+XmGeSK8NQ0jIHsrZtKa0zhU3/MXR/nfFcw/In+tcOowjqN3R/9QJHTppUiCgO5joDH5aDywK5k52vZQh4zPxe+BlOPm85Q5xOQ5BLnZoDpCGXgbL2RP6dbKjKQ==;2h5Sh+ei5F0J28dkhLhKjw=="
 ---

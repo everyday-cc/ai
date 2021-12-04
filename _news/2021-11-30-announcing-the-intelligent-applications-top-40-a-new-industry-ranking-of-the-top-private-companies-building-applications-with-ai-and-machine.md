@@ -53,15 +53,6 @@ related:
         width: 720
         height: 720
         isCached: true
-  - title: "Announcing the Intelligent Applications Top 40; a New Industry Ranking of the Top Private Companies Building Applications with AI and Machine Learning"
-    excerpt: "Today the Intelligent Applications Top 40 (#IA40) was unveiled by Madrona Venture Group. The list of the top private companies building applications that truly incorporate intelligence into how they process data and predict outcomes was voted on by the top 40 venture capital firms investing in this industry,"
-    publishedDateTime: 2021-11-29T15:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/11/29/9500628.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "Ov1PUfY7NAc92w2hEDT8v53ppuKhhxQVsf8llDaICZivM+3KE1c9yAFmzPmkzRh0e+Wcp3pxPKxUpQM9EQMXsIKlYB2/PU+BypV2IH2T5otLlow9/H02ldL3H7dd4FNKtN+YCBX1zUQn8dNRjQ3GNhOAXYZQJ+9tLK752iW07fQRW9SrAQj20jpw0RiHhOqn7pdwH5x0pDfkqdmcbjSSsWFQaP1NiZsiEG/z6FnIaLKPaE58s27tXIzyeurk8lA5LOb8MHKkzYdVkW6TDpwhTjj8UEW4CUMAxdIpFXG1a+mibryaWeYfxmLJ+Vypf/xzkWXzu5tOzduM6Cpafx1ZU5ICkmBdzjRbxFWSxI651Ks=;ujKpjKmgXR3CuQI6UcNMcA=="
 ---

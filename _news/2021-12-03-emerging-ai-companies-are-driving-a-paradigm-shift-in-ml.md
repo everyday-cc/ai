@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/video/emerging-ai-companies-are-driving-a-p
 webUrl: "https://techcrunch.com/video/emerging-ai-companies-are-driving-a-paradigm-shift-in-ml/"
 type: article
 quality: 84
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Announcing the Intelligent Applications Top 40; a New Industry Ranking of the Top Private Companies Building Applications with AI and Machine Learning"
-    excerpt: "Today the Intelligent Applications Top 40 (#IA40) was unveiled by Madrona Venture Group. The list of the top private companies building applications that truly incorporate intelligence into how they process data and predict outcomes was voted on by the top 40 venture capital firms investing in this industry,"
-    publishedDateTime: 2021-11-29T15:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/11/29/9500628.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "ypcR1g1kFK6q1TOsbAKnB4r/tUeeKHmXvVH9VEsYiAGImNAFdrQYmp4dJjlWiYyW9dxLQHxUJLxKfl/mE69FtzIJNXUTJk4vHsuCCUU28Rp5BzgfsXmvxr3+Echf5EGbPY+rQcnoNOwVGSomo3GV+QfGVFApynaegLOiuK/j5QEt/ksHrnwdgc4yjVCw3yjwcpcjTP8fgwcMMbWoqRirUw3WI+Yb8egEykoTGwS10jqtvhtZ+xy00qlL80T8H/JREc5lU4lW2i9hygLpocGI4kKXUO8qPxVclF1qMhh3evFmqXaNQIeNrPmSPiQQBegxhHLkdT4Jrq+mLIZ82dbyJMreeEZKw3BK77CjCiSSBjw9goIUBm2qQnjwnfIrvtW3CMo5ZVwBiLutPQNe+1zG4wFMsN41WZDRtAoU57G9GxRJPDdMuDPnTNWTqg5NC8pWGFKJH+QyagPz8OaJeNFy7j7o/1AUL8h+UthD2FB1eEm10XOzPT9GGlFbjh61PJ/B5cAgxxPvGqLh7/sVLrd6pA==;JEVu/o0I+9CPhB2pANkSpQ=="
 ---

@@ -2,6 +2,152 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-01-machine-learning-to-make-sign-language-more-accessible.md",
+      "title": "Machine learning to make sign language more accessible",
+      "excerpt": "Google has spent over twenty years helping to make information accessible and useful in more than 150 languages. And our work is definitely not done, because the internet changes so quickly. About 15% of searches we see are entirely new every day. And when it comes to other types of information beyond",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/accessibility/ml-making-sign-language-more-accessible/",
+      "originalUrl": "https://blog.google/outreach-initiatives/accessibility/ml-making-sign-language-more-accessible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/9DoGwSqjhw3vBUB.max-1300x1300.png",
+          "width": 1215,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/accessibility/ml-making-sign-language-more-accessible/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/ml-making-sign-language-more-accessible/amp/",
+      "publishedDateTime": "2021-11-30T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech.md",
+      "title": "Artists criticise Spotify CEO Daniel Ek’s investment in AI defence tech",
+      "excerpt": "Spotify‘s CEO Daniel Ek’s investment in artificial intelligence defence technology has been met with backlash by artists and users on the streaming platform. Ek announced earlier this month, that he was investing 100million euros (£85.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nme.com/news/music/artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech-3107864",
+      "originalUrl": "https://www.nme.com/en_asia/news/music/artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech-3108279",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nme.com/wp-content/uploads/2021/11/2021_spotify_danielek_getty_2000x1270.jpg",
+          "width": 2000,
+          "height": 1270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nme.com/news/music/artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech-3107864?amp",
+      "cdnAmpWebUrl": "https://www-nme-com.cdn.ampproject.org/c/s/www.nme.com/news/music/artists-criticise-spotify-ceo-daniel-eks-investment-in-ai-defence-tech-3107864?amp",
+      "publishedDateTime": "2021-11-30T16:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NME",
+        "domain": "nme.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-koreas-p2p-lending-startup-peoplefund-gets-634m-series-c-led-by-bain-capital.md",
+      "title": "Korea’s P2P lending startup PeopleFund gets $63.4M Series C led by Bain Capital",
+      "excerpt": "South Korea-based peer-to-peer (P2P) lending platform PeopleFund announced today it has closed a $63.4 million (75.9 billion won) Series C round led by Bain Capital with participation from Goldman Sachs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/30/koreas-p2p-lending-startup-peoplefund-gets-63-4m-series-c-led-by-bain-capital/",
+      "originalUrl": "https://techcrunch.com/2021/11/30/koreas-p2p-lending-startup-peoplefund-gets-63-4m-series-c-led-by-bain-capital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB3_%E1%84%91%E1%85%B5%E1%84%91%E1%85%B3%E1%86%AF%E1%84%91%E1%85%A5%E1%86%AB%E1%84%83%E1%85%B3-%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%B2-%E1%84%89%E1%85%A1%E1%84%86%E1%85%AE%E1%84%89%E1%85%B5%E1%86%AF_%E1%84%8C%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%AF%E1%86%AB-%E1%84%92%E1%85%B2%E1%84%80%E1%85%A6-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB.jpeg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/30/koreas-p2p-lending-startup-peoplefund-gets-63-4m-series-c-led-by-bain-capital/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/koreas-p2p-lending-startup-peoplefund-gets-63-4m-series-c-led-by-bain-capital/amp/",
+      "publishedDateTime": "2021-11-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost.md",
       "title": "Qualcomm launches Snapdragon 8 Gen 1 mobile platform with AI, camera, security boost",
       "excerpt": "Qualcomm has announced Snapdragon 8 Gen 1 featuring improved camera capabilities, artificial intelligence (AI) applications, and security enhancements.  During the annual Qualcomm Snapdragon Tech Summit,",
@@ -407,7 +553,7 @@
       "originalUrl": "https://www.zdnet.com/article/aws-targets-auto-and-industrial-sectors-with-fleetwise-twinmaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -739,6 +885,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-01-ai-in-computer-vision-market-share-growth-trend-demand-top-players-opportunities-and-forecast-2027.md",
+      "title": "AI in Computer Vision Market Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast 2027",
+      "excerpt": "Global AI in computer vision Market to reach USD 64.59 billion by 2027. Global AI in computer vision Market is valued approximately USD 12.6 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 26.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-trend-demand-top-players-opportunities-and-forecast-2027-2021-11-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-trend-demand-top-players-opportunities-and-forecast-2027-2021-11-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-europes-ai-act-falls-far-short-on-protecting-fundamental-rights-civil-society-groups-warn.md",
       "title": "Europe’s AI Act falls far short on protecting fundamental rights, civil society groups warn",
       "excerpt": "Civil society has been poring over the detail of the European Commission’s proposal for a risk-based framework for regulating applications of artificial intelligence which was proposed by the EU’s executive back in April.",
@@ -841,7 +1039,7 @@
       "originalUrl": "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230?mod=business_featst_pos2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -944,7 +1142,7 @@
       "originalUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1028,192 +1226,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy.md",
-      "title": "How Artificial Intelligence And Machine Learning Are Transforming The Future Of Renewable Energy",
-      "excerpt": "All of these resources are tied up with the weather, which is something humans can’t control. Artificial intelligence has helped in overcoming this challenge because it is a reliable tool for forecasting the weather.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe21626fcd21bd2b717a302%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/",
-      "publishedDateTime": "2021-11-30T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "Microsoft AI",
-        "IBM AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad.md",
-      "title": "AI-based fintech firm BridgeWeave opens research lab in Hyderabad",
-      "excerpt": "BridgeWeave, a London headquartered fintech firm that offers retail investors an Artificial Intelligence (AI) constructed portfolio for investment, has opened a ‘lab’ to ‘experiment with cutting edge ideas’ in Hyderabad according to its Founder and Executive Chairman,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/todays-paper/m4m6g6/article37063817.ece/ALTERNATES/LANDSCAPE_615/bl19-hykvk-iiitGK793GH2G3jpgjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece/amp/",
-      "publishedDateTime": "2021-11-30T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-how-do-we-develop-ai-education-in-schools-a-panel-discussion.md",
-      "title": "How do we develop AI education in schools? A panel discussion",
-      "excerpt": "AI is a broad and rapidly developing field of technology. Our goal is to make sure all young people have the skills, knowledge, and confidence to use and create AI systems. So what should AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/",
-      "originalUrl": "https://www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.blogdot.tv/wp-content/uploads/2021/11/how-do-we-develop-ai-education-in-schools-a-panel-discussion.jpg",
-          "width": 500,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/amp/",
-      "cdnAmpWebUrl": "https://www-blogdot-tv.cdn.ampproject.org/c/s/www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/amp/",
-      "publishedDateTime": "2021-11-30T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "blogdot",
-        "domain": "blogdot.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-what-are-major-factors-driving-growth-of-deep-learning-market.md",
-      "title": "What are Major Factors Driving Growth of Deep Learning Market?",
-      "excerpt": "The increasing focus of the education sector on conversational learning owing to the rapid adoption of e learning and digital solutions is facilitating the deployment of artificial i AI technology in this sector In conversational learning content is presented as",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2479968/what-are-major-factors-driving-growth-of-deep-learning-market",
-      "originalUrl": "https://www.openpr.com/news/2479968/what-are-major-factors-driving-growth-of-deep-learning-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub30952293_g.jpg",
-          "width": 800,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2479968/what-are-major-factors-driving-growth-of-deep-learning-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2479968/what-are-major-factors-driving-growth-of-deep-learning-market",
-      "publishedDateTime": "2021-11-30T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-03-ai-data-solutions-key-elements-of-successful-ml-dataops.md",
+      "title": "AI Data Solutions: Key Elements of Successful ML DataOps",
+      "excerpt": "Merit CEO Radha Basu will explain the key elements for creating a successful ML data pipeline and why 2022 is shaping up to be the ‘Year of ML DataOps. Companies that integrate humans-in-the-loop strategies,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/video/ai-data-solutions-key-elements-of-successful-ml-dataops/",
+      "originalUrl": "https://techcrunch.com/video/ai-data-solutions-key-elements-of-successful-ml-dataops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2021-12/02/61a85d091164d76e87aeb0eb/61a85d309020dc2ff8198c61_o_U_v1.jpg?w=640&h=360",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T18:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-aws-bugbust-sets-the-guinness-world-record-for-the-largest-bug-fixing-challenge.md",
       "title": "AWS BugBust sets the Guinness World Record for the largest bug fixing challenge",
       "excerpt": "AWS BugBust is the first global bug-busting challenge for developers to eliminate 1 million software bugs and save $100 million in technical debt for their organizations. AWS BugBust allows you to create and manage private events that transform and gamify the process of finding and fixing bugs in your",
@@ -220,7 +272,7 @@
       "originalUrl": "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1066,6 +1118,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-02-can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks.md",
+      "title": "Can Intel-Powered, Evo-Certified Laptops Challenge Apple’s M1 MacBooks?",
+      "excerpt": "Another feature central to the new processors is Artificial Intelligence ... thanks to the hardware-based Intel Gaussian and Neural Network Accelerator 2.0, as well as Intel Iris Xe integrated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/12/02/can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks/",
+      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/12/02/can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619cb8d35251bb3caba8855d%2F0x0.jpg",
+          "width": 1200,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/12/02/can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/12/02/can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks/amp/",
+      "publishedDateTime": "2021-12-02T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-toronto-based-vfx-startup-marz-raises-53m-to-develop-ai-technology-solutions.md",
       "title": "Toronto-based VFX startup MARZ raises $5.3M to develop AI technology solutions",
       "excerpt": "Technology and visual effects startup Monsters Aliens Robots Zombies (MARZ) has raised $5.3 million in Series A funding. The investment was led by Round13 Captial with participation from Rhino Ventures and Harlo Equity Partners.",
@@ -1115,93 +1219,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-ambarella-booming-on-ai-based-chip-demand-strong-earnings.md",
-      "title": "Ambarella Booming on AI-based Chip Demand, Strong Earnings",
-      "excerpt": "Ambarella has recently experienced significant growth, fueled by rising demand for its artificial intelligence (AI)-based silicon products, particularly in the automotive and home security industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ambarella-booming-on-ai-based-chip-demand-strong-earnings",
-      "originalUrl": "https://www.nasdaq.com/articles/ambarella-booming-on-ai-based-chip-demand-strong-earnings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ambarella-booming-on-ai-based-chip-demand-strong-earnings?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-booming-on-ai-based-chip-demand-strong-earnings?amp",
-      "publishedDateTime": "2021-12-02T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-big-tech-wants-to-compete-with-banks-let-them-deal-with-ai-ethics-first.md",
-      "title": "Big tech wants to compete with banks? Let them deal with AI ethics first",
-      "excerpt": "As big tech moves into the world of finance, AI ethics will be one of its biggest challenges including bias and ensuring data privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-ethics-a-challenge-for-big-tech-finance",
-      "originalUrl": "https://thenextweb.com/news/ai-ethics-a-challenge-for-big-tech-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Farticle6.jpg&signature=f30c067509245f7800cef330b33a661b",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

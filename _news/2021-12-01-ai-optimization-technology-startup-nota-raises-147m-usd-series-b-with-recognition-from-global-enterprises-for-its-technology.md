@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-excerpt: "SEOUL, South Korea, Nov. 30, 2021 /PRNewswire/ -- Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was ..."
-publishedDateTime: 2021-12-01T03:45:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global/article_8d56ac87-fd29-530e-be70-858a99697cbb.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global/article_8d56ac87-fd29-530e-be70-858a99697cbb.html"
+excerpt: "Nota's NetsPresso is its proprietary hardware-aware AutoML platform that automates AI model development process only with datasets. NetsPresso significantly reduces time and resources that are ..."
+publishedDateTime: 2021-12-01T02:54:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-301434615.html"
+webUrl: "https://www.prnewswire.com/news-releases/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-301434615.html"
 type: article
 quality: 11
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/65/56589c66-3508-55a4-9074-5d6ade084b55/61a6db942facd.image.jpg"
-    width: 800
-    height: 314
+  - url: "https://mma.prnewswire.com/media/1698783/image_1.jpg?p=facebook"
+    width: 797
+    height: 419
     isCached: true
 
 related:
@@ -112,6 +112,6 @@ related:
         height: 697
         isCached: true
 
-secured: "s19zKn8WmPMEwUJMIqoydMjakxbGbiIVDOOB4WBC7ZtAv62N+hirp/2aL+XZvJl9qQaWghy+1e+EjvC1fjwV4T4bVi+Gmdl9HXzyLTj2oD8WfSPKICbhohaRBPfMQN+DjTSAi33uMl+fFUQ35/9e53dkp9KjXzZflqJcEdVia8tP/7KF9PiX9Ea9xNDcGU/lnDeglf0Tin2vpkwIxADSLhUWqsOqMqlcLd8LTNVp8Yq9Bxda4QA4IeSfkh2S+F3XNbduTv+7mTvMWysbDrpQKokXIKqYRBeOC9WCz7Hu3YsNRGVujVCPAq0FcYfsAsiggXSUWBr08lycCYd3JZtnFe3zsrA9/CoB6QpAdo1r0vA=;lpm8rpy6q+SQpU0YNGx3Sg=="
+secured: "bgGd/8NcuMuyxy2PcW9Bf1ODQc0glill4p6uHps8pT8+Tfw8R7ByJK7kM0aZB1E70tgb1f3R6TruVyqNG82R8kdubX7G07R2KENdPKosngKhP/mm7xuIwLkDrtAncZQZLK3WvUAhNIokRurUz6lCyDTEgRMeBokZdVHMMuGR2F8+63i0qQvpWNAuU5J7EDmOdI0K/VScplv5fgiXCzgjNGZcughhWUu1H/wTn707GGwZ30dTYnWyGZiHKx//5wRmkYHJa1BjV2uH4RskfR9eehCOGcPBQq1aYpEn1t/Tn5xOiW1GGYKrdm18hCIwphVxknOpSpRchpcTZONaBeYIcSdiunGlUxeyoOjz38NQ3UY=;S7bMR7KXY1X61WPh4WFiPQ=="
 ---
 

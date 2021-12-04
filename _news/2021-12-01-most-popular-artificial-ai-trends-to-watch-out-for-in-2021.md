@@ -7,7 +7,7 @@ originalUrl: "https://www.cioapplications.com/news/most-popular-artificial-ai-tr
 webUrl: "https://www.cioapplications.com/news/most-popular-artificial-ai-trends-to-watch-out-for-in-2021-nid-8825.html"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,29 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Insurance Market 2021 Research Strategies, Trend and Future Development Status, Forecast by 2027"
-    excerpt: "MarketandResearch.biz has deployed an intelligence report entitled Global Artificial Intelligence (AI) in Insurance Market Research Report 2021-2027 that is the complete creation of meticulous primary and secondary research."
-    publishedDateTime: 2021-12-02T00:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-2021-research-strategies-trend-and-future-development-status-forecast-by-2027-2021-12-01"
+  - title: "Top 5 Machine Learning Trends to Look Out For in 2021"
+    excerpt: "Almost everyone nowadays understands what machine learning is. Some of the most exciting machine learning trends in the coming years have the potential to completely transform our current social, industrial,"
+    publishedDateTime: 2021-11-30T06:36:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-5-machine-learning-trends-look-out-2021-aman-kumar-singh"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHsLCDevTNE8A/article-cover_image-shrink_720_1280/0/1638253987387?e=1643846400&v=beta&t=LjslJjTC4XTALQAIq2ppNOOgHyim8kSoaGmvOUKOPq8"
+        width: 1280
+        height: 669
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
-    publishedDateTime: 2021-12-03T12:21:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5127884-global-artificial-intelligence-ai-in-healthcare-market-research-report-2021-impact-of-covid-19-on-the-market.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 28
 
 secured: "KbwXaMF6YqazFFV8iHm6bUkCso+hZcAwj4LyeLTiGVemXN9qmf+iXMxk/V2nCwu2xR2nxC1okUWkUm2fr52e9F3NXFCeEAnI07NBeTHwT4U2tIB1gKFy+o+QhCYymGqBJkEx3V+0cv3sXO10dS8EQqM/wdO/aL9YGp/6kf7+tsxZgHb2h368QV6ktAgkcqMF0SN0XhXRw4cq08zDtdg4Of3AUAa81a/PEm+xUw7sfxczLSEeVWGupUsYS/D/c5m01RkM+n3dTexaon7Dj5PMTXdf2J+2NtxB3EUfLRvU2r0VqCaQH8POnp6Dn4u2+sFFRd5/YvPNgvv1zVNbwQ3aYxAWQSXa0dBv6ToNgZuszBQHjlC5iJs/Aqlw7afVVbvFyssK/JDaxwxatbZAP0udwIBseFXE9IWLBH0zMhzOZczPLUlEf/6HoTlLhUsybhYYlMvBbmFY2WmtD8HTgC4a1VjzmUEsabY4CuiAxTxXVoTSDrVeR+T/wYSes8lYCONYgMvGNqYocgWhmnK+JEGdgg==;ZUz8l9vtif//sAslub38Dg=="
 ---

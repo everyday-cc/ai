@@ -305,15 +305,6 @@ related:
         width: 3735
         height: 2514
         isCached: true
-  - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
-    publishedDateTime: 2021-12-01T18:34:00Z
-    webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 35
   - title: "The Future of Artificial Intelligence, Cloud Computing, and Digital Twins: Highlights from AWS re: Invent 2021"
     excerpt: "Invent celebrated its 10th year this year by welcoming visitors back to an in-person event, following last year’s fully virtual event. It also marked the 15th anniversary of the launch of Amazon Web Services itself."
     publishedDateTime: 2021-12-02T13:33:00Z
@@ -327,20 +318,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGRQphiMhqKKg/article-cover_image-shrink_720_1280/0/1638451226850?e=1643846400&v=beta&t=WVSAv4yvlhwKErf2gQf14QW4V6AK5UeRXOdLxHoLSrM"
         width: 1079
         height: 720
-        isCached: true
-  - title: "Advancements Series to Explore Recent Developments in Artificial Intelligence and Data"
-    excerpt: "Scheduled to broadcast Spring/2022, an upcoming episode of Advancements with Ted Danson will focus on developments in machine learning, artificial intelligence, and data optimization. This segment of Advancements will explore how a"
-    publishedDateTime: 2021-11-29T15:11:00Z
-    webUrl: "https://www.lelezard.com/en/news-20129709.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 31
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Adam Selipsky Keynote | re:Invent 2021 Recap"
     excerpt: "Topic Adam Selipsky, AWS CEO, takes the stage to share his insights and the latest news about AWS customers, products, and services. Observations Newbie, Adam Selipsky, gave us his first re:Invent keynote at this year's 10th-anniversary conference,"

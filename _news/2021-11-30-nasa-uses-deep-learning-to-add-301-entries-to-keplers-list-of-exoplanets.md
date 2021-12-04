@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.interestingengineering.com/nasa-uses-deep-learning-to-ad
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/nasa-uses-deep-learning-to-add-301-entries-to-keplers-list-of-exoplanets"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Interesting Engineering
@@ -43,6 +43,15 @@ related:
         width: 570
         height: 320
         isCached: true
+  - title: "Deep learning tool helps NASA discover 301 exoplanets"
+    excerpt: "NASA scientists used a neural network called ExoMiner to examine data from Kepler, increasing the total tally of confirmed exoplanets in the universe."
+    publishedDateTime: 2021-12-01T01:39:00Z
+    webUrl: "https://www.pbs.org/wgbh/nova/article/exominer-neural-network-kepler-exoplanet-discovery/"
+    type: article
+    provider:
+      name: PBS
+      domain: pbs.org
+    quality: 19
 
 secured: "KQCd6Xaorrssq5/47HWZa6MvQ5rvuIGWLORNVltOQxTyw/X/YEvzNIAz6zOKe4+rw+2pLF6RXACSK6rqSroNQDWJvn/DsPewwfOZ3XGy/UmDChSHOONjYBojl0bgquKpiw/6KrjwmJA/XhZ+OMG58apKRasV+U9ila45v/D27OY/ASJ1/dRVs5wVG5uv6gY1oPVn7lsdFLUnECsqP8S3lVKEY5ZUhZ+ZYTlTdA3uMxXCd6xErx4LyGwUqixLJi9FT3EM9FkWI8UADExAVUknjOhvofCb6oJ0Rv+QIAKhzB8lkcuZi48IRv0VgpPTnJMac2F5hUk5Nf3dKXP7SFp/AX7d7ntdoRIT0tQBleglyR0f4kJnzWM21XKfTi37Opxudx/Bp86WYv18/Mqr1BXzJS5ZhIhUQqi6UeO9CW5Fx3Jf8qBIhobQwcDY3GpZky59SZ0JZ/EwLq4eV2i9Dub9yRFFzMutdnEI/FNAnnLnII+8w3DUv+HDOlBdGqKkkYAVWfMdn5fvEzfsdEQ0nCsS4A==;n9OYbQHTLEfzdcnv8G+t/g=="
 ---

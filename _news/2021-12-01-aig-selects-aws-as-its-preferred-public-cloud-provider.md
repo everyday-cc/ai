@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
-    excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
-    publishedDateTime: 2021-11-30T13:03:00Z
-    webUrl: "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html"
+    excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, (NASDAQ: AMZN), announced that American International"
+    publishedDateTime: 2021-11-30T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aig-selects-aws-as-its-preferred-public-cloud-provider-2021-11-30"
     type: article
     provider:
-      name: The Valdosta Daily Times
-      domain: valdostadailytimes.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AWS Named United Airlines' Preferred Cloud Provider"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced that United Airlines has selected AWS as its preferred cloud provider. AWS will support United's digital innovation, providing machine learning,"
@@ -46,6 +46,34 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "AWS Announces AWS IoT FleetWise"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS IoT FleetWise, a new service that makes it easier and more cost-effective for automakers to collect,"
+    publishedDateTime: 2021-11-30T17:37:00Z
+    webUrl: "https://www.register-herald.com/region/aws-announces-aws-iot-fleetwise/article_92d3edfc-e376-5c27-bb15-49f5a44583cd.html"
+    type: article
+    provider:
+      name: The Register-Herald
+      domain: register-herald.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
+        width: 320
+        height: 300
+        isCached: true
+  - title: "AWS Announces AWS IoT TwinMaker"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS IoT TwinMaker, a new service that makes it faster and easier for developers to create digital twins of real-world systems like buildings,"
+    publishedDateTime: 2021-11-30T17:38:00Z
+    webUrl: "https://www.eagletribune.com/region/aws-announces-aws-iot-twinmaker/article_daf87a52-cb4e-57ab-a868-dff09aacecd1.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 39
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
         isCached: true
   - title: "AWS Named United Airlines Preferred Cloud Provider"
     excerpt: "(NASDAQ: AMZN), announced that United Airlines (NASDAQ: UAL) has selected AWS as its preferred cloud provider. AWS will support United’s digital innovation, providing machine learning, Internet of Things (IoT),"
@@ -78,6 +106,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 19
+  - title: "Meta picks AWS as long-term strategic cloud provider"
+    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-02T07:52:00Z
+    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
     quality: 19
   - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"

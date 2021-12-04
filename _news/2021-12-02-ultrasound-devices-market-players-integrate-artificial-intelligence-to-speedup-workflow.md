@@ -24,22 +24,6 @@ images:
     height: 1200
     isCached: true
 
-related:
-  - title: "Ultrasound Devices Market Players Integrate Artificial Intelligence To Speedup Workflow"
-    excerpt: "Ultrasound Devices Market – Opportunities And Strategies – Global Forecast To 2023 The Business Research Company's Ultrasound Devices Mar"
-    publishedDateTime: 2021-12-02T20:20:00Z
-    webUrl: "https://menafn.com/1103293713/Ultrasound-Devices-Market-Players-Integrate-Artificial-Intelligence-To-Speedup-Workflow"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/02/EP_703f0image_story.png"
-        width: 800
-        height: 2000
-        isCached: true
-
 secured: "g/KrO3Pta7JrbouAosLzcB5H2ZGT/ktabODd2hRiozOlx5ySwacm3HzWKFqyAQmeuHmzC2e2gfDOwHcnm2exZTjvOKaAVfvXOjha4s1sa3CN/AGhN3JbAyrAqaXoHKYRfeOHVqkSxCOHTGwZvD7i5E2MM1+YR7N+ChhJgRsEX7IvX51Hi1x/CWt+XkwQL9CIKWUTJKnxjsWH06hHI/QuZTewp043GcFi4TbxC8rY6xsQUddlMgIGAFfCTE0J3wkIqw0hQnwLfyWJxVNMCXmWMJ+2T1cy/Q/7wEfAOmS8IBZg5QLr9LDHcxZZWj3Utm0UJFfoBK5gFywEsdcNZMZpSTMhbroezfL+uMx7EOMLSxKjCPx767aY4PbyAYtSAEsq3PO1znOSOqtzxIZ319figTI5HhCH2GfJGgsp0KLUudIo0iydf52nMJKoFBOTj1a6VLTapIL3+sJtAe8mfi7445ALkxIuT0uRRy5s6sP1B5CwqtWqDxxUCEfsom0mPjOddxungs8LuhODyTpgmBX1pQ==;eIradG0hzTDWClZ3v4JjNQ=="
 ---
 
