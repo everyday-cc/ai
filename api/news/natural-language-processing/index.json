@@ -54,50 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-you-can-now-get-150000-if-you-let-a-robot-use-your-face-and-voice.md",
-      "title": "You can now get £150,000 if you let a robot use your face and voice",
-      "excerpt": "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "originalUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmhlci5pZVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMlxcXC8wMjEyMTYyNlxcXC9TdHVkaW8tUHJvamVjdC0yMDIxLTEyLTAyVDEyMTYwOC43MDYucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_aWQ9YjZmODRkNjI3YjQxMTRmMDBmNTBcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMmRjMjZjNzA0ZTc4YWE2N2QxMzkzMDY3NmEwODQzZDIxMzY1ZGYyYyJ9/studio-project-2021-12-02t121608-706.png",
-          "width": 647,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "cdnAmpWebUrl": "https://www-her-ie.cdn.ampproject.org/c/s/www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "publishedDateTime": "2021-12-02T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Her",
-        "domain": "www.her.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-12-01-announcing-support-for-extracting-data-from-identity-documents-using-amazon-textract.md",
       "title": "Announcing support for extracting data from identity documents using Amazon Textract",
       "excerpt": "Creating efficiencies in your business is at the top of your list. You want your employees to be more productive, have them focus on high impact tasks, or find ways to implement better processes to improve the outcomes to your customers. There are various ways to solve this problem, and more companies",
@@ -525,10 +481,10 @@
     {
       "path": "_news/2021-11-24-future-of-literary-translation-addressed-during-korea-times-award-ceremony.md",
       "title": "Future of literary translation addressed during Korea Times award ceremony",
-      "excerpt": "Participants in the 52nd Modern Korean Literature Translation Awards pose during a ceremony at the Lotte Hotel in central Seoul, Wednesday. From left are Korea Times President-Publisher Oh Young-jin;",
+      "excerpt": "\"In terms of translation accuracy, AI may be better than humans. But languages are complex and nuanced, and there are extra-linguistic factors such as context or emotional output that need to be taken into consideration. There's creative aspects of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html",
+      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw",
+      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -547,7 +503,7 @@
       "type": "article",
       "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395",
       "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395",
-      "publishedDateTime": "2021-11-23T23:45:00-08:00",
+      "publishedDateTime": "2021-11-23T23:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "koreatimes.co.kr",
@@ -1427,6 +1383,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-in-the-mena-region.md",
+      "title": "Amethis completes a minority investment in Tarjama, the leading language technology & services firm in the MENA region",
+      "excerpt": "Amethis, through its newly launched fund, Amethis MENA Fund II (AMF2), has completed its second transaction, acquiring a",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/n24114911/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-i",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/n24114911/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-i",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24114911",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24114911",
+      "publishedDateTime": "2021-11-15T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

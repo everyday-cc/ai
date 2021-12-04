@@ -27,10 +27,10 @@ images:
 related:
   - title: "Artificial Intelligence Is All the Rage. What You Need to Know."
     excerpt: "UBS calls artificial intelligence a top investment theme for the coming decade. But Eric Schmidt, who used to run Google, warns that investing in AI isn’t so easy."
-    publishedDateTime: 2021-12-04T01:50:00Z
-    webUrl: "https://www.barrons.com/articles/ai-stocks-investing-artificial-intelligence-51638579011"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ai-stocks-investing-artificial-intelligence-51638579011"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-stocks-investing-artificial-intelligence-51638579011"
+    publishedDateTime: 2021-12-04T04:51:00Z
+    webUrl: "https://www.barrons.com/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116"
+    ampWebUrl: "https://www.barrons.com/amp/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116"
     type: article
     provider:
       name: Barron's

@@ -217,22 +217,6 @@ related:
         width: 1199
         height: 675
         isCached: true
-  - title: "Face Recognition Technology Launched; 68 Lakh Central Govt, Crores Of EPFO Pensioners To Benefit"
-    excerpt: "In a bid to bring in ease of living for the retired and elderly citizens, the Union Minister of State (Independent Charge) Science & Technology Jitendra Singh on Monday launched unique Face Recognition Technology for pensioners."
-    publishedDateTime: 2021-11-29T11:36:00Z
-    webUrl: "https://odishatv.in/news/national/face-recognition-technology-launched-68-lakh-central-govt-crores-of-epfo-pensioners-to-benefit-165036"
-    ampWebUrl: "https://odishatv.in/news/national/face-recognition-technology-launched-68-lakh-central-govt-crores-of-epfo-pensioners-to-benefit-165036/amp"
-    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/national/face-recognition-technology-launched-68-lakh-central-govt-crores-of-epfo-pensioners-to-benefit-165036/amp"
-    type: article
-    provider:
-      name: Odisha TV
-      domain: odishatv.in
-    quality: 46
-    images:
-      - url: "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/IMAGE_1638185692.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Govt launches face recognition tech for pensioners"
     excerpt: "Minister of State for Personnel Jitendra Singh on Monday launched a \"unique\" face recognition technology that would act as a proof of life certificate' for pensioners and ensure ease of living for the retired and elderly citizens."
     publishedDateTime: 2021-11-29T17:38:00Z

@@ -51,7 +51,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 121
+    quality: 123
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aac36e7441210323e555ba%2F0x0.png"
         width: 769
@@ -335,15 +335,6 @@ related:
         width: 3735
         height: 2514
         isCached: true
-  - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
-    publishedDateTime: 2021-12-01T18:34:00Z
-    webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 35
   - title: "The Future of Artificial Intelligence, Cloud Computing, and Digital Twins: Highlights from AWS re: Invent 2021"
     excerpt: "Invent celebrated its 10th year this year by welcoming visitors back to an in-person event, following last year’s fully virtual event. It also marked the 15th anniversary of the launch of Amazon Web Services itself."
     publishedDateTime: 2021-12-02T13:33:00Z

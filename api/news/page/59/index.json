@@ -2,6 +2,49 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-10-19-facial-recognition-in-uk-schools-prompts-blowback.md",
+      "title": "Facial recognition in UK schools prompts blowback",
+      "excerpt": "Privacy campaigners slammed the British government's plan on Monday to use facial recognition on thousands of schoolchildren in Scotland, warning that Britain is veering away from the EU on basic principles of data protection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/",
+      "originalUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2021/10/18/GettyImages-1168367638-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/facial-recognition-cameras-in-uk-schools-raises-concerns-about-divergence-from-eu-rules/amp/",
+      "publishedDateTime": "2021-10-18T12:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-19-ai-ethics-maturity-model-a-company-guide.md",
       "title": "AI ethics maturity model: A company guide",
       "excerpt": "How to develop a maturity model for building an ethical and responsible AI practice. By Vala Afshar | October 18, 2021 | Topic: Artificial Intelligence According to the research by Kathy Baxter, principal architect for Salesforce's ethical AI practice,",
@@ -1110,48 +1153,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-18-why-the-world-needs-a-bill-of-rights-on-ai.md",
-      "title": "Why the world needs a Bill of Rights on AI",
-      "excerpt": "Soon after the US constitution was ratified, the Bill of Rights added specific guarantees on freedom of expression and assembly, and rights to fair trials — aiming to set limits on the powers of the government that had just been created.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
-      "originalUrl": "https://www.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4e10f64f-b5ce-47ed-a83f-7575e0fc2655.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
-      "publishedDateTime": "2021-10-18T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

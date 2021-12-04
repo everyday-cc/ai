@@ -2,6 +2,48 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-10-18-why-the-world-needs-a-bill-of-rights-on-ai.md",
+      "title": "Why the world needs a Bill of Rights on AI",
+      "excerpt": "Soon after the US constitution was ratified, the Bill of Rights added specific guarantees on freedom of expression and assembly, and rights to fair trials — aiming to set limits on the powers of the government that had just been created.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
+      "originalUrl": "https://www.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4e10f64f-b5ce-47ed-a83f-7575e0fc2655.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/17ca620c-4d76-4a2f-829a-27d8552ce719",
+      "publishedDateTime": "2021-10-18T02:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-18-all-new-computer-vision-technology-easily-expands-drive-thru-visibility-helps-reduce-drive-offs.md",
       "title": "All-New Computer Vision Technology Easily Expands Drive-Thru Visibility, Helps Reduce Drive-Offs",
       "excerpt": "HME Hospitality and Specialty Communications is excited to announce the launch of its all-new video detection, a breakthrough restaurant technology that seamlessly expands",
@@ -1088,49 +1130,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-10-17-the-tiniest-computer-vision-platform-just-got-better.md",
-      "title": "The Tiniest Computer Vision Platform Just Got Better",
-      "excerpt": "The future, if you believe the ad copy, is a world filled with cameras backed by intelligence, neural nets, and computer vision. Despite the hype, this may actually turn out to be true ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
-      "originalUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/09/openmvheader.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

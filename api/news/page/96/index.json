@@ -2,6 +2,49 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2021-09-22-artificial-intelligence-model-predicts-liver-cancer-prognosis.md",
+      "title": "Artificial Intelligence Model Predicts Liver Cancer Prognosis",
+      "excerpt": "Owkin and Cleveland Clinic researchers have developed artificial intelligence model that predicts the prognosis of liver cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-model-predicts-liver-cancer-prognosis-203439-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-model-predicts-liver-cancer-prognosis-203439-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/liver-cancer.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-model-predicts-liver-cancer-prognosis-203439-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-model-predicts-liver-cancer-prognosis-203439-1.htm",
+      "publishedDateTime": "2021-09-22T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-uk-announces-a-national-strategy-to-level-up-ai.md",
       "title": "UK announces a national strategy to ‘level up’ AI",
       "excerpt": "The UK government has announced a national AI strategy — its first dedicated package aimed at boosting the country’s capabilities in and around machine learning technologies over the longer term. It says it hopes the strategy will lead to an increase in the number and types of AIs",
@@ -1138,58 +1181,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-hai-robotics-picks-up-200m-for-its-warehouse-robot.md",
-      "title": "Hai Robotics picks up $200M for its warehouse robot",
-      "excerpt": "Hai Robotics, a Shenzhen, China-based warehouse robotics startup that develops autonomous, case-handling robotic (ACR) system, announced it has raised $200 million. The funding comes from two separate equity rounds,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/09/22/hai-robotics-picks-up-200m-for-its-warehouse-robot/",
-      "originalUrl": "https://techcrunch.com/2021/09/22/hai-robotics-picks-up-200m-for-its-warehouse-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/HAI-ROBOTICS-1.jpeg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/09/22/hai-robotics-picks-up-200m-for-its-warehouse-robot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/hai-robotics-picks-up-200m-for-its-warehouse-robot/amp/",
-      "publishedDateTime": "2021-09-22T01:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

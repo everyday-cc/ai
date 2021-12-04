@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recogni
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
 type: article
 quality: 73
-heat: 263
+heat: 253
 published: true
 
 provider:
@@ -202,22 +202,6 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2021-11/ba2281fc-9298-4b27-8a87-1142cb19dd48/FFXnI_mVUAE4s48.jfif?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1199
         height: 675
-        isCached: true
-  - title: "Face Recognition Technology Launched; 68 Lakh Central Govt, Crores Of EPFO Pensioners To Benefit"
-    excerpt: "In a bid to bring in ease of living for the retired and elderly citizens, the Union Minister of State (Independent Charge) Science & Technology Jitendra Singh on Monday launched unique Face Recognition Technology for pensioners."
-    publishedDateTime: 2021-11-29T11:36:00Z
-    webUrl: "https://odishatv.in/news/national/face-recognition-technology-launched-68-lakh-central-govt-crores-of-epfo-pensioners-to-benefit-165036"
-    ampWebUrl: "https://odishatv.in/news/national/face-recognition-technology-launched-68-lakh-central-govt-crores-of-epfo-pensioners-to-benefit-165036/amp"
-    cdnAmpWebUrl: "https://odishatv-in.cdn.ampproject.org/c/s/odishatv.in/news/national/face-recognition-technology-launched-68-lakh-central-govt-crores-of-epfo-pensioners-to-benefit-165036/amp"
-    type: article
-    provider:
-      name: Odisha TV
-      domain: odishatv.in
-    quality: 46
-    images:
-      - url: "https://images.odishatv.in/uploadimage/library/16_9/16_9_2/IMAGE_1638185692.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "Centre introduces unique face recognition technology for pensioners"
     excerpt: "The Central government on Monday introduced a unique face recognition technology for pensioners aimed at bringing ease of living for the retired and the elderly"

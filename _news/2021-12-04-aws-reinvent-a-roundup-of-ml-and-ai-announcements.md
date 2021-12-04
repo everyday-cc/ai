@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roun
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/amp/"
 type: article
-quality: 121
+quality: 123
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aac36e7441210323e555ba%2F0x0.png"
@@ -340,15 +341,6 @@ related:
         width: 1577
         height: 1050
         isCached: true
-  - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
-    publishedDateTime: 2021-12-01T18:34:00Z
-    webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 35
   - title: "The Future of Artificial Intelligence, Cloud Computing, and Digital Twins: Highlights from AWS re: Invent 2021"
     excerpt: "Invent celebrated its 10th year this year by welcoming visitors back to an in-person event, following last year’s fully virtual event. It also marked the 15th anniversary of the launch of Amazon Web Services itself."
     publishedDateTime: 2021-12-02T13:33:00Z
@@ -433,6 +425,6 @@ related:
       domain: publicnow.com
     quality: 4
 
-secured: "B734HluDWugmODaJBnuU+sWAzcC4QzQ/htgfsH/+PWYJssAgCr3lYBIyp4DdYF15Ej4MZdcqDqtqqk5HnFseFTYAx0/Mr0kxQLJkaTSeegR1O8VaKMEwL6PwOh+r5H8oDEw481fqFE92kSziIVXK3rviQBE3GL+VmaSepj2vFAfWU0bkaPBG2py9usLM1ma4ISYsjDK0/+sR1xfGoOWN37WuFN1/MgymzZOKnGVjMSPbTJXN/OUeQ9b0GR+NaJ6B3vn8BeWrwmpZKaWFxqmWOTIrwHYOsLD2LBeRpkgpb/B/AIYnCfP33zIDtWBM9jnio6ZOAUCDrtV7CiNbrbzQQ5UEShC9clzBAN1Eo9cIa1M=;3gzTyJyC6sUohpY4tQ4K2Q=="
+secured: "d2gjNS1mjJcbStMr78tXyvdiOszIONcSK7ojAkcxlGGyyodnZuIb1a8Tr9axA1Nmd0J3Q6O4xVj9F0AVVbBXEgdItczQBtN9y/q6buliHSqPka7bkV4itD7M/+eA5M2Jv3/fuB9hx/V9mu3JAzaamESdC+6izslueWPGirrzje0KyYlADlH68N6L2tcP6DEp8eMe8K7se2rlnDMKZ33jImNQT+sJuQo+fSRaqChT81ftE9oKW8aUHlnBOa8kAcozx+CzDmVAADvy3bBBBZBJa31wEoqFmh3Q7Stjbc0He2W5nPeGLQ7nS/PLrTCO7jokP5v6h9jDApCyfYzOU8cqVvtzvwcJU7a7qmFGlTKa0sFo4P6N8WRSjAZRNIq665/L1ngaHe4CJAf6ykmb5+nkKrZq0zibL6R1O2GceMb+54VjqVi/3OlnvRS/5GGsrrDa5DO/DiSSTaXVofL5Rm/cayldRNIklCCqwQm/PGTQkGnXFJBIEqWuEE1dpH2ijC4zuVvE5frYycR8a+HmtKXOng==;FNucFWqjtzZ4FwyiKxM6Wg=="
 ---
 

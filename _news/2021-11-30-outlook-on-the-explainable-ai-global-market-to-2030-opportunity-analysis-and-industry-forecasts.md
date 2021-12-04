@@ -60,22 +60,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Markets - Global Industry Analysis, Trends, Market Size, and Forecasts to 2027 - ResearchAndMarkets.com"
-    excerpt: "How to Find Winning Stocks with Omicron Variant Looming! CLICK TO WATCH! The \"Artificial Intelligence (AI) in Drug Discovery Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-11-29T11:26:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24327562/artificial-intelligence-ai-in-drug-discovery-markets-global-industry-analysis-trends-market-size-a"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24327562"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24327562"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "3D Printing Sourcing and Procurement Report Forecasts the Market to Have an Incremental Spend of USD 29.41 Billion | SpendEdge"
     excerpt: "During the forecast period, the 3D Printing industry will see an increase in spending of around USD 29.41 billion. However, the majority of this expansion will be driven by only a few regions. Furthermore,"
     publishedDateTime: 2021-12-01T18:40:00Z

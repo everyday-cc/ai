@@ -6,8 +6,8 @@
       "title": "Artificial Intelligence Is All the Rage. What You Need to Know.",
       "excerpt": "UBS calls artificial intelligence a top investment theme for the coming decade. But Eric Schmidt, who used to run Google, warns that investing in AI isn’t so easy.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/ai-stocks-investing-artificial-intelligence-51638579011",
-      "originalUrl": "https://www.barrons.com/articles/ai-stocks-investing-artificial-intelligence-51638579011",
+      "webUrl": "https://www.barrons.com/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116",
+      "originalUrl": "https://www.barrons.com/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116",
       "featuredContent": null,
       "highlight": null,
       "heat": 77,
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/ai-stocks-investing-artificial-intelligence-51638579011",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-stocks-investing-artificial-intelligence-51638579011",
-      "publishedDateTime": "2021-12-03T17:50:00-08:00",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/artificial-intelligence-is-a-hot-trend-but-investing-in-ai-isnt-as-easy-as-you-might-think-51638579116",
+      "publishedDateTime": "2021-12-03T20:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Barron's",
@@ -103,7 +103,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 415,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -945,6 +945,57 @@
       ]
     },
     {
+      "path": "_news/2021-12-03-south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems.md",
+      "title": "South African crowd-solving startup Zindi building a community of data scientists and using AI to solve real world problems",
+      "excerpt": "Zindi is all about using AI to solve real world problems for companies and individuals. And the South Africa-based crowd-solving startup has done that over the last three years they have been in existence.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
+      "originalUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Zindi-Team-in-Cape-Town-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/",
+      "publishedDateTime": "2021-12-02T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference.md",
       "title": "SKKU: FinTech Research & Education Center for Global Leaders in Financial Innovation holds “2021 Global AI Finance Research Conference”",
       "excerpt": "FinTech Research & Education Center for Global Leaders in Financial Innovation (Director: Prof. Kyo Jik Song) will hold the “2021 Global AI Finance Research Conference” at Sonocam Hotel in Yeosu from",
@@ -1142,59 +1193,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch.md",
-      "title": "Univ. of Washington deep learning researchers ‘hallucinate’ protein designs from scratch",
-      "excerpt": "New protein structures not seen in nature have emerged from deep learning software deployed by University of Washington researchers and their colleagues. The approach is a step toward building",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch/",
-      "originalUrl": "https://www.geekwire.com/2021/univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/12/hallucinated-protein-630x352.png",
-          "width": 630,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch/amp/",
-      "publishedDateTime": "2021-12-02T14:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-10-11-windows-11-voice-typing-how-to-configure-it.md",
-      "title": "Windows 11 Voice Typing: How to configure it",
-      "excerpt": "While testing it, I found its speech recognition near to perfect and pretty fast. So, if you do not want to take the hassle of writing things down using the keyboard on your Windows 11 system ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thespectrum.com/story/news/local/mesquite/2021/10/11/pc-periodicals-windows-11-voice-typing-how-configure/6088725001/",
-      "originalUrl": "https://www.thespectrum.com/story/news/local/mesquite/2021/10/11/pc-periodicals-windows-11-voice-typing-how-configure/6088725001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/10/05/USAT/53e029f8-196d-496b-9313-7f40afdbbaeb-Windows-11-PC-Devices.jpg?auto=webp&crop=971,547,x0,y10&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.thespectrum.com/amp/6088725001",
-      "cdnAmpWebUrl": "https://amp-thespectrum-com.cdn.ampproject.org/c/s/amp.thespectrum.com/amp/6088725001",
-      "publishedDateTime": "2021-10-11T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Spectrum",
-        "domain": "thespectrum.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-11-is-airbnb-safe-new-report-exposes-scams-bug-infestations-and-more.md",
       "title": "Is Airbnb Safe? New Report Exposes Scams, Bug Infestations And More",
       "excerpt": "According to a new report that analyzed Twitter complaints about Airbnb stays, a lot can go wrong on your vacation.",
@@ -1349,6 +1306,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-29-vice-president-calls-for-ai-solutions-in-agriculture-health-education.md",
+      "title": "Vice President calls for AI solutions in agriculture, health, education",
+      "excerpt": "Vice President M. Venkaiah Naidu on Tuesday called for tapping the potential of revolutionary technologies like Artificial Intelligence (AI) to delive..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-86606103,imgsize-21820,width-800,height-434,overlay-etcio/vice-president-calls-for-ai-solutions-in-agriculture-health-education.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/vice-president-calls-for-ai-solutions-in-agriculture-health-education/86606103",
+      "publishedDateTime": "2021-09-28T23:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Education"
       ]
     }
   ],

@@ -7,8 +7,8 @@ originalUrl: "https://www.lelezard.com/en/news-20132061.html"
 webUrl: "https://www.lelezard.com/en/news-20132061.html"
 type: article
 quality: 54
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Le Lézard
@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
-    excerpt: "AIG Selects AWS as Its Preferred Public Cloud Provider. Today, Amazon Web Services (News - Alert), Inc. (AWS), an Amazon.com, Inc. company, (NASDAQ: AMZN), announced that American"
-    publishedDateTime: 2021-11-30T15:45:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/30/9501584.htm"
+    excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
+    publishedDateTime: 2021-11-30T13:03:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 34
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 54
+    images:
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
+        isCached: true
   - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
     excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
     publishedDateTime: 2021-12-01T08:50:00Z
@@ -52,6 +57,20 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 34
+  - title: "Meta/Facebook turns to AWS as \"long-term strategic cloud provider\" for acquisitions, third-party collaborations, and AI"
+    excerpt: "Meta said that it will run third-party collaborations in AWS and use the cloud to support acquisitions of companies that are already powered by AWS. It will also use AWS’s compu"
+    publishedDateTime: 2021-12-03T11:41:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-turns-to-aws-as-long-term-strategic-cloud-provider-for-acquisitions-third-party-collaborations-and-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Mark_Zuckerberg_Gets_Meta.2e16d0ba.fill-1200x630.png"
+        width: 730
+        height: 383
+        isCached: true
   - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
     excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS's proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
     publishedDateTime: 2021-12-01T14:16:00Z

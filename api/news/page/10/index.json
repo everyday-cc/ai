@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-24-robotic-solution-to-aid-nuclear-decommissioning.md",
+      "title": "Robotic solution to aid nuclear decommissioning",
+      "excerpt": "An EPSRC-funded project led by Sussex University aims to develop a robotic solution to address nuclear decommissioning challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theengineer.co.uk/robotic-solution-to-aid-nuclear-decommissioning/",
+      "originalUrl": "https://www.theengineer.co.uk/robotic-solution-to-aid-nuclear-decommissioning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://theengineer.markallengroup.com/production/2021/11/shutterstock_1567223413.jpg",
+          "width": 940,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-24T00:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Engineer",
+        "domain": "theengineer.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-rws-wins-deal-to-provide-european-parliament-with-live-translation-and-transcription-service.md",
       "title": "RWS Wins Deal to Provide European Parliament With Live Translation and Transcription Service",
       "excerpt": "RWS, the world's leading provider of technology-enabled language, content management and intellectual property services, together with a consortium of partners, has won a highly competitive tender to provide real-time,",
@@ -47,10 +90,10 @@
     {
       "path": "_news/2021-11-24-future-of-literary-translation-addressed-during-korea-times-award-ceremony.md",
       "title": "Future of literary translation addressed during Korea Times award ceremony",
-      "excerpt": "Participants in the 52nd Modern Korean Literature Translation Awards pose during a ceremony at the Lotte Hotel in central Seoul, Wednesday. From left are Korea Times President-Publisher Oh Young-jin;",
+      "excerpt": "\"In terms of translation accuracy, AI may be better than humans. But languages are complex and nuanced, and there are extra-linguistic factors such as context or emotional output that need to be taken into consideration. There's creative aspects of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html",
+      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw",
+      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -69,7 +112,7 @@
       "type": "article",
       "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395",
       "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395",
-      "publishedDateTime": "2021-11-23T23:45:00-08:00",
+      "publishedDateTime": "2021-11-23T23:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "koreatimes.co.kr",
@@ -1080,58 +1123,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-microsofts-tutel-optimizes-mixture-of-experts-model-training.md",
-      "title": "Microsoft’s Tutel optimizes mixture of experts model training",
-      "excerpt": "Microsoft's Tutel library, now available in open source, optimizes the training of mixture of experts machine learning systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/",
-      "originalUrl": "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/23/microsofts-tutel-optimizes-mixture-of-experts-model-training/amp/",
-      "publishedDateTime": "2021-11-23T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

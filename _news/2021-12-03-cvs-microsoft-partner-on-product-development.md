@@ -100,24 +100,10 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 79
-  - title: "Hisar School and Microsoft Turkey deliver artificial intelligence education"
-    excerpt: "Turkish education provider Hisar School and Microsoft Turkey are providing students with education in artificial intelligence (AI). As part of this, students use Azure Stack Edge Pro to create an AI-based application that improves early diagnosis of Alzheimer's disease."
-    publishedDateTime: 2021-11-29T12:12:00Z
-    webUrl: "https://www.technologyrecord.com/Article/hisar-school-and-microsoft-turkey-deliver-artificial-intelligence-education-127299"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 69
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10619/img-Hisar-School_web.jpg"
-        width: 940
-        height: 443
-        isCached: true
   - title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
     excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
-    publishedDateTime: 2021-12-01T14:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+    publishedDateTime: 2021-12-01T09:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
     type: article
     provider:
       name: PR Newswire

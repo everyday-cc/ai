@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Innovations That Made Headlines In 2021"
-    excerpt: "As 2021 ends, we look back at the AI innovations and incidents that remained in the news this year AI has, by now, proven its power and impact. The artificial intelligence space is constantly evolving and improving with every passing day."
-    publishedDateTime: 2021-11-29T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/ai-innovations-that-made-headlines-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/incident.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Artificial intelligence innovation among retail industry companies rebounded in the last quarter"
     excerpt: "Research and innovation in artificial intelligence in the retail sector has rebounded in the last quarter. The most recent figures show that the number of AI patent applications in the industry stood at 111 in the three months ending September – down from 120 over the same period last year."
     publishedDateTime: 2021-12-02T12:08:00Z
@@ -79,20 +65,6 @@ related:
       - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/10/shutterstock_1097273573.jpg"
         width: 500
         height: 334
-        isCached: true
-  - title: "Artificial intelligence innovation among automotive industry companies has dropped off in the last year"
-    excerpt: "Research and innovation in artificial intelligence in the automotive manufacturing and supply sector has declined in the last year. The...Read"
-    publishedDateTime: 2021-11-29T12:33:00Z
-    webUrl: "https://www.just-auto.com/news/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-year/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 21
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_518160535.jpg"
-        width: 500
-        height: 273
         isCached: true
 
 secured: "xtpn3sgBVPsSQDsuYARvL1cnv9GOx6kjL8BYkGIRpFsz3pduTBj1tmTG5c7U0lWzqeMANRod6i6tTkoBxlmujZIkvKp+KQFhSugub2sNtybXBlw+ommqlJl+rp0CKZ0iRh92ZQRqrDSdRWXaY8dYYnef/z47uUfzhgqL1O/k+f9JxZyDXVkKBgOYJIPOrQzLustD3DCu280ioiRjgk8IqZeotnajOAF5V0D4WGuKY33vmPNKq3w+5H3ilnsRovzdh8GqmdbY3ePlUmvZyL7ZreVRdDSb/HjPyioNdm0RQneB8qbfsSiH9NBWgAmbkwTjx6CC81++HO6itqts83ufojKt2P0cmdxXPyOIyMo0rGTO9uNiPaSw8KvmUTVDnOmQfYytXo5gS/epEyxm90PYxWiTWXmj9YE31cnaKOUuu0MGgcoqA5pe2zNOiacxf5LnDaavJ9+3/Zn9E3AYrzxJMKo2JYT0ll1++ZG1yYDxDWI2S9Coy7NokIvfekurbWi79zmWn96G3SeQnon+DnJJ4g==;zQqb1GT2I3hM9YMGQS8+qA=="

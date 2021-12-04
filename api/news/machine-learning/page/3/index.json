@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-16-machine-learning-inference-at-scale-using-aws-serverless.md",
+      "title": "Machine learning inference at scale using AWS serverless",
+      "excerpt": "With the growing adoption of Machine Learning (ML) across industries, there is an increasing demand for faster and easier ways to run ML inference at scale. ML use cases, such as manufacturing defect detection, demand forecasting, fraud surveillance, and many others, involve tens or thousands of datasets,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-scale-using-aws-serverless/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-scale-using-aws-serverless/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/12/Picture1-1000x500-1.png",
+          "width": 1024,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T15:40:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-big-data-privacy-for-machine-learning-just-got-100-times-cheaper.md",
       "title": "Big data privacy for machine learning just got 100 times cheaper",
       "excerpt": "Rice University computer scientists have discovered an inexpensive way for tech companies to implement a rigorous form of personal data privacy when using or sharing large databases for machine learning.",
@@ -1345,59 +1398,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-expanding-our-ml-based-flood-forecasting.md",
-      "title": "Expanding our ML-based flood forecasting",
-      "excerpt": "In 2018 we began our flood forecasting initiative to help combat the catastrophic damage from floods each year by equipping those in harm’s way with accurate and detailed alerts. This work is a part of Google’s broader Crisis Response program which provides people access to trusted information and resources",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
-      "originalUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/inundation_modeling.max-1000x1000.png",
-          "width": 1000,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/expanding-our-ml-based-flood-forecasting/amp/",
-      "publishedDateTime": "2021-11-09T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
         "Machine Learning"
       ]
     }

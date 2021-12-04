@@ -97,15 +97,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Dr Jitendra launches unique ‘Face Recognition Technology’ for Pensioners"
-    excerpt: "Science & Technology; Minister of State (Independent Charge) Earth Sciences; MoS PMO, Personnel, Public Grievances, Pensions, Atomic Energy and Space, Dr Jitendra Singh today launched unique “Face Recognition Technology” for Pensioners and said,"
-    publishedDateTime: 2021-11-29T11:23:00Z
-    webUrl: "https://www.dailyexcelsior.com/dr-jitendra-launches-unique-face-recognition-technology-for-pensioners/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 18
   - title: "Jitendra Singh launches unique face recognition technology for pensioners, says it will bring ease of living for retired, elderly citizens"
     excerpt: "Union Minister of State Dr Jitendra Singh on Monday launched unique Face Recognition Technology for Pensioners and said that this will bring ease of living for the retired and the elderly citizens. Singh said,"
     publishedDateTime: 2021-11-30T14:18:00Z

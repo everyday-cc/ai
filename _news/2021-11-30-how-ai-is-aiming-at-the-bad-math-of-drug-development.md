@@ -100,20 +100,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "How AI Is Aiming at the Bad Math of Drug Development"
-    excerpt: "A new drug typically takes more than a decade to develop, at a cost of almost $3 billion. That’s because about 90% of experimental medicines fail during the various stages of chemical engineering, or during animal or human trials."
-    publishedDateTime: 2021-11-29T11:50:00Z
-    webUrl: "https://www.washingtonpost.com/business/how-ai-is-aiming-at-the-bad-math-of-drug-development/2021/11/29/effd4af8-5112-11ec-83d2-d9dab0e23b7e_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 56
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "3 Ways AI and Machine Learning Can Transform Public Agencies"
     excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
     publishedDateTime: 2021-11-29T20:00:00Z
@@ -185,20 +171,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Hyperfine Receives FDA Clearance for Deep Learning Portable MRI, Defining the Future of Life-Saving Diagnostics"
-    excerpt: "Inc., creator of the first FDA-cleared portable magnetic resonance imaging (MRI) device, Swoop®, today announced the FDA 510(k) clearance and launch of"
-    publishedDateTime: 2021-11-29T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/hyperfine-receives-fda-clearance-for-deep-learning-portable-mri-defining-the-future-of-life-saving/article_c8916b63-776e-55ff-a6d1-c62216764cdd.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/3b/23b63473-edae-522e-b0b6-21ebdfa611d3/6153786b3f1f2.image.jpg?crop=764%2C401%2C968%2C0&resize=764%2C401&order=crop%2Cresize"
-        width: 764
-        height: 401
         isCached: true
   - title: "Hyperfine Receives FDA Approval for Deep Learning Portable MRI, Ushering in the Future of Life-Saving Diagnostics"
     excerpt: "The world's first portable MRI uses deep learning to revolutionize imaging at the patient's bedside, enabling prompt diagnosis and"

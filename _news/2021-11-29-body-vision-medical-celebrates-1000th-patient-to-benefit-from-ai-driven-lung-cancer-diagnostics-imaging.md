@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20129301.html"
 webUrl: "https://www.lelezard.com/en/news-20129301.html"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
+    excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"
+    publishedDateTime: 2021-12-04T02:02:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 38
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "9IVkgSaoGy8dZcNw8K6XgPFwZcJZ8UKPAtPj5IBvFEnaLYceN80fEaQ6Z73IaxgqIEya056AbaXDOv/Yoy/otwMMfe141CtA8CMgWEOktmSEDKCLoQVZ4XqwTvxmIubnOsv4vIqSD8UMNIjhIKTpdJmY6GHRkSCTf4wcXv/VGoal9hU45Ld4GIBt5KtlBaYlBlULNPlLSDeZDLkTf2OlMNBGL2LXltgKp+Dd3uF9hQrk9UrvR2wWG+LlvjOGlIntDNUEJZbM7xdhbY3NyV9HrVuJN9bh+7AgsNZZM8EWMNXj1PXgbNDT6Mi98cpxtA+7sfus8foDvCtt516rSeTxU0mMbIT4wgz+KYfuaQwNSCk=;Y2Ub67SKnJ2BG1w//ocviA=="
 ---

@@ -38,20 +38,6 @@ related:
         width: 1920
         height: 1269
         isCached: true
-  - title: "AI Innovations That Made Headlines In 2021"
-    excerpt: "As 2021 ends, we look back at the AI innovations and incidents that remained in the news this year AI has, by now, proven its power and impact. The artificial intelligence space is constantly evolving and improving with every passing day."
-    publishedDateTime: 2021-11-29T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/ai-innovations-that-made-headlines-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/incident.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "How Do We Support Digital Transformation in the Fintech Industry?"
     excerpt: "The Fintech Industry has seen some exciting changes in the last few years. AI, voice recognition, SaaS cloud services, better online banking, increased security and protection… these are just some of the latest FinTech trends that prove that there's a lot of potential still to be reached."
     publishedDateTime: 2021-12-01T13:38:00Z
@@ -79,20 +65,6 @@ related:
       - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/10/shutterstock_1097273573.jpg"
         width: 500
         height: 334
-        isCached: true
-  - title: "Artificial intelligence innovation among automotive industry companies has dropped off in the last year"
-    excerpt: "Research and innovation in artificial intelligence in the automotive manufacturing and supply sector has declined in the last year. The...Read"
-    publishedDateTime: 2021-11-29T12:33:00Z
-    webUrl: "https://www.just-auto.com/news/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-year/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 21
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/10/shutterstock_518160535.jpg"
-        width: 500
-        height: 273
         isCached: true
 
 secured: "9lkRWpU4clj8yALi4PnNauuymtv5VF4VWEkKTpjrHw1aC8jMekFGoYCAIXMUVfxmPhte8Mn0mgqGiXSidJBEZ18MXh2Ix/YmZzlrsPMc+tZI/lVabkg0ZqVnzGFCmGZ6E+xkd2Jho35+mwGwJjVQmPmdCoeTA04R7PGsqXIe/27/F/uJuOjhS7pFENB7m3+4vhuYJS39gCrgGGgTjjD+Ct6PhEMBTLraa0M2YAZv/tm2UVj/6b/UBwp/Vn9DxqOJbvnX1VWGdfkQulH307iJK59+2gaTjcFdEpBVXyqsSISPLoGEZcXVO3STBla71pbWDuBALxHoAbTOMGO9Z50kE+3aa2EDDIlZHL5Pcku3M6VGTnopiOkolwDWgZKRNlLStti9w60SVZRazH//oUf1ElvZYSPiIHZ3EX8phOyCQ9GRK3fmqkCPh7Co7pA9N6B3d97Pr9wbBX8gH0KhDBp1S/qwy4gStgq5Jdnm0oTkEyt4OmQBUly42cyfKK2oD+b15+ufZHT/33QTaT3oc0GKlQ==;VgPPTzcbrMvR98e0cW8iyg=="

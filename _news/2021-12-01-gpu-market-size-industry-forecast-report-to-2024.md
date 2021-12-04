@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-market-size-industry
 webUrl: "https://www.marketwatch.com/press-release/gpu-market-size-industry-forecast-report-to-2024-2021-12-01"
 type: article
 quality: 69
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,22 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Markets - Global Industry Analysis, Trends, Market Size, and Forecasts to 2027 - ResearchAndMarkets.com"
-    excerpt: "How to Find Winning Stocks with Omicron Variant Looming! CLICK TO WATCH! The \"Artificial Intelligence (AI) in Drug Discovery Market: Global Industry Analysis, Trends, Market Size, and Forecasts up to 2027\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-11-29T11:26:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24327562/artificial-intelligence-ai-in-drug-discovery-markets-global-industry-analysis-trends-market-size-a"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24327562"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24327562"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "Outlook on the Explainable AI Global Market to 2030 - Opportunity Analysis and Industry Forecasts"
     excerpt: "The \"Explainable AI Market by Offering, by Deployment, by Technology, by End-use Industry, by Application - Global Opportunity Analysis and Industry Forecast, 2021-2030\" report has been added to ResearchAndMarkets."

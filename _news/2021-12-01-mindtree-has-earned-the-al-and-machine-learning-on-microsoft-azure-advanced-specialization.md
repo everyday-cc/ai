@@ -2,9 +2,9 @@
 category: news
 title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
 excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
-publishedDateTime: 2021-12-01T14:00:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+publishedDateTime: 2021-12-01T09:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
 type: article
 quality: 61
 heat: -1
@@ -101,20 +101,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 79
-  - title: "Hisar School and Microsoft Turkey deliver artificial intelligence education"
-    excerpt: "Turkish education provider Hisar School and Microsoft Turkey are providing students with education in artificial intelligence (AI). As part of this, students use Azure Stack Edge Pro to create an AI-based application that improves early diagnosis of Alzheimer's disease."
-    publishedDateTime: 2021-11-29T12:12:00Z
-    webUrl: "https://www.technologyrecord.com/Article/hisar-school-and-microsoft-turkey-deliver-artificial-intelligence-education-127299"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 69
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10619/img-Hisar-School_web.jpg"
-        width: 940
-        height: 443
-        isCached: true
   - title: "Taking Microsoft’s Azure Digital Twins to the next level in IoT"
     excerpt: "As countless IoT applications track live systems, real-time analytics plays an essential role in identifying problems or finding opportunities and then responding fast enough to make a difference. How can digital twins create leverage for implementing real-time analytics in IoT?"
     publishedDateTime: 2021-11-30T13:04:00Z
@@ -192,6 +178,6 @@ related:
         height: 600
         isCached: true
 
-secured: "qJCZO9l9FUoZGP5wQyDaNPdrkahxI3JxI97r7cbq+9w3/ocTeu6fQm5MQ/2iyorrzSrnlxTS1DO0DPF2w7TGgruPPc0J3EekUfWqjokDoLlSgXibh7XxILcCc0/kO17qZEqP66YRP7gYFK+ivQHdfzxpgaWVdk6CY+yriSEhasT68fDoG8Ems+BnNTY31urseJelvFHO5F6nfymsKOrLp14Q4EDdLEpGceSs3tODQCyuJ+U0ojQEPOxHq6rl9+qitOWkpwD2S/7WGBjLbDc/ODHaSXNCQg2Plqp7KtFA9P1UIL2M/vsZONXH00oVlZ7xSKTRvlJ6m7yz9hFqE6wIh5MEHPBOyJAp8asqlGAnJKe39BeW/dEj5olA1l4CvvZcW40YGKh2eXS41uInMtPeTrKeG7+4Hmzzb5cD1CptsqiSsez3mkrcO9wW6j10bcPrNESn4Aab1xA51f+4iJJ/e2zdXlKN6wShu0MjpiK4C0ght06u05mNgWJFcQuTgESDofvgrbFlrd1yCE63eUOJwg==;aaR/zekwxZCzEDJe+E+5Lw=="
+secured: "IB6fzNMqRwvo+dEAHkxIVy1JzK8Lz9v1AGOdeZ6Bq+svLuhVvPCU91n/OoO9qQNRWk0VOi6Jd5QhZb55/l263xEb9m8AbIGLs1iNY7FBURygrh7dAc1ibmq3Ls9qQMvlfdfRb/Iot459CA0wGGZhFKHek50Oke4MSV/+Ch8ocEsFfXi+toxGuxrKtXfqXiMkY/5k+O68bvbtwQbUs+UwBf1sl6XIi18K4v7AHxEAKZJ40stOKM3jXRJwMcqgkEHDpjVzHKxGBxm6sc3VikHsF8ZMgwtaMKf3Ed6ZBz2uwS6boRiWjlky2smAxqRjM9zQp6W8HTG+XuSkK878mpJRTcBBCNi2G19F43s6RGMWyK4=;Zw25YAut1C1MWA8X+DvTJw=="
 ---
 

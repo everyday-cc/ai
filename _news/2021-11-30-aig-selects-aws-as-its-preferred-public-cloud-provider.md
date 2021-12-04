@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
-excerpt: "AIG Selects AWS as Its Preferred Public Cloud Provider. Today, Amazon Web Services (News - Alert), Inc. (AWS), an Amazon.com, Inc. company, (NASDAQ: AMZN), announced that American"
-publishedDateTime: 2021-11-30T15:45:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/30/9501584.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2021/11/30/9501584.htm"
+excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
+publishedDateTime: 2021-11-30T13:03:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html"
 type: article
-quality: 34
-heat: -1
-published: false
+quality: 54
+heat: 124
+published: true
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+    width: 300
+    height: 250
+    isCached: true
 
 related:
   - title: "AWS Named United Airlines' Preferred Cloud Provider"
@@ -51,6 +57,20 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 34
+  - title: "Meta/Facebook turns to AWS as \"long-term strategic cloud provider\" for acquisitions, third-party collaborations, and AI"
+    excerpt: "Meta said that it will run third-party collaborations in AWS and use the cloud to support acquisitions of companies that are already powered by AWS. It will also use AWS’s compu"
+    publishedDateTime: 2021-12-03T11:41:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-turns-to-aws-as-long-term-strategic-cloud-provider-for-acquisitions-third-party-collaborations-and-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Mark_Zuckerberg_Gets_Meta.2e16d0ba.fill-1200x630.png"
+        width: 730
+        height: 383
+        isCached: true
   - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
     excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS's proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
     publishedDateTime: 2021-12-01T14:16:00Z
@@ -79,6 +99,6 @@ related:
       domain: businesswire.com
     quality: 19
 
-secured: "ePSZPB+fMb/uC5cbJa96iJWQ8dnMD2z8vtFku1ER+we1+HpqnYok1V1S+MU45PuV6DHTHQ98DQvl+hV1g+A9qGy6O7ocGP/KzTWxh8q8F6Y4Uu3O0wOzQ515R2FOG1tPSe3GrO54oDQy/qKIz0zJNkrTrNqSX878rj+pfKPAnkgr3pSdeHFirVYXz2WZWDlN97MqzRjCYm/T2zs5CB7qGl+6cYfwT5Z0LsXu8wsSqIqDKwoTjpJYsjG6fzN0xoB6v/dAanFeV2wtx8zNHxIsG4RK3cJqmdu1fpcVD1oSpq8IEsPBovTibvNBHJx/tk+oUjvNTIc65DjSr3h7QnuaS3B4JFszIpPn/zWlhKcQff0=;WZpr04U+DNwJy2kp2YfbIA=="
+secured: "7G5ZPa0rNcEf4g1I//cMxncdJtWhRilaBLi24tCOWvvKdbl7sO9Td75KlILchNyTbwp0ZE4A/dGYXLe8MIzsqAewswjlqH/prJA+kgjvy9ElQkQ8xQDx5Dw98VYi7zzfVCOLndQjoC2sJmjOAYj1dSjmkpC+WuXwLnrES5M1n7QlXXHU0/ycsF/b2+Jna2jvEMRrW003WRXFPWEqHXGG+i7Q5PlFINHCu/72P4SfKLmKvKMo1Rrg+RjNCNsiGSzktb0bZffs4m756xmioa/4G5kQF0lXbhpSNF92COVsW5yJnZb7eB9IwCxiEji5/oIgFCmeVWyXrwGaa6NcpNoNJfJLEPUGNcpUA5nCH7SyJpk=;dxdP278jHkf6zwYswc+iOw=="
 ---
 

@@ -24,6 +24,22 @@ images:
     height: 526
     isCached: true
 
+related:
+  - title: "How to Improve Robots' Social Skills for Interaction"
+    excerpt: "Researchers at MIT have created a simulated environment using computer modeling that can teach robots to better interact with each other and ultimately humans."
+    publishedDateTime: 2021-12-04T02:15:00Z
+    webUrl: "https://www.mddionline.com/robotics/how-improve-robots-social-skills-interaction"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/robotssocial.jpg"
+        width: 770
+        height: 400
+        isCached: true
+
 secured: "it2vvUYgpVM0H4phImG1K2xFtVP4bNTPMFTjkjJjati1FhClH1QqPaDr5JJLWXoMSe7P7a9JFBLXA34hf9E7JNxi/2U0iBU/bBUtji4tWUKfPPoiOm2HJN9jm0p8iCj5FwcqeRrIsUBdsElRMR/8hMW3EMAJXaQg/pTkgNe3Pc8KtEY0xixQGsR2Wv7RyZ6xhn59evg+rsdWly4pvioC8kBP2+Vyg1x3nWPMGxNLpa5s9SIxB3FZNNiHjw4gKxCRBMP2BAyoScH+jgnc3hUKo9+O6r1gcCsUfkvV5QSVR/AiHPCGV5A7yHrDywxwTaj+LvDMzZ7CErrJsQnq5xYu766HONatVwn7QeUM9MXycfptrCy4eE2XrrSX0P4CL6eErnfymIzwIjHyBgPNx5GbOWLrJc0TNHDDToCrDQKnHIJgQEXHINFDBKiEcuyD+lRTRk5USjgZxBHCSlsMjCrlyImWEg49xjEGS6A7nK5jmxSo06gtRFY5UpVm7vyvszVviUANQnTSVGvkZi3wF0tbIw==;Db0ZPQ18KXOU395shW8CmA=="
 ---
 

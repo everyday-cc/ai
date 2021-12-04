@@ -1,23 +1,29 @@
 ---
 category: news
 title: "African Leadership Group Leverages AWS to Power New Recruitment Platform for Hiring Diverse Top Talent"
-excerpt: "African Leadership Group's 'The Room'-Powered by AWS--will match at least 2 million young Africans--and several million more from other continents-- to global work opportunities by 2030 NAIROBI, Kenya,"
-publishedDateTime: 2021-12-01T20:34:00Z
-originalUrl: "https://cloud-computing.tmcnet.com/news/2021/12/01/9503027.htm"
-webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/01/9503027.htm"
+excerpt: "African Leadership Group (ALG) today announced a commitment to create a scalable solution for connecting highly skilled, diverse global talent to in-demand technical careers. ALG’s mission is to transform Africa by identifying,"
+publishedDateTime: 2021-12-01T19:01:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-africa-87be3211f7192fb18fdedd4d985401bb"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-africa-87be3211f7192fb18fdedd4d985401bb"
 type: article
-quality: 3
-heat: 3
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "ew6/KYAN5g2yFAzQlnykBjLPJRcwUlxh/JdqH2VpfwdVqYF9c2sPiURLuQmcM+740sOE1EounmQYHrfY8Wzw+3A2Y0OgKqohpIRh/JCsS9glnQuP6vVqwtEN9OReKOm18mhWhPgMhrhl+V5EW+qb7cOXAiI4g+dVpjhHk0YnEuz2odTBrMYJMY8X7Gpu56UMIEw6/ZAt94KCxICIH5nZp5sS+4j/nFUrjOmx2fVhqOnbKUaqTr851QXk86W1Q60ZmBDxVh4NwZLEd3RNb2519li8pQ3N7rFfHa+AMWt6pMiI7CyXHhifdNCC/UiqaD4Jl5yfXFijq2bnf2cO6xP+1r7Cezrpbs6slxy16hCq7Wc=;cD5IOQsAGgNL29IYNfRjKQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "z8pP0JmYcYdymaX2ImDAGTVuaGFJzsZM/rKOy4LATYUEIaWegV92hwuHxgWeqXsNll1Cbuu8YfziNV8lldoTf4BzdZ6NDzw90jvowsvTYxD+QgxMNMWgA8fPYkWzkRNqittQteUbq5Q2HLJaOlHty+pYCykySUqy43vWnqac1NDOwT2GiaKJgeHSO8jp/pj8hF6H0vcvd5+Fa9u7gR9gY6/YXalvNT8ZQJJR3HP6VlrPQBIMYikc7hCxtvod24XTsxqH0KxlyIsAOBpRy4TXfL6Sw9DmU/ZC65ztD+zlD9SU9Nr0I4jnzL4cmamZHIFrNjo0y/JtXOqohzRjUVZ8hSU6Lv1w2ifafZW7wKxB9Rs=;MWeoKpqg3S7uKHtP4zjc6g=="
 ---
 
