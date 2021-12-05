@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-30-nasa-uses-deep-learning-to-add-301-entries-to-keplers-list-of-exoplanets.md",
+      "title": "NASA Uses Deep Learning to Add 301 Entries to Kepler's List of Exoplanets",
+      "excerpt": "Searching for exoplanets is a daunting task in our vast universe. That's why NASA is looking at machine learning for a little help in the search.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/nasa-uses-deep-learning-to-add-301-entries-to-keplers-list-of-exoplanets",
+      "originalUrl": "https://interestingengineering.com/nasa-uses-deep-learning-to-add-301-entries-to-keplers-list-of-exoplanets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/LBGRADPnO2/sizes/nasa-uses-deep-learning-to-add-301-entries-to-keplers-long-list-of-exoplanets_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/nasa-uses-deep-learning-to-add-301-entries-to-keplers-list-of-exoplanets",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/nasa-uses-deep-learning-to-add-301-entries-to-keplers-list-of-exoplanets",
+      "publishedDateTime": "2021-11-30T02:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-the-good-the-bad-and-the-ugly-of-deep-learning-technology.md",
       "title": "The good, the bad and the ugly of deep learning technology",
       "excerpt": "The use of deep learning for social media and online content generation has gained equal parts attraction and concern in recent years. With a reputation as a cog in the fake news machine, deep learning has been a driving force behind political propaganda,",
@@ -1322,49 +1365,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-tools-tricks-and-learning-in-machine-learning-ft-aliaksei-mikhailiuk-ml-054.md",
-      "title": "Tools, Tricks, and Learning in Machine Learning ft. Aliaksei Mikhailiuk - ML 054",
-      "excerpt": "Aliaksei Mikhailiuk joins the Adventure to discuss the tools he wishes he'd mastered before getting his PhD in Machine Learning. However, the conversation meanders through his background, what qualifications people should have, algorithms, and approaches ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.audible.com/pd/Tools-Tricks-and-Learning-in-Machine-Learning-ft-Aliaksei-Mikhailiuk-ML-054-Podcast/B09M7C5SG5",
-      "originalUrl": "https://www.audible.com/pd/Tools-Tricks-and-Learning-in-Machine-Learning-ft-Aliaksei-Mikhailiuk-ML-054-Podcast/B09M7C5SG5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/51hS6VOUAML._SL500_.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Audible",
-        "domain": "audible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -43,6 +43,17 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "4 Top Fintech Stocks To Watch In December 2021"
+    excerpt: "Are These The Best Fintech Stocks To Buy Right Now? Fintech stocks have been one of the most lucrative sectors in the stock market this year. This should not come as a surprise as the sector continues to benefit from the shift to digital payments,"
+    publishedDateTime: 2021-12-05T15:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "6 Best Identity Theft Protection Services of December 2021"
     excerpt: "Identity theft protection services can provide the help you need if your data has been compromised. These services monitor your personal information, credit files and the web, alerting you to any suspicious or fraudulent activity."
     publishedDateTime: 2021-12-03T18:06:00Z

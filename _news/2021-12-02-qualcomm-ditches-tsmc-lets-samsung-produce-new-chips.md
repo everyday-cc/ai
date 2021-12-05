@@ -89,6 +89,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Chip shortage to ease next year, says Qualcomm chief executive"
+    excerpt: "Multiple smartphone makers could not procure enough processors from Qualcomm which affected their production, the report said. Samsung was no exception, as its mobile chief TM Roh and procurement executives visiting the US mid-year to meet with chip companies to secure more supply,"
+    publishedDateTime: 2021-12-05T18:00:00Z
+    webUrl: "https://www.iol.co.za/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 59
+    images:
+      - url: "https://image-prod.iol.co.za/resize/650x366/Amid-the-global-chip-shortage-Qualcomm-chief-executive-Cristiano-Amon-said-the-shortage-is-gradually-easing-and-the-situation-is-expected-to-improve-next-year-Photo-Mike-Blake?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/35939b5b-f57d-532b-ac89-826713250ff7&operation=CROP&offset=0x115&resize=789x444"
+        width: 650
+        height: 366
+        isCached: true
   - title: "Snapdragon 8 Gen 1: The first phones to use Qualcomm's new supercharged chip"
     excerpt: "We've just seen the Qualcomm 8 Gen 1 chipset get announced, and its touted camera, gaming, 5G and AI benefits certainly sound impressive. However, we won't know just how good this chip is until we get it in a real production phone."
     publishedDateTime: 2021-12-01T10:49:00Z

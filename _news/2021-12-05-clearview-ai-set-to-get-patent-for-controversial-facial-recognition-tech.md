@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
 type: article
 quality: 103
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/mfz2ujc21wxgkppg_1638456981.jpeg"
         width: 768
         height: 439
+        isCached: true
+  - title: "Clearview AI Wins Web-Scraping Facial Recognition Patent Triggering Big Brother Privacy Concerns"
+    excerpt: "The award of this patent and acceptance of the needs outlined within indicate that Clearview and the government are willing to open the door to numerous facial recognition implementations."
+    publishedDateTime: 2021-12-05T16:19:00Z
+    webUrl: "https://hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
+    ampWebUrl: "https://amp.hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 61
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56972/content/clearview-ai-facial-recognition-wins-patent.jpg"
+        width: 708
+        height: 472
         isCached: true
   - title: "facial recognition tech at airports"
     excerpt: "Trak.in is a popular Indian Business, Technology, Mobile & Startup blog featuring trending News, views and analytical take on Technology, Business, Finance, Telecom, Mobile, startups & Social Media Sp"

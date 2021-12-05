@@ -1,27 +1,29 @@
 ---
 category: news
-title: "facial recognition tech at airports"
-excerpt: "Trak.in is a popular Indian Business, Technology, Mobile & Startup blog featuring trending News, views and analytical take on Technology, Business, Finance, Telecom, Mobile, startups & Social Media Sp"
-publishedDateTime: 2021-12-03T06:06:00Z
-originalUrl: "https://trak.in/Tags/Business/facial-recognition-tech-at-airports/"
-webUrl: "https://trak.in/Tags/Business/facial-recognition-tech-at-airports/"
+title: "Clearview AI Wins Web-Scraping Facial Recognition Patent Triggering Big Brother Privacy Concerns"
+excerpt: "The award of this patent and acceptance of the needs outlined within indicate that Clearview and the government are willing to open the door to numerous facial recognition implementations."
+publishedDateTime: 2021-12-05T16:19:00Z
+originalUrl: "https://hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
+webUrl: "https://hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
+ampWebUrl: "https://amp.hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
+cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
 type: article
-quality: 54
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Trak.in - India Business Blog
-  domain: trak.in
+  name: HotHardware
+  domain: hothardware.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://trak.in/wp-content/uploads/2016/02/cropped-Favicon-Square-2016-2.gif"
-    width: 512
-    height: 512
+  - url: "https://images.hothardware.com/contentimages/newsitem/56972/content/clearview-ai-facial-recognition-wins-patent.jpg"
+    width: 708
+    height: 472
     isCached: true
 
 related:
@@ -89,21 +91,19 @@ related:
         width: 768
         height: 439
         isCached: true
-  - title: "Clearview AI Wins Web-Scraping Facial Recognition Patent Triggering Big Brother Privacy Concerns"
-    excerpt: "The award of this patent and acceptance of the needs outlined within indicate that Clearview and the government are willing to open the door to numerous facial recognition implementations."
-    publishedDateTime: 2021-12-05T16:19:00Z
-    webUrl: "https://hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
-    ampWebUrl: "https://amp.hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
+  - title: "facial recognition tech at airports"
+    excerpt: "Trak.in is a popular Indian Business, Technology, Mobile & Startup blog featuring trending News, views and analytical take on Technology, Business, Finance, Telecom, Mobile, startups & Social Media Sp"
+    publishedDateTime: 2021-12-03T06:06:00Z
+    webUrl: "https://trak.in/Tags/Business/facial-recognition-tech-at-airports/"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 61
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 54
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56972/content/clearview-ai-facial-recognition-wins-patent.jpg"
-        width: 708
-        height: 472
+      - url: "https://trak.in/wp-content/uploads/2016/02/cropped-Favicon-Square-2016-2.gif"
+        width: 512
+        height: 512
         isCached: true
   - title: "Clearview AI Facing £17 Million Fine From UK ICO Over Violation of Data Protection Laws"
     excerpt: "Clearview AI faces fresh legal trouble in the UK, where it may soon be fined for violation of the country's data protection laws and forced to delete any biometric data it has collected."
@@ -136,6 +136,6 @@ related:
         height: 630
         isCached: true
 
-secured: "uj+Nwvp3uQxWhSSXLEzpmWgrc9WcAFAgyDuxkOI7GqPDArh0xaqfgdd4hdd4j9HhmCMVQQVE4QOzxfw6MAREzV9nNkdGM1OqwLlWNdH5Xd/Z/37QTl/f4EGixGnvttCidwY0kwLHLHlp2ytAeM7sazsHjz3CCQnf24aTOVHJcFzqAs3yCb8Q8G5aANByuB6OUQ3b9dFS+0hbqKV4IZAjC0SAMmFUbshIS2ug1TmMz8snn3WB1GxcU5mnb9br3JPva+UNE1aXiqQbDHywoy1GpAU/TASVEKj2/LC62zdiiik254tNX3QwmcMzI6xM5S53xUGE+s8nkdnHPQcDYYV8Dve+N5y6xx6yYfBBPJI5G7w=;u250mWOtraIpvfpSJxV/DQ=="
+secured: "AQjQPgehGgi6LYBYEyHwRja4dHQt+usbOWj6VmAef0QNGntxjthRoso5YrApsp0in46u+PlMPBFGgl8XhtNuu0S1lRDyPomFm40QdQ6pNrTcL1QC3ebx48bYvOrV38Lu5kaHjtN8jwGHgEp3hq01v3ZjrzfGBkQJ1NMPGNRVMiQ/ogkdRl3UHH6beugjJLfjbKL1PlSnIVRY4emnRC14LFsHQmOBY3er+HtAK2/UGKwb4xAbADYTooW9g7Bjrs4I/e/DP1YpTlb5hQCIh0cNiQGBPL+YuT3teB9lSdCmyZqHmIdWOAmVFUEOEJQgm3opNsNgHndMHG8hUAPn7ES0gffRXEyUso21lkf9Q0jzRZI=;kF+LaUeCK24SmiaZNT0qpg=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-11-18-swishai-raises-13m-to-automate-it-service-desk-tasks.md",
+      "title": "Swish.ai raises $13M to automate IT service desk tasks",
+      "excerpt": "Swish, a startup developing a platform to automate IT service tasks using AI, has raised $13 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/",
+      "originalUrl": "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/",
+      "publishedDateTime": "2021-11-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out.md",
       "title": "Do AI-powered lending algorithms silently discriminate? This initiative aims to find out",
       "excerpt": "The first is that leaving a lending decision to an algorithm mitigates the bias that can come with human judgement. The second is that these algorithms have the power to spot good credit risks because they can suck in and process so much more data about an applicant than traditional formulas,",
@@ -1068,58 +1119,6 @@
         "Computer Vision",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware.md",
-      "title": "Cohere partners with Google Cloud to train large language models using dedicated hardware",
-      "excerpt": "AI startup Cohere has partnered with Google Cloud to train large language models on the company's dedicated hardware infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/",
-      "originalUrl": "https://venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/amp/",
-      "publishedDateTime": "2021-11-17T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

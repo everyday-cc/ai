@@ -53,6 +53,17 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "4 Top Fintech Stocks To Watch In December 2021"
+    excerpt: "Are These The Best Fintech Stocks To Buy Right Now? Fintech stocks have been one of the most lucrative sectors in the stock market this year. This should not come as a surprise as the sector continues to benefit from the shift to digital payments,"
+    publishedDateTime: 2021-12-05T15:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "Rc5Qhp0hnlBUAAJ7027dNQEcuDkrhClCWb9YkYc2PPQtIAI8Ul8MxJWxoWdxe3xKjjFu0APYcWIEqwqVsKTjK2rL6yGOJQEf0agMfufimzqA8pqbibEAPqOkicIprGYcESfepGtoI96+qK5unSpORP5NH/OMMyA+O9o+drkQw8qzpBO5FcBGqyDF0sttuY6ncj8T3wgUknV2ntJ4HFSSpYe4v5Sf1f3aDTAPy2+FRX27il5NF2pSnHiRSGNrby+hGItXNGgWq0W9wA+LBOEo/AN1VU0s8TQ3OaLbUsnICh6VouA2pYl7GVHc48QNfBDOnVG/NDjF8JCOiHHYWVNLHlGRHjWIH+kricd851WMBGG/AJB8KeVn1/M5n7C0ozmaXI+cU4gxV/8C1GaeGA4QN4EbYfVzAQEyYaotmBtDSFoBCE+Wwy0BUgt9K2wroGDyDx3zrmle9pxzirYGSMGi9csEo6y3wCZy4pTq1QJMT+gURH06kBk+BGLSgJ0IkRX/dt/X26wMvjpeAMJ/sTQ5ug==;4Gue2P0jYYNvEpgv/zKWYA=="
 ---

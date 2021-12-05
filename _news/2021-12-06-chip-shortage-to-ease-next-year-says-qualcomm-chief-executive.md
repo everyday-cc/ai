@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Qualcomm, Google Cloud join hands to create Next-Gen Mobile AI"
-excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
-publishedDateTime: 2021-12-01T05:33:00Z
-originalUrl: "https://ummid.com/news/2021/december/01.12.2021/qualcomm-google-cloud-join-hands-to-create-next-gen-mobile-ai.html"
-webUrl: "https://ummid.com/news/2021/december/01.12.2021/qualcomm-google-cloud-join-hands-to-create-next-gen-mobile-ai.html"
+title: "Chip shortage to ease next year, says Qualcomm chief executive"
+excerpt: "Multiple smartphone makers could not procure enough processors from Qualcomm which affected their production, the report said. Samsung was no exception, as its mobile chief TM Roh and procurement executives visiting the US mid-year to meet with chip companies to secure more supply,"
+publishedDateTime: 2021-12-05T18:00:00Z
+originalUrl: "https://www.iol.co.za/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206"
+webUrl: "https://www.iol.co.za/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206"
+ampWebUrl: "https://www.iol.co.za/amp/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206"
+cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Ummid
-  domain: ummid.com
+  name: IOL News
+  domain: iol.co.za
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://ummid.com/news/2021/december/01.12.2021/qualcomm-google.jpg"
-    width: 790
-    height: 530
+  - url: "https://image-prod.iol.co.za/resize/650x366/Amid-the-global-chip-shortage-Qualcomm-chief-executive-Cristiano-Amon-said-the-shortage-is-gradually-easing-and-the-situation-is-expected-to-improve-next-year-Photo-Mike-Blake?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/35939b5b-f57d-532b-ac89-826713250ff7&operation=CROP&offset=0x115&resize=789x444"
+    width: 650
+    height: 366
     isCached: true
 
 related:
@@ -103,22 +105,6 @@ related:
         width: 980
         height: 524
         isCached: true
-  - title: "Chip shortage to ease next year, says Qualcomm chief executive"
-    excerpt: "Multiple smartphone makers could not procure enough processors from Qualcomm which affected their production, the report said. Samsung was no exception, as its mobile chief TM Roh and procurement executives visiting the US mid-year to meet with chip companies to secure more supply,"
-    publishedDateTime: 2021-12-05T18:00:00Z
-    webUrl: "https://www.iol.co.za/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 59
-    images:
-      - url: "https://image-prod.iol.co.za/resize/650x366/Amid-the-global-chip-shortage-Qualcomm-chief-executive-Cristiano-Amon-said-the-shortage-is-gradually-easing-and-the-situation-is-expected-to-improve-next-year-Photo-Mike-Blake?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/35939b5b-f57d-532b-ac89-826713250ff7&operation=CROP&offset=0x115&resize=789x444"
-        width: 650
-        height: 366
-        isCached: true
   - title: "Snapdragon 8 Gen 1: The first phones to use Qualcomm's new supercharged chip"
     excerpt: "We've just seen the Qualcomm 8 Gen 1 chipset get announced, and its touted camera, gaming, 5G and AI benefits certainly sound impressive. However, we won't know just how good this chip is until we get it in a real production phone."
     publishedDateTime: 2021-12-01T10:49:00Z
@@ -164,6 +150,20 @@ related:
       - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
         width: 280
         height: 250
+        isCached: true
+  - title: "Qualcomm, Google Cloud join hands to create Next-Gen Mobile AI"
+    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
+    publishedDateTime: 2021-12-01T05:33:00Z
+    webUrl: "https://ummid.com/news/2021/december/01.12.2021/qualcomm-google-cloud-join-hands-to-create-next-gen-mobile-ai.html"
+    type: article
+    provider:
+      name: Ummid
+      domain: ummid.com
+    quality: 39
+    images:
+      - url: "https://ummid.com/news/2021/december/01.12.2021/qualcomm-google.jpg"
+        width: 790
+        height: 530
         isCached: true
   - title: "Qualcomm unveils its latest flagship Snapdragon chip"
     excerpt: "US mobile chip giant Qualcomm is so happy with its latest top-end SoC that it has even revamped the naming scheme."
@@ -255,6 +255,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "7VuEIbfJd2QV16DZYFy3XrKd5/WBS6Q0fpsIaKNI6TMXBdz5EQqGYeiMPciDaET2f6kgUUFQkmw7e8Rz+JgeAdRFHjzROvCQ0PSh3F0ROyF6aiv0MuaI5+J5Wkie4tibbPUJ6+tvAsovQCsPf07AksIUdQulPzNskDWA459drcjhmqKVPAwVRQedsis9hUGN1TJXsa5IMjPvGHp+UrAYDY9hyzsf9JgUaB+p4l7qkm31LkiRBD612K1XHtYS7LHM9y5c5hVNPrsk0XRZdg1vd/c2FgartxS4SBYZnCIpiBw4Iv7tMDHYYlxHXQWtOZAVrN/oT4+YhppjYWrXueO7mV4Qw55l+3V2qTm/4l7Ahnw=;KQfREnVwtHSd09TZeRm24A=="
+secured: "c+QIWu+IBGOPctLmILb6VSLeXJtrdOedxSYCJImRdpqov9Rm6B8ZTbR1SkqzSAaaRhRn5i8Xul0XJD7DQ6aLW9v52Iq2Y+79PilyzeUuIWoj74eoBjYXEC/JdOmV2pEvkFouzMed5HvPyZBfGS6EsHFkx8VA41iZAXZpxu1/zw7JPKBXqT3jjpHTLqs737A5NC1E/YgYHxfngVZETzo/H9JxE0SewT3JCSJJdrYFYLN7jRqbqLLxbvRXUgODmB5QQzOUiwnWxBY0nD3Nw7swsFyhlfFZlaruCI4/UseKzeZiL9iE7dvr+1CsY1QAkZurqq9gf41wEfPSTP0CYG95B9DGg1HqCk7EBkOxmGn20s4=;oEqzGxTNwC7/E+WG560oOQ=="
 ---
 

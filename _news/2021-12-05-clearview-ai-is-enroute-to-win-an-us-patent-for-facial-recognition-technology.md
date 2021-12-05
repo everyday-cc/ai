@@ -75,6 +75,22 @@ related:
         width: 768
         height: 439
         isCached: true
+  - title: "Clearview AI Wins Web-Scraping Facial Recognition Patent Triggering Big Brother Privacy Concerns"
+    excerpt: "The award of this patent and acceptance of the needs outlined within indicate that Clearview and the government are willing to open the door to numerous facial recognition implementations."
+    publishedDateTime: 2021-12-05T16:19:00Z
+    webUrl: "https://hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
+    ampWebUrl: "https://amp.hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 61
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/56972/content/clearview-ai-facial-recognition-wins-patent.jpg"
+        width: 708
+        height: 472
+        isCached: true
   - title: "facial recognition tech at airports"
     excerpt: "Trak.in is a popular Indian Business, Technology, Mobile & Startup blog featuring trending News, views and analytical take on Technology, Business, Finance, Telecom, Mobile, startups & Social Media Sp"
     publishedDateTime: 2021-12-03T06:06:00Z
@@ -120,6 +136,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3E8kevWW9wPaV28ABr5FPblpjede+qHun/sFLdmXEOfOOepVz7ardPF3wirs9any+q2QhRyJ4KQQDq/faD1mc+OtN0Z/oKPLZAm0Mhoz2R8WQ7mN3fcOiDzJb+byBEt/aGza91NBIUPGcFasjTfUDg5VZUJT5qtkcMBw1/M5hoYr97Zx0dOdLVN3EUEFGQLoUkDWgrCiDAV7Te1PipmOTGk+6Wco9xRRVO3rbPCzWxG5TVIOs9xcTVWMgdt17uOKHFcwdHbZj7/lKUJRAHhSAlCrakhqjpTZY7NuTJr2QJqR7Gaf0iPJuMnYx6jCX/HdgRn+iphdPo8ABF6DMkDuBDBx06f6aE5M52sc6TGKcAE=;0pNnBM+ZHcL5a27L3CBlAw=="
+secured: "Kl6Id0hV46XpmDcFGQDqGarCtundTRRHLYwZNPZ51KX+kPB0+Neyar9XtmJpTVO4udQO7Obq1EAHeFxbLy2uoBif9ToZIJrcuF1sV8xNoRv1Ra6y5vvaPf/NxAZxPPlPHk6y/h9THAu0f59alk7V1VlN8B5z3SFk2Evnt8U4rlpLUb3qxKi6LJLX0rUBd+k3rx02V3JB5hZpWRvcPrl2KG43DxHcezboecMwezO6gl7YsVLFAiTcosV38qmgtC4uP3lvD4LG+NQv3T8bneeHhGK3PbPNe+snWEc55/nw1sCZGr+k8DaaWUav/x6qg8H38Mb1KsbmyRazoPoFHD2Ui8wLhL7TSV5rxBVegGf828Eg+wFtIkF5bDqN4OFbuM3XUSlRPUVrXhtaMRPyRptlKmKRJk5xq5Uezo/K9bPol3KzpmIIGafYPuToMFh4dBz9FVcXv4oMWyaWFRjP88oDADCaxBFvtVetG52TWfk2VNj1YAu4pCgG1xgeDsirTqee35zw2Q2/gC15j2i9vfa2og==;R5pBPRApkbR8m8lKBhciwg=="
 ---
 
