@@ -7,7 +7,7 @@ originalUrl: "https://www.eventbrite.sg/e/4th-international-conference-on-roboti
 webUrl: "https://www.eventbrite.sg/e/4th-international-conference-on-robotics-and-computer-vision-icrcv-2022-tickets-218998599707"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:

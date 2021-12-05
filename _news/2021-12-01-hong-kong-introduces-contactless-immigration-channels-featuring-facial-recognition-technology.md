@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/hong-kong/transport/article/3157920/hong-k
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/hong-kong/transport/article/3157920/hong-kong-introduces-contactless-immigration-channels"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://x-default-stgec.uplynk.com/ausw/slices/f9c/45bf940c346f431c9be273b8942ab6eb/f9c346911ec54171a39166a39d302dd0/poster_a84395db2a4e4150ab8f0cdfc18b9575.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Facial recognition to debut at border checkpoints"
-    excerpt: "Hong Kong residents will be able to enter or leave the city by simply looking into a camera from Wednesday as the Immigration Department introduces facial recognition technology in the automated ..."
-    publishedDateTime: 2021-11-30T08:48:00Z
-    webUrl: "https://news.rthk.hk/rthk/en/component/k2/1622093-20211130.htm"
-    type: article
-    provider:
-      name: rthk
-      domain: rthk.hk
-    quality: 39
-    images:
-      - url: "https://newsstatic.rthk.hk/images/mfile_1622093_1_L_20211130164511.jpg"
-        width: 1280
-        height: 960
         isCached: true
   - title: "Self-driving buses start trial commercial operation in China's Chongqing"
     excerpt: "Three self-driving buses developed by Chinese tech giant Baidu have started trial commercial operation in southwest China Chongqin"

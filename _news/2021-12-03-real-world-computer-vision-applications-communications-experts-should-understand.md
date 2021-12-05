@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/amp/"
 type: article
 quality: 84
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://assets.dmagstatic.com/wp-content/uploads/2021/12/iStock-1164009670.jpg"
         width: 2121
         height: 1414
-        isCached: true
-  - title: "Face Verification 12 from Neurotechnology Extends Facial Authentication Capabilities to Web-Based Applications"
-    excerpt: "Neurotechnology, a provider of deep learning-based solutions and high-precision biometric identification technologies, today announced the release of the new Face Verification system. Face Verification 12 is designed for the integration of facial authentication and liveness detection into PC,"
-    publishedDateTime: 2021-11-30T08:04:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-web-applications-europe-762cf6ce0a6c2e7fdf86a3f5a868ca93"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "JPGW2SGPY1k5roh3RNTO2YXld+j6F9b2+EvRSiviOC1SIaLOf6SIctlD0VmBVCwkk6UMXR/CnYgfCfCLDHmFnHlRU5kprfQbgCM/sPJKp+HHmSXohI7kWJUr5kqiDX1mViwBFAMP2zEcVy/pNaZKjxhqH2xw67yDo0062/bdNQKZRYWbageKRocaFyGQtJQLIKgNkRfd4UkjNxJWBTtpXjTqJ2W5/U1zhz7TE8vHMxm+rp4weJWfn0TXPeMMM1M8Mt9HD4hqVp3a4/9agb4F6ew3rfFO2pyt6kx4A9Mqjy4FrLdkbez+oWE1pnj4HNtsjH5vTk0KOelHA63/AgY6dPmHFEA03kDwcuL/zjwa4smwugeiGVNAyn62rqNfpYDYM9v2xPf28zKCOoAJ3FlN1wQ8ZZ7OxdtnHo+sSyf3I87e9bXl19E/uhLfGVWBitFIn00MPzl8VT8fA3JxEVXj2cGgXLgBFefZUvY9i+o91HKB8JgIfyuNgq4tlo8IRQ2y3S1S44ngY93Af2cOaCGN2g==;mlVZqMVrxvInUCdol/AxPQ=="

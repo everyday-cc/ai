@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thin
 webUrl: "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AWS Supports Roche in Harnessing the Power of Health Data at Scale"
-    excerpt: "Roche uses AWS cloud capabilities to facilitate research collaboration, deliver new diagnostic technologies, and unlock insights from health data."
-    publishedDateTime: 2021-11-30T09:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211129005490/en/AWS-Supports-Roche-in-Harnessing-the-Power-of-Health-Data-at-Scale"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "C7QVlBqyg0I30i8were4igVsqQcma6IkzVvwn+uWceUhdNKRlzZN3KBKODrqDwzyOSu50wHXpEKe+lL49OJzKQdEBPdKLEobG6Zf0nw8fam7EFgMWNXkM1hpl5mEnnykVJNnlWXTCpkIFjGwd+VgS4s6y21OVAVtu669AUdWlJul/6QB2QtKmqB3dvjr+dRWcNiCOBZx3eQbDhXlYAkVlZAGMUmQCP0JUZ/+Nd0x1jScYI0BghJt9b/VTKOQ7vIPvKIqVkqEN6ycC+occ3rb8Ut875ofuyok8JypeTgi0aPPpX/d8Z1NWLsMS+7OkB76lC44Nanl2P4Tt8JQopz8S9ePf2ys5VLgWay0VCBdp0w=;+rAM7tyidaL2VDTcrScuDQ=="
 ---

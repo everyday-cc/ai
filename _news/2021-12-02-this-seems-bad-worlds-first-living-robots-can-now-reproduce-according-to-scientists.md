@@ -121,22 +121,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Xenobots: Scientists Build the First-Ever Living Robots That Can Reproduce"
-    excerpt: "AI-designed Xenobots reveal entirely new form of biological self-replication—promising for regenerative medicine. To persist, life must reproduce. Over billions of years, organisms have evolved many ways of replicating,"
-    publishedDateTime: 2021-11-30T08:40:00Z
-    webUrl: "https://scitechdaily.com/xenobots-scientists-build-the-first-ever-living-robots-that-can-reproduce/"
-    ampWebUrl: "https://scitechdaily.com/xenobots-scientists-build-the-first-ever-living-robots-that-can-reproduce/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/xenobots-scientists-build-the-first-ever-living-robots-that-can-reproduce/amp/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 57
-    images:
-      - url: "https://scitechdaily.com/images/AI-Designed-Xenobot-777x486.jpg"
-        width: 777
-        height: 486
-        isCached: true
   - title: "VIDEO: Living Robots Made From Frog Cells Can Now Self-Replicate, Scientists Say"
     excerpt: "By Martin M Barillas A team of scientists reports they have discovered a new form of biological reproduction and have applied it to create the world’s"
     publishedDateTime: 2021-12-01T12:49:00Z
@@ -320,15 +304,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Team builds first living robots that can reproduce (w/video)"
-    excerpt: "AI-designed Xenobots reveal entirely new form of biological self-replication - promising for regenerative medicine."
-    publishedDateTime: 2021-11-30T07:04:00Z
-    webUrl: "https://www.nanowerk.com/news2/robotics/newsid=59257.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 19
 
 secured: "o6sOIcJTTNWbqC5Oz8HyP1tLkSZEJGwyCxh8SZqjRGj0zCwEGXynhW/vYWpZojw64tg2MNPoMm4A6HlXFpYSaYlnrcYO9D9ROkQDZHBzIlu0gYr6f5Ot99gPAQtp77JZLxhvPR9kaXq5CZn2MaxUCmprscRfSImf2GlO077nTQHTqJ3AU/2OcKpDpNPtmvAX8VQyw7h41aIMbYa6wa4FjcLGXy11FJ/ARs8H6/UyA/GOwb+CZ8czoD3r53n0atSZ01CAkiSnLF5iIeGMHFuY5wWRZ3skrq+8M3acKULPId4h386drcuwT5aMxXXEGla7sVhgwA+CfSTZmC883gRqiHtLvB3vodIs2Zkf5WfwPOiSsuNMDPZRgpAEIboAr/mSuUUzppz/A6urWXvOZn6V2abH/CBB2NLB5HAWeEWsDq5zQpQOxRz5bSF7FlYpxKJha7kI4B9hiLGJvA5ABH8zaiT54UMC+ViDeNw6+ilHeRbN3n+zA6Wm2ryTy6RcSJ8d1SteT5Ws4TZpKqi4+b2ZCQ==;1KzZE4uPg6z8O3h32faasw=="
 ---

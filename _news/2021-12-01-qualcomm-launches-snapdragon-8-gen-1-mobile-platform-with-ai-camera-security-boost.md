@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomm-launches-snapdrago
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/"
 type: article
 quality: 99
-heat: 349
+heat: 339
 published: true
 
 provider:
@@ -371,15 +371,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "JiDU, Baidu and Qualcomm to build China’s first production vehicle powered by Gen4 Snapdragon Automotive Cockpit Platform"
-    excerpt: "Baidu, Inc., JiDU Automotive and Qualcomm Technologies, Inc. announced that JiDU’s first production vehicle will feature an intelligent digital cockpit system assisted by Baidu and Qualcomm Technologies."
-    publishedDateTime: 2021-11-30T08:06:00Z
-    webUrl: "https://www.greencarcongress.com/2021/11/20211130-jidu.html"
-    type: article
-    provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 0
 
 secured: "YZA9MraRXvxcn8/xf0tCFAqctiIwuezuqelkNf6SIUda2ZvKHz9NJisri7HufTf3iKa7SQ0EQlkA0ojka79/5hdqHBhXdyIKPLdkzn/eaqY1NjFEh6/lXH3GCGeegqRVy+/7cUIc00uVdYG8+hLCwOHB2gqj4oxgl9J9LwF2kf2SfmogkHKfpiPILpgiqqPV3ns4dLtObB/bbp4qRiLDK4tqW6mCRuNKdRgdtUZPUkJuHGE+A8dSEthfWjh2ox/Hob+6CJgyYB/9KOBW8VU9jDCqbV0508Lg1+h+dqMWqv28yAMU/XAWLTY0Vyu9dVWUMwTJKtAAaGJ1s8sgOLAiREffNWK2hBHgl/Hq1V4+5Ug=;jnyoQmQPg2YbYYkEyu6kmA=="
 ---

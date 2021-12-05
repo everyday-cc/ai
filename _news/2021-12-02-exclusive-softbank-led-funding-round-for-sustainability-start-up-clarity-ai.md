@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/markets/funds/exclusive-softbank-led-fundi
 webUrl: "https://www.reuters.com/markets/funds/exclusive-softbank-led-funding-round-sustainability-start-up-clarity-ai-2021-12-02/"
 type: article
 quality: 65
-heat: 75
+heat: 76
 published: true
 
 provider:

@@ -54,15 +54,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AWS Supports Roche in Harnessing the Power of Health Data at Scale"
-    excerpt: "Roche uses AWS cloud capabilities to facilitate research collaboration, deliver new diagnostic technologies, and unlock insights from health data."
-    publishedDateTime: 2021-11-30T09:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211129005490/en/AWS-Supports-Roche-in-Harnessing-the-Power-of-Health-Data-at-Scale"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "AeAUAkqMicmCfUAz/ygOO9355boM4sTGmwE1oTQ4kBeO8iwLuIYVv4UZ+ADbw9PrGwyP86h8Sm/qlzF/SBnA7uZS0kDfajK1ccWiwTMWZ2wQjvDeyr3FwEyaqG0dV7SH2VoLjL/YMHIIZRkYFTt0R9zmO7lLOUqxuY5WrLW4QM7qlVLYzbO6QU9UKFe+lyYl5QfUYMraEFBm9crvuDd/Q4gBX2kAAHEe6O8aO0p+QUWwFVHPxZ/U7lZZpnQpjubl4yDbtVDDqBCjkyFFeysv+seG4rbsuEfzh4wno0ARi/UeIsX8668jY1bqLbBg/MCD5sok3naqXQsojgHgQBEwcXgQmVOiH8zaCM5dVxwCI4w=;scMWtQKS558np6F+wLtK3g=="
 ---

@@ -69,6 +69,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
+    excerpt: "NetsPresso: Nota’s hardware-aware AutoML platform Nota's NetsPresso is its proprietary hardware-aware AutoML platform that automates AI model development process only with datasets. NetsPresso ..."
+    publishedDateTime: 2021-12-01T04:06:00Z
+    webUrl: "https://www.asiaone.com/business/ai-optimization-technology-startup-nota-raises-147m-usd-series-b-recognition-global"
+    ampWebUrl: "https://www.asiaone.com/business/ai-optimization-technology-startup-nota-raises-147m-usd-series-b-recognition-global?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-optimization-technology-startup-nota-raises-147m-usd-series-b-recognition-global?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 31
+    images:
+      - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+        width: 299
+        height: 300
+        isCached: true
   - title: "Neurotechnology extends face biometrics to include web service component"
     excerpt: "The facial authentication solution works on web applications for personal devices to serve different biometric authentication purposes."
     publishedDateTime: 2021-12-02T16:46:00Z
@@ -96,20 +112,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28173912/remote-biometric-onboarding-digital-identity-verification.png"
         width: 1173
         height: 697
-        isCached: true
-  - title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-    excerpt: "SEOUL, South Korea, Nov. 30, 2021 /PRNewswire/ -- Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was ..."
-    publishedDateTime: 2021-12-01T03:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global/article_8d56ac87-fd29-530e-be70-858a99697cbb.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 11
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/65/56589c66-3508-55a4-9074-5d6ade084b55/61a6db942facd.image.jpg"
-        width: 800
-        height: 314
         isCached: true
 
 secured: "L3nLKxgVsxl6SaZ8MmmFpVaQcg4EwDcNsijvpfkVcSFz1lvmWPdbHXDXUD47sC0h5F0JEFDZdAdGAhOKWG8Td8K1cT2CTOowJJkWVwPNfJwSfzEMmXdN4dKlNp4u3zJeOtuKOAOkZwOGGEDuZJhB/fzWNqmhj7Zda/kW0+wlP/uWucvy3gnGysBcE5TRDqQAEsHD68AeiWITOADe2eiYhSgxnQXx1xX/zxF4qbKeTyFbEpJMtvRl97J6UA7XzvItGmrCQt9QX3SmTQOjtiBNM8K/IabtIaoKd0LYSieKd91skv6eNS6hHSC66N2sUPQEk/HXlvT7UDbYMwnb33OKWzLkCTJcUB9dmQVd4xpg0sXlmjYir2E7VbV3t8nA+fjjd+oAAb7pqTEfEmbQ5BMEOWzJe5eoMN18d62iFBG/eP5EmcujrCRNDpBZS3TMQOQzzfGIazO6ZFsUZ75LNK4gPbwvlO8U6p6DmRkr7jLmIoKQ3oZPBrEgszOMzZHI4zmkIJEkAj/7W1Yx1lqRiG006A==;renvzHosBxcGluGiV7RPkA=="

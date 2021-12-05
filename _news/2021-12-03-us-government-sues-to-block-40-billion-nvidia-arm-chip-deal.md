@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.detroitnews.com/amp/8849542002"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8849542002"
 type: article
 quality: 59
-heat: 99
+heat: 100
 published: true
 
 provider:

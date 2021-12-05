@@ -1,27 +1,29 @@
 ---
 category: news
 title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-excerpt: "SEOUL, South Korea, Nov. 30, 2021 /PRNewswire/ -- Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was ..."
-publishedDateTime: 2021-12-01T03:45:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global/article_8d56ac87-fd29-530e-be70-858a99697cbb.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global/article_8d56ac87-fd29-530e-be70-858a99697cbb.html"
+excerpt: "NetsPresso: Nota’s hardware-aware AutoML platform Nota's NetsPresso is its proprietary hardware-aware AutoML platform that automates AI model development process only with datasets. NetsPresso ..."
+publishedDateTime: 2021-12-01T04:06:00Z
+originalUrl: "https://www.asiaone.com/business/ai-optimization-technology-startup-nota-raises-147m-usd-series-b-recognition-global"
+webUrl: "https://www.asiaone.com/business/ai-optimization-technology-startup-nota-raises-147m-usd-series-b-recognition-global"
+ampWebUrl: "https://www.asiaone.com/business/ai-optimization-technology-startup-nota-raises-147m-usd-series-b-recognition-global?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-optimization-technology-startup-nota-raises-147m-usd-series-b-recognition-global?amp"
 type: article
-quality: 11
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/65/56589c66-3508-55a4-9074-5d6ade084b55/61a6db942facd.image.jpg"
-    width: 800
-    height: 314
+  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
+    width: 299
+    height: 300
     isCached: true
 
 related:
@@ -112,6 +114,6 @@ related:
         height: 697
         isCached: true
 
-secured: "FqIJ3JyGnqsgCl4bduo9j+L4O3g+O8wDOCdJFdpcnZlp8rOPtmcqNkN7SDXM/qks+UaF+vYzpknS609c+FMlKMGvIo9I1TCBOHPllIM4hiYjm1f0kRqOLXStGbqbPkV/ub2w6rIDhvbQQB42Ci6GCuOr/3/I91dfqF7MPpQJwd5GCewON9DhRWbsnH8Pr+COyrCGR1xVsiNtAAVK0SsqiiszmIootolj8xIEhVALqZv2vBO70l5F0IMcC/Vnyi2fywisH+r54RRAK2i6pJ2HcX3UdUJbN8b+3xv6kXoZzXReDQVZHHNhxEAmTO1lCWA+dX7RxhJZHVvQV4FkySJh4AHOhetEFNYYriN/ClY18Aw=;HgP4j/ZCs3wZxFCgvg0hJQ=="
+secured: "P97NGe68Ul7shzrvfL+f4is/VG686ahx8lFV+S568HOYZFQUM3GPIeYKnJOGKJCsTGl4BnLZp1cLdgCzCe1HQOQ20/NIm7RzflkG0VavXZnlONnV4tZvsF5yqqtuKpvNswdTHVDilWxLHdBQclYv3JcQYlOVXk3HWeqOj+6svRGr+HnPl0QxhzjtkACNYc1EkZl9Z0anXZEV2JYWBxV7+OfTwrOZyrCRA51Hq0J6vIgOuJed9TKbt3NdKgHblMqR1Ae+rWAeoWc4/5LFwr9yIJLKc/wMxej98KSesgaujQjmi1vXKiB28bJHLtmQ10LFm20HySK2B7krQjA/ndnXOThfssuL1vyILofsTNppGSE=;Mfgc19AdxvfBV1V0dnuepQ=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/legal/litigation/ai-vigilantes-fuel-censor
 webUrl: "https://www.reuters.com/legal/litigation/ai-vigilantes-fuel-censorship-fears-russian-cyberspace-2021-11-30/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Reuters
@@ -26,24 +26,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "AI vigilantes fuel censorship fears in Russian cyberspace"
-    excerpt: "Russia has passed an array of legislation in recent years to boost what it calls its internet \"sovereignty\" and tighten control over"
-    publishedDateTime: 2021-11-30T08:47:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/ai-vigilantes-fuel-censorship-fears-in-russian-cyberspace/88002768"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/ai-vigilantes-fuel-censorship-fears-in-russian-cyberspace/88002768"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/ai-vigilantes-fuel-censorship-fears-in-russian-cyberspace/88002768"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88002768,imgsize-40556,width-1200,height-628,overlay-etcio/ai-vigilantes-fuel-censorship-fears-in-russian-cyberspace.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "HWBvCy0jk34bvPiAULuEXfu0V1Qh2jZ5+3kAs8tQ5ZJEkLvataC8TxA/d+SD8KsaBt0ZI9PUndD2V+pTNdf26WmFzPRfZcqYbCm4jK8T3/CdoBiIyGzX+GA4tT8kDaOPTo3HgGy9Ea6gaQXDb1H1vSF8sXdoPoyZ0x5PMmJkpkfc34JatciRLzprOliM/EisSYL8Bteg62rixFXBSSOlIUf1bXtZ9DJC/XhzgrDWA2CXyFe/hrjo/C/GKEpmDCVDuLoBEu28KGiYLX9/tG5a/d+YVDL5SknH2YFESvL4HaA2cmlFiWRON0W+CcFmv5ZrQlKAhj+WllCCPLxQJZ4kXo1pHLKnU2sHb0YizE2CfMO02PaK45fskufrzvGjpkLhzVV4NMy8soK3lVHGgx2ZIOmd+bIOT9I1synEfQjqDK2AS0lN9idsfOTQu5ACbYm6blO7iRYGR4WOzeuWdogCEfl/nYXP1gH+UYp0ZTPqMZ+n+5D6dwnAUS+rSCl1sHLl55tWmToTU+G8Blwpg/0/Yw==;zMD5iWwlhsgMs+KK/i72Ug=="
 ---

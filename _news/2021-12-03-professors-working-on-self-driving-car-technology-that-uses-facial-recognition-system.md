@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial recognition to debut at border checkpoints"
-    excerpt: "Hong Kong residents will be able to enter or leave the city by simply looking into a camera from Wednesday as the Immigration Department introduces facial recognition technology in the automated ..."
-    publishedDateTime: 2021-11-30T08:48:00Z
-    webUrl: "https://news.rthk.hk/rthk/en/component/k2/1622093-20211130.htm"
-    type: article
-    provider:
-      name: rthk
-      domain: rthk.hk
-    quality: 39
-    images:
-      - url: "https://newsstatic.rthk.hk/images/mfile_1622093_1_L_20211130164511.jpg"
-        width: 1280
-        height: 960
-        isCached: true
   - title: "Self-driving buses start trial commercial operation in China's Chongqing"
     excerpt: "Three self-driving buses developed by Chinese tech giant Baidu have started trial commercial operation in southwest China Chongqin"
     publishedDateTime: 2021-12-04T13:00:00Z

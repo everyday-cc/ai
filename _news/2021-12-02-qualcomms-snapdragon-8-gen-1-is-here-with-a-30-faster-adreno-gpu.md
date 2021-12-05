@@ -366,15 +366,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 19
-  - title: "JiDU, Baidu and Qualcomm to build China’s first production vehicle powered by Gen4 Snapdragon Automotive Cockpit Platform"
-    excerpt: "Baidu, Inc., JiDU Automotive and Qualcomm Technologies, Inc. announced that JiDU’s first production vehicle will feature an intelligent digital cockpit system assisted by Baidu and Qualcomm Technologies."
-    publishedDateTime: 2021-11-30T08:06:00Z
-    webUrl: "https://www.greencarcongress.com/2021/11/20211130-jidu.html"
-    type: article
-    provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 0
 
 secured: "tfs9L5H9P6bQnkDKQlw2ACfn73pUxRgUAmtlt4V4HAkcg5QPyzu2G/4vlyo1IrH/9+ZZdgaT1km3ax7d5yU7WG8veIfa67q7hlIEwiPwgCBO+cTNZ/OWfIECXdAb0yM5FxCixgbbRoUlxdBadYA0oJNp4kc+QxrCUH8i//jbX/DVw4RKkjW/EX4H+QcYjhJcJJ0/tLBCjPIuTpS2Wn4DD3e3ZbbMTFDY3srz87RB0vZR2GS4zmUQ6f6VUYoWt6d9rGnx4v8b7uhhP5IUGid7MZ+l9qJUUmlmINtC6JPMtqvXWGkNVStgLak+dV+4B+LHbk8xT1yOASW1WflqrXKNatiEXemJCeHxRjBYZQ8D22XQFqSzwUpV+sI8xBNR6Kx/6ky8fENYdiJHJOzwiuew5c/VzNrKwpjhPPI7d3qMmEXzBD881A22w/eg+WvdXKfT90lrO1bbGP9Ylt24aZIxdIjzfrkS5mRblU4pgWSOe7NOYPUAIDH2XWkyg7Q66sMOAaAsuBrmMBfM3r0seqND/Q==;i+gl4G3hl/P70VHyEJTm+w=="
 ---
