@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp"
 type: article
 quality: 91
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "The movement to hold AI accountable gains more steam"
+    excerpt: "Now, efforts are underway to better understand how AI works and hold users accountable. New York’s City Council last month adopted a law requiring audits of algorithms used by employers in hiring or promotion."
+    publishedDateTime: 2021-12-05T13:10:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/12/business-papers-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Bond needs more than Q in AI age"
     excerpt: "It sounds like an analogue James Bond needs more powerful weapons from gadget provider Q, but Moore said the way forward was “pursuing partnerships with the tech community to help develop world-class technologies to solve our biggest mission problems”."
     publishedDateTime: 2021-12-02T20:22:00Z

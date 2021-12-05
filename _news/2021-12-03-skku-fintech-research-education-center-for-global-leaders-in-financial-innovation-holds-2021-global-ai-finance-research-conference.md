@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/skku-fintech-research-education-cente
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lawmakers Warn FinTechs About Potential Bias Baked Into AI-Based Financial Tools"
-    excerpt: "A letter sent by lawmakers urged the heads of five U.S. agencies to take steps to ensure that AI and ML tools are “used in an ethical manner.\""
-    publishedDateTime: 2021-11-30T21:06:00Z
-    webUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/lawmakers-warn-fintechs-about-ai-based-financial-tools/"
-    ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/lawmakers-warn-fintechs-about-ai-based-financial-tools/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/lawmakers-warn-fintechs-about-ai-based-financial-tools/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 54
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/ai-tools-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Fintech enters into licensing agreement with digital mortgage platform"
     excerpt: "Marble Financial has announced that it has secured a licensing agreement that will pave the way for the integration of its Marble Connect service with digital mortgage platform WiiBid Solutions. Under this agreement,"
     publishedDateTime: 2021-12-02T08:12:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.chron.com/opinion/article/Connecticut-Money-Artificial
 webUrl: "https://www.chron.com/opinion/article/Connecticut-Money-Artificial-intelligence-and-16665402.php"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 2048
     height: 1365
     isCached: true
-
-related:
-  - title: "The new Snapdragon 8 Gen 1 is all about big cameras, fast connections, and AI"
-    excerpt: "There's no question that Qualcomm's Snapdragon 888 was a major step forward for smartphone performance, but it was far from a perfect chipset. Plenty of users and developers alike found the 888 running fast and hot,"
-    publishedDateTime: 2021-11-30T23:01:00Z
-    webUrl: "https://www.androidpolice.com/the-new-snapdragon-8-gen-1-is-all-about-big-cameras-fast-connections-and-ai/"
-    ampWebUrl: "https://www.androidpolice.com/the-new-snapdragon-8-gen-1-is-all-about-big-cameras-fast-connections-and-ai/amp/"
-    cdnAmpWebUrl: "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/the-new-snapdragon-8-gen-1-is-all-about-big-cameras-fast-connections-and-ai/amp/"
-    type: article
-    provider:
-      name: Android Police
-      domain: androidpolice.com
-    quality: 56
-    images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2021/11/snapdragon-8-gen-1-hero.jpg"
-        width: 2000
-        height: 1308
-        isCached: true
 
 secured: "c8K63U7OnlDCjqSkhmHZIna1yCr6pramIB7mWsr47U6MbY//QsTkrkBt79eeKtkpJJL7V3Xx4V6oJ+7xCzYLR4MOfQzkaR6gzBvtzNL2p95gg+eVjYKvZh3/0j8yBzFyHjGb5Tkd+f9HPbOZsGT+2gQLkqIe3TXJFDaabzVa2dJvnX4+dCrSQJxCcmLFvmQHuKzqJ4Hp37nZuqOos92RiHb6npeHx1iAvjQ6//OJXz/J2/9pz4DYNO+SQSj+91LbJORS829KIVTYwkGgLpzRfRQpjYBLf7SwKVr+iNJESR3PvX/dl4BPv++rlnty4uxwkbxF0Fom7qZYIPROuJXMKSj7xOpkMU8jXZB8YhitQChws9M66eDG3iQpQsuGpHmAQ+KbeeRkypCph97HC4rzfkqh0Tqm815VYRXyI6dyYf5pUh23u4x1GNjxooe5vwWpvKu8L4kk92XTUUVA+j2dGHb3fVM/QWyaDl94X62XX/SHblxGaH2yCC1ekuvH000oTOmfssDyZDaJyY0hfoy+Lg==;41I4HUh8bEqU28Pwi3u9kQ=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 640
         height: 361
         isCached: true
-  - title: "Lawmakers Warn FinTechs About Potential Bias Baked Into AI-Based Financial Tools"
-    excerpt: "A letter sent by lawmakers urged the heads of five U.S. agencies to take steps to ensure that AI and ML tools are “used in an ethical manner.\""
-    publishedDateTime: 2021-11-30T21:06:00Z
-    webUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/lawmakers-warn-fintechs-about-ai-based-financial-tools/"
-    ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/lawmakers-warn-fintechs-about-ai-based-financial-tools/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/lawmakers-warn-fintechs-about-ai-based-financial-tools/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 54
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/ai-tools-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Portugal Fintech Report: Top 30 Fintechs and First Unicorn"
     excerpt: "Portugal’s fintech industry had a fructuous year 2021 as it welcomed its first fintech startup unicorn and new regulatory development in the booming digital asset industry. Although the country is steadily rising as a startup hub in Europe,"
     publishedDateTime: 2021-12-03T05:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/r-i-labor-dept-aclu-collide-ov
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/r-i-labor-dept-aclu-collide-over-facial-recognition?_amp=true"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 840
     height: 438
     isCached: true
-
-related:
-  - title: "Is RI DLT Going to Use Facial Surveillance Technology in Unemployment Claims? ACLU Suing to Find Out"
-    excerpt: "The Rhode Island ACLU is suing the Department of Labor and Training -- over what they said is blocking information as it relates to the use of facial recognition software in unemployment claims."
-    publishedDateTime: 2021-11-30T21:15:00Z
-    webUrl: "https://www.golocalprov.com/news/is-ri-dlt-going-to-use-facial-surveillance-technology-in-unemployment-claim"
-    type: article
-    provider:
-      name: GoLocalProv
-      domain: golocalprov.com
-    quality: 24
-    images:
-      - url: "https://www.golocalprov.com/cache/images/remote/https_s3.amazonaws.com/media.golocalprov.com/News/Facial_recognition_Flickr_Mike_MacKenzie.png"
-        width: 990
-        height: 790
-        isCached: true
 
 secured: "hfK3BPWJ9TQIoTGbbpo7Gqg85OiWHfxACdj74MQ8UT+VCpu5UwIeGtHXJw8nGDih85QH1LjBBufH/b3W0bSIJakAygnhRr+Dq3qdXCaIkOydBg4X1Ft/1G1sF6glv0U2ioCmRydCO00yxdLGUkh+TSca//FTC1MuWDFkfbO1CgGpwx0+sF+DL4+VAQEfqhoSEeFFJviIXukrl9l5IUEuAX8qhXoS5A4WIoj2QbwRfoT2WO8mQTT7Vmiz8S8wgZSYtDGtoKuyrgMyNHmD3Cau2VuQLfcNWrhLhbsoBscTcOQdCiUG8xKS8VaFT7gv7OOYxbGIQ2jPKGHYzDpaLGZpr8YIIvA+HDBN8Hvphe3+L1TFe2pFueSgyGvhlbbDO8SAWFDU4XDKlvR/iznC54AXKtjTbPsWfwirxHmejCbPgDILwWMDaB8403jGJeVKhdzDNlks8FHO+ssCEi5Q1hDWeHI3mkw8LL9W6KTpfrbnknAMvs7I7BH144Ci9Wj/BdXM/JmULZBZiqfO+3WTXkvC1w==;/WcWL3BygFNXkVwqkbwfuQ=="
 ---

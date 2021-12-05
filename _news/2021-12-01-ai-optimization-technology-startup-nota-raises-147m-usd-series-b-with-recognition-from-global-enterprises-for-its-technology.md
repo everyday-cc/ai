@@ -1,28 +1,25 @@
 ---
 category: news
 title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-excerpt: "Nota's NetsPresso is its proprietary hardware-aware AutoML platform that automates AI model development process only with datasets. NetsPresso significantly reduces time and resources that are ..."
-publishedDateTime: 2021-12-01T02:54:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-301434615.html"
-webUrl: "https://www.prnewswire.com/news-releases/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-301434615.html"
+excerpt: "Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was finalized last month, a year after the series A funding of USD 6."
+publishedDateTime: 2021-12-01T03:05:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
+webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
 type: article
-quality: 11
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1698783/image_1.jpg?p=facebook"
-    width: 797
-    height: 419
-    isCached: true
 
 related:
   - title: "Nota raises $14.7M to adapt biometrics, AI models for edge applications"
@@ -38,20 +35,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28113737/shutterstock_1924263860-scaled.jpg"
         width: 2048
         height: 1366
-        isCached: true
-  - title: "Legal Cases and Privacy Rulings Aim to Curtail Facial Biometrics"
-    excerpt: "Decisions in the UK and Australia, and lawsuits in the United States, could force facial-recognition providers to remove data from their machine-learning models."
-    publishedDateTime: 2021-11-30T23:00:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities-threats/legal-cases-and-privacy-policies-threaten-use-of-facial-biometrics"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc5cb08894c1db841/61a6a1e261a2a97c7a4fa228/FacialBiometrics_EyeEm_Alamy.jpeg"
-        width: 656
-        height: 656
         isCached: true
   - title: "What's Your Hot Take on Biometrics? Add Your Voice to the FindBiometrics Year in Review Survey"
     excerpt: "FindBiometrics, the internet's leading resource for news, interviews and thought leadership in biometrics and digital identity, has launched the 19th Annual FindBiometrics Year in Review Survey, sponsored by NEC,"
@@ -112,6 +95,6 @@ related:
         height: 697
         isCached: true
 
-secured: "zWUY46kmGi3uxfjNS5/UW7021C/MuzbjUg9ClCgbpnx2Veah23/Sx4Dtw+o6krNpADUfRqHKvt6Tm5lnTcN/Qb0YRgY8fPPbDftqaDbVzUzI54sS9kdxJX3nm/puqM2jWlnCeaHK73gM+tLg1KlxxCdzldLcYEqJHQOMF0/NmRtBIPTjGjafTp4anUgdw8Mgr6ExZvoJSRqd4PPYK/rpCumiszzaOnJmBEciLaFa280POgKt6ydBqoZo5vnDDJR1HOx/pWWIQqSVWT9OfrkywehMpGk7p9mRilJB9wbp/RtX4nGY7DCo7/jy2SxQUBJLP8nGcw/Os24WG3mnKe7abja9SIfqlb/yHOjc2DhUlhE=;CzQZ1JyYbeddFNp3h/8uXg=="
+secured: "wxo2Db8FzzxDfToX32GVzoTTRbudbGuaFDJH+l/Al+hVS5068Mt7HzsAauoR15DnkS74Z80stBCEcqzS1UwseGepvyRJNJqNERkzLOzCT6/xwlUFrHNNpHkflId+V8PIdwGuyuskYB1xlIouMc9eHrHeg5rh371Yi5w0ZsLgqKvlJGSZ6xjEvgU6nNIPZKIGQZTgV2X01oon/O3sQibYmx+5wLOpBTqKICR0za01U7Hok7zaszyvvxlorqyGsv2o7MMTmdqjzhjcVthoE5rdL3KmaSCb5ZF+5wZVZpCK/SQtIVjvvnlqmyib4bR0Y+Mtax6jX4+udIAVQVu65L8Tw5YIz9hX2ev2Ysbs0pkv/JGZRoX2OLoPp3YsQvhTNJjV4kwKNCSicVtQE71VRco6rFTXk8g7PuE0tmgCIx0W3bKBsl05XVKrMMXFkjArIZmD1S1BudvlHAStfYoTdhnIC5EM/YvahOgCW3PzqpJJrkeAL21XLOxPNCg2A+iC3ckAKQe1wT4qCs38H5jgWyPuKg==;ePl7Ea6qY4bbY4sDPtQslA=="
 ---
 

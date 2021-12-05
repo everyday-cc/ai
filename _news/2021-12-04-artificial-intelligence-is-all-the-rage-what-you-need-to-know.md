@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/ai-stocks-investing-artificial-
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-stocks-investing-artificial-intelligence-51638579011"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Snapdragon 8 Gen 1: All you need to know about the new smartphone chip"
-    excerpt: "Qualcomm has revealed its next flagship chip, the Snapdragon 8 Gen 1. Here are all the main upgrades it will be giving future smartphones."
-    publishedDateTime: 2021-11-30T22:01:00Z
-    webUrl: "https://www.trustedreviews.com/news/snapdragon-8-gen-1-specs-features-benchmarks-4185549"
-    type: article
-    provider:
-      name: Trusted Reviews
-      domain: trustedreviews.com
-    quality: 39
-    images:
-      - url: "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/11/Snapdragon-8-Gen-1-Reference-Design_Indoor-1-scaled.jpg"
-        width: 2560
-        height: 1742
-        isCached: true
 
 secured: "FTGg5C+CSHpIRe5e26Lya0JzK/q87oPYObqSgb8Oj0u9gEj92iVXjTGtL73eLDhOaReu1G4sDGShF++9PQ0zDfZbADOa8ziC5vsL5USdrK8VlEzW7tgX24Sa+eMIhAJsxZub91riKeud02JGYLje393+eff9/E+uQMR9HJ6DEJBoOWN4n7xc5mDLtTbFKMiAOS2KzpzZzfpta2gLy+mJczz7MkynHdB/H+tx7gqywr6gTh/+sscomqyBcV22eIqGhKzbjV5U4LbltyuMR9sE+2lotdcqMi2VLTJHSA0cZHRJYaCn8MUjuYJI1zPpCqC/7iSQms+VMhdBrUVf6jf9XkivyS0yUsyDeUcacPmhQT2xQoTGY2dlUsvbNBIcib73ohqhfjGEsucs0wECr1GsKakdRB2EkU2axM2vIlLPsxJ2pyOT8oQF0sLqE2j/48uP06zo7b5kC9TlbG724lpFKejEwl8uvGnNKVj8vtEP0AvDsWFlaEM+t8926LHU8C7FRejIDJqNg1pbByQbh+JlhA==;CRUbnCbNM5bs6oXjFlOI5w=="
 ---

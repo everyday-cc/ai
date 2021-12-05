@@ -39,20 +39,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Legal Cases and Privacy Rulings Aim to Curtail Facial Biometrics"
-    excerpt: "Decisions in the UK and Australia, and lawsuits in the United States, could force facial-recognition providers to remove data from their machine-learning models."
-    publishedDateTime: 2021-11-30T23:00:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities-threats/legal-cases-and-privacy-policies-threaten-use-of-facial-biometrics"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc5cb08894c1db841/61a6a1e261a2a97c7a4fa228/FacialBiometrics_EyeEm_Alamy.jpeg"
-        width: 656
-        height: 656
-        isCached: true
   - title: "What's Your Hot Take on Biometrics? Add Your Voice to the FindBiometrics Year in Review Survey"
     excerpt: "FindBiometrics, the internet's leading resource for news, interviews and thought leadership in biometrics and digital identity, has launched the 19th Annual FindBiometrics Year in Review Survey, sponsored by NEC,"
     publishedDateTime: 2021-12-02T20:00:00Z
@@ -98,19 +84,14 @@ related:
         height: 600
         isCached: true
   - title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-    excerpt: "Nota's NetsPresso is its proprietary hardware-aware AutoML platform that automates AI model development process only with datasets. NetsPresso significantly reduces time and resources that are ..."
-    publishedDateTime: 2021-12-01T02:54:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-301434615.html"
+    excerpt: "Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was finalized last month, a year after the series A funding of USD 6."
+    publishedDateTime: 2021-12-01T03:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/1698783/image_1.jpg?p=facebook"
-        width: 797
-        height: 419
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 19
 
 secured: "qauFZ5JNl/W3CNV6m0RSBIdXs3nyrhKlSwpaRX+G+TBY6Z0QqKCZBjj77nCa+ep1XxfyFvXbGMHpfrTmdHltVX3ix2GnPEld7YpCPfuNedGioPTIUwS+cHuZnzlDyzgJ1DMUzrKUkbloToPBrwScYW2uU2FciRUyp5fg3E/jn2ajGcCPs0nAlSOnFUJWpGEZ1aVwDNTdJWq8SFrGVI6BmXCILlU0hKQofoGnkbZLSse2QyjYFTGsBwjGznTZ9Z2QuTM7N1Cggpc82uRmUyFodd4WXojxX6v11jKKPfibJjh65k9Vp5bf3ryOroDbxsB5diHpbFeuIXKNqtbgK1gtsS5aEx8i80OdqR9uhzNlTwuTdeD8UKFHg+KGIU/LhoMSaq0RcjTLakTtsYNFvLR3hdUHM3HNWGx7ybPlxuDAslUprY85sppxdFNSZAQXb210/t56FsbhLDA4tg11QCtPrfzISea9m3q9bujOnnIBweNk5TZBT+OelS9FFUVIaJ4OTvgLjtYLGTyWJN3sfFzMaw==;ph1gxaPJw2Xn+2glE06Eeg=="
 ---

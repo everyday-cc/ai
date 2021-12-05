@@ -102,6 +102,20 @@ related:
         width: 812
         height: 400
         isCached: true
+  - title: "AWS Re:Invent Wrap-Up: Social Issues, Networking Focus, Partner Revenue"
+    excerpt: "Ever the fierce competitor, AWS unveiled plenty of new initiatives in its annual event, and even evinced a budding social awareness."
+    publishedDateTime: 2021-12-05T14:36:00Z
+    webUrl: "https://www.eweek.com/cloud/aws-reinvent-wrap-up/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/cloud-technology.jpeg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "AWS unveils new Graviton and machine learning chips at re:Invent"
     excerpt: "Invent gets underway once again, AWS has kicked things off with its next-gen Graviton processor and a new Trainium AI chip."
     publishedDateTime: 2021-12-01T12:28:00Z
@@ -115,20 +129,6 @@ related:
       - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/12/brian-kostiuk-S4jSvcHYcOs-unsplash-scaled.jpg"
         width: 2560
         height: 1704
-        isCached: true
-  - title: "AWS Rocks with New Analytics, AI Services at re:Invent"
-    excerpt: "With classic rock tunes playing, Adam Selipsky took the stage for his first re:Invent keynote as the new CEO of AWS, the $60-billion cloud juggernaut that"
-    publishedDateTime: 2021-11-30T21:11:00Z
-    webUrl: "https://www.datanami.com/2021/11/30/aws-rocks-with-new-analytics-ai-services-at-reinvent/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/11/selipsky_aws.png"
-        width: 1475
-        height: 1051
         isCached: true
   - title: "The Future Of Cloud-Based Machine Learning: Highlights from AWS re:Invent 2021"
     excerpt: "Swami Sivasubramanian is credited with starting a revolution in the IT industry. His innovation was to take the artificial intelligence (AI) and deep learning services that had been so effective for A"
@@ -157,20 +157,6 @@ related:
       - url: "https://i1.wp.com/channelbuzz.ca/wp-content/uploads/2021/12/AWS-Reinvent-2021.png?fit=680%2C298&#038;ssl=1"
         width: 680
         height: 298
-        isCached: true
-  - title: "Adam Selipsky charts his own path as CEO in first AWS re:Invent keynote"
-    excerpt: "Selipsky announced general availability for Amazon SageMaker Canvas, a no-code solution targeted for an audience with little machine learning experience. “We’re focused on building out all the ..."
-    publishedDateTime: 2021-11-30T21:07:00Z
-    webUrl: "https://siliconangle.com/2021/11/30/adam-selipsky-charts-path-ceo-first-aws-reinvent-keynote/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/selipskyreinvent2021-2.jpg"
-        width: 3735
-        height: 2514
         isCached: true
   - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."

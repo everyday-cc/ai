@@ -43,22 +43,6 @@ related:
         width: 620
         height: 310
         isCached: true
-  - title: "Scientists use AI to design self-replicating xenobots from frog cells"
-    excerpt: "Last year, a team of scientists announced the development of “living robots,” a new type of organism made using cells harvested from frog embryos. That same team is back with an update"
-    publishedDateTime: 2021-11-30T22:44:00Z
-    webUrl: "https://www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/"
-    ampWebUrl: "https://www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/scientists-use-ai-to-design-self-replicating-xenobots-from-frog-cells-30700838/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/xenobots-harvard-study-self-replicating.jpg"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Robots made from living cells learned how to replicate themselves"
     excerpt: "Xenobots, which are \"living robots\" made of frog cells, are simple robots that can move autonomously in a petri dish. When scientists added more cells to the dish, the xenobots pushed them together to form new xenobots."
     publishedDateTime: 2021-12-03T22:11:00Z

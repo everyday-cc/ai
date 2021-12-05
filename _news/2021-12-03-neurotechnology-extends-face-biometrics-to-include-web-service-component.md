@@ -39,20 +39,6 @@ related:
         width: 2048
         height: 1366
         isCached: true
-  - title: "Legal Cases and Privacy Rulings Aim to Curtail Facial Biometrics"
-    excerpt: "Decisions in the UK and Australia, and lawsuits in the United States, could force facial-recognition providers to remove data from their machine-learning models."
-    publishedDateTime: 2021-11-30T23:00:00Z
-    webUrl: "https://www.darkreading.com/vulnerabilities-threats/legal-cases-and-privacy-policies-threaten-use-of-facial-biometrics"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltc5cb08894c1db841/61a6a1e261a2a97c7a4fa228/FacialBiometrics_EyeEm_Alamy.jpeg"
-        width: 656
-        height: 656
-        isCached: true
   - title: "What's Your Hot Take on Biometrics? Add Your Voice to the FindBiometrics Year in Review Survey"
     excerpt: "FindBiometrics, the internet's leading resource for news, interviews and thought leadership in biometrics and digital identity, has launched the 19th Annual FindBiometrics Year in Review Survey, sponsored by NEC,"
     publishedDateTime: 2021-12-02T20:00:00Z
@@ -83,6 +69,15 @@ related:
         width: 1100
         height: 734
         isCached: true
+  - title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
+    excerpt: "Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was finalized last month, a year after the series A funding of USD 6."
+    publishedDateTime: 2021-12-01T03:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 19
   - title: "Acuant face biometrics, document authentication listed to US government marketplace"
     excerpt: "Acuant's biometric authentication and recognition technologies have been approved and released to the FedRAMP marketplace."
     publishedDateTime: 2021-12-02T18:07:00Z
@@ -96,20 +91,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28173912/remote-biometric-onboarding-digital-identity-verification.png"
         width: 1173
         height: 697
-        isCached: true
-  - title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-    excerpt: "Nota's NetsPresso is its proprietary hardware-aware AutoML platform that automates AI model development process only with datasets. NetsPresso significantly reduces time and resources that are ..."
-    publishedDateTime: 2021-12-01T02:54:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-301434615.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://mma.prnewswire.com/media/1698783/image_1.jpg?p=facebook"
-        width: 797
-        height: 419
         isCached: true
 
 secured: "wpcGvYrJbM/FadIsKjp8hA8BbS4+NDMcVAmaufl1ZK23TVY1tWYojB/cERV+Xa7/WPIrOYgkHQAdL/6efj6AtqS5Q1BL9eC7InC+coy897Nv0rSiBxxa4IzljspJMUiOoDM6jihijeVry+B81zMPS0Q1GtG7BINiMsKFpSKuoQaaAKbslODch2oMPG/pTGM9vNBL4birsF29Wvyg3jncoJ9NhsAB1kR+JUWalsJpq2vbygQv/KCMVw6/aW2QYG37cOHv2/e4pTZBpTZ1crwnk9R7U5h3FYmNdVKoQ/nivaTdBcSjWOuLvhiZNId4LsxBMKy1pLtL5EbPk2WcRyccCgI7RmqC8DUDIUl5ALjqVlZcknlGCDxC78qWZno6gafcWf5xlzI6suBdVKVdIJ2xo8xZ1a2SZLP+kaQ872Kg5NZVx5WYKfCUH4ij1FslE6IpXd2qm2Ikg2dk/QbFqDZhNsVh4c59VrB0utxLgs/igb3UQp1lfVdGzOXXqzjVd3cGJp1+yaSXA7tT2d2OXDlp0w==;91imholKjOf6VGTHS/Z8cA=="

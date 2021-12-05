@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/dataiku-releases-n
 webUrl: "https://markets.businessinsider.com/news/stocks/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning-10804215"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Business Insider
@@ -21,6 +21,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Dataiku 10 brings in more people and departments to scale Artificial Intelligence processes"
+    excerpt: "Designed for all stakeholders, the unified platform empowers everyone from IT operations and domain experts to data scientists and risk managers. Dataiku 10 brings in more people and departments to scale Artificial Intelligence processes."
+    publishedDateTime: 2021-12-05T13:13:00Z
+    webUrl: "https://www.itp.net/emergent-tech/dataiku-10-brings-in-more-people-and-departments-to-scale-artificial-intelligence-processes"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 24
 
 secured: "Wp2XzRhTT27940FlM/LRNaEGG1qklRjqgUEXQ0vy9X4RIECDaVdi0ivCKlJVu6YfHzuhtLoD/hewM1D48NGCBmNnNuWJ2xhLOGcdpTBU3gEGNQEWFfcKbpXpJjSQhVuq5nwv3mPUw1EfPYZRkI5PzIKunL1r0dbKuMb7X0ZpJYNfCDPPIljQrjqR3FIWixfJPUiSEbopFYkTMndnJFzJLsx0w8ROHTz9qfKbOwiWYT7sRHO4X73q8WXbaU33uWMj6yXifXPfWdMX1Us1DOHvvkdKfIDjzOhiTcoW15EZP43f9Y4O+6G4bX8VB7vb0KsaVnIvXgd0ztqwULjmO4GbP0KSeM52B8hS70LPHrW431k=;nBlsPmh3hHnEyqkMWqcIBw=="
 ---

@@ -89,6 +89,22 @@ related:
         width: 1024
         height: 783
         isCached: true
+  - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
+    excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving” (FSD) beta,"
+    publishedDateTime: 2021-12-02T23:00:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 59
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/12/SJM-Z-WALTERS-OPED-1102-1.jpg?w=1024&#038;h=783"
+        width: 1024
+        height: 782
+        isCached: true
 
 secured: "h1dzSICdi6//41O7pGCOR6mEiq4pHJT6JpwPctUSJ8k6VeOVEse9NKrdQrVVhFbITD+GAPVA119f6VI+3Pjios9oYyTgleQHJsSMWXtHcoO1vf2Nv0hUhv6kGAAau+kdctx0KcjoJQpKjNXUxr9r4/gHcQu1rF57gWygjPZ2aii1s4guy1o3+sXfF8ZulRP+qvqdZ0WQ3x5KmVTuD+5ARNt1iZRphpyUjlX4eGhcoSS/4I7Gj0SvvQjzUKVhRvyQgzwmobxxfOveTEOjKi/gqXzi8lFsWeXJTTz+EXmplFd9YDLAQWz4P9jzr5pnxVIKw2SK5z0hgdzkg/v+lFSaVDvzJOu7CByHBu92y/apI4y1HvV66PRPfaPgBV8Q8N0C/ApKPDVupCCsEFXGVgfIe2LqAd6OPr00qfP+DICp5qdQkXTWsDRtMB19q4mag09xnPzs1kt4aaoK5CJ04GMRhysnfNYSmr9ntsguoIVgyxITA0ITFg44brmo4MjXgNE+MvGNjwK3AgWvS0BxGkIEIw==;vNkNhdlO1z0MtrdFCmCuIw=="
 ---
