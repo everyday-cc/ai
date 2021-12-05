@@ -63,9 +63,9 @@ related:
         height: 360
         isCached: true
   - title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
-    excerpt: "A mathematician,” the Hungarian number theorist Alfred Renyi said, “is a machine for turning coffee into theorems”.The world’s mathematicians might soon be n"
-    publishedDateTime: 2021-12-02T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt?shareToken=bb133333581b31a70da05562c8e5cf05"
+    excerpt: "DeepMind, the UK-based artificial intelligence company backed by Google’s parent company, Alphabet Inc, has developed a program that can help mathematicians spot patterns. It has already led to ..."
+    publishedDateTime: 2021-12-02T11:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt"
     type: article
     provider:
       name: The Times

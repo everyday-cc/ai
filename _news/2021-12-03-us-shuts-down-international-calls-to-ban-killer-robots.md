@@ -73,33 +73,19 @@ related:
         width: 400
         height: 210
         isCached: true
-  - title: "Crunch Time on Killer Robots"
-    excerpt: "The International Committee of the Red Cross (ICRC) and the Campaign to Stop Killer Robots proposed similar legal frameworks that encompassed prohibitions on inexplicable or unpredictable weapons systems (i."
-    publishedDateTime: 2021-12-01T04:01:00Z
-    webUrl: "https://www.hrw.org/news/2021/12/01/crunch-time-killer-robots"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 39
-    images:
-      - url: "https://www.hrw.org/sites/default/files/multimedia_images_2018/201809arma_killerrobots_campaign_protest_un.jpg"
-        width: 800
-        height: 526
-        isCached: true
   - title: "Killer Robots: Negotiate New Law to Protect Humanity"
-    excerpt: "Governments should open negotiations to adopt new international law on lethal autonomous weapons systems, also known as “killer robots.” Existing international law is not adequate to address the urgent threats posed by such weapons,"
-    publishedDateTime: 2021-12-01T04:03:00Z
-    webUrl: "https://www.hrw.org/news/2021/12/01/killer-robots-negotiate-new-law-protect-humanity"
+    excerpt: "and Turkey are investing heavily in the military applications of artificial intelligence and related technologies to develop air, land, and sea-based autonomous weapons systems. “An independent process to negotiate new law on killer robots would be more ..."
+    publishedDateTime: 2021-12-05T19:37:00Z
+    webUrl: "https://www.pressenza.com/2021/12/killer-robots-negotiate-new-law-to-protect-humanity/"
     type: article
     provider:
-      name: Human Rights Watch
-      domain: hrw.org
+      name: PRESSENZA
+      domain: pressenza.com
     quality: 39
     images:
-      - url: "https://www.hrw.org/sites/default/files/multimedia_images_2018/201809arma_killerrobots_campaign_protest_un.jpg"
-        width: 800
-        height: 526
+      - url: "https://cdn77.pressenza.com/wp-content/uploads/2019/03/killer-robots-campaign.jpg"
+        width: 678
+        height: 419
         isCached: true
   - title: "New Zealand will advocate for an international ban on autonomous weapons systems, or ‘killer robots’"
     excerpt: "Lethal autonomous weapons systems, also called “killer robots,” can identify, target and kill without human input, according to the Future of Life Institute. They are usually regarded as distinct from drones,"

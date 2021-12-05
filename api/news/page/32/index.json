@@ -2,6 +2,179 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-11-09-israel-escalates-surveillance-of-palestinians-with-facial-recognition-program-in-west-bank.md",
+      "title": "Israel escalates surveillance of Palestinians with facial recognition program in West Bank",
+      "excerpt": "Israel’s military is utilising facial recognition software to monitor Palestinians in the West Bank. The sweeping surveillance effort utilises a smartphone technology called Blue Wolf and has been in operation for the past two years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html",
+      "originalUrl": "https://www.msn.com/en-gb/news/world/israel-escalates-surveillance-of-palestinians-with-facial-recognition-program-in-west-bank/ar-AAQtj3m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RNXK7NRNYUI6ZML5TBOBQ3PDHA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html",
+      "publishedDateTime": "2021-11-08T17:42:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html",
+        "domain": "com/world/middle_east/israel-palestinians-surveillance-facial-recognition/2021/11/05/3787bf42-26b2-11ec-8739-5cb6aba30a30_story.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-brainchip-completes-testing-production-version-of-the-akida-chip.md",
+      "title": "BrainChip Completes Testing Production Version of the Akida Chip",
+      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BCHPY), a leading provider of ultra-low power, high-performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-engineering-artificial-intelligence-brainchip-holdings-ltd-10dd134f52224106a01746a5dae9d147",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-engineering-artificial-intelligence-brainchip-holdings-ltd-10dd134f52224106a01746a5dae9d147",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T17:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-today-in-retail-walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool.md",
+      "title": "Today in Retail: Walmart Manages Fully Driverless Deliveries; Lowe’s to Launch Room-Scanning Tool",
+      "excerpt": "Walmart has achieved daily deliveries without a safety driver, and Amazon is promoting the use of its payment service on other merchants’ sites.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/",
+      "originalUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/Lowes_Companies_Inc_Room_Measurements-457x274.jpeg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/walmart-manages-fully-driverless-deliveries-lowes-to-launch-room-scanning-tool/amp/",
+      "publishedDateTime": "2021-11-08T17:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies.md",
+      "title": "Big Tech leads the AI race – but watch out for these six challenger companies",
+      "excerpt": "But which technology brands are currently leading the AI race? “Incumbents in virtually every industry face disruption from AI, and those that fail to make AI a priority will risk extinction.” This is the view of business intelligence and analytics firm GlobalData on artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.mining-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "originalUrl": "https://www.mining-technology.com/features/big-tech-leads-the-ai-race-but-watch-out-for-these-six-challenger-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mining-technology.com/wp-content/uploads/sites/8/2021/11/leaders.jpg",
+          "width": 1400,
+          "height": 934,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T17:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mining Technology",
+        "domain": "mining-technology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-how-enterprises-can-keep-fear-uncertainty-and-doubt-from-impeding-ai.md",
       "title": "How enterprises can keep fear, uncertainty, and doubt from impeding AI",
       "excerpt": "Resistance to new processes is nothing new, but it could become a crucial factor for AI and the radical shift it brings to data environments.",
@@ -973,186 +1146,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-how-ai-can-help-drive-your-employee-experience-strategy.md",
-      "title": "How AI Can Help Drive Your Employee Experience Strategy",
-      "excerpt": "As an integral part of all digital transformation programs, AI is poised to become the game-changer for creating a work environment that will drive better employee satisfaction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/08/how-ai-can-help-drive-your-employee-experience-strategy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/08/how-ai-can-help-drive-your-employee-experience-strategy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61852e94fbfc26f2721fd30c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2868%26cropY1%3D623%26cropY2%3D2237",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/08/how-ai-can-help-drive-your-employee-experience-strategy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/08/how-ai-can-help-drive-your-employee-experience-strategy/amp/",
-      "publishedDateTime": "2021-11-08T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-ikcs-2021-use-of-artificial-intelligence-for-renal-cell-carcinoma-diagnosis-of-ct-scans.md",
-      "title": "IKCS 2021: Use of Artificial Intelligence for Renal Cell Carcinoma Diagnosis of CT Scans",
-      "excerpt": "The International Kidney Cancer Symposium 2021 annual hybrid meeting included a role of perioperative therapy in renal cell carcinoma (RCC) session and a presentation by Dr. Christopher Weight discussing the use of artificial intelligence for RCC diagnosis of CT scans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.urotoday.com/conference-highlights/ikcs-2021/133731-ikcs-2021-use-of-artificial-intelligence-for-renal-cell-carcinoma-diagnosis-of-ct-scans.html",
-      "originalUrl": "https://www.urotoday.com/conference-highlights/ikcs-2021/133731-ikcs-2021-use-of-artificial-intelligence-for-renal-cell-carcinoma-diagnosis-of-ct-scans.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T05:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UroToday",
-        "domain": "urotoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-commonwealth-bank-of-australia-announces-artificial-intelligence-partnership.md",
-      "title": "Commonwealth Bank of Australia announces Artificial Intelligence partnership",
-      "excerpt": "Australia: The Commonwealth Bank of Australia (CBA) announced its latest venture into the world of Artificial Intelligence (AI) on Monday, a..|News Track",
-      "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newstrack.in/uploads/latest-news/world-news/Nov/08/big_thumb/commonWealth_618918bf8cac0.jpg",
-          "width": 631,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/commonwealth-bank-of-australia-announces-artificial-intelligence-partnership-sc57-nu318-ta318-1191399-1.html",
-      "publishedDateTime": "2021-11-08T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-meet-tinyml-the-latest-machine-learning-tech-having-an-outsize-business-impact.md",
-      "title": "Meet TinyML: The Latest Machine Learning Tech Having An Outsize Business Impact",
-      "excerpt": "As device sensors proliferate across every company’s value chain – from new product development through inspection, tracking, and delivery – tinyML is surfacing to provide actionable insights, transforming business as we know it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/11/08/meet-tinyml-the-latest-machine-learning-tech-having-an-outsize-business-impact/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/11/08/meet-tinyml-the-latest-machine-learning-tech-having-an-outsize-business-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618146c79cad7a607fa9a494%2F0x0.jpg",
-          "width": 1200,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/11/08/meet-tinyml-the-latest-machine-learning-tech-having-an-outsize-business-impact/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/11/08/meet-tinyml-the-latest-machine-learning-tech-having-an-outsize-business-impact/amp/",
-      "publishedDateTime": "2021-11-08T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

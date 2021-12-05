@@ -24,21 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Bio and Tribun Health Join Forces to Enhance Cancer Care with AI-Powered Digital Pathology"
-    excerpt: "DeepDx® Prostate, Deep Bio's deep learning-based prostate cancer diagnostic support software, aids pathologists in making fast and consistent diagnostic decisions for prostate cancer. Recently, Tribun Health unveiled the \"Tribun Health Platform\", with at ..."
-    publishedDateTime: 2021-12-01T03:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/n24374114/deep-bio-and-tribun-health-join-forces-to-enhance-cancer-care-with-ai-powered-digital-pathology"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24374114"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24374114"
+  - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
+    excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"
+    publishedDateTime: 2021-12-04T02:02:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 47
+      name: MD&M East
+      domain: mddionline.com
+    quality: 38
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg"
+        width: 770
+        height: 400
+        isCached: true
+  - title: "Using AI to help Pathologists detect Prostate Cancer"
+    excerpt: "I recently read about two interesting AI solutions developed by healthcare organizations partnering with outside researchers in order to combat serious illnesses. This article is about one with a startup company spinoff from New York Memorial Sloan Kettering Cancer Center."
+    publishedDateTime: 2021-12-04T01:47:00Z
+    webUrl: "https://www.linkedin.com/pulse/using-ai-help-pathologists-detect-prostate-cancer-jack-hueter"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFOSaIudxAFiQ/article-cover_image-shrink_600_2000/0/1638582381214?e=1643846400&v=beta&t=9jE3u9b5BskyrH1pQUpaqJD9BQgq3UE0rLYkkIp6hVk"
+        width: 696
+        height: 392
         isCached: true
 
 secured: "Qv9K5dG0y/U2eaYK0WJw8QkXbit6GrqUm3QNZ9VNNRC+Quc73q4zo2Q+cpHzqKfBwz/QhFRS9DY4FSrqgyHMSRCa8pEQwCdwulfblQFLGi2FRIwQJ/AgpoewO4IEH3RHYv/uk/unzJONZ0xGRuaWjWymxFb4NTIQscY72CmbFKZ4DajlPg9+PPcShqzXA2HYhchoHM6iArgPNW+q2QBbg2iQEQEpwd6XX5NCjDttuaPqKauwoN7tqD98tY3EK6K5fJ7EYR3QVpnmADESgzkdFnZTuao4MTxmpborIGmJ+8Ao1zyFA63jHxLjeQynFsNby8PUXZxPBCTv4yxk8kOGlAmkwCV+g+x2N0rrH9+DoLFImGjZCw1vi6FZoRCCczdlr/Zbl6jaZaKLNF36TAgw6CFdLIgnTLloFYm3nsLPaOKhRn3qScsK/ZCvZQHQ+zvjcaGutbWZ/aIFHZHNHWnxCtEKQ7/DDpL/+QDKBChwHBf5H2/yElv3BrZF8v4fWNUMEVxcte54mf2BqYFEIGZB0w==;9oCFX0BFCzocDa7w/IKmRA=="

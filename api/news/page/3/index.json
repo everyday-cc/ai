@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-02-exclusive-softbank-led-funding-round-for-sustainability-start-up-clarity-ai.md",
+      "title": "EXCLUSIVE Softbank led funding round for sustainability start-up Clarity AI",
+      "excerpt": "Softbank Group Corp's Vision Fund 2 has led the latest funding round for sustainability data technology platform Clarity AI, alongside existing investors including BlackRock , valuing the start-up at $450 million,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/funds/exclusive-softbank-led-funding-round-sustainability-start-up-clarity-ai-2021-12-02/",
+      "originalUrl": "https://www.reuters.com/markets/funds/exclusive-softbank-led-funding-round-sustainability-start-up-clarity-ai-2021-12-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/6_B_kyhd4Z6lGVcp0gRO-qwDMCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LIP4CZNCMJKDVCPICMXP45WUEY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-4-reasons-to-attend-the-put-responsible-ai-into-practice-azure-digital-event.md",
       "title": "4 reasons to attend the Put Responsible AI into Practice Azure digital event",
       "excerpt": "AI is transforming business and the world. However, AI models learn from the data. Biases that exist in society will exist in the models. Human judgment must be the overriding factor, ensuring that AI models benefit and are inclusive of everyone. Equally important, AI must inspire trust in customers",
@@ -242,48 +293,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-sf-startup-uses-ai-to-detect-wildfires-before-they-become-catastrophic.md",
-      "title": "S.F. startup uses AI to detect wildfires before they become catastrophic",
-      "excerpt": "As another brutal wildfire season winds down across the Western United States, a San Francisco startup has devised a means of detecting blazes in remote landscapes within moments of ignition. If the early tests are successful,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfchronicle.com/travel/article/S-F-startup-uses-AI-to-detect-wildfires-before-16668146.php",
-      "originalUrl": "https://www.sfchronicle.com/travel/article/S-F-startup-uses-AI-to-detect-wildfires-before-16668146.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/23/04/67/21777912/3/ratio3x2_400.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sfchronicle.com/travel/amp/S-F-startup-uses-AI-to-detect-wildfires-before-16668146.php",
-      "cdnAmpWebUrl": "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/travel/amp/S-F-startup-uses-AI-to-detect-wildfires-before-16668146.php",
-      "publishedDateTime": "2021-12-02T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "San Francisco Chronicle",
-        "domain": "sfchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -539,7 +548,7 @@
       "originalUrl": "https://www.openpr.com/news/2482636/ai-based-fever-detection-camera-2021-global-market-key-players",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -703,21 +712,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning.md",
-      "title": "Dataiku releases new version of unified AI platform for machine learning",
-      "excerpt": "While trying to make data scientists more effective, Dataiku’s AI platform also provides no-code GUIs for data prep and AutoML capabilities.",
+      "path": "_news/2021-12-02-artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Size | Opportunity Analysis Report by 2026",
+      "excerpt": "Artificial Intelligence Chipsets Market size is set to surpass USD 70 billion by 2026, according to a new research report by Global Market Insights, Inc. The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026-2021-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026-2021-12-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 83,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash-e1638387079382.jpg?w=1200&strip=all",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 600,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -725,16 +734,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning/amp/",
-      "publishedDateTime": "2021-12-01T20:20:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T19:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -750,7 +759,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1009,7 +1018,7 @@
       "originalUrl": "https://www.androidauthority.com/snapdragon-8cx-gen-3-intel-apple-3068879/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 249,
       "tags": null,
       "images": [
         {
@@ -1096,6 +1105,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-02-dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning.md",
+      "title": "Dataiku releases new version of unified AI platform for machine learning",
+      "excerpt": "While trying to make data scientists more effective, Dataiku’s AI platform also provides no-code GUIs for data prep and AutoML capabilities.Read",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning-10804215",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning-10804215",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-reimagining-your-customer-experience-with-conversational-ai.md",
       "title": "Reimagining Your Customer Experience With Conversational AI",
       "excerpt": "That needn’t be the case: it’s time for organizations to reevaluate the role of conversational AI in customer experiences. In many cases, it’s already become obvious that simple speech can replace high-friction processes.",
@@ -1144,58 +1196,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment.md",
-      "title": "How much can we trust AI? How to build confidence before large-scale deployment",
-      "excerpt": "Organizations must still build trust in AI before they deploy it throughout the organization. Here are some simple steps to make AI more dependable and ethical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "originalUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "publishedDateTime": "2021-12-01T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

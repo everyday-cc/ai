@@ -1,10 +1,10 @@
 ---
 category: news
 title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
-excerpt: "A mathematician,” the Hungarian number theorist Alfred Renyi said, “is a machine for turning coffee into theorems”.The world’s mathematicians might soon be n"
-publishedDateTime: 2021-12-02T00:01:00Z
-originalUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt?shareToken=bb133333581b31a70da05562c8e5cf05"
-webUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt?shareToken=bb133333581b31a70da05562c8e5cf05"
+excerpt: "DeepMind, the UK-based artificial intelligence company backed by Google’s parent company, Alphabet Inc, has developed a program that can help mathematicians spot patterns. It has already led to ..."
+publishedDateTime: 2021-12-02T11:00:00Z
+originalUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt"
+webUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt"
 type: article
 quality: 48
 heat: -1
@@ -85,6 +85,6 @@ related:
       domain: beckersspine.com
     quality: 19
 
-secured: "4LvOFZ8LU3Di1XU4XTTnr6oF0dpv5Wjt1JqIZwCu/3MS4U4ID5nuD0EwRoUJamRcXcDUFg0RZpSaSwTjubRQ7AwSP3uIRaS499L9oVA8+sZr3wAZdoJWrfCXnJ4vHURgaJR4Vr+F9E2DEi0fAGow02IvfmMs7Pw6DJ1nwO7nfPRCvm+mukFymeZbA5eouNj5yQ/PsN2ekbZOKz3+wFgp40cumiu3KB+J1EDKr2xqG0ConKVC2pta2DNJmZzIAgGR28A+iFuO/JIgEVyrbd0ve5QohoumXPo2+Nj4muMBufreJFGJXfchMtlPtr5CgB1FOKxn60fCKwT67j01juPW0ivQ1IcpDf/IdGKsEhHh+gA=;2Ea5F6Ahca8HNweWawMkYA=="
+secured: "XOvoio6DaW2foh/bnCe8pytC2vM/qyrTwYkQrOf50A5omiYgHoDUZIu7MCb9HOYTNBVPoDj91OTeHppf7bAOGSoWQZVkXcURwMf5tMUEwjmbgWQQDosUpZMElBUNsKwz8mfcy9abyMBjxtzTAHPeRfKt1rD7mvvW6zU3LRTaHdZHEJv2Q67QsxjZbyB3HttFodoeb9x4PCkOyxbaVIKif9F0Y06R1tnvAt0I40JZD4A7P/rFYZhOcs6uMzWDzplMQhpX60B9D+IsG1bOvaGC3qxO2EIJmQigjZki9HyhPuvumFwra93/EXxhn5JKpDxbYyRLDhmFxjEgdIiQ59eIPnAt4YN0mzeAwKR0fv82+sE=;WH+RdfnH0baVihmYPSi1Zw=="
 ---
 

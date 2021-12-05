@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-06-chinese-researchers-turn-to-artificial-intelligence-to-build-futuristic-weapons.md",
+      "title": "Chinese researchers turn to artificial intelligence to build futuristic weapons",
+      "excerpt": "Scientists say they have used the technology to build a pistol-sized coilgun that is the smallest and most powerful of its kind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3158522/chinese-researchers-turn-artificial-intelligence-build",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3158522/chinese-researchers-turn-artificial-intelligence-build",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/05/ed69e270-e99a-4c9e-95fa-d46f5c825c56_9e3dc8ea.jpg?itok=nan3nAVt&v=1638687578",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3158522/chinese-researchers-turn-artificial-intelligence-build",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3158522/chinese-researchers-turn-artificial-intelligence-build",
+      "publishedDateTime": "2021-12-05T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-sense-raises-50m-to-bolster-recruitment-efforts-with-ai.md",
       "title": "Sense raises $50M to bolster recruitment efforts with AI",
       "excerpt": "Sense, a startup developing AI-powered recruitment and hiring solutions for companies, has raised $50 million.",
@@ -1130,58 +1181,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-real-world-computer-vision-applications-communications-experts-should-understand.md",
-      "title": "Real-World Computer Vision Applications Communications Experts Should Understand",
-      "excerpt": "As this technology gets better and better, I think we’re going to find more ways to use it to make our lives safer and better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D617%26cropY2%3D3768",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/amp/",
-      "publishedDateTime": "2021-12-03T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

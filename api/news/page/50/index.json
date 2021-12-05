@@ -2,6 +2,216 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-10-27-amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip.md",
+      "title": "Amazon launches AWS instances powered by Habana’s AI accelerator chip",
+      "excerpt": "Amazon has launched new AWS instances powered by Habana's Gaudi, a chip that accelerates the training of AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/",
+      "originalUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/amazon-launches-aws-instances-powered-by-habanas-ai-accelerator-chip/amp/",
+      "publishedDateTime": "2021-10-26T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever.md",
+      "title": "AI deployments: Is your organization a transformer, pathseeker, starter or underachiever?",
+      "excerpt": "AI-fueled organizations address strategy, operations, culture and change management and ecosystems, according to Deloitte's latest State of AI in the Enterprise report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/26/cef0cad3-f8a5-4538-ba45-784daf3c801d/resize/1200x/445309360b3a3b023507b870fd0d0ef1/deloitte-state-of-ai.jpg",
+          "width": 1200,
+          "height": 730,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-deployments-is-your-organization-a-transformer-pathseeker-starter-or-underachiever/",
+      "publishedDateTime": "2021-10-26T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store.md",
+      "title": "Extend model lineage to include ML features using Amazon SageMaker Feature Store",
+      "excerpt": "Feature engineering is expensive and time-consuming, which may lead you to adopt a feature store for managing features across teams and models. Unfortunately, machine learning (ML) lineage solutions have yet to adapt to this new concept of feature management. To achieve the full benefits of a feature",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extend-model-lineage-to-include-ml-features-using-amazon-sagemaker-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/21/ML-6028-image001.png",
+          "width": 861,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T14:11:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale.md",
+      "title": "Salesforce’s Kathy Baxter and Amazon’s Nashlie Sephus talk keeping AI ethical at Enterprise scale",
+      "excerpt": "AI and big data are an important part of most enterprise-scale companies now, but that very scale can make it difficult to employ them safely and ethically. Kathy Baxter at Salesforce and Nashlie Sephus at AWS have made ethical AI and data collection their business over the last few years,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/",
+      "originalUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/kathy_Amazon_post.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/salesforces-kathy-baxter-and-amazons-nashlie-sephus-talk-keeping-ai-ethical-at-enterprise-scale/amp/",
+      "publishedDateTime": "2021-10-26T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-keeping-an-ai-on-fintech-ai-based-use-cases-poised-to-take-financial-services-to-the-next-level.md",
       "title": "Keeping An “AI” On Fintech: AI-Based Use Cases Poised To Take Financial Services To The Next Level",
       "excerpt": "What AI and ML use cases are applicable to fintech? Financial services have their own set of common AI and ML use cases. These include, but are not limited to cost reduction, process automation, spend reconciliation,",
@@ -973,186 +1183,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-deepdraper-a-technique-that-predicts-how-clothes-would-look-on-different-people.md",
-      "title": "DeepDraper: A technique that predicts how clothes would look on different people",
-      "excerpt": "In recent years, some computer scientists have been exploring the potential of deep-learning techniques for virtually dressing 3D digital versions of humans. Such techniques could have numerous valuable applications,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-10-deepdraper-technique-people.html",
-      "originalUrl": "https://techxplore.com/news/2021-10-deepdraper-technique-people.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/deepdraper-a-technique.jpg",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-10-deepdraper-technique-people.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-deepdraper-technique-people.amp",
-      "publishedDateTime": "2021-10-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-fabric-brings-in-200m-as-it-passes-1b-in-valuation.md",
-      "title": "Fabric brings in $200M as it passes $1B in valuation",
-      "excerpt": "Micro-fulfillment technology company Fabric has closed a $200 million Series C financing round at a valuation of more than $1 billion, according to a Tuesday press release. The company, which has raised $336 million since it was founded, plans to use the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.grocerydive.com/news/fabric-brings-in-200m-as-it-passes-1b-in-valuation/608871/",
-      "originalUrl": "https://www.grocerydive.com/news/fabric-brings-in-200m-as-it-passes-1b-in-valuation/608871/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.grocerydive.com/user_media/cache/fd/11/fd11b30f8466332446de7488304b7d7f.jpg",
-          "width": 770,
-          "height": 364,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "grocerydive.com",
-        "domain": "grocerydive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-hai-robotics-wins-nextgen-supply-chain-award.md",
-      "title": "Hai Robotics Wins NextGen Supply Chain Award",
-      "excerpt": "Hai Robotics provides efficient, intelligent, flexible, and customized warehouse automation solutions through robotics technology and AI algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/",
-      "originalUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://worldindustrialreporter.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/amp/",
-      "cdnAmpWebUrl": "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/amp/",
-      "publishedDateTime": "2021-10-26T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "worldindustrialreporter.com",
-        "domain": "worldindustrialreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad.md",
-      "title": "Photoshop update brings new Sensei AI features to desktop, Raw camera support to iPad",
-      "excerpt": "Adobe MAX is here, and the company’s most popular editing software is unsurprisingly getting a host of updates for the occasion. The most significant updates are landing on Photoshop for desktop,",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
-      "originalUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/10/Photoshop-update-brings-new-Sensei-AI-features-to-desktop-Raw-camera-support-to-iPad.jpg",
-          "width": 1440,
-          "height": 950,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/",
-      "publishedDateTime": "2021-10-26T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

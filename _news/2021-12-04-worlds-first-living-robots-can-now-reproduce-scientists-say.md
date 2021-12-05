@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists create living robots that can reproduce on their own"
-    excerpt: "In 2020, scientists unveiled the creation of extremely small robots (less than a milimeter wide) made from stem cells of the African clawed frog. Called xenobots, these tiny autonomous creatures were designed using artificial intelligence to resemble Pacman-like shapes,"
-    publishedDateTime: 2021-12-01T04:41:00Z
-    webUrl: "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own"
-    ampWebUrl: "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1"
-    cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 89
-    images:
-      - url: "https://sm.mashable.com/t/mashable_sea/photo/default/xenobots-reproduce-header_dhke.620.png"
-        width: 620
-        height: 310
-        isCached: true
   - title: "Meet Xenobots, World's First Living Robots That Can Reproduce"
     excerpt: "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world."
     publishedDateTime: 2021-12-01T16:32:00Z
@@ -89,21 +73,35 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "VIDEO: Living Robots Made From Frog Cells Can Now Self-Replicate, Scientists Say"
-    excerpt: "By Martin M Barillas A team of scientists reports they have discovered a new form of biological reproduction and have applied it to create the world’s"
-    publishedDateTime: 2021-12-01T12:49:00Z
-    webUrl: "https://vidanewspaper.com/2021/12/01/video-living-robots-made-from-frog-cells-can-now-self-replicate-scientists-say/"
-    ampWebUrl: "https://vidanewspaper.com/2021/12/01/video-living-robots-made-from-frog-cells-can-now-self-replicate-scientists-say/?amp"
-    cdnAmpWebUrl: "https://vidanewspaper-com.cdn.ampproject.org/c/s/vidanewspaper.com/2021/12/01/video-living-robots-made-from-frog-cells-can-now-self-replicate-scientists-say/?amp"
+  - title: "Pac-Man-shaped blobs become world's first self-replicating biological robots"
+    excerpt: "Tiny groups of cells shaped like Pac-Man are the world's first self-replicating biological robots. The tiny bots are made from the skin cells of frogs, but they don't reproduce by mitosis or meiosis or any of the other ways cells divide and replicate in normal circumstances."
+    publishedDateTime: 2021-12-02T12:00:00Z
+    webUrl: "https://www.livescience.com/self-replicating-biological-robots"
+    ampWebUrl: "https://www.livescience.com/amp/self-replicating-biological-robots"
+    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/self-replicating-biological-robots"
     type: article
     provider:
-      name: Vida
-      domain: vidanewspaper.com
-    quality: 54
+      name: Live Science
+      domain: livescience.com
+    quality: 56
     images:
-      - url: "https://storage.googleapis.com/prod-zenger-storage/image/20211130/16-9_fdb4d1d4-6d2d-44ef-983e-f948a8ffd34d.png?20211201083356"
-        width: 1024
-        height: 576
+      - url: "https://cdn.mos.cms.futurecdn.net/X8K4cbphvRJDhxgRfQ6tBZ-1200-80.jpg"
+        width: 1200
+        height: 933
+        isCached: true
+  - title: "AI-designed Xenobots Have Figured Out How To Replicate, Living Robots Are Coming"
+    excerpt: "I bet you thought we needed to look towards the stars in order to find some new form of biological mechanism. Or perhaps into the depths of our oceans, which run deeper than Jerry Jones’ pockets, or so I’ve been told."
+    publishedDateTime: 2021-12-04T12:00:00Z
+    webUrl: "https://www.autoevolution.com/news/ai-designed-xenobots-have-figured-out-how-to-replicate-living-robots-are-coming-175397.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 49
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/ai-designed-xenobots-have-figured-out-how-to-replicate-living-robots-are-coming-175397_1.jpg"
+        width: 1485
+        height: 1080
         isCached: true
   - title: "Scientists Say They Have Created Self-Replicating 'Living Robots'"
     excerpt: "There are many things that are possible if we take advantage of this kind of plasticity and ability of cells to solve problems.'"
@@ -161,17 +159,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meet the robot that can write poetry and create artworks"
-    excerpt: "When people think of artificial intelligence, the images that often come to mind are of the sinister robots that populate the worlds of"
-    publishedDateTime: 2021-12-03T13:38:00Z
-    webUrl: "https://whdh.com/news/meet-the-robot-that-can-write-poetry-and-create-artworks/"
-    ampWebUrl: "https://whdh.com/news/meet-the-robot-that-can-write-poetry-and-create-artworks/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/news/meet-the-robot-that-can-write-poetry-and-create-artworks/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 39
   - title: "Tiny living Pac-Man robots have learned how to reproduce"
     excerpt: "Whenever we're confronted with aspects of science fiction becoming scientific reality, philosophical questions arise."
     publishedDateTime: 2021-12-04T16:12:00Z

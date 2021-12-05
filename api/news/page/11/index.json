@@ -2,6 +2,196 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-11-25-ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge.md",
+      "title": "IBM and David Clark Cause Crown Saaf Water Winner of 4th Annual Call for Code Global Challenge",
+      "excerpt": "Moved to prevent further suffering in their community and around the world, Saaf Water built a solution using IBM Cloud and IBM Watson services ... technology using AI, blockchain, and cloud ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1225393&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1225393&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1689951/IBM_Saaf_water.jpg",
+          "width": 400,
+          "height": 234,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-24T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-forget-roomba-this-advanced-samsung-robot-vacuum-is-350-off-for-black-friday.md",
+      "title": "Forget Roomba: This advanced Samsung Robot Vacuum is $350 OFF for Black Friday",
+      "excerpt": "This Samsung Robot Vacuum Black Friday deal is one of the smartest vacuums available today, with intelligence that help keep your floors clean.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/",
+      "originalUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/?amp",
+      "publishedDateTime": "2021-11-24T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-the-shape-of-edge-ai-to-come.md",
+      "title": "The shape of edge AI to come",
+      "excerpt": "Making chips work in this new world of edge AI requires new ways of setting up neurals, designing memory paths, and compiling to hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/",
+      "originalUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1197264259-1-e1637768065636.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/",
+      "publishedDateTime": "2021-11-24T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-creating-a-disater-recovery-plan-for-cloud-services-azure-ad-and-microsoft-365.md",
+      "title": "Creating a disater recovery plan for cloud services Azure AD and Microsoft 365",
+      "excerpt": "Data in Azure Active Directory and Microsoft 365 (previously Office 365) is continuously replicated to multiple,geographically-dispersed data centers, which ensures data availability even in case of infrastructure failure in one data center. In the event ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/WhitePapers/KMWhitePaper/11453-Creating-a-disater-recovery-plan-for-cloud-services-Azure-AD-and-Microsoft-365.htm",
+      "originalUrl": "https://www.kmworld.com/WhitePapers/KMWhitePaper/11453-Creating-a-disater-recovery-plan-for-cloud-services-Azure-AD-and-Microsoft-365.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImage/141915-Manageengine-ORG.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-24T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-tesla-requires-full-self-driving-testers-to-allow-video-collection-in-case-of-a-crash.md",
       "title": "Tesla requires Full Self Driving testers to allow video collection in case of a crash",
       "excerpt": "With Tesla's latest FSD release, it's asking drivers to consent to allowing it to collect video taken by a car's exterior and interior cameras in case of an accident or \"serious safety risk.\"",
@@ -427,10 +617,10 @@
     {
       "path": "_news/2021-11-24-future-of-literary-translation-addressed-during-korea-times-award-ceremony.md",
       "title": "Future of literary translation addressed during Korea Times award ceremony",
-      "excerpt": "\"In terms of translation accuracy, AI may be better than humans. But languages are complex and nuanced, and there are extra-linguistic factors such as context or emotional output that need to be taken into consideration. There's creative aspects of ...",
+      "excerpt": "Participants in the 52nd Modern Korean Literature Translation Awards pose during a ceremony at the Lotte Hotel in central Seoul, Wednesday. From left are Korea Times President-Publisher Oh Young-jin;",
       "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw",
-      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw",
+      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -449,7 +639,7 @@
       "type": "article",
       "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395",
       "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395",
-      "publishedDateTime": "2021-11-23T23:44:00-08:00",
+      "publishedDateTime": "2021-11-23T23:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "koreatimes.co.kr",
@@ -967,197 +1157,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-computer-vision-for-cleaning-and-sports-the-ukrainian-it-company-powercode-has-entered-the-persian-gulf-market-with-its-oil-of-the-21st-century.md",
-      "title": "Computer Vision for Cleaning and Sports. The Ukrainian IT Company Powercode Has Entered the Persian Gulf Market With Its Oil of the 21st Century",
-      "excerpt": "The Ukrainian IT company has entered the Persian Gulf market with its oil of the 21st century KIEV, Ukraine, Nov. 23, 2021 /PRNewswire/ -- According to a new Gartner survey, over 30% of technology companies worldwide plan to invest in artificial intelligence and computer vision technology $1 Million or more in the next two years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-computer-vision-cleaning-sports-ukrainian-it-company-powercode-/2021/11/23/9498931.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-computer-vision-cleaning-sports-ukrainian-it-company-powercode-/2021/11/23/9498931.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1695268/Powercode_computer_vision_technologies.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T11:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-little-big-robots-mech-battle-is-a-pvp-multiplayer-robot-battling-game-out-now-on-android-in-select-countries.md",
-      "title": "Little Big Robots. Mech Battle is a PvP multiplayer robot battling game, out now on Android in select countries",
-      "excerpt": "Little Big Robots. Mech Battle is a fast-paced multiplayer battle game featuring giant robots. Each robot is unique, be it design or skill-wise. As you might have already guessed, you play as a robot and take down enemy robots controlled by other players",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocketgamer.com/little-big-robots-mech-battle/out-now-on-android-in-select-countries/",
-      "originalUrl": "https://www.pocketgamer.com/little-big-robots-mech-battle/out-now-on-android-in-select-countries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.pocketgamer.com/artwork/na-33569-1637690283/little-big-robots.-mech-battle.jpg",
-          "width": 1010,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocketgamer",
-        "domain": "pocketgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027.md",
-      "title": "Global Natural Language Processing (NLP) Market 2021 Key Dynamics, Recent and Future Demand, Trend, Analysis upto 2027",
-      "excerpt": "Global Natural Language Processing (NLP) Market Growth (Status and Outlook) 2021-2027 issued by MarketandResearch.biz offers an in-depth evaluation of all happenings in this market. The report gives an appraisal of the market size and comparing revenue inference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027-2021-11-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027-2021-11-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-robot-company-will-pay-200k-for-your-faceif-its-friendly-enough.md",
-      "title": "Robot Company Will Pay $200k for Your Face—If It’s Friendly Enough",
-      "excerpt": "The company is ready to pay out $200,000 to somebody willing to transfer the rights to use one’s face forever.” You could live forever. Promobot is considering people of all genders and races over 25,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723",
-      "originalUrl": "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/010771dd428e3f09f26866cbe7bd78e8.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723/amp",
-      "publishedDateTime": "2021-11-23T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

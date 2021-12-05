@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sfchronicle.com/travel/amp/S-F-startup-uses-AI-to-detect
 cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/travel/amp/S-F-startup-uses-AI-to-detect-wildfires-before-16668146.php"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: San Francisco Chronicle
@@ -39,20 +39,6 @@ related:
     quality: 52
     images:
       - url: "https://media.9news.com/assets/KUSA/images/bac1418e-231b-483c-bfdb-aea3b352ca29/bac1418e-231b-483c-bfdb-aea3b352ca29_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Aspen testing program that uses artificial intelligence to detect wildfire smoke"
-    excerpt: "Aspen Fire partnered with a California-based company for a pilot program training cameras with artificial intelligence to better detect smoke."
-    publishedDateTime: 2021-12-01T04:53:00Z
-    webUrl: "https://www.9news.com/video/news/local/colorado-news/aspen-testing-program-that-uses-artificial-intelligence-to-detect-wildfire-smoke/73-ad8591d3-4188-4b8f-bbe4-a1010f78f4ce"
-    type: article
-    provider:
-      name: 9NEWS
-      domain: 9news.com
-    quality: 32
-    images:
-      - url: "https://media.9news.com/assets/KUSA/images/260bed36-f873-4f44-a7a3-4bcba7291b67/260bed36-f873-4f44-a7a3-4bcba7291b67_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

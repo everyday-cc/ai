@@ -689,6 +689,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-01-aws-announces-new-serverless-options-for-three-analytics-services.md",
+      "title": "AWS Announces New Serverless Options for Three Analytics Services",
+      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-aws-gets-a-no-code-ml-service.md",
       "title": "AWS gets a no-code ML service",
       "excerpt": "AWS today announced a new machine learning service, Amazon SageMaker Canvas. Unlike its existing machine learning services, the target audience here isn’t highly technical data scientists and engineers but any engineer or business user inside a company.",
@@ -739,50 +782,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-aws-announces-new-serverless-options-for-three-analytics-services.md",
-      "title": "AWS Announces New Serverless Options for Three Analytics Services",
-      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html",
-      "originalUrl": "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300",
-          "width": 320,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
         "AWS AI"
       ]
     },
@@ -1132,19 +1131,19 @@
     {
       "path": "_news/2021-11-30-ambyint-achieves-aws-energy-competency-status.md",
       "title": "Ambyint Achieves AWS Energy Competency Status",
-      "excerpt": "Ambyint, a production and artificial lift optimization solutions provider, today announced that it has achieved Amazon Web Services (AWS) Energy Competency status. This designation recognizes that Ambyint has demonstrated deep expertise and technical proficiency helping customers leverage AWS cloud technology to transform complex systems and provides energy customers the ability to more easily select skilled partners to accelerate their digital transition to a sustainable energy future with confidence.",
+      "excerpt": "Ambyint artificial lift optimization technologies help accelerate customers' digital transformations Ambyint, a production and artificial lift optimization solutions",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
-          "width": 350,
-          "height": 456,
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1152,13 +1151,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T05:38:00-08:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24358439",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24358439",
+      "publishedDateTime": "2021-11-30T05:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

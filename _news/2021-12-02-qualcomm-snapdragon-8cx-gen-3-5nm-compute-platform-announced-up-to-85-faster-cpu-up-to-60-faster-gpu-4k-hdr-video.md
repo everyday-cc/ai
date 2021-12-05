@@ -41,15 +41,6 @@ related:
         width: 688
         height: 376
         isCached: true
-  - title: "Qualcomm Snapdragon 8 Gen1 SoC: 5G at 10Gbps, 30% faster Adreno GPU"
-    excerpt: "Qualcomm announces the new Snapdragon 8 Gen 1: the new SoC will power the next-generation of smartphones in 2022 and beyond."
-    publishedDateTime: 2021-12-01T04:14:00Z
-    webUrl: "https://www.tweaktown.com/news/83060/qualcomm-snapdragon-8-gen1-soc-5g-at-10gbps-30-faster-adreno-gpu/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
 secured: "76hurSvXXQFuVRISAo/TTNbjXAk1JDV5qvaGXKSwT/oxLxoS5bQT1LyLOhAm52/wJh4jOrDlY3zaR7elptGLRb765kqAziDs7v63ScNqhm3VLI07dv4lXxpCvibecmtF4q6SlAC+uqVlnqM9DyH5cOWU2b6R0hvEjxgBE8RF76ghjlq8qVM15tdp/QBywEFrmcnuAmnF5Q9S/Qbp6NFOxzghDrHCoigdxQZd771H6N135fXqTiv4Euh5CqEef8SGXqAtDR+Fdxw/E/e9pQCMUg7l4gedpDxu9Vy+7i7diPRQX9B4zgX+zUFDYw3pzDRdEj1N32p/YYycWjXnufGy5+5TJYPfsc22QcvC0uPTPVs=;wFFwDebqKIEHv7MF9p6tKg=="
 ---

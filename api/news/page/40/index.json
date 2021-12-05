@@ -2,6 +2,178 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-11-03-facebook-to-shut-down-face-recognition-system-delete-data.md",
+      "title": "Facebook to shut down face-recognition system, delete data",
+      "excerpt": "Facebook said it will shut down its face-recognition system and delete the faceprints of more than 1 billion people amid growing concerns about the technology and its misuse by governments, police and others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.expressnews.com/news/article/Facebook-to-shut-down-face-recognition-system-16585561.php",
+      "originalUrl": "https://www.expressnews.com/news/article/Facebook-to-shut-down-face-recognition-system-16585561.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/22/50/01/21659713/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expressnews.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php",
+      "cdnAmpWebUrl": "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Facebook-to-shut-down-face-recognition-system-16585561.php",
+      "publishedDateTime": "2021-11-02T19:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Antonio Express-News",
+        "domain": "expressnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-azure-cosmos-db-htap-using-azure-synapse-link.md",
+      "title": "Azure Cosmos DB – HTAP using Azure Synapse Link",
+      "excerpt": "AutoML to develop a Regression/Classification/Time Series Forecasting model using the Azure Machine Learning linked service, and multi language support for advanced analytics using the Spark pool.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sqlservercentral.com/articles/azure-cosmos-db-htap-using-azure-synapse-link",
+      "originalUrl": "https://www.sqlservercentral.com/articles/azure-cosmos-db-htap-using-azure-synapse-link",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sqlroadie.files.wordpress.com/2021/10/image-2.png?w=1024",
+          "width": 1024,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T17:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SQL Server Central",
+        "domain": "sqlservercentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-meta-says-facebook-face-recognition-system-will-be-shut-down.md",
+      "title": "Meta says Facebook face recognition system will be shut down",
+      "excerpt": "Social media behemoth Meta, formerly known as Facebook, has announced that it will shut down its face recognition system and delete more than a billion individual facial recognition templates. However,",
+      "sourceUrl": null,
+      "webUrl": "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/",
+      "originalUrl": "https://itwire.com/security/meta-says-facebookface-recognition-system-will-be-shut-down.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 559,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2021/11/NRP-Update-On-Face-Recognition-Technology_Thumbnail.jpg?w=1200",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/",
+      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2021/11/update-on-use-of-face-recognition/amp/",
+      "publishedDateTime": "2021-11-02T17:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
+      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
+      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-researchers-develop-method-to-completely-fool-ai-image-recognition-turn-turtles-into-rifles.md",
       "title": "Researchers develop method to completely fool AI image recognition, turn turtles into rifles",
       "excerpt": "The team’s “3D adversarial objects” throw the object recognition algorithms for a loop, making the computers think they’re looking at something they’re really not, and it’s honestly ...",
@@ -993,186 +1165,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-pasadena-company-introduces-2nd-generation-robotic-kitchen-assistant.md",
-      "title": "Pasadena Company Introduces 2nd Generation Robotic Kitchen Assistant",
-      "excerpt": "Miso Robotics in Pasadena on Tuesday unveiled Flippy 2, a new and improved version of its automated kitchen assistant. The “faster and more customizable” version of the original Flippy device was designed with input from a pilot program in partnership with the White Castle hamburger chain,",
-      "sourceUrl": null,
-      "webUrl": "https://thespoon.tech/miso-introduces-second-generation-restaurant-kitchen-robot-the-flippy-2/",
-      "originalUrl": "https://www.pasadenanow.com/main/pasadena-company-introduces-2nd-generation-robotic-kitchen-assistant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/thespoon.tech/wp-content/uploads/2021/11/Flippy-2-Complete-System-scaled.jpg?fit=1200%2C797&#038;ssl=1",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pasadena Now",
-        "domain": "pasadenanow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score.md",
-      "title": "XPeng launches ‘Smart Driving Points’ beta, eerily similar to Tesla’s ‘Safety Score’",
-      "excerpt": "XPeng will implement a 'Smart Driving Points' scoring system very similar to Tesla that ensures drivers don't abuse its self-driving tech.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/",
-      "originalUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/11/XPeng-Smart-Driving-Points.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/amp/",
-      "publishedDateTime": "2021-11-02T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
-      "title": "Robots hit the streets as demand for food delivery grows",
-      "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "originalUrl": "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "cdnAmpWebUrl": "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
-      "publishedDateTime": "2021-11-02T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "My San Antonio",
-        "domain": "mysanantonio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-facebook-to-shut-down-face-recognition-system-delete-data.md",
-      "title": "Facebook to shut down face-recognition system, delete data",
-      "excerpt": "Facebook says it will shut down its face-recognition system and will delete the faceprints of more than 1 billion people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksla.com/2021/11/02/facebook-shut-down-face-recognition-system-delete-data/",
-      "originalUrl": "https://www.ksla.com/2021/11/02/facebook-shut-down-face-recognition-system-delete-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/IF2cLlf2MJQeFMKSCbRwJq8iuKU=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/D4V6RZBG6RCI7NOS4LWGWRD6DY.jpg",
-          "width": 980,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSLA",
-        "domain": "ksla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

@@ -70,15 +70,6 @@ related:
         width: 1024
         height: 600
         isCached: true
-  - title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-    excerpt: "Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was finalized last month, a year after the series A funding of USD 6."
-    publishedDateTime: 2021-12-01T03:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
   - title: "Acuant face biometrics, document authentication listed to US government marketplace"
     excerpt: "Acuant's biometric authentication and recognition technologies have been approved and released to the FedRAMP marketplace."
     publishedDateTime: 2021-12-02T18:07:00Z

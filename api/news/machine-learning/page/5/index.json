@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-04-how-adobe-uses-deep-learning-to-improve-its-products.md",
+      "title": "How Adobe uses deep learning to improve its products",
+      "excerpt": "Adobe is leveraging deep learning to improve its apps and solidify its position in the video and image editing market.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/",
+      "originalUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_577251916-e1586532869922.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/03/how-adobe-uses-deep-learning-to-improve-its-products/amp/",
+      "publishedDateTime": "2021-11-03T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-new-artificial-neural-network-detects-radiographic-sacroiliitis-with-accuracy.md",
+      "title": "New artificial neural network detects radiographic sacroiliitis with accuracy",
+      "excerpt": "New research presented this week at ACR Convergence, the American College of Rheumatology's annual meeting, found that an innovative new artificial neural network can detect radiographic sacroiliitis in patients with suspected axial spondyloarthritis,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/spine.jpg",
+          "width": 2880,
+          "height": 1916,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-11-artificial-neural-network-radiographic-sacroiliitis.amp",
+      "publishedDateTime": "2021-11-02T14:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-automated-claims-processing-at-xactware-with-machine-learning-on-aws.md",
       "title": "Automated claims processing at Xactware with machine learning on AWS",
       "excerpt": "This blog post was co-authored, and includes an introduction, by Aaron Brunko, Senior Vice President, Claims Product at Xactware. Property insurance claims involving the valuation and replacement of personal belongings can be a painful process for everyone involved after a loss. From catastrophic events",
@@ -1318,92 +1413,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-artificial-intelligence-models-predict-how-the-brain-processes-language.md",
-      "title": "Artificial Intelligence Models Predict How the Brain Processes Language",
-      "excerpt": "Neuroscientists find the internal workings of next-word prediction models resemble those of language-processing centers in the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/bilingualism-and-cognitive-function.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-models-predict-how-the-brain-processes-language-203983-1.htm",
-      "publishedDateTime": "2021-10-26T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-pepsico-hiring-150-in-dallas-for-new-digital-hub-leveraging-ai-and-machine-learning.md",
-      "title": "PepsiCo hiring 150 in Dallas for new ‘digital hub’ leveraging AI and machine learning",
-      "excerpt": "PepsiCo’s chief strategy and transformation officer describes the new high-tech team as a first for legacy consumer packaged goods brands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beveragedaily.com/Article/2021/10/26/PepsiCo-s-new-Digital-Hubs-to-develop-AI-and-machine-learning?utm_source=copyright&utm_medium=OnSite&utm_campaign=copyright",
-      "originalUrl": "https://www.msn.com/en-us/finance/companies/pepsico-hiring-150-in-dallas-for-new-e2-80-98digital-hub-e2-80-99-leveraging-ai-and-machine-learning/ar-AAPYqqF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/beveragedaily.com/news/r-d/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning/12958789-1-eng-GB/PepsiCo-s-new-Digital-Hubs-to-develop-AI-and-machine-learning.jpg",
-          "width": 788,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-26T07:38:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "beveragedaily.com/article/2021/10/26/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning?utm_source=copyright&utm_medium=onsite&utm_campaign=copyright",
-        "domain": "beveragedaily.com/article/2021/10/26/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning?utm_source=copyright&utm_medium=onsite&utm_campaign=copyright",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

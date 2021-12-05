@@ -73,34 +73,6 @@ related:
         width: 400
         height: 210
         isCached: true
-  - title: "Crunch Time on Killer Robots"
-    excerpt: "The International Committee of the Red Cross (ICRC) and the Campaign to Stop Killer Robots proposed similar legal frameworks that encompassed prohibitions on inexplicable or unpredictable weapons systems (i."
-    publishedDateTime: 2021-12-01T04:01:00Z
-    webUrl: "https://www.hrw.org/news/2021/12/01/crunch-time-killer-robots"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 39
-    images:
-      - url: "https://www.hrw.org/sites/default/files/multimedia_images_2018/201809arma_killerrobots_campaign_protest_un.jpg"
-        width: 800
-        height: 526
-        isCached: true
-  - title: "Killer Robots: Negotiate New Law to Protect Humanity"
-    excerpt: "Governments should open negotiations to adopt new international law on lethal autonomous weapons systems, also known as “killer robots.” Existing international law is not adequate to address the urgent threats posed by such weapons,"
-    publishedDateTime: 2021-12-01T04:03:00Z
-    webUrl: "https://www.hrw.org/news/2021/12/01/killer-robots-negotiate-new-law-protect-humanity"
-    type: article
-    provider:
-      name: Human Rights Watch
-      domain: hrw.org
-    quality: 39
-    images:
-      - url: "https://www.hrw.org/sites/default/files/multimedia_images_2018/201809arma_killerrobots_campaign_protest_un.jpg"
-        width: 800
-        height: 526
-        isCached: true
   - title: "U.S. Shuts Down International Calls to Ban “Killer Robots”"
     excerpt: "The Biden administration has rejected calls to ban the use of lethal autonomous weapons, also known as “killer robots.” During a United Nations meeting in Geneva Thursday, the U.S. instead proposed establishing a code of conduct for their use."
     publishedDateTime: 2021-12-03T15:31:00Z
@@ -114,6 +86,20 @@ related:
       - url: "https://www.democracynow.org/images/headlines/18/60618/full_hd/H13-US-shuts-down-ban-killer-robots.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Killer Robots: Negotiate New Law to Protect Humanity"
+    excerpt: "and Turkey are investing heavily in the military applications of artificial intelligence and related technologies to develop air, land, and sea-based autonomous weapons systems. “An independent process to negotiate new law on killer robots would be more ..."
+    publishedDateTime: 2021-12-05T19:37:00Z
+    webUrl: "https://www.pressenza.com/2021/12/killer-robots-negotiate-new-law-to-protect-humanity/"
+    type: article
+    provider:
+      name: PRESSENZA
+      domain: pressenza.com
+    quality: 39
+    images:
+      - url: "https://cdn77.pressenza.com/wp-content/uploads/2019/03/killer-robots-campaign.jpg"
+        width: 678
+        height: 419
         isCached: true
 
 secured: "N5KXH7O+yDx51+hD+NNKIZyO7ygVLP+SWRXJRq3VMm1ZgzXVuyM0aoyhkU61JDN+mpj/O6ZeeYKK7hs2jTOTOHefM8uvWtJqEcHa+q8QrmeHNR3GOWMuYz8qcA6+fdgLhAf9qtJZ+rtxrB6ry7JNdakqmWbHclOmbQpPhO/4rn6XBE4RoJy7gCL0PO4QSPHji9ecJnDEb+xKygBd9KTBhJS/4e/07Q95NsPuVZ/OjSF+hXR69NDWiIfOZ9R1yCIaYw6TN2VqlDInkKHYcCC3gS8EhxPGWe1fvHoZ9B2e+UvyCZf/haW63B4iU/BTNY4dIEgbKMEwJZbp9jtbIkrMtC7i10Jj7Nj7A+zNB/FjtYI=;ICcxTNddHTz29LOh0OEEUQ=="

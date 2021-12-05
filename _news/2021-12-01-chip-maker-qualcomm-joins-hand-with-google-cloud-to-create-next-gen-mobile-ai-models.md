@@ -60,20 +60,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "Qualcomm’s betting on AI to take on Apple and Google’s chips"
-    excerpt: "Apple has been in a league of its own when it comes to developing processors for phones and embedding its own AI-powered experience. But this year, Google has thrown its hat in the ring by debuting it"
-    publishedDateTime: 2021-12-01T03:25:00Z
-    webUrl: "https://thenextweb.com/news/qualcomms-snapdragon-8-gen-1-ai-analysis"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 84
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FSnapdragon-8-Gen-1-Chip-Image-e1638281690475.jpg&signature=257e4c16e7241d1faf4b29cb8bf87f4a"
-        width: 1266
-        height: 633
-        isCached: true
   - title: "Qualcomm ditches TSMC, lets Samsung produce new chips"
     excerpt: "But some officials said that behind Qualcomm's selection of Samsung in the latest deal is TSMC's accelerated focus on making customized chips for Apple. Samsung's foundry service unit is said to have lost its status as a leading foundry service provider for the production of Nvidia's next-generation graphic processing unit (GPU) chips."
     publishedDateTime: 2021-12-02T06:24:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/twitch-to-dete
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: The Hans India
@@ -27,19 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Twitch will use machine learning to catch ban-dodging trolls"
-    excerpt: "Twitch is introducing a new machine learning feature to help streamers protect their channels from people who may be attempting to avoid bans.."
-    publishedDateTime: 2021-12-01T04:04:00Z
-    webUrl: "https://www.engadget.com/twitch-suspicious-user-detection-announcement-000510859.html"
+  - title: "Using AI with Explainable Deep Learning To Help Save Lives"
+    excerpt: "Health systems have been at the epicenter of the fight against COVID-19, and have had to balance the need to alleviate suffering and save lives with substantial financial pressures.\" \"Health systems’ income statements are likely to see negative pressure as a result of the COVID-19 crisis."
+    publishedDateTime: 2021-12-01T10:56:00Z
+    webUrl: "https://www.bbntimes.com/technology/using-ai-with-explainable-deep-learning-to-help-save-lives"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 58
     images:
-      - url: "https://s.yimg.com/os/creatr-images/2019-10/cf1228f0-eb47-11e9-b7bf-ed13b8e4c860"
-        width: 5076
-        height: 3384
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_with_Explainable_Deep_Learning_To_Help_Save_Lives.jpeg"
+        width: 1280
+        height: 682
+        isCached: true
+  - title: "A deep learning-based framework to detect phishing websites"
+    excerpt: "Most of us will have received a scam email that looks like it has come from our bank or an online store or other company or organization. They can look genuine but usually hidden within are malicious links that once clicked take you to a third-party server that either steals login details you enter or drops malware on your device."
+    publishedDateTime: 2021-12-01T12:06:00Z
+    webUrl: "https://techxplore.com/news/2021-12-deep-learning-based-framework-phishing-websites.html"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/phishing.jpg"
+        width: 1920
+        height: 1248
         isCached: true
   - title: "Twitch Will Use Machine Learning To Crack Down on Ban Evasion"
     excerpt: "Twitch will be using machine learning to combat users circumventing bans. The platform announced its new Suspicious User Detection system to flag users who may be creating new accounts to evade bans from a streamer’s channel."

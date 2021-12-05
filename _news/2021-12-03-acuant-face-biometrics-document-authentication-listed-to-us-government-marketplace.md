@@ -83,15 +83,6 @@ related:
         width: 1024
         height: 600
         isCached: true
-  - title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-    excerpt: "Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was finalized last month, a year after the series A funding of USD 6."
-    publishedDateTime: 2021-12-01T03:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
 
 secured: "qauFZ5JNl/W3CNV6m0RSBIdXs3nyrhKlSwpaRX+G+TBY6Z0QqKCZBjj77nCa+ep1XxfyFvXbGMHpfrTmdHltVX3ix2GnPEld7YpCPfuNedGioPTIUwS+cHuZnzlDyzgJ1DMUzrKUkbloToPBrwScYW2uU2FciRUyp5fg3E/jn2ajGcCPs0nAlSOnFUJWpGEZ1aVwDNTdJWq8SFrGVI6BmXCILlU0hKQofoGnkbZLSse2QyjYFTGsBwjGznTZ9Z2QuTM7N1Cggpc82uRmUyFodd4WXojxX6v11jKKPfibJjh65k9Vp5bf3ryOroDbxsB5diHpbFeuIXKNqtbgK1gtsS5aEx8i80OdqR9uhzNlTwuTdeD8UKFHg+KGIU/LhoMSaq0RcjTLakTtsYNFvLR3hdUHM3HNWGx7ybPlxuDAslUprY85sppxdFNSZAQXb210/t56FsbhLDA4tg11QCtPrfzISea9m3q9bujOnnIBweNk5TZBT+OelS9FFUVIaJ4OTvgLjtYLGTyWJN3sfFzMaw==;ph1gxaPJw2Xn+2glE06Eeg=="
 ---
