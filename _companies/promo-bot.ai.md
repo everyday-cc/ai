@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "promobot"
   url: "https://twitter.com/promobot"
-  followers: 2770
+  followers: 2773
 
 yearFounded: 2015
 locations:
