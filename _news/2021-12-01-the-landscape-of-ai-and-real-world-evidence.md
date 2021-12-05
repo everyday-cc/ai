@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2021/12/01/the-landscape-of-ai-and-real-world-evidence-supporting-drug-approvals/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://static.toiimg.com/photo/75476733.cms"
         width: 640
         height: 360
-        isCached: true
-  - title: "The Different Ways Artificial Intelligence Solves Real-World Digital Identity Challenges"
-    excerpt: "Forward-looking businesses are using artificial intelligence to solve real-world digital identity challenges. Javelin's 2020 Identity Fraud Survey revealed the total cost of identity fraud in 2019 to be about $16."
-    publishedDateTime: 2021-11-30T23:27:00Z
-    webUrl: "https://www.timesunion.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 28
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/03/11/21770833/3/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "gFJAayyH9oisMspGTNN13iYyztaarObSVWJhrVsE97uFGhhJbufahwfH6GL6zv4ht17yLrD0os5/F3WdLcRo1ND+qM4L8QJYrnrb+8z21kY3vwUK9ZLcFH8oEVGd5Ci+TrqB3dATEA1lP/Qz0llSkio4OrPVBj7ag0Uh/BSE2+weyLUCW/8dpzA1B5OCvmLMLxeaHMf343AI11MLjx6TJxGT7SGDr8f+frJwi4XxFVmkR4fpBrB8jtrjWIjdBndDflND1s4xP+a0N7CkEYuQBcAvRBspY2GKnHrLz23YlOncufEX1L95VpIQOoaIeq7Z8HJTfMblhMXyZXSM9T1YlBdrhsp0Ios4vPI4J121+HA=;qcpOEDXIreRM16ZHcjOEZA=="

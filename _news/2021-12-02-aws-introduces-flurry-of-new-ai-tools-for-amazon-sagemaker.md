@@ -141,20 +141,6 @@ related:
         width: 736
         height: 630
         isCached: true
-  - title: "AWS Announces Six New Amazon SageMaker Capabilities"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. LAS VEGAS, (BUSINESS WIRE) -- Today, at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc ..."
-    publishedDateTime: 2021-12-01T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-six-new-amazon-sagemaker-capabilities-2021-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AWS brings point-and-click to machine learning"
     excerpt: "Amazon Web Services has announced six new capabilities for its machine learning (ML) service, Amazon SageMaker, that make it more accessible and cost effective."
     publishedDateTime: 2021-12-02T08:21:00Z

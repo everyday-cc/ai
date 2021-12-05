@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/classroom/how-to-generate-submit-
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/classroom/how-to-generate-submit-life-certificate-through-face-recognition-1232448.html"
 type: article
 quality: 59
-heat: 79
+heat: 81
 published: true
 
 provider:

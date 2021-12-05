@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
 type: article
 quality: 103
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://images.livemint.com/img/2021/12/02/600x338/Airport_1638434633717_1638434633820.jpg"
         width: 600
         height: 338
+        isCached: true
+  - title: "Clearview AI Is Enroute to Win an US Patent for Facial Recognition Technology"
+    excerpt: "If you haven't heard of Clearview AI then you should, as the company's facial recognition technology has likely already spotted you. Clearview’s software goes through public images from social media to help law enforcement identify wanted individuals by matching their public images with those found in government databases or surveillance footage."
+    publishedDateTime: 2021-12-05T15:20:00Z
+    webUrl: "https://interestingengineering.com/clearview-ai-is-enroute-to-win-patent-for-facial-recognition-technology"
+    ampWebUrl: "https://amp.interestingengineering.com/clearview-ai-is-enroute-to-win-patent-for-facial-recognition-technology"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/clearview-ai-is-enroute-to-win-patent-for-facial-recognition-technology"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 71
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/jvwvVn2Xwx/sizes/facial-recognition-technology-reveals-information-about-diverse-picture-id1199708194_resize_md.jpg"
+        width: 744
+        height: 419
         isCached: true
   - title: "Travelling To Get Easier As AAI To Launch Facial Recognition Technology At 4 Airports"
     excerpt: "FRT-based Biometric Boarding System is a project that the government has been working on as part of first phase of Digi Yatra Implementation at four airports"

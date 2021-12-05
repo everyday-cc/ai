@@ -7,8 +7,8 @@ originalUrl: "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-de
 webUrl: "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/"
 type: article
 quality: 71
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: Analytics India Magazine
@@ -26,24 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "African Leadership Group Leverages AWS to Power New Recruitment Platform for Hiring Diverse Top Talent"
-    excerpt: "TRIP will use a Data Lake built on Amazon Simple Storage Service (Amazon S3), containerized microservices using AWS Fargate, and Amazon SageMaker for Artificial Intelligence (AI) and Machine ..."
-    publishedDateTime: 2021-12-01T19:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/african-leadership-group-leverages-aws-to-power-new-recruitment-platform-for-hiring-diverse-top-talent-301433313.html"
+  - title: "AWS introduces new features to make ML more accessible"
+    excerpt: "Amazon Web Services (AWS) has announced a slew of features and services to make technologies like machine learning more accessible and cost-effective,.."
+    publishedDateTime: 2021-12-02T07:16:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 3
-  - title: "CrowdStrike Delivers A Fully Integrated Breach Prevention Platform for Cloud Workloads Across AWS Cloud and Edge Environments"
-    excerpt: "CrowdStrike Inc., (NASDAQ: CRWD) a leader in cloud-delivered endpoint and workload protection, today announced new product integrations and certificat"
-    publishedDateTime: 2021-12-01T02:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211130006129/en/CrowdStrike-Delivers-A-Fully-Integrated-Breach-Prevention-Platform-for-Cloud-Workloads-Across-AWS-Cloud-and-Edge-Environments"
+      name: India Times
+      domain: indiatimes.com
+    quality: 76
+    images:
+      - url: "https://st.etb2bimg.com/Themes/Release/images/responsive/etcio-logo-400x400.jpg"
+        width: 850
+        height: 850
+        isCached: true
+  - title: "AWS announces free machine learning educational materials and training resources"
+    excerpt: "says it’s trying to break down accessibility barriers around machine learning technology and make it possible for anyone who’s interested to become an"
+    publishedDateTime: 2021-12-01T18:30:00Z
+    webUrl: "https://siliconangle.com/2021/12/01/aws-announces-free-machine-learning-educational-materials-training-resources/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 66
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/SM_Masthead_single-image_2x.5bff688695257f5a21a469dad76ace2d44256b79.png"
+        width: 2880
+        height: 1024
+        isCached: true
 
 secured: "AeAUAkqMicmCfUAz/ygOO9355boM4sTGmwE1oTQ4kBeO8iwLuIYVv4UZ+ADbw9PrGwyP86h8Sm/qlzF/SBnA7uZS0kDfajK1ccWiwTMWZ2wQjvDeyr3FwEyaqG0dV7SH2VoLjL/YMHIIZRkYFTt0R9zmO7lLOUqxuY5WrLW4QM7qlVLYzbO6QU9UKFe+lyYl5QfUYMraEFBm9crvuDd/Q4gBX2kAAHEe6O8aO0p+QUWwFVHPxZ/U7lZZpnQpjubl4yDbtVDDqBCjkyFFeysv+seG4rbsuEfzh4wno0ARi/UeIsX8668jY1bqLbBg/MCD5sok3naqXQsojgHgQBEwcXgQmVOiH8zaCM5dVxwCI4w=;scMWtQKS558np6F+wLtK3g=="
 ---

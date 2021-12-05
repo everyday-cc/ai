@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/12/211201111930.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/12/211201111930.htm"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -21,24 +21,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Deep learning dreams up new protein structures"
-    excerpt: "In recent years, deep learning has revolutionized the accuracy of this work. \"For this project, we made up completely random protein sequences and introduced mutations into them until our neural ..."
-    publishedDateTime: 2021-12-01T00:00:00Z
-    webUrl: "https://phys.org/news/2021-12-deep-protein.html"
-    ampWebUrl: "https://phys.org/news/2021-12-deep-protein.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-deep-protein.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-dreams-u.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "OyRJsVICa+FmYW5cDcx9qN/II2V2mq6RxoDiduyEORn43g5bXQtpz5oVyYIatQyWLPfTkshwz46ra6d/vKvmM/uKyuyMg+DvHn+FAiSbyCM92RLXlqODKph3f+GdxKFYLpQMtEI/kA7ZNqnztK/F/jzqIHykltzEjIQzPysLMMk4Aa8FmA5uOtyv8Na/jm46IVMq1MW7btCvfeTbeOau6LvdaH9LckFC2rAYolBm6sh72l6C84+GZC25jia7msHYT81IAdT/IqgannCeNEIO2HYOmH+v8c/YjAmhcOrP+lXUNEomjMvn9ruU8z/qdgVQyfCk+b3vYGsQ6kHDNeumJFJfKSB+Y1WxDznU7VcMfas=;mLa5obbbpZYnpiSMkfCssw=="
 ---

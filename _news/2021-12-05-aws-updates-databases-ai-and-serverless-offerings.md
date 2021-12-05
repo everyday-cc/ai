@@ -58,22 +58,6 @@ related:
         width: 2360
         height: 888
         isCached: true
-  - title: "AWS Announces Four New Storage Services and Capabilities"
-    excerpt: "New Amazon S3 Glacier storage class is designed to offer the lowest cost storage for milliseconds retrieval of archived data—also available as a new access tier in Amazon"
-    publishedDateTime: 2021-11-30T23:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24373445/aws-announces-four-new-storage-services-and-capabilities"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24373445"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24373445"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Discovery sticks with AWS for cloud services"
     excerpt: "Discovery has extended its use of AWS for cloud services. The broadcaster uses AWS’ tech for the infrastructure carrying its discovery+ platform, digital services, and over 450 linear channels around the globe."
     publishedDateTime: 2021-12-03T09:50:00Z

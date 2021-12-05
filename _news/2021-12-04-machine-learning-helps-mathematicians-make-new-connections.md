@@ -42,19 +42,21 @@ related:
         width: 2000
         height: 1285
         isCached: true
-  - title: "Exploring the beauty of pure mathematics in novel ways"
-    excerpt: "Discovering new patterns in the fields of topology and representation theory with machine learning"
-    publishedDateTime: 2021-12-01T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/exploring-the-beauty-of-pure-mathematics-in-novel-ways"
+  - title: "Scientists identify new pattern in mathematics using artificial intelligence"
+    excerpt: "Scientists have identified patterns in mathematics that have never been seen before.  The discovery, made by the use of artificial intelligence, can help to develop fundamentally new problem-solving techniques."
+    publishedDateTime: 2021-12-05T16:49:00Z
+    webUrl: "https://www.wionews.com/science/scientists-identify-new-pattern-in-mathematics-using-artificial-intelligence-434395"
+    ampWebUrl: "https://www.wionews.com/science/scientists-identify-new-pattern-in-mathematics-using-artificial-intelligence-434395/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/scientists-identify-new-pattern-in-mathematics-using-artificial-intelligence-434395/amp"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 106
+      name: WION
+      domain: wionews.com
+    quality: 86
     images:
-      - url: "https://lh3.googleusercontent.com/sw1M-C5HyXbBVTYuk0cIfqEZk2t5lV518WkXzNyaXOCs-2CbiCoX5KPrpaGIk0c4kpHYye7pYKj4SwucFUhyZTHtRmMWVowGM1Boh2ShyBH_B-hOmg"
-        width: 512
-        height: 288
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2019/02/14/83987-untitled-design.jpg"
+        width: 918
+        height: 506
         isCached: true
   - title: "Mathematicians hail breakthrough in using AI to suggest new theorems"
     excerpt: "Their work examined knot theory and representation theory, areas of \"pure mathematics\" which typically depend on human intuition for breakthroughs."

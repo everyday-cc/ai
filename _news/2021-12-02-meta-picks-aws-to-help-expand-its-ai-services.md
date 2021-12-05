@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aw
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp"
 type: article
 quality: 106
-heat: 226
+heat: 216
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://www.storagereview.com/wp-content/uploads/2021/12/s3-glacier-overview.png"
         width: 2360
         height: 888
-        isCached: true
-  - title: "AWS Announces Four New Storage Services and Capabilities"
-    excerpt: "New Amazon S3 Glacier storage class is designed to offer the lowest cost storage for milliseconds retrieval of archived data—also available as a new access tier in Amazon"
-    publishedDateTime: 2021-11-30T23:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24373445/aws-announces-four-new-storage-services-and-capabilities"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24373445"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24373445"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "AWS updates databases, AI and serverless offerings"
     excerpt: "Invent, AWS unveiled updates to database, machine learning and serverless offerings designed to reduce complexity and cost."

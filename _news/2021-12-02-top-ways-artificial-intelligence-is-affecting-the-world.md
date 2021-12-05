@@ -55,20 +55,6 @@ related:
         width: 2560
         height: 1978
         isCached: true
-  - title: "The Different Ways Artificial Intelligence Solves Real-World Digital Identity Challenges"
-    excerpt: "Forward-looking businesses are using artificial intelligence to solve real-world digital identity challenges. Javelin's 2020 Identity Fraud Survey revealed the total cost of identity fraud in 2019 to be about $16."
-    publishedDateTime: 2021-11-30T23:27:00Z
-    webUrl: "https://www.timesunion.com/business/article/The-Different-Ways-Artificial-Intelligence-Solves-16663128.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 28
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/03/11/21770833/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "WkV5htJzXSJqfSYc5avTGLf4BrNh0kPsKgNNMNHGcrw6BPjpop2UFdGDg7NFgtHR+iZLTjWNChk3CDbegstLKBAyKS9gQGmn0GLwQU1C8BdHSmdtdlkwCTRKJb7b7yzeyaGP1dS7IIzF6PhBiHoDjj+GVEQhz5SteWQj1fe5oK8WKnmWwp9JNGmRD4QZExBhF6kHlEr1iEmLsGFe/11Atw5BkevQLWv3IRqu0tq3lYFXk93dq9AQ1Fu/M8dTevnat6al1r5V0OaXmOpkFYdbwWi5a9gTHWMs0kE8De1SxrN2EbuVIL45OfMTgb0tjgZeNTDK8HDh7EZxEPEmSzDrKOSBOGiNdEhCT5X5vZ53M28=;BbpPbCpoI2pHlbDT+NqCZA=="
 ---

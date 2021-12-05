@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amaz
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html"
 type: article
 quality: 121
-heat: 271
+heat: 261
 published: true
 
 provider:
@@ -128,20 +128,6 @@ related:
     images:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/30/ML-6841-PART2-image001-736x630.png"
         width: 736
-        height: 630
-        isCached: true
-  - title: "AWS Announces Six New Amazon SageMaker Capabilities"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. LAS VEGAS, (BUSINESS WIRE) -- Today, at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc ..."
-    publishedDateTime: 2021-12-01T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-six-new-amazon-sagemaker-capabilities-2021-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
         height: 630
         isCached: true
   - title: "AWS introduces flurry of new AI tools for Amazon SageMaker"

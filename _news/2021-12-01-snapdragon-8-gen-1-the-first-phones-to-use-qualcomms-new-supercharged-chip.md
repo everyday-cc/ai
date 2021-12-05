@@ -27,33 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm launches Snapdragon 8 Gen 1 mobile platform with AI, camera, security boost"
-    excerpt: "Qualcomm has announced Snapdragon 8 Gen 1 featuring improved camera capabilities, artificial intelligence (AI) applications, and security enhancements.  During the annual Qualcomm Snapdragon Tech Summit,"
-    publishedDateTime: 2021-11-30T23:32:00Z
-    webUrl: "https://www.zdnet.com/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/"
+  - title: "Qualcomm’s new PC chips are good, but they still can’t match Apple’s M1"
+    excerpt: "The Snapdragon 8cx Gen 3 is Qualcomm's latest Arm-based PC chip. But can it compete against Intel and the Apple M1?"
+    publishedDateTime: 2021-12-01T23:23:00Z
+    webUrl: "https://www.androidauthority.com/snapdragon-8cx-gen-3-intel-apple-3068879/"
+    ampWebUrl: "https://www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-apple-3068879/"
+    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-apple-3068879/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 99
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/06c2754bb5fd41361d2d19fb5758a85123fdf813/2021/11/24/37ec361f-765c-4608-910d-f9b36d8d9acc/screenshot-2021-11-24-at-15-37-15.png?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 783
+      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2021/11/Qualcomm-Snapdragon-laptop.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Google, Qualcomm partner on mobile AI, neural networking technologies"
-    excerpt: "The tech giants will collaborate on neural networking to speed up and optimize AI models. KONA, HAWAII: Google Cloud and Qualcomm have revealed a new partnership in the neural networking space. Announced at the annual Qualcomm Snapdragon Tech Summit on Tuesday,"
-    publishedDateTime: 2021-11-30T23:38:00Z
-    webUrl: "https://www.zdnet.com/article/google-qualcomm-partner-on-mobile-ai-technologies/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-qualcomm-partner-on-mobile-ai-technologies/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-qualcomm-partner-on-mobile-ai-technologies/"
+  - title: "Qualcomm's New Laptop Chips Are Here, and They're Not Exactly MacBook Killers"
+    excerpt: "Qualcomm has lofty dreams of making PC chips that will rival Apple’s M-series processors by 2023, but in the meantime, the company is introducing its latest ARM-based laptop chips: the Snapdragon 8cx Gen 3 and Snapdragon 7c+."
+    publishedDateTime: 2021-12-01T23:00:00Z
+    webUrl: "https://gizmodo.com/qualcomms-new-laptop-chips-are-here-and-theyre-not-exa-1848140930"
+    ampWebUrl: "https://gizmodo.com/qualcomms-new-laptop-chips-are-here-and-theyre-not-exa-1848140930/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/qualcomms-new-laptop-chips-are-here-and-theyre-not-exa-1848140930/amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Gizmodo
+      domain: gizmodo.com
     quality: 86
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/c0d9545492f9f5714d92ced6b51a364b.jpg"
+        width: 800
+        height: 448
+        isCached: true
   - title: "Qualcomm’s betting on AI to take on Apple and Google’s chips"
     excerpt: "Apple has been in a league of its own when it comes to developing processors for phones and embedding its own AI-powered experience. But this year, Google has thrown its hat in the ring by debuting it"
     publishedDateTime: 2021-12-01T03:25:00Z
@@ -67,22 +72,6 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/plugged?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2FSnapdragon-8-Gen-1-Chip-Image-e1638281690475.jpg&signature=257e4c16e7241d1faf4b29cb8bf87f4a"
         width: 1266
         height: 633
-        isCached: true
-  - title: "Qualcomm launches Snapdragon 8 Gen 1 chip; will power next-gen Android flagship smartphones"
-    excerpt: "As expected, Qualcomm has today announced its next-generation flagship smartphone processor at the Snapdragon Tech Summit. The new chipset is called Snapdragon 8 Gen 1 and the company has also revealed details about the processor."
-    publishedDateTime: 2021-11-30T23:43:00Z
-    webUrl: "https://www.gizmochina.com/2021/11/30/qualcomm-snapdragon-8-gen-1-announced/"
-    ampWebUrl: "https://www.gizmochina.com/2021/11/30/qualcomm-snapdragon-8-gen-1-announced/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/30/qualcomm-snapdragon-8-gen-1-announced/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 79
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/11/Snapdragon-8-Gen-1-Mobile-Platform-Featured.jpeg"
-        width: 2048
-        height: 1152
         isCached: true
   - title: "Chip-maker Qualcomm joins hand with Google Cloud to create next-gen mobile AI models"
     excerpt: "Chip-maker Qualcomm is working hard to give users a powerful, smooth function chipset with improved AI capabilities, for which the tech company has partnered with Google Cloud to"
@@ -100,21 +89,21 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Snapdragon 8 Gen 1 flagship chip launched with better 5G connectivity, camera support, AI"
-    excerpt: "The new flagship chipset gets added benefits in terms of 5G connectivity, AI, gaming, camera, and Wi-Fi and Bluetooth"
-    publishedDateTime: 2021-12-01T04:50:00Z
-    webUrl: "https://www.bgr.in/news/snapdragon-8-gen-1-chipset-launched-with-better-5g-connectivity-camera-support-ai-and-more-1024805/"
-    ampWebUrl: "https://www.bgr.in/news/snapdragon-8-gen-1-chipset-launched-with-better-5g-connectivity-camera-support-ai-and-more-1024805/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/snapdragon-8-gen-1-chipset-launched-with-better-5g-connectivity-camera-support-ai-and-more-1024805/amp/"
+  - title: "Qualcomm ditches TSMC, lets Samsung produce new chips"
+    excerpt: "But some officials said that behind Qualcomm's selection of Samsung in the latest deal is TSMC's accelerated focus on making customized chips for Apple. Samsung's foundry service unit is said to have lost its status as a leading foundry service provider for the production of Nvidia's next-generation graphic processing unit (GPU) chips."
+    publishedDateTime: 2021-12-02T06:24:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/12/129_319858.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858"
     type: article
     provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 65
+      name: koreatimes.co.kr
+      domain: koreatimes.co.kr
+    quality: 59
     images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/11/Qualcomm-Snapdragon-8-Gen-1.jpg"
-        width: 1200
-        height: 675
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202112/57726f6325e54003b0e20662c879ec92.jpg"
+        width: 980
+        height: 524
         isCached: true
   - title: "Qualcomm Unveils New Snapdragon 8 Gen 1 Chip for Next-Generation Flagship Phones"
     excerpt: "Qualcomm unveiled its new 5G mobile platform for next-generation flagship Android devices, called Snapdragon 8 Gen 1."
@@ -131,54 +120,6 @@ related:
       - url: "https://www.androidbeat.com/wp-content/uploads/2021/12/Snapdragon-8-Gen-1-hero.png"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "Qualcomm and Google are partnering to provide a better AI experience on smartphones"
-    excerpt: "Google and Qualcomm plan to accelerate neural network development and differentiation for Snapdragon mobile, ACPC, and XR platforms, Snapdragon Ride Platform, and Qualcomm Technologies’ IoT platforms"
-    publishedDateTime: 2021-12-01T07:41:00Z
-    webUrl: "https://www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/"
-    ampWebUrl: "https://www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 53
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/11/google.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Qualcomm Snapdragon 8 Gen 1 chip will power flagship phones from OnePlus and Xiaomi"
-    excerpt: "The Qualcomm Snapdragon 8 Gen 1 will power most top-end Android smartphones coming later this year and early next year."
-    publishedDateTime: 2021-12-01T01:44:00Z
-    webUrl: "https://indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/"
-    ampWebUrl: "https://indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 53
-    images:
-      - url: "https://images.indianexpress.com/2021/11/Snapdragon.jpg"
-        width: 1200
-        height: 667
-        isCached: true
-  - title: "Qualcomm Snapdragon 8 Gen 1 announced: Top features, specs, and phones to be powered by new chip"
-    excerpt: "Qualcomm unveiled the much-anticipated Snapdragon 8 Gen 1 processor as its new 5G mobile platform for next-generation flagship Android devices at the annual Snapdragon Tech Summit on Wednesday. The chip is the first to feature the new Snapdragon branding."
-    publishedDateTime: 2021-12-01T12:50:00Z
-    webUrl: "https://www.financialexpress.com/industry/technology/qualcomm-snapdragon-8-gen-1-announced-top-features-specs-and-phones-to-be-powered-by-new-chip/2380111/"
-    ampWebUrl: "https://www.financialexpress.com/industry/technology/qualcomm-snapdragon-8-gen-1-announced-top-features-specs-and-phones-to-be-powered-by-new-chip/2380111/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/qualcomm-snapdragon-8-gen-1-announced-top-features-specs-and-phones-to-be-powered-by-new-chip/2380111/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 46
-    images:
-      - url: "https://images.financialexpress.com/2021/12/qualcomm-snapdragon.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Qualcomm, Google Cloud collaborate to create next-gen mobile AI"
     excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
@@ -233,20 +174,6 @@ related:
       name: ProPakistani
       domain: propakistani.pk
     quality: 39
-  - title: "Qualcomm’s Snapdragon 8 Gen 1 is here with a 30% faster Adreno GPU"
-    excerpt: "As the world’s most advanced mobile platform, Snapdragon is synonymous with premium Android experiences, and the new Snapdragon 8 Gen 1 sets the standard for the next generation of flagship mobile devices,"
-    publishedDateTime: 2021-12-01T16:13:00Z
-    webUrl: "https://technosports.co.in/2021/12/01/qualcomms-snapdragon-8-gen-1-is-here-with-a-30-faster-adreno-gpu/"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 39
-    images:
-      - url: "https://technosports.co.in/wp-content/uploads/2021/12/qc_onq_sd_8-gen-1_header.png"
-        width: 688
-        height: 376
-        isCached: true
   - title: "\"Snapdragon 8cx Gen 3\": Qualcomm unveils new chip for Windows PCs"
     excerpt: "Chipmaker Qualcomm has announced the new Snapdragon 8cx Gen 3 compute platform as a successor of the 8cx Gen 2 model that was launched last year. The new Snapdragon 8cx Gen 3 chipset is built for always on,"
     publishedDateTime: 2021-12-02T06:51:00Z
@@ -261,21 +188,19 @@ related:
         width: 790
         height: 530
         isCached: true
-  - title: "Qualcomm Snapdragon 8cx Gen 3 5nm Compute Platform announced — up to 85% faster CPU, up to 60% faster GPU, 4K HDR video"
-    excerpt: "The new Snapdragon 8cx Gen 3 is built on the 5nm architecture that offers up to 85% faster CPU multitasking performance and up to 60% faster GPU performance. It supports 5G (sub-6 GHz and mmWave) and the Snapdragon X65 5G RF-Modem system delivers peak download speeds of up to 10 Gbps,"
-    publishedDateTime: 2021-12-01T17:30:00Z
-    webUrl: "https://www.fonearena.com/blog/352865/qualcomm-snapdragon-8cx-gen-3-compute-platform-features.html"
-    ampWebUrl: "https://www.fonearena.com/blog/352865/qualcomm-snapdragon-8cx-gen-3-compute-platform-features.html/amp"
-    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/352865/qualcomm-snapdragon-8cx-gen-3-compute-platform-features.html/amp"
+  - title: "Qualcomm Announced the Chip That’ll Power Almost Every Android Flagship in 2022"
+    excerpt: "Qualcomm has just announced the ARM chip that will power most of next year’s high-end Android phones. The rumored 898 model number isn’t happening, though. Qualcomm has changed its naming scheme with the latest flagship chip,"
+    publishedDateTime: 2021-12-02T13:26:00Z
+    webUrl: "https://www.extremetech.com/mobile/329418-qualcomm-announced-the-chip-thatll-power-almost-every-android-flagship-in-2022"
     type: article
     provider:
-      name: FoneArena
-      domain: fonearena.com
+      name: ExtremeTech
+      domain: extremetech.com
     quality: 35
     images:
-      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/12/Snapdragon_8_Gen_1_Chip-640x353.jpg"
+        width: 640
+        height: 353
         isCached: true
   - title: "Qualcomm adopts Google Cloud neural architecture search for AI Engine"
     excerpt: "Qualcomm and Google Cloud agreed to work together to accelerate neural network development and differentiation for Snapdragon mobile, ACPC and XR platforms, the Snapdragon Ride Platform and Qualcomm's IoT platforms."
@@ -303,6 +228,15 @@ related:
     provider:
       name: Telecompaper
       domain: telecompaper.com
+    quality: 19
+  - title: "Chip shortage to ease next year, says Qualcomm CEO"
+    excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the situation is expected to improve next year. According to The Elec website, Amon said that supply has improved this year over 2020 and the situation is expected to further improve in 2022,"
+    publishedDateTime: 2021-12-05T11:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211205/3867803.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 19
 
 secured: "WoA4PPFLbskLuiK3TTZDxOkTIhwuO8Cp8RlqkDJCNcE/ykSXc9h5rfDyl3JaG5ZJfLVl1ZMRgwr45M5UDkWH4z05RYlUvIQiAB7c2iur94pwm3r4AcedSKWMBkcBcTCFarBhakgH9XXsCJb3rG11xLy/foCf5y4h61qbNhh3r1y0ULPtaBN/gImAEs7FORvfTXNhBW0pttC80mA9Qk31ZtthNsrR25iCFSA4GbyBtn4PoUWllDdTXtUEYO7uqRyKQdRSRzeRzrPFU/17+zAvtEQT8JBuHQDKm+uwRg1P5u+ykplRf1QUWZ+I2uQmhBvMS4Lm9RagTGkPR8fOmkksDuifJCLvSdLUhl+MFn09bL4m8epnZWiu0O4w+Q+sdum6fT/Nkdj0ny8Qq8BDR5pgaWsLDXM6oBYiRJG9U8KpUqukpwxtqh5Mnnwz+LMfGHhITNKCOA5nP/m0mH3VMkqBiti3CiODFZ5a/FP3geIhZzXm1dWScAmkbQfjoJkbz/vYHcNONIl3+/UEZ7uNHC+U6g==;+9rt93DVfNxMzXP5ai8nNQ=="

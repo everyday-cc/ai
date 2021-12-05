@@ -1,22 +1,30 @@
 ---
 category: news
 title: "AWS Announces AWS Cloud WAN"
-excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Cloud WAN, a managed wide area network (WAN) service that makes it faster and easier for enterprises to build, manage, and monitor a unified global network that seamlessly connects cloud and on-premises environments."
-publishedDateTime: 2021-12-02T17:44:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-aws-cloud-wan-/2021/12/02/9504034.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-aws-cloud-wan-/2021/12/02/9504034.htm"
+excerpt: "New managed WAN service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises"
+publishedDateTime: 2021-12-02T16:34:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/b24412664/aws-announces-aws-cloud-wan"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/b24412664/aws-announces-aws-cloud-wan"
+ampWebUrl: "https://www.benzinga.com/amp/content/24412664"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24412664"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Top 12 AI and machine learning announcements at AWS re:Invent 2021"
@@ -235,6 +243,6 @@ related:
       domain: publicnow.com
     quality: 4
 
-secured: "shj/5fpPbNuQ67hZKnd6USN699mjSvfrQsuqi8csrgXowucVHxY1o36RCnLTKyqRQEBcSJiUuEBQtQ4gEPBeESvBA3CtzdguRdl958M+mMIH1n6b2k+A2jaWaKHonyAN/jch58EfWF/H+JMJ98Ex5p8ITxlWakOpBCLuIQLryUXahZomTHsvyyvveLBcg4wJIu619Bs4O/IJ/avFs1ce/nbnL3ICVbqZA7yahldytf/f0dBcPbqzKoLEj6/dAIVfpT/24J6xIlkbeSBL5dg1Qcin2MkYfBziDnqdDJqQkzSNAkWxa/2g6/vkKVRSM36UPtU3GshjE21IontAZeRmP0An8wydC/T6XBFC60P8QIk=;mafBiL1z5TxyJNI9/d20Ew=="
+secured: "Be2X5xObBzVf/baUayzk1/0nAmFbnHLaO2Y+i6tahwH9FgS9ssPEL3x/nd77wlqHkDCWTIWLSLGqkb4c1DzIEAaBW7rf8dMWaL+gbFMnUzurVNPBCdh26ACFCaiuaWuzRn+VEwb89eTzA+lgk5DGV1Y2gEsn27f9opfOGf+LPgICwVVbG3Pvi0Hc740sFenEnIW32SqqHw5ZdmV+nXhwpxwPLr8G85rGB86gueQ1IcKfDTXXx9TT51HJSfzsF06sZNGGPibNJQsyXvpsq84JXmzq4boRJ4qJIpAlCRaLww0ELwTZEj28oBaZyecpBTZS07dR3lsgQOp2apXrfSvGRy5MZgEhPDQHd2046KCj8JQ=;NoQnh4Tge58D3zeDF1dLFQ=="
 ---
 

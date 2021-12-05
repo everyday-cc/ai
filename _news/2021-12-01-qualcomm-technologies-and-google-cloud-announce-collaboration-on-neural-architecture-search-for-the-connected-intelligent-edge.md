@@ -36,20 +36,6 @@ related:
       name: Newswire Today
       domain: newswiretoday.com
     quality: 0
-  - title: "Qualcomm Technologies and Google Cloud Announce Collaboration on Neural Architecture Search for the Connected Intelligent Edge"
-    excerpt: "Qualcomm Technologies, Inc. and Google Cloud announced their collaboration to accelerate neural network development and differentiation for Snapdragon®"
-    publishedDateTime: 2021-12-05T11:00:00Z
-    webUrl: "https://www.impulsegamer.com/qualcomm-technologies-and-google-cloud-announce-collaboration-on-neural-architecture-search-for-the-connected-intelligent-edge/"
-    type: article
-    provider:
-      name: Impulse Gamer
-      domain: impulsegamer.com
-    quality: 0
-    images:
-      - url: "https://www.impulsegamer.com/articles/wp-content/uploads/2020/10/qualcomm-1024x1024.png"
-        width: 1024
-        height: 1024
-        isCached: true
 
 secured: "wBrglxn9eWUPsSwZsaQZzAPV9k3Ty5RFuBOTN1YU5ANFp9cBfG3WDFeMDlZyvYmydrsutrkFbxhh40jF9gOF9y+9cHV69JS41qI8u39afWMcohLZUbTLs1/b5ZXOJi59avRavZCLN3Qk2Lurws7zbm+yfIKwj8jaZDAmUNc9np3odUiik7kzaDyyLGTCRysVvRmAT83kPIju2LJZIxsPLYd+wlNwmPF1McaUgrqF4CPahlL20r43d2wq5/uz10URxWb1znpafPqi12/n0RfK1RdsQfmqBzGWU7TCcdwZgFxBBFYxpN/YTktfBit/z/g/7AmxH7YYCELkMspgtlupc6DPkhdLRXHO6scibamUFI4=;u6/X94JpBt7h/sFHhzR3Gg=="
 ---
