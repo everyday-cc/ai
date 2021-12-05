@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?amp"
 type: article
 quality: 101
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://assets.technologynetworks.com/production/dynamic/images/content/356418/deepmind-ai-used-to-develop-new-math-techniques-356418-640x360.jpg?cb=20211202"
         width: 640
         height: 360
-        isCached: true
-  - title: "Will 2022 Be The Year of Machine Learning in Healthcare?"
-    excerpt: "As we end 2021, we’re seeing once again many predictions that 2022 will be the Year of Machine Learning in Healthcare.  Having been in the field for several years now, we’re delighted by the optimism!"
-    publishedDateTime: 2021-11-30T20:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/2022-year-machine-learning-healthcare-jaikumar-ramanathan/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH_yh2awX0W1Q/article-cover_image-shrink_720_1280/0/1638304560217?e=1643846400&v=beta&t=tr7TC_D7D2U1rOoX8clY8zFCEeArwWpdJg_DqOhuzvA"
-        width: 1080
-        height: 720
         isCached: true
   - title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
     excerpt: "DeepMind, the UK-based artificial intelligence company backed by Google’s parent company, Alphabet Inc, has developed a program that can help mathematicians spot patterns. It has already led to ..."

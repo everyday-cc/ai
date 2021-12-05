@@ -317,20 +317,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Qualcomm Snapdragon 8 live blog — all the big news as it happens"
-    excerpt: "We just learned a little bit more about the Snapdragon 8 Gen 1, Qualcomm's new system-on-chip for mobile phones. The chipset was introduced during a keynote launching the chip maker's annual Snapdragon Tech Summit in Hawaii."
-    publishedDateTime: 2021-11-30T19:28:00Z
-    webUrl: "https://www.tomsguide.com/news/live/qualcomm-snapdragon-announcement-all-the-big-news-as-it-happens"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/WDKRVyAVxTwmwvxBSUpMf6-1200-80.jpeg"
-        width: 1200
-        height: 612
-        isCached: true
   - title: "Qualcomm unveils new chip for Windows PCs"
     excerpt: "The NPU in the chipset comes with 6.5 TOPS of AI compute power which is an improvement as the NPU in the predecessor has 5 TOPS. It supports 5G (sub-6 GHz and mmWave) and the Snapdragon X65 5G RF ..."
     publishedDateTime: 2021-12-02T12:58:00Z

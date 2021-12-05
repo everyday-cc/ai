@@ -74,20 +74,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "No-Code Machine Learning Services for AWS"
-    excerpt: "Amazon has today announced Amazon SageMaker Canvas, a new machine learning service. The target audience here isn’t high-tech data scientists and engineers, but rather anyone working in a company with access to IT resources."
-    publishedDateTime: 2021-11-30T20:20:00Z
-    webUrl: "https://bestgamingpro.com/no-code-machine-learning-services-for-aws/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 56
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/AWS-gets-a-no-code-ML-service.png"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Discovery sticks with AWS for cloud services"
     excerpt: "Discovery has extended its use of AWS for cloud services. The broadcaster uses AWS’ tech for the infrastructure carrying its discovery+ platform, digital services, and over 450 linear channels around the globe."
     publishedDateTime: 2021-12-03T09:50:00Z
@@ -195,6 +181,6 @@ related:
       domain: businesswire.com
     quality: 19
 
-secured: "JuNqOnPaMX6ewKQUSrmBjPBCMWAV5hJKcj1RjjH8O+3uMo9w+KSSC5AGclHjptKPbesdk43IfqP1a4qqlf89XcYUhzbv7Qm+0KprW0WJXB7J/twQdxy/qSI5sT7nTrvhEebWV0qOrUF+nU3JtmpjwTtulRuXGcKUWivaaaOzZ8hj5Yyuwycb7Esnd6QoZBgOI9aQVQ0TmOMygHtuA7Iu+qRc8zSetYqAtdV8/bN1FhzsBFcQ/Y2MztHy9HlE9UzODJ42aAE5zeHZmhr+fZHNWVYYWWXJVBfttoP9Qv+AYSTtprYSyqMgjH2Ajdk6v4ZJdi5ZXej54u66MLLSgWq7R6PgpygbhCoQIKWk7WphTAs=;OMkqci7yVWHbmT9MEqzSuA=="
+secured: "qX1W1cYtaWn1TFM+FtB9H6L2T6oGf4hn0J5YU3h/GeQXOhKK7woTyQo4F2q2LRKDELoIiINq7RNfDoYJ266pSnmw4u/aJdk5OMtlRi9NgkmKyOmg41tevGK+Xpbnw0ndpyNvMbUzsoFmtajqUyLztjnZgkmedGV4C7EdgLq/owcmc4eWJZY2bpYm/ip8kscdweT4QbVpa29m9CQUQDa+B0MW5h6a/sg4D8GEvmYAsuA0zovt41BXC2La8LktDFUKzIlKffzBmC43W6RGq/cac3iJsAhbDyWZg4tTojTkUI62Pds2AuGwuuI7vZAhtLFhimrlAcS+5RXcBvdB+N/dR1+wrIeeg39Srge1Pniuao5J4WEbxPQM1SBJ/998QbVLVuBSLh4aWxnKraFfp+aTGx4V+EH0Yl9E/KvIRQ4MzN8TZhhTgWk1MnfATX7DzEJSuO8dSeS7RCP1n9j8KpxtO9yTQvj+kG2ZazXuLWMyCk8YxPSFd0tlL2poGQ6LmQ8MAtDGxuQ1lBFOtGCb+M9B4g==;6aHMZ6mTA4OjBPgeOW3PPg=="
 ---
 

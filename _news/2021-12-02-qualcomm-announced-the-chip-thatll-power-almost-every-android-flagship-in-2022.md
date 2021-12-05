@@ -74,19 +74,14 @@ related:
         height: 524
         isCached: true
   - title: "Chip shortage to ease next year, says Qualcomm CEO"
-    excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the s"
-    publishedDateTime: 2021-12-05T06:04:00Z
-    webUrl: "https://menafn.com/1103305554/Chip-shortage-to-ease-next-year-says-Qualcomm-CEO&source=30"
+    excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the situation is expected to improve next year. According to The Elec website, Amon said that supply has improved this year over 2020 and the situation is expected to further improve in 2022,"
+    publishedDateTime: 2021-12-05T11:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211205/3867803.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/05/I_1afb8image_story.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "YJAQIktfV7XhUwC3bQd6FtlTyPhUnYxl70fxYFBZAU6onKL3RJZz8WgA6A6PBO/7ii4/bWKcEwWQVqjDNoUBRlahGkadTLbEaSMDVEpybUKXLhjw12W+8EMVtGRixNK1Osh9kaovtld7TClJibADq3VT1nyggPRJErcl+iRJfz6Dx3fVA55Q1YMlrcqHm6xphKmceSXBA76FdWMFpyygFXOF4WUdvzkct82kQmPHElAauZyT4TQHVgS6/Yzck10WwGmQw3jkINlofu0ybKvLw/gC2Gy8vqi5pmJaVQAFA26Tsy1K5ZzBPhAm5Rza3GW+OiQIxUWeX+c8e86gBGiPiib8C9Jtxdt0pPBwdL058bNB46MpLUE/nmXA1vxKcR8Q0+Rgqv3GlXSu6WTJw0EsDs7GwH0v6cibI+xqHUvGFUke9KPvGbumQ2Y7OmkwrQMsnnqQE5UL1ewDWQifsmGPs4p+RfGztX81D9oTB1d4Zq6uC9dDftijTM81rLcZPyKqLsQSt6hNxd5ewyOtJ9g3LQ==;UJhBkPzRG0AWGcScSQv3Ag=="
 ---

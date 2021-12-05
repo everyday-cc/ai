@@ -75,20 +75,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Will 2022 Be The Year of Machine Learning in Healthcare?"
-    excerpt: "As we end 2021, we’re seeing once again many predictions that 2022 will be the Year of Machine Learning in Healthcare.  Having been in the field for several years now, we’re delighted by the optimism!"
-    publishedDateTime: 2021-11-30T20:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/2022-year-machine-learning-healthcare-jaikumar-ramanathan/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH_yh2awX0W1Q/article-cover_image-shrink_720_1280/0/1638304560217?e=1643846400&v=beta&t=tr7TC_D7D2U1rOoX8clY8zFCEeArwWpdJg_DqOhuzvA"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "Big data in healthcare: 3 spine surgeons weigh in"
     excerpt: "Three surgeons consider the pros and cons of big data and how it will affect spine care and the wider healthcare field."
     publishedDateTime: 2021-12-01T18:38:00Z

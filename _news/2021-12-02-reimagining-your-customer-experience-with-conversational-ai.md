@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Capabilities Are Quickly Becoming Essential for Customer Experience Initiatives, According to Dash Research"
+    excerpt: "Eastern Standard Time Dash Research's report, “Artificial Intelligence for CX Applications” , focuses on the market drivers and barriers surrounding the adoption and use of AI in CX platforms, applications,"
+    publishedDateTime: 2021-12-01T06:30:00Z
+    webUrl: "https://menafn.com/1103281768/Artificial-Intelligence-Capabilities-Are-Quickly-Becoming-Essential-for-Customer-Experience-Initiatives-According-to-Dash-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?268511"
+        width: 444
+        height: 250
+        isCached: true
 
 secured: "YJGz6xj1ndRu8WM/Prf7ZasG4EGlCaXNfFw1WFTXKQUplc/KwFXtVZq60oefZiyjYVFlY1NNLgzKCqfroOY800TBOyfSBGvpqCTeZxFRzS4l7jX/s93ETq2i7OxTOyOhTYR2wXoPE6YpbJ8yDmJNxGGcJ/5gJrD+axfGuf9lVkKV9BnwHLQK1fs16xa+7dQbZdlucIjSngsxwe/JcIirws1zv8RcJEGZKEvK78Fe+lViH3KSrVoBKXgj5IbztGB34y4ONF8DjHuJDF9s6gIIMPvS97pioUKJl6Hm1PM4ws+bB0LlcikwAXMz94MdkgD5/PEK/VZBl3bTT+euv+JMcmrgBkePjOXrYB8Cjzp0n3VzR0nyJjAWBknhpzMnOBB7JvonjC2gDKRryeLyODpUu7BzV9394qNrG7ZJh2YixP0/dV637ezxz6y3q0E8JSAGGUweXLXVTXkosUHgD+zkeAPJkm6a3kUdUVtehJ4pqM1LG/23ayfrmIrfMbUaMxFepCSNL3mLtcRvjdO4erb4/Q==;bnr+sIZbzFjDNncu4KtlPA=="
 ---

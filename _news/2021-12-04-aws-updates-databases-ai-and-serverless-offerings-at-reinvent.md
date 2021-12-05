@@ -64,22 +64,6 @@ related:
         width: 769
         height: 600
         isCached: true
-  - title: "AWS kicks off re:Invent with compute, networking, and data launches"
-    excerpt: "New AWS CEO Adam Selipsky fired off a barrage of new product announcements in his first AWS re:Invent keynote."
-    publishedDateTime: 2021-11-30T21:00:00Z
-    webUrl: "https://www.infoworld.com/article/3642374/aws-kicks-off-reinvent-with-compute-networking-and-data-launches.html"
-    ampWebUrl: "https://www.infoworld.com/article/3642374/aws-kicks-off-reinvent-with-compute-networking-and-data-launches.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642374/aws-kicks-off-reinvent-with-compute-networking-and-data-launches.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 89
-    images:
-      - url: "https://images.techhive.com/images/idgnsImport/2015/08/id-2958856-reinvent_2015_03_keynote_1-100601984-large.jpg?auto=webp&quality=85,70"
-        width: 700
-        height: 466
-        isCached: true
   - title: "Roundup of re:Invent 2021 Amazon SageMaker announcements"
     excerpt: "At re:Invent 2021, AWS announced several new Amazon SageMaker features that make machine learning (ML) accessible to new types of users while continuing to increase performance and reduce cost for data scientists and ML experts. In this post, we provide a summary of these announcements, along with resources"
     publishedDateTime: 2021-12-01T18:35:47Z
@@ -191,20 +175,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/selipskyreinvent2021-2.jpg"
         width: 3735
         height: 2514
-        isCached: true
-  - title: "AWS Announces AWS Private 5G"
-    excerpt: "Invent, Amazon Web Services (News - Alert), Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Private 5G, a new"
-    publishedDateTime: 2021-11-30T20:22:00Z
-    webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/11/30/9501903.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 39
-    images:
-      - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-        width: 1577
-        height: 1050
         isCached: true
   - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."

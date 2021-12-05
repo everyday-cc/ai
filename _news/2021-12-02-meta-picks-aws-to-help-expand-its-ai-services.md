@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aw
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp"
 type: article
 quality: 106
-heat: 236
+heat: 226
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
         width: 600
         height: 336
-        isCached: true
-  - title: "No-Code Machine Learning Services for AWS"
-    excerpt: "Amazon has today announced Amazon SageMaker Canvas, a new machine learning service. The target audience here isn’t high-tech data scientists and engineers, but rather anyone working in a company with access to IT resources."
-    publishedDateTime: 2021-11-30T20:20:00Z
-    webUrl: "https://bestgamingpro.com/no-code-machine-learning-services-for-aws/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 56
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/AWS-gets-a-no-code-ML-service.png"
-        width: 1000
-        height: 600
         isCached: true
   - title: "AWS updates databases, AI and serverless offerings"
     excerpt: "Invent, AWS unveiled updates to database, machine learning and serverless offerings designed to reduce complexity and cost."

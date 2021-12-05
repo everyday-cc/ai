@@ -1,25 +1,28 @@
 ---
 category: news
 title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-excerpt: "Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was finalized last month, a year after the series A funding of USD 6."
-publishedDateTime: 2021-12-01T03:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
+excerpt: "Nota's NetsPresso is its proprietary hardware-aware AutoML platform that automates AI model development process only with datasets. NetsPresso significantly reduces time and resources that are ..."
+publishedDateTime: 2021-12-01T02:54:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-301434615.html"
+webUrl: "https://www.prnewswire.com/news-releases/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-301434615.html"
 type: article
-quality: 19
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - Machine Learning
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1698783/image_1.jpg?p=facebook"
+    width: 797
+    height: 419
+    isCached: true
 
 related:
   - title: "Nota raises $14.7M to adapt biometrics, AI models for edge applications"
@@ -109,6 +112,6 @@ related:
         height: 697
         isCached: true
 
-secured: "QO0LSTAXSKNRljlmNs/aQ3EeZzeS5HeMYcJG36OKMXdH4ISvylLUPk6+a+Mz1CIlPCTOkQZUb8wrQVk7SwsNz5sWbURV/0/QxlewCoJ9FRYeAzW7Nk+Z66uQzyEvkpMlX2T6jSOeT1qwLNqql8YRN++yCnX2b7pX3wcsEQZ/ETfPa7rdiiDyLXB3oBVP0jueTgC1lbOgTMNd+Oxdbp5EjfbPmoWcZu9a0oHYA7gA+bxCFKObFATajQSQYQq9fLw6iUA0AT557/4NKwu426Gln2a2yC94cDj6yt6rBoV5UqSVqD0XsJUHym/YU8fMv/CYosUFPp+BpVcQi/Z88ZsZvA5uRcG5d7ZFEEI8pbQEQJ2iYzPKazagYPC2sZzZcbLyO3tUMMe5BAdNCwoOYCncCk/AwJ+/PQwKoXpg28WrDpxg1Jg1R1t5Kk1IldaizCCd/coVAobH93E/j/KcSHZsruHbORoqNKE/21LbTvCqhcOi/p+Gk1uNBnACEsGcvchIcrxh/YGljFuJgGLtsx6WgQ==;VkGF/VUYbl91yW2n39sWXQ=="
+secured: "zWUY46kmGi3uxfjNS5/UW7021C/MuzbjUg9ClCgbpnx2Veah23/Sx4Dtw+o6krNpADUfRqHKvt6Tm5lnTcN/Qb0YRgY8fPPbDftqaDbVzUzI54sS9kdxJX3nm/puqM2jWlnCeaHK73gM+tLg1KlxxCdzldLcYEqJHQOMF0/NmRtBIPTjGjafTp4anUgdw8Mgr6ExZvoJSRqd4PPYK/rpCumiszzaOnJmBEciLaFa280POgKt6ydBqoZo5vnDDJR1HOx/pWWIQqSVWT9OfrkywehMpGk7p9mRilJB9wbp/RtX4nGY7DCo7/jy2SxQUBJLP8nGcw/Os24WG3mnKe7abja9SIfqlb/yHOjc2DhUlhE=;CzQZ1JyYbeddFNp3h/8uXg=="
 ---
 

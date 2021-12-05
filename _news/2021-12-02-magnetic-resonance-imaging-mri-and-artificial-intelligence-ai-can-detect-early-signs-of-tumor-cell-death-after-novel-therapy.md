@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "MRI, AI may detect early signs of tumour cell death after novel therapy"
+    excerpt: "According to new research led by Massachusetts General Hospital, it has been found that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumour cell death in response to novel virus-based cancer therapy."
+    publishedDateTime: 2021-12-03T22:49:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211203/3866660.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "aiKwfEq8sBKXnIZ5Ezg70U65U5G2t5r4qS6I4IwIbXH1+jDWGYY833JKwHZIa446s/wWXC5HD3jznjQi6wplqLuZoLgAnsZTkUAaAaDmcwr3gRYFEv1GhTwBnh8yqw+u9ONRTjXIap0XDeLIRt5q/+HaKmDxU2HIC7KDswq87xpEFk8NYmlKj3ziE0vNTGZReLF+G6jurii7JZQOowkHzVPRuKlYdHkRZ6Qw/jT/xRAyxs+INDT5qXG7tJSEgwaPauq8bTL6VrZvcTaWPTHS8WXt8bfd1m4UAj0O28Isqkd06p5Ry/jrUJmODJhxJ1i2vWUBFLRmsSssUCPjBNVeiS2Ll3awukjo6bD9i2ImLMI=;3uSXG8sne/iL7OoyALHMiQ=="
 ---

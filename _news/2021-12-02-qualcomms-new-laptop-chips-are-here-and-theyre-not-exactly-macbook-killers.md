@@ -63,20 +63,6 @@ related:
         width: 980
         height: 524
         isCached: true
-  - title: "Chip shortage to ease next year, says Qualcomm CEO"
-    excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the s"
-    publishedDateTime: 2021-12-05T06:04:00Z
-    webUrl: "https://menafn.com/1103305554/Chip-shortage-to-ease-next-year-says-Qualcomm-CEO&source=30"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/05/I_1afb8image_story.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Qualcomm Announced the Chip That’ll Power Almost Every Android Flagship in 2022"
     excerpt: "Qualcomm has just announced the ARM chip that will power most of next year’s high-end Android phones. The rumored 898 model number isn’t happening, though. Qualcomm has changed its naming scheme with the latest flagship chip,"
     publishedDateTime: 2021-12-02T13:26:00Z
@@ -91,6 +77,15 @@ related:
         width: 640
         height: 353
         isCached: true
+  - title: "Chip shortage to ease next year, says Qualcomm CEO"
+    excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the situation is expected to improve next year. According to The Elec website, Amon said that supply has improved this year over 2020 and the situation is expected to further improve in 2022,"
+    publishedDateTime: 2021-12-05T11:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211205/3867803.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "NLQp+ZRAo5CfZNO0FHbc7YlRbLpuJr6xVUOy2rM/K/HUfQEDN7FW8UXhe/Ph1MK2JPS5a7OIdnRCECkUkeH+TKi4+NLIMSGWAvW4b3I9A0k4AbUfV8aU0gtZ7xQcmVGtw1ZAQiKnojMj3EhxAN4Uov1whsQnYgpMYONR8Myw5skbku0ftHr3yiBgL5ToBpTDmx2k1zpnESuSjt6rLV/WgGadFvByxux1n/aujOOWYUkzNDwb9Z3MvA38m3jpg+vSHBPFoQly45OzaVE/Sy3fbZS9kIioQy6oBogq8znQA99iQA291dwxuFMDFUZoGoeik2bs4bxHknWJrtRtWTEGukzgzhT2fXCyYYgSnYnQCjWlr8TJTuf7LvFNltFy3lLiuQnyWGeQKTjkqggraJC0sgLlqsbXEri8J98XgeZ+emUjqtigItJUK/Giyq6z1839Kh625XB0KCwTlWOcvhxoxHSseJUbXhofxB2Dg+pEshQhqsXUiyygI6rZaZV1ymBoIoyoLQ30gdweKiMJeu1Rcg==;BeMbBiPhxKTthgFBZZeT5A=="
 ---

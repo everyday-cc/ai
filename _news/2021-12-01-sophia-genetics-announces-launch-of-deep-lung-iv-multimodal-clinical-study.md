@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/sophia-genetics-an
 webUrl: "https://markets.businessinsider.com/news/stocks/sophia-genetics-announces-launch-of-deep-lung-iv-multimodal-clinical-study-1031016309"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 400
     height: 267
     isCached: true
+
+related:
+  - title: "What Exactly Is Google AI’s MURAL: Multimodal, Multi-task Retrieval Across Languages"
+    excerpt: "MURAL uses multitask learning applied to image–text pairs in combination with translation pairs covering over 100 languages."
+    publishedDateTime: 2021-12-05T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/what-exactly-is-google-ais-mural-multimodal-multi-task-retrieval-across-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 32
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/mural-google.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Kzhru6oGVIzmiCNCUMlSZEWbTdJtx+PITHYfWQ+id6pG7uexHjVHFdYs8Pq8wWhFDQzmAhXxa0Q5vbmGWhkCFaqI8XZBdkwlfamnaQr5+f9THnCg8pcAFD5fLcI74NowvuHUdFy4F5HtgVw2UyLw2TWwzo2QyiJONIy3RyT7CkJTUdZ6lbd/SPSlEAODTF38A5d/unRkHn0Oo6cOtAwjCEbq1EZgJgiMZoj/TVnR/y97BXh0X8A37hu/+2mOBErmK3jRKLLfwRu26c0yWDlOUVqtZv5aINQtOCw2QslbC2dUeLmbbNt3s1K5DTtOuXuXShy+tov3Ywl4kZ7LnQYALC9Hy9+v/aKz3UbWiHzT4as=;ij8TWy6iLZy28TPP2qf3fg=="
 ---

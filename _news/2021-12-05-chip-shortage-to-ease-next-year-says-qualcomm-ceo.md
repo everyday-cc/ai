@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Chip shortage to ease next year, says Qualcomm CEO"
-excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the s"
-publishedDateTime: 2021-12-05T06:04:00Z
-originalUrl: "https://menafn.com/1103305554/Chip-shortage-to-ease-next-year-says-Qualcomm-CEO&source=30"
-webUrl: "https://menafn.com/1103305554/Chip-shortage-to-ease-next-year-says-Qualcomm-CEO&source=30"
+excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the situation is expected to improve next year. According to The Elec website, Amon said that supply has improved this year over 2020 and the situation is expected to further improve in 2022,"
+publishedDateTime: 2021-12-05T11:26:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20211205/3867803.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20211205/3867803.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://menafn.com/updates/pr/2021-12/05/I_1afb8image_story.jpg"
-    width: 400
-    height: 400
-    isCached: true
 
 related:
   - title: "Qualcomm’s new PC chips are good, but they still can’t match Apple’s M1"
@@ -88,6 +82,6 @@ related:
         height: 353
         isCached: true
 
-secured: "xBFDH+jiZuXAgMpLmqvJ+Yr1lVhsvkUFOUXohwkZTMoPihctr+dmnSMEsro6oIb5/5piZ0mWVVIyat8HFrWe8RH3I6p7y2jTAs0Yd9MHXvxOaT1EMKWwYQCzdaxr6JVJ4bV9XeoSMSQly2m28ciNDhwodQ5578PuDPBE4COFzpIf8r0npEU0i+pN2Kf/z4ujTmvqzxtmkCAE6uet2LtQsCXQL221YrOBLfhX0yJo2IiptkOOqWS9Gh4bwpi0eZAGPbOLNG2Ur6dsVELmhmn96IQbla6aDHWZO2EwltruBzkxqoz+7usdqtQdNo5ucpU4UyiQtMygW5KLDvlJiV8ZgQ3TEV0DvTRjUcWHrFjhPtA=;wobokJIo++3xjmp2SioLgQ=="
+secured: "3LWbQCO++IGxEAkxrC782P05AxiGshsuTIFyODBK4r6XjQkhMd/Amuac5VlTu/IuaumIGUiOwlVR1wUdncYFe/sPNl7X/UUj4C8z0tP6IGI0d2eRXuOAqL0La8ds504DiEbQj4u1S3zyVAH4tyZqqxg8tZJgzUtsb0Pl13tUnb/lZFKszXUM4jWTIr6RREF2kf0L20vVr/YL+P0O42a/2ojXWk1vP2sK6lXX+DRz8I/shDgarMyqvRvyuNYEHb2ObqT4CeVi6xpwj/+RSNfnKPwXTnUcoRsNCIWXbw4oenwzkUqER+QV8l1n8XeSNAilbScgl7Cxi41fVzu1yO+IuRG1tWfD641XJvPpwu1DyHc=;7CngfqiXTsvd+CqWG8nqFg=="
 ---
 

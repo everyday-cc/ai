@@ -59,20 +59,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "Chip shortage to ease next year, says Qualcomm CEO"
-    excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the s"
-    publishedDateTime: 2021-12-05T06:04:00Z
-    webUrl: "https://menafn.com/1103305554/Chip-shortage-to-ease-next-year-says-Qualcomm-CEO&source=30"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/05/I_1afb8image_story.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Qualcomm Announced the Chip That’ll Power Almost Every Android Flagship in 2022"
     excerpt: "Qualcomm has just announced the ARM chip that will power most of next year’s high-end Android phones. The rumored 898 model number isn’t happening, though. Qualcomm has changed its naming scheme with the latest flagship chip,"
     publishedDateTime: 2021-12-02T13:26:00Z
@@ -87,6 +73,15 @@ related:
         width: 640
         height: 353
         isCached: true
+  - title: "Chip shortage to ease next year, says Qualcomm CEO"
+    excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the situation is expected to improve next year. According to The Elec website, Amon said that supply has improved this year over 2020 and the situation is expected to further improve in 2022,"
+    publishedDateTime: 2021-12-05T11:26:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211205/3867803.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "jih0gL5AD9M6H8yrKJBhnaDcXSDSa21kjSL9k+IKQ20MCRzjpBMEjq9D3EWQfxdVWW/Y/LiuHc74dPE/UoQdtsof756KrchguWTzLos77fv7wR2DpByivd/vV1v6btwXhjZIlqcV15iCmXz8R3wrFhhOFZ++nnWRP3g+RNbNToee9pFrZzUeObz6S0+DvS/+Wxe5oaASZ4EvZm5vT1/m4BWREv34L90ijdgGWC3FlWI3uuCejLDoDHigtAPnv/Ja+etnd89xmDFclI8SLqba/axNT71/ZqsFFHw4K3CU+FMkfzvfRriY186UHd+vx4aNiu7dyomg4CcvIghl7oTafgvLs/G+s8ejhxiHbVdleDs=;C4Ye6vbPM8JzfGDJO1qSpQ=="
 ---

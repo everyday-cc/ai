@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/qualcomm-launches-snapdrago
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/"
 type: article
 quality: 99
-heat: 329
+heat: 319
 published: true
 
 provider:
@@ -313,20 +313,6 @@ related:
       - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
-        isCached: true
-  - title: "Qualcomm Snapdragon 8 live blog — all the big news as it happens"
-    excerpt: "We just learned a little bit more about the Snapdragon 8 Gen 1, Qualcomm's new system-on-chip for mobile phones. The chipset was introduced during a keynote launching the chip maker's annual Snapdragon Tech Summit in Hawaii."
-    publishedDateTime: 2021-11-30T19:28:00Z
-    webUrl: "https://www.tomsguide.com/news/live/qualcomm-snapdragon-announcement-all-the-big-news-as-it-happens"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 24
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/WDKRVyAVxTwmwvxBSUpMf6-1200-80.jpeg"
-        width: 1200
-        height: 612
         isCached: true
   - title: "Qualcomm adopts Google Cloud neural architecture search for AI Engine"
     excerpt: "Qualcomm and Google Cloud agreed to work together to accelerate neural network development and differentiation for Snapdragon mobile, ACPC and XR platforms, the Snapdragon Ride Platform and Qualcomm's IoT platforms."

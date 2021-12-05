@@ -179,6 +179,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Professors working on self-driving car technology that uses facial recognition system"
+    excerpt: "Professor A.J. Alnaser is turning this tricked-out Ford Fusion by moving his head, no hands needed. It might be the future of self-driving technology."
+    publishedDateTime: 2021-12-02T19:04:00Z
+    webUrl: "https://www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system"
+    ampWebUrl: "https://www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system?_amp=true"
+    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system?_amp=true"
+    type: article
+    provider:
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 54
+    images:
+      - url: "https://x-default-stgec.uplynk.com/ausw/slices/f9c/45bf940c346f431c9be273b8942ab6eb/f9c346911ec54171a39166a39d302dd0/poster_a84395db2a4e4150ab8f0cdfc18b9575.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Korean Facial Recognition Project Faces Opposition"
     excerpt: "It was discovered last month that a South Korean government project has been providing millions of facial images taken at Incheon International Airport to private industry without the consent of"
     publishedDateTime: 2021-12-01T12:00:00Z
