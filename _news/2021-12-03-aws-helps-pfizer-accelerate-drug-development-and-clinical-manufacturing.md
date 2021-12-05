@@ -37,15 +37,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Rackspace Technology Accelerates Momentum with AWS Through Customer"
-    excerpt: "Rackspace Technology ® (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, today announced its momentum with Amazon Web Services (AWS) through customer transformations, Amazon Quicksight Service Delivery (Amazon Quicksight SDP) and AWS Shield Advanced partner designations,"
-    publishedDateTime: 2021-11-30T17:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rackspace-technology-accelerates-momentum-with-aws-through-customer-/2021/11/30/9501796.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "ihpCIxAuyf/e2FqBrwKL2W3kpUK8WmRcoi1RWZgTCQ8qpg/J4O6Buoa3RAMSgCRmWJMobH6M1lMC/5jQUQr0MWgxiD4Ag9AqQdH4GDjLuRJ6ebTcnmo/qP1l3xhCSbYA3ax78l95Op9gGn4tTQfF1iSijj5dExOaZSAvMrV/DnA2diI/V00eu0iabHowvQ2pttr+BSc9yKbp7f0G/2Aj+Rxx1JiPWo7hSMFPtHEam34tcfhr+YK6YLF3eF8K4G1Ua3+ZNFALmbbhEbxASkKhzc5nON0f8+omYwrAwEIrE85DqOVMYHqBdMXcG1Np81gp62rgpdr3wuPrM3v1P3EdxAqXkdEHErSmRQ7GkCdF/uo=;4lalgTF4ep5iU69xc8aN4Q=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS debuts new compute-intensive and AI instances powered by custom chips"
+    excerpt: "AWS’ new Amazon EC2 C7g instances target compute-intensive workloads such as analytics tools and scientific modeling software. The C7g series is based on the AWS Graviton3 chip, the third interaction of the cloud giant’s internally-designed processor."
+    publishedDateTime: 2021-11-30T19:51:00Z
+    webUrl: "https://siliconangle.com/2021/11/30/aws-debuts-new-compute-intensive-ai-instances-powered-custom-chips/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 70
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/aws.png"
+        width: 850
+        height: 471
+        isCached: true
   - title: "Artificial Intelligence Capabilities Are Quickly Becoming Essential for Customer Experience Initiatives, According to Dash Research"
     excerpt: "Eastern Standard Time Dash Research's report, “Artificial Intelligence for CX Applications” , focuses on the market drivers and barriers surrounding the adoption and use of AI in CX platforms, applications,"
     publishedDateTime: 2021-12-01T06:30:00Z

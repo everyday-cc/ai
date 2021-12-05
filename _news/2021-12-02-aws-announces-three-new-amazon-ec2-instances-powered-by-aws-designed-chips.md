@@ -25,68 +25,174 @@ images:
     isCached: true
 
 related:
-  - title: "AWS launches its Graviton 3 processor"
-    excerpt: "Invent conference, AWS today announced the newest generation of its Arm-based Graviton processors: the Graviton 3. The company promises that the new chip will be 25 percent faster than the last-generation chips,"
-    publishedDateTime: 2021-11-30T17:18:00Z
-    webUrl: "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/"
-    ampWebUrl: "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/"
+  - title: "Meta picks AWS to help expand its AI services"
+    excerpt: "Meta, the parent company of Facebook, said it will use AWS services to \"complement\" its on-premise infrastructure and also broaden its use of AWS compute, storage and security ser"
+    publishedDateTime: 2021-12-02T13:10:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 189
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 106
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-12.00.02-PM.jpg?w=1024"
-        width: 1024
-        height: 558
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638449640/itpro/pytorch_meta_aws_GettyImages-1236945622.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "AWS Unveils The Latest On Graviton, Inferentia And Trainium Instances At Re:Invent 2021"
-    excerpt: "Invent 2021, which is the Amazon Web Services (AWS) annual user conference. This article will attempt to synthesize what he considers the biggest EC2 announcements related to AWS’s custom silicon."
-    publishedDateTime: 2021-11-30T17:30:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/11/30/aws-unveils-the-latest-on-graviton-inferentia-and-trainium-instances-at-reinvent-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/11/30/aws-unveils-the-latest-on-graviton-inferentia-and-trainium-instances-at-reinvent-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/11/30/aws-unveils-the-latest-on-graviton-inferentia-and-trainium-instances-at-reinvent-2021/amp/"
+  - title: "AWS Announces New Storage Services and Capabilities"
+    excerpt: "Amazon announced four new storage services and capabilities at AWS re:Invent that deliver more choice, reduce costs, and help customers better protect their data. Amazon Simple Storage Service (Amazon S3) Glacier Instant Retrieval is now available as a new access tier in Amazon S3 Intelligent-Tiering."
+    publishedDateTime: 2021-12-01T20:37:00Z
+    webUrl: "https://www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities"
+    ampWebUrl: "https://www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities?amp"
+    cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 98
+      name: StorageReview
+      domain: storagereview.com
+    quality: 61
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a65ed13635b6190e7f2e6d%2F0x0.png"
-        width: 1200
-        height: 600
+      - url: "https://www.storagereview.com/wp-content/uploads/2021/12/s3-glacier-overview.png"
+        width: 2360
+        height: 888
         isCached: true
-  - title: "Amazon announces Graviton3 processors for AI inferencing"
-    excerpt: "Invent 2021 conference, Amazon announced Graviton3, the latest generation of its cloud-hosted AI inferencing chips."
-    publishedDateTime: 2021-11-30T17:32:00Z
-    webUrl: "https://venturebeat.com/2021/11/30/amazon-announces-graviton3-processors-for-ai-inferencing/"
-    ampWebUrl: "https://venturebeat.com/2021/11/30/amazon-announces-graviton3-processors-for-ai-inferencing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/amazon-announces-graviton3-processors-for-ai-inferencing/amp/"
+  - title: "AWS Announces Four New Storage Services and Capabilities"
+    excerpt: "New Amazon S3 Glacier storage class is designed to offer the lowest cost storage for milliseconds retrieval of archived data—also available as a new access tier in Amazon"
+    publishedDateTime: 2021-11-30T23:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24373445/aws-announces-four-new-storage-services-and-capabilities"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24373445"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24373445"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "AWS unveils new Graviton and machine learning chips at re:Invent"
-    excerpt: "Invent gets underway once again, AWS has kicked things off with its next-gen Graviton processor and a new Trainium AI chip."
-    publishedDateTime: 2021-12-01T12:28:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/dec/01/aws-unveils-new-graviton-and-machine-learning-chips-at-reinvent/"
+  - title: "No-Code Machine Learning Services for AWS"
+    excerpt: "Amazon has today announced Amazon SageMaker Canvas, a new machine learning service. The target audience here isn’t high-tech data scientists and engineers, but rather anyone working in a company with access to IT resources."
+    publishedDateTime: 2021-11-30T20:20:00Z
+    webUrl: "https://bestgamingpro.com/no-code-machine-learning-services-for-aws/"
     type: article
     provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
+      name: bestgamingpro
+      domain: bestgamingpro.com
     quality: 56
     images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/12/brian-kostiuk-S4jSvcHYcOs-unsplash-scaled.jpg"
-        width: 2560
-        height: 1704
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/AWS-gets-a-no-code-ML-service.png"
+        width: 1000
+        height: 600
         isCached: true
+  - title: "AWS updates databases, AI and serverless offerings"
+    excerpt: "Invent, AWS unveiled updates to database, machine learning and serverless offerings designed to reduce complexity and cost."
+    publishedDateTime: 2021-12-05T10:10:00Z
+    webUrl: "https://www.arnnet.com.au/article/693681/aws-updates-databases-ai-serverless-offerings/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/swami_sivasubramanian_aws_1.jpg"
+        width: 504
+        height: 315
+        isCached: true
+  - title: "Discovery sticks with AWS for cloud services"
+    excerpt: "Discovery has extended its use of AWS for cloud services. The broadcaster uses AWS’ tech for the infrastructure carrying its discovery+ platform, digital services, and over 450 linear channels around the globe."
+    publishedDateTime: 2021-12-03T09:50:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/discovery-sticks-with-aws-for-cloud-services/5165717.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 39
+    images:
+      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/0/8/6/1359086_discoverymultidevicelockupimage_764460.jpg"
+        width: 1024
+        height: 536
+        isCached: true
+  - title: "AWS announces expanded cloud partnerships with Meta, Discovery and Aurora"
+    excerpt: "Meta Platforms Inc., formerly Facebook Inc., as well as Discovery Inc. and Aurora Innovation Inc., which develops autonomous vehicle technology. The partnership with Meta is the main highlight. Besides being one of the world’s largest tech firms,"
+    publishedDateTime: 2021-12-01T18:35:00Z
+    webUrl: "https://siliconangle.com/2021/12/01/aws-announces-expanded-cloud-partnerships-meta-discovery-aurora/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/aws.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "AWS Announces Service For Enterprises To Deploy And Scale Private 5G Networks"
+    excerpt: "AWS Identity and Access Management allow network administrators to directly control which mobile devices can access on their private networks."
+    publishedDateTime: 2021-12-01T12:52:00Z
+    webUrl: "https://analyticsindiamag.com/aws-announces-service-for-enterprises-to-deploy-and-scale-private-5g-networks/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/maxresdefault-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
+    excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
+    publishedDateTime: 2021-12-01T08:50:00Z
+    webUrl: "https://www.financialbuzz.com/aig-selects-aws-as-its-preferred-public-cloud-provider/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 34
+  - title: "Meta/Facebook turns to AWS as \"long-term strategic cloud provider\" for acquisitions, third-party collaborations, and AI"
+    excerpt: "Meta said that it will run third-party collaborations in AWS and use the cloud to support acquisitions of companies that are already powered by AWS. It will also use AWS’s compu"
+    publishedDateTime: 2021-12-03T11:41:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-turns-to-aws-as-long-term-strategic-cloud-provider-for-acquisitions-third-party-collaborations-and-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Mark_Zuckerberg_Gets_Meta.2e16d0ba.fill-1200x630.png"
+        width: 730
+        height: 383
+        isCached: true
+  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
+    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services, Inc."
+    publishedDateTime: 2021-12-01T08:55:00Z
+    webUrl: "https://www.financialbuzz.com/workato-joins-aws-partner-network-and-is-a-launch-partner-for-ai-for-data-analytics/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 30
+  - title: "Meta picks AWS as long-term strategic cloud provider"
+    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-02T07:52:00Z
+    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
+    publishedDateTime: 2021-12-01T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "lgEGpZl8bgkyvtdVAiPStINFN73xtvJmznhIiGV2IjGc6VCoyI2mnORTA7toU7pxUw+r3DKll7wUcv9TtwZJuvHEtxocRtzZx5rgEnbt6A+vdKp83uI058MQAz8aCv4DlTuWI6AlnxeOQB+1QGnJStvNVNn8hf1j0fNNHyDI4DSnchHJYLHe3Ig0scUj3MZ3cU2h0rembPGt9rNUYmM8++LvVCMtdSj+Bym8KWetYMTsAvrCFLf4XmwEAq4EvU5fFjX9GwIsEUJdhTSHaQVWQPd9JDbjp8xKYXA4Fz1vrLrXvQC3onjc9QlvShIuHeOi4y2XzxdiPIGRejJcN1x9kYO4C+WUq4U8Y+OvnZnN/08=;9vP5CVvdquxN0ou+AySI+A=="
 ---

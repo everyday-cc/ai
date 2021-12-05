@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Robots built from frog cells have unlocked the ability to self-replicate"
-    excerpt: "Robots such as these, capable of making offshoots of themselves, could be a future tool for science and medicine."
-    publishedDateTime: 2021-11-30T17:39:00Z
-    webUrl: "https://www.popsci.com/science/xenobots-synthetic-life-form-reproduce/"
-    ampWebUrl: "https://www.popsci.com/science/xenobots-synthetic-life-form-reproduce/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/science/xenobots-synthetic-life-form-reproduce/?amp"
+  - title: "AI-designed Xenobots Have Figured Out How To Replicate, Living Robots Are Coming"
+    excerpt: "I bet you thought we needed to look towards the stars in order to find some new form of biological mechanism. Or perhaps into the depths of our oceans, which run deeper than Jerry Jones’ pockets, or so I’ve been told."
+    publishedDateTime: 2021-12-04T12:00:00Z
+    webUrl: "https://www.autoevolution.com/news/ai-designed-xenobots-have-figured-out-how-to-replicate-living-robots-are-coming-175397.html"
     type: article
     provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 58
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 49
     images:
-      - url: "https://www.popsci.com/uploads/2021/11/29/opener.jpg?auto=webp&width=720&crop=16:9,offset-x50"
-        width: 720
-        height: 405
+      - url: "https://s1.cdn.autoevolution.com/images/news/ai-designed-xenobots-have-figured-out-how-to-replicate-living-robots-are-coming-175397_1.jpg"
+        width: 1485
+        height: 1080
         isCached: true
 
 secured: "VxmsrBnZ0Px7zhFVJGRBKr/k1Pv5z3VlNsK6jkrr6gcofbLXsBei3Jqi7WPRUFpe/G04gL7giEJ4eGk2Hg+NTolryrBYf0bXRGiThymZaND7u+2AFKrGVFZTu4tuOVp3I6ZgiYwdZFQKGprj1UJXgoCnuQ9DhmPtODCfRyaO1r0rzILTlX44vm/VWar0qAKE7EhCYG96TY9sURF4n0JXAVER7Qmj7eKXmHxw9nsRDDWI3UpxLDGfPpEBylYvVuZesgjLo3uZ5hRD00l/i73LCOXjq8poO0TEMmfMQrsYe1+35uUAwu9He1i3OpVGzdsrx2Uf6xLceBuyGaMLnFD2dM5daelIxevyt28CW16dgbp+p5kHHkNH1DC6vDR/l+fvAYkFYcTQBMWZYgNFphIHRlix+QNCwOIc2LI82oe3/RKcL/FHKpyh0zfDRTSPbqHg02uN8mHqkDUVVmz+szkrlFdvmXCSzf+5yHoqizEpvcejK6yhmdmWnkKgzefTgfWdxix/4HS3t6/GjWrQvyVrvA==;An01Vnf37RXf13fk6V5yzA=="

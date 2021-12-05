@@ -26,37 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "AWS introduces new Trn1 chips to speed up training of machine learning models"
-    excerpt: "As more companies move to custom silicon for their customer’s workloads, Amazon has been busy on this front. They introduced the Inferentia chip in 2019 to help speed up inference learning. Then last year the company launched a second Trainium chip,"
-    publishedDateTime: 2021-11-30T17:40:00Z
-    webUrl: "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/"
-    ampWebUrl: "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/amp/"
+  - title: "HKUST and other universities in the city team with US researchers to work on AI chips"
+    excerpt: "AI chips are processors optimised for data-intensive AI applications such as Internet of Things (IoT) devices, allowing them to run faster."
+    publishedDateTime: 2021-11-30T21:00:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 118
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 97
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-12.02.09-PM.jpg?w=1024"
-        width: 1024
-        height: 582
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/30/8881de5f-9221-46c3-83b9-7968d752e7a8_5c1086f0.jpg?itok=d_8xI6OY&v=1638274676"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AWS introduces new features to make ML more accessible"
-    excerpt: "Amazon Web Services (AWS) has announced a slew of features and services to make technologies like machine learning more accessible and cost-effective,.."
-    publishedDateTime: 2021-12-02T07:16:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233"
+  - title: "HKUST establishes AI chip design R&D consortium with ambitious goals"
+    excerpt: "The AI Chip Center for Emerging Smart Systems (ACCESS) founded by the Hong Kong University of Science and Technology (HKUST) convened a press conference on the 30th of November to share the vision of fostering a semi-open R&D platform bridging the gap between the semiconductor industry and the academics while helping develop transnational talents to meet the huge demand of the market."
+    publishedDateTime: 2021-12-01T02:40:00Z
+    webUrl: "https://digitimes.com/news/a20211130VL205.html"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 76
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
     images:
-      - url: "https://st.etb2bimg.com/Themes/Release/images/responsive/etcio-logo-400x400.jpg"
-        width: 850
-        height: 850
+      - url: "https://digitimes.com/newsshow/20211130VL205_files/2_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Artificial Intelligence Capabilities Are Quickly Becoming Essential for Customer Experience Initiatives, According to Dash Research"
+    excerpt: "Eastern Standard Time Dash Research's report, “Artificial Intelligence for CX Applications” , focuses on the market drivers and barriers surrounding the adoption and use of AI in CX platforms, applications,"
+    publishedDateTime: 2021-12-01T06:30:00Z
+    webUrl: "https://menafn.com/1103281768/Artificial-Intelligence-Capabilities-Are-Quickly-Becoming-Essential-for-Customer-Experience-Initiatives-According-to-Dash-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 7
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?268511"
+        width: 444
+        height: 250
         isCached: true
 
 secured: "2UhkuNy+2WkVNMhIV6ePa3AuwaAVeHHt/0/rAVxWKwepaarbxCI0opWqzi97yWfc7WEWKkXVoqVuAEX8FvmbCS1lDc3pmAiHPdulE3jW7l+DWc51Ww9bMTnWBV+LeUNNklg1V4z8s6iaK95GTOIRjXCRY/BwP1uXio4IAIJ1lWiBpzmMqzAu3GlcqTtYBOtk3QZO+GnxZpueRCscPgdndi/8Vx5+973qEz7hD1NIbe8nyaq3vXFlGq37yUUYL9AoyD5YcoXDxwZx7vuzLX0imTp5SGzFJMneyfLSQqoZ9pUNMRFXlB8DtCb9BTDm3u56gQS511gHSiXKX+PCXr5i9fGkMfF9VH4i0LEUaOrB8iM=;E4ge/HZPINu+VSvp/OgWrA=="

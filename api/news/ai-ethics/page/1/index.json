@@ -308,6 +308,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-01-ethics-of-ai-193-members-of-unesco-adopt-recommendations.md",
+      "title": "Ethics Of AI: 193 Members Of UNESCO Adopt Recommendations",
+      "excerpt": "In a historic global agreement, all 193 members of UNESCO adopt the recommendations on the ethics of AI document",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/ethics-of-ai-193-members-of-unesco-adopt-recommendations/",
+      "originalUrl": "https://analyticsindiamag.com/ethics-of-ai-193-members-of-unesco-adopt-recommendations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/12/eithic-banner_11zon.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-ex-google-ai-ethics-chief-boost-worker-power-to-curb-harmful-ai.md",
       "title": "Ex-Google AI ethics chief: Boost worker power to curb harmful AI",
       "excerpt": "Governments need to curb the power of tech companies and increase the power of workers in order to safeguard people from unsafe uses of artificial intelligence, Google's former AI ethics chief Timnit Gebru told a hearing at the European Parliament on Tuesday.",
@@ -1386,58 +1429,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board.md",
-      "title": "AI2 CEO Oren Etzioni to chair UiPath’s new AI advisory board",
-      "excerpt": "UiPath, a publicly traded \"robotic automation process\" company, announced that Allen Institute for Artificial Intelligence (AI2) CEO Oren Etzioni will chair its new artificial intelligence",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/",
-      "originalUrl": "https://www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/12/Oren-Etzioni-298x300.png",
-          "width": 298,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/amp/",
-      "publishedDateTime": "2021-11-17T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

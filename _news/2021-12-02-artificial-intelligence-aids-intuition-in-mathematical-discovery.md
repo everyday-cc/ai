@@ -65,22 +65,6 @@ related:
         width: 320
         height: 397
         isCached: true
-  - title: "7 Proven Ways to Scale AI Projects and Speed Up AI Implementation In Your Organization"
-    excerpt: "According to an Accenture report, 75% of C-Suite executives think that their business will go out of business within"
-    publishedDateTime: 2021-11-30T17:30:00Z
-    webUrl: "https://www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112"
-    ampWebUrl: "https://www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 49
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/11/artificial_intelligence_machine_learning_network_thinkstock_671750598-100724432-large.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "oTDpGiL9+JNGeWzBaTYoSPN2fVLHAwRmsBkP7BJTtQT4zlcXcif6V0WvDNaxE4Mvn4xqRYTx2tHQnHgIYs03PVVXEHWl81wSzct7M7DieHG+P89EJOAUuV6cHWICX78mESfyMBiPqctoKKKExucg/JIP0mRSWWk1Kie5GyBsn5rsZV+L6WbBy0BHj8k9sDkjjIBsYIzc5iiYlkoA6TfqZ0EDo5opg6CrrtDOe/5ZNu4ePwpm/rJBODZdqHCE//W1CMXJSo/K9bRcNdfPjGC4GiMIuE5YyM0lhpnt3MOFVj3R92GFf2d6if5+eAtlOTTR2jZimM656FK/9I9rQjODA3gndQDbRpvnMnrX4kPAMQDwXWQsqBCiEwZqpnazdoE9a8pe5n77ycwCxT2EIwVkdbXX8BbPbSF/JioKsoWO5hOEtfeKTAQwyN1Z3MxBHOWZhvCftKRP2MwEUbgr9ioLQkxFCgzKbXjqfvSBbNMlpZdCdWhi4IB8JXVm/VSdD2jelLC2BR3m4FL9qNy0e6nYkQ==;M7Z07PzhU9bgIM9p6ONg9g=="
 ---

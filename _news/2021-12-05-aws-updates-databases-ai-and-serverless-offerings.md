@@ -1,27 +1,28 @@
 ---
 category: news
-title: "Discovery sticks with AWS for cloud services"
-excerpt: "Discovery has extended its use of AWS for cloud services. The broadcaster uses AWS’ tech for the infrastructure carrying its discovery+ platform, digital services, and over 450 linear channels around the globe."
-publishedDateTime: 2021-12-03T09:50:00Z
-originalUrl: "https://www.broadcastnow.co.uk/tech/discovery-sticks-with-aws-for-cloud-services/5165717.article"
-webUrl: "https://www.broadcastnow.co.uk/tech/discovery-sticks-with-aws-for-cloud-services/5165717.article"
+title: "AWS updates databases, AI and serverless offerings"
+excerpt: "Invent, AWS unveiled updates to database, machine learning and serverless offerings designed to reduce complexity and cost."
+publishedDateTime: 2021-12-05T10:10:00Z
+originalUrl: "https://www.arnnet.com.au/article/693681/aws-updates-databases-ai-serverless-offerings/"
+webUrl: "https://www.arnnet.com.au/article/693681/aws-updates-databases-ai-serverless-offerings/"
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Broadcast
-  domain: broadcastnow.co.uk
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
-  - AWS AI
+  - Microsoft AI
   - AI
+  - AWS AI
 
 images:
-  - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/0/8/6/1359086_discoverymultidevicelockupimage_764460.jpg"
-    width: 1024
-    height: 536
+  - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/swami_sivasubramanian_aws_1.jpg"
+    width: 504
+    height: 315
     isCached: true
 
 related:
@@ -87,19 +88,19 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "AWS updates databases, AI and serverless offerings"
-    excerpt: "Invent, AWS unveiled updates to database, machine learning and serverless offerings designed to reduce complexity and cost."
-    publishedDateTime: 2021-12-05T10:10:00Z
-    webUrl: "https://www.arnnet.com.au/article/693681/aws-updates-databases-ai-serverless-offerings/"
+  - title: "Discovery sticks with AWS for cloud services"
+    excerpt: "Discovery has extended its use of AWS for cloud services. The broadcaster uses AWS’ tech for the infrastructure carrying its discovery+ platform, digital services, and over 450 linear channels around the globe."
+    publishedDateTime: 2021-12-03T09:50:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/discovery-sticks-with-aws-for-cloud-services/5165717.article"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 56
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 39
     images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/swami_sivasubramanian_aws_1.jpg"
-        width: 504
-        height: 315
+      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/0/8/6/1359086_discoverymultidevicelockupimage_764460.jpg"
+        width: 1024
+        height: 536
         isCached: true
   - title: "AWS announces expanded cloud partnerships with Meta, Discovery and Aurora"
     excerpt: "Meta Platforms Inc., formerly Facebook Inc., as well as Discovery Inc. and Aurora Innovation Inc., which develops autonomous vehicle technology. The partnership with Meta is the main highlight. Besides being one of the world’s largest tech firms,"
@@ -194,6 +195,6 @@ related:
       domain: businesswire.com
     quality: 19
 
-secured: "igqxsNtsyAH22Ht/ubwObk7NBHcy4qLT6eC39AJyCMTd7+aT5tfmdspY9rdgoHxT3zhPAmfrlNQmcaEDMqfau3roAdqwJKU7V1tSbB9icvp5fSEF4o2pnYWAc2GkZtD/HV1WMrQEIBBOSOD3TH0Oks0LTJrksf6BMczvREsC3oCRQCkV+4M8wJGnZfBBNQ6VHqZuLJw1ZGOpmFxH6VhpIfwIDNBgyoLyHZbnyFOksi/aFe9zSAQ9XI1KGM82ksCJnG0vyWlhDv4tT1m/i6exAC/MJtD4ThM/x/vohxPEqkTPbXDdSNkX6hn3aVYin/ZQK3eP3HvYWT5JBm/IIgZBt4hO0TyKl3vTm0hNUPO7rheG6YZ0ZDRT5NlFb1WRboX7ERKr+VJ2ZhYNWZ7tOo1/knLSjY1MkFo6sel2I0yafv8S/JEKlRbbDYp8kqMN0LXX6jrHLGIiZ8ZsMYCvktxGrEMf3f58tcNMkDLDWcwhloir4pe/K51ZtUsilW6E7tahjGt0uMkOXeljRI+yORXavg==;XMG9PkUD/WpbbrqFGNZbUg=="
+secured: "JuNqOnPaMX6ewKQUSrmBjPBCMWAV5hJKcj1RjjH8O+3uMo9w+KSSC5AGclHjptKPbesdk43IfqP1a4qqlf89XcYUhzbv7Qm+0KprW0WJXB7J/twQdxy/qSI5sT7nTrvhEebWV0qOrUF+nU3JtmpjwTtulRuXGcKUWivaaaOzZ8hj5Yyuwycb7Esnd6QoZBgOI9aQVQ0TmOMygHtuA7Iu+qRc8zSetYqAtdV8/bN1FhzsBFcQ/Y2MztHy9HlE9UzODJ42aAE5zeHZmhr+fZHNWVYYWWXJVBfttoP9Qv+AYSTtprYSyqMgjH2Ajdk6v4ZJdi5ZXej54u66MLLSgWq7R6PgpygbhCoQIKWk7WphTAs=;OMkqci7yVWHbmT9MEqzSuA=="
 ---
 

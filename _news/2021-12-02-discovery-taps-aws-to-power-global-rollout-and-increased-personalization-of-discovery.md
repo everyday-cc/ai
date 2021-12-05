@@ -95,20 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AWS announces expanded cloud partnerships with Meta, Discovery and Aurora"
-    excerpt: "Meta Platforms Inc., formerly Facebook Inc., as well as Discovery Inc. and Aurora Innovation Inc., which develops autonomous vehicle technology. The partnership with Meta is the main highlight. Besides being one of the world’s largest tech firms,"
-    publishedDateTime: 2021-12-01T18:35:00Z
-    webUrl: "https://siliconangle.com/2021/12/01/aws-announces-expanded-cloud-partnerships-meta-discovery-aurora/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/aws.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Discovery chooses AWS to power rollout and increased personalization of of discovery+"
     excerpt: "Discovery is also accelerating its digital transformation and enhancing viewing experiences across its more than 450 television channels"
     publishedDateTime: 2021-12-01T14:55:00Z
@@ -123,24 +109,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Meta picks AWS as long-term strategic cloud provider"
-    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-02T07:52:00Z
-    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
-  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
-    publishedDateTime: 2021-12-01T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
   - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
     excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more ..."
     publishedDateTime: 2021-12-01T14:05:00Z

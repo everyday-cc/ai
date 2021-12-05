@@ -70,23 +70,7 @@ related:
         width: 320
         height: 397
         isCached: true
-  - title: "7 Proven Ways to Scale AI Projects and Speed Up AI Implementation In Your Organization"
-    excerpt: "According to an Accenture report, 75% of C-Suite executives think that their business will go out of business within"
-    publishedDateTime: 2021-11-30T17:30:00Z
-    webUrl: "https://www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112"
-    ampWebUrl: "https://www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 49
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/11/artificial_intelligence_machine_learning_network_thinkstock_671750598-100724432-large.jpg"
-        width: 700
-        height: 467
-        isCached: true
 
-secured: "96RhgDHgjlpCAB5dzlLm0dZlOJNQt2Ujp9i9ondNkjsfekNbi6EJGFXBDkMqkpBOBK+VjPaai6j0Csc/k+yR6347gnZyeVKq6O7XWOw9DSNsBxDjzZ5oLcyTquFMTZNnFf0HWULAypjXkAdsgh3UowaFsZ5NFZCEmO9pnGPzdYCszcum5kNHP/lJQha16c6HDAQRWGXY5VOUdKHDiXPPzN2MxdhG/10pQnyvLnKYcyTyGWj5zpMGBqBlTFkCJ3zzeg6yU1qqzJhNR5IXYCwUA2jsjEXvQqzTrgFGMeqHlMPzUdgt4rRcKZBTR82tMmCPsBhRlvBxgy1cY+BQbGTw5nOms8uwyrV1m5cmRsZ6Abs=;2bDifVCZJV+rbEGO2ichhw=="
+secured: "yoV93jMDemWNhuAczPOIOp9+tV3YvyhDg8/XkiE12ZXuvn2ZBRHNGCKTuUaKQBk7CSAK/2m3QWTcCJI98GqtR2g6cvDuNQF0pEzQw1+E3WLFAzUyCqwnbIhpXSMN/jEvIaEVf4MFGQDRPabJMf9HfabxtrBs7xfv27qn8MTbm0qNhMwPn8iuU9Jv+KqNQbKwigx6apAXwHnRtAXJGYE4tRxJNV2vh/mAJzj7m/fIGlcs/ylbDkOsYu7m/EbPqgmtTVw4wYNGcpIfNI2Xha8NflL+IRmX5pw9oqG3pmAHwFMCkYIhzLQw8h0Y2lzGEw+KrJZcbIbF+1PTE0ezOsFi6vfXQjpFU6jD2BvZG45MzuU=;j+7bzoYtVrKQaE8joxy7Vw=="
 ---
 

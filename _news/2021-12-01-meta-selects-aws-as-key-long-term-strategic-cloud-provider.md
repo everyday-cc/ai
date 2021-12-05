@@ -28,15 +28,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 119
-  - title: "Rackspace Technology Accelerates Momentum with AWS Through Customer"
-    excerpt: "Rackspace Technology ® (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, today announced its momentum with Amazon Web Services (AWS) through customer transformations, Amazon Quicksight Service Delivery (Amazon Quicksight SDP) and AWS Shield Advanced partner designations,"
-    publishedDateTime: 2021-11-30T17:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rackspace-technology-accelerates-momentum-with-aws-through-customer-/2021/11/30/9501796.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "AWS Helps Pfizer Accelerate Drug Development and Clinical Manufacturing"
     excerpt: "(NASDAQ: AMZN), announced that it is working with Pfizer to create innovative, cloud-based solutions with the potential to improve how new medicines are developed, manufactured, and distributed for testing in clinical trials."
     publishedDateTime: 2021-12-03T09:09:00Z

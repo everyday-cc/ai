@@ -254,22 +254,6 @@ related:
         width: 790
         height: 530
         isCached: true
-  - title: "Qualcomm Snapdragon 8 Gen 1 4nm Mobile Platform official: 30% faster GPU, 8K HDR video capture, 10Gbps 5G modem"
-    excerpt: "Qualcomm just made the Snapdragon 8 Gen 1, the company’s latest flagship Mobile Platform official at the Qualcomm Snapdragon Tech Summit 2021 event, as it had announced. It has world’s first 10 Gigabit 5G Snapdragon X65 5G Modem-RF System,"
-    publishedDateTime: 2021-11-30T18:02:00Z
-    webUrl: "https://www.fonearena.com/blog/352777/qualcomm-snapdragon-8-gen-1-features.html"
-    ampWebUrl: "https://www.fonearena.com/blog/352777/qualcomm-snapdragon-8-gen-1-features.html/amp"
-    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/352777/qualcomm-snapdragon-8-gen-1-features.html/amp"
-    type: article
-    provider:
-      name: FoneArena
-      domain: fonearena.com
-    quality: 39
-    images:
-      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Qualcomm unveils its latest flagship Snapdragon chip"
     excerpt: "US mobile chip giant Qualcomm is so happy with its latest top-end SoC that it has even revamped the naming scheme."
     publishedDateTime: 2021-12-01T12:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-prote
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/amp/"
 type: article
 quality: 121
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -70,22 +70,6 @@ related:
       - url: "https://images.theconversation.com/files/434870/original/file-20211130-17-1ydvy5w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=397&fit=crop"
         width: 320
         height: 397
-        isCached: true
-  - title: "7 Proven Ways to Scale AI Projects and Speed Up AI Implementation In Your Organization"
-    excerpt: "According to an Accenture report, 75% of C-Suite executives think that their business will go out of business within"
-    publishedDateTime: 2021-11-30T17:30:00Z
-    webUrl: "https://www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112"
-    ampWebUrl: "https://www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/7-proven-ways-to-scale-ai-projects-and-speed-up-ai-implementation-in-your-organization-02444112/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 49
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/11/artificial_intelligence_machine_learning_network_thinkstock_671750598-100724432-large.jpg"
-        width: 700
-        height: 467
         isCached: true
 
 secured: "tHS87DcSGzHK45iT0kcilQv8U9ao3HSzorX2r7bzopoZvl7aox8QkO3v3H5Fp7UOeUCDTQxkLFLnRUwsihZ+TnN6NUzM3KmC0hrZc7WPfVY+ZBiSC2ey6fWZTgSEDlTsPQh87dUWuOxIByNYhoUqBu53DC3EDTThzKNmXOPQ4gVlYj1W2LIyTAJvTBwtMdE3wyTwc/7/ncuW3nNzlsRhVh4pLzEqvuQizPCUSHMHuzca6l3MxdayFo1FFfDVR0h1ZJBHkFdr7I2bIjLKgubIvOBgzSduM3YRMlStxBwhjzh/PivsnV14c1TnY7s6QtnQA6BbykxI14oB3nQ6PqzGoBGGuCPOXi9Q6bJg6wSEUYodRysL2O3fzQ0KcOu+4fw/hJCv0858c5/U0b5QctUIOLH8DiKdPxQlDHMko4dLuKrjgyepT0PzFurMCY5k1kHNhkL/Ryeij7W8298C9nudWpO0u8CvwYSBfQSYDk1nuthZMzCVuQlY5YyIsKAC8au3Xfa4yGJaEiRlqzSVB00Bsg==;TDamU3q1vFDFqf2JKpce9g=="

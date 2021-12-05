@@ -7,7 +7,7 @@ originalUrl: "https://www.financialbuzz.com/aws-named-united-airlines-preferred-
 webUrl: "https://www.financialbuzz.com/aws-named-united-airlines-preferred-cloud-provider/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
-    excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
-    publishedDateTime: 2021-12-01T08:50:00Z
-    webUrl: "https://www.financialbuzz.com/aig-selects-aws-as-its-preferred-public-cloud-provider/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 34
 
 secured: "Y49QgoZe1RyU0JtkahIIKij4Ougr+Z06tpv+nF20cv0jo+liNKtGt3BhTLiSV8P1wOD4eRIqokjkXsQKwlTOGyQ/GcqVMzEQO+t0YNWzCHM2tHuVCpfMnSnm8T6D2opzN7gIbSAe8cJGjlKpsFziIjrwMtRESDjerlU5JXk5NrEO7X6WbcGgq1IEkJ9ZEFFdUty+Q0dlBqWoQ2XXtvzwlqnHSdKsTmImXcJxUCYXaWRLDR/d3Ze6nR+kTU9mIlMxHagyZbuRuIY8EYzgllITb2MHaFKrMOj6htV2B9/UKr1/6YqMy/NuYvCQ18iwCnMCCLtgMWnuB4IYR0m4OxSmhUzpMCL1Obm4jHqGDxQuM0I=;qWlO7nOMhsitp397yD+7RQ=="
 ---

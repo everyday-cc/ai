@@ -25,96 +25,156 @@ images:
     isCached: true
 
 related:
-  - title: "AWS, Discovery Plus extend strategic partnership"
-    excerpt: "Extension enables Discovery Plus to deploy AWS so that it can offer greater personalisation capabilities to help viewers find the content they want to watch"
-    publishedDateTime: 2021-12-02T08:58:00Z
-    webUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership"
-    ampWebUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
+  - title: "Meta picks AWS to help expand its AI services"
+    excerpt: "Meta, the parent company of Facebook, said it will use AWS services to \"complement\" its on-premise infrastructure and also broaden its use of AWS compute, storage and security ser"
+    publishedDateTime: 2021-12-02T13:10:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp"
     type: article
     provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 106
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638449640/itpro/pytorch_meta_aws_GettyImages-1236945622.jpg"
+        width: 1260
+        height: 710
+        isCached: true
+  - title: "AWS Announces New Storage Services and Capabilities"
+    excerpt: "Amazon announced four new storage services and capabilities at AWS re:Invent that deliver more choice, reduce costs, and help customers better protect their data. Amazon Simple Storage Service (Amazon S3) Glacier Instant Retrieval is now available as a new access tier in Amazon S3 Intelligent-Tiering."
+    publishedDateTime: 2021-12-01T20:37:00Z
+    webUrl: "https://www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities"
+    ampWebUrl: "https://www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities?amp"
+    cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities?amp"
+    type: article
+    provider:
+      name: StorageReview
+      domain: storagereview.com
+    quality: 61
+    images:
+      - url: "https://www.storagereview.com/wp-content/uploads/2021/12/s3-glacier-overview.png"
+        width: 2360
+        height: 888
+        isCached: true
+  - title: "AWS Announces Four New Storage Services and Capabilities"
+    excerpt: "New Amazon S3 Glacier storage class is designed to offer the lowest cost storage for milliseconds retrieval of archived data—also available as a new access tier in Amazon"
+    publishedDateTime: 2021-11-30T23:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24373445/aws-announces-four-new-storage-services-and-capabilities"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24373445"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24373445"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 59
     images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/11/discovery-plus.png"
-        width: 1920
-        height: 1080
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "Discovery heads to AWS for cloud transformation"
-    excerpt: "Aiming to accelerate its digital transformation into the cloud and enhancing viewing experiences across its TV channels, content giant Discovery has extended its strategic relationship with AWS."
-    publishedDateTime: 2021-12-01T18:24:00Z
-    webUrl: "https://www.rapidtvnews.com/2021120161673/discovery-heads-to-aws-for-cloud-transformation.html"
-    ampWebUrl: "https://www.rapidtvnews.com/2021120161673/discovery-heads-to-aws-for-cloud-transformation.amp.html"
-    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021120161673/discovery-heads-to-aws-for-cloud-transformation.amp.html"
+  - title: "No-Code Machine Learning Services for AWS"
+    excerpt: "Amazon has today announced Amazon SageMaker Canvas, a new machine learning service. The target audience here isn’t high-tech data scientists and engineers, but rather anyone working in a company with access to IT resources."
+    publishedDateTime: 2021-11-30T20:20:00Z
+    webUrl: "https://bestgamingpro.com/no-code-machine-learning-services-for-aws/"
     type: article
     provider:
-      name: Rapid TV
-      domain: rapidtvnews.com
-    quality: 59
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 56
     images:
-      - url: "https://www.rapidtvnews.com/images/2021/Feb_2021/Dplus_discovery_10Feb2021.jpg"
-        width: 831
-        height: 333
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/11/AWS-gets-a-no-code-ML-service.png"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Discovery Extends Relationship with AWS To Assist in Global Rollout of Discovery+"
-    excerpt: "Discovery has turned to Amazon Web Services (AWS) to assist with the global rollout of discovery+, including enabling greater personalization capabilities to assist viewers in finding content that appeals to their interests,"
-    publishedDateTime: 2021-12-01T17:24:00Z
-    webUrl: "https://www.tvtechnology.com/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery"
-    ampWebUrl: "https://www.tvtechnology.com/amp/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery"
-    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery"
+  - title: "AWS updates databases, AI and serverless offerings"
+    excerpt: "Invent, AWS unveiled updates to database, machine learning and serverless offerings designed to reduce complexity and cost."
+    publishedDateTime: 2021-12-05T10:10:00Z
+    webUrl: "https://www.arnnet.com.au/article/693681/aws-updates-databases-ai-serverless-offerings/"
     type: article
     provider:
-      name: TV Technology
-      domain: tvtechnology.com
-    quality: 54
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/BrqKp374eMt7ua6V9k3wzg-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/swami_sivasubramanian_aws_1.jpg"
+        width: 504
+        height: 315
         isCached: true
-  - title: "Discovery taps AWS to power rollout of discovery+"
-    excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more personalized recommendations. “AWS provides the unparalleled ..."
-    publishedDateTime: 2021-12-01T15:03:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150311"
+  - title: "Discovery sticks with AWS for cloud services"
+    excerpt: "Discovery has extended its use of AWS for cloud services. The broadcaster uses AWS’ tech for the infrastructure carrying its discovery+ platform, digital services, and over 450 linear channels around the globe."
+    publishedDateTime: 2021-12-03T09:50:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/discovery-sticks-with-aws-for-cloud-services/5165717.article"
     type: article
     provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
+      name: Broadcast
+      domain: broadcastnow.co.uk
     quality: 39
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/141916-1200-by-630-personalized-viewing--307606049-ORG.jpg"
-        width: 1200
-        height: 630
+      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/0/8/6/1359086_discoverymultidevicelockupimage_764460.jpg"
+        width: 1024
+        height: 536
         isCached: true
-  - title: "AWS increases relationship with Discovery"
-    excerpt: "Amazon Web Services (AWS) has extended its relationship with Discovery as the broadcaster looks to the cloud to feed 450 linear TV channels and streaming service Discovery+."
-    publishedDateTime: 2021-12-02T11:19:00Z
-    webUrl: "https://www.broadbandtvnews.com/2021/12/02/aws-increases-relationship-with-discovery/"
+  - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
+    excerpt: "Amazon EC2 C7g instances powered by new AWS Graviton3 processors provide up to 25% better performance for compute-intensive workloads over current generation C6g instances powered by"
+    publishedDateTime: 2021-12-01T17:53:00Z
+    webUrl: "https://www.wicz.com/story/45347689/aws-announces-three-new-amazon-ec2-instances-powered-by-aws-designed-chips"
     type: article
     provider:
-      name: Broadband TV News
-      domain: broadbandtvnews.com
-    quality: 39
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 37
     images:
-      - url: "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2021/12/Discovery-Logos.jpg?fit=1200%2C675&#038;ssl=1"
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
-  - title: "Discovery chooses AWS to power rollout and increased personalization of of discovery+"
-    excerpt: "Discovery is also accelerating its digital transformation and enhancing viewing experiences across its more than 450 television channels"
-    publishedDateTime: 2021-12-01T14:55:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/KM-In-Practice/Discovery-chooses-AWS-to-power-rollout-of-discovery---150311.aspx"
+  - title: "AWS Announces Service For Enterprises To Deploy And Scale Private 5G Networks"
+    excerpt: "AWS Identity and Access Management allow network administrators to directly control which mobile devices can access on their private networks."
+    publishedDateTime: 2021-12-01T12:52:00Z
+    webUrl: "https://analyticsindiamag.com/aws-announces-service-for-enterprises-to-deploy-and-scale-private-5g-networks/"
     type: article
     provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 32
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
     images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/141916-1200-by-630-personalized-viewing--307606049-ORG.jpg"
-        width: 1200
-        height: 630
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/maxresdefault-2.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
+    excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
+    publishedDateTime: 2021-12-01T08:50:00Z
+    webUrl: "https://www.financialbuzz.com/aig-selects-aws-as-its-preferred-public-cloud-provider/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 34
+  - title: "Meta/Facebook turns to AWS as \"long-term strategic cloud provider\" for acquisitions, third-party collaborations, and AI"
+    excerpt: "Meta said that it will run third-party collaborations in AWS and use the cloud to support acquisitions of companies that are already powered by AWS. It will also use AWS’s compu"
+    publishedDateTime: 2021-12-03T11:41:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-turns-to-aws-as-long-term-strategic-cloud-provider-for-acquisitions-third-party-collaborations-and-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Mark_Zuckerberg_Gets_Meta.2e16d0ba.fill-1200x630.png"
+        width: 730
+        height: 383
+        isCached: true
+  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
+    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services, Inc."
+    publishedDateTime: 2021-12-01T08:55:00Z
+    webUrl: "https://www.financialbuzz.com/workato-joins-aws-partner-network-and-is-a-launch-partner-for-ai-for-data-analytics/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 30
   - title: "Meta picks AWS as long-term strategic cloud provider"
     excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
     publishedDateTime: 2021-12-02T07:52:00Z
@@ -133,24 +193,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
-  - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-    excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more ..."
-    publishedDateTime: 2021-12-01T14:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
-  - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-    excerpt: "(NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud. As Discovery’s preferred cloud provider, AWS powers the vast majority of the company’s infrastructure needs to deliver its discovery+ on-demand streaming video service,"
-    publishedDateTime: 2021-12-01T23:08:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 11
 
 secured: "r9K0Xk2KT/6XxdJJb3FoGXL2Fh4Fa9mLVg71HZJW3NnCfOYEOSyoHKcR45MHkJtuHtkryvwsve3XB204yNYSKHLPa1apsUkRGOttNodmeVfVtfevpN7z9od5u830wTPmgPRprJp9HZ19ak3rWBNFGZUcf8Q7n+SuNVrVUxCy6G+MR0mWKooqAmk+oyjwbzmLecNk/Witf+06+8NibN4aVrNKufik3YRqx59zpzJS1EkInTMGX+W0eD+JBilw59BLLQ2DdmJCO2c3pdQ81QZ3o7++Sq1nT3VCema2oVpJPQOvgZDrpKP7sbOXg+axV9h8+wVR1WAgg5PmLuEWVwkTqD+lexqWfLmKZr7c19gwf3rG+U+lMTqxKUgvTSEs53CGRQxdQ7UgzfbZnRqtBfHNWaK1SPcdCxKWv9b3Lbsp9X7tZ4rNuFmIIUnRddGsG2RpoFsTps9iOt7KQGV7LPuCcOSwh4MhAQuSggvW1fQ8SkM45MjHiMBuZPjBeDpKnbzIkQptADDSnLtaVUlquWNivg==;OD5gA6vxHgOpTWIu8iN5iQ=="
 ---

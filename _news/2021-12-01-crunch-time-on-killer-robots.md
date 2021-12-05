@@ -73,20 +73,6 @@ related:
         width: 400
         height: 210
         isCached: true
-  - title: "Xenobots, 'living robots', are now able to reproduce"
-    excerpt: "American scientists who created the Xenobots, the first living robots, from frog embryo cells reported Monday that they can now reproduce. They explained the process they observed, the robots are able to find individual cells,"
-    publishedDateTime: 2021-11-30T18:26:00Z
-    webUrl: "https://www.entrepreneur.com/article/399918"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1638295831-xeno3-090409.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Killer Robots: Negotiate New Law to Protect Humanity"
     excerpt: "Governments should open negotiations to adopt new international law on lethal autonomous weapons systems, also known as “killer robots.” Existing international law is not adequate to address the urgent threats posed by such weapons,"
     publishedDateTime: 2021-12-01T04:03:00Z

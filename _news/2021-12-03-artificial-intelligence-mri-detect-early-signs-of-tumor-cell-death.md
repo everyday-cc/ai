@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "MRI, AI may detect early signs of tumour cell death after novel therapy"
+    excerpt: "According to new research led by Massachusetts General Hospital it has been found that magnetic resonance imaging MRI and artificial intelligence AI can be"
+    publishedDateTime: 2021-12-03T11:09:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271859405/mri-ai-may-detect-early-signs-of-tumour-cell-death-after-novel-therapy"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1638529347.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Magnetic resonance imaging and artificial intelligence can detect early signs of tumor cell death after novel therapy"
     excerpt: "In a recent study published in Nature Biomedical Engineering, a team led by researchers at Massachusetts General Hospital (MGH) has demonstrated that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumor cell death in response to a novel virus-based cancer therapy."
     publishedDateTime: 2021-12-01T20:29:00Z

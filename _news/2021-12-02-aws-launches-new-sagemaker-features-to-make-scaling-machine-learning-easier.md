@@ -64,22 +64,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Amazon launches SageMaker Canvas for no-code AI model development"
-    excerpt: "Learn more During a keynote address today at its re:Invent 2021 conference, Amazon announced SageMaker Canvas, which enables users to create machine learning models without having to write any code."
-    publishedDateTime: 2021-11-30T18:27:00Z
-    webUrl: "https://venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/"
-    ampWebUrl: "https://venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/amazon-launches-sagemaker-canvas-for-no-code-ai-model-development/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/03/2018-03-08t180745z_2_lynxnpee271pp_rtroptp_4_france-business-e1569258361231.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AWS rolls out SageMaker Studio Lab, a free ML service for beginners"
     excerpt: "Invent, the cloud giant also announced a new $10 million AI & ML scholarship program for underrepresented and underserved students."
     publishedDateTime: 2021-12-01T18:30:00Z

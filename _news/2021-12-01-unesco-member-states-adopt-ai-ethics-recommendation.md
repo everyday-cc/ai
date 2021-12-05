@@ -21,21 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "KATE THOMPSON DAVY: Unesco’s global standard on AI ethics provides smart blueprint for laws"
-    excerpt: "Rather, the good governance of AI was given a huge boost in the form of the first global standard on AI ethics. A Unesco project presented to the world by director-general Audrey Azoulay on November 25,"
-    publishedDateTime: 2021-11-30T17:08:00Z
-    webUrl: "https://www.businesslive.co.za/bd/opinion/columnists/2021-11-30-kate-thompson-davy-unescos-global-standard-on-ai-ethics-provides-smart-blueprint-for-laws/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/opinion/columnists/2021-11-30-kate-thompson-davy-unescos-global-standard-on-ai-ethics-provides-smart-blueprint-for-laws/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/opinion/columnists/2021-11-30-kate-thompson-davy-unescos-global-standard-on-ai-ethics-provides-smart-blueprint-for-laws/"
+  - title: "Ethics Of AI: 193 Members Of UNESCO Adopt Recommendations"
+    excerpt: "In a historic global agreement, all 193 members of UNESCO adopt the recommendations on the ethics of AI document"
+    publishedDateTime: 2021-12-01T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/ethics-of-ai-193-members-of-unesco-adopt-recommendations/"
     type: article
     provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 64
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://lh3.googleusercontent.com/CE9YAGTU_fFacfQpbYn6FXWVmXjCv8OpSl-fgc1nAI0sEsK2UX_BMKTO2kQRyB9pFh2K4-KcTuijJMXukJZQOJOyY5CE2Y1qNsqTaQM_q4rltA=s750"
-        width: 750
-        height: 500
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/eithic-banner_11zon.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "UNESCO Member States unanimously adopt first-ever global agreement on AI ethics"
     excerpt: "On 25 November 2021, all 193 Member States of the United Nations Educational, Scientific and Cultural Organisation (UNESCO) unanimously agreed to a Recommendation on the Ethics of Artificial Intelligence. To quote the UNESCO headline, this is \"the first ..."

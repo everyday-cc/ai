@@ -61,22 +61,6 @@ related:
         width: 769
         height: 600
         isCached: true
-  - title: "AWS re:Invent: Faster chips, smarter AI, and developer tools grab the spotlight"
-    excerpt: "Invent conference, an event where it typically announces the biggest changes in the cloud computing industry’s dominant platform. This year’s news includes faster chips, more aggressive artificial intelligence,"
-    publishedDateTime: 2021-11-30T18:05:00Z
-    webUrl: "https://venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/"
-    ampWebUrl: "https://venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/aws-reinvent-faster-chips-smarter-ai-and-developer-tools-grab-the-spotlight/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 117
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-855686630-e1629739858292.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AWS updates databases, AI and serverless offerings at re:Invent"
     excerpt: "AWS unveiled updates to database, machine learning and serverless offerings designed to reduce complexity and cost."
     publishedDateTime: 2021-12-03T16:15:00Z
@@ -136,6 +120,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/AWS-reInvent-2021-Keynote-Day-3.jpg"
         width: 833
         height: 482
+        isCached: true
+  - title: "AWS unveils new Graviton and machine learning chips at re:Invent"
+    excerpt: "Invent gets underway once again, AWS has kicked things off with its next-gen Graviton processor and a new Trainium AI chip."
+    publishedDateTime: 2021-12-01T12:28:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/dec/01/aws-unveils-new-graviton-and-machine-learning-chips-at-reinvent/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 56
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/12/brian-kostiuk-S4jSvcHYcOs-unsplash-scaled.jpg"
+        width: 2560
+        height: 1704
         isCached: true
   - title: "AWS Rocks with New Analytics, AI Services at re:Invent"
     excerpt: "With classic rock tunes playing, Adam Selipsky took the stage for his first re:Invent keynote as the new CEO of AWS, the $60-billion cloud juggernaut that"

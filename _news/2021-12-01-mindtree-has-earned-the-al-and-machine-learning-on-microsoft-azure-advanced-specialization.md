@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-excerpt: "Partners with the AI and Machine Learning on Microsoft Azure advanced specialization can give organizations the tools and knowledge to develop AI solutions on their terms, build AI into their ..."
-publishedDateTime: 2021-12-01T13:04:00Z
-originalUrl: "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization"
-webUrl: "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization"
-ampWebUrl: "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization?amp"
+excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
+publishedDateTime: 2021-12-01T09:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
 type: article
-quality: 81
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
@@ -22,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/pr-newswire_500_4_140.jpg?itok=5fsUeFER"
-    width: 763
-    height: 509
+  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+    width: 1496
+    height: 785
     isCached: true
 
 related:
@@ -166,6 +164,6 @@ related:
         height: 600
         isCached: true
 
-secured: "SlrA9/29c/8Qj6kyrKuuSkatNEIBK8n5bq1i7OTKiELvc2UAGRZVOD8qobWtRn507uk7duAVOBX9JIUuuN3PhPF5/ivSFHiQov8nSReFMYjCbsaYlsEXfkxpnT6H5MLoA70nvpUM6O908W9+MQfeCERm8h3i3HWiO1mWB2hdkGHShzRu3F0ANJko0FgCeCG6PyB9SJha8FZ7p9NJJH7eiTZENRQTK4yh1Cpwtci1+oxPtshJRz80tvwRGLVrfKtbOMcktj6W04O0kJ8k8mOLjMFvNBcyMRpyVoY9uhtDuByat8kl/4BYrCuoOiWbsH8BeEEn4DN4XuwYBfvk0zCKfT5dMEQ7ulTRhMd9pDnnrNI=;bZyyD/sVHQ3lIvMwaVv9eg=="
+secured: "Aqjhl8JK4gplTbJ0HIvaJzTxr5iiX4FKWbBKBHe6LsQ1p4Tenev8Ev5OB4YpJQDOg7WxJrAdjfz4Ckp7FNFOVvBzKA+jzdYsDKM6RZP8GCcyxenq9M7TldUYci+Kf/FtQQXtONKNHrqn1Z+vbvRndney+xpUh2Bre8+4NOok2YD1pZRUbsbFxxZw5ah7J6wRv1XG3YJ6xUjSTjOqw32icBhHyjWsWcYjkNJODndWsQ57kazO3G/SRFNf5lgF6z6Px2IKcn97HLhaJx29rxIF1FE/iq9ZfrrWfyBOlWr0ueyPbtjX5IXpjIp5lw2/Tb2n37kheFbGKvZN1sJ9+O96emdrgx0ihiZRNTFHRYYMbRE=;zaag4lHKK/OJIsD/1tnGzg=="
 ---
 

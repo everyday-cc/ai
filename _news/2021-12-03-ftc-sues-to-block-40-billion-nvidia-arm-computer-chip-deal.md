@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia provides powerful GPUs to support innovative AI developments"
-    excerpt: "GPUs, however, are ready to lend themselves to the development of artificial intelligence, with Nvidia Corp. seeking to give AI developers a powerful platform capable of taking on innovative projects."
-    publishedDateTime: 2021-11-30T18:15:00Z
-    webUrl: "https://siliconangle.com/2021/11/30/nvidia-provides-powerful-gpus-support-innovative-ai-developments-reinvent/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/Ian-Buck-AWS-reInvent-2021.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "US Gov't Sues to Block $40B Nvidia-Arm Chip Deal"
     excerpt: "Many of the world’s smartphones run on Arm’s chip designs and it is a vital supplier for companies like Apple and Samsung."
     publishedDateTime: 2021-12-03T14:40:00Z

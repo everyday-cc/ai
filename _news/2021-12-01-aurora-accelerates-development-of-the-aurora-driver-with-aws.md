@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20211201005041/en/Aurora-Ac
 webUrl: "https://www.businesswire.com/news/home/20211201005041/en/Aurora-Accelerates-Development-of-the-Aurora-Driver-with-AWS"
 type: article
 quality: 119
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -23,15 +23,6 @@ related:
     excerpt: "(NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS's proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
     publishedDateTime: 2021-12-01T14:16:00Z
     webUrl: "https://www.tmcnet.com/usubmit/-meta-selects-aws-as-key-long-term-strategic-/2021/12/01/9502660.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "Rackspace Technology Accelerates Momentum with AWS Through Customer"
-    excerpt: "Rackspace Technology ® (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, today announced its momentum with Amazon Web Services (AWS) through customer transformations, Amazon Quicksight Service Delivery (Amazon Quicksight SDP) and AWS Shield Advanced partner designations,"
-    publishedDateTime: 2021-11-30T17:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-rackspace-technology-accelerates-momentum-with-aws-through-customer-/2021/11/30/9501796.htm"
     type: article
     provider:
       name: TMCnet

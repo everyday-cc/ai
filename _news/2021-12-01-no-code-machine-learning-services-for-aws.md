@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS gets a no-code ML service"
-    excerpt: "AWS today announced a new machine learning service, Amazon SageMaker Canvas. Unlike its existing machine learning services, the target audience here isn’t highly technical data scientists and engineers but any engineer or business user inside a company."
-    publishedDateTime: 2021-11-30T18:14:00Z
-    webUrl: "https://techcrunch.com/2021/11/30/aws-gets-a-no-code-ml-service/"
-    ampWebUrl: "https://techcrunch.com/2021/11/30/aws-gets-a-no-code-ml-service/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-gets-a-no-code-ml-service/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 108
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/sagemaker-canvas.png?w=680"
-        width: 679
-        height: 376
-        isCached: true
   - title: "Meta picks AWS to help expand its AI services"
     excerpt: "Meta, the parent company of Facebook, said it will use AWS services to \"complement\" its on-premise infrastructure and also broaden its use of AWS compute, storage and security ser"
     publishedDateTime: 2021-12-02T13:10:00Z
@@ -57,22 +41,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638449640/itpro/pytorch_meta_aws_GettyImages-1236945622.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "AWS Announces AWS Mainframe Modernization"
-    excerpt: "AWS Mainframe Modernization makes it faster and easier for customers to migrate mainframe and legacy workloads to the cloud and benefit from the superior agility, elasticity,"
-    publishedDateTime: 2021-11-30T17:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24366327/aws-announces-aws-mainframe-modernization"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24366327"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24366327"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 74
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
   - title: "AWS Announces New Storage Services and Capabilities"
     excerpt: "Amazon announced four new storage services and capabilities at AWS re:Invent that deliver more choice, reduce costs, and help customers better protect their data. Amazon Simple Storage Service (Amazon S3) Glacier Instant Retrieval is now available as a new access tier in Amazon S3 Intelligent-Tiering."
@@ -106,47 +74,19 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Astadia Joins the AWS Mainframe Modernization Service"
-    excerpt: "Astadia joins the AWS Mainframe Modernization Service initiative to support organizations that are moving mainframe workloads to AWS.Enterprises and government agencies can license the Astadia Migration Factory to simplify,"
-    publishedDateTime: 2021-12-01T15:31:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=580660"
+  - title: "AWS updates databases, AI and serverless offerings"
+    excerpt: "Invent, AWS unveiled updates to database, machine learning and serverless offerings designed to reduce complexity and cost."
+    publishedDateTime: 2021-12-05T10:10:00Z
+    webUrl: "https://www.arnnet.com.au/article/693681/aws-updates-databases-ai-serverless-offerings/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 54
+      name: ARN
+      domain: arnnet.com.au
+    quality: 56
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Astadia Joins the AWS Mainframe Modernization Service"
-    excerpt: "Astadia, the mainframe to cloud company, joined the AWS Mainframe Modernization Service, which recognizes companies with top cloud-based solutions and experience in migrating mainframe workloads to AWS."
-    publishedDateTime: 2021-12-01T16:32:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-f74a29e7d5e9442a9d42ced21a2928e9"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AWS Announces New Serverless Options for Three Analytics Services"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
-    publishedDateTime: 2021-11-30T18:41:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/swami_sivasubramanian_aws_1.jpg"
+        width: 504
+        height: 315
         isCached: true
   - title: "Discovery sticks with AWS for cloud services"
     excerpt: "Discovery has extended its use of AWS for cloud services. The broadcaster uses AWS’ tech for the infrastructure carrying its discovery+ platform, digital services, and over 450 linear channels around the globe."
@@ -162,6 +102,98 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "AWS announces expanded cloud partnerships with Meta, Discovery and Aurora"
+    excerpt: "Meta Platforms Inc., formerly Facebook Inc., as well as Discovery Inc. and Aurora Innovation Inc., which develops autonomous vehicle technology. The partnership with Meta is the main highlight. Besides being one of the world’s largest tech firms,"
+    publishedDateTime: 2021-12-01T18:35:00Z
+    webUrl: "https://siliconangle.com/2021/12/01/aws-announces-expanded-cloud-partnerships-meta-discovery-aurora/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/aws.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
+    excerpt: "Amazon EC2 C7g instances powered by new AWS Graviton3 processors provide up to 25% better performance for compute-intensive workloads over current generation C6g instances powered by"
+    publishedDateTime: 2021-12-01T17:53:00Z
+    webUrl: "https://www.wicz.com/story/45347689/aws-announces-three-new-amazon-ec2-instances-powered-by-aws-designed-chips"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 37
+    images:
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "AWS Announces Service For Enterprises To Deploy And Scale Private 5G Networks"
+    excerpt: "AWS Identity and Access Management allow network administrators to directly control which mobile devices can access on their private networks."
+    publishedDateTime: 2021-12-01T12:52:00Z
+    webUrl: "https://analyticsindiamag.com/aws-announces-service-for-enterprises-to-deploy-and-scale-private-5g-networks/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 36
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/maxresdefault-2.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
+    excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
+    publishedDateTime: 2021-12-01T08:50:00Z
+    webUrl: "https://www.financialbuzz.com/aig-selects-aws-as-its-preferred-public-cloud-provider/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 34
+  - title: "Meta/Facebook turns to AWS as \"long-term strategic cloud provider\" for acquisitions, third-party collaborations, and AI"
+    excerpt: "Meta said that it will run third-party collaborations in AWS and use the cloud to support acquisitions of companies that are already powered by AWS. It will also use AWS’s compu"
+    publishedDateTime: 2021-12-03T11:41:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-turns-to-aws-as-long-term-strategic-cloud-provider-for-acquisitions-third-party-collaborations-and-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 34
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Mark_Zuckerberg_Gets_Meta.2e16d0ba.fill-1200x630.png"
+        width: 730
+        height: 383
+        isCached: true
+  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
+    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services, Inc."
+    publishedDateTime: 2021-12-01T08:55:00Z
+    webUrl: "https://www.financialbuzz.com/workato-joins-aws-partner-network-and-is-a-launch-partner-for-ai-for-data-analytics/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 30
+  - title: "Meta picks AWS as long-term strategic cloud provider"
+    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-02T07:52:00Z
+    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
+    publishedDateTime: 2021-12-01T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
 
 secured: "Qkr5mgsvp1mnb/ahVJJW+eciU37iij3OK8TO8gfJ9889PDDLJIihKX1u4vSFc+kNhvxbtmutLco5gBAJ2vDzYqJ5vTA5MVbYg+jUBMhvA2q7O1JE1cK7YBW1cbvxLleB5+4FPFYLBHNiTbuEQJBOidShTFTrFkx8xloydvyVjMTrU7PAwF+nz5KblVTIAeaaRdDMwrqrb/Rp9YevA4CEzaJiA6HiAW+/sFSDGivzAEBXifE1IOIaTyF4w2afmKDhw1WM0khE+XOfbEbKyH+p8KTlYByWIi5CuEV6HSTLGhGIOf2POQYr1x0C5ceRzT7wMYTPWeu8Hlv9lbwedzy+PtiULsKv/DPm9tuAuFq1KmSiDG3Ioa5Vio7dhARfR7PcpQeDtmIFKxtk/ZnUwv9WHe+nUdrTEwjKrZHtP+4w/PykSDRTkaR0wtVbHontR+E0LaWHbfEVO0pW4R94OVLDiCQxNuaakY0+bc3VUQpapzGLEq8Osz2ZqaCs/WikfWYLkZqN/vWAMke7kiDudjbDzA==;ZODdszp5uiuklw4FZrv6cw=="
 ---

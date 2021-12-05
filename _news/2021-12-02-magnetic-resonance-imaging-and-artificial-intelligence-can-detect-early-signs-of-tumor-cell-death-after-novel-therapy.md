@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-magnetic-resonance-imaging-ar
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.amp"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "MRI, AI may detect early signs of tumour cell death after novel therapy"
+    excerpt: "According to new research led by Massachusetts General Hospital it has been found that magnetic resonance imaging MRI and artificial intelligence AI can be"
+    publishedDateTime: 2021-12-03T11:09:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271859405/mri-ai-may-detect-early-signs-of-tumour-cell-death-after-novel-therapy"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1638529347.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Artificial Intelligence, MRI Detect Early Signs Of Tumor Cell Death"
     excerpt: "Researchers created a non-invasive approach for measuring cancer treatment response using AI and MRI technology."
     publishedDateTime: 2021-12-02T17:26:00Z
