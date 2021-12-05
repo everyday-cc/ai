@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/03/ai-weekly-recognition-of-bias-in-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/ai-weekly-recognition-of-bias-in-ai-continues-to-grow/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

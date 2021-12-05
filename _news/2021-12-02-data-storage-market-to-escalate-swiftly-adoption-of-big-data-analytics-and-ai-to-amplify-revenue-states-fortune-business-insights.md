@@ -28,15 +28,6 @@ images:
 
 related:
   - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
-    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services ( News - Alert ),"
-    publishedDateTime: 2021-11-30T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/11/30/9501580.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
     excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services, Inc."
     publishedDateTime: 2021-12-01T08:55:00Z
     webUrl: "https://www.financialbuzz.com/workato-joins-aws-partner-network-and-is-a-launch-partner-for-ai-for-data-analytics/"

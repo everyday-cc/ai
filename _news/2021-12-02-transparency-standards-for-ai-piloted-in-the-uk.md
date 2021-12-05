@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "UK government publishes standard and guidance for AI algorithmic transparency"
-    excerpt: "The Cabinet Office’s Central Digital and Data Office has said that the standard will be piloted by several public sector organizations and be further developed."
-    publishedDateTime: 2021-12-01T13:13:00Z
-    webUrl: "https://diginomica.com/uk-government-publishes-standard-and-guidance-ai-algorithmic-transparency"
-    ampWebUrl: "https://diginomica.com/uk-government-publishes-standard-and-guidance-ai-algorithmic-transparency?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/uk-government-publishes-standard-and-guidance-ai-algorithmic-transparency?amp"
+  - title: "Setting the AI standards: the underlying struggle for the future of Artificial Intelligence"
+    excerpt: "As the EU’s AI regulation continues its legislative journey, regulators, standard-setters and innovators are called to define how Artificial Intelligence will be developed in practice.Artificial Intelligence as a technology dates back to the 1950s."
+    publishedDateTime: 2021-12-03T11:00:00Z
+    webUrl: "https://tech.eu/free/44836/setting-the-ai-standards-the-underlying-struggle-for-the-future-of-artificial-intelligence/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 56
+      name: Tech.eu
+      domain: tech.eu
+    quality: 42
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2020-04/brain-20424_1280.jpg"
-        width: 1280
-        height: 980
+      - url: "https://tech.eu/wp-content/uploads/2021/12/126fb71d-02ae-25aa-dfc9-4c62f3d1c6be.png"
+        width: 1200
+        height: 430
         isCached: true
 
 secured: "0XtfPfkMxL4nSTQ4MV8TCVrWbzDCQ1W60QEUn4A/Ehoz+KDJyM9RWKI89MxXa/g13Omb1OhbGd/4p576JRf5sodWAkps9aTSYaaM6Afq/+g4VepaoWgRyyX3/lQoY3ctDlbdQhElPGxCCXZmIBsds0R776pFj+52GK/oSEgjJM5xL1LZOmYB4cAzVN1ylWreF2FrpQ5St8HzvMd9Y0Nn/XxOvk3rIOBaEwuaQQ53lw7MptluwXgTNcjkWqJoHVkgLqkmCC0CuCYbJ5xiv+XqzZSGCa00rl3i/9u6NhX2VqKGlswAyirobkftnhik1QSo0EbRhqsqTnqgc+zJagXTLcsbYKZkQxd1VGH8AVxaSM3a2rGwsFTdmdXZR9zJzQ7t2JyO9ng1SjcXijf+tGAEK5OH6cTe40z+Lxt7aSLK6yW1awBzKX8DryDxRtayu7me0KSjiUZv2zL/eM/kcDQM+8gnY1dZFUbmDGu4WUItFKnABbBl90n/6BoIpgAGbbaRE13tF2BpNBDLnhRSM0H1Eg==;U8BIEtb3QS+4AJY2ETtCww=="

@@ -59,6 +59,20 @@ related:
         width: 800
         height: 448
         isCached: true
+  - title: "Chip shortage to ease next year, says Qualcomm CEO"
+    excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the s"
+    publishedDateTime: 2021-12-05T06:04:00Z
+    webUrl: "https://menafn.com/1103305554/Chip-shortage-to-ease-next-year-says-Qualcomm-CEO&source=30"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/05/I_1afb8image_story.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Qualcomm Announced the Chip That’ll Power Almost Every Android Flagship in 2022"
     excerpt: "Qualcomm has just announced the ARM chip that will power most of next year’s high-end Android phones. The rumored 898 model number isn’t happening, though. Qualcomm has changed its naming scheme with the latest flagship chip,"
     publishedDateTime: 2021-12-02T13:26:00Z

@@ -68,6 +68,20 @@ related:
       name: BibSonomy
       domain: bibsonomy.org
     quality: 19
+  - title: "Hyperfine Receives FDA Approval for Deep Learning Portable MRI, Ushering in the Future of Life-Saving Diagnostics"
+    excerpt: "The world's first portable MRI uses deep learning to revolutionize imaging at the patient's bedside, enabling prompt diagnosis and"
+    publishedDateTime: 2021-12-02T06:46:00Z
+    webUrl: "https://www.cioapplications.com/news/hyperfine-receives-fda-approval-for-deep-learning-portable-mri-ushering-in-the-future-of-lifesaving-diagnostics-nid-8880.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 18
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/kb3nz450308-11.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "oRffVe1DnpVdoj8dkmgeXldTuYalIWmTwfyv3FJa/P45KAxql5j1437yTMT/XURDidd5VUCXA4PimjUKwMFkAC5b+FqLmmGMfvTNyN3HDrXPqbtcVSA1WQQoTwiINQINmNRgPU5vfbjsfBmMQXcmCFkrYBtV+C8PNq88O238HtW4bDet+NOmO7tiVlBEn7qh9WGk3Z/HNBHKtBGt1iHrdL1WyvZyYc0uJI7c2zNWmR84BEVVwHD98PhRAZQ7vhUW/UjX7vx6avWizbJJF2KqEI76BdMURTvWV5GGgUkuHWMyxGhpzti9jgBMUEhVqcEuO59eIxvLZnE862XivToGO15eBOk10UdsHeG2wrYKUQs=;rmjEmNErh4klTVeEcZSgDg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2482636/ai-based-fever-detection-camera-2
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2482636/ai-based-fever-detection-camera-2021-global-market-key-players"
 type: article
 quality: 57
-heat: 77
+heat: 79
 published: true
 
 provider:

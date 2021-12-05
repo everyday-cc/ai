@@ -7,7 +7,7 @@ originalUrl: "https://www.financialbuzz.com/workato-joins-aws-partner-network-an
 webUrl: "https://www.financialbuzz.com/workato-joins-aws-partner-network-and-is-a-launch-partner-for-ai-for-data-analytics/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -20,15 +20,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
-    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services ( News - Alert ),"
-    publishedDateTime: 2021-11-30T14:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/11/30/9501580.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
   - title: "Data Storage Market to Escalate Swiftly; Adoption of Big Data Analytics and AI to Amplify Revenue, states Fortune Business Insights™"
     excerpt: "The growing demand for cloud drives owing to enormous data collection is expected to foster the growth of the market,"
     publishedDateTime: 2021-12-02T08:03:00Z

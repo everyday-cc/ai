@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/rise-advent-machine-learning-artifi
 webUrl: "https://www.linkedin.com/pulse/rise-advent-machine-learning-artificial-intelligence-set-riya-sharma"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -29,64 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "What are Major Factors Driving Growth of Deep Learning Market?"
-    excerpt: "The increasing focus of the education sector on conversational learning owing to the rapid adoption of e learning and digital solutions is facilitating the deployment of artificial i AI technology in this sector In conversational learning content is presented as"
-    publishedDateTime: 2021-11-30T13:30:00Z
-    webUrl: "https://www.openpr.com/news/2479968/what-are-major-factors-driving-growth-of-deep-learning-market"
-    ampWebUrl: "https://www.openpr.com/amp/2479968/what-are-major-factors-driving-growth-of-deep-learning-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2479968/what-are-major-factors-driving-growth-of-deep-learning-market"
+  - title: "Global Data Monetization Platform Markets Report 2021: AI and Digital Advertising Emerging as Critical Elements for Telcos to Create Differentiation"
+    excerpt: "The \"Global Data Monetization Platform Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-11-30T16:15:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-data-monetization-platform-markets-report-2021-ai-and-digital-advertising-emerging-as-critical-elements/article_36cb0dd4-7977-5d77-bca6-06ad1ce25612.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub30952293_g.jpg"
-        width: 800
-        height: 464
-        isCached: true
-  - title: "Global Deep Learning Camera Market 2021 Driving Factors, Industry Growth, Key Vendors and Outcomes of the Five Forces Analysis by 2027"
-    excerpt: "MarketandResearch.biz has declared the addition of a new research report titled Global Deep Learning Camera Market Research Report 2021-2027 which is all around made by considering its essential information in the overall global Deep Learning Camera market."
-    publishedDateTime: 2021-12-02T02:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-camera-market-2021-driving-factors-industry-growth-key-vendors-and-outcomes-of-the-five-forces-analysis-by-2027-2021-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Omaha startup Bot Image set to revolutionize prostate cancer detection using cutting-edge machine learning software"
-    excerpt: "The Omaha-based MRI medical device company, Bot Image Inc., announced this month an addition to its line of software products aimed at assisting the detection of prostate cancer. Dubbed QT Prostate MRI,"
-    publishedDateTime: 2021-11-30T20:30:00Z
-    webUrl: "https://siliconprairienews.com/2021/11/omaha-startup-botimage-set-to-revolutionize-cancer-detection-with-machine-learning/"
-    type: article
-    provider:
-      name: Silicon Prairie News
-      domain: siliconprairienews.com
-    quality: 17
-    images:
-      - url: "https://siliconprairienews.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-1.53.09-PM-e1638302361180.png"
-        width: 700
-        height: 396
-        isCached: true
-  - title: "Global Self-driving Taxi Market 2021-2025: Supportive Regulations for Self-driving Cars Driving Growth - ResearchAndMarkets.com"
-    excerpt: "The “Global Self-driving Taxi Market 2021-2025” report has been added to ResearchAndMarkets.com’s offering. The self-driving taxi market is poised to grow by 56162.96 units during 2021-2025, progressing at a CAGR of 58."
-    publishedDateTime: 2021-12-02T16:09:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-94af2a132b674d21a7a8dde020927072"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "7DBLkLU95qWML2x3zTlR5SuK/oS7vnCLsY2cXjkNlmvdDMNkBbagqNWe14MZYsw7s5sJCvtJRGW2lpjBsfWtEjnFWe+uq7qduCBMWWElMaMwv6wzfHKf3Yqj+t2XisAQaQhhbbFI/Lih8wC/X0pXFrSu5d+rGyA7aKsMurIwsAIwcUHzQqThWWIfxojl8FvJGfiJnZxrP7pz9mWMDZSlW5WDifoivATO/MHV/HeydAuzgBKI2eUewoUiBbatGWrmem96a/h5Hf3AKsK8cmkk562QZ9gDBGIKKFzGzSURODGEELh8WlXyOjBxrKOBQ7eWPAss2MA6jsMvy6SHBfowbX6bQ63SgJMuuQdnO5zsdb4=;cUJZ1KqDK8wzXIex07tykg=="
 ---

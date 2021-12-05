@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2021/12/01/how-ai-can-help-close-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2021/12/01/how-ai-can-help-close-the-racial-wealth-gap/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "With an AI to the future"
+    excerpt: "By Corin Campbell, PR and Media Manager, Communications and Marketing Will artificial intelligence provide the answers to everything or spell the downfall of humankind? Professor Michael Rovatsos unravels the hype and asks if we really want to make machines that think just like us."
+    publishedDateTime: 2021-12-01T16:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-future-university-of-edinburgh"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEOfjjlOde_KA/article-cover_image-shrink_720_1280/0/1638373093390?e=1643846400&v=beta&t=BJQBad7pXcQxxxp7m7uxg6aLh8tBmeII72_FhaMirBk"
+        width: 1081
+        height: 720
+        isCached: true
 
 secured: "cqiWja+koKDyTseBCBWo1QHCZ11z8ackRw7IbhFxPWivjUsM8sJbK6OIPO79GEpTR8le0UrFl210alWLfts/GA6U4gwhEJCYSqTRhTiCZlug+cT8UccWjtG5V9bzyJXuw5ja6BOr31mLW1Zpb6F7o4hW1osKz+ZG3EK+C0ppWSurwRx96o9YjCaOy9D/89zLqFwlyacC8GbVA71gCtRRRd8Je+XR0oFEz/2eoYAzRJZfhR3ueKixeMBDtkY/1JVV05MtvmuURF3pvEyFjCrX4umEXRh8/ZSblZda7/2ohxWsJZV+JfUfxcd8Ie9eCQ4r5IDHPbBLckwux5JW8fbXr3elwGL1TUH1WBg5bmoXjf+3ltAFaQEO5tWpMwaMPef99WGxz477nPdNU4puO020o3Mw7BMEKPb53myjaAYxcmr2I3aT4ws0qfuy11DUBM9M2E7nvCF6U+yucArLUK/hDCzHFFNmUchUoNSCGmQXhO2t9f95se/qRS7i1wsHu6m95npZB+naLTsOYVwIu2a0dQ==;RlSLcO0XkRBvv0SFRtxycQ=="
 ---

@@ -19,48 +19,121 @@ topics:
   - AI
 
 related:
-  - title: "AWS pitches robotics as the next big thing"
-    excerpt: "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations"
-    publishedDateTime: 2021-11-30T14:55:00Z
-    webUrl: "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html"
+  - title: "AWS, Discovery Plus extend strategic partnership"
+    excerpt: "Extension enables Discovery Plus to deploy AWS so that it can offer greater personalisation capabilities to help viewers find the content they want to watch"
+    publishedDateTime: 2021-12-02T08:58:00Z
+    webUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership"
+    ampWebUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
+    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
     type: article
     provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 71
+      name: tvbeurope.com
+      domain: tvbeurope.com
+    quality: 59
     images:
-      - url: "https://itwire.com/media/k2/items/cache/7aaca86652042fcb618061ebd565670c_M.jpg"
-        width: 375
-        height: 213
-        isCached: true
-  - title: "AWS Introduces A New Platform For Developing Robotics Applications"
-    excerpt: "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together."
-    publishedDateTime: 2021-12-02T11:30:00Z
-    webUrl: "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon-1.jpg"
+      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/11/discovery-plus.png"
         width: 1920
         height: 1080
         isCached: true
-  - title: "AWS Supports Roche in Harnessing the Power of Health Data at Scale"
-    excerpt: "(NASDAQ: AMZN), announced that the Roche Group (SIX: RO, ROG; OTCQX: RHHBY) is using AWS for the majority of its cloud workloads to help Roche extract greater value from its health data. The company uses AWS capabilities in high performance computing,"
-    publishedDateTime: 2021-11-30T16:55:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20211130-aws-supports-roche-in-harnessing-the-power-of-health-data-at-scale/"
+  - title: "Discovery Extends Relationship with AWS To Assist in Global Rollout of Discovery+"
+    excerpt: "Discovery has turned to Amazon Web Services (AWS) to assist with the global rollout of discovery+, including enabling greater personalization capabilities to assist viewers in finding content that appeals to their interests,"
+    publishedDateTime: 2021-12-01T17:24:00Z
+    webUrl: "https://www.tvtechnology.com/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery"
+    ampWebUrl: "https://www.tvtechnology.com/amp/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery"
+    cdnAmpWebUrl: "https://www-tvtechnology-com.cdn.ampproject.org/c/s/www.tvtechnology.com/amp/news/discovery-extends-relationship-with-aws-to-assist-in-global-rollout-of-discovery"
     type: article
     provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/BrqKp374eMt7ua6V9k3wzg-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Discovery taps AWS to power rollout of discovery+"
+    excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more personalized recommendations. “AWS provides the unparalleled ..."
+    publishedDateTime: 2021-12-01T15:03:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150311"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
     quality: 39
     images:
-      - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1638259608/press_release/assets/company_logos/AWS_logo_RGB_fyojsl.png"
-        width: 400
-        height: 400
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/141916-1200-by-630-personalized-viewing--307606049-ORG.jpg"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "AWS increases relationship with Discovery"
+    excerpt: "Amazon Web Services (AWS) has extended its relationship with Discovery as the broadcaster looks to the cloud to feed 450 linear TV channels and streaming service Discovery+."
+    publishedDateTime: 2021-12-02T11:19:00Z
+    webUrl: "https://www.broadbandtvnews.com/2021/12/02/aws-increases-relationship-with-discovery/"
+    type: article
+    provider:
+      name: Broadband TV News
+      domain: broadbandtvnews.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2021/12/Discovery-Logos.jpg?fit=1200%2C675&#038;ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AWS announces expanded cloud partnerships with Meta, Discovery and Aurora"
+    excerpt: "Meta Platforms Inc., formerly Facebook Inc., as well as Discovery Inc. and Aurora Innovation Inc., which develops autonomous vehicle technology. The partnership with Meta is the main highlight. Besides being one of the world’s largest tech firms,"
+    publishedDateTime: 2021-12-01T18:35:00Z
+    webUrl: "https://siliconangle.com/2021/12/01/aws-announces-expanded-cloud-partnerships-meta-discovery-aurora/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 38
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/aws.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Discovery chooses AWS to power rollout and increased personalization of of discovery+"
+    excerpt: "Discovery is also accelerating its digital transformation and enhancing viewing experiences across its more than 450 television channels"
+    publishedDateTime: 2021-12-01T14:55:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/KM-In-Practice/Discovery-chooses-AWS-to-power-rollout-of-discovery---150311.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 32
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/141916-1200-by-630-personalized-viewing--307606049-ORG.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
+    publishedDateTime: 2021-12-01T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
+  - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
+    excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more ..."
+    publishedDateTime: 2021-12-01T14:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
+  - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
+    excerpt: "(NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud. As Discovery’s preferred cloud provider, AWS powers the vast majority of the company’s infrastructure needs to deliver its discovery+ on-demand streaming video service,"
+    publishedDateTime: 2021-12-01T23:08:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 11
 
 secured: "/INvL9bY6OpPbsqvJbX70eqQlfO2npa7uIyUj9wGhAggacX/0TgIKdwopYwvHz8whKtEuPd3oZUNxdjHAYdO/D5fGzF2Mugcc4O5oLKT9O6nRZsVBSc7jIBSQrKmndT6zqwbUQo1/CZJAISrdlD/RWIqi68gKavgHLzC5bAz3M3htcwn0CP16KsBzl4m/iCnTTwaLHhyWAwqroVBZhw39RjZeKGCm9h2uhpILkQV9y4WjojsOYBEpU8aw8P3z/YvejSgP2AfpVC6npZdJ+vCDPu9KT7LUzTpOjWqhS/06sKEuo8f0DlzmxEG+A8QuJCM//hbI1XXfwLmGliQmAsqU6vMWerneraBWQo1pKrwlBI=;XQdQtLGR6it4gzyJGf3rmg=="
 ---

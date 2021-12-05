@@ -7,8 +7,8 @@ originalUrl: "https://www.medianama.com/2021/12/223-facial-recognition-app-pensi
 webUrl: "https://www.medianama.com/2021/12/223-facial-recognition-app-pensioners-uidai/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: MediaNama
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Jitendra Singh launches unique face recognition technology for pensioners, says it will bring ease of living for retired, elderly citizens"
-    excerpt: "Union Minister of State Dr Jitendra Singh on Monday launched unique Face Recognition Technology for Pensioners and said that this will bring ease of living for the retired and the elderly citizens. Singh said,"
-    publishedDateTime: 2021-11-30T14:18:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20211130/3864416.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "eAR9DoDhfewtpz09ydKCLuyRl8jULIRAiITFTR9At8Fyhqj6vvF0IUIC9MCxhq7qttTt2arNidel7zWO2AvYBvc7ccHyEt9IX3yBGlZSEYh0TkQ5ImRqoMrujDLjCIrHOlHsQNpDTbwsBiaAsHmiiuHZwQ53cIPa4RG9wjD8ZHtJVAMAg2dwTpe0XYvN265djUkazdLnltmdkaTO/iBphbbZixVOBOuUTrjJpIXJsfE8ARF4G4C7IqcdDqYP0bvyklGdQ/ChBVR6dupkVK69wKE6r5ZFzWR6UlhE8DMSia/EG5PUwM/7qX9hO2aQ72Xbh1u3ovj8w8tV//aDtcnLGJIavJ3wNBzeApZHcS0CFFsYHeh0EkIrjjktZ+QSNWZrlQIIvjpp70a+NKqmPyOmU4T4RmUXZgdFcCsMKjaiKKn1aLhHmEsPHgA12aLK69NehQQ2DvKIWNMUtW4/0iwQ1SLEI+PxPtc5n8l7saHk4scw7pGzdv9I/9MdkWZNF27Ne+th0m8w6DJG+wLezBPlNQ==;QVvhvX7mAMuS1q8WAuKz9w=="
 ---

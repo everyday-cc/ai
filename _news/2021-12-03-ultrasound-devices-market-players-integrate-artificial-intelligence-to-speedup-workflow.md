@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market: Post COVID Growth Opportunity Analysis, Key Players | NVIDIA, Intel, IBM and Google"
-    excerpt: "According to the report The global Artificial Intelligence in the Healthcare market size was valued at 4 72 Billion in 2020 and is expected to reach 95 31 Billion by 2028 growing at the CAGR of 43 08 from 2021"
-    publishedDateTime: 2021-11-30T14:18:00Z
-    webUrl: "https://www.openpr.com/news/2480076/artificial-intelligence-in-healthcare-market-post-covid"
-    ampWebUrl: "https://www.openpr.com/amp/2480076/artificial-intelligence-in-healthcare-market-post-covid"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2480076/artificial-intelligence-in-healthcare-market-post-covid"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 45
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub30890192_g.jpg"
-        width: 603
-        height: 380
-        isCached: true
   - title: "COVID-19 Impact on Artificial Intelligence System Market| Insights, Trends and Growth 2021 To 2026"
     excerpt: "Portland United States The Artificial Intelligence System Market study offers a comprehensive analysis of the business models key strategies and respective market shares of some of the most prominent players in this landscape Along with an in depth commentary on"
     publishedDateTime: 2021-11-30T16:35:00Z

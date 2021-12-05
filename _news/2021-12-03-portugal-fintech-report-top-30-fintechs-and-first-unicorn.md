@@ -25,21 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based fintech firm BridgeWeave opens research lab in Hyderabad"
-    excerpt: "BridgeWeave, a London headquartered fintech firm that offers retail investors an Artificial Intelligence (AI) constructed portfolio for investment, has opened a ‘lab’ to ‘experiment with cutting edge ideas’ in Hyderabad according to its Founder and Executive Chairman,"
-    publishedDateTime: 2021-11-30T14:26:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/ai-based-fintech-firm-bridgeweave-opens-research-lab-in-hyderabad/article37773403.ece/amp/"
+  - title: "SKKU: FinTech Research & Education Center for Global Leaders in Financial Innovation holds “2021 Global AI Finance Research Conference”"
+    excerpt: "FinTech Research & Education Center for Global Leaders in Financial Innovation (Director: Prof. Kyo Jik Song) will hold the “2021 Global AI Finance Research Conference” at Sonocam Hotel in Yeosu from"
+    publishedDateTime: 2021-12-03T03:16:00Z
+    webUrl: "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/"
+    ampWebUrl: "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
+      name: India Education Diary
+      domain: indiaeducationdiary.in
     quality: 59
     images:
-      - url: "https://www.thehindubusinessline.com/todays-paper/m4m6g6/article37063817.ece/ALTERNATES/LANDSCAPE_615/bl19-hykvk-iiitGK793GH2G3jpgjpg"
-        width: 615
-        height: 384
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/11/640px-Samsung_Library_at_Suwon_campus_of_Sungkyunkwan_University.jpeg"
+        width: 640
+        height: 361
+        isCached: true
+  - title: "Lawmakers Warn FinTechs About Potential Bias Baked Into AI-Based Financial Tools"
+    excerpt: "A letter sent by lawmakers urged the heads of five U.S. agencies to take steps to ensure that AI and ML tools are “used in an ethical manner.\""
+    publishedDateTime: 2021-11-30T21:06:00Z
+    webUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/lawmakers-warn-fintechs-about-ai-based-financial-tools/"
+    ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/lawmakers-warn-fintechs-about-ai-based-financial-tools/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/lawmakers-warn-fintechs-about-ai-based-financial-tools/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 54
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/11/ai-tools-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Fintech enters into licensing agreement with digital mortgage platform"
+    excerpt: "Marble Financial has announced that it has secured a licensing agreement that will pave the way for the integration of its Marble Connect service with digital mortgage platform WiiBid Solutions. Under this agreement,"
+    publishedDateTime: 2021-12-02T08:12:00Z
+    webUrl: "https://www.mpamag.com/ca/news/general/fintech-enters-into-licensing-agreement-with-digital-mortgage-platform/318561"
+    type: article
+    provider:
+      name: Mortgage
+      domain: mpamag.com
+    quality: 24
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637740295353940776.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "EsYi9UXPzpSrb92HOgo4mBnC+GwwTMobRsxklKn+MPDUcgtCZ778jXgeBD5yeIB1CBP7vnc5pxqqF1eeZJyQBBn8KFkw2AnAo+y+0wL4OggBm3SQyLu5TAAK9jbYJbxfNPD2OmexgY+CUvwS/J2xz0xf4M1F/v7s0mKCM+qZiJ/O0Mh3WSbwutOuLsX10GwidOjK/FumOBJh5MLIFlyMwkG81jwV/ifqUXlR4eqlPcMhdwIDMfrzBVsM92xYcvAsr3Hsr4ItNwJwbiAuG2iPpDKpXX9qpCYJ9p/Lf25g9XMck5lxrPtziFPH7HTTmWpUR2ZpiaklKoESqvYsV0RLhYKkK1C4icECMp3/JHfRwN1YN12q7HcPZYISCQc+HWI+X0DYnfvMLnniEYIM8g61XrmO2mCpKla/m4NZhGm3mwwltccHTOFhMYmncx0icRPn9sD3Y5J0BYm2jNu/ip1b2Zi5Subz58Pu+KULoj5O+kikzB71BuQTMw2nm+Yq0mNbP1zrskXunRcI7zyVxvzixA==;0ECnHF9x/VDo01tsjwyl1A=="

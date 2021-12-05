@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-appl
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-apple-3068879/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202112/57726f6325e54003b0e20662c879ec92.jpg"
         width: 980
         height: 524
+        isCached: true
+  - title: "Chip shortage to ease next year, says Qualcomm CEO"
+    excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the s"
+    publishedDateTime: 2021-12-05T06:04:00Z
+    webUrl: "https://menafn.com/1103305554/Chip-shortage-to-ease-next-year-says-Qualcomm-CEO&source=30"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/05/I_1afb8image_story.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Qualcomm Announced the Chip That’ll Power Almost Every Android Flagship in 2022"
     excerpt: "Qualcomm has just announced the ARM chip that will power most of next year’s high-end Android phones. The rumored 898 model number isn’t happening, though. Qualcomm has changed its naming scheme with the latest flagship chip,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/amp/"
 type: article
 quality: 93
-heat: 93
+heat: 94
 published: true
 
 provider:

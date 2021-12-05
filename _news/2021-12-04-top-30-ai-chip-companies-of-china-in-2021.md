@@ -43,6 +43,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "How AI, ML and Motion Planning Testing Are Advancing New Mobility"
+    excerpt: "Leading MIT and CMU professors will share how AI and ML are creating new breakthroughs in autonomous transportation. Attendees will learn the latest research and testing in motion planning behaviors that will enable autonomous mobility companies to safely and efficiently deploy autonomous vehicles"
+    publishedDateTime: 2021-12-03T02:54:00Z
+    webUrl: "https://techcrunch.com/video/how-ai-ml-and-motion-planning-testing-are-advancing-new-mobility/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
+    images:
+      - url: "https://img.vidible.tv/prod/2021-12/01/61a7d99b830dda0e7d106e36/61a7da2a5ff8e42f8c0ee97c_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
+        isCached: true
   - title: "The Obstacles and Opportunities of Democratizing AI for Enterprise Companies"
     excerpt: "Without question, enterprise deployment of artificial intelligence (AI) is positioned for tremendous growth. Published in early 2021, IBM’s Global AI Adoption Index revealed that a third of those surveyed will be investing in AI skills and solutions over the next 12 months."
     publishedDateTime: 2021-12-02T06:32:00Z

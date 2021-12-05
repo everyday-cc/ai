@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
-publishedDateTime: 2021-12-01T09:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
-webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+excerpt: "Partners with the AI and Machine Learning on Microsoft Azure advanced specialization can give organizations the tools and knowledge to develop AI solutions on their terms, build AI into their ..."
+publishedDateTime: 2021-12-01T13:04:00Z
+originalUrl: "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization"
+webUrl: "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization"
+ampWebUrl: "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization?amp"
 type: article
-quality: 61
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Microsoft AI
@@ -20,9 +22,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-    width: 1496
-    height: 785
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/pr-newswire_500_4_140.jpg?itok=5fsUeFER"
+    width: 763
+    height: 509
     isCached: true
 
 related:
@@ -101,20 +103,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 79
-  - title: "Taking Microsoft’s Azure Digital Twins to the next level in IoT"
-    excerpt: "As countless IoT applications track live systems, real-time analytics plays an essential role in identifying problems or finding opportunities and then responding fast enough to make a difference. How can digital twins create leverage for implementing real-time analytics in IoT?"
-    publishedDateTime: 2021-11-30T13:04:00Z
-    webUrl: "https://iottechnews.com/news/2021/nov/30/taking-microsoft-azure-digital-twins-to-next-level-in-iot/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 54
-    images:
-      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2021/11/scaleout-software-azure-digital-twins-iot-internet-of-things.jpg"
-        width: 1800
-        height: 1200
-        isCached: true
   - title: "Mindtree has earned Microsoft Azure specialization"
     excerpt: "Partners with the Microsoft Azure advanced specialization can provide the tools and knowledge to develop AI solutions on their terms"
     publishedDateTime: 2021-12-02T08:43:00Z
@@ -178,6 +166,6 @@ related:
         height: 600
         isCached: true
 
-secured: "h7Fj1JH+a4W4W9CPbUMG81b8pGYeSnnCMjwSvOWY8AqBTifb6nOrOev4dIbspwalpjLOSttVgMyY0bYdRHdg8hiv71vK/05+a+SiEea5X323BenG+jDrQG31qF6mBHed+ZCrjAyHsKZPznmnzN6zoTu7EeGT6aeqseJap0pUI7JyAaBJeHCXqlrLsEmlGdPW/YhaMONWN13Uiq8S5a8aOjt5Uf1FjhsQD3UfewHMok9u3iKEyMNwntcGU7HRiNEAwJeLQcsTE/LtfWm3XFrvUjqLGD4ipNGYLdVDczXAg391Lf2kag48/Z2ambyXf3LGRpSlYO7Y6mZxV83yck9mraZ1exjID3NlG3MiFNBAfOY=;r7FTMAsePKklvNdMHm0yuw=="
+secured: "m5Kqv/6qPY4ntmhu6K+yVqVXQBeyQSJbPDJURIvG3xqlFjUSPKAAqojbzy9JO39v1dFoYfRejSJ57EZZVhTUl0lQOrVzztjidmXUA5oVV1dDIIhzilqs3cRPU12vaIFMXa5B9HSkI7ctDpJlgXBuIrqIpDHcX3aJPffbIgtTTYDnNygKpUc/55lWErb4VrTngQst91y+zhTriLEDwwknWqGOMXvBDtfx47vpU5BmElpQKB6CMMaGZUCAvWnRoHsHFRsEkrcJT1Dab/DLTpgqBcSxQLNgyMaLLL33AoxhaYN59q/qpYdW+v0cQlcif/0NsNGmag1AxrE8OlqfozYSdKvQdyVSYtBBe5AJ78aOBXo=;/jDpDUmoljN9ZTehaRxuRQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-su
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

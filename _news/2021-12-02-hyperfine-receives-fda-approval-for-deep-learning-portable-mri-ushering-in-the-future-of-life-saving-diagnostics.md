@@ -25,122 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence And Machine Learning Are Transforming The Future Of Renewable Energy"
-    excerpt: "All of these resources are tied up with the weather, which is something humans can’t control. Artificial intelligence has helped in overcoming this challenge because it is a reliable tool for forecasting the weather."
-    publishedDateTime: 2021-11-30T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
+  - title: "Predicting The Future Of Demand: How Amazon Is Reinventing Forecasting With Machine Learning"
+    excerpt: "Through a comprehensive predictive model built entirely on the cloud, Amazon.com is using data to make better decisions, streamline operations, and deliver winning consumer experiences."
+    publishedDateTime: 2021-12-03T18:40:00Z
+    webUrl: "https://www.forbes.com/sites/amazonwebservices/2021/12/03/predicting-the-future-of-demand-how-amazon-is-reinventing-forecasting-with-machine-learning/"
+    ampWebUrl: "https://www.forbes.com/sites/amazonwebservices/2021/12/03/predicting-the-future-of-demand-how-amazon-is-reinventing-forecasting-with-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/12/03/predicting-the-future-of-demand-how-amazon-is-reinventing-forecasting-with-machine-learning/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 99
+    quality: 78
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe21626fcd21bd2b717a302%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa727b8782af36a8644f5a%2F0x0.jpg"
         width: 1200
         height: 800
         isCached: true
-  - title: "3 Ways AI and Machine Learning Can Transform Public Agencies"
-    excerpt: "Over the past decade, Artificial Intelligence and Machine Learning (AI/ML) have moved from the realm of science fiction into the corporate and governmental mainstream. But while executives know what AI/ML is on a conceptual level, fewer leaders understand ..."
-    publishedDateTime: 2021-11-30T16:56:00Z
-    webUrl: "https://www.infoworld.com/resources/227974/3-ways-ai-and-machine-learning-can-transform-public-agencies"
+  - title: "The Best Movies Predicting the Future"
+    excerpt: "Though set in the present, the movie shows a near future where robots, directed by artificial intelligence Skynet, have taken over the world. The robots’ goal is to annihilate humanity."
+    publishedDateTime: 2021-12-04T15:00:00Z
+    webUrl: "https://247wallst.com/special-report/2021/12/04/best-movies-about-the-future/8/"
+    ampWebUrl: "https://247wallst.com/special-report/2021/12/04/best-movies-about-the-future/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/special-report/2021/12/04/best-movies-about-the-future/amp/"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 84
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 44
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
+      - url: "https://247wallst.com/wp-content/uploads/2021/07/imageForEntry100-xTK.jpg?w=400"
+        width: 400
+        height: 224
         isCached: true
-  - title: "How AI, ML and Motion Planning Testing Are Advancing New Mobility"
-    excerpt: "Leading MIT and CMU professors will share how AI and ML are creating new breakthroughs in autonomous transportation. Attendees will learn the latest research and testing in motion planning behaviors that will enable autonomous mobility companies to safely and efficiently deploy autonomous vehicles"
-    publishedDateTime: 2021-12-03T02:54:00Z
-    webUrl: "https://techcrunch.com/video/how-ai-ml-and-motion-planning-testing-are-advancing-new-mobility/"
+  - title: "Tech Companies Catering to Demand in Healthcare Predictive Analytics Market Keenly Expanding Care Delivery Continuum"
+    excerpt: "Proponents of value-based health care are growing their bets on the capabilities of predictive analytics and the underlying AI algorithms. The past few years have witnessed an enormous body of study on making clinical prediction models useful in improving the health care delivery across the continuum."
+    publishedDateTime: 2021-12-01T18:40:00Z
+    webUrl: "https://techbullion.com/tech-companies-catering-to-demand-in-healthcare-predictive-analytics-market-keenly-expanding-care-delivery-continuum/"
+    ampWebUrl: "https://techbullion.com/tech-companies-catering-to-demand-in-healthcare-predictive-analytics-market-keenly-expanding-care-delivery-continuum/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/tech-companies-catering-to-demand-in-healthcare-predictive-analytics-market-keenly-expanding-care-delivery-continuum/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
     images:
-      - url: "https://img.vidible.tv/prod/2021-12/01/61a7d99b830dda0e7d106e36/61a7da2a5ff8e42f8c0ee97c_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/ezgif.com-gif-maker-4.jpg"
+        width: 960
+        height: 640
         isCached: true
-  - title: "Using AI with Explainable Deep Learning To Help Save Lives"
-    excerpt: "Health systems have been at the epicenter of the fight against COVID-19, and have had to balance the need to alleviate suffering and save lives with substantial financial pressures.\" \"Health systems’ income statements are likely to see negative pressure as a result of the COVID-19 crisis."
-    publishedDateTime: 2021-12-01T10:56:00Z
-    webUrl: "https://www.bbntimes.com/technology/using-ai-with-explainable-deep-learning-to-help-save-lives"
+  - title: "A comprehensive review on fake news detection with deep learning"
+    excerpt: "A protuberant issue of the present time is that, organizations from different domains are struggling to obtain effective solutions for detecting online-based fake news. It is quite thought-provoking to distinguish fake information on the internet as it is often written to deceive users."
+    publishedDateTime: 2021-12-02T13:59:00Z
+    webUrl: "https://www.bibsonomy.org/bibtex/186ec2b4bc68c7a9c9c977b5d70860153"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 58
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_with_Explainable_Deep_Learning_To_Help_Save_Lives.jpeg"
-        width: 1280
-        height: 682
-        isCached: true
-  - title: "Deep Learning Market Technological Advancements, Evolving Industry Trends and Insights"
-    excerpt: "Deep learning algorithms are being increasingly used in contact centers as the adoption of these algorithms help them in improving the first call resolution process reducing call durations curtailing total call volume and enhancing customer satisfaction thereby increasing their business"
-    publishedDateTime: 2021-11-30T13:23:00Z
-    webUrl: "https://www.openpr.com/news/2479948/deep-learning-market-technological-advancements-evolving"
-    ampWebUrl: "https://www.openpr.com/amp/2479948/deep-learning-market-technological-advancements-evolving"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2479948/deep-learning-market-technological-advancements-evolving"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub30422061_g.jpg"
-        width: 800
-        height: 464
-        isCached: true
-  - title: "How AI and Automation Are Transforming Legal Teams for the Better"
-    excerpt: "How can legal firms benefit by transitioning away from traditional contract management processes and adopting AI and automation?"
-    publishedDateTime: 2021-12-01T15:31:00Z
-    webUrl: "https://www.lawyer-monthly.com/2021/12/how-ai-and-automation-are-transforming-legal-teams/"
-    type: article
-    provider:
-      name: Lawyer Monthly
-      domain: lawyer-monthly.com
-    quality: 39
-    images:
-      - url: "https://www.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2021/12/Matt-Gould_ContractPodAi.jpg"
-        width: 990
-        height: 660
-        isCached: true
-  - title: "With an AI to the future"
-    excerpt: "By Corin Campbell, PR and Media Manager, Communications and Marketing Will artificial intelligence provide the answers to everything or spell the downfall of humankind? Professor Michael Rovatsos unravels the hype and asks if we really want to make machines that think just like us."
-    publishedDateTime: 2021-12-01T16:11:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-future-university-of-edinburgh"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEOfjjlOde_KA/article-cover_image-shrink_720_1280/0/1638373093390?e=1643846400&v=beta&t=BJQBad7pXcQxxxp7m7uxg6aLh8tBmeII72_FhaMirBk"
-        width: 1081
-        height: 720
-        isCached: true
-  - title: "How to bridge the imaging AI adoption gap with an ecosystem approach — 3 learnings"
-    excerpt: "Imaging technologies powered by artificial intelligence have proliferated in recent years, yet adoption of these technologies, which are designed to assist with the complexities of diagnostics and their associated workflows,"
-    publishedDateTime: 2021-12-01T13:42:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/how-to-bridge-the-imaging-ai-adoption-gap-with-an-ecosystem-approach-3-learnings.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 33
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
-        width: 800
-        height: 600
-        isCached: true
+      name: BibSonomy
+      domain: bibsonomy.org
+    quality: 19
 
 secured: "PaFaS8whinSAcuEXPHDjFo2Krv+E1wgvmkOppHRc31Me3NJsMRKSIHdU0/2dDeEsV+l2HUR4Ayi0OszE+L5BHgVzYUwRx3LfmluQ9xfoHhbtLNSS1hCRbvskbxPvKSR9NQh3dcEdd70j52BO862buyPBKoO5j8H32ofZAPgNnwyi4bxvpkeu3HxdT7akV1vnegn5HrAOSXGHgIMqkhKaYVZqtSQgpUSnXvrQsN20zzm4wG2vWzcPTr9J82/SxjEGXnr74n+9c8pPnwfXL2khlsPrvwwxDt7QAtQWnERGkq6VhuxyQF1FP+H2wjWYzSeV+8XdFiCr064/k4SkIELR9fu/+iS5DXh0a76zbLSWIwcV11r1qqtnl/tYAFDr8rji/ia0RJOrijSe7KYXT/Dvl4cccBGwH1DRYKB7i8SI5yaEYxWkKl/Qid/ngsm11RxrIj5YQCeHOcJeUJD6x4NRgDBii29eEyCrdNOijkwsXzOcQGejlGkzF22MidhA3U9JNrpCLnirGYNOOZWl5FViuA==;v9O3YKZwejY61PKlCYe7MQ=="
 ---

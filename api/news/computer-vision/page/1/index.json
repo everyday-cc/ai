@@ -62,7 +62,7 @@
       "originalUrl": "https://www.eventbrite.sg/e/4th-international-conference-on-robotics-and-computer-vision-icrcv-2022-tickets-218998599707",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -180,49 +180,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-crores-of-pensioners-to-be-verified-using-uidai-linked-facial-recognition-app.md",
-      "title": "Crores of pensioners to be verified using UIDAI-linked facial recognition app",
-      "excerpt": "A facial recognition-based app to verify and detect pensioners' liveness has been launched by the Department of Pension & Pensioners’ Welfare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medianama.com/2021/12/223-facial-recognition-app-pensioners-uidai/",
-      "originalUrl": "https://www.medianama.com/2021/12/223-facial-recognition-app-pensioners-uidai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medianama.com/wp-content/uploads/2020/07/face-detection-4762379_1920.jpg-e1630391608288.jpg",
-          "width": 1280,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T22:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaNama",
-        "domain": "medianama.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -477,7 +434,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-trend-demand-top-players-opportunities-and-forecast-2027-2021-11-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1373,6 +1330,40 @@
       "provider": {
         "name": "Design-Reuse",
         "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.md",
+      "title": "CITIC Telecom CPC And ASTRI Partnership Expands Business Innovation Possibilities With AI-AR Integration",
+      "excerpt": "The key features include data visualization, cognitive object recognition and middleware enhancement. \"Fostering a culture of innovation and embracing intelligence are our core values and are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scoop.co.nz/stories/BU2111/S00503/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.htm",
+      "originalUrl": "https://www.scoop.co.nz/stories/BU2111/S00503/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2111/S00503/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.htm",
+      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00503/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.htm",
+      "publishedDateTime": "2021-11-17T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scoop",
+        "domain": "scoop.co.nz",
         "images": null,
         "publishers": null,
         "authors": null

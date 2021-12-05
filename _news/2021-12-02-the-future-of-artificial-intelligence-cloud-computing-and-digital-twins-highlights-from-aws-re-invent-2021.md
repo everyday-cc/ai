@@ -165,22 +165,6 @@ related:
         width: 833
         height: 482
         isCached: true
-  - title: "AWS re:Invent 2021: Keynote live - heroes bowed, clouds endowed & crowds allowed"
-    excerpt: "Invent 2021 is big… but actually it’s not, this event has about a third of its normal number of attendees with somewhere around 20,000 people on-site, which (in the continuing Covid-19 era) still feels very crowded."
-    publishedDateTime: 2021-11-30T13:22:00Z
-    webUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-reInvent-2021-Keynote-live-heroes-bowed-clouds-endowed-crowds-allowed"
-    ampWebUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-reInvent-2021-Keynote-live-heroes-bowed-clouds-endowed-crowds-allowed?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/AWS-reInvent-2021-Keynote-live-heroes-bowed-clouds-endowed-crowds-allowed?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
-    images:
-      - url: "https://itknowledgeexchange.techtarget.com/cwdn/files/2021/11/111-1.jpg"
-        width: 580
-        height: 375
-        isCached: true
   - title: "AWS Rocks with New Analytics, AI Services at re:Invent"
     excerpt: "With classic rock tunes playing, Adam Selipsky took the stage for his first re:Invent keynote as the new CEO of AWS, the $60-billion cloud juggernaut that"
     publishedDateTime: 2021-11-30T21:11:00Z
@@ -223,20 +207,6 @@ related:
         width: 680
         height: 298
         isCached: true
-  - title: "BigID Announces Auto-Discovery Apps for Cloud at AWS re:Invent"
-    excerpt: "BigID, the leading data intelligence platform, has launched a set of Auto Discovery apps to allow customers to quickly and automatically find sensitive and personal data stored in the cloud.  The new Automatic Discovery Apps are designed for"
-    publishedDateTime: 2021-11-30T13:48:00Z
-    webUrl: "https://www.lelezard.com/en/news-20131739.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Adam Selipsky charts his own path as CEO in first AWS re:Invent keynote"
     excerpt: "Selipsky announced general availability for Amazon SageMaker Canvas, a no-code solution targeted for an audience with little machine learning experience. “We’re focused on building out all the ..."
     publishedDateTime: 2021-11-30T21:07:00Z
@@ -265,6 +235,15 @@ related:
         width: 1577
         height: 1050
         isCached: true
+  - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
+    publishedDateTime: 2021-12-01T18:34:00Z
+    webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 35
   - title: "Adam Selipsky Keynote | re:Invent 2021 Recap"
     excerpt: "Topic Adam Selipsky, AWS CEO, takes the stage to share his insights and the latest news about AWS customers, products, and services. Observations Newbie, Adam Selipsky, gave us his first re:Invent keynote at this year's 10th-anniversary conference,"
     publishedDateTime: 2021-12-01T10:33:00Z

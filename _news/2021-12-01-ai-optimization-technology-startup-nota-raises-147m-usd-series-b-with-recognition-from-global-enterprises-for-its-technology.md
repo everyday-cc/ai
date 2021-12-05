@@ -1,29 +1,27 @@
 ---
 category: news
 title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-excerpt: "NetsPresso: Nota’s hardware-aware AutoML platform Nota's NetsPresso is its proprietary hardware-aware AutoML platform that automates AI model development process only with datasets. NetsPresso ..."
-publishedDateTime: 2021-12-01T04:06:00Z
-originalUrl: "https://www.asiaone.com/business/ai-optimization-technology-startup-nota-raises-147m-usd-series-b-recognition-global"
-webUrl: "https://www.asiaone.com/business/ai-optimization-technology-startup-nota-raises-147m-usd-series-b-recognition-global"
-ampWebUrl: "https://www.asiaone.com/business/ai-optimization-technology-startup-nota-raises-147m-usd-series-b-recognition-global?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/ai-optimization-technology-startup-nota-raises-147m-usd-series-b-recognition-global?amp"
+excerpt: "SEOUL, South Korea, Nov. 30, 2021 /PRNewswire/ -- Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was ..."
+publishedDateTime: 2021-12-01T03:45:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global/article_8d56ac87-fd29-530e-be70-858a99697cbb.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global/article_8d56ac87-fd29-530e-be70-858a99697cbb.html"
 type: article
-quality: 31
+quality: 11
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.asiaone.com/themes/asiaone_amp/logo.png"
-    width: 299
-    height: 300
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/65/56589c66-3508-55a4-9074-5d6ade084b55/61a6db942facd.image.jpg"
+    width: 800
+    height: 314
     isCached: true
 
 related:
@@ -114,6 +112,6 @@ related:
         height: 697
         isCached: true
 
-secured: "IoNPvQPhD0z5HlumGrSEM1rSAC9kFnV3gmlRTu/sBGFb7i4k8+sJEtwPTs6m1jEf5D7oYM497l2dWveOzBvH2L7V5mx8YJKTrawDhC9wOpWsyC3nIVvX2maeIP9oZpHMfNufZ47pKqDlWehQUOWfQ80NwxJilwLbRBSrtGce+AdRcYVWpII3nYczdUllYuLsxpEAOcycQWhCwkTZLuQzrLCp711V55aLX7q46+8MkAw3TEf1CmWHRSw5jtmiO9TM9Sgcja0lqVWJEUhxlIMkEqgHlemMce48PvY39TCWU8zZcvlCvrTDL/RkxefvXMKI5cHdq97x+GYAhu8iC3l4WKCAkg+wJZcUmuO3vcxOzXg=;0BlTedMwQ5ELBbR2X1mdlg=="
+secured: "F31asfHWnyGeOJbEBATLstI8+A8Wq5MezZkR3+vU6ijab09nAVFwz0/RSduRCA/wlbW1XB9FMVrNy0xEC1L/OeeYRYTXbGuG5oN9j7kHVhfOdtMwwgVPf7pd9WFaYdzQ05PSXKycM0VG38x+NGi55jwj4RI2a9Ol+/FSqwvTbfoE1uaXhBkLsPi3H8DkiiMkMPwB6ntQgwodmS2hqUW52Cm9IBBco2tBqMUZaWb/PfF8JYg2qWWi13HVwES/xVx/8zujlnkJS5I7Oj2k59iLB6LewyQ/wTAi2ID1/bXZ5rOiv8ex4+LjRq4oJpkyCZ1gmFb3UVgsVEdTbgqSd9lgsqOxkeXehB+/Upxh/1yO0Hk=;/xYXJ1pp4x7/+Ysoy0iMbQ=="
 ---
 

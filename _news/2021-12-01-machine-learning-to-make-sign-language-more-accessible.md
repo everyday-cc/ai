@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/outreach-initiatives/accessibility/ml-making-sig
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/accessibility/ml-making-sign-language-more-accessible/amp/"
 type: article
 quality: 111
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1215
     height: 634
     isCached: true
-
-related:
-  - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
-    excerpt: "The program uses AWS DeepRacer and the new AWS DeepRacer Student League to teach students foundational machine learning concepts by giving them hands-on experience training machine learning models ..."
-    publishedDateTime: 2021-12-02T02:07:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/article_0093dd65-7407-57b1-9d7f-f12104ed954e.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 53
-    images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
-        width: 350
-        height: 456
-        isCached: true
 
 secured: "M6w/pHNUy6l9bhRQNbjqkui76W5FbxFw1deyd9DhhiFa5Q6HmByRTgclj9YlA6lQUgZFFJRr4GTtQuOei1/uWAqPwV8WsfAjOyOrewe4enh6YJOZCrLPtPiytlq7GPqSUptU5+fgRTQO7OuWEAakVFiBhADLabHTu7nEtYP1ph8v4ba1+pb78veSKhPv1iQJDo7Uwr3Orv5vkiY+FWshm+7VDgvC+hu4VFqisG/QUtiD0gCvBhNAMV3JFxZg2cHGOSA3xM8qd8yJ+GIE0G503eP8Kf2vX7DlZYq3g6nv8i4Tbh2X3MnplCOHyGzfW9URnrfP5wyd+vNSYL36zuFfQvsEDjqosQ7MlRs2VpRryNA=;TOnZsJLLq8pic/DM8CwbTw=="
 ---

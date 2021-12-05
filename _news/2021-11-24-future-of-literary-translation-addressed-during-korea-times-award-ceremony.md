@@ -3,8 +3,8 @@ category: news
 title: "Future of literary translation addressed during Korea Times award ceremony"
 excerpt: "Participants in the 52nd Modern Korean Literature Translation Awards pose during a ceremony at the Lotte Hotel in central Seoul, Wednesday. From left are Korea Times President-Publisher Oh Young-jin;"
 publishedDateTime: 2021-11-24T07:45:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/culture/2021/12/262_319395.html"
-webUrl: "https://www.koreatimes.co.kr/www/culture/2021/12/262_319395.html"
+originalUrl: "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl"
+webUrl: "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 653
     isCached: true
 
-secured: "gNQAuSnsWD9t+0pZajErmxprY3cZntlX8hwdAMqEEoU7Jc5QKtEcP+rYpT3oBt8eYzP1bV62WarPXYBx9jGOBIhyCQqXj+Kn7eqSvA5s6qPa27y9dzo25z5XnLkf2BjMy8Qq4YqAa/Q8tgaRHIDEsxcBqSnDS8yBaklGocfZ0NrkwRSas3YwEWgiWqnN6nR1PHsI8MlcWRMLXVa9UwOdNcGez2soClQi9jcmq+k1t9ZD/yYnef1K0fLkmfIxDOXSqUzIkzTIJKphzecUSrdpuF6+y7tHjUHIMpxgY/LlHvi2pXrCd+XqzwAu9nWkRXUpbYKz1ycn68cTVDfFWURUo6ElASxlPSHYFE8tcw7yQyOhJ/CWmT9n4d6XuBMYv2PmDqwaLD/Is+8G8XmnBHeVLzg8BruM1xAEL6p+BKh3Y8JBJob0jzDes4hd32DNbQMQ+SGRj/GrRh5+OqX2IFk6zic9GU+gjFqSCpt3C5JtGZo6UUbA7s7n7eztn2bO0rAAqkwUiJusX0uXytcZzTY4uA==;d4rFwBHfP+gXPQTWg/xBeA=="
+secured: "QbGZqJftm8IqCUbhDt4zj39xwF3BmJZcilWTBmVkzPq9JSkmkRC+DJ2sWHIDsA/8U4ft0nuf3t0njfao3/QgbhDqRIPGEIyzVJcMDuhXQHW38xvwkkmEkS1x4VKE3Ur70AqvPKyUIy3RnFwHHFVdQWEO4c3IsbnR6sO4TFNNWjI7/z2bO0xCPcS533SUxXhWJwvDXGhZVF8Hh9ixklsp5LWnVzxd+Xk5LNz+6es1ZJ6TeRA9qz/G1R3Y9/yBqh1E3Bszg4KJ4no+P+4Pil1Oq3oXSDMHOEQQcnE0iPbSrQsNUSmh15Wyuel6pCuRa2Mp/1SM/ca9s+XmTop9GaZTn/dnWsK1nYlvOmCjXR8UYqY=;QCEPN31arrDNHxdl/9WOZA=="
 ---
 

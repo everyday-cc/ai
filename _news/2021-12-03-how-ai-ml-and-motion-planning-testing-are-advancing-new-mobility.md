@@ -29,121 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence And Machine Learning Are Transforming The Future Of Renewable Energy"
-    excerpt: "All of these resources are tied up with the weather, which is something humans can’t control. Artificial intelligence has helped in overcoming this challenge because it is a reliable tool for forecasting the weather."
-    publishedDateTime: 2021-11-30T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
+  - title: "Emerging AI Companies Are Driving A Paradigm Shift in ML"
+    excerpt: "Leadership from Cruise and Facebook AI discuss the emergence of AI native companies and the paradigm shift being driven by advances in ML and robotics. Just as web transformed business, then the emergence of mobile and cloud,"
+    publishedDateTime: 2021-12-03T02:54:00Z
+    webUrl: "https://techcrunch.com/video/emerging-ai-companies-are-driving-a-paradigm-shift-in-ml/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 99
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe21626fcd21bd2b717a302%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "3 Ways AI and Machine Learning Can Transform Public Agencies"
-    excerpt: "Over the past decade, Artificial Intelligence and Machine Learning (AI/ML) have moved from the realm of science fiction into the corporate and governmental mainstream. But while executives know what AI/ML is on a conceptual level, fewer leaders understand ..."
-    publishedDateTime: 2021-11-30T16:56:00Z
-    webUrl: "https://www.infoworld.com/resources/227974/3-ways-ai-and-machine-learning-can-transform-public-agencies"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
+      name: TechCrunch
+      domain: techcrunch.com
     quality: 84
     images:
-      - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-        width: 300
-        height: 300
+      - url: "https://img.vidible.tv/prod/2021-12/01/61a7d5b4d0cfc04f658ab6fd/61a7d658b3835047bf8f1227_o_U_v1.jpg?w=640&h=360"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Using AI with Explainable Deep Learning To Help Save Lives"
-    excerpt: "Health systems have been at the epicenter of the fight against COVID-19, and have had to balance the need to alleviate suffering and save lives with substantial financial pressures.\" \"Health systems’ income statements are likely to see negative pressure as a result of the COVID-19 crisis."
-    publishedDateTime: 2021-12-01T10:56:00Z
-    webUrl: "https://www.bbntimes.com/technology/using-ai-with-explainable-deep-learning-to-help-save-lives"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 58
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_with_Explainable_Deep_Learning_To_Help_Save_Lives.jpeg"
-        width: 1280
-        height: 682
-        isCached: true
-  - title: "Deep Learning Market Technological Advancements, Evolving Industry Trends and Insights"
-    excerpt: "Deep learning algorithms are being increasingly used in contact centers as the adoption of these algorithms help them in improving the first call resolution process reducing call durations curtailing total call volume and enhancing customer satisfaction thereby increasing their business"
-    publishedDateTime: 2021-11-30T13:23:00Z
-    webUrl: "https://www.openpr.com/news/2479948/deep-learning-market-technological-advancements-evolving"
-    ampWebUrl: "https://www.openpr.com/amp/2479948/deep-learning-market-technological-advancements-evolving"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2479948/deep-learning-market-technological-advancements-evolving"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub30422061_g.jpg"
-        width: 800
-        height: 464
-        isCached: true
-  - title: "How AI and Automation Are Transforming Legal Teams for the Better"
-    excerpt: "How can legal firms benefit by transitioning away from traditional contract management processes and adopting AI and automation?"
-    publishedDateTime: 2021-12-01T15:31:00Z
-    webUrl: "https://www.lawyer-monthly.com/2021/12/how-ai-and-automation-are-transforming-legal-teams/"
-    type: article
-    provider:
-      name: Lawyer Monthly
-      domain: lawyer-monthly.com
-    quality: 39
-    images:
-      - url: "https://www.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2021/12/Matt-Gould_ContractPodAi.jpg"
-        width: 990
-        height: 660
-        isCached: true
-  - title: "With an AI to the future"
-    excerpt: "By Corin Campbell, PR and Media Manager, Communications and Marketing Will artificial intelligence provide the answers to everything or spell the downfall of humankind? Professor Michael Rovatsos unravels the hype and asks if we really want to make machines that think just like us."
-    publishedDateTime: 2021-12-01T16:11:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-future-university-of-edinburgh"
+  - title: "Top 30 AI chip companies of China in 2021"
+    excerpt: "AI applications are developing rapidly, and an increasing number of AI chip startups have been established in the past several years in China. However, the implementation of AI applications has been the biggest problem."
+    publishedDateTime: 2021-12-04T13:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-30-ai-chip-companies-china-2021-steve-gu"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 39
+    quality: 54
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEOfjjlOde_KA/article-cover_image-shrink_720_1280/0/1638373093390?e=1643846400&v=beta&t=BJQBad7pXcQxxxp7m7uxg6aLh8tBmeII72_FhaMirBk"
-        width: 1081
-        height: 720
-        isCached: true
-  - title: "How to bridge the imaging AI adoption gap with an ecosystem approach — 3 learnings"
-    excerpt: "Imaging technologies powered by artificial intelligence have proliferated in recent years, yet adoption of these technologies, which are designed to assist with the complexities of diagnostics and their associated workflows,"
-    publishedDateTime: 2021-12-01T13:42:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/how-to-bridge-the-imaging-ai-adoption-gap-with-an-ecosystem-approach-3-learnings.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 33
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
-        width: 800
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQH2ZHWp2w8Z0w/article-cover_image-shrink_600_2000/0/1638623585945?e=1643846400&v=beta&t=_1vyV-7xpaV10eczP4xlkI0rpjc2t4VK9og7bfw4vvA"
+        width: 960
         height: 600
         isCached: true
-  - title: "Hyperfine Receives FDA Approval for Deep Learning Portable MRI, Ushering in the Future of Life-Saving Diagnostics"
-    excerpt: "The world's first portable MRI uses deep learning to revolutionize imaging at the patient's bedside, enabling prompt diagnosis and"
-    publishedDateTime: 2021-12-02T06:46:00Z
-    webUrl: "https://www.cioapplications.com/news/hyperfine-receives-fda-approval-for-deep-learning-portable-mri-ushering-in-the-future-of-lifesaving-diagnostics-nid-8880.html"
+  - title: "The Obstacles and Opportunities of Democratizing AI for Enterprise Companies"
+    excerpt: "Without question, enterprise deployment of artificial intelligence (AI) is positioned for tremendous growth. Published in early 2021, IBM’s Global AI Adoption Index revealed that a third of those surveyed will be investing in AI skills and solutions over the next 12 months."
+    publishedDateTime: 2021-12-02T06:32:00Z
+    webUrl: "https://www.linkedin.com/pulse/obstacles-opportunities-democratizing-ai-enterprise-companies-yu/"
     type: article
     provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 18
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 36
     images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/kb3nz450308-11.jpg"
-        width: 450
-        height: 308
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGcFzUSpDCmEQ/article-cover_image-shrink_720_1280/0/1638426003828?e=1643846400&v=beta&t=pmYmwRDXQI3i1j00VY9wGF1hAtqAF-tS_bna7pN7A8c"
+        width: 720
+        height: 720
         isCached: true
 
 secured: "E2k/ZP6u19Udc4IFIgjB82f/cBxdQ/xc0quQxMjJInfS53t6uc4V+w/E8nepgqKEbtkZKlVSSPPhcjYGl0zaXNO8o055u9wLVx3rHcigd2+9iWsf18TKw6eUh27sooR0C0hFe/+HTRxtRicvAaJ4+e6XmUNjTlOfu/x74xLvP6xDCr17Ir6Y2Hchx5ZJ8viI3x7n8cOAsKN69BTo6T8OVzqx7ZC4ZEjY9YNtxc3Xjm5AyxcB4GccbVC/8gl1H4BEhDbIuEeA5Llu8TVMOamFm6GKbo1X/rcj130huYIUBOuyaqVLo7hujMyTTTyeunBBQrLjTsRWREgPlK8henoSGtj+KsuJ4+eEqYT/Ymky1iQ=;YjBdsISKI14QsJmOGOO6uQ=="

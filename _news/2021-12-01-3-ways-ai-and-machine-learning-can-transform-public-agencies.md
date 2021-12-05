@@ -7,8 +7,8 @@ originalUrl: "https://www.infoworld.com/resources/227974/3-ways-ai-and-machine-l
 webUrl: "https://www.infoworld.com/resources/227974/3-ways-ai-and-machine-learning-can-transform-public-agencies"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: InfoWorld
@@ -29,121 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence And Machine Learning Are Transforming The Future Of Renewable Energy"
-    excerpt: "All of these resources are tied up with the weather, which is something humans can’t control. Artificial intelligence has helped in overcoming this challenge because it is a reliable tool for forecasting the weather."
-    publishedDateTime: 2021-11-30T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/"
+  - title: "UK government publishes standard and guidance for AI algorithmic transparency"
+    excerpt: "The Cabinet Office’s Central Digital and Data Office has said that the standard will be piloted by several public sector organizations and be further developed."
+    publishedDateTime: 2021-12-01T13:13:00Z
+    webUrl: "https://diginomica.com/uk-government-publishes-standard-and-guidance-ai-algorithmic-transparency"
+    ampWebUrl: "https://diginomica.com/uk-government-publishes-standard-and-guidance-ai-algorithmic-transparency?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/uk-government-publishes-standard-and-guidance-ai-algorithmic-transparency?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 99
+      name: Diginomica
+      domain: diginomica.com
+    quality: 56
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe21626fcd21bd2b717a302%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How AI, ML and Motion Planning Testing Are Advancing New Mobility"
-    excerpt: "Leading MIT and CMU professors will share how AI and ML are creating new breakthroughs in autonomous transportation. Attendees will learn the latest research and testing in motion planning behaviors that will enable autonomous mobility companies to safely and efficiently deploy autonomous vehicles"
-    publishedDateTime: 2021-12-03T02:54:00Z
-    webUrl: "https://techcrunch.com/video/how-ai-ml-and-motion-planning-testing-are-advancing-new-mobility/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://img.vidible.tv/prod/2021-12/01/61a7d99b830dda0e7d106e36/61a7da2a5ff8e42f8c0ee97c_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Using AI with Explainable Deep Learning To Help Save Lives"
-    excerpt: "Health systems have been at the epicenter of the fight against COVID-19, and have had to balance the need to alleviate suffering and save lives with substantial financial pressures.\" \"Health systems’ income statements are likely to see negative pressure as a result of the COVID-19 crisis."
-    publishedDateTime: 2021-12-01T10:56:00Z
-    webUrl: "https://www.bbntimes.com/technology/using-ai-with-explainable-deep-learning-to-help-save-lives"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 58
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_with_Explainable_Deep_Learning_To_Help_Save_Lives.jpeg"
+      - url: "https://diginomica.com/sites/default/files/images/2020-04/brain-20424_1280.jpg"
         width: 1280
-        height: 682
-        isCached: true
-  - title: "Deep Learning Market Technological Advancements, Evolving Industry Trends and Insights"
-    excerpt: "Deep learning algorithms are being increasingly used in contact centers as the adoption of these algorithms help them in improving the first call resolution process reducing call durations curtailing total call volume and enhancing customer satisfaction thereby increasing their business"
-    publishedDateTime: 2021-11-30T13:23:00Z
-    webUrl: "https://www.openpr.com/news/2479948/deep-learning-market-technological-advancements-evolving"
-    ampWebUrl: "https://www.openpr.com/amp/2479948/deep-learning-market-technological-advancements-evolving"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2479948/deep-learning-market-technological-advancements-evolving"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub30422061_g.jpg"
-        width: 800
-        height: 464
-        isCached: true
-  - title: "How AI and Automation Are Transforming Legal Teams for the Better"
-    excerpt: "How can legal firms benefit by transitioning away from traditional contract management processes and adopting AI and automation?"
-    publishedDateTime: 2021-12-01T15:31:00Z
-    webUrl: "https://www.lawyer-monthly.com/2021/12/how-ai-and-automation-are-transforming-legal-teams/"
-    type: article
-    provider:
-      name: Lawyer Monthly
-      domain: lawyer-monthly.com
-    quality: 39
-    images:
-      - url: "https://www.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2021/12/Matt-Gould_ContractPodAi.jpg"
-        width: 990
-        height: 660
-        isCached: true
-  - title: "With an AI to the future"
-    excerpt: "By Corin Campbell, PR and Media Manager, Communications and Marketing Will artificial intelligence provide the answers to everything or spell the downfall of humankind? Professor Michael Rovatsos unravels the hype and asks if we really want to make machines that think just like us."
-    publishedDateTime: 2021-12-01T16:11:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-future-university-of-edinburgh"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEOfjjlOde_KA/article-cover_image-shrink_720_1280/0/1638373093390?e=1643846400&v=beta&t=BJQBad7pXcQxxxp7m7uxg6aLh8tBmeII72_FhaMirBk"
-        width: 1081
-        height: 720
-        isCached: true
-  - title: "How to bridge the imaging AI adoption gap with an ecosystem approach — 3 learnings"
-    excerpt: "Imaging technologies powered by artificial intelligence have proliferated in recent years, yet adoption of these technologies, which are designed to assist with the complexities of diagnostics and their associated workflows,"
-    publishedDateTime: 2021-12-01T13:42:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/how-to-bridge-the-imaging-ai-adoption-gap-with-an-ecosystem-approach-3-learnings.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 33
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Hyperfine Receives FDA Approval for Deep Learning Portable MRI, Ushering in the Future of Life-Saving Diagnostics"
-    excerpt: "The world's first portable MRI uses deep learning to revolutionize imaging at the patient's bedside, enabling prompt diagnosis and"
-    publishedDateTime: 2021-12-02T06:46:00Z
-    webUrl: "https://www.cioapplications.com/news/hyperfine-receives-fda-approval-for-deep-learning-portable-mri-ushering-in-the-future-of-lifesaving-diagnostics-nid-8880.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 18
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/kb3nz450308-11.jpg"
-        width: 450
-        height: 308
+        height: 980
         isCached: true
 
 secured: "MGdFv56BqFPu11pkUz5OxlFr+EvnXhRM7UGrqRhU88nsUBANQqigW3kgPGO4wfVah9F+sxKXIHqXm9GptAP5b9uBbfB882qg6T7CMbyhqKW0eMo+WSZGCc6sfmeP+po8PBoVM1r5x2MHi7Y72Rd8+PKf65/XJKVqNypu1rInoBq5qUgNZXxyfVar6YkEPHN2qG13fEnzWAuwkcHQqlzl70rTRzLkzujUo/FP2Dixmd2hlkXqj9AUffM8aLvII9d5ykkY6LkPG2/D969Dwcg9bb4FMXsDceroRBklrdA1XhrGKaywbNrgffZM7+9yb07AZqvOWRfL0dAJiEEysXSIZ7iP4eR/xi54kiafpj/YK5M=;ijxYANcWX9vpzyov2mNF6g=="

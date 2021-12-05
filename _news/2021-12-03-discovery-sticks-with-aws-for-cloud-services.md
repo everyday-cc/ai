@@ -149,17 +149,17 @@ related:
         isCached: true
   - title: "AWS Announces New Serverless Options for Three Analytics Services"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
-    publishedDateTime: 2021-11-30T17:41:00Z
-    webUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
+    publishedDateTime: 2021-11-30T18:41:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
     type: article
     provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 41
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
-        width: 320
-        height: 300
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "igqxsNtsyAH22Ht/ubwObk7NBHcy4qLT6eC39AJyCMTd7+aT5tfmdspY9rdgoHxT3zhPAmfrlNQmcaEDMqfau3roAdqwJKU7V1tSbB9icvp5fSEF4o2pnYWAc2GkZtD/HV1WMrQEIBBOSOD3TH0Oks0LTJrksf6BMczvREsC3oCRQCkV+4M8wJGnZfBBNQ6VHqZuLJw1ZGOpmFxH6VhpIfwIDNBgyoLyHZbnyFOksi/aFe9zSAQ9XI1KGM82ksCJnG0vyWlhDv4tT1m/i6exAC/MJtD4ThM/x/vohxPEqkTPbXDdSNkX6hn3aVYin/ZQK3eP3HvYWT5JBm/IIgZBt4hO0TyKl3vTm0hNUPO7rheG6YZ0ZDRT5NlFb1WRboX7ERKr+VJ2ZhYNWZ7tOo1/knLSjY1MkFo6sel2I0yafv8S/JEKlRbbDYp8kqMN0LXX6jrHLGIiZ8ZsMYCvktxGrEMf3f58tcNMkDLDWcwhloir4pe/K51ZtUsilW6E7tahjGt0uMkOXeljRI+yORXavg==;XMG9PkUD/WpbbrqFGNZbUg=="
