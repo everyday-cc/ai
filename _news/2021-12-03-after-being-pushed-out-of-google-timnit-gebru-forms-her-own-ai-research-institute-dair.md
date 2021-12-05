@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-
 webUrl: "https://www.dair-institute.org/press-release"
 type: article
 quality: 160
-heat: 240
+heat: 250
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2020/12/Dr-Timnit-Gebru-770x433.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
+        isCached: true
+  - title: "Ex-Google AI ethics expert Timnit Gebru to launch anti-bias research institute"
+    excerpt: "Timnit Gebru is launching an artificial intelligence research institute after Google fired her for claiming the company's AI were unethical."
+    publishedDateTime: 2021-12-05T04:44:00Z
+    webUrl: "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/"
+    ampWebUrl: "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/12/04/timnit-gebru-launches-dair/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 72
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/12/GettyImages-1028811892-scaled.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Can Timnit Gebru’s new lab challenge big tech’s control over AI research?"
     excerpt: "Timnit Gebru, the renowned academic who was controversially fired by Google, has launched an independent AI research institute."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/"
 type: article
 quality: 93
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12637_16384507321308025.jpg"
         width: 350
         height: 215
-        isCached: true
-  - title: "AI Predictions and Innovations for 2022"
-    excerpt: "Most enterprises failed to scale their AI deployments this year. Will 2022 be the year when this actually happens?"
-    publishedDateTime: 2021-11-30T11:09:00Z
-    webUrl: "https://tdwi.org/articles/2021/11/30/adv-all-ai-predictions-and-innovations-for-2022.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 39
-    images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/2022_blocks.jpg"
-        width: 976
-        height: 400
         isCached: true
   - title: "Agnisys Delivers Novel AI Technology and FPGA Support for IP and SoC Specification Automation"
     excerpt: "Agnisys, Inc.®, the leading EDA provider of the industry’s most comprehensive solution for Design and Verification of SoC Hardware/Software Interface (HSI), today announced availability of a unique AI-based approach for specification of assertions and a new product to support FPGA development."

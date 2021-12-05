@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Scientists make history by creating living robots that can reproduce"
-excerpt: "Scientists have created robots that can reproduce entirely independently - and frankly, we have just one question: Oh God, why?"
-publishedDateTime: 2021-11-30T15:19:00Z
-originalUrl: "https://www.joe.co.uk/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241"
-webUrl: "https://www.joe.co.uk/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241"
-ampWebUrl: "https://www.joe.co.uk/amp/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241"
-cdnAmpWebUrl: "https://www-joe-co-uk.cdn.ampproject.org/c/s/www.joe.co.uk/amp/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241"
+title: "These Tiny Xenobot Robots Can Biologically Reproduce to Create a Family!"
+excerpt: "A team of researchers has developed a new kind of robot called \"Xenobot\" that can biologically reproduce to create \"baby\" Xenobots."
+publishedDateTime: 2021-12-04T18:38:00Z
+originalUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/"
+webUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/"
+ampWebUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/"
+cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/"
 type: article
-quality: 59
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: joe.co.uk
-  domain: joe.co.uk
+  name: Beebom
+  domain: beebom.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmpvZS5jby51a1xcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMVxcXC8zMDE1MTkyMVxcXC9Sb2JvdHMucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP2lkPTBhODk3NjFkMGEzYzZmNTFmN2Q2XCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAzY2NkMzdmMmFiOGU4OTFmMDNkZGQ5OGVhMjQyNTg3NmMyNGE0ODUifQ==/robots.png"
-    width: 647
-    height: 340
+  - url: "https://beebom.com/wp-content/uploads/2021/12/shutterstock_2010089492-min.jpg?w=750&quality=75"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -59,6 +59,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Scientists make history by creating living robots that can reproduce"
+    excerpt: "Scientists have created robots that can reproduce entirely independently - and frankly, we have just one question: Oh God, why?"
+    publishedDateTime: 2021-11-30T15:19:00Z
+    webUrl: "https://www.joe.co.uk/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241"
+    ampWebUrl: "https://www.joe.co.uk/amp/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241"
+    cdnAmpWebUrl: "https://www-joe-co-uk.cdn.ampproject.org/c/s/www.joe.co.uk/amp/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241"
+    type: article
+    provider:
+      name: joe.co.uk
+      domain: joe.co.uk
+    quality: 59
+    images:
+      - url: "https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmpvZS5jby51a1xcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMVxcXC8zMDE1MTkyMVxcXC9Sb2JvdHMucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP2lkPTBhODk3NjFkMGEzYzZmNTFmN2Q2XCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAzY2NkMzdmMmFiOGU4OTFmMDNkZGQ5OGVhMjQyNTg3NmMyNGE0ODUifQ==/robots.png"
+        width: 647
+        height: 340
+        isCached: true
   - title: "Meet Xenobots, World's First Living Robots That Can Reproduce"
     excerpt: "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world."
     publishedDateTime: 2021-12-01T16:32:00Z
@@ -90,22 +106,6 @@ related:
       - url: "https://i.cbc.ca/1.6272805.1638559444!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/xeno-headline.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "These Tiny Xenobot Robots Can Biologically Reproduce to Create a Family!"
-    excerpt: "A team of researchers has developed a new kind of robot called \"Xenobot\" that can biologically reproduce to create \"baby\" Xenobots."
-    publishedDateTime: 2021-12-04T18:38:00Z
-    webUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/"
-    ampWebUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 58
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2021/12/shutterstock_2010089492-min.jpg?w=750&quality=75"
-        width: 750
-        height: 500
         isCached: true
   - title: "VIDEO: Living Robots Made From Frog Cells Can Now Self-Replicate, Scientists Say"
     excerpt: "By Martin M Barillas A team of scientists reports they have discovered a new form of biological reproduction and have applied it to create the world’s"
@@ -277,6 +277,6 @@ related:
         height: 534
         isCached: true
 
-secured: "s+4k2qym/wIpqO/tHK1NA1pPPGOG711qJ7dLUvAyteOY7C6rj6vXGAN7jlzn5YbrUnz6D+4zEX2oD/h+qZz0uXapr5Y8EHkIfP1g1dYIWNFOEmyBeAetg+Zu2ZSYXrswcBNWg0hLo+ynPu0oiTYXc1bcC3277zlbT98+R9Eo4kGEGSKbTMB+5ZK78ryDgzXihuiFqWAaLerHu/oDWxl7rtrqvAgADFKELewVQaM/JUvVOZRtyPQd/ExW50zoy6mHtzcx7OoccQWFtnE8ds74LNAnT0Xho8FPXUOg9LjF88Kyf7sGuFH+X5zJT0OuxkCEVzw0zBDds/9trhxbDibxwbhiKDt5CV802tHdqVU1lcw=;Ss5hgw3hpUYj7agLkP/fmA=="
+secured: "XFm5tJjVlcnPKTlk4BpNRO0Hc34Rb2UkXnknJjVFDZ82t1J0NqoL/BHxLvX24U/2KvSFgKqu38aU7OiWv1YE+/2G02T5W78GBU3grjjqwEdk57x9Y+S1pLPHnxtZNdSpxQ0awiI5K5416I50UiXInEInDEe4ZH2Qsb6eaLFMxslaMecufAaNLKYAXzrFmo0z6uhTUHrds47wanqETwxZabH1oP+QBpL/Tm9aaxyHCUePlmgWW+g6YMqx9zwNsUxHpIDhus1FHKlws0qfbDiouCRqP3aoeP1tyf9WST6dNfib7kWmkU1XxYBxPhU8rn4AXv1ZbFbCUKxvPjnrpT+8/TtM92nJOhCgjV0uFCCx3io=;Ib/dMdYpBcLTW2secL6hdQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/11/30/aws-launches-its-graviton-3-proces
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-launches-its-graviton-3-processor/amp/"
 type: article
 quality: 189
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/12/brian-kostiuk-S4jSvcHYcOs-unsplash-scaled.jpg"
         width: 2560
         height: 1704
-        isCached: true
-  - title: "Amazon EC2 G5g NVIDIA GPU-Accelerated Graviton-Based instances"
-    excerpt: "The AWS team have confirmed the general availability of the new Amazon EC2 G5g instances providing up to 30 percent lower cost"
-    publishedDateTime: 2021-11-30T12:23:00Z
-    webUrl: "https://www.geeky-gadgets.com/amazon-ec2-g5g-30-11-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/Amazon-EC2-G5g.jpg"
-        width: 700
-        height: 457
         isCached: true
   - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
     excerpt: "Amazon EC2 C7g instances powered by new AWS Graviton3 processors provide up to 25% better performance for compute-intensive workloads over current generation C6g instances powered by"

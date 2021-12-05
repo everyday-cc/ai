@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Google fired its star AI researcher one year ago. Now she’s launching her own institute"
-excerpt: "Timnit Gebru is launching Distributed Artificial Intelligence Research Institute (DAIR) to document AI’s harms on marginalized groups"
-publishedDateTime: 2021-12-02T17:00:00Z
-originalUrl: "https://www.washingtonpost.com/technology/2021/12/02/timnit-gebru-dair/"
-webUrl: "https://www.washingtonpost.com/technology/2021/12/02/timnit-gebru-dair/"
+title: "Ex-Google AI ethics expert Timnit Gebru to launch anti-bias research institute"
+excerpt: "Timnit Gebru is launching an artificial intelligence research institute after Google fired her for claiming the company's AI were unethical."
+publishedDateTime: 2021-12-05T04:44:00Z
+originalUrl: "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/"
+webUrl: "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/"
+ampWebUrl: "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/amp/"
+cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/12/04/timnit-gebru-launches-dair/amp/"
 type: article
-quality: 31
+quality: 72
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: The Grio
+  domain: thegrio.com
 
 topics:
-  - Natural Language Processing
+  - AI Ethics
   - AI
+  - Facebook AI
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NYWRF4CS5YI6ZA6S3HNLBYR3PY.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://thegrio.com/wp-content/uploads/2021/12/GettyImages-1028811892-scaled.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -54,22 +57,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2020/12/Dr-Timnit-Gebru-770x433.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
-        isCached: true
-  - title: "Ex-Google AI ethics expert Timnit Gebru to launch anti-bias research institute"
-    excerpt: "Timnit Gebru is launching an artificial intelligence research institute after Google fired her for claiming the company's AI were unethical."
-    publishedDateTime: 2021-12-05T04:44:00Z
-    webUrl: "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/"
-    ampWebUrl: "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/12/04/timnit-gebru-launches-dair/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 72
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2021/12/GettyImages-1028811892-scaled.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Can Timnit Gebru’s new lab challenge big tech’s control over AI research?"
     excerpt: "Timnit Gebru, the renowned academic who was controversially fired by Google, has launched an independent AI research institute."
@@ -141,6 +128,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Google fired its star AI researcher one year ago. Now she’s launching her own institute"
+    excerpt: "Timnit Gebru is launching Distributed Artificial Intelligence Research Institute (DAIR) to document AI’s harms on marginalized groups"
+    publishedDateTime: 2021-12-02T17:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/12/02/timnit-gebru-dair/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 31
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NYWRF4CS5YI6ZA6S3HNLBYR3PY.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "After being fired from Google, Gebru forms AI research institute"
     excerpt: "Artificial Intelligence (AI) researcher Timnit Gebru, fired from Google after sending an email of concern to her Ethical AI team, has set up her own research institute that will be an independent, community-rooted institute set to counter Big Tech's pervasive influence on the research,"
     publishedDateTime: 2021-12-03T11:28:00Z
@@ -151,6 +152,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "L4un0g0+fu//aDUbYp072q/7lhDnQNIGQzSHqJIe3LQ9MU0pvdFa0Q2482fJNqVQvm+NnhLpXDWQQvdgBdfUpCd3wY+LIbtPEzggUfE1LOQy2Oo4J4ZBLroNemPe1Z8VmOQoczQyulNutHv6uC77DdlOC6NCr8S6Mkm6pLd98hjcUPq1vKGts5osY3Zr/QuJ9ob4Sd9iUsBQX8gLI5v604fAEBgjkkXUa3B3vFsxAMio0uhQ60pW1a3tzznADd0gU0Dslrpz8Jvez7jhPaow6NKB4A6Xu0K7rYFJXWtPQoSlUu7jcEZKFVRhg00+Z8bym80ULHLtC4QO0eAqTJN+S5mHYYycsLzb8BMWqvKBtK+VLcSe77HncmpZMh8GRNbypr/yuIUeZr6Et2b7ydN+YLipM5Tee/tewNf6P3vn7MaCIM0ynXpzHjbQkJMdIFGSKt+JutTBTVAU+ZgwbVEc4URkW8MQXDjhe/tT6Y8s6d8cYBjKcrSGw3xUEghbUcQEvu5TpouItqBAjesIem7Quw==;eN1wxWBDc1MW9yPaQ/Ubzg=="
+secured: "fQrVc0H7NlbX59LxJdAe7wF8mqC9Hy6RxXaMa/t5m5GEbJnWq/k+ERu/hTIWGUSmQFvA6Y712RVUrhmsPCEKBqRQgQ3lzXSsBD73xapqD8w/9/cclnTpekWMCqg0CQtWvLlqTbsFEzbaRJhd2zB5MutbFnr5tZiOUGHRjsRElhoN9+1dJAAjP+751gSDru6CMwjZG5l1iY6CZCUUio345UOST0c7kd9cf1/E6BXydNJlGoyMCiwZckuW0YjNMSs8jnHi8CE/e4zwZ88gdVcRlUygC8VTM+X/77PF0sDIpkYkS/x9Ny+qOYQGSdpWxhowbtQObabo6aG6t+QbO08NF1R0Fkyj566ljur6RdYzFWI=;njIE5cSdqQmXtK/GV0e/Jw=="
 ---
 

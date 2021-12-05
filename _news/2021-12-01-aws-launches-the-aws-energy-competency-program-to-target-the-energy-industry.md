@@ -42,18 +42,20 @@ related:
         height: 398
         isCached: true
   - title: "Ambyint Achieves AWS Energy Competency Status"
-    excerpt: "Ambyint, a production and artificial lift optimization solutions provider, today announced that it has achieved Amazon Web Services (AWS) Energy Competency status. This designation recognizes that Ambyint has demonstrated deep expertise and technical proficiency helping customers leverage AWS cloud technology to transform complex systems and provides energy customers the ability to more easily select skilled partners to accelerate their digital transition to a sustainable energy future with confidence."
-    publishedDateTime: 2021-11-30T13:38:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html"
+    excerpt: "Ambyint artificial lift optimization technologies help accelerate customers' digital transformations Ambyint, a production and artificial lift optimization solutions"
+    publishedDateTime: 2021-11-30T13:37:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24358439"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24358439"
     type: article
     provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
-      - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
-        width: 350
-        height: 456
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Aspen Technology Achieves AWS Energy Competency Status"
     excerpt: "Aspen Technology, Inc. (NASDAQ: AZPN), a global leader in asset optimization software, today announced that it has achieved Amazon Web Services, Inc. (AWS) Energy Competency status. This designation recognizes that AspenTech has demonstrated deep expertise helping customers leverage AWS cloud technology to transform complex systems and accelerate the transition to a sustainable energy future."

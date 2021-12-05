@@ -88,22 +88,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "UK follows Australia in clamping down on US facial recognition firm Clearview AI with £17 million data privacy fine"
-    excerpt: "The UK has followed in Australia’s footsteps as its privacy regulator imposes a provisional £17 million fine on US facial recognition firm Clearview AI Inc for breaching data protection regulations. Clearview AI Inc,"
-    publishedDateTime: 2021-11-30T12:28:00Z
-    webUrl: "https://diginomica.com/uk-follows-australia-clamping-down-us-facial-recognition-firm-clearview-ai-ps17-million-data"
-    ampWebUrl: "https://diginomica.com/uk-follows-australia-clamping-down-us-facial-recognition-firm-clearview-ai-ps17-million-data?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/uk-follows-australia-clamping-down-us-facial-recognition-firm-clearview-ai-ps17-million-data?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 52
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-11/Screenshot%202021-11-30%20at%2012.25.17.png"
-        width: 1688
-        height: 1190
-        isCached: true
   - title: "Consecutive NIST Tests Confirm Superiority of Clearview AI's Facial Recognition Platform"
     excerpt: "Clearview AI’s facial recognition algorithm again ranks No. 1 in U.S. – tops in 1:N and 1:1 Facial Recognition Vendor Tests (FRVT)."
     publishedDateTime: 2021-12-02T13:26:00Z
@@ -117,20 +101,6 @@ related:
       - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/12/16x9/clearviewai.61a8c7950357f.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Facial recognition firm Clearview facing £17m fine for \"serious breaches\" of the UK’s data protection laws"
-    excerpt: "The Information Commissioner’s Office (ICO) has announced its provisional intent to impose a potential fine of just over £17m on Clearview AI Inc – a company that describes itself as the ‘World’s Largest Facial Network’."
-    publishedDateTime: 2021-11-30T11:14:00Z
-    webUrl: "https://mobilemarketingmagazine.com/facial-recognition-firm-clearview-facing-17m-fine-for-serious-breaches-of-the-uks-data-protection-laws"
-    type: article
-    provider:
-      name: Pepsi
-      domain: mobilemarketingmagazine.com
-    quality: 21
-    images:
-      - url: "https://www.mobilemarketingmagazine.com/wp-content/uploads/posts/Crowd.jpg"
-        width: 620
-        height: 500
         isCached: true
 
 secured: "A2GN3LNIjHginwubD5i0v32OgFgZ+a+m5M00iWURsMjaxDNQ0n4NxWVFVb/gnS5bpqFMXxB90ZA1WeTmTR2Qh6Pu4m2zFzhh1bmtDsThqocknworJmm0OjL8D1j0TMMrD+a//1ziL0r59JkEuGf2lVqrnYSgCF7NoZQWepfCaoreduUYQ9KNMQ6bZvF9gwSmFXdlFVzNpfAlzWi5uMuwfimKdKmmX7D57wPzTE3A/ZDr9YaPr82sXRujP7bYwpVeYf7QTK5v0N1YMGkjCbeJZQbxOb5LBC2Bz1gvWBFbEDcoDG5Mvm3QUZfdotF6oqMhvIXyxnz9vA5q70zU1JmBNyc3wjy34Hw9g57jmOFTCPHBhFwh2CNbIkruF+avEbHIoBYGzjrEsoP4S+7DoTqldysaTpaR9QbbptQI6peCEJ7MmwsE0LZLMhAbVePaSehD+DvBbIcviA00v/Kr58ZkxbhwziiWw8c4EiorGT4Goj5z/QJ1PfncclG4SzYfRBXX8n3VK/wTUHCc8rvWV2lxfQ==;QGpHp/bkOQSBqGJABedp/g=="

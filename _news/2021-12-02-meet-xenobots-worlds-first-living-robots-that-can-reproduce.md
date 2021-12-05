@@ -91,6 +91,22 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "These Tiny Xenobot Robots Can Biologically Reproduce to Create a Family!"
+    excerpt: "A team of researchers has developed a new kind of robot called \"Xenobot\" that can biologically reproduce to create \"baby\" Xenobots."
+    publishedDateTime: 2021-12-04T18:38:00Z
+    webUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/"
+    ampWebUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 58
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2021/12/shutterstock_2010089492-min.jpg?w=750&quality=75"
+        width: 750
+        height: 500
+        isCached: true
   - title: "VIDEO: Living Robots Made From Frog Cells Can Now Self-Replicate, Scientists Say"
     excerpt: "By Martin M Barillas A team of scientists reports they have discovered a new form of biological reproduction and have applied it to create the world’s"
     publishedDateTime: 2021-12-01T12:49:00Z
@@ -122,34 +138,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/11/21/USATODAY/usatsports/247WallSt.com-247WS-996564-Xenobots.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Living robots have sex like Tetris"
-    excerpt: "Making their porn a little dullThe US scientists who created the first living robots say the life forms, known as xenobots, can now reproduce -- and in a way not seen in plants and animals. The xenobots are made from the stem cells of the African clawed frog (Xenopus laevis) from which it takes"
-    publishedDateTime: 2021-11-30T11:26:00Z
-    webUrl: "https://www.fudzilla.com/news/53963-living-robots-have-sex-like-tetris"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/61ac51b4aca69f064102c7de8fbd1eaf_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "Scientists build self-replicating living robots"
-    excerpt: "US researchers have discovered a new form of biological reproduction and have created what they say are the world’s first living robots that can self-replicate."
-    publishedDateTime: 2021-11-30T12:49:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/11/scientists-build-self-replicating-living-robots/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/17241/xenobot-reproducing.jpg?crop=0,0.26833333333333337,0,0.2394791666666666&cropmode=percentage&width=1200&height=450&rnd=132827439180000000"
-        width: 1200
-        height: 450
         isCached: true
   - title: "Scientists Say They Have Created Self-Replicating 'Living Robots'"
     excerpt: "There are many things that are possible if we take advantage of this kind of plasticity and ability of cells to solve problems.'"

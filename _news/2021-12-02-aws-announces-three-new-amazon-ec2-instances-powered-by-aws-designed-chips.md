@@ -87,20 +87,6 @@ related:
         width: 2560
         height: 1704
         isCached: true
-  - title: "Amazon EC2 G5g NVIDIA GPU-Accelerated Graviton-Based instances"
-    excerpt: "The AWS team have confirmed the general availability of the new Amazon EC2 G5g instances providing up to 30 percent lower cost"
-    publishedDateTime: 2021-11-30T12:23:00Z
-    webUrl: "https://www.geeky-gadgets.com/amazon-ec2-g5g-30-11-2021/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/Amazon-EC2-G5g.jpg"
-        width: 700
-        height: 457
-        isCached: true
 
 secured: "lgEGpZl8bgkyvtdVAiPStINFN73xtvJmznhIiGV2IjGc6VCoyI2mnORTA7toU7pxUw+r3DKll7wUcv9TtwZJuvHEtxocRtzZx5rgEnbt6A+vdKp83uI058MQAz8aCv4DlTuWI6AlnxeOQB+1QGnJStvNVNn8hf1j0fNNHyDI4DSnchHJYLHe3Ig0scUj3MZ3cU2h0rembPGt9rNUYmM8++LvVCMtdSj+Bym8KWetYMTsAvrCFLf4XmwEAq4EvU5fFjX9GwIsEUJdhTSHaQVWQPd9JDbjp8xKYXA4Fz1vrLrXvQC3onjc9QlvShIuHeOi4y2XzxdiPIGRejJcN1x9kYO4C+WUq4U8Y+OvnZnN/08=;9vP5CVvdquxN0ou+AySI+A=="
 ---

@@ -90,20 +90,6 @@ related:
         width: 350
         height: 215
         isCached: true
-  - title: "AI Predictions and Innovations for 2022"
-    excerpt: "Most enterprises failed to scale their AI deployments this year. Will 2022 be the year when this actually happens?"
-    publishedDateTime: 2021-11-30T11:09:00Z
-    webUrl: "https://tdwi.org/articles/2021/11/30/adv-all-ai-predictions-and-innovations-for-2022.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 39
-    images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/2022_blocks.jpg"
-        width: 976
-        height: 400
-        isCached: true
 
 secured: "SwC3J8YBgxv7hQGXZ/BaSKy3M9wAhuwbTA96D/qx+NnyU4c8pCjBTL8nMpbK9Xs22rBLB6lapy83g0UOLSMLPYRFoqmpq7DINmpcWcf/erMZpa0ilD/K8CoUIVH2C9uAq02vZJHr6twQaY9NHCuyxgJGd73gJfjbh9eRazlGQ7GsbxAVKcr05zB+Ve9ch6PbzYHg1V+BH/Dknjpt7ufR9Rmp+0WR6/Fn7H/Z4Y+j9bJFJGEdm+nFiJb8ej0gCrssr0w9X3+8NyL+24+UdtX0QT1uAoWBV63dOlQ4Q7ZZmI80EJ7P+atSbvqfmABfGCnIkkuuGn/t7LprV4hK/SLyiFF/M4kqooWwLkNMoRomSLZbEuc88MzL23hj5qJnqcRfVSqsGxN36l1SzPSr7dcODIAs51s0f5x7P9AHZ6YtU4UMwIecUePEV4CQwi9CCPngS2SNGuHhhZsYWJRW2C8xKPtNs456EcpTzNFZSQk2EhgDODUY2U/diGxksRQXxsLeLfYzyB9u9tdAWyCXXvQtEA==;8C1xhD2rO8tTV6V9/7zI5w=="
 ---

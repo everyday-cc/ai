@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Ambyint Achieves AWS Energy Competency Status"
-excerpt: "Ambyint, a production and artificial lift optimization solutions provider, today announced that it has achieved Amazon Web Services (AWS) Energy Competency status. This designation recognizes that Ambyint has demonstrated deep expertise and technical proficiency helping customers leverage AWS cloud technology to transform complex systems and provides energy customers the ability to more easily select skilled partners to accelerate their digital transition to a sustainable energy future with confidence."
-publishedDateTime: 2021-11-30T13:38:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html"
+excerpt: "Ambyint artificial lift optimization technologies help accelerate customers' digital transformations Ambyint, a production and artificial lift optimization solutions"
+publishedDateTime: 2021-11-30T13:37:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status"
+webUrl: "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status"
+ampWebUrl: "https://www.benzinga.com/amp/content/24358439"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24358439"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
-    width: 350
-    height: 456
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -65,6 +67,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "QCgfjAVFvAGs6ZVH4gwu9chZtcFHpnu3xtmSdcf3dG8SjH74F+htih7KfawtQor1Cyf/xni8RPGRJfSQBWWQqZYk/QUWEBvNkmD/cLVarTilEnLH0XU9SOmunbSCalJmCx+NoHMBSCaODnBZRWpOo02GzhdMy1+gYb/qs7u8YWow5rV/+a/eicx/J+4oDPhiiYUUEHqQmzGw15+h9m+/4vfL7o270BgHupzG3tvbbKkW0Zd+muzV4eLGDgxhhpEMUpjJIq7VhOEBniU8PknRo26t4yjTKi2/ttgFDv2I6m4dMvJqQ9uLG3Jt8tP7sWR/v9gQ2/SbXZfOKdTZmyvTidf8AYChye7OcGPdZqUAjhai+ArhZw0kFsXgZmAnCDlnzJL7Y6aFqSoMCk1nC8RdIGWe3YgH4UUKHDhEDZG268sA8LFr2KFvj7bqy1/sEH/45phYjOdnHKOS6D+VbM0L3qZAZM2zUlplL91oyHZHJkT2XPX+xLGQtL2CCCdTCnS5hHLAw1vSGh+17WtSNObm4g==;mX66+7RtjKArY/TdI3abvw=="
+secured: "ZcA9PUGyTCv+7U4NQj3rdhUtdPjPTedCCqA3QzwnhsPzAbhm/4LvZmEl1q3t+VV5/Y05M3dlhleZCGWh/JSW0CrtOEVo/VYehffIPHWTCOqZ+VsmtONE4g6AaGwLO2YbwNOi1y7efCCLnZeaY1xpT6Rv7jW4SbEMAnFvCZZ1qfAbI8+negsGingsUnqnvkv0b7H0Y9ZDJpCcAsu0iHiLn51ttQdoB3rr2FJKgPp7ZRWjmwZq47n/6o7aVGfF7uUmjTZl3SMQV89SZ8oGQ3Rw2bPFVy2Zys5g45W+AVBih/uSJK/2aP83yLjJgGw5NRwpE88iLxEnKQcOGf/XBIELrKaVDR5I3pTY6HAHcIXm8mc=;QH45Zk5Dhs01386ohYJGbA=="
 ---
 

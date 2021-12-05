@@ -25,52 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition company fined by ICO following data breach"
-    excerpt: "The Information Commissioner’s Office (ICO) is to impose a potential fine of just over £17 million on Clearview AI, a company that describes itself as the “world’s largest facial network”."
-    publishedDateTime: 2021-11-30T11:55:00Z
-    webUrl: "https://www.research-live.com/article/news/facial-recognition-company-fined-by-ico-following-data-breach/id/5092802"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico-following-data-breach"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico-following-data-breach"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
-  - title: "Facial recognition company fined by ICO"
-    excerpt: "The Information Commissioner’s Office (ICO) is to impose a potential fine of just over £17m on Clearview AI, a company that describes itself as the “world’s largest facial network”."
-    publishedDateTime: 2021-11-30T12:09:00Z
-    webUrl: "https://www.research-live.com/article/news/facial-recognition-company-fined-by-ico/id/5092802"
-    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico"
-    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5092802&name=facial-recognition-company-fined-by-ico"
-    type: article
-    provider:
-      name: research
-      domain: research-live.com
-    quality: 59
-    images:
-      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-        width: 1000
-        height: 581
-        isCached: true
-  - title: "Tech Digest daily roundup: Facial recognition firm facing possible huge fine"
-    excerpt: "A facial recognition firm which claims to have a database of more than 10 billion facial images is facing a potential £17m fine"
-    publishedDateTime: 2021-11-30T11:18:00Z
-    webUrl: "https://www.techdigest.tv/2021/11/tech-digest-daily-roundup-facial-recognition-firm-facing-possible-huge-fine.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 51
-    images:
-      - url: "https://www.techdigest.tv/wp-content/uploads/2021/11/facial-recognition-feature_1200x675_hero_090418-1024x576-1.jpeg.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "UK: Facial recognition company gets USD22.68M privacy fine"
     excerpt: "An Australian company that asserts to have a database of over 10 billion facial pictures could face a USD22.68 million sanction for its processing of"
     publishedDateTime: 2021-11-30T14:40:00Z

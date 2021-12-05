@@ -59,6 +59,22 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "Ex-Google AI ethics expert Timnit Gebru to launch anti-bias research institute"
+    excerpt: "Timnit Gebru is launching an artificial intelligence research institute after Google fired her for claiming the company's AI were unethical."
+    publishedDateTime: 2021-12-05T04:44:00Z
+    webUrl: "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/"
+    ampWebUrl: "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/12/04/timnit-gebru-launches-dair/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 72
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2021/12/GettyImages-1028811892-scaled.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Former Google scientist Timnit Gebru has launched an AI research centre"
     excerpt: "Dr Timnit Gebru has launched DAIR one year after her departure from Google to continue her work in the area of ethical AI."
     publishedDateTime: 2021-12-03T12:05:00Z

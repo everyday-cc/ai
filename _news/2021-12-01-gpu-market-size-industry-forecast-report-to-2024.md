@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-market-size-industry
 webUrl: "https://www.marketwatch.com/press-release/gpu-market-size-industry-forecast-report-to-2024-2021-12-01"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice and Speech Recognition Market Size, Trends, Opportunities, Growth and Forecast 2021 to 2026"
+    excerpt: "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market: Global Industry Trends, Share,"
+    publishedDateTime: 2021-12-02T07:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-size-trends-opportunities-growth-and-forecast-2021-to-2026-2021-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
