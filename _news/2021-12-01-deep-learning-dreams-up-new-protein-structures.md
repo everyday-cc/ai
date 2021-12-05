@@ -1,42 +1,26 @@
 ---
 category: news
 title: "Deep learning dreams up new protein structures"
-excerpt: "In recent years, deep learning has revolutionized the accuracy of this work. \"For this project, we made up completely random protein sequences and introduced mutations into them until our neural ..."
+excerpt: "In recent years, artificial intelligence techniques like neural networks and deep learning have revolutionized the accuracy of this work. “For this project, we made up completely random protein ..."
 publishedDateTime: 2021-12-01T00:00:00Z
-originalUrl: "https://phys.org/news/2021-12-deep-protein.html"
-webUrl: "https://phys.org/news/2021-12-deep-protein.html"
-ampWebUrl: "https://phys.org/news/2021-12-deep-protein.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-deep-protein.amp"
+originalUrl: "https://www.eurekalert.org/news-releases/936545"
+webUrl: "https://www.eurekalert.org/news-releases/936545"
 type: article
-quality: 59
-heat: 69
-published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-dreams-u.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/decc5c7e-1f00-4ccf-9730-2a03cd8f857f/Rendition/low-res/Content/Public"
+    width: 700
+    height: 467
     isCached: true
 
-related:
-  - title: "Deep learning dreams up new protein structures"
-    excerpt: "Using artificial intelligence and deep learning, researchers have developed a neural network that 'hallucinates' the structures of new protein molecules. The scientists made up completely random protein sequences and introduced mutations into them until the neural network predicted they would fold into stable structures."
-    publishedDateTime: 2021-12-01T21:36:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/12/211201111930.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-
-secured: "ZYTBQvBkgrTbRt5b4q3WlxvJ01wmfMxUh1boDHO51tmusKg0+2nz56sb1zH93z3YM5MF1//B1GL7hbF6TFffge8GKBe9H+GrfiJzJ+pJ/+zHGNDIOm7/QdnRM8vacTyOl9384V/LAMn7G6P/6Xhi4j1YLenP4EHpHI8BHlQFSM/TKlY8KHxJ4rlUL1Yvgobd70l3OtvD0lyxyNA1c3PegolP7xKGRKPgx5SBZhJLwpy9oD81rfEyUjVlXxx+hq6eimibIGwioKzPG6z1vsqC1aQh5a6XQT6S17xtkzvui63aJtuFsm8cWGdgl4gG9KBa+cB8MgMBm1wkJhIwZUFfydUPRWbCNgB2b0r6W0mnfvQ=;4mKUrOONu57qqip9t3lWkA=="
+secured: "UjRdP0/RWgK0tibPgu3upIK7e0Y2b75kFI6XSHcJleT6CTeqsOjONBkKaryn+XvKpe1Tby9t6epQwGBcV3z8L0DA4nuRwhrqOglyyj2sLc9I033ev2TQ7mlC8KbXQw6Bd201XSadc51PHFRLxZ5/nICAHSuZH1lr43PHpC0hJHh1gyQdr6FQ7p6YzqAeWq2blOH881w2CfEuMQtb13iT/RsMqyxLq6oXn8TgozCI6jUsdtCh6dO+3tsvsl1dljUf8VmXlNdye6zHb49w5ypEeF5iNG7lVdi747BaiPT08lWf9pvzOUwOZU7fcwZKXzLBstj4XNMxGQX43gxu2ryBM/UVEUnzugodpb1QlcnyJ+U=;OxEWsZLAuvcfWqXlURh5Hw=="
 ---
 

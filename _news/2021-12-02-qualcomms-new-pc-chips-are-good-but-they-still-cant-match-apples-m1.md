@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-appl
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-apple-3068879/"
 type: article
 quality: 89
-heat: 249
+heat: 229
 published: true
 
 provider:
@@ -126,34 +126,6 @@ related:
       - url: "https://www.androidbeat.com/wp-content/uploads/2021/12/Snapdragon-8-Gen-1-hero.png"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "Qualcomm, Google Cloud collaborate to create next-gen mobile AI"
-    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
-    publishedDateTime: 2021-12-01T05:07:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=899494"
-    type: article
-    provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 39
-    images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg"
-        width: 280
-        height: 250
-        isCached: true
-  - title: "Qualcomm, Google Cloud join hands to create Next-Gen Mobile AI"
-    excerpt: "Chip-maker Qualcomm and Google Cloud have announced a collaboration to create next-gen mobile AI models and neural network solutions. The Google Cloud's Vertex AI NAS Neural Architecture Search (NAS),"
-    publishedDateTime: 2021-12-01T05:33:00Z
-    webUrl: "https://ummid.com/news/2021/december/01.12.2021/qualcomm-google-cloud-join-hands-to-create-next-gen-mobile-ai.html"
-    type: article
-    provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 39
-    images:
-      - url: "https://ummid.com/news/2021/december/01.12.2021/qualcomm-google.jpg"
-        width: 790
-        height: 530
         isCached: true
   - title: "Qualcomm unveils its latest flagship Snapdragon chip"
     excerpt: "US mobile chip giant Qualcomm is so happy with its latest top-end SoC that it has even revamped the naming scheme."

@@ -2,6 +2,57 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-10-06-autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a.md",
+      "title": "Autify advances no-code AI-powered software testing automation platform with $10M Series A",
+      "excerpt": "While working as a software engineer in Japan, Singapore and San Francisco for the past 10 years, Ryo Chikazawa, CEO and co-founder of Autify, came to realize that there’s one common problem in the software development industry;",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/",
+      "originalUrl": "https://techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/autify-board-members-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/05/autify-advances-no-code-ai-powered-software-testing-automation-platform-with-10m-series-a/amp/",
+      "publishedDateTime": "2021-10-05T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-facial-recognition-market-insights-by-leading-companies-demand-analysis-future-growth-and-revenue-forecast-to-2022.md",
       "title": "Facial Recognition Market Insights by Leading Companies, Demand Analysis, Future Growth and Revenue Forecast to 2022",
       "excerpt": "Japan, Japan, Wed, 06 Oct 2021 01:01:34 / Comserve Inc. / -- The global facial recognition market is expected to grow from USD 4.05 billion in 2017 to USD 7.76 billion by 2022, at a Compound ...",
@@ -1131,49 +1182,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-05-self-driving-cars-have-brain-wave.md",
-      "title": "Self-driving cars have brain wave",
-      "excerpt": "Self-driving supermarkets and autonomous electric taxis capable of slashing emissions in New York are some of the innovations driving the driverless revolution. The issue of safety is the recurring question though,",
-      "sourceUrl": null,
-      "webUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/",
-      "originalUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.innovatorsmag.com/wp-content/uploads/2021/10/erik-mclean-ZWW2SDPaC54-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/",
-      "cdnAmpWebUrl": "https://www-innovatorsmag-com.cdn.ampproject.org/c/s/www.innovatorsmag.com/self-driving-cars-have-brain-wave/amp/",
-      "publishedDateTime": "2021-10-05T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "innovatorsmag.com",
-        "domain": "innovatorsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

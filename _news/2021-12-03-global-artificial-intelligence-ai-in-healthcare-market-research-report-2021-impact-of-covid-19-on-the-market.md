@@ -49,6 +49,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Cloud Artificial Intelligence Market Analysis, Trends and Forecast, 20212027 | Covid-19 Impact With Competitive Outlook"
+    excerpt: "In January 2017, Google, Inc. launched its Cloud AutoML. It utilizes Google's Cloud Vision application programming interface and Cloud machine learning engine service. AutoML is used by several ..."
+    publishedDateTime: 2021-12-03T17:42:00Z
+    webUrl: "https://menafn.com/1103299571/Cloud-Artificial-Intelligence-Market-Analysis-Trends-and-Forecast-20212027-Covid-19-Impact-With-Competitive-Outlook"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 15
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/03/EP_3c08bimage_story.jpeg"
+        width: 480
+        height: 400
+        isCached: true
 
 secured: "DsMjxhDGpqXsVEyzIs/fYDu0sB7URJ93F2Zn8/afSRpQBvXTCNtQ7iyG/Jd8NIYfXlBiufZAapFA8sGRF7X31IHCrZD64VwjzWXP/2s+tDO5xhJDydFc1DxaWLiErvOovfqH7uydHaJPCSrcFm2TwTiYp7WZyTq2P+WwY+2i2A/txPSQqdKsxvA4u8fotGK0gltznt4ZQ+N9EQBAjURVxD+ZFv/3V0+WZHgtjPUh0NtarKnDRu+W0aSN48IcOrRI4Et1LsdSFrBDhEeVXtXimOv2G2vum4veSQYKSl5r1+0mczSkwQYWk3Jy66RhF9RiusQLjBuqSu/pglvhku+2m9jZ7YqFCxTsCqOAxrxRe7U=;kD5mlildjxNW4KSW2/c+Sw=="
 ---

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AWS Announces Six New Amazon SageMaker Capabilities"
-excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."
-publishedDateTime: 2021-12-02T09:36:00Z
-originalUrl: "https://www.financialbuzz.com/aws-announces-six-new-amazon-sagemaker-capabilities/"
-webUrl: "https://www.financialbuzz.com/aws-announces-six-new-amazon-sagemaker-capabilities/"
+excerpt: "Today, at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine ..."
+publishedDateTime: 2021-12-01T18:52:00Z
+originalUrl: "https://lancasteronline.com/sports/nfl/aws-announces-six-new-amazon-sagemaker-capabilities/article_45e61c97-49a6-5922-9a90-614820bca6a5.html"
+webUrl: "https://lancasteronline.com/sports/nfl/aws-announces-six-new-amazon-sagemaker-capabilities/article_45e61c97-49a6-5922-9a90-614820bca6a5.html"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Lancaster Online
+  domain: lancasteronline.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://lancasteronline-pa.newsmemory.com/?getprima"
+    width: 270
+    height: 512
+    isCached: true
 
 related:
   - title: "AWS brings no-code to Amazon SageMaker machine learning"
@@ -218,6 +224,6 @@ related:
         height: 506
         isCached: true
 
-secured: "jtMWkN1kBIy1EFL16BbHbbkkRNgbdYSmufdJ+onwBVI8C06i8boyPOnoPOmm+c5L+82S7q3voVn4mrp/MAKAhILbYvVY2NqtRVQRior6iBwkavzP5lHPKU6qUqIupLvqfBlVBDlwK4FHUvkDpuw4imaAeGbReWAUsYdNCthI/a9m2lYdWj2SfeSq/q97NWJVIHw/7ROMID/64p4AFznRM3LudMTnXjOJ7pJ6XmLK9dR+485Gtxd/ZyU9lOFxh+hTtepUjMaQnhFPy5/rQQrfZ2Du63nq20KUfEaNtm6If56kThg0A9llsBXX2cnlta+LPmeJIVdqFI/bNdUqAe4omrt0e3MiZdhInnZG+pPZ3Q4=;HXphqyHU2YFDcoOmflORQA=="
+secured: "noUl+XxZKy3kH3trQMwDD743ftGAwUWR8IF2/sn8CzRSwwZPQq72MJYvm6z1EC06KZnPRQyLLVaa3ZrjeJUEczIutzos+IGt0aRyxgBCjRWHt6IcLwLNcJ94GlbreZ1Dx2hUn1nsr9j4PlXsNiQLdBMnJ8yfG4xU8tA8D/ahEgLx3B2loxyjymP96PFMsLDjZX0xgR/l7HLcPN+En/9aHSfT0x7vhK3XvpWJIT9zS+7lhtF7BLiHhE5tdWy/kwuOsaef2gC3PsCK0wtud3LFPRRyND2CwuI48dzD1RrqmfC+5/VbpH6+lKQwuIu2kGXIK1aM4wR4S3r1uQ4hEcRnFQlOk9ntnPnXyQ8G9FdD2dk=;9S37DpklAQ/cdLoZFoyRWw=="
 ---
 

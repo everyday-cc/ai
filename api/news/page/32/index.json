@@ -2,6 +2,49 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-11-09-popid-and-softbanks-japan-computer-vision-partner-to-launch-poppay-in-japan.md",
+      "title": "PopID and SoftBank’s Japan Computer Vision Partner to Launch PopPay In Japan",
+      "excerpt": "PopID, Japan Computer Vision (“JCV”, a subsidiary of SoftBank Corp), and Wendy’s First Kitchen (“WFK”) announced today the launch of PopPay - PopID’s face-recognition-based ordering and payment system - in Tokyo,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-japan-tokyo-pasadena-softbank-corp-8f556b4ab1b547648a8410c4ff97279a",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-japan-tokyo-pasadena-softbank-corp-8f556b4ab1b547648a8410c4ff97279a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T20:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-israel-escalates-surveillance-of-palestinians-with-facial-recognition-program-in-west-bank.md",
       "title": "Israel escalates surveillance of Palestinians with facial recognition program in West Bank",
       "excerpt": "Israel’s military is utilising facial recognition software to monitor Palestinians in the West Bank. The sweeping surveillance effort utilises a smartphone technology called Blue Wolf and has been in operation for the past two years,",
@@ -1110,58 +1153,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-landing-ai-brings-in-57m-for-its-machine-learning-operations-tools.md",
-      "title": "Landing AI brings in $57M for its machine learning operations tools",
-      "excerpt": "CEO Andrew Ng says industries should adopt a data-centric approach to building AI, which provides a more efficient way for manufacturers to teach an AI model what to do.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/",
-      "originalUrl": "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/image001.jpeg?w=680",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/landing-ai-machine-learning-operations-tools/amp/",
-      "publishedDateTime": "2021-11-08T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

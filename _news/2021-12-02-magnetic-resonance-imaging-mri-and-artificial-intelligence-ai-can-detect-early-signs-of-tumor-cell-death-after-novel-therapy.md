@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Artificial Intelligence (AI) to catalyze the Repositioning and Offloading Devices Market"
+    excerpt: "With Ulcers and Spinal Cord Deformities at the peak, the Repositioning and Offloading Devices Market to sway the board on a Stupendous note With incidences of pressure ulcers increasing at an alarming rate amongst the elderly population staying with disabilities,"
+    publishedDateTime: 2021-12-05T21:48:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 63
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/Repositioning-and-Offloading-Devices.png"
+        width: 700
+        height: 400
+        isCached: true
   - title: "MRI, AI may detect early signs of tumour cell death after novel therapy"
     excerpt: "According to new research led by Massachusetts General Hospital, it has been found that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumour cell death in response to novel virus-based cancer therapy."
     publishedDateTime: 2021-12-03T22:49:00Z

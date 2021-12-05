@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-09-15-peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry.md",
+      "title": "Peak Fintech Acquires Heartbeat Insurance Platform and Brings Analytics and AI Expertise to Insurance Industry",
+      "excerpt": "Peak Fintech Group Inc. (CSE:PKK) (NASDAQ:TNT) (\"Peak\" or the \"Company\"), an innovative Fintech service provider",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n22939082/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insura",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n22939082/peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insura",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1625279/Peak_Fintech_Group_Inc__Peak_Fintech_Acquires_Heartbeat_Insuranc.jpg",
+          "width": 323,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/22939082",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22939082",
+      "publishedDateTime": "2021-09-14T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-peak-fintech-acquires-heartbeat-insurance-platform-and-brings-analytics-and-ai-expertise-to-insurance-industry.md",
       "title": "Peak Fintech Acquires Heartbeat Insurance Platform and Brings Analytics and AI Expertise to Insurance Industry",
       "excerpt": "All of Huayan's assets, including the Heartbeat platform, its employees and its operations will be transferred to Peak's Xinxiang Technologies Ltd. subsidiary (\"Xinxiang\"), which was created in the second quarter of 2021 specifically to help bring insurance related products and services to members of Peak's Business Hub.",

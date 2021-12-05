@@ -30,16 +30,19 @@ images:
 
 related:
   - title: "Could Google's DeepMind AI Transform Healthcare?"
-    excerpt: "Google's DeepMind artificial intelligence (AI) software is being used to predict the structure of proteins. In this Motley Fool Live video recorded on Nov. 16, 2021, Fool contributors Keith Speights and Brian Orelli discuss whether or not DeepMind could even transform healthcare."
+    excerpt: "Google DeepMind AI can predict protein interactions, including folding. The AI could help increase basic scientific knowledge, potentially with drug development. Although DeepMind won't transform healthcare,"
     publishedDateTime: 2021-12-03T11:52:00Z
-    webUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?time=1638532201"
-    ampWebUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?amp"
+    webUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: The Motley Fool
+      domain: fool.com
     quality: 101
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/655355/gettyimages-1273886962.jpg"
+        width: 4000
+        height: 2250
+        isCached: true
   - title: "Security, Privacy Risks of Artificial Intelligence in Healthcare"
     excerpt: "While regulatory agencies work to catch up to technological advances, the security and privacy risks of artificial intelligence in healthcare remain."
     publishedDateTime: 2021-12-01T17:00:00Z

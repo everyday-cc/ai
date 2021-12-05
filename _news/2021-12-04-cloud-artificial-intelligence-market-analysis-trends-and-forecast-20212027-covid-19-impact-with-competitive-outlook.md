@@ -1,0 +1,70 @@
+---
+category: news
+title: "Cloud Artificial Intelligence Market Analysis, Trends and Forecast, 20212027 | Covid-19 Impact With Competitive Outlook"
+excerpt: "In January 2017, Google, Inc. launched its Cloud AutoML. It utilizes Google's Cloud Vision application programming interface and Cloud machine learning engine service. AutoML is used by several ..."
+publishedDateTime: 2021-12-03T17:42:00Z
+originalUrl: "https://menafn.com/1103299571/Cloud-Artificial-Intelligence-Market-Analysis-Trends-and-Forecast-20212027-Covid-19-Impact-With-Competitive-Outlook"
+webUrl: "https://menafn.com/1103299571/Cloud-Artificial-Intelligence-Market-Analysis-Trends-and-Forecast-20212027-Covid-19-Impact-With-Competitive-Outlook"
+type: article
+quality: 15
+heat: -1
+published: false
+
+provider:
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2021-12/03/EP_3c08bimage_story.jpeg"
+    width: 480
+    height: 400
+    isCached: true
+
+related:
+  - title: "Interviews Of Eminent Female Leaders To Research The Impact Of COVID-19 On Women And How Policies And AI Can Help"
+    excerpt: "The pandemic has dealt a huge blow to women. Progress for women is stalled due to lack of home resources. There is also a deep problem brewing on policy and compensation for women. Now, women, unlike men,"
+    publishedDateTime: 2021-12-04T20:57:00Z
+    webUrl: "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/"
+    ampWebUrl: "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61abe2fde345dee117b90539%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2000%26cropY1%3D163%26cropY2%3D1289"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "How artificial intelligence can fight Long COVID"
+    excerpt: "Clinicians pivoted their AI efforts to engage in the battle against the COVID-19 pandemic. How can it help those with persistent symptoms - \"long COVID\"?"
+    publishedDateTime: 2021-12-01T12:35:00Z
+    webUrl: "https://dataconomy.com/2021/12/how-artificial-intelligence-long-covid/"
+    type: article
+    provider:
+      name: dataconomy.com
+      domain: dataconomy.com
+    quality: 39
+    images:
+      - url: "https://dataconomy.com/wp-content/uploads/2021/12/how-artificial-intelligence-fight-long-covid.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
+    publishedDateTime: 2021-12-03T12:21:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5127884-global-artificial-intelligence-ai-in-healthcare-market-research-report-2021-impact-of-covid-19-on-the-market.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 28
+
+secured: "X2MafzH3TLYORou+8E6tOSBoqoeYe7OngmWlRo62jHAqPhB2jaVQWoQGuUtNx7/M9fetLQXbrXgDqDjttxYjDgelZuFCa+dlWyAwEDSvfLsxRt0W2QeOL5H/oONVVFHqeJ+DoLCZU9l9uwAuCTzLc8wFbz/Z8e9NPP/17fc/wSrDXf9qpKpLnCxGxtzQmaTNAoaolzpBNaAWwXe39XeRNsMjfVRSP2XqK1elSwJMCyx++5az46FAnAHGKoNXU7UOJZbZmMT3sED6hmbaT+m075JooKJtQf3YCRnXTvnkGZu+C/68iqwWQVgoEa+vnOUF/U4SuNpq/mPzEqj2xPNqygL5gUoRkbJo9E4mgr3E8wE=;aywI5p2QSy6kA8bnqfgZRA=="
+---
+

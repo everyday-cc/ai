@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-to-dete
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) to catalyze the Repositioning and Offloading Devices Market"
+    excerpt: "With Ulcers and Spinal Cord Deformities at the peak, the Repositioning and Offloading Devices Market to sway the board on a Stupendous note With incidences of pressure ulcers increasing at an alarming rate amongst the elderly population staying with disabilities,"
+    publishedDateTime: 2021-12-05T21:48:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 63
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/Repositioning-and-Offloading-Devices.png"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Magnetic resonance imaging (MRI) and artificial intelligence (AI) can detect early signs of tumor cell death after novel therapy"
     excerpt: "A recent study demonstrates that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumor cell death in response to a novel virus-based cancer therapy."
     publishedDateTime: 2021-12-02T01:22:00Z

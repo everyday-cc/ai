@@ -167,6 +167,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "AWS Announces Six New Amazon SageMaker Capabilities"
+    excerpt: "Today, at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine ..."
+    publishedDateTime: 2021-12-01T18:52:00Z
+    webUrl: "https://lancasteronline.com/sports/nfl/aws-announces-six-new-amazon-sagemaker-capabilities/article_45e61c97-49a6-5922-9a90-614820bca6a5.html"
+    type: article
+    provider:
+      name: Lancaster Online
+      domain: lancasteronline.com
+    quality: 54
+    images:
+      - url: "https://lancasteronline-pa.newsmemory.com/?getprima"
+        width: 270
+        height: 512
+        isCached: true
   - title: "Qlik Beefs Up Machine Learning Capabilities in Qlik Cloud with Amazon SageMaker"
     excerpt: "Qlik is deepening its partnership with Amazon Web Services (AWS) with the release of an advanced analytics connector for Amazon SageMaker and integration with Amazon SageMaker Autopilot. These integrations increase the breadth of advanced analytics capabilities already available in Qlik Cloud,"
     publishedDateTime: 2021-12-01T15:01:00Z
@@ -181,15 +195,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS Announces Six New Amazon SageMaker Capabilities"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."
-    publishedDateTime: 2021-12-02T09:36:00Z
-    webUrl: "https://www.financialbuzz.com/aws-announces-six-new-amazon-sagemaker-capabilities/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 34
   - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
     excerpt: "Lightspin, the multi-layer cloud security platform that prioritizes and remediates critical vulnerabilities across hybrid cloud and"
     publishedDateTime: 2021-12-02T13:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.goodreturns.in/amphtml/classroom/how-to-generate-submit-
 cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/classroom/how-to-generate-submit-life-certificate-through-face-recognition-1232448.html"
 type: article
 quality: 59
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://www.medianama.com/wp-content/uploads/2020/07/face-detection-4762379_1920.jpg-e1630391608288.jpg"
         width: 1280
         height: 570
-        isCached: true
-  - title: "Good News Pensioners! You Can Now Submit Life Certificate Via Mobile App Using Face Recognition Tech"
-    excerpt: "All pensioners are mandated to submit life certificates annually to continue receiving pension. The Ministry of Personnel, Public Grievances and Pensions has implemented a facility of submitting certificates digitally."
-    publishedDateTime: 2021-12-01T05:06:00Z
-    webUrl: "https://www.india.com/business/submit-life-certificate-via-mobile-app-using-face-recognition-technology-for-jeevan-pramaan-good-news-for-pensioners-5118513/"
-    ampWebUrl: "https://www.india.com/business/submit-life-certificate-via-mobile-app-using-face-recognition-technology-for-jeevan-pramaan-good-news-for-pensioners-5118513/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/business/submit-life-certificate-via-mobile-app-using-face-recognition-technology-for-jeevan-pramaan-good-news-for-pensioners-5118513/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 46
-    images:
-      - url: "https://s3.india.com/wp-content/uploads/2021/09/pension-scheme.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "L0YbbMUWRi1h7JblFkP+HvcX6DeaxwV96oQCZlnm9IRny4aiAFgVKHFwaJTMwOE8w6HvStajd83nWrocSxUGZ/uzfYdorVRn6hCxYz94bP9ng0+ERufgFUPGdxWs8yHJsveCRB7qOHvcWsloJRnV6YBvBQ4TDooeVzkpkPLDqVuQLIxLCoQaJgqkSW/KHj0CviuXQclfKs5INRDAmgYrozuGLtI3/q7WIFY2/kNmIyS6QVjRz+EkNdtwjIdiDEOZTMSreYbvVM1AsXtBrFlogUOM+g91yHQn0TCxlYGm/hNSyYyLY59jSikcB0jCzwr2QO1Yb33oHJdD5r6dlWzGTwZ0hHu3JdZiES1kJ19YdsgKsF0VwA0MTU4A3EAA7a7mDtQse61rJrk9y1qSkrWFnPdjKd9C69q7wg/iMPD251EE4S+BzQ8uSMBJ6jlDqrygMQzqdyMyv5w2P7+QYwIM3MmyW3etO5xSvjSTucOfk29fWNS9bKVaLh4UdbLXnaVc3b0Sl6zIDhvkSxHBQYhVmQ==;Q/3mbTQxfz3cdjfz26A57g=="

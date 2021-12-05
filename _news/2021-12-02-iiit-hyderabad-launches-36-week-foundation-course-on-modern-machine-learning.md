@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/iiit-hyderabad-launches-36-week-foun
 webUrl: "https://analyticsindiamag.com/iiit-hyderabad-launches-36-week-foundation-course-on-modern-machine-learning/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIIT-Hyderabad’s incubation centre bags ₹5 cr grant from Startup India"
-    excerpt: "The Centre for Innovation and Entrepreneurship (CIE) of IIIT Hyderabad has won a ₹5-crore grant under the Startup India Seed Fund Scheme run by the Department for Promotion of Industry and Internal Trade (DPIIT),"
-    publishedDateTime: 2021-12-01T06:49:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/iiit-hyderabads-incubation-centre-bags-5-cr-grant-from-startup-india/article37783584.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/iiit-hyderabads-incubation-centre-bags-5-cr-grant-from-startup-india/article37783584.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/iiit-hyderabads-incubation-centre-bags-5-cr-grant-from-startup-india/article37783584.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://www.thehindubusinessline.com/companies/uogugb/article37783583.ece/ALTERNATES/LANDSCAPE_615/BL02iiith"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "Tax Exemptions, Benefits And Implications That Every Startup In India Should Be Aware Of"
-    excerpt: "Startup India is a flagship initiative of the government of India, intended to build a strong eco-system for nurturing innovation and startups that will drive sustainable economic growth and generate"
-    publishedDateTime: 2021-12-03T05:44:00Z
-    webUrl: "https://www.entrepreneur.com/article/400561"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 43
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1638510328-MyPost78.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "IIIT-Hyderabad selected for startup funding grant"
     excerpt: "Hyderabad: The Centre for Innovation & Entrepreneurship (CIE) of IIIT Hyderabad has been selected for the Startup India Seed Fund Scheme by the"
     publishedDateTime: 2021-12-01T19:16:00Z
@@ -83,24 +53,6 @@ related:
         width: 2398
         height: 1257
         isCached: true
-  - title: "CIE (IIITH Incubator) selected for INR 5 Crore startup funding grant from Startup India Seed Fund Scheme"
-    excerpt: "CIE (IIITH Foundation), the Center for Innovation & Entrepreneurship of IIIT Hyderabad, has been selected for the Startup India Seed Fund Scheme by the Department for Promotion of Industry and Internal Trade (DPIIT),"
-    publishedDateTime: 2021-12-01T07:09:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cie-iiith-incubator-selected-inr-5-crore-startup-/2021/12/01/9502145.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "CIE (IIITH Incubator) selected for INR 5 Crore startup funding grant from Startup India Seed Fund Scheme"
-    excerpt: "CIE (IIITH Foundation), the Center for Innovation & Entrepreneurship of IIIT Hyderabad, has been selected for the Startup India Seed Fund Scheme by the Department for Promotion of Industry and Internal Trade (DPIIT),"
-    publishedDateTime: 2021-12-01T20:19:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20211201/3865234.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "jF7bHAavdFOk2gWeFZULTN8UpIx6rgUqqL3yCmpG3faMC//AA0CkNT41bNogRgQvIwkbOfL1h/1MEt8HCQSUGGREbFcSKMEC1EDcgGaWe1/DDBourmgDgN6xceWy5tvfgva7xvwS3RGP/oUUQcNg09LW8ed4hriIzgsomYG5gVbjp4msqBhCHKFE8+NQcOatIEjkiRRcMe6H+I1t0IYwCXaJpb7T4/63/x2ht/T7rvh6sZh7bK0A1j4f/MTwIvfqYjb+KbpVOxtWZd87RJl8MRTf5ndKmI4DptmVYQHhnkRhnC0CIm8Ic+9ycdzLaahGtVI9Zi0pupbuV6lRCwkXzPlTpeZ9Uh2/0sFQnk8A18Y=;5yNmh75hNiqWP2XVwpb73A=="
 ---

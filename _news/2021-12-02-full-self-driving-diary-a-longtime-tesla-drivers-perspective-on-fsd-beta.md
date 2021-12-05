@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressio
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/11/SJM-Z-WALTERS-OPED-1102.jpg?w=1024&#038;h=783"
         width: 1024
         height: 783
-        isCached: true
-  - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
-    excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving” (FSD) beta,"
-    publishedDateTime: 2021-12-02T23:00:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 59
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/12/SJM-Z-WALTERS-OPED-1102-1.jpg?w=1024&#038;h=783"
-        width: 1024
-        height: 782
         isCached: true
   - title: "Tesla’s Full Self-driving Beta 10.6 emphasis on precision of movements"
     excerpt: "Tesla's Full Self-Driving (FSD) technology update will be the 10.6 version. Tesla is focusing on three things with this update."

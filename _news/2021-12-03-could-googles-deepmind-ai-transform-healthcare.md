@@ -1,25 +1,33 @@
 ---
 category: news
 title: "Could Google's DeepMind AI Transform Healthcare?"
-excerpt: "Google's DeepMind artificial intelligence (AI) software is being used to predict the structure of proteins. In this Motley Fool Live video recorded on Nov. 16, 2021, Fool contributors Keith Speights and Brian Orelli discuss whether or not DeepMind could even transform healthcare."
+excerpt: "Google DeepMind AI can predict protein interactions, including folding. The AI could help increase basic scientific knowledge, potentially with drug development. Although DeepMind won't transform healthcare,"
 publishedDateTime: 2021-12-03T11:52:00Z
-originalUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?time=1638532201"
-webUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?time=1638532201"
-ampWebUrl: "https://www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/could-googles-deepmind-ai-transform-healthcare?amp"
+originalUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/"
+webUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/"
 type: article
 quality: 101
 heat: 151
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
-  - AI
   - Google AI
+  - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://g.foolcdn.com/editorial/images/655355/gettyimages-1273886962.jpg"
+    width: 4000
+    height: 2250
+    isCached: true
 
 related:
   - title: "The Future of Healthcare AI Depends on Data"
@@ -85,6 +93,6 @@ related:
       domain: beckersspine.com
     quality: 19
 
-secured: "AeTJXMR20DQqwvE5mXcgTwMf59W5MDeCX882IF5ke9ikmjVZHm8bALUGnZHFjpWqnd/CX5eT6US7ysRifC20+KeNzHghhjf0c7J9amfoGoCr7ggyVU1zObVP6h2mcZYIKNQXa9bo6rMmr0IElWaKCYS5APYgNdwWmN70LMnlEgITeGrFGk26jEf84xhbi/SqC6OyscrzJHe+3RuDeXxG4kMeJ6zTMoubvGa7CDknxXQrPjXxu9fW6i3CL3FkvA6roaUFY9tAOW8zbKts+s2iYeJFDaImFJM9+GTpqx2TbKmSG2ry869Or9BSwH77BqFWMyM5V4VqUSfJHHh6CijKeOMYwS1EM9OqGUfCUdA9hQOIFDOQ+tEegph7NvxuvAC9fza4XiAtN5olPQ3aHrR74Y9WpOjyT+YeU5Wh6pJkltIZ131gz+1dxdRWXKMdVKnGH8Ss4YTQYnzwA9CFIPx5SMnYUJrsDSzKXx8gCr1BYKCSCAXXcU4TfmZuC6ZcIx1cCOzKy67Q0MX5OrmuYkmUjw==;/tA0M6kFME/YSZUWqxPyOQ=="
+secured: "YrmLp+v7xUoZKoCM8ryfgFlYqV/ryzdO2pC54Xl+eSwqnD+dYR4ly9b6sEvNmwavHxng+DOzARznlqHf8cn9YQ/IHwzcrMR7O5DrEN3tgvKXWZEzt/a/k31jkF2K++q2HhMstFYUFbfki1JauDhOQ6hxBzNw31PIJnWqZcHkyyJtPIZ9CUME7VvM8wIZh4k+7J7b6dTMwZz98blGBpYFY51YEWOB0wm1No+ONK5c59qgylYTi8AANksHQP1wBnh3vJq/OFe+gcAOWBTNwKJg0MtD49GCzXTLL7AqNvaD5tKRUDFmFNjPoM5t60C+4GB2nEfSklICGRrQ4KinZPPwQaOO7CbJQlCToLHasir/Kzs=;/fCIhoury/tsUwDfeDVY0g=="
 ---
 

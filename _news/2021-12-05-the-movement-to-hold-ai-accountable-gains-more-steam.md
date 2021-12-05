@@ -1,12 +1,12 @@
 ---
 category: news
 title: "The movement to hold AI accountable gains more steam"
-excerpt: "Standards for audits and auditors are important because growing calls to regulate AI have led to the creation of a number of auditing startups, some by critics of AI, and others that might be more favorable to the companies they are auditing."
+excerpt: "Now, efforts are underway to better understand how AI works and hold users accountable. New York’s City Council last month adopted a law requiring audits of algorithms used by employers in hiring or promotion."
 publishedDateTime: 2021-12-05T13:10:00Z
-originalUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/2/"
-webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/2/"
+originalUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/"
+webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
   - AI
 
 images:
@@ -55,6 +54,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "IfYx7sF2NCl2DOhIqHzzh69+VIOilYr8s4roTLcVMqQEiEBVwb/KSWF8zDNOwuOmeV8VKv1ky5g+YBQ8KYs08/4EXjT1bAh8vm61ESilujxNoLzjQePBXesPd2OVIP56QbTtjfiTAdceaZEH79APR9flJ3e6/Om7EcoCOvejIJTozTdiKUgfAwTd4eLbuPB1m4p53jW2GFBZUr3sIc8x156wjd68q61/8rVgKAuSeaJmqZRjcTzWKvccAZCAELInwCsHy3LQWkx+l2BWwgB4FAePnM4kuew0YVQRlzDdeNinvTxc75hfQbrQZBNQcY5pep/kUP5Ipj8rXP6tXKZJgj5OPuL8FqumeJ3B906a6I8=;icjuweIptubHwZDTzkishw=="
+secured: "V8un3u9dQsKtZaCZCen26wd0Lhszr1mlP8EAvYpKibdVe8qqfegQTKzm2w8RP8JXtA5O5Ubzjw5nfLXS2e0GVjSawtrZTmJ1M3IIV90hG7pENbgnRicq7J3sS+W+xurZZddsAIrIFTRVT0MTt59+k6s3GVqyjouAxl9H9jbCUraBEaHPZangjXj907145e8rpNVAqmybHpVaIRjyaRYUmVJTaLYbSq/JVjY1g2UP9Tuq/UHPsl76itNAbqWENnbNJpH+nxvunLmek0U6n23Z9dakjkxusk01kDaPgmxibIzCI8xASy+95NbUFBibhsXUC4t2O8udDUXNh4nkpDAbibhnTnzEcKQx92oKDextZLc=;420LDr2yNmGahDmnsDiqKQ=="
 ---
 
