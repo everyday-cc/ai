@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "The most prolific investors in Southeast Asia’s AI startups"
-    excerpt: "We look at the investors that are backing Southeast Asia’s AI firms and explore what fresh funding will do for this fintech startup."
-    publishedDateTime: 2021-11-30T09:38:00Z
-    webUrl: "https://www.techinasia.com/prolific-investors-southeast-asias-ai-startups"
+  - title: "Wispr AI Raises $4.6M in Seed Funding"
+    excerpt: "Wispr AI, a San Francisco, CA-based neurotechnology company aimed at developing the next generation of human-computer interfaces, closed $4.6m in seed funding"
+    publishedDateTime: 2021-12-01T16:09:00Z
+    webUrl: "https://www.finsmes.com/2021/12/wispr-ai-raises-4-6m-in-seed-funding.html"
     type: article
     provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2021/12/image-3.jpeg"
+        width: 500
+        height: 327
+        isCached: true
 
 secured: "5TZIljp8xpSM0XXX3u/um+yuua62MLQlrJQMx59wecAo2rd6FTAyIaacx9fkB04z8cdjRiWNsfjsZFG8Ejy2EGpDZxk8rwihTSt3NxEhM2lOtw3WhPrvgvrXhr3oycNCJKCzPiJdN68GM0KOvXXo2J+zP48aTo5aaCFGo5k7SoxHKYQTjAB0CxZC2Ksbvanw9nKHLB+fEo2Aworyf2y8nGxxwcLNjQcNksKpWh7A09kYegipv6eRK2gVv1yw0UAgfqNNDIf+U5Q379TtF2jCzbm9tueQOfsyX6LI0mqhM4tleafBZHixF5ga+nvA5nGPka9Rbmfp4AHUdE714FilASxMZNOfPNMQHL3oJ3T2I2E=;4z3e7kz86BiXC2okrsA4Jw=="
 ---

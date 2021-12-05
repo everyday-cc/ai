@@ -58,20 +58,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Actions Taken For Ethical AI In 2021"
-    excerpt: "Countries are investing heavily in AI research and development. However, there are currently no norms or standards in place for ethical AI research, design, or use."
-    publishedDateTime: 2021-11-30T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Actions-Taken-For-Ethical-AI-In-2021.jpg"
-        width: 1678
-        height: 943
-        isCached: true
   - title: "Using AI for accurately predicting synergistic cancer drug combinations"
     excerpt: "A research team led by a scholar from City University of Hong Kong (CityU) has recently developed a novel artificial intelligence (AI) framework that can make synergistic anti-cancer drug combination predictions on both the therapeutic and toxic effects."
     publishedDateTime: 2021-12-01T15:31:00Z

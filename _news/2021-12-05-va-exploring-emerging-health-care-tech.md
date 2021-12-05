@@ -3,8 +3,8 @@ category: news
 title: "VA exploring emerging health care tech"
 excerpt: "The Department of Veterans Affairs is conducting market research on innovative health care solutions, from advanced manufacturing and digital twins to artificial intelligence, immersive-reality simulations and blockchain solutions."
 publishedDateTime: 2021-12-04T22:31:00Z
-originalUrl: "https://gcn.com/articles/2021/12/04/va-emerging-tech.aspx"
-webUrl: "https://gcn.com/articles/2021/12/04/va-emerging-tech.aspx"
+originalUrl: "https://gcn.com/articles/2021/12/04/va-emerging-tech.aspx?m=1"
+webUrl: "https://gcn.com/articles/2021/12/04/va-emerging-tech.aspx?m=1"
 type: article
 quality: 24
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 496
         isCached: true
 
-secured: "YPkwd290mjd1qWW6hmZjGohPnzdGLSePuKKaGqd2r/H955L54IrhhOFYPUbglk6W2Np5GOZTbMSZb0sLCSNdiX85TjMYAo4+n0c0tGKeQZmrC6WPJ9WddZ8vqhsgxKTFzwIepUcM3hbLdgmAggY7MctgZoMatL9GCl+nkxn+JVT78eXOop5Jdsx3SK8eMb18FyWJjJ4Ak5UihBmCVjldBYgH47cHyJ4H7n7tU08rp9qWKLvGsc8rdVHJi9lleMllSDl0cZ6ObEx1DjxAdnyebY6p50XM4yHyqMpdkhsFsD/GSkTDGo0eBLPXN24b72QPyOQeFg3FeBBqS+nVVKwi0wRaqFLetIHHUeq1DkqOCk6Dv4QtLOjLXZIGpKe7EU2S9FZXrwp1AirJnUsOPq/AtiaJr8VO2i57yKbDHxEZLTygTEJMTnB+GX7GN9U1gj+r1jAewDxdf+JfjW/hrlNlhyl2UUvmOHDXoC6uYH6dFx/1Im7Mzec8XyxvJIreibW9pOCLWgmuq27H1n1astbHrw==;9xx2wgObQC/CZJO2flcWfA=="
+secured: "qvtgxOINUTc5wHiLM4mOYFUrJSRT67QrX9FdDyYUGNN3li65W8Fn3uHD40nx4gFBYzg96IPB08RkKZK4upeOvqg7qO0TNZt+xKDylmOO2BRoyoW7tBu64eMIYt/iyxULY9J0SvooYOda1pIdJEbbni2dgYr+ukYvTS8s2B1ZrDLu0R+VnIrBrplhcgs/vBkf6Of3tLaF5mh3pUwyqbZbXcBeLQ8cWesRCFuKalKdAyjKy3rMllLKdiqjndmMe7N52sOHMjrGzCYdvPxQe3AfNCd/KP17874IFs7aLCs29wL55P+A1d28uJJxxqtLGzawoCYzyVqYSxCwiJ7hjJKfhf6amjumXLi6qa9ysj6S7MM=;jvojuDUKlTOYcMY9ZU1nsg=="
 ---
 

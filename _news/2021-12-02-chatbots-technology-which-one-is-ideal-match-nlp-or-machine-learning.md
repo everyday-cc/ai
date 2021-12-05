@@ -7,7 +7,7 @@ originalUrl: "https://www.cioapplications.com/news/chatbots-technology-which-one
 webUrl: "https://www.cioapplications.com/news/chatbots-technology-which-one-is-ideal-match-nlp-or-machine-learning--nid-8801.html"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,38 +24,6 @@ images:
     width: 450
     height: 308
     isCached: true
-
-related:
-  - title: "The good, the bad and the ugly of deep learning technology"
-    excerpt: "The use of deep learning for social media and online content generation has gained equal parts attraction and concern in recent years. With a reputation as a cog in the fake news machine, deep learning has been a driving force behind political propaganda,"
-    publishedDateTime: 2021-11-30T09:30:00Z
-    webUrl: "https://www.itproportal.com/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
-  - title: "How to Use Machine Learning and Other Technology to Make the Most of Your Data"
-    excerpt: "If your company isn't treating data like an asset, you could be missing out on a major growth opportunity. That's according to Swami Sivasubramanian, vice president of Amazon Machine Learning. Sivasubramanian was speaking during a keynote conversation on data and machine learning Wednesday at AWS re:Invent,"
-    publishedDateTime: 2021-12-02T10:31:00Z
-    webUrl: "https://www.inc.com/kevin-j-ryan/aws-reinvent-machine-learning-swami-sivasubramanian-data.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 35
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1180500748_488983_kg8hzv.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "ZeFuhToDh1XfaN4OJVL2EcLHN5hRT3JG0T2P1yG7squRvLgQS1Ze0H/5a21QPfiuMZsjN1aS6sccKmfedI75DfYC+9a5w0wDI+wAlBUL5T6bf4WNymr27uvFFOf357UH6Ryt+SdzfozkKIqNPjke1fss/SfT8+Rs6brFsGYLlWG5eTb5doKlx8d3XUPNv1MZJipmv4umlOUbdKkSE4im6bdxW8zLqBQAqBPez/qLSMIYEDSUr9dNL9CDZuW+Y7B5CzpEk1Zmr3Y5OgGRcrMaPocwwGYu7pWGuQ4XFfXFMmZGfALFYDFP5aXqQSpNOLwkH77+akzzZMhv7wZqnuZu2ubunIbRYVsGkBK+bZW1cS9IxHtzXsGvGnknaBxBmT+s8drjAl/mVNKTqRN0L4iXhjcjIb2hbLWYteSt8vcLB7a9WWpoeEdk3uoySDqNVk3HoHhWrDEpBdOVyeRuW9cq9UGW3Rm7nNkCRnTTRpVqXegk36JN+1OIp8PS+dwzuFze2nQYK66AyYfRA9b6j4o3ZQ==;7DyPlehMcpQSlF6Hw4ravQ=="
 ---

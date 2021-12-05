@@ -1,32 +1,22 @@
 ---
 category: news
 title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
-excerpt: "Today, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company, (NASDAQ: AMZN), announced that American International"
-publishedDateTime: 2021-11-30T13:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aig-selects-aws-as-its-preferred-public-cloud-provider-2021-11-30"
-webUrl: "https://www.marketwatch.com/press-release/aig-selects-aws-as-its-preferred-public-cloud-provider-2021-11-30"
+excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
+publishedDateTime: 2021-11-30T14:17:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2021/11/30/9501584.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2021/11/30/9501584.htm"
 type: article
-quality: 84
-heat: 164
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "AWS Named United Airlines' Preferred Cloud Provider"
@@ -42,34 +32,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "AWS Announces AWS IoT FleetWise"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS IoT FleetWise, a new service that makes it easier and more cost-effective for automakers to collect,"
-    publishedDateTime: 2021-11-30T17:37:00Z
-    webUrl: "https://www.register-herald.com/region/aws-announces-aws-iot-fleetwise/article_92d3edfc-e376-5c27-bb15-49f5a44583cd.html"
-    type: article
-    provider:
-      name: The Register-Herald
-      domain: register-herald.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
-        width: 320
-        height: 300
-        isCached: true
-  - title: "AWS Announces AWS IoT TwinMaker"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS IoT TwinMaker, a new service that makes it faster and easier for developers to create digital twins of real-world systems like buildings,"
-    publishedDateTime: 2021-11-30T17:38:00Z
-    webUrl: "https://www.eagletribune.com/region/aws-announces-aws-iot-twinmaker/article_daf87a52-cb4e-57ab-a868-dff09aacecd1.html"
-    type: article
-    provider:
-      name: Eagle-Tribune
-      domain: eagletribune.com
-    quality: 39
-    images:
-      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-        width: 300
-        height: 250
         isCached: true
   - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
     excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
@@ -89,39 +51,7 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 34
-  - title: "Meta/Facebook turns to AWS as \"long-term strategic cloud provider\" for acquisitions, third-party collaborations, and AI"
-    excerpt: "Meta said that it will run third-party collaborations in AWS and use the cloud to support acquisitions of companies that are already powered by AWS. It will also use AWS’s compu"
-    publishedDateTime: 2021-12-03T11:41:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-turns-to-aws-as-long-term-strategic-cloud-provider-for-acquisitions-third-party-collaborations-and-ai/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 34
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Mark_Zuckerberg_Gets_Meta.2e16d0ba.fill-1200x630.png"
-        width: 730
-        height: 383
-        isCached: true
-  - title: "Meta picks AWS as long-term strategic cloud provider"
-    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-02T07:52:00Z
-    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
-  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
-    publishedDateTime: 2021-12-01T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
-secured: "iWx4SuvAKx2bj9avhIFXsA/pmdER0vFMfpIkw9puULUSkg5uHNTGtYAQRt6Fb9pMtEqTwRvibhMkWqCx+XUxVz7RbtM0oVF0LVRtpMu1IwzbJtnPpT1qaGG7kshXJJ0RRvjygicJdf/sABSAA0Npo3/rpTFkfnYVJDNWvnFP2z/4hv1Q4yL58Nb9xw/0SAwLEaJLkhxCcCE3GIQxRbBFTkwsnQUL1az+JZrAdnhGLlSctL4PqRvKfJ+y0Lz3Sp42BPegUXduq/djEZzcWcloLUpqUNBKVg+S/zHOczZarcUCpsTVmv+42aSVcC/B7WStYTAXpgqDzliCOdRkB6i68hEH2YTEaM1xJBJ5ofcC+fA=;qfG9ELSt8SBhcPBmPuPYCA=="
+secured: "mHfnTIRiTM+O/fKYdMRs8Ew0EfVzNOtcyz7OXHp92Y4tjcpHvO8dt9DpPORu7xySY3EV+Mtu+bjFnERWzB4jFOwxc6nTwbiMP2fQzkUZIP7PEYchYEnrJAVOhrbA4FeB3YppqU/UwaugNXJpoReD6cfDUr6mlG+L3ftkJC07K7BFJQlnVD2jdb2WZAdrtNKQAgYwIkrCTpAA18uYpJC6wRy4k3d6x/23ENqlgFYvwvY0mEWfzD8J+SQqMlg5y8zCxJelYnAFcicCe1imrQvJwiYIpTV7qipQIINRomc2rjAmfX0xU3TYQmWqjSgcypquzvlCWsLurtx47qheFozDZ1TSICafMDDG8aQAgYmYtxE=;RF0yBOlhVxqKTbiwDwAyRw=="
 ---
 

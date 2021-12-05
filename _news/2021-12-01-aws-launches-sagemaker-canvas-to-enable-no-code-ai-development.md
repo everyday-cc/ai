@@ -197,20 +197,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "AWS Announces Six New Amazon SageMaker Capabilities"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."
-    publishedDateTime: 2021-12-01T18:33:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/nfl-technology-science-sports-business-28c3bc4896a14ad88e611a38db855530"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AWS Bolsters SageMaker with New Capabilities"
     excerpt: "Amazon Web Services unveiled a half-dozen new SageMaker services today at its re:Invent conference in Las Vegas. The cloud giant bolstered its flagship AI"
     publishedDateTime: 2021-12-01T20:55:00Z
@@ -239,20 +225,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Qlik extends advanced machine learning capabilities in Qlik Cloud with Amazon SageMaker"
-    excerpt: "Qlik deepened its work with Amazon Web Services (AWS) today with the release of an advanced analytics connector for Amazon SageMaker and integration with Amazon"
-    publishedDateTime: 2021-11-30T10:46:00Z
-    webUrl: "https://technuter.com/tech/qlik-extends-advanced-machine-learning-capabilities-in-qlik-cloud-with-amazon-sagemaker.html"
+  - title: "AWS Announces Six New Amazon SageMaker Capabilities"
+    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."
+    publishedDateTime: 2021-12-02T09:36:00Z
+    webUrl: "https://www.financialbuzz.com/aws-announces-six-new-amazon-sagemaker-capabilities/"
     type: article
     provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 48
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2020/05/Qlik.jpg"
-        width: 333
-        height: 285
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 34
   - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
     excerpt: "Lightspin, the multi-layer cloud security platform that prioritizes and remediates critical vulnerabilities across hybrid cloud and"
     publishedDateTime: 2021-12-02T13:30:00Z

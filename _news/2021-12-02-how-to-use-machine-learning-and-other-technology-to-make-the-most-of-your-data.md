@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/kevin-j-ryan/aws-reinvent-machine-learning-swa
 webUrl: "https://www.inc.com/kevin-j-ryan/aws-reinvent-machine-learning-swami-sivasubramanian-data.html"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "The good, the bad and the ugly of deep learning technology"
-    excerpt: "The use of deep learning for social media and online content generation has gained equal parts attraction and concern in recent years. With a reputation as a cog in the fake news machine, deep learning has been a driving force behind political propaganda,"
-    publishedDateTime: 2021-11-30T09:30:00Z
-    webUrl: "https://www.itproportal.com/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg"
-        width: 970
-        height: 545
-        isCached: true
-  - title: "Chatbots Technology: Which one is Ideal Match NLP OR Machine Learning?"
-    excerpt: "In this increasingly competitive consumer-driven economy, chatbots are the hottest automated technology. To achieve maximum"
-    publishedDateTime: 2021-12-01T18:58:00Z
-    webUrl: "https://www.cioapplications.com/news/chatbots-technology-which-one-is-ideal-match-nlp-or-machine-learning--nid-8801.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 56
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/6ysx450b308.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "qZQMYEGZ+ENLORazrFJJoEf9JWMizZe7+tj2PQys4RFvXtKjMX+lTL4Em7Nga2ue2zrwNHT1RrAA+GfRU4MhzGNoD4hUYEXOrBcyWl9xFBFh1vGOVh6URZEQcGHp+a74xraqqrPf9fW75El+hObNrpc7p1AUsmBtpUfoUrHFu3VXCFLG5APl/jg1vOeHpoAc9W3i3E59GCZeumS1NF5CNQpapRQvJySwxdyXkco68fPmG3hzOB76sipSw1Sf7f4bEVoJkJn+tXGXPFO3QWkKHfJpwDGq9qR2GSM3UR5sCmfLu/QmboR10tK0QOk1xoIBl6ewBtXkDJOWNybfM3q93QEu6ZOh4h8lNF8ilKS3/yU=;HOqRtjif4c5aMvwGEHZHDg=="
 ---

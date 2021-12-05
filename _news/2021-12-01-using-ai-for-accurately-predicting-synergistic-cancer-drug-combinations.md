@@ -73,20 +73,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Actions Taken For Ethical AI In 2021"
-    excerpt: "Countries are investing heavily in AI research and development. However, there are currently no norms or standards in place for ethical AI research, design, or use."
-    publishedDateTime: 2021-11-30T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Actions-Taken-For-Ethical-AI-In-2021.jpg"
-        width: 1678
-        height: 943
-        isCached: true
 
 secured: "I7rkgpJLD/gOkcgYrqAMp5mRESuIfEmspIBEW0JFu+/hLCilPLrNUGqCdGnNRrxHMtYVBugHjcFifFwbaLvwa1v1VjHhDe5ltKHGL2biJ+jXMmjC/kQFjDIsTyZuZZkmO4HQmCetc2oWG3M9dYA9SKB3zmvopmn/0CSruX4weDvz1Cir/y48Xgyh+En39qBV817vG0i9UYLKDkB26GNopqweO+ENV+odsyHw7SjLhTZ5eKTm0OAwki0kZ4fuZH5DHoTXglbicziyd3ctzq3G8DPXfl00oWk6sCxbVupXtlifcr1j4FoAr3aLrhDi9qcLBCTBbUBD0YJE/gvfCNIBi4dDEljCz0ciy4YkrT6SRZg=;uOopg1nhv7k76hqQNTzrUw=="
 ---

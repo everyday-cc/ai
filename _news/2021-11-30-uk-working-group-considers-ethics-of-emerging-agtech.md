@@ -28,7 +28,7 @@ related:
   - title: "VA exploring emerging health care tech"
     excerpt: "The Department of Veterans Affairs is conducting market research on innovative health care solutions, from advanced manufacturing and digital twins to artificial intelligence, immersive-reality simulations and blockchain solutions."
     publishedDateTime: 2021-12-04T22:31:00Z
-    webUrl: "https://gcn.com/articles/2021/12/04/va-emerging-tech.aspx"
+    webUrl: "https://gcn.com/articles/2021/12/04/va-emerging-tech.aspx?m=1"
     type: article
     provider:
       name: GCN

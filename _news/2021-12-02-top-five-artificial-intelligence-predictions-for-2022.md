@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluf
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/1b06bfb/2147483647/strip/true/crop/1000x521+0+99/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb4%2Fd5%2F3d6e3e66424a941ead29dc0b459f%2Fshutterstock-734504473.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "Actions Taken For Ethical AI In 2021"
-    excerpt: "Countries are investing heavily in AI research and development. However, there are currently no norms or standards in place for ethical AI research, design, or use."
-    publishedDateTime: 2021-11-30T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/actions-taken-for-ethical-ai-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/11/Actions-Taken-For-Ethical-AI-In-2021.jpg"
-        width: 1678
-        height: 943
         isCached: true
   - title: "Using AI for accurately predicting synergistic cancer drug combinations"
     excerpt: "A research team led by a scholar from City University of Hong Kong (CityU) has recently developed a novel artificial intelligence (AI) framework that can make synergistic anti-cancer drug combination predictions on both the therapeutic and toxic effects."

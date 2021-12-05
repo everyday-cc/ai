@@ -59,22 +59,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "'Never been observed': In a first, scientists create self-replicating living robots | Details"
-    excerpt: "The scientists created Xenobots by scraping living stem cells from frog embryos And with the help of artificial intelligence the researchers then tested billions of body shapes to make the Xenobots mo"
-    publishedDateTime: 2021-11-30T10:38:00Z
-    webUrl: "https://english.jagran.com/trending/never-been-observed-in-a-first-scientists-create-selfreplicating-living-robots-details-10035690"
-    ampWebUrl: "https://english.jagran.com/lite/trending/never-been-observed-in-a-first-scientists-create-selfreplicating-living-robots-details-10035690"
-    cdnAmpWebUrl: "https://english-jagran-com.cdn.ampproject.org/c/s/english.jagran.com/lite/trending/never-been-observed-in-a-first-scientists-create-selfreplicating-living-robots-details-10035690"
-    type: article
-    provider:
-      name: Jagran
-      domain: jagran.com
-    quality: 63
-    images:
-      - url: "https://imgeng.jagran.com/images/2021/nov/Robot1638268509637.jpg"
-        width: 650
-        height: 540
-        isCached: true
   - title: "Meet Xenobots, World's First Living Robots That Can Reproduce"
     excerpt: "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world."
     publishedDateTime: 2021-12-01T16:32:00Z

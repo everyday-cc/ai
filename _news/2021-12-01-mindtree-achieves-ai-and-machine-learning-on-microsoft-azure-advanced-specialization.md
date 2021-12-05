@@ -70,6 +70,22 @@ related:
         width: 350
         height: 233
         isCached: true
+  - title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
+    excerpt: "Partners with the AI and Machine Learning on Microsoft Azure advanced specialization can give organizations the tools and knowledge to develop AI solutions on their terms, build AI into their ..."
+    publishedDateTime: 2021-12-01T13:04:00Z
+    webUrl: "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization"
+    ampWebUrl: "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 81
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/pr-newswire_500_4_140.jpg?itok=5fsUeFER"
+        width: 763
+        height: 509
+        isCached: true
   - title: "CVS Health and Microsoft Link Up to Speed Healthcare’s Digital Shift on Retail’s Frontlines"
     excerpt: "Connected healthcare keeps making new connections as firms from different parts of the business world join forces to drive greater digital transformation for millions of consumers. New evidence of the gathering trend comes from CVS Health and Microsoft,"
     publishedDateTime: 2021-12-02T22:46:00Z
@@ -85,20 +101,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/CVS-Health-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
-    publishedDateTime: 2021-12-01T14:00:00Z
-    webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 61
-    images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
         isCached: true
   - title: "Taking Microsoft’s Azure Digital Twins to the next level in IoT"
     excerpt: "As countless IoT applications track live systems, real-time analytics plays an essential role in identifying problems or finding opportunities and then responding fast enough to make a difference. How can digital twins create leverage for implementing real-time analytics in IoT?"

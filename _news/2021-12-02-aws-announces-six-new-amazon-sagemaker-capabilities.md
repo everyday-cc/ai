@@ -2,27 +2,21 @@
 category: news
 title: "AWS Announces Six New Amazon SageMaker Capabilities"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine learning service, Amazon SageMaker, that make machine learning even more accessible and cost effective."
-publishedDateTime: 2021-12-01T18:33:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/nfl-technology-science-sports-business-28c3bc4896a14ad88e611a38db855530"
-webUrl: "https://apnews.com/press-release/BusinessWire/nfl-technology-science-sports-business-28c3bc4896a14ad88e611a38db855530"
+publishedDateTime: 2021-12-02T09:36:00Z
+originalUrl: "https://www.financialbuzz.com/aws-announces-six-new-amazon-sagemaker-capabilities/"
+webUrl: "https://www.financialbuzz.com/aws-announces-six-new-amazon-sagemaker-capabilities/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "AWS brings no-code to Amazon SageMaker machine learning"
@@ -239,20 +233,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Qlik extends advanced machine learning capabilities in Qlik Cloud with Amazon SageMaker"
-    excerpt: "Qlik deepened its work with Amazon Web Services (AWS) today with the release of an advanced analytics connector for Amazon SageMaker and integration with Amazon"
-    publishedDateTime: 2021-11-30T10:46:00Z
-    webUrl: "https://technuter.com/tech/qlik-extends-advanced-machine-learning-capabilities-in-qlik-cloud-with-amazon-sagemaker.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 48
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2020/05/Qlik.jpg"
-        width: 333
-        height: 285
-        isCached: true
   - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
     excerpt: "Lightspin, the multi-layer cloud security platform that prioritizes and remediates critical vulnerabilities across hybrid cloud and"
     publishedDateTime: 2021-12-02T13:30:00Z
@@ -282,6 +262,6 @@ related:
         height: 506
         isCached: true
 
-secured: "mdo2oXo6o9DXHpEbrFqE+DDgEZMInh/hu+XEFcYvx8bJQBr6GU1h3vzI1VZxZqVHdKFPQe2YflYlbbTF20vI55R7n50FE3Ucm2xhtNkSmAjJYV3e5swaIr9sQMD7d8xSL55A7ZG0orfy5IGSZB7WNoPJiGKZRHoEhtly+U/EA1KZlQTN52u1n0sJSr1KBgPhvrG9GRfMhpqogDGnZ35CealQ5+K831zl3HrFJIVRFbcCWezww5oOWELCLCom/ebULLNRps17N24rOhSM9tXpwkC8vsijc0AFYgay+eboZGPLoNZvNRUGRTQVwgG47HzkW40lROUKkhg2ZvPKXLL2wb2Qb4BfbII7HT5B2dKuaLg=;boHp+J+Tb1jVewBWRws9KA=="
+secured: "jtMWkN1kBIy1EFL16BbHbbkkRNgbdYSmufdJ+onwBVI8C06i8boyPOnoPOmm+c5L+82S7q3voVn4mrp/MAKAhILbYvVY2NqtRVQRior6iBwkavzP5lHPKU6qUqIupLvqfBlVBDlwK4FHUvkDpuw4imaAeGbReWAUsYdNCthI/a9m2lYdWj2SfeSq/q97NWJVIHw/7ROMID/64p4AFznRM3LudMTnXjOJ7pJ6XmLK9dR+485Gtxd/ZyU9lOFxh+hTtepUjMaQnhFPy5/rQQrfZ2Du63nq20KUfEaNtm6If56kThg0A9llsBXX2cnlta+LPmeJIVdqFI/bNdUqAe4omrt0e3MiZdhInnZG+pPZ3Q4=;HXphqyHU2YFDcoOmflORQA=="
 ---
 

@@ -54,6 +54,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Meta picks AWS as long-term strategic cloud provider"
+    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-02T07:52:00Z
+    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
 secured: "AeAUAkqMicmCfUAz/ygOO9355boM4sTGmwE1oTQ4kBeO8iwLuIYVv4UZ+ADbw9PrGwyP86h8Sm/qlzF/SBnA7uZS0kDfajK1ccWiwTMWZ2wQjvDeyr3FwEyaqG0dV7SH2VoLjL/YMHIIZRkYFTt0R9zmO7lLOUqxuY5WrLW4QM7qlVLYzbO6QU9UKFe+lyYl5QfUYMraEFBm9crvuDd/Q4gBX2kAAHEe6O8aO0p+QUWwFVHPxZ/U7lZZpnQpjubl4yDbtVDDqBCjkyFFeysv+seG4rbsuEfzh4wno0ARi/UeIsX8668jY1bqLbBg/MCD5sok3naqXQsojgHgQBEwcXgQmVOiH8zaCM5dVxwCI4w=;scMWtQKS558np6F+wLtK3g=="
 ---

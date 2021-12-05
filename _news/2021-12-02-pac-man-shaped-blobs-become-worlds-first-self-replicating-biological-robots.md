@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livescience.com/amp/self-replicating-biological-robots"
 cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/self-replicating-biological-robots"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 933
     isCached: true
-
-related:
-  - title: "World’s First Living Robot Makes Babies"
-    excerpt: "The world's first AI-designed biological robots that can self-repair and self-replicate are known as Xenobots."
-    publishedDateTime: 2021-11-30T10:55:00Z
-    webUrl: "https://thegazapost.com/en/post/134003/World’s-First-Living-Robot-Makes-Babies"
-    type: article
-    provider:
-      name: غزة بوست
-      domain: thegazapost.com
-    quality: 39
-    images:
-      - url: "https://thegazapost.com/img/507x330/img_1638269380.jpg "
-        width: 507
-        height: 330
-        isCached: true
 
 secured: "hFdLIK4sbx/7+cL7oslIc+9rFSoLTEpKM1Pn2wpLQJcxwZhyid6ivhIAiQMoeXhwxN0N/+JLRwPrMl2gxZ5B18VHw1nDjfvcKE83t9H5dICfYaUopSXDmESHNBq0ZzIaPbFZzgpVV0NUwoVR0/Ha3eS+B+vEbvZG9W8m9UQTmocVbFWEaiNkvWAU05fv+QnztJcFlbzpL8w1K85hdS0m+8OJ0s7utmuIqsndBDTljv31yt46f8e2zbYFH/s/xe4dirckywJaMyjjQcGiDx8xB2k9xej4ficRlih+uF/+l4No8jCBgoHPlwY82ukzTHhfkJsLquBNDM+zM+pvdekQgVL9iMINnyiVsYkPYpAjqsg=;TL3hdNOVaDLf54/MfLTttg=="
 ---
