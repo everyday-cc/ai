@@ -2,6 +2,92 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-11-10-data-society-launches-ai-driven-meldr-platform-for-data-science-training.md",
+      "title": "Data Society launches AI-driven meldR platform for data science training",
+      "excerpt": "Data Society has announced the launch of meldR, a social learning platform that allows L&D teams to deliver AI-generated data science learning courses.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/",
+      "originalUrl": "https://venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/data-society-launches-ai-driven-meldr-platform-for-data-science-training/amp/",
+      "publishedDateTime": "2021-11-10T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-10-northern-trust-launches-machine-learning-module-for-asset-owner-research-management.md",
+      "title": "Northern Trust Launches Machine Learning Module for Asset Owner Research Management",
+      "excerpt": "As part of its initiative to bring greater efficiency and transparency to alternatives asset servicing, Northern Trust (Nasdaq: NTRS) has launched a feature within its Front Office Solutions platform that utilizes machine learning to empower sophisticated asset allocators with better oversight of their research process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/northern-trust-launches-machine-learning-module-for-asset-owner-research-management/",
+      "originalUrl": "https://www.financialbuzz.com/northern-trust-launches-machine-learning-module-for-asset-owner-research-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-honesty-and-ethics-not-well-explained-by-managers-in-new-zealand.md",
       "title": "Honesty and ethics not well explained by managers in New Zealand",
       "excerpt": "The majority of employees in New Zealand are confident their organizations are honest and there is no misconduct at work, but their line managers don't always explain the importance of honesty and ethics in the work they are leading.",
@@ -1036,100 +1122,6 @@
         "AI in Finance",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage.md",
-      "title": "Li Ka-Shing-Backed AI Startup Founder Targets Electric Vehicles, Growth Amid Global Chip Shortage",
-      "excerpt": "Albert Liu founded San Diego-based AI startup Kneron in 2015. Since then, it has raised more than $100 million in funding from investors including Alibaba, Foxconn and Hong Kong billionaire Li Ka-shing's Horizons Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/",
-      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6182e7f21c5eaa7c4fe42480%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D868%26cropY1%3D0%26cropY2%3D579",
-          "width": 868,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2021/11/09/li-ka-shing-backed-ai-startup-founder-targets-electric-vehicles-growth-amid-global-chip-shortage/amp/",
-      "publishedDateTime": "2021-11-09T15:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-lawmakers-come-for-facebook-algorithm-with-filter-bubble-bill.md",
-      "title": "Lawmakers come for Facebook algorithm with 'filter bubble' bill",
-      "excerpt": "Facebook's algorithm sucks, and Congress wants to do something about it. A bipartisan group of lawmakers is pushing forward what it's titled the \"Filter Bubble ... the bill is aimed at the heart ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/filter-bubble-transparency-act-threatens-facebook-news-feed",
-      "originalUrl": "https://mashable.com/article/filter-bubble-transparency-act-threatens-facebook-news-feed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/02zPzzQTuSRukpzxcBQv9DD/hero-image.fill.size_1200x675.v1636502109.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T15:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

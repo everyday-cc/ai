@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-03-toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefitai.md",
+      "title": "Toyam signs with Singapore govt. backed fit-tech startup Elitefit.ai",
+      "excerpt": "Toyam Industries Ltd., India's biggest MMA promotion company signs a partnership agreement with EliteFit.AI, a FitTech startup supported by Singapore Government.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefit-ai-121120300769_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefit-ai-121120300769_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/03/full/20211203114046.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefit-ai-121120300769_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefit-ai-121120300769_1.html",
+      "publishedDateTime": "2021-12-03T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-anand-rathi-wealth-ipo-subscribed-over-2-times-so-far-on-day-2.md",
       "title": "Anand Rathi Wealth IPO subscribed over 2 times so far on Day 2",
       "excerpt": "Anand Rathi Wealth's initial public offering (IPO) was subscribed more than two times on Friday, the second day of the bidding process. Anand Rathi Wealth shares are available for bidding in a price band of Rs 530-550 in multiples of 27 under the IPO.",
@@ -1155,58 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-smartling-lands-160m-to-help-companies-translate-their-content-automatically.md",
-      "title": "Smartling lands $160M to help companies translate their content automatically",
-      "excerpt": "Smartling, a company providing a mix of AI- and human-powered translation services, has raised $160 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/",
-      "originalUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-3324171_1920-e1631120646603.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/amp/",
-      "publishedDateTime": "2021-12-02T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

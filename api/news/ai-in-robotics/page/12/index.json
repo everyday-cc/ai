@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-09-16-freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks.md",
+      "title": "Freebirds Partners With Dallas-Based Now Cuisine for Burrito-Bowl Robot Kiosks",
+      "excerpt": "\"It’s just cool that a Texas-based AI and robotics company can help a Texas-based burrito company expand in ways we could only imagine just a few years ago,\" says Alex Eagle, Chief Executive Officer for Freebirds World Burrito.",
+      "sourceUrl": null,
+      "webUrl": "https://dallasinnovates.com/freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks/",
+      "originalUrl": "https://dallasinnovates.com/freebirds-partners-with-dallas-based-now-cuisine-for-burrito-bowl-robot-kiosks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s24806.pcdn.co/wp-content/uploads/2021/09/Freebirds-Takeout-Station-970jpg.jpg",
+          "width": 970,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dallasinnovates.com",
+        "domain": "dallasinnovates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-5-real-ai-threats-that-make-the-terminator-look-like-kindergarten-cop.md",
       "title": "5 real AI threats that make The Terminator look like Kindergarten Cop",
       "excerpt": "SKYNET, SKYNET, SKYNET. Everyone's always going on about Terminators and killer robots, but the real horror posed by future AI is from Facebook and Google.",
@@ -1243,49 +1286,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-12-mit-robotics-experts-create-pair-of-shoulder-mounted-arms-to-give-us-six-limbs.md",
-      "title": "MIT robotics experts create pair of shoulder-mounted arms to give us six limbs",
-      "excerpt": "And now roboticists at the Massachusetts Institute of Technology have created robotic arms that can ... to a person’s body and cannot be controlled by the mind. Scroll down for video The extra ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-2647170/Turning-humans-INSECTS-Robotics-experts-create-extra-pair-shoulder-mounted-arms-six-limbs.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-2647170/Turning-humans-INSECTS-Robotics-experts-create-extra-pair-shoulder-mounted-arms-six-limbs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/i/pix/2014/06/03/article-2647170-1E6E525F00000578-516_636x382.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-2647170/amp/Turning-humans-INSECTS-Robotics-experts-create-extra-pair-shoulder-mounted-arms-six-limbs.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-2647170/amp/Turning-humans-INSECTS-Robotics-experts-create-extra-pair-shoulder-mounted-arms-six-limbs.html",
-      "publishedDateTime": "2021-09-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

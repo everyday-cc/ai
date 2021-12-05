@@ -7,7 +7,7 @@ originalUrl: "https://www.cioapplications.com/news/most-popular-artificial-ai-tr
 webUrl: "https://www.cioapplications.com/news/most-popular-artificial-ai-trends-to-watch-out-for-in-2021-nid-8825.html"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,36 @@ images:
     width: 450
     height: 308
     isCached: true
+
+related:
+  - title: "Global Artificial Intelligence (AI) in Insurance Market 2021 Research Strategies, Trend and Future Development Status, Forecast by 2027"
+    excerpt: "MarketandResearch.biz has deployed an intelligence report entitled Global Artificial Intelligence (AI) in Insurance Market Research Report 2021-2027 that is the complete creation of meticulous primary and secondary research."
+    publishedDateTime: 2021-12-02T00:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-2021-research-strategies-trend-and-future-development-status-forecast-by-2027-2021-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Deep Learning Camera Market 2021 Driving Factors, Industry Growth, Key Vendors and Outcomes of the Five Forces Analysis by 2027"
+    excerpt: "MarketandResearch.biz has declared the addition of a new research report titled Global Deep Learning Camera Market Research Report 2021-2027 which is all around made by considering its essential information in the overall global Deep Learning Camera market."
+    publishedDateTime: 2021-12-02T02:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-camera-market-2021-driving-factors-industry-growth-key-vendors-and-outcomes-of-the-five-forces-analysis-by-2027-2021-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "KbwXaMF6YqazFFV8iHm6bUkCso+hZcAwj4LyeLTiGVemXN9qmf+iXMxk/V2nCwu2xR2nxC1okUWkUm2fr52e9F3NXFCeEAnI07NBeTHwT4U2tIB1gKFy+o+QhCYymGqBJkEx3V+0cv3sXO10dS8EQqM/wdO/aL9YGp/6kf7+tsxZgHb2h368QV6ktAgkcqMF0SN0XhXRw4cq08zDtdg4Of3AUAa81a/PEm+xUw7sfxczLSEeVWGupUsYS/D/c5m01RkM+n3dTexaon7Dj5PMTXdf2J+2NtxB3EUfLRvU2r0VqCaQH8POnp6Dn4u2+sFFRd5/YvPNgvv1zVNbwQ3aYxAWQSXa0dBv6ToNgZuszBQHjlC5iJs/Aqlw7afVVbvFyssK/JDaxwxatbZAP0udwIBseFXE9IWLBH0zMhzOZczPLUlEf/6HoTlLhUsybhYYlMvBbmFY2WmtD8HTgC4a1VjzmUEsabY4CuiAxTxXVoTSDrVeR+T/wYSes8lYCONYgMvGNqYocgWhmnK+JEGdgg==;ZUz8l9vtif//sAslub38Dg=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "AWS Announces New Serverless Options for Three Analytics Services"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
 publishedDateTime: 2021-11-30T18:41:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
 type: article
 quality: 39
 heat: -1
@@ -162,6 +162,6 @@ related:
         height: 536
         isCached: true
 
-secured: "fznSOrPx+sawXRWsjMjWGs4zKkVMzMrXOt0XWh5RiPHQJ2q7qvtHO8h00P4zgjbcJtJ9iDmvXcNHRfdaprnNrlDCtYQiQaVbFp6qPBJhpliD5+1Qp+B7HBIrGad+RoS9o31Uwjox3e7Gm3lYNqqO87+ojIbHBl8g8H6OML8vCAIP3yOdXn9PrWjaJVeyD6W9YUg5Ba9TWok9SBNel6C27gNvVdrqxqsjoiAMpZd4TRLYkgYo+R1YVtL+1Vox1QpH7kY8DTGCzbYrnuRTdzhIiq8bF/xJABM7WQutm6P0xHep6OyynEcvAcdgSQPnCO0ZDDdtHbqYglcb3B4ItvKrN2OmQbsXF7qaVkXHCX8JWLc=;32WP9myuji2Adha5hqsA0A=="
+secured: "d4e/QUZILMe9HP8ZC2DaFXu/yruznfpRYCQAGuq3vijc4naIz8lIT5ThdKwEUJKz54GV5moS5/A88+65SIlsWqTsVTrICJA3O4bcGRArQ1s6wtwIjQ1Jgi3S196DPlTtUGy7PrlowJxvfqtO+eiSHPtIiSStvAWt8Zem75xIEGfrvmAphZmgIWI3HSolz7bbk6gnPL+FfyDbWL1xbThVwJUAz4/B0oy9J75mdYqWAxnLMylfKxfZODXbkrRZ9xmJO3HYdAVt9B2vBMpvOonYuHv8tOSQ+Kp/A0orbDnxlhAvykV2FW0HdxggJW1N3kaCLqDh10+uo2XXusVk7uWU6aNYiTfqXGqkmQpVOuQOGq4=;2wAyUyJ0msKtvCrOwNRGqA=="
 ---
 

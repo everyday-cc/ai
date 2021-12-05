@@ -2,6 +2,102 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-11-13-exploring-the-impact-of-machine-learning-and-artificial-intelligence-in-drug-development-from-discovery-to-healthcare.md",
+      "title": "Exploring the Impact of Machine Learning and Artificial Intelligence in Drug Development from Discovery to Healthcare",
+      "excerpt": "SMi Group reports the 3rd Annual AI in Drug Discovery is set to return to London in March 2022 with a key focus on the opportunities of machine learning and AI in drug development SMi Group is delighted to announce",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "originalUrl": "https://www.openpr.com/news/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub12584002_g.jpg",
+          "width": 650,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2460884/exploring-the-impact-of-machine-learning-and-artificial",
+      "publishedDateTime": "2021-11-12T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-monitor-operational-metrics-for-your-amazon-lex-chatbot.md",
+      "title": "Monitor operational metrics for your Amazon Lex chatbot",
+      "excerpt": "Chatbots are increasingly becoming an important channel for companies to interact with their customers, employees, and partners. Amazon Lex allows you to build&nbsp;conversational interfaces into any application using voice and text. Amazon Lex V2 console and APIs make it easier to build, deploy, and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/monitor-operational-metrics-for-your-amazon-lex-chatbot/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/monitor-operational-metrics-for-your-amazon-lex-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/10/11/ML-5649-image001.jpg",
+          "width": 2052,
+          "height": 707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T10:19:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-13-how-ai-fights-fraud-in-the-telecom-industry.md",
       "title": "How AI fights fraud in the telecom industry",
       "excerpt": "Americans lost $29.8 billion in phone fraud over the past year. Can AI fraud detection change this? In 2021, over 59 million Americans said they lost money as a result of phone scams, with an average reported loss of $502.",
@@ -1101,83 +1197,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance.md",
-      "title": "The Intersection of AI and DeFi and Why It’s the Future of Finance",
-      "excerpt": "SingularityNET CEO Ben Goertzel joins Jill Malandrino on Nasdaq #TradeTalks virtually from the Singapore Fintech Festival to discuss the intersection of AI and #DeFi and why it’s the future of finance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
-      "originalUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/videos/the-intersection-of-ai-and-defi-and-why-its-the-future-of-finance?amp",
-      "publishedDateTime": "2021-11-11T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-baidu-3-trades-to-take-advantage-of-recent-price-slip.md",
-      "title": "Baidu: 3 Trades To Take Advantage Of Recent Price Slip",
-      "excerpt": "Although Baidu is known for its internet services and as the leading search engine in China, management’s focus has been shifting to artificial intelligence and autonomous driving. Despite ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.investing.com/analysis/baidu-3-trades-to-take-advantage-of-recent-price-slip-200607994",
-      "originalUrl": "https://www.investing.com/analysis/baidu-3-trades-to-take-advantage-of-recent-price-slip-200607994",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-          "width": 500,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T12:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

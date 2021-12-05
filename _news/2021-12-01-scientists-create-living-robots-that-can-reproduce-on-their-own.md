@@ -9,7 +9,7 @@ ampWebUrl: "https://sea.mashable.com/life/18408/scientists-create-living-robots-
 cdnAmpWebUrl: "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1"
 type: article
 quality: 89
-heat: 259
+heat: 239
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://cdn.slashgear.com/wp-content/uploads/2021/11/xenobots-harvard-study-self-replicating.jpg"
         width: 1440
         height: 810
-        isCached: true
-  - title: "Scientists make history by creating living robots that can reproduce"
-    excerpt: "Scientists have created robots that can reproduce entirely independently - and frankly, we have just one question: Oh God, why?"
-    publishedDateTime: 2021-11-30T15:19:00Z
-    webUrl: "https://www.joe.co.uk/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241"
-    ampWebUrl: "https://www.joe.co.uk/amp/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241"
-    cdnAmpWebUrl: "https://www-joe-co-uk.cdn.ampproject.org/c/s/www.joe.co.uk/amp/life/scientists-make-history-by-creating-living-robots-that-can-reproduce-303241"
-    type: article
-    provider:
-      name: joe.co.uk
-      domain: joe.co.uk
-    quality: 59
-    images:
-      - url: "https://img.maximummedia.ie/joe_co_uk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmpvZS5jby51a1xcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMVxcXC8zMDE1MTkyMVxcXC9Sb2JvdHMucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5jby51a1xcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZWNvdWtcXFwvbm8taW1hZ2UucG5nP2lkPTBhODk3NjFkMGEzYzZmNTFmN2Q2XCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjAzY2NkMzdmMmFiOGU4OTFmMDNkZGQ5OGVhMjQyNTg3NmMyNGE0ODUifQ==/robots.png"
-        width: 647
-        height: 340
         isCached: true
   - title: "Meet Xenobots, World's First Living Robots That Can Reproduce"
     excerpt: "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world."
@@ -122,22 +106,6 @@ related:
       - url: "https://storage.googleapis.com/prod-zenger-storage/image/20211130/16-9_fdb4d1d4-6d2d-44ef-983e-f948a8ffd34d.png?20211201083356"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Scientists made tiny xenobots out of frog cells. Now they say those robots can reproduce."
-    excerpt: "Using artificial intelligence, the xenobots were able to replicate themselves using a process not seen in humans or any other animals."
-    publishedDateTime: 2021-11-30T15:46:00Z
-    webUrl: "https://www.usatoday.com/story/news/nation/2021/11/30/living-robots-reproduce-artificial-intelligence/8801610002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/8801610002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8801610002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 50
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/11/21/USATODAY/usatsports/247WallSt.com-247WS-996564-Xenobots.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Scientists Say They Have Created Self-Replicating 'Living Robots'"
     excerpt: "There are many things that are possible if we take advantage of this kind of plasticity and ability of cells to solve problems.'"
@@ -221,18 +189,18 @@ related:
         height: 436
         isCached: true
   - title: "Tiny living Pac-Man robots have learned how to reproduce"
-    excerpt: "By Ashley Strickland, CNN Whenever we’re confronted with aspects of science fiction becoming scientific reality, philosophical questions arise. This week, many were asking this one: What is a robot, really?"
-    publishedDateTime: 2021-12-04T22:12:00Z
-    webUrl: "https://localnews8.com/news/2021/12/04/tiny-living-pac-man-robots-have-learned-how-to-reproduce/"
+    excerpt: "Whenever we're confronted with aspects of science fiction becoming scientific reality, philosophical questions arise."
+    publishedDateTime: 2021-12-04T16:12:00Z
+    webUrl: "https://www.albanyherald.com/news/tiny-living-pac-man-robots-have-learned-how-to-reproduce/article_09b8cd9a-ddc3-5060-9499-c75e9f702929.html"
     type: article
     provider:
-      name: Local News 8
-      domain: localnews8.com
+      name: Albany Herald
+      domain: albanyherald.com
     quality: 39
     images:
-      - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
-        width: 2560
-        height: 1441
+      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/2/e0/2e005156-9692-57fe-a8d2-39da9f800395/619f70bd4d51b.image.jpg?crop=1182%2C1182%2C286%2C0&resize=400%2C400&order=crop%2Cresize"
+        width: 400
+        height: 400
         isCached: true
   - title: "Scientists Unveiled the World’s First Living Robots Last Year. Now, They Can Reproduce"
     excerpt: "Early last year, a team of researchers announced the world's first living machines —bundles of stem cells from African clawed frogs ( Xenopus laevis) that could be programmed to accomplish certain tasks."

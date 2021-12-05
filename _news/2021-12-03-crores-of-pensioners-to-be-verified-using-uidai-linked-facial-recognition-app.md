@@ -7,7 +7,7 @@ originalUrl: "https://www.medianama.com/2021/12/223-facial-recognition-app-pensi
 webUrl: "https://www.medianama.com/2021/12/223-facial-recognition-app-pensioners-uidai/"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "How To Generate & Submit Life Certificate Through Face Recognition?"
+    excerpt: "Every central government pensioner is mandated to submit a life certificate every year in November in order to keep their pension effective. Unfortunately, due to the COVID-19 outbreak, Central Government pensioners have been given an extended time limit until December to submit their life certificate online or in person at a bank."
+    publishedDateTime: 2021-12-05T08:52:00Z
+    webUrl: "https://www.goodreturns.in/classroom/how-to-generate-submit-life-certificate-through-face-recognition-1232448.html"
+    ampWebUrl: "https://www.goodreturns.in/amphtml/classroom/how-to-generate-submit-life-certificate-through-face-recognition-1232448.html"
+    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/classroom/how-to-generate-submit-life-certificate-through-face-recognition-1232448.html"
+    type: article
+    provider:
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 59
+    images:
+      - url: "https://www.goodreturns.in/img/2021/03/jeevan-parinam-inner-new-1616477341.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Good News Pensioners! You Can Now Submit Life Certificate Via Mobile App Using Face Recognition Tech"
     excerpt: "All pensioners are mandated to submit life certificates annually to continue receiving pension. The Ministry of Personnel, Public Grievances and Pensions has implemented a facility of submitting certificates digitally."
     publishedDateTime: 2021-12-01T05:06:00Z

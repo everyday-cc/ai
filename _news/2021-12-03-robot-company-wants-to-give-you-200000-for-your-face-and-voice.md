@@ -60,6 +60,20 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Robot company will pay $200,000 for human faces for use on robots"
+    excerpt: "Tech company Promobot is looking for actual people to lend their faces for the newest group of robots, and is willing to pay US$200,000 for the rights to these faces"
+    publishedDateTime: 2021-12-05T06:20:00Z
+    webUrl: "https://www.malaysiasun.com/news/271870400/robot-company-will-pay-200000-for-human-faces-for-use-on-robots"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1638522342689.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "oda7/fwByDg78dOcsZTCGdXV7VzqE8YbiiymidIyzP34E2RuP/jYGRHQzCKfZNkseaft4s0lwBJuGNKPGRUPXqWwNR7UIDh1OstTwJ/NF6xVmLTucqR38cTUx4Rd4rg0mOVBTdsHIH6T9TCuqyQ4TgfaGgj2kvbMmgmRp+w8SOhxVgXibEbGCogvdGgL0SoiOlML32s0bgsRxe196UPDRZS9Fo3duGAXXTZwT9n/iRvMl9OBc627FoBeMxQF1idgrzON++mt+E2KKgazDYXllmGtWzuRNX/GfqPU3jGUYXmjHwFANSqbEPh8S8bJHwGeRSesMx91gk5XeI7Z36RpjSzzL4C75oCSMAlhWxasLWIWI+f9E0gE8wfSwdndgzxi3VZdrm4fE0tBbT84IQn7fxz4TxcQlef9aIKe2xz5P9xA3i7+4WT7miJ+s5pj5QaQht9acFS2F3dOcqECN9ywSYqDjHCjnDMZVIQT+W27QLU2u0qkFMqKgUHBi714AYIW9w9VRsq0QWF/guZfatOJlg==;P797hRAX3+EjUEVedHBqKQ=="
 ---

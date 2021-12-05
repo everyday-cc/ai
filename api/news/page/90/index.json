@@ -2,6 +2,91 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2021-09-28-leena-ai-gets-30-million-funding-from-bessemer-b-capital.md",
+      "title": "Leena AI gets $30 million funding from Bessemer, B Capital",
+      "excerpt": "The funding will help enterprise SaaS startup Leena AI launch new products, enter new geographies like North America and Europe, and hire talent for marketing and sales.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/articleshow/86586687.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/articleshow/86586687.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 217,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-62692,msid-86586647/adit-jain-leena-ai-.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/amp_articleshow/86586687.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/leena-ai-gets-30-million-funding-from-bessemer-b-capital/amp_articleshow/86586687.cms",
+      "publishedDateTime": "2021-09-28T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-28-sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field.md",
+      "title": "Sina Bari MD Shares 3 Ways that Computer Vision is Transforming the Medical Field",
+      "excerpt": "The medical field is constantly evolving in our day and age, as is technology. We are all familiar with the types of technology, computers, cellphones and software that’s out there. But when it comes to the specifics and details of technology or a form of artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/",
+      "originalUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://submission.icrowdmarketing.com/assets/source/users/2087/Sina%20Bari%20MD%20Shares%20How%20Computer%20Vision%20is%20Transforming%20the%20Medical%20Field.jpg?1632508900522",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1",
+      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2021/09/28/sina-bari-md-shares-3-ways-that-computer-vision-is-transforming-the-medical-field/?amp=1",
+      "publishedDateTime": "2021-09-28T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-28-arize-ai-raises-19-million-series-a-financing-led-by-battery-ventures-for-machine-learning-observability.md",
       "title": "Arize AI Raises $19 Million Series A Financing Led by Battery Ventures for Machine Learning Observability",
       "excerpt": "Machine learning is the backbone of modern ... Other customers include organizations in financial services, fintech, healthcare, insurtech, ad tech, retail and other industries that rely on ...",
@@ -1056,93 +1141,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-brainchip-goes-virtually-everywhere-at-ai-everywhere-forum-2021.md",
-      "title": "BrainChip Goes Virtually Everywhere at AI Everywhere Forum 2021",
-      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced that Vice President of Worldwide Sales Rob Telson will present “Intelligent AI Everywhere” at the AI Everywhere Forum September 28 at 1:15 p.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-brainchip-holdings-ltd-5e8d200749cc445e8620e9cd9502b40e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T16:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-28-top-use-cases-of-aiml-in-the-fintech-industry.md",
-      "title": "Top Use Cases of AI/ML in the Fintech Industry",
-      "excerpt": "AI has progressed significantly since then, and it is now employed in a wide range of applications. FinTech are particularly interested in it, either to develop it or to utilise it themselves, because it has so many useful applications. Traditional ...",
-      "sourceUrl": null,
-      "webUrl": "https://customerthink.com/top-use-cases-of-ai-ml-in-the-fintech-industry/",
-      "originalUrl": "https://customerthink.com/top-use-cases-of-ai-ml-in-the-fintech-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://customerthink.com/wp-content/uploads/robot-507811.jpg",
-          "width": 4961,
-          "height": 3508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CustomerThink",
-        "domain": "customerthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

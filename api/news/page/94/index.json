@@ -2,6 +2,101 @@
   "page": 94,
   "value": [
     {
+      "path": "_news/2021-09-24-researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms.md",
+      "title": "Researchers having a whale of a time with deep learning AI algorithms",
+      "excerpt": "Researchers are using deep learning AI algorithms to understand and communicate with whales. Deep learning AI algorithms are becoming the key technology in some of the most complicated use cases around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms/",
+      "originalUrl": "https://techhq.com/2021/09/researchers-having-a-whale-of-a-time-with-deep-learning-ai-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techhq.com/wp-content/uploads/2021/09/000_9LP9TU-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-24T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-24-those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars.md",
+      "title": "Those Infuriating Drivers That Take Over The Left Lane And Prevent Passing Will Undoubtedly Be Stifling For AI Self-Driving Cars",
+      "excerpt": "Left lane usage varies by state laws and many drivers get confused or purposely exploit loopholes and road rage results. Here's what will happen once we have AI-based self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610ae7fa91d476847d9bda78%2F0x0.jpg%3FcropX1%3D141%26cropX2%3D4241%26cropY1%3D452%26cropY2%3D2781",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-09-24T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business.md",
       "title": "Microsoft cloud storage: is OneDrive or Azure right for your business?",
       "excerpt": "Microsoft is one of the best cloud storage providers, and offers some of the best cloud storage for business too. But before you can dive into Microsoft cloud storage, you have to choose between two different products: OneDrive and Azure.",
@@ -1066,93 +1161,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-migrate-single-worker-multiple-gpu-training.md",
-      "title": "Migrate single-worker multiple-GPU training",
-      "excerpt": "This guide demonstrates how to migrate the single-worker multiple-GPU workflows from TensorFlow 1 to TensorFlow 2. def _input_fn(): return tf1.data.Dataset.from_tensor_slices((features, labels)).batch(1) def _eval_input_fn(): return tf1.data.Dataset.from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/migrate/mirrored_strategy",
-      "originalUrl": "https://www.tensorflow.org/guide/migrate/mirrored_strategy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-23T17:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-experience-the-future-of-ai-innovation-at-the-nvidia-gpu-technology-conference.md",
-      "title": "Experience the Future of AI Innovation at the NVIDIA GPU Technology Conference",
-      "excerpt": "The NVIDIA® GPU Technology Conference (GTC) is a flagship event for artificial intelligence (AI) and deep learning, bringing together IT developers and industry experts to connect, learn, discover, and innovate. GTC provides valuable training sessions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/microsite-landing/experience-the-future-of-ai-innovation-at-the-nvidia-gpu-technology-conference/",
-      "originalUrl": "https://www.nextplatform.com/microsite-landing/experience-the-future-of-ai-innovation-at-the-nvidia-gpu-technology-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/microsite-landing/experience-the-future-of-ai-innovation-at-the-nvidia-gpu-technology-conference/?amp",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/microsite-landing/experience-the-future-of-ai-innovation-at-the-nvidia-gpu-technology-conference/?amp",
-      "publishedDateTime": "2021-09-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressio
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/11/SJM-Z-WALTERS-OPED-1102.jpg?w=1024&#038;h=783"
         width: 1024
         height: 783
+        isCached: true
+  - title: "Tesla’s Full Self-driving Beta 10.6 emphasis on precision of movements"
+    excerpt: "Tesla's Full Self-Driving (FSD) technology update will be the 10.6 version. Tesla is focusing on three things with this update."
+    publishedDateTime: 2021-12-05T08:33:00Z
+    webUrl: "https://techstory.in/teslas-full-self-driving-beta-10-6-emphasis-on-precision-of-movements/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/12/Tesla-Full-Self-Driving-Beta-Hero.jpg"
+        width: 1600
+        height: 792
         isCached: true
 
 secured: "ijV1C2mtJ6PsyjXfHg5+7i2fbXNNlc9N/j5G7k1OP5QEhXVRxkJ8fGxX+KuHjsqrA/uK0LWjeMcacmT1Jcd0+e76U7RkWemoGM5ew6AC6e7F6RsRzP14eAaBKyQPxY8wcT1JHAWccKIqQSBPeKRrzQRoq6mpmpWAv4WQFGXv6vlZcHUj0c2wyFurANt6/JJQ38fWwn5jkkdOnPQnv+F98HUnd/VpTx5XXCKoCg/OI8Dfvnf/bf1iE4VEpwGIu4hB+jgy0Bhvj4prejLneDs60bQyxoNkuV5bWlhSJUhENTSvjPNQq7JCTVWwP60xRHBauWmi60MTbeXxb1MNRYDuuk50HXDTBxk2DP+YbPep/cAY2/nJr3nqA30VVqjARmxIQ9ZoAiLWI2WWzFZHlG0m5OEZT0ByP9D5bOcKCFo59r+yOOdP0/xHx5BJt+8Vf4dQbxKyd5GKimwxbvWzNslwdpW45wZg6T6Mouz156D3dnVt+kt2xsjYxKdzFK1nu3U/g9otneCtihry61KKukcDyg==;oCQZAsgLnHVlu+vNi5Bfcg=="

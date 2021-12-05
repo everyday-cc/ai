@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "J.D. Power Examines Understanding Of Self-Driving Vehicles"
-    excerpt: "The study index is based on six unique attributes of consumer comfort with fully automated, self-driving vehicles."
-    publishedDateTime: 2021-11-30T16:45:00Z
-    webUrl: "https://www.aftermarketnews.com/j-d-power-study-on-fully-automated-self-driving-vehicles-consumers-dont-know-what-they-dont-know/"
-    type: article
-    provider:
-      name: After Market News
-      domain: aftermarketnews.com
-    quality: 24
-    images:
-      - url: "https://s19538.pcdn.co/wp-content/uploads/2021/01/self-driving-1000x563.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Level-Setting: Why Drivers Still Don’t Understand Self-Driving"
     excerpt: "The deficits are definitely concerning—it’s a mismatch for sure.” In a release, she called it “a ‘Danger, Will Robinson’ moment for the fully automated self-driving vehicle industry.” The results do not reflect a lack of curiosity."
     publishedDateTime: 2021-11-30T19:07:00Z

@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "How To Generate & Submit Life Certificate Through Face Recognition?"
+    excerpt: "Every central government pensioner is mandated to submit a life certificate every year in November in order to keep their pension effective. Unfortunately, due to the COVID-19 outbreak, Central Government pensioners have been given an extended time limit until December to submit their life certificate online or in person at a bank."
+    publishedDateTime: 2021-12-05T08:52:00Z
+    webUrl: "https://www.goodreturns.in/classroom/how-to-generate-submit-life-certificate-through-face-recognition-1232448.html"
+    ampWebUrl: "https://www.goodreturns.in/amphtml/classroom/how-to-generate-submit-life-certificate-through-face-recognition-1232448.html"
+    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/classroom/how-to-generate-submit-life-certificate-through-face-recognition-1232448.html"
+    type: article
+    provider:
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 59
+    images:
+      - url: "https://www.goodreturns.in/img/2021/03/jeevan-parinam-inner-new-1616477341.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Crores of pensioners to be verified using UIDAI-linked facial recognition app"
     excerpt: "A facial recognition-based app to verify and detect pensioners' liveness has been launched by the Department of Pension & Pensioners’ Welfare."
     publishedDateTime: 2021-12-03T06:23:00Z

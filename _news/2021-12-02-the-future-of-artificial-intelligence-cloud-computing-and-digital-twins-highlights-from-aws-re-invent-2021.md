@@ -137,20 +137,6 @@ related:
         width: 812
         height: 400
         isCached: true
-  - title: "AWS re:Invent 2021 keynote live blog: All the latest news, announcements and more"
-    excerpt: "Invent 2021 to report on the latest news, announcements, partner showcases and more from Amazon Web Services' annual event. Amongst the highlights from yesterday are the launch of Graviton3, the most powerful CPU launched by AWS yet,"
-    publishedDateTime: 2021-11-30T15:25:00Z
-    webUrl: "https://www.techradar.com/uk/news/live/aws-reinvent-2021-keynote-live-blog"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 64
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2idsF7Q9EqPcYWnwzgwtoF-1200-80.jpg"
-        width: 971
-        height: 545
-        isCached: true
   - title: "Meeting expectations a key focus for AWS in machine learning/AI keynote at re:Invent"
     excerpt: "Invent 2021 kicked off with a two-hour presentation on the company’s initiatives in machine learning and artificial intelligence. In typical style for the public cloud giant, the approach taken by presenting executives was to level-set customer expectations and then show precisely how Amazon Web Services Inc."
     publishedDateTime: 2021-12-01T22:27:00Z
@@ -290,15 +276,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new Amazon Elastic Compute Cloud (Amazon EC2) instances powered by AWS-designed chips that help customers significantly improve the performance,"
-    publishedDateTime: 2021-11-30T16:41:00Z
-    webUrl: "https://www.heraldstandard.com/business_ap/aws-announces-three-new-amazon-ec2-instances-powered-by-aws-designed-chips/article_3dc0a993-62f3-5458-a08f-9e4fe07499f7.html"
-    type: article
-    provider:
-      name: The Herald-Standard
-      domain: heraldstandard.com
-    quality: 17
   - title: "Top news from re:Invent keynotes"
     excerpt: "Invent keynote given by new CEO Adam Selipsky followed the familiar format and provided totally new services and expected updates to existing ones. No surprise that there were surprises! Adam took us back the 15 years of AWS from the beginnings of S3 early EC2 instances and important launches over the years."
     publishedDateTime: 2021-12-01T14:09:00Z

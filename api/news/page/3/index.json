@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-02-smartling-lands-160m-to-help-companies-translate-their-content-automatically.md",
+      "title": "Smartling lands $160M to help companies translate their content automatically",
+      "excerpt": "Smartling, a company providing a mix of AI- and human-powered translation services, has raised $160 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/",
+      "originalUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-3324171_1920-e1631120646603.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/amp/",
+      "publishedDateTime": "2021-12-02T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-you-can-now-get-150000-if-you-let-a-robot-use-your-face-and-voice.md",
       "title": "You can now get £150,000 if you let a robot use your face and voice",
       "excerpt": "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -436,7 +488,7 @@
       "originalUrl": "https://www.openpr.com/news/2482636/ai-based-fever-detection-camera-2021-global-market-key-players",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -478,7 +530,7 @@
       "originalUrl": "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -650,6 +702,57 @@
         "Machine Learning",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-global-artificial-intelligence-ai-in-insurance-market-2021-research-strategies-trend-and-future-development-status-forecast-by-2027.md",
+      "title": "Global Artificial Intelligence (AI) in Insurance Market 2021 Research Strategies, Trend and Future Development Status, Forecast by 2027",
+      "excerpt": "MarketandResearch.biz has deployed an intelligence report entitled Global Artificial Intelligence (AI) in Insurance Market Research Report 2021-2027 that is the complete creation of meticulous primary and secondary research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-2021-research-strategies-trend-and-future-development-status-forecast-by-2027-2021-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-2021-research-strategies-trend-and-future-development-status-forecast-by-2027-2021-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T16:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -957,7 +1060,7 @@
       "originalUrl": "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1084,112 +1187,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-nvidia-again-claims-the-title-for-the-fastest-ai-competitors-disagree.md",
-      "title": "NVIDIA Again Claims The Title For The Fastest AI; Competitors Disagree",
-      "excerpt": "After all, training tiny models like Resnet on over 4000 GPU’s in order to claim the fastest hardware crown is irrelevant in the real world. Rather, TTT is a demonstration of scalability, which is universally important to AI practitioners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a7aedec9cd7a21719f5183%2F0x0.jpg",
-          "width": 1200,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/amp/",
-      "publishedDateTime": "2021-12-01T11:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy.md",
-      "title": "4 AI trends for 2022: Neural networks, strategic ethics, better hiring and gastronomy",
-      "excerpt": "In 2022, we can expect AI to expand its reach into robotic automation, better software for decision-making and a confrontation of the looming ethical issues, according to Sony experts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "originalUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/02/b1bed642-5c3b-45a0-83b4-6f3308cf3795/resize/1200x/5a1638d5619f9c86f3ccb120f4785b3b/server-robot.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
-      "publishedDateTime": "2021-12-01T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

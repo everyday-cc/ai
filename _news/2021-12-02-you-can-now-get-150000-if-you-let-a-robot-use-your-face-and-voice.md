@@ -9,7 +9,7 @@ ampWebUrl: "https://www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-vo
 cdnAmpWebUrl: "https://www-her-ie.cdn.ampproject.org/c/s/www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-Sl7zbvKjbvj7Ba1n.jpg"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Robot company will pay $200,000 for human faces for use on robots"
+    excerpt: "Tech company Promobot is looking for actual people to lend their faces for the newest group of robots, and is willing to pay US$200,000 for the rights to these faces"
+    publishedDateTime: 2021-12-05T06:20:00Z
+    webUrl: "https://www.malaysiasun.com/news/271870400/robot-company-will-pay-200000-for-human-faces-for-use-on-robots"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1638522342689.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "0j4Hg5G7Q0PS3nojx70yKBCFwEzGsQ+ficXQ4Ng23vmcJ+xUOL7KAmmZxYoLWEk6KQOhqyAVzIGtf3e7M2/yX8BoRGYA5DbbY6UzayOhYRqMsHv4K9vBhmktdbVdDLT5NuXOGYa9CQAys/Y7TJkCV8j9CHcQUWmR/LdJ+6lBUQxijIJQLvx+oqbiFANB8W/83x7ANDcywPAo7cx9GufPdz7iDfNHjlWejaoky6qVSyM94PT2rcwFKXIn4CqvtQnTY9nRdkzxIM8G4zvQP6IpNLAnpOso3+WGKcGUJW8igkMrnsnDw072iREBygOpIwjkF/v1DUaOfoURVMp1lUX9nJGw6gqE45rSg3hNTLvhFZDtay27xbyjDs3V+D6eQ8cXsL+0gwibtvVI6qI1dbRMYMLUSFnxWfQQbSr6u0uMFzNyGzmty0hnaV+NzYfuNe6kWqGaj5AwZAOyTdnEzSuo9w4hcB/kunWdk20TiEgR1G5zID9/lCELbc2TCmUYckpHVpOyCiEuVDpKiv/KucjuLA==;yu0nU24VQmeaLz1mU2AXfA=="

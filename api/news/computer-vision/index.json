@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-05-how-to-generate-submit-life-certificate-through-face-recognition.md",
+      "title": "How To Generate & Submit Life Certificate Through Face Recognition?",
+      "excerpt": "Every central government pensioner is mandated to submit a life certificate every year in November in order to keep their pension effective. Unfortunately, due to the COVID-19 outbreak, Central Government pensioners have been given an extended time limit until December to submit their life certificate online or in person at a bank.",
+      "sourceUrl": null,
+      "webUrl": "https://www.goodreturns.in/classroom/how-to-generate-submit-life-certificate-through-face-recognition-1232448.html",
+      "originalUrl": "https://www.goodreturns.in/classroom/how-to-generate-submit-life-certificate-through-face-recognition-1232448.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.goodreturns.in/img/2021/03/jeevan-parinam-inner-new-1616477341.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.goodreturns.in/amphtml/classroom/how-to-generate-submit-life-certificate-through-face-recognition-1232448.html",
+      "cdnAmpWebUrl": "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/classroom/how-to-generate-submit-life-certificate-through-face-recognition-1232448.html",
+      "publishedDateTime": "2021-12-05T00:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Goodreturns",
+        "domain": "goodreturns.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-05-clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech.md",
       "title": "Clearview AI set to get patent for controversial facial recognition tech",
       "excerpt": "The news comes as facial recognition systems are more and more widely adopted, despite a lack of clear rules regarding their use.",
@@ -1330,40 +1373,6 @@
       "provider": {
         "name": "Design-Reuse",
         "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.md",
-      "title": "CITIC Telecom CPC And ASTRI Partnership Expands Business Innovation Possibilities With AI-AR Integration",
-      "excerpt": "The key features include data visualization, cognitive object recognition and middleware enhancement. \"Fostering a culture of innovation and embracing intelligence are our core values and are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU2111/S00503/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU2111/S00503/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2111/S00503/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2111/S00503/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.htm",
-      "publishedDateTime": "2021-11-17T22:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
         "images": null,
         "publishers": null,
         "authors": null

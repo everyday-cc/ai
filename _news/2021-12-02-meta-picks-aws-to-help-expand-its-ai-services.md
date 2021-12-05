@@ -141,7 +141,7 @@ related:
   - title: "AWS Announces New Serverless Options for Three Analytics Services"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
     publishedDateTime: 2021-11-30T18:41:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
     type: article
     provider:
       name: Associated Press

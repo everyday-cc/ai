@@ -98,18 +98,18 @@ related:
         height: 697
         isCached: true
   - title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-    excerpt: "SEOUL, South Korea, Nov. 30, 2021 /PRNewswire/ -- Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was ..."
-    publishedDateTime: 2021-12-01T03:45:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global/article_8d56ac87-fd29-530e-be70-858a99697cbb.html"
+    excerpt: "Nota's NetsPresso is its proprietary hardware-aware AutoML platform that automates AI model development process only with datasets. NetsPresso significantly reduces time and resources that are ..."
+    publishedDateTime: 2021-12-01T02:54:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-301434615.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 11
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/65/56589c66-3508-55a4-9074-5d6ade084b55/61a6db942facd.image.jpg"
-        width: 800
-        height: 314
+      - url: "https://mma.prnewswire.com/media/1698783/image_1.jpg?p=facebook"
+        width: 797
+        height: 419
         isCached: true
 
 secured: "wpcGvYrJbM/FadIsKjp8hA8BbS4+NDMcVAmaufl1ZK23TVY1tWYojB/cERV+Xa7/WPIrOYgkHQAdL/6efj6AtqS5Q1BL9eC7InC+coy897Nv0rSiBxxa4IzljspJMUiOoDM6jihijeVry+B81zMPS0Q1GtG7BINiMsKFpSKuoQaaAKbslODch2oMPG/pTGM9vNBL4birsF29Wvyg3jncoJ9NhsAB1kR+JUWalsJpq2vbygQv/KCMVw6/aW2QYG37cOHv2/e4pTZBpTZ1crwnk9R7U5h3FYmNdVKoQ/nivaTdBcSjWOuLvhiZNId4LsxBMKy1pLtL5EbPk2WcRyccCgI7RmqC8DUDIUl5ALjqVlZcknlGCDxC78qWZno6gafcWf5xlzI6suBdVKVdIJ2xo8xZ1a2SZLP+kaQ872Kg5NZVx5WYKfCUH4ij1FslE6IpXd2qm2Ikg2dk/QbFqDZhNsVh4c59VrB0utxLgs/igb3UQp1lfVdGzOXXqzjVd3cGJp1+yaSXA7tT2d2OXDlp0w==;91imholKjOf6VGTHS/Z8cA=="

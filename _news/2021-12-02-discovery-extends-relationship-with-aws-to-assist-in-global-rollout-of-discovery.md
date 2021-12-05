@@ -43,6 +43,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Discovery heads to AWS for cloud transformation"
+    excerpt: "Aiming to accelerate its digital transformation into the cloud and enhancing viewing experiences across its TV channels, content giant Discovery has extended its strategic relationship with AWS."
+    publishedDateTime: 2021-12-01T18:24:00Z
+    webUrl: "https://www.rapidtvnews.com/2021120161673/discovery-heads-to-aws-for-cloud-transformation.html"
+    ampWebUrl: "https://www.rapidtvnews.com/2021120161673/discovery-heads-to-aws-for-cloud-transformation.amp.html"
+    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021120161673/discovery-heads-to-aws-for-cloud-transformation.amp.html"
+    type: article
+    provider:
+      name: Rapid TV
+      domain: rapidtvnews.com
+    quality: 59
+    images:
+      - url: "https://www.rapidtvnews.com/images/2021/Feb_2021/Dplus_discovery_10Feb2021.jpg"
+        width: 831
+        height: 333
+        isCached: true
   - title: "Discovery taps AWS to power rollout of discovery+"
     excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more personalized recommendations. “AWS provides the unparalleled ..."
     publishedDateTime: 2021-12-01T15:03:00Z

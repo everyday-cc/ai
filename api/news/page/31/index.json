@@ -2,6 +2,111 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-11-09-nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing.md",
+      "title": "Nvidia says its GPU chip is a giant leap forward for computing",
+      "excerpt": "Nvidia estimates that over the past 10 years, the raw computational power of its GPUs has grown by a factor of 1,000.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/07/NVIDIA-Cambridge-1_GPU-closeup-e1636399396836.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidia-says-its-gpu-chip-is-a-giant-leap-forward-for-computing/amp/",
+      "publishedDateTime": "2021-11-09T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai.md",
+      "title": "Nvidia’s Riva Custom Voice lets companies create custom voices powered by AI",
+      "excerpt": "GTC conference, Nvidia unveiled Riva Custom Voice, a service designed to let customers create AI-powered custom voices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/nvidias-riva-custom-voice-lets-companies-create-custom-voices-powered-by-ai/amp/",
+      "publishedDateTime": "2021-11-09T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-nvidia-announces-major-updates-to-triton-inference-server-as-25000-companies-worldwide-deploy-nvidia-ai-inference.md",
       "title": "NVIDIA Announces Major Updates to Triton Inference Server as 25,000+ Companies Worldwide Deploy NVIDIA AI Inference",
       "excerpt": "NVIDIA today announced major updates to its AI inference platform, which is now being used by Capital One, Microsoft, Samsung Medison, Siemens Energy and Snap, among its 25,000+ customers. The updates include new capabilities in the open source NVIDIA Triton Inference Server ™ software,",
@@ -1054,111 +1159,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-use-autogluon-tabular-in-aws-marketplace.md",
-      "title": "Use AutoGluon-Tabular in AWS Marketplace",
-      "excerpt": "AutoGluon-Tabular is an open-source AutoML framework that requires only a single line of Python to train highly accurate machine learning (ML) models on an unprocessed tabular dataset. In this post, we walk you through a way of using AutoGluon-Tabular as a code-free AWS Marketplace product. We use this",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-autogluon-tabular-in-aws-marketplace/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-autogluon-tabular-in-aws-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T11:42:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra.md",
-      "title": "Augment search with metadata by chaining Amazon Textract, Amazon Comprehend, and Amazon Kendra",
-      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). Amazon Kendra reimagines enterprise search for your websites and applications so your employees and customers can easily find the content they’re looking for, even when it’s scattered across multiple locations and content",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/augment-search-with-metadata-by-chaining-amazon-textract-amazon-comprehend-and-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T10:56:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

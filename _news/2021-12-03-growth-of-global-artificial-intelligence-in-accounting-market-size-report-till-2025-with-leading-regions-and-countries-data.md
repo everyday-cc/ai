@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/growth-of-global-artific
 webUrl: "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-in-accounting-market-size-report-till-2025-with-leading-regions-and-countries-data-2021-12-02"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -28,91 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI in Computer Vision Market Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast 2027"
-    excerpt: "Global AI in computer vision Market to reach USD 64.59 billion by 2027. Global AI in computer vision Market is valued approximately USD 12.6 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 26."
-    publishedDateTime: 2021-11-30T16:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-share-growth-trend-demand-top-players-opportunities-and-forecast-2027-2021-11-30"
+  - title: "Global Self-driving Taxi Market 2021-2025: Supportive Regulations for Self-driving Cars Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The “Global Self-driving Taxi Market 2021-2025” report has been added to ResearchAndMarkets.com’s offering. The self-driving taxi market is poised to grow by 56162.96 units during 2021-2025, progressing at a CAGR of 58."
+    publishedDateTime: 2021-12-02T16:09:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-94af2a132b674d21a7a8dde020927072"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Insurance Market 2021 Research Strategies, Trend and Future Development Status, Forecast by 2027"
-    excerpt: "MarketandResearch.biz has deployed an intelligence report entitled Global Artificial Intelligence (AI) in Insurance Market Research Report 2021-2027 that is the complete creation of meticulous primary and secondary research."
-    publishedDateTime: 2021-12-02T00:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-2021-research-strategies-trend-and-future-development-status-forecast-by-2027-2021-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "COVID-19 Impact on Artificial Intelligence System Market| Insights, Trends and Growth 2021 To 2026"
-    excerpt: "Portland United States The Artificial Intelligence System Market study offers a comprehensive analysis of the business models key strategies and respective market shares of some of the most prominent players in this landscape Along with an in depth commentary on"
-    publishedDateTime: 2021-11-30T16:35:00Z
-    webUrl: "https://www.openpr.com/news/2480268/covid-19-impact-on-artificial-intelligence-system-market"
-    ampWebUrl: "https://www.openpr.com/amp/2480268/covid-19-impact-on-artificial-intelligence-system-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2480268/covid-19-impact-on-artificial-intelligence-system-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 43
-    images:
-      - url: "https://cdn.openpr.com/U/b/Ub30852857_g.jpg"
-        width: 800
-        height: 371
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market 2021-2026: Global Size, Share, Trends and Forecast"
-    excerpt: "The global artificial intelligence in healthcare market exhibited strong growth during 2015-2020. Looking forward, the market is expected to grow at a CAGR of 42.3% during 2021-2026."
-    publishedDateTime: 2021-12-03T08:56:00Z
-    webUrl: "https://wakelet.com/wake/IgHaelmGd4xKI7s1MJmqj"
-    type: article
-    provider:
-      name: wakelet.com
-      domain: wakelet.com
-    quality: 42
-    images:
-      - url: "https://assets.wakelet.com/monomer/thumbnail/wakelet-socail-thumbnail.png"
-        width: 1080
-        height: 540
-        isCached: true
-  - title: "Global Artificial Intelligence Platform Market 2021 Comprehensive Research, Market Definition and Business Operation Data Analysis by 2027"
-    excerpt: "A study on the Global Artificial Intelligence Platform Market Research Report 2021-2027 is disclosed by MarketandResearch.biz. It consists of various section such as research methodology, market introduction,"
-    publishedDateTime: 2021-12-01T20:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2021-comprehensive-research-market-definition-and-business-operation-data-analysis-by-2027-2021-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ultrasound Devices Market Players Integrate Artificial Intelligence To Speedup Workflow"
-    excerpt: "Ultrasound Devices Market – Opportunities And Strategies – Global Forecast To 2023 The Business Research Company's Ultrasound Devices Mar"
-    publishedDateTime: 2021-12-02T20:20:00Z
-    webUrl: "https://menafn.com/1103293713/Ultrasound-Devices-Market-Players-Integrate-Artificial-Intelligence-To-Speedup-Workflow"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/02/EP_703f0image_story.png"
-        width: 800
-        height: 2000
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "B2N81p9LhvzJZHLExT2tU+V92+8FPEXb9hWuLZk9MKU9Te347SqEDV48DTKJH64nqdBLoIeHIhl0e7pvnOi00Ehjd5xbpuBpuzvIindbsNgw4WFHw01CTfUu8Nm/er3upvdbpWcesflq5oN6xzdK7AiybHjpesdBdcXd0HbHGl5lLoSGBg+7Up3+LseGASofK4kNvi46xUXw8ybj+XEKsrbydf3x2AX1BgU0ceg2qai8fwiLv1c6hTVDmFiUAxXyM3vG78eZ2KFz85pw2zpGe3igcoFqYyrnLP9CPWrlDMLomRROOn2nVH1rytja21y60v4eiaHs+w+frSs6ouwmUaUs1FvPq4vM1UHVQDtE10Y=;evaqM0i3gdIJYk4Ni5iJug=="

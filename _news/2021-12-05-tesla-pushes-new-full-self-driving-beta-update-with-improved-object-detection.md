@@ -79,6 +79,20 @@ related:
         width: 1024
         height: 783
         isCached: true
+  - title: "Tesla’s Full Self-driving Beta 10.6 emphasis on precision of movements"
+    excerpt: "Tesla's Full Self-Driving (FSD) technology update will be the 10.6 version. Tesla is focusing on three things with this update."
+    publishedDateTime: 2021-12-05T08:33:00Z
+    webUrl: "https://techstory.in/teslas-full-self-driving-beta-10-6-emphasis-on-precision-of-movements/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/12/Tesla-Full-Self-Driving-Beta-Hero.jpg"
+        width: 1600
+        height: 792
+        isCached: true
 
 secured: "AO2f3n6P+9AIyQnboUNpds4hF3nedq/YmRwPmWCnJYFuTmkaH1olks1mgQRKRDu0njxusuBk5dvrRqttU2mYM+ACm6Ej97IMv7cwFICa/A6t7N4y/NkOxx14F3Qzdp7Slf6Jfei0Ci+W2mAfuhXRYtMqt6BPbgLSxOSCsZY8Aan35V4/0paWo1rS5OmcWcOhDLXmLTAxCVzX3RjIqHNvx6Uua/c77K222Xg/vDFNiyXEb1ez9aX4PlIquWxdHn9l/o7xEfLtM/ZiQPaHQTV8ijPR57jkElGyWgNrq/RzEHHGuZsXjTm/TAehz1neLQ4NbOEptC/BYXIoLE3eieNFExKE2mpqa98cMvFsl6fiQr4i/unwWNAedIvRWtd5yUqxFjX+K/jWg3xjr/2P/bXKSIHuJk4ZaH4uct63Ip4Hyu/u7f7f3YAWfPuxbio0WcgU/fLcXiZX8Rt30dqn36y5QCL/9V9tfoeiVTpWVtP584TNhOxnFCne5+Mpsb+eoufbse0BdyhytPJCkjQpk4eOYg==;bc2evMGpSz1vcu7qedMejw=="
 ---
