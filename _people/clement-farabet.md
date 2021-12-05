@@ -3,7 +3,7 @@ name: "Clément Farabet"
 bio: "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI."
 location: San Francisco, CA
 type: "profile"
-heat: 65
+heat: 57
 
 affiliation:
   name: nyu.edu - Homepage
@@ -34,6 +34,6 @@ images:
     isCached: true
     title: "Clément Farabet"
 
-secured: "kxb/CNJ5faW2ZpxzPwQpGcZTPe3eSvPqBAaXQduEhxhJfd96tKOM5nhxRN1N6M3zGcK0np9jgpnGItLTc4B2TqvFRNFUGGO3gTJiQbCl4S9jWXPi8+amCnR82M7GNMYDhQyQ1h1zP1d1CtJ+nwOLgMPElmfgSXZoW0kbGyuI104xKhm8QrneT3vNIBSWxzsQ64zCVfu23F4cWgDLUVXOuLt5N1chhI0v8OcVXkwJlKY+oTFUdu5IUHsRFEfuj0n7ONqIriFUWmSz7koGbI8n29a1wJKy3RMpD6WsiOVTefu1BoUHZ7npNL0O/P2/6CEyG5ZLiOFrM2za/nhivWSow0i9mhaOedxC25P4pax616jR/9ubCmV7hlNOMGknmg4elpqWsVMCIYzzzQ+B8FxgEOlOHzhx6vIZkCLWIyZ71eM=;JI8ED6eaxVaRDY8Bm/Cpng=="
+secured: "HjPOiEie76XP1wjK05VwhA5s8bpI0qf+zRY+I4bzW+CNQgCejqHPrnUs2DLnRhl6W01giVksRZOHUN9cKdeUaYP9mVzVnqnweD3fqkrCZKj8J5Pvq8OYhJn0gX5BMGUb946hA62Gob6Lp+0tnANpK9B0WqAm2QBDj7RYX35NsWGqnB/xhXWqPMVsk3lIbYl7bI2N054VSHGGwiCx2JOgDyjPOAetFd9FWh35t1ol2woRr3w7/ou1QclTkAKxQ4k1tJY53MzVRSN34kvBYWYQl2nhNI//uByi1fKix64zOYRDaHyMa5XlMHQLEb7riKYu9POGNXgBSryeV5Fb7it+Up5nzCoL6PlfE2YgM0kMOx4TZZJjNGI6Qo+SaJvJ47qrtEJW/c7Uf+fAzyjDH40JaXIMYZ438rGmd2MnCDgHsa8=;u8yyBo51g2Ym0pJcDZ+gWA=="
 ---
 
