@@ -14,7 +14,7 @@ website: https://t.co/uy8OBWPHze
 twitter:
   username: NandoDF
   url: https://twitter.com/NandoDF
-  followers: 85797
+  followers: 85798
 
 googleScholar:
   url: https://scholar.google.com/citations?user=nzEluBwAAAAJ
