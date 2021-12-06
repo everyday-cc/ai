@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20211201/New-machine-learning-
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: News Medical
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning reduces uncertainty in breast cancer diagnoses"
-    excerpt: "A Michigan Tech-developed machine learning model uses probability to more accurately classify breast cancer shown in histopathology images and evaluate the uncertainty of its predictions."
-    publishedDateTime: 2021-12-01T14:12:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-reduc-1.jpg"
-        width: 1200
-        height: 2629
-        isCached: true
   - title: "Machine Learning Reduces Uncertainty in Breast Cancer Diagnoses"
     excerpt: "A machine learning model uses probability to more accurately classify breast cancer shown in histopathology images and evaluate the uncertainty of its predictions."
     publishedDateTime: 2021-12-02T10:30:00Z

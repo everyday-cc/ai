@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend
 cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
 type: article
 quality: 59
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -87,29 +87,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Discovery chooses AWS to power rollout and increased personalization of of discovery+"
-    excerpt: "Discovery is also accelerating its digital transformation and enhancing viewing experiences across its more than 450 television channels"
-    publishedDateTime: 2021-12-01T14:55:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/KM-In-Practice/Discovery-chooses-AWS-to-power-rollout-of-discovery---150311.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 32
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/141916-1200-by-630-personalized-viewing--307606049-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-    excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more ..."
-    publishedDateTime: 2021-12-01T14:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
   - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
     excerpt: "(NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud. As Discovery’s preferred cloud provider, AWS powers the vast majority of the company’s infrastructure needs to deliver its discovery+ on-demand streaming video service,"
     publishedDateTime: 2021-12-01T23:08:00Z

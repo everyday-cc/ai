@@ -78,20 +78,6 @@ related:
         width: 350
         height: 215
         isCached: true
-  - title: "Agnisys Delivers Novel AI Technology and FPGA Support for IP and SoC Specification Automation"
-    excerpt: "Agnisys, Inc.®, the leading EDA provider of the industry’s most comprehensive solution for Design and Verification of SoC Hardware/Software Interface (HSI), today announced availability of a unique AI-based approach for specification of assertions and a new product to support FPGA development."
-    publishedDateTime: 2021-12-01T14:23:00Z
-    webUrl: "https://www.design-reuse.com/news/51030/agnisys-design-and-verification-of-soc-hardware-software-interface-hsi.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 30
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage51030/ispec-ai.jpg"
-        width: 1328
-        height: 512
-        isCached: true
 
 secured: "mRbTsyXpb2fnJOhOgV0BxTvIAjhTPNzEtw5i++pJ+N54S33Q9y2MJe2J95NM21DsnYHjsjVA3ymCRM7rQDJpZZRzB1uv2I8RhdT8oHJl7xrwFS2KbTYr9Ow1Xc3hLGJNBg0i2hN5noiQ+9thMt3Cxi79u5oMOh/ds1jGSk9hLX4c1xgExbYmKoEBhuG6rsf2mr/5Y3h/3Ad7KfK7M6oVd6iSwtkwMVaZVD9/5BetfLXXJDQqTx3xZ83/SKksUkeC2St6WozDrpQI0RYs1NMYFBv0NdkUZNsPvXGurgtFsDhbbG2cLVnwTEDVPw1NTYhXhOnkTPpME/Rv9V03Q+M7/Y0YPs70/cgIrj3NYCgCrMEkwumkO82sHlndEeqo/GxrJiLba0A7nsR50FsqnnWjT9v2G79WkZnOzkzB1ZI94COABaTu+rVtTgLU8SP014b3M24yU1ov508N3XVz136vsz4CXISxG5ka6vrPZhEIjRidb2wZTrgQ4A3odMMjEhlNPKazFf0U0K0oLX0jEP28Fg==;azpDWvkJA4OJpcvLtX+edw=="
 ---

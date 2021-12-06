@@ -39,6 +39,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "This humanoid robot makes perfect human-like faces"
+    excerpt: "As robots evolve to do more work around us, the UK-based humanoid robot manufacturer Engineered Arts has infused more human-like facial expressions in.."
+    publishedDateTime: 2021-12-06T05:56:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/this-humanoid-robot-makes-perfect-human-like-faces/88117142"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/this-humanoid-robot-makes-perfect-human-like-faces/88117142"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/this-humanoid-robot-makes-perfect-human-like-faces/88117142"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88117142,imgsize-7866,width-1200,height-628,overlay-etcio/this-humanoid-robot-makes-perfect-human-like-faces.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "A New Humanoid Robot Has the Most Advanced and Realistic Facial Expressions Yet"
     excerpt: "Since nonverbal communication plays a role in building trust, scientists are adding hyper-realistic facial expressions to robots; meet Ameca."
     publishedDateTime: 2021-12-03T09:58:00Z

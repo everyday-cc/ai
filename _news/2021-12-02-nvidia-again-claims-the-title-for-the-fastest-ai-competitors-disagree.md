@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-clai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA Introduces Platform to Create AI Avatars"
+    excerpt: "NVIDIA is introducing a platform for generating interactive artificial intelligence (AI) avatars. See more here:"
+    publishedDateTime: 2021-12-06T05:18:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/nvidia-platform-ai-avatars/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 37
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
+        width: 1024
+        height: 389
+        isCached: true
   - title: "Cloud Service, OEMs Raise the Bar on AI Training with NVIDIA AI"
     excerpt: "Look who just set new speed records for training AI models fast: Dell Technologies, Inspur, Supermicro and - in its debut on the MLPerf benchmarks - Azure, all using NVIDIA AI. Our platform set records across all eight popular workloads in the MLPerf training 1."
     publishedDateTime: 2021-12-02T00:18:00Z

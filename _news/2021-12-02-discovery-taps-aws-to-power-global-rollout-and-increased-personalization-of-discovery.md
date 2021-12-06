@@ -95,29 +95,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Discovery chooses AWS to power rollout and increased personalization of of discovery+"
-    excerpt: "Discovery is also accelerating its digital transformation and enhancing viewing experiences across its more than 450 television channels"
-    publishedDateTime: 2021-12-01T14:55:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/KM-In-Practice/Discovery-chooses-AWS-to-power-rollout-of-discovery---150311.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 32
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/141916-1200-by-630-personalized-viewing--307606049-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-    excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more ..."
-    publishedDateTime: 2021-12-01T14:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201005136/en/Discovery-Taps-AWS-to-Power-Global-Rollout-and-Increased-Personalization-of-discovery"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
 
 secured: "bg5vLoPWxxNqJwB/A/axexRo2PHjbuUVbazqL+IQKpaVYUw5OGuNXTnNTur9llAKO0BT8ufArlZgdWTRjvJWmBzeH7x3HnkPv5zygT7kNO40LB/cMi17DSvSvbSYaGnUHvIOyvt/xGCZLsI8ZDb7SAc5XDGxf5vtdu05PtTGmTS9njwuH0DgoI8YSjSolaogtbvno0Ew8xyoLFeWuwe0WQw3521cQ+nZ6Hi6eRCa9IPE1w+wBL+5jnoyCGXGeaneh4TCtnJsop8uI8mxmiscfqjTlS9/PJ3q1B7xIIhJw9GkMvUXBmclH8/cdA4ymPThML4NCAiX3fWg8pbfxCT48c9HdtsnOtxJXNhsRTljeCM7+LIIe0i9E5HpRX8WjHJEmS5TkMCCrRLS2DfkqlzepeY85+J/YgVMmlOULeVkDfgsluS97ely+UDu465BHexwpXJrLGhWHQDRpLym3DIL077duj8wPqQl4Bi/qyYcMUC9ZbmSbSLGg80jvCCDEJVW44ykNYe3/25BrP5gQwEqaA==;3cQuzVDpDrPSmdHE7NhaNQ=="
 ---

@@ -72,20 +72,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
-    excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI)"
-    publishedDateTime: 2021-12-01T14:21:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/healthcare-artificial-intelligence-ai-market-size-to-reach-revenues-of-usd-44-5-billion-by-2026--arizton-301435270.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/818553/Arizton_Logo.jpg?p=facebook"
-        width: 798
-        height: 419
-        isCached: true
   - title: "Arizton Advisory & Intelligence: Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
     excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI) market report. The"
     publishedDateTime: 2021-12-01T15:30:00Z

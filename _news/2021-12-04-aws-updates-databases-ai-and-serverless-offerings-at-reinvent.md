@@ -150,20 +150,6 @@ related:
         width: 1079
         height: 720
         isCached: true
-  - title: "New AWS CEO Selipsky unveils new AWS services at Re:Invent"
-    excerpt: "While a few new services announcements were made Monday at the Global Partner Summit, the CEO keynote got the lion’s share, including ones like new Graviton3 ARM chips and related C7g Instance for"
-    publishedDateTime: 2021-12-01T14:00:00Z
-    webUrl: "https://channelbuzz.ca/2021/12/new-aws-ceo-selipsky-unveils-new-aws-services-at-reinvent-38067/"
-    type: article
-    provider:
-      name: Channel Buzz
-      domain: channelbuzz.ca
-    quality: 41
-    images:
-      - url: "https://i1.wp.com/channelbuzz.ca/wp-content/uploads/2021/12/AWS-Reinvent-2021.png?fit=680%2C298&#038;ssl=1"
-        width: 680
-        height: 298
-        isCached: true
   - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
     publishedDateTime: 2021-12-01T18:34:00Z
@@ -210,15 +196,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
-  - title: "Top news from re:Invent keynotes"
-    excerpt: "Invent keynote given by new CEO Adam Selipsky followed the familiar format and provided totally new services and expected updates to existing ones. No surprise that there were surprises! Adam took us back the 15 years of AWS from the beginnings of S3 early EC2 instances and important launches over the years."
-    publishedDateTime: 2021-12-01T14:09:00Z
-    webUrl: "https://www.publicnow.com/view/8CF5C818C46E1E5BA93DEDB7CA53D7D342DEED8F"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 4
 
 secured: "0prypI2sFY5daa8pV77vf4pb2nw4haXbuNY9TROys8FuWj2od1WyH0jpvO+1j/oCCs8bgUfOBV7c2gD0rl2dvw76dTJtuvuSaBvX/tF0AWe3o7PogUSAPmSf/WrDDNnh3wWwrp+R3fZOOEaz4WTcM5lL8jDQCMcMysxNGlKX6+HZFdcu5wao8n/GpHo5NRo/3YeAekUnVIi0+Ka0vDXmeQtH7xPli39d06kUhbxK2RrP84+g0VKEY787rgIw65Q7bekj03hzj7QZS6Bku00wYAunH78qTNRTm0bi522MM2JzvfU0r1jfJHxP4aqzeZlbzURJzNc0+Hbdlw/7GMaiGQ5eJQXIsFm+CkNjUVtC0xb4x2CFKPv04K4DNnoCphMYFITRlL/1WRhNbxEHy9k+Mximzs6pGyUGWKYTQbm8CFX6kC+X2O9yKyi8OhlDW6hCQN9ONwlc3tsj0b+u80Hz3UvmQhHFxHICl3ewjIMs9ZfefX3w/TF4cAJTRnqA3ImUojxil+4Ssn/upUrS7E1Wwg==;d95FXG9cFtM/2uz2VtME5A=="
 ---

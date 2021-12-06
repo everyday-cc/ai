@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Future of literary translation addressed during Korea Times award ceremony"
-excerpt: "\"In terms of translation accuracy, AI may be better than humans. But languages are complex and nuanced, and there are extra-linguistic factors such as context or emotional output that need to be taken into consideration. There's creative aspects of ..."
-publishedDateTime: 2021-11-24T07:44:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw"
-webUrl: "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw"
+excerpt: "Participants in the 52nd Modern Korean Literature Translation Awards pose during a ceremony at the Lotte Hotel in central Seoul, Wednesday. From left are Korea Times President-Publisher Oh Young-jin;"
+publishedDateTime: 2021-11-24T07:45:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/culture/2021/12/262_319395.html"
+webUrl: "https://www.koreatimes.co.kr/www/culture/2021/12/262_319395.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 653
     isCached: true
 
-secured: "B3uFzO+2EF58jyJiUaiAhf/cUFd54MONpXajD/Ok0hxWa/3E+FGI714WihzONVngPhnpHqelEVUbGRQUSz6ISgF7tLjvRJOD0G62umY1Eu7tmv0/QO1CIxFpDdQyJ0uGE7bwDEqW5U+B4gq7KYwxTfqvwoXlwFoR5/w1nhwnGaGwr1evUw4MjNA1+u6wPfmeLk7xjLVbtQg5n6WezdPq5IdzY7tDSk0phcTCDK1fDvDlla9OsHogZD6EOqCjUZxNz4EGYjwrD+b7l0s7S3ao+IEFWWqDE3qMW92BvqEHVQ4jjZKbKG65eWBh+6v92HsLbalUeKV4gCrbUeIX6m0dr8vVEUVYd2xcaaGzCjLJE1A=;7GBbnbpvuv0ljS/A2W6eXA=="
+secured: "JBji03tr+Y31+YIFECm9FCQTkwD+13Bb4KbFyV4K6+gI2U5Nw2DUIPZzFdlTdMlf3csZHzVOl8U215lu6mmU+wcj7+8wAOLDXoO6WQxvYJFiZAm1nNsAST5BpaFlRKzsDVa+Xs209ylfLHzPox0gB0cQwpeZYQI5KgHjTKbd3cU26VaxT8i9l+SMm2SPs+kKF0npwKCQJbbW+MkxnWUS6/PLDIkaLkp2YGutqos/8wTmzcu6XvzcCeapPUxpk1wWkeGs+vyR2f5EUantwHbDOATqYWwgawmgz4OujLdGC9S3Z1AqAcJoL9qrDnPDCn4AyRopAcDtinIeiqCKRw52kRAawr4U1mISB/PUkM4aNHQ=;TGdgZpJ0zHpEeLkbGVxJoA=="
 ---
 

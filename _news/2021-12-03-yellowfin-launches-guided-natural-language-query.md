@@ -25,22 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "A Golden Age For Natural Language"
-    excerpt: "The last three years signaled the beginning of a golden age for natural language processing (NLP). Here are a few promising companies emerging in space and why this is all happening now."
-    publishedDateTime: 2021-12-01T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/louisaxu/2021/12/01/a-golden-age-for-natural-language/"
-    ampWebUrl: "https://www.forbes.com/sites/louisaxu/2021/12/01/a-golden-age-for-natural-language/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louisaxu/2021/12/01/a-golden-age-for-natural-language/amp/"
+  - title: "Users can now ask data questions in plain language with Yellowfin’s Guided National Language Query"
+    excerpt: "Analytics vendor Yellowfin launches Guided National Language Query, leveraging natural language processing to enable anyone—regardless of skill level and expertise—to ask data questions in plain language and receive answers instantly."
+    publishedDateTime: 2021-12-05T23:19:00Z
+    webUrl: "https://itwire.com/business-it-news/data/users-can-now-ask-data-questions-in-plain-language-with-yellowfin’s-guided-national-language-query.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: ITWire
+      domain: itwire.com
+    quality: 25
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F619d98cfa48a446f44ac5b85%2F0x0.jpg"
-        width: 1200
-        height: 920
+      - url: "https://itwire.com/media/k2/items/cache/850e8e5dfb78b38a07e59435ba9decf0_M.jpg"
+        width: 375
+        height: 281
         isCached: true
+  - title: "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone"
+    excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone — regardless of skill level and expertise — to ask data questions in plain language and instantly receive the answer in Yellowfin."
+    publishedDateTime: 2021-12-03T14:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-australia-1af6996d1dba4ef797f6d679a2f7a0d3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone"
+    excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), lever"
+    publishedDateTime: 2021-12-03T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211203005015/en/Yellowfin-Launches-Guided-Natural-Language-Query-Making-True-Self-service-Analytics-Available-to-Everyone"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
 
 secured: "+M9Rv0lun+3RXhTNYzEZjPZZZW7hiEfPkdWUQjqcZzethqyhONeie8fdrq6MNwn+FWs0vYDBqlngEyFoo6MkA3q/qbSBIPK38p2HttZDG+3jIg1h8yJwL5DS1wxlZ7AgqK+CtNKEY283Wo8lAWwVT014r/g8CfM+5X9A4jHlT3uWD+2fi9HQa70VBLjBpwUoLoTVpwyW7CAO/iv2Sm+vNNPB594UWR/BGaV+q4yZ2zKCBPL1y1YzBL2VvYB6CamgGyeKFhedsI/tWjLM6VBnGqEN8m0RTKaYPev/ULm5VeYXxJPShl2kYgb53D8RTfareKCJ0WmtexolW3P93OUgo2s/MUKoLuh92BFmJU5oos1bzimF6YlXbw1RGKkJBDbEYuCj+FvY0GaD3e1IvCv9PkqfVunzTnQNxobnlw7lstPoBUiQJgwge7yIJeSETPtQeetNqMYfjRcjKQmNHjbixolYJvg90l8/aG6VS09D8ogjQakpuCmb08iuZhnydVvj7yw9R0UxR1qmivS0sGTPQg==;UDW/wWj4y7e+DVRskyrAPQ=="
 ---

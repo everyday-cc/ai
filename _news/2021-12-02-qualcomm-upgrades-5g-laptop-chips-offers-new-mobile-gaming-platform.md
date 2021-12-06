@@ -138,15 +138,6 @@ related:
         width: 640
         height: 353
         isCached: true
-  - title: "Qualcomm adopts Google Cloud neural architecture search for AI Engine"
-    excerpt: "Qualcomm and Google Cloud agreed to work together to accelerate neural network development and differentiation for Snapdragon mobile, ACPC and XR platforms, the Snapdragon Ride Platform and Qualcomm's IoT platforms."
-    publishedDateTime: 2021-12-01T14:43:00Z
-    webUrl: "https://www.telecompaper.com/news/qualcomm-google-cloud-enter-collaboration-on-neural-architecture-search-for-connected-intelligent-edge--1406171"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
   - title: "Qualcomm unveils new chip for Windows PCs"
     excerpt: "The NPU in the chipset comes with 6.5 TOPS of AI compute power which is an improvement as the NPU in the predecessor has 5 TOPS. It supports 5G (sub-6 GHz and mmWave) and the Snapdragon X65 5G RF ..."
     publishedDateTime: 2021-12-02T12:58:00Z

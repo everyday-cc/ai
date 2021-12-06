@@ -138,15 +138,6 @@ related:
         width: 640
         height: 353
         isCached: true
-  - title: "Qualcomm adopts Google Cloud neural architecture search for AI Engine"
-    excerpt: "Qualcomm and Google Cloud agreed to work together to accelerate neural network development and differentiation for Snapdragon mobile, ACPC and XR platforms, the Snapdragon Ride Platform and Qualcomm's IoT platforms."
-    publishedDateTime: 2021-12-01T14:43:00Z
-    webUrl: "https://www.telecompaper.com/news/qualcomm-google-cloud-enter-collaboration-on-neural-architecture-search-for-connected-intelligent-edge--1406171"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
   - title: "Qualcomm upgrades 5G laptop chips, offers new mobile gaming platform"
     excerpt: "Qualcomm is continuing its efforts to expand beyond the smartphone market with new chips to drive mobile gaming devices and computers. At the Snapdragon Tech Summit, the company presented the Snapdragon G3x Gen 1 Gaming Platform and the Snapdragon 8cx and 7c+ Gen 3 Compute Platform"
     publishedDateTime: 2021-12-02T08:15:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/amp/"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 480
         height: 400
         isCached: true
+  - title: "AI could help doctors make the best use of ICU beds during the COVID-19 pandemic"
+    excerpt: "New technology could help doctors make the most of limited resources during the COVID-19 pandemic by identifying patients who require intensive care unit treatment."
+    publishedDateTime: 2021-12-06T05:08:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936861"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 12
 
 secured: "esSmYh4O6gmul0vYFwnOmwkgTrgmiO+LbrO6yEvQLl381h3W/zU+WmaMjaag0nZOG7OEAp6W1OKIzE62ZV5y0zWIAV4993igumb7IPVDeAxqHRG2dLPE/w8+mM/nKKZ9oOD5+NJJpNCVcG9kUaLtvDcvNyafmGty+i41553j4bPr9dKGyHt/yHgMXF/yjH4sVqaTH/WNhkzd4tR+tZyPk5T2YQYy/N47hZQ7Z/IxclN1CHeqZTwr859xJn6Ct3keywLo+T50t3cKAulaGaqGuT86in8PiB2q5VlFi2MbrEH1gQIdl+mPODgKsn9V4EosmnxysXjQuLSnJ0IQogKQKcxZyg3CZWMSbO3zcpzVTvIZjwECb/dYzzPVJuytnnqZHvmgkdnfhaQIuQJeNPL3rqi0h5HyF6cgr2pXIqMfdl/NBQ9OF5f4oBEGsgkI0O1Za1rWBe0ck52mb6Jd3DjuMcZWKIrq4Hy6RJFmK8a0IO/k8N+M9pwEiTfz7xSKJ1apYYMQUX2m3VV4d3LsGkbUWw==;k8lKYnJnPxNaSdouaWINNA=="
 ---

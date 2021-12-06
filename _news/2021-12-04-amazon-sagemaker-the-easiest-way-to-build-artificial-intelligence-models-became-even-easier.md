@@ -186,20 +186,6 @@ related:
         width: 300
         height: 219
         isCached: true
-  - title: "Qlik Beefs Up Machine Learning Capabilities in Qlik Cloud with Amazon SageMaker"
-    excerpt: "Qlik is deepening its partnership with Amazon Web Services (AWS) with the release of an advanced analytics connector for Amazon SageMaker and integration with Amazon SageMaker Autopilot. These integrations increase the breadth of advanced analytics capabilities already available in Qlik Cloud,"
-    publishedDateTime: 2021-12-01T15:01:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Qlik-Beefs-Up-Machine-Learning-Capabilities-in-Qlik-Cloud-with-Amazon-SageMaker-150310.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 52
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
     excerpt: "Lightspin, the multi-layer cloud security platform that prioritizes and remediates critical vulnerabilities across hybrid cloud and"
     publishedDateTime: 2021-12-02T13:30:00Z

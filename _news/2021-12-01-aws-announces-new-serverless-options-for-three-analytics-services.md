@@ -2,26 +2,25 @@
 category: news
 title: "AWS Announces New Serverless Options for Three Analytics Services"
 excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,"
-publishedDateTime: 2021-11-30T17:41:00Z
-originalUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
-webUrl: "https://www.register-herald.com/region/aws-announces-new-serverless-options-for-three-analytics-services/article_4914b052-192c-543f-8def-dfdd7468f121.html"
+publishedDateTime: 2021-11-30T18:41:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6"
 type: article
 
 provider:
-  name: The Register-Herald
-  domain: register-herald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Finance
-  - AI
   - AWS AI
+  - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300"
-    width: 320
-    height: 300
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "n6XfAG7nsNr830+tPZUK3byB1akID5cb/xXzFWQ8GrH8HI/3LW/v5a0NPJkBmK1aW+r6s1Zq8d3yVsdqKjZ/Q4siyYxpnbo6VfYjaCdZdD6o8vwt65cVH+nZ6HJMuP3gkWi1OipyioYKu1QR0PF4sfEdfDvwjGjUrkZVMGtP7pbj7KF9YyN/b4m3wz1nyromuQG+8Dr21fN/JopYsvYI1lAf6j8xY/X5R+/40cnLl4WUNhecYQcjfui0b7ZXzBvFHtWX4KV5dCldHVriC2yZuJk1NrKTH0JgXFqMdjHCiw+i8MAPaOZMyixOJO+UO0s4q354HeNA57viBOlkpXSp6+Iwey0lR1G7pffwpkYjkTk=;1rz8vwzAP31E3Fua/SBErA=="
+secured: "YRgiunzBlfsIbhxYJ8LEbmo80ghn1WzVw1uNuxQIQPjiK8zbd7BSNgff6o5+Ao/PaH8Q4ArIckPjxvevvFidv4yuLjA2T4N0iipbGl+I5sqQtSf/tS6R7GR7XhffY54wKt1FJ8QaSoFbEVXw0Z/P+aF5p9yN2WxrDn9LiPcfBCtdw6p7YteNydoydYiVcYYwCQ7V9+t0hQM7PSbc+gqByZ+8FxBJCq+EwAqifOoTjGdnEBL8oRA6C5MkRZ/ocVGMh4AwTX4In7cF2+aWY/W76qnJEz3LroB1DZAAPzABP6yPRxXQxaCb1D2NjUydRz2LwgjKNYyKccJMaR2/pDYRA3wW733hAPTodGg4asrt0o0=;p2nC9zkphvOjC8XqeBNfzQ=="
 ---
 

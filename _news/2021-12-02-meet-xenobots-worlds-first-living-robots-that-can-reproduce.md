@@ -9,7 +9,7 @@ ampWebUrl: "https://thelogicalindian.com/amp/technology/xenobots-worlds-first-re
 cdnAmpWebUrl: "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326"
 type: article
 quality: 59
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -187,6 +187,29 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "US scientists create world’s first-ever living robots – and they’re now able to self-replicate"
+    excerpt: "US scientists created the first living robots, called xenobots. Now researchers have discovered a new form of biological reproduction – xenobots can self-replicate – in a way that is unlike anything seen in plants or animals,"
+    publishedDateTime: 2021-12-06T06:01:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/06/us-scientists-create-worlds-first-ever-living-robots-and-theyre-now-able-to-self-replicate"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 27
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/12/06/1394599.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "World's first living robots created, and they learned how to reproduce"
+    excerpt: "A team of researchers has successfully created the first living robot that has recently learned how to reproduce in a new way."
+    publishedDateTime: 2021-12-06T06:04:00Z
+    webUrl: "https://www.tweaktown.com/news/83168/worlds-first-living-robots-created-and-they-learned-how-to-reproduce/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "w5q2t9JKG0dk6spU6ZK9d77nxGfked2YzHX4WHfUjDEcTkOgMI57YvFUHSxFvSd1IqaDK/OMJRjfvgF8H4llHbKW9K6zIXqcFSs9KeRgPkHiXBY2QQZepWO3h/3+1Q2BsYSR19J9JB1p2SqWRq548jJ4VDsQ5GSISBT5qWOZkiBcK/lZVQaVSPV1E5O0jEpKQdNSCVa/FsgyqU4Je4sRvK+7jwuqNUanDMIi37RkpK/GxxdKI2ZLlEQBpHMwwLIH4cFxczxnhI42kIC+HOWpwEWjqDdZi7p6ejM4ZOI8/Z1fCpITNMsIMjO0T4AKR5muWi/WDcDMlYOHrD1RhDRP+TxE2Wi6BIAQNxgo3VlxDVc=;JTEGaLEvTvFq/S2uigFD6A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/evolution-of-crestas
 webUrl: "https://aws.amazon.com/blogs/machine-learning/evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch/"
 type: article
 quality: 118
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta, AWS expand partnership, aim to enhance PyTorch adoption"
-    excerpt: "Meta is selecting Amazon Web Services as its long-term strategic cloud provider as part of its hybrid cloud, integration and PyTorch strategy. The partnership has broadened the existing relationship between Meta and AWS over the last five years."
-    publishedDateTime: 2021-12-01T14:00:00Z
-    webUrl: "https://www.zdnet.com/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 103
   - title: "AWS Announces Custom Lenses Feature for Its Well-Architected Framework"
     excerpt: "AWS announced AWS Well-Architected Custom Lenses, a new feature of the AWS Well-Architected Tool. With this new feature, customers can bring their own best practices to complement the existing framework based on their industry,"
     publishedDateTime: 2021-12-02T13:19:00Z

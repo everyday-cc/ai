@@ -50,6 +50,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 28
+  - title: "AI could help doctors make the best use of ICU beds during the COVID-19 pandemic"
+    excerpt: "New technology could help doctors make the most of limited resources during the COVID-19 pandemic by identifying patients who require intensive care unit treatment."
+    publishedDateTime: 2021-12-06T05:08:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936861"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 12
 
 secured: "X2MafzH3TLYORou+8E6tOSBoqoeYe7OngmWlRo62jHAqPhB2jaVQWoQGuUtNx7/M9fetLQXbrXgDqDjttxYjDgelZuFCa+dlWyAwEDSvfLsxRt0W2QeOL5H/oONVVFHqeJ+DoLCZU9l9uwAuCTzLc8wFbz/Z8e9NPP/17fc/wSrDXf9qpKpLnCxGxtzQmaTNAoaolzpBNaAWwXe39XeRNsMjfVRSP2XqK1elSwJMCyx++5az46FAnAHGKoNXU7UOJZbZmMT3sED6hmbaT+m075JooKJtQf3YCRnXTvnkGZu+C/68iqwWQVgoEa+vnOUF/U4SuNpq/mPzEqj2xPNqygL5gUoRkbJo9E4mgr3E8wE=;aywI5p2QSy6kA8bnqfgZRA=="
 ---

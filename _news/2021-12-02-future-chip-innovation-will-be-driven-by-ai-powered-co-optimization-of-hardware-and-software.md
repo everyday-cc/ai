@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/"
 type: article
 quality: 93
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12637_16384507321308025.jpg"
         width: 350
         height: 215
-        isCached: true
-  - title: "Agnisys Delivers Novel AI Technology and FPGA Support for IP and SoC Specification Automation"
-    excerpt: "Agnisys, Inc.®, the leading EDA provider of the industry’s most comprehensive solution for Design and Verification of SoC Hardware/Software Interface (HSI), today announced availability of a unique AI-based approach for specification of assertions and a new product to support FPGA development."
-    publishedDateTime: 2021-12-01T14:23:00Z
-    webUrl: "https://www.design-reuse.com/news/51030/agnisys-design-and-verification-of-soc-hardware-software-interface-hsi.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 30
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage51030/ispec-ai.jpg"
-        width: 1328
-        height: 512
         isCached: true
 
 secured: "ZIFv/uKR+C2deDFzEFOj7p5qBn2MLgL8nIiIwR+qNk0ju04794mzD+ddoA1n83Wu46bjEdIp7JnjIbP7dFExIMXYJ+1egYChZquotKPlxAND3twk+IuaAtxbEj/XXMcuUZtc8SPCbNSk75QsZnUwTp/yd+eckyOJBJwkv6s61FOcdSIqNQuhuJrStAujOaj5V4CaINd++Xyk2b77xUNE5LT0FkRFj+ZZpoKMkUe3q/G4WDZ99wj7pWmpCT1/gsGYjGhKOs7FQkbbEu0LXOJB49nYL+rSZhrNh39xq/+8nUh3l9G6/N0xdC8jDbaL7MTMZbCNBkkGlSyHO/AciMg+ueHx03UGRORXJkFTCDKmt/3l8LGrfS2ElZ4XNiRx12ZmydAWlB/2g9dQeftV5MIBmcnJ0n0k+4EkoAl21+z+xqaHRUbS2O6xaboNxlL2M+KaFtXeOHXPtbtLtMQoJ4uKne9ejxONKsTbP+dh0noAtOtesIgXQDUJT8F6dm7t0PJ6/wiu5gBersClxiny8hxc4Q==;fgpFltENzIyOZKU8sVi3GQ=="

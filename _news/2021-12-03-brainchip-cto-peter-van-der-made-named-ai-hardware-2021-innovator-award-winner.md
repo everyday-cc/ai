@@ -1,29 +1,23 @@
 ---
 category: news
 title: "BrainChip CTO Peter van der Made Named AI Hardware 2021 Innovator Award Winner"
-excerpt: "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BCHPY), a leading provider of ultra-low power high performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,"
+excerpt: "The AI Innovator of the Year award is given to the industry’s leading and most accomplished individuals to commemorate the backbone of AI progress. With the development of BrainChip’s Akida neural processor,"
 publishedDateTime: 2021-12-03T01:07:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-brainchip-holdings-ltd-93df8a28aa924b1993b109550ba4423a"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-brainchip-holdings-ltd-93df8a28aa924b1993b109550ba4423a"
+originalUrl: "https://www.financialbuzz.com/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner/"
+webUrl: "https://www.financialbuzz.com/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner/"
 type: article
-quality: 50
-heat: 50
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "BHwDKQMUpDxfRpsJOi+2+SXj//NMhREyr0n9pckVWGj/4V+HEc3IXPYMKFvgSp40GR6QBlCQPmgLYlEg/x1O5W1R4nr1IdLKU61QKZY+04lmNHvzNnIrzVectw4LvCS4KZ83HlMsEKLWSABIztN2Eq9Hqp0I8/GAHLyHnpvhXSPU4WHfwBKpntL3zva49tyKDcmRtxuF+paRcA18//HhiX8moDKG7Hfkvh4qKxdkrN96Y6il5gXdzadBdjcAACztPL8SZPNflt+bnhxPSFR8RZaZ0SzS3BlYkRg18k5+SWBOjWrttO+j7oS6FaZOc3ZIl76lGlTq94ahesxpzdQwW1m+q2BhZYteNxcT2Kycmig=;A9SUPqCagMN00hUJbK1XLg=="
+secured: "TNG8CWEX7utL6DkYGOMwRp65qELlMP0dDV5EcLvZLrvE662rcolp0o05cJfSNRPorkxol3tctcsqlRESCYWOK+xyp99oipdOSYNsqPzEZ258f434KPtS1isalF66w1NC31A1CCwV1EJQQFoBep6jeRqK8VYKQRUuDWwlI7Dvp0+0+aKwVAdcbVynPHYM21qPIQZrySHRDZWtSw01jzmZRnjrLTnhJz7BP1PGO9g6xlJjRI+MRihM8YmvkneeRJzpePIUnr5dTLmwwvWA92pd9PBWvhcN4ZaKbf2HD73GcOga7LVjkHsK3POK/j9p5Ee9RgoL2c/xsDohcJ9nDrLe2vxAm+p8cVm6P5vQKwfN2S0=;OTLdh7U0ie7ntfMhgIfo/Q=="
 ---
 

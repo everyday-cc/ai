@@ -65,20 +65,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
-    excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI)"
-    publishedDateTime: 2021-12-01T14:21:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/healthcare-artificial-intelligence-ai-market-size-to-reach-revenues-of-usd-44-5-billion-by-2026--arizton-301435270.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/818553/Arizton_Logo.jpg?p=facebook"
-        width: 798
-        height: 419
-        isCached: true
   - title: "The Role of AI in the Global Healthcare Market 2021: Rising Utilization of Robots for Surgical and Rehabilitation Procedures"
     excerpt: "The global AI in healthcare market is forecasted to record a value of US$22.68 billion in 2025, progressing at a CAGR of 35.59%, for the duration spanning 2021-2025. Factors such as rising utilization of robots for surgical and rehabilitation procedures,"
     publishedDateTime: 2021-12-03T10:41:00Z

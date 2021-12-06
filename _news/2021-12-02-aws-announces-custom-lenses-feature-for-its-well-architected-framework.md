@@ -39,17 +39,6 @@ related:
         width: 782
         height: 630
         isCached: true
-  - title: "Meta, AWS expand partnership, aim to enhance PyTorch adoption"
-    excerpt: "Meta is selecting Amazon Web Services as its long-term strategic cloud provider as part of its hybrid cloud, integration and PyTorch strategy. The partnership has broadened the existing relationship between Meta and AWS over the last five years."
-    publishedDateTime: 2021-12-01T14:00:00Z
-    webUrl: "https://www.zdnet.com/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/meta-aws-expand-partnership-aim-to-enhance-pytorch-adoption/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 103
 
 secured: "r0tFgU2MyNieJjPcnJcUTWgii6nY/rdZEWAcsF2BcHleLsyMOLGMK4WL5YT/p2sOY8POrwOz9RcDR8It3O7qZjGC47QOywi7JLthCRTB1f5cpYqQfEuRHR2wUDAQ27M224+Jo2pEc7sFS1oNpO9DeHb4VyRyUXb0KHnC0ZoGWI2XNs/Af+2bY2zu/XMmL+m/68OTeE/pF2/AWH8nrG9Qa+aOxuhArpOTq42l0DJTz1dqWdcsYH9uN34HumQvldLvme22WsIDU8BtFx9Ngs55vyOPi6LGMdMGIdvQALQJyh7X5WBYZgfmbV+BJRK6VuMW1G27CfcvQ72Ta/G3TXWcCCgerUz5fQPucAf3Wcy0aDE=;ZVi9kKQp34+4fTG+z4jUbA=="
 ---

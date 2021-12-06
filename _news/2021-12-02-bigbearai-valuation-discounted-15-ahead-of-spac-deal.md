@@ -23,17 +23,6 @@ images:
     height: 1067
     isCached: true
 
-related:
-  - title: "BigBear.ai Wins First Place in NAVWAR's Artificial Intelligence Prize Challenge"
-    excerpt: "BigBear.ai, a leading provider of artificial intelligence (\"AI\"), machine learning, cloud-based big data analytics, and cyber engineering solutions, today announced that Naval Information Warfare Systems Command (NAVWAR) awarded BigBear."
-    publishedDateTime: 2021-12-01T13:14:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bigbearai-wins-first-place-navwars-artificial-intelligence-prize-/2021/12/01/9502428.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 28
-
 secured: "7mBeodW9yl2ii9OPxkwXgcBKSUYl/ry5LTEnsEHErEuXw6mDzK/gfJ7b7OiGA1dqoP9nETkjVxDfahGGT3JUSjb7i3KRpSqyyYMWyjWNPk9O65LB+/GQEARiuYLNay3eL9Bq9d2cEsT227Ayr8UMryRBj3NY8AENh10qnGUlAGqW46b2q2k+Z782F45fQhCaj85aXP5NaTytjzKxHJ+9cPsW2XGFKz/gBdgUM2KwAM+bC+JVwofg4UYp0fKTp0Qum7x2C8oE2HGp15vTOeOmuKjO8z4dSkcNUh/r8baqTOYbhqLkKvNsR7GOPKSGE5pEFowb3SyIRJJD+Ad4fjWqU732UxsbCSqMc/ivO4ou1hUzpRS0f6epdB1PQEOnHqsoI60t2YcFoLIrCJcSEVZdGVppjxO1AnlflGJLDvP2Tj7mmcGMwIvXLDuk0nPhdffjvcgDeq5pFqn9JW+WwryqLkzHMowRdipgo2n1rFtsphXZuVCxlWSIeyUCj/l/vWAy1GM3BeT/wAzIPrQh5zjTBQ==;egyOwLsFnqCaM257F7sY7w=="
 ---
 

@@ -153,20 +153,6 @@ related:
         width: 1079
         height: 720
         isCached: true
-  - title: "New AWS CEO Selipsky unveils new AWS services at Re:Invent"
-    excerpt: "While a few new services announcements were made Monday at the Global Partner Summit, the CEO keynote got the lion’s share, including ones like new Graviton3 ARM chips and related C7g Instance for"
-    publishedDateTime: 2021-12-01T14:00:00Z
-    webUrl: "https://channelbuzz.ca/2021/12/new-aws-ceo-selipsky-unveils-new-aws-services-at-reinvent-38067/"
-    type: article
-    provider:
-      name: Channel Buzz
-      domain: channelbuzz.ca
-    quality: 41
-    images:
-      - url: "https://i1.wp.com/channelbuzz.ca/wp-content/uploads/2021/12/AWS-Reinvent-2021.png?fit=680%2C298&#038;ssl=1"
-        width: 680
-        height: 298
-        isCached: true
   - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
     publishedDateTime: 2021-12-01T18:34:00Z
@@ -204,15 +190,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Top news from re:Invent keynotes"
-    excerpt: "Invent keynote given by new CEO Adam Selipsky followed the familiar format and provided totally new services and expected updates to existing ones. No surprise that there were surprises! Adam took us back the 15 years of AWS from the beginnings of S3 early EC2 instances and important launches over the years."
-    publishedDateTime: 2021-12-01T14:09:00Z
-    webUrl: "https://www.publicnow.com/view/8CF5C818C46E1E5BA93DEDB7CA53D7D342DEED8F"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 4
 
 secured: "3wzLg27VtpidaNV67mdK9lgKTiEQsv4XeO1uh09UaN40+PE9RqTLCUCeiIhQxVldkCwWHoGAXS/0JBHr/xljf3PaKfk7IkC638BypO8GllpcOc2RYJd0gGDBOsMQi+msJfbW+IVviD+A8sBuynKYcsv2avN+k8l3Lf833RO6MBqcKlBxuEO4D6ajsnzZOwIaGaUZzOaFaqZYLSkai3ZoCPLap1wbQ/iTM9R0rz11gTHPOzQQ+JJLj75Y6GA6zKx0Y3zwdxZJB4kAwjrzXWri6nhKdCEwZjaz4hoBHGATkGRd/6LgI9GoFl5dEiFR0ieo7tiZdwHi/dDAsuNlPIaYHWBKIFijzdW8b1RGgfRHBhs=;jIpHpvbVgxC0IaHVp2wIWg=="
 ---

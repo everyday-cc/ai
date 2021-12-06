@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-an
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
 type: article
 quality: 125
-heat: 265
+heat: 245
 published: true
 
 provider:
@@ -152,20 +152,6 @@ related:
         width: 1079
         height: 720
         isCached: true
-  - title: "New AWS CEO Selipsky unveils new AWS services at Re:Invent"
-    excerpt: "While a few new services announcements were made Monday at the Global Partner Summit, the CEO keynote got the lion’s share, including ones like new Graviton3 ARM chips and related C7g Instance for"
-    publishedDateTime: 2021-12-01T14:00:00Z
-    webUrl: "https://channelbuzz.ca/2021/12/new-aws-ceo-selipsky-unveils-new-aws-services-at-reinvent-38067/"
-    type: article
-    provider:
-      name: Channel Buzz
-      domain: channelbuzz.ca
-    quality: 41
-    images:
-      - url: "https://i1.wp.com/channelbuzz.ca/wp-content/uploads/2021/12/AWS-Reinvent-2021.png?fit=680%2C298&#038;ssl=1"
-        width: 680
-        height: 298
-        isCached: true
   - title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
     publishedDateTime: 2021-12-01T18:34:00Z
@@ -212,15 +198,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 19
-  - title: "Top news from re:Invent keynotes"
-    excerpt: "Invent keynote given by new CEO Adam Selipsky followed the familiar format and provided totally new services and expected updates to existing ones. No surprise that there were surprises! Adam took us back the 15 years of AWS from the beginnings of S3 early EC2 instances and important launches over the years."
-    publishedDateTime: 2021-12-01T14:09:00Z
-    webUrl: "https://www.publicnow.com/view/8CF5C818C46E1E5BA93DEDB7CA53D7D342DEED8F"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 4
 
 secured: "13xabmWbNM5Pa/QpG4Z0eczB65IMKHbp+MLIyV462XBS2OQ/5nr0fycqX3HxUVk1UyMnzN+iKAva24Pz16Sg5F01VZ92oFgB4ABgs3RBtpQMP6zMTEmddywOCU3r5v/tfnH1Ak4LmeGJI5VglhjhIZC6wntD9gkmKbii+IN0RnBuWZBGKCvPzSaNcR4YfPpONgBi1jRhuyCriCFWrvgH797a16L1B4eufM2p80pbgJIDXDr0NRZ3YNA7kwIqIpQyb5Sne0SotWS+Jx/bI9FM8XBSp+ZC/ZEL045zSqE295Hc23Jsv9qflt7QMCMCgldtl/2ZU4a/omgdmMucPLIfhpv/VPUUr5jlEKbm5LZBuoubCXDw0C6TUMjATF35hfcKRPPtZjqf/Z4gSjoDW1KPd+0eIEzSylTEb+5WhW2IbZmDES5lRhVoSpuGcCNJKlNegwqpfVVN1oMtMDMaoI5iMrBroqrtz2QVUB/5sDg6nlUxnO2d67DmkICq76kbpkcP/QZo3i/fiEdmPvHL/3Ervw==;Juu6r5gpFO4rqfjVWIoXIw=="
 ---
