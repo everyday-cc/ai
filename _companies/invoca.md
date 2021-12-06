@@ -2,7 +2,7 @@
 name: "Invoca"
 overview: "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com."
 type: "profile"
-heat: 32
+heat: 65
 
 website: https://www.invoca.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Invoca"
   url: "https://twitter.com/Invoca"
-  followers: 4454
+  followers: 4455
 
 size: 201-500 employees
 yearFounded: 2008
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=NLLaC8pNKY8"
 
-secured: "EXsyOEof0zryhSfWZ7FZPR+0bQ0CTiXLku7UZvtB7ZdiYSABcRiLxqMQ/PEHM70zA3x5p/ux7Vxw+O045hzQBoSBfpGvRqsq2uWj108CnQSqOwmYV0gxF8zfJYcAlMH45h91NtkxZhnI/cGam8NEYjrq/0mIfrMono83ZGbV+9ag1mKSSN/CvW0lEvZvOmpfAaBegLoCKxPLnESx0dMcCiTABiguEBUA2WEHk0insJu2LeCjsAcYYdA971PtQTsWxy9h8WxFAuWyIvE6DqKA/7sFd2jWBSnXjWOFqWZlW0yvgMkWCFYURt4VjDnaOl7hmRqYnDkpHUzXoKZyrvAy2G3NjYDBUz+zUJa3U7tep0ny7aFC/yNr/mJTx5LPPp8cVpi39jPOpy/Ui8OkFZcWBg==;+Xripypq6V4JpQnr8VBwtg=="
+secured: "z4pltAKvcozeVTgVZUlI5lQ06a/wA/twwREa7hXsWS5d18tgJP37RctPSQolG3vbL7mDUGo9u9H0lEC+jbAOGQtR82u5dEMq/kJFtblvwVnslvxgh35SPHihWvBElvcgz1P4ctk9WRl9DeSEZKMSRtig/7dhb+BKy8yHV2l31B+XlDdFNgGFpIwwRZYBsPveX7fLzre8f7ETIfoKFPM0r2vOj5cFymUD8UpPYQYalecKT6Rq/PIrzGkifq9gERe632thUnuiF2Nd4ww1KyJ/ivhuy+e/e0T4mYmwCKKDlbjbnV6C7ILK1yO0HCjh7MqKabQvndCbrdVAgy8N5yT3ZCga+0DClYYsmi1nWBsZ+IPdLu7bfuUktn4N0S4ZyiNR7yfl9muMHE/5/ks9YERuxA==;hCdo5oB8DR+eNyYp6g6khQ=="
 ---
 
