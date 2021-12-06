@@ -92,20 +92,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Meeting expectations a key focus for AWS in machine learning/AI keynote at re:Invent"
-    excerpt: "Invent 2021 kicked off with a two-hour presentation on the company’s initiatives in machine learning and artificial intelligence. In typical style for the public cloud giant, the approach taken by presenting executives was to level-set customer expectations and then show precisely how Amazon Web Services Inc."
-    publishedDateTime: 2021-12-01T22:27:00Z
-    webUrl: "https://siliconangle.com/2021/12/01/meeting-expectations-key-focus-aws-machine-learning-ai-keynote-reinvent-reinvent/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 64
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/AWS-reInvent-2021-Keynote-Day-3.jpg"
-        width: 833
-        height: 482
-        isCached: true
   - title: "AWS Announces AWS Cloud WAN"
     excerpt: "New managed WAN service makes it faster and easier for enterprises to build, manage, and monitor a global network that seamlessly connects cloud and on-premises"
     publishedDateTime: 2021-12-02T16:34:00Z
@@ -149,20 +135,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGRQphiMhqKKg/article-cover_image-shrink_720_1280/0/1638451226850?e=1643846400&v=beta&t=WVSAv4yvlhwKErf2gQf14QW4V6AK5UeRXOdLxHoLSrM"
         width: 1079
         height: 720
-        isCached: true
-  - title: "Swami Sivasubramanian Keynote | re:Invent 2021 Recap"
-    excerpt: "Topic Join Swami Sivasubramanian, Vice President, Amazon Machine Learning, to explore what it takes to put data in action with an end to end data strategy, including the latest news on databases, analytics,"
-    publishedDateTime: 2021-12-01T22:07:00Z
-    webUrl: "https://www.linkedin.com/pulse/swami-sivasubramanian-keynote-reinvent-2021-recap-jason-oliver"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHuk2y6zq4zGQ/article-cover_image-shrink_720_1280/0/1638387314079?e=1643846400&v=beta&t=dXuxOdS83D_k-zVLCPGQE6N2-dxV4sOMBn09YK7ExEk"
-        width: 1200
-        height: 675
         isCached: true
   - title: "AWS Announces AWS Amplify Studio"
     excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Amplify Studio, a new visual development environment that allows developers to create web application user interfaces (UIs) with minimal coding,"

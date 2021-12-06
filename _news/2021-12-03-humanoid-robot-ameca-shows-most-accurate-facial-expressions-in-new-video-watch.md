@@ -7,7 +7,7 @@ originalUrl: "https://www.republicworld.com/technology-news/science/humanoid-rob
 webUrl: "https://www.youtube.com/watch?v=IPukuYb9xWw"
 type: article
 quality: 134
-heat: 184
+heat: 185
 published: true
 
 provider:

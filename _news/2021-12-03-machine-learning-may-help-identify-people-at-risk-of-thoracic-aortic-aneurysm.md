@@ -35,6 +35,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "Machine Learning Used to Determine Risk of Thoracic Aortic Aneurysm"
+    excerpt: "Enlargement or aneurysm of the aorta predisposes to dissection, an important cause of sudden death. A team led by investigators at Massachusetts General Hospital (MGH) recently used a type of artificial intelligence called deep learning to uncover insights into the genetic basis for variation in the aorta’s size."
+    publishedDateTime: 2021-12-06T12:00:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/machine-learning-used-to-determine-risk-of-thoracic-aortic-aneurysm/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/12/GettyImages-808725044-scaled.jpg"
+        width: 2560
+        height: 2048
+        isCached: true
 
 secured: "60gSIQ74PMA2lnG1bD4pYuR7TmqTVHMWo4/JtfIeT0UKyxNRdTh3zXhc53uDHuSEpSyxcIiMfzRGRvWpcpKYLLFKw6Kr4K+WPwIldbxcB7q6cy4dd7mtGlbV6qxYCJJp9k8siM7DHIxE8bOnL7utwicqp+34y4IUXJ61nWhrKHykqFNxm3MGkVq3cS2HRJAkOuIQeSJUP8unqHK28KjGsvS6DLux5xtPBsvyuUlfeFp1GuKjZHEWRYtKbLsueoQs3Ymt+qzG+gK1fyrNZjFzlT4IkJXHQIsF2/USoLuL/Qw9OJ31ysvJQ3nLSDWnQTHXF/SfwYFbAARoFPm6wWvMad9L5QLFYERpLRs9tpD0534=;zw8DRMgJNgK2WZuIHZ1Htg=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-17-ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board.md",
+      "title": "AI2 CEO Oren Etzioni to chair UiPath’s new AI advisory board",
+      "excerpt": "UiPath, a publicly traded \"robotic automation process\" company, announced that Allen Institute for Artificial Intelligence (AI2) CEO Oren Etzioni will chair its new artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/",
+      "originalUrl": "https://www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/12/Oren-Etzioni-298x300.png",
+          "width": 298,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board/amp/",
+      "publishedDateTime": "2021-11-17T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-five-ai-strategies-cxos-can-use-to-transform-their-business.md",
       "title": "Five AI Strategies CXOs Can Use To Transform Their Business",
       "excerpt": "CEO and Co-Founder at Affine, an AI evangelist, business builder, and entrepreneur at heart. Ensuring growth by transformative solutions. $15.7 trillion: That is the figure we predict artificial intelligence is going to contribute to the global economy by 2030.",
@@ -1350,58 +1402,6 @@
         "name": "NBC News",
         "domain": "nbcnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask.md",
-      "title": "Google unveils 'Pathways', a next-gen AI that can be trained to multitask",
-      "excerpt": "Today's AI models, according to Google's AI lead and co-founder of the Google Brain project, Jeff Dean, are at the one-trick pony phase – they are \"typically trained to do only one thing\". But a new approach called Pathways could provide something akin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
-      "originalUrl": "https://www.zdnet.com/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/58190d3b9be2f10b7c067e98f461e75b3a4c0dc0/2021/10/29/4802e0e3-058c-4b9b-bd4e-9761f806c7be/google-pathways-ai.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
-      "publishedDateTime": "2021-10-29T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

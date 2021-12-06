@@ -58,20 +58,6 @@ related:
         width: 554
         height: 312
         isCached: true
-  - title: "AWS introduces flurry of new AI tools for Amazon SageMaker"
-    excerpt: "Organizations using Amazon Web Services Inc.’s Amazon SageMaker platform to build artificial intelligence models now have access to a wealth of new features that will make machine learning projects simpler in several ways."
-    publishedDateTime: 2021-12-01T21:49:00Z
-    webUrl: "https://siliconangle.com/2021/12/01/aws-introduces-flurry-new-ai-tools-amazon-sagemaker/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 73
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/amazon.png"
-        width: 933
-        height: 519
-        isCached: true
   - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
     excerpt: "Lightspin, the multi-layer cloud security platform that prioritizes and remediates critical vulnerabilities across hybrid cloud and"
     publishedDateTime: 2021-12-02T13:30:00Z

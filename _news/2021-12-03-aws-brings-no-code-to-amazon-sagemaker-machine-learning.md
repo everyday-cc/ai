@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amaz
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html"
 type: article
 quality: 121
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa5933cafd39f832c92b71%2F0x0.jpg%3FcropX1%3D18%26cropX2%3D572%26cropY1%3D0%26cropY2%3D312"
         width: 554
         height: 312
-        isCached: true
-  - title: "AWS introduces flurry of new AI tools for Amazon SageMaker"
-    excerpt: "Organizations using Amazon Web Services Inc.’s Amazon SageMaker platform to build artificial intelligence models now have access to a wealth of new features that will make machine learning projects simpler in several ways."
-    publishedDateTime: 2021-12-01T21:49:00Z
-    webUrl: "https://siliconangle.com/2021/12/01/aws-introduces-flurry-new-ai-tools-amazon-sagemaker/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 73
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/amazon.png"
-        width: 933
-        height: 519
         isCached: true
   - title: "AWS brings point-and-click to machine learning"
     excerpt: "Amazon Web Services has announced six new capabilities for its machine learning (ML) service, Amazon SageMaker, that make it more accessible and cost effective."

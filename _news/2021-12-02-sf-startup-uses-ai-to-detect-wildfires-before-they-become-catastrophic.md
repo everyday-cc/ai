@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sfchronicle.com/travel/amp/S-F-startup-uses-AI-to-detect
 cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/travel/amp/S-F-startup-uses-AI-to-detect-wildfires-before-16668146.php"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 400
     height: 267
     isCached: true
-
-related:
-  - title: "Aspen testing program that uses artificial intelligence to detect wildfire smoke"
-    excerpt: "Aspen Fire partnered with a California-based company for a pilot program training cameras with artificial intelligence to better detect smoke."
-    publishedDateTime: 2021-12-01T21:24:00Z
-    webUrl: "https://www.9news.com/article/news/local/wildfire/aspen-testing-wildfire-prevention-program/73-10f2b05d-fec9-4bd7-8d59-eb45d5dae8c3"
-    ampWebUrl: "https://www.9news.com/amp/article/news/local/wildfire/aspen-testing-wildfire-prevention-program/73-10f2b05d-fec9-4bd7-8d59-eb45d5dae8c3"
-    cdnAmpWebUrl: "https://www-9news-com.cdn.ampproject.org/c/s/www.9news.com/amp/article/news/local/wildfire/aspen-testing-wildfire-prevention-program/73-10f2b05d-fec9-4bd7-8d59-eb45d5dae8c3"
-    type: article
-    provider:
-      name: 9NEWS
-      domain: 9news.com
-    quality: 52
-    images:
-      - url: "https://media.9news.com/assets/KUSA/images/bac1418e-231b-483c-bfdb-aea3b352ca29/bac1418e-231b-483c-bfdb-aea3b352ca29_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "7z+YZegjiYWZuChwY9fakX91hzPg9VNMwydJrJOqqlgSVeN7Yi0WQxUmfeW0krLTN3wDq2mP6McV2v9EGZRCPSQbVfvOo9rO6rKrUd/8pZ95VNDnrwr+F+1OTbl9L+YkCyPASmT83UGpEcGlrPTg3LGslspZhYtjVKIYkm3sbcpFFwduqfiYCZRlRd6kbfVC2aqm1I7ZiUm4dTpapH7OUDJCSVYF08wZWyDBbNUEmOJPEj9yT7EV7B9+Ew0YyntxmBH9WNpQCa2MWbRWsdd5gRI+K3Ci3bg+fLOhAMTV0QpgBtADFrSWvVsLdST7kdux3kXoDPTF2XFBkTHXQsGgod83cHf4J8siWiaJU7lCUHypoSaExinVQ7CmpNxz15b+IkvF2uTlN8kXWg9RAyKgN1FsFVXCC847joP8iuerHRuHgNH7zTJuF40a3U2B/f3xEX/Wa2kbZfo0hnfaE060fQbH6sgFkx/NbkKsYW2vNH67XXoKB4GHiEQ4tyWieyasHcsEkw73CzUqN8+eclj9DQ==;jI6jPlI3hTE1ee9y2RoK7Q=="
 ---

@@ -1,29 +1,31 @@
 ---
 category: news
 title: "BrainChip CTO Peter van der Made Named AI Hardware 2021 Innovator Award Winner"
-excerpt: "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BCHPY), a leading provider of ultra-low power high performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,"
-publishedDateTime: 2021-12-03T01:07:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-brainchip-holdings-ltd-93df8a28aa924b1993b109550ba4423a"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-brainchip-holdings-ltd-93df8a28aa924b1993b109550ba4423a"
+excerpt: "BrainChip Holdings Ltd (ASX: BRN), (OTCQX:BCHPY), a leading provider of ultra-low power high performance artificial intelligence technology and the world's first"
+publishedDateTime: 2021-12-03T00:07:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/b24422856/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/b24422856/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner"
+ampWebUrl: "https://www.benzinga.com/amp/content/24422856"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24422856"
 type: article
-quality: 50
-heat: 50
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
-secured: "SPYV8G5kSgHIYWrhDt9QlxzywMRcQJbRKFcQLdkCoIdBqp0I0DFxAe3AyZXlulkT+aYi3x9MHAAGT415sxYBWULpIxq1eUsKVuJrVOPit/UJq8RSYepoXU+KL2uJQOzpS2zwI6jn4hruQYxWFft8dQAOV7hzgG+pO+w5tJLv0VysVMuE+r6zk7w7ztneL5QdninIcKh7q/I1hMjoBm7stR8MMadBRdGKjXk2kEe15yATMjTuWnQE8RmJvXMx3DzIJwiU5LoU8+8NQ/vHZxM0/kJzYLF758Ff54fJ0heeQQQoorcWe9IHI8UR+XoiNh7dU2HYdAEr3Wmh5TaTAiNAgY9U+g0e7je64frl7KyTViA=;Nr1Ja0Y69mOb4OpFiJxzgA=="
+secured: "SHFw2IL2Fk7qu3P2FscfptaoEZxvl0xduAuVTyENUSsP7UDvbLl71HX0gQpXJfXdZ6HIWCtpSMdZT2YSGrsiQdMvLlpmsYM9Fprmq/Q1a81vKHj7WuUjDqdMluy+wwceXHqRGjF35ZPnDpgUs+UhjmJI4ANYvawJ5L/aIHFTiDcW9ydkZ7O6s4AIl7A4hmSgxtt46VS3pBQ+Rw5W2fgbjfsszUIdx+xsKZr1z30hEXyTsnbNLjT0O8Y+bkWZdmrAE6RTUl9IEYs3KjU9HHhKGC0Zbm0EhN9muzYecoYd/rJo0JEnSindE9Mut08rKjbd+VEzmxojmftQ6TwoZsasHnEPSc4xG53tdtCdCtbICDE=;jUsCsin9zTen7biF2qf0mA=="
 ---
 

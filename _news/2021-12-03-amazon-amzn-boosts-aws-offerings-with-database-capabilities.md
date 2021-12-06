@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-offerings-wit
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-aws-offerings-with-database-capabilities?amp"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "Amazon (AMZN) Expands Cloud Offerings With AWS Cloud WAN"
+    excerpt: "AWS unveils a service, namely AWS Cloud WAN, which aids in seamless development, management, operation and monitoring of a global network with the help of a central dashboard."
+    publishedDateTime: 2021-12-06T14:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/400893"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 71
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-400893.jpeg"
+        width: 635
+        height: 400
+        isCached: true
 
 secured: "WAzYgnfsmrXzaU1RE9zaWSLjRpfApegG+4XgzwW6DxpMNz8egahYwMgAhEeX1pSld6YboPV+cUdyQthHXJTgdv8SMvq89U1B8cO1N7961CEDR6vRXMWUO7reiE96sjHbl9iqTJy0a9Qe/mEmWWbk3EZTAu4T13q5Wr1GWUQtbTY1ozQR8aEzvHJmvjYQ87RTCl+Cgc1jShapsQsRV5SSxF7zbtBQeV3uGuFfXMNsz3gKlLegPEy4ImT3TQYE742sMj9mEgMiQqveAG+qbzI1r21ZQ7foPCCH6hWH2R3J5mYdzphE3DiGQKnC2qzlTHiP75qPS479r3ham+CkvRdxyjMOHTYStkwhZN57LcJEBSE=;yAsExhvEidxQFKrs3ETafQ=="
 ---

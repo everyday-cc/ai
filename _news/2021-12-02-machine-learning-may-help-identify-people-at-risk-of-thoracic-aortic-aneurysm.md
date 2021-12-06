@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-people-thoracic-aorti
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-people-thoracic-aortic-aneurysm.amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Used to Determine Risk of Thoracic Aortic Aneurysm"
+    excerpt: "Enlargement or aneurysm of the aorta predisposes to dissection, an important cause of sudden death. A team led by investigators at Massachusetts General Hospital (MGH) recently used a type of artificial intelligence called deep learning to uncover insights into the genetic basis for variation in the aorta’s size."
+    publishedDateTime: 2021-12-06T12:00:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/machine-learning-used-to-determine-risk-of-thoracic-aortic-aneurysm/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/12/GettyImages-808725044-scaled.jpg"
+        width: 2560
+        height: 2048
+        isCached: true
   - title: "Machine learning may help identify people at risk of thoracic aortic aneurysm"
     excerpt: "Researchers have identified genetic variants linked to the diameter of the aorta, the blood vessel that carries blood from the heart to the rest of the body. When the investigators combined the genetic variants into what’s called a polygenic score,"
     publishedDateTime: 2021-12-02T18:56:00Z

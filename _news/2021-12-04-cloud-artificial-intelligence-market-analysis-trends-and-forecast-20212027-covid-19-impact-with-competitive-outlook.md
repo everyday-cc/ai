@@ -57,6 +57,20 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "New AI tool could change how COVID ICU works"
+    excerpt: "New technology could be used to help doctors make the most of limited resources during COVID-19 by identifying patients in need of intensive care treatment"
+    publishedDateTime: 2021-12-06T14:50:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-prediction/125436/"
+    type: article
+    provider:
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/12/dreamstime_xxl_70037200-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
     publishedDateTime: 2021-12-03T12:21:00Z

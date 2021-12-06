@@ -1,12 +1,12 @@
 ---
 category: news
 title: "The movement to hold AI accountable gains more steam"
-excerpt: "Now, efforts are underway to better understand how AI works and hold users accountable. New York’s City Council last month adopted a law requiring audits of algorithms used by employers in hiring or promotion."
+excerpt: "Standards for audits and auditors are important because growing calls to regulate AI have led to the creation of a number of auditing startups, some by critics of AI, and others that might be more favorable to the companies they are auditing."
 publishedDateTime: 2021-12-05T13:10:00Z
-originalUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/"
-webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/"
+originalUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/2/"
+webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/2/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Facebook AI
   - AI
 
 images:
@@ -54,6 +55,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "GUf4LZC4AboNTg8EVbiuZq9wwQnlFAt+E289yAPBruELDxV8kQs3G394QtfQr5JeCJfmDvj6OratydhCugMTbsLZg2tpiFkV+A/rz7tnvcPKeH+JqLRuqvDuAxU3rFYxTRnpDN53BPTj8CCVCR5X5s/sP2vV8hpyD/AC3/Axc08MZdbILggFPnMxYLus86c7qFHMENTbqEExB3h7WmMagB3Fh8jPEOZb8/AjJ0eZp0GRHf6m3csty/78m4zvyGV75tnUaTravP0LvUmXOAX78WMEAf5Qd+rf6OWASTrgl2E0THMChqE/S8NWEcdC/2JYu/9UYZBKii/XQX9JqIAWUYtam2k/TV94PBiCnseF72A=;eLFhIg3FuAWVLxCZ+8juQg=="
+secured: "GTBZAf4BmZ9v1SX8LS4atgxSxOkzCsmJKK72DBlMdeWBrW2Z5/99oyvXDZdD5x+pA6Ls8mM95pnkZGZYzYcPE2HaIJLhWSzhhWBnawM4LV33U10XAgDB2XqaSmQZV3vwNocgNnZ4Owb4c/b1DQgPVW67bYsmNewheqAYa4SvMIZ5HK18nJ5PjKgFS6H9JVQoOZZsMFxm8CCuMI+4JZmD3v7kgzNyMC0zGK2aJLzalgk/108vb4Bd+CZarOdf2Ayq1TM26i5Q5vRc5FXj7IHm2kTxWxgpd/F6kKlek29cVuP5FQy250JqWNXJsGGUlRI0SH8d3efBZtpT8+9j9FrU9AEvRZ5lFkA3VmlCRTua3Vo=;4NKd/6L2Y33oLRtUX7spjw=="
 ---
 

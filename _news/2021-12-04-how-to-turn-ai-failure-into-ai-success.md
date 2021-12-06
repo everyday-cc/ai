@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-su
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Invest in AI Startups"
-    excerpt: "Benzinga explains how to invest in AI startups, where to find opportunities and what to look for before choosing an AI startup to invest in."
-    publishedDateTime: 2021-12-01T22:54:00Z
-    webUrl: "https://www.benzinga.com/money/how-to-invest-in-ai-startups/"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
-    images:
-      - url: "https://cdnwp-s3.benzinga.com/wp-content/uploads/2021/12/01175321/zblw0fg8xu8.jpg"
-        width: 900
-        height: 701
-        isCached: true
   - title: "Making AI accessible to every enterprise"
     excerpt: "Yet, AI and machine learning isn’t accessible to every company. In-house AI systems typically require large staffs and heavy investments in infrastructure, putting the technology out of reach for many organizations."
     publishedDateTime: 2021-12-02T12:18:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/amp/"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/icu-1.jpg"
         width: 2880
         height: 1620
+        isCached: true
+  - title: "New AI tool could change how COVID ICU works"
+    excerpt: "New technology could be used to help doctors make the most of limited resources during COVID-19 by identifying patients in need of intensive care treatment"
+    publishedDateTime: 2021-12-06T14:50:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-prediction/125436/"
+    type: article
+    provider:
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/12/dreamstime_xxl_70037200-scaled.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."

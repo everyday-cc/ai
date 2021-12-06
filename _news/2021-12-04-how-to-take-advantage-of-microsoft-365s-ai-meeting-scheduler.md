@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Mindtree achieves AI and Machine Learning on Microsoft Azure advanced specialization"
-    excerpt: "Mindtree announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partners deep knowledge, extensive experience and proven success in enabling customer adoption of AI and implementing Azure solutions for machine learning life cycle and AI-powered apps."
-    publishedDateTime: 2021-12-01T21:37:00Z
-    webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120100516_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120100516_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120100516_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 99
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "CVS Health and Microsoft Link Up to Speed Healthcare’s Digital Shift on Retail’s Frontlines"
     excerpt: "Connected healthcare keeps making new connections as firms from different parts of the business world join forces to drive greater digital transformation for millions of consumers. New evidence of the gathering trend comes from CVS Health and Microsoft,"
     publishedDateTime: 2021-12-02T22:46:00Z

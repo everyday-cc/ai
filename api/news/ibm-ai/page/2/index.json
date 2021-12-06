@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-25-driving-ai-adoption-with-explainability-at-the-core.md",
+      "title": "Driving AI Adoption With Explainability At The Core",
+      "excerpt": "Some business leaders are still wary of enterprise-wide AI adoption and are taking a one-step-at-a-time approach toward it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048e165345b4ab79c3f331a%2F0x0.jpg",
+          "width": 1140,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/amp/",
+      "publishedDateTime": "2021-10-25T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-four-phases-of-analytics-evolution-from-spreadsheets-to-ai-workbenches.md",
       "title": "Four Phases Of Analytics Evolution: From Spreadsheets To AI Workbenches",
       "excerpt": "Four phases of growth in analytics tech. getty. Many years ago, I went looking for some “desktop AI”—artificial intelligence that would allow me to tease out trends in data.",
@@ -1309,49 +1361,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-16-social-service-agencies-turn-to-the-cloud-and-ai-to-serve-families-in-crisis.md",
-      "title": "Social Service Agencies Turn to the Cloud and AI to Serve Families in Crisis",
-      "excerpt": "The pandemic and other crises have pushed social service agencies past their limits. They’ve struggled to process record-setting spikes in unemployment claims, housing assistance requests and other emergency services.",
-      "sourceUrl": null,
-      "webUrl": "https://statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis",
-      "originalUrl": "https://statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://statetechmagazine.com/sites/statetechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202109/ST_Q421_Delaney_Hero.jpg?itok=IVvTzz0J",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis?amp",
-      "cdnAmpWebUrl": "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2021/09/social-service-agencies-turn-cloud-and-ai-serve-families-crisis?amp",
-      "publishedDateTime": "2021-09-16T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statetechmagazine",
-        "domain": "statetechmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null

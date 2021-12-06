@@ -26,6 +26,19 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "No. 5 Notre Dame to face No. 9 Oklahoma State in Fiesta Bowl"
+    excerpt: "Notre Dame will face Oklahoma State in the Fiesta Bowl in a matchup of two teams that just missed the College Football Playoff."
+    publishedDateTime: 2021-12-06T14:14:00Z
+    webUrl: "https://www.kentucky.com/sports/article256358317.html"
+    ampWebUrl: "https://amp.kentucky.com/sports/article256358317.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/sports/article256358317.html"
+    type: article
+    provider:
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 24
+
 secured: "tb38+qYo8Q8DZQvkxW4u/Gz0joelzeIKzdxATsR6pbuCixhXVau3Geh8JziX7uLQz/ydpFKXrAX5mFhGrCIM8fyPUuekyUDPAjDksRpS+tQ4hY2U4yzznFszyjezhEsraXvBasNjoo+a44fVqQLrclSm9rIfXajZHvpvUGNGzevg/rkwF6/7CI+cWyy6wKUIcQd1qAuzT/69NULwAzT8MsPTKSAClgNjkYQP7pH3BQkFoBkehhHsTiBQIRRXNqHGvTvxSY9XSoTgXFQjp3ZysPQrpVKn1HSl0ya+MtKMiYkxcrtkHsERQDNycF3OJCMBmccMeRIvsKw6zJMXo8Il9U2yQFd8ucVLkHO3i+2ouuY=;jB8cLz5SIF/2BBOx8rNk/g=="
 ---
 

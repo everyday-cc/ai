@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12638"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12638"
 type: article
 quality: 108
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
     provider:
       name: natureasia.com
       domain: natureasia.com
-    quality: 51
-  - title: "Machine learning helps mathematicians make new connections"
-    excerpt: "Mathematicians have partnered with artificial intelligence to suggest and prove new mathematical theorems. For the first time, mathematicians have partnered with artificial intelligence to suggest and prove new mathematical theorems."
-    publishedDateTime: 2021-12-01T21:33:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/12/211201111925.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
     quality: 51
   - title: "Machine learning helps mathematicians make new connections"
     excerpt: "For the first time, mathematicians have partnered with artificial intelligence to suggest and prove new mathematical theorems, according to University of Oxford. The work was done in a collaboration between the University of Oxford,"

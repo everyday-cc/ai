@@ -49,11 +49,25 @@ related:
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000"
         width: 3000
         height: 1687
+        isCached: true
+  - title: "Using AI to translate old code and fix aging computer systems"
+    excerpt: "UAB computer scientists are contributing to a DARPA-funded initiative with artificial intelligence-based programming languages that allow humans to understand the “safety and correctness of code in the wild."
+    publishedDateTime: 2021-12-06T14:34:00Z
+    webUrl: "https://www.uab.edu/reporter/research/grants-awarded/item/9683-using-ai-to-translate-old-code-and-fix-aging-computer-systems"
+    type: article
+    provider:
+      name: Kaleido Scope
+      domain: uab.edu
+    quality: 54
+    images:
+      - url: "https://www.uab.edu/reporter/media/k2/items/cache/43dd04518ac7ab808ae810eda3a2d063_XL.jpg"
+        width: 900
+        height: 676
         isCached: true
   - title: "How Artificial Intelligence is Reducing Baggage Mishandling"
     excerpt: "Modern airports are using artificial intelligence (AI) to avoid mishandling baggage. The idea is to use AI for end-to-end tracking of baggage and planning optimized luggage routes, right from the time a passenger gets on-board,"

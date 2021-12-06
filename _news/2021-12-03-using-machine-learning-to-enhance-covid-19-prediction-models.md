@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "New system for analyzing thoracic CT scans with deep learning enables COVID-19 lesion detection"
-    excerpt: "A new automated system that involves deep learning technology enables the detection of COVID-19 lesion via the analysis of a computed tomography (CT) scan. This system, described in a study published in the journal Computers in Biology and Medicine,"
-    publishedDateTime: 2021-12-01T21:38:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-thoracic-ct-scans-deep-enables.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-thoracic-ct-scans-deep-enables.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-thoracic-ct-scans-deep-enables.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 47
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/ctscan.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "New system powered by deep learning makes it possible to detect COVID-19 lesions by analyzing CT chest scans"
     excerpt: "A new automated system that involves deep learning technology enables the detection of COVID-19 lesion via the analysis of a computed tomography (CT) scan. This system, described in a study published in the journal Computers in Biology and Medicine,"
     publishedDateTime: 2021-12-02T17:01:00Z

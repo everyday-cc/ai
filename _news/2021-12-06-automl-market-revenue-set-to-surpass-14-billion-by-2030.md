@@ -1,0 +1,51 @@
+---
+category: news
+title: "AutoML market revenue set to surpass $14 billion by 2030"
+excerpt: "The automated machine learning (ML) market is expected to grow from $346.2 million in 2020 to $14.8 billion by 2030, based on forecasts from P&S Intelligence, Leading the market is a surge in demand for fraud detection solutions,"
+publishedDateTime: 2021-12-06T14:07:00Z
+originalUrl: "https://www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030"
+webUrl: "https://www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030"
+ampWebUrl: "https://www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030?amp"
+type: article
+quality: 89
+heat: 99
+published: true
+
+provider:
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1604666878/itpro/2020/11/shutterstock_brain_AI_machine_learning.jpg"
+    width: 1260
+    height: 710
+    isCached: true
+
+related:
+  - title: "AutoML Market Revenue to Surpass $14,830.8 Million by 2030, Says P&S Intelligence"
+    excerpt: "From $346.2 million in 2020, the automated machine learning market is predicted to reach $14,830.8 million by 2030, demonstrating a CAGR"
+    publishedDateTime: 2021-12-06T09:45:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/automl-market-revenue-to-surpass-14-830-8-million-by-2030-says-p-amp-s-intelligence-883853650.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1224988/P_and_S_Intelligence_Logo.jpg?p=facebook"
+        width: 1498
+        height: 785
+        isCached: true
+
+secured: "IGdeEt1umMFfNR5b2ZZLuZB0aa1SkkWMzABYauq9O/WMWsddqODiV8GaQ2bbeLR+f0RV107MJhK+Y5EtsInuDYf264ZTI+zvXdoqy0DAQruJlp6xqYFVKiBLwU/U30lHpi/DKzy688XDgHw06GQ+rwg18nZS0br6nCTPgyIjmGFTgNnvDhbQEWkyWEqCip9ivhBqcic+9Mc3EnfDvzO7unul3DaAMNrGt49CFbCCnbcVFFY8n7ewTp3KKQ8B279REiUDoHVO1nFoGmBr6LbpCp3rrSOCVCV5IrTetKK9xXeQ3F7JfXdmCa8xmZEHDCvhwEIkLU5IVnG/HWmCuqQb892Lcut/uLmIwNCrg6WTWq4=;u/h993+ROsPAwJQfhnkhvA=="
+---
+

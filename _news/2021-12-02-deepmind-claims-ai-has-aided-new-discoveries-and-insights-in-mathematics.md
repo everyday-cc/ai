@@ -66,15 +66,6 @@ related:
       domain: natureasia.com
     quality: 51
   - title: "Machine learning helps mathematicians make new connections"
-    excerpt: "Mathematicians have partnered with artificial intelligence to suggest and prove new mathematical theorems. For the first time, mathematicians have partnered with artificial intelligence to suggest and prove new mathematical theorems."
-    publishedDateTime: 2021-12-01T21:33:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/12/211201111925.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 51
-  - title: "Machine learning helps mathematicians make new connections"
     excerpt: "For the first time, mathematicians have partnered with artificial intelligence to suggest and prove new mathematical theorems, according to University of Oxford. The work was done in a collaboration between the University of Oxford,"
     publishedDateTime: 2021-12-03T20:55:00Z
     webUrl: "https://finchannel.com/machine-learning-helps-mathematicians-make-new-connections/"
@@ -89,6 +80,6 @@ related:
         height: 427
         isCached: true
 
-secured: "rGfUqShdgTBvx+KOWpRbEDca77zGiAhkw94yTmbKhs/KMr4WoXO2WoXTTFcwaI1un8Px6z+KRVbCm7/OS7T656/HKzS6co9qVx9uDcgoIe64/6WQXOeIQoUh5f3zt3/9CJ7Kp6cRtrQ9/irJDSZY8lYDgYIsH/tZ2/3RaoghV0RR1IsQfmkg/DoHRpWBg4tiprdcs3t64PaWb1fx1WmY4nypMsblUhpbNsrnu6JNN8iMlKwKJQimn/DTMTOYpt+cUZKwoFTptl6FCh+MC0u/BEmvtNXlW7MajE1wT6Tk6yjd1fPrkQg7tCLdXQjH6CKJPy64hyDeNMDUZv4z9y+oduY6UTOGF72N3FkDq0Jp+U8=;5rDA08kt0w5XeNYMVS0wtQ=="
+secured: "/lQNhy+1wr/KcAuFYSm8mGjdF0/OxLkrzkJoaqQwCkEAQiQs1N5HkfjfN487yN0es8DGMCJhvXT3OBjhjfEn/yLJzn6+LZJ42Ojd1f3YDVp3tKz+KYLHVyeqOA51xYAvYvPC7r1OjiYf/PNCvpuFFmkyuV+8zlAVSILydtgpnujZVXQKEbc2VoxgS95dGh5rWB3t265Io/UcUNBmXp2UEJd3x9692FLK2FNVZG7OD8yaaxM5Or6fR4Ddgm8u9KLagepCloLHg/9UvP81qe5jaSY2nLjOg/VCsuoHmsP7hT4KP1WnPaudRCFfNH8hmAGsIMhLhNJODUfXSLysIs4SFWFuIYNJ7tDhG577yGAKaHs=;AImeayigoRCOxg0tY88b1w=="
 ---
 

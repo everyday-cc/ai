@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Victory Square Portfolio Company, Next Decentrum Partners with FinTech Pioneer DAF to Bring Ancient Egypt to Life in The Metaverse"
-excerpt: "Victory Square Portfolio Company, Next Decentrum Partners with FinTech Pioneer DAF to Bring Ancient Egypt to Life in The Metaverse"
-publishedDateTime: 2021-12-06T12:47:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/12/06/victory-square-portfolio-company-next-decentrum-partners-with-fintech-pioneer"
-webUrl: "https://stockhouse.com/news/press-releases/2021/12/06/victory-square-portfolio-company-next-decentrum-partners-with-fintech-pioneer"
+excerpt: "Victory Square Technologies Inc. (\"Victory Square\" or \"Company\") (CSE:VST) (OTC:VSQTF) (FWB:6F6), a company that provides investors access to a diverse portfolio of next generation technology companies in key sectors including: Web 3,"
+publishedDateTime: 2021-12-06T11:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/g24454950/victory-square-portfolio-company-next-decentrum-partners-with-fintech-pioneer-daf-to-bring-ancient"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/g24454950/victory-square-portfolio-company-next-decentrum-partners-with-fintech-pioneer-daf-to-bring-ancient"
+ampWebUrl: "https://www.benzinga.com/amp/content/24454950"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24454950"
 type: article
-quality: 0
-heat: 0
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "8cEYojDA8lAEh0ApR4R5qGJIEK7GMx0ah/btkweZ3mV6ANqAyAxktia6lauJPNzDxnl3TO7z2NyYewZ0kxM8OeEWTGMpuxF0Qc7cb7xrOwclViQpn/PcuZ3OAxwdL5ulokNxPWZ0JjU+7TMKzd6uL5zO5XArqwysFRFwFRcVor+VtkjmrQmcTuURXgdqbT4GDFbwftJC52MmFNQ8Un0W3c4BQ7RX9EESfDtRvOqxsJWafgtpLYsQCHjpWO0/9ByTxxBfOUt/DyiKTt6vwfgI851zDsh/NdE5D1zkTB+V5g9ZrJ6DRwBwk8a2yTavATnb+4rq4nk+X25IJoHRHXq1vhvYoCthKdHaWOnUsSs62oC0/iVEdcoKwRjtPebYCNJ2P1z65gt74W09EwtFWtz4MujNA5V8lAlCo3MPOlTCQ8RrCn9mK0BULyv9kM+OfOsI9OAhodJBnr9iatgIZuzrh4pOF95VTslvMPa5GxcNaEgZ0f1dDqQ27VyOFraazMYP3d8yU8o117FFyJSGz3b0Hg==;MfrDxEdbDNO7JxAwilE2mQ=="
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
+
+secured: "T6dPe5+UZ5wj0Sh6vl6X0NfVt87ZdTp82/+TQEKI44vsMQ5/LdkcFcs09JP8mAuBcwRDi4jR0KY9W0Meq/Xd15vbdyVuDSl75rTU9GIWboYP6Y+ThbiWNhZXn+QVLwo9J64QDnSS6OmTwgq6TDP0FB2PKO0gvumhEbc5Nl1ziSs4kKAjKNvmVvJ29q/h8J+Tt/tgUgTMbllojdP+X6+t3yX0KOXifCNBMnAYZlfVAUdypvjFajdDFwII6zoi0fSzEZklNMY0j2MLlSXuruTNxwJsIvuRYBRPuqWZYon67r3q2rUeIb3MAp1ZW3n1K3ZAwE7XBFwMz1vW0ckDu4B8BjoekZ7lpmjXsY1OdCF2eC8=;9epOYtyhum5yjUKc0Zh72A=="
 ---
 

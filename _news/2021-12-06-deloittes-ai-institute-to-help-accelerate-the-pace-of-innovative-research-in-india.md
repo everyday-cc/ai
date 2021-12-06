@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-manag
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: India Times
@@ -40,15 +40,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "IWIL India in partnership with Tech SuperGirl and AWS ID & E brings India's biggest startup acceleration program - 'TechXelerate'"
-    excerpt: "IWIL India, in partnership with Amazon ID & E and Tech SuperGirl has launched one of the nation's largest program, TechXelerate to accelerate women into tech and entrepreneurship in India. The outreach of this program will be with 20 incubating partners such as Amazon ID & E,"
-    publishedDateTime: 2021-12-01T22:48:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20211201/3865321.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "yrEM5u6SiALAEgzHxF8gjjkx/GQSL2HWZLQ9NZ61Lyc4s0f+UD3PIkJRJLO4VBR2Pa8ibzJGePYruhBWz6m0erOr0p2njs4TC0dhDozyu1xN8OLfRlw+Tzqn3ajuOdv9WT1eUNyvLuPn2CDeOA0+D/+uFzraoxaT6UqYabHcAGTbcp3ahACRUT+qXzoXnkCxZ17sZgB6t7KULNp4Kn1Cc3Dh6kCFBrT9G13aTNTfpTo5HGRM4ChtGTK9C+8G6arLoaGzhaClLhaLzqbBTDE/jZwPXaeuzDrp3tfQm1igAdbV7NbV+qAvveZXK7oJIbahKaX+o23KC5d9Fd6QHBHa+3U6dLoeN9acnw4/rUJOjh4=;5GKgjBzmkE/SDMvEDi+Pow=="
 ---

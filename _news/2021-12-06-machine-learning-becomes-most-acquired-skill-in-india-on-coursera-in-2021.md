@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/education/news/machine-learning-becomes-mos
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/machine-learning-becomes-most-acquired-skill-in-india-on-coursera-in-2021/amp-11638783681363.html"
 type: article
 quality: 58
-heat: 58
+heat: 68
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 600
     height: 337
     isCached: true
+
+related:
+  - title: "Machine Learning Is The Most Acquired Skill In India"
+    excerpt: "Data, Data, Everywhere are the top two popular courses to upskill in the demanding ecosystem The Future of Jobs 2020 report by the World Economic Forum states that AI and Machine Learning Specialists,"
+    publishedDateTime: 2021-12-06T13:44:00Z
+    webUrl: "https://analyticsindiamag.com/machine-learning-is-the-most-acquired-skill-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/default.jpg"
+        width: 851
+        height: 315
+        isCached: true
 
 secured: "xNKIqH3+f+KmmLungp+jd8uU2pC9+15TkNxZbEDr1Hf/39IMZK/orRyk+1BR6h5opxTMQVFtQPea+fsmF84vXFRz00++f4fXhR9Nubgr8PbuX6uveu9JyLXPAmzOTANTsJBSrASxsfkDZGvU9zV7CpTBjT0lydm0R68xrl7+l7KBqG/Z6549MnIIW5fBZ75taPjwu65IgQo8oHVGpaFDjCNAFRRBbgRiPneNgSb/8CmI2YDeg6I9qVGE4WESDCDnvaHlbO6dV5A3S5yV9ZAQtyxsnMh9AGmCjihjajOrPAjnoPFOdtCbjLQgyjbWZI8DeH724NBEXgy1N1PiaNGberX59Hdbq/INEco59Qz471s=;AWEegpq8wsr6oKsUgpP+qg=="
 ---

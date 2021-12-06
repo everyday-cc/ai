@@ -8,7 +8,7 @@ webUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-healt
 ampWebUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000"
@@ -40,6 +41,20 @@ related:
       - url: "https://g.foolcdn.com/editorial/images/655460/couple-meets-insurance-agent-at-home-getty.jpg"
         width: 2120
         height: 1414
+        isCached: true
+  - title: "Using AI to translate old code and fix aging computer systems"
+    excerpt: "UAB computer scientists are contributing to a DARPA-funded initiative with artificial intelligence-based programming languages that allow humans to understand the “safety and correctness of code in the wild."
+    publishedDateTime: 2021-12-06T14:34:00Z
+    webUrl: "https://www.uab.edu/reporter/research/grants-awarded/item/9683-using-ai-to-translate-old-code-and-fix-aging-computer-systems"
+    type: article
+    provider:
+      name: Kaleido Scope
+      domain: uab.edu
+    quality: 54
+    images:
+      - url: "https://www.uab.edu/reporter/media/k2/items/cache/43dd04518ac7ab808ae810eda3a2d063_XL.jpg"
+        width: 900
+        height: 676
         isCached: true
   - title: "Top 6 Ways Artificial Intelligence Is Changing Real Estate Industry"
     excerpt: "There was a time when Artificial intelligence or anything close to it seemed like an impossibility. That''s not the case anymore. Artificial intelligence has impacted our lives in great ways and there is no stopping to it."

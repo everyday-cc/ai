@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Conversational Artificial Intelligence and Voice Cloning Market 2021-2026: Call Center Market is Rapidly Evolving to become an AI-enabled Customer Con"
+    excerpt: "The \"Conversational Artificial Intelligence and Voice Cloning Market: Next Generation Enterprise Solutions by Use Case, Application, and Industry Verticals 2021 - 2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-12-06T09:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=582473"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "k3+86anDnfAh8KgDPsmf/ebE21l9lBuVxRk4soZ5uQAVGQYXPJ8cm2sdNeLwK7fj9M6IUGqMOPekBFg5mvrGR9jZQhXvs5bCMEYg/3TesRo8w5Btl19bY3BkQdDu2XDD4iCGN7Lbjc211wS0jjrEDuMuXvIsZ1RxqIKp9yeI1dm058xBJujuGo7cGN1SU7Rgr+0zS80AIj8K47Y8PTyTLhN5VOCoDiuYqXUgWhBSVAkV2gzH/rHoOk/Frgr93frhoB9LS79ZAz4pjiNHxgA2uL377wflMk6cgsvoVJmkT7q8IME4anFO3X5TX0ekJI8uV+HTxk4Cv5aq+wFzzJhEuVGXp0/bz9eKD4nB9upAWgo=;6IknO6+Id3pAcJoCyZ7ILw=="
 ---

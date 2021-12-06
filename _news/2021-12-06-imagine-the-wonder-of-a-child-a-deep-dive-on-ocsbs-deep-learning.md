@@ -9,7 +9,7 @@ ampWebUrl: "https://ottawacitizen.com/sponsored/life-sponsored/imagine-the-wonde
 cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/sponsored/life-sponsored/imagine-the-wonder-of-a-child-a-deep-dive-on-ocsbs-deep-learning/wcm/89d9761b-9c5b-4bf3-a18b-4a76f9983bb6/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1144
     height: 912
     isCached: true
+
+related:
+  - title: "Open-Sourcing Human Rights Documentation In The Digital Age — Why Machine Learning Isn’t A Silver Bullet"
+    excerpt: "Increasingly, human rights violations are documented live on social media, only to be automatically erased for violating content moderation policies. Hadi al-Khatib, founder of Mnemonic, saves these audiovisual documents so they are available as evidence for lawyers and journalists."
+    publishedDateTime: 2021-12-06T13:39:00Z
+    webUrl: "https://www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/"
+    ampWebUrl: "https://www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a9fe130050db7974644f5a%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Tn8ja3utr4PMGC9fCv7kxFoSinSiFrLJOomtINKf8169roIvbUfLiKIla/jv2RECsIJODDVayraQwylJrZQepamUHOs4qTSjaoVbKLSga5UGR6pp6PZZnosYuV4fL65fj4H8g3a+Ds9vuL6Vdh4EhwmzJWQXjWkkfGXugnQPGdIruh0h+DJ0XIFWg7J/RTIo0AfHNlHE5Dy+0WnPPdrPvdOpLq5yGvIQBjTIOxR4I4cr2xo3cdrqQoms8cUA4b1jbroXR7dKms3Okqy7cjasikWWtoLYP7o+iSKmgzjbDGsSpDFKUwfwSRN1FjVVM6mW3aQnsTd76t92G3fxYMaA8bVfpjV4KuiGpgcRQOyi3VkGBOez2bxOWrBC23wacTHrG07XyoxCH2r/7b46VeJckxolGkmcXDAmwyAR+kBuUcW5TrTsM58B5OyFdupAXes0v3UETt+BG1C30xqYxqKqqhrwrvkqCygoGSURXx5WwPw7G3T10xp7+EzGb4QHaM5y+vlUnfnemxY8cIAHqesWIQ==;RzlAD1ZeGShXnP5FhR//SA=="
 ---

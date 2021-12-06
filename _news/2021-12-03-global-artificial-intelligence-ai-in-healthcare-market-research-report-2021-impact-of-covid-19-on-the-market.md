@@ -51,6 +51,20 @@ related:
         width: 2880
         height: 1620
         isCached: true
+  - title: "New AI tool could change how COVID ICU works"
+    excerpt: "New technology could be used to help doctors make the most of limited resources during COVID-19 by identifying patients in need of intensive care treatment"
+    publishedDateTime: 2021-12-06T14:50:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-prediction/125436/"
+    type: article
+    provider:
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 37
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/12/dreamstime_xxl_70037200-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Cloud Artificial Intelligence Market Analysis, Trends and Forecast, 20212027 | Covid-19 Impact With Competitive Outlook"
     excerpt: "In January 2017, Google, Inc. launched its Cloud AutoML. It utilizes Google's Cloud Vision application programming interface and Cloud machine learning engine service. AutoML is used by several ..."
     publishedDateTime: 2021-12-03T17:42:00Z

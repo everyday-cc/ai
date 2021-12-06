@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Qualcomm's New Laptop Chips Are Here, and They're Not Exactly MacBook Killers"
-    excerpt: "Qualcomm has lofty dreams of making PC chips that will rival Apple’s M-series processors by 2023, but in the meantime, the company is introducing its latest ARM-based laptop chips: the Snapdragon 8cx Gen 3 and Snapdragon 7c+."
-    publishedDateTime: 2021-12-01T23:00:00Z
-    webUrl: "https://gizmodo.com/qualcomms-new-laptop-chips-are-here-and-theyre-not-exa-1848140930"
-    ampWebUrl: "https://gizmodo.com/qualcomms-new-laptop-chips-are-here-and-theyre-not-exa-1848140930/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/qualcomms-new-laptop-chips-are-here-and-theyre-not-exa-1848140930/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 86
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/c0d9545492f9f5714d92ced6b51a364b.jpg"
-        width: 800
-        height: 448
-        isCached: true
   - title: "Qualcomm ditches TSMC, lets Samsung produce new chips"
     excerpt: "But some officials said that behind Qualcomm's selection of Samsung in the latest deal is TSMC's accelerated focus on making customized chips for Apple. Samsung's foundry service unit is said to have lost its status as a leading foundry service provider for the production of Nvidia's next-generation graphic processing unit (GPU) chips."
     publishedDateTime: 2021-12-02T06:24:00Z
