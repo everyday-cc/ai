@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-29-massrobotics-announces-aws-robotics-startup-accelerator.md",
+      "title": "MassRobotics Announces AWS Robotics Startup Accelerator",
+      "excerpt": "AWS Robotics Accelerator to scale robotics startups focused on automation and IIOT BOSTON, MA / ACCESSWIRE / November 29, 2021 / MassRobotics has announced a new Amazon Web Services, Inc. (AWS) Robotics Startup Accelerator to address the biggest challenges in the automation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm",
+      "originalUrl": "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T05:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR-Inside",
+        "domain": "pr-inside.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-amazon-personalize-announces-recommenders-optimized-for-retail-and-media-entertainment.md",
       "title": "Amazon Personalize announces recommenders optimized for Retail and Media & Entertainment",
       "excerpt": "Today, we’re excited to announce the launch of personalized recommenders in Amazon Personalize that are optimized for retail and media and entertainment, making it even easier to personalize your websites, apps, and marketing campaigns. With this launch, we have drawn on Amazon’s rich experience creating",
@@ -1330,49 +1374,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-aws-claims-pivotal-role-in-creation-of-african-unicorns.md",
-      "title": "AWS claims pivotal role in creation of African unicorns",
-      "excerpt": "The Amazon subsidiary says it played an instrumental role in helping to create some of the African tech start-ups currently valued at over $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/raYAyModOkVqJ38N",
-      "originalUrl": "https://www.itweb.co.za/content/raYAyModOkVqJ38N",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/snUiZea6wjkkUVhhtf52mXdpqopiCkM3l-eRctL0yLTZTsqsetU2zehg3otSLYjGwilj4ZBWtHyIK3EmjInkLOjBKld-G79aVkXC=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/raYAyModOkVqJ38N",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/raYAyModOkVqJ38N",
-      "publishedDateTime": "2021-11-16T00:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
         "publishers": null,
         "authors": null
       },

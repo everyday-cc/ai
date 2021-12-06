@@ -59,22 +59,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Facebook parent Meta tightens links with open source community through expanded AWS partnership"
-    excerpt: "Social media conglomerate Meta confirms AWS’s elevation to strategic cloud partner status as tech giants’ ongoing collaboration enters next phase."
-    publishedDateTime: 2021-12-02T04:45:00Z
-    webUrl: "https://www.computerweekly.com/news/252510363/Facebook-parent-Meta-tightens-links-with-open-source-community-through-expanded-AWS-partnership"
-    ampWebUrl: "https://www.computerweekly.com/news/252510363/Facebook-parent-Meta-tightens-links-with-open-source-community-through-expanded-AWS-partnership?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510363/Facebook-parent-Meta-tightens-links-with-open-source-community-through-expanded-AWS-partnership?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 49
-    images:
-      - url: "https://www.computerweekly.com/visuals/German/article/facebook-reflection-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "Legislators hear testimony on facial recognition bills"
     excerpt: "In line with its “Press Pause on Face Surveillance” campaign, the ACLU of Massachusetts gave testimony at a hearing Nov. 23 for the state Joint Committee on the Judiciary in support of bills moving through the Massachusetts legislature that would limit use of facial recognition technology."
     publishedDateTime: 2021-12-02T11:00:00Z

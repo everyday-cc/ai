@@ -2,6 +2,143 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2021-10-13-detailed-analysis-of-the-global-artificial-intelligence-market-2021-2026-researchandmarketscom.md",
+      "title": "Detailed Analysis of the Global Artificial Intelligence Market, 2021-2026 - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence Market, Global Forecast, Impact of COVID-19, Industry Trends, by Solution, Technology, Region, Opportunity Company Analysis\" report has been added to ResearchAndMarkets.com's offering.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=545944",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=545944",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T03:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-using-computer-vision-and-artificial-intelligence-to-monitor-cargo-inside-large-commercial-trailers-for-trucking.md",
+      "title": "Using computer vision and artificial intelligence to monitor cargo inside large commercial trailers for trucking",
+      "excerpt": "Computer vision (CV) and AI technology have advanced to a point where it is possible to evaluate camera footage to gain valuable business insights reliably. For example, in the highly standardized logistics industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/using-computer-vision-artificial-intelligence-monitor-cargo-",
+      "originalUrl": "https://www.linkedin.com/pulse/using-computer-vision-artificial-intelligence-monitor-cargo-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFjbQtLMG2urg/article-cover_image-shrink_600_2000/0/1634118045126?e=1641427200&v=beta&t=pB_P2zh4cLh7Icvmj_aITAXH21Zq4zdWBIMqiMnLIhY",
+          "width": 1293,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-13-computer-vision-in-artificial-intelligence-ai-market-2021-report-forecast-by-global-industry-trends-future-growth-regional-overview.md",
+      "title": "Computer Vision in Artificial Intelligence (AI) Market 2021 Report Forecast by Global Industry Trends, Future Growth, Regional Overview",
+      "excerpt": "A research assessment conducted to provide a thorough analysis of the Computer Vision in Artificial Intelligence (AI) market and various aspects of the market mainly",
+      "sourceUrl": null,
+      "webUrl": "https://www.reportsgo.com/computer-vision-in-artificial-intelligence-ai-market-177065",
+      "originalUrl": "https://www.reportsgo.com/computer-vision-in-artificial-intelligence-ai-market-177065",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reportsgo.com/img/img-7.png",
+          "width": 500,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "reportsgo",
+        "domain": "reportsgo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-cambridge-quantum-releases-worlds-first-quantum-natural-language-processing-toolkit-and-library.md",
       "title": "Cambridge Quantum Releases World's First Quantum Natural Language Processing Toolkit and Library",
       "excerpt": "CAMBRIDGE, England, Oct. 13, 2021 /PRNewswire/ -- Cambridge Quantum (\"CQ\") today announced the release of the world's first toolkit and library for Quantum Natural Language Processing (QNLP).",
@@ -1021,151 +1158,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-how-saas-companies-can-prevent-churn-and-drive-growth-using-ai.md",
-      "title": "How SaaS Companies Can Prevent Churn And Drive Growth Using AI",
-      "excerpt": "Not only can AI consume and organize data, but it is also the key to unlocking insights that help prevent churn, stopping loss before it starts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6165cee8c9c9bc394a1e3a1e%2F0x0.jpg",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/10/12/how-saas-companies-can-prevent-churn-and-drive-growth-using-ai/amp/",
-      "publishedDateTime": "2021-10-12T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-dreamdrive-lucids-proprietary-advanced-driver-assistance-platform-thats-user-friendly-and-future-ready.md",
-      "title": "DreamDrive: Lucid's Proprietary Advanced Driver Assistance Platform That's User-Friendly and Future-Ready",
-      "excerpt": "Lucid Group, which is setting new standards with its advanced luxury EVs, announced today the details of DreamDrive™, the most technically sophisticated advanced driver-assistance system (ADAS). All versions of DreamDrive employ 32 on-board sensors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lucidmotors.com/media-room/dreamdrive-advanced-driver-assistance-platform/",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dreamdrive-lucid-s-proprietary-advanced-driver-assistance-platform-that-s-user-friendly-and-future-ready-1030859943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lucidmotors.com/static/lucid-air-pure-touring-grand-touring-1200x630-e638642943942ed7bb3845892e57cceb.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-today-in-healthcare-telehealth-in-africa-ai-vs-payment-fraud-transparency-and-innovation.md",
-      "title": "Today in Healthcare: Telehealth in Africa, AI vs. Payment Fraud, Transparency and Innovation",
-      "excerpt": "AI is taking a bite of the $300 billion in fraud, waste and abuse, and the No Surprise Act is bringing transparency and innovation to healthcare payments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/",
-      "originalUrl": "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/10/telehealth-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/telehealth-in-africa-ai-payment-fraud-transparency-innovation/amp/",
-      "publishedDateTime": "2021-10-12T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,152 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-11-24-nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai.md",
+      "title": "NSW government clamps down on apartment building defects using blockchain and AI",
+      "excerpt": "Apartment building defects are not uncommon these days, but the NSW government has been developing new solutions using AI and blockchain to crackdown on this. Speaking at the 2021 digital.NSW event, Office of the NSW Building Commissioner digital director Yin Man explained how the state government has worked with KPMG,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/",
+      "originalUrl": "https://www.zdnet.com/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-government-clamps-down-on-apartment-building-defects-using-blockchain-and-ai/",
+      "publishedDateTime": "2021-11-23T20:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us.md",
+      "title": "Samsung to spend $17 billion to build new chip plant in the US",
+      "excerpt": "Samsung on Wednesday said it would spend an estimated $17 billion in the US to build a new semiconductor manufacturing facility that will produce advanced logic chips. The new plant, to be built at Taylor,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
+      "originalUrl": "https://www.zdnet.com/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bb4db8585baa7730723206c0bfaa1bdb74477f1a/2020/02/20/ce30201d-cc31-4d68-be0d-cef488c3e6d1/image-samsungs-new-euv-line-in-hwaseong.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/samsung-to-spend-17-billion-to-build-new-chip-plant-in-the-us/",
+      "publishedDateTime": "2021-11-23T16:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-build-mlops-workflows-with-amazon-sagemaker-projects-gitlab-and-gitlab-pipelines.md",
+      "title": "Build MLOps workflows with Amazon SageMaker projects, GitLab, and GitLab pipelines",
+      "excerpt": "Machine learning operations (MLOps) are key to effectively transition from an experimentation phase to production. The practice provides you the ability to create a repeatable mechanism to build, train, deploy, and manage machine learning models. To quickly adopt MLOps, you often require capabilities",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-mlops-workflows-with-amazon-sagemaker-projects-gitlab-and-gitlab-pipelines/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-mlops-workflows-with-amazon-sagemaker-projects-gitlab-and-gitlab-pipelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/16/ML-6664-arch-diagram-image001-1241x630.png",
+          "width": 1241,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T13:01:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
       "excerpt": "IDC estimates that the global artificial intelligence (AI) market is on track to generate $327.5 billion in revenue in 2021, a jump of 16.4% over last year. The research firm anticipates that spending on AI-related hardware,",
@@ -973,153 +1119,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-streetlogic-launches-computer-vision-based-e-bike-collision-warning-system-raises-21m.md",
-      "title": "Streetlogic launches computer vision-based e-bike collision warning system, raises $2.1M",
-      "excerpt": "Streetlogic wants to help e-bike riders have a safer experience on the road. The company announced a $2.1 million pre-seed raise, as well as the launch of its flagship product, a surround-view camera that can predict front,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/23/streetlogic-launches-computer-vision-based-e-bike-collision-warning-system-raises-2-1m/",
-      "originalUrl": "https://techcrunch.com/2021/11/23/streetlogic-launches-computer-vision-based-e-bike-collision-warning-system-raises-2-1m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Intersection-Still.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/23/streetlogic-launches-computer-vision-based-e-bike-collision-warning-system-raises-2-1m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/23/streetlogic-launches-computer-vision-based-e-bike-collision-warning-system-raises-2-1m/amp/",
-      "publishedDateTime": "2021-11-23T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-can-a-machine-learning-model-tame-your-cloud-costs.md",
-      "title": "Can a Machine Learning model tame your cloud costs?",
-      "excerpt": "There are plenty of third-party services that promise to babysit your cloud footprints to keep your monthly bills in check. But each year, when we hit the expo floor in Vegas, we've wondered when somebody would come up with a solution for training a machine learning model on the job to perform the job more systematically.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/can-a-machine-learning-model-tame-your-cloud-costs/",
-      "originalUrl": "https://www.zdnet.com/article/can-a-machine-learning-model-tame-your-cloud-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5ccc61ecbef222f8da0a071eb63be2a750ac28cb/2021/11/23/b468fe8a-dc17-4d2f-af02-3d46acdea242/cloud-data-center.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-a-machine-learning-model-tame-your-cloud-costs/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-a-machine-learning-model-tame-your-cloud-costs/",
-      "publishedDateTime": "2021-11-23T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-identity-guard-identity-theft-protection-review-and-prices.md",
-      "title": "Identity Guard Identity Theft Protection Review and Prices",
-      "excerpt": "There are three identity theft protection plans from Identity Guard that use Watson, and these are available for both individuals or families. Plans include a relatively inexpensi",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/360-reviews/digital-privacy/identity-theft-protection/identity-guard",
-      "originalUrl": "https://www.usnews.com/360-reviews/digital-privacy/identity-theft-protection/identity-guard",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

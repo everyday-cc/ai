@@ -1,12 +1,12 @@
 ---
 category: news
 title: "The movement to hold AI accountable gains more steam"
-excerpt: "Now, efforts are underway to better understand how AI works and hold users accountable. New York’s City Council last month adopted a law requiring audits of algorithms used by employers in hiring or promotion."
+excerpt: "Standards for audits and auditors are important because growing calls to regulate AI have led to the creation of a number of auditing startups, some by critics of AI, and others that might be more favorable to the companies they are auditing."
 publishedDateTime: 2021-12-05T13:10:00Z
-originalUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/"
-webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/"
+originalUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/2/"
+webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/2/"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Facebook AI
   - AI
 
 images:
@@ -54,6 +55,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "4sZnl1ZPeKTd00BvOMz/l4/Z8rDKc7yA+EV2oGrdOWmAf5AB4l3WtkGaySQeT+mOe8Z6ZFVdhjWv9LRXc41npf1qq1ejLYJKzqKGUM5c+1iRgVQJNPJcZJSTbTjj3GOVu87xOnUj5xkYoNGBbbt68D8lyKFzVyetGu3v5MdxQHRIS3ohzWz6hNvn7UuWsWKFyOPY9VQyXjl8rTmaIn1oH762k5jfvXV2bOAwhYd/6gTjiv3GM2Ps28Dgd434VokTsTaMMjmuVOuERzmAuf3apqEch4PTpj5WLlHpwC/jrLlu78F721+xtWXBSnL8E6dKYNlkg08wys9Muwa9XO3JDvJX6qjObJmywBZ6J2Fsl6k=;3kf37V8u7kH7oPcCJ0ObnA=="
+secured: "kh7rM57Irxj8vZ7jkIZziRqTcq8cVRKwrnjaorzkPHhyKtG7fDhs9hzjJKdySjGF8DJk6fRDyn17fdVbJvrWn2+FJfFHGpItJ0dAd4K3awYGw0BS+cg9QrzuiBk0HqS22RXgC4qGhra5mh9n03BiCBW4SJR3a4egG4HgUIsP5NlqKFwfzDEixgOW92T/259Tkb6fMoLToZ3sXBd8TAbyPsUzRw7W37erHpalUYD1R2CNnHcjwoZvYELHrqsr0YqwGodOXBE1ArumaT1HLhkm1H9GendOvbpj6VKRWUESAWl66vSfIE83E24cbfYkgaZRZmY10TLd97pzjyyL/BjocP8inJeyuI4qLz1tTBOlEk4=;z71LC9exf9XrKbzAK6oxBQ=="
 ---
 

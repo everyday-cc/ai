@@ -614,6 +614,42 @@
       ]
     },
     {
+      "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
+      "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
+      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible-2/",
+      "originalUrl": "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-continuously-improve-search-application-effectiveness-with-amazon-kendra-analytics-dashboard.md",
       "title": "Continuously improve search application effectiveness with Amazon Kendra Analytics Dashboard",
       "excerpt": "Unstructured data belonging to enterprises continues to grow, making it a challenge for customers and employees to get the information they need. Amazon Kendra is a highly accurate intelligent search service powered by machine learning (ML). It helps you easily find the content you’re looking for, even",
@@ -1414,50 +1450,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-massrobotics-announces-aws-robotics-startup-accelerator.md",
-      "title": "MassRobotics Announces AWS Robotics Startup Accelerator",
-      "excerpt": "AWS Robotics Accelerator to scale robotics startups focused on automation and IIOT BOSTON, MA / ACCESSWIRE / November 29, 2021 / MassRobotics has announced a new Amazon Web Services, Inc. (AWS) Robotics Startup Accelerator to address the biggest challenges in the automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm",
-      "originalUrl": "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR-Inside",
-        "domain": "pr-inside.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/machine-learning/361762/automl-ma
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030?amp"
 type: article
 quality: 89
-heat: 99
+heat: 110
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AutoML market revenue set to surpass $14bn by 2030"
+    excerpt: "The automated machine learning (ML) market is expected to grow from $346.2 million in 2020 to $14.8 billion by 2030, based on forecasts from P&S Intelligence, Leading the market is a surge in demand for fraud detection solutions,"
+    publishedDateTime: 2021-12-06T17:52:00Z
+    webUrl: "https://www.techcentral.ie/automl-market-revenue-set-to-surpass-14bn-by-2030/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2019/07/AI_artifical_intelligence_abstract_brain_circuit_web.jpg"
+        width: 620
+        height: 350
+        isCached: true
   - title: "AutoML Market Revenue to Surpass $14,830.8 Million by 2030, Says P&S Intelligence"
     excerpt: "From $346.2 million in 2020, the automated machine learning market is predicted to reach $14,830.8 million by 2030, demonstrating a CAGR"
     publishedDateTime: 2021-12-06T09:45:00Z

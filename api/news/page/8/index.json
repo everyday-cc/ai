@@ -2,6 +2,149 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-30-how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy.md",
+      "title": "How Artificial Intelligence And Machine Learning Are Transforming The Future Of Renewable Energy",
+      "excerpt": "All of these resources are tied up with the weather, which is something humans can’t control. Artificial intelligence has helped in overcoming this challenge because it is a reliable tool for forecasting the weather.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe21626fcd21bd2b717a302%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/",
+      "publishedDateTime": "2021-11-30T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "Microsoft AI",
+        "IBM AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-how-do-we-develop-ai-education-in-schools-a-panel-discussion.md",
+      "title": "How do we develop AI education in schools? A panel discussion",
+      "excerpt": "AI is a broad and rapidly developing field of technology. Our goal is to make sure all young people have the skills, knowledge, and confidence to use and create AI systems. So what should AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/",
+      "originalUrl": "https://www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.blogdot.tv/wp-content/uploads/2021/11/how-do-we-develop-ai-education-in-schools-a-panel-discussion.jpg",
+          "width": 500,
+          "height": 346,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/amp/",
+      "cdnAmpWebUrl": "https://www-blogdot-tv.cdn.ampproject.org/c/s/www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/amp/",
+      "publishedDateTime": "2021-11-30T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "blogdot",
+        "domain": "blogdot.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-ambyint-achieves-aws-energy-competency-status.md",
+      "title": "Ambyint Achieves AWS Energy Competency Status",
+      "excerpt": "Ambyint artificial lift optimization technologies help accelerate customers' digital transformations Ambyint, a production and artificial lift optimization solutions",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24358439",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24358439",
+      "publishedDateTime": "2021-11-30T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-what-are-major-factors-driving-growth-of-deep-learning-market.md",
       "title": "What are Major Factors Driving Growth of Deep Learning Market?",
       "excerpt": "The increasing focus of the education sector on conversational learning owing to the rapid adoption of e learning and digital solutions is facilitating the deployment of artificial i AI technology in this sector In conversational learning content is presented as",
@@ -1041,162 +1184,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-does-the-right-to-bear-arms-cover-ai-guns-and-killer-robots.md",
-      "title": "Does the right to bear arms cover AI guns and killer robots?",
-      "excerpt": "The conversation surrounding autonomous weapons may center on warfare and terrorism, but it's time we discussed the 2nd Amendment too.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/does-right-to-bear-arms-cover-ai-guns-and-killer-robots",
-      "originalUrl": "https://thenextweb.com/news/does-right-to-bear-arms-cover-ai-guns-and-killer-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2Frobots_with_guns.jpg&signature=6445c569aa46bc45e677c928eb00d8ce",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-how-to-remove-bias-from-ai-models.md",
-      "title": "How to remove bias from AI models",
-      "excerpt": "With AI making more real-world decisions everyday, reining in bias is more important than ever. As AI becomes more pervasive, AI-based discrimination is getting the attention of policymakers and corporate leaders but keeping it out of AI-models in the first place is harder than it sounds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-to-remove-bias-from-ai-models/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-remove-bias-from-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/11/29/4b8e4a82-a67b-4109-ba38-9161274c3446/resize/1200x/2ce3b0768b0e30006d45a90e02f1399b/shutterstock-1218220324.jpg",
-          "width": 1200,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-remove-bias-from-ai-models/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-remove-bias-from-ai-models/",
-      "publishedDateTime": "2021-11-29T12:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-ai-just-designed-the-worlds-first-living-robot-that-can-make-babies.md",
-      "title": "AI Just Designed The World’s First Living Robot That Can Make Babies",
-      "excerpt": "People have philosophized about this forever,” says Joshua Bongard, senior author and computer scientist at the University of Vermont. “But now you can actually do experiments to create biological machines,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/",
-      "originalUrl": "https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a2ddf3713ca3529d70c192%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D234%26cropY2%3D2578",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/amp/",
-      "publishedDateTime": "2021-11-29T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

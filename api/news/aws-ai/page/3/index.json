@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-16-aws-claims-pivotal-role-in-creation-of-african-unicorns.md",
+      "title": "AWS claims pivotal role in creation of African unicorns",
+      "excerpt": "The Amazon subsidiary says it played an instrumental role in helping to create some of the African tech start-ups currently valued at over $1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/raYAyModOkVqJ38N",
+      "originalUrl": "https://www.itweb.co.za/content/raYAyModOkVqJ38N",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/snUiZea6wjkkUVhhtf52mXdpqopiCkM3l-eRctL0yLTZTsqsetU2zehg3otSLYjGwilj4ZBWtHyIK3EmjInkLOjBKld-G79aVkXC=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/raYAyModOkVqJ38N",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/raYAyModOkVqJ38N",
+      "publishedDateTime": "2021-11-16T00:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-qualtrics-and-aws-expand-relationship-to-transform-customer-feedback-into-enhanced-experiences.md",
       "title": "Qualtrics and AWS Expand Relationship to Transform Customer Feedback into Enhanced Experiences",
       "excerpt": "(NASDAQ: AMZN), and Qualtrics (NASDAQ: XM) announced they are expanding their relationship, with Qualtrics migrating its internal IT systems and customer-facing workloads to the world’s leading cloud.",
@@ -1407,60 +1450,6 @@
         "AWS AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.md",
-      "title": "Oracle bolsters cloud infrastructure with suite of AI tools",
-      "excerpt": "It will compete with Amazon Web Services’ (AWS) SageMaker platform and Microsoft’s Azure Machine Learning Studio, which is designed for use by enterprise developers who may not have in-depth expertise or knowledge of data science. Despite playing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html",
-      "originalUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/08/oracle-cloud-on-building-100730618-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3638700/oracle-bolsters-cloud-infrastructure-with-suite-of-ai-tools.amp.html",
-      "publishedDateTime": "2021-11-03T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
       ]
     }
   ],

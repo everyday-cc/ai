@@ -73,22 +73,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Facebook parent Meta tightens links with open source community through expanded AWS partnership"
-    excerpt: "Social media conglomerate Meta confirms AWS’s elevation to strategic cloud partner status as tech giants’ ongoing collaboration enters next phase."
-    publishedDateTime: 2021-12-02T04:45:00Z
-    webUrl: "https://www.computerweekly.com/news/252510363/Facebook-parent-Meta-tightens-links-with-open-source-community-through-expanded-AWS-partnership"
-    ampWebUrl: "https://www.computerweekly.com/news/252510363/Facebook-parent-Meta-tightens-links-with-open-source-community-through-expanded-AWS-partnership?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510363/Facebook-parent-Meta-tightens-links-with-open-source-community-through-expanded-AWS-partnership?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 49
-    images:
-      - url: "https://www.computerweekly.com/visuals/German/article/facebook-reflection-adobe.jpg"
-        width: 1200
-        height: 400
-        isCached: true
   - title: "NEC to introduce facial recognition vaccination check system"
     excerpt: "Japan's NEC Corp. will start the full-scale introduction of a vaccination certification system for COVID-19 based on facial recogniti"
     publishedDateTime: 2021-12-03T10:20:00Z

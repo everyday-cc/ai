@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning most acquired skill in country: Survey"
+    excerpt: "Hyderabad: Machine learning (ML) is the most preferred course online during 2021 with AI and Machine Learning. Specialists, data analysts and data scientists are pegged as the most sought after emerging job roles."
+    publishedDateTime: 2021-12-06T19:40:00Z
+    webUrl: "https://www.thehansindia.com/news/cities/hyderabad/machine-learning-most-acquired-skill-in-country-survey-718513"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/cities/hyderabad/machine-learning-most-acquired-skill-in-country-survey-718513"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/machine-learning-most-acquired-skill-in-country-survey-718513"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/07/12/1087932-ai.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Machine learning becomes most acquired skill in India on Coursera in 2021"
     excerpt: "According to the Annual Employability Survey by Aspiring Minds, 2.5% of Indian engineers possess technical skills in artificial intelligence (AI) that the industry requires"
     publishedDateTime: 2021-12-06T09:48:00Z

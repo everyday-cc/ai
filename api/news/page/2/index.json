@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-05-the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being.md",
+      "title": "The Ironic Need To Make Sure That Self-Driving Cars Look Like Self-Driving Cars, At Least For The Time Being",
+      "excerpt": "Self-driving cars might end-up looking like conventional cars, while conventional cars will look like self-driving cars, which could be troubling from a distinctive appearance consideration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6025c63de89f5cf5cf21afe3%2F0x0.jpg%3FcropX1%3D157%26cropX2%3D7900%26cropY1%3D628%26cropY2%3D4983",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/amp/",
+      "publishedDateTime": "2021-12-05T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-05-how-to-generate-submit-life-certificate-through-face-recognition.md",
       "title": "How To Generate & Submit Life Certificate Through Face Recognition?",
       "excerpt": "Every central government pensioner is mandated to submit a life certificate every year in November in order to keep their pension effective. Unfortunately, due to the COVID-19 outbreak, Central Government pensioners have been given an extended time limit until December to submit their life certificate online or in person at a bank.",
@@ -148,6 +200,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-05-tesla-pushes-new-full-self-driving-beta-update-with-improved-object-detection.md",
+      "title": "Tesla pushes new Full Self-Driving Beta update with improved object detection",
+      "excerpt": "Tesla has started to push a new Full Self-Driving Beta software update (version 10.6) to its fleet with improved object detection. It’s the latest step in the long road to improve the FSD package and deliver on a promise to customers that has been delayed several times.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/",
+      "originalUrl": "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/",
+      "publishedDateTime": "2021-12-04T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-05-fears-interviews-done-by-robot-ai-stop-clever-working-class-kids-getting-jobs.md",
       "title": "Fears interviews done by robot AI 'stop clever working-class kids getting jobs'",
       "excerpt": "There are fears that robot interviews by webcam that judge candidates on the way they speak will stop well-qualified youngsters from less privileged families getting jobs",
@@ -156,7 +260,7 @@
       "originalUrl": "https://www.mirror.co.uk/news/uk-news/fears-interviews-done-robot-ai-25617315",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 70,
       "tags": null,
       "images": [
         {
@@ -389,7 +493,7 @@
       "originalUrl": "https://www.businessinsider.com/alexa-skills",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1105,112 +1209,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-facebook-exiting-the-facial-recognition-game.md",
-      "title": "Facebook Exiting The Facial Recognition Game",
-      "excerpt": "Meta, the company formerly known as Facebook is pulling the plug on its facial recognition program. It's planning to delete more than one billion people’s individual facial recognition templates, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/",
-      "originalUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a77b820a07bba1e37323e3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/",
-      "publishedDateTime": "2021-12-03T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-could-googles-deepmind-ai-transform-healthcare.md",
-      "title": "Could Google's DeepMind AI Transform Healthcare?",
-      "excerpt": "Google DeepMind AI can predict protein interactions, including folding. The AI could help increase basic scientific knowledge, potentially with drug development. Although DeepMind won't transform healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/",
-      "originalUrl": "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/655355/gettyimages-1273886962.jpg",
-          "width": 4000,
-          "height": 2250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T03:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

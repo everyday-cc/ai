@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-02-that-radio-dj-you-hear-might-already-be-a-robot.md",
+      "title": "That radio DJ you hear might already be a robot",
+      "excerpt": "Andy Chanley has been a radio DJ for over 32 years. And now, thanks to artificial intelligence technology, his voice will live on simultaneously in many places.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/",
+      "originalUrl": "https://www.mercurynews.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2019/06/13_RADNICH_6_RKH_0.jpg?w=1024&#038;h=685",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/amp/",
+      "publishedDateTime": "2021-12-02T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-exclusive-softbank-led-funding-round-for-sustainability-start-up-clarity-ai.md",
+      "title": "EXCLUSIVE Softbank led funding round for sustainability start-up Clarity AI",
+      "excerpt": "Softbank Group Corp's Vision Fund 2 has led the latest funding round for sustainability data technology platform Clarity AI, alongside existing investors including BlackRock , valuing the start-up at $450 million,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/funds/exclusive-softbank-led-funding-round-sustainability-start-up-clarity-ai-2021-12-02/",
+      "originalUrl": "https://www.reuters.com/markets/funds/exclusive-softbank-led-funding-round-sustainability-start-up-clarity-ai-2021-12-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/6_B_kyhd4Z6lGVcp0gRO-qwDMCc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LIP4CZNCMJKDVCPICMXP45WUEY.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-4-reasons-to-attend-the-put-responsible-ai-into-practice-azure-digital-event.md",
+      "title": "4 reasons to attend the Put Responsible AI into Practice Azure digital event",
+      "excerpt": "AI is transforming business and the world. However, AI models learn from the data. Biases that exist in society will exist in the models. Human judgment must be the overriding factor, ensuring that AI models benefit and are inclusive of everyone. Equally important, AI must inspire trust in customers",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/4-reasons-to-attend-the-put-responsible-ai-into-practice-azure-digital-event/",
+      "originalUrl": "https://azure.microsoft.com/blog/4-reasons-to-attend-the-put-responsible-ai-into-practice-azure-digital-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T06:00:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-the-quest-to-make-an-ai-that-can-play-competitive-pokemon.md",
       "title": "The quest to make an AI that can play competitive Pokémon",
       "excerpt": "An AI can beat a chess grandmaster. An AI can become the StarCraft esports champion. But creating an AI that could play Pokémon at the competitive level has been a more elusive problem. Thanks to the variety of monsters,",
@@ -1033,152 +1170,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-reimagining-your-customer-experience-with-conversational-ai.md",
-      "title": "Reimagining Your Customer Experience With Conversational AI",
-      "excerpt": "That needn’t be the case: it’s time for organizations to reevaluate the role of conversational AI in customer experiences. In many cases, it’s already become obvious that simple speech can replace high-friction processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a7ff3b1e9bfe123b852719%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1578%26cropY1%3D0%26cropY2%3D887",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/amp/",
-      "publishedDateTime": "2021-12-01T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment.md",
-      "title": "How much can we trust AI? How to build confidence before large-scale deployment",
-      "excerpt": "Organizations must still build trust in AI before they deploy it throughout the organization. Here are some simple steps to make AI more dependable and ethical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "originalUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "publishedDateTime": "2021-12-01T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-study-shows-how-machine-learning-could-improve-covid-19-predictive-models.md",
-      "title": "Study shows how machine learning could improve COVID-19 predictive models",
-      "excerpt": "Throughout the COVID-19 pandemic, case rates have ebbed and flowed in ways that have been hard for epidemiological models to predict. A new study by mathematicians from Brown University uses an advanced machine learning technique to explore the strengths and weaknesses of commonly used models,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-machine-covid-.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-machine-covid-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/digitalnetwo.jpg",
-          "width": 1920,
-          "height": 1357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-machine-covid-.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-machine-covid-.amp",
-      "publishedDateTime": "2021-12-01T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

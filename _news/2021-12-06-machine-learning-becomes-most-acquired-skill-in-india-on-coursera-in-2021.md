@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/education/news/machine-learning-becomes-mos
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/machine-learning-becomes-most-acquired-skill-in-india-on-coursera-in-2021/amp-11638783681363.html"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning most acquired skill in country: Survey"
+    excerpt: "Hyderabad: Machine learning (ML) is the most preferred course online during 2021 with AI and Machine Learning. Specialists, data analysts and data scientists are pegged as the most sought after emerging job roles."
+    publishedDateTime: 2021-12-06T19:40:00Z
+    webUrl: "https://www.thehansindia.com/news/cities/hyderabad/machine-learning-most-acquired-skill-in-country-survey-718513"
+    ampWebUrl: "https://www.thehansindia.com/amp/news/cities/hyderabad/machine-learning-most-acquired-skill-in-country-survey-718513"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/machine-learning-most-acquired-skill-in-country-survey-718513"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/07/12/1087932-ai.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Machine Learning Is The Most Acquired Skill In India"
     excerpt: "Data, Data, Everywhere are the top two popular courses to upskill in the demanding ecosystem The Future of Jobs 2020 report by the World Economic Forum states that AI and Machine Learning Specialists,"
     publishedDateTime: 2021-12-06T13:44:00Z

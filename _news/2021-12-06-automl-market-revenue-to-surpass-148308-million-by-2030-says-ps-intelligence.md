@@ -41,6 +41,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "AutoML market revenue set to surpass $14bn by 2030"
+    excerpt: "The automated machine learning (ML) market is expected to grow from $346.2 million in 2020 to $14.8 billion by 2030, based on forecasts from P&S Intelligence, Leading the market is a surge in demand for fraud detection solutions,"
+    publishedDateTime: 2021-12-06T17:52:00Z
+    webUrl: "https://www.techcentral.ie/automl-market-revenue-set-to-surpass-14bn-by-2030/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 39
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2019/07/AI_artifical_intelligence_abstract_brain_circuit_web.jpg"
+        width: 620
+        height: 350
+        isCached: true
 
 secured: "kD81d7aS15/TlTGuNO8IC83Yavim7GAPjp+90eOvObXLV9sp7WUUm68IjIvK+Trhp/NliQHktGUImLTJ2JHeICwE4o7dEUJyJHRQa76WSTcUFWHUR2lK+qt1u4jvTm2dGqhr1xy98qkx8geIBvUlYltSbXIenT5I94LrYx0Tv0yxz3TXcdEl5xNNpf6JvPmdHvxX+gRACZBIG5sVWuhoUbRLXWUVzB4/5qXPkjZ8m/8LBi1HefvUudO7amZ7izI4mqQd5+7UJEQ7pp+wDzNeF3alUo1QAVy9ldqGYfKZNVux4jJpjVDEEib0W7hmnDC6ZgFGkv0pTLPEdKw0h6AA+yPirhlt/MUJndOg3MUiAR0AZP17wkqib00gzzJNvJG7kom46bkeWJZZpnaxpezrOqcUrj+CAi+PIMvNNSvYLlZPN1sOSJj71Bpzs0ZmMRyZvZE+HunFX5UY8jbzK+F22BWV9WVaS+rj23nIuZ/eBZ+pQibf4g+76HSjYPAdpxdaD3u2/UojYXrxf/QTGGf7FA==;flD2e1R6ZEA+VTO7tMYuLQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/alexa-skills?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alexa-skills?amp"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:

@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-11-02-reducing-city-transport-emissions-with-maps-and-ai.md",
-      "title": "Reducing city transport emissions with Maps and AI",
-      "excerpt": "City transportation is crucial to connecting residents to education, employment and essential services. At the same time, the transportation sector is where global greenhouse gas (GHG) emissions are rising the quickest.In 2018, we launched the Environmental Insights Explorer (EIE) in collaboration with",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
-      "originalUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Transportation_Blog.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 975,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/maps/reducing-city-transport-emissions-maps-and-ai/amp/",
-      "publishedDateTime": "2021-11-02T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-02-real-world-challenges-for-agi.md",
       "title": "Real-World Challenges for AGI",
       "excerpt": "Koray Kavukcuoglu, VP of Research, discusses some of the natural obstacles faced in the development of AGI.",
@@ -1423,6 +1371,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-01-google-faces-a-lawsuit-over-deepminds-access-to-16-million-uk-patients-records.md",
+      "title": "Google faces a lawsuit over DeepMind's access to 1.6 million UK patients' records",
+      "excerpt": "Google and DeepMind face legal action over access to millions of UK patient records in 2015. DeepMind gained access to 1.6 million patients' data in a deal with the Royal Free deemed to have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-and-deepmind-face-lawsuit-over-unlawful-nhs-data-access-2021-9",
+      "originalUrl": "https://www.businessinsider.com/google-and-deepmind-face-lawsuit-over-unlawful-nhs-data-access-2021-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6155b5e1b414c10018630cdd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-and-deepmind-face-lawsuit-over-unlawful-nhs-data-access-2021-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-and-deepmind-face-lawsuit-over-unlawful-nhs-data-access-2021-9?amp",
+      "publishedDateTime": "2021-10-01T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

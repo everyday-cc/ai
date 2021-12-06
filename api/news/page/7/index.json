@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-01-aws-powers-global-rollout-and-increased-personalization-of-discovery.md",
+      "title": "AWS powers global rollout and increased personalization of discovery+",
+      "excerpt": "AWS (NASDAQ: AMZN) is powering the vast majority of Discovery’s infrastructure needs to deliver its discovery+ on-demand streaming video service, its digital services, and more than 450 linear TV channels to viewers around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltvnews.net/?p=37513",
+      "originalUrl": "https://www.digitaltvnews.net/?p=37513",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital TV News",
+        "domain": "digitaltvnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-koreas-p2p-lending-startup-peoplefund-gets-634m-series-c-led-by-bain-capital.md",
+      "title": "Korea’s P2P lending startup PeopleFund gets $63.4M Series C led by Bain Capital",
+      "excerpt": "South Korea-based peer-to-peer (P2P) lending platform PeopleFund announced today it has closed a $63.4 million (75.9 billion won) Series C round led by Bain Capital with participation from Goldman Sachs.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/30/koreas-p2p-lending-startup-peoplefund-gets-63-4m-series-c-led-by-bain-capital/",
+      "originalUrl": "https://techcrunch.com/2021/11/30/koreas-p2p-lending-startup-peoplefund-gets-63-4m-series-c-led-by-bain-capital/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB3_%E1%84%91%E1%85%B5%E1%84%91%E1%85%B3%E1%86%AF%E1%84%91%E1%85%A5%E1%86%AB%E1%84%83%E1%85%B3-%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%B2-%E1%84%89%E1%85%A1%E1%84%86%E1%85%AE%E1%84%89%E1%85%B5%E1%86%AF_%E1%84%8C%E1%85%B5%E1%86%A8%E1%84%8B%E1%85%AF%E1%86%AB-%E1%84%92%E1%85%B2%E1%84%80%E1%85%A6-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A1%E1%86%AB.jpeg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/30/koreas-p2p-lending-startup-peoplefund-gets-63-4m-series-c-led-by-bain-capital/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/koreas-p2p-lending-startup-peoplefund-gets-63-4m-series-c-led-by-bain-capital/amp/",
+      "publishedDateTime": "2021-11-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost.md",
+      "title": "Qualcomm launches Snapdragon 8 Gen 1 mobile platform with AI, camera, security boost",
+      "excerpt": "Qualcomm has announced Snapdragon 8 Gen 1 featuring improved camera capabilities, artificial intelligence (AI) applications, and security enhancements.  During the annual Qualcomm Snapdragon Tech Summit,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/",
+      "originalUrl": "https://www.zdnet.com/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 299,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/06c2754bb5fd41361d2d19fb5758a85123fdf813/2021/11/24/37ec361f-765c-4608-910d-f9b36d8d9acc/screenshot-2021-11-24-at-15-37-15.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 783,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost/",
+      "publishedDateTime": "2021-11-30T15:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-overconfident-china-could-make-miscalculations-british-spy-chief-says.md",
       "title": "Overconfident China could make miscalculations, British spy chief says",
       "excerpt": "An overconfident and assertive China under President Xi Jinping and Communist Party rule risks making miscalculations on the international stage, including underestimating the resolve of the United States,",
@@ -1061,149 +1199,6 @@
       "provider": {
         "name": "Le Lézard",
         "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy.md",
-      "title": "How Artificial Intelligence And Machine Learning Are Transforming The Future Of Renewable Energy",
-      "excerpt": "All of these resources are tied up with the weather, which is something humans can’t control. Artificial intelligence has helped in overcoming this challenge because it is a reliable tool for forecasting the weather.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe21626fcd21bd2b717a302%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/30/how-artificial-intelligence-and-machine-learning-are-transforming-the-future-of-renewable-energy/amp/",
-      "publishedDateTime": "2021-11-30T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "Microsoft AI",
-        "IBM AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-how-do-we-develop-ai-education-in-schools-a-panel-discussion.md",
-      "title": "How do we develop AI education in schools? A panel discussion",
-      "excerpt": "AI is a broad and rapidly developing field of technology. Our goal is to make sure all young people have the skills, knowledge, and confidence to use and create AI systems. So what should AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/",
-      "originalUrl": "https://www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.blogdot.tv/wp-content/uploads/2021/11/how-do-we-develop-ai-education-in-schools-a-panel-discussion.jpg",
-          "width": 500,
-          "height": 346,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/amp/",
-      "cdnAmpWebUrl": "https://www-blogdot-tv.cdn.ampproject.org/c/s/www.blogdot.tv/how-do-we-develop-ai-education-in-schools-a-panel-discussion/amp/",
-      "publishedDateTime": "2021-11-30T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "blogdot",
-        "domain": "blogdot.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-ambyint-achieves-aws-energy-competency-status.md",
-      "title": "Ambyint Achieves AWS Energy Competency Status",
-      "excerpt": "Ambyint artificial lift optimization technologies help accelerate customers' digital transformations Ambyint, a production and artificial lift optimization solutions",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24358439",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24358439",
-      "publishedDateTime": "2021-11-30T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
