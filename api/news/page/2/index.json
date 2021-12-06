@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-03-mri-ai-may-detect-early-signs-of-tumour-cell-death-after-novel-therapy.md",
+      "title": "MRI, AI may detect early signs of tumour cell death after novel therapy",
+      "excerpt": "According to new research led by Massachusetts General Hospital it has been found that magnetic resonance imaging MRI and artificial intelligence AI can be",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/271859405/mri-ai-may-detect-early-signs-of-tumour-cell-death-after-novel-therapy",
+      "originalUrl": "https://www.bignewsnetwork.com/news/271859405/mri-ai-may-detect-early-signs-of-tumour-cell-death-after-novel-therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ani1638529347.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-real-world-computer-vision-applications-communications-experts-should-understand.md",
       "title": "Real-World Computer Vision Applications Communications Experts Should Understand",
       "excerpt": "As this technology gets better and better, I think we’re going to find more ways to use it to make our lives safer and better.",
@@ -328,7 +371,7 @@
       "originalUrl": "https://techcrunch.com/video/emerging-ai-companies-are-driving-a-paradigm-shift-in-ml/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -925,7 +968,7 @@
       "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1052,51 +1095,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-how-machine-learning-aids-new-mathematics-discoveries.md",
-      "title": "How Machine Learning Aids New Mathematics Discoveries",
-      "excerpt": "Computers have long been used to aid mathematicians when it comes to solving long, complex and experimental equations. Additionally, machine learning and AI have also found application in disproving mathematical conjectures and theorems by being able to toil through vast fields of data and spot anomalies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12638",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12638",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12638_16384551289877625.jpg",
-          "width": 2000,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12638",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12638",
-      "publishedDateTime": "2021-12-02T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "Math for AI"
       ]
     },
     {

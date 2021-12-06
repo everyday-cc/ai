@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-03-could-googles-deepmind-ai-transform-healthcare.md",
-      "title": "Could Google's DeepMind AI Transform Healthcare?",
-      "excerpt": "Google DeepMind AI can predict protein interactions, including folding. The AI could help increase basic scientific knowledge, potentially with drug development. Although DeepMind won't transform healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/",
-      "originalUrl": "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/655355/gettyimages-1273886962.jpg",
-          "width": 4000,
-          "height": 2250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T03:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-12-03-univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch.md",
       "title": "Univ. of Washington deep learning researchers ‘hallucinate’ protein designs from scratch",
       "excerpt": "New protein structures not seen in nature have emerged from deep learning software deployed by University of Washington researchers and their colleagues. The approach is a step toward building",
@@ -108,21 +55,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-how-machine-learning-aids-new-mathematics-discoveries.md",
-      "title": "How Machine Learning Aids New Mathematics Discoveries",
-      "excerpt": "Computers have long been used to aid mathematicians when it comes to solving long, complex and experimental equations. Additionally, machine learning and AI have also found application in disproving mathematical conjectures and theorems by being able to toil through vast fields of data and spot anomalies.",
+      "path": "_news/2021-12-02-mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems.md",
+      "title": "Mathematicians hail breakthrough in using AI to suggest new theorems",
+      "excerpt": "Their work examined knot theory and representation theory, areas of \"pure mathematics\" which typically depend on human intuition for breakthroughs.",
       "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12638",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12638",
+      "webUrl": "https://news.sky.com/story/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934",
+      "originalUrl": "https://news.sky.com/story/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12638_16384551289877625.jpg",
-          "width": 2000,
-          "height": 1285,
+          "url": "https://e3.365dm.com/21/12/1600x900/skynews-oxford-mathematical_5601403.jpg?20211201160219",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -130,13 +77,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12638",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12638",
-      "publishedDateTime": "2021-12-02T06:31:00-08:00",
+      "ampWebUrl": "https://news.sky.com/story/amp/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934",
+      "publishedDateTime": "2021-12-01T11:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
+        "name": "Sky",
+        "domain": "sky.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -147,27 +94,25 @@
       ],
       "topics": [
         "Google AI",
-        "AI",
-        "Machine Learning",
-        "Math for AI"
+        "AI"
       ]
     },
     {
-      "path": "_news/2021-12-02-ai-proves-a-dab-hand-at-pure-mathematics-and-protein-hallucination.md",
-      "title": "AI proves a dab hand at pure mathematics and protein hallucination",
-      "excerpt": "One of the reasons artificial intelligence is such an interesting field is that pretty much no one knows what it might turn out to be good at. Two papers by leading labs published in the journal Nature today show that machine learning can be applied to tasks as technically demanding as protein",
+      "path": "_news/2021-12-02-deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics.md",
+      "title": "DeepMind claims AI has aided new discoveries and insights in mathematics",
+      "excerpt": "Learn more DeepMind, the AI research laboratory funded by Google’s parent company, Alphabet, today published the results of a collaboration between it and mathematicians to apply AI toward ...",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/",
-      "originalUrl": "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/",
+      "webUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/",
+      "originalUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 265,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/AI-for-Maths-blog-artwork.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -175,16 +120,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/amp/",
-      "publishedDateTime": "2021-12-01T09:51:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/",
+      "publishedDateTime": "2021-12-01T08:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -200,53 +145,9 @@
         "news"
       ],
       "topics": [
+        "Google AI",
         "AI",
-        "Math for AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-maths-researchers-hail-breakthrough-in-applications-of-artificial-intelligence.md",
-      "title": "Maths researchers hail breakthrough in applications of artificial intelligence",
-      "excerpt": "For the first time, computer scientists and mathematicians have used artificial intelligence to help prove or suggest new mathematical theorems in the complex fields of knot theory and representation theory.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.html",
-      "originalUrl": "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/maths-researchers-hail-1.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.amp",
-      "publishedDateTime": "2021-12-01T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Google AI"
+        "Math for AI"
       ]
     },
     {
@@ -1476,6 +1377,102 @@
         "Google AI",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-01-deepmind-takes-next-step-in-robotics-research.md",
+      "title": "DeepMind takes next step in robotics research",
+      "excerpt": "MuJoCo's free availability will have a positive impact on the work of scientists who are struggling with the costs of robotics research.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
+      "originalUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/AI-e1635273178346.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/31/deepmind-takes-next-step-in-robotics-research/amp/",
+      "publishedDateTime": "2021-10-31T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-deepmind-study-resolves-delusions-in-sequence-models-for-interaction-and-control.md",
+      "title": "DeepMind Study Resolves Delusions in Sequence Models for Interaction and Control",
+      "excerpt": "Large-scale language models such as transformers have become the de facto standard for a wide range of natural language processing (NLP) tasks. Despite their apparent linguistic savvy, such sequence models are known to lack a real understanding of the cause and effect of their actions,",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2021/10/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-134/",
+      "originalUrl": "https://syncedreview.com/2021/10/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-134/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2021/10/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-134/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/10/29/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-134/amp/",
+      "publishedDateTime": "2021-10-29T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     }
   ],

@@ -121,15 +121,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AIG Selects AWS as Its Preferred Public Cloud Provider"
-    excerpt: "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities."
-    publishedDateTime: 2021-12-01T08:50:00Z
-    webUrl: "https://www.financialbuzz.com/aig-selects-aws-as-its-preferred-public-cloud-provider/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 34
   - title: "Meta/Facebook turns to AWS as \"long-term strategic cloud provider\" for acquisitions, third-party collaborations, and AI"
     excerpt: "Meta said that it will run third-party collaborations in AWS and use the cloud to support acquisitions of companies that are already powered by AWS. It will also use AWS’s compu"
     publishedDateTime: 2021-12-03T11:41:00Z
@@ -144,15 +135,6 @@ related:
         width: 730
         height: 383
         isCached: true
-  - title: "Workato Joins AWS Partner Network and is a Launch Partner for AI for Data Analytics"
-    excerpt: "Workato, a leading global enterprise automation platform, today announced it is joining the AWS Partner Network (APN). Workato is also excited to announce its participation in Amazon Web Services, Inc."
-    publishedDateTime: 2021-12-01T08:55:00Z
-    webUrl: "https://www.financialbuzz.com/workato-joins-aws-partner-network-and-is-a-launch-partner-for-ai-for-data-analytics/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 30
   - title: "Meta picks AWS as long-term strategic cloud provider"
     excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
     publishedDateTime: 2021-12-02T07:52:00Z

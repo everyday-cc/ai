@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-12-machine-covid-.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-machine-covid-.amp"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "New approach to COVID-19 immune profiling using blood-based machine learning"
+    excerpt: "A new study discusses the application of a novel deconvolution model AImmune to predict moderate and severe cases of COVID-19."
+    publishedDateTime: 2021-12-05T23:49:00Z
+    webUrl: "https://www.news-medical.net/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 56
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/12/shutterstock_1722032125.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "New system for analyzing thoracic CT scans with deep learning enables COVID-19 lesion detection"
     excerpt: "A new automated system that involves deep learning technology enables the detection of COVID-19 lesion via the analysis of a computed tomography (CT) scan. This system, described in a study published in the journal Computers in Biology and Medicine,"
     publishedDateTime: 2021-12-01T21:38:00Z

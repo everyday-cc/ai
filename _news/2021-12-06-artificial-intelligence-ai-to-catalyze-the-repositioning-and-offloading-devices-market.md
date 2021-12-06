@@ -8,7 +8,7 @@ webUrl: "https://techbullion.com/artificial-intelligence-ai-to-catalyze-the-repo
 ampWebUrl: "https://techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/amp/"
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/amp/"
 type: article
-quality: 63
+quality: 65
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://techbullion.com/wp-content/uploads/2021/12/Repositioning-and-Offloading-Devices.png"
@@ -61,6 +62,6 @@ related:
       domain: webindia123.com
     quality: 34
 
-secured: "rC0hykW0a4CvEHD+FBpnB78Pu2ebTieCNAbHT3CRnf+23zjYonqRhuWBqohbc8PWFxFENfdPJUCjTKJr81Zl/oVipsEaDWV9ImrH9AMGcF2q4FsUx/KLJ2gXziOBS786FE/Xm0sq3i3bNkuG4FQ7kbTrvlYt828H3f3xaDuS2xN74ZLmlqNHa7xe7pwvYgTn8oUWPi+rIPG1JaUw3D/qIxz/XBAQvVA25ZWomr336oeNwUAjECBuvTjH+GHE5mSzt1tiu3D+XyFYcKFD1LnEe1Fk8lXawV/eSoO9KaOKDRt0IYTx2Nl5DK5uTF2AG1Gr3ihb9W6eO5gGzPBoiLGk7twkB4l8jo8B/jzJESp9vzk=;zY+mBdhRDrclUiU9S1ae/Q=="
+secured: "ihjhEK5GcLEMAKMl/mLb7K/tRsXmBJU26ZQeKuC39MySbI+xmbSNbK5OA2uBQfL6tJyXY1E7zyqWjYF1uTmNd3Sj/BF7H68+EE+HGfC7K+2eCey4U6xnDxFn4elQ/VAMgpWd8P/mmNl/6Zw0dr2ZBEiRHG0NLKcCH/+ucfPAnWtbyfJYzT99hpZ1Rb2DK7bsr1xmE83CoCoLSbMNmLyXoXCbkoxU7U2FQoCDgrsZ1Fgz8rom++F8VI/uiU40F/z/QvDRJu2gqOEtpc1NZ3UA+vKvMyhapiVpO0jmE9t/pxQuTu92ZSZ07nW/2cjGMuqBPs0Lk3FW9gwfBglZLIqE3ViKqXrok3UqjZhjXsfNHI3QvU4DxsSMcGsDwkwZ80AwBpUueg9n+6vebzVRUqdy+r75MSpDQp2b5SC+iDoF8In48hXcfPhxBiqPZ6NBbg4q1ZrV4QY70b9ko5GsP6YQwxByc02q/abtZlcKjrxuUPmz1r3YQHg4coLfkIDBvmtbKkf3YgSU1GBNVpo8hTIRsw==;Jc9y4junlQIICYdf5qEl1A=="
 ---
 

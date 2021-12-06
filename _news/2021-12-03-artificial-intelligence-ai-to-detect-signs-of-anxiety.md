@@ -37,7 +37,7 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://techbullion.com/wp-content/uploads/2021/12/Repositioning-and-Offloading-Devices.png"
         width: 700

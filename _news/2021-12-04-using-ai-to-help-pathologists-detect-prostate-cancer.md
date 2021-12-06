@@ -28,33 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
-    excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"
-    publishedDateTime: 2021-12-04T02:02:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment"
+  - title: "Using AI with Explainable Deep Learning To Help Save Lives"
+    excerpt: "Health systems have been at the epicenter of the fight against COVID-19, and have had to balance the need to alleviate suffering and save lives with substantial financial pressures.\" \"Health systems’ income statements are likely to see negative pressure as a result of the COVID-19 crisis."
+    publishedDateTime: 2021-12-01T10:56:00Z
+    webUrl: "https://www.bbntimes.com/technology/using-ai-with-explainable-deep-learning-to-help-save-lives"
     type: article
     provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 38
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 58
     images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg"
-        width: 770
-        height: 400
-        isCached: true
-  - title: "Prostate cancer: AI pathologist used to help diagnosis"
-    excerpt: "Artificial intelligence could improve cancer diagnosis and help save lives, a senior doctor has claimed. Betsi Cadwaladr University Health Board has rolled out an \"AI pathologist\" to help test men for prostate cancer."
-    publishedDateTime: 2021-12-02T09:23:00Z
-    webUrl: "https://www.bbc.co.uk/news/uk-wales-59491186"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/12AAE/production/_121926467_ibexaiinaction.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Using_AI_with_Explainable_Deep_Learning_To_Help_Save_Lives.jpeg"
+        width: 1280
+        height: 682
         isCached: true
 
 secured: "ZPq76qEjQmbnNm7bMEFXsvysFtLQyaDp6Xxx4ZKOM49+DS4X060cFWCdtNFdDAMlUOZTjxLOczxWcnz6mJTk4++fadpIQT0qxktG9B4k9Rs4TDge6/XG43Bb4yx12+6ISDMeNFZko9H6W1XHP9AuTYWAost7jefEXFXTksrqRUXkTk9rGY6rROd0WD4VOp6zcdDZEfKz2Qy4+1R6NPVSmrtAkrWV6hk4XS8PzdKvlj5pwk+MmC6kdeL+aAsHsesb0rwSGFo/chVYmLsgK2iz8iyYG0Ek4zyZr9a7WeoCstawYQr4bJie4su6T8PIj/Y18gbxcS17c/4bJCWbMvJoB7ILUsmVVnIZPGYKuU9/cng0FMRtVr5+imbuAm0tl7XMOjl5dnyqEJsBThqOXkRCHfLcHZmbCXNK50G2LFVjFV0N52AWxaM9XUIdbX4U18O5amNcKCXt1Vy9PGz9Y0YpgYFFgnKaFoZ3+W80lMEvMvKnABrxO+1CuB1YL1X5UWYtuaABo/uLtL8ZrLeDT/86lw==;E9Q0Z4HY6ZU7Pul269RtQg=="

@@ -46,59 +46,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-03-could-googles-deepmind-ai-transform-healthcare.md",
-      "title": "Could Google's DeepMind AI Transform Healthcare?",
-      "excerpt": "Google DeepMind AI can predict protein interactions, including folding. The AI could help increase basic scientific knowledge, potentially with drug development. Although DeepMind won't transform healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/",
-      "originalUrl": "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/655355/gettyimages-1273886962.jpg",
-          "width": 4000,
-          "height": 2250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T03:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-12-03-mri-ai-may-detect-early-signs-of-tumour-cell-death-after-novel-therapy.md",
       "title": "MRI, AI may detect early signs of tumour cell death after novel therapy",
       "excerpt": "According to new research led by Massachusetts General Hospital it has been found that magnetic resonance imaging MRI and artificial intelligence AI can be",
@@ -182,6 +129,42 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-security-privacy-risks-of-artificial-intelligence-in-healthcare.md",
+      "title": "Security, Privacy Risks of Artificial Intelligence in Healthcare",
+      "excerpt": "While regulatory agencies work to catch up to technological advances, the security and privacy risks of artificial intelligence in healthcare remain.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/features/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "originalUrl": "https://healthitsecurity.com/features/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "publishedDateTime": "2021-12-01T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Security",
+        "AI Ethics"
       ]
     },
     {

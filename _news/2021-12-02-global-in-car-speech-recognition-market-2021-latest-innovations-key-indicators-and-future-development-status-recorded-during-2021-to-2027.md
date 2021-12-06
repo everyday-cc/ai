@@ -45,6 +45,22 @@ related:
         width: 800
         height: 428
         isCached: true
+  - title: "Startup Uses AI, Panoramic Cameras for Wildfire Detection"
+    excerpt: "The San Francisco-based startup, Pano AI, is installing panoramic cameras on California mountaintops to help spot signs of wildfires. The system uses rotating cameras to snap photos of the landscape every 60 seconds."
+    publishedDateTime: 2021-12-04T01:46:00Z
+    webUrl: "https://www.govtech.com/public-safety/startup-uses-ai-panoramic-cameras-for-wildfire-detection"
+    ampWebUrl: "https://www.govtech.com/public-safety/startup-uses-ai-panoramic-cameras-for-wildfire-detection?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/startup-uses-ai-panoramic-cameras-for-wildfire-detection?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 57
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/1b06bfb/2147483647/strip/true/crop/1000x521+0+99/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb4%2Fd5%2F3d6e3e66424a941ead29dc0b459f%2Fshutterstock-734504473.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market 2021-2026: Global Size, Share, Trends and Forecast"
     excerpt: "The global artificial intelligence in healthcare market exhibited strong growth during 2015-2020. Looking forward, the market is expected to grow at a CAGR of 42.3% during 2021-2026."
     publishedDateTime: 2021-12-03T08:56:00Z

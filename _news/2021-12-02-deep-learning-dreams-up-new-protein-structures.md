@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Deep learning dreams up new protein structures"
-excerpt: "Using artificial intelligence and deep learning, researchers have developed a neural network that 'hallucinates' the structures of new protein molecules. The scientists made up completely random protein sequences and introduced mutations into them until the neural network predicted they would fold into stable structures."
-publishedDateTime: 2021-12-01T21:36:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/12/211201111930.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/12/211201111930.htm"
+excerpt: "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools. In a report in Nature, researchers describe the development of a neural network that \"hallucinates\" proteins with new,"
+publishedDateTime: 2021-12-01T16:00:00Z
+originalUrl: "https://phys.org/news/2021-12-deep-protein.html"
+webUrl: "https://phys.org/news/2021-12-deep-protein.html"
+ampWebUrl: "https://phys.org/news/2021-12-deep-protein.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-deep-protein.amp"
 type: article
-quality: 49
-heat: 49
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "OyRJsVICa+FmYW5cDcx9qN/II2V2mq6RxoDiduyEORn43g5bXQtpz5oVyYIatQyWLPfTkshwz46ra6d/vKvmM/uKyuyMg+DvHn+FAiSbyCM92RLXlqODKph3f+GdxKFYLpQMtEI/kA7ZNqnztK/F/jzqIHykltzEjIQzPysLMMk4Aa8FmA5uOtyv8Na/jm46IVMq1MW7btCvfeTbeOau6LvdaH9LckFC2rAYolBm6sh72l6C84+GZC25jia7msHYT81IAdT/IqgannCeNEIO2HYOmH+v8c/YjAmhcOrP+lXUNEomjMvn9ruU8z/qdgVQyfCk+b3vYGsQ6kHDNeumJFJfKSB+Y1WxDznU7VcMfas=;mLa5obbbpZYnpiSMkfCssw=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/deep-learning-dreams-u.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+secured: "37Y/9QnmPf8Fsxg5vpW12jdzC4VL39q7q2Xo0QxeBYNQjwb4MgnvTqOrHG8dyjF54rJOefDpZegvG3zyS/YTG7pMnDB6tMKGjJfr/+TmFRwZFbaSPSXd/rz2JTV/385wCvVwzPmfQLQL4dRPRj/cN+Lc8j92DrJDXMQoMtVICvsrnALRLFhRjUKXCBGtzVZ3RK7tLl2WgmOUnNUmpggIcrEQZ3f31pDPGgmwKli917+iJsxlekgkOtJPSFT4ijRkO60R/+CP3moS1yjpcj8hZNoCqj6TkKYAcVowY4Fc6wCcj+HVBnAOH4bFckf74V1U5IVgcjSwCCfGjPmNkSKoT8/uJr/i3bAhhgki8+qY1mQ=;rE7paTdOz7/6+UBedXovXw=="
 ---
 

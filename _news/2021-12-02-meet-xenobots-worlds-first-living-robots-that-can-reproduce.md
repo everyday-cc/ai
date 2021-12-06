@@ -9,7 +9,7 @@ ampWebUrl: "https://thelogicalindian.com/amp/technology/xenobots-worlds-first-re
 cdnAmpWebUrl: "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326"
 type: article
 quality: 59
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -100,20 +100,6 @@ related:
     quality: 39
     images:
       - url: "https://ijr.com/wp-content/uploads/2021/11/Xenobots.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Xenobots: First Living Robots Can Now Reproduce, US Scientists Say"
-    excerpt: "The American scientists who created the first living robots known as Xenobots have disclosed that the bots can now reproduce without manipulation of genes."
-    publishedDateTime: 2021-12-01T08:54:00Z
-    webUrl: "https://www.tuko.co.ke/world/us/435444-first-living-robots-can-now-reproduce-us-scientists-say/"
-    type: article
-    provider:
-      name: Tuko
-      domain: tuko.co.ke
-    quality: 39
-    images:
-      - url: "https://netstorage-tuko.akamaized.net/images/bf588309baf0ccf5.jpg"
         width: 1200
         height: 630
         isCached: true

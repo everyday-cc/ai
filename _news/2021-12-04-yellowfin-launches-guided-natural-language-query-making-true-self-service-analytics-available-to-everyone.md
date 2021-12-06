@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Users can now ask data questions in plain language with Yellowfin’s Guided National Language Query"
+    excerpt: "Analytics vendor Yellowfin launches Guided National Language Query, leveraging natural language processing to enable anyone—regardless of skill level and expertise—to ask data questions in plain language and receive answers instantly."
+    publishedDateTime: 2021-12-05T23:19:00Z
+    webUrl: "https://itwire.com/business-it-news/data/users-can-now-ask-data-questions-in-plain-language-with-yellowfin’s-guided-national-language-query.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 25
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/850e8e5dfb78b38a07e59435ba9decf0_M.jpg"
+        width: 375
+        height: 281
+        isCached: true
   - title: "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone"
     excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone — regardless of skill level and expertise — to ask data questions in plain language and instantly receive the answer in Yellowfin."
     publishedDateTime: 2021-12-03T14:02:00Z

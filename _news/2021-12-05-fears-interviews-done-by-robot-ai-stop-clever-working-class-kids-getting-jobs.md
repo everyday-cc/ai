@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mirror.co.uk/news/uk-news/fears-interviews-done-robot-ai
 cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/uk-news/fears-interviews-done-robot-ai-25617315.amp"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:

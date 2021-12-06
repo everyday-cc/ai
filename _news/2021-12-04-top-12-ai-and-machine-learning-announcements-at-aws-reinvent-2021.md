@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-an
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
 type: article
 quality: 125
-heat: 287
+heat: 285
 published: true
 
 provider:

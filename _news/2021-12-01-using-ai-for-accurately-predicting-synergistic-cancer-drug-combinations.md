@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "2021 AI Predictions: What We Got Right And Wrong"
+    excerpt: "With 2021 now coming to a close, let’s revisit these predictions to see how things actually played out. There is much to learn from these retrospectives about the state and trajectory of AI today. As of the beginning of this year,"
+    publishedDateTime: 2021-12-05T23:00:00Z
+    webUrl: "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/"
+    ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a99e630d8e961cf36b5bcc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1048%26cropY1%3D38%26cropY2%3D628"
+        width: 1048
+        height: 590
+        isCached: true
   - title: "Top five artificial intelligence predictions for 2022"
     excerpt: "Ethical/responsible AI will move beyond ‘fluffy policy’, and become embedded in tangible tools and actual law and regulations."
     publishedDateTime: 2021-12-02T07:42:00Z
@@ -41,38 +57,17 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "Rules of war need rewriting for the age of AI weapons"
-    excerpt: "The computer scientist Stuart Russell — who will devote a forthcoming Reith Lecture on BBC radio to the subject — met UK defence officials recently to warn that incorporating AI into weapons could wipe out humanity."
-    publishedDateTime: 2021-12-01T14:51:00Z
-    webUrl: "https://www.ft.com/content/d8371144-364b-496d-943c-16f7e0982b6e"
-    ampWebUrl: "https://amp.ft.com/content/d8371144-364b-496d-943c-16f7e0982b6e"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/d8371144-364b-496d-943c-16f7e0982b6e"
+  - title: "Artificial Intelligence Predicts Synergistic Drugs"
+    excerpt: "New study revealed the potential of using AI and machine learning to identify effective drug combinations in therapies for cancers."
+    publishedDateTime: 2021-12-02T09:13:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F67d740f3-0b9f-4861-9159-5db0fe0fc551.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Startup Uses AI, Panoramic Cameras for Wildfire Detection"
-    excerpt: "The San Francisco-based startup, Pano AI, is installing panoramic cameras on California mountaintops to help spot signs of wildfires. The system uses rotating cameras to snap photos of the landscape every 60 seconds."
-    publishedDateTime: 2021-12-04T01:46:00Z
-    webUrl: "https://www.govtech.com/public-safety/startup-uses-ai-panoramic-cameras-for-wildfire-detection"
-    ampWebUrl: "https://www.govtech.com/public-safety/startup-uses-ai-panoramic-cameras-for-wildfire-detection?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/startup-uses-ai-panoramic-cameras-for-wildfire-detection?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 57
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/1b06bfb/2147483647/strip/true/crop/1000x521+0+99/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fb4%2Fd5%2F3d6e3e66424a941ead29dc0b459f%2Fshutterstock-734504473.jpg"
-        width: 840
-        height: 438
-        isCached: true
+      name: Medindia
+      domain: medindia.net
+    quality: 39
 
 secured: "I7rkgpJLD/gOkcgYrqAMp5mRESuIfEmspIBEW0JFu+/hLCilPLrNUGqCdGnNRrxHMtYVBugHjcFifFwbaLvwa1v1VjHhDe5ltKHGL2biJ+jXMmjC/kQFjDIsTyZuZZkmO4HQmCetc2oWG3M9dYA9SKB3zmvopmn/0CSruX4weDvz1Cir/y48Xgyh+En39qBV817vG0i9UYLKDkB26GNopqweO+ENV+odsyHw7SjLhTZ5eKTm0OAwki0kZ4fuZH5DHoTXglbicziyd3ctzq3G8DPXfl00oWk6sCxbVupXtlifcr1j4FoAr3aLrhDi9qcLBCTBbUBD0YJE/gvfCNIBi4dDEljCz0ciy4YkrT6SRZg=;uOopg1nhv7k76hqQNTzrUw=="
 ---

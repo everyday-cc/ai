@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-12-02-how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment.md",
-      "title": "How much can we trust AI? How to build confidence before large-scale deployment",
-      "excerpt": "Organizations must still build trust in AI before they deploy it throughout the organization. Here are some simple steps to make AI more dependable and ethical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "originalUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "publishedDateTime": "2021-12-01T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-full-self-driving-diary-a-longtime-tesla-drivers-perspective-on-fsd-beta.md",
       "title": "Full Self-Driving Diary: A longtime Tesla driver’s perspective on FSD beta",
       "excerpt": "After a month of safe and cautious driving, I finally achieved a Safety Score of 99 last week, and shortly thereafter, I was granted access to the Full Self-Driving Beta for my 2021 Model Y. The experience with the FSD Beta over the last seven days has made a few things clear: it’s very much",
@@ -114,7 +62,7 @@
       "originalUrl": "https://techxplore.com/news/2021-12-machine-covid-.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -295,6 +243,49 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems.md",
+      "title": "Mathematicians hail breakthrough in using AI to suggest new theorems",
+      "excerpt": "Their work examined knot theory and representation theory, areas of \"pure mathematics\" which typically depend on human intuition for breakthroughs.",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934",
+      "originalUrl": "https://news.sky.com/story/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/21/12/1600x900/skynews-oxford-mathematical_5601403.jpg?20211201160219",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934",
+      "publishedDateTime": "2021-12-01T11:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -648,59 +639,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-ai-proves-a-dab-hand-at-pure-mathematics-and-protein-hallucination.md",
-      "title": "AI proves a dab hand at pure mathematics and protein hallucination",
-      "excerpt": "One of the reasons artificial intelligence is such an interesting field is that pretty much no one knows what it might turn out to be good at. Two papers by leading labs published in the journal Nature today show that machine learning can be applied to tasks as technically demanding as protein",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/",
-      "originalUrl": "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/AI-for-Maths-blog-artwork.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/amp/",
-      "publishedDateTime": "2021-12-01T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a.md",
       "title": "SVT Robotics to conduct multi-robot orchestration with $25M series A",
       "excerpt": "According to Gartner, multi-robot orchestration has only penetrated 1%-5% of its total target audience and will become necessary as companies begin deploying more than one robotics technology within their operations.",
@@ -744,6 +682,95 @@
       ]
     },
     {
+      "path": "_news/2021-12-02-security-privacy-risks-of-artificial-intelligence-in-healthcare.md",
+      "title": "Security, Privacy Risks of Artificial Intelligence in Healthcare",
+      "excerpt": "While regulatory agencies work to catch up to technological advances, the security and privacy risks of artificial intelligence in healthcare remain.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitsecurity.com/features/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "originalUrl": "https://healthitsecurity.com/features/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "cdnAmpWebUrl": "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare",
+      "publishedDateTime": "2021-12-01T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Security",
+        "domain": "healthitsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Security",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics.md",
+      "title": "DeepMind claims AI has aided new discoveries and insights in mathematics",
+      "excerpt": "Learn more DeepMind, the AI research laboratory funded by Google’s parent company, Alphabet, today published the results of a collaboration between it and mathematicians to apply AI toward ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/",
+      "originalUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/",
+      "publishedDateTime": "2021-12-01T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-meet-xenobots-worlds-first-living-robots-that-can-reproduce.md",
       "title": "Meet Xenobots, World's First Living Robots That Can Reproduce",
       "excerpt": "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world.",
@@ -752,7 +779,7 @@
       "originalUrl": "https://thelogicalindian.com/technology/xenobots-worlds-first-reproducing-living-robots-32326",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -835,50 +862,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-maths-researchers-hail-breakthrough-in-applications-of-artificial-intelligence.md",
-      "title": "Maths researchers hail breakthrough in applications of artificial intelligence",
-      "excerpt": "For the first time, computer scientists and mathematicians have used artificial intelligence to help prove or suggest new mathematical theorems in the complex fields of knot theory and representation theory.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.html",
-      "originalUrl": "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/maths-researchers-hail-1.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.amp",
-      "publishedDateTime": "2021-12-01T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Google AI"
       ]
     },
     {

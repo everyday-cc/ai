@@ -29,68 +29,84 @@ images:
     isCached: true
 
 related:
-  - title: "Could Google's DeepMind AI Transform Healthcare?"
-    excerpt: "Google DeepMind AI can predict protein interactions, including folding. The AI could help increase basic scientific knowledge, potentially with drug development. Although DeepMind won't transform healthcare,"
-    publishedDateTime: 2021-12-03T11:52:00Z
-    webUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/"
+  - title: "Future Chip Innovation Will Be Driven By AI-Powered Co-Optimization Of Hardware And Software"
+    excerpt: "The invention of the printing press and the ascension of the internet come to mind as similar inflection points, but current innovation trends are being driven by artificial intelligence (AI) at scale,"
+    publishedDateTime: 2021-12-02T15:00:00Z
+    webUrl: "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/"
+    ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 101
+      name: Forbes
+      domain: forbes.com
+    quality: 93
     images:
-      - url: "https://g.foolcdn.com/editorial/images/655355/gettyimages-1273886962.jpg"
-        width: 4000
-        height: 2250
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8e24e35c83b6938d1e648%2F0x0.jpg"
+        width: 1000
+        height: 579
         isCached: true
-  - title: "Security, Privacy Risks of Artificial Intelligence in Healthcare"
-    excerpt: "While regulatory agencies work to catch up to technological advances, the security and privacy risks of artificial intelligence in healthcare remain."
-    publishedDateTime: 2021-12-01T17:00:00Z
-    webUrl: "https://healthitsecurity.com/features/security-privacy-risks-of-artificial-intelligence-in-healthcare"
-    ampWebUrl: "https://healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare"
-    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare"
+  - title: "Report: 95% of tech leaders say that AI will drive future innovation"
+    excerpt: "A majority of leaders also agreed that robots will be deployed across their organization to enhance nearly every business function."
+    publishedDateTime: 2021-12-04T18:20:00Z
+    webUrl: "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/"
+    ampWebUrl: "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/amp/"
     type: article
     provider:
-      name: IT Security
-      domain: healthitsecurity.com
-    quality: 73
-  - title: "DeepMind AI Used To Develop New Math Techniques"
-    excerpt: "Researchers are using DeepMind's artificial intelligence to develop fundamentally new techniques in mathematics."
-    publishedDateTime: 2021-12-02T10:03:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/news/deepmind-ai-used-to-develop-new-math-techniques-356418"
-    type: article
-    provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 71
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/356418/deepmind-ai-used-to-develop-new-math-techniques-356418-640x360.jpg?cb=20211202"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
-    excerpt: "DeepMind, the UK-based artificial intelligence company backed by Google’s parent company, Alphabet Inc, has developed a program that can help mathematicians spot patterns. It has already led to ..."
-    publishedDateTime: 2021-12-02T11:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 48
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F31c8a572-52f8-11ec-a5fe-8f0d6a1c517d.jpg?crop=2000%2C1125%2C0%2C104&resize=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all"
         width: 1200
-        height: 675
+        height: 600
         isCached: true
-  - title: "Big data in healthcare: 3 spine surgeons weigh in"
-    excerpt: "Three surgeons consider the pros and cons of big data and how it will affect spine care and the wider healthcare field."
-    publishedDateTime: 2021-12-01T18:38:00Z
-    webUrl: "https://www.beckersspine.com/orthopedic-spine-practices-improving-profits/item/53143-big-data-in-healthcare-3-spine-surgeons-weigh-in.html"
+  - title: "Public relations practitioners' AI knowledge is limited, but they are aware of AI's potential"
+    excerpt: "A new research report from the Chartered Institute of Public Relations' AIinPR Panel, which has been co-authored by the University's Emeritus Professor of Corporate Communication Anne Gregory, has found that practitioners see the huge potential that artificial intelligence (AI) and Big Data offers the profession but possess limited knowledge on technical aspects of both."
+    publishedDateTime: 2021-12-02T19:52:00Z
+    webUrl: "https://phys.org/news/2021-12-practitioners-ai-knowledge-limited-aware.html"
+    ampWebUrl: "https://phys.org/news/2021-12-practitioners-ai-knowledge-limited-aware.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-practitioners-ai-knowledge-limited-aware.amp"
     type: article
     provider:
-      name: Becker's Spine Review
-      domain: beckersspine.com
-    quality: 19
+      name: Phys.org
+      domain: phys.org
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-ai.jpg"
+        width: 1920
+        height: 1324
+        isCached: true
+  - title: "Agnisys Announces Availability of AI-Based Approach for Specification of Assertions and FPGA Support"
+    excerpt: "Agnisys, Inc.®, the leading EDA provider of the industry's most comprehensive solution for Design and Verification of SoC Hardware/Software Interface (HSI), today announced availability of a unique AI-based approach for specification of assertions and a new product to support FPGA development."
+    publishedDateTime: 2021-12-02T13:45:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12637"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12637"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12637"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 44
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12637_16384507321308025.jpg"
+        width: 350
+        height: 215
+        isCached: true
+  - title: "Agnisys Delivers Novel AI Technology and FPGA Support for IP and SoC Specification Automation"
+    excerpt: "Agnisys, Inc.®, the leading EDA provider of the industry’s most comprehensive solution for Design and Verification of SoC Hardware/Software Interface (HSI), today announced availability of a unique AI-based approach for specification of assertions and a new product to support FPGA development."
+    publishedDateTime: 2021-12-01T14:23:00Z
+    webUrl: "https://www.design-reuse.com/news/51030/agnisys-design-and-verification-of-soc-hardware-software-interface-hsi.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 30
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage51030/ispec-ai.jpg"
+        width: 1328
+        height: 512
+        isCached: true
 
 secured: "SRfl/S21FWWl+Ipwo+ye70GGy9vREm3zpUi/rMnOLndAxaNCYd/4pGiFlhfO9XxS1clYMYy7nEW713Zdcyuv0rZ6TerKH9H/ocbWVaf71S8tDbIGqckWYwzJa+x8+rc3CKaclu4xznNCmhDs6AUyq/zBScSrLvz+vZjw1JwFkfOtSBPqodXWsTF3PqRg6nPALlArMiY53/hF4eiPnbX3+LmE4A0IHyHP6XRg3c58eTVSkJQyAisQstCiaNEsQlOdls7VX9SCUxFz+efcauKkhDn8Vgqa+MynzNuU+9pNs104tvckKCrXVOujh2Jd8AeZRSnBRdDDZd6hJ3WBqx0glsSMjtWHSEe4YsqV7DmG6kmFSiGdeEhE1iC6axEirb8Gair6c+Ju0YjH3NayzSd0g8F3zDxBKNfRu+eQSE/mQC+OO0Nn8czAg8ySEo/yRu/Jbusp6os3zeQr3RvI5rwnDMlJjtBigUpyJIQAveUXR+n6ENbXFJZrDRibQMbJptN+RSepgMd4yF6r/NZYgXxgpA==;aFYDb0PPaK768ML6LU5vuA=="
 ---

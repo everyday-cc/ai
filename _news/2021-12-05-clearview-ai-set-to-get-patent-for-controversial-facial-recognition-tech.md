@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
 type: article
 quality: 103
-heat: 173
+heat: 174
 published: true
 
 provider:

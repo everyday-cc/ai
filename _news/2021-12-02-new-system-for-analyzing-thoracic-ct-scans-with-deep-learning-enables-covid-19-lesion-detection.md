@@ -43,6 +43,22 @@ related:
         width: 1920
         height: 1357
         isCached: true
+  - title: "New approach to COVID-19 immune profiling using blood-based machine learning"
+    excerpt: "A new study discusses the application of a novel deconvolution model AImmune to predict moderate and severe cases of COVID-19."
+    publishedDateTime: 2021-12-05T23:49:00Z
+    webUrl: "https://www.news-medical.net/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 56
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/12/shutterstock_1722032125.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Using Machine Learning to Enhance COVID-19 Prediction Models"
     excerpt: "Using an advanced machine learning technique, Brown University researchers are exploring how to improve COVID-19 predictive models. “There’s an old saying in the modeling field that ‘all models are wrong,"
     publishedDateTime: 2021-12-03T13:30:00Z

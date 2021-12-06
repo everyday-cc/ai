@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-21-mediateks-unveils-pentonic-2000-worlds-first-7nm-tv-chip-decodes-8k120hz.md",
+      "title": "MediaTek's unveils Pentonic 2000, World's first 7nm TV chip, decodes 8K@120Hz",
+      "excerpt": "Following the release of its flagship Dimensity 9000 SoC for smartphones, the company is now releasing its flagship TV chipset, the Pentonic 2000.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484",
+      "originalUrl": "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pinkvilla.com/files/styles/ampfront/public/alia_neetu_jug_jugg_jeeyo_main.jpg?itok=QSHfsmA_",
+          "width": 375,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484?amp",
+      "cdnAmpWebUrl": "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484?amp",
+      "publishedDateTime": "2021-11-21T00:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pinkvilla.com",
+        "domain": "pinkvilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-21-mediateks-pentonic-2000-is-the-worlds-first-7nm-tv-chip-decodes-8k120hz.md",
       "title": "MediaTek's Pentonic 2000 is the world's first 7nm TV chip, decodes 8K@120Hz",
       "excerpt": "After announcing its flagship Dimensity 9000 SoC for smartphones, the company is now announcing its flagship TV chipset - the Pentonic 2000. And it appears that this silicon is the world's first in many aspects.",
@@ -1392,58 +1435,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-chip-developer-cerebras-bolsters-ai-powered-workload-capabilities-with-250m.md",
-      "title": "Chip developer Cerebras bolsters AI-powered workload capabilities with $250M",
-      "excerpt": "The company stated that this capital will let it globally expand its business and deploy its AI-powered CS-2 system to new customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/",
-      "originalUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1317362609-e1636572613687.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/chip-developer-cerebas-bolsters-ai-powered-workload-capabilities-with-250m/amp/",
-      "publishedDateTime": "2021-11-10T12:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

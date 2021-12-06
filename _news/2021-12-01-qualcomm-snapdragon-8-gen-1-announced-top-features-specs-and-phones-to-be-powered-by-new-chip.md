@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/technology/qualcomm-snapdr
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/qualcomm-snapdragon-8-gen-1-announced-top-features-specs-and-phones-to-be-powered-by-new-chip/2380111/lite/"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -27,22 +27,70 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm and Google are partnering to provide a better AI experience on smartphones"
-    excerpt: "Google and Qualcomm plan to accelerate neural network development and differentiation for Snapdragon mobile, ACPC, and XR platforms, Snapdragon Ride Platform, and Qualcomm Technologies’ IoT platforms"
-    publishedDateTime: 2021-12-01T07:41:00Z
-    webUrl: "https://www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/"
-    ampWebUrl: "https://www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/qualcomm-google-are-partnering-to-provide-a-better-ai-experience-with-new-chipsets-1024930/amp/"
+  - title: "Qualcomm’s Snapdragon 8 Gen 1 is here with a 30% faster Adreno GPU"
+    excerpt: "As the world’s most advanced mobile platform, Snapdragon is synonymous with premium Android experiences, and the new Snapdragon 8 Gen 1 sets the standard for the next generation of flagship mobile devices,"
+    publishedDateTime: 2021-12-01T16:13:00Z
+    webUrl: "https://technosports.co.in/2021/12/01/qualcomms-snapdragon-8-gen-1-is-here-with-a-30-faster-adreno-gpu/"
     type: article
     provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 53
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 39
     images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2021/11/google.jpg"
+      - url: "https://technosports.co.in/wp-content/uploads/2021/12/qc_onq_sd_8-gen-1_header.png"
+        width: 688
+        height: 376
+        isCached: true
+  - title: "Qualcomm Snapdragon 8cx Gen 3 5nm Compute Platform announced — up to 85% faster CPU, up to 60% faster GPU, 4K HDR video"
+    excerpt: "The new Snapdragon 8cx Gen 3 is built on the 5nm architecture that offers up to 85% faster CPU multitasking performance and up to 60% faster GPU performance. It supports 5G (sub-6 GHz and mmWave) and the Snapdragon X65 5G RF-Modem system delivers peak download speeds of up to 10 Gbps,"
+    publishedDateTime: 2021-12-01T17:30:00Z
+    webUrl: "https://www.fonearena.com/blog/352865/qualcomm-snapdragon-8cx-gen-3-compute-platform-features.html"
+    ampWebUrl: "https://www.fonearena.com/blog/352865/qualcomm-snapdragon-8cx-gen-3-compute-platform-features.html/amp"
+    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/352865/qualcomm-snapdragon-8cx-gen-3-compute-platform-features.html/amp"
+    type: article
+    provider:
+      name: FoneArena
+      domain: fonearena.com
+    quality: 35
+    images:
+      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Qualcomm Technologies and Google Cloud announce collaboration on neural architecture search for the connected intelligent edge"
+    excerpt: "Highlights: Qualcomm Technologies and Google Cloud are collaborating on Neural Architecture Search (NAS), enabling the companies to create and optimize AI models automatically rat"
+    publishedDateTime: 2021-12-01T12:17:00Z
+    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/qualcomm-technologies-and-google-cloud-announce-collaboration-on-neural-architecture-search-for-the-connected-intelligent-edge-43070/"
+    ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/qualcomm-technologies-and-google-cloud-announce-collaboration-on-neural-architecture-search-for-the-connected-intelligent-edge-43070/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/qualcomm-technologies-and-google-cloud-announce-collaboration-on-neural-architecture-search-for-the-connected-intelligent-edge-43070/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 16
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
         width: 1200
         height: 675
         isCached: true
+  - title: "Qualcomm unveils new Snapdragon 8cx Gen 3 and 7c+ Gen 3 chip for Windows PCs and Chromebooks"
+    excerpt: "The new Snapdragon 8cx Gen 3 and 7c+ Gen 3 brings advanced capabilities to a wide range of new Windows PC and Chromebook devices"
+    publishedDateTime: 2021-12-01T23:00:00Z
+    webUrl: "https://pocketnow.com/qualcomm-unveils-new-snapdragon-8cx-gen-3-and-7c-gen-3-chip-windows-pcs-and-chromebooks"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 8
+  - title: "Qualcomm Technologies and Google Cloud Announce Collaboration on Neural Architecture Search for the Connected Intelligent Edge"
+    excerpt: "Qualcomm Technologies and Google Cloud are collaborating on Neural Architecture Search (NAS), enabling the companies to create and optimize AI models automatically rather than manually. • First available on Snapdragon® 8,"
+    publishedDateTime: 2021-12-03T05:28:00Z
+    webUrl: "https://www.newswiretoday.com/news/176743/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 0
   - title: "Qualcomm Technologies and Google Cloud Announce Collaboration on Neural Architecture Search for the Connected Intelligent Edge"
     excerpt: "Qualcomm Technologies, Inc. and Google Cloud announced their collaboration to accelerate neural network development and differentiation for Snapdragon®"
     publishedDateTime: 2021-12-05T11:00:00Z
