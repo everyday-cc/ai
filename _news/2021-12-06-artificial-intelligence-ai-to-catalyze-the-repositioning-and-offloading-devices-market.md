@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "Magnetic resonance imaging (MRI) and artificial intelligence (AI) can detect early signs of tumor cell death after novel therapy"
-    excerpt: "A recent study demonstrates that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumor cell death in response to a novel virus-based cancer therapy."
-    publishedDateTime: 2021-12-02T01:22:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/12/211201150118.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 50
   - title: "MRI, AI may detect early signs of tumour cell death after novel therapy"
     excerpt: "According to new research led by Massachusetts General Hospital, it has been found that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumour cell death in response to novel virus-based cancer therapy."
     publishedDateTime: 2021-12-03T22:49:00Z

@@ -27,65 +27,115 @@ images:
     isCached: true
 
 related:
-  - title: "The Ironic Need To Make Sure That Self-Driving Cars Look Like Self-Driving Cars, At Least For The Time Being"
-    excerpt: "Self-driving cars might end-up looking like conventional cars, while conventional cars will look like self-driving cars, which could be troubling from a distinctive appearance consideration."
-    publishedDateTime: 2021-12-05T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/amp/"
+  - title: "Inside Tesla as Elon Musk Pushed an Unflinching Vision for Self-Driving Cars"
+    excerpt: "The automaker may have undermined safety in designing its Autopilot driver-assistance system to fit its chief executive’s vision, former employees say."
+    publishedDateTime: 2021-12-06T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html"
+    ampWebUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 55
+      name: New York Times
+      domain: nytimes.com
+    quality: 88
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6025c63de89f5cf5cf21afe3%2F0x0.jpg%3FcropX1%3D157%26cropX2%3D7900%26cropY1%3D628%26cropY2%3D4983"
+      - url: "https://static01.nyt.com/images/2021/10/06/business/00tesla-autopilot01/00tesla-autopilot01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Tesla pushes new Full Self-Driving Beta update with improved object detection"
+    excerpt: "Tesla has started to push a new Full Self-Driving Beta software update (version 10.6) to its fleet with improved object detection. It’s the latest step in the long road to improve the FSD package and deliver on a promise to customers that has been delayed several times."
+    publishedDateTime: 2021-12-04T19:32:00Z
+    webUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/"
+    ampWebUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 86
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "‘As always’: Elon Musk tweets on recent Tesla hiring for AI engineers"
+    excerpt: "US-based electric vehicle company Tesla is hiring AI engineers who are passionate about solving day-to-day problems through artificial intelligence."
+    publishedDateTime: 2021-12-06T06:59:00Z
+    webUrl: "https://www.businesstoday.in/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06"
+    ampWebUrl: "https://www.businesstoday.in/amp/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 76
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/elon-musk2-sixteen_nine.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Professors working on self-driving car technology that uses facial recognition system"
-    excerpt: "Professor A.J. Alnaser is turning this tricked-out Ford Fusion by moving his head, no hands needed. It might be the future of self-driving technology."
-    publishedDateTime: 2021-12-02T19:04:00Z
-    webUrl: "https://www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system"
-    ampWebUrl: "https://www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system?_amp=true"
-    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system?_amp=true"
+  - title: "The New Self-Labeling AI Has Brought Tesla Closer To Level-3 Automation"
+    excerpt: "Advertisement Tesla’s head of artificial intelligence has revealed new footage showing its auto labelling tool for its self-driving initiative. It’s believed to provide a significant boost to Tesla’s Full Self-Driving Beta."
+    publishedDateTime: 2021-12-02T18:59:00Z
+    webUrl: "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/"
+    ampWebUrl: "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/"
     type: article
     provider:
-      name: ABC Action News
-      domain: abcactionnews.com
-    quality: 54
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 74
     images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/f9c/45bf940c346f431c9be273b8942ab6eb/f9c346911ec54171a39166a39d302dd0/poster_a84395db2a4e4150ab8f0cdfc18b9575.jpg"
-        width: 1280
-        height: 720
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/newsimage336112.jpg"
+        width: 595
+        height: 225
         isCached: true
-  - title: "Embark Stock: The Self Driving Investment You’ve Been Looking For"
-    excerpt: "Can the self-driving startup solve a critical factor in the supply chain crisis? It has the potential. Let’s see what’s in store for Embark stock."
-    publishedDateTime: 2021-12-02T08:58:00Z
-    webUrl: "https://investmentu.com/embark-stock/"
+  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
+    excerpt: "Elon Musk built his electric car company, Tesla, around the promise that it represented the future of driving — a phrase emblazoned on the automaker’s website."
+    publishedDateTime: 2021-12-06T16:32:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
     type: article
     provider:
-      name: Investment U
-      domain: investmentu.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 58
+    images:
+      - url: "https://www.baltimoresun.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
+        width: 1200
+        height: 792
+        isCached: true
+  - title: "Tesla rolls out new Full Self-Driving Beta update with improved object spotting"
+    excerpt: "The updates delivered via the new version of Tesla FSD Beta program include improved object detection network architecture for cars, trucks and buses..Another update includes improved stopping position at unprotected left turns."
+    publishedDateTime: 2021-12-06T08:24:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting-41638776731380.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting/amp-41638776731380.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting/amp-41638776731380.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/12/06/600x338/TESLA-AUTOPILOT-INVESTIGATION-0_1636954665977_1638777893284.JPG"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Tesla’s Full Self-driving Beta 10.6 emphasis on precision of movements"
+    excerpt: "Tesla's Full Self-Driving (FSD) technology update will be the 10.6 version. Tesla is focusing on three things with this update."
+    publishedDateTime: 2021-12-05T08:33:00Z
+    webUrl: "https://techstory.in/teslas-full-self-driving-beta-10-6-emphasis-on-precision-of-movements/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
     quality: 39
     images:
-      - url: "https://investmentu.com/wp-content/uploads/2021/12/embark-stock.jpg"
-        width: 730
-        height: 467
-        isCached: true
-  - title: "New AI method makes self-driving vehicles better drivers"
-    excerpt: "In traffic, humans are used to constantly anticipating what will happen next. This reasoning ability is something that today's self-driving vehicles and AI systems in general are lacking. In a recent study,"
-    publishedDateTime: 2021-12-02T14:28:00Z
-    webUrl: "https://techxplore.com/news/2021-12-ai-method-self-driving-vehicles-drivers.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-method-makes-se.jpg"
-        width: 2522
-        height: 1545
+      - url: "https://techstory.in/wp-content/uploads/2021/12/Tesla-Full-Self-Driving-Beta-Hero.jpg"
+        width: 1600
+        height: 792
         isCached: true
   - title: "Fishers Is Next Proving Ground for Self-Driving Car Service"
     excerpt: "After a trial run in Indianapolis this summer, a self-driving car service is coming to Fishers. The five-month pilot project begins December 20 and will continue into May. You’ll be able to use an"
@@ -100,48 +150,6 @@ related:
       - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2021/12/02152336/FISHERS_EB_12022021.jpg"
         width: 4032
         height: 3024
-        isCached: true
-  - title: "Self-driving cars of the Bay Area"
-    excerpt: "I just came back from a long-overdue trip to the Bay Area. It was great to catch up with old friends and make new ones."
-    publishedDateTime: 2021-12-04T20:53:00Z
-    webUrl: "https://www.linkedin.com/pulse/self-driving-cars-bay-area-mohsen-khalkhali"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQELUb9oolxiFQ/article-cover_image-shrink_720_1280/0/1638571297899?e=1644451200&v=beta&t=YlgVBHzX498RVJnS0cvjFgYfBo2RgTe5i9cpnxhSgrI"
-        width: 999
-        height: 720
-        isCached: true
-  - title: "Contenders in self-driving trucking"
-    excerpt: "As the year nears a close, the self-driving truck industry is gaining momentum. Many companies notched major technical and business-related milestones in recent months. Here's a look at what each company has done in 2021,"
-    publishedDateTime: 2021-12-06T04:00:00Z
-    webUrl: "https://www.autonews.com/shift/contenders-self-driving-trucking"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AURORA-MAIN_i_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Self-Driving Coalition for Safer Streets: Framework needed for automated trucking"
-    excerpt: "Coalition general counsel Ariel Wolf says federal guidelines are needed to expand self-driving truck testing and deployment options."
-    publishedDateTime: 2021-12-06T04:00:00Z
-    webUrl: "https://www.autonews.com/shift/self-driving-coalition-safer-streets-framework-needed-automated-trucking"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TRUCKS-MAIN_i.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "Xw85yhu8YudSvcmMral6LUqlGkM/Eyqaqeep4n1JQjKkpHaj1J0e1hO2esR0bGHX9zrnJvx8wZFwT402AhzJsoqt2r5oOrpHz7kRlj5Ff/UKPM7fZHRfNP3DVErsgxk0ttXssUaMraXb2aPgPQIvejnj0HaSfN0qFB2cvAcxF9OdQZb686/IqKK2QsBrMPpe7YiFV4nWPjc5MUO0GcXl94pPIw+LbvWveNO9RTVZAYCGVnKJ9XCLNG/3ZuDI7Qyxcx+0vX5P6Iidsj/AOQ0DVnCy2ILTIigCNJvuoEkPO+1o6J50reuBlgzdbds+L0mPTq8wwUl5maWToj3zTE1x3FroHxORonJysJ8Hl3j/dLmCREuX8DSDvaF5xhlCw1LLJTq/TqsYZjbSltEyphF9eNpzOjX11/lYCICvJW6c1JB6lgO0WPsOid/Wjt/G5v3F5e3KbUVD0cIoHk6iNmW9isa9sCvSrzB6mOiku8o2ke8x3uzA+jHAJYGb7KhqP8MgN0PFv8mb8qWrWb9mdIY22Q==;BC4uMSrn7aFKFes5CstcfQ=="

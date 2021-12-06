@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bri
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.techrepublic.com/a/hub/i/r/2021/12/03/62a79d85-7901-4b4a-a2dd-d91b0ee8db8c/resize/1200x/ee03377875167bd67e3d988e0d938258/shutterstock-1680627343.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "A Serious Game: Microsoft Azure Champions ‘User Generated Content’"
+    excerpt: "User Generated Content brings communities together to turn games into ever-evolving platforms. By providing game developers with a set of tools to create open environments for players, they can increase engagement while empowering individual creators to share and monetize their work."
+    publishedDateTime: 2021-12-06T17:18:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ad1e960cc6e9b23cb90539%2F0x0.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "CVS Health and Microsoft Link Up to Speed Healthcare’s Digital Shift on Retail’s Frontlines"
     excerpt: "Connected healthcare keeps making new connections as firms from different parts of the business world join forces to drive greater digital transformation for millions of consumers. New evidence of the gathering trend comes from CVS Health and Microsoft,"

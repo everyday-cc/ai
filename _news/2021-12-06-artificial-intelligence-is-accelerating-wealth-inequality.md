@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-06T15:28:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-accelerating-wealth-michael-spencer-"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-accelerating-wealth-michael-spencer-"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQEU7CTKRAYZBQ/article-cover_image-shrink_720_1280/0/1638804317784?e=1644451200&v=beta&t=ISnO7ttNkxyoaZ0PHxlLaNZbGepAZqBW6a_qCF9gUE0"
@@ -38,6 +39,6 @@ related:
       domain: tmcnet.com
     quality: 22
 
-secured: "jRIKnYvxk20F88YB61A2Icg17JxLiV25LKAM+5lLN6/YxlNXxPGyekPwIUPLpAavMCIwETvfcfRk1BKgX6mPOiYBmWDocyK9X0lx3p9frlbqAJRRkIKjH+6O20tYMCn2vGA2GHNW+zAEm9vrHwfcRF1sP6hHiMpyJrAKLvNwbx5cICqYi8EGfxOuOfQkxSBIRTbR1xQWkYOsWsQ6yYDlyQm1SKidKJqmOdZ35GyiEuwXOpGSwVkrIAe+rA+xYe8xQBaT/9InyDs5qBsiC8N/cBxC74anaXM/175x6dTV40uGGHWCMppE5fiMPylcG8v3PWBr+lZaDzpULOtBM1cwQyhylRPtTUiHRVwZkI73Niw=;ZW157uJSpWkslyE8qJt1TQ=="
+secured: "1d6V6FefzzCw3TP/mY9ffHJf89cozLfn8v2ap+a+NX5uSH4aB7P6z5RXkDTFoy3GP2qSVph0d6wsPztNVGhz4B7yM3OQzv/6SSV2AmUB1izJ2jPisHrZjfM/gBeH8ZoAeY86Z6Z567Nix+fq0vSsnY604yW5SFtnC0TpI0lutvp4grA1Q0L27Tndi41OSKYAsOM2LoI0ikmoFqzrQ2YUX2gvRTSZ6Oeror0KF2mAAPUsfGmvcOemSWhWc5BmnRDEI3gYimv7X0jlvFNAMAFXcokPkTIVJoNZilkF82SIvC2E/w77gRZpSDuZVPXgRRIdamVEpqjjnFh5Qj3m/SiU/iNIPBQ5ETzgfkr9lN+A0bw+iXaGMfeiJiZC9saZEBAqCZWQJcU2LrCEYnVvd4pyny2WzoZA2ECeJHkHfyEfI1KeQlx10t4fs83Agl7owgrqvlGGiMuXi8zPARVZvRNdtczYbqL/woSDrCBVjAN0DAEiKOh1/28Abkb+XFjZ87LpXDuuzWCSMgKPMGnVRoLRRw==;wAOc+xmR5Nfd3dx7TL+tDQ=="
 ---
 

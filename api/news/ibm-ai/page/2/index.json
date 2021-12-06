@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-10-27-samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes.md",
+      "title": "Samsung and IBM Announce Call for Code Challenge to Honor Everyday Heroes",
+      "excerpt": "The partnership between Samsung and IBM extends over 30 years, starting with work on semiconductors and now mobility, AI, 5G, Industry 4.0 and networks. At SDC, Samsung and IBM Consulting are ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-1030901159",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/samsung-and-ibm-announce-call-for-code-challenge-to-honor-everyday-heroes-1030901159",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-driving-ai-adoption-with-explainability-at-the-core.md",
       "title": "Driving AI Adoption With Explainability At The Core",
       "excerpt": "Some business leaders are still wary of enterprise-wide AI adoption and are taking a one-step-at-a-time approach toward it.",
@@ -1318,49 +1361,6 @@
       "provider": {
         "name": "Xconomy",
         "domain": "xconomy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-17-intelepeer-adds-voice-to-ibm-waston-virtual-agent.md",
-      "title": "IntelePeer Adds Voice to IBM Waston Virtual Agent",
-      "excerpt": "IBM's Watson Assistant is an intelligent virtual agent that makes it possible for organizations to improve first contact resolution and enables a more seamless hand-off from virtual agents to live agents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/channels/call-center-scheduling/articles/450020-intelepeer-adds-voice-ibm-waston-virtual-agent.htm",
-      "originalUrl": "https://www.tmcnet.com/channels/call-center-scheduling/articles/450020-intelepeer-adds-voice-ibm-waston-virtual-agent.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2021-sep/0049349428-AdobeStock_195882849_AI_supercomputing_SUPERSIZE.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-17T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

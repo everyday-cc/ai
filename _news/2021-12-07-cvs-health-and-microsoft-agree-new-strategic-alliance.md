@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "A Serious Game: Microsoft Azure Champions ‘User Generated Content’"
+    excerpt: "User Generated Content brings communities together to turn games into ever-evolving platforms. By providing game developers with a set of tools to create open environments for players, they can increase engagement while empowering individual creators to share and monetize their work."
+    publishedDateTime: 2021-12-06T17:18:00Z
+    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/"
+    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 104
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ad1e960cc6e9b23cb90539%2F0x0.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "CVS Health and Microsoft Link Up to Speed Healthcare’s Digital Shift on Retail’s Frontlines"
     excerpt: "Connected healthcare keeps making new connections as firms from different parts of the business world join forces to drive greater digital transformation for millions of consumers. New evidence of the gathering trend comes from CVS Health and Microsoft,"
     publishedDateTime: 2021-12-02T22:46:00Z
@@ -113,6 +129,6 @@ related:
         height: 600
         isCached: true
 
-secured: "23F6qUfE6Yj4K3RxQgZp3c+PTBmOSgQDoQf9b2OUamD+ntBmAcUtpOG/TrIbbE3gn3HvsVxSB9hBTwcFQZut9PEI8iZhvnQDjTqr57zk0KWvI+6+WmCp+11RgU06z2ZXcO4Cdg7xo7LenmKqX34CwiXhapis3m6q9tZcR+bmVI6/6vUu96UORy/rkjfKcnXKUj277YhUrb+1WrS4EnbtNPh7zyBi1j/xqeUbDnciIPgKqboGr/xzCFuBJT5LWxaQjhvqzooHGnO6h/lLY826ZuOLaZi86c3ok+HRiKQGcZ9VsLr/oedceJQY29kHWivsNvA9igcomBVgCb9Ssy8b+hmYspku9dCQuFBTn4c4kJw=;pQ0WYy167f1Ek/ic5qPbww=="
+secured: "AscaqVHsSyI26UA1+iEJ78pVmca8YxiZX8S9UzUQjGgNLDxguYh5mqVNOzEP2mpJ6JRtLj7m3PNUY1QKpIkHuXq3ibfpftxJlzClPX/ddbplUxlZ5hPJ1UPh7oOo1hPqtwGc3DjMON7eoqxntW+31woTnWg6uMK2hX5FD74S8qFlEbJR7pYKHr7pX9JZlYi5+9hXNo3g3wJ8AJG1WuofSA9OgObTQWdLspdMC8HLJan9OIunQBCIBscHHf1mWxHX1Gx11r8mvjDrnanqvxWS/UN2xuvl3NbAx8PgkfcuzCxJIPwQP7TE4abz4GV36pgOB9WuvukBIurRV9Pz+oqYqamJXznDj7caRwMM7TfZKsAh9LtBCTg3PuxmTfM1l9BlXTFidq7xd/QEYMvYBaloUM0x36F55Mdd81gHpn8xeayUfopwbI9zfttaSsuZwAHtP4E1PG2FNopS5fylrzcbrkzRgQLFtzg7ZZUFHUyUHoLLHKv07/2pv98sNp0WmVuRTCZPXtIHWIzON8Tv+9t5dA==;rJbV++/3d04Q0pYpOb/jnQ=="
 ---
 

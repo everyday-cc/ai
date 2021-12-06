@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2021-12-06/small-ai-sta
 webUrl: "https://www.bloomberg.com/opinion/articles/2021-12-06/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://aboutblaw.com/Q2V"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Can a Tiny AI Group Stand Up to Google?"
+    excerpt: "Many say we need independent research into AI, and good news on that came Thursday from Timnit Gebru, a former ethical AI researcher at Alphabet Inc.’s Google. She had been fired exactly a year ago following a dispute over a paper critical of large AI models,"
+    publishedDateTime: 2021-12-06T17:20:00Z
+    webUrl: "https://www.bloombergquint.com/gadfly/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Cohere and Google Cloud Partnering on AI"
     excerpt: "The natural language processing (NLP) company Cohere and Google Cloud are entering an artificial intelligence (AI) partnership. See more here:"

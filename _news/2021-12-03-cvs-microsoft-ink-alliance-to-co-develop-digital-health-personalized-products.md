@@ -7,7 +7,7 @@ originalUrl: "https://www.healthcaredive.com/news/cvs-microsoft-alliance-digital
 webUrl: "https://www.healthcaredive.com/news/cvs-microsoft-alliance-digital-health/610850/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft (MSFT) to Support CVS Health's Digital Transformation"
+    excerpt: "Microsoft MSFT is teaming up with CVS Health CVS to help the latter ramp up its digital transformation endeavours. This will help CVS health to provide a data-oriented and personal customer experience along with greater compliance with the company’s own patient confidentiality rules,"
+    publishedDateTime: 2021-12-06T14:28:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "CVS Health and Microsoft Announce New Strategic Alliance to Reimagine Personalized Care and Accelerate Digital Transformation"
     excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions to help consumers improve their health, while empowering over 300,"
     publishedDateTime: 2021-12-02T14:06:00Z

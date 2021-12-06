@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-06T11:02:00Z
 originalUrl: "https://www.fieldtechnologiesonline.com/doc/how-blockchain-and-ai-will-affect-businesses-in-the-next-years-0001"
 webUrl: "https://www.fieldtechnologiesonline.com/doc/how-blockchain-and-ai-will-affect-businesses-in-the-next-years-0001"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Autos
 
 images:
   - url: "https://vertassets.blob.core.windows.net/image/87f8a9cb/87f8a9cb-b01d-4f15-956a-c3c0195a9486/blockchain_technology_istock_1182014606.jpg"

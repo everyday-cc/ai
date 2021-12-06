@@ -2,6 +2,100 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-11-30-what-are-major-factors-driving-growth-of-deep-learning-market.md",
+      "title": "What are Major Factors Driving Growth of Deep Learning Market?",
+      "excerpt": "The increasing focus of the education sector on conversational learning owing to the rapid adoption of e learning and digital solutions is facilitating the deployment of artificial i AI technology in this sector In conversational learning content is presented as",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2479968/what-are-major-factors-driving-growth-of-deep-learning-market",
+      "originalUrl": "https://www.openpr.com/news/2479968/what-are-major-factors-driving-growth-of-deep-learning-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/b/Ub30952293_g.jpg",
+          "width": 800,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2479968/what-are-major-factors-driving-growth-of-deep-learning-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2479968/what-are-major-factors-driving-growth-of-deep-learning-market",
+      "publishedDateTime": "2021-11-30T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool.md",
+      "title": "Why Employers Should Ditch Relying On AI As A Recruitment Tool",
+      "excerpt": "As has been written here and elsewhere, one of the great mysteries of the current economic environment is how businesses of all sorts can be complaining of staff shortages at the same time as even the best qualified young people struggle to get on to the employment ladder.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/",
+      "originalUrl": "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a633e163d816f8c303d8c8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rogertrapp/2021/11/30/why-employers-should-ditch-relying-on-ai-as-a-recruitment-tool/amp/",
+      "publishedDateTime": "2021-11-30T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-spy-chiefs-warning-our-foes-are-now-pouring-money-into-quantum-computing-and-ai.md",
       "title": "Spy chief's warning: Our foes are now 'pouring money' into quantum computing and AI",
       "excerpt": "In a rare public speech, MI6 chief warns that hostile states focused on quantum and AI. The rise of technologies like artificial intelligence (AI) and quantum computing is changing the world – and intelligence services must adapt in order to operate in an increasingly digital environment,",
@@ -1103,100 +1197,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-unesco-launches-global-standard-for-ai-ethics.md",
-      "title": "UNESCO launches global standard for AI ethics",
-      "excerpt": "Standard aims to provide AI with a strong ethical basis that will not only protect but also promote human rights and human dignity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.html",
-      "originalUrl": "https://www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/01/digital_world_transformation_by_metamorworks_gettyimages-1152954867_woman_thinking_strategy_leadership_imagination_creativity_intelligence_by_metamorworks_gettyimages-1193842896_lightbulb_circuits_by_thinkstock_3x2-100826596-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3642831/unesco-launches-global-standard-for-ai-ethics.amp.html",
-      "publishedDateTime": "2021-11-29T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-exclusive-pentagon-weighing-reorganization-of-ai-data-offices.md",
-      "title": "EXCLUSIVE: Pentagon weighing reorganization of AI, data offices",
-      "excerpt": "The Defense Digital Service (DDS), the Joint Artificial Intelligence Center (JAIC) and the office of the Chief Data Officer (CDO) would all report up to a new individual, tentatively named the Chief Data & AI Officer.",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2021/11/exclusive-pentagon-weighing-reorganization-of-ai-data-offices/",
-      "originalUrl": "https://breakingdefense.com/2021/11/exclusive-pentagon-weighing-reorganization-of-ai-data-offices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2021/11/211129_pentagon_code_gfx_v2b.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2021/11/exclusive-pentagon-weighing-reorganization-of-ai-data-offices/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/11/exclusive-pentagon-weighing-reorganization-of-ai-data-offices/amp/",
-      "publishedDateTime": "2021-11-29T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

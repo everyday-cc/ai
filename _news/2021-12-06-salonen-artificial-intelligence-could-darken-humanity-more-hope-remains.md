@@ -3,16 +3,16 @@ category: news
 title: "Salonen: Artificial intelligence could darken humanity more; hope remains"
 excerpt: "Salonen warns that there is a spiritual battle unfolding. Whereas Christians are taught that God is the center of the Cosmos, those deeply rooted in artificial intelligence attempt to create their own identity and meaning."
 publishedDateTime: 2021-12-06T14:00:00Z
-originalUrl: "https://www.thedickinsonpress.com/lifestyle/faith/7308121-Salonen-Artificial-intelligence-could-darken-humanity-more-hope-remains"
-webUrl: "https://www.thedickinsonpress.com/lifestyle/faith/7308121-Salonen-Artificial-intelligence-could-darken-humanity-more-hope-remains"
+originalUrl: "https://www.mitchellrepublic.com/lifestyle/faith/7308121-Salonen-Artificial-intelligence-could-darken-humanity-more-hope-remains"
+webUrl: "https://www.mitchellrepublic.com/lifestyle/faith/7308121-Salonen-Artificial-intelligence-could-darken-humanity-more-hope-remains"
 type: article
 quality: 51
 heat: 51
 published: false
 
 provider:
-  name: Dickinson Press
-  domain: thedickinsonpress.com
+  name: Mitchell Daily Republic
+  domain: mitchellrepublic.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 712
     isCached: true
 
-secured: "Oa7hzsCWc38BnAP9kD6n/FzY0kaOaIdLCbj80NWwjfA34O3Y5T8XtLShOBb4wU8gkSebqrYn7/G8Eh2WDuJJ6HeqtppNt1S+9dyFDYerGhxPv/eDDsrPdHFgpoViNJQ1J6PT9cv/UpToGse/5RXcUTnZiY9NfV3PIeJeCwLywjqiP16/D3ivNEoi2Z/LyT1LF7ZvI2ND8xX4rdbMN3F3us4J56HI26XJZOcUdw1JKgSF5Up641mO9Bsr0nY9VVmIJnl8IYgFGRHYeyNS06d+4IQ9yi9Bt2SIjO9kxvWY5sqRZTfuSOCox3/0zeiccsc3Zgx/SKJ9aDHQR/DXVwahRlAV+D3TC/SJ/dAAn57gwfo=;OSqI5k1HnM5mEUZh8hup/g=="
+secured: "7UNLWaMcTdug2sj72GDDiSaO22A1gxnNynpFJSS3BWJfj+UgfHKXrGRtyahLXhJl/iYSTEvHGDDVj+tzrqzx64KR//LCGXRlJKuzOmSAfS3EZyADSm0W2CUQ0KaP+ZwZfdwPYibiiB2zARuBktLJjggEF4hW3IZwZxCFsfa72aJqPvdAUdbTRm1aSzkkpxoatAszsQ33BrXcbxWIybeekE5T3KvIqsaRU53q0zUNKrNCYmt8xOWzz44zmq0Nf1SKNHEB2MOhAllJV847/mNDN75BeJyem/5Tv9mHHYAaeUqca3ZQGRkXkvEaAU4OnzHdU4gD8jFg76Q4+pYpSRhVqUNXYkdDoT2QjJZrEgWoebU=;mq4x4sTC8/9DYzhGQeYfcw=="
 ---
 

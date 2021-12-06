@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Watch: Driverless taxis take to the roads in Abu Dhabi"
-excerpt: "Abu Dhabi authorities on Monday released a video of driverless taxis plying on the streets in the emirate. The video shows the taxis, fitted with navigation equipment on their roo"
-publishedDateTime: 2021-12-06T07:49:00Z
-originalUrl: "https://gulfnews.com/auto/watch-driverless-taxis-take-to-the-roads-in-abu-dhabi-1.84204422"
-webUrl: "https://gulfnews.com/auto/watch-driverless-taxis-take-to-the-roads-in-abu-dhabi-1.84204422"
-ampWebUrl: "https://gulfnews.com/amp/auto/watch-driverless-taxis-take-to-the-roads-in-abu-dhabi-1.84204422"
-cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/watch-driverless-taxis-take-to-the-roads-in-abu-dhabi-1.84204422"
+excerpt: "Abu Dhabi authorities on Monday released a video of driverless taxis plying on the streets in the emirate. The video shows the taxis, fitted with navigation equipment on their rooftops, gently taking a turn onto a main road,"
+publishedDateTime: 2021-12-06T07:45:00Z
+originalUrl: "https://gulfnews.com/business/watch-driverless-taxis-take-to-the-roads-in-abu-dhabi-1.84204422"
+webUrl: "https://gulfnews.com/business/watch-driverless-taxis-take-to-the-roads-in-abu-dhabi-1.84204422"
+ampWebUrl: "https://gulfnews.com/amp/business/watch-driverless-taxis-take-to-the-roads-in-abu-dhabi-1.84204422"
+cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/watch-driverless-taxis-take-to-the-roads-in-abu-dhabi-1.84204422"
 type: article
 quality: 59
 heat: 59
@@ -26,6 +26,6 @@ images:
     height: 405
     isCached: true
 
-secured: "H0bBM9eVys1CUQEWQM71FesS8bxyNZ3cxE2Q3HZ5fGOW7p/IfKmIQWyu0psx2xQyPvCUux8xKoakqwEnVax2cHoXfGeybza9E/TINFykKPdfsGPL0GVj5MqKFD5ZmH5NN7m1v/rouggfm0jAG8QrNgSxIf/9eTFRj1uah1bIUgFqAykITSgwrX1H8Y5dlsv+K9YIijT9L3Zj9h6yW2B/GnaTCUGJWjAnaNYYC8TrwImC1uxl5qiCDhzHKauM63BHkNfSdrnjvZa55DvG/IwkbAHOt2UA8LVKCibp3Dkl5DP+7xSps9ZTWJ0ak35qKIHuHKRWo2ozE4Py/psGo+1ApM8WAqyOZm9NwS6hZUYOkpKfawYIlEQSsqpm3g6Hqtl9oLr4ubUSnRR3XyRcvCLrYJTNinZ+Q1RLqvtN/i7cx3ne/BDSkNALR03nXHfcINPQQWaPwpXqg2NuQP1T2TVbx+ngRYnFwKbOHiKLGPnhGSKh35GGB0Q5FrddemJxiXAzrPnyBW5SJCYdFgQnvmysvQ==;hmvksZ3nAIr0NaKLMMhIPg=="
+secured: "BaecHnRm4UzIkeVtr8Y9Bw32Zs9RAHf0g9t6n99eSS2gXSFTm7n/fNx4B3qxf/dTh7WkWNO8mr3MfatCtPEkdXJGthQGTjYoArHSCghldb1O/f77kqyg/OA06720CT7PCBs9qTt0mh1k/pqcR+lsQ2n4dyzmsGfumV0ZypC22h1vfBizSisRYpAQIyF4nz1Z/uBtOwmswn/KTWbkTb+1lA0AvhOTZgmil+HmX7WSVVFxawpL3aTisqyK6sqA7Asevi3E8LoSea33+DxbCsAZhyCzxIvU36GEq73/+ROdGFfFHNQDQWelyKxXe8m4Y5LZF775yFO5yvdRWGiRTgIzFkgD5U/QIFcE1V1TGLoboj0=;DKc6MRyGfb0SOZtpeEYlgw=="
 ---
 

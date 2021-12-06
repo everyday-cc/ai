@@ -2,6 +2,187 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-03-real-world-computer-vision-applications-communications-experts-should-understand.md",
+      "title": "Real-World Computer Vision Applications Communications Experts Should Understand",
+      "excerpt": "As this technology gets better and better, I think we’re going to find more ways to use it to make our lives safer and better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D617%26cropY2%3D3768",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/amp/",
+      "publishedDateTime": "2021-12-03T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-us-government-sues-to-block-40-billion-nvidia-arm-chip-deal.md",
+      "title": "US government sues to block $40 billion Nvidia-Arm chip deal",
+      "excerpt": "The Federal Trade Commission said the deal would create a powerful company that could hurt the growth of new technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.detroitnews.com/story/business/2021/12/03/ftc-nvidia-arm-chip-deal/8849542002/",
+      "originalUrl": "https://www.detroitnews.com/story/business/2021/12/03/ftc-nvidia-arm-chip-deal/8849542002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/12/03/PDTN/7f39b23b-daeb-4203-af90-f4d9295d4832-AP21336801147181.jpg?auto=webp&crop=3659,2058,x1,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/8849542002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8849542002",
+      "publishedDateTime": "2021-12-03T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year.md",
+      "title": "Computing Security Awards 2021: Heimdal™ Wins AI and Machine Learning-Based Security of the Year",
+      "excerpt": "We are delighted to announce that Heimdal™ secured first place in the AI and Machine Learning-Based Security of the Year category at the Computing Security Awards 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://heimdalsecurity.com/blog/computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year/",
+      "originalUrl": "https://heimdalsecurity.com/blog/computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heimdalsecurity.com/blog/wp-content/uploads/Computing-Security-Awards-Heimdal™s-prize-social-media-image.png",
+          "width": 698,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heimdalsecurity.com/blog/computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year/amp/",
+      "cdnAmpWebUrl": "https://heimdalsecurity-com.cdn.ampproject.org/c/s/heimdalsecurity.com/blog/computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year/amp/",
+      "publishedDateTime": "2021-12-03T02:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heimdal Security",
+        "domain": "heimdalsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-anand-rathi-wealth-ipo-subscribed-over-2-times-so-far-on-day-2.md",
+      "title": "Anand Rathi Wealth IPO subscribed over 2 times so far on Day 2",
+      "excerpt": "Anand Rathi Wealth's initial public offering (IPO) was subscribed more than two times on Friday, the second day of the bidding process. Anand Rathi Wealth shares are available for bidding in a price band of Rs 530-550 in multiples of 27 under the IPO.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/8bc5fe03-03b0-4429-807f-60de1ac0293f",
+      "originalUrl": "https://www.cnbctv18.com/market/stocks/anand-rathi-wealth-ipo-listing-anand-rathi-ipo-subscription-update-december-3-gmp-11689562.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8ded48d3-1fc2-468c-99bd-b1e0d8e02b98.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/8bc5fe03-03b0-4429-807f-60de1ac0293f",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8bc5fe03-03b0-4429-807f-60de1ac0293f",
+      "publishedDateTime": "2021-12-02T23:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnbctv18",
+        "domain": "cnbctv18.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems.md",
       "title": "South African crowd-solving startup Zindi building a community of data scientists and using AI to solve real world problems",
       "excerpt": "Zindi is all about using AI to solve real world problems for companies and individuals. And the South Africa-based crowd-solving startup has done that over the last three years they have been in existence.",
@@ -201,49 +382,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-03-brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner.md",
-      "title": "BrainChip CTO Peter van der Made Named AI Hardware 2021 Innovator Award Winner",
-      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX:BCHPY), a leading provider of ultra-low power high performance artificial intelligence technology and the world's first",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/b24422856/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/b24422856/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24422856",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24422856",
-      "publishedDateTime": "2021-12-02T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-aws-bugbust-sets-the-guinness-world-record-for-the-largest-bug-fixing-challenge.md",
       "title": "AWS BugBust sets the Guinness World Record for the largest bug fixing challenge",
       "excerpt": "AWS BugBust is the first global bug-busting challenge for developers to eliminate 1 million software bugs and save $100 million in technical debt for their organizations. AWS BugBust allows you to create and manage private events that transform and gamify the process of finding and fixing bugs in your",
@@ -304,7 +442,7 @@
       "originalUrl": "https://www.geekwire.com/2021/univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -513,7 +651,7 @@
       "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -607,7 +745,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -929,49 +1067,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-picsart-to-acquire-computer-vision-and-ai-company-deepcraft.md",
-      "title": "Picsart to Acquire Computer Vision and AI Company DeepCraft",
-      "excerpt": "As video editing surges on the creator platform, the boutique firm will help accelerate Picsart's video offering through AI and image processing Picsart, the world's",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24408178",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24408178",
-      "publishedDateTime": "2021-12-02T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-that-radio-dj-you-hear-might-already-be-a-robot.md",
       "title": "That radio DJ you hear might already be a robot",
       "excerpt": "Andy Chanley has been a radio DJ for over 32 years. And now, thanks to artificial intelligence technology, his voice will live on simultaneously in many places.",
@@ -1106,110 +1201,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-the-quest-to-make-an-ai-that-can-play-competitive-pokemon.md",
-      "title": "The quest to make an AI that can play competitive Pokémon",
-      "excerpt": "An AI can beat a chess grandmaster. An AI can become the StarCraft esports champion. But creating an AI that could play Pokémon at the competitive level has been a more elusive problem. Thanks to the variety of monsters,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/12/2/22811849/pokemon-competitive-ai-nintendo-game-freak",
-      "originalUrl": "https://www.theverge.com/2021/12/2/22811849/pokemon-competitive-ai-nintendo-game-freak",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/tYyByR3svH01AdnFK19zFrk2Ry8=/0x0:5853x3762/1400x933/filters:focal(2459x1413:3395x2349):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70219256/Switch_PokemonSwordPokemonShield_artwork_01.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/12/2/22811849/pokemon-competitive-ai-nintendo-game-freak",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/12/2/22811849/pokemon-competitive-ai-nintendo-game-freak",
-      "publishedDateTime": "2021-12-02T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-meta-picks-aws-to-help-expand-its-ai-services.md",
-      "title": "Meta picks AWS to help expand its AI services",
-      "excerpt": "Meta, the parent company of Facebook, said it will use AWS services to \"complement\" its on-premise infrastructure and also broaden its use of AWS compute, storage and security ser",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai",
-      "originalUrl": "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638449640/itpro/pytorch_meta_aws_GettyImages-1236945622.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp",
-      "publishedDateTime": "2021-12-02T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

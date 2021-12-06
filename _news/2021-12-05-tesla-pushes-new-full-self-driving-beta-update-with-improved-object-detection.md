@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-u
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
 type: article
 quality: 86
-heat: 166
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -41,11 +41,27 @@ related:
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 86
+    quality: 88
     images:
       - url: "https://static01.nyt.com/images/2021/10/06/business/00tesla-autopilot01/00tesla-autopilot01-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "‘As always’: Elon Musk tweets on recent Tesla hiring for AI engineers"
+    excerpt: "US-based electric vehicle company Tesla is hiring AI engineers who are passionate about solving day-to-day problems through artificial intelligence."
+    publishedDateTime: 2021-12-06T06:59:00Z
+    webUrl: "https://www.businesstoday.in/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06"
+    ampWebUrl: "https://www.businesstoday.in/amp/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 76
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/elon-musk2-sixteen_nine.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "The New Self-Labeling AI Has Brought Tesla Closer To Level-3 Automation"
     excerpt: "Advertisement Tesla’s head of artificial intelligence has revealed new footage showing its auto labelling tool for its self-driving initiative. It’s believed to provide a significant boost to Tesla’s Full Self-Driving Beta."
@@ -62,38 +78,6 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/newsimage336112.jpg"
         width: 595
         height: 225
-        isCached: true
-  - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
-    excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving” (FSD) beta,"
-    publishedDateTime: 2021-12-02T14:00:00Z
-    webUrl: "https://www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/"
-    ampWebUrl: "https://www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 59
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/11/SJM-Z-WALTERS-OPED-1102.jpg?w=1024&#038;h=783"
-        width: 1024
-        height: 783
-        isCached: true
-  - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
-    excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving (FSD) beta,"
-    publishedDateTime: 2021-12-03T00:45:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/?preview_id=8190635"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 59
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/12/SJM-Z-WALTERS-OPED-1102-1.jpg?w=1024&#038;h=783"
-        width: 1024
-        height: 782
         isCached: true
   - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
     excerpt: "Elon Musk built his electric car company, Tesla, around the promise that it represented the future of driving — a phrase emblazoned on the automaker’s website."
@@ -127,6 +111,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Why We Aren’t Using Self-Driving Cars Yet"
+    excerpt: "The term ‘self-driving cars’ or ‘autonomous vehicles’ have been making rounds in the industry for quite some time now. We have even seen a few of them in action on the roads. It is almost a consensus that self-driving cars are the future of the automobile industry."
+    publishedDateTime: 2021-12-03T07:46:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet"
+    ampWebUrl: "https://www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet/amp"
+    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet/amp"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 44
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2019/06/Waymo-the-first-commercial-self-driving-car.jpg"
+        width: 1075
+        height: 624
+        isCached: true
   - title: "Tesla’s Full Self-driving Beta 10.6 emphasis on precision of movements"
     excerpt: "Tesla's Full Self-Driving (FSD) technology update will be the 10.6 version. Tesla is focusing on three things with this update."
     publishedDateTime: 2021-12-05T08:33:00Z
@@ -141,19 +141,19 @@ related:
         width: 1600
         height: 792
         isCached: true
-  - title: "Nuro partners with 7-Eleven on self-driving delivery project"
-    excerpt: "Nuro, an autonomous delivery company, is partnering with 7-Eleven on the convenience store’s first self-driving delivery project that will take place in Mountain View, California. Customers will be able to use the 7NOW delivery app to have their products delivered via self-driving cars."
-    publishedDateTime: 2021-12-02T13:26:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17483/nuro-partners-with-7-eleven-on-self-driving-delivery-project"
+  - title: "Fishers Is Next Proving Ground for Self-Driving Car Service"
+    excerpt: "After a trial run in Indianapolis this summer, a self-driving car service is coming to Fishers. The five-month pilot project begins December 20 and will continue into May. You’ll be able to use an"
+    publishedDateTime: 2021-12-02T20:27:00Z
+    webUrl: "https://www.wibc.com/news/local-indiana/fishers-is-next-proving-ground-for-self-driving-car-service/"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
+      name: WIBC
+      domain: wibc.com
     quality: 24
     images:
-      - url: "https://electronics360.globalspec.com/images/assets/483/17483/7_Eleven_x_Nuro.jpg"
-        width: 752
-        height: 500
+      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2021/12/02152336/FISHERS_EB_12022021.jpg"
+        width: 4032
+        height: 3024
         isCached: true
 
 secured: "AO2f3n6P+9AIyQnboUNpds4hF3nedq/YmRwPmWCnJYFuTmkaH1olks1mgQRKRDu0njxusuBk5dvrRqttU2mYM+ACm6Ej97IMv7cwFICa/A6t7N4y/NkOxx14F3Qzdp7Slf6Jfei0Ci+W2mAfuhXRYtMqt6BPbgLSxOSCsZY8Aan35V4/0paWo1rS5OmcWcOhDLXmLTAxCVzX3RjIqHNvx6Uua/c77K222Xg/vDFNiyXEb1ez9aX4PlIquWxdHn9l/o7xEfLtM/ZiQPaHQTV8ijPR57jkElGyWgNrq/RzEHHGuZsXjTm/TAehz1neLQ4NbOEptC/BYXIoLE3eieNFExKE2mpqa98cMvFsl6fiQr4i/unwWNAedIvRWtd5yUqxFjX+K/jWg3xjr/2P/bXKSIHuJk4ZaH4uct63Ip4Hyu/u7f7f3YAWfPuxbio0WcgU/fLcXiZX8Rt30dqn36y5QCL/9V9tfoeiVTpWVtP584TNhOxnFCne5+Mpsb+eoufbse0BdyhytPJCkjQpk4eOYg==;bc2evMGpSz1vcu7qedMejw=="

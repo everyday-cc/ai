@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Can a Tiny AI Group Stand Up to Google?"
+    excerpt: "Many say we need independent research into AI, and good news on that came Thursday from Timnit Gebru, a former ethical AI researcher at Alphabet Inc.’s Google. She had been fired exactly a year ago following a dispute over a paper critical of large AI models,"
+    publishedDateTime: 2021-12-06T17:20:00Z
+    webUrl: "https://www.bloombergquint.com/gadfly/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 39
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/n1CEBQyCOMUa7BXNNm+GSqnL/Q5YkqQIXkTS+BE4ZG6dRla2a4Z7o+p/GS4iWl7MGYIeGb4xhE+fyIRoCUy3/5P4PbQ8FfwYTlBOrfK6o46Ngmb5BBRKBaxgdcRIjWDvUvoA75HFKsrqRIrsfzpvcVmv2KZe0wfc2gvpLwJIjjvaTxhqqwXmQqKO/DPYUOA/OnidS0FBLSCdnvAH6lmLySfeNtkvwhLSNpk7Bywt6L7cV3pbcpzPF0tFXciMqlcVMgEY4x5kZm2sWgGtg+NmOSWuYBG1iZ5HzEWiWx5Rru6n3r1ZG3uwq4GYWEhllRV3LNU9qadeVXChQCA9EdI2GAKx+EUTwGz0ue9k5JqxoI=;8p5qBw9wLGXudmTMvHjM7w=="
 ---

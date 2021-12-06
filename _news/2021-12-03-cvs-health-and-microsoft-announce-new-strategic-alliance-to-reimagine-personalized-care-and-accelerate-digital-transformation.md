@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft (MSFT) to Support CVS Health's Digital Transformation"
+    excerpt: "Microsoft MSFT is teaming up with CVS Health CVS to help the latter ramp up its digital transformation endeavours. This will help CVS health to provide a data-oriented and personal customer experience along with greater compliance with the company’s own patient confidentiality rules,"
+    publishedDateTime: 2021-12-06T14:28:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "CVS, Microsoft ink alliance to co-develop digital health, personalized products"
     excerpt: "CVS has leaned heavily into an omnichannel strategy as it looks to weave together its virtual and physical assets to capture a greater slice of patients' healthcare journeys — and its corresponding revenue."
     publishedDateTime: 2021-12-02T17:04:00Z

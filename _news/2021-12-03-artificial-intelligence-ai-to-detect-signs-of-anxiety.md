@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-to-dete
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "Magnetic resonance imaging (MRI) and artificial intelligence (AI) can detect early signs of tumor cell death after novel therapy"
-    excerpt: "A recent study demonstrates that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumor cell death in response to a novel virus-based cancer therapy."
-    publishedDateTime: 2021-12-02T01:22:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/12/211201150118.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 50
   - title: "MRI, AI may detect early signs of tumour cell death after novel therapy"
     excerpt: "According to new research led by Massachusetts General Hospital, it has been found that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumour cell death in response to novel virus-based cancer therapy."
     publishedDateTime: 2021-12-03T22:49:00Z

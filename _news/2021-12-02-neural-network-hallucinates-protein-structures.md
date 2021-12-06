@@ -41,22 +41,6 @@ related:
         width: 630
         height: 352
         isCached: true
-  - title: "Neural network 'hallucinates' proteins with new, stable structures"
-    excerpt: "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools. In a report in Nature, a team including researchers at the University of Washington,"
-    publishedDateTime: 2021-12-02T03:02:00Z
-    webUrl: "https://www.news-medical.net/news/20211201/Neural-network-hallucinates-proteins-with-new-stable-structures.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20211201/Neural-network-hallucinates-proteins-with-new-stable-structures.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211201/Neural-network-hallucinates-proteins-with-new-stable-structures.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Protein-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Machine Learning Algorithm Hallucinates Novel Protein Structures"
     excerpt: "A deep-learning network trained to predict protein shapes can also generate proteins with new, stable structures."
     publishedDateTime: 2021-12-02T12:00:00Z
