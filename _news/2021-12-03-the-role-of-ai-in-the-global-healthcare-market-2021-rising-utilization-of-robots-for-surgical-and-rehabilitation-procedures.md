@@ -42,6 +42,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Smart Robot Market 2021-2028"
+    excerpt: "The global smart robot market size is expected to reach USD 31.11 billion by 2027, exhibiting a CAGR of 23.1% during the forecast period. Rapid industrialization coupled with intelligent infrastructure projects will contribute positively to the growth of the market,"
+    publishedDateTime: 2021-12-06T12:52:00Z
+    webUrl: "https://www.openpr.com/news/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow"
+    ampWebUrl: "https://www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc06500488_g.jpg"
+        width: 800
+        height: 428
+        isCached: true
   - title: "Mobile Robot Market Size Forecasted to Reach Valuation of USD 117.89 Billion by 2027"
     excerpt: "The global mobile robot market is expected to be valued at USD 117.89 Billion by 2027 from USD 23.48 billion in 2019, registering a CAGR of 23.6% through the forecast period. This growth is attributed to surge in adoption of mobile robots especially across manufacturing plants."
     publishedDateTime: 2021-12-02T10:30:00Z

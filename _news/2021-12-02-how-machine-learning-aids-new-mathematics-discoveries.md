@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12638"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12638"
 type: article
 quality: 108
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -53,22 +53,6 @@ related:
       - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2019/02/14/83987-untitled-design.jpg"
         width: 918
         height: 506
-        isCached: true
-  - title: "Mathematicians hail breakthrough in using AI to suggest new theorems"
-    excerpt: "Their work examined knot theory and representation theory, areas of \"pure mathematics\" which typically depend on human intuition for breakthroughs."
-    publishedDateTime: 2021-12-01T19:27:00Z
-    webUrl: "https://news.sky.com/story/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934"
-    ampWebUrl: "https://news.sky.com/story/amp/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/21/12/1600x900/skynews-oxford-mathematical_5601403.jpg?20211201160219"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Computer science: Artificial intelligence does the maths"
     excerpt: "Since the 1960s, mathematicians have used computers to aid the discovery of patterns and formulation of conjectures, but artificial intelligence systems are not commonly used in theoretical mathematical research."

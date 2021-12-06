@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIIT-Hyderabad selected for startup funding grant"
-    excerpt: "Hyderabad: The Centre for Innovation & Entrepreneurship (CIE) of IIIT Hyderabad has been selected for the Startup India Seed Fund Scheme by the"
-    publishedDateTime: 2021-12-01T19:16:00Z
-    webUrl: "https://telanganatoday.com/iiit-hyderabad-selected-for-startup-funding-grant"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 24
-    images:
-      - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2021/12/IIIT-Hyderabad.jpg"
-        width: 680
-        height: 370
-        isCached: true
   - title: "iHub-Data, IIIT Hyderabad Opens Applications for Skill Development Course on Foundations of Modern Machine Learning"
     excerpt: "PRNewswire/ -- iHub-Data at IIIT Hyderabad invites applications from undergraduate engineering students across the country for its 36-week foundation"
     publishedDateTime: 2021-12-02T16:17:00Z

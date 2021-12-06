@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "IIIT-Hyderabad selected for startup funding grant"
-    excerpt: "Hyderabad: The Centre for Innovation & Entrepreneurship (CIE) of IIIT Hyderabad has been selected for the Startup India Seed Fund Scheme by the"
-    publishedDateTime: 2021-12-01T19:16:00Z
-    webUrl: "https://telanganatoday.com/iiit-hyderabad-selected-for-startup-funding-grant"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 24
-    images:
-      - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2021/12/IIIT-Hyderabad.jpg"
-        width: 680
-        height: 370
-        isCached: true
 
 secured: "FwEcjrVPL37vuEUtkp7NFz7UUEo5zvzPfBBpgNtdCwX75ARSzEHKVqryIzCGXtreO3Wi1+pn0F/1ftgLL9NoY4LnTPMb9K0eMidqm77JOG+nHSXTsprJiQ3tD3/9lm1rCbQmc7RABEaeqJuKHvp9DyHFx/4frppekjtwEGntoS+BZWB5HD2WbqNJFbxdKZiGAOsRk21nk282Ty2fL5feKYGniXRho/el7BOd1YHt7h6q+T9svbQ926t7T+soBFSbwk719dwYR+K2FyC/JQFkc72Gkj8VS74pqB819KRXZ5WCx9LihlfPjMlipCxjmGf6lToZ59BMd68k9OxEc0/EAbEPupiYDcWOFHOzWLbJvkE=;DvLk9p+AxH+mIfOZmOLvHg=="
 ---

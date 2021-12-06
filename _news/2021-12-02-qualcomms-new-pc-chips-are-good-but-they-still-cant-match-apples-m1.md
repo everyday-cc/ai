@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-appl
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-apple-3068879/"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/Amid-the-global-chip-shortage-Qualcomm-chief-executive-Cristiano-Amon-said-the-shortage-is-gradually-easing-and-the-situation-is-expected-to-improve-next-year-Photo-Mike-Blake?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/35939b5b-f57d-532b-ac89-826713250ff7&operation=CROP&offset=0x115&resize=789x444"
         width: 650
         height: 366
-        isCached: true
-  - title: "Qualcomm Unveils New Snapdragon 8 Gen 1 Chip for Next-Generation Flagship Phones"
-    excerpt: "Qualcomm unveiled its new 5G mobile platform for next-generation flagship Android devices, called Snapdragon 8 Gen 1."
-    publishedDateTime: 2021-12-01T19:20:00Z
-    webUrl: "https://www.androidbeat.com/2021/12/qualcomm-unveils-snapdragon-8-gen-1-chip-next-generation-flagships/"
-    ampWebUrl: "https://www.androidbeat.com/2021/12/qualcomm-unveils-snapdragon-8-gen-1-chip-next-generation-flagships/amp/"
-    cdnAmpWebUrl: "https://www-androidbeat-com.cdn.ampproject.org/c/s/www.androidbeat.com/2021/12/qualcomm-unveils-snapdragon-8-gen-1-chip-next-generation-flagships/amp/"
-    type: article
-    provider:
-      name: androidbeat.com
-      domain: androidbeat.com
-    quality: 54
-    images:
-      - url: "https://www.androidbeat.com/wp-content/uploads/2021/12/Snapdragon-8-Gen-1-hero.png"
-        width: 2000
-        height: 1125
         isCached: true
   - title: "Qualcomm Announces the World’s First 5nm Chip for Windows Laptops"
     excerpt: "The Snapdragon 8 Gen 1 was not the only major announcement at Qualcomm’s recent Tech Summit. The American chipmaker is"

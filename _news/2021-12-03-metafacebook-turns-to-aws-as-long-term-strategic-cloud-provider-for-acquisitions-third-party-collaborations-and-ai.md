@@ -43,22 +43,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "AWS Announces New Storage Services and Capabilities"
-    excerpt: "Amazon announced four new storage services and capabilities at AWS re:Invent that deliver more choice, reduce costs, and help customers better protect their data. Amazon Simple Storage Service (Amazon S3) Glacier Instant Retrieval is now available as a new access tier in Amazon S3 Intelligent-Tiering."
-    publishedDateTime: 2021-12-01T20:37:00Z
-    webUrl: "https://www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities"
-    ampWebUrl: "https://www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities?amp"
-    cdnAmpWebUrl: "https://www-storagereview-com.cdn.ampproject.org/c/s/www.storagereview.com/news/aws-announces-new-storage-services-and-capabilities?amp"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 61
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2021/12/s3-glacier-overview.png"
-        width: 2360
-        height: 888
-        isCached: true
   - title: "AWS updates databases, AI and serverless offerings"
     excerpt: "Invent, AWS unveiled updates to database, machine learning and serverless offerings designed to reduce complexity and cost."
     publishedDateTime: 2021-12-05T10:10:00Z

@@ -56,22 +56,6 @@ related:
         width: 918
         height: 506
         isCached: true
-  - title: "Mathematicians hail breakthrough in using AI to suggest new theorems"
-    excerpt: "Their work examined knot theory and representation theory, areas of \"pure mathematics\" which typically depend on human intuition for breakthroughs."
-    publishedDateTime: 2021-12-01T19:27:00Z
-    webUrl: "https://news.sky.com/story/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934"
-    ampWebUrl: "https://news.sky.com/story/amp/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/mathematicians-hail-breakthrough-in-using-ai-to-suggest-new-theorems-12483934"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 59
-    images:
-      - url: "https://e3.365dm.com/21/12/1600x900/skynews-oxford-mathematical_5601403.jpg?20211201160219"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Computer science: Artificial intelligence does the maths"
     excerpt: "Since the 1960s, mathematicians have used computers to aid the discovery of patterns and formulation of conjectures, but artificial intelligence systems are not commonly used in theoretical mathematical research."
     publishedDateTime: 2021-12-01T23:59:00Z
@@ -105,6 +89,6 @@ related:
         height: 427
         isCached: true
 
-secured: "7ql3r5tmHlnHxMlJKPC5LDEKZqhUklRnaRKXisLJabTTd3fL5jw/SM3c6oetTmzclZ1rN/qZ3S1qhXuVPmebvkah5WQYlwBBDGfkH4jTEt3rUdqXyI4a2W+TMfqJs1ttWjP2wFdOKBOS9mPFivMULpelpI5eFg5ZsTsDRQ4VoFUAo3jT8hzMdVHcqKYvBcax+vBq2cAuxIig/0kiOYxB/lvZZmXFw6yNVjyFbyOlJvWGz5OGR1pNqVlNp0P3+FLvLqsfRCmxzYfpfqBxwRP2bc0vdxS1pavaZ9xyqhIoqiIPVWOSy6VOEkxBphsnYIYY8LzStEcXEbtrCDMPRMtd6CG5yHzg+0VNTelGQRuqiSY=;DiwSyIWADZv8z7KhTkdY+g=="
+secured: "rGfUqShdgTBvx+KOWpRbEDca77zGiAhkw94yTmbKhs/KMr4WoXO2WoXTTFcwaI1un8Px6z+KRVbCm7/OS7T656/HKzS6co9qVx9uDcgoIe64/6WQXOeIQoUh5f3zt3/9CJ7Kp6cRtrQ9/irJDSZY8lYDgYIsH/tZ2/3RaoghV0RR1IsQfmkg/DoHRpWBg4tiprdcs3t64PaWb1fx1WmY4nypMsblUhpbNsrnu6JNN8iMlKwKJQimn/DTMTOYpt+cUZKwoFTptl6FCh+MC0u/BEmvtNXlW7MajE1wT6Tk6yjd1fPrkQg7tCLdXQjH6CKJPy64hyDeNMDUZv4z9y+oduY6UTOGF72N3FkDq0Jp+U8=;5rDA08kt0w5XeNYMVS0wtQ=="
 ---
 

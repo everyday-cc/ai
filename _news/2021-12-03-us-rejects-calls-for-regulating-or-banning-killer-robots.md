@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-reg
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots"
 type: article
 quality: 142
-heat: 182
+heat: 172
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://cdn77.pressenza.com/wp-content/uploads/2019/03/killer-robots-campaign.jpg"
         width: 678
         height: 419
-        isCached: true
-  - title: "New Zealand will advocate for an international ban on autonomous weapons systems, or ‘killer robots’"
-    excerpt: "Lethal autonomous weapons systems, also called “killer robots,” can identify, target and kill without human input, according to the Future of Life Institute. They are usually regarded as distinct from drones,"
-    publishedDateTime: 2021-12-01T19:50:00Z
-    webUrl: "https://www.stripes.com/theaters/asia_pacific/2021-12-01/new-zealand-ban-autonomous-weapons-systems-killer-robots-3822687.html"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 24
-    images:
-      - url: "https://www.stripes.com/incoming/q7hcx6-12-1-21-Anti-Submarine-Warfare-Continuous-Trail-Unmanned-Vehicle/alternates/LANDSCAPE_480/12-1-21%20Anti-Submarine%20Warfare%20Continuous%20Trail%20Unmanned%20Vehicle"
-        width: 480
-        height: 299
         isCached: true
 
 secured: "Gjv5+rhdMPiyytHeqor2ICcfVNAqrZCShWSVwk3IL/OOZXiCG3/2BRukJcT0hOLd7CxS8JCExNjX+dV7IoYJ6FOxSpsh5u4WPIvwy7YQjQGHih8zLPoXQO72dY8Y9V79zpP4bkLo5dL9cz7zhRXMGCiJJ+ly09FXpK5RrHDqecxKCY3K6HPZhSIPbxARL0ZV8BPiTMZX+QGdkLlklnh1MHQLPEdHhBbyGWHDtnbeTw0YwhezfQXKkKQ1O4diGfZk5XTNdmo1dflsuDJ4g8MhMURTcoADApuq01Lduf09D5BUucxZr+VN/9zwyYUag3S78bkXyDl4qgdTmDKoQsxnTwR8WOmi7m/UOCOOZMbupACKWoUNVRTa6XSWBPlzDcfmFs/TPVCuUfYl5EnOXXZf+IcSg5YpZRaxSoCluDHDUHxPxui8rm2oe+qgzSg0H7FnwlprXdNvAFHZIDEXufpwyUJAFy1pm3WqDxvFfPPqPF4hLoUvXEO+O6BpTAWt4m6QAJoUFB20C3TLWCHamwi728LQ8X3Ac70xAvUIhXWfjG8=;Hqf716NXkP3nEUcTWqxH8Q=="

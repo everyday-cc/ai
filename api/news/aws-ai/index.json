@@ -117,7 +117,7 @@
       "originalUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -170,7 +170,7 @@
       "originalUrl": "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1122,19 +1122,19 @@
     {
       "path": "_news/2021-11-30-ambyint-achieves-aws-energy-competency-status.md",
       "title": "Ambyint Achieves AWS Energy Competency Status",
-      "excerpt": "Ambyint artificial lift optimization technologies help accelerate customers' digital transformations Ambyint, a production and artificial lift optimization solutions",
+      "excerpt": "Ambyint, a production and artificial lift optimization solutions provider, today announced that it has achieved Amazon Web Services (AWS) Energy Competency status. This designation recognizes that Ambyint has demonstrated deep expertise and technical proficiency helping customers leverage AWS cloud technology to transform complex systems and provides energy customers the ability to more easily select skilled partners to accelerate their digital transition to a sustainable energy future with confidence.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
+          "width": 350,
+          "height": 456,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1142,13 +1142,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24358439",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24358439",
-      "publishedDateTime": "2021-11-30T05:37:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T05:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

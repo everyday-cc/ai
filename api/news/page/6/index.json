@@ -2,6 +2,133 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-01-ai-optimization-technology-startup-nota-raises-147m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology.md",
+      "title": "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology",
+      "excerpt": "Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was finalized last month, a year after the series A funding of USD 6.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-twitchs-new-suspicious-user-detection-tool-aims-to-stop-ban-evasion.md",
+      "title": "Twitch's new Suspicious User Detection tool aims to stop ban evasion",
+      "excerpt": "Twitch has introduced a new tool designed to detect people who create new accounts to circumvent channel bans. Called Suspicious User Detection, this new feature is intended to help combat harassment — a recurring problem on the streaming platform.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/twitch-ban-evasion-detection",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/twitchs-new-suspicious-user-detection-tool-aims-to-stop-ban-evasion/ar-AARjX7I",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/05b2W2RLB9O93IPii7yTggq/hero-image.fill.size_1200x675.v1638323039.jpg",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/twitch-ban-evasion-detection?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/twitch-ban-evasion-detection?amp",
+      "publishedDateTime": "2021-11-30T18:04:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https://mashable.com/article/twitch-ban-evasion-detection",
+        "domain": "https://mashable.com/article/twitch-ban-evasion-detection",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-qualcomm-snapdragon-8-gen-1-chip-will-power-flagship-phones-from-oneplus-and-xiaomi.md",
+      "title": "Qualcomm Snapdragon 8 Gen 1 chip will power flagship phones from OnePlus and Xiaomi",
+      "excerpt": "The Qualcomm Snapdragon 8 Gen 1 will power most top-end Android smartphones coming later this year and early next year.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/",
+      "originalUrl": "https://indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/11/Snapdragon.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/lite/",
+      "publishedDateTime": "2021-11-30T17:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-machine-learning-to-make-sign-language-more-accessible.md",
       "title": "Machine learning to make sign language more accessible",
       "excerpt": "Google has spent over twenty years helping to make information accessible and useful in more than 150 languages. And our work is definitely not done, because the internet changes so quickly. About 15% of searches we see are entirely new every day. And when it comes to other types of information beyond",
@@ -1064,153 +1191,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-ai-software-market-forecast-to-hit-625-billion-in-2022.md",
-      "title": "AI Software Market Forecast to Hit $62.5 Billion in 2022",
-      "excerpt": "The AI software market is expected grow 21.3% next year, according to Gartner, as enterprises boost their AI spending.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230?mod=business_featst_pos2",
-      "originalUrl": "https://www.wsj.com/articles/ai-software-market-forecast-to-hit-62-5-billion-in-2022-11638288230?mod=business_featst_pos2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-443065/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-fundbox-a-fintech-focused-on-smbs-raises-100m-at-a-11b-valuation.md",
-      "title": "Fundbox, a fintech focused on SMBs, raises $100M at a $1.1B valuation",
-      "excerpt": "Fundbox, a company that offers loans to small businesses, announced today it has raised $100 million in a Series D round at a valuation of $1.1 billion. Or more simply, the company aims to solve SMBs’ working capital needs through its credit and payments offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/30/fundbox-raises-100m/",
-      "originalUrl": "https://techcrunch.com/2021/11/30/fundbox-raises-100m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2015/06/unicorn-money.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/30/fundbox-raises-100m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/fundbox-raises-100m/amp/",
-      "publishedDateTime": "2021-11-30T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-aws-pitches-robotics-as-the-next-big-thing.md",
-      "title": "AWS pitches robotics as the next big thing",
-      "excerpt": "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations",
-      "sourceUrl": null,
-      "webUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
-      "originalUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itwire.com/media/k2/items/cache/7aaca86652042fcb618061ebd565670c_M.jpg",
-          "width": 375,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

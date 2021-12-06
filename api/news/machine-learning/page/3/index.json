@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-19-solving-entertainments-globalization-problem-with-ai-and-ml.md",
+      "title": "Solving entertainment’s globalization problem with AI and ML",
+      "excerpt": "Fully autonomous translation solutions are some ways off, but that doesn’t mean AI/ML cannot reduce the workload today. It can.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/",
+      "originalUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1095494266.jpg?w=1024",
+          "width": 1024,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/18/solving-entertainments-globalization-problem-with-ai-and-ml/amp/",
+      "publishedDateTime": "2021-11-18T12:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-a-decade-in-deep-learning-and-whats-next.md",
       "title": "A decade in deep learning, and what's next",
       "excerpt": "Twenty years ago, Google started using machine learning, and 10 years ago, it helped spur rapid progress in AI using deep learning. Jeff Dean and Marian Croak of Google Research take a look at how we’ve innovated on these techniques and applied them in helpful ways, and look ahead to a responsible and",
@@ -1393,41 +1446,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-11-ai-and-machine-learning-in-financial-services.md",
-      "title": "AI and machine learning in financial services",
-      "excerpt": "While successful adoption of AI software has proven to be valuable for a business, there are many considerations and steps to be taken before adoption to ensure the most successful outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
-      "originalUrl": "https://www.computerworld.com/resources/227440/ai-and-machine-learning-in-financial-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T17:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]

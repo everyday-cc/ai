@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Chip Stocks to Buy in December"
-    excerpt: "The semiconductor industry has been aggressively expanding its manufacturing capabilities amid the global chip shortage. And because the demand for semiconductors is expected to rise over time, the industry"
-    publishedDateTime: 2021-12-01T19:03:00Z
-    webUrl: "https://www.entrepreneur.com/article/400214"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-400214.jpeg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "2 Small-Cap Chip Stocks to Buy in December"
     excerpt: "Rising investments to address the global semiconductor chip shortage by scaling up production, and increasing demand for chips from several industries, should propel the semiconductor industry's growth."
     publishedDateTime: 2021-12-03T16:04:00Z

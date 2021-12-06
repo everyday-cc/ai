@@ -2,6 +2,188 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-11-03-in-surprising-announcement-facebook-says-its-shutting-off-facial-recognition-technology.md",
+      "title": "In surprising announcement, Facebook says it's shutting off facial recognition technology",
+      "excerpt": "Facebook will no longer use facial recognition technology and will delete over a billion users’ facial recognition templates.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/enrichment/arts-culture/579661-in-surprising-announcement-facebook-says-its",
+      "originalUrl": "https://thehill.com/changing-america/enrichment/arts-culture/579661-in-surprising-announcement-facebook-says-its",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/ca_facialrecognition_getty.jpg",
+          "width": 1440,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/enrichment/arts-culture/579661-in-surprising-announcement-facebook-says-its?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/arts-culture/579661-in-surprising-announcement-facebook-says-its?amp",
+      "publishedDateTime": "2021-11-02T13:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-aws-financial-services-for-payment-industry.md",
+      "title": "AWS Financial Services for Payment Industry",
+      "excerpt": "The payment industry is rapidly transforming and growing due to the influx of new methods, acquisitions, mergers and technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986",
+      "originalUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2021/10/AWS-Financial-Services-for-Payment-Industry.png",
+          "width": 600,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/finance/aws-financial-services-for-payment-industry-02438986/amp",
+      "publishedDateTime": "2021-11-02T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-driverless-delivery-company-nuro-nabs-600m-and-partners-with-google.md",
+      "title": "Driverless delivery company Nuro nabs $600M and partners with Google",
+      "excerpt": "Autonomous vehicle company Nuro has raised $600 million from a slew of high-profile investors, including Tiger Global Management and Google.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/",
+      "originalUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1_AXl7njkCgMx6M_n4ScSz8w-e1581007552137.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/driverless-delivery-company-nuro-nabs-600m-and-partners-with-google/amp/",
+      "publishedDateTime": "2021-11-02T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-03-satya-nadellas-5-biggest-statements-at-microsoft-ignite-fall-2021.md",
+      "title": "Satya Nadella’s 5 Biggest Statements At Microsoft Ignite Fall 2021",
+      "excerpt": "During Microsoft Ignite fall 2021, Microsoft CEO Satya Nadella discussed innovations in AI, security, Teams collaboration and the metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/satya-nadella-s-5-biggest-statements-at-microsoft-ignite-fall-2021",
+      "originalUrl": "https://www.crn.com/news/cloud/satya-nadella-s-5-biggest-statements-at-microsoft-ignite-fall-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/026f-13a0c31d946d-9ff5a7297d32-1000/satya-ignite-fall-2021.jpg",
+          "width": 610,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-03-trust-the-ai-you-decide.md",
       "title": "Trust The AI? You Decide",
       "excerpt": "I wrote about fatal flaws in algorithms that were developed to mitigate the COVID-19 pandemic. Now comes a flurry of articles on an algorithm developed by Epic to provide an early warning tool for sepsis.",
@@ -1014,179 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-artificial-intelligence-could-be-about-to-replace-your-doctor.md",
-      "title": "Artificial Intelligence Could Be About To Replace Your Doctor",
-      "excerpt": "The US health and medical insurance industry is a $1.1-trillion maze that is impossible to navigate. And in the bigger scenario of a",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-could-be-about-to-replace-your-doctor-869100784.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-could-be-about-to-replace-your-doctor-869100784.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile.md",
-      "title": "Has Robotics Finally Arrived? Benefits Emerge in the Store, Microfulfillment Center and Last Mile",
-      "excerpt": "Robots are already an established part of large-scale warehouses run by behemoths like Amazon. They move swiftly and at scale, covering a lot of ground in a stable, well-routed environment designed specifically for them.",
-      "sourceUrl": null,
-      "webUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile",
-      "originalUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://retailtouchpoints.com/wp-content/uploads/2021/11/robot.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile/amp",
-      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/retail-store-design/in-store-innovation/has-robotics-finally-arrived-benefits-emerge-in-the-store-microfulfillment-center-and-last-mile/amp",
-      "publishedDateTime": "2021-11-02T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail TouchPoints",
-        "domain": "retailtouchpoints.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-why-artificial-intelligence-startups-failed-to-deliver-on-their-promise.md",
-      "title": "Why Artificial Intelligence Startups Failed To Deliver On Their Promise",
-      "excerpt": "AI-based startups were launching everywhere with the promise ... Depending on the industry you might also need to address privacy and ethics concerns. The next step is to train a model. Think of training as wiring a bot’s brain so a set of attributes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2021/11/02/why-artificial-intelligence-startups-failed-to-deliver-on-their-promise/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2021/11/02/why-artificial-intelligence-startups-failed-to-deliver-on-their-promise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618064ed63d836de461e3a26%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-baidu-names-luo-rong-as-new-cfo.md",
-      "title": "Baidu names Luo Rong as new CFO",
-      "excerpt": "Chinese search giant Baidu appointed Luo Rong, former chief financial officer (CFO) of tutoring firm TAL Education Group, as its new CFO, reporting directly to chief executive officer Robin Li. Before joining TAL in 2014, Luo served as CFO of online travel ...",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/11/02/baidu-names-luo-rong-as-new-cfo/",
-      "originalUrl": "https://technode.com/2021/11/02/baidu-names-luo-rong-as-new-cfo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/11/02/baidu-names-luo-rong-as-new-cfo/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/11/02/baidu-names-luo-rong-as-new-cfo/",
-      "publishedDateTime": "2021-11-02T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

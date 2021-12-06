@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-m
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
 type: article
 quality: 88
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Full Self-Driving Diary: A longtime Tesla driver’s perspective on FSD beta"
-    excerpt: "After a month of safe and cautious driving, I finally achieved a Safety Score of 99 last week, and shortly thereafter, I was granted access to the Full Self-Driving Beta for my 2021 Model Y. The experience with the FSD Beta over the last seven days has made a few things clear: it’s very much"
-    publishedDateTime: 2021-12-01T20:46:00Z
-    webUrl: "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/"
-    ampWebUrl: "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla pushes new Full Self-Driving Beta update with improved object detection"
     excerpt: "Tesla has started to push a new Full Self-Driving Beta software update (version 10.6) to its fleet with improved object detection. It’s the latest step in the long road to improve the FSD package and deliver on a promise to customers that has been delayed several times."
     publishedDateTime: 2021-12-04T19:32:00Z
@@ -157,6 +141,6 @@ related:
         height: 3024
         isCached: true
 
-secured: "f9aCBR8iIY/5JRl7+yojmOXCds+7j4kF3u08TvTmMD+p9CeZM/AkH/nzBPRrzW7SDnmckscjqCAyf848gBzj5EzBa/buhk18kjwGxvtgHOUT/VDBzMTZ4eJ05T6EOqinKhFdCd3Rw83YxVqeRZH7uRmKwkVwHWghn29GCt4C4fnsu+WCksV59wOmAvsLTPTEaa7XChkEfBX3ZsJveCdJJM4opKehucXX64RDU8VQ82wu6590KgrePXdUlHzvhC0iPncFC6d+0VBcjCCGXw/RFyM/2yx+HstCcFzzu5Iujt6FCg8DQ5f9vGXmfN8y59yMJAw7OeID7DJrtveTFux6xPDOSQ3UGORCSMJpp0Cf49Y=;M8kJNR+Q5D7IulBMXkU8gw=="
+secured: "lDeoFirbtHZxvoiD3hrNOVZrk+SmumVW+twpaCQ2KcQbvawVnWtVl+yQzOVnE2JwQ3TdQAXOFSuVmcmVmJgL8v4bOf0/7JfFnhEdjIV1+IF4P387oN23yaYXPqqwRmvupSG1GyDQu7qK7srI36kv0xpZa9Twg9fvPelTvb5lAxNeyA2zYyZnv3Xf4w7HDxtboIvVQ3AZeNeYVwAwXRuO2kskqlq7Cj4zEInv/JGGmAJC7sPMLQtue3BOTR/0lrinVWs5ZKH9Ip5j9iV9Cl+kA28oj6Gtlip+uxONuufnNb9ZdRUB4P0FHbi97lKx+3clhAn4EWriCdmdguU7ca85vhJqiE0+W0Jg/1tNG45uhSxO2AAau2B2ZASm9YPcxSVoZYI7OWMJeN4+/tnnt/eMuHqJP8g++qH0VfiSfQAgzUeWocLjvCpjjWr0qF3jxSt+YPQe6UG7/sPuDNpkmKhp4KvcMfbf9Tt7b3dWl/hazVlb6fa5v9nChTaEjOO1KeLy5i+xmAkzhgnZ8HfpnOLh6A==;ab1SxK6khMT46DjabMV1ug=="
 ---
 

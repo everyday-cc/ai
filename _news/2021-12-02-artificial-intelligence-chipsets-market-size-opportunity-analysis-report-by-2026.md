@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026-2021-12-01"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Platform Market 2021 Comprehensive Research, Market Definition and Business Operation Data Analysis by 2027"
-    excerpt: "A study on the Global Artificial Intelligence Platform Market Research Report 2021-2027 is disclosed by MarketandResearch.biz. It consists of various section such as research methodology, market introduction,"
-    publishedDateTime: 2021-12-01T20:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2021-comprehensive-research-market-definition-and-business-operation-data-analysis-by-2027-2021-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

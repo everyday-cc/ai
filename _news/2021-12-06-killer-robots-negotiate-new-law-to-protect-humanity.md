@@ -71,20 +71,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "New Zealand will advocate for an international ban on autonomous weapons systems, or ‘killer robots’"
-    excerpt: "Lethal autonomous weapons systems, also called “killer robots,” can identify, target and kill without human input, according to the Future of Life Institute. They are usually regarded as distinct from drones,"
-    publishedDateTime: 2021-12-01T19:50:00Z
-    webUrl: "https://www.stripes.com/theaters/asia_pacific/2021-12-01/new-zealand-ban-autonomous-weapons-systems-killer-robots-3822687.html"
-    type: article
-    provider:
-      name: Stars and Stripes
-      domain: stripes.com
-    quality: 24
-    images:
-      - url: "https://www.stripes.com/incoming/q7hcx6-12-1-21-Anti-Submarine-Warfare-Continuous-Trail-Unmanned-Vehicle/alternates/LANDSCAPE_480/12-1-21%20Anti-Submarine%20Warfare%20Continuous%20Trail%20Unmanned%20Vehicle"
-        width: 480
-        height: 299
-        isCached: true
 
 secured: "lUygzpjmbDdQj2xmpdazCKuwrbxcFgs0nwktX3E2f2D5EyJ/hBT7gC9iXHJs2bLcB2aCkWtwJpf/cE6t24bqb+sC3LIzSryFPk4i7TJh/PCsLS9jlFN2OhtIMrHTEuL4uXwU7fZzr5iF59nZDNum1RAxmNk4l7rGKYnXK0hRoyOtVbBeLL/MNgORLT+gfACAkmOmuDamjEs/GAMgDMFcbY0sT5yAKBqLCeIroEEgvnt6pOcG7MNqJZS5mnym06ipS+sc3wdsiXTFoTqMkMS2xFKCwEtxnSl1wkf/NLlcz5/YJLr9PmF02hKILm37szYu1wqYbdY/HZQzjDZVcEXedrITQaROyNBf1fBK2cnFrPg=;hHCm24tn1Ph2rWanjsxFGA=="
 ---

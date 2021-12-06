@@ -40,14 +40,19 @@ related:
         height: 281
         isCached: true
   - title: "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone"
-    excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone - regardless of skill level and expertise - to ask data questions in plain language and instantly receive the answer in Yellowfin."
-    publishedDateTime: 2021-12-03T14:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-yellowf-launches-guided-natural-language-query-making-true-/2021/12/03/9504439.htm"
+    excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone — regardless of skill level and expertise — to ask data questions in plain language and instantly receive the answer in Yellowfin."
+    publishedDateTime: 2021-12-03T14:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-australia-1af6996d1dba4ef797f6d679a2f7a0d3"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone"
     excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), lever"
     publishedDateTime: 2021-12-03T18:00:00Z

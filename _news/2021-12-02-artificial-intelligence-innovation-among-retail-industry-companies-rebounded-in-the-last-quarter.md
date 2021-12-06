@@ -7,7 +7,7 @@ originalUrl: "https://www.retail-insight-network.com/features/artificial-intelli
 webUrl: "https://www.retail-insight-network.com/features/artificial-intelligence-innovation-among-retail-industry-companies-rebounded-in-the-last-quarter/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,31 @@ images:
     isCached: true
 
 related:
+  - title: "Most Latin companies using AI have profited from the technology"
+    excerpt: "But numbers in the region are still lower than other parts of the world; companies struggle with lack of trust in the technology and insufficient skills, according to research"
+    publishedDateTime: 2021-12-06T11:54:00Z
+    webUrl: "https://www.zdnet.com/article/most-latin-companies-using-ai-have-profited-from-the-technology/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/most-latin-companies-using-ai-have-profited-from-the-technology/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-latin-companies-using-ai-have-profited-from-the-technology/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+  - title: "Artificial Intelligence Technology You Can Control From Anywhere"
+    excerpt: "Artificial Intelligence Technology You Can Control From Anywhere December 5, 2021 by Mai Tao Leave a Comment    Innovative techno"
+    publishedDateTime: 2021-12-05T09:28:00Z
+    webUrl: "https://menafn.com/1103306290/Artificial-Intelligence-Technology-You-Can-Control-From-Anywhere"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/05/R&AN_88bb9image_story.png"
+        width: 800
+        height: 447
+        isCached: true
   - title: "Artificial intelligence innovation among power industry companies has dropped off in the last year"
     excerpt: "Research and innovation in artificial intelligence in the power industry operations and technologies sector has declined in the last year. The most recent figures show that the number of AI patent applications in the industry stood at 127 in the three months ending September – down from 185 over the same period last year."
     publishedDateTime: 2021-12-03T10:00:00Z

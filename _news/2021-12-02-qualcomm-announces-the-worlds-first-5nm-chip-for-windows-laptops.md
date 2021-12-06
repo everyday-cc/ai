@@ -85,22 +85,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Qualcomm Unveils New Snapdragon 8 Gen 1 Chip for Next-Generation Flagship Phones"
-    excerpt: "Qualcomm unveiled its new 5G mobile platform for next-generation flagship Android devices, called Snapdragon 8 Gen 1."
-    publishedDateTime: 2021-12-01T19:20:00Z
-    webUrl: "https://www.androidbeat.com/2021/12/qualcomm-unveils-snapdragon-8-gen-1-chip-next-generation-flagships/"
-    ampWebUrl: "https://www.androidbeat.com/2021/12/qualcomm-unveils-snapdragon-8-gen-1-chip-next-generation-flagships/amp/"
-    cdnAmpWebUrl: "https://www-androidbeat-com.cdn.ampproject.org/c/s/www.androidbeat.com/2021/12/qualcomm-unveils-snapdragon-8-gen-1-chip-next-generation-flagships/amp/"
-    type: article
-    provider:
-      name: androidbeat.com
-      domain: androidbeat.com
-    quality: 54
-    images:
-      - url: "https://www.androidbeat.com/wp-content/uploads/2021/12/Snapdragon-8-Gen-1-hero.png"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "\"Snapdragon 8cx Gen 3\": Qualcomm unveils new chip for Windows PCs"
     excerpt: "Chipmaker Qualcomm has announced the new Snapdragon 8cx Gen 3 compute platform as a successor of the 8cx Gen 2 model that was launched last year. The new Snapdragon 8cx Gen 3 chipset is built for always on,"
     publishedDateTime: 2021-12-02T06:51:00Z

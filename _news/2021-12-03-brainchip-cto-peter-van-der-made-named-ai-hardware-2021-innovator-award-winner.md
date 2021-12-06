@@ -1,23 +1,29 @@
 ---
 category: news
 title: "BrainChip CTO Peter van der Made Named AI Hardware 2021 Innovator Award Winner"
-excerpt: "The AI Innovator of the Year award is given to the industry’s leading and most accomplished individuals to commemorate the backbone of AI progress. With the development of BrainChip’s Akida neural processor,"
+excerpt: "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BCHPY), a leading provider of ultra-low power high performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,"
 publishedDateTime: 2021-12-03T01:07:00Z
-originalUrl: "https://www.financialbuzz.com/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner/"
-webUrl: "https://www.financialbuzz.com/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner/"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-brainchip-holdings-ltd-93df8a28aa924b1993b109550ba4423a"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-brainchip-holdings-ltd-93df8a28aa924b1993b109550ba4423a"
 type: article
-quality: 30
-heat: 30
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "TNG8CWEX7utL6DkYGOMwRp65qELlMP0dDV5EcLvZLrvE662rcolp0o05cJfSNRPorkxol3tctcsqlRESCYWOK+xyp99oipdOSYNsqPzEZ258f434KPtS1isalF66w1NC31A1CCwV1EJQQFoBep6jeRqK8VYKQRUuDWwlI7Dvp0+0+aKwVAdcbVynPHYM21qPIQZrySHRDZWtSw01jzmZRnjrLTnhJz7BP1PGO9g6xlJjRI+MRihM8YmvkneeRJzpePIUnr5dTLmwwvWA92pd9PBWvhcN4ZaKbf2HD73GcOga7LVjkHsK3POK/j9p5Ee9RgoL2c/xsDohcJ9nDrLe2vxAm+p8cVm6P5vQKwfN2S0=;OTLdh7U0ie7ntfMhgIfo/Q=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "SPYV8G5kSgHIYWrhDt9QlxzywMRcQJbRKFcQLdkCoIdBqp0I0DFxAe3AyZXlulkT+aYi3x9MHAAGT415sxYBWULpIxq1eUsKVuJrVOPit/UJq8RSYepoXU+KL2uJQOzpS2zwI6jn4hruQYxWFft8dQAOV7hzgG+pO+w5tJLv0VysVMuE+r6zk7w7ztneL5QdninIcKh7q/I1hMjoBm7stR8MMadBRdGKjXk2kEe15yATMjTuWnQE8RmJvXMx3DzIJwiU5LoU8+8NQ/vHZxM0/kJzYLF758Ff54fJ0heeQQQoorcWe9IHI8UR+XoiNh7dU2HYdAEr3Wmh5TaTAiNAgY9U+g0e7je64frl7KyTViA=;Nr1Ja0Y69mOb4OpFiJxzgA=="
 ---
 

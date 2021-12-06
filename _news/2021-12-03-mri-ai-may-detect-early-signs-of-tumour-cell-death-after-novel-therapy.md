@@ -7,8 +7,8 @@ originalUrl: "https://www.bignewsnetwork.com/news/271859405/mri-ai-may-detect-ea
 webUrl: "https://www.bignewsnetwork.com/news/271859405/mri-ai-may-detect-early-signs-of-tumour-cell-death-after-novel-therapy"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Big News Network.com
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Magnetic resonance imaging and artificial intelligence can detect early signs of tumor cell death after novel therapy"
-    excerpt: "In a recent study published in Nature Biomedical Engineering, a team led by researchers at Massachusetts General Hospital (MGH) has demonstrated that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumor cell death in response to a novel virus-based cancer therapy."
-    publishedDateTime: 2021-12-01T20:29:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-magnetic-resonance-imaging-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/brain-tumor.jpg"
-        width: 2880
-        height: 2188
-        isCached: true
   - title: "Artificial Intelligence, MRI Detect Early Signs Of Tumor Cell Death"
     excerpt: "Researchers created a non-invasive approach for measuring cancer treatment response using AI and MRI technology."
     publishedDateTime: 2021-12-02T17:26:00Z

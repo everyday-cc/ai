@@ -1,12 +1,12 @@
 ---
 category: news
 title: "The movement to hold AI accountable gains more steam"
-excerpt: "Standards for audits and auditors are important because growing calls to regulate AI have led to the creation of a number of auditing startups, some by critics of AI, and others that might be more favorable to the companies they are auditing."
+excerpt: "Now, efforts are underway to better understand how AI works and hold users accountable. New York’s City Council last month adopted a law requiring audits of algorithms used by employers in hiring or promotion."
 publishedDateTime: 2021-12-05T13:10:00Z
-originalUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/2/"
-webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/2/"
+originalUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/"
+webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
   - AI
 
 images:
@@ -55,6 +54,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "eflhGmDQu8h8ILUew6lsOFAXkRhNavs5Z8PkMH7NWv2NSgrYCtvUQ83mBfO2vWGfreuB8Ka6nFk2ijXOY+XVSYa4S00I9QVeFwVhQvVO/BJhQu5V31kWffgZSZo0VjkG11GKzHXwPMxPwIaP1wDnKK7vlULPZb4YidpDLZ0ToHdTCwn2Dbk8csVCcb04XtwYLowtn9RZeNtOC9vozpuvslqZIipue8Jinpp17ZB6Y2onlN7sedkSjlBxYZmAENPTRha2/bFgR7FgOc+SC5efbrFzTHyYwl7T5qWUjjmPGsfV9nZgSTp0yl3ZUtcdrRnQC3IHoeRXpqYiEybytjChjasHC6fumilIqM7jpyL7rpjRv4PmlRTmeElhSbnpguy/J9wCYDkMnaTmp8J7fOB42MEpG+XfbblSo64M0773HtfV9HFA+Zebx7QDnI/7xCG5wZTbr7FBsmQ2C8Bwr+WHxBLZ9kTbrOu/cZOY2OnwJ8NAyjSLY+y0fIHa/jqSnNjqFs/E8lFUv7TcJxQWK/1hHg==;NLdmw0+WEyFd7GVGme3EMg=="
+secured: "GUf4LZC4AboNTg8EVbiuZq9wwQnlFAt+E289yAPBruELDxV8kQs3G394QtfQr5JeCJfmDvj6OratydhCugMTbsLZg2tpiFkV+A/rz7tnvcPKeH+JqLRuqvDuAxU3rFYxTRnpDN53BPTj8CCVCR5X5s/sP2vV8hpyD/AC3/Axc08MZdbILggFPnMxYLus86c7qFHMENTbqEExB3h7WmMagB3Fh8jPEOZb8/AjJ0eZp0GRHf6m3csty/78m4zvyGV75tnUaTravP0LvUmXOAX78WMEAf5Qd+rf6OWASTrgl2E0THMChqE/S8NWEcdC/2JYu/9UYZBKii/XQX9JqIAWUYtam2k/TV94PBiCnseF72A=;eLFhIg3FuAWVLxCZ+8juQg=="
 ---
 

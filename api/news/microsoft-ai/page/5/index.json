@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-20-microsoft-launches-new-initiative-to-empower-ai-startups-in-india.md",
+      "title": "Microsoft launches new initiative to empower AI startups in India",
+      "excerpt": "Tech giant Microsoft on Wednesday launched a new programme Microsoft AI Innovate for nurturing and scaling startups that are leveraging Artificial Intelligence (AI). The 10-week initiative will support startups in India leveraging AI technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://mybigplunge.com/tech-plunge/technology/microsoft-launches-new-initiative-to-empower-ai-startups-in-india/",
+      "originalUrl": "https://mybigplunge.com/tech-plunge/technology/microsoft-launches-new-initiative-to-empower-ai-startups-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mybigplunge.com/wp-content/uploads/2021/10/Microsoft-launches-new-initiative-to-empower-AI-startups-in-India-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mybigplunge.com",
+        "domain": "mybigplunge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.md",
       "title": "Google Cloud tools aim to ease machine learning, cross-cloud analytics",
       "excerpt": "GCP is offering new data and machine learning tools designed to clear up data inefficiencies and ease application development for enterprises.",
@@ -1258,58 +1301,6 @@
         "name": "WKYT",
         "domain": "wkyt.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-microsoft-translator-now-works-across-103-languages.md",
-      "title": "Microsoft Translator now works across 103 languages",
-      "excerpt": "The key tools to enable this are Azure Cognitive Services Translator APIs in the public cloud and in Microsoft's Azure Government Cloud. The Text Translation API is available in Docker containers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-translator-now-works-across-103-languages/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-translator-now-works-across-103-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/8776d80d49150283e5846fda24522a11b4a9c419/2021/09/23/3f1c81d0-3d81-4e81-871f-00c8de28c009/20200923-owen-beth-teams.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-translator-now-works-across-103-languages/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-translator-now-works-across-103-languages/",
-      "publishedDateTime": "2021-10-13T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

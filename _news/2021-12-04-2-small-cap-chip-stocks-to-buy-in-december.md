@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/400662"
 webUrl: "https://www.entrepreneur.com/article/400662"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Entrepreneur
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Chip Stocks to Buy in December"
-    excerpt: "The semiconductor industry has been aggressively expanding its manufacturing capabilities amid the global chip shortage. And because the demand for semiconductors is expected to rise over time, the industry"
-    publishedDateTime: 2021-12-01T19:03:00Z
-    webUrl: "https://www.entrepreneur.com/article/400214"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-400214.jpeg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "4 Top Fintech Stocks To Watch In December 2021"
     excerpt: "Are These The Best Fintech Stocks To Buy Right Now? Fintech stocks have been one of the most lucrative sectors in the stock market this year. This should not come as a surprise as the sector continues to benefit from the shift to digital payments,"
     publishedDateTime: 2021-12-05T15:30:00Z

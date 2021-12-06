@@ -2,6 +2,205 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-04-2-small-cap-chip-stocks-to-buy-in-december.md",
+      "title": "2 Small-Cap Chip Stocks to Buy in December",
+      "excerpt": "Rising investments to address the global semiconductor chip shortage by scaling up production, and increasing demand for chips from several industries, should propel the semiconductor industry's growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/400662",
+      "originalUrl": "https://www.entrepreneur.com/article/400662",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-400662.jpeg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-humanoid-robot-ameca-shows-most-accurate-facial-expressions-in-new-video-watch.md",
+      "title": "Humanoid Robot 'Ameca' Shows Most Accurate Facial Expressions In New Video; WATCH",
+      "excerpt": "The UK’s Cornwall-based firm Engineered Arts has unveiled a humanoid robot Ameca that can display human-like expressions with the most accuracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=IPukuYb9xWw",
+      "originalUrl": "https://www.republicworld.com/technology-news/science/humanoid-robot-ameca-shows-most-accurate-facial-expressions-in-new-video-watch.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IPukuYb9xWw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T07:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-video-of-realistic-humanoid-robot-has-the-internet-terrified-oh-my-god.md",
+      "title": "Video of Realistic Humanoid Robot Has the Internet Terrified: 'Oh My God'",
+      "excerpt": "The robot can be seen looking around the room and staring at its hands in a demonstration by British robotics firm Engineered Arts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766",
+      "originalUrl": "https://www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1944984/ameca-robot.png",
+          "width": 1497,
+          "height": 969,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766?amp=1",
+      "publishedDateTime": "2021-12-03T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals.md",
+      "title": "The IBM Research AI Hardware Center: Solid Progress, Aggressive Goals",
+      "excerpt": "IBM AI acceleration technologies are so good, most AI chip companies would be better off licensing the tech from IBM.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8eb11777726e67d5e1c91%2F0x0.png",
+          "width": 742,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/amp/",
+      "publishedDateTime": "2021-12-03T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-the-onset-of-data-centric-ai-and-why-its-here-to-stay.md",
       "title": "The Onset Of Data-Centric AI And Why It’s Here To Stay",
       "excerpt": "The present circumstances indicate that if a company or organization wishes to start working with an AI system or wants to improve their current operation, giving much more emphasis on the data component will be a huge step forward.",
@@ -10,7 +209,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/03/the-onset-of-data-centric-ai-and-why-its-here-to-stay/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -112,7 +311,7 @@
       "originalUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -340,49 +539,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-03-mri-ai-may-detect-early-signs-of-tumour-cell-death-after-novel-therapy.md",
-      "title": "MRI, AI may detect early signs of tumour cell death after novel therapy",
-      "excerpt": "According to new research led by Massachusetts General Hospital it has been found that magnetic resonance imaging MRI and artificial intelligence AI can be",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/271859405/mri-ai-may-detect-early-signs-of-tumour-cell-death-after-novel-therapy",
-      "originalUrl": "https://www.bignewsnetwork.com/news/271859405/mri-ai-may-detect-early-signs-of-tumour-cell-death-after-novel-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/ani1638529347.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-03-real-world-computer-vision-applications-communications-experts-should-understand.md",
       "title": "Real-World Computer Vision Applications Communications Experts Should Understand",
       "excerpt": "As this technology gets better and better, I think we’re going to find more ways to use it to make our lives safer and better.",
@@ -391,7 +547,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -876,7 +1032,7 @@
       "originalUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -929,7 +1085,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -1064,161 +1220,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-ai-powered-ecommerce-platform-convious-raises-12m.md",
-      "title": "AI-powered ecommerce platform Convious raises $12M",
-      "excerpt": "Convious, an AI-driven ecommerce platform, seeks to help the experience economy transition from legacy systems to more modern, industry-specific, cloud-based platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-convious-raises-12m/",
-      "originalUrl": "https://venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-convious-raises-12m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1210935014-e1634839477614.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-convious-raises-12m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/ai-powered-ecommerce-platform-convious-raises-12m/amp/",
-      "publishedDateTime": "2021-12-02T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises.md",
-      "title": "Microsoft and KPMG team up to bring Azure Quantum to more enterprises",
-      "excerpt": "Microsoft announced that it and KPMG, now an Azure Quantum Systems Integrator, will use quantum-inspired algorithms to solve problems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/",
-      "originalUrl": "https://venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/two-module-quantum-computer-prototype-25111.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/amp/",
-      "publishedDateTime": "2021-12-02T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software.md",
-      "title": "Future Chip Innovation Will Be Driven By AI-Powered Co-Optimization Of Hardware And Software",
-      "excerpt": "The invention of the printing press and the ascension of the internet come to mind as similar inflection points, but current innovation trends are being driven by artificial intelligence (AI) at scale,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8e24e35c83b6938d1e648%2F0x0.jpg",
-          "width": 1000,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/",
-      "publishedDateTime": "2021-12-02T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

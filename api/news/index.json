@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-06-most-latin-companies-using-ai-have-profited-from-the-technology.md",
+      "title": "Most Latin companies using AI have profited from the technology",
+      "excerpt": "But numbers in the region are still lower than other parts of the world; companies struggle with lack of trust in the technology and insufficient skills, according to research",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/most-latin-companies-using-ai-have-profited-from-the-technology/",
+      "originalUrl": "https://www.zdnet.com/article/most-latin-companies-using-ai-have-profited-from-the-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/most-latin-companies-using-ai-have-profited-from-the-technology/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-latin-companies-using-ai-have-profited-from-the-technology/",
+      "publishedDateTime": "2021-12-06T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars.md",
       "title": "Inside Tesla as Elon Musk Pushed an Unflinching Vision for Self-Driving Cars",
       "excerpt": "The automaker may have undermined safety in designing its Autopilot driver-assistance system to fit its chief executive’s vision, former employees say.",
@@ -10,7 +52,7 @@
       "originalUrl": "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 168,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -93,6 +135,100 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-can-a-tiny-ai-group-stand-up-to-google.md",
+      "title": "Can a Tiny AI Group Stand Up to Google?",
+      "excerpt": "Scientist Timnit Gebru has set up an AI research group one year after getting fired from Google, but she and others are fighting an uphill battle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-12-06/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-12-06/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEswj2yFA1x0/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-new-approach-to-covid-19-immune-profiling-using-blood-based-machine-learning.md",
+      "title": "New approach to COVID-19 immune profiling using blood-based machine learning",
+      "excerpt": "A new study discusses the application of a novel deconvolution model AImmune to predict moderate and severe cases of COVID-19.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/12/shutterstock_1722032125.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx",
+      "publishedDateTime": "2021-12-05T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1071,153 +1207,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-humanoid-robot-ameca-shows-most-accurate-facial-expressions-in-new-video-watch.md",
-      "title": "Humanoid Robot 'Ameca' Shows Most Accurate Facial Expressions In New Video; WATCH",
-      "excerpt": "The UK’s Cornwall-based firm Engineered Arts has unveiled a humanoid robot Ameca that can display human-like expressions with the most accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.youtube.com/watch?v=IPukuYb9xWw",
-      "originalUrl": "https://www.republicworld.com/technology-news/science/humanoid-robot-ameca-shows-most-accurate-facial-expressions-in-new-video-watch.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IPukuYb9xWw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T07:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RepublicWorld",
-        "domain": "republicworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-video-of-realistic-humanoid-robot-has-the-internet-terrified-oh-my-god.md",
-      "title": "Video of Realistic Humanoid Robot Has the Internet Terrified: 'Oh My God'",
-      "excerpt": "The robot can be seen looking around the room and staring at its hands in a demonstration by British robotics firm Engineered Arts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766",
-      "originalUrl": "https://www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1944984/ameca-robot.png",
-          "width": 1497,
-          "height": 969,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766?amp=1",
-      "publishedDateTime": "2021-12-03T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals.md",
-      "title": "The IBM Research AI Hardware Center: Solid Progress, Aggressive Goals",
-      "excerpt": "IBM AI acceleration technologies are so good, most AI chip companies would be better off licensing the tech from IBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8eb11777726e67d5e1c91%2F0x0.png",
-          "width": 742,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/amp/",
-      "publishedDateTime": "2021-12-03T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

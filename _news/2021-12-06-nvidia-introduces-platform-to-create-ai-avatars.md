@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/nvidia-platform
 webUrl: "https://www.datamation.com/artificial-intelligence/nvidia-platform-ai-avatars/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA Again Claims The Title For The Fastest AI; Competitors Disagree"
-    excerpt: "After all, training tiny models like Resnet on over 4000 GPU’s in order to claim the fastest hardware crown is irrelevant in the real world. Rather, TTT is a demonstration of scalability, which is universally important to AI practitioners."
-    publishedDateTime: 2021-12-01T19:38:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/12/01/nvidia-again-claims-the-title-for-the-fastest--ai-competitors-disagree/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a7aedec9cd7a21719f5183%2F0x0.jpg"
-        width: 1200
-        height: 637
-        isCached: true
   - title: "Cloud Service, OEMs Raise the Bar on AI Training with NVIDIA AI"
     excerpt: "Look who just set new speed records for training AI models fast: Dell Technologies, Inspur, Supermicro and - in its debut on the MLPerf benchmarks - Azure, all using NVIDIA AI. Our platform set records across all eight popular workloads in the MLPerf training 1."
     publishedDateTime: 2021-12-02T00:18:00Z

@@ -43,6 +43,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "Smart Robot Market 2021-2028"
+    excerpt: "The global smart robot market size is expected to reach USD 31.11 billion by 2027, exhibiting a CAGR of 23.1% during the forecast period. Rapid industrialization coupled with intelligent infrastructure projects will contribute positively to the growth of the market,"
+    publishedDateTime: 2021-12-06T12:52:00Z
+    webUrl: "https://www.openpr.com/news/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow"
+    ampWebUrl: "https://www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc06500488_g.jpg"
+        width: 800
+        height: 428
+        isCached: true
   - title: "The Role of AI in the Global Healthcare Market 2021: Rising Utilization of Robots for Surgical and Rehabilitation Procedures"
     excerpt: "The global AI in healthcare market is forecasted to record a value of US$22.68 billion in 2025, progressing at a CAGR of 35.59%, for the duration spanning 2021-2025. Factors such as rising utilization of robots for surgical and rehabilitation procedures,"
     publishedDateTime: 2021-12-03T10:41:00Z

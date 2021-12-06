@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20211205/New-approach-to-COVID
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211205/New-approach-to-COVID-19-immune-profiling-using-blood-based-machine-learning.aspx"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: News Medical
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study shows how machine learning could improve COVID-19 predictive models"
-    excerpt: "Throughout the COVID-19 pandemic, case rates have ebbed and flowed in ways that have been hard for epidemiological models to predict. A new study by mathematicians from Brown University uses an advanced machine learning technique to explore the strengths and weaknesses of commonly used models,"
-    publishedDateTime: 2021-12-01T20:27:00Z
-    webUrl: "https://techxplore.com/news/2021-12-machine-covid-.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-machine-covid-.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-machine-covid-.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/digitalnetwo.jpg"
-        width: 1920
-        height: 1357
-        isCached: true
   - title: "New system for analyzing thoracic CT scans with deep learning enables COVID-19 lesion detection"
     excerpt: "A new automated system that involves deep learning technology enables the detection of COVID-19 lesion via the analysis of a computed tomography (CT) scan. This system, described in a study published in the journal Computers in Biology and Medicine,"
     publishedDateTime: 2021-12-01T21:38:00Z

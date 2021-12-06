@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study shows how machine learning could improve COVID-19 predictive models"
-    excerpt: "Throughout the COVID-19 pandemic, case rates have ebbed and flowed in ways that have been hard for epidemiological models to predict. A new study by mathematicians from Brown University uses an advanced machine learning technique to explore the strengths and weaknesses of commonly used models,"
-    publishedDateTime: 2021-12-01T20:27:00Z
-    webUrl: "https://techxplore.com/news/2021-12-machine-covid-.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-machine-covid-.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-machine-covid-.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/digitalnetwo.jpg"
-        width: 1920
-        height: 1357
-        isCached: true
   - title: "New approach to COVID-19 immune profiling using blood-based machine learning"
     excerpt: "A new study discusses the application of a novel deconvolution model AImmune to predict moderate and severe cases of COVID-19."
     publishedDateTime: 2021-12-05T23:49:00Z

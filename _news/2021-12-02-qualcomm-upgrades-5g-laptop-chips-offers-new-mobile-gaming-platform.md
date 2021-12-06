@@ -83,22 +83,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Qualcomm Unveils New Snapdragon 8 Gen 1 Chip for Next-Generation Flagship Phones"
-    excerpt: "Qualcomm unveiled its new 5G mobile platform for next-generation flagship Android devices, called Snapdragon 8 Gen 1."
-    publishedDateTime: 2021-12-01T19:20:00Z
-    webUrl: "https://www.androidbeat.com/2021/12/qualcomm-unveils-snapdragon-8-gen-1-chip-next-generation-flagships/"
-    ampWebUrl: "https://www.androidbeat.com/2021/12/qualcomm-unveils-snapdragon-8-gen-1-chip-next-generation-flagships/amp/"
-    cdnAmpWebUrl: "https://www-androidbeat-com.cdn.ampproject.org/c/s/www.androidbeat.com/2021/12/qualcomm-unveils-snapdragon-8-gen-1-chip-next-generation-flagships/amp/"
-    type: article
-    provider:
-      name: androidbeat.com
-      domain: androidbeat.com
-    quality: 54
-    images:
-      - url: "https://www.androidbeat.com/wp-content/uploads/2021/12/Snapdragon-8-Gen-1-hero.png"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Qualcomm Announces the World’s First 5nm Chip for Windows Laptops"
     excerpt: "The Snapdragon 8 Gen 1 was not the only major announcement at Qualcomm’s recent Tech Summit. The American chipmaker is"
     publishedDateTime: 2021-12-02T12:04:00Z
