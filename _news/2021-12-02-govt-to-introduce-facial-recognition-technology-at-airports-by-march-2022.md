@@ -59,6 +59,22 @@ related:
         width: 2560
         height: 1439
         isCached: true
+  - title: "Clearview AI's 'Search Engine for Faces' Set to Receive Patent"
+    excerpt: "Privacy experts worry the patent could normalize Clearview’s controversial data scraping practices in lieu of meaningful legal constraints."
+    publishedDateTime: 2021-12-06T21:45:00Z
+    webUrl: "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740"
+    ampWebUrl: "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ueqb57yidtjtmqxjectm.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Clearview AI Is Enroute to Win an US Patent for Facial Recognition Technology"
     excerpt: "If you haven't heard of Clearview AI then you should, as the company's facial recognition technology has likely already spotted you. Clearview’s software goes through public images from social media to help law enforcement identify wanted individuals by matching their public images with those found in government databases or surveillance footage."
     publishedDateTime: 2021-12-05T15:20:00Z

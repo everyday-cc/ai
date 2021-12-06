@@ -115,9 +115,25 @@ related:
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://www.chicagotribune.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
+        width: 1200
+        height: 792
+        isCached: true
+  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
+    excerpt: "Elon Musk built his electric car company, Tesla, around the promise that it represented the future of driving — a phrase emblazoned on the automaker’s website."
+    publishedDateTime: 2021-12-06T16:32:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 56
+    images:
+      - url: "https://www.baltimoresun.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
         width: 1200
         height: 792
         isCached: true
@@ -137,6 +153,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "A Tesla on Autopilot crashed into a barrier while filming of a video promoting the company's self-driving tech, NYT reports"
+    excerpt: "A video showing off Tesla's self-driving capabilities isn't exactly what it seems, The New York Times reports. The clip is still on Tesla's website."
+    publishedDateTime: 2021-12-06T16:30:00Z
+    webUrl: "https://www.businessinsider.com/tesla-autopilot-video-self-driving-crash-barrier-nyt-2021-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://i.insider.com/61ae37a30b0acf0018c4087f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla’s Full Self-driving Beta 10.6 emphasis on precision of movements"
     excerpt: "Tesla's Full Self-Driving (FSD) technology update will be the 10.6 version. Tesla is focusing on three things with this update."
     publishedDateTime: 2021-12-05T08:33:00Z
@@ -151,15 +181,6 @@ related:
         width: 1600
         height: 792
         isCached: true
-  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
-    excerpt: "Since the start of Tesla’s work on Autopilot, there has been a tension between safety and Elon Musk’s desire to market Tesla cars as technological marvels."
-    publishedDateTime: 2021-12-06T19:34:00Z
-    webUrl: "https://www.bizjournals.com/austin/news/2021/12/06/nyt-tesla-self-driving-cars-vision.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
 
 secured: "FXK2Aa8Yl43GMdHb12ttgSaH7y35yBGM3Svr0fR9caJLHritpbk4C2NGH1+azcANAEBufnyCciyaC0bjYeJHAAMfEpnE+lNJXGX7i3lbY1zV7Jf6ruPKbrWD/VmJHrx6YtkFRvM8ksS/IOTYdUWqMnACj7pVooyb9uG5pH04mONiGPsZPfoq/RwL69Bow+J4q3gAM6ihzo4612dw6D4xMbQXT5zgVbQQbCMG3Rj4SWI1HBbuynm9hUynVbGYW5ssKgp0uafU+UwOEFqhp6T1O394wR/bmK0BAUOtk2A7hOFnJXtLa94/0AaakufiXvnthTursDDoAlBlQ6pLpbEd1ipyy2bau5R2jRR3bUuz+iY=;BQBG1yO75Sy3wu+x97n+MQ=="
 ---

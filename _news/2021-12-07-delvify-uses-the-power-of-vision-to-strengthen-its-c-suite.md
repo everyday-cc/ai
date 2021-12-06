@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Delvify Uses the Power of Vision to Strengthen its C-Suite"
-excerpt: "Delvify, a Hong Kong-based AI start-up, has today announced two new additions to their team in order to strengthen its C-Suite, with Stephen"
-publishedDateTime: 2021-12-06T19:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/delvify-uses-the-power-of-vision-to-strengthen-its-c-suite/article_dfe41aee-c01d-5c2e-af50-31345608e7da.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/delvify-uses-the-power-of-vision-to-strengthen-its-c-suite/article_dfe41aee-c01d-5c2e-af50-31345608e7da.html"
+excerpt: "Delvify, a Hong Kong-based AI start-up, has today announced two new additions to their team in order to strengthen its C-Suite, with Stephen Rumbelow joining as Chief Strategy Officer (\"CSO\") and Giles Hunt joining as a Strategic Technical"
+publishedDateTime: 2021-12-06T21:24:00Z
+originalUrl: "https://www.lelezard.com/en/news-20142343.html"
+webUrl: "https://www.lelezard.com/en/news-20142343.html"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "RMkB+IjwkUVsT8be6I0ySbe5SlM/slQSFIwEgCL9tTLKC9zqMh+diKaGigyE/XgYd6UFdwtVhaBVpWtpHIfPuorC6y0/EMpt2rBcXyRlQSOFNBIY+V2QlVOC+b2OJIqpbpMur9a3xm7rLP9BFg9vti3Kr3/YhcFbSRJkWqTQiz+6pHOAmUBxMR3a6P7Hq4AD7KvHmzGznSciEcnbTut/K03XSKm/DKIJguaF6yrOoYJK+HXJa/20FDZHM8xC6U/ibLze3a8bxkNsz3j8ZtxQARhoaukXCDnL7KWsGUzap+RzYaR8biu1U7ej5LrqJqPKGjWqz40SKvyUcTDU2iVD1dzy9gVNZUWKCy1YjdbE3TpRjf2VpoV6NDrYrhluwlQZC2BbYRjz3Qqq2tKbMwuhd6pXD4X4P6/6kQZQualyW8+pnj42DdmXz5wLC+U7AnyluSuH9KJ4mDirQ4AzkQcUGufPwjHt3kN/1lfoSE+d2REfQP/xIVigtigu9EZhFMIXzbglUKdcg5rjpZtLIwBFLQ==;7LTIozs6P5TA3dMTJfNIlw=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "HcjGwP/dsAq2X8qwmDuUSNxBYnM9gUhUNAUMESbrioVj0oh8S0Vurfw+XiXYlJyb9Y+giZp71JJnXRrSpQwO489EoAwuXJdvJs0q+GiyC+FQTWRaB4NyfmvotTcmK+jO4+y4QQ6OVL8FXep4fniy+bxu6P0EHpuVzwJB0X/kcGZFgWHUXvUBNUhrsfEj4IJGWKZkW6iD5EV0qkMNdcuzlnCA5lmCC9x1PqzRaN1NQ/HyiMPPPWT1Wt7a/OzIzWDV6Xm1yHaEou03CoYFbjEImK1UQd21wN+GPoTh9vl2W/g5rPnnjpGphAEnjOF2W356t2sItwAXvTMNgnZuExdYhrsT+DSnB56EHvHMYG2dCtM=;QNv2THzepCU4o8wrZWnkwA=="
 ---
 

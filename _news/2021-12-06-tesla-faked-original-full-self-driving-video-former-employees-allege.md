@@ -101,9 +101,25 @@ related:
     provider:
       name: Chicago Tribune
       domain: chicagotribune.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://www.chicagotribune.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
+        width: 1200
+        height: 792
+        isCached: true
+  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
+    excerpt: "Elon Musk built his electric car company, Tesla, around the promise that it represented the future of driving — a phrase emblazoned on the automaker’s website."
+    publishedDateTime: 2021-12-06T16:32:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 56
+    images:
+      - url: "https://www.baltimoresun.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
         width: 1200
         height: 792
         isCached: true
@@ -122,6 +138,20 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/12/06/600x338/TESLA-AUTOPILOT-INVESTIGATION-0_1636954665977_1638777893284.JPG"
         width: 600
         height: 337
+        isCached: true
+  - title: "A Tesla on Autopilot crashed into a barrier while filming of a video promoting the company's self-driving tech, NYT reports"
+    excerpt: "A video showing off Tesla's self-driving capabilities isn't exactly what it seems, The New York Times reports. The clip is still on Tesla's website."
+    publishedDateTime: 2021-12-06T16:30:00Z
+    webUrl: "https://www.businessinsider.com/tesla-autopilot-video-self-driving-crash-barrier-nyt-2021-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://i.insider.com/61ae37a30b0acf0018c4087f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Tesla’s Full Self-driving Beta 10.6 emphasis on precision of movements"
     excerpt: "Tesla's Full Self-Driving (FSD) technology update will be the 10.6 version. Tesla is focusing on three things with this update."
@@ -151,16 +181,7 @@ related:
         width: 752
         height: 500
         isCached: true
-  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
-    excerpt: "Since the start of Tesla’s work on Autopilot, there has been a tension between safety and Elon Musk’s desire to market Tesla cars as technological marvels."
-    publishedDateTime: 2021-12-06T19:34:00Z
-    webUrl: "https://www.bizjournals.com/austin/news/2021/12/06/nyt-tesla-self-driving-cars-vision.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
 
-secured: "jnTYVr2t3zvV5w30Q5LQ8g/i/vsGjf7lS4SK5abyGzzPmzQczzUlDzxDqUXpURlnR5j0cc/d/ky/Xc3po92cypMQ0H+Sv4xbTjaRuGG/6oCqORQ3JfLPTaL5gLFdJ1zzzLwSZ7mrqubgstae8FTY6eTL6fljmiLM6REi8WNMf9O6Z1FjeKb9vOExEOxDqS81qHKRtpu4alpIkB862YY3Cu3L9MXXj/ZPG0xdbFyNnugNQ6UnYA1QIxz1k2wc1QTOsRwKCx3cY9Pi5XgLUmg2iqYrhxZ+DMockkWTtOeF2NZtImxY3+UmKOj7vnkG8iDtnpCDeKppeOX2K72cuwOsYUimWLASvAN/K2saPgx3iCE=;SGQFCS1scElr70lKV0kLpQ=="
+secured: "FKkrKbjtNvPgWDRKwMrGavHllIn1dWfx07rjWMnelrPS2n4YjqA04uW7YW4i/1JAQ3ylIWGyPLkI/A2Bt8ef/GpUMpU5V4LEuV+akIWOHavA7yi98gFgx9DD/wPJnBCIRw2VI8DmZ2ZX3DmMXJKmewR1WCkRaw8IBp4E1cnz8OY12ZmiIsF+U92gqk/36WxVhWXM+6+rFgSllVp80ookULU3bZFBp56Qw/Z6Q7SvVtK4MfuukRVVJI4c9eIAkcOv4oSbN1eybNfaj42CnovcmnDCjXpZQbcNFvDiPquTjTPL6QwtLDBUJh4362GJ5iZJncCJMvna1EAMZPgyTkQLbkWVRXptwlTgnuELBSzPrTMb56l+bh8aOLK/0tW8atB1JuMKoS4CB8OwwlDB7ydPj0z627H4FaqaY/fEveDtiJsSTfsP+x0pdHTIFLIRA+QCcSuZTytlfW8UKqS0rtauHPtgP3CP9BCoqCIeERZikNvR/pNjNRvQ4+rwfqSEJ/zpGW2IWJWDLsaUcgY+qiByJA==;pNXNPQ3boWZfxyGmAUXn7A=="
 ---
 

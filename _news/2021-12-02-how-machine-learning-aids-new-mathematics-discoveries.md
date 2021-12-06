@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12638"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12638"
 type: article
 quality: 108
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind claims AI has aided new discoveries and insights in mathematics"
-    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DeepMind claims that its AI systems helped mathematicians to discover new -- and significant ..."
-    publishedDateTime: 2021-12-02T09:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics-10803024"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
   - title: "Scientists identify new pattern in mathematics using artificial intelligence"
     excerpt: "Scientists have identified patterns in mathematics that have never been seen before.  The discovery, made by the use of artificial intelligence, can help to develop fundamentally new problem-solving techniques."
     publishedDateTime: 2021-12-05T16:49:00Z

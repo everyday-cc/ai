@@ -24,6 +24,17 @@ images:
     height: 600
     isCached: true
 
-secured: "7A3UzHhlxOY3kMRxNVvUdHEHDD+yLUngYbYqyhO2LJOiGRnTt2MgOeorGirTtlCuAIqgj2pOXUyALEvsuYB071tMLJAFIi6iTgby/Yom1dQ/TG/TKOKk2CTzbnM8sNG1aa65DLzLjSFeO0LW8ZxpCwPYPZIf/1SXA8MvYU9bB6L1p+nHQoMN7yUAQ50qDLOWZQDZEEgoaebnogdC0yl6wgN6+bhj0w3dtYlC2z/K9NQYnvWtdMqICm2SuyipdOWwF9hlGW4Cz00elLSkdDHTO+bWDyD58mVCNuNiTI/M2/QGqQ59jyFZ1ZYXuCv1N4igqgD9ey9wDqBOBpsP84Ooy6uOegdZ30FhA2XlBXLkoHU=;3hGElvODaLXUUjr02yhdmA=="
+related:
+  - title: "Now Publicly Traded, Self-Driving Company Aurora Expands Finance Team"
+    excerpt: "PITTSBURGH--(BUSINESS WIRE)--The self-driving company Aurora, which recently went public and is now listed on the NASDAQ under the ticker $AUR, is expanding its finance team, strengthening its ability to deliver its self-driving technology at commercial scale."
+    publishedDateTime: 2021-12-06T21:15:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211206005327/en/Now-Publicly-Traded-Self-Driving-Company-Aurora-Expands-Finance-Team"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 21
+
+secured: "mQ3Obo2ntfVoTcJZF7yPc7og9EYToqi0S2xyU6L7CTWcQK8lrFCzErH9dp66nYJkpTe0gyomNn2YX+MgYQo4MVrM77ewLUema4Np2eeh4p8U7SlhsVZ+8WNnhAr3BqYDFGxprs6sVd45VzCx4Yo780YRn0L3fJr2pVvq+OQBK0/NegBaY9NKFjoZeMBEaZ5/oEHgmKDk6T5E7DH6Iid7SRxK0Co6DjUiqisu1BcD83Qyq8j87im2ipIGGkzHoNdoC7URyR1rHmf+C+WwBNYoV/TSlg2rLxUwKmxJP5k0aGpbK8FDUlunY0/2MFWZxNlHoyGSHvbhpvJOGT6XrFP+Ss7rDJ6hihNsn8LL/QDPnQv8UUBa29qMHX6BoFvn0IRhZvwSNeacUGZXspMpw78LnZkFbdu/cRAGmRzKqExzDt85LLICHKtTXYei48LyNq6jW6dWsmfPy6jxGfPDkP/tZai9Q/Nvbh8htrUU0UF/yPgohofqwdk/xLZ1U8TS+FnHHKOagijp0DdMMXRJgy7iMA==;Y4S2ZpahJ7gFJ22l1CRrUA=="
 ---
 

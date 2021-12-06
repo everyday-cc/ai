@@ -57,6 +57,22 @@ related:
         width: 2560
         height: 1439
         isCached: true
+  - title: "Clearview AI's 'Search Engine for Faces' Set to Receive Patent"
+    excerpt: "Privacy experts worry the patent could normalize Clearview’s controversial data scraping practices in lieu of meaningful legal constraints."
+    publishedDateTime: 2021-12-06T21:45:00Z
+    webUrl: "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740"
+    ampWebUrl: "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 87
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ueqb57yidtjtmqxjectm.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Govt to introduce facial recognition technology at airports by March 2022"
     excerpt: "Minister of State for Civil Aviation Ministry General V K Singh (retd) said AAI is working on a project of FRT-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports."
     publishedDateTime: 2021-12-02T09:01:00Z

@@ -57,20 +57,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "The Obstacles and Opportunities of Democratizing AI for Enterprise Companies"
-    excerpt: "Without question, enterprise deployment of artificial intelligence (AI) is positioned for tremendous growth. Published in early 2021, IBM’s Global AI Adoption Index revealed that a third of those surveyed will be investing in AI skills and solutions over the next 12 months."
-    publishedDateTime: 2021-12-02T06:32:00Z
-    webUrl: "https://www.linkedin.com/pulse/obstacles-opportunities-democratizing-ai-enterprise-companies-yu/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 36
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGcFzUSpDCmEQ/article-cover_image-shrink_720_1280/0/1638426003828?e=1643846400&v=beta&t=pmYmwRDXQI3i1j00VY9wGF1hAtqAF-tS_bna7pN7A8c"
-        width: 720
-        height: 720
-        isCached: true
 
 secured: "bE8axMxL5wjgwq1IKe4ek66+fnkjtjEHiKJBPImK4P9OmgPg+MIHjacY7tL5W0GhrwPjF0Lkloa9yeQu189rfTsIWCcAH1w/l4+3DMR0B9YyFa3Gd8o2gy9cwx5Gwrj0quJSkBOBEiljHAKp5ThU0/qLcvdGez0aJFicWQyhV0nKOl75k/x/Hsjz47OcpK9QVqbjLpwZaAUzTG40A6cO1yC4EWNyV5IvWheZ7iemxX007btrq+Y9PH7oISpl5yvaCbPNthDigrcIh3Gs5mGVulIqRWZkNoF/buFRlDFJ36gvxa1Pd+9+B/leIYiolBrR9RPKLa1gQW/zp/WlC0160M7uqcEO9HW6hI5lpuT+Fcs=;RSwGH1NQkAvjafhY5fZlKw=="
 ---

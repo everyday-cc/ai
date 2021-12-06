@@ -55,6 +55,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Meta Picks AWS as Strategic AI Cloud Provider"
+    excerpt: "Amazon Web Services has announced that Meta (formerly Facebook) has deepened its relationship with AWS as a strategic cloud provider, using AWS’s cloud infrastructure to complement its on-premises infrastructure,"
+    publishedDateTime: 2021-12-06T21:00:00Z
+    webUrl: "https://insidehpc.com/2021/12/meta-picks-aws-as-strategic-ai-cloud-provider/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2021/12/Meta-logo.png"
+        width: 340
+        height: 283
+        isCached: true
   - title: "Discovery sticks with AWS for cloud services"
     excerpt: "Discovery has extended its use of AWS for cloud services. The broadcaster uses AWS’ tech for the infrastructure carrying its discovery+ platform, digital services, and over 450 linear channels around the globe."
     publishedDateTime: 2021-12-03T09:50:00Z

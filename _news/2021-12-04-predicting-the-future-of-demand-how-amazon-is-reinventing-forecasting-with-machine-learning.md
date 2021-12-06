@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amazonwebservices/2021/12/03/predicting
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/12/03/predicting-the-future-of-demand-how-amazon-is-reinventing-forecasting-with-machine-learning/amp/"
 type: article
 quality: 78
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       name: BibSonomy
       domain: bibsonomy.org
     quality: 19
-  - title: "Hyperfine Receives FDA Approval for Deep Learning Portable MRI, Ushering in the Future of Life-Saving Diagnostics"
-    excerpt: "The world's first portable MRI uses deep learning to revolutionize imaging at the patient's bedside, enabling prompt diagnosis and"
-    publishedDateTime: 2021-12-02T06:46:00Z
-    webUrl: "https://www.cioapplications.com/news/hyperfine-receives-fda-approval-for-deep-learning-portable-mri-ushering-in-the-future-of-lifesaving-diagnostics-nid-8880.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 18
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/kb3nz450308-11.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "Gn2AvottLYWhAQbVy0Ys2Rebk6mbqC2tdLD+LqmabwEid7kvMllgTIIQC6hYMC4MjVncid7IE961fwc0Vq6cXi6A6Dp1uyWl6SLoIjdouU7Al38vqD4AjbylPKMOHNytLorj7sBd/zYITvRvPP8Ngg2EFA1LYVvengipPBEFn9ZCaIdtK9uv3vJXL4hcCct+nggzbd0BC+ORvgOZ+c7JCP1Xf8XklXnWbUFgiQyRdCvl/+AvNFSdBRLprZOXKx8Ks1qa+8ziHRVq7EagKCrfex93I2le/iB9slJSyS3Web4iLtd0Dl2RG7ELSSN0vpugOaL9gnDo9Vra6XtUYoXaOppmeQgh2p5casZ6W0hzTWGHNPC4PFENzaiZs0JDRPbTEbxMfNV413bVPqFth662tL61jL/gVbMPLgfj3gYbPYD58suSDh5LPqBlW2DdmfMWNc2flpZytQT82E8nlBGhMfva5Xq3k2rVHveyysZ2V3X8UiGgQtZ1n5UJHpP4uon3qi3ZfQlIqOUomjVB1TYwLw==;AIillmRP5yZIzLh+FvvFLw=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Engineered Arts to Unveil New Humanoid Robot at CES 2022"
 excerpt: "The Ameca humanoid robot combines AI with AB (Artificial Body) for relatable natural human gestures and upgradable modular mechanics via cloud-managed API development tool kit"
 publishedDateTime: 2021-12-06T13:53:00Z
-originalUrl: "https://www.roboticstomorrow.com/content.php?post=17923"
-webUrl: "https://www.roboticstomorrow.com/content.php?post=17923"
+originalUrl: "https://www.roboticstomorrow.com/news/2021/12/06/engineered-arts-to-unveil-new-humanoid-robot-at-ces-2022/17923/"
+webUrl: "https://www.roboticstomorrow.com/news/2021/12/06/engineered-arts-to-unveil-new-humanoid-robot-at-ces-2022/17923/"
 type: article
 quality: 19
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 480
         isCached: true
 
-secured: "j3X3O/TMOskuOdAugPLiiusFtOXwkkJI4AbroUEG5hxe0XweHclgsxQC3tdexPFzQGXnVXEGaKXiyp1O9g1zeu/ycWqegn3aRBYGqdixn2fxZCKfWNn7Nq1Q0lxlOWw+baanhf7SNqZoZ3J82g0UX0D2MlyR+GWiVrCdiZ3hGjqD7ADM0+X6m3atESBLEGTl+HdFj9pyVQnQh1Tbrs9x26mBIHfYVOdl2Tb+/o1KSVLg1nakAnS+FaeZAH1btCCPOG4oNJJ42tVGV8k6GRiGfKpKFo/bt8N2abDUmxRj9BTXQGthXMG4pKYa8xbcQPpJDaXzSIE43UZmDCOG4eQGFc0jqyRr/ohmzqcOAuQXpbU=;+IW5smSSepzalOxZt8bbCA=="
+secured: "mt9AGw3jWh3ad/RUsJmWqcp2f7MiHHvuXytdkadQCoLC+JWUVdIdiiz1UBC25kgiAxI8YmnG5u3iQ+ptYm1EYuGztg6B+dvAcKUTZo9kG9BmLY5TUEYXbBlN23xayu66890kE4mHG/MNDIqlJPrDve80JTfEAHgkuk1HwuBPhqo0FUwnRNzn6uuhOTyb5yecAj21BCzn11cprT2Nefe/qfLhHvqwKq09/u02QhJnzNvoPFkr3FaYmPa0hrBlKfAbINpgbiS8s8dgOvCFgB+zQfuVJ4AmtkgMKTFcLWHteKurGdQWyeqMExhf7cnIqQdvHPq0K9DUuqVmqtQiIu5NCAdNy/MuYd01CnZCkeuFT2s=;YBmok7KoKsR21Mg9btEc6w=="
 ---
 

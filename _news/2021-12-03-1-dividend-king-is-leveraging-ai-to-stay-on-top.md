@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveragi
 webUrl: "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveraging-artificial-intelligence/"
 type: article
 quality: 67
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000"
         width: 3000
         height: 1687
+        isCached: true
+  - title: "The Top 6 Artificial Intelligence Plays in India"
+    excerpt: "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible."
+    publishedDateTime: 2021-12-06T22:39:00Z
+    webUrl: "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6"
+    ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
+    cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
+    type: article
+    provider:
+      name: Equitymaster
+      domain: equitymaster.com
+    quality: 59
+    images:
+      - url: "https://www.eqimg.com/images/2021/09292021-PH-equitymaster.jpg"
+        width: 350
+        height: 215
         isCached: true
   - title: "Using AI to translate old code and fix aging computer systems"
     excerpt: "UAB computer scientists are contributing to a DARPA-funded initiative with artificial intelligence-based programming languages that allow humans to understand the “safety and correctness of code in the wild."

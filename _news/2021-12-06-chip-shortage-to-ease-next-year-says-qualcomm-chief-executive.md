@@ -9,8 +9,8 @@ ampWebUrl: "https://www.iol.co.za/amp/technology/chip-shortage-to-ease-next-year
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: IOL News
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm ditches TSMC, lets Samsung produce new chips"
-    excerpt: "But some officials said that behind Qualcomm's selection of Samsung in the latest deal is TSMC's accelerated focus on making customized chips for Apple. Samsung's foundry service unit is said to have lost its status as a leading foundry service provider for the production of Nvidia's next-generation graphic processing unit (GPU) chips."
-    publishedDateTime: 2021-12-02T06:24:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/12/129_319858.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202112/57726f6325e54003b0e20662c879ec92.jpg"
-        width: 980
-        height: 524
-        isCached: true
   - title: "Qualcomm Announces the World’s First 5nm Chip for Windows Laptops"
     excerpt: "The Snapdragon 8 Gen 1 was not the only major announcement at Qualcomm’s recent Tech Summit. The American chipmaker is"
     publishedDateTime: 2021-12-02T12:04:00Z
@@ -54,6 +38,20 @@ related:
       name: ProPakistani
       domain: propakistani.pk
     quality: 39
+  - title: "Qualcomm Announced the Chip That’ll Power Almost Every Android Flagship in 2022"
+    excerpt: "Qualcomm has just announced the ARM chip that will power most of next year’s high-end Android phones. The rumored 898 model number isn’t happening, though. Qualcomm has changed its naming scheme with the latest flagship chip,"
+    publishedDateTime: 2021-12-02T13:26:00Z
+    webUrl: "https://www.extremetech.com/mobile/329418-qualcomm-announced-the-chip-thatll-power-almost-every-android-flagship-in-2022"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 35
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/12/Snapdragon_8_Gen_1_Chip-640x353.jpg"
+        width: 640
+        height: 353
+        isCached: true
   - title: "Qualcomm unveils new chip for Windows PCs"
     excerpt: "The NPU in the chipset comes with 6.5 TOPS of AI compute power which is an improvement as the NPU in the predecessor has 5 TOPS. It supports 5G (sub-6 GHz and mmWave) and the Snapdragon X65 5G RF ..."
     publishedDateTime: 2021-12-02T12:58:00Z

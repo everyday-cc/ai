@@ -1,23 +1,31 @@
 ---
 category: news
 title: "BrainChip CTO Peter van der Made Named AI Hardware 2021 Innovator Award Winner"
-excerpt: "The AI Innovator of the Year award is given to the industry’s leading and most accomplished individuals to commemorate the backbone of AI progress. With the development of BrainChip’s Akida neural processor,"
-publishedDateTime: 2021-12-03T01:07:00Z
-originalUrl: "https://www.financialbuzz.com/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner/"
-webUrl: "https://www.financialbuzz.com/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner/"
+excerpt: "BrainChip Holdings Ltd (ASX: BRN), (OTCQX:BCHPY), a leading provider of ultra-low power high performance artificial intelligence technology and the world's first"
+publishedDateTime: 2021-12-03T00:07:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/b24422856/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/b24422856/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner"
+ampWebUrl: "https://www.benzinga.com/amp/content/24422856"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24422856"
 type: article
-quality: 30
-heat: 30
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "kywk5FS+Epn0306ovYvc21z8CFcEb65kcglnmFIpnYEJeWoU7oWY5Zm1dMq10Yu/jhxie1fdN+sfpmgCKW66er27Cmc/dDCNQHdVMb4LUkKJ2FZtSplWxXMEKCBDEzf2lN/PKGt+9tpUMPrQaQGXdvsJ+DMa+V2WUB6VsoG3c3q6XOlxhsL76L2iUvl9OUUwQO+1PFnO02mHWnS7aBmM+LvelUwFibIApAczVWtWhdfltYdUj2stKLcQ8crJWIoEFBcKHcIn5SLK+czjz4/Amojlq1NBASKAUTf4szYfV60wYYFyE2CMMYhyr2vUVYb+eRf7YIPgirzqlh2TFqAPvBvWrUdk2iOYZuchB8bg2bA=;0vqrraF9ac4JHrJUeCj9Ug=="
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
+
+secured: "gw3FyaG7p0gCqiEFlaSsqEkmzoqFGmUO6WqD7ySF7qj5PJE/1L/+Sfz18ramu4/y9cXf1aeltU114TyxtWNyNr+1yEShQ2hRSc0IrHrkqcFZlWSUOmmnQIx/iikp/LZ8IstCQ01zKsl84MD59z+J2yDYfmcssKWv4kiSGJHr4eU9rvy2LE4o1I2fu18sKljTSzsh9YcRxPRTkJ3zSnEy2F3qyKEs2C4HlyZbnTjTs58Bj8jqREQlbjJsx7pRCU6nANaNLunEKFCt0jQE9b9ubnxtlLfTh9NftksqRntdOwjjPGsNtvkqn94PevoV8WMkiGWsGy1p5lgr2pJEh8bnrNT8Z+MXTZ9ma+M3gV+NB/c=;NK168whq15hAJ6t93eSx/A=="
 ---
 

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Qualcomm ditches TSMC, lets Samsung produce new chips"
-    excerpt: "But some officials said that behind Qualcomm's selection of Samsung in the latest deal is TSMC's accelerated focus on making customized chips for Apple. Samsung's foundry service unit is said to have lost its status as a leading foundry service provider for the production of Nvidia's next-generation graphic processing unit (GPU) chips."
-    publishedDateTime: 2021-12-02T06:24:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/tech/2021/12/129_319858.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202112/57726f6325e54003b0e20662c879ec92.jpg"
-        width: 980
-        height: 524
-        isCached: true
   - title: "Chip shortage to ease next year, says Qualcomm chief executive"
     excerpt: "Multiple smartphone makers could not procure enough processors from Qualcomm which affected their production, the report said. Samsung was no exception, as its mobile chief TM Roh and procurement executives visiting the US mid-year to meet with chip companies to secure more supply,"
     publishedDateTime: 2021-12-05T18:00:00Z
@@ -62,6 +46,20 @@ related:
       name: ProPakistani
       domain: propakistani.pk
     quality: 39
+  - title: "Qualcomm Announced the Chip That’ll Power Almost Every Android Flagship in 2022"
+    excerpt: "Qualcomm has just announced the ARM chip that will power most of next year’s high-end Android phones. The rumored 898 model number isn’t happening, though. Qualcomm has changed its naming scheme with the latest flagship chip,"
+    publishedDateTime: 2021-12-02T13:26:00Z
+    webUrl: "https://www.extremetech.com/mobile/329418-qualcomm-announced-the-chip-thatll-power-almost-every-android-flagship-in-2022"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 35
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2021/12/Snapdragon_8_Gen_1_Chip-640x353.jpg"
+        width: 640
+        height: 353
+        isCached: true
   - title: "Qualcomm upgrades 5G laptop chips, offers new mobile gaming platform"
     excerpt: "Qualcomm is continuing its efforts to expand beyond the smartphone market with new chips to drive mobile gaming devices and computers. At the Snapdragon Tech Summit, the company presented the Snapdragon G3x Gen 1 Gaming Platform and the Snapdragon 8cx and 7c+ Gen 3 Compute Platform"
     publishedDateTime: 2021-12-02T08:15:00Z

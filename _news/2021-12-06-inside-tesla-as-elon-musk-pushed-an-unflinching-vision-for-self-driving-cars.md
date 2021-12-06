@@ -8,7 +8,7 @@ webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-tesla-self-dr
 ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.chicagotribune.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
@@ -107,6 +108,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
+    excerpt: "Elon Musk built his electric car company, Tesla, around the promise that it represented the future of driving — a phrase emblazoned on the automaker’s website."
+    publishedDateTime: 2021-12-06T16:32:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 56
+    images:
+      - url: "https://www.baltimoresun.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
+        width: 1200
+        height: 792
+        isCached: true
   - title: "Tesla rolls out new Full Self-Driving Beta update with improved object spotting"
     excerpt: "The updates delivered via the new version of Tesla FSD Beta program include improved object detection network architecture for cars, trucks and buses..Another update includes improved stopping position at unprotected left turns."
     publishedDateTime: 2021-12-06T08:24:00Z
@@ -122,6 +139,20 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2021/12/06/600x338/TESLA-AUTOPILOT-INVESTIGATION-0_1636954665977_1638777893284.JPG"
         width: 600
         height: 337
+        isCached: true
+  - title: "A Tesla on Autopilot crashed into a barrier while filming of a video promoting the company's self-driving tech, NYT reports"
+    excerpt: "A video showing off Tesla's self-driving capabilities isn't exactly what it seems, The New York Times reports. The clip is still on Tesla's website."
+    publishedDateTime: 2021-12-06T16:30:00Z
+    webUrl: "https://www.businessinsider.com/tesla-autopilot-video-self-driving-crash-barrier-nyt-2021-12"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 43
+    images:
+      - url: "https://i.insider.com/61ae37a30b0acf0018c4087f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Tesla’s Full Self-driving Beta 10.6 emphasis on precision of movements"
     excerpt: "Tesla's Full Self-Driving (FSD) technology update will be the 10.6 version. Tesla is focusing on three things with this update."
@@ -151,16 +182,7 @@ related:
         width: 752
         height: 500
         isCached: true
-  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
-    excerpt: "Since the start of Tesla’s work on Autopilot, there has been a tension between safety and Elon Musk’s desire to market Tesla cars as technological marvels."
-    publishedDateTime: 2021-12-06T19:34:00Z
-    webUrl: "https://www.bizjournals.com/austin/news/2021/12/06/nyt-tesla-self-driving-cars-vision.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 18
 
-secured: "Z+NBD3HGErH8PUFDEEJox+Qe1a4a4d6PkZd5pL0tCLKDT1hlRfgv/1e6aQJsvw7jqWB+K7JD4G1Cba9R2q/Q+lTEMmN+8jKpU73r1sVPp1h7ue9DlrLyzeihrhRzJoZPWWITlsYSVOCiTHwUnjPW6Qukwyw8jJo8/Vm+kwSlap9IdA+CByLyzAB0jphuecTAhHKMarFlxiLOEu1cRFrRUFvg11rlaxUhTG43EwRRfkJjsFV4ePmSo7AJmdLegE91AS2b3i4uVbEnuIyFJCuoTNME7vKUf5fwU/QDnNfnmk2UTNFfkYHRgRvdv2eQDq+ODbBhp+C0x5Yt+Arr4gD6H2ju1ACbqNz5onfLEj+dPnc=;g35qcAiFUiAQqXnWXtdGsg=="
+secured: "rE2b+4msHyW4zGUXQW+nT/y6RnGI9AFT/F5BMPargWojkh7pbJ69VYh7j4FoyJaUui3Y7NxvDkIXsyD3dzXXKeVfT+gp07nRENlncW6LobtOYGg9UjHSu7ks2zBlTYPNTRMVN1sv9q/taQCFgn9VErZKQrtSeCUF2eFrFSj5DJ3AFI8zNRhGuy9jNV7JaHzvaJUcMRcYzLOTFb+ftFy1vqa/jJufsIxUUc49DotBoZ3VR/ybyIakD7qa8lCqv999riBNZ9e5IIxJ+KlnZEFW95tt/4CXftDDhcyk4mJmygS+XykC5+dV1e4yvGitKGRKP42mpC4ncgPcNvrOM3BCviov0tXXrzGhQ9y1Tgnroy1JWWMZSOrCD8q3TBIrk+Le8t0eQy71TsBnw9cbpQpeHwpNtlAOKA9cERqflYe7AaeyTw3N7lIxbZnSLdX5luTyKll8PgpKtegHpekrzwW1ZstVrs5O0WVvzNLHrmohL+afu4klqwCuFvM4tdDLLLDtlTkUa3+IgO+lYBVxeEp6lQ==;172qXcwY2BwpsCvSeGNrjg=="
 ---
 

@@ -55,6 +55,22 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "The Top 6 Artificial Intelligence Plays in India"
+    excerpt: "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible."
+    publishedDateTime: 2021-12-06T22:39:00Z
+    webUrl: "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6"
+    ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
+    cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
+    type: article
+    provider:
+      name: Equitymaster
+      domain: equitymaster.com
+    quality: 59
+    images:
+      - url: "https://www.eqimg.com/images/2021/09292021-PH-equitymaster.jpg"
+        width: 350
+        height: 215
+        isCached: true
   - title: "Top 6 Ways Artificial Intelligence Is Changing Real Estate Industry"
     excerpt: "There was a time when Artificial intelligence or anything close to it seemed like an impossibility. That''s not the case anymore. Artificial intelligence has impacted our lives in great ways and there is no stopping to it."
     publishedDateTime: 2021-12-03T16:24:00Z
