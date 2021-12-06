@@ -18,7 +18,7 @@ website: http://t.co/NY3kFUGs7a
 twitter:
   username: harryshum
   url: https://twitter.com/harryshum
-  followers: 17408
+  followers: 17412
 
 googleScholar:
   url: https://scholar.google.com/citations?user=9akH-n8AAAAJ
