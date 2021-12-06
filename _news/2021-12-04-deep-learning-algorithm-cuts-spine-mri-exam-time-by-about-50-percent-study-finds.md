@@ -9,7 +9,7 @@ ampWebUrl: "https://medicaldialogues.in/amp/radiology/news/deep-learning-algorit
 cdnAmpWebUrl: "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/radiology/news/deep-learning-algorithm-cuts-spine-mri-exam-time-by-about-50-percent-study-finds-85351"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1500
     height: 900
     isCached: true
-
-related:
-  - title: "Deep learning slashes spine MRI exam time by up to 50%"
-    excerpt: "Spine MRI exams reconstructed by a deep learning algorithm are comparable to images taken with conventional MRI -- and using deep learning cuts exam time by up to 50%, according to a presentation delivered Wednesday morning at the RSNA meeting."
-    publishedDateTime: 2021-12-01T17:46:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=134403"
-    type: article
-    provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 39
-    images:
-      - url: "https://www.auntminnie.com/user/images/content_images/radcastredirect/2021_11_28_21_10_5678_RSNA_2021_AI_social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "LX4O8dQAfll9dUzUOIuffrwwMDE84M+ConR3iIFIXIxK9+u04rs3VWz/UZfBWHWC0AX4Iui+V0wcuNDtXG74Mlty9V0aHZ7u/7u/o9IVDVB8JbzndsZ6YDWnQJ2CuDexdfJJyJFASlbGz4zfc6aRA81p8h7ws3Na/lU0rdLVT/FI98EXxMdFRNd8vF2JZGF0IDeA5AkMrbtl9FKMjTyHDbqe0MZ4QGBiAtzxl84ZeDSJl0x3JxWuse/aFrR/yVX0Nw3uef1qcZUR3PqaMLX/+gYG9uf9kxCTw3Fb/BGOtzkFG79PMEf04SJnTfw8GQ7XUHQVUOc2z85P/6AZ4NXPhtPF3XsE0s3M1ZkXtXiyPIqukIj84I3bGYT4qc37tsEBZNrSylblB3jzPgGdN0v5VNrB0kX0QUDLeYm9f7DtkkbB+yZ8SoJ773F0PIBaomMw4Lvw/styGpneDxSmbZiJbR8X2oGeg4FDG1/KqF+2jVz4kbs9vWvqWhhD0NXC/zL/jWZUlV7Ilq312yPORIH6Gg==;VMWJTZNGKcRM4oP42Mh43w=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 563
         isCached: true
+  - title: "How Peter Jackson Used Artificial Intelligence to Restore the Video & Audio Featured in The Beatles: Get Back"
+    excerpt: "Much has been made in recent years of the 'de-aging' processes that allow actors to credibly play characters far younger than themselves. But it has also become possible to de-age film itself, as demonstrated by Peter Jackson's celebrated new docu-series The Beatles: Get Back."
+    publishedDateTime: 2021-12-06T09:00:00Z
+    webUrl: "https://www.openculture.com/2021/12/how-peter-jackson-used-artificial-intelligence-to-restore-the-video-audio-featured-in-the-beatles-get-back.html"
+    type: article
+    provider:
+      name: Open Culture
+      domain: openculture.com
+    quality: 18
+    images:
+      - url: "https://cdn8.openculture.com/2021/12/05203048/get-back.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "yXYS13Mihdl7WBWonwl5wwV+ANQlcjZPYlv2gFmo7Set4T+h0z+hs4jnSak1VW82n1/eV/fo/QSD+01BXQt7hc+YJX8yJsSYaGn8tB87NVpSchW9/6gLt+5bFxNglYU7UbDjZ0iPX6N6CMg5PL1ZNFKdCy8zAesHx+CgJE6Oahi8dVOMiR2Qv6IbNXzKSQUrJIArIxgXixADe4n1wHJZYgfgxFvZfRx+KaxGgRHU2dpmhfrwCK5HU8pLVtNtplDIFhlRtaf1CSRifS6LC+SaMYPRg9lqblk1B2lMQpHOJHz58k30cQGiZkIOaAwMLehBiRQluHz9FFuEwYyH4KqcjPsTMR8yV3XHmbj4KgukaAQdQ1SNZwG5lDVAqL9ALntfaLqBalJpYvlw9+GDJnU731IgUeWnvGCoHOwe74RrJP58iM7xveHqhZnNPQrIIWJtHnjEKMLeS1D+gKDjt2H9Sa8wKRyynzb5BPkR2C8yqIDvVlbELZGLqQt/pAlh0EM+nS2widqYJSrrzXLdJNdIaQ==;93Vw2LKyBBTRzKr2/xNptw=="
 ---

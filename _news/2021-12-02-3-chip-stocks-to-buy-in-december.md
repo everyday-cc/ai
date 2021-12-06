@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/400214"
 webUrl: "https://www.entrepreneur.com/article/400214"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -68,6 +68,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Stocks to Buy Now"
+    excerpt: "The best stocks are always in demand. Whether the market is down, up, or sideways, these stocks always fit into your portfolio."
+    publishedDateTime: 2021-12-03T21:45:00Z
+    webUrl: "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=liverstick%40gmail.com&moneymorning_subscribe=complete"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 4
 
 secured: "V6TtlngkpQau5iqmUGFgRXAlLQIja+457kHSDA9asVGrMZPGvpAicVawLCncWHsC2yNjghBujDsRC8zPK9mUIyJz9RmRxyFxRw1+/OE57O4aQcekPbHHqy+xGkQVnMxeL54a0w/6LRdZJzx7R4J8xcfE6glBORGIm4/gafX6UwbMpQFr1KW84prccp7XFN5HVXZPyfqTAjkpMloNfWdROlWya7vzsoMosYj+xsz0mLZEYzQ0rVKsnGriurCN7Bp/WTGAO4sDEW4yIEO23s92HAVpHnNJfREC1tWarg4xU+ap/0KgMvBp5UFkwoPmdeQ412c6AWdsaUPOfNcWYK6ZYrzdcryd85DLcgnFGabTuf4=;plrgBa+jgXNVCb7oeu8NVw=="
 ---

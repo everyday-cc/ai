@@ -9,8 +9,8 @@ ampWebUrl: "https://variety.com/2021/music/news/peter-jackson-get-back-restored-
 cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/amp/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Variety
@@ -40,6 +40,20 @@ related:
       - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
         width: 1000
         height: 1000
+        isCached: true
+  - title: "How Peter Jackson Used Artificial Intelligence to Restore the Video & Audio Featured in The Beatles: Get Back"
+    excerpt: "Much has been made in recent years of the 'de-aging' processes that allow actors to credibly play characters far younger than themselves. But it has also become possible to de-age film itself, as demonstrated by Peter Jackson's celebrated new docu-series The Beatles: Get Back."
+    publishedDateTime: 2021-12-06T09:00:00Z
+    webUrl: "https://www.openculture.com/2021/12/how-peter-jackson-used-artificial-intelligence-to-restore-the-video-audio-featured-in-the-beatles-get-back.html"
+    type: article
+    provider:
+      name: Open Culture
+      domain: openculture.com
+    quality: 18
+    images:
+      - url: "https://cdn8.openculture.com/2021/12/05203048/get-back.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "5xMBud97EDfZ8V0XXWaPp54U2P8bNtMoEuajw+5x8WleRTqkGfxnCCUgVswDK9kcyTeA7gwLF0E5SpaprVrL+Z1p/N56tmtxJJ5B5P4rJ5FwLup9wCDznaiyVFX4rxchpH/O5fwE8GlOcy3HIGE73xABedmbt9y7u5EssJZ6XxZQAvmhBrJr+4LD/e4ggzWoPHi1M6funHbVYezJM43SENnRsdpYQObcSqg7Qvq3f+0GHz3SzjUf4uhM/oLgkGLQRUnUonhh3BnuBxWRqtA+OgWjQnaR7PDSlDxL5zByUKiBAjn6CCaE35QP14qSJB+CtE9YcxLL7MEO7Qgtf0tPdp69TQHOimUvCe+UEVLNiakMfDwfZOsu1sE6RBYKgkWlDzV7bA7zeroJV9JMT0aLfOxGcho1477QBsbzI0gWXL+6LC9ZzP+rK7n9xS5cHcwN9BhhWoe+0ICstkxdPm+mL83Umur7c2aU0OJiQsKTaa++0iMTZl1CCix/+N2jKrnwajmEE397VdXfmW4KESJCrg==;vbgSE93C2uY/1aLbDcoofQ=="

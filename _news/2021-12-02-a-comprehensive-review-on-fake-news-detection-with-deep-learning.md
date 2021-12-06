@@ -51,22 +51,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "Tech Companies Catering to Demand in Healthcare Predictive Analytics Market Keenly Expanding Care Delivery Continuum"
-    excerpt: "Proponents of value-based health care are growing their bets on the capabilities of predictive analytics and the underlying AI algorithms. The past few years have witnessed an enormous body of study on making clinical prediction models useful in improving the health care delivery across the continuum."
-    publishedDateTime: 2021-12-01T18:40:00Z
-    webUrl: "https://techbullion.com/tech-companies-catering-to-demand-in-healthcare-predictive-analytics-market-keenly-expanding-care-delivery-continuum/"
-    ampWebUrl: "https://techbullion.com/tech-companies-catering-to-demand-in-healthcare-predictive-analytics-market-keenly-expanding-care-delivery-continuum/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/tech-companies-catering-to-demand-in-healthcare-predictive-analytics-market-keenly-expanding-care-delivery-continuum/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 36
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/12/ezgif.com-gif-maker-4.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Hyperfine Receives FDA Approval for Deep Learning Portable MRI, Ushering in the Future of Life-Saving Diagnostics"
     excerpt: "The world's first portable MRI uses deep learning to revolutionize imaging at the patient's bedside, enabling prompt diagnosis and"
     publishedDateTime: 2021-12-02T06:46:00Z

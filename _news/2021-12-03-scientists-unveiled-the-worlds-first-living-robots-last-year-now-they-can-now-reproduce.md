@@ -111,20 +111,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "This Seems Bad: World’s First ‘Living Robots’ Can Now ‘Reproduce’, According To Scientists"
-    excerpt: "Xenobots, the first \"living robots\", can now apparently reproduce, according to the scientists that are studying them."
-    publishedDateTime: 2021-12-01T17:54:00Z
-    webUrl: "https://brobible.com/culture/article/xenobots-reproducing/"
-    type: article
-    provider:
-      name: BroBible
-      domain: brobible.com
-    quality: 29
-    images:
-      - url: "https://brobible.com/wp-content/uploads/2021/07/terminator-.jpeg"
-        width: 1300
-        height: 719
-        isCached: true
   - title: "US scientists create world’s first-ever living robots – and they’re now able to self-replicate"
     excerpt: "US scientists created the first living robots, called xenobots. Now researchers have discovered a new form of biological reproduction – xenobots can self-replicate – in a way that is unlike anything seen in plants or animals,"
     publishedDateTime: 2021-12-06T06:01:00Z

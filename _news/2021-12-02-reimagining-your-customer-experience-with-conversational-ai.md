@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Conversational Artificial Intelligence and Voice Cloning Market 2021-2026: Call Center Market is Rapidly Evolving to become an AI-enabled Customer Con"
+    excerpt: "The \"Conversational Artificial Intelligence and Voice Cloning Market: Next Generation Enterprise Solutions by Use Case, Application, and Industry Verticals 2021 - 2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-12-06T09:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=582473"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "YJGz6xj1ndRu8WM/Prf7ZasG4EGlCaXNfFw1WFTXKQUplc/KwFXtVZq60oefZiyjYVFlY1NNLgzKCqfroOY800TBOyfSBGvpqCTeZxFRzS4l7jX/s93ETq2i7OxTOyOhTYR2wXoPE6YpbJ8yDmJNxGGcJ/5gJrD+axfGuf9lVkKV9BnwHLQK1fs16xa+7dQbZdlucIjSngsxwe/JcIirws1zv8RcJEGZKEvK78Fe+lViH3KSrVoBKXgj5IbztGB34y4ONF8DjHuJDF9s6gIIMPvS97pioUKJl6Hm1PM4ws+bB0LlcikwAXMz94MdkgD5/PEK/VZBl3bTT+euv+JMcmrgBkePjOXrYB8Cjzp0n3VzR0nyJjAWBknhpzMnOBB7JvonjC2gDKRryeLyODpUu7BzV9394qNrG7ZJh2YixP0/dV637ezxz6y3q0E8JSAGGUweXLXVTXkosUHgD+zkeAPJkm6a3kUdUVtehJ4pqM1LG/23ayfrmIrfMbUaMxFepCSNL3mLtcRvjdO4erb4/Q==;bnr+sIZbzFjDNncu4KtlPA=="
 ---

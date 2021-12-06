@@ -7,7 +7,7 @@ originalUrl: "https://www.supermarketnews.com/online-retail/7-eleven-pilot-deliv
 webUrl: "https://www.supermarketnews.com/online-retail/7-eleven-pilot-delivery-robotics-powered-vehicles"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nuro launches self-driving vehicle deliveries in Mountain View, the first ever in California"
-    excerpt: "In a major milestone for autonomous vehicle technology, the Mountain View-based company Nuro launched a new commercial delivery service Wednesday that uses self-driving cars to ferry food and other goods right to peoples' doorstep."
-    publishedDateTime: 2021-12-01T18:59:00Z
-    webUrl: "https://www.mv-voice.com/news/show_story.php?id=18925"
-    type: article
-    provider:
-      name: mv-voice.com
-      domain: mv-voice.com
-    quality: 28
-    images:
-      - url: "https://www.mv-voice.com/news/photos/2021/december/1/41063_col.jpg"
-        width: 2400
-        height: 1596
-        isCached: true
   - title: "7-Eleven Tests Self-Driving Delivery Cars in California"
     excerpt: "Mountain View, CA, customers by piloting autonomous delivery with Nuro, a robotics company transforming local commerce with autonomous vehicles. In collaboration with Nuro, 7-Eleven is launching the first autonomous commercial delivery in the state of California,"
     publishedDateTime: 2021-12-01T19:49:00Z

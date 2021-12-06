@@ -95,20 +95,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 54
-  - title: "Artificial Intelligence In Education Market is Thriving Worldwide with Surprising Transition | IBM, Microsoft, Bridge-U"
-    excerpt: "As the Political, Economic, Social, Technological, Environmental, and Legal factors continue to change, business leaders across industries have shifted focus to strategic objectives to achieve market excellence."
-    publishedDateTime: 2021-12-01T17:30:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-education-market-thriving-worldwide-mishra"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 49
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE7McBQKr2zxg/article-cover_image-shrink_600_2000/0/1638379769005?e=1643846400&v=beta&t=7gI2q95b430GTjvYYsLljxvgPDRhkESXnSqkgLVnaf4"
-        width: 1021
-        height: 580
-        isCached: true
   - title: "CVS, Microsoft forge digital care partnership"
     excerpt: "CVS Health and Microsoft established a strategic partnership focused on digital health and personalized care, the two companies said Dec. 2. By partnering with Microsoft, CVS is aiming to create more personalized customer experiences through data."
     publishedDateTime: 2021-12-02T16:01:00Z

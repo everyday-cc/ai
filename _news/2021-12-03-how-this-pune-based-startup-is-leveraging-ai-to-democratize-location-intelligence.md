@@ -38,6 +38,22 @@ related:
         width: 2120
         height: 1414
         isCached: true
+  - title: "AI is making better therapists"
+    excerpt: "Researchers are using AI to examine the language used by therapists. It could lead to more people getting better, and staying better."
+    publishedDateTime: 2021-12-06T10:12:00Z
+    webUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/"
+    ampWebUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 59
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "Top 6 Ways Artificial Intelligence Is Changing Real Estate Industry"
     excerpt: "There was a time when Artificial intelligence or anything close to it seemed like an impossibility. That''s not the case anymore. Artificial intelligence has impacted our lives in great ways and there is no stopping to it."
     publishedDateTime: 2021-12-03T16:24:00Z

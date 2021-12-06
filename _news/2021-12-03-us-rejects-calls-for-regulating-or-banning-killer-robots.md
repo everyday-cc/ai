@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-reg
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots"
 type: article
 quality: 142
-heat: 192
+heat: 182
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa2123f4a72238ce6b5bcc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D768%26cropY1%3D3%26cropY2%3D435"
         width: 768
         height: 432
-        isCached: true
-  - title: "What’s Next for Retail Robots"
-    excerpt: "From Walmart’s slow dance with robots to Schnucks’ robot rollout to 111 stores to Ahold Delhaize’s in-store AI presence, robots are coming to retail. In the previous three installments of this series,"
-    publishedDateTime: 2021-12-01T18:21:00Z
-    webUrl: "https://www.winsightgrocerybusiness.com/retailers/whats-next-retail-robots"
-    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/retailers/whats-next-retail-robots"
-    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/retailers/whats-next-retail-robots"
-    type: article
-    provider:
-      name: Winsight Grocery Business
-      domain: winsightgrocerybusiness.com
-    quality: 74
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-12/background/400x600/Robotsshutterstock.jpg?VersionId=9IQ6u8HOrbKU5OFZyF0dJdzOCcM8ft8e"
-        width: 400
-        height: 210
         isCached: true
   - title: "U.S. Shuts Down International Calls to Ban “Killer Robots”"
     excerpt: "The Biden administration has rejected calls to ban the use of lethal autonomous weapons, also known as “killer robots.” During a United Nations meeting in Geneva Thursday, the U.S. instead proposed establishing a code of conduct for their use."

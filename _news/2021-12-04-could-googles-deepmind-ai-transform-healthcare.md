@@ -80,15 +80,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Big data in healthcare: 3 spine surgeons weigh in"
-    excerpt: "Three surgeons consider the pros and cons of big data and how it will affect spine care and the wider healthcare field."
-    publishedDateTime: 2021-12-01T18:38:00Z
-    webUrl: "https://www.beckersspine.com/orthopedic-spine-practices-improving-profits/item/53143-big-data-in-healthcare-3-spine-surgeons-weigh-in.html"
-    type: article
-    provider:
-      name: Becker's Spine Review
-      domain: beckersspine.com
-    quality: 19
 
 secured: "eRtdzgVjKgRzt4W2XTGJACDcxZygLfpOv/q67KgeMPcTrzFmPORtJVuOoCO1DcR+JplSmjgA8qup92d5vslleql3wcjrZGxB7DZVToio0Q0eRghxuNd4ZgxSbO05aGV4yq8tLlgpjWlU9z+evGdX0iP0SiYIwQg0PX3lQw3gTO8edx7uU296nAw9VjupxOBUbbdXUPHsmwfKwnwTkrQL/hpiFajW5e1ZNY0DDC+vvAL2MCHAJG+0tZpIl7MRKx5w4bBdraFjSYOVwx+R9R6UPnXQlIVftvcpxyTSxyVwnVtw+0bsA/0rLAIoroFSIfuEWYKwg/YfAJf76K3efsG8T7o5UPzY0i1hUf6APRXHbU4=;C5PZFxFYfGo9OOOinVTFTQ=="
 ---

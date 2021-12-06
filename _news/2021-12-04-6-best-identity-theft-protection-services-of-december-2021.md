@@ -64,6 +64,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Stocks to Buy Now"
+    excerpt: "The best stocks are always in demand. Whether the market is down, up, or sideways, these stocks always fit into your portfolio."
+    publishedDateTime: 2021-12-03T21:45:00Z
+    webUrl: "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=liverstick%40gmail.com&moneymorning_subscribe=complete"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 4
 
 secured: "Rc5Qhp0hnlBUAAJ7027dNQEcuDkrhClCWb9YkYc2PPQtIAI8Ul8MxJWxoWdxe3xKjjFu0APYcWIEqwqVsKTjK2rL6yGOJQEf0agMfufimzqA8pqbibEAPqOkicIprGYcESfepGtoI96+qK5unSpORP5NH/OMMyA+O9o+drkQw8qzpBO5FcBGqyDF0sttuY6ncj8T3wgUknV2ntJ4HFSSpYe4v5Sf1f3aDTAPy2+FRX27il5NF2pSnHiRSGNrby+hGItXNGgWq0W9wA+LBOEo/AN1VU0s8TQ3OaLbUsnICh6VouA2pYl7GVHc48QNfBDOnVG/NDjF8JCOiHHYWVNLHlGRHjWIH+kricd851WMBGG/AJB8KeVn1/M5n7C0ozmaXI+cU4gxV/8C1GaeGA4QN4EbYfVzAQEyYaotmBtDSFoBCE+Wwy0BUgt9K2wroGDyDx3zrmle9pxzirYGSMGi9csEo6y3wCZy4pTq1QJMT+gURH06kBk+BGLSgJ0IkRX/dt/X26wMvjpeAMJ/sTQ5ug==;4Gue2P0jYYNvEpgv/zKWYA=="
 ---

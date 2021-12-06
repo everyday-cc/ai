@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbc.ca/amp/1.6271598"
 cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598"
 type: article
 quality: 59
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -96,20 +96,6 @@ related:
       - url: "https://th-thumbnailer.cdn-si-edu.com/2SQX_-OVgaZ-ySZDex8YhEPHaUM=/fit-in/1600x0/filters:focal(400x267:401x268)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/99/03/9903cce2-00af-41f5-a4b9-005793089c82/121_robots.jpeg"
         width: 800
         height: 534
-        isCached: true
-  - title: "This Seems Bad: World’s First ‘Living Robots’ Can Now ‘Reproduce’, According To Scientists"
-    excerpt: "Xenobots, the first \"living robots\", can now apparently reproduce, according to the scientists that are studying them."
-    publishedDateTime: 2021-12-01T17:54:00Z
-    webUrl: "https://brobible.com/culture/article/xenobots-reproducing/"
-    type: article
-    provider:
-      name: BroBible
-      domain: brobible.com
-    quality: 29
-    images:
-      - url: "https://brobible.com/wp-content/uploads/2021/07/terminator-.jpeg"
-        width: 1300
-        height: 719
         isCached: true
   - title: "Scientists Unveiled the World’s First Living Robots Last Year. Now, They Can Now Reproduce"
     excerpt: "Early last year, a team of researchers announced the world's first living machines —bundles of stem cells from African clawed frogs ( Xenopus laevis) that could be programmed to accomplish certain tasks."

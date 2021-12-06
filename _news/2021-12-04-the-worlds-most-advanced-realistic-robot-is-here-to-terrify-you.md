@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2021/12/03/worlds-most-advanced-realistic-robot-w
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/03/worlds-most-advanced-realistic-robot-will-terrify-you/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "Is This Really The World’s Most Advanced Human-shaped Robot?"
+    excerpt: "Engineered Arts claims that Ameca is the “world’s most advanced human-shaped robot.” The humanoid is designed as a platform to develop and peek into what the future of robotics technology would look like."
+    publishedDateTime: 2021-12-06T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/is-this-really-the-worlds-most-advanced-human-shaped-robot/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/ameca-banner_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "SPDzenNSOqX4Pzsvt9v/Fv99wm0XCWo3u0QK5u13/jKjWqoj45nYl+bKDIvb16TONYp74OnwmY6MP7/1qwszoPVxWknZemmGhNIKN7o52NVYzItT7Bs05DfHqkOHblIEQj9FQNhE6ia/NLyOcORbHlqeeFUxbvH90dDTtK/q4dvNyErgCjU7JP2INP3m1i1mMT6x5ZFQ6cXkT1i5QMh7tOLlmKjGD5wClFwpr8Tg0L5C+HvuVQIHEEqwqdyOlYcbV4hR4feN0gw2GCFy6hjVhlUIfnpd60+JPzt5CCXEnpHtQNA4i0eu4hUjVPYduJgzoWyusFDJjA+2fXfln0ZhEXz6PIf/+SAYSi5qkAmDj9lLs8OoZpWDGTR+Jiu9+4ouGOl0nqs2m4yxNtFkBs/JNsyQBjJ3s5G3WhKr5nJrtLvi8wT3+Mp20CWeTMq9IvkRr0DEJpJksLIZykfxXmIisJvm9mmqTD4SLewQ1KonpvtFvAnU+Q0YZ4Opo4ZK2MArv7PzeRECTvb+BZ22hHkdwQ==;/DlarvyczwddgRQMv5Nz3Q=="
 ---

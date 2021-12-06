@@ -42,20 +42,6 @@ related:
         width: 850
         height: 850
         isCached: true
-  - title: "AWS announces free machine learning educational materials and training resources"
-    excerpt: "says it’s trying to break down accessibility barriers around machine learning technology and make it possible for anyone who’s interested to become an"
-    publishedDateTime: 2021-12-01T18:30:00Z
-    webUrl: "https://siliconangle.com/2021/12/01/aws-announces-free-machine-learning-educational-materials-training-resources/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 66
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/SM_Masthead_single-image_2x.5bff688695257f5a21a469dad76ace2d44256b79.png"
-        width: 2880
-        height: 1024
-        isCached: true
 
 secured: "AeAUAkqMicmCfUAz/ygOO9355boM4sTGmwE1oTQ4kBeO8iwLuIYVv4UZ+ADbw9PrGwyP86h8Sm/qlzF/SBnA7uZS0kDfajK1ccWiwTMWZ2wQjvDeyr3FwEyaqG0dV7SH2VoLjL/YMHIIZRkYFTt0R9zmO7lLOUqxuY5WrLW4QM7qlVLYzbO6QU9UKFe+lyYl5QfUYMraEFBm9crvuDd/Q4gBX2kAAHEe6O8aO0p+QUWwFVHPxZ/U7lZZpnQpjubl4yDbtVDDqBCjkyFFeysv+seG4rbsuEfzh4wno0ARi/UeIsX8668jY1bqLbBg/MCD5sok3naqXQsojgHgQBEwcXgQmVOiH8zaCM5dVxwCI4w=;scMWtQKS558np6F+wLtK3g=="
 ---

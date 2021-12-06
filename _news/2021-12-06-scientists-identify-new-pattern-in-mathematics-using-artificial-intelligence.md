@@ -43,6 +43,15 @@ related:
         width: 2000
         height: 1285
         isCached: true
+  - title: "DeepMind claims AI has aided new discoveries and insights in mathematics"
+    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DeepMind claims that its AI systems helped mathematicians to discover new -- and significant ..."
+    publishedDateTime: 2021-12-02T09:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics-10803024"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 95
   - title: "Mathematicians hail breakthrough in using AI to suggest new theorems"
     excerpt: "Their work examined knot theory and representation theory, areas of \"pure mathematics\" which typically depend on human intuition for breakthroughs."
     publishedDateTime: 2021-12-01T19:27:00Z

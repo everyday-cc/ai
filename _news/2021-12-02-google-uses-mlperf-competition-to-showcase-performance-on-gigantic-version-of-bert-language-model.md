@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-uses-mlperf-competit
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: ZDNet
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "MLCommons Releases MLPerf Training v1.1 AI Benchmarks"
-    excerpt: "Today, MLCommons, the open engineering consortium, released new results for MLPerf Training v1.1, the organization’s machine learning training performance benchmark suite. MLPerf Training measures the time it takes to train machine learning models to a standard quality target in a variety of tasks including  image classification,"
-    publishedDateTime: 2021-12-01T18:02:00Z
-    webUrl: "https://insidehpc.com/2021/12/mlcommons-releases-mlperf-training-v1-1-ai-benchmarks/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 139
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/MLPerf-logo-1020.png"
-        width: 500
-        height: 348
-        isCached: true
   - title: "Inspur Information Impresses in AI Performance with 7 Titles in MLPerf Training v1.1"
     excerpt: "The open engineering consortium, MLCommons™ released its latest Training v1.1 results. Inspur Information submitted NF5488A5 and NF5688M6 server results for all 8 single-node closed division tasks, winning 7 of them."
     publishedDateTime: 2021-12-03T16:14:00Z

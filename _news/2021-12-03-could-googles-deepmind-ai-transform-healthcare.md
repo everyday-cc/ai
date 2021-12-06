@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-a
 webUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/"
 type: article
 quality: 101
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Big data in healthcare: 3 spine surgeons weigh in"
-    excerpt: "Three surgeons consider the pros and cons of big data and how it will affect spine care and the wider healthcare field."
-    publishedDateTime: 2021-12-01T18:38:00Z
-    webUrl: "https://www.beckersspine.com/orthopedic-spine-practices-improving-profits/item/53143-big-data-in-healthcare-3-spine-surgeons-weigh-in.html"
-    type: article
-    provider:
-      name: Becker's Spine Review
-      domain: beckersspine.com
-    quality: 19
 
 secured: "YrmLp+v7xUoZKoCM8ryfgFlYqV/ryzdO2pC54Xl+eSwqnD+dYR4ly9b6sEvNmwavHxng+DOzARznlqHf8cn9YQ/IHwzcrMR7O5DrEN3tgvKXWZEzt/a/k31jkF2K++q2HhMstFYUFbfki1JauDhOQ6hxBzNw31PIJnWqZcHkyyJtPIZ9CUME7VvM8wIZh4k+7J7b6dTMwZz98blGBpYFY51YEWOB0wm1No+ONK5c59qgylYTi8AANksHQP1wBnh3vJq/OFe+gcAOWBTNwKJg0MtD49GCzXTLL7AqNvaD5tKRUDFmFNjPoM5t60C+4GB2nEfSklICGRrQ4KinZPPwQaOO7CbJQlCToLHasir/Kzs=;/fCIhoury/tsUwDfeDVY0g=="
 ---

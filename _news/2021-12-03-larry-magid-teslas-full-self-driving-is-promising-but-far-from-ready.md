@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "The New Self-Labeling AI Has Brought Tesla Closer To Level-3 Automation"
-    excerpt: "Advertisement Tesla’s head of artificial intelligence has revealed new footage showing its auto labelling tool for its self-driving initiative. It’s believed to provide a significant boost to Tesla’s Full Self-Driving Beta."
-    publishedDateTime: 2021-12-02T18:59:00Z
-    webUrl: "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/"
-    ampWebUrl: "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/"
+  - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
+    excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving” (FSD) beta,"
+    publishedDateTime: 2021-12-02T14:00:00Z
+    webUrl: "https://www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/"
+    ampWebUrl: "https://www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
     type: article
     provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 74
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 59
     images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/newsimage336112.jpg"
-        width: 595
-        height: 225
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/11/SJM-Z-WALTERS-OPED-1102.jpg?w=1024&#038;h=783"
+        width: 1024
+        height: 783
         isCached: true
 
 secured: "B1bsodyPcPsW4om8zbdW986bsUxRNDwIKAt3G7xnyUS3ic5XCfs1r4qhOeJt6q5dRQY8JW3rfn5uX0CFZMYoCKMy9hbylfiCxYAAY2D1+fPKZzoxwrfaI9tyDaCQEYpeLbUmL99KBXfPWZj+w4DQqdAtEniV0aw8XdQRtS4TtydQthsh/b5CpXyifhTZUet8bTtt6v9npZc0DtRD2ZwJODVbrdmyDt442e48zu/XEo9wgHJbFSWPW/gt1sw+jFwfv8DVRa5/hpdxzEmvMlKUNLCTOuP47vx66sJPjCg9IZ2BZYAEr/OyKgFrLb0bY3geSVxM1LPdqQwzR/xRofZZ8OPCiFbbuSDXzACofm1hcgo=;uEE1KYCfYedB7pcHmBXGog=="

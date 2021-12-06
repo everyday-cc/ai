@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-06T08:02:00Z
 originalUrl: "https://timesofindia.indiatimes.com/readersblog/newtech/artificial-intelligence-is-like-artificial-god-for-specially-abled-39413/"
 webUrl: "https://timesofindia.indiatimes.com/readersblog/newtech/artificial-intelligence-is-like-artificial-god-for-specially-abled-39413/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://static.toiimg.com/photo/75476733.cms"

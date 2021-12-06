@@ -57,22 +57,6 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "What’s Next for Retail Robots"
-    excerpt: "From Walmart’s slow dance with robots to Schnucks’ robot rollout to 111 stores to Ahold Delhaize’s in-store AI presence, robots are coming to retail. In the previous three installments of this series,"
-    publishedDateTime: 2021-12-01T18:21:00Z
-    webUrl: "https://www.winsightgrocerybusiness.com/retailers/whats-next-retail-robots"
-    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/retailers/whats-next-retail-robots"
-    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/retailers/whats-next-retail-robots"
-    type: article
-    provider:
-      name: Winsight Grocery Business
-      domain: winsightgrocerybusiness.com
-    quality: 74
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2021-12/background/400x600/Robotsshutterstock.jpg?VersionId=9IQ6u8HOrbKU5OFZyF0dJdzOCcM8ft8e"
-        width: 400
-        height: 210
-        isCached: true
   - title: "U.S. Shuts Down International Calls to Ban “Killer Robots”"
     excerpt: "The Biden administration has rejected calls to ban the use of lethal autonomous weapons, also known as “killer robots.” During a United Nations meeting in Geneva Thursday, the U.S. instead proposed establishing a code of conduct for their use."
     publishedDateTime: 2021-12-03T15:31:00Z

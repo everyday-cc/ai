@@ -68,6 +68,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Stocks to Buy Now"
+    excerpt: "The best stocks are always in demand. Whether the market is down, up, or sideways, these stocks always fit into your portfolio."
+    publishedDateTime: 2021-12-03T21:45:00Z
+    webUrl: "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=liverstick%40gmail.com&moneymorning_subscribe=complete"
+    type: article
+    provider:
+      name: Money Morning
+      domain: moneymorning.com
+    quality: 4
 
 secured: "vksPqABXvT5/aGNUTszFDeuvOR6CSwrAfY5otQr85+24LoRFvR5JReUA2g1B3vyfNo/0hy50i/Psw42ieBmPdjMtbHWbNQ7MASZJdw5kRhjPi1DyK5D6v65g+cZUoWAdmVTsTPINW8MorvPH+b9hBKHdYeYAF8QRa96FZM1woe96op/HldR5vArPQAb51ikvljhalLdEM5ow3lo57f7UrHmuOouaupg5KDEv9w4fdFWiJGsnx4h8eLdZxTgDgdvm6xg5JqgD2XDE12SLG2HwhmfiGhptfS3N8oo7ZrdmLMPScz+5BEDRZtyEaxaJs96vDblixbyBr0EAJX0i5CFJFdoV8lYPs0E/FGpCgz7fXstajqL4Y+RVuYFN/e5iwD1hBcUI2/Fqqcp12NqIa21kzxah1TQknIk9+ROSkNf1th/ghSq1GVPAzwm0Ji/AfVuifiOru4IZoJmqJFg9jbxTJb4IYiQoSiRXtzvA0MC5iulIJySY4kpE7r33zVEwQs5ZezlTapOE383CdGAX3k8f3A==;h1lI2wIJKOLI/oTYGwLgxQ=="
 ---

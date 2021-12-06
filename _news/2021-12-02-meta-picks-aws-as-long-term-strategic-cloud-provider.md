@@ -93,34 +93,6 @@ related:
         width: 1400
         height: 840
         isCached: true
-  - title: "AWS announces expanded cloud partnerships with Meta, Discovery and Aurora"
-    excerpt: "Meta Platforms Inc., formerly Facebook Inc., as well as Discovery Inc. and Aurora Innovation Inc., which develops autonomous vehicle technology. The partnership with Meta is the main highlight. Besides being one of the world’s largest tech firms,"
-    publishedDateTime: 2021-12-01T18:35:00Z
-    webUrl: "https://siliconangle.com/2021/12/01/aws-announces-expanded-cloud-partnerships-meta-discovery-aurora/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 38
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/aws.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "AWS Announces Three New Amazon EC2 Instances Powered by AWS-Designed Chips"
-    excerpt: "Amazon EC2 C7g instances powered by new AWS Graviton3 processors provide up to 25% better performance for compute-intensive workloads over current generation C6g instances powered by"
-    publishedDateTime: 2021-12-01T17:53:00Z
-    webUrl: "https://www.wicz.com/story/45347689/aws-announces-three-new-amazon-ec2-instances-powered-by-aws-designed-chips"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 37
-    images:
-      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Meta/Facebook turns to AWS as \"long-term strategic cloud provider\" for acquisitions, third-party collaborations, and AI"
     excerpt: "Meta said that it will run third-party collaborations in AWS and use the cloud to support acquisitions of companies that are already powered by AWS. It will also use AWS’s compu"
     publishedDateTime: 2021-12-03T11:41:00Z
@@ -135,15 +107,6 @@ related:
         width: 730
         height: 383
         isCached: true
-  - title: "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Meta (NASDAQ: FB) has deepened its relationship wit"
-    publishedDateTime: 2021-12-01T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "/INvL9bY6OpPbsqvJbX70eqQlfO2npa7uIyUj9wGhAggacX/0TgIKdwopYwvHz8whKtEuPd3oZUNxdjHAYdO/D5fGzF2Mugcc4O5oLKT9O6nRZsVBSc7jIBSQrKmndT6zqwbUQo1/CZJAISrdlD/RWIqi68gKavgHLzC5bAz3M3htcwn0CP16KsBzl4m/iCnTTwaLHhyWAwqroVBZhw39RjZeKGCm9h2uhpILkQV9y4WjojsOYBEpU8aw8P3z/YvejSgP2AfpVC6npZdJ+vCDPu9KT7LUzTpOjWqhS/06sKEuo8f0DlzmxEG+A8QuJCM//hbI1XXfwLmGliQmAsqU6vMWerneraBWQo1pKrwlBI=;XQdQtLGR6it4gzyJGf3rmg=="
 ---

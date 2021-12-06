@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/amp/"
 type: article
 quality: 55
-heat: 135
+heat: 115
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Why We Aren’t Using Self-Driving Cars Yet"
-    excerpt: "The term ‘self-driving cars’ or ‘autonomous vehicles’ have been making rounds in the industry for quite some time now. We have even seen a few of them in action on the roads. It is almost a consensus that self-driving cars are the future of the automobile industry."
-    publishedDateTime: 2021-12-03T07:46:00Z
-    webUrl: "https://www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet"
-    ampWebUrl: "https://www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet/amp"
-    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet/amp"
-    type: article
-    provider:
-      name: Electronics For You
-      domain: electronicsforu.com
-    quality: 44
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2019/06/Waymo-the-first-commercial-self-driving-car.jpg"
-        width: 1075
-        height: 624
-        isCached: true
   - title: "Embark Stock: The Self Driving Investment You’ve Been Looking For"
     excerpt: "Can the self-driving startup solve a critical factor in the supply chain crisis? It has the potential. Let’s see what’s in store for Embark stock."
     publishedDateTime: 2021-12-02T08:58:00Z
@@ -90,20 +74,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-method-makes-se.jpg"
         width: 2522
         height: 1545
-        isCached: true
-  - title: "Fishers Is Next Proving Ground for Self-Driving Car Service"
-    excerpt: "After a trial run in Indianapolis this summer, a self-driving car service is coming to Fishers. The five-month pilot project begins December 20 and will continue into May. You’ll be able to use an"
-    publishedDateTime: 2021-12-02T20:27:00Z
-    webUrl: "https://www.wibc.com/news/local-indiana/fishers-is-next-proving-ground-for-self-driving-car-service/"
-    type: article
-    provider:
-      name: WIBC
-      domain: wibc.com
-    quality: 24
-    images:
-      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2021/12/02152336/FISHERS_EB_12022021.jpg"
-        width: 4032
-        height: 3024
         isCached: true
   - title: "Self-driving cars of the Bay Area"
     excerpt: "I just came back from a long-overdue trip to the Bay Area. It was great to catch up with old friends and make new ones."
