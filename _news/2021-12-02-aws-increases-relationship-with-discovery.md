@@ -73,20 +73,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Discovery taps AWS to power rollout of discovery+"
-    excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more personalized recommendations. “AWS provides the unparalleled ..."
-    publishedDateTime: 2021-12-01T15:03:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150311"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/141916-1200-by-630-personalized-viewing--307606049-ORG.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
     excerpt: "(NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud. As Discovery’s preferred cloud provider, AWS powers the vast majority of the company’s infrastructure needs to deliver its discovery+ on-demand streaming video service,"
     publishedDateTime: 2021-12-01T23:08:00Z

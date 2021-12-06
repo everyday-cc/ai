@@ -7,7 +7,7 @@ originalUrl: "https://www.bustle.com/wellness/ai-powered-startups-ivf-success"
 webUrl: "https://www.bustle.com/wellness/ai-powered-startups-ivf-success"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,31 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Multiply an IVF-tech startup launches is its AI-based platform that will replace conventional processes in IVF clinics"
-    excerpt: "Multiply, a US-based startup has come up with an AI-based platform that is specially designed to enable simpler systems for fertility clinics, lesser hassles for doctors and an effortless experience f"
-    publishedDateTime: 2021-12-04T14:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/multiply-an-ivf-tech-startup-launches-is-its-ai-based-platform-that-will-replace-conventional-processes-in-ivf-clinics-121120400889_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/multiply-an-ivf-tech-startup-launches-is-its-ai-based-platform-that-will-replace-conventional-processes-in-ivf-clinics-121120400889_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/multiply-an-ivf-tech-startup-launches-is-its-ai-based-platform-that-will-replace-conventional-processes-in-ivf-clinics-121120400889_1.html"
+  - title: "10 AI Startups That Raised Funding In 2021"
+    excerpt: "Here is a list of 10 AI startups that got funded in 2021. Startups form the backbone of the Indian economy. This year, the Indian startup ecosystem outdid itself, with startups raising as much as $26 billion within the first eight months of the year."
+    publishedDateTime: 2021-12-03T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/10-ai-startups-that-raised-funding-in-2021/"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 33
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/04/full/20211204192151.jpg"
-        width: 600
-        height: 450
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/funding-banner_11zon.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Multiply an IVF-tech startup launches is its AI-based platform that will replace conventional processes in IVF clinics"
-    excerpt: "Multiply, a US-based startup has come up with an AI-based platform that is specially designed to enable simpler systems for fertility clinics, lesser hassles for doctors and an effortless experience for patients that provides a standard protocol to maintain a database that will be safe,"
-    publishedDateTime: 2021-12-05T02:18:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20211204/3867402.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
 
 secured: "KbFla1repgrl00tUbfGCjVRnNsp6tjcgAqSmt4ai+V2FK+J7E92yuywGapA/qkCqw4/KJLe9PXQAiJGz3k7cY/sbDgxfSROP2TJpoxy6mHQAmpe8lcIGSOZ7YLdRCY2+UqxEL+3QwKxY36s7f84gS2XGEbP6Nx+CyHMXMfxX0jctQPKtpmbdYHJUkLC6LoDselOFPQynr8UBcRvGCrwyfb/cEYVnJkQ8bY9YyfePxeLhX3uc4YCdRkPXecjsITyn+w5qcN3vjvt2rQsF0WagdLiw6Fgq19Vt1wN/LNzAMgWbWxH2/WAE3Ai+sN7jKbyDEIE7L68CfBVOgF+QFfN+Da48Z516S5Zhn6N1rf5EH2gcmhUJ4cl03iikiWHRhhBFhudU5KDr4xjimfDSoHoi6BoZAl730AzGVYA6mjPtcG9VX+3GRjRzo8fiI6pVO6f81Advtr5J1XmUVO33K5vFjCp7wKXDmJgXkWuj32eE5A3ryToAQVqPCm01riape4xeOvEPXOP1xrlT70E1AxGJtg==;OSeP0vlWnJQ+IepxzIrQHw=="
 ---

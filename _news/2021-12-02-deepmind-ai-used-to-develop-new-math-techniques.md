@@ -63,17 +63,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
-  - title: "Security, Privacy Risks of Artificial Intelligence in Healthcare"
-    excerpt: "While regulatory agencies work to catch up to technological advances, the security and privacy risks of artificial intelligence in healthcare remain."
-    publishedDateTime: 2021-12-01T17:00:00Z
-    webUrl: "https://healthitsecurity.com/features/security-privacy-risks-of-artificial-intelligence-in-healthcare"
-    ampWebUrl: "https://healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare"
-    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare"
-    type: article
-    provider:
-      name: IT Security
-      domain: healthitsecurity.com
-    quality: 73
   - title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
     excerpt: "DeepMind, the UK-based artificial intelligence company backed by Google’s parent company, Alphabet Inc, has developed a program that can help mathematicians spot patterns. It has already led to ..."
     publishedDateTime: 2021-12-02T11:00:00Z

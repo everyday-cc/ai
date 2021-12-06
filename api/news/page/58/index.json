@@ -2,6 +2,222 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-10-20-second-spectrum-selects-aws-as-its-preferred-cloud-machine-learning-artificial-intelligence-and-media-services-provider.md",
+      "title": "Second Spectrum Selects AWS as its Preferred Cloud, Machine Learning, Artificial Intelligence, and Media Services Provider",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
+      "sourceUrl": null,
+      "webUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
+      "originalUrl": "https://br.advfn.com/noticias/BW/2020/artigo/81760926",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:AMZN&p=5&t=52",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ADVFN",
+        "domain": "advfn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-vocal-about-local-can-india-have-its-own-facebook-google.md",
+      "title": "Vocal about local? Can India have its own Facebook & Google?",
+      "excerpt": "(1.87%), Baidu (1.1%), Yandex (0.54% ... It can afford to, simply because they got into the ‘self-reliance’ mode many years before the necessity of doing so finally dawned on us.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-75797074,imgsize-213606,width-1200,height-628,overlay-etbrandequity/vocal-about-local-can-india-have-its-own-facebook-google.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/vocal-about-local-can-india-have-its-own-facebook-google/75797074",
+      "publishedDateTime": "2021-10-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-happiest-minds-technologies-happiest-minds-included-in-now-tech-robotic-process-automation-services-analyst-report.md",
+      "title": "Happiest Minds Technologies: Happiest Minds included in Now Tech: Robotic Process Automation Services analyst report",
+      "excerpt": "SAN JOSE, Calif., LONDON and BENGALURU, India, Oct. 19, 2021 /PRNewswire/ -- Happiest Minds Technologies Limited (NSE: HAPPSTMNDS), a 'Born Digital. Born Agile', Mindful IT Company, today announced",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54238133-happiest-minds-technologies-happiest-minds-included-in-now-tech-robotic-process-automation-services-analyst-report-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54238133-happiest-minds-technologies-happiest-minds-included-in-now-tech-robotic-process-automation-services-analyst-report-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-robotaxi-market-to-witness-astonishing-growth-by-2030.md",
+      "title": "Robotaxi Market to Witness Astonishing Growth by 2030",
+      "excerpt": "The Robotaxi Market is projected to grow from 617 units in 2021 to reach 1,445,822 units by 2030, at a CAGR of 136.8%. Automotive companies are investing huge amounts in research and testing of self-driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1102999852/Robotaxi-Market-to-Witness-Astonishing-Growth-by-2030",
+      "originalUrl": "https://menafn.com/1102999852/Robotaxi-Market-to-Witness-Astonishing-Growth-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-10/19/G_a467dimage_story.jpeg",
+          "width": 650,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-credo-ai-launches-out-of-stealth-with-55-million-to-help-companies-with-ethical-ai.md",
+      "title": "Credo AI launches out of stealth with $5.5 million to help companies with “ethical AI”",
+      "excerpt": "There are many in the world of AI who worry about its implications. One of those people is Navrina Singh, a former product manager for Qualcomm, then Microsoft, who saw firsthand at Microsoft how a Twitter bot it developed in 2016 as an experiment in “conversational understanding,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/",
+      "originalUrl": "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/NavrinaSingh2021_Headshot.png?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/",
+      "publishedDateTime": "2021-10-19T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-the-google-pixel-6-brings-a-new-chip-and-lofty-ai-powered-promises.md",
       "title": "The Google Pixel 6 brings a new chip and lofty, AI-powered promises",
       "excerpt": "The new Google Pixel 6 and Pixel 6 Pro smartphones rely on a custom-built chip to add clever and useful AI-driven features.",
@@ -935,238 +1151,6 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-tomahawk-robotics-receives-award-from-department-of-defense-to-strengthen-the-domestic-small-uas-industrial-base.md",
-      "title": "Tomahawk Robotics Receives Award from Department of Defense to Strengthen the Domestic Small UAS Industrial Base",
-      "excerpt": "Tomahawk Robotics is the leading innovator of common control solutions that transform ... Designed from the ground up with the user in mind, Kinesis is the only multidomain, cross-architecture ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-receives-award-from-department-of-defense-to-strengthen-the-domestic-small-uas-industrial-base-1030878037",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomahawk-robotics-receives-award-from-department-of-defense-to-strengthen-the-domestic-small-uas-industrial-base-1030878037",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1663668/Operator_with_Grip.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams.md",
-      "title": "Infor Coleman AI Digital Assistant App Now Available for Microsoft Teams",
-      "excerpt": "Infor,the industry cloud company, today announced the general availability (GA) of its Infor Coleman AI Digital Assistant app for Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams-1030877970",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/infor-coleman-ai-digital-assistant-app-now-available-for-microsoft-teams-1030877970",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/526907/Infor_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks.md",
-      "title": "This AI-powered tool helps you generate quality content with just a few clicks",
-      "excerpt": "Sponsored Deals 1. Produce engaging content with ease with this AI-powered tool on sale 2. Grab a subscription to this tool that helps you create engaging content with ease",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/",
-      "originalUrl": "https://venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/sale_303782_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/19/this-ai-powered-tool-helps-you-generate-quality-content-with-just-a-few-clicks/amp/",
-      "publishedDateTime": "2021-10-19T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-aion-labs-powered-by-biomed-x-launches-first-global-call-for-application-artificial-intelligence-for-antibody-design.md",
-      "title": "AION Labs, Powered by BioMed X, Launches First Global Call for Application: Artificial Intelligence for Antibody Design",
-      "excerpt": "AION Labs, Israel-based alliance of AstraZeneca, Merck, Pfizer, Teva, Israel Biotech Fund and Amazon Web Services (AWS), to start first global crowdsourcing initiative based on the innovation model of",
-      "sourceUrl": null,
-      "webUrl": "https://www.wcax.com/prnewswire/2021/10/19/aion-labs-powered-by-biomed-x-launches-first-global-call-application-artificial-intelligence-antibody-design/",
-      "originalUrl": "https://www.wcax.com/prnewswire/2021/10/19/aion-labs-powered-by-biomed-x-launches-first-global-call-application-artificial-intelligence-antibody-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WCAX3",
-        "domain": "wcax.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-19-facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk.md",
-      "title": "Facial Recognition School Lunch Payments Spark Privacy Concerns In UK",
-      "excerpt": "We're introducing Facial Recognition!” cheerily opens a flyer given to some parents in Scotland, describing a new method to pay for school lunches. Howeve",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
-      "originalUrl": "https://www.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/ec3440b1-2754-55eb-9036-0ab8685f3156/default-1634645033-child-facial-recognition.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/facial-recognition-school-lunch-payments-spark-privacy-concerns-in-uk/",
-      "publishedDateTime": "2021-10-19T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -43,20 +43,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
-    excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI) market report. The healthcare artificial intelligence (AI) market is expected to grow at a CAGR of over 46."
-    publishedDateTime: 2021-12-01T16:38:00Z
-    webUrl: "https://www.lelezard.com/en/news-20135314.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 53
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "The Role of AI in the Global Healthcare Market 2021: Rising Utilization of Robots for Surgical and Rehabilitation Procedures"
     excerpt: "The global AI in healthcare market is forecasted to record a value of US$22.68 billion in 2025, progressing at a CAGR of 35.59%, for the duration spanning 2021-2025. Factors such as rising utilization of robots for surgical and rehabilitation procedures,"
     publishedDateTime: 2021-12-03T10:41:00Z
@@ -71,15 +57,6 @@ related:
         width: 362
         height: 250
         isCached: true
-  - title: "Arizton Advisory & Intelligence: Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
-    excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI) market report. The"
-    publishedDateTime: 2021-12-01T15:30:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54638906-arizton-advisory-intelligence-healthcare-artificial-intelligence-ai-market-size-to-reach-revenues-of-usd-44-5-billion-by-2026-arizton-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 14
 
 secured: "nrIcgIxgeVAzorKyzyG+kdPgaM8RpGUrAF1js6MoQpW196g9Xl1jXVRiMvvfGeE1bTYWxDbNeMrROwEK0qPZc/cOKJQYCjD6Fs2+DdlYJSxK1Ds5grePrfg0z5r4Z4c6LteGqq9xp+Ws2janwPB/y5GuuZOZF7RNsIy3Ys+IQOF9wL0BpFuR0Fix8daNQoFakje6JAz/jwhwPyeM7aLx0vTNcotMpJbp8ilgpOmf9QGadjr4s2p15P9JapaoknCDMOfEK8dsOdsaviuZGgpmmdZHqntRzhmTREVS8L4mrqQeJiIFrbNPL9i/aaO2vcBc1cBfs+/iKeujml5aUz5xDW3Iu5XuIX03NyAJnVyQQB3khxg/COAiUeDdQL8SUUwKFnDjKNMHOJVj3N/brWqKbHj0dwxAlWFRcZfn9LLvpTo5tYGoo6Ips30WiO9RplTC1tMICadps1FdPfEEUxk0dX/ZsRAC7VHY7bAsEC/xVxdNI9QltdZ0sO3mLYHfFs1MytzMVg5q/mWjkSWh+hUnxQ==;vyyVODa60yfYeTxoaavzDg=="
 ---

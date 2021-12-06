@@ -2,6 +2,247 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-02-qualcomms-new-pc-chips-are-good-but-they-still-cant-match-apples-m1.md",
+      "title": "Qualcomm’s new PC chips are good, but they still can’t match Apple’s M1",
+      "excerpt": "The Snapdragon 8cx Gen 3 is Qualcomm's latest Arm-based PC chip. But can it compete against Intel and the Apple M1?",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/snapdragon-8cx-gen-3-intel-apple-3068879/",
+      "originalUrl": "https://www.androidauthority.com/snapdragon-8cx-gen-3-intel-apple-3068879/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2021/11/Qualcomm-Snapdragon-laptop.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-apple-3068879/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-apple-3068879/",
+      "publishedDateTime": "2021-12-01T15:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml.md",
+      "title": "Tenders2Bid – Revolutionizing Tenders & RFP discovery with AI & ML",
+      "excerpt": "Tenders2Bid has been in the news for developing world's largest aggregator platform of Tenders, RFPs. Tenders2Bid is the latest & hottest startup in the AI & ML",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/ab24396560/tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/ab24396560/tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24396560",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24396560",
+      "publishedDateTime": "2021-12-01T15:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning.md",
+      "title": "Dataiku releases new version of unified AI platform for machine learning",
+      "excerpt": "While trying to make data scientists more effective, Dataiku’s AI platform also provides no-code GUIs for data prep and AutoML capabilities.Read",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning-10804215",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning-10804215",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-reimagining-your-customer-experience-with-conversational-ai.md",
+      "title": "Reimagining Your Customer Experience With Conversational AI",
+      "excerpt": "That needn’t be the case: it’s time for organizations to reevaluate the role of conversational AI in customer experiences. In many cases, it’s already become obvious that simple speech can replace high-friction processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/",
+      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a7ff3b1e9bfe123b852719%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1578%26cropY1%3D0%26cropY2%3D887",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/amp/",
+      "publishedDateTime": "2021-12-01T14:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment.md",
+      "title": "How much can we trust AI? How to build confidence before large-scale deployment",
+      "excerpt": "Organizations must still build trust in AI before they deploy it throughout the organization. Here are some simple steps to make AI more dependable and ethical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
+      "originalUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
+      "publishedDateTime": "2021-12-01T13:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-full-self-driving-diary-a-longtime-tesla-drivers-perspective-on-fsd-beta.md",
       "title": "Full Self-Driving Diary: A longtime Tesla driver’s perspective on FSD beta",
       "excerpt": "After a month of safe and cautious driving, I finally achieved a Safety Score of 99 last week, and shortly thereafter, I was granted access to the Full Self-Driving Beta for my 2021 Model Y. The experience with the FSD Beta over the last seven days has made a few things clear: it’s very much",
@@ -10,7 +251,7 @@
       "originalUrl": "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -201,7 +442,7 @@
       "originalUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -604,7 +845,7 @@
       "originalUrl": "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -981,247 +1222,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-billion-dollar-unicorn-and-artificial-intelligence-career-tech-startup-is-improving-the-job-search-experience.md",
-      "title": "Billion-Dollar Unicorn And Artificial Intelligence Career-Tech Startup Is Improving The Job Search Experience",
-      "excerpt": "In this tight, hot labor market, artificial intelligence is gaining attention as a compelling and effective way to improve the hiring process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/12/01/billion-dollar-unicorn-and-artificial-intelligence-career-tech-startup-is-improving-the-job-search-experience/",
-      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/12/01/billion-dollar-unicorn-and-artificial-intelligence-career-tech-startup-is-improving-the-job-search-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a792b0c3987bee417323e3%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/12/01/billion-dollar-unicorn-and-artificial-intelligence-career-tech-startup-is-improving-the-job-search-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/12/01/billion-dollar-unicorn-and-artificial-intelligence-career-tech-startup-is-improving-the-job-search-experience/amp/",
-      "publishedDateTime": "2021-12-01T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition.md",
-      "title": "Mantra Softech gets Listed on NIST FRVT for Facial Recognition",
-      "excerpt": "Mantra Softech recently announced that its facial recognition algorithms 1:N and 1:1 placed first out of 25 percent tested systems and 367 entrants in the latest NIST FRVT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/12/01/1124367-mantra-softech.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
-      "publishedDateTime": "2021-12-01T06:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-cloud-computing-is-evolving-heres-where-its-going-next.md",
-      "title": "Cloud computing is evolving: Here's where it's going next",
-      "excerpt": "Today's hybrid and multi-cloud architectures will evolve into highly optimised app-centric, AI-driven environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/cloud-computing-is-evolving-heres-where-its-going-next/",
-      "originalUrl": "https://www.zdnet.com/article/cloud-computing-is-evolving-heres-where-its-going-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9cc167d03300a8a659d7dd21a109b0bffc5efce3/2021/11/18/90f56bcf-5471-4462-8640-a96c9f978e85/ibm-hybrid-multicloud-won.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cloud-computing-is-evolving-heres-where-its-going-next/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloud-computing-is-evolving-heres-where-its-going-next/",
-      "publishedDateTime": "2021-12-01T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-artificial-intelligence-how-business-leaders-can-tap-into-their-blue-sky-opportunities.md",
-      "title": "Artificial Intelligence: How Business Leaders Can Tap Into Their Blue Sky Opportunities",
-      "excerpt": "Even though the last few years have forced organizations to adopt new technology, there is still significant blue sky for leaders when it comes to AI and how it can help them drive business decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/artificial-intelligence-how-business-leaders-can-tap-into-their-blue-sky-opportunities/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/artificial-intelligence-how-business-leaders-can-tap-into-their-blue-sky-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a65ebdabaca8b0e47f2e6d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/artificial-intelligence-how-business-leaders-can-tap-into-their-blue-sky-opportunities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/artificial-intelligence-how-business-leaders-can-tap-into-their-blue-sky-opportunities/amp/",
-      "publishedDateTime": "2021-12-01T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-turningminds-launched-to-train-in-ai-machine-learning.md",
-      "title": "‘TurningMinds’ launched to train in AI, machine learning",
-      "excerpt": "International School of Engineering (INSOFE) and Soothsayer Analytics, USA, have launched TuringMinds.Ai with a goal to establish Centers of Excellence in Artificial Intelligence and Machine Learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/Hyderabad/turningminds-launched-to-train-in-ai-machine-learning/article37791465.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/Hyderabad/turningminds-launched-to-train-in-ai-machine-learning/article37791465.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/Hyderabad/turningminds-launched-to-train-in-ai-machine-learning/article37791465.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/turningminds-launched-to-train-in-ai-machine-learning/article37791465.ece/amp/",
-      "publishedDateTime": "2021-12-01T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

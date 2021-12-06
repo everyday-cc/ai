@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-06-deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india.md",
+      "title": "Deloitte’s AI Institute to help accelerate the pace of innovative research in India",
+      "excerpt": "In an effort to bridge this gap, ‘Deloitte AI Institute India’ launched today will build an ecosystem in the country by integrating AI innovations..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-88120313,imgsize-334006,width-1200,height-628,overlay-etcio/deloitte-s-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313",
+      "publishedDateTime": "2021-12-06T00:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers.md",
+      "title": "‘As always’: Elon Musk tweets on recent Tesla hiring for AI engineers",
+      "excerpt": "US-based electric vehicle company Tesla is hiring AI engineers who are passionate about solving day-to-day problems through artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesstoday.in/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06",
+      "originalUrl": "https://www.businesstoday.in/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/elon-musk2-sixteen_nine.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesstoday.in/amp/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06",
+      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06",
+      "publishedDateTime": "2021-12-05T22:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Today",
+        "domain": "businesstoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-nsw-transport-and-cisco-to-run-ai-and-iot-trials-to-ease-congestion-on-public-transport.md",
       "title": "NSW Transport and Cisco to run AI and IoT trials to ease congestion on public transport",
       "excerpt": "Several buses, ferries, and light rail services in Sydney and Newcastle will used to investigate how a real-time view of those services can guide improvement for reliability, future network decisions,",
@@ -10,7 +96,7 @@
       "originalUrl": "https://www.zdnet.com/article/nsw-transport-and-cisco-to-run-ai-and-iot-trials-to-ease-congestion-on-public-transport/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -62,7 +148,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -206,6 +292,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-05-the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being.md",
+      "title": "The Ironic Need To Make Sure That Self-Driving Cars Look Like Self-Driving Cars, At Least For The Time Being",
+      "excerpt": "Self-driving cars might end-up looking like conventional cars, while conventional cars will look like self-driving cars, which could be troubling from a distinctive appearance consideration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6025c63de89f5cf5cf21afe3%2F0x0.jpg%3FcropX1%3D157%26cropX2%3D7900%26cropY1%3D628%26cropY2%3D4983",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/amp/",
+      "publishedDateTime": "2021-12-05T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -640,6 +778,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-04-robots-made-from-living-cells-learned-how-to-replicate-themselves.md",
+      "title": "Robots made from living cells learned how to replicate themselves",
+      "excerpt": "Xenobots, which are \"living robots\" made of frog cells, are simple robots that can move autonomously in a petri dish. When scientists added more cells to the dish, the xenobots pushed them together to form new xenobots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598",
+      "originalUrl": "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.6272805.1638559444!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/xeno-headline.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.6271598",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598",
+      "publishedDateTime": "2021-12-03T14:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021.md",
       "title": "Top 12 AI and machine learning announcements at AWS re:Invent 2021",
       "excerpt": "Invent 2021 conference, Amazon announced a slew of new Amazon Web Services features powered by AI and machine learning.",
@@ -850,7 +1031,7 @@
       "originalUrl": "https://www.republicworld.com/technology-news/science/humanoid-robot-ameca-shows-most-accurate-facial-expressions-in-new-video-watch.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -882,49 +1063,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-facial-recognition-technology-could-change-the-face-of-indian-airports.md",
-      "title": "Facial recognition technology could change the face of Indian airports",
-      "excerpt": "With the Airports Authority of India (AAI) working on a facial recognition technology-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports, including Varanasi,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html",
-      "originalUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/images/2019/1/3/face-facial-recognition-software-system-computer-shut.jpg",
-          "width": 760,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html",
-      "publishedDateTime": "2021-12-03T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1079,136 +1217,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-global-assistive-robotics-market-size-to-reach-usd-2516-billion-in-2028.md",
-      "title": "Global Assistive Robotics Market Size to Reach USD 25.16 Billion in 2028",
-      "excerpt": "Rapidly increasing geriatric population, advancements in Artificial Intelligence, and surging prevalence of autism are some key factors driving market revenue growth Market Size – USD 5.05 Billion in 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/",
-      "originalUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/12/Assistive-Robotics-Market.jpg",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/",
-      "publishedDateTime": "2021-12-03T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-youll-freak-when-you-watch-ameca-the-humanoid-ai-robot-come-to-life.md",
-      "title": "You'll Freak When You Watch Ameca The Humanoid AI Robot Come To Life",
-      "excerpt": "Engineered Arts' robot Ameca has people both amazed and fearful as images from movies like I, Robot are brought to mind.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/watch-ameca-come-to-life",
-      "originalUrl": "https://hothardware.com/news/watch-ameca-come-to-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/56955/content/ameca-robot.jpeg",
-          "width": 708,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/watch-ameca-come-to-life",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/watch-ameca-come-to-life",
-      "publishedDateTime": "2021-12-03T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign.md",
-      "title": "Moloco Earns 2021 SMARTIES Award for Machine Learning & AI Campaign",
-      "excerpt": "Esteemed marketing trade association MMA has recognized Moloco as a leader in marketing technology REDWOOD CITY, Calif. (PRWEB) Moloco (",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/p24428632/moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/p24428632/moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24428632",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24428632",
-      "publishedDateTime": "2021-12-03T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

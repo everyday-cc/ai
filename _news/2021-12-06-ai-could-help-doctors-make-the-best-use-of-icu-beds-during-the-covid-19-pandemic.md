@@ -1,21 +1,29 @@
 ---
 category: news
 title: "AI could help doctors make the best use of ICU beds during the COVID-19 pandemic"
-excerpt: "New technology could help doctors make the most of limited resources during the COVID-19 pandemic by identifying patients who require intensive care unit treatment."
-publishedDateTime: 2021-12-06T05:08:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/936861"
-webUrl: "https://www.eurekalert.org/news-releases/936861"
+excerpt: "New technology could help doctors make the most of limited resources during the COVID-19 pandemic by identifying patients who require intensive care unit (ICU) treatment."
+publishedDateTime: 2021-12-06T08:36:00Z
+originalUrl: "https://techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.html"
+webUrl: "https://techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.html"
+ampWebUrl: "https://techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.amp"
 type: article
-quality: 12
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/icu-1.jpg"
+    width: 2880
+    height: 1620
+    isCached: true
 
 related:
   - title: "Interviews Of Eminent Female Leaders To Research The Impact Of COVID-19 On Women And How Policies And AI Can Help"
@@ -58,6 +66,6 @@ related:
         height: 400
         isCached: true
 
-secured: "Uh+yhIQv3Nmo15Nci4a95nF/lPvx+0xBEtnDWYdABhGjuVRkC8woknMp4hxQxYBIR2Byw1heCa788yC3f/EWGtGfwEJYdbXcYelXHmZyBx/mLj8cT6JeMR+jOrAhIszOc17XSniQVKQMS53Jsk69a582lefHpV8mGKMVFSrLQtpHJjwhoJjvdk3jbedKOCoVxwzgLb9Nv9pYhvM+9I5TGx7lamU90ccj/iIl8apnGshpuii/aa6H4Za6K0HoyU/5zTUEEaKBAbwejvBlCGNZFYFatsZUQ7qaDNxwu/NSw92vF0MlL3LrCda5f6JREhuiZPYi/nHUfgzY7EK3WkawXHaNEg5I/ewt3oQfGbe0RY4=;ghz6Dtxvx12uMgvlS+nmpA=="
+secured: "PfKW0ffOb/8j6h6rquabqC23qnTt3AL1Uq4qfvGZZ4slmYensTSHGU0W8AnEAY457J9QOzkfMqasfuJF4yoMRkDmfM8HqeAzMmrXmwu+YJdNQxa2wUef1Q1v0B/3P2u3AZGofURAbFyuv9uetSXCYOK3RUq6/rARblHGWHkpalYvfXta2tEot2LtT+ZJfUms7h1T8liz0KDejBaq2YZFyrq3yrxA1CViQ9ghEQ4f8xAcKvThaPdzhZMGz+AVL8ISDtV6L2Jr0yz9c523JHidyw0Jsv0Am48mF4cOG+RdubQiQKKZgvVjQvmYL+1vNkfTWPVeZzZb4OXzGIeFaBJvGGGmCAt72VDCZZyjyh7hAI8=;6U+/cPwJbKJNMmFBrazvsw=="
 ---
 

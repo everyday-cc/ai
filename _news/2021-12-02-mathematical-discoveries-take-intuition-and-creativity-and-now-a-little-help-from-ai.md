@@ -52,20 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 95
-  - title: "Artificial intelligence aids intuition in mathematical discovery"
-    excerpt: "Machine-learning tools have been used to assist the part of mathematical research that usually relies on human intuition and creativity — leading to two fundamental results in different areas of mathematics."
-    publishedDateTime: 2021-12-01T16:27:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-03512-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 52
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-03512-4/d41586-021-03512-4_19909408.png"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "myN3M05x4ZieqF8dLs2/0v+0lBkIan2DVTngYdR7GAo66qckQAyOgt+zOglaDT4ciV2uL+VcLzPxPue+8FwQOTYxVtmVaiS7r85Gh0UzwhYadIzxukqs0Qul3TKcapLR97/9J+rt6Ti3Aur9MToBIoHwZpEeaP/uJYJl/dPP15/4G4sxt3ZP8tDJeRYd8Zw25Jy1lX6sZUOEoXo6xDDJmyMNOJr3b785JFEkqas+mj7Cj/l1MpxTpt7xVl1pHVMIgssJavaNLFy7Bla5h7DJi35t318bKuV5uV2vfKFa78TF/qYOmcw4GSFNuwI8iFLRPfloRNlYP29XC+u0hVBTQf3AKR/4j4bXpAzyEUPilqQUkM3a417o9E/G3MVJ0B+U4KL+CBewZ6cGbIP6rPoHbF6CWIrOSGLgQxEFhF4TW9p+Flu4LUM/+1EFjo++43Y9gpw6hMWZKJTW9/e8w46TrzHxv4VtfvPByi+z/7uVGXWYB7Pu8DAIfGvOUXteX8vYi64ryw8eRGhwy5JLS4eH7A==;FuYFWbtsZMUGKfsIlEjOaQ=="
 ---

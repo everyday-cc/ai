@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/400561"
 webUrl: "https://www.entrepreneur.com/article/400561"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deloitte’s AI Institute to help accelerate the pace of innovative research in India"
+    excerpt: "In an effort to bridge this gap, ‘Deloitte AI Institute India’ launched today will build an ecosystem in the country by integrating AI innovations.."
+    publishedDateTime: 2021-12-06T08:26:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 51
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88120313,imgsize-334006,width-1200,height-628,overlay-etcio/deloitte-s-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "IWIL India in partnership with Tech SuperGirl and AWS ID & E brings India's biggest startup acceleration program - 'TechXelerate'"
     excerpt: "IWIL India, in partnership with Amazon ID & E and Tech SuperGirl has launched one of the nation's largest program, TechXelerate to accelerate women into tech and entrepreneurship in India. The outreach of this program will be with 20 incubating partners such as Amazon ID & E,"
     publishedDateTime: 2021-12-01T22:48:00Z

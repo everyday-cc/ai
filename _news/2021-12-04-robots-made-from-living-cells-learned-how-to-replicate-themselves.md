@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbc.ca/amp/1.6271598"
 cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 149
+published: true
 
 provider:
   name: CBC.ca
@@ -27,54 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meet Xenobots, World's First Living Robots That Can Reproduce"
-    excerpt: "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world."
-    publishedDateTime: 2021-12-01T16:32:00Z
-    webUrl: "https://thelogicalindian.com/technology/xenobots-worlds-first-reproducing-living-robots-32326"
-    ampWebUrl: "https://thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326"
-    cdnAmpWebUrl: "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326"
-    type: article
-    provider:
-      name: The Logical Indian
-      domain: thelogicalindian.com
-    quality: 59
-    images:
-      - url: "https://thelogicalindian.com/h-upload/2021/11/29/400x400_207630-untitled-design-2021-11-29t103354438.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "These Tiny Xenobot Robots Can Biologically Reproduce to Create a Family!"
-    excerpt: "A team of researchers has developed a new kind of robot called \"Xenobot\" that can biologically reproduce to create \"baby\" Xenobots."
-    publishedDateTime: 2021-12-04T18:38:00Z
-    webUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/"
-    ampWebUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 58
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2021/12/shutterstock_2010089492-min.jpg?w=750&quality=75"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Pac-Man-shaped blobs become world's first self-replicating biological robots"
-    excerpt: "Tiny groups of cells shaped like Pac-Man are the world's first self-replicating biological robots. The tiny bots are made from the skin cells of frogs, but they don't reproduce by mitosis or meiosis or any of the other ways cells divide and replicate in normal circumstances."
-    publishedDateTime: 2021-12-02T12:00:00Z
-    webUrl: "https://www.livescience.com/self-replicating-biological-robots"
-    ampWebUrl: "https://www.livescience.com/amp/self-replicating-biological-robots"
-    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/self-replicating-biological-robots"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 56
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/X8K4cbphvRJDhxgRfQ6tBZ-1200-80.jpg"
-        width: 1200
-        height: 933
-        isCached: true
   - title: "AI-designed Xenobots Have Figured Out How To Replicate, Living Robots Are Coming"
     excerpt: "I bet you thought we needed to look towards the stars in order to find some new form of biological mechanism. Or perhaps into the depths of our oceans, which run deeper than Jerry Jones’ pockets, or so I’ve been told."
     publishedDateTime: 2021-12-04T12:00:00Z
@@ -88,20 +40,6 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/ai-designed-xenobots-have-figured-out-how-to-replicate-living-robots-are-coming-175397_1.jpg"
         width: 1485
         height: 1080
-        isCached: true
-  - title: "Team builds first living robots that can reproduce"
-    excerpt: "Now scientists at the University of Vermont, Tufts University, and the Wyss Institute for Biologically Inspired Engineering at Harvard University have discovered an entirely new form of biological reproduction—and applied their discovery to create the first-ever,"
-    publishedDateTime: 2021-12-02T15:57:00Z
-    webUrl: "https://robohub.org/team-builds-first-living-robots-that-can-reproduce/"
-    type: article
-    provider:
-      name: Robohub
-      domain: robohub.org
-    quality: 39
-    images:
-      - url: "https://robohub.org/wp-content/uploads/2021/12/Blackiston3-425x331.jpg"
-        width: 425
-        height: 331
         isCached: true
   - title: "‘Living’ Robots Able to Reproduce"
     excerpt: "This week, a newly released study appears to add yet another particularly thorny complication to the debate: robots that could reproduce on their own. Scientists at three New England universities hailed the discovery of an entirely new form of reproduction — one in which tiny,"

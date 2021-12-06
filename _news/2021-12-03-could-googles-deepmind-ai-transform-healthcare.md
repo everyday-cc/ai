@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-a
 webUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/"
 type: article
 quality: 101
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -53,17 +53,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
-  - title: "Security, Privacy Risks of Artificial Intelligence in Healthcare"
-    excerpt: "While regulatory agencies work to catch up to technological advances, the security and privacy risks of artificial intelligence in healthcare remain."
-    publishedDateTime: 2021-12-01T17:00:00Z
-    webUrl: "https://healthitsecurity.com/features/security-privacy-risks-of-artificial-intelligence-in-healthcare"
-    ampWebUrl: "https://healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare"
-    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/features/amp/security-privacy-risks-of-artificial-intelligence-in-healthcare"
-    type: article
-    provider:
-      name: IT Security
-      domain: healthitsecurity.com
-    quality: 73
   - title: "DeepMind AI Used To Develop New Math Techniques"
     excerpt: "Researchers are using DeepMind's artificial intelligence to develop fundamentally new techniques in mathematics."
     publishedDateTime: 2021-12-02T10:03:00Z

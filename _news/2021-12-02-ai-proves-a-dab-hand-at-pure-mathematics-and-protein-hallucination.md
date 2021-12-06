@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-prote
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/amp/"
 type: article
 quality: 121
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 95
-  - title: "Artificial intelligence aids intuition in mathematical discovery"
-    excerpt: "Machine-learning tools have been used to assist the part of mathematical research that usually relies on human intuition and creativity — leading to two fundamental results in different areas of mathematics."
-    publishedDateTime: 2021-12-01T16:27:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-03512-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 52
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-03512-4/d41586-021-03512-4_19909408.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Mathematical discoveries take intuition and creativity – and now a little help from AI"
     excerpt: "To find the answers, mathematicians like me try to find patterns that relate complicated mathematical objects by making conjectures (ideas about how those patterns might work), which are promoted to theorems if we can prove they are true."
     publishedDateTime: 2021-12-01T17:10:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/technology/how-artificial-intelligence-is
 webUrl: "https://www.bbntimes.com/technology/how-artificial-intelligence-is-reducing-baggage-mishandling"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,64 @@ images:
     width: 800
     height: 494
     isCached: true
+
+related:
+  - title: "1 Dividend King Is Leveraging AI to Stay On Top"
+    excerpt: "With new entrants using artificial intelligence to disrupt the industry, this company is taking things into its own hands."
+    publishedDateTime: 2021-12-03T13:55:00Z
+    webUrl: "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveraging-artificial-intelligence/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 67
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/655460/couple-meets-insurance-agent-at-home-getty.jpg"
+        width: 2120
+        height: 1414
+        isCached: true
+  - title: "Top 6 Ways Artificial Intelligence Is Changing Real Estate Industry"
+    excerpt: "There was a time when Artificial intelligence or anything close to it seemed like an impossibility. That''s not the case anymore. Artificial intelligence has impacted our lives in great ways and there is no stopping to it."
+    publishedDateTime: 2021-12-03T16:24:00Z
+    webUrl: "https://news.tmcnet.com/topics/articles/2021/12/03/450830-top-6-ways-artificial-intelligence-changing-real-estate.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-dec/5159830407-artificial-intelligence-3382507_960_720.jpg"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
+    excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"
+    publishedDateTime: 2021-12-04T02:02:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 38
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg"
+        width: 770
+        height: 400
+        isCached: true
+  - title: "How This Pune-Based Startup Is Leveraging AI to Democratize Location Intelligence"
+    excerpt: "Dista uses location information from anything with a GPS and translates it into a rich dataset to provide meaningful insights and predictions."
+    publishedDateTime: 2021-12-03T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-pune-based-startup-is-leveraging-ai-to-democratize-location-intelligence/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 32
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/ceo-bb_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "T83uD9bwEy8mEffq3EROyHJH6N9nMJOgCxGedA5TC5Xdfh8zw5c1nwbkHM3AXiVqXOV78zs/cfjowhv6F6bcpbSlvI+1lmKbgR36vjQ7GXVSOpqNfgIOtpxYSJVMfuXsoxXXAhDyPOrVYg9CFv3UylhQnqcBQsng8mg8TI2Nc12ee/b3ea4l2ujA6MhoYR6kp3/6CC1byZTNws5zk+ZrNeOwRYhyPVUksrkI+uwIlBASn2GDS/7vhLF9eTWXx494mcZr9aVnr2mvHm9aXmDQNzzFR2XoCk+2Lv1PwQVdlawUjuRBPuJIuxjn28D1ZzV1vQRau7BYmFHR7S9iqzjXTgiXtKStWn262PqUexSyBsnAkB/22yjCq2r3L2lsSwrt3UQm1UAve6HNc/eIRhPENMApHhwy1V8gLi2nsCQDYrY0+bB/4VAhOUnsdF+Z4DjBRU2ozFDghKyxu71ks3ylY3SXWAOPWolJBVyS6AgLCEAluTRW98GRT3SKf6BaOk19c+iJPuIg/k0j0xaydLmhwQ==;uQvH9YMFuwdtT+KHZ1FxHw=="
 ---

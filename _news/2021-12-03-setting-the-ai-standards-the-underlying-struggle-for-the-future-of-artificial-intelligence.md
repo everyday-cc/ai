@@ -23,22 +23,6 @@ images:
     height: 430
     isCached: true
 
-related:
-  - title: "Transparency standards for AI piloted in the UK"
-    excerpt: "AI coders are expected to use the standard to be meaningfully transparent about how algorithms are used in supporting decisions."
-    publishedDateTime: 2021-12-01T16:36:00Z
-    webUrl: "https://www.biometricupdate.com/202112/transparency-standards-for-ai-piloted-in-the-uk"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
-        width: 1920
-        height: 1080
-        isCached: true
-
 secured: "pFTeCTRgLxIVECQdXHHQJAKN0omEmGoKilPTHyD/xuh/TomBHtZKPOCHSBndDLkAaS9GfqT3NPr96hh8pEZ5W+CYXCU0sYq87yWaCTLf0eqDUfl2PGKKX8zT3gRtPzEl51JvRqCFIQhjKaOAu+0mg7gRT4Huszvkod0YC7TLuxwXA44jMUjyR/QeRmFORBq5J5Kwkf1sM7sKhR/KxnM8jRFj48xEBn/XgWovzuvb8NQEYGDIoX4qsVARxc28AXH/fGvXJRsE2lZirlBNy4jtUiLBUzoAPtU3WgrTZKd6eeLvJu6/XVbP29dNr5zIENHqkfXxJG9UpGBuSkAHpaIwG8FHT8DXP8qhDJ0PW/dQz/w=;5bz6aADq2dC7ZaOhOR0yFg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nsw-transport-and-cisco-to-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-transport-and-cisco-to-run-ai-and-iot-trials-to-ease-congestion-on-public-transport/"
 type: article
 quality: 81
-heat: 82
+heat: 83
 published: true
 
 provider:

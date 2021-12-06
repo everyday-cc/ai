@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "AI could help doctors make the best use of ICU beds during the COVID-19 pandemic"
+    excerpt: "New technology could help doctors make the most of limited resources during the COVID-19 pandemic by identifying patients who require intensive care unit (ICU) treatment."
+    publishedDateTime: 2021-12-06T08:36:00Z
+    webUrl: "https://techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 52
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/icu-1.jpg"
+        width: 2880
+        height: 1620
+        isCached: true
   - title: "Cloud Artificial Intelligence Market Analysis, Trends and Forecast, 20212027 | Covid-19 Impact With Competitive Outlook"
     excerpt: "In January 2017, Google, Inc. launched its Cloud AutoML. It utilizes Google's Cloud Vision application programming interface and Cloud machine learning engine service. AutoML is used by several ..."
     publishedDateTime: 2021-12-03T17:42:00Z
@@ -49,15 +65,6 @@ related:
         width: 480
         height: 400
         isCached: true
-  - title: "AI could help doctors make the best use of ICU beds during the COVID-19 pandemic"
-    excerpt: "New technology could help doctors make the most of limited resources during the COVID-19 pandemic by identifying patients who require intensive care unit treatment."
-    publishedDateTime: 2021-12-06T05:08:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/936861"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 12
 
 secured: "DsMjxhDGpqXsVEyzIs/fYDu0sB7URJ93F2Zn8/afSRpQBvXTCNtQ7iyG/Jd8NIYfXlBiufZAapFA8sGRF7X31IHCrZD64VwjzWXP/2s+tDO5xhJDydFc1DxaWLiErvOovfqH7uydHaJPCSrcFm2TwTiYp7WZyTq2P+WwY+2i2A/txPSQqdKsxvA4u8fotGK0gltznt4ZQ+N9EQBAjURVxD+ZFv/3V0+WZHgtjPUh0NtarKnDRu+W0aSN48IcOrRI4Et1LsdSFrBDhEeVXtXimOv2G2vum4veSQYKSl5r1+0mczSkwQYWk3Jy66RhF9RiusQLjBuqSu/pglvhku+2m9jZ7YqFCxTsCqOAxrxRe7U=;kD5mlildjxNW4KSW2/c+Sw=="
 ---

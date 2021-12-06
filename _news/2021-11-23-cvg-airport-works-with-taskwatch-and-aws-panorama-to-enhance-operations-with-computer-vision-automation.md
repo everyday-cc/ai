@@ -1,21 +1,27 @@
 ---
 category: news
 title: "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation"
-excerpt: "CVG is using computer vision, AI, and advanced technologies to manage capacity constraints while maintaining its commitment to customer service and brand reputation TaskWatch enhances CVG with self-service capability to deploy custom computer vision applications in an ever-evolving business landscape."
-publishedDateTime: 2021-11-23T08:00:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation"
-webUrl: "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation"
+excerpt: "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,"
+publishedDateTime: 2021-11-23T14:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58"
 type: article
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
   - AWS AI
 
-secured: "o74JvUWO9zfhDT4u5IMjwbmt8R/oL5YaDOvTsqfwnE6o7TBYrpGw4RnM9ZKMOnO6uap3NpqmiyXpBu1oWJfct4gQkqVISzh+ECysVRXB0ELtegj513/qIXaqyBqao5F+cz9FUetfmVuIB82TzMC/AoKhhfoCk+HzSUFHXaOz5bnMkrxuJtHhLVngsp7dmOz6kYlrIFA2C7sId3wwYBgcXzEHk+Zt7CMfzu7s/og2TYhHl1DePf8YExjuqFiRhU5Uz3Plu/tPJ1TOIZbB9Xv8i4zyTDSsj9njNkPdt8k9bzTqmXcawN/ADARC9Flnpw3fC1IvRVMQPwP5g3Wj2OgWUCukmNayT/eY3ffoL/jazgY=;99Fa8F3nyQtAe1eszj2V2g=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "j/yeit5q/zLE4p26Otlsa/03WMD9tz8E9cWZUB3Sl+k/4O2WQRMOeSg/D204nAzmSX2W+Cb6m9G5p36TJExYp409+zBST62CVHAALOTZAMCqKRwhQDDl7RdK9Sn2ABjooyApub7PcA51LwBYC8oGT1INyhHcXWOCeiKFGL3WSt+6usOiSgiJ9alndjVfVhCJKkTgtF/R43Lo4P8t7HJfT8UH7gocCcAgYWY3Jsj1xvblIRlrxahuj6yHwqS4UTCF4RuynTh77rmmcZqGqUHB5PwaUXskobp9ZAVl/rvc8EG0NhoG8jNZHplFQWwh/H+DlH0lKSTbXfw4CGUxXPKH/5R0qYC0joNpypc1ZOzbP+0=;3u9n2ANzI6Wx3oAFkWkZ9w=="
 ---
 

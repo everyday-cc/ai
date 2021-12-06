@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/global-assistive-robotics-market-size-to-rea
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/"
 type: article
 quality: 75
-heat: 115
+heat: 95
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
-    excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI) market report. The healthcare artificial intelligence (AI) market is expected to grow at a CAGR of over 46."
-    publishedDateTime: 2021-12-01T16:38:00Z
-    webUrl: "https://www.lelezard.com/en/news-20135314.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 53
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Mobile Robot Market Size Forecasted to Reach Valuation of USD 117.89 Billion by 2027"
     excerpt: "The global mobile robot market is expected to be valued at USD 117.89 Billion by 2027 from USD 23.48 billion in 2019, registering a CAGR of 23.6% through the forecast period. This growth is attributed to surge in adoption of mobile robots especially across manufacturing plants."
     publishedDateTime: 2021-12-02T10:30:00Z
@@ -72,15 +58,6 @@ related:
         width: 362
         height: 250
         isCached: true
-  - title: "Arizton Advisory & Intelligence: Healthcare Artificial Intelligence (AI) Market Size to Reach Revenues of USD 44.5 Billion by 2026 - Arizton"
-    excerpt: "In-depth analysis and data-driven insights on the impact of COVID-19 included in this global healthcare artificial intelligence (AI) market report. The"
-    publishedDateTime: 2021-12-01T15:30:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54638906-arizton-advisory-intelligence-healthcare-artificial-intelligence-ai-market-size-to-reach-revenues-of-usd-44-5-billion-by-2026-arizton-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 14
 
 secured: "nPmjNBu5e8OcxmvOzzY/BCP6bA7cC0KbN0jDvVJAtoKzIdg+/pD9WvEqaByZst/cwpUEy3VU832KKN9RF6uUa1Pi+5sQ5sdxDP2rja+Pa6GBRjDH/Ok9TBFnZ+no3w7+x5QQqPuVcRs4Xb0qmTYGNA8NRVgI5kgAKvlxSAOYhPoSsRzUAnmhK3/PuiCWKgWmQEwFCwkmpKSrgEuzBLHQ2PH2TGkPhjv8p3QTaq1QUxHPYNoVm3FMhcazkaUVtw8R82hSwWVFoTFZzFZhmfFMGuwyuLFJxn7ODm5/KUqfoimOZvRO1VZCR2dCsRn7LaDbiqOq5xMQZDVzr8+zdnAfcqW89xYiWw7lcirrBad054A3LMJJhwqitN7l5M+gjp3spFtuYzkzVguGgKdtK5vIhxonLDagbL521KYkLYp56rVSwO+pWlqDGPjOqelE6Izcxbi6Kd1FZkhA0YPIpHFAO/dvnlPkd+rIw+k6zeUTxan5iH+Cg3AftxqFp5iP+lpFGhTrIkM11EuXYmTGvld/sQ==;oGHPVl0yPiTqmekizIPbSQ=="
 ---

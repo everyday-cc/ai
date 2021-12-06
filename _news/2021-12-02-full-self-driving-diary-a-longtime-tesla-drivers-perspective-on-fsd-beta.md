@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressio
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.mercurynews.com/wp-content/uploads/2021/11/SJM-Z-WALTERS-OPED-1102.jpg?w=1024&#038;h=783"
         width: 1024
         height: 783
+        isCached: true
+  - title: "Tesla rolls out new Full Self-Driving Beta update with improved object spotting"
+    excerpt: "The updates delivered via the new version of Tesla FSD Beta program include improved object detection network architecture for cars, trucks and buses..Another update includes improved stopping position at unprotected left turns."
+    publishedDateTime: 2021-12-06T08:24:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting-41638776731380.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting/amp-41638776731380.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting/amp-41638776731380.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/12/06/600x338/TESLA-AUTOPILOT-INVESTIGATION-0_1636954665977_1638777893284.JPG"
+        width: 600
+        height: 337
         isCached: true
   - title: "Tesla’s Full Self-driving Beta 10.6 emphasis on precision of movements"
     excerpt: "Tesla's Full Self-Driving (FSD) technology update will be the 10.6 version. Tesla is focusing on three things with this update."

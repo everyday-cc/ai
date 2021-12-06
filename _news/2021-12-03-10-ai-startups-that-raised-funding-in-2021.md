@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/10-ai-startups-that-raised-funding-i
 webUrl: "https://analyticsindiamag.com/10-ai-startups-that-raised-funding-in-2021/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Wispr AI Raises $4.6M in Seed Funding"
-    excerpt: "Wispr AI, a San Francisco, CA-based neurotechnology company aimed at developing the next generation of human-computer interfaces, closed $4.6m in seed funding"
-    publishedDateTime: 2021-12-01T16:09:00Z
-    webUrl: "https://www.finsmes.com/2021/12/wispr-ai-raises-4-6m-in-seed-funding.html"
+  - title: "How AI-Powered Startups Are Improving IVF"
+    excerpt: "In-vitro fertilization (IVF) is \"too hard,\" patients say. A slew of new startups want to improve the IVF process with artificial intelligence."
+    publishedDateTime: 2021-12-02T21:20:00Z
+    webUrl: "https://www.bustle.com/wellness/ai-powered-startups-ivf-success"
     type: article
     provider:
-      name: finsmes.com
-      domain: finsmes.com
+      name: Bustle
+      domain: bustle.com
     quality: 39
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2021/12/image-3.jpeg"
-        width: 500
-        height: 327
+      - url: "https://imgix.bustle.com/uploads/image/2021/12/2/cc1ccd42-a787-401f-9f0e-906bda0cf28c-credit-cavan-images_gettyimages-961085158.jpg?w=1200&h=630&fit=crop&crop=faces&fm=jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "5TZIljp8xpSM0XXX3u/um+yuua62MLQlrJQMx59wecAo2rd6FTAyIaacx9fkB04z8cdjRiWNsfjsZFG8Ejy2EGpDZxk8rwihTSt3NxEhM2lOtw3WhPrvgvrXhr3oycNCJKCzPiJdN68GM0KOvXXo2J+zP48aTo5aaCFGo5k7SoxHKYQTjAB0CxZC2Ksbvanw9nKHLB+fEo2Aworyf2y8nGxxwcLNjQcNksKpWh7A09kYegipv6eRK2gVv1yw0UAgfqNNDIf+U5Q379TtF2jCzbm9tueQOfsyX6LI0mqhM4tleafBZHixF5ga+nvA5nGPka9Rbmfp4AHUdE714FilASxMZNOfPNMQHL3oJ3T2I2E=;4z3e7kz86BiXC2okrsA4Jw=="

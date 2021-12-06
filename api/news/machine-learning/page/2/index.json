@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-01-swimming-australia-making-gold-medalists-with-machine-learning.md",
+      "title": "Swimming Australia: Making Gold Medalists With Machine Learning",
+      "excerpt": "For Swimming Australia, a more unified view of data was essential to optimizing athlete performance at the Tokyo Olympic games—and bringing home nine gold medals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a556232a037d3c244a6212%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/amp/",
+      "publishedDateTime": "2021-11-30T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-3-ways-ai-and-machine-learning-can-transform-public-agencies.md",
       "title": "3 Ways AI and Machine Learning Can Transform Public Agencies",
       "excerpt": "Over the past decade, Artificial Intelligence and Machine Learning (AI/ML) have moved from the realm of science fiction into the corporate and governmental mainstream. But while executives know what AI/ML is on a conceptual level, fewer leaders understand ...",
@@ -1324,59 +1376,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-a-decade-in-deep-learning-and-whats-next.md",
-      "title": "A decade in deep learning, and what's next",
-      "excerpt": "Twenty years ago, Google started using machine learning, and 10 years ago, it helped spur rapid progress in AI using deep learning. Jeff Dean and Marian Croak of Google Research take a look at how we’ve innovated on these techniques and applied them in helpful ways, and look ahead to a responsible and",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/decade-deep-learning-and-whats-next/",
-      "originalUrl": "https://blog.google/technology/ai/decade-deep-learning-and-whats-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/decade-deep-learning-and-whats-next/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/decade-deep-learning-and-whats-next/amp/",
-      "publishedDateTime": "2021-11-18T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
       ]
     }
   ],

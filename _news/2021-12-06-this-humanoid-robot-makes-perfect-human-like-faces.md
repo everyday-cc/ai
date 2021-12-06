@@ -1,29 +1,27 @@
 ---
 category: news
 title: "This humanoid robot makes perfect human-like faces"
-excerpt: "As robots evolve to do more work around us, the UK-based humanoid robot manufacturer Engineered Arts has infused more human-like facial expressions in.."
-publishedDateTime: 2021-12-06T05:56:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/this-humanoid-robot-makes-perfect-human-like-faces/88117142"
-webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/this-humanoid-robot-makes-perfect-human-like-faces/88117142"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/this-humanoid-robot-makes-perfect-human-like-faces/88117142"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/this-humanoid-robot-makes-perfect-human-like-faces/88117142"
+excerpt: "As robots evolve to do more work around us, the UK-based humanoid robot manufacturer Engineered Arts has infused more human-like facial expressions into one of its robots, which may leave you with an eerie feeling."
+publishedDateTime: 2021-12-06T06:35:00Z
+originalUrl: "https://www.sify.com/finance/this-humanoid-robot-makes-perfect-human-like-faces-news-technology-vmgg9meebdchd.html"
+webUrl: "https://www.sify.com/finance/this-humanoid-robot-makes-perfect-human-like-faces-news-technology-vmgg9meebdchd.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-88117142,imgsize-7866,width-1200,height-628,overlay-etcio/this-humanoid-robot-makes-perfect-human-like-faces.jpg"
-    width: 1200
-    height: 628
+  - url: "https://www.sify.com/uploads/robot_vmbkixjfijggg.jpg"
+    width: 1708
+    height: 1500
     isCached: true
 
 related:
@@ -71,7 +69,21 @@ related:
         width: 1269
         height: 580
         isCached: true
+  - title: "Robots Make Eerily Lifelike Facial Expressions"
+    excerpt: "In a video posted on YouTube last month, a UK-based designer and manufacturer of humanoid robots, Engineered Arts, unveiled one of its most lifelike creations. The robot, known as Ameca, is shown performing a series of extremely humanlike facial expressions in the video."
+    publishedDateTime: 2021-12-06T06:30:00Z
+    webUrl: "https://bestgamingpro.com/robots-make-eerily-lifelike-facial-expressions/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2021/12/A-humanoid-robot-makes-eerily-lifelike-facial-expressions.png"
+        width: 1000
+        height: 600
+        isCached: true
 
-secured: "5RiHO4a1NAxt7Ii4GCMGCpRl/oIeNaOqcOBRFY8Z4zPJqOu4CuvGtE44tprrM4SbF50cysz9ltiYdxY2p2CD9NYIGedCnuMkEWsGhZ4pB0w8JVObSA8q3FtFYdrx2oDBajtudICl/Pj9kjRExWtQlws4MwpawbNvxjqPJJ4VO1uzwRZrgBxcXooCGMc1l31b2I9HpBwh1h697AKVH6jJ/r2CK9ey4ycijfZAv1qv4+WQgPO56na2GbeIt51weaTAnjaStTcUvWMHsJxS1RA+sDJX3ugc8+/SETFR12Qkzj7MwHMDGrkbjwevAVTshq86NzsvsTbdra8g/uuRwD+1VYbRio1spR8CcPX+cssNU0w=;IXpDDT0p7b+RDE/pE2p6BA=="
+secured: "ots/8s+BZ6hDT2VQpKRiQ019PQXv3IZLkVlUl7SHu/1rqflr9IYR9urevnVim8NNv/3I9xXaVfgfXaz4+dFGsUV1pTm4l3BNsMzHRbjP8kJtjBzrTpQgm3XG00WyVlayPteb2ZYW9bILITqkvJlLh7m+aZF8S43Gvb7VyvUxb76ckQLDhQ+jaPAH/SI66wVokG5NrfHItYX8PeeDOOIuffEBN9ND71PYvkYa62Kw8sZ9QkYcoRDUK3qf1hiJglMRcswIrTVjiLyxQ5/iF2hix8kEnnF87jJEGKGE1H4D/0ZZHN96XLltgmNY6jm4b2jSHjQ1YMU0m423KoXhmtXmMXjHGRzuuF010dUFofbyvBU=;zdUBTj1gezMCpp0p4ikAxQ=="
 ---
 

@@ -132,6 +132,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-04-robots-made-from-living-cells-learned-how-to-replicate-themselves.md",
+      "title": "Robots made from living cells learned how to replicate themselves",
+      "excerpt": "Xenobots, which are \"living robots\" made of frog cells, are simple robots that can move autonomously in a petri dish. When scientists added more cells to the dish, the xenobots pushed them together to form new xenobots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598",
+      "originalUrl": "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.6272805.1638559444!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/xeno-headline.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.6271598",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598",
+      "publishedDateTime": "2021-12-03T14:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools.md",
       "title": "How the 'Great Resignation' is accelerating the use of robotics and AI-based tools",
       "excerpt": "artificial intelligence with machine learning, robotics, high-speed data streaming and a slew of other technologies, Reinharz says. The revolution will include the use of autonomous remote services, commonly known as robotics, and will benefit industries ...",
@@ -183,7 +226,7 @@
       "originalUrl": "https://www.republicworld.com/technology-news/science/humanoid-robot-ameca-shows-most-accurate-facial-expressions-in-new-video-watch.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -278,7 +321,7 @@
       "originalUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -590,7 +633,7 @@
       "originalUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1336,58 +1379,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-28-meet-the-robot-that-can-write-poetry-and-create-artworks.md",
-      "title": "Meet the robot that can write poetry and create artworks",
-      "excerpt": "When people think of artificial intelligence, the images that often come to mind are of the sinister robots that populate the worlds of \"The Terminator,\" \"i, Robot,\" \"Westworld,\" and \"Blade Runner.\" For many years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/11/27/tech/ai-da-robot-intl-scli-gbr/index.html",
-      "originalUrl": "https://www.cnn.com/2021/11/27/tech/ai-da-robot-intl-scli-gbr/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/211127084013-01-ai-da-robot-file-102321-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/11/27/tech/ai-da-robot-intl-scli-gbr/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/11/27/tech/ai-da-robot-intl-scli-gbr/index.html",
-      "publishedDateTime": "2021-11-27T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,259 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-11-08-singapore-to-boost-ai-research-funds-start-bank-partnerships.md",
+      "title": "Singapore to Boost AI Research Funds; Start Bank Partnerships",
+      "excerpt": "Singapore will introduce two artificial-intelligence programs in finance and government, and allocate an additional S$180 million ($133 million) for research into the technology, according to Deputy Prime Minister Heng Swee Keat.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-boost-ai-research-funds-start-bank-partnerships",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-08/singapore-to-boost-ai-research-funds-start-bank-partnerships",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGtzxPrVHurM/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-07T17:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-indian-ai-market-to-reach-soaring-heights-by-2025.md",
+      "title": "Indian AI market to reach soaring heights by 2025",
+      "excerpt": "CIOs looking to keep pace with their competitors will need to up their spending on AI in the coming years. IDC forecasts that businesses will adopt it to address organizational needs such as real-time analysis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.html",
+      "originalUrl": "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/08/thinkstockphotos-99261890-100609753-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3639514/indian-ai-market-to-reach-soaring-heights-by-2025.amp.html",
+      "publishedDateTime": "2021-11-07T16:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-hondas-asimo-robot-sheds-a-few-pounds-gets-all-autonomous-on-us-video.md",
+      "title": "Honda's ASIMO robot sheds a few pounds, gets all autonomous on us (video)",
+      "excerpt": "We've already seen it dance, sing and read minds, but Honda's ASIMO humanoid has now taken that one great leap into decidedly more dystopian territory. The revamped bot, pictured above (and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2011-11-08-hondas-asimo-robot-sheds-a-few-pounds-gets-all-autonomous-on-u.html",
+      "originalUrl": "https://www.engadget.com/2011-11-08-hondas-asimo-robot-sheds-a-few-pounds-gets-all-autonomous-on-u.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Sr_Sa1xj_dLffLB4ZjAWkw--~B/aD00NjU7dz0zNDY7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2011/11/asimo.jpg",
+          "width": 346,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/2011-11-08-hondas-asimo-robot-sheds-a-few-pounds-gets-all-autonomous-on-u.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2011-11-08-hondas-asimo-robot-sheds-a-few-pounds-gets-all-autonomous-on-u.html",
+      "publishedDateTime": "2021-11-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027.md",
+      "title": "Global Artificial Intelligence Robotics Market Report Shows Demand to Boost Industry Growth from 2021 to 2027",
+      "excerpt": "With this report titled Global Artificial Intelligence Robotics Market 2021-2027, research analysts of MarketsandResearch.biz help us to present our clients with insightful data on the investment or growth opportunities in the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027-2021-11-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-robotics-market-report-shows-demand-to-boost-industry-growth-from-2021-to-2027-2021-11-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-07T13:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-h2oai-secures-100m-lands-partnership-with-australian-bank.md",
+      "title": "H2O.ai secures $100M, lands partnership with Australian bank",
+      "excerpt": "H2O.ai, an AI development platform, has raised a fresh $100 million, bringing its total to over $250 million at a $1.6 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/",
+      "originalUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/amp/",
+      "publishedDateTime": "2021-11-07T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-seeq-announces-expanded-microsoft-azure-machine-learning-support.md",
       "title": "Seeq Announces Expanded Microsoft Azure Machine Learning Support",
       "excerpt": "(MENAFN- Mid-East.Info) New Seeq Azure Add-on feature enables rapid deployment of Azure Machine Learning algorithms to frontline plant employees. Seeq Corporation, a leader in manufacturing and ...",
@@ -902,247 +1155,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-intel-arc-alchemist-gpu-shows-off-ai-based-xess-magic-in-new-riftbreaker-video.md",
-      "title": "Intel Arc Alchemist GPU shows off AI-based XeSS magic in new Riftbreaker video",
-      "excerpt": "Two of the leading technologies in this generation's GPU wars have been Nvidia's Deep Learning Super Sampling (DLSS) and AMD's FidelityFX Super Resolution (FSR). Both promise",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
-      "originalUrl": "https://www.techspot.com/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/10/2021-10-29-image-18.jpg",
-          "width": 1914,
-          "height": 1221,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92108-intel-ai-based-xess-shows-promise-new-4k.html",
-      "publishedDateTime": "2021-11-06T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-alphabet-just-launched-a-company-thats-using-ai-to-design-new-drugs.md",
-      "title": "Alphabet Just Launched a Company That's Using AI to Design New Drugs",
-      "excerpt": "Alphabet has launched a new company called Isomorphic Labs which will use artificial intelligence (AI) to discover new pharmaceutical drugs. The venture will reportedly rely on advancements made by Alphabet’s DeepMind whose AI uses a model called AlphaFold2 to predict the shape of proteins with incredible accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
-      "originalUrl": "https://interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/Z3G8xEAzGm/sizes/proteinss_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/alphabet-launched-company-using-ai-to-design-new-drugs",
-      "publishedDateTime": "2021-11-06T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-rise-of-the-robots-speeds-up-in-pandemic-with-us-labor-scarce.md",
-      "title": "Rise of the Robots Speeds Up in Pandemic With U.S. Labor Scarce",
-      "excerpt": "American workers are hoping that the tight pandemic ... labor market will translate into better pay. It might just mean robots take their jobs instead. Labor shortages and rising wages are pushing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-06/rise-of-the-robots-speeds-up-in-pandemic-with-u-s-labor-scarce",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-06/rise-of-the-robots-speeds-up-in-pandemic-with-u-s-labor-scarce",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/illkdk7Rv8g8/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-06T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-streaming-the-best-films-about-artificial-intelligence-and-robots.md",
-      "title": "Streaming: the best films about artificial intelligence and robots",
-      "excerpt": "A century of sci-fi films that chart our changing attitudes to AI – from Fritz Lang to Finch “Old-fashioned” is generally not a term you want to hear applied to science fiction, a genre from which one tends to expect the futuristic and unfamiliar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.imdb.com/news/ni63458033?mode=desktop",
-      "originalUrl": "https://www.imdb.com/news/ni63458033?mode=desktop",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-06T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IMDb",
-        "domain": "imdb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-tagalong-robots-follow-you-to-learn-where-you-go.md",
-      "title": "Tagalong robots follow you to learn where you go",
-      "excerpt": "Follower robots have been under development since the late 1990s, beginning on the ground and extending underwater and into the sky. Initial forms relied on following the location of a tag in a person’s pocket,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2021/11/tagalong-robots-follow-you-to-learn-where-you-go/?comments=1&start=0",
-      "originalUrl": "https://arstechnica.com/gadgets/2021/11/tagalong-robots-follow-you-to-learn-where-you-go/?comments=1&start=0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/robot-trailing-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

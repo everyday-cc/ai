@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Artificial intelligence aids intuition in mathematical discovery"
-    excerpt: "Machine-learning tools have been used to assist the part of mathematical research that usually relies on human intuition and creativity — leading to two fundamental results in different areas of mathematics."
-    publishedDateTime: 2021-12-01T16:27:00Z
-    webUrl: "https://www.nature.com/articles/d41586-021-03512-4"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 52
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-03512-4/d41586-021-03512-4_19909408.png"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Mathematical discoveries take intuition and creativity – and now a little help from AI"
     excerpt: "To find the answers, mathematicians like me try to find patterns that relate complicated mathematical objects by making conjectures (ideas about how those patterns might work), which are promoted to theorems if we can prove they are true."
     publishedDateTime: 2021-12-01T17:10:00Z
@@ -71,6 +57,6 @@ related:
         height: 397
         isCached: true
 
-secured: "AjIR9UdAn6oPEzpHmy9wWp6rNldAR6da7/2P7KDzNovvubRzB0oieiDrHlmnU8vBDALyIpmwzv3sdyE+HZo3JDS9rLwufJiR7kacFgx2fTWnCr1AV9q3U9nBPDoudHmgtvv3R8KZERtDJbUj2mffDh3KZHA39oBfQfsHKrLk/7bTLFT8j0K2WXV2qOkhYZHQPKzEK2IhXxclUivwRn8lltDERA1CIto6lD31o/XI7pbBVNPAWSTqGK7cpI+6CEa/17ILoALS0SFsKGHwIyAReuDY9h+38/2ljZRgK75OLLW6om58oH8E5qBOIkNROAnDHqq/f3bDDzbhdDXs3sVB+iyhPiON/EZxvaIykkxrsTQ=;FN/YZxGgkWmYU254BnO60w=="
+secured: "kjYpJvHFcdWKbMoznLDJtJtcyVd0aaE/cavVSIvx8PZPkRLdSuNvodCqtxzo4JVFfZs8DwKazzvjBw4h9r3Fpw2l6wyTEWYXL5dHQoL1Add2m/gPFmZL4wKO5CpbaXIyjY+tsbDLUywws/0s2H6zl67GFLtCakAYozE/+SO0uZcXdKXcyTDu3uuH2XuOoU6fkRExrJCih0cZR8avPXpOwaeBOBc4qdjTr27b0EEQttp/ROZbwZ1uFkb8TByKWkM7kyiVHIJplfcd46sAw7xLupuiKvEtdlcK0GwPq/srAdbgDwH9Xc6uHd72Xga7QG9kyHVkSWRX7X1QpgEh1KbUgUyP+wWXJd5t/LczCnm9dIE=;v1zT/D9E2FiAAXwP4zCJ0w=="
 ---
 

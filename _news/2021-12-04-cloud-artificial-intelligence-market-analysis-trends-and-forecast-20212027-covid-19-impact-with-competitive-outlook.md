@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "AI could help doctors make the best use of ICU beds during the COVID-19 pandemic"
+    excerpt: "New technology could help doctors make the most of limited resources during the COVID-19 pandemic by identifying patients who require intensive care unit (ICU) treatment."
+    publishedDateTime: 2021-12-06T08:36:00Z
+    webUrl: "https://techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 52
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/icu-1.jpg"
+        width: 2880
+        height: 1620
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
     publishedDateTime: 2021-12-03T12:21:00Z
@@ -50,15 +66,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 28
-  - title: "AI could help doctors make the best use of ICU beds during the COVID-19 pandemic"
-    excerpt: "New technology could help doctors make the most of limited resources during the COVID-19 pandemic by identifying patients who require intensive care unit treatment."
-    publishedDateTime: 2021-12-06T05:08:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/936861"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 12
 
 secured: "X2MafzH3TLYORou+8E6tOSBoqoeYe7OngmWlRo62jHAqPhB2jaVQWoQGuUtNx7/M9fetLQXbrXgDqDjttxYjDgelZuFCa+dlWyAwEDSvfLsxRt0W2QeOL5H/oONVVFHqeJ+DoLCZU9l9uwAuCTzLc8wFbz/Z8e9NPP/17fc/wSrDXf9qpKpLnCxGxtzQmaTNAoaolzpBNaAWwXe39XeRNsMjfVRSP2XqK1elSwJMCyx++5az46FAnAHGKoNXU7UOJZbZmMT3sED6hmbaT+m075JooKJtQf3YCRnXTvnkGZu+C/68iqwWQVgoEa+vnOUF/U4SuNpq/mPzEqj2xPNqygL5gUoRkbJo9E4mgr3E8wE=;aywI5p2QSy6kA8bnqfgZRA=="
 ---

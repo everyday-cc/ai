@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-09-21-blackbirdai-grabs-10m-to-help-brands-counter-disinformation.md",
+      "title": "Blackbird.AI grabs $10M to help brands counter disinformation",
+      "excerpt": "New York-based Blackbird.AI has closed a $10 million Series A as it prepares to launched the next version of its disinformation intelligence platform this fall. The Series A is led by Dorilton Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/",
+      "originalUrl": "https://techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/26400512912_b3ff16ccf0_k.jpg?w=1024",
+          "width": 1024,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/21/blackbird-ai-grabs-10m-to-help-brands-counter-disinformation/amp/",
+      "publishedDateTime": "2021-09-21T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-hashtag-trending-september-21-ios-15-facebook-pushes-back-on-wsj-allegations-ai-and-real-estate.md",
       "title": "Hashtag Trending September 21- iOS 15; Facebook pushes back on WSJ allegations; AI and real estate",
       "excerpt": "Facebook also claims that the research they have found does not demonstrate that the mental health issues are “widespread,” and that many of those issues are not “easy to address.” Artificial intelligence is taking over real estate – here’s ...",

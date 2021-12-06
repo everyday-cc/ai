@@ -2,6 +2,239 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-11-19-face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027-at-a-cagr-of-105-valuates-reports.md",
+      "title": "Face and Voice Biometrics Market size is Projected To Reach USD 10760 Million By 2027 At A CAGR of 10.5% - Valuates Reports",
+      "excerpt": "Face & Voice Biometrics Market is segmented by By Type - Face Biometrics, Voice Biometrics, By Application - Banking, Financial Services & Insurance",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027/article_31c770f9-2932-52f2-8954-609504635c1a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/face-and-voice-biometrics-market-size-is-projected-to-reach-usd-10760-million-by-2027/article_31c770f9-2932-52f2-8954-609504635c1a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-19T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-new-book-discusses-essential-digital-skills-in-the-ai-age-iq-eq-dq.md",
+      "title": "New Book Discusses Essential Digital Skills In The AI Age: IQ, EQ & DQ",
+      "excerpt": "The DQ Institute, NUS and Penguin Random House SEA, announces the launch of Dr Yuhyun Park’s book entitled “IQ, EQ, DQ: New Intelligence in the AI Age” for readers interested in mastering digital skills and online safety.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-online-safety-df4cfe926f0e0057f48837063b90bef2",
+      "originalUrl": "https://apnews.com/press-release/MarketersMEDIA/technology-online-safety-df4cfe926f0e0057f48837063b90bef2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-19T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-advancing-ai-with-data-and-machine-learning-what-else-is-needed.md",
+      "title": "Advancing AI With Data And Machine Learning: What Else Is Needed?",
+      "excerpt": "The U.S. and almost all countries today identify AI as a critical strategic area in the future of computing. Companies are more invested than ever in discovering how AI can provide advantages in their competitive markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192287243%2F0x0.jpg",
+          "width": 1200,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/amp/",
+      "publishedDateTime": "2021-11-19T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-self-driving-robots-key-to-future-of-food.md",
+      "title": "Self-driving robots key to future of food",
+      "excerpt": "The acquisition is a sign of rapid maturation in smart farming, which uses IoT sensors and AI to manage farm operations with unprecedented precision and is helping reshape food manufacturing in wealthy markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/self-driving-robots-key-to-future-of-food/",
+      "originalUrl": "https://www.zdnet.com/article/self-driving-robots-key-to-future-of-food/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/8bd3f5ef1c28fdf85a3689f525d2b04b8cf1279d/2021/11/18/e7a61c0c-776f-47ae-a4da-65f3f96a2951/fieldin-tractor-1.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/self-driving-robots-key-to-future-of-food/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-robots-key-to-future-of-food/",
+      "publishedDateTime": "2021-11-19T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-jensen-huang-gets-chip-industrys-highest-honor-28-years-after-founding-nvidia.md",
+      "title": "Jensen Huang gets chip industry’s highest honor 28 years after founding Nvidia",
+      "excerpt": "About 38 years after he started Nvidia, CEO Jensen Huang received the chip industry's highest honor, the Robert N. Noyce Award.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/",
+      "originalUrl": "https://venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/omni-6-Making-of-NVIDIA-GTC-NVIDIA-Omniverse.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/jensen-huang-gets-chip-industrys-highest-honor-38-years-after-founding-nvidia/amp/",
+      "publishedDateTime": "2021-11-19T03:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-overcoming-the-technological-speed-bumps-on-the-road-to-autonomous-driving.md",
       "title": "Overcoming The Technological Speed Bumps On The Road To Autonomous Driving",
       "excerpt": "Three years ago, fully autonomous vehicles (AVs) that could take passengers 'anywhere' were supposed to have arrived on the market — at least according (paywall) to a 2015 prediction from Elon Musk. Musk was hardly alone.",
@@ -926,231 +1159,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-we-tried-teslas-full-self-driving-heres-what-happened.md",
-      "title": "We tried Tesla’s ‘full self-driving.’ Here’s what happened",
-      "excerpt": "The software is still in Beta and is currently available to only a select group of Tesla owners, though CEO Elon Musk has claimed that a wider rollout is imminent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/",
-      "originalUrl": "https://www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/",
-      "publishedDateTime": "2021-11-18T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-what-happens-when-ai-falls-into-the-wrong-hands.md",
-      "title": "What Happens When AI Falls Into The Wrong Hands?",
-      "excerpt": "However, as with any nascent technology, AI has the potential to cause harm when placed in the wrong hands. We’ve begun seeing AI used for nefarious purposes, chiefly in the form of AI-facilitated Cyberattacks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/",
-      "originalUrl": "https://www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61968b78eabb15899588bc19%2F0x0.jpg",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/deep-instinct/2021/11/18/what-happens-when-ai-falls-into-the-wrong-hands/amp/",
-      "publishedDateTime": "2021-11-18T09:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-pge-tests-ai-machine-learning-for-wildfire-detection.md",
-      "title": "PG&E Tests AI, Machine Learning For Wildfire Detection",
-      "excerpt": "By Kimberly Chin PG&E Corp. is testing artificial intelligence and machine learning in some of its high-definition cameras in Northern and Central",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/pg-e-tests-ai-machine-learning-for-wildfire-detection-271637259309",
-      "originalUrl": "https://www.marketwatch.com/story/pg-e-tests-ai-machine-learning-for-wildfire-detection-271637259309",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/pg-e-tests-ai-machine-learning-for-wildfire-detection-271637259309",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/pg-e-tests-ai-machine-learning-for-wildfire-detection-271637259309",
-      "publishedDateTime": "2021-11-18T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-af-blakemore-sales-rise-by-12-in-first-quarter-following-disrupted-year-of-trade.md",
-      "title": "AF Blakemore sales rise by 12% in first quarter following disrupted year of trade",
-      "excerpt": "According to its latest financial results filed this week ... New functionality includes voice search supported by machine learning algorithms providing a more accurate result when the retailer searches online for a product. It also has enhanced product ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thegrocer.co.uk/convenience/af-blakemore-sales-rise-by-12-in-first-quarter-following-disrupted-year-of-trade/661984.article",
-      "originalUrl": "https://www.thegrocer.co.uk/convenience/af-blakemore-sales-rise-by-12-in-first-quarter-following-disrupted-year-of-trade/661984.article",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmrqkbkq8el9i.cloudfront.net/Pictures/1024x536/3/6/0/250360_a.f.blakemoresbedforddistributioncentreexterior_521992_crop.jpg",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T09:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grocer",
-        "domain": "thegrocer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots.md",
-      "title": "ABB partners with start-up Sevensense to drive next generation autonomous mobile robots",
-      "excerpt": "ABB invests in Swiss start-up and ETH Zurich spin-off Sevensense Robotics (Sevensense), a leading provider of artificial intelligence (AI) and 3D visual technology • Integrating Sevensense AI and navigation technology will enable future autonomous mobile robots (AMR) to work in more dynamic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/news/2021/11/18/abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots/17816/",
-      "originalUrl": "https://www.roboticstomorrow.com/news/2021/11/18/abb-partners-with-start-up-sevensense-to-drive-next-generation-autonomous-mobile-robots/17816/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

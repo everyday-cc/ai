@@ -43,20 +43,6 @@ related:
         width: 1048
         height: 590
         isCached: true
-  - title: "Using AI for accurately predicting synergistic cancer drug combinations"
-    excerpt: "A research team led by a scholar from City University of Hong Kong (CityU) has recently developed a novel artificial intelligence (AI) framework that can make synergistic anti-cancer drug combination predictions on both the therapeutic and toxic effects."
-    publishedDateTime: 2021-12-01T15:31:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/936492"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/a1767d85-5672-4eae-9001-61fde9ac24ec/Rendition/low-res/Content/Public"
-        width: 700
-        height: 409
-        isCached: true
   - title: "Artificial Intelligence Predicts Synergistic Drugs"
     excerpt: "New study revealed the potential of using AI and machine learning to identify effective drug combinations in therapies for cancers."
     publishedDateTime: 2021-12-02T09:13:00Z

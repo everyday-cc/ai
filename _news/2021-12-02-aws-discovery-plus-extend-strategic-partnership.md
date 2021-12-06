@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend
 cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/BrqKp374eMt7ua6V9k3wzg-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Discovery taps AWS to power rollout of discovery+"
-    excerpt: "and Amazon Rekognition (AWS’s service for automated image and video analysis) to extract and tag video content with metadata to provide viewers with a searchable video library and more personalized recommendations. “AWS provides the unparalleled ..."
-    publishedDateTime: 2021-12-01T15:03:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=150311"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 39
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/ArticleImage/141916-1200-by-630-personalized-viewing--307606049-ORG.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AWS increases relationship with Discovery"
     excerpt: "Amazon Web Services (AWS) has extended its relationship with Discovery as the broadcaster looks to the cloud to feed 450 linear TV channels and streaming service Discovery+."

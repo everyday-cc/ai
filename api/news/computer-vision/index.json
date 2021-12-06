@@ -141,21 +141,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-03-facial-recognition-technology-could-change-the-face-of-indian-airports.md",
-      "title": "Facial recognition technology could change the face of Indian airports",
-      "excerpt": "With the Airports Authority of India (AAI) working on a facial recognition technology-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports, including Varanasi,",
+      "path": "_news/2021-12-03-facebook-exiting-the-facial-recognition-game.md",
+      "title": "Facebook Exiting The Facial Recognition Game",
+      "excerpt": "Meta, the company formerly known as Facebook is pulling the plug on its facial recognition program. It's planning to delete more than one billion people’s individual facial recognition templates, and",
       "sourceUrl": null,
-      "webUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html",
-      "originalUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html",
+      "webUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/",
+      "originalUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 141,
       "tags": null,
       "images": [
         {
-          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/images/2019/1/3/face-facial-recognition-software-system-computer-shut.jpg",
-          "width": 760,
-          "height": 443,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a77b820a07bba1e37323e3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -163,14 +163,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html",
-      "publishedDateTime": "2021-12-03T07:08:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/",
+      "publishedDateTime": "2021-12-03T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -179,8 +188,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -236,49 +246,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-aai-working-on-facial-recognition-based-passenger-boarding-system-government.md",
-      "title": "AAI working on facial recognition-based passenger boarding system: Government",
-      "excerpt": "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/articleshow/88056152.cms",
-      "originalUrl": "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/articleshow/88056152.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/resizemode-4,msid-88056152,imgsize-5438,width-800/88056152.jpg",
-          "width": 800,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88056152.cms",
-      "cdnAmpWebUrl": "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88056152.cms",
-      "publishedDateTime": "2021-12-02T07:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gadgets Now",
-        "domain": "gadgetsnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-replai-uses-computer-vision-and-data-analysis-to-figure-out-the-best-video-ads.md",
       "title": "Replai uses computer vision and data analysis to figure out the best video ads",
       "excerpt": "Replai automates analysis of video ad effectiveness and it makes recommendations for how to fix details to make ads more engaging.",
@@ -318,6 +285,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt.md",
+      "title": "Facial recognition tech at 4 airports to be introduced by March 2022: Govt",
+      "excerpt": "The Airports Authority of India (AAI) is working on a project of FRT-based Biometric Boarding System as part of the first phase of Digi Yatra Implementation at four airports",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html",
+      "originalUrl": "https://www.business-standard.com/article/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2013-09/24/full/1380033844-9265.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html",
+      "publishedDateTime": "2021-12-02T01:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -998,6 +1008,50 @@
       ]
     },
     {
+      "path": "_news/2021-11-23-cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation.md",
+      "title": "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation",
+      "excerpt": "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-streetlogic-launches-computer-vision-based-e-bike-collision-warning-system-raises-21m.md",
       "title": "Streetlogic launches computer vision-based e-bike collision warning system, raises $2.1M",
       "excerpt": "Streetlogic wants to help e-bike riders have a safer experience on the road. The company announced a $2.1 million pre-seed raise, as well as the launch of its flagship product, a surround-view camera that can predict front,",
@@ -1099,41 +1153,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation.md",
-      "title": "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation",
-      "excerpt": "CVG is using computer vision, AI, and advanced technologies to manage capacity constraints while maintaining its commitment to customer service and brand reputation TaskWatch enhances CVG with self-service capability to deploy custom computer vision applications in an ever-evolving business landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20211123005473/cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     },
     {

@@ -73,6 +73,22 @@ related:
         width: 1024
         height: 783
         isCached: true
+  - title: "Tesla rolls out new Full Self-Driving Beta update with improved object spotting"
+    excerpt: "The updates delivered via the new version of Tesla FSD Beta program include improved object detection network architecture for cars, trucks and buses..Another update includes improved stopping position at unprotected left turns."
+    publishedDateTime: 2021-12-06T08:24:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting-41638776731380.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting/amp-41638776731380.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting/amp-41638776731380.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/12/06/600x338/TESLA-AUTOPILOT-INVESTIGATION-0_1636954665977_1638777893284.JPG"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "h1dzSICdi6//41O7pGCOR6mEiq4pHJT6JpwPctUSJ8k6VeOVEse9NKrdQrVVhFbITD+GAPVA119f6VI+3Pjios9oYyTgleQHJsSMWXtHcoO1vf2Nv0hUhv6kGAAau+kdctx0KcjoJQpKjNXUxr9r4/gHcQu1rF57gWygjPZ2aii1s4guy1o3+sXfF8ZulRP+qvqdZ0WQ3x5KmVTuD+5ARNt1iZRphpyUjlX4eGhcoSS/4I7Gj0SvvQjzUKVhRvyQgzwmobxxfOveTEOjKi/gqXzi8lFsWeXJTTz+EXmplFd9YDLAQWz4P9jzr5pnxVIKw2SK5z0hgdzkg/v+lFSaVDvzJOu7CByHBu92y/apI4y1HvV66PRPfaPgBV8Q8N0C/ApKPDVupCCsEFXGVgfIe2LqAd6OPr00qfP+DICp5qdQkXTWsDRtMB19q4mag09xnPzs1kt4aaoK5CJ04GMRhysnfNYSmr9ntsguoIVgyxITA0ITFg44brmo4MjXgNE+MvGNjwK3AgWvS0BxGkIEIw==;vNkNhdlO1z0MtrdFCmCuIw=="
 ---

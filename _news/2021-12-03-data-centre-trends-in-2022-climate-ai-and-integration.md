@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "How AI and Automation Are Transforming Legal Teams for the Better"
-    excerpt: "How can legal firms benefit by transitioning away from traditional contract management processes and adopting AI and automation?"
-    publishedDateTime: 2021-12-01T15:31:00Z
-    webUrl: "https://www.lawyer-monthly.com/2021/12/how-ai-and-automation-are-transforming-legal-teams/"
-    type: article
-    provider:
-      name: Lawyer Monthly
-      domain: lawyer-monthly.com
-    quality: 39
-    images:
-      - url: "https://www.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2021/12/Matt-Gould_ContractPodAi.jpg"
-        width: 990
-        height: 660
-        isCached: true
   - title: "Revisiting Enterprise Artificial Intelligence in 2022: Challenges and Opportunities"
     excerpt: "Skepticism about AI in enterprises may have been justified a decade ago, but a lot has changed. See how old challenges have been addressed in today’s landscape."
     publishedDateTime: 2021-12-02T18:47:00Z

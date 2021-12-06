@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brough
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's New Self-Labeling AI Just Brought It One Step Closer to Level-3 Automation"
-    excerpt: "Tesla's self-labeling AI just brought Elon Musk's firm a step closer to level-3 automation! And it could roll out in the Full Self-Driving Beta."
-    publishedDateTime: 2021-12-01T16:33:00Z
-    webUrl: "https://interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
-    ampWebUrl: "https://amp.interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 68
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/3oOplPZVOW/sizes/teslas-new-self-labeling-ai-just-brought-it-one-step-closer-to-level-3-automation_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
     excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving (FSD) beta,"
     publishedDateTime: 2021-12-03T00:45:00Z
