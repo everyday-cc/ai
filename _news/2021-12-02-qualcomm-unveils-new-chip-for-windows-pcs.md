@@ -51,22 +51,6 @@ related:
         width: 800
         height: 448
         isCached: true
-  - title: "Chip-maker Qualcomm joins hand with Google Cloud to create next-gen mobile AI models"
-    excerpt: "Chip-maker Qualcomm is working hard to give users a powerful, smooth function chipset with improved AI capabilities, for which the tech company has partnered with Google Cloud to"
-    publishedDateTime: 2021-12-01T11:13:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/chip-maker-qualcomm-joins-hand-with-google-cloud-to-create-next-gen-mobile-ai-models/articleshow/88026590.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/chip-maker-qualcomm-joins-hand-with-google-cloud-to-create-next-gen-mobile-ai-models/amp_articleshow/88026590.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/chip-maker-qualcomm-joins-hand-with-google-cloud-to-create-next-gen-mobile-ai-models/amp_articleshow/88026590.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 69
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-46718,msid-88030230/chip.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Qualcomm ditches TSMC, lets Samsung produce new chips"
     excerpt: "But some officials said that behind Qualcomm's selection of Samsung in the latest deal is TSMC's accelerated focus on making customized chips for Apple. Samsung's foundry service unit is said to have lost its status as a leading foundry service provider for the production of Nvidia's next-generation graphic processing unit (GPU) chips."
     publishedDateTime: 2021-12-02T06:24:00Z
@@ -114,20 +98,6 @@ related:
       - url: "https://www.androidbeat.com/wp-content/uploads/2021/12/Snapdragon-8-Gen-1-hero.png"
         width: 2000
         height: 1125
-        isCached: true
-  - title: "Qualcomm unveils its latest flagship Snapdragon chip"
-    excerpt: "US mobile chip giant Qualcomm is so happy with its latest top-end SoC that it has even revamped the naming scheme."
-    publishedDateTime: 2021-12-01T12:31:00Z
-    webUrl: "https://telecoms.com/512436/qualcomm-unveils-its-latest-flagship-snapdragon-chip/"
-    type: article
-    provider:
-      name: Telecoms
-      domain: telecoms.com
-    quality: 39
-    images:
-      - url: "https://telecoms.com/wp-content/blogs.dir/1/files/2021/12/Snapdragon-8-Gen-1-1024x561.jpg"
-        width: 1024
-        height: 561
         isCached: true
   - title: "Qualcomm Announces the World’s First 5nm Chip for Windows Laptops"
     excerpt: "The Snapdragon 8 Gen 1 was not the only major announcement at Qualcomm’s recent Tech Summit. The American chipmaker is"

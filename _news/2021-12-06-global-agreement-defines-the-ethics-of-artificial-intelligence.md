@@ -7,8 +7,8 @@ originalUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916
 webUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916-global-agreement-defines-the-ethics-of-artificial-intelligence"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: IDN-InDepthNews
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Unesco member states adopt AI ethics recommendation"
-    excerpt: "The non-binding recommendation seeks to define a common set of values and principles to guide the development of ethical AI globally"
-    publishedDateTime: 2021-12-01T12:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252510287/Unesco-member-states-adopt-AI-ethics-recommendation"
-    ampWebUrl: "https://www.computerweekly.com/news/252510287/Unesco-member-states-adopt-AI-ethics-recommendation?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510287/Unesco-member-states-adopt-AI-ethics-recommendation?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
   - title: "UNESCO Member States unanimously adopt first-ever global agreement on AI ethics"
     excerpt: "On 25 November 2021, all 193 Member States of the United Nations Educational, Scientific and Cultural Organisation (UNESCO) unanimously agreed to a Recommendation on the Ethics of Artificial Intelligence. To quote the UNESCO headline, this is \"the first ..."
     publishedDateTime: 2021-12-03T22:54:00Z

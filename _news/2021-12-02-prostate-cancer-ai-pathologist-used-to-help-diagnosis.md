@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.co.uk/news/uk-wales-59491186"
 webUrl: "https://www.bbc.co.uk/news/uk-wales-59491186"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
-    excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"
-    publishedDateTime: 2021-12-04T02:02:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 38
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg"
-        width: 770
-        height: 400
-        isCached: true
   - title: "Using AI to help Pathologists detect Prostate Cancer"
     excerpt: "I recently read about two interesting AI solutions developed by healthcare organizations partnering with outside researchers in order to combat serious illnesses. This article is about one with a startup company spinoff from New York Memorial Sloan Kettering Cancer Center."
     publishedDateTime: 2021-12-04T01:47:00Z

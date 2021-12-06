@@ -84,17 +84,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Mindtree achieves AI and Machine Learning on Microsoft Azure advanced specialization"
-    excerpt: "Mindtree announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner's deep knowledge, extensive experience and proven success in enabling customer adoption of AI and implementing Azure solutions for machine learning life cycle and AI-powered apps."
-    publishedDateTime: 2021-12-01T12:46:00Z
-    webUrl: "https://www.business-standard.com/article/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/mindtree-achieves-ai-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101276_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 79
   - title: "Mindtree has earned Microsoft Azure specialization"
     excerpt: "Partners with the Microsoft Azure advanced specialization can provide the tools and knowledge to develop AI solutions on their terms"
     publishedDateTime: 2021-12-02T08:43:00Z

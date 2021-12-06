@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressio
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-full-self-driving-fsd-impressions/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla releases new footage of auto labeling tool for its self-driving effort"
-    excerpt: "Tesla’s head of AI has released new footage of the automaker’s auto labeling tool for its self-driving effort. It’s expected to be an important accelerator in improving Tesla’s Full Self-Driving Beta."
-    publishedDateTime: 2021-12-01T11:14:00Z
-    webUrl: "https://electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/"
-    ampWebUrl: "https://electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 86
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/12/Tesla-auto-labeling.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla pushes new Full Self-Driving Beta update with improved object detection"
     excerpt: "Tesla has started to push a new Full Self-Driving Beta software update (version 10.6) to its fleet with improved object detection. It’s the latest step in the long road to improve the FSD package and deliver on a promise to customers that has been delayed several times."
     publishedDateTime: 2021-12-04T19:32:00Z

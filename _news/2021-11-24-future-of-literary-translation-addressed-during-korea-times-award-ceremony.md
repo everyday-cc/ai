@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Future of literary translation addressed during Korea Times award ceremony"
-excerpt: "Participants in the 52nd Modern Korean Literature Translation Awards pose during a ceremony at the Lotte Hotel in central Seoul, Wednesday. From left are Korea Times President-Publisher Oh Young-jin;"
-publishedDateTime: 2021-11-24T07:45:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl"
-webUrl: "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl"
+excerpt: "\"In terms of translation accuracy, AI may be better than humans. But languages are complex and nuanced, and there are extra-linguistic factors such as context or emotional output that need to be taken into consideration. There's creative aspects of ..."
+publishedDateTime: 2021-11-24T07:44:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw"
+webUrl: "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 653
     isCached: true
 
-secured: "Ea9tINwJ61JUtpqw8gv7m+VgALpS7JYNhnnel+KARauCSwPaFWKUf0ktj9zNaTxHaXIDmEcdLCAg80G/VtUkGzvDywBzQGRCE5grRuwqAE12oJzv5gKpBKrBAna553+oy3fxSYOHG2i7VMXSlhskvhyhKpBq3EgONFt1LZgmwgjSwuw6VH6Tv+JrU7VWGjXlH++eXmWwqi9IPoN5V/lwk64Kz2CCQw1P9qovuVqgfudrfE6tKtSupPOs8ZXjZwptALW4filDkyq6u2tkZHfYK6Jm5WAw+q3RA8z9dlJHAGCd5uqoDxFuR0k5b2pB/gGTrBxCC7EK0pBucq2dBn5TvBsnDZtcM5ZZDGME+3KEXFwu4MKX7zlpZystLlrgBvs1tkG+RZzaEPH4AUdUYKS4HxFnhPZpOo6RgzhAVQ1jjwgZ9UghGXIDObwhaMm66DtqqHqpjAHIncRGFcNNtW/Dc5X+vZ2H3VIVr93mHDh7I2mgazt+IQ4HmMDu0vQ/Ut2fwXGaEJJQND867lUVbmB/tA==;T/TFCq1wVVNGbheLh5ceJg=="
+secured: "B3uFzO+2EF58jyJiUaiAhf/cUFd54MONpXajD/Ok0hxWa/3E+FGI714WihzONVngPhnpHqelEVUbGRQUSz6ISgF7tLjvRJOD0G62umY1Eu7tmv0/QO1CIxFpDdQyJ0uGE7bwDEqW5U+B4gq7KYwxTfqvwoXlwFoR5/w1nhwnGaGwr1evUw4MjNA1+u6wPfmeLk7xjLVbtQg5n6WezdPq5IdzY7tDSk0phcTCDK1fDvDlla9OsHogZD6EOqCjUZxNz4EGYjwrD+b7l0s7S3ao+IEFWWqDE3qMW92BvqEHVQ4jjZKbKG65eWBh+6v92HsLbalUeKV4gCrbUeIX6m0dr8vVEUVYd2xcaaGzCjLJE1A=;7GBbnbpvuv0ljS/A2W6eXA=="
 ---
 

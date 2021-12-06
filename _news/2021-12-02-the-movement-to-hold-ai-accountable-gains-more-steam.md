@@ -33,9 +33,9 @@ images:
 
 related:
   - title: "The movement to hold AI accountable gains more steam"
-    excerpt: "Standards for audits and auditors are important because growing calls to regulate AI have led to the creation of a number of auditing startups, some by critics of AI, and others that might be more favorable to the companies they are auditing."
+    excerpt: "Now, efforts are underway to better understand how AI works and hold users accountable. New York’s City Council last month adopted a law requiring audits of algorithms used by employers in hiring or promotion."
     publishedDateTime: 2021-12-05T13:10:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/2/"
+    webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/?comments=1"
     type: article
     provider:
       name: Ars Technica

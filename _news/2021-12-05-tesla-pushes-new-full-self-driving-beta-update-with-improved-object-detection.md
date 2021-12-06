@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla releases new footage of auto labeling tool for its self-driving effort"
-    excerpt: "Tesla’s head of AI has released new footage of the automaker’s auto labeling tool for its self-driving effort. It’s expected to be an important accelerator in improving Tesla’s Full Self-Driving Beta."
-    publishedDateTime: 2021-12-01T11:14:00Z
-    webUrl: "https://electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/"
-    ampWebUrl: "https://electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/01/tesla-releases-new-footage-auto-labeling-tool-self-driving/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 86
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/12/Tesla-auto-labeling.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
     excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving” (FSD) beta,"
     publishedDateTime: 2021-12-02T14:00:00Z

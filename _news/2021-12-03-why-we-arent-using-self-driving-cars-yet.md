@@ -115,15 +115,20 @@ related:
         width: 4032
         height: 3024
         isCached: true
-  - title: "J.D. Power study: consumers possess inaccurate knowledge of fully automated self-driving vehicles"
-    excerpt: "While the automotive industry continues to move toward fully automated, self-driving vehicles, the pace is not being matched by educational efforts that will help bring buyers into the modern mobility movement."
-    publishedDateTime: 2021-12-01T11:41:00Z
-    webUrl: "https://www.greencarcongress.com/2021/12/20211201-jdp.html"
+  - title: "Contenders in self-driving trucking"
+    excerpt: "As the year nears a close, the self-driving truck industry is gaining momentum. Many companies notched major technical and business-related milestones in recent months. Here's a look at what each company has done in 2021,"
+    publishedDateTime: 2021-12-06T04:00:00Z
+    webUrl: "https://www.autonews.com/shift/contenders-self-driving-trucking"
     type: article
     provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 0
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AURORA-MAIN_i_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "Xw85yhu8YudSvcmMral6LUqlGkM/Eyqaqeep4n1JQjKkpHaj1J0e1hO2esR0bGHX9zrnJvx8wZFwT402AhzJsoqt2r5oOrpHz7kRlj5Ff/UKPM7fZHRfNP3DVErsgxk0ttXssUaMraXb2aPgPQIvejnj0HaSfN0qFB2cvAcxF9OdQZb686/IqKK2QsBrMPpe7YiFV4nWPjc5MUO0GcXl94pPIw+LbvWveNO9RTVZAYCGVnKJ9XCLNG/3ZuDI7Qyxcx+0vX5P6Iidsj/AOQ0DVnCy2ILTIigCNJvuoEkPO+1o6J50reuBlgzdbds+L0mPTq8wwUl5maWToj3zTE1x3FroHxORonJysJ8Hl3j/dLmCREuX8DSDvaF5xhlCw1LLJTq/TqsYZjbSltEyphF9eNpzOjX11/lYCICvJW6c1JB6lgO0WPsOid/Wjt/G5v3F5e3KbUVD0cIoHk6iNmW9isa9sCvSrzB6mOiku8o2ke8x3uzA+jHAJYGb7KhqP8MgN0PFv8mb8qWrWb9mdIY22Q==;BC4uMSrn7aFKFes5CstcfQ=="
 ---

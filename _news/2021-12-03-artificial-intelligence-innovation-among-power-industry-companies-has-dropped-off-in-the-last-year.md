@@ -7,7 +7,7 @@ originalUrl: "https://www.power-technology.com/features/artificial-intelligence-
 webUrl: "https://www.power-technology.com/features/artificial-intelligence-innovation-power-industry-companies/"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 500
     height: 334
     isCached: true
+
+related:
+  - title: "Artificial intelligence innovation among retail industry companies rebounded in the last quarter"
+    excerpt: "Research and innovation in artificial intelligence in the retail sector has rebounded in the last quarter. The most recent figures show that the number of AI patent applications in the industry stood at 111 in the three months ending September – down from 120 over the same period last year."
+    publishedDateTime: 2021-12-02T12:08:00Z
+    webUrl: "https://www.retail-insight-network.com/features/artificial-intelligence-innovation-among-retail-industry-companies-rebounded-in-the-last-quarter/"
+    type: article
+    provider:
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 39
+    images:
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/shutterstock_594560369.jpg"
+        width: 500
+        height: 334
+        isCached: true
 
 secured: "39R408TVd7NI39B5N0x6lwceSScybxGaVC1ObZysFPQqufZAetWTyr0cAeQL5uU4NDIVnAuiMJYauAZnHIoq9sHWYe56qIxBHmNLprzEO0wxVqOvmvNApqM7WE8JI4FVXvN882sIe5uEmp6nBMv39FWTFPVkfMRB+pOcDIG+H1+n/hXcuQwDKZNRdCVH/o5E4NIJHlCLq+Ry+WbtApUguH39i5drcyD0Rqsd/tiG9kxsGb7QFc/6mW0t0LtEwt6pAgFOxIaZ/hLbCPcJFmEnK3PfEgcwgy55JTf2ELq1G2O/u9bjQzPcbHKIK4XXmQIrEqDtgf2EkWFEDbj1k0UdvlnBQm1dEPAzwOW/h266Q1BUhmFVsJ4VNHi7/lBfN8CdJwNxoun38YAyEEBwANuaEhicV4Cmce9uD9tDKCOpOFuzkP1EAHh42kg656CQltsK76UEPI4V3DFzUp5SfOnvSQoS/uhXejRknh7wqn+YoNUBpqqfToOFOVgMhg+VLowN6m6WvVevCvm2E7tuK2YyAw==;3X8qyUvDckcRzj8do6bWzg=="
 ---

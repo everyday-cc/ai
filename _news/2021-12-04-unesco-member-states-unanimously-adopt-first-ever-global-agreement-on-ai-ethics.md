@@ -43,17 +43,6 @@ related:
         width: 750
         height: 337
         isCached: true
-  - title: "Unesco member states adopt AI ethics recommendation"
-    excerpt: "The non-binding recommendation seeks to define a common set of values and principles to guide the development of ethical AI globally"
-    publishedDateTime: 2021-12-01T12:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252510287/Unesco-member-states-adopt-AI-ethics-recommendation"
-    ampWebUrl: "https://www.computerweekly.com/news/252510287/Unesco-member-states-adopt-AI-ethics-recommendation?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510287/Unesco-member-states-adopt-AI-ethics-recommendation?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 54
 
 secured: "kl3ZMcIBrshQQ6XDkLkjxvNcDn/ZVEeJHa8sbT+GleC9pbntUwixu1F7seH6/Nc5LLxb2Mz8NLjsT3PY7Pr4+N39CeqeBfHY9ypVX2sz4e3/Jw7rijsvjFtoM4aGYXJnkPLP4jt96MN4pqXQz/Bx/SY1IMC6AvC/hg08dOhwYXX9zKzVxKwEIF7MwG3sXIrcIUjygFgjsUk7Uot1fMFKdX1rPkMz73gAUlJBZ35xa5f0m0nRtoDSfiX+LniRxG/7R3VhaJVgCrFEzvoQ7EtwHFi5St9yJO7RV/899nz0I46FkQ040MlwSgagBHrXNubpYr5UuZ4+NpvEoWJT1oFbiiednoa4CO/2+NeG7OXuqrqHs7fBsi4wwQtbyUj/xUfPGPjS6mnNedqfLe8raomMigu/cN31MN29MKKnxfnRTZONxk/GEkkoOmIKu6zeqrLSg9ohj5aRnGVxQUwn2KU/dvVwrKs+u5S/YO3KLWrvhXJHDlSRSztFAeX/lzrS0Y+t3E+FLZkucMjPf1opzqpayA==;OPdIY3uxWSXvfvJimwESwg=="
 ---

@@ -103,20 +103,6 @@ related:
         width: 1485
         height: 1080
         isCached: true
-  - title: "Scientists Say They Have Created Self-Replicating 'Living Robots'"
-    excerpt: "There are many things that are possible if we take advantage of this kind of plasticity and ability of cells to solve problems.'"
-    publishedDateTime: 2021-12-01T12:39:00Z
-    webUrl: "https://ijr.com/scientists-created-self-replicating-living-robots/"
-    type: article
-    provider:
-      name: ijr.com
-      domain: ijr.com
-    quality: 39
-    images:
-      - url: "https://ijr.com/wp-content/uploads/2021/11/Xenobots.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Team builds first living robots that can reproduce"
     excerpt: "Now scientists at the University of Vermont, Tufts University, and the Wyss Institute for Biologically Inspired Engineering at Harvard University have discovered an entirely new form of biological reproduction—and applied their discovery to create the first-ever,"
     publishedDateTime: 2021-12-02T15:57:00Z

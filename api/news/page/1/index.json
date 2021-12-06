@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-06-global-agreement-defines-the-ethics-of-artificial-intelligence.md",
-      "title": "Global Agreement Defines The Ethics of Artificial Intelligence",
-      "excerpt": "A historic agreement defines the common values and principles needed to ensure the healthy development of Artificial Intelligence (AI). All the member states of the UN Educational, Scientific and Cultural Organization ( UNESCO) have signed the agreement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indepthnews.info/index.php/sustainability/poverty/4916-global-agreement-defines-the-ethics-of-artificial-intelligence",
-      "originalUrl": "https://www.indepthnews.info/index.php/sustainability/poverty/4916-global-agreement-defines-the-ethics-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.indepthnews.info/images/artificial_intelligence.jpg",
-          "width": 750,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-05T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IDN-InDepthNews",
-        "domain": "indepthnews.info",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-12-06-nsw-transport-and-cisco-to-run-ai-and-iot-trials-to-ease-congestion-on-public-transport.md",
       "title": "NSW Transport and Cisco to run AI and IoT trials to ease congestion on public transport",
       "excerpt": "Several buses, ferries, and light rail services in Sydney and Newcastle will used to investigate how a real-time view of those services can guide improvement for reliability, future network decisions,",
@@ -106,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -146,7 +102,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -158,7 +115,7 @@
       "originalUrl": "https://www.scmp.com/news/china/science/article/3158522/chinese-researchers-turn-artificial-intelligence-build",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -355,7 +312,7 @@
       "originalUrl": "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -690,7 +647,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 275,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -935,7 +892,7 @@
       "originalUrl": "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1208,6 +1165,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign.md",
+      "title": "Moloco Earns 2021 SMARTIES Award for Machine Learning & AI Campaign",
+      "excerpt": "Esteemed marketing trade association MMA has recognized Moloco as a leader in marketing technology REDWOOD CITY, Calif. (PRWEB) Moloco (",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/p24428632/moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/p24428632/moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24428632",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24428632",
+      "publishedDateTime": "2021-12-03T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

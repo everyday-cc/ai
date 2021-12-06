@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/how-do-we-support-digital-transform
 webUrl: "https://www.linkedin.com/pulse/how-do-we-support-digital-transformation-fintech-industry-"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     width: 1200
     height: 720
     isCached: true
-
-related:
-  - title: "Robots extend reach in the food industry"
-    excerpt: "Robot use in food manufacturing is increasing. While robots are more common in the US than in the EU, several EU countries boast the highest levels"
-    publishedDateTime: 2021-12-01T11:46:00Z
-    webUrl: "https://think.ing.com/articles/robots-extend-reach-in-the-food-industry/"
-    type: article
-    provider:
-      name: ING
-      domain: ing.com
-    quality: 39
-    images:
-      - url: "https://think.ing.com/uploads/hero/_w800h450/Roboticarms.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Artificial intelligence innovation among retail industry companies rebounded in the last quarter"
-    excerpt: "Research and innovation in artificial intelligence in the retail sector has rebounded in the last quarter. The most recent figures show that the number of AI patent applications in the industry stood at 111 in the three months ending September – down from 120 over the same period last year."
-    publishedDateTime: 2021-12-02T12:08:00Z
-    webUrl: "https://www.retail-insight-network.com/features/artificial-intelligence-innovation-among-retail-industry-companies-rebounded-in-the-last-quarter/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 39
-    images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/shutterstock_594560369.jpg"
-        width: 500
-        height: 334
-        isCached: true
 
 secured: "JPWeziXuzeAolQubUHmrcp0MMS3Up340884UtJKlkqybwpjojS8oelhOEJcI57XH3CF8pZKxz6Fzwm0lydWGKzW5Jf026TwofzbZpBMO+C5Urg5Bb/o9ocSCLCOzF0sQ2sPk/lK0A1l2YEyENTRxTbrf6/u2s+bXXR7uCDz5eR8AEpWPZsWELIvy4phSnQP92dj6veUdmtc6LBqGIAfOVqqxvlpC9BHos3VnFTCxrqGLql+cXt1zpDxi2IAT3LlN6CCTTTelYsHyywXPyVFZFlBjhTPna3aqT/8YvAh2cwOY4sdRro6aIoJajHe/Ui+RGAcEps2A0bLDrLyLhNMs9t1kC0lg5h9+QAowynN17Ns=;+j+3hTS77fk4gdGBPy/CPQ=="
 ---

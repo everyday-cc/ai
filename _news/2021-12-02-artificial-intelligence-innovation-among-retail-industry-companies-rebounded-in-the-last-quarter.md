@@ -7,7 +7,7 @@ originalUrl: "https://www.retail-insight-network.com/features/artificial-intelli
 webUrl: "https://www.retail-insight-network.com/features/artificial-intelligence-innovation-among-retail-industry-companies-rebounded-in-the-last-quarter/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,33 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Robots extend reach in the food industry"
-    excerpt: "Robot use in food manufacturing is increasing. While robots are more common in the US than in the EU, several EU countries boast the highest levels"
-    publishedDateTime: 2021-12-01T11:46:00Z
-    webUrl: "https://think.ing.com/articles/robots-extend-reach-in-the-food-industry/"
+  - title: "Artificial intelligence innovation among power industry companies has dropped off in the last year"
+    excerpt: "Research and innovation in artificial intelligence in the power industry operations and technologies sector has declined in the last year. The most recent figures show that the number of AI patent applications in the industry stood at 127 in the three months ending September – down from 185 over the same period last year."
+    publishedDateTime: 2021-12-03T10:00:00Z
+    webUrl: "https://www.power-technology.com/features/artificial-intelligence-innovation-power-industry-companies/"
     type: article
     provider:
-      name: ING
-      domain: ing.com
-    quality: 39
+      name: Power Technology
+      domain: power-technology.com
+    quality: 23
     images:
-      - url: "https://think.ing.com/uploads/hero/_w800h450/Roboticarms.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "How Do We Support Digital Transformation in the Fintech Industry?"
-    excerpt: "The Fintech Industry has seen some exciting changes in the last few years. AI, voice recognition, SaaS cloud services, better online banking, increased security and protection… these are just some of the latest FinTech trends that prove that there's a lot of potential still to be reached."
-    publishedDateTime: 2021-12-01T13:38:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-do-we-support-digital-transformation-fintech-industry-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQE3jqiw6R4B2w/article-cover_image-shrink_720_1280/0/1638199043166?e=1643846400&v=beta&t=UYR1394C07GfEMs4ZBK5JPGRnSYVHo-QDwwVmwE0IKk"
-        width: 1200
-        height: 720
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/10/shutterstock_1097273573.jpg"
+        width: 500
+        height: 334
         isCached: true
 
 secured: "9lkRWpU4clj8yALi4PnNauuymtv5VF4VWEkKTpjrHw1aC8jMekFGoYCAIXMUVfxmPhte8Mn0mgqGiXSidJBEZ18MXh2Ix/YmZzlrsPMc+tZI/lVabkg0ZqVnzGFCmGZ6E+xkd2Jho35+mwGwJjVQmPmdCoeTA04R7PGsqXIe/27/F/uJuOjhS7pFENB7m3+4vhuYJS39gCrgGGgTjjD+Ct6PhEMBTLraa0M2YAZv/tm2UVj/6b/UBwp/Vn9DxqOJbvnX1VWGdfkQulH307iJK59+2gaTjcFdEpBVXyqsSISPLoGEZcXVO3STBla71pbWDuBALxHoAbTOMGO9Z50kE+3aa2EDDIlZHL5Pcku3M6VGTnopiOkolwDWgZKRNlLStti9w60SVZRazH//oUf1ElvZYSPiIHZ3EX8phOyCQ9GRK3fmqkCPh7Co7pA9N6B3d97Pr9wbBX8gH0KhDBp1S/qwy4gStgq5Jdnm0oTkEyt4OmQBUly42cyfKK2oD+b15+ufZHT/33QTaT3oc0GKlQ==;VgPPTzcbrMvR98e0cW8iyg=="

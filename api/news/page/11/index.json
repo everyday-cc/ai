@@ -2,153 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2021-11-25-robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens.md",
-      "title": "Robots and AI assist in designing and building Swiss university’s ‘hanging gardens’",
-      "excerpt": "Architecture and construction have always been, rather quietly, at the bleeding edge of tech and materials trends. It’s no surprise, then, especially at a renowned technical university like ETH Zurich,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/",
-      "originalUrl": "https://techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Semiramis_RFL_DSC_7692.jpg?w=1024",
-          "width": 1024,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/amp/",
-      "publishedDateTime": "2021-11-24T12:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-2021-makex-robotics-competition-north-american-open-ends-successfully.md",
-      "title": "2021 MakeX Robotics Competition North American open. ends successfully",
-      "excerpt": "The robot itself is a complex system that combines ... There is a world of possibilities in STEAM ranging from artificial intelligence to the Internet of Things and the hope is that through ...",
-      "sourceUrl": null,
-      "webUrl": "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/",
-      "originalUrl": "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theislandnow.com/wp-content/uploads/2021/11/IMG_4408-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/amp/",
-      "cdnAmpWebUrl": "https://theislandnow-com.cdn.ampproject.org/c/s/theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/amp/",
-      "publishedDateTime": "2021-11-24T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Island Now",
-        "domain": "theislandnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-mediatek-chips-had-faced-a-vulnerability-that-allowed-apps-to-eavesdrop-on-users.md",
-      "title": "MediaTek chips had faced a vulnerability that allowed apps to eavesdrop on users",
-      "excerpt": "Earlier today (25th November 2021), a vulnerability was spotted in the AI and audio processing components in recently launched MediaTek chipsets. This vulnerability would’ve allowed apps to eavesdrop on users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/",
-      "originalUrl": "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/gsmarena_000.jpg",
-          "width": 1220,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/?amp=1",
-      "publishedDateTime": "2021-11-24T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-25-ibm-and-david-clark-cause-crown-saaf-water-winner-of-4th-annual-call-for-code-global-challenge.md",
       "title": "IBM and David Clark Cause Crown Saaf Water Winner of 4th Annual Call for Code Global Challenge",
       "excerpt": "Moved to prevent further suffering in their community and around the world, Saaf Water built a solution using IBM Cloud and IBM Watson services ... technology using AI, blockchain, and cloud ...",
@@ -764,10 +617,10 @@
     {
       "path": "_news/2021-11-24-future-of-literary-translation-addressed-during-korea-times-award-ceremony.md",
       "title": "Future of literary translation addressed during Korea Times award ceremony",
-      "excerpt": "Participants in the 52nd Modern Korean Literature Translation Awards pose during a ceremony at the Lotte Hotel in central Seoul, Wednesday. From left are Korea Times President-Publisher Oh Young-jin;",
+      "excerpt": "\"In terms of translation accuracy, AI may be better than humans. But languages are complex and nuanced, and there are extra-linguistic factors such as context or emotional output that need to be taken into consideration. There's creative aspects of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl",
-      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2021/11/262_319395.html?fl",
+      "webUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw",
+      "originalUrl": "https://www.koreatimes.co.kr/www/culture/2021/11/262_319395.html?tw",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -786,7 +639,7 @@
       "type": "article",
       "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395",
       "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319395",
-      "publishedDateTime": "2021-11-23T23:45:00-08:00",
+      "publishedDateTime": "2021-11-23T23:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "koreatimes.co.kr",
@@ -1156,6 +1009,163 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "IDC estimates that the global artificial intelligence (AI) market is on track to generate $327.5 billion in revenue in 2021, a jump of 16.4% over last year. The research firm anticipates that spending on AI-related hardware,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/11/23/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2021/11/23/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F654320%2Fwoman-buying-stock-mobile-phone.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/23/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/23/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2021-11-23T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-simplified-mlops-with-deep-java-library.md",
+      "title": "Simplified MLOps with Deep Java Library",
+      "excerpt": "This is a guest post by Lucas Baker, Andrea Duque, and Viet Yen Nguyen of Hypefactors.&nbsp;&nbsp; At Hypefactors, we build tech for media intelligence and reputation management. The solution is a software as a service (SaaS) product that does large-scale media monitoring of social media, news sites,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplified-mlops-with-deep-java-library/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplified-mlops-with-deep-java-library/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T12:11:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-how-careem-is-detecting-identity-fraud-using-graph-based-deep-learning-and-amazon-neptune.md",
+      "title": "How Careem is detecting identity fraud using graph-based deep learning and Amazon Neptune",
+      "excerpt": "This post was co-written with Kevin O’Brien, Senior Data Scientist in Careem’s Integrity Team. Dubai-based Careem became the Middle East’s first unicorn when it was acquired by Uber for $3.1 billion in 2019. A pioneer of the region’s ride-hailing economy, Careem is now expanding its services to include",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-careem-is-detecting-identity-fraud-using-graph-based-deep-learning-and-amazon-neptune/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-careem-is-detecting-identity-fraud-using-graph-based-deep-learning-and-amazon-neptune/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/12/ML-5154-image001.png",
+          "width": 986,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T11:59:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
       ]
     }
   ],

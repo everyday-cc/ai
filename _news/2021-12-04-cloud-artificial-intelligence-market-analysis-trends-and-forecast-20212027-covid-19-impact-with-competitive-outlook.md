@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "How artificial intelligence can fight Long COVID"
-    excerpt: "Clinicians pivoted their AI efforts to engage in the battle against the COVID-19 pandemic. How can it help those with persistent symptoms - \"long COVID\"?"
-    publishedDateTime: 2021-12-01T12:35:00Z
-    webUrl: "https://dataconomy.com/2021/12/how-artificial-intelligence-long-covid/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 39
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/12/how-artificial-intelligence-fight-long-covid.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
     publishedDateTime: 2021-12-03T12:21:00Z

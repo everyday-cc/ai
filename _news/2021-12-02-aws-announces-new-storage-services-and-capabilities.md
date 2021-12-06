@@ -114,20 +114,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AWS Announces Service For Enterprises To Deploy And Scale Private 5G Networks"
-    excerpt: "AWS Identity and Access Management allow network administrators to directly control which mobile devices can access on their private networks."
-    publishedDateTime: 2021-12-01T12:52:00Z
-    webUrl: "https://analyticsindiamag.com/aws-announces-service-for-enterprises-to-deploy-and-scale-private-5g-networks/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 36
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/maxresdefault-2.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Meta/Facebook turns to AWS as \"long-term strategic cloud provider\" for acquisitions, third-party collaborations, and AI"
     excerpt: "Meta said that it will run third-party collaborations in AWS and use the cloud to support acquisitions of companies that are already powered by AWS. It will also use AWS’s compu"
     publishedDateTime: 2021-12-03T11:41:00Z

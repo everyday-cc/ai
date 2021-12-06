@@ -201,20 +201,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Korean Facial Recognition Project Faces Opposition"
-    excerpt: "It was discovered last month that a South Korean government project has been providing millions of facial images taken at Incheon International Airport to private industry without the consent of"
-    publishedDateTime: 2021-12-01T12:00:00Z
-    webUrl: "https://hackaday.com/2021/12/01/korean-facial-recognition-project-faces-opposition/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2021/11/tsa_checkpoint.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "Facial recognition technology at 4 airports to be introduced by March next year: Centre"
     excerpt: "Facial Recognition Technology (FRT) has not yet been introduced at any of the airports in India, replied Minister of State in the Ministry of Civil Aviation General V K Singh (retd) to a question in Lok Sabha on Thursday."
     publishedDateTime: 2021-12-02T20:50:00Z

@@ -2,136 +2,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_news/2021-10-28-top-benefits-of-using-azure-machine-learning.md",
-      "title": "Top Benefits of Using Azure Machine Learning",
-      "excerpt": "Fortunately, Microsoft's Azure Machine Learning empowers organizations to overcome these challenges when deploying and using ML. It delivers comprehensive, simple, robust and responsible services enabling partners to build impactful data driven apps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/Think-About-It/Top-Benefits-of-Using-Azure-Machine-Learning-149029.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/Think-About-It/Top-Benefits-of-Using-Azure-Machine-Learning-149029.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta.com",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-verizon-and-aws-team-up-to-manufacture-a-5g-fueled-future.md",
-      "title": "Verizon and AWS Team Up to Manufacture a 5G-Fueled Future",
-      "excerpt": "Additionally, 5G Edge with AWS Outposts may help optimize costs ... Automation, robotics, IoT, and use of artificial intelligence and machine learning are critical technology initiatives for manufacturers on their digital transformation journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inc.com/verizon-aws/verizon-and-aws-team-up-to-manufacture-a-five-g-fueled-future.html",
-      "originalUrl": "https://www.inc.com/verizon-aws/verizon-and-aws-team-up-to-manufacture-a-five-g-fueled-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/5g-feature-image_484047_rtdl5n.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-ai-links-covid-19-brain-changes-to-alzheimers-disease-like-cognitive-impairment.md",
-      "title": "AI Links COVID-19 Brain Changes to Alzheimer’s Disease-Like Cognitive Impairment",
-      "excerpt": "Cleveland Clinic-led research team used artificial intelligence to uncover association between COVID-19 and brain changes. A new Cleveland Clinic-led study has identified mechanisms by which COVID-19 can lead to Alzheimer's disease-like dementia.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/ai-links-covid-19-brain-changes-to-alzheimers-disease-like-cognitive-impairment/",
-      "originalUrl": "https://scitechdaily.com/ai-links-covid-19-brain-changes-to-alzheimers-disease-like-cognitive-impairment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Brain-Glitch-Stress-Disorder-Concept-777x518.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/ai-links-covid-19-brain-changes-to-alzheimers-disease-like-cognitive-impairment/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/ai-links-covid-19-brain-changes-to-alzheimers-disease-like-cognitive-impairment/amp/",
-      "publishedDateTime": "2021-10-27T16:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-27-how-ipropertycommy-accelerates-property-based-ml-model-delivery-with-amazon-sagemaker.md",
       "title": "How iProperty.com.my accelerates property-based ML model delivery with Amazon SageMaker",
       "excerpt": "This post was created in collaboration with Mohammed Alauddin, Data Engineering and Data Science Regional Manager, and Kamal Hossain, Lead Data Scientist at iProperty.com.my, now part of PropertyGuru Group. iProperty.com.my is the market-leading property portal in Malaysia and is now part of the PropertyGuru",
@@ -1182,6 +1052,162 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality.md",
+      "title": "This Automotive Company Revs Up Machine Learning To Turbocharge Engine Quality",
+      "excerpt": "With help from SAP, Mumbai-based MHEL replaced its outmoded physical engine testing with virtual testing – using artificial intelligence and machine learning while incorporating data from a variety of sources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61794ae90933a60c23050fb1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/10/27/this-automotive-company-revs-up-machine-learning-to-turbocharge-engine-quality/amp/",
+      "publishedDateTime": "2021-10-27T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport.md",
+      "title": "First Look: Delta, TSA Launch Facial Recognition At Atlanta Airport",
+      "excerpt": "The next step in airport automation has become a reality, just in time for the holidays. Delta Airlines, the Transportation Security Administration (TSA), and a travel tech company called Pangiam have partnered up to bring facial recognition technology to the Hartsfield–Jackson Atlanta International Airport (ATL).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6179439eb80f6c3c90620ec3%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferleighparker/2021/10/27/first-look-delta-tsa-launch-facial-recognition-at-atlanta-airport/amp/",
+      "publishedDateTime": "2021-10-27T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-27-how-humans-in-the-loop-ai-can-help-solve-the-data-problem.md",
+      "title": "How Humans-In-The-Loop AI Can Help Solve The Data Problem",
+      "excerpt": "Humans-in-the-loop AI is a niche wherein AI and ML systems are built with human interference at different stages of the cycle, whenever it’s necessary.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61780ffa6b3df3f9956729d6%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/10/27/how-humans-in-the-loop-ai-can-help-solve-the-data-problem/amp/",
+      "publishedDateTime": "2021-10-27T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

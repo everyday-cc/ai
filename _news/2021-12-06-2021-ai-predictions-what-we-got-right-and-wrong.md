@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-wh
 ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/amp/"
 type: article
-quality: 89
-heat: 120
+quality: 91
+heat: 122
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Autos
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a99e630d8e961cf36b5bcc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1048%26cropY1%3D38%26cropY2%3D628"

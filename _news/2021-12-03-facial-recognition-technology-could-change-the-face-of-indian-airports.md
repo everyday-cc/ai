@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-t
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html"
 type: article
 quality: 74
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -186,20 +186,6 @@ related:
       - url: "https://x-default-stgec.uplynk.com/ausw/slices/f9c/45bf940c346f431c9be273b8942ab6eb/f9c346911ec54171a39166a39d302dd0/poster_a84395db2a4e4150ab8f0cdfc18b9575.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Korean Facial Recognition Project Faces Opposition"
-    excerpt: "It was discovered last month that a South Korean government project has been providing millions of facial images taken at Incheon International Airport to private industry without the consent of"
-    publishedDateTime: 2021-12-01T12:00:00Z
-    webUrl: "https://hackaday.com/2021/12/01/korean-facial-recognition-project-faces-opposition/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2021/11/tsa_checkpoint.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Neurotechnology Brings Facial Recognition Solution to Web Apps"
     excerpt: "Neurotechnology has announced a much-improved version of its Face Verification solution featuring enhanced algorithms and support"

@@ -131,20 +131,6 @@ related:
         width: 833
         height: 482
         isCached: true
-  - title: "AWS unveils new Graviton and machine learning chips at re:Invent"
-    excerpt: "Invent gets underway once again, AWS has kicked things off with its next-gen Graviton processor and a new Trainium AI chip."
-    publishedDateTime: 2021-12-01T12:28:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/dec/01/aws-unveils-new-graviton-and-machine-learning-chips-at-reinvent/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 56
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/12/brian-kostiuk-S4jSvcHYcOs-unsplash-scaled.jpg"
-        width: 2560
-        height: 1704
-        isCached: true
   - title: "The Future Of Cloud-Based Machine Learning: Highlights from AWS re:Invent 2021"
     excerpt: "Swami Sivasubramanian is credited with starting a revolution in the IT industry. His innovation was to take the artificial intelligence (AI) and deep learning services that had been so effective for A"
     publishedDateTime: 2021-12-03T13:49:00Z
