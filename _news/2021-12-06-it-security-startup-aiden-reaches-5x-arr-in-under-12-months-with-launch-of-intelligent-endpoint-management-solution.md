@@ -1,29 +1,29 @@
 ---
 category: news
 title: "IT-Security Startup Aiden Reaches 5x ARR in Under 12 Months With Launch of Intelligent Endpoint Management Solution"
-excerpt: "While 2021 brought massive cyberattacks and business disruptions that led to IT leaders feeling added pressure, the team at Aiden brought a unique solution to market. Aiden's intelligent endpoint management solution has demonstrated a 97% reduction in vulnerabilities,"
-publishedDateTime: 2021-12-06T14:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-it-security-startup-aiden-reaches-5x-arr-under-/2021/12/06/9505285.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-it-security-startup-aiden-reaches-5x-arr-under-/2021/12/06/9505285.htm"
+excerpt: "While 2021 brought massive cyberattacks and business disruptions that led to IT leaders feeling added pressure, the team at Aiden brought a unique"
+publishedDateTime: 2021-12-06T13:43:00Z
+originalUrl: "https://starlocalmedia.com/news/state/it-security-startup-aiden-reaches-5x-arr-in-under-12-months-with-launch-of-intelligent/article_195cfd35-8a11-538f-a03c-29addef23ff4.html"
+webUrl: "https://starlocalmedia.com/news/state/it-security-startup-aiden-reaches-5x-arr-in-under-12-months-with-launch-of-intelligent/article_195cfd35-8a11-538f-a03c-29addef23ff4.html"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Star Local Media
+  domain: starlocalmedia.com
 
 topics:
   - AI
   - AI in Security
 
 images:
-  - url: "https://mma.prnewswire.com/media/1703179/1.jpg"
-    width: 400
-    height: 400
+  - url: "https://bloximages.chicago2.vip.townnews.com/starlocalmedia.com/content/tncms/assets/v3/editorial/a/f8/af899b67-6f2b-566b-8a87-3b34f6e48475/61ae25fb81669.image.jpg?crop=750%2C394%2C0%2C178&resize=750%2C394&order=crop%2Cresize"
+    width: 750
+    height: 394
     isCached: true
 
-secured: "1R70/P+Uuxit4Gto9MWWCKTdeBdSqL3ocgEJqmhjeK4j01WzN4w8y2XmFLKIab7Ralm/GfGuFTw+COpHdBuY/nzWT+CcB0km3nhWdkSLt36Q7n7UGaUCToDx51qU8Zwp/rSskb+wcHkb+DknrAyBgOphIPfkh0exHlhgW7bCDLrlbDvkvSaUo4vqHkXV7+mwdBOt6UQdizzzwHmPlSDv+sWXfabwceh5H+Nq5wtj/iAkuZ3/CzkcJXF+2dMdoMsxhveJmnbYNY/3Xu2mwq2L1VYgjYWe6ycVoxfRzm6tXATnhDvaIkf0XZ4KkGYHrYIPE60FpFbxbqPyNmmzr5isPcUm7mh6YyuoJPUv9WE1BW0=;Kry2jWfJ4MKK1VbqaZpEhA=="
+secured: "b4fuT1pnSyYJAgiOFKBk4IcCTJHxA4z1pww9widSNzxQqPimPl/Fyi4dIuVFezq1IidLelIK0bNZdyJ5GNJi6nq/902RXhh6IyzCvCmUDi9GKgz16xiTrpXwycSNjFWRhgIhhYO046//b5sRjYdotLWfbhu/m8IxFs94WhYtJ9c1oYNcf3/7BykzLqNx4zjhTQc6vB9IhmJY3TvffOmYYnVlfYP/ReJi0jtLOqVWT73FwH8rQtlkrLxWExeWe9awqxllnxryjhNxoHcx4h4yv4PXtNnsslJvP+f096zIj/DxhzEVuD4asnRAeLkkRRsinU1Iq0pmqhswuMv9JLdw7lAn9bGTIi1KxaisxwkapIg=;4VLjo/sB6qhHp/JUurb39Q=="
 ---
 

@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
-excerpt: "Elon Musk built his electric car company, Tesla, around the promise that it represented the future of driving — a phrase emblazoned on the automaker’s website."
-publishedDateTime: 2021-12-06T14:32:00Z
-originalUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
-webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
-ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+title: "Inside Tesla as Elon Musk Pushed an Unflinching Vision for Self-Driving Cars"
+excerpt: "The automaker may have undermined safety in designing its Autopilot driver-assistance system to fit its chief executive’s vision, former employees say."
+publishedDateTime: 2021-12-06T10:00:00Z
+originalUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html"
+webUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html"
+ampWebUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
 type: article
-quality: 56
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Daily Press
-  domain: dailypress.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.dailypress.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
-    width: 1200
-    height: 792
+  - url: "https://static01.nyt.com/images/2021/10/06/business/00tesla-autopilot01/00tesla-autopilot01-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -91,6 +95,22 @@ related:
         width: 1024
         height: 782
         isCached: true
+  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
+    excerpt: "Elon Musk built his electric car company, Tesla, around the promise that it represented the future of driving — a phrase emblazoned on the automaker’s website."
+    publishedDateTime: 2021-12-06T16:32:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 58
+    images:
+      - url: "https://www.baltimoresun.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
+        width: 1200
+        height: 792
+        isCached: true
   - title: "Tesla rolls out new Full Self-Driving Beta update with improved object spotting"
     excerpt: "The updates delivered via the new version of Tesla FSD Beta program include improved object detection network architecture for cars, trucks and buses..Another update includes improved stopping position at unprotected left turns."
     publishedDateTime: 2021-12-06T08:24:00Z
@@ -136,6 +156,6 @@ related:
         height: 500
         isCached: true
 
-secured: "LFTeN+ejkGqS57y9ZMXPHXT708oAZsjGbS8GX6uIiF34riCUuhBnRqjc9ikUHilY0qBdrea3yDobDtHlZtSaU8OuFgI3ltCvs6yVPIZUqqkx9AOzc3Ncm/OTQfSP5SSjuDLUnagfGlu5EvUBCAEggOT+tk1igTI51uwCaG+zF1K4owZVy7k0wd2yG7NYjU6I8dTnqXjTuRrMT5D4YeQC517kcT3O8apS+COrcZp4R0bTkO81YhqpwikJXMHI6ytGIYwVyHrBMFoqJ10m0iXFsbmmD8EEIzBA4SZmvc0Ww0mP2Fw2YYsohbtBGdHelltCVJ9U/HEAhhkJCSrLojQ1RZVBjUeXpj3V3/YLh3I+hUw=;2Svloe1lBizlK8k/AnhZ9w=="
+secured: "1xwlvl6OT6Gc9N5DCUAZ2znVxKiJz2rMfTgut4XebzgaBJghM47l/joGNB5dQ/E83H3xb27bzu8RfEw1XyfarVsp0/kv67AYkAfrUKkUnEA41fdsdaHgBdoG2gxf24QydX93pcMKb9EFwY/bzH+dIHoIOewRBzLcXegpzLE0qaqGy/gAAO/8kxH92D3Q/snZv9Lh9xIfWUvhj6XyGC2EsajBOA6E9rF+AJ0zzUWlAixNnDnm7xZ84e6s6B6Xb/5O9vINmrJobwRgdXUi5Aba/rGqnRMVutehfCQjHuGZ/jK5jkcQDVDbSDraHe64UmanS4Zwl+6AVTOmuCxFHzmgp+1dlhQxt7EZ67sfMOCPPac=;08sq0KriSKJisY1GTRR+tA=="
 ---
 

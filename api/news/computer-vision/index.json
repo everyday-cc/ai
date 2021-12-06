@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-06-aws-computer-vision-and-amazon-rekognition-aws-recognized-as-an-idc-marketscape-leader-in-asia-pacific-excluding-japan-up-to-38-price-cut.md",
+      "title": "AWS computer vision and Amazon Rekognition: AWS recognized as an IDC MarketScape Leader in Asia Pacific (excluding Japan), up to 38% price cut, and major new features",
+      "excerpt": "Computer vision, the automatic recognition and description of documents, images, and videos, has far-reaching applications, from identifying defects in high-speed assembly lines, to intelligently automating document processing workflows, and identifying products and people in social media. AWS computer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-computer-vision-and-amazon-rekognition-aws-recognized-as-an-idc-marketscape-leader-in-asia-pacific-excluding-japan-up-to-38-price-cut-and-major-new-features/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-computer-vision-and-amazon-rekognition-aws-recognized-as-an-idc-marketscape-leader-in-asia-pacific-excluding-japan-up-to-38-price-cut-and-major-new-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T08:17:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-12-05-how-to-generate-submit-life-certificate-through-face-recognition.md",
       "title": "How To Generate & Submit Life Certificate Through Face Recognition?",
       "excerpt": "Every central government pensioner is mandated to submit a life certificate every year in November in order to keep their pension effective. Unfortunately, due to the COVID-19 outbreak, Central Government pensioners have been given an extended time limit until December to submit their life certificate online or in person at a bank.",
@@ -53,7 +106,7 @@
       "originalUrl": "https://www.cnet.com/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -285,6 +338,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-picsart-to-acquire-computer-vision-and-ai-company-deepcraft.md",
+      "title": "Picsart to Acquire Computer Vision and AI Company DeepCraft",
+      "excerpt": "As video editing surges on the creator platform, the boutique firm will help accelerate Picsart's video offering through AI and image processing Picsart, the world's",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24408178",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24408178",
+      "publishedDateTime": "2021-12-02T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1315,74 +1411,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-congratulations-to-prof-shaogang-gong-who-has-been-elected-an-ellis-fellow-in-the-ellis-program-multimodal-learning-systems.md",
-      "title": "Congratulations to Prof Shaogang Gong who has been elected an ELLIS Fellow in the ELLIS Program Multimodal Learning Systems.",
-      "excerpt": "ELLIS Fellows are leading scientists in the European ML/AI community who advance science, and also act as ambassadors of ELLIS, thus giving a voice to data-driven AI research in Europe. Further information about the Ellis fellowship can be found here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.qmul.ac.uk/deri/news/congratulations-to-prof-shaogang-gong-who-has-been-elected-an-ellis-fellow-in-the-ellis-program-multimodal-learning-systems.html",
-      "originalUrl": "https://www.qmul.ac.uk/deri/news/congratulations-to-prof-shaogang-gong-who-has-been-elected-an-ellis-fellow-in-the-ellis-program-multimodal-learning-systems.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Queen Mary University of London",
-        "domain": "qmul.ac.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-understanding-the-technology-behind-traffic-sign-recognition-tsr-systems.md",
-      "title": "Understanding the Technology behind Traffic Sign Recognition (TSR) Systems",
-      "excerpt": "It can be used in manufacturing as a part of quality control, object recognition, a way to navigate a mobile robot, or as a way to detect edges in images. To identify the matching area, we have to compare the template image against the source image by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "originalUrl": "https://www.design-reuse.com/articles/41154/traffic-sign-recognition-tsr-system.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
         "images": null,
         "publishers": null,
         "authors": null

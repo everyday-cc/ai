@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766?amp=1"
 type: article
 quality: 88
-heat: 99
+heat: 98
 published: true
 
 provider:

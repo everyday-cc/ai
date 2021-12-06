@@ -2,6 +2,290 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-11-27-the-200-best-amazon-black-friday-deals-still-available.md",
+      "title": "The 200+ Best Amazon Black Friday Deals Still Available",
+      "excerpt": "Many of Amazon's Black Friday deals are still live. Shop the best Cyber Monday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/",
+      "originalUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thewirecutter.com/wp-content/media/2021/11/Amazondeals-2048px-triptych-3x2v2.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/amp/",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/amp/",
+      "publishedDateTime": "2021-11-27T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-27-a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd.md",
+      "title": "A mysterious Chinese GPU firm with deep pockets is gunning for Nvidia and AMD",
+      "excerpt": "Moore Threads has already rolled out its first generation of GPU products, which it is describes as “a standard GPU that includes graphics rendering, universal parallel computing, video codecing [sic],",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
+      "originalUrl": "https://www.techradar.com/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/vRFjq3fcDEZp5RJTjH4u9N-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
+      "publishedDateTime": "2021-11-27T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-27-heres-what-defines-a-self-driving-car.md",
+      "title": "Here's what defines a self-driving car",
+      "excerpt": "Get the breakdown on what is and what isn't a self-driving car. Spoiler: Teslas aren't autonomous. Despite what some companies may say, there are no self-driving cars on sale. None. Zip. Not a single system currently bundled with a new car meets the SAE Scale of Autonomy's standard for a true autonomous car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-definition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/gXDWQg_Y5WW3tSuaBtDtIfx7WLE=/2021/07/22/0374dde4-e7b4-44df-b180-f9ac7be9e38b/2022-gmc-sierra-1500-towing-super-cruise-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-definition/",
+      "publishedDateTime": "2021-11-27T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-27-building-artificial-intelligence-staffing-is-the-most-challenging-part.md",
+      "title": "Building artificial intelligence: staffing is the most challenging part",
+      "excerpt": "Every company worth its weight is set on achieving practical and scalable artificial intelligence and machine learning. However, it's all much easier said than done -- to which AI leaders within some of the most information-intensive enterprises can attest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/building-artificial-intelligence-staffing-is-the-most-challenging-part/",
+      "originalUrl": "https://www.zdnet.com/article/building-artificial-intelligence-staffing-is-the-most-challenging-part/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/82792f320a8b17f93e4402163655922ba45427cb/2021/11/26/ad71fe56-766b-46a9-9ad4-4f14164f0760/path-station-people-train-station-path-october-2016-photo-by-joe-mckendrick.jpg?width=770&height=578&fit=crop&auto=webp",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-27-uae-launches-first-driverless-autonomous-vehicle.md",
+      "title": "UAE launches first driverless autonomous vehicle",
+      "excerpt": "The driverless and 100% electric shuttle is one of the first-ever autonomous vehicles to be deployed in the UAE in a ‘mixed traffic mode’, as it can drive on the road with other cars",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/UAE_launches_first_driverless_autonomous_vehicle-WAM20211127065004189/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/UAE_launches_first_driverless_autonomous_vehicle-WAM20211127065004189/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/210304070927YBEN.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20211127065004189/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20211127065004189/",
+      "publishedDateTime": "2021-11-27T01:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-27-analysis-of-mental-and-physical-disorders-associated-with-covid-19-in-online-health-forums-a-natural-language-processing-study.md",
+      "title": "Analysis of mental and physical disorders associated with COVID-19 in online health forums: a natural language processing study.",
+      "excerpt": "Online health forums provide rich and untapped real-time data on population health. Through novel data extraction and natural language processing (NLP) techniques, we characterise the evolution of mental and physical health concerns relating to the COVID-19 pandemic among online health forum users.",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/MED/34740937",
+      "originalUrl": "https://europepmc.org/article/MED/34740937",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-26T23:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-27-hondas-new-safety-target-focuses-on-ai-powered-technology.md",
       "title": "Honda’s New Safety Target Focuses On AI-Powered Technology",
       "excerpt": "Honda’s AI-powered driver assistance technology, which was revealed this week in Japan, checks a driver’s actions and health by using a cockpit-mounted camera and sensors. Honda reported it is proposing to incorporate its world-first technology,",
@@ -858,301 +1142,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-christiano-cotra-and-yudkowsky-on-ai-progress.md",
-      "title": "Christiano, Cotra, and Yudkowsky on AI progress",
-      "excerpt": "This post is a transcript of a discussion between Paul Christiano, Ajeya Cotra, and Eliezer Yudkowsky on AGI forecasting, following up on Paul and Eliezer's \"Takeoff Speeds\" discussion. Color key: Chat by Paul and EliezerChat by Ajeya 8.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lesswrong.com/posts/7MCqRnZzvszsxgtJi/christiano-cotra-and-yudkowsky-on-ai-progress",
-      "originalUrl": "https://www.lesswrong.com/posts/7MCqRnZzvszsxgtJi/christiano-cotra-and-yudkowsky-on-ai-progress",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/887568029733519391/889924404392370226/ChessEnginePerformance.png",
-          "width": 1146,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LessWrong",
-        "domain": "lesswrong.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-vibrating-sleeve-gives-wearer-a-feel-for-languages.md",
-      "title": "Vibrating sleeve gives wearer a feel for languages",
-      "excerpt": "For the past year or so, a student team from the Eindhoven University of Technology has been working on a wearable that could allow folks to understand what's being said in another language through vibrations on the arm.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/",
-      "originalUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0af92a6/2147483647/strip/true/crop/5000x3333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2F86%2F1b496d894a838893aaf9744a2057%2F1115-66cb700208516f8a063418572da51f8c.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/?amp=true",
-      "publishedDateTime": "2021-11-25T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-vibrating-sleeve-gives-wearers-a-feel-for-languages.md",
-      "title": "Vibrating sleeve gives wearers a feel for languages",
-      "excerpt": "For the past year or so, a student team from the Eindhoven University of Technology has been working on a wearable that could allow folks to understand what's being said in another language through vibrations on the arm.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/",
-      "originalUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0af92a6/2147483647/strip/true/crop/5000x3333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2F86%2F1b496d894a838893aaf9744a2057%2F1115-66cb700208516f8a063418572da51f8c.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/?amp=true",
-      "publishedDateTime": "2021-11-25T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-these-machine-learning-algorithms-can-add-great-value-to-a-business-in-cutting-down-costs.md",
-      "title": "These machine learning algorithms can add great value to a business in cutting down costs",
-      "excerpt": "Machine learning algorithms can help computers play chess, get smart, personal, and perform surgeries. Machine learning is one of the vital technologies that has been used in the current world. Let’s see what ML algorithms for business can favour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-10-machine-learning-algorithms-to-benefit-business-operations/",
-      "originalUrl": "https://www.analyticsinsight.net/top-10-machine-learning-algorithms-to-benefit-business-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Top-10-Machine-Learning-Algorithms-to-Benefit-Business-Operations.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-baidu-pony-ai-granted-chinas-first-licences-to-charge-passengers-for-self-driving-taxis-in-beijing.md",
-      "title": "Baidu, Pony AI granted China’s first licences to charge passengers for self-driving taxis in Beijing",
-      "excerpt": "Baidu and Pony AI became the first companies to be approved by mainland Chinese authorities to launch their autonomous cab services commercially following successful trial periods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
-      "originalUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/6fdc88ce-dddc-4a5d-8ba9-e374c88fc240_dea56383.jpg?itok=TisaetVJ&v=1637822271",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
-      "publishedDateTime": "2021-11-25T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml.md",
-      "title": "Design of AI may change with the open-source Apache TVM and a little help from startup OctoML",
-      "excerpt": "Optimizing the compute graph of neural nets for new hardware may change even the training of neural nets, says startup OctoML.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
-      "originalUrl": "https://www.zdnet.com/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5122e903258a58970502b65f243f042e398e4268/2021/11/24/9dcb6e32-5e9a-4462-9146-0a02ab9e4e18/luis-ceze-octoml-sept-2021.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml/",
-      "publishedDateTime": "2021-11-25T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

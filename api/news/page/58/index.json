@@ -2,6 +2,281 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-10-21-developers-intels-automated-debugging-tool-controlflag-is-now-open-source.md",
+      "title": "Developers: Intel's automated debugging tool ControlFlag is now open source",
+      "excerpt": "ControlFlag can automatically detect anomalies in software code - and it could spare developers hours of tedious work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
+      "originalUrl": "https://www.zdnet.com/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0dff8773595dd70445ad33b38a3f2b92dbb2f855/2021/10/20/3bc47e85-fae3-40ca-a9ec-7d8ef633a9e4/gettyimages-1320577198.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/developers-intels-automated-debugging-tool-controlflag-is-now-open-source/",
+      "publishedDateTime": "2021-10-20T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-machine-learning-can-be-fair-and-accurate.md",
+      "title": "Machine learning can be fair and accurate",
+      "excerpt": "A CMU team aims to dispel that assumption in a new study, recently published in Nature Machine Intelligence. Rayid Ghani, a professor in the School of Computer Science's Machine Learning Department (MLD) and the Heinz College of Information Systems and Public Policy;",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/932216",
+      "originalUrl": "https://www.eurekalert.org/news-releases/932216",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-egypt-detains-artist-robot-ai-da-before-historic-pyramid-show.md",
+      "title": "Egypt detains artist robot Ai-Da before historic pyramid show",
+      "excerpt": "Sculpture and its futuristic creator held for 10 days, possibly in fear she is part of spying plot",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "originalUrl": "https://www.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/ba9e0913ba3b1f81fb67f2afed82643fb05f4429/0_261_6448_3869/master/6448.jpg?width=620&quality=85&auto=format&fit=max&s=daf32ce56cd4dc914d3f6e73e61adb54",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/oct/20/egypt-detains-artist-robot-ai-da-before-historic-pyramid-show",
+      "publishedDateTime": "2021-10-20T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-3m-names-americas-top-young-scientist-of-2021-14-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health.md",
+      "title": "3M Names America's Top Young Scientist of 2021: 14-Year-Old Sarah Park, for Music Therapy Treatment to Improve Mental Health",
+      "excerpt": "ST. PAUL, Minn. and SILVER SPRING, Md., Oct. 20, 2021 /PRNewswire/ -- 3M (@3M) and Discovery Education (@DiscoveryEd) have named 14-year-old",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3m-names-america-s-top-young-scientist-of-2021-14-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health-1030882271",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3m-names-america-s-top-young-scientist-of-2021-14-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health-1030882271",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1665091/2021_3M_Young_Scientist_Winner_Sarah_Park.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-how-machine-learning-can-be-fair-and-accurate.md",
+      "title": "How machine learning can be fair and accurate",
+      "excerpt": "Carnegie Mellon University researchers are challenging a long-held assumption that there is a trade-off between accuracy and fairness when using machine learning to make public policy decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-10-machine-fair-accurate.html",
+      "originalUrl": "https://techxplore.com/news/2021-10-machine-fair-accurate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/machine-learning-can-b.jpg",
+          "width": 2481,
+          "height": 3508,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-10-machine-fair-accurate.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-machine-fair-accurate.amp",
+      "publishedDateTime": "2021-10-20T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-moveworks-pioneers-the-first-multilingual-ai-platform-built-to-support-global-companies.md",
+      "title": "Moveworks pioneers the first multilingual AI platform built to support global companies",
+      "excerpt": "Moveworks, the AI platform that automates support at work, today announced two critical product enhancements that allow global workforces to stay productive from anywhere. The first is multilingual support: Moveworks now understands and resolves requests from employees,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-e2a77142352288890ed20768ec8842c8",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-e2a77142352288890ed20768ec8842c8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-microsoft-launches-new-initiative-to-empower-ai-startups-in-india.md",
       "title": "Microsoft launches new initiative to empower AI startups in India",
       "excerpt": "Tech giant Microsoft on Wednesday launched a new programme Microsoft AI Innovate for nurturing and scaling startups that are leveraging Artificial Intelligence (AI). The 10-week initiative will support startups in India leveraging AI technologies,",
@@ -887,266 +1162,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-credo-ai-launches-out-of-stealth-with-55-million-to-help-companies-with-ethical-ai.md",
-      "title": "Credo AI launches out of stealth with $5.5 million to help companies with “ethical AI”",
-      "excerpt": "There are many in the world of AI who worry about its implications. One of those people is Navrina Singh, a former product manager for Qualcomm, then Microsoft, who saw firsthand at Microsoft how a Twitter bot it developed in 2016 as an experiment in “conversational understanding,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/",
-      "originalUrl": "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/NavrinaSingh2021_Headshot.png?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/19/credo-ai-launches-out-of-stealth-with-5-5-million-to-help-companies-with-ethical-ai/amp/",
-      "publishedDateTime": "2021-10-19T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-the-google-pixel-6-brings-a-new-chip-and-lofty-ai-powered-promises.md",
-      "title": "The Google Pixel 6 brings a new chip and lofty, AI-powered promises",
-      "excerpt": "The new Google Pixel 6 and Pixel 6 Pro smartphones rely on a custom-built chip to add clever and useful AI-driven features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/",
-      "originalUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2021/10/19/9-design-pro-details.jpg?auto=webp",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp",
-      "publishedDateTime": "2021-10-19T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-gep-doubles-global-partner-network-to-deliver-superior-procurement-and-supply-chain-transformation-to-customers.md",
-      "title": "GEP Doubles Global Partner Network To Deliver Superior Procurement And Supply Chain Transformation To Customers",
-      "excerpt": "GEP, a leading provider of procurement and supply chain strategy, software and managed services to Fortune 500 and Global 2000 enterprises worldwide, announced today that the number of new partner companies joining the GEP Partner United program grew by 114% since January 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gep-doubles-global-partner-network-to-deliver-superior-procurement-and-supply-chain-transformation-to-customers-1030878751",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/gep-doubles-global-partner-network-to-deliver-superior-procurement-and-supply-chain-transformation-to-customers-1030878751",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-4-top-surgical-robotics-stocks-to-watch-this-week.md",
-      "title": "4 Top Surgical Robotics Stocks To Watch This Week",
-      "excerpt": "Do You Have These Robotics Stocks On Your Watchlist Right Now? The health care industry has been evolving at an exponential pace due to the advancement of technology. Well, surgical robotics has been a big part of this evolution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19",
-      "originalUrl": "https://www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-surgical-robotics-stocks-to-watch-this-week-2021-10-19?amp",
-      "publishedDateTime": "2021-10-19T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-live-translate-comes-to-a-wealth-of-apps-gboard-for-pixel-6-series.md",
-      "title": "Live Translate Comes To A Wealth Of Apps & Gboard For Pixel 6 Series",
-      "excerpt": "With today's announcement of the Google Pixel 6 and Pixel 6 Pro, Google is also introducing a wealth of new features including Live Translate in-app with",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2021/10/live-translate-apps-gboard-google-pixel-6-series.html",
-      "originalUrl": "https://www.androidheadlines.com/2021/10/live-translate-apps-gboard-google-pixel-6-series.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/10/Live-Translate-Google-Pixel-6-pressers-00.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2021/10/live-translate-apps-gboard-google-pixel-6-series.html?utm_content=buffercfe80&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2021/10/live-translate-apps-gboard-google-pixel-6-series.html?utm_content=buffercfe80&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&amp",
-      "publishedDateTime": "2021-10-19T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-tensor-is-googles-camera-centric-chip-with-machine-learning-goodness.md",
-      "title": "Tensor Is Google’s Camera Centric Chip With Machine Learning Goodness",
-      "excerpt": "Leaks of the Pixel 6 and a new custom chip have been around since October. Yet, Google was quite excited to unveil the Tensor SoC at the event. To clarify, the Tensor chip is an AI wonderland that brings Google’s machine learning goodness right into users’ pockets.",
-      "sourceUrl": null,
-      "webUrl": "https://fossbytes.com/google-tensor-explained/",
-      "originalUrl": "https://fossbytes.com/google-tensor-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fossbytes.com/wp-content/uploads/2021/10/tensor-chip.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fossbytes.com/google-tensor-explained/amp/",
-      "cdnAmpWebUrl": "https://fossbytes-com.cdn.ampproject.org/c/s/fossbytes.com/google-tensor-explained/amp/",
-      "publishedDateTime": "2021-10-19T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Foss Bytes",
-        "domain": "fossbytes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

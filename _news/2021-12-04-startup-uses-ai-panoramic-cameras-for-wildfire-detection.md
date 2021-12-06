@@ -70,34 +70,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Global In-Car Speech Recognition Market 2021 Latest Innovations, Key Indicators and Future Development Status Recorded during 2021 to 2027"
-    excerpt: "A new research market study report titled Global In-Car Speech Recognition Market Research Report 2021-2027 has been featured by MarketandResearch.biz. The report delivers different segments on basis of product category,"
-    publishedDateTime: 2021-12-02T00:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-in-car-speech-recognition-market-2021-latest-innovations-key-indicators-and-future-development-status-recorded-during-2021-to-2027-2021-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Conversational Artificial Intelligence and Voice Cloning Market 2021-2026: Call Center Market is Rapidly Evolving to become an AI-enabled Customer Con"
-    excerpt: "The \"Conversational Artificial Intelligence and Voice Cloning Market: Next Generation Enterprise Solutions by Use Case, Application, and Industry Verticals 2021 - 2026\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-12-06T09:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=582473"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "Ab7vPQzuAbXEapXMnz7IhVEGHPBJPhWVCM7uP9vY4ikDUSzfbT981Mn0Slib6pgCx6/c1Z2cZqFqJcQICJQzRp+u6qdBv9fcbVYN9IQkE4H9U0pUYackFmwcfsaEBCNsD6/Pqf4wbTCFsn0Gj0uT/0cR6vFhnU55Ydu4Avfkj9vHt/LNZzyN8khVaUmvmubsIskeW6RLQREblYEX0KOrbYrQ9e7vfTx7eGZzgcX/BTZI6cvBEjU2jLVY3k/G3SIFWCjFd0X3+R8CeW8bb5KLJijtREZLhYM3+JSWz71PuYrR4rtRQAVMkEgPZuE7c8Nsi3AY4zqvVrCooU+0oSw1/EtbeeXNRbOcFRI2dwU2vezoEGBIOnk7v7/biIQBWDnQOKHSZsSfJqfCe3XWPXcoeV8TGut4CanBmAk/Yy86OrEeSPzUGca4jqJBz+tgLgO4hRAD7pCDRTwxhCO89KUtk9zshdXwYErbbwwr/G6iM8ZBRKqc87kVKQ1xz38GUGOxCcxDmWmWX0WFAsBGYfRW5A==;LINUAc49zmawUn7JGi5ulA=="
 ---

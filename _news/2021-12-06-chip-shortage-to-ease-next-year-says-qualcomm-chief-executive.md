@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm’s new PC chips are good, but they still can’t match Apple’s M1"
-    excerpt: "The Snapdragon 8cx Gen 3 is Qualcomm's latest Arm-based PC chip. But can it compete against Intel and the Apple M1?"
-    publishedDateTime: 2021-12-01T23:23:00Z
-    webUrl: "https://www.androidauthority.com/snapdragon-8cx-gen-3-intel-apple-3068879/"
-    ampWebUrl: "https://www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-apple-3068879/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-apple-3068879/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 89
-    images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2021/11/Qualcomm-Snapdragon-laptop.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Qualcomm ditches TSMC, lets Samsung produce new chips"
     excerpt: "But some officials said that behind Qualcomm's selection of Samsung in the latest deal is TSMC's accelerated focus on making customized chips for Apple. Samsung's foundry service unit is said to have lost its status as a leading foundry service provider for the production of Nvidia's next-generation graphic processing unit (GPU) chips."
     publishedDateTime: 2021-12-02T06:24:00Z
@@ -70,34 +54,6 @@ related:
       name: ProPakistani
       domain: propakistani.pk
     quality: 39
-  - title: "\"Snapdragon 8cx Gen 3\": Qualcomm unveils new chip for Windows PCs"
-    excerpt: "Chipmaker Qualcomm has announced the new Snapdragon 8cx Gen 3 compute platform as a successor of the 8cx Gen 2 model that was launched last year. The new Snapdragon 8cx Gen 3 chipset is built for always on,"
-    publishedDateTime: 2021-12-02T06:51:00Z
-    webUrl: "https://www.ummid.com/news/2021/december/02.12.2021/snapdragon-8cx-gen-3-qualcomm-unveils-new-chip-for-windows-pcs.html"
-    type: article
-    provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 39
-    images:
-      - url: "https://ummid.com/news/2021/december/02.12.2021/snapdragon-new-chip.jpg"
-        width: 790
-        height: 530
-        isCached: true
-  - title: "Qualcomm Announced the Chip That’ll Power Almost Every Android Flagship in 2022"
-    excerpt: "Qualcomm has just announced the ARM chip that will power most of next year’s high-end Android phones. The rumored 898 model number isn’t happening, though. Qualcomm has changed its naming scheme with the latest flagship chip,"
-    publishedDateTime: 2021-12-02T13:26:00Z
-    webUrl: "https://www.extremetech.com/mobile/329418-qualcomm-announced-the-chip-thatll-power-almost-every-android-flagship-in-2022"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 35
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/12/Snapdragon_8_Gen_1_Chip-640x353.jpg"
-        width: 640
-        height: 353
-        isCached: true
   - title: "Qualcomm unveils new chip for Windows PCs"
     excerpt: "The NPU in the chipset comes with 6.5 TOPS of AI compute power which is an improvement as the NPU in the predecessor has 5 TOPS. It supports 5G (sub-6 GHz and mmWave) and the Snapdragon X65 5G RF ..."
     publishedDateTime: 2021-12-02T12:58:00Z

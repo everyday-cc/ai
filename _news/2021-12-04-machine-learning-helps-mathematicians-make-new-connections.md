@@ -42,15 +42,6 @@ related:
         width: 2000
         height: 1285
         isCached: true
-  - title: "DeepMind claims AI has aided new discoveries and insights in mathematics"
-    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DeepMind claims that its AI systems helped mathematicians to discover new -- and significant ..."
-    publishedDateTime: 2021-12-02T09:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics-10803024"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
   - title: "Scientists identify new pattern in mathematics using artificial intelligence"
     excerpt: "Scientists have identified patterns in mathematics that have never been seen before.  The discovery, made by the use of artificial intelligence, can help to develop fundamentally new problem-solving techniques."
     publishedDateTime: 2021-12-05T16:49:00Z
@@ -67,15 +58,22 @@ related:
         width: 918
         height: 506
         isCached: true
-  - title: "Computer science: Artificial intelligence does the maths"
-    excerpt: "Since the 1960s, mathematicians have used computers to aid the discovery of patterns and formulation of conjectures, but artificial intelligence systems are not commonly used in theoretical mathematical research."
-    publishedDateTime: 2021-12-01T23:59:00Z
-    webUrl: "https://www.natureasia.com/en/research/highlight/13893"
+  - title: "AI Is Discovering New Patterns In Pure Mathematics – Some Of Them Never Seen Before"
+    excerpt: "Advertisement Using artificial intelligence (AI) and machine learning, scientists have created a new mathematical theorem. This discovery is the first to show that artificial intelligence can help with pure mathematics."
+    publishedDateTime: 2021-12-06T16:24:00Z
+    webUrl: "https://wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/"
+    ampWebUrl: "https://wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/amp/"
     type: article
     provider:
-      name: natureasia.com
-      domain: natureasia.com
-    quality: 51
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 85
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/PRI_212914641.jpg"
+        width: 778
+        height: 519
+        isCached: true
 
 secured: "ecZHYbdeYpxqZWiMIHE5ylcT9MCi2ZD/sVkxZK0UAy8wDaf419E8MGcagxkmBy60x/nPqr3A/9Mf6bX6OzpKe7VD8Qkl869H7scQXdPt2o4d9M2oU13kQJr7Q2v/IPxxQWqBo+WyCyB8DUvaEfb11QnjY+tkcn4juNNDwFDpJxS74GOAskgh8mlQ9ohTgCPHRXHLH2mIxXuFWNk8vAQ0d+ZvRcsloJIWGcCxEuIVfrs4w/JsnJmNN4s1VROQj9nOE1bmZgdYs46GZqYUtogaAmkA6IeBWR04okYGsn0I17tTrO1ei/lE6mSAiUPNXF9uBV4BcQ+gV1gZDsOzSSy1z8AU2FFi7PnBUYRzPSARS1s=;ZbMbqRQc0W3w4MK9zHoLGQ=="
 ---

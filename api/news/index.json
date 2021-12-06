@@ -2,6 +2,207 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-07-report-ai-investments-see-largest-year-over-year-growth-in-20-years.md",
+      "title": "Report: AI investments see largest year-over-year growth in 20 years",
+      "excerpt": "Results indicate that COVID-19 has contributed to a surging global interest in AI from both governments and investors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
+      "originalUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/data_globe-e1637353198623.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
+      "publishedDateTime": "2021-12-06T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-artificial-intelligence-driven-care-robots-tackle-the-suicide-rate.md",
+      "title": "Artificial Intelligence-driven Care Robots Tackle the Suicide Rate",
+      "excerpt": "Artificial intelligence-based care robots will help to communicate with residents who are living alone and dealing with mental health problems. According to government data in South Korea, Chungnam Province,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-driven-care-robots-tackle-the-suicide-rate-204608-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-driven-care-robots-tackle-the-suicide-rate-204608-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/robot-touch.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-driven-care-robots-tackle-the-suicide-rate-204608-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-driven-care-robots-tackle-the-suicide-rate-204608-1.htm",
+      "publishedDateTime": "2021-12-06T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-aws-computer-vision-and-amazon-rekognition-aws-recognized-as-an-idc-marketscape-leader-in-asia-pacific-excluding-japan-up-to-38-price-cut.md",
+      "title": "AWS computer vision and Amazon Rekognition: AWS recognized as an IDC MarketScape Leader in Asia Pacific (excluding Japan), up to 38% price cut, and major new features",
+      "excerpt": "Computer vision, the automatic recognition and description of documents, images, and videos, has far-reaching applications, from identifying defects in high-speed assembly lines, to intelligently automating document processing workflows, and identifying products and people in social media. AWS computer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-computer-vision-and-amazon-rekognition-aws-recognized-as-an-idc-marketscape-leader-in-asia-pacific-excluding-japan-up-to-38-price-cut-and-major-new-features/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-computer-vision-and-amazon-rekognition-aws-recognized-as-an-idc-marketscape-leader-in-asia-pacific-excluding-japan-up-to-38-price-cut-and-major-new-features/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T08:17:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body.md",
+      "title": "Ameca humanoid robot puts AI in a gender-neutral, ‘non-threatening’ body",
+      "excerpt": "Artificial intelligence, or AI, is one of the most prolific areas of research in several fields. AI has vast potential to improve medicine and many other fields of research. Typically, an AI lives",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
+      "originalUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/12/ameca-ab-robot-hand.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
+      "publishedDateTime": "2021-12-06T07:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-automl-market-revenue-set-to-surpass-14-billion-by-2030.md",
       "title": "AutoML market revenue set to surpass $14 billion by 2030",
       "excerpt": "The automated machine learning (ML) market is expected to grow from $346.2 million in 2020 to $14.8 billion by 2030, based on forecasts from P&S Intelligence, Leading the market is a surge in demand for fraud detection solutions,",
@@ -712,7 +913,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -858,7 +1059,7 @@
       "originalUrl": "https://www.cnet.com/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -961,7 +1162,7 @@
       "originalUrl": "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1013,7 +1214,7 @@
       "originalUrl": "https://www.mirror.co.uk/news/uk-news/fears-interviews-done-robot-ai-25617315",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1044,196 +1245,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-3d-printers-robotics-new-tools-being-used-in-new-jcps-learning-lab.md",
-      "title": "3D printers, robotics new tools being used in new JCPS learning lab",
-      "excerpt": "Robots and virtual reality are part of the new digital learning lab at Dubois Academy in the Newburg neighborhood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wlky.com/article/3d-printers-robotics-new-tools-used-jcps-learning-lab/38429343",
-      "originalUrl": "https://www.wlky.com/article/3d-printers-robotics-new-tools-used-jcps-learning-lab/38429343",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/vidthumb/7efb864c-6a43-43c9-bad7-9b372e937e56/7efb864c-6a43-43c9-bad7-9b372e937e56_image.jpg?crop=0.746xw:0.745xh;0.188xw,0&resize=1200:*",
-          "width": 955,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wlky.com/amp/article/3d-printers-robotics-new-tools-used-jcps-learning-lab/38429343",
-      "cdnAmpWebUrl": "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/3d-printers-robotics-new-tools-used-jcps-learning-lab/38429343",
-      "publishedDateTime": "2021-12-04T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WLKY",
-        "domain": "wlky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-4th-international-conference-on-robotics-and-computer-vision-icrcv-2022.md",
-      "title": "4th International Conference on Robotics and Computer Vision (ICRCV 2022)",
-      "excerpt": "International Conference on Robotics and Computer Vision (ICRCV 2022)--Ei Compendex, Scopus. Web:  Time: September 25-27, 2022. Venue: Wuhan Institut",
-      "sourceUrl": null,
-      "webUrl": "https://www.eventbrite.sg/e/4th-international-conference-on-robotics-and-computer-vision-icrcv-2022-tickets-218998599707",
-      "originalUrl": "https://www.eventbrite.sg/e/4th-international-conference-on-robotics-and-computer-vision-icrcv-2022-tickets-218998599707",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F193094599%2F527281139803%2F1%2Foriginal.20211129-081740?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=361%2C0%2C772%2C386&s=5793cc950dd438fc42333e98e81671f3",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eventbrite",
-        "domain": "eventbrite.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about.md",
-      "title": "How AI and ML can thwart a cybersecurity threat no one talks about",
-      "excerpt": "A new report by Honeywell says 46% of known OT cybersecurity threats are poorly detected or not detected at all.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/",
-      "originalUrl": "https://venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-167687205.jpg?fit=800%2C532&strip=all",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/amp/",
-      "publishedDateTime": "2021-12-03T20:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-how-to-turn-ai-failure-into-ai-success.md",
-      "title": "How to turn AI failure into AI success",
-      "excerpt": "Enterprises are racing into AI-driven analytics and processes, but there will be a steep learning curve before certain advances are made.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/",
-      "originalUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/data-e1619691430527.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/",
-      "publishedDateTime": "2021-12-03T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

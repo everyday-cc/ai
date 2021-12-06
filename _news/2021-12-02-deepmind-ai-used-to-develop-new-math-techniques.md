@@ -63,20 +63,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
-  - title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
-    excerpt: "A mathematician,” the Hungarian number theorist Alfred Renyi said, “is a machine for turning coffee into theorems”.The world’s mathematicians might soon be n"
-    publishedDateTime: 2021-12-02T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt?shareToken=bb133333581b31a70da05562c8e5cf05"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 48
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F31c8a572-52f8-11ec-a5fe-8f0d6a1c517d.jpg?crop=2000%2C1125%2C0%2C104&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "ZM8BfnmJXk1NiIbLJeWQgVbquwHKXwQ270Iy+f2umFTVAIr80Qg5utNQe5sd//FQPNsG+v6JMH1S+6eH0cgNk0Yu2zdw1sdBwCLsMcsb+8Try6MU7w/DJqAtAnnw+lmRSHfWOeuTF5RDFGRpqtIzc8mI+MFo4Za75ymK0SzaopNFWGX+Wb3RVy7W/fAM/PeXi8d9nbEXPiGGYHufdOH/x+5p+XYbxY9wStr2OhshZ6QFZY5T5utNUQlhGYxsmROs8kFKHm6Z+aSQFk67JAEJ3sLtnVwz7w83DyIz0DvnA8x1l3DNOHJ43DKzjwEvOCXC7dCIYtRj44iujdFEqmmHZEwwlxKbyzWbY/A5uBlTDEV6t1YY/FlT+WcXu5MqANTovyhH4aAuh4z/2l/8XKdirRzsneWEk6gSZVRCuWSiXbbHboVXImh4P7uB7ajS1E89Yn57OBJPVHkPSq4Y33HKMKg02DoEIIUXM1PgFbQ2XodTRNyevxjiqRLwmbA0V65PWyYS27aZe8CcRXoeNGe1eg==;YmMLnfBdDq7GAd8ZQOojKw=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Inside Tesla as Elon Musk Pushed an Unflinching Vision for Self-Driving Cars"
+    excerpt: "The automaker may have undermined safety in designing its Autopilot driver-assistance system to fit its chief executive’s vision, former employees say."
+    publishedDateTime: 2021-12-06T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html"
+    ampWebUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 86
+    images:
+      - url: "https://static01.nyt.com/images/2021/10/06/business/00tesla-autopilot01/00tesla-autopilot01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
     excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving” (FSD) beta,"
     publishedDateTime: 2021-12-02T14:00:00Z
@@ -77,17 +93,17 @@ related:
         isCached: true
   - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
     excerpt: "Elon Musk built his electric car company, Tesla, around the promise that it represented the future of driving — a phrase emblazoned on the automaker’s website."
-    publishedDateTime: 2021-12-06T14:32:00Z
-    webUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
-    ampWebUrl: "https://www.dailypress.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+    publishedDateTime: 2021-12-06T16:32:00Z
+    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
     type: article
     provider:
-      name: Daily Press
-      domain: dailypress.com
-    quality: 56
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 58
     images:
-      - url: "https://www.dailypress.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
+      - url: "https://www.baltimoresun.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
         width: 1200
         height: 792
         isCached: true

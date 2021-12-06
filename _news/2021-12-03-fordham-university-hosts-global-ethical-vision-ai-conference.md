@@ -1,30 +1,24 @@
 ---
 category: news
 title: "Fordham University Hosts Global Ethical Vision AI Conference"
-excerpt: "On November 29th, Fordham University hosted a conference entitled, “ Ethical Vision Artificial Intelligence: Creating an Effective AI Com"
-publishedDateTime: 2021-12-03T11:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-new-york-artificial-intelligence-fordham-university-36ff5280f33249e1985b48cd8470d2f9"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-new-york-artificial-intelligence-fordham-university-36ff5280f33249e1985b48cd8470d2f9"
+excerpt: "Fordham University hosted a conference entitled, \"Ethical Vision Artificial Intelligence: Creating an Effective AI Compliance Framework\" in New York. The conference was hosted by Professor Shlomit Yanisky-Ravid,"
+publishedDateTime: 2021-12-03T11:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fordham-university-hosts-global-ethical-vision-ai-conference-/2021/12/03/9504310.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fordham-university-hosts-global-ethical-vision-ai-conference-/2021/12/03/9504310.htm"
 type: article
-quality: 56
-heat: 56
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
   - AI Ethics
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "peUllmEAdHITKP8OWv8uu3g++FNnCPe33z7rmBg93kV8d14ID3zEwtMG6mDSuB02dXc9rakQzgT7Prb0DhidbB7bjPC6XMMfd37OkSfZEN/VxYvzyhFXrJPCv1dY2rFKCxlLVPJX1gbaIRTJNmBqmKM2W9cHzA8DStwEgvBqY34dVvDfLMruLLNhKLJbmrC9eVLlIzrbjmwcTgsyBct7yBRplsT1WeYhyRL58QRpYMSILEspF5v7ulDGcJv/fWihvRKsQKUoKZyuYQ6GS/mE96iWvo/GttdDd1pdTVV3MHv5KCNzU8ZDG/bB1rFMJQk2cAVUVff5cXl/++hgjP9tuL2yiQXH5k8/rxqcIG1WRQo=;0FgGIBa3BnD+tk6v6B1Kmw=="
+secured: "sOzvBBP/dxPne7RryGhSC+j+RRRVAPVM5BexGDDsFUR9cO4iXsUYAoUviBN9cA9xZzZKf5lqwrByMDIKY40AqI61MFZ9clFiqgoiRFGl+Haq6rqy3Fxa2F095CtbHrXYXuOrLv9sorviQj+yMDOcH+MpL+aOEzI4sl2Yywx794+mdRGuvF1qUZ3QabL2dMEZK7t7mHfMhoyEP1eC8ZMMwB2+tQ9O+iIEQp582tgQas01I6NkWbN1TRTsYRD+IRlqxVNir9k+Bu3lhKARKXwwQqYcT8JkhR4WQ9iPqoJrsislPlySdXyQ/HMVmwI9LJRCpQqrVlN7uOVmN1IiBXkoazt9PKoQy3OB0gV1kdZnMB4=;KlRBWcZtBq27gNt13nqxuA=="
 ---
 

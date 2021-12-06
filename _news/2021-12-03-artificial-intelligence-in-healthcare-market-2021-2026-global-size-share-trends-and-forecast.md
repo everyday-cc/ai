@@ -71,34 +71,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Global In-Car Speech Recognition Market 2021 Latest Innovations, Key Indicators and Future Development Status Recorded during 2021 to 2027"
-    excerpt: "A new research market study report titled Global In-Car Speech Recognition Market Research Report 2021-2027 has been featured by MarketandResearch.biz. The report delivers different segments on basis of product category,"
-    publishedDateTime: 2021-12-02T00:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-in-car-speech-recognition-market-2021-latest-innovations-key-indicators-and-future-development-status-recorded-during-2021-to-2027-2021-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Conversational Artificial Intelligence and Voice Cloning Market 2021-2026: Call Center Market is Rapidly Evolving to become an AI-enabled Customer Con"
-    excerpt: "The \"Conversational Artificial Intelligence and Voice Cloning Market: Next Generation Enterprise Solutions by Use Case, Application, and Industry Verticals 2021 - 2026\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-12-06T09:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=582473"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "yPPPm4kxzWCTz2suJyqBj62jphjW5MxyIP9l/b9wapjT5h7+CuMtsD9vvurRiXl91LBOyxX6KRMSOBTFs1RkBsUwuMXpqLMT7iCyXtohfLRoLDNfT+2n83kBPH560qw7I0iSLPjFBUOXn1HN5n1mfg4ero9kWGxTBlhSQ/a5wLTtl+ZEmQ5NUmnxo44RkIRcoRdtlXMD+93/O1m+kNMjFadAGPyWzCD2mbsZL5AO45CqsQwMJ8xb1YJ0Dag+vbbivd1I7KNAcBpQsBCeg6n96fnByJ5ubmMpEgUavugVBlwwUlOaStRWEQhGXAvW+mf6hvrc+GLmUSPPWgtvxUJN/R/pj7a1qUu101cEbyeb+0FuUyolatK/qeZLEhrVQpAacUO8IHIw+kEcYoLB2Xa1AmGGLwztXABB/jYNpIOIrMIAkdavq/G6q75qltEEHgEo/ZksTsndeUELOyKf7yt801Imyweha/KRbyJiQjHK8lhBsGAtutTvMbd2Dd7LS1o4PSzjakm5Y7+Xj7+Nf5h05A==;x+/u2+grqb7dX/uUTU8vLA=="
 ---

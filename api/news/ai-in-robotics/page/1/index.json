@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-07-artificial-intelligence-driven-care-robots-tackle-the-suicide-rate.md",
+      "title": "Artificial Intelligence-driven Care Robots Tackle the Suicide Rate",
+      "excerpt": "Artificial intelligence-based care robots will help to communicate with residents who are living alone and dealing with mental health problems. According to government data in South Korea, Chungnam Province,",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-driven-care-robots-tackle-the-suicide-rate-204608-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-driven-care-robots-tackle-the-suicide-rate-204608-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/robot-touch.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-driven-care-robots-tackle-the-suicide-rate-204608-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-driven-care-robots-tackle-the-suicide-rate-204608-1.htm",
+      "publishedDateTime": "2021-12-06T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body.md",
+      "title": "Ameca humanoid robot puts AI in a gender-neutral, ‘non-threatening’ body",
+      "excerpt": "Artificial intelligence, or AI, is one of the most prolific areas of research in several fields. AI has vast potential to improve medicine and many other fields of research. Typically, an AI lives",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
+      "originalUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/12/ameca-ab-robot-hand.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
+      "publishedDateTime": "2021-12-06T07:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-05-fears-interviews-done-by-robot-ai-stop-clever-working-class-kids-getting-jobs.md",
       "title": "Fears interviews done by robot AI 'stop clever working-class kids getting jobs'",
       "excerpt": "There are fears that robot interviews by webcam that judge candidates on the way they speak will stop well-qualified youngsters from less privileged families getting jobs",
@@ -10,7 +107,7 @@
       "originalUrl": "https://www.mirror.co.uk/news/uk-news/fears-interviews-done-robot-ai-25617315",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -226,7 +323,7 @@
       "originalUrl": "https://www.republicworld.com/technology-news/science/humanoid-robot-ameca-shows-most-accurate-facial-expressions-in-new-video-watch.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -269,7 +366,7 @@
       "originalUrl": "https://www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -354,49 +451,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-youll-freak-when-you-watch-ameca-the-humanoid-ai-robot-come-to-life.md",
-      "title": "You'll Freak When You Watch Ameca The Humanoid AI Robot Come To Life",
-      "excerpt": "Engineered Arts' robot Ameca has people both amazed and fearful as images from movies like I, Robot are brought to mind.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/watch-ameca-come-to-life",
-      "originalUrl": "https://hothardware.com/news/watch-ameca-come-to-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/56955/content/ameca-robot.jpeg",
-          "width": 708,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/watch-ameca-come-to-life",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/watch-ameca-come-to-life",
-      "publishedDateTime": "2021-12-03T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1326,59 +1380,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-ai-robotics-alongside-us-today.md",
-      "title": "AI Robotics alongside us today",
-      "excerpt": "From a young age, my fascination with how our world works drove me to imagine machines that make our everyday lives more enjoyable. Robots working alongside humans to manage day-to-day mundane tasks was a world I wanted to help create.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-robotics-alongside-us-today-pieter-abbeel",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-robotics-alongside-us-today-pieter-abbeel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQE9kuTiv0zQng/article-cover_image-shrink_720_1280/0/1638149826611?e=1643846400&v=beta&t=Vtk75rpPqFM5evGX6jMTVcGclCt70iskUoREeePExvY",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-28T17:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

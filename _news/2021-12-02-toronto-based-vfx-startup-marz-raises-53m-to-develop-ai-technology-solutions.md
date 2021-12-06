@@ -47,6 +47,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "AI-powered hiring start-up Sense raises $50 million from SoftBank Vision Fund 2"
+    excerpt: "Talent engagement start-up Sense on Monday announced that it has raised $50 million in Series D funding led by SoftBank Vision Fund 2. The fresh funds will be used to ramp up its go-to-market strategy and expansion into international markets."
+    publishedDateTime: 2021-12-06T15:53:00Z
+    webUrl: "https://www.thehindubusinessline.com/companies/ai-powered-hiring-start-up-sense-raises-50-million-from-softbank-vision-fund-2/article37872961.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/companies/ai-powered-hiring-start-up-sense-raises-50-million-from-softbank-vision-fund-2/article37872961.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/ai-powered-hiring-start-up-sense-raises-50-million-from-softbank-vision-fund-2/article37872961.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 53
+    images:
+      - url: "https://www.thehindubusinessline.com/companies/tk0syv/article37872960.ece/ALTERNATES/LANDSCAPE_615/blfund"
+        width: 615
+        height: 384
+        isCached: true
 
 secured: "KNQOPzPy1w57JCFXFv5l3r5ByW+YCQn5ve4QYkw2ersqgYpU12cNyLxXLExNtDeL1mT3h4c5M1t+GUhJliHLY4mw4kBzNgwOriQATxv4OkSxjEspGcaMZ4RsJJOvjAmItuGBJZmf2E/9tnaV7TrnOYLsQSIpAVngfmByFy+klV1e8eH6Rg7UioEc2ct3TZhxr1aaiZ8jzpcCdJ/X9dXoF3yEbjrZfnb6To9XDTCBM0+ypytMDXnkiX8oN/0JROXujNGksxtEq5iE6bmbhd/U4tYTqRoVNON1Zns/haLiGogh3EYMPu9ykDt3LIlT/nU4l5LypvpyDHNyXcBnUKGfzFqTgmiIuAgzb1sE7kFXzqw/UZJu52U7a+D4ec0TPmLzcUg+t7jhfaXiAe4d6KKhV9Y+8V0lbDfjJJr1p52ry8M1Pz7hCyVh98GQKHLZpzT8x187UtSwzSbblIlt+AvQB+XTHVclHOaR/d82/PiARLL8Qoa2s4q9JLj14ul4kfCN65o9vu0lntO9UEw0lEC3hQ==;oyFZJxrb4U5DL4cReEdYLg=="
 ---

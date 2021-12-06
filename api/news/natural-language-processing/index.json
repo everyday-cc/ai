@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-06-ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body.md",
+      "title": "Ameca humanoid robot puts AI in a gender-neutral, ‘non-threatening’ body",
+      "excerpt": "Artificial intelligence, or AI, is one of the most prolific areas of research in several fields. AI has vast potential to improve medicine and many other fields of research. Typically, an AI lives",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
+      "originalUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/12/ameca-ab-robot-hand.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
+      "publishedDateTime": "2021-12-06T07:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-smartling-lands-160m-to-help-companies-translate-their-content-automatically.md",
       "title": "Smartling lands $160M to help companies translate their content automatically",
       "excerpt": "Smartling, a company providing a mix of AI- and human-powered translation services, has raised $160 million in venture capital.",
@@ -732,10 +785,10 @@
     {
       "path": "_news/2021-11-23-promethium-announces-issuance-of-a-us-patent-for-natural-language-processing-technology.md",
       "title": "Promethium Announces Issuance of a U.S. Patent for Natural Language Processing Technology",
-      "excerpt": "Augmented data management and analytics innovator Promethium today announced that the U.S. Patent and Trademark Office has issued a new patent No. 11,074,252, (the '252 patent) further strengthening the company's intellectual property position and capabilities in the data analytics and management industry.",
+      "excerpt": "Augmented data management and analytics innovator Promethium today announced that the U.S. Patent and Trademark Office has issued a new patent No.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-promethium-announces-issuance-a-us-patent-natural-language-/2021/11/23/9498348.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-promethium-announces-issuance-a-us-patent-natural-language-/2021/11/23/9498348.htm",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/promethium-announces-issuance-of-a-u-s-patent-for-natural-language-processing-technology/article_cf41f5ee-5358-5af2-a44c-0b87e5c97b24.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/promethium-announces-issuance-of-a-u-s-patent-for-natural-language-processing-technology/article_cf41f5ee-5358-5af2-a44c-0b87e5c97b24.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -745,11 +798,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T03:05:00-08:00",
+      "publishedDateTime": "2021-11-23T02:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1331,58 +1384,6 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-the-future-of-ai-powered-document-processing.md",
-      "title": "The Future Of AI-Powered Document Processing",
-      "excerpt": "Through intelligent document processing (IDP), the process of data extraction automation from unstructured and semi-structured documents and conversion into structured and usable data, AI has tangibly amplified extracting data with high accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fdcc3472c78ec67b5540bbc%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/17/the-future-of-ai-powered-document-processing/amp/",
-      "publishedDateTime": "2021-11-17T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

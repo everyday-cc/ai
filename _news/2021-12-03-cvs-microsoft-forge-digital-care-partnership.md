@@ -84,15 +84,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 54
-  - title: "Mindtree has earned the Al and Machine Learning on Microsoft Azure advanced specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner's deep knowledge,"
-    publishedDateTime: 2021-12-02T00:19:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20211201/3865385.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 41
   - title: "CVS, Microsoft partner on product development"
     excerpt: "The partnership comes as more healthcare companies heighten their focus digitization. Insurers expect their technology budgets to rise 13.7% in 2022."
     publishedDateTime: 2021-12-02T17:28:00Z
@@ -106,6 +97,20 @@ related:
       - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/CVS%20Health%20and%20Microsoft_i.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "CVS Health and Microsoft agree new strategic alliance"
+    excerpt: "Healthcare provider CVS Health and Microsoft have agreed a new strategic alliance to develop new healthcare solutions and provide 300,000 CVS Health employees with tools to serve over one million customers."
+    publishedDateTime: 2021-12-06T16:11:00Z
+    webUrl: "https://www.technologyrecord.com/Article/cvs-health-and-microsoft-agree-new-strategic-alliance-127401"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10629/img-CV-Health_940x443.jpg"
+        width: 940
+        height: 443
         isCached: true
 
 secured: "Z/IJdoaPVkoa7c9unjWR2pV1N0Rzc3u1ic8D10KkYUSI6ZWHJNLXFONBB5Pko/fH+XU2p7mwqq+4aBEau1bZCQ2iCCTI6VR15qHJ9V4vSacDvOt+Io5XxAqTPyOEM8VdqeesBHCrhhB9E3xg400LfqpVZbceiefeB+q/hdCVsZ8CgnEEML+Xwd8wU9h9Z3YiZSWo2A4fGbv3M4g8YxV30uBiQopFYuU2ds6br8YZifQh+z/BIdQa0jtAk2S1GYP06cDZrEtRGnqlcdaOxAf9L4b/ole9Klwnxb2S0bQdcRBiwPJHfy2XcqVgQp0of54OHGFmPyl4TT4HWcWjWKLFuhGrxpZYJJeP+DQTlmhJ98U=;hyT4vIOoMju6kPDlJQOMew=="

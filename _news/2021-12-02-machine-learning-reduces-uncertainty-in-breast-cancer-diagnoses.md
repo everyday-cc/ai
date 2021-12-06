@@ -7,7 +7,7 @@ originalUrl: "https://www.technologynetworks.com/diagnostics/news/machine-learni
 webUrl: "https://www.technologynetworks.com/diagnostics/news/machine-learning-reduces-uncertainty-in-breast-cancer-diagnoses-356428"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "New machine learning model reduces uncertainty in detection of breast cancer"
-    excerpt: "Breast cancer is the most common cancer with the highest mortality rate. Swift detection and diagnosis diminish the impact of the disease."
-    publishedDateTime: 2021-12-02T00:38:00Z
-    webUrl: "https://www.news-medical.net/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211201/New-machine-learning-model-reduces-uncertainty-in-detection-of-breast-cancer.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 71
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/91618146-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "gE7NFojzFMmpRx0V9pXk/lb03oDJix3qwHNf3q9k1QU7Pj99aZsssiolc7GkOV+tcT5A4AGJUEGsHD3To2ONk1iOHu8T3vxwxbACUIHHBU8BdRvV0G5WxyDTn93BnK9MxAyHs3XnJ9Ya/v8dz7W4hCA8dn3vzUuHMfsOF7j+gmaQSDtyNpdFYOKytRMdom9ovuwyrLuH0CaBV6/TXDwQV1wK5/DOK65Ywu9Ah0qouyAF/dHXbihsZJTrYdIGtd01bPOt3j33VislL/wIq493MkvJuFzECaCxBrNlFHLsF5aO97sqHVDbw99kS2aE2rxP2TTXXPWemNaOEq/CjLSHqhL79B1FOFeTW/DJgkPoQa0=;gR/AM1sr5Q4hjoYjY6DJlA=="
 ---

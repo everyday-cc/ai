@@ -1,0 +1,158 @@
+---
+category: news
+title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
+excerpt: "Elon Musk built his electric car company, Tesla, around the promise that it represented the future of driving — a phrase emblazoned on the automaker’s website."
+publishedDateTime: 2021-12-06T16:32:00Z
+originalUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
+webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
+ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+type: article
+quality: 58
+heat: -1
+published: false
+
+provider:
+  name: The Baltimore Sun
+  domain: baltimoresun.com
+
+topics:
+  - Computer Vision
+  - AI
+  - AI in Autos
+
+images:
+  - url: "https://www.baltimoresun.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
+    width: 1200
+    height: 792
+    isCached: true
+
+related:
+  - title: "Tesla pushes new Full Self-Driving Beta update with improved object detection"
+    excerpt: "Tesla has started to push a new Full Self-Driving Beta software update (version 10.6) to its fleet with improved object detection. It’s the latest step in the long road to improve the FSD package and deliver on a promise to customers that has been delayed several times."
+    publishedDateTime: 2021-12-04T19:32:00Z
+    webUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/"
+    ampWebUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 86
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Inside Tesla as Elon Musk Pushed an Unflinching Vision for Self-Driving Cars"
+    excerpt: "The automaker may have undermined safety in designing its Autopilot driver-assistance system to fit its chief executive’s vision, former employees say."
+    publishedDateTime: 2021-12-06T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html"
+    ampWebUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 86
+    images:
+      - url: "https://static01.nyt.com/images/2021/10/06/business/00tesla-autopilot01/00tesla-autopilot01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "The New Self-Labeling AI Has Brought Tesla Closer To Level-3 Automation"
+    excerpt: "Advertisement Tesla’s head of artificial intelligence has revealed new footage showing its auto labelling tool for its self-driving initiative. It’s believed to provide a significant boost to Tesla’s Full Self-Driving Beta."
+    publishedDateTime: 2021-12-02T18:59:00Z
+    webUrl: "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/"
+    ampWebUrl: "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 74
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/newsimage336112.jpg"
+        width: 595
+        height: 225
+        isCached: true
+  - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
+    excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving” (FSD) beta,"
+    publishedDateTime: 2021-12-02T14:00:00Z
+    webUrl: "https://www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/"
+    ampWebUrl: "https://www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
+    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
+    type: article
+    provider:
+      name: Mercury News
+      domain: mercurynews.com
+    quality: 59
+    images:
+      - url: "https://www.mercurynews.com/wp-content/uploads/2021/11/SJM-Z-WALTERS-OPED-1102.jpg?w=1024&#038;h=783"
+        width: 1024
+        height: 783
+        isCached: true
+  - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
+    excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving (FSD) beta,"
+    publishedDateTime: 2021-12-03T00:45:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/?preview_id=8190635"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 59
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/12/SJM-Z-WALTERS-OPED-1102-1.jpg?w=1024&#038;h=783"
+        width: 1024
+        height: 782
+        isCached: true
+  - title: "Tesla rolls out new Full Self-Driving Beta update with improved object spotting"
+    excerpt: "The updates delivered via the new version of Tesla FSD Beta program include improved object detection network architecture for cars, trucks and buses..Another update includes improved stopping position at unprotected left turns."
+    publishedDateTime: 2021-12-06T08:24:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting-41638776731380.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting/amp-41638776731380.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting/amp-41638776731380.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2021/12/06/600x338/TESLA-AUTOPILOT-INVESTIGATION-0_1636954665977_1638777893284.JPG"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Tesla’s Full Self-driving Beta 10.6 emphasis on precision of movements"
+    excerpt: "Tesla's Full Self-Driving (FSD) technology update will be the 10.6 version. Tesla is focusing on three things with this update."
+    publishedDateTime: 2021-12-05T08:33:00Z
+    webUrl: "https://techstory.in/teslas-full-self-driving-beta-10-6-emphasis-on-precision-of-movements/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/12/Tesla-Full-Self-Driving-Beta-Hero.jpg"
+        width: 1600
+        height: 792
+        isCached: true
+  - title: "Nuro partners with 7-Eleven on self-driving delivery project"
+    excerpt: "Nuro, an autonomous delivery company, is partnering with 7-Eleven on the convenience store’s first self-driving delivery project that will take place in Mountain View, California. Customers will be able to use the 7NOW delivery app to have their products delivered via self-driving cars."
+    publishedDateTime: 2021-12-02T13:26:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17483/nuro-partners-with-7-eleven-on-self-driving-delivery-project"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/483/17483/7_Eleven_x_Nuro.jpg"
+        width: 752
+        height: 500
+        isCached: true
+
+secured: "0cwbjDOvITwTY3io6PyqM/dB2mIBwMiOmx8qCejX9IKEPIJCNdwuwRT+7h5hCOJlt0QSBlTE5lfbZi8+w/pXRfdCMg06iY5F/HLu9M0Pv1t3TU9hWtm7aglWVEbhYSInOvtKNbT8SPhVU9NsJzzACF5VWawaF3k+2mtDFV8cCX7K3mD7+u5mwuonqHW9g0eFt/2gBUHehootTb5l/JMt9PuIRxVYf/aT+TsPLY3oYKURdW9PqsKShfDqVxCoq44TGqszJX6e5t9rNkt2cBd16F47GwhNw7FbvCpZGUcnqTg9Qx3Y8mnzFsJHFIRzRuitjGteMYtJUyA6umJ4gCtHmVeo4Km6C5fm3/f6caXFToM=;UHz5q90li4ww22IwFd/h8w=="
+---
+

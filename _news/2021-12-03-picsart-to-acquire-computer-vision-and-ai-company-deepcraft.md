@@ -7,7 +7,7 @@ originalUrl: "https://www.eagletribune.com/region/picsart-to-acquire-computer-vi
 webUrl: "https://www.eagletribune.com/region/picsart-to-acquire-computer-vision-and-ai-company-deepcraft/article_cf7eb9db-1095-5f87-8fd4-6888c675cbe1.html"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -26,14 +26,21 @@ images:
 
 related:
   - title: "Picsart to Acquire Computer Vision and AI Company DeepCraft"
-    excerpt: "Picsart, the world's leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an undisclosed sum."
-    publishedDateTime: 2021-12-02T15:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm"
+    excerpt: "As video editing surges on the creator platform, the boutique firm will help accelerate Picsart's video offering through AI and image processing Picsart, the world's"
+    publishedDateTime: 2021-12-02T14:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24408178"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24408178"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 74
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
 
 secured: "icOsrfwT4zWjyHitisbmo9QWlCpSEi03BZBROfkL8XN2wmY5x295llF/O7VH3rJvotjLyQWQFlPnVpbDfROb6P7sV1f1kqwNCf6GB56zvxWIy18SZxzNQd5nN4MF6ludRFcxyQfnXVH9zMJlRUkgdVbLcIPtdeemsj0Jtg5tTvpDoMj1Xj6LceiFCFC3Vp+jaIdcxsOavqSr1jmoJdWwa5C8w2bHcShUoBp6zWNhohqN1ETHgQiE/IOR3q+pfYgW1+/++MQ9SqYb65ESRIGt53Zjb0o5jnf0x4O3L0KvtGu6heVpRRrO64p50q2MDWCG2soSIRsG/sT7K/xLiYH/KEcwxHE2Jyd1QCmEV7qdocI=;pE+2eFwGkSTQAX226lXbnA=="
 ---

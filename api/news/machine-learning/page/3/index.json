@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-20-google-clouds-aiml-stack-to-power-toronto-firms-nlp-platform.md",
+      "title": "Google Cloud’s AI/ML stack to power Toronto firm’s NLP platform",
+      "excerpt": "Google Cloud has announced a multi-year tech partnership with Toronto-based software firm Cohere in which Google Cloud’s artificial intelligence (AI) and machine",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035",
+      "originalUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2021/11/GettyImages-1305028662-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035?amp=1",
+      "publishedDateTime": "2021-11-19T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-advancing-ai-with-data-and-machine-learning-what-else-is-needed.md",
+      "title": "Advancing AI With Data And Machine Learning: What Else Is Needed?",
+      "excerpt": "The U.S. and almost all countries today identify AI as a critical strategic area in the future of computing. Companies are more invested than ever in discovering how AI can provide advantages in their competitive markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192287243%2F0x0.jpg",
+          "width": 1200,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/19/advancing-ai-with-data-and-machine-learning-what-else-is-needed/amp/",
+      "publishedDateTime": "2021-11-19T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-19-google-releases-tf-gnn-for-creating-graph-neural-networks-in-tensorflow.md",
       "title": "Google releases TF-GNN for creating graph neural networks in TensorFlow",
       "excerpt": "Google today released TensorFlow Graph Neural Networks (TF-GNN) in alpha, a library designed to make it easier to work with graph-structured data.",
@@ -1308,103 +1404,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-university-of-washington-study-deep-learning-reveals-3d-models-of-protein-machines.md",
-      "title": "University of Washington study: Deep learning reveals 3D models of protein machines",
-      "excerpt": "A new study peers into the structure of hundreds of protein complexes, tiny machines in cells that control everything from energy use to DNA replication. Researchers at the University of",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/",
-      "originalUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-11-at-10.40.14-AM-300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/university-washington-study-deep-learning-reveals-3d-models-protein-machines/amp/",
-      "publishedDateTime": "2021-11-11T18:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-azure-machine-learning-your-first-experiment.md",
-      "title": "Azure Machine Learning - Your first experiment",
-      "excerpt": "In a previous article, we talked about Azure Machine Learning (ML). This time we will create our first ML model from 0 to predict data. The predictions will be obtained from the data stored in an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sqlservercentral.com/articles/azure-machine-learning-your-first-experiment-1",
-      "originalUrl": "https://www.sqlservercentral.com/articles/azure-machine-learning-your-first-experiment-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sqlservercentral.com/wp-content/uploads/legacy/76c0d6654d7eece200c128485660a8b83ee55e3c/29440.jpg",
-          "width": 420,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SQL Server Central",
-        "domain": "sqlservercentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

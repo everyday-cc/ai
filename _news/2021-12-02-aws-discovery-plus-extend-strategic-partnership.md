@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend
 cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: tvbeurope.com
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Discovery Taps AWS to Power Global Rollout and Increased Personalization of discovery+"
-    excerpt: "(NASDAQ: AMZN), and Discovery Inc. announced their extended strategic relationship to support Discovery’s ongoing transformation in the cloud. As Discovery’s preferred cloud provider, AWS powers the vast majority of the company’s infrastructure needs to deliver its discovery+ on-demand streaming video service,"
-    publishedDateTime: 2021-12-01T23:08:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/discovery-taps-aws-to-power-global-rollout-and-increased-personalization-of"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 11
 
 secured: "WWuhFlaJ1q2xrqip6YSTvivohhQvaBpm3LCLuCtBqX3vmPnACWzcseiPBy2QVdAeP3n2byXm6NAAlv7Wca4VrKAbf01G3ldJ5NAvaKhUTj80ECsczlCbrYau226kTmYfB8Ia/PZ+ofCBz80MVr8CJ7AZYjFnc4VDtmkDnENfHuElA17DgHREqRStTm19IhPOvKgjiHpIzaxbSjEt53+uJyoua4KTtAEsDOqe7yvCI7EAv97dvv3Cpjfwzq7BEHIUEbfCmjbxVRif+bClxJwHeNqMsgWcThg48GMEm0lQYBEuQtEatzAiwXldJ506UX7tHR4RH+MxQA575GbeSDdHpwxx/uuHATmJ79lFOEksl5Q=;J2QPSF8LkQBburVSEPv0Jw=="
 ---

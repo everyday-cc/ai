@@ -2,6 +2,300 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2021-09-27-china-vows-further-curbs-on-disorderly-expansion-by-tech-firms.md",
+      "title": "China vows further curbs on 'disorderly expansion' by tech firms",
+      "excerpt": "Sheng also listed self-driving vehicles and platform economies ... for instance, while Baidu Inc. has worked on autonomous driving and Alibaba Health Information Technology Ltd and JD Health ...",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-86554740,imgsize-21350,width-800,height-434,overlay-etbrandequity/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms.jpg",
+          "width": 800,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/china-vows-further-curbs-on-disorderly-expansion-by-tech-firms/86554740",
+      "publishedDateTime": "2021-09-27T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-carahsoft-announces-availability-of-zoom-through-aws-marketplace.md",
+      "title": "Carahsoft Announces Availability of Zoom Through AWS Marketplace",
+      "excerpt": "Carahsoft Technology Corp., The Trusted Government IT Solutions Provider®, today announced the launch of Zoom Video Communication’s first product listings in the AWS Marketplace specifically for U.S.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-152c3c7d47bfd44171c1b37b5a9b60d9",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-152c3c7d47bfd44171c1b37b5a9b60d9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars.md",
+      "title": "Driver Killed By His Own Car Door While Waiting In Line At Fast-Food Drive-Thru, Providing Cautionary Insights For AI Self-Driving Cars",
+      "excerpt": "Sad news story about a driver that was killed by his own car door (while in a drive-thru), provides cautionary insights about the advent of AI-based self-driving cars. Here's the insider look.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614272b9f18bec6882652695%2F0x0.jpg%3FcropX1%3D23%26cropX2%3D2455%26cropY1%3D23%26cropY2%3D1538",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/27/driver-killed-by-his-own-car-door-while-waiting-in-line-at-fast-food-drive-thru-providing-cautionary-insights-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-09-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-google-is-trying-to-make-its-cloud-more-attractive-to-app-developers.md",
+      "title": "Google is trying to make its cloud more attractive to app developers",
+      "excerpt": "AWS still leads with a 32% share of spending, followed by Microsoft Azure's 19% and Google Cloud's 7%. Google is focusing on machine learning, analytics and data management. Apple and Google have reduced platform commissions for their respective app ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "originalUrl": "https://www.zdnet.com/index.php/recent/index.php/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/24/233629f0-3087-439c-b2ea-3a229ab17af3/thumbnail/1200x675/e09a6de7f7548d8d07a36872bb51025e/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/recent/index.php/google-amp/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/recent/index.php/google-amp/article/google-is-trying-to-make-its-cloud-more-attractive-to-app-developers/",
+      "publishedDateTime": "2021-09-27T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-migrating-feature_columns-to-tf2s-keras-preprocessing-layers.md",
+      "title": "Migrating feature_columns to TF2's Keras Preprocessing Layers",
+      "excerpt": "Training a model will usually come with some amount of feature preprocessing, particularly when dealing with structured data. When training a tf.estimator.Estimator in TF1, this feature preprocessing is usually done with the tf.feature_column API.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/guide/migrate/migrating_feature_columns?hl=nl",
+      "originalUrl": "https://www.tensorflow.org/guide/migrate/migrating_feature_columns?hl=nl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=nl",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-are-ai-and-robotics-good-investments.md",
+      "title": "Are AI and Robotics Good Investments?",
+      "excerpt": "It is expected that the robotics market will grow by over $150 billion US dollars by 2025, and that is not only down to growth in commercial use, but it is also anticipated that robotics will become a more integral part of our everyday lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-robotics-good-investments-james-sanders",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH77ghKDP70-w/article-cover_image-shrink_600_2000/0/1632755863578?e=1638403200&v=beta&t=A58t5OOMkAvh-TmlkABJ27muW8H8czOLBQc8y627e_s",
+          "width": 739,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-an-ultralow-power-artificial-synapse-for-next-generation-ai-systems.md",
       "title": "An ultralow power artificial synapse for next-generation AI systems",
       "excerpt": "Brain-inspired computing is a promising candidate for next-generation computing technologies. Developing next-generation advanced artificial intelligence (AI) systems that can be as energy-efficient,",
@@ -891,275 +1185,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-axis-launches-8th-generation-artpec-system-on-chip-powering-deep-learning-analytics-on-the-edge.md",
-      "title": "Axis launches 8th generation ARTPEC system-on-chip powering deep-learning analytics on the edge",
-      "excerpt": "Axis launches 8 th generation ARTPEC system-on-chip powering deep-learning analytics on the edge. Axis Communications announces the 8 th generation of its custom-designed system-o",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210927005193/axis-launches-8th-generation-artpec-system-on-chip-powering-deep-learning-analytics-on-the-edge",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210927005193/axis-launches-8th-generation-artpec-system-on-chip-powering-deep-learning-analytics-on-the-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-engineering-local-recommendations-leveraging-heinekens-global-scale.md",
-      "title": "Engineering local recommendations leveraging HEINEKEN's global scale",
-      "excerpt": "The HEINEKEN Company is innovating its 157 years old business with data and analytics. Recommendation systems increasingly support our business processes by filtering information for insights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/engineering-local-recommendations-leveraging-global-van-der-goes",
-      "originalUrl": "https://www.linkedin.com/pulse/engineering-local-recommendations-leveraging-global-van-der-goes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQGMyYVesu3FuQ/article-cover_image-shrink_600_2000/0/1632724880412?e=1639008000&v=beta&t=946KCQQXJKo69bwczeC5H4hei93-oj4imvn9zWmqoZ0",
-          "width": 1664,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T01:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-baker-mckenzie-taps-new-leads-for-data-and-machine-learning-team.md",
-      "title": "Baker McKenzie taps new leads for data and machine learning team",
-      "excerpt": "Baker McKenzie has tapped two \"co-founders\" to lead its new data science and machine learning team, artificial intelligence legal pro Brian Kuhn and Danielle Benecke, an IP and tech senior associate at the firm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/legal/legalindustry/baker-mckenzie-taps-new-leads-data-machine-learning-team-2021-09-27/",
-      "originalUrl": "https://www.reuters.com/legal/legalindustry/baker-mckenzie-taps-new-leads-data-machine-learning-team-2021-09-27/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/YMXmz3luVzWweEX3uVzebea-X1Q=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X7JCW4RFGFO47EY5DC4JSWRXEM.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-artificial-intelligence-ai-chips-market-statistics-2021-study-with-covid-19-impact-qualcomm-adapteva-intel-corporation-baidu.md",
-      "title": "Artificial intelligence (AI) Chips Market Statistics 2021-Study with COVID-19 Impact | Qualcomm, Adapteva, Intel Corporation, Baidu",
-      "excerpt": "Pune, Maharashtra, India, September 27 2021 (Wiredrelease) Market.biz –:Market.biz added the Most up-to-date research on“Global Artificial intelligence (AI) Chips Market 2021-2026” to its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chips-market-statistics-2021-study-with-covid-19-impact-qualcomm-adapteva-intel-corporation-baidu",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chips-market-statistics-2021-study-with-covid-19-impact-qualcomm-adapteva-intel-corporation-baidu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/5756_D013_00082_R_CROP-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-absa-launches-facial-recognition-tech-in-south-africa.md",
-      "title": "Absa Launches Facial Recognition Tech in South Africa",
-      "excerpt": "Absa, one of South Africa’s largest banks and a pan-African lender, has officially launched facial recognition technology in its Android and iOS apps, which some users will need to utilize to authenticate certain transactions through facial scans.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/",
-      "originalUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/09/Absa-Facial-Recognition-Tech.jpeg",
-          "width": 800,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/?amp",
-      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/?amp",
-      "publishedDateTime": "2021-09-27T01:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News Africa",
-        "domain": "itnewsafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-27-language-io-launches-ai-powered-machine-translations.md",
-      "title": "Language I/O Launches AI-Powered Machine Translations",
-      "excerpt": "Concept: Wyoming’s startup Language I/O has developed AI-powered software for real-time, company-specific language translations. It claims to provide text-to-text translation in over 100 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/research-reports/language-i-o-launches-ai-powered-machine-translations/",
-      "originalUrl": "https://www.just-auto.com/research-reports/language-i-o-launches-ai-powered-machine-translations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/37/2021/09/shutterstock_757643182.jpg",
-          "width": 500,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-27T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

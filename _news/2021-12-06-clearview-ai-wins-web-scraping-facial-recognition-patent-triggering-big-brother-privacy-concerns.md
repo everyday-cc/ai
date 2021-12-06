@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Clearview AI close to being awarded a US patent for its facial recognition tech"
+    excerpt: "Controversial firm Clearview AI is close to being awarded a patent for its facial recognition technology, which is used to scan faces from pictures available on"
+    publishedDateTime: 2021-12-06T16:33:00Z
+    webUrl: "https://www.techspot.com/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 100
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/12/2021-12-06-image-9.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
   - title: "Govt to introduce facial recognition technology at airports by March 2022"
     excerpt: "Minister of State for Civil Aviation Ministry General V K Singh (retd) said AAI is working on a project of FRT-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports."
     publishedDateTime: 2021-12-02T09:01:00Z
@@ -134,6 +150,20 @@ related:
       - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/12/16x9/clearviewai.61a8c7950357f.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Clearview’s internet-as-facial recognition reference database concept to be granted patent"
+    excerpt: "Clearview has received a ‘notice of allowance’ from the USPTO, setting up a grant of the patent once all the associated fees have been paid."
+    publishedDateTime: 2021-12-06T16:11:00Z
+    webUrl: "https://www.biometricupdate.com/202112/clearviews-internet-as-facial-recognition-reference-database-concept-to-be-granted-patent"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/23131916/patents-ideas.jpg"
+        width: 848
+        height: 339
         isCached: true
 
 secured: "ugCoA9a3pMOlKXEXJXqUejRP2w249sUhMnxOFJE7bEleHhINxZaVXIAgfv/4uAouzK00PFUCXuNYAwlq5kPqEzTS3bbky1pbVXyifVkhopquWccJLiqsndcrmN9Upu3Up7gpCZlKDyDbzQjuwN4SOq7hqo78HI9OM4SkXMRj4KP5fHSKfoJOJmI9f6AqKki1IHNG/D9ciAOIKDQU5xPNI9cUkikyhQ98N2495a5xlJYz3kkz9yqUKvwMfV7SGPr8jomIZVJ2Dclo5bu4BCSjdcRsygZEhKMTNMFukgL0o4LjOeKOvHO2V6MuOElFiaEySLVGj7S38pEocVVKu7NZUqECVCOGdKwOAdCZ0z96vU520a91TJ/lcc38jbfCcZ/kkBWn4zz03pW23AMzr4HwjBRZQJDJ5VCNnsA7lA2LBU8tRoJqv9WQUq8PYSvvx02DNQSYhE0YS3YilaVUrCIGpOUE7B65h1aOw4jLUsSkV5s5HYMIg4TEDjO60N8VMJH28o1YIJi68JVmI+y16mjmcQ==;fgK9roQie4+c+E4xpYYpGg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12638"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12638"
 type: article
 quality: 108
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind claims AI has aided new discoveries and insights in mathematics"
-    excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DeepMind claims that its AI systems helped mathematicians to discover new -- and significant ..."
-    publishedDateTime: 2021-12-02T09:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics-10803024"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 95
   - title: "Scientists identify new pattern in mathematics using artificial intelligence"
     excerpt: "Scientists have identified patterns in mathematics that have never been seen before.  The discovery, made by the use of artificial intelligence, can help to develop fundamentally new problem-solving techniques."
     publishedDateTime: 2021-12-05T16:49:00Z
@@ -54,15 +45,22 @@ related:
         width: 918
         height: 506
         isCached: true
-  - title: "Computer science: Artificial intelligence does the maths"
-    excerpt: "Since the 1960s, mathematicians have used computers to aid the discovery of patterns and formulation of conjectures, but artificial intelligence systems are not commonly used in theoretical mathematical research."
-    publishedDateTime: 2021-12-01T23:59:00Z
-    webUrl: "https://www.natureasia.com/en/research/highlight/13893"
+  - title: "AI Is Discovering New Patterns In Pure Mathematics – Some Of Them Never Seen Before"
+    excerpt: "Advertisement Using artificial intelligence (AI) and machine learning, scientists have created a new mathematical theorem. This discovery is the first to show that artificial intelligence can help with pure mathematics."
+    publishedDateTime: 2021-12-06T16:24:00Z
+    webUrl: "https://wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/"
+    ampWebUrl: "https://wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/amp/"
     type: article
     provider:
-      name: natureasia.com
-      domain: natureasia.com
-    quality: 51
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 85
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/PRI_212914641.jpg"
+        width: 778
+        height: 519
+        isCached: true
   - title: "Machine learning helps mathematicians make new connections"
     excerpt: "For the first time, mathematicians have partnered with artificial intelligence to suggest and prove new mathematical theorems, according to University of Oxford. The work was done in a collaboration between the University of Oxford,"
     publishedDateTime: 2021-12-03T20:55:00Z

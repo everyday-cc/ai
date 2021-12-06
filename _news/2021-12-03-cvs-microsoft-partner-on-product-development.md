@@ -84,15 +84,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 54
-  - title: "Mindtree has earned the Al and Machine Learning on Microsoft Azure advanced specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner's deep knowledge,"
-    publishedDateTime: 2021-12-02T00:19:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20211201/3865385.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 41
   - title: "CVS, Microsoft forge digital care partnership"
     excerpt: "CVS Health and Microsoft established a strategic partnership focused on digital health and personalized care, the two companies said Dec. 2. By partnering with Microsoft, CVS is aiming to create more personalized customer experiences through data."
     publishedDateTime: 2021-12-02T16:01:00Z
@@ -106,6 +97,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "CVS Health and Microsoft agree new strategic alliance"
+    excerpt: "Healthcare provider CVS Health and Microsoft have agreed a new strategic alliance to develop new healthcare solutions and provide 300,000 CVS Health employees with tools to serve over one million customers."
+    publishedDateTime: 2021-12-06T16:11:00Z
+    webUrl: "https://www.technologyrecord.com/Article/cvs-health-and-microsoft-agree-new-strategic-alliance-127401"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10629/img-CV-Health_940x443.jpg"
+        width: 940
+        height: 443
         isCached: true
 
 secured: "ivyUfMhbvWfe8L+B67GKsUnr6o5sNI/wIAefK8m+he0bfQBml72traZ8GoJy6EVtR2KfcCUeiq5qgTIwfRbFMzTYFYstfGFUFeUymQTftDesDihQlD+dYTh4nR7d/KjfItM4086w5bTep6+nYGoXQp2Gc4nfsuDgwcaMnXr2m4QAGng/eunONz9vJ7hVEIm5jFBWe8jBrhU1+cSFwCEXYXLXeYUPQu20d07iteXCF5Pwg0L1efU1eP2j0NrUcVEz+Nh+3sGJCLn9QVPTEcvu5A1QKnEz+jrZMOmZ9f8vDMGMHSH9T7MUXimTJjekL40oEbHpQmMlsQdTwwN3L3iega2CV0Wz1DQ+gxyg3VI9oKE9HCn9FXzJPigdAm2S4oUb5Ukut6u+eMXYYOFik0jsfi9Hp2H2RGx72eeol/HROgVUERKQzBx0MxEt5vv9W0jfSh4IygLyHpb8OX84gwwezOUyRLJJmc50RHhyCBJOO9BHT1CN/DzSve7zf0mS7fdnXSuDIYB7L4IKNyKeepwtZA==;moXTj3ypMvvS63dqiMz35w=="

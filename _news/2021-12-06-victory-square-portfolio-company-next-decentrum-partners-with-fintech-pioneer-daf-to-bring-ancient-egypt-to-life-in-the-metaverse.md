@@ -1,31 +1,23 @@
 ---
 category: news
 title: "Victory Square Portfolio Company, Next Decentrum Partners with FinTech Pioneer DAF to Bring Ancient Egypt to Life in The Metaverse"
-excerpt: "Victory Square Technologies Inc. (\"Victory Square\" or \"Company\") (CSE:VST) (OTC:VSQTF) (FWB:6F6), a company that provides investors access to a diverse portfolio of next generation technology companies in key sectors including: Web 3,"
-publishedDateTime: 2021-12-06T11:45:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/g24454950/victory-square-portfolio-company-next-decentrum-partners-with-fintech-pioneer-daf-to-bring-ancient"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/g24454950/victory-square-portfolio-company-next-decentrum-partners-with-fintech-pioneer-daf-to-bring-ancient"
-ampWebUrl: "https://www.benzinga.com/amp/content/24454950"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24454950"
+excerpt: "Victory Square Portfolio Company, Next Decentrum Partners with FinTech Pioneer DAF to Bring Ancient Egypt to Life in The Metaverse"
+publishedDateTime: 2021-12-06T12:47:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/12/06/victory-square-portfolio-company-next-decentrum-partners-with-fintech-pioneer"
+webUrl: "https://stockhouse.com/news/press-releases/2021/12/06/victory-square-portfolio-company-next-decentrum-partners-with-fintech-pioneer"
 type: article
-quality: 14
-heat: 14
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
-
-secured: "T6dPe5+UZ5wj0Sh6vl6X0NfVt87ZdTp82/+TQEKI44vsMQ5/LdkcFcs09JP8mAuBcwRDi4jR0KY9W0Meq/Xd15vbdyVuDSl75rTU9GIWboYP6Y+ThbiWNhZXn+QVLwo9J64QDnSS6OmTwgq6TDP0FB2PKO0gvumhEbc5Nl1ziSs4kKAjKNvmVvJ29q/h8J+Tt/tgUgTMbllojdP+X6+t3yX0KOXifCNBMnAYZlfVAUdypvjFajdDFwII6zoi0fSzEZklNMY0j2MLlSXuruTNxwJsIvuRYBRPuqWZYon67r3q2rUeIb3MAp1ZW3n1K3ZAwE7XBFwMz1vW0ckDu4B8BjoekZ7lpmjXsY1OdCF2eC8=;9epOYtyhum5yjUKc0Zh72A=="
+secured: "WOV6a8RwuTWfk/dDOo/iYz/PgEo7ewZurCPnw4CAi0OTAFqWyO4kQdy5TjMAX6qQcR8DrKZ2T8YXWJg1VfT5ZNszNm+IgItXog4yjf/DoRgdpfFm8G9NayudECswWLDyfD0EhgPhCeNj0r4iEDw1SjXvWRPclEi6SeOEi6ulqOaL9R8xMmMXJjT5phInMB1Ws9PKbOChAkstMc2+ZL3dhZEe9GL+b5AdsT8ldUN0kuCLk26xCtQZAsKT2yKLFnmIRwcaCxSh3MSJcvjkOyTx6LDgviN4wC0RKXKFZNcx2zN25MKc8ekjHGffOOm2fbskXKmHKJuvHmxJWVuqBT+oeiROlQeULK/EFnTNtfN8bkrXJUBthWKxWXw23ZB6e82lPTC2taTNHr21V5CNSs5nlwnhvPcVyDV6wwN4uAJSeYjnKsftx+n+ZKvg4Yvd6Z/tLtnKNpwX6UwW8Ni0HFgpa4Gw7V4AhKAl/zJzIsPQOolh1iHcFU+B1ZYJ7VqyaJAZ40Hrhe2t+x6TmeXWDeGjYQ==;BX6WdPpfk1SfsqdWvnKJPQ=="
 ---
 

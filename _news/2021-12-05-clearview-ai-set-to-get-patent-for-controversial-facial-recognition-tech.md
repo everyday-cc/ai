@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
 type: article
 quality: 103
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Clearview AI close to being awarded a US patent for its facial recognition tech"
+    excerpt: "Controversial firm Clearview AI is close to being awarded a patent for its facial recognition technology, which is used to scan faces from pictures available on"
+    publishedDateTime: 2021-12-06T16:33:00Z
+    webUrl: "https://www.techspot.com/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 100
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/12/2021-12-06-image-9.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
   - title: "Govt to introduce facial recognition technology at airports by March 2022"
     excerpt: "Minister of State for Civil Aviation Ministry General V K Singh (retd) said AAI is working on a project of FRT-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports."
     publishedDateTime: 2021-12-02T09:01:00Z
@@ -138,6 +154,20 @@ related:
       - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/12/16x9/clearviewai.61a8c7950357f.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Clearview’s internet-as-facial recognition reference database concept to be granted patent"
+    excerpt: "Clearview has received a ‘notice of allowance’ from the USPTO, setting up a grant of the patent once all the associated fees have been paid."
+    publishedDateTime: 2021-12-06T16:11:00Z
+    webUrl: "https://www.biometricupdate.com/202112/clearviews-internet-as-facial-recognition-reference-database-concept-to-be-granted-patent"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 29
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/23131916/patents-ideas.jpg"
+        width: 848
+        height: 339
         isCached: true
 
 secured: "9GJV71+bvKwJpRt/IDhMDIzIAPy4k2hoaOObabivaenarb1cqkYXPmF9ijg0kF4l7Xc9cb4PY6O7QKfPmUKfunK1xjnnJ9qOB2Q7H8FRYiqEbI5vpNTfjFZrmDJkXPJMPk03VGXbSwtqGRf9Bo7VGm7QI2KltWAw0cgm6kSKme2yccAlMxEBypiG8i0IQgMC5xhcdKOQ4UuVo6okLDf1g8rOwbcI49t6q7X4qgnisxi8435FKE+racTd0zBt09B/Bnzw9f2RPUFyqrl1fgDyrWOaEnc9V9/sgt+I0IUa2q95/M2B/4Hi16w1Eq4tDi0Y/Ejf4ajxZD8T94BoesIsS2HoIB5ZNFYAEq3LV6uBtMs=;rQs3DpLpTKIyLHS6prjqnQ=="

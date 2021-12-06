@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-a
 webUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/"
 type: article
 quality: 101
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -66,20 +66,6 @@ related:
       - url: "https://assets.technologynetworks.com/production/dynamic/images/content/356418/deepmind-ai-used-to-develop-new-math-techniques-356418-640x360.jpg?cb=20211202"
         width: 640
         height: 360
-        isCached: true
-  - title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
-    excerpt: "A mathematician,” the Hungarian number theorist Alfred Renyi said, “is a machine for turning coffee into theorems”.The world’s mathematicians might soon be n"
-    publishedDateTime: 2021-12-02T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt?shareToken=bb133333581b31a70da05562c8e5cf05"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 48
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F31c8a572-52f8-11ec-a5fe-8f0d6a1c517d.jpg?crop=2000%2C1125%2C0%2C104&resize=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "YrmLp+v7xUoZKoCM8ryfgFlYqV/ryzdO2pC54Xl+eSwqnD+dYR4ly9b6sEvNmwavHxng+DOzARznlqHf8cn9YQ/IHwzcrMR7O5DrEN3tgvKXWZEzt/a/k31jkF2K++q2HhMstFYUFbfki1JauDhOQ6hxBzNw31PIJnWqZcHkyyJtPIZ9CUME7VvM8wIZh4k+7J7b6dTMwZz98blGBpYFY51YEWOB0wm1No+ONK5c59qgylYTi8AANksHQP1wBnh3vJq/OFe+gcAOWBTNwKJg0MtD49GCzXTLL7AqNvaD5tKRUDFmFNjPoM5t60C+4GB2nEfSklICGRrQ4KinZPPwQaOO7CbJQlCToLHasir/Kzs=;/fCIhoury/tsUwDfeDVY0g=="

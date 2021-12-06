@@ -2,6 +2,196 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-04-3d-printers-robotics-new-tools-being-used-in-new-jcps-learning-lab.md",
+      "title": "3D printers, robotics new tools being used in new JCPS learning lab",
+      "excerpt": "Robots and virtual reality are part of the new digital learning lab at Dubois Academy in the Newburg neighborhood.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlky.com/article/3d-printers-robotics-new-tools-used-jcps-learning-lab/38429343",
+      "originalUrl": "https://www.wlky.com/article/3d-printers-robotics-new-tools-used-jcps-learning-lab/38429343",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/vidthumb/7efb864c-6a43-43c9-bad7-9b372e937e56/7efb864c-6a43-43c9-bad7-9b372e937e56_image.jpg?crop=0.746xw:0.745xh;0.188xw,0&resize=1200:*",
+          "width": 955,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wlky.com/amp/article/3d-printers-robotics-new-tools-used-jcps-learning-lab/38429343",
+      "cdnAmpWebUrl": "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/3d-printers-robotics-new-tools-used-jcps-learning-lab/38429343",
+      "publishedDateTime": "2021-12-04T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLKY",
+        "domain": "wlky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-4th-international-conference-on-robotics-and-computer-vision-icrcv-2022.md",
+      "title": "4th International Conference on Robotics and Computer Vision (ICRCV 2022)",
+      "excerpt": "International Conference on Robotics and Computer Vision (ICRCV 2022)--Ei Compendex, Scopus. Web:  Time: September 25-27, 2022. Venue: Wuhan Institut",
+      "sourceUrl": null,
+      "webUrl": "https://www.eventbrite.sg/e/4th-international-conference-on-robotics-and-computer-vision-icrcv-2022-tickets-218998599707",
+      "originalUrl": "https://www.eventbrite.sg/e/4th-international-conference-on-robotics-and-computer-vision-icrcv-2022-tickets-218998599707",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F193094599%2F527281139803%2F1%2Foriginal.20211129-081740?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=361%2C0%2C772%2C386&s=5793cc950dd438fc42333e98e81671f3",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eventbrite",
+        "domain": "eventbrite.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about.md",
+      "title": "How AI and ML can thwart a cybersecurity threat no one talks about",
+      "excerpt": "A new report by Honeywell says 46% of known OT cybersecurity threats are poorly detected or not detected at all.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/",
+      "originalUrl": "https://venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-167687205.jpg?fit=800%2C532&strip=all",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/amp/",
+      "publishedDateTime": "2021-12-03T20:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-how-to-turn-ai-failure-into-ai-success.md",
+      "title": "How to turn AI failure into AI success",
+      "excerpt": "Enterprises are racing into AI-driven analytics and processes, but there will be a steep learning curve before certain advances are made.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/",
+      "originalUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/data-e1619691430527.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/",
+      "publishedDateTime": "2021-12-03T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-15-essential-alexa-skills-that-amazons-ai-assistant-can-learn-to-help-make-your-life-easier.md",
       "title": "15 essential Alexa skills that Amazon's AI assistant can learn to help make your life easier",
       "excerpt": "Amazon Alexa skills allow you to customize the artificially intelligent assistant to suit all sorts of needs.",
@@ -10,7 +200,7 @@
       "originalUrl": "https://www.businessinsider.com/alexa-skills",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -401,7 +591,7 @@
       "originalUrl": "https://www.republicworld.com/technology-news/science/humanoid-robot-ameca-shows-most-accurate-facial-expressions-in-new-video-watch.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -444,7 +634,7 @@
       "originalUrl": "https://www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -686,49 +876,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-03-youll-freak-when-you-watch-ameca-the-humanoid-ai-robot-come-to-life.md",
-      "title": "You'll Freak When You Watch Ameca The Humanoid AI Robot Come To Life",
-      "excerpt": "Engineered Arts' robot Ameca has people both amazed and fearful as images from movies like I, Robot are brought to mind.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/watch-ameca-come-to-life",
-      "originalUrl": "https://hothardware.com/news/watch-ameca-come-to-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/56955/content/ameca-robot.jpeg",
-          "width": 708,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/watch-ameca-come-to-life",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/watch-ameca-come-to-life",
-      "publishedDateTime": "2021-12-03T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-03-moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign.md",
       "title": "Moloco Earns 2021 SMARTIES Award for Machine Learning & AI Campaign",
       "excerpt": "Esteemed marketing trade association MMA has recognized Moloco as a leader in marketing technology REDWOOD CITY, Calif. (PRWEB) Moloco (",
@@ -833,7 +980,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1056,153 +1203,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems.md",
-      "title": "South African crowd-solving startup Zindi building a community of data scientists and using AI to solve real world problems",
-      "excerpt": "Zindi is all about using AI to solve real world problems for companies and individuals. And the South Africa-based crowd-solving startup has done that over the last three years they have been in existence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
-      "originalUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Zindi-Team-in-Cape-Town-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/",
-      "publishedDateTime": "2021-12-02T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference.md",
-      "title": "SKKU: FinTech Research & Education Center for Global Leaders in Financial Innovation holds “2021 Global AI Finance Research Conference”",
-      "excerpt": "FinTech Research & Education Center for Global Leaders in Financial Innovation (Director: Prof. Kyo Jik Song) will hold the “2021 Global AI Finance Research Conference” at Sonocam Hotel in Yeosu from",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
-      "originalUrl": "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/11/640px-Samsung_Library_at_Suwon_campus_of_Sungkyunkwan_University.jpeg",
-          "width": 640,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
-      "publishedDateTime": "2021-12-02T19:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-emerging-ai-companies-are-driving-a-paradigm-shift-in-ml.md",
-      "title": "Emerging AI Companies Are Driving A Paradigm Shift in ML",
-      "excerpt": "Leadership from Cruise and Facebook AI discuss the emergence of AI native companies and the paradigm shift being driven by advances in ML and robotics. Just as web transformed business, then the emergence of mobile and cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/video/emerging-ai-companies-are-driving-a-paradigm-shift-in-ml/",
-      "originalUrl": "https://techcrunch.com/video/emerging-ai-companies-are-driving-a-paradigm-shift-in-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.vidible.tv/prod/2021-12/01/61a7d5b4d0cfc04f658ab6fd/61a7d658b3835047bf8f1227_o_U_v1.jpg?w=640&h=360",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

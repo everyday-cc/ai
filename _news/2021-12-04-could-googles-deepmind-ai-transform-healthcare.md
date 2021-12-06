@@ -66,20 +66,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "DeepMind’s artificial intelligence software helps mathematicians pinpoint patterns"
-    excerpt: "A mathematician,” the Hungarian number theorist Alfred Renyi said, “is a machine for turning coffee into theorems”.The world’s mathematicians might soon be n"
-    publishedDateTime: 2021-12-02T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/deepminds-artificial-intelligence-software-helps-mathematicians-pinpoint-patterns-3c5cwmmdt?shareToken=bb133333581b31a70da05562c8e5cf05"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 48
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F31c8a572-52f8-11ec-a5fe-8f0d6a1c517d.jpg?crop=2000%2C1125%2C0%2C104&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "eRtdzgVjKgRzt4W2XTGJACDcxZygLfpOv/q67KgeMPcTrzFmPORtJVuOoCO1DcR+JplSmjgA8qup92d5vslleql3wcjrZGxB7DZVToio0Q0eRghxuNd4ZgxSbO05aGV4yq8tLlgpjWlU9z+evGdX0iP0SiYIwQg0PX3lQw3gTO8edx7uU296nAw9VjupxOBUbbdXUPHsmwfKwnwTkrQL/hpiFajW5e1ZNY0DDC+vvAL2MCHAJG+0tZpIl7MRKx5w4bBdraFjSYOVwx+R9R6UPnXQlIVftvcpxyTSxyVwnVtw+0bsA/0rLAIoroFSIfuEWYKwg/YfAJf76K3efsG8T7o5UPzY0i1hUf6APRXHbU4=;C5PZFxFYfGo9OOOinVTFTQ=="
 ---
