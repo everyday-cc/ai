@@ -1,22 +1,28 @@
 ---
 category: news
-title: "SecureKloud's step down subsidiary bags document processing automation contract in US"
-excerpt: "Healthcare Triangle's deep expertise in Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) has helped Monument Health turn their clinical data from disparate sources into actionable insight."
-publishedDateTime: 2021-11-24T05:01:00Z
-originalUrl: "https://www.business-standard.com/article/news-cm/securekloud-s-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400297_1.html"
-webUrl: "https://www.business-standard.com/article/news-cm/securekloud-s-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400297_1.html"
-ampWebUrl: "https://wap.business-standard.com/article-amp/news-cm/securekloud-s-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400297_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/securekloud-s-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400297_1.html"
+title: "SecureKlouds step down subsidiary bags document processing automation contract in US"
+excerpt: "USA, a step-down subsidiary of SecureKloud Technologies has been selected by Monument Health to automate their document processing through readable A.I. Healthcare Triangles deep expertise in Artificial Intelligence (AI),"
+publishedDateTime: 2021-11-24T04:41:00Z
+originalUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/secureklouds-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400431_1.html"
+webUrl: "https://www.indiainfoline.com/article/capital-market-corporate-news/secureklouds-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400431_1.html"
+ampWebUrl: "https://www.indiainfoline.com/article-amp/capital-market-corporate-news/secureklouds-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400431_1.html"
+cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-corporate-news/secureklouds-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400431_1.html"
 type: article
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: India Infoline
+  domain: indiainfoline.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "Y0/F02O2ZLzzpuhi22WgJ8VhmejoSEf5+ntp0S8FY2sp/TzuAob4hvYRnUDQf1R6kUr3qYVGsN+4YPcK/1BGTaQOKX8ud/BriJLryH8egIFQ1qP0q2BSdSNLwKqSn7OyGWszjNGKaOexj2eYLshFyHo0qxkaJ3mUjEJB8w2eXUrT18PMkWTSlkhxK4+q1kxSEw2ubNb0lTi4Vyh+Hzs24YG9odpU7w8SA/J+boD1gpiGzZoJtgwh/3kIqrqu6aIS61fzA+Ha3iUv10oPAdSRVQ3Z662N7gqDTqIhN50E0S1hRlpgs47KbR+jFp3G6Cu05onE4q8wM7CHJeIApmqdOU26Ql/agW82Nc7bLcWOunQ=;PqDsKLWcRj12ph1YPZKEvg=="
+images:
+  - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
+    width: 350
+    height: 233
+    isCached: true
+
+secured: "5j/YIsGV1gXDAFPZICkRvIT7chIkoEMMxjWqg0RToW85iVCPrzFOEMynFggtFf4G7LY5yXwEtczjkvVhgpBrdoXe/IPH5OjfjJAVU3di3EQBRjwfJ9TQZFs+ShG4wmsmiJMCpNM6s53b50THoOUuhtktwdm2HHCnbuwthAV9HLqMtP1iRo1P5IPCrVIQnCM+gIQnVlAANI5u6P6LFPwAtmvdndeE5XuaS406aOl14jbtABMWTU63518VhJYkhFV9tSA44RhNwHW8GLJbXOSeFLbzcSbNKgF/BnA8Z2n20wc8U7bN0hTt5igtNvTefvq98CW54NFXGsQnH0iFq78Cp7PMA0YWSBigmOGBl5BMDZY=;jIZyGzJNy5GbNpBTU5lDpg=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-2021-research-strategies-trend-and-future-development-status-forecast-by-2027-2021-12-01"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: MarketWatch
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Most Popular Artificial (AI) Trends to Watch out for in 2021"
-    excerpt: "Fremont, CA: While the COVID-19 pandemic had an impact on many aspects of how we do business, it did not lessen the impact of Artificial Intelligence (AI) on our daily lives. Indeed, it is becoming clear that self-teaching algorithms and intelligent ..."
-    publishedDateTime: 2021-12-01T10:08:00Z
-    webUrl: "https://www.cioapplications.com/news/most-popular-artificial-ai-trends-to-watch-out-for-in-2021-nid-8825.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 41
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/okqgy450x308.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "Global Deep Learning Camera Market 2021 Driving Factors, Industry Growth, Key Vendors and Outcomes of the Five Forces Analysis by 2027"
     excerpt: "MarketandResearch.biz has declared the addition of a new research report titled Global Deep Learning Camera Market Research Report 2021-2027 which is all around made by considering its essential information in the overall global Deep Learning Camera market."
     publishedDateTime: 2021-12-02T02:24:00Z

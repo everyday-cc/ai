@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Future of Healthcare AI Depends on Data"
-    excerpt: "Artificial intelligence is transforming healthcare across clinical use-cases like radiology and robotic surgery, as well as many other operational applications. Access to high quality data is one of the key components driving technological innovation in healthcare."
-    publishedDateTime: 2021-12-03T02:54:00Z
-    webUrl: "https://techcrunch.com/video/the-future-of-healthcare-ai-depends-on-data/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://img.vidible.tv/prod/2021-12/01/61a7da70830dda0e7d107090/61a7dcf7e162092f936a9abd_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Public relations practitioners' AI knowledge is limited, but they are aware of AI's potential"
     excerpt: "A new research report from the Chartered Institute of Public Relations' AIinPR Panel, which has been co-authored by the University's Emeritus Professor of Corporate Communication Anne Gregory, has found that practitioners see the huge potential that artificial intelligence (AI) and Big Data offers the profession but possess limited knowledge on technical aspects of both."
     publishedDateTime: 2021-12-02T19:52:00Z

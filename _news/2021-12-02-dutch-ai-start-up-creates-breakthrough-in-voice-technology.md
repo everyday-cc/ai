@@ -19,15 +19,66 @@ topics:
   - AI
 
 related:
-  - title: "Daisys B.V.: Dutch AI start-up creates breakthrough in voice technology"
-    excerpt: "New voices that sound like real people' LEIDEN, Netherlands, Dec. 2, 2021 /PRNewswire/ -- Today, voice technology company DAISYS B.V. (Leiden, the Netherlands) announces their release"
-    publishedDateTime: 2021-12-02T14:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54649796-daisys-b-v-dutch-ai-start-up-creates-breakthrough-in-voice-technology-008.htm"
+  - title: "Maths researchers hail breakthrough in applications of artificial intelligence"
+    excerpt: "For the first time, computer scientists and mathematicians have used artificial intelligence to help prove or suggest new mathematical theorems in the complex fields of knot theory and representation theory."
+    publishedDateTime: 2021-12-01T16:00:00Z
+    webUrl: "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.html"
+    ampWebUrl: "https://phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-maths-hail-breakthrough-applications-artificial.amp"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
+      name: Phys.org
+      domain: phys.org
+    quality: 102
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/maths-researchers-hail-1.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
+  - title: "DeepMind’s AI helps untangle the mathematics of knots"
+    excerpt: "Researchers at AI powerhouse DeepMind, based in London, teamed up with mathematicians to tackle two separate problems — one in the theory of knots and the other in the study of symmetries. In both cases,"
+    publishedDateTime: 2021-12-01T17:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-03593-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 86
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-03593-1/d41586-021-03593-1_19914642.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "DeepMind AI collaborates with humans on two mathematical breakthroughs"
+    excerpt: "Humans and AI working together can reveal new areas of mathematics where data sets are too large to be comprehended by mathematicians"
+    publishedDateTime: 2021-12-01T16:00:00Z
+    webUrl: "https://www.newscientist.com/article/2299564-deepmind-ai-collaborates-with-humans-on-two-mathematical-breakthroughs/"
+    ampWebUrl: "https://www.newscientist.com/article/2299564-deepmind-ai-collaborates-with-humans-on-two-mathematical-breakthroughs/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2299564-deepmind-ai-collaborates-with-humans-on-two-mathematical-breakthroughs/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/12/01145204/PRI_212914641.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "AI applications progress in musculoskeletal applications"
+    excerpt: "Artificial intelligence (AI) algorithms are demonstrating utility in a number of important musculoskeletal imaging applications, according to a hot topic session held Tuesday at RSNA 2021 in Chicago."
+    publishedDateTime: 2021-12-01T16:44:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemID=134400"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 37
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/radcastredirect/2021_11_28_21_10_5678_RSNA_2021_AI_social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "TFuaVcbShyYecMSD+Yhu70isGRjWvFR9cPrauo82GwfIxU6NLRkiKU8SDiIU15AINEAoPNn9mQQtJFN2H3dmxK2NLtFl/M9YRnYHVnJ8rpzQD8BzcMvFJox1D+M5skXSzMDHx7TEG/C0F2r5T375o+5jeLvP3bXvjun/8F8y8+LeHyGr/w10D9fkqcerOoEFkBj8PAqHnFzte1tXrSwZbEaRHJhOZubxY6cuZh8W3tcSujv+q/Qsc7XVMBItbsJjn5yXsK/OBcH1Duzg1CkOfl/hik2CY1w+3+2W4s/z39nXJprjphrRrJuhYt0lYCuV6ZPI6B8WJ0RPF3TSdoNJPF1NQamtUnAlCDTHF8/XTC4=;so24TCfrMAP7xNxG2X7t3w=="
 ---

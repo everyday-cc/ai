@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/"
 type: article
 quality: 93
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "The Future of Healthcare AI Depends on Data"
-    excerpt: "Artificial intelligence is transforming healthcare across clinical use-cases like radiology and robotic surgery, as well as many other operational applications. Access to high quality data is one of the key components driving technological innovation in healthcare."
-    publishedDateTime: 2021-12-03T02:54:00Z
-    webUrl: "https://techcrunch.com/video/the-future-of-healthcare-ai-depends-on-data/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://img.vidible.tv/prod/2021-12/01/61a7da70830dda0e7d107090/61a7dcf7e162092f936a9abd_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
         isCached: true
   - title: "Public relations practitioners' AI knowledge is limited, but they are aware of AI's potential"
     excerpt: "A new research report from the Chartered Institute of Public Relations' AIinPR Panel, which has been co-authored by the University's Emeritus Professor of Corporate Communication Anne Gregory, has found that practitioners see the huge potential that artificial intelligence (AI) and Big Data offers the profession but possess limited knowledge on technical aspects of both."

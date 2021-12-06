@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aw
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp"
 type: article
 quality: 106
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/0/8/6/1359086_discoverymultidevicelockupimage_764460.jpg"
         width: 1024
         height: 536
+        isCached: true
+  - title: "Meta Selects AWS as a ‘Key’ Cloud Provider"
+    excerpt: "Meta is deepening its relationship with AWS as a “key” and “long-term” strategic cloud provider. See more here:"
+    publishedDateTime: 2021-12-06T02:44:00Z
+    webUrl: "https://www.datamation.com/cloud/meta-selects-aws-key-cloud-provider/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 39
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/07/AWS-logo.png"
+        width: 1400
+        height: 840
         isCached: true
   - title: "AWS announces expanded cloud partnerships with Meta, Discovery and Aurora"
     excerpt: "Meta Platforms Inc., formerly Facebook Inc., as well as Discovery Inc. and Aurora Innovation Inc., which develops autonomous vehicle technology. The partnership with Meta is the main highlight. Besides being one of the world’s largest tech firms,"

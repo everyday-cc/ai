@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Promethium Announces Issuance of a U.S. Patent for Natural Language Processing Technology"
-excerpt: "Augmented data management and analytics innovator Promethium today announced that the U.S. Patent and Trademark Office has issued a new patent No. 11,074,252, (the '252 patent) further strengthening the company's intellectual property position and capabilities in the data analytics and management industry."
-publishedDateTime: 2021-11-23T11:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-promethium-announces-issuance-a-us-patent-natural-language-/2021/11/23/9498348.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-promethium-announces-issuance-a-us-patent-natural-language-/2021/11/23/9498348.htm"
+excerpt: "Augmented data management and analytics innovator Promethium today announced that the U.S. Patent and Trademark Office has issued a new patent No."
+publishedDateTime: 2021-11-23T10:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/promethium-announces-issuance-of-a-u-s-patent-for-natural-language-processing-technology/article_cf41f5ee-5358-5af2-a44c-0b87e5c97b24.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/promethium-announces-issuance-of-a-u-s-patent-for-natural-language-processing-technology/article_cf41f5ee-5358-5af2-a44c-0b87e5c97b24.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "IhcH2bM905A7Na9Vf2UdH4BcF/xBYW+le+c8AByRHPbU9cHJv5k5eDlDzbCcWBQn5DuQxItQMnt5R++hlctn9I3oHhFaACDAUo4igE7GuZqPkoiRecuGLVvrheG66FFfytC2bLc6N8sUypDWb+ozw3n8EfggCiPkpk1ipqs1XIujqcnkxCdPZ5D92Xz7Bg44xzUiwPltGiQh62XEW3PqFIeAsVvrc7aNy59a1b8jO0DC4ePyhuCzorZLf5oN9zyI8znA9M2rhOcwBkAco/Bu+4/82tWA1TMR50+0Dwj9a3GDGuv74vAsoMVVYWi7+2HfPp1x2fzvhHeBEqBW3/o+6al9J6p7ewVVWQOJKGLv/84=;vWiokvajX9NEy5G5nwmBzw=="
+secured: "99qWwnhZ6lRo/nWl/1ozrE1XnGRWWTdRBbSKiGtlVsY2nd0uaWo1yJ6EeHXRATFlqhHA30PGug9Uva9wyuLMbcHXF6pO6sxabJQXzVlFWzhk7F4OSehM3yi5yvTYT7tHzC6IJVoqqjVpaa8MCGgbNG8JQSjaokw+G9kCsWRh4TzWt/X+63gJV5foZZqzVwoO303DkT6UBWH0SaqXk/OcPjKEfNcgl5fChOSWWPjE+Hts+F0hZeJyB13DwQ3fB2gKzlgnj01G8uC3NPNpSqpCThZUCLyrri1shhgb4XA45ow4GQoaExvt1WEho0PFqnS/PaRltye7kQDXsFYzPG+CbdRldl1ztAPmIEV3i5eEQ4nBRLcqRrwBV3zPbo+yIy9Gu8b57TiSyyu4v2lRIizdJqhHpmWpf+kvEbLz8IvZD+zAkbuRUca9v0BM/7kWKQjixQS091azg+pAXZ0+MirvYSp5qD3S1DswDUW5KsQEM1ATpYtNjmvHbg2f/dqsKJMhIKcYxSRVA4YKUQQuXyNYMw==;/HcDB9FuAA8zPntc9Ko9lA=="
 ---
 

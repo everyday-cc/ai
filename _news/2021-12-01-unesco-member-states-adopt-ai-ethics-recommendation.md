@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "Ethics Of AI: 193 Members Of UNESCO Adopt Recommendations"
-    excerpt: "In a historic global agreement, all 193 members of UNESCO adopt the recommendations on the ethics of AI document"
-    publishedDateTime: 2021-12-01T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/ethics-of-ai-193-members-of-unesco-adopt-recommendations/"
+  - title: "Global Agreement Defines The Ethics of Artificial Intelligence"
+    excerpt: "A historic agreement defines the common values and principles needed to ensure the healthy development of Artificial Intelligence (AI). All the member states of the UN Educational, Scientific and Cultural Organization ( UNESCO) have signed the agreement."
+    publishedDateTime: 2021-12-06T01:07:00Z
+    webUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916-global-agreement-defines-the-ethics-of-artificial-intelligence"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: IDN-InDepthNews
+      domain: indepthnews.info
+    quality: 56
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/eithic-banner_11zon.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.indepthnews.info/images/artificial_intelligence.jpg"
+        width: 750
+        height: 337
         isCached: true
   - title: "UNESCO Member States unanimously adopt first-ever global agreement on AI ethics"
     excerpt: "On 25 November 2021, all 193 Member States of the United Nations Educational, Scientific and Cultural Organisation (UNESCO) unanimously agreed to a Recommendation on the Ethics of Artificial Intelligence. To quote the UNESCO headline, this is \"the first ..."

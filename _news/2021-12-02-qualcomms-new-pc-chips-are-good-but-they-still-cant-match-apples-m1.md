@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-appl
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/snapdragon-8cx-gen-3-intel-apple-3068879/"
 type: article
 quality: 89
-heat: 229
+heat: 219
 published: true
 
 provider:
@@ -94,22 +94,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/Amid-the-global-chip-shortage-Qualcomm-chief-executive-Cristiano-Amon-said-the-shortage-is-gradually-easing-and-the-situation-is-expected-to-improve-next-year-Photo-Mike-Blake?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/35939b5b-f57d-532b-ac89-826713250ff7&operation=CROP&offset=0x115&resize=789x444"
         width: 650
         height: 366
-        isCached: true
-  - title: "Snapdragon 8 Gen 1: The first phones to use Qualcomm's new supercharged chip"
-    excerpt: "We've just seen the Qualcomm 8 Gen 1 chipset get announced, and its touted camera, gaming, 5G and AI benefits certainly sound impressive. However, we won't know just how good this chip is until we get it in a real production phone."
-    publishedDateTime: 2021-12-01T10:49:00Z
-    webUrl: "https://www.tomsguide.com/news/snapdragon-8-gen-1-the-first-phones-to-use-qualcomms-new-supercharged-chip"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/snapdragon-8-gen-1-the-first-phones-to-use-qualcomms-new-supercharged-chip"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/snapdragon-8-gen-1-the-first-phones-to-use-qualcomms-new-supercharged-chip"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 56
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/VLG9Q6q6dpiRast38M4Mfj-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Qualcomm Unveils New Snapdragon 8 Gen 1 Chip for Next-Generation Flagship Phones"
     excerpt: "Qualcomm unveiled its new 5G mobile platform for next-generation flagship Android devices, called Snapdragon 8 Gen 1."

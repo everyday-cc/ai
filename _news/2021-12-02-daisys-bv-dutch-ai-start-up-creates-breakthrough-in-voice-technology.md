@@ -18,17 +18,6 @@ topics:
   - AI
   - AI in Robotics
 
-related:
-  - title: "Dutch AI start-up creates breakthrough in voice technology"
-    excerpt: "Today, voice technology company DAISYS B.V. (Leiden, the Netherlands) announces their release of a worldwide breakthrough in the development of human-sounding voices by means of artificial intelligence."
-    publishedDateTime: 2021-12-02T14:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-dutch-ai-start-up-creates-breakthrough-voice-technology-/2021/12/02/9503690.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-
 secured: "KcFVlpjpigGpeZ0Gsf6rzZCEQdHi6wFrcz2K6FlXiebNAwz9jxCa1BB2lTVdtOr937QPyvNPP62GsCoXQo5l4SEBxZx15HcP1cAwSvgAhMqtmgK/AYVAF6EvK1SvfDLF0Tr13D6cfX//FzxkYieHCmy+OFmHwX0a2wXkXZXofT9sH8e3I+kk9c3QZnRbA70f+yVJvKtd8JnF2eFY0Xyz2Dh8fFK3PJ23Nm9aWZaUNMLo9J0elPwvZZMcJYxOuMd4b6sDKdxL60z12T+efznGJyf5AoO3E5BzHoL7OvFhsFGRxk0/ywyyUkVF/GH4qE/B1AUxwndis3Qmr6FC9N9v7B+U/9YTvKR8+Bfk+SPHQj8=;FMqgyrOhNo/TieXfJaiOtQ=="
 ---
 

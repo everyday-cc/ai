@@ -1,0 +1,57 @@
+---
+category: news
+title: "Global Agreement Defines The Ethics of Artificial Intelligence"
+excerpt: "A historic agreement defines the common values and principles needed to ensure the healthy development of Artificial Intelligence (AI). All the member states of the UN Educational, Scientific and Cultural Organization ( UNESCO) have signed the agreement."
+publishedDateTime: 2021-12-06T01:07:00Z
+originalUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916-global-agreement-defines-the-ethics-of-artificial-intelligence"
+webUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916-global-agreement-defines-the-ethics-of-artificial-intelligence"
+type: article
+quality: 56
+heat: 76
+published: true
+
+provider:
+  name: IDN-InDepthNews
+  domain: indepthnews.info
+
+topics:
+  - AI in Autos
+  - AI
+  - AI Ethics
+
+images:
+  - url: "https://www.indepthnews.info/images/artificial_intelligence.jpg"
+    width: 750
+    height: 337
+    isCached: true
+
+related:
+  - title: "Unesco member states adopt AI ethics recommendation"
+    excerpt: "The non-binding recommendation seeks to define a common set of values and principles to guide the development of ethical AI globally"
+    publishedDateTime: 2021-12-01T12:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252510287/Unesco-member-states-adopt-AI-ethics-recommendation"
+    ampWebUrl: "https://www.computerweekly.com/news/252510287/Unesco-member-states-adopt-AI-ethics-recommendation?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510287/Unesco-member-states-adopt-AI-ethics-recommendation?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 54
+  - title: "UNESCO Member States unanimously adopt first-ever global agreement on AI ethics"
+    excerpt: "On 25 November 2021, all 193 Member States of the United Nations Educational, Scientific and Cultural Organisation (UNESCO) unanimously agreed to a Recommendation on the Ethics of Artificial Intelligence. To quote the UNESCO headline, this is \"the first ..."
+    publishedDateTime: 2021-12-03T22:54:00Z
+    webUrl: "https://www.linkedin.com/pulse/unesco-member-states-unanimously-adopt-first-ever-global-mark-lewis"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 50
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF2wdDyyq3ehQ/article-cover_image-shrink_720_1280/0/1638557356991?e=1644451200&v=beta&t=6wLzP6qyjXz8z0MKB3X4c_0elLhFt-lohxTV3M-wZwE"
+        width: 1280
+        height: 707
+        isCached: true
+
+secured: "3ov+uMnAx3Du9q3lhlAKiuDCj1iISnYO7/3CXpTP6QKPJJOBLMdViA5RGSNEENmS9AgeRhZlwYCVSlCGiZN69OmU+qw76liJAyyeMQmzWZ9Obj9naZzcR3qJOFqa9KvYox5d0O1gvU8NYXSeJl9Q/FVMHJR+8dBZCAvTyaKxmRouFu6CiOBaaUq8Qm4inuQRU7qK3fEro+zU3dIF6tOES71+2yj+CTr99k/VA6grM3XlNv6FFBXi+PKV/8xWD4UPdrQWFXh2v1Ke77dL6Jcru1GZ8v0bRdLvtjmnEKtkcEGHQGb0TIv3O8IEJfqdfDrSMpw8T0ANrOd6jFFXzuiww8msS8XzpQUMZroZuJZmq+s=;5YixGTMsgNNLqbXbgfAC8g=="
+---
+

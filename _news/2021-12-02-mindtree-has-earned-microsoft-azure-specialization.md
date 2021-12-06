@@ -96,20 +96,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 79
-  - title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-    excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
-    publishedDateTime: 2021-12-01T14:00:00Z
-    webUrl: "https://www.prnewswire.com/ae/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 61
-    images:
-      - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
-        width: 1496
-        height: 785
-        isCached: true
   - title: "Artificial Intelligence In Education Market is Thriving Worldwide with Surprising Transition | IBM, Microsoft, Bridge-U"
     excerpt: "As the Political, Economic, Social, Technological, Environmental, and Legal factors continue to change, business leaders across industries have shifted focus to strategic objectives to achieve market excellence."
     publishedDateTime: 2021-12-01T17:30:00Z

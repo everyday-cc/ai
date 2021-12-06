@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Most Popular Artificial (AI) Trends to Watch out for in 2021"
-    excerpt: "Fremont, CA: While the COVID-19 pandemic had an impact on many aspects of how we do business, it did not lessen the impact of Artificial Intelligence (AI) on our daily lives. Indeed, it is becoming clear that self-teaching algorithms and intelligent ..."
-    publishedDateTime: 2021-12-01T10:08:00Z
-    webUrl: "https://www.cioapplications.com/news/most-popular-artificial-ai-trends-to-watch-out-for-in-2021-nid-8825.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 41
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/okqgy450x308.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "LX16EjOEuH5g3qbmtxVDaAK7gbZvKeCqS/1aoQNH+m3lgTnPg1wIqUpF0ip8p3RP32bFIywPpdZWcg7u3ZdS2AR9zbqQ74icP0uUfejCYqhkkS5QaT2/ZPH6UMsIJOvWkEN7nqu9drectrM5rOQYmGm6qS4U/UP6LJq5n0HvJYv+gJqUHmzGFZUL3wb1p0gB+4owaIgNm3qH7LoxjbGtMJF6yRPNdyLm0CX4ULqK74KEdSi6uO6CS90z3Mcf3dzXhfCrAe51IcFzAGrIHvwL2pmOa476YQgNwaOJaRNfcglm78Z5FYCbpscaTd0lMrmTEMha0V14shmX/mT19UvdG0Sp0mX+XFHO2nUyllwD69k=;fAKM0ak/UGzbXvuv2xS+gw=="
 ---

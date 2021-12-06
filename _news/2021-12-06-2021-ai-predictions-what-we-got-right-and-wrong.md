@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 120
 published: true
 
 provider:
@@ -73,6 +73,6 @@ related:
       domain: medindia.net
     quality: 39
 
-secured: "JEmOphGp6WVq8GqIPaKlQbsRRJqWpcy9uhuuMF6Dm1CVIhiexs5N/e0OqHWY/tfJ6rVqigQjrxXquLfuJF/mB+gl331Spl6nLGsW21gucIi2QnaxoLzJP7efdYtFJ5A3mt7V62t+DnEscwaDuByg5DpN1PfyKYQ/Wl1LnEG0X5InN79Zx4fHcbhUEu9qzFuizZqJfE1Ic9OIbx+ODLJOOL7wx9OSqZTE0YogEvIkHzITdDpJQS+mh74tCvMIEZPa0nBjvhTKBl5nu9QnCER56pm93O3GZQXNPmUsWTb8YISEOCCW1geYVGCCruQBGlJ6/51ZBDltqobr3r9NgExxZjQ9hrjejIYz4ngaQJl2zC0=;3XC1kWlDTTkHkARDNSS39A=="
+secured: "lyYd4i/4cYJ6b49a6rH1jbj8JWX7MkfQCFo+PCLSQbcd5JmZ/roDojpi3uBO0maCCOK/caOw/AQBH4pye7LtIn7x7XsprHJPpFm+5L0XnHYhnbnUfMTurtSNQ+WZVvueNfbMs4UpbygbUmg8B38tyqyRfwrF+7ToZEEZX0EvS+HfYpOqqvoid9Jt/ZKWaM+2aV+v/7prKKxJ9Ob+obOnCeUXCKoN69TmGPv63wPpS2+aj8pBeQxt6c4GQn/uXUv9IzYnoRq7DmVxNkevTZ6+5vU/jj9h3zL/rQLjTQkJEZYpGGUnnNMGWD0bc6OvfnmMpP6a27OJByDv/ePknpyYKey2gYsNvhNLoHDOJJ8xhVEmzf5qo73LFcyakKrPk6Akn9nydjlA/TluSZ05RAOcdatzw6vrfdauJaRtqHhgAHmnGBJBuK94Rvb9LutQBACzlo4NWfVzGadUEITYZ9TeufQf30fI8G/r3Q0ogFc3UdxjqSFIDeVApALlWsT1r7IWyZagvvb7pt9Gcz5yQS2Dyg==;GYQXvkr6Jx4mb97kTMtvWw=="
 ---
 
