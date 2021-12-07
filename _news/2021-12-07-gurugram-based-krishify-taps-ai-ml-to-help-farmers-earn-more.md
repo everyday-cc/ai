@@ -1,0 +1,32 @@
+---
+category: news
+title: "Gurugram-based Krishify taps AI, ML to help farmers earn more"
+excerpt: "A Gurugram-based agtech startup platform, Krishfy, is trying to put machine learning (ML), artificial intelligence (AI) and the Android system to best use for farmers across the country by offering a one-stop solution to improve their economic status."
+publishedDateTime: 2021-12-07T07:28:00Z
+originalUrl: "https://www.thehindubusinessline.com/economy/agri-business/gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more/article37878954.ece"
+webUrl: "https://www.thehindubusinessline.com/economy/agri-business/gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more/article37878954.ece"
+ampWebUrl: "https://www.thehindubusinessline.com/economy/agri-business/gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more/article37878954.ece/amp/"
+cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/agri-business/gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more/article37878954.ece/amp/"
+type: article
+quality: 76
+heat: 76
+published: true
+
+provider:
+  name: Business Line
+  domain: thehindubusinessline.com
+
+topics:
+  - Facebook AI
+  - AI
+  - Machine Learning
+
+images:
+  - url: "https://www.thehindubusinessline.com/economy/agri-business/mli5k5/article37878953.ece/ALTERNATES/LANDSCAPE_615/bl07Krishify"
+    width: 615
+    height: 384
+    isCached: true
+
+secured: "Yq9sVCjRYIqFXMl3ZMmlAU9hBo/P9RYbK58BtjamuWc48pY0O1QqohuSnJh7vq7sdikqFXG9ZsnEnq2jlpXea3eh7pHHkwyNwYDDT6iHN5qb9ERW3aZC+tDTUvbYnK6REuVq3VeKmpKz7IVDnTG74uFF/QzPEpY0y/jKBaIMZIbw8KwpHgJvSh5zO6teR2tAjCNLTrko4/oN5PjipvKNCrelZFuno7yN78Hyp161YRd4vGIK3djqiO0a72vCzVZEJ1RWRZEifOzfPjrkRwZnwva0n6B2ZfOm/Cl2jNhGOLCo6BlNgCedXhMkS3wEL9agJV63ExwK/iYMQ6kcI7kWMHNNSiATB2YvCAcHiMz3AI4=;ZmtGl7CJaAdhLxbnBLOmhQ=="
+---
+

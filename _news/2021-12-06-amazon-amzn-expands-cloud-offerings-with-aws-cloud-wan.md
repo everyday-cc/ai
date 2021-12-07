@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/400893"
 webUrl: "https://www.entrepreneur.com/article/400893"
 type: article
 quality: 71
-heat: 92
+heat: 91
 published: true
 
 provider:
@@ -56,6 +56,6 @@ related:
         height: 536
         isCached: true
 
-secured: "ua94B4ZXA5xCKCSgQiMMYJbR7tzDKz5Du4EgYre5JLknGKqNAArjTEfoO0/+O87SgZnk/e5AiabqXeRLqB1BBNIGUyb2W5BJqLQnmYEwlCbcNXgcj2zDnE6uJxprtgp61AmmRUom/xt1iR4XWrsNUWkVxKftFIEh66+LJAlMyl+rQ/A2mYvZWUjFjwalDJnw4Eo9QOj10aeMZpvoCxZ8dzgnTCm9ikkkHbjL+hD1cjB5GbWO/RV7z1fG/8JQNjEbTVWreux/alvcmpfvTIR85VBbpmpmz+Mr2kVemApEuEvRbALZzHPUj6g62pVm6Qm89sjEK529Z2BM6L904ScZRQbssKfusbVTYXNW0cbebi0=;nRV1Him2qA9yCKsCQMi39A=="
+secured: "SYCSOJjeF1y6mQzwZ+lH7B9+VSaj52nCjBeVWX3K+K981kqobJt+vpuZFmT5OFR/Z4GHsAyfvn+ujBxdTlDcZVt1pU3Kul2Iu+HTybBIgQigWll5JujKvSsDTHbEpBwjTF5AM7A8032d489o59HyXkrwE2wkwd7yFhNp/9yltD/ADRyaPVVaEQDUwlj2Ix7Mv+9igCTKWqzcSMjaT+fWuO1mRH7Khur2fpsSnoB1EDaovYuaw/n0ajcTjhnf/27+9e1jIR/SIWUwQBTPNpEWoa+CYjiA27Cnphbzxjfjcj6S5dwWm4xGNiCIqi9fi8QvLunsO8GO8HTS+d3O8gwYV/OyMkwnQtjQR3bazh0wC7XBNkt2AQcddF2AOGRhumOyRq++oNCclXXdG2G8YmDB+F5cvXfbxs+hGCxjj/0W+Ca9k50vEaq5ZBgRjz1Jvvi7okF/zCmsshmGzjVs06BM7FYeairEmQM+OhR3Ks3wfTQMWo7k/D8IhxZFR6fZ1U48qKD326XINt1suOBboO3baw==;HOn2lyOB8MDZFzEVjL2a0Q=="
 ---
 

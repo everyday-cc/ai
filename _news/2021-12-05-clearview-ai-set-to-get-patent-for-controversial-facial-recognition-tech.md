@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
 type: article
 quality: 103
-heat: 185
+heat: 173
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/jvwvVn2Xwx/sizes/facial-recognition-technology-reveals-information-about-diverse-picture-id1199708194_resize_md.jpg"
         width: 744
         height: 419
-        isCached: true
-  - title: "Travelling To Get Easier As AAI To Launch Facial Recognition Technology At 4 Airports"
-    excerpt: "FRT-based Biometric Boarding System is a project that the government has been working on as part of first phase of Digi Yatra Implementation at four airports"
-    publishedDateTime: 2021-12-02T15:35:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
-    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 67
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/mfz2ujc21wxgkppg_1638456981.jpeg"
-        width: 768
-        height: 439
         isCached: true
   - title: "Clearview AI Wins Web-Scraping Facial Recognition Patent Triggering Big Brother Privacy Concerns"
     excerpt: "The award of this patent and acceptance of the needs outlined within indicate that Clearview and the government are willing to open the door to numerous facial recognition implementations."

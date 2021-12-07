@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Intel plans to take self-driving car unit Mobileye public"
+    excerpt: "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters."
+    publishedDateTime: 2021-12-07T02:46:00Z
+    webUrl: "https://www.reuters.com/markets/us/intel-list-shares-self-driving-car-unit-mobileye-wsj-2021-12-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/HxLWCUwhHMM4SwuGFJT2uw2TtvQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJJS5JKBAFOZFNPFKBVNCGTJ5Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Intel to list shares in self-driving car unit Mobileye - WSJ"
     excerpt: "Intel Corp is planning to publicly list shares in its self-driving-car unit Mobileye, which could value the unit at north of $50 billion ,the Wall Street Journal reported on Monday, citing people familiar with the matter."
     publishedDateTime: 2021-12-06T23:27:00Z
@@ -59,8 +73,8 @@ related:
         isCached: true
   - title: "Intel to list shares of its Mobileye self-driving-car unit"
     excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
-    publishedDateTime: 2021-12-06T23:33:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=10-things"
+    publishedDateTime: 2021-12-07T00:33:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos25"
     type: article
     provider:
       name: MarketWatch
@@ -108,6 +122,6 @@ related:
       domain: businessinsider.com
     quality: 28
 
-secured: "Ms/dVWz/fFna0WZYecuuWttK4D+y8WBSOz12PE/KmHDAQTomqFpeh/www25jlY326PvwDwC1k5oavlsye/p+hU9131ENS1ZRLPoUGNuKF2IGg3wvRMuz0uTXyGNZwxbQwgK2jvqZU7Q9FCDm/+YNg1RZxfLxj9jBeKH9rWEjQuvs4NeDfbcC8gfBsAdpZKguit4n9OLu/EdhrubHsQY6pNQ16+kYkWLTpWJGYB/kaE1SRKUJZZkuND5EbNC2VkKwgxaUQ0MpMp3TTB47F01WosNC2OubG5XTN9xrX878ItL1B3opPZYJ1AgcqMn1KZWsV8KjoYurZ3CbOE+7KN3wpxwSYcYrSvOJSBXY5afc1BU=;zX7bn9QpvFHPWppwYjoIJA=="
+secured: "h1hnpla6DARJqbZrMt/vItlbDqboXxRp88D/q/vNon2zyGnsYJv+S5K3MkEI7K8Abhlr8wg3wk0UsLtc4/F9yCchN0OBqEBp6g/ATpiH0ZcPK41Fqoduzb21tm6dsT5fw0V0GVTAjctPw+bhP6V5AqzreNXVW+vXn80pmiJ6Qe5xqjCGo98NKehm9ljMMBjUZA53KhCXhB/tQMY0efLstKaw06IedbZYqCpKW/W4KpjpvpURdPIisMdcJHpxnhRYPLLmMnPudNcyWDPjn4IP2sMJMYY6km1bb9WExkcQpLXrL9DgQTZHbf6KyLkz+A0KRJfjNSw4B7Eyo/nvMypUhxijIVBYHHCbD4atEUlN3OlIcs3/+1HdJODLrXqSu0q4oOXXKGcxvga/6iTizGHOQwrcjUx3NM7Bcyl+gCiZbU1hzJ1s3fZUI8EbEYomxVfQAh6IvkEpsfuw0+O8QrWvNZ2zkC262XLJuteau+4ixqgGfyEFY0XtVimRs8Uls0pFlPHD6ENICrsL7IsKVfl6/Q==;bL8PNN9Z/QMvXsD5iH7HTQ=="
 ---
 

@@ -59,6 +59,20 @@ related:
         width: 580
         height: 385
         isCached: true
+  - title: "Meta To Use AWS Compute For Its AI"
+    excerpt: "Meta and AWS will help enterprises use PyTorch on AWS to bring deep learning models faster and easier into production"
+    publishedDateTime: 2021-12-07T06:52:00Z
+    webUrl: "https://analyticsindiamag.com/meta-to-use-aws-compute-for-its-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/118310780_747024792786998_5825864557738398697_n-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "Case Western Reserve University acquires new 'Artificial Intelligence SuperComputer'"
     excerpt: "As a result of the system, more researchers will be able to manipulate larger amounts of data simultaneously and quickly."
     publishedDateTime: 2021-12-06T22:37:00Z

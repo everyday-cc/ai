@@ -8,7 +8,7 @@ webUrl: "https://www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-
 ampWebUrl: "https://www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/?amp=1"
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/?amp=1"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Computer Vision
 
 related:
   - title: "Tesla pushes new Full Self-Driving Beta update with improved object detection"

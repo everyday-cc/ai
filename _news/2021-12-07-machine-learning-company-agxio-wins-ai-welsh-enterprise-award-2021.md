@@ -41,6 +41,20 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "Meta To Use AWS Compute For Its AI"
+    excerpt: "Meta and AWS will help enterprises use PyTorch on AWS to bring deep learning models faster and easier into production"
+    publishedDateTime: 2021-12-07T06:52:00Z
+    webUrl: "https://analyticsindiamag.com/meta-to-use-aws-compute-for-its-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/118310780_747024792786998_5825864557738398697_n-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "Case Western Reserve University acquires new 'Artificial Intelligence SuperComputer'"
     excerpt: "As a result of the system, more researchers will be able to manipulate larger amounts of data simultaneously and quickly."
     publishedDateTime: 2021-12-06T22:37:00Z
@@ -72,6 +86,6 @@ related:
         height: 720
         isCached: true
 
-secured: "0jkruWQp8ZbRnW8zT9Wb3fiyZEq1vYKBQsHUBXx0nZouzVhSMQDncNEwfuhqc0O06dLLC5SHXSeBph+PppIiFXL54oVKu7F9JFa2miGigMmwr6f+iRNpqr7wpjPZhKqg7Nk1o9XwmA1bMka5FY2ORRA71I0vTAVvDuCQEoLvFODqhnfjzb8zHr7l5TyrWfnzLKdqjWLgqoOKHLQDbgyZqLyOewt3UnXqP68kc8TT0vte4S+tC1DR/mrCu0ehYjBwu/QvbbZkeCMgBO4fzcodckK+wtCX4fvNu+qTFw73kW+atwLr+bj9xHdSlCsCWskCs73436Mok6Iba+dosK+q0QN81a7qbCJI6+nLFh8mcxM=;HRCWqvyaYfrpJ7Oy4inp2A=="
+secured: "EpR07ifMJK/UAYkRKldZofbPaxZ8C9UilVtR0QlcpWXnngCnqsFecr4lc1pNuZoI46OLSv2s+ctJexgrJxUS66OXuqb9rVeM6SzHMNChewmKfSMTU7DJbVRvBCxXCUwnT6JagZzG0+G/i8S49sr+z2ZulOx2HUEVzGGHP99F0VaqqJpbFmHs4pVygustFdYsvW1UlUmfD9tkLEMC6FAK3HsvDWwBljAKhU90lWZ7LQrZyF/w/DGPUko7GmeFNd7zUZeULvvwBdXuf9aM+PbpDLohCZMUH36iVr/M2D+mvQVMbYvcM39/oye4WXZezg2ihYYD0ZVuroVl7oBHMFkM5MrsVhEg9G/JYUxCVSLnk/BkXpKn2NIRCeCGlGTRN5T5gN/Wg8Sp01XNP1vIMDit71PWB8rmqNUo9J0fxM9xtZBnST9xV3rastOfHiSgylL/NJuCxfZVjMDCcYBhHjHm0rfSOAquosHthjT77+rWLJrATHRZmZa7upyENeK4QvQdx+RXhcNX0o7waJ2dBMmZmQ==;8idiTb1CF3O/FlihuRek4A=="
 ---
 

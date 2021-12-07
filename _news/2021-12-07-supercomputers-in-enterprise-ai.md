@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
         width: 580
         height: 385
         isCached: true
+  - title: "Meta To Use AWS Compute For Its AI"
+    excerpt: "Meta and AWS will help enterprises use PyTorch on AWS to bring deep learning models faster and easier into production"
+    publishedDateTime: 2021-12-07T06:52:00Z
+    webUrl: "https://analyticsindiamag.com/meta-to-use-aws-compute-for-its-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/118310780_747024792786998_5825864557738398697_n-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "Case Western Reserve University acquires new 'Artificial Intelligence SuperComputer'"
     excerpt: "As a result of the system, more researchers will be able to manipulate larger amounts of data simultaneously and quickly."
     publishedDateTime: 2021-12-06T22:37:00Z
@@ -73,6 +87,6 @@ related:
         height: 720
         isCached: true
 
-secured: "gnhcL0e43yfJ/Ai7awrjzCrdSOMcdx2n/wY+dz8lE85VhlyDf1II0vwYN09fg8ooVMYyRQqDdz0VhpUhiFOYwXVQqLDez7XXZ4x4du2MmvDxOSgyu8TytqeGioitZdewsSNYRlrt0CyYraE9NskvBFfmB854T+zTPeAAwUKWmuSeB25UQLqSPMtX8MNoOHZ2oky4fNzxmk+GjfNhht17r546DRpCkDV8LV1NIi9dg6aFtybXanQfIq+2F0jeePsnxtSn++0meHRWeUILu9AnaiWDQJdmSAMVj0nw2pbIZqTkAzLr+mjcgYpheuPrLvbB3QNdtUpF8LjfcUnKZfmXLKWq4ET/gK33J8ncNkjHa6g=;CQwlTGCE9MxY/EarBC0pZg=="
+secured: "VcmnZ6AMuKDYzLZ2aLr3HckQx6dPwaEFvbg6SL85rIiBcdyudw+IQeFY1YIOPFhS01fYd49SUj/5EzN6pueYbeGCuQtUbM6w22t7UvVjEWS7jXQWnip+C5LprN2QUoyssMMIdSyBSThnkXUudxbzR9UTnGzRXMwmAS9g1K/46cNg2pCDrFX1xchrSFJ39s4hJ2fvJGG4tJHW785wTy9hmTCopI4uhqQULmqb6HMQpeFhEsN/GYiMf+xy5F/SlxllC68ffLxX0IFNdCNI2ncHqdpBdEV8jAo+cx3EOn+pIPoZp5sKf+1FabcHOTIV275dRl4Y4EQqGKj0IlvyLpxkrOPNNyOoRSncgE9Uoc1OZJjUQrx/jyCruru4V9RAqqeqTIU9wVg3oZ2+yXGv427GHXKmwORFVxcZvli2s8oi+QmmJjB/6TWOBHd7krVbGVgOMb3Ay2GwuMOXp7bc+Mx758jDYtm8jx9FTCiUCjyEzTjYFZyn53hYZr0QNVOnuwzKXiGkRL7jKBmW7bVwzyzLMw==;9cthFG7k2xQN9p4qbYYcpg=="
 ---
 

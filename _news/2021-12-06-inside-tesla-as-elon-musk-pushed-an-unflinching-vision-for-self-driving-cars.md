@@ -146,7 +146,7 @@ related:
     provider:
       name: Seattle Times
       domain: seattletimes.com
-    quality: 36
+    quality: 38
 
 secured: "rE2b+4msHyW4zGUXQW+nT/y6RnGI9AFT/F5BMPargWojkh7pbJ69VYh7j4FoyJaUui3Y7NxvDkIXsyD3dzXXKeVfT+gp07nRENlncW6LobtOYGg9UjHSu7ks2zBlTYPNTRMVN1sv9q/taQCFgn9VErZKQrtSeCUF2eFrFSj5DJ3AFI8zNRhGuy9jNV7JaHzvaJUcMRcYzLOTFb+ftFy1vqa/jJufsIxUUc49DotBoZ3VR/ybyIakD7qa8lCqv999riBNZ9e5IIxJ+KlnZEFW95tt/4CXftDDhcyk4mJmygS+XykC5+dV1e4yvGitKGRKP42mpC4ncgPcNvrOM3BCviov0tXXrzGhQ9y1Tgnroy1JWWMZSOrCD8q3TBIrk+Le8t0eQy71TsBnw9cbpQpeHwpNtlAOKA9cERqflYe7AaeyTw3N7lIxbZnSLdX5luTyKll8PgpKtegHpekrzwW1ZstVrs5O0WVvzNLHrmohL+afu4klqwCuFvM4tdDLLLDtlTkUa3+IgO+lYBVxeEp6lQ==;172qXcwY2BwpsCvSeGNrjg=="
 ---

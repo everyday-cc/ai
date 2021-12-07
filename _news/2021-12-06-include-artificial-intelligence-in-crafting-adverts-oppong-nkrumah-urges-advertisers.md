@@ -26,15 +26,15 @@ images:
 related:
   - title: "Include artificial intelligence in crafting adverts -Oppong Nkrumah urges advertisers"
     excerpt: "The Minister of Information, Mr Kojo Oppong Nkrumah, has urged advertising companies to include artificial intelligence (AI) when crafting"
-    publishedDateTime: 2021-12-07T04:16:00Z
-    webUrl: "https://www.businessghana.com/site/news/business/252042/Include-artificial-intelligence-in-crafting-adverts-Oppong-Nkrumah-urges-advertisers"
+    publishedDateTime: 2021-12-07T07:14:00Z
+    webUrl: "https://businessghana.com/site/news/business/252042/Include-AI-in-crafting-adverts"
     type: article
     provider:
       name: BusinessGhana
       domain: businessghana.com
     quality: 30
     images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2021-12-06-131306000.jpg"
+      - url: "https://businessghana.com/site/img/../../cms/img/news/2021-12-06-131306000.jpg"
         width: 800
         height: 600
         isCached: true

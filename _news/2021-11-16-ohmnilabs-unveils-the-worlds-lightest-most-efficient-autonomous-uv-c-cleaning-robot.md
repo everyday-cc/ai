@@ -2,19 +2,23 @@
 category: news
 title: "OhmniLabs Unveils The World's Lightest, Most Efficient Autonomous UV-C Cleaning Robot"
 excerpt: "Nov. 16, 2021 /PRNewswire/ -- OhmniLabs, an award-winning robotics company ... \"At a time when sterile cleaning and infection control are top of mind, OhmniClean is helping to restore normalcy ..."
-publishedDateTime: 2021-11-16T13:47:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ohmnilabs-unveils-the-worlds-lightest-most-efficient-autonomous-uv-c-cleaning-robot-301424661.html"
-webUrl: "https://www.prnewswire.com/news-releases/ohmnilabs-unveils-the-worlds-lightest-most-efficient-autonomous-uv-c-cleaning-robot-301424661.html"
+publishedDateTime: 2021-11-16T13:50:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ohmnilabs-unveils-the-world-s-lightest-most-efficient-autonomous-uv-c-cleaning-robot-1030980450"
+webUrl: "https://markets.businessinsider.com/news/stocks/ohmnilabs-unveils-the-world-s-lightest-most-efficient-autonomous-uv-c-cleaning-robot-1030980450"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "+vtuxaAPpdL7L6pxCL++xyc8thQmsRHf+eYa8ccfevmJGgwZ9tXwAS1rQ7Xxm1U5/r/RJFzsnfn1nWRamTXj4RUHjnSI6zS9x8nDxsp8hWgGy6NjFKPfgCOSYXYxo9qg5CkmLJKzgNPuwHj6pybFxoHdiYPHjii72fvJMI2HbJIguNrVpIdGzCvaJ2HyrXe5AeWY6vXnEs18LqwnRF8M2KkEnnq6Z2IuJlyFCtUffi3kSSWogZnVJzG6pTEQ7xBQWsrq/XBtDhuEEoY5opyxAHoL6WQ0N0OHt0nQfJzSy/IGLHi8T46QjddPKjqtsgmL/cwv0mTHe7Kd5nnurQgnIzM1VVQiCTwesTnFvIu8xPc=;tzfVCHeDPnfh6cPGOOfgoQ=="
+secured: "Y/tZNwcfYFcV+Ya+Vw2QN6pk9uURadNpZWTqwhKAnbmCC/6TyDCWUBuS2zYvddosC5GZR3FIpS/BXf73WZRGP1O6qVvlndn0Kae7dkzLu/DW/saBMsVXdrd/DBQ0PhMQzMaZ4oQdZEpUPQH2c9vP9Ny2O+TRf9bmKIWTpCKp1lAFItfsyB6YQZpdeZgW+l4Ar1MLnV7bVN0lSkIdnu8kL+0QcM+DDRz6XQJQywGu2TlI98OVzSXCJY9lBWv93AdtD+4J9cfR0MqI3YdvN5kYnOjY34boFdcDQnrcUGrYI66YCdp6QINxdBzirM5FpkPo+r2cmBQ8tfLEvDljvgKVuM6wFSoB6a0lylwIpEjD1UI=;WmVnaDBIbGTLj8ksYV5zig=="
 ---
 

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot Company Wants To Give You $200,000 For Your Face And Voice"
-    excerpt: "In an odd proposal, a Russian company is willing to pay you $200,000 if you forfeit your face and voice to help develop its next robot."
-    publishedDateTime: 2021-12-02T17:00:00Z
-    webUrl: "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/"
-    ampWebUrl: "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/"
-    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/"
-    type: article
-    provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
-    quality: 61
-    images:
-      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/12/iStock-1320626664-1024x522.jpg"
-        width: 1024
-        height: 522
-        isCached: true
   - title: "This Russian Company Will Pay You $200,000 To Use Your Face And Voice On Their Robots"
     excerpt: "Advertisement Promobotis is a Russian robotic company that is offering $200,000 to people in return for the right to use their face and voice on its robots forever. The company is currently developing “a humanoid robot assistant which will work in hotels,"
     publishedDateTime: 2021-12-02T18:59:00Z

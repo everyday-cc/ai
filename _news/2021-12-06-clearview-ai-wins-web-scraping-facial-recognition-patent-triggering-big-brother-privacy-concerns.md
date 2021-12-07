@@ -91,22 +91,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Travelling To Get Easier As AAI To Launch Facial Recognition Technology At 4 Airports"
-    excerpt: "FRT-based Biometric Boarding System is a project that the government has been working on as part of first phase of Digi Yatra Implementation at four airports"
-    publishedDateTime: 2021-12-02T15:35:00Z
-    webUrl: "https://www.republicworld.com/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
-    ampWebUrl: "https://www.republicworld.com/amp/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
-    cdnAmpWebUrl: "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/general-news/travelling-to-get-easier-as-aai-to-launch-facial-recognition-technology-at-4-airports.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 67
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/mfz2ujc21wxgkppg_1638456981.jpeg"
-        width: 768
-        height: 439
-        isCached: true
   - title: "facial recognition tech at airports"
     excerpt: "Trak.in is a popular Indian Business, Technology, Mobile & Startup blog featuring trending News, views and analytical take on Technology, Business, Finance, Telecom, Mobile, startups & Social Media Sp"
     publishedDateTime: 2021-12-03T06:06:00Z

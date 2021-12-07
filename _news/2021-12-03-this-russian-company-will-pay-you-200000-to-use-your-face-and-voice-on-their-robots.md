@@ -9,8 +9,8 @@ ampWebUrl: "https://wonderfulengineering.com/this-company-will-pay-you-200000-to
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Wonderful Engineering
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot Company Wants To Give You $200,000 For Your Face And Voice"
-    excerpt: "In an odd proposal, a Russian company is willing to pay you $200,000 if you forfeit your face and voice to help develop its next robot."
-    publishedDateTime: 2021-12-02T17:00:00Z
-    webUrl: "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/"
-    ampWebUrl: "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/"
-    cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/"
-    type: article
-    provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
-    quality: 61
-    images:
-      - url: "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/12/iStock-1320626664-1024x522.jpg"
-        width: 1024
-        height: 522
-        isCached: true
   - title: "Robot company will pay $200,000 for human faces for use on robots"
     excerpt: "Tech company Promobot is looking for actual people to lend their faces for the newest group of robots, and is willing to pay US$200,000 for the rights to these faces"
     publishedDateTime: 2021-12-05T06:20:00Z

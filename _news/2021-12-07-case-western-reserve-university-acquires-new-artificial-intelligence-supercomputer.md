@@ -56,6 +56,20 @@ related:
         width: 580
         height: 385
         isCached: true
+  - title: "Meta To Use AWS Compute For Its AI"
+    excerpt: "Meta and AWS will help enterprises use PyTorch on AWS to bring deep learning models faster and easier into production"
+    publishedDateTime: 2021-12-07T06:52:00Z
+    webUrl: "https://analyticsindiamag.com/meta-to-use-aws-compute-for-its-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/118310780_747024792786998_5825864557738398697_n-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "Revisiting Enterprise Artificial Intelligence in 2022: Challenges and Opportunities"
     excerpt: "Skepticism about AI in enterprises may have been justified a decade ago, but a lot has changed. See how old challenges have been addressed in today’s landscape."
     publishedDateTime: 2021-12-02T18:47:00Z

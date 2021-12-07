@@ -9,8 +9,8 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/govt-names-4-airports-where-it-pl
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: Inshorts
@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "AAI working on facial recognition-based passenger boarding system: Government"
-    excerpt: "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government."
-    publishedDateTime: 2021-12-02T15:14:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/articleshow/88056152.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88056152.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/aai-working-on-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88056152.cms"
+  - title: "These 4 Indian Airports Will Have Facial Recognition; Data Will Be Deleted In 24 Hours"
+    excerpt: "The Airports Authority of India has been working on a project of FRT-based Biometric Boarding System.Facial Recognition Technology (FRT) is highly looked forward to, after the Indian government announ"
+    publishedDateTime: 2021-12-03T06:06:00Z
+    webUrl: "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/"
+    ampWebUrl: "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/amp/"
+    cdnAmpWebUrl: "https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/amp/"
     type: article
     provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 71
+      name: Trak.in - India Business Blog
+      domain: trak.in
+    quality: 66
     images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-88056152,imgsize-5438,width-800/88056152.jpg"
+      - url: "https://trak.in/wp-content/uploads/2021/12/72b0f32797dd441c89b1396bba9ac524_18.jpeg"
         width: 800
-        height: 599
-        isCached: true
-  - title: "AAI working on India's first facial recognition tech for passenger boarding: Govt"
-    excerpt: "CNBCTV18 is India's leading financial, economic and business information source. The leading platform for business & financial news, BSE/NSE stock market news updates, business news live, IPO Analysis,"
-    publishedDateTime: 2021-12-02T15:48:00Z
-    webUrl: "https://www.cnbctv18.com/technology/aai-working-on-indias-first-facial-recognition-tech-for-passenger-boarding-govt-11681072.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/aai-working-on-indias-first-facial-recognition-tech-for-passenger-boarding-govt-11681072.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/aai-working-on-indias-first-facial-recognition-tech-for-passenger-boarding-govt-11681072.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 69
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2021/05/facialrecognition2-1019x573.jpg"
-        width: 1019
-        height: 573
+        height: 450
         isCached: true
   - title: "Professors working on self-driving car technology that uses facial recognition system"
     excerpt: "Professor A.J. Alnaser is turning this tricked-out Ford Fusion by moving his head, no hands needed. It might be the future of self-driving technology."
@@ -75,6 +59,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facial recognition technology at 4 airports to be introduced by March next year: Centre"
+    excerpt: "Facial Recognition Technology (FRT) has not yet been introduced at any of the airports in India, replied Minister of State in the Ministry of Civil Aviation General V K Singh (retd) to a question in Lok Sabha on Thursday."
+    publishedDateTime: 2021-12-02T20:50:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20211202/3865969.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 26
 
 secured: "YLK2EgfcG0N8PU8+nVd8G7JVjSLOK3XQlxCDa9kgatsbaX7KcvFjI7cQ8upnuT8HWtr7WLUDeMx9QME8ha1b/UIljV5X3YrImKvabwy532EJyQmN9K/ytwRyk8bmwLGnpJ9WGA+bccpU55jek/0jnKfgIlzNxYgcbJM0XdxJJhJSRkNsA8kBy7C94IwTq5relbeSMXF80fw0qnz80jbWrwDFKJZuPCHldlG/uxLitC3j/UhHurLHFRFlr7P9Cl/Dz1HNK+Iiq7hRnrbKf2IwIoMII5tCZ+EmfSiwUtNgIzWb99ONQVQejfa4bTZ50UMBDto8wxvA6pSXpTvmOWKro7mq1PQcXmWIAY0ZFLTVrLsn5+BfS5paWgAc/cBEpT4U8+ZgFD0Tj8i+xGsPVaAoRF9riz1tizLKY+a1Th0D2xowNQ4YppCQm3SGUifnljwxGxeaomc2e1rEEu0DsAv545N6p+qxlD3SfMFh98wSzc5AaZiQJNYXYeIr661iZ4Ytc7tXQCKjW/Tn6YO1Sk6ZfA==;B1qIr0AU08JHw4tLTURM+A=="
 ---

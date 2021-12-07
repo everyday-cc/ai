@@ -1,0 +1,47 @@
+---
+category: news
+title: "Stellantis targets $23B in additional revenues from software"
+excerpt: "Working with partners such as Foxconn and Waymo, the automaker said it will have 34 million connected vehicles on the streets by 2030, from 12 million now. It also plans dedicated AI technological platforms."
+publishedDateTime: 2021-12-07T06:51:00Z
+originalUrl: "https://europe.autonews.com/automakers/stellantis-targets-23b-additional-revenues-software"
+webUrl: "https://europe.autonews.com/automakers/stellantis-targets-23b-additional-revenues-software"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: Automotive News
+  domain: autonews.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Stellantis%20logo%203%20rtrs%20web_0.jpg"
+    width: 800
+    height: 600
+    isCached: true
+
+related:
+  - title: "Stellantis’ AI strategy targets $22.6b in revenues by 2030"
+    excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands targeting 20 billion euros ($22.6 billion) in annual revenues"
+    publishedDateTime: 2021-12-07T07:22:00Z
+    webUrl: "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/"
+    ampWebUrl: "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/"
+    cdnAmpWebUrl: "https://www-informnny-com.cdn.ampproject.org/c/s/www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/"
+    type: article
+    provider:
+      name: WWTI
+      domain: informnny.com
+    quality: 59
+    images:
+      - url: "https://www.informnny.com/wp-content/uploads/sites/58/2020/02/cropped-50-512X512-1.png?strip=1"
+        width: 512
+        height: 512
+        isCached: true
+
+secured: "rDSxQmBUfnnJr++rzjJ0N+FE9NJ2uroyArNQC/zBNYZZP7aCrEsNjUzpZ/0aQ6aaqQA2Nwlag6myr1umZSnxn3q8AoPToZ/cH4L2NejRpVwjIb8T4rEzp1H2KSFVnfyOwWZMhvgHRcqFgvFo4QNL3nBtk2Eg/VtcwODaIFu0kk2MPINHDvpVxmo9EmNny/kcQHm6+p/bzNVE1ebFDqQMIlgXb4HLf6KWE/4ZIk2OR0Nst0GGvyZWFQD1AttmeMcb0qlHVcI5n5meL8pK/QV4S7scYM9P9quqXuX9WTkBe7XO2mMhKpub8r6tiAN1cyVdjZr0K5Ddgz9mg23NZeklGgx4Crw4hF3USpKzCFta3Qk=;Md5XooDlMJYf6UDAZvGKZg=="
+---
+

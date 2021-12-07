@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbc.ca/amp/1.6271598"
 cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/ai-designed-xenobots-have-figured-out-how-to-replicate-living-robots-are-coming-175397_1.jpg"
         width: 1485
         height: 1080
-        isCached: true
-  - title: "‘Living’ Robots Able to Reproduce"
-    excerpt: "This week, a newly released study appears to add yet another particularly thorny complication to the debate: robots that could reproduce on their own. Scientists at three New England universities hailed the discovery of an entirely new form of reproduction — one in which tiny,"
-    publishedDateTime: 2021-12-02T16:05:00Z
-    webUrl: "https://www.manufacturing.net/video/video/21928066/living-robots-able-to-reproduce"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/12/MM_290_Thumb.61a7f05d66989.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "World's first living robots can now reproduce, scientists say"
     excerpt: "(CNN)The US scientists who created the first living robots say the life forms, known as xenobots, can now reproduce -- and in a way not seen in plants and animals. Formed from the stem cells of"

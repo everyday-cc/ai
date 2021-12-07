@@ -55,20 +55,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Neurotechnology extends face biometrics to include web service component"
-    excerpt: "The facial authentication solution works on web applications for personal devices to serve different biometric authentication purposes."
-    publishedDateTime: 2021-12-02T16:46:00Z
-    webUrl: "https://www.biometricupdate.com/202112/neurotechnology-extends-face-biometrics-to-include-web-service-component"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 23
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/01115107/passive-facial-biometric-liveness-detection.jpg"
-        width: 1024
-        height: 600
-        isCached: true
 
 secured: "qauFZ5JNl/W3CNV6m0RSBIdXs3nyrhKlSwpaRX+G+TBY6Z0QqKCZBjj77nCa+ep1XxfyFvXbGMHpfrTmdHltVX3ix2GnPEld7YpCPfuNedGioPTIUwS+cHuZnzlDyzgJ1DMUzrKUkbloToPBrwScYW2uU2FciRUyp5fg3E/jn2ajGcCPs0nAlSOnFUJWpGEZ1aVwDNTdJWq8SFrGVI6BmXCILlU0hKQofoGnkbZLSse2QyjYFTGsBwjGznTZ9Z2QuTM7N1Cggpc82uRmUyFodd4WXojxX6v11jKKPfibJjh65k9Vp5bf3ryOroDbxsB5diHpbFeuIXKNqtbgK1gtsS5aEx8i80OdqR9uhzNlTwuTdeD8UKFHg+KGIU/LhoMSaq0RcjTLakTtsYNFvLR3hdUHM3HNWGx7ybPlxuDAslUprY85sppxdFNSZAQXb210/t56FsbhLDA4tg11QCtPrfzISea9m3q9bujOnnIBweNk5TZBT+OelS9FFUVIaJ4OTvgLjtYLGTyWJN3sfFzMaw==;ph1gxaPJw2Xn+2glE06Eeg=="
 ---

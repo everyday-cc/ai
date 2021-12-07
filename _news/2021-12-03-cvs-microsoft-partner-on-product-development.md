@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and KPMG team up to bring Azure Quantum to more enterprises"
-    excerpt: "Microsoft announced that it and KPMG, now an Azure Quantum Systems Integrator, will use quantum-inspired algorithms to solve problems."
-    publishedDateTime: 2021-12-02T17:00:00Z
-    webUrl: "https://venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/"
-    ampWebUrl: "https://venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/two-module-quantum-computer-prototype-25111.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "How to take advantage of Microsoft 365's AI meeting Scheduler"
     excerpt: "Can a computer plan your meetings for you over email? See how Scheduler for Microsoft 365 uses AI to handle this tedious chore."
     publishedDateTime: 2021-12-03T20:54:00Z
@@ -57,52 +41,17 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "A Serious Game: Microsoft Azure Champions ‘User Generated Content’"
-    excerpt: "User Generated Content brings communities together to turn games into ever-evolving platforms. By providing game developers with a set of tools to create open environments for players, they can increase engagement while empowering individual creators to share and monetize their work."
-    publishedDateTime: 2021-12-06T17:18:00Z
-    webUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/"
-    ampWebUrl: "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/amp/"
+  - title: "Microsoft (MSFT) to Support CVS Health's Digital Transformation"
+    excerpt: "Microsoft MSFT is teaming up with CVS Health CVS to help the latter ramp up its digital transformation endeavours. This will help CVS health to provide a data-oriented and personal customer experience along with greater compliance with the company’s own patient confidentiality rules,"
+    publishedDateTime: 2021-12-06T14:28:00Z
+    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation"
+    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ad1e960cc6e9b23cb90539%2F0x0.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "CVS Health and Microsoft Link Up to Speed Healthcare’s Digital Shift on Retail’s Frontlines"
-    excerpt: "Connected healthcare keeps making new connections as firms from different parts of the business world join forces to drive greater digital transformation for millions of consumers. New evidence of the gathering trend comes from CVS Health and Microsoft,"
-    publishedDateTime: 2021-12-02T22:46:00Z
-    webUrl: "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/"
-    ampWebUrl: "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 81
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/CVS-Health-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "CVS, Microsoft forge digital care partnership"
-    excerpt: "CVS Health and Microsoft established a strategic partnership focused on digital health and personalized care, the two companies said Dec. 2. By partnering with Microsoft, CVS is aiming to create more personalized customer experiences through data."
-    publishedDateTime: 2021-12-02T16:01:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/cvs-microsoft-forge-digital-care-partnership.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "CVS Health and Microsoft agree new strategic alliance"
     excerpt: "Healthcare provider CVS Health and Microsoft have agreed a new strategic alliance to develop new healthcare solutions and provide 300,000 CVS Health employees with tools to serve over one million customers."
     publishedDateTime: 2021-12-06T16:11:00Z

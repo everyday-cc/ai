@@ -2,9 +2,9 @@
 category: news
 title: "Include artificial intelligence in crafting adverts -Oppong Nkrumah urges advertisers"
 excerpt: "The Minister of Information, Mr Kojo Oppong Nkrumah, has urged advertising companies to include artificial intelligence (AI) when crafting"
-publishedDateTime: 2021-12-07T04:16:00Z
-originalUrl: "https://www.businessghana.com/site/news/business/252042/Include-artificial-intelligence-in-crafting-adverts-Oppong-Nkrumah-urges-advertisers"
-webUrl: "https://www.businessghana.com/site/news/business/252042/Include-artificial-intelligence-in-crafting-adverts-Oppong-Nkrumah-urges-advertisers"
+publishedDateTime: 2021-12-07T07:14:00Z
+originalUrl: "https://businessghana.com/site/news/business/252042/Include-AI-in-crafting-adverts"
+webUrl: "https://businessghana.com/site/news/business/252042/Include-AI-in-crafting-adverts"
 type: article
 quality: 30
 heat: -1
@@ -18,7 +18,7 @@ topics:
   - AI
 
 images:
-  - url: "https://www.businessghana.com/site/img/../../cms/img/news/2021-12-06-131306000.jpg"
+  - url: "https://businessghana.com/site/img/../../cms/img/news/2021-12-06-131306000.jpg"
     width: 800
     height: 600
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 400
         isCached: true
 
-secured: "qLxtORGuXaSq5u9Vv47pVbx+42OCbEtA5H2chihFdRFe71QjrgGDYpliYUpunHBof8qU3yoN8+aUl5KIzqKAHdStoJ3aJ0QBcB/YDl+ZlLbWT0iUbNz0n1BvXAqbk8iHbu7FMBFYkNbWd/4V+/ZQjQAuJGR3/JuGTjvzq3lFk+qT29L+L1WEmSLM9BO4fgvDe8/+dpOfA4yB5rL0Ge2XvA5wkhf4U8vRtjFMWAUVGpO4WZNco8PO5lUphIvh5Fl47Ge8lsvcfu6QcRsot1W7x0QUCgqKmK2VDVyJD2dzr2iNtRKgF9SrYcxw/Mj80HDgNGZXNkp7J44TpmrmtfNNi0LJ4QcVTfYjE9VIBHPu3lY=;3QLDIUMo8xhkaJVVK1LHhg=="
+secured: "Dx651SKU8QP2A8mozSgNcDXRxMWNGKDNvyt8EC+yeLgURG4YA2KsibndoBy98/TzRJuZtIhXjdTXBDooRZ9Q6iqCyLrbBL2MVy1mNwingoqRmOQmVazGteZG5BCGVnznkrQyP2VIUW6gbaZx0Xz61WJ2FatwAwVmmE7KF0iACpsne+hdRrIKcFqaV6VFfeZrrSgCWRlmk7RpXn+LFXZQgshlw7zxPMtP6jcdyE5er2Gg20+wzXhIA/pWeQRlc1/OMDxIcyZs9BmoxrZ3ArA3e/1lHcEkmdlM0m7zLhWzXrkqkevIW5satDyfwslsJkLHxQmkfXchZDPg3CJWbdRYbSMfAPKxOk+lO4hA8VBLwLk=;RXrrZ8KOJLh+atIPJJRqqg=="
 ---
 
