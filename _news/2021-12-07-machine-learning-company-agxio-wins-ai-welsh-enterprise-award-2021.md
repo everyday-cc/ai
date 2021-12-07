@@ -71,20 +71,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Revisiting Enterprise Artificial Intelligence in 2022: Challenges and Opportunities"
-    excerpt: "Skepticism about AI in enterprises may have been justified a decade ago, but a lot has changed. See how old challenges have been addressed in today’s landscape."
-    publishedDateTime: 2021-12-02T18:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/revisiting-enterprise-artificial-intelligence-2022-/?trackingId=3LQ%2Fpw5LUVpPA%2FheeygT7A%3D%3D"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 33
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFe36ilHapKMw/article-cover_image-shrink_720_1280/0/1638469915686?e=1643846400&v=beta&t=D03YCwWh0wtNHI4KWdIyCsgS7MUmWneUx80ak7wQXVY"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "EpR07ifMJK/UAYkRKldZofbPaxZ8C9UilVtR0QlcpWXnngCnqsFecr4lc1pNuZoI46OLSv2s+ctJexgrJxUS66OXuqb9rVeM6SzHMNChewmKfSMTU7DJbVRvBCxXCUwnT6JagZzG0+G/i8S49sr+z2ZulOx2HUEVzGGHP99F0VaqqJpbFmHs4pVygustFdYsvW1UlUmfD9tkLEMC6FAK3HsvDWwBljAKhU90lWZ7LQrZyF/w/DGPUko7GmeFNd7zUZeULvvwBdXuf9aM+PbpDLohCZMUH36iVr/M2D+mvQVMbYvcM39/oye4WXZezg2ihYYD0ZVuroVl7oBHMFkM5MrsVhEg9G/JYUxCVSLnk/BkXpKn2NIRCeCGlGTRN5T5gN/Wg8Sp01XNP1vIMDit71PWB8rmqNUo9J0fxM9xtZBnST9xV3rastOfHiSgylL/NJuCxfZVjMDCcYBhHjHm0rfSOAquosHthjT77+rWLJrATHRZmZa7upyENeK4QvQdx+RXhcNX0o7waJ2dBMmZmQ==;8idiTb1CF3O/FlihuRek4A=="
 ---

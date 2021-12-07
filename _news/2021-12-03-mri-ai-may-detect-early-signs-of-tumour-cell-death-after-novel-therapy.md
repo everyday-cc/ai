@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence, MRI Detect Early Signs Of Tumor Cell Death"
-    excerpt: "Researchers created a non-invasive approach for measuring cancer treatment response using AI and MRI technology."
-    publishedDateTime: 2021-12-02T17:26:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-mri-detect-early-signs-of-tumor-cell-death"
+  - title: "MRI, AI may detect early signs of tumour cell death after novel therapy"
+    excerpt: "According to new research led by Massachusetts General Hospital, it has been found that magnetic resonance imaging (MRI) and artificial intelligence (AI) can be used to detect early signs of tumour cell death in response to novel virus-based cancer therapy."
+    publishedDateTime: 2021-12-03T22:49:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211203/3866660.html"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 41
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/RadiologyAI_Getty.jpg"
-        width: 700
-        height: 451
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "KA8T5H5Juxy5IbOvpfUqOtVmXFV1PGvml85sYQOM+UWAUCtXB3N1/5ftYs165M4ewhwKQyYBshDO5nH5YR7X1vwJ51FK94zbXq5I0D5y8oPd1eelOdHJ1KcH72P7HLiqd4/+pAmGXUuIVPNsEHKAsMZPKKS3as0Kh6dJHpN3nan3tKQGbDPjy5RMIPPNuyw3qqc16VphPL+D965Lc4BIC7d5+sO/+049jBMqXnUvIYM2+F1P6qUz11xB65gJl40tyqLkTxFPsKv+b5lGXi2ZkpUVpjXmP+YKpXLs7GtS/Lod0LykLzYfiWa0GuyswV3/gw0BaB10HKAVenDCb5WJvz7SU+iX5YbamnRZHR/cKj4=;F2o+l95qtu8g2Gq+CcUxPw=="
 ---

@@ -2,22 +2,22 @@
 category: news
 title: "RBEI Joins AWS Independent Software Vendor (ISV) Accelerate Program"
 excerpt: "Robert Bosch Engineering and Business Solutions (RBEI) announced today that it has joined the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS Partners who provide software solutions that run on or integrate with AWS."
-publishedDateTime: 2021-12-07T06:30:00Z
-originalUrl: "https://www.businesswireindia.com/rbei-joins-aws-independent-software-vendor-isv-accelerate-program-76303.html"
-webUrl: "https://www.businesswireindia.com/rbei-joins-aws-independent-software-vendor-isv-accelerate-program-76303.html"
+publishedDateTime: 2021-12-07T05:32:00Z
+originalUrl: "https://www.thedailytimes.com/business/rbei-joins-aws-independent-software-vendor-isv-accelerate-program/article_8da3fcc6-e32a-5211-a964-27ada618de5e.html"
+webUrl: "https://www.thedailytimes.com/business/rbei-joins-aws-independent-software-vendor-isv-accelerate-program/article_8da3fcc6-e32a-5211-a964-27ada618de5e.html"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: thedailytimes.com
+  domain: thedailytimes.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "1lVblkljd6ufVwVv4Dst2hWWTtgaoF9QHHuW1R1MSVI/S1N//gD+rJl+q2bkzKlmROZvwSDZaJ3BAKYYGuH6S9JOpqQ+IuStlJWQ1crd8K1sFCOUtTcJciZcJOc4QUVzVqNTF/OoUZ8HNhQHAG0XNWIlaMtW1BTl5NHjwC5nkrw3JlOfMMUOsOCx8tWLx7lZfTkNFExK5mJDjlYNlpnExXyce1g8eZF9mD1EnHrmrzwlP5z6/JoTQRETPYZrOudd2uu/hk20kZ5Ab0g6NM4aSSNnkDqlJs51tIgHS5ayA8VBkIQmRIGqCYnjZ7sGGeBE+rLHz1WO2WU53qTrD+Am0KL+IIY8brWyXQiiWO0gLZg=;/KHGFNDIXxvk53Ql4j+IfA=="
+secured: "fEBl0adD586bujwm4TvQCxUmB7Wnpm4VgvcZZRBoc8OrE886Axot5kXHz+nV4vN8ImN0vo5nZ52TGIP9ZuGc4E4eqq55IzW3PKKhg3XNGeVGp5rtbmzbI1SceOxH2X3b5ef+gQA/oMXCbzVIjK22q/KWTajuHwVIDe9FDEO40enP+0oLjwnXGGyD3J/zu0h6Hp+NYua7xH20/6BBVGFtY58VCw6t0X+0n+lJcoci58LqETSpNJVW9qLtrr2OUAZROVl3HvwhqxCCcjlgqBsDQPPjBnYBvKC4dvFpeOSLh9DwfhQI6k4Tw9dotkdeniCDxmwmSla1V7Ta0tljc69YxVETGjHqGbLofIa6uUDxY4XQWszpAH36ik0or/IYvA2flVGNpWgEZZy8f1WHWJzgng09Kbo8Bk8cA0tCzARvcb57iS/HIwIaJVaXAU2BeAz1RT32OmjJz0/RCCD6+NLwHJuCTiaXyH2CMG6vCdMW+OHfv7B8hghnEB/emt1WYFmiMaHbCll58ZZfu5gscGXvDw==;IeAl4tj7cbITfbr3rHfNmQ=="
 ---
 

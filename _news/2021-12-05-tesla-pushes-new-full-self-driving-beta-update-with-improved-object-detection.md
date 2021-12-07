@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-u
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
 type: article
 quality: 86
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The New Self-Labeling AI Has Brought Tesla Closer To Level-3 Automation"
-    excerpt: "Advertisement Tesla’s head of artificial intelligence has revealed new footage showing its auto labelling tool for its self-driving initiative. It’s believed to provide a significant boost to Tesla’s Full Self-Driving Beta."
-    publishedDateTime: 2021-12-02T18:59:00Z
-    webUrl: "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/"
-    ampWebUrl: "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 74
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/newsimage336112.jpg"
-        width: 595
-        height: 225
-        isCached: true
   - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
     excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving (FSD) beta,"
     publishedDateTime: 2021-12-03T00:45:00Z

@@ -2,6 +2,336 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-10-28-how-tourradar-automates-the-translation-process-using-amazon-eventbridge-and-amazon-translate.md",
+      "title": "How TourRadar automates the translation process using Amazon EventBridge and Amazon Translate",
+      "excerpt": "This is a guest post written by Gergely Kadi, Senior Systems Engineer and Martin Petraschek-Stummer, Senior Data Engineer at TourRadar. TourRadar is a travel marketplace to connect people to life-enriching travel experiences. When it was launched, TourRadar only offered tours and content in English.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-tourradar-automates-the-translation-process-using-amazon-eventbridge-and-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-tourradar-automates-the-translation-process-using-amazon-eventbridge-and-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/23/ML-2804-IMG1.png",
+          "width": 931,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T09:51:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-elon-musk-announces-tesla-full-self-driving-beta-104-update-as-rollout-slows-down.md",
+      "title": "Elon Musk announces Tesla Full Self-Driving Beta 10.4 update as rollout slows down",
+      "excerpt": "Elon Musk has announced the upcoming release of Tesla’s Full Self-Driving Beta 10.4 update as Tesla slows down the rollout. Earlier this week, Tesla started rolling out Full Self-Driving Beta 10.3. The update came after a false start last weekend when Tesla pushed the update with some problems and ended up reverting back to 10.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/",
+      "originalUrl": "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/",
+      "publishedDateTime": "2021-10-28T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-living-with-robots-an-excellent-non-technical-overview-of-robotics.md",
+      "title": "“Living With Robots” – An Excellent Non-Technical Overview Of Robotics",
+      "excerpt": "This is a review of the third book sent to me recently by MIT Press, and the book is the best of the bunch. “Living With Robots,” by Ruth Aylett and Patricia A. Vargas is a good, non-technical book that discusses a number of issues with robots in human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D24%26cropY2%3D517",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/amp/",
+      "publishedDateTime": "2021-10-28T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-self-reported-dangerous-driving-habits-revealed-in-new-survey.md",
+      "title": "Self-Reported Dangerous Driving Habits Revealed In New Survey",
+      "excerpt": "“Based on self-reported driving behaviors from our annual survey of traffic safety culture, it is encouraging to see more drivers recognize the danger of certain activities behind the wheel,” David Yang, executive director of the AAA Foundation for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tanyamohn/2021/10/28/self-reported-dangerous-driving-habits-revealed-in-new-survey/",
+      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2021/10/28/self-reported-dangerous-driving-habits-revealed-in-new-survey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ac445569df82205e7de16%2F0x0.jpg",
+          "width": 610,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2021/10/28/self-reported-dangerous-driving-habits-revealed-in-new-survey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2021/10/28/self-reported-dangerous-driving-habits-revealed-in-new-survey/amp/",
+      "publishedDateTime": "2021-10-28T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-spooky-or-plain-creepy-using-ai-self-driving-cars-as-stalkerware-to-sneakily-stalk-someone.md",
+      "title": "Spooky Or Plain Creepy: Using AI Self-Driving Cars As Stalkerware To Sneakily Stalk Someone",
+      "excerpt": "Bad people will do bad things, even with the greatest advances in AI. As an example of how some might attempt to twist goodness into badness, let’s consider the use of self-driving cars for a disturbingly real possibility of carrying out a stalking pursuit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/28/spooky-or-plain-creepy-using-ai-self-driving-cars-as-stalkerware-to-sneakily-stalk-someone/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/28/spooky-or-plain-creepy-using-ai-self-driving-cars-as-stalkerware-to-sneakily-stalk-someone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa47503823ee9506ca6fa7d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3087%26cropY1%3D82%26cropY2%3D1819",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/28/spooky-or-plain-creepy-using-ai-self-driving-cars-as-stalkerware-to-sneakily-stalk-someone/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/28/spooky-or-plain-creepy-using-ai-self-driving-cars-as-stalkerware-to-sneakily-stalk-someone/amp/",
+      "publishedDateTime": "2021-10-28T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-aws-announces-general-availability-of-babelfish-for-amazon-aurora-postgresql.md",
+      "title": "AWS Announces General Availability of Babelfish for Amazon Aurora PostgreSQL",
+      "excerpt": "New Amazon Aurora capability gives customers the ability to run applications written for Microsoft SQL Server directly on Amazon Aurora with little to no code changes New open-source Babelfish for PostgreSQL makes it easier for more organizations to run Microsoft SQL Server on PostgreSQL under the permissive Apache 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20211028006197/aws-announces-general-availability-of-babelfish-for-amazon-aurora-postgresql",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20211028006197/aws-announces-general-availability-of-babelfish-for-amazon-aurora-postgresql",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-28T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-from-cars-the-movie-to-self-driving-pixar-veterans-join-aurora-to-advance-companys-simulation-efforts.md",
+      "title": "From Cars (the Movie) to Self-Driving: Pixar Veterans Join Aurora to Advance Company's Simulation Efforts",
+      "excerpt": "Aurora continues to scale its Virtual Testing Suite, running millions of daily tests to rapidly increase capabilities of Aurora Driver Self-driving company Aurora announced it is accelerating simulation efforts by welcoming the team from Colrspace – a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/10/b23707997/from-cars-the-movie-to-self-driving-pixar-veterans-join-aurora-to-advance-companys-simulation-effo",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/10/b23707997/from-cars-the-movie-to-self-driving-pixar-veterans-join-aurora-to-advance-companys-simulation-effo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/23707997",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23707997",
+      "publishedDateTime": "2021-10-28T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-government-pressed-on-gchq-aws-cloud-deal.md",
       "title": "Government pressed on GCHQ-AWS cloud deal",
       "excerpt": "The UK Government has been pressed to explain details of a reported deal between intelligence and security agency GCHQ and Amazon Web Services (AWS). Conor McGinn MP, the Labour Party’s shadow security minister,",
@@ -834,316 +1164,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-healthcare-artificial-intelligence-market-growth-share-size-forecast-by-2026.md",
-      "title": "Healthcare Artificial Intelligence Market Growth, Share, Size, Forecast by 2026",
-      "excerpt": "In terms of application, the overall healthcare artificial intelligence market is classified into virtual assistants, wearables, hospital workflow, therapy planning, drug discovery, medical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-growth-share-size-forecast-by-2026-2021-10-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-growth-share-size-forecast-by-2026-2021-10-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T22:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-nice-cxone-accelerates-cx-digital-transformation-with-new-integrated-intelligent-self-service-and-enlighten-ai-powered-agent-engagement-solutions.md",
-      "title": "NICE CXone Accelerates CX Digital Transformation with New Integrated Intelligent Self-Service and Enlighten AI-Powered Agent Engagement Solutions",
-      "excerpt": "The NICE CXone Fall 2021 release drives powerful CSAT improvements by creating frictionless customer experiences that start at brands’ digital doorsteps, spanning self-service and agent-assisted interactions NICE (Nasdaq: NICE) today announced the CXone Fall 2021 release,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20211028005480/nice-cxone-accelerates-cx-digital-transformation-with-new-integrated-intelligent-self-service-and-enlighten-ai-powered-agent-engagement-solutions",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20211028005480/nice-cxone-accelerates-cx-digital-transformation-with-new-integrated-intelligent-self-service-and-enlighten-ai-powered-agent-engagement-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-done-right-human-ethics-can-ensure-ai-bias-is-curbed.md",
-      "title": "Done right, human ethics can ensure AI bias is curbed",
-      "excerpt": "AI bias continues to be a prevailing problem when it comes to ensuring proper implementation of artificial intelligence (AI) in many industries. Since the",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/10/ethical-ai-ai-bias-is/",
-      "originalUrl": "https://techwireasia.com/2021/10/ethical-ai-ai-bias-is/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/10/000_94M3YD-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/10/ethical-ai-ai-bias-is/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/10/ethical-ai-ai-bias-is/",
-      "publishedDateTime": "2021-10-27T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-relationship-intelligence-startup-staircase-ai-raises-4m-to-accelerate-go-to-market-plans.md",
-      "title": "Relationship intelligence startup Staircase AI raises $4M to accelerate go-to-market plans",
-      "excerpt": "The seed round included Disruptive AI and StageOne Ventures. Founded in 2019, Staircase AI offers a platform that uses advanced machine learning to analyze thousands of digital engagements between companies and their existing customers.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/10/27/relationship-intelligence-startup-staircase-ai-raises-4m-accelerate-go-market-plans/",
-      "originalUrl": "https://siliconangle.com/2021/10/27/relationship-intelligence-startup-staircase-ai-raises-4m-accelerate-go-market-plans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/staircaseai.png",
-          "width": 950,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-delta-airlines-using-facial-recognition-to-check-in-travelers.md",
-      "title": "Delta Airlines Using Facial Recognition to Check-in Travelers",
-      "excerpt": "A new facial recognition technology being used by Delta Airlins will analyze people's faces and compare them to passport information stored in a TSA database. Local Health Departments Prepare As ...",
-      "sourceUrl": null,
-      "webUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/",
-      "originalUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/A37/DED/A37DED67A23E096BAE785B57DF9F72CA.jpg?Expires=1729987200&KeyName=mcpkey1&Signature=aurFBxgHrBcuZZ6Law-LjsYkO8k",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp",
-      "cdnAmpWebUrl": "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp",
-      "publishedDateTime": "2021-10-27T19:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Detroit",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027.md",
-      "title": "Global Computer Vision in Healthcare Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027",
-      "excerpt": "Global Computer Vision in Healthcare Market 2021-2027 unveiled by MarketsandResearch.biz contains an extensive assessment of the business vertical and features the distinctive market segments. The report provides brief information about market size,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027-2021-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-cognitive-systems-spending-market-study-international-manufacturers-growth-barriers-opportunity-and-future-scope-2021-2027.md",
-      "title": "Cognitive Systems Spending Market Study International Manufacturers Growth, Barriers, Opportunity, and Future Scope 2021-2027",
-      "excerpt": "The global cognitive systems spending market is estimated to account for US$ 24,710 Mn in terms of value by the end of 2027. The new research on Cognitive Systems Spending Market Perspective paints an unmistakable picture of vital drivers, key elements ...",
-      "sourceUrl": null,
-      "webUrl": "https://chipdesignmag.com/cognitive-systems-spending-market-study-international-manufacturers-growth-barriers-opportunity-and-future-scope-2021-2027/",
-      "originalUrl": "https://chipdesignmag.com/cognitive-systems-spending-market-study-international-manufacturers-growth-barriers-opportunity-and-future-scope-2021-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.themarketfeeds.com/seoimages/three.jpg",
-          "width": 3250,
-          "height": 3854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chip Design",
-        "domain": "chipdesignmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Now Publicly Traded, Self-Driving Company Aurora Expands Finance Team"
-excerpt: "PITTSBURGH--(BUSINESS WIRE)--The self-driving company Aurora, which recently went public and is now listed on the NASDAQ under the ticker $AUR, is expanding its finance team, strengthening its ability to deliver its self-driving technology at commercial scale."
-publishedDateTime: 2021-12-06T21:15:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211206005327/en/Now-Publicly-Traded-Self-Driving-Company-Aurora-Expands-Finance-Team"
-webUrl: "https://www.businesswire.com/news/home/20211206005327/en/Now-Publicly-Traded-Self-Driving-Company-Aurora-Expands-Finance-Team"
+excerpt: "The self-driving company Aurora, which recently went public and is now listed on the NASDAQ under the ticker $AUR, is expanding its finance team, strengthening its ability to deliver its self-driving technology at commercial scale."
+publishedDateTime: 2021-12-06T17:16:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-pittsburgh-aurora-c587cfd6da8342fba4ab33b5c6e3ebff"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-pittsburgh-aurora-c587cfd6da8342fba4ab33b5c6e3ebff"
 type: article
-quality: 21
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Finance
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Self-driving truck contenders: Here’s where they stand"
@@ -35,6 +41,6 @@ related:
         height: 600
         isCached: true
 
-secured: "qMqU6CUJBDg+r9xOcxE3K0G4q0eJu1VWN55jFAk1Kg81fAO+OfNKM3eW1gX18Gnv22syLyHO2QC7QMkJgj3rjzBkC4nyM3H/pn8iBxh16EXwuXKu+aGUF1B/RTcXmLIFJUeV91cKgYp7g7qdpZunw9k/ExUqDUgYRI5slSrr+5wz7hfjoGgKgBYOoxJQW6/I1Th6Djv+SJr9oF2n8l+APn6pIbTNycctlzmvz5ig2cJtBFkZ2h5enSYqAhNQmVq+zmKLFbYltueQe2IGBfqdl152JHDcvexnTDWOwyr4aklJJNYZlxUQhUZAC/YDUFWkT2uEVUwA+qe1LrtbCq/+B1dKswcmtEZTg2/L8J1M2oU=;40jSm4fDq3MFG09U12DKUg=="
+secured: "t9MtzDSatBoZGjermvNogVh6vJ6jAk52/DY/nBZxnnYLA9WcrqGWG8nyCGQlHm9qM3rYA8kK6nXTN6S1jd+azxYGheWFXDIx+DY/TzVIorPMSmBhjG4EThEkLFUp4W9myG44fq1yaV0h9u6ahJZ2vZlFdIdPfLxcceRtgfEIOfZO0aK3uOAJ8r3j6eGk7ZIBe6i0NjVEHbej2xP/CcTMffkE6QS42YG8ZPBHMPXF61vMp+81qU3rNDi3kqYjfM5FVrJEemrP/VzVejA84dcT4TM6FyXOm/M3srfkTtbn7IJ2jlpgogL3iFpmgON7Kj+CGz29UT4IhEYMbvqhTEJB6Ojy7u40Bcn9sx3tKreR24I=;y1/BMWZ90rEm0i+FRo7kXw=="
 ---
 

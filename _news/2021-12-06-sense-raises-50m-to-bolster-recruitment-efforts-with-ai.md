@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recru
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Saving lives with artificial intelligence"
+    excerpt: "New technology developed at Tel Aviv University uses artificial intelligence to help doctors identify high-risk patients."
+    publishedDateTime: 2021-12-07T10:49:00Z
+    webUrl: "https://www.israelnationalnews.com/news/318237"
+    type: article
+    provider:
+      name: Arutz Sheva
+      domain: israelnationalnews.com
+    quality: 17
 
 secured: "bBBghArdxKZH8qtKk/EgnqEEPbhZqXeJml5SayVXl86Jyxu4+gwuAEueKZyI4fueVpDXOgilo+8oT+cvR+R6d2j7QrlxRfqL+hdq48puCXOMCZkT88dvZ0IFiIsgJtH0abvA6In262JX39qzhvuwwEEJj9+2fStvycFMNtdPoTL8rjUOYSb++88LwnJig/lzfApUXDEfsJzLD0KAjP0SfMQFsdFTyMReiO5ghpzr7OHuTElcwEs1onSK8POV5g3JJYWYdn2QddTDcMgy2hssB4mlDlgZFo55X0qfB2MV1y8r9XdVZqVOp3aonQv/n8A+ZPfZ/ZFiZ97i5qi++yS0UAkFqYn5kbW//6lbRiqYFo3wthe1FohNyE0g539oxiRb2jks+g+cxH4b4rD7t/ZFtwtWkuk3WUA7BRQX3sIiuZb/gv39Y9oqgfKTSVYmH79W1E9258urZ8+DEFAUd0eTA0tkI8+lw5s/pKznXxiMk2k2lLfJdIrbkEujExtgLLcz8k4AwcTAVjk+fDvLAtN35g==;J+Rsx/r+0Lk05XFaUUYcDA=="
 ---

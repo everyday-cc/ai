@@ -720,8 +720,8 @@
       "title": "OhmniLabs Unveils The World's Lightest, Most Efficient Autonomous UV-C Cleaning Robot",
       "excerpt": "Nov. 16, 2021 /PRNewswire/ -- OhmniLabs, an award-winning robotics company ... \"At a time when sterile cleaning and infection control are top of mind, OhmniClean is helping to restore normalcy ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ohmnilabs-unveils-the-world-s-lightest-most-efficient-autonomous-uv-c-cleaning-robot-1030980450",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ohmnilabs-unveils-the-world-s-lightest-most-efficient-autonomous-uv-c-cleaning-robot-1030980450",
+      "webUrl": "https://www.prnewswire.com/news-releases/ohmnilabs-unveils-the-worlds-lightest-most-efficient-autonomous-uv-c-cleaning-robot-301424661.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/ohmnilabs-unveils-the-worlds-lightest-most-efficient-autonomous-uv-c-cleaning-robot-301424661.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -731,21 +731,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T05:50:00-08:00",
+      "publishedDateTime": "2021-11-16T05:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

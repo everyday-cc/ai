@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-07-how-ai-ethics-falls-short-preserving-jobs-is-not-enough.md",
+      "title": "How AI ethics falls short - preserving jobs is not enough",
+      "excerpt": "AI ethics has been a hot topic for about five years, but are we getting to the fundamental issues? Here's why well-intentioned ideas for preventing AI job loss come up short.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough",
+      "originalUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-09/code-of-ethics.jpg",
+          "width": 1277,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough?amp",
+      "publishedDateTime": "2021-12-07T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-your-face-is-or-will-be-your-boarding-pass.md",
+      "title": "Your Face Is, or Will Be, Your Boarding Pass",
+      "excerpt": "Tech-driven changes are coming fast and furiously to airports, including advancements in biometrics that verify identity and shorten security procedures for those passengers who opt into the programs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-security.html",
+      "originalUrl": "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-security.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/02/business/02biometrics-video-still/02biometrics-video-still-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-security.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/07/travel/biometrics-airports-security.amp.html",
+      "publishedDateTime": "2021-12-07T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-ai-agriculture-startups-take-in-record-amount-of-vc-funding.md",
+      "title": "AI Agriculture Startups Take In Record Amount of VC Funding",
+      "excerpt": "Venture-capital firms are pouring money into artificial-intelligence agricultural startups as farmers turn to the technology to control pests, eradicate weeds and increase crop yields.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-agriculture-startups-take-in-record-amount-of-vc-funding-11638873000",
+      "originalUrl": "https://www.wsj.com/articles/ai-agriculture-startups-take-in-record-amount-of-vc-funding-11638873000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-447131/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more.md",
       "title": "Gurugram-based Krishify taps AI, ML to help farmers earn more",
       "excerpt": "A Gurugram-based agtech startup platform, Krishfy, is trying to put machine learning (ML), artificial intelligence (AI) and the Android system to best use for farmers across the country by offering a one-stop solution to improve their economic status.",
@@ -46,6 +192,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-07-stellantis-ai-strategy-targets-226b-in-revenues-by-2030.md",
+      "title": "Stellantis’ AI strategy targets $22.6b in revenues by 2030",
+      "excerpt": "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands targeting 20 billion euros ($22.6 billion) in annual revenues",
+      "sourceUrl": null,
+      "webUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/",
+      "originalUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.informnny.com/wp-content/uploads/sites/58/2020/02/cropped-50-512X512-1.png?strip=1",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/",
+      "cdnAmpWebUrl": "https://www-informnny-com.cdn.ampproject.org/c/s/www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/",
+      "publishedDateTime": "2021-12-06T23:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWTI",
+        "domain": "informnny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-supercomputers-in-enterprise-ai.md",
       "title": "Supercomputers in enterprise AI",
       "excerpt": "Forward-thinking enterprises across the globe have recognised that the future of business success will depend on their ability to leverage AI, says Werner Coetzee, business development executive at Data Sciences Corporation.",
@@ -54,7 +243,7 @@
       "originalUrl": "https://www.itweb.co.za/content/KBpdg7pzLYpqLEew",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -223,49 +412,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-artificial-intelligence-will-help-detect-thoracic-aortic-aneurysm.md",
-      "title": "Artificial intelligence will help detect thoracic aortic aneurysm",
-      "excerpt": "Photo by Vladimir Novikov, Press Service of the Mayor and Moscow Government The digital assistant will help draw the specialist's attention to the smallest deviations and interpret images faster. Artificial intelligence-based algorithms can now recognize ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mos.ru/en/news/item/99657073/",
-      "originalUrl": "https://www.mos.ru/en/news/item/99657073/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mos.ru/upload/newsfeed/newsfeed/pyls-na-zavtra-II-novikov(27).jpg",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mos.ru/amp/en/news/item/99657073/",
-      "cdnAmpWebUrl": "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/99657073/",
-      "publishedDateTime": "2021-12-06T20:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mos",
-        "domain": "www.mos.ru",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1070,161 +1216,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-ai-applications-in-digital-health.md",
-      "title": "AI Applications in Digital Health",
-      "excerpt": "Health and digital health, encompassing ehealth and health information technology, form a significant cluster in the Berlin-Brandenburg metropolitan area, evidenced by their more than 600 biotech, pharmaceutical and medtech companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/sponsored/ai-applications-digital-health",
-      "originalUrl": "https://www.newsweek.com/sponsored/ai-applications-digital-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1944301/berlin-1.jpg",
-          "width": 1537,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-for-truly-ethical-ai-its-research-must-be-independent-from-big-tech.md",
-      "title": "For truly ethical AI, its research must be independent from big tech",
-      "excerpt": "We must curb the power of Silicon Valley and protect those who speak up about the harms of AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/507cadd8062f426e1ca22df47fde57b3f8b0441f/0_0_4017_2410/master/4017.jpg?width=620&quality=85&auto=format&fit=max&s=187facc6d0d3cbbb25719b24e035a55c",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
-      "publishedDateTime": "2021-12-06T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-what-ai-based-recruiting-can-learn-from-hr-leaders.md",
-      "title": "What AI-Based Recruiting Can Learn From HR Leaders",
-      "excerpt": "Artificial intelligence (AI) in HR is a very hot topic. But is it effective in helping HR professionals find suitable candidates, or match employees to opportunities? In a recent browsing session for talent management software,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8f6a930ffa5ea24f8a7aa%2F0x0.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/amp/",
-      "publishedDateTime": "2021-12-06T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

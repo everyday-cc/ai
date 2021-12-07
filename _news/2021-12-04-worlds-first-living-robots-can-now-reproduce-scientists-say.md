@@ -69,34 +69,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Scientists Unveiled the World’s First Living Robots Last Year. Now, They Can Reproduce"
-    excerpt: "Early last year, a team of researchers announced the world's first living machines —bundles of stem cells from African clawed frogs ( Xenopus laevis) that could be programmed to accomplish certain tasks."
-    publishedDateTime: 2021-12-02T17:16:00Z
-    webUrl: "https://www.smithsonianmag.com/smart-news/scientists-unveiled-the-worlds-first-living-robots-last-year-now-they-can-now-reproduce-180979150/"
-    type: article
-    provider:
-      name: Smithsonian Magazine
-      domain: smithsonianmag.com
-    quality: 31
-    images:
-      - url: "https://th-thumbnailer.cdn-si-edu.com/2SQX_-OVgaZ-ySZDex8YhEPHaUM=/fit-in/1600x0/filters:focal(400x267:401x268)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/99/03/9903cce2-00af-41f5-a4b9-005793089c82/121_robots.jpeg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Scientists Unveiled the World’s First Living Robots Last Year. Now, They Can Now Reproduce"
-    excerpt: "Early last year, a team of researchers announced the world's first living machines —bundles of stem cells from African clawed frogs ( Xenopus laevis) that could be programmed to accomplish certain tasks."
-    publishedDateTime: 2021-12-02T17:16:00Z
-    webUrl: "https://www.smithsonianmag.com/smart-news/scientists-unveiled-the-worlds-first-living-robots-last-year-now-they-can-now-reproduce-180979150/"
-    type: article
-    provider:
-      name: Smithsonian Magazine
-      domain: smithsonianmag.com
-    quality: 29
-    images:
-      - url: "https://th-thumbnailer.cdn-si-edu.com/2SQX_-OVgaZ-ySZDex8YhEPHaUM=/fit-in/1600x0/filters:focal(400x267:401x268)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/99/03/9903cce2-00af-41f5-a4b9-005793089c82/121_robots.jpeg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "US scientists create world’s first-ever living robots – and they’re now able to self-replicate"
     excerpt: "US scientists created the first living robots, called xenobots. Now researchers have discovered a new form of biological reproduction – xenobots can self-replicate – in a way that is unlike anything seen in plants or animals,"
     publishedDateTime: 2021-12-06T06:01:00Z

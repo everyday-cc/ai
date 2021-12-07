@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Taiwan Aims to be Global Leader in Artificial Intelligence with New AI HUB Initiative"
-excerpt: "The benefits of artificial intelligence (AI) technology have been validated in many domains, where AI has helped reduce costs, improve efficiency and productivity, and solve real-life problems. However,"
-publishedDateTime: 2021-12-07T08:24:00Z
-originalUrl: "https://www.lelezard.com/en/news-20142778.html"
-webUrl: "https://www.lelezard.com/en/news-20142778.html"
+excerpt: "The benefits of artificial intelligence (AI) technology have been validated in many domains, where AI has helped reduce costs,"
+publishedDateTime: 2021-12-07T07:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/taiwan-aims-to-be-global-leader-in-artificial-intelligence-with-new-ai-hub-initiative-301438619.html"
+webUrl: "https://www.prnewswire.com/news-releases/taiwan-aims-to-be-global-leader-in-artificial-intelligence-with-new-ai-hub-initiative-301438619.html"
 type: article
-quality: 47
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "VA Aims To Reduce Administrative Tasks With AI, Machine Learning"
@@ -40,6 +33,6 @@ related:
         height: 400
         isCached: true
 
-secured: "MkBeVW6BiDsRCJsqpD2OVKfbjomqdzEv8Pny4opFcsksm6Ce7CQP4YvTOEsB+ikug5jXzHrRppaw5BOm115iinxwcpqUDuCMnFQfMss9JXwgitR2vxdzbnJdf4uMyV96ytx1Z8hLsURDpZDdh0deHruSDrznReRbJrnyhttb3Frg6Z8dfNhIOwmZbR1PiaUjnNBru36qJCY3ugg5ZuXRiadhun+75rgNfNycO+lO9wk/jKmkSYcDPN2j5TehWZC8ZGKRjJsiUFrvhqXB6exDSkKojth+iYNiuHJqSH8D8itKoITsZJs8mtuCAKHe6urlvAbYNl0NkFR2x1JPOJzwYTCCrXuvQRyqcumO9gAaa1Y=;CIBnejR93a3/OXD24s8qKw=="
+secured: "ymoXYl+qybOBg0oCng5UX5IB+WN6pKAZ4pkb3zRGnJ26wd4k9heX7N6u/DL2RgfGsRiOpIs8ktVK/P+LGfUKbGUovtauv3LLuTqj9wipytloA05oCeK7b2o2EfIK5KMMbMmwXT6/AvYl3BCnnMamIytd/3dQkfZ9nLBIa7gOFePYgzf6l9jsRRHe8+vm8z9hKgFwFSufAvrHPsONQBAL+RzBDMbAt3BXfwBHsXXx52EugATq6QnP6y3Or+7ZSGi0HQyIq4hXS2zHR8hJElTKxAxEGUMMg39YDFtvQTbp982+qQIuD0Q/wK73U5rw6qavbDxBeV/K1HQEVrsZDCIBZNIq8VQykTgW7NqGlfQAidU=;U29ni9l9FE/EMmjWC9jQpw=="
 ---
 

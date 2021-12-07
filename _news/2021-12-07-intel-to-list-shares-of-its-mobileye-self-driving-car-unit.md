@@ -60,7 +60,7 @@ related:
   - title: "Intel to launch IPO of its Mobileye self-driving-car unit in 2022"
     excerpt: "Intel said it would take the unit public in the U.S. in mid-2022 through an initial public offering of new Mobileye stock."
     publishedDateTime: 2021-12-07T01:39:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos26"
+    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=newsviewer_click"
     type: article
     provider:
       name: MarketWatch

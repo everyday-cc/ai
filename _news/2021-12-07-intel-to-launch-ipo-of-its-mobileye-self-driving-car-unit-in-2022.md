@@ -3,8 +3,8 @@ category: news
 title: "Intel to launch IPO of its Mobileye self-driving-car unit in 2022"
 excerpt: "Intel said it would take the unit public in the U.S. in mid-2022 through an initial public offering of new Mobileye stock."
 publishedDateTime: 2021-12-07T01:39:00Z
-originalUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos26"
-webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos26"
+originalUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=newsviewer_click"
+webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=newsviewer_click"
 type: article
 quality: 54
 heat: -1
@@ -122,6 +122,6 @@ related:
       domain: businessinsider.com
     quality: 28
 
-secured: "h1hnpla6DARJqbZrMt/vItlbDqboXxRp88D/q/vNon2zyGnsYJv+S5K3MkEI7K8Abhlr8wg3wk0UsLtc4/F9yCchN0OBqEBp6g/ATpiH0ZcPK41Fqoduzb21tm6dsT5fw0V0GVTAjctPw+bhP6V5AqzreNXVW+vXn80pmiJ6Qe5xqjCGo98NKehm9ljMMBjUZA53KhCXhB/tQMY0efLstKaw06IedbZYqCpKW/W4KpjpvpURdPIisMdcJHpxnhRYPLLmMnPudNcyWDPjn4IP2sMJMYY6km1bb9WExkcQpLXrL9DgQTZHbf6KyLkz+A0KRJfjNSw4B7Eyo/nvMypUhxijIVBYHHCbD4atEUlN3OlIcs3/+1HdJODLrXqSu0q4oOXXKGcxvga/6iTizGHOQwrcjUx3NM7Bcyl+gCiZbU1hzJ1s3fZUI8EbEYomxVfQAh6IvkEpsfuw0+O8QrWvNZ2zkC262XLJuteau+4ixqgGfyEFY0XtVimRs8Uls0pFlPHD6ENICrsL7IsKVfl6/Q==;bL8PNN9Z/QMvXsD5iH7HTQ=="
+secured: "PqYn4AqbCeVPq0WqHXLOBCahfnVlBqiUFBxJtc9U7QZQn3sgxOsQ7d2eeGBuzlcaluEOfwzFpMu1e17bpxYSYuhjdZOQ6/IDYuGKf658no+5KYian0jqKyJhm1sYxdVmBKbUUUVzKzCPGkvnfOEQIeV4oV3Rx9gPh4OFjW6mhzysorP5NyuW9cmj3veyTXN3mXalQcH3fR7K60/w+aZ1yHob7s25N0/EwNnhBd33xpeiO6BWNFJJ/H3P8qivzdRi0oApEL9kK40G0qj2Wk6llf45Fz55uD57Qa8UUhIzKOofKEY7pbN+tFN7B2uIIjYB/gi261DgJ28PaQ8w2qEWFHNXbvEDeprSlp92gkTCzH4=;LcN2dqyKA5qEDqNt6IUY0g=="
 ---
 

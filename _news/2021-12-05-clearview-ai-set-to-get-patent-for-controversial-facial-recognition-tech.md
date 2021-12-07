@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
 type: article
 quality: 103
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -139,6 +139,15 @@ related:
         width: 848
         height: 339
         isCached: true
+  - title: "UK: US facial recognition firm Clearview AI faces £17m fine for breaching data protection law, considers appealing"
+    excerpt: "A US company that gathered photos of people from Facebook and other social media sites for use in facial recognition by its clients is facing a £17m fine after the Information Commissioner’s Office (ICO) found it had committed “serious breaches” of data protection law."
+    publishedDateTime: 2021-12-07T09:01:00Z
+    webUrl: "https://www.business-humanrights.org/my/latest-news/uk-us-facial-recognition-firm-faces-17m-fine-for-breaching-data-protection-law-the-company-considers-an-appeal/"
+    type: article
+    provider:
+      name: 洗護用品和肥皂
+      domain: business-humanrights.org
+    quality: 12
 
 secured: "9GJV71+bvKwJpRt/IDhMDIzIAPy4k2hoaOObabivaenarb1cqkYXPmF9ijg0kF4l7Xc9cb4PY6O7QKfPmUKfunK1xjnnJ9qOB2Q7H8FRYiqEbI5vpNTfjFZrmDJkXPJMPk03VGXbSwtqGRf9Bo7VGm7QI2KltWAw0cgm6kSKme2yccAlMxEBypiG8i0IQgMC5xhcdKOQ4UuVo6okLDf1g8rOwbcI49t6q7X4qgnisxi8435FKE+racTd0zBt09B/Bnzw9f2RPUFyqrl1fgDyrWOaEnc9V9/sgt+I0IUa2q95/M2B/4Hi16w1Eq4tDi0Y/Ejf4ajxZD8T94BoesIsS2HoIB5ZNFYAEq3LV6uBtMs=;rQs3DpLpTKIyLHS6prjqnQ=="
 ---

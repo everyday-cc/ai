@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "CVS, Microsoft partner on product development"
-    excerpt: "The partnership comes as more healthcare companies heighten their focus digitization. Insurers expect their technology budgets to rise 13.7% in 2022."
-    publishedDateTime: 2021-12-02T17:28:00Z
-    webUrl: "https://www.modernhealthcare.com/information-technology/cvs-microsoft-partner-product-development"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/CVS%20Health%20and%20Microsoft_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "CVS Health and Microsoft agree new strategic alliance"
     excerpt: "Healthcare provider CVS Health and Microsoft have agreed a new strategic alliance to develop new healthcare solutions and provide 300,000 CVS Health employees with tools to serve over one million customers."
     publishedDateTime: 2021-12-06T16:11:00Z

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-09-22-googles-former-ai-ethics-chief-has-a-plan-to-rethink-big-tech.md",
+      "title": "Google’s Former AI Ethics Chief Has a Plan to Rethink Big Tech",
+      "excerpt": "Timnit Gebru is one of the leading voices working on ethics in artificial intelligence. Her research has explored ways to combat biases, such as racism and sexism, that creep into AI through flawed data and creators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloombergquint.com/businessweek/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
+      "originalUrl": "https://www.bloombergquint.com/businessweek/timnit-gebru-former-google-ai-ethics-chief-has-plan-to-rethink-big-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irT_4KqQZRVY/v1/560x-1.jpg",
+          "width": 560,
+          "height": 705,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-21T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-21-f-in-ethics-un-chief-grades-world-on-vaccine-rollout.md",
       "title": "\"F In Ethics\": UN Chief Grades World On Vaccine Rollout",
       "excerpt": "United Nations Secretary-General Antonio Guterres termed the inequitable distribution of COVID-19 vaccines as an \"obscenity\".",

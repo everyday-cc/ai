@@ -42,6 +42,15 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Saving lives with artificial intelligence"
+    excerpt: "New technology developed at Tel Aviv University uses artificial intelligence to help doctors identify high-risk patients."
+    publishedDateTime: 2021-12-07T10:49:00Z
+    webUrl: "https://www.israelnationalnews.com/news/318237"
+    type: article
+    provider:
+      name: Arutz Sheva
+      domain: israelnationalnews.com
+    quality: 17
 
 secured: "kTS1m0gC2+RvyECaKMj63fTT2hv2Uil/rmhNUG72iZJxR0UvnfgoFG/4RWAWF4f+bnvno80qDTkYcxtOX8iNO1GPTx56r5OzadOPeTyfyLKyxPveEOR4karpIhnRzainsXLhwHFc7ek08NpesFPi5AqzU7lgYiON/Je1+cXX3qGkVEt0CiZiJNOq7AzP6/u/L7thZREUd+bmvyox5kHeL/mrmxHsCRtaLiLu22siMaRBv6dRM8RDSY3Ze39Ry/pF3CMV3br3ygasq8KS7s41nyS6HiEcIkjdAmvavjUtH8gLfcc6u/f6bT/iuS3eWrohZ0Qnh27SsYO9AEZmG+bf7iiE5mimFgvaacd6xwQHcnvUvLW4Dy4ZWavnpFYOSutJjCMR9O4gPPVVNemKN48W87CDq3ZkVSF0F+OrPc29KalflBA+eMJH4MCL87dvBVnzSw4Et3x/VwZk5e1CJPJKaiMwKSvzUtLS9pEkXzlgId7Jli8qPSXPuVQ48ufQrxpip/aSFj30wWcYNxeffmOzhQ==;okIoOJvc1pBbuBUnb0i15g=="
 ---

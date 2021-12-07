@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Deep learning dreams up new protein structures"
-excerpt: "In recent years, artificial intelligence techniques like neural networks and deep learning have revolutionized the accuracy of this work. “For this project, we made up completely random protein ..."
-publishedDateTime: 2021-12-01T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/936545"
-webUrl: "https://www.eurekalert.org/news-releases/936545"
+title: "Deep Learning Dreams Up New Protein Structures"
+excerpt: "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools."
+publishedDateTime: 2021-12-01T15:56:00Z
+originalUrl: "https://news.rpi.edu/content/2021/12/01/deep-learning-dreams-new-protein-structures"
+webUrl: "https://news.rpi.edu/content/2021/12/01/deep-learning-dreams-new-protein-structures"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: RPI News
+  domain: rpi.edu
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/decc5c7e-1f00-4ccf-9730-2a03cd8f857f/Rendition/low-res/Content/Public"
-    width: 700
-    height: 467
+  - url: "https://rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg"
+    width: 667
+    height: 446
     isCached: true
 
-secured: "0LorMVRerU5LtFfBhSxyDoxxVDgOe2fcMM+eNVyZUnrb1aT+kMLf6nQIMhT/6hGcWgSrGBFIw6JHWlnkL8tBkrpr0xTI+HKOXLRYl7AkWr07KBb13p6R48xaiZ1uPFeFxqBubkmofPSqcq+hEWHk/XtiE/rNdBXyWqLztzsmeZl2VJzfAMY8IevYxRCOQJLuJn/W65RBF7kT7UBumOASFivbZoYF2O9C83y0O5UJ4DPGRuFoRUxXXDZ9o71yWp+eIYMTAzxceDI/PJ2jTXIXBgrmQn95VvAQzVsf8QgUZnWiBtEQil5+gO+3VTqit1/rs+C+w9SyHBt9McnOuSmm2tD9MZItSTovTr0diPvoP3M=;wyy/5GY9inIK2JvsiFTNAw=="
+secured: "esD8IgCqInAd7sRyREC9WTVT2aVIjwe1oxIvQ9Ox+dex4FY40QrU0oKo7v116TALR3IHPJrm2Z/pDbfW1m+nNES5ABngNhq+8m1kWpT/pWeqsqCZtxRkdZNiW93SGtAuWLjWQPovSdCN4riP8xtRrZlu8Ey2rBC2OhcLgAfP0h5uKkDpSEmhPeOvEAGLrClukIzSt18dbvquuOLf2ltXqBSFWYOQetNaYGXohdUG5sp8PGISGov+tc+0dDBfbg8UaS1d85dOZK1uVTcnJKxqHhAm8NhVC+00ltF6VUPJP1pCS+INZ0Mpw0VVwctym2tPbtomQDGlGP90+3LLrWa+IDbCIV3BfOtsZIrhrybNESc=;zrcL4djDYwnjYM3vzSwU0Q=="
 ---
 

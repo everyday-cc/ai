@@ -52,20 +52,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "CVS, Microsoft partner on product development"
-    excerpt: "The partnership comes as more healthcare companies heighten their focus digitization. Insurers expect their technology budgets to rise 13.7% in 2022."
-    publishedDateTime: 2021-12-02T17:28:00Z
-    webUrl: "https://www.modernhealthcare.com/information-technology/cvs-microsoft-partner-product-development"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/CVS%20Health%20and%20Microsoft_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "AscaqVHsSyI26UA1+iEJ78pVmca8YxiZX8S9UzUQjGgNLDxguYh5mqVNOzEP2mpJ6JRtLj7m3PNUY1QKpIkHuXq3ibfpftxJlzClPX/ddbplUxlZ5hPJ1UPh7oOo1hPqtwGc3DjMON7eoqxntW+31woTnWg6uMK2hX5FD74S8qFlEbJR7pYKHr7pX9JZlYi5+9hXNo3g3wJ8AJG1WuofSA9OgObTQWdLspdMC8HLJan9OIunQBCIBscHHf1mWxHX1Gx11r8mvjDrnanqvxWS/UN2xuvl3NbAx8PgkfcuzCxJIPwQP7TE4abz4GV36pgOB9WuvukBIurRV9Pz+oqYqamJXznDj7caRwMM7TfZKsAh9LtBCTg3PuxmTfM1l9BlXTFidq7xd/QEYMvYBaloUM0x36F55Mdd81gHpn8xeayUfopwbI9zfttaSsuZwAHtP4E1PG2FNopS5fylrzcbrkzRgQLFtzg7ZZUFHUyUHoLLHKv07/2pv98sNp0WmVuRTCZPXtIHWIzON8Tv+9t5dA==;rJbV++/3d04Q0pYpOb/jnQ=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The New Self-Labeling AI Has Brought Tesla Closer To Level-3 Automation"
-    excerpt: "Advertisement Tesla’s head of artificial intelligence has revealed new footage showing its auto labelling tool for its self-driving initiative. It’s believed to provide a significant boost to Tesla’s Full Self-Driving Beta."
-    publishedDateTime: 2021-12-02T18:59:00Z
-    webUrl: "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/"
-    ampWebUrl: "https://wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/the-new-self-labeling-ai-has-brought-tesla-closer-to-level-3-automation/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 74
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/newsimage336112.jpg"
-        width: 595
-        height: 225
-        isCached: true
   - title: "Tesla Faked Original Full Self-Driving Video, Former Employees Allege"
     excerpt: "Tesla faked the original 2016 video showing a Model S driving itself without any human intervention, according to former employees interviewed by the New York Times. The allegations were made in a broader story exposing internal divisions at Tesla over its approach to safety in developing and marketing its Autopilot and Full Self-Driving hardware and software."
     publishedDateTime: 2021-12-06T12:40:00Z

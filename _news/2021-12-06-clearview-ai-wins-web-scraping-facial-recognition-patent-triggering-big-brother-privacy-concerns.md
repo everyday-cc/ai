@@ -135,6 +135,15 @@ related:
         width: 848
         height: 339
         isCached: true
+  - title: "UK: US facial recognition firm Clearview AI faces £17m fine for breaching data protection law, considers appealing"
+    excerpt: "A US company that gathered photos of people from Facebook and other social media sites for use in facial recognition by its clients is facing a £17m fine after the Information Commissioner’s Office (ICO) found it had committed “serious breaches” of data protection law."
+    publishedDateTime: 2021-12-07T09:01:00Z
+    webUrl: "https://www.business-humanrights.org/my/latest-news/uk-us-facial-recognition-firm-faces-17m-fine-for-breaching-data-protection-law-the-company-considers-an-appeal/"
+    type: article
+    provider:
+      name: 洗護用品和肥皂
+      domain: business-humanrights.org
+    quality: 12
 
 secured: "ugCoA9a3pMOlKXEXJXqUejRP2w249sUhMnxOFJE7bEleHhINxZaVXIAgfv/4uAouzK00PFUCXuNYAwlq5kPqEzTS3bbky1pbVXyifVkhopquWccJLiqsndcrmN9Upu3Up7gpCZlKDyDbzQjuwN4SOq7hqo78HI9OM4SkXMRj4KP5fHSKfoJOJmI9f6AqKki1IHNG/D9ciAOIKDQU5xPNI9cUkikyhQ98N2495a5xlJYz3kkz9yqUKvwMfV7SGPr8jomIZVJ2Dclo5bu4BCSjdcRsygZEhKMTNMFukgL0o4LjOeKOvHO2V6MuOElFiaEySLVGj7S38pEocVVKu7NZUqECVCOGdKwOAdCZ0z96vU520a91TJ/lcc38jbfCcZ/kkBWn4zz03pW23AMzr4HwjBRZQJDJ5VCNnsA7lA2LBU8tRoJqv9WQUq8PYSvvx02DNQSYhE0YS3YilaVUrCIGpOUE7B65h1aOw4jLUsSkV5s5HYMIg4TEDjO60N8VMJH28o1YIJi68JVmI+y16mjmcQ==;fgK9roQie4+c+E4xpYYpGg=="
 ---

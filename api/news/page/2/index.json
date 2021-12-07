@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-06-ai-applications-in-digital-health.md",
+      "title": "AI Applications in Digital Health",
+      "excerpt": "Health and digital health, encompassing ehealth and health information technology, form a significant cluster in the Berlin-Brandenburg metropolitan area, evidenced by their more than 600 biotech, pharmaceutical and medtech companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/sponsored/ai-applications-digital-health",
+      "originalUrl": "https://www.newsweek.com/sponsored/ai-applications-digital-health",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1944301/berlin-1.jpg",
+          "width": 1537,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-for-truly-ethical-ai-its-research-must-be-independent-from-big-tech.md",
+      "title": "For truly ethical AI, its research must be independent from big tech",
+      "excerpt": "We must curb the power of Silicon Valley and protect those who speak up about the harms of AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/507cadd8062f426e1ca22df47fde57b3f8b0441f/0_0_4017_2410/master/4017.jpg?width=620&quality=85&auto=format&fit=max&s=187facc6d0d3cbbb25719b24e035a55c",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
+      "publishedDateTime": "2021-12-06T04:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-what-ai-based-recruiting-can-learn-from-hr-leaders.md",
+      "title": "What AI-Based Recruiting Can Learn From HR Leaders",
+      "excerpt": "Artificial intelligence (AI) in HR is a very hot topic. But is it effective in helping HR professionals find suitable candidates, or match employees to opportunities? In a recent browsing session for talent management software,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8f6a930ffa5ea24f8a7aa%2F0x0.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/amp/",
+      "publishedDateTime": "2021-12-06T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-argo-ai-focuses-on-cyclist-identification-for-automated-vehicles.md",
       "title": "Argo AI Focuses On Cyclist Identification For Automated Vehicles",
       "excerpt": "Argo AI, the automated driving developer majority owned by Ford and Volkswagen has teamed up with the League of American Bicyclists to try to make roads safer for those on two wheels.",
@@ -484,7 +639,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -639,7 +794,7 @@
       "originalUrl": "https://www.cnet.com/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -742,7 +897,7 @@
       "originalUrl": "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1066,152 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-15-essential-alexa-skills-that-amazons-ai-assistant-can-learn-to-help-make-your-life-easier.md",
-      "title": "15 essential Alexa skills that Amazon's AI assistant can learn to help make your life easier",
-      "excerpt": "Amazon Alexa skills allow you to customize the artificially intelligent assistant to suit all sorts of needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/alexa-skills",
-      "originalUrl": "https://www.businessinsider.com/alexa-skills",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61aa9c92983f360019c868f2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/alexa-skills?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/alexa-skills?amp",
-      "publishedDateTime": "2021-12-03T14:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-robots-made-from-living-cells-learned-how-to-replicate-themselves.md",
-      "title": "Robots made from living cells learned how to replicate themselves",
-      "excerpt": "Xenobots, which are \"living robots\" made of frog cells, are simple robots that can move autonomously in a petri dish. When scientists added more cells to the dish, the xenobots pushed them together to form new xenobots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598",
-      "originalUrl": "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6272805.1638559444!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/xeno-headline.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6271598",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598",
-      "publishedDateTime": "2021-12-03T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler.md",
-      "title": "How to take advantage of Microsoft 365's AI meeting Scheduler",
-      "excerpt": "Can a computer plan your meetings for you over email? See how Scheduler for Microsoft 365 uses AI to handle this tedious chore.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/03/62a79d85-7901-4b4a-a2dd-d91b0ee8db8c/resize/1200x/ee03377875167bd67e3d988e0d938258/shutterstock-1680627343.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
-      "publishedDateTime": "2021-12-03T12:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

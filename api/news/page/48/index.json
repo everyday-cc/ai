@@ -2,6 +2,335 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-10-29-a-book-on-trading-money-machine-makes-it-to-the-market-shelves.md",
+      "title": "A book on trading \"Money Machine\" makes it to the market shelves",
+      "excerpt": "The entrepreneur, affiliate marketer, investor, blogger, and author Manish Yadav has recently launched the book Money Machine on 8th August 2021 in Mumbai. Th",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaysiasun.com/news/271607902/a-book-on-trading-money-machine-makes-it-to-the-market-shelves",
+      "originalUrl": "https://www.malaysiasun.com/news/271607902/a-book-on-trading-money-machine-makes-it-to-the-market-shelves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ani1635524890.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Malaysia Sun",
+        "domain": "malaysiasun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-voice-tech-coming-soon-to-a-classroom-near-you.md",
+      "title": "Voice Tech: Coming Soon To A Classroom Near You",
+      "excerpt": "Education publishing multinational Scholastic worked on its own speech recognition software in the late 1990s, but abandoned the project in the face of technical problems. But advances in artificial intelligence and machine learning mean it is a technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/",
+      "originalUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617b19822609716213144981%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nickmorrison/2021/10/29/voice-tech-coming-soon-to-a-classroom-near-you/amp/",
+      "publishedDateTime": "2021-10-29T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-analyze-video-feeds-at-the-edge-with-aws-panorama-appliance.md",
+      "title": "Analyze Video Feeds at the Edge with AWS Panorama Appliance",
+      "excerpt": "AWS announced the general availability (GA) of AWS Panorama Appliance, a new device that customers can install in their facilities to run applications that analyze multiple video streams from existing on-premises cameras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/10/aws-panorama-edge-ga/",
+      "originalUrl": "https://www.infoq.com/news/2021/10/aws-panorama-edge-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/10/aws-panorama-edge-ga/en/headerimage/generatedHeaderImage-1635348688066.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-luxsecurity-luxembourg-sa-and-smp-robotics-collaborate-on-security-robots-deployment-in-luxembourg-and-the-eu.md",
+      "title": "Luxsecurity Luxembourg SA and SMP Robotics collaborate on security robots deployment in Luxembourg and the EU",
+      "excerpt": "They will be able to control the work of robots, located in different protected areas ... With video analytics, how would this scenario play out? It’s pretty mind-blowing. As soon as security is alerted, they can work with the video analytics tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/video-surveillance-ai-infared-camera.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/luxsecurity-luxembourg-sa-smp-robotics-security-robots-eu-co-14203-ga-co-1635488429-ga.1635491008.html",
+      "publishedDateTime": "2021-10-29T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask.md",
+      "title": "Google unveils 'Pathways', a next-gen AI that can be trained to multitask",
+      "excerpt": "Today's AI models, according to Google's AI lead and co-founder of the Google Brain project, Jeff Dean, are at the one-trick pony phase – they are \"typically trained to do only one thing\". But a new approach called Pathways could provide something akin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
+      "originalUrl": "https://www.zdnet.com/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/58190d3b9be2f10b7c067e98f461e75b3a4c0dc0/2021/10/29/4802e0e3-058c-4b9b-bd4e-9761f806c7be/google-pathways-ai.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-unveils-pathways-a-next-gen-ai-that-can-be-trained-to-multitask/",
+      "publishedDateTime": "2021-10-29T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-focusing-on-the-human-shop4cf-offers-an-online-course-in-ai-and-ethics.md",
+      "title": "Focusing on the human: SHOP4CF offers an online course in AI and ethics",
+      "excerpt": "There’s been a lot of talk about the best way to apply ethics principles to the AI and machine learning algorithms that influence our daily lives more and more. With […]",
+      "sourceUrl": null,
+      "webUrl": "https://tech.eu/free/42967/focusing-on-the-human-shop4cf-offers-an-online-course-in-ai-and-ethics/",
+      "originalUrl": "https://tech.eu/free/42967/focusing-on-the-human-shop4cf-offers-an-online-course-in-ai-and-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tech.eu/wp-content/uploads/2021/10/possessed-photography-jIBMSMs4_kA-unsplash-scaled-e1635429832996.jpg",
+          "width": 2560,
+          "height": 1548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech.eu",
+        "domain": "tech.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-29-robots-to-clean-nyc-skyscrapers.md",
+      "title": "Robots to clean NYC skyscrapers",
+      "excerpt": "The use case makes a lot of sense: managers of every commerce building in major U.S. cities need some way to clean their building's exterior glass. In fact, window cleaning is $40B global market. The surfaces involved are generally uniform and the path predictable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robots-to-clean-nyc-skyscrapers/",
+      "originalUrl": "https://www.zdnet.com/article/robots-to-clean-nyc-skyscrapers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b656a675bbd1838bfbf9bdff16eb479741d8edae/2021/10/28/37ceec2f-0fc4-4223-82ef-92fab5b771a2/skyline-window-cleaning.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-to-clean-nyc-skyscrapers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-to-clean-nyc-skyscrapers/",
+      "publishedDateTime": "2021-10-29T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-29-fighting-financial-crime-with-artificial-intelligence.md",
       "title": "Fighting Financial Crime With Artificial Intelligence",
       "excerpt": "SwiftDil is pioneering the one-stop solution paradigm for AML/KYC compliance using AI technology The SaaS market is now increasing at an annual rate of 18%, according to the Cloud Computing Market by Service,",
@@ -814,336 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-how-tourradar-automates-the-translation-process-using-amazon-eventbridge-and-amazon-translate.md",
-      "title": "How TourRadar automates the translation process using Amazon EventBridge and Amazon Translate",
-      "excerpt": "This is a guest post written by Gergely Kadi, Senior Systems Engineer and Martin Petraschek-Stummer, Senior Data Engineer at TourRadar. TourRadar is a travel marketplace to connect people to life-enriching travel experiences. When it was launched, TourRadar only offered tours and content in English.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-tourradar-automates-the-translation-process-using-amazon-eventbridge-and-amazon-translate/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-tourradar-automates-the-translation-process-using-amazon-eventbridge-and-amazon-translate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/23/ML-2804-IMG1.png",
-          "width": 931,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T09:51:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-elon-musk-announces-tesla-full-self-driving-beta-104-update-as-rollout-slows-down.md",
-      "title": "Elon Musk announces Tesla Full Self-Driving Beta 10.4 update as rollout slows down",
-      "excerpt": "Elon Musk has announced the upcoming release of Tesla’s Full Self-Driving Beta 10.4 update as Tesla slows down the rollout. Earlier this week, Tesla started rolling out Full Self-Driving Beta 10.3. The update came after a false start last weekend when Tesla pushed the update with some problems and ended up reverting back to 10.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/",
-      "originalUrl": "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/28/elon-musk-announces-tesla-full-self-driving-beta-10-4-update-slow-down-rollout/amp/",
-      "publishedDateTime": "2021-10-28T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-living-with-robots-an-excellent-non-technical-overview-of-robotics.md",
-      "title": "“Living With Robots” – An Excellent Non-Technical Overview Of Robotics",
-      "excerpt": "This is a review of the third book sent to me recently by MIT Press, and the book is the best of the bunch. “Living With Robots,” by Ruth Aylett and Patricia A. Vargas is a good, non-technical book that discusses a number of issues with robots in human ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D24%26cropY2%3D517",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/10/28/living-with-robots--an-excellent-non-technical-overview-of-robotics/amp/",
-      "publishedDateTime": "2021-10-28T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-self-reported-dangerous-driving-habits-revealed-in-new-survey.md",
-      "title": "Self-Reported Dangerous Driving Habits Revealed In New Survey",
-      "excerpt": "“Based on self-reported driving behaviors from our annual survey of traffic safety culture, it is encouraging to see more drivers recognize the danger of certain activities behind the wheel,” David Yang, executive director of the AAA Foundation for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tanyamohn/2021/10/28/self-reported-dangerous-driving-habits-revealed-in-new-survey/",
-      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2021/10/28/self-reported-dangerous-driving-habits-revealed-in-new-survey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617ac445569df82205e7de16%2F0x0.jpg",
-          "width": 610,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2021/10/28/self-reported-dangerous-driving-habits-revealed-in-new-survey/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2021/10/28/self-reported-dangerous-driving-habits-revealed-in-new-survey/amp/",
-      "publishedDateTime": "2021-10-28T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-spooky-or-plain-creepy-using-ai-self-driving-cars-as-stalkerware-to-sneakily-stalk-someone.md",
-      "title": "Spooky Or Plain Creepy: Using AI Self-Driving Cars As Stalkerware To Sneakily Stalk Someone",
-      "excerpt": "Bad people will do bad things, even with the greatest advances in AI. As an example of how some might attempt to twist goodness into badness, let’s consider the use of self-driving cars for a disturbingly real possibility of carrying out a stalking pursuit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/28/spooky-or-plain-creepy-using-ai-self-driving-cars-as-stalkerware-to-sneakily-stalk-someone/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/28/spooky-or-plain-creepy-using-ai-self-driving-cars-as-stalkerware-to-sneakily-stalk-someone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa47503823ee9506ca6fa7d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3087%26cropY1%3D82%26cropY2%3D1819",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/10/28/spooky-or-plain-creepy-using-ai-self-driving-cars-as-stalkerware-to-sneakily-stalk-someone/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/10/28/spooky-or-plain-creepy-using-ai-self-driving-cars-as-stalkerware-to-sneakily-stalk-someone/amp/",
-      "publishedDateTime": "2021-10-28T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-aws-announces-general-availability-of-babelfish-for-amazon-aurora-postgresql.md",
-      "title": "AWS Announces General Availability of Babelfish for Amazon Aurora PostgreSQL",
-      "excerpt": "New Amazon Aurora capability gives customers the ability to run applications written for Microsoft SQL Server directly on Amazon Aurora with little to no code changes New open-source Babelfish for PostgreSQL makes it easier for more organizations to run Microsoft SQL Server on PostgreSQL under the permissive Apache 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20211028006197/aws-announces-general-availability-of-babelfish-for-amazon-aurora-postgresql",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20211028006197/aws-announces-general-availability-of-babelfish-for-amazon-aurora-postgresql",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-28T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-28-from-cars-the-movie-to-self-driving-pixar-veterans-join-aurora-to-advance-companys-simulation-efforts.md",
-      "title": "From Cars (the Movie) to Self-Driving: Pixar Veterans Join Aurora to Advance Company's Simulation Efforts",
-      "excerpt": "Aurora continues to scale its Virtual Testing Suite, running millions of daily tests to rapidly increase capabilities of Aurora Driver Self-driving company Aurora announced it is accelerating simulation efforts by welcoming the team from Colrspace – a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/10/b23707997/from-cars-the-movie-to-self-driving-pixar-veterans-join-aurora-to-advance-companys-simulation-effo",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/10/b23707997/from-cars-the-movie-to-self-driving-pixar-veterans-join-aurora-to-advance-companys-simulation-effo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23707997",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23707997",
-      "publishedDateTime": "2021-10-28T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

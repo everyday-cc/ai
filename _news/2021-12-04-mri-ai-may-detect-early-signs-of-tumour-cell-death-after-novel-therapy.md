@@ -19,37 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) to Detect Signs of Anxiety"
-    excerpt: "Artificial intelligence (AI) has been used to detect behavioral signs of anxiety with more than 90% accuracy, reveled researchers."
-    publishedDateTime: 2021-12-02T17:34:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm"
+  - title: "MRI, AI may detect early signs of tumour cell death after novel therapy"
+    excerpt: "According to new research led by Massachusetts General Hospital it has been found that magnetic resonance imaging MRI and artificial intelligence AI can be"
+    publishedDateTime: 2021-12-03T11:09:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271859405/mri-ai-may-detect-early-signs-of-tumour-cell-death-after-novel-therapy"
     type: article
     provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 74
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 54
     images:
-      - url: "https://images.medindia.net/amp-images/health-images/artificial-intelligence-can-detect-stroke-and-dementia-risk.jpg"
-        width: 1200
-        height: 1000
-        isCached: true
-  - title: "Artificial Intelligence (AI) to catalyze the Repositioning and Offloading Devices Market"
-    excerpt: "With Ulcers and Spinal Cord Deformities at the peak, the Repositioning and Offloading Devices Market to sway the board on a Stupendous note With incidences of pressure ulcers increasing at an alarming rate amongst the elderly population staying with disabilities,"
-    publishedDateTime: 2021-12-05T21:48:00Z
-    webUrl: "https://techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/"
-    ampWebUrl: "https://techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 65
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/12/Repositioning-and-Offloading-Devices.png"
-        width: 700
-        height: 400
+      - url: "https://cdn.bignewsnetwork.com/ani1638529347.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "2Es5rzlT8Pi/iVXUKZ3ywLc5mOesy/vyjptoIfZWBLFyVMOlMD/SNrf3dkBCuAvWMpOaotqEH5Y9PxVvQAQq8tuPz6fkkr8iesGHsca1ViDzDal63nsFCqcw1q5yOh4/IyHdeG0Z6nA5ewIKpSJDGR8sMnhgb1EUeKF9AYkP0hPKUDveLxLcTai0Kzgk516Pl15Ouw4IaUG+zcpu3XmNOzBvk/gdDForN4Z1rrhUS2Cuog0boZ16LkzAI/kCeqZpyWUYjjdqqFVl9fbP3AlmZKBVjbzAwRIgMR+vXtm69+DU+chSVnTx7xlZnZcyThIlR8bVF+2ee9Hx55cE7zEbEDLvuV49yX6BhREJnu1AokQ=;CfikMXcxHeJAT3c3laBrAQ=="

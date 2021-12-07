@@ -1,19 +1,17 @@
 ---
 category: news
 title: "DeepMind claims AI has aided new discoveries and insights in mathematics"
-excerpt: "Learn more DeepMind, the AI research laboratory funded by Google’s parent company, Alphabet, today published the results of a collaboration between it and mathematicians to apply AI toward ..."
-publishedDateTime: 2021-12-01T16:51:00Z
-originalUrl: "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/"
-webUrl: "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/"
-ampWebUrl: "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/"
+excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DeepMind claims that its AI systems helped mathematicians to discover new -- and significant ..."
+publishedDateTime: 2021-12-02T09:48:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics-10803024"
+webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics-10803024"
 type: article
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,12 +20,6 @@ topics:
   - AI
   - Math for AI
 
-images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all"
-    width: 1198
-    height: 600
-    isCached: true
-
-secured: "FZ1kJO4zBYkR293kaDVoIB67TacOmTYwZAyEy+Buqp04x5O55rwRzsZ/L4hfVb+SMb1DZbpo24oTHWZ5dTHN8XFbw24jJ83aBG39YESBReo937njdY1GrdP5LQSG6Nig0uZDZ2/JLgU++aOQ84VJo5r4k3xj1d54pPooexVNY0A9A6WIv+lRR5p3V94/iNgA/64stYeixHb/LzZZC9KKtJ4dvUc17FmLsQzqTFxrNdlF4gSCCScXAsOO/NPdWzurKlXtsrghmrRwSLd8/42w1qs4jLKbbU+s+jtCgt9rDa8ppYcsizev8LB7ccr50DDAY0ApL56DsrpPBxvZgpbDgPKlE9c/yz+pB4nQs4Gv8ho=;KVkYElHagDNIOe+Oy0VfYA=="
+secured: "qKjaoByoaARcuP5c6dryH1s3sT4KyBGpYxmSDAZcK4+o4oB2ZAxfTUEoMH5M7DRdUf3Ou1C5NnrWXSTjDXtxxsLp9+T024i2H46OjdtMafok5dWnYB+3Qse24tYOvkQTzHKbNOWGjbYCMiQE5+RMyGOXACx7JAWWl3kvQhxLuaTf7IqFI9FmLOeyrKMe8ys1Dv4Eg+wnLArgz5CI9Ndfh5BIqBtvJMd8lT3zUZtP+EzC26w3uoTb+C/sI25PlSlDm/e7CCuAocycIOgRu6UhyPmRpPZL1WGu4qct1tEvIhvpCORsRlGSKWua3LDy4B0pwc2zkJ5QVCnR4G6dUQE0LW7zIo2rO5fMuLF2EsLtvXo=;S+KMy/qYlixlg3K8FNWCSA=="
 ---
 
