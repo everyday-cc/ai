@@ -27,7 +27,7 @@ related:
     provider:
       name: Nanowerk
       domain: nanowerk.com
-    quality: 18
+    quality: 20
     images:
       - url: "https://www.nanowerk.com/nanotechnology-news2/id59327_1.png"
         width: 800

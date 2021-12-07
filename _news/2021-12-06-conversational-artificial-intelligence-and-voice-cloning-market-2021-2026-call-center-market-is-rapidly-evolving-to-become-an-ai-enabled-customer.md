@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "SEIHAI: The hierarchical AI that won the NeurIPS-2020 MineRL competition"
-    excerpt: "In recent years, computational tools based on reinforcement learning have achieved remarkable results in numerous tasks, including image classification and robotic object manipulation. Meanwhile, computer scientists have also been training reinforcement learning models to play specific human games and videogames."
-    publishedDateTime: 2021-12-06T15:20:00Z
-    webUrl: "https://techxplore.com/news/2021-12-seihai-hierarchical-ai-won-neurips-.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-seihai-hierarchical-ai-won-neurips-.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-seihai-hierarchical-ai-won-neurips-.amp"
+  - title: "Please hold: How AI is changing customer service in call centers"
+    excerpt: "Advances in AI and NLP provide powerful tools to support agents, increase efficiency, cut costs, and greatly enhance customer experiences."
+    publishedDateTime: 2021-12-07T19:10:00Z
+    webUrl: "https://venturebeat.com/2021/12/07/please-hold-how-ai-is-changing-customer-service-in-call-centers/"
+    ampWebUrl: "https://venturebeat.com/2021/12/07/please-hold-how-ai-is-changing-customer-service-in-call-centers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/please-hold-how-ai-is-changing-customer-service-in-call-centers/amp/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 58
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/seihai-the-hierarchica.jpg"
-        width: 1064
-        height: 586
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-684584328.jpg?w=1200&strip=all"
+        width: 1200
+        height: 623
         isCached: true
 
 secured: "Wn3UDzIJ+z87W3tlcLPyDbYg4v47/x5P/JRTnWFqtRcHRmPhzl2kNOYcUHwcgLriTN0fCMiVeQ4f5OHJb0ogyZG3OBIcirOkfC+ubB58YH9y98ZwWgZoIO0tinVi1Nc6YZxf6yb/gz3l0eVoIbttbJyIz0uB8xNZm59+4ndvtxXKTsl5e/xwYEfwbRpAbfhjmiZmb+U6zu+/IU/Oqsr56wlvKlxGbEu6roaMlgKzx0lZIj08bBJ+HTxFRdL8u79Y5NH21ZMdtX/LcdduyWUmOQ9/KeMh5Baozq7fmZsS2WZrdgpO7IXK4ikq6NmrJOkPPlRxb50wEqjvgP5A/ljw8XL8OI7KPhGc1nWJhdW37GM=;O6o0KSzWFf9BzU7E5tO82g=="

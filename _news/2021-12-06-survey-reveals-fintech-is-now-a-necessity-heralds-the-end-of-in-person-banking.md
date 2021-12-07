@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-survey-reveals-fintech-now-necessi
 webUrl: "https://www.tmcnet.com/usubmit/-survey-reveals-fintech-now-necessity-heralds-end-in-/2021/12/06/9505195.htm"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "The Country of IPOs – How #Fintech is Transforming India?"
-    excerpt: "Fintech revolution, and investors across the world seem to be vying to get hold of a piece of action. In the last decade, across the global financial industry, Fintech or Financial technology has taken centre stage."
-    publishedDateTime: 2021-12-06T12:42:00Z
-    webUrl: "https://www.linkedin.com/pulse/country-ipos-how-fintech-transforming-india-pathikrit-banerjee"
+  - title: "The Future of Fintech 2050: AI-Powered Finance Assistants"
+    excerpt: "Discover a possible future in which AI-powered assistants control all aspects of people's financial lives using ultra-personalisation and hyper-automation"
+    publishedDateTime: 2021-12-07T09:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/future-fintech-2050-ai-powered-finance-assistants"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 54
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/ai-powered-finance-assistants.jpg.png?itok=T_w9zlmv"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Portugal Fintech Report: Top 30 Fintechs and First Unicorn"
+    excerpt: "Portugal’s fintech industry had a fructuous year 2021 as it welcomed its first fintech startup unicorn and new regulatory development in the booming digital asset industry. Although the country is steadily rising as a startup hub in Europe,"
+    publishedDateTime: 2021-12-03T05:55:00Z
+    webUrl: "https://fintechnews.ch/fintechportugal/portugal-fintech-report-top-30-fintechs-and-first-unicorn/50441/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
     quality: 24
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEbRPKrBmCQmg/article-cover_image-shrink_720_1280/0/1638792232670?e=1644451200&v=beta&t=CQQaLMCmoIeEBKcL2G20RUKhxBCUHM-kzr35GHq7Ldw"
-        width: 1080
-        height: 720
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2021/12/Portugal-Fintech-Industry-1440x564_c.jpg?x22073"
+        width: 1440
+        height: 564
         isCached: true
   - title: "Numerated Acquires Fintech to Improve Underwriting Process"
     excerpt: "Boston-based Numerated, a financial technology company that provides a business loan origination platform for banks and credit unions, has acquired another local fintech that the company said would help reduce work for lenders using the platform."
@@ -52,6 +66,20 @@ related:
       - url: "https://www.bankerandtradesman.com/wp-content/uploads/2021/12/Robotic-Hand-Giving-Check-EDIT.jpg"
         width: 1375
         height: 917
+        isCached: true
+  - title: "Future Unicorns in Fintech Report 2021: Analysis of the Top 50 Fintech Startups that have the Potential to Valued at More than US$1 Billion - Research"
+    excerpt: "The \"Future Unicorns in Fintech\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the top 50 Fintech startups that have the potential to become unicorns (valuation more than US$1bn) based on the Unicorn Prediction Model."
+    publishedDateTime: 2021-12-06T15:26:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=582874"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "tW2K0/xxrKybXugHi35AnV1sxV4gazSgBL+5CKCUxUusxiMs1du3t9E7VSWYZ9KT8Yj//RQVT7pKDpn6K0UDQfvyuIsu6jvTHxUaDhcLgVfbyLE7kLRXomkZex7i9rJJtSbl+0N3Cdnpjk32Imi02NPrQ6MoxphkSvwz7qguluh6BROSLg1BDUxpoNWY079EbK1tpdPDneX2eCJ7+HyYiBAYYdxmk44aYUW0/u5+WrE5DI5AWd2RLnEtUR6WWbTRxcWPJPE5X8KmGC95FQ3bVT00hO/vxpv2scfl/xdBwtE6upGVRvlFEdnldl0u8yWgKutY4JseYMj1DMsj8HFWt16VQVeGmOf74aYXi6gTdNaVEXSYrF0f1LqG2mcYszF/xR2kOuqWh1M2NYwF6ID60e3ZPcEUmOfqsSjyXViOIbfEiQgKztTEsjGHNgwbXRFtrc9QIxUUHm5F628qnLp6hibUUCB33FIlW6wN+VXsfPeI/c9MzIvPlcaGb4kaZJL0Wyi+XeZFBAuXyCLROFDlcA==;L3EoYx1g/7SjZOwx814Xeg=="

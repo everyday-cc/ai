@@ -9,7 +9,7 @@ ampWebUrl: "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targ
 cdnAmpWebUrl: "https://www-informnny-com.cdn.ampproject.org/c/s/www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
     quality: 50
     images:
       - url: "https://s1.cdn.autoevolution.com/images/news/stellantis-bets-on-artificial-intelligence-wants-to-beat-tesla-on-it-own-game-175951_1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Stellantis Targets $20B+ in Sales From Software by 2030"
+    excerpt: "The company is setting up an academy that aims to reskill more than 1,000 of its workers with data and analytics skills."
+    publishedDateTime: 2021-12-07T19:07:00Z
+    webUrl: "https://www.industryweek.com/the-changing-automotive-landscape/article/21183152/stellantis-targets-20b-in-sales-from-software-by-2030"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 41
+    images:
+      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2021/12/16x9/STLA_software_platforms.61afabebb3cd1.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
         isCached: true

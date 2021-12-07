@@ -41,6 +41,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Stellantis Targets $20B+ in Sales From Software by 2030"
+    excerpt: "The company is setting up an academy that aims to reskill more than 1,000 of its workers with data and analytics skills."
+    publishedDateTime: 2021-12-07T19:07:00Z
+    webUrl: "https://www.industryweek.com/the-changing-automotive-landscape/article/21183152/stellantis-targets-20b-in-sales-from-software-by-2030"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 41
+    images:
+      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2021/12/16x9/STLA_software_platforms.61afabebb3cd1.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Stellantis wants to outfit cars with AI to drive up revenue"
     excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
     publishedDateTime: 2021-12-07T13:45:00Z
@@ -84,6 +98,6 @@ related:
         height: 600
         isCached: true
 
-secured: "oEMEa2CC60bLCanb7407ZfwACw2XQ1dUux1TVTj7CG43E11GTSEpkBUQd+tZmuqE0xG/RCa1cD4y/KnqgYP0Nls8ztGH+i9jchuttvrWxJ7nVhh0NToQTL/T5Hzzc0aKjuw0QXGHUcvGt3+iEexhlPvgGd0OyOTJG2r9QmrpZuibGiAEzo8AETXxH4iogJifywhG2B64e0aquGAsDUFCai3ljgnUqr4ZyXfHFt787rTuIxTilHla+kwbzHGeU9jCA/uDMJqLuo56KVYcCQix7o0ontTbjXdY5Vxmj6TRpXK1q5b4tUW1PMZYE+iGy6OHy/PT+9+CUDb4d6RCgxfG8JRV48zZCWGJy6V2QGMp7Hs=;WoAkKjlLNmvXUiOwR30kcQ=="
+secured: "JYl9LP7epkSUWx5oM/NMw//4eyX9nsvqZ/ozzWvmVoBqueLq0W1UIFvVMDB5/ZNlxDDT8ZZzJ+RfvsqaGhd/oDxbIr2qh3ZIqNBFSI8kYNp5mxxJVeclbvCMsFTl6JzjkDEHcFbRuSP/k/SuBE17zV1q5lYvTbFtn/zVS2x/3U1H7Wo7+2oh89fyYa+TCCulSG3x+MqqesD6oMLFgBOFG+PgOq3nqCRavIxJZOHIfOaCxJQbRqRCs6gQt1UWwr6hmrTzIL8NuoYWI+7sq4ct1pGbRIOvhnUtNBIQjCzUfky9BsE981r/cUO6CQuFq1RH45y78HnqM8X8nyTq0iI9GXVl4jhylaOEdY3AV3Ga6q99hIE+GgsiRwBOOmzEJ06wE8372hk+hmbeTt2T8JTs5tVy/RCEdLTe/s5FA4u1h1VSN3dcgamOy5hdk69273+/fJRQlThh+0oRphUn9pjBsOM0O89f2j9ALpWx0znOhDvVhQzCB0WpDPm8ToE92JYQ9ru0xRZNwm4xrAXd1hesSw==;nYst46gOFP6xY6I69JzUsw=="
 ---
 

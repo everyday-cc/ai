@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-07T17:50:00Z
 originalUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=59327.php"
 webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=59327.php"
 type: article
-quality: 18
-heat: 18
+quality: 20
+heat: 20
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.nanowerk.com/nanotechnology-news2/id59327_1.png"
@@ -35,6 +36,6 @@ related:
       domain: eurekalert.org
     quality: 0
 
-secured: "rYIBBS4V8mxGTfXdn6lIH4eofFtng8ZdSsa9W3GuQnTdfUe8ERCZd8w2jU4K02Cgr+XxwpYGTqm3breeSGWbvyUuxDrukeTIz7aDGHpMkdGeVixg78Zx2Lr3uf8zAbzfbmYb9XScqDlXzjOWyRNGKdJ1/KyZy3+xfyAv7zotYaqG8o9xD6I5rALDs+ZErCHAecr25O3serLPcASjwzNrPKqLWMCoQjAIVKtoE2vfLF8M690nMxH4ZtmlTIQVqlFTSPFN/ZSWD6nIap54oY3f7Ha9ZVH3d4/ODHoi1z/blPnZHqdo8vPjWeKNB348/FhhcY3/QHmxpw8ZbnJ99ytsHdBP31t6ZDzb7Qa3R6MUILs=;uTENzSssifoIeTny0Ch+hA=="
+secured: "AuY0biD/YflRVWcKsPD6EpI0cgcMoU+jYkqos6s4EE8ITCV6VWnz6+lF5qbqGB7wo3IrOLuQwPVqSz4hcZaUVEv0hNgJy5HN6p+myagcUBwrilL/KxEHOUdTV8Fchw7guhVpS1ZVa3Iu85DRLsTh3jMbDlludBzK6++CpHEgO+2muFtmHjuMzIlGFYQSAZlCPmZ4QjvcbuE2vVCRW5dG55h6hT0Ufi7dt6pNeKzzsJmAdr6+Pja1EnH64XdlHw0Ejy4GbE4oTT54JObREuCwrBWFAlanZkONeoI/AZ9GX4PxFKsY4/VCQOfhU1lujgr60NS0r1S/AX6beJrkFJ/vfrFyNw5rJAHMSGXxNCzht1HOX9qrC49gxeIeyeXpOEk1WDzDeAup0VBW+dMs448doOBfg4u6kIOSao2Y47cbq5/7kEqWE//NmvWxRoW6T9qYDJMeWvt25zK/DSa69y2safCpsDo9jjmgGJySxO1YtglxOe6rl97OppHSZIU7vgDQuYszynesR38ytC9LR/8IjQ==;rdVC8xrmC3f2BF7AZTs2tQ=="
 ---
 

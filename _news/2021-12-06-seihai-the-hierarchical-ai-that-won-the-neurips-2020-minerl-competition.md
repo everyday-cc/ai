@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-12-seihai-hierarchical-ai-won-neuri
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-seihai-hierarchical-ai-won-neurips-.amp"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1064
     height: 586
     isCached: true
-
-related:
-  - title: "Conversational Artificial Intelligence and Voice Cloning Market 2021-2026: Call Center Market is Rapidly Evolving to become an AI-enabled Customer Con"
-    excerpt: "The \"Conversational Artificial Intelligence and Voice Cloning Market: Next Generation Enterprise Solutions by Use Case, Application, and Industry Verticals 2021 - 2026\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-12-06T09:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=582473"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "u7AydZkzQK8Et+evu2a1lP/z6wGZLNdD/CWEuKJCphDpkHGZygSOcZmym2xZCn4BBPuTwSqzKMjux/nwlCQ6MTOtEs92zVGWTvESsr0ZjBj9YeiSbUwqeerSy6eC9lNwIxO6lt9nPhr065ko8fKdMOkhWE6sbRpDPK5IWra7oP+2fvm4u64FRK972n9viHo+rvQxnaTf0BI2BM2eNkiE/8kdRfWRhYRdcqSA9EMdXOUa8VjXHN4A3AmXNiMxN8bXlIuo905B2oGHv5K7daGE/lFgehFTvPug6J6u1eW2HOEyR8WKburiGZXXUEYi3ALvIB4lqJdwoOjwrjUywRLNrn62mfyFEhc1ZGYgUGL5xEdXqDNGyx1X9J2DxZka39Nz6RIeNzTQxyUjNRMDjn03sIbyrKbIza0EBCfjv3x1IOtXwIjOioQZSCw6PwSAq23Ky0BLDU36J93/XMQMJ/zTU/RWQsV3Okk+gD7e/ZN9vM4o05/o01ThZ4Uh/2fD1TYhUQ0MxLPbqPXAFCd3WFyXPw==;TCMC9xmeAThDXsu4K1BDCQ=="
 ---

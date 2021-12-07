@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Stellantis Targets $20B+ in Sales From Software by 2030"
+    excerpt: "The company is setting up an academy that aims to reskill more than 1,000 of its workers with data and analytics skills."
+    publishedDateTime: 2021-12-07T19:07:00Z
+    webUrl: "https://www.industryweek.com/the-changing-automotive-landscape/article/21183152/stellantis-targets-20b-in-sales-from-software-by-2030"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 41
+    images:
+      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2021/12/16x9/STLA_software_platforms.61afabebb3cd1.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Stellantis wants to outfit cars with AI to drive up revenue"
     excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
     publishedDateTime: 2021-12-07T13:45:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intel to launch IPO of its Mobileye self-driving-car unit in 2022"
-excerpt: "Intel said it would take the unit public in the U.S. in mid-2022 through an initial public offering of new Mobileye stock."
-publishedDateTime: 2021-12-07T01:39:00Z
-originalUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=newsviewer_click"
-webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=newsviewer_click"
+excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
+publishedDateTime: 2021-12-06T23:33:00Z
+originalUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=home-page"
+webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=home-page"
 type: article
 quality: 54
 heat: -1
@@ -133,6 +133,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel plans to take self-driving car unit Mobileye public: Report"
+    excerpt: "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters."
+    publishedDateTime: 2021-12-07T20:45:00Z
+    webUrl: "https://www.livemint.com/companies/news/intel-plans-to-take-self-driving-car-unit-mobileye-public-report-11638868167534.html"
+    ampWebUrl: "https://www.livemint.com/companies/news/intel-plans-to-take-self-driving-car-unit-mobileye-public-report/amp-11638868167534.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/intel-plans-to-take-self-driving-car-unit-mobileye-public-report/amp-11638868167534.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 44
+    images:
+      - url: "https://images.livemint.com/img/2021/12/07/600x338/Mobileye_1638868453811_1638868453986.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Intel To List Shares Of Its Self-driving-car Unit Mobileye In Mid-2022"
     excerpt: "Intel Corp. (INTC) said that it plans to take its self-driving car business, Mobileye, public in the United States in mid-2022"
     publishedDateTime: 2021-12-07T03:02:00Z
@@ -189,6 +205,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "e8rlLkjZ/nM0Oixgh7BPfhRuhZfBrfijLHmdeJzOb4cD1GlsrU/IYyiorf3QI1KGpPzpJ4zUldcLX0KUbaiEIbaQ3isUj+jBgU9gd4W0Gk/pIvXnb1yzFXqlFqjXOXy3oV12hw6py6zACKdWqpHi1F6etQgXseFJ9ZpCPkXKNVhcGuByNRvmNLsoEDRzn2eLyVuFhYEh01lsNpTfR6YV0vLkD5+oRcUJuPqopqRRCImv5LC4oYQ00gCqhwvUio9SDeMiBdnWD5Wz+C+WjX5xtelvckoVg4bg1aB3U+pwHOMSKzkX0cqRmIaqddcnYUH61oKt1yZTahPQU53KJMAkLwhoNn05XuregoKB0mGSDjowo3ZPfTVZkmgkKQnXIdiMIJ2WyT3KsMCD5kCrP5PeeuDIwo8JxXVl+ZIfn3Az/nFgTb1kAKn2hENEk518C4OYy6VDPpu2/NpdAvSLY0Rh9bnFr85m7NgJhCGuZ4P/4urylfBo7SLN5+OZNbHQ6GGUdKBAdkfOTaTVadh94qlo9Q==;U5yF9pcBXXqQpY9tZEfATA=="
+secured: "YCuVYojZONq3X55ovLOGACw75fRlQm0aEPTi2GUXVjIdIgv9ZJefhVL4HBUhVwUgwBijPyT7WwbvUiSjgRt6+l01DMi/T7hHG6tJvNbv/KuEpuPMRjBWLSiGmmhXi5biXkWNvMkwXrfOHVcSt0vxBYNUNJXYRic3jpszsrCjIFzG67IynyxeYynmSHRqwn3MaXFC+c34kEuyPAHHLBes9v+6YHAZ/SX4JnxXDmN2W3s3n1Lss+h1s4S3KluaXXuZZ/OHPYTJdIuQm4LBzvmUcLFSKtIld7m8U4sEm0uVniTn8m9Imi+lsrNliCIODh7vrs4PXXZF91GUhGCY2MWNBGLhwmF9L149Hxvc/4CbhtA=;iFSOoeMORXO1hxFQFpmc2A=="
 ---
 
