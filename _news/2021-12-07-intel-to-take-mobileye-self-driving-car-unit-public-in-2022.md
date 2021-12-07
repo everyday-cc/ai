@@ -161,6 +161,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Intel's self-driving unit to get IPO"
+    excerpt: "Mobileye, which has been growing faster than its parent, makes chips and software that work with sensors to let vehicles handle more driving functions."
+    publishedDateTime: 2021-12-07T18:10:00Z
+    webUrl: "https://www.linkedin.com/news/story/intels-self-driving-unit-to-get-ipo-4598769/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQGaQSUzonLJdw/storylineheaderimage-shrink_400_400/0/1638900630048?e=1638993600&v=beta&t=ATEYMYGhpkl8NPyLKNYOZK3jg1HXGVq5YjSo2icnmpk"
+        width: 400
+        height: 264
+        isCached: true
   - title: "Intel to take its self-driving car subsidiary 'Mobileye' public next yr"
     excerpt: "Chip maker Intel has announced its intention to take its self-driving car business Mobileye public in the US next year via an initial public offering (IPO). Intel will remain the majority owner of Mobileye,"
     publishedDateTime: 2021-12-07T12:56:00Z
@@ -171,6 +185,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "JT1+ANsBc1isdfdAASOtgOqmezgrhmMbELU290rj+Yd5hZ2dAf3+fAMR+xOxg/DA2IBznOxIn2cXcgBWbUcIHUqiEiPh7HxyeWr7Q7PlXz16Pzw0ETZ0Sy4jGDrxBpyKIpH4YgayvimAJsT32oI7YTv5BTeObdI3x1fM8WUUdU/C/5YhGM9YpyTGVkeHrqSz/uasJWTJmOjg/PHoHgcrPxnlHFXsNExZ+7gEOjBq0Q2X8U05b4mO/AHsCEe89rNTE12BUwo0PLddsRaDgmmnh4gK0rMDt9Nugjksn0DFbpNGzx6mEIMMmnesQiWgv3PWYqaG0/8Ukjyg35SCsc+cmMvJgX84VQn439/5DlG/qMI=;RAoaOPXecQgFl0JOy+CN6A=="
+secured: "SR4TOjbVVPRa0ZQ/Mt3eOIaygDP1JQuBvTjZg1Xq8S6hzmfmDGngAUvqkXvzKXDBnADYYSyUs+8J2gJ7ndRzkxRa6+mBsEN6L3UwAkrwZHb5fKSubnI6bnd/MeZVaaZbZx/84Iiz4KiJj0TDDqfDkd321fiAfSZvjwm9SAQ7Ch1jACh+fiKLldovlazIkN+JSnoXjbLEPBYS2T/xScWZHF/xQej7JZf0klylYPnRSuLhtDoPA4oU1AhQkcUePm7u9FB3VNjjielox6Yeos1/S3LlCMEPl8hvf2EsBLeC767DjoYAKn5b5dNVZYqPz49X/PVWOWfOiTyf0trslwF9LBKtGmixGtKzHlCnbLeO5slMVv2j80NGJ1rrtw39RQlLqNk5wU+S0I05CnBka6M156xkYImL/oUta7N+wzX1RIY6EPOzWu0Y8hVeeLWYu5Mvq0Q96EzCa53O/znRawWyfKSgXMKTiRftyITsXF9ewd2bYS5D/W21QrlOhzsc+67m5l38O6VBccH2XJRBCa3HEg==;A09eCV+1eP9+KU3BZzVqRg=="
 ---
 

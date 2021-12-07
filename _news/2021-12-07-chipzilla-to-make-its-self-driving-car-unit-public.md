@@ -161,6 +161,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Intel's self-driving unit to get IPO"
+    excerpt: "Mobileye, which has been growing faster than its parent, makes chips and software that work with sensors to let vehicles handle more driving functions."
+    publishedDateTime: 2021-12-07T18:10:00Z
+    webUrl: "https://www.linkedin.com/news/story/intels-self-driving-unit-to-get-ipo-4598769/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQGaQSUzonLJdw/storylineheaderimage-shrink_400_400/0/1638900630048?e=1638993600&v=beta&t=ATEYMYGhpkl8NPyLKNYOZK3jg1HXGVq5YjSo2icnmpk"
+        width: 400
+        height: 264
+        isCached: true
   - title: "Intel to take its self-driving car subsidiary 'Mobileye' public next yr"
     excerpt: "Chip maker Intel has announced its intention to take its self-driving car business Mobileye public in the US next year via an initial public offering (IPO). Intel will remain the majority owner of Mobileye,"
     publishedDateTime: 2021-12-07T12:56:00Z

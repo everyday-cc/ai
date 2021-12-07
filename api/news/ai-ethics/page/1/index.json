@@ -45,6 +45,51 @@
       ]
     },
     {
+      "path": "_news/2021-12-06-artificial-intelligence-in-financial-sector-will-boost-security-of-companies.md",
+      "title": "Artificial Intelligence in financial sector will boost security of companies",
+      "excerpt": "Dr Pius Gadossey, Lecturer, Lancaster University says the use of Artificial Intelligence (AI) in the financial space will boost the",
+      "sourceUrl": null,
+      "webUrl": "https://businessghana.com/site/news/business/252029/Artificial-Intelligence-in-financial-sector-will-boost-security-of-companies",
+      "originalUrl": "https://businessghana.com/site/news/business/252029/Artificial-Intelligence-in-financial-sector-will-boost-security-of-companies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://businessghana.com/site/img/../../cms/img/news/2021-12-06-1228531.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BusinessGhana",
+        "domain": "businessghana.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-for-truly-ethical-ai-its-research-must-be-independent-from-big-tech.md",
       "title": "For truly ethical AI, its research must be independent from big tech",
       "excerpt": "We must curb the power of Silicon Valley and protect those who speak up about the harms of AI",
@@ -53,7 +98,7 @@
       "originalUrl": "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1376,58 +1421,6 @@
         "name": "Popular Science",
         "domain": "popsci.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies.md",
-      "title": "AI Weekly: Defense Department proposes new guidelines for developing AI technologies",
-      "excerpt": "The U.S. Defense Department's Defense Innovation Unit has proposed new ethics guidelines for private contractors developing AI systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/19/ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies/",
-      "originalUrl": "https://venturebeat.com/2021/11/19/ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-160989986.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/19/ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/19/ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies/amp/",
-      "publishedDateTime": "2021-11-19T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

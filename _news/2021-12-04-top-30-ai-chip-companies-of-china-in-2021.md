@@ -29,49 +29,33 @@ images:
     isCached: true
 
 related:
-  - title: "Emerging AI Companies Are Driving A Paradigm Shift in ML"
-    excerpt: "Leadership from Cruise and Facebook AI discuss the emergence of AI native companies and the paradigm shift being driven by advances in ML and robotics. Just as web transformed business, then the emergence of mobile and cloud,"
-    publishedDateTime: 2021-12-03T02:54:00Z
-    webUrl: "https://techcrunch.com/video/emerging-ai-companies-are-driving-a-paradigm-shift-in-ml/"
+  - title: "Artificial Intelligence in financial sector will boost security of companies"
+    excerpt: "Dr Pius Gadossey, Lecturer, Lancaster University says the use of Artificial Intelligence (AI) in the financial space will boost the"
+    publishedDateTime: 2021-12-06T13:04:00Z
+    webUrl: "https://businessghana.com/site/news/business/252029/Artificial-Intelligence-in-financial-sector-will-boost-security-of-companies"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 55
     images:
-      - url: "https://img.vidible.tv/prod/2021-12/01/61a7d5b4d0cfc04f658ab6fd/61a7d658b3835047bf8f1227_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
+      - url: "https://businessghana.com/site/img/../../cms/img/news/2021-12-06-1228531.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "How AI, ML and Motion Planning Testing Are Advancing New Mobility"
-    excerpt: "Leading MIT and CMU professors will share how AI and ML are creating new breakthroughs in autonomous transportation. Attendees will learn the latest research and testing in motion planning behaviors that will enable autonomous mobility companies to safely and efficiently deploy autonomous vehicles"
-    publishedDateTime: 2021-12-03T02:54:00Z
-    webUrl: "https://techcrunch.com/video/how-ai-ml-and-motion-planning-testing-are-advancing-new-mobility/"
+  - title: "The Urgency of the Moment for Congress on AI and National Security"
+    excerpt: "ODNI's Corin Stone writes in the last of her series on the adaptation of Artificial Intelligence by the IC that Congress has a role to play"
+    publishedDateTime: 2021-12-07T14:54:00Z
+    webUrl: "https://www.thecipherbrief.com/the-urgency-of-the-moment-for-congress-on-ai-and-national-security"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
+      name: The Cipher Brief
+      domain: thecipherbrief.com
+    quality: 54
     images:
-      - url: "https://img.vidible.tv/prod/2021-12/01/61a7d99b830dda0e7d106e36/61a7da2a5ff8e42f8c0ee97c_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "How market-leading retail brands are using AI"
-    excerpt: "Your friend posts a photo of their totally on-trend new shoes. You know you need a pair—but discover they come with a £500 price tag.  What do you do?"
-    publishedDateTime: 2021-12-07T16:14:00Z
-    webUrl: "https://techhq.com/2021/12/how-market-leading-retail-brands-are-using-ai/"
-    ampWebUrl: "https://techhq.com/amp/2021/12/how-market-leading-retail-brands-are-using-ai/"
-    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/how-market-leading-retail-brands-are-using-ai/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 57
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/12/CUSTOM-GettyImages-1329747480-375x210.jpg"
-        width: 375
-        height: 210
+      - url: "https://www.thecipherbrief.com/wp-content/uploads/2021/12/IMAGE-Capitol.jpg"
+        width: 683
+        height: 512
         isCached: true
 
 secured: "bE8axMxL5wjgwq1IKe4ek66+fnkjtjEHiKJBPImK4P9OmgPg+MIHjacY7tL5W0GhrwPjF0Lkloa9yeQu189rfTsIWCcAH1w/l4+3DMR0B9YyFa3Gd8o2gy9cwx5Gwrj0quJSkBOBEiljHAKp5ThU0/qLcvdGez0aJFicWQyhV0nKOl75k/x/Hsjz47OcpK9QVqbjLpwZaAUzTG40A6cO1yC4EWNyV5IvWheZ7iemxX007btrq+Y9PH7oISpl5yvaCbPNthDigrcIh3Gs5mGVulIqRWZkNoF/buFRlDFJ36gvxa1Pd+9+B/leIYiolBrR9RPKLa1gQW/zp/WlC0160M7uqcEO9HW6hI5lpuT+Fcs=;RSwGH1NQkAvjafhY5fZlKw=="

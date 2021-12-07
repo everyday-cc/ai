@@ -63,7 +63,7 @@ related:
     provider:
       name: Harvard Medical School
       domain: harvard.edu
-    quality: 39
+    quality: 41
     images:
       - url: "https://hms.harvard.edu/sites/default/files/teaser-images/750-AI_1200.jpg"
         width: 750

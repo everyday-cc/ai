@@ -1,0 +1,33 @@
+---
+category: news
+title: "Cloud Computing, Neuroimaging, AI, and the Urgent Need to Address the Global Dementia Crisis"
+excerpt: "With COVID surging and retreating across different regions of the globe, it may be a while before we can assess the full measure of what the pandemic has to teach us about health at both the individual and community level."
+publishedDateTime: 2021-12-07T15:55:00Z
+originalUrl: "https://www.linkedin.com/pulse/cloud-computing-neuroimaging-ai-urgent-need-address-moore-md-phd"
+webUrl: "https://www.linkedin.com/pulse/cloud-computing-neuroimaging-ai-urgent-need-address-moore-md-phd"
+type: article
+quality: 28
+heat: 28
+published: false
+
+provider:
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://media-exp1.licdn.com/dms/image/C4E12AQF_nacf-IcMgw/article-cover_image-shrink_720_1280/0/1638828817349?e=1644451200&v=beta&t=yd7rHCjSnG7Ufb2SG-xUw4x0X8Q_gEpTXXBqPzlMb7Y"
+    width: 1280
+    height: 648
+    isCached: true
+
+secured: "b3VrsjDhzwEZeGSOdH1e5qfy6xhjQhIE/qmQsBTSovbdwEdiU5BRwxzEqQ+ddO0fN3Y22zZeGQ0TrT0+RHmdV40yhMWWq1CaHEwmnXeJoCaVFlFQeEknApyWzOFRLChCAxF1FMvrSgDlAnV4mCKwm6+jXbtvgkECzOZcyaMIscMtt6lGXQZGThiigHHBhzmIcK3Vt43SUZBrvRkBuP1ayz7ZOB2O7uN/CVPdh7Wx2Y8YqluaxHZlFPgM2QCukwDQEH/KQMIv/eqQLxpCTozKT83bHJnEcHbawBZuhQlELUTXQaEpdBbQoy2Zlwz9ztLVy2djnhMVtvqv82CmsIJbOS6gXEX2ZcyBwpspDRPiGD4=;gqAqmy5WgEylCMA6lLms8Q=="
+---
+

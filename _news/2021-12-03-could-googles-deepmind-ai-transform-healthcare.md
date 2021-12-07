@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-a
 webUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/"
 type: article
 quality: 101
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Healthcare AI Depends on Data"
-    excerpt: "Artificial intelligence is transforming healthcare across clinical use-cases like radiology and robotic surgery, as well as many other operational applications. Access to high quality data is one of the key components driving technological innovation in healthcare."
-    publishedDateTime: 2021-12-03T02:54:00Z
-    webUrl: "https://techcrunch.com/video/the-future-of-healthcare-ai-depends-on-data/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://img.vidible.tv/prod/2021-12/01/61a7da70830dda0e7d107090/61a7dcf7e162092f936a9abd_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Could Google's DeepMind AI Transform Healthcare?"
     excerpt: "There's now key progress in one of those areas: Google's DeepMind artificial intelligence (AI) software is being used to predict the structure of proteins. In this Motley Fool Live video recorded ..."
     publishedDateTime: 2021-12-04T02:30:00Z

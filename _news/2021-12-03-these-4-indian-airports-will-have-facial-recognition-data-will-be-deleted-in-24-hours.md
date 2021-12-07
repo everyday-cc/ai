@@ -9,8 +9,8 @@ ampWebUrl: "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-wil
 cdnAmpWebUrl: "https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/amp/"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Trak.in - India Business Blog
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Govt names 4 airports where it plans to launch facial recognition-based boarding system"
-    excerpt: "Minister of State in the Ministry of Civil Aviation General VK Singh has said that Airports Authority of India is working on Facial Recognition Technology-based Biometric Boarding System, which is expected to be launched in March 2022."
-    publishedDateTime: 2021-12-03T01:30:00Z
-    webUrl: "https://inshorts.com/en/news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 66
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/2_thu/img_1638463653442_403.jpg?"
-        width: 494
-        height: 301
-        isCached: true
   - title: "The Hindu Explains | Facial recognition tech in Indian airports"
     excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
     publishedDateTime: 2021-12-07T14:08:00Z

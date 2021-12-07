@@ -2,6 +2,151 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2021-09-22-how-are-you-planning-to-take-your-ai-experiment-to-production.md",
+      "title": "How Are You Planning To Take Your AI Experiment To Production?",
+      "excerpt": "We hear a lot of buzz about enterprises deploying AI aggressively. However, a 2020 NewVantage Partners survey (via Forbes) found that only 14.6% out of 70 leading enterprises were seen deploying AI capabilities into widespread production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/how-are-you-planning-to-take-your-ai-experiment-to-production/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/how-are-you-planning-to-take-your-ai-experiment-to-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d34ea2e22fb5d923a8b3e1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/22/how-are-you-planning-to-take-your-ai-experiment-to-production/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/22/how-are-you-planning-to-take-your-ai-experiment-to-production/amp/",
+      "publishedDateTime": "2021-09-22T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-maicon-2021-marketer-machine-what-assessing-the-impact-of-ai-on-marketing.md",
+      "title": "MAICON 2021 - marketer + machine = what? Assessing the impact of AI on marketing",
+      "excerpt": "The presence of AI across our lives is tangible now - but what is the specific impact on marketing? That's the core topic at The Marketing AI Institute's MAICON event.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing",
+      "originalUrl": "https://diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-08/woman-and-algorithm.jpg",
+          "width": 1277,
+          "height": 847,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/maicon-2021-marketer-machine-what-assessing-impact-ai-marketing?amp",
+      "publishedDateTime": "2021-09-22T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-09-22-osano-a-risk-and-compliance-startup-raises-11m.md",
+      "title": "Osano, a risk and compliance startup, raises $11M",
+      "excerpt": "Osano, a risk and compliance startup, has confirmed it has raised $11 million in new funding. The round was led by Jump Capital and with participation from existing investors LiveOak Venture Partners and Next Coast Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/",
+      "originalUrl": "https://techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-488979113.jpg?w=1024",
+          "width": 1024,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/09/22/osano-a-risk-and-compliance-startup-raises-11m/amp/",
+      "publishedDateTime": "2021-09-22T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-22-flyr-labs-maker-of-airline-software-raises-150-mln.md",
       "title": "FLYR Labs, maker of airline software, raises $150 mln",
       "excerpt": "FLYR Labs, maker of software that uses artificial intelligence to help airlines price and plan flights, said on Wednesday it raised $150 million in equity financing. Sept 22 (Reuters) - FLYR Labs, maker of software that uses artificial intelligence to help airlines price and plan flights,",
@@ -1038,126 +1183,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company.md",
-      "title": "Facebook CTO Mike Schroepfer to Step Down in 2022 After 13 Years With Company",
-      "excerpt": "Schroepfer had been leading Facebook’s artificial intelligence efforts and other ... to the Wall Street Journal revealing that it had research confirming the harmful effects of its services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewrap.com/facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company/",
-      "originalUrl": "https://www.thewrap.com/facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thewrap.com/wp-content/uploads/2021/09/Mike-Schroepfer-facebook.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thewrap.com/facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company/amp/",
-      "cdnAmpWebUrl": "https://www-thewrap-com.cdn.ampproject.org/c/s/www.thewrap.com/facebook-cto-mike-schroepfer-to-step-down-in-2022-after-13-years-with-company/amp/",
-      "publishedDateTime": "2021-09-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheWrap",
-        "domain": "thewrap.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-iphones-may-detect-depression.md",
-      "title": "iPhones may detect depression",
-      "excerpt": "Apple is reportedly working on technology to help diagnose depression and cognitive decline ... fell despite heavy use of telco and internet services during the Covid pandemic, it wasn't all ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/business/technology/iphone-may-detect-cognitive-decline/live-coverage/6a7c968c8a0c6dec1ef6f4fe1c90822f",
-      "originalUrl": "https://www.theaustralian.com.au/business/technology/iphone-may-detect-cognitive-decline/live-coverage/6a7c968c8a0c6dec1ef6f4fe1c90822f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-robots-are-displacing-manual-labor-jobs.md",
-      "title": "Robots Are Displacing Manual Labor Jobs",
-      "excerpt": "While the panelists agreed that robots will replace may of the jobs that Leavitt referred to as “mind-numbing repetitive manual labor ... Rob Spiegel has covered automation and control for 17 years, 15 of them for Design News. Other topics he has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/robots-are-displacing-manual-labor-jobs",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/robots-are-displacing-manual-labor-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/download_3.jpg?itok=8H3bGPP8",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

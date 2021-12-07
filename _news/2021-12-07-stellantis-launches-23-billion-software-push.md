@@ -41,6 +41,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Stellantis Bets on Artificial Intelligence, Wants To Beat Tesla at Its Own Game"
+    excerpt: "Stellantis bets on artificial intelligence and expects software revenue to reach $23 billion a year by 2030 through services and subscriptions."
+    publishedDateTime: 2021-12-07T16:27:00Z
+    webUrl: "https://www.autoevolution.com/news/stellantis-bets-on-artificial-intelligence-wants-to-beat-tesla-at-its-own-game-175951.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 50
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/stellantis-bets-on-artificial-intelligence-wants-to-beat-tesla-on-it-own-game-175951_1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Stellantis wants to outfit cars with AI to drive up revenue"
     excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
     publishedDateTime: 2021-12-07T13:45:00Z

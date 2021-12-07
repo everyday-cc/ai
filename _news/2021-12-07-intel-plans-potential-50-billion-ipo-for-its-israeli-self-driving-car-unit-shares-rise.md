@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/"
 type: article
 quality: 65
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -165,6 +165,20 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Intel's self-driving unit to get IPO"
+    excerpt: "Mobileye, which has been growing faster than its parent, makes chips and software that work with sensors to let vehicles handle more driving functions."
+    publishedDateTime: 2021-12-07T18:10:00Z
+    webUrl: "https://www.linkedin.com/news/story/intels-self-driving-unit-to-get-ipo-4598769/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQGaQSUzonLJdw/storylineheaderimage-shrink_400_400/0/1638900630048?e=1638993600&v=beta&t=ATEYMYGhpkl8NPyLKNYOZK3jg1HXGVq5YjSo2icnmpk"
+        width: 400
+        height: 264
+        isCached: true
   - title: "Intel to take its self-driving car subsidiary 'Mobileye' public next yr"
     excerpt: "Chip maker Intel has announced its intention to take its self-driving car business Mobileye public in the US next year via an initial public offering (IPO). Intel will remain the majority owner of Mobileye,"
     publishedDateTime: 2021-12-07T12:56:00Z
@@ -175,6 +189,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "49zwbwCtd+8sfHW9PHHtqKDrU5UwXgqQo31HXhVggVaJIPs2g/C25+5KScLVgTNDNHqhZk+2JJzA3U4MUpxwj5kGIctXcjt+5bp5bUwxth0JvYPMCBawp58v3Fd0QJTRng11Ke40K0g0p+oNd5KJsbeqkHkBpWcEFbows1WtTn91xLapltdMoqVFhallN3RutN+veB+2nkZv26GkLf/seP740P9sqR+7Awj6oKdMFa87gDq48ojLa4Io8DhZpphwuWEYrLUjwojWTEfyiwMjsy1gX63XT2ZxlTjqy4GBmo8wberRIX1dM1lSBZICi8ySF4yY7a2Q+T+yKd0bgLPNpLj/QKIvDoQQEzkNiKZX7+I=;ftikm0RxFWRhMH14PNAHYg=="
+secured: "vULVVXXnWSs5lGzBKsYeXYxzyZ2zqLAIL+c06DeItKyGypy1TL5J80ouL2jVMpuouQgVnpZ3967fHq28B0JK13bKrmuwFlAxExwyGhefssS80r7QBc6qV6aVz1OU3U/wLSNW/CdDOmNKn+OUMSO/117AbDKrwr5XHi09U1Ak3UfTcg+a7WPCqXat2P+uHVnmJiUUWXemgf6Bl2Se7iohVSWmt16IHYXsyon2qPMSBjndnreOOAOm7F5vXhsW89WXvQZ0fmRvrinsk/qFAfLopT+xtkNW5X8dU6bedU5JFux362LKECLKmu5kLOEjF89FsgXgBmEPU0XY0pKjkE0ZgCoqGt0wdjJqA+mJGL5uk068/dIOHvPKla4yjt19R4tg9obYegmT1jO6lnk/1gW6qprLiqtlTNjfmt3GUUF4eCROzWxqTCy+QwN8FgIaqagBkULPJyPpY1vll2nlPyYwGCe1D5i93Cx0X5WP6PBmA9iRCSZDV2MVGBlz/NL2Bv4wnPaxFYfjNYbM59q8IrGzew==;egQdu3R3Bnq9eQDh1BhMAA=="
 ---
 

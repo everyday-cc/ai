@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Agricultural AI on the upswing"
+    excerpt: "Wall Street Journal, explaining rising interest in AI technology. “To do so farmers need to monitor a constant stream of data on plants, soil and atmospheric conditions.” There is also a labor and monetary factor."
+    publishedDateTime: 2021-12-07T18:11:00Z
+    webUrl: "https://theproducenews.com/technology/agricultural-ai-upswing"
+    type: article
+    provider:
+      name: The Produce News
+      domain: theproducenews.com
+    quality: 39
+    images:
+      - url: "https://theproducenews.com/sites/default/files/styles/fp_slider/public/2021-12/raleys.jpg?h=3ca652f7&itok=SQaNC2UZ"
+        width: 635
+        height: 355
+        isCached: true
 
 secured: "5TZIljp8xpSM0XXX3u/um+yuua62MLQlrJQMx59wecAo2rd6FTAyIaacx9fkB04z8cdjRiWNsfjsZFG8Ejy2EGpDZxk8rwihTSt3NxEhM2lOtw3WhPrvgvrXhr3oycNCJKCzPiJdN68GM0KOvXXo2J+zP48aTo5aaCFGo5k7SoxHKYQTjAB0CxZC2Ksbvanw9nKHLB+fEo2Aworyf2y8nGxxwcLNjQcNksKpWh7A09kYegipv6eRK2gVv1yw0UAgfqNNDIf+U5Q379TtF2jCzbm9tueQOfsyX6LI0mqhM4tleafBZHixF5ga+nvA5nGPka9Rbmfp4AHUdE714FilASxMZNOfPNMQHL3oJ3T2I2E=;4z3e7kz86BiXC2okrsA4Jw=="
 ---

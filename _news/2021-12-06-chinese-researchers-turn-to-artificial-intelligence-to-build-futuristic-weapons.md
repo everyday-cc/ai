@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/china/science/article/3158522/chinese-rese
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3158522/chinese-researchers-turn-artificial-intelligence-build"
 type: article
 quality: 83
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Google’s real challengers could be independent AI researchers"
+    excerpt: "Many say we need independent research on AI. Good news on that came from Timnit Gebru, a former ethical AI researcher at Alphabet Inc’s Google. She had been fired a year ago following a dispute over a paper critical of large AI models,"
+    publishedDateTime: 2021-12-07T17:02:00Z
+    webUrl: "https://www.livemint.com/opinion/googles-real-challengers-could-be-independent-ai-researchers-11638896252429.html"
+    ampWebUrl: "https://www.livemint.com/opinion/googles-real-challengers-could-be-independent-ai-researchers/amp-11638896252429.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/googles-real-challengers-could-be-independent-ai-researchers/amp-11638896252429.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/12/07/600x338/Google_1638896315418_1638896328893.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "iNdc+wIaXHVFBts4dl85asvhEfwMctboHkzK/0YNeDPi0mbravYyAoOlFlHkYDr6NvZqud5JBhLAv2gkgv1R7mKYeZH3V3s8id5xF+NnJLjoi0Daqa/7a7gDsskPkRDIVfwWI6aJ2djE/sOHMFwHPPh4PLo80Sww4FwY87tqY3wx1hKvMmnKP0FtzNxqyyYZbAUGP9Yu4I+bVraMGxBRjF3JmB+4vGLm6E4UXzTg1hJRT7po5mpLJqdmIRWdP6z36kNG/svFJZRozKlNGZXGNvKElachDpZJH27wwycKFjHFzHXixBqm/SlQwLRXJBPu+3UFAIi93K9+NWSlqZe7lBHI90KXX0SFpuODVhoacps=;nXW11G829/UyUlFVJk9N1w=="
 ---

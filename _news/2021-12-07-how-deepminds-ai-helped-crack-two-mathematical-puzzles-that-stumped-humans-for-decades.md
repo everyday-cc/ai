@@ -41,20 +41,6 @@ related:
         width: 4000
         height: 2250
         isCached: true
-  - title: "The Future of Healthcare AI Depends on Data"
-    excerpt: "Artificial intelligence is transforming healthcare across clinical use-cases like radiology and robotic surgery, as well as many other operational applications. Access to high quality data is one of the key components driving technological innovation in healthcare."
-    publishedDateTime: 2021-12-03T02:54:00Z
-    webUrl: "https://techcrunch.com/video/the-future-of-healthcare-ai-depends-on-data/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 84
-    images:
-      - url: "https://img.vidible.tv/prod/2021-12/01/61a7da70830dda0e7d107090/61a7dcf7e162092f936a9abd_o_U_v1.jpg?w=640&h=360"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Could Google's DeepMind AI Transform Healthcare?"
     excerpt: "There's now key progress in one of those areas: Google's DeepMind artificial intelligence (AI) software is being used to predict the structure of proteins. In this Motley Fool Live video recorded ..."
     publishedDateTime: 2021-12-04T02:30:00Z
@@ -79,6 +65,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "sueVFNnMJLrZ5HVX0JhpfZfPFaqZwX7XX7yv3l8ebfQImP00nzMtnXSTM/w5+dr7J0P+HHsz0LguV94d7VgJYnvRIgTecABaQKupoVB4F6eghwfPNgmhV/l5ebFeDnPFjvlaVf3i1QjVJYX8LozDAcnZEPfePEphAV+HV3yxugB3rIhr8Z+DwBdj+4HocxC0KygTQrbI/HGLFvyjjRJSaDnMPIjms5a9wPxjtFxPrA1VEWmL72Nej78RwX7dNzkkNmukbddTcqVMrVZZTSP7u+Q3mfFO0XafoGMj8n2uBn02CSCE9dgiK5KVTbvp1AETveSQGZYWXM38JhUXRHvTNuzqziEgCyk417MvdKHnnr4=;SBcWgOSxntyAEqSYOyvfwQ=="
+secured: "UhnNUY/YHPimkRmqJmHcTWmFPBn2C51ypxBb2h5jmhLtWj6cvfG2pWsMEDddU3INaQ9+g89MckoinqrUvJFuV5p19Cy8tUyQi2I4yyjBzPz6dwPenkRu9B7R3TOX/YAKXVaj3g34O9DMR3mx3l44M6YIy114eNeLEP03rvR9QUmUUfxrdWJW8kI6xsHUIMS5SsZdkPy0/0zp5v1tKW2iBvwbJIyB1a5dkHV9Vxt0mmaBekjEc8So18oyg6ftfVjy+c1UXHOBCVJXnzPh8YGbI6BIuyNRdLZYdF8Akcz1BSCqP7c0O9RQBY6+2bccSGrvG91wJ3n5RxUzg/HbB4AmgJM1bB/ETA0z6D1bww8ZvXiG4Ez1WtUTF5AhQb2mWyNeE5ybVJZYhU4/na2cc8qaiOxVP5vrBz99w7ndPi77J7/KRJ6z7cgf4YAcv8f3D+74hMYK7Ufh522AScI4XoRwfEzVJ8ceY9tUaRHn1GbGFqfVGc4y/lFBI7MNlQUCbC7YfyWW7oI0dVEdJKqxypTvvw==;NuvGIfrnKbh//wP9XqO46A=="
 ---
 

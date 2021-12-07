@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybers
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 800
     height: 532
     isCached: true
+
+related:
+  - title: "Insecurity: Reps task FG on adopting Artificial Intelligence"
+    excerpt: "The House of Representatives, on Tuesday, tasked FG to liaise with the Robotics and Artificial Intelligence Nigeria (RAIN) as part of ongoing"
+    publishedDateTime: 2021-12-07T16:17:00Z
+    webUrl: "https://tribuneonlineng.com/insecurity-reps-task-fg-on-adopting-artificial-intelligence/"
+    type: article
+    provider:
+      name: Nigerian Tribune
+      domain: tribuneonlineng.com
+    quality: 39
+    images:
+      - url: "https://tribuneonlineng.com/wp-content/uploads/2021/06/REPS.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "ia7sxmraD6lv+1KY0NyeY3sSB6WCKty7knKKtRu7QI9FNlHk/wmGbo50LKYHy0+avYJIQ0Tmh2bNf1kGyhoctL89lsPvdNcOklXNDl94EXZJ1o51KEx2MwzfFSwQQm67pF5nVKpZw+S+TXpdAz8cpb8A77Jzhyv1MZQrsymx1uXgCTWYsQFNkt5IG8DoLVgJjIml4oJEVS7h73/Cbc0duuIVoRxhvFgpEKGQqQn7WhB1qdKq7xoRKPucQ1iF3G8LSJMZZ+0DauKX/LObu8vdFk48D/eEftrCApJ8qvEqi+oPma22hcvKUdYyj2I3Tit004D53X04TXh3STof74pbo1fet/PFZDvOjLBen7ZPGJ8=;GURanb8gz8ZvMtqYPFkpsg=="
 ---
