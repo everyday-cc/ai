@@ -1,22 +1,28 @@
 ---
 category: news
 title: "CVS Health and Microsoft Announce New Strategic Alliance to Reimagine Personalized Care and Accelerate Digital Transformation"
-excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions to help consumers improve their health, while empowering over 300,"
-publishedDateTime: 2021-12-02T14:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cvs-health-microsoft-announce-new-strategic-alliance-reimagine-/2021/12/02/9503702.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cvs-health-microsoft-announce-new-strategic-alliance-reimagine-/2021/12/02/9503702.htm"
+excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions"
+publishedDateTime: 2021-12-02T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cvs-health-and-microsoft-announce-new-strategic-alliance-to-reimagine-personalized-care-and-accelerate-digital-transformation-301436224.html"
+webUrl: "https://www.prnewswire.com/news-releases/cvs-health-and-microsoft-announce-new-strategic-alliance-to-reimagine-personalized-care-and-accelerate-digital-transformation-301436224.html"
 type: article
-quality: 0
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1701214/Microsoft.jpg?p=facebook"
+    width: 798
+    height: 419
+    isCached: true
 
 related:
   - title: "Microsoft (MSFT) to Support CVS Health's Digital Transformation"
@@ -44,6 +50,20 @@ related:
         width: 770
         height: 363
         isCached: true
+  - title: "CVS inks tech partnership with Microsoft to accelerate its 'digital-first' strategy"
+    excerpt: "Microsoft's capabilities and the Azure cloud ... CVS Health currently leverages Azure cognitive services like computer vision and text analytics for health that automate tasks."
+    publishedDateTime: 2021-12-02T14:58:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/cvs-inks-tech-partnership-microsoft-to-accelerate-its-digital-first-strategy"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 33
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1638444331/CVS.jpg?VersionId=7Nn3hJwp0yGxHaLXo_qLo0kfaXsRacqQ"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "CVS Health and Microsoft Announce New Strategic Alliance to Reimagine Personalized Care and Accelerate Digital Transformation"
     excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions to help consumers improve their health, while empowering over 300,"
     publishedDateTime: 2021-12-02T18:01:00Z
@@ -54,6 +74,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "85dITn0wKHrNO5RYpO6e2vkfkExXXXuTrjEWo3bKwQlCxvSK0FIkE8cuXr53Ej3BRlQWHIRTagNhygyswxuKueaO9de/JRi9M+2P6Y4R6Ibl/aFtphWPykhuPo0ykHzqWMYdUOGLsK6JGinAkbC7uVp3mvyOpopnxw8OZ1Av277RMkYrKvM/9opwHplfkOCRyPPGprp0w/+9KXbixNHgUqae8iMkIBRXBwALMp15A02Dt03xWqVxsq+NDJL5pT3FZG8FJf75F6srXjfF+8uKcFkbK5BwXyVhCW/T/omR6fo9GD0shSD4xPOLS9/vACWlMVRJnThYRqENqe8iflA7rpOBnPmnhadMLQihHnQpUOM=;OOTAv43QztHmUx/053OzDg=="
+secured: "hpdb04LaqCfAnhABTy8Sw/dYC3641ojBz03s0r4pplTL42MljmQZ8IqNFW3ral1ruCaJUdjFeSq2gICiTExxhjpZ0quhLm0Pi9B7pPo0gvkecfxEq5OQQC5IK42PISwcX2tMzjFFpw5BiwY2bSXOSrMX/IVAUtcI+zhBMJjLbXgvZCmPbnzOPB1aHGt1+tIqPZ4N0PwTrIUon9VhdUQOrS8bK1XhxF2wv6JuoFM4BczKc6iM9zVg/4SADxEBRNXd/as3MCgL2tDtuERQiqdNP5T5zJD3OB82soO/ajUGq1Ob96UfdjEPyXCB0BdWft6Xp0v/G8nKFclMriESCXzjjqlh4L+XcZ7R3HozbWeAt4c=;j/kDy2IAOG8KoQU7ZdR3fA=="
 ---
 

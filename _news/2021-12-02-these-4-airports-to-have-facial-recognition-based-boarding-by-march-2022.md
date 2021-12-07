@@ -59,20 +59,6 @@ related:
         width: 760
         height: 443
         isCached: true
-  - title: "Legislators hear testimony on facial recognition bills"
-    excerpt: "In line with its “Press Pause on Face Surveillance” campaign, the ACLU of Massachusetts gave testimony at a hearing Nov. 23 for the state Joint Committee on the Judiciary in support of bills moving through the Massachusetts legislature that would limit use of facial recognition technology."
-    publishedDateTime: 2021-12-02T11:00:00Z
-    webUrl: "https://www.baystatebanner.com/2021/12/02/legislators-hear-testimony-on-facial-recognition-bills/"
-    type: article
-    provider:
-      name: The Bay State Banner
-      domain: baystatebanner.com
-    quality: 39
-    images:
-      - url: "https://www.baystatebanner.com/wp-content/uploads/2021/12/Surveillance-2.jpg"
-        width: 1680
-        height: 1928
-        isCached: true
   - title: "NEC to introduce facial recognition vaccination check system"
     excerpt: "Japan's NEC Corp. will start the full-scale introduction of a vaccination certification system for COVID-19 based on facial recogniti"
     publishedDateTime: 2021-12-03T10:20:00Z

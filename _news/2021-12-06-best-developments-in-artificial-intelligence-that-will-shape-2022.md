@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-06T05:11:00Z
 originalUrl: "https://www.linkedin.com/pulse/best-developments-artificial-intelligence-shape-2022-daniel-abbott"
 webUrl: "https://www.linkedin.com/pulse/best-developments-artificial-intelligence-shape-2022-daniel-abbott"
 type: article
-quality: 39
-heat: 39
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -21,6 +21,8 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/amp/"
 type: article
 quality: 93
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -31,19 +31,6 @@ images:
     width: 1048
     height: 590
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Predicts Synergistic Drugs"
-    excerpt: "New study revealed the potential of using AI and machine learning to identify effective drug combinations in therapies for cancers."
-    publishedDateTime: 2021-12-02T09:13:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-predicts-synergistic-drugs-204554-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 39
 
 secured: "lyYd4i/4cYJ6b49a6rH1jbj8JWX7MkfQCFo+PCLSQbcd5JmZ/roDojpi3uBO0maCCOK/caOw/AQBH4pye7LtIn7x7XsprHJPpFm+5L0XnHYhnbnUfMTurtSNQ+WZVvueNfbMs4UpbygbUmg8B38tyqyRfwrF+7ToZEEZX0EvS+HfYpOqqvoid9Jt/ZKWaM+2aV+v/7prKKxJ9Ob+obOnCeUXCKoN69TmGPv63wPpS2+aj8pBeQxt6c4GQn/uXUv9IzYnoRq7DmVxNkevTZ6+5vU/jj9h3zL/rQLjTQkJEZYpGGUnnNMGWD0bc6OvfnmMpP6a27OJByDv/ePknpyYKey2gYsNvhNLoHDOJJ8xhVEmzf5qo73LFcyakKrPk6Akn9nydjlA/TluSZ05RAOcdatzw6vrfdauJaRtqHhgAHmnGBJBuK94Rvb9LutQBACzlo4NWfVzGadUEITYZ9TeufQf30fI8G/r3Q0ogFc3UdxjqSFIDeVApALlWsT1r7IWyZagvvb7pt9Gcz5yQS2Dyg==;GYQXvkr6Jx4mb97kTMtvWw=="
 ---

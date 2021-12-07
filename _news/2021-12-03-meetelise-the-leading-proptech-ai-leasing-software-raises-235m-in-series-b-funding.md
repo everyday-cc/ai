@@ -40,20 +40,6 @@ related:
         width: 360
         height: 360
         isCached: true
-  - title: "Pow! Bam! Biff! Special effects studio Monsters Aliens Robots Zombies raises $6.5 million"
-    excerpt: "Special effects studio-turned AI startup Monsters Aliens Robots Zombies just raised $6.5 million CAD in Series A funding."
-    publishedDateTime: 2021-12-02T10:59:00Z
-    webUrl: "https://betakit.com/pow-bam-biff-special-effects-studio-monsters-aliens-robots-zombies-raises-6-5-million/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 45
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2021/12/Still8_Episode103_CourtesyMARZandMARVEL.jpg"
-        width: 1050
-        height: 683
-        isCached: true
 
 secured: "RlWiGhnSURqkFQuUQnrZj30+wgDlh3Ag4PWSizxZv/FIot0tlaqehcRueMh6BrZi8u9pfCWaSgNoEJpG2QeDkVH1UBC5O9L4ghY0fuKl0MjdsksDeFjr8Zc+z4vYXYhaZ4HSsj40nD2QlRRjijbz1BBgIYmmJprefzLvnr5CY1bjwS3LoLqx5OgBofFA5z3Iy/gZo7qFS4HUGy46h8b4JqcuKPy6wcwnokksVeFYhdEUJuvxtsCZSo68I12xiqcSnDMyDYYirmYZck7L/2OPXjLBzJzBXuRFo6MY7exbkUFig/1XY2MzJ2b3ROKA/oBmlGHspeKKXcTioQ2xuwWS8l8pBibwSujm3iFv5OYSlP8=;mIurFGRngWfmsZxkCg7sqQ=="
 ---

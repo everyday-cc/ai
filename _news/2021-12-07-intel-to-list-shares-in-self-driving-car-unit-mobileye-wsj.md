@@ -25,8 +25,8 @@ topics:
 related:
   - title: "Intel to list shares of its Mobileye self-driving-car unit"
     excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
-    publishedDateTime: 2021-12-06T23:33:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=mw_latestnews"
+    publishedDateTime: 2021-12-07T00:33:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos26"
     type: article
     provider:
       name: MarketWatch
@@ -37,6 +37,31 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel will sell stake in Mobileye self-driving car technology, which could raise billions"
+    excerpt: "Intel said it will retain a majority stake in Mobileye, an Israeli company Intel acquired for $15.3 billion in 2017. Self-driving cars have emerged much more slowly than Intel and other technology companies expected but Mobileye’s technology remains very highly regarded – The Wall Street Journal wrote Monday that the business could be valued at more than $50 billion."
+    publishedDateTime: 2021-12-07T02:14:00Z
+    webUrl: "https://www.oregonlive.com/silicon-forest/2021/12/intel-will-sell-stake-in-mobileye-self-driving-car-technology-which-could-raise-billions.html"
+    ampWebUrl: "https://www.oregonlive.com/silicon-forest/2021/12/intel-will-sell-stake-in-mobileye-self-driving-car-technology-which-could-raise-billions.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/silicon-forest/2021/12/intel-will-sell-stake-in-mobileye-self-driving-car-technology-which-could-raise-billions.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 50
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PGOAD7DWAZG43CDD7Q4XN5GRMU.jpg"
+        width: 4240
+        height: 2384
+        isCached: true
+  - title: "The Wall Street Journal: Intel to list shares of its Mobileye self-driving-car unit"
+    excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said. Read"
+    publishedDateTime: 2021-12-07T01:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-wall-street-journal--intel-to-list-shares-of-its-mobileye-self-driving-car-unit-10817720"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "srBGgIenkoR99abSBUuKcgwyRkqgI6ve2a3kjpJDa7tAJvvdq3ZMNXqgrW8E3TnafL0fj2qml5ePMGfI1tUuH/Pe0Z6TeXi+w4UFN5fNGo+LaCUwQe4zAX6QqOq6IwfiDkXZSyJf1St+1e+H/xVlEnsO70AwfZ5f2d1VgeElweVAF2FCXSNpJ9HbeV6cB42prYBqK053SX5jbjWfLyL1bVxRxamP+Ubg1FqSEnM6S4W/Z6FHE/QStT2jWAWgHDq7qOu5vkB/ZMraYwrb5sieXmlcs7Zp6jCs2zpWFqe/K7KuQ6x5j/vBjBMrla8Ev1p8REpDukKkO5x4F1JHqr4Uhp0Bz57Gx+oXZsx3cJfFbqSQTq+tY7BjKazsbnVH5VXmJWeNKFL7FoZQopmqC8pZoNYwXvjC2gm3wgQUpz11y1PjSVAvvu0Zl4Ukji18kW+EIbUT/RAkBFAzykGhQKxaGfpCMR4lLTLqVEBCLmC3zETHkx+hIXE3uSkBDrWRC2wVChkQJsQjTPxpWJ6N956cYg==;at9JIBkmBpaT1uJWQ43BXg=="
 ---

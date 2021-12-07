@@ -44,15 +44,34 @@ related:
         width: 770
         height: 363
         isCached: true
-  - title: "CVS Health and Microsoft Announce New Strategic Alliance to Reimagine Personalized Care and Accelerate Digital Transformation"
-    excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions to help consumers improve their health, while empowering over 300,"
-    publishedDateTime: 2021-12-02T14:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cvs-health-microsoft-announce-new-strategic-alliance-reimagine-/2021/12/02/9503702.htm"
+  - title: "CVS inks tech partnership with Microsoft to accelerate its 'digital-first' strategy"
+    excerpt: "Microsoft's capabilities and the Azure cloud ... CVS Health currently leverages Azure cognitive services like computer vision and text analytics for health that automate tasks."
+    publishedDateTime: 2021-12-02T14:58:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/cvs-inks-tech-partnership-microsoft-to-accelerate-its-digital-first-strategy"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 33
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1638444331/CVS.jpg?VersionId=7Nn3hJwp0yGxHaLXo_qLo0kfaXsRacqQ"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "CVS Health and Microsoft Announce New Strategic Alliance to Reimagine Personalized Care and Accelerate Digital Transformation"
+    excerpt: "CVS Health (NYSE: CVS) and Microsoft Corp. (NYSE: MSFT) today announced a new strategic alliance focused on developing innovative solutions"
+    publishedDateTime: 2021-12-02T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cvs-health-and-microsoft-announce-new-strategic-alliance-to-reimagine-personalized-care-and-accelerate-digital-transformation-301436224.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 12
+    images:
+      - url: "https://mma.prnewswire.com/media/1701214/Microsoft.jpg?p=facebook"
+        width: 798
+        height: 419
+        isCached: true
 
 secured: "YHmBnAXM8lfX+9rRJn96TgMgK2B3vsi698dJVryK1fieL9dcIO1P8qWxMYGtxjlhiIDrX+hxVLjwtUBCaMaFSixGPQGm+xSSDXHH5Bu9jV/PLufHbtMwkB1MfhTarBtnXHzFWBSKzWrmnEwCh7WcuLVtBz8ov5XNoX+mu95jELgFbMgN2KCXU2sPizMwl+lAVCspwi9D2yoHbkdY+zHrbJpAvag3jtd8qQIfBax42RKdAx4XO/yFZNiJlaEt7K4hSTVDU9hXTU9r4Lyz+4UOGS8OmDz+FeN8cwY0Lj0cP7fGmZizTu/FFHYGgc9Nblf2BqyRH4G6pRt/hvvhC+sj7KMMYnhu1EEHYa6t/eOnhYo=;qN18i4MMrpGTY+uMvGfBVA=="
 ---

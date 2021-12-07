@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/global-assistive-robotics-market-size-to-rea
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://cdn.openpr.com/U/c/Uc06500488_g.jpg"
         width: 800
         height: 428
-        isCached: true
-  - title: "Mobile Robot Market Size Forecasted to Reach Valuation of USD 117.89 Billion by 2027"
-    excerpt: "The global mobile robot market is expected to be valued at USD 117.89 Billion by 2027 from USD 23.48 billion in 2019, registering a CAGR of 23.6% through the forecast period. This growth is attributed to surge in adoption of mobile robots especially across manufacturing plants."
-    publishedDateTime: 2021-12-02T10:30:00Z
-    webUrl: "https://techbullion.com/mobile-robot-market-size-forecasted-to-reach-valuation-of-usd-117-89-billion-by-2027/"
-    ampWebUrl: "https://techbullion.com/mobile-robot-market-size-forecasted-to-reach-valuation-of-usd-117-89-billion-by-2027/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/mobile-robot-market-size-forecasted-to-reach-valuation-of-usd-117-89-billion-by-2027/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 52
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/12/Mobile-Robot.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "The Role of AI in the Global Healthcare Market 2021: Rising Utilization of Robots for Surgical and Rehabilitation Procedures"
     excerpt: "The global AI in healthcare market is forecasted to record a value of US$22.68 billion in 2025, progressing at a CAGR of 35.59%, for the duration spanning 2021-2025. Factors such as rising utilization of robots for surgical and rehabilitation procedures,"

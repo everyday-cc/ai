@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barandbench.com/amp/story/news/parliament-watch-omicron-
 cdnAmpWebUrl: "https://www-barandbench-com.cdn.ampproject.org/c/s/www.barandbench.com/amp/story/news/parliament-watch-omicron-women-judiciary-collegium-recommendations-facial-recognition-day-4-roundup"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Facial recognition at airports optional, data will not be shared with anyone: Ministry of Civil Aviation"
-    excerpt: "With the government introducing facial recognition in airports, the Ministry of Civil Aviation clarifies that passengers can opt out."
-    publishedDateTime: 2021-12-02T13:09:00Z
-    webUrl: "https://www.medianama.com/2021/12/223-facial-recognition-airports-digi-yatra-parliament/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 37
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/12/l-filipe-c-sousa-0nUcd4-pp5k-unsplash-e1638448316926.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "owQh2IUCZcD1CEJX28EKPUvM63BecZx1JwLUj4tg43E34U+y5w+1XqWyKdAgTW7eb54hNXjkaDr23Ccy1QGGOpRN6yGqrEkraibR0nRHyvpFGcuXs0+P+cTBvBySmHhfkSSIye6bbt6r+o8ObfQcv2zgHafxh7rDNYkSEtXbCW8+mGZFDRvQKVVdT379CLGFSbgVKuLwHQuhBf7e+1QsyAGT95XIm+On1T9fD/OzfaGcWzcjDhrE1xQlN6RlgqxFC0YglU9yNaaFvZeqeHUvS44+eZDpRceLKqoOkmz7hcsCHZ9EKTdBrV1A9zSdrDYyXD7JRQ092cIm5mJcyFNykUDG4onPTr0LuMPN5eF2n0uUey9V7EI8ilwhN29Secdtd0V1HY91DqDMfgCvRnSVnjk2dPE/bE6sB9QcuCBz8kjCNGyeUkOBoE9VCrHtzEZkNnc5zhPUrbpiKdZi9+CnwKz9gAsYm39n9UnwAQwlbgjPRhvLHqfsGB65FhhzctBA40w0Wox2tNCLyaNilJlsoA==;LHgwp+IGnxz52+H/2YpVig=="
 ---

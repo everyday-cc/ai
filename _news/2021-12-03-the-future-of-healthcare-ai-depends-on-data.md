@@ -52,20 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
-  - title: "DeepMind AI Used To Develop New Math Techniques"
-    excerpt: "Researchers are using DeepMind's artificial intelligence to develop fundamentally new techniques in mathematics."
-    publishedDateTime: 2021-12-02T10:03:00Z
-    webUrl: "https://www.technologynetworks.com/neuroscience/news/deepmind-ai-used-to-develop-new-math-techniques-356418"
-    type: article
-    provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 71
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/356418/deepmind-ai-used-to-develop-new-math-techniques-356418-640x360.jpg?cb=20211202"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "SRfl/S21FWWl+Ipwo+ye70GGy9vREm3zpUi/rMnOLndAxaNCYd/4pGiFlhfO9XxS1clYMYy7nEW713Zdcyuv0rZ6TerKH9H/ocbWVaf71S8tDbIGqckWYwzJa+x8+rc3CKaclu4xznNCmhDs6AUyq/zBScSrLvz+vZjw1JwFkfOtSBPqodXWsTF3PqRg6nPALlArMiY53/hF4eiPnbX3+LmE4A0IHyHP6XRg3c58eTVSkJQyAisQstCiaNEsQlOdls7VX9SCUxFz+efcauKkhDn8Vgqa+MynzNuU+9pNs104tvckKCrXVOujh2Jd8AeZRSnBRdDDZd6hJ3WBqx0glsSMjtWHSEe4YsqV7DmG6kmFSiGdeEhE1iC6axEirb8Gair6c+Ju0YjH3NayzSd0g8F3zDxBKNfRu+eQSE/mQC+OO0Nn8czAg8ySEo/yRu/Jbusp6os3zeQr3RvI5rwnDMlJjtBigUpyJIQAveUXR+n6ENbXFJZrDRibQMbJptN+RSepgMd4yF6r/NZYgXxgpA==;aFYDb0PPaK768ML6LU5vuA=="
 ---

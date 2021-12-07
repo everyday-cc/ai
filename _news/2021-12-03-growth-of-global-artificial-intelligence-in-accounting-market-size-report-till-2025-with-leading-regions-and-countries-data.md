@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/growth-of-global-artific
 webUrl: "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-in-accounting-market-size-report-till-2025-with-leading-regions-and-countries-data-2021-12-02"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Healthcare Market 2021-2026: Global Size, Share, Trends and Forecast"
+    excerpt: "The global artificial intelligence in healthcare market exhibited strong growth during 2015-2020. Looking forward, the market is expected to grow at a CAGR of 42.3% during 2021-2026."
+    publishedDateTime: 2021-12-03T08:56:00Z
+    webUrl: "https://wakelet.com/wake/IgHaelmGd4xKI7s1MJmqj"
+    type: article
+    provider:
+      name: wakelet.com
+      domain: wakelet.com
+    quality: 42
+    images:
+      - url: "https://assets.wakelet.com/monomer/thumbnail/wakelet-socail-thumbnail.png"
+        width: 1080
+        height: 540
+        isCached: true
   - title: "Global Self-driving Taxi Market 2021-2025: Supportive Regulations for Self-driving Cars Driving Growth - ResearchAndMarkets.com"
     excerpt: "The “Global Self-driving Taxi Market 2021-2025” report has been added to ResearchAndMarkets.com’s offering. The self-driving taxi market is poised to grow by 56162.96 units during 2021-2025, progressing at a CAGR of 58."
     publishedDateTime: 2021-12-02T16:09:00Z
