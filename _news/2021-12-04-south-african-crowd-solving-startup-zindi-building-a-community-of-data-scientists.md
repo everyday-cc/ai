@@ -7,7 +7,7 @@ originalUrl: "https://www.businessghana.com/site/news/Technology/251960/South-Af
 webUrl: "https://www.businessghana.com/site/news/Technology/251960/South-African-crowd-solving-startup-Zindi-building-a-community-of-data-scientists"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "South African crowd-solving startup Zindi building a community of data scientists and using AI to solve real world problems"
-    excerpt: "Zindi is all about using AI to solve real world problems for companies and individuals. And the South Africa-based crowd-solving startup has done that over the last three years they have been in existence."
-    publishedDateTime: 2021-12-03T07:00:00Z
-    webUrl: "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/"
-    ampWebUrl: "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 61
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/08/Zindi-Team-in-Cape-Town-1.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "South Africa: Crowd-Solving Startup Zindi Building a Community of Data Scientists and Using AI to Solve Real World Problems"
     excerpt: "Zindi is all about using AI to solve real world problems for companies and individuals. And the South Africa-based crowd-solving startup has done that over the last three years they have been in existence."
     publishedDateTime: 2021-12-04T12:33:00Z

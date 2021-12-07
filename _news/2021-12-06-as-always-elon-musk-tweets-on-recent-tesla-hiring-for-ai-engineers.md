@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businesstoday.in/amp/trending/story/as-always-elon-musk-
 cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06"
 type: article
 quality: 76
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Today
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Neuralink and Tesla have an AI problem that Elon’s money can’t solve"
+    excerpt: "What do Tesla's FSD system, Neuralink's algorithms, and lazy people all have in common? It'd be great if they worked."
+    publishedDateTime: 2021-12-07T22:25:00Z
+    webUrl: "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Felon-burn-money.jpg&signature=e036468bf08b9464f7f31ef7c598bb32"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "News: Tesla to hire Artificial Intelligence engineers: Elon Musk tweets"
     excerpt: "According to the official website the AI and Autopilot unit of Tesla develops and deploys autonomy at scale in vehicles robots and more"
     publishedDateTime: 2021-12-07T04:16:00Z

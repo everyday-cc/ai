@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/technology/clearview-ai-on-track-to
 webUrl: "https://www.politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735"
 type: article
 quality: 152
-heat: 252
+heat: 242
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/56972/content/clearview-ai-facial-recognition-wins-patent.jpg"
         width: 708
         height: 472
-        isCached: true
-  - title: "facial recognition tech at airports"
-    excerpt: "Trak.in is a popular Indian Business, Technology, Mobile & Startup blog featuring trending News, views and analytical take on Technology, Business, Finance, Telecom, Mobile, startups & Social Media Sp"
-    publishedDateTime: 2021-12-03T06:06:00Z
-    webUrl: "https://trak.in/Tags/Business/facial-recognition-tech-at-airports/"
-    type: article
-    provider:
-      name: Trak.in - India Business Blog
-      domain: trak.in
-    quality: 54
-    images:
-      - url: "https://trak.in/wp-content/uploads/2016/02/cropped-Favicon-Square-2016-2.gif"
-        width: 512
-        height: 512
         isCached: true
   - title: "Clearview AI Facing £17 Million Fine From UK ICO Over Violation of Data Protection Laws"
     excerpt: "Clearview AI faces fresh legal trouble in the UK, where it may soon be fined for violation of the country's data protection laws and forced to delete any biometric data it has collected."

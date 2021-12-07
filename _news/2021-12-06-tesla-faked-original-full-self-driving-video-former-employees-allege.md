@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Ex Tesla Engineers Claim Video Promoting Full-Self Driving Autopilot 2.0 Edited Out Collision With A Barrier"
+    excerpt: "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers"
+    publishedDateTime: 2021-12-07T20:31:00Z
+    webUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/"
+    ampWebUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 70
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
     excerpt: "Elon Musk built his electric car company, Tesla, around the promise that it represented the future of driving — a phrase emblazoned on the automaker’s website."
     publishedDateTime: 2021-12-06T14:32:00Z

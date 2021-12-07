@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-12-artificial-intelligence-huge-ups
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-artificial-intelligence-huge-upside-potential.amp"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -28,18 +28,20 @@ images:
 
 related:
   - title: "Artificial intelligence carries a huge upside. But potential harms need to be managed"
-    excerpt: "AI has the potential to contribute to the resolution of some of the most intractable problems of our time, but it has the capacity to cause harm"
-    publishedDateTime: 2021-12-07T15:57:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/852/223130.html"
+    excerpt: "The increasing use of artificial intelligence and machine learning in public decision making is raising critical issues around fairness and human rights."
+    publishedDateTime: 2021-12-07T10:04:00Z
+    webUrl: "https://theconversation.com/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073"
+    ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073"
     type: article
     provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 30
+      name: The Conversation
+      domain: theconversation.com
+    quality: 52
     images:
-      - url: "https://biz-file.com/c/2112/638973-700x364.jpg?5"
-        width: 700
-        height: 364
+      - url: "https://images.theconversation.com/files/436064/original/file-20211207-27-1vcec0k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop"
+        width: 320
+        height: 224
         isCached: true
 
 secured: "0hfgzlvqTSDg10+SVQ3sSEwd3Xl52ooZZnazyhsoVG9gsjBjNAD1XOuXqoIgM6o5nmqRSkl0qs0USV148zRT5D2fTVdxHQx7QBwURT+72kpyl/mwMpTAQHhBh3/SVSB8EkI0VRnwla9FX3QzoyRfiJTdlXI4+obgRnH8GjW2xRuYETiyIQ6i5LDajFdbxVC5m3bnN40CYNxfFG95iCSz6Qs7o/lr6jh2thSNSu8FEKDxLaEv1PR3CZVJTDLZpuoZLVw2A5yyUTjd5x+2IVE1HLeKLmhL54+NWECRvs9tPz0DXAtcvtUDZxuGoCANS//CLBV+XvnbsAO8SE4rErIcYup73T63HeLzjmkKpfU6QOiG7knvTVEhQwdKOTtappjtrNAFg3zXHrNrBH2vdgHRsUs4Os5CSPyE+mfGju4t1wEwwD4BB8eFts8f+UUyBwa0jQHQfEsPEwTNdt6OFPVIUO27m/cg+sYX/Yh6SwIasKFH3jZzF0MAVpBffaPIMzlyqEwXVw7NeBm/QnweCJsQtQ==;NopDkuZ2pjesBSrMfB/wDw=="

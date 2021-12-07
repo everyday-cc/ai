@@ -41,6 +41,22 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Stellantis wants to outfit cars with AI to drive up revenue"
+    excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros, or $22.6 billion,"
+    publishedDateTime: 2021-12-07T21:44:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/dec/07/stellantis-wants-to-outfit-cars-with-ai-to-drive-u/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/dec/07/stellantis-wants-to-outfit-cars-with-ai-to-drive-u/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/dec/07/stellantis-wants-to-outfit-cars-with-ai-to-drive-u/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 59
+    images:
+      - url: "https://thumb.spokesman.com/Lw9mG-syPoibzL9CZLf0Ke-kRVg=/480x0/media.spokesman.com/photos/2021/12/07/61afd057a7f64.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Stellantis Bets on Artificial Intelligence, Wants To Beat Tesla at Its Own Game"
     excerpt: "Stellantis bets on artificial intelligence and expects software revenue to reach $23 billion a year by 2030 through services and subscriptions."
     publishedDateTime: 2021-12-07T16:27:00Z

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Intel plans to take self-driving car unit public in the U.S. in mid-2022"
+    excerpt: "Intel has announced that it plans to list Mobileye, the Israeli autonomous driving firm it acquired for $15.3 billion in 2017."
+    publishedDateTime: 2021-12-07T14:01:00Z
+    webUrl: "https://www.cnbc.com/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 73
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1626819349"
+        width: 3500
+        height: 2334
+        isCached: true
   - title: "Intel Plans Potential $50 Billion IPO For Its Israeli Self-Driving Car Unit, Shares Rise"
     excerpt: "The tech giant said that it would take its self-driving car firm, Mobileye, public next year at a potential valuation of more than $50 billion, sources first told The Wall Street Journal. Intel originally acquired 100% of the Israeli company in 2017 for $15."
     publishedDateTime: 2021-12-07T15:27:00Z

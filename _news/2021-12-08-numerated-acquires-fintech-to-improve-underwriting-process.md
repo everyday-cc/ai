@@ -53,20 +53,6 @@ related:
         width: 400
         height: 268
         isCached: true
-  - title: "Portugal Fintech Report: Top 30 Fintechs and First Unicorn"
-    excerpt: "Portugal’s fintech industry had a fructuous year 2021 as it welcomed its first fintech startup unicorn and new regulatory development in the booming digital asset industry. Although the country is steadily rising as a startup hub in Europe,"
-    publishedDateTime: 2021-12-03T05:55:00Z
-    webUrl: "https://fintechnews.ch/fintechportugal/portugal-fintech-report-top-30-fintechs-and-first-unicorn/50441/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2021/12/Portugal-Fintech-Industry-1440x564_c.jpg?x22073"
-        width: 1440
-        height: 564
-        isCached: true
   - title: "Future Unicorns in Fintech Report 2021: Analysis of the Top 50 Fintech Startups that have the Potential to Valued at More than US$1 Billion - Research"
     excerpt: "The \"Future Unicorns in Fintech\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the top 50 Fintech startups that have the potential to become unicorns (valuation more than US$1bn) based on the Unicorn Prediction Model."
     publishedDateTime: 2021-12-06T15:26:00Z

@@ -3,11 +3,11 @@ category: news
 title: "AI Agriculture Startups Take In Record Amount of VC Funding"
 excerpt: "Venture-capital firms are pouring money into artificial-intelligence agricultural startups as farmers turn to the technology to control pests, eradicate weeds and increase crop yields."
 publishedDateTime: 2021-12-07T09:30:00Z
-originalUrl: "https://www.wsj.com/articles/ai-agriculture-startups-take-in-record-amount-of-vc-funding-11638873000"
-webUrl: "https://www.wsj.com/articles/ai-agriculture-startups-take-in-record-amount-of-vc-funding-11638873000"
+originalUrl: "https://www.wsj.com/articles/ai-agriculture-startups-take-in-record-amount-of-vc-funding-11638894146"
+webUrl: "https://www.wsj.com/articles/ai-agriculture-startups-take-in-record-amount-of-vc-funding-11638894146"
 type: article
 quality: 67
-heat: 88
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 AI Startups That Raised Funding In 2021"
-    excerpt: "Here is a list of 10 AI startups that got funded in 2021. Startups form the backbone of the Indian economy. This year, the Indian startup ecosystem outdid itself, with startups raising as much as $26 billion within the first eight months of the year."
-    publishedDateTime: 2021-12-03T06:30:00Z
-    webUrl: "https://analyticsindiamag.com/10-ai-startups-that-raised-funding-in-2021/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/funding-banner_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Agricultural AI on the upswing"
     excerpt: "Wall Street Journal, explaining rising interest in AI technology. “To do so farmers need to monitor a constant stream of data on plants, soil and atmospheric conditions.” There is also a labor and monetary factor."
     publishedDateTime: 2021-12-07T18:11:00Z
@@ -57,6 +43,6 @@ related:
         height: 355
         isCached: true
 
-secured: "c1QKp2bYYejL/1ihGkjZEHxsmO1r4yxD7yriKPD231CxZLa4DRo/BLQlaiy4KMsQ9af5Ciukk57U77ZlCKb9HBtTaE61wD7CuSPBPdSsgyu08/zd8/jkzGm/qtaR48kPhepm+0uhSxRSgYeb3k83asy+lvj4qLg8WNqCNQ+Q/rnbbYH6U+SYGRxsG0VWrh7AIfZO/7HA6y5zaJEIjJOC9EKb9VdZvnf/Tuio0l1ln7LnpKj9bqTc8RH9AZl+SyJZs9uvzkTn4p9O3H3lTdfRKahnRW7Jfnc0zo0VHHD4E8ZjPNXUd4Jo24fs5lPGOi5e8OwiLRvJosidGExKpKwipCFbBvHsZgohPrxy+LvsrHIqapApjcKxdwecWNCPRyK47g2oZOuUTtWbgrlaPjVVIDOemGB9YYwr4/oy9CDAPZM02vZ82XRIcuOdjxAcj3+OKbGhUgoozBprOqATVAZb7DnJoUG2KzkyPSM8nEaRCS7ZhrvWxephjrcnzVG0FDp4GE2gjJ4Xh4pN17Wf65fHRA==;fv0By5MwV/PB2+pRojAA+Q=="
+secured: "Tg2duIKSsYX8+Wl6RrCEG/HzKjFlodTKslea7UVplUwvlSmOLaiDb5bCJUAlV7w54/WZfej2kPrXRvXuhAjcx3iIqnv8M2Z+zBh3nLi7Ovwn9IdCVW5mMfZplkoin2WtMwNXtS6aXSy8M0q6V11r26sWxREDydJhcCS0Z6Uh1yorDvATdxHr70emH8zwq55QO7vvP0tr/WkAuSO2zg5Buh1QjLF/naURKjcyObarGJrG4w3dLYDsr+Cy1obmcb2YGy2fu1cbOuF2WZuOPf60ZQM8+eaukeiWm33eEmhiKDxFPLOhb5EmboZm1knBoaM+DnUOlrledmVijbMIfqtTAFaGjk9Y2wQcitKHxa4HBP0=;rcuhz8vFV1pCN7EzLmgDxg=="
 ---
 

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tax Exemptions, Benefits And Implications That Every Startup In India Should Be Aware Of"
-    excerpt: "Startup India is a flagship initiative of the government of India, intended to build a strong eco-system for nurturing innovation and startups that will drive sustainable economic growth and generate"
-    publishedDateTime: 2021-12-03T05:44:00Z
-    webUrl: "https://www.entrepreneur.com/article/400561"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 43
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1638510328-MyPost78.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Deloitte predicts more attempts to ban facial recognition in 2022"
     excerpt: "Deloitte’s TMT Predictions project that next year could witness a series of stricter regulations on the deployment of artificial intelligence system."
     publishedDateTime: 2021-12-06T22:47:00Z

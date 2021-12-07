@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-manag
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tax Exemptions, Benefits And Implications That Every Startup In India Should Be Aware Of"
-    excerpt: "Startup India is a flagship initiative of the government of India, intended to build a strong eco-system for nurturing innovation and startups that will drive sustainable economic growth and generate"
-    publishedDateTime: 2021-12-03T05:44:00Z
-    webUrl: "https://www.entrepreneur.com/article/400561"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 43
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1638510328-MyPost78.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "University-wide Institute to Integrate Natural, Artificial Intelligence"
     excerpt: "Harvard University on Tuesday launched the Kempner Institute for the Study of Natural and Artificial Intelligence, a new University-wide initiative standing at the intersection of neuroscience and artificial intelligence,"
     publishedDateTime: 2021-12-07T12:00:00Z

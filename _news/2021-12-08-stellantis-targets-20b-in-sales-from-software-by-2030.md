@@ -42,6 +42,22 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Stellantis wants to outfit cars with AI to drive up revenue"
+    excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros, or $22.6 billion,"
+    publishedDateTime: 2021-12-07T21:44:00Z
+    webUrl: "https://www.spokesman.com/stories/2021/dec/07/stellantis-wants-to-outfit-cars-with-ai-to-drive-u/"
+    ampWebUrl: "https://www.spokesman.com/stories/2021/dec/07/stellantis-wants-to-outfit-cars-with-ai-to-drive-u/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/dec/07/stellantis-wants-to-outfit-cars-with-ai-to-drive-u/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 59
+    images:
+      - url: "https://thumb.spokesman.com/Lw9mG-syPoibzL9CZLf0Ke-kRVg=/480x0/media.spokesman.com/photos/2021/12/07/61afd057a7f64.hires.jpg"
+        width: 480
+        height: 320
+        isCached: true
   - title: "Stellantis Bets on Artificial Intelligence, Wants To Beat Tesla at Its Own Game"
     excerpt: "Stellantis bets on artificial intelligence and expects software revenue to reach $23 billion a year by 2030 through services and subscriptions."
     publishedDateTime: 2021-12-07T16:27:00Z
@@ -99,6 +115,6 @@ related:
         height: 600
         isCached: true
 
-secured: "UfbdPxhml6n6fnVFdiU+zxHSFDx5fz847S7fabGrt0x8mWXIXiBwQPqeXv3T99dKGsXSE4FqAIvFzeVJVLTqjvnzKrjtG2cvT5TCU9A12S8uu+aCACNp6ODIK1U09IyrrbCtOSzcup8va/9fN0e9QULqs/HKLHh70cg2A+RaNb8q+kSJ99tz4lR3Xa14HTSbO7euvGL1iG12WepEpPl/lPr1n4EgcVNvB96n7Pncie0hXgH5cdfcNTROaOYsBTHE83Ofxshw9dENlC/mKI+fQOGCmbPkPe+a185NC/Gftx0lHDyPDwzcmKoM/s45XI5fXXGcsCelxYPv1ueOWMKW6HGJn42HsuA2DpUU9ndIwd8=;1UXtDBkeE9OHO3fBsG+fXg=="
+secured: "kR0ShlCs9IA485kOYb2EG+xVqhXBadWm1SP2LdJgm4e9RVSD/Hvj9beMqdJ6I/Lpet8ID1zeusAQbZYUby859Tz9KUdjW1d6GPiZ7uX9PDuhSH7yKlGkDX2vGoqQlzLTOdnuKzCw/ZBwZepSsFXKHx/wWPLRUYHd38t+ltec98Au4Wr53K+NDguY3D4Je+jpv1JCGqkszX6t5+7ykKbP/WmPL68BhN74WH9jTy2p2YRSMMDytUVqXHUM7QHSf11JSQo62i3ktus/ZGPpuGCRBxej80HmmYXw+i3QwiYUjevFUheCcJzQdRLLDYgfMiOsILhafo6adxP+yBGISMMqfcxm06V9b1DrlIJvgHePz1pIhOSbtVrPxmHB6VoBUlQIzpHv9+n1zMGG0YtqiYsBrY/6GboSumeRAxiWoMRDWskH6yH56LcAyRnYImWD/lEquuAwVxPI8w0erg552sGAKSSViuSLAqcXtPyWo9ZEI4iIXFfcUo4WTMlsJEKEIxe9fFWSEoJX0OwDIXsxPOUNEQ==;7rjfB3mC2nGQdpKPGpDbRQ=="
 ---
 

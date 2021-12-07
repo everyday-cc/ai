@@ -78,20 +78,6 @@ related:
         width: 1200
         height: 774
         isCached: true
-  - title: "AWS Announces Scholarship Program For Their AI And ML courses"
-    excerpt: "Students who take part in the DeepRacer Student League will be eligible for a chance to win 2,500 annual scholarships from Udacity,"
-    publishedDateTime: 2021-12-03T06:56:00Z
-    webUrl: "https://analyticsindiamag.com/aws-announces-scholarship-program-for-their-ai-and-ml-courses/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/aiml_scholarship_program_featured.png"
-        width: 812
-        height: 400
-        isCached: true
   - title: "AWS Re:Invent Wrap-Up: Social Issues, Networking Focus, Partner Revenue"
     excerpt: "Ever the fierce competitor, AWS unveiled plenty of new initiatives in its annual event, and even evinced a budding social awareness."
     publishedDateTime: 2021-12-05T14:36:00Z

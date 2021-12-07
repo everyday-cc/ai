@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-an
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
 type: article
 quality: 125
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -65,20 +65,6 @@ related:
       - url: "https://images.techhive.com/images/article/2013/10/database_servers_blue-100067015-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 774
-        isCached: true
-  - title: "AWS Announces Scholarship Program For Their AI And ML courses"
-    excerpt: "Students who take part in the DeepRacer Student League will be eligible for a chance to win 2,500 annual scholarships from Udacity,"
-    publishedDateTime: 2021-12-03T06:56:00Z
-    webUrl: "https://analyticsindiamag.com/aws-announces-scholarship-program-for-their-ai-and-ml-courses/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 71
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/aiml_scholarship_program_featured.png"
-        width: 812
-        height: 400
         isCached: true
   - title: "AWS Re:Invent Wrap-Up: Social Issues, Networking Focus, Partner Revenue"
     excerpt: "Ever the fierce competitor, AWS unveiled plenty of new initiatives in its annual event, and even evinced a budding social awareness."
