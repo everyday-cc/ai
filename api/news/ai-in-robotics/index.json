@@ -592,6 +592,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-03-that-radio-dj-you-hear-might-already-be-a-robot.md",
+      "title": "That radio DJ you hear might already be a robot",
+      "excerpt": "Our phones, speakers and rice cookers have been talking to us for years, but their voices have been robotic. Seattle-based AI startup WellSaid Labs says it has finessed the technology to create",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/",
+      "originalUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/12/robot-radio-dj-ai-voice-01.jpeg?quality=90&strip=all&w=809",
+          "width": 809,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/amp/",
+      "publishedDateTime": "2021-12-02T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-robot-company-wants-to-give-you-200000-for-your-face-and-voice.md",
       "title": "Robot Company Wants To Give You $200,000 For Your Face And Voice",
       "excerpt": "In an odd proposal, a Russian company is willing to pay you $200,000 if you forfeit your face and voice to help develop its next robot.",
@@ -1310,49 +1353,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-why-ghana-needs-robotics-industry-for-national-development.md",
-      "title": "Why Ghana needs robotics industry for national development",
-      "excerpt": "The evolution of technology in recent years has sparked significant public and media discourse, anticipations, and concerns about robotics and its ability to ensure positive transformation in every sector around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernghana.com/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
-      "originalUrl": "https://www.modernghana.com/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.modernghana.com/images/content/1129202154037-h41o2s6fey-picture---julian-bennett.jpg",
-          "width": 800,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernghana.com/amp/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
-      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1122336/why-ghana-needs-robotics-industry-for-national.html",
-      "publishedDateTime": "2021-11-29T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Modernghana.com",
-        "domain": "modernghana.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-an
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
 type: article
 quality: 125
-heat: 205
+heat: 195
 published: true
 
 provider:
@@ -121,20 +121,6 @@ related:
     quality: 52
     images:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFTpxCuJ0-E1A/article-cover_image-shrink_720_1280/0/1638537981050?e=1643846400&v=beta&t=xCBkkxlgdenBM-tuYCoT5I6Ifqxot4PoxcMNdwHP_lw"
-        width: 1079
-        height: 720
-        isCached: true
-  - title: "The Future of Artificial Intelligence, Cloud Computing, and Digital Twins: Highlights from AWS re: Invent 2021"
-    excerpt: "Invent celebrated its 10th year this year by welcoming visitors back to an in-person event, following last year’s fully virtual event. It also marked the 15th anniversary of the launch of Amazon Web Services itself."
-    publishedDateTime: 2021-12-02T13:33:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-artificial-intelligence-cloud-computing-digital-bernard-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 34
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGRQphiMhqKKg/article-cover_image-shrink_720_1280/0/1638451226850?e=1643846400&v=beta&t=WVSAv4yvlhwKErf2gQf14QW4V6AK5UeRXOdLxHoLSrM"
         width: 1079
         height: 720
         isCached: true

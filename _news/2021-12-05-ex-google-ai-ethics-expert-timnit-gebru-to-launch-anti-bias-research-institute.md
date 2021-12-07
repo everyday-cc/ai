@@ -86,20 +86,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Timnit Gebru’s New Research Group Wants to Free AI From Its Corporate Ills"
-    excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."
-    publishedDateTime: 2021-12-02T13:34:00Z
-    webUrl: "https://www.bloombergquint.com/onweb/former-google-ethical-ai-researcher-creates-global-nonprofit"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 37
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Timnit Gebru’s new research group wants to free AI from its corporate ills"
     excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."
     publishedDateTime: 2021-12-03T09:12:00Z

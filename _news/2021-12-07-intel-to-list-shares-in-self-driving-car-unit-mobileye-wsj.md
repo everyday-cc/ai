@@ -43,10 +43,24 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Intel to launch IPO of its Mobileye self-driving-car unit in 2022"
+    excerpt: "Intel said it would take the unit public in the U.S. in mid-2022 through an initial public offering of new Mobileye stock."
+    publishedDateTime: 2021-12-07T01:39:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://images.mktw.net/im-447206/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Intel to list shares of its Mobileye self-driving-car unit"
     excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
-    publishedDateTime: 2021-12-07T00:33:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos25"
+    publishedDateTime: 2021-12-06T23:33:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=10-things"
     type: article
     provider:
       name: MarketWatch
@@ -94,6 +108,6 @@ related:
       domain: businessinsider.com
     quality: 28
 
-secured: "T30phFwpoB0ohhSPSfM3wbH/+sc/VHGXIVtwzcgBIk6Diwf0xqgnDCLGlWrrFx4FANpjzXwuB5tPhlYgwIP6sf401TQ24VTjg+/N9XPSzsFWFGAFG/gXjfMO/hcjVkLwiuHD0I7axpSZDbnCoCr16DmOYLqGmuzPL8QMtWSfe2d3eL+FqmOBq9QyB5Am+lFnPlrgv9h8ApAGVYr3lZyGCZ1AMu3wjz8rCTrtgKtKj3/4KB9nNg/tY9e/E9dcqcZgf2YheK+w/7PRmdP6D4INVfTW92X+69z/jcrvVjq1Hk3+YmAQ0yWHql3JS2TheKVj3406mbfY1iAg6YLyZlQlqgMAVNbH2hK3Vt0qOEpBdCg=;kpRy4ixRTZYpKCiDfsmj/Q=="
+secured: "AAx+1DFWTTcE0/73vkUKQ7zEd5ax3u6/+tBZY4+XoLmhm9UCaedjDU8EURk2whcQjQLcGNOf3Z/JQ2Ei5Yp43blnocru8CJdJ13C37bA2Z0JNg1bFekSLb88zyrj9wT58rFSOIWJaB506/rGETAXa5RAa7lf7CyNOdAewJkx4JKSruNsZ3fwUu/bLK/v69vmTHmhdsuH0c/zwZ5FFAF5GZMCJJI8UC8O8VxnDn0TFurtO6HO/dGYqw89vsFDxAqb5vJWklo5YrwPCOL3tzM/T7AkWmJdgxWAJbogO6mh0SDbLeLfesWt4ofGjo847eE6QwRjI5kvFdPufTmuEbSJBgYpY5yJCOpeeP3a2H6aLX0wV3g248q33yuXGEpS5IJIkUOdWv/fxIggM4LE+/7IHK7w4UT2/S+4nHGIOjsV5/54YK8XZBh1o2BIn55gD+XcrNSbKbY9fDOeiKYAuw7SN5vqSZOLehn1RMF5V0sUx/6PmcnrEoj1bhtagTRFXZK3/76vt8CgOp+8klOK+QNzEg==;NonebDUhnkcP1iWDduWCYg=="
 ---
 

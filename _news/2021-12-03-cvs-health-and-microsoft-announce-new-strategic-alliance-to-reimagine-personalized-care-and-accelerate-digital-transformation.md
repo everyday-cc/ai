@@ -44,20 +44,6 @@ related:
         width: 770
         height: 363
         isCached: true
-  - title: "CVS inks tech partnership with Microsoft to accelerate its 'digital-first' strategy"
-    excerpt: "Microsoft's capabilities and the Azure cloud ... CVS Health currently leverages Azure cognitive services like computer vision and text analytics for health that automate tasks."
-    publishedDateTime: 2021-12-02T14:58:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/cvs-inks-tech-partnership-microsoft-to-accelerate-its-digital-first-strategy"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 33
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1638444331/CVS.jpg?VersionId=7Nn3hJwp0yGxHaLXo_qLo0kfaXsRacqQ"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "YHmBnAXM8lfX+9rRJn96TgMgK2B3vsi698dJVryK1fieL9dcIO1P8qWxMYGtxjlhiIDrX+hxVLjwtUBCaMaFSixGPQGm+xSSDXHH5Bu9jV/PLufHbtMwkB1MfhTarBtnXHzFWBSKzWrmnEwCh7WcuLVtBz8ov5XNoX+mu95jELgFbMgN2KCXU2sPizMwl+lAVCspwi9D2yoHbkdY+zHrbJpAvag3jtd8qQIfBax42RKdAx4XO/yFZNiJlaEt7K4hSTVDU9hXTU9r4Lyz+4UOGS8OmDz+FeN8cwY0Lj0cP7fGmZizTu/FFHYGgc9Nblf2BqyRH4G6pRt/hvvhC+sj7KMMYnhu1EEHYa6t/eOnhYo=;qN18i4MMrpGTY+uMvGfBVA=="
 ---

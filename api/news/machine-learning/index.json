@@ -402,7 +402,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -457,7 +457,7 @@
       "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/03/predicting-the-future-of-demand-how-amazon-is-reinventing-forecasting-with-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -648,7 +648,7 @@
       "originalUrl": "https://techcrunch.com/video/ai-data-solutions-key-elements-of-successful-ml-dataops/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -753,7 +753,7 @@
       "originalUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1395,21 +1395,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-01-deep-learning-dreams-up-new-protein-structures.md",
-      "title": "Deep Learning Dreams Up New Protein Structures",
-      "excerpt": "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools.",
+      "path": "_news/2021-12-01-turningminds-launched-to-train-in-ai-machine-learning.md",
+      "title": "‘TurningMinds’ launched to train in AI, machine learning",
+      "excerpt": "International School of Engineering (INSOFE) and Soothsayer Analytics, USA, have launched TuringMinds.Ai with a goal to establish Centers of Excellence in Artificial Intelligence and Machine Learning",
       "sourceUrl": null,
-      "webUrl": "https://news.rpi.edu/content/2021/12/01/deep-learning-dreams-new-protein-structures",
-      "originalUrl": "https://news.rpi.edu/content/2021/12/01/deep-learning-dreams-new-protein-structures",
+      "webUrl": "https://www.thehindu.com/news/cities/Hyderabad/turningminds-launched-to-train-in-ai-machine-learning/article37791465.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Hyderabad/turningminds-launched-to-train-in-ai-machine-learning/article37791465.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg",
-          "width": 667,
-          "height": 446,
+          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1417,13 +1417,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T07:56:00-08:00",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Hyderabad/turningminds-launched-to-train-in-ai-machine-learning/article37791465.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/turningminds-launched-to-train-in-ai-machine-learning/article37791465.ece/amp/",
+      "publishedDateTime": "2021-12-01T06:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "RPI News",
-        "domain": "rpi.edu",
+        "name": "The Hindu",
+        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null

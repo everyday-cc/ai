@@ -9,7 +9,7 @@ ampWebUrl: "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-wil
 cdnAmpWebUrl: "https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/amp/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition at airports optional, data will not be shared with anyone: Ministry of Civil Aviation"
-    excerpt: "With the government introducing facial recognition in airports, the Ministry of Civil Aviation clarifies that passengers can opt out."
-    publishedDateTime: 2021-12-02T13:09:00Z
-    webUrl: "https://www.medianama.com/2021/12/223-facial-recognition-airports-digi-yatra-parliament/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 37
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/12/l-filipe-c-sousa-0nUcd4-pp5k-unsplash-e1638448316926.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Facial recognition technology at 4 airports to be introduced by March next year: Centre"
     excerpt: "Facial Recognition Technology (FRT) has not yet been introduced at any of the airports in India, replied Minister of State in the Ministry of Civil Aviation General V K Singh (retd) to a question in Lok Sabha on Thursday."
     publishedDateTime: 2021-12-02T20:50:00Z

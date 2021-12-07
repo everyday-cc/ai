@@ -76,22 +76,6 @@ related:
         width: 494
         height: 301
         isCached: true
-  - title: "AAI working on India's first facial recognition-based passenger boarding system: Government"
-    excerpt: "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government."
-    publishedDateTime: 2021-12-02T13:36:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/aai-working-on-indias-first-facial-recognition-based-passenger-boarding-system-government/articleshow/88054660.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/transportation/airlines-/-aviation/aai-working-on-indias-first-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88054660.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/transportation/airlines-/-aviation/aai-working-on-indias-first-facial-recognition-based-passenger-boarding-system-government/amp_articleshow/88054660.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 64
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-5438,msid-88054686/aviation-.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "lmlMu8Cx5rk/oFnO1xKkZhi4iGhq2GdKCYw/QOVRBhiYD2Dc7L6zjAPR2grUIuAtGAF1qeWR34tkAV/wXB0m7l7b19rhwWD4d6pE/6nkX7L9wq7lApQr0eANY0cdT3/4BNR7p99Az/2vBtfudksbtPVuIlwqSyoONuBtVP7/R+MlQKEIYU9bBxNd8UiCZ519HcXvYbet7pHpt96EIm5edxxQVNRkLjuKHwaaVcpvYqWsFTmSGt3/NhDnHuMu+WSNpZiycN7Qn/9GQHz3Iywf4F2sNOw02hcleccdJ8IfLGNyUlqTHf/3jpPdNW1V2gPioRKDjKX5ZkevcFEo70aoPilzPYO8rcX/3GM0gOQoeSMmOreBZtBx4hRbQdbUmyelA310ifXvxrbr85Kejm+HiyzHmOalmgR84q/DdFJh5h1atp9wYD6emJfIhkhwixiwvcRMVRvLIKOgO4NpJoSoF+N7gBzK6N1te7gm5eedf0XmQbqJzzFv/15AyaXKK52uizcbBcHNSdrxQutXmQMTQQ==;y0Ugp80CRxHmUB6+NppthQ=="
 ---

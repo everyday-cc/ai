@@ -35,6 +35,20 @@ related:
         width: 635
         height: 400
         isCached: true
+  - title: "Discovery sticks with AWS for cloud services"
+    excerpt: "Discovery has extended its use of AWS for cloud services. The broadcaster uses AWS’ tech for the infrastructure carrying its discovery+ platform, digital services, and over 450 linear channels around the globe."
+    publishedDateTime: 2021-12-03T09:50:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/discovery-sticks-with-aws-for-cloud-services/5165717.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 39
+    images:
+      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/0/8/6/1359086_discoverymultidevicelockupimage_764460.jpg"
+        width: 1024
+        height: 536
+        isCached: true
 
 secured: "WAzYgnfsmrXzaU1RE9zaWSLjRpfApegG+4XgzwW6DxpMNz8egahYwMgAhEeX1pSld6YboPV+cUdyQthHXJTgdv8SMvq89U1B8cO1N7961CEDR6vRXMWUO7reiE96sjHbl9iqTJy0a9Qe/mEmWWbk3EZTAu4T13q5Wr1GWUQtbTY1ozQR8aEzvHJmvjYQ87RTCl+Cgc1jShapsQsRV5SSxF7zbtBQeV3uGuFfXMNsz3gKlLegPEy4ImT3TQYE742sMj9mEgMiQqveAG+qbzI1r21ZQ7foPCCH6hWH2R3J5mYdzphE3DiGQKnC2qzlTHiP75qPS479r3ham+CkvRdxyjMOHTYStkwhZN57LcJEBSE=;yAsExhvEidxQFKrs3ETafQ=="
 ---

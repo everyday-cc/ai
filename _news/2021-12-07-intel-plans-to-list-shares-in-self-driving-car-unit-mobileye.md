@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/intel-mobileye-ipo/update-4-intel-
 webUrl: "https://www.reuters.com/article/intel-mobileye-ipo/update-4-intel-plans-to-list-shares-in-self-driving-car-unit-mobileye-idUSL4N2SS02C"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Intel to launch IPO of its Mobileye self-driving-car unit in 2022"
+    excerpt: "Intel said it would take the unit public in the U.S. in mid-2022 through an initial public offering of new Mobileye stock."
+    publishedDateTime: 2021-12-07T01:39:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://images.mktw.net/im-447206/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Intel to list shares in self-driving car unit Mobileye - WSJ"
     excerpt: "Intel Corp is planning to publicly list shares in its self-driving-car unit Mobileye, which could value the unit at north of $50 billion ,the Wall Street Journal reported on Monday, citing people familiar with the matter."
     publishedDateTime: 2021-12-06T23:27:00Z
@@ -45,8 +59,8 @@ related:
         isCached: true
   - title: "Intel to list shares of its Mobileye self-driving-car unit"
     excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
-    publishedDateTime: 2021-12-07T00:33:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos25"
+    publishedDateTime: 2021-12-06T23:33:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=10-things"
     type: article
     provider:
       name: MarketWatch

@@ -2,9 +2,9 @@
 category: news
 title: "Intel to list shares of its Mobileye self-driving-car unit"
 excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
-publishedDateTime: 2021-12-07T00:33:00Z
-originalUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos25"
-webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos25"
+publishedDateTime: 2021-12-06T23:33:00Z
+originalUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=10-things"
+webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=10-things"
 type: article
 quality: 54
 heat: -1
@@ -42,6 +42,20 @@ related:
       - url: "https://www.reuters.com/resizer/HxLWCUwhHMM4SwuGFJT2uw2TtvQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJJS5JKBAFOZFNPFKBVNCGTJ5Y.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Intel to launch IPO of its Mobileye self-driving-car unit in 2022"
+    excerpt: "Intel said it would take the unit public in the U.S. in mid-2022 through an initial public offering of new Mobileye stock."
+    publishedDateTime: 2021-12-07T01:39:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://images.mktw.net/im-447206/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Intel to list shares in self-driving car unit Mobileye - WSJ"
     excerpt: "Intel Corp is planning to publicly list shares in its self-driving-car unit Mobileye, which could value the unit at north of $50 billion ,the Wall Street Journal reported on Monday, citing people familiar with the matter."
@@ -94,6 +108,6 @@ related:
       domain: businessinsider.com
     quality: 28
 
-secured: "jSUR/eSjmZO4ANOn6eQTdCE7WuSp/j0nab1e+PqKPHSa7Mj1Kmn9je5FZYNBMxlyFyYuXcAaYzICB5/TSuaFxaqaH4gMreIIKQaozdZGMMQkuhkvFNbWDrANHYljghw0hE/9EzAFoPgFUxbl6PIJOpWFeeZ3ISPpHvRKercihjcx7ntw98aKV1X0EFwnMvz0Zm5r3+CaLoXXLB8ngtes/EmQzaPByrLI5YW7Q8L2K5wyrOonSOBrNCB5fJk/QkUkybFx4WqboMFgWD/MEEKe3a34q3ce+EDJLsNu3gdd97yTXtS1R2fqLnCaIkDEcjiUG1KVcmNI0o20FbYYjPOEchaBTT7KViVMQRn1RgnFzJE=;qgLyow8wCrUU6oUQH/xx6Q=="
+secured: "Up5LP1xxBvi7ICs0Mm6VVnrYvP/yFctcC9MVPzeg7CJW4ij0p7Ve9wyU1Uygj0ezshEkVHX45agTtd/XD7orzW25LnjmJ9Ts1w8RvL4PisIFTa9279wmCY7CjgxZHNIFq/nYTz4F9eEpIEQMtjHOl0vm8urwWmIRX2G8iZxkI/m78Pvj9srTNGxZf21F11fjwpjcMN1Q3+m2XteoMYpHMP6ThqSpnG7u9scCq3Hzo09/DmFEzjN+o0QVFfUbfkAiVp1C2pJPe3Xz0pEPioPPXic76k2+A4RrDQApZH+XKmrKP5KhJ49ZFtRvjOim13jihRoxDnY80OeLxAbv4bggQA2i3TYixHMnmZSco9sMEY8=;9BUKquqnFTSQ073AzMCinQ=="
 ---
 

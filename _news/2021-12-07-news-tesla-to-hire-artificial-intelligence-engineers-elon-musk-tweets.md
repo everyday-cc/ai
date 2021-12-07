@@ -42,7 +42,16 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla looking for AI engineers who can solve problems affecting people’s lives"
+    excerpt: "As always, Tesla is looking for hardcore AI engineers who care about solving problems that directly affect people’s lives in a major way. — Elon Musk (@"
+    publishedDateTime: 2021-12-07T05:48:00Z
+    webUrl: "https://techstory.in/tesla-looking-for-ai-engineers-who-can-solve-problems-affecting-peoples-lives/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 32
 
-secured: "c8VHf6ZdOLO2PZASOoNKcBsjEUY7ny8zwuB0Xg2t85aitXwJxgDSREiW06p/ISrpI1/76WO4KqlAELXD1Y1tzSscO32ineVBB6UMIXVVIydkHGHonys97BzagxXEuN1p90VxqsqIzuuLlix3vTj8GARGa5CzbhNOaFLIJBUd1PCVWNybu24UdTh7HF7hJniBMATAVfV3nNn0rDWBST42rm7L9klX06GTVrBF10qvxPya3RRcpm5W4gG4jcYDLOTKDchEiLQKXjrRvDU+8x6GITto7q1NLROGuzcyXosSqnetd7CvuCOZAYqKItqooFQfhwqeEdyqjPQVzpVWjJaGRVreCRPbZGZ3KkjxJMRMpkA=;IAHAPLopriLGnh1kKpUWog=="
+secured: "gMKigTW9naqunhvlQtDTkzZvcUyPtrO8Jzlw5WjJGX5j2SQ0uqCvDdWYsX/INFIEJvhT7oOtFwie+scnt37kNVB1Nm5cMA4ZGhiD0xk+2vD8aWCWu/yVcT4481ua9jYhNDsXSHvUjFWVwl9GYaJcVBDmX+9oj5Qo9OusuHf7dJScsnxUlRvPSKsEVOH/M9X7GPZvrB1Y/HUweFtXwQTzrLhrdiXY0LOGFfe3JA1xcMsU9gNwDYvgDI8qVXKU4a+Ajr8haHouztmaZxSrT0tUMI/vqb7WgNIA+ZxbHY6yXVgu/2EFNU8O/VeuOTK/KLUyiFI10Dpqs9NCOzxJlXsUJH8f3kqSGubwQDcein7pv1jOTieYNJyPSNnZ6UvU/Jk9pdybBQPWHMc/j+tSTPY5vLQkuvCdkEDQCzpe7ZZn+lEQyk2jQ7LZ9lAZuZUpQfDSseUpsNNiCld+lw1ncX8e6qOJ2aAm9S86FiwYJHuGiHpLBn6RaijSJ5ejekWyNDCVjI1Uy6xHrWuAtbDusl4nOg==;YWzSKHuHeBxYFIbsC8EB4A=="
 ---
 

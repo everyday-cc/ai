@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-u
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
 type: article
 quality: 86
-heat: 186
+heat: 166
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/newsimage336112.jpg"
         width: 595
         height: 225
-        isCached: true
-  - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
-    excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving” (FSD) beta,"
-    publishedDateTime: 2021-12-02T14:00:00Z
-    webUrl: "https://www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/"
-    ampWebUrl: "https://www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 59
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/11/SJM-Z-WALTERS-OPED-1102.jpg?w=1024&#038;h=783"
-        width: 1024
-        height: 783
         isCached: true
   - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
     excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving (FSD) beta,"
@@ -111,22 +95,6 @@ related:
         width: 1200
         height: 792
         isCached: true
-  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
-    excerpt: "Elon Musk built his electric car company, Tesla, around the promise that it represented the future of driving — a phrase emblazoned on the automaker’s website."
-    publishedDateTime: 2021-12-06T16:32:00Z
-    webUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
-    ampWebUrl: "https://www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/news/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 56
-    images:
-      - url: "https://www.baltimoresun.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
-        width: 1200
-        height: 792
-        isCached: true
   - title: "Tesla rolls out new Full Self-Driving Beta update with improved object spotting"
     excerpt: "The updates delivered via the new version of Tesla FSD Beta program include improved object detection network architecture for cars, trucks and buses..Another update includes improved stopping position at unprotected left turns."
     publishedDateTime: 2021-12-06T08:24:00Z
@@ -171,20 +139,17 @@ related:
         width: 1600
         height: 792
         isCached: true
-  - title: "Nuro partners with 7-Eleven on self-driving delivery project"
-    excerpt: "Nuro, an autonomous delivery company, is partnering with 7-Eleven on the convenience store’s first self-driving delivery project that will take place in Mountain View, California. Customers will be able to use the 7NOW delivery app to have their products delivered via self-driving cars."
-    publishedDateTime: 2021-12-02T13:26:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17483/nuro-partners-with-7-eleven-on-self-driving-delivery-project"
+  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-Driving cars"
+    excerpt: "Tesla may have undermined safety in designing its driver-assistance system to fit CEO Elon Musk’s vision, former employees said. Now the NHTSA is investigating at least 12 accidents in which Teslas using Autopilot drove into parked vehicles."
+    publishedDateTime: 2021-12-07T05:03:00Z
+    webUrl: "https://www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/"
+    ampWebUrl: "https://www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/?amp=1"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/483/17483/7_Eleven_x_Nuro.jpg"
-        width: 752
-        height: 500
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 36
 
 secured: "AO2f3n6P+9AIyQnboUNpds4hF3nedq/YmRwPmWCnJYFuTmkaH1olks1mgQRKRDu0njxusuBk5dvrRqttU2mYM+ACm6Ej97IMv7cwFICa/A6t7N4y/NkOxx14F3Qzdp7Slf6Jfei0Ci+W2mAfuhXRYtMqt6BPbgLSxOSCsZY8Aan35V4/0paWo1rS5OmcWcOhDLXmLTAxCVzX3RjIqHNvx6Uua/c77K222Xg/vDFNiyXEb1ez9aX4PlIquWxdHn9l/o7xEfLtM/ZiQPaHQTV8ijPR57jkElGyWgNrq/RzEHHGuZsXjTm/TAehz1neLQ4NbOEptC/BYXIoLE3eieNFExKE2mpqa98cMvFsl6fiQr4i/unwWNAedIvRWtd5yUqxFjX+K/jWg3xjr/2P/bXKSIHuJk4ZaH4uct63Ip4Hyu/u7f7f3YAWfPuxbio0WcgU/fLcXiZX8Rt30dqn36y5QCL/9V9tfoeiVTpWVtP584TNhOxnFCne5+Mpsb+eoufbse0BdyhytPJCkjQpk4eOYg==;bc2evMGpSz1vcu7qedMejw=="
 ---

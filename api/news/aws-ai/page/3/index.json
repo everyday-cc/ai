@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-16-machine-learning-inference-at-scale-using-aws-serverless.md",
+      "title": "Machine learning inference at scale using AWS serverless",
+      "excerpt": "With the growing adoption of Machine Learning (ML) across industries, there is an increasing demand for faster and easier ways to run ML inference at scale. ML use cases, such as manufacturing defect detection, demand forecasting, fraud surveillance, and many others, involve tens or thousands of datasets,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-scale-using-aws-serverless/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-scale-using-aws-serverless/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/12/Picture1-1000x500-1.png",
+          "width": 1024,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T15:40:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-video-va-transformed-into-race-track-to-showcase-dundee-digital-skills.md",
+      "title": "VIDEO: V&A transformed into race track to showcase Dundee digital skills",
+      "excerpt": "An icon of a desk calendar. An icon of a circle with a diagonal line across. An icon of a block arrow pointing to the right. An icon of a paper envelope. An icon of the Facebook \"f\" mark. An icon ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thecourier.co.uk/fp/news/dundee/2740017/video-va-transformed-into-race-track-to-showcase-dundee-digital-skills/",
+      "originalUrl": "https://www.thecourier.co.uk/fp/news/dundee/2740017/video-va-transformed-into-race-track-to-showcase-dundee-digital-skills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thecourier.co.uk/wp-content/uploads/sites/12/2021/11/KSMI_Perth_Speed_Racer-19_41540986-2uholcjel-scaled-e1637082819668.jpg",
+          "width": 2560,
+          "height": 1536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T09:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Courier",
+        "domain": "thecourier.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-noteable-expands-analytics-tools-for-programming-with-new-21m.md",
       "title": "Noteable expands analytics tools for programming with new $21M",
       "excerpt": "Noteable, a startup developing tools for data analytics and organization, has raised $21 million in venture capital.",
@@ -1352,103 +1448,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-netease-cloud-classroom-introduces-free-aws-digital-training-courses-in-china.md",
-      "title": "NetEase Cloud Classroom Introduces Free AWS Digital Training Courses in China",
-      "excerpt": "NetEase Cloud Classroom, a platform offering online courses mainly targeting adults in China operated by Youdao, Inc. (NYSE: DAO ), announced that it introduced around 100 free-to-use digital training courses offered by Amazon Web Services,",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103106158/NetEase-Cloud-Classroom-Introduces-Free-AWS-Digital-Training-Courses-in-China",
-      "originalUrl": "https://menafn.com/1103106158/NetEase-Cloud-Classroom-Introduces-Free-AWS-Digital-Training-Courses-in-China",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?745608",
-          "width": 374,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T02:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-is-metas-facial-recognition-retreat-another-head-fake.md",
-      "title": "Is Meta’s Facial Recognition Retreat Another Head Fake?",
-      "excerpt": "Facebook, oops, Meta — boy, this is going to take some getting used to — announced this week that it would end its decade-old facial recognition system and delete the face dat",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html",
-      "originalUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/11/04/opinion/04Swisher-image/04Swisher-image-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html",
-      "publishedDateTime": "2021-11-04T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

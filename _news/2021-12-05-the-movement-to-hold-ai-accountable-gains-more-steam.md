@@ -1,13 +1,13 @@
 ---
 category: news
 title: "The movement to hold AI accountable gains more steam"
-excerpt: "Standards for audits and auditors are important because growing calls to regulate AI have led to the creation of a number of auditing startups, some by critics of AI, and others that might be more favorable to the companies they are auditing."
+excerpt: "Now, efforts are underway to better understand how AI works and hold users accountable. New York’s City Council last month adopted a law requiring audits of algorithms used by employers in hiring or promotion."
 publishedDateTime: 2021-12-05T13:10:00Z
-originalUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/2/"
-webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/2/"
+originalUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/?X0g="
+webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/?X0g="
 type: article
-quality: 69
-heat: 79
+quality: 67
+heat: 77
 published: true
 
 provider:
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
   - AI
 
 images:
@@ -39,6 +38,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "0XAh9j+bQI1K/h6acMpqnZFA5BJxbZfpWxqAtKFScWTdAx7lsNYYo1K1SkwWuSOvzY7gmjjKgJ3nQbqGVJzJP+V+rfD2JU6yeni6JGSU8/AdbErmgbmYQA0GqkI/7DscPCqklu1YvqQobOoNb/aI2a7btzfQIR0HPynTtpSUU0h8kesev3xOOgGhobtrPFIe2nZr1K6c3WXPjumA+mKtlR410AaB7bCM1dCoSsUohbuQssU0iU+vRKIw1RzPOR6GigYoH0XmvXsAsumvavcU1XcToPSbnafwtACpjMOfiNfDBTJJ6ztZxkJrdkubF8UonuuV+J8r0c2TBkoHShYmuLJ+Pxn3h6WAH+RyU+pkvLG7pnGxaQWeOUnBhxhDCGyWCLUCGzHFfZ5m30a4kmLFeSsK9LsPeDsFqyPaCskPH/hDjgOba+lPP3xJackjSoRDEDRwhdbZect3JQCDJt5iwe64x+9GJIfRNsmXCq+ee+MqHAHVXhUznhPoSJiKJNA25O61RwgwQWdn197TsyY2Og==;tzEaFwMM9zZfi2Wgsqt9oA=="
+secured: "15bC2VXMOLMWL6WWbjt2oaHUzRneXjjXDTRo2pIXA251m3lJTxyN4riX6vPvaQD3w1oSariDMlJEU5sffoUK3Jc8q/qBHyVnnhKdaDNkRRVj0tH0inTKDQH2qyF9S94KSVnGjOnWXktJJDwOrj6EAeKTNxI/0grY6qMSv5igi/YmnnCxmLdbuMj0QK/caKqb0DjeolzxS/LUQp8eoyoATrX8ChUqtTM9XRemJXKRySgMgbrKYZRQomloBhRxLG4VkQ5xDRRmBqBcHm0y+Hmk+H1lvS/ahxmoZMnhopHGU3/+lHe7C+QxOkNW9zsljv94NPq2xs77QcjCa0u/sz4Dg24ZgBiiZXZh1+CGc3jcfc0=;O2i6ytTqoW5Ie8ycJTVqew=="
 ---
 

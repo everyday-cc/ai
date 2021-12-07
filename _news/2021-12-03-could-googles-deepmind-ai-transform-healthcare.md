@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-a
 webUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
+  - title: "DeepMind & Mathematicians Use AI To Solve The Knot Problem"
+    excerpt: "It is the first time that AI/computer is being used to seek out patterns. Researchers believe that this could benefit other areas of maths that involve large datasets."
+    publishedDateTime: 2021-12-07T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-mathematicians-use-ai-to-solve-the-knot-problem/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/DeepMind_AIM.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "4HOUpUvw0+g77zM0ZGT6A3abE2HdHvr2pknID5kgadS3qXtuYuy3lZrPmiejd60qCGvSOAEJYRXLuh7JebN4+FXZVf9vCh0yxDCdHQi8SHGq2zl0bH9uf2c6U4AJ7lEeJnj1VEQY6oI/oIvulpY0iSuRWtsKlrq9ubWiATDzVP0iPJ+BgXmLm8eNm/5GzDuZmUFq/q63/lZRLtEy6MCW32Ze2iAV88c8atjVr0CzzJPNY+mDMGYP08cZottXLh9O2jxfP89JJJFisnIuYFl2WBy4eS0MqJA8xQFgphaf5abVQIvlfIwmqphK0R6CaXGYI7cvoZx8Wg9fa1S57EbXzF6i3Wa/EdeX6Ua8hSXLESXS+1B6nCRrj193D42fW+hg42Td60p1OyDWimziTOvmZbfO/3cgbI43WUOnzxC2qchFgau1mmHYWaaXqSnFKSnRzPnZsDAuuGhfC+76e4sdVmgG2wTRifVgR272MMaYm9oxOd2uq62FN2r+M5CTyZ5DVXgAdHmq5HKZp/2Ie8cqoA==;mASsMeSneYf/MbiKsvoJFg=="
 ---

@@ -24,22 +24,6 @@ images:
     height: 421
     isCached: true
 
-related:
-  - title: "Future Unicorns in Fintech Report 2021: Analysis of the Top 50 Fintech Startups that have the Potential to Valued at More than US$1 Billion - Research"
-    excerpt: "The \"Future Unicorns in Fintech\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the top 50 Fintech startups that have the potential to become unicorns (valuation more than US$1bn) based on the Unicorn Prediction Model."
-    publishedDateTime: 2021-12-06T15:26:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=582874"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-
 secured: "OJXgkYDK2T6+P7UNm+pn+qqyz0i81DscaBzbek0FdzUoeJSw1/VIOq04V5J6w24LUwcwGzZoq+bM42auxGYb6/Syicq04RxaoKOBpDU5HX3SoF6jyyt0wE/U6kdNQMiyO2a3VYYfg9XH18zp5tyPmfpY3MmKgPCl1gRkN7iu49IyR3lTqpsmJfVQWqH0tXsnrz5wdhTsfDQF/h7NyDrMZrIlbWOqHV2EPlOKYTxJ5dKRtKuj1ik2j14oyO6UWrZeY7aOZWwrVwlbpNNgifra+LmQkoHyvey4AWKcEP9YZuOuEf2vZ+kg5WX1OfrDymYOgcKhwg5E7vTaTJxkLxAvbThPbE9DMsRpiMCPjT0VIts=;AbqPLQS2kH2PQYQfW8l2jw=="
 ---
 

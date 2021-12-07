@@ -1,23 +1,26 @@
 ---
 category: news
 title: "African Leadership Group Leverages AWS to Power New Recruitment Platform for Hiring Diverse Top Talent"
-excerpt: "TRIP will use a Data Lake built on Amazon Simple Storage Service (Amazon S3), containerized microservices using AWS Fargate, and Amazon SageMaker for Artificial Intelligence (AI) and Machine ..."
-publishedDateTime: 2021-12-01T19:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/african-leadership-group-leverages-aws-to-power-new-recruitment-platform-for-hiring-diverse-top-talent-301433313.html"
-webUrl: "https://www.prnewswire.com/news-releases/african-leadership-group-leverages-aws-to-power-new-recruitment-platform-for-hiring-diverse-top-talent-301433313.html"
+excerpt: "African Leadership Group (ALG) today announced a commitment to create a scalable solution for connecting highly skilled, diverse global talent to in-demand technical careers. ALG’s mission is to transform Africa by identifying,"
+publishedDateTime: 2021-12-01T19:01:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-africa-87be3211f7192fb18fdedd4d985401bb"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-africa-87be3211f7192fb18fdedd4d985401bb"
 type: article
-quality: 3
-heat: 3
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "R3/PVAMo76O6xgVygMtw66DqTOxQ2LNNZjQKKE4yDEdxtlwNVUr683912ot7q9ihc84DFFEk3B37T4P5hfWJeQ+qTZZq7nPIZ8sDYqkmA64DVpKiC97hDEanFv+NqAx0F1L+ws9e1/X+H5wRIJzaOsKboa3/QdA9utzDB7uqpH2PagGo0MFGF8CMbpHo4Prea7OhezQDw6uJ3J2p5epN7OgKqiho14Xbpge8+2CpMYnvJ1ur/CYk935aboq1AQf6SwIDs3zJCqZ2fV/lAVsmPUf15JD1CLEwANkzn96DCb9QMMfxAZJdLxkSLZYReJ2hZ3XmFJvmueKHywdVV3IYJxZdOlzSVz2dj8bUS+iBQX0=;W94A+s1CfqFXKgyEyFCJcg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "j297VDWB8NFvLvHnYT7aWiTP3SESQjn+NP0wV4IyOjCkIK/HIeyAT/mXRTI2C4r7KvXLimzspTQ4FDRq5Jr+PbR/seOlJgCo7aq9sv3yn9exTbXmPGmYbpTlZiEAlCWJ0IOiY8+M0dfHMNJloqg1ECKeW9N2pzbx2Pqkug+ZPlF+rGZhddEhrTaI4VidxjSRhszAbIslc6gSd+6tPWU/Gr50Gn7znBlQFcvzY+qn63SxOmvqjNLubtdBHuYqhzUi7OPQ/Ge2EJLVYhxDVbFLPYDhWpJfJbd1OdjUsBMz9kbPk346Py0WQONEh7tb1YF1EXjgEjuFrGyyjJvXpqXPThEI//09GgIYqsG+cGWECo0=;sz4iQmY40UVbz8u4ld/FZA=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-07-supercomputers-in-enterprise-ai.md",
+      "title": "Supercomputers in enterprise AI",
+      "excerpt": "Forward-thinking enterprises across the globe have recognised that the future of business success will depend on their ability to leverage AI, says Werner Coetzee, business development executive at Data Sciences Corporation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/KBpdg7pzLYpqLEew",
+      "originalUrl": "https://www.itweb.co.za/content/KBpdg7pzLYpqLEew",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/BJFxvhrDx3sZxTSGmFHjB5LNK62QzeUk8EApFSryBUvShvg3N4WOQ5yhpHPIrEUQjIFJ03Sjv8jr6GqeOyqRy3AHhQlCV0lVl9wVoQ=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew",
+      "publishedDateTime": "2021-12-06T22:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers.md",
       "title": "‘As always’: Elon Musk tweets on recent Tesla hiring for AI engineers",
       "excerpt": "US-based electric vehicle company Tesla is hiring AI engineers who are passionate about solving day-to-day problems through artificial intelligence.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.businesstoday.in/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -100,49 +144,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-06-chip-shortage-to-ease-next-year-says-qualcomm-chief-executive.md",
-      "title": "Chip shortage to ease next year, says Qualcomm chief executive",
-      "excerpt": "Multiple smartphone makers could not procure enough processors from Qualcomm which affected their production, the report said. Samsung was no exception, as its mobile chief TM Roh and procurement executives visiting the US mid-year to meet with chip companies to secure more supply,",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206",
-      "originalUrl": "https://www.iol.co.za/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/650x366/Amid-the-global-chip-shortage-Qualcomm-chief-executive-Cristiano-Amon-said-the-shortage-is-gradually-easing-and-the-situation-is-expected-to-improve-next-year-Photo-Mike-Blake?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/35939b5b-f57d-532b-ac89-826713250ff7&operation=CROP&offset=0x115&resize=789x444",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206",
-      "publishedDateTime": "2021-12-05T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-04-top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021.md",
       "title": "Top 12 AI and machine learning announcements at AWS re:Invent 2021",
       "excerpt": "Invent 2021 conference, Amazon announced a slew of new Amazon Web Services features powered by AI and machine learning.",
@@ -151,7 +152,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 195,
       "tags": null,
       "images": [
         {

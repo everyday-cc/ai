@@ -25,78 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Meta picks AWS to help expand its AI services"
-    excerpt: "Meta, the parent company of Facebook, said it will use AWS services to \"complement\" its on-premise infrastructure and also broaden its use of AWS compute, storage and security ser"
-    publishedDateTime: 2021-12-02T13:10:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai"
-    ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp"
+  - title: "Amazon (AMZN) Expands Cloud Offerings With AWS Cloud WAN"
+    excerpt: "AWS unveils a service, namely AWS Cloud WAN, which aids in seamless development, management, operation and monitoring of a global network with the help of a central dashboard."
+    publishedDateTime: 2021-12-06T14:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/400893"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 106
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 71
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638449640/itpro/pytorch_meta_aws_GettyImages-1236945622.jpg"
-        width: 1260
-        height: 710
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-400893.jpeg"
+        width: 635
+        height: 400
         isCached: true
-  - title: "AWS updates databases, AI and serverless offerings"
-    excerpt: "Invent, AWS unveiled updates to database, machine learning and serverless offerings designed to reduce complexity and cost."
-    publishedDateTime: 2021-12-05T10:10:00Z
-    webUrl: "https://www.arnnet.com.au/article/693681/aws-updates-databases-ai-serverless-offerings/"
+  - title: "Amazon (AMZN) Boosts AWS Offerings With Database Capabilities"
+    excerpt: "AWS's recent introduction of three database features to ... Zacks' Top Picks to Cash in on Artificial Intelligence In 2021, this world-changing technology is projected to generate $327.5 billion in revenue. Now Shark Tank star and billionaire investor ..."
+    publishedDateTime: 2021-12-03T12:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-offerings-with-database-capabilities"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-offerings-with-database-capabilities?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-aws-offerings-with-database-capabilities?amp"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 56
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/swami_sivasubramanian_aws_1.jpg"
-        width: 504
-        height: 315
-        isCached: true
-  - title: "Meta Picks AWS as Strategic AI Cloud Provider"
-    excerpt: "Amazon Web Services has announced that Meta (formerly Facebook) has deepened its relationship with AWS as a strategic cloud provider, using AWS’s cloud infrastructure to complement its on-premises infrastructure,"
-    publishedDateTime: 2021-12-06T21:00:00Z
-    webUrl: "https://insidehpc.com/2021/12/meta-picks-aws-as-strategic-ai-cloud-provider/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 56
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2021/12/Meta-logo.png"
-        width: 340
-        height: 283
-        isCached: true
-  - title: "Meta Selects AWS as a ‘Key’ Cloud Provider"
-    excerpt: "Meta is deepening its relationship with AWS as a “key” and “long-term” strategic cloud provider. See more here:"
-    publishedDateTime: 2021-12-06T02:44:00Z
-    webUrl: "https://www.datamation.com/cloud/meta-selects-aws-key-cloud-provider/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/AWS-logo.png"
-        width: 1400
-        height: 840
-        isCached: true
-  - title: "Meta/Facebook turns to AWS as \"long-term strategic cloud provider\" for acquisitions, third-party collaborations, and AI"
-    excerpt: "Meta said that it will run third-party collaborations in AWS and use the cloud to support acquisitions of companies that are already powered by AWS. It will also use AWS’s compu"
-    publishedDateTime: 2021-12-03T11:41:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/metafacebook-turns-to-aws-as-long-term-strategic-cloud-provider-for-acquisitions-third-party-collaborations-and-ai/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 34
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Mark_Zuckerberg_Gets_Meta.2e16d0ba.fill-1200x630.png"
-        width: 730
-        height: 383
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "igqxsNtsyAH22Ht/ubwObk7NBHcy4qLT6eC39AJyCMTd7+aT5tfmdspY9rdgoHxT3zhPAmfrlNQmcaEDMqfau3roAdqwJKU7V1tSbB9icvp5fSEF4o2pnYWAc2GkZtD/HV1WMrQEIBBOSOD3TH0Oks0LTJrksf6BMczvREsC3oCRQCkV+4M8wJGnZfBBNQ6VHqZuLJw1ZGOpmFxH6VhpIfwIDNBgyoLyHZbnyFOksi/aFe9zSAQ9XI1KGM82ksCJnG0vyWlhDv4tT1m/i6exAC/MJtD4ThM/x/vohxPEqkTPbXDdSNkX6hn3aVYin/ZQK3eP3HvYWT5JBm/IIgZBt4hO0TyKl3vTm0hNUPO7rheG6YZ0ZDRT5NlFb1WRboX7ERKr+VJ2ZhYNWZ7tOo1/knLSjY1MkFo6sel2I0yafv8S/JEKlRbbDYp8kqMN0LXX6jrHLGIiZ8ZsMYCvktxGrEMf3f58tcNMkDLDWcwhloir4pe/K51ZtUsilW6E7tahjGt0uMkOXeljRI+yORXavg==;XMG9PkUD/WpbbrqFGNZbUg=="
 ---

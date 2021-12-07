@@ -57,20 +57,6 @@ related:
         width: 1075
         height: 624
         isCached: true
-  - title: "New AI method makes self-driving vehicles better drivers"
-    excerpt: "In traffic, humans are used to constantly anticipating what will happen next. This reasoning ability is something that today's self-driving vehicles and AI systems in general are lacking. In a recent study,"
-    publishedDateTime: 2021-12-02T14:28:00Z
-    webUrl: "https://techxplore.com/news/2021-12-ai-method-self-driving-vehicles-drivers.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-method-makes-se.jpg"
-        width: 2522
-        height: 1545
-        isCached: true
   - title: "Self-driving cars of the Bay Area"
     excerpt: "I just came back from a long-overdue trip to the Bay Area. It was great to catch up with old friends and make new ones."
     publishedDateTime: 2021-12-04T20:53:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mos.ru/amp/en/news/item/99657073/"
 cdnAmpWebUrl: "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/99657073/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning may help identify people at risk of thoracic aortic aneurysm"
-    excerpt: "An abnormally enlarged aorta—also called aortic aneurysm—can tear or rupture and cause sudden cardiac death. Unfortunately, patients often show no signs or symptoms before the aorta, which carries blood from the heart to the rest of the body,"
-    publishedDateTime: 2021-12-02T14:59:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-machine-people-thoracic-aortic-aneurysm.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-people-thoracic-aortic-aneurysm.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-people-thoracic-aortic-aneurysm.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-may-h.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Machine Learning Used to Determine Risk of Thoracic Aortic Aneurysm"
     excerpt: "Enlargement or aneurysm of the aorta predisposes to dissection, an important cause of sudden death. A team led by investigators at Massachusetts General Hospital (MGH) recently used a type of artificial intelligence called deep learning to uncover insights into the genetic basis for variation in the aorta’s size."
     publishedDateTime: 2021-12-06T12:00:00Z
@@ -67,6 +51,6 @@ related:
       domain: eurekalert.org
     quality: 16
 
-secured: "kuWexzWIrXamL1Wm3tFG/lw2aTKrru5lkPVqi14cB6wf9BwvwcpMATOuOfTNnjOUKEPMJAU956LLkdIA0gvshHapmvH0Mzy2wOBo3se1zTeTFm1jPRqj8wGfYuwKdCNKBhkrVoAEns2sPzGDLuye+lUQnMb5ivTPS/O5gwdzHDsdXI636f456J3Z34WBhZEBo8X06DutfeCmJGdDl4u8DCVHlnC+bey1XVanM3pSZCC0cgEOW6eU7KULUBHrPrr08E1P5qeQD7/5z3P/PToKkwPWzRhEoOXUsliQ6PiNA606sImMhZj37hobVkGuG0VQBzdjOUJoGK+egQoPdVkvDmEu25i8RBWqkDYcW2DfrQs=;ZYJSI7Zzgp/lGiuUECNZMQ=="
+secured: "HD0gCjpwq+qe/Kqb26hcNKv+59Sl1tGS1rZtUKXZq4CrXjV5QGM4AaYUqin8wHuNlxFrvnxOkhQ69KT9g6kjodx4Ht9sqYCUls0tonug5s2luYMJQXRIpadJg+ybGLU+b5pRH/6yCPyIFdD7EbL4Peu98AJWljeZE2Djc+iMuOrYh2cnspF5rXCw//yX8J7yE8NV5TKMdAsnMjMH1+MHfOF4JSChNYGWBDcPuNnR9cRMvP74pG560e3cxKopfTv4WDx8gc2LwzEF0BX5K1VvwvpMwOeCiCOKCTqEVAnLrQMrA9ezqwHhF64MqLCOOcXYZpTdQT+i0onUpBf6x4ovzlSQsoqjmTulZKfCjnxkhGuKsoXuAXmzMy7LRNAM3oNORSFh4br0GVpnnbDGljx/Fm6oG+QswDhjfO57B9B4Zx2YpkbA+Wa2s+Xe34StUhVs8F1bd7ByyYWKATtwwIMT1ie6Opg6lt0uj1GMZFKlUo2fiXFWXa02ml9Z/QxBIMiEAAHb1Wtn48GbBDmcuIdJCg==;TD9AI2R3OgT40YblV4XTRw=="
 ---
 

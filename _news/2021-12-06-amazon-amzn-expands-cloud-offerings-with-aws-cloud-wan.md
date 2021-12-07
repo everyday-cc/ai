@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/400893"
 webUrl: "https://www.entrepreneur.com/article/400893"
 type: article
 quality: 71
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Discovery sticks with AWS for cloud services"
+    excerpt: "Discovery has extended its use of AWS for cloud services. The broadcaster uses AWS’ tech for the infrastructure carrying its discovery+ platform, digital services, and over 450 linear channels around the globe."
+    publishedDateTime: 2021-12-03T09:50:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech/discovery-sticks-with-aws-for-cloud-services/5165717.article"
+    type: article
+    provider:
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 39
+    images:
+      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/0/8/6/1359086_discoverymultidevicelockupimage_764460.jpg"
+        width: 1024
+        height: 536
+        isCached: true
 
 secured: "ua94B4ZXA5xCKCSgQiMMYJbR7tzDKz5Du4EgYre5JLknGKqNAArjTEfoO0/+O87SgZnk/e5AiabqXeRLqB1BBNIGUyb2W5BJqLQnmYEwlCbcNXgcj2zDnE6uJxprtgp61AmmRUom/xt1iR4XWrsNUWkVxKftFIEh66+LJAlMyl+rQ/A2mYvZWUjFjwalDJnw4Eo9QOj10aeMZpvoCxZ8dzgnTCm9ikkkHbjL+hD1cjB5GbWO/RV7z1fG/8JQNjEbTVWreux/alvcmpfvTIR85VBbpmpmz+Mr2kVemApEuEvRbALZzHPUj6g62pVm6Qm89sjEK529Z2BM6L904ScZRQbssKfusbVTYXNW0cbebi0=;nRV1Him2qA9yCKsCQMi39A=="
 ---

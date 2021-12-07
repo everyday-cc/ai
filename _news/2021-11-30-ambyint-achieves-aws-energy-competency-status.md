@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Ambyint Achieves AWS Energy Competency Status"
-excerpt: "Ambyint artificial lift optimization technologies help accelerate customers' digital transformations Ambyint, a production and artificial lift optimization solutions"
-publishedDateTime: 2021-11-30T13:37:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status"
-ampWebUrl: "https://www.benzinga.com/amp/content/24358439"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24358439"
+excerpt: "Ambyint, a production and artificial lift optimization solutions provider, today announced that it has achieved Amazon Web Services (AWS) Energy Competency status. This designation recognizes that Ambyint has demonstrated deep expertise and technical proficiency helping customers leverage AWS cloud technology to transform complex systems and provides energy customers the ability to more easily select skilled partners to accelerate their digital transition to a sustainable energy future with confidence."
+publishedDateTime: 2021-11-30T13:38:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
+    width: 350
+    height: 456
     isCached: true
 
-secured: "+OwlwGApii6J65uT8GlA16+IkhIATr9a3h5SwXG9IDNLpf3691AxZHecQvgiZGeWvD8FBWSxldUCXz28fDbqO0ag7ByLJQNhUkS/OeVVhkNb7/nIF2XG4xdIaV2uZL9EzcliN+BTjwjEJeCYXFqbLSvDA0cn8SiIR2it4jhJJYT46LorAOWfteyoBnpYHLXRa2LE2Nu2/wf4YjSJaNJqFJJZjFD+0YxNI0+hCvJ9f5i2Q8pdj7v43j5kG/dpvH/M3KSLuEFFN0mYGtBhYxIv0B2N4v7BUeRGHhY+HJsBDGFAijH4bdVf+deMtsUCWU/i4vV7n9TQi4iCUkNsIFGjfhwCzO+N/5wz1+ZwtGNt0Zs=;318OrglmW8i1lxhojz5fig=="
+secured: "Evw3Ud/7+8TjoUOextZNO7fiQyAAnad1nDamuPwTXevfS9+qnDG6SW4j3+qcRTiUEkCJhSjjWxcQO2wl2iAgfa9GOZ+0hQR/03Z7BZL4lEFLWeoPQWZvT6lMjdzA2jnrFboCiQWqS/0asMEiaD3/2ZlM5aapAt3BwhrnPHvDat+cyOCB8a2paeS24O9+/8ribcHCREiOHW9WKa3Wv0yNSpbQFjBeo1II2B8bfe+MuU9bzkfdFB7CQiTLF9FfRsEhpNB5C07yXXWQ3DxNYq+hu2eJYD0kPRx1tjBcE9dkx09vngTtFkMD6CFyleUlo2njrrw8qs/Wau8KPP55BU1gyP1ruTRGfH9AAfsB6m/9bCE=;FZJs0Zf8DBXu+UaUnqb+8Q=="
 ---
 

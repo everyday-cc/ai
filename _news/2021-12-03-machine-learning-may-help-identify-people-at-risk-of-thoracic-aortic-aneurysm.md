@@ -35,22 +35,6 @@ related:
         width: 1600
         height: 800
         isCached: true
-  - title: "Machine learning may help identify people at risk of thoracic aortic aneurysm"
-    excerpt: "An abnormally enlarged aorta—also called aortic aneurysm—can tear or rupture and cause sudden cardiac death. Unfortunately, patients often show no signs or symptoms before the aorta, which carries blood from the heart to the rest of the body,"
-    publishedDateTime: 2021-12-02T14:59:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-machine-people-thoracic-aortic-aneurysm.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-people-thoracic-aortic-aneurysm.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-people-thoracic-aortic-aneurysm.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-may-h.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Machine Learning Used to Determine Risk of Thoracic Aortic Aneurysm"
     excerpt: "Enlargement or aneurysm of the aorta predisposes to dissection, an important cause of sudden death. A team led by investigators at Massachusetts General Hospital (MGH) recently used a type of artificial intelligence called deep learning to uncover insights into the genetic basis for variation in the aorta’s size."
     publishedDateTime: 2021-12-06T12:00:00Z

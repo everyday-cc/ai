@@ -9,8 +9,8 @@ ampWebUrl: "https://www.iol.co.za/amp/technology/chip-shortage-to-ease-next-year
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/chip-shortage-to-ease-next-year-says-qualcomm-chief-executive-cbb5421d-bf20-5b23-8f2e-6ff0a9b37206"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: IOL News
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm Announced the Chip That’ll Power Almost Every Android Flagship in 2022"
-    excerpt: "Qualcomm has just announced the ARM chip that will power most of next year’s high-end Android phones. The rumored 898 model number isn’t happening, though. Qualcomm has changed its naming scheme with the latest flagship chip,"
-    publishedDateTime: 2021-12-02T13:26:00Z
-    webUrl: "https://www.extremetech.com/mobile/329418-qualcomm-announced-the-chip-thatll-power-almost-every-android-flagship-in-2022"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 35
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/12/Snapdragon_8_Gen_1_Chip-640x353.jpg"
-        width: 640
-        height: 353
-        isCached: true
   - title: "Chip shortage to ease next year, says Qualcomm CEO"
     excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the situation is expected to improve next year. According to The Elec website, Amon said that supply has improved this year over 2020 and the situation is expected to further improve in 2022,"
     publishedDateTime: 2021-12-05T11:26:00Z

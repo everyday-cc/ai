@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/amp/"
 type: article
 quality: 55
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.electronicsforu.com/wp-contents/uploads/2019/06/Waymo-the-first-commercial-self-driving-car.jpg"
         width: 1075
         height: 624
-        isCached: true
-  - title: "New AI method makes self-driving vehicles better drivers"
-    excerpt: "In traffic, humans are used to constantly anticipating what will happen next. This reasoning ability is something that today's self-driving vehicles and AI systems in general are lacking. In a recent study,"
-    publishedDateTime: 2021-12-02T14:28:00Z
-    webUrl: "https://techxplore.com/news/2021-12-ai-method-self-driving-vehicles-drivers.html"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/new-ai-method-makes-se.jpg"
-        width: 2522
-        height: 1545
         isCached: true
   - title: "Fishers Is Next Proving Ground for Self-Driving Car Service"
     excerpt: "After a trial run in Indianapolis this summer, a self-driving car service is coming to Fishers. The five-month pilot project begins December 20 and will continue into May. You’ll be able to use an"

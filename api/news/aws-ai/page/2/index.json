@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-30-aig-selects-aws-as-its-preferred-public-cloud-provider.md",
+      "title": "AIG Selects AWS as Its Preferred Public Cloud Provider",
+      "excerpt": "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/aig-selects-aws-as-its-preferred-public-cloud-provider/article_c96951bd-e934-57b8-96e3-44949a16071e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.cnhionline.com/ksherman/images/rtj_ad.gif",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation.md",
+      "title": "Beyond the migration: Accenture and AWS expand partnership to support continuous cloud innovation",
+      "excerpt": "Five-year extension also includes training to help clients understand and implement cloud capabilities more quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
+      "originalUrl": "https://www.techrepublic.com/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/27/06823878-e36c-485b-a5ef-0f779b1e98f8/resize/1200x/ef0d165740f66078f83f197b32b4039e/gettyimages-da-kuk.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/beyond-the-migration-accenture-and-aws-expand-partnership-to-support-continuous-cloud-innovation/",
+      "publishedDateTime": "2021-11-29T15:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-how-hiya-taps-ai-to-kill-phone-spam.md",
       "title": "How Hiya taps AI to kill phone spam",
       "excerpt": "The company claims its new adaptive AI is much more effective than conventional tactics that only react to known numbers for phone spam.",
@@ -1289,102 +1384,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-machine-learning-inference-at-scale-using-aws-serverless.md",
-      "title": "Machine learning inference at scale using AWS serverless",
-      "excerpt": "With the growing adoption of Machine Learning (ML) across industries, there is an increasing demand for faster and easier ways to run ML inference at scale. ML use cases, such as manufacturing defect detection, demand forecasting, fraud surveillance, and many others, involve tens or thousands of datasets,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-scale-using-aws-serverless/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-scale-using-aws-serverless/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/12/Picture1-1000x500-1.png",
-          "width": 1024,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T15:40:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-video-va-transformed-into-race-track-to-showcase-dundee-digital-skills.md",
-      "title": "VIDEO: V&A transformed into race track to showcase Dundee digital skills",
-      "excerpt": "An icon of a desk calendar. An icon of a circle with a diagonal line across. An icon of a block arrow pointing to the right. An icon of a paper envelope. An icon of the Facebook \"f\" mark. An icon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thecourier.co.uk/fp/news/dundee/2740017/video-va-transformed-into-race-track-to-showcase-dundee-digital-skills/",
-      "originalUrl": "https://www.thecourier.co.uk/fp/news/dundee/2740017/video-va-transformed-into-race-track-to-showcase-dundee-digital-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thecourier.co.uk/wp-content/uploads/sites/12/2021/11/KSMI_Perth_Speed_Racer-19_41540986-2uholcjel-scaled-e1637082819668.jpg",
-          "width": 2560,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T09:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Courier",
-        "domain": "thecourier.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

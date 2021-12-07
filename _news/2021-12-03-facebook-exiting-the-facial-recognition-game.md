@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2019/1/3/face-facial-recognition-software-system-computer-shut.jpg"
         width: 760
         height: 443
-        isCached: true
-  - title: "These 4 Airports To Have Facial Recognition-Based Boarding By March 2022"
-    excerpt: "The Airports Authority of India (AAI) was working on the country's first facial recognition technology-based biometric boarding system for passengers at Varanasi, Pune, Kolkata and Vijayawada airports,"
-    publishedDateTime: 2021-12-02T13:35:00Z
-    webUrl: "https://www.ndtv.com/india-news/these-4-airports-to-have-facial-recognition-based-boarding-by-march-2022-2634514"
-    ampWebUrl: "https://www.ndtv.com/india-news/these-4-airports-to-have-facial-recognition-based-boarding-by-march-2022-2634514/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/these-4-airports-to-have-facial-recognition-based-boarding-by-march-2022-2634514/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 73
-    images:
-      - url: "https://c.ndtvimg.com/2019-05/soicn89g_airport-generic_625x300_10_May_19.jpg"
-        width: 650
-        height: 400
         isCached: true
   - title: "NEC to introduce facial recognition vaccination check system"
     excerpt: "Japan's NEC Corp. will start the full-scale introduction of a vaccination certification system for COVID-19 based on facial recogniti"

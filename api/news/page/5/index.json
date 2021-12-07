@@ -2,6 +2,189 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-02-citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit.md",
+      "title": "CITIC Press Group, Sina Finance Host Inaugural ESG Global Leaders Summit",
+      "excerpt": "Human society is now in a stage of rapid development amid all manner of uncertainties. On the one hand, state-of-the-art technologies such",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/n24399301/citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/n24399301/citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24399301",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24399301",
+      "publishedDateTime": "2021-12-02T00:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-introduces-new-features-to-make-ml-more-accessible.md",
+      "title": "AWS introduces new features to make ML more accessible",
+      "excerpt": "Amazon Web Services (AWS) has announced a slew of features and services to make technologies like machine learning more accessible and cost-effective,..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st.etb2bimg.com/Themes/Release/images/responsive/etcio-logo-400x400.jpg",
+          "width": 850,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233",
+      "publishedDateTime": "2021-12-01T23:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-qualcomm-ditches-tsmc-lets-samsung-produce-new-chips.md",
+      "title": "Qualcomm ditches TSMC, lets Samsung produce new chips",
+      "excerpt": "But some officials said that behind Qualcomm's selection of Samsung in the latest deal is TSMC's accelerated focus on making customized chips for Apple. Samsung's foundry service unit is said to have lost its status as a leading foundry service provider for the production of Nvidia's next-generation graphic processing unit (GPU) chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/12/129_319858.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/12/129_319858.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202112/57726f6325e54003b0e20662c879ec92.jpg",
+          "width": 980,
+          "height": 524,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=319858",
+      "publishedDateTime": "2021-12-01T22:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Size | Opportunity Analysis Report by 2026",
+      "excerpt": "Artificial Intelligence Chipsets Market size is set to surpass USD 70 billion by 2026, according to a new research report by Global Market Insights, Inc. The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026-2021-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026-2021-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T19:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning.md",
       "title": "AWS wants to make it easier to get to grips with machine learning",
       "excerpt": "Getting to grips with Machine Learning (ML) technology could soon be much easier thanks to a new service from Amazon Web Services. The company has launched Amazon SageMaker Studio Lab, a free, no ...",
@@ -884,6 +1067,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-02-african-leadership-group-leverages-aws-to-power-new-recruitment-platform-for-hiring-diverse-top-talent.md",
+      "title": "African Leadership Group Leverages AWS to Power New Recruitment Platform for Hiring Diverse Top Talent",
+      "excerpt": "African Leadership Group (ALG) today announced a commitment to create a scalable solution for connecting highly skilled, diverse global talent to in-demand technical careers. ALG’s mission is to transform Africa by identifying,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-business-africa-87be3211f7192fb18fdedd4d985401bb",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-business-africa-87be3211f7192fb18fdedd4d985401bb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
       "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
       "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology.",
@@ -969,241 +1195,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-expedite-conversation-design-with-the-automated-chatbot-designer-in-amazon-lex.md",
-      "title": "Expedite conversation design with the automated chatbot designer in Amazon Lex",
-      "excerpt": "Today, we’re launching the Amazon Lex automated chatbot designer (preview), which reduces the time and effort it takes for customers to design a chatbot by automating the process using existing conversation transcripts. Amazon Lex helps you build, test, and deploy chatbots and virtual assistants on contact",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-conversation-design-with-the-automated-chatbot-designer-in-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-conversation-design-with-the-automated-chatbot-designer-in-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-adt-commercial-introduces-humanoid-robotics-to-security-industry.md",
-      "title": "ADT Commercial introduces humanoid robotics to security industry",
-      "excerpt": "DALLAS—ADT Commercial prides itself on delivering innovative commercial security, fire, life safety and risk consulting solutions for its customer base throughout the United States. That focus on",
-      "sourceUrl": null,
-      "webUrl": "https://www.securitysystemsnews.com/article/adt-commercial-introduces-humanoid-robotics-to-security-industry",
-      "originalUrl": "https://www.securitysystemsnews.com/article/adt-commercial-introduces-humanoid-robotics-to-security-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securitysystemsnews.com/uploads/blog/968733cf011da9e33bf470bf2926d7d8.jpg",
-          "width": 260,
-          "height": 260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Systems News",
-        "domain": "securitysystemsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-mlcommons-releases-mlperf-training-v11-ai-benchmarks.md",
-      "title": "MLCommons Releases MLPerf Training v1.1 AI Benchmarks",
-      "excerpt": "Today, MLCommons, the open engineering consortium, released new results for MLPerf Training v1.1, the organization’s machine learning training performance benchmark suite. MLPerf Training measures the time it takes to train machine learning models to a standard quality target in a variety of tasks including  image classification,",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/12/mlcommons-releases-mlperf-training-v1-1-ai-benchmarks/",
-      "originalUrl": "https://insidehpc.com/2021/12/mlcommons-releases-mlperf-training-v1-1-ai-benchmarks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/10/MLPerf-logo-1020.png",
-          "width": 500,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-ai-proves-a-dab-hand-at-pure-mathematics-and-protein-hallucination.md",
-      "title": "AI proves a dab hand at pure mathematics and protein hallucination",
-      "excerpt": "One of the reasons artificial intelligence is such an interesting field is that pretty much no one knows what it might turn out to be good at. Two papers by leading labs published in the journal Nature today show that machine learning can be applied to tasks as technically demanding as protein",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/",
-      "originalUrl": "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/AI-for-Maths-blog-artwork.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/01/ai-does-pure-mathematics-and-protein-hallucination/amp/",
-      "publishedDateTime": "2021-12-01T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a.md",
-      "title": "SVT Robotics to conduct multi-robot orchestration with $25M series A",
-      "excerpt": "According to Gartner, multi-robot orchestration has only penetrated 1%-5% of its total target audience and will become necessary as companies begin deploying more than one robotics technology within their operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a",
-      "originalUrl": "https://www.freightwaves.com/news/svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/12/23792921344_1e679eb568_k.jpg",
-          "width": 2047,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a/amp",
-      "publishedDateTime": "2021-12-01T09:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesstoday.in/amp/trending/story/as-always-elon-musk-
 cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 990
         height: 550
         isCached: true
+  - title: "Tesla looking for AI engineers who can solve problems affecting people’s lives"
+    excerpt: "As always, Tesla is looking for hardcore AI engineers who care about solving problems that directly affect people’s lives in a major way. — Elon Musk (@"
+    publishedDateTime: 2021-12-07T05:48:00Z
+    webUrl: "https://techstory.in/tesla-looking-for-ai-engineers-who-can-solve-problems-affecting-peoples-lives/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 32
 
 secured: "dtLXNNkudrG8Q0MRIkgFriVdtgH10JQPKRkfoJJI/EAIIAdfAwqVG+MRLO6gJoalWKVbT4Jn74SOlhMufjXgoNJd4xUw1S4tUs24wT2DSLcL8x9V0NB7Vwb1mvtXE7KqBq1vRnfOllvMGlzfkUSsoHAg/nRlCY+r7qxQ9FaAxJrlnRJczqm4/uL7ZvZuCz6hLJzGbkuLU9a20KAACN3t9UJbczY3tVBAkyqS1b4gSMlsJAd4JA88+gRWjOzJj3+KkBxRDRhRGRiTSGTjMXtEyuXmfORGzuj9t776inWsZREJioiflvG9bFrrT4wsbz8Nn3MIXyyCovTsrz2/8ZSmaMnbQKlDSdQkIDWGEhodSBI=;WUShg6VnUOkwf5nWq6eE5g=="
 ---

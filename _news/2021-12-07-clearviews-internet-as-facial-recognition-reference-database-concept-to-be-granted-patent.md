@@ -151,20 +151,6 @@ related:
         width: 1500
         height: 860
         isCached: true
-  - title: "Consecutive NIST Tests Confirm Superiority of Clearview AI's Facial Recognition Platform"
-    excerpt: "Clearview AI’s facial recognition algorithm again ranks No. 1 in U.S. – tops in 1:N and 1:1 Facial Recognition Vendor Tests (FRVT)."
-    publishedDateTime: 2021-12-02T13:26:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/press-release/21248663/clearview-ai-consecutive-nist-tests-confirm-superiority-of-clearview-ais-facial-recognition-platform"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 45
-    images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/12/16x9/clearviewai.61a8c7950357f.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "LUrjAwVZ2WcGNXUqasFm1ew9gczX09NPcbx6T3iTHxD11+kv9I0bYRWHL6/mBjkstjPCH8sEsTeZRgOCIPv/F0hZuA+ItwCmT9xwdmaOVGYIhDjLRh04jJvGRGRQdPPPR5rkd5eQ3/357vcYKv2zRZ7WiZzSXYRTMiPI91XvcqzbeCBozTM5iSQO1vbKxjPzkiVSHu5nNvZDOhMXjVPJGjC09hPo2LJUDyHXrZTJkdjWH7T4YYt0wsmG6mNn4PPDz/ygNC8+YoNBU299nWhwTAEyI5p75cmNoK7bytM6hmNkosRuvETi39XMCdeC0+S/ki1+cRYSgMevqvDQ5MWrA+7kv7STOFnwREVUERyP6Lo=;iqnF1zMzMJkylEE2O6ygcw=="
 ---

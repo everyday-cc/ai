@@ -2,6 +2,239 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-11-18-protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Protegrity Data Protection Platform and Cloud Protect for Snowflake Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Protegrity, a global leader in data security, today announced the availability of the Protegrity Data Protection Platform and Cloud Protect for Snowflake in the Microsoft Azure Marketplace, an online store providing applications and services for use on Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace/",
+      "originalUrl": "https://www.financialbuzz.com/protegrity-data-protection-platform-and-cloud-protect-for-snowflake-now-available-in-the-microsoft-azure-marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-radical-transparency-what-healthcare-can-learn-from-fintech.md",
+      "title": "Radical Transparency: What Healthcare Can Learn From Fintech",
+      "excerpt": "With the line between healthtech and fintech increasingly blurring, it’s high time for the healthcare industry to find ways to deliver a better consumer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61950aa37300a4ab02b17a66%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/18/radical-transparency-what-healthcare-can-learn-from-fintech/amp/",
+      "publishedDateTime": "2021-11-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-swishai-raises-13m-to-automate-it-service-desk-tasks.md",
+      "title": "Swish.ai raises $13M to automate IT service desk tasks",
+      "excerpt": "Swish, a startup developing a platform to automate IT service tasks using AI, has raised $13 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/",
+      "originalUrl": "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-1125283214-e1623872146321.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/18/swish-ai-raises-13m-to-automate-it-service-desk-tasks/amp/",
+      "publishedDateTime": "2021-11-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out.md",
+      "title": "Do AI-powered lending algorithms silently discriminate? This initiative aims to find out",
+      "excerpt": "The first is that leaving a lending decision to an algorithm mitigates the bias that can come with human judgement. The second is that these algorithms have the power to spot good credit risks because they can suck in and process so much more data about an applicant than traditional formulas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
+      "originalUrl": "https://www.marketwatch.com/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-436779/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/do-ai-powered-lending-algorithms-silently-discriminate-this-initiative-aims-to-find-out-11637246524",
+      "publishedDateTime": "2021-11-18T05:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-18-a-new-direction-for-artificial-neural-networks.md",
+      "title": "A new direction for artificial neural networks",
+      "excerpt": "LETI’s latest project in this field focuses on how reservoir computers based on the principles of magnonics can offer a new direction for artificial neural networks. The project is headed by Mikhail Kostylev, professor in the department of physics at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.timeshighereducation.com/hub/p/new-direction-artificial-neural-networks",
+      "originalUrl": "https://www.timeshighereducation.com/hub/p/new-direction-artificial-neural-networks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.timeshighereducation.com/sites/default/files/semenov_2_web.jpg",
+          "width": 750,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-18T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Higher Education",
+        "domain": "timeshighereducation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-cnn-tried-teslas-full-self-driving-mode-on-nyc-streets-it-didnt-go-great.md",
       "title": "CNN tried Tesla's 'full self-driving' mode on NYC streets. It didn't go great",
       "excerpt": "Tesla has given some drivers access to its \"full self-driving\" beta software. CNN went to one of the busiest streets in Brooklyn to see how it works.",
@@ -875,241 +1108,6 @@
       "provider": {
         "name": "Hackaday",
         "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-tools-tricks-and-learning-in-machine-learning-ft-aliaksei-mikhailiuk-ml-054.md",
-      "title": "Tools, Tricks, and Learning in Machine Learning ft. Aliaksei Mikhailiuk - ML 054",
-      "excerpt": "Aliaksei Mikhailiuk joins the Adventure to discuss the tools he wishes he'd mastered before getting his PhD in Machine Learning. However, the conversation meanders through his background, what qualifications people should have, algorithms, and approaches ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.audible.com/pd/Tools-Tricks-and-Learning-in-Machine-Learning-ft-Aliaksei-Mikhailiuk-ML-054-Podcast/B09M7C5SG5",
-      "originalUrl": "https://www.audible.com/pd/Tools-Tricks-and-Learning-in-Machine-Learning-ft-Aliaksei-Mikhailiuk-ML-054-Podcast/B09M7C5SG5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/51hS6VOUAML._SL500_.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Audible",
-        "domain": "audible.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-from-facial-recognition-check-in-to-public-education-space-geisinger-expands.md",
-      "title": "From facial recognition check-in to public education space: Geisinger expands",
-      "excerpt": "Multiple pieces of heavy equipment thrummed in the background and Life Flight Helicopter roared overhead before it landed on the nearby hospital roof.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesleader.com/news/1524642/from-facial-recognition-check-in-to-public-education-space-geisinger-expands",
-      "originalUrl": "https://www.timesleader.com/news/1524642/from-facial-recognition-check-in-to-public-education-space-geisinger-expands",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s24526.pcdn.co/wp-content/uploads/2021/11/127911290_web1_geisinger-1.jpg.optimal.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesleader.com/news/1524642/from-facial-recognition-check-in-to-public-education-space-geisinger-expands/amp",
-      "cdnAmpWebUrl": "https://www-timesleader-com.cdn.ampproject.org/c/s/www.timesleader.com/news/1524642/from-facial-recognition-check-in-to-public-education-space-geisinger-expands/amp",
-      "publishedDateTime": "2021-11-17T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times Leader",
-        "domain": "timesleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware.md",
-      "title": "Cohere partners with Google Cloud to train large language models using dedicated hardware",
-      "excerpt": "AI startup Cohere has partnered with Google Cloud to train large language models on the company's dedicated hardware infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/",
-      "originalUrl": "https://venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/amp/",
-      "publishedDateTime": "2021-11-17T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-nvidia-data-center-sales-grew-55-on-demand-for-artificial-intelligence-chips.md",
-      "title": "Nvidia data center sales grew 55% on demand for artificial intelligence chips",
-      "excerpt": "Nvidia stock rose more than 5% in extended trading after it reported third-quarter earnings Wednesday that beat expectations for both earnings and sales.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
-      "originalUrl": "https://www.cnbc.com/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106668816-1597783026604-gettyimages-1177538055-347713477_1-8.jpeg?v=1602189731",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/17/nvidia-nvda-earnings-q3-2022.html",
-      "publishedDateTime": "2021-11-17T14:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia.md",
-      "title": "Unwelcome in Another Country, Clearview AI Forced to Delete Facial Recognition Data in Australia",
-      "excerpt": "Australia's privacy commissioner has ruled that Clearview AI has violated the privacy of the country's residents, and that means it will be forced to delete its cache of their facial recognition data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/",
-      "originalUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/11/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/unwelcome-in-another-country-clearview-ai-forced-to-delete-facial-recognition-data-in-australia/amp/",
-      "publishedDateTime": "2021-11-17T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
         "images": null,
         "publishers": null,
         "authors": null

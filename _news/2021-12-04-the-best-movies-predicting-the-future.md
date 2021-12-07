@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "A comprehensive review on fake news detection with deep learning"
-    excerpt: "A protuberant issue of the present time is that, organizations from different domains are struggling to obtain effective solutions for detecting online-based fake news. It is quite thought-provoking to distinguish fake information on the internet as it is often written to deceive users."
-    publishedDateTime: 2021-12-02T13:59:00Z
-    webUrl: "https://www.bibsonomy.org/bibtex/186ec2b4bc68c7a9c9c977b5d70860153"
-    type: article
-    provider:
-      name: BibSonomy
-      domain: bibsonomy.org
-    quality: 19
 
 secured: "qxSdVPCd9VIBIjtKP9zKlzJpLZP6HzR4mPhNMs6/jq3sS8zhFSy8qKoHNVVT0OtxMFIUL7mQZd8MI9z/aFWZpXjas4F+AYxdQEDYxmw1iGRliU51B6TM7Y3tklzQ+9qhkBzeLZA1x46YotujT42lappGjFFfSzYxOLSMNrNXJEKr4XnGoqLhohft4J0QB2UU/0rywdaI7LV2L6yTL+GaMgsGxppYCkBwz8Rp+6tel9XhrPN6D6mE3NpmGbhuMJX19gHm2vLAboPvTbvgmnNwVPxFvn2Mwkp9QLDMsj02PyCgGLuzEflVsHme7Isgnx4U3RKkGTMgdoKVkaNpw4ZZpTBjAAeGZctIm8TmPDpA19k2EoHqh5HdQxja8vMekCMU/O9yppI0fBcwN4xlzvrLBY3s3T1MZKoR6J2JEif2/2wqrS6FZhtdPWWy/ioaNXmmEqIhPgyIwL/1VNy9z7GbwExDQVb3QeEShepuop5X6LnLtllpK5EYZDiD4HVMIdK2cr/ntQlqgsxy0u1umn0rMA==;AgOtzsvNh1znUKjXhFcNXw=="
 ---

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global Negative Pressure Wound Therapy Technology Devices 2021, Featuring Top 12 Competitor Profiles - ResearchAndMarkets.com"
-    excerpt: "The \"Global Negative Pressure Wound Therapy Technology Devices, 2021: Frost Radar Report\" report has been added to ResearchAndMarkets.com's offering. Wounds, especially chronic wounds, are associated with clinical,"
-    publishedDateTime: 2021-12-06T11:58:00Z
-    webUrl: "https://www.lelezard.com/en/news-20140778.html"
+  - title: "Artificial Intelligence in the Global Healthcare Market 2021-2025: A US$22.68 Billion Market by 2025"
+    excerpt: "The \"Artificial Intelligence in the Global Healthcare Market (2021-2025)\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-12-06T21:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-global-healthcare-market-2021-2025-a--us22-68-billion-market-by-2025--301438128.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 12
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
-        width: 421
-        height: 421
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "VWPYlr6Kic8lWe9gkt0gE3BFF5VXOgK3/Un/9a8hebiErMU9AR4kZJoLYwaA9VcwaSCTdMZVX2abZfLVnLcx49nFHWYysUj3ya/Cx7XezxX7Mc7H1NUcsKdx/rv1Lr9HIebLaVYZ9Ch99EAUKPLQ71HDFvMd8DPs+eIw9e7apHYoJrHNO7ysszCfJD29AvJpGD0ClX2ZFL9GgZu/BBoGRULHofMb0VxEHKd0oHdOCyyIWfCDmaAkEA/X+8yYxJQ55fGdIZxdktrqIyQoZtr1N07q5sYkZ9HyLcbzW69CdWmwjsO9ZmIrJsfhiK2IvgSQG0KQL7ax7/odEEsHBIcDpc75fXCnO52/XIVBO5PkKms=;QbkxKNkco8a5zpjAPjocNA=="

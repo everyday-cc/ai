@@ -35,20 +35,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Qualcomm Announced the Chip That’ll Power Almost Every Android Flagship in 2022"
-    excerpt: "Qualcomm has just announced the ARM chip that will power most of next year’s high-end Android phones. The rumored 898 model number isn’t happening, though. Qualcomm has changed its naming scheme with the latest flagship chip,"
-    publishedDateTime: 2021-12-02T13:26:00Z
-    webUrl: "https://www.extremetech.com/mobile/329418-qualcomm-announced-the-chip-thatll-power-almost-every-android-flagship-in-2022"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 35
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2021/12/Snapdragon_8_Gen_1_Chip-640x353.jpg"
-        width: 640
-        height: 353
-        isCached: true
 
 secured: "3LWbQCO++IGxEAkxrC782P05AxiGshsuTIFyODBK4r6XjQkhMd/Amuac5VlTu/IuaumIGUiOwlVR1wUdncYFe/sPNl7X/UUj4C8z0tP6IGI0d2eRXuOAqL0La8ds504DiEbQj4u1S3zyVAH4tyZqqxg8tZJgzUtsb0Pl13tUnb/lZFKszXUM4jWTIr6RREF2kf0L20vVr/YL+P0O42a/2ojXWk1vP2sK6lXX+DRz8I/shDgarMyqvRvyuNYEHb2ObqT4CeVi6xpwj/+RSNfnKPwXTnUcoRsNCIWXbw4oenwzkUqER+QV8l1n8XeSNAilbScgl7Cxi41fVzu1yO+IuRG1tWfD641XJvPpwu1DyHc=;7CngfqiXTsvd+CqWG8nqFg=="
 ---

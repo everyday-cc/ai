@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/amazonwebservices/2021/12/03/predicting
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/12/03/predicting-the-future-of-demand-how-amazon-is-reinventing-forecasting-with-machine-learning/amp/"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 400
         height: 224
         isCached: true
-  - title: "A comprehensive review on fake news detection with deep learning"
-    excerpt: "A protuberant issue of the present time is that, organizations from different domains are struggling to obtain effective solutions for detecting online-based fake news. It is quite thought-provoking to distinguish fake information on the internet as it is often written to deceive users."
-    publishedDateTime: 2021-12-02T13:59:00Z
-    webUrl: "https://www.bibsonomy.org/bibtex/186ec2b4bc68c7a9c9c977b5d70860153"
-    type: article
-    provider:
-      name: BibSonomy
-      domain: bibsonomy.org
-    quality: 19
 
 secured: "Gn2AvottLYWhAQbVy0Ys2Rebk6mbqC2tdLD+LqmabwEid7kvMllgTIIQC6hYMC4MjVncid7IE961fwc0Vq6cXi6A6Dp1uyWl6SLoIjdouU7Al38vqD4AjbylPKMOHNytLorj7sBd/zYITvRvPP8Ngg2EFA1LYVvengipPBEFn9ZCaIdtK9uv3vJXL4hcCct+nggzbd0BC+ORvgOZ+c7JCP1Xf8XklXnWbUFgiQyRdCvl/+AvNFSdBRLprZOXKx8Ks1qa+8ziHRVq7EagKCrfex93I2le/iB9slJSyS3Web4iLtd0Dl2RG7ELSSN0vpugOaL9gnDo9Vra6XtUYoXaOppmeQgh2p5casZ6W0hzTWGHNPC4PFENzaiZs0JDRPbTEbxMfNV413bVPqFth662tL61jL/gVbMPLgfj3gYbPYD58suSDh5LPqBlW2DdmfMWNc2flpZytQT82E8nlBGhMfva5Xq3k2rVHveyysZ2V3X8UiGgQtZ1n5UJHpP4uon3qi3ZfQlIqOUomjVB1TYwLw==;AIillmRP5yZIzLh+FvvFLw=="
 ---

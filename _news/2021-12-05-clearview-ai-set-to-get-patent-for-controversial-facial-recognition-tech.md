@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
 type: article
 quality: 103
-heat: 195
+heat: 185
 published: true
 
 provider:
@@ -140,20 +140,6 @@ related:
       - url: "https://www.cpomagazine.com/wp-content/uploads/2021/12/clearview-ai-facing-17-million-fine-from-uk-ico-over-violation-of-data-protection-laws_1500.jpg"
         width: 1500
         height: 860
-        isCached: true
-  - title: "Consecutive NIST Tests Confirm Superiority of Clearview AI's Facial Recognition Platform"
-    excerpt: "Clearview AI’s facial recognition algorithm again ranks No. 1 in U.S. – tops in 1:N and 1:1 Facial Recognition Vendor Tests (FRVT)."
-    publishedDateTime: 2021-12-02T13:26:00Z
-    webUrl: "https://www.officer.com/investigations/forensics/facial-recognition/press-release/21248663/clearview-ai-consecutive-nist-tests-confirm-superiority-of-clearview-ais-facial-recognition-platform"
-    type: article
-    provider:
-      name: Officer
-      domain: officer.com
-    quality: 45
-    images:
-      - url: "https://img.officer.com/files/base/cygnus/ofcr/image/2021/12/16x9/clearviewai.61a8c7950357f.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Clearview’s internet-as-facial recognition reference database concept to be granted patent"
     excerpt: "Clearview has received a ‘notice of allowance’ from the USPTO, setting up a grant of the patent once all the associated fees have been paid."

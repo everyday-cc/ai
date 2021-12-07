@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amaz
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html"
 type: article
 quality: 121
-heat: 151
+heat: 141
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa5933cafd39f832c92b71%2F0x0.jpg%3FcropX1%3D18%26cropX2%3D572%26cropY1%3D0%26cropY2%3D312"
         width: 554
         height: 312
-        isCached: true
-  - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
-    excerpt: "Lightspin, the multi-layer cloud security platform that prioritizes and remediates critical vulnerabilities across hybrid cloud and"
-    publishedDateTime: 2021-12-02T13:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/lightspin-research-team-discovers-cross-account-access-vulnerability-on-aws-sagemaker-jupiter-notebook-instance-301436125.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1341650/Lightspin_Logo.jpg?p=facebook"
-        width: 967
-        height: 506
         isCached: true
   - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
     excerpt: "Through a previously unreported vulnerability, attackers could run any code on an AWS SageMaker Jupyter Notebook Instance across accounts, access the Notebook Instance metadata endpoint, and steal the access token for the attached role TEL AVIV ..."

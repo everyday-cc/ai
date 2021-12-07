@@ -7,7 +7,7 @@ originalUrl: "https://wakelet.com/wake/IgHaelmGd4xKI7s1MJmqj"
 webUrl: "https://wakelet.com/wake/IgHaelmGd4xKI7s1MJmqj"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Growth of Global Artificial Intelligence in Accounting Market Size Report Till 2025 with Leading Regions and Countries Data"
-    excerpt: "Global “Artificial Intelligence in Accounting Market\" is expected to grow at a steady growth during the forecast"
-    publishedDateTime: 2021-12-03T01:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-in-accounting-market-size-report-till-2025-with-leading-regions-and-countries-data-2021-12-02"
+  - title: "Global BFSI Artificial Intelligence Market 2021 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2027"
+    excerpt: "The report named Global BFSI Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 presents this market’s past performance analysis, latest market performance estimation for the current year,"
+    publishedDateTime: 2021-12-05T21:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-bfsi-artificial-intelligence-market-2021-key-players-comprehensive-research-swot-analysis-and-forecast-by-2027-2021-12-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

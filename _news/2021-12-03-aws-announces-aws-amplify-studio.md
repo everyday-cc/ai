@@ -125,20 +125,6 @@ related:
         width: 1079
         height: 720
         isCached: true
-  - title: "The Future of Artificial Intelligence, Cloud Computing, and Digital Twins: Highlights from AWS re: Invent 2021"
-    excerpt: "Invent celebrated its 10th year this year by welcoming visitors back to an in-person event, following last year’s fully virtual event. It also marked the 15th anniversary of the launch of Amazon Web Services itself."
-    publishedDateTime: 2021-12-02T13:33:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-artificial-intelligence-cloud-computing-digital-bernard-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 34
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGRQphiMhqKKg/article-cover_image-shrink_720_1280/0/1638451226850?e=1643846400&v=beta&t=WVSAv4yvlhwKErf2gQf14QW4V6AK5UeRXOdLxHoLSrM"
-        width: 1079
-        height: 720
-        isCached: true
 
 secured: "3wzLg27VtpidaNV67mdK9lgKTiEQsv4XeO1uh09UaN40+PE9RqTLCUCeiIhQxVldkCwWHoGAXS/0JBHr/xljf3PaKfk7IkC638BypO8GllpcOc2RYJd0gGDBOsMQi+msJfbW+IVviD+A8sBuynKYcsv2avN+k8l3Lf833RO6MBqcKlBxuEO4D6ajsnzZOwIaGaUZzOaFaqZYLSkai3ZoCPLap1wbQ/iTM9R0rz11gTHPOzQQ+JJLj75Y6GA6zKx0Y3zwdxZJB4kAwjrzXWri6nhKdCEwZjaz4hoBHGATkGRd/6LgI9GoFl5dEiFR0ieo7tiZdwHi/dDAsuNlPIaYHWBKIFijzdW8b1RGgfRHBhs=;jIpHpvbVgxC0IaHVp2wIWg=="
 ---

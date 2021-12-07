@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/amp/"
 type: article
 quality: 66
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI could help predict the necessity of ICU admission during COVID-19 pandemic"
+    excerpt: "New technology could help doctors make the most of limited resources during the COVID-19 pandemic by identifying patients who require intensive care unit (ICU) treatment."
+    publishedDateTime: 2021-12-07T05:21:00Z
+    webUrl: "https://www.news-medical.net/news/20211207/AI-could-help-predict-the-necessity-of-ICU-admission-during-COVID-19-pandemic.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20211207/AI-could-help-predict-the-necessity-of-ICU-admission-during-COVID-19-pandemic.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211207/AI-could-help-predict-the-necessity-of-ICU-admission-during-COVID-19-pandemic.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 54
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pandemic-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "AI could help doctors make the best use of ICU beds during the COVID-19 pandemic"
     excerpt: "New technology could help doctors make the most of limited resources during the COVID-19 pandemic by identifying patients who require intensive care unit (ICU) treatment."
     publishedDateTime: 2021-12-06T08:36:00Z
