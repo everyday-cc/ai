@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "You can now get £150,000 if you let a robot use your face and voice"
-    excerpt: "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot."
-    publishedDateTime: 2021-12-02T12:28:00Z
-    webUrl: "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783"
-    ampWebUrl: "https://www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783"
-    cdnAmpWebUrl: "https://www-her-ie.cdn.ampproject.org/c/s/www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783"
-    type: article
-    provider:
-      name: Her
-      domain: www.her.ie
-    quality: 61
-    images:
-      - url: "https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmhlci5pZVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMlxcXC8wMjEyMTYyNlxcXC9TdHVkaW8tUHJvamVjdC0yMDIxLTEyLTAyVDEyMTYwOC43MDYucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_aWQ9YjZmODRkNjI3YjQxMTRmMDBmNTBcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMmRjMjZjNzA0ZTc4YWE2N2QxMzkzMDY3NmEwODQzZDIxMzY1ZGYyYyJ9/studio-project-2021-12-02t121608-706.png"
-        width: 647
-        height: 340
-        isCached: true
   - title: "Robot Company Wants To Give You $200,000 For Your Face And Voice"
     excerpt: "In an odd proposal, a Russian company is willing to pay you $200,000 if you forfeit your face and voice to help develop its next robot."
     publishedDateTime: 2021-12-02T17:00:00Z
@@ -72,6 +56,20 @@ related:
       - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-Sl7zbvKjbvj7Ba1n.jpg"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Tech firm to pay $200,000 for human faces to imprint on robots"
+    excerpt: "Tech company Promobot is looking for actual people to lend their faces for the newest group of robots and is willing to pay US200000 for the rights to these faces"
+    publishedDateTime: 2021-12-05T06:21:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271870400/tech-firm-to-pay-200000-for-human-faces-to-imprint-on-robots"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1638522342689.jpg"
+        width: 630
+        height: 420
         isCached: true
 
 secured: "VpmgAA5731mvvPIdE7NQ+DokJKANRJ8PbPDuE6+duWAGSqcxgUfeBGEcW32+Pzo7CLsO1H9VeZq8I4e6NOvxqhOvG6f5UJFYLcUPA8QT99JbadMbandZ5wSkByXaAdxC2S7BIaQpPcHB6lP4KqM8dTWzVNgadthfT/69NuRWsP6A1eGeJjs6SQOy+3K2JoFbgMjLwMN6cBJwt2K8sQsF1JddxgR/v8V1i9S7gu5CtDFMQmT7cL+vhjzefZZMBKu8A6oPwNbCM488AL+LYIzLDupf7YaSBdwHWYp0DSrruv3GTwQZY12w22KWAlcrQCuVyuwdF/smurXxm/yoyAyyeFErPCWKzzbvT2wR8ZDqSQs3mPUPW84jzMpvtxLXXHi5hFjWBRCP1dUb7Ql8xfrWu5nGwyTSCvNCmRrtAMWTXoGPyv6ZhvUeATHq0GL3JlDoFDFzQ4YF110/PQ3jYjLVS+ydgTwaICECpYS7UXOA84dzot6fH6f6PcJqfVBwiGkF+CROf4FO0QoiP7ulOHQ1aQ==;j2JXSPwv/DfCRWlwSROcAQ=="

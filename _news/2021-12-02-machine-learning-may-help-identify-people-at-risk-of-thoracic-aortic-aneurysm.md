@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-people-thoracic-aorti
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-people-thoracic-aortic-aneurysm.amp"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence will help detect thoracic aortic aneurysm"
+    excerpt: "Photo by Vladimir Novikov, Press Service of the Mayor and Moscow Government The digital assistant will help draw the specialist's attention to the smallest deviations and interpret images faster. Artificial intelligence-based algorithms can now recognize ..."
+    publishedDateTime: 2021-12-07T04:03:00Z
+    webUrl: "https://www.mos.ru/en/news/item/99657073/"
+    ampWebUrl: "https://www.mos.ru/amp/en/news/item/99657073/"
+    cdnAmpWebUrl: "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/99657073/"
+    type: article
+    provider:
+      name: mos
+      domain: www.mos.ru
+    quality: 59
+    images:
+      - url: "https://www.mos.ru/upload/newsfeed/newsfeed/pyls-na-zavtra-II-novikov(27).jpg"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "Machine Learning Used to Determine Risk of Thoracic Aortic Aneurysm"
     excerpt: "Enlargement or aneurysm of the aorta predisposes to dissection, an important cause of sudden death. A team led by investigators at Massachusetts General Hospital (MGH) recently used a type of artificial intelligence called deep learning to uncover insights into the genetic basis for variation in the aorta’s size."
     publishedDateTime: 2021-12-06T12:00:00Z

@@ -55,20 +55,6 @@ related:
         width: 512
         height: 341
         isCached: true
-  - title: "Former Google AI Scientist Creates Center to Combat Ethical Ills"
-    excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."
-    publishedDateTime: 2021-12-02T13:00:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/former-google-ai-scientist-creates-center-to-combat-ethical-ills"
-    type: article
-    provider:
-      name: Bloomberg Law
-      domain: bloomberglaw.com
-    quality: 54
-    images:
-      - url: "https://aboutblaw.com/Q2V"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Cohere and Google Cloud Partnering on AI"
     excerpt: "The natural language processing (NLP) company Cohere and Google Cloud are entering an artificial intelligence (AI) partnership. See more here:"
     publishedDateTime: 2021-12-06T12:10:00Z

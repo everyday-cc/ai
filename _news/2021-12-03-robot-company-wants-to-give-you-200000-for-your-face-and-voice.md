@@ -9,8 +9,8 @@ ampWebUrl: "https://www.blackenterprise.com/robot-company-wants-to-give-you-2000
 cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: Black Enterprise
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "You can now get £150,000 if you let a robot use your face and voice"
-    excerpt: "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot."
-    publishedDateTime: 2021-12-02T12:28:00Z
-    webUrl: "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783"
-    ampWebUrl: "https://www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783"
-    cdnAmpWebUrl: "https://www-her-ie.cdn.ampproject.org/c/s/www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783"
-    type: article
-    provider:
-      name: Her
-      domain: www.her.ie
-    quality: 61
-    images:
-      - url: "https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmhlci5pZVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMlxcXC8wMjEyMTYyNlxcXC9TdHVkaW8tUHJvamVjdC0yMDIxLTEyLTAyVDEyMTYwOC43MDYucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_aWQ9YjZmODRkNjI3YjQxMTRmMDBmNTBcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMmRjMjZjNzA0ZTc4YWE2N2QxMzkzMDY3NmEwODQzZDIxMzY1ZGYyYyJ9/studio-project-2021-12-02t121608-706.png"
-        width: 647
-        height: 340
-        isCached: true
   - title: "This Russian Company Will Pay You $200,000 To Use Your Face And Voice On Their Robots"
     excerpt: "Advertisement Promobotis is a Russian robotic company that is offering $200,000 to people in return for the right to use their face and voice on its robots forever. The company is currently developing “a humanoid robot assistant which will work in hotels,"
     publishedDateTime: 2021-12-02T18:59:00Z
@@ -68,6 +52,20 @@ related:
     provider:
       name: Malaysia Sun
       domain: malaysiasun.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1638522342689.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Tech firm to pay $200,000 for human faces to imprint on robots"
+    excerpt: "Tech company Promobot is looking for actual people to lend their faces for the newest group of robots and is willing to pay US200000 for the rights to these faces"
+    publishedDateTime: 2021-12-05T06:21:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/271870400/tech-firm-to-pay-200000-for-human-faces-to-imprint-on-robots"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 39
     images:
       - url: "https://cdn.bignewsnetwork.com/cus1638522342689.jpg"

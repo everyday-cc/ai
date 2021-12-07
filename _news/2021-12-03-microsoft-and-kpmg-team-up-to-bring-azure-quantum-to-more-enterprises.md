@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bri
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/microsoft-and-kpmg-team-up-to-bring-azure-quantum-to-more-enterprises/amp/"
 type: article
 quality: 104
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ad1e960cc6e9b23cb90539%2F0x0.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "CVS Health, Microsoft Partner To Bring ‘Digital First’ Care To Customers"
-    excerpt: "CVS Health and Microsoft Corp. have formed a strategic alliance to \"reimagine personalized care\" and \"accelerate digital transformation\" for the drugstore chain."
-    publishedDateTime: 2021-12-02T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/brucejapsen/2021/12/02/cvs-microsoft-partner-to-bring-digital-first-care-to-customers/"
-    ampWebUrl: "https://www.forbes.com/sites/brucejapsen/2021/12/02/cvs-microsoft-partner-to-bring-digital-first-care-to-customers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucejapsen/2021/12/02/cvs-microsoft-partner-to-bring-digital-first-care-to-customers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610a82d3251b9b646dd614e7%2F0x0.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "CVS Health and Microsoft Link Up to Speed Healthcare’s Digital Shift on Retail’s Frontlines"
     excerpt: "Connected healthcare keeps making new connections as firms from different parts of the business world join forces to drive greater digital transformation for millions of consumers. New evidence of the gathering trend comes from CVS Health and Microsoft,"

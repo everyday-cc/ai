@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-a
 webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/2/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Ars Technica
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Movement to Hold AI Accountable Gains More Steam"
-    excerpt: "A New York City law requires algorithms used in hiring to be “audited” for bias. It’s the first in the US—and part of a larger push toward regulation."
-    publishedDateTime: 2021-12-02T12:00:00Z
-    webUrl: "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/"
-    ampWebUrl: "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/61a8157414eaf61b0530a9fd/master/pass/Business_Papers_1332101305.jpg"
-        width: 2400
-        height: 1601
-        isCached: true
   - title: "Bond needs more than Q in AI age"
     excerpt: "It sounds like an analogue James Bond needs more powerful weapons from gadget provider Q, but Moore said the way forward was “pursuing partnerships with the tech community to help develop world-class technologies to solve our biggest mission problems”."
     publishedDateTime: 2021-12-02T20:22:00Z

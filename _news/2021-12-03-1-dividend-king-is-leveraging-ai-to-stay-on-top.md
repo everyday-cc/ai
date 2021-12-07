@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveragi
 webUrl: "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveraging-artificial-intelligence/"
 type: article
 quality: 67
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -101,6 +101,20 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/How_Artificial_Intelligence_is_Reducing_Baggage_Mishandling.jpeg"
         width: 800
         height: 494
+        isCached: true
+  - title: "How Dell Precision is bringing ambitious AI initiatives to life"
+    excerpt: "And while the most advanced AI models are experiencing exponential growth, the technology required to run them is shrinking. Many businesses are developing cutting-edge AI initiatives that no longer require a supercomputer,"
+    publishedDateTime: 2021-12-07T04:50:00Z
+    webUrl: "https://www.itnews.com.au/video/how-dell-precision-is-bringing-ambitious-ai-initiatives-to-life-573702"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/Videos/Dell_Precision_ad.PNG"
+        width: 1054
+        height: 594
         isCached: true
   - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
     excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"

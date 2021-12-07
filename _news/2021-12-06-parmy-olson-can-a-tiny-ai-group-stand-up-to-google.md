@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Former Google AI Scientist Creates Center to Combat Ethical Ills"
-    excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."
-    publishedDateTime: 2021-12-02T13:00:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/former-google-ai-scientist-creates-center-to-combat-ethical-ills"
-    type: article
-    provider:
-      name: Bloomberg Law
-      domain: bloomberglaw.com
-    quality: 54
-    images:
-      - url: "https://aboutblaw.com/Q2V"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Can a Tiny AI Group Stand Up to Google?"
     excerpt: "Many say we need independent research into AI, and good news on that came Thursday from Timnit Gebru, a former ethical AI researcher at Alphabet Inc.’s Google. She had been fired exactly a year ago following a dispute over a paper critical of large AI models,"
     publishedDateTime: 2021-12-06T17:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/most-latin-companies-using-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-latin-companies-using-ai-have-profited-from-the-technology/"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence innovation among retail industry companies rebounded in the last quarter"
-    excerpt: "Research and innovation in artificial intelligence in the retail sector has rebounded in the last quarter. The most recent figures show that the number of AI patent applications in the industry stood at 111 in the three months ending September – down from 120 over the same period last year."
-    publishedDateTime: 2021-12-02T12:08:00Z
-    webUrl: "https://www.retail-insight-network.com/features/artificial-intelligence-innovation-among-retail-industry-companies-rebounded-in-the-last-quarter/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 39
-    images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/11/shutterstock_594560369.jpg"
-        width: 500
-        height: 334
-        isCached: true
   - title: "Artificial Intelligence Technology You Can Control From Anywhere"
     excerpt: "Artificial Intelligence Technology You Can Control From Anywhere December 5, 2021 by Mai Tao Leave a Comment    Innovative techno"
     publishedDateTime: 2021-12-05T09:28:00Z

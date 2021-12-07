@@ -27,10 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Intel plans to list shares in self-driving car unit Mobileye"
+    excerpt: "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters."
+    publishedDateTime: 2021-12-07T01:16:00Z
+    webUrl: "https://www.reuters.com/article/intel-mobileye-ipo/update-4-intel-plans-to-list-shares-in-self-driving-car-unit-mobileye-idUSL4N2SS02C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/HxLWCUwhHMM4SwuGFJT2uw2TtvQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJJS5JKBAFOZFNPFKBVNCGTJ5Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Intel to list shares in self-driving car unit Mobileye - WSJ"
+    excerpt: "Intel Corp is planning to publicly list shares in its self-driving-car unit Mobileye, which could value the unit at north of $50 billion ,the Wall Street Journal reported on Monday, citing people familiar with the matter."
+    publishedDateTime: 2021-12-06T23:27:00Z
+    webUrl: "https://www.reuters.com/article/intel-mobileye-ipo/update-1-intel-to-list-shares-in-self-driving-car-unit-mobileye-wsj-idUSL4N2SS02C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/HxLWCUwhHMM4SwuGFJT2uw2TtvQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJJS5JKBAFOZFNPFKBVNCGTJ5Y.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Intel to list shares of its Mobileye self-driving-car unit"
     excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
     publishedDateTime: 2021-12-07T00:33:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos26"
+    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos25"
     type: article
     provider:
       name: MarketWatch
@@ -41,15 +69,17 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Intel to List Shares in Self-Driving Car Unit Mobileye - WSJ"
-    excerpt: "Intel Corp is planning to publicly list shares in its self-driving-car unit Mobileye, the Wall Street Journal reported on Monday, citing people familiar with the matter. Intel is expected to announce the move,"
-    publishedDateTime: 2021-12-07T00:20:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-06/intel-to-list-shares-in-self-driving-car-unit-mobileye-wsj"
+  - title: "Intel To List Shares Of Its Self-driving-car Unit Mobileye In Mid-2022"
+    excerpt: "Intel Corp. (INTC) said that it plans to take its self-driving car business, Mobileye, public in the United States in mid-2022 through an initial public offering of newly issued Mobileye stock. Intel will remain the majority owner of Mobileye."
+    publishedDateTime: 2021-12-07T01:47:00Z
+    webUrl: "https://www.nasdaq.com/articles/intel-to-list-shares-of-its-self-driving-car-unit-mobileye-in-mid-2022"
+    ampWebUrl: "https://www.nasdaq.com/articles/intel-to-list-shares-of-its-self-driving-car-unit-mobileye-in-mid-2022?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-to-list-shares-of-its-self-driving-car-unit-mobileye-in-mid-2022?amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "The Wall Street Journal: Intel to list shares of its Mobileye self-driving-car unit"
     excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said. Read"
     publishedDateTime: 2021-12-07T01:33:00Z

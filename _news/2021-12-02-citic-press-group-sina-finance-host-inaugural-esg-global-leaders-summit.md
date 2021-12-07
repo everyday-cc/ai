@@ -3,14 +3,11 @@ category: news
 title: "CITIC Press Group, Sina Finance Host Inaugural ESG Global Leaders Summit"
 excerpt: "Human society is now in a stage of rapid development amid all manner of uncertainties. On the one hand, state-of-the-art technologies such"
 publishedDateTime: 2021-12-02T08:26:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24399300/citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/n24399300/citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit"
-ampWebUrl: "https://www.benzinga.com/amp/content/24399300"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24399300"
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24399301/citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/n24399301/citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit"
+ampWebUrl: "https://www.benzinga.com/amp/content/24399301"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24399301"
 type: article
-quality: 60
-heat: 60
-published: false
 
 provider:
   name: Benzinga.com
@@ -22,11 +19,11 @@ topics:
   - AI in Finance
 
 images:
-  - url: "https://mma.prnewswire.com/media/1701078/image.jpg"
-    width: 400
-    height: 225
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
-secured: "N3cR8Yin79W5IuESKO+0VCrMxfPEwJq9+SiQIHBNbJLkSFN6j61GMBdG2ZAY44YgC3DFyMS3egV0qwk7k2c85Sl1hd4Zqp5v5EIYSG8hncw21mw/say/3TTtLFqlCPt7wVuxWgY1n7EaBo97Tau0dCEqANODlI+PBj8wSb4YAtf8ZTbHw+jgs5eU5yyMarhI+jRorwWLQrM8GnNQw+Q0TPgjBn2BHdniNAMmkDksW4Bj5+7RzS0PAiPHrXKLMcOFVg8CK7EISHD7ukoT841pImmo3eoFaNnQpR09txHmoGh4WZ19Bu4WfKJqIb2ck9x51a0jfuL164xdIu7XYD45n5Kr+t9stPCMf+N0uYcA3A5XwqLH1T6eRVepy6Ie17a+aPCRPhjbF1GW20tZnilKr+7FiFK75WFIByA1z8QvKNov0aCFfNAPKGo64MD8UD32abZXOhsad5ZsuxWc4BOqn6STpQPx4PQO+MMtFr58VgMmXerszCEQVYz11xXWB7o/RpF1K48W66xbeJux1oW2cA==;2E/1K8lw3s5IpFAc4F+rtQ=="
+secured: "W/f2u1mT1Jq/nttIG+4Ou69eJi0s+dylCps7deecW079hWKkmtJt6YZ/Z16uDRPdeCUr2cHRxNZMDOKHvEZHZaTgFNdkBa714yK6rWawXL/bIIhw6NBvLq2eFAPnMkGwdZfG96PfM4JGA6lr4O8eVtpruOgje6vrLM0eKj7yPreZLM5xdc4070MGfnYY/fuZ32NdxKcwRKLepO7iTWrbJgQrpSKa4QWZqqwxfzZaBFq4pFrSdwnjao1dPtZoJ9FljOBVbHFwrXBviwNWM/zJJbe0RgcXFXGYbugrPWUvvDDB0w6rn76eVR08O8aO21sMVZlaxHN82Cu9zLJeNSyvT2DUXaL2+/MG9l4OlQr9MY8=;n9U0jQ3UbDLIaNurvfWNsg=="
 ---
 

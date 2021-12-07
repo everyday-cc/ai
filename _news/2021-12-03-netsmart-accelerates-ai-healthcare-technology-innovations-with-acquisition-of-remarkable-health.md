@@ -19,20 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence is Accelerating Wealth Inequality"
-    excerpt: "There are many things they don't tell you about in the manufactured AI hype and on the algorithmic platforms about the consequences of AI adoption at scale. In this Op-ed we will briefly explore how artificial intelligence is also degrading our system of capitalism,"
-    publishedDateTime: 2021-12-06T15:28:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-accelerating-wealth-michael-spencer-"
+  - title: "AI Applications in Digital Health"
+    excerpt: "Health and digital health, encompassing ehealth and health information technology, form a significant cluster in the Berlin-Brandenburg metropolitan area, evidenced by their more than 600 biotech, pharmaceutical and medtech companies,"
+    publishedDateTime: 2021-12-06T12:50:00Z
+    webUrl: "https://www.newsweek.com/sponsored/ai-applications-digital-health"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
+      name: Newsweek
+      domain: newsweek.com
+    quality: 67
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEU7CTKRAYZBQ/article-cover_image-shrink_720_1280/0/1638804317784?e=1644451200&v=beta&t=ISnO7ttNkxyoaZ0PHxlLaNZbGepAZqBW6a_qCF9gUE0"
-        width: 1279
-        height: 720
+      - url: "https://d.newsweek.com/en/full/1944301/berlin-1.jpg"
+        width: 1537
+        height: 719
         isCached: true
+  - title: "Benchmarking modern edge devices for AI applications"
+    excerpt: "which highlight increased computing power and specialized hardware support for AI applications. We perform a set of deep learning benchmarks on the devices to measure their performance. By comparing the performance with other GPU (graphics processing unit ..."
+    publishedDateTime: 2021-12-06T12:11:00Z
+    webUrl: "https://www.mendeley.com/catalogue/1e9deb6b-c826-3126-b988-c9a9480a2300/"
+    type: article
+    provider:
+      name: Mendeley
+      domain: mendeley.com
+    quality: 19
 
 secured: "TH8Allx/eo9gR4F13V2uiGXJOd1VICbcA72gZoFsd5hLWOuaKEBHV6R/fybhy/ZQ/e1oWhE6iO7/hedtjVKVKfS8H+RPAAhD81BeFhez9hl0X5LiKjJLZb7zHrL1s/kQDc+Yx1ZRnkMmAM/7lscZD2b2N3832zx1ax8Eifm0pVKrEGo4vO69lQHDvCm5XSyagWkPEqxLkE5a9iH2T4T+loVfPUxOVRw4vCYoEHmDApCHSNyPkiaAO2LVYefQi4RWaqslqPAVORACTj8rmxHfyTvkjEI0EbrP9wzNpSh7iyRQsH/iJOzYgUwP/0B77yaBl/3BlA8ffzxFkFyLGMtiNrMTWI03btlPn0h1YO8LRDE=;J+dLBWB2W5WFbdagcvSVZQ=="
 ---

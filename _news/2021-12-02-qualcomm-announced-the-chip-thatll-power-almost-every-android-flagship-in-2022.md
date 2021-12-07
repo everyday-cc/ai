@@ -41,26 +41,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Qualcomm Announces the World’s First 5nm Chip for Windows Laptops"
-    excerpt: "The Snapdragon 8 Gen 1 was not the only major announcement at Qualcomm’s recent Tech Summit. The American chipmaker is"
-    publishedDateTime: 2021-12-02T12:04:00Z
-    webUrl: "https://propakistani.pk/2021/12/02/qualcomm-announces-the-worlds-first-5nm-chip-for-windows-laptops/"
-    ampWebUrl: "https://propakistani.pk/2021/12/02/qualcomm-announces-the-worlds-first-5nm-chip-for-windows-laptops/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/12/02/qualcomm-announces-the-worlds-first-5nm-chip-for-windows-laptops/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 39
-  - title: "Qualcomm unveils new chip for Windows PCs"
-    excerpt: "The NPU in the chipset comes with 6.5 TOPS of AI compute power which is an improvement as the NPU in the predecessor has 5 TOPS. It supports 5G (sub-6 GHz and mmWave) and the Snapdragon X65 5G RF ..."
-    publishedDateTime: 2021-12-02T12:58:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20211202/3866108.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
   - title: "Chip shortage to ease next year, says Qualcomm CEO"
     excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the situation is expected to improve next year. According to The Elec website, Amon said that supply has improved this year over 2020 and the situation is expected to further improve in 2022,"
     publishedDateTime: 2021-12-05T11:26:00Z

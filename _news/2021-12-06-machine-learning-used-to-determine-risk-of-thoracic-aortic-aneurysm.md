@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence will help detect thoracic aortic aneurysm"
+    excerpt: "Photo by Vladimir Novikov, Press Service of the Mayor and Moscow Government The digital assistant will help draw the specialist's attention to the smallest deviations and interpret images faster. Artificial intelligence-based algorithms can now recognize ..."
+    publishedDateTime: 2021-12-07T04:03:00Z
+    webUrl: "https://www.mos.ru/en/news/item/99657073/"
+    ampWebUrl: "https://www.mos.ru/amp/en/news/item/99657073/"
+    cdnAmpWebUrl: "https://www-mos-ru.cdn.ampproject.org/c/s/www.mos.ru/amp/en/news/item/99657073/"
+    type: article
+    provider:
+      name: mos
+      domain: www.mos.ru
+    quality: 59
+    images:
+      - url: "https://www.mos.ru/upload/newsfeed/newsfeed/pyls-na-zavtra-II-novikov(27).jpg"
+        width: 1600
+        height: 800
+        isCached: true
   - title: "Machine learning may help identify people at risk of thoracic aortic aneurysm"
     excerpt: "An abnormally enlarged aorta—also called aortic aneurysm—can tear or rupture and cause sudden cardiac death. Unfortunately, patients often show no signs or symptoms before the aorta, which carries blood from the heart to the rest of the body,"
     publishedDateTime: 2021-12-02T14:59:00Z

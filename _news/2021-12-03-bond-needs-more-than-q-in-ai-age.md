@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "The Movement to Hold AI Accountable Gains More Steam"
-    excerpt: "A New York City law requires algorithms used in hiring to be “audited” for bias. It’s the first in the US—and part of a larger push toward regulation."
-    publishedDateTime: 2021-12-02T12:00:00Z
-    webUrl: "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/"
-    ampWebUrl: "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/61a8157414eaf61b0530a9fd/master/pass/Business_Papers_1332101305.jpg"
-        width: 2400
-        height: 1601
-        isCached: true
   - title: "The movement to hold AI accountable gains more steam"
     excerpt: "Standards for audits and auditors are important because growing calls to regulate AI have led to the creation of a number of auditing startups, some by critics of AI, and others that might be more favorable to the companies they are auditing."
     publishedDateTime: 2021-12-05T13:10:00Z

@@ -35,17 +35,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Qualcomm Announces the World’s First 5nm Chip for Windows Laptops"
-    excerpt: "The Snapdragon 8 Gen 1 was not the only major announcement at Qualcomm’s recent Tech Summit. The American chipmaker is"
-    publishedDateTime: 2021-12-02T12:04:00Z
-    webUrl: "https://propakistani.pk/2021/12/02/qualcomm-announces-the-worlds-first-5nm-chip-for-windows-laptops/"
-    ampWebUrl: "https://propakistani.pk/2021/12/02/qualcomm-announces-the-worlds-first-5nm-chip-for-windows-laptops/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/12/02/qualcomm-announces-the-worlds-first-5nm-chip-for-windows-laptops/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 39
   - title: "Qualcomm Announced the Chip That’ll Power Almost Every Android Flagship in 2022"
     excerpt: "Qualcomm has just announced the ARM chip that will power most of next year’s high-end Android phones. The rumored 898 model number isn’t happening, though. Qualcomm has changed its naming scheme with the latest flagship chip,"
     publishedDateTime: 2021-12-02T13:26:00Z
@@ -60,15 +49,6 @@ related:
         width: 640
         height: 353
         isCached: true
-  - title: "Qualcomm unveils new chip for Windows PCs"
-    excerpt: "The NPU in the chipset comes with 6.5 TOPS of AI compute power which is an improvement as the NPU in the predecessor has 5 TOPS. It supports 5G (sub-6 GHz and mmWave) and the Snapdragon X65 5G RF ..."
-    publishedDateTime: 2021-12-02T12:58:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20211202/3866108.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "3LWbQCO++IGxEAkxrC782P05AxiGshsuTIFyODBK4r6XjQkhMd/Amuac5VlTu/IuaumIGUiOwlVR1wUdncYFe/sPNl7X/UUj4C8z0tP6IGI0d2eRXuOAqL0La8ds504DiEbQj4u1S3zyVAH4tyZqqxg8tZJgzUtsb0Pl13tUnb/lZFKszXUM4jWTIr6RREF2kf0L20vVr/YL+P0O42a/2ojXWk1vP2sK6lXX+DRz8I/shDgarMyqvRvyuNYEHb2ObqT4CeVi6xpwj/+RSNfnKPwXTnUcoRsNCIWXbw4oenwzkUqER+QV8l1n8XeSNAilbScgl7Cxi41fVzu1yO+IuRG1tWfD641XJvPpwu1DyHc=;7CngfqiXTsvd+CqWG8nqFg=="
 ---
