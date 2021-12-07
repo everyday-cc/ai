@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=581911"
 webUrl: "https://us.acrofan.com/detail.php?number=581911"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 580
     height: 339
     isCached: true
-
-related:
-  - title: "Data Storage Market to Escalate Swiftly; Adoption of Big Data Analytics and AI to Amplify Revenue, states Fortune Business Insights™"
-    excerpt: "The growing demand for cloud drives owing to enormous data collection is expected to foster the growth of the market,"
-    publishedDateTime: 2021-12-02T08:03:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24399161/data-storage-market-to-escalate-swiftly-adoption-of-big-data-analytics-and-ai-to-amplify-revenue-s"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24399161"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24399161"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
 secured: "zFCrhBVLohCGEKDIArp9D6YBHY8a9bsrUgkRdXPeHPXM7i/Lumy2ZCnRT1MYOHYdcRS44UmheQLHkgDRbNi/QDXDmBuwu+i2TQE66zJqWp2tK3EJsuDoJC2vHtB6Fa8DHTwGNhRmX8+Ee0iYHG7OduEg0I/GSWSpEtNaEW7HPqyvW8u3IcpKC2RMPmzduMz5OH9gnfsx8EQDPhTAbmviDxiLvGQQHPIz6mdLLd2fSzRwqpVsglDMAXiehQx2d0jHo+Mrb6Q3+UsjdINK9oupsygucwKgtYhdlqoaiQA2iP6zgPfxDjusND+ys7Y3hwzlV8bKJsZfRGl72gNQcWZN6OvUbvF8MC+LIk4U1A5UQo0e+M//lalcz/8rN+F2flhzumcHwKTRqmL+Xa8TJJK76vC3uSQG8XuO6fuOWX596d+KbMc+QSQOU6KXj8LwFpo3X71dkEYdKlWxX5nGhwAJv4qyXZIeVPDX9NC055Q53ENHdo55LCaxZJWge9xlGQ0I5UOc12F5zhZlsI/knUMlKQ==;UHzM8hcmxFLhraILXTdu+A=="
 ---

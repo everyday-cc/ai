@@ -2,49 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2021-11-19-apple-pushing-ahead-with-development-of-fully-autonomous-car.md",
-      "title": "Apple pushing ahead with development of fully autonomous car",
-      "excerpt": "Alphabet Inc.'s Waymo has suffered a rash of departures ... made up primarily of neural processors that can handle the artificial intelligence needed for autonomous driving. The chip's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/motoring/industry-news/apple-pushing-ahead-with-development-of-fully-autonomous-car-16066cc6-8083-50e5-a869-0adaa68b1c10",
-      "originalUrl": "https://www.iol.co.za/motoring/industry-news/apple-pushing-ahead-with-development-of-fully-autonomous-car-16066cc6-8083-50e5-a869-0adaa68b1c10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/650x366/File-picture-Nicholas-Kamm-AFP?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4d7abe35-9d2e-5335-84b3-fee8c5ddd077&operation=CROP&offset=0x85&resize=2000x1125",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/motoring/industry-news/apple-pushing-ahead-with-development-of-fully-autonomous-car-16066cc6-8083-50e5-a869-0adaa68b1c10",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/motoring/industry-news/apple-pushing-ahead-with-development-of-fully-autonomous-car-16066cc6-8083-50e5-a869-0adaa68b1c10",
-      "publishedDateTime": "2021-11-19T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-19-is-the-world-ready-for-a-self-driving-car.md",
       "title": "Is The World Ready For A Self-Driving Car?",
       "excerpt": "Hitting Apple's ambitious 2025 target depends entirely on the company’s ability to design, build and test its self-driving system.",
@@ -802,6 +759,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-19-we-tried-teslas-full-self-driving-heres-what-happened.md",
+      "title": "We tried Tesla’s ‘full self-driving.’ Here’s what happened",
+      "excerpt": "When a dozen small children crossed in front of our Tesla with “full self-driving,” I had good reason to be nervous. I’d spent my morning so far in the backseat of the Model 3 using “full ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/",
+      "originalUrl": "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/",
+      "publishedDateTime": "2021-11-18T23:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },

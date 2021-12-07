@@ -75,22 +75,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Govt to introduce facial recognition technology at airports by March 2022"
-    excerpt: "Minister of State for Civil Aviation Ministry General V K Singh (retd) said AAI is working on a project of FRT-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports."
-    publishedDateTime: 2021-12-02T09:01:00Z
-    webUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022-11638434344157.html"
-    ampWebUrl: "https://www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/govt-to-introduce-facial-recognition-technology-at-airports-by-march-2022/amp-11638434344157.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 73
-    images:
-      - url: "https://images.livemint.com/img/2021/12/02/600x338/Airport_1638434633717_1638434633820.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Clearview AI Is Enroute to Win an US Patent for Facial Recognition Technology"
     excerpt: "If you haven't heard of Clearview AI then you should, as the company's facial recognition technology has likely already spotted you. Clearview’s software goes through public images from social media to help law enforcement identify wanted individuals by matching their public images with those found in government databases or surveillance footage."
     publishedDateTime: 2021-12-05T15:20:00Z

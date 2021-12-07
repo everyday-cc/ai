@@ -38,6 +38,17 @@ related:
       name: Merced Sun-Star
       domain: mercedsunstar.com
     quality: 30
+  - title: "Merced County Test Site for Self-Driving Cars Gets $2M Upgrade"
+    excerpt: "While Merced County officials have said there are companies under contract to test at the site, they won’t say who those entities are because of the proprietary nature of the products being developed and tested there."
+    publishedDateTime: 2021-12-06T23:35:00Z
+    webUrl: "https://www.techwire.net/news/merced-county-test-site-for-self-driving-cars-gets-2m-upgrade"
+    ampWebUrl: "https://www.techwire.net/news/merced-county-test-site-for-self-driving-cars-gets-2m-upgrade?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/merced-county-test-site-for-self-driving-cars-gets-2m-upgrade?_amp=true"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 24
 
 secured: "hK8C5ql81jqxeuZvkjUL9LvEJFweezvtHf9Dg+7kLgEUffmBEkUCvNTIHsWocFJcwrFK/XS4lLp6tu2+mpaUn1pzON26XlTDcha9eNGi+MDj+rsJL5EUwpqt38JhS1Vhd3ZTZYgZU9i4Gh7tFGjtgNq6oqxLoFiPIy+dkVet8wOv3eecphsEI7+kqnY2JpnS3E4i/vfj/4Wiyf2IxXUikzdcu8qzUN2khwmQwYIchXR0xr9zDq1i5nW4f8jk8O5Qq7eWrGwHSiKV2qkZsNHsi5QN3Td+t32YE7ng26VhUM9+ri2XBX9d5tDoWsOIgSahU1JxtKt0NObpyco62J9O6NRUuQO5+k2RM5a9oV3zk2vWxv+wHUwhW+w9CWc+Oqlpi/5RZ5oWlgygRpakW0ZXkBn0kK8eJlMn1QNcNTG4djCpt0KcHs0NTaDz0hsWGJBeDqC658Qcr+9WvBEW6Zev/QN3mfZ8hAmX+SjaVglYzEFzL5QYbdo0Stjhq3mXVg0h/DZpby+kX7pdRJjCoL9LWg==;XJwT7ittXzuM48aL0L3VtQ=="
 ---

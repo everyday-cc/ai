@@ -60,15 +60,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "Qualcomm upgrades 5G laptop chips, offers new mobile gaming platform"
-    excerpt: "Qualcomm is continuing its efforts to expand beyond the smartphone market with new chips to drive mobile gaming devices and computers. At the Snapdragon Tech Summit, the company presented the Snapdragon G3x Gen 1 Gaming Platform and the Snapdragon 8cx and 7c+ Gen 3 Compute Platform"
-    publishedDateTime: 2021-12-02T08:15:00Z
-    webUrl: "https://www.telecompaper.com/news/qualcomm-upgrades-5g-laptop-chips-offers-new-mobile-gaming-platform--1406279"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
   - title: "Chip shortage to ease next year, says Qualcomm CEO"
     excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the situation is expected to improve next year. According to The Elec website, Amon said that supply has improved this year over 2020 and the situation is expected to further improve in 2022,"
     publishedDateTime: 2021-12-05T11:26:00Z

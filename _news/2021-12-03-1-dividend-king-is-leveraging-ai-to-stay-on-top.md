@@ -54,7 +54,7 @@ related:
     provider:
       name: Equitymaster
       domain: equitymaster.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.eqimg.com/images/2021/09292021-PH-equitymaster.jpg"
         width: 350

@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/skku-fintech-research-education-cente
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: India Education Diary
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech enters into licensing agreement with digital mortgage platform"
-    excerpt: "Marble Financial has announced that it has secured a licensing agreement that will pave the way for the integration of its Marble Connect service with digital mortgage platform WiiBid Solutions. Under this agreement,"
-    publishedDateTime: 2021-12-02T08:12:00Z
-    webUrl: "https://www.mpamag.com/ca/news/general/fintech-enters-into-licensing-agreement-with-digital-mortgage-platform/318561"
-    type: article
-    provider:
-      name: Mortgage
-      domain: mpamag.com
-    quality: 24
-    images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/074/0270_637740295353940776.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Portugal Fintech Report: Top 30 Fintechs and First Unicorn"
     excerpt: "Portugal’s fintech industry had a fructuous year 2021 as it welcomed its first fintech startup unicorn and new regulatory development in the booming digital asset industry. Although the country is steadily rising as a startup hub in Europe,"
     publishedDateTime: 2021-12-03T05:55:00Z

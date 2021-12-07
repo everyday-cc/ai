@@ -69,15 +69,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 19
-  - title: "Qualcomm upgrades 5G laptop chips, offers new mobile gaming platform"
-    excerpt: "Qualcomm is continuing its efforts to expand beyond the smartphone market with new chips to drive mobile gaming devices and computers. At the Snapdragon Tech Summit, the company presented the Snapdragon G3x Gen 1 Gaming Platform and the Snapdragon 8cx and 7c+ Gen 3 Compute Platform"
-    publishedDateTime: 2021-12-02T08:15:00Z
-    webUrl: "https://www.telecompaper.com/news/qualcomm-upgrades-5g-laptop-chips-offers-new-mobile-gaming-platform--1406279"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "3LWbQCO++IGxEAkxrC782P05AxiGshsuTIFyODBK4r6XjQkhMd/Amuac5VlTu/IuaumIGUiOwlVR1wUdncYFe/sPNl7X/UUj4C8z0tP6IGI0d2eRXuOAqL0La8ds504DiEbQj4u1S3zyVAH4tyZqqxg8tZJgzUtsb0Pl13tUnb/lZFKszXUM4jWTIr6RREF2kf0L20vVr/YL+P0O42a/2ojXWk1vP2sK6lXX+DRz8I/shDgarMyqvRvyuNYEHb2ObqT4CeVi6xpwj/+RSNfnKPwXTnUcoRsNCIWXbw4oenwzkUqER+QV8l1n8XeSNAilbScgl7Cxi41fVzu1yO+IuRG1tWfD641XJvPpwu1DyHc=;7CngfqiXTsvd+CqWG8nqFg=="
 ---

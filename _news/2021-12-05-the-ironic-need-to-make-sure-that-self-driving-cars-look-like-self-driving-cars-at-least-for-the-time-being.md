@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/amp/"
 type: article
 quality: 55
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://www.electronicsforu.com/wp-contents/uploads/2019/06/Waymo-the-first-commercial-self-driving-car.jpg"
         width: 1075
         height: 624
-        isCached: true
-  - title: "Embark Stock: The Self Driving Investment You’ve Been Looking For"
-    excerpt: "Can the self-driving startup solve a critical factor in the supply chain crisis? It has the potential. Let’s see what’s in store for Embark stock."
-    publishedDateTime: 2021-12-02T08:58:00Z
-    webUrl: "https://investmentu.com/embark-stock/"
-    type: article
-    provider:
-      name: Investment U
-      domain: investmentu.com
-    quality: 39
-    images:
-      - url: "https://investmentu.com/wp-content/uploads/2021/12/embark-stock.jpg"
-        width: 730
-        height: 467
         isCached: true
   - title: "New AI method makes self-driving vehicles better drivers"
     excerpt: "In traffic, humans are used to constantly anticipating what will happen next. This reasoning ability is something that today's self-driving vehicles and AI systems in general are lacking. In a recent study,"

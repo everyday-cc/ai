@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/facial
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html"
 type: article
 quality: 72
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Technology To Be Launched At 4 Airports By March: Centre"
-    excerpt: "Facial Recognition Technology (FRT) has not yet been introduced at any of the airports in India, Minister of State in the Ministry of Civil Aviation General VK Singh (retd) said in Lok Sabha today."
-    publishedDateTime: 2021-12-02T08:52:00Z
-    webUrl: "https://www.ndtv.com/india-news/facial-recognition-technology-to-be-launched-at-4-airports-by-march-2022-centre-in-lok-sabha-2633960"
-    ampWebUrl: "https://www.ndtv.com/india-news/facial-recognition-technology-to-be-launched-at-4-airports-by-march-2022-centre-in-lok-sabha-2633960/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/facial-recognition-technology-to-be-launched-at-4-airports-by-march-2022-centre-in-lok-sabha-2633960/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 72
-    images:
-      - url: "https://c.ndtvimg.com/2020-05/akkcko9c_airport-generic_625x300_25_May_20.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "AAI working on facial recognition-based passenger boarding system: Government"
     excerpt: "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government."
     publishedDateTime: 2021-12-02T15:14:00Z

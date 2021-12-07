@@ -48,20 +48,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AWS brings point-and-click to machine learning"
-    excerpt: "Amazon Web Services has announced six new capabilities for its machine learning (ML) service, Amazon SageMaker, that make it more accessible and cost effective."
-    publishedDateTime: 2021-12-02T08:21:00Z
-    webUrl: "https://gadget.co.za/aws-brings-point-and-click-to-machine-learning/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 56
-    images:
-      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2020/12/aws-logo-scaled.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
     excerpt: "Lightspin, the multi-layer cloud security platform that prioritizes and remediates critical vulnerabilities across hybrid cloud and"
     publishedDateTime: 2021-12-02T13:30:00Z

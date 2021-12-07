@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-in
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/"
 type: article
 quality: 93
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12637_16384507321308025.jpg"
         width: 350
         height: 215
+        isCached: true
+  - title: "IBM plans further software integration with AWS to deepen business transformation"
+    excerpt: "To accelerate cloud transformation, IBM and Amazon Web Services Inc. have tightened their ties and strengthened critical features, including security, automation and artificial intelligence. “One of the things that we’re seeing with our clients at IBM is a lot of that low-hanging fruit of the cloud was achieved,"
+    publishedDateTime: 2021-12-06T21:50:00Z
+    webUrl: "https://siliconangle.com/2021/12/06/ibm-plans-further-software-integration-with-aws-to-deepen-business-transformation-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/IMG_6637.jpg"
+        width: 627
+        height: 418
         isCached: true
 
 secured: "ZIFv/uKR+C2deDFzEFOj7p5qBn2MLgL8nIiIwR+qNk0ju04794mzD+ddoA1n83Wu46bjEdIp7JnjIbP7dFExIMXYJ+1egYChZquotKPlxAND3twk+IuaAtxbEj/XXMcuUZtc8SPCbNSk75QsZnUwTp/yd+eckyOJBJwkv6s61FOcdSIqNQuhuJrStAujOaj5V4CaINd++Xyk2b77xUNE5LT0FkRFj+ZZpoKMkUe3q/G4WDZ99wj7pWmpCT1/gsGYjGhKOs7FQkbbEu0LXOJB49nYL+rSZhrNh39xq/+8nUh3l9G6/N0xdC8jDbaL7MTMZbCNBkkGlSyHO/AciMg+ueHx03UGRORXJkFTCDKmt/3l8LGrfS2ElZ4XNiRx12ZmydAWlB/2g9dQeftV5MIBmcnJ0n0k+4EkoAl21+z+xqaHRUbS2O6xaboNxlL2M+KaFtXeOHXPtbtLtMQoJ4uKne9ejxONKsTbP+dh0noAtOtesIgXQDUJT8F6dm7t0PJ6/wiu5gBersClxiny8hxc4Q==;fgpFltENzIyOZKU8sVi3GQ=="

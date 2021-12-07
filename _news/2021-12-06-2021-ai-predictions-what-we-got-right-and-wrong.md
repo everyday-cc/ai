@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/amp/"
 type: article
 quality: 93
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -33,22 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top five artificial intelligence predictions for 2022"
-    excerpt: "Ethical/responsible AI will move beyond ‘fluffy policy’, and become embedded in tangible tools and actual law and regulations."
-    publishedDateTime: 2021-12-02T07:42:00Z
-    webUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/"
-    ampWebUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/02/artificial-intelligence-4117035_640.jpg"
-        width: 640
-        height: 426
-        isCached: true
   - title: "Artificial Intelligence Predicts Synergistic Drugs"
     excerpt: "New study revealed the potential of using AI and machine learning to identify effective drug combinations in therapies for cancers."
     publishedDateTime: 2021-12-02T09:13:00Z

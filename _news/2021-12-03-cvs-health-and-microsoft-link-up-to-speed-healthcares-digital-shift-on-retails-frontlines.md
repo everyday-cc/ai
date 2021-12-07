@@ -76,17 +76,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Mindtree has earned Microsoft Azure specialization"
-    excerpt: "Partners with the Microsoft Azure advanced specialization can provide the tools and knowledge to develop AI solutions on their terms"
-    publishedDateTime: 2021-12-02T08:43:00Z
-    webUrl: "https://www.ciol.com/mindtree-earned-microsoft-azure/"
-    ampWebUrl: "https://www.ciol.com/mindtree-earned-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/mindtree-earned-microsoft-azure/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 54
   - title: "CVS, Microsoft forge digital care partnership"
     excerpt: "CVS Health and Microsoft established a strategic partnership focused on digital health and personalized care, the two companies said Dec. 2. By partnering with Microsoft, CVS is aiming to create more personalized customer experiences through data."
     publishedDateTime: 2021-12-02T16:01:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.republicworld.com/technology-news/science/humanoid-rob
 webUrl: "https://www.youtube.com/watch?v=IPukuYb9xWw"
 type: article
 quality: 134
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ameca is a robot whose facial expressions are uncannily realistic (VIDEO)"
+    excerpt: "Engineered Arts, a robotics design company, has released a video of its latest robot, Ameca. And the least we can say about Ameca is that it looks very much like a real human. The English company intends to make it a platform for AI development."
+    publishedDateTime: 2021-12-07T00:00:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2021/12/07/ameca-is-a-robot-whose-facial-expressions-are-uncannily-realistic-video/2026534"
+    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2021/12/07/ameca-is-a-robot-whose-facial-expressions-are-uncannily-realistic-video/2026534"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2021/12/07/ameca-is-a-robot-whose-facial-expressions-are-uncannily-realistic-video/2026534"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 58
+    images:
+      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-12/20211207_Robot_Realistic_Facial_01-seo.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A New Humanoid Robot Has the Most Advanced and Realistic Facial Expressions Yet"
     excerpt: "Since nonverbal communication plays a role in building trust, scientists are adding hyper-realistic facial expressions to robots; meet Ameca."
     publishedDateTime: 2021-12-03T09:58:00Z

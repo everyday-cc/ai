@@ -73,20 +73,6 @@ related:
         width: 1075
         height: 624
         isCached: true
-  - title: "Embark Stock: The Self Driving Investment You’ve Been Looking For"
-    excerpt: "Can the self-driving startup solve a critical factor in the supply chain crisis? It has the potential. Let’s see what’s in store for Embark stock."
-    publishedDateTime: 2021-12-02T08:58:00Z
-    webUrl: "https://investmentu.com/embark-stock/"
-    type: article
-    provider:
-      name: Investment U
-      domain: investmentu.com
-    quality: 39
-    images:
-      - url: "https://investmentu.com/wp-content/uploads/2021/12/embark-stock.jpg"
-        width: 730
-        height: 467
-        isCached: true
   - title: "Fishers Is Next Proving Ground for Self-Driving Car Service"
     excerpt: "After a trial run in Indianapolis this summer, a self-driving car service is coming to Fishers. The five-month pilot project begins December 20 and will continue into May. You’ll be able to use an"
     publishedDateTime: 2021-12-02T20:27:00Z

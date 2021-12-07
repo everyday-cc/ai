@@ -37,6 +37,17 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Merced County Test Site for Self-Driving Cars Gets $2M Upgrade"
+    excerpt: "While Merced County officials have said there are companies under contract to test at the site, they won’t say who those entities are because of the proprietary nature of the products being developed and tested there."
+    publishedDateTime: 2021-12-06T23:35:00Z
+    webUrl: "https://www.techwire.net/news/merced-county-test-site-for-self-driving-cars-gets-2m-upgrade"
+    ampWebUrl: "https://www.techwire.net/news/merced-county-test-site-for-self-driving-cars-gets-2m-upgrade?_amp=true"
+    cdnAmpWebUrl: "https://www-techwire-net.cdn.ampproject.org/c/s/www.techwire.net/news/merced-county-test-site-for-self-driving-cars-gets-2m-upgrade?_amp=true"
+    type: article
+    provider:
+      name: California Techwire
+      domain: techwire.net
+    quality: 24
 
 secured: "eAK2jWvc5cVVzvafjzy2q9QAm3eW6qdK/QaKERGzLURz9BzDqgDgljH482Lb7vnnhpT7VHiykNKT+j8X0zWofSGFHAN9UTN4SiXZTZugN1hGrc9xKnO+d2t7ywdFJBobH7/pOkkg64DAEvuBVXjTj9qvp4M1xS2XjGrmg+hvqVWCGqmDOJd8lhG5O9MVEnlchLKDeYFi0dFAfbXD8fHyXqmsjfWsDslx7vGD6FIQgvoDc6THrHopgsBXLmgMvxGfetKey3zWbEVepLqHYJSx3Qw9uroUqNOIWN9CxbqY0WnprD+Mm2J6aSjUyT3CJQZn54ffwdludaVP7styneB6xfNxLj4PQ6uSNwe77VnYjA6HLULT2CY3PnJcfhjNrifImdvMnFiyt1UZkVoFtQf4V4z0cfMJfaCaC1c7L3H7I1RrWN4rz0rllN2eaG3c0zGLBeOiyojoQUR47LtAcfHGgZET23SxcU+9KPwV4G5lZiF/0eblLGsvLaGTFkkQFQjkb3VjHlVfG4g07fu4ZAlxWA==;+v4/LBtjDxIzjR9xrVjbBg=="
 ---

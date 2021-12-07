@@ -7,7 +7,7 @@ originalUrl: "https://www.broadbandtvnews.com/2021/12/02/aws-increases-relations
 webUrl: "https://www.broadbandtvnews.com/2021/12/02/aws-increases-relationship-with-discovery/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "AWS, Discovery Plus extend strategic partnership"
-    excerpt: "Extension enables Discovery Plus to deploy AWS so that it can offer greater personalisation capabilities to help viewers find the content they want to watch"
-    publishedDateTime: 2021-12-02T08:58:00Z
-    webUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership"
-    ampWebUrl: "https://www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
-    cdnAmpWebUrl: "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/media-management/aws-discovery-plus-extend-strategic-partnership?amp"
-    type: article
-    provider:
-      name: tvbeurope.com
-      domain: tvbeurope.com
-    quality: 59
-    images:
-      - url: "https://www.tvbeurope.com/wp-content/uploads/2021/11/discovery-plus.png"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "KVHunFGZzKqGMUoGIfPrMse1mVEfHw8IUvmyUMtshFO1Y8Fre5/vTjFBUcQkmPpj6fSdr6R627fHfhpr8Ackz+HPT1u92T30p207vBuD1GHUAUPgTcduntzXDrjyv8Xm+BuysAhzvlnZKiIl4A6TNkXNluBCiyepxussay9ThNpuYOiT2NKh1QBMzfwKForiU7a1n9RKk4a3SrscpssqNNKD5+PlswW9W/86zzmWqecqLvo5JJkLBVfQ9bLx1poQgrQv8GJ5ACvGYJ1LSNW/nQwYYtwtnpxm4Kr0wAWgCGwwJAG8aE/gKMkqvBud8WbA4TE064tKY9YEBao1QKXDE5NZiJmf1jdb1J13kUg5QJVm1zelh0JwjIMWXZNZ+TNrovI9aIYNzRZh48oQrjBAgbvaEzKl2f5ot0FAK2nj1m+g05if55xpibOyr7WrHYbszoc4buEKlhvnqW8xmLTL51CH8E8p+8sCVJoQ7hnEBuSEhwgc2TRh7Kc0yL0lVK2XOSf60b7oW0EAPAttAa+wQQ==;oBaiaLVyXAX8EAE080vPTQ=="
 ---

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Facial Recognition Technology To Be Launched At 4 Airports By March: Centre"
-    excerpt: "Facial Recognition Technology (FRT) has not yet been introduced at any of the airports in India, Minister of State in the Ministry of Civil Aviation General VK Singh (retd) said in Lok Sabha today."
-    publishedDateTime: 2021-12-02T08:52:00Z
-    webUrl: "https://www.ndtv.com/india-news/facial-recognition-technology-to-be-launched-at-4-airports-by-march-2022-centre-in-lok-sabha-2633960"
-    ampWebUrl: "https://www.ndtv.com/india-news/facial-recognition-technology-to-be-launched-at-4-airports-by-march-2022-centre-in-lok-sabha-2633960/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/facial-recognition-technology-to-be-launched-at-4-airports-by-march-2022-centre-in-lok-sabha-2633960/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 72
-    images:
-      - url: "https://c.ndtvimg.com/2020-05/akkcko9c_airport-generic_625x300_25_May_20.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "These 4 airports in India will have facial recognition tech by March next year"
     excerpt: "It is important to note that data shared by passengers is to be retained during the transit of the passenger at the airport and will not be retained for more than 24 hours after take-off/departure of the flight,"
     publishedDateTime: 2021-12-02T09:40:00Z

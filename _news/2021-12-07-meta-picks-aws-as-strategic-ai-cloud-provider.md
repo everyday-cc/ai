@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-06T21:00:00Z
 originalUrl: "https://insidehpc.com/2021/12/meta-picks-aws-as-strategic-ai-cloud-provider/"
 webUrl: "https://insidehpc.com/2021/12/meta-picks-aws-as-strategic-ai-cloud-provider/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2021/12/Meta-logo.png"
@@ -97,16 +98,7 @@ related:
         width: 730
         height: 383
         isCached: true
-  - title: "Meta picks AWS as long-term strategic cloud provider"
-    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-02T07:52:00Z
-    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
-secured: "FdJvkVMmBX6rkPDf3kwh4jMrowZexzgkFYo3/TNd8JbO7/4Y1StW89M7h618zES3E3jyfx5uIuRqA5WDCbIZREX1WFQIsv6qP/Y0TwSq7aMTVKWu/AELXcMBOpHbucgKdM1RGZCGA/WqgU8l8TkdqkyDnZoQAGtl3Qh4RbnHpfwLaZJBumLDTiiyXs2v6yAEQMwIAzEYNWhAf0sfPr2AsBxEXDk88mKl/qa2RSOB2KNDxOD2du5KC7JjxfG7x91wThQuhsdHpVIsnO47aZJ7t3+m90FaiA27o6bpKoY6+W4Xy43qyxX7rFcYfuRSpr2mNbjqn8LqvCZyOj0z4R5oHnRJpsfzkGL5eE/q0GH61lU=;41yxy5mbKyOl+W77RnxGVw=="
+secured: "OebkqJWMVJkqK0rjF0w9gf3SAsTPLjONPTzofkMF8PW4pO87zoF1ZT+p5RO0qnuQ6Bx7tNgkidzWJVZZIg/MNvyZA9vOKJkDkwZX16TFMFtUo5MUAJiGeWGZpL8e6wE61KLoksJROWbjPfLpokQR/NmipENRbJgqf3rhf66PhdH1MnDL4UMl8i9/DSnUzwREws7qFGcJ+kP0Q8j1Ph8ahAVIZhf+D2buItJvr9BAqrBhT/qs5Tx8YIJLcXR2Zccr0Td9tOXWjzO+pv5lTn71Fc+CljmYuk6NGBdsy2QQ79dNfIAaWDVxEnPI8X1/kNgFU9C+uoDQrax5gM8kjJnd3bLHj/bxHkdlSCnPR83xTGtFadTWxpYiiaCOe/N0+8nJwcujZB+yYLfoLB20h6cU7t6gevKgwAnl5Op3RU/08isVzli9O0eyUM+pjkNwJ/2NPno4uzNJno9lNyEF9gtNj9mh/RHHVWdiXhUdT9EB2KGZGu6TFQIaOMXEYPyhBkMeZlndT3IiATBnJHSfeoLxFg==;HyWMMuRBHABHXtJWXgbYJg=="
 ---
 

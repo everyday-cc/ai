@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/machine-learning/361762/automl-ma
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030?amp"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:

@@ -1,23 +1,26 @@
 ---
 category: news
 title: "AI optimization technology startup Nota raises $14.7M USD series B with recognition from global enterprises for its technology"
-excerpt: "Nota, an AI optimization platform startup, has acquired series B funding amounting to USD 14.7M that is announcing today. The series B funding was finalized last month, a year after the series A funding of USD 6."
-publishedDateTime: 2021-12-01T03:05:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-1031014199"
+excerpt: "Nota's NetsPresso is its proprietary hardware-aware AutoML platform that automates AI model development process only with datasets. NetsPresso significantly reduces time and resources that are ..."
+publishedDateTime: 2021-12-01T02:54:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-301434615.html"
+webUrl: "https://www.prnewswire.com/news-releases/ai-optimization-technology-startup-nota-raises-14-7m-usd-series-b-with-recognition-from-global-enterprises-for-its-technology-301434615.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - Machine Learning
   - AI
 
-secured: "FNoYTu2uwNIrlTW3aDM7qjMEcgvnKpG09/TemTaJGiI7Junyi+p9iMxd/RvGj02FvWl6W/hAhU+PAY3YpDsDq3hOb9iZknTdiXY1Gb8TEJK56SAwMl5wtvQGipEPoDskobqn6P5GqS5ian9MQpJmc4tQXQk570neoe4oyFGztK5/LUA/RRrrNp75UOGlny5Fj2XD1Ifyv4PE/I7DMmZSI49yknmUUkCj+BMLFsUmBECCDvHITXxCm3b05m9X0BBtBQjegesPOoMB8GKMyhoEQPwx2arJXNgu9vpZeSoKVm2iWuRfwGoPh/A8K4aa2MQfHL8rGx3viurgSNdgG55itQgwJK+e41gZ7WXipyp4Zy/iqZBsOK4C9IMn0UkCIT+izssXwAXrIHE/gtL+3bTnmO8EBS8AZX0YEMbO1LWbVlxQxG4cpprIIaeln1Wc7bgLOP9cTxSfocJzJOAa9Ioq5UpLYadYOGUa6d23ypheBuY/rn/UsIBY2AHgzNEEO4MUkZeQC+cehA6ZMBl6Ytd1Dw==;I4KK6SOR/NH5wjD+E97+tg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1698783/image_1.jpg?p=facebook"
+    width: 797
+    height: 419
+    isCached: true
+
+secured: "JVNxQpfdiaxARRN/BwV6yN/srfcSgnhtwldJmUWpgkV75YAThHJu+twiqiVWKvnrkI0jU3o+wAgjJJHQpi54ufmtnrWmr2V3DU3Q6KwCK3XuFuz0eHORFZB1AkjgR3S2iEU4jmZJWeMS5jtVQDSygEiy2ljxla1/EeERtKcPeq7l4GUnam70nwRvZtLe75slb0lBBABceGk7ihXyUHDSj5GdQ5ySX+RkfjdfGWzHt6a1lMMSxzIjhykezYHy3LEgL0XFeWRwjC1f78ca/Old6iRiceAbeRiR95qjwDSK6NlAVWEYBypnYwEmYS/tQhfyXILYpOL5uceeQTUP54Gxd0GkMRmowgsrlN5a0Dpqp4w=;uGvuxh9hbRCLd+rFPsF46w=="
 ---
 

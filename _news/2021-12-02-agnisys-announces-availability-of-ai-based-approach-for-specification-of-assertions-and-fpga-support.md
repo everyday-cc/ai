@@ -75,6 +75,20 @@ related:
         width: 1920
         height: 1324
         isCached: true
+  - title: "IBM plans further software integration with AWS to deepen business transformation"
+    excerpt: "To accelerate cloud transformation, IBM and Amazon Web Services Inc. have tightened their ties and strengthened critical features, including security, automation and artificial intelligence. “One of the things that we’re seeing with our clients at IBM is a lot of that low-hanging fruit of the cloud was achieved,"
+    publishedDateTime: 2021-12-06T21:50:00Z
+    webUrl: "https://siliconangle.com/2021/12/06/ibm-plans-further-software-integration-with-aws-to-deepen-business-transformation-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/IMG_6637.jpg"
+        width: 627
+        height: 418
+        isCached: true
 
 secured: "04vVW5CXibC/Jzb16qs4b3jUyQCHNBCImotKGzCwP2KX3RyPx1zUWlXdDqAbROGO68YT33Qa5uqHwFcelX0NVhrli0SYKJ+82rY6qCosV0q0tI+7l3OOB4O18Klisv09A6s+NEp4KKfz3fXaPdpgXnRFCHnmY968+kTIwDCLEnLsX01GHndEnV0kp3/duieFWNg+ttpfFRK9oomq+UuMPoYpubhMNwEiQcyAWfgdYj48YBy45k5H8vmeYRzpXb6pStiKT5ZYuHFuVvI3Ui+BL31TssKoNcmRWNlHaPHGjlMIaCywWV4ko1Lu9q/w2+eZ37fc94Ol5PZ1g+XXOJYgzcz5/TOsTCj7ZGHcT9HltabzB9OGdCCy8/4wR4S+TdXopY27uGeIITtBPmyIVItGcc5tInzfR929oWAnF0DVCm6yYPYKbfk7dIm51zqFw62+4mEJZ59BZ8x82FwYFMAYEzieX5zSzQtqwPLgLmga+A4x6gLZ3qhbK8xN6gysjkfwcp691mI9cG0DkzL3v1EQBw==;ZQVm8lposBiSCCsfNG6bNg=="
 ---

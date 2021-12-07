@@ -65,7 +65,7 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2021/12/Meta-logo.png"
         width: 340
@@ -99,15 +99,6 @@ related:
         width: 1400
         height: 840
         isCached: true
-  - title: "Meta picks AWS as long-term strategic cloud provider"
-    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-02T07:52:00Z
-    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "aKvbmFBGCmBrSxsxMcCC/Uhwva3H+4v9Qtq6mUruwIHBN/90+Q5keJyqnrpDnXqZaT0EjQYzqDkrCOCCoANsxJAckvjRyxiGI+hPT1MuqJRPs+0K0Tq7fmC3hmUw/U7OrBmHr5m3CN8jwwnEa982jWeBTO2U6vK9TFHdBfiuYitKWYG3zmoYgK3YI39upwylhha/pberjP6mEk5OBnYdpVLinNGODY4MoLCrNsIb5m2F10FXfBnbGg0gJpNn8jkRr3llqyEsv19xkibR9/8kigVGKWMD5Y1uwc0paHGb2MNo4OScMuic5FklBQAxh+km/SyS1nig0gUF0a0CbaX0H5OFgY3HxukInTLxTdEHBjc/5nJa0e1bxHf+swLEpCmYQjvEaWgvYfit/BbqJBJowLL3ggo26+rQ+EqV/3o0//C904o+jX1MGy831KegU09P5txlHf+n/Q6mrNE1BOrwZ019mKSgNcpnUi3Q5P5ouPtjislKmLJ9q7bvSIVYTc50fjASOqwbB38SWg9JxLeYEA==;7x6oyF+zlqi3hjo/L20ZsQ=="
 ---

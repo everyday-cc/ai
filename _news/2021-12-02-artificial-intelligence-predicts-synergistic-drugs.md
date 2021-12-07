@@ -37,22 +37,6 @@ related:
         width: 1048
         height: 590
         isCached: true
-  - title: "Top five artificial intelligence predictions for 2022"
-    excerpt: "Ethical/responsible AI will move beyond ‘fluffy policy’, and become embedded in tangible tools and actual law and regulations."
-    publishedDateTime: 2021-12-02T07:42:00Z
-    webUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/"
-    ampWebUrl: "https://www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ethical-responsible-ai-will-move-beyond-fluffy-policy-and-become-embedded-in-tangible-tools-and-actual-law-and-regulations/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2020/02/artificial-intelligence-4117035_640.jpg"
-        width: 640
-        height: 426
-        isCached: true
 
 secured: "Zytpm1NDKQpybhJzSc+LlrkrsUg6SKwq4RmnqygK+4um0ujFiF+wkfAL2pZWk40uWhLHV1FZv0SH5zaxZeh9G9PyO/rTSgVqbAHPAWIysRFpieWsN5Ov0QNkz6300luP6gymJZzXLUdesPcfajYhgjVR5QauP+/4wQKiHfr4q+h/65WigHTVLoo3NgaAg0q7Fb/M0+WQcuy3HQypTLs6dnzz1XwXDqjft3n6h6cOvzXKmb99LBEIFL0eft5Bja3jsImGLaNeBsXFSgZXavaWA/PHEblBoqFzS8WfYJOnzgsquzMA2zC3t3iFk2lliOFaGWb4db2r54bIuO56s+ySFUxFdeixo29jA9teqddDLzILcm4aJYTnaEX3VUohNc3GFAF9pm/nqG9k95nSlatUR0gU1REpdbUj4m0ehwWKeezI7SRyg+rYoC+KVBmW9zeZQIMC+hvwqaZofCSEX0dGJVrVJBXnGtJkcxQxH2oQ3jLflltgYuqvf3l1pw9mb6WFJ0j5PR4UQrlfn4UaAr/WVQ==;X5YLndMgmc0igVWTNPg0yA=="
 ---

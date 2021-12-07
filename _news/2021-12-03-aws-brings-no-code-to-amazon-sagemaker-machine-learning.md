@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amaz
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html"
 type: article
 quality: 121
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa5933cafd39f832c92b71%2F0x0.jpg%3FcropX1%3D18%26cropX2%3D572%26cropY1%3D0%26cropY2%3D312"
         width: 554
         height: 312
-        isCached: true
-  - title: "AWS brings point-and-click to machine learning"
-    excerpt: "Amazon Web Services has announced six new capabilities for its machine learning (ML) service, Amazon SageMaker, that make it more accessible and cost effective."
-    publishedDateTime: 2021-12-02T08:21:00Z
-    webUrl: "https://gadget.co.za/aws-brings-point-and-click-to-machine-learning/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 56
-    images:
-      - url: "https://i2.wp.com/gadget.co.za/wp-content/uploads/2020/12/aws-logo-scaled.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Lightspin Research Team Discovers Cross-Account Access Vulnerability on AWS SageMaker Jupiter Notebook Instance"
     excerpt: "Lightspin, the multi-layer cloud security platform that prioritizes and remediates critical vulnerabilities across hybrid cloud and"

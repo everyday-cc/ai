@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aw
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp"
 type: article
 quality: 106
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -54,7 +54,7 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://insidehpc.com/wp-content/uploads/2021/12/Meta-logo.png"
         width: 340
@@ -102,15 +102,6 @@ related:
         width: 730
         height: 383
         isCached: true
-  - title: "Meta picks AWS as long-term strategic cloud provider"
-    excerpt: "Amazon Web Services (AWS) said it has been selected by Meta to be its strategic cloud provider. Meta will use AWS's infrastructure and capabilities to complement its existing on-premises infrastructure,"
-    publishedDateTime: 2021-12-02T07:52:00Z
-    webUrl: "https://www.telecompaper.com/news/meta-picks-aws-as-long-term-strategic-cloud-provider--1406269"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
 secured: "eR2PzhNldYfHcwaKxO5QfOlFvpaTKJYVPcKq5jJihhJ+AS5zrOVpFmHKZfcjpxqYgcnGoVUV4/pXCkCwdocVE6yhAGng1X81ndmLtTi0LdDN7Wy7YXkC0w1HWcrwcF4YMtXMlUCYA5YJyhQCLy4k5GeEg+gS9qFQQQv8z1NLZpriCS5QThDSSPxtdGJyqMH2aVWslxIz2eeisfzadKOmdyOwlO+rbmlYYy+7niAaX1NLKFCv78cT6ZHMgXZiq7pdvHI96yYOS5ogauG2QIkhDqaOjw5joB2VRkGDiz9wUMkLcVcfbzgf9jzKvdf6Zna58irWzSsuBx5nqVFdy7kZ31BxEhWjZQEU3M/zukNr6c4=;+DGk284rWnKi0jb8tGu4Ew=="
 ---
