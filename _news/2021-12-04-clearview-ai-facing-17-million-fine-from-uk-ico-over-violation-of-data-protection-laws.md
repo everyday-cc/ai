@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Clearview AI on track to win U.S. patent for facial recognition technology"
+    excerpt: "The government is moving to award a lucrative patent for a “search engine for faces,” a technology that has members of Congress and privacy advocates up in arms."
+    publishedDateTime: 2021-12-04T14:00:17Z
+    webUrl: "https://www.politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735"
+    type: article
+    provider:
+      name: politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735
+      domain: politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735
+    quality: 152
+    images:
+      - url: "https://static.politico.com/1f/c6/e26ed93a4911a083f7f881137c54/gettyimages-925054788.jpg"
+        width: 3000
+        height: 2041
+        isCached: true
   - title: "Clearview AI set to get patent for controversial facial recognition tech"
     excerpt: "The news comes as facial recognition systems are more and more widely adopted, despite a lack of clear rules regarding their use."
     publishedDateTime: 2021-12-04T22:53:00Z
@@ -119,6 +133,20 @@ related:
       - url: "https://trak.in/wp-content/uploads/2016/02/cropped-Favicon-Square-2016-2.gif"
         width: 512
         height: 512
+        isCached: true
+  - title: "Neurotechnology Brings Facial Recognition Solution to Web Apps"
+    excerpt: "Neurotechnology has announced a much-improved version of its Face Verification solution featuring enhanced algorithms and support"
+    publishedDateTime: 2021-12-03T17:25:00Z
+    webUrl: "https://mobileidworld.com/neurotechnology-brings-facial-recognition-solution-web-apps-7122101/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 39
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/iStock_Face-Feature.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Clearview’s internet-as-facial recognition reference database concept to be granted patent"
     excerpt: "Clearview has received a ‘notice of allowance’ from the USPTO, setting up a grant of the patent once all the associated fees have been paid."

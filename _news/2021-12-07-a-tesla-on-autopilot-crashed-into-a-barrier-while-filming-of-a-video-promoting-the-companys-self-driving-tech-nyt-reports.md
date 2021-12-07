@@ -134,6 +134,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 38
+  - title: "Parking space detection for self-driving cars comes to CES 2022"
+    excerpt: "Software developer StradVision will showcase its latest software developments including parking space detection features and vision perception for augmented reality applications at the upcoming CES 2022 trade show in Las Vegas."
+    publishedDateTime: 2021-12-07T13:31:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17504/parking-space-detection-for-self-driving-cars-comes-to-ces-2022"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/504/17504/software.png"
+        width: 752
+        height: 422
+        isCached: true
 
 secured: "n96yqxYoilFSm199fiUJBtPSh4CEmSgz7pfYrkZA0rtoDp14/dWKADDkqc9fl1G3lIA8TKnzRuIgTIEVnNrg3vZ5nPzvXJidtKdyZDl39v+Cu51di4VIfDX4YXewVi8K53WU4Lb5Ui8lsbfj1hawwRdfc2mOppP8fv2fYVJponG/KpcZUqyVT7ImurmpjZfYv5XqSitP3AvK6GVCl0PoGVQGj49FMlhWYK253+S1e8+a+zjGi9LGLqVfSuNzEL7euWGibI0E2YlNB9tPwbtUYak5wRtAasvfFaLjwbCphgCR6X40QuB+wyrp8eKz4HVMeMVlHm5cjrUMoIY7+WynJxkJjv3K3Y5zl5qnJUxjN5U=;J4C+oeqc1PEuVHSssP+Bzw=="
 ---

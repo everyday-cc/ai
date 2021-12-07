@@ -9,7 +9,7 @@ ampWebUrl: "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-m
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 740
     height: 493
     isCached: true
+
+related:
+  - title: "100 Versions Of Robot Sophia Ready For Metaverse"
+    excerpt: "The latest iteration of Sophia allows 100 versions of her in NFT format to be available in the metaverse Sophia, the humanoid robot built by Hanson Robotics, will now have her virtual anime version in 100 non-fungible tokens (NFT) and be seen in the metaverse."
+    publishedDateTime: 2021-12-07T12:59:00Z
+    webUrl: "https://analyticsindiamag.com/100-versions-of-robot-sophia-ready-for-metaverse/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/FF8OoaUUcAck9S6.jpg"
+        width: 1628
+        height: 954
+        isCached: true
 
 secured: "yNFqWyfrJ8ETEAgu1Mp5nx3cGV5/4EoQwhcsRvjCjeRu9vfnMD1GHDp0iBPZELc9SIG2oH7jVqSlek1K5p+O6LOjQx5W+ECgwxNkqHUXGYa7xu/xJczB5y/OVj8CcnKc3Z4R/A2Pen7rzHXKT3eLS/Dl1t76asA7Rx6qnZMNhC6ot0c/xyoWclTH9ls+54RdJwA3VINQF9QvKkitf/5IoC4htM+eBDoCxeiy7KmVvrhoTmKHeqkRCCf2FhgIacUYiwQNKYMPISprc1LdpH9bD5nPm/hR2CXk4xrI9V8gESBWdDax+9W5NQYul+aACSkR3/WX+Xmh6lUxuKV3TVicZklp3/reEFc+wwavB++Kx8q6vATaw8t4K3UpiccGLzneBDIaP1CXn6vG7selFHWyanBwrXWM6ix0ZVxF9oZXgJXxuCKZ1pYREcI3VVyhMfu5ugY+mhE/Bjfa2wpepkprocoRh8Bad582YkXMjjp6wqHTmrdCcY/LiHKygnpNNL3mQNrxBCSLyGLrqPxBjSGBhg==;Bohypunq2mXdW6QtErgcvQ=="
 ---

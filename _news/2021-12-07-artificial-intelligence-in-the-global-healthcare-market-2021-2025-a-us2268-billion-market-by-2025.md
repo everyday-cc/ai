@@ -3,26 +3,21 @@ category: news
 title: "Artificial Intelligence in the Global Healthcare Market 2021-2025: A US$22.68 Billion Market by 2025"
 excerpt: "The \"Artificial Intelligence in the Global Healthcare Market (2021-2025)\" report has been added to ResearchAndMarkets.com's offering."
 publishedDateTime: 2021-12-06T21:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-global-healthcare-market-2021-2025-a--us22-68-billion-market-by-2025--301438128.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-the-global-healthcare-market-2021-2025-a--us22-68-billion-market-by-2025--301438128.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-the-global-healthcare-market-2021-2025-a-us-22-68-billion-market/article_56a1cbf0-42f7-517f-b585-916871dfb454.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-the-global-healthcare-market-2021-2025-a-us-22-68-billion-market/article_56a1cbf0-42f7-517f-b585-916871dfb454.html"
 type: article
-quality: 39
-heat: 39
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
+  - AI in Robotics
   - AI
   - AI in Healthcare
-
-images:
-  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
 
 related:
   - title: "Future Unicorns in Fintech Report 2021: Analysis of the Top 50 Fintech Startups that have the Potential to Valued at More than US$1 Billion - Research"
@@ -40,6 +35,6 @@ related:
         height: 339
         isCached: true
 
-secured: "vFO65g40EGhrJX1v0548x6z5h9hGH+B9n6TyoMB6aloqxywRfDAq9WkvJIchAYJXyarlCBDwYusDHPX1e3IfFBPmhVUHDsZ/M492/ROD6s+tyZZBlvmkTnW1N7um6FtjqGSTfUEtO8tyiGEw+prwhz1zTEdJN2+T5s99TmQ5bLWy5U0zsXb9xUlnEW9vSx7x3+xU2KdYdQjf6jRwKlOuSTU7K+IB0qvkjnOSXIhbdJ5xRhAdcPQVeNYLk6atOD5MfOfdnXnSX6aYdmAWgmT1BcbRHB4T1srU2NbG0n6ofaH3gg/r7P1G4TnqvzbAdwrk0FZ9gazIuuks8mUUG5LgBFs3HdAL1+Am6PK/AYd0ndc=;l/aj10nIwMErZ4xyAXYpjA=="
+secured: "EZzRO74iDMZwHNLzBeikBWobgOFr3Oatm1hcE74DwRx5En4kJxfTYWm2r2sbS94WZcw//kNwxV6F3/KPTWg/aqTqFwQtzaOH2TGNxQplUGXkRcZj5zxLob2S4ScDUaU7Vz7EymFxx+X/qj9wuHo3GLHLwdf7f0NlmOBqBHR8c2ESR5PGiLQ3rRiVrlWIxet0Eq1uArlIriVfbpzfO/i0ywfqV9uSgUc2jJYnECHl/ni3EBJYFMQSl//ASFUkLzaEnQanMs6fZZbTpWgUgcrXbXv/hZr+NULuXpKFVjEGuUFVtnSWUBGnN/QmnRm+7N1O0Scv3wh8Gp6arMzucrKRZksdB+u6YxUdA3w5qRgoDs+ROgYRaNcRouVfAIvktB9CvfErjgvutL9zg62ppPKmZtFVRvdjzarDGZBzzUJKfV3LnvUQ6hdPUoHZ4WcCPtZbFdlVBesnaj0ihLwPktUBdRuGy64k+dRlYkr/VRwxmNn/wR0hxoT6Vu4e6t1oZAWH3Nuz/am7xo7+cSI7/YJQUQ==;Dhx1V5H8gsud0UdnuDXYIA=="
 ---
 

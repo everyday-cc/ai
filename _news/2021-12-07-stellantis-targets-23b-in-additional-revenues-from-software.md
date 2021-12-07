@@ -41,6 +41,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Stellantis wants to outfit cars with AI to drive up revenue"
+    excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
+    publishedDateTime: 2021-12-07T13:45:00Z
+    webUrl: "https://apnews.com/dd09c1d97485e02a7d33dc0b426b2001"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/8ace94a4da9546028e182b0e1b7af7bb/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Stellantis launches $23 billion software push"
     excerpt: "Working with partners such as Foxconn and Waymo, the automaker said it will have 34 million connected vehicles on the streets by 2030, from 12 million now. It also plans dedicated AI technological platforms."
     publishedDateTime: 2021-12-07T06:51:00Z

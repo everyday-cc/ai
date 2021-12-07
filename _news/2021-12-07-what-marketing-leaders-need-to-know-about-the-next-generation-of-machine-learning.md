@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/drgeraintevans/2021/12/06/what-marketin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drgeraintevans/2021/12/06/what-marketing-leaders-need-to-know-about-the-next-generation-of-machine-learning/amp/"
 type: article
 quality: 101
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -32,21 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Imagine the wonder of a child: A deep dive on OCSB’s Deep Learning"
-    excerpt: "In the process, these Kindergarten students are learning about money, marketing and relationships. They are figuring ways to improve the lives of others while discovering their talents. Ultimately, they are living out Deep Learning."
-    publishedDateTime: 2021-12-06T09:41:00Z
-    webUrl: "https://ottawacitizen.com/sponsored/life-sponsored/imagine-the-wonder-of-a-child-a-deep-dive-on-ocsbs-deep-learning"
-    ampWebUrl: "https://ottawacitizen.com/sponsored/life-sponsored/imagine-the-wonder-of-a-child-a-deep-dive-on-ocsbs-deep-learning/wcm/89d9761b-9c5b-4bf3-a18b-4a76f9983bb6/amp/"
-    cdnAmpWebUrl: "https://ottawacitizen-com.cdn.ampproject.org/c/s/ottawacitizen.com/sponsored/life-sponsored/imagine-the-wonder-of-a-child-a-deep-dive-on-ocsbs-deep-learning/wcm/89d9761b-9c5b-4bf3-a18b-4a76f9983bb6/amp/"
+  - title: "What Marketing Teams Need To Know About Codeless AI Infrastructure"
+    excerpt: "Codeless or no-code AI infrastructure is a testament to data scientists working in tandem with domain experts to build products for particular purposes."
+    publishedDateTime: 2021-12-07T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/amp/"
     type: article
     provider:
-      name: Ottawa Citizen
-      domain: ottawacitizen.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://smartcdn.prod.postmedia.digital/ottawacitizen/wp-content/uploads/2021/11/Deep-Learning1.jpg"
-        width: 1144
-        height: 912
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ae0dc401c039d48f234705%2F0x0.jpg"
+        width: 1200
+        height: 799
+        isCached: true
+  - title: "Artificial Intelligence Is All the Rage. What You Need to Know."
+    excerpt: "UBS calls artificial intelligence a top investment theme for the coming decade. But Eric Schmidt, who used to run Google, warns that investing in AI isn’t so easy."
+    publishedDateTime: 2021-12-04T05:50:00Z
+    webUrl: "https://www.barrons.com/articles/ai-stocks-investing-artificial-intelligence-51638579011"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ai-stocks-investing-artificial-intelligence-51638579011"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ai-stocks-investing-artificial-intelligence-51638579011"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-446312/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Artificial Intelligence Is All the Rage. What You Need to Know."
+    excerpt: "UBS calls artificial intelligence a top investment theme for the coming decade. But Eric Schmidt, who used to run Google, warns that investing in AI isn’t so easy."
+    publishedDateTime: 2021-12-06T01:48:00Z
+    webUrl: "https://www.barrons.com/articles/stocks-investing-artificial-intelligence-51638579011"
+    ampWebUrl: "https://www.barrons.com/amp/articles/stocks-investing-artificial-intelligence-51638579011"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/stocks-investing-artificial-intelligence-51638579011"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 57
+    images:
+      - url: "https://images.barrons.com/im-446312/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "ChTrXMTdq5JsRb86zWkZPGQodq/NspTCwP/j3+07myxQYyjGDEw0ILMBmoHoE5hc3Tb228R/ylN4XzZuXB2I3YGieoxfqmTwa/pUAIw4+geQEjpUzZjTq+ZxwlyIeaGHSd5eqiKYwdu94XF/OlXuidig0zNmG9galBTZi4LSwsXyacNjIoAycz9aSn3bBCMFZ6w7xRboCqGyeMwgmLERBV7XwlsPku8hme882JeX+g49uBhCpwISJU21LcJ8Wv6R8liGjWw5lMlJ8xS4pNUQO/cJ94AX7FfDTruG/qA57Pfyif4Qoza2UUkacR2lDlJf2EYm6ftmTRJ21jPlefKwBxXtB3bTI0chEHM/U3QsoxW6MjZZRFA7GAC4W9jBzLZ3eWMI2OIXX4uyFP3vCiP/PhjlYZh7zWbgVnulOiLFXjjFOdXf2Z+4pTkAMr/ykBZQV9+KrXtCsjFcjIoI4kp6ROkoULCD25UCwa1gOh6tcnj8I2ZNZZx/f8RInUTQQ/S7dKeNT800ycOlKtnyoQA6Qw==;WCVJmDo+sm9ZlqBFTpLa2Q=="

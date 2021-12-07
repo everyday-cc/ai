@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Intel To List Shares Of Its Self-driving-car Unit Mobileye In Mid-2022"
-excerpt: "Intel Corp. (INTC) said that it plans to take its self-driving car business, Mobileye, public in the United States in mid-2022 through an initial public offering of newly issued Mobileye stock. Intel will remain the majority owner of Mobileye."
-publishedDateTime: 2021-12-07T01:47:00Z
-originalUrl: "https://www.nasdaq.com/articles/intel-to-list-shares-of-its-self-driving-car-unit-mobileye-in-mid-2022"
-webUrl: "https://www.nasdaq.com/articles/intel-to-list-shares-of-its-self-driving-car-unit-mobileye-in-mid-2022"
-ampWebUrl: "https://www.nasdaq.com/articles/intel-to-list-shares-of-its-self-driving-car-unit-mobileye-in-mid-2022?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-to-list-shares-of-its-self-driving-car-unit-mobileye-in-mid-2022?amp"
+excerpt: "Intel Corp. (INTC) said that it plans to take its self-driving car business, Mobileye, public in the United States in mid-2022"
+publishedDateTime: 2021-12-07T03:02:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/intel-to-list-shares-of-its-self-driving-car-unit-mobileye-in-mid-2022-1031027529"
+webUrl: "https://markets.businessinsider.com/news/stocks/intel-to-list-shares-of-its-self-driving-car-unit-mobileye-in-mid-2022-1031027529"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -140,6 +142,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "z2Wh8OZUvI+mavlUMGKHeGvxlGXli/qY/Jpt66aEV12fHWeMJKCWH5vxr8CU4s1i0U+Dmmcgo9gNKs6Pp3UU2Xv4GVHpwPcVgcpHR26da970An4tvGCQb3nh35BhV7oqVpptP942wiok8Md3y4J1c+mMyNERjJ/pYEg0A0JI8HJhyEoxNQHR1817D5kArSnogMX46w87rVLOYaNdYG6Pwvj+KlIeWTHjdTRUg9laZplGid2pJOgGa5nI4KBW7AIdmnVMHIsXc6yfKdDAnPwTiJK4PZxkkXhbHZJlD0FfEIsSvXbssT2xud3Spd7GspKuhk0FNDa8gB2tFDegAtWxHgh+iaNpnzyAu9PRPmj9bH0=;S2qRFQ7NHwnR6/TqXDYGRg=="
+secured: "b8fJu4p4vO3gwZaMd5d7VO+ImaleRmboPMe01yp5zE3i9BLZpQn8Z8bx2zrLTDHYZs5iAff0QTwcZJJVb4uK94B2V3VlSNX9/S3MWjWLh3LX33ZPRC0Q4ogd4z53AJq3MYGGcPZQJH9kSVhs46oir6kBozwurtOjToiBWgmYhz6tSxLgCgkQ6pu4lD0OXHXoWy8KH60Qldq+knaL6u8oSR3gvWq2eocW7iJKloHO7YgxC8nv5DqbWYd6R38xbamOYxJsBQLJrHd4nRZNj2qU3eB6UNWIU/ssmRHzGOPI8/Boy6/cQd0JbmsJmC6UvidaDGQZM746293h8WeAXN8ZiweP25vgETMgIlUCqEsz8sw=;nIjCsTwQx3EYQUrGB4c0Ug=="
 ---
 

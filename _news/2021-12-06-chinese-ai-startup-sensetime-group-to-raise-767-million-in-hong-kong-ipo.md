@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesstoday.in/amp/latest/world/story/chinese-ai-start
 cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/world/story/chinese-ai-startup-sensetime-group-to-raise-767-million-in-hong-kong-ipo-314497-2021-12-06"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "SenseTime Launches Hong Kong IPO to Raise up to $767 Million -Term Sheet"
+    excerpt: "HONG KONG (Reuters) -Chinese artificial intelligence startup SenseTime Group is looking to raise up to $767 million in its Hong Kong initial public offering (IPO), according to a term sheet seen by Reuters."
+    publishedDateTime: 2021-12-06T06:54:00Z
+    webUrl: "https://www.wsj.com/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055"
+    ampWebUrl: "https://www.wsj.com/amp/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 186
+    images:
+      - url: "https://images.wsj.net/im-446639?width=860&height=573"
+        width: 860
+        height: 573
+        isCached: true
   - title: "AI Giant SenseTime’s USD769 Million Hong Kong IPO Gets Underway"
     excerpt: "SenseTime, China’s biggest artificial intelligence company, has started accepting subscriptions ahead of its HKD6 billion (USD769 million) initial public offering on the Hong Kong stock exchange on Dec."
     publishedDateTime: 2021-12-07T08:34:00Z

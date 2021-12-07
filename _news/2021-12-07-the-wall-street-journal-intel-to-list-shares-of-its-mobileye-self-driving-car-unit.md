@@ -93,17 +93,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Intel To List Shares Of Its Self-driving-car Unit Mobileye In Mid-2022"
-    excerpt: "Intel Corp. (INTC) said that it plans to take its self-driving car business, Mobileye, public in the United States in mid-2022 through an initial public offering of newly issued Mobileye stock. Intel will remain the majority owner of Mobileye."
-    publishedDateTime: 2021-12-07T01:47:00Z
-    webUrl: "https://www.nasdaq.com/articles/intel-to-list-shares-of-its-self-driving-car-unit-mobileye-in-mid-2022"
-    ampWebUrl: "https://www.nasdaq.com/articles/intel-to-list-shares-of-its-self-driving-car-unit-mobileye-in-mid-2022?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/intel-to-list-shares-of-its-self-driving-car-unit-mobileye-in-mid-2022?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Intel will sell stake in Mobileye self-driving car technology, which could raise billions"
     excerpt: "Intel said it will retain a majority stake in Mobileye, an Israeli company Intel acquired for $15.3 billion in 2017. Self-driving cars have emerged much more slowly than Intel and other technology companies expected but Mobileye’s technology remains very highly regarded – The Wall Street Journal wrote Monday that the business could be valued at more than $50 billion."
     publishedDateTime: 2021-12-07T02:14:00Z
@@ -120,6 +109,15 @@ related:
         width: 4240
         height: 2384
         isCached: true
+  - title: "Intel To List Shares Of Its Self-driving-car Unit Mobileye In Mid-2022"
+    excerpt: "Intel Corp. (INTC) said that it plans to take its self-driving car business, Mobileye, public in the United States in mid-2022"
+    publishedDateTime: 2021-12-07T03:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/intel-to-list-shares-of-its-self-driving-car-unit-mobileye-in-mid-2022-1031027529"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "Chipzilla to make its self-driving car unit public"
     excerpt: "Mobileeye plans IPO  Intel is planning to make its self-driving-car unit Mobileye a public company in the middle of next year -- an IPO could value the Israeli unit at more than $50 billion Chipzilla expects to retain Mobileye's executive team and hold on to a majority ownership in"
     publishedDateTime: 2021-12-07T11:26:00Z

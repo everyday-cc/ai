@@ -43,6 +43,20 @@ related:
         width: 494
         height: 301
         isCached: true
+  - title: "The Hindu Explains | Facial recognition tech in Indian airports"
+    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
+    publishedDateTime: 2021-12-07T14:08:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 54
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
+        width: 615
+        height: 384
+        isCached: true
 
 secured: "Ec9fzFb1J/8zSBBXtbaYPfgAEY55/4H8jWhJ96Ke9KKbyuehswBzQI9zeZ2+XThzQOJkzUg8g+FWk9LuXeBQGYiKvShx1RJigEBLVqoCgPdpbd9hxuGy2sEcLryXdM7zSJBvAIPAxKb6VAku4mzUi17+wzp4F4ortwoyGTb7wBp+K73yqgCl3WE1hls2na10hWSbopvvWIC21+lQZ1xxURhtTR0Fxcpa16N/WnX8qzR4Sp57PaCDYYnLjnc2nS1aWcqx6rUg8txWSqPYJvtKbx5u/Hn1tpEyfoM25ZFMHh9pfHrBSuI1xH2lCzYABLOqMR19NDa00jiX3wPJ+DpRxYsIbdpINt1+qEHkvnnb4tg=;NIFzc6PjRre7uHZkuKCHcQ=="
 ---

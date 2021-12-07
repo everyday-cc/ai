@@ -130,6 +130,20 @@ related:
         width: 1600
         height: 792
         isCached: true
+  - title: "Parking space detection for self-driving cars comes to CES 2022"
+    excerpt: "Software developer StradVision will showcase its latest software developments including parking space detection features and vision perception for augmented reality applications at the upcoming CES 2022 trade show in Las Vegas."
+    publishedDateTime: 2021-12-07T13:31:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17504/parking-space-detection-for-self-driving-cars-comes-to-ces-2022"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/504/17504/software.png"
+        width: 752
+        height: 422
+        isCached: true
 
 secured: "HpAnJBGaUEiTe4STByLVj91pdhBYJLiaU3YCdjBKpLXF/Tj0r+n3qeaStInGktiXaSx08ie6bVxCzlcgfiAtXkGVDmwamdYnqGWbNe7PfAgP04g961psoUX5qRfPms4GIz1BAKgupEqv1JMkgOg/JKd51SDMXLcycOAhVQZev2HQ2jxH+e0vHif9NVNuLMvMks4jZo9jqHjDHOzOMjABlRI5OQp6QSkHsA0VKFSK7oX4zebiN1lfR/raTBtWmouceNfehudcLXDP0pPwCV3IzNp9+U/DIK1fsxVvy6YbXtk7iePm09JZ+BNx7r+LYn0hgIYk9Bp1Di3ADZPCwjRW5BeL8vEi/h4wE77USMyngxnNquLCES1xx/r0Ds23W6XyUHxGQHSLMCEgiMoHz8ns/r8U+Tmj4XQ/V5DfjlCpvd6C5sS6Uk/g24uuzUeCjzZXHbdQoLmhCy1V94mGABK9RHlZ1O5ZKZz7jCl6Evx1nZlFVDKfVlexDE3N60wt5edmz8nNK+ppBbDLgvvR7yxszg==;aWFV17MVrTxzFVZO6spFrg=="
 ---

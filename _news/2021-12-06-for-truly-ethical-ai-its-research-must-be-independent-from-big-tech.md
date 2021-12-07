@@ -2,14 +2,14 @@
 category: news
 title: "For truly ethical AI, its research must be independent from big tech"
 excerpt: "We must curb the power of Silicon Valley and protect those who speak up about the harms of AI"
-publishedDateTime: 2021-12-06T14:32:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru?s=09"
-webUrl: "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru?s=09"
+publishedDateTime: 2021-12-06T12:33:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru"
+webUrl: "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:
@@ -31,6 +31,6 @@ images:
     height: 372
     isCached: true
 
-secured: "D869WKVqG1fnRFG39BtbwR3WYy0rRlJsh5IF9eGtmZ7geyUOkqFlrEBbEx653raqRvL82eyRHgRTEvwY7EzZJJOwkDaR9GOnj5NBrizgVG2+t06uJEXZcY1j7eruZpcXYMHmGVJfJyPegHZPCqEhcqAvgj1yQxsyzMy4diSaco4tUTY/GsRxlTM6fH0SwKoteT4pqXAXYXyJaonm1v6Yk2pBMDwMivhPIU9B5Fk2AMyhdJMcbPfddq+2X9PAow7uKYZalU0sRldOLXCFZYo74gnV9J3xSfBdStM1JNCXrUY5BTxjv0qDhZs/4m25MW73gaVQlL4rLLBjJK7fIzyB5i48O6LWMaE4l42Eq07aroU=;zDs9uhr7hWCbUEd3isPLcQ=="
+secured: "n3Fb0ckhFinG3BLHSlq2c1Qh7A/+2wQeo81msUHQFsQhlM7gSQg27BFswGsPUcH91pqu7xynVqQB2v1vpj5sxJLHTV06MCYNabarZRe58V4IavlrWAwJfKAoGGk9SYw23Trw9PyHQU1plBWILjS2P1r1HFQG5T04HiKqaHVgezW+w/rqvaVSoZAQzV9r4mYRsu9cFA6177H+YuM8WxA2tjmemSzbmkvqKE29V2wNCHMfH0z3TUkQtkiXpacTGw1GQRNlh5Vff0fqBMVAEHp5Xty/RPDyKNzK4kAMiJsNB67qmv3lybLz6B+oTHAKERXsuP9RaTfCu4sBWLN2a94KnaYv2qQD3AH2bwa/12/vzOU=;jVD3zW7Fi6ikdFLJezN1xQ=="
 ---
 

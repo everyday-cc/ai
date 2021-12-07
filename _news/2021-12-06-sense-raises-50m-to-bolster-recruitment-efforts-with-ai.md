@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recru
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered customer engagement platform MoEngage raises $30M to grow operations"
+    excerpt: "MoEngage, a startup developing an AI-driven customer engagement platform, has closed a $30 million venture capital round."
+    publishedDateTime: 2021-12-07T14:22:00Z
+    webUrl: "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/"
+    ampWebUrl: "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/communication-6605648_1920-e1632854543166.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI-powered hiring start-up Sense raises $50 million from SoftBank Vision Fund 2"
     excerpt: "Talent engagement start-up Sense on Monday announced that it has raised $50 million in Series D funding led by SoftBank Vision Fund 2. The fresh funds will be used to ramp up its go-to-market strategy and expansion into international markets."
     publishedDateTime: 2021-12-06T15:53:00Z
@@ -46,15 +62,20 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Saving lives with artificial intelligence"
-    excerpt: "New technology developed at Tel Aviv University uses artificial intelligence to help doctors identify high-risk patients."
-    publishedDateTime: 2021-12-07T10:49:00Z
-    webUrl: "https://www.israelnationalnews.com/news/318237"
+  - title: "Saving Lives With Artificial Intelligence"
+    excerpt: "A new technology developed at Tel Aviv University will make it possible, using artificial intelligence, to identify patients who are at risk of serious"
+    publishedDateTime: 2021-12-07T11:59:00Z
+    webUrl: "https://hamodia.com/2021/12/07/saving-lives-with-artificial-intelligence/"
     type: article
     provider:
-      name: Arutz Sheva
-      domain: israelnationalnews.com
-    quality: 17
+      name: Hamodia
+      domain: hamodia.com
+    quality: 37
+    images:
+      - url: "https://images.hamodia.com/hamod-uploads/2021/12/07050423/7f5fe743e5056f0e35e13f7dc7924882.jpg"
+        width: 580
+        height: 330
+        isCached: true
 
 secured: "bBBghArdxKZH8qtKk/EgnqEEPbhZqXeJml5SayVXl86Jyxu4+gwuAEueKZyI4fueVpDXOgilo+8oT+cvR+R6d2j7QrlxRfqL+hdq48puCXOMCZkT88dvZ0IFiIsgJtH0abvA6In262JX39qzhvuwwEEJj9+2fStvycFMNtdPoTL8rjUOYSb++88LwnJig/lzfApUXDEfsJzLD0KAjP0SfMQFsdFTyMReiO5ghpzr7OHuTElcwEs1onSK8POV5g3JJYWYdn2QddTDcMgy2hssB4mlDlgZFo55X0qfB2MV1y8r9XdVZqVOp3aonQv/n8A+ZPfZ/ZFiZ97i5qi++yS0UAkFqYn5kbW//6lbRiqYFo3wthe1FohNyE0g539oxiRb2jks+g+cxH4b4rD7t/ZFtwtWkuk3WUA7BRQX3sIiuZb/gv39Y9oqgfKTSVYmH79W1E9258urZ8+DEFAUd0eTA0tkI8+lw5s/pKznXxiMk2k2lLfJdIrbkEujExtgLLcz8k4AwcTAVjk+fDvLAtN35g==;J+Rsx/r+0Lk05XFaUUYcDA=="
 ---

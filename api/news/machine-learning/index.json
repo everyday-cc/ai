@@ -143,59 +143,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-07-what-marketing-leaders-need-to-know-about-the-next-generation-of-machine-learning.md",
-      "title": "What Marketing Leaders Need To Know About The Next Generation Of Machine Learning",
-      "excerpt": "Monolith AI is a leading artificial intelligence engineering software company that is building the next generation in machine learning software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/drgeraintevans/2021/12/06/what-marketing-leaders-need-to-know-about-the-next-generation-of-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/drgeraintevans/2021/12/06/what-marketing-leaders-need-to-know-about-the-next-generation-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ae4041e9233e47e2b90539%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1922%26cropY1%3D127%26cropY2%3D1207",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/drgeraintevans/2021/12/06/what-marketing-leaders-need-to-know-about-the-next-generation-of-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drgeraintevans/2021/12/06/what-marketing-leaders-need-to-know-about-the-next-generation-of-machine-learning/amp/",
-      "publishedDateTime": "2021-12-06T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
       "path": "_news/2021-12-06-automl-market-revenue-set-to-surpass-14-billion-by-2030.md",
       "title": "AutoML market revenue set to surpass $14 billion by 2030",
       "excerpt": "The automated machine learning (ML) market is expected to grow from $346.2 million in 2020 to $14.8 billion by 2030, based on forecasts from P&S Intelligence, Leading the market is a surge in demand for fraud detection solutions,",
@@ -204,7 +151,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -256,7 +203,7 @@
       "originalUrl": "https://www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -403,7 +350,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1417,8 +1364,8 @@
       "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
       "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible-2/",
-      "originalUrl": "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible-2/",
+      "webUrl": "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/",
+      "originalUrl": "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1446,6 +1393,49 @@
         "AI",
         "Machine Learning",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-deep-learning-dreams-up-new-protein-structures.md",
+      "title": "Deep Learning Dreams Up New Protein Structures",
+      "excerpt": "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools.",
+      "sourceUrl": null,
+      "webUrl": "https://news.rpi.edu/content/2021/12/01/deep-learning-dreams-new-protein-structures",
+      "originalUrl": "https://news.rpi.edu/content/2021/12/01/deep-learning-dreams-new-protein-structures",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg",
+          "width": 667,
+          "height": 446,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T07:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RPI News",
+        "domain": "rpi.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

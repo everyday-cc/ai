@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-an
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
 type: article
 quality: 125
-heat: 185
+heat: 175
 published: true
 
 provider:
@@ -108,15 +108,6 @@ related:
         width: 1079
         height: 720
         isCached: true
-  - title: "AWS Announces AWS Amplify Studio"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Amplify Studio, a new visual development environment that allows developers to create web application user interfaces (UIs) with minimal coding,"
-    publishedDateTime: 2021-12-02T21:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211202005810/en/AWS-Announces-AWS-Amplify-Studio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "13xabmWbNM5Pa/QpG4Z0eczB65IMKHbp+MLIyV462XBS2OQ/5nr0fycqX3HxUVk1UyMnzN+iKAva24Pz16Sg5F01VZ92oFgB4ABgs3RBtpQMP6zMTEmddywOCU3r5v/tfnH1Ak4LmeGJI5VglhjhIZC6wntD9gkmKbii+IN0RnBuWZBGKCvPzSaNcR4YfPpONgBi1jRhuyCriCFWrvgH797a16L1B4eufM2p80pbgJIDXDr0NRZ3YNA7kwIqIpQyb5Sne0SotWS+Jx/bI9FM8XBSp+ZC/ZEL045zSqE295Hc23Jsv9qflt7QMCMCgldtl/2ZU4a/omgdmMucPLIfhpv/VPUUr5jlEKbm5LZBuoubCXDw0C6TUMjATF35hfcKRPPtZjqf/Z4gSjoDW1KPd+0eIEzSylTEb+5WhW2IbZmDES5lRhVoSpuGcCNJKlNegwqpfVVN1oMtMDMaoI5iMrBroqrtz2QVUB/5sDg6nlUxnO2d67DmkICq76kbpkcP/QZo3i/fiEdmPvHL/3Ervw==;Juu6r5gpFO4rqfjVWIoXIw=="
 ---

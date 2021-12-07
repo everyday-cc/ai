@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/govt-names-4-airports-where-it-pl
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://trak.in/wp-content/uploads/2021/12/72b0f32797dd441c89b1396bba9ac524_18.jpeg"
         width: 800
         height: 450
+        isCached: true
+  - title: "The Hindu Explains | Facial recognition tech in Indian airports"
+    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
+    publishedDateTime: 2021-12-07T14:08:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 54
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
+        width: 615
+        height: 384
         isCached: true
 
 secured: "YLK2EgfcG0N8PU8+nVd8G7JVjSLOK3XQlxCDa9kgatsbaX7KcvFjI7cQ8upnuT8HWtr7WLUDeMx9QME8ha1b/UIljV5X3YrImKvabwy532EJyQmN9K/ytwRyk8bmwLGnpJ9WGA+bccpU55jek/0jnKfgIlzNxYgcbJM0XdxJJhJSRkNsA8kBy7C94IwTq5relbeSMXF80fw0qnz80jbWrwDFKJZuPCHldlG/uxLitC3j/UhHurLHFRFlr7P9Cl/Dz1HNK+Iiq7hRnrbKf2IwIoMII5tCZ+EmfSiwUtNgIzWb99ONQVQejfa4bTZ50UMBDto8wxvA6pSXpTvmOWKro7mq1PQcXmWIAY0ZFLTVrLsn5+BfS5paWgAc/cBEpT4U8+ZgFD0Tj8i+xGsPVaAoRF9riz1tizLKY+a1Th0D2xowNQ4YppCQm3SGUifnljwxGxeaomc2e1rEEu0DsAv545N6p+qxlD3SfMFh98wSzc5AaZiQJNYXYeIr661iZ4Ytc7tXQCKjW/Tn6YO1Sk6ZfA==;B1qIr0AU08JHw4tLTURM+A=="

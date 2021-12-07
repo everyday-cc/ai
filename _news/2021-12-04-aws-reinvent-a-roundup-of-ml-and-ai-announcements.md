@@ -107,15 +107,6 @@ related:
         width: 1079
         height: 720
         isCached: true
-  - title: "AWS Announces AWS Amplify Studio"
-    excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced AWS Amplify Studio, a new visual development environment that allows developers to create web application user interfaces (UIs) with minimal coding,"
-    publishedDateTime: 2021-12-02T21:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211202005810/en/AWS-Announces-AWS-Amplify-Studio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "d2gjNS1mjJcbStMr78tXyvdiOszIONcSK7ojAkcxlGGyyodnZuIb1a8Tr9axA1Nmd0J3Q6O4xVj9F0AVVbBXEgdItczQBtN9y/q6buliHSqPka7bkV4itD7M/+eA5M2Jv3/fuB9hx/V9mu3JAzaamESdC+6izslueWPGirrzje0KyYlADlH68N6L2tcP6DEp8eMe8K7se2rlnDMKZ33jImNQT+sJuQo+fSRaqChT81ftE9oKW8aUHlnBOa8kAcozx+CzDmVAADvy3bBBBZBJa31wEoqFmh3Q7Stjbc0He2W5nPeGLQ7nS/PLrTCO7jokP5v6h9jDApCyfYzOU8cqVvtzvwcJU7a7qmFGlTKa0sFo4P6N8WRSjAZRNIq665/L1ngaHe4CJAf6ykmb5+nkKrZq0zibL6R1O2GceMb+54VjqVi/3OlnvRS/5GGsrrDa5DO/DiSSTaXVofL5Rm/cayldRNIklCCqwQm/PGTQkGnXFJBIEqWuEE1dpH2ijC4zuVvE5frYycR8a+HmtKXOng==;FNucFWqjtzZ4FwyiKxM6Wg=="
 ---

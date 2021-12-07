@@ -8,8 +8,8 @@ webUrl: "https://theconversation.com/artificial-intelligence-carries-a-huge-upsi
 ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073"
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://images.theconversation.com/files/436064/original/file-20211207-27-1vcec0k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop"
@@ -25,6 +26,6 @@ images:
     height: 224
     isCached: true
 
-secured: "Jv7Murtl9oOvGGKTeDbJyNnNpZMIvA5VmlHjNpoCQZ6myjwkHok82h8T0q+Z1GxWqv0X09Tn2VNZcYZjdiS2ZW751xmjJtjR8M1FnwIUcrEKIQx4hozeXCq9t2VDVOckIaTBnT3Yh0e9KRZBHFRpAgNFyC0Fbbw95xAjbPoPTRWe7nqmr1qNdKMz9m9PrnMDJhYu8GyGN/f41F0rmZQGpm1zUVCKhg2XjVEkOtAeoQYiUb2KNL8PDm1qkcbUhNo8jvrUtSAeMvmfHxeSX3oBhO1VYGSbnOoulI+ACrBVZ3Spmvs/GqvOhcWxdxLlRlzcUJrQwEhMfV0Tui9bHcZBajbAaScYDkE9477dImzC+lw=;F9xOi+1akmYztPuqvsmVVg=="
+secured: "tTjm4WZZJk0t0maxfOy3uL27jn4EHiYr3mgLWrKF0BZLosnhqzn0wPgX7a0JXNplLGDQJbj33slgoFluCQkn+a1aD8e08ZDj7MCl9iqq+xYPhL1JY0zDGQYzpvRgw8xZXBoWiBln9i/y16LcMrOLytIWd99Nq7ZlBf1rabhcwf1QYPb/N+UjtNhmzs48zUf159NZt/URVlWQAHL/Fef2n+pSEt8YZHGonFmaySzDxt7W9GlFvAsS5TwGm07OpjrYXddINz9VyDAc3pHshclQLwh6JkCgcFwfMuKIybK68nvfE3V+YgYVjmlErCUwNvJMShkM6hNyel+8gfeyxzJxqxXn1fJKnSTIgoJWGeYz/8zoDfu36uBzu/IySe9CmGFkLK4IVJ2atS3LcSZ1226XxxXlCtDgJDcGTO1jDXiE8/MPZtfbOrxDhRsF/KtitZHaXNHldUstLslKUZWZTZgB8fvoUdHdA7XNI+X3svbk8m8m0nasRi5HWlB7GWf5UUnf6OJd8AcnGgXhUZCOpf++kw==;/ZQUL8hXyB9+2uHLagBK2A=="
 ---
 

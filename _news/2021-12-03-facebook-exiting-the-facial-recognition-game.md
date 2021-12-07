@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2019/1/3/face-facial-recognition-software-system-computer-shut.jpg"
         width: 760
         height: 443
+        isCached: true
+  - title: "Facial recognition isn’t working for some Windows 11 users"
+    excerpt: "Some Windows 11 users are claiming that the facial recognition software won't work, but the OS isn't to blame, but the hardware itself."
+    publishedDateTime: 2021-12-07T12:42:00Z
+    webUrl: "https://windowsreport.com/facial-recognition-not-working-windows-11/"
+    ampWebUrl: "https://windowsreport.com/facial-recognition-not-working-windows-11/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/facial-recognition-not-working-windows-11/?amp"
+    type: article
+    provider:
+      name: Windows
+      domain: windowsreport.com
+    quality: 59
+    images:
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2021/12/facial-recognition-windows-11.jpg"
+        width: 1920
+        height: 1280
         isCached: true
   - title: "NEC to introduce facial recognition vaccination check system"
     excerpt: "Japan's NEC Corp. will start the full-scale introduction of a vaccination certification system for COVID-19 based on facial recogniti"

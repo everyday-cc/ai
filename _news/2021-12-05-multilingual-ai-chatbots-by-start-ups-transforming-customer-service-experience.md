@@ -40,20 +40,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Does Your Conversational AI Chatbot Really Need a Personality?"
-    excerpt: "Does your conversational AI chatbot really need a personality? Simply put, the answer is yes. No one wants to talk to a robot with limited, impersonal responses about an extra charge on their phone bill."
-    publishedDateTime: 2021-12-02T21:24:00Z
-    webUrl: "https://apnews.com/press-release/Newswire/9831fee553e21a90db6f7b0afbba6522"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "BBQb7JMahK7kps+sPNhTNWtJpn7VPB2qE6ty5+jvLcuQUj4o4UI+GmS47k37z6/cHILKK6qzhfx5wOJxIWAZ2FdMDNf9z7GqNNtmdK0LHlHjnCYwicgPPFN3wboMIIeI+NmPeKBazuVQ6tTZH3YAknQBsBt6rwKVMgp2pcLayTMnBZRP4h+3Hptb+hsRw50KztbDtVUt13FHDTPiY63kVlFpT6uYs2+Y874nhsIv+zZm7pyJVqunHbFqZuOzq8dGW8GVVFeu+XIBiFh/3twX0rQRLOf8BvHRk3VetjVgjOzPT9BBAtd4K93GnS14vxsDZpnOqMBtf/2Tngq1vXHPzO+7Sa7b9D3uYTsxMhAad/a9Z/ev1EZ3UzP1cLY4XSKPHGaIk7mwvGeA2EsUCqVvjXqPXv1RUJy9Afeg8cx59omzttIK2LPMskRBCbckge7QRhTYrJhu9L18OcKR3Gq90bjSc/facpIPhMbvGqI5myJx5j6wQlrxpu+Gg2VcA9ZnzWyCy9CqMj1CrHUAFzTZ2A==;8jV2zas3wcOx/A5HsCcqyg=="
 ---

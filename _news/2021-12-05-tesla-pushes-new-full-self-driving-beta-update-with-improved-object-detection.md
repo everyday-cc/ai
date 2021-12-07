@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-u
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
 type: article
 quality: 86
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 38
+  - title: "Parking space detection for self-driving cars comes to CES 2022"
+    excerpt: "Software developer StradVision will showcase its latest software developments including parking space detection features and vision perception for augmented reality applications at the upcoming CES 2022 trade show in Las Vegas."
+    publishedDateTime: 2021-12-07T13:31:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17504/parking-space-detection-for-self-driving-cars-comes-to-ces-2022"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/504/17504/software.png"
+        width: 752
+        height: 422
+        isCached: true
 
 secured: "AO2f3n6P+9AIyQnboUNpds4hF3nedq/YmRwPmWCnJYFuTmkaH1olks1mgQRKRDu0njxusuBk5dvrRqttU2mYM+ACm6Ej97IMv7cwFICa/A6t7N4y/NkOxx14F3Qzdp7Slf6Jfei0Ci+W2mAfuhXRYtMqt6BPbgLSxOSCsZY8Aan35V4/0paWo1rS5OmcWcOhDLXmLTAxCVzX3RjIqHNvx6Uua/c77K222Xg/vDFNiyXEb1ez9aX4PlIquWxdHn9l/o7xEfLtM/ZiQPaHQTV8ijPR57jkElGyWgNrq/RzEHHGuZsXjTm/TAehz1neLQ4NbOEptC/BYXIoLE3eieNFExKE2mpqa98cMvFsl6fiQr4i/unwWNAedIvRWtd5yUqxFjX+K/jWg3xjr/2P/bXKSIHuJk4ZaH4uct63Ip4Hyu/u7f7f3YAWfPuxbio0WcgU/fLcXiZX8Rt30dqn36y5QCL/9V9tfoeiVTpWVtP584TNhOxnFCne5+Mpsb+eoufbse0BdyhytPJCkjQpk4eOYg==;bc2evMGpSz1vcu7qedMejw=="
 ---
