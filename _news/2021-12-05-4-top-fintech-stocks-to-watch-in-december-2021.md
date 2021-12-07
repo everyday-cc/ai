@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VOICE 2021 Brings Leading Artificial Intelligence Brands to Arlington National Landing, December 7-8"
+    excerpt: "VOICE 2021, the industry's leading voice, AI, and ambient computing ecosystems event opens today in Arlington, VA. The summit is being relocated to National Landing from New Jersey, where it attracted 7,"
+    publishedDateTime: 2021-12-07T13:32:00Z
+    webUrl: "https://www.lelezard.com/en/news-20143648.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Stocks to Buy Now"
     excerpt: "The best stocks are always in demand. Whether the market is down, up, or sideways, these stocks always fit into your portfolio."
     publishedDateTime: 2021-12-03T21:45:00Z
@@ -58,15 +72,6 @@ related:
       name: Money Morning
       domain: moneymorning.com
     quality: 4
-  - title: "VOICE 2021 Brings Leading Artificial Intelligence Brands to Arlington National Landing, December 7-8"
-    excerpt: "VOICE 2021, the industry's leading voice, AI, and ambient computing ecosystems event opens today in Arlington, VA. The summit is being relocated to National Landing from New Jersey, where it attracted 7,"
-    publishedDateTime: 2021-12-07T13:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-voice-2021-brings-leading-artificial-intelligence-brands-arlington-/2021/12/07/9506097.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
 
 secured: "DAhpFc+uVU29Q/mS6nSVdn3SbA2TPoCQdXvX8sjOPLlQjRAy4v8J59yASCmh/P+SMl22bL8RnAq1kp7cgWkYgelZBaACq2hll8jvYXOMonNJllPYdzQF/0ylMjRsiasoubH8WIDirdclXh7tnutnP0wmd6P3mcZgJfsl2NyVwcoj9Gwc4RHuDLtd6Meb7GTvno+NZNolRuSPRdU7HRaIc+E8YqWg/yvwy1gYQlzl6C8Z4l1wa21Pmpwpab8tqCjYCml5KIwqgsI3P0jzo9zwfIKqZaTko9nCNEgqHqFzgYEkhLQK96PJ68pqInwjjMRRPIKWZ9ipmmOknWRhsw/wY7PaiePsbuu1ft9bjP7eWNtztV4MsJnqaEQ1NNmCq6WcEe8kqwjYbIHdwu7VpanOG3ynHTuG0/iu2VmTSdyR2FnqneH+CLJdGe/5XfJmT0ZDkOiJzIvR4ouKefPtOwpAkNw4n8c0CCpEvaa/yBoipOnETF4se/oPj7UuHaCH0zVhe51qSqlOr+eI4lrb32+GrA==;gLOzwvK9JORmn+RmH4q9Ug=="
 ---

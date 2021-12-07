@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-02-replai-uses-computer-vision-and-data-analysis-to-figure-out-the-best-video-ads.md",
+      "title": "Replai uses computer vision and data analysis to figure out the best video ads",
+      "excerpt": "Replai automates analysis of video ad effectiveness and it makes recommendations for how to fix details to make ads more engaging.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/",
+      "originalUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/Replai-Dashboard-3-auto-recommendations.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/amp/",
+      "publishedDateTime": "2021-12-02T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-picsart-to-acquire-computer-vision-and-ai-company-deepcraft.md",
+      "title": "Picsart to Acquire Computer Vision and AI Company DeepCraft",
+      "excerpt": "As video editing surges on the creator platform, the boutique firm will help accelerate Picsart's video offering through AI and image processing Picsart, the world's",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24408178",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24408178",
+      "publishedDateTime": "2021-12-02T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-that-radio-dj-you-hear-might-already-be-a-robot.md",
       "title": "That radio DJ you hear might already be a robot",
       "excerpt": "Andy Chanley has been a radio DJ for over 32 years. And now, thanks to artificial intelligence technology, his voice will live on simultaneously in many places.",
@@ -704,50 +799,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-02-deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics.md",
-      "title": "DeepMind claims AI has aided new discoveries and insights in mathematics",
-      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DeepMind claims that its AI systems helped mathematicians to discover new -- and significant ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics-10803024",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics-10803024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T01:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt.md",
       "title": "Facial recognition tech at 4 airports to be introduced by March 2022: Govt",
       "excerpt": "The Airports Authority of India (AAI) is working on a project of FRT-based Biometric Boarding System as part of the first phase of Digi Yatra Implementation at four airports",
@@ -1111,51 +1162,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-sizes-trainium-for-aiml-model-boom.md",
-      "title": "AWS Sizes Trainium for AI/ML Model Boom",
-      "excerpt": "While AWS is making it clear they will continue to innovate around GPUs for cloud-based machine learning, there was little doubt after today that their",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/",
-      "originalUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Des12-1024x476.jpg",
-          "width": 1024,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/amp/",
-      "publishedDateTime": "2021-12-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

@@ -43,6 +43,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "How market-leading retail brands are using AI"
+    excerpt: "Your friend posts a photo of their totally on-trend new shoes. You know you need a pair—but discover they come with a £500 price tag.  What do you do?"
+    publishedDateTime: 2021-12-07T16:14:00Z
+    webUrl: "https://techhq.com/2021/12/how-market-leading-retail-brands-are-using-ai/"
+    ampWebUrl: "https://techhq.com/amp/2021/12/how-market-leading-retail-brands-are-using-ai/"
+    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/how-market-leading-retail-brands-are-using-ai/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 57
+    images:
+      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/12/CUSTOM-GettyImages-1329747480-375x210.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "Top 30 AI chip companies of China in 2021"
     excerpt: "AI applications are developing rapidly, and an increasing number of AI chip startups have been established in the past several years in China. However, the implementation of AI applications has been the biggest problem."
     publishedDateTime: 2021-12-04T13:18:00Z

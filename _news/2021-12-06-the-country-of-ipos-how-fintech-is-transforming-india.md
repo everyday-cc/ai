@@ -43,6 +43,20 @@ related:
         width: 400
         height: 268
         isCached: true
+  - title: "Numerated Acquires Fintech to Improve Underwriting Process"
+    excerpt: "Boston-based Numerated, a financial technology company that provides a business loan origination platform for banks and credit unions, has acquired another local fintech that the company said would help reduce work for lenders using the platform."
+    publishedDateTime: 2021-12-07T16:23:00Z
+    webUrl: "https://www.bankerandtradesman.com/numerated-acquires-fintech-to-improve-underwriting-process/"
+    type: article
+    provider:
+      name: Banker & Tradesman
+      domain: bankerandtradesman.com
+    quality: 24
+    images:
+      - url: "https://www.bankerandtradesman.com/wp-content/uploads/2021/12/Robotic-Hand-Giving-Check-EDIT.jpg"
+        width: 1375
+        height: 917
+        isCached: true
 
 secured: "qHdLOxaFTOv2urxtpTv/jEEWdoo6rceAuj2aviy1tmWkg9P0QXrVwwO20TsgqeMOLVH+6UrvlOgf+z7HPKmqvlYnP3d412w/QV4nwo3jszU0yij2Ww1U0MD3Ttd4LLR1/PFhWqO1QuWQ8kPQUCIV4aKtZNv8jvs4yG6ZNUJkBrNgb11jsuWeEFiJ0YSX/h6n8kQgc6tFF1/SEE8+8FcF644YwLWhyDsYfUgbETNe+qRrtvoqr0NnkT44gpyoLDrn3n5U5L6DNdUpPr+HL/GeMbWIAy7PVQxmbi1frS7mWVDABA6kIICmzOPM9AsoyB4Jpws01E6tbofuxATRUmDpF3Z4qbOfRTOg+q5lOibVImz485Q/FcPWcWbUeO7SMCdq9OZEJM9qkC0qzIHPDg4R1rU7gQdJ3feYKfg6NqgTRe2CBgbbkqh21Qu4aUAtYmIool8GRbcijQCTQvciqru88xHsxHCxHOJwH3AGk/Hb7XmtYj1ry1Yp/XQjNTIJXKwb2ShFvL5pPq9ofDk+lWaFFA==;B/GCr5LK03pFp3OmHBplpw=="
 ---

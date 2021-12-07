@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-07-intel-plans-to-list-shares-in-self-driving-car-unit-mobileye.md",
-      "title": "Intel plans to list shares in self-driving car unit Mobileye",
-      "excerpt": "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters.",
+      "path": "_news/2021-12-07-intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise.md",
+      "title": "Intel Plans Potential $50 Billion IPO For Its Israeli Self-Driving Car Unit, Shares Rise",
+      "excerpt": "The tech giant said that it would take its self-driving car firm, Mobileye, public next year at a potential valuation of more than $50 billion, sources first told The Wall Street Journal. Intel originally acquired 100% of the Israeli company in 2017 for $15.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-mobileye-ipo/update-4-intel-plans-to-list-shares-in-self-driving-car-unit-mobileye-idUSL4N2SS02C",
-      "originalUrl": "https://www.reuters.com/article/intel-mobileye-ipo/update-4-intel-plans-to-list-shares-in-self-driving-car-unit-mobileye-idUSL4N2SS02C",
+      "webUrl": "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/",
+      "originalUrl": "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 175,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/HxLWCUwhHMM4SwuGFJT2uw2TtvQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJJS5JKBAFOZFNPFKBVNCGTJ5Y.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af8aa58245aba99ca728d7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3995%26cropY1%3D153%26cropY2%3D2399",
           "width": 1200,
-          "height": 628,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T17:16:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/",
+      "publishedDateTime": "2021-12-07T07:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -212,7 +212,7 @@
       "originalUrl": "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {

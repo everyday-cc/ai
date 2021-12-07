@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-manag
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "University-wide Institute to Integrate Natural, Artificial Intelligence"
+    excerpt: "Harvard University on Tuesday launched the Kempner Institute for the Study of Natural and Artificial Intelligence, a new University-wide initiative standing at the intersection of neuroscience and artificial intelligence,"
+    publishedDateTime: 2021-12-07T12:00:00Z
+    webUrl: "https://hms.harvard.edu/news/university-wide-institute-integrate-natural-artificial-intelligence"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
+    images:
+      - url: "https://hms.harvard.edu/sites/default/files/teaser-images/750-AI_1200.jpg"
+        width: 750
+        height: 435
         isCached: true
 
 secured: "yrEM5u6SiALAEgzHxF8gjjkx/GQSL2HWZLQ9NZ61Lyc4s0f+UD3PIkJRJLO4VBR2Pa8ibzJGePYruhBWz6m0erOr0p2njs4TC0dhDozyu1xN8OLfRlw+Tzqn3ajuOdv9WT1eUNyvLuPn2CDeOA0+D/+uFzraoxaT6UqYabHcAGTbcp3ahACRUT+qXzoXnkCxZ17sZgB6t7KULNp4Kn1Cc3Dh6kCFBrT9G13aTNTfpTo5HGRM4ChtGTK9C+8G6arLoaGzhaClLhaLzqbBTDE/jZwPXaeuzDrp3tfQm1igAdbV7NbV+qAvveZXK7oJIbahKaX+o23KC5d9Fd6QHBHa+3U6dLoeN9acnw4/rUJOjh4=;5GKgjBzmkE/SDMvEDi+Pow=="

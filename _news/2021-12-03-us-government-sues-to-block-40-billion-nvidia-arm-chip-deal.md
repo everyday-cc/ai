@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.detroitnews.com/amp/8849542002"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8849542002"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "FTC Sues To Block $40 Billion Nvidia – Arm Computer Chip Deal"
-    excerpt: "The Federal Trade Commission on Thursday sued to block graphics chip maker Nvidia’s $40 billion purchase of chip designer Arm."
-    publishedDateTime: 2021-12-02T23:07:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2021/12/02/nvidia-arm-ltd-chip-deal-ftc-lawsuit/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/12/02/nvidia-arm-ltd-chip-deal-ftc-lawsuit/?amp"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/12/02/nvidia-arm-ltd-chip-deal-ftc-lawsuit/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 39
   - title: "US Gov't Sues to Block $40B Nvidia-Arm Chip Deal"
     excerpt: "Many of the world’s smartphones run on Arm’s chip designs and it is a vital supplier for companies like Apple and Samsung."
     publishedDateTime: 2021-12-03T14:40:00Z

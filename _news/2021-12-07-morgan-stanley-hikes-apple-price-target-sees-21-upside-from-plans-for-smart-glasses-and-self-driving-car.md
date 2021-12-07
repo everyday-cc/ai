@@ -7,7 +7,7 @@ originalUrl: "https://cnbc.com/2021/12/07/morgan-stanley-hikes-apple-price-targe
 webUrl: "https://cnbc.com/2021/12/07/morgan-stanley-hikes-apple-price-target-on-plans-for-ar-autonomous-vehicle.html"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 4500
     height: 3000
     isCached: true
+
+related:
+  - title: "Analyst: Apple shares could hit $200 as self-driving car and headset projects loom"
+    excerpt: "Analysts at Morgan Stanley now say that Apple shares could hit $200 as we inch closer to the launch of new products such as an augmented reality headset or self-driving car. Shares of Apple stock rose over 2."
+    publishedDateTime: 2021-12-07T14:48:00Z
+    webUrl: "https://9to5mac.com/2021/12/07/apple-shares-could-hit-200/"
+    ampWebUrl: "https://9to5mac.com/2021/12/07/apple-shares-could-hit-200/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/12/07/apple-shares-could-hit-200/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 38
+    images:
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/01/apple-park.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "aIVivfEpV2Du4e6Emt/Xncw53vZNIRaucEXtDULRHJRtxrZZ8gmyGU2wVwLf5Lk8WQryC95YHgmYg3Fd8UDar32zaIZIoAB4aOdNJ2rCYrodJShA4399YhliP8mdcvA+Em2JxqmQxbC7+lGniirT9/XgCgXE3FMIMuGu8Yzd+q1bKRI62gsZUX8XZNvA9WoWTrSc+5q7NLL1AvzWiPVxCgAx++SzgKbh3ZFTTDvQolQqFiMFaOOgXOrYG9uM91E9crZ4tNGo4u5ubG96FdcA1wT0OTNmBrI7D9U9CJDAgZdZOPoRJgMLDdOQpQQp7hYnkaaO4fZUTAMJqZETxD9as1jOD9qJpTFPoMFcbUZ7E9A=;LmQbQkOHsJXOUpjMPfs0SA=="
 ---

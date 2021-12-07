@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Larry Magid: Tesla’s full self-driving is promising but far from ready"
-    excerpt: "But, instead of being paid to test Tesla’s autonomous driving technology, I paid $7,000 (now $10,000 or $200 a month) for the privilege. And, after a couple of weeks of testing its “Full Self Driving (FSD) beta,"
-    publishedDateTime: 2021-12-03T00:45:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/?preview_id=8190635"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/12/02/larry-magid-teslas-full-self-driving-is-promising-but-far-from-ready/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 59
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/12/SJM-Z-WALTERS-OPED-1102-1.jpg?w=1024&#038;h=783"
-        width: 1024
-        height: 782
-        isCached: true
   - title: "Tesla Faked Original Full Self-Driving Video, Former Employees Allege"
     excerpt: "Tesla faked the original 2016 video showing a Model S driving itself without any human intervention, according to former employees interviewed by the New York Times. The allegations were made in a broader story exposing internal divisions at Tesla over its approach to safety in developing and marketing its Autopilot and Full Self-Driving hardware and software."
     publishedDateTime: 2021-12-06T12:40:00Z
@@ -145,6 +129,6 @@ related:
       domain: seattletimes.com
     quality: 38
 
-secured: "AyT8hg28a1zA4+wdwCFx5r8f8ureSnO0riLvidmYuH6DNRT7oj+DjKlbY4p9nFb9FikJiFbNRhvvDQw+q6er8xD1s9CaOBuhFme1YXuLvTj6sRVPvcxODopVBmpVwaKB8MkZrKgx08TJO2TdB9zEjQ/PKE0vwjXR1l3I7hWDiSsO2AcSXWcVpuJgsHNIUA0/lXxzcG23PZRbPpr8AwF/FbYVtefclv0/uVcqUJPYgr3W9g86s5X6Skt0ZJmqgVeRHiKVz5RVt7z6FlJ1GgcXPf8cR+UZW1zTlKJoRk8IE+eNSnKeyXJpV8iRtE06S/9Ydtj5lLNTD/u+z2xLPHjAKX2R/8vDquXVc9UMiFR95fc=;AsFPofEupRRuYOKk56DVmQ=="
+secured: "YyoIniEf/YpLU/XrAzP2YFKC2DnjdnVXwC1IVNzoLsChC+ne7HyrttmAAZvLrIIS9nOCotVjhUS3oJsM6K+Qvs/VDo0QlKYCX/a/X+xu/5ANTwhd2WWLq3nEQ3o5MllOMATr0vDPtV+z0yDCcEocOEdWxF47mcPr0LvM7ItXYZDR9dUmPBQ3MeBhYuOCs+n6d65NP53hVXUkL2+pWdv0sU5kCdGCvgPl5JboIex/PFAyO/0hxZrAZyo83cmm2V1H+Qb34bdjXoUkLXOCrv5VYeVw/orGVyro658Sb8Bzj9vao+NSLYDxSkr7AbDuL7WtXWpGhpeac1lFBS4P3o3iciTQiPGu5s3ysh6CvjQErMx2j1EAFRg+g/cVfa8iSLzVkt28RUfzWRK08NegBfCA9hrQ64/iMtXvBf0WEpZ54vRTe/CCPf4v0OClyi5pBABLVoxsufqv0yMXLFFWO9yGKiSGOwZRtrz4l+4miVplP0LJKbwN0o1Du4gyqKTIM7Ri8a54t/MQsTQNkUbi93ggEQ==;WHI1+RxmLauHLplTI+5f8w=="
 ---
 

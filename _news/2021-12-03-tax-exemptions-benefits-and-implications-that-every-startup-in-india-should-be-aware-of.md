@@ -58,6 +58,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "University-wide Institute to Integrate Natural, Artificial Intelligence"
+    excerpt: "Harvard University on Tuesday launched the Kempner Institute for the Study of Natural and Artificial Intelligence, a new University-wide initiative standing at the intersection of neuroscience and artificial intelligence,"
+    publishedDateTime: 2021-12-07T12:00:00Z
+    webUrl: "https://hms.harvard.edu/news/university-wide-institute-integrate-natural-artificial-intelligence"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
+    images:
+      - url: "https://hms.harvard.edu/sites/default/files/teaser-images/750-AI_1200.jpg"
+        width: 750
+        height: 435
+        isCached: true
 
 secured: "Aslz/Mo7zxv4TEddtZqr4HwJqB4f+pCjZUnrBMVlQ0DBxnSxNG6qXcpG+4yGPaLbXpgqKLyGhDHfXeooYNvbGX1fK6pi/cW+HZch9A5LiLusJMI/Lz5ThWo6mtii490jv1AF8YeemNZgr5+QeEGdwRekuozuA8v2p1d80v6H9gCTtgHH4eoWxCC7uzox/0NEZ04PojHY6rOKd/9Ox7WthzhLAj/Ljefsyj2ldsouQYlVNIwgyvQgjTGkhnwkAVF6WA0vHFF55vzGlwWQdVlakPlxH3hkYLWtY5BQOB0LgdRTviffp4YJVgwswvjofd66swgmEE+qzszbofqTKLQt0eGy3NSAgoldILF2qn1VZM9yQahP7z9EhumzcrGi1Lkq+buNFHwG1uxr0JOX2xtvpsQwS+F4Hnf7/yrI16VCTRJvKYiL3FEGeRFa/6XcPGhd7zQNr3Am4AiOTEAY4hep6ydP3uZETvxg+2vfKHWEUPhFI/1g8fuzPvDZ1rHb5agP1FYJ7hYM0hz2MfVa5BfjrQ==;sbfd2DtaiJLmpDQkDcAVjw=="
 ---

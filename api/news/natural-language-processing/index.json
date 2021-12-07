@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-08-suki-a-siri-like-voice-platform-for-doctors-raises-55-million.md",
+      "title": "Suki, a Siri-like voice platform for doctors, raises $55 million",
+      "excerpt": "Suki is an AI-powered voice platform that doctors can use to generate and retrieve medical notes, and reduce time-consuming administration.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/",
+      "originalUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/9c849f8e-1c22-4954-b3fa-a6a10ddac299_LeticiaRamireznote-1.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/",
+      "publishedDateTime": "2021-12-07T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body.md",
       "title": "Ameca humanoid robot puts AI in a gender-neutral, ‘non-threatening’ body",
       "excerpt": "Artificial intelligence, or AI, is one of the most prolific areas of research in several fields. AI has vast potential to improve medicine and many other fields of research. Typically, an AI lives",
@@ -907,6 +959,50 @@
       ]
     },
     {
+      "path": "_news/2021-11-24-using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights.md",
+      "title": "Using machine learning and natural language processing to measure consumer reviews for product attribute insights",
+      "excerpt": "The study, forthcoming in the Journal of Marketing, is titled “Attribute Embedding: Learning Hierarchical Representations of Product Attributes from Consumer Reviews” and is authored by Xin (Shane) Wang,",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
+      "originalUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manometcurrent.com/wp-content/uploads/2021/11/newswise-logo-square.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
+      "publishedDateTime": "2021-11-23T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027.md",
       "title": "Global Natural Language Processing (NLP) Market 2021 Key Dynamics, Recent and Future Demand, Trend, Analysis upto 2027",
       "excerpt": "Global Natural Language Processing (NLP) Market Growth (Status and Outlook) 2021-2027 issued by MarketandResearch.biz offers an in-depth evaluation of all happenings in this market. The report gives an appraisal of the market size and comparing revenue inference.",
@@ -1252,112 +1348,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware.md",
-      "title": "Cohere partners with Google Cloud to train large language models using dedicated hardware",
-      "excerpt": "AI startup Cohere has partnered with Google Cloud to train large language models on the company's dedicated hardware infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/",
-      "originalUrl": "https://venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GoogleCloud-e1626727989826.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/cohere-partners-with-google-cloud-to-train-large-language-models-using-dedicated-hardware/amp/",
-      "publishedDateTime": "2021-11-17T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-microsoft-open-sources-synapseml-for-developing-ai-pipelines.md",
-      "title": "Microsoft open-sources SynapseML for developing AI pipelines",
-      "excerpt": "Microsoft has released SynapseML, a new open source project designed to make it easier to create AI model pipelines.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/",
-      "originalUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/microsoft-open-sources-synapseml-for-developing-ai-pipelines/amp/",
-      "publishedDateTime": "2021-11-17T12:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

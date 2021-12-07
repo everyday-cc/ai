@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-an
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
 type: article
 quality: 125
-heat: 175
+heat: 185
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFTpxCuJ0-E1A/article-cover_image-shrink_720_1280/0/1638537981050?e=1643846400&v=beta&t=xCBkkxlgdenBM-tuYCoT5I6Ifqxot4PoxcMNdwHP_lw"
         width: 1079
         height: 720
+        isCached: true
+  - title: "AWS Re:Invent: How Real Is Amazon’s No-Code/Low-Code Play?"
+    excerpt: "Low-code/no-code underpinned some of ’ (AWS) key announcements at its annual Re:Invent users conference in Las Vegas, including the availability of the no-code platform SageMaker Canvas for machine learning (ML)."
+    publishedDateTime: 2021-12-07T15:01:00Z
+    webUrl: "https://thenewstack.io/aws-reinvent-how-real-is-amazons-no-code-low-code-play/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 41
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/12/a649e9b4-aws-reinvent-21.jpg"
+        width: 650
+        height: 466
         isCached: true
 
 secured: "13xabmWbNM5Pa/QpG4Z0eczB65IMKHbp+MLIyV462XBS2OQ/5nr0fycqX3HxUVk1UyMnzN+iKAva24Pz16Sg5F01VZ92oFgB4ABgs3RBtpQMP6zMTEmddywOCU3r5v/tfnH1Ak4LmeGJI5VglhjhIZC6wntD9gkmKbii+IN0RnBuWZBGKCvPzSaNcR4YfPpONgBi1jRhuyCriCFWrvgH797a16L1B4eufM2p80pbgJIDXDr0NRZ3YNA7kwIqIpQyb5Sne0SotWS+Jx/bI9FM8XBSp+ZC/ZEL045zSqE295Hc23Jsv9qflt7QMCMCgldtl/2ZU4a/omgdmMucPLIfhpv/VPUUr5jlEKbm5LZBuoubCXDw0C6TUMjATF35hfcKRPPtZjqf/Z4gSjoDW1KPd+0eIEzSylTEb+5WhW2IbZmDES5lRhVoSpuGcCNJKlNegwqpfVVN1oMtMDMaoI5iMrBroqrtz2QVUB/5sDg6nlUxnO2d67DmkICq76kbpkcP/QZo3i/fiEdmPvHL/3Ervw==;Juu6r5gpFO4rqfjVWIoXIw=="

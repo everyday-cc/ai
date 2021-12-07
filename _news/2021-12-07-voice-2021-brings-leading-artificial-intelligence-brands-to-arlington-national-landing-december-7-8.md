@@ -1,21 +1,28 @@
 ---
 category: news
 title: "VOICE 2021 Brings Leading Artificial Intelligence Brands to Arlington National Landing, December 7-8"
-excerpt: "VOICE 2021, the industry's leading voice, AI, and ambient computing ecosystems event opens today in Arlington, VA. The summit is being relocated to National Landing from New Jersey, where it attracted 7,"
-publishedDateTime: 2021-12-07T13:35:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-voice-2021-brings-leading-artificial-intelligence-brands-arlington-/2021/12/07/9506097.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-voice-2021-brings-leading-artificial-intelligence-brands-arlington-/2021/12/07/9506097.htm"
+excerpt: "VOICE 2021, the industry's leading voice, AI, and ambient computing ecosystems event opens today in Arlington, VA. The summit is being relocated to National Landing from New Jersey, where it attracted 7,"
+publishedDateTime: 2021-12-07T13:32:00Z
+originalUrl: "https://www.lelezard.com/en/news-20143648.html"
+webUrl: "https://www.lelezard.com/en/news-20143648.html"
 type: article
-quality: 2
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "2 Small-Cap Chip Stocks to Buy in December"
@@ -67,6 +74,6 @@ related:
       domain: moneymorning.com
     quality: 4
 
-secured: "5Xeb4+2ixtstuP7QuGmXkR31lAPv6GojiUCbV4NID+mjqVx532k7yV2nkZCS1/oQUuQgDhNlZ9aCtTRi+3I9mw3Cf4Ump4ooSaYQ/lTT/JEps5TaND9QmGs5vlxSyx58AYXL8pSNXa8tK1TSbs0lXFtgqF5VGizpiqmEFJPviu6M85lkfT6u/CRFbf/K3fkPKQgCC4rWsD3yLtC1i2phyUgifBwwlbU+v/SmWat12LFMJ5QlUryhHiLeTVVkf40Mjmki/G0bHV6Nju78qfKbH856/NuKgTGRhPMHyIC6XLoKrEwJff2d6v5xyeEb1jNM4hSrgEVEfKOvpOnP4BzkWbyt2296eM8OkHPG1Q5hU04=;O4pmVSxLcZJ+IKYqsHLlyA=="
+secured: "pwwtv2F3ttRcEWXroJTMpsuFRExCVTXO9B9Avy36M7DyRSQ4sGaDzwtJwluqAbO3m8BZ2JTEX29bFeC3Odmhv7QimjYG1T2EL3Y+F5L1r6ETwsISfkt/AsCyp4yF4BswgraW+e7eBYwhSlk++WsETtwfNpJKgFyA4aShijT+0NGxOAOcKp6fEuWHT/mbURn9CIjLGO4eXy2ShWCwzNFVuTCbLfZWJInvWG49JwPlvFuht/YtImcs2mxOkRb21ae8Dhyv727sOpSGSmz+w6dJY8Nu3JvbDZNRyIap/todMX2lOgkhkYGgZYIzm+FBt9ypwhMb9Jk0yTF0i1BIx9hjQk1Zqu6UmykYv6rFD/Ty8m8=;PbSCmL1EbPYhVNy8d8kyHw=="
 ---
 

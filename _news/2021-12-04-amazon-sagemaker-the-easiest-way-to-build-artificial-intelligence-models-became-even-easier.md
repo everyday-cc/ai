@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemake
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/amp/"
 type: article
 quality: 95
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 554
     height: 312
     isCached: true
+
+related:
+  - title: "Amazon SageMaker Studio Lab from the Eyes of an MLOps Engineer"
+    excerpt: "Invent 2021 conference, an announcement from Swami Sivasubramanian, Vice President for Amazon AI, caught my attention — the launch of Amazon SageMaker Studio Lab. Since the initial launch of the Amazon Machine Learning service at re:Invent 2015,"
+    publishedDateTime: 2021-12-07T14:00:00Z
+    webUrl: "https://thenewstack.io/amazon-sagemaker-studio-lab-from-the-eyes-of-an-mlops-engineer/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/12/b223e448-sagemaker-lite.png"
+        width: 603
+        height: 352
+        isCached: true
 
 secured: "R6TL3sZTmL0o8w2SKFHSX9jDFaGSdl5KsTheoYSuemJ4RCDp23ASqnYu6PY7Yvdj5XbyK/G/twAlFkOFhut6hUrIQmObQyCDZq2LI+PdkCGVX4RJitsAev2Ts7OKQrTD6AzGX/J0xt3rPCpRDjArTA0NM69Gq19M39YdfLMGmuNl4Acv9JS+3LTqWJEfpS+usIfZKw4V3ECrs2i3c/N2BrQtFfZl4ycL3QlN+fGuRIM33mUEhq73PQXln2MvSySpJdyqPPxc8Vmtb49tCGOkhopxZBxcVdNWbrzVLyi4u4u/KK3xRnjABOle8S3ElNAdGKtD5qLjCCTOTsVE3GIoWheMMgI9GfsE3d6HL33fRwehgRcNY6EgUG/lglQpscbDdz3CiFrrH5l4Lb3iGVTMMEyRqnBUBN9VN1gF4mjOoOAEi3FDRUywOYPpiOYHkZDC6vztX2bTAAi3H11s1oHmSWcOqa6MYshZt8hoyDmfPtbBtNWNaS5JAjobs2PuYtLr3un2OfFc0Yjiodl4LiYVGg==;OJugUSP4fbr6fWMQDroGIA=="
 ---

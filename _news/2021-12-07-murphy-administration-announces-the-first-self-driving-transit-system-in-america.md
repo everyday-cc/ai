@@ -2,11 +2,11 @@
 category: news
 title: "Murphy administration announces the first self-driving transit system in America"
 excerpt: "Gov. Phil Murphy is announcing a project that would create the first self-driving-based transit system in America."
-publishedDateTime: 2021-12-07T11:31:00Z
-originalUrl: "https://longisland.news12.com/murphy-administration-announces-the-first-self-driving-transit-system-in-america"
-webUrl: "https://longisland.news12.com/murphy-administration-announces-the-first-self-driving-transit-system-in-america"
-ampWebUrl: "https://longisland.news12.com/amp/murphy-administration-announces-the-first-self-driving-transit-system-in-america"
-cdnAmpWebUrl: "https://longisland-news12-com.cdn.ampproject.org/c/s/longisland.news12.com/amp/murphy-administration-announces-the-first-self-driving-transit-system-in-america"
+publishedDateTime: 2021-12-07T15:24:00Z
+originalUrl: "https://connecticut.news12.com/murphy-administration-announces-the-first-self-driving-transit-system-in-america"
+webUrl: "https://connecticut.news12.com/murphy-administration-announces-the-first-self-driving-transit-system-in-america"
+ampWebUrl: "https://connecticut.news12.com/amp/murphy-administration-announces-the-first-self-driving-transit-system-in-america"
+cdnAmpWebUrl: "https://connecticut-news12-com.cdn.ampproject.org/c/s/connecticut.news12.com/amp/murphy-administration-announces-the-first-self-driving-transit-system-in-america"
 type: article
 quality: 39
 heat: 39
@@ -26,6 +26,6 @@ images:
     height: 675
     isCached: true
 
-secured: "XGVZydwykmsagQnYM9GIxRNQxSx46rUzbXfYKkTvsxMAS7qsU66+fshcFWrse8M7zSeK57Mf5i/SlEDgV7oz+WirUASW+dQ+3SKq/wzfoe3H5nW4m/xPxvqGeEPRqyvNzL30fQjQqrQe4dGZZMOH6HuTuWX1FQvNyibAk1H9Xd+L/9KwZU5BtFXgXZac7SbQFLh6ypuMT6Y2LvWxEL/WjpwTYpKXrQKxIJlcWuHvxNgghA7MyB6yEbvJnuuONWmG7TNgOUTn8U7DCWZnL7l6JApZXlxNkJ240+ZwDspxaLn3TMfvxxoVmtVVBzQDwyyLtkA1t2k70JfAV7w3BDq6FVjABJTtlpeWcwrbjOvMBi/kgeDKZ2pd4brTcAPUekY3W412CoEahAmfVu+5Vx7h+TfzT3oLnk/ex6Lzf1Qkf1VDAL+PVuuaeyvdfa1/fqe9hlJA4wyu5n/rEphL55DONtItRiaYg24pK+6+0Y2o756u5wzxa1lmO66pDIdG6keiH+cgR8Qjcc9h+XVMEEaOSg==;djEsi2f7ZBuPzcH72/1ENw=="
+secured: "u7ERXrcs2SMJeaYnAAleQhnY4pNcMJTUljxbWi3Gkjzg03U+SL204vNgXgHQoY9Fu5htpM9RypSl37zXknnrtzbwDwufl5rxTtE5TNE/g2mbdeXM8nT66HpwWUsA9dEd+PKJWTW6SB5pL2EqHNg/MgFycymkhXuohiWbJhlpul017ArB6pPNt9AORViLXRJfyiml5RYpqasspgUfwXM5kioHtrj6v+qyXdTXXYIKPBl/K8aEeq0ZsRA99dFp7tP3E28mTLujEY/lKnETl400jaaIDo/221xd96SJ1qlDoh0PW56uK9Bq8MJKJEaqWtY0ln0Y5LFs6hnZzITlI6rwtJMMwpca6gaK0IFwvKCDW8o=;zlUpu/inHTqLPb63dYFGRw=="
 ---
 

@@ -2,6 +2,112 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-06-amazon-amzn-expands-cloud-offerings-with-aws-cloud-wan.md",
+      "title": "Amazon (AMZN) Expands Cloud Offerings With AWS Cloud WAN",
+      "excerpt": "AWS unveils a service, namely AWS Cloud WAN, which aids in seamless development, management, operation and monitoring of a global network with the help of a central dashboard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/400893",
+      "originalUrl": "https://www.entrepreneur.com/article/400893",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-400893.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-logdna-raises-50m-to-bring-full-power-of-observability-data-to-security.md",
+      "title": "LogDNA raises $50M to bring ‘full power’ of observability data to security",
+      "excerpt": "Observability data firm LogDNA, whose customers include IBM, said it's expanding into security with funding led by Dave DeWalt's NightDragon.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/06/logdna-raises-50m-to-bring-full-power-of-observability-data-to-security/",
+      "originalUrl": "https://venturebeat.com/2021/12/06/logdna-raises-50m-to-bring-full-power-of-observability-data-to-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/logdna.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/06/logdna-raises-50m-to-bring-full-power-of-observability-data-to-security/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/06/logdna-raises-50m-to-bring-full-power-of-observability-data-to-security/amp/",
+      "publishedDateTime": "2021-12-06T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-open-sourcing-human-rights-documentation-in-the-digital-age-why-machine-learning-isnt-a-silver-bullet.md",
       "title": "Open-Sourcing Human Rights Documentation In The Digital Age — Why Machine Learning Isn’t A Silver Bullet",
       "excerpt": "Increasingly, human rights violations are documented live on social media, only to be automatically erased for violating content moderation policies. Hadi al-Khatib, founder of Mnemonic, saves these audiovisual documents so they are available as evidence for lawyers and journalists.",
@@ -310,7 +416,7 @@
       "originalUrl": "https://cio.economictimes.indiatimes.com/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -845,7 +951,7 @@
       "originalUrl": "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -896,7 +1002,7 @@
       "originalUrl": "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1117,102 +1223,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-4th-international-conference-on-robotics-and-computer-vision-icrcv-2022.md",
-      "title": "4th International Conference on Robotics and Computer Vision (ICRCV 2022)",
-      "excerpt": "International Conference on Robotics and Computer Vision (ICRCV 2022)--Ei Compendex, Scopus. Web:  Time: September 25-27, 2022. Venue: Wuhan Institut",
-      "sourceUrl": null,
-      "webUrl": "https://www.eventbrite.sg/e/4th-international-conference-on-robotics-and-computer-vision-icrcv-2022-tickets-218998599707",
-      "originalUrl": "https://www.eventbrite.sg/e/4th-international-conference-on-robotics-and-computer-vision-icrcv-2022-tickets-218998599707",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F193094599%2F527281139803%2F1%2Foriginal.20211129-081740?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=361%2C0%2C772%2C386&s=5793cc950dd438fc42333e98e81671f3",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eventbrite",
-        "domain": "eventbrite.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about.md",
-      "title": "How AI and ML can thwart a cybersecurity threat no one talks about",
-      "excerpt": "A new report by Honeywell says 46% of known OT cybersecurity threats are poorly detected or not detected at all.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/",
-      "originalUrl": "https://venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-167687205.jpg?fit=800%2C532&strip=all",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/amp/",
-      "publishedDateTime": "2021-12-03T20:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

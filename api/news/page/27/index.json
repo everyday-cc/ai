@@ -2,6 +2,143 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-11-15-ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh.md",
+      "title": "AI Start-Up Gives Sustainable Wastewater Management A High-Tech Refresh",
+      "excerpt": "In Australia, start-up Streamwise D.I. has developed an AI-powered intelligence platform providing industrial-grade digitisation for wastewater treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/11/15/ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/11/15/ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617bf94ef9a8f6bf5e543092%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/11/15/ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/11/15/ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh/amp/",
+      "publishedDateTime": "2021-11-15T04:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-15-technology-innovation-roundup-how-do-you-market-tea-try-ai-and-micro-influencers.md",
+      "title": "Technology & Innovation Roundup: How do you market tea? Try AI and ‘micro-influencers’",
+      "excerpt": "The company used that information to craft Sama’s four adaptogenic hot tea blends, which the brand says can offer physical and mental benefits. The organic blends are inspired by Ayurveda, a holistic medicine system with historical roots in India,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/southflorida/news/2021/11/15/technology-innovation-roundup-11-12-21.html",
+      "originalUrl": "https://www.bizjournals.com/southflorida/news/2021/11/15/technology-innovation-roundup-11-12-21.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-15-ai-driven-background-check-startup-intelligo-raises-22m.md",
+      "title": "AI-driven background check startup Intelligo raises $22M",
+      "excerpt": "Intelligo, which conducts AI-driven pre-investment, pre-hire background checks, has raised $22 million from Felicitas Global Partners.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/15/ai-driven-background-check-startup-intelligo-raises-22m/",
+      "originalUrl": "https://venturebeat.com/2021/11/15/ai-driven-background-check-startup-intelligo-raises-22m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-a0071-000211b.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/15/ai-driven-background-check-startup-intelligo-raises-22m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/ai-driven-background-check-startup-intelligo-raises-22m/amp/",
+      "publishedDateTime": "2021-11-15T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-15-why-ai-investments-fail-to-deliver.md",
       "title": "Why AI investments fail to deliver",
       "excerpt": "The success or failure of AI initiatives has more to do with people than with technology. If you want to put AI into practice in a way that improves business outcomes, you must avoid these 6 mistakes.",
@@ -1037,153 +1174,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language.md",
-      "title": "New AI products from Microsoft include Context IQ and Azure Cognitive Services for Language",
-      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Microsoft ... across its services at Ignite 2021, including Context IQ and Azure Cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language-10696390",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-ai-products-from-microsoft-include-context-iq-and-azure-cognitive-services-for-language-10696390",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-13T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-yes-deepmind-crunches-the-numbers-but-is-it-really-a-magic-bullet.md",
-      "title": "Yes, DeepMind crunches the numbers – but is it really a magic bullet?",
-      "excerpt": "DeepMind’s software has made major advances in the study of protein folding. Photograph: DeepMind/PA Sat 13 Nov 2021 11.00 EST The most interesting development of the week had nothing to do with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2021/nov/13/yes-deepmind-crunches-the-numbers-but-is-it-really-a-magic-bullet?via=indexdotco",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2021/nov/13/yes-deepmind-crunches-the-numbers-but-is-it-really-a-magic-bullet?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/509cd5c3d7e66829a6cf90a7ef1f11cb3d06203a/0_85_1760_1056/master/1760.jpg?width=620&quality=85&auto=format&fit=max&s=44b095b8f14186a19743b0bbff158550",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/nov/13/yes-deepmind-crunches-the-numbers-but-is-it-really-a-magic-bullet",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/nov/13/yes-deepmind-crunches-the-numbers-but-is-it-really-a-magic-bullet",
-      "publishedDateTime": "2021-11-13T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-13-is-scotland-a-major-contender-in-the-ai-space.md",
-      "title": "Is Scotland A Major Contender In The AI Space?",
-      "excerpt": "Governments and countries are taking advantage of the tremendous transformation presented by AI to position themselves for global competitiveness. Scotland is one such country doing this. Are they now becoming a major contender in the AI space?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618fd05810b6172dc4166969%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2209%26cropY1%3D27%26cropY2%3D1270",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2021/11/13/is-scotland-a-major-contender-in-the-ai-space/amp/",
-      "publishedDateTime": "2021-11-13T05:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

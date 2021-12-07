@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-07-new-resources-and-tools-to-enable-product-leaders-to-implement-ai-responsibly.md",
+      "title": "New resources and tools to enable product leaders to implement AI responsibly",
+      "excerpt": "As AI becomes more deeply embedded in our everyday lives, it is incumbent upon all of us to be thoughtful and responsible in how we apply it to benefit people and society. Join our digital event, Put Responsible AI into Practice, to learn more about these updates, including new guidelines for product",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/new-resources-and-tools-to-enable-product-leaders-to-implement-ai-responsibly/",
+      "originalUrl": "https://azure.microsoft.com/blog/new-resources-and-tools-to-enable-product-leaders-to-implement-ai-responsibly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9a2deb3b-438c-4517-8ab4-7b4fb079d7c7.gif",
+          "width": 1478,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T01:00:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-a-serious-game-microsoft-azure-champions-user-generated-content.md",
       "title": "A Serious Game: Microsoft Azure Champions ‘User Generated Content’",
       "excerpt": "User Generated Content brings communities together to turn games into ever-evolving platforms. By providing game developers with a set of tools to create open environments for players, they can increase engagement while empowering individual creators to share and monetize their work.",
@@ -605,19 +657,19 @@
     {
       "path": "_news/2021-12-01-mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
       "title": "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning",
+      "excerpt": "Partners with the AI and Machine Learning on Microsoft Azure advanced specialization can give organizations the tools and knowledge to develop AI solutions on their terms, build AI into their ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html",
+      "webUrl": "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization",
+      "originalUrl": "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook",
-          "width": 1496,
-          "height": 785,
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/pr-newswire_500_4_140.jpg?itok=5fsUeFER",
+          "width": 763,
+          "height": 509,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -625,13 +677,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T01:00:00-08:00",
+      "ampWebUrl": "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization?amp",
+      "publishedDateTime": "2021-12-01T05:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Asia One",
+        "domain": "asiaone.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1409,41 +1461,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-global-cognitive-informatics-market-research-report-2021-2026-healthcare-and-biomedicine-industry-will-lead-to-the-adoption-of-cognitive-service.md",
-      "title": "Global Cognitive Informatics Market Research Report 2021-2026 - Healthcare and Biomedicine Industry Will Lead to the Adoption of Cognitive Service",
-      "excerpt": "The enterprise sector will have the highest adoption of cognitive applications and services The global market will reach USD $32.6B by 2026, growing at 40.3% CAGR from 2021 to 2026 Key Topics Covered",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-cognitive-informatics-market-research-report-2021-2026---healthcare-and-biomedicine-industry-will/article_020d68e3-112f-58a3-be68-586c8c267b2c.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-cognitive-informatics-market-research-report-2021-2026---healthcare-and-biomedicine-industry-will/article_020d68e3-112f-58a3-be68-586c8c267b2c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

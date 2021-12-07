@@ -52,6 +52,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "How DeepMind’s AI Helped Crack Two Mathematical Puzzles That Stumped Humans for Decades"
+    excerpt: "Machine learning is aiming at the core of mathematics—a science for spotting patterns that lead to theorems about how our world works."
+    publishedDateTime: 2021-12-07T15:00:00Z
+    webUrl: "https://singularityhub.com/2021/12/07/how-deepminds-ai-helped-crack-two-mathematical-puzzles-that-stumped-humans-for-decades/"
+    ampWebUrl: "https://singularityhub.com/2021/12/07/how-deepminds-ai-helped-crack-two-mathematical-puzzles-that-stumped-humans-for-decades/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/07/how-deepminds-ai-helped-crack-two-mathematical-puzzles-that-stumped-humans-for-decades/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 66
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/12/DeepMind_AI_1638533244181.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "DeepMind & Mathematicians Use AI To Solve The Knot Problem"
     excerpt: "It is the first time that AI/computer is being used to seek out patterns. Researchers believe that this could benefit other areas of maths that involve large datasets."
     publishedDateTime: 2021-12-07T05:30:00Z

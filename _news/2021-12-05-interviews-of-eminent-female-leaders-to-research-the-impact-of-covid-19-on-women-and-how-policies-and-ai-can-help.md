@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/amp/"
 type: article
 quality: 66
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 28
+  - title: "COVID-19 Pandemic Created Changes and Challenges to Workplace Learning"
+    excerpt: "The COVID-19 pandemic changed the way employee learning was delivered in 2020 and led to a 3.1 percent decrease in the average organization's spending on employee learning, according to the Association for Talent Development's 2021 State of"
+    publishedDateTime: 2021-12-07T16:57:00Z
+    webUrl: "https://www.lelezard.com/en/news-20144610.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Cloud Artificial Intelligence Market Analysis, Trends and Forecast, 20212027 | Covid-19 Impact With Competitive Outlook"
     excerpt: "In January 2017, Google, Inc. launched its Cloud AutoML. It utilizes Google's Cloud Vision application programming interface and Cloud machine learning engine service. AutoML is used by several ..."
     publishedDateTime: 2021-12-03T17:42:00Z

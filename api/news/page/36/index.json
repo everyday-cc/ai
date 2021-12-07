@@ -2,6 +2,151 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-11-08-enterprai-launches-new-way-for-global-macro-players-to-stay-on-top-of-financial-markets.md",
+      "title": "Enterprai Launches New Way for Global Macro Players to Stay on Top of Financial Markets",
+      "excerpt": "Enterprai - the AI-powered SaaS workstation for global macro professionals, pioneering predictive analytics for FX and fixed income markets - today launched a set of products offering global macro portfolio managers,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-europe-london-financial-markets-fb9501d7c7a03913bcdd22d7f6ee3ed4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-europe-london-financial-markets-fb9501d7c7a03913bcdd22d7f6ee3ed4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-08T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-like-it-or-not-artificial-intelligence-is-coming-to-every-part-of-retail.md",
+      "title": "Like It Or Not, Artificial Intelligence Is Coming To Every Part Of Retail",
+      "excerpt": "When I talk to retailers about artificial intelligence, their eyes glaze over, like I’m speaking a foreign language and very few people want to talk about it. But it’s coming, it’s unavoidable. AI is going to pervade almost every aspect of retail,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardkestenbaum/2021/11/08/like-it-or-not-artificial-intelligence-is-coming-to-every-part-of-retail/",
+      "originalUrl": "https://www.forbes.com/sites/richardkestenbaum/2021/11/08/like-it-or-not-artificial-intelligence-is-coming-to-every-part-of-retail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F617c1f30e375ba25ab543092%2F0x0.jpg",
+          "width": 1200,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardkestenbaum/2021/11/08/like-it-or-not-artificial-intelligence-is-coming-to-every-part-of-retail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2021/11/08/like-it-or-not-artificial-intelligence-is-coming-to-every-part-of-retail/amp/",
+      "publishedDateTime": "2021-11-08T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-sneaker-fit-startup-neatsyai-gets-1m-seed-after-b2b-pivot.md",
+      "title": "Sneaker fit startup Neatsy.ai gets $1M seed after b2b pivot",
+      "excerpt": "Sneaker fit startup, Neatsy.ai, has snagged $1 million in seed funding after a b2b pivot. Investors in the round include Cabra VC, Flyer One VC and some unnamed business angels. The US startup, which was founded back in March 2019 by Artem Semyanov (the former head of the machine learning team at",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/08/neatsy-ai-seed/",
+      "originalUrl": "https://techcrunch.com/2021/11/08/neatsy-ai-seed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Screenshot-2021-11-08-at-12.12.35.png?w=1024",
+          "width": 1023,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/08/neatsy-ai-seed/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/08/neatsy-ai-seed/amp/",
+      "publishedDateTime": "2021-11-08T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-interesting-ai-ml-nlp-applications-in-finance-and-insurance.md",
       "title": "Interesting AI, ML, NLP Applications in Finance and Insurance",
       "excerpt": "Many blogs address the effect of AI in the financial and insurance industries, but many of them focus on far-fetched AI and machine learning concepts that have yet to be proven or implemented in either.",
@@ -1045,143 +1190,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs.md",
-      "title": "Alphabet Chases Wonder Drugs With DeepMind AI Spinoff Isomorphic Labs",
-      "excerpt": "After DeepMind's breakthrough in protein folding last year, Alphabet will double down on artificial intelligence in biology and health with its new venture.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/",
-      "originalUrl": "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/11/pills-rows-yellow-background-1-1.jpeg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/11/07/alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs/amp/",
-      "publishedDateTime": "2021-11-07T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai.md",
-      "title": "First Artificial Intelligence-based driver evaluation hub launched in Dubai",
-      "excerpt": "Dubai: An Artificial Intelligence-based driving hub is opening its doors in Dubai with an aim to cut accident risks and improve drivers’ skills. Starting November 15, a private driving institute in Dubai will make use of the Artificial Intelligence (AI)-based driver evaluation hub,",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019",
-      "originalUrl": "https://gulfnews.com/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/11/07/AI-based-driver-evaluation-1636293949003_17cfab8369f_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/first-artificial-intelligence-based-driver-evaluation-hub-launched-in-dubai-1.83523019",
-      "publishedDateTime": "2021-11-07T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-facial-recognition-on-smartphones-is-it-secure-and-should-you-use-it.md",
-      "title": "Facial recognition on smartphones: Is it secure and should you use it?",
-      "excerpt": "Facial recognition has become common on smartphones and laptops, but they're not all equally reliable or even secure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
-      "originalUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2018/10/huawei-mate-20-pro-review-aa-notch-3d-face-unlock-earpiece-11.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/face-unlock-smartphones-3043993/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/face-unlock-smartphones-3043993/",
-      "publishedDateTime": "2021-11-07T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

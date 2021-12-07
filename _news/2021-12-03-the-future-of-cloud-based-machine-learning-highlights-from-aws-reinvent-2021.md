@@ -106,6 +106,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "AWS Re:Invent: How Real Is Amazon’s No-Code/Low-Code Play?"
+    excerpt: "Low-code/no-code underpinned some of ’ (AWS) key announcements at its annual Re:Invent users conference in Las Vegas, including the availability of the no-code platform SageMaker Canvas for machine learning (ML)."
+    publishedDateTime: 2021-12-07T15:01:00Z
+    webUrl: "https://thenewstack.io/aws-reinvent-how-real-is-amazons-no-code-low-code-play/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 41
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/12/a649e9b4-aws-reinvent-21.jpg"
+        width: 650
+        height: 466
+        isCached: true
 
 secured: "I9hiWcHk1EFK/MRBKlTsayd9YypJ/vqnKjqDGdaec7pv/pPJHz6hw4jYrTCIxoQohHUpzYfCRZerUHOIPsOlQa2c9avgu6EXPf7sDIWY7ozPElu48tr6rUPLxVEcpkyXmeoY24lNN0g0cISsAeMyuP8kgkQJk/im9wD2KDORH/4cA7W0dYxwzUAS7syfieXlMODoir+cNJA9XIeoHoa+JjwUW7UkeQC3CBUXlxq9Is8c/Cu/KwDIk2I9/9EziFrGgyyoqZs4swm/fTddU0+aIHzkoy3QrobacpkA6BWBFZxvXQS/v+kXa8H/miYmttp08WgvklcySvLCHZqPvSlaF5nO1YCdSO6owqIbmddRi4c=;CCxk/CFo1+frGShix2tFIQ=="
 ---

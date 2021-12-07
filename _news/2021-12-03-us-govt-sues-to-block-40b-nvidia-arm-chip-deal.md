@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "FTC Sues To Block $40 Billion Nvidia – Arm Computer Chip Deal"
-    excerpt: "The Federal Trade Commission on Thursday sued to block graphics chip maker Nvidia’s $40 billion purchase of chip designer Arm."
-    publishedDateTime: 2021-12-02T23:07:00Z
-    webUrl: "https://sanfrancisco.cbslocal.com/2021/12/02/nvidia-arm-ltd-chip-deal-ftc-lawsuit/"
-    ampWebUrl: "https://sanfrancisco.cbslocal.com/2021/12/02/nvidia-arm-ltd-chip-deal-ftc-lawsuit/?amp"
-    cdnAmpWebUrl: "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/2021/12/02/nvidia-arm-ltd-chip-deal-ftc-lawsuit/?amp"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 39
   - title: "US government sues to block $40 billion Nvidia-Arm chip deal"
     excerpt: "The Federal Trade Commission has sued to block graphics chip maker Nvidia’s $40 billion purchase of chip designer Arm."
     publishedDateTime: 2021-12-03T21:00:00Z
