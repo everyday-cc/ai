@@ -7,7 +7,7 @@ originalUrl: "https://www.newsweek.com/sponsored/ai-applications-digital-health"
 webUrl: "https://www.newsweek.com/sponsored/ai-applications-digital-health"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Netsmart Accelerates AI Healthcare Technology Innovations with Acquisition of Remarkable Health"
-    excerpt: "Netsmart announced today it has acquired Remarkable Health, an industry-leading provider of artificial intelligence (AI) technology and software solutions for behavioral health, substance use and human services organizations."
-    publishedDateTime: 2021-12-02T20:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2021/12/02/9504119.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 22
   - title: "Benchmarking modern edge devices for AI applications"
     excerpt: "which highlight increased computing power and specialized hardware support for AI applications. We perform a set of deep learning benchmarks on the devices to measure their performance. By comparing the performance with other GPU (graphics processing unit ..."
     publishedDateTime: 2021-12-06T12:11:00Z

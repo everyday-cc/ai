@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/article/intel-mobileye-ipo/update-4-intel-
 webUrl: "https://www.reuters.com/article/intel-mobileye-ipo/update-4-intel-plans-to-list-shares-in-self-driving-car-unit-mobileye-idUSL4N2SS02C"
 type: article
 quality: 54
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -121,6 +121,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Chipzilla to make its self-driving car unit public"
+    excerpt: "Mobileeye plans IPO  Intel is planning to make its self-driving-car unit Mobileye a public company in the middle of next year -- an IPO could value the Israeli unit at more than $50 billion Chipzilla expects to retain Mobileye's executive team and hold on to a majority ownership in"
+    publishedDateTime: 2021-12-07T11:26:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/54007-chipzilla-to-make-its-self-driving-car-unit-public"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/1fe68e50434d250817039055a6f59a23_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "Intel to take its self-driving car subsidiary 'Mobileye' public next yr"
+    excerpt: "Chip maker Intel has announced its intention to take its self-driving car business Mobileye public in the US next year via an initial public offering (IPO). Intel will remain the majority owner of Mobileye,"
+    publishedDateTime: 2021-12-07T12:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211207/3869159.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "ZCcRize7Gld+W3FjvZxrYcqoVHvTo0+3yjMNR5qtqOl6nxn89E95TXG7VfHvEjJH2Ae4G0R8mgWdZGF0LrIGUk8qSR+lZsYljg/HxkUjsw9nKr5GRFwX36Ve4OG8B5a8U3GnsBSSbnOYj/oGbyh5hxpLCDHjhc5K2zBGAAviTPgpQco17ngnBYkNbUr73Vvqw9GP9133S1V2Y61w5XXGp3z91wZDPUy6DSRd4a2dHOpNy8eWtrUwI4JIK6SA4jCB7TMDdoP0T7gPj3JYuDPJP2x1lm2IXHIQU0Q4q5EfIDC2p+80c8l2lcVHavRHM0jYOIFzQWkCySgQBl7ykiwF22Umk0BRwq7LjRzTNQo8YcVBVTRd3XaKEUpHjGBrrJL3P9gmP/Kabtw4Opg2NGb6d3vOY7/rkOz4GDg5VNihfdC3b3DmmbK3y4uzNvocKOCNYzSN8ZQXWZFtljBXYU+hs0zv7Df0j26i13NP9Y8xw0ZSNz6IlOAvmQg+n/QQzbWEuXe0ST5KeBXpJonPZmpGHw==;BVdaf1Oo5YXXNw8GNw+wcA=="
 ---

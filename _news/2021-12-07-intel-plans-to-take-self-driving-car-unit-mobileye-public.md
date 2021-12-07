@@ -121,6 +121,29 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Chipzilla to make its self-driving car unit public"
+    excerpt: "Mobileeye plans IPO  Intel is planning to make its self-driving-car unit Mobileye a public company in the middle of next year -- an IPO could value the Israeli unit at more than $50 billion Chipzilla expects to retain Mobileye's executive team and hold on to a majority ownership in"
+    publishedDateTime: 2021-12-07T11:26:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/54007-chipzilla-to-make-its-self-driving-car-unit-public"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/1fe68e50434d250817039055a6f59a23_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "Intel to take its self-driving car subsidiary 'Mobileye' public next yr"
+    excerpt: "Chip maker Intel has announced its intention to take its self-driving car business Mobileye public in the US next year via an initial public offering (IPO). Intel will remain the majority owner of Mobileye,"
+    publishedDateTime: 2021-12-07T12:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211207/3869159.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "Fdt8zfzFL5waJFokuFuYAv5AFsG4/EG7x6INE4MBwLvaFMIH4dMEGVyGdYRDRv2RFKscZUntTZ4PAe5TFX0WOIgO6BWfZlgOmebHartaysKvp2aYZv93OLCMMgNyuKoTsbefeW0LqDE6V93Z5gfrIPAQ5373L5kkAAAnIsKIjkmzdHfmUwpm0Xb//YBGBIxS492KophMfYGNu1QntmEuZeBIa4usVNDXgX/jrCPfmfJcnALErH5TJGe0goCuWWM2ULCqoJCGwlyCvJcqXabPMJ4SNGxMy0domkLRI+5xCoqeJH9VHh1ro/Rs8WpKIhJS1miZ9Ho86zsLJULk3GpPimw4p6u8oIg0tTHWRelMXhL+DATrkMQOvVE0cWYovbFREOyX6M/gDuLhd4m0y3bPLf6D/0uPH0aQHhqUkw5/plM8LPW1lHZmNBw1vrP9+TvFdzW8UD4PBdXBY1CP9aIplUX7SzR+3HMHbojPQ2vf7B3KZvohoINDDPtnuCOSYXzFcvaEqregb7Bp/0gSrpmx+g==;1qAsHvxlviq4Xf+u6bCC/A=="
 ---

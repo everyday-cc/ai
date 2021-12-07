@@ -25,51 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "US rejects calls for regulating or banning ‘killer robots’"
-    excerpt: "US official proposes ‘non-binding code of conduct’ at United Nations but campaigners disagree"
-    publishedDateTime: 2021-12-02T20:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots"
+  - title: "Adult entertainment robots: a buyer’s guide"
+    excerpt: "You’d be forgiven, if you believe certain sections of the internet, for thinking that sexbots are ubiquitous. But do they even exist? Commence clutching your pearls, we’re going in!"
+    publishedDateTime: 2021-12-06T17:01:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2021/12/adult-entertainment-robots-a-buyer-s-guide/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 142
+      name: IET
+      domain: theiet.org
+    quality: 54
     images:
-      - url: "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_70_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0fe3dc3678121882d7e62f5530c8dae3"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "New ‘Slaughterbots’ Video Warns Of Need For Legal Controls On Killer Robots"
-    excerpt: "A new video highlights the risks posed by autonomous weapons or ‘killer robots’ – and the steps needed prevent them from being used. It even has Elon Musk scared."
-    publishedDateTime: 2021-12-03T12:53:00Z
-    webUrl: "https://www.forbes.com/sites/davidhambling/2021/12/03/new-slaughterbots-video-warns-of-need-for-legal-controls-on-killer-robots/"
-    ampWebUrl: "https://www.forbes.com/sites/davidhambling/2021/12/03/new-slaughterbots-video-warns-of-need-for-legal-controls-on-killer-robots/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/12/03/new-slaughterbots-video-warns-of-need-for-legal-controls-on-killer-robots/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa2123f4a72238ce6b5bcc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D768%26cropY1%3D3%26cropY2%3D435"
-        width: 768
-        height: 432
-        isCached: true
-  - title: "U.S. Shuts Down International Calls to Ban “Killer Robots”"
-    excerpt: "The Biden administration has rejected calls to ban the use of lethal autonomous weapons, also known as “killer robots.” During a United Nations meeting in Geneva Thursday, the U.S. instead proposed establishing a code of conduct for their use."
-    publishedDateTime: 2021-12-03T15:31:00Z
-    webUrl: "https://www.democracynow.org/2021/12/3/headlines/us_shuts_down_international_calls_to_ban_killer_robots"
-    type: article
-    provider:
-      name: Democracy Now
-      domain: democracynow.org
-    quality: 39
-    images:
-      - url: "https://www.democracynow.org/images/headlines/18/60618/full_hd/H13-US-shuts-down-ban-killer-robots.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://eandt.theiet.org/media/17282/sex-robots.jpg?anchor=center&mode=crop&width=1200&height=450&rnd=132830015270000000"
+        width: 1200
+        height: 450
         isCached: true
 
 secured: "lUygzpjmbDdQj2xmpdazCKuwrbxcFgs0nwktX3E2f2D5EyJ/hBT7gC9iXHJs2bLcB2aCkWtwJpf/cE6t24bqb+sC3LIzSryFPk4i7TJh/PCsLS9jlFN2OhtIMrHTEuL4uXwU7fZzr5iF59nZDNum1RAxmNk4l7rGKYnXK0hRoyOtVbBeLL/MNgORLT+gfACAkmOmuDamjEs/GAMgDMFcbY0sT5yAKBqLCeIroEEgvnt6pOcG7MNqJZS5mnym06ipS+sc3wdsiXTFoTqMkMS2xFKCwEtxnSl1wkf/NLlcz5/YJLr9PmF02hKILm37szYu1wqYbdY/HZQzjDZVcEXedrITQaROyNBf1fBK2cnFrPg=;hHCm24tn1Ph2rWanjsxFGA=="

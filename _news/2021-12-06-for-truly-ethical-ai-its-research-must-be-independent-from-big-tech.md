@@ -2,9 +2,9 @@
 category: news
 title: "For truly ethical AI, its research must be independent from big tech"
 excerpt: "We must curb the power of Silicon Valley and protect those who speak up about the harms of AI"
-publishedDateTime: 2021-12-06T12:33:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru"
-webUrl: "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru"
+publishedDateTime: 2021-12-06T14:32:00Z
+originalUrl: "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru?s=09"
+webUrl: "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru?s=09"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru"
 type: article
@@ -31,6 +31,6 @@ images:
     height: 372
     isCached: true
 
-secured: "3CjqZoEOTKge0w+W/vFFVkWhq3GNHzBtrv2Fx83Y2CwcwwfQooHTkV4zHOTZFby0r4TBNTou5ZMd79Gkp3Ai2DhnSlqwINqfbeEZwtJQGhVrUIxneJEx5f7gqZ5bGBn12XzOZWEIS3p16ksXlpHB6eL3HolGYo+OO7qMc56bKDr14dZ8XVvE1B/Q4SFkwewcDMsp48AXgi15uGOSAv5X87Y5riuJVTtvJodTKcOX46NEhfrz8MDgtuF/XlqYoT3+TulITEvgO6br1UMKOwCP0lVioCCaKSJAinWPGE1vP72rrPq6V2pTZwLAb4iHybYahlsZ7D4YZHpwVHvMrtnYZfDH5zmu0HfiRke7IqpXv0mWiB7hTXgNukpL9IYu+xWG0Pbn9FD9g77sx1Irj0ssWCTnysTlsGj5qoaIepWxoktqwmLVR5S5zjykDmGcVwFWHnXqHZ3/emZf4V4rphIGm5LK0or2EGvg09A/qKZsZ16yI4CVZmBwBkEyMq7jXYtc93VavbU9s0/kYigLTe5Nuw==;JgFOsgwNjfhZpJv1NkjL0g=="
+secured: "D869WKVqG1fnRFG39BtbwR3WYy0rRlJsh5IF9eGtmZ7geyUOkqFlrEBbEx653raqRvL82eyRHgRTEvwY7EzZJJOwkDaR9GOnj5NBrizgVG2+t06uJEXZcY1j7eruZpcXYMHmGVJfJyPegHZPCqEhcqAvgj1yQxsyzMy4diSaco4tUTY/GsRxlTM6fH0SwKoteT4pqXAXYXyJaonm1v6Yk2pBMDwMivhPIU9B5Fk2AMyhdJMcbPfddq+2X9PAow7uKYZalU0sRldOLXCFZYo74gnV9J3xSfBdStM1JNCXrUY5BTxjv0qDhZs/4m25MW73gaVQlL4rLLBjJK7fIzyB5i48O6LWMaE4l42Eq07aroU=;zDs9uhr7hWCbUEd3isPLcQ=="
 ---
 

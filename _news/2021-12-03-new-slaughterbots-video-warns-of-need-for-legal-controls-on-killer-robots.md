@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/davidhambling/2021/12/03/new-slaughterb
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/12/03/new-slaughterbots-video-warns-of-need-for-legal-controls-on-killer-robots/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Forbes
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "US rejects calls for regulating or banning ‘killer robots’"
-    excerpt: "US official proposes ‘non-binding code of conduct’ at United Nations but campaigners disagree"
-    publishedDateTime: 2021-12-02T20:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 142
-    images:
-      - url: "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_70_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0fe3dc3678121882d7e62f5530c8dae3"
-        width: 620
-        height: 372
-        isCached: true
   - title: "U.S. Shuts Down International Calls to Ban “Killer Robots”"
     excerpt: "The Biden administration has rejected calls to ban the use of lethal autonomous weapons, also known as “killer robots.” During a United Nations meeting in Geneva Thursday, the U.S. instead proposed establishing a code of conduct for their use."
     publishedDateTime: 2021-12-03T15:31:00Z
@@ -60,20 +44,6 @@ related:
       - url: "https://www.democracynow.org/images/headlines/18/60618/full_hd/H13-US-shuts-down-ban-killer-robots.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Killer Robots: Negotiate New Law to Protect Humanity"
-    excerpt: "and Turkey are investing heavily in the military applications of artificial intelligence and related technologies to develop air, land, and sea-based autonomous weapons systems. “An independent process to negotiate new law on killer robots would be more ..."
-    publishedDateTime: 2021-12-05T19:37:00Z
-    webUrl: "https://www.pressenza.com/2021/12/killer-robots-negotiate-new-law-to-protect-humanity/"
-    type: article
-    provider:
-      name: PRESSENZA
-      domain: pressenza.com
-    quality: 39
-    images:
-      - url: "https://cdn77.pressenza.com/wp-content/uploads/2019/03/killer-robots-campaign.jpg"
-        width: 678
-        height: 419
         isCached: true
 
 secured: "FCI/Tf4Jf60LBBAN/yrQ3s6tOWS4b2IMloNTBcYcQkwKICCFr8EyTM8lYFLHra9HAKQB/956AnoQeaS2YG53ZTOfBx65qRSK0K+xXDSmF/I1udT+exv4YTCsQp9/KHFbMXPFcoJfT7LpQj4bjHanILtnVqOglKx3FqlexgsdywayYEOZE5dvvifnfr5ICbBAAlGOcyWpO0G+FIgUSJmMIZAy56nyylO8AGm7iENWw2aRYVpUiHPMEGILEzl1m6PEAjsvtS9vhBnX1EUjXRe4R5JcfSVcCkh8KQYV0zNvLiBPPENQj+FxQFBw3bhgKqoqaIgI9iNw+ifLA4rXAfgYxFJez5mNwFBlZ7te/fUakEs=;vlhGNv4GY7WDZ4g3HBMKig=="

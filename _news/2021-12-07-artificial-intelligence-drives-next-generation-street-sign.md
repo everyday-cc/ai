@@ -2,19 +2,19 @@
 category: news
 title: "Artificial intelligence drives next-generation street sign"
 excerpt: "The smart sign is essentially a stationary robot driven by artificial intelligence that can provide real-time, up-to-date directional information to help you get to where you want to be."
-publishedDateTime: 2021-12-06T18:48:00Z
-originalUrl: "https://www.abc15.com/news/national/artificial-intelligence-drives-next-generation-street-sign"
-webUrl: "https://www.abc15.com/news/national/artificial-intelligence-drives-next-generation-street-sign"
-ampWebUrl: "https://www.abc15.com/news/national/artificial-intelligence-drives-next-generation-street-sign?_amp=true"
-cdnAmpWebUrl: "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/national/artificial-intelligence-drives-next-generation-street-sign?_amp=true"
+publishedDateTime: 2021-12-06T18:42:00Z
+originalUrl: "https://www.wcpo.com/news/national/artificial-intelligence-drives-next-generation-street-sign"
+webUrl: "https://www.wcpo.com/news/national/artificial-intelligence-drives-next-generation-street-sign"
+ampWebUrl: "https://www.wcpo.com/news/national/artificial-intelligence-drives-next-generation-street-sign?_amp=true"
+cdnAmpWebUrl: "https://www-wcpo-com.cdn.ampproject.org/c/s/www.wcpo.com/news/national/artificial-intelligence-drives-next-generation-street-sign?_amp=true"
 type: article
 quality: 57
 heat: 67
 published: false
 
 provider:
-  name: ABC15 Arizona
-  domain: abc15.com
+  name: WCPO Cincinnati
+  domain: wcpo.com
 
 topics:
   - AI
@@ -36,6 +36,6 @@ related:
       domain: linkedin.com
     quality: 19
 
-secured: "NlZOvq7NR6MG5Ybg0cF3TUP8VEi9NK6zUEkG1N5MCMhlxC6blZ0VL7XbeDdR3xsFgi++ypQeI0m+8muJp5WyvXfwNRR+pfoDNSoKISeeMg+2+mX2APECgDvWTs9zuKbr9pIXkT027t5nVD7xFXw7JRK9KtP//J5hc+Hh+i+y43rZF1ba0aViXdjwZ9P9WepzI1cZvlVHlJ6dYapsAUNOD2g4xkiPEAIU5lqabNnu+g9VfqRJRfzAKCnatutefARCpdpfirNHm3+HTDobsPVAnThEbKoeVfggHHcLA6Id4AnYfQ1VzjjsDoQcXRmLHrhqvtjTjTegJCFhja9X/uz8v93T3lmwyLIjkTqSRweUdf8=;yQYo0D57JGW9vq9CJuO45Q=="
+secured: "UTeyrcXa2bpwZEEsCfTuQOPn1ZIIqhWYi93v4bhClxEobt6SgoGz/5Oc9Bd2UEZMW1K81S2ZOONr9Eqzma/OZpTmdPN7bvJQshkQmJ20VPV+uY1dKwhBovu5rWhlcBr9BJoUAQtwxix3ZrIWgkCKz9zByvIh3jOrSUZbVQwsys3LkmP5kYSkG3QOJG3cM0Ka0FjrH4YBiryrcax0jlF0ZRMlTJ5HTxxaHUDq6C1HFD5wgyeRJlrAokdOpdQ0cIaz9sATJoxs6g47g3YJAOQBpqBdLHBQxuJDyNoRVASKB/2fC4j2ny0YR8g8mxEzorlUUnHCGtyl6l4nc/tJX85qkbPuNN5blINCkpcx/cQrRgw=;GEX+EbMRq7tsy3WDPo6Wew=="
 ---
 

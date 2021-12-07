@@ -2,9 +2,9 @@
 category: news
 title: "Taiwan Aims to be Global Leader in Artificial Intelligence with New AI HUB Initiative"
 excerpt: "The benefits of artificial intelligence (AI) technology have been validated in many domains, where AI has helped reduce costs,"
-publishedDateTime: 2021-12-07T07:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/taiwan-aims-to-be-global-leader-in-artificial-intelligence-with-new-ai-hub-initiative-301438619.html"
-webUrl: "https://www.prnewswire.com/news-releases/taiwan-aims-to-be-global-leader-in-artificial-intelligence-with-new-ai-hub-initiative-301438619.html"
+publishedDateTime: 2021-12-07T12:00:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/taiwan-aims-to-be-global-leader-in-artificial-intelligence-with-new-ai-hub-initiative-888953629.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/taiwan-aims-to-be-global-leader-in-artificial-intelligence-with-new-ai-hub-initiative-888953629.html"
 type: article
 quality: 25
 heat: -1
@@ -33,6 +33,6 @@ related:
         height: 400
         isCached: true
 
-secured: "ymoXYl+qybOBg0oCng5UX5IB+WN6pKAZ4pkb3zRGnJ26wd4k9heX7N6u/DL2RgfGsRiOpIs8ktVK/P+LGfUKbGUovtauv3LLuTqj9wipytloA05oCeK7b2o2EfIK5KMMbMmwXT6/AvYl3BCnnMamIytd/3dQkfZ9nLBIa7gOFePYgzf6l9jsRRHe8+vm8z9hKgFwFSufAvrHPsONQBAL+RzBDMbAt3BXfwBHsXXx52EugATq6QnP6y3Or+7ZSGi0HQyIq4hXS2zHR8hJElTKxAxEGUMMg39YDFtvQTbp982+qQIuD0Q/wK73U5rw6qavbDxBeV/K1HQEVrsZDCIBZNIq8VQykTgW7NqGlfQAidU=;U29ni9l9FE/EMmjWC9jQpw=="
+secured: "YeYxStrtvW0U2AeAHJa17wp1kEXcG0jGaHbKO5NZf10pSA9WnsAiQVFlMmQ06D6WNlwczc/qCNna1t3GLQadzIg1DkBr+Ua7nKV4vMyYx8e7rcY+O36t3+Hy4AH+mTp/YiEflm29ite/Zpc4ZtkGOY4+MQlERYXMi2CXnPOU9zSof1Le9jGgLQMloge+Kuwnka9+06DACHIUMEztDPk+JlSMTI9gGWYQ+zDnpB1l8rhH2iY9uK+dziBbasyzd9XJh81/VkHS9GbCdwt02RDxC4ppRJ5Drc2zVmvKFHt1GZfebQh40WS8Lh5WZT1s/H5sCXiSls02FWYkqbDXlTXcvOPgbnFUC0doCe+miGZoBYQ=;3R07r5Dyglarj73GR3U5Tg=="
 ---
 

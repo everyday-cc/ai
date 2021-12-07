@@ -1,29 +1,30 @@
 ---
 category: news
 title: "Artificial intelligence carries a huge upside. But potential harms need to be managed"
-excerpt: "Artificial intelligence and machine learning have the potential to contribute to the resolution of some of the most intractable problems"
-publishedDateTime: 2021-12-07T10:44:00Z
-originalUrl: "https://menafn.com/1103317870/Artificial-intelligence-carries-a-huge-upside-But-potential-harms-need-to-be-managed"
-webUrl: "https://menafn.com/1103317870/Artificial-intelligence-carries-a-huge-upside-But-potential-harms-need-to-be-managed"
+excerpt: "The increasing use of artificial intelligence and machine learning in public decision making is raising critical issues around fairness and human rights."
+publishedDateTime: 2021-12-07T10:04:00Z
+originalUrl: "https://theconversation.com/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073"
+webUrl: "https://theconversation.com/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073"
+ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073"
 type: article
-quality: 32
-heat: 32
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI
-  - AI Ethics
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-12/07/TC_6c212image_story.jpg"
-    width: 1500
-    height: 1050
+  - url: "https://images.theconversation.com/files/436064/original/file-20211207-27-1vcec0k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop"
+    width: 320
+    height: 224
     isCached: true
 
-secured: "HvJzSHXexGzRqn/bjIr4B7RY0q9awq0qr4GeluKuNmXf8On4703kxa8sD9zTvsqM/JXt2W+rgD6O0a8E9jwzSB0ytYeDsyphOfg8z+KFNhYnquLfKu4czbWsQpTXJ7qgqpw2pa3FMozz1v46hwZ5UxajSmCH7I52lcAg3gM9we7oBK3MJSmgcboB4pZxDj8ghV9p28LSwNiTVt8kBb3FGVq/quHhQa8fpYxwcYbATB06CcnRmBF8tzFWTkUcd15wC0eOpXlAdTIiSWpMNhpSPpvaDcRFg434Z5AiUWzgQ6wp0dUkNgREO6Eytmfis9CgCP5G0zMP4GgfaCfoIRSryh77ET7uUpMQf4iYREyd/J0=;xn3e7ror473/Q4O3+ukBfg=="
+secured: "Jv7Murtl9oOvGGKTeDbJyNnNpZMIvA5VmlHjNpoCQZ6myjwkHok82h8T0q+Z1GxWqv0X09Tn2VNZcYZjdiS2ZW751xmjJtjR8M1FnwIUcrEKIQx4hozeXCq9t2VDVOckIaTBnT3Yh0e9KRZBHFRpAgNFyC0Fbbw95xAjbPoPTRWe7nqmr1qNdKMz9m9PrnMDJhYu8GyGN/f41F0rmZQGpm1zUVCKhg2XjVEkOtAeoQYiUb2KNL8PDm1qkcbUhNo8jvrUtSAeMvmfHxeSX3oBhO1VYGSbnOoulI+ACrBVZ3Spmvs/GqvOhcWxdxLlRlzcUJrQwEhMfV0Tui9bHcZBajbAaScYDkE9477dImzC+lw=;F9xOi+1akmYztPuqvsmVVg=="
 ---
 

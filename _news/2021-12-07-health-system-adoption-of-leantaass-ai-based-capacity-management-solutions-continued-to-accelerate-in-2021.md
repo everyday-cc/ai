@@ -24,6 +24,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "SturdyAI Welcomes Two Key Hires to Accelerate Growth of AI-Powered Customer Intelligence Solutions"
+    excerpt: "SturdyAI, a leading developer of AI-powered Customer Intelligence Solutions that create more engaging, profitable, and successful customer relationships for B2B SaaS companies today announced the appointment of two key team members."
+    publishedDateTime: 2021-12-07T11:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sturdyai-welcomes-two-key-hires-accelerate-growth-ai-/2021/12/07/9505758.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
+
 secured: "BhYTjlxK+Q0PpihFSpGmv9w4YVJXn3WKeOM0UFYwlVAnNlWqkwmHiPbGM4xfI/cwkmj1LZdx8pZ0Zw9ANViwJpax6767rZs+hJ/DYv1RrMytoU1OQ4gWLS9CBX1R112Odej/Kuc+We3ZtTEzS86spVJpyxiRNjdv2wtSEMsaqr+aX3Ewjc3GE8/TNV/beb9TQDvVHGVlxmiSwxkTHhpeRmr1PPrUjKr7O43+PpecB//yqf17L4hzLRe66kCukGv4yKMLPtD71qVPZKVqYaAPh0fKof3RVbcs8NI6HtoMNDpac7Q1Bc2Q6RSQwpspR5RVmobd0Ef+s5A/sGp9COf/m1B+f+B6/FEs+XNzsy1315Q=;cEC2u6iJt16ZxhaBCc8K3Q=="
 ---
 

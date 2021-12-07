@@ -43,31 +43,6 @@ related:
         width: 494
         height: 301
         isCached: true
-  - title: "Professors working on self-driving car technology that uses facial recognition system"
-    excerpt: "Professor A.J. Alnaser is turning this tricked-out Ford Fusion by moving his head, no hands needed. It might be the future of self-driving technology."
-    publishedDateTime: 2021-12-02T19:04:00Z
-    webUrl: "https://www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system"
-    ampWebUrl: "https://www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system?_amp=true"
-    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system?_amp=true"
-    type: article
-    provider:
-      name: ABC Action News
-      domain: abcactionnews.com
-    quality: 54
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/f9c/45bf940c346f431c9be273b8942ab6eb/f9c346911ec54171a39166a39d302dd0/poster_a84395db2a4e4150ab8f0cdfc18b9575.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Facial recognition technology at 4 airports to be introduced by March next year: Centre"
-    excerpt: "Facial Recognition Technology (FRT) has not yet been introduced at any of the airports in India, replied Minister of State in the Ministry of Civil Aviation General V K Singh (retd) to a question in Lok Sabha on Thursday."
-    publishedDateTime: 2021-12-02T20:50:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20211202/3865969.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 26
 
 secured: "Ec9fzFb1J/8zSBBXtbaYPfgAEY55/4H8jWhJ96Ke9KKbyuehswBzQI9zeZ2+XThzQOJkzUg8g+FWk9LuXeBQGYiKvShx1RJigEBLVqoCgPdpbd9hxuGy2sEcLryXdM7zSJBvAIPAxKb6VAku4mzUi17+wzp4F4ortwoyGTb7wBp+K73yqgCl3WE1hls2na10hWSbopvvWIC21+lQZ1xxURhtTR0Fxcpa16N/WnX8qzR4Sp57PaCDYYnLjnc2nS1aWcqx6rUg8txWSqPYJvtKbx5u/Hn1tpEyfoM25ZFMHh9pfHrBSuI1xH2lCzYABLOqMR19NDa00jiX3wPJ+DpRxYsIbdpINt1+qEHkvnnb4tg=;NIFzc6PjRre7uHZkuKCHcQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/govt-names-4-airports-where-it-pl
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/govt-names-4-airports-where-it-plans-to-launch-facial-recognitionbased-boarding-system-1638495000781"
 type: article
 quality: 66
-heat: 96
+heat: 76
 published: true
 
 provider:
@@ -43,31 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Professors working on self-driving car technology that uses facial recognition system"
-    excerpt: "Professor A.J. Alnaser is turning this tricked-out Ford Fusion by moving his head, no hands needed. It might be the future of self-driving technology."
-    publishedDateTime: 2021-12-02T19:04:00Z
-    webUrl: "https://www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system"
-    ampWebUrl: "https://www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system?_amp=true"
-    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/region-polk/lakeland/professors-working-on-self-driving-car-technology-that-uses-facial-recognition-system?_amp=true"
-    type: article
-    provider:
-      name: ABC Action News
-      domain: abcactionnews.com
-    quality: 54
-    images:
-      - url: "https://x-default-stgec.uplynk.com/ausw/slices/f9c/45bf940c346f431c9be273b8942ab6eb/f9c346911ec54171a39166a39d302dd0/poster_a84395db2a4e4150ab8f0cdfc18b9575.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Facial recognition technology at 4 airports to be introduced by March next year: Centre"
-    excerpt: "Facial Recognition Technology (FRT) has not yet been introduced at any of the airports in India, replied Minister of State in the Ministry of Civil Aviation General V K Singh (retd) to a question in Lok Sabha on Thursday."
-    publishedDateTime: 2021-12-02T20:50:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20211202/3865969.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 26
 
 secured: "YLK2EgfcG0N8PU8+nVd8G7JVjSLOK3XQlxCDa9kgatsbaX7KcvFjI7cQ8upnuT8HWtr7WLUDeMx9QME8ha1b/UIljV5X3YrImKvabwy532EJyQmN9K/ytwRyk8bmwLGnpJ9WGA+bccpU55jek/0jnKfgIlzNxYgcbJM0XdxJJhJSRkNsA8kBy7C94IwTq5relbeSMXF80fw0qnz80jbWrwDFKJZuPCHldlG/uxLitC3j/UhHurLHFRFlr7P9Cl/Dz1HNK+Iiq7hRnrbKf2IwIoMII5tCZ+EmfSiwUtNgIzWb99ONQVQejfa4bTZ50UMBDto8wxvA6pSXpTvmOWKro7mq1PQcXmWIAY0ZFLTVrLsn5+BfS5paWgAc/cBEpT4U8+ZgFD0Tj8i+xGsPVaAoRF9riz1tizLKY+a1Th0D2xowNQ4YppCQm3SGUifnljwxGxeaomc2e1rEEu0DsAv545N6p+qxlD3SfMFh98wSzc5AaZiQJNYXYeIr661iZ4Ytc7tXQCKjW/Tn6YO1Sk6ZfA==;B1qIr0AU08JHw4tLTURM+A=="
 ---

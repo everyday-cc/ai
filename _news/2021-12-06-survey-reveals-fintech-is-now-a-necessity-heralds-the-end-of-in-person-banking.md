@@ -24,6 +24,22 @@ images:
     height: 268
     isCached: true
 
+related:
+  - title: "The Country of IPOs – How #Fintech is Transforming India?"
+    excerpt: "Fintech revolution, and investors across the world seem to be vying to get hold of a piece of action. In the last decade, across the global financial industry, Fintech or Financial technology has taken centre stage."
+    publishedDateTime: 2021-12-06T12:42:00Z
+    webUrl: "https://www.linkedin.com/pulse/country-ipos-how-fintech-transforming-india-pathikrit-banerjee"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEbRPKrBmCQmg/article-cover_image-shrink_720_1280/0/1638792232670?e=1644451200&v=beta&t=CQQaLMCmoIeEBKcL2G20RUKhxBCUHM-kzr35GHq7Ldw"
+        width: 1080
+        height: 720
+        isCached: true
+
 secured: "tW2K0/xxrKybXugHi35AnV1sxV4gazSgBL+5CKCUxUusxiMs1du3t9E7VSWYZ9KT8Yj//RQVT7pKDpn6K0UDQfvyuIsu6jvTHxUaDhcLgVfbyLE7kLRXomkZex7i9rJJtSbl+0N3Cdnpjk32Imi02NPrQ6MoxphkSvwz7qguluh6BROSLg1BDUxpoNWY079EbK1tpdPDneX2eCJ7+HyYiBAYYdxmk44aYUW0/u5+WrE5DI5AWd2RLnEtUR6WWbTRxcWPJPE5X8KmGC95FQ3bVT00hO/vxpv2scfl/xdBwtE6upGVRvlFEdnldl0u8yWgKutY4JseYMj1DMsj8HFWt16VQVeGmOf74aYXi6gTdNaVEXSYrF0f1LqG2mcYszF/xR2kOuqWh1M2NYwF6ID60e3ZPcEUmOfqsSjyXViOIbfEiQgKztTEsjGHNgwbXRFtrc9QIxUUHm5F628qnLp6hibUUCB33FIlW6wN+VXsfPeI/c9MzIvPlcaGb4kaZJL0Wyi+XeZFBAuXyCLROFDlcA==;L3EoYx1g/7SjZOwx814Xeg=="
 ---
 

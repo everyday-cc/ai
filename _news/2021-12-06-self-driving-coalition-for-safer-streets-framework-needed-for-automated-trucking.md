@@ -57,20 +57,6 @@ related:
         width: 1075
         height: 624
         isCached: true
-  - title: "Fishers Is Next Proving Ground for Self-Driving Car Service"
-    excerpt: "After a trial run in Indianapolis this summer, a self-driving car service is coming to Fishers. The five-month pilot project begins December 20 and will continue into May. You’ll be able to use an"
-    publishedDateTime: 2021-12-02T20:27:00Z
-    webUrl: "https://www.wibc.com/news/local-indiana/fishers-is-next-proving-ground-for-self-driving-car-service/"
-    type: article
-    provider:
-      name: WIBC
-      domain: wibc.com
-    quality: 24
-    images:
-      - url: "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1317/2021/12/02152336/FISHERS_EB_12022021.jpg"
-        width: 4032
-        height: 3024
-        isCached: true
   - title: "Self-driving cars of the Bay Area"
     excerpt: "I just came back from a long-overdue trip to the Bay Area. It was great to catch up with old friends and make new ones."
     publishedDateTime: 2021-12-04T20:53:00Z

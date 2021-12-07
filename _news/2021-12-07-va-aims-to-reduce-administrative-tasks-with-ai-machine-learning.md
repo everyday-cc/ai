@@ -28,8 +28,8 @@ images:
 related:
   - title: "Taiwan Aims to be Global Leader in Artificial Intelligence with New AI HUB Initiative"
     excerpt: "The benefits of artificial intelligence (AI) technology have been validated in many domains, where AI has helped reduce costs,"
-    publishedDateTime: 2021-12-07T07:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/taiwan-aims-to-be-global-leader-in-artificial-intelligence-with-new-ai-hub-initiative-301438619.html"
+    publishedDateTime: 2021-12-07T12:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/taiwan-aims-to-be-global-leader-in-artificial-intelligence-with-new-ai-hub-initiative-888953629.html"
     type: article
     provider:
       name: PR Newswire

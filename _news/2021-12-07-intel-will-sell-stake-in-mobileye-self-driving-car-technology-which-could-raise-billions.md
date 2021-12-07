@@ -117,7 +117,30 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Chipzilla to make its self-driving car unit public"
+    excerpt: "Mobileeye plans IPO  Intel is planning to make its self-driving-car unit Mobileye a public company in the middle of next year -- an IPO could value the Israeli unit at more than $50 billion Chipzilla expects to retain Mobileye's executive team and hold on to a majority ownership in"
+    publishedDateTime: 2021-12-07T11:26:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/54007-chipzilla-to-make-its-self-driving-car-unit-public"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/1fe68e50434d250817039055a6f59a23_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "Intel to take its self-driving car subsidiary 'Mobileye' public next yr"
+    excerpt: "Chip maker Intel has announced its intention to take its self-driving car business Mobileye public in the US next year via an initial public offering (IPO). Intel will remain the majority owner of Mobileye,"
+    publishedDateTime: 2021-12-07T12:56:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20211207/3869159.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
-secured: "SemlPKEeihINW7aB7wiAZnMiHbvp8O0V2+5kpQpGdotFEMeqWdcS0wWxlUIbgQ3KsMnmivDhTLUMGd4v3YPyJFfwQbwaAVK8vbY5R4YLbN8uEIPjAYRfMq49O5xZruK41kd83YJXQAJ6RiHVbUk7PSWG21Rk9J7p1cHcIUPt712JKUmVSnWTeSAanPyauK5kVjxOwLQSCzJcuUIwv1HApeuHHqYyCGgC7IEwlxsyoz8emF/KUSyzc2ltefToGc8fk0hcESy9gBvHxnfSe911zoqjwlVAnAv+ivCNZIFAc46We7c0LWwml0V0wDhbuwe4BStYTiqhRSH0q3WNNFDAGOOo/NPgeHuElzRVb+qOR/E=;sSLzl/NRMiqNv0FUfAyuMg=="
+secured: "XUY6l86Ci7qD1eFfqpmBq8k3dNCyvPacumd0y2KsM1sl2WRPxLjVAkuAPR3Yp/NsDvikqFTuuoDwOdJ0piRdCfLYKJHnnoMzwg+MBSOu55ywg2x3Wl+KEeyyLtT72/RrBDgKcVMiL1sPSSS5iGnlcpk4DErfrYV1HbD5naGzrAqHipYGfayshs6o0U7vLTHdxbd9aqzXbsBhkSHrNP4Gg0uozKxBm86IT7uoTjrgWkPoVysX5IZDWfIiI6jfkBFysl/eSCEbEH52x7bqK2zfNs1ITJc1PapEGneW2NJWFJRIYA4jiSDnxEPuHxA0znsM1Dm7nQ7cKWhMKn2Neu5MKvqfKPsdhKUwrg4yY/SDx/gh0dvLliERvAXp5w8z+Vm4vGyn3LT3N8pQo+K+S9drHYYo7zzIIQYfq4DFY372F3DSB+lHEHeTnyP3yIc6QjWN/Zj6tTgNt/DcVMBvTKuv4wbTQDUnpLttdqTwILT2fxuNjGzJdaud4HkEnzjrqOW/2AXmDRwERa9Py4ztDRLghA==;3g9QFLujqtCF5shoRpn3JA=="
 ---
 

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "After being pushed out of Google, Timnit Gebru forms her own AI research institute: DAIR"
-    excerpt: "Timnit Gebru, one of the leaders of Google’s ethics in AI team and one of the foremost experts in that topic, was fired after sending an email of concern to her team. Now she has set up shop herself with a brand new research institute,"
-    publishedDateTime: 2021-12-02T19:17:00Z
-    webUrl: "https://www.dair-institute.org/press-release"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 160
-    images:
-      - url: "https://cdn.sanity.io/images/wc2kmxvk/production/8ba934ca12f0a32532ca9cca98d37500b7641e93-1440x695.png"
-        width: 1440
-        height: 695
-        isCached: true
   - title: "Google ethical AI co-lead Timnit Gebru launches own research project"
     excerpt: "Google scientist Dr Timnit Gebru's exit exposes rift in its ethical AI unit, head Jeff Dean faces criticism. Gebru was ousted from Google after a falling out with manag"
     publishedDateTime: 2021-12-03T10:54:00Z
@@ -64,20 +50,6 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2021/12/GettyImages-1028811892-scaled.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Can Timnit Gebru’s new lab challenge big tech’s control over AI research?"
-    excerpt: "Timnit Gebru, the renowned academic who was controversially fired by Google, has launched an independent AI research institute."
-    publishedDateTime: 2021-12-02T20:18:00Z
-    webUrl: "https://thenextweb.com/news/timnit-gebru-launches-dair-to-challenge-big-tech-control-ai-research"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 68
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-3-1.jpg&signature=196efe9508285abc0c8bab5b6653929b"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Former Google scientist Timnit Gebru has launched an AI research centre"
     excerpt: "Dr Timnit Gebru has launched DAIR one year after her departure from Google to continue her work in the area of ethical AI."

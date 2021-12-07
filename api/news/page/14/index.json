@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-11-24-securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health.md",
+      "title": "Securekloud hit the roof after US subsidiary bags document processing contract from Monument Health",
+      "excerpt": "Securekloud Technologies hit an upper circuit of 5% at Rs 136.15 after the companys step-down subsidiary Healthcare Triangle Inc., USA, was selected by Monument Health to automate document processing through readable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/capital-market-hot-pursuit/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400448_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/capital-market-hot-pursuit/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400448_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/capital-market-hot-pursuit/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400448_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-hot-pursuit/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400448_1.html",
+      "publishedDateTime": "2021-11-23T21:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-secureklouds-step-down-subsidiary-bags-document-processing-automation-contract-in-us.md",
       "title": "SecureKloud's step down subsidiary bags document processing automation contract in US",
       "excerpt": "Healthcare Triangle's deep expertise in Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) has helped Monument Health turn their clinical data from disparate sources into actionable insight.",
@@ -1075,49 +1118,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-iitsec-2021-asti-broadens-its-simulation-portfolio.md",
-      "title": "I/ITSEC 2021: ASTi broadens its simulation portfolio",
-      "excerpt": "Comms simulation specialists ASTi will be using I/ITSEC 21 to showcase a number of its products alongside integration with Microsoft's HoloLens ... provides an evolutionary leap in immersion, cognitive loading, and automated scoring for pilot trainees ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.shephardmedia.com/news/training-simulation/asti-broadens-its-simulation-portfolio/",
-      "originalUrl": "https://www.shephardmedia.com/news/training-simulation/asti-broadens-its-simulation-portfolio/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.shephardmedia.com/media/cache/images/images/article/solo-diagram_W9ITfhw/6c275fe20a6e9a359548e9cd9357486f.jpg",
-          "width": 800,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Shephard Media",
-        "domain": "shephardmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "US rejects calls for regulating or banning ‘killer robots’"
-    excerpt: "US official proposes ‘non-binding code of conduct’ at United Nations but campaigners disagree"
-    publishedDateTime: 2021-12-02T20:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 142
-    images:
-      - url: "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_70_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0fe3dc3678121882d7e62f5530c8dae3"
-        width: 620
-        height: 372
-        isCached: true
   - title: "New ‘Slaughterbots’ Video Warns Of Need For Legal Controls On Killer Robots"
     excerpt: "A new video highlights the risks posed by autonomous weapons or ‘killer robots’ – and the steps needed prevent them from being used. It even has Elon Musk scared."
     publishedDateTime: 2021-12-03T12:53:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa2123f4a72238ce6b5bcc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D768%26cropY1%3D3%26cropY2%3D435"
         width: 768
         height: 432
-        isCached: true
-  - title: "Killer Robots: Negotiate New Law to Protect Humanity"
-    excerpt: "and Turkey are investing heavily in the military applications of artificial intelligence and related technologies to develop air, land, and sea-based autonomous weapons systems. “An independent process to negotiate new law on killer robots would be more ..."
-    publishedDateTime: 2021-12-05T19:37:00Z
-    webUrl: "https://www.pressenza.com/2021/12/killer-robots-negotiate-new-law-to-protect-humanity/"
-    type: article
-    provider:
-      name: PRESSENZA
-      domain: pressenza.com
-    quality: 39
-    images:
-      - url: "https://cdn77.pressenza.com/wp-content/uploads/2019/03/killer-robots-campaign.jpg"
-        width: 678
-        height: 419
         isCached: true
 
 secured: "bR8EEMsNMlxLdq9Yn1m1E3rgwGZNI9T985Y4PGwm5NlbYpGSYJ3uqO/u5x34dWD9YC+NgBp/WbHTCl072+OIsIXBnOjF/1qYalF8B3cIPKTSyuKc5YZkw5J8xXDYxB/TOpPtgcwFRA7yZZer4MwsOsNERM+nzGIkLNbZuWXoXDNFv5NN0NvqFiDaviUcGIzgqbVo6MktdIbqoYvIaYeFYMEkWoY/HxQ0pgQ895bByIygiU7Ze/SpjdQAhkojPNgOOwh7QoNHBTdDfqJ9uK0MeiUaB1miONv0ec6u09szJ6mtwvmEUu23Pun1SgPfe4fRAFvdL9TfH4j6JTDfB2Gpu5sF1K8OsBUGaEOEy9SMi07Cxoady9GzJkLQ6lNXRMa1vNldCT5slnaNRiiVVD5yjMP/gM2WuH5PA0xvHZOPJURD+9YfY9mKMIkLkmF1NNozAmf/RyRHdMiy5ZpLgUM+/c22ddCXrKeyPJVirDjRQYVeo3WAPsfq5Qc7BZDrdgbCG6AF0nWi78nUJDlpMdzk0g==;3TeLrhjyz4XpFmUXZL9Fig=="
