@@ -7,7 +7,7 @@ originalUrl: "https://eandt.theiet.org/content/articles/2021/12/could-we-fall-in
 webUrl: "https://eandt.theiet.org/content/articles/2021/12/could-we-fall-in-love-with-robots/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 450
     isCached: true
+
+related:
+  - title: "How to Improve Robots' Social Skills for Interaction"
+    excerpt: "Researchers at MIT have created a simulated environment using computer modeling that can teach robots to better interact with each other and ultimately humans."
+    publishedDateTime: 2021-12-04T02:15:00Z
+    webUrl: "https://www.mddionline.com/robotics/how-improve-robots-social-skills-interaction"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 39
+    images:
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/robotssocial.jpg"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "POg2z2EliY1fHfl45/k1feC1JobmpkRk+mNGdXxeHz3k36EgFHhDvx2xiXR9txHX1wpGC7vmiRJODBE9CXUkPLKQf4jsD972vaV/di6Y1aUohmHUFA/fSm8+/X6am3qbzlhbkcHK4Qo3tjlMkEmXb6chzZwUdz6j5hnIdRBNBFrVnFM5MiyreUyNTPiPgS04SUlEWVDAA2GfWxwDr6vvZcJTrNDHlEMdRSRAh4lWdTHqQ4gtMyQdlGtXsxwqNeitcM7dfDQmkHHz+2OeRcy9nOIMBpwM5lmleoSLz+427CZWAXMMYDyd2V1GyFkiIFhLXScMC8bmFK+KV+vHywWdho9ps6m1/wxdbCKD8nrjS6M=;/truqJGhWFv3fidvaJo8ug=="
 ---

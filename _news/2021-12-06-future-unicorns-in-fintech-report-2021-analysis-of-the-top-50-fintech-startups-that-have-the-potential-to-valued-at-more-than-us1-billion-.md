@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Fintech 2050: AI-Powered Finance Assistants"
-    excerpt: "Discover a possible future in which AI-powered assistants control all aspects of people's financial lives using ultra-personalisation and hyper-automation"
-    publishedDateTime: 2021-12-07T09:00:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/future-fintech-2050-ai-powered-finance-assistants"
+  - title: "4 Top Fintech Stocks To Watch In December 2021"
+    excerpt: "Are These The Best Fintech Stocks To Buy Right Now? Fintech stocks have been one of the most lucrative sectors in the stock market this year. This should not come as a surprise as the sector continues to benefit from the shift to digital payments,"
+    publishedDateTime: 2021-12-05T15:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021?amp"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/ai-powered-finance-assistants.jpg.png?itok=T_w9zlmv"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Survey Reveals FinTech is Now a Necessity, Heralds the End of In-Person Banking"
     excerpt: "Blumberg Capital, a leading early-stage venture capital firm, today announced the results of its fourth annual survey of consumer behavior and attitudes on financial technology, known as fintech. The study,"
     publishedDateTime: 2021-12-06T14:04:00Z
@@ -52,6 +49,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1336014/Blumberg_Capital_Logo.jpg"
         width: 400
         height: 268
+        isCached: true
+  - title: "6 Best Identity Theft Protection Services of December 2021"
+    excerpt: "Identity theft protection services can provide the help you need if your data has been compromised. These services monitor your personal information, credit files and the web, alerting you to any suspicious or fraudulent activity."
+    publishedDateTime: 2021-12-03T18:06:00Z
+    webUrl: "https://www.stltoday.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-december-2021/article_c33bf5be-4b4d-56c5-bf23-60f82c8a64f4.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/38/d3804c59-fba1-5804-9dd1-6d5acacfb720/61aa718ba7be7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Numerated Acquires Fintech to Improve Underwriting Process"
     excerpt: "Boston-based Numerated, a financial technology company that provides a business loan origination platform for banks and credit unions, has acquired another local fintech that the company said would help reduce work for lenders using the platform."
@@ -67,6 +78,15 @@ related:
         width: 1375
         height: 917
         isCached: true
+  - title: "Adam Martel to launch new AI fintech startup following Gravyty's merger deal"
+    excerpt: "Adam Martel, best known as CEO and co-founder of Boston-based Gravyty, has left the AI fundraising company and is working on a new venture."
+    publishedDateTime: 2021-12-07T19:24:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2021/12/07/adam-martel-to-launch-new-startup.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
 
 secured: "VWPYlr6Kic8lWe9gkt0gE3BFF5VXOgK3/Un/9a8hebiErMU9AR4kZJoLYwaA9VcwaSCTdMZVX2abZfLVnLcx49nFHWYysUj3ya/Cx7XezxX7Mc7H1NUcsKdx/rv1Lr9HIebLaVYZ9Ch99EAUKPLQ71HDFvMd8DPs+eIw9e7apHYoJrHNO7ysszCfJD29AvJpGD0ClX2ZFL9GgZu/BBoGRULHofMb0VxEHKd0oHdOCyyIWfCDmaAkEA/X+8yYxJQ55fGdIZxdktrqIyQoZtr1N07q5sYkZ9HyLcbzW69CdWmwjsO9ZmIrJsfhiK2IvgSQG0KQL7ax7/odEEsHBIcDpc75fXCnO52/XIVBO5PkKms=;QbkxKNkco8a5zpjAPjocNA=="
 ---

@@ -27,37 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology could change the face of Indian airports"
-    excerpt: "With the Airports Authority of India (AAI) working on a facial recognition technology-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports, including Varanasi,"
-    publishedDateTime: 2021-12-03T15:08:00Z
-    webUrl: "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html"
-    ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html"
+  - title: "The Top 6 Artificial Intelligence Plays in India"
+    excerpt: "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible."
+    publishedDateTime: 2021-12-06T22:39:00Z
+    webUrl: "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6"
+    ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
+    cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
     type: article
     provider:
-      name: The Week
-      domain: theweek.in
-    quality: 74
+      name: Equitymaster
+      domain: equitymaster.com
+    quality: 61
     images:
-      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2019/1/3/face-facial-recognition-software-system-computer-shut.jpg"
-        width: 760
-        height: 443
+      - url: "https://www.eqimg.com/images/2021/09292021-PH-equitymaster.jpg"
+        width: 350
+        height: 215
         isCached: true
-  - title: "NEC: Facial recognition can check for vaccination"
-    excerpt: "The CEO of Japanese electronics maker NEC says its facial-recognition technology could help fight the spread of coronavirus infections by being used to verify people's vaccination status."
-    publishedDateTime: 2021-12-08T03:53:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20211208_18/amp.html"
+  - title: "Machine learning becomes most acquired skill in India on Coursera in 2021"
+    excerpt: "According to the Annual Employability Survey by Aspiring Minds, 2.5% of Indian engineers possess technical skills in artificial intelligence (AI) that the industry requires"
+    publishedDateTime: 2021-12-06T09:48:00Z
+    webUrl: "https://www.livemint.com/education/news/machine-learning-becomes-most-acquired-skill-in-india-on-coursera-in-2021-11638783681363.html"
+    ampWebUrl: "https://www.livemint.com/education/news/machine-learning-becomes-most-acquired-skill-in-india-on-coursera-in-2021/amp-11638783681363.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/machine-learning-becomes-most-acquired-skill-in-india-on-coursera-in-2021/amp-11638783681363.html"
     type: article
     provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 59
+      name: Mint
+      domain: livemint.com
+    quality: 58
     images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20211208_18_1055617_L.jpg"
-        width: 640
-        height: 360
+      - url: "https://images.livemint.com/img/2021/12/06/600x338/it3-kqRE--621x414@LiveMint_1638783930875.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "The Hindu Explains | Facial recognition tech in Indian airports"
     excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
@@ -72,6 +72,78 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
         width: 615
         height: 384
+        isCached: true
+  - title: "3 Impacts of AI in the Machine Translation Industry"
+    excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
+    publishedDateTime: 2021-12-07T22:13:00Z
+    webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Explained | Facial recognition tech in Indian airports"
+    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
+    publishedDateTime: 2021-12-08T08:06:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 54
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Deloitte’s AI Institute to help accelerate the pace of innovative research in India"
+    excerpt: "In an effort to bridge this gap, ‘Deloitte AI Institute India’ launched today will build an ecosystem in the country by integrating AI innovations.."
+    publishedDateTime: 2021-12-06T08:26:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 51
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88120313,imgsize-334006,width-1200,height-628,overlay-etcio/deloitte-s-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Machine Learning Is The Most Acquired Skill In India"
+    excerpt: "Data, Data, Everywhere are the top two popular courses to upskill in the demanding ecosystem The Future of Jobs 2020 report by the World Economic Forum states that AI and Machine Learning Specialists,"
+    publishedDateTime: 2021-12-06T13:44:00Z
+    webUrl: "https://analyticsindiamag.com/machine-learning-is-the-most-acquired-skill-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/default.jpg"
+        width: 851
+        height: 315
+        isCached: true
+  - title: "NVIDIA Introduces Platform to Create AI Avatars"
+    excerpt: "NVIDIA is introducing a platform for generating interactive artificial intelligence (AI) avatars. See more here:"
+    publishedDateTime: 2021-12-06T05:18:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/nvidia-platform-ai-avatars/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 37
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
+        width: 1024
+        height: 389
         isCached: true
 
 secured: "/Z4CpuvkT/2iktpNGjPZ5NV6r5iu1oVSF27NN0nuGDs5uTCLg5+h+dPs+tN3bMewRy+876eFG9YnJS+jE1GTfDsgt3cz7an6f0dZ7cW5VuQaBWrpJCWe7fcLBtNwLrdZNZG4NszKMsRF9Qu7n2tyVP0Pr2gnJIVPCHzzq83ZJeDkuOaH0hntDi3HswG+6YWSkmLagfFZPD9tINpacjZlj5r5EinHyhE0CyiC0xFGmJzbymlkjopLooeIeIsrWJm9Oz+c6Jh0obZokY9Kl3rGaGnf9I1Ib59HzZtHorAgtAFW9gr1tpdmRV6KG6uDwxaKY/oe/0vQR2d9roeIA6dMp4XfdHY6agUMV/ko8sZzisZUjG/UMkrdkqSPN51pqjJgVP2KxBVHXS4KGu4/8f31LcRKQG0zZJ1NEFcrLT/BylxP+o4F1bmKkipKgBYdcmS46vfQqcfigt6mGLxnbjtgeC0ITvqKDfu+298QUDUncRvSo6PuLh8q1tM3PqKzRHkymrpuWmHZNoz3nC0+Fu1Qlg==;FtgjkRdPcfF4kl7saTIgXA=="

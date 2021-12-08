@@ -57,19 +57,47 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "3 Impacts of AI in the Machine Translation Industry"
-    excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
-    publishedDateTime: 2021-12-07T23:03:00Z
-    webUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+  - title: "The Hindu Explains | Facial recognition tech in Indian airports"
+    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
+    publishedDateTime: 2021-12-07T14:08:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
     type: article
     provider:
-      name: Times Union
-      domain: timesunion.com
+      name: The Hindu
+      domain: thehindu.com
+    quality: 54
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "3 Impacts of AI in the Machine Translation Industry"
+    excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
+    publishedDateTime: 2021-12-07T22:13:00Z
+    webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
     quality: 54
     images:
       - url: "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Explained | Facial recognition tech in Indian airports"
+    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
+    publishedDateTime: 2021-12-08T08:06:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 54
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
+        width: 615
+        height: 384
         isCached: true
   - title: "Deloitte’s AI Institute to help accelerate the pace of innovative research in India"
     excerpt: "In an effort to bridge this gap, ‘Deloitte AI Institute India’ launched today will build an ecosystem in the country by integrating AI innovations.."
@@ -86,6 +114,22 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-88120313,imgsize-334006,width-1200,height-628,overlay-etcio/deloitte-s-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "'The combination of 5G and AI will unlock new possibilities for drone technology’: Qualcomm India"
+    excerpt: "According to PWC India, the industry is expected to reach $1,810 million by FY 2026.Delivery by drone could well become the preferred mode for delivering many kinds of products"
+    publishedDateTime: 2021-12-06T10:13:00Z
+    webUrl: "https://www.livemint.com/technology/the-combination-of-5g-and-ai-will-unlock-new-possibilities-for-drone-technology-qualcomm-india-11638785027141.html"
+    ampWebUrl: "https://www.livemint.com/technology/the-combination-of-5g-and-ai-will-unlock-new-possibilities-for-drone-technology-qualcomm-india/amp-11638785027141.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/the-combination-of-5g-and-ai-will-unlock-new-possibilities-for-drone-technology-qualcomm-india/amp-11638785027141.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 46
+    images:
+      - url: "https://images.livemint.com/img/2021/12/06/600x338/qc_onq_flightrb5platform_header_1638785324359_1638785336017.png"
+        width: 600
+        height: 338
         isCached: true
   - title: "NVIDIA Introduces Platform to Create AI Avatars"
     excerpt: "NVIDIA is introducing a platform for generating interactive artificial intelligence (AI) avatars. See more here:"

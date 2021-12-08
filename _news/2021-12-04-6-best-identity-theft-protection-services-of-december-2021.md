@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "2 Small-Cap Chip Stocks to Buy in December"
-    excerpt: "Rising investments to address the global semiconductor chip shortage by scaling up production, and increasing demand for chips from several industries, should propel the semiconductor industry's growth."
-    publishedDateTime: 2021-12-03T16:04:00Z
-    webUrl: "https://www.entrepreneur.com/article/400662"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-400662.jpeg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "4 Top Fintech Stocks To Watch In December 2021"
     excerpt: "Are These The Best Fintech Stocks To Buy Right Now? Fintech stocks have been one of the most lucrative sectors in the stock market this year. This should not come as a surprise as the sector continues to benefit from the shift to digital payments,"
     publishedDateTime: 2021-12-05T15:30:00Z
@@ -50,29 +36,57 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "VOICE 2021 Brings Leading Artificial Intelligence Brands to Arlington National Landing, December 7-8"
-    excerpt: "VOICE 2021, the industry's leading voice, AI, and ambient computing ecosystems event opens today in Arlington, VA. The summit is being relocated to National Landing from New Jersey, where it attracted 7,"
-    publishedDateTime: 2021-12-07T13:32:00Z
-    webUrl: "https://www.lelezard.com/en/news-20143648.html"
+  - title: "Survey Reveals FinTech is Now a Necessity, Heralds the End of In-Person Banking"
+    excerpt: "Blumberg Capital, a leading early-stage venture capital firm, today announced the results of its fourth annual survey of consumer behavior and attitudes on financial technology, known as fintech. The study,"
+    publishedDateTime: 2021-12-06T14:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-survey-reveals-fintech-now-necessity-heralds-end-in-/2021/12/06/9505195.htm"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/1336014/Blumberg_Capital_Logo.jpg"
+        width: 400
+        height: 268
+        isCached: true
+  - title: "Numerated Acquires Fintech to Improve Underwriting Process"
+    excerpt: "Boston-based Numerated, a financial technology company that provides a business loan origination platform for banks and credit unions, has acquired another local fintech that the company said would help reduce work for lenders using the platform."
+    publishedDateTime: 2021-12-07T16:23:00Z
+    webUrl: "https://www.bankerandtradesman.com/numerated-acquires-fintech-to-improve-underwriting-process/"
+    type: article
+    provider:
+      name: Banker & Tradesman
+      domain: bankerandtradesman.com
     quality: 24
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.bankerandtradesman.com/wp-content/uploads/2021/12/Robotic-Hand-Giving-Check-EDIT.jpg"
+        width: 1375
+        height: 917
         isCached: true
-  - title: "Stocks to Buy Now"
-    excerpt: "The best stocks are always in demand. Whether the market is down, up, or sideways, these stocks always fit into your portfolio."
-    publishedDateTime: 2021-12-03T21:45:00Z
-    webUrl: "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=liverstick%40gmail.com&moneymorning_subscribe=complete"
+  - title: "Adam Martel to launch new AI fintech startup following Gravyty's merger deal"
+    excerpt: "Adam Martel, best known as CEO and co-founder of Boston-based Gravyty, has left the AI fundraising company and is working on a new venture."
+    publishedDateTime: 2021-12-07T19:24:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2021/12/07/adam-martel-to-launch-new-startup.html"
     type: article
     provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 4
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
+  - title: "Future Unicorns in Fintech Report 2021: Analysis of the Top 50 Fintech Startups that have the Potential to Valued at More than US$1 Billion - Research"
+    excerpt: "The \"Future Unicorns in Fintech\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the top 50 Fintech startups that have the potential to become unicorns (valuation more than US$1bn) based on the Unicorn Prediction Model."
+    publishedDateTime: 2021-12-06T15:26:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=582874"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "Rc5Qhp0hnlBUAAJ7027dNQEcuDkrhClCWb9YkYc2PPQtIAI8Ul8MxJWxoWdxe3xKjjFu0APYcWIEqwqVsKTjK2rL6yGOJQEf0agMfufimzqA8pqbibEAPqOkicIprGYcESfepGtoI96+qK5unSpORP5NH/OMMyA+O9o+drkQw8qzpBO5FcBGqyDF0sttuY6ncj8T3wgUknV2ntJ4HFSSpYe4v5Sf1f3aDTAPy2+FRX27il5NF2pSnHiRSGNrby+hGItXNGgWq0W9wA+LBOEo/AN1VU0s8TQ3OaLbUsnICh6VouA2pYl7GVHc48QNfBDOnVG/NDjF8JCOiHHYWVNLHlGRHjWIH+kricd851WMBGG/AJB8KeVn1/M5n7C0ozmaXI+cU4gxV/8C1GaeGA4QN4EbYfVzAQEyYaotmBtDSFoBCE+Wwy0BUgt9K2wroGDyDx3zrmle9pxzirYGSMGi9csEo6y3wCZy4pTq1QJMT+gURH06kBk+BGLSgJ0IkRX/dt/X26wMvjpeAMJ/sTQ5ug==;4Gue2P0jYYNvEpgv/zKWYA=="
 ---

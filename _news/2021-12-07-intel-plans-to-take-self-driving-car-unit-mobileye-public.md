@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intel plans to take self-driving car unit Mobileye public"
-excerpt: "The Mobileye logo is seen during the Munich Auto Show, IAA Mobility 2021, in Munich, Germany, September 7, 2021. REUTERS/Wolfgang Rattay"
-publishedDateTime: 2021-12-07T07:37:00Z
-originalUrl: "https://www.reuters.com/news/picture/intel-plans-to-take-self-driving-car-uni-idUSKBN2IM010"
-webUrl: "https://www.reuters.com/news/picture/intel-plans-to-take-self-driving-car-uni-idUSKBN2IM010"
+excerpt: "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters."
+publishedDateTime: 2021-12-07T02:46:00Z
+originalUrl: "https://www.reuters.com/markets/us/intel-list-shares-self-driving-car-unit-mobileye-wsj-2021-12-07/"
+webUrl: "https://www.reuters.com/markets/us/intel-list-shares-self-driving-car-unit-mobileye-wsj-2021-12-07/"
 type: article
 quality: 54
 heat: -1
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20211207&t=2&i=1583830999&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEHB600M"
-    width: 810
-    height: 540
+  - url: "https://www.reuters.com/resizer/HxLWCUwhHMM4SwuGFJT2uw2TtvQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJJS5JKBAFOZFNPFKBVNCGTJ5Y.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -230,6 +230,6 @@ related:
       domain: cfo.com
     quality: 4
 
-secured: "1/PAs/KDY5q0dwxr4F0m3KCOwEUfItk8YbcTUHKKdVcP9RX9NwdVotY9q9CxppwyUCZxxWZbjF81FaHfoxgDCwdEREjeaQuOxtdDSaXRsnEPOjjEUeujYaCqGQRxRk9aiRTKfBWjX+cCK28FVssOz8fuSHQmWWEctwxoI3eorGAeuDBLspQyW64mFVxTbOK7JDizwAOKv+UlSEvQdwRfDKq5Yhs4zsS3lJj66an5+vriif+TcPxokBtQJRJ8XFmaMLSA5jIQR2dUdGXxg96E2UC+lbEBCfv/eNd2O6L09iHTcKmZbQClolQtVVRJiqtGcauh+duQaE0BciKRWmueCHolyCAdLpkPqa2+l6oGcZU7oi5E6WwNILb1RWiJ+I0Pb420dO1QkEspIxsxyC2cfXoQpefkpxBY+SYuEtVSjKyWd30FlLNToS+M9rwgd7ygb2T2JEDHctv4oqdqyZnAUw4/9nBic2DiAPfnua9EVY2DMt1J2AxdDftk5jkpeHZz21mlu73fSuAFMMj6grV+bQ==;n+DBivlXQCbiGN76ij1VJQ=="
+secured: "SEXvsYd5N656mutcvROcABSilUer2QMHU5VF7a4Hm6ZQ70f5to1wfngrYE7pvsP7ZR8vYrseWJxkpephb7urRfBEO9ZqLQEg+ovq8fW/ir7WI6unrPN8YM1/kxbOSqnfhARDERmhMRpbNrLhXdbD/lOsYaJ9ELzlC5tty5QZ2evNPoTC3JId55RvrT9Vt7F+gokPUZhxDowcuaRe6aL4YSsIprIQbTb2WO32g0VG0QNsuc/3VKJatbUIkm3n5SKhin35g2cFcCbXRxhdayNZGBDgpXG2q+My51zUJQ9W9Kh5r7oyHTdwA0Gk7tVJYPkdNk3WqtVIROo9228S670EZlYXhi3BhoC7NOnQtP8gXb0=;glKsTDH+Boj/nspfVe24BQ=="
 ---
 

@@ -89,6 +89,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Clearview AI To Get Facial Recognition Patent; Should We Be Scared?"
+    excerpt: "Clearview AI, the firm that created the controversial facial recognition and scrapes social media platforms to add pictures of people on its database, is about to be awarded a patent for its technology."
+    publishedDateTime: 2021-12-08T07:15:00Z
+    webUrl: "https://www.gizbot.com/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html"
+    type: article
+    provider:
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 74
+    images:
+      - url: "https://www.gizbot.com/img/2021/12/4-1638947408.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Clearview AI Is Enroute to Win an US Patent for Facial Recognition Technology"
     excerpt: "If you haven't heard of Clearview AI then you should, as the company's facial recognition technology has likely already spotted you. Clearview’s software goes through public images from social media to help law enforcement identify wanted individuals by matching their public images with those found in government databases or surveillance footage."
     publishedDateTime: 2021-12-05T15:20:00Z
@@ -104,22 +120,6 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/img/iea/jvwvVn2Xwx/sizes/facial-recognition-technology-reveals-information-about-diverse-picture-id1199708194_resize_md.jpg"
         width: 744
         height: 419
-        isCached: true
-  - title: "Clearview AI Facing £17 Million Fine From UK ICO Over Violation of Data Protection Laws"
-    excerpt: "Clearview AI faces fresh legal trouble in the UK, where it may soon be fined for violation of the country's data protection laws and forced to delete any biometric data it has collected."
-    publishedDateTime: 2021-12-03T16:00:00Z
-    webUrl: "https://www.cpomagazine.com/data-privacy/clearview-ai-facing-17-million-fine-from-uk-ico-over-violation-of-data-protection-laws/"
-    ampWebUrl: "https://www.cpomagazine.com/data-privacy/clearview-ai-facing-17-million-fine-from-uk-ico-over-violation-of-data-protection-laws/amp/"
-    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/clearview-ai-facing-17-million-fine-from-uk-ico-over-violation-of-data-protection-laws/amp/"
-    type: article
-    provider:
-      name: CPO Magazine
-      domain: cpomagazine.com
-    quality: 49
-    images:
-      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/12/clearview-ai-facing-17-million-fine-from-uk-ico-over-violation-of-data-protection-laws_1500.jpg"
-        width: 1500
-        height: 860
         isCached: true
   - title: "Neurotechnology Brings Facial Recognition Solution to Web Apps"
     excerpt: "Neurotechnology has announced a much-improved version of its Face Verification solution featuring enhanced algorithms and support"

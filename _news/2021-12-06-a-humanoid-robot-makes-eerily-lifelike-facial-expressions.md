@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Humanoid Robot 'Ameca' Shows Most Accurate Facial Expressions In New Video; WATCH"
-    excerpt: "The UK’s Cornwall-based firm Engineered Arts has unveiled a humanoid robot Ameca that can display human-like expressions with the most accuracy."
-    publishedDateTime: 2021-12-03T15:59:00Z
-    webUrl: "https://www.youtube.com/watch?v=IPukuYb9xWw"
+  - title: "This robot's facial expressions are so lifelike it will make you cringe a little"
+    excerpt: "United Kingdom startup Engineered Arts (EA; not to be confused with Electronic Arts) has been manufacturing humanoid robots since 2005, but its creations have come a"
+    publishedDateTime: 2021-12-07T00:08:00Z
+    webUrl: "https://www.techspot.com/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html"
     type: article
     provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 134
+      name: TechSpot
+      domain: techspot.com
+    quality: 84
     images:
-      - url: "https://i.ytimg.com/vi/IPukuYb9xWw/maxresdefault.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ameca is a robot whose facial expressions are uncannily realistic (VIDEO)"
-    excerpt: "Engineered Arts, a robotics design company, has released a video of its latest robot, Ameca. And the least we can say about Ameca is that it looks very much like a real human. The English company intends to make it a platform for AI development."
-    publishedDateTime: 2021-12-07T00:00:00Z
-    webUrl: "https://www.malaymail.com/news/tech-gadgets/2021/12/07/ameca-is-a-robot-whose-facial-expressions-are-uncannily-realistic-video/2026534"
-    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2021/12/07/ameca-is-a-robot-whose-facial-expressions-are-uncannily-realistic-video/2026534"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2021/12/07/ameca-is-a-robot-whose-facial-expressions-are-uncannily-realistic-video/2026534"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 58
-    images:
-      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-12/20211207_Robot_Realistic_Facial_01-seo.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Meet Ameca, the Humanoid Robot With Eerily Realistic Facial Expressions"
-    excerpt: "Okay, we know that most humanoid robots are designed to mimic human motion and interaction. But Ameca, the new machine developed by robotics company Engineered Arts, takes that to a new level. It can move and put on facial expressions that look incredibly natural and real – too real."
-    publishedDateTime: 2021-12-03T20:26:00Z
-    webUrl: "https://www.autoevolution.com/news/meet-ameca-the-humanoid-robot-with-eerily-realistic-facial-expressions-175714.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 39
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/meet-ameca-the-humanoid-robot-with-eerily-realistic-facial-expressions-175714_1.jpg"
-        width: 1269
-        height: 580
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2021/12/2021-12-06-ts3_thumbs-c17.jpg"
+        width: 800
+        height: 560
         isCached: true
   - title: "Robots Make Eerily Lifelike Facial Expressions"
     excerpt: "In a video posted on YouTube last month, a UK-based designer and manufacturer of humanoid robots, Engineered Arts, unveiled one of its most lifelike creations. The robot, known as Ameca, is shown performing a series of extremely humanlike facial expressions in the video."

@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Leveraging machine learning to rapidly discover novel beneficial microbes"
-excerpt: "Bacteria, fungi, and other microbes assist the growth, development, and protection of plants in a plethora of ways researchers are only beginning to understand. One of the better known microbe protection mechanisms is through microbe-microbe antagonism."
-publishedDateTime: 2021-12-07T21:40:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/937183"
-webUrl: "https://www.eurekalert.org/news-releases/937183"
+excerpt: "When you think about agriculture, what comes to mind? Tractors? Fields of corn? Big red barns? Often we don't think of computers. But computers and technology are playing a huge role in making our food system more sustainable and reliable."
+publishedDateTime: 2021-12-08T08:45:00Z
+originalUrl: "https://phys.org/news/2021-12-leveraging-machine-rapidly-beneficial-microbes.html"
+webUrl: "https://phys.org/news/2021-12-leveraging-machine-rapidly-beneficial-microbes.html"
+ampWebUrl: "https://phys.org/news/2021-12-leveraging-machine-rapidly-beneficial-microbes.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-leveraging-machine-rapidly-beneficial-microbes.amp"
 type: article
-quality: 38
-heat: 38
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/5f0ac6d8-282d-4f16-b03d-588dfaaf3495/Rendition/low-res/Content/Public"
-    width: 700
-    height: 453
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/leveraging-machine-lea.jpg"
+    width: 624
+    height: 404
     isCached: true
 
-secured: "hFnOBIlS0K7p9WmbELzj3RZ6lSwfmNzeCf7dT9CIhyeFTEmifhriaHFdqffzaXhpqrSV1Ha5t/v9X7qnG5teINJBy84vJ2hhjiEtcpXUbYiQgntutaLtS1ISElQDL6SS1pDYNJHgYSuH9iy1EB//2mfDRaGkPH4qWdg6+GjGIghcSZ0neV3kR7bSLtP8rI4E/O4QaUW7Lf3jCeqrWhzCJ9fD7gz3SNLtV/gP+X89aV+W588/HUlUycBfaf9Nd5TlSjPT/GwG0hptbJqY2HWxSXPVB3saU37SlbUpLOrCpZgRPjRE10irUP0+RNalh60Co9AUZV8XlibwTICMy4pGmFtHzZ7B1lunQ2BZxhmritBdZhoFHAPP5XD3lEzVXgGjlTRFuCY0xjBuF+gfh5S7if4IpIYQppdbSsb5CnTgb01gqa5eXaTCEWdcE+mrXXztxadv+XXS7KwePqD65xBsf0dzsUDu57UX9+I20aalyF5oim7vM0N/PEbt6fDHeLYaUXg66/9weJCjfrbyBU9bQQ==;KXsuPB3WHS6cYGlaQuxCjw=="
+secured: "urwsbvIqtCR6hmYLDHRraJelkCBV3AZFboeMQGJXJ4R7OY/LX0oR/ix3leNuapDN/EauzevIqL86xfb1dOnEohz/VFbgVM1BuULpGhkeJMROAW7c6iBAJXt4lBEbEpH3rfr961sPdI/2rLzUb2ic7RP1fJZ0QCOhL1bV9is1QDkYnD/kKoHQ178x17j6hFmHDqm2MsuDPxc2VBeia8gdfWGgL9eaDPh8h77YejPoIQhxrPlKWPRY27bOpvBfY0ljZ/gaDUPM7FH2wmrAOVTjZ0/FYf8QPY5lGcuAcQGuVYriwxc9X+gAZqEpI7CfY2nwHvCU3yi4Um+jXuaaHdiYdXDqKbNw02+sIUMB0R3u3Lk=;+nuUk9Q4Plr1BAhk3YQBPA=="
 ---
 

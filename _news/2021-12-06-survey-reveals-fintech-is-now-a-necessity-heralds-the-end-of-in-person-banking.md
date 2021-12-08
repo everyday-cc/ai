@@ -25,17 +25,28 @@ images:
     isCached: true
 
 related:
-  - title: "The Future of Fintech 2050: AI-Powered Finance Assistants"
-    excerpt: "Discover a possible future in which AI-powered assistants control all aspects of people's financial lives using ultra-personalisation and hyper-automation"
-    publishedDateTime: 2021-12-07T09:00:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/future-fintech-2050-ai-powered-finance-assistants"
+  - title: "4 Top Fintech Stocks To Watch In December 2021"
+    excerpt: "Are These The Best Fintech Stocks To Buy Right Now? Fintech stocks have been one of the most lucrative sectors in the stock market this year. This should not come as a surprise as the sector continues to benefit from the shift to digital payments,"
+    publishedDateTime: 2021-12-05T15:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021?amp"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
+  - title: "6 Best Identity Theft Protection Services of December 2021"
+    excerpt: "Identity theft protection services can provide the help you need if your data has been compromised. These services monitor your personal information, credit files and the web, alerting you to any suspicious or fraudulent activity."
+    publishedDateTime: 2021-12-03T18:06:00Z
+    webUrl: "https://www.stltoday.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-december-2021/article_c33bf5be-4b4d-56c5-bf23-60f82c8a64f4.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 24
     images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/ai-powered-finance-assistants.jpg.png?itok=T_w9zlmv"
+      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/38/d3804c59-fba1-5804-9dd1-6d5acacfb720/61aa718ba7be7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true
@@ -53,6 +64,15 @@ related:
         width: 1375
         height: 917
         isCached: true
+  - title: "Adam Martel to launch new AI fintech startup following Gravyty's merger deal"
+    excerpt: "Adam Martel, best known as CEO and co-founder of Boston-based Gravyty, has left the AI fundraising company and is working on a new venture."
+    publishedDateTime: 2021-12-07T19:24:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2021/12/07/adam-martel-to-launch-new-startup.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
   - title: "Future Unicorns in Fintech Report 2021: Analysis of the Top 50 Fintech Startups that have the Potential to Valued at More than US$1 Billion - Research"
     excerpt: "The \"Future Unicorns in Fintech\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the top 50 Fintech startups that have the potential to become unicorns (valuation more than US$1bn) based on the Unicorn Prediction Model."
     publishedDateTime: 2021-12-06T15:26:00Z

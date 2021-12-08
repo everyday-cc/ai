@@ -7,8 +7,8 @@ originalUrl: "https://fintechmagazine.com/financial-services-finserv/future-fint
 webUrl: "https://fintechmagazine.com/financial-services-finserv/future-fintech-2050-ai-powered-finance-assistants"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: fintechmagazine
@@ -25,47 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Survey Reveals FinTech is Now a Necessity, Heralds the End of In-Person Banking"
-    excerpt: "Blumberg Capital, a leading early-stage venture capital firm, today announced the results of its fourth annual survey of consumer behavior and attitudes on financial technology, known as fintech. The study,"
-    publishedDateTime: 2021-12-06T14:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-survey-reveals-fintech-now-necessity-heralds-end-in-/2021/12/06/9505195.htm"
+  - title: "JPIN announces strategic investment in AI-driven fintech company TSLC"
+    excerpt: "The new capital will be used to fuel the growth of TSLCs digital lending operations, grow its global talent pool, step up business development, deepen its AI and predictive analytics capabilities and expand into selecting emerging and frontier markets."
+    publishedDateTime: 2021-12-08T08:50:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/articleshow/88162825.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/amp_articleshow/88162825.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/amp_articleshow/88162825.cms"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1336014/Blumberg_Capital_Logo.jpg"
-        width: 400
-        height: 268
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-5508,msid-88162849/ai.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Numerated Acquires Fintech to Improve Underwriting Process"
-    excerpt: "Boston-based Numerated, a financial technology company that provides a business loan origination platform for banks and credit unions, has acquired another local fintech that the company said would help reduce work for lenders using the platform."
-    publishedDateTime: 2021-12-07T16:23:00Z
-    webUrl: "https://www.bankerandtradesman.com/numerated-acquires-fintech-to-improve-underwriting-process/"
+  - title: "Fintech companies use alternate data to build credit profiles"
+    excerpt: "Hyderabad: Small businesses in the unorganised segment are seldom in the good books of banks and lenders. Lack of financial transaction history to assess"
+    publishedDateTime: 2021-12-05T19:17:00Z
+    webUrl: "https://telanganatoday.com/fintech-companies-use-alternate-data-to-build-credit-profiles"
     type: article
     provider:
-      name: Banker & Tradesman
-      domain: bankerandtradesman.com
+      name: Telangana Today
+      domain: telanganatoday.com
     quality: 24
     images:
-      - url: "https://www.bankerandtradesman.com/wp-content/uploads/2021/12/Robotic-Hand-Giving-Check-EDIT.jpg"
-        width: 1375
-        height: 917
-        isCached: true
-  - title: "Future Unicorns in Fintech Report 2021: Analysis of the Top 50 Fintech Startups that have the Potential to Valued at More than US$1 Billion - Research"
-    excerpt: "The \"Future Unicorns in Fintech\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the top 50 Fintech startups that have the potential to become unicorns (valuation more than US$1bn) based on the Unicorn Prediction Model."
-    publishedDateTime: 2021-12-06T15:26:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=582874"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2020/03/Telangana-Today-News-1.jpg"
+        width: 750
+        height: 415
         isCached: true
 
 secured: "Dvfv/6fE0kNY0ZOYWi/NVHIojaCRccfclHlYXE2JDVqimtT5vkOgMUhSEjqVcyA7EH74OyNv6AZ9ocNdPiWXjpKO+72BmYvfK+qtJjVIAZQExpJFDzfdYUG0BGgiHHmuPJgehmhSblgrgy8udqp6DAHn8ZxQETPVnWKGXYkYDYubEa3l4AucoyflU9gwEWcgNRPgcWcksbBvYdrjDdl1rdQUd6jN9uUF48bicyHPOuM/TDmvwf1tq51zam6uPe5leofzZtngsZO5IuTi8tC75H/3eASUXhBRRMFoNFMvL1Dk3tq9GIjBDyrh1D5+YiPIpxx29vslY9/SnGJlD6hv4HktaPUmPOOPoo0eA4fjXhU=;ie5QZpcpzzagQik9pRaGsw=="

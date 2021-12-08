@@ -9,8 +9,8 @@ ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-carries-a-hu
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: The Conversation
@@ -42,6 +42,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/brain-ai.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "Africa: Artificial Intelligence Carries a Huge Upside. But Potential Harms Need to Be Managed"
+    excerpt: "Analysis - Artificial intelligence and machine learning have the potential to contribute to the resolution of some of the most intractable problems of our time. Examples include climate change and pandemics."
+    publishedDateTime: 2021-12-08T07:48:00Z
+    webUrl: "https://allafrica.com/stories/202112080124.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 28
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
         isCached: true
 
 secured: "OKY+gfZLKqqzs1uhbLEm7oyty/p7IFroc1NEA85d9zUJ3b61/Pc/pg96eshaTeWgTuka5uG3Q/QewP/rpQ1tIfhYZ87QOrHU8rm0q4WAU3pDBmhUbzhhLUBsdHQWVTbDUcFoU9eBb+5VshhMA5CLigaRL/O6Q5PXXgwvI45NyRtgaQl/OEOhZUY2La2S4yV/YivHw+SxOMreUJ4TC7E3uBnn/Jhpfiow+SEJwuugPmDsHOND0DU5c/8M2ipmsJT4lio7qXPpaQSWSd3Jv5WaW2tORNQ3cYjNiUn08lDx2ozMQ50dom/Evtqzp63KfbDz1ZSMK6cr0104sixgojFTJ14xLIz+mp82wgPLtok/cvOPBY+6OU7kF9c1iuNScBJnup0TWeGJNYriD15swCCFy7x33PsDq2YoUUk997LAQ2pDCle0xh6AztRnNsfaBInHSqX5sCSJF4pEb8Q9kcqKBT7tg8S9hRgdBV86CMf9MX+++mP6jkf2WSh6+2xF4QUtOUhLlxRtKdfqqAumTSbw5A==;vwXUW1FaCXxJvOjY2+bCwQ=="

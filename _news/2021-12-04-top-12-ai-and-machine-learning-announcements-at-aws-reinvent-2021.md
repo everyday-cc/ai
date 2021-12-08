@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-an
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
 type: article
 quality: 125
-heat: 165
+heat: 155
 published: true
 
 provider:
@@ -49,22 +49,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aac36e7441210323e555ba%2F0x0.png"
         width: 769
         height: 600
-        isCached: true
-  - title: "AWS updates databases, AI and serverless offerings at re:Invent"
-    excerpt: "AWS unveiled updates to database, machine learning and serverless offerings designed to reduce complexity and cost."
-    publishedDateTime: 2021-12-03T16:15:00Z
-    webUrl: "https://www.infoworld.com/article/3643572/aws-updates-databases-ai-and-serverless-offerings-at-reinvent.html"
-    ampWebUrl: "https://www.infoworld.com/article/3643572/aws-updates-databases-ai-and-serverless-offerings-at-reinvent.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643572/aws-updates-databases-ai-and-serverless-offerings-at-reinvent.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 106
-    images:
-      - url: "https://images.techhive.com/images/article/2013/10/database_servers_blue-100067015-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 774
         isCached: true
   - title: "AWS Re:Invent Wrap-Up: Social Issues, Networking Focus, Partner Revenue"
     excerpt: "Ever the fierce competitor, AWS unveiled plenty of new initiatives in its annual event, and even evinced a budding social awareness."

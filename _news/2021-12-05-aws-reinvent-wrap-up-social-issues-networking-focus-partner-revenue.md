@@ -61,22 +61,6 @@ related:
         width: 769
         height: 600
         isCached: true
-  - title: "AWS updates databases, AI and serverless offerings at re:Invent"
-    excerpt: "AWS unveiled updates to database, machine learning and serverless offerings designed to reduce complexity and cost."
-    publishedDateTime: 2021-12-03T16:15:00Z
-    webUrl: "https://www.infoworld.com/article/3643572/aws-updates-databases-ai-and-serverless-offerings-at-reinvent.html"
-    ampWebUrl: "https://www.infoworld.com/article/3643572/aws-updates-databases-ai-and-serverless-offerings-at-reinvent.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643572/aws-updates-databases-ai-and-serverless-offerings-at-reinvent.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 106
-    images:
-      - url: "https://images.techhive.com/images/article/2013/10/database_servers_blue-100067015-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 774
-        isCached: true
   - title: "AWS Re:Invent: How Real Is Amazon’s No-Code/Low-Code Play?"
     excerpt: "Low-code/no-code underpinned some of ’ (AWS) key announcements at its annual Re:Invent users conference in Las Vegas, including the availability of the no-code platform SageMaker Canvas for machine learning (ML)."
     publishedDateTime: 2021-12-07T15:01:00Z

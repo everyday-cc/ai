@@ -1,17 +1,19 @@
 ---
 category: news
 title: "DeepMind claims AI has aided new discoveries and insights in mathematics"
-excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DeepMind claims that its AI systems helped mathematicians to discover new -- and significant ..."
-publishedDateTime: 2021-12-02T09:48:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics-10803024"
-webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics-10803024"
+excerpt: "Learn more DeepMind, the AI research laboratory funded by Google’s parent company, Alphabet, today published the results of a collaboration between it and mathematicians to apply AI toward ..."
+publishedDateTime: 2021-12-01T16:51:00Z
+originalUrl: "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/"
+webUrl: "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/"
+ampWebUrl: "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -20,6 +22,12 @@ topics:
   - AI
   - Math for AI
 
-secured: "pB30Ijnc31uh43d5r4ceIQvMHO9lE1laBSNTsR7smw1KfCvhOOWoyfBecQlTVYBsSk+knAUIrbuyWwul+UAgQOQvtkidaDZnnbZ3RYv6GfDa2/8RkrVTxuDz4axIWLgT8WNFnUTMrXw/nyhgzhju0uBew6D9FvX8dwOhlFz32SIJjV2agMTXQ3iCKIe+RBkYGV5omj8qhgtyit9Exa5nj9mmg2biq8lAvnCU89BdVKmXzHgXmyh3kIr0ll1WnLKRaf1+V1MoaPI18dIa4aoPrKSKS4YQnzXJw84jLxMD0YM09sYPNB5/FRBIqbcOOyVd9TmfIErrtZSYAS+0qKo0niNWABwL4wzSXBXiyPbwp8A=;hjbFGDi0NBL/xwr+sPhB8w=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all"
+    width: 1198
+    height: 600
+    isCached: true
+
+secured: "DllclPdQYCQrRtUWuGzBfNbGPhREYcGnF/ptGfizrnaTEeaXtKVTtT9gQFlRlhG9dej6VrEYRXDDECvydA+N9H6RQXfsJIAePNE485zhVEbT/Kt5zEcXC9iWJborkPhJDOFI8zA8TxFdKpCirH5S6ARi3c1BE/gIr1NNz0pKLSSICYyKOrRlnLrYt1JSLUjzVnsvx1pWiL0sLoKF2uWpHLQvWvihkAcT+SvwW3478BNcJNlwtrszE+S76xv7PtccC2vlsRiuDMtG+tyRieU+ZoC7f12YDM3TzOtBJRSCLSD2pwzG/cAdWjHxe0Juiezh7kt4OACcRXnevNj7TIv2Sx+2plgUAQTjuMF5G0xtvQw=;hfyLmw0ZNOcepCSAMNOTXg=="
 ---
 

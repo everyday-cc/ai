@@ -27,51 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology could change the face of Indian airports"
-    excerpt: "With the Airports Authority of India (AAI) working on a facial recognition technology-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports, including Varanasi,"
-    publishedDateTime: 2021-12-03T15:08:00Z
-    webUrl: "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html"
-    ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html"
+  - title: "Facial recognition isn’t working for some Windows 11 users"
+    excerpt: "Some Windows 11 users are claiming that the facial recognition software won't work, but the OS isn't to blame, but the hardware itself."
+    publishedDateTime: 2021-12-07T12:42:00Z
+    webUrl: "https://windowsreport.com/facial-recognition-not-working-windows-11/"
+    ampWebUrl: "https://windowsreport.com/facial-recognition-not-working-windows-11/?amp"
+    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/facial-recognition-not-working-windows-11/?amp"
     type: article
     provider:
-      name: The Week
-      domain: theweek.in
-    quality: 74
+      name: Windows
+      domain: windowsreport.com
+    quality: 59
     images:
-      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2019/1/3/face-facial-recognition-software-system-computer-shut.jpg"
-        width: 760
-        height: 443
-        isCached: true
-  - title: "The Hindu Explains | Facial recognition tech in Indian airports"
-    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
-    publishedDateTime: 2021-12-07T14:08:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 54
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "'The combination of 5G and AI will unlock new possibilities for drone technology’: Qualcomm India"
-    excerpt: "According to PWC India, the industry is expected to reach $1,810 million by FY 2026.Delivery by drone could well become the preferred mode for delivering many kinds of products"
-    publishedDateTime: 2021-12-06T10:13:00Z
-    webUrl: "https://www.livemint.com/technology/the-combination-of-5g-and-ai-will-unlock-new-possibilities-for-drone-technology-qualcomm-india-11638785027141.html"
-    ampWebUrl: "https://www.livemint.com/technology/the-combination-of-5g-and-ai-will-unlock-new-possibilities-for-drone-technology-qualcomm-india/amp-11638785027141.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/the-combination-of-5g-and-ai-will-unlock-new-possibilities-for-drone-technology-qualcomm-india/amp-11638785027141.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 46
-    images:
-      - url: "https://images.livemint.com/img/2021/12/06/600x338/qc_onq_flightrb5platform_header_1638785324359_1638785336017.png"
-        width: 600
-        height: 338
+      - url: "https://cdn.windowsreport.com/wp-content/uploads/2021/12/facial-recognition-windows-11.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "luMck+DdOcqSGjiaCg4/MH/+6FE9LGo5dIXxelFrOB3KssWsG3WmwYrelSKT9TClVKyTOfdw/1pygxuNX1f0Br515vaemqU50M6SzXXn85sAMd96eO2BJRIZSNZZZNVpa+xmjNb26m60MdoeDFJWbbsAa8K0cNS8vP+k2/sQTieOZ2Zfq1KGylaXrIwwm8kKdeMk8X4hJeVB7E/aSRk9EyDyzkjUeFw7bDe3U5tyvQfFOMUd3az1DTf10XTQV2B1fp5RVx6Y8GMCoh2HLCPcgoKeJZD7oLYN6YqxjGHJAQzk+Ti/avZRsYuQjm05QleA8dsk//ZXY+ZWlnAs/XZfU7bDONbwJMwUlTBCHkNo/H1XVj/3wQdNeH3ajE3z5yw+OjwDerRDw9NsojKRSWiFE1SCdYI7EF5pJlHwrSyfXsfXqnqsy8TZsV+PLLgOKDe1lNGrEfE8jM7IkhoUuFdgbUq+VNodpe6E/+KVXIROMH3Plbg8grevsSQd9zeBO16SfN/0Vea+iW0IX7i/CvKXHQ==;j9Ju4WsfvoU4BVDkqCcQOQ=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-dec
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021?amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Nasdaq
@@ -21,19 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "2 Small-Cap Chip Stocks to Buy in December"
-    excerpt: "Rising investments to address the global semiconductor chip shortage by scaling up production, and increasing demand for chips from several industries, should propel the semiconductor industry's growth."
-    publishedDateTime: 2021-12-03T16:04:00Z
-    webUrl: "https://www.entrepreneur.com/article/400662"
+  - title: "Survey Reveals FinTech is Now a Necessity, Heralds the End of In-Person Banking"
+    excerpt: "Blumberg Capital, a leading early-stage venture capital firm, today announced the results of its fourth annual survey of consumer behavior and attitudes on financial technology, known as fintech. The study,"
+    publishedDateTime: 2021-12-06T14:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-survey-reveals-fintech-now-necessity-heralds-end-in-/2021/12/06/9505195.htm"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
     images:
-      - url: "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-400662.jpeg"
-        width: 2560
-        height: 1707
+      - url: "https://mma.prnewswire.com/media/1336014/Blumberg_Capital_Logo.jpg"
+        width: 400
+        height: 268
         isCached: true
   - title: "6 Best Identity Theft Protection Services of December 2021"
     excerpt: "Identity theft protection services can provide the help you need if your data has been compromised. These services monitor your personal information, credit files and the web, alerting you to any suspicious or fraudulent activity."
@@ -49,29 +49,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "VOICE 2021 Brings Leading Artificial Intelligence Brands to Arlington National Landing, December 7-8"
-    excerpt: "VOICE 2021, the industry's leading voice, AI, and ambient computing ecosystems event opens today in Arlington, VA. The summit is being relocated to National Landing from New Jersey, where it attracted 7,"
-    publishedDateTime: 2021-12-07T13:32:00Z
-    webUrl: "https://www.lelezard.com/en/news-20143648.html"
+  - title: "Numerated Acquires Fintech to Improve Underwriting Process"
+    excerpt: "Boston-based Numerated, a financial technology company that provides a business loan origination platform for banks and credit unions, has acquired another local fintech that the company said would help reduce work for lenders using the platform."
+    publishedDateTime: 2021-12-07T16:23:00Z
+    webUrl: "https://www.bankerandtradesman.com/numerated-acquires-fintech-to-improve-underwriting-process/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Banker & Tradesman
+      domain: bankerandtradesman.com
     quality: 24
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.bankerandtradesman.com/wp-content/uploads/2021/12/Robotic-Hand-Giving-Check-EDIT.jpg"
+        width: 1375
+        height: 917
         isCached: true
-  - title: "Stocks to Buy Now"
-    excerpt: "The best stocks are always in demand. Whether the market is down, up, or sideways, these stocks always fit into your portfolio."
-    publishedDateTime: 2021-12-03T21:45:00Z
-    webUrl: "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=liverstick%40gmail.com&moneymorning_subscribe=complete"
+  - title: "Adam Martel to launch new AI fintech startup following Gravyty's merger deal"
+    excerpt: "Adam Martel, best known as CEO and co-founder of Boston-based Gravyty, has left the AI fundraising company and is working on a new venture."
+    publishedDateTime: 2021-12-07T19:24:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2021/12/07/adam-martel-to-launch-new-startup.html"
     type: article
     provider:
-      name: Money Morning
-      domain: moneymorning.com
-    quality: 4
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
+  - title: "Future Unicorns in Fintech Report 2021: Analysis of the Top 50 Fintech Startups that have the Potential to Valued at More than US$1 Billion - Research"
+    excerpt: "The \"Future Unicorns in Fintech\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the top 50 Fintech startups that have the potential to become unicorns (valuation more than US$1bn) based on the Unicorn Prediction Model."
+    publishedDateTime: 2021-12-06T15:26:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=582874"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "DAhpFc+uVU29Q/mS6nSVdn3SbA2TPoCQdXvX8sjOPLlQjRAy4v8J59yASCmh/P+SMl22bL8RnAq1kp7cgWkYgelZBaACq2hll8jvYXOMonNJllPYdzQF/0ylMjRsiasoubH8WIDirdclXh7tnutnP0wmd6P3mcZgJfsl2NyVwcoj9Gwc4RHuDLtd6Meb7GTvno+NZNolRuSPRdU7HRaIc+E8YqWg/yvwy1gYQlzl6C8Z4l1wa21Pmpwpab8tqCjYCml5KIwqgsI3P0jzo9zwfIKqZaTko9nCNEgqHqFzgYEkhLQK96PJ68pqInwjjMRRPIKWZ9ipmmOknWRhsw/wY7PaiePsbuu1ft9bjP7eWNtztV4MsJnqaEQ1NNmCq6WcEe8kqwjYbIHdwu7VpanOG3ynHTuG0/iu2VmTSdyR2FnqneH+CLJdGe/5XfJmT0ZDkOiJzIvR4ouKefPtOwpAkNw4n8c0CCpEvaa/yBoipOnETF4se/oPj7UuHaCH0zVhe51qSqlOr+eI4lrb32+GrA==;gLOzwvK9JORmn+RmH4q9Ug=="
 ---

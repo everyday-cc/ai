@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-08T06:06:00Z
 originalUrl: "https://allafrica.com/stories/202112080045.html"
 webUrl: "https://allafrica.com/stories/202112080045.html"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
