@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-08T03:52:00Z
 originalUrl: "https://www.thecrimson.com/article/2021/12/8/chan-zuckerberg-donates-500-million/"
 webUrl: "https://www.thecrimson.com/article/2021/12/8/chan-zuckerberg-donates-500-million/"
 type: article
-quality: 11
+quality: 13
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2021/05/25/180043_1350406.jpeg.2000x1500_q95_crop-smart_upscale.jpg"

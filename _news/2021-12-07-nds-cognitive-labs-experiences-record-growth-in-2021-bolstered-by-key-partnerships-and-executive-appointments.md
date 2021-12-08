@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-mexico-information-technology-22186b257904452babb3796d3bd52f5b"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Ripcord Brings Human-Centered Approach to ML and Robotics With New Executive Appointments"
+    excerpt: "Krajecki's new role signals a larger strategic pivot for the company where she will bring a human-centered design approach to building the relationship between Ripcord and its customers. To build upon Ripcord's human-centered design approach,"
+    publishedDateTime: 2021-12-08T17:07:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ripcord-brings-human-centered-approach-ml-robotics-with-/2021/12/08/9507708.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 42
   - title: "NDS Cognitive Labs Experiences Record Growth in 2021, Bolstered by Key Partnerships and Executive Appointments"
     excerpt: "NDS Cognitive Labs (NDS) today announced the company's record-setting 2021 company growth, enabled by partnerships with Clip (digital payment provider), major banks in Latin America, and global and US technology companies."
     publishedDateTime: 2021-12-07T16:09:00Z

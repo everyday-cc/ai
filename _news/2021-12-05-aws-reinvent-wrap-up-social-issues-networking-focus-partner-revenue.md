@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/cloud/aws-reinvent-wrap-up/"
 webUrl: "https://www.eweek.com/cloud/aws-reinvent-wrap-up/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.thenewstack.io/media/2021/12/a649e9b4-aws-reinvent-21.jpg"
         width: 650
         height: 466
+        isCached: true
+  - title: "AWS Re:Invent 2021: The 15 Coolest Products And Services"
+    excerpt: "A platform to turn Java applications into microservices. And a drone that brings together artificial intelligence and 5G. These offerings from Boston Dynamics, vFunction and Qualcomm, respectively ..."
+    publishedDateTime: 2021-12-06T18:29:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/aws-re-invent-2021-the-15-coolest-products-and-services"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0270-13e50c736b4d-9c65a216a991-1000/aws-reinvent-intro-photo.jpg"
+        width: 610
+        height: 458
         isCached: true
 
 secured: "ds4rd0c5AJj0jwc16GWBAm36B6fySQ870W6YwPXQqk5+esFuiqWKQNTU85G0ume2Lb+rF6I5UvwR/VnR7jtsiKCvWCbh/aHzBZZOVSBAZoecUnhUGqnEuttgflDLaRTLpSf2HWyJQdQOs63zmTB/RSNY/Y4r7z7MrGCbBYbp0GUZxLOBPsqaFPyFrBfe2x4pD5pEGtGxh24T1JnQxFht9BeLT167KQnjBC4RFRFaM4QFVGl/uSkIUlsHyTQpa+rMytI06iq3a88hSC3LsYg3FpDpNbQXAOVL4xTyW0OSmcnVpZbXJfNi8rxa++juiY9rP19hhTqu5hTZ8c1LcPqV0MaH/402qi+qhGJE7FxZpbpc3HLX/gh5y8qfAlEOnAOkm9xBvb2JA1r6JEwEt5KvTGjlke21ilmy63+xs7OMYn/6Ov87PQUl0oXouEeiO0saU78nRfr6fdxvgU7JS80rZ/Qd1y7sKHo8I75M1C2WmO6sLHnCXOva6aYgVEIjmRcCNS6wwqmligBS+IWNKJ3qCg==;cV4EFxKcxQp0Iy3rAuKWOQ=="

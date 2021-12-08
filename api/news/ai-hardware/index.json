@@ -411,15 +411,24 @@
     {
       "path": "_news/2021-12-03-brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner.md",
       "title": "BrainChip CTO Peter van der Made Named AI Hardware 2021 Innovator Award Winner",
-      "excerpt": "The AI Innovator of the Year award is given to the industry’s leading and most accomplished individuals to commemorate the backbone of AI progress. With the development of BrainChip’s Akida neural processor,",
+      "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BCHPY), a leading provider of ultra-low power high performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner/",
-      "originalUrl": "https://www.financialbuzz.com/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner/",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-brainchip-holdings-ltd-93df8a28aa924b1993b109550ba4423a",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-brainchip-holdings-ltd-93df8a28aa924b1993b109550ba4423a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -427,8 +436,8 @@
       "publishedDateTime": "2021-12-02T17:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

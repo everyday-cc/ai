@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Waymo's slow-going in Arizona opens up US robotaxi race"
-excerpt: "Alphabet Inc's Waymo risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches. Companie"
-publishedDateTime: 2021-12-08T13:29:00Z
-originalUrl: "https://www.channelnewsasia.com/business/waymos-slow-going-arizona-opens-us-robotaxi-race-2367096"
-webUrl: "https://www.channelnewsasia.com/business/waymos-slow-going-arizona-opens-us-robotaxi-race-2367096"
+title: "Waymo's slow-going in Arizona opens up U.S. robotaxi race"
+excerpt: "Alphabet Inc's Waymo risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches."
+publishedDateTime: 2021-12-08T12:30:00Z
+originalUrl: "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/"
+webUrl: "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--ZxW8o8Zy--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t132723z_1_lynxmpehb70nw_rtroptp_3_usa-autoshow.jpg?itok=5G_0O6cg"
+  - url: "https://www.reuters.com/resizer/kcukEDS_xfrmW9E7pUxyC0dZjbw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VWCAES5GCZLOFGZLTSQFXKL66Y.jpg"
     width: 1200
-    height: 676
+    height: 628
     isCached: true
 
-secured: "VPRxqgoIVxhb1IYcYcni5LiRVlrYCtWZnF4JWUDsG7UFB7lHbUaIyGKDQyLMcyXduUFVksIqJG3PC/m6lJDkKNhpZLkDou8S7ZHa5ZW4jyuZhA8kblDpA6tKiCbm7vXsSEEpQ0TBFN5g7UnzN1J+I3MR1KfEEK5mGXEi6hMm5bD33CsCdXQNbD3lV1lysa6ZZfzV82QF5kruiPRtaW9cJniFr/o/64PjnRjVlFb/cBU+haovtTHcWiODmVzTclS99teK6QnxrmNiSNdKteNbM/t4GVMNXG9/XKaCdIBP8a0mtAJAWKOFFsluLUVYxLsAbSX9UPq7PHfGJt3FI93TvJCOjY2QEN8/rFMz3KsJ9nw=;oXliaBXCbcC8hjymrwj29Q=="
+secured: "bevp+3GfnoxdVuyv8ZnUG1BdWvLj8Ig9CVbD/9MAmnx8MuD/2RbBELhShosKve5VIFL97wo+XWdchQSdmNkE5t1LZUWtE9LLJB56+ILeUDQd/2y5NtkG20tyqGsZgbqPfGFmrUxgnAhyeAb0s6dh64I9cXfSF/9NK9fjWhrds1hu+lKIw8ZOVLiPbNVVMrndCy+KhAFUEeiZZq8Av9eQPOIlACgKZxK853zfa65xejhoKe8tKTLUo0Oc57zu+bqFENl3/4JqKSNPuAkygzh4y5CfWZEVsW+UVtfJRyahFK8n1Vt6d1W50efuf462p61+Iueyn9S20b6pXY0z22fTDdwsF/8tXXBTwnaLxQfuK2I=;CE1930iXoGoASoHjgiiI1A=="
 ---
 

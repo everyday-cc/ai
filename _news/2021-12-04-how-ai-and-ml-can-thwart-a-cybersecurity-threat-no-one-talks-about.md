@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybers
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-ai-and-ml-can-thwart-a-cybersecurity-threat-no-one-talks-about/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "CyberSecurity AI startup CyberQ secures 5Mm to automate AI data solutions"
+    excerpt: "CyberQ Technologies Inc. has raised 5Mm in seed funding to expand its expert team of outcome based solution providers.Turing Technology Group (TTG) led the seed round. The new funding will help grow the team and expand recruiting,"
+    publishedDateTime: 2021-12-08T18:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cybersecurity-ai-startup-cyberq-secures-5mm-to-automate-ai-data-solutions-1031033364"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "Insecurity: Reps task FG on adopting Artificial Intelligence"
     excerpt: "The House of Representatives, on Tuesday, tasked FG to liaise with the Robotics and Artificial Intelligence Nigeria (RAIN) as part of ongoing"
     publishedDateTime: 2021-12-07T16:17:00Z

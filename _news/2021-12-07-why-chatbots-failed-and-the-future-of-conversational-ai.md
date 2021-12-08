@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/400644"
 webUrl: "https://www.entrepreneur.com/article/400644"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://imgk.timesnownews.com/story/Artificial_Intelligence_IANS_2_0.jpg?tr=w-400,h-300,fo-auto"
         width: 400
         height: 300
+        isCached: true
+  - title: "Chatbots Will Bring AI Smarts to Your Organization"
+    excerpt: "The latest trends in artificial intelligence and machine learning technology certainly meet those criteria, with conversational AI being one that stands out as promising benefits to a wide variety of businesses."
+    publishedDateTime: 2021-12-08T17:00:00Z
+    webUrl: "https://thenewstack.io/chatbots-will-bring-ai-smarts-to-your-organization/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2021/11/64ad9aae-chatbot-gc3ac2d6ca_1280.jpeg"
+        width: 1280
+        height: 811
         isCached: true
 
 secured: "ftZ29FC/HSzjwL5WGagFs37vn+qqll31qqufMVPKSFBzFUzlhfAgqSpdzmGkTxB6ly9Sei/4i3T8cEn2PAgX4FDhe3M+3W9/iBR3eaZFBjueuEujd9aT4jCU02hQoPEtwvVGHZAOAN1n83uaWCx8K8g3kpJ8twSXF98n5XDi3Ik1xxLThodfCsXNU4diOCpbG4nz6hAUe0QHZjf9hu7HWh9OGwPts/0twHrhAGDS5Co2nt2CaIhCPyR/EwQlU1ZOo67QM4ZlRNZcIr3aEIW2qaZlhsAov/FtMxq0L9KOziCRFq5eqitaXrCXax/TWNH/yPOf2YLIRKc+fGoBQHLymtAO4RUbXzWaABgFLbJ3aHE=;7LVWmbO2RKWoQ4W4SNtOsg=="

@@ -38,20 +38,6 @@ related:
         width: 900
         height: 676
         isCached: true
-  - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
-    excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"
-    publishedDateTime: 2021-12-04T02:02:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 38
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg"
-        width: 770
-        height: 400
-        isCached: true
   - title: "Cloud Computing, Neuroimaging, AI, and the Urgent Need to Address the Global Dementia Crisis"
     excerpt: "With COVID surging and retreating across different regions of the globe, it may be a while before we can assess the full measure of what the pandemic has to teach us about health at both the individual and community level."
     publishedDateTime: 2021-12-07T15:55:00Z

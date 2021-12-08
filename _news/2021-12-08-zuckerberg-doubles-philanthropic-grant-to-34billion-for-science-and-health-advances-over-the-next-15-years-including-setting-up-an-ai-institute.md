@@ -51,7 +51,7 @@ related:
     provider:
       name: The Harvard Crimson
       domain: thecrimson.com
-    quality: 11
+    quality: 13
     images:
       - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2021/05/25/180043_1350406.jpeg.2000x1500_q95_crop-smart_upscale.jpg"
         width: 2000

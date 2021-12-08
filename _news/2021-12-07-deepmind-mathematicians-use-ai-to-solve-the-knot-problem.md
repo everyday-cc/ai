@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Could Google's DeepMind AI Transform Healthcare?"
-    excerpt: "There's now key progress in one of those areas: Google's DeepMind artificial intelligence (AI) software is being used to predict the structure of proteins. In this Motley Fool Live video recorded ..."
-    publishedDateTime: 2021-12-04T02:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/could-googles-deepmind-ai-transform-healthcare-10810359"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
   - title: "DeepMind experiment shows AI must grow smarter, not just bigger"
     excerpt: "The dominant approach to building more advanced artificial intelligences is simply to scale up their computing power, but AI firm DeepMind says we are reaching a point of diminishing returns"
     publishedDateTime: 2021-12-08T16:00:00Z

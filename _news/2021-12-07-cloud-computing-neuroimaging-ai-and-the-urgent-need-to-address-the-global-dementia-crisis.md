@@ -43,20 +43,6 @@ related:
         width: 900
         height: 676
         isCached: true
-  - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
-    excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"
-    publishedDateTime: 2021-12-04T02:02:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 38
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg"
-        width: 770
-        height: 400
-        isCached: true
   - title: "South Africa: Crowd-Solving Startup Zindi Building a Community of Data Scientists and Using AI to Solve Real World Problems"
     excerpt: "Zindi is all about using AI to solve real world problems for companies and individuals. And the South Africa-based crowd-solving startup has done that over the last three years they have been in existence."
     publishedDateTime: 2021-12-04T12:33:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newscientist.com/article/2300657-deepmind-experiment-sho
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: New Scientist
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Could Google's DeepMind AI Transform Healthcare?"
-    excerpt: "There's now key progress in one of those areas: Google's DeepMind artificial intelligence (AI) software is being used to predict the structure of proteins. In this Motley Fool Live video recorded ..."
-    publishedDateTime: 2021-12-04T02:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/could-googles-deepmind-ai-transform-healthcare-10810359"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
   - title: "How DeepMind’s AI Helped Crack Two Mathematical Puzzles That Stumped Humans for Decades"
     excerpt: "Machine learning is aiming at the core of mathematics—a science for spotting patterns that lead to theorems about how our world works."
     publishedDateTime: 2021-12-07T15:00:00Z
@@ -67,6 +58,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "emLCKh4xaWEvfXTiopBDEoNlL6IbnTWQmTr09OozIZxtUUPyRgrJn+6f5T4OLPbD+U/ON4AKDMRlr0JPpWTrVxy31+fKp3cO0RtqnfxGIXheOcmz4dV5lKq4JTPECcgPNRwbUODa90XWzc4rq8ab2yMUYzHPGUBGhjewaU5BWvtYpRqcVtTs72RvAdINbAauAJQT8Dd6+K1Eox5NRvAlQErocQJyaFg7srbI0iqFNo/TCjjPRX/8AMH0kOHQjjzPNxkCJj1OclaPLZEwGtn9sc1YY4PeVDoapWKWwaskHXTHW+tynYQnFKaDJI+3yd8YJPFa6lBiKH2A9ac4CUU8MYA1DG0e1gmBRXjdXwjP+Gw=;e0nAJbH2jh7ZFXHEpgNeHw=="
+secured: "9XKmLd+mrExoP/2muNo3PA8jagbrIplqd7x35tBQcQVoUA7cp7+kM1Sd/L79G0+rFtQ7F963lN1o07CCWuAdaDOMPaVqlhu4FS2LVefWECPCEgVsRxaQXwqarWT6zXeFX77Qh02wqtN2JI3UuMNEn45Wdv6LEhZi12gVNo4aFqKThOImHqHH2x+3hdT72Dr3fXPXGNE03beJ4FrUJFsc4zCjsFI7DnObF9ya0nCZK/wfChhRZ4+cGzM+4ItecamxweTHlVu/732A7Ne+gcKvXBru1SUtnx4Gl5NsuAzSmtRhn+q0B9CXd7PiGKVp9s9LjKHs7EyKqxhyDk0L7N5VQCSc9YvjiisNQtj6+d3Cv7i9lvZb9NMXJgggs+VQtUmAWJfgyWpPNAy9zckh8SvywzhT7iDZ6Ois4LWejp9hiAGDEyiWoylF3kunWoXBslhEa3eGSC51nSvvwRWU7csZlP9CzKVNJLe4+3WXRthKxJOsib6Xt7XbuzULQHn7rc5k2RapBukzmwFlKxvUy5k+Mg==;csQQ6+wGl2kjqxYcyFVIBg=="
 ---
 

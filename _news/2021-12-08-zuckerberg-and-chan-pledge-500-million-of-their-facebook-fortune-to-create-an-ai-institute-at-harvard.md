@@ -55,13 +55,13 @@ related:
     provider:
       name: The Harvard Crimson
       domain: thecrimson.com
-    quality: 11
+    quality: 13
     images:
       - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2021/05/25/180043_1350406.jpeg.2000x1500_q95_crop-smart_upscale.jpg"
         width: 2000
         height: 1500
         isCached: true
 
-secured: "nFzev5fBIW79H6a4xF9NWp08/M1ZLgwOXJUQpO5HRq2XwjiyZJ6Sm5Sk8Ss0Mcevr6Ptfrd9idQeA2aU95zs0kri3ciZJIavef0/js2JyP++vzsmmqBTUbK552D1ERB/b6LMg54RbVWyf4RTS3GD9cf7UbECOyDoq12pi9XPvndph9tjAPP0Ky9e6SzLtR7fOioDEi4GcSBt4i/i/w7qSy0VKcdNQCuEuL3iNLKCkD2p7/M2drHWbN0qdOqgEKbNV7yQc29GLJydOVvnlK7XQ1m/8FQuAQgfY+Qm6C1uqZFnSLfyRk6tdLzDoDAGDRuTezD9oFJcJzVRMf1YQ3/eSKdetdLhGOOAzF7vcMZiLVc=;cfcgqWTKU/4nI39OCaanJw=="
+secured: "SxswMa5gOQz+9ZN55OhpIY2YA3ORyDh2xJly8Nzer+BxcOboy+EypHP0K6GdqjYiNBc7+leqR+GupMlAXRZvR/cU/AZbj6x6ckSgCSB+GgLtxQVLMzyIuidQEDqwWkCyH1GRekI/bVBeDonthfTpgC2eFV+0935WXmTWhZ2HwYL4wc2/BWoDG/HEiwGc3QWpMz6tQ5dpyvJZCpc817gCDBmhCyq6qTivdSv5ol1ot3D9ba4bQ+J2zM43SS5op2YH+2+V10jcnshPyBELTjuCo+Bzi1rQZivtY1oFrMXBJQkHqxuPQFiIC7tCdl1MU/D7vW0m0efnD1ip37c7+XnASy+sIdeRimN7HjsR+cvYvsrFKt96NpXOKhxr3WqMcmS8jo9UnhGctC56AGd9NmQ3C2cTQdKfaYPuUMoWyJ0VWlbuGegUI0XuRIzd16SxCiufmUrXqiRH45deZlNytES2PL1r5OmxC5/rgsRskr/JKiG+o8IfjYlqW1LlRDIuZj0ayHUUZIAqkBFAwcJGzfkemA==;RVEzrmdSM0h8ueTR2yY/6g=="
 ---
 

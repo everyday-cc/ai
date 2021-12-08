@@ -64,6 +64,15 @@ related:
         width: 666
         height: 350
         isCached: true
+  - title: "Global Facial Recognition Market (2021 to 2026) – Industry Trends, Share, Size, Growth, Opportunity and Forecasts – ResearchAndMarkets.com"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global facial recognition market reached a value of US$ 3."
+    publishedDateTime: 2021-12-07T13:11:00Z
+    webUrl: "https://www.financialbuzz.com/global-facial-recognition-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "vP1ibwoZRWbMonWEPb3TD7hnorYVcRs3qFCOfJZ+D1r48bIn5ejSHZoHPrB+ItnV78zWtZALqLSYfmLiOzZ7pcpTnL3BGrNteDKefGybNWulpuGn3NRVauAM2/pLHNAtgobaDaJ/Xd2Eu2XdgrXKGZTws21sbwhMmLeQP0cBsu3O+TQblyp5qwNVBvcJNWRadi5MlZ11s8wa8Y+q6aSjlHS8UeG2ml7MlYmScnMZ7tpblAJh22UBSXmaodvj3Q+ElkfOeqQwRfiC2PUzfGZYnUrtuHDPv+43IiYnF6IpzLgIE9VQMbgHII5YPwgvYfGKmSWW1hCSqE2laAHIjZ0cWPHjZZNgQZ8ibbi0+rorgtQ=;HTZQOZKB272Lx2FPxWftWA=="
 ---

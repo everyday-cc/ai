@@ -3,12 +3,9 @@ category: news
 title: "Qualcomm Technologies and Google Cloud Announce Collaboration on Neural Architecture Search for the Connected Intelligent Edge"
 excerpt: "Qualcomm Technologies and Google Cloud are collaborating on Neural Architecture Search (NAS), enabling the companies to create and optimize AI models automatically rather than manually. • First available on Snapdragon® 8,"
 publishedDateTime: 2021-12-03T05:28:00Z
-originalUrl: "https://www.newswiretoday.com/news/176743/"
-webUrl: "https://www.newswiretoday.com/news/176743/"
+originalUrl: "https://www.newswiretoday.com/news/176743/Qualcomm-Technologies-and-Google-Cloud-Announce-Collaboration-on-Neural-Architecture-Search-for-the-Connected-Intelligent-Edge/"
+webUrl: "https://www.newswiretoday.com/news/176743/Qualcomm-Technologies-and-Google-Cloud-Announce-Collaboration-on-Neural-Architecture-Search-for-the-Connected-Intelligent-Edge/"
 type: article
-quality: 0
-heat: -1
-published: false
 
 provider:
   name: Newswire Today
@@ -18,38 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "'The combination of 5G and AI will unlock new possibilities for drone technology’: Qualcomm India"
-    excerpt: "According to PWC India, the industry is expected to reach $1,810 million by FY 2026.Delivery by drone could well become the preferred mode for delivering many kinds of products"
-    publishedDateTime: 2021-12-06T10:13:00Z
-    webUrl: "https://www.livemint.com/technology/the-combination-of-5g-and-ai-will-unlock-new-possibilities-for-drone-technology-qualcomm-india-11638785027141.html"
-    ampWebUrl: "https://www.livemint.com/technology/the-combination-of-5g-and-ai-will-unlock-new-possibilities-for-drone-technology-qualcomm-india/amp-11638785027141.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/the-combination-of-5g-and-ai-will-unlock-new-possibilities-for-drone-technology-qualcomm-india/amp-11638785027141.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 46
-    images:
-      - url: "https://images.livemint.com/img/2021/12/06/600x338/qc_onq_flightrb5platform_header_1638785324359_1638785336017.png"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Qualcomm Technologies and Google Cloud Announce Collaboration on Neural Architecture Search for the Connected Intelligent Edge"
-    excerpt: "Qualcomm Technologies, Inc. and Google Cloud announced their collaboration to accelerate neural network development and differentiation for Snapdragon®"
-    publishedDateTime: 2021-12-05T11:00:00Z
-    webUrl: "https://www.impulsegamer.com/qualcomm-technologies-and-google-cloud-announce-collaboration-on-neural-architecture-search-for-the-connected-intelligent-edge/"
-    type: article
-    provider:
-      name: Impulse Gamer
-      domain: impulsegamer.com
-    quality: 0
-    images:
-      - url: "https://www.impulsegamer.com/articles/wp-content/uploads/2020/10/qualcomm-1024x1024.png"
-        width: 1024
-        height: 1024
-        isCached: true
-
-secured: "wOv7VejPI5BQzy1YfYHIoKCtKdGJUzkJ56+/dk5PKNbjpbcbpWf05R0jmkKmhQteNa4JaFg7S13oqrE7Rx/Kl/15AsFs5GCWaZumXVLe/961rYVnEtodREtq5jGg7supoaoOzWPtxrPDBAkFrMWe3e7ysfXPB+dMG9yDJFuCw7zUW+a/QhlpNFGCKLoCCwvWZ9nskNCSTSNN8OVU6s8dXYSKFtgej1xI1sIRhXsaBo82v6pHMHzAkdKtxxOlz1dPCOHtf51HWANAV679ksR+nhPSLKbAKtZGPQ1jVYviZdpFbKL8gR/PbMFOBIT+86DgNbUME4cw0gbw5pLcMsGoXlXi1MkTz+eLAHzAu1ifoU4=;yQEkw3S7P2e/WanYuXBYDw=="
+secured: "tcP2/RL9MtMRiYfPl623XgHK2Dv00iHzym+dIm6N5ck/jwTtNj514gx77Cu2HmQLBRXBvlK7WbOwBtxTfauJrxgA17tjP15zVM55HV2QkJRwnQgtMdLHEJ4E3O0OTft6+rCXGcAO+4O8lzf4r26tPB3qqNnxtTSeGIyjgTZ/iLyFNYcxy+Pwt/UqOW7zeWcb6e74cyY/VzMhT6gHMmlTCLHxpOYd/JryUH9S8ReJtKwWEONvkccYEcv4KjZOw//9Gz3Uy0X3UZcwKdQXf6kaDX092hbYFw+U8O6W4QggrvPngTOn6oRR9dYU6K6tlu9GCtYumBdRFSHv74JUkN0vUNnHm46FTIW7SpPihwguN5M=;RGeFN3DQts5BscFCsux45Q=="
 ---
 

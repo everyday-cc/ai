@@ -3,8 +3,8 @@ category: news
 title: "Habana Gaudi AI Processor Joins cnvrg.io's Metacloud Marketplace of AI Infrastructure Solutions"
 excerpt: "PRNewswire/ -- cnvrg.io, the operating system for artificial intelligence (AI) and machine learning (ML) built by data scientists, today announced"
 publishedDateTime: 2021-12-08T14:30:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/habana-gaudi-ai-processor-joins-cnvrg-io-s-metacloud-marketplace-of-ai-infrastructure-solutions-839888428.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/habana-gaudi-ai-processor-joins-cnvrg-io-s-metacloud-marketplace-of-ai-infrastructure-solutions-839888428.html"
+originalUrl: "https://www.prnewswire.com/il/news-releases/habana-gaudi-ai-processor-joins-cnvrgios-metacloud-marketplace-of-ai-infrastructure-solutions-301440081.html"
+webUrl: "https://www.prnewswire.com/il/news-releases/habana-gaudi-ai-processor-joins-cnvrgios-metacloud-marketplace-of-ai-infrastructure-solutions-301440081.html"
 type: article
 quality: 27
 heat: 27
@@ -15,7 +15,7 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
 
 images:
@@ -24,6 +24,6 @@ images:
     height: 419
     isCached: true
 
-secured: "gwC2lVV9OHhLmUnK70dfPXwwchFSjGSqNybxyNNhMw5SPFKzX0pctXYheRYKZvQpCt2fP4qBFPqPKg0D7MQ+663TlcxpvT47/JvfqkqTuHYEL3MGSKQq0MbQBHtwU5clMd1GsBF4B5LnjXbMkJdkrwnrFNJJ9Uo18HKcC7vsN6r21BrChT3rMH0zd7u12AmrKt5wv3VpxTX2Pt30u8Ne8ixpxzU+w6tWBXA3zuRmSqu4AHbiwDAzPYWtQeLksV05eNFZwAN06JBO2871sIKw02cI+hiNuCCcQ/a0sesdWNZibgJTjVKr2Po9uVH48q1HARuaPZ11T6TdNN5llPAcU0N2cEGKbY30G4Qt23egDAE=;hziiirpJD4pROqmH4Nmv3Q=="
+secured: "7jIjOXHLrTmY0DMMmWzO0Zpi0oglsyqiy4OT5SyXcrQH63CDPB19WnU4iStfnwDczxCq5ScR1ujYSx8jy2cHzThi+SUcfOVylO+0i5Gq2/M/vTcs0pTyxUu8W5+RyS5RXs5Xdn7JoWiqi1W+C7nv6gSiCxjICs364xM/+4b/PxaOqVjBWZjdQuMDbu6zcgfn5dtRnxN9iNqsmKBRaEU/sq8IaWsjXZgY+V0dAET9NPwBX4J+pTiMYk1TxEKa1RgjnbOGFEoquqCD/8WB/IFU3k0Js7wu396eiIG4FfMMU2wzBCDQFTaZHlUfV1s3OhxBO4tRerikvniDLHCEHpvcQ4BBV4XHkmG5Dv5xJyNy0WE=;JUZrvrVf7+xR/5QkgWejlw=="
 ---
 
