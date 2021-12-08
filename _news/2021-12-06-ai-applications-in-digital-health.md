@@ -7,7 +7,7 @@ originalUrl: "https://www.newsweek.com/sponsored/ai-applications-digital-health"
 webUrl: "https://www.newsweek.com/sponsored/ai-applications-digital-health"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "The opportunity for AI in Healthcare"
+    excerpt: "Artificial Intelligence (AI), has played a robust and growing role in the world. What many people don’t realize is that AI presents itself in several different forms that impact everyday life."
+    publishedDateTime: 2021-12-08T16:16:00Z
+    webUrl: "https://www.linkedin.com/pulse/opportunity-ai-healthcare-evan-kirstel-b2b-techfluencer"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHDKOYsCMB7gg/article-cover_image-shrink_720_1280/0/1638980123840?e=1644451200&v=beta&t=s9NKpDgy5Ym2j712LfpDyOdkavQOuNExrXAO_e176EI"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Benchmarking modern edge devices for AI applications"
     excerpt: "which highlight increased computing power and specialized hardware support for AI applications. We perform a set of deep learning benchmarks on the devices to measure their performance. By comparing the performance with other GPU (graphics processing unit ..."
     publishedDateTime: 2021-12-06T12:11:00Z

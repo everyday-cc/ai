@@ -65,6 +65,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Ann Arbor AI chip startup hires Qualcomm exec as CEO"
+    excerpt: "An Ann Arbor startup founded by two University of Michigan professors aiming to make microchips for artificial intelligence applications has lured a new CEO from among the top executive ranks of chipmaking giant Qualcomm Inc."
+    publishedDateTime: 2021-12-08T18:33:00Z
+    webUrl: "https://www.crainsdetroit.com/technology/ann-arbor-ai-chip-startup-hires-qualcomm-exec-ceo"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/Keith%20Kressin_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO"
     excerpt: "MemryX Inc., a pioneering startup building breakthrough silicon for artificial intelligence processing, has appointed semiconductor industry veteran Keith Kressin as its new president and chief executive officer."
     publishedDateTime: 2021-12-08T12:53:00Z

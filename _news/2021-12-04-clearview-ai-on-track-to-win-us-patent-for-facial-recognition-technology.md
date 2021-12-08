@@ -7,7 +7,7 @@ originalUrl: "https://www.msn.com/en-us/news/technology/clearview-ai-on-track-to
 webUrl: "https://www.politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735"
 type: article
 quality: 152
-heat: 252
+heat: 272
 published: true
 
 provider:
@@ -151,6 +151,31 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Disclosure sought on Clearview facial recognition use and by company in separate cases"
+    excerpt: "A Freedom of Information Act request seeks details about the use of Clearview AI’s facial recognition by the Criminal Investigation Division of the U.S. Army."
+    publishedDateTime: 2021-12-08T21:44:00Z
+    webUrl: "https://www.biometricupdate.com/202112/disclosure-sought-on-clearview-facial-recognition-use-and-by-company-in-separate-cases"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 31
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
+  - title: "Police Release Findings From Independent Expert Review Of Facial Recognition Technology"
+    excerpt: "An independent review has provided Police with detailed advice on the opportunities and risks associated with the use of Facial Recognition Technology (FRT). In responding to the review Police has decided it will not use live Facial Recognition technology without further detailed analysis,"
+    publishedDateTime: 2021-12-08T21:41:00Z
+    webUrl: "https://www.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 31
   - title: "Clearview’s internet-as-facial recognition reference database concept to be granted patent"
     excerpt: "Clearview has received a ‘notice of allowance’ from the USPTO, setting up a grant of the patent once all the associated fees have been paid."
     publishedDateTime: 2021-12-06T16:11:00Z

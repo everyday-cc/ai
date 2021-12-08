@@ -2,17 +2,17 @@
 category: news
 title: "3 Impacts of AI in the Machine Translation Industry"
 excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
-publishedDateTime: 2021-12-07T22:13:00Z
-originalUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
-webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+publishedDateTime: 2021-12-07T23:03:00Z
+originalUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+webUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Natural Language Processing
@@ -130,6 +130,6 @@ related:
         height: 389
         isCached: true
 
-secured: "cd7/JP6gOinqF8gU0d9Qa7GwbMgVKVcWFoj4E+IvuAL3D+yqUJErB1IPzHztB+NbUJ+yzROQ6u22JV5vEXmD4YeuYih0nSDZOuegjssbNuidFxsdyD+l8aZWdiBBvyAfxPbKGM2Nu1zX19htYTLUZ4nyKloyZi9E3FC/s6vhUpGBLm54tYg9M0LAuZ3ilxgPQDR+E47Fz6bCeLLU/8xm5NQqf0Exzk2RUqWcEaO+qba/sQYt028xLFRb2OtXw9H413CzQGMykVmfRF/zn4qhXHRuRQSWZM830kS9dfzyVUpV82QJ0lfp0CsLjJzSg/2Vwvx4119Kh9zK03m+5mflAsOgUp2VeByxvV341/kBtErP/VptypVje5VyVAIDYf49A+vo5lb2HPUu4dzWMPgJtBdXjhweURXuMzSMna+7W8cH0zkIAm40CTqtwxNu6p64bqKNA5EqDLBu+SyYAfgLypYS+nx3YtjuNiBzjjCktwp+6QzUCPxjQml0OmBGPiQaOtG1S2IQbwYCsRxgrt0UzQ==;21Oj0Eliy1M7Z6BIlY9idA=="
+secured: "FFc1Xsz96LVmqQpf7OGyPQs9NWGqgr9c0mjm7VHHtR3NKB53AgPpnrzD8zK6BUU+Oq9pti8QGGXjAFKhLqSpAxbZGne8YAMHh7eLjOTnHNhBbslKemdPv/uLr7qOx1s2P1VtJ3JRLV5y8M+408Sx0g7TscZYr7FGAGQ/FeM2fLZcsKNrzNfxvgmARExe9Q+KgqJ7yam0Wx7VW/cKh8BccDt/qnegU9cdqi6v/HyrVwfSW5hlcTaKEXtNC9cO4JIcWrbCLjkBqhw560SDyX3gh5flIBC+V4o3rZoKuSf1Rv6Z3k5kx6vcaP2LLGaPqNdAH9o7YE3Ws4xekulx2uXv7s1oxvfzVtRQ4YZSxv1/sPY=;enk8auaAZFrqKf2b1W6uvg=="
 ---
 

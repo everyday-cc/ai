@@ -33,6 +33,20 @@ related:
         width: 1537
         height: 719
         isCached: true
+  - title: "The opportunity for AI in Healthcare"
+    excerpt: "Artificial Intelligence (AI), has played a robust and growing role in the world. What many people don’t realize is that AI presents itself in several different forms that impact everyday life."
+    publishedDateTime: 2021-12-08T16:16:00Z
+    webUrl: "https://www.linkedin.com/pulse/opportunity-ai-healthcare-evan-kirstel-b2b-techfluencer"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHDKOYsCMB7gg/article-cover_image-shrink_720_1280/0/1638980123840?e=1644451200&v=beta&t=s9NKpDgy5Ym2j712LfpDyOdkavQOuNExrXAO_e176EI"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "oOgtWzBBd8YGJnHULYs6XtHdrdOMuOG7I5rgEXw0rojE3G/9jSL3NIiKoJaJTiDUjYYEJRPdkXrz6ssO37Fp3hgoXOmzTUwD7DD7cpETOlSRjgsf7HgWOcrmLZOnjw3SY30t8ISeTKOvK/wi+gKY1H4KHg+VORSi7ooZMw+cogHRJwDW9Fzl9Lk021JpXfWAPeiLDzDlgCtpLz3iPPYfM3PUjs2hSWdTjXiIm79gtqzrQOpcZPta4X4KfbIXsAkVzR+bMNgFfVk2M9aXjITabGgJ2AGJZTH1Lf0+U4Be4jyuQcIaxWGrxOmWxO8L6f/l1AGemt+a2OFKWk6N7NwZpEpaMbXby2XTIEUzGBBhPgc=;b4CkTWYTboUCTKd/qMHt6g=="
 ---

@@ -46,6 +46,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Synthesia, which is developing AI to generate synthetic videos, secures $50M"
+    excerpt: "Synthesia, a company developing AI technologies to generate synthetic videos and avatars, has raised $50 million."
+    publishedDateTime: 2021-12-08T21:00:00Z
+    webUrl: "https://venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/"
+    ampWebUrl: "https://venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1138451176-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 578
+        isCached: true
   - title: "AI-powered customer engagement platform MoEngage raises $30M to grow operations"
     excerpt: "MoEngage, a startup developing an AI-driven customer engagement platform, has closed a $30 million venture capital round."
     publishedDateTime: 2021-12-07T14:22:00Z

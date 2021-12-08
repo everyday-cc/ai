@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/400644"
 webUrl: "https://www.entrepreneur.com/article/400644"
 type: article
 quality: 67
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1280
         height: 811
         isCached: true
+  - title: "Why Artificial Intelligence is considered key to traffic solutions across cities of the future"
+    excerpt: "Coupled with existing systems comprised of network cameras and monitoring solutions, the innovation and application of artificial intelligence heralds a new era in traffic management. Why Artificial Intelligence is considered key to traffic solutions across cities of the future."
+    publishedDateTime: 2021-12-08T11:44:00Z
+    webUrl: "https://www.constructionweekonline.com/business/insights/artificial-intelligence-key-to-traffic-solutions-in-cities-of-the-future"
+    type: article
+    provider:
+      name: Construction Week Online
+      domain: constructionweekonline.com
+    quality: 5
 
 secured: "ftZ29FC/HSzjwL5WGagFs37vn+qqll31qqufMVPKSFBzFUzlhfAgqSpdzmGkTxB6ly9Sei/4i3T8cEn2PAgX4FDhe3M+3W9/iBR3eaZFBjueuEujd9aT4jCU02hQoPEtwvVGHZAOAN1n83uaWCx8K8g3kpJ8twSXF98n5XDi3Ik1xxLThodfCsXNU4diOCpbG4nz6hAUe0QHZjf9hu7HWh9OGwPts/0twHrhAGDS5Co2nt2CaIhCPyR/EwQlU1ZOo67QM4ZlRNZcIr3aEIW2qaZlhsAov/FtMxq0L9KOziCRFq5eqitaXrCXax/TWNH/yPOf2YLIRKc+fGoBQHLymtAO4RUbXzWaABgFLbJ3aHE=;7LVWmbO2RKWoQ4W4SNtOsg=="
 ---

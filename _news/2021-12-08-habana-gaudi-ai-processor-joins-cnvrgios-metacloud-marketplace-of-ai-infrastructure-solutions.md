@@ -53,6 +53,15 @@ related:
         width: 796
         height: 419
         isCached: true
+  - title: "Habana Gaudi AI Chip Joins cnvrg.io’s Metacloud Marketplace of AI Infrastructure Solutions"
+    excerpt: "SANTA CLARA, Calif., Dec. 8, 2021 — cnvrg.io, an operating system for artificial intelligence (AI) and machine learning (ML) built by data scientists, today announced that Habana’s Gaudi AI Accelerator is available on cnvrg."
+    publishedDateTime: 2021-12-08T22:41:00Z
+    webUrl: "https://insidehpc.com/2021/12/habana-gaudi-ai-chip-joins-cnvrg-ios-metacloud-marketplace-of-ai-infrastructure-solutions/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 24
 
 secured: "c3goVGospewzNJ/cJ4ipPpilnDLctbkwomzSt2YyQnaJcVyHmr/x5JEzggRTY9nQeWElt0WzbDheN28DSTNN9kgeTk6cfybR/R+xHPYwdtX2k88yxlzBemF71F75C7EHdl3oMvTk9wmsh5E+svZPwOmVOOUPS3PilzaoHP7P1OYGO1PpRzKcwjYY86NkJmzEuwMH4V+xvBLPVRqihfCZwOZhjTnuoLUztNbgwI6YxQDEQ/7wB9zQxIA1wW9Q+fl+u6uSxZ7vyc1/0B7LCrWcox1GiO29eA+j34voEe/2UmQG2m7DrE+H9GubP9vRcMDfK5Hbuu4mnFbn6xWwLmKGlQXhLL8KzUCOwLAiTSO1NF7oh04k0LZ1VKxrk1JGcEhT7yNV0AGC3iJMAOm2zFv5jjATdQKF7h1c84BDHNfhqQewuZvKT/Hkr/JlepZLBjsFFSwn1QQdvYaHtADEqK+Z89D0frctG6AiJM4YEmjNXa7CTMora9iFJY0wokO/zvPuIoEWBYdmbgx2UesFqlckMw==;9zcgW87hgl6g338y2AbVbA=="
 ---

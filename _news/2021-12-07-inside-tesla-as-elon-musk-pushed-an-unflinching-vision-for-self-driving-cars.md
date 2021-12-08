@@ -162,6 +162,20 @@ related:
         width: 1600
         height: 792
         isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ promotional videos were faked – report"
+    excerpt: "The electric vehicle manufacturer produced fraudulent advertising material and compromised safety for vehicle aesthetics, former employees have"
+    publishedDateTime: 2021-12-08T22:01:00Z
+    webUrl: "https://www.drive.com.au/news/teslas-full-self-driving-promotional-videos-were-faked-report/"
+    type: article
+    provider:
+      name: Drive.com.au
+      domain: drive.com.au
+    quality: 39
+    images:
+      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/msrtue4f03egr5chq2dt"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Parking space detection for self-driving cars comes to CES 2022"
     excerpt: "Software developer StradVision will showcase its latest software developments including parking space detection features and vision perception for augmented reality applications at the upcoming CES 2022 trade show in Las Vegas."
     publishedDateTime: 2021-12-07T13:31:00Z

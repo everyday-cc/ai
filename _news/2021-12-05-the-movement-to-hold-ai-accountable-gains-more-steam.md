@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-a
 webUrl: "https://arstechnica.com/tech-policy/2021/12/the-movement-to-hold-ai-accountable-gains-more-steam/2/"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 760
     height: 380
     isCached: true
+
+related:
+  - title: "The U.K.’s new AI transparency standard is a step closer to accountable AI"
+    excerpt: "The UK Government launched a new algorithmic transparency standard last week. Here's what it means for people and society."
+    publishedDateTime: 2021-12-08T21:10:00Z
+    webUrl: "https://venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1287119472.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "6BvXvXZyHDyQ2+H1l02wQU8rexwc47B4QzaSZnwL5/UeL0JgKHYcX5XKavzjLP70XX/saud3Y7XXKRnzdwyTxMGx3F34crqrsG+XqvDXvFPS5h9lqzr+0hdn1R30yavB9nXqGKdIobATDiL6Piy+PFeumW53enm3IrgrCHGaix4j3Pq0kfZo+8mu/6pJRkXFJ/NatPLc4PjHZYLGCjRlM0yi7emDw/J1N+eUycRJ/+UgaAXAto7MO66bs8yVWgq19HKYP710AtRC9gavvyk50zqxCc7cfA2VMBvay1RE9oIKuEXL2fmWcki0EnbbGGNrRxO4gHBVZbq1zlyF7TarppTPS84ys2iMH2ShCCKdVVgZXAao5PAM5g2JMQla/fDe7U6w1exs057hq2nfOk021YMQUCvTpXPoLNBHuMAlZjwIwG4bpw0R+7msEsAmJ/V0HHvhna4Ko9M7cAF6xFCNbH2dWJBx3S0+If+AaYY5y86dfutfu8NVlzG7ZdCwFZi5YmNZcmDIR2P0sALnMW5WfA==;8clYPfksxsv+dOR4qtSx9Q=="
 ---

@@ -74,6 +74,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Ann Arbor AI chip startup hires Qualcomm exec as CEO"
+    excerpt: "An Ann Arbor startup founded by two University of Michigan professors aiming to make microchips for artificial intelligence applications has lured a new CEO from among the top executive ranks of chipmaking giant Qualcomm Inc."
+    publishedDateTime: 2021-12-08T18:33:00Z
+    webUrl: "https://www.crainsdetroit.com/technology/ann-arbor-ai-chip-startup-hires-qualcomm-exec-ceo"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/800x600/public/Keith%20Kressin_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Chip shortage to ease next year, says Qualcomm CEO"
     excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the situation is expected to improve next year. According to The Elec website, Amon said that supply has improved this year over 2020 and the situation is expected to further improve in 2022,"
     publishedDateTime: 2021-12-05T11:26:00Z
