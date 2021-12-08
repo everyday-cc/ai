@@ -2,6 +2,49 @@
   "page": 112,
   "value": [
     {
+      "path": "_news/2021-09-15-aws-announces-winners-of-the-apn-awards-2021-in-india.md",
+      "title": "AWS Announces Winners of the APN Awards 2021 in India",
+      "excerpt": "Award winners for 2021 were announced at the AWS Partner Summit Online in India, recognizing the technology leaders playing a key role in helping organisations build solutions on AWS and accelerate innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://technuter.com/tech/aws-announces-winners-of-the-apn-awards-2021-in-india.html",
+      "originalUrl": "https://technuter.com/tech/aws-announces-winners-of-the-apn-awards-2021-in-india.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technuter.com/wp-content/uploads/2019/03/aws-logo.jpg",
+          "width": 277,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technuter.com",
+        "domain": "technuter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-15-easiloan-an-ai-enabled-fintech-platform-for-home-loans-raises-inr-80-million-from-tomorrow-capital.md",
       "title": "Easiloan, an AI-enabled fintech platform for home loans, raises INR 80 million from Tomorrow Capital",
       "excerpt": "Easiloan.com, India's first AI-enabled fintech solution for home loans has raised its maiden round of INR 80 million from Tomorrow Capital. This comes on the back of Easiloan demonstrating strong traction in what are still early days for the business.",
@@ -1005,49 +1048,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-dish-selects-ibm-for-ai-for-5g-network.md",
-      "title": "Dish Selects IBM for AI for 5G Network",
-      "excerpt": "DISH Network Corporation (NYSE:DISH) selected IBM (NYSE:IBM) to help automate the United States’ first greenfield cloud-native 5G network. DISH’s new smart network will be designed to be agile, scalable and fully virtualized,",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecompetitor.com/dish-selects-ibm-for-ai-for-5g-network/",
-      "originalUrl": "https://www.telecompetitor.com/dish-selects-ibm-for-ai-for-5g-network/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telecompetitor.com/images/5g-signal-290x290.jpg",
-          "width": 290,
-          "height": 290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-14T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "OTT",
-        "domain": "telecompetitor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

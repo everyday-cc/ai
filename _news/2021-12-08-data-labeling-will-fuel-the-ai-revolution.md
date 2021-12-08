@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-re
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://theproducenews.com/sites/default/files/styles/fp_slider/public/2021-12/raleys.jpg?h=3ca652f7&itok=SQaNC2UZ"
         width: 635
         height: 355
+        isCached: true
+  - title: "The Myth of Artificial Intelligence"
+    excerpt: "The Age of AI works to take the debate about artificial intelligence off the table by obscuring the relevant technologies and the political economy behind them. Its title alone— The Age of AI: And Our Human Future —declares an epoch and aspires to speak on behalf of everyone."
+    publishedDateTime: 2021-12-08T10:08:00Z
+    webUrl: "https://prospect.org/culture/books/myth-of-artificial-intelligence-kissinger-schmidt-huttenlocher/"
+    type: article
+    provider:
+      name: The American Prospect
+      domain: prospect.org
+    quality: 39
+    images:
+      - url: "https://prospect.org/downloads/17263/download/ND21%20Whittaker-Suchman.jpeg?cb=2453342ee267685544e111e7618379c5&w=1200"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "EDvtTGoyM9PwqtYnoAlTmwpMwDs5dOIJWW+9DySzsxSTK1sMm+vzS0tV2mKfUrR5Wm9R4krSrsZ9b8cGQxhvmG1bs6PVzaygmzkFd1mSNZ8L+3eBWvjnYT/Cb0mW9SmuPacit0EyRpkfWazgqNsk6CvzixtGNzZbKh9KpJW+byczJUZ+1EhjK6QVDyeFSbOOpXD/jxr9XoecBvYDcanhgpOSY2aA9iWpiiNhkGNr6PYEImrWWfwspn3VryiNmaW2QQ7ECsMdExRobQ1nMIKyKfX/AbykJalb6fmlGdQ0sWuDtFd6ginNGP0/G0wqO6bCd2nj3YB4PpJ3qQIiBn8Wpz0Ei4DMr0WkFulfVY5g/qmB4bhgrMu3JavVl+8oOl+8R0nYIq/sFbyag2mFpPEWhPDzcfRSO2/07w3fGxqoRxDIXGoazzRpHe3amf5w+LBIV5GwFvYciTqXCpUNS2tQEGFrhcff/jKZSLl+ZNzFhkm953w0ABRAkgq0BBbVDRBSOCGKHZaoXr8a3KCDUBbbSw==;6Y+RlZi7tCiHdGModvFjMw=="

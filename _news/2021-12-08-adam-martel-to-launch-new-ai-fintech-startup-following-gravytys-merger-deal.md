@@ -44,20 +44,6 @@ related:
         width: 400
         height: 268
         isCached: true
-  - title: "6 Best Identity Theft Protection Services of December 2021"
-    excerpt: "Identity theft protection services can provide the help you need if your data has been compromised. These services monitor your personal information, credit files and the web, alerting you to any suspicious or fraudulent activity."
-    publishedDateTime: 2021-12-03T18:06:00Z
-    webUrl: "https://www.stltoday.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-december-2021/article_c33bf5be-4b4d-56c5-bf23-60f82c8a64f4.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/d/38/d3804c59-fba1-5804-9dd1-6d5acacfb720/61aa718ba7be7.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Numerated Acquires Fintech to Improve Underwriting Process"
     excerpt: "Boston-based Numerated, a financial technology company that provides a business loan origination platform for banks and credit unions, has acquired another local fintech that the company said would help reduce work for lenders using the platform."
     publishedDateTime: 2021-12-07T16:23:00Z

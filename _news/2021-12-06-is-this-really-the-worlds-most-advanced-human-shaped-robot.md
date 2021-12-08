@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/is-this-really-the-worlds-most-advan
 webUrl: "https://analyticsindiamag.com/is-this-really-the-worlds-most-advanced-human-shaped-robot/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "The ‘world’s most advanced,’ realistic robot is here to terrify you"
-    excerpt: "It can smile, routinely blink its eyes, gasp in shock, scratch its nose — or even have a staring contest with an owner, just for the heck of it."
-    publishedDateTime: 2021-12-03T17:28:00Z
-    webUrl: "https://nypost.com/2021/12/03/worlds-most-advanced-realistic-robot-will-terrify-you/"
-    ampWebUrl: "https://nypost.com/2021/12/03/worlds-most-advanced-realistic-robot-will-terrify-you/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/03/worlds-most-advanced-realistic-robot-will-terrify-you/amp/"
+  - title: "Engineered Arts to Unveil New Humanoid Robot at CES 2022"
+    excerpt: "The Ameca humanoid robot combines AI with AB (Artificial Body) for relatable natural human gestures and upgradable modular mechanics via cloud-managed API development tool kit"
+    publishedDateTime: 2021-12-06T13:53:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=17923"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/12/Ameca_06.jpg?quality=90&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 19
 
 secured: "2PZSU041CdNxkqCAgvmGFkxPMVpPowggJuYoDpaN4CaBP2Q0rcWDTo+1FhWXpE9b8TAwZwAyYudoFrlv9pKdnpTK+jDBiz/Fo+TzJKIFsYFlACorTJcM6pt738BF8GJkksMUFpOlp25J1azHCSllqLd45XxtCoBPdw/CgOhZxkNb6EljoTPbHBkMgnbk7dz6iW4dzxC4k145O4079dRDc+lZQcvlMkSP8JDMmV5QgKXG8iegHhF8NNXN9BPyo+8uLTHJngO/q8UdoF7MEp6qob8hYTGd3t1JLMPCCUznzfNgIAzDGo/Rxz52NMWbCgypVt1Q5g5fAz13/KuquVOWIYjqy8AJJBZqcSm3ZiUpAr8=;jHDbzBGs04Syr7Rk4q7h5w=="
 ---

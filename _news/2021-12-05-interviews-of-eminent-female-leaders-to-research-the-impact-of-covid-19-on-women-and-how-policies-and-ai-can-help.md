@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/amp/"
 type: article
 quality: 66
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Cloud Artificial Intelligence Market Analysis, Trends and Forecast, 20212027 | Covid-19 Impact With Competitive Outlook"
-    excerpt: "In January 2017, Google, Inc. launched its Cloud AutoML. It utilizes Google's Cloud Vision application programming interface and Cloud machine learning engine service. AutoML is used by several ..."
-    publishedDateTime: 2021-12-03T17:42:00Z
-    webUrl: "https://menafn.com/1103299571/Cloud-Artificial-Intelligence-Market-Analysis-Trends-and-Forecast-20212027-Covid-19-Impact-With-Competitive-Outlook"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 15
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/03/EP_3c08bimage_story.jpeg"
-        width: 480
-        height: 400
         isCached: true
 
 secured: "esSmYh4O6gmul0vYFwnOmwkgTrgmiO+LbrO6yEvQLl381h3W/zU+WmaMjaag0nZOG7OEAp6W1OKIzE62ZV5y0zWIAV4993igumb7IPVDeAxqHRG2dLPE/w8+mM/nKKZ9oOD5+NJJpNCVcG9kUaLtvDcvNyafmGty+i41553j4bPr9dKGyHt/yHgMXF/yjH4sVqaTH/WNhkzd4tR+tZyPk5T2YQYy/N47hZQ7Z/IxclN1CHeqZTwr859xJn6Ct3keywLo+T50t3cKAulaGaqGuT86in8PiB2q5VlFi2MbrEH1gQIdl+mPODgKsn9V4EosmnxysXjQuLSnJ0IQogKQKcxZyg3CZWMSbO3zcpzVTvIZjwECb/dYzzPVJuytnnqZHvmgkdnfhaQIuQJeNPL3rqi0h5HyF6cgr2pXIqMfdl/NBQ9OF5f4oBEGsgkI0O1Za1rWBe0ck52mb6Jd3DjuMcZWKIrq4Hy6RJFmK8a0IO/k8N+M9pwEiTfz7xSKJ1apYYMQUX2m3VV4d3LsGkbUWw==;k8lKYnJnPxNaSdouaWINNA=="

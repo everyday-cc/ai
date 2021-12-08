@@ -121,20 +121,6 @@ related:
         width: 708
         height: 472
         isCached: true
-  - title: "Neurotechnology Brings Facial Recognition Solution to Web Apps"
-    excerpt: "Neurotechnology has announced a much-improved version of its Face Verification solution featuring enhanced algorithms and support"
-    publishedDateTime: 2021-12-03T17:25:00Z
-    webUrl: "https://mobileidworld.com/neurotechnology-brings-facial-recognition-solution-web-apps-7122101/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/iStock_Face-Feature.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Clearview’s internet-as-facial recognition reference database concept to be granted patent"
     excerpt: "Clearview has received a ‘notice of allowance’ from the USPTO, setting up a grant of the patent once all the associated fees have been paid."
     publishedDateTime: 2021-12-06T16:11:00Z
@@ -159,6 +145,6 @@ related:
       domain: business-humanrights.org
     quality: 12
 
-secured: "CMcwOFdiMXn5wJWMaohWfrcVpBTBVhRWWOy3G5naS9KR0LLzXdIBUYRHWbSmARg+5ondYj78d5TFxqM6u++gjOOPQLG+RSbg9t2QinrluGmLNKWyhHCq1p7zxcViWcpJhpQYTAVYDpS0JlMTxtCbCotTwQl4IUOhSyYlLbqs4MFwSMS0SpbJkvcviOG7SZPFz7D/b/GyBuxcgvWIdRdNJXdUGp/kJlGkkPq/gnj7vM5e41UXxuIdHtbS3Dd6saSEAwTm1l2FWwzbl0WeE8EVQfF3805i2RtgihkRJ/Ih/K54prPwPD8ChlFceWRqvjoUm+LlsOtXUByTRUsZSAIWUOWciAIR6dbPVdpvMsMq33Y=;+Sqtl9+oX6m6a6e3z+omNQ=="
+secured: "ifYoqZD/JcltHbSJ3o9AWkWfQGXjN1B4CWXSC7ieHz7/Um1w7dkg5Tzyk1+DYMhqFfNpnQGwoGiaqR/CKr7zrEP9223aSe8cDioAkRkZf12qx0xHQe1/ZrLzrDHiXHDwWE2nDwsb5ITbh0NVuqXDqhOz3w+cQJmOiSfdRw54A1UNU4k0cDX9ynM4hEw0xCTEiA07SipVmP4CISMMZllbOSf8jHplU/3DC1/M9Cz5UJmEaN/AZQmpOeNDzUkhxZLhGkvTQxPJkph69wPlAXgE5LPvvdTiQGO/BFPGADVyYtNnA2FklaN+8O7hCVDBk4OGPkDgV35Gmh64xWLufXVd7YBTnpxBHAEo3A7PVOPbYPU8nwisgJ3aq1DSSQRbqCclts//PlgbcKFYyM5ZiFRTpvFyNUmvFJ3EySo7+/szJzA9J3eq/PTIRz9j+XEm4iKZ9Y2OoKg1f/fst02hf1hUZUx1PsDyap4zvoLZa2hNl0j5o7WRF0fK1D+MS9dwMHd9Q3mdGL2RbxM6lStnigtB6g==;zV+nR7QV4cQ8Z755JV4M7Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-securi
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/07/travel/biometrics-airports-security.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

@@ -27,7 +27,7 @@ related:
   - title: "Y Combinator and MIT Startup Oda Studio Raises $2.8M for AI-powered Photo Enhancement Solutions"
     excerpt: "Oda Studio, a Y Combinator startup founded by a team of MIT graduates with extensive experience in artificial intelligence (AI), recently announced it raised $2.8 million to make their solution available globally."
     publishedDateTime: 2021-12-08T01:41:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-c2fc0f2aa3cd45b19deb9f084f24fffb"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-c2fc0f2aa3cd45b19deb9f084f24fffb"
     type: article
     provider:
       name: Associated Press

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-07-stellantis-ai-strategy-targets-226b-in-revenues-by-2030.md",
+      "title": "Stellantis’ AI strategy targets $22.6b in revenues by 2030",
+      "excerpt": "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands targeting 20 billion euros ($22.6 billion) in annual revenues",
+      "sourceUrl": null,
+      "webUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/",
+      "originalUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.informnny.com/wp-content/uploads/sites/58/2020/02/cropped-50-512X512-1.png?strip=1",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/",
+      "cdnAmpWebUrl": "https://www-informnny-com.cdn.ampproject.org/c/s/www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/",
+      "publishedDateTime": "2021-12-06T23:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWTI",
+        "domain": "informnny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-supercomputers-in-enterprise-ai.md",
       "title": "Supercomputers in enterprise AI",
       "excerpt": "Forward-thinking enterprises across the globe have recognised that the future of business success will depend on their ability to leverage AI, says Werner Coetzee, business development executive at Data Sciences Corporation.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.itweb.co.za/content/KBpdg7pzLYpqLEew",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1165,48 +1208,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-most-latin-companies-using-ai-have-profited-from-the-technology.md",
-      "title": "Most Latin companies using AI have profited from the technology",
-      "excerpt": "But numbers in the region are still lower than other parts of the world; companies struggle with lack of trust in the technology and insufficient skills, according to research",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/most-latin-companies-using-ai-have-profited-from-the-technology/",
-      "originalUrl": "https://www.zdnet.com/article/most-latin-companies-using-ai-have-profited-from-the-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/most-latin-companies-using-ai-have-profited-from-the-technology/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-latin-companies-using-ai-have-profited-from-the-technology/",
-      "publishedDateTime": "2021-12-06T03:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

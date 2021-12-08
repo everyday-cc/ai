@@ -121,20 +121,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "Neurotechnology Brings Facial Recognition Solution to Web Apps"
-    excerpt: "Neurotechnology has announced a much-improved version of its Face Verification solution featuring enhanced algorithms and support"
-    publishedDateTime: 2021-12-03T17:25:00Z
-    webUrl: "https://mobileidworld.com/neurotechnology-brings-facial-recognition-solution-web-apps-7122101/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 39
-    images:
-      - url: "https://mobileidworld.com/wp-content/uploads/iStock_Face-Feature.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Clearview’s internet-as-facial recognition reference database concept to be granted patent"
     excerpt: "Clearview has received a ‘notice of allowance’ from the USPTO, setting up a grant of the patent once all the associated fees have been paid."
     publishedDateTime: 2021-12-06T16:11:00Z

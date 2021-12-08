@@ -24,17 +24,6 @@ images:
     height: 281
     isCached: true
 
-related:
-  - title: "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone"
-    excerpt: "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), lever"
-    publishedDateTime: 2021-12-03T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20211203005015/en/Yellowfin-Launches-Guided-Natural-Language-Query-Making-True-Self-service-Analytics-Available-to-Everyone"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
-
 secured: "SCLOoq0OSy9P5YE8JVl0ALDLRzkxMcFFOBpVM4pei4Z/pwBURKOFF/gO35LY9cfuVox3I0NrdPyoCXInSJAxBYLADRnZEHzeKnlbQwRohFHUqBWUnaB1h9+swnXrYjK1fcrGrWOJYabhHX3FcPBXPPDTKhXYwkqe1m3dS57ZyikOo0omVRSAGYx2rcW+Z1EkKbm9SbWqZYNBKlBMj6vaDHaS3CTp6ocnkmmJMvW2mxLp2juPH49UiHLbG2lzL6sEdUmAi7PhridAXwUP5jcicGwJ5v9PslWDuj9IQ8S+j21gxNYncXWg3aWY9NcTL1smRFiLlnE3awBUNY0jf7mAM7Ipf0pgnsRBut+BPIaHP2I=;l+iZ41kT7/9HLNutTTwEMA=="
 ---
 

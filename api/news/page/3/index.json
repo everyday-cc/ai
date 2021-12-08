@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-06-most-latin-companies-using-ai-have-profited-from-the-technology.md",
+      "title": "Most Latin companies using AI have profited from the technology",
+      "excerpt": "But numbers in the region are still lower than other parts of the world; companies struggle with lack of trust in the technology and insufficient skills, according to research",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/most-latin-companies-using-ai-have-profited-from-the-technology/",
+      "originalUrl": "https://www.zdnet.com/article/most-latin-companies-using-ai-have-profited-from-the-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/most-latin-companies-using-ai-have-profited-from-the-technology/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-latin-companies-using-ai-have-profited-from-the-technology/",
+      "publishedDateTime": "2021-12-06T03:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-ai-is-making-better-therapists.md",
       "title": "AI is making better therapists",
       "excerpt": "Researchers are using AI to examine the language used by therapists. It could lead to more people getting better, and staying better.",
@@ -494,7 +536,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -580,7 +622,7 @@
       "originalUrl": "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -624,7 +666,7 @@
       "originalUrl": "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -864,7 +906,7 @@
       "originalUrl": "https://www.msn.com/en-us/news/technology/clearview-ai-on-track-to-win-us-patent-for-facial-recognition-technology/ar-AARsODG",
       "featuredContent": null,
       "highlight": null,
-      "heat": 242,
+      "heat": 232,
       "tags": null,
       "images": [
         {
@@ -1137,49 +1179,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-robots-made-from-living-cells-learned-how-to-replicate-themselves.md",
-      "title": "Robots made from living cells learned how to replicate themselves",
-      "excerpt": "Xenobots, which are \"living robots\" made of frog cells, are simple robots that can move autonomously in a petri dish. When scientists added more cells to the dish, the xenobots pushed them together to form new xenobots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598",
-      "originalUrl": "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6272805.1638559444!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/xeno-headline.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6271598",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598",
-      "publishedDateTime": "2021-12-03T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
