@@ -24,22 +24,6 @@ images:
     height: 422
     isCached: true
 
-related:
-  - title: "CEMEX Ventures Names Top 50 ConTech Startups and Startup Competition Winners"
-    excerpt: "Top 50 list includes 2022's most promising solutions from the construction technology ecosystem from around the world."
-    publishedDateTime: 2021-12-03T20:18:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/news/21928309/cemex-ventures-names-top-50-contech-startups-and-startup-competition-winners"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 19
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/12/16x9/Cemex.61aa7b2e45782.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 904
-        height: 507
-        isCached: true
-
 secured: "i1C8Sq9fb+wl3adNIRcqvxG9lUeim6GY5KUmVJpLsCxG1GA2mv9ShstJ2SMteDsiuE4Qa5Cp33Tmo7CFU1EbYaeMAM9SDF2cuhfK5FK6GheO98ieL/Cemvm4zceCPUoIW+LvTc/gSnm9OaZKJO6YC2YmCh16Km/t+QlTLy1F8zZwMKrnxD4bfizeLXGFozNUwz8RxwZS7ErmN0ovi1Jbqd52/uAlEFxWvJQccK768NGwPSFT7FcaCCM9Jzv512ecpEcRQTQ8xfdicnlVMVc0hb/h2kwMm1/Uhtp2ktw0NDkWpDKlmTNXV2vmiCXKDuN929jlD41h0ysDmvxM5o4ApqTxGwGZXsHK6nAgb2NKuco=;HLnUlTtVx5dChJ0qaV1OtQ=="
 ---
 

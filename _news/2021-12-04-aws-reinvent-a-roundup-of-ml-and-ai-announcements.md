@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/amp/"
 type: article
 quality: 123
-heat: -1
-published: false
+heat: 143
+published: true
 
 provider:
   name: Forbes
@@ -33,22 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 12 AI and machine learning announcements at AWS re:Invent 2021"
-    excerpt: "Invent 2021 conference, Amazon announced a slew of new Amazon Web Services features powered by AI and machine learning."
-    publishedDateTime: 2021-12-03T19:30:00Z
-    webUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/"
-    ampWebUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 125
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AWS Re:Invent Wrap-Up: Social Issues, Networking Focus, Partner Revenue"
     excerpt: "Ever the fierce competitor, AWS unveiled plenty of new initiatives in its annual event, and even evinced a budding social awareness."
     publishedDateTime: 2021-12-05T14:36:00Z

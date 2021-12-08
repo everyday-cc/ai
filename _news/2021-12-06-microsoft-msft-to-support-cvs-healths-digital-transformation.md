@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-health
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Nasdaq
@@ -21,21 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "How to take advantage of Microsoft 365's AI meeting Scheduler"
-    excerpt: "Can a computer plan your meetings for you over email? See how Scheduler for Microsoft 365 uses AI to handle this tedious chore."
-    publishedDateTime: 2021-12-03T20:54:00Z
-    webUrl: "https://www.techrepublic.com/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/"
+  - title: "CVS Health (CVS) New Alliance to Boost Digital Transformation"
+    excerpt: "CVS Health's (CVS) collaboration with Microsoft will accelerate digital transformation and empower employees to provide more customized and affordable care."
+    publishedDateTime: 2021-12-07T14:01:00Z
+    webUrl: "https://www.entrepreneur.com/article/401170"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 104
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/12/03/62a79d85-7901-4b4a-a2dd-d91b0ee8db8c/resize/1200x/ee03377875167bd67e3d988e0d938258/shutterstock-1680627343.jpg"
-        width: 1200
-        height: 800
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-401170.jpeg"
+        width: 635
+        height: 400
         isCached: true
   - title: "CVS Health and Microsoft agree new strategic alliance"
     excerpt: "Healthcare provider CVS Health and Microsoft have agreed a new strategic alliance to develop new healthcare solutions and provide 300,000 CVS Health employees with tools to serve over one million customers."

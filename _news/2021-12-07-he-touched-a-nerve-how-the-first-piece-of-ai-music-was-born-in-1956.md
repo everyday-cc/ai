@@ -2,9 +2,9 @@
 category: news
 title: "‘He touched a nerve’: how the first piece of AI music was born in 1956"
 excerpt: "Long before Auto-Tune and deepfake compositions, university professor Lejaren Hiller premiered a concert recital composed by a computer and became an overnight celebrity"
-publishedDateTime: 2021-12-07T11:33:00Z
-originalUrl: "https://www.theguardian.com/music/2021/dec/07/he-touched-a-nerve-how-the-first-piece-of-ai-music-was-born-in-1956"
-webUrl: "https://www.theguardian.com/music/2021/dec/07/he-touched-a-nerve-how-the-first-piece-of-ai-music-was-born-in-1956"
+publishedDateTime: 2021-12-07T14:13:00Z
+originalUrl: "https://www.theguardian.com/music/2021/dec/07/he-touched-a-nerve-how-the-first-piece-of-ai-music-was-born-in-1956?curator=MusicREDEF"
+webUrl: "https://www.theguardian.com/music/2021/dec/07/he-touched-a-nerve-how-the-first-piece-of-ai-music-was-born-in-1956?curator=MusicREDEF"
 ampWebUrl: "https://amp.theguardian.com/music/2021/dec/07/he-touched-a-nerve-how-the-first-piece-of-ai-music-was-born-in-1956"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2021/dec/07/he-touched-a-nerve-how-the-first-piece-of-ai-music-was-born-in-1956"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "CkgmRsdemBLQq/gAwK5WtKoMCqOY7fVC3770AC9RGl9fdxbWF0Bjv2Lel+VWRxe/7LNMaypC7mgUS2Yjs9VbxiY6tq8PblfcbpV+yFgI1bDEnA6c3i2CxzNgOA7sKlMtaSadQJ6FiEDVvkg91aSglRc+t7tsvGimrTf7hw44JYrUb01Gt4b2A5Eg3H1lS5QB5/iA20mk4uoUvYApJHL2j16kEPJhLFBeXJtAjE3dkEHlNWPFg9aqRuD9pSO2ycMegUd5r4lBuY9WPdCumYoZWUfv8z9QUQrNgoCzW3Xrd1VIt4OP1S68WxOJnbg1ROj3cXfH6LkRWaLl633CcuhDL2+o8xAeTMoyZk4yETT2eTjgwrSlyMFFDoez8PxYaQmui3Q/2HwEJkLv0WG7Wp+tyEqW0VqxRqgqFFeVSJAyk+2tyvAI9dPSE8fJO0N2vMxQxb0VQGana/YSaYo1h7Xu7PtwQxq2CBQb9K6qXIe9IeXEokPOIFEORF29xJ1GiwykoiGiuO+oEcJzepGm3gUhVQ==;EMy3p65xb8xBnvy+hZexxg=="
+secured: "SxutRVJKqA/23byOZ//lMhLMXyofFEzc/88T5myVrfSg4TAnTGwaEJW4Jyg9tSFMCyPY++iHN4wxO1gXqncKy57+WeGunDpqzZMlANv8BHfrFSZbtw25W1/qvvt6o5FgXMWzaBUxQaAUJekf9qqe8kgCypc5lZPTM4NDrT1KRf4e1e5pkWsudp2LOo6bpGcTa5pTziuzcdp8NU2PKvEuXGWNOy0NgGjq59MsoOvKpyClAZeAvAFsaX46tSfAQwB24CweNb4NXgCRxD3nlGp2fZdHtdoXqTdm15tVS3toUPeNP0aMlo96YeEHEesCrWQeYP/P0vME06E8qSb5ZTASpFvM3F0qRM856o1Gtbxib34=;1oeD+KyYtWucTM5R+vyw8A=="
 ---
 

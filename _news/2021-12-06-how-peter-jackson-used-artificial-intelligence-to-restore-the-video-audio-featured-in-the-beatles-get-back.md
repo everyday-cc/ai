@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Peter Jackson Details How ‘Get Back’ Used Machine Learning to Restore the Beatles’ Sound and Footage (EXCLUSIVE)"
-    excerpt: "There were several hurdles Peter Jackson’s “Get Back” had to mount before the eight-hour documentary could premiere on Disney Plus, including persuading the surviving members of"
-    publishedDateTime: 2021-12-03T20:02:00Z
-    webUrl: "https://variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/"
-    ampWebUrl: "https://variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 53
-    images:
-      - url: "https://variety.com/wp-content/uploads/2021/12/Get-Back-Beatles-Footage-And-Sound.jpg?w=1024"
-        width: 1024
-        height: 563
-        isCached: true
   - title: "The Beatles: Get Back Used High-Tech Machine Learning To Restore The Audio"
     excerpt: "Get Back\" on Disney+, director Peter Jackson has delivered audio and footage from The Beatles that's higher quality than anything we've seen or heard before. In an interview with Variety, Jackson explained how they"
     publishedDateTime: 2021-12-04T21:16:00Z

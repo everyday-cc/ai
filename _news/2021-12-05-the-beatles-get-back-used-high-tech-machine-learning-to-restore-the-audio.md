@@ -7,7 +7,7 @@ originalUrl: "https://www.imdb.com/news/ni63481105"
 webUrl: "https://www.imdb.com/news/ni63481105"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Peter Jackson Details How ‘Get Back’ Used Machine Learning to Restore the Beatles’ Sound and Footage (EXCLUSIVE)"
-    excerpt: "There were several hurdles Peter Jackson’s “Get Back” had to mount before the eight-hour documentary could premiere on Disney Plus, including persuading the surviving members of"
-    publishedDateTime: 2021-12-03T20:02:00Z
-    webUrl: "https://variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/"
-    ampWebUrl: "https://variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 53
-    images:
-      - url: "https://variety.com/wp-content/uploads/2021/12/Get-Back-Beatles-Footage-And-Sound.jpg?w=1024"
-        width: 1024
-        height: 563
-        isCached: true
   - title: "How Peter Jackson Used Artificial Intelligence to Restore the Video & Audio Featured in The Beatles: Get Back"
     excerpt: "Much has been made in recent years of the 'de-aging' processes that allow actors to credibly play characters far younger than themselves. But it has also become possible to de-age film itself, as demonstrated by Peter Jackson's celebrated new docu-series The Beatles: Get Back."
     publishedDateTime: 2021-12-06T09:00:00Z

@@ -36,6 +36,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "How can banks still thrive as fintech meets 5G?"
+    excerpt: "Digital banking in Thailand has taken a big leap forward in recent years. According to McKinsey’s new Personal Financial Services 2021 survey, which covers approximately 20,000 urban banked respondents in 15 Asia-Pacific markets,"
+    publishedDateTime: 2021-12-08T11:45:00Z
+    webUrl: "https://www.bangkokpost.com/business/2228723/how-can-banks-still-thrive-as-fintech-meets-5g-"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 39
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20211208/c1_2228723_211208184552_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
   - title: "Numerated Acquires Fintech to Improve Underwriting Process"
     excerpt: "Boston-based Numerated, a financial technology company that provides a business loan origination platform for banks and credit unions, has acquired another local fintech that the company said would help reduce work for lenders using the platform."
     publishedDateTime: 2021-12-07T16:23:00Z

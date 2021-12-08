@@ -7,7 +7,7 @@ originalUrl: "https://www.softwaretestingnews.co.uk/cdei-published-the-roadmap-t
 webUrl: "https://www.softwaretestingnews.co.uk/cdei-published-the-roadmap-to-an-ai-assurance-ecosystem/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 640
     height: 962
     isCached: true
+
+related:
+  - title: "UK government sets out AI standards roadmap"
+    excerpt: "The UK’s Centre for Data Ethics and Innovation (CDEI) has published a roadmap for building an “assurance ecosystem” for artificial intelligence (AI)."
+    publishedDateTime: 2021-12-08T12:04:00Z
+    webUrl: "https://www.research-live.com/article/news/uk-government-sets-out-ai-standards-roadmap/id/5093242"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5093242&name=uk-government-sets-out-ai-standards-roadmap"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5093242&name=uk-government-sets-out-ai-standards-roadmap"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 59
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
+        isCached: true
+  - title: "The steps required for the UK’s AI assurance ecosystem"
+    excerpt: "The CDEI has established the steps essential to building the UK’s AI assurance ecosystem, ensuring the effectiveness and compliance of AI"
+    publishedDateTime: 2021-12-08T11:35:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-assurance-ecosystem/125677/"
+    type: article
+    provider:
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 39
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/12/dreamstime_m_137582267-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "E85Axpaz8q+5sbqM1di2qKi3UXAe/Fu05nAlKxh1AnhBqtCv5Pax7c64dVkUYOUj+aXv4mdSx6SdotM1p0QGubNvhV6A7hY+qY2mvbxVoLQjYxnQYNM7jMlRy9NRtfe7mXnTgBQQidItts3IqONdYMcqsUGQt3pRfWIdBvRI0Q0a5TG/DvtUmn8jix72REgxhKREUqH2m4jibKKQhpQeYX6xVJMyfXnk9ugsWtlRPn/wdQeBJiZc4rEh4Ez3WbmBPL/1IjPEaMT4YwCX/kEh2mZ5vBWV9w7SrU/p9Jdy9MwSn2hMn3evk1a1+Tl9vrA3gCrNVH0SxJDWNK1QFr4n3n5ABPuaGPYOcJHK192FVjg=;OSpik45ZUMsmjECAAZOM0w=="
 ---

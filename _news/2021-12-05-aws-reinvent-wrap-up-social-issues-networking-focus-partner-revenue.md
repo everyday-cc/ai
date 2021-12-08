@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 12 AI and machine learning announcements at AWS re:Invent 2021"
-    excerpt: "Invent 2021 conference, Amazon announced a slew of new Amazon Web Services features powered by AI and machine learning."
-    publishedDateTime: 2021-12-03T19:30:00Z
-    webUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/"
-    ampWebUrl: "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 125
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "AWS Re:Invent - A Roundup Of ML And AI Announcements"
     excerpt: "Invent 2021, Amazon announced updates to machine learning and artificial intelligence product portfolio. Here is a quick summary and analysis of all the related announcements. Amazon SageMaker ML platform got a new no-code option to train models."
     publishedDateTime: 2021-12-04T00:22:00Z
