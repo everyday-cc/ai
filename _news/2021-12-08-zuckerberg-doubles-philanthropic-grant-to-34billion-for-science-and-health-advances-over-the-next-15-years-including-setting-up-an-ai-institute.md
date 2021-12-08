@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-10286671/amp/Zuckerberg-Cha
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10286671/amp/Zuckerberg-Chan-invest-3-4B-science-advances.html"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Zuckerberg And Chan Pledge $500 Million Of Their Facebook Fortune To Create An AI Institute At Harvard"
+    excerpt: "Zuckerberg and Chan, who met at a Harvard fraternity party in 2003, have already given $42 million to Harvard."
+    publishedDateTime: 2021-12-08T15:54:00Z
+    webUrl: "https://www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/"
+    ampWebUrl: "https://www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 73
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b0e1baf0550134f0c07bcd%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Chan Zuckerberg Initiative Pledges $500 Million for Institute for the Study of Natural and Artificial Intelligence at SEAS"
     excerpt: "Mark Zuckerberg and Priscilla Chan ’07 have pledged to spend $500 million dollars over the next 15 years to found the Kempner Institute for the Study of Natural and Artificial Intelligence at the School of Engineering and Applied Sciences,"
     publishedDateTime: 2021-12-08T03:52:00Z

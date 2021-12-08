@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Those Sordid Follow-Home Robberies To First Rise And Then Thankfully Decline During The Coming Era Of AI Self-Driving Cars"
+    excerpt: "Follow-home robberies are in the news quite a bit. For the coming era of AI self-driving cars, such criminal acts will at first be emboldened and then later be generally overcome as driverless cars become widespread."
+    publishedDateTime: 2021-12-08T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aefa7a83c2df708b6c19fd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2441%26cropY1%3D61%26cropY2%3D1435"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Ironic Need To Make Sure That Self-Driving Cars Look Like Self-Driving Cars, At Least For The Time Being"
     excerpt: "Self-driving cars might end-up looking like conventional cars, while conventional cars will look like self-driving cars, which could be troubling from a distinctive appearance consideration."
     publishedDateTime: 2021-12-05T15:30:00Z
@@ -45,33 +61,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Contenders in self-driving trucking"
-    excerpt: "As the year nears a close, the self-driving truck industry is gaining momentum. Many companies notched major technical and business-related milestones in recent months. Here's a look at what each company has done in 2021,"
-    publishedDateTime: 2021-12-06T04:00:00Z
-    webUrl: "https://www.autonews.com/shift/contenders-self-driving-trucking"
+  - title: "Beyond Expo | Self-flying cars are closer to being realized than self-driving cars: Geely executive"
+    excerpt: "Despite regulatory barriers and ethical issues, self-flying cars are likely to be ready before autonomous road vehicles, Guo Liang, chief executive of Geely-owned Aerofugia said at the Beyond Expo event held in Macau on Dec. 3. The movements of unmanned ..."
+    publishedDateTime: 2021-12-08T12:18:00Z
+    webUrl: "https://technode.com/2021/12/08/beyond-expo-self-flying-cars-are-closer-to-being-realized-than-self-driving-cars-geely-executive/"
+    ampWebUrl: "https://technode.com/2021/12/08/beyond-expo-self-flying-cars-are-closer-to-being-realized-than-self-driving-cars-geely-executive/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/08/beyond-expo-self-flying-cars-are-closer-to-being-realized-than-self-driving-cars-geely-executive/"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
+      name: TechNode
+      domain: technode.com
+    quality: 30
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AURORA-MAIN_i_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Self-Driving Coalition for Safer Streets: Framework needed for automated trucking"
-    excerpt: "Coalition general counsel Ariel Wolf says federal guidelines are needed to expand self-driving truck testing and deployment options."
-    publishedDateTime: 2021-12-06T04:00:00Z
-    webUrl: "https://www.autonews.com/shift/self-driving-coalition-safer-streets-framework-needed-automated-trucking"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TRUCKS-MAIN_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://technode.com/wp-content/uploads/2021/12/tt.jpeg"
+        width: 1600
+        height: 1066
         isCached: true
 
 secured: "y6CoQYQ91e9yqBjBshlklBaoKHXNG9NFkmKihnD9a+yf7YG/h93m6nFKL2u1V+NZs1nzdmtqnBkG7ezew3uSqLX2RvBJG4rS2DFtkzLB+Rnvce6EBVavmGZAmkuIPKQQwCEjA6L77J3E9Fz0c34ewOFEY/0LOOgWXJrPXhu2/lWuiHYhCL1/KiIhMxosunDOxbyPiROBG7wAmkA/B+5g9hrv4njUxv9wsv46nz4GgdK2YI6Rc6yUWrIhPer4PpI/WxIhd6xD9atwiEVkqVeQawpCdfQGoTWveJiTB7NJk8/RHruF4Mdx/WNlSYOI+Ipdlp2dRxGKTWmLjfN3spAWuAd+jH6Qq06iAhhjoPOUw0A=;/kNjMZeDGD2t/GVVhityzg=="

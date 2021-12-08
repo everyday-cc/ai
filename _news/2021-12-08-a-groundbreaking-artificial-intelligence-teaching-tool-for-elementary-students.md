@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-08T14:05:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-groundbreaking-artificial-intelligence-teaching-tool-elementary-students-/2021/12/08/9507351.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-groundbreaking-artificial-intelligence-teaching-tool-elementary-students-/2021/12/08/9507351.htm"
 type: article
-quality: 15
-heat: 15
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 secured: "ZFKJRv/AQRhx7hO0MOvvyqnUCD/XKuQtQbc2yAbWGYRkmDQ54rWE4XMcXtJn27pj7GS8/uvAasV5CdpbwHMvdaYnJXVBTrHDTViuuXH32i+2OrNLE9v1wxXTD1SOhTM5z/4up3XlTmtyvLyFTd/O2nIiLRD3URP9MYjzfNekKaWLO3CHuU0wxzdwcAQ+tWFWAWpeo6YI93PnhXMCgTWTQGkfqs8Huqc3sFgiMfqrOTU9rleNfkvG/creVZJvWOdbpijPQFEcsgFrAtNllVH47f4rnoWygaA9sikalCP+2XGR4cLWLgLoPKrmZY9+MF4dz4jkHCiPppvyTsHN2oMN0HW3xp+d52U28Kvp/Cb0ZgI=;uQSd9C15V5HDLzsTVNQBBA=="
 ---

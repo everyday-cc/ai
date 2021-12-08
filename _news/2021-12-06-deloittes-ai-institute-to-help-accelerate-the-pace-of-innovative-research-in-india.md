@@ -34,7 +34,7 @@ related:
     provider:
       name: Harvard Medical School
       domain: harvard.edu
-    quality: 137
+    quality: 139
     images:
       - url: "https://news.harvard.edu/wp-content/uploads/2021/11/AI_Social-1200x630.jpg"
         width: 1200

@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "NewtonX raises $32M for AI that connects customers with subject-matter experts"
+    excerpt: "NewtonX, a startup developing graph technology that connects experts with companies seeking answers to questions, has raised $32 million."
+    publishedDateTime: 2021-12-08T15:00:00Z
+    webUrl: "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/"
+    ampWebUrl: "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 83
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Saving Lives With Artificial Intelligence"
     excerpt: "A new technology developed at Tel Aviv University will make it possible, using artificial intelligence, to identify patients who are at risk of serious"
     publishedDateTime: 2021-12-07T11:59:00Z

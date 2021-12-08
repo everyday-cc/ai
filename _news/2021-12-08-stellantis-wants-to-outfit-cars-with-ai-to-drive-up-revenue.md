@@ -2,22 +2,21 @@
 category: news
 title: "Stellantis wants to outfit cars with AI to drive up revenue"
 excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
-publishedDateTime: 2021-12-08T00:50:00Z
-originalUrl: "https://www.ourmidland.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-webUrl: "https://www.ourmidland.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-ampWebUrl: "https://www.ourmidland.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+publishedDateTime: 2021-12-07T23:34:00Z
+originalUrl: "https://www.chron.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+webUrl: "https://www.chron.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+ampWebUrl: "https://www.chron.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Our Midland MI
-  domain: ourmidland.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -158,6 +157,6 @@ related:
         height: 600
         isCached: true
 
-secured: "rBXHupLqqi3nF8JJQLdEmpqF3W2FC/WpN5e0v+FLMwo2fI5Pe78uSCWHD5gPPiIozj/KVwurnp2LpgmlRmsE/+LQ8BsI9Ci6uloPnOPkXKz17miwVXg4qB8cBXO9CvOIGGjMFot3BsjASgGYV0AgLvkK5k+kZc+2fGHU0si8O3dCzoedmtCl6oilPYnNMT/vdzoykkyAxz5wChlSA9PDk2lAAMwW/TjuEzTFMqtzbLvZzqaz2cSzYIGy82RrZ0YjzPuXXwcIfT/C433Qlf1J+QwiK0oV4tKe+ZNCtSWuCxjvZQzxL7g0x107BnG2vKijkzNshFGjmcTwS/5wd2JIfb82u65jrm5AL7Zf+tdGdL8=;SAXNb+c3GboIKwWqGddWHA=="
+secured: "PEfqqusag3YeyAkaG6EyxgAejLJjPy6Ywfosm1d5oxZmM2Zka0Erp5cZfK/9FNBH4Mbuje2mfIbyJlq2n0djfWD/DCOSfx75NWc7SzcZv/JbU6j7HgTesv6XCoerNG0dcAjWlapLOYzVFEW4gWydiU00ExyaG8Pup5BJNbO7FoDaQeLpSx54CkeGjWQ3zgmCjtZvfZH6mCI9WJ7v3iZyKG5PUqT22WlSLD+7pfTKeW7eT99xiem9nkMETAJUBEH3TPiK9Y2e8JAZJmHBLjMvCbPZcxOVakbDfoqKd5M3Lih/Gk0Z4ebBrw20nEfc2fqd00gm51IDZCEovIPTkPva9FmSczWXzDk2K4NI1QyTOqw=;Av2Xsw/21oWc6nMY2Xm1NQ=="
 ---
 

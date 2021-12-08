@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/markets/funds/ai-video-avatar-platform-syn
 webUrl: "https://www.reuters.com/markets/funds/ai-video-avatar-platform-synthesia-raises-50-mln-venture-capital-2021-12-08/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Video Platform Synthesia Raises $50 Million In Series B"
+    excerpt: "AI video platform Synthesia (cofounded by Under 30 honorees) which allows users to quickly make videos using software as opposed to using traditional video production equipment, announced today that it has raised $50 million in a Series B round led by Kleiner Perkins."
+    publishedDateTime: 2021-12-08T14:38:00Z
+    webUrl: "https://www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-platform-synthesia-raises-50-million-in-series-b/"
+    ampWebUrl: "https://www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-platform-synthesia-raises-50-million-in-series-b/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-platform-synthesia-raises-50-million-in-series-b/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b0ceadfcf8cdaf3e238cfe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3023%26cropY1%3D147%26cropY2%3D1849"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "AI Video Avatar Platform Synthesia Raises $50 Million in Venture Capital"
     excerpt: "Synthesia, a London-based artificial intelligence startup that creates video avatars of real people, said on Wednesday it raised $50 million from Silicon Valley venture capital firm Kleiner Perkins and GV,"
     publishedDateTime: 2021-12-08T14:09:00Z
@@ -52,6 +68,6 @@ related:
         height: 400
         isCached: true
 
-secured: "BKOdxVX5KUoomMgA2gJoZRSDvuhOyfOddteRUam0Z6JbITvWE3B7W0hyFKYMHgkFaueZl34fKOcUdDcQBe1ZtYKXF3+u0Ww5Vs1O8OnEb7/pM3G0aH3tD7yIOkU/Ew3DXghlnE2/DCMAamOK+42er9NW7QOIeTtoeg0HR9ydmKAYOO3fl4Q/qBYtx1Tq/QrQatAMSRcmAXHrMLiIksnRpqbdDSFqdjZuwLgXwrhMfuvCKG8ym5i+LLFj8f5TH7m4rRrEViV4BHtvpj9xyU1zR5kMKKZCFdxoPBw7VoigTgHy9KuHKQTmaAz+wWkOEaZGNOWgRio90QqnCZ+RWGElYRLNz7wSRkhFxwS/nVgHUPg=;VAR3PMej0oi+zFKnuCf2dA=="
+secured: "wu5yRhQYGLH5huHB0QO+X0SOKZExKS5f+CQ3NO07ZoE9jIFjK+wBfpFZaPUY9Rbigz5Yd/Ba+GL6rVgZqVqcrOTRdRIFOV4fWjGqqaTHRzoDH/8xJQDIrxGSZYaCLs0ZjqdQmxytA1m3cdnBsT0Ro1RAqPP0e3i9R8GISAS+kwFX77SVHtXXtkpjtozpsrxE1jP+KSLKlo/LB7qOWwlEkVeCM1gb0sc1/FWV/4eiayOHpGMiQ1r7waCJbHtCqZ3HcW+RLGNoDG9Dy3C+CqeTj9xG9rKXc7NqE7Nbeur6EzSTCMTveF6OaE99pFVne0NvU4ER/Ot+5tVYEZ4dsAClXMg2LAvEgJ2+WBMP9C0IIXJVB9UtQbA8bpb6Xmrf7uRuWepTjGYFuwP3z39y0Y5qvJ3iq07D7J2q1rDnj/WJx6cq7rWyb5KLBdv4EVt0FByk1+gjeMWaJVbiaVPUHNOw7hjw6F1lDVaP3d2BvrDmMSe+wR2sUZVBa3f9Exf9ksg2LKIrjUXk1nRvjuOjJmydlA==;MxIcMsLnOfmur6OuTL2dNA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/jpin-announces-stra
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/amp_articleshow/88162825.cms"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2020/03/Telangana-Today-News-1.jpg"
         width: 750
         height: 415
+        isCached: true
+  - title: "SCALE AI announces its largest financing round of 2021 with twelve projects and $71 million in investments in artificial intelligence"
+    excerpt: "With twelve projects representing a total of $71 million in investments announced today by SCALE AI, the Artificial Intelligence (AI) integration movement is continuing its rapid growth in Canada. From the supply chain for aviation parts"
+    publishedDateTime: 2021-12-08T15:26:00Z
+    webUrl: "https://www.lelezard.com/en/news-20147008.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 23
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
         isCached: true
 
 secured: "lfdRT3csSd3p2oWpErKFAhMDvDt7RLdfI2KDliIpeIeSMuzxsbqd2rMZKteDbjrvqhQykIzLUkwlPvTOrH2A5TvlP9URYEco+2N5Wu1yOK/09k9/uUBMIbDqaaQifNab+lGQnQD27gIh30jFWvfgKOx3uqly+iq+YUZxmxySlUDkyXB0DFduvAKFCCE7KDL9fZb2HJtwaObbYNXHWwvn0qHmfx+edfH1+vrBootst7bX1odWlHkf/oCAghZr5ujFl5xp0Cc26uKwvY0qwfJthYf/+MCRe2y3yWTUQWdcHinavCxnqgBqb9UlHNGQwIyo0qvKhmJwHaRTSgQSzOrblAeMShCubq/apRp1Xukj9UN94SrdJIpQlnpjtC808dqF+EJBJaR1SYjgmQrofTU+W++tY0kt+ka7ZAQ6HdTSIRkOhx/+6cP8ZOIHAXrXFJVX927MhprhNeEIHuXNzV/4kQHSTvHuRSUGDR7fX+so4/uOvxkKxPC53hW+rN5eE4Kfo0JhuhOqnwVYqQQly0cpVw==;ArUuTCk3I+EKy/7Bi9vtCA=="

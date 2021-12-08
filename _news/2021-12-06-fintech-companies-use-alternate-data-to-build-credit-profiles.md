@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SCALE AI announces its largest financing round of 2021 with twelve projects and $71 million in investments in artificial intelligence"
+    excerpt: "With twelve projects representing a total of $71 million in investments announced today by SCALE AI, the Artificial Intelligence (AI) integration movement is continuing its rapid growth in Canada. From the supply chain for aviation parts"
+    publishedDateTime: 2021-12-08T15:26:00Z
+    webUrl: "https://www.lelezard.com/en/news-20147008.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 23
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/covid-19.jpg"
+        width: 421
+        height: 421
+        isCached: true
 
 secured: "5LlCwHJstVNTMuFhJrCqcr50839QyvK4N1I/y1CJ4jMYwJOf+6j3399YAZQhJiziV4qQwHbDt970L3W6UtvWY8BWEhBvQXj6xBv73cbsdP8V81RFo3xrkj1+BqvtV0Vp/eOlRQOo0jy8gaya+jojoBhJzs2Z8T7Qwzh5ad1yLuVORPoYyKDJn1LCXkaKEriP7Tt+hMUGzN+nvfj2iDx9aUokgtPHusaH1pp/JYztk4KUv6P5rAFmKQMBirOie9p/4vhndXS6VX+EthSgslW6DDKFOh9CZZneU89zsoFaRIFVfhZFrqZC13W1Vu4o+f3XwXWSrsaC/fln8lMPKDVezpc6Oad1lcEdML8Y7EfRyaQC2Wo7Qd15jZCVOMX0N/kykSNFvy6RJkOjqv/aiws2OQkvsKGh6oiHpRVkCUo6HHJWWhfxP4nfcLyCyQOs6sQI7trxChq772Dz+s1OryB4evkEptv/SVcQ8txGT2tpyTn8Sn4mwKPIBrg78J80lvemwDe5Vqm+njHbbxqU/TQ0TQ==;bA6gvKOVYgH1l2m5y5wGMg=="
 ---

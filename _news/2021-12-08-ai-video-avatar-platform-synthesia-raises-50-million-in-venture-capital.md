@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "AI Video Platform Synthesia Raises $50 Million In Series B"
+    excerpt: "AI video platform Synthesia (cofounded by Under 30 honorees) which allows users to quickly make videos using software as opposed to using traditional video production equipment, announced today that it has raised $50 million in a Series B round led by Kleiner Perkins."
+    publishedDateTime: 2021-12-08T14:38:00Z
+    webUrl: "https://www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-platform-synthesia-raises-50-million-in-series-b/"
+    ampWebUrl: "https://www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-platform-synthesia-raises-50-million-in-series-b/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-platform-synthesia-raises-50-million-in-series-b/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b0ceadfcf8cdaf3e238cfe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3023%26cropY1%3D147%26cropY2%3D1849"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "AI video avatar platform Synthesia raises $50 mln in venture capital"
     excerpt: "Synthesia, a London-based artificial intelligence startup that creates video avatars of real people, said on Wednesday it raised $50 million from Silicon Valley venture capital firm Kleiner Perkins and GV,"
     publishedDateTime: 2021-12-08T13:09:00Z

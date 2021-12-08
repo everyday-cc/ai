@@ -1,29 +1,31 @@
 ---
 category: news
-title: "No animals harmed in new chip drug tests that are faster and cheaper"
-excerpt: "And that’s why some of the most impressive minds in science are behind Israeli startup Quris, which is rolling out the world’s first clinical-prediction AI (artificial intelligence) platform to evaluate the safety and efficacy of new drugs."
-publishedDateTime: 2021-12-08T08:06:00Z
-originalUrl: "https://www.israel21c.org/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/"
-webUrl: "https://www.israel21c.org/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/"
+title: "No Animals Harmed In New Chip Drug Tests That Are Faster And Cheaper"
+excerpt: "By Abigail Klein Leichman Billions of dollars, hundreds of mice and decades are sacrificed to research and development for the average pharmaceutical —"
+publishedDateTime: 2021-12-08T13:52:00Z
+originalUrl: "https://vidanewspaper.com/2021/12/08/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/"
+webUrl: "https://vidanewspaper.com/2021/12/08/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/"
+ampWebUrl: "https://vidanewspaper.com/2021/12/08/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/?amp"
+cdnAmpWebUrl: "https://vidanewspaper-com.cdn.ampproject.org/c/s/vidanewspaper.com/2021/12/08/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/?amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Israel21c
-  domain: israel21c.org
+  name: Vida
+  domain: vidanewspaper.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.israel21c.org/wp-content/uploads/2021/11/quris_ChipOnChip-main.jpg"
-    width: 1600
-    height: 900
+  - url: "https://vidanewspaper.com/wp-content/uploads/2021/12/1604f0f0-8ede-406a-8653-20b4dcd0d40e.jpg"
+    width: 1000
+    height: 543
     isCached: true
 
-secured: "Cl65XIkcQMK8/dI9kIaXHQokuLMWOyYQBWR0N5nYvnqVQnlTdYqqJiXXuQ8Wv8DTczh/tq/RXivGC6vG3i2zNBl9cjCjYVFoD2BED2TdTBd05segv9YK3F42hul/2S3Ha28nh+CgOoum7xydQ4Yon+wQ83JrIuv/uQh9N4t1wmfMNkUugxivpfjQFyBCBpl5uDi6JQglCmGnX+7DiwGOOOVbI5Lv0qhN1+hzysNVk/KAWVOTw4NQwK/LSMxl6NmT3BqKXKBguQo9qFfKkTn7wL0xaTw3ZR++J93LwQ1HRznWzkH82AX9qzSaK7r1AjsO13hD2dylnAYwKi9Wr9PulVihP/EaIfgZlhg4qxtg1zB5kk/34PT+/qPZaC8e97lYT+tMvulYl4GBdVNxSpfMQPjegIxvZctlUp0JdIx5vnlUBKYlH0yv8PS3GDRvn6HWCxHIXxFLdrds07vSpxlZYYpSqyOy92MZtcTVSWCQGz5qHmZyAjd5Rrqo7Dc0EemjRKJnqU53TwrD6efm6JsKvA==;wwXWXNYd7HduvkBdlKpGQA=="
+secured: "GGe91nvr77H3Hk/RXPayg5z/OaduclxveQrcCenXtqg0W5G8wrTkulShA81yl5EqMjbJgah0GMqV5d8PZevywtD9wxNchyVZqeXQE42QuFWoCi6Gr9TvcLHKvxAy/LpK0XEQ9Q6PHWk4JZvrJalrZhTrUbVHWYxMpzrawssMMLtH3n4KHToY5ZgmJWQOPjpG2J2hPC4OAA9zVfNRj5784HN6/xxzfFdve/HpzdiO/mXpCejpGxpHpiT27SPa49PU61QALoIgguiysQn8JQbhoOVGOoItkk2UUXZY/nd5lnesXo0oRSpcMqbpfGubmBqcUDpWOdAIIIMmiQF5WrN8HOzZ2p3MoYohdh1CO6Y0upk=;32Is3jPi8mDnjvqfLrEAcg=="
 ---
 

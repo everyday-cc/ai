@@ -35,11 +35,25 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=60"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Qualcomm's AI chip chief leaves company to take top job at startup"
+    excerpt: "Kressin told Reuters he left Qualcomm, which is nearly tied with Intel Corp for the tile of second-largest U.S. chip firm by market capitalization, for MemryX, which has only 30 e"
+    publishedDateTime: 2021-12-08T15:29:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/qualcomms-ai-chip-chief-leaves-company-to-take-top-job-at-startup/articleshow/88170760.cms"
+    type: article
+    provider:
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 54
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-88170760,imgsize-18838,width-800/88170760.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO"
     excerpt: "MemryX Inc., a pioneering startup building breakthrough silicon for artificial intelligence processing, has appointed semiconductor industry veteran Keith Kressin as its new president and chief executive officer."

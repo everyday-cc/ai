@@ -34,6 +34,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 81
+  - title: "DeepMind experiment shows AI must grow smarter, not just bigger"
+    excerpt: "The dominant approach to building more advanced artificial intelligences is simply to scale up their computing power, but AI firm DeepMind says we are reaching a point of diminishing returns"
+    publishedDateTime: 2021-12-08T16:00:00Z
+    webUrl: "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/"
+    ampWebUrl: "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/"
+    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 74
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/12/08141652/PRI_214101935.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How DeepMind’s AI Helped Crack Two Mathematical Puzzles That Stumped Humans for Decades"
     excerpt: "Machine learning is aiming at the core of mathematics—a science for spotting patterns that lead to theorems about how our world works."
     publishedDateTime: 2021-12-07T15:00:00Z

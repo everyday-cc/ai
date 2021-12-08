@@ -29,15 +29,15 @@ images:
 related:
   - title: "Stellantis wants to outfit cars with AI to drive up revenue"
     excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
-    publishedDateTime: 2021-12-08T00:50:00Z
-    webUrl: "https://www.ourmidland.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-    ampWebUrl: "https://www.ourmidland.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+    publishedDateTime: 2021-12-07T23:34:00Z
+    webUrl: "https://www.chron.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
     type: article
     provider:
-      name: Our Midland MI
-      domain: ourmidland.com
-    quality: 59
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 57
     images:
       - url: "https://s.hdnux.com/photos/01/23/11/55/21797705/3/ratio3x2_400.jpg"
         width: 400

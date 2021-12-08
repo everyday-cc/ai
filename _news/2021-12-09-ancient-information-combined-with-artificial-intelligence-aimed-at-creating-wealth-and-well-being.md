@@ -1,0 +1,47 @@
+---
+category: news
+title: "Ancient information combined with Artificial Intelligence aimed at creating wealth and well-being"
+excerpt: "The “tea, spices and wellness” project led by Ioncure Tech Pvt Ltd, aims to connect herb cultivators in remote tribal areas with urban consumers, building a sustainable supply chain using AI"
+publishedDateTime: 2021-12-08T16:30:00Z
+originalUrl: "https://www.nationalheraldindia.com/science-tech/ancient-information-combined-with-artificial-intelligence-aimed-at-creating-wealth-and-well-being"
+webUrl: "https://www.nationalheraldindia.com/science-tech/ancient-information-combined-with-artificial-intelligence-aimed-at-creating-wealth-and-well-being"
+ampWebUrl: "https://www.nationalheraldindia.com/amp/story/science-tech/ancient-information-combined-with-artificial-intelligence-aimed-at-creating-wealth-and-well-being"
+cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-tech/ancient-information-combined-with-artificial-intelligence-aimed-at-creating-wealth-and-well-being"
+type: article
+quality: 61
+heat: 71
+published: true
+
+provider:
+  name: National Herald
+  domain: nationalheraldindia.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://gumlet.assettype.com/nationalherald%2F2021-08%2F7861b76f-0b7c-41ce-ab55-bdae2c7f09ae%2F19284592_403.jpg?rect=0%2C18%2C940%2C494&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 940
+    height: 494
+    isCached: true
+
+related:
+  - title: "Rutherford and Fry on Living with AI: AI in Warfare"
+    excerpt: "Science sleuths Adam Rutherford and Hannah Fry unwrap some of the biggest ideas presented by AI expert Stuart Russell in this year's BBC Reith Lectures. What if a despotic leader could programme a swarm of drones to kill a set of identified targets with just the push of a button?"
+    publishedDateTime: 2021-12-08T12:31:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/p0b8r8zh"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p03w1942.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "3B6pu/KFoxGwMwOxdgleFXTefUD5IeNMOi/iV6ROtv3xk7DBE1PI7Tie9fvySl8UPjIRx4j2+pM2mlLMUVzRRaZy7Y7OQoGESQ6517TJbaqH52B9pOoeoTJll/XRs7IGsPfD1J5zBEGDBKTOb8iy/MugymzkD1vvNPxwhBFtBJ/Sx4WgR0bRa0+BOrCirva6K45lj3Lk3L5+YC+hcdRPbO3EFXLALrpabFBhrhufcr3xMKqcjt3ZccXCQzd7mpchWdOTLIUzr0yFj1PQU3CRtV4c3WJP86AtimIGMscyx4aXl+T+iXwr/EGkpakA94PQ9Juv/ImHMjh4CkIMj3IwTWrJajMzkTERCheupNqKsBI=;pCwgqUQgidYsoeQOrrbuLA=="
+---
+

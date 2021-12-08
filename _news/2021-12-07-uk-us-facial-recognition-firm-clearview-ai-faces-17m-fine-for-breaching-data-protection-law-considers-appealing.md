@@ -129,6 +129,36 @@ related:
         width: 708
         height: 472
         isCached: true
+  - title: "Hospitality Facial Recognition Tools"
+    excerpt: "Zoox Pass - Zoox Smart Data, a technology company specializing in consumer profiles and data analytics, has announced the launch of Zoox Pass, a new"
+    publishedDateTime: 2021-12-08T16:26:00Z
+    webUrl: "https://www.trendhunter.com/trends/zoox-pass"
+    ampWebUrl: "https://www.trendhunter.com/amp/trends/zoox-pass"
+    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/zoox-pass"
+    type: article
+    provider:
+      name: TrendHunter
+      domain: trendhunter.com
+    quality: 59
+    images:
+      - url: "https://cdn.trendhunterstatic.com/thumbs/zoox-pass.jpeg"
+        width: 622
+        height: 478
+        isCached: true
+  - title: "ACLU Calls for Halt of Homeland Security’s Use Of Facial Recognition Technology"
+    excerpt: "The civil rights organization said that the biometrics technology can lead to discriminatory arrests based on race."
+    publishedDateTime: 2021-12-08T16:33:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/aclu-calls-halt-homeland-securitys-use-facial-recognition-technology/187377/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 54
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/08/biometric_security_scan_picture_id1297832671/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Clearview’s internet-as-facial recognition reference database concept to be granted patent"
     excerpt: "Clearview has received a ‘notice of allowance’ from the USPTO, setting up a grant of the patent once all the associated fees have been paid."
     publishedDateTime: 2021-12-06T16:11:00Z

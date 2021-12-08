@@ -50,7 +50,21 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 21
+  - title: "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarketstm"
+    excerpt: "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud Detection & Prevention, Content Transcription, Subtitle Generation), Deployment Mode,"
+    publishedDateTime: 2021-12-08T15:26:00Z
+    webUrl: "https://www.lelezard.com/en/news-20146808.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 12
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
-secured: "GmiNG84qFFmcriwoiZbnaufE0LW0suBcxjrPw6RyALdjimRI8AUdv3CKNiS8zUtwBsmWsvx4V9LKF8ilz4AZvJ9SaqCtOxToJr8LP/+ITOERWvw1tqaLCMMXjChR8QTpkK3s2O7aeocKCNKwVV4rMueWTuvd0TgpGHWV1aqhBkRuucPaADSOiyzPI1/dOy5molcH0rxqXELRKt6UFNwbuOT8RDFKvcA9gzuGjbA/Mr9DQoxJhtq0dpKVkGkbaRAXKiLbECs+dNwDVETNtZLqnxL7R+XQ//SB/SwC5IUigfYZ4n2Mvn6FWMZUuFcRA5Mdm1ctUwkI5fY+r3qTwFJDRmdRDg0PYe2ZnjjsEwN58X8=;Hxqxa9ssUgcHBaDUz8CH7w=="
+secured: "QQIj9mzi+sr3+PkXglqmhDmBFfEGwxxCAcqAB5PMGJX8aHprpfKVl1ZnuFshN5b+dRVZU2c8fECE+aR4lrh1hti5YWwzQtbz7c3nJeQ6IuHYeXaaAbP4sIZGlfaKtNwnawAgjQFKZ42UO80T4W49Ib65zweukXLqPRItifpsLqbDgwVNylCjWGkrtt/p7WpDuXL73PyiXMcRkod/6VU7mEX+i3lFMiHycYqynGWVRR0MWfY5yMjE7NHSMbhiYyzdxr9/MdTE0fCIMHDBxSagbpVAQg+2VN0zH94INOo8Ik1ojGAPXif/YkNOuC7ZKAHDQQwYMGUnS5oKF7y6VRrDNptdq3MI93vQoYl5lo4UqBgsf5Hkr2BG+4erYoG28nt8drjUs5/3d3eFUBXpuroAkFZX1+/i2P70JY1tzLHL7u9tfeEGKs4JwUALbOZG3QQhRy3GgDXUi1DRkFx9bRO4vgYDGI+otTCdm2qxT+CUbHBe8Nstfuhqh9aoX7vi2sQXY3mbpH+3rFTq38cz1NPnuQ==;xC5m8NL/LZAte6SMgNx1uA=="
 ---
 
