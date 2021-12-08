@@ -3,7 +3,7 @@ name: "Andrew Ng"
 bio: "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs"
 location: Palo Alto, CA
 type: "profile"
-heat: 293
+heat: 289
 
 affiliation:
   name: Stanford
@@ -21,7 +21,7 @@ website: http://andrewng.org
 twitter:
   username: AndrewYNg
   url: https://twitter.com/AndrewYNg
-  followers: 625892
+  followers: 625908
 
 linkedin:
   url: https://www.linkedin.com/in/andrewyng/
@@ -44,6 +44,6 @@ images:
     isCached: true
     title: "Andrew Ng"
 
-secured: "GtZLleUDet8It5qmcHaP6UsZAYd2RQwkfbtYxanZFBtuqlqAlyQDefiAsfvcADD9iavwmIyi4eNENSUMWGm0mjBR89CTIFHJbpBxp0ePK+6MApu305KXVQ/pJfC5rEfzby5B3SAZ/V5cBhXG6qEtnoUt7hP7O37H6z3Fh9a6O69kUVBYdvW4U8FzQEJh8QB0ofopfmu+fCCoNltdjwzp2do+LuQgx2XYK8OcmX7lCFtK2/czoyU3VsGw7RyonhMPLHHYvP3qugtY1SZxqYj2Zv7FUFqJv4HhBtmM6XZAf2VSGTvHjTdtHXFOoLVJC7nq7z6Qu3LgZKd4aCTI5mnvFHgcMUYqhzxSShlnCB+eAPOsREm7ATkwnIXg24kgjspn/J/LahPYSPRS12YhUvPOXLGBxUeKFa3Y7XWRSJMVXbM=;soIcBtmCAdhsXl8W5BQWqA=="
+secured: "aqAkTGvkW3WTC6jMnAY9XvAaV5ePTvDDbG/RGXWLNm4Q8HPnBmpwbe3SzVMlks7FlnZIEI3QqPLwAmliwJ0KmVnBqM88dTgZoB9SOPVC9suHLPwwCgpjDFb9rTzBiwtZ8GfxMiPBs6cVtrcGw3mbinWGOFIlF1Tvj9O6csrxtGLus+ZbuKsAwFlNqh0EzX0pFwlUtF3aGwJTckIJMlk9GhL/VX0dNoKYgaF4Ixwue2UQnY8Vu5EYVyla7zeSqbCLsVO1veyU/FyU252Zw2HVVcDJN1YWQMW5nceTq2I2tqwQfio6Zl6FH6mGo4yrXDWqJk2kkmjfQf0Pfs/Nxq5j/amABY87cAGA1CtAZH90iykkRd9W9Tsqo9njUtruq80zeJKkl6DN4a0hx8nL5705af8BlwIATF7Df80vC4N1Ctk=;jXF8Yej1q7OHJudA08K0bA=="
 ---
 
