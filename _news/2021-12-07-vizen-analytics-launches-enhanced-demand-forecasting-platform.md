@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "8% BTC hike more success for Quantum Inspired Machine Learning analytics engine Quantabotics"
-    excerpt: "Perfect timing from Toridion's Quantum Inspired Machine Learning powered financial analytics \"Quantabotics\" Issues a SBI smart buy in at 10:05 UTC analytically projecting the market had bottomed out."
-    publishedDateTime: 2021-12-07T13:35:00Z
-    webUrl: "https://www.linkedin.com/pulse/8-btc-hike-more-success-quantum-inspired-machine-learning-analytics-/"
+  - title: "AI and Big Data Analytics in Telecom Market 2022 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2026"
+    excerpt: "Dec 07, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “AI and Big Data Analytics in Telecom Market” report offers advanced research outline of the industry including definitions ..."
+    publishedDateTime: 2021-12-07T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-2022-with-geographic-segmentation-statistical-forecast-and-competitive-landscape-report-to-2026-2021-12-07"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 28
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGkVjVWv9QVRQ/article-cover_image-shrink_720_1280/0/1638883660386?e=1644451200&v=beta&t=Q28KlvXruiD0rqji3aGaHN6tl7RBbz5uNOGPBlMfhRc"
-        width: 761
-        height: 720
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "MDB79CFnOAT+WIYtSX0az7c5rGH4FQBotDew4mjoCPZoO/xDyAKUK2s09JxvzmIZE9727uSaohLUuMmAV/emL4bMWunES4NK52AVvfnIXSu5QKnmqOK8KyvI1WbeiHJHa6SnRa9M9OB2OQjq8GvNvhY7z4xkfBadVDZNnYBmy/M0RPfSyzi0tcEa7GPjN+gawvkhFybbzkjXQLW6Ox/KoLxukKa1pilOb15K6UEJivHtqMM/Bt2D9mtLIp03reD0+MbRj4YAv6gKLv9yfHZLFxz86bRpE7hpiEOPjR/9ykQikOMumCi8mngzJpwAQpQCgo3fvUPso61C2auCRQzO9iNtvymlYyIKz/mEu9ld7Ec=;5NwozGXvm8U0JA5EBiZczQ=="

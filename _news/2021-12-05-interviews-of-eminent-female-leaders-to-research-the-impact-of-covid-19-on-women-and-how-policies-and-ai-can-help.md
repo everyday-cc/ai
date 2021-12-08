@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/amp/"
 type: article
 quality: 66
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -76,15 +76,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Healthcare Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
-    publishedDateTime: 2021-12-03T12:21:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5127884-global-artificial-intelligence-ai-in-healthcare-market-research-report-2021-impact-of-covid-19-on-the-market.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 28
   - title: "COVID-19 Pandemic Created Changes and Challenges to Workplace Learning"
     excerpt: "The COVID-19 pandemic changed the way employee learning was delivered in 2020 and led to a 3.1 percent decrease in the average organization's spending on employee learning, according to the Association for Talent Development's 2021 State of"
     publishedDateTime: 2021-12-07T16:57:00Z

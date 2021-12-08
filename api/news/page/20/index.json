@@ -2,6 +2,197 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-11-20-ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies.md",
+      "title": "AI Weekly: Defense Department proposes new guidelines for developing AI technologies",
+      "excerpt": "The U.S. Defense Department's Defense Innovation Unit has proposed new ethics guidelines for private contractors developing AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/19/ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies/",
+      "originalUrl": "https://venturebeat.com/2021/11/19/ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-160989986.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/19/ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/19/ai-weekly-defense-department-proposes-new-guidelines-for-developing-ai-technologies/amp/",
+      "publishedDateTime": "2021-11-19T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-motherandroid-chloe-grace-moretz-is-on-the-run-from-robots-in-new-trailer.md",
+      "title": "'Mother/Android': Chloë Grace Moretz is on the run from robots in new trailer",
+      "excerpt": "Chloë Grace Moretz is an expecting mother who is trying to survive amid a war with artificial intelligence in the new trailer for upcoming Hulu film, \"Mother/Android.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "originalUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/2171637350187/2021/1/30206a0b14643694b66e2c2e76dc7c40/v1.5/MotherAndroid-Chlo-Grace-Moretz-is-on-the-run-from-robots-in-new-trailer.jpg",
+          "width": 800,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "publishedDateTime": "2021-11-19T11:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-google-clouds-aiml-stack-to-power-toronto-firms-nlp-platform.md",
+      "title": "Google Cloud’s AI/ML stack to power Toronto firm’s NLP platform",
+      "excerpt": "Google Cloud has announced a multi-year tech partnership with Toronto-based software firm Cohere in which Google Cloud’s artificial intelligence (AI) and machine",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035",
+      "originalUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2021/11/GettyImages-1305028662-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035?amp=1",
+      "publishedDateTime": "2021-11-19T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-steps-every-leader-should-take-to-prepare-for-artificial-intelligence.md",
+      "title": "Steps Every Leader Should Take to Prepare for Artificial Intelligence",
+      "excerpt": "I’ve spent much of the past year thinking about the rise of artificial intelligence (AI) and how it will affect what it means to be human over the coming decades. As part of that work, I’ve spoken with a wide range of scientists,",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/steps-every-leader-should-take-prepare-artificial-eric-schmidt/?trackingId=8KJmIxx%2BR3GvOQjHYRAn6Q%3D%3D",
+      "originalUrl": "https://www.linkedin.com/pulse/steps-every-leader-should-take-prepare-artificial-eric-schmidt/?trackingId=8KJmIxx%2BR3GvOQjHYRAn6Q%3D%3D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEmHGrRXdd1Kw/article-cover_image-shrink_720_1280/0/1637345356690?e=1643241600&v=beta&t=Mnv-pvTZaTbLOE-lmoNra4e1HV_Ry3fxJ7TuEqA6JlM",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-19T10:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-apple-accelerates-work-on-car-aims-for-fully-autonomous-vehicle.md",
       "title": "Apple accelerates work on car, aims for fully autonomous vehicle",
       "excerpt": "Apple is pushing to accelerate development of its electric car and is refocusing the project around full self-driving capabilities, according to people familiar with the matter, aiming to solve a technical challenge that has bedeviled the auto industry.",
@@ -1000,196 +1191,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-mediatek-announces-new-filogic-130-series-chips-will-bring-wi-fi-6-bluetooth-52-to-iot-devices.md",
-      "title": "MediaTek announces new Filogic 130 series chips: will bring Wi-Fi 6 & Bluetooth 5.2 to IoT devices",
-      "excerpt": "MediaTek has announced new Filogic 130 and Filogic 130A single-chip solutions to bring Wi-Fi 6 and Bluetooth 5.2 connectivity to IoT devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announced-wi-fi-6-bluetooth-5-2-on-iot-devices/",
-      "originalUrl": "https://www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announced-wi-fi-6-bluetooth-5-2-on-iot-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/08/MediaTek-Dimensity-5G-Chipset-Featured.jpg",
-          "width": 1920,
-          "height": 1171,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announced-wi-fi-6-bluetooth-5-2-on-iot-devices/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/19/mediatek-filogic-chips-announced-wi-fi-6-bluetooth-5-2-on-iot-devices/?amp=1",
-      "publishedDateTime": "2021-11-18T23:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-we-tried-teslas-full-self-driving-heres-what-happened.md",
-      "title": "We tried Tesla’s ‘full self-driving.’ Here’s what happened",
-      "excerpt": "When a dozen small children crossed in front of our Tesla with “full self-driving,” I had good reason to be nervous. I’d spent my morning so far in the backseat of the Model 3 using “full ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/",
-      "originalUrl": "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/",
-      "publishedDateTime": "2021-11-18T23:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-embracing-socratic-paradox-may-lead-to-more-reliable-predictions-from-ai-models.md",
-      "title": "Embracing Socratic Paradox May Lead to More Reliable Predictions from AI Models",
-      "excerpt": "Next-generation artificial intelligence (AI) models used in public health, IoT, and other critical applications will soon be able to make better decisions and more accurate predictions thanks to a bit of philosophical wisdom being instilled in them at Georgia Tech.",
-      "sourceUrl": null,
-      "webUrl": "https://rh.gatech.edu/news/653049/embracing-socratic-paradox-may-lead-more-reliable-predictions-ai-models",
-      "originalUrl": "https://rh.gatech.edu/news/653049/embracing-socratic-paradox-may-lead-more-reliable-predictions-ai-models",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://rh.gatech.edu/sites/default/files/styles/740x416/public/images/mercury/shutterstock_socrates-180402151_copy.jpeg",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Georgia Tech News Center",
-        "domain": "gatech.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-next-gen-stats-decision-guide-predicting-fourth-down-conversion.md",
-      "title": "Next Gen Stats Decision Guide: Predicting fourth-down conversion",
-      "excerpt": "It is fourth-and-one on the Texans’ 36-yard line with 3:21 remaining on the clock in a tie game. Should the Colts’ head coach Frank Reich send out kicker Rodrigo Blankenship to attempt a 54-yard field goal or rely on his offense to convert a first down? Frank chose to go for it, leading to a […]",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/next-gen-stats-decision-guide-predicting-fourth-down-conversion/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/next-gen-stats-decision-guide-predicting-fourth-down-conversion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/03/ML-5940-image003.png",
-          "width": 674,
-          "height": 496,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T16:14:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,28 +2,26 @@
 category: news
 title: "Stellantis wants to outfit cars with AI to drive up revenue"
 excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
-publishedDateTime: 2021-12-08T00:50:00Z
-originalUrl: "https://www.ourmidland.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-webUrl: "https://www.ourmidland.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-ampWebUrl: "https://www.ourmidland.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+publishedDateTime: 2021-12-07T23:51:00Z
+originalUrl: "https://www.startribune.com/stellantis-wants-to-outfit-cars-with-ai-to-drive-up-revenue/600124583/"
+webUrl: "https://www.startribune.com/stellantis-wants-to-outfit-cars-with-ai-to-drive-up-revenue/600124583/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Our Midland MI
-  domain: ourmidland.com
+  name: StarTribune
+  domain: startribune.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/23/11/55/21797705/3/ratio3x2_400.jpg"
-    width: 400
-    height: 267
+  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1638912371"
+    width: 1680
+    height: 876
     isCached: true
 
 related:
@@ -57,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Stellantis Bets Big on Artificial Intelligence, Wants To Beat Tesla at Its Own Game"
+    excerpt: "Stellantis bets on artificial intelligence and expects software revenue to reach $23 billion a year by 2030 through services and subscriptions."
+    publishedDateTime: 2021-12-07T16:27:00Z
+    webUrl: "https://www.autoevolution.com/news/stellantis-bets-on-artificial-intelligence-wants-to-beat-tesla-at-its-own-game-175951.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 48
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/stellantis-bets-on-artificial-intelligence-wants-to-beat-tesla-on-it-own-game-175951_1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Stellantis Targets $20B+ in Sales From Software by 2030"
     excerpt: "The company is setting up an academy that aims to reskill more than 1,000 of its workers with data and analytics skills."
     publishedDateTime: 2021-12-07T19:07:00Z
@@ -70,6 +82,22 @@ related:
       - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2021/12/16x9/STLA_software_platforms.61afabebb3cd1.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Stellantis to introduce AI-enabled software on its vehicles, targets additional revenue of 20 billion euros"
+    excerpt: "Stellantis will work with iPhone manufacturer Foxconn on customised cockpits and Waymo to push autonomous driving into its LCV delivery fleets."
+    publishedDateTime: 2021-12-08T04:14:00Z
+    webUrl: "https://www.firstpost.com/tech/auto/stellantis-to-introduce-ai-enabled-software-on-its-vehicles-targets-additional-revenue-of-20-billion-euros-10194141.html"
+    ampWebUrl: "https://www.firstpost.com/tech/auto/stellantis-to-introduce-ai-enabled-software-on-its-vehicles-targets-additional-revenue-of-20-billion-euros-10194141.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/tech/auto/stellantis-to-introduce-ai-enabled-software-on-its-vehicles-targets-additional-revenue-of-20-billion-euros-10194141.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 41
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2021/12/stellantis-to-add-ai-enabled-software-to-34-million-vehicles-targets-extra-revenue-of-20-billion-euros.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Stellantis wants to outfit cars with AI to drive up revenue"
     excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
@@ -128,6 +156,6 @@ related:
         height: 600
         isCached: true
 
-secured: "56lT3AgRNkE+7vpEGyKuOR71LiBYTY+oyegY7FeBzEgJHCyb8sR+wQrR+0gGVUqklGjKtP8DN9ITnXK3z5+fsvgRszl73crhmse2PCde1cH10NkFs/6Fua0OexY05EMxTk32KhPVvFN7dWtppoANY8YopXDIe/SCblWTGhYDgoLm1+wvQYbJ38pGNPjjbnNERBjuvZ4OS+evYnlMFBF5IoNqBj17MeSTmNBugJGuBPHqF/0L0VzO9qtljYj3nbUMR8qX5vsNaukeOqM8EdQlpocLkldYyOBZRbB3LsemxNHVluC8SMyFqfEYzxlerv+WUCWwTEI4CyUw9RjwEe/Cl6lV4dDS9bP7WeYfz9yMaB0=;q2MNOF4Fnu/spcoyJrzPUA=="
+secured: "U6TuO2pOTvtvtSpzXHPLyGUoI5BRA3LSUkCSny6pmwBLfsI70EkxRpXppShuIJNquEuc68KQP3xTNeZGs4ofFVu8H+o55eeXHteYhjOKDdN68YE/BHdzSzbNvXM1kY+Wn2JLcFduElRw4rlXi1XDfvDPv2HQ2ryaez+1fWnPk3ELQXhFVoXyzMYc39LhAkCa4kYQ88JIB18gTCCmo1oQdwlphCHAjVigrh9bxCu+A4cdmrCzVlweLA+9E3TFTb2puv5uH7ht3QMQuyFF7MSLOy4DE+lINY4AAqtTtGonTYbH8NErBmTmPnX02iCnP4Hverc93lWso9LTlH1FIZc1T+Ooq3OnRY2isL/9a7PYyRM=;UNSqeepX4xM9buZdVR2KXA=="
 ---
 

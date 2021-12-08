@@ -54,7 +54,7 @@
       "originalUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -133,50 +133,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-07-meta-picks-aws-as-strategic-ai-cloud-provider.md",
-      "title": "Meta Picks AWS as Strategic AI Cloud Provider",
-      "excerpt": "Amazon Web Services has announced that Meta (formerly Facebook) has deepened its relationship with AWS as a strategic cloud provider, using AWS’s cloud infrastructure to complement its on-premises infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/12/meta-picks-aws-as-strategic-ai-cloud-provider/",
-      "originalUrl": "https://insidehpc.com/2021/12/meta-picks-aws-as-strategic-ai-cloud-provider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2021/12/Meta-logo.png",
-          "width": 340,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-06-for-truly-ethical-ai-its-research-must-be-independent-from-big-tech.md",
       "title": "For truly ethical AI, its research must be independent from big tech",
       "excerpt": "We must curb the power of Silicon Valley and protect those who speak up about the harms of AI",
@@ -238,7 +194,7 @@
       "originalUrl": "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1410,6 +1366,58 @@
       "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
       "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
       "publishedDateTime": "2021-10-28T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony.md",
+      "title": "Frances Haugen: Key moments from Facebook whistleblower's UK parliamentary testimony",
+      "excerpt": "The former Facebook product engineer answered questions from lawmakers on regulation, Instagram Kids and whether she thought Facebook was evil.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/b08c5Epe3NTGTrmK4QYvTgFuIsQ=/1200x630/2021/10/25/943d7bc3-8a31-4cd3-9a2c-eeb0a0b39f77/screenshot-2021-10-25-at-14-36-38.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
+      "publishedDateTime": "2021-10-25T12:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNET",

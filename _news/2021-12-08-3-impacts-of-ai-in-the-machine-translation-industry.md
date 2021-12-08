@@ -2,22 +2,21 @@
 category: news
 title: "3 Impacts of AI in the Machine Translation Industry"
 excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
-publishedDateTime: 2021-12-07T23:03:00Z
-originalUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
-webUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+publishedDateTime: 2021-12-07T22:13:00Z
+originalUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
 type: article
-quality: 56
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
-  - Machine Learning
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
   - url: "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg"
@@ -55,6 +54,6 @@ related:
         height: 300
         isCached: true
 
-secured: "ogaz5eLzf/Feok3TagP7ufeWL67vn4vxhJ60Tr1zmAcjCQYdOnvDqxZunNXn4Owt3F/Gkynjt7KhhsO0P3B3n7JNh/poRYA/wcgYwpGlNRFp+nvbzH0k9FQ11Qb1cxtySpTcEoNhmE71dz89VsMJkVGpfSVmFO3CWsscEhcH5I7RMI/H+EMUNfB8NzWZosrZyCn3/0z4twj/KKDpM154SscMqXyIYw7Q4RiyN7afKyzW+Z2/Bvh6pnZlM/Q0LkitBFJIF0rXIf0KY/ozOPNN3vzh7IhbDDfmY8YC2BwvIqaaExcf7Jw5fYRDEWkxzS020Ru0sovEyYTisv2cuRs0qLnsnP25DeOIpc5tWNjBeJg=;R9ciBE5hRL3x3HOsL85kjA=="
+secured: "BU/71nvcpZxuGbbAkMQmw+J2DPXlwGVTU4xdLVZQwSbx3zZMjUeKKCkNtYWnbTDfODEYKa00NP/ZgqzKidyKdCuQVYIrJAGjG+9vwmH5lW0ooQf3fY2GNYC5+rvn+UlkchATPLEsXJkk6dfVBLusqtLhaocnl0tuA59IanTjWTHe/9eZDNoFyKCPAmfZetCGgGpHxSBx7adRD9CrGm+VmT3uk+3kYHU7i/KXKvmYG/R1SaqbFbqWIPf75ltxUQCTnxGi4HdDTjSXFsQTI2NW9ixDhxJ6YDPeRHypVrqWC6PPfdRZR9CwdOCbj3PVaKgS3vFNYSuIQ2E0JWPWH/5wlvOmm8hjh6kr+6LYoeqlwqI=;7H44j69WIRNvCchtZpngdw=="
 ---
 

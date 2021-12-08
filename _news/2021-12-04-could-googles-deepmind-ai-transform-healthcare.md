@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/could-googles-deep
 webUrl: "https://markets.businessinsider.com/news/stocks/could-googles-deepmind-ai-transform-healthcare-10810359"
 type: article
 quality: 81
-heat: -1
-published: false
+heat: 101
+published: true
 
 provider:
   name: Business Insider
@@ -24,20 +24,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Could Google's DeepMind AI Transform Healthcare?"
-    excerpt: "Google DeepMind AI can predict protein interactions, including folding. The AI could help increase basic scientific knowledge, potentially with drug development. Although DeepMind won't transform healthcare,"
-    publishedDateTime: 2021-12-03T11:52:00Z
-    webUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 101
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/655355/gettyimages-1273886962.jpg"
-        width: 4000
-        height: 2250
-        isCached: true
   - title: "How DeepMind’s AI Helped Crack Two Mathematical Puzzles That Stumped Humans for Decades"
     excerpt: "Machine learning is aiming at the core of mathematics—a science for spotting patterns that lead to theorems about how our world works."
     publishedDateTime: 2021-12-07T15:00:00Z

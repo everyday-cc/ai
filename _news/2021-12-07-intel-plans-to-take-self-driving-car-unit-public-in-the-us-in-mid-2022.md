@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html"
 type: article
 quality: 73
-heat: 213
+heat: 223
 published: true
 
 provider:
@@ -219,6 +219,15 @@ related:
     provider:
       name: Webindia 123
       domain: webindia123.com
+    quality: 4
+  - title: "Intel to Take Self-Driving Car Unit Public"
+    excerpt: "The planned listing of Mobileye is Intel's latest move to revive its fortunes as its stock lags behind rivals such as AMD and Nvidia."
+    publishedDateTime: 2021-12-08T01:55:00Z
+    webUrl: "https://www.cfo.com/ipos/2021/12/intel-to-take-self-driving-car-unit-public/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
     quality: 4
 
 secured: "ILydNEUfSr4GNHtYpc5C/Jt5e0B9U/gFLfcrFzYDDxFrk6uLtQSRpPI6O4oNmNrMbRGr4B6bL1nKKFW514QVmiuqg+/34Cyv8OYcNUU38m9fs/1LrsWpoWSOrFR9/3G7YwcyEaAgX0f4Ae2TPimDtMX6l3OZ1EwwExPh0AgoNdGx2f7DaznD/Ql5FBtabc0CcZDbgCU2JzhRMtFeZELzN/uPqEN05Gz0ltVTG2lnQ2+qacNlUM07QAQ2fgmsq67tLXopqRBaV+gcCZN3p6bRn2SdrQyzBJ4sR6ydvmMe9Nf4A1TLJoWgiy5ikEQqlYMBy1n4AC0Sbaew1BEAuV0eiwMnrUdY0Mq/pNeMMyW8OqjYHbspGQly2oUMDrGpsIc7nROO1vitIDKiJBizpKS4cHlAYvx4hgNoYgChv49UeSyeUnZDERI4n94tdrA3cz1aDTXWLZSWlBW3q/O2TvnICD6oM7EJ5ST970OLAG6+ERkQn+SszBu8cSQMHElB/lN8ixOITIYeCEpGmF2P7mfA2A==;lXtEnYXyXdSvjZGlvFrp6A=="

@@ -28,20 +28,6 @@ images:
 
 related:
   - title: "Could Google's DeepMind AI Transform Healthcare?"
-    excerpt: "Google DeepMind AI can predict protein interactions, including folding. The AI could help increase basic scientific knowledge, potentially with drug development. Although DeepMind won't transform healthcare,"
-    publishedDateTime: 2021-12-03T11:52:00Z
-    webUrl: "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 101
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/655355/gettyimages-1273886962.jpg"
-        width: 4000
-        height: 2250
-        isCached: true
-  - title: "Could Google's DeepMind AI Transform Healthcare?"
     excerpt: "There's now key progress in one of those areas: Google's DeepMind artificial intelligence (AI) software is being used to predict the structure of proteins. In this Motley Fool Live video recorded ..."
     publishedDateTime: 2021-12-04T02:30:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/could-googles-deepmind-ai-transform-healthcare-10810359"

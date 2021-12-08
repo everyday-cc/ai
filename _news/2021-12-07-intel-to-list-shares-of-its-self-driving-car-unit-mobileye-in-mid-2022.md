@@ -219,6 +219,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 4
+  - title: "Intel to Take Self-Driving Car Unit Public"
+    excerpt: "The planned listing of Mobileye is Intel's latest move to revive its fortunes as its stock lags behind rivals such as AMD and Nvidia."
+    publishedDateTime: 2021-12-08T01:55:00Z
+    webUrl: "https://www.cfo.com/ipos/2021/12/intel-to-take-self-driving-car-unit-public/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 4
 
 secured: "b8fJu4p4vO3gwZaMd5d7VO+ImaleRmboPMe01yp5zE3i9BLZpQn8Z8bx2zrLTDHYZs5iAff0QTwcZJJVb4uK94B2V3VlSNX9/S3MWjWLh3LX33ZPRC0Q4ogd4z53AJq3MYGGcPZQJH9kSVhs46oir6kBozwurtOjToiBWgmYhz6tSxLgCgkQ6pu4lD0OXHXoWy8KH60Qldq+knaL6u8oSR3gvWq2eocW7iJKloHO7YgxC8nv5DqbWYd6R38xbamOYxJsBQLJrHd4nRZNj2qU3eB6UNWIU/ssmRHzGOPI8/Boy6/cQd0JbmsJmC6UvidaDGQZM746293h8WeAXN8ZiweP25vgETMgIlUCqEsz8sw=;nIjCsTwQx3EYQUrGB4c0Ug=="
 ---

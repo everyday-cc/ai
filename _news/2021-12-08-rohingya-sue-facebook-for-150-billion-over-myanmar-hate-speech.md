@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/rohingya-sue-facebook-for-150-billi
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rohingya-sue-facebook-for-150-billion-over-myanmar-hate-speech/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,53 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Exiting The Facial Recognition Game"
-    excerpt: "Meta, the company formerly known as Facebook is pulling the plug on its facial recognition program. It's planning to delete more than one billion people’s individual facial recognition templates, and"
-    publishedDateTime: 2021-12-03T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/"
-    ampWebUrl: "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/"
+  - title: "‘It is the internet’: Rohingya launch £150bn Facebook lawsuit over genocide hate speech"
+    excerpt: "Facebook’s failure to combat hate speech was a key factor in the 2017 genocide of Rohingya Muslims in Myanmar, a legal action launched today has claimed. Lawyers for the victims in the UK and US have filed claims worth more than £150 billion in compensation in “one the largest group claims for victims of a crime against humanity brought before a domestic court anywhere in the world”,"
+    publishedDateTime: 2021-12-07T11:02:00Z
+    webUrl: "https://www.theweek.co.uk/news/world-news/asia-pacific/955070/rohingya-launch-150bn-facebook-hate-speech-lawsuit"
+    ampWebUrl: "https://www.theweek.co.uk/news/world-news/asia-pacific/955070/rohingya-launch-150bn-facebook-hate-speech-lawsuit?amp"
+    cdnAmpWebUrl: "https://www-theweek-co-uk.cdn.ampproject.org/c/s/www.theweek.co.uk/news/world-news/asia-pacific/955070/rohingya-launch-150bn-facebook-hate-speech-lawsuit?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: The Week UK
+      domain: theweek.co.uk
+    quality: 36
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a77b820a07bba1e37323e3%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Facial recognition technology could change the face of Indian airports"
-    excerpt: "With the Airports Authority of India (AAI) working on a facial recognition technology-based biometric boarding system as part of the first phase of Digi Yatra Implementation at four airports, including Varanasi,"
-    publishedDateTime: 2021-12-03T15:08:00Z
-    webUrl: "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.html"
-    ampWebUrl: "https://www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2021/12/03/facial-recognition-technology-could-change-the-face-of-indian-airports.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 74
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2019/1/3/face-facial-recognition-software-system-computer-shut.jpg"
-        width: 760
-        height: 443
-        isCached: true
-  - title: "Facial recognition isn’t working for some Windows 11 users"
-    excerpt: "Some Windows 11 users are claiming that the facial recognition software won't work, but the OS isn't to blame, but the hardware itself."
-    publishedDateTime: 2021-12-07T12:42:00Z
-    webUrl: "https://windowsreport.com/facial-recognition-not-working-windows-11/"
-    ampWebUrl: "https://windowsreport.com/facial-recognition-not-working-windows-11/?amp"
-    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/facial-recognition-not-working-windows-11/?amp"
-    type: article
-    provider:
-      name: Windows
-      domain: windowsreport.com
-    quality: 59
-    images:
-      - url: "https://cdn.windowsreport.com/wp-content/uploads/2021/12/facial-recognition-windows-11.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://mediacloud.theweek.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638872246/theweek/2021/12/Rohingya-refugee-858696362.jpg"
+        width: 1260
+        height: 710
         isCached: true
 
 secured: "MBOy7IPKOSWH1AqYixswQ4ZlhyZ4qxTO0ELIhgxAdqqlIfvqyxoFUlCdeMJOGevMxg27RcQ4vjAYZnxH+Twf9LuV0Y6/+JdwfIq4XK0Kp7+LyxbkmVKQrLCvB1A4e+KuOqa7vYiX6EpyTI3eCV03zrKBDQePCrzq+dgar4YpnvY2ezf2kD14Y6czFUjsSQzUASy7HRX4oAWietDdeQPQ9Z9A9wLaUO5gDwjvcMcIQacMA7oPNf/UY+fNqsLk4tErYyd6nTWJdiP920QCh1SuwWSNiCRwzBVuFHaVewSSFH3Q2YwZIyY3qa9SgRxWVe6YtqT/VRp5KaVGjd3X56+7Uv2t8X5XDSTMujwaRMg3lyMnsGQ5GzP1xow2mfGbezNPOYhSOU3I7Cffj07ziQND/MQTupLSkYw328739QXWJxVXT/C2v1raq9U05V0nusMx5Y/tLxLMmO64B0IwElYM1ziA/cTnZEl0vHlvSvCJoVRYLLqQkodEJ/pzBReIO+SxJwrH3ppwhFrZe1lr1Fk4IQ==;htrVswrEioF3vLh/BNABzg=="

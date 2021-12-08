@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-re
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
