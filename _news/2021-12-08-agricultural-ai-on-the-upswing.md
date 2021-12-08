@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Agriculture Startups Take In Record Amount of VC Funding"
-    excerpt: "Venture-capital firms are pouring money into artificial-intelligence agricultural startups as farmers turn to the technology to control pests, eradicate weeds and increase crop yields."
-    publishedDateTime: 2021-12-07T09:30:00Z
-    webUrl: "https://www.wsj.com/articles/ai-agriculture-startups-take-in-record-amount-of-vc-funding-11638894146"
+  - title: "Data labeling will fuel the AI revolution"
+    excerpt: "Labeling data for AI using the right techniques helps companies make better decisions and has a measurable impact on business success."
+    publishedDateTime: 2021-12-08T00:40:00Z
+    webUrl: "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/"
+    ampWebUrl: "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://images.wsj.net/im-447131/social"
-        width: 1280
-        height: 640
+      - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-12811727531.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "+cZuRX80ZT+6YKaz4wUvavnNA2oEgLodlqTpbL1dkYS1QjwQdwgrW6BYLkHqG8fodsjDxAzJdJ1P94Fm+nCl1xecD3I97smxRIHgi85RTQ9ASKX/Upoz4cZ5ITsGSMLVz9zFm2k8chM/4RFyjei3NUG0MG53/Cryb8Pq9hqr6ViiLhO/1/IK95NYSqA32Zx2sPYCvp4+R+tVQCa9r5bdYPrCoQ/phkvH5zlBGC3uD5nCyY3cZX+jmT9CX4Lp+BP7pjaWSkRsdBW/ERhpduO1yrIwau83Jv6QRLFTl9BVUr/7uzk07UJTsxVDaGLWwEOlwIN6KjIjYgmpjcBD467S7N1nA/5L7C/mREx96ZZr45OrochHInaEIn0HMwk8Sk3FnixeQGU1qj0So8O8VDHy3fYM0IgT6LOAKTMMWmdyj/veUneFg50onOBg3YhuAPOk/DY9jcnBts+2nLSExE803gUvwFYGMnNXUEqkQb4NlpYBpuSn6xPVOqWFkEF6l2qx0N0DhmRrPwQaeT9vZSqqog==;MuVMDxT8y80KE3vDQViPiw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://newatlas.com/robotics/ameca-humanoid-robot-video/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/ameca-humanoid-robot-video/?amp=true"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

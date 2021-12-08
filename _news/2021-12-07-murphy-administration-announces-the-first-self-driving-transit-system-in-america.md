@@ -26,19 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Gov. Murphy Calls For Electric, Self-Driving Transit Proposals"
-    excerpt: "The governor’s office has requested that companies submit proposals for building and operating an all-electric, self-driving microtransit system in Trenton that could serve as many as 90,000 people."
-    publishedDateTime: 2021-12-07T21:45:00Z
-    webUrl: "https://www.governing.com/community/gov-murphy-calls-for-electric-self-driving-transit-proposals"
-    ampWebUrl: "https://www.governing.com/community/gov-murphy-calls-for-electric-self-driving-transit-proposals?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/community/gov-murphy-calls-for-electric-self-driving-transit-proposals?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 24
-
 secured: "i7MisMWX9ENy/87PHgEaccdKuEIyca9zLqNTgbc10vFa17luSeGPZ9rXTcaaSNoSDAPBml32leI46Xv7LtNy/9ttaZ+PuuSjcfTSP4u+ZaJl1vUJMXnZs4dIKci6sVAiLE9CBUt7ZhzNsuVZnsGKxm53v3azPg3g0WH9I9gpnDHAywbaC7t3lup5CQOnZUd5+5akwOv+ztsX8AoO4Dhxnr9SkwHxhlHYpj3wMNC2mXKE6t2V3aaLBPeWZZNcNTG/phgCMMdjfmfR+irIcvgqlTvy+hblLfyDVuAR+gKC9ncWNOiO0aHWXCbdBiaUsUPkg3fKk7hIwOGBDUrjJ0WEES1PFJ1ixg4xOANOSYRw7bE=;iqs6kg+opq2M48WTkcil7g=="
 ---
 

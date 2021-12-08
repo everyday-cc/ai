@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92523-robot-facial-expressions-lif
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Stellantis wants to outfit cars with AI to drive up revenue"
-excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros, or $22.6 billion,"
-publishedDateTime: 2021-12-07T21:44:00Z
-originalUrl: "https://www.spokesman.com/stories/2021/dec/07/stellantis-wants-to-outfit-cars-with-ai-to-drive-u/"
-webUrl: "https://www.spokesman.com/stories/2021/dec/07/stellantis-wants-to-outfit-cars-with-ai-to-drive-u/"
-ampWebUrl: "https://www.spokesman.com/stories/2021/dec/07/stellantis-wants-to-outfit-cars-with-ai-to-drive-u/?amp-content=amp"
-cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/dec/07/stellantis-wants-to-outfit-cars-with-ai-to-drive-u/?amp-content=amp"
+excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
+publishedDateTime: 2021-12-07T22:59:00Z
+originalUrl: "https://www.chicagotribune.com/business/ct-biz-stellantis-software-strategy-ap-20211207-azdtjvmfyjhbjaodgvs6cvp4iu-story.html"
+webUrl: "https://www.chicagotribune.com/business/ct-biz-stellantis-software-strategy-ap-20211207-azdtjvmfyjhbjaodgvs6cvp4iu-story.html"
+ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-stellantis-software-strategy-ap-20211207-azdtjvmfyjhbjaodgvs6cvp4iu-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-stellantis-software-strategy-ap-20211207-azdtjvmfyjhbjaodgvs6cvp4iu-story.html?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Spokesman-Review
-  domain: spokesman.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://thumb.spokesman.com/Lw9mG-syPoibzL9CZLf0Ke-kRVg=/480x0/media.spokesman.com/photos/2021/12/07/61afd057a7f64.hires.jpg"
-    width: 480
-    height: 320
+  - url: "https://www.chicagotribune.com/resizer/kKHHlwghYkYuyHPjMbIE03brF1s=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LKEYZWCYDB4O5FLZPIOTYPXFPM.aspx"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -114,6 +114,6 @@ related:
         height: 600
         isCached: true
 
-secured: "6CkaHT1IOR320RjZbEKWAI5GLN0uTK7Dlm9VbBXMCSYnAmboODBRMRb439zzmte9hXJ9TOUHoRLVAF9bmSZKENTnedylff1do8dbWfQsZnglETqez0A1JYdPpvZxVcdovSknwfCbxSEaz9xq7pQtWJwwXZTEtBU8Q1iPiJZwgFzNQBp0c7dujSNark7UdK8QogC+gcDqYjubC761bpiFSIJHFFrqKohHlaTHs//L1r497zLoGdOGlsGzpgYkA+2umXWcHTAy4oPdK+r9bKPN7kEY0wdflTXLNXiCHPi1epw3y7YO0YsdVBYbRerEBmQmm9tLlT4qJ3JQilF1BGTZd+7esQ1sN96/Hb+7nVpwH6k=;c7R2lj3V3TCOIbrmz9ewGw=="
+secured: "MJ6G/rvnz2vMM6vKxSpcx3KmtURh5aXmRa3PubT3Cupz+7g9JbzqLUGNoFQadAj9GOQI3QH11tgoQsXobUK3fASFJl9ZJAK/faEaJuJojCCHS6UGXC6Sqa5hg5VIqz9TJ4eHusW5vsXnHtelfN1dkPdrtM2zSqt9VGCeG8Z7kqELmNb9vyQFVqECVXYE6twveEM37OTM+zGgPNyKFgXadMSDXknyiX7HVCyFL6MKJeGgk6jKkdy+aRrZO8lmhJvLG5lLoFUHjBvzVDZpASVHgdwXPWjzszqkK3gxsPxO74x7niAdZrzrePHlp77uSRyVT7jvnqNj+4yF1+Xo5VnLZd9DEXp2hWciKySQ3YtXtRw=;v2OOJumhkXgL3czM4FzZJg=="
 ---
 

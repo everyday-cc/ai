@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/ai-agriculture-startups-take-in-recor
 webUrl: "https://www.wsj.com/articles/ai-agriculture-startups-take-in-record-amount-of-vc-funding-11638894146"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Wall Street Journal
@@ -27,22 +27,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "Agricultural AI on the upswing"
-    excerpt: "Wall Street Journal, explaining rising interest in AI technology. “To do so farmers need to monitor a constant stream of data on plants, soil and atmospheric conditions.” There is also a labor and monetary factor."
-    publishedDateTime: 2021-12-07T18:11:00Z
-    webUrl: "https://theproducenews.com/technology/agricultural-ai-upswing"
-    type: article
-    provider:
-      name: The Produce News
-      domain: theproducenews.com
-    quality: 39
-    images:
-      - url: "https://theproducenews.com/sites/default/files/styles/fp_slider/public/2021-12/raleys.jpg?h=3ca652f7&itok=SQaNC2UZ"
-        width: 635
-        height: 355
-        isCached: true
-
-secured: "Tg2duIKSsYX8+Wl6RrCEG/HzKjFlodTKslea7UVplUwvlSmOLaiDb5bCJUAlV7w54/WZfej2kPrXRvXuhAjcx3iIqnv8M2Z+zBh3nLi7Ovwn9IdCVW5mMfZplkoin2WtMwNXtS6aXSy8M0q6V11r26sWxREDydJhcCS0Z6Uh1yorDvATdxHr70emH8zwq55QO7vvP0tr/WkAuSO2zg5Buh1QjLF/naURKjcyObarGJrG4w3dLYDsr+Cy1obmcb2YGy2fu1cbOuF2WZuOPf60ZQM8+eaukeiWm33eEmhiKDxFPLOhb5EmboZm1knBoaM+DnUOlrledmVijbMIfqtTAFaGjk9Y2wQcitKHxa4HBP0=;rcuhz8vFV1pCN7EzLmgDxg=="
+secured: "O5n8LyjwofcP1+kiS1ISgT10ip9/X+44uX777E3GDcWsF/v68bM5GM/FKG9LRFZeoNMpriSlWwtWlqMYfiJ3+bhQxnBZhOlRgyrp/qIbd63LFvRD2lr1dNiCAaSBhP5a4BhN+sIusL06xYq35QNE8+/7decZOiBJMmEU5DB6wBqn/jaPfj+DEuKMtVVjmeZ1Np8jZU07KfsKntoICN4W4PqOK8TyXEO4bl/L477b1SiqVKjRLUsQMY0ByvdgFbR4FZKRWO9On/5QmDLu2YojrHobXNZjDQbhCgjPpFAAcYCmkFVCwi4LwGRkaJ6kFos8mKx4BrWDivamGwz56t61ojaCTw8XtNawclThKf98n9r5lcv2VbSjlFQpnlf96fuoLUCqwsCLGZ/9KX0YZzeBv7Avyx0tGcOr18cK8EUrlQk076sqicMnMGTOqZThVyGVM+YhM6uY6sShTatLpRjqDnKJ+KAexPc788U+Pk4G53AlsyxXgTKe6v0zCfgoWNydcQ2SFc1wVeQWf32ECoe01A==;19OY/qCsrHzROOkagd76yA=="
 ---
 

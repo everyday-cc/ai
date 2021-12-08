@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Why We Aren’t Using Self-Driving Cars Yet"
-    excerpt: "The term ‘self-driving cars’ or ‘autonomous vehicles’ have been making rounds in the industry for quite some time now. We have even seen a few of them in action on the roads. It is almost a consensus that self-driving cars are the future of the automobile industry."
-    publishedDateTime: 2021-12-03T07:46:00Z
-    webUrl: "https://www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet"
-    ampWebUrl: "https://www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet/amp"
-    cdnAmpWebUrl: "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/technology-trends/tech-focus/why-arent-using-self-driving-cars-yet/amp"
-    type: article
-    provider:
-      name: Electronics For You
-      domain: electronicsforu.com
-    quality: 44
-    images:
-      - url: "https://www.electronicsforu.com/wp-contents/uploads/2019/06/Waymo-the-first-commercial-self-driving-car.jpg"
-        width: 1075
-        height: 624
-        isCached: true
   - title: "Contenders in self-driving trucking"
     excerpt: "As the year nears a close, the self-driving truck industry is gaining momentum. Many companies notched major technical and business-related milestones in recent months. Here's a look at what each company has done in 2021,"
     publishedDateTime: 2021-12-06T04:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/china/science/article/3158522/chinese-rese
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3158522/chinese-researchers-turn-artificial-intelligence-build"
 type: article
 quality: 83
-heat: 97
+heat: 93
 published: true
 
 provider:

@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Picsart to Acquire Computer Vision and AI Company DeepCraft"
-excerpt: "As video editing surges on the creator platform, the boutique firm will help accelerate Picsart's video offering through AI and image processing Picsart, the world's"
-publishedDateTime: 2021-12-02T14:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft"
-ampWebUrl: "https://www.benzinga.com/amp/content/24408178"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24408178"
+excerpt: "Picsart, the world’s leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an ..."
+publishedDateTime: 2021-12-02T15:40:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/picsart-to-acquire-computer-vision-and-ai-company-deepcraft/article_3497d8d7-2b9d-5d27-bc37-5a32c5b00f45.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/picsart-to-acquire-computer-vision-and-ai-company-deepcraft/article_3497d8d7-2b9d-5d27-bc37-5a32c5b00f45.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/5/c9/5c987693-9589-516f-808e-8d082e282698/61a8e75b11240.image.jpg?crop=1540%2C809%2C0%2C110&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "yc9KDWVI4H6naoMVN61yXqbhoNFQEzNaxMLxUvC2yj07/vVXDbyTPDfSDyemmlY+p8c/J7lONywjmJh1eZWvZlTW9fQarC6Uy5RfD4+/llcCLlks0KdQl3d9HbrHZ3e8W9/xcQYq2GnDeX7alC5HNJ8BhLy4pHdvQmJhz9KTeBS6NX8v9ZsDeul/IY88KRt2iIJWIsFu3P8MOmBkwARf//XQVHDkj1yXuINEbObSJuRDW+U5r+5kk2JsiD8PPS15sow7EdE/tP3ZKYJI98KnMiXX47dpl7lb0VlgZzBowOFI1nxxxeF3wcK5rvhgU2qXRcbX/cKWEN6uS+Y4lvqLS+a4ALouaFC7YfHu58YKLz8=;HIu9tmYxIDyO7UY+Hb8e7Q=="
+secured: "E0TOrRYsaF9UEvqaQjjtzpkwBMElaE1PZgXJLAFFeGs4esktSCKMWSG8xqrO1IMOseHVqDlvjTZZWjsY1uqHGj8YH//yAQkk/As6S3WDy2lZZFlHTsc20ZIQAc0lx9/ill4UHnsbuGRvzmYaEI7K2W7UQsC7oHuhGOQtV7R3Ypxjuqhg6wrAXLZjVFocqWE06oQWCTTMw/E67JZCrJOO/98L/LlSi7joy5MtDEGjUB8a6ff7IrM5XQcYZ8Y/Zu5y5GOVL2iHSwClenwrqQITRAEgxjZoO0C3x/rQypVABYOeE3ZENvbSeqH/536Xykn1q3JqQNLHNf3qbT7kItzL/o+CQrdQDn52C/kPtXpdstM=;1BdUyxYdaypVmfj/6OaS5A=="
 ---
 

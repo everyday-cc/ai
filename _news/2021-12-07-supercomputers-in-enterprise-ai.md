@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew"
 type: article
 quality: 61
-heat: 91
+heat: 92
 published: true
 
 provider:

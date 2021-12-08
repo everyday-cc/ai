@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/ap/ap-business/leading-ag-tech-startup-i
 webUrl: "https://www.wfmz.com/news/ap/ap-business/leading-ag-tech-startup-iron-ox-appoints-impossible-foods-and-tesla-veteran-myra-pasek-as/article_b7f0fb4d-8dc3-5a8c-b3e4-31daab02fdb4.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 800
     height: 420
     isCached: true
+
+related:
+  - title: "Ex-Tesla, Impossible Foods lawyer takes top legal job at robot farming startup"
+    excerpt: "Myra Pasek, who was the second in-house lawyer hired by Tesla Inc's Elon Musk and the first general counsel for Impossible Foods Inc, is taking on a new startup assignment, joining Silicon Valley-based robotic farming company Iron Ox Inc as general counsel."
+    publishedDateTime: 2021-12-07T22:33:00Z
+    webUrl: "https://www.reuters.com/legal/legalindustry/ex-tesla-impossible-foods-lawyer-takes-top-legal-job-robot-farming-startup-2021-12-07/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=60"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "Wy5cbcxGLKGVjzTnticarf2LS9ekvnzi5/agaQ/crfWmktmdJAcpQ60VEFF2lc8KB6dYP+E3scuYFN9EaC6kbP9/2LhR5bIV67p5dG7qTGi4K6/0VdASAFmcX7GhDk9N/jR6yBUs5wf0vBAdGdM9vbY4UogW1+yzdYgjbvi4vDFTHMDdjRR6x33vOGk1DhiV0GNiXHl4WJrjUNS5URQ3cnPX1HXwui8UXTj57o8Zxvb8NqY7vtf7ObsU4ECGF3IRUeL4DjscwG0O2+JeyzBaFLK/qhdC27umzqB3LB0Hm8E4iYuW0sKa6WxOSJ3q/UFf6biO6HqqIHP9BWLt2OLUMNAwb0TMa2Sd+cdu6f7acpB2KxhHWTc0e5POHmvD5ayGUrs1uMw044QM5MyRC6gI0ZB6OCE8NxM+k70+uecFPIiWU02/PuKPQFqE8Gk+WoBoGVErUeCmTbS6EaWuCZJuqV6rrGUMec1HMMiD6yqSrAcusmupSnpYQjp8Sekc7qFZVt+EW8TuK38gar98h2lYOA==;QWlW5o25NqIdfRbPI3jGrw=="
 ---

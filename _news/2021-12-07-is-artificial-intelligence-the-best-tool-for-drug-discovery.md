@@ -3,8 +3,8 @@ category: news
 title: "Is artificial intelligence the best tool for drug discovery?"
 excerpt: "According to a leader from Cytoreason, AI isn’t necessarily the best or only tool suited to discover new and novel therapies—it might take a human touch."
 publishedDateTime: 2021-12-07T15:52:00Z
-originalUrl: "https://www.outsourcing-pharma.com/Headlines/Preclinical-Research/Is-artificial-intelligence-the-best-tool-for-drug-discovery"
-webUrl: "https://www.outsourcing-pharma.com/Headlines/Preclinical-Research/Is-artificial-intelligence-the-best-tool-for-drug-discovery"
+originalUrl: "https://www.outsourcing-pharma.com/Article/2021/12/07/Is-artificial-intelligence-the-best-tool-for-drug-discovery"
+webUrl: "https://www.outsourcing-pharma.com/Article/2021/12/07/Is-artificial-intelligence-the-best-tool-for-drug-discovery"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 435
     isCached: true
 
-secured: "/oy1M8c8e5/W7jz5buxJNYfb05yR9IO52TFAlk6GB9l0/NUSiwloQc+T7SHrClULxN4Ssa1RoImAo0EDZHSYwJ96pYt/r2uMmkn4FDSiq4hQ74tLOf9M0sJm2iTpqGXhZLp7RXHmvLV6akj9mSIpeXJ+Pb44m/XgCgihMSsjXBTg+KNg2Ok0NFrQN9No+w/som7iSgp78uHUj20h5QGQivnD0pNgKejoxxBpgBm+fX36wsV6mKpYZS+sGcmbZ9Kwjqq8ZP4UfNvJ5hYZrqnKHg6D42cPQZmDfNgSCG42JXF1n7uS7D7uS2CO9hgYFpi/IZTh21QTQpodoF8zeLTsUKQXNZVAipZLFO7y1Wz0dwzMtgVLfliyivntboHXIyA4GMxk36SPv9ibDJ4Oe+wwwwkTBLPkD58v6yuEtlaWV5b3tq6I1J4tV2GRxDGbHY5e76jybaqYlkUlffuaOuba7zpjh3mkaIi/HL+TdWHkLQOhqPzdbBHJYfVFZEuwLQ3ak38Hjr86ZlTkWVVSa+W7QQ==;16AanKorn6N0acZLiC2iag=="
+secured: "jEAb/I2Y62f1wJ9dDrfV1QQVP4cIOyudHdk+CXtXL5Sj52haqS9P19RE3rTQcSCay3Yrf+WKWXOJC6U4+yquQYqH3K5u67eVBeSfHO4GBFf7PeLANNSws2ELxS4L0AIARGbKiYuzds2IvS6jRhPCXOkwoB0WzWjR5rPamC0sXAtc3quZmzm/H6nS1AimvgLDUcYNb3iPZ+tuzq/eHvOtdcTqa0p9YfblNzK/g8meAWMjvLgJRhVbnI+3GQBwjeRrtHIHHL9nT5qG4KZe0bHaNSLDWIBGjd14e5LADY8U8b3+Ca2wpFCfNX8PljN2quaXwyawB5LC+4WV0gG5QI0wSddyR6Db4VXl92xW+0Xr2+A=;Awyrcyh+6SR6nO9cJhbIVg=="
 ---
 
