@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Wolters Kluwer taps Anne Donovan as Vice President, General Manager of Health Language"
+    excerpt: "Wolters Kluwer Health today announced that Anne Donovan has joined the organization as Vice President and General Manager for its Health Language busi"
+    publishedDateTime: 2021-12-08T18:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211208005661/en/Wolters-Kluwer-taps-Anne-Donovan-as-Vice-President-General-Manager-of-Health-Language"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+
 secured: "yzkOtH74xKllFeI1ycOZ4FhLP9Zl3f+o/cjCDEFyWzB5Wqc0ASWTnizDRmjbQR2zGJEWcG/6DUh3NJPtG1xOCw0cRjAx2rY8BJJ7Ne9oeiDh5KqgMcXmbZDxyDW1CX6jNKZwjBynqacWn7v59Z5jIUvdQkJz94zMZkleR+wR9i9lyNql1jQXOVEYQL600viT+/jXWP5q81m/AR/47oHxNeKNbwkYFpgzCVbVfjOfqijp3dS9kEyc/YkXhuq7VEC5Py+8tVRv/6j+5sy+tgMKNt0j/JUVT+DWqlonIX3gN3LLmliMFs+SdFwXMXZEz8t+TvT+DCS4KBJbw+zluECiij2Wk5HcMAcn+vufVE7Pgc4=;qRXIOpA5OUVDQmvC/6RbOQ=="
 ---
 

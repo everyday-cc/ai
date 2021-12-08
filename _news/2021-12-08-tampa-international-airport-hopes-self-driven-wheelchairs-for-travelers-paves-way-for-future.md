@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fox13news.com/news/tampa-international-airport-hopes-sel
 cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/tampa-international-airport-hopes-self-driven-wheelchairs-for-travelers-paves-way-for-future.amp"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 932
     height: 470
     isCached: true
+
+related:
+  - title: "TPA tests new self-driving wheelchairs"
+    excerpt: "The motorized wheelchairs, similar to the ones you’d see in a supermarket, are free for passengers including those with mobility issues and injuries."
+    publishedDateTime: 2021-12-08T20:18:00Z
+    webUrl: "https://www.wtsp.com/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
+    quality: 59
+    images:
+      - url: "https://media.wtsp.com/assets/WTSP/images/fd127d07-cefb-479c-8bbf-5b926dfc5e6d/fd127d07-cefb-479c-8bbf-5b926dfc5e6d_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Contenders in self-driving trucking"
+    excerpt: "As the year nears a close, the self-driving truck industry is gaining momentum. Many companies notched major technical and business-related milestones in recent months. Here's a look at what each company has done in 2021,"
+    publishedDateTime: 2021-12-06T04:00:00Z
+    webUrl: "https://www.autonews.com/shift/contenders-self-driving-trucking"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AURORA-MAIN_i_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "j7c9RHCyjuQbLuHtl1Gt8kV+22j/R5/MYuIz+1XMqJamGqi4BsjNiUvmYIcA9Ii5hEaL6/Lf0HN2hb7fmrJnRsiYxN987HdNe2U19QUECDOYdZpj5Q2S8ksdlRZnKebweHwX+9zo3RZ2gs8zNLbuQ7xE9Rrgn4GwmbPtQ5zTLHXurCiICyAWCdXzgvf6cPfOVOeUttZUe5EXYTK2nR5s4Uy8RodUGqfzXfbQ/jlLXZp+w9HUUXkU5Shp0CWHiVXDPcxjoK1cWcegr611jkiOFBKOO3Ny7lOpBb7A96NNlUN9ndAX0r46O/vmaqIJBeFkyRlTQOlJG1kRtSHWeVR8S0feBG89BcLXgKa3wJK7LqM=;einXcPwYoQmxMwjthfoQXQ=="
 ---

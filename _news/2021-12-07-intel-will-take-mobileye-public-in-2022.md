@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html"
 type: article
 quality: 172
-heat: 322
-published: true
+heat: -1
+published: false
 
 provider:
   name: New York Times
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel will take its Mobileye automotive unit public in 2022."
+    excerpt: "The chip maker’s Israeli subsidiary builds driver-assistance technology for major automakers and is now testing self-driving cars."
+    publishedDateTime: 2021-12-06T22:31:00Z
+    webUrl: "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html"
+    ampWebUrl: "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 172
+    images:
+      - url: "https://static01.nyt.com/images/2021/12/06/multimedia/06mobileye/06mobileye-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Intel plans to take self-driving car unit public in the U.S. in mid-2022"
     excerpt: "Intel has announced that it plans to list Mobileye, the Israeli autonomous driving firm it acquired for $15.3 billion in 2017."
     publishedDateTime: 2021-12-07T14:01:00Z

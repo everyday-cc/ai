@@ -36,6 +36,15 @@ related:
         width: 800
         height: 428
         isCached: true
+  - title: "Global Artificial Intelligence (AI) Robots Market Trajectory & Analytics, 2021-2026 – ResearchAndMarkets.com"
+    excerpt: "Global Market Trajectory & Analytics” report has been added to ResearchAndMarkets.com’s offering. Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026 The global market for Artificial Intelligence (AI) Robots estimated at US$5."
+    publishedDateTime: 2021-12-06T11:21:00Z
+    webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-ai-robots-market-trajectory-analytics-2021-2026-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 30
   - title: "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud Detection"
     publishedDateTime: 2021-12-08T14:30:00Z

@@ -51,20 +51,6 @@ related:
         width: 836
         height: 627
         isCached: true
-  - title: "Contenders in self-driving trucking"
-    excerpt: "As the year nears a close, the self-driving truck industry is gaining momentum. Many companies notched major technical and business-related milestones in recent months. Here's a look at what each company has done in 2021,"
-    publishedDateTime: 2021-12-06T04:00:00Z
-    webUrl: "https://www.autonews.com/shift/contenders-self-driving-trucking"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AURORA-MAIN_i_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Merced County Test Site for Self-Driving Cars Gets $2M Upgrade"
     excerpt: "While Merced County officials have said there are companies under contract to test at the site, they won’t say who those entities are because of the proprietary nature of the products being developed and tested there."
     publishedDateTime: 2021-12-06T23:35:00Z

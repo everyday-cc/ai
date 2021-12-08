@@ -40,6 +40,20 @@ related:
         width: 772
         height: 434
         isCached: true
+  - title: "Lenovo Delivers Artificial Intelligence at the Edge to Drive Business Transformation"
+    excerpt: "Lenovo expands its ThinkEdge portfolio with GPU-rich edge server designed to accelerate business critical insights New compact, ruggedized and quiet Lenovo ThinkEdge SE450 server delivers performance and scalability at the edge Lenovo ThinkEdge SE450 server enables edge AI solutions for retail,"
+    publishedDateTime: 2021-12-08T20:41:00Z
+    webUrl: "https://www.pressreleasepoint.com/lenovo-delivers-artificial-intelligence-edge-drive-business-transformation"
+    type: article
+    provider:
+      name: KLAS Press Release
+      domain: pressreleasepoint.com
+    quality: 30
+    images:
+      - url: "https://www.pressreleasepoint.com/sites/all/modules/press_release/social-media-icons/fbpage.png"
+        width: 256
+        height: 256
+        isCached: true
 
 secured: "qhkukOdPrvDxztspYXQRE+nIHvi75wBCOkQF9D4/0LipjTETizRjHih1kTVk9Fn5iXHTurEbOBQjgb7haNvhHMjvg7RsuwVQ7WibdPpAnitZb+YwE0/PT76758N9TBD3U63cW6jpmCY2xtOv2il+tebd35KpjQuXfzX/D6ylNmD9gcHgUzpgQwi/w1Wsu6i6kxjcxC5FCpHXIQ67TqVCAMu48Ul8OPpTXq88KSsX36cbjrgK8Acx672F4tpjOASiE/DcGI7k9jciNhpUt53hWGNm3YieA0gMtgcnJ0J1fcukERrBv4RSC6o5enEVq1C6psvHpJOcZ0iKTswK4+xgww4vg4iD+GhOrtxHPXKOjqk=;pQohPGLxKfOrRFXKLdSUpw=="
 ---

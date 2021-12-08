@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/waymos-slow-going-arizona-opens
 webUrl: "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: Reuters
@@ -27,6 +27,35 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "FOCUS-Robotaxi race opens up as top contender Waymo in low gear in Arizona"
+    excerpt: "Alphabet Inc's Waymo GOOGL.O risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches."
+    publishedDateTime: 2021-12-08T17:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona"
+    ampWebUrl: "https://www.nasdaq.com/articles/focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "Robotaxi race opens up as top contender Waymo in low gear in Arizona"
+    excerpt: "Alphabet Inc’s Waymo risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches. Companies including Ford Motor Co’s Argo AI and General Motors Co’s Cruise are competing for the billions"
+    publishedDateTime: 2021-12-08T18:08:00Z
+    webUrl: "https://www.metro.us/robotaxi-race-opens-up/"
+    ampWebUrl: "https://www.metro.us/robotaxi-race-opens-up/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/robotaxi-race-opens-up/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 59
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEHB70O4-BASEIMAGE.jpg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "bevp+3GfnoxdVuyv8ZnUG1BdWvLj8Ig9CVbD/9MAmnx8MuD/2RbBELhShosKve5VIFL97wo+XWdchQSdmNkE5t1LZUWtE9LLJB56+ILeUDQd/2y5NtkG20tyqGsZgbqPfGFmrUxgnAhyeAb0s6dh64I9cXfSF/9NK9fjWhrds1hu+lKIw8ZOVLiPbNVVMrndCy+KhAFUEeiZZq8Av9eQPOIlACgKZxK853zfa65xejhoKe8tKTLUo0Oc57zu+bqFENl3/4JqKSNPuAkygzh4y5CfWZEVsW+UVtfJRyahFK8n1Vt6d1W50efuf462p61+Iueyn9S20b6pXY0z22fTDdwsF/8tXXBTwnaLxQfuK2I=;CE1930iXoGoASoHjgiiI1A=="
 ---

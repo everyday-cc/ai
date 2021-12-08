@@ -44,6 +44,20 @@ related:
         width: 918
         height: 506
         isCached: true
+  - title: "How Scientists Are Using AI to Understand Climate Change"
+    excerpt: "The climate is changing faster than ever before. Machine learning could be a key understanding how--and to what extent. That's according to Karen A. McKinnon, assistant professor at UCLA's Institute of the Environment and Sustainability."
+    publishedDateTime: 2021-12-08T19:09:00Z
+    webUrl: "https://www.inc.com/kevin-j-ryan/machine-learning-climate-change-neurips.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1232186180_489523_ljsza6.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "t7+/+i1Tp0CW2XJ+XG+CrXAtd/h5jgRTgndAgVhfmh8xRAPidEIMtlV2e5ohaPYKSpsV5LB0kPSYKxnck1XjyOjTmWieTb6Lu9qIlnYfzkkSh+RdcgQgs7yK/fvLATUhkitiqHH/wvbN0puK8m3gkdWAT33yNadxB5tD6vbsooINnbzzPGjVJxWJvTHiYcxCWvTvsF/0YBMbjwQMvzZGlgz9eqKeknmMrMrwTudxyoJTXUiav0+0PhnKx2HLmMshCu+xgYV+wBYrt26DspzAcVftRxRb5g/C3cHtdpKTcT2QU33jSvXAcawiztfGOjsafudcEFbbYJQdN1/cGCNz+luW1j5oD1IDNv+Hk1OmKrFbHsNbz+RMV3ul51BENosUYFf1+g0+hL7TvluUtYDx9NR1hmh94BAJG9jP6z/UhCIE1S15/LbSMBOuyd1SoQ8LK/5va0OY4gyqvlLbzTHbY18gOY/THX9sPjVVYiQj0PKSBcGGSpA+P01+KCQVi3uWwVflVzTvElvBMdBSfv6rDw==;G0chF6UJS6pdQPQz2erKiw=="
 ---
