@@ -127,20 +127,6 @@ related:
         width: 770
         height: 400
         isCached: true
-  - title: "How This Pune-Based Startup Is Leveraging AI to Democratize Location Intelligence"
-    excerpt: "Dista uses location information from anything with a GPS and translates it into a rich dataset to provide meaningful insights and predictions."
-    publishedDateTime: 2021-12-03T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-pune-based-startup-is-leveraging-ai-to-democratize-location-intelligence/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 32
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/ceo-bb_11zon.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "WDYqeDBIKT6qPbcl+d54sHogeKQpj1MZI+unCWUZ8qWGSBP+83A+m0FoRCU0IjWgNEPAUivbFgHxAtsjQo4Dp5bfPaMna88Nfpzi8j4LA/rZwJAcJgweRww5Tx5047rl2J/5FlOjzyc8FoJ79bPXrma4rL8GWkw3Iv8Zyt9pp+x+QAzptFdeQjWJwKdAEIYTxdIhmxWOHjXj626NWCnyZRRghicarUo32slZ+vn6e3wCRoTmvm4GBJ9LhHqAW3jYs3JkV26s6+v4YKqfZcvQmF69QkbewIZemul3hAKmvG1DjkKGgjqBC+4eL96CYx6JVk2UiRennMTq7n16PqBfHvWHFczPqoIc5Xa4b3zgkPW+ccsfUEl+5XR6unSC+WxeEX4hrO7+RQXiAQekmO+Y7EjjzQrjlovHoxBZQPQQ4ev/WIjBD2x17QKt99dWRnV402B4P+rC6lAPPE2FPQ5JmwBvKYqw5Z1Ooz07QU8XE6LcirBOb9jYAMLVH9pLwrwNxm5rvKC4FR3Gnr0zeS5qmA==;p8XlLVcyGNngzrk57xeBgw=="
 ---

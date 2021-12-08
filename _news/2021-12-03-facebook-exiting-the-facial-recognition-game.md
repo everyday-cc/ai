@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-th
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
     quality: 44
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/12/07/d599fdea-c0c5-476e-9a19-303ffedf42ea/thumbnail/1200x630/d4309b1b45e934ec0beae30f868051f9/gettyimages-1228395917.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "NEC to introduce facial recognition vaccination check system"
-    excerpt: "Japan's NEC Corp. will start the full-scale introduction of a vaccination certification system for COVID-19 based on facial recogniti"
-    publishedDateTime: 2021-12-03T10:20:00Z
-    webUrl: "https://mainichi.jp/english/articles/20211203/p2g/00m/0bu/073000c"
-    type: article
-    provider:
-      name: mainichi.jp
-      domain: mainichi.jp
-    quality: 39
-    images:
-      - url: "https://cdn.mainichi.jp/vol1/2021/12/03/20211203p2g00m0bu072000p/0c10.jpg?1"
         width: 1200
         height: 630
         isCached: true

@@ -2,6 +2,100 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2021-10-06-neural-magic-announces-30-million-series-a-funding-led-by-nea.md",
+      "title": "Neural Magic Announces $30 Million Series A Funding Led by NEA",
+      "excerpt": "Neural Magic, the AI company building a software platform for deep learning inference, today announced a $30 million Series A funding round led",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/neural-magic-announces-30-million-series-a-funding-led-by-nea/article_063fb074-abc4-5e6a-9d53-67886b263ac6.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/neural-magic-announces-30-million-series-a-funding-led-by-nea/article_063fb074-abc4-5e6a-9d53-67886b263ac6.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-06-google-sets-up-50m-fund-to-invest-in-african-startups.md",
+      "title": "Google sets up $50M fund to invest in African startups",
+      "excerpt": "Google plans to invest up to $50 million in African early- and growth-stage startups via its Africa Investment Fund, ramping up efforts ... will make its first set of investments, Gajria said ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/06/google-sets-up-50m-fund-to-invest-in-african-startups/",
+      "originalUrl": "https://techcrunch.com/2021/10/06/google-sets-up-50m-fund-to-invest-in-african-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/D53E291C-8FF2-4B82-ACAC-07B55633EF10.jpeg?w=680",
+          "width": 680,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/06/google-sets-up-50m-fund-to-invest-in-african-startups/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/06/google-sets-up-50m-fund-to-invest-in-african-startups/amp/",
+      "publishedDateTime": "2021-10-06T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-06-how-to-identify-ai-opportunities.md",
       "title": "How To Identify AI Opportunities",
       "excerpt": "Businesses might throw more money to new AI in the near future, but that doesn’t guarantee they’ll get a significant return on investment.",
@@ -1101,100 +1195,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google.md",
-      "title": "AI as Service Market to Witness Huge Growth by 2026: IBM, Microsoft, Google",
-      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 10/05/2021 -- The latest study released on the Global AI as Service Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-as-service-market-to-witness-huge-growth-by-2026-ibm-microsoft-google",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/218f40d7d6678c04a643c4160e6ade1c30ea2878-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-05T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-mlops-platform-domino-data-lab-nabs-100m.md",
-      "title": "MLOps platform Domino Data Lab nabs $100M",
-      "excerpt": "Domino Data Lab, an MLOps platform aimed at enterprise customers, has raised $100 million in a funding round, with participation from Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/",
-      "originalUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/cf29b39c-24c2-421b-b839-f590ce3123f7-e1591042839433.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/05/mlops-platform-domino-data-lab-nabs-100m/amp/",
-      "publishedDateTime": "2021-10-05T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

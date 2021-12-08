@@ -10,7 +10,7 @@
       "originalUrl": "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {

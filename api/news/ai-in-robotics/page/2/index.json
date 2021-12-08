@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-02-meet-xenobots-worlds-first-living-robots-that-can-reproduce.md",
+      "title": "Meet Xenobots, World's First Living Robots That Can Reproduce",
+      "excerpt": "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world.",
+      "sourceUrl": null,
+      "webUrl": "https://thelogicalindian.com/technology/xenobots-worlds-first-reproducing-living-robots-32326",
+      "originalUrl": "https://thelogicalindian.com/technology/xenobots-worlds-first-reproducing-living-robots-32326",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thelogicalindian.com/h-upload/2021/11/29/400x400_207630-untitled-design-2021-11-29t103354438.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326",
+      "cdnAmpWebUrl": "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326",
+      "publishedDateTime": "2021-12-01T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Logical Indian",
+        "domain": "thelogicalindian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-why-a-robotics-industry-is-important-for-national-devt.md",
       "title": "Why a robotics industry is important for national dev’t",
       "excerpt": "The evolution of technology in recent years has sparked significant public and media discourse about robotics and its ability",
@@ -1389,49 +1432,6 @@
       "provider": {
         "name": "Hackaday",
         "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-the-retail-robot-battle-continues.md",
-      "title": "The Retail Robot Battle Continues",
-      "excerpt": "In this second installment of a four-part series, Georges Mirza looks at the robots powering Schnucks and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.winsightgrocerybusiness.com/technology/retail-robot-battle-continues",
-      "originalUrl": "https://www.winsightgrocerybusiness.com/technology/retail-robot-battle-continues",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.winsightmedia.com/platform/files/public/2021-11/background/400x600/Robotsshutterstock_0.jpg?VersionId=8789rnVJ8sKdSKhNKYay7TUlYg5eHrO.",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/technology/retail-robot-battle-continues",
-      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/technology/retail-robot-battle-continues",
-      "publishedDateTime": "2021-11-22T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Winsight Grocery Business",
-        "domain": "winsightgrocerybusiness.com",
         "images": null,
         "publishers": null,
         "authors": null

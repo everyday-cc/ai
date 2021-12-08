@@ -2,6 +2,101 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2021-09-16-opencv-and-luxonis-launch-smaller-lighter-cheaper-oak-d-lite-all-in-one-computer-vision-gadget.md",
+      "title": "OpenCV and Luxonis Launch Smaller, Lighter, Cheaper OAK-D-LITE All-in-One Computer Vision Gadget",
+      "excerpt": "New $79 crowdfunding price makes the OAK-D-LITE the cheapest model yet, despite its sleek design and impressive capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hackster.io/news/opencv-and-luxonis-launch-smaller-lighter-cheaper-oak-d-lite-all-in-one-computer-vision-gadget-fb5da778dfbd",
+      "originalUrl": "https://www.hackster.io/news/opencv-and-luxonis-launch-smaller-lighter-cheaper-oak-d-lite-all-in-one-computer-vision-gadget-fb5da778dfbd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackster.imgix.net/uploads/attachments/1348897/_dL19B7lDQy.blob?auto=compress%2Cformat&w=600&h=450&fit=min",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T10:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackster",
+        "domain": "hackster.io",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-16-global-face-recognition-device-market-challenges-business-overview-and-forecast-research-study-to-2025.md",
+      "title": "Global Face Recognition Device Market Challenges, Business Overview and Forecast Research Study to 2025",
+      "excerpt": "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-challenges-business-overview-and-forecast-research-study-to-2025-2021-09-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-challenges-business-overview-and-forecast-research-study-to-2025-2021-09-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-15T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-16-boston-dynamics-spot-learns-new-skills-with-30-release.md",
       "title": "Boston Dynamics Spot learns new skills with 3.0 release",
       "excerpt": "Spot Release 3.0 enhances its data collection capabilities to improve ease of use and efficiency for facility inspection.",
@@ -969,92 +1064,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-toronto-based-private-ais-language-redaction-tool-attracts-315-million-in-seed-funding.md",
-      "title": "Toronto-based Private AI’s language redaction tool attracts $3.15 million in seed funding",
-      "excerpt": "Along with Forum Ventures, M12 co-led a $3.15 million round in seed funding for the Toronto-based AI firm Private AI.",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/toronto-based-private-ais-language-redaction-tool-attracts-3-15-million-in-seed-funding/",
-      "originalUrl": "https://betakit.com/toronto-based-private-ais-language-redaction-tool-attracts-3-15-million-in-seed-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2018/04/data.jpeg",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-bosch-driverless-the-journey-begins.md",
-      "title": "Bosch DRIVERLESS: the journey begins",
-      "excerpt": "Close your eyes. Let your imagination flow. What is your dream? Think about it. Done? If the answer you gave is 'working in the world of racing,' then everything written below will sound very interesting to you.",
-      "sourceUrl": null,
-      "webUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/",
-      "originalUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-1.motorsport.com/images/amp/YP3Jzlj2/s6/bosch-driverless-intro-1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/amp/",
-      "cdnAmpWebUrl": "https://it-motorsport-com.cdn.ampproject.org/c/s/it.motorsport.com/general/news/bosch-driverless-the-journey-begins/6667857/amp/",
-      "publishedDateTime": "2021-09-15T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motorsport",
-        "domain": "motorsport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

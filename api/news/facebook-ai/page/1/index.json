@@ -54,7 +54,7 @@
       "originalUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -230,6 +230,50 @@
       ]
     },
     {
+      "path": "_news/2021-12-05-ex-google-ai-ethics-expert-timnit-gebru-to-launch-anti-bias-research-institute.md",
+      "title": "Ex-Google AI ethics expert Timnit Gebru to launch anti-bias research institute",
+      "excerpt": "Timnit Gebru is launching an artificial intelligence research institute after Google fired her for claiming the company's AI were unethical.",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/",
+      "originalUrl": "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2021/12/GettyImages-1028811892-scaled.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/12/04/timnit-gebru-launches-dair/amp/",
+      "publishedDateTime": "2021-12-04T20:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-facebook-exiting-the-facial-recognition-game.md",
       "title": "Facebook Exiting The Facial Recognition Game",
       "excerpt": "Meta, the company formerly known as Facebook is pulling the plug on its facial recognition program. It's planning to delete more than one billion people’s individual facial recognition templates, and",
@@ -238,7 +282,7 @@
       "originalUrl": "https://www.forbes.com/sites/korihale/2021/12/03/facebook-exiting-the-facial-recognition-game/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1366,58 +1410,6 @@
       "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
       "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-testing-its-prototype-aria-smart-glasses-in-cars-via-bmw/",
       "publishedDateTime": "2021-10-28T10:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony.md",
-      "title": "Frances Haugen: Key moments from Facebook whistleblower's UK parliamentary testimony",
-      "excerpt": "The former Facebook product engineer answered questions from lawmakers on regulation, Instagram Kids and whether she thought Facebook was evil.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/b08c5Epe3NTGTrmK4QYvTgFuIsQ=/1200x630/2021/10/25/943d7bc3-8a31-4cd3-9a2c-eeb0a0b39f77/screenshot-2021-10-25-at-14-36-38.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/frances-haugen-key-moments-from-facebook-whistleblowers-uk-parliamentary-testimony/",
-      "publishedDateTime": "2021-10-25T12:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNET",

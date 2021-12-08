@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveragi
 webUrl: "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveraging-artificial-intelligence/"
 type: article
 quality: 67
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -129,20 +129,6 @@ related:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg"
         width: 770
         height: 400
-        isCached: true
-  - title: "How This Pune-Based Startup Is Leveraging AI to Democratize Location Intelligence"
-    excerpt: "Dista uses location information from anything with a GPS and translates it into a rich dataset to provide meaningful insights and predictions."
-    publishedDateTime: 2021-12-03T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-pune-based-startup-is-leveraging-ai-to-democratize-location-intelligence/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 32
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/ceo-bb_11zon.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "rMddHNOsvaLii/Fizi/33mAePKVAHvfGhshm0RKFirI7lx8bexi0LC1FJHkPE+T8GwXnVRZn2o0Uv3qylLbiy+xtn0SRhMHWz1KIYZ1FgNbPpv4xwJXySHPmEyUGBh5ACDSQez7bMApN/GmO5TAL74Rsw+3TrDV977lk6839ZA1VI1PGce6Y4lCsNAv3srOVSi/+sr9Wj0SrRy2TRD5pNzMeAEKwvZONAydSNG2LmXAPAGQplbBH7z6czcx26bFggDm188uXfZYDa294ozE3EnZF4K/c0chB3r8wCBj2ELcfZ6HSFaLVffZ8SeDXq0Zo9lWlM4gQUOMUIPlY6kVm28E/dDsja1FQHyl6k6bXNMcVLmdpBNhngMiximQtjRFnAuvOibkgyIyshNVUH13hy2gfKYYt+VhO2ebqS5tsJjvZJwrSdECv1ks8YGgV2++NDN5R3wvEd+Y9FeFT7m5bm4TaodARUFroP/hYfdblnteUmwZaeFDR80gx8Hkce5DaBmhxcRxvZN9sbn5W/thFyQ==;AWU5JgpMuJKhqcIIv6QyUQ=="

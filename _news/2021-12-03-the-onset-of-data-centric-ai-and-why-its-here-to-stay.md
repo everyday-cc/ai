@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/03/the-onset-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/03/the-onset-of-data-centric-ai-and-why-its-here-to-stay/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Data centre trends in 2022: Climate, AI and integration"
-    excerpt: "Vertiv announces expected data centre trends for 2022, highlighting importance of climate-related moves and efforts towards sustainability"
-    publishedDateTime: 2021-12-03T10:51:00Z
-    webUrl: "https://www.itp.net/network/vertiv-announces-expected-data-centre-trends-for-2022"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 19
 
 secured: "IrUEcldSO51wYhEeLYgyGLqss4U9yO1SEbNg6WwZs1opbylY4VVq05rH+Q6O9QUVb/GYoTqgGaxOzsx3XlUU1Gkeb4bvE0zhcRXlxZgVWu+WqXDENF5zNcLp4E8p335tiu0OBfspWXEcmVDzM8IWxDRGU/+AZgv6cF7oNKOLUhJVFRK8OjXr5D8jvSFvS9puPTkNZMlBcVd7GxBji38lL4i0tCaA7ha6/yyRMxC60rjPWWtTrn4/jvuJhTwy+/CdCRtvHgmVk9nnIwrXsOKjVKNsno9/BkxlkW4+s1xUQVv7cBpnw2qkyO8/AHHXI4Vc1VMttsbUeUJEE+MK6aoySGvRSMBysxydZJMrKWK0VLB3L0Efmf5btiJ0oEga/hcKfVaowYYlmAE2b0oBJl1yqT3UF5rMSFsQ1LwK4CYBexpDNKhyhqd73cGq/sIgIAAEntS6YoR4F4aHtAFAxckXefRI1MUfE7W2BVP69+7ca7DKvzK7VPXRLlMgl2gaQXfitl5swwzGaJnWJAwGAN7vmA==;P6HANc0uX0uoJgZCwM6n2g=="
 ---

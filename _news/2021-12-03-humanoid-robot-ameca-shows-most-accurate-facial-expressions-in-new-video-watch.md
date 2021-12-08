@@ -7,7 +7,7 @@ originalUrl: "https://www.republicworld.com/technology-news/science/humanoid-rob
 webUrl: "https://www.youtube.com/watch?v=IPukuYb9xWw"
 type: article
 quality: 134
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-12/20211207_Robot_Realistic_Facial_01-seo.jpeg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "A New Humanoid Robot Has the Most Advanced and Realistic Facial Expressions Yet"
-    excerpt: "Since nonverbal communication plays a role in building trust, scientists are adding hyper-realistic facial expressions to robots; meet Ameca."
-    publishedDateTime: 2021-12-03T09:58:00Z
-    webUrl: "https://interestingengineering.com/a-new-humanoid-robot-has-the-most-advanced-and-realistic-facial-expressions-yet"
-    ampWebUrl: "https://amp.interestingengineering.com/a-new-humanoid-robot-has-the-most-advanced-and-realistic-facial-expressions-yet"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-new-humanoid-robot-has-the-most-advanced-and-realistic-facial-expressions-yet"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 55
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/nR6b7dxQwo/sizes/ameca-1920_resize_md.png"
-        width: 744
-        height: 419
         isCached: true
   - title: "Meet Ameca, the Humanoid Robot With Eerily Realistic Facial Expressions"
     excerpt: "Okay, we know that most humanoid robots are designed to mimic human motion and interaction. But Ameca, the new machine developed by robotics company Engineered Arts, takes that to a new level. It can move and put on facial expressions that look incredibly natural and real – too real."

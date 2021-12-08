@@ -2,6 +2,104 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-11-15-why-ai-investments-fail-to-deliver.md",
+      "title": "Why AI investments fail to deliver",
+      "excerpt": "The success or failure of AI initiatives has more to do with people than with technology. If you want to put AI into practice in a way that improves business outcomes, you must avoid these 6 mistakes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.html",
+      "originalUrl": "https://www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/opened_golden_safe_amid_abstract_structures_security_wealth_investment_by_violka08_gettyimages-1167344149_2400x1600-100858618-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3639028/why-ai-investments-fail-to-deliver.amp.html",
+      "publishedDateTime": "2021-11-15T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-15-aiml-workloads-need-extra-security.md",
+      "title": "AI/ML Workloads Need Extra Security",
+      "excerpt": "The need for security is pervading all electronic systems. But given the growth in data-center machine-learning computing, which deals with extremely valuable data, some companies are paying particular attention to handling that data securely.",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/ai-ml-workloads-need-extra-security/",
+      "originalUrl": "https://semiengineering.com/ai-ml-workloads-need-extra-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/Fig01_Rambus_Security_AI.png?fit=1706%2C866&#038;ssl=1",
+          "width": 1706,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T00:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Security",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-15-future-of-ai-artificial-intelligence-ka-future-bharat-mein.md",
       "title": "FUTURE OF AI -Artificial Intelligence ka future Bharat Mein",
       "excerpt": "Over the past decade, we experienced exponential growth in AI. Well all the credit goes to the technological advancement with the help of which we are talking to Siri or Alexa In India, businesses like Swiggy and Zomato,",
@@ -1086,109 +1184,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-13-robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem.md",
-      "title": "Robots vs. Fatbergs: High-Tech Approaches to America’s Sewer Problem",
-      "excerpt": "Cash-strapped U.S. cities are turning to drones, artificial intelligence and other innovations to help inspect and fix the country’s aging, underground arteries of waste",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
-      "originalUrl": "https://www.wsj.com/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-434095/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robots-vs-fatbergs-high-tech-approaches-to-americas-sewer-problem-11636779629",
-      "publishedDateTime": "2021-11-12T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-13-ai-tool-offers-cure-for-scattered-medical-data.md",
-      "title": "AI tool offers cure for scattered medical data",
-      "excerpt": "Aggregating medical data for patients and analyzing it using AI algorithms can yield useful insights for hospitals and health care systems.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/",
-      "originalUrl": "https://venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1286541345-e1636479956952.jpg?fit=800%2C560&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/12/ai-tool-offers-cure-for-scattered-medical-data/amp/",
-      "publishedDateTime": "2021-11-12T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

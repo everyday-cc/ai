@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/global-assistive-robotics-market-size-to-rea
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://cdn.openpr.com/U/c/Uc06500488_g.jpg"
         width: 800
         height: 428
-        isCached: true
-  - title: "The Role of AI in the Global Healthcare Market 2021: Rising Utilization of Robots for Surgical and Rehabilitation Procedures"
-    excerpt: "The global AI in healthcare market is forecasted to record a value of US$22.68 billion in 2025, progressing at a CAGR of 35.59%, for the duration spanning 2021-2025. Factors such as rising utilization of robots for surgical and rehabilitation procedures,"
-    publishedDateTime: 2021-12-03T10:41:00Z
-    webUrl: "https://menafn.com/1103298459/The-Role-of-AI-in-the-Global-Healthcare-Market-2021-Rising-Utilization-of-Robots-for-Surgical-and-Rehabilitation-Procedures"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 44
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?991765"
-        width: 362
-        height: 250
         isCached: true
 
 secured: "nPmjNBu5e8OcxmvOzzY/BCP6bA7cC0KbN0jDvVJAtoKzIdg+/pD9WvEqaByZst/cwpUEy3VU832KKN9RF6uUa1Pi+5sQ5sdxDP2rja+Pa6GBRjDH/Ok9TBFnZ+no3w7+x5QQqPuVcRs4Xb0qmTYGNA8NRVgI5kgAKvlxSAOYhPoSsRzUAnmhK3/PuiCWKgWmQEwFCwkmpKSrgEuzBLHQ2PH2TGkPhjv8p3QTaq1QUxHPYNoVm3FMhcazkaUVtw8R82hSwWVFoTFZzFZhmfFMGuwyuLFJxn7ODm5/KUqfoimOZvRO1VZCR2dCsRn7LaDbiqOq5xMQZDVzr8+zdnAfcqW89xYiWw7lcirrBad054A3LMJJhwqitN7l5M+gjp3spFtuYzkzVguGgKdtK5vIhxonLDagbL521KYkLYp56rVSwO+pWlqDGPjOqelE6Izcxbi6Kd1FZkhA0YPIpHFAO/dvnlPkd+rIw+k6zeUTxan5iH+Cg3AftxqFp5iP+lpFGhTrIkM11EuXYmTGvld/sQ==;oGHPVl0yPiTqmekizIPbSQ=="

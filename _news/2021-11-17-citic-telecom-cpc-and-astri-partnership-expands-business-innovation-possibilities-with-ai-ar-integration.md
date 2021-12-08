@@ -1,41 +1,28 @@
 ---
 category: news
 title: "CITIC Telecom CPC and ASTRI Partnership Expands Business Innovation Possibilities With AI-AR Integration"
-excerpt: "Creating unprecedented value for businesses around the globe by embracing CITIC Telecom CPC's ICT-MiiND Strategy HONG KONG, Nov 17, 2021 - () - CITIC"
-publishedDateTime: 2021-11-17T10:52:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/a24142063/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integ"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/a24142063/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integ"
-ampWebUrl: "https://www.benzinga.com/amp/content/24142063"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24142063"
+excerpt: "The key features include data visualization, cognitive object recognition and middleware enhancement. \"Fostering a culture of innovation and embracing intelligence are our core values and are ..."
+publishedDateTime: 2021-11-17T13:02:00Z
+originalUrl: "https://www.asiaone.com/business/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-ai-ar"
+webUrl: "https://www.asiaone.com/business/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-ai-ar"
+ampWebUrl: "https://www.asiaone.com/business/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-ai-ar?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-ai-ar?amp"
 type: article
-quality: 22
-heat: 22
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "CITIC Telecom CPC and ASTRI Partnership Expands Business Innovation Possibilities"
-    excerpt: "Creating unprecedented value for businesses around the globe by embracing CITIC Telecom CPC's ICT-MiiND Strategy HONG KONG, Nov 17, 2021 - (ACN Newswire) - CITIC Telecom International CPC Limited (CITIC Telecom CPC),"
-    publishedDateTime: 2021-11-18T00:25:00Z
-    webUrl: "https://pr-inside.com/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-r4855370.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 19
-    images:
-      - url: "http://www.pr-inside.com/images/uploads/pr/2016/80989/20211118_low-citic2-211117_80989.jpg"
-        width: 500
-        height: 334
-        isCached: true
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/asiaone_default.jpg?itok=3gH19sbL"
+    width: 763
+    height: 509
+    isCached: true
 
-secured: "5kh2Mtj5jZ6aPgZgqeoPYB0Z0Lo4bmYN6ki4XraUyKvYgwwAKuMgE6tlW8WFkq2UwHcLdSrYJXvix0UKBeUOajKxXkW8ziikM/HiRDqHe37BD/CU8CuRd6M3OVqqqkqikxK1QxqnVlcDLQwV8ZAzSzF/caY5/p/KvfFypb+mPwAfNx4bgU4lk6zx73K/bHlWNk8AUmE1VmSu7YPektu2YOyMwYpedApxkZHySdqF6Ybp9JrSHGBltke3xMnbRrF0bt5TfT6Dtdj+SGRNoyIirOu+ECBsyb+puab0/6fCiyfJEa7V0Dvn3/VMiQNjmkuwHcQdeZrmMd9Gd4mjmIH/PNHuBu06KqmxWn6fpP/9UBeeZIKujr33cFvhP1x3t/7bAJgXDyE80ZiaQSj05GB8lE0zGmq5HAlrDSqIbEbETNXu9AXx4BDt7tWb2qhK+0p6BIB9mQDC0gW9Vpfp0AFSeabcr1JJABtNca/XGIFa65By+VlcKc7DywlxPNCuJgY/YTOgWXU2bfVeRbc5wQoOVQ==;1YcWY8nL6Y18K3hn9rwWUw=="
+secured: "W1PrUk+Xa7iPcmbkYn9Zkwa6NrEbMBrglVcbbLWM1uRYZnap9oUfpi2qnyBf0gINkyXEVrIiu2/6MLJoZIO8cCa25VYwVRatfds3hnGMv1T4yhN0qX9IR+DZEiaE6jNK5nBRgAIzHXhcSQUZ39/Qi89SoTrUDAuKY18NkHA5ST1zkiGKNDxHyFJktfW4auR1A1p25d3lTAPoULOUvZFHlmXzRWbH1mny9RdG+Ruy85aKR0CvI+TlQCiyRStM+Vhml1W4Kb39CRMOsJ9pOV46YeSXuaE0JB10pvab6xoG4vnYld3DoJAiczztKLl61LtXh0GAsTr7P2SLKZ3/9tmrB1UrUoOgTKnxZi1uL3Kdbc8=;6kwhJ+IImagS6BxTGPhc9w=="
 ---
 

@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -167,7 +168,7 @@
       "originalUrl": "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -207,7 +208,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -1002,7 +1004,7 @@
       "originalUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {

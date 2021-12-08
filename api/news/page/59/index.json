@@ -2,6 +2,92 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-10-22-momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings.md",
+      "title": "Momentum in Azure Cloud to Aid Microsoft (MSFT) Q1 Earnings",
+      "excerpt": "Microsoft MSFT is scheduled to report first-quarter fiscal 2022 results on Oct 26. The company’s quarterly numbers are likely to have been driven by the continued strength in its cloud platform — Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22",
+      "originalUrl": "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/momentum-in-azure-cloud-to-aid-microsoft-msft-q1-earnings-2021-10-22?amp",
+      "publishedDateTime": "2021-10-22T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-22-18-tech-deals-for-the-weekend-black-friday-like-prices-on-tvs-bluetooth-speakers-robot-vacuums-and-more.md",
+      "title": "18 Tech Deals for The Weekend: Black Friday-Like Prices On TVs, Bluetooth Speakers, Robot Vacuums And More",
+      "excerpt": "If you love gadgets, this is a good weekend is looking good. Here are deals on Bluetooth speakers, electric scooters, TVs and streaming boxes, not to mention a slew of other gadgets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6171dfc6690a0277b2699717%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1500%26cropY1%3D139%26cropY2%3D1264",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/10/22/tech-deals-roundup-save-on-fire-tv-segway-echo-show/amp/",
+      "publishedDateTime": "2021-10-22T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-senior-industry-leaders-need-to-learn-about-ai.md",
       "title": "Senior industry leaders need to learn about AI",
       "excerpt": "Bradley Merrill Thompson of Epstein Becker Green encourages company leaders to develop an understanding of the vocabulary and workings of AI given the present and emerging legal risks and liabilities.",
@@ -1093,83 +1179,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-167m.md",
-      "title": "Deep North, which uses AI to track people from camera footage, raises $16.7M",
-      "excerpt": "Deep North, a startup developing technology to monitor the behaviors of people captured on camera, has raised $16.7 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/",
-      "originalUrl": "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/21/deep-north-which-uses-ai-to-track-people-from-camera-footage-raises-16-7m/amp/",
-      "publishedDateTime": "2021-10-21T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-terrafuse-ai-launches-new-platform-to-visualize-california-wildfire-risk.md",
-      "title": "Terrafuse AI Launches New Platform to Visualize California Wildfire Risk",
-      "excerpt": "Climate modeling company launches the first free, publicly available, responsive environmental data platform to identify property risk from wildfires through Wildfire AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kotatv.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/",
-      "originalUrl": "https://www.kotatv.com/prnewswire/2021/10/21/terrafuse-ai-launches-new-platform-visualize-california-wildfire-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-21T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KOTA TV",
-        "domain": "kotatv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

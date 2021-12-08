@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-07T21:54:00Z
 originalUrl: "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207"
 webUrl: "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - IBM AI
 
 images:
   - url: "https://news.mit.edu/sites/default/files/images/202111/man-making-cement.jpg"

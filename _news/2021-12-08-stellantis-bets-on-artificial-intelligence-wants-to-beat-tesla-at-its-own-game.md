@@ -43,19 +43,19 @@ related:
         isCached: true
   - title: "Stellantis wants to outfit cars with AI to drive up revenue"
     excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
-    publishedDateTime: 2021-12-07T22:59:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-stellantis-software-strategy-ap-20211207-azdtjvmfyjhbjaodgvs6cvp4iu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/business/ct-biz-stellantis-software-strategy-ap-20211207-azdtjvmfyjhbjaodgvs6cvp4iu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-stellantis-software-strategy-ap-20211207-azdtjvmfyjhbjaodgvs6cvp4iu-story.html?outputType=amp"
+    publishedDateTime: 2021-12-08T00:50:00Z
+    webUrl: "https://www.ourmidland.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
+      name: Our Midland MI
+      domain: ourmidland.com
     quality: 59
     images:
-      - url: "https://www.chicagotribune.com/resizer/kKHHlwghYkYuyHPjMbIE03brF1s=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/LKEYZWCYDB4O5FLZPIOTYPXFPM.aspx"
-        width: 1200
-        height: 800
+      - url: "https://s.hdnux.com/photos/01/23/11/55/21797705/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
   - title: "Stellantis Targets $20B+ in Sales From Software by 2030"
     excerpt: "The company is setting up an academy that aims to reskill more than 1,000 of its workers with data and analytics skills."
@@ -84,6 +84,20 @@ related:
       - url: "https://storage.googleapis.com/afs-prod/media/8ace94a4da9546028e182b0e1b7af7bb/3000.jpeg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "CEO: Stellantis wants to outfit cars with AI"
+    excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in $22.6"
+    publishedDateTime: 2021-12-07T19:08:00Z
+    webUrl: "https://www.kokomotribune.com/news/ceo-stellantis-wants-to-outfit-cars-with-ai/article_5f1b58e4-5799-11ec-9d0e-2f2493112b4d.html"
+    type: article
+    provider:
+      name: Kokomo Tribune
+      domain: kokomotribune.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/kokomotribune.com/content/tncms/assets/v3/editorial/8/44/844c6c15-f422-577f-90fe-7a4ec856221f/61afbf6187512.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Stellantis launches $23 billion software push"
     excerpt: "Working with partners such as Foxconn and Waymo, the automaker said it will have 34 million connected vehicles on the streets by 2030, from 12 million now. It also plans dedicated AI technological platforms."

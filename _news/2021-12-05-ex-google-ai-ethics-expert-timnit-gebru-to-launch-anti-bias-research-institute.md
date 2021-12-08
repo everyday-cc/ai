@@ -9,8 +9,8 @@ ampWebUrl: "https://thegrio.com/2021/12/04/timnit-gebru-launches-dair/amp/"
 cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2021/12/04/timnit-gebru-launches-dair/amp/"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 102
+published: true
 
 provider:
   name: The Grio
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google ethical AI co-lead Timnit Gebru launches own research project"
-    excerpt: "Google scientist Dr Timnit Gebru's exit exposes rift in its ethical AI unit, head Jeff Dean faces criticism. Gebru was ousted from Google after a falling out with manag"
-    publishedDateTime: 2021-12-03T10:54:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 74
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2020/12/Dr-Timnit-Gebru-770x433.jpg?impolicy=website&width=770&height=431"
-        width: 770
-        height: 431
-        isCached: true
   - title: "Former Google scientist Timnit Gebru has launched an AI research centre"
     excerpt: "Dr Timnit Gebru has launched DAIR one year after her departure from Google to continue her work in the area of ethical AI."
     publishedDateTime: 2021-12-03T12:05:00Z
@@ -57,20 +41,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2021/12/29603362277_e84137266b_c.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Timnit Gebru’s new research group wants to free AI from its corporate ills"
-    excerpt: "Exactly one year after Timnit Gebru was dismissed from her post at Google, the prominent expert in artificial intelligence ethics announced plans for a new AI research institute, designed to be an independent group committed to diverse points of view and preventing harm."
-    publishedDateTime: 2021-12-03T09:12:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/03/timnit-gebrus-new-research-group-wants-to-free-ai-from-its-corporate-ills"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/12/03/1391455.jpeg"
-        width: 1240
-        height: 826
         isCached: true
   - title: "Will Timnit Gebru’s New Institute Take On Big Tech’s Influence On AI Research"
     excerpt: "AI needs to be brought back down to earth. It has been elevated to a superhuman level, which leads us to believe it is inevitable and beyond our control.”"

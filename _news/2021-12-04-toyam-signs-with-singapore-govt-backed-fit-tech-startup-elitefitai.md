@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/Articles/Business/20211203/38665
 webUrl: "https://news.webindia123.com/news/Articles/Business/20211203/3866584.html"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -16,24 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Toyam signs with Singapore govt. backed fit-tech startup Elitefit.ai"
-    excerpt: "Toyam Industries Ltd., India's biggest MMA promotion company signs a partnership agreement with EliteFit.AI, a FitTech startup supported by Singapore Government."
-    publishedDateTime: 2021-12-03T10:00:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefit-ai-121120300769_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefit-ai-121120300769_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/toyam-signs-with-singapore-govt-backed-fit-tech-startup-elitefit-ai-121120300769_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/03/full/20211203114046.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "LMBAuO0ff9/SVCUcLdvZ5ajBpnQFSXs/KcQVJ19nrTFFUREPwPMk3eWXlJwGrv2hKZpYVRhpj6uLmUKJzmSQ1jZ0BymWkP7y03JTydRyzi3ah77+17tFYJFFcVX2WLuKxXD3WxgmQl7sjGpm89YfXrW6sq61mUEkZgj/koPrpnwD6q3vOwP9+ZCqPioTECs8OfGsVPPcuvkkETq8tQFSOLEaHvW6oCrjZw9xAB2SUWtFPH53mSBNfViETVoeRrb3AvGIaTMBzPgujP4/njRvYbNF7cYvh18zSEi+RKW7uLFB1ZxAbWae5DplaX5Efgu3/6lFl46KyP2tVvRlh7Jioz/qBdtP4PPhNtZmI8cmUco=;EVg0qI+3XYsSZo8xFnsQaA=="
 ---

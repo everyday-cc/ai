@@ -2,50 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-09-15-inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company.md",
-      "title": "Inside DeepL: The World’s Fastest-Growing, Most Secretive Machine Translation Company",
-      "excerpt": "Deep dive into DeepL machine translation, approach to neural networks, quality performance, enterprise solutions, new features, users, and growth.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company/",
-      "originalUrl": "https://slator.com/inside-deepl-the-worlds-fastest-growing-most-secretive-machine-translation-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/09/Deepl-Machine-Translation-Company.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-09-15-fintech-startup-pagaya-could-go-public-in-9b-spac-deal.md",
       "title": "FinTech Startup Pagaya Could Go Public in $9B SPAC Deal",
       "excerpt": "FinTech Pagaya Technologies is mulling a public offering via a merger with the SPAC EJF Acquisition Corp that would value the startup at roughly $9 billion.",

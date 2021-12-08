@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "US government sues to block $40 billion Nvidia-Arm chip deal"
-    excerpt: "The Federal Trade Commission said the deal would create a powerful company that could hurt the growth of new technologies."
-    publishedDateTime: 2021-12-03T10:58:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2021/12/03/ftc-nvidia-arm-chip-deal/8849542002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/8849542002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8849542002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/12/03/PDTN/7f39b23b-daeb-4203-af90-f4d9295d4832-AP21336801147181.jpg?auto=webp&crop=3659,2058,x1,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "US Gov't Sues to Block $40B Nvidia-Arm Chip Deal"
     excerpt: "Many of the world’s smartphones run on Arm’s chip designs and it is a vital supplier for companies like Apple and Samsung."
     publishedDateTime: 2021-12-03T14:40:00Z

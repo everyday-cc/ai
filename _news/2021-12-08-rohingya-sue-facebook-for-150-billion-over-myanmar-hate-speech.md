@@ -75,20 +75,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "NEC to introduce facial recognition vaccination check system"
-    excerpt: "Japan's NEC Corp. will start the full-scale introduction of a vaccination certification system for COVID-19 based on facial recogniti"
-    publishedDateTime: 2021-12-03T10:20:00Z
-    webUrl: "https://mainichi.jp/english/articles/20211203/p2g/00m/0bu/073000c"
-    type: article
-    provider:
-      name: mainichi.jp
-      domain: mainichi.jp
-    quality: 39
-    images:
-      - url: "https://cdn.mainichi.jp/vol1/2021/12/03/20211203p2g00m0bu072000p/0c10.jpg?1"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "MBOy7IPKOSWH1AqYixswQ4ZlhyZ4qxTO0ELIhgxAdqqlIfvqyxoFUlCdeMJOGevMxg27RcQ4vjAYZnxH+Twf9LuV0Y6/+JdwfIq4XK0Kp7+LyxbkmVKQrLCvB1A4e+KuOqa7vYiX6EpyTI3eCV03zrKBDQePCrzq+dgar4YpnvY2ezf2kD14Y6czFUjsSQzUASy7HRX4oAWietDdeQPQ9Z9A9wLaUO5gDwjvcMcIQacMA7oPNf/UY+fNqsLk4tErYyd6nTWJdiP920QCh1SuwWSNiCRwzBVuFHaVewSSFH3Q2YwZIyY3qa9SgRxWVe6YtqT/VRp5KaVGjd3X56+7Uv2t8X5XDSTMujwaRMg3lyMnsGQ5GzP1xow2mfGbezNPOYhSOU3I7Cffj07ziQND/MQTupLSkYw328739QXWJxVXT/C2v1raq9U05V0nusMx5Y/tLxLMmO64B0IwElYM1ziA/cTnZEl0vHlvSvCJoVRYLLqQkodEJ/pzBReIO+SxJwrH3ppwhFrZe1lr1Fk4IQ==;htrVswrEioF3vLh/BNABzg=="
 ---

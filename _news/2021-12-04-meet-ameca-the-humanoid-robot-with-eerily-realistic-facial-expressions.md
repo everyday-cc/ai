@@ -55,22 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "A New Humanoid Robot Has the Most Advanced and Realistic Facial Expressions Yet"
-    excerpt: "Since nonverbal communication plays a role in building trust, scientists are adding hyper-realistic facial expressions to robots; meet Ameca."
-    publishedDateTime: 2021-12-03T09:58:00Z
-    webUrl: "https://interestingengineering.com/a-new-humanoid-robot-has-the-most-advanced-and-realistic-facial-expressions-yet"
-    ampWebUrl: "https://amp.interestingengineering.com/a-new-humanoid-robot-has-the-most-advanced-and-realistic-facial-expressions-yet"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-new-humanoid-robot-has-the-most-advanced-and-realistic-facial-expressions-yet"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 55
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/nR6b7dxQwo/sizes/ameca-1920_resize_md.png"
-        width: 744
-        height: 419
-        isCached: true
   - title: "A humanoid robot makes eerily lifelike facial expressions"
     excerpt: "Engineered Arts, a UK-based designer, and manufacturer of humanoid robots, recently showed off one of its most lifelike creations in a video posted on YouTube. The robot, called Ameca, is shown making a series of incredibly human-like facial expressions."
     publishedDateTime: 2021-12-06T09:45:00Z

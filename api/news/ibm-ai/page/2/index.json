@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-06-clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results.md",
+      "title": "Clickedin Founder Franco Ieraci Creates AI Software That Delivers Results",
+      "excerpt": "TORONTO, ON / ACCESSWIRE / November 5, 2021 / It's the same story. Companies pay lots of money only to get burned by marketing companies who can't deliver",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results",
+      "originalUrl": "https://www.digitaljournal.com/pr/clickedin-founder-franco-ieraci-creates-ai-software-that-delivers-results",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/10/COP26-climate-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-05T15:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-ai-workflow-machine-learning-visual-recognition-and-nlp.md",
       "title": "AI Workflow: Machine Learning, Visual Recognition and NLP",
       "excerpt": "Familiarity with IBM Watson Studio; Familiarity with the design thinking process. This is the fourth course in the IBM AI Enterprise Workflow Certification specialization. You are STRONGLY ...",
@@ -1368,49 +1411,6 @@
         "AI",
         "IBM AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-22-alms-lawcom-announces-lawyerpages-a-next-generation-ai-powered-legal-directory-and-search-resource-for-consumers-and-law-firms.md",
-      "title": "ALM’s Law.com Announces “Lawyerpages,” a Next-Generation AI-Powered Legal Directory and Search Resource for Consumers and Law Firms",
-      "excerpt": "ALM’s Law.com Announces “Lawyerpages,” a Next-Generation AI-Powered Legal Directory and Search Resource for Consumers and Law Firms. Sep 22, 2021 12:00 PM ET. Legal Newswire",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legalnewswire/news.php?id=2917593",
-      "originalUrl": "https://www.law.com/legalnewswire/news.php?id=2917593",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.law.com/legalnewswire/_assets/images/ad-close-btn.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

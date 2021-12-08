@@ -2,6 +2,83 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-11-24-apollo-tyres-moves-to-aws-to-enhance-customer-experience.md",
+      "title": "Apollo Tyres moves to AWS to enhance customer experience",
+      "excerpt": "Apollo Tyres, India's largest tyre maker, is moving its entire infrastructure to Amazon Web Services (AWS). To change the customer exper..|News Track",
+      "sourceUrl": null,
+      "webUrl": "https://english.newstracklive.com/news/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html",
+      "originalUrl": "https://english.newstracklive.com/news/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newstrack.in/amp/uploads/business-news/economy/Nov/24/big_thumb/appolo_619ddf6e468e4.JPG",
+          "width": 1609,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://english.newstracklive.com/ampnews/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html",
+      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/apollo-tyres-moves-to-aws-to-enhance-customer-experience-sc18-nu318-ta318-1194359-1.html",
+      "publishedDateTime": "2021-11-23T22:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Track",
+        "domain": "newstracklive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health.md",
+      "title": "Securekloud hit the roof after US subsidiary bags document processing contract from Monument Health",
+      "excerpt": "Securekloud Technologies hit an upper circuit of 5% at Rs 136.15 after the company's step-down subsidiary Healthcare Triangle Inc., USA, was selected by Monument Health to automate document processing through readable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/news-cm/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400395_1.html",
+      "originalUrl": "https://www.business-standard.com/article/news-cm/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400395_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/news-cm/securekloud-hit-the-roof-after-us-arm-bags-document-processing-contract-121112400395_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/securekloud-hit-the-roof-after-us-arm-bags-document-processing-contract-121112400395_1.html",
+      "publishedDateTime": "2021-11-23T22:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-healthcare-triangle-selected-by-monument-health-to-automate-document-processing.md",
       "title": "Healthcare Triangle selected by Monument Health to automate document processing",
       "excerpt": "Securekloud Ltd-backed Healthcare Triangle Inc., USA a leading provider of cloud and data transformation platform and solutions for healthcare and life sciences, has announced that Monument Health taps Healthcare Triangle to automate their document processing through readable.",
@@ -43,49 +120,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health.md",
-      "title": "Securekloud hit the roof after US subsidiary bags document processing contract from Monument Health",
-      "excerpt": "Securekloud Technologies hit an upper circuit of 5% at Rs 136.15 after the companys step-down subsidiary Healthcare Triangle Inc., USA, was selected by Monument Health to automate document processing through readable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/capital-market-hot-pursuit/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400448_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/capital-market-hot-pursuit/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400448_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/capital-market-hot-pursuit/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400448_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/capital-market-hot-pursuit/securekloud-hit-the-roof-after-us-subsidiary-bags-document-processing-contract-from-monument-health-121112400448_1.html",
-      "publishedDateTime": "2021-11-23T21:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1064,48 +1098,6 @@
         "Computer Vision",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-the-limitations-of-ai-generated-text.md",
-      "title": "The limitations of AI-generated text",
-      "excerpt": "Artificial intelligence has reached a point where it can compose text that sounds so human that it dupes most people into thinking it was written by another person. These AI programs—based on what are called autoregressive models—are being successfully used to create and deliberately spread everything from fake political news to AI-written blog posts that seem authentic to the average person and are published under human-sounding byline.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-11-limitations-ai-generated-text.html",
-      "originalUrl": "https://techxplore.com/news/2021-11-limitations-ai-generated-text.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/text-messaging.jpg",
-          "width": 1920,
-          "height": 1439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-11-limitations-ai-generated-text.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-limitations-ai-generated-text.amp",
-      "publishedDateTime": "2021-11-23T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

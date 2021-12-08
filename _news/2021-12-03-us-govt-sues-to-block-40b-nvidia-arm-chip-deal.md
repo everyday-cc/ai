@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturing.net/operations/news/21928232/us-govt-sue
 webUrl: "https://www.manufacturing.net/operations/news/21928232/us-govt-sues-to-block-40b-nvidiaarm-chip-deal"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "US government sues to block $40 billion Nvidia-Arm chip deal"
-    excerpt: "The Federal Trade Commission said the deal would create a powerful company that could hurt the growth of new technologies."
-    publishedDateTime: 2021-12-03T10:58:00Z
-    webUrl: "https://www.detroitnews.com/story/business/2021/12/03/ftc-nvidia-arm-chip-deal/8849542002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/8849542002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8849542002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 59
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/12/03/PDTN/7f39b23b-daeb-4203-af90-f4d9295d4832-AP21336801147181.jpg?auto=webp&crop=3659,2058,x1,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "US government sues to block $40 billion Nvidia-Arm chip deal"
     excerpt: "The Federal Trade Commission has sued to block graphics chip maker Nvidia’s $40 billion purchase of chip designer Arm."
     publishedDateTime: 2021-12-03T21:00:00Z

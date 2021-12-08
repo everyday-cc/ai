@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revol
 ampWebUrl: "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-12811727531.jpg?w=1200&strip=all"
@@ -45,6 +46,6 @@ related:
         height: 355
         isCached: true
 
-secured: "hYvVeKc9Xhm0bPpHFTjLJkW75PfYbHChEk4ANDeH0q0oKsw2qSs3GX6CP5oGfizk22aVZQf7h2mun5SaWs8EzL84Vv2gXr/dY6UsPobmo6iHtWgU+Rljs9308r7wLwZH6t7506HNhE58nM4xJ0pNZLNlHXeBaDp4zqjZqGLXbHe1U4aSyK3ZDlsp9m55NaP98tKVJkGdDkInTgt0C4rTeSI3V2tYeie4+P1VGlGugRFgYTtbX+EPAramRJ3k0/xqpRO6uaq0qcRg+wmGwFfnH+TRXAWWkcfBhTXAXuv5xZJ2AWWGhMeJUFSwOkrTxw1etPkEa3BpkMaUfaqO6UpDyagwL/2CRkt0vX50XN7YrG0=;EbsxAwwB73tfJFNo4pRRzg=="
+secured: "EDvtTGoyM9PwqtYnoAlTmwpMwDs5dOIJWW+9DySzsxSTK1sMm+vzS0tV2mKfUrR5Wm9R4krSrsZ9b8cGQxhvmG1bs6PVzaygmzkFd1mSNZ8L+3eBWvjnYT/Cb0mW9SmuPacit0EyRpkfWazgqNsk6CvzixtGNzZbKh9KpJW+byczJUZ+1EhjK6QVDyeFSbOOpXD/jxr9XoecBvYDcanhgpOSY2aA9iWpiiNhkGNr6PYEImrWWfwspn3VryiNmaW2QQ7ECsMdExRobQ1nMIKyKfX/AbykJalb6fmlGdQ0sWuDtFd6ginNGP0/G0wqO6bCd2nj3YB4PpJ3qQIiBn8Wpz0Ei4DMr0WkFulfVY5g/qmB4bhgrMu3JavVl+8oOl+8R0nYIq/sFbyag2mFpPEWhPDzcfRSO2/07w3fGxqoRxDIXGoazzRpHe3amf5w+LBIV5GwFvYciTqXCpUNS2tQEGFrhcff/jKZSLl+ZNzFhkm953w0ABRAkgq0BBbVDRBSOCGKHZaoXr8a3KCDUBbbSw==;6Y+RlZi7tCiHdGModvFjMw=="
 ---
 

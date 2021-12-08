@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Intel to launch IPO of its Mobileye self-driving-car unit in 2022"
-excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
-publishedDateTime: 2021-12-06T23:33:00Z
-originalUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=home-page"
-webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=home-page"
+excerpt: "Intel said it would take the unit public in the U.S. in mid-2022 through an initial public offering of new Mobileye stock."
+publishedDateTime: 2021-12-07T01:39:00Z
+originalUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?dist=bigcharts"
+webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?dist=bigcharts"
 type: article
 quality: 54
 heat: -1
@@ -76,18 +76,18 @@ related:
         height: 628
         isCached: true
   - title: "Intel plans to take self-driving car unit Mobileye public"
-    excerpt: "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters."
-    publishedDateTime: 2021-12-07T02:46:00Z
-    webUrl: "https://www.reuters.com/markets/us/intel-list-shares-self-driving-car-unit-mobileye-wsj-2021-12-07/"
+    excerpt: "The Mobileye logo is seen during the Munich Auto Show, IAA Mobility 2021, in Munich, Germany, September 7, 2021. REUTERS/Wolfgang Rattay"
+    publishedDateTime: 2021-12-07T07:37:00Z
+    webUrl: "https://www.reuters.com/news/picture/intel-plans-to-take-self-driving-car-uni-idUSKBN2IM010"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 54
     images:
-      - url: "https://www.reuters.com/resizer/HxLWCUwhHMM4SwuGFJT2uw2TtvQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJJS5JKBAFOZFNPFKBVNCGTJ5Y.jpg"
-        width: 1200
-        height: 628
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20211207&t=2&i=1583830999&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEHB600M"
+        width: 810
+        height: 540
         isCached: true
   - title: "Intel to list shares in self-driving car unit Mobileye - WSJ"
     excerpt: "Intel Corp is planning to publicly list shares in its self-driving-car unit Mobileye, which could value the unit at north of $50 billion ,the Wall Street Journal reported on Monday, citing people familiar with the matter."
@@ -106,7 +106,7 @@ related:
   - title: "Intel to list shares of its Mobileye self-driving-car unit"
     excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
     publishedDateTime: 2021-12-07T00:33:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos25"
+    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=family-finances"
     type: article
     provider:
       name: MarketWatch
@@ -221,6 +221,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "g7BjL14JG3EYUMOQLoBF2qMYB8bnjIZuEvLeDRuaq4Bg+neKcH4etugazVsQdGdVorMyYJG06eHJd+ZPBJBYvbudaNU3ofXasWhBguAydT3ynAcC0yJpOR/OA/cFzYn3zCOL+TFRq4K0P+s/xw8UR8fZc06X7H49sxZTiqjx71t8eIsJda2eINiaSrrC1hIpypHTvGhFGS/lJciV9pjl2trVF5fHRGf9wy0xe4pIwCWqSi5xKRMTUbH+XBrgzS/ABlPtZkrbWe3EzxZms0cE8xMGLO0th+wxiwl3WoNx+oa26eNRzzx8mBwbGqbhXqmWKPpGl9ETchJC637QMpnd2hC1T0jQa349U160dU5dAKFvdwwlCwjkuFBqdcfA+CZO6I13dRy06D2snJbcGJDPy/sQK8nEJmwkht5yultZGZoxA9LQAA0BUWuAMvO+YBGaaBtU/mXCBVoeVld7toTGCJILyBjA8sRWR0n2zCx4guBTOr32nRfFnzlitKF2KQyu9ro9T/iblkccGJUbxDubkg==;G0qvmfhhh9yQsurri9WBtw=="
+secured: "cDtKv4otH1cc3NrXDspmV7cDuGYmLnmlM+KYKRUTVjyt2JY0KOICcEW9JiArlFyKf2tO0FBlf9qstXMPZydqzpGvlBRjc8vdzAptTkXTWMa3+DllzdsFAkt10iYAHeeRs1ecUAPsNg+gAE5Jz/C2BoLWQxccYRqaHRR/88sq2pksdAsss5+KoBZK2M6krUszVkxJ9ANX7BZWnLgGBuAGMJIy2RMI3byUByn02HKpZDkmRlOfqXzVIE4eYQWQJNUZz4oc9KfoqfZAc4v3V/cKu6tMU8ClcjXmv2J+W4ZrVvHrudhVK/O4FYMO9mbrPlGx5PJB5IFp707f8Wa1nblMfgk9IujxD7wbEt8wgDJy8Ls=;a8XHzKqiBJwXvopBG3Mc7w=="
 ---
 

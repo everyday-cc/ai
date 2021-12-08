@@ -2,6 +2,57 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-11-18-in-the-push-for-development-is-the-us-prepared-to-regulate-ai.md",
+      "title": "In the push for development, is the U.S. prepared to regulate AI?",
+      "excerpt": "For ethical and unbiased AI to be the way of the future, we need to regulate AI now to address today's research and development challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/",
+      "originalUrl": "https://venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/07/AI-e1635273178346.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/17/in-the-push-for-development-is-the-u-s-prepared-to-regulate-ai/amp/",
+      "publishedDateTime": "2021-11-17T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-microsoft-open-sources-synapseml-for-developing-ai-pipelines.md",
       "title": "Microsoft open-sources SynapseML for developing AI pipelines",
       "excerpt": "Microsoft has released SynapseML, a new open source project designed to make it easier to create AI model pipelines.",
@@ -1078,6 +1129,49 @@
       ]
     },
     {
+      "path": "_news/2021-11-17-citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.md",
+      "title": "CITIC Telecom CPC and ASTRI Partnership Expands Business Innovation Possibilities With AI-AR Integration",
+      "excerpt": "The key features include data visualization, cognitive object recognition and middleware enhancement. \"Fostering a culture of innovation and embracing intelligence are our core values and are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-ai-ar",
+      "originalUrl": "https://www.asiaone.com/business/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-ai-ar",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/asiaone_default.jpg?itok=3gH19sbL",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-ai-ar?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-ai-ar?amp",
+      "publishedDateTime": "2021-11-17T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges.md",
       "title": "China’s Baidu pulls in near $5bn revenue as AI turnover surges",
       "excerpt": "Internet services giant Baidu pulled in nearly $5bn in revenue in its latest quarter, climbing past analyst forecasts, despite China’s ongoing technology",
@@ -1118,109 +1212,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-ai-customer-service-startup-netomi-raises-30-million.md",
-      "title": "AI Customer-Service Startup Netomi Raises $30 Million",
-      "excerpt": "The new round of funding values the company at $210 million, up from a valuation of $67.5 million in 2019.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
-      "originalUrl": "https://www.wsj.com/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-436249/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-customer-service-startup-netomi-raises-30-million-11637154120",
-      "publishedDateTime": "2021-11-17T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-five-ai-strategies-cxos-can-use-to-transform-their-business.md",
-      "title": "Five AI Strategies CXOs Can Use To Transform Their Business",
-      "excerpt": "CEO and Co-Founder at Affine, an AI evangelist, business builder, and entrepreneur at heart. Ensuring growth by transformative solutions. $15.7 trillion: That is the figure we predict artificial intelligence is going to contribute to the global economy by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616836b70b2d3470ee1e3a1a%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/11/17/five-ai-strategies-cxos-can-use-to-transform-their-business/amp/",
-      "publishedDateTime": "2021-11-17T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

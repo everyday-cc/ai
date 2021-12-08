@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/most-latin-companies-using-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/most-latin-companies-using-ai-have-profited-from-the-technology/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       - url: "https://menafn.com/updates/pr/2021-12/05/R&AN_88bb9image_story.png"
         width: 800
         height: 447
-        isCached: true
-  - title: "Artificial intelligence innovation among power industry companies has dropped off in the last year"
-    excerpt: "Research and innovation in artificial intelligence in the power industry operations and technologies sector has declined in the last year. The most recent figures show that the number of AI patent applications in the industry stood at 127 in the three months ending September – down from 185 over the same period last year."
-    publishedDateTime: 2021-12-03T10:00:00Z
-    webUrl: "https://www.power-technology.com/features/artificial-intelligence-innovation-power-industry-companies/"
-    type: article
-    provider:
-      name: Power Technology
-      domain: power-technology.com
-    quality: 23
-    images:
-      - url: "https://www.power-technology.com/wp-content/uploads/sites/7/2021/10/shutterstock_1097273573.jpg"
-        width: 500
-        height: 334
         isCached: true
 
 secured: "JNvo/HUeFHCBetA56NCSWCTsdNn8R0TzmhUDtbBg4lXsFRNC4SrJVHUijo1IfzYN5953oy++GmddzZ7qy6jmagiHZGFF0/0H4V8i5eYlTRD962pSTuWNzN8PwKvDPKAEwFsxlwn2bZeoOysh6t09oZ8Rb44LSAjgBv2KSlaXEbVvUKMeZzrOTAh5OBu2G7jijCkHLvtoex8meFjmUx1eIpH2emwwQkcZXBk0qrtazBksdtheg5Pd+OXjzei7b3M+WrLHJHcUR369K/cW8Viu4r5gnOdG7nAd/04uRPfsHfXLIDQ3gYCq3JXH6PAQZNOjCLIC8FyoSRiFtlgf7BDVA4pLDQKdmODnZaqP/WKsU7Y=;p4EaqcikhNnSvpgh7BMZAQ=="

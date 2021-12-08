@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-02-how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment.md",
+      "title": "How much can we trust AI? How to build confidence before large-scale deployment",
+      "excerpt": "Organizations must still build trust in AI before they deploy it throughout the organization. Here are some simple steps to make AI more dependable and ethical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
+      "originalUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
+      "publishedDateTime": "2021-12-01T13:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-study-shows-how-machine-learning-could-improve-covid-19-predictive-models.md",
+      "title": "Study shows how machine learning could improve COVID-19 predictive models",
+      "excerpt": "Throughout the COVID-19 pandemic, case rates have ebbed and flowed in ways that have been hard for epidemiological models to predict. A new study by mathematicians from Brown University uses an advanced machine learning technique to explore the strengths and weaknesses of commonly used models,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-machine-covid-.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-machine-covid-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/digitalnetwo.jpg",
+          "width": 1920,
+          "height": 1357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-machine-covid-.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-machine-covid-.amp",
+      "publishedDateTime": "2021-12-01T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model.md",
       "title": "Google uses MLPerf competition to showcase performance on gigantic version of BERT language model",
       "excerpt": "Google said training large models is a \"huge focus\" for the company, and ought to get more attention in the benchmark results.",
@@ -407,10 +502,10 @@
     {
       "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
       "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
-      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology.",
+      "excerpt": "The program uses AWS DeepRacer and the new AWS DeepRacer Student League to teach students foundational machine learning concepts by giving them hands-on experience training machine learning models for autonomous race cars, while providing educational ...",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/",
-      "originalUrl": "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/",
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -420,11 +515,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T10:34:00-08:00",
+      "publishedDateTime": "2021-12-01T11:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -434,10 +529,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AWS AI",
         "AI",
-        "Machine Learning",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {
@@ -725,59 +819,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics.md",
-      "title": "DeepMind claims AI has aided new discoveries and insights in mathematics",
-      "excerpt": "Learn more DeepMind, the AI research laboratory funded by Google’s parent company, Alphabet, today published the results of a collaboration between it and mathematicians to apply AI toward ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/",
-      "originalUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/",
-      "publishedDateTime": "2021-12-01T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Math for AI"
       ]
     },
     {
@@ -1166,49 +1207,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition.md",
-      "title": "Mantra Softech gets Listed on NIST FRVT for Facial Recognition",
-      "excerpt": "Mantra Softech recently announced that its facial recognition algorithms 1:N and 1:1 placed first out of 25 percent tested systems and 367 entrants in the latest NIST FRVT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/12/01/1124367-mantra-softech.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
-      "publishedDateTime": "2021-12-01T06:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

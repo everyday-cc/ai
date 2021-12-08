@@ -3,8 +3,8 @@ category: news
 title: "Intel to list shares of its Mobileye self-driving-car unit"
 excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
 publishedDateTime: 2021-12-07T00:33:00Z
-originalUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos25"
-webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos25"
+originalUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=family-finances"
+webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=family-finances"
 type: article
 quality: 54
 heat: -1
@@ -76,23 +76,23 @@ related:
         height: 628
         isCached: true
   - title: "Intel plans to take self-driving car unit Mobileye public"
-    excerpt: "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters."
-    publishedDateTime: 2021-12-07T02:46:00Z
-    webUrl: "https://www.reuters.com/markets/us/intel-list-shares-self-driving-car-unit-mobileye-wsj-2021-12-07/"
+    excerpt: "The Mobileye logo is seen during the Munich Auto Show, IAA Mobility 2021, in Munich, Germany, September 7, 2021. REUTERS/Wolfgang Rattay"
+    publishedDateTime: 2021-12-07T07:37:00Z
+    webUrl: "https://www.reuters.com/news/picture/intel-plans-to-take-self-driving-car-uni-idUSKBN2IM010"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 54
     images:
-      - url: "https://www.reuters.com/resizer/HxLWCUwhHMM4SwuGFJT2uw2TtvQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJJS5JKBAFOZFNPFKBVNCGTJ5Y.jpg"
-        width: 1200
-        height: 628
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20211207&t=2&i=1583830999&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEHB600M"
+        width: 810
+        height: 540
         isCached: true
   - title: "Intel to launch IPO of its Mobileye self-driving-car unit in 2022"
-    excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
-    publishedDateTime: 2021-12-06T23:33:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=home-page"
+    excerpt: "Intel said it would take the unit public in the U.S. in mid-2022 through an initial public offering of new Mobileye stock."
+    publishedDateTime: 2021-12-07T01:39:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?dist=bigcharts"
     type: article
     provider:
       name: MarketWatch
@@ -221,6 +221,6 @@ related:
       domain: webindia123.com
     quality: 4
 
-secured: "2t95a/p2O4fOVclqngs6F0Ie62UX2LxfnRoTqIUdNiS7kCZmkArKb8mOL4BqxneyejfLhRH2/jTgQAcw+kPq5Df7+KLgM80WRgXYNdxHTm4eBhBP3Mg+piREY8c1uoXrUcNYI1GygJunuWEWRqA3VczuafYEf+UvefH05Y2jABG9o/8VjJaHjDn0c9ePhqUMvVdt1yc+7cfa1sh5T1icHaBGzdIaFl68PEtlUi1R6JiAZ7HKIiukyDwjfcFJ5bNB39IG0m7JTBPFWuL3+oXbLx+m6NzJ0gSvOdVzU+JdLyt9kN88F+JYcW1N+Bi9VXd3ot+zRtFZBCYXEO3Ba+L3A7z41UHjq+R+oMgj+OWgck1EXvgPbGnjMCdF+0f8xhPqUPyY7t22QVuc0XJZgbBCcGX6Y3U/T82o1EwzW6c24vJ+0VH6LvJ9G+1kp9oUngvwCFsCbp8rpxb/im89d81SqB9Vd1tF6U5J9DpQ3JNHcnsKjNaQut+OeOeSx9cNIOBA6hgbBMJSBCFT+dGsFV1IaA==;S0khVms7+pCiMlSYXYOwQw=="
+secured: "Y0IgJ8albFmiM/AKMJcSHj0yCCLI6GJ1tWfjD6j3co0sVlI4FnicGEfbBiFHfJdmN+qaE8HuATfd9WIGrTbnKz8d1EM82MCFkdIhg4hz+op4BW6MgHCPqhRpHyYde94rGcEUHN6Nhox0ajdgE+MMciAoioxmuDX7ammDwCvvursSJWCz7OW42rUgGe/urhqJqrbl8MTQ9gdUJ7AFUnzsmuHndSlrBgSgB5kcveQdv8C+1OSNya9NCYYTYaS9js6o3iJR1GW5Vytbye2HoC5rVmmE2TneUJcwIm2jzpiQrqPdFMv4dxptCXsH/q1lB5vuLeJkQiiYzmZs/kOoBhCsG5QPi41phTLr/oCMzHIRlBA=;Ht+6evTOjuGTjTsgYvwvXQ=="
 ---
 

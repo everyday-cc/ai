@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/business/aws-helps-pfizer-accelerate-drug-de
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/aws-helps-pfizer-accelerate-drug-development-and-clinical-manufacturing?amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 763
     height: 509
     isCached: true
-
-related:
-  - title: "AWS Helps Pfizer Accelerate Drug Development and Clinical Manufacturing"
-    excerpt: "(NASDAQ: AMZN), announced that it is working with Pfizer to create innovative, cloud-based solutions with the potential to improve how new medicines are developed, manufactured, and distributed for testing in clinical trials."
-    publishedDateTime: 2021-12-03T09:09:00Z
-    webUrl: "https://www.financialbuzz.com/aws-helps-pfizer-accelerate-drug-development-and-clinical-manufacturing/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 19
 
 secured: "MWOw3v0BcR7ZaP2z8MMOnG3LjR10RulJ1q9VKB04YpiYGyB7PUrW/eimrEPPY0ZfqI3HPviM9GhYdpH4A9/widZECenLgB/tZOuRHwRvCy7cuKBWffImqfiRiBT6cjpWbVS0lx9yahTQhWUyEDX9J9uHzem0ceCWBJhHl7X0VQoocYLKC9aNdtQTw64gIsXwkgv+qfeOeT2MwaGaCtUAoLy5Ph99C0MqRAmqrr65AybDI7naWQcaP6CzuNQ79NxbNkqYWcRXtrLDpcGUGjnISrIrU3cEoOAL2B2gWNziKojkzEDJ2rwyswlp7xE6Qil0R2FfJ2TxHls6jA+bRWtoB/Lq5QazVvqIgoYWn1uJPq4=;PpfrMtmDGpkiP2LQPCtnPw=="
 ---

@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-02-the-movement-to-hold-ai-accountable-gains-more-steam.md",
+      "title": "The Movement to Hold AI Accountable Gains More Steam",
+      "excerpt": "A New York City law requires algorithms used in hiring to be “audited” for bias. It’s the first in the US—and part of a larger push toward regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/",
+      "originalUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61a8157414eaf61b0530a9fd/master/pass/Business_Papers_1332101305.jpg",
+          "width": 2400,
+          "height": 1601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp",
+      "publishedDateTime": "2021-12-02T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-aws-introduces-a-new-platform-for-developing-robotics-applications.md",
       "title": "AWS Introduces A New Platform For Developing Robotics Applications",
       "excerpt": "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together.",
@@ -319,6 +372,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics.md",
+      "title": "DeepMind claims AI has aided new discoveries and insights in mathematics",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DeepMind claims that its AI systems helped mathematicians to discover new -- and significant ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics-10803024",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics-10803024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T01:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI"
       ]
     },
     {
@@ -1058,101 +1155,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment.md",
-      "title": "How much can we trust AI? How to build confidence before large-scale deployment",
-      "excerpt": "Organizations must still build trust in AI before they deploy it throughout the organization. Here are some simple steps to make AI more dependable and ethical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "originalUrl": "https://www.techrepublic.com/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-much-can-we-trust-ai-how-to-build-confidence-before-large-scale-deployment/",
-      "publishedDateTime": "2021-12-01T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-study-shows-how-machine-learning-could-improve-covid-19-predictive-models.md",
-      "title": "Study shows how machine learning could improve COVID-19 predictive models",
-      "excerpt": "Throughout the COVID-19 pandemic, case rates have ebbed and flowed in ways that have been hard for epidemiological models to predict. A new study by mathematicians from Brown University uses an advanced machine learning technique to explore the strengths and weaknesses of commonly used models,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-machine-covid-.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-machine-covid-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/digitalnetwo.jpg",
-          "width": 1920,
-          "height": 1357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-machine-covid-.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-machine-covid-.amp",
-      "publishedDateTime": "2021-12-01T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

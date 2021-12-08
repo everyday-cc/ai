@@ -70,23 +70,23 @@ related:
         height: 628
         isCached: true
   - title: "Intel plans to take self-driving car unit Mobileye public"
-    excerpt: "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters."
-    publishedDateTime: 2021-12-07T02:46:00Z
-    webUrl: "https://www.reuters.com/markets/us/intel-list-shares-self-driving-car-unit-mobileye-wsj-2021-12-07/"
+    excerpt: "The Mobileye logo is seen during the Munich Auto Show, IAA Mobility 2021, in Munich, Germany, September 7, 2021. REUTERS/Wolfgang Rattay"
+    publishedDateTime: 2021-12-07T07:37:00Z
+    webUrl: "https://www.reuters.com/news/picture/intel-plans-to-take-self-driving-car-uni-idUSKBN2IM010"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 54
     images:
-      - url: "https://www.reuters.com/resizer/HxLWCUwhHMM4SwuGFJT2uw2TtvQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJJS5JKBAFOZFNPFKBVNCGTJ5Y.jpg"
-        width: 1200
-        height: 628
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20211207&t=2&i=1583830999&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEHB600M"
+        width: 810
+        height: 540
         isCached: true
   - title: "Intel to launch IPO of its Mobileye self-driving-car unit in 2022"
-    excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
-    publishedDateTime: 2021-12-06T23:33:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=home-page"
+    excerpt: "Intel said it would take the unit public in the U.S. in mid-2022 through an initial public offering of new Mobileye stock."
+    publishedDateTime: 2021-12-07T01:39:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?dist=bigcharts"
     type: article
     provider:
       name: MarketWatch
@@ -114,7 +114,7 @@ related:
   - title: "Intel to list shares of its Mobileye self-driving-car unit"
     excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
     publishedDateTime: 2021-12-07T00:33:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos25"
+    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=family-finances"
     type: article
     provider:
       name: MarketWatch
