@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-08-mumbai-based-firm-to-launch-aiot-enabled-driverless-car-next-year-details-here.md",
+      "title": "Mumbai-based firm to launch AIoT-enabled driverless car next year. Details here",
+      "excerpt": "Mumbai-based automobile-as-a-service company - Autonomous Intelligence Motors Private Limited (AIMPL) - on Wednesday announced that it will launch an artificial intelligence-of-things (AIoT) powered autonomous car in the country next year.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here-41638941456556.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here-41638941456556.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2021/12/08/600x338/1169801_Wallpaper2_1638941650133.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here/amp-41638941456556.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here/amp-41638941456556.html",
+      "publishedDateTime": "2021-12-07T21:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-autonomous-driving-startup-deeprouteai-prices-l4-solution-at-10000.md",
       "title": "Autonomous driving startup Deeproute.ai prices L4 solution at $10,000",
       "excerpt": "Deeproute.ai, an autonomous vehicle startup with offices in Shenzhen and Fremont, California, unveiled an ambitious self-driving solution on Wednesday. The package, named DeepRoute-Driver 2.0, is a production-ready Level 4 system that costs approximately $10,",
@@ -10,7 +53,7 @@
       "originalUrl": "https://techcrunch.com/2021/12/07/deeproute-l4-10000-usd/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -50,6 +93,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-natural-language-processing-time-is-now-to-advance-human-language-insights-for-finance-industry.md",
+      "title": "Natural language processing: time is now to advance human language insights for finance industry",
+      "excerpt": "Investments in natural language processing technology are becoming vital to providing market insights for the finance sector, with the capacity to analyse more data and help identify risks and trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/presented/business/topics/investing-future/article/3158611/natural-language-processing-time-now",
+      "originalUrl": "https://www.scmp.com/presented/business/topics/investing-future/article/3158611/natural-language-processing-time-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/12/07/75c176c6-565b-11ec-b445-8e9a1747a53e_image_hires_120457.jpg?itok=2xdsEBL_&v=1638849908",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1131,100 +1227,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-ameca-the-future-face-of-robotics-is-as-freaky-as-youd-expect.md",
-      "title": "Ameca, \"the future face of robotics,\" is as freaky as you'd expect",
-      "excerpt": "UK robotics firm Engineered Arts has offered a sneak peek at its new humanoid robot ahead of a full reveal next year, and the preview is as incredible as it is unsettling. Ameca is presented as \"the world's most advanced human-shaped robot,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/ameca-humanoid-robot-video/",
-      "originalUrl": "https://newatlas.com/robotics/ameca-humanoid-robot-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/ameca-humanoid-robot-video/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/ameca-humanoid-robot-video/?amp=true",
-      "publishedDateTime": "2021-12-06T22:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-why-chatbots-failed-and-the-future-of-conversational-ai.md",
-      "title": "Why Chatbots Failed and the Future of Conversational AI",
-      "excerpt": "One of the first uses of AI in customer service was in chatbots. These days, “chatbot” almost sounds like a dirty word. It comes up again and again in my conversations with ot",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/400644",
-      "originalUrl": "https://www.entrepreneur.com/article/400644",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1638547674-GettyImages-1206801125.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

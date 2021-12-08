@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning most acquired skill in country: Survey"
-    excerpt: "Hyderabad: Machine learning (ML) is the most preferred course online during 2021 with AI and Machine Learning. Specialists, data analysts and data scientists are pegged as the most sought after emerging job roles."
-    publishedDateTime: 2021-12-06T19:40:00Z
-    webUrl: "https://www.thehansindia.com/news/cities/hyderabad/machine-learning-most-acquired-skill-in-country-survey-718513"
-    ampWebUrl: "https://www.thehansindia.com/amp/news/cities/hyderabad/machine-learning-most-acquired-skill-in-country-survey-718513"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/machine-learning-most-acquired-skill-in-country-survey-718513"
+  - title: "The Top 6 Artificial Intelligence Plays in India"
+    excerpt: "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible."
+    publishedDateTime: 2021-12-06T22:39:00Z
+    webUrl: "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6"
+    ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
+    cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
+      name: Equitymaster
+      domain: equitymaster.com
+    quality: 61
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/07/12/1087932-ai.jpg"
-        width: 1000
-        height: 600
+      - url: "https://www.eqimg.com/images/2021/09292021-PH-equitymaster.jpg"
+        width: 350
+        height: 215
         isCached: true
   - title: "Machine learning becomes most acquired skill in India on Coursera in 2021"
     excerpt: "According to the Annual Employability Survey by Aspiring Minds, 2.5% of Indian engineers possess technical skills in artificial intelligence (AI) that the industry requires"
@@ -56,6 +56,50 @@ related:
       - url: "https://images.livemint.com/img/2021/12/06/600x338/it3-kqRE--621x414@LiveMint_1638783930875.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "3 Impacts of AI in the Machine Translation Industry"
+    excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
+    publishedDateTime: 2021-12-07T23:03:00Z
+    webUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Deloitte’s AI Institute to help accelerate the pace of innovative research in India"
+    excerpt: "In an effort to bridge this gap, ‘Deloitte AI Institute India’ launched today will build an ecosystem in the country by integrating AI innovations.."
+    publishedDateTime: 2021-12-06T08:26:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 51
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88120313,imgsize-334006,width-1200,height-628,overlay-etcio/deloitte-s-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "NVIDIA Introduces Platform to Create AI Avatars"
+    excerpt: "NVIDIA is introducing a platform for generating interactive artificial intelligence (AI) avatars. See more here:"
+    publishedDateTime: 2021-12-06T05:18:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/nvidia-platform-ai-avatars/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 37
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
+        width: 1024
+        height: 389
         isCached: true
 
 secured: "jCu3wdnRELYNaKuBqcAV5dP2IZbeOVHsWcb6rx2I8y9dABllSkLJNcsu9V3Rn0E1xU+E59ijFOkU0dAzaR2kHR/C6W5SV41A8bw4tOrcgIFwo3MpztTs5ulSuBslg+TSYsD994O4g0BFsEFKc5qS7oEbfsnFIMpCX30j5NdfDTiAvBNTAGBR05fhm+95k1M3QzIXPT5GqUeukFbxPvvlz0jMMmr0KiXOHfYXJrJio4eX4yJe5nz7eODQyI90LBvGlMPQBiDR5y77ZmK8D4VwnaGfpGnZTknKkAlYXYNoX+GZZpxcSPxX8WOvxVTFEjhDHz24kTorMbRmKimUDp1kY4bBJxihda3ui8GC86S8m14=;nf/NKQzrWavhSw8BQs1b2w=="

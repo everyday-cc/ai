@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-17-one-autonomous-taxi-please.md",
+      "title": "One autonomous taxi, please",
+      "excerpt": "Scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL ... The control algorithms — similar to ones used for self-driving cars — function a little like a coxswain giving orders to rowers, by translating a given path ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/autonomous-taxi-roboats-1027",
+      "originalUrl": "https://news.mit.edu/2021/autonomous-taxi-roboats-1027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202110/roboat_0.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T14:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-ajman-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing.md",
+      "title": "Ajman: Driverless vehicle hits the roads, takes tourists sight-seeing",
+      "excerpt": "The vehicle is equipped with 5G technology, has facial recognition features and provides high-speed WiFi access",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing",
+      "originalUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=909defb0-8bfa-5b88-8bc1-7541e695a2e0&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.99999&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/uae-driverless-vehicle-hits-the-roads-takes-tourists-sight-seeing?amp=1",
+      "publishedDateTime": "2021-11-16T05:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-helmai-raises-26m-for-unsupervised-autonomous-driving-software.md",
       "title": "Helm.ai raises $26M for ‘unsupervised’ autonomous driving software",
       "excerpt": "Helm.ai, a startup developing software for autonomous vehicles trained using unsupervised learning techniques, has raised $26 million.",
@@ -1233,83 +1328,6 @@
           "url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
           "width": 1200,
           "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-06T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-stocks-to-buy-now.md",
-      "title": "Stocks to Buy Now",
-      "excerpt": "It even has an artificial intelligence engine called Koa that ... Nvidia has more employees working on driverless cars than Alphabet's Waymo, an actual driverless car project.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/tag/stocks-to-buy/?src=feedlink_nasdaq",
-      "originalUrl": "https://moneymorning.com/tag/stocks-to-buy/?src=feedlink_nasdaq",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-06T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-07-the-ceo-is-a-man-how-chinese-artificial-intelligence-perpetuates-gender-biases.md",
-      "title": "The ‘CEO’ is a man: how Chinese artificial intelligence perpetuates gender biases",
-      "excerpt": "For example, on major Chinese search engines like Baidu, Sogou and 360, words like “engineer”, “CEO” or “scientist” returned mostly images of men. Furthermore, searching keywords like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/09/30/the-ceo-is-a-man-how-chinese-artificial-intelligence-perpetuates-gender-biases",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/09/30/the-ceo-is-a-man-how-chinese-artificial-intelligence-perpetuates-gender-biases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/09/30/1313657.jpg",
-          "width": 1240,
-          "height": 697,
           "title": null,
           "attribution": null,
           "isCached": true

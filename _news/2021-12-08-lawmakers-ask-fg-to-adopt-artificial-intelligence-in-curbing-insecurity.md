@@ -24,6 +24,22 @@ images:
     height: 550
     isCached: true
 
-secured: "KsV/BsgcWLV7CrzoPWeQ2tecDeVvgBxa1z1dj/mQCJ9pYTbg6DjdGmaWMeGHHmmjIDShrlmWYkRh+TGeg4fyxLnple9vaMG75L2oBoGdgsT1mxViz2599VmjNDbJLYrH9EFY8V42uLDkYyTNP5nSF+5J8jaun641mxc/ABbi2fjOkcXxbePLbBRKeqJT1u8daID8fISPlUROAZ3x1mSt7WPYHb7UMDuUOPwTENZbMyEegEANRGY4t0GdJuW34k/DqAgiSKZ6CNDuuU2sV6H7Qmr+LOAnojwu0LIynYAkrk+4IJqj94cFYy30imkKeBmaeu4jk/7TSUgw+UY4RXXXwPqrxnLaxoY+Q9Hd11YOTKs=;DFeuaEzOH+UgV1WOYLlP3A=="
+related:
+  - title: "Nigeria: Lawmakers Ask FG to Adopt Artificial Intelligence in Curbing Insecurity"
+    excerpt: "The House of Representatives has urged the federal government to liaise with the Robotics and Artificial Intelligence Nigeria (RAIN) to provide advanced methods of curbing insecurity in Nigeria."
+    publishedDateTime: 2021-12-08T06:06:00Z
+    webUrl: "https://allafrica.com/stories/202112080045.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 32
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
+
+secured: "LPfXQvfOSgbYM4oh6R9jVEHvqCE6VbfB7MOlu9ne7A68iKFQ/5dJukcDneaKngWhaOiSzHsN+0d4s43ljdVBamj6KcAYRkENW2e5tx9FQZU/wLdQSf4P+4L7ysUXig4qb2xVBkkqieVN6A3BOXtE+Iq0QNGtGgTSupim/31yFwM0LBSQuuug3aQntezt5PW/LmfhkcsT8T3qBkXn+PmIELgJ0r1B7ElZedYPm5XtlGp/ulIchEq3VwUzrV7YE2Odtz+/JQ/VY2oad/RMRs3mQ5cl/0qS+bNt8+1yWizOdkhNM9S+rf3AxUhFd72bJoPXE4N2mKDaN8IDnXXscyEq3ssuiUmwLT5VX//ViobrSx8WfZgyh1x2pX9PkUY35fTumn8UNCgjUllUuvP8D9ZRKhUo/Oiu7p/CRNhNV7BrxVi6DSCQMyFwIObxbFeDFn5LoQhCTkE3qmY0ZeXlKil1xHuh8ya//Xy/mi5cA9jLNdsmfz7RJDvssydo4q1motI8BCQ8cut3SwqudUKO5MORXg==;GbfOiNrS9+Cp/kjrJLO2sg=="
 ---
 

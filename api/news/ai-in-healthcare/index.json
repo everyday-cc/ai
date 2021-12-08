@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-07-the-top-6-artificial-intelligence-plays-in-india.md",
+      "title": "The Top 6 Artificial Intelligence Plays in India",
+      "excerpt": "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6",
+      "originalUrl": "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eqimg.com/images/2021/09292021-PH-equitymaster.jpg",
+          "width": 350,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India",
+      "cdnAmpWebUrl": "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India",
+      "publishedDateTime": "2021-12-06T14:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Equitymaster",
+        "domain": "equitymaster.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-artificial-intelligence-driven-care-robots-tackle-the-suicide-rate.md",
       "title": "Artificial Intelligence-driven Care Robots Tackle the Suicide Rate",
       "excerpt": "Artificial intelligence-based care robots will help to communicate with residents who are living alone and dealing with mental health problems. According to government data in South Korea, Chungnam Province,",
@@ -43,6 +87,50 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-ai-is-making-better-therapists.md",
+      "title": "AI is making better therapists",
+      "excerpt": "Researchers are using AI to examine the language used by therapists. It could lead to more people getting better, and staying better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/",
+      "originalUrl": "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/",
+      "publishedDateTime": "2021-12-06T02:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -597,49 +685,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-25-artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros.md",
-      "title": "Artificial intelligence in the healthcare sector: Lindera successfully closes financing round of six million euros",
-      "excerpt": "Lindera– one of the leading deep-tech companies in the field of computer vision – has successfully closed a Series A financing round. The Berlin-based health-tech company is receiving additional growt",
-      "sourceUrl": null,
-      "webUrl": "https://www.djournal.com/artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros/article_db459d96-a723-5570-98bc-9f77961f3171.html",
-      "originalUrl": "https://www.djournal.com/artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros/article_db459d96-a723-5570-98bc-9f77961f3171.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/a/12/a12a1954-7d37-5490-aa80-d0bb0d17c216/619fa25c6fc1b.image.jpg?crop=1272%2C668%2C3%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Journal",
-        "domain": "djournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-25-kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt.md",
       "title": "Kozhikode-based AI-driven healthcare start-up gets funding from Malta govt",
       "excerpt": "Kozhikode: Kozhikode-based IT start-up Intpurple Technologies, which developed an Artificial Intelligence driven healthcare software, has received funding from the Government of Malta, the company said on Thursday.",
@@ -680,6 +725,58 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros.md",
+      "title": "Artificial intelligence in the healthcare sector: Lindera successfully closes financing round of six million euros",
+      "excerpt": "Lindera successfully closes financing round of six million euros Health tech company brings new investors on board in Series A round Growth capital to be used for expanding business model in motion di",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-healthcare-sector-lindera-successfully-",
+      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-healthcare-sector-lindera-successfully-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHEhoD12jmuxw/article-cover_image-shrink_720_1280/0/1637772449360?e=1644451200&v=beta&t=bGoQZtEAVDPs6Hat0LlelR1FXB6GquQbMHTi3rvsfME",
+          "width": 1280,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1237,93 +1334,6 @@
         "AI in Finance",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-crispr-crsp-to-begin-clinical-study-on-diabetes-therapy-drug.md",
-      "title": "CRISPR (CRSP) to Begin Clinical Study on Diabetes Therapy Drug",
-      "excerpt": "CRISPR Therapeutics CRSP, along with partner ViaCyte, announced that Health Canada has approved the clinical trial application for its investigational allogeneic stem cell-derived therapy, VCTX210. The candidate will be evaluated as a potential treatment for type 1 diabetes (T1D).",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/crispr-crsp-to-begin-clinical-study-on-diabetes-therapy-drug",
-      "originalUrl": "https://www.nasdaq.com/articles/crispr-crsp-to-begin-clinical-study-on-diabetes-therapy-drug",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/crispr-crsp-to-begin-clinical-study-on-diabetes-therapy-drug?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/crispr-crsp-to-begin-clinical-study-on-diabetes-therapy-drug?amp",
-      "publishedDateTime": "2021-11-17T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient.md",
-      "title": "How AI and NLP are helping healthcare call centers to be more efficient",
-      "excerpt": "AI has the potential to help healthcare call centers—and it couldn't come at a better time. Callers are frustrated and needing help more than ever, so this solution could make a big difference.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/12/04/f6895991-70f5-431a-a04a-4450b0104d05/resize/1200x/9a0404ccf9a3aeb492f2e23c9c681a0b/istock-1027578950.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
-      "publishedDateTime": "2021-11-17T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

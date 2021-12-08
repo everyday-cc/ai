@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-u
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
 type: article
 quality: 86
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ex Tesla Engineers Claim Full-Self Driving Autopilot Video Was Manipulated And Edited Out Barrier Collision"
+    excerpt: "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers"
+    publishedDateTime: 2021-12-07T21:13:00Z
+    webUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/"
+    ampWebUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 71
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Ex Tesla Engineers Claim Video Promoting Full-Self Driving Autopilot 2.0 Edited Out Collision With A Barrier"
     excerpt: "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers"
     publishedDateTime: 2021-12-07T20:31:00Z

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-08-mumbai-based-firm-to-launch-aiot-enabled-driverless-car-next-year-details-here.md",
+      "title": "Mumbai-based firm to launch AIoT-enabled driverless car next year. Details here",
+      "excerpt": "Mumbai-based automobile-as-a-service company - Autonomous Intelligence Motors Private Limited (AIMPL) - on Wednesday announced that it will launch an artificial intelligence-of-things (AIoT) powered autonomous car in the country next year.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here-41638941456556.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here-41638941456556.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2021/12/08/600x338/1169801_Wallpaper2_1638941650133.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here/amp-41638941456556.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here/amp-41638941456556.html",
+      "publishedDateTime": "2021-12-07T21:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-ex-tesla-impossible-foods-lawyer-takes-top-legal-job-at-robot-farming-startup.md",
       "title": "Ex-Tesla, Impossible Foods lawyer takes top legal job at robot farming startup",
       "excerpt": "Myra Pasek, who was the second in-house lawyer hired by Tesla Inc's Elon Musk and the first general counsel for Impossible Foods Inc, is taking on a new startup assignment, joining Silicon Valley-based robotic farming company Iron Ox Inc as general counsel.",
@@ -160,6 +203,50 @@
       ]
     },
     {
+      "path": "_news/2021-12-07-the-top-6-artificial-intelligence-plays-in-india.md",
+      "title": "The Top 6 Artificial Intelligence Plays in India",
+      "excerpt": "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6",
+      "originalUrl": "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eqimg.com/images/2021/09292021-PH-equitymaster.jpg",
+          "width": 350,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India",
+      "cdnAmpWebUrl": "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India",
+      "publishedDateTime": "2021-12-06T14:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Equitymaster",
+        "domain": "equitymaster.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-2021-ai-predictions-what-we-got-right-and-wrong.md",
       "title": "2021 AI Predictions: What We Got Right And Wrong",
       "excerpt": "With 2021 now coming to a close, let’s revisit these predictions to see how things actually played out. There is much to learn from these retrospectives about the state and trajectory of AI today. As of the beginning of this year,",
@@ -274,7 +361,7 @@
       "originalUrl": "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1096,43 +1183,25 @@
     {
       "path": "_news/2021-11-25-baidu-ponyai-approved-for-robotaxi-services-in-beijing.md",
       "title": "Baidu, Pony.ai approved for robotaxi services in Beijing",
-      "excerpt": "SHANGHAI, Nov 25 (Reuters) - Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more ...",
+      "excerpt": "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/baidu-ponyai-approved-robotaxi-services-beijing-2021-11-25/",
-      "originalUrl": "https://www.reuters.com/technology/baidu-ponyai-approved-robotaxi-services-beijing-2021-11-25/",
+      "webUrl": "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing",
+      "originalUrl": "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/AIdJQtUnYYgAIck0uaC1BkrnJTQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FDNGVLW23BJLFFEFTNXHSHTCQQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-24T22:16:00-08:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-pony.ai-approved-for-robotaxi-services-in-beijing?amp",
+      "publishedDateTime": "2021-11-24T22:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1343,83 +1412,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-stocks-to-buy-now.md",
-      "title": "Stocks to Buy Now",
-      "excerpt": "It even has an artificial intelligence engine called Koa that ... Nvidia has more employees working on driverless cars than Alphabet's Waymo, an actual driverless car project.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=bhogge%40live.com&email=bhogge%40live.com&moneymorning_subscribe=complete",
-      "originalUrl": "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=bhogge%40live.com&email=bhogge%40live.com&moneymorning_subscribe=complete",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-abu-dhabis-g42-to-start-first-driverless-car-trials-in-mideast.md",
-      "title": "Abu Dhabi’s G42 to start first driverless car trials in Mideast",
-      "excerpt": "The company will start running a small number or vehicles in two years and plans to have 4,000 driverless Origin ... to healthcare G42 is as an artificial intelligence and cloud computing firm ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/abu-dhabis-g42-to-start-first-driverless-car-trials-in-mideast/",
-      "originalUrl": "https://gulfbusiness.com/abu-dhabis-g42-to-start-first-driverless-car-trials-in-mideast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2021/11/Abu-Dhabi-Skyline-1-1-1-768x512-1.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

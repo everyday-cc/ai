@@ -25,29 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "VA Aims To Reduce Administrative Tasks With AI, Machine Learning"
-    excerpt: "A wide-reaching program looks for fresh machine learning technology to complete menial procedures and tasks, allowing VA clinicians and partners to focus on care."
-    publishedDateTime: 2021-12-06T18:54:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/"
+  - title: "AI is making better therapists"
+    excerpt: "Researchers are using AI to examine the language used by therapists. It could lead to more people getting better, and staying better."
+    publishedDateTime: 2021-12-06T10:12:00Z
+    webUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/"
+    ampWebUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 56
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/06/america_united_states_department_of_veterans_affairs_picture_id1152538330_3/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000"
+        width: 3000
+        height: 1687
         isCached: true
-  - title: "Taiwan Aims to be Global Leader in Artificial Intelligence with New AI HUB Initiative"
-    excerpt: "The benefits of artificial intelligence (AI) technology have been validated in many domains, where AI has helped reduce costs,"
-    publishedDateTime: 2021-12-07T12:00:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/taiwan-aims-to-be-global-leader-in-artificial-intelligence-with-new-ai-hub-initiative-888953629.html"
+  - title: "How Artificial Intelligence is Reducing Baggage Mishandling"
+    excerpt: "Modern airports are using artificial intelligence (AI) to avoid mishandling baggage. The idea is to use AI for end-to-end tracking of baggage and planning optimized luggage routes, right from the time a passenger gets on-board,"
+    publishedDateTime: 2021-12-06T02:25:00Z
+    webUrl: "https://www.bbntimes.com/technology/how-artificial-intelligence-is-reducing-baggage-mishandling"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
+    images:
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Artificial_Intelligence_is_Reducing_Baggage_Mishandling.jpeg"
+        width: 800
+        height: 494
+        isCached: true
 
 secured: "164lNivL8ID2ZKqLBVM8LdJW48PL5JXjtBSUI8BfgQZEKqg7e+mPipQT8383E4ikFqw1F0L2mgwSHr43vQUrr3v7CEAcP6F3/IjGvABlYfhvDXAVWwNM9AWTyUfxzTbWUIvHxwwInN7paPMQ/ooPBJHnEwBduVETAbSy7dcUBIngzdXVTVvZWBmSgJ0xJSUx0UJKk1HwCWyt+VXlCBX6wJ002ya/BDEUl3AkC49vosRP1/vPesmU/Bs+GAMViM85J7kGkSYNGGXCg0gyQf+tMlVRbv3g6LiA2w/ahFzdKIY7vn3Jj0WT9yu8KYTqLS4x6cX8la6HRAicX2mVu69xS0Z9J+tP3ByIunO9xqitl55wgcSDkpzPHBZgZo9WO+j6fj4YzkRrEea6vcGox8tgti7hzWqhKtMVjbSTUW13BFZr+IF2rb62DSHu2EVnhZJ1xNOzx87k9GYKcJXlHya6pzsoRUqHRjvFgpJf59NkKlUFxGs0mo1bozfHDQEXb3DIR4XFLlYm8wj4UFGzdf0MPg==;ZA0QKNFCKGp6KWibfZib+g=="
 ---

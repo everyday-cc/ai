@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-08-natural-language-processing-time-is-now-to-advance-human-language-insights-for-finance-industry.md",
+      "title": "Natural language processing: time is now to advance human language insights for finance industry",
+      "excerpt": "Investments in natural language processing technology are becoming vital to providing market insights for the finance sector, with the capacity to analyse more data and help identify risks and trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/presented/business/topics/investing-future/article/3158611/natural-language-processing-time-now",
+      "originalUrl": "https://www.scmp.com/presented/business/topics/investing-future/article/3158611/natural-language-processing-time-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/12/07/75c176c6-565b-11ec-b445-8e9a1747a53e_image_hires_120457.jpg?itok=2xdsEBL_&v=1638849908",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-the-future-of-fintech-2050-ai-powered-finance-assistants.md",
       "title": "The Future of Fintech 2050: AI-Powered Finance Assistants",
       "excerpt": "Discover a possible future in which AI-powered assistants control all aspects of people's financial lives using ultra-personalisation and hyper-automation",
@@ -42,50 +95,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-machine-learning-artificial-intelligence-and-blockchain-are-revolutionizing-the-legal-industry.md",
-      "title": "Machine Learning, Artificial Intelligence and Blockchain are Revolutionizing the Legal Industry",
-      "excerpt": "Blockchain, machine learning, and artificial intelligence are revolutionizing the legal industry. Digital transformation in the legal industry has been slow, but as benefits are becoming more obvious,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/machine-learning-artificial-intelligence-and-blockchain-are-revolutionizing-the-legal-industry?s=09",
-      "originalUrl": "https://www.bbntimes.com/technology/machine-learning-artificial-intelligence-and-blockchain-are-revolutionizing-the-legal-industry?s=09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/Machine_Learning_Artificial_Intelligence_and_Blockchain_are_Revolutionizing_the_Legal_Industry.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T13:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -142,7 +151,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -274,42 +283,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
-      "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
-      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible-2/",
-      "originalUrl": "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T10:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     },
     {
@@ -1343,6 +1316,40 @@
         "AI in Finance",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-12-stori-raises-200-million-for-financial-services-for-the-underserved.md",
+      "title": "Stori Raises $200 Million for Financial Services for the Underserved",
+      "excerpt": "Mexico-based Stori landed $200 million this week in combined debt and equity. The investment, which bring the company’s total funding to almost $250 million, will help the fintech provide financial services to its region’s underserved customers.",
+      "sourceUrl": null,
+      "webUrl": "https://finovate.com/stori-raises-200-million-for-financial-services-for-the-underserved/",
+      "originalUrl": "https://finovate.com/stori-raises-200-million-for-financial-services-for-the-underserved/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-12T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finovate.com",
+        "domain": "finovate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

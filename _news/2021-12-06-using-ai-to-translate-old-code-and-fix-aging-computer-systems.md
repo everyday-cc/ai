@@ -7,8 +7,8 @@ originalUrl: "https://www.uab.edu/reporter/research/grants-awarded/item/9683-usi
 webUrl: "https://www.uab.edu/reporter/research/grants-awarded/item/9683-using-ai-to-translate-old-code-and-fix-aging-computer-systems"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Kaleido Scope
@@ -25,94 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "1 Dividend King Is Leveraging AI to Stay On Top"
-    excerpt: "With new entrants using artificial intelligence to disrupt the industry, this company is taking things into its own hands."
-    publishedDateTime: 2021-12-03T13:55:00Z
-    webUrl: "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveraging-artificial-intelligence/"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/655460/couple-meets-insurance-agent-at-home-getty.jpg"
-        width: 2120
-        height: 1414
-        isCached: true
-  - title: "AI is making better therapists"
-    excerpt: "Researchers are using AI to examine the language used by therapists. It could lead to more people getting better, and staying better."
-    publishedDateTime: 2021-12-06T10:12:00Z
-    webUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/"
-    ampWebUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "The Top 6 Artificial Intelligence Plays in India"
-    excerpt: "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible."
-    publishedDateTime: 2021-12-06T22:39:00Z
-    webUrl: "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6"
-    ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
-    cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
-    type: article
-    provider:
-      name: Equitymaster
-      domain: equitymaster.com
-    quality: 61
-    images:
-      - url: "https://www.eqimg.com/images/2021/09292021-PH-equitymaster.jpg"
-        width: 350
-        height: 215
-        isCached: true
-  - title: "Top 6 Ways Artificial Intelligence Is Changing Real Estate Industry"
-    excerpt: "There was a time when Artificial intelligence or anything close to it seemed like an impossibility. That''s not the case anymore. Artificial intelligence has impacted our lives in great ways and there is no stopping to it."
-    publishedDateTime: 2021-12-03T16:24:00Z
-    webUrl: "https://news.tmcnet.com/topics/articles/2021/12/03/450830-top-6-ways-artificial-intelligence-changing-real-estate.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-dec/5159830407-artificial-intelligence-3382507_960_720.jpg"
-        width: 960
-        height: 640
-        isCached: true
-  - title: "How Artificial Intelligence is Reducing Baggage Mishandling"
-    excerpt: "Modern airports are using artificial intelligence (AI) to avoid mishandling baggage. The idea is to use AI for end-to-end tracking of baggage and planning optimized luggage routes, right from the time a passenger gets on-board,"
-    publishedDateTime: 2021-12-06T02:25:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-artificial-intelligence-is-reducing-baggage-mishandling"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Artificial_Intelligence_is_Reducing_Baggage_Mishandling.jpeg"
-        width: 800
-        height: 494
-        isCached: true
-  - title: "How Dell Precision is bringing ambitious AI initiatives to life"
-    excerpt: "And while the most advanced AI models are experiencing exponential growth, the technology required to run them is shrinking. Many businesses are developing cutting-edge AI initiatives that no longer require a supercomputer,"
-    publishedDateTime: 2021-12-07T04:50:00Z
-    webUrl: "https://www.itnews.com.au/video/how-dell-precision-is-bringing-ambitious-ai-initiatives-to-life-573702"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/Videos/Dell_Precision_ad.PNG"
-        width: 1054
-        height: 594
-        isCached: true
   - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
     excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"
     publishedDateTime: 2021-12-04T02:02:00Z
@@ -126,6 +38,34 @@ related:
       - url: "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg"
         width: 770
         height: 400
+        isCached: true
+  - title: "Cloud Computing, Neuroimaging, AI, and the Urgent Need to Address the Global Dementia Crisis"
+    excerpt: "With COVID surging and retreating across different regions of the globe, it may be a while before we can assess the full measure of what the pandemic has to teach us about health at both the individual and community level."
+    publishedDateTime: 2021-12-07T15:55:00Z
+    webUrl: "https://www.linkedin.com/pulse/cloud-computing-neuroimaging-ai-urgent-need-address-moore-md-phd"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 28
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQF_nacf-IcMgw/article-cover_image-shrink_720_1280/0/1638828817349?e=1644451200&v=beta&t=yd7rHCjSnG7Ufb2SG-xUw4x0X8Q_gEpTXXBqPzlMb7Y"
+        width: 1280
+        height: 648
+        isCached: true
+  - title: "South Africa: Crowd-Solving Startup Zindi Building a Community of Data Scientists and Using AI to Solve Real World Problems"
+    excerpt: "Zindi is all about using AI to solve real world problems for companies and individuals. And the South Africa-based crowd-solving startup has done that over the last three years they have been in existence."
+    publishedDateTime: 2021-12-04T12:33:00Z
+    webUrl: "https://allafrica.com/stories/202112040040.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 11
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
         isCached: true
 
 secured: "WDYqeDBIKT6qPbcl+d54sHogeKQpj1MZI+unCWUZ8qWGSBP+83A+m0FoRCU0IjWgNEPAUivbFgHxAtsjQo4Dp5bfPaMna88Nfpzi8j4LA/rZwJAcJgweRww5Tx5047rl2J/5FlOjzyc8FoJ79bPXrma4rL8GWkw3Iv8Zyt9pp+x+QAzptFdeQjWJwKdAEIYTxdIhmxWOHjXj626NWCnyZRRghicarUo32slZ+vn6e3wCRoTmvm4GBJ9LhHqAW3jYs3JkV26s6+v4YKqfZcvQmF69QkbewIZemul3hAKmvG1DjkKGgjqBC+4eL96CYx6JVk2UiRennMTq7n16PqBfHvWHFczPqoIc5Xa4b3zgkPW+ccsfUEl+5XR6unSC+WxeEX4hrO7+RQXiAQekmO+Y7EjjzQrjlovHoxBZQPQQ4ev/WIjBD2x17QKt99dWRnV402B4P+rC6lAPPE2FPQ5JmwBvKYqw5Z1Ooz07QU8XE6LcirBOb9jYAMLVH9pLwrwNxm5rvKC4FR3Gnr0zeS5qmA==;p8XlLVcyGNngzrk57xeBgw=="

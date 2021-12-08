@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-20-inaugural-indy-autonomous-challenge-to-bring-shock-and-awe-to-brickyard.md",
+      "title": "Inaugural Indy Autonomous Challenge to Bring 'Shock and Awe' to Brickyard",
+      "excerpt": "Teams will program the cars to run laps around IMS using artificial intelligence ... it's not just about making a driverless car, or going around the Indianapolis Motor Speedway, it's about ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoweek.com/racing/more-racing/a38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "originalUrl": "https://www.autoweek.com/racing/more-racing/a38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/418-pd6-0642-min-1634674255.jpg?crop=1.00xw:0.753xh;0,0.169xh&resize=1200:*",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoweek.com/racing/more-racing/amp38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/racing/more-racing/amp38006217/inaugural-indy-autonomous-challenge-shock-awe/",
+      "publishedDateTime": "2021-10-19T17:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoweek",
+        "domain": "autoweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-20-meituan-raises-10-billion-for-self-driving-cars-drone-delivery.md",
+      "title": "Meituan raises $10 billion for self-driving cars, drone delivery",
+      "excerpt": "It said it plans to spend the money it raised on research and development of self-driving vehicles ... including Tencent and Baidu, were fined for failing to disclose takeovers or investments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asahi.com/ajw/articles/14334804",
+      "originalUrl": "https://www.asahi.com/ajw/articles/14334804",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p.potaufeu.asahi.com/d16b-p/picture/26088825/466277d4ab39974249cbd7b2cccd2952.jpg",
+          "width": 660,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "asahi.com",
+        "domain": "asahi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-vocal-about-local-can-india-have-its-own-facebook-google.md",
       "title": "Vocal about local? Can India have its own Facebook & Google?",
       "excerpt": "(1.87%), Baidu (1.1%), Yandex (0.54% ... It can afford to, simply because they got into the ‘self-reliance’ mode many years before the necessity of doing so finally dawned on us.",
@@ -1307,101 +1393,6 @@
         "IBM AI",
         "Facebook AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-the-dangerous-promise-of-the-self-driving-car.md",
-      "title": "The Dangerous Promise of the Self-Driving Car",
-      "excerpt": "In his new book, historian Peter Norton punctures the claims of autonomous vehicle companies and warns that technology can’t cure the urban problems that cars created.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-promise-of-the-self-driving-car",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-12/the-dangerous-promise-of-the-self-driving-car",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixZgI.hcamd4/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-12T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-germany-unveils-worlds-first-self-driving-train-see-photos.md",
-      "title": "Germany unveils world's first self-driving train. See photos",
-      "excerpt": "Germany: Four such trains will join the northern city's S-Bahn rapid urban rail network and start carrying passengers from December",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos-11634002710170.html",
-      "originalUrl": "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos-11634002710170.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/10/12/600x338/automatedtrain_1634003569293_1634003629275.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/germany-unveils-world-s-first-self-driving-train-see-photos/amp-11634002710170.html",
-      "publishedDateTime": "2021-10-12T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

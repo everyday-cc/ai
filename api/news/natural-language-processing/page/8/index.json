@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-14-zoom-to-add-real-time-translation-for-12-languages-next-year.md",
+      "title": "Zoom to Add Real-Time Translation for 12 Languages Next Year",
+      "excerpt": "Zoom says its real-time translation function will be up and running next year for 12 languages. The company demoed the feature today during its annual Zoomtopia event, and argued that it’ll help break down language barriers during video calls.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/video-conferencing-software/135629/zoom-to-add-real-time-translation-for-12-languages-next-year",
+      "originalUrl": "https://uk.pcmag.com/video-conferencing-software/135629/zoom-to-add-real-time-translation-for-12-languages-next-year",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/z/zoom-to-ad/zoom-to-add-real-time-translation-for-12-languages-next-year_fzqx.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-13T12:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-whatsapp-for-ios-to-add-voice-message-transcription-feature.md",
+      "title": "WhatsApp for iOS to add voice message transcription feature",
+      "excerpt": "WhatsApp is developing a new feature for iOS users that will help those who don't like listening to long audio messages on the app.",
+      "sourceUrl": null,
+      "webUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/",
+      "originalUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/09/whatsapp-voice-message-transcription-feature-9to5mac-wabetainfo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/09/12/whatsapp-ios-voice-message-transcription-feature/amp/",
+      "publishedDateTime": "2021-09-13T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-whatsapp-transcription-for-voice-message-audio-tipped-to-work-with-apple-updated.md",
       "title": "WhatsApp transcription for voice message audio tipped to work with Apple [Updated]",
       "excerpt": "An ability to transcribe messages was leaked as a potential upcoming feature in WhatsApp. Information about the feature has not yet been confirmed by WhatsApp or Facebook, but details leaked this",

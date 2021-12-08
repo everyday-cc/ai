@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-17-crispr-crsp-to-begin-clinical-study-on-diabetes-therapy-drug.md",
+      "title": "CRISPR (CRSP) to Begin Clinical Study on Diabetes Therapy Drug",
+      "excerpt": "CRISPR Therapeutics CRSP, along with partner ViaCyte, announced that Health Canada has approved the clinical trial application for its investigational allogeneic stem cell-derived therapy, VCTX210. The candidate will be evaluated as a potential treatment for type 1 diabetes (T1D).",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/crispr-crsp-to-begin-clinical-study-on-diabetes-therapy-drug",
+      "originalUrl": "https://www.nasdaq.com/articles/crispr-crsp-to-begin-clinical-study-on-diabetes-therapy-drug",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/crispr-crsp-to-begin-clinical-study-on-diabetes-therapy-drug?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/crispr-crsp-to-begin-clinical-study-on-diabetes-therapy-drug?amp",
+      "publishedDateTime": "2021-11-17T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient.md",
+      "title": "How AI and NLP are helping healthcare call centers to be more efficient",
+      "excerpt": "AI has the potential to help healthcare call centers—and it couldn't come at a better time. Callers are frustrated and needing help more than ever, so this solution could make a big difference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
+      "originalUrl": "https://www.techrepublic.com/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2019/12/04/f6895991-70f5-431a-a04a-4450b0104d05/resize/1200x/9a0404ccf9a3aeb492f2e23c9c681a0b/istock-1027578950.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-and-nlp-are-helping-healthcare-call-centers-to-be-more-efficient/",
+      "publishedDateTime": "2021-11-17T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-payzen-secures-15m-series-a-for-care-now-pay-later-healthcare-platform.md",
       "title": "PayZen secures $15M Series A for ‘care now, pay later’ healthcare platform",
       "excerpt": "Healthcare costs in the U.S. are steadily rising, and the share patients must pay out-of-pocket has increased in tandem. Nearly one in three American households have delayed medical care due to its cost,",
@@ -1272,92 +1359,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-dendreon-pharmaceuticals-and-shoreline-biosciences-announce-cmc-and-manufacturing-alliance-to-advance-the-future-of-ipsc-cellular-therapy.md",
-      "title": "Dendreon Pharmaceuticals and Shoreline Biosciences Announce CMC and Manufacturing Alliance to Advance the Future of iPSC Cellular Therapy",
-      "excerpt": "Dendreon Pharmaceuticals, a commercial-stage biopharmaceutical company and pioneer in the development of cellular immunotherapy, and Shoreline Biosciences, a biotechnology company developing allogeneic off-the-shelf,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20083929.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20083929.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T05:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-healthcare-artificial-intelligence-market.md",
-      "title": "Healthcare Artificial Intelligence Market",
-      "excerpt": "Specifications and Classification of COVID-19 Outbreak-Global Healthcare Artificial Intelligence market, Applications [Medical Imaging & Diagnosis, Drug Discovery, Therapy Planning, Hospital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2451620/healthcare-artificial-intelligence-market-next-big-thing",
-      "originalUrl": "https://www.openpr.com/news/2451620/healthcare-artificial-intelligence-market-next-big-thing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub03382915_g.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2451620/healthcare-artificial-intelligence-market-next-big-thing",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2451620/healthcare-artificial-intelligence-market-next-big-thing",
-      "publishedDateTime": "2021-11-03T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

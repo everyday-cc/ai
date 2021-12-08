@@ -24,22 +24,6 @@ images:
     height: 314
     isCached: true
 
-related:
-  - title: "NVIDIA Introduces Platform to Create AI Avatars"
-    excerpt: "NVIDIA is introducing a platform for generating interactive artificial intelligence (AI) avatars. See more here:"
-    publishedDateTime: 2021-12-06T05:18:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/nvidia-platform-ai-avatars/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
-        width: 1024
-        height: 389
-        isCached: true
-
 secured: "zsM0XjVGxXFveYI/tULq1JlJYHo4x5RwFwr6h6p/WqOCTw0OMvAXv/rw150h7rFA0KrnjAoIqrBwe8v1iAfoPPWdElDrC10fD6NceV7jo2Oizj9trAnkK+ntFq2wwsAlbetxYVm/IFJTnAftD41P52BrZXz9808KG0yLxa2Tt0aI2AYHG/WEHzrRYBagAGIHff6JWaaCCR5NS8wed7iNSejBesCxOlIWdWiyDW3nsWmgK3gZhenrOOnKLZ/I5p7oQiDo81iaEt1ZKPoMN2RvMGMjFvJ6VeUzbne0ydPqlVReiVC1/k2e0x5zHFQk6QHf7c1APyNbTnTkv5dDCLwrTZNZN/27q8dMxARgLshvG22weIGd9LfSbG6N2XR/8DE63E584fVeXvKPWOUmIhx61NRYK/1aMF5vRlzSjEl8Y7Cb0oa7JkANgtMiaWj4rdO4NJjGWz7+YdvX/8EOnsfRrqwV/vK8KZTrdYCOFJm9k4p7Bg4eBpD02JVAFdIbOed17s0Ow5lqXc6F400dEbjwYg==;8GdxlgCZjpN7701X2ddVOw=="
 ---
 

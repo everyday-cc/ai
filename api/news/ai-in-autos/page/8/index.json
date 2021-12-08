@@ -2,6 +2,93 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-10-05-55-self-driving-ai-robots-deployed-to-sort-postal-mails-in-greece.md",
+      "title": "55 self-driving AI robots deployed to sort postal mails in Greece",
+      "excerpt": "Hellenic Post in Athens, Greece, has deployed 55 small, four-wheeled autonomous mobile robots powered by artificial intelligence to sort mails at its centre. The robots scan the postal code, weigh the package and,",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516",
+      "originalUrl": "https://inshorts.com/en/news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/10_oct/5_tue/img_1633432635497_494.jpg?",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/55-selfdriving-ai-robots-deployed-to-sort-postal-mails-in-greece-1633433596516",
+      "publishedDateTime": "2021-10-05T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-10-05-tesla-gears-up-to-launch-self-driving-software-but-with-a-catch.md",
+      "title": "Tesla gears up to launch self-driving software but with a catch",
+      "excerpt": "Tesla will monitor driving behaviors before allowing owners to take advantage of its Full Self-Driving software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/",
+      "originalUrl": "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2021/09/Tesla-autopilot.jpg-image620x372.jpg",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1",
+      "cdnAmpWebUrl": "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2021/10/05/tesla-analyzes-driving-behaviors-of-potential-fsd-users-414-210784/?amp=1",
+      "publishedDateTime": "2021-10-05T03:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PropertyCasualty360",
+        "domain": "propertycasualty360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-05-best-examples-of-artificial-intelligence.md",
       "title": "Best Examples of Artificial Intelligence",
       "excerpt": "From vaccine development to self-driving cars, artificial intelligence or, AI for short, is progressing very quickly. As much as we were imagining artificial intelligence as robots with human characteristics, it has proven to be far more sophisticated and ...",
@@ -1305,101 +1392,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars.md",
-      "title": "Those Infuriating Drivers That Take Over The Left Lane And Prevent Passing Will Undoubtedly Be Stifling For AI Self-Driving Cars",
-      "excerpt": "Left lane usage varies by state laws and many drivers get confused or purposely exploit loopholes and road rage results. Here's what will happen once we have AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F610ae7fa91d476847d9bda78%2F0x0.jpg%3FcropX1%3D141%26cropX2%3D4241%26cropY1%3D452%26cropY2%3D2781",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/09/24/those-infuriating-drivers-that-take-over-the-left-lane-and-prevent-passing-will-undoubtedly-be-stifling-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2021-09-24T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-24-gm-invests-300m-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china.md",
-      "title": "GM invests $300M in Momenta to deliver next-generation self-driving technologies in China",
-      "excerpt": "General Motors will invest $300 million in China-based Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. Momenta has pioneered a scalable path toward full autonomous driving by combining a data-driven approach with iterating algorithms—referred to as its “flywheel approach”—as well as a",
-      "sourceUrl": null,
-      "webUrl": "https://media.gm.com/media/cn/en/gm/news.detail.html/content/Pages/news/cn/en/2021/Sept/0923-gm.html",
-      "originalUrl": "https://www.greencarcongress.com/2021/09/20210924-momenta.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.gm.com/content/dam/company/img/cn/GMChina_QR_2021.png",
-          "width": 1128,
-          "height": 1132,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T03:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Green Car Congress",
-        "domain": "greencarcongress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

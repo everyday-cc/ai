@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 774
         isCached: true
-  - title: "The Future Of Cloud-Based Machine Learning: Highlights from AWS re:Invent 2021"
-    excerpt: "Swami Sivasubramanian is credited with starting a revolution in the IT industry. His innovation was to take the artificial intelligence (AI) and deep learning services that had been so effective for A"
-    publishedDateTime: 2021-12-03T13:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-cloud-based-machine-learning-highlights-from-aws-bernard-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 52
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFTpxCuJ0-E1A/article-cover_image-shrink_720_1280/0/1638537981050?e=1643846400&v=beta&t=xCBkkxlgdenBM-tuYCoT5I6Ifqxot4PoxcMNdwHP_lw"
-        width: 1079
-        height: 720
-        isCached: true
   - title: "AWS Re:Invent: How Real Is Amazon’s No-Code/Low-Code Play?"
     excerpt: "Low-code/no-code underpinned some of ’ (AWS) key announcements at its annual Re:Invent users conference in Las Vegas, including the availability of the no-code platform SageMaker Canvas for machine learning (ML)."
     publishedDateTime: 2021-12-07T15:01:00Z

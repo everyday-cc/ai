@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-07T20:32:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-changing-future-radiology-michael-spencer-"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-changing-future-radiology-michael-spencer-"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQEU7CTKRAYZBQ/article-cover_image-shrink_720_1280/0/1638804317784?e=1644451200&v=beta&t=ISnO7ttNkxyoaZ0PHxlLaNZbGepAZqBW6a_qCF9gUE0"
@@ -60,6 +61,6 @@ related:
         height: 300
         isCached: true
 
-secured: "k/NUBUB4BNlnAXktQxKr2FqsBdGvpUcquUlpi/O+KddSiJbpNUXqPFmcuBnmR/9CJELPF75UsoQ6S9qCZbTJ8F6EAtOW1RaGtQiheI6Jgew7UHKyQ8jqNLoh4wPxvURfExfcJp1lDg9CvXHXgU8wPr0TY9Gi4xuW7GRhjKZMC/dwJEDoKHcfCOmf8OebJVrezPaGNiFdl3xnz/DyTm3/lIeXLDMQy9Bb2EjUgiec8jrxNp4Hm5Wg+GJYgzNYQYkHBCTyEC1vH9doVguxChP1NabApUhuwaspYt4ulI2J8H//VbEKwPjcM0rsalQsynQBLbF4++PHD9zBLiFkCgLhpcbz1Q25YwEehGhlJJjXesk=;t2V3kgDN97wEwKu4gjzdjw=="
+secured: "+d7VlspziKoRLg0u553IEHgFL2r75JvlLVWZ8MBCHoTLi2MuPWlNRcVsthheA8TP04gcVk+h/K6V6DIpNeyk46r66ngznIEaF1rEAGOlCazYK7Qt05kF3DPR9XmUSXChpIVUftZxMqkADTCieCDA/Jty73JQhw7n5JnretLzdpirdXpymSomPszIeUv0OJoxRK7a9FaYxFh/wdYLb0wHQljVeQT6bPS78GcYfe9eVWOHgxU52fWHD01gXQUxlF3uo3nuQcJ9igzk7k0pEISYqU9aTtd3fDpCu5r4H3W/ojJ3+dESwUL+dt7N/EOtPxivh2dXG71yXK3ojfaQTLlnYhIH2mfiQp8gawM+lIWOqe3lnOwbfB1fK8nzpVlEmuruebOvx/jngudNVLiGbxkeTIJ/w1Zi/bWKs12Gj7IPgO3LkGdwv1b2rb558Z7kU1mxo9by1ml+2RrvZtnyBmFn+qtSNOiTPM/YGW2AT7e2X6KqaFLnO2OySCn54Uw0emHG8k37DjWVsA/Bamd7AaodXg==;DDQwd7LujSURmnb1G+p/Uw=="
 ---
 

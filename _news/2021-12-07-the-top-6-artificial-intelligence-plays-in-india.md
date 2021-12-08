@@ -9,8 +9,8 @@ ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&
 cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: Equitymaster
@@ -28,105 +28,79 @@ images:
     isCached: true
 
 related:
-  - title: "1 Dividend King Is Leveraging AI to Stay On Top"
-    excerpt: "With new entrants using artificial intelligence to disrupt the industry, this company is taking things into its own hands."
-    publishedDateTime: 2021-12-03T13:55:00Z
-    webUrl: "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveraging-artificial-intelligence/"
+  - title: "Machine learning becomes most acquired skill in India on Coursera in 2021"
+    excerpt: "According to the Annual Employability Survey by Aspiring Minds, 2.5% of Indian engineers possess technical skills in artificial intelligence (AI) that the industry requires"
+    publishedDateTime: 2021-12-06T09:48:00Z
+    webUrl: "https://www.livemint.com/education/news/machine-learning-becomes-most-acquired-skill-in-india-on-coursera-in-2021-11638783681363.html"
+    ampWebUrl: "https://www.livemint.com/education/news/machine-learning-becomes-most-acquired-skill-in-india-on-coursera-in-2021/amp-11638783681363.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/machine-learning-becomes-most-acquired-skill-in-india-on-coursera-in-2021/amp-11638783681363.html"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 67
+      name: Mint
+      domain: livemint.com
+    quality: 58
     images:
-      - url: "https://g.foolcdn.com/editorial/images/655460/couple-meets-insurance-agent-at-home-getty.jpg"
-        width: 2120
-        height: 1414
+      - url: "https://images.livemint.com/img/2021/12/06/600x338/it3-kqRE--621x414@LiveMint_1638783930875.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "AI is making better therapists"
-    excerpt: "Researchers are using AI to examine the language used by therapists. It could lead to more people getting better, and staying better."
-    publishedDateTime: 2021-12-06T10:12:00Z
-    webUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/"
-    ampWebUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
+  - title: "3 Impacts of AI in the Machine Translation Industry"
+    excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
+    publishedDateTime: 2021-12-07T23:03:00Z
+    webUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "Using AI to translate old code and fix aging computer systems"
-    excerpt: "UAB computer scientists are contributing to a DARPA-funded initiative with artificial intelligence-based programming languages that allow humans to understand the “safety and correctness of code in the wild."
-    publishedDateTime: 2021-12-06T14:34:00Z
-    webUrl: "https://www.uab.edu/reporter/research/grants-awarded/item/9683-using-ai-to-translate-old-code-and-fix-aging-computer-systems"
-    type: article
-    provider:
-      name: Kaleido Scope
-      domain: uab.edu
+      name: Times Union
+      domain: timesunion.com
     quality: 54
     images:
-      - url: "https://www.uab.edu/reporter/media/k2/items/cache/43dd04518ac7ab808ae810eda3a2d063_XL.jpg"
-        width: 900
-        height: 676
+      - url: "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "Top 6 Ways Artificial Intelligence Is Changing Real Estate Industry"
-    excerpt: "There was a time when Artificial intelligence or anything close to it seemed like an impossibility. That''s not the case anymore. Artificial intelligence has impacted our lives in great ways and there is no stopping to it."
-    publishedDateTime: 2021-12-03T16:24:00Z
-    webUrl: "https://news.tmcnet.com/topics/articles/2021/12/03/450830-top-6-ways-artificial-intelligence-changing-real-estate.htm"
+  - title: "Deloitte’s AI Institute to help accelerate the pace of innovative research in India"
+    excerpt: "In an effort to bridge this gap, ‘Deloitte AI Institute India’ launched today will build an ecosystem in the country by integrating AI innovations.."
+    publishedDateTime: 2021-12-06T08:26:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: India Times
+      domain: indiatimes.com
+    quality: 51
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88120313,imgsize-334006,width-1200,height-628,overlay-etcio/deloitte-s-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Machine Learning Is The Most Acquired Skill In India"
+    excerpt: "Data, Data, Everywhere are the top two popular courses to upskill in the demanding ecosystem The Future of Jobs 2020 report by the World Economic Forum states that AI and Machine Learning Specialists,"
+    publishedDateTime: 2021-12-06T13:44:00Z
+    webUrl: "https://analyticsindiamag.com/machine-learning-is-the-most-acquired-skill-in-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-dec/5159830407-artificial-intelligence-3382507_960_720.jpg"
-        width: 960
-        height: 640
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/default.jpg"
+        width: 851
+        height: 315
         isCached: true
-  - title: "How Artificial Intelligence is Reducing Baggage Mishandling"
-    excerpt: "Modern airports are using artificial intelligence (AI) to avoid mishandling baggage. The idea is to use AI for end-to-end tracking of baggage and planning optimized luggage routes, right from the time a passenger gets on-board,"
-    publishedDateTime: 2021-12-06T02:25:00Z
-    webUrl: "https://www.bbntimes.com/technology/how-artificial-intelligence-is-reducing-baggage-mishandling"
+  - title: "NVIDIA Introduces Platform to Create AI Avatars"
+    excerpt: "NVIDIA is introducing a platform for generating interactive artificial intelligence (AI) avatars. See more here:"
+    publishedDateTime: 2021-12-06T05:18:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/nvidia-platform-ai-avatars/"
     type: article
     provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
+      name: Datamation
+      domain: datamation.com
+    quality: 37
     images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Artificial_Intelligence_is_Reducing_Baggage_Mishandling.jpeg"
-        width: 800
-        height: 494
-        isCached: true
-  - title: "How Dell Precision is bringing ambitious AI initiatives to life"
-    excerpt: "And while the most advanced AI models are experiencing exponential growth, the technology required to run them is shrinking. Many businesses are developing cutting-edge AI initiatives that no longer require a supercomputer,"
-    publishedDateTime: 2021-12-07T04:50:00Z
-    webUrl: "https://www.itnews.com.au/video/how-dell-precision-is-bringing-ambitious-ai-initiatives-to-life-573702"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/Videos/Dell_Precision_ad.PNG"
-        width: 1054
-        height: 594
-        isCached: true
-  - title: "Putting Artificial Intelligence to Work in Cancer Diagnosis and Treatment"
-    excerpt: "Despite major advances in treatment and diagnosis over the past decades, cancer still ranks as a leading cause of mortality and a major impediment to extending life expectancy worldwide. Artificial intelligence's future involvement in healthcare,"
-    publishedDateTime: 2021-12-04T02:02:00Z
-    webUrl: "https://www.mddionline.com/artificial-intelligence/putting-artificial-intelligence-work-cancer-diagnosis-and-treatment"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 38
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/JDW04Yweb.jpg"
-        width: 770
-        height: 400
+      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
+        width: 1024
+        height: 389
         isCached: true
 
 secured: "jrXyZ9EYEkLfPBik/83llRwKMmQJVenW/rtIG53BIQETVjRmf9etGBrWpwA63qg/4mBbROjlGhxKzKw9CzSaDPCAse7vsjwFcjD6e2hRVLpx0v4XtabKJwUeVxnaRyNJIdPc3V7xT9Cq7FE6gcUaSp9kV4Z9w/mOm7nmkag5HatVJ5PHRUUCyQF3fMyEL5FzBNB+CRkXGxwxYNOQCIpZZqWLxceIWfe8C/AW88WHqBe+gFAZgGorJz00kkPlVRzCM7wmv2L+/GX7nLABQ9XjAQOogPaZkxTzfSC4Dm/nknDPTfyQ3pntzgnWNPypHvJsiUbkkIgo2yknuXFQ1jutnhOf5i8hpvJyKV26aXJpaqw=;ak5evXZxq5EQmhBy7V+Urg=="

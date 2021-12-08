@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Ex Tesla Engineers Claim Full-Self Driving Autopilot Video Was Manipulated And Edited Out Barrier Collision"
+    excerpt: "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers"
+    publishedDateTime: 2021-12-07T21:13:00Z
+    webUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/"
+    ampWebUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 71
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Tesla Faked Original Full Self-Driving Video, Former Employees Allege"
     excerpt: "Tesla faked the original 2016 video showing a Model S driving itself without any human intervention, according to former employees interviewed by the New York Times. The allegations were made in a broader story exposing internal divisions at Tesla over its approach to safety in developing and marketing its Autopilot and Full Self-Driving hardware and software."
     publishedDateTime: 2021-12-06T12:40:00Z

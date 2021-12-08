@@ -88,20 +88,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "The Future Of Cloud-Based Machine Learning: Highlights from AWS re:Invent 2021"
-    excerpt: "Swami Sivasubramanian is credited with starting a revolution in the IT industry. His innovation was to take the artificial intelligence (AI) and deep learning services that had been so effective for A"
-    publishedDateTime: 2021-12-03T13:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-cloud-based-machine-learning-highlights-from-aws-bernard-marr"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 52
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFTpxCuJ0-E1A/article-cover_image-shrink_720_1280/0/1638537981050?e=1643846400&v=beta&t=xCBkkxlgdenBM-tuYCoT5I6Ifqxot4PoxcMNdwHP_lw"
-        width: 1079
-        height: 720
-        isCached: true
 
 secured: "q9OHqXKwMwtfgPrjTOibE3AIBfJvXnPry1oxJf9RWbu8B98jgnUfnBWbDh+3vUQqOj6NV1c8wOaTMv29NJpecBOKa0h8OsUUBTGc5BmI8GMVDNEa+/UNPFGeGEn5eIhQecSEaDLeGqPt75Cl0FKVC4iiZlSKsq//dYTITu5Gz7N5Hc/1S9xXxWzcrMTzhgK3nLWTx/56oOJw5V04f3/UnUz+/tLc93QQquQvcnB6Mkf/sSszXL9iseY+YN0T6z5rrhWHq+mtbkJvn1XxAnCKFXeRRQlS0Sg1a7vI8pmh4VGZZaAvHb5+/agJeZBMeL4qdqCNYfOKMjSmD6WEkTO+rwR/6Hj2mxWXaEsryikFut/agosDHK04cvICRC98O4ImOQubDrZk5y3uh0mEdzM3356ILnAHIoU7fpsiWKgULW1/2VZHOMg47fSrq8hxMeZ/+0/+B3LAZBDH7uKeDZsCQO5+bRAgggRLG7M8Ie7z/x3QCu8VAQb2SeSiS0C9O1Wp+SP0gN4hKK2RqY60DNGAJQ==;cxhswQGFoxfpl+NyXDKIpQ=="
 ---

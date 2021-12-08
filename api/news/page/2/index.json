@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-07-ameca-the-future-face-of-robotics-is-as-freaky-as-youd-expect.md",
+      "title": "Ameca, \"the future face of robotics,\" is as freaky as you'd expect",
+      "excerpt": "UK robotics firm Engineered Arts has offered a sneak peek at its new humanoid robot ahead of a full reveal next year, and the preview is as incredible as it is unsettling. Ameca is presented as \"the world's most advanced human-shaped robot,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/ameca-humanoid-robot-video/",
+      "originalUrl": "https://newatlas.com/robotics/ameca-humanoid-robot-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/ameca-humanoid-robot-video/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/ameca-humanoid-robot-video/?amp=true",
+      "publishedDateTime": "2021-12-06T22:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-why-chatbots-failed-and-the-future-of-conversational-ai.md",
+      "title": "Why Chatbots Failed and the Future of Conversational AI",
+      "excerpt": "One of the first uses of AI in customer service was in chatbots. These days, “chatbot” almost sounds like a dirty word. It comes up again and again in my conversations with ot",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/400644",
+      "originalUrl": "https://www.entrepreneur.com/article/400644",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1638547674-GettyImages-1206801125.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-sophia-ai-robot-to-be-tokenized-for-metaverse-appearance.md",
       "title": "Sophia AI robot to be tokenized for Metaverse appearance",
       "excerpt": "A virtual anime version of Sophia, the world-famous humanoid artificial intelligence (AI) robot, is set to be tokenized and auctioned off as part of an up-and-coming Metaverse project dubbed “Noah’s Ark.",
@@ -97,21 +191,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-07-machine-learning-artificial-intelligence-and-blockchain-are-revolutionizing-the-legal-industry.md",
-      "title": "Machine Learning, Artificial Intelligence and Blockchain are Revolutionizing the Legal Industry",
-      "excerpt": "Blockchain, machine learning, and artificial intelligence are revolutionizing the legal industry. Digital transformation in the legal industry has been slow, but as benefits are becoming more obvious,",
+      "path": "_news/2021-12-07-the-top-6-artificial-intelligence-plays-in-india.md",
+      "title": "The Top 6 Artificial Intelligence Plays in India",
+      "excerpt": "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/machine-learning-artificial-intelligence-and-blockchain-are-revolutionizing-the-legal-industry?s=09",
-      "originalUrl": "https://www.bbntimes.com/technology/machine-learning-artificial-intelligence-and-blockchain-are-revolutionizing-the-legal-industry?s=09",
+      "webUrl": "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6",
+      "originalUrl": "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/Machine_Learning_Artificial_Intelligence_and_Blockchain_are_Revolutionizing_the_Legal_Industry.jpeg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.eqimg.com/images/2021/09292021-PH-equitymaster.jpg",
+          "width": 350,
+          "height": 215,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -119,13 +213,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T13:29:00-08:00",
+      "ampWebUrl": "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India",
+      "cdnAmpWebUrl": "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India",
+      "publishedDateTime": "2021-12-06T14:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
+        "name": "Equitymaster",
+        "domain": "equitymaster.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -135,96 +229,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AI in Autos",
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-machine-learning-most-acquired-skill-in-country-survey.md",
-      "title": "Machine Learning most acquired skill in country: Survey",
-      "excerpt": "Hyderabad: Machine learning (ML) is the most preferred course online during 2021 with AI and Machine Learning. Specialists, data analysts and data scientists are pegged as the most sought after emerging job roles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/machine-learning-most-acquired-skill-in-country-survey-718513",
-      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/machine-learning-most-acquired-skill-in-country-survey-718513",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/07/12/1087932-ai.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/machine-learning-most-acquired-skill-in-country-survey-718513",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/machine-learning-most-acquired-skill-in-country-survey-718513",
-      "publishedDateTime": "2021-12-06T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
-      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
-      "excerpt": "A wide-reaching program looks for fresh machine learning technology to complete menial procedures and tasks, allowing VA clinicians and partners to focus on care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/12/06/america_united_states_department_of_veterans_affairs_picture_id1152538330_3/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
+        "AI in Healthcare"
       ]
     },
     {
@@ -533,7 +540,7 @@
       "originalUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -625,6 +632,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-using-ai-to-translate-old-code-and-fix-aging-computer-systems.md",
+      "title": "Using AI to translate old code and fix aging computer systems",
+      "excerpt": "UAB computer scientists are contributing to a DARPA-funded initiative with artificial intelligence-based programming languages that allow humans to understand the “safety and correctness of code in the wild.",
+      "sourceUrl": null,
+      "webUrl": "https://www.uab.edu/reporter/research/grants-awarded/item/9683-using-ai-to-translate-old-code-and-fix-aging-computer-systems",
+      "originalUrl": "https://www.uab.edu/reporter/research/grants-awarded/item/9683-using-ai-to-translate-old-code-and-fix-aging-computer-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.uab.edu/reporter/media/k2/items/cache/43dd04518ac7ab808ae810eda3a2d063_XL.jpg",
+          "width": 900,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kaleido Scope",
+        "domain": "uab.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -943,7 +993,7 @@
       "originalUrl": "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1132,21 +1182,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-06-deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india.md",
-      "title": "Deloitte’s AI Institute to help accelerate the pace of innovative research in India",
-      "excerpt": "In an effort to bridge this gap, ‘Deloitte AI Institute India’ launched today will build an ecosystem in the country by integrating AI innovations..",
+      "path": "_news/2021-12-06-ai-is-making-better-therapists.md",
+      "title": "AI is making better therapists",
+      "excerpt": "Researchers are using AI to examine the language used by therapists. It could lead to more people getting better, and staying better.",
       "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313",
+      "webUrl": "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/",
+      "originalUrl": "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-88120313,imgsize-334006,width-1200,height-628,overlay-etcio/deloitte-s-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000",
+          "width": 3000,
+          "height": 1687,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1154,13 +1204,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313",
-      "publishedDateTime": "2021-12-06T00:26:00-08:00",
+      "ampWebUrl": "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/",
+      "publishedDateTime": "2021-12-06T02:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1170,58 +1220,9 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-can-a-tiny-ai-group-stand-up-to-google.md",
-      "title": "Can a Tiny AI Group Stand Up to Google?",
-      "excerpt": "Scientist Timnit Gebru has set up an AI research group one year after getting fired from Google, but she and others are fighting an uphill battle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-12-06/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-12-06/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEswj2yFA1x0/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

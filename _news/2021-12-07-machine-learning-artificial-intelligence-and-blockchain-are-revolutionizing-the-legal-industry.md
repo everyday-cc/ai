@@ -7,8 +7,8 @@ originalUrl: "https://www.bbntimes.com/technology/machine-learning-artificial-in
 webUrl: "https://www.bbntimes.com/technology/machine-learning-artificial-intelligence-and-blockchain-are-revolutionizing-the-legal-industry?s=09"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: bbntimes
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Impacts of AI in the Machine Translation Industry"
-    excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
-    publishedDateTime: 2021-12-07T22:13:00Z
-    webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "How Blockchain And AI Will Affect Businesses In The Next 10 Years"
     excerpt: "Two disruptive technologies are gaining more and more prominence that will shape the course of people’s lives and culture over the next ten years: blockchain and artificial intelligence (AI). Both are experiencing expanded use and innovation,"
     publishedDateTime: 2021-12-06T11:02:00Z
