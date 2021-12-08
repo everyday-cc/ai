@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "PETRONAS avoids equipment failure with AI-infused AVEVA Predictive Analytics in the cloud"
+    excerpt: "Malaysia-based oil and gas company PETRONAS has achieved system expansion using cloud across 10 new sites, reduced downtime at onshore and offshore facilities and boosted operational efficiencies with AVEVA."
+    publishedDateTime: 2021-12-08T12:57:00Z
+    webUrl: "https://www.intelligentcio.com/apac/2021/12/08/petronas-avoids-equipment-failure-with-ai-infused-aveva-predictive-analytics-in-the-cloud/"
+    type: article
+    provider:
+      name: intelligentcio.com
+      domain: intelligentcio.com
+    quality: 30
+    images:
+      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2021/12/Picture-3-W.jpg"
+        width: 1000
+        height: 450
+        isCached: true
 
 secured: "MDB79CFnOAT+WIYtSX0az7c5rGH4FQBotDew4mjoCPZoO/xDyAKUK2s09JxvzmIZE9727uSaohLUuMmAV/emL4bMWunES4NK52AVvfnIXSu5QKnmqOK8KyvI1WbeiHJHa6SnRa9M9OB2OQjq8GvNvhY7z4xkfBadVDZNnYBmy/M0RPfSyzi0tcEa7GPjN+gawvkhFybbzkjXQLW6Ox/KoLxukKa1pilOb15K6UEJivHtqMM/Bt2D9mtLIp03reD0+MbRj4YAv6gKLv9yfHZLFxz86bRpE7hpiEOPjR/9ykQikOMumCi8mngzJpwAQpQCgo3fvUPso61C2auCRQzO9iNtvymlYyIKz/mEu9ld7Ec=;5NwozGXvm8U0JA5EBiZczQ=="
 ---

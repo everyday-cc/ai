@@ -7,7 +7,7 @@ originalUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916
 webUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916-global-agreement-defines-the-ethics-of-artificial-intelligence"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 750
     height: 337
     isCached: true
-
-related:
-  - title: "UNESCO Member States unanimously adopt first-ever global agreement on AI ethics"
-    excerpt: "On 25 November 2021, all 193 Member States of the United Nations Educational, Scientific and Cultural Organisation (UNESCO) unanimously agreed to a Recommendation on the Ethics of Artificial Intelligence. To quote the UNESCO headline, this is \"the first ..."
-    publishedDateTime: 2021-12-03T22:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/unesco-member-states-unanimously-adopt-first-ever-global-mark-lewis"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 50
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF2wdDyyq3ehQ/article-cover_image-shrink_720_1280/0/1638557356991?e=1644451200&v=beta&t=6wLzP6qyjXz8z0MKB3X4c_0elLhFt-lohxTV3M-wZwE"
-        width: 1280
-        height: 707
-        isCached: true
 
 secured: "3ov+uMnAx3Du9q3lhlAKiuDCj1iISnYO7/3CXpTP6QKPJJOBLMdViA5RGSNEENmS9AgeRhZlwYCVSlCGiZN69OmU+qw76liJAyyeMQmzWZ9Obj9naZzcR3qJOFqa9KvYox5d0O1gvU8NYXSeJl9Q/FVMHJR+8dBZCAvTyaKxmRouFu6CiOBaaUq8Qm4inuQRU7qK3fEro+zU3dIF6tOES71+2yj+CTr99k/VA6grM3XlNv6FFBXi+PKV/8xWD4UPdrQWFXh2v1Ke77dL6Jcru1GZ8v0bRdLvtjmnEKtkcEGHQGb0TIv3O8IEJfqdfDrSMpw8T0ANrOd6jFFXzuiww8msS8XzpQUMZroZuJZmq+s=;5YixGTMsgNNLqbXbgfAC8g=="
 ---

@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robots made from living cells learned how to replicate themselves"
-    excerpt: "Xenobots, which are \"living robots\" made of frog cells, are simple robots that can move autonomously in a petri dish. When scientists added more cells to the dish, the xenobots pushed them together to form new xenobots."
-    publishedDateTime: 2021-12-03T22:11:00Z
-    webUrl: "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6271598"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 59
-    images:
-      - url: "https://i.cbc.ca/1.6272805.1638559444!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/xeno-headline.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "AI-designed Xenobots Have Figured Out How To Replicate, Living Robots Are Coming"
-    excerpt: "I bet you thought we needed to look towards the stars in order to find some new form of biological mechanism. Or perhaps into the depths of our oceans, which run deeper than Jerry Jones’ pockets, or so I’ve been told."
-    publishedDateTime: 2021-12-04T12:00:00Z
-    webUrl: "https://www.autoevolution.com/news/ai-designed-xenobots-have-figured-out-how-to-replicate-living-robots-are-coming-175397.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 49
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/ai-designed-xenobots-have-figured-out-how-to-replicate-living-robots-are-coming-175397_1.jpg"
-        width: 1485
-        height: 1080
-        isCached: true
   - title: "World's first living robots can now reproduce, scientists say"
     excerpt: "(CNN)The US scientists who created the first living robots say the life forms, known as xenobots, can now reproduce -- and in a way not seen in plants and animals. Formed from the stem cells of"
     publishedDateTime: 2021-12-04T13:36:00Z
@@ -69,29 +39,6 @@ related:
         width: 774
         height: 436
         isCached: true
-  - title: "US scientists create world’s first-ever living robots – and they’re now able to self-replicate"
-    excerpt: "US scientists created the first living robots, called xenobots. Now researchers have discovered a new form of biological reproduction – xenobots can self-replicate – in a way that is unlike anything seen in plants or animals,"
-    publishedDateTime: 2021-12-06T06:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/06/us-scientists-create-worlds-first-ever-living-robots-and-theyre-now-able-to-self-replicate"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 27
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/12/06/1394599.jpeg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "World's first living robots created, and they learned how to reproduce"
-    excerpt: "A team of researchers has successfully created the first living robot that has recently learned how to reproduce in a new way."
-    publishedDateTime: 2021-12-06T06:04:00Z
-    webUrl: "https://www.tweaktown.com/news/83168/worlds-first-living-robots-created-and-they-learned-how-to-reproduce/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
 secured: "DclWxH072VZtGbM3gmW8B8DLbntX+4bR0uBynfxivdnvJ/XK3xlMo6HCEHKpXe+DNCA9r126sm52haM9iDsNG9d8mRjZwC8zZ2FmPt1Pww7ScrmqTMF6x0uFVEXMzrUQP6bpTctYHfGv6DCV7c6wa40L9RzOxVz2tC0Q+pStJENmOwbmKQNCcJtyeLeUUmZeq+yblamg0vw0u70lkxdEHBFVaiavW8Rx6QcbKpPkDLzjNNxPJNUoP6G6p/ArZr3xDXyj/Y3jYykKTfqiG7eG35RZjuSz3evCW3im0HVajuiYpKq9NhzNdlLCzrKlAAUm/NsQsTlCKltafftDV16nYMipdY28Mi9TRrrLw2NcllU=;odu8WqJCT2DEmcysMGm1fQ=="
 ---

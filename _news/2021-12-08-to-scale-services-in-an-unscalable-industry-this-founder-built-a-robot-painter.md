@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/to-scale-services-
 webUrl: "https://markets.businessinsider.com/news/stocks/to-scale-services-in-an-unscalable-industry-this-founder-built-a-robot-painter-1031031455"
 type: article
 quality: 80
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1000
     height: 1158
     isCached: true
+
+related:
+  - title: "To Scale Services in an Unscalable Industry, This Founder Built a Robot ..."
+    excerpt: "Fewer people have realized the true extent of this increased level of expressiveness than Chris Chen, founder of Instapainting.com, a platform that has perfected the art of creating real, hand-painted portraits from photographs."
+    publishedDateTime: 2021-12-08T08:50:00Z
+    webUrl: "https://www.pr-inside.com/to-scale-services-in-an-unscalable-industry-this-founder-built-a-robot-r4857507.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 37
+    images:
+      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "JRdJG7wwgxwSD+6qiVZ5SmilaUw+BcZiz+5cdpnAUr0oofsJqQtTlwg6p7T1GUrrSOfFuG8VDYGpgFvSbnE/4tfBKArYii8SKp7r9S6GkoylylIospcxMgAp9G99lRUokowQJdN03w4NdhsMmRPJTYFQiKcY62w6gfmWiTb7/5fa190VdTsrcPCbLFZQee95Z3aK1LuNj7BSDeJYq9QtLOeFpfO+XjF7+7u9cYLAYFCkYqHEi1ZT5hmBlVzlbtqfoTi1+mCmftTQni+7ZuOYBNIGjm0MVs11Xk8RzYFmlredvQdZNAsoriGsa5+c72K/q1bNRb0AVFMIS96IscaZSOdgt4q7LG9vlZKefaTRM/N+afiV1yc9bxmQnwp3fzmcZXO1etpwvLcgLhn2kgAygAt0QBXSvkJiC2sJDpvTPT6DfzKLVU1VW0eLO0O/mzWzZKEv4ehW8AQu7XrInhWkqKdp6aCumcFWEOzhwuVLmD1NV4fWhpkHD9ZNOb56tyvl9BCaX0xIJGB0INrxuNzWww==;2bnrF0tSYfjAus3OuIilJw=="
 ---

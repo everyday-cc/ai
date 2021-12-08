@@ -1,29 +1,20 @@
 ---
 category: news
 title: "BrainChip CTO Peter van der Made Named AI Hardware 2021 Innovator Award Winner"
-excerpt: "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BCHPY), a leading provider of ultra-low power high performance artificial intelligence technology and the world’s first commercial producer of neuromorphic AI chips and IP,"
+excerpt: "The AI Innovator of the Year award is given to the industry’s leading and most accomplished individuals to commemorate the backbone of AI progress. With the development of BrainChip’s Akida neural processor,"
 publishedDateTime: 2021-12-03T01:07:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-brainchip-holdings-ltd-93df8a28aa924b1993b109550ba4423a"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-brainchip-holdings-ltd-93df8a28aa924b1993b109550ba4423a"
+originalUrl: "https://www.financialbuzz.com/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner/"
+webUrl: "https://www.financialbuzz.com/brainchip-cto-peter-van-der-made-named-ai-hardware-2021-innovator-award-winner/"
 type: article
-quality: 50
-heat: 50
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "q0qTb+xFrmpHgNkLkLbJmBX/KM/4yzdjGfykLyU081OACxeG3EeJStpOCE9yzb6Q4EVDDd6y1k9JGcvRTtKsn1EgCjOQq1s94zWbPvG1iiXvate4nHOwcUOD6z7qVy56n2IRpinaIkPdHkaHEwIqQd7T9/CJ44g3DVulP2Vx5bAzhZ+p2gyITs3yMSsasEIwPQV7qZMxq/Dewgybn0uOXY9jFCSpIwofz/XCdKopjoF/sp4sBUwPXxvWIR8cUKmwtLH04NUqLlme+M59HRxPKO7fD4JMWqfk1AQ5h/pktmSY8xezhEHmuuohon85FzIlP15LuAgsR9ty5qeo06PAi+FVO3ZiYffsQWRQ2xGTS6Q=;hn2UENZeSX11+Fn8pwgOIw=="
+secured: "jMGggjSfsaN8n8UPrl8FFG8F2fbzvw7vicJVxcSIEVsze3uNBomRMSsGaNfbAJx+7L8sJ9bOswgsIFD+1nkobPh5FKp3PhE+N1Lgpog4nLNHjZN9mWeq0clGaLN+8QtOzqs6rYv1Faa5mD11LyU3JpkCF9f86uxlLduI9blwBQsu7JcQ8g0Y2Iv3oI2xppQ7TUW0ko59HBZ1IGT9CZ5RPmk5VgD6NewGexk7x0FpB2OUmLvOvr/lIxz4sk7JlKhc0+dNDzY/0fKAPcwg1DufEcKYYJwmKlVJWhgWG4uZJlKKgWbNbCaWdQaMf933PazsInu5210fP0bt0LTx4zjacC07t5KJmn/7Q4WZWLeAgEs=;CLRE0Mc4r/fq0+GDn2OSlA=="
 ---
 

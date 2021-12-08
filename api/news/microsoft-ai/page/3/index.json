@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-10-voice-assistant-application-market-projected-to-reach-112-billion-by-2026-with-a-remarkable-cagr-of-324.md",
+      "title": "Voice Assistant Application Market projected to reach $11.2 billion by 2026, with a remarkable CAGR of 32.4%",
+      "excerpt": "According to a new market research report \"Voice Assistant Application Market with COVID-19 Impact by Component, Deployment Mode, Organization Size, Channel Integration (Websites, Mobile Applications),",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/271695421/voice-assistant-application-market-projected-to-reach-112-billion-by-2026-with-a-remarkable-cagr-of-324",
+      "originalUrl": "https://www.bignewsnetwork.com/news/271695421/voice-assistant-application-market-projected-to-reach-112-billion-by-2026-with-a-remarkable-cagr-of-324",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1636956935514.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-10-azure-machine-learning-for-predictive-and-analytical-work.md",
       "title": "Azure Machine Learning for Predictive and Analytical Work",
       "excerpt": "Let me tell you about some unnoticed services that deserve attention of those, who want to be ahead of the game. Azure Machine Learning is a cloud service designed to carry out predictive and analytical work. Simply put, it’s an instrument that allows ...",
@@ -1295,49 +1338,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-archtis-nc-protect-data-connector-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "archTIS NC Protect Data Connector Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "TIS Limited , a global technology provider of innovative solutions for secure collaboration of sensitive information, today announced the availability of the NC Protect Data Connector for Azure Sentinel in the Microsoft Azure Marketplace,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20080682.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20080682.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

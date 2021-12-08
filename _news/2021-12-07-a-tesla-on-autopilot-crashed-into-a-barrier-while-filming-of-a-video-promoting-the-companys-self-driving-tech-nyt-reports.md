@@ -125,6 +125,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "I Still Can't Get Over Tesla Allegedly Faking Its Original Self-Driving Autopilot Video"
+    excerpt: "For years we have wondered if what’s going on at Tesla is just a shitshow or a scam, and none of that conversation is made any easier after reading a new report from the New York Times, in which multiple former employees claim that the company’s 2016 “hey our cars can totally drive themselves” video was faked."
+    publishedDateTime: 2021-12-08T14:30:00Z
+    webUrl: "https://jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253"
+    ampWebUrl: "https://jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 51
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/c68bad7932c80687766c35aebf5a6a38.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tesla’s Full Self-driving Beta 10.6 emphasis on precision of movements"
     excerpt: "Tesla's Full Self-Driving (FSD) technology update will be the 10.6 version. Tesla is focusing on three things with this update."
     publishedDateTime: 2021-12-05T08:33:00Z

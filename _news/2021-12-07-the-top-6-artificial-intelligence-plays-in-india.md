@@ -9,7 +9,7 @@ ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&
 cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
 type: article
 quality: 61
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -85,22 +85,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
         width: 615
         height: 384
-        isCached: true
-  - title: "Deloitte’s AI Institute to help accelerate the pace of innovative research in India"
-    excerpt: "In an effort to bridge this gap, ‘Deloitte AI Institute India’ launched today will build an ecosystem in the country by integrating AI innovations.."
-    publishedDateTime: 2021-12-06T08:26:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/deloittes-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india/88120313"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 51
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88120313,imgsize-334006,width-1200,height-628,overlay-etcio/deloitte-s-ai-institute-to-help-accelerate-the-pace-of-innovative-research-in-india.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "'The combination of 5G and AI will unlock new possibilities for drone technology’: Qualcomm India"
     excerpt: "According to PWC India, the industry is expected to reach $1,810 million by FY 2026.Delivery by drone could well become the preferred mode for delivering many kinds of products"

@@ -3,8 +3,8 @@ category: news
 title: "New York Mets turn to Wicket for facial recognition ticketing"
 excerpt: "Mets Entry Express lanes will be available across the New York Mets' Citi Field ballpark during the 2022 MLB season."
 publishedDateTime: 2021-12-08T12:24:00Z
-originalUrl: "https://www.sportspromedia.com/news/new-york-mets-wicket-facial-recognition-tickets-citi-field-mlb/?blocktaxonomy=news"
-webUrl: "https://www.sportspromedia.com/news/new-york-mets-wicket-facial-recognition-tickets-citi-field-mlb/?blocktaxonomy=news"
+originalUrl: "https://www.sportspromedia.com/news/new-york-mets-wicket-facial-recognition-tickets-citi-field-mlb/?blocktaxonomy=technology"
+webUrl: "https://www.sportspromedia.com/news/new-york-mets-wicket-facial-recognition-tickets-citi-field-mlb/?blocktaxonomy=technology"
 type: article
 quality: 19
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 675
         isCached: true
 
-secured: "XEJg6GMzWgsMADCIzgp/OtZ5EnhM1Pd6QxeRyY/zWYllkdro2mqKn7IYJ+2JKD90jxM/gAk1V9/bFMSHsoEzcRIxaqyoXquRrNyCJI3RHoDaiVUUpBeOIk70PYQTp7fERvfyzGOhS/aIxcJogWWhJFq+Yx0/yn2+0VqQi65Lnoow6E4hYCMqcMJquSbFoKwMQHQWJ1/p7NgcLvdxPN+qrldvQojm59oeRmbMzbjMuAryAWD2WttGR5PSbTD4o1kdjFd52pR22eLKHJ/uGa70Z4fA3fuL8u3uZFDg2IN5ZnqR/ooND90i5zEzTvMxilktBsevdCP0mc6XP8wV10BKJjqrh467vuZr6e8ioACZtBRfPV3d2qOs4xyF8hmnEQ+c2ga/P6elCnnr7Ldc0RA5u1ulL9eOREiHa8u7vPmWpDnBGJsfQ0HV3KE6W5FOxf2flG/h7AAGPLW7LIjlckCGMQ/fBPz/TMX6uNhVxM0CNpowdoF1H0Gbxe4P4KvNhpV5IwaXITS/WSy217xQ/vVkcw==;0Oe1pERe3oEou5NMbuGqFQ=="
+secured: "wVmny6Uc7JQm6NR0tj+WUsuKtbeKxCeOtAN3l9MuZ1fBMHCeeS6CgqbjLHHt2TGc4fOxwh71cmX5d7C1Xa9JOveYROg5Qmnq/AFVQKLyQ0n/w02mdsYWRGAWxURiK/IxtPRLhnkOyDDrbTym4A90+ItviJb49nIBysfhcKC7oS28kMmZZMgka6bdSgZkO4VIlvNQZUmn8h7YUjt0PuEmIBjsZHZHRY2+7NGpvEsTgFzcNO+RCeMBHmtZhlcj8Yx9cJ9yRgVUKkM/snjiPp4DUMg7cEMYSe/bP7+8xsoy6XAILDeqnBHaATXa/iG3pd76TYwTSpZpgbA3C6p/AJ/v9baznuDV/T0KmEKdOK9BEX4UqWaQnPg2f4ExAv6mwdeLzNBf+oZJ75tft62dlWsElTXQ0bXNf4KZMje4yYvv4CiKjW1zt9SIA1ttTh+5gDCusbK2s1ewvaM0WbaF8p1Z48h710p9dkpvfErIDb1U8L24lFzBGKXOT7lGITBYFFxrMLLIMY7CsyNGuQHSuZDjyw==;6pfRb1RFSGpOcwow5mDKtA=="
 ---
 

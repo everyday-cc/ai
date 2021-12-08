@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/healthcare-startup-suki
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital/amp-11638963113259.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     height: 337
     isCached: true
 
-secured: "tEuJW+4fEcMY7+tRPIZilemD21rPXrxt6kSQlS7Hh1CC5zetIQHU9sUVWs3P2UKyjOVfWDUrqNoAi/s2IK7R5sRj6f+28gGRhlF2NvA3fPojfBtJw1GY6Q5SbLL/2jwrocfDafgDqzCGCYGaGxnEjGw0g1cRSo/K4HAiGqwYx6cYEsIl7XK6DXXWPuJN03iuBOsVN9qH0qSr5eS3W4MvZDyL//sXkILEvA7eFJ91xcqAzYGkt27ItGpQ19JKykRborbROH4O5hIJ8Shz4gOQE2DqxwhVTMGhhfWA3VAJiN+Q+4lQq9L6/E1zzo5dnlG/47o9+mar0WZK8o6I6qrkKo8ootDlELY6faYbzkZMAME=;oXG8u+fury2XEp8gjVcxMg=="
+related:
+  - title: "Fego.ai Raises $1.5 Million In Seed Round"
+    excerpt: "Fego.ai has raised $1.5 million in Seed round from 3one4 Capital, Saison Capital, Eximius Ventures, First Cheque and Speciale Invest. The startup, which is one of the earliest open-finance players in India,"
+    publishedDateTime: 2021-12-08T13:10:00Z
+    webUrl: "https://www.entrepreneur.com/article/401435"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png"
+        width: 2000
+        height: 1334
+        isCached: true
+
+secured: "1P8SHrqe4Pa7KExJHx3T8YJMUzyjC4hQ9H8Dxr2XLJjFui6YSTTEKTWzwsky/n9f7e5eEpkkSR7fTWIw+B3TymCQ3XkgqUniduCgRu8pNUA2+pOXtyrzsUnPQnQ3PjYQo8HViLYmxdbNrweyuAWrxXN+tm9K8vmA4oWmldSePOoOyazsSfKS2EbCKJM+XVbvFj+jQhmBMEdEC1x4Jd9UTPoZ2otBi9I5AI/1CeoVVfqPUGA5hhJQD2E4t/URlJ1vyYGgu1EFXDm3m4f8wGxk4o5IoSXqMDV1KQvnpY/BBJlchIm4X+/qnrHNeiJsZ3o2VRqCtQL+Zbn5wmwDpAfRS4A+UITHUZfVu2sK1qT0lkySjhdf0XensdYfQaPucrbyBpfI3ZYzWLSovXOzursbLMVGXwncLkYIb6jZtfN7kEOcCCrfFLLbpnBoMBitSdbM+pv9IfkCXJZPilhUwTbSwq3o73ziCF1HUJkebLT2xkFb1v0WdHRUkdQ4aMyzGCGZ2kQowJrZGPzaqWrU9p/9TQ==;UAdvylf92JN40atnPNGTiA=="
 ---
 

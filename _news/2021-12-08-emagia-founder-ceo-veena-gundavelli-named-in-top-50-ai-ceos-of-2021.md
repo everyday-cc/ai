@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Emagia Founder & CEO Veena Gundavelli Named in Top 50 AI CEOs of 2021"
-excerpt: "Emagia is pleased to announce the recognition of its Founder & CEO Veena Gundavelli as a Top 50 Artificial Intelligence CEO for 2021 by Technology Innovators magazine. - Technology Innovators is a new-age knowledge sharing platform that acts as"
-publishedDateTime: 2021-12-08T10:17:00Z
-originalUrl: "https://www.lelezard.com/en/news-20145645.html"
-webUrl: "https://www.lelezard.com/en/news-20145645.html"
+excerpt: "Emagia is pleased to announce the recognition of its Founder & CEO Veena Gundavelli as a Top 50 Artificial Intelligence CEO for"
+publishedDateTime: 2021-12-08T08:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emagia-founder-ceo-veena-gundavelli-named-in-top-50-ai-ceos-of-2021/article_94f4aedb-a5ac-5a89-8caa-674e4a54238f.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/emagia-founder-ceo-veena-gundavelli-named-in-top-50-ai-ceos-of-2021/article_94f4aedb-a5ac-5a89-8caa-674e4a54238f.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "sKSXo6C6RQfRIA2ztiCsmzg/DsuhE24cdVfrvVRns/MuJq4/2U3C5CRLTsr/AKZVB8b3diUCg9ZAwtAEtuuC45m9m8ZseQCVCvb0yJuISr+bxpnAF5/LevBQ/H3rVXo4q0i5UeKMQuzRH7rZh8z7sJaD/cIdxf4Rb1piWlz1UZin9z/mqY1lq7jjhj2yjMixWSQ9kG8ibmZxow1qFARWCWYcq0BCxt1wBx6KxiVwzc7N9oQPr4o3b3k2pxlEzG9ic/opI8k7acDMbcoeCF10A7UaJoYvygWDv9GvWoiot1Y0rRwalyEIXz/YfyiW07PPGlu2tzVOF3sR9f/p7A9+ZNEjfTwwHV/6u59q5vf8mgo=;XUfBR9SywT3g8KWo2waF2g=="
+secured: "tyBoAutlGIJ+63HaBHoyydbw5NC6Q5MCWUfq8jF3/2OaFUzs/tv82dfFkyhD7c0S710WZRT4mhhLeR79h+wJUGWaijTv55Xkk6tLI4oAxuoF0bJaAaSUu8ofMF41xOubvMQD5t9xXOLWPh8IYMT4s0ymg2NnfGslKQIkoUf71cooSf+AiBy8r9txa1+XWFtlcH66T9NPQ2bHnAdKLTGNVfGb/tb8SA1IRRuR25g+yldRr8CplBL7fuYINzTAvpBQJ7pi7nYZu9+ZRnnkxGTudhRYf9wQONdl5iCCM3K7pqkXlAsoTCMFvv1D/1J/gBQktf7eiGkVW8FC6vKi/Y7gpLOqxoyi8oIPQTaLPIozKnNB3KxwR2SJOdJtOnsB+fAgwE3jOszDiC4gOc3LsPB4q3SCfDMmEtxqEhvLBegSb3Vg/mCZvi2X6uUhfHwB2lj4PC14gfZUUEghBgYqyaZVpeeAgq+fROH09ZH4oUKV3ssSPgmfDsIHWvRiCQKQXxJhecE8vIu+j5m5IvJAoyfMkA==;ZM4eUnW3c5GRJCUrFCUH2A=="
 ---
 

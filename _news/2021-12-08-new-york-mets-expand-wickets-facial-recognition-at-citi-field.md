@@ -28,7 +28,7 @@ related:
   - title: "New York Mets turn to Wicket for facial recognition ticketing"
     excerpt: "Mets Entry Express lanes will be available across the New York Mets' Citi Field ballpark during the 2022 MLB season."
     publishedDateTime: 2021-12-08T12:24:00Z
-    webUrl: "https://www.sportspromedia.com/news/new-york-mets-wicket-facial-recognition-tickets-citi-field-mlb/?blocktaxonomy=news"
+    webUrl: "https://www.sportspromedia.com/news/new-york-mets-wicket-facial-recognition-tickets-citi-field-mlb/?blocktaxonomy=technology"
     type: article
     provider:
       name: SportsPro

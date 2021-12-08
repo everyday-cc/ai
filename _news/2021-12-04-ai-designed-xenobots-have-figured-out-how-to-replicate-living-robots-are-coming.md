@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Robots made from living cells learned how to replicate themselves"
-    excerpt: "Xenobots, which are \"living robots\" made of frog cells, are simple robots that can move autonomously in a petri dish. When scientists added more cells to the dish, the xenobots pushed them together to form new xenobots."
-    publishedDateTime: 2021-12-03T22:11:00Z
-    webUrl: "https://www.cbc.ca/radio/quirks/dec-4-xenobot-self-replication-red-light-for-declining-vision-water-from-the-solar-wind-and-more-1.6269551/robots-made-from-living-cells-learned-how-to-replicate-themselves-1.6271598"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6271598"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6271598"
+  - title: "These Tiny Xenobot Robots Can Biologically Reproduce to Create a Family!"
+    excerpt: "A team of researchers has developed a new kind of robot called \"Xenobot\" that can biologically reproduce to create \"baby\" Xenobots."
+    publishedDateTime: 2021-12-04T18:38:00Z
+    webUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/"
+    ampWebUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 59
+      name: Beebom
+      domain: beebom.com
+    quality: 58
     images:
-      - url: "https://i.cbc.ca/1.6272805.1638559444!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/xeno-headline.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "World's first living robots can now reproduce, scientists say"
-    excerpt: "(CNN)The US scientists who created the first living robots say the life forms, known as xenobots, can now reproduce -- and in a way not seen in plants and animals. Formed from the stem cells of"
-    publishedDateTime: 2021-12-04T13:36:00Z
-    webUrl: "https://www.weny.com/story/45367778/worlds-first-living-robots-can-now-reproduce-scientists-say"
-    type: article
-    provider:
-      name: WENY News
-      domain: weny.com
-    quality: 39
-    images:
-      - url: "https://WENY.images.worldnow.com/images/21827780_G.jpg?lastEditedDate=1638606957000"
-        width: 774
-        height: 436
-        isCached: true
-  - title: "Tiny living Pac-Man robots have learned how to reproduce"
-    excerpt: "Whenever we're confronted with aspects of science fiction becoming scientific reality, philosophical questions arise."
-    publishedDateTime: 2021-12-04T16:12:00Z
-    webUrl: "https://www.albanyherald.com/news/tiny-living-pac-man-robots-have-learned-how-to-reproduce/article_09b8cd9a-ddc3-5060-9499-c75e9f702929.html"
-    type: article
-    provider:
-      name: Albany Herald
-      domain: albanyherald.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/albanyherald.com/content/tncms/assets/v3/editorial/2/e0/2e005156-9692-57fe-a8d2-39da9f800395/619f70bd4d51b.image.jpg?crop=1182%2C1182%2C286%2C0&resize=400%2C400&order=crop%2Cresize"
-        width: 400
-        height: 400
+      - url: "https://beebom.com/wp-content/uploads/2021/12/shutterstock_2010089492-min.jpg?w=750&quality=75"
+        width: 750
+        height: 500
         isCached: true
   - title: "US scientists create world’s first-ever living robots – and they’re now able to self-replicate"
     excerpt: "US scientists created the first living robots, called xenobots. Now researchers have discovered a new form of biological reproduction – xenobots can self-replicate – in a way that is unlike anything seen in plants or animals,"

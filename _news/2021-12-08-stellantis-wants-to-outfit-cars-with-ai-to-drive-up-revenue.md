@@ -2,26 +2,28 @@
 category: news
 title: "Stellantis wants to outfit cars with AI to drive up revenue"
 excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
-publishedDateTime: 2021-12-07T23:51:00Z
-originalUrl: "https://www.startribune.com/stellantis-wants-to-outfit-cars-with-ai-to-drive-up-revenue/600124583/"
-webUrl: "https://www.startribune.com/stellantis-wants-to-outfit-cars-with-ai-to-drive-up-revenue/600124583/"
+publishedDateTime: 2021-12-08T00:50:00Z
+originalUrl: "https://www.ourmidland.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+webUrl: "https://www.ourmidland.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+ampWebUrl: "https://www.ourmidland.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: Our Midland MI
+  domain: ourmidland.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1638912371"
-    width: 1680
-    height: 876
+  - url: "https://s.hdnux.com/photos/01/23/11/55/21797705/3/ratio3x2_400.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -156,6 +158,6 @@ related:
         height: 600
         isCached: true
 
-secured: "U6TuO2pOTvtvtSpzXHPLyGUoI5BRA3LSUkCSny6pmwBLfsI70EkxRpXppShuIJNquEuc68KQP3xTNeZGs4ofFVu8H+o55eeXHteYhjOKDdN68YE/BHdzSzbNvXM1kY+Wn2JLcFduElRw4rlXi1XDfvDPv2HQ2ryaez+1fWnPk3ELQXhFVoXyzMYc39LhAkCa4kYQ88JIB18gTCCmo1oQdwlphCHAjVigrh9bxCu+A4cdmrCzVlweLA+9E3TFTb2puv5uH7ht3QMQuyFF7MSLOy4DE+lINY4AAqtTtGonTYbH8NErBmTmPnX02iCnP4Hverc93lWso9LTlH1FIZc1T+Ooq3OnRY2isL/9a7PYyRM=;UNSqeepX4xM9buZdVR2KXA=="
+secured: "rBXHupLqqi3nF8JJQLdEmpqF3W2FC/WpN5e0v+FLMwo2fI5Pe78uSCWHD5gPPiIozj/KVwurnp2LpgmlRmsE/+LQ8BsI9Ci6uloPnOPkXKz17miwVXg4qB8cBXO9CvOIGGjMFot3BsjASgGYV0AgLvkK5k+kZc+2fGHU0si8O3dCzoedmtCl6oilPYnNMT/vdzoykkyAxz5wChlSA9PDk2lAAMwW/TjuEzTFMqtzbLvZzqaz2cSzYIGy82RrZ0YjzPuXXwcIfT/C433Qlf1J+QwiK0oV4tKe+ZNCtSWuCxjvZQzxL7g0x107BnG2vKijkzNshFGjmcTwS/5wd2JIfb82u65jrm5AL7Zf+tdGdL8=;SAXNb+c3GboIKwWqGddWHA=="
 ---
 

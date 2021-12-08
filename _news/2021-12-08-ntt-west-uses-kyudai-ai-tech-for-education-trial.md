@@ -7,7 +7,7 @@ originalUrl: "https://www.fukuoka-now.com/en/news/ntt-west-uses-kyudai-ai-tech-f
 webUrl: "https://www.fukuoka-now.com/en/news/ntt-west-uses-kyudai-ai-tech-for-education-trial/"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1400
     height: 933
     isCached: true
+
+related:
+  - title: "AI key in education upgrading, Education Minister says"
+    excerpt: "China will offer more policy supports in artificial intelligence education and push for deep integration of AI in education and teaching, Minister of Education Huai Jinpeng said on Tuesday. The country will use AI to promote life-long learning for all people and push for the digital transformation,"
+    publishedDateTime: 2021-12-08T12:23:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202112/08/WS61b0a3caa310cdd39bc7a2b0.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 56
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202112/08/61b0a3caa310cdd3d81f8c88.jpeg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "lYGpsmVwfqIotzY2hFURGGEAjLtXoD3gWxPB8bAaGJKoAFg5fSNnf4axsPEF6D/K0KSangUPOVQ6n6/JkWmHAzFpsDo2H65tZpC1iUOsEtL2xpLt3zgYzG1Xn/mw3ZUJfGW0+zUn6mzqTig2lLIQtExIGdCH7e1YjLAbkl8mEu8rysL1W92Cnu97HlqnVfQ2yJQE8gypfXy+NqAHgJs2hiwV8/sSgE4nb1ZBF07nGkSpyR5L/MWOZf7t7gUUT2+n8T+J5qdtXsDMPOZySV38GgruAtPI5wzpxXDCP9ZzQzkn9kYlK2ufQ4ptNiYUrOpp9TgSlqZicPVq6JWhkE1LikwKSP79lH1kOcm5Rbg4WnA=;bdBzVlSrXzyYWQppVwvoBQ=="
 ---

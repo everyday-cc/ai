@@ -9,8 +9,8 @@ ampWebUrl: "https://windowsreport.com/facial-recognition-not-working-windows-11/
 cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/facial-recognition-not-working-windows-11/?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Windows
@@ -42,6 +42,22 @@ related:
       - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20211208_18_1055617_L.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Why some CT renters want government recognition for their union"
+    excerpt: "They now want official government recognition of their group. About a dozen people protested last week at City Hall, with the primary goal of asking government officials for formal recognition of their union as well as the go-ahead for the union to file a complaint with the Fair Rent Commission."
+    publishedDateTime: 2021-12-08T12:32:00Z
+    webUrl: "https://www.nhregister.com/business/article/Why-some-CT-renters-want-government-recognition-16684333.php"
+    ampWebUrl: "https://www.nhregister.com/business/amp/Why-some-CT-renters-want-government-recognition-16684333.php"
+    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/business/amp/Why-some-CT-renters-want-government-recognition-16684333.php"
+    type: article
+    provider:
+      name: New Haven Register
+      domain: nhregister.com
+    quality: 44
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/12/52/21801624/3/ratio3x2_400.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "I52P8JqSfG81rTKTFLevFHXzsFDX9IqRRn6ojr07fGWXyFJ8s/jY2QS7hKP/S75zfslmP1kgAh/63WW0lONmKyIvGkhVoiZs1rnmZyCv9fH++O6kOvywiJ7N6Byp4X1bnxfhW+/dkPhl3KoDsq6kCbtFccEeZJavClZKlbi8N2TEwTzlo8/emmva/a6c0NqFe94R9hNj7EahKh7VE3RkfX4mqviB+9ZsxUq4HNXQd1C92j9ArKWCT2kAyF6sr1CGHQBHo1/mzHqWQh5YK26fV0/a2dgClWBwVbm/La7Hq1JUJK0MqW38i28uks+oU2e6320X8ESfmPgjSbzGLqHV8PPpzX0U1/MxIuX8ynRDGF7CmR/AIp+gPjjZN2mDqoefvYuiQZcTG4PL/Hbkrh2ef4yCnPlGGf188s+9VqmB4o/zvzID3E0Q9qRYYrNXbLoqXa08Cre2fFdPiOurhmqyMyCF4xniemcxgIgLkMRPfTDY6WmaU4UQRXsuZ9ium7o6l6pgiLBvOt0E5KU2U8PZbQ==;v086oDNznnFbuCAr4+Vndw=="

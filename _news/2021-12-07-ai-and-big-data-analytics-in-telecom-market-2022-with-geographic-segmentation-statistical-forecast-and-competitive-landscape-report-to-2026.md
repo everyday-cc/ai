@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "PETRONAS avoids equipment failure with AI-infused AVEVA Predictive Analytics in the cloud"
+    excerpt: "Malaysia-based oil and gas company PETRONAS has achieved system expansion using cloud across 10 new sites, reduced downtime at onshore and offshore facilities and boosted operational efficiencies with AVEVA."
+    publishedDateTime: 2021-12-08T12:57:00Z
+    webUrl: "https://www.intelligentcio.com/apac/2021/12/08/petronas-avoids-equipment-failure-with-ai-infused-aveva-predictive-analytics-in-the-cloud/"
+    type: article
+    provider:
+      name: intelligentcio.com
+      domain: intelligentcio.com
+    quality: 30
+    images:
+      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2021/12/Picture-3-W.jpg"
+        width: 1000
+        height: 450
+        isCached: true
   - title: "Vizen Analytics Launches Enhanced Demand Forecasting Platform"
     excerpt: "Technology solutions provider Vizen Analytics is launching an enhanced version of its proprietary Empowered-AI™ demand forecasting platform."
     publishedDateTime: 2021-12-06T20:27:00Z
