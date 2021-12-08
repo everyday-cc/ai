@@ -4,1250 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_companies/deeplens.ai.md",
-      "title": "Deep Lens",
-      "excerpt": "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/deeplens.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/deeplens.ai/",
-      "type": "profile",
-      "name": "Deep Lens",
-      "overview": "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types.",
-      "website": "https://www.deeplens.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deep-lens/",
-        "followers": 853
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/deep-lens"
-      },
-      "twitter": {
-        "username": "deeplens_ai",
-        "url": "https://twitter.com/deeplens_ai",
-        "followers": 547
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Columbus, OH",
-        "Columbus, Ohio"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 50,
-      "tags": [
-        "Cancer"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1173441593908445184/lBjF20N__400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Deep Lens",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHGtbVAOcvZaQ/company-logo_200_200/0?e=1594857600&v=beta&t=b8v2Fneb0bMouSAv-SuBaRm-zVivHKqHZbOmORGfNks",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/deepmind.md",
-      "title": "DeepMind",
-      "excerpt": "Artificial intelligence could be one of humanity's most useful inventions. DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/deepmind/index.json",
-      "webUrl": "https://everyday.cc/ai/company/deepmind/",
-      "type": "profile",
-      "name": "DeepMind",
-      "overview": "Artificial intelligence could be one of humanity's most useful inventions. DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems.",
-      "website": "https://deepmind.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deepmind/",
-        "followers": 93905
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/deepmind"
-      },
-      "twitter": {
-        "username": "deepmindai",
-        "url": "https://twitter.com/deepmindai",
-        "followers": 0
-      },
-      "size": "501-1,000 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "London, UK",
-        "London, London"
-      ],
-      "funding": {
-        "status": "M&A"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=SUbqykXVx0A"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "DeepMind",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGprhpCEQGNjQ/company-logo_200_200/0?e=1594857600&v=beta&t=tmwM0qvvVgR_Mnwv_tVijP5gQ4u-_7pic-UGMuhbQxo",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/deepzen.io.md",
-      "title": "Deepzen",
-      "excerpt": "We're a London based AI company. We are building deep learning based text understanding and speech synthesis systems to provide unified highly scaleable solutions for organisations and individuals.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/deepzen.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/deepzen.io/",
-      "type": "profile",
-      "name": "Deepzen",
-      "overview": "We're a London based AI company. We are building deep learning based text understanding and speech synthesis systems to provide unified highly scaleable solutions for organisations and individuals.",
-      "website": "http://deepzen.io",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deepzen.io/",
-        "followers": 298
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/deep-zen"
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "London, England"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=kaNKxfTjpzQ"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFGxMuC_cMpXw/company-logo_200_200/0?e=1594857600&v=beta&t=LjusR1qYQN4IoyQ-Kzs3Pi3MYwd0ucgVi2Ca-CbeVnI",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/diagnocat.md",
-      "title": "Diagnocat",
-      "excerpt": "Diagnocat AI analyzes dental 3D x-rays, recognizes anatomical areas and detects various pathologies of maxillo-facial area.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/diagnocat/index.json",
-      "webUrl": "https://everyday.cc/ai/company/diagnocat/",
-      "type": "profile",
-      "name": "Diagnocat",
-      "overview": "Diagnocat AI analyzes dental 3D x-rays, recognizes anatomical areas and detects various pathologies of maxillo-facial area.",
-      "website": "http://diagnocat.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/diagnocat",
-        "followers": 42
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/diagnocat"
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Moscow, Moscow City",
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=bCv1_PbU_Ow"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHu9yjeG42QzQ/company-logo_200_200/0?e=1594857600&v=beta&t=0jm63TMeGeTyK_DYbh9K6Yb_ROFncAOJ4OC5vwHfCMY",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/diligentrobots.md",
-      "title": "Diligent Robotics",
-      "excerpt": "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/diligentrobots/index.json",
-      "webUrl": "https://everyday.cc/ai/company/diligentrobots/",
-      "type": "profile",
-      "name": "Diligent Robotics",
-      "overview": "We are a human-centered robotics company. Our mission is to make technical advances towards robots and humans working together side by side, with an emphasis on human-centric design. Diligent Robotics is developing a suite of artificial intelligence that enables robots to collaborate with and adapt to humans in everyday environments.",
-      "website": "http://diligentrobots.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/diligent-robotics/",
-        "followers": 975
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/diligent-robotics"
-      },
-      "twitter": {
-        "username": "DiligentRobots",
-        "url": "https://twitter.com/DiligentRobots",
-        "followers": 930
-      },
-      "size": "2-10 employees",
-      "yearFounded": 0,
-      "locations": [
-        "Austin, TX",
-        "Austin, Texas"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=vniKNpy5SFs"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1301980739710390272/NBgvcoeG_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Diligent Robotics",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGTWyHAHJM5tA/company-logo_200_200/0?e=1594857600&v=beta&t=CXGkczmGKv3dTT23-w5QK9hKC4r45P-WAfXQnEx8GO4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/eigentech.md",
-      "title": "Eigen Technologies",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/eigentech/index.json",
-      "webUrl": "https://everyday.cc/ai/company/eigentech/",
-      "type": "profile",
-      "name": "Eigen Technologies",
-      "overview": "",
-      "website": "https://www.eigentech.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/eigen-technologies"
-      },
-      "yearFounded": 0,
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=kSe7NAV0UOo"
-        }
-      ],
-      "heat": 50,
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/embodied.me.md",
-      "title": "Embodied",
-      "excerpt": "Paolo Pirjanian the former CTO of iRobot and founder &amp; CEO of Evolution Robotics (acquired by iRobot) founded Embodied with a mission to create the next big thing in robotics.  Embodied draws on more than 15 years of robotics commercialization experience, combined with our team's expertise in computational neuroscience, psychology, and storytelling and leverages the confluence of technologies including machine vision, speech, and machine learning to create robots that will revolutionize care and wellness for humans.  We are hiring!  See our web site and join us in creating robots that improve human wellness and quality of life.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/embodied.me/index.json",
-      "webUrl": "https://everyday.cc/ai/company/embodied.me/",
-      "type": "profile",
-      "name": "Embodied",
-      "otherNames": [
-        "Embodied, Inc."
-      ],
-      "overview": "Paolo Pirjanian the former CTO of iRobot and founder &amp; CEO of Evolution Robotics (acquired by iRobot) founded Embodied with a mission to create the next big thing in robotics.  Embodied draws on more than 15 years of robotics commercialization experience, combined with our team's expertise in computational neuroscience, psychology, and storytelling and leverages the confluence of technologies including machine vision, speech, and machine learning to create robots that will revolutionize care and wellness for humans.  We are hiring!  See our web site and join us in creating robots that improve human wellness and quality of life.",
-      "website": "http://www.embodied.me/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/embodied-inc./",
-        "followers": 2827
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/embodied-inc"
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Pasadena, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=TOj9VNZqki8"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF2x1uqjVFKGA/company-logo_200_200/0?e=1594857600&v=beta&t=7avpbYKmEG7uCjYS0_jdqWd7-HmfSyM1SoyqaYQW9o0",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/enlitic.md",
-      "title": "Enlitic",
-      "excerpt": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/enlitic/index.json",
-      "webUrl": "https://everyday.cc/ai/company/enlitic/",
-      "type": "profile",
-      "name": "Enlitic",
-      "overview": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
-      "website": "https://www.enlitic.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/enlitic/",
-        "followers": 3397
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/enlitic"
-      },
-      "twitter": {
-        "username": "enlitic",
-        "url": "https://twitter.com/enlitic",
-        "followers": 4653
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Computer Vision",
-        "Natural Language Processing"
-      ],
-      "heat": 50,
-      "tags": [
-        "Image Recognition",
-        "Cancer"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1143736834364542977/uR2TWmI6_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Enlitic",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYXXUY_794vA/company-logo_200_200/0?e=1594857600&v=beta&t=Doarwq3lD-qIoxM8JAzPRqwpkzpzbHHssvb7AE4dC1w",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/eyediagnosis.net.md",
-      "title": "IDx",
-      "excerpt": "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/eyediagnosis.net/index.json",
-      "webUrl": "https://everyday.cc/ai/company/eyediagnosis.net/",
-      "type": "profile",
-      "name": "IDx",
-      "overview": "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection.",
-      "website": "https://www.eyediagnosis.net/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/idxtechnologiesinc",
-        "followers": 1172
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/idx-2"
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Coralville, Iowa"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=jmGvEYv3I2E"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE8hiaDfXNeSg/company-logo_200_200/0?e=1594857600&v=beta&t=bM7iA8YTbzNxDDcP4_h3jtQNJbMwGVJNPz_ehNa7PBo",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/fdna.md",
-      "title": "FDNA",
-      "excerpt": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/fdna/index.json",
-      "webUrl": "https://everyday.cc/ai/company/fdna/",
-      "type": "profile",
-      "name": "FDNA",
-      "overview": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
-      "website": "https://www.fdna.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/fdna",
-        "followers": 1151
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/fdna-inc"
-      },
-      "twitter": {
-        "username": "FDNA",
-        "url": "https://twitter.com/FDNA",
-        "followers": 6357
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "Boston, MA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=qUDQnRMJOcw"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Cancer"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1280825066377416707/qtusxek3_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "FDNA",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPigzRHh6z8A/company-logo_200_200/0?e=1594857600&v=beta&t=9DM7xRDfFMkueOV4i4_4EjmyDN-c3k1q_nRGaBQ31QY",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/feedzai.md",
-      "title": "Feedzai",
-      "excerpt": "Feedzai is AI. We’re coding the future of commerce with a leading platform powered by artificial intelligence and big data. Founded and developed by data scientists and aerospace engineers, Feedzai has one critical mission: make commerce safe. The world’s largest banks, payment providers and retailers use Feedzai’s machine learning technology to manage risks associated with banking and shopping, whether it’s in person, online or via mobile devices.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/feedzai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/feedzai/",
-      "type": "profile",
-      "name": "Feedzai",
-      "overview": "Feedzai is AI. We’re coding the future of commerce with a leading platform powered by artificial intelligence and big data. Founded and developed by data scientists and aerospace engineers, Feedzai has one critical mission: make commerce safe. The world’s largest banks, payment providers and retailers use Feedzai’s machine learning technology to manage risks associated with banking and shopping, whether it’s in person, online or via mobile devices.",
-      "website": "https://feedzai.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/feedzai",
-        "followers": 19521
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/feedzai"
-      },
-      "twitter": {
-        "username": "feedzai",
-        "url": "https://twitter.com/feedzai",
-        "followers": 3087
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/997213460776665088/KwaiDTTw_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Feedzai",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHiwjKZmD2YAA/company-logo_200_200/0?e=1594857600&v=beta&t=jHfH7EYkWdt4W-WkVPZINLzdX18h0pgH8aAEmxaXzL8",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/fetchrobotics.md",
-      "title": "Fetch Robotics",
-      "excerpt": "Headquartered in San Jose, CA, Fetch Robotics is the pioneer of On-Demand Automation — the only solution that deploys safe, reliable, and versatile Autonomous Mobile Robots (AMRs) for the warehousing and intralogistics markets in just hours. The result is demonstrable improvements in throughput, efficiency and productivity within both commercial and industrial environments — all while working alongside people.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/fetchrobotics/index.json",
-      "webUrl": "https://everyday.cc/ai/company/fetchrobotics/",
-      "type": "profile",
-      "name": "Fetch Robotics",
-      "overview": "Headquartered in San Jose, CA, Fetch Robotics is the pioneer of On-Demand Automation — the only solution that deploys safe, reliable, and versatile Autonomous Mobile Robots (AMRs) for the warehousing and intralogistics markets in just hours. The result is demonstrable improvements in throughput, efficiency and productivity within both commercial and industrial environments — all while working alongside people.",
-      "website": "http://fetchrobotics.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/fetch-robotics/",
-        "followers": 12155
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/fetch-robotics"
-      },
-      "twitter": {
-        "username": "fetchrobotics",
-        "url": "https://twitter.com/fetchrobotics",
-        "followers": 8009
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "San Jose, CA",
-        "San Jose, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/530610645922627585/yuttxu7l_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Fetch Robotics",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFf4Lf05VenpQ/company-logo_200_200/0?e=1594857600&v=beta&t=Z3KYnqVA2iCUZf_xBP4sK2NWowBUlHt06P7TaPrIz7M",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/five.ai.md",
-      "title": "FiveAI",
-      "excerpt": "FiveAI is developing the software to power shared, self-driving vehicle services in Europe.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/five.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/five.ai/",
-      "type": "profile",
-      "name": "FiveAI",
-      "overview": "FiveAI is developing the software to power shared, self-driving vehicle services in Europe.",
-      "website": "https://five.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/five-ai/",
-        "followers": 5412
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/fiveai"
-      },
-      "twitter": {
-        "username": "_FiveAI",
-        "url": "https://twitter.com/_FiveAI",
-        "followers": 3817
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Cambridge, Cambridgeshire"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Kza6RQ3vWT0"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1333189310779187200/9t6wXFdu_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "FiveAI",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/geenee.me.md",
-      "title": "Geenee",
-      "excerpt": "GEENEE is an advanced video and image recognition platform that uses patented technology to deliver dynamic, curated content into the moments of daily life.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/geenee.me/index.json",
-      "webUrl": "https://everyday.cc/ai/company/geenee.me/",
-      "type": "profile",
-      "name": "Geenee",
-      "otherNames": [
-        "GEENEE Inc."
-      ],
-      "overview": "GEENEE is an advanced video and image recognition platform that uses patented technology to deliver dynamic, curated content into the moments of daily life.",
-      "website": "https://geenee.me/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/geenee-gmbh/",
-        "followers": 404
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/geenee"
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Los Angeles, CA",
-        "Los Angeles, California"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "heat": 50,
-      "tags": [
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/857307305657876480/qzAD5d52_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Geenee",
-          "isCached": false
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQG0Me_06B5hoA/company-logo_200_200/0?e=1594857600&v=beta&t=Vb-7_imxLr-yZ--Y0ymFJADunzhJRERmUTA2bftYtIs",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/gideonbros.net.md",
-      "title": "Gideon Brothers",
-      "excerpt": "We are building a robot autonomy that layers deep learning on top of camera-based perception to create a new type of robot vision that is reliable and (unlike LIDAR) data-rich.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gideonbros.net/index.json",
-      "webUrl": "https://everyday.cc/ai/company/gideonbros.net/",
-      "type": "profile",
-      "name": "Gideon Brothers",
-      "overview": "We are building a robot autonomy that layers deep learning on top of camera-based perception to create a new type of robot vision that is reliable and (unlike LIDAR) data-rich.",
-      "website": "https://www.gideonbros.net/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/gideon-brothers/",
-        "followers": 3065
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gideon-brothers"
-      },
-      "twitter": {
-        "username": "GideonBros",
-        "url": "https://twitter.com/GideonBros",
-        "followers": 582
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Zagreb, Croatia"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Dud1F65jkjY"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1438148562685243396/_0odPZmD_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Gideon Brothers",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF4aThLACe5dQ/company-logo_200_200/0?e=1594857600&v=beta&t=BH3EEtSkg9oyMVz5z5Pq9CmwLH9IxDniHcIfCgVJ4FM",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/grok.md",
-      "title": "Grok",
-      "excerpt": "The Leading AIOPS Platform For Intelligent Incident Prediction And Self-Healing Operations In IT Service Assurance",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/grok/index.json",
-      "webUrl": "https://everyday.cc/ai/company/grok/",
-      "type": "profile",
-      "name": "Grok",
-      "overview": "The Leading AIOPS Platform For Intelligent Incident Prediction And Self-Healing Operations In IT Service Assurance",
-      "website": "https://grokstream.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/grok-llc/",
-        "followers": 225
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/grok"
-      },
-      "twitter": {
-        "username": "grokstream",
-        "url": "https://twitter.com/grokstream",
-        "followers": 546
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "San Clemente, CA"
-      ],
-      "topics": [
-        "AI"
-      ],
-      "heat": 50,
-      "tags": [
-        "AIOPS"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1374790150761418759/6_d9KaY6_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Grok",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/haut.ai.md",
-      "title": "Haut.AI",
-      "excerpt": "Haut.AI is an Estonian startup developing AI algorithms for recognition of skin pathologies. Our developments are based on the algorithms of computer vision and machine learning including deep learning.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/haut.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/haut.ai/",
-      "type": "profile",
-      "name": "Haut.AI",
-      "otherNames": [
-        "HautAI"
-      ],
-      "overview": "Haut.AI is an Estonian startup developing AI algorithms for recognition of skin pathologies. Our developments are based on the algorithms of computer vision and machine learning including deep learning.",
-      "website": "https://www.haut.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/hautai/",
-        "followers": 75
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/haut-ai"
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2018,
-      "locations": [
-        "Tallinn, Kesklinna linnaosa"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHYuBzqN910hw/company-logo_200_200/0?e=1594857600&v=beta&t=PaPJS_YRkaES-G8ZldABvD4ip9R-a9iPMcvebuJSnAM",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/hibrainy.md",
-      "title": "HiBrainy",
-      "excerpt": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/hibrainy/index.json",
-      "webUrl": "https://everyday.cc/ai/company/hibrainy/",
-      "type": "profile",
-      "name": "HiBrainy",
-      "overview": "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include",
-      "website": "https://hibrainy.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/hibrainy/",
-        "followers": 164
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/hibrainy"
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Paris, France",
-        "Paris, Île-de-France"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=El38XJxRoRo"
-        }
-      ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/716759222969434112/NeRM_ewU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "HiBrainy",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/insightengines.md",
-      "title": "Insight Engines",
-      "excerpt": "Research discovery with artificial intelligence - for academia and chemical research.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/insightengines/index.json",
-      "webUrl": "https://everyday.cc/ai/company/insightengines/",
-      "type": "profile",
-      "name": "Insight Engines",
-      "overview": "Research discovery with artificial intelligence - for academia and chemical research.",
-      "website": "https://insightengines.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/insight-engines-inc"
-      },
-      "twitter": {
-        "username": "insightengines",
-        "url": "https://twitter.com/insightengines",
-        "followers": 229
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Norway"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=iD4tlJ-ECZo"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/778092205093322752/BNor8pkI_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Insight Engines",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/intel.md",
-      "title": "Intel",
-      "excerpt": "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/intel/index.json",
-      "webUrl": "https://everyday.cc/ai/company/intel/",
-      "type": "profile",
-      "name": "Intel",
-      "overview": "Harnessing silicon designed specifically for AI, end-to-end solutions that broadly span from the data center to the edge, and tools that enable customers to quickly deploy and scale up, Intel AI is leading the next evolution of compute.",
-      "website": "https://www.intel.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/intel-corporation/",
-        "followers": 1659869
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/intel"
-      },
-      "twitter": {
-        "username": "IntelAI",
-        "url": "https://twitter.com/IntelAI",
-        "followers": 26448
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 1968,
-      "locations": [
-        "Santa Clara, CA",
-        "Santa Clara, California"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Computer Vision"
-      ],
-      "heat": 50,
-      "tags": [
-        "Autonomous Vehicles",
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1301225939049750528/sjI3AxEY_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Intel",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEQxLTTAA1tTA/company-logo_200_200/0?e=1594857600&v=beta&t=U_52l9T9eym9XCO00umDVjcgsFMfJ8Gfde0exSv24rk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/iov42.md",
-      "title": "IOV42",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/iov42/index.json",
-      "webUrl": "https://everyday.cc/ai/company/iov42/",
-      "type": "profile",
-      "name": "IOV42",
-      "overview": "",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/iov42"
-      },
-      "yearFounded": 0,
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 50,
-      "tags": [
-        "Europe",
-        "FinTech",
-        "Blockchain"
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/iris.ai.md",
-      "title": "Iris.ai",
-      "excerpt": "#VoiceFirst community. Voice tech analytics, market insights, and business uses. Powered by Just AI Curated stories on #Conversational AI – https://t.co/qXS4CRgikG",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/iris.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/iris.ai/",
-      "type": "profile",
-      "name": "Iris.ai",
-      "overview": "#VoiceFirst community. Voice tech analytics, market insights, and business uses. Powered by Just AI Curated stories on #Conversational AI – https://t.co/qXS4CRgikG",
-      "website": "https://iris.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/iris-ai"
-      },
-      "twitter": {
-        "username": "theirisai",
-        "url": "https://twitter.com/theirisai",
-        "followers": 2914
-      },
-      "yearFounded": 0,
-      "locations": [
-        "London, England"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=rgmchbwHKHE"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/695689454300872704/Kc3D5Y6I_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Iris.ai",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/isee.ai.md",
-      "title": "ISEE",
-      "excerpt": "iSee, an MIT spin-off, is paving the way for autonomous vehicles that can deal with unfamiliar situations and complex interactions on the road. Inspired by computational cognitive science, our humanistic artificial intelligence will seamlessly integrate into society and benefit human lives.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/isee.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/isee.ai/",
-      "type": "profile",
-      "name": "ISEE",
-      "overview": "iSee, an MIT spin-off, is paving the way for autonomous vehicles that can deal with unfamiliar situations and complex interactions on the road. Inspired by computational cognitive science, our humanistic artificial intelligence will seamlessly integrate into society and benefit human lives.",
-      "website": "https://www.isee.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/isee-ai/",
-        "followers": 529
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/isee-c0f5"
-      },
-      "twitter": {
-        "username": "isee_ai",
-        "url": "https://twitter.com/isee_ai",
-        "followers": 195
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Cambridge, MA",
-        "Cambridge, Massachusetts"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 50,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1376600738491666436/zWT9Q4o5_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "ISEE",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/just-ai.md",
-      "title": "Just AI",
-      "excerpt": "Just AI develops conversational Artificial Intelligence (AI) technologies empowering a dialogue between a human and a machine.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/just-ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/just-ai/",
-      "type": "profile",
-      "name": "Just AI",
-      "overview": "Just AI develops conversational Artificial Intelligence (AI) technologies empowering a dialogue between a human and a machine.",
-      "website": "http://just-ai.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/just-ai-uk",
-        "followers": 106
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/just-ai"
-      },
-      "twitter": {
-        "username": "JustAIglobal",
-        "url": "https://twitter.com/JustAIglobal",
-        "followers": 1087
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "London, UK",
-        "London, England"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=u9qpsrqV5wo"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1300462173521616896/Tr7qJwSp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Just AI",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/kairos.md",
-      "title": "Kairos AR",
-      "excerpt": "Kairos provides state-of-the-art, ethical face recognition to developers and businesses worldwide.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kairos/index.json",
-      "webUrl": "https://everyday.cc/ai/company/kairos/",
-      "type": "profile",
-      "name": "Kairos AR",
-      "overview": "Kairos provides state-of-the-art, ethical face recognition to developers and businesses worldwide.",
-      "website": "https://www.kairos.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/kairos-ar-inc-/",
-        "followers": 1759
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kairos-ar"
-      },
-      "twitter": {
-        "username": "LoveKairos",
-        "url": "https://twitter.com/LoveKairos",
-        "followers": 4478
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Miami, FL",
-        "Miami, Florida"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "heat": 50,
-      "tags": [
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1105124141915693057/yO91xNJ9_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Kairos AR",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFySTcbir1LkQ/company-logo_200_200/0?e=1594857600&v=beta&t=IqLGUTXpEX1kxuQDjgzd2EH85UuboYiYnyeizEzRPMQ",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/kaskada.md",
       "title": "Kaskada",
       "excerpt": "",
@@ -1325,6 +81,68 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/kindred.ai.md",
+      "title": "Kindred AI",
+      "excerpt": "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kindred.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/kindred.ai/",
+      "type": "profile",
+      "name": "Kindred AI",
+      "otherNames": [
+        "Kindred Systems Inc"
+      ],
+      "overview": "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time.",
+      "website": "https://www.kindred.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kindred.ai/",
+        "followers": 5070
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kindred-2"
+      },
+      "twitter": {
+        "username": "kindredai",
+        "url": "https://twitter.com/kindredai",
+        "followers": 1317
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=kjKPL53Tgw8"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1004511334103318529/hHu9Ko-Z_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Kindred AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFQ4A760Fv3jg/company-logo_200_200/0?e=1594857600&v=beta&t=1PpW9m40ve_Pscju9i-dvlHQ4nRNb2OwOxejAf7nFGg",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/klaritylaw.md",
       "title": "Klarity",
       "excerpt": "Klarity uses Artificial Intelligence to review sales contracts under your company legal policy. Klarity pulls contracts from your emails and databases and returns them reviewed in a Word format with annotations and redlines along with a summary. Your company experiences accelerated sales and higher compliance without having to think of contract review anymore.",
@@ -1361,6 +179,44 @@
           "height": 400,
           "title": "Klarity",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/knewton.md",
+      "title": "Knewton",
+      "excerpt": "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/knewton/index.json",
+      "webUrl": "https://everyday.cc/ai/company/knewton/",
+      "type": "profile",
+      "name": "Knewton",
+      "overview": "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world.",
+      "website": "https://www.knewton.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/knewton"
+      },
+      "twitter": {
+        "username": "Knewton",
+        "url": "https://twitter.com/Knewton",
+        "followers": 14328
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Hoboken, NJ"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1224388356089491457/7ucoRe_G_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Knewton",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1463,6 +319,1212 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQH5u6Ixvpa6cA/company-logo_200_200/0?e=1594857600&v=beta&t=WNLxQ3rP4tRJF362ZT71fY0-zKbTigbMSed0VCE1Nys",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/kuznech.md",
+      "title": "Kuznech",
+      "excerpt": "Kuznech is the image search technology for m-commerce, e-commerce, social media and advertising industries.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kuznech/index.json",
+      "webUrl": "https://everyday.cc/ai/company/kuznech/",
+      "type": "profile",
+      "name": "Kuznech",
+      "otherNames": [
+        "Kuznech Inc"
+      ],
+      "overview": "Kuznech is the image search technology for m-commerce, e-commerce, social media and advertising industries.",
+      "website": "http://kuznech.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kuznech/",
+        "followers": 128
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kuznech"
+      },
+      "twitter": {
+        "username": "kuznech",
+        "url": "https://twitter.com/kuznech",
+        "followers": 9
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Sunnyvale, CA",
+        "Sunnyvale, California"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ],
+      "heat": 50,
+      "tags": [
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/824482111969112064/Za5Xl1kn_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Kuznech",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE9jtJCS6-10g/company-logo_200_200/0?e=1594857600&v=beta&t=HJGSbtHkQ96lltHaq5UQmJjmIj74dzicBz5Ra8ozpp8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/lifebit.ai.md",
+      "title": "Lifebit",
+      "excerpt": "Lifebit is developing the world’s first platform that brings the computation to your omics data and learns from it.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lifebit.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/lifebit.ai/",
+      "type": "profile",
+      "name": "Lifebit",
+      "overview": "Lifebit is developing the world’s first platform that brings the computation to your omics data and learns from it.",
+      "website": "https://lifebit.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/lifebit-ai/",
+        "followers": 900
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/lifebit-ai"
+      },
+      "twitter": {
+        "username": "lifebitAI",
+        "url": "https://twitter.com/lifebitAI",
+        "followers": 4184
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "London, UK",
+        "London, London"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=aycHy_axa_Q"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1397208269240799237/H3r7o2kv_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Lifebit",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQG6jiqJ2o5gmg/company-logo_200_200/0?e=1594857600&v=beta&t=oQdN7yi0p9muTqdn256inMB-A-4Y-Cbq2UnB0kwW5d0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/lighttag.io.md",
+      "title": "LightTag",
+      "excerpt": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/lighttag.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/lighttag.io/",
+      "type": "profile",
+      "name": "LightTag",
+      "overview": "LightTag is a service for managing annotation projects with a team. Our mission is to increase the velocity and yield of natural language processing projects.",
+      "website": "https://www.lighttag.io/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/lighttag"
+      },
+      "twitter": {
+        "username": "LabeledData",
+        "url": "https://twitter.com/LabeledData",
+        "followers": 165
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=dA2uo9sGIj8"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1306917715408543750/b4hTeZ27_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "LightTag",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/mapegy.md",
+      "title": "Mapegy",
+      "excerpt": "Access the latest trends, forecasts, startups, competitors, partners, technologies,",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mapegy/index.json",
+      "webUrl": "https://everyday.cc/ai/company/mapegy/",
+      "type": "profile",
+      "name": "Mapegy",
+      "overview": "Access the latest trends, forecasts, startups, competitors, partners, technologies,",
+      "website": "https://www.mapegy.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/mapegy",
+        "followers": 302
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/mapegy"
+      },
+      "twitter": {
+        "username": "mapegy",
+        "url": "https://twitter.com/mapegy",
+        "followers": 285
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Berlin"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=FM_2nxVEIOs"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1294236247985184768/RR6qxQRZ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mapegy",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/marble.io.md",
+      "title": "Marble",
+      "excerpt": "Marble develops and operates robots for autonomous last-mile logistics.  Marble was founded in 2015, is funded by Lemnos Labs, and is located in San Francisco, CA.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/marble.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/marble.io/",
+      "type": "profile",
+      "name": "Marble",
+      "overview": "Marble develops and operates robots for autonomous last-mile logistics.  Marble was founded in 2015, is funded by Lemnos Labs, and is located in San Francisco, CA.",
+      "website": "https://www.marble.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/marble/",
+        "followers": 1629
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/marble"
+      },
+      "twitter": {
+        "username": "marblerobot",
+        "url": "https://twitter.com/marblerobot",
+        "followers": 391
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=pNpH4G-hoIY"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1126580049346420736/zS_MFysH_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Marble",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFPTn9geZL7DA/company-logo_200_200/0?e=1594857600&v=beta&t=u_cOwl2JpQy-41n1BqnN6gT6V0_YHPgAu3gSynqh4eY",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/maxq.ai.md",
+      "title": "MaxQ AI",
+      "excerpt": "MaxQ AI is at the forefront Medical Diagnostic AI. Our mission is to meaningfully reduce misdiagnosis and healthcare costs by making artificial intelligence (AI) intrinsic to the diagnostic process for time sensitive and life-threatening conditions. We are transforming healthcare by empowering physicians to provide “smarter care” through intelligent imaging with AI actionable insights.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/maxq.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/maxq.ai/",
+      "type": "profile",
+      "name": "MaxQ AI",
+      "otherNames": [
+        "MedyMatch Technology"
+      ],
+      "overview": "MaxQ AI is at the forefront Medical Diagnostic AI. Our mission is to meaningfully reduce misdiagnosis and healthcare costs by making artificial intelligence (AI) intrinsic to the diagnostic process for time sensitive and life-threatening conditions. We are transforming healthcare by empowering physicians to provide “smarter care” through intelligent imaging with AI actionable insights.",
+      "website": "https://maxq.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/medymatch-technologies/",
+        "followers": 1260
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/medymatch"
+      },
+      "twitter": {
+        "username": "maximumqai",
+        "url": "https://twitter.com/maximumqai",
+        "followers": 465
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Tel Aviv-Yafo, Israel"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KlK9C4s1lvo"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1151589543222620160/QsHz1RLQ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "MaxQ AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/C4D0BAQGR7mB_vul_hw/company-logo_400_400/0?e=1582761600&v=beta&t=JlYSP6pjXWrdalCmE8Z0PdC--8CZAD-_WDu0Ynkb4WU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/meero.md",
+      "title": "Darktrace",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/meero/index.json",
+      "webUrl": "https://everyday.cc/ai/company/meero/",
+      "type": "profile",
+      "name": "Darktrace",
+      "overview": "",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/meero"
+      },
+      "yearFounded": 0,
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "tags": [
+        "Europe"
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/mighty.ai.md",
+      "title": "Mighty AI",
+      "excerpt": "Narrative Science creates software that writes stories from data to drive understanding and better results.  How the future gets written.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mighty.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/mighty.ai/",
+      "type": "profile",
+      "name": "Mighty AI",
+      "otherNames": [
+        "Spare5"
+      ],
+      "overview": "Narrative Science creates software that writes stories from data to drive understanding and better results.  How the future gets written.",
+      "website": "https://mighty.ai",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/mightyai/",
+        "followers": 2029
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/spare5"
+      },
+      "twitter": {
+        "username": "mighty_ai",
+        "url": "https://twitter.com/mighty_ai",
+        "followers": 1746
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Seattle, WA",
+        "Seattle, Washington"
+      ],
+      "funding": {
+        "status": "M&A"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1029849217693405184/RWvJ3wHK_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mighty AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQH121p9MTqZzg/company-logo_200_200/0?e=1594857600&v=beta&t=9Yc5quyJcAQ8vkvPIXlhOD1hIs3qUHyXygadAO8rC9E",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/mojo.md",
+      "title": "mojo",
+      "excerpt": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mojo/index.json",
+      "webUrl": "https://everyday.cc/ai/company/mojo/",
+      "type": "profile",
+      "name": "mojo",
+      "overview": "We are experts in tech, working alongside experts in fertility. These partnerships have fostered a vision of democratising fertility care for the future. We believe that everyone should have access to reliable and affordable fertility care.",
+      "website": "https://www.mojofertility.co/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/mojofertility/",
+        "followers": 154
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/mojofertility"
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Lyon, Rhône-Alpes"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1443158234764820484/dCACATLL_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "mojo",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHsFAFk_hzHSg/company-logo_200_200/0?e=1594857600&v=beta&t=jFRlt8PrCUhmt-vwq9eVRKeZ2geX62897tvRK5j0Tk0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/movidius.md",
+      "title": "Movidius",
+      "excerpt": "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/movidius/index.json",
+      "webUrl": "https://everyday.cc/ai/company/movidius/",
+      "type": "profile",
+      "name": "Movidius",
+      "overview": "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices.",
+      "website": "http://www.movidius.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/movidius",
+        "followers": 20091
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/movidius"
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2005,
+      "locations": [
+        "Santa Clara, CA",
+        "Santa Clara, California"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=hD3RYGJgH4A"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Movidius",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHMBK9DktdgOg/company-logo_200_200/0?e=1594857600&v=beta&t=J53cwyA96-njplV5LC0dIsGYTIxT-3S1GU5SFLHhTj0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/myhippo.md",
+      "title": "Hippo Insurance",
+      "excerpt": "Hippo is a new kind of insurance company that uses modern technology to provide a simpler process, smarter coverage, and a completely new approach to how we care for our homes.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/myhippo/index.json",
+      "webUrl": "https://everyday.cc/ai/company/myhippo/",
+      "type": "profile",
+      "name": "Hippo Insurance",
+      "overview": "Hippo is a new kind of insurance company that uses modern technology to provide a simpler process, smarter coverage, and a completely new approach to how we care for our homes.",
+      "website": "https://myhippo.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/hippo-insurance",
+        "followers": 4823
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/hippo-insurance"
+      },
+      "twitter": {
+        "username": "hippo_insurance",
+        "url": "https://twitter.com/hippo_insurance",
+        "followers": 2704
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 50,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1121786360917106688/FLk_O3ki_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Hippo Insurance",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/narrativescience.md",
+      "title": "Narrative Science",
+      "excerpt": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/narrativescience/index.json",
+      "webUrl": "https://everyday.cc/ai/company/narrativescience/",
+      "type": "profile",
+      "name": "Narrative Science",
+      "overview": "Narrative Science creates software that writes stories from data to drive understanding and results. Powered by artificial intelligence, our technology automatically turns data into easy-to-understand reports, transforms statistics into stories, and converts numbers into knowledge.",
+      "website": "https://narrativescience.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/narrative-science/",
+        "followers": 6514
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/narrative-science"
+      },
+      "twitter": {
+        "username": "narrativesci",
+        "url": "https://twitter.com/narrativesci",
+        "followers": 7288
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Chicago, IL",
+        "Chicago, Illinois"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "heat": 50,
+      "tags": [
+        "Natural Language Generation"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1273232294472552448/mJf_dZwh_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Narrative Science",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEaG6-d7iFmaA/company-logo_200_200/0?e=1594857600&v=beta&t=7IP2KNX7zXrRKHszLb9OM4Swx2khf4ekiOTic0exGPk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/netguardians.ch.md",
+      "title": "NetGuardians",
+      "excerpt": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/netguardians.ch/index.json",
+      "webUrl": "https://everyday.cc/ai/company/netguardians.ch/",
+      "type": "profile",
+      "name": "NetGuardians",
+      "overview": "NetGuardians is an award winning Swiss FinTech. Established in 2007, we help over 50 Tier 1 to Tier 3 banks worldwide to fight financial crime. NetGuardians developed the first augmented intelligence solution made for banks to proactively prevent fraud. We empower our clients by providing machine learning technology together with contextual information and great user experience. Banks using NetGuardians’ solution achieved 83% reduction in false positives, saved 93% of the time lost in fraud investigation, and prevented new fraud cases. We were recognized as Gartner Cool Vendor in 2015 and Chartis RiskTech 100 Vendor in 2018.",
+      "website": "https://netguardians.ch/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/netguardians/",
+        "followers": 3764
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/netguardians"
+      },
+      "twitter": {
+        "username": "netguardians",
+        "url": "https://twitter.com/netguardians",
+        "followers": 1541
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2007,
+      "locations": [
+        "Yverdon, Vaud"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 50,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/998935117614608385/FWOiFezQ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "NetGuardians",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFqlh02WuY6yw/company-logo_200_200/0?e=1594857600&v=beta&t=Rbmg26H88Yy5LTjE_R-GDY2tykYTwtwUGZILkdLpwVA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/nutrino.md",
+      "title": "Nutrino",
+      "excerpt": "Our team of nutrition enthusiasts, engineers and data scientists are united by one singular goal: to provide personalized nutritional insights to every person on earth, empowering humankind to live smarter, healthier, and happier.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/nutrino/index.json",
+      "webUrl": "https://everyday.cc/ai/company/nutrino/",
+      "type": "profile",
+      "name": "Nutrino",
+      "overview": "Our team of nutrition enthusiasts, engineers and data scientists are united by one singular goal: to provide personalized nutritional insights to every person on earth, empowering humankind to live smarter, healthier, and happier.",
+      "website": "https://www.nutrinohealth.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/nutrino",
+        "followers": 1309
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/nutrino"
+      },
+      "twitter": {
+        "username": "NutrinoCo",
+        "url": "https://twitter.com/NutrinoCo",
+        "followers": 6
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "Tel-Aviv, ."
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=ynhELhRZO1s"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/647537901971095552/Y083_A7n_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Nutrino",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHfQMuGfVS0Qg/company-logo_200_200/0?e=1594857600&v=beta&t=qqSHyIcWry498ipimTh7vDWuHL91JalI05MndO4-Ofg",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/nuviainc.md",
+      "title": "NUVIA",
+      "excerpt": "Headquartered in Santa Clara, NUVIA was founded on the promise of reimagining silicon design for high-performance computing environments. The company is focused on building products that blend the best attributes of compute performance, power efficiency and scalability. For more information, please visit www.nuviainc.com.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/nuviainc/index.json",
+      "webUrl": "https://everyday.cc/ai/company/nuviainc/",
+      "type": "profile",
+      "name": "NUVIA",
+      "overview": "Headquartered in Santa Clara, NUVIA was founded on the promise of reimagining silicon design for high-performance computing environments. The company is focused on building products that blend the best attributes of compute performance, power efficiency and scalability. For more information, please visit www.nuviainc.com.",
+      "website": "https://nuviainc.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/nuviainc/",
+        "followers": 1673
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/nuvia-ed93"
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2019,
+      "locations": [
+        "Santa Clara , CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=J6ciNns9pxk"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQH_AhIXI9JVnA/company-logo_200_200/0?e=1594857600&v=beta&t=dKNMNCBXLzYmywhm0DxDHcVDhVYnAKR3mqciYu5zfNM",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/pinpoint.md",
+      "title": "Pinpoint",
+      "excerpt": "Pinpoint delivers a new kind of performance intelligence—one that synthesizes the work activity in your delivery tools, and applies data science to unlock faster, smarter engineering.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/pinpoint/index.json",
+      "webUrl": "https://everyday.cc/ai/company/pinpoint/",
+      "type": "profile",
+      "name": "Pinpoint",
+      "overview": "Pinpoint delivers a new kind of performance intelligence—one that synthesizes the work activity in your delivery tools, and applies data science to unlock faster, smarter engineering.",
+      "website": "https://pinpoint.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/pinpoint-software/",
+        "followers": 452
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/pinpoint-5"
+      },
+      "twitter": {
+        "username": "pinpoint_sw",
+        "url": "https://twitter.com/pinpoint_sw",
+        "followers": 348
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Austin, TX",
+        "Austin, Texas"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1362799177911140353/WG8-27bN_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Pinpoint",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/primaalab.md",
+      "title": "Primaa",
+      "excerpt": "Promobot is an autonomous robot for business. It is designed to work in places of increased concentration of people",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/primaalab/index.json",
+      "webUrl": "https://everyday.cc/ai/company/primaalab/",
+      "type": "profile",
+      "name": "Primaa",
+      "overview": "Promobot is an autonomous robot for business. It is designed to work in places of increased concentration of people",
+      "website": "https://www.primaalab.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/primaa/",
+        "followers": 174
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/primaa"
+      },
+      "twitter": {
+        "username": "primaalab",
+        "url": "https://twitter.com/primaalab",
+        "followers": 36
+      },
+      "size": "11-50 employees",
+      "yearFounded": 0,
+      "locations": [
+        "Paris, France",
+        "Paris, Ile-de-France"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=3CQMfhc6Atc"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Primaa",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFAvxJrcc60nQ/company-logo_200_200/0?e=1594857600&v=beta&t=WuFBqfuhiv5YwK47gF0IWMs5P1d6zY_bg8EjOmvG-Rs",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/prophesee.ai.md",
+      "title": "Prophesee",
+      "excerpt": "Prophesee (formerly Chronocam) is the inventor of the world’s most advanced neuromorphic vision systems",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/prophesee.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/prophesee.ai/",
+      "type": "profile",
+      "name": "Prophesee",
+      "overview": "Prophesee (formerly Chronocam) is the inventor of the world’s most advanced neuromorphic vision systems",
+      "website": "http://www.prophesee.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/chronocam",
+        "followers": 2595
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/chronocam"
+      },
+      "twitter": {
+        "username": "Prophesee_ai",
+        "url": "https://twitter.com/Prophesee_ai",
+        "followers": 1463
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "Paris"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=L7DsXXUyRis"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1407741049733328902/mT66uXhK_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Prophesee",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQHW5I8H_LBHiQ/company-logo_200_200/0?e=1594857600&v=beta&t=fHFU1sj7uJ17yMEZd--Eo267OJTbR8GBtcvN7jxKNIk",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/pymetrics.md",
+      "title": "Pymetrics",
+      "excerpt": "Founded by Harvard/MIT-trained PhDs, pymetrics uses neuroscience data and AI to help global clients like Unilever, Accenture and LinkedIn make their hiring and internal mobility more predictive and less biased. pymetrics replaces the resume as a first-pass filter by assessing candidates based on their true potential -- their inherent cognitive and emotional make-up. Using algorithms that are trained on high-performing employees at a company, pymetrics builds a trait profile of a company's top performers to select best fit talent. These algorithms are then audited to remove any gender or ethnic bias. pymetrics also serves as a common application for candidates, ensuring that everyone finds their best-fit job, regardless of where they apply. With over 80 enterprise clients and offices in NYC, London, Sydney and Singapore, pymetrics is powering the future of hiring: efficient, predictive, and bias-free.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/pymetrics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/pymetrics/",
+      "type": "profile",
+      "name": "Pymetrics",
+      "overview": "Founded by Harvard/MIT-trained PhDs, pymetrics uses neuroscience data and AI to help global clients like Unilever, Accenture and LinkedIn make their hiring and internal mobility more predictive and less biased. pymetrics replaces the resume as a first-pass filter by assessing candidates based on their true potential -- their inherent cognitive and emotional make-up. Using algorithms that are trained on high-performing employees at a company, pymetrics builds a trait profile of a company's top performers to select best fit talent. These algorithms are then audited to remove any gender or ethnic bias. pymetrics also serves as a common application for candidates, ensuring that everyone finds their best-fit job, regardless of where they apply. With over 80 enterprise clients and offices in NYC, London, Sydney and Singapore, pymetrics is powering the future of hiring: efficient, predictive, and bias-free.",
+      "website": "https://www.pymetrics.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/2714872",
+        "followers": 15489
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/pymetrics"
+      },
+      "twitter": {
+        "username": "pymetrics",
+        "url": "https://twitter.com/pymetrics",
+        "followers": 3515
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "New York, NY",
+        "New York, NY"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1414631690757103617/Zmx02nx-_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Pymetrics",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHAjv1Lw8B90Q/company-logo_200_200/0?e=1594857600&v=beta&t=DCbyYI-O85XqebLvlYBgmV1Scsu0zoJr6HKb5WeF3e0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/quantib.md",
+      "title": "Quantib",
+      "excerpt": "Our goal is to give radiologists the best tools to help deliver fast, objective, accurate and insightful reports.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/quantib/index.json",
+      "webUrl": "https://everyday.cc/ai/company/quantib/",
+      "type": "profile",
+      "name": "Quantib",
+      "overview": "Our goal is to give radiologists the best tools to help deliver fast, objective, accurate and insightful reports.",
+      "website": "http://www.quantib.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/quantib-bv/",
+        "followers": 1389
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/quantib"
+      },
+      "twitter": {
+        "username": "Quantib",
+        "url": "https://twitter.com/Quantib",
+        "followers": 773
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Rotterdam, ZH"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=MmbfaKF-wss"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1249958982770462721/WUWU3JJa_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Quantib",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGYElcY9GF7Vg/company-logo_200_200/0?e=1594857600&v=beta&t=zP-CryOPddYQZ6jokPGcvBUTEjmN4Bvya15Ef16P2zI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/robinhealthcare.md",
+      "title": "Robin Healthcare",
+      "excerpt": "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/robinhealthcare/index.json",
+      "webUrl": "https://everyday.cc/ai/company/robinhealthcare/",
+      "type": "profile",
+      "name": "Robin Healthcare",
+      "overview": "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies.",
+      "website": "https://www.robinhealthcare.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/robin-healthcare/",
+        "followers": 606
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/robin-healthcare"
+      },
+      "twitter": {
+        "username": "robinhealthco",
+        "url": "https://twitter.com/robinhealthco",
+        "followers": 87
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Berkeley, CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=OeJ_m-PYEJ8"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1338632807611035650/kDlF5Ppp_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Robin Healthcare",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFB-QU7WfLt7w/company-logo_200_200/0?e=1594857600&v=beta&t=HJZdlvuhAIoszPAVeOhac8xgQUIVXYerJGvv0q1yWvs",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/rockmetric.md",
+      "title": "Rockmetric",
+      "excerpt": "Rockmetric is a 'Cognitive Data Analyst'​ that automates analysis and insights with a Google-like 'Natural Language Search'​ interface. Large enterprises can deliver sophisticated analysis and adhoc queries at scale instantly without having to expand reporting and analytics teams.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/rockmetric/index.json",
+      "webUrl": "https://everyday.cc/ai/company/rockmetric/",
+      "type": "profile",
+      "name": "Rockmetric",
+      "overview": "Rockmetric is a 'Cognitive Data Analyst'​ that automates analysis and insights with a Google-like 'Natural Language Search'​ interface. Large enterprises can deliver sophisticated analysis and adhoc queries at scale instantly without having to expand reporting and analytics teams.",
+      "website": "https://www.rockmetric.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/rockmetric",
+        "followers": 816
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/rockmetric"
+      },
+      "twitter": {
+        "username": "rockmetric",
+        "url": "https://www.twitter.com/rockmetric",
+        "followers": 243
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Mumbai, Maharashtra"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=OZ7_tIGZXus"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1110881175193546759/RQHj5B0z_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Rockmetric",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/roobo.md",
+      "title": "ROOBO",
+      "excerpt": "北京智能管家科技有限公司 (roobo) 成立于2014年，是面向全球的智能硬件孵化与发行平台，同时也致力于打造行业领先的人工智能及机器人操作系统（roobo AI+OS）。我们的总部设立于北京，并在深圳、苏州、成都、韩国首尔，莫斯科和西雅图均设有分部或销售公司。",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/roobo/index.json",
+      "webUrl": "https://everyday.cc/ai/company/roobo/",
+      "type": "profile",
+      "name": "ROOBO",
+      "otherNames": [
+        "北京儒博科技有限公司",
+        "儒博"
+      ],
+      "overview": "北京智能管家科技有限公司 (roobo) 成立于2014年，是面向全球的智能硬件孵化与发行平台，同时也致力于打造行业领先的人工智能及机器人操作系统（roobo AI+OS）。我们的总部设立于北京，并在深圳、苏州、成都、韩国首尔，莫斯科和西雅图均设有分部或销售公司。",
+      "website": "http://www.roobo.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/%E5%8C%97%E4%BA%AC%E6%99%BA%E8%83%BD%E7%AE%A1%E5%AE%B6%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/",
+        "followers": 140
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/roobo"
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "北京, 北京"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=isl6-citSqY"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGi8furlJe4UA/company-logo_200_200/0?e=1594857600&v=beta&t=yIXpJ_peaQf9qKaSoqLRjULuwPf44GRmmGQPuP8h9H4",
           "width": 400,
           "height": 400,
           "title": "logo",

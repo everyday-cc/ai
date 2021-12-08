@@ -4,65 +4,72 @@
   "page": 1,
   "value": [
     {
-      "path": "_companies/collectivei.md",
-      "title": "Collective[i]",
-      "excerpt": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collectivei/index.json",
-      "webUrl": "https://everyday.cc/ai/company/collectivei/",
+      "path": "_companies/gong.io.md",
+      "title": "Gong.io",
+      "excerpt": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gong.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/gong.io/",
       "type": "profile",
-      "name": "Collective[i]",
-      "overview": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "website": "https://www.collectivei.com/",
+      "name": "Gong.io",
+      "overview": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
+      "website": "https://www.gong.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/gong-io/",
+        "followers": 27534
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/collective-i"
+        "url": "https://www.crunchbase.com/organization/gong-io"
       },
       "twitter": {
-        "username": "collectivei",
-        "url": "https://twitter.com/collectivei",
-        "followers": 1172
+        "username": "gong_io",
+        "url": "https://twitter.com/gong_io",
+        "followers": 6703
       },
-      "yearFounded": 0,
+      "size": "201-500 employees",
+      "yearFounded": 2015,
       "locations": [
-        "New York, NY"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
       "topics": [
         "AI",
+        "Natural Language Processing",
         "AI in Sales"
       ],
-      "heat": 83,
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=PGaBhUPCcxU"
+        }
+      ],
+      "heat": 72,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1362805529077252097/6FpjDO2k_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1445782969088544768/ULVDeanz_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Collective[i]",
+          "title": "Gong.io",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/clearbit.md",
-      "title": "Clearbit",
-      "excerpt": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/clearbit/index.json",
-      "webUrl": "https://everyday.cc/ai/company/clearbit/",
+      "path": "_companies/einstein.ai.md",
+      "title": "Salesforce Einstein",
+      "excerpt": "Einstein is a deep learning research and engineering organization for Salesforce.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/einstein.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/einstein.ai/",
       "type": "profile",
-      "name": "Clearbit",
-      "overview": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
-      "website": "https://www.clearbit.com/",
+      "name": "Salesforce Einstein",
+      "overview": "Einstein is a deep learning research and engineering organization for Salesforce.",
+      "website": "https://einstein.ai/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/clearbit"
-      },
-      "twitter": {
-        "username": "clearbit",
-        "url": "https://twitter.com/clearbit",
-        "followers": 4273
+        "url": "https://www.crunchbase.com/organization/einstein"
       },
       "yearFounded": 0,
-      "locations": [
-        "San Francisco"
-      ],
       "topics": [
         "AI",
         "AI in Sales"
@@ -70,10 +77,10 @@
       "heat": 65,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1433149472599642120/Am7F6Hbo_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1291630668980449280/5mGdX9eY_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Clearbit",
+          "title": "Salesforce Einstein",
           "isCached": true
         }
       ],
@@ -120,7 +127,7 @@
           "url": "https://www.youtube.com/watch?v=i_Y1JD_VJvs"
         }
       ],
-      "heat": 65,
+      "heat": 58,
       "tags": [
         "Natural Language Generation"
       ],
@@ -130,36 +137,6 @@
           "width": 400,
           "height": 400,
           "title": "Conversica",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/einstein.ai.md",
-      "title": "Salesforce Einstein",
-      "excerpt": "Einstein is a deep learning research and engineering organization for Salesforce.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/einstein.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/einstein.ai/",
-      "type": "profile",
-      "name": "Salesforce Einstein",
-      "overview": "Einstein is a deep learning research and engineering organization for Salesforce.",
-      "website": "https://einstein.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/einstein"
-      },
-      "yearFounded": 0,
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1291630668980449280/5mGdX9eY_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Salesforce Einstein",
           "isCached": true
         }
       ],
@@ -191,7 +168,7 @@
         "AI",
         "AI in Sales"
       ],
-      "heat": 58,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
@@ -204,53 +181,76 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/gong.io.md",
-      "title": "Gong.io",
-      "excerpt": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gong.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/gong.io/",
+      "path": "_companies/clearbit.md",
+      "title": "Clearbit",
+      "excerpt": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/clearbit/index.json",
+      "webUrl": "https://everyday.cc/ai/company/clearbit/",
       "type": "profile",
-      "name": "Gong.io",
-      "overview": "Gong.io enables revenue teams to realize their fullest potential by unveiling customer reality.",
-      "website": "https://www.gong.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/gong-io/",
-        "followers": 27534
-      },
+      "name": "Clearbit",
+      "overview": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
+      "website": "https://www.clearbit.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gong-io"
+        "url": "https://www.crunchbase.com/organization/clearbit"
       },
       "twitter": {
-        "username": "gong_io",
-        "url": "https://twitter.com/gong_io",
-        "followers": 6703
+        "username": "clearbit",
+        "url": "https://twitter.com/clearbit",
+        "followers": 4273
       },
-      "size": "201-500 employees",
-      "yearFounded": 2015,
+      "yearFounded": 0,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "San Francisco"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
-        "Natural Language Processing",
         "AI in Sales"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=PGaBhUPCcxU"
-        }
-      ],
-      "heat": 58,
+      "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1445782969088544768/ULVDeanz_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1433149472599642120/Am7F6Hbo_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Gong.io",
+          "title": "Clearbit",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/collectivei.md",
+      "title": "Collective[i]",
+      "excerpt": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collectivei/index.json",
+      "webUrl": "https://everyday.cc/ai/company/collectivei/",
+      "type": "profile",
+      "name": "Collective[i]",
+      "overview": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
+      "website": "https://www.collectivei.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/collective-i"
+      },
+      "twitter": {
+        "username": "collectivei",
+        "url": "https://twitter.com/collectivei",
+        "followers": 1172
+      },
+      "yearFounded": 0,
+      "locations": [
+        "New York, NY"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1362805529077252097/6FpjDO2k_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Collective[i]",
           "isCached": true
         }
       ],
@@ -276,7 +276,7 @@
       "twitter": {
         "username": "ppl_ai",
         "url": "https://twitter.com/ppl_ai",
-        "followers": 1645
+        "followers": 1644
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -291,7 +291,7 @@
         "AI",
         "AI in Sales"
       ],
-      "heat": 50,
+      "heat": 41,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1194292082208202757/3pc4br8B_400x400.jpg",
@@ -330,7 +330,7 @@
       "twitter": {
         "username": "tact_ai",
         "url": "https://twitter.com/tact_ai",
-        "followers": 1294
+        "followers": 1293
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -352,7 +352,7 @@
           "url": "https://www.youtube.com/watch?v=HntmBF0px3A"
         }
       ],
-      "heat": 50,
+      "heat": 41,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1410509538978013184/L2-aJGlS_400x400.png",
@@ -390,7 +390,7 @@
         "AI",
         "AI in Sales"
       ],
-      "heat": 41,
+      "heat": 31,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1412921886367903748/SCz3jsjN_400x400.png",

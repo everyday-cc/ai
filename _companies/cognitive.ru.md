@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "CognitivePilot"
   url: "https://twitter.com/CognitivePilot"
-  followers: 1235
+  followers: 1233
 
 locations:
   - Tel Aviv-Yafo, Israel
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=7SxXEfB5rTQ"
 
-secured: "RB2lUsMBiYvquLH4Td8Obv2gvwx6f+EOo1z/4yXf8ZNUqhvI5djqSKGNWYtPYys+FfsC7AiKyp8bietSsyJ8AW+/N515BtdzNJqhSXnyKBCpnbfaguaID+Jvlhx8o2rL8aJXu8Yo+4XwoWiENKaU4tSdmwQrTviJsxNeBe3ZZAOe+d5uNlNUGHcsiNH9IQnPZeVfGwSIIevotrPppgT5rQV09aGcRv7nRnWrHZTDThUR5MI6a97dT3DY24C9MgItpsbz8mQLcouSzXHBpZfdoaavSVRthW1fC1D3P+m2w3mEfbCAFQYLTGAe4WujIRTzp6PIvjoql5tAWu+3reTqV0PUxAdSXp9uQxgSdTcYO0MBFHzTUOvmknb1+2UtfrPSDQsCknaB7uNLFQPMEInvjat/nBxQOnQvt/MPW+7aSGA=;ZYScfdhibFk5F4p4IS4u9Q=="
+secured: "2T2+EhhrMgTWU3pqWchrEk8mfGtInzJ6AdAFKZdv6sAN6l/NoZ8HIcCF/UnvJK0uUfy8XpnbK1IHXUYccv6zhFJD337eTf1WeppoG/3zZk1aLVd+QDE8tfoCoNgPnF4fMvUtav6yS4/Z0fgtD0aZBt1eApYc/3ALNmnez0Q4rlpdmEpdUZ//YyJEiJc7rXRXja+IZANk+yneJ46CS5BGOoT5VKUKXmx0IxKK0rQLt8fOqbCvsCi8N8VFWbrM3VcWIFtpdtXlu9thZUke9KQhf6taCI9DX22LsxW8ftHEupffebPzieCKibCP1mOUjUlcaQQdGr9p2ybCxuKmLNa3s4/PmiZ+tXmfXTSViYKK0dsfRePf0GvcdOpTQf5dd1DnECm1i0ncm5/PzvHXUuHEw83rSskxaaRtqFum6lOO9d8=;VWhr3wZziYOPqzmznbddUw=="
 ---
 

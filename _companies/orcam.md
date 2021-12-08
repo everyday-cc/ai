@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "OrCam"
   url: "https://twitter.com/OrCam"
-  followers: 10665
+  followers: 10664
 
 size: 51-200 employees
 yearFounded: 2010
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=jx2zOrCTvcA"
 
-secured: "2EHWetDV4pfJUG9pqsDYOIsWOKJwxdbGFpLEzbEAan5rJN+xb7c1SBzjIrH6uhRlLZBMozKgb8vSU6SwicaUL2vmgcb9T/k5ciEHfhGtIGRHieKJNOu9/8A2UV405iLPDANoyJXAfLmknjD3vQ+pHIxVu8WYWH2YwaC6afyVUC/ZQUSfnm02ZBMs2RP0hnfQy3tphNJYwmC10r34iU9HjyfhfHIKco6nw7EsTt5aLYB1un7/UwcX7P3/MkhLQX7Ltkm1//0b84GgZUMDMzSENaSqxmkQPMLfsdNr6ywCRmuGNaG1cO6/I3DhVFfCXgcPQ10JjbeLwfQKcQYBuFy551LGfuzQQ4HktXmSDCiaNnrtZR/L7jWUETOILJRcXRyS5bzUQtoEFuXHSnCbJdoq/OeNuqv5IJg/tmNzQL757SU=;Q/it+Vop9vuRJFgBzRZh0g=="
+secured: "6hnvW3hcYDYhXtjBv2yjsvehfj8O7Q79m8viAYEjR8HpWgk8azVLJS41hVZXTDdBle9alCzTwBZLketKGjIhhuIivcW7uqXNI1a8ZFKbb2hlxrfYZ6adpXujn01jaNjA07qE6h0+CIEdQMgiFeHdTCybJXBX2CF8aEJ2rHKviqHRXiVqQLwHZ+D+H97QmDPHSCnYYGndhWoKVqs3rlyb7f7l7PlO81yMAW0EtvilMM2wEmSnKM8tVnH+JfqnWEI3FU2wQ8P6CfRlirrGcRfuPdpESozUYKLG4Yh67EVPiLNI60mLDh816rLCedtNe3pR2SW/71pf1mshqW42Ezh0PH4oTqNGTzpfkp4VmkkEcLtoxLyMqkxWXM+FCeQP3RWF8umXmrrpDb7zNVZrJVDM3/aIo/coiKpi9RWqFeRzRB0=;vxqhNt64jF0vT+EjHrTHGA=="
 ---
 

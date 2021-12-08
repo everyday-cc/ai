@@ -2,7 +2,7 @@
 name: "Deep Lens"
 overview: "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types."
 type: "profile"
-heat: 50
+heat: 41
 
 website: https://www.deeplens.ai/
 
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "QHdDRoa6ZKuSjvg8kLC7F8PXVoEqeG+Lt7xrc5eZTxEqS9Efuzi7QkP/3gtWGHzWmP+4cX6+UpmfL358Az5M/o0HgySqUczy2b9nAirOxTkdwZ1SaZfpvAgG90Hk3LiwDA/ZM0XMASfcQAZabX573GqTScovtw0lldf3E8hGefk7iijsfsuMyLaampHhQko6vboBajWwnt3HIqGDLanYwSGjAoLnREgZfvVQLk0JMVdRYfGeKCI3mPAG6a9TiWPutj1wuOjp4V3y0qL6eVhAsPX4pYC9At5t9PeV0YK6QHAmxAaJFyBw25FxZoNuDzRg6sI6JmVE+RycbWRWmS1ur75Q6+OzV71EBg7j6DUchSkcLgLE3jTPKDxq5VfNIrXGmQmDVb32sbiqWx1L4ik8gQ==;KIUK0oxEn1sfoERHkeA8FA=="
+secured: "nfkLYCeqgYkVxsuFn3M3sw3dblvwTMo11BijZWRmbrkgBJ12YkwDteawoQ6jr2ZTC4oEWe4073GhANi4s9kbgb9R2L5JSGrXB4+SD95o0lPYpE6tIp+GURKbtCU/QeJD91hoT8TVOrmKn34/7rb+x0cWXOlvikMnl7cQx89+qDTY989hYAkFx/3SYawsVKLVe19F4paophb3cYS8Ajwp3tyivuuG5KjKWo5KZFw3jrMbR9gAiTMDHVGZuEVzn2Mn4+94aUDcOO3K26+7/cSaBjd8TglGGDVzV10ngyD7ra2LlFAhRnWIQHE8+YsB+t/z69nkqfFoBWBPqSwwHnT/CEp/yviq/t1GO500PfshVfR85Y4c/3Km+kGQAIkc/EchecuQDpZS+6jpSJORoKJqmQ==;15oPQo89GHmfLRcqN4N5Ag=="
 ---
 

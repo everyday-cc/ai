@@ -2,7 +2,7 @@
 name: "Vianai"
 overview: "Our vision is to empower millions to build machine learning applications. CEOs, Senior Executives and Developers can use Vianai to turn AI into ROI."
 type: "profile"
-heat: 50
+heat: 41
 
 website: https://www.vian.ai
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "VianaiSystems"
   url: "https://twitter.com/VianaiSystems"
-  followers: 634
+  followers: 633
 
 size: 11-50 employees
 yearFounded: 2019
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Vianai"
 
-secured: "kiaUBOZU7YxZI1Xa1EyagzgjognPouC1eWb05g8uEPsSFxJ3m/c/y5cbVSJFQyJn3iqAT4ZaGaqtJ2DQxNgv08dto/8WiTTrPrJDxqashbjMxu3ghMEG+noR0hYJczTyisfB3+qu1zbqnJ7yszaTlne4bCM8mWn+J9lgNvjv2Fp4nqALQ2xgvmKTJoUfBAbD3J6a6kMfbrSlnJiLuCfb/sorH3qZmZp5Qx2KBnIQqeeDGBHPzHRAJXefSVO85w93mQjVWS1Wylo8LeH5QnMIWjqeJ1JDT/e2m7EZVooZJg6cuViCrWgcj0UNx/5U5a2XeV3iTDTPS8hGNcnXqBbr9xw8CsFYi6Vzo8wCnEtvWmeKvGb90MUShkEUDcA2xw6ertR4XtUTlrlYdnYHFqcs4A==;cLC6pEKoFowojpEJN99pxQ=="
+secured: "0LdIBnUGPUaf+sF+zWGdHmf4xD5m2N8cB10XTGytOenPuEPGw5vuBDjfnrScFmz9kQck/T/vbvYO4viLrJM/iK9Sl0v7yLRa9IeK4hUW6i+SPG1BBKjKAnfDiFmH5TM6UwYg2UzAuApA6W45co1+mzd3GBRSbY6NXdnZffGrEXFIMfqNvCQp9yA3M2E1Afly7quQN3sgdQ3u3YEUXjb2HKKIxxdo2n+xFi6HfuD3d+ryGrrBzJJaPGCVVNERuv59iBL+UGACDahxzdUAGAFeYEla1qB5cwDNaqxC35CxBIoZSSh1NK9p9YOyl1ovRqvZlIPvReemstH3UyEzGB7eRBNNgNmMuplxeWrsgDEp2tVdcCiUGhjonxH47IlVRpOVK/dR9jgPhxFCr6RM+50mLA==;U/I/taFigLr2O87GFj5eDQ=="
 ---
 

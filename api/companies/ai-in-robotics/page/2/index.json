@@ -4,35 +4,34 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/builtrobotics.md",
-      "title": "Built Robotics",
-      "excerpt": "Built Robotics’ mission is to build the robots that build the world. By upgrading off-the-shelf heavy equipment with AI guidance systems, Built’s technology enables machines to operate fully autonomously. Built’s robots are deployed today across the $1 trillion earthmoving industry, and they’re being used to build critical infrastructure such as wind farms, gas pipelines, and new housing developments.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/builtrobotics/index.json",
-      "webUrl": "https://everyday.cc/ai/company/builtrobotics/",
+      "path": "_companies/rethinkrobotics.md",
+      "title": "Rethink Robotics",
+      "excerpt": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/rethinkrobotics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/rethinkrobotics/",
       "type": "profile",
-      "name": "Built Robotics",
-      "overview": "Built Robotics’ mission is to build the robots that build the world. By upgrading off-the-shelf heavy equipment with AI guidance systems, Built’s technology enables machines to operate fully autonomously. Built’s robots are deployed today across the $1 trillion earthmoving industry, and they’re being used to build critical infrastructure such as wind farms, gas pipelines, and new housing developments.",
-      "website": "http://www.builtrobotics.com/",
+      "name": "Rethink Robotics",
+      "overview": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
+      "website": "https://www.rethinkrobotics.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/builtrobotics/",
-        "followers": 1589
+        "url": "https://www.linkedin.com/company/rethink-robotics/",
+        "followers": 17933
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/built-robotics"
+        "url": "https://www.crunchbase.com/organization/rethink-robotics"
       },
       "twitter": {
-        "username": "builtrobotics",
-        "url": "https://twitter.com/builtrobotics",
-        "followers": 1251
+        "username": "RethinkRobotics",
+        "url": "https://twitter.com/RethinkRobotics",
+        "followers": 33134
       },
       "size": "11-50 employees",
-      "yearFounded": 2016,
+      "yearFounded": 2018,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "Bochum, Germany"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
@@ -40,20 +39,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=YYj2JqL1dJM"
+          "url": "https://www.youtube.com/watch?v=DSy-NXSldz0"
         }
       ],
-      "heat": 41,
+      "heat": 18,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1183853828870823936/b0lkOMVV_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1184131997708488704/OS_GZKiw_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Built Robotics",
+          "title": "Rethink Robotics",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHd8I03N4DNIg/company-logo_200_200/0?e=1594857600&v=beta&t=MUsKi-Hpc1H_xCejMn_xAJ3n-OvwWzER86IE99Uumak",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGDfXIKeQnw_g/company-logo_200_200/0?e=1594857600&v=beta&t=dK_2lwjgeDcNJ0MjuT9b9_9-2sOEatkl0GxfTMA52SI",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -63,54 +62,48 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/freedomrobotics.ai.md",
-      "title": "Freedom Robotics",
-      "excerpt": "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/freedomrobotics.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/freedomrobotics.ai/",
+      "path": "_companies/softbankrobotics.md",
+      "title": "SoftBank Robotics",
+      "excerpt": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/softbankrobotics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/softbankrobotics/",
       "type": "profile",
-      "name": "Freedom Robotics",
-      "overview": "Freedom Robotics is the leading provider of software infrastructure for modern robotics companies. Based in San Francisco, CA, Freedom Robotics creates mission critical software infrastructure to enable the next generation of robotics companies to build, operate, support and scale robots and robotic fleets. Freedom Robotics is platform agnostic and works with any robot and installs in seconds with just one line of code in order to help robotics companies bring their product to market 10x faster with half the resources.",
-      "website": "https://www.freedomrobotics.ai/",
+      "name": "SoftBank Robotics",
+      "overview": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
+      "website": "https://www.softbankrobotics.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/freedomrobotics/",
-        "followers": 277
+        "url": "https://www.linkedin.com/company/softbank-robotics-japan/",
+        "followers": 426
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/freedom-robotics"
+        "url": "https://www.crunchbase.com/organization/softbank-robotics"
       },
       "twitter": {
-        "username": "FRDMROBOTICS",
-        "url": "https://twitter.com/FRDMROBOTICS",
-        "followers": 521
+        "username": "sbreurope",
+        "url": "https://twitter.com/sbreurope",
+        "followers": 16617
       },
-      "size": "11-50 employees",
-      "yearFounded": 2018,
+      "yearFounded": 0,
       "locations": [
-        "San Francisco, CA"
+        "Tokyo, Tokyo"
       ],
-      "funding": {
-        "status": "Seed"
-      },
       "topics": [
         "AI",
         "AI in Robotics"
       ],
-      "heat": 41,
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=oDeQCIkrLvc"
+        }
+      ],
+      "heat": 3,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1153450184526852097/B_tcgtrN_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1407644568405917696/WeCkT4jo_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Freedom Robotics",
+          "title": "SoftBank Robotics",
           "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEicfD2VUSuFQ/company-logo_200_200/0?e=1594857600&v=beta&t=OUFYSMVpyrQOq1KKei-sPYD-i7j1l-CfIeVlQb2Tics",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"

@@ -29,7 +29,7 @@
         "AI",
         "AI in Security"
       ],
-      "heat": 140,
+      "heat": 117,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1410660608408625157/LSD1Arp9_400x400.png",
@@ -67,7 +67,7 @@
         "AI",
         "AI in Security"
       ],
-      "heat": 72,
+      "heat": 65,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1438620038005723140/zVILNd_j_400x400.png",
@@ -80,106 +80,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/bluehexagon.ai.md",
-      "title": "Blue Hexagon",
-      "excerpt": "Blue Hexagon is a deep learning innovator focused on protecting organizations from cyberthreats. We've built the industry's first real-time deep learning platform for network threat protection. We have a world class team of deep learning and security experts innovating and setting a new standard for cyber defense. We are headquartered in Sunnyvale, CA.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/bluehexagon.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/bluehexagon.ai/",
+      "path": "_companies/vectra.ai.md",
+      "title": "Vectra",
+      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/vectra.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/vectra.ai/",
       "type": "profile",
-      "name": "Blue Hexagon",
-      "overview": "Blue Hexagon is a deep learning innovator focused on protecting organizations from cyberthreats. We've built the industry's first real-time deep learning platform for network threat protection. We have a world class team of deep learning and security experts innovating and setting a new standard for cyber defense. We are headquartered in Sunnyvale, CA.",
-      "website": "https://bluehexagon.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/blue-hexagon-inc/",
-        "followers": 3669
-      },
+      "name": "Vectra",
+      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
+      "website": "https://vectra.ai",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/blue-hexagon"
+        "url": "https://www.crunchbase.com/organization/vectra-networks"
       },
       "twitter": {
-        "username": "bluehexagonai",
-        "url": "https://twitter.com/bluehexagonai",
-        "followers": 417
+        "username": "Vectra_AI",
+        "url": "https://twitter.com/Vectra_AI",
+        "followers": 2714
       },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
+      "yearFounded": 0,
       "locations": [
-        "Sunnyvale, CA"
+        "San Jose, CA"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Machine Learning"
-      ],
-      "heat": 58,
-      "tags": [
-        "Security"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1061031032105779200/HFuyqQ7L_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Blue Hexagon",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEreDMnmV-z6w/company-logo_200_200/0?e=1594857600&v=beta&t=wEesu17QpHr1GYg57sKuCfRsPlE6KDIRoEw86J4VU5s",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/cybermdx.md",
-      "title": "CyberMDX",
-      "excerpt": "Using advanced network mapping and management technology, CyberMDX adds layers of protection and operations-improving cyber insights to healthcare organizations. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cybermdx/index.json",
-      "webUrl": "https://everyday.cc/ai/company/cybermdx/",
-      "type": "profile",
-      "name": "CyberMDX",
-      "overview": "Using advanced network mapping and management technology, CyberMDX adds layers of protection and operations-improving cyber insights to healthcare organizations. ",
-      "website": "https://www.cybermdx.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/cybermdx/",
-        "followers": 1685
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cybermdx"
-      },
-      "twitter": {
-        "username": "CyberMDX",
-        "url": "https://twitter.com/CyberMDX",
-        "followers": 1190
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "New York, NY"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
         "AI in Security"
       ],
       "heat": 58,
-      "tags": [
-        "Security"
-      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1410273614222565381/ghGaNsJZ_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "CyberMDX",
+          "title": "Vectra",
           "isCached": true
         }
       ],
@@ -218,6 +150,55 @@
           "width": 400,
           "height": 400,
           "title": "Anomali",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/cybermdx.md",
+      "title": "CyberMDX",
+      "excerpt": "Using advanced network mapping and management technology, CyberMDX adds layers of protection and operations-improving cyber insights to healthcare organizations. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cybermdx/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cybermdx/",
+      "type": "profile",
+      "name": "CyberMDX",
+      "overview": "Using advanced network mapping and management technology, CyberMDX adds layers of protection and operations-improving cyber insights to healthcare organizations. ",
+      "website": "https://www.cybermdx.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/cybermdx/",
+        "followers": 1685
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cybermdx"
+      },
+      "twitter": {
+        "username": "CyberMDX",
+        "url": "https://twitter.com/CyberMDX",
+        "followers": 1190
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "New York, NY"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Security"
+      ],
+      "heat": 50,
+      "tags": [
+        "Security"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1410273614222565381/ghGaNsJZ_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "CyberMDX",
           "isCached": true
         }
       ],
@@ -296,7 +277,7 @@
       "twitter": {
         "username": "socureme",
         "url": "https://twitter.com/socureme",
-        "followers": 7036
+        "followers": 7035
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -313,7 +294,7 @@
         "Machine Learning",
         "AI in Finance"
       ],
-      "heat": 50,
+      "heat": 41,
       "tags": [
         "FinTech",
         "Security"
@@ -337,39 +318,58 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/vectra.ai.md",
-      "title": "Vectra",
-      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/vectra.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/vectra.ai/",
+      "path": "_companies/bluehexagon.ai.md",
+      "title": "Blue Hexagon",
+      "excerpt": "Blue Hexagon is a deep learning innovator focused on protecting organizations from cyberthreats. We've built the industry's first real-time deep learning platform for network threat protection. We have a world class team of deep learning and security experts innovating and setting a new standard for cyber defense. We are headquartered in Sunnyvale, CA.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/bluehexagon.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/bluehexagon.ai/",
       "type": "profile",
-      "name": "Vectra",
-      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "website": "https://vectra.ai",
+      "name": "Blue Hexagon",
+      "overview": "Blue Hexagon is a deep learning innovator focused on protecting organizations from cyberthreats. We've built the industry's first real-time deep learning platform for network threat protection. We have a world class team of deep learning and security experts innovating and setting a new standard for cyber defense. We are headquartered in Sunnyvale, CA.",
+      "website": "https://bluehexagon.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/blue-hexagon-inc/",
+        "followers": 3669
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/vectra-networks"
+        "url": "https://www.crunchbase.com/organization/blue-hexagon"
       },
       "twitter": {
-        "username": "Vectra_AI",
-        "url": "https://twitter.com/Vectra_AI",
-        "followers": 2715
+        "username": "bluehexagonai",
+        "url": "https://twitter.com/bluehexagonai",
+        "followers": 417
       },
-      "yearFounded": 0,
+      "size": "11-50 employees",
+      "yearFounded": 2017,
       "locations": [
-        "San Jose, CA"
+        "Sunnyvale, CA"
       ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
       "topics": [
         "AI",
-        "AI in Security"
+        "AI in Security",
+        "Machine Learning"
       ],
-      "heat": 50,
+      "heat": 31,
+      "tags": [
+        "Security"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1061031032105779200/HFuyqQ7L_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Vectra",
+          "title": "Blue Hexagon",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEreDMnmV-z6w/company-logo_200_200/0?e=1594857600&v=beta&t=wEesu17QpHr1GYg57sKuCfRsPlE6KDIRoEw86J4VU5s",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -394,7 +394,7 @@
       "twitter": {
         "username": "SparkCognition",
         "url": "https://twitter.com/SparkCognition",
-        "followers": 4122
+        "followers": 4121
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -409,7 +409,7 @@
         "AI in Security",
         "Machine Learning"
       ],
-      "heat": 41,
+      "heat": 31,
       "tags": [
         "Security"
       ],

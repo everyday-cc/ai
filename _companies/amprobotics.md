@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "amprobotics"
   url: "https://twitter.com/amprobotics"
-  followers: 1526
+  followers: 1525
 
 size: 11-50 employees
 yearFounded: 2015
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=C1PEsXWl-ZM"
 
-secured: "AwAr85muSFO3rliCDCxUYJ61XR5Y/UP0K020r/ImH5FVLbfXZvWNskzV+li8PwJxq1wXKSGAgHeaFeBeCAn24gfAImlh32GRdLztUYFGxDCQaKqWbxe63W8AH+/W+uaWZTvZy2y4PZkwArU/XOobQFcg9tb6ZSW8ZZFGR7r3Zm3QtywBmRCSZbfe5UvsEq9HrllPWOcnZMdOelxfmXy79T6RQNt6JLmI92+1LB3R17eYBEs/J17NkF9FADtiBkqoX8u69gyJtldxuh9omnGfJp9EKHlVCgn9WSTBxW5ZhrV4wxKgF/M3zAEOSP6bJLfeAmQA5g4TBjy//VGGp7N/hmqv7QPZNr5QF1dp4w38E5NA4CNS8dGWKW0hcieB5Fvl0rAsu9Y+Yt0ikZXk2cQzFwvySKCC5AFLrNeHvH2PAsc=;LMhWWh9m4H4Tqhj5UPbNBA=="
+secured: "1fqc6ZVAjxM9Q/86zhR/zAV6DH9bWD3lfSDoP6e1qLU+UL+BrmHaAF1ptP5xzNvljqqIUsUMfU3vP1isULpiWxEAOfzqoXHI4U/5HjXrD7uB3NASjj4ZFMQA2jn2CK65iblq2x+I+hpez4fo8x846YrU7sAU7wEkNAsEKNAMwOEaIhcJZcP/P6KtlRMb9T3PGQ3bVdX5rqRwC4PS4amTsQPsz1i2NPm7NlkQZgAbZofhCX5lWd1jqCbpcYX6vl1SlntSQ2+FZg8cOVLr6I2feKlY+yegCHRMGIjXAaqtmLZ95WP9vseRIPv31hV7Wv1zCYWevQ/qkeLaXBfFwsvXkTRPh38W6yQRTnNF29VQgwT6MpKLMJzOSju2609oTzX8AxfW/UCSq/hYZ4ltcH2EswuwFKg6HfaqH/v2yg4eCe0=;5j82SUH/SgBJVhJ6Tobw4g=="
 ---
 

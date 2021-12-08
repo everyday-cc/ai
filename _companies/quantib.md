@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Quantib"
   url: "https://twitter.com/Quantib"
-  followers: 774
+  followers: 773
 
 size: 11-50 employees
 yearFounded: 2012
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=MmbfaKF-wss"
 
-secured: "KPEtR1RZEKuzhwnwAiDKnWWL540TuU5RAL8W11zpNRLk+J3JxkeewtMbLmZhf6HtI6q0gm3TmOp7TayI9Jr4qV/Y3II62Ye1BUfKYkVyUvfn2Y7fM+bOfIMCjuqvPjTWPxKLBpvM+bmHVHwj0joOZ2NU32fqNsceG2dhwUGFySkZ+OH4d5LhAAci/YwoZOl8L0nnnUe8xSIYW4AdJq64nyd02iYwVavFeRtuWUNaKr1Rzlhj2+GvMDTAmXCuHj8SPv1KW4Zcty8CcmhHUYBQLHDLxF51nwIvPDmdMEd4DkLGGysF1h3DBJvHljrIKIvCaLp1mLbSuRyYkBP8AXRk9Cv5GxwpvtiA8+IJ/f+1YMTswCBGmDDbvpga9ztOGEfgY2gI1vFUHaGZmqQ3zSFung==;Bi096xERpS1s1URoi9K4hQ=="
+secured: "qo8VAR9yFGGz/4lXJX0f+o/QXWEhpx6nMjgtOzHiERF1gEOX2j6uElifvbbCbk0NXHoc/QsMAYT77PyyVyvW6EK1a2qssqeNgPTOzOrm3KXDL2nVFXSCHYURjNYhttkrJg8zSm+JTyUn/x87ZnqEm9kXb7j59q8R4NLfv/fEMA548LxNCtIvMoX0Ww22pPUV9uAWQC+ad05Y8gHLsMtS0HN/ZzE9Y5XgZofAQu8gr2rHWNrFUWM1Y482LBr8oXxgNWbSA3VOjSHrCUOsUy42PBgx6hu9tFuLmYdSEnmZkoAu79+HVJEkY5fFDweXrfdAADXQFei7bCkUg6zvoOcHY66d+cYqqhmElcE5IUj2QSvkbUtu8GidRy6BX8WJ9YCbrEvrP1dw3PqsNgOVOrmMWw==;oe7moUFh5zLkYHOaWmTDFw=="
 ---
 

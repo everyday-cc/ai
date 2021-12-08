@@ -2,7 +2,7 @@
 name: "Narrativa"
 overview: "The Narrative Clip is a tiny, automatic camera and app that gives you a searchable and shareable photographic memory. Support @NarrativeCare"
 type: "profile"
-heat: 65
+heat: 72
 
 website: http://www.narrativa.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "NarrativaAI"
   url: "https://twitter.com/NarrativaAI"
-  followers: 1152
+  followers: 1153
 
 size: 2-10 employees
 yearFounded: 2015
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Cztoxp9-4ZA"
 
-secured: "85rpYUPqphXRcTRTskA7+O1LtqM2bSvKjLbyEKEma39oIg6+X9sL6t+/W1kX1SVIfUL981nLkaUGsoP1cAJqY93w33yDWTPLiOyYwz8A8MLpsxM8G/L7lmriuoTGQoK2Y+cWtaEDz9zTsqITkjO9Fh3/Cg7Y23wVIyUPQRwKS1g4KEjl+M3dLzVW9yQuCNQIK7fqvzQUcW+gpVW+hekVEdbRpDdQF5QISn1lrUgukokjGCytz8ECer30EJzOlcp01VpDROdoMtyuO6En++irqvosKPq36Vd0h1uXeV9lAhEcu2Ap5l/bgwEkyUkIpHlFEOyQssDuNLbRgkqNU5DU2FBBSjYQS3kaAurxMtyGDFZyjU8nlKej7U+CkhB1emoSFxRYlwRyl9dO2tgiKAE9xwQ7YwD8bvNKTb8SeliWnJk=;5YLdrnxiV/kfHeFx2JsRJA=="
+secured: "1P+t24A8txjsOtONCLQDc0DMAS7WrW66TyDZZRj00Wu9aO3l4rRTUblR3xz7zBHhvLmngoMRnA1GQAvxUdymkKqudfihnU+ibayyyPG1WPwiDmVkb0lt/Hl+BmQBg6hWKcBKDDnhMLd7516Mg7MSSdpz6bB/sy3rh7avyigX5si1JsSXXvya07GqVlh1SU5LCWsJ/L/I5w/80+yQ8mwpT19Fu21LoVP4eaEGt1HL6KB2VnVqPjnB348RgINtpxHsjThtjGPbCLuA9eKDo7OpQJGO0ID01sPKmUF8SKy7pB3Hp4yQQ39h3lEM2rqkBO4FkTi/PZt/Le2/e4TLTkZW8WcNDpK6vbATYzmzVaPu7UY2Xg4TjY0DUrF4wL28fvf+Ecc8MREuxIHNeD4vWHCuKJ42D0tYDvP/vnUU7moQd6Y=;LsJ5OLTd5VR/KvivWHTFQg=="
 ---
 

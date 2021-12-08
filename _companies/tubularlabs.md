@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "TubularLabs"
   url: "https://twitter.com/TubularLabs"
-  followers: 3994
+  followers: 3993
 
 locations:
   - Mountain View, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Tubular Labs"
 
-secured: "58eoxxjZoiYN5YOxLayTbR+NTFK1m+7L1T4yjn1U0Hmg+d/wiMSH7WwJmZh5c4Intfb+H5zu0dt9OQvufJn9rbOxKPtqXGyc4zrx66TzR+tpp3LGwDPB8W+ZIT3NnbySTJuYmXdYpQ6bYwpdehEuR7AUaD8hRDMo3h34IzqOutJN6abAJeVk0FY3cdABUqS0cike4SRe843W1QM9XUY4aMhjjhSgFlxw9NPtlAiV3MmefgmyDHCAt6omS5q46PFCcHEK8yTDHMCJXHaxFUXpOxFlrvM63OFyLNBH5yUXcHN5jTTb1oKrpVSyXHQDDoW/MkX0aAE0T/BrdAIz+oH3yZs3CBWtf0rDi0jAHqe9yEVYQb2bKHby6UkuSsLppktjREnK3L9zqBj3gGLygeDxS78XBdaVN72kUwp6eYdIhAk=;iq35kPWsPEZgRldicI/nNw=="
+secured: "u7OL1My6wjrMxbdoOnZYTOexyznQQxLmoiz/lvAMHgKJnKuOo3fo3vHjzjQt3gvRbI7hInWIciKmTu231RtV9Ni+cjrS6hDdi9QehCE6l9+gxrimJIVGCx7UIBMMKeRvDO6cKk6F2hQiwTIkHlmQe88ttPMACEpENdAECoD5reQpyqJBnBHlpXuLrYzl+EY0ivnhuAYnRi3fxwpdTOwxXnaV1FxPltRF5WYxsvwnhj67ioiR/y+EAwIi5rj2woFFw2OUAbnd0IuwqYft/0hcvaB5yzpHQaP37dcBtllBvPRZATiiuEbn48yGeJ0hlrAHhHWNGq0yDmrVs8MkjeRDgB0fImJoiJs5g4UDwNTueR+3aFRtcX5oCFgA0xpgc6a2BkfXVqjwNjVpMD2bQ9EcnNu6xvmlLtRvv0OwWukvmZQ=;q9FNTN98ba7Vnq7eqPZByQ=="
 ---
 
