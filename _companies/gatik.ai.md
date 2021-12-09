@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "gatik_ai"
   url: "https://twitter.com/gatik_ai"
-  followers: 1001
+  followers: 1002
 
 size: 11-50 employees
 yearFounded: 2017
