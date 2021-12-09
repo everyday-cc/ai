@@ -34,18 +34,20 @@ related:
         height: 1333
         isCached: true
   - title: "Machine-learning system flags remedies that might do more harm than good"
-    excerpt: "Dead-end Discovery is a new learning model can identify high-risk treatments in urgent situations, and in some cases alert doctors when a patient is approaching a medical dead-end that will likely result in their death."
-    publishedDateTime: 2021-12-09T05:58:00Z
-    webUrl: "https://news.mit.edu/2021/machine-learning-treatments-1209"
+    excerpt: "Sepsis claims the lives of nearly 270,000 people in the U.S. each year. The unpredictable medical condition can progress rapidly, leading to a swift drop in blood pressure, tissue damage, multiple organ failure,"
+    publishedDateTime: 2021-12-09T15:25:00Z
+    webUrl: "https://medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.amp"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 53
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 43
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202112/MIT-High-Risk-Treatments01-PRESS.jpg"
-        width: 1203
-        height: 802
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-syste.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "8hKE1EgI4GZKhNy84mDwoz3EbVxOf0nVw1HJ1SFDFtQZWH+fn2BFV+trlFXOZuZfr6DWOrk2G5fv+DhToJ5DJsuC70HY8YDyXwmGjAwheGDApD3fj69txmSnMFiUwWTnKgoBICS+jR68TZzaCCb/0UhhamZHTIlaNI/W0hcD8ezR7ShCUOE01ZFNKZATqJbQdekG5onnFP8FyNLFO8t35i1o6JZEuHHrTohHRTR2TCIwLuYP4eJNcq9XXc0HcPPQWfSv2JGubOw25B9vk2WCrOTOqAAHMvheWxkTgWMBpVcIUtqEC1EB8cnjiLO2Q4tW0z5ZHaFkrFORY5qhNmM/66XLijaJGVwj3sejruWkURGULZ5fZNb3pTQQ+ps9sXPbwKasMwiiwiglMSWxj05Er8YjWE0nLVAd/XbI357mtg23CLfx1XTTZlkZwphJAnX+GTf4RjOtw+9GfAcLrO5e3wwJbOh6wR0+J/wL7ArSmmn5sAilPi3QNo6qXQ+lCKD2xTYBe/MBVfIfrfh3nwzfPA==;PV0+QMZoL9BrSq2Fx9QyMg=="

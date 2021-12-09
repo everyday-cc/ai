@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/12/211208165159.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/12/211208165159.htm"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ topics:
   - AI
 
 related:
+  - title: "Teaching Artificial Intelligence to Navigate Oceans Via Ocean Currents"
+    excerpt: "Successfully navigating the oceans has allowed humankind to explore the world and make countless new discoveries that have contributed to the advancement of civilization. However, pinpointing exact locations and wading through ever-shifting tides and currents has always been a challenge."
+    publishedDateTime: 2021-12-09T16:20:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=12651"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12651"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12651"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12651_16390666931378734.jpg"
+        width: 333
+        height: 499
+        isCached: true
   - title: "Engineers teach AI to navigate ocean with minimal energy (w/video)"
     excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are developing an artificial intelligence (AI) that will allow autonomous drones to use ocean currents to aid their navigation, rather than fighting their way through them."
     publishedDateTime: 2021-12-09T09:42:00Z

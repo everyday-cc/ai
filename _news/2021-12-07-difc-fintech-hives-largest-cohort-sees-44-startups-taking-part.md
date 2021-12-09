@@ -35,6 +35,20 @@ related:
         width: 680
         height: 400
         isCached: true
+  - title: "Customers' Expectations And The Changing Fintech Landscape"
+    excerpt: "Digital lending is proving to be a viable alternative for reaching individuals who have previously been unable to obtain financial services. Innovative products can overcome geographical barriers, make services more accessible,"
+    publishedDateTime: 2021-12-09T12:56:00Z
+    webUrl: "https://www.linkedin.com/pulse/customers-expectations-changing-fintech-landscape-danijella-dragas"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQF2ox9U5UEbPg/article-cover_image-shrink_600_2000/0/1638885389417?e=1644451200&v=beta&t=FkrJKXuaSd8q_t-c1sd4JsgG1RnJn0qdZ0tmqB56kic"
+        width: 675
+        height: 380
+        isCached: true
 
 secured: "ypV7fCe9Xn04da2COt6gNT729t0rgv5RQ5UIbvyqFl8umRnIxZLyjuIU5IQHpNORwbZcgLBfLsjyW37sxZ7E2N0a2BhxXvya/T4H1DEu+d3RLjIC0QqezEkp8XD0UzuLMJyKB22cdLDadvgGfBelbok/La+tsJQIZzGi6fhfPJbvttUOiHAEZlBvRlbcGRdaP8jqW/bVJZn+8vHzLNdieDbhr+nozjJOQPO7jYFFx9RZyxnRMPoLfveZvYqQy7nPeSQuq3+4xRC/0S4DN/D+dRzZlxI1zsWEMlXq+AKWXnRH+2pS49RzRUtfu6lwIncfbz7CRBGcl7zW2uqR8Xp3FQTKZPcGlEmL77rWVad2BvU=;9k6L9gJV+3Q/EXbhmA0QGg=="
 ---

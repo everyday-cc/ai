@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft expands Azure Space ecosystem"
+    excerpt: "Microsoft offered further proof of its intent to play a growing role in the space sector by unveiling new Azure Space products and announcing partnerships with Airbus, Kongsberg Satellite Services, STE iDirect,"
+    publishedDateTime: 2021-12-09T15:40:00Z
+    webUrl: "https://spacenews.com/microsoft-azure-space-new-partnerships/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 54
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2021/12/rsz_project_turing.jpg"
+        width: 879
+        height: 349
+        isCached: true
 
 secured: "AscaqVHsSyI26UA1+iEJ78pVmca8YxiZX8S9UzUQjGgNLDxguYh5mqVNOzEP2mpJ6JRtLj7m3PNUY1QKpIkHuXq3ibfpftxJlzClPX/ddbplUxlZ5hPJ1UPh7oOo1hPqtwGc3DjMON7eoqxntW+31woTnWg6uMK2hX5FD74S8qFlEbJR7pYKHr7pX9JZlYi5+9hXNo3g3wJ8AJG1WuofSA9OgObTQWdLspdMC8HLJan9OIunQBCIBscHHf1mWxHX1Gx11r8mvjDrnanqvxWS/UN2xuvl3NbAx8PgkfcuzCxJIPwQP7TE4abz4GV36pgOB9WuvukBIurRV9Pz+oqYqamJXznDj7caRwMM7TfZKsAh9LtBCTg3PuxmTfM1l9BlXTFidq7xd/QEYMvYBaloUM0x36F55Mdd81gHpn8xeayUfopwbI9zfttaSsuZwAHtP4E1PG2FNopS5fylrzcbrkzRgQLFtzg7ZZUFHUyUHoLLHKv07/2pv98sNp0WmVuRTCZPXtIHWIzON8Tv+9t5dA==;rJbV++/3d04Q0pYpOb/jnQ=="
 ---

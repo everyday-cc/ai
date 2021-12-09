@@ -19,33 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "AI key in education upgrading, Education Minister says"
-    excerpt: "China will offer more policy supports in artificial intelligence education and push for deep integration of AI in education and teaching, Minister of Education Huai Jinpeng said on Tuesday. The country will use AI to promote life-long learning for all people and push for the digital transformation,"
-    publishedDateTime: 2021-12-08T12:23:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202112/08/WS61b0a3caa310cdd39bc7a2b0.html"
+  - title: "RSIP Vision Presents New Technology for Non-Invasive Planning of Coronary Intervention"
+    excerpt: "RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, today announces a new coronary artery modelling technology. This technology enables quick and accurate reconstruction of the coronary vasculature during angiography into a 3D model."
+    publishedDateTime: 2021-12-08T13:06:00Z
+    webUrl: "https://www.valdostadailytimes.com/news/business/rsip-vision-presents-new-technology-for-non-invasive-planning-of-coronary-intervention/article_ed0db733-928a-52e9-b906-02f0014074cc.html"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 56
+      name: The Valdosta Daily Times
+      domain: valdostadailytimes.com
+    quality: 16
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202112/08/61b0a3caa310cdd3d81f8c88.jpeg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "NTT West Uses Kyudai AI Tech For Education Trial"
-    excerpt: "NTT West is conducting a trial on improving education quality using a Kyushu-University-developed AI system. The Learning Analytics program evaluates each student’s level of understanding by viewing digital resources"
-    publishedDateTime: 2021-12-08T01:16:00Z
-    webUrl: "https://www.fukuoka-now.com/en/news/ntt-west-uses-kyudai-ai-tech-for-education-trial/"
-    type: article
-    provider:
-      name: Fukuoka Now
-      domain: fukuoka-now.com
-    quality: 56
-    images:
-      - url: "https://i0.wp.com/www.fukuoka-now.com/wp-content/uploads/2021/10/img0987.jpeg?fit=1400%2C933&#038;ssl=1"
-        width: 1400
-        height: 933
+      - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "q3bdT4/IRNUROE4hPoXkym3SZXVp1gxHVkWyaBRVlLhZBJMHnxk2056R76eXFOYZuH0m4/iLwYcqbqzH2NLxcfXS1CSIsmj8EzC5FIxMkddyT5lzm23mIQcN0Tjnsiym3OitwNU+Y25a+FD8dO5CRQKp/hWZa4cwe9huoPaAuxXK12YBGUM06FJflY0Z0+WbYsKncg4a+ULdUl6SbTxp9fafTOWQE9sssdtuMY7u0EOHtFtZddCbjkUvLtwHFXtldP+GcWP0kJShYj5KLX0zky+Fzh9OILV8/CQ30oAEJj5LRu1i0zzufePVGfc7B8/wa6V6h5HE7YGy2hSDKo+r71oDfpXvyQPpTJF7JB1Vf7I=;PpNu2VO7wNpYFB2WdPHikQ=="

@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "DOD to create new chief digital and AI officer post"
+    excerpt: "The DOD will create a new office to oversee the JAIC, DDS and chief data officer to centralize its innovation efforts."
+    publishedDateTime: 2021-12-09T15:49:00Z
+    webUrl: "https://www.fedscoop.com/dod-to-create-new-chief-digital-and-ai-officer-post/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 37
+    images:
+      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
+        width: 629
+        height: 607
+        isCached: true
   - title: "Pentagon creates new digital and artificial intelligence office"
     excerpt: "The position is meant to streamline disparate efforts within the department to drive faster innovation and capabilities with China in mind."
     publishedDateTime: 2021-12-08T23:01:00Z

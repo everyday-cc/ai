@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Machine-learning system flags remedies that might do more harm than good"
-excerpt: "Dead-end Discovery is a new learning model can identify high-risk treatments in urgent situations, and in some cases alert doctors when a patient is approaching a medical dead-end that will likely result in their death."
-publishedDateTime: 2021-12-09T05:58:00Z
-originalUrl: "https://news.mit.edu/2021/machine-learning-treatments-1209"
-webUrl: "https://news.mit.edu/2021/machine-learning-treatments-1209"
+excerpt: "Sepsis claims the lives of nearly 270,000 people in the U.S. each year. The unpredictable medical condition can progress rapidly, leading to a swift drop in blood pressure, tissue damage, multiple organ failure,"
+publishedDateTime: 2021-12-09T15:25:00Z
+originalUrl: "https://medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.html"
+webUrl: "https://medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.amp"
 type: article
-quality: 53
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Massachusetts Institute of Technology
-  domain: mit.edu
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://news.mit.edu/sites/default/files/images/202112/MIT-High-Risk-Treatments01-PRESS.jpg"
-    width: 1203
-    height: 802
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-syste.jpg"
+    width: 900
+    height: 600
     isCached: true
 
 related:
@@ -53,6 +51,6 @@ related:
       domain: nanowerk.com
     quality: 19
 
-secured: "xXhcMPMKXsdA6Gcj0VzqVDgUzPvH+e80pHoCdR4GBY985NkPILJAIL8ejEuWHM+L3kpY0w9+OvE2QO6gHItjdlAbfoi8ns9tWhjFC4mFw1A5YCmycFXFMKbLhsQoGME9v4ojXgZCVH+0Ae/wlQ3cNibewKrqyu0dOarnkKvcpwfrSSYrifyoxJfI4rDkkuv9pGy7+D3yvyzAp+y3cMludfMhqm41Uppz6VqZ8xRQnuqzqyYQFlSgsLR16EP4OTwfQ/Do1UNhsJgbA/bBOZcdocUfXrnsOceeRlPznZ9VpREXys6K5a7b5dbF2Eg99ii1QWR7YqV7gP4WYMe7evMXzo9uIYuuArUYR0IrzjnYPAm3wnHjFiNaQ/nrsqx6m64IySQztEg6thfURKljVtUiZ82z0+a7gyXlxl7LZV9hOS/0GSwQFWrR9W3jq3iXun4gcV/JePWW+Jca0MncVLbe+iTEP0CQA9ssXnpmljCRsRw5mRX0wlJW0J2SAHVX/loq/cxAiGk/wyWJJ8kR/5PR1Q==;2IrQvsLcIkV1Br/mOuJ0LQ=="
+secured: "z/YeHmANl5kEcb8F/Ws3f4h5HEnSCPCiC2jl4+5mIoGLC2bj6TET/KshhTPkOVVXfPrHNJ+hDxNgrbN0CNDlCjnahWvEsJzkW8EWhAUVRWjqJHCyCjYmzf2KKlBtNSAUde0UPwofWyIz98KgTIZbNJStyeSS9gQF0WF0gFYPsX2B+4aHX96b2vT84PHiOYXQlgYfdB/CJchPntLbdV88vlE/aShxVFQfAUIO+B3X3omyq/Oq9QYJ5Ui6Mb/3fB0ThTOYgShrprqpVGbN2A2P27XRiuptxCQ7MwehqDxVNW01fz36Pgg7XbxM1b7yjCwAXFdcoHlpWHJ2RpHC6iuCoxIrFvOU1iqdrE7bP2h+KGM=;ar0oNCzLb5IEzqrWGbuKCQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-spot-ai-gives-away-free-ai-powered
 webUrl: "https://www.tmcnet.com/usubmit/-spot-ai-gives-away-free-ai-powered-ndaa-/2021/12/09/9508560.htm"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Spot AI to give away free, NDAA-compliant cameras"
+    excerpt: "San Francisco, CA - December 9, 2021 - Video intelligence innovator Spot AI announced it will give free AI-powered, NDAA-compliant cameras to any U.S. business. Due to security concerns, Section 889 of the NDAA for FY 2019 bans the U."
+    publishedDateTime: 2021-12-09T16:03:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/press-release/21249616/spot-ai-spot-ai-to-give-away-free-ndaacompliant-cameras"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/12/spot_ai_logo.61b226109b402.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HCa+5pkQelwhHkBP+vxPoL8XhSuhXLkTxuV7wqS1ENUv/gcRWJkpO0NbefB/P5CE9hDSxlqC1n4NXsSqHZMkXl7VJWQLrIeCeXhFRnEDkjOPjAHGIpx7SNoMuXaxmMnWpWjFThNoIJABjMQH+1N/ost2JrMm45QX35VCzDJYayguOyYKz/ECH337ngAXPYoicItX1J3ymGLrnuO68/1qAJill8AtzQOPtS8AKaIDH/rfFN0uDErRs2TA+RlD4aOMSzCyZpjDbVMXDIW0GJyFlCACoVUfZzFd6u0+CcCwGjXXcbFCsu9lQYp5Jq3qKvCHtYgP5B9CsopdgyHnYPZu7LZq61LxPQDU0RCYftICWCQ=;1GkkRhqS8czcXFEuJYvmlQ=="
 ---

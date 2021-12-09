@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-details-its-next-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
 type: article
 quality: 117
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft expands Azure Space ecosystem"
+    excerpt: "Microsoft offered further proof of its intent to play a growing role in the space sector by unveiling new Azure Space products and announcing partnerships with Airbus, Kongsberg Satellite Services, STE iDirect,"
+    publishedDateTime: 2021-12-09T15:40:00Z
+    webUrl: "https://spacenews.com/microsoft-azure-space-new-partnerships/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 54
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2021/12/rsz_project_turing.jpg"
+        width: 879
+        height: 349
+        isCached: true
   - title: "CVS Health and Microsoft agree new strategic alliance"
     excerpt: "Healthcare provider CVS Health and Microsoft have agreed a new strategic alliance to develop new healthcare solutions and provide 300,000 CVS Health employees with tools to serve over one million customers."
     publishedDateTime: 2021-12-06T16:11:00Z
@@ -60,6 +74,6 @@ related:
         height: 443
         isCached: true
 
-secured: "qXKQinb+vRAPqxVCM6B4vUGRBfrzo9PfTX5Uj9+kOTB7MC7x4daBk7xS+I40mwcJ8oSv9qobSG+tP4jSIYr1eXRKb1WnXfgZcGYYe+dVnuy3VBXcAoDBDZIDwfZIO1LnpbfqCt9GCCliwRovKOU+6NgpR3KiZuB794Y0q3LSlEXGXbIIzpN0E598s191ig1WsOBDkVwbkc5KOBq/Z3lgDTS3pZHsLpuB4kizwrwQPtWSeoA8k7iRj2V1+fWHrI76O27vPFhbcDlij0iDdi9yFOZBsI19IXL2rq227j4USheizMzzOYOByXkc4055dFcNyxUVFFu3DbZzy63uIQzKFWOxHiQTWvQxYpzpIlE0Yuk=;yhrt7+l+clHwdfb27GXAXw=="
+secured: "ZoA3Gi/nurEwukM76aQe9rfExrm2+zWIGYTlCodFZ6IoM6FZ7vWfvs4smglosoMKjjwP0dBdHsngOAB3D3oLwzp2HQAilMiQsubloUKItBVGkiE2KE5ZaYvPAm3WfXen/0cayL5TDmLZ7FORBRGTJxfhiHiElylr6NToKF/NCz5SjBN9U2LB0RMZi24std+Thzu46DEpyOlpcKJx3n1d7mU+ohoFCmkshw/UXRya0acWLNhNd1ptLrK10dtSxIoY2UBuOMGYHa7YLeCAFhsGM77yYtN5wtNwC+YTyoEeNnZfvEoynirTaWcJCakMgPimO/y54VQZuMeXLurUT/c4DqPnTg5KYaeeJwwwWtfrenjszluS//K5SDLUjn/1ysubWam0sjrQ7Qpg2uWGQzf9SXvxPmuo9Hn52f/+wBAQ2h8S8ZTpt58Z/+G/zR8TT+MQpFQu1g5k3XRfNLe1rQmP9F5DGflLGMjsv1yZjFXdAhi+L69srC0IrQG3eFCBuByW0ygUlV55BxYtCPN/aM/tqg==;qnFe6KMNVVaONhISkG0fug=="
 ---
 

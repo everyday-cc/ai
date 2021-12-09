@@ -7,8 +7,8 @@ originalUrl: "https://www.chinadaily.com.cn/a/202112/08/WS61b0a3caa310cdd39bc7a2
 webUrl: "https://www.chinadaily.com.cn/a/202112/08/WS61b0a3caa310cdd39bc7a2b0.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: China Daily
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "How K–12 Schools Can Use Artificial Intelligence in Education"
+    excerpt: "What role will artificial intelligence play in the future of education? For educators, AI can feel like an exciting development — or a terrifying unknown. AI technology is advancing quickly and creating solutions once thought impossible."
+    publishedDateTime: 2021-12-09T16:19:00Z
+    webUrl: "https://edtechmagazine.com/k12/higher/k12/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon"
+    ampWebUrl: "https://edtechmagazine.com/k12/higher/k12/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp"
+    cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/higher/k12/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp"
+    type: article
+    provider:
+      name: EdTech
+      domain: edtechmagazine.com
+    quality: 74
+    images:
+      - url: "https://edtechmagazine.com/k12/higher/k12/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/GettyImages-1220250522.jpg?itok=y0r6bHRt"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "NTT West Uses Kyudai AI Tech For Education Trial"
     excerpt: "NTT West is conducting a trial on improving education quality using a Kyushu-University-developed AI system. The Learning Analytics program evaluates each student’s level of understanding by viewing digital resources"
     publishedDateTime: 2021-12-08T01:16:00Z
@@ -40,15 +56,6 @@ related:
         width: 1400
         height: 933
         isCached: true
-  - title: "Baxter Presents Data at ASHP Meeting Indicating Machine Learning May Enhance Infusion Pump Programming Safety"
-    excerpt: "Baxter International Inc. (NYSE:BAX), a leader in innovative technology for medication delivery, announced new data from a retrospective study finding that machine learning, a type of artificial intelligence (AI) that uses algorithms to find patterns in large amounts of data,"
-    publishedDateTime: 2021-12-08T13:30:00Z
-    webUrl: "https://www.financialbuzz.com/baxter-presents-data-at-ashp-meeting-indicating-machine-learning-may-enhance-infusion-pump-programming-safety/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "enoaze1+jx6mzVyCcEG5gWEONgwttDAcgLoR+X5laJR6rEUvuHFSpJcCwS9vCKu+Sm8TxonEGZEHY7ZUGd3C9iOSaHRBqIo84NufBDkBekgVYkrqSpqWhDkdcInVKHFXAXBZWVSjNRCiU0xs/Z5GlsEzFXIw3Y8TvIN/Fl7/y8cCksdRdd+eM/xAFNjvYHVnWD58c2JUt2gcIlZIT0mJr2Slo7UWn97D30w7Fc2Qu9aO6V7C17jduAYMMchlPaBwPnPRTY0EnpewUmDFuyh6Y7TSAmtlUAam8iwYniydpgk+cu0PNqnuTtAWsqdhDjFhRKqBZc+lnWI7DN++1JWc4QOk9EHjgLkjCR69Uz7Un54=;dbcIyyGiNgm/cXlOoAJaiw=="
 ---

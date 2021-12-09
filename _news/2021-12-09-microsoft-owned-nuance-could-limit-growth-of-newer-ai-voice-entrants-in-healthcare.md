@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Microsoft expands Azure Space ecosystem"
+    excerpt: "Microsoft offered further proof of its intent to play a growing role in the space sector by unveiling new Azure Space products and announcing partnerships with Airbus, Kongsberg Satellite Services, STE iDirect,"
+    publishedDateTime: 2021-12-09T15:40:00Z
+    webUrl: "https://spacenews.com/microsoft-azure-space-new-partnerships/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 54
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2021/12/rsz_project_turing.jpg"
+        width: 879
+        height: 349
+        isCached: true
   - title: "CVS Health and Microsoft agree new strategic alliance"
     excerpt: "Healthcare provider CVS Health and Microsoft have agreed a new strategic alliance to develop new healthcare solutions and provide 300,000 CVS Health employees with tools to serve over one million customers."
     publishedDateTime: 2021-12-06T16:11:00Z

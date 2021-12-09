@@ -30,18 +30,20 @@ images:
 
 related:
   - title: "Machine-learning system flags remedies that might do more harm than good"
-    excerpt: "Dead-end Discovery is a new learning model can identify high-risk treatments in urgent situations, and in some cases alert doctors when a patient is approaching a medical dead-end that will likely result in their death."
-    publishedDateTime: 2021-12-09T05:58:00Z
-    webUrl: "https://news.mit.edu/2021/machine-learning-treatments-1209"
+    excerpt: "Sepsis claims the lives of nearly 270,000 people in the U.S. each year. The unpredictable medical condition can progress rapidly, leading to a swift drop in blood pressure, tissue damage, multiple organ failure,"
+    publishedDateTime: 2021-12-09T15:25:00Z
+    webUrl: "https://medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.amp"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 53
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 43
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202112/MIT-High-Risk-Treatments01-PRESS.jpg"
-        width: 1203
-        height: 802
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-syste.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "Machine Learning decodes the tremors of the Universe"
     excerpt: "Researchers trained a neural network to estimate - in just a few seconds - the precise characteristics of merging black holes based on their gravitational-wave emissions. The network determines the masses and spins of the black holes,"
