@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AutoML Market Revenue to Surpass $14,830.8 Million by 2030, Says P&S Intelligence"
-excerpt: "The cloud category dominated the AutoML market, within the deployment type segment, in the past. Moreover, this category is predicted to grow rapidly in the forthcoming years on account of the ..."
-publishedDateTime: 2021-12-06T09:50:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54671959-automl-market-revenue-to-surpass-dollar-14-830-8-million-by-2030-says-p-s-intelligence-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54671959-automl-market-revenue-to-surpass-dollar-14-830-8-million-by-2030-says-p-s-intelligence-008.htm"
+excerpt: "From $346.2 million in 2020, the automated machine learning market is predicted to reach $14,830.8 million by 2030, demonstrating a CAGR"
+publishedDateTime: 2021-12-06T09:45:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/automl-market-revenue-to-surpass-14-830-8-million-by-2030-says-p-amp-s-intelligence-883853650.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/automl-market-revenue-to-surpass-14-830-8-million-by-2030-says-p-amp-s-intelligence-883853650.html"
 type: article
-quality: 14
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1224988/P_and_S_Intelligence_Logo.jpg?p=facebook"
+    width: 1498
+    height: 785
+    isCached: true
 
 related:
   - title: "AutoML market revenue set to surpass $14 billion by 2030"
@@ -50,6 +56,6 @@ related:
         height: 350
         isCached: true
 
-secured: "CzMgXkpX/bsehXNDo6yeTmq1YeNybt145QTmXwe0jpQpiUgn3KVsCy/YGoEA3LXmYutUGSYpjx22BVKIsacrz56E2J2r5dnCbtFGWTCgfwayI5gw0IUkElm5Ks6oPGPgbCHZRXk1pW21soI6MsQwNnlxoa0XffEmFSGZdqbFZsIhoX9jXz8AcoYFKjb3g5qkNyhFKJKxQUhE3p0ns0apNcKzGEXTwqhFiyHi+0q+vCy1ESDMhq24ZnuUyYG+eU2i8OtX0N/9qKJ+T3X8WysTUs//+Rtir+y+4uZOMXzNdhUtrqXziSSZzAvta9DN3FUbBmu/SMHoGOlD2WGiF8xC/+V7aWybH7MzqCoeTkGiIWI=;h1BWddZxpAIoayRj64mbyA=="
+secured: "XTiG4f67i6NIkDlieHTYXMJjFo/hgz/2g7ZbPRF/auvA2G/DCvkPqbCJl0+ErocjmPrIFqEYAaR65b0HDOUeY9v2UpcV7DOAGP0aMOKdR6VO3PH0EKomG+v2kCQA+TMpuSjVHX0ML521+z/0/exifrn2qHiBxIYAn9AFphxap91XOBBIP7DXRzlRCFviscsO8LrsZIT16LoXN248pzkMcGYgWTaON6FhHOu5n05FU1jx+QJsU+sMh1P+Hgh7esODm/xn86vHobv8g8tbXsmxBZRQ7hQvbTRZ3dvCjHiKexkafBbikaW9UZSGzbPhuiHHo39fkNMXQ6/mLLfxk7k9hMStFSWd53woQd+1SovG0Mw=;APLZDjm/XxrxFQHR3F1pGg=="
 ---
 

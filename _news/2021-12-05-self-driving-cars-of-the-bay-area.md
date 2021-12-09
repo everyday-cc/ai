@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
+    excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists. To achieve this,"
+    publishedDateTime: 2021-12-08T23:46:00Z
+    webUrl: "https://www.malaymail.com/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
+    ampWebUrl: "https://www.malaymail.com/amp/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 55
+    images:
+      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-12/0912_argo_AI-seo.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Beyond Expo | Self-flying cars are closer to being realized than self-driving cars: Geely executive"
     excerpt: "Despite regulatory barriers and ethical issues, self-flying cars are likely to be ready before autonomous road vehicles, Guo Liang, chief executive of Geely-owned Aerofugia said at the Beyond Expo event held in Macau on Dec. 3. The movements of unmanned ..."
     publishedDateTime: 2021-12-08T12:18:00Z

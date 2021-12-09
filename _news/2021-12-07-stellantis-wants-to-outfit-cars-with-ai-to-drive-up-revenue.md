@@ -3,10 +3,10 @@ category: news
 title: "Stellantis wants to outfit cars with AI to drive up revenue"
 excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
 publishedDateTime: 2021-12-07T13:45:00Z
-originalUrl: "https://apnews.com/dd09c1d97485e02a7d33dc0b426b2001"
-webUrl: "https://apnews.com/dd09c1d97485e02a7d33dc0b426b2001"
+originalUrl: "https://apnews.com/article/technology-business-software-dd09c1d97485e02a7d33dc0b426b2001"
+webUrl: "https://apnews.com/article/technology-business-software-dd09c1d97485e02a7d33dc0b426b2001"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -43,15 +42,15 @@ related:
         isCached: true
   - title: "Stellantis wants to outfit cars with AI to drive up revenue"
     excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
-    publishedDateTime: 2021-12-07T23:34:00Z
-    webUrl: "https://www.chron.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+    publishedDateTime: 2021-12-08T01:44:00Z
+    webUrl: "https://www.mrt.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+    ampWebUrl: "https://www.mrt.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 57
+      name: Midland Reporter-Telegram
+      domain: mrt.com
+    quality: 59
     images:
       - url: "https://s.hdnux.com/photos/01/23/11/55/21797705/3/ratio3x2_400.jpg"
         width: 400
@@ -158,6 +157,6 @@ related:
         height: 600
         isCached: true
 
-secured: "g2O0mi+ntdzzi8m80sotantZJQgNUs3cRxAN1dYO8l3C1AONnNPpF7RZ8FskS2GNmQitGhg96mAqER1cfcKMIxUgMubi0dQEfgCF3UVVSfSU1TOwYhM5YNAuB2/UUrpdLPktB57HqvtqQNAobt9PH+46ZDgYb5jYF+qkHdGQJd4ke0/75ybAKO4z6fAJ800uY3G4ePZZ0l6VaIGfHIuKcAafIKpTDAf901osGC420mT5m9w21BI0KXK/cwVyImkgkGxZf5f4Xo4HQHVQ+RSqIVv+sqW+asNPOF6D8SJu8J7uV32ws6xs6Mjclh+wothWJi5R8GeJa+anweOmNioMYS+Seh2C25pwRwy6kuoH4iBjv296MjlSWD9eKSkqgIaZG/IxHtv0hur6RfXe2PgvvSqd2PXVjyzJu1wYyp9+fOAG+0XxqlMQnaQlX0CX+0CIDbw7vLdgc5NNlNCfmZj09oFLMHpoO641oHw1HTsan1jJR8p+LRHN3HkxuIl5moSDu47nHwy4rPDE2yOx2xoL+Q==;nCOMWsEJAsVgtcqgVVXO8Q=="
+secured: "ForAiLUPjVq6WJK8iADemyUlvSmpz99qzCtb6MUyL4loo9I5waRR643ntA0Pz8cOx7Tz5uSmB4kWcX0/8TtGAd4dEE42huUnhpyFQVQH+S1jDf4qGBOxftqrFgkEbwU5NwGpGTYhNugk7w5VT2EyiLwNab9cqmJaajKG0uGjhgUduv+0F1yGKk7ACWupFkttwVjzxM63vYIJ/iEVD6w3OZlX1pCbYuuRp1Iq25IWaInBfnTtYGtDblGWo0nBIXA7U12D/QfUuytBk3GuTioAeLjzhAUejT/STDGhQGSu0V/ZHYDtWEhy/lgzKdFWLMtXDwOv6cV7ZF4ZwcvLYFIEuDq8vGiLFrvNNYZ5NezAE58=;4eM3vBLev0AEvOdebiNL4w=="
 ---
 

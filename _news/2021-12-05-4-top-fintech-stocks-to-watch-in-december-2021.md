@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-dec
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021?amp"
 type: article
 quality: 54
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "Best Stocks To Invest In Right Now? 4 Tech For Your Watchlist"
+    excerpt: "Are These Good Tech Stocks To Invest In Now? Tech stocks appear to be a key focus of investors in the latest stock market hot streak. This is apparent as the tech-heavy Nasdaq ind"
+    publishedDateTime: 2021-12-08T19:39:00Z
+    webUrl: "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist"
+    ampWebUrl: "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "How can banks still thrive as fintech meets 5G?"
     excerpt: "Digital banking in Thailand has taken a big leap forward in recent years. According to McKinsey’s new Personal Financial Services 2021 survey, which covers approximately 20,000 urban banked respondents in 15 Asia-Pacific markets,"
     publishedDateTime: 2021-12-08T11:45:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Intel to launch IPO of its Mobileye self-driving-car unit in 2022"
 excerpt: "Intel said it would take the unit public in the U.S. in mid-2022 through an initial public offering of new Mobileye stock."
 publishedDateTime: 2021-12-07T01:39:00Z
-originalUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?dist=bigcharts"
-webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?dist=bigcharts"
+originalUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos26"
+webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos26"
 type: article
 quality: 54
 heat: -1
@@ -121,8 +121,8 @@ related:
         isCached: true
   - title: "Intel to list shares of its Mobileye self-driving-car unit"
     excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
-    publishedDateTime: 2021-12-07T00:33:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=family-finances"
+    publishedDateTime: 2021-12-06T23:33:00Z
+    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=amy-hoaks-home-economics"
     type: article
     provider:
       name: MarketWatch
@@ -236,6 +236,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 4
+  - title: "Intel to make Israeli self-driving car unit Mobileye public in US"
+    excerpt: "The deal could value the Israeli unit at more than $50 billion.The post Intel to make Israeli self-driving car unit Mobileye public in US appeared first on JNS.org."
+    publishedDateTime: 2021-12-08T13:37:00Z
+    webUrl: "https://www.clevelandjewishnews.com/jns/intel-to-make-israeli-self-driving-car-unit-mobileye-public-in-us/article_4f0595ae-b269-59e5-beb0-91608382d6b1.html"
+    type: article
+    provider:
+      name: Cleveland Jewish News
+      domain: clevelandjewishnews.com
+    quality: 4
   - title: "Intel to Take Self-Driving Car Unit Public"
     excerpt: "The planned listing of Mobileye is Intel's latest move to revive its fortunes as its stock lags behind rivals such as AMD and Nvidia."
     publishedDateTime: 2021-12-08T01:55:00Z
@@ -246,6 +255,6 @@ related:
       domain: cfo.com
     quality: 4
 
-secured: "NDYD5uZTD5FqBQJjHwmj78Xw7S7QVddX6C+zTEd+JWJbOCqjKcaPbTMzY4WvsPWti8D7RphfaHlt4QCjLSSw1X17I0zfUIxjnlytrWazFi38XIsdBP34vJJ2UumlzFp+GdUA4rIY6Dp+ACb7OXM35QX/04bZosiCdFkXLTPfUMGsDUzmUp6bg2cfCjrKdbOOcTee/UcbEvF0HW2OB9+GHCwga5p6NeHH6qRUu5suzU53CC9i88b+fKwG5u+BOXvxwiGPX5I0L+g5o5Ke97vGkekFRoNHSJ9AAY80Sq5c7QqOkncYHQsbGWm8TjfD/WvCzsXR5w2A26zO1XS3LCzJ+qp5QnNZmVvvNHVEqvt8ormh9l/6uGOif1FqnQXUYjVceo10CCacZ0ZI+ZvhJfx0S7A5mBo7ehAxfOAM/wBkxIbRcecBHzHZUD9/ulvylVFuoU4t9iizHIk/3dpgIwkKsqaPrvlSxA+abHZm2W5+6Fwg1t7hiYGRSi+tZGbNwZDI6yVAviLLIskEtZCCVkHEqw==;KLHM0MPlTCMg0y71p06HAw=="
+secured: "gVcSB+hTM91S2dHlwQCwbS2jPJEsHrMNaYOlUG5/c/Rbbx3XXsY/X1jio06r/bi5abiyoMSU4LuQk+NcKD5OpsjQez1lZQZ0e10ZMxu94s5JA8Dl0c1Gp211Daoh/kLC09h0fwgqfdqAu0sgrzaO2yGmRd/yDJgYTKqZdjiShVzmFOPnqdaNbky42ZTMzRWFUTeQugf3WfHMGPaA7TshVG0OTDArMIB/Gg2fXuUO4cBxUhpNOGq/DkF31GK4EZH/Kyk6KiIix+SwyNs8/4SeJIpNyBwuRxwAcZ7R5gik1afSTiNSMLn9MqlPHSqH5cmiWCk11xHMLtrx51R5Ajt05e64lF7EWbELC9Aw5Wvm6fA=;VhyHrll5IBjSTk01Y4rgog=="
 ---
 

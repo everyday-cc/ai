@@ -82,13 +82,18 @@ related:
         isCached: true
   - title: "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO"
     excerpt: "MemryX Inc., a pioneering startup building breakthrough silicon for artificial intelligence processing, has appointed semiconductor industry veteran Keith Kressin as its new president and chief executive officer."
-    publishedDateTime: 2021-12-08T12:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-chip-innovator-memryx-hires-veteran-semiconductor-leader-/2021/12/08/9507094.htm"
+    publishedDateTime: 2021-12-08T12:47:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-912264e07f5e4e71816f504584dd3f2a"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
+      name: Associated Press
+      domain: apnews.com
+    quality: 49
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Chip shortage to ease next year, says Qualcomm CEO"
     excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the situation is expected to improve next year. According to The Elec website, Amon said that supply has improved this year over 2020 and the situation is expected to further improve in 2022,"
     publishedDateTime: 2021-12-05T11:26:00Z

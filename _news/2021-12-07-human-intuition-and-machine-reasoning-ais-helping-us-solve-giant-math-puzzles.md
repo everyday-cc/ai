@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/human-intuition-machine-reasoning-ais-
 webUrl: "https://thenextweb.com/news/human-intuition-machine-reasoning-ais-helping-us-solve-giant-math-puzzles-syndication"
 type: article
 quality: 84
-heat: 96
+heat: 94
 published: true
 
 provider:

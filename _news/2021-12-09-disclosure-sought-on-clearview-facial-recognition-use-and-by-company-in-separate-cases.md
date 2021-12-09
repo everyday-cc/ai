@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-08T21:44:00Z
 originalUrl: "https://www.biometricupdate.com/202112/disclosure-sought-on-clearview-facial-recognition-use-and-by-company-in-separate-cases"
 webUrl: "https://www.biometricupdate.com/202112/disclosure-sought-on-clearview-facial-recognition-use-and-by-company-in-separate-cases"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
@@ -200,6 +201,6 @@ related:
       domain: business-humanrights.org
     quality: 12
 
-secured: "miLaK8/gvSEb4AxiLCDmHxrEjEYU8NM3y1kLmsEfGMFuSUbYZ6EF8iHT6euE4CQVqgdlBf7jpZ5UZQnqwzMx6enMPII+u2eOFTDs0/VXW6b/L4EVxGwMGnLOLcqLzSdl94z/CmgnxhK59iopDL1f8Q8o1NGKvJjfmCQtPy5jDtrEFcZI9a1MDwR8PMwzcuYfv6+lVJl4wPlqdgFRml5rxFG/FjZD3u44TVND45RgjYyY0fnCJo6agQR4mYhuVnqCfHbh707y30FLYHcDoxBWr6RjTRoQF0oZAcDPCqmppqrc54j0rzTAMftVjBUNXsLWUzmIjG1fwNScYDVOFeO1rczGRLj72EcfLkxg0pawt2E=;8947lRg8mcFhUo8M784M8A=="
+secured: "zEMVK05mgecLRjbFfUeCPpIfx969JPtBcv1XfpI0i71WoGOBTJc1/N/gSjnnioGD0HQnWN9hKQp8jSM3c6EyieJqZTO6MBjakXaK2jRTK+mNu5xCPkQZgSeFxnr+uvxmMqZrmK5y55lAmYXQQrvBqpJvry8wc/j6DsCGitPBkVI7mZdvoDg9shqagRIxeDZpwN+aUYTfjOTScsmseWxOfNh2Jqxk5Ug4TqM9EQZLiiwdX/RDrNeuz+GN1jwBAKfKGy21hQKG3VSjg1fBCjw/TeFrudGCt/lzWeSClRY8nB0fAnwZ06UOhRWdXjCK27lbFPgsYLLKh7edvudtsOSyjo9Dt+V0bCi3ktWR/quhOLVc9WGf+AxO0fox4059uCDuvj3nPh0s17KaUecHoUFmRqeCkgKFQyogSUw6bMTsTI6M/v/YIEVLZn556fjf52bCaAti1LFTiaP1bQbbgPdl/nPaw5lW5+ZkTu7SM6EvQMo/upTxPqyOrjtgtXd8ifDXVsK3juDDgtV1Z8YVMkZwHw==;1n/+06SkiZl6Z7GewnZJaQ=="
 ---
 

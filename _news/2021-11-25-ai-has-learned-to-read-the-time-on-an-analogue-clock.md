@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2021/11/24104102/PRI_211794962.jpg?width=1200&enable=upscale"

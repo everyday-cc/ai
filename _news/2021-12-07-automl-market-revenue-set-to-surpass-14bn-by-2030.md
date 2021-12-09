@@ -42,14 +42,19 @@ related:
         height: 710
         isCached: true
   - title: "AutoML Market Revenue to Surpass $14,830.8 Million by 2030, Says P&S Intelligence"
-    excerpt: "The cloud category dominated the AutoML market, within the deployment type segment, in the past. Moreover, this category is predicted to grow rapidly in the forthcoming years on account of the ..."
-    publishedDateTime: 2021-12-06T09:50:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54671959-automl-market-revenue-to-surpass-dollar-14-830-8-million-by-2030-says-p-s-intelligence-008.htm"
+    excerpt: "From $346.2 million in 2020, the automated machine learning market is predicted to reach $14,830.8 million by 2030, demonstrating a CAGR"
+    publishedDateTime: 2021-12-06T09:45:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/automl-market-revenue-to-surpass-14-830-8-million-by-2030-says-p-amp-s-intelligence-883853650.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 14
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1224988/P_and_S_Intelligence_Logo.jpg?p=facebook"
+        width: 1498
+        height: 785
+        isCached: true
 
 secured: "IpRKENt7j7aghduvf4ayOuhepbBHjYF7zG0nM5ij0f/3X2gzDXYk7p6J8mZ4/mIkTA9x08hpw2mQDZ7l+IO9qET0TL3Lc0qKzzJwXZIUh8IBOubZ1ZNMS3yeLi/icaqmftYF0Vm1m2Wcjx6NC9FhTA6ybOZewjCm71ASnjgbK3Bw7PDl/RiSbYa3Ipd3HG0IJv9aB4gF1rRzOjNyH1MgD05H6fdx96mhWCX4lsVstNdXetNr1Wf6RZjwIPsuQOR/y1mVJM0eH/jyfEBsnWp0RoHZCYsqFem36rYJ4OeJuJNOfsXqzY9HBrymAy09VEp1+MFeysE5e1042UuVrAGTSBe/AH3OUqRIIpMbjGNPUqvHR3fIDeXVz1FCtAPvja9UL529BBaOCoHSpUntstNfSMM8VMIEfL5qjtZ+eGnH36VoC4QKmoNVr7PZc1KroO7Sd9tBCWvJCiSgo9EU7TIHZvsLzLuZ8bN+IW46J9qMD+WF2JKL/ycH2WmmyzSz0u/qjWwUZtU7gOvJMQdIJ9F2xQ==;U8lLv7aXX+EIdNpSG3pPyw=="
 ---

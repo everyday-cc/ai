@@ -43,15 +43,15 @@ related:
         isCached: true
   - title: "Stellantis wants to outfit cars with AI to drive up revenue"
     excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
-    publishedDateTime: 2021-12-07T23:34:00Z
-    webUrl: "https://www.chron.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+    publishedDateTime: 2021-12-08T01:44:00Z
+    webUrl: "https://www.mrt.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+    ampWebUrl: "https://www.mrt.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+    cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 57
+      name: Midland Reporter-Telegram
+      domain: mrt.com
+    quality: 59
     images:
       - url: "https://s.hdnux.com/photos/01/23/11/55/21797705/3/ratio3x2_400.jpg"
         width: 400
@@ -118,12 +118,12 @@ related:
   - title: "Stellantis wants to outfit cars with AI to drive up revenue"
     excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
     publishedDateTime: 2021-12-07T13:45:00Z
-    webUrl: "https://apnews.com/dd09c1d97485e02a7d33dc0b426b2001"
+    webUrl: "https://apnews.com/article/technology-business-software-dd09c1d97485e02a7d33dc0b426b2001"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://storage.googleapis.com/afs-prod/media/8ace94a4da9546028e182b0e1b7af7bb/3000.jpeg"
         width: 3000

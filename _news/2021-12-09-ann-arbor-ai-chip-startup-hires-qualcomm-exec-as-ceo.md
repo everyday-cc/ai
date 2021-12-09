@@ -82,13 +82,18 @@ related:
         isCached: true
   - title: "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO"
     excerpt: "MemryX Inc., a pioneering startup building breakthrough silicon for artificial intelligence processing, has appointed semiconductor industry veteran Keith Kressin as its new president and chief executive officer."
-    publishedDateTime: 2021-12-08T12:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-chip-innovator-memryx-hires-veteran-semiconductor-leader-/2021/12/08/9507094.htm"
+    publishedDateTime: 2021-12-08T12:47:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-912264e07f5e4e71816f504584dd3f2a"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
+      name: Associated Press
+      domain: apnews.com
+    quality: 49
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Chip shortage to ease next year, says Qualcomm CEO"
     excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the situation is expected to improve next year. According to The Elec website, Amon said that supply has improved this year over 2020 and the situation is expected to further improve in 2022,"
     publishedDateTime: 2021-12-05T11:26:00Z
@@ -99,6 +104,6 @@ related:
       domain: webindia123.com
     quality: 19
 
-secured: "MYmbeMwv0q2fmVfkzxfytaC+Y2UFScSKKN1FQj8bgiFnzZS6wyVQaQpL6AZIJhUWjVLJS6zR30kphSkzm+HxzwtGeIqm6CH9waLeye0epVQUO+txqp2hLvh/p33NFnwONoBxz0iHYWvAFyIUKS0luNLwpFCtu3AEfewE0JwVFL8owVnG9HZjJLs82bIm6hJwYp26iaIw/5K/OXU7v7d+dwD+CuhvmXBm9SM3vyrAkr6M3uT4MgpWkFwMV1d4lwuqH/XNYFDXEvfCESvDZItnni7d7TGUio9z+WfN7QCqxgsfLxkwPZGzvBfIjiXLu65WxVJ8VXI5+cHFdwB/y3sRxMyM0hmACtROfP9ZHjie+Jw=;oVk3Nqcg6CsXvxq+X4Sc6g=="
+secured: "ePq4b/0dym6C/w4DZqhi+++SdCYZdv2oYLFQrL+1204l5pLrenfco48oNMzgNB864zaU+SfqxAO7QIhJzV6hheYgP/B4Pn0l/8tbRAHUMksq6Bf8dbAIO3pY+cLol8AjsFJra0kjqxZsXSmaZ0/0XvFe28vEtUEeLC57Pu5pZfV55Q35xf3gjxJgyEOWN+CvpLe+KYMNqkjwxQ5UgLeNaKQTlzLYRksGszSczy9DtvBnZJ7Zxv83yWIOiU58hmVHxxYat3URAcKfqyhNd4QDYVi8qTmsrWgxb7S8tYRFrqCH80lJQclfUpNEGpSmoeIBYFHo64MLZdt9glho3L5eNcceVTzelHYTinNiHystAELW7Jd2ZUftr/ru5aYkr70krWkXB6prDkJwTtpyh3FyZahfJDG2yvD4VKxmzLZpi7rldffHLdMtjpbMd7n+XDp3tsEFUZzG9Q8oPfI/IkiGd5LTDyTeNT5xjku3pjaKBtKN0WL+2A4WIqKXeATYqUAZennA2mMHXGgFA4bKkzPZig==;BkFzqSYmXEJINm0FANJ89A=="
 ---
 

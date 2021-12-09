@@ -2,21 +2,22 @@
 category: news
 title: "Stellantis wants to outfit cars with AI to drive up revenue"
 excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
-publishedDateTime: 2021-12-07T23:34:00Z
-originalUrl: "https://www.chron.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-webUrl: "https://www.chron.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-ampWebUrl: "https://www.chron.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+publishedDateTime: 2021-12-08T01:44:00Z
+originalUrl: "https://www.mrt.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+webUrl: "https://www.mrt.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+ampWebUrl: "https://www.mrt.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
+cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Midland Reporter-Telegram
+  domain: mrt.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -100,20 +101,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Stellantis wants to outfit cars with AI to drive up revenue"
-    excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
-    publishedDateTime: 2021-12-07T13:45:00Z
-    webUrl: "https://apnews.com/dd09c1d97485e02a7d33dc0b426b2001"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/8ace94a4da9546028e182b0e1b7af7bb/3000.jpeg"
-        width: 3000
-        height: 2000
-        isCached: true
   - title: "CEO: Stellantis wants to outfit cars with AI"
     excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in $22.6"
     publishedDateTime: 2021-12-07T19:08:00Z
@@ -127,6 +114,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/kokomotribune.com/content/tncms/assets/v3/editorial/8/44/844c6c15-f422-577f-90fe-7a4ec856221f/61afbf6187512.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Stellantis wants to outfit cars with AI to drive up revenue"
+    excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
+    publishedDateTime: 2021-12-07T13:45:00Z
+    webUrl: "https://apnews.com/article/technology-business-software-dd09c1d97485e02a7d33dc0b426b2001"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/8ace94a4da9546028e182b0e1b7af7bb/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Stellantis launches $23 billion software push"
     excerpt: "Working with partners such as Foxconn and Waymo, the automaker said it will have 34 million connected vehicles on the streets by 2030, from 12 million now. It also plans dedicated AI technological platforms."
@@ -157,6 +158,6 @@ related:
         height: 600
         isCached: true
 
-secured: "gKIao7uxRQkW7jyC+waGPPJFG3K+AVX02EVq6qxhKpjWh9aHPtkYH0gbrclYAMXDA79eaQKCir5FAJBLBgtmfbxSpT/3YUAG3KozDoWQGeB7BKNG1BN1m8fQeV+UyWgBLKa4pMA82/FSfyKcRJ6P2SZRxoU6JVAZe9E9yVt3lWCWcTkR6sUezsAIY8Shn0o8OAqshUar3+iMI0sQ2TH0ioSXdqX2Ai9HfB9W9Bb0zjHIL22rFT1EaMMGVz7abd03kfr2vz9eNSq6qpxDZvhEf+xA8zV27XYvROFUxTBdzHyrLN2d1nu2ZNL8tCkKeev+CnFB/limpNMlKiEPMDtdCvGqrVwNa2B8TKHtG5DJUUc=;sf394HapBSw2NGO0l7xo3w=="
+secured: "/ih4Lb+WW7aVbC8bgN4Mkoji/DxnVNfjZ5kcREhQ7vxQp9ez8vOdxRe4id5vNjo1+4g+5p79uy5f+oJGz/mNSv9uaJ1A1Rt0/4zdjK5ojvuB6lNZKm0DPf1nlyjlLDSKKrpE7h6pzFCl/2uogQQe96EdoB3LFHR/zYW4Wd6Q3Kanwxyh1TT9zhO8bSgUUynlEswnvPZgOW0DgFKAYzVzCsc+M2si/rRHOm4XJ0sFdJQgzkV/My4h+k84tazDOh9kehhv34unVFhjEo1QyU2ds6hH/bHLtgBrcEWjFZzu7FxM7UXECWKxxpZD0WSlxTOIkYc5YP9FeeHihDFzjL9cZbOM/i829laBjKWbjsII0Hw=;WWjd0Pg53qKlGoFyKDNxMg=="
 ---
 

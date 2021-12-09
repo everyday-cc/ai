@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-07T12:00:00Z
 originalUrl: "https://hms.harvard.edu/news/university-wide-institute-integrate-natural-artificial-intelligence"
 webUrl: "https://news.harvard.edu/gazette/story/2021/12/new-harvard-institute-to-study-natural-artificial-intelligence/"
 type: article
-quality: 139
-heat: 149
+quality: 141
+heat: 151
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - AI in Autos
 
 images:
   - url: "https://news.harvard.edu/wp-content/uploads/2021/11/AI_Social-1200x630.jpg"

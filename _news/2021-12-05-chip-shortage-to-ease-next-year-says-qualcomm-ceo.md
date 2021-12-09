@@ -90,13 +90,18 @@ related:
         isCached: true
   - title: "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO"
     excerpt: "MemryX Inc., a pioneering startup building breakthrough silicon for artificial intelligence processing, has appointed semiconductor industry veteran Keith Kressin as its new president and chief executive officer."
-    publishedDateTime: 2021-12-08T12:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-chip-innovator-memryx-hires-veteran-semiconductor-leader-/2021/12/08/9507094.htm"
+    publishedDateTime: 2021-12-08T12:47:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-912264e07f5e4e71816f504584dd3f2a"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 29
+      name: Associated Press
+      domain: apnews.com
+    quality: 49
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "3LWbQCO++IGxEAkxrC782P05AxiGshsuTIFyODBK4r6XjQkhMd/Amuac5VlTu/IuaumIGUiOwlVR1wUdncYFe/sPNl7X/UUj4C8z0tP6IGI0d2eRXuOAqL0La8ds504DiEbQj4u1S3zyVAH4tyZqqxg8tZJgzUtsb0Pl13tUnb/lZFKszXUM4jWTIr6RREF2kf0L20vVr/YL+P0O42a/2ojXWk1vP2sK6lXX+DRz8I/shDgarMyqvRvyuNYEHb2ObqT4CeVi6xpwj/+RSNfnKPwXTnUcoRsNCIWXbw4oenwzkUqER+QV8l1n8XeSNAilbScgl7Cxi41fVzu1yO+IuRG1tWfD641XJvPpwu1DyHc=;7CngfqiXTsvd+CqWG8nqFg=="
 ---

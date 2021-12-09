@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-11-04-enjoy-an-extra-15-percent-discount-on-these-diy-kits-this-pre-black-friday-sale.md",
+      "title": "Enjoy an extra 15 percent discount on these DIY kits this pre-Black Friday sale",
+      "excerpt": "you can even control your drone and see a live bird’s eye view. Its normal retail price is $99, but you can grab it on sale for $25.48 with the code SAVE15NOV. Put both your hands and mind to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/sponsored-post/discount-diy-kits/",
+      "originalUrl": "https://www.popsci.com/sponsored-post/discount-diy-kits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2021/11/01/sale_68872_primary_image_wide.jpg?auto=webp",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/sponsored-post/discount-diy-kits/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/sponsored-post/discount-diy-kits/?amp",
+      "publishedDateTime": "2021-11-03T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-microsoft-says-all-business-will-be-collaborative-and-infused-with-data-and-ai.md",
       "title": "Microsoft says all business will be collaborative, and infused with data and AI",
       "excerpt": "Data derived from the interactions between people should allow the organization to refine business processes, Microsoft said at Ignite 2021.",
@@ -1173,58 +1216,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-03-an-ethics-bounty-system-could-help-clean-up-the-web.md",
-      "title": "An Ethics Bounty System Could Help Clean Up the Web",
-      "excerpt": "Looking at the bigger picture, there have been calls for greater regulation of the tech industry, which is deeply necessary, but legislation may take a long time to pass and be implemented and is generally insufficient to stop the unforeseen ethics failures endemic to technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
-      "originalUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6181c6376323e922448010f3/master/pass/An-Ethics-Bounty-System-Could-Help-Clean-Up-the-Web.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/big-tech-ethics-bug-bounty/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/big-tech-ethics-bug-bounty/amp",
-      "publishedDateTime": "2021-11-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
