@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/12/07/deeproute-l4-10000-usd/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/07/deeproute-l4-10000-usd/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
         width: 540
         height: 540
+        isCached: true
+  - title: "DeepRoute.ai Offers a Production-Ready L4 Autonomous Driving System at a Cool $10,000"
+    excerpt: "DeepRoute.ai offers a production-ready L4 Autonomous Driving system at a cool $10,000. The price tag is incredible given the hardware used, with five solid-state lidar sensors, eight cameras, a proprietary computing system,"
+    publishedDateTime: 2021-12-09T16:32:00Z
+    webUrl: "https://www.autoevolution.com/news/deeprouteai-offers-a-production-ready-l4-autonomous-driving-system-at-a-cool-10000-176165.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 30
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/deeprouteai-offers-a-production-ready-l4-autonomous-driving-system-at-a-cool-10000-176165_1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "s9zalwKqf5DdMFCoJ57ha3R2yU2QbyzODZvDF7SNzCSoyIuspVluBgZSCuhDokY4iiGxfcJsbiZlrT13EQqxwxnLsLZmkfWcP632JJ1hE+J3WhsgGhIxB1hD9dF5z9NhrS//HB2t0jp7OmlpG+wfGxTtQXCtTFlGjGn410wMK9VBNEfsMMTUgSO4oAlT6v7fsZ2M0pzt5YDZh0VZnXFOF2gLusBxn0hxiJccf7y2tDKng/7NW/kigwfR/sb7ObZmbu9i/rjK9ZT7fMqGiLHn2FA0eWhVnxhcSg587mltKBZDuNw6/JAs++R6sOfHqrgOWHwAqJvOAZbFR4tcrKpxKw5JvupB3r7XB15O8ugDidVqeocHEvE7IsvL3IS5w5qpNhaHUcM+R6NGtOpB0THNVb6KVkj1rN5bPZajKO8BirA/cIJCixtiCxV5BodmzT4NI2zVkZesBr38cAKklYmDeCSRXl2cs0icSwoNnabzTE5L/lx3kaVaZgCCLQzhQ1KRKb3aKN5NkvKG7Nc2T43kvg==;KDJ/eNbE8fPWtiqRN3ebvQ=="

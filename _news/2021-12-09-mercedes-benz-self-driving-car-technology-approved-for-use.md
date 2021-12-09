@@ -35,6 +35,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Mercedes-Benz to launch Level 3 self-driving system in 2022 after gaining regulatory approval"
+    excerpt: "Mercedes will launch its Level 3 self-driving system in Germany initially, but is already testing it in the U.S."
+    publishedDateTime: 2021-12-09T18:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1134400_mercedes-benz-to-launch-level-3-self-driving-system-in-2022-after-gaining-regulatory-approval"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 28
+    images:
+      - url: "https://images.hgmsites.net/hug/mercedes-benz-drive-pilot_100818541_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "NLVxi9udGsw9nibGcYpEsJeArRUmGdQudEB7fJrfUodonjZd2AIPsAa5QDySs8HBYQlaVAz+l1zueihYhyX2j0gDfh6OPR1g64B2J+UZrcvOdq/2/zoVanb0hltHLetfYf60Bf+tnf7dFV22cBARwGi8nQ8YeUIN7fix21A4mahdYpFysf1LVFTGfuaJY1XQOygaA04RgTkGEFcYRsuZScBPbNqj4bYIgJjiTtvzykqCRi8WcTWL+OpUkbiTJfNME8bLp/4tf93SJb3zMfrHSIrBdnZVHOoNWMGM0xS39e1Teiw6w6BBK0H1UyvFmnIaHSCriGC1JK3pQ8U8Vyb2SL4sJJiy0fjFpNu9ZMQSJgqIcxCGg1Tiu7Uky4dXZJ2IixelAN/h1h+oDI0uhejp65mhrOgTn/KikTR90IJieOB0BNsW2h11XunqCB2ESTKE1/ZbJlAy9iS11jq2WWYsSfPFHuZwnxSv4fNVbEfPWG6f3fKY/2OLu0aXhSsNrJgYEq2ijm5O8Zr/jwwJj5cE9w==;X4H75oht95hbZVYCBdUZVw=="
 ---

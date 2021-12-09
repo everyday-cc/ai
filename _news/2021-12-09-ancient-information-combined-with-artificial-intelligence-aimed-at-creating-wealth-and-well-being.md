@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nationalheraldindia.com/amp/story/science-tech/ancient-i
 cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-tech/ancient-information-combined-with-artificial-intelligence-aimed-at-creating-wealth-and-well-being"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Items tagged with ai language model"
+    excerpt: "Its most recent findings come from a 280 billion parameter language model named Gopher. The thought of an AI robot having natural conversations with humans has been the focus of many science fiction movies."
+    publishedDateTime: 2021-12-09T17:01:00Z
+    webUrl: "https://hothardware.com/tags/ai-language-model"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 39
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/57007/content/deepmind-gopher(1).jpg"
+        width: 708
+        height: 419
+        isCached: true
   - title: "Rutherford and Fry on Living with AI: AI in Warfare"
     excerpt: "Science sleuths Adam Rutherford and Hannah Fry unwrap some of the biggest ideas presented by AI expert Stuart Russell in this year's BBC Reith Lectures. What if a despotic leader could programme a swarm of drones to kill a set of identified targets with just the push of a button?"
     publishedDateTime: 2021-12-08T12:31:00Z

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Microsoft can produce drone-like photography from space with the power of Azure and AI"
+    excerpt: "Microsoft announced several new partnerships and capabilities for Azure Space. The company's tech is being used to take high-res images from space and to help respond to disasters."
+    publishedDateTime: 2021-12-09T17:37:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-can-produce-drone-photography-space-power-azure-and-ai"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-can-produce-drone-photography-space-power-azure-and-ai?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-can-produce-drone-photography-space-power-azure-and-ai?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 81
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/12/azure-space-clouds.jpg"
+        width: 800
+        height: 370
+        isCached: true
   - title: "Microsoft-owned Nuance could limit growth of newer AI voice entrants in healthcare"
     excerpt: "AI voice-based clinical assistant startup Suki bagged $55 million in Series C funding, boosting its valuation to $400 million. The company will use the fresh capital to expand its health system partnerships and advance AI capabilities of its platform,"
     publishedDateTime: 2021-12-09T05:56:00Z
@@ -70,6 +86,6 @@ related:
         height: 443
         isCached: true
 
-secured: "lVNqDDp1SihCTXsw21N18+aAHIHEFVYjS4cxLYJMPJB3+caqH4kbaVKZxqWCm0wn++V3x0bOuh60X3u+0CHU8PHwQW2HgMOCZ3MZdaVqWuwjH0avBr4l2ufkoDHILuiI1QykS4RJWe3JvkQgY6FbV7AJnEb+PhOHZv8gcOZIelbykLh+EeDckXnEjxPc7Y7YMx7sHV9bRgtXutKXHs+nBi1ZSM1QBtaE9h4BNCPtusWUitEAmeZ3RWBGktTpY/nGJ2e6tmux4n7z0T1JpZXEBvg4MaxgV0coDxyKA4uHSfCEA99xtECkaKph/pMj09qa6DQMASbVQoVccyxvTROlpndP6yBMEUjKibJzgZsdBgk=;Jq7qISqrbOlzcyqVfqVr5w=="
+secured: "tSaO46+8lH4ZN9ojfVhJiGdLiU9Y51jjxjplmuZAG48nq9/Z2R9jYyLHO2SEAPUcaifg9jyNoZU3BvtjHGsahLpzB3pENcA0tmbPDfVErGE+7PqEUQO79eO9RJyTcAM3JRJoylTfgkfYwUkvsrbIIlSDvV9G0pob14JmCCQERWeQlU1XdShaKb29DhrAoG7nOI7j5TvR6WkgPDcEzhOAcpfBkAyCB/X9MiUV8uLG0rJTKnkS62bOgeq5QmQP8uZkBOhHdBvxQdXSiRtRFi8ZBvdVfHRIr2KwvsFhMDKHPGbC+/SAfj9RJZT+yjJO+le81kPoiPM4tMZloCSUYElNnwnUipnV87HTS2UaqnA3S398zXTLCl06Ypx/C17WQkbDHHyfotM4OE62GdQm0rtTHY/afqIYY+/S4pHZipfK80iP/Yx+toqhAJbtn4astDma33knNxFCqjQu0GtKco7jAT8Sz8nQ10HSi8DtCrHcXt66T37AvnlPk/wYRGgik5Ym2m7kbjJJe5YoSlDar9/Xsg==;TmvELT3APAWwPSiBbG4Rgw=="
 ---
 

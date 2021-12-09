@@ -24,22 +24,6 @@ images:
     height: 317
     isCached: true
 
-related:
-  - title: "RECOGNITION OF FACIAL EXPRESSION DATA USING BACKPROPAGATION ALGORITHM, VISUALIZATION OF IT USING PYTHON MODULES"
-    excerpt: "The aim of Real-time Data Visualization of Facial Expression Data using Keras and Plotly is to detect and classify human facial expressions from image sequence this is also used to cope with emotional health problems caused due to our negativity in our day to day lives."
-    publishedDateTime: 2021-12-07T07:57:00Z
-    webUrl: "https://github.com/iamuv2000/facial-emotion-recognition"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 4
-    images:
-      - url: "https://opengraph.githubassets.com/8af3e056c2f938e2c40ed9d8a514952e1297ab3634c5e1ef1466823ed3b54fc7/iamuv2000/facial-emotion-recognition"
-        width: 1200
-        height: 600
-        isCached: true
-
 secured: "qXPbDXRK4PWbMBYoqBV6zkOqYfvNr7mSlWm2Eh7hXeIXy85a9Bdy2EsiymwAGo0UVAB9/wqe8TnFlU8TwWJO/Jwp3CA+5b/8LZD8F3Ug2n6L8NncmV5aNS+F8KD+nuZEHNnEoxXcnTteaZh9WSdE3e7lHnPGQU2z0ircOV46HZhNidYHlTVb5YSerOqRYrXvB/pPKrKFO7l16j+Z2haDPmoy21WH/ZcdqNeOAxHktNDgYp9qb4bxXmJ82qIle49/rHSgcbPzz6PUfx0zneo607/uN3IYYqhIajPUrnU7mfZnEyEUVpqJOjCJZUIOyWDqkxLwqfyqwuUiaSTTVNHQJ83YrgrFc+rR6aGek+dPWjRBeG05eh6NevbHhBM9wshdT94ydxuZQqcPPC2w2jhuiInk01u5TyEuESmPy4G7NXeQryU5u0Ts2sLp6/bUTkUDQZBmkTPgDF2b+Rlcw/GgQfY+oP97rulsFr6gwwkdVYWiSUnVd1hk1BCJEeUM/x2oSwBMg010KYNVhXkCANjTUA==;FwGzx36P/Urqb5JkjPz02w=="
 ---
 

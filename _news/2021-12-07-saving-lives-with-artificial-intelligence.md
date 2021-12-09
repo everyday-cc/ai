@@ -54,6 +54,20 @@ related:
         width: 750
         height: 337
         isCached: true
+  - title: "Current Status of Artificial Intelligence"
+    excerpt: "AI (Artificial Intelligence) is used in increasingly more areas of our lives, as both companies and people rely on its recommendations. Although this year has been just as challenging for the worldpopulation,"
+    publishedDateTime: 2021-12-09T14:53:00Z
+    webUrl: "https://www.linkedin.com/pulse/current-status-artificial-intelligence-stefan-pechardscheck"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEbPk5daAVfxg/article-cover_image-shrink_720_1280/0/1639061348860?e=1644451200&v=beta&t=s7OmyfEKCBaGXs5ums1CLvEflp4UxA2CHNliclZzB6M"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "goXSQ1QkirBh5FCdhIw4Ss+dXuLroZEaLHo0Yv9oPSv9nnC+Ag9t/Smqx7EyHaL0SwvCMjK8VhgdEojzYKJ69p48zsA4wdaeGFt4suPehb4JueeOn06liRq+Q7ShchXSsx/D0rwnKBGZqCgCgONBq76Q4DdgoUvSzVTsvYeOq9woXtVh3ufyv4nXZHqLXVXL4VwGFhy8qDB/mCWJ67hzBlj0pUB/so7vEP4WApZDwwI2XFlieukxHQ1VOEZHMVG1msPReNRXgeGi0iNLSiHNgmPRWRnbmssm97sEiCs6xESrs7lzgE7ysJ4iJ/LilSxIsdJGLYmmrkUTUs1BkdJwCo0ZDotXakXGvNy0bt81bIil5ZL0JnWbIwZagBpjYas3+WHVPkUHha5GSqxlLt/V+42G/hyIcYqO27W+ewPbd2kDir+C3lAjQLfdHHay/b3TI5TNm0rOh1mUf+9EycniienC3LeHrcXMA7X+vLf6g1Jain0Fi4SNyYzBlWbLgBNKVH51sK9s6TnyEP+hKUUSkA==;ynJ2OI8WeRBRHfBZpeuqdw=="
 ---

@@ -40,6 +40,20 @@ related:
         width: 940
         height: 494
         isCached: true
+  - title: "Items tagged with ai language model"
+    excerpt: "Its most recent findings come from a 280 billion parameter language model named Gopher. The thought of an AI robot having natural conversations with humans has been the focus of many science fiction movies."
+    publishedDateTime: 2021-12-09T17:01:00Z
+    webUrl: "https://hothardware.com/tags/ai-language-model"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 39
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/57007/content/deepmind-gopher(1).jpg"
+        width: 708
+        height: 419
+        isCached: true
 
 secured: "x8dH640DxbrUjZGTUg3dPQHKZsYRsBT15ntIaj5YmO3N/TwEWqy5bGpXchyY8vsVyk4OuotxqlOFUsWdtTRzS9mStY343Pvo+a7fbuDB2Mo7zV+3FnvJNdFKX2fYTPgD3w2OV84I4cfJC9dhqvO2PRsSM/HhNFuQnXnJgcFQmBqAXgzW/yd/aUzpAmBICN2nJ55bGyk6Rlst7sB3v0Xo3ImHmtFTlHfLrxmklmjQF43HUyAX9xwb6XbzhI3BwYTpg7Duu9yiLZ1GgRERrtsSwF9PNu+IWLkKots0WxPnBz9sh5WJU3zKk5oMXJRzJc9PjB5JY5dQhZ3NV0jveLKQR9sMPRvx3Tmv5ZDBvXk300RuYLyBQUW1e/zpI0M+sBpZQvl9FG8f1FEgvAEVwaoGdKj/n0G5oZwUyLZWSOegPBiOwba5Rp99ROvNctlW/3EBfGUsvDU/AXJA9L8vjilR+6DvR4sqhDzgeiZbQY1cpFNQmYB0w0nUr9Z/isknIt2P0vMzmSO8pEzpe2xdxcFMRQ==;yQQiVGESiTj6oSLKfYmaPA=="
 ---

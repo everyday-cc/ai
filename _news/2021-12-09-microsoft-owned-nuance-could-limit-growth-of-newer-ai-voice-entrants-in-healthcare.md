@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Microsoft can produce drone-like photography from space with the power of Azure and AI"
+    excerpt: "Microsoft announced several new partnerships and capabilities for Azure Space. The company's tech is being used to take high-res images from space and to help respond to disasters."
+    publishedDateTime: 2021-12-09T17:37:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-can-produce-drone-photography-space-power-azure-and-ai"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-can-produce-drone-photography-space-power-azure-and-ai?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-can-produce-drone-photography-space-power-azure-and-ai?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 81
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/12/azure-space-clouds.jpg"
+        width: 800
+        height: 370
+        isCached: true
   - title: "Microsoft expands Azure Space ecosystem"
     excerpt: "Microsoft offered further proof of its intent to play a growing role in the space sector by unveiling new Azure Space products and announcing partnerships with Airbus, Kongsberg Satellite Services, STE iDirect,"
     publishedDateTime: 2021-12-09T15:40:00Z

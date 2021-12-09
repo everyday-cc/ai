@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/jpin-announces-stra
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/amp_articleshow/88162825.cms"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2020/03/Telangana-Today-News-1.jpg"
         width: 750
         height: 415
+        isCached: true
+  - title: "Mass Fintech Hub doubles membership"
+    excerpt: "In less than six months, the Mass Fintech Hub, a public-private partnership dedicated to making the Commonwealth a global leader in fintech, has more than doubled its membership and received hundreds of requests to join its growing programming geared towards developing fintechs."
+    publishedDateTime: 2021-12-09T17:01:00Z
+    webUrl: "https://www.finextra.com/pressarticle/90686/mass-fintech-hub-doubles-membership"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "SCALE AI announces its largest financing round of 2021 with twelve projects and $71 million in investments in artificial intelligence"
     excerpt: "With twelve projects representing a total of $71 million in investments announced today by SCALE AI, the Artificial Intelligence (AI) integration movement is continuing its rapid growth in Canada. From the supply chain for aviation parts"

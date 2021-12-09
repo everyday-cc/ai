@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-09T15:19:00Z
 originalUrl: "https://circuitcellar.com/research-design-hub/tech-trends/intelligent-vision-systems-leverage-embedded-tech/"
 webUrl: "https://circuitcellar.com/research-design-hub/tech-trends/intelligent-vision-systems-leverage-embedded-tech/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://circuitcellar.com/wp-content/uploads/2021/12/375-Jeff-SF-Figure-1-web.png"
@@ -24,6 +25,6 @@ images:
     height: 692
     isCached: true
 
-secured: "uUOwon+CvFF5n5fj6QlMZUUP5EvGKPX22qVaZ6mj+qUS/mUqWjLCvuuam4m2T9WgYkaXZ+fKVEddM6RTaJIpNoTlHDHpPzIOkmhUnQo3Y8dqelOQAJ49rtjNXNviUxcY+we+DfQGa60Hfo/X9JIJjf8SoFpN70xqEpFVV4KgmebZkd74KcuHGYi9ustO44ZVYtQEZPAfFjKG+fCsMKPxJCzu5lYMW0sYQZ+CHbpCeb54H50DzJaqEx8sniVc7ZewZv6fK0eqb/LvxoCUwMeWLIrdwWULIpJIn9vI2+sb01IhJeGfS6dl7fN6DX175X7ydxkDGntyT5jU6qr+zfKKjiYkfGVnDKdR/BgCgtqT0iU=;J0oTW+AeG6Rr9ydB0V4auQ=="
+secured: "jjg2+SEmbwxA6ngpCPg5MJrMdszgzcg6V5f+InCKuyejBzJqqAK6qHe5lqTDRi1f/V/Gh+exaqrRzMnKzoCova9YFmMZXQfrv6CjELtFtZQZ85mM7Kde/FeC77RqaKs1Cwa8tanlOvYeQo/q/bCbctfXAbWY9OC1Y0Mrb5ashTTgrhxumjC9C0i5jt1ExjDDgifR3L8WwF9zdvklkzcnlyE/4X+2Jso+Kr6Azb/DIzO2iTeqwur8oSB36HBhEVX9tH+41fq9wYuJOj0WukQEYYaAecrmMjLMNbqQkmSUr4bZDHoVppJnIoDI/xojT1ViS2UOeeQC8rRIxbDhDa2B1NP0IaG7jMygxR65qyrEF+fjakp4zkuNVWo9+jNLzNUov28DzybLTXJvElVGx6DgavnrDK07eUyBcaT3Io0C6/DMGhmna80T6wENat382BuQenq1xlAJy1FRgUu9cScodi9I07QydYBol0rqh+9gIPgVIPxCP1qdf83+jRF6ro1g9Weg0eXLqu1YAyoAxrp02A==;JTOOob/fHECI2kSwvGdWMw=="
 ---
 

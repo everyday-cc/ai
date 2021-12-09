@@ -36,20 +36,18 @@ related:
         height: 628
         isCached: true
   - title: "Robotaxi race opens up as top contender Waymo in low gear in Arizona"
-    excerpt: "Alphabet Inc’s Waymo risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches. Companies including Ford Motor Co’s Argo AI and General Motors Co’s Cruise are competing for the billions"
-    publishedDateTime: 2021-12-08T18:08:00Z
-    webUrl: "https://www.metro.us/robotaxi-race-opens-up/"
-    ampWebUrl: "https://www.metro.us/robotaxi-race-opens-up/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/robotaxi-race-opens-up/amp/"
+    excerpt: "Alphabet's Waymo risks losing its lead in the US race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches. Companies incl"
+    publishedDateTime: 2021-12-09T01:29:00Z
+    webUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
     type: article
     provider:
-      name: Metro US
-      domain: metro.us
-    quality: 59
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
     images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEHB70O4-BASEIMAGE.jpg"
-        width: 800
-        height: 534
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Pilot robotaxi services launched in Beijing"
     excerpt: "Tech company Baidu Inc and self-driving start-up Pony.ai are the first pair of enterprises granted permission to offer paid services and provide up to 100 self-driving vehicles for commercial ..."

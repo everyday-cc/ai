@@ -43,6 +43,20 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "DeepRoute.ai Offers a Production-Ready L4 Autonomous Driving System at a Cool $10,000"
+    excerpt: "DeepRoute.ai offers a production-ready L4 Autonomous Driving system at a cool $10,000. The price tag is incredible given the hardware used, with five solid-state lidar sensors, eight cameras, a proprietary computing system,"
+    publishedDateTime: 2021-12-09T16:32:00Z
+    webUrl: "https://www.autoevolution.com/news/deeprouteai-offers-a-production-ready-l4-autonomous-driving-system-at-a-cool-10000-176165.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 30
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/deeprouteai-offers-a-production-ready-l4-autonomous-driving-system-at-a-cool-10000-176165_1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "PPEjm6nWTA7cIC4QYGuTAyIeb7NtbL8bSdsKMT6vyygTssIgnix02OF1z0jE9dGLbs5217tmrg2dh9yQ8s/cowSlXYFJ0C1McfRHNChXazlWYX/tztivdJWuJYCrktb3R0WZEqdhVIecybHR+7Wj4JTZ9nSs0IMVifQASGC70cfxDW4c/bX+0SCcAWxgDpyBIiNitV8KYRPblhwlHZM56LE9Dag65dFrRaWtS/jbdRcx0PjlFua1CBlYeUIWHzxTdpqfQtdutvmFCQvCGpzMHCNvMuXp/dXJNbQYF/XiSizNhsVtgbbU6mgcd3J2Vf0arXBdZZx2k0t97BCu/L89leilA6C/5qEj+q2SeVqvj/S4Bnxkr5x7LPuy17BRtpf5pbuAEYqjdsA8PCpdsealbfUElqnCpKYt7zcDBt1d8IJ0oaoPrEd0uPciKgeTpySG8mXicQ50Pj4jofQDPFy1WYEtEkP7MCPV471LelZGI7ySFIzc6qs92+lOKik5YGLvkjtwVJ+vmz3M5M47zCdVcA==;SBEg0xKflFHquAv2d7cM3w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-acceleratin
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-accelerating-wealth-michael-spencer-"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1279
     height: 720
     isCached: true
+
+related:
+  - title: "AI inference acceleration on CPUs"
+    excerpt: "The vast proliferation and adoption of AI over the past decade has started to drive a shift in AI compute demand from training to inference."
+    publishedDateTime: 2021-12-09T18:06:00Z
+    webUrl: "https://venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/"
+    ampWebUrl: "https://venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1223790172.jpg?w=1200&strip=all"
+        width: 1200
+        height: 623
+        isCached: true
 
 secured: "1d6V6FefzzCw3TP/mY9ffHJf89cozLfn8v2ap+a+NX5uSH4aB7P6z5RXkDTFoy3GP2qSVph0d6wsPztNVGhz4B7yM3OQzv/6SSV2AmUB1izJ2jPisHrZjfM/gBeH8ZoAeY86Z6Z567Nix+fq0vSsnY604yW5SFtnC0TpI0lutvp4grA1Q0L27Tndi41OSKYAsOM2LoI0ikmoFqzrQ2YUX2gvRTSZ6Oeror0KF2mAAPUsfGmvcOemSWhWc5BmnRDEI3gYimv7X0jlvFNAMAFXcokPkTIVJoNZilkF82SIvC2E/w77gRZpSDuZVPXgRRIdamVEpqjjnFh5Qj3m/SiU/iNIPBQ5ETzgfkr9lN+A0bw+iXaGMfeiJiZC9saZEBAqCZWQJcU2LrCEYnVvd4pyny2WzoZA2ECeJHkHfyEfI1KeQlx10t4fs83Agl7owgrqvlGGiMuXi8zPARVZvRNdtczYbqL/woSDrCBVjAN0DAEiKOh1/28Abkb+XFjZ87LpXDuuzWCSMgKPMGnVRoLRRw==;wAOc+xmR5Nfd3dx7TL+tDQ=="
 ---

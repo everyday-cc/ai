@@ -85,6 +85,20 @@ related:
         width: 2560
         height: 1708
         isCached: true
+  - title: "Mass Fintech Hub doubles membership"
+    excerpt: "In less than six months, the Mass Fintech Hub, a public-private partnership dedicated to making the Commonwealth a global leader in fintech, has more than doubled its membership and received hundreds of requests to join its growing programming geared towards developing fintechs."
+    publishedDateTime: 2021-12-09T17:01:00Z
+    webUrl: "https://www.finextra.com/pressarticle/90686/mass-fintech-hub-doubles-membership"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "SCALE AI announces its largest financing round of 2021 with twelve projects and $71 million in investments in artificial intelligence"
     excerpt: "With twelve projects representing a total of $71 million in investments announced today by SCALE AI, the Artificial Intelligence (AI) integration movement is continuing its rapid growth in Canada. From the supply chain for aviation parts"
     publishedDateTime: 2021-12-08T15:26:00Z

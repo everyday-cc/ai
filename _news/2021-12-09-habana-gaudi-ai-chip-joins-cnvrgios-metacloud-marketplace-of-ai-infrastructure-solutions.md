@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-08T22:41:00Z
 originalUrl: "https://insidehpc.com/2021/12/habana-gaudi-ai-chip-joins-cnvrg-ios-metacloud-marketplace-of-ai-infrastructure-solutions/"
 webUrl: "https://insidehpc.com/2021/12/habana-gaudi-ai-chip-joins-cnvrg-ios-metacloud-marketplace-of-ai-infrastructure-solutions/"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 related:
   - title: "cnvrg.io is Making AI More Accessible and Powerful with Latest Integration"

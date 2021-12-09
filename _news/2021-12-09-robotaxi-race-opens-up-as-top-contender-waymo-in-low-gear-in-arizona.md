@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Robotaxi race opens up as top contender Waymo in low gear in Arizona"
-excerpt: "Alphabet Inc’s Waymo risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches. Companies including Ford Motor Co’s Argo AI and General Motors Co’s Cruise are competing for the billions"
-publishedDateTime: 2021-12-08T18:08:00Z
-originalUrl: "https://www.metro.us/robotaxi-race-opens-up/"
-webUrl: "https://www.metro.us/robotaxi-race-opens-up/"
-ampWebUrl: "https://www.metro.us/robotaxi-race-opens-up/amp/"
-cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/robotaxi-race-opens-up/amp/"
+excerpt: "Alphabet's Waymo risks losing its lead in the US race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches. Companies incl"
+publishedDateTime: 2021-12-09T01:29:00Z
+originalUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
+webUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Metro US
-  domain: metro.us
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEHB70O4-BASEIMAGE.jpg"
-    width: 800
-    height: 534
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
@@ -67,6 +65,6 @@ related:
         height: 800
         isCached: true
 
-secured: "Aqb3hJq0sq1orCJoH2mVkoNFkOUfoSKmkV76XFl0N5bDL1Xsyt9JA7Dhy9QDGEgmjWc5SLi/QuxUJ4u9o9J6QCUWzCXLlLv3qCmgY9HmwkonRTSdoouDrS3Qe0aWBtAz/u05+jAIh8fVj5Gk4h+oCkfQf6fI6QgkEweWnhFyr3LA0F5HQW0E6uu4A/WZktPRqruz3SCpvQ5fia2vsbn7Gj4Pr/jYX2Y6CZTgK4L+p9TnDkZIARQ+mq5Vz/iMe3EWRqS5EdjdSR58JpqU7TmVnmsmFAd8RFc/Xcc1EX8hYTmkLnRWG7jNdMSQQKtwwDSS/G7BoZCOYo2kMXlxUSBTAuXiDC9B4BcoUE3BEkszw/llTrqC3As3ufpCCzcCWNcGfBE+RGpWIIp6Xncf4x7KoA+bdThf6Jo6rINO1UZN/qyo1yRCvYnQ6njNhs1/YaddhpX9/6TBrkSEadNkHa17re22YuaXLWBK9IkATJ/OA6bO2eOTZ8sX/W/+m2uNzcHzipUl4/B4eFqhXgibCO14Rg==;cHpG9fhr0y5A5HEvTKHIuw=="
+secured: "wXfbOjBzaHIVHw7LY3SHy1Yz1iXkqbPm882KMjYuyleYYjaH+zGJxl/XSYqQejbF0vZgfz/nSa2g81z76xGDVJQQCSEpiFS2MZiJ2ir4ru0ING8RmeDHJchfafwdMBjmRFdaQMTlsO3VfhlASxKqbefxTp5UXRdOEpY7u/TGsDDWw4uM6ipUM+Yghonz/BkXV3Joq/7TEyrFBEA2a4USVQx9cY+wtABDHCl53h2VyhQ604mKJnXYIgByCijGWGTGSn/BGpG8HZrcUVhzNWiTUxIDo3wSdSJabZ9KzzV4d+mCtEwzrH/y8X7v9gibS0kR4om0dLMIjN+okCWpPD+KzNmh7cijbenhr54wyLxKEOI=;kbnHnxeQ/60Sy1dGFpBzkw=="
 ---
 

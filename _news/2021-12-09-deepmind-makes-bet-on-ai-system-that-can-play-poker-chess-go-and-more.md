@@ -48,6 +48,22 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "DeepMind's Massive Gopher AI Language Model Can Have Surprisingly Natural Conversations"
+    excerpt: "Google's DeepMind utilizes a 280 billion parameter language model named Gopher in its AI research, but it's not perfect."
+    publishedDateTime: 2021-12-09T17:01:00Z
+    webUrl: "https://hothardware.com/news/deepminds-gopher-ai-language-model-can-have-natural-conversations"
+    ampWebUrl: "https://amp.hothardware.com/news/deepminds-gopher-ai-language-model-can-have-natural-conversations"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/deepminds-gopher-ai-language-model-can-have-natural-conversations"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 66
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/57007/content/deepmind-gopher(1).jpg"
+        width: 708
+        height: 419
+        isCached: true
   - title: "DeepMind’s new 280 billion-parameter language model kicks GPT-3’s butt in accuracy"
     excerpt: "Bigger isn't always better. DeepMind's Gopher system uses smarter algorithms to make better choices. And it blows GPT-3 away."
     publishedDateTime: 2021-12-08T21:10:00Z

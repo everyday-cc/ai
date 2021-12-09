@@ -99,6 +99,20 @@ related:
         width: 750
         height: 415
         isCached: true
+  - title: "Mass Fintech Hub doubles membership"
+    excerpt: "In less than six months, the Mass Fintech Hub, a public-private partnership dedicated to making the Commonwealth a global leader in fintech, has more than doubled its membership and received hundreds of requests to join its growing programming geared towards developing fintechs."
+    publishedDateTime: 2021-12-09T17:01:00Z
+    webUrl: "https://www.finextra.com/pressarticle/90686/mass-fintech-hub-doubles-membership"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "YSDJhsjuTnzmZHS6tADHplrKHf5+PnBGyGK7HmAxPLi5qnNbjJPI0i5BjcYj3SMi5pg6hmZAZfvngsXwyvE39iLnV2D72PqVcFolkuw/K1HniIvte/AzFe2qSY2m/fJRP3gEY5wZvQuJ2I4XgWJ5eCjzQmkSWr7kKooqHiXQyM8AgSfs7W5GulQ1eYir4TXR/T4byTtAKnIUJIAHKBCcP2jpShVGnLaPkf9I4NEOtLMRINGSDctKU1NphAObezHNEXmbPhnljoWcITRF/0fWu60t1paTBdFYu6UOgMDM6Vp21PknpzXnT+GQrlJQWpuWLu8CGTZB5XNE6NdhPZXqZ90+WObjhg0TcZ+63ZFl+dM=;qiUtio8GVEB8eTeqXGz8vA=="
 ---

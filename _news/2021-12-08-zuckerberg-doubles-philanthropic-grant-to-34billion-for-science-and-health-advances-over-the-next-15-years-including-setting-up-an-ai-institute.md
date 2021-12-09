@@ -57,6 +57,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Chan Zuckerberg Initiative to pour $3.4B over 10 years into AI, imaging and other tech to unravel biomedical challenges"
+    excerpt: "Five years into its lofty goal of funding projects to “cure, prevent or manage all disease within our children’s lifetime,” the Chan Zuckerberg Initiative’s Biohub is getting a major boost."
+    publishedDateTime: 2021-12-09T16:26:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/chan-zuckerberg-initiative-pours-3-4b-into-ai-imaging-and-other-tech-to-unravel-biomedical"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 15
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1639067263/chan-zuckerberg.jpg?VersionId=1oT_YGSd4UuJ02azCghzAYfntvulYH6a"
+        width: 1773
+        height: 1182
+        isCached: true
   - title: "Chan Zuckerberg Initiative Pledges $500 Million for Institute for the Study of Natural and Artificial Intelligence at SEAS"
     excerpt: "Mark Zuckerberg and Priscilla Chan ’07 have pledged to spend $500 million dollars over the next 15 years to found the Kempner Institute for the Study of Natural and Artificial Intelligence at the School of Engineering and Applied Sciences,"
     publishedDateTime: 2021-12-08T03:52:00Z

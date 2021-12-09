@@ -67,6 +67,22 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Qualcomm AI executive heads to MemryX"
+    excerpt: "Fabless AI chip start-up MemryX hired Keith Kressin as CEO, nabbing a leader of one of Qualcomm’s key business areas. MemryX stated Kressin held the role of SVP and GM of compute and cloud at Qualcomm,"
+    publishedDateTime: 2021-12-09T17:41:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/qualcomm-ai-executive-heads-to-memryx"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/qualcomm-ai-executive-heads-to-memryx/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/qualcomm-ai-executive-heads-to-memryx/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS-e1607946380220.jpg"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Qualcomm's AI chip chief leaves company to take top job at startup"
     excerpt: "Kressin told Reuters he left Qualcomm, which is nearly tied with Intel Corp for the tile of second-largest U.S. chip firm by market capitalization, for MemryX, which has only 30 e"
     publishedDateTime: 2021-12-08T15:29:00Z

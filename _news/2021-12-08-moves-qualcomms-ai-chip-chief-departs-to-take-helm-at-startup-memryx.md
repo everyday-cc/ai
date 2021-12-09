@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-depart
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp"
 type: article
 quality: 86
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -51,6 +51,22 @@ related:
       - url: "https://image-prod.iol.co.za/resize/650x366/Amid-the-global-chip-shortage-Qualcomm-chief-executive-Cristiano-Amon-said-the-shortage-is-gradually-easing-and-the-situation-is-expected-to-improve-next-year-Photo-Mike-Blake?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/35939b5b-f57d-532b-ac89-826713250ff7&operation=CROP&offset=0x115&resize=789x444"
         width: 650
         height: 366
+        isCached: true
+  - title: "Qualcomm AI executive heads to MemryX"
+    excerpt: "Fabless AI chip start-up MemryX hired Keith Kressin as CEO, nabbing a leader of one of Qualcomm’s key business areas. MemryX stated Kressin held the role of SVP and GM of compute and cloud at Qualcomm,"
+    publishedDateTime: 2021-12-09T17:41:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/qualcomm-ai-executive-heads-to-memryx"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/qualcomm-ai-executive-heads-to-memryx/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/qualcomm-ai-executive-heads-to-memryx/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS-e1607946380220.jpg"
+        width: 600
+        height: 375
         isCached: true
   - title: "Qualcomm's AI chip chief departs to take helm at startup MemryX"
     excerpt: "Keith Kressin, the executive who oversaw Qualcomm Inc's artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup. Kressin has become chief executive of MemryX,"

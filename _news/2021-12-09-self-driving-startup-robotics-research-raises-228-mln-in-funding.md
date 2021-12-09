@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-resear
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
 type: article
 quality: 101
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-88185888,imgsize-500908,width-800/88185888.jpg"
         width: 800
         height: 601
+        isCached: true
+  - title: "Self-driving startup Robotics Research raises US$228 million in funding"
+    excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised US$228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
+    publishedDateTime: 2021-12-09T18:14:00Z
+    webUrl: "https://www.channelnewsasia.com/business/self-driving-startup-robotics-research-raises-us228-million-funding-2368901"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 71
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Clinical voice AI startup Suki.Ai raises $55 million in Series C round"
     excerpt: "Suki.Ai has raised $55 million in a Series C funding round led by March Capital with participation from existing and angel investors."

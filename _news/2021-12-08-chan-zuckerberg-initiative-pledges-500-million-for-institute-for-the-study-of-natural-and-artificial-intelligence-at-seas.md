@@ -71,6 +71,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Chan Zuckerberg Initiative to pour $3.4B over 10 years into AI, imaging and other tech to unravel biomedical challenges"
+    excerpt: "Five years into its lofty goal of funding projects to “cure, prevent or manage all disease within our children’s lifetime,” the Chan Zuckerberg Initiative’s Biohub is getting a major boost."
+    publishedDateTime: 2021-12-09T16:26:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/chan-zuckerberg-initiative-pours-3-4b-into-ai-imaging-and-other-tech-to-unravel-biomedical"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 15
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1639067263/chan-zuckerberg.jpg?VersionId=1oT_YGSd4UuJ02azCghzAYfntvulYH6a"
+        width: 1773
+        height: 1182
+        isCached: true
 
 secured: "YJQo2Qb52j2JJ8tuD6Od7z9TtMq7i4CgMbHdtxKKkeAzLkUvnnV8qsjMHH3ki9pWXZ18N5TMpE0Qo1xJF0WmOWc2F80ReyP49YQ32QqaLzZpYjicK6tx6ZvbJOj0FFlU50OdI8MFFt4Pjz3wRoFsWhIabdHHpIWOhnqgEM81Je5cu97b9qYn/nAjkAi8eY9etu9pwHHf1Yybe4UGi+AMCNqh04wZjQhYbPsf99Ayn4f8n34HHEcn9V15n0ig7FM96+yRcK6ayitYSpUlrZckRORzsTIZxVRrQH3otqS7kE/4snTFdor/IunNOt4bFvDTQmwkX9bG1W6VEzcBXqRrSglaaGFZdlNRrgUehmPyslUzsrbaHf1ng2vEu3iWoBsqwG3etTsRg38Q9FilSUVA2w6YjBy73aUbaqld8aqwTjW04wI1sr6z908H5eX9pbPqd+IYiBr9t4E+zV9TYMHNIQgnAy+7DQClqvaFsdtdPocfH39VWX6R8lRA+p3BKRgtg/PJlP3SJ1NRy96zsb6qJw==;GS7jbq7QAyLBY66iILz02Q=="
 ---
