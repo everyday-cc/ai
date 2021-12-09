@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleas
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,7 +41,21 @@ related:
         width: 750
         height: 337
         isCached: true
+  - title: "Saving Lives With Artificial Intelligence"
+    excerpt: "A new technology developed at Tel Aviv University will make it possible, using artificial intelligence, to identify patients who are at risk of serious"
+    publishedDateTime: 2021-12-07T11:59:00Z
+    webUrl: "https://hamodia.com/2021/12/07/saving-lives-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Hamodia
+      domain: hamodia.com
+    quality: 37
+    images:
+      - url: "https://images.hamodia.com/hamod-uploads/2021/12/07050423/7f5fe743e5056f0e35e13f7dc7924882.jpg"
+        width: 580
+        height: 330
+        isCached: true
 
-secured: "r7OE7L9XFaWdufAYocdeExuPIdl7hWRfNYJrheia8i8h5A4e4oylAi4Qzk4kfYVsiWlvbquQkmsR3zAk9VuLWsQoPRdJsUjm1Q7NPIQe2UOQT5SfYVc+Geyk11ylBkXkeztb5Rn4gec21mYbI046jpSQNSJkhI5VO4PcrOX3dk+wQZJ0wN8KMqm5ogFVX/xx1oOVZoiruN33ZUzUUDaBQ21QqKva9nQxHRirsUFhO1RzobkFejgzKofWveRLjCjSLQy0MqQ+SJJ7DHPdc1J4yK28Z9n2M5SpR8mYKpDGvaIDugO+IwLLHs9ywZiM1aSYsy+XEZVKFQWPHzT6xSuXDKXYkXRyUUJg0nZANw3DPQI=;HUHV1asL44wzOyF9NeDeOg=="
+secured: "IogKmN/g1l4fltPAPk3xYzOyxPpddE/zGSmeyz7juQFN2HkLmk1w5ch1yWyYQceZoJ5/qoxUPBkpepIhilTQULioR4b/C6Ksb3NWjVeLW8dX7+YU5ov0ewCHhfJBCRz8+Y2iWLpef+oFZqCgMvLN50zjZyhXHvWRm6xRGeYqRAnwaeY5PAfGZK69l4I2R+/3vcDgiRW0FZzfTUg6GlHWECG1tUW51LH0qfgHZ1aR0aRewmi1ZaiG5Z+UP/gmSjUb++ymTPbmF/x0vba2Fsik/+BN2wEpbIpFQiTYgtLssZ21+l8ivyVfAPlHyOJxa2egw6VC5Zej1Ji66fbMx5Xt8x0Bdbf2WqkmGM5+J1ElfcUwwvrW1sp1Pz/NcKB+eG9uPE/1DlBeqvCWnrEXgKDZDnOtTgiqVz4s4MuS7YIqsZphyuV5OAbFgGIUxKfYQclJZzLWvZXlm67J+13QgmqcZXM8UfxgGLoObpcTXMM/a1kNDTTNMtt/yahX64H7s9bKaVMQvUeNL7ayKcJLCxbT8w==;n3WCBKOi/4L8MpSFhNa/hQ=="
 ---
 

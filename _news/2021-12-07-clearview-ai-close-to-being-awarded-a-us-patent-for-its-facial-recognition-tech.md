@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techspot.com/amp/news/92508-clearview-ai-close-awarded-u
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html"
 type: article
 quality: 100
-heat: -1
-published: false
+heat: 180
+published: true
 
 provider:
   name: TechSpot
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI set to get patent for controversial facial recognition tech"
-    excerpt: "The news comes as facial recognition systems are more and more widely adopted, despite a lack of clear rules regarding their use."
-    publishedDateTime: 2021-12-04T22:53:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 103
-    images:
-      - url: "https://www.cnet.com/a/img/PmacCt62m6rguedMqOMU_w29krg=/1200x630/center/top/2021/12/04/873d4317-cac4-4f75-ba68-7a754df7c5f8/gettyimages-1167845607.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Clearview AI's 'Search Engine for Faces' Set to Receive Patent"
     excerpt: "Privacy experts worry the patent could normalize Clearview’s controversial data scraping practices in lieu of meaningful legal constraints."
     publishedDateTime: 2021-12-06T21:45:00Z
@@ -110,22 +94,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/56972/content/clearview-ai-facial-recognition-wins-patent.jpg"
         width: 708
         height: 472
-        isCached: true
-  - title: "Hospitality Facial Recognition Tools"
-    excerpt: "Zoox Pass - Zoox Smart Data, a technology company specializing in consumer profiles and data analytics, has announced the launch of Zoox Pass, a new"
-    publishedDateTime: 2021-12-08T16:26:00Z
-    webUrl: "https://www.trendhunter.com/trends/zoox-pass"
-    ampWebUrl: "https://www.trendhunter.com/amp/trends/zoox-pass"
-    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/zoox-pass"
-    type: article
-    provider:
-      name: TrendHunter
-      domain: trendhunter.com
-    quality: 59
-    images:
-      - url: "https://cdn.trendhunterstatic.com/thumbs/zoox-pass.jpeg"
-        width: 622
-        height: 478
         isCached: true
   - title: "Disclosure sought on Clearview facial recognition use and by company in separate cases"
     excerpt: "A Freedom of Information Act request seeks details about the use of Clearview AI’s facial recognition by the Criminal Investigation Division of the U.S. Army."

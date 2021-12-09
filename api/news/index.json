@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-09-microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner.md",
+      "title": "Microsoft details its next steps with Azure Space; adds Airbus as a partner",
+      "excerpt": "Microsoft is moving ahead with its work to bring Azure cloud capabilities to companies that need satellite, geospatial and other space-related technologies",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a3b721ab06beacb17c8657a6b0a68efdcbe9c0f8/2021/12/09/3a4c102d-9780-4fee-88db-7a8c0f08f42d/azurespacegeospatial.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/",
+      "publishedDateTime": "2021-12-09T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-edge-impulse-wants-to-bring-machine-learning-at-the-edge-to-everyone-announces-34m-series-b-funding.md",
+      "title": "Edge Impulse wants to bring machine learning at the edge to everyone, announces $34M Series B funding",
+      "excerpt": "M funding, and customers including the likes of NASA, in a bit over 2 years. Edge Impulse is riding the wave of machine learning at the edge",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/edge-impulse-wants-to-bring-machine-learning-at-the-edge-to-everyone-announces-34m-series-b-funding/",
+      "originalUrl": "https://www.zdnet.com/article/edge-impulse-wants-to-bring-machine-learning-at-the-edge-to-everyone-announces-34m-series-b-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2c5e44d5305d1970d75539cc4a72fddb3fdbbc68/2021/12/09/945c6753-e73d-4e5d-b4e8-e57c4cc01233/edge-impulse-series-b-announcement-graphic.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/edge-impulse-wants-to-bring-machine-learning-at-the-edge-to-everyone-announces-34m-series-b-funding/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/edge-impulse-wants-to-bring-machine-learning-at-the-edge-to-everyone-announces-34m-series-b-funding/",
+      "publishedDateTime": "2021-12-09T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-millions-of-americans-will-now-be-eligible-for-superhero-healthcare.md",
+      "title": "Millions Of Americans Will Now Be Eligible For Superhero Healthcare",
+      "excerpt": "Following Wonder Woman Gal Gadot's announcement last week that she would be joining forces with healthcare giant K Health, the company is now announcing it will provide primary care to 10 million more",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b20098bc35b3d9629e2162%2F0x0.jpg%3FcropX1%3D418%26cropX2%3D4579%26cropY1%3D0%26cropY2%3D2340",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/amp/",
+      "publishedDateTime": "2021-12-09T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students.md",
       "title": "UK’s Atom Learning picks up $25M from SoftBank for an AI-based online learning platform aimed at elementary school-aged students",
       "excerpt": "The Covid-19 pandemic ushered in a new chapter for virtual learning, giving a boost of attention to existing tools and spurring the creation of new services and use cases as students of all ages were ordered to stay home and stay out of classrooms.",
@@ -51,6 +207,58 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone.md",
+      "title": "The Psychology Of Voice Technology: Building A Better Voice Assistant For Everyone",
+      "excerpt": "If a voice assistant can't do its primary job and understand what's being asked, the user is a lot less likely to continue using it. So, what can be done to create a more inclusive VUI experience?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b0b46dd7853eea1ce9f3db%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/amp/",
+      "publishedDateTime": "2021-12-09T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -149,7 +357,7 @@
       "originalUrl": "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -268,59 +476,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more.md",
-      "title": "DeepMind makes bet on AI system that can play poker, chess, Go, and more",
-      "excerpt": "Alphabet-backed DeepMind developed a system, called Player of Games, that can win at both imperfect and perfect information games.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/",
-      "originalUrl": "https://venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/chess-1483735_1920.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/amp/",
-      "publishedDateTime": "2021-12-08T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
       ]
     },
     {
@@ -671,6 +826,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-09-deepmind-says-its-new-language-model-can-beat-others-25-times-its-size.md",
+      "title": "DeepMind says its new language model can beat others 25 times its size",
+      "excerpt": "RETRO uses an external memory to look up passages of text on the fly, avoiding some of the costs of training a vast neural network",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/",
+      "originalUrl": "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/12/gettyimages-80602579.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/",
+      "publishedDateTime": "2021-12-08T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-the-trevor-project-has-a-new-ai-persona-for-lgbtq-crisis-counseling.md",
       "title": "The Trevor Project has a new AI persona for LGBTQ crisis counseling",
       "excerpt": "Since the start of 2021, The Trevor Project, the largest suicide prevention organization for LGBTQ young people, has used an AI technology called the Crisis Contact Simulator to train its counselors on how to talk to youth in crisis.",
@@ -818,6 +1016,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-09-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger.md",
+      "title": "DeepMind experiment shows AI must grow smarter, not just bigger",
+      "excerpt": "The dominant approach to building more advanced artificial intelligences is simply to scale up their computing power, but AI firm DeepMind says we are reaching a point of diminishing returns",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/",
+      "originalUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/08141652/PRI_214101935.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/",
+      "publishedDateTime": "2021-12-08T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard.md",
       "title": "Zuckerberg And Chan Pledge $500 Million Of Their Facebook Fortune To Create An AI Institute At Harvard",
       "excerpt": "Zuckerberg and Chan, who met at a Harvard fraternity party in 2003, have already given $42 million to Harvard.",
@@ -870,6 +1111,57 @@
       ]
     },
     {
+      "path": "_news/2021-12-08-synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more.md",
+      "title": "Synthesia raises $50M to leverage synthetic avatars for corporate training and more",
+      "excerpt": "Synthesia, a startup using AI to create synthetic videos, is walking a fine, but thus far prosperous, line between being creepy and being pretty freakin’ cool. Today, it announced the close of a $50 million Series B funding round led by Kleiner Perkins,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/",
+      "originalUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/img-Hero-WithActor.png?w=1024",
+          "width": 1023,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/",
+      "publishedDateTime": "2021-12-08T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars.md",
       "title": "Those Sordid Follow-Home Robberies To First Rise And Then Thankfully Decline During The Coming Era Of AI Self-Driving Cars",
       "excerpt": "Follow-home robberies are in the news quite a bit. For the coming era of AI self-driving cars, such criminal acts will at first be emboldened and then later be generally overcome as driverless cars become widespread.",
@@ -902,300 +1194,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-ai-video-platform-synthesia-raises-50-million-in-series-b.md",
-      "title": "AI Video Platform Synthesia Raises $50 Million In Series B",
-      "excerpt": "AI video platform Synthesia (cofounded by Under 30 honorees) which allows users to quickly make videos using software as opposed to using traditional video production equipment, announced today that it has raised $50 million in a Series B round led by Kleiner Perkins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-platform-synthesia-raises-50-million-in-series-b/",
-      "originalUrl": "https://www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-platform-synthesia-raises-50-million-in-series-b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b0ceadfcf8cdaf3e238cfe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3023%26cropY1%3D147%26cropY2%3D1849",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-platform-synthesia-raises-50-million-in-series-b/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-platform-synthesia-raises-50-million-in-series-b/amp/",
-      "publishedDateTime": "2021-12-08T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-natural-language-processing-and-conversational-ai-in-the-call-center.md",
-      "title": "Natural Language Processing and Conversational AI in the Call Center",
-      "excerpt": "Natural language processing (NLP) and conversational AI are often used together with machine learning, natural language understanding (NLU) to create sophisticated applications that enable machines to communicate with human beings. This article will look ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/",
-      "originalUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/a40ebbb5088c4bb7a3be22349378658d.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/amp/",
-      "publishedDateTime": "2021-12-08T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-moderna-stock-is-sold-by-this-robot-trader-it-bought-tesla-and-merck-instead.md",
-      "title": "Moderna Stock Is Sold by This Robot Trader. It Bought Tesla and Merck Instead.",
-      "excerpt": "Artificial intelligence-run fund AMOM also loaded up on shares of Netflix, and bet big on a very low-profile medical device specialist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159?refsec=hp_INTERESTS_technical-analysis",
-      "originalUrl": "https://www.barrons.com/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159?refsec=hp_INTERESTS_technical-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-77576/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159",
-      "publishedDateTime": "2021-12-08T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-red-hat-brings-ansible-it-automation-engine-to-azure.md",
-      "title": "Red Hat brings Ansible IT automation engine to Azure",
-      "excerpt": "Red Hat is bringing the Ansible Automation Platform to Microsoft's Azure, helping companies manage and scale their IT environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/",
-      "originalUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/amp/",
-      "publishedDateTime": "2021-12-08T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind.md",
-      "title": "The Era Of ‘Pervasive AI’ Has Begun: Get Going Or Get Left Behind",
-      "excerpt": "This new era of AI — \"pervasive AI\" — marks the end of technology paralysis and the beginning of transformation enablement. So, no more excuses. Stop worrying about how AI works and start focusing on what you want it to do for your business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af6519fc3b7cc9b1a728d7%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/amp/",
-      "publishedDateTime": "2021-12-08T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-waymos-slow-going-in-arizona-opens-up-us-robotaxi-race.md",
-      "title": "Waymo's slow-going in Arizona opens up U.S. robotaxi race",
-      "excerpt": "Alphabet Inc's Waymo risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/",
-      "originalUrl": "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/kcukEDS_xfrmW9E7pUxyC0dZjbw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VWCAES5GCZLOFGZLTSQFXKL66Y.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

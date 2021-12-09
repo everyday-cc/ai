@@ -26,83 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Sense raises $50M to bolster recruitment efforts with AI"
-    excerpt: "Sense, a startup developing AI-powered recruitment and hiring solutions for companies, has raised $50 million."
-    publishedDateTime: 2021-12-05T16:48:00Z
-    webUrl: "https://venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/amp/"
+  - title: "Healthcare startup Suki.AI raises $55mn led by March Capital"
+    excerpt: "Suki.AI Inc, a health-tech start-up, has raised $55 million (around ₹412 crore) in a Series C funding round led by March Capital, the company said in a statement. The round also saw participation from Philips Ventures, and existing investors such as ..."
+    publishedDateTime: 2021-12-08T11:38:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital-11638963113259.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital/amp-11638963113259.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital/amp-11638963113259.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Mint
+      domain: livemint.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1332176260-e1635784317222.jpg?fit=800%2C475&strip=all"
-        width: 800
-        height: 400
+      - url: "https://images.livemint.com/img/2021/12/08/600x338/Suki_1638963476381_1638963482280.JPG"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Synthesia, which is developing AI to generate synthetic videos, secures $50M"
-    excerpt: "Synthesia, a company developing AI technologies to generate synthetic videos and avatars, has raised $50 million."
-    publishedDateTime: 2021-12-08T21:00:00Z
-    webUrl: "https://venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/"
-    ampWebUrl: "https://venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/amp/"
+  - title: "Fego.ai Raises $1.5 Million In Seed Round"
+    excerpt: "Fego.ai has raised $1.5 million in Seed round from 3one4 Capital, Saison Capital, Eximius Ventures, First Cheque and Speciale Invest. The startup, which is one of the earliest open-finance players in India,"
+    publishedDateTime: 2021-12-08T13:10:00Z
+    webUrl: "https://www.entrepreneur.com/article/401435"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1138451176-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 578
-        isCached: true
-  - title: "AI-powered customer engagement platform MoEngage raises $30M to grow operations"
-    excerpt: "MoEngage, a startup developing an AI-driven customer engagement platform, has closed a $30 million venture capital round."
-    publishedDateTime: 2021-12-07T14:22:00Z
-    webUrl: "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/"
-    ampWebUrl: "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/communication-6605648_1920-e1632854543166.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "NewtonX raises $32M for AI that connects customers with subject-matter experts"
-    excerpt: "NewtonX, a startup developing graph technology that connects experts with companies seeking answers to questions, has raised $32 million."
-    publishedDateTime: 2021-12-08T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/"
-    ampWebUrl: "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Saving Lives With Artificial Intelligence"
-    excerpt: "A new technology developed at Tel Aviv University will make it possible, using artificial intelligence, to identify patients who are at risk of serious"
-    publishedDateTime: 2021-12-07T11:59:00Z
-    webUrl: "https://hamodia.com/2021/12/07/saving-lives-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Hamodia
-      domain: hamodia.com
-    quality: 37
-    images:
-      - url: "https://images.hamodia.com/hamod-uploads/2021/12/07050423/7f5fe743e5056f0e35e13f7dc7924882.jpg"
-        width: 580
-        height: 330
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png"
+        width: 2000
+        height: 1334
         isCached: true
 
 secured: "kTS1m0gC2+RvyECaKMj63fTT2hv2Uil/rmhNUG72iZJxR0UvnfgoFG/4RWAWF4f+bnvno80qDTkYcxtOX8iNO1GPTx56r5OzadOPeTyfyLKyxPveEOR4karpIhnRzainsXLhwHFc7ek08NpesFPi5AqzU7lgYiON/Je1+cXX3qGkVEt0CiZiJNOq7AzP6/u/L7thZREUd+bmvyox5kHeL/mrmxHsCRtaLiLu22siMaRBv6dRM8RDSY3Ze39Ry/pF3CMV3br3ygasq8KS7s41nyS6HiEcIkjdAmvavjUtH8gLfcc6u/f6bT/iuS3eWrohZ0Qnh27SsYO9AEZmG+bf7iiE5mimFgvaacd6xwQHcnvUvLW4Dy4ZWavnpFYOSutJjCMR9O4gPPVVNemKN48W87CDq3ZkVSF0F+OrPc29KalflBA+eMJH4MCL87dvBVnzSw4Et3x/VwZk5e1CJPJKaiMwKSvzUtLS9pEkXzlgId7Jli8qPSXPuVQ48ufQrxpip/aSFj30wWcYNxeffmOzhQ==;okIoOJvc1pBbuBUnb0i15g=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/technology/qualcomms-ai-chip-chief-departs
 webUrl: "https://www.reuters.com/technology/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2021-12-08/"
 type: article
 quality: 86
-heat: 156
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -40,7 +40,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 84
+    quality: 86
   - title: "Chip shortage to ease next year, says Qualcomm chief executive"
     excerpt: "Multiple smartphone makers could not procure enough processors from Qualcomm which affected their production, the report said. Samsung was no exception, as its mobile chief TM Roh and procurement executives visiting the US mid-year to meet with chip companies to secure more supply,"
     publishedDateTime: 2021-12-05T18:00:00Z

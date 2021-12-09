@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-pla
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-platform-synthesia-raises-50-million-in-series-b/amp/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "Synthesia raises $50M to leverage synthetic avatars for corporate training and more"
+    excerpt: "Synthesia, a startup using AI to create synthetic videos, is walking a fine, but thus far prosperous, line between being creepy and being pretty freakin’ cool. Today, it announced the close of a $50 million Series B funding round led by Kleiner Perkins,"
+    publishedDateTime: 2021-12-08T15:50:00Z
+    webUrl: "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/"
+    ampWebUrl: "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 181
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/12/img-Hero-WithActor.png?w=1024"
+        width: 1023
+        height: 659
+        isCached: true
+  - title: "Synthesia, which is developing AI to generate synthetic videos, secures $50M"
+    excerpt: "Synthesia, a company developing AI technologies to generate synthetic videos and avatars, has raised $50 million."
+    publishedDateTime: 2021-12-08T21:00:00Z
+    webUrl: "https://venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/"
+    ampWebUrl: "https://venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1138451176-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 578
+        isCached: true
   - title: "AI video avatar platform Synthesia raises $50 mln in venture capital"
     excerpt: "Synthesia, a London-based artificial intelligence startup that creates video avatars of real people, said on Wednesday it raised $50 million from Silicon Valley venture capital firm Kleiner Perkins and GV,"
     publishedDateTime: 2021-12-08T13:09:00Z

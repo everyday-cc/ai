@@ -24,85 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Sense raises $50M to bolster recruitment efforts with AI"
-    excerpt: "Sense, a startup developing AI-powered recruitment and hiring solutions for companies, has raised $50 million."
-    publishedDateTime: 2021-12-05T16:48:00Z
-    webUrl: "https://venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/amp/"
+  - title: "The power of AI can be unleashed with a focus on ethics"
+    excerpt: "An EY survey reveals the public’s concerns around the growing use of artificial intelligence – but also the opportunities for organisations that take the right ethical approach."
+    publishedDateTime: 2021-12-09T06:00:00Z
+    webUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics"
+    ampWebUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1332176260-e1635784317222.jpg?fit=800%2C475&strip=all"
-        width: 800
+      - url: "https://www.computerweekly.com/visuals/German/article/ethics-morals-3-adobe.jpg"
+        width: 1200
         height: 400
         isCached: true
-  - title: "Synthesia, which is developing AI to generate synthetic videos, secures $50M"
-    excerpt: "Synthesia, a company developing AI technologies to generate synthetic videos and avatars, has raised $50 million."
-    publishedDateTime: 2021-12-08T21:00:00Z
-    webUrl: "https://venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/"
-    ampWebUrl: "https://venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/amp/"
+  - title: "Global Agreement Defines The Ethics of Artificial Intelligence"
+    excerpt: "A historic agreement defines the common values and principles needed to ensure the healthy development of Artificial Intelligence (AI). All the member states of the UN Educational, Scientific and Cultural Organization ( UNESCO) have signed the agreement."
+    publishedDateTime: 2021-12-06T01:07:00Z
+    webUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916-global-agreement-defines-the-ethics-of-artificial-intelligence"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
+      name: IDN-InDepthNews
+      domain: indepthnews.info
+    quality: 56
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1138451176-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 578
-        isCached: true
-  - title: "AI-powered customer engagement platform MoEngage raises $30M to grow operations"
-    excerpt: "MoEngage, a startup developing an AI-driven customer engagement platform, has closed a $30 million venture capital round."
-    publishedDateTime: 2021-12-07T14:22:00Z
-    webUrl: "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/"
-    ampWebUrl: "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/communication-6605648_1920-e1632854543166.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "NewtonX raises $32M for AI that connects customers with subject-matter experts"
-    excerpt: "NewtonX, a startup developing graph technology that connects experts with companies seeking answers to questions, has raised $32 million."
-    publishedDateTime: 2021-12-08T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/"
-    ampWebUrl: "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI-powered hiring start-up Sense raises $50 million from SoftBank Vision Fund 2"
-    excerpt: "Talent engagement start-up Sense on Monday announced that it has raised $50 million in Series D funding led by SoftBank Vision Fund 2. The fresh funds will be used to ramp up its go-to-market strategy and expansion into international markets."
-    publishedDateTime: 2021-12-06T15:53:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/ai-powered-hiring-start-up-sense-raises-50-million-from-softbank-vision-fund-2/article37872961.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/ai-powered-hiring-start-up-sense-raises-50-million-from-softbank-vision-fund-2/article37872961.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/ai-powered-hiring-start-up-sense-raises-50-million-from-softbank-vision-fund-2/article37872961.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 53
-    images:
-      - url: "https://www.thehindubusinessline.com/companies/tk0syv/article37872960.ece/ALTERNATES/LANDSCAPE_615/blfund"
-        width: 615
-        height: 384
+      - url: "https://www.indepthnews.info/images/artificial_intelligence.jpg"
+        width: 750
+        height: 337
         isCached: true
 
 secured: "goXSQ1QkirBh5FCdhIw4Ss+dXuLroZEaLHo0Yv9oPSv9nnC+Ag9t/Smqx7EyHaL0SwvCMjK8VhgdEojzYKJ69p48zsA4wdaeGFt4suPehb4JueeOn06liRq+Q7ShchXSsx/D0rwnKBGZqCgCgONBq76Q4DdgoUvSzVTsvYeOq9woXtVh3ufyv4nXZHqLXVXL4VwGFhy8qDB/mCWJ67hzBlj0pUB/so7vEP4WApZDwwI2XFlieukxHQ1VOEZHMVG1msPReNRXgeGi0iNLSiHNgmPRWRnbmssm97sEiCs6xESrs7lzgE7ysJ4iJ/LilSxIsdJGLYmmrkUTUs1BkdJwCo0ZDotXakXGvNy0bt81bIil5ZL0JnWbIwZagBpjYas3+WHVPkUHha5GSqxlLt/V+42G/hyIcYqO27W+ewPbd2kDir+C3lAjQLfdHHay/b3TI5TNm0rOh1mUf+9EycniienC3LeHrcXMA7X+vLf6g1Jain0Fi4SNyYzBlWbLgBNKVH51sK9s6TnyEP+hKUUSkA==;ynJ2OI8WeRBRHfBZpeuqdw=="

@@ -26,30 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft (MSFT) to Support CVS Health's Digital Transformation"
-    excerpt: "Microsoft MSFT is teaming up with CVS Health CVS to help the latter ramp up its digital transformation endeavours. This will help CVS health to provide a data-oriented and personal customer experience along with greater compliance with the company’s own patient confidentiality rules,"
-    publishedDateTime: 2021-12-06T14:28:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp"
+  - title: "Microsoft details its next steps with Azure Space; adds Airbus as a partner"
+    excerpt: "Microsoft is moving ahead with its work to bring Azure cloud capabilities to companies that need satellite, geospatial and other space-related technologies"
+    publishedDateTime: 2021-12-09T14:17:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "CVS Health (CVS) New Alliance to Boost Digital Transformation"
-    excerpt: "CVS Health's (CVS) collaboration with Microsoft will accelerate digital transformation and empower employees to provide more customized and affordable care."
-    publishedDateTime: 2021-12-07T14:01:00Z
-    webUrl: "https://www.entrepreneur.com/article/401170"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: ZDNet
+      domain: zdnet.com
+    quality: 117
     images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-401170.jpeg"
-        width: 635
-        height: 400
+      - url: "https://www.zdnet.com/a/img/resize/a3b721ab06beacb17c8657a6b0a68efdcbe9c0f8/2021/12/09/3a4c102d-9780-4fee-88db-7a8c0f08f42d/azurespacegeospatial.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 676
         isCached: true
   - title: "CVS Health and Microsoft agree new strategic alliance"
     excerpt: "Healthcare provider CVS Health and Microsoft have agreed a new strategic alliance to develop new healthcare solutions and provide 300,000 CVS Health employees with tools to serve over one million customers."
@@ -65,15 +56,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "M2GEN Announces Collaboration with Microsoft to Advance Bioinformatics Solutions for Oncology"
-    excerpt: "M2GEN, a bioinformatics company accelerating discoveries in oncology research through superior data and analytics, today announced it is partnering with Microsoft to advance and scale its unique data-driven solutions for the discovery,"
-    publishedDateTime: 2021-12-09T12:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/m2gen-announces-collaboration-with-microsoft-to-advance-bioinformatics-solutions-for-oncology-1031035161"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
 
 secured: "23txA4rTGl3zCrHp05RFKtvimoUF4QhbqAu6c0p1Q7Mw5Xsg0xCJsJmZ/G08tXD3JoL/i93WoCN4XrM+EIatEia+IrBlw27aBQtPIuCE5Y9fxerqRZnyflEkUTA3zpHcC3TfQN27e5dqEubJH8h7UGOXTbDlrhGM334s/04XK2VEcjDg5F+/2VHSgjJnMB6DPuebl5+iPfiitywwJhd5EvyB1hhl4yWuB4ZIujZKdnylAzIaRwbVbegusG3SwZ+O2HRG8vCujWjB5FVylierUb2swJl8VQrWVUQmgJb7ECF4PH80wl/Tsezrdz224p+ApWrI7dSWcQh6QmjhG4r/mFlAVXhPUIxPe4qlpw5jJ/m1iJQH7FScE8qToaYDgf+M/X1LxR7jZXU59rkAkgOddoQsW8Qkd99djPgrpJeUbzhYmBIAryVvmou8uN8cNjm79j8ME0uQ/zjcGN7Efrij/4ukqJw576suKBmYALmvXvivCah4/VWQmsvtuftG/7qz8HeQLoBp/6kSllU/VJGmGw==;bXqPXy7fLaSaG2Ybc9FDBQ=="
 ---

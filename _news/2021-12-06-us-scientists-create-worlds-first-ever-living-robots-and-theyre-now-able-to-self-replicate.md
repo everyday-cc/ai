@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Will self-replicating xenobots cure diseases, yield new bioweapons, or simply turn the whole world into grey goo?"
+    excerpt: "In 2020, scientists made global headlines by creating \"xenobots\"—tiny \"programmable\" living things made of several thousand frog stem cells."
+    publishedDateTime: 2021-12-09T14:00:00Z
+    webUrl: "https://phys.org/news/2021-12-self-replicating-xenobots-diseases-yield-bioweapons.html"
+    ampWebUrl: "https://phys.org/news/2021-12-self-replicating-xenobots-diseases-yield-bioweapons.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-self-replicating-xenobots-diseases-yield-bioweapons.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 23
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/will-self-replicating.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "World's first living robots created, and they learned how to reproduce"
     excerpt: "A team of researchers has successfully created the first living robot that has recently learned how to reproduce in a new way."
     publishedDateTime: 2021-12-06T06:04:00Z

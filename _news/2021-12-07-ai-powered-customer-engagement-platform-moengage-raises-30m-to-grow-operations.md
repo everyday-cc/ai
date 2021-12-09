@@ -8,9 +8,9 @@ webUrl: "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platf
 ampWebUrl: "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/"
 type: article
-quality: 83
-heat: -1
-published: false
+quality: 183
+heat: 193
+published: true
 
 provider:
   name: VentureBeat
@@ -46,69 +46,7 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Synthesia, which is developing AI to generate synthetic videos, secures $50M"
-    excerpt: "Synthesia, a company developing AI technologies to generate synthetic videos and avatars, has raised $50 million."
-    publishedDateTime: 2021-12-08T21:00:00Z
-    webUrl: "https://venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/"
-    ampWebUrl: "https://venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/GettyImages-1138451176-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 578
-        isCached: true
-  - title: "NewtonX raises $32M for AI that connects customers with subject-matter experts"
-    excerpt: "NewtonX, a startup developing graph technology that connects experts with companies seeking answers to questions, has raised $32 million."
-    publishedDateTime: 2021-12-08T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/"
-    ampWebUrl: "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI-powered hiring start-up Sense raises $50 million from SoftBank Vision Fund 2"
-    excerpt: "Talent engagement start-up Sense on Monday announced that it has raised $50 million in Series D funding led by SoftBank Vision Fund 2. The fresh funds will be used to ramp up its go-to-market strategy and expansion into international markets."
-    publishedDateTime: 2021-12-06T15:53:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/ai-powered-hiring-start-up-sense-raises-50-million-from-softbank-vision-fund-2/article37872961.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/ai-powered-hiring-start-up-sense-raises-50-million-from-softbank-vision-fund-2/article37872961.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/ai-powered-hiring-start-up-sense-raises-50-million-from-softbank-vision-fund-2/article37872961.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 53
-    images:
-      - url: "https://www.thehindubusinessline.com/companies/tk0syv/article37872960.ece/ALTERNATES/LANDSCAPE_615/blfund"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "Saving Lives With Artificial Intelligence"
-    excerpt: "A new technology developed at Tel Aviv University will make it possible, using artificial intelligence, to identify patients who are at risk of serious"
-    publishedDateTime: 2021-12-07T11:59:00Z
-    webUrl: "https://hamodia.com/2021/12/07/saving-lives-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Hamodia
-      domain: hamodia.com
-    quality: 37
-    images:
-      - url: "https://images.hamodia.com/hamod-uploads/2021/12/07050423/7f5fe743e5056f0e35e13f7dc7924882.jpg"
-        width: 580
-        height: 330
-        isCached: true
 
-secured: "s2wNOtBGi9JVEFe6uFVLL6v1sN3uEVvkHcTDxijyWFjzW7OYxK5K/+n1M0KgWCTY+TP1J5lyRkfAPeG+Ehee2jamuQEUoMqEvfK25GApuM/3vG64YvvJrq3kdurBUremhHIEmcVh2zIjCdZglJHakXwjXr7UEI4JwMfhlvvt0/cAXmWD1AcO8A+Bkrn4UHk4GoSanOaJtt/wOTJJGsFIucdLRL68Jbd6Bu5MI4LsoqdsgI4IElgBoKvIub0dCkF7L0tgkYuvA6OGnVBggLdAXv8RtShChO4P8Y83LUCCztWpyf0qYP9a6Ir5LLus4LDqP7t1tKegVBQWvTWMtFxufrdgJX0pMs4MY1mK0Tnp4OxhH0sUYk3LiniCeD6shh6tB32EysB55FbstE1ZZPbaNZgkc3KNHR/0x6TYrrSyhSrobi7oa1ITN7uf/pqH6HgGfGhvs+Q7a1JrndBHgJILovQbAGhy1nLnLlZQlSAzN2Xd5rLqschYES6fftQIG6KbkkQCZwlT6vd7QSulX+NnUQ==;DXA1/51SNYexwH1dJ99w7g=="
+secured: "yJtAIVWZX1puhHayOZOnQbvM2YpmW21gMYgrJPs4Wj8XEXaYRuun85zq4ZyNSaiyFiRRHgtd6RCfVkw9WwSnyHiBe+Du625qPibTXjPgpILym6woPn4iYqwztO9X47Go79isU27WVA61qivMTGWDz1i7QykGpWpijsYYMTi8RHB0krTREbn+tl5takMc/twQJH7HuGikQ3L0Ns3jwO+tbYfPRgM93DL7NktWU/4OQuG99AauqBCes3WXXuikavFA0a4Xj27+iZvLHVitgbOEGKQY2etQMNyixR1oRG6gM246bkR5TE+3OVM4qVg+kVVyRuM8pcpndd3D+3tfz0IUPbVEqhKzVRDPIVYFcvYRA3l9q+UbooctKQ4skKhkpwJNC5FTKN/ROBF5s5iU34Wx2JtXH1kpmniFkHNuGchx0M1u5jI+j6r+uNQGiCa5O7wkw/QqaQ1JIvgee/SAWu6qekjUQfyeweiiKtQJx1jPaee/gtk4zJqOBiGwxAIUXNQn3VK6oT+YMZKK46aXJaMPb2kEKG9IPQA5sBp3Ys8tM78=;qUCEvnZWIUQPgPsJCnteTw=="
 ---
 

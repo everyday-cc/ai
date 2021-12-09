@@ -53,7 +53,7 @@
       "originalUrl": "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-security.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -77,6 +77,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-clearview-ai-close-to-being-awarded-a-us-patent-for-its-facial-recognition-tech.md",
+      "title": "Clearview AI close to being awarded a US patent for its facial recognition tech",
+      "excerpt": "Controversial firm Clearview AI is close to being awarded a patent for its facial recognition technology, which is used to scan faces from pictures available on",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
+      "originalUrl": "https://www.techspot.com/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/12/2021-12-06-image-9.jpg",
+          "width": 2560,
+          "height": 1439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
+      "publishedDateTime": "2021-12-06T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -675,10 +727,10 @@
     {
       "path": "_news/2021-12-02-picsart-to-acquire-computer-vision-and-ai-company-deepcraft.md",
       "title": "Picsart to Acquire Computer Vision and AI Company DeepCraft",
-      "excerpt": "Picsart, the world’s leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an undisclosed sum.",
+      "excerpt": "Picsart, the world's leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an undisclosed sum.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/picsart-to-acquire-computer-vision-and-ai-company-deepcraft/",
-      "originalUrl": "https://www.financialbuzz.com/picsart-to-acquire-computer-vision-and-ai-company-deepcraft/",
+      "webUrl": "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -688,11 +740,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T07:28:00-08:00",
+      "publishedDateTime": "2021-12-02T07:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1344,58 +1396,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-face-recognition-technology-market-2021-emerging-trend-and-business-opportunities-scope-and-overview-forecast-by-2026.md",
-      "title": "Face Recognition Technology Market 2021 Emerging Trend and Business Opportunities, Scope and Overview, Forecast by 2026",
-      "excerpt": "Global “Face Recognition TechnologyMarket” research Report provides a holistic analysis, market size and forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2021-emerging-trend-and-business-opportunities-scope-and-overview-forecast-by-2026-2021-11-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-technology-market-2021-emerging-trend-and-business-opportunities-scope-and-overview-forecast-by-2026-2021-11-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T00:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -31,83 +31,74 @@ images:
     isCached: true
 
 related:
-  - title: "Sense raises $50M to bolster recruitment efforts with AI"
-    excerpt: "Sense, a startup developing AI-powered recruitment and hiring solutions for companies, has raised $50 million."
-    publishedDateTime: 2021-12-05T16:48:00Z
-    webUrl: "https://venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/amp/"
+  - title: "Synthesia raises $50M to leverage synthetic avatars for corporate training and more"
+    excerpt: "Synthesia, a startup using AI to create synthetic videos, is walking a fine, but thus far prosperous, line between being creepy and being pretty freakin’ cool. Today, it announced the close of a $50 million Series B funding round led by Kleiner Perkins,"
+    publishedDateTime: 2021-12-08T15:50:00Z
+    webUrl: "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/"
+    ampWebUrl: "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 181
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/12/img-Hero-WithActor.png?w=1024"
+        width: 1023
+        height: 659
+        isCached: true
+  - title: "AI Video Platform Synthesia Raises $50 Million In Series B"
+    excerpt: "AI video platform Synthesia (cofounded by Under 30 honorees) which allows users to quickly make videos using software as opposed to using traditional video production equipment, announced today that it has raised $50 million in a Series B round led by Kleiner Perkins."
+    publishedDateTime: 2021-12-08T14:38:00Z
+    webUrl: "https://www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-platform-synthesia-raises-50-million-in-series-b/"
+    ampWebUrl: "https://www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-platform-synthesia-raises-50-million-in-series-b/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/igorbosilkovski/2021/12/08/ai-video-platform-synthesia-raises-50-million-in-series-b/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1332176260-e1635784317222.jpg?fit=800%2C475&strip=all"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "AI-powered customer engagement platform MoEngage raises $30M to grow operations"
-    excerpt: "MoEngage, a startup developing an AI-driven customer engagement platform, has closed a $30 million venture capital round."
-    publishedDateTime: 2021-12-07T14:22:00Z
-    webUrl: "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/"
-    ampWebUrl: "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/communication-6605648_1920-e1632854543166.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b0ceadfcf8cdaf3e238cfe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3023%26cropY1%3D147%26cropY2%3D1849"
         width: 1200
-        height: 600
+        height: 676
         isCached: true
-  - title: "NewtonX raises $32M for AI that connects customers with subject-matter experts"
-    excerpt: "NewtonX, a startup developing graph technology that connects experts with companies seeking answers to questions, has raised $32 million."
-    publishedDateTime: 2021-12-08T15:00:00Z
-    webUrl: "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/"
-    ampWebUrl: "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/"
+  - title: "AI video avatar platform Synthesia raises $50 mln in venture capital"
+    excerpt: "Synthesia, a London-based artificial intelligence startup that creates video avatars of real people, said on Wednesday it raised $50 million from Silicon Valley venture capital firm Kleiner Perkins and GV,"
+    publishedDateTime: 2021-12-08T13:09:00Z
+    webUrl: "https://www.reuters.com/markets/funds/ai-video-avatar-platform-synthesia-raises-50-mln-venture-capital-2021-12-08/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 83
+      name: Reuters
+      domain: reuters.com
+    quality: 67
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all"
+      - url: "https://www.reuters.com/resizer/aU-2ZsO7L6Vz8WO4LA0sXAtmNWw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IVXAG7ZXRVIGNGELRCHWGM6CDM.jpg"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
-  - title: "AI-powered hiring start-up Sense raises $50 million from SoftBank Vision Fund 2"
-    excerpt: "Talent engagement start-up Sense on Monday announced that it has raised $50 million in Series D funding led by SoftBank Vision Fund 2. The fresh funds will be used to ramp up its go-to-market strategy and expansion into international markets."
-    publishedDateTime: 2021-12-06T15:53:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/ai-powered-hiring-start-up-sense-raises-50-million-from-softbank-vision-fund-2/article37872961.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/ai-powered-hiring-start-up-sense-raises-50-million-from-softbank-vision-fund-2/article37872961.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/ai-powered-hiring-start-up-sense-raises-50-million-from-softbank-vision-fund-2/article37872961.ece/amp/"
+  - title: "AI Video Avatar Platform Synthesia Raises $50 Million in Venture Capital"
+    excerpt: "Synthesia, a London-based artificial intelligence startup that creates video avatars of real people, said on Wednesday it raised $50 million from Silicon Valley venture capital firm Kleiner Perkins and GV,"
+    publishedDateTime: 2021-12-08T14:09:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-08/ai-video-avatar-platform-synthesia-raises-50-million-in-venture-capital"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 53
-    images:
-      - url: "https://www.thehindubusinessline.com/companies/tk0syv/article37872960.ece/ALTERNATES/LANDSCAPE_615/blfund"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "Saving Lives With Artificial Intelligence"
-    excerpt: "A new technology developed at Tel Aviv University will make it possible, using artificial intelligence, to identify patients who are at risk of serious"
-    publishedDateTime: 2021-12-07T11:59:00Z
-    webUrl: "https://hamodia.com/2021/12/07/saving-lives-with-artificial-intelligence/"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
+  - title: "Multilingual Video and Avatar Startup Synthesia Raises USD 50m"
+    excerpt: "AI video platform Synthesia announced that it had raised USD 50m in series B funding. The round was led by Josh Coyne from Kleiner Perkins, with the participation of GV (formerly Google Ventures). All existing investors in Synthesia — including Firstmark Capital,"
+    publishedDateTime: 2021-12-08T13:07:00Z
+    webUrl: "https://slator.com/multilingual-video-and-avatar-startup-synthesia-raises-usd-50m/"
     type: article
     provider:
-      name: Hamodia
-      domain: hamodia.com
+      name: Slator
+      domain: slator.com
     quality: 37
     images:
-      - url: "https://images.hamodia.com/hamod-uploads/2021/12/07050423/7f5fe743e5056f0e35e13f7dc7924882.jpg"
-        width: 580
-        height: 330
+      - url: "https://slator.com/assets/2021/12/Synthesia.png"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "5gGNNX9RlboUw56By7tIEMjF8d+ZfslJFMoktvGKtJsTdBzq8J1k4YknWL9jXIQy2zipb5ESarkG6ZOMm0pxhM02nh0SJb2S2l7wCaILyUM0ZzVAu1LQZ5gr1hfBfJGihRFVFi/A+9Nx4qz00ruHEqKLT/6hZZZI8kxHFChLTwZkZs1jZdMFdJXQmUwSy4yNQyR5DOck/MVYwh60UAeVmMVnGazKb7enaFueLGMqq2+dUbdPI0D/VeDlBFCz6AqqJjflI7mdY9BFdTmDsv7OsGo2mlYaW/sybyr4mngMMvhVSGmRKvt/ROkTBKbaSyyCSKw0SO9Bpnn/tiB2LzEoMxvO04ZTbYVL86/5th9Qz9MEAXAC1kdgQs0OTP40Y4ab16j7k+l81kK5Az0W1nfgustzOXzam6G1AemVEX8n0/SvvSnjmVfsRJHSkllBxUaNhwY6z4IlSrVeePho6KVbVrPhuGMLMg2llvtPmyY0BTYtMc8mT3Zp1/8ekDfRgPQRPwQeH+L08EXs+TvP+A3tTA==;6c6UDGmqioH/2L0eih0tgw=="

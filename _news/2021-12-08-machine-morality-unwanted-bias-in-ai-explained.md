@@ -24,6 +24,19 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "Limiting Bias in Artificial Intelligence Tools, Personalized Medicine"
+    excerpt: "Researchers are developing data collection methods to decrease bias in artificial intelligence tools and precision medicine."
+    publishedDateTime: 2021-12-09T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/limiting-bias-in-artificial-intelligence-tools-personalized-medicine"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/limiting-bias-in-artificial-intelligence-tools-personalized-medicine"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/limiting-bias-in-artificial-intelligence-tools-personalized-medicine"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+
 secured: "kcisNLESq8Ns+Zvu8gDoztmiSCAP+7J8Ckar43SRVgh1FM2/wvOUZqWl+PjTLh2/jJvOwWXJWBXmBUlI57pSj02ANCzHAMCFVYJ4fSUDFMpCSMMjVDI3oEdyd2J4gK7FYuuVQfRk0ka17lifksFJvrYHgaX20wDSHTbTeVZQAXvoDnuTprgzGTw0etPG20NcL17SSJgcZswknsoI3IdN5MFtwv2QoCszCNuCJN4Gkysgxe+d0XigovXL7l2a7Ta0EiqB8NjXcJu4LFIGVkoZvmcvOqiTjNfjq+pcfQmAQ7ebOwL/jbPCXZko6yrfyyMvBVn4VzPxTqC5smoG49spd11SZ2xdT0P24+taF6zdfLFJi72p1oOJVSI0KBiW7zNYzTrskiFvcoU7NplpQYmQ/p/cTE8xjH9Tze/txwg2a1wP9iCimhcu8yRO7N4VR/LELHV1+hDCOcm/TqbtEy/04WQRIEOn7qwCAXC16FmUYJbGJjPYL2CH/GInMxUZkCrTC/VidAODlCBgjaf3/OEQLQ==;D2sXf7xcgL/2N/AaP9J4OQ=="
 ---
 

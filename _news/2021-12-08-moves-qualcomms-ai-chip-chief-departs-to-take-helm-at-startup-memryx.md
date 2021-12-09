@@ -8,9 +8,9 @@ webUrl: "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-t
 ampWebUrl: "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp"
 type: article
-quality: 84
-heat: -1
-published: false
+quality: 86
+heat: 156
+published: true
 
 provider:
   name: Nasdaq
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 related:
   - title: "Qualcomm's AI chip chief departs to take helm at startup MemryX"

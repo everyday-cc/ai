@@ -89,6 +89,20 @@ related:
         width: 1375
         height: 917
         isCached: true
+  - title: "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding ..."
+    excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts BOSTON, M In less than six months, the Mass Fintech Hub,"
+    publishedDateTime: 2021-12-09T13:01:00Z
+    webUrl: "https://www.pr-inside.com/mass-fintech-hub-more-than-doubles-membership-to-bolster-expanding-r4857729.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 24
+    images:
+      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Adam Martel to launch new AI fintech startup following Gravyty's merger deal"
     excerpt: "Adam Martel, best known as CEO and co-founder of Boston-based Gravyty, has left the AI fundraising company and is working on a new venture."
     publishedDateTime: 2021-12-07T19:24:00Z

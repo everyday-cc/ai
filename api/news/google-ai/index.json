@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-09-deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more.md",
-      "title": "DeepMind makes bet on AI system that can play poker, chess, Go, and more",
-      "excerpt": "Alphabet-backed DeepMind developed a system, called Player of Games, that can win at both imperfect and perfect information games.",
+      "path": "_news/2021-12-09-deepmind-says-its-new-language-model-can-beat-others-25-times-its-size.md",
+      "title": "DeepMind says its new language model can beat others 25 times its size",
+      "excerpt": "RETRO uses an external memory to look up passages of text on the fly, avoiding some of the costs of training a vast neural network",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/",
-      "originalUrl": "https://venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/",
+      "webUrl": "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/",
+      "originalUrl": "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 179,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/chess-1483735_1920.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 820,
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/12/gettyimages-80602579.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/amp/",
-      "publishedDateTime": "2021-12-08T14:30:00-08:00",
+      "ampWebUrl": "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/",
+      "publishedDateTime": "2021-12-08T10:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -50,8 +41,7 @@
       ],
       "topics": [
         "Google AI",
-        "AI",
-        "Facebook AI"
+        "AI"
       ]
     },
     {
@@ -105,6 +95,49 @@
         "AI",
         "Google AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger.md",
+      "title": "DeepMind experiment shows AI must grow smarter, not just bigger",
+      "excerpt": "The dominant approach to building more advanced artificial intelligences is simply to scale up their computing power, but AI firm DeepMind says we are reaching a point of diminishing returns",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/",
+      "originalUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/08141652/PRI_214101935.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/",
+      "publishedDateTime": "2021-12-08T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -1414,58 +1447,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-alphabet-launches-ai-company-to-discover-new-drugs.md",
-      "title": "Alphabet launches AI company to discover new drugs",
-      "excerpt": "Google owner Alphabet has launched an artificial intelligence company to discover new drugs. UK-registered Isomorphic Labs will use technology from its sister company DeepMind “to accelerate drug discovery,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/",
-      "originalUrl": "https://arstechnica.com/science/2021/11/alphabet-launches-ai-company-to-discover-new-drugs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/deepmind-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

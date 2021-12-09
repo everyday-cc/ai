@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind makes bet on AI system that can play poker, chess, Go, and more"
-    excerpt: "Alphabet-backed DeepMind developed a system, called Player of Games, that can win at both imperfect and perfect information games."
-    publishedDateTime: 2021-12-08T22:30:00Z
-    webUrl: "https://venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/"
-    ampWebUrl: "https://venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/deepmind-makes-bet-on-ai-system-that-can-play-poker-chess-go-and-more/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 105
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/12/chess-1483735_1920.jpg?w=1200&strip=all"
-        width: 1200
-        height: 820
-        isCached: true
   - title: "DeepMind experiment shows AI must grow smarter, not just bigger"
     excerpt: "The dominant approach to building more advanced artificial intelligences is simply to scale up their computing power, but AI firm DeepMind says we are reaching a point of diminishing returns"
     publishedDateTime: 2021-12-08T16:00:00Z
@@ -59,52 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "DeepMind’s new 280 billion-parameter language model kicks GPT-3’s butt in accuracy"
-    excerpt: "Bigger isn't always better. DeepMind's Gopher system uses smarter algorithms to make better choices. And it blows GPT-3 away."
-    publishedDateTime: 2021-12-08T21:10:00Z
-    webUrl: "https://thenextweb.com/news/deepminds-new-280-billion-parameter-language-model-kicks-gpt-3s-butt-accuracy"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 63
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fbuttkick.jpg&signature=c04853f72d2f4a282900d68fdec7b802"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "DeepMind says its new language model can beat others 25 times its size"
-    excerpt: "RETRO uses an external memory to look up passages of text on the fly, avoiding some of the costs of training a vast neural network"
-    publishedDateTime: 2021-12-08T18:33:00Z
-    webUrl: "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/"
-    ampWebUrl: "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/12/gettyimages-80602579.jpg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
-  - title: "DeepMind cracks 'knot' conjecture that bedeviled mathematicians for decades"
-    excerpt: "T (AI) program DeepMind has gotten closer to proving a math conjecture that's bedeviled mathematicians for decades and revealed another new conjecture that may unravel how mathematicians understand knots."
-    publishedDateTime: 2021-12-06T12:00:00Z
-    webUrl: "https://www.livescience.com/deepmind-artificial-intelligence-pure-math"
-    ampWebUrl: "https://www.livescience.com/amp/deepmind-artificial-intelligence-pure-math"
-    cdnAmpWebUrl: "https://www-livescience-com.cdn.ampproject.org/c/s/www.livescience.com/amp/deepmind-artificial-intelligence-pure-math"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 57
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TPkNBsNrSdX5hzLHZhRxqJ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "DeepMind & Mathematicians Use AI To Solve The Knot Problem"
     excerpt: "It is the first time that AI/computer is being used to seek out patterns. Researchers believe that this could benefit other areas of maths that involve large datasets."
     publishedDateTime: 2021-12-07T05:30:00Z
@@ -118,22 +56,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/DeepMind_AIM.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "DeepMind’s PoG Excels in Perfect and Imperfect Information Games, Advancing Research on General Algorithms for Arbitrary Environments"
-    excerpt: "From the 1997 victory of IBM’s Deep Blue over chess master Garry Kasparov to DeepMind’s AlphaGo 2016 win against Go champion Lee Sedol and AlphaStar’s 2019 drubbing of top human players in StarCraft,"
-    publishedDateTime: 2021-12-08T15:25:00Z
-    webUrl: "https://syncedreview.com/2021/12/08/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-161/"
-    ampWebUrl: "https://syncedreview.com/2021/12/08/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-161/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/12/08/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-161/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 28
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
         isCached: true
 
 secured: "UhnNUY/YHPimkRmqJmHcTWmFPBn2C51ypxBb2h5jmhLtWj6cvfG2pWsMEDddU3INaQ9+g89MckoinqrUvJFuV5p19Cy8tUyQi2I4yyjBzPz6dwPenkRu9B7R3TOX/YAKXVaj3g34O9DMR3mx3l44M6YIy114eNeLEP03rvR9QUmUUfxrdWJW8kI6xsHUIMS5SsZdkPy0/0zp5v1tKW2iBvwbJIyB1a5dkHV9Vxt0mmaBekjEc8So18oyg6ftfVjy+c1UXHOBCVJXnzPh8YGbI6BIuyNRdLZYdF8Akcz1BSCqP7c0O9RQBY6+2bccSGrvG91wJ3n5RxUzg/HbB4AmgJM1bB/ETA0z6D1bww8ZvXiG4Ez1WtUTF5AhQb2mWyNeE5ybVJZYhU4/na2cc8qaiOxVP5vrBz99w7ndPi77J7/KRJ6z7cgf4YAcv8f3D+74hMYK7Ufh522AScI4XoRwfEzVJ8ceY9tUaRHn1GbGFqfVGc4y/lFBI7MNlQUCbC7YfyWW7oI0dVEdJKqxypTvvw==;NuvGIfrnKbh//wP9XqO46A=="

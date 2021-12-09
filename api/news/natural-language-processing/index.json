@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-09-the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone.md",
+      "title": "The Psychology Of Voice Technology: Building A Better Voice Assistant For Everyone",
+      "excerpt": "If a voice assistant can't do its primary job and understand what's being asked, the user is a lot less likely to continue using it. So, what can be done to create a more inclusive VUI experience?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b0b46dd7853eea1ce9f3db%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/amp/",
+      "publishedDateTime": "2021-12-09T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-natural-language-processing-is-shaping-intelligent-automation.md",
       "title": "Natural language processing is shaping intelligent automation",
       "excerpt": "The content of this article is inspired by Pascal’s book Intelligent Automation. Natural language processing is the name usually given to computers’ ability to perform linguistic tasks ...",
@@ -1359,40 +1411,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-secureklouds-step-down-subsidiary-bags-document-processing-automation-contract-in-us.md",
-      "title": "SecureKloud's step down subsidiary bags document processing automation contract in US",
-      "excerpt": "Healthcare Triangle's deep expertise in Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP) has helped Monument Health turn their clinical data from disparate sources into actionable insight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/news-cm/securekloud-s-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400297_1.html",
-      "originalUrl": "https://www.business-standard.com/article/news-cm/securekloud-s-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400297_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/news-cm/securekloud-s-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400297_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-cm/securekloud-s-step-down-subsidiary-bags-document-processing-automation-contract-in-us-121112400297_1.html",
-      "publishedDateTime": "2021-11-23T21:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI set to get patent for controversial facial recognition tech"
-    excerpt: "The news comes as facial recognition systems are more and more widely adopted, despite a lack of clear rules regarding their use."
-    publishedDateTime: 2021-12-04T22:53:00Z
-    webUrl: "https://www.cnet.com/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-set-to-get-patent-for-controversial-facial-recognition-tech/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 103
-    images:
-      - url: "https://www.cnet.com/a/img/PmacCt62m6rguedMqOMU_w29krg=/1200x630/center/top/2021/12/04/873d4317-cac4-4f75-ba68-7a754df7c5f8/gettyimages-1167845607.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Clearview AI close to being awarded a US patent for its facial recognition tech"
     excerpt: "Controversial firm Clearview AI is close to being awarded a patent for its facial recognition technology, which is used to scan faces from pictures available on"
     publishedDateTime: 2021-12-06T16:33:00Z
@@ -121,22 +105,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/56972/content/clearview-ai-facial-recognition-wins-patent.jpg"
         width: 708
         height: 472
-        isCached: true
-  - title: "Hospitality Facial Recognition Tools"
-    excerpt: "Zoox Pass - Zoox Smart Data, a technology company specializing in consumer profiles and data analytics, has announced the launch of Zoox Pass, a new"
-    publishedDateTime: 2021-12-08T16:26:00Z
-    webUrl: "https://www.trendhunter.com/trends/zoox-pass"
-    ampWebUrl: "https://www.trendhunter.com/amp/trends/zoox-pass"
-    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/zoox-pass"
-    type: article
-    provider:
-      name: TrendHunter
-      domain: trendhunter.com
-    quality: 59
-    images:
-      - url: "https://cdn.trendhunterstatic.com/thumbs/zoox-pass.jpeg"
-        width: 622
-        height: 478
         isCached: true
   - title: "Police Release Findings From Independent Expert Review Of Facial Recognition Technology"
     excerpt: "An independent review has provided Police with detailed advice on the opportunities and risks associated with the use of Facial Recognition Technology (FRT). In responding to the review Police has decided it will not use live Facial Recognition technology without further detailed analysis,"

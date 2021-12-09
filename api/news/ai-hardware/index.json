@@ -2,45 +2,27 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-08-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx.md",
-      "title": "Qualcomm's AI chip chief departs to take helm at startup MemryX",
-      "excerpt": "Keith Kressin, the executive who oversaw Qualcomm Inc's artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup.",
+      "path": "_news/2021-12-08-moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx.md",
+      "title": "MOVES-Qualcomm's AI chip chief departs to take helm at startup MemryX",
+      "excerpt": "Keith Kressin, the executive who oversaw Qualcomm Inc's QCOM.O artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup. Kressin has become chief executive of MemryX,",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2021-12-08/",
-      "originalUrl": "https://www.reuters.com/technology/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2021-12-08/",
+      "webUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx",
+      "originalUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx",
       "featuredContent": null,
       "highlight": null,
       "heat": 156,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=60",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T04:08:00-08:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp",
+      "publishedDateTime": "2021-12-08T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,8 +31,8 @@
         "news"
       ],
       "topics": [
-        "AI",
         "AI Hardware",
+        "AI",
         "AI in Robotics"
       ]
     },
