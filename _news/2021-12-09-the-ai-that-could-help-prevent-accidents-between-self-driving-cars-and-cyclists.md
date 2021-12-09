@@ -75,20 +75,6 @@ related:
         width: 1600
         height: 1066
         isCached: true
-  - title: "Self-driving cars of the Bay Area"
-    excerpt: "I just came back from a long-overdue trip to the Bay Area. It was great to catch up with old friends and make new ones."
-    publishedDateTime: 2021-12-04T20:53:00Z
-    webUrl: "https://www.linkedin.com/pulse/self-driving-cars-bay-area-mohsen-khalkhali"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQELUb9oolxiFQ/article-cover_image-shrink_720_1280/0/1638571297899?e=1644451200&v=beta&t=YlgVBHzX498RVJnS0cvjFgYfBo2RgTe5i9cpnxhSgrI"
-        width: 999
-        height: 720
-        isCached: true
   - title: "Parking space detection for self-driving cars comes to CES 2022"
     excerpt: "Software developer StradVision will showcase its latest software developments including parking space detection features and vision perception for augmented reality applications at the upcoming CES 2022 trade show in Las Vegas."
     publishedDateTime: 2021-12-07T13:31:00Z

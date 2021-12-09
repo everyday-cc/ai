@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20211207/AI-could-help-predict
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211207/AI-could-help-predict-the-necessity-of-ICU-admission-during-COVID-19-pandemic.aspx"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: News Medical
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Interviews Of Eminent Female Leaders To Research The Impact Of COVID-19 On Women And How Policies And AI Can Help"
-    excerpt: "The pandemic has dealt a huge blow to women. Progress for women is stalled due to lack of home resources. There is also a deep problem brewing on policy and compensation for women. Now, women, unlike men,"
-    publishedDateTime: 2021-12-04T20:57:00Z
-    webUrl: "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/"
-    ampWebUrl: "https://www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taarinikaurdang/2021/12/04/interviews-of-eminent-female-leaders-to-research-the-impact-of-covid-19-on-women-and-how-policies-and-ai-can-help/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61abe2fde345dee117b90539%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2000%26cropY1%3D163%26cropY2%3D1289"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "AI could help doctors make the best use of ICU beds during the COVID-19 pandemic"
     excerpt: "New technology could help doctors make the most of limited resources during the COVID-19 pandemic by identifying patients who require intensive care unit (ICU) treatment."
     publishedDateTime: 2021-12-06T08:36:00Z
@@ -71,20 +55,6 @@ related:
       - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/12/dreamstime_xxl_70037200-scaled.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "COVID-19 Pandemic Created Changes and Challenges to Workplace Learning"
-    excerpt: "The COVID-19 pandemic changed the way employee learning was delivered in 2020 and led to a 3.1 percent decrease in the average organization's spending on employee learning, according to the Association for Talent Development's 2021 State of"
-    publishedDateTime: 2021-12-07T16:57:00Z
-    webUrl: "https://www.lelezard.com/en/news-20144610.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "U3illyAs8gUF4vGWK8U145SZbpDqAlSsihaYvmidjQnSoOq9gb6LXpjDLTa0HL86tyD0jpFrZLnKiPAV8SN3Dosb7PZF/3mKc58M2nAg6j+4ALJKKR8NIKgKbWBkEN+v4jtJKkgVIlXdP5Axfdov+Tdu1F/Q6aUTQPc9wY4fm960HgXsfmvx7LG5xUNX+GGS4hvPKwSzS80JeNENguI4pql97RgpskPNoWlOot/5tZYh3O2uBR1NbVBuzRWLFBgJzMyc8QzUvrrpbNyamlns+io6qNlv+kwRcNSo3Qx+Kch6gf3EL4+22GcH7omnrX8pV1FeygZkFZWEsO4o7WT9L1WH/hvEaQ4RxZstzpqBcWE=;7uxrdZf5arl27q84+UJYcg=="

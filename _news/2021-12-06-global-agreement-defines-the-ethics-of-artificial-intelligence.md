@@ -7,7 +7,7 @@ originalUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916
 webUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916-global-agreement-defines-the-ethics-of-artificial-intelligence"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 750
     height: 337
     isCached: true
+
+related:
+  - title: "The power of AI can be unleashed with a focus on ethics"
+    excerpt: "An EY survey reveals the public’s concerns around the growing use of artificial intelligence – but also the opportunities for organisations that take the right ethical approach."
+    publishedDateTime: 2021-12-09T06:00:00Z
+    webUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics"
+    ampWebUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 74
+    images:
+      - url: "https://www.computerweekly.com/visuals/German/article/ethics-morals-3-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "3ov+uMnAx3Du9q3lhlAKiuDCj1iISnYO7/3CXpTP6QKPJJOBLMdViA5RGSNEENmS9AgeRhZlwYCVSlCGiZN69OmU+qw76liJAyyeMQmzWZ9Obj9naZzcR3qJOFqa9KvYox5d0O1gvU8NYXSeJl9Q/FVMHJR+8dBZCAvTyaKxmRouFu6CiOBaaUq8Qm4inuQRU7qK3fEro+zU3dIF6tOES71+2yj+CTr99k/VA6grM3XlNv6FFBXi+PKV/8xWD4UPdrQWFXh2v1Ke77dL6Jcru1GZ8v0bRdLvtjmnEKtkcEGHQGb0TIv3O8IEJfqdfDrSMpw8T0ANrOd6jFFXzuiww8msS8XzpQUMZroZuJZmq+s=;5YixGTMsgNNLqbXbgfAC8g=="
 ---

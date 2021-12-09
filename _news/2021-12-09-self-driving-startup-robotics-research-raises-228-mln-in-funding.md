@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-resear
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
 type: article
 quality: 101
-heat: 131
+heat: 132
 published: true
 
 provider:

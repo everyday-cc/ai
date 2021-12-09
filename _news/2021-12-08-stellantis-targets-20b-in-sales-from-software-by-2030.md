@@ -172,6 +172,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Stellantis will roll out Level 3 self-driving in 2024"
+    excerpt: "Level 3 tech will be rolled out across the automaker's full portfolio, Joachim Langenwalter, head of artificial intelligence, software and hardware said."
+    publishedDateTime: 2021-12-09T10:03:00Z
+    webUrl: "https://europe.autonews.com/automakers/stellantis-will-roll-out-level-3-self-driving-2024"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://europe.autonews.com/s3/files/styles/800x600/public/Stellantis%20Airflow.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "kR0ShlCs9IA485kOYb2EG+xVqhXBadWm1SP2LdJgm4e9RVSD/Hvj9beMqdJ6I/Lpet8ID1zeusAQbZYUby859Tz9KUdjW1d6GPiZ7uX9PDuhSH7yKlGkDX2vGoqQlzLTOdnuKzCw/ZBwZepSsFXKHx/wWPLRUYHd38t+ltec98Au4Wr53K+NDguY3D4Je+jpv1JCGqkszX6t5+7ykKbP/WmPL68BhN74WH9jTy2p2YRSMMDytUVqXHUM7QHSf11JSQo62i3ktus/ZGPpuGCRBxej80HmmYXw+i3QwiYUjevFUheCcJzQdRLLDYgfMiOsILhafo6adxP+yBGISMMqfcxm06V9b1DrlIJvgHePz1pIhOSbtVrPxmHB6VoBUlQIzpHv9+n1zMGG0YtqiYsBrY/6GboSumeRAxiWoMRDWskH6yH56LcAyRnYImWD/lEquuAwVxPI8w0erg552sGAKSSViuSLAqcXtPyWo9ZEI4iIXFfcUo4WTMlsJEKEIxe9fFWSEoJX0OwDIXsxPOUNEQ==;7rjfB3mC2nGQdpKPGpDbRQ=="
 ---

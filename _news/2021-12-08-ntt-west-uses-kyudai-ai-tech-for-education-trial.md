@@ -40,6 +40,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Baxter Presents Data at ASHP Meeting Indicating Machine Learning May Enhance Infusion Pump Programming Safety"
+    excerpt: "Baxter International Inc. (NYSE:BAX), a leader in innovative technology for medication delivery, announced new data from a retrospective study finding that machine learning, a type of artificial intelligence (AI) that uses algorithms to find patterns in large amounts of data,"
+    publishedDateTime: 2021-12-08T13:30:00Z
+    webUrl: "https://www.financialbuzz.com/baxter-presents-data-at-ashp-meeting-indicating-machine-learning-may-enhance-infusion-pump-programming-safety/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "lYGpsmVwfqIotzY2hFURGGEAjLtXoD3gWxPB8bAaGJKoAFg5fSNnf4axsPEF6D/K0KSangUPOVQ6n6/JkWmHAzFpsDo2H65tZpC1iUOsEtL2xpLt3zgYzG1Xn/mw3ZUJfGW0+zUn6mzqTig2lLIQtExIGdCH7e1YjLAbkl8mEu8rysL1W92Cnu97HlqnVfQ2yJQE8gypfXy+NqAHgJs2hiwV8/sSgE4nb1ZBF07nGkSpyR5L/MWOZf7t7gUUT2+n8T+J5qdtXsDMPOZySV38GgruAtPI5wzpxXDCP9ZzQzkn9kYlK2ufQ4ptNiYUrOpp9TgSlqZicPVq6JWhkE1LikwKSP79lH1kOcm5Rbg4WnA=;bdBzVlSrXzyYWQppVwvoBQ=="
 ---

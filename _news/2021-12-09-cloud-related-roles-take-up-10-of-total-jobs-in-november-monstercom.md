@@ -26,6 +26,24 @@ images:
     height: 338
     isCached: true
 
+related:
+  - title: "Cloud related roles take up 10% of total jobs: Monster"
+    excerpt: "Data from the online recruiting platform Monster.com indicates that the demand for cloud professionals has seen an uptrend with cloud-related roles taking up nearly 10% of total jobs with 3 lakh active job seekers in November 2021."
+    publishedDateTime: 2021-12-09T12:20:00Z
+    webUrl: "https://www.business-standard.com/article/economy-policy/cloud-related-roles-take-up-10-of-total-jobs-monster-121120900931_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/economy-policy/cloud-related-roles-take-up-10-of-total-jobs-monster-121120900931_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/economy-policy/cloud-related-roles-take-up-10-of-total-jobs-monster-121120900931_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 44
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-09/06/full/1599404512-1829.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+
 secured: "Nw25xdSwuFHJKurgECd4fvoqg6lfPQiR82LEg84ZvlvN6h1VOVHFXwPksSJwzWd1OBiwbifq7+QlDpvp58KePkb6CSS0Qthmq0XB/KFHIX6vHhFWju1jjLn/39oxf1RSl+xMiCjDGEcmD1ODBxI91WXestmFBdH7iAjg4joLnQvSudILFVUMb3F0hAaer5Y3NStG1ujYA8kUP5zc3FfiLrvgxAFN9WRYUboDI6IiAEYs+/UB1MJg+lnDq7WCEqP3DUKE7JT/nhH5gog2YPmGhXMFsnMs1JwUgA4KxGdb154jh2KDFl6zh51vRX8Xjm60n10bQo32GGLs8ohtov1jyMTyLv70K2idMBrKfhtefFQ=;dp7nLBSGqsN2EChdZxXjjw=="
 ---
 

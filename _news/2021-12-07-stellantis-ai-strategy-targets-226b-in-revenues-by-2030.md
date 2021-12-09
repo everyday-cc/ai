@@ -9,7 +9,7 @@ ampWebUrl: "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targ
 cdnAmpWebUrl: "https://www-informnny-com.cdn.ampproject.org/c/s/www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/"
 type: article
 quality: 59
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -168,6 +168,20 @@ related:
     quality: 24
     images:
       - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Stellantis%20logo%203%20rtrs%20web_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Stellantis will roll out Level 3 self-driving in 2024"
+    excerpt: "Level 3 tech will be rolled out across the automaker's full portfolio, Joachim Langenwalter, head of artificial intelligence, software and hardware said."
+    publishedDateTime: 2021-12-09T10:03:00Z
+    webUrl: "https://europe.autonews.com/automakers/stellantis-will-roll-out-level-3-self-driving-2024"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://europe.autonews.com/s3/files/styles/800x600/public/Stellantis%20Airflow.jpg"
         width: 800
         height: 600
         isCached: true

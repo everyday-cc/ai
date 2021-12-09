@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-ch
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fueling Research Or Another Publicity Stunt? The Truth Behind Zuckerberg-Funded AI Institute"
+    excerpt: "Zuckerberg and Chan have committed $500 million over the next 15 years towards the Kempner Institute for the Study of Natural and Artificial Intelligence."
+    publishedDateTime: 2021-12-09T11:30:00Z
+    webUrl: "https://analyticsindiamag.com/fueling-research-or-another-publicity-stunt-the-truth-behind-zuckerberg-funded-ai-institute/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 28
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/ai-chan-banner_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Zuckerberg doubles philanthropic grant to $3.4billion for science and health advances over the next 15 years, including setting up an AI institute at Harvard"
     excerpt: "The Chan Zuckerberg Initiative, or CZI, which the Facebook CEO set up with his wife Priscilla Chan, hopes the sizeable donation will help advance understanding of human health."
     publishedDateTime: 2021-12-08T11:46:00Z

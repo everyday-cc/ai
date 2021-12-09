@@ -38,7 +38,7 @@ related:
     provider:
       name: Search Engine Journal
       domain: searchenginejournal.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2021/12/facebook-ai-technology-61b1be95dcc03-sej.jpg"
         width: 1600

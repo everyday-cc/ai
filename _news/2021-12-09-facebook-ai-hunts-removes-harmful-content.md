@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-09T10:17:00Z
 originalUrl: "https://www.searchenginejournal.com/facebook-ai-harmful-content/429582/"
 webUrl: "https://www.searchenginejournal.com/facebook-ai-harmful-content/429582/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2021/12/facebook-ai-technology-61b1be95dcc03-sej.jpg"
@@ -41,6 +42,6 @@ related:
         height: 1350
         isCached: true
 
-secured: "LSKjxQjZIsd3b3QpSi6WMbgcVUGJr5/94xIq0YGLoqasJAEZ4zSb31afKCUqNFWI7cMwB0HeACQT5b+BaLtpFn/zJLO2hEliLLPdn7212PG0BZc5AoVmmSLcddokEBP1+qYAfRmhO/md2B8xw1+U7EQofqQotzvTa7Qa57k7/ax9jv6pMoMAxa0djtDrGdSDIvHWdZQXT2dd7O81DRUCDHuAKmQsoAhs765/OxlKdC5n9BOROPMfzEzKi9D6CJ3V/zFmqnxQjVY59DQnFbv1Le+CeYrVU9Kab71s+VZESoJxnN2S51Vi9cTvSXPVajzeL9kEMbl2Y8M6QzXqiXDQr2ogJtZKMtM+XlI1SWd+p0I=;CG0vOqI0OAMqWu/dh9VMSQ=="
+secured: "WjWHaJSY46d+oT9jlT0uWPMcwlyLl8LbTETUqWPrHqkoVJWT4wrnsf1PzzLpoMWkbr8vyNiJyDLJYtG3wpj8WpHcCEXIMtk84mO6zvxait0WKNhg84CtF7Fy7ugU7A2OsqjnojzvxN1gTPKTXIzMMDUc1yIweRcDdpTtTXb/BugO3FKwkzowNzA7XqZg5+wZxl8GK0zGfKdnweJiYvli5woKwcIUHyEFSq8pQ0LfEk66iayoCGLbwzCEMQ8/kpW4Ejtl5/4QDJQn4Rd8Aa6EkPSf6+OptTVZsrKp5tNitxsJY+uuJIc8Hkr9RXjj/5wbMgFrw/O12xe1sctG+TxWHmNEgU92xhZtY6kQ2ezzQ3CKJLZ01Iao96kDa166yApFIzFHfR/8C/eA9py3j/CmgRuSES89HxrhGCPJtFhzkBsKwG19vvOpfhjoqPPi6WtIEFL6IlfKdBrXJf1Cg7UhxRQmHDNCOj1654i1UxoYCv6dsiJaegB2fBzOppyoCPv6KL99OIwD9cCcym58cORyqg==;Ig0yVLFyPj/lqLjYlew0ew=="
 ---
 

@@ -65,6 +65,15 @@ related:
         width: 940
         height: 443
         isCached: true
+  - title: "M2GEN Announces Collaboration with Microsoft to Advance Bioinformatics Solutions for Oncology"
+    excerpt: "M2GEN, a bioinformatics company accelerating discoveries in oncology research through superior data and analytics, today announced it is partnering with Microsoft to advance and scale its unique data-driven solutions for the discovery,"
+    publishedDateTime: 2021-12-09T12:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/m2gen-announces-collaboration-with-microsoft-to-advance-bioinformatics-solutions-for-oncology-1031035161"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
 
 secured: "23txA4rTGl3zCrHp05RFKtvimoUF4QhbqAu6c0p1Q7Mw5Xsg0xCJsJmZ/G08tXD3JoL/i93WoCN4XrM+EIatEia+IrBlw27aBQtPIuCE5Y9fxerqRZnyflEkUTA3zpHcC3TfQN27e5dqEubJH8h7UGOXTbDlrhGM334s/04XK2VEcjDg5F+/2VHSgjJnMB6DPuebl5+iPfiitywwJhd5EvyB1hhl4yWuB4ZIujZKdnylAzIaRwbVbegusG3SwZ+O2HRG8vCujWjB5FVylierUb2swJl8VQrWVUQmgJb7ECF4PH80wl/Tsezrdz224p+ApWrI7dSWcQh6QmjhG4r/mFlAVXhPUIxPe4qlpw5jJ/m1iJQH7FScE8qToaYDgf+M/X1LxR7jZXU59rkAkgOddoQsW8Qkd99djPgrpJeUbzhYmBIAryVvmou8uN8cNjm79j8ME0uQ/zjcGN7Efrij/4ukqJw576suKBmYALmvXvivCah4/VWQmsvtuftG/7qz8HeQLoBp/6kSllU/VJGmGw==;bXqPXy7fLaSaG2Ybc9FDBQ=="
 ---

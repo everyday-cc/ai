@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "COVID-19 Pandemic Created Changes and Challenges to Workplace Learning"
+    excerpt: "The COVID-19 pandemic changed the way employee learning was delivered in 2020 and led to a 3.1 percent decrease in the average organization's spending on employee learning, according to the Association for Talent Development's 2021 State of"
+    publishedDateTime: 2021-12-07T16:57:00Z
+    webUrl: "https://www.lelezard.com/en/news-20144610.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "Vrmoi+A/6ln4qdt5aUCjtEeeQ/HYP6kxpOpshGFzexj9LjPA3XMC4/kBQIdudh4KcbrDN+PUdWA6u8/cV69dlraFKxTxcmsvFjy34UjL7OyUvsKBx560sA5D19Ij81FJsdqdPhCaRrCatv5yLycDBNdNS/x5IfkLjsBf7KGjpC1lYRzbcpzI01/JDfgSa2dZoq7Csa6UOfwpBMQluGUOFfW/bZAwQUl99djUK0r41Qfv5Caj2ZblDA6h0VTZxBOwdyAUM7RxtiB7OmuENecdyFOcKGQ5NPc5XZYtUtZSXdIidbr2Y/yULCjfsn8BFlERfU/vosmcb/beJVcaN34lqYGustXzI4yh6X/Mg6PzuTF3h39UW4ECNQwJpqVcNBygRS4i6o27Hyk7PcPNl4RQY0aiPCGbbhubcParlggNEscD3I/zq2VGhzihymHPFnbnrdtHV1s9RHpjdscqjIzqEMTMJsJo1a1r6K8apvU/CEdoEp060kWhP3zofe5x8F/4oKxmXinZxu81u/G1M3bnQQ==;2TkO2jUvRHo54sAPVVDwyg=="
 ---

@@ -46,22 +46,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Tesla pushes new Full Self-Driving Beta update with improved object detection"
-    excerpt: "Tesla has started to push a new Full Self-Driving Beta software update (version 10.6) to its fleet with improved object detection. It’s the latest step in the long road to improve the FSD package and deliver on a promise to customers that has been delayed several times."
-    publishedDateTime: 2021-12-04T19:32:00Z
-    webUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/"
-    ampWebUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 86
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "‘As always’: Elon Musk tweets on recent Tesla hiring for AI engineers"
     excerpt: "US-based electric vehicle company Tesla is hiring AI engineers who are passionate about solving day-to-day problems through artificial intelligence."
     publishedDateTime: 2021-12-06T06:59:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-health
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
         width: 940
         height: 443
         isCached: true
+  - title: "M2GEN Announces Collaboration with Microsoft to Advance Bioinformatics Solutions for Oncology"
+    excerpt: "M2GEN, a bioinformatics company accelerating discoveries in oncology research through superior data and analytics, today announced it is partnering with Microsoft to advance and scale its unique data-driven solutions for the discovery,"
+    publishedDateTime: 2021-12-09T12:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/m2gen-announces-collaboration-with-microsoft-to-advance-bioinformatics-solutions-for-oncology-1031035161"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
 
 secured: "pl/DKs29wI+UmA5mZHb0u226b7R3Foz5ISPvMzJ3rrKacNbvRHquFTZfs2Fi/Bg6Svc8ssJU3Kf+tOfpqBqd/3Hae8Mw5NIK7UP2ar/OfYaUKS3cXvZioBvc7lLlmb9PXoOU1SBhKX2HZTsjuYRidcqKA9H+1Ey14/v9qjYmxCpUqruha3w4JE5RdKwxa+SQAQVKRM23eYz2nSYEtqRdQUorr3Y4gVGE3crh5NAkYSMWQYbPkJRmfoc85POtAuSxBOoafy0xWKRPaLyorda079+y61pFpsfsH8sVsynGLulQVHCBIAnZYmhusKUlGl073IQ3pu1g3jvK23nf9FUASJ6D3HTcHpK6Pg8PcNgtHWk=;lmLkOny43FGrtyRDo16g7A=="
 ---
