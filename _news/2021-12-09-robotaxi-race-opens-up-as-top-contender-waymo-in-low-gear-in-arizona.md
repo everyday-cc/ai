@@ -52,6 +52,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Pilot robotaxi services launched in Beijing"
+    excerpt: "Tech company Baidu Inc and self-driving start-up Pony.ai are the first pair of enterprises granted permission to offer paid services and provide up to 100 self-driving vehicles for commercial ..."
+    publishedDateTime: 2021-12-07T12:47:00Z
+    webUrl: "https://www.independent.co.uk/asia/china/china-daily/robotaxi-service-beijing-launch-china-b1971313.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 24
+    images:
+      - url: "https://static.independent.co.uk/2021/12/07/12/taxi.jpg?width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Aqb3hJq0sq1orCJoH2mVkoNFkOUfoSKmkV76XFl0N5bDL1Xsyt9JA7Dhy9QDGEgmjWc5SLi/QuxUJ4u9o9J6QCUWzCXLlLv3qCmgY9HmwkonRTSdoouDrS3Qe0aWBtAz/u05+jAIh8fVj5Gk4h+oCkfQf6fI6QgkEweWnhFyr3LA0F5HQW0E6uu4A/WZktPRqruz3SCpvQ5fia2vsbn7Gj4Pr/jYX2Y6CZTgK4L+p9TnDkZIARQ+mq5Vz/iMe3EWRqS5EdjdSR58JpqU7TmVnmsmFAd8RFc/Xcc1EX8hYTmkLnRWG7jNdMSQQKtwwDSS/G7BoZCOYo2kMXlxUSBTAuXiDC9B4BcoUE3BEkszw/llTrqC3As3ufpCCzcCWNcGfBE+RGpWIIp6Xncf4x7KoA+bdThf6Jo6rINO1UZN/qyo1yRCvYnQ6njNhs1/YaddhpX9/6TBrkSEadNkHa17re22YuaXLWBK9IkATJ/OA6bO2eOTZ8sX/W/+m2uNzcHzipUl4/B4eFqhXgibCO14Rg==;cHpG9fhr0y5A5HEvTKHIuw=="
 ---

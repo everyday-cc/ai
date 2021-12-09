@@ -2,49 +2,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_news/2021-11-16-differences-in-care-between-younger-and-older-patients-in-the-2019-english-national-memory-service-audit.md",
-      "title": "Differences in care between younger and older patients in the 2019 English national memory service audit",
-      "excerpt": "Clinical implications Memory services seeing younger people need expertise in functional cognitive disorder ... Clinical Network for analysis of the national data-set using Microsoft Excel. Statistical comparisons were performed using chi-squared tests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/bjpsych-bulletin/article/differences-in-care-between-younger-and-older-patients-in-the-2019-english-national-memory-service-audit/44E239FDA0BA5EC3882F403554B7C499",
-      "originalUrl": "https://www.cambridge.org/core/journals/bjpsych-bulletin/article/differences-in-care-between-younger-and-older-patients-in-the-2019-english-national-memory-service-audit/44E239FDA0BA5EC3882F403554B7C499",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.cambridge.org/covers/BJB_0_0_0/bjpsych_bulletin.jpg?send-full-size-image=true",
-          "width": 1810,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-16-datarobot-launches-ai-cloud-for-industries-including-banking-and-health-care.md",
       "title": "DataRobot launches AI Cloud for industries including banking and health care",
       "excerpt": "DataRobot has announced AI Cloud for Industries, a solution that unites AI capabilities with best practices, integrations, and partnerships for enterprises.",
@@ -1171,6 +1128,57 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-15-ai-driven-background-check-startup-intelligo-raises-22m.md",
+      "title": "AI-driven background check startup Intelligo raises $22M",
+      "excerpt": "Intelligo, which conducts AI-driven pre-investment, pre-hire background checks, has raised $22 million from Felicitas Global Partners.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/15/ai-driven-background-check-startup-intelligo-raises-22m/",
+      "originalUrl": "https://venturebeat.com/2021/11/15/ai-driven-background-check-startup-intelligo-raises-22m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-a0071-000211b.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/15/ai-driven-background-check-startup-intelligo-raises-22m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/ai-driven-background-check-startup-intelligo-raises-22m/amp/",
+      "publishedDateTime": "2021-11-15T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

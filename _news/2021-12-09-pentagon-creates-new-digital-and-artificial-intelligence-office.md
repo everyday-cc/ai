@@ -7,7 +7,7 @@ originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentag
 webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pentagon creates new overseer for innovation: chief digital and artificial intelligence officer"
+    excerpt: "The Joint Artificial Intelligence Center, Defense Digital Service and Chief Data Officer will now report a new Chief Digital and Artificial Intelligence officer"
+    publishedDateTime: 2021-12-08T23:02:00Z
+    webUrl: "https://breakingdefense.com/2021/12/pentagon-creates-new-overseer-for-innovation-chief-digital-and-artificial-intelligence-officer/"
+    ampWebUrl: "https://breakingdefense.com/2021/12/pentagon-creates-new-overseer-for-innovation-chief-digital-and-artificial-intelligence-officer/amp/"
+    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/12/pentagon-creates-new-overseer-for-innovation-chief-digital-and-artificial-intelligence-officer/amp/"
+    type: article
+    provider:
+      name: Breaking Defense
+      domain: breakingdefense.com
+    quality: 45
+    images:
+      - url: "https://sites.breakingmedia.com/uploads/sites/3/2012/05/136117825.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "DOD to Hire First-Ever Chief Digital and Artificial Intelligence Officer, Form New Office"
     excerpt: "The Defense Department will hire its first chief digital and artificial intelligence officer and formally establish a new office under their purview—by next summer—via an organizational restructure it deems necessary to advance data and technology integration and innovation across its massive enterprise."
     publishedDateTime: 2021-12-08T23:13:00Z

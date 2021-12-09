@@ -43,20 +43,6 @@ related:
         width: 900
         height: 676
         isCached: true
-  - title: "South Africa: Crowd-Solving Startup Zindi Building a Community of Data Scientists and Using AI to Solve Real World Problems"
-    excerpt: "Zindi is all about using AI to solve real world problems for companies and individuals. And the South Africa-based crowd-solving startup has done that over the last three years they have been in existence."
-    publishedDateTime: 2021-12-04T12:33:00Z
-    webUrl: "https://allafrica.com/stories/202112040040.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 11
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
-        isCached: true
 
 secured: "b3VrsjDhzwEZeGSOdH1e5qfy6xhjQhIE/qmQsBTSovbdwEdiU5BRwxzEqQ+ddO0fN3Y22zZeGQ0TrT0+RHmdV40yhMWWq1CaHEwmnXeJoCaVFlFQeEknApyWzOFRLChCAxF1FMvrSgDlAnV4mCKwm6+jXbtvgkECzOZcyaMIscMtt6lGXQZGThiigHHBhzmIcK3Vt43SUZBrvRkBuP1ayz7ZOB2O7uN/CVPdh7Wx2Y8YqluaxHZlFPgM2QCukwDQEH/KQMIv/eqQLxpCTozKT83bHJnEcHbawBZuhQlELUTXQaEpdBbQoy2Zlwz9ztLVy2djnhMVtvqv82CmsIJbOS6gXEX2ZcyBwpspDRPiGD4=;gqAqmy5WgEylCMA6lLms8Q=="
 ---

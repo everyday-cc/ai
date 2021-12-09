@@ -2,11 +2,11 @@
 category: news
 title: "Who Is Shruti Rijhwani? PhD Candidate Working On Natural Language Processing"
 excerpt: "Shruti Rijhwani, Ph.D. from Carnegie Mellon University, USA has been named by Forbes as \"2022 Forbes 30 Under 30 in Science\" for her prolific work in the area for conservation of endangered language"
-publishedDateTime: 2021-12-02T22:34:00Z
-originalUrl: "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/"
-webUrl: "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/"
-ampWebUrl: "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/"
-cdnAmpWebUrl: "https://www-shethepeople-tv.cdn.ampproject.org/c/s/www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/"
+publishedDateTime: 2021-12-02T17:04:00Z
+originalUrl: "https://www.shethepeople.tv/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/"
+webUrl: "https://www.shethepeople.tv/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/"
+ampWebUrl: "https://www.shethepeople.tv/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/"
+cdnAmpWebUrl: "https://www-shethepeople-tv.cdn.ampproject.org/c/s/www.shethepeople.tv/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/"
 type: article
 
 provider:
@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.shethepeople.tv/wp-content/uploads/2021/12/Shruti-Rijhwani-1.jpg"
-    width: 600
-    height: 400
+  - url: "https://www.shethepeople.tv/wp-content/uploads/2018/03/Leg-impaired-Skier-Own-First-Paralympic-Gold-says-She-Is-‘On-Cloud-Nine’.jpg"
+    width: 960
+    height: 540
     isCached: true
 
-secured: "GLfmIVI2D9hmSPu8gR8btG8MtbnMSH5FJXptY2HvETY9YQJu7IcQu34NVEvK60+jDQy3L41AU5zMkmkY5HSzR5SBG7b4EXkZ56THpzwOPhURbCqCvpdBFnzud1oxydyq/XfEfiGph3KXj02ZrZuFAaw5nmN6PITXYpACpUaKXAdeWVnvRwBCQkuawhmGFsJu9/AZXnCF0eTwplyzXq7f49+PtyCzYZjdIwSbP/DqhWSNv2x/YgKrKY9XkQ7ImOHuFjcYg0902DuOUzfUTgMAoc3JmgtYFDpEE2WT/8iQdNfhX4HWwmnYxbcGMQuTmESGz7NelEM81ZFai0fyiHR9cvTeF9w9pY1UzYligA28TbA=;+nsyswJDjZeJDwChC39/ow=="
+secured: "EfIPu3FOUAamk9A6FgBrD5XmuqSqSDnP1nL550/mj2ppAzS95GRupZwm8fnGZPEKO4ZJSMHZeAmVcpK1hlza9XVnVgWwOLqpyV+QXlvlQ/oKXBtct1o+QgsrBUgRzvYhJgwpJEmNDT/f0QEoksdZvCFIGEEEEAIqlBi03OZf3gmrktT3Nmrjr2Opet3Plr6Xhxk4p0s1FSPZlxw3nAsKkCeoLzdC4QDAcDqJZ6b9AmEJGXo/pn0wnMrkb0lEklxdAEcOpmNSkL9hvHcLDcm95vf/Yxn4CYLx41okW1KntinfDsu0+92+Gd3DEnXYTFDFFmoEEa6sNHD2nVKO/bTiyV787AU1Xhq97FbHX/MQQCQ=;XNOBKkysgklPkCypT5TeUg=="
 ---
 

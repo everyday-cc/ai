@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Stellantis plans to embed AI software in cars to raise profits"
+    excerpt: "iPhone manufacturer Foxconn on customized cockpits and Waymo to push their autonomous driving work into light commercial vehicle delivery fleets. Stellantis’ embrace of artificial intelligence ..."
+    publishedDateTime: 2021-12-07T15:23:00Z
+    webUrl: "https://www.canadianmanufacturing.com/uQ5uW"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 39
+    images:
+      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/10/PLT_INDUSYRY4.0_WSUPERBIXBOX_SEPT21_JLR.jpg"
+        width: 300
+        height: 600
+        isCached: true
   - title: "CEO: Stellantis wants to outfit cars with AI"
     excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in $22.6"
     publishedDateTime: 2021-12-07T19:08:00Z
@@ -130,16 +144,16 @@ related:
         height: 2000
         isCached: true
   - title: "Stellantis launches $23 billion software push"
-    excerpt: "Working with partners such as Foxconn and Waymo, the automaker said it will have 34 million connected vehicles on the streets by 2030, from 12 million now. It also plans dedicated AI technological platforms."
-    publishedDateTime: 2021-12-07T14:55:00Z
-    webUrl: "https://www.autonews.com/mobility-report/stellantis-launches-23-billion-software-push"
+    excerpt: "Stellantis said that, starting from 2024, it would deploy three new technological platforms powered by artificial intelligence ... Alphabet's Waymo self-driving unit and BMW to build the three ..."
+    publishedDateTime: 2021-12-07T10:43:00Z
+    webUrl: "https://europe.autonews.com/automakers/stellantis-launches-23-billion-software-push"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 24
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Stellantis%20logo%203%20rtrs%20web.jpg"
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Stellantis%20HW%2C%20SW%20and%20AI%20Platform%20Solutions.jpg"
         width: 800
         height: 600
         isCached: true

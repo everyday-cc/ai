@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/waymos-slow-going-arizona-opens
 webUrl: "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXMPEHB70O4-BASEIMAGE.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Pilot robotaxi services launched in Beijing"
+    excerpt: "Tech company Baidu Inc and self-driving start-up Pony.ai are the first pair of enterprises granted permission to offer paid services and provide up to 100 self-driving vehicles for commercial ..."
+    publishedDateTime: 2021-12-07T12:47:00Z
+    webUrl: "https://www.independent.co.uk/asia/china/china-daily/robotaxi-service-beijing-launch-china-b1971313.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 24
+    images:
+      - url: "https://static.independent.co.uk/2021/12/07/12/taxi.jpg?width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "l2ArVRFdHXNtCjegxfRoHB60svv/7gEzb1Zom+TE+Yp5vtB2lVlBcckDwUTwhdHCnFMLJxF8VB/jB3fBMMTlZjNumTK6WfQCKQVvaWSv+U0SrYlYGQVX/3iaAxc0mhVv4acqczVQrPcrl067rX7g1N+2SLf133rETvjqyAr6DGGFGve60vG+ARTp3treUjREUEez8Mv3Z0T3hPX7aZHUzohfMzNS/0qhfFkz7vp7J9lol/lpz2RxOT3Oa6ZkPxdOZ5IBD4I6mn6dvWYNL1wXiwWbtp6CDQgmfVaR1AQjHnKXYUdAUmEV0X8AtoxqFc1xUdvKN8uRzPOkwXveAfbUBWf4In8ZFakVTnSEJ24c3kAJ7IjeMbWuMhebxFhI7wOEbl7xvlqAvEIq5kA6Nvr00rX4qu9jsY+IVXOE0b2ZWyMK7uucWRHsFX8AN1e39KndPQH+c/O9TkmY21FDeop83lK+16HB7jCzoJ48GOXDtJ1vWjYScSx1h0dHy9yJlJyKNpVC1lTwcJquzcbMeuBmOg==;uw5tiLHYL4tfHdinq6XmYA=="

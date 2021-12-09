@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Pentagon creates new overseer for innovation: chief digital and artificial intelligence officer"
+    excerpt: "The Joint Artificial Intelligence Center, Defense Digital Service and Chief Data Officer will now report a new Chief Digital and Artificial Intelligence officer"
+    publishedDateTime: 2021-12-08T23:02:00Z
+    webUrl: "https://breakingdefense.com/2021/12/pentagon-creates-new-overseer-for-innovation-chief-digital-and-artificial-intelligence-officer/"
+    ampWebUrl: "https://breakingdefense.com/2021/12/pentagon-creates-new-overseer-for-innovation-chief-digital-and-artificial-intelligence-officer/amp/"
+    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/12/pentagon-creates-new-overseer-for-innovation-chief-digital-and-artificial-intelligence-officer/amp/"
+    type: article
+    provider:
+      name: Breaking Defense
+      domain: breakingdefense.com
+    quality: 45
+    images:
+      - url: "https://sites.breakingmedia.com/uploads/sites/3/2012/05/136117825.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Pentagon creates new digital and artificial intelligence office"
     excerpt: "The position is meant to streamline disparate efforts within the department to drive faster innovation and capabilities with China in mind."
     publishedDateTime: 2021-12-08T23:01:00Z

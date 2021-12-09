@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Intel is spinning off its self-driving unit for $50B — why?"
+    excerpt: "Intel acquired Mobileye for $15B in 2017. With markets hungry for next-gen auto tech, its spinning off the self-driving unit at a potential $50B valuation."
+    publishedDateTime: 2021-12-09T02:05:00Z
+    webUrl: "https://thehustle.co/12092021-intel-mobileye/"
+    ampWebUrl: "https://thehustle.co/12092021-intel-mobileye/"
+    cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/12092021-intel-mobileye/"
+    type: article
+    provider:
+      name: The Hustle
+      domain: thehustle.co
+    quality: 44
+    images:
+      - url: "https://thehustle.co/wp-content/uploads/2021/12/News-Brief_2021-12-09T015615.842Z.jpg"
+        width: 600
+        height: 330
+        isCached: true
   - title: "Intel's self-driving unit to get IPO"
     excerpt: "Mobileye, which has been growing faster than its parent, makes chips and software that work with sensors to let vehicles handle more driving functions."
     publishedDateTime: 2021-12-07T18:10:00Z

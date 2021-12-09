@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Stellantis launches $23 billion software push"
-excerpt: "Working with partners such as Foxconn and Waymo, the automaker said it will have 34 million connected vehicles on the streets by 2030, from 12 million now. It also plans dedicated AI technological platforms."
-publishedDateTime: 2021-12-07T14:55:00Z
-originalUrl: "https://www.autonews.com/mobility-report/stellantis-launches-23-billion-software-push"
-webUrl: "https://www.autonews.com/mobility-report/stellantis-launches-23-billion-software-push"
+excerpt: "Stellantis said that, starting from 2024, it would deploy three new technological platforms powered by artificial intelligence ... Alphabet's Waymo self-driving unit and BMW to build the three ..."
+publishedDateTime: 2021-12-07T10:43:00Z
+originalUrl: "https://europe.autonews.com/automakers/stellantis-launches-23-billion-software-push"
+webUrl: "https://europe.autonews.com/automakers/stellantis-launches-23-billion-software-push"
 type: article
 quality: 24
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Stellantis%20logo%203%20rtrs%20web.jpg"
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Stellantis%20HW%2C%20SW%20and%20AI%20Platform%20Solutions.jpg"
     width: 800
     height: 600
     isCached: true
@@ -115,6 +115,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Stellantis plans to embed AI software in cars to raise profits"
+    excerpt: "iPhone manufacturer Foxconn on customized cockpits and Waymo to push their autonomous driving work into light commercial vehicle delivery fleets. Stellantis’ embrace of artificial intelligence ..."
+    publishedDateTime: 2021-12-07T15:23:00Z
+    webUrl: "https://www.canadianmanufacturing.com/uQ5uW"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 39
+    images:
+      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/10/PLT_INDUSYRY4.0_WSUPERBIXBOX_SEPT21_JLR.jpg"
+        width: 300
+        height: 600
+        isCached: true
   - title: "CEO: Stellantis wants to outfit cars with AI"
     excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in $22.6"
     publishedDateTime: 2021-12-07T19:08:00Z
@@ -158,6 +172,6 @@ related:
         height: 600
         isCached: true
 
-secured: "UkmL59eY4va8lj9rlQ0NB08eQvCaUkmGZMX3hiDZbhz6cxG11Ij5xKO1RW5+SjvnLnXr38VOrRazRoRlwNwjmf3Hq1NTLvzR3qQPRaJbPLovgJaC0zMmgsadPDqwxu4e1/x7v8zxWB/rIUE6KAX5/P7YTdhFiLhzk4GL4nVJj6Dci392i3QIDyM6UVABhT2wk5wYHoEsiUMHtmbzTl96FhrApcwDGjYPgoxK34eVIOtjVvBwDm27bNwfQ7q9KoWX/n/FFvQRajHqw11GdPp200LMj8/ANkIbJFA2IU4w/mk9eRs2VfczdFIyxWkSZC+EB54Uj3IO5gFejzsZkqorV3c7FL1r7ONUniNVUYVE3uM=;6iYA7rq+/T37r+dBrcXsKQ=="
+secured: "9+LwbDg8E1OJTXw9w5HCaz9CfrUWYwNlJpe+rRWx6idSTOUALP7Qcuhg8Jh1dV461DZ4UpjgQZ7pBuPyb+151mNbaEq8zZU8zGLHdi4Hq8TY85gwNcMwIN+jjlpf7JdPduncrByKnqUjSUwPRsbwbmH9hRrXPbTS6TjDC9R8UMXHdg1uT6ylb0agVw8yKPvb+5oHzfexDCjWr7GyJMqmRsKdIxMRL9Cm4MC4KQlgJK+kSBVjf/qLqavohqLZ3cHSjvg85svy4N/uqso9/0RdxGQTES9r2vUYewhaTgThsC8CtTOsEyPpp3Rli33BPyAFyfojMJPn83g+Wf+qchMx9tlefJzunEGZmkiDoy2viHs=;oupBMknsBGUCgpZxzg/8Rg=="
 ---
 

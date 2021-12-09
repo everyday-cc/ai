@@ -41,20 +41,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "AI-designed Xenobots Have Figured Out How To Replicate, Living Robots Are Coming"
-    excerpt: "I bet you thought we needed to look towards the stars in order to find some new form of biological mechanism. Or perhaps into the depths of our oceans, which run deeper than Jerry Jones’ pockets, or so I’ve been told."
-    publishedDateTime: 2021-12-04T12:00:00Z
-    webUrl: "https://www.autoevolution.com/news/ai-designed-xenobots-have-figured-out-how-to-replicate-living-robots-are-coming-175397.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 49
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/ai-designed-xenobots-have-figured-out-how-to-replicate-living-robots-are-coming-175397_1.jpg"
-        width: 1485
-        height: 1080
-        isCached: true
   - title: "World's first living robots created, and they learned how to reproduce"
     excerpt: "A team of researchers has successfully created the first living robot that has recently learned how to reproduce in a new way."
     publishedDateTime: 2021-12-06T06:04:00Z

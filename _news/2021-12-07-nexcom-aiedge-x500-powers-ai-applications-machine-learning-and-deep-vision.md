@@ -1,10 +1,10 @@
 ---
 category: news
 title: "NEXCOM AIEdge-X®500 Powers AI Applications, Machine Learning, and Deep Vision"
-excerpt: "From machine learning to precision marketing, require extensive graphics, data analysis, and storage capabilities. Our newest industria"
-publishedDateTime: 2021-12-07T06:44:00Z
-originalUrl: "https://menafn.com/1103315550/NEXCOM-AIEdge-X500-Powers-AI-Applications-Machine-Learning-and-Deep-Vision&source=29"
-webUrl: "https://menafn.com/1103315550/NEXCOM-AIEdge-X500-Powers-AI-Applications-Machine-Learning-and-Deep-Vision&source=29"
+excerpt: "The PC is built to power industrial AI applications, including image processing and optimization, deep learning, and machine vision. Built on the winning systems architecture of its AIEdge-X® pre ..."
+publishedDateTime: 2021-12-07T02:27:00Z
+originalUrl: "https://menafn.com/1103315550/NEXCOM-AIEdge-X500-Powers-AI-Applications-Machine-Learning-and-Deep-Vision"
+webUrl: "https://menafn.com/1103315550/NEXCOM-AIEdge-X500-Powers-AI-Applications-Machine-Learning-and-Deep-Vision"
 type: article
 quality: 51
 heat: 51
@@ -24,6 +24,6 @@ images:
     height: 520
     isCached: true
 
-secured: "WDeHX/qux5t3Y+06GeqWUfxOFnOcN2tmTIcUyzlJUNkA0KxuGkZHNz+lf9PJlZ49yuTMJZ4HcCe8wK652ukT7Zdj1vuAXEjBZMKzYe486xt2UzlyuhqQASNuYHg+JXQOj5qXwrJZSUfGmqHkFuM8qWPolvn7UIuC7+VF3Mm1KTW+OtDj84XTXcP0TA9G0ET6bEIPnUyQDVXiR9iW26/3kYi3ZB0mVE5hO2/rsNSfTXg94yMdEH7yFHDUYXexHED21+nUkzYY5ERpLvMIpuMCjRBqn2hjTjl8p7ItUdDvG90wMC1svUVcgZtyUyl0mmgVBvXW0PLJ0lCfju3MY88nBWYN8HCMZtKFa8wlUdG+PYkqAqcrCuC7NFJZaqZ8LRbOAPyfcSffwfI5uI1NqUlX2cHPZLAgAmBB9+nsSYVG3wo86n0SKytVK2iEUBQECev/xirkeiMEyWLp/fXQSjK2XZPCEspBOY7VUQ58L/DVxty57f3+cRWx7DaksrUD6D0Q9hcq0cwXQcjNcfH7m2TKlA==;ApWy4cge92rtFEODht+haA=="
+secured: "4x7iE9KEoi2FauYMK7TOao2SddNKEbDkfKAz7JeXRaaz32vgeU7o9IR1NfriAK0lDMxHBoSwScZE8CJxyEpNSGN5B517wA/k9cIHV82IpZ3OzarLr+urxysaTMzBPnRGoBhiRvFM7+TdoG8GKZ2wPUnGGmgSWlZzW/3vMErpsgvPXZjMBhskeN6iL955BPfk5GFg2KfMLvm+VQf5qcqTOhsvNKuZJVG9Q5ikTcthOE7P69qhw0iCNHyOVbeF9tBMvirt2hTipESZTzGq9mGYKlsMoCytjeVuN/O1rT4f8yIRKjYmd43cBwjSKVWlBX9J4CNTyoyJftTkiODs+IEstf5g6fiNzinEAAkveRX/eB4=;MBBw3PgZ2XBhMjec7v/gjg=="
 ---
 

@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Engineers teach AI to navigate ocean with minimal energy"
-excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are developing an artificial intelligence (AI) that will allow autonomous drones to use ocean currents to aid their navigation, rather than fighting their way through them."
-publishedDateTime: 2021-12-08T20:53:00Z
-originalUrl: "https://techxplore.com/news/2021-12-ai-ocean-minimal-energy.html"
-webUrl: "https://techxplore.com/news/2021-12-ai-ocean-minimal-energy.html"
-ampWebUrl: "https://techxplore.com/news/2021-12-ai-ocean-minimal-energy.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-ocean-minimal-energy.amp"
+excerpt: "The AI's performance was tested using computer simulations, but the team behind the effort has also developed a small palm-sized robot that runs the algorithm on a tiny computer chip that could power seaborne drones both on Earth and other planets."
+publishedDateTime: 2021-12-09T03:57:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/12/211208165159.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/12/211208165159.htm"
 type: article
-quality: 59
-heat: 59
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2021/engineers-teach-ai-to.jpg"
-    width: 333
-    height: 500
-    isCached: true
-
-secured: "EPBaZUjAmBKhrYDGDPyGlisoDEYZkeslMSOQKVCJo+ve6fyJL6LcjxovZ5KR8wMljL78vgE0nInxqmHRVSZSabQisAUD0nGH0od/RepDIcYAPvf/qvku3GllvXSK2fBe3RTmHuSHAwBMYitj2K4FlpCNKmiryiY3kYDjwI+wGmGfHKObEB1mBWJnN3mIstxqwk0Ehwu5uGTI5BXlXYlgAk3ATKO1Rn0UiESR0J564uROnQySJNVSVrdgXWKM0cX+wHxFvZx/xQgnxA/MqqCrbFc87KmLIA8Pjk81/U6Q+k4zVqlTxEIRNcjXOx2OI4KIlJJJrL+5t5/MYkziZLfsSiXegg01Whpm2r6VUF1oAYsZ0mAdl+YGZv4/s+GNI+PjShc6Wz84xBe6I4tc37UPIUfS2F1blrDjH5O47QPGESILOcQXmJAdr++pzOjSFVNz3r7peoBfEkhK7WtSAe08lhRu9mqXWi6cTTVICO6yNZHBpVD0WD113iwgnxkJzVuN0MNMEYWRHqMazrNxcPhvZA==;3rGqxaPqvZv2ExHTzlSOow=="
+secured: "Om0mV2SLvE+HsdUIsZE9UtotFme4re3BPNrT/f+yhBM12cXPucRQmGwjHHXac24N80QLiqAApOgq88YDX+fZ9+fuVji8fyKEO2yrdwd8uiNlEsT07xibBJg2SPemSuIhNR9murvPPNi5/2e4nRd4Mjf/8Pcfgf/2WxQXpA0bQaoikx551l9v1XecIflb7LOQRbAItR3UeiXT+eJTN82CdUZi+gb3ttYZBp5dF+hErEz/gGKrvbV6G39SR2s+PJUPLXo6qu/HA2p0ZCYK+sVwiqKX97gZxjlicT4KAP7cnqAL/ukkGTd/bC7TDYHMWe6GpypRlISdyBEeJNQ81vxRH7o2li0MbsJfe4GWSfwoWI4=;7N/cwwtyG0wzKvcGzRqV/w=="
 ---
 

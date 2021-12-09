@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/"
 type: article
 quality: 65
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel is spinning off its self-driving unit for $50B — why?"
+    excerpt: "Intel acquired Mobileye for $15B in 2017. With markets hungry for next-gen auto tech, its spinning off the self-driving unit at a potential $50B valuation."
+    publishedDateTime: 2021-12-09T02:05:00Z
+    webUrl: "https://thehustle.co/12092021-intel-mobileye/"
+    ampWebUrl: "https://thehustle.co/12092021-intel-mobileye/"
+    cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/12092021-intel-mobileye/"
+    type: article
+    provider:
+      name: The Hustle
+      domain: thehustle.co
+    quality: 44
+    images:
+      - url: "https://thehustle.co/wp-content/uploads/2021/12/News-Brief_2021-12-09T015615.842Z.jpg"
+        width: 600
+        height: 330
+        isCached: true
   - title: "Chipzilla to make its self-driving car unit public"
     excerpt: "Mobileeye plans IPO  Intel is planning to make its self-driving-car unit Mobileye a public company in the middle of next year -- an IPO could value the Israeli unit at more than $50 billion Chipzilla expects to retain Mobileye's executive team and hold on to a majority ownership in"
     publishedDateTime: 2021-12-07T11:26:00Z

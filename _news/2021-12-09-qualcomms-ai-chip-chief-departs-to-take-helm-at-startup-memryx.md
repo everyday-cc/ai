@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-09T01:09:00Z
 originalUrl: "https://www.channelnewsasia.com/business/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2367051"
 webUrl: "https://www.channelnewsasia.com/business/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2367051"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
