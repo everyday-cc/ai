@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-09-14-new-ai-writes-computer-code-still-not-skynet-but-its-learning.md",
+      "title": "New AI Writes Computer Code: Still Not Skynet, But It’s Learning",
+      "excerpt": "Sometimes, when you feed an AI content from the Internet, it learns natural language. Sometimes, it reads the entire contents of GitHub and learns to produce simple snippets of code. This is the story of what happens when the AI does both.",
+      "sourceUrl": null,
+      "webUrl": "https://www.extremetech.com/extreme/326929-new-ai-writes-computer-code-still-not-skynet-but-its-learning",
+      "originalUrl": "https://www.extremetech.com/extreme/326929-new-ai-writes-computer-code-still-not-skynet-but-its-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2015/12/Brain-Machine-2.jpg",
+          "width": 1710,
+          "height": 952,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-facebook-takes-a-stab-at-true-speech-to-speech-translation-via-textless-nlp.md",
       "title": "Facebook Takes a Stab at True Speech-to-Speech Translation via Textless NLP",
       "excerpt": "Facebook sees textless NLP as making automatic speech translation obsolete by working in true end-to-end fashion: from speech input to speech output.",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&
 cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
 type: article
 quality: 61
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://images.livemint.com/img/2021/12/06/600x338/it3-kqRE--621x414@LiveMint_1638783930875.jpg"
         width: 600
         height: 337
+        isCached: true
+  - title: "Machine Learning is the most acquired skill in India on Coursera in 2021"
+    excerpt: "As per Future of Jobs 2020 by the World Economic Forum, AI and Machine Learning Specialists, Data Analysts and Data Scientists are emerging job roles. Therefore, graduates and professionals are ..."
+    publishedDateTime: 2021-12-09T02:54:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021/88177055"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021/88177055"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021/88177055"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88177055,imgsize-104416,width-1200,height-628,overlay-etcio/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "The Hindu Explains | Facial recognition tech in Indian airports"
     excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"

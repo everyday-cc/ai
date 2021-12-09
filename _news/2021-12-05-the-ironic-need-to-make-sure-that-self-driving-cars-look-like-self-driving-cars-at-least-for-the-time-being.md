@@ -93,6 +93,29 @@ related:
         width: 999
         height: 720
         isCached: true
+  - title: "Parking space detection for self-driving cars comes to CES 2022"
+    excerpt: "Software developer StradVision will showcase its latest software developments including parking space detection features and vision perception for augmented reality applications at the upcoming CES 2022 trade show in Las Vegas."
+    publishedDateTime: 2021-12-07T13:31:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17504/parking-space-detection-for-self-driving-cars-comes-to-ces-2022"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/504/17504/software.png"
+        width: 752
+        height: 422
+        isCached: true
+  - title: "AI could stop crashes between self-driving cars, cyclists"
+    excerpt: "(Rawpixel pic) PARIS: Argo AI, a start-up specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially ... in turn prepare the actions of the self-driving vehicle as effectively as ..."
+    publishedDateTime: 2021-12-09T02:38:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2021/12/09/ai-could-stop-crashes-between-self-driving-cars-cyclists/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "g8hhhqGp2F4RMaDiqmA2z80m/mgw/9Kl8ef9eycLuqNVJFfekMIxutlInNwDa/QsK47cOODcpR7EZcqrx7V6ouNMppFQjWad+9cUNDwrC3zOtYy0NXfV690q8QqlQzE3kqIvSCn1Yab6j4VtbO1l2Pzcu4OPSioFcTG2Oji+iH5nRyHyx8hlPf+gjtQkSa/X8NCUheaNpOcUUaFx1zvRncM+1Tyzor2k8u+wEUUGftwTwbwBlUCTKlHkOm+pdorgYvdvxcnZ87qF4KUHmk/JVNKPSWDYMUGj3EmDqYhpKDV5+tCgXwarA+TpLZFmKFV05c7lY49If7oFYTfEC2oUUE2k4Gtix880byW827k3WWkuHqJuznycsEm1id4Fnw8xeIq1sDaI/e8w0zdPU3JNrsEkpPYpsB2g4RR4HpQNuIHZstYoKPtkGfMolIa3tPN/leNzsPzvVrNbuvUUwjOxjWTt45a7SlEhzWgJbLUBYdSs6NVDPciD67EAJhKO5/FpNaHnY/3yNynA+tlUX7k8Bw==;i05Z9pBrkqxokRirn6Xztg=="
 ---

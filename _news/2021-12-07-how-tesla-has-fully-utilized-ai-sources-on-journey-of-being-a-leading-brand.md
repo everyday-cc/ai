@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/how-tesla-has-fully-utilized-ai-sou
 webUrl: "https://www.linkedin.com/pulse/how-tesla-has-fully-utilized-ai-sources-journey-being-leading-"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1080
     height: 720
     isCached: true
+
+related:
+  - title: "Tesla looking for AI engineers who can solve problems affecting people’s lives"
+    excerpt: "As always, Tesla is looking for hardcore AI engineers who care about solving problems that directly affect people’s lives in a major way. — Elon Musk (@"
+    publishedDateTime: 2021-12-07T05:48:00Z
+    webUrl: "https://techstory.in/tesla-looking-for-ai-engineers-who-can-solve-problems-affecting-peoples-lives/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 32
 
 secured: "icVHKcgsOEwq8TD87sNVZ4DADkQa5i/nT2e+p9njZJjhYz3vhxrW56UlneWHtwb/WXRVG/9tE5Q76flz6YoicO+LIaizrTT6MSyLuSYR726cdEXS6CFPEC8DA1L2Q0Qnf0Rqdx12VU+wMkFEwtOdxaYQKgRg0UwKARHOo0Er0hlOX6VxftQTTIfZHVWr0d6uUSiV1XxPjUAhMZAEjoyh2dkCdjGcQDPo03+5zgtFhW0KHctED9j5ezQgNoZ0pElsEC9R1EiCOkTOuIBJ8U1mJuH/b1bBNnLgadjUORiWqD2QXriyNziYXEpT6HHhoXg+4sTWtmW4kwQ/plXEqWfqdG3vAgYnGONUgfq4ccWcZ5ysHwfDC2wAY+Wbil1URzMb/Vx33YepwPqQ4CfDuhWxl3XxoM9DfDvU6pjUSJAB+WhN8Zi91yAQRyBrPIDF5CoZtqgJKMAhQQFCO38wdA2V1T7OVvtFhDqGewsQbGsUYh+kT/Ih/OgnqkP/PTLg1cZ2RTdQvLyxkC1JmuY6rX3rRg==;pZ8OexN0XGPJ4WVIx+Igdw=="
 ---

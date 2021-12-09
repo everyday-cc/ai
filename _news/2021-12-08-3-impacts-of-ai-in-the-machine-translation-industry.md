@@ -57,6 +57,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Machine Learning is the most acquired skill in India on Coursera in 2021"
+    excerpt: "As per Future of Jobs 2020 by the World Economic Forum, AI and Machine Learning Specialists, Data Analysts and Data Scientists are emerging job roles. Therefore, graduates and professionals are ..."
+    publishedDateTime: 2021-12-09T02:54:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021/88177055"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021/88177055"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021/88177055"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88177055,imgsize-104416,width-1200,height-628,overlay-etcio/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The Hindu Explains | Facial recognition tech in Indian airports"
     excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
     publishedDateTime: 2021-12-07T14:08:00Z
@@ -130,6 +146,6 @@ related:
         height: 389
         isCached: true
 
-secured: "STLI3NGosxU/R6qUiYFTsU5cXf+kw252RruGF9g/iFfPlOuuU+7QzQUnfhN7KCNBXdSH/ZyNYpslXWohEJkgwOuNSmTp8BOUcUe6JY8s5sjqxrp6p1W/DdEQ/1WCSuf6rt+jnpxg+ce1B+TLc2ziKv6abj5dLgRiqBVJ+ZOvAwWuzas/tLSDWlTYibqPtBUrcE1FCXrv8CKa0KwS54URybY+TzELwsUWT5B+dDX/6c1qdVTslBe9GUZMkMfJ1/Mhx97atuvg4aQCPDIk9SMP72YQhgby6D7aJKKABejBjnCCQEQsV61Yjgol6GjszhTQ75yDfLV0OujNv/RLzw4kHNmJY1RLD/J4l7fiogPkSug=;ZSAIRvxYaO5lTAFS2EVAWQ=="
+secured: "ZI/Cn4nVyyR7H5KOufDVQOOvhsfVdKdk4iooG42O2moRozlBWhyE7xBJT+K9YzX5+lwJtIW/T6/C8Gb5Exo1agU+5PZ8KOv6/aOskI8ypQKc5upNwHL2VOg0Z8YPNpaLM8p5M7b/N8RqUCU7U4+NPldBm3So9jvXAIns7PCgj8YO6qhXCaBSXdYEzTTbsOQ5NAkGLfgopcu81ZFumH2P0IiM0BWfC2T0Oo/fS03J6TckglP/nzDi20nKkxw9QAs0VRkOYMUzZchMVP0WoMDZnFk++eLO7u1mjiK838t+2C+LenYQu2LwQOrcnqC5mrQQoVoZ6z6OGK5SGJChe5qW7CCpDbQRJjylQtBeERWxxZfQAP5UKPYh7FnnLf5z3F2cKlo1lfyBtusRgrk87OGPBpVmN2ZiNOE5TiIbHjv1HUTsTdeF3Vhe0YWAu2j/AqnvBKQfmmeOOSV2KwIpkqI4HokhsqlYJf35tf8099we0xnwaPNQyN7VltXc2cxJko5f/2+LQhiGmw9+NTszKtNFag==;gaX7xgbgzKvPwmNm3Gj4qA=="
 ---
 

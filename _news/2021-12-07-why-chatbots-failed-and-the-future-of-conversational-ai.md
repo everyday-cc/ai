@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/400644"
 webUrl: "https://www.entrepreneur.com/article/400644"
 type: article
 quality: 67
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -28,59 +28,36 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence is Changing the Future of Radiology & Healthcare"
-    excerpt: "AI workforce look like and at what point does AI truly automate jobs in healthcare? Do you want to support my writing and get more content? Subscribe here. The AI-Human Augmented Healthcare System is Coming Healthcare in the next thirty years (2025 to 2055) will be disrupted by AI,"
-    publishedDateTime: 2021-12-07T20:32:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-changing-future-radiology-michael-spencer-"
+  - title: "Natural Language Processing and Conversational AI in the Call Center"
+    excerpt: "Natural language processing (NLP) and conversational AI are often used together with machine learning, natural language understanding (NLU) to create sophisticated applications that enable machines to communicate with human beings. This article will look ..."
+    publishedDateTime: 2021-12-08T14:24:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/"
+    ampWebUrl: "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 55
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 74
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEU7CTKRAYZBQ/article-cover_image-shrink_720_1280/0/1638804317784?e=1644451200&v=beta&t=ISnO7ttNkxyoaZ0PHxlLaNZbGepAZqBW6a_qCF9gUE0"
-        width: 1279
-        height: 720
+      - url: "https://www.cmswire.com/-/media/a40ebbb5088c4bb7a3be22349378658d.ashx?mw=1024"
+        width: 640
+        height: 480
         isCached: true
-  - title: "Multilingual AI chatbots by start-ups transforming customer service experience"
-    excerpt: "Multilingual chatbots are the need of the hour in today’s fast-moving world with the rapid innovation in Artificial Intelligence."
-    publishedDateTime: 2021-12-05T14:12:00Z
-    webUrl: "https://www.timesnownews.com/technology-science/article/multilingual-ai-chatbots-by-start-ups-transforming-customer-service-experience/838037"
-    ampWebUrl: "https://www.timesnownews.com/amp/technology-science/article/multilingual-ai-chatbots-by-start-ups-transforming-customer-service-experience/838037"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/technology-science/article/multilingual-ai-chatbots-by-start-ups-transforming-customer-service-experience/838037"
+  - title: "The Urgency of the Moment for Congress on AI and National Security"
+    excerpt: "ODNI's Corin Stone writes in the last of her series on the adaptation of Artificial Intelligence by the IC that Congress has a role to play"
+    publishedDateTime: 2021-12-07T14:54:00Z
+    webUrl: "https://www.thecipherbrief.com/the-urgency-of-the-moment-for-congress-on-ai-and-national-security"
     type: article
     provider:
-      name: timesnownews.com
-      domain: timesnownews.com
-    quality: 53
+      name: The Cipher Brief
+      domain: thecipherbrief.com
+    quality: 54
     images:
-      - url: "https://imgk.timesnownews.com/story/Artificial_Intelligence_IANS_2_0.jpg?tr=w-400,h-300,fo-auto"
-        width: 400
-        height: 300
+      - url: "https://www.thecipherbrief.com/wp-content/uploads/2021/12/IMAGE-Capitol.jpg"
+        width: 683
+        height: 512
         isCached: true
-  - title: "Chatbots Will Bring AI Smarts to Your Organization"
-    excerpt: "The latest trends in artificial intelligence and machine learning technology certainly meet those criteria, with conversational AI being one that stands out as promising benefits to a wide variety of businesses."
-    publishedDateTime: 2021-12-08T17:00:00Z
-    webUrl: "https://thenewstack.io/chatbots-will-bring-ai-smarts-to-your-organization/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 39
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/11/64ad9aae-chatbot-gc3ac2d6ca_1280.jpeg"
-        width: 1280
-        height: 811
-        isCached: true
-  - title: "Why Artificial Intelligence is considered key to traffic solutions across cities of the future"
-    excerpt: "Coupled with existing systems comprised of network cameras and monitoring solutions, the innovation and application of artificial intelligence heralds a new era in traffic management. Why Artificial Intelligence is considered key to traffic solutions across cities of the future."
-    publishedDateTime: 2021-12-08T11:44:00Z
-    webUrl: "https://www.constructionweekonline.com/business/insights/artificial-intelligence-key-to-traffic-solutions-in-cities-of-the-future"
-    type: article
-    provider:
-      name: Construction Week Online
-      domain: constructionweekonline.com
-    quality: 5
 
 secured: "ftZ29FC/HSzjwL5WGagFs37vn+qqll31qqufMVPKSFBzFUzlhfAgqSpdzmGkTxB6ly9Sei/4i3T8cEn2PAgX4FDhe3M+3W9/iBR3eaZFBjueuEujd9aT4jCU02hQoPEtwvVGHZAOAN1n83uaWCx8K8g3kpJ8twSXF98n5XDi3Ik1xxLThodfCsXNU4diOCpbG4nz6hAUe0QHZjf9hu7HWh9OGwPts/0twHrhAGDS5Co2nt2CaIhCPyR/EwQlU1ZOo67QM4ZlRNZcIr3aEIW2qaZlhsAov/FtMxq0L9KOziCRFq5eqitaXrCXax/TWNH/yPOf2YLIRKc+fGoBQHLymtAO4RUbXzWaABgFLbJ3aHE=;7LVWmbO2RKWoQ4W4SNtOsg=="
 ---

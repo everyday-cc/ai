@@ -3,8 +3,8 @@ category: news
 title: "We can’t let robots control nuclear arsenals"
 excerpt: "When brilliant individuals nearing their 100th birthdays write a book, it is a good idea to read it. Two years ago, the scientist James Lovelock celebrated his"
 publishedDateTime: 2021-12-06T17:00:00Z
-originalUrl: "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=3dc4c6e33eef358c44cedafd4c323048"
-webUrl: "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=3dc4c6e33eef358c44cedafd4c323048"
+originalUrl: "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=1fc5eb220545fd2a0aaba0a35c1c6cb2"
+webUrl: "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=1fc5eb220545fd2a0aaba0a35c1c6cb2"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 674
     isCached: true
 
-secured: "5J5hgA+Aj+bODJX1J6q/1O5Feqo2hbZGDRAYmi8snDgxrQ2n/M78t7VAJjNB6ukGABSB5MMFgXk0zNtgC9Zkh4Jlxy/DX+RTCMFwl2hQdYM7NLKuXWqekDipu/Nv2nlp7PzEFc7mlg9aMGrbHgY0zwiTrV7hypAPWXfg5ycCUGKAxhYMq9fa3grex76h0sIJQxASheFhIZbsd1TgvaodsXWx+134RQjMysxKKYYWo0BRjOqQqHROTrxvepdSKXeRPhoe9igs1zphSKvL5jwEsskGsR7ygbBHCCYpzaUbIlE5kDL8MyoyAsVnuKgXdTeilCsDOj0/ZBiu07dI24uAL7MUUuSJIL1+s+r2q2CE/UI=;cOo2QNqVy6iVjt55HLdnxw=="
+secured: "tnxHkYrYEux8mdvlkg+dvawiVrk2EjwXNHOqc930t2WtwzSvAzBHvd/RAg/rT4/aABlR0o8NMAzfxZoZsXSgbNPC2/b9CzkMJKhe1qxx5mr1MwvGgQs2/SihwmmsCnUI5LLsXpvZ5pQRWYD0tIbzbmqnpy0npbicZCthfUMxhyy6JEreG+u5Z/VlKQOZhDesgggvvrOmpsFIwdH8ApaPRNDY/3E53N2h2NGdlCN1r/3INYAxTTnDv/wigNMBo93P63Y1gQ5G7kWLAJir66TMwXNShWFv7oPT/QtCZeVyFbYcobjuva6KPTAaWUOQXGrJ9dvmcVd+cgu+nbStQmg4A99yaLfEk4ZXY4v5vKeZPEg=;4KIyABykvwOcWBIlRc/zgg=="
 ---
 

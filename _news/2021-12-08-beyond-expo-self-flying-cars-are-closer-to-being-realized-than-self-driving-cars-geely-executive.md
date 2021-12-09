@@ -89,6 +89,29 @@ related:
         width: 999
         height: 720
         isCached: true
+  - title: "Parking space detection for self-driving cars comes to CES 2022"
+    excerpt: "Software developer StradVision will showcase its latest software developments including parking space detection features and vision perception for augmented reality applications at the upcoming CES 2022 trade show in Las Vegas."
+    publishedDateTime: 2021-12-07T13:31:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17504/parking-space-detection-for-self-driving-cars-comes-to-ces-2022"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/504/17504/software.png"
+        width: 752
+        height: 422
+        isCached: true
+  - title: "AI could stop crashes between self-driving cars, cyclists"
+    excerpt: "(Rawpixel pic) PARIS: Argo AI, a start-up specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially ... in turn prepare the actions of the self-driving vehicle as effectively as ..."
+    publishedDateTime: 2021-12-09T02:38:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2021/12/09/ai-could-stop-crashes-between-self-driving-cars-cyclists/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "uGGpnrrTGSv3BkO/azkIBCuT4nFlp41GtoS0aSJxSGzvy5EIWvVv+TiCN37SzjMZiCcDqq0jLEJJyy8YHnhcQhXndbIhC9evdE302jrEEJcToYBgxo/AF7EFF77JS7sirmTk3bz+nOJr12pAnpjziciWD8EWgKF3+uF/aRim2IOjciwa4EaxD6pxqU7LktF0k8qfeUP6hoc6DxJFy1+0khWHW0NldASexV7syKofVLw4iIY1isyN39ivew7ye7tS2jIgXpAPyDEtZU+I1g6nZDJD1C4/Eg8Hr8ETaH8WyB4Uds4wiPF3O94FG55j1wilrAyE/oIY8gZAUDw3Lul+AXxCthZ2IsYXGVtCoLmrbQaSj4xZ/gdcxW8osSjv4CthSiuxIw1APdhuCk02oOyAxAJ41l3VAXUvdeFK1Q17d6oMnqQdFT5L1LfhzVYemmZdRFi8pg1DHcfKBmVcVgGHoSCFEo8ZCARdtpnrdUajr9USXmQndYmipEcz6tp0ZqkUmH3p4hVl0IZzJ5kBtI8kxw==;MQ3V+i9iGwqxVrmCE9EDOA=="
 ---

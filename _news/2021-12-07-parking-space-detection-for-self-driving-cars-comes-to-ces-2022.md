@@ -25,171 +25,93 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla pushes new Full Self-Driving Beta update with improved object detection"
-    excerpt: "Tesla has started to push a new Full Self-Driving Beta software update (version 10.6) to its fleet with improved object detection. It’s the latest step in the long road to improve the FSD package and deliver on a promise to customers that has been delayed several times."
-    publishedDateTime: 2021-12-04T19:32:00Z
-    webUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/"
-    ampWebUrl: "https://electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/12/04/tesla-pushes-full-self-driving-beta-update-improved-object-detection/amp/"
+  - title: "Those Sordid Follow-Home Robberies To First Rise And Then Thankfully Decline During The Coming Era Of AI Self-Driving Cars"
+    excerpt: "Follow-home robberies are in the news quite a bit. For the coming era of AI self-driving cars, such criminal acts will at first be emboldened and then later be generally overcome as driverless cars become widespread."
+    publishedDateTime: 2021-12-08T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 63
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aefa7a83c2df708b6c19fd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2441%26cropY1%3D61%26cropY2%3D1435"
         width: 1200
-        height: 628
+        height: 675
         isCached: true
-  - title: "Ex Tesla Engineers Claim Full-Self Driving Autopilot Video Was Manipulated And Edited Out Barrier Collision"
-    excerpt: "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers"
-    publishedDateTime: 2021-12-07T21:13:00Z
-    webUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/"
-    ampWebUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
+  - title: "The Ironic Need To Make Sure That Self-Driving Cars Look Like Self-Driving Cars, At Least For The Time Being"
+    excerpt: "Self-driving cars might end-up looking like conventional cars, while conventional cars will look like self-driving cars, which could be troubling from a distinctive appearance consideration."
+    publishedDateTime: 2021-12-05T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/05/the-ironic-need-to-make-sure-that-self-driving-cars-look-like-self-driving-cars-at-least-for-the-time-being/amp/"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 71
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
-  - title: "Ex Tesla Engineers Claim Video Promoting Full-Self Driving Autopilot 2.0 Edited Out Collision With A Barrier"
-    excerpt: "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers"
-    publishedDateTime: 2021-12-07T20:31:00Z
-    webUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/"
-    ampWebUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 70
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
-  - title: "Tesla Faked Original Full Self-Driving Video, Former Employees Allege"
-    excerpt: "Tesla faked the original 2016 video showing a Model S driving itself without any human intervention, according to former employees interviewed by the New York Times. The allegations were made in a broader story exposing internal divisions at Tesla over its approach to safety in developing and marketing its Autopilot and Full Self-Driving hardware and software."
-    publishedDateTime: 2021-12-06T12:40:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/"
-    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://www.motortrend.com/uploads/sites/5/2019/06/Tesla-Model-3-Autopilot-10.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
-    excerpt: "Elon Musk built his electric car company, Tesla, around the promise that it represented the future of driving — a phrase emblazoned on the automaker’s website."
-    publishedDateTime: 2021-12-06T14:32:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 58
-    images:
-      - url: "https://www.chicagotribune.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
-        width: 1200
-        height: 792
-        isCached: true
-  - title: "Tesla rolls out new Full Self-Driving Beta update with improved object spotting"
-    excerpt: "The updates delivered via the new version of Tesla FSD Beta program include improved object detection network architecture for cars, trucks and buses..Another update includes improved stopping position at unprotected left turns."
-    publishedDateTime: 2021-12-06T08:24:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting-41638776731380.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting/amp-41638776731380.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/tesla-rolls-out-new-full-self-driving-beta-update-with-improved-object-spotting/amp-41638776731380.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: Forbes
+      domain: forbes.com
     quality: 55
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2021/12/06/600x338/TESLA-AUTOPILOT-INVESTIGATION-0_1636954665977_1638777893284.JPG"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "I Still Can't Get Over Tesla Allegedly Faking Its Original Self-Driving Autopilot Video"
-    excerpt: "For years we have wondered if what’s going on at Tesla is just a shitshow or a scam, and none of that conversation is made any easier after reading a new report from the New York Times, in which multiple former employees claim that the company’s 2016 “hey our cars can totally drive themselves” video was faked."
-    publishedDateTime: 2021-12-08T14:30:00Z
-    webUrl: "https://jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253"
-    ampWebUrl: "https://jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 51
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/c68bad7932c80687766c35aebf5a6a38.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "A Tesla on Autopilot crashed into a barrier while filming of a video promoting the company's self-driving tech, NYT reports"
-    excerpt: "A video showing off Tesla's self-driving capabilities isn't exactly what it seems, The New York Times reports. The clip is still on Tesla's website."
-    publishedDateTime: 2021-12-06T16:30:00Z
-    webUrl: "https://www.businessinsider.com/tesla-autopilot-video-self-driving-crash-barrier-nyt-2021-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://i.insider.com/61ae37a30b0acf0018c4087f?width=1200&format=jpeg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6025c63de89f5cf5cf21afe3%2F0x0.jpg%3FcropX1%3D157%26cropX2%3D7900%26cropY1%3D628%26cropY2%3D4983"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Tesla’s Full Self-driving Beta 10.6 emphasis on precision of movements"
-    excerpt: "Tesla's Full Self-Driving (FSD) technology update will be the 10.6 version. Tesla is focusing on three things with this update."
-    publishedDateTime: 2021-12-05T08:33:00Z
-    webUrl: "https://techstory.in/teslas-full-self-driving-beta-10-6-emphasis-on-precision-of-movements/"
+  - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
+    excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists. To achieve this,"
+    publishedDateTime: 2021-12-08T23:46:00Z
+    webUrl: "https://www.malaymail.com/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
+    ampWebUrl: "https://www.malaymail.com/amp/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
+      name: malaymail
+      domain: malaymail.com
+    quality: 55
     images:
-      - url: "https://techstory.in/wp-content/uploads/2021/12/Tesla-Full-Self-Driving-Beta-Hero.jpg"
+      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-12/0912_argo_AI-seo.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Beyond Expo | Self-flying cars are closer to being realized than self-driving cars: Geely executive"
+    excerpt: "Despite regulatory barriers and ethical issues, self-flying cars are likely to be ready before autonomous road vehicles, Guo Liang, chief executive of Geely-owned Aerofugia said at the Beyond Expo event held in Macau on Dec. 3. The movements of unmanned ..."
+    publishedDateTime: 2021-12-08T12:18:00Z
+    webUrl: "https://technode.com/2021/12/08/beyond-expo-self-flying-cars-are-closer-to-being-realized-than-self-driving-cars-geely-executive/"
+    ampWebUrl: "https://technode.com/2021/12/08/beyond-expo-self-flying-cars-are-closer-to-being-realized-than-self-driving-cars-geely-executive/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/08/beyond-expo-self-flying-cars-are-closer-to-being-realized-than-self-driving-cars-geely-executive/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 30
+    images:
+      - url: "https://technode.com/wp-content/uploads/2021/12/tt.jpeg"
         width: 1600
-        height: 792
+        height: 1066
         isCached: true
-  - title: "Tesla’s ‘Full Self-Driving’ promotional videos were faked – report"
-    excerpt: "The electric vehicle manufacturer produced fraudulent advertising material and compromised safety for vehicle aesthetics, former employees have"
-    publishedDateTime: 2021-12-08T22:01:00Z
-    webUrl: "https://www.drive.com.au/news/teslas-full-self-driving-promotional-videos-were-faked-report/"
+  - title: "Self-driving cars of the Bay Area"
+    excerpt: "I just came back from a long-overdue trip to the Bay Area. It was great to catch up with old friends and make new ones."
+    publishedDateTime: 2021-12-04T20:53:00Z
+    webUrl: "https://www.linkedin.com/pulse/self-driving-cars-bay-area-mohsen-khalkhali"
     type: article
     provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 39
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
     images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/msrtue4f03egr5chq2dt"
-        width: 400
-        height: 225
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQELUb9oolxiFQ/article-cover_image-shrink_720_1280/0/1638571297899?e=1644451200&v=beta&t=YlgVBHzX498RVJnS0cvjFgYfBo2RgTe5i9cpnxhSgrI"
+        width: 999
+        height: 720
         isCached: true
-  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-Driving cars"
-    excerpt: "Tesla may have undermined safety in designing its driver-assistance system to fit CEO Elon Musk’s vision, former employees said. Now the NHTSA is investigating at least 12 accidents in which Teslas using Autopilot drove into parked vehicles."
-    publishedDateTime: 2021-12-07T05:03:00Z
-    webUrl: "https://www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/"
-    ampWebUrl: "https://www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/?amp=1"
+  - title: "AI could stop crashes between self-driving cars, cyclists"
+    excerpt: "(Rawpixel pic) PARIS: Argo AI, a start-up specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially ... in turn prepare the actions of the self-driving vehicle as effectively as ..."
+    publishedDateTime: 2021-12-09T02:38:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2021/12/09/ai-could-stop-crashes-between-self-driving-cars-cyclists/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 38
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "YyoIniEf/YpLU/XrAzP2YFKC2DnjdnVXwC1IVNzoLsChC+ne7HyrttmAAZvLrIIS9nOCotVjhUS3oJsM6K+Qvs/VDo0QlKYCX/a/X+xu/5ANTwhd2WWLq3nEQ3o5MllOMATr0vDPtV+z0yDCcEocOEdWxF47mcPr0LvM7ItXYZDR9dUmPBQ3MeBhYuOCs+n6d65NP53hVXUkL2+pWdv0sU5kCdGCvgPl5JboIex/PFAyO/0hxZrAZyo83cmm2V1H+Qb34bdjXoUkLXOCrv5VYeVw/orGVyro658Sb8Bzj9vao+NSLYDxSkr7AbDuL7WtXWpGhpeac1lFBS4P3o3iciTQiPGu5s3ysh6CvjQErMx2j1EAFRg+g/cVfa8iSLzVkt28RUfzWRK08NegBfCA9hrQ64/iMtXvBf0WEpZ54vRTe/CCPf4v0OClyi5pBABLVoxsufqv0yMXLFFWO9yGKiSGOwZRtrz4l+4miVplP0LJKbwN0o1Du4gyqKTIM7Ri8a54t/MQsTQNkUbi93ggEQ==;WHI1+RxmLauHLplTI+5f8w=="
 ---

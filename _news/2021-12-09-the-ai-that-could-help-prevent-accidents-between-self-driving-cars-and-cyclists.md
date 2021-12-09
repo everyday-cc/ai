@@ -89,6 +89,29 @@ related:
         width: 999
         height: 720
         isCached: true
+  - title: "Parking space detection for self-driving cars comes to CES 2022"
+    excerpt: "Software developer StradVision will showcase its latest software developments including parking space detection features and vision perception for augmented reality applications at the upcoming CES 2022 trade show in Las Vegas."
+    publishedDateTime: 2021-12-07T13:31:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17504/parking-space-detection-for-self-driving-cars-comes-to-ces-2022"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/504/17504/software.png"
+        width: 752
+        height: 422
+        isCached: true
+  - title: "AI could stop crashes between self-driving cars, cyclists"
+    excerpt: "(Rawpixel pic) PARIS: Argo AI, a start-up specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially ... in turn prepare the actions of the self-driving vehicle as effectively as ..."
+    publishedDateTime: 2021-12-09T02:38:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2021/12/09/ai-could-stop-crashes-between-self-driving-cars-cyclists/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "3v2Nmxn+3ZrgYJB0jYQhifW8yzrfQArpBOgQCc6Vw0+pj4YYlZj+D3mMiLt3v0O0UjvkY4GUZwPI9pfxWXwJ+b72b/B5cJLWw3tJle6AOMZWvQU86ReMa7iW/UxRlg1GmGXEt8VKajtG7XjX7FR3AvT4PbwzOhbv65JrtvOWazaXXybIW8bvqAbAEgWMOwc6qPm97sAVDxmxt15PEgsLC2dSFaap/JsCgP3f58YUznVO0Khzt/9tJAyCnmHoOuYqqBhasGd7c/rNOAw6MTCvXYJIqY4cOAeKWkcYttHPc0egN7eCsuex0xKdiE+7Pa5ATaDVoRiGBriEvuIj7yt1ZiNGqQCAnBUdG0U2VnxEfA0=;AFVka0fcNq1QyDmA8c8HWg=="
 ---

@@ -2,58 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2021-11-30-does-the-right-to-bear-arms-cover-ai-guns-and-killer-robots.md",
-      "title": "Does the right to bear arms cover AI guns and killer robots?",
-      "excerpt": "The conversation surrounding autonomous weapons may center on warfare and terrorism, but it's time we discussed the 2nd Amendment too.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/does-right-to-bear-arms-cover-ai-guns-and-killer-robots",
-      "originalUrl": "https://thenextweb.com/news/does-right-to-bear-arms-cover-ai-guns-and-killer-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F11%2Frobots_with_guns.jpg&signature=6445c569aa46bc45e677c928eb00d8ce",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-30-how-to-remove-bias-from-ai-models.md",
       "title": "How to remove bias from AI models",
       "excerpt": "With AI making more real-world decisions everyday, reining in bias is more important than ever. As AI becomes more pervasive, AI-based discrimination is getting the attention of policymakers and corporate leaders but keeping it out of AI-models in the first place is harder than it sounds.",
@@ -1192,6 +1140,50 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-29-view-how-to-take-fintech-banks-to-the-next-level.md",
+      "title": "View: How to take fintech banks to the next level",
+      "excerpt": "India has the highest fintech adoption rate of 87%, against the global average of 64%. Several new segments of fintech startups have emerged, and are gaining popularity among consumers in India. These are redefining financial services for customers and providing more value to them.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/articleshow/87967546.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/articleshow/87967546.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/height-450,width-600,imgsize-12608,msid-87967859/.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/view-how-to-take-fintech-banks-to-the-next-level/amp_articleshow/87967546.cms",
+      "publishedDateTime": "2021-11-28T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

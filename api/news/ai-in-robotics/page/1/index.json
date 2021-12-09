@@ -97,7 +97,7 @@
       "originalUrl": "https://www.reuters.com/technology/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2021-12-08/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -278,59 +278,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-neuralink-and-tesla-have-an-ai-problem-that-elons-money-cant-solve.md",
-      "title": "Neuralink and Tesla have an AI problem that Elon’s money can’t solve",
-      "excerpt": "What do Tesla's FSD system, Neuralink's algorithms, and lazy people all have in common? It'd be great if they worked.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve",
-      "originalUrl": "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Felon-burn-money.jpg&signature=e036468bf08b9464f7f31ef7c598bb32",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T14:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1380,6 +1327,50 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-aws-introduces-a-new-platform-for-developing-robotics-applications.md",
+      "title": "AWS Introduces A New Platform For Developing Robotics Applications",
+      "excerpt": "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/",
+      "originalUrl": "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI",
         "AI in Robotics"
       ]

@@ -24,29 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence Enables Lasers to be Weapons of the Future"
-    excerpt: "The Navy has been researching laser technologies for decades and lasers have recently matured to the point where they are being integrated and tested on ships for operational use."
-    publishedDateTime: 2021-12-05T11:00:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/how-artificial-intelligence-enables-lasers-be-weapons-future-197486"
+  - title: "Artificial Intelligence is Changing the Future of Radiology & Healthcare"
+    excerpt: "AI workforce look like and at what point does AI truly automate jobs in healthcare? Do you want to support my writing and get more content? Subscribe here. The AI-Human Augmented Healthcare System is Coming Healthcare in the next thirty years (2025 to 2055) will be disrupted by AI,"
+    publishedDateTime: 2021-12-07T20:32:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-changing-future-radiology-michael-spencer-"
     type: article
     provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 55
     images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/laser%20uss%20ponce%20flickr.jpg"
-        width: 1260
-        height: 838
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEU7CTKRAYZBQ/article-cover_image-shrink_720_1280/0/1638804317784?e=1644451200&v=beta&t=ISnO7ttNkxyoaZ0PHxlLaNZbGepAZqBW6a_qCF9gUE0"
+        width: 1279
+        height: 720
         isCached: true
-  - title: "Artificial Intelligence key to traffic solutions in cities of the future"
-    excerpt: "Coupled with existing systems comprised of network cameras and monitoring solutions, the innovation and application of AI heralds a new era in traffic management. Artificial Intelligence key to traffic solutions in cities of the future."
-    publishedDateTime: 2021-12-06T08:13:00Z
-    webUrl: "https://www.constructionweekonline.com/business/insights/artificial-intelligence-key-to-traffic-solutions-in-cities-of-the-future"
-    type: article
-    provider:
-      name: Construction Week Online
-      domain: constructionweekonline.com
-    quality: 16
 
 secured: "eaO0mEp7MBECU652UlFe/vsdSnNLItNJiSb6Sw9BkM33xPEPY/0O0j6NAYvE5uy7odhIJNa5hteocVZLEih7GupVFwfIoFFanHBPwXTM6aeRnkNIQqf3qGYlcsxLPLBVOt7PV/IJxVIWJ7XqoPAvVZArAerfZlkv/HsG+6i98POym6oszvC4DXoJh1GXq4WwmFdNGuDSusuancq91U3fbL+yTvFIDJYeo5pJgjiF9ClQIbudePQdNhV02+dV6JxJsjQ17XmL2qjZExqtMyb20yNYNXHQY28BAkMFvJhjD9xtTZdcvCblcEAn0KH0h3s6yRfnlBV0QS7mNg1stAny6QxoSKgt1YlUn0lXXBpB6oU=;UkdZSDS74A5CWP2aXiKriA=="
 ---

@@ -150,6 +150,59 @@
       ]
     },
     {
+      "path": "_news/2021-12-06-inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars.md",
+      "title": "Inside Tesla as Elon Musk Pushed an Unflinching Vision for Self-Driving Cars",
+      "excerpt": "The automaker may have undermined safety in designing its Autopilot driver-assistance system to fit its chief executive’s vision, former employees say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html",
+      "originalUrl": "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 218,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/07/business/07tesla-autopilot1/00tesla-autopilot01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html",
+      "publishedDateTime": "2021-12-06T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-clearview-ai-on-track-to-win-us-patent-for-facial-recognition-technology.md",
       "title": "Clearview AI on track to win U.S. patent for facial recognition technology",
       "excerpt": "The government is moving to award a lucrative patent for a “search engine for faces,” a technology that has members of Congress and privacy advocates up in arms.",
@@ -568,6 +621,40 @@
       ]
     },
     {
+      "path": "_news/2021-12-02-picsart-to-acquire-computer-vision-and-ai-company-deepcraft.md",
+      "title": "Picsart to Acquire Computer Vision and AI Company DeepCraft",
+      "excerpt": "Picsart, the world's leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an undisclosed sum.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-aai-working-on-facial-recognition-based-passenger-boarding-system-government.md",
       "title": "AAI working on facial recognition-based passenger boarding system: Government",
       "excerpt": "The Digi Yatra initiative seeks to promote paperless and hassle-free air travel. It is a biometrics-based digital processing system for passenger entry and related requirements at the airport, according to the government.",
@@ -650,49 +737,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-picsart-to-acquire-computer-vision-and-ai-company-deepcraft.md",
-      "title": "Picsart to Acquire Computer Vision and AI Company DeepCraft",
-      "excerpt": "As video editing surges on the creator platform, the boutique firm will help accelerate Picsart's video offering through AI and image processing Picsart, the world's",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24408178",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24408178",
-      "publishedDateTime": "2021-12-02T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1360,59 +1404,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-robot-company-will-pay-200k-for-your-faceif-its-friendly-enough.md",
-      "title": "Robot Company Will Pay $200k for Your Face—If It’s Friendly Enough",
-      "excerpt": "The company is ready to pay out $200,000 to somebody willing to transfer the rights to use one’s face forever.” You could live forever. Promobot is considering people of all genders and races over 25,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723",
-      "originalUrl": "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/010771dd428e3f09f26866cbe7bd78e8.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723/amp",
-      "publishedDateTime": "2021-11-23T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

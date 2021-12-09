@@ -88,20 +88,29 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO"
-    excerpt: "MemryX Inc., a pioneering startup building breakthrough silicon for artificial intelligence processing, has appointed semiconductor industry veteran Keith Kressin as its new president and chief executive officer."
-    publishedDateTime: 2021-12-08T12:47:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-912264e07f5e4e71816f504584dd3f2a"
+  - title: "Qualcomm's AI chip chief departs to take helm at startup MemryX"
+    excerpt: "Keith Kressin, the executive who oversaw Qualcomm Inc's artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup. Kressin has become chief executive of MemryX,"
+    publishedDateTime: 2021-12-09T01:09:00Z
+    webUrl: "https://www.channelnewsasia.com/business/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2367051"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 49
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+        width: 1200
+        height: 676
         isCached: true
+  - title: "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO"
+    excerpt: "MemryX headquartered in Ann Arbor, Michigan, with offices in Taipei and Hsinchu Taiwan. AI chip company MemryX has hired semiconductor industry veteran Keith Kressin (Qualcomm, Intel) as its new president and chief executive officer."
+    publishedDateTime: 2021-12-08T12:48:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211208005378/en/AI-Chip-Innovator-MemryX-Hires-Veteran-Semiconductor-Leader-Keith-Kressin-as-CEO"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 29
 
 secured: "3LWbQCO++IGxEAkxrC782P05AxiGshsuTIFyODBK4r6XjQkhMd/Amuac5VlTu/IuaumIGUiOwlVR1wUdncYFe/sPNl7X/UUj4C8z0tP6IGI0d2eRXuOAqL0La8ds504DiEbQj4u1S3zyVAH4tyZqqxg8tZJgzUtsb0Pl13tUnb/lZFKszXUM4jWTIr6RREF2kf0L20vVr/YL+P0O42a/2ojXWk1vP2sK6lXX+DRz8I/shDgarMyqvRvyuNYEHb2ObqT4CeVi6xpwj/+RSNfnKPwXTnUcoRsNCIWXbw4oenwzkUqER+QV8l1n8XeSNAilbScgl7Cxi41fVzu1yO+IuRG1tWfD641XJvPpwu1DyHc=;7CngfqiXTsvd+CqWG8nqFg=="
 ---

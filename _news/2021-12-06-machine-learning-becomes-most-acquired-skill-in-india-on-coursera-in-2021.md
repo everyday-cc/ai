@@ -43,6 +43,22 @@ related:
         width: 350
         height: 215
         isCached: true
+  - title: "Machine Learning is the most acquired skill in India on Coursera in 2021"
+    excerpt: "As per Future of Jobs 2020 by the World Economic Forum, AI and Machine Learning Specialists, Data Analysts and Data Scientists are emerging job roles. Therefore, graduates and professionals are ..."
+    publishedDateTime: 2021-12-09T02:54:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021/88177055"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021/88177055"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021/88177055"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 58
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88177055,imgsize-104416,width-1200,height-628,overlay-etcio/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The Hindu Explains | Facial recognition tech in Indian airports"
     excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
     publishedDateTime: 2021-12-07T14:08:00Z

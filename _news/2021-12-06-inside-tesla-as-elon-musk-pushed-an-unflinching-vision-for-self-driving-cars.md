@@ -1,30 +1,34 @@
 ---
 category: news
-title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-driving cars"
-excerpt: "Elon Musk built his electric car company, Tesla, around the promise that it represented the future of driving — a phrase emblazoned on the automaker’s website."
-publishedDateTime: 2021-12-06T14:32:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-nyt-tesla-self-driving-cars-20211206-krsluy6csfcwlonr4zp6i4acby-story.html?outputType=amp"
+title: "Inside Tesla as Elon Musk Pushed an Unflinching Vision for Self-Driving Cars"
+excerpt: "The automaker may have undermined safety in designing its Autopilot driver-assistance system to fit its chief executive’s vision, former employees say."
+publishedDateTime: 2021-12-06T10:00:00Z
+originalUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html"
+webUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html"
+ampWebUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
 type: article
-quality: 58
-heat: -1
-published: false
+quality: 88
+heat: 218
+published: true
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
-  - AI
   - Computer Vision
+  - AI
+  - AI in Autos
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/4QP4t6jBl87SYxOnk7LWR3leoFM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WEQ36KKQTL4JXAJTYZAVZHJUOU.aspx"
-    width: 1200
-    height: 792
+  - url: "https://static01.nyt.com/images/2021/12/07/business/07tesla-autopilot1/00tesla-autopilot01-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -43,6 +47,36 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Neuralink and Tesla have an AI problem that Elon’s money can’t solve"
+    excerpt: "What do Tesla's FSD system, Neuralink's algorithms, and lazy people all have in common? It'd be great if they worked."
+    publishedDateTime: 2021-12-07T22:25:00Z
+    webUrl: "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Felon-burn-money.jpg&signature=e036468bf08b9464f7f31ef7c598bb32"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "‘As always’: Elon Musk tweets on recent Tesla hiring for AI engineers"
+    excerpt: "US-based electric vehicle company Tesla is hiring AI engineers who are passionate about solving day-to-day problems through artificial intelligence."
+    publishedDateTime: 2021-12-06T06:59:00Z
+    webUrl: "https://www.businesstoday.in/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06"
+    ampWebUrl: "https://www.businesstoday.in/amp/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06"
+    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06"
+    type: article
+    provider:
+      name: Business Today
+      domain: businesstoday.in
+    quality: 76
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/elon-musk2-sixteen_nine.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Ex Tesla Engineers Claim Full-Self Driving Autopilot Video Was Manipulated And Edited Out Barrier Collision"
     excerpt: "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers"
@@ -91,6 +125,20 @@ related:
       - url: "https://www.motortrend.com/uploads/sites/5/2019/06/Tesla-Model-3-Autopilot-10.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "News: Tesla to hire Artificial Intelligence engineers: Elon Musk tweets"
+    excerpt: "According to the official website the AI and Autopilot unit of Tesla develops and deploys autonomy at scale in vehicles robots and more"
+    publishedDateTime: 2021-12-07T04:16:00Z
+    webUrl: "https://www.peoplematters.in/news/recruitment/tesla-to-hire-artificial-intelligence-engineers-elon-musk-tweets-31858"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 56
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1636960766/ad-kqkzykwk.png"
+        width: 990
+        height: 550
         isCached: true
   - title: "Tesla rolls out new Full Self-Driving Beta update with improved object spotting"
     excerpt: "The updates delivered via the new version of Tesla FSD Beta program include improved object detection network architecture for cars, trucks and buses..Another update includes improved stopping position at unprotected left turns."
@@ -177,21 +225,7 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 38
-  - title: "Parking space detection for self-driving cars comes to CES 2022"
-    excerpt: "Software developer StradVision will showcase its latest software developments including parking space detection features and vision perception for augmented reality applications at the upcoming CES 2022 trade show in Las Vegas."
-    publishedDateTime: 2021-12-07T13:31:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17504/parking-space-detection-for-self-driving-cars-comes-to-ces-2022"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/504/17504/software.png"
-        width: 752
-        height: 422
-        isCached: true
 
-secured: "rE2b+4msHyW4zGUXQW+nT/y6RnGI9AFT/F5BMPargWojkh7pbJ69VYh7j4FoyJaUui3Y7NxvDkIXsyD3dzXXKeVfT+gp07nRENlncW6LobtOYGg9UjHSu7ks2zBlTYPNTRMVN1sv9q/taQCFgn9VErZKQrtSeCUF2eFrFSj5DJ3AFI8zNRhGuy9jNV7JaHzvaJUcMRcYzLOTFb+ftFy1vqa/jJufsIxUUc49DotBoZ3VR/ybyIakD7qa8lCqv999riBNZ9e5IIxJ+KlnZEFW95tt/4CXftDDhcyk4mJmygS+XykC5+dV1e4yvGitKGRKP42mpC4ncgPcNvrOM3BCviov0tXXrzGhQ9y1Tgnroy1JWWMZSOrCD8q3TBIrk+Le8t0eQy71TsBnw9cbpQpeHwpNtlAOKA9cERqflYe7AaeyTw3N7lIxbZnSLdX5luTyKll8PgpKtegHpekrzwW1ZstVrs5O0WVvzNLHrmohL+afu4klqwCuFvM4tdDLLLDtlTkUa3+IgO+lYBVxeEp6lQ==;172qXcwY2BwpsCvSeGNrjg=="
+secured: "k3wNzUdBxK6vXbyjlK8AxmDsR5ETuz65ipejYCNKjKKyHyJZ/u6/nTAEmr3KeLft/h7ZOsKt4I6fdLWG97ULRogHbh4hlvOkl2TwrfpZz6XGRx6Dd5isL5xLRAwFEYVhXN5X1E/YWXJ7vyHx1801980gncCjeOVm5xAVbgvH7bZ0JhN+TJjW3m4IwFw4ehMBydIPnaPFLexXq+b3slOqWYmX/qshLrJ6D1hKEJnOYDw+2NBUe/JiLzNjLzMyQL/fgcetYiqy5RRWHkEufd3MdapPnkxbewEj3HyswqIwQnFpnbdPdNJktIdj+TzauQa0Y/VUOguhuXmnMHfrOy4VijkzCIL210KPfHXn9yix54Q=;xTREJQaDX5By6ybRogrfrQ=="
 ---
 

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Why Artificial Intelligence is considered key to traffic solutions across cities of the future"
+    excerpt: "Coupled with existing systems comprised of network cameras and monitoring solutions, the innovation and application of artificial intelligence heralds a new era in traffic management. Why Artificial Intelligence is considered key to traffic solutions across cities of the future."
+    publishedDateTime: 2021-12-08T11:44:00Z
+    webUrl: "https://www.constructionweekonline.com/business/insights/artificial-intelligence-key-to-traffic-solutions-in-cities-of-the-future"
+    type: article
+    provider:
+      name: Construction Week Online
+      domain: constructionweekonline.com
+    quality: 5
   - title: "SturdyAI Welcomes Two Key Hires to Accelerate Growth of AI-Powered Customer Intelligence Solutions"
     excerpt: "SturdyAI, a leading developer of AI-powered Customer Intelligence Solutions that create more engaging, profitable, and successful customer relationships for B2B SaaS companies today announced the appointment of two key team members."
     publishedDateTime: 2021-12-07T11:58:00Z

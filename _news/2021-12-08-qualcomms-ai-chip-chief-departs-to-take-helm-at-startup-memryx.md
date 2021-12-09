@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/qualcomms-ai-chip-chief-departs
 webUrl: "https://www.reuters.com/technology/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2021-12-08/"
 type: article
 quality: 86
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -85,20 +85,29 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO"
-    excerpt: "MemryX Inc., a pioneering startup building breakthrough silicon for artificial intelligence processing, has appointed semiconductor industry veteran Keith Kressin as its new president and chief executive officer."
-    publishedDateTime: 2021-12-08T12:47:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-ann-arbor-artificial-intelligence-912264e07f5e4e71816f504584dd3f2a"
+  - title: "Qualcomm's AI chip chief departs to take helm at startup MemryX"
+    excerpt: "Keith Kressin, the executive who oversaw Qualcomm Inc's artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup. Kressin has become chief executive of MemryX,"
+    publishedDateTime: 2021-12-09T01:09:00Z
+    webUrl: "https://www.channelnewsasia.com/business/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2367051"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 49
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
+        width: 1200
+        height: 676
         isCached: true
+  - title: "AI Chip Innovator MemryX Hires Veteran Semiconductor Leader Keith Kressin as CEO"
+    excerpt: "MemryX headquartered in Ann Arbor, Michigan, with offices in Taipei and Hsinchu Taiwan. AI chip company MemryX has hired semiconductor industry veteran Keith Kressin (Qualcomm, Intel) as its new president and chief executive officer."
+    publishedDateTime: 2021-12-08T12:48:00Z
+    webUrl: "https://www.businesswire.com/news/home/20211208005378/en/AI-Chip-Innovator-MemryX-Hires-Veteran-Semiconductor-Leader-Keith-Kressin-as-CEO"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 29
   - title: "Chip shortage to ease next year, says Qualcomm CEO"
     excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the situation is expected to improve next year. According to The Elec website, Amon said that supply has improved this year over 2020 and the situation is expected to further improve in 2022,"
     publishedDateTime: 2021-12-05T11:26:00Z

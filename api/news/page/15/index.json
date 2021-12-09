@@ -2,50 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2021-11-26-artificial-intelligence-ethics-agreement-adopted-by-193-countries.md",
-      "title": "Artificial Intelligence Ethics Agreement adopted by 193 countries",
-      "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
-      "originalUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/World-News/headquarters_flags_michel_ravassard-71532c23-f38e-4881-9939-f84f2b790098.jpeg",
-          "width": 740,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bna.bh",
-        "domain": "www.bna.bh",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-11-26-teslas-self-driving-business-is-powering-ahead-despite-setbacks.md",
       "title": "Tesla's Self-Driving Business Is Powering Ahead Despite Setbacks",
       "excerpt": "The run-up is partly due to Tesla’s solid execution, with deliveries for this year poised to grow by almost 70% to about 850,000 vehicles, despite the ongoing semiconductor shortage. Tesla’s sizable lead in the self-driving market has also traditionally been a very big driver of the company’s valuation.",
@@ -685,21 +641,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-25-artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros.md",
-      "title": "Artificial intelligence in the healthcare sector: Lindera successfully closes financing round of six million euros",
-      "excerpt": "Lindera– one of the leading deep-tech companies in the field of computer vision – has successfully closed a Series A financing round. The Berlin-based health-tech company is receiving additional growt",
+      "path": "_news/2021-11-25-baidu-ponyai-get-nod-to-launch-paid-driverless-robotaxi-services-in-beijing.md",
+      "title": "Baidu, Pony.ai get nod to launch paid, driverless robotaxi services in Beijing",
+      "excerpt": "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China’s capital Beijing.",
       "sourceUrl": null,
-      "webUrl": "https://www.djournal.com/artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros/article_db459d96-a723-5570-98bc-9f77961f3171.html",
-      "originalUrl": "https://www.djournal.com/artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros/article_db459d96-a723-5570-98bc-9f77961f3171.html",
+      "webUrl": "https://www.dealstreetasia.com/stories/baidu-pony-ai-robotaxi-services-271393/",
+      "originalUrl": "https://www.dealstreetasia.com/stories/baidu-pony-ai-robotaxi-services-271393/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/a/12/a12a1954-7d37-5490-aa80-d0bb0d17c216/619fa25c6fc1b.image.jpg?crop=1272%2C668%2C3%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
+          "url": "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/01/Pony.ai-Car-1-1-e1624630116785.jpg",
+          "width": 1080,
+          "height": 540,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -709,11 +665,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T05:31:00-08:00",
+      "publishedDateTime": "2021-11-25T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Journal",
-        "domain": "djournal.com",
+        "name": "dealstreetasia",
+        "domain": "dealstreetasia.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -723,7 +679,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Autos",
         "AI"
       ]
     },
@@ -914,6 +870,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros.md",
+      "title": "Artificial intelligence in the healthcare sector: Lindera successfully closes financing round of six million euros",
+      "excerpt": "Lindera successfully closes financing round of six million euros Health tech company brings new investors on board in Series A round Growth capital to be used for expanding business model in motion di",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-healthcare-sector-lindera-successfully-",
+      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-healthcare-sector-lindera-successfully-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHEhoD12jmuxw/article-cover_image-shrink_720_1280/0/1637772449360?e=1644451200&v=beta&t=bGoQZtEAVDPs6Hat0LlelR1FXB6GquQbMHTi3rvsfME",
+          "width": 1280,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },

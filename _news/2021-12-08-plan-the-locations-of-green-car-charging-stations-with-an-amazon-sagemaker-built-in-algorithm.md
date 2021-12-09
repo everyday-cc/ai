@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/plan-the-locations-o
 webUrl: "https://aws.amazon.com/blogs/machine-learning/plan-the-locations-of-green-car-charging-stations-with-an-amazon-sagemaker-built-in-algorithm/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS brings no-code to Amazon SageMaker machine learning"
+    excerpt: "Amazon SageMaker Canvas provides a visual interface for preparing data and training models, no programming or machine learning expertise required."
+    publishedDateTime: 2021-12-09T00:04:00Z
+    webUrl: "https://www.arnnet.com.au/article/693654/aws-brings-no-code-amazon-sagemaker-machine-learning/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 71
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_m_166316213_2.jpg"
+        width: 472
+        height: 315
+        isCached: true
   - title: "Amazon SageMaker Studio Lab from the Eyes of an MLOps Engineer"
     excerpt: "Invent 2021 conference, an announcement from Swami Sivasubramanian, Vice President for Amazon AI, caught my attention — the launch of Amazon SageMaker Studio Lab. Since the initial launch of the Amazon Machine Learning service at re:Invent 2015,"
     publishedDateTime: 2021-12-07T14:00:00Z

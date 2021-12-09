@@ -3,8 +3,8 @@ category: news
 title: "Intel to launch IPO of its Mobileye self-driving-car unit in 2022"
 excerpt: "Intel said it would take the unit public in the U.S. in mid-2022 through an initial public offering of new Mobileye stock."
 publishedDateTime: 2021-12-07T01:39:00Z
-originalUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos26"
-webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=hp_minor_pos26"
+originalUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?dist=bigcharts"
+webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?dist=bigcharts"
 type: article
 quality: 54
 heat: -1
@@ -227,6 +227,20 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "Intel Intends to Take Self-driving Car Unit Mobileye Public"
+    excerpt: "Intel this week announced its intention to take Mobileye public in the United States in mid-2022 via an initial public offering (IPO) of"
+    publishedDateTime: 2021-12-09T02:51:00Z
+    webUrl: "https://www.thefastmode.com/investments-and-expansions/21682-intel-intends-to-take-self-driving-car-unit-mobileye-public"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 24
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/46d119b0fce0513a8f317451330a29c3.jpg?t=20211209_012423"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Intel to take its self-driving car subsidiary 'Mobileye' public next yr"
     excerpt: "Chip maker Intel has announced its intention to take its self-driving car business Mobileye public in the US next year via an initial public offering (IPO). Intel will remain the majority owner of Mobileye,"
     publishedDateTime: 2021-12-07T12:56:00Z
@@ -255,6 +269,6 @@ related:
       domain: cfo.com
     quality: 4
 
-secured: "gVcSB+hTM91S2dHlwQCwbS2jPJEsHrMNaYOlUG5/c/Rbbx3XXsY/X1jio06r/bi5abiyoMSU4LuQk+NcKD5OpsjQez1lZQZ0e10ZMxu94s5JA8Dl0c1Gp211Daoh/kLC09h0fwgqfdqAu0sgrzaO2yGmRd/yDJgYTKqZdjiShVzmFOPnqdaNbky42ZTMzRWFUTeQugf3WfHMGPaA7TshVG0OTDArMIB/Gg2fXuUO4cBxUhpNOGq/DkF31GK4EZH/Kyk6KiIix+SwyNs8/4SeJIpNyBwuRxwAcZ7R5gik1afSTiNSMLn9MqlPHSqH5cmiWCk11xHMLtrx51R5Ajt05e64lF7EWbELC9Aw5Wvm6fA=;VhyHrll5IBjSTk01Y4rgog=="
+secured: "rw0H4pslXZGcia6efuiixfRpUTu0aAJpqQOgw9S6hEXjnUexh036SO/ttnoYHetpWB6aJg2v5rvWo/+TigCKf8b0PZMnWPrIiu1nq08io1p1DZi595tMab7mOi7/9zYV7migBXxHjwZYydRzcbJYl6vuLLiqsxoTMkbYFEawiCaO7TmZevwsp3PNJyw7pDF9JykXNUx/DnSxrRgRj485mjOeAjhSq/smdKF8399neaNpXlmbvSUlq+2Jbm70H0GhVz+LNHdq1+6qkAuPJ7YwTJegHSjdadec/Gzo7aYWQ4a0b6QfDtQ9GiLrTNOXiBJA1AjM6HGe3azH374GrDyTNgaFTBCsyvcF5RPomzczQ2E=;LVXQUDYvc+hQgBg9wt+q3w=="
 ---
 

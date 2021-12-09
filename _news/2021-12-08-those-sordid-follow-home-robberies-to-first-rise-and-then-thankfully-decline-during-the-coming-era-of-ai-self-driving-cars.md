@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-foll
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/amp/"
 type: article
 quality: 63
-heat: 103
+heat: 123
 published: true
 
 provider:
@@ -93,6 +93,29 @@ related:
         width: 999
         height: 720
         isCached: true
+  - title: "Parking space detection for self-driving cars comes to CES 2022"
+    excerpt: "Software developer StradVision will showcase its latest software developments including parking space detection features and vision perception for augmented reality applications at the upcoming CES 2022 trade show in Las Vegas."
+    publishedDateTime: 2021-12-07T13:31:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17504/parking-space-detection-for-self-driving-cars-comes-to-ces-2022"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/504/17504/software.png"
+        width: 752
+        height: 422
+        isCached: true
+  - title: "AI could stop crashes between self-driving cars, cyclists"
+    excerpt: "(Rawpixel pic) PARIS: Argo AI, a start-up specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially ... in turn prepare the actions of the self-driving vehicle as effectively as ..."
+    publishedDateTime: 2021-12-09T02:38:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2021/12/09/ai-could-stop-crashes-between-self-driving-cars-cyclists/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "MFnn/LpEG0oMkiUzly8ksgvn8P/o8wWOCr7UT6x+ZjrNW3IO3eV9oIvBaMD7GdA8p5TIzquJf+m4AqF6A/5BV86QXQRauY2PsBEeCgymnrJOA4tWfHx1giOYBzQU+Tpg0I5xZDUDQNlZVdRLBFkM0uXhv8lZed0Jr7yPfgPAjQEL03itAgfoV6Um+4oIkQ0FJEIMy1VKf5twL/GeqR17XzV9vgyRUzZgTKOsHvwGDiqBZSuNSEpLHjW6mK5GTmdHNebALYJGo+zwPwsiZlEBm7PUY7CXQ88UAP6U/DFTsw+kcA384P+PiW5jmShHs8CMinZSWK3iDIYzdNKcg5cwv82IyVD9StQLaOj0/ixnaXwZ3Kl7DKDPb6FQTJ1/tyalMLQpUAbvhSyEgsAbxsxHaSCsSDRYCRkRxpF6oiseQeog9PFdJpeoS/NTpxtkOuhvlps7j5AB/jryUfz3ylSunsFJvDnx6uL0uEPWIairPeDGIhB7RlE1Px8isEEY8uA8WkRSJ1tMzuM3yecKk5yZEA==;NAiy4Le9JWgzpOFWOSNd5w=="
 ---
