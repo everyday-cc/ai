@@ -7,7 +7,7 @@ originalUrl: "https://www.albanyherald.com/news/tiny-living-pac-man-robots-have-
 webUrl: "https://www.albanyherald.com/news/tiny-living-pac-man-robots-have-learned-how-to-reproduce/article_09b8cd9a-ddc3-5060-9499-c75e9f702929.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "World's first living robots can now reproduce, scientists say"
-    excerpt: "(CNN)The US scientists who created the first living robots say the life forms, known as xenobots, can now reproduce -- and in a way not seen in plants and animals. Formed from the stem cells of"
-    publishedDateTime: 2021-12-04T13:36:00Z
-    webUrl: "https://www.weny.com/story/45367778/worlds-first-living-robots-can-now-reproduce-scientists-say"
-    type: article
-    provider:
-      name: WENY News
-      domain: weny.com
-    quality: 39
-    images:
-      - url: "https://WENY.images.worldnow.com/images/21827780_G.jpg?lastEditedDate=1638606957000"
-        width: 774
-        height: 436
-        isCached: true
 
 secured: "DclWxH072VZtGbM3gmW8B8DLbntX+4bR0uBynfxivdnvJ/XK3xlMo6HCEHKpXe+DNCA9r126sm52haM9iDsNG9d8mRjZwC8zZ2FmPt1Pww7ScrmqTMF6x0uFVEXMzrUQP6bpTctYHfGv6DCV7c6wa40L9RzOxVz2tC0Q+pStJENmOwbmKQNCcJtyeLeUUmZeq+yblamg0vw0u70lkxdEHBFVaiavW8Rx6QcbKpPkDLzjNNxPJNUoP6G6p/ArZr3xDXyj/Y3jYykKTfqiG7eG35RZjuSz3evCW3im0HVajuiYpKq9NhzNdlLCzrKlAAUm/NsQsTlCKltafftDV16nYMipdY28Mi9TRrrLw2NcllU=;odu8WqJCT2DEmcysMGm1fQ=="
 ---

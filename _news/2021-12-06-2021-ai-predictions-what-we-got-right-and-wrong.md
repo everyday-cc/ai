@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/12/05/2021-ai-predictions-what-we-got-right-and-wrong/amp/"
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     width: 1048
     height: 590
     isCached: true
+
+related:
+  - title: "Air-Fare Price Prediction with Machine Learning"
+    excerpt: "Statement of Issue It can be hard to guess airline ticket rates, we might see a fare today, find out the price of the same flight tomorrow, it's going to be a different story. We may have"
+    publishedDateTime: 2021-12-09T06:06:00Z
+    webUrl: "https://github.com/Dhara2828/Air--Fare-Price-Prediction-with-Machine-Learning"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 54
+    images:
+      - url: "https://opengraph.githubassets.com/b1a74c29cc78928eee16e96ac5137c34d28701653263f6de65bc128bb4696a67/Dhara2828/Air--Fare-Price-Prediction-with-Machine-Learning"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "lyYd4i/4cYJ6b49a6rH1jbj8JWX7MkfQCFo+PCLSQbcd5JmZ/roDojpi3uBO0maCCOK/caOw/AQBH4pye7LtIn7x7XsprHJPpFm+5L0XnHYhnbnUfMTurtSNQ+WZVvueNfbMs4UpbygbUmg8B38tyqyRfwrF+7ToZEEZX0EvS+HfYpOqqvoid9Jt/ZKWaM+2aV+v/7prKKxJ9Ob+obOnCeUXCKoN69TmGPv63wPpS2+aj8pBeQxt6c4GQn/uXUv9IzYnoRq7DmVxNkevTZ6+5vU/jj9h3zL/rQLjTQkJEZYpGGUnnNMGWD0bc6OvfnmMpP6a27OJByDv/ePknpyYKey2gYsNvhNLoHDOJJ8xhVEmzf5qo73LFcyakKrPk6Akn9nydjlA/TluSZ05RAOcdatzw6vrfdauJaRtqHhgAHmnGBJBuK94Rvb9LutQBACzlo4NWfVzGadUEITYZ9TeufQf30fI8G/r3Q0ogFc3UdxjqSFIDeVApALlWsT1r7IWyZagvvb7pt9Gcz5yQS2Dyg==;GYQXvkr6Jx4mb97kTMtvWw=="
 ---

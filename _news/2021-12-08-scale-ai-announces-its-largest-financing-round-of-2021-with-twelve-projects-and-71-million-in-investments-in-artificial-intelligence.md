@@ -41,6 +41,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "4 main Fintech stocks to watch in December 2021"
+    excerpt: "fintech stocks on the stock market today. First, we have the cloud-based artificial intelligence (AI) loan platform, Reached. For those who don't know, the company's platform aggregates consumer ..."
+    publishedDateTime: 2021-12-09T03:47:00Z
+    webUrl: "https://es.paperblog.com/4-main-fintech-stocks-to-watch-in-december-2021-6857790/"
+    ampWebUrl: "https://es.paperblog.com/4-main-fintech-stocks-to-watch-in-december-2021-6857790/amp"
+    cdnAmpWebUrl: "https://es-paperblog-com.cdn.ampproject.org/c/s/es.paperblog.com/4-main-fintech-stocks-to-watch-in-december-2021-6857790/amp"
+    type: article
+    provider:
+      name: Paperblog
+      domain: paperblog.com
+    quality: 59
+    images:
+      - url: "https://m1.paperblog.com/i/685/6857790/4-main-fintech-stocks-to-watch-in-december-20-L-csfLNz.jpeg"
+        width: 460
+        height: 283
+        isCached: true
   - title: "The Future of Fintech 2050: AI-Powered Finance Assistants"
     excerpt: "Discover a possible future in which AI-powered assistants control all aspects of people's financial lives using ultra-personalisation and hyper-automation"
     publishedDateTime: 2021-12-07T09:00:00Z

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI on track to win U.S. patent for facial recognition technology"
-    excerpt: "The government is moving to award a lucrative patent for a “search engine for faces,” a technology that has members of Congress and privacy advocates up in arms."
-    publishedDateTime: 2021-12-04T14:00:17Z
-    webUrl: "https://www.politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735"
-    type: article
-    provider:
-      name: politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735
-      domain: politico.com/news/2021/12/04/clearview-ai-facial-recognition-523735
-    quality: 152
-    images:
-      - url: "https://static.politico.com/1f/c6/e26ed93a4911a083f7f881137c54/gettyimages-925054788.jpg"
-        width: 3000
-        height: 2041
-        isCached: true
   - title: "Clearview AI set to get patent for controversial facial recognition tech"
     excerpt: "The news comes as facial recognition systems are more and more widely adopted, despite a lack of clear rules regarding their use."
     publishedDateTime: 2021-12-04T22:53:00Z
@@ -151,20 +137,6 @@ related:
       - url: "https://cdn.trendhunterstatic.com/thumbs/zoox-pass.jpeg"
         width: 622
         height: 478
-        isCached: true
-  - title: "ACLU Calls for Halt of Homeland Security’s Use Of Facial Recognition Technology"
-    excerpt: "The civil rights organization said that the biometrics technology can lead to discriminatory arrests based on race."
-    publishedDateTime: 2021-12-08T16:33:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/aclu-calls-halt-homeland-securitys-use-facial-recognition-technology/187377/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/08/biometric_security_scan_picture_id1297832671/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
   - title: "Police Release Findings From Independent Expert Review Of Facial Recognition Technology"
     excerpt: "An independent review has provided Police with detailed advice on the opportunities and risks associated with the use of Facial Recognition Technology (FRT). In responding to the review Police has decided it will not use live Facial Recognition technology without further detailed analysis,"

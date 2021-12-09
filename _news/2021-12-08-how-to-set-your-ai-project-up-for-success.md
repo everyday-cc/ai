@@ -3,8 +3,8 @@ category: news
 title: "How to Set Your AI Project Up for Success"
 excerpt: "To pick the right AI project, it’s essential to understand how AI works — what it’s good at and what it’s not. HBR spoke with Marco Casalaina, head of Salesforces"
 publishedDateTime: 2021-12-08T13:25:00Z
-originalUrl: "https://hbr.org/2021/12/how-to-set-your-ai-project-up-for-success"
-webUrl: "https://hbr.org/2021/12/how-to-set-your-ai-project-up-for-success"
+originalUrl: "https://hbr.org/2021/12/how-to-set-your-ai-project-up-for-success?ab=hero-subleft-2"
+webUrl: "https://hbr.org/2021/12/how-to-set-your-ai-project-up-for-success?ab=hero-subleft-2"
 ampWebUrl: "https://hbr.org/amp/2021/12/how-to-set-your-ai-project-up-for-success"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/how-to-set-your-ai-project-up-for-success"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 675
     isCached: true
 
-secured: "VrFAiWESkU5DvTmVbrW4JIvRw801wPX18wzqxJanK6FeS3rTEA1qyjmRKfSGdJb58JQ81K+g+rcg4CGgcFOn5nBGUUIw6S3+lur0sNO/B9s28EGFgtpamv0rIJT+uKAboOYEOmJo56spw2H1aJUdWMeLVYDmbJH49kNTFX0qqr+GH4ENX7re19OaqW4n2LEoNZSExekVbBXiYOBjZL8/RM9QHElIAIpKzoIexdzJ7bUAoNhXlkCoLiYeIbSmLu7i5Zn46PHEayAuYDTOGaeSO9WB7m2tbqa4yNoyfIA18aDRTJOAROgq3+NIUUGSepf/e1fi6gRLpxCW6+1EM+jqFD0Dyfp0kF9Ozzat6Dwu4Ck=;iUjfFQHpEsakb8z1ku3yMQ=="
+secured: "JeAnYSRHd8wveKRD6z2QK+2ut5do3U6v9+pqDoGS9e/my9c3lkrT5U845e399KL4Ombseyah0MgnxyRATGDe2v9tSMi+ExPakVF3lwJI9kxJRDspu1aF96PnRH+ZwOz5TguaqEiLKbYnw8nzYw9dh0T/1bIbaJX+fryh+howybHmog7CKq+DfemG+TMEmTeHMFG+seArG2VVg9hRjvqJroJ1lE6rGs72+5S4jKeP3IpWliysMPUo6vxXXFSt1CIpYB2bKBhbZaJZKE3Jpr+RmQbaytUJmBM+HPfql9mB+7PK7WroMFIqsYjJij1Osu35qSdyzRbE/1xT65SS7ipetieR0yldjac7mCYZZiz/1dI=;nplA8XzArDpy9BD9o0axPg=="
 ---
 

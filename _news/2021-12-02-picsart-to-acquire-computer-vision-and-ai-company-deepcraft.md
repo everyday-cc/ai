@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Picsart to Acquire Computer Vision and AI Company DeepCraft"
-excerpt: "Picsart, the world's leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an undisclosed sum."
-publishedDateTime: 2021-12-02T15:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm"
+excerpt: "As video editing surges on the creator platform, the boutique firm will help accelerate Picsart's video offering through AI and image processing Picsart, the world's"
+publishedDateTime: 2021-12-02T14:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft"
+ampWebUrl: "https://www.benzinga.com/amp/content/24408178"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24408178"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "ghLWWRfqGbstwo4vMv5f20G1A9l5SXVRMqeFb/13+R2GJPKB5P+Ncqku1IIOBVHWqJNyMIjdtf185AeTtfJ2PAoqhFlMaUn8HC+6BzeUAqPxFd+9zmFFSw7TFtlqSXr22LoqVOnEGBd2HXkAf1nFbPyoe5UKJElmJyI89YWNOiAF5OO7frHsCF0ZjTZwt1ftSd3Kr6Lx0M8836Io7qmPx3zaHtdR4NOnvI2e1YoLgKq7nlJr56znYS+rBIkRdL8ppatVU0h0hoyH86LgSRLeUgKvKRJIPs0XFCxpMjPOSBF5/PnY0exWUj2Ze1GlQwMRmUq6dSP+voz/TzuFvYBYFZZF02wZenMjR7slvxG2fHEf8ocvVDMz2JxqIXC+jjLkDkAsIvUudnsQK9PpKr2dJvAwVvfbM+ZEdw570A/sTVBp2hrODZnNJMylHEAsVfNcqA4PzSEbCinigHHBya95umunW6NycB0wY3BaIDKQgUyxMmBJL0hEbupyVKdfKcJ6rEss3BMld732raehqslSgg==;Xp3w3n9ndOnpB64PI8tPnQ=="
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
+
+secured: "s6Zf9O/h9BCyYdI9ffPXr5gbvJLtacaEjql02oGH+JVXt0tF99C/tVv17cEnKxVzVSDdAJVwjvWGsGaYlkNdmNfo8gpxKMQ9N+alhfA3potyD66g7+U7TLQovm9SwZ8Fp19ofdQu+ykuxi6lg5pdZSG7tnZsTMUcWVfI1MzAt8wgcLg0Aq94sC4kwuq4uzViCozeO1dJoqx9ni21WxFc4eFNNg+LvcKNgHtARwpE3QrR0bgLwyJrJsdIcuC+u53yyc4T/ZKE3SvoT7x/DHtpYOaOGFBzGNfRTHo6PcjHIzyoYlaPGZuW08LB/62WBHjrN88Qfp5DWT5LkLwaAS047hfYBuS70Yy71RfriOgtwP0=;M+uCi1ESFVYkOkCMHQDOWw=="
 ---
 

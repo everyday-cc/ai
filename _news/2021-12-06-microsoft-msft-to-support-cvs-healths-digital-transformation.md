@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-health
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Microsoft-owned Nuance could limit growth of newer AI voice entrants in healthcare"
+    excerpt: "AI voice-based clinical assistant startup Suki bagged $55 million in Series C funding, boosting its valuation to $400 million. The company will use the fresh capital to expand its health system partnerships and advance AI capabilities of its platform,"
+    publishedDateTime: 2021-12-09T05:56:00Z
+    webUrl: "https://www.emarketer.com/content/microsoft-owned-nuance-could-limit-growth-of-newer-ai-voice-entrants-healthcare"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 65
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/ba44032230f6072cc1de0f4b015701c1/default-image-share.png?im=FitAndFill,width=1200,height=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "CVS Health (CVS) New Alliance to Boost Digital Transformation"
     excerpt: "CVS Health's (CVS) collaboration with Microsoft will accelerate digital transformation and empower employees to provide more customized and affordable care."
     publishedDateTime: 2021-12-07T14:01:00Z

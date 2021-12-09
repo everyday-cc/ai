@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/Articles/Business/20211204/38674
 webUrl: "https://news.webindia123.com/news/Articles/Business/20211204/3867402.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -16,24 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Multiply an IVF-tech startup launches is its AI-based platform that will replace conventional processes in IVF clinics"
-    excerpt: "Multiply, a US-based startup has come up with an AI-based platform that is specially designed to enable simpler systems for fertility clinics, lesser hassles for doctors and an effortless experience f"
-    publishedDateTime: 2021-12-04T14:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/multiply-an-ivf-tech-startup-launches-is-its-ai-based-platform-that-will-replace-conventional-processes-in-ivf-clinics-121120400889_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/multiply-an-ivf-tech-startup-launches-is-its-ai-based-platform-that-will-replace-conventional-processes-in-ivf-clinics-121120400889_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/multiply-an-ivf-tech-startup-launches-is-its-ai-based-platform-that-will-replace-conventional-processes-in-ivf-clinics-121120400889_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 33
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/04/full/20211204192151.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "KnzR+vFMTH4v/FGkr/lNGE+1cOENBY30CBTG7T99PfeXsjXGaDMCzJcy7iOgjukwLEjQEUablmutvIFp0u2g3MKIYYo13WvfkFLm/K+EWpTpo8vyEhXxcS9u7vHNl8SNnvdFT7xicFqkW5oBxO04HiIY5dFqY3SUhIa7eaUEaI8pN8dIqpomT2uiHpMu/Wx6ihBUaKGx+olEenZo2inr//rRfmCbxYVzn7yuwXymdBsGerz9dIZrpfoZe8jX3STNuDIwR1I13s7vXhkFKI5OZXP3gvIQaYzC7CUq2z4fRBhAEhRPjSdh3BeTMBe/y+BwMsSntwnqQj/BL9OTXrRcr12+CYiN+QLbh2nJEzIKinM=;ckUnN4hP8NWYp8e8Gii6Dg=="
 ---

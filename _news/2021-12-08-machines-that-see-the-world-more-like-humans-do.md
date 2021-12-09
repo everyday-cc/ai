@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/probablistic-programming-machine-vision-
 webUrl: "https://news.mit.edu/2021/probablistic-programming-machine-vision-1208"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "Machine-learning system flags remedies that might do more harm than good"
+    excerpt: "Dead-end Discovery is a new learning model can identify high-risk treatments in urgent situations, and in some cases alert doctors when a patient is approaching a medical dead-end that will likely result in their death."
+    publishedDateTime: 2021-12-09T05:58:00Z
+    webUrl: "https://news.mit.edu/2021/machine-learning-treatments-1209"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 53
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202112/MIT-High-Risk-Treatments01-PRESS.jpg"
+        width: 1203
+        height: 802
+        isCached: true
 
 secured: "Je9deaG9nWY5eLDKqDp7qsJvOzeZkasNPzConPEz4HAKoy3CRYsVEMp5jAOpiiJyVPRAS3Qi1froJjVhfrxzueCjqLFhVeDRwOQkh7IRFdPjHRCy5JxKvKCBteP6HvPiM/FrLdy3O3mB5kOmvqXxit2ntgBpWiFUPnCtQpI5Au6EbcPJTZLvUelNow74kZBEAKstkiVRFE4gF66kPdKo9yb2KSpFrIwIyY4Syy4IUdDXHG01L2Hj1TJKeS25jRAh3tRZe9MAksEIDmpOM69LIItIiBiQx2ixcHG9dkEI+tM7DAxSFG2VxDzg3de0nt0PwS+GEy9ObMYroRQmRL5g8pfIuXF5Pc5PKAR9VwRdhp1e9zvTOB6YRMwVi4E7ammbYEfgENhCwnlhRBf8BioYCT+E6GiM6QKf327glKLiQ5+SyS6PlsNm4g391O5RdW7R2YxZN+22/YG/qeJTsjQSJAHuTlMTjZPbx1Z0Wf5fKGZ/IQUInVfIFFJfHFOGi6AXGxNR/33f1gG8lSuTbw0DrA==;bUDnsJY1F3YNBCYsveR1GQ=="
 ---
