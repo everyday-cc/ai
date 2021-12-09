@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/technology/machine-learning-artificial-in
 webUrl: "https://www.bbntimes.com/technology/machine-learning-artificial-intelligence-and-blockchain-are-revolutionizing-the-legal-industry?s=09"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Blockchain indexing firm The Graph awards $60M grant to Semiotic AI"
+    excerpt: "The Graph, an indexing and querying layer for Web3, has awarded a grant worth $60 million to California-based Semiotic AI."
+    publishedDateTime: 2021-12-09T18:28:00Z
+    webUrl: "https://venturebeat.com/2021/12/09/blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/12/09/blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How Blockchain And AI Will Affect Businesses In The Next 10 Years"
     excerpt: "Two disruptive technologies are gaining more and more prominence that will shape the course of people’s lives and culture over the next ten years: blockchain and artificial intelligence (AI). Both are experiencing expanded use and innovation,"
     publishedDateTime: 2021-12-06T11:02:00Z

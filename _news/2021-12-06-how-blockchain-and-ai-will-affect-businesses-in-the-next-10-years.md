@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Blockchain indexing firm The Graph awards $60M grant to Semiotic AI"
+    excerpt: "The Graph, an indexing and querying layer for Web3, has awarded a grant worth $60 million to California-based Semiotic AI."
+    publishedDateTime: 2021-12-09T18:28:00Z
+    webUrl: "https://venturebeat.com/2021/12/09/blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/12/09/blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Machine Learning, Artificial Intelligence and Blockchain are Revolutionizing the Legal Industry"
     excerpt: "Blockchain, machine learning, and artificial intelligence are revolutionizing the legal industry. Digital transformation in the legal industry has been slow, but as benefits are becoming more obvious,"
     publishedDateTime: 2021-12-06T21:29:00Z

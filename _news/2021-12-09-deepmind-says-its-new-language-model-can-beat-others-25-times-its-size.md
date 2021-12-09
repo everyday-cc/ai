@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/12/08/1041557/deepmind-languag
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/"
 type: article
 quality: 159
-heat: 190
+heat: 200
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DeepMind neural networks open new window to understanding electron interactions"
+    excerpt: "Neural networks can be used to build a more accurate map of the density and interaction between electrons than was previously attainable, new research from DeepMind shows. The result is a step towards enabling scientists to better understand the interactions between electrons,"
+    publishedDateTime: 2021-12-09T19:14:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936923"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 32
 
 secured: "x81ttoWW2/l5jerZnijlijGjRhwp+xHwcw9snxtF33kwuGKrRx65GmFU4Shtq3PAy5kvcjlNPxmszNzaX8ZVEMeJ6QbwRbHCiKSBttxb/C1qwVFMF8Nw13+z3mFevXYjamlh546E5AEES5ZmFgKOex0IeoJVY/Hvd1UodAGbO5vQ8Obv5YbAoQJybaK9NsDjFbY6+WbDsLfaWWDl9juIKy0DQWz4d/XL5sUECbpJ6lrmyf+L4SJK51K/vhwPruAk2SOvpY0DY989xRHFBDBm2aFREdowKxZ6dHv5yavJQnabgqxWHOkQPCuvSsOREwdP+8BvqkWeyowZwHBNviH0vPWQxfx1rlNjf22Ma9uNxCFlssWjMhrWROqVEM5wqxSXy5GQI3WStvdablzFH4WdFqjHwqKTxxE5ycFRjndTVKB7xDZ1KxcO7A4CqhfcKf1UhKPF67qz5IdQAPzXRjVQPqZF/COONFRp6zxNGJvrVc/BVd/L7umacY7Ao9+hb7EmJxijbmq2uxslrL7TxKMLEVASfITqq1KRWJymJfuc8Wo=;cgXaYHm1QaJNwxdjWTPEHg=="
 ---

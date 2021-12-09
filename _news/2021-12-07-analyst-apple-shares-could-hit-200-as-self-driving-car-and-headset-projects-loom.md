@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple Loses Three Key Engineers in Self-Driving Car Project"
+    excerpt: "Apple has reportedly has lost a number of key engineers in its self-driving car project to a pair of Silicon Valley air taxi companies in recent weeks."
+    publishedDateTime: 2021-12-09T19:10:00Z
+    webUrl: "https://www.iphoneincanada.ca/news/apple-engineers-car/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 24
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/archer-640x427.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "nACt+kbAQkVOH8u2RosU3g5gEvQdnQQ36v0nelu7Hh7h0RsToBjPZl8FsKifJj5lmfm4OP+9W4XG/bngNzgqskeNwRmxAVb+blwpyY/SPK0EwhDk9cEAN8nmAlwjlipnJzYbN/YX80r2B1T8MwRulHmdtmG2wpDfDlMWa9269LyBUB0GmbWVe9nE/aCS89GLJ0RdW1XoghHShHLRllWI2XpG5qaP7cT5rMzrRTrPEeK/oAQ/X3zzwZWp5yjhw42t+1EoyrqMSca0YzvAOYD+GTEnVEkTnzMUseLsx+2cBHkAooD3IheEPpmgPUZKxixb288FaGdYEw+70GRS1gJXlS1tNpHjZoPbICsHN/XJCC9AlHgzZofcQ6F02dBwZfMn0TxqaoQQy+FziozMQJ15Ipr0PIr2j7qKWeRPqu1hAbjtfkGgYaNC0KkLaJrUTjoD7SMZfCSVucek/AKvEVxkjJ8hhWyrKT2A/h0u7mcNRdF/UCyIrKk1JQdsFkjUZTYzb3zKVWJP0FOowHkGuRe37Q==;dT23s//h1EZiGv/2pJEXKg=="
 ---

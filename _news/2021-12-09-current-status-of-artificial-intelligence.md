@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-09T14:53:00Z
 originalUrl: "https://www.linkedin.com/pulse/current-status-artificial-intelligence-stefan-pechardscheck"
 webUrl: "https://www.linkedin.com/pulse/current-status-artificial-intelligence-stefan-pechardscheck"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEbPk5daAVfxg/article-cover_image-shrink_720_1280/0/1639061348860?e=1644451200&v=beta&t=s7OmyfEKCBaGXs5ums1CLvEflp4UxA2CHNliclZzB6M"
@@ -29,50 +30,29 @@ images:
     isCached: true
 
 related:
-  - title: "The power of AI can be unleashed with a focus on ethics"
-    excerpt: "An EY survey reveals the public’s concerns around the growing use of artificial intelligence – but also the opportunities for organisations that take the right ethical approach."
-    publishedDateTime: 2021-12-09T06:00:00Z
-    webUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics"
-    ampWebUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
+  - title: "Voice AI Startup Skit announces the appointment of new members"
+    excerpt: "Voice AI Startup Skit announces the appointment of new members - Skit, the voice AI startup has announced the appointment of 2 new members, Vijit Banthia as Vice"
+    publishedDateTime: 2021-12-08T09:41:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/voice-ai-startup-skit-announces-the-appointment-of-new-members-nid-217545-cid-19.html"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 74
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
     images:
-      - url: "https://www.computerweekly.com/visuals/German/article/ethics-morals-3-adobe.jpg"
-        width: 1200
-        height: 400
+      - url: "https://www.siliconindia.com/news/newsimages/9OQ4o5sr.jpg"
+        width: 570
+        height: 367
         isCached: true
-  - title: "Global Agreement Defines The Ethics of Artificial Intelligence"
-    excerpt: "A historic agreement defines the common values and principles needed to ensure the healthy development of Artificial Intelligence (AI). All the member states of the UN Educational, Scientific and Cultural Organization ( UNESCO) have signed the agreement."
-    publishedDateTime: 2021-12-06T01:07:00Z
-    webUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916-global-agreement-defines-the-ethics-of-artificial-intelligence"
+  - title: "Spot AI Gives Away Free, AI-Powered, NDAA-Compliant Cameras"
+    excerpt: "Video intelligence innovator Spot AI announced it will give free AI-powered, NDAA-compliant cameras to any U.S. business. Due to security concerns, Section 889 of the NDAA for FY 2019 bans the U.S. government's use of covered telecommunications equipment or services made by specified Chinese manufacturers."
+    publishedDateTime: 2021-12-09T14:43:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-spot-ai-gives-away-free-ai-powered-ndaa-/2021/12/09/9508560.htm"
     type: article
     provider:
-      name: IDN-InDepthNews
-      domain: indepthnews.info
-    quality: 56
-    images:
-      - url: "https://www.indepthnews.info/images/artificial_intelligence.jpg"
-        width: 750
-        height: 337
-        isCached: true
-  - title: "Saving Lives With Artificial Intelligence"
-    excerpt: "A new technology developed at Tel Aviv University will make it possible, using artificial intelligence, to identify patients who are at risk of serious"
-    publishedDateTime: 2021-12-07T11:59:00Z
-    webUrl: "https://hamodia.com/2021/12/07/saving-lives-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Hamodia
-      domain: hamodia.com
-    quality: 37
-    images:
-      - url: "https://images.hamodia.com/hamod-uploads/2021/12/07050423/7f5fe743e5056f0e35e13f7dc7924882.jpg"
-        width: 580
-        height: 330
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "hve+60IAt7CJegPcD1Z0ir9UfYPTMGu0FprL5tj8S9DC9QpT/H10p5yIKh0gKRaRT47qgjc6ZFLri2sMDWSaNrgmVZT/S17D6FRetKmnaHVkfcEf51NE0gcoC0yFxMCNTlgabbOfzp6HJfiOkuVX0mfRyiDu1Cqq35EU4yUWolVHBJiGx7ffWMfa2sw2O72/zD+CFhnvPhQ9HiTMpqXWkmF1KVRYlH4MS4qxx1TsXnM0PooN6TdNF/L66pgjASe5G6TClmpFYdIG90QOKJA1/AW15spGsCu5HNI2PimnXeDQRIm2dD4nXj1VLlsjeiCu9JXsu5DpWHqN0Dd9DL9kVwD2w07TZE1cDzXLDTc6LBo=;eEk9d+ee01ni5yoL6Oq0/g=="
 ---

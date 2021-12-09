@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleas
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Computer Weekly
@@ -27,33 +27,83 @@ images:
     isCached: true
 
 related:
-  - title: "Global Agreement Defines The Ethics of Artificial Intelligence"
-    excerpt: "A historic agreement defines the common values and principles needed to ensure the healthy development of Artificial Intelligence (AI). All the member states of the UN Educational, Scientific and Cultural Organization ( UNESCO) have signed the agreement."
-    publishedDateTime: 2021-12-06T01:07:00Z
-    webUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916-global-agreement-defines-the-ethics-of-artificial-intelligence"
+  - title: "Simulating matter on the quantum scale with AI"
+    excerpt: "Using neural networks to model electron interactions in molecules and materials, advancing the state-of-the-art towards the long-standing challenge of the density functional in quantum chemistry"
+    publishedDateTime: 2021-12-09T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI"
     type: article
     provider:
-      name: IDN-InDepthNews
-      domain: indepthnews.info
-    quality: 56
+      name: DeepMind
+      domain: deepmind.com
+    quality: 89
     images:
-      - url: "https://www.indepthnews.info/images/artificial_intelligence.jpg"
-        width: 750
-        height: 337
+      - url: "https://lh3.googleusercontent.com/sbg0s5HRyjgaED1YsDARdTCWIS4nO0lR2kaC1j0016qpQa6rM7G26aIUSOWfgZATVsh0jRZ1v3Jjfb8Yd4nzX-0OYrHSK1u0NJO5b51kCqPlGuAGdQ"
+        width: 512
+        height: 288
         isCached: true
-  - title: "Current Status of Artificial Intelligence"
-    excerpt: "AI (Artificial Intelligence) is used in increasingly more areas of our lives, as both companies and people rely on its recommendations. Although this year has been just as challenging for the worldpopulation,"
-    publishedDateTime: 2021-12-09T14:53:00Z
-    webUrl: "https://www.linkedin.com/pulse/current-status-artificial-intelligence-stefan-pechardscheck"
+  - title: "AI is making better therapists"
+    excerpt: "Researchers are using AI to examine the language used by therapists. It could lead to more people getting better, and staying better."
+    publishedDateTime: 2021-12-06T10:12:00Z
+    webUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/"
+    ampWebUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEbPk5daAVfxg/article-cover_image-shrink_720_1280/0/1639061348860?e=1644451200&v=beta&t=s7OmyfEKCBaGXs5ums1CLvEflp4UxA2CHNliclZzB6M"
-        width: 1080
-        height: 720
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
+  - title: "Ancient information combined with Artificial Intelligence aimed at creating wealth and well-being"
+    excerpt: "The “tea, spices and wellness” project led by Ioncure Tech Pvt Ltd, aims to connect herb cultivators in remote tribal areas with urban consumers, building a sustainable supply chain using AI"
+    publishedDateTime: 2021-12-08T16:30:00Z
+    webUrl: "https://www.nationalheraldindia.com/science-tech/ancient-information-combined-with-artificial-intelligence-aimed-at-creating-wealth-and-well-being"
+    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/science-tech/ancient-information-combined-with-artificial-intelligence-aimed-at-creating-wealth-and-well-being"
+    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-tech/ancient-information-combined-with-artificial-intelligence-aimed-at-creating-wealth-and-well-being"
+    type: article
+    provider:
+      name: National Herald
+      domain: nationalheraldindia.com
+    quality: 61
+    images:
+      - url: "https://gumlet.assettype.com/nationalherald%2F2021-08%2F7861b76f-0b7c-41ce-ab55-bdae2c7f09ae%2F19284592_403.jpg?rect=0%2C18%2C940%2C494&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 940
+        height: 494
+        isCached: true
+  - title: "Simulating matter on the nanoscale with AI"
+    excerpt: "In a paper published today in the scientific journal Science, DeepMind demonstrates how neural networks can be used to describe electron interactions in chemical systems more accurately than existing methods."
+    publishedDateTime: 2021-12-09T19:00:00Z
+    webUrl: "https://phys.org/news/2021-12-simulating-nanoscale-ai.html"
+    ampWebUrl: "https://phys.org/news/2021-12-simulating-nanoscale-ai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-simulating-nanoscale-ai.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/nanotechnology-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Evaluating Chronic Disease Progression With Artificial Intelligence"
+    excerpt: "With artificial intelligence, University of Buffalo researchers have developed a novel system that models chronic disease progression as patients age. The AI model examines metabolic and cardiovascular biomarkers to determine the health status and disease risks across a patient’s lifespan."
+    publishedDateTime: 2021-12-09T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/evaluating-chronic-disease-progression-with-artificial-intelligence"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 57
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
         isCached: true
   - title: "Saving Lives With Artificial Intelligence"
     excerpt: "A new technology developed at Tel Aviv University will make it possible, using artificial intelligence, to identify patients who are at risk of serious"
@@ -69,6 +119,15 @@ related:
         width: 580
         height: 330
         isCached: true
+  - title: "DeepMind simulates matter on the nanoscale with AI"
+    excerpt: "In a paper published by Science, DeepMind demonstrates how neural networks can improve approximation of the Density Functional (a method used to describe electron interactions in chemical systems). This illustrates deep learning’s promise in accurately simulating matter at the quantum mechanical level."
+    publishedDateTime: 2021-12-09T19:34:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936901"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
 
 secured: "IogKmN/g1l4fltPAPk3xYzOyxPpddE/zGSmeyz7juQFN2HkLmk1w5ch1yWyYQceZoJ5/qoxUPBkpepIhilTQULioR4b/C6Ksb3NWjVeLW8dX7+YU5ov0ewCHhfJBCRz8+Y2iWLpef+oFZqCgMvLN50zjZyhXHvWRm6xRGeYqRAnwaeY5PAfGZK69l4I2R+/3vcDgiRW0FZzfTUg6GlHWECG1tUW51LH0qfgHZ1aR0aRewmi1ZaiG5Z+UP/gmSjUb++ymTPbmF/x0vba2Fsik/+BN2wEpbIpFQiTYgtLssZ21+l8ivyVfAPlHyOJxa2egw6VC5Zej1Ji66fbMx5Xt8x0Bdbf2WqkmGM5+J1ElfcUwwvrW1sp1Pz/NcKB+eG9uPE/1DlBeqvCWnrEXgKDZDnOtTgiqVz4s4MuS7YIqsZphyuV5OAbFgGIUxKfYQclJZzLWvZXlm67J+13QgmqcZXM8UfxgGLoObpcTXMM/a1kNDTTNMtt/yahX64H7s9bKaVMQvUeNL7ayKcJLCxbT8w==;n3WCBKOi/4L8MpSFhNa/hQ=="
 ---

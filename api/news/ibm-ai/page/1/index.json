@@ -160,6 +160,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-04-6-best-identity-theft-protection-services-of-december-2021.md",
+      "title": "6 Best Identity Theft Protection Services of December 2021",
+      "excerpt": "With Total and Ultra plans Identity theft protection services can provide the help you need if your data has been compromised. These services monitor your personal information, credit files and the web,",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-december-2021/article_db5993b5-164d-53f0-945c-a5527693b116.html",
+      "originalUrl": "https://omaha.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-december-2021/article_db5993b5-164d-53f0-945c-a5527693b116.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/d/6b/d6bc2317-cd00-5df3-ad8b-8cee75b92601/61aa718aea22b.image.jpg?crop=1762%2C927%2C0%2C0&resize=1200%2C631&order=crop%2Cresize",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-artificial-intelligence-based-spine-modeling-now-available.md",
       "title": "Artificial Intelligence Based Spine Modeling Now Available",
       "excerpt": "Based on artificial intelligence (AI) algorithms from IBM’s Watson Health, Ricoh USA, the U.S. arm of the Japanese digital services and information company, has created a remarkable, must-be-seen-to-be-believed,",
@@ -1292,49 +1335,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-6-best-identity-theft-protection-services-of-november-2021.md",
-      "title": "6 Best Identity Theft Protection Services of November 2021",
-      "excerpt": "Identity Guard uses artificial intelligence to identify possible fraud earlier and send notifications faster. Their scanning platform is powered by IBM Watson, a supercomputer that can analyze and ...",
-      "sourceUrl": null,
-      "webUrl": "https://helenair.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-november-2021/article_dc231137-f218-59d6-894e-b1033bfc4582.html",
-      "originalUrl": "https://helenair.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-november-2021/article_dc231137-f218-59d6-894e-b1033bfc4582.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/helenair.com/content/tncms/assets/v3/editorial/d/fe/dfe2b592-ca34-5970-ba71-af6032d3352f/61898c69293d4.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-08T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent Record",
-        "domain": "helenair.com",
         "images": null,
         "publishers": null,
         "authors": null

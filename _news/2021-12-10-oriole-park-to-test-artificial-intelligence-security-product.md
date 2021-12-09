@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Oriole Park to test artificial intelligence security product"
-excerpt: "Oriole Park at Camden Yards will test a new security technology during the upcoming baseball season that uses 3D imaging and artificial intelligence to detect concealed weapons."
-publishedDateTime: 2021-12-09T17:49:00Z
-originalUrl: "https://www.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
-webUrl: "https://www.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
-ampWebUrl: "https://amp.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
+excerpt: "Oriole Park at Camden Yards will test a new security technology during the upcoming baseball season that uses 3D imaging and artificial intelligence to detect concealed weapons. The Maryland Stadium Authority announced Tuesday the ballpark will try out a walk-through portal called Hexwave that can screen 1,"
+publishedDateTime: 2021-12-09T20:51:00Z
+originalUrl: "https://www.chron.com/sports/article/Oriole-Park-to-test-artificial-intelligence-16688241.php"
+webUrl: "https://www.chron.com/sports/article/Oriole-Park-to-test-artificial-intelligence-16688241.php"
+ampWebUrl: "https://www.chron.com/sports/amp/Oriole-Park-to-test-artificial-intelligence-16688241.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/sports/amp/Oriole-Park-to-test-artificial-intelligence-16688241.php"
 type: article
 quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI
   - AI in Security
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2020/03/26/virus_outbreak_opening_day_photo_gallery_47677_c0-195-4681-2925_s1200x700.jpg?d5d2a7e657e1b5cb3f3095d76f0781371316f285"
-    width: 1200
-    height: 700
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -51,6 +51,6 @@ related:
       domain: publicnow.com
     quality: 19
 
-secured: "05pH+gj8D/JcgmJTF3zt+CPc840Yc5RslQShH5iH3WoiV4ISLyqXdFzxa2ZE1bIMUawxb5LzFvk/n9FIFCrNCAG42avNvauoL5PdkUh/ED366dQKdWX4iOGs+PSngNH45nkOEHAgoUJO46U6MMw7ZCGGYUlDJ8UeKI1pgCmzysgXO+fDlEJWXj7QTL2fpjl/Miukf36C7+ZqATMiPbIf+0fsuM3rSuId5dTIAeFo+B7rSvpytrC3Scwg9L6qq1X71qcXha/Mj5ltd1K0T2vvNXQ1zZSJHuYYVn11HZJssj64gnh1bF/rfqVVToBynXsDnok0tiZ9PezepgebE9sCkfs7YJkPfy4qijOugMwG9e0=;oTut10clcsMVkxrlWPDB9g=="
+secured: "a44GOB4DL64a29S7t6addyt9+eD3hEbMzsvhJjYNqGu8vIZTYNsgkRFYXlnEeXfXNJLt3hi3LqSE32Dhzv5TNQ4Gkeg6D02FTzsjzlp7r8ZFWqWgrhj2xC45sWkwrayqCIDHCzNUWQf8vFuRETDDzpO3LBKrU/J3U6eou0UH3ua8AcmG/0qwWRwAqBNaUUMlYWpzcr/oVwT8Y2d5Ej9lvYXl5/pw/lvD6bS1K+d00hQbZGTHHiqg4RtoIv+vCMScWELvBQweJNxrBSgrrN/8AulFx4VimZbzvgDpDwoAdA63eG4AI+BUXUmFszvStPcdp6WgfblXOrkdwaBP/yK3s/fvLGscaES4c0Qis9o05Hk=;Gf7DEIQMWzuDsgfwo5S7Cw=="
 ---
 

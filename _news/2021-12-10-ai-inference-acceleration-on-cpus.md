@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/"
 ampWebUrl: "https://venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1223790172.jpg?w=1200&strip=all"
@@ -45,6 +46,6 @@ related:
         height: 720
         isCached: true
 
-secured: "22OXC2XzRrmHcftA0Yx/6mFAKsv8paCc5+JxwTLAm5SlVgbK+uihYECrxSG35l4fR3X9nHA9Tb91FVNXWn6RS94OPNBFsmua3AexSugfNaCas3Xu2VjO3ixoJwquIi+yaqQWqUUgGSbVhsd+C02FlArFl7xjG+xMYihNIHwuD8qhA7CCq2PR9mk+nO6nlmXpgFlo/xLCuig3tt6zC1GVmnbCdqgyJn3nct9EnFkcYn5loF5kYhydJ0WmRVBE/RaIcyxVc5ad/XTSpVbDgqXBKhFeu74jZ6JZWsJ2s5mI0eNd9t0vIjPlZTMx4L0oxCt79B/x6se4xX3WhquueiXp+eduIFZfFaohHiXJGAsdBvk=;z7FS70rhNanEJgh/KvpH5Q=="
+secured: "Rna4EQDK8EY4VOiXiDe70poWJZlFI3VkLQVX22MNkXrJi3HnU7NpvNCcpZjz+SORajy0qZXa0dHGHuRWNg1tDA5GwBWXJVD8CXkdgRUgXSrKaDuwXMpmv3FM7yNkwHCtfWvGI9MT9pVGRT/JlEIAuQt58/yYXtvYYqR8pSsPBScT/tC1nMQ02984uUV2UdgQad8902BDAF+1oDTEHn/9/fgnMXil6iWUFplUAauwjxwMHtqKgqdQs2Wo+CsekJZY3K560mUwd6zmEV8LEETB/hBS33ZmJkKp6YPIbiXixAL9AR6US6jxtiux1dhfEs63sskmlwagzxXCLL+XuWneB+NAKZUKqd13l45JfPLMNCRb9gmqMjK212FCwgeSmcxozrkq10gSeN0xalDst+9lFf2zNXQNxZSpOkefo+hy558peYei/UU/RKaCznc5BnhEox1N8b465j+VYv4fUGVMhnMfSTg+/ioghysZ16Ghjzz0kkerI1Ge2UfvzPL5x7LOYSWGWvCUicL9Cmb5SBydRw==;fLSMvLoQPH1AByI+X1/uxg=="
 ---
 

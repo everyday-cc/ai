@@ -30,20 +30,20 @@ images:
 
 related:
   - title: "Oriole Park to test artificial intelligence security product"
-    excerpt: "Oriole Park at Camden Yards will test a new security technology during the upcoming baseball season that uses 3D imaging and artificial intelligence to detect concealed weapons."
-    publishedDateTime: 2021-12-09T17:49:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
+    excerpt: "Oriole Park at Camden Yards will test a new security technology during the upcoming baseball season that uses 3D imaging and artificial intelligence to detect concealed weapons. The Maryland Stadium Authority announced Tuesday the ballpark will try out a walk-through portal called Hexwave that can screen 1,"
+    publishedDateTime: 2021-12-09T20:51:00Z
+    webUrl: "https://www.chron.com/sports/article/Oriole-Park-to-test-artificial-intelligence-16688241.php"
+    ampWebUrl: "https://www.chron.com/sports/amp/Oriole-Park-to-test-artificial-intelligence-16688241.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/sports/amp/Oriole-Park-to-test-artificial-intelligence-16688241.php"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 74
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/03/26/virus_outbreak_opening_day_photo_gallery_47677_c0-195-4681-2925_s1200x700.jpg?d5d2a7e657e1b5cb3f3095d76f0781371316f285"
-        width: 1200
-        height: 700
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Building AI responsibly from research to practice"
     excerpt: "The speed at which artificial intelligence (AI) technologies have improved in competency and moved from the lab into mainstream applications has surprised even the most seasoned AI experts. Despite the progress,"

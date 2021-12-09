@@ -9,7 +9,7 @@ ampWebUrl: "https://windowsreport.com/facial-recognition-not-working-windows-11/
 cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/facial-recognition-not-working-windows-11/?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/23/12/52/21801624/3/ratio3x2_400.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Facial Recognition Tech Perpetuates Racial Bias. So Why Are We Still Using It?"
+    excerpt: "This unregulated technology has served to enhance discriminatory practices by law enforcement and further endanger the lives of communities of color."
+    publishedDateTime: 2021-12-09T19:39:00Z
+    webUrl: "https://www.yesmagazine.org/opinion/2021/12/09/facial-recognition-software-racial-bias"
+    type: article
+    provider:
+      name: YES! Magazine
+      domain: yesmagazine.org
+    quality: 35
+    images:
+      - url: "https://www.yesmagazine.org/wp-content/uploads/2021/12/Facial-Recognition_1400x840.jpg"
+        width: 1400
+        height: 840
         isCached: true
 
 secured: "I52P8JqSfG81rTKTFLevFHXzsFDX9IqRRn6ojr07fGWXyFJ8s/jY2QS7hKP/S75zfslmP1kgAh/63WW0lONmKyIvGkhVoiZs1rnmZyCv9fH++O6kOvywiJ7N6Byp4X1bnxfhW+/dkPhl3KoDsq6kCbtFccEeZJavClZKlbi8N2TEwTzlo8/emmva/a6c0NqFe94R9hNj7EahKh7VE3RkfX4mqviB+9ZsxUq4HNXQd1C92j9ArKWCT2kAyF6sr1CGHQBHo1/mzHqWQh5YK26fV0/a2dgClWBwVbm/La7Hq1JUJK0MqW38i28uks+oU2e6320X8ESfmPgjSbzGLqHV8PPpzX0U1/MxIuX8ynRDGF7CmR/AIp+gPjjZN2mDqoefvYuiQZcTG4PL/Hbkrh2ef4yCnPlGGf188s+9VqmB4o/zvzID3E0Q9qRYYrNXbLoqXa08Cre2fFdPiOurhmqyMyCF4xniemcxgIgLkMRPfTDY6WmaU4UQRXsuZ9ium7o6l6pgiLBvOt0E5KU2U8PZbQ==;v086oDNznnFbuCAr4+Vndw=="

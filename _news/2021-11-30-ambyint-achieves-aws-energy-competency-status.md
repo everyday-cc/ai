@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Ambyint Achieves AWS Energy Competency Status"
-excerpt: "Ambyint artificial lift optimization technologies help accelerate customers' digital transformations Ambyint, a production and artificial lift optimization solutions"
-publishedDateTime: 2021-11-30T13:37:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status"
-webUrl: "https://www.benzinga.com/pressreleases/21/11/b24358439/ambyint-achieves-aws-energy-competency-status"
-ampWebUrl: "https://www.benzinga.com/amp/content/24358439"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24358439"
+excerpt: "Ambyint, a production and artificial lift optimization solutions provider, today announced that it has achieved Amazon Web Services (AWS) Energy Competency status. This designation recognizes that Ambyint has demonstrated deep expertise and technical proficiency helping customers leverage AWS cloud technology to transform complex systems and provides energy customers the ability to more easily select skilled partners to accelerate their digital transition to a sustainable energy future with confidence."
+publishedDateTime: 2021-11-30T13:38:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/ambyint-achieves-aws-energy-competency-status/article_8b248470-6b63-5a02-971b-53ce3369f4ec.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "S6b2B8wEUwnI3tJw0dc+0y4ij4M00c353KiHvYEXA3Z533Kpvr+bUcrzi5EZusBWy8Mwtg/UG/SW1jyv9uzPFi4DH/Mu09cgYt+Bv3erFhMFFg24vTdreBerHXnVVcZvIhzr9Z8e/Jj6RU/2n434mj1auAYDkA06GAb1KZPqNVRucG/bxazIP2Yxr2fSyec93xPYdkdo7+jSvWCTrEObA4hi3GM9sYgjycwkd8vTjza5WL+VAbcqdX1w5ku8QZsZQn9bnsEQ6zHzh7wlmYczP+R7ikFPBUkzP7BDgP7L2y3gePLSUjtqrgV3ZeVLkU32Oc3QarCK89FJeTJq7uTZPuNfi1rpkUhPoDbikmViTlI=;sIQwPAp7Nel1v8qgjLg+VA=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
+    width: 350
+    height: 456
+    isCached: true
+
+secured: "ng3lU2T2tapTsbO/IkjVP3Wuwfe5noRZjEXxDsHGe0nzghlddmDUXNG7E59+atfd4vW90SiOuSVhu6lZdY+fVRGZ+WWNKzoNd3FSEUaCA8pQ1+hf3DN9qEajLQhWAgy71FwldUalkdBzoFh1Vp+T7xgTTmiOOvyszyR81wUmwHf4SAD2v5zUU5RlCI6adCLuU/MCgxbRmMbZdtE2ZUh5Mqb7lS5g882JhqtADiRg6x8J/JROOqBeJX/95nuGqtKVKsY8pqUtAVX1DYLedHr5sBh7Qs+EmhOcWavfTcz1Jgp1CVHYNNeZJh6ponPbiYpS5L4CvzlwSltrrz1DCddLtisl7iDXlegBeS7kUqGtduM=;vvYnr30qqvUv2+XZsVyjJw=="
 ---
 

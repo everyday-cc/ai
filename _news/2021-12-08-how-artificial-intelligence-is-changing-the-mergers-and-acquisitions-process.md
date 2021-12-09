@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 623
         isCached: true
-  - title: "A Glimpse Into How AI Is Modernizing Data for the Financial Services Industry"
-    excerpt: "Organizations in the financial services sector face a unique set of challenges as they consider how to wrangle and process the vast amount of data they collect. During our Financial Services Summit, I was lucky enough to speak to Brian Anthony,"
-    publishedDateTime: 2021-12-07T08:19:00Z
-    webUrl: "https://www.publicnow.com/view/DF3F2E40855C962ADBF36E6D69E43A5D81B933D2"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 16
   - title: "Conversational Artificial Intelligence and Voice Cloning Market 2021-2026: Call Center Market is Rapidly Evolving to become an AI-enabled Customer Con"
     excerpt: "The \"Conversational Artificial Intelligence and Voice Cloning Market: Next Generation Enterprise Solutions by Use Case, Application, and Industry Verticals 2021 - 2026\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-12-06T09:00:00Z

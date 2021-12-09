@@ -50,6 +50,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "How a Covid Pivot (and a Dumpling Machine) Changed a Restaurant Forever"
+    excerpt: "As it did for all restaurants, Covid came to take Li's business plans away. Both her parents are doctors, which led her \"to take really fast action, [and] closed the restaurant prior to the order to do so,"
+    publishedDateTime: 2021-12-09T15:59:00Z
+    webUrl: "https://www.inc.com/steven-i-weiss/mei-mei-irene-li-dumplings-covid-pivot.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 24
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/familymeal_489383_aoqgsu.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "Vrmoi+A/6ln4qdt5aUCjtEeeQ/HYP6kxpOpshGFzexj9LjPA3XMC4/kBQIdudh4KcbrDN+PUdWA6u8/cV69dlraFKxTxcmsvFjy34UjL7OyUvsKBx560sA5D19Ij81FJsdqdPhCaRrCatv5yLycDBNdNS/x5IfkLjsBf7KGjpC1lYRzbcpzI01/JDfgSa2dZoq7Csa6UOfwpBMQluGUOFfW/bZAwQUl99djUK0r41Qfv5Caj2ZblDA6h0VTZxBOwdyAUM7RxtiB7OmuENecdyFOcKGQ5NPc5XZYtUtZSXdIidbr2Y/yULCjfsn8BFlERfU/vosmcb/beJVcaN34lqYGustXzI4yh6X/Mg6PzuTF3h39UW4ECNQwJpqVcNBygRS4i6o27Hyk7PcPNl4RQY0aiPCGbbhubcParlggNEscD3I/zq2VGhzihymHPFnbnrdtHV1s9RHpjdscqjIzqEMTMJsJo1a1r6K8apvU/CEdoEp060kWhP3zofe5x8F/4oKxmXinZxu81u/G1M3bnQQ==;2TkO2jUvRHo54sAPVVDwyg=="
 ---

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Moderna Launches AI Academy in Partnership with Carnegie Mellon University"
-excerpt: "Strategic partnership to deliver AI capabilities, skills, and education to all Moderna employees, as part of a broader investment in a digital-first cultureCAMBRIDGE, Mass.--(BUSINESS WIRE)--Moderna,"
-publishedDateTime: 2021-12-09T16:00:00Z
-originalUrl: "https://www.pharmiweb.com/press-release/2021-12-09/moderna-launches-ai-academy-in-partnership-with-carnegie-mellon-university"
-webUrl: "https://www.pharmiweb.com/press-release/2021-12-09/moderna-launches-ai-academy-in-partnership-with-carnegie-mellon-university"
+excerpt: "Moderna, Inc., a biotechnology company pioneering messenger RNA (mRNA) therapeutics and vaccines, today announced the launch of its Artificial Intelligence (AI) Academy, an innovative initiative that will bring to life an immersive"
+publishedDateTime: 2021-12-09T20:13:00Z
+originalUrl: "https://www.lelezard.com/en/news-20149261.html"
+webUrl: "https://www.lelezard.com/en/news-20149261.html"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: PharmiWeb
-  domain: pharmiweb.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-    width: 1200
-    height: 448
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "2nUvHgu0jV1hJ2+2mSMqTe9uKCTqa4HGehVSip8c58xSL58Ctud+JMaBrNQkMQJ43lny4vINQ5sYkxyCJVH0WDBYoHQdnBHAx3prnHC2hZkB1sTTrv5BxoRBo7dZwSKaxtAxZNBAEeebfM6jS0tYzDJBiL7Ugh4H9CMnNDeoOFfsUzphfROyhQmR+dH/qXpSyA8BTfQ7vyMTmkk7gH31KnpsjSMLkeNscZr9SjOerpF6RQrs8IdUdI+n3BcuPhG2Nk7S9WDnNEMiC6FI9i0zote4ARrxobwByG9ak6/b2ucqHcUvHL+PkcO+5nsnJLfNMTnFIrb77RVxA1IttmE1mDvDO64pYVnAyGAdg9hdY5g=;Oo6Si9j7YXORsud6xh8T7g=="
+secured: "ZbxIaclMAjMN59LAPZroEWEIZYp3520mzzL7l4flSUs1u1Uj6JghsgJcc3gZLqKDe+c5E0WEKT7ZmDsOm7P+1n/RRXHEz79x9MeZgTcseFDco2JWIpizqJthSBIj6IBW9Qfllt4A2abdF2SyrHdJqH4kP2cgeHVTUwDyXNfzpwesZTMRAH98P0duWlXQ4gp4snNrHa4ebV2Cn8XZrgMwutPoHMRe7hFU6AF6dgRkVW7ayJP+AYGL3okPyf3m59qnMpM78TZ0ijwmtfKjnzk+NFETcebQG/k+uDMGLFuh2c/LKR9ROSCaif/uJD4RHHezSuT+XWjRWU/CMcElq1GnYXV8ND13aMWJRUZ+qLWYP04=;Y+k+JxTuHi44h3hq8sTc1g=="
 ---
 

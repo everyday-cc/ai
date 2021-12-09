@@ -78,6 +78,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DeepMind neural networks open new window to understanding electron interactions"
+    excerpt: "Neural networks can be used to build a more accurate map of the density and interaction between electrons than was previously attainable, new research from DeepMind shows. The result is a step towards enabling scientists to better understand the interactions between electrons,"
+    publishedDateTime: 2021-12-09T19:14:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936923"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 32
 
 secured: "zHD3L0TigGOmXZByMXEnkRwHz24jJjjUl5MeTSYjke8y18yMAAhlqrQXTtlznuqIbHGVrP90dKNoAcT9/+qd/zi8j27V2xWVxaEk7RFkdsZm4ycw+g19xg8qX0JqXA9PKri1LV9hsRj4w8sjktuPWG3t5K7ip1xAcBdGpUyCAnr7oILOcWM7C4qpI0e+gOC6vtyIMVLo7GgXWRBmmdsUInjNtY7a9zrK+Y2C0APL0PpMsEzj+5YlT6rtCRY2vPgHuxSphb0e38Y/c0tiWcSv2wzSKdV900TWFKiY9PxRPbvepkeGfK/GNOOzHrbG8ybeD2ltpHGFZ58KtYrmp1R83PT8oyyTViVn1+z1yLdX26gv8I8iDzMs1hjJ1F/AxfxUGKvNx4B0xzRkyBMRQiMKgHmH96rJV4ZRC6ObZjCDJl0PJ1fOQ8STQmJxSi/mOjcMb32M4MYAy3VrmS5NC7VMuW9mrxEBF7pD8A0qa/TJ5QoCUEEJugJy3bjlaWSlDFbuMO6iPVEIs8M1Ar4RkZsLJw==;S/vV9sWidP9ze6gGBodNVQ=="
 ---

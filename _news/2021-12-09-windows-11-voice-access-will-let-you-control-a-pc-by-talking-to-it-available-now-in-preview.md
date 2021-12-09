@@ -24,6 +24,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "You’ll soon be able to control Windows 11 better with your voice"
+    excerpt: "One step closer to ditching your keyboard and mouse, as Microsoft updates Windows 11 with a voice activated accessibility feature"
+    publishedDateTime: 2021-12-09T19:25:00Z
+    webUrl: "https://www.pcgamesn.com/windows-11/voice-access-accessibility"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 24
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/uploads/2021/06/Microsoft_Windows_11_PC_devices.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "vCQDfgyXQlfRmzBNHQAxoBa0z6cmavdhcZ0It2kHMiBcLqCbYgsXbtv11H5l7rj/mRlxVXk0jX8sI0UBjQxfBfoY2GpmCm8Jf8Df9My/ncZ/I9RlaYQjcvv3SNbxSZ0cvZSGRIoFYeFARVkeCvznd+iHPJRnuQnMAV4CIJ2JpziTQSGkOqY+qN0tnxbMM2S2cFXpOBwO8ixd7/9g4GXV1O24xeRi+4m8lbSQzA5/ZPeH9hM4QAl4+Vek0RwTHpaScuamcYURUo1GKRPmskqlhG6VcQgoSsHCtIzfr0gPu4y+mrKaXjQWl8x8uq5lqnMPqRaC5wktkHuAnZpoFMNnirDkD5xb3XVSho40ik7/U7b/yP0OuS4tlWsczsxfAZXaYCEtSCJSp/P0NhOsiTAJwbqUb4PL4MLiVUaZM5B57RWRU4sOz0udS1tcl90wSrZpTQ+evOyHq52zVmjF5CUzfsY7YvYWNUd0DkCvPZM2DXX/PKtc7vQBEQ1tvPyEAyLpDgBzgNXx67xh4WcnUj/A1g==;bCBAjQvl7KNgswHIKalrjQ=="
 ---
 
