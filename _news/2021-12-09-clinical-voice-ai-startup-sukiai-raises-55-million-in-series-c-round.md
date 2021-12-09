@@ -35,15 +35,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 101
-  - title: "Self-Driving Startup Robotics Research Raises $228 Million in Funding"
-    excerpt: "Self-Driving Startup Robotics Research Raises $228 Million in Funding By Nick Carey LONDON (Reuters) - Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial ..."
-    publishedDateTime: 2021-12-09T06:29:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-09/self-driving-startup-robotics-research-raises-228-million-in-funding"
+  - title: "Self-driving startup Robotics Research raises $228 million in funding"
+    excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
+    publishedDateTime: 2021-12-09T10:29:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/self-driving-startup-robotics-research-raises-228-million-in-funding/articleshow/88185888.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/self-driving-startup-robotics-research-raises-228-million-in-funding/amp_articleshow/88185888.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/self-driving-startup-robotics-research-raises-228-million-in-funding/amp_articleshow/88185888.cms"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 81
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 91
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-88185888,imgsize-500908,width-800/88185888.jpg"
+        width: 800
+        height: 601
+        isCached: true
   - title: "Self-driving tech company Robotic Research lands $228M in first outside funding; Luminar among investors"
     excerpt: "Self-driving tech company Robotic Research Inc. said Thursday it has raised $228 million in its first round of outside funding in the company's nearly two-decade history. The money comes from not just the regular crowd of venture capitalists."
     publishedDateTime: 2021-12-09T06:00:00Z

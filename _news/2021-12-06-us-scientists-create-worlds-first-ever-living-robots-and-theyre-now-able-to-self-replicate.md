@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/06/us-scientists
 webUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/06/us-scientists-create-worlds-first-ever-living-robots-and-theyre-now-able-to-self-replicate"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "These Tiny Xenobot Robots Can Biologically Reproduce to Create a Family!"
-    excerpt: "A team of researchers has developed a new kind of robot called \"Xenobot\" that can biologically reproduce to create \"baby\" Xenobots."
-    publishedDateTime: 2021-12-04T18:38:00Z
-    webUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/"
-    ampWebUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 58
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2021/12/shutterstock_2010089492-min.jpg?w=750&quality=75"
-        width: 750
-        height: 500
-        isCached: true
   - title: "World's first living robots created, and they learned how to reproduce"
     excerpt: "A team of researchers has successfully created the first living robot that has recently learned how to reproduce in a new way."
     publishedDateTime: 2021-12-06T06:04:00Z

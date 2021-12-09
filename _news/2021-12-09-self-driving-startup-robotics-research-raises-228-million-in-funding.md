@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Self-Driving Startup Robotics Research Raises $228 Million in Funding"
-excerpt: "Self-Driving Startup Robotics Research Raises $228 Million in Funding By Nick Carey LONDON (Reuters) - Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial ..."
-publishedDateTime: 2021-12-09T06:29:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-12-09/self-driving-startup-robotics-research-raises-228-million-in-funding"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-12-09/self-driving-startup-robotics-research-raises-228-million-in-funding"
+title: "Self-driving startup Robotics Research raises $228 million in funding"
+excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
+publishedDateTime: 2021-12-09T10:29:00Z
+originalUrl: "https://www.gadgetsnow.com/tech-news/self-driving-startup-robotics-research-raises-228-million-in-funding/articleshow/88185888.cms"
+webUrl: "https://www.gadgetsnow.com/tech-news/self-driving-startup-robotics-research-raises-228-million-in-funding/articleshow/88185888.cms"
+ampWebUrl: "https://www.gadgetsnow.com/tech-news/self-driving-startup-robotics-research-raises-228-million-in-funding/amp_articleshow/88185888.cms"
+cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/self-driving-startup-robotics-research-raises-228-million-in-funding/amp_articleshow/88185888.cms"
 type: article
-quality: 81
+quality: 91
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Gadgets Now
+  domain: gadgetsnow.com
 
 topics:
   - AI in Autos
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://static.toiimg.com/thumb/resizemode-4,msid-88185888,imgsize-500908,width-800/88185888.jpg"
+    width: 800
+    height: 601
+    isCached: true
 
 related:
   - title: "Self-driving startup Robotics Research raises $228 mln in funding"
@@ -64,6 +68,6 @@ related:
         height: 600
         isCached: true
 
-secured: "OpvGTLlCjS34oLaTo/q86uCuy/m1yCmCX6+vzViO7pEmrqY+E+K/q0hehZa3PJ83mo01rTpVUEY+ghxL4ve2sbwmBB6+t8OodJd3a8D83JAfEBkm9C17MDp79tPHF+PMytJkIKNYd95AGem7IRZ9eyeAA4AIBpJ6LyMSievhffnzcLqEhLxh1vpO6rK1F8IcAareuJezIAow/U35N7dKZkmLOfYmzpbbHJ/pVvI7jxP0iQEumPHye3qMkZfxx8q5hTV1OnyJw/+B5uTLn9gRp0GLqsRDosGvxWIiSHAY1NDdXkstfWlvnybpz6aOxehvMQb5B46BoJXxY8N4Oxal0K/R0Ja0Nu7ioDGfXgw7RaM=;Mg9BsV0WGhaShcCkxG1WBQ=="
+secured: "COjeQ0Vvb71wMCoEI1WoRE8L0A33xP2vRLNo0hhQLGinf57524zL7hwwboAuM2tl034bjStD6/p0jnCOQJA8xKAOKuGUXG6yZa7K85k7gS5Wrl961N/+2uOXxp2LRcRO+JFtMld2bpNl2pb9auD8STPZdVBJkUDP0ilF+1PwCeCcmeQD3yhmnPUzdLVb6FYLwo/+bpkFu3rQVJlo+JRBlsY5ukgdhgerGOeHv34UQnPFIX6HgujZtzz6PBE8cCblbGgXNxb8x6AN9brAtKWZ4IT0QwQpfFCcqXK1u1HkxzJNuPSEO3kSx6rpoKjjzhOBqr/rIhOnxX4bD3UVhTesP/1Yqs44tfhZDSJH0f7bstI=;clcxWXk82utRhIAPHImebg=="
 ---
 

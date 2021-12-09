@@ -53,20 +53,6 @@ related:
         width: 800
         height: 550
         isCached: true
-  - title: "Insecurity: Osinbajo Calls For Use Of Artificial Intelligence"
-    excerpt: "The vice president, Prof. Yemi Osinbajo (SAN), said the time has come for the adoption of artificial intelligence by the military, security, and"
-    publishedDateTime: 2021-12-04T17:54:00Z
-    webUrl: "https://leadership.ng/insecurity-osinbajo-calls-for-use-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: LEADERSHIP Newspaper
-      domain: leadership.ng
-    quality: 37
-    images:
-      - url: "https://leadership.ng/wp-content/uploads/2021/10/Yemi-Osinbajo-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "2NoVV50WcOaSMjZE+zH+mxnBHXu/bVIbcuGeyJ9V495qkWyQVwIs9xMeFMTZD7PL1DvQyIKgKiBHNJ+ET5iwbHtt3JuWEw3vovSvUqdW38KwWcELuuhOD+88VrmdKo4qx3C/tzjBV0+AiEvcQzaXSsWr5unQvCavRivhjJLWe+CS2H41MREnq4Sf56h0Yr6R2ZqX+R2ha8Czknmm/HfQfGBJBQrche0PWo7Cfv8GnTd9YtzelldPRm2bh2RKhwdCE0j7XwtUjXWQ+4BiTaDaR324sYFBMUs/+fODCP35YNY4M0OPdV2J84cqrdVf9/kqVI9nGMDmCNKnmfecL93UikhLGpFsOikvlsh5lm0rwI0=;ICDMUqM13hGnUCKwuM4OgA=="
 ---

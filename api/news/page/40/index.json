@@ -2,6 +2,104 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-11-08-h2oai-secures-100m-lands-partnership-with-australian-bank.md",
+      "title": "H2O.ai secures $100M, lands partnership with Australian bank",
+      "excerpt": "H2O.ai, an AI development platform, has raised a fresh $100 million, bringing its total to over $250 million at a $1.6 billion valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/",
+      "originalUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-1308719817.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/07/h2o-ai-secures-100m-lands-partnership-with-australian-bank/amp/",
+      "publishedDateTime": "2021-11-07T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-seeq-announces-expanded-microsoft-azure-machine-learning-support.md",
+      "title": "Seeq Announces Expanded Microsoft Azure Machine Learning Support",
+      "excerpt": "(MENAFN- Mid-East.Info) New Seeq Azure Add-on feature enables rapid deployment of Azure Machine Learning algorithms to frontline plant employees. Seeq Corporation, a leader in manufacturing and ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103115716/Seeq-Announces-Expanded-Microsoft-Azure-Machine-Learning-Support",
+      "originalUrl": "https://menafn.com/1103115716/Seeq-Announces-Expanded-Microsoft-Azure-Machine-Learning-Support",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2021-11/07/M_f011cimage_story.jpg",
+          "width": 600,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-07T11:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-08-artificial-limbs-center-saudi-arabias-ksrelief-aid-493-yemenis-in-marib-in-october.md",
       "title": "Artificial Limbs Center, Saudi Arabia’s KSrelief aid 493 Yemenis in Marib in October",
       "excerpt": "The Artificial Limbs Center in Yemen’s Marib and Saudi Arabia’s King Salman Humanitarian Aid and Relief Center (KSrelief), in the past month offered",
@@ -1047,110 +1145,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-tagalong-robots-follow-you-to-learn-where-you-go.md",
-      "title": "Tagalong robots follow you to learn where you go",
-      "excerpt": "Follower robots have been under development since the late 1990s, beginning on the ground and extending underwater and into the sky. Initial forms relied on following the location of a tag in a person’s pocket,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2021/11/tagalong-robots-follow-you-to-learn-where-you-go/?comments=1&start=0",
-      "originalUrl": "https://arstechnica.com/gadgets/2021/11/tagalong-robots-follow-you-to-learn-where-you-go/?comments=1&start=0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/robot-trailing-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-06T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-driving-business-benefits-with-intelligent-automation.md",
-      "title": "Driving business benefits with intelligent automation",
-      "excerpt": "For instance, at EY GDS Enablement Services, we are using intelligent automation solutions by combining RPA, digital and artificial intelligence (AI ... With chatbots and self-help, access to many services is now available 24/7. Added to this, we are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/driving-business-benefits-intelligent-automation-shailendra-saxena",
-      "originalUrl": "https://www.linkedin.com/pulse/driving-business-benefits-intelligent-automation-shailendra-saxena",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGmAdQFrSQDdg/article-cover_image-shrink_720_1280/0/1635946751873?e=1642636800&v=beta&t=76Nzd4DNGZYKhlCal64MrPMZtUiO1xF7GqsiO1Xh_dc",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

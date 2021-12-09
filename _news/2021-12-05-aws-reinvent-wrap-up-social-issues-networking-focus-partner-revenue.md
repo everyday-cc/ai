@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/cloud/aws-reinvent-wrap-up/"
 webUrl: "https://www.eweek.com/cloud/aws-reinvent-wrap-up/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://www.crn.com/resources/0270-13e50c736b4d-9c65a216a991-1000/aws-reinvent-intro-photo.jpg"
         width: 610
         height: 458
+        isCached: true
+  - title: "Five key takeaways from AWS re:Invent"
+    excerpt: "Venkatesh Govindarajan and Kelsea Luce from Cloudreach provide five key takeaways from the recent AWS re:Invent conference"
+    publishedDateTime: 2021-12-09T10:24:00Z
+    webUrl: "https://www.information-age.com/five-key-takeaways-from-aws-reinvent-123498006/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/12/five-key-takeaways-from-aws-reinvent.jpeg.optimal.jpeg"
+        width: 1068
+        height: 675
         isCached: true
 
 secured: "ds4rd0c5AJj0jwc16GWBAm36B6fySQ870W6YwPXQqk5+esFuiqWKQNTU85G0ume2Lb+rF6I5UvwR/VnR7jtsiKCvWCbh/aHzBZZOVSBAZoecUnhUGqnEuttgflDLaRTLpSf2HWyJQdQOs63zmTB/RSNY/Y4r7z7MrGCbBYbp0GUZxLOBPsqaFPyFrBfe2x4pD5pEGtGxh24T1JnQxFht9BeLT167KQnjBC4RFRFaM4QFVGl/uSkIUlsHyTQpa+rMytI06iq3a88hSC3LsYg3FpDpNbQXAOVL4xTyW0OSmcnVpZbXJfNi8rxa++juiY9rP19hhTqu5hTZ8c1LcPqV0MaH/402qi+qhGJE7FxZpbpc3HLX/gh5y8qfAlEOnAOkm9xBvb2JA1r6JEwEt5KvTGjlke21ilmy63+xs7OMYn/6Ov87PQUl0oXouEeiO0saU78nRfr6fdxvgU7JS80rZ/Qd1y7sKHo8I75M1C2WmO6sLHnCXOva6aYgVEIjmRcCNS6wwqmligBS+IWNKJ3qCg==;cV4EFxKcxQp0Iy3rAuKWOQ=="

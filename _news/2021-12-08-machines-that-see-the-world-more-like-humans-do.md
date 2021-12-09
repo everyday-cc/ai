@@ -7,8 +7,8 @@ originalUrl: "https://news.mit.edu/2021/probablistic-programming-machine-vision-
 webUrl: "https://news.mit.edu/2021/probablistic-programming-machine-vision-1208"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Massachusetts Institute of Technology
@@ -43,6 +43,15 @@ related:
         width: 1203
         height: 802
         isCached: true
+  - title: "Machine Learning decodes the tremors of the Universe"
+    excerpt: "Researchers trained a neural network to estimate - in just a few seconds - the precise characteristics of merging black holes based on their gravitational-wave emissions. The network determines the masses and spins of the black holes,"
+    publishedDateTime: 2021-12-09T09:29:00Z
+    webUrl: "https://www.nanowerk.com/news2/space/newsid=59341.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 19
 
 secured: "Je9deaG9nWY5eLDKqDp7qsJvOzeZkasNPzConPEz4HAKoy3CRYsVEMp5jAOpiiJyVPRAS3Qi1froJjVhfrxzueCjqLFhVeDRwOQkh7IRFdPjHRCy5JxKvKCBteP6HvPiM/FrLdy3O3mB5kOmvqXxit2ntgBpWiFUPnCtQpI5Au6EbcPJTZLvUelNow74kZBEAKstkiVRFE4gF66kPdKo9yb2KSpFrIwIyY4Syy4IUdDXHG01L2Hj1TJKeS25jRAh3tRZe9MAksEIDmpOM69LIItIiBiQx2ixcHG9dkEI+tM7DAxSFG2VxDzg3de0nt0PwS+GEy9ObMYroRQmRL5g8pfIuXF5Pc5PKAR9VwRdhp1e9zvTOB6YRMwVi4E7ammbYEfgENhCwnlhRBf8BioYCT+E6GiM6QKf327glKLiQ5+SyS6PlsNm4g391O5RdW7R2YxZN+22/YG/qeJTsjQSJAHuTlMTjZPbx1Z0Wf5fKGZ/IQUInVfIFFJfHFOGi6AXGxNR/33f1gG8lSuTbw0DrA==;bUDnsJY1F3YNBCYsveR1GQ=="
 ---

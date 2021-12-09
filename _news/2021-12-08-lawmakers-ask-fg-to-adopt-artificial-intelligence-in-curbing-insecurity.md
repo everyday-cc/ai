@@ -39,20 +39,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Insecurity: Osinbajo Calls For Use Of Artificial Intelligence"
-    excerpt: "The vice president, Prof. Yemi Osinbajo (SAN), said the time has come for the adoption of artificial intelligence by the military, security, and"
-    publishedDateTime: 2021-12-04T17:54:00Z
-    webUrl: "https://leadership.ng/insecurity-osinbajo-calls-for-use-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: LEADERSHIP Newspaper
-      domain: leadership.ng
-    quality: 37
-    images:
-      - url: "https://leadership.ng/wp-content/uploads/2021/10/Yemi-Osinbajo-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Nigeria: Lawmakers Ask FG to Adopt Artificial Intelligence in Curbing Insecurity"
     excerpt: "The House of Representatives has urged the federal government to liaise with the Robotics and Artificial Intelligence Nigeria (RAIN) to provide advanced methods of curbing insecurity in Nigeria."
     publishedDateTime: 2021-12-08T06:06:00Z

@@ -43,6 +43,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Machine Learning decodes the tremors of the Universe"
+    excerpt: "Researchers trained a neural network to estimate - in just a few seconds - the precise characteristics of merging black holes based on their gravitational-wave emissions. The network determines the masses and spins of the black holes,"
+    publishedDateTime: 2021-12-09T09:29:00Z
+    webUrl: "https://www.nanowerk.com/news2/space/newsid=59341.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 19
 
 secured: "xXhcMPMKXsdA6Gcj0VzqVDgUzPvH+e80pHoCdR4GBY985NkPILJAIL8ejEuWHM+L3kpY0w9+OvE2QO6gHItjdlAbfoi8ns9tWhjFC4mFw1A5YCmycFXFMKbLhsQoGME9v4ojXgZCVH+0Ae/wlQ3cNibewKrqyu0dOarnkKvcpwfrSSYrifyoxJfI4rDkkuv9pGy7+D3yvyzAp+y3cMludfMhqm41Uppz6VqZ8xRQnuqzqyYQFlSgsLR16EP4OTwfQ/Do1UNhsJgbA/bBOZcdocUfXrnsOceeRlPznZ9VpREXys6K5a7b5dbF2Eg99ii1QWR7YqV7gP4WYMe7evMXzo9uIYuuArUYR0IrzjnYPAm3wnHjFiNaQ/nrsqx6m64IySQztEg6thfURKljVtUiZ82z0+a7gyXlxl7LZV9hOS/0GSwQFWrR9W3jq3iXun4gcV/JePWW+Jca0MncVLbe+iTEP0CQA9ssXnpmljCRsRw5mRX0wlJW0J2SAHVX/loq/cxAiGk/wyWJJ8kR/5PR1Q==;2IrQvsLcIkV1Br/mOuJ0LQ=="
 ---

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "These Tiny Xenobot Robots Can Biologically Reproduce to Create a Family!"
-    excerpt: "A team of researchers has developed a new kind of robot called \"Xenobot\" that can biologically reproduce to create \"baby\" Xenobots."
-    publishedDateTime: 2021-12-04T18:38:00Z
-    webUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/"
-    ampWebUrl: "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/"
-    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 58
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2021/12/shutterstock_2010089492-min.jpg?w=750&quality=75"
-        width: 750
-        height: 500
-        isCached: true
   - title: "US scientists create world’s first-ever living robots – and they’re now able to self-replicate"
     excerpt: "US scientists created the first living robots, called xenobots. Now researchers have discovered a new form of biological reproduction – xenobots can self-replicate – in a way that is unlike anything seen in plants or animals,"
     publishedDateTime: 2021-12-06T06:01:00Z

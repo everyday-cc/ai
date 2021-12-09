@@ -1,15 +1,17 @@
 ---
 category: news
-title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-excerpt: "WARREN, N.J. and BANGALORE, India, Dec. 1, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on"
-publishedDateTime: 2021-12-01T09:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html"
+title: "Mindtree has earned the Al and Machine Learning on Microsoft Azure advanced specialization"
+excerpt: "India], December 1 (ANI/PRNewswire): Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on Microsoft Azure advanced"
+publishedDateTime: 2021-12-01T12:01:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120101183_1.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Microsoft AI
@@ -17,11 +19,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/ca/eca138ab-1f6a-575c-ab5b-20f351a1974f/607984186af13.image.jpg?crop=659%2C346%2C420%2C0&resize=659%2C346&order=crop%2Cresize"
-    width: 659
-    height: 346
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/01/full/20211201170518.jpg"
+    width: 600
+    height: 450
     isCached: true
 
-secured: "c9185Cn4v9PPyo38hn2oEAP4RMAQ4VT5yaxCtqxHcZXyQsxADepZIVg7hWbFuN89s2d0Q/daJPjLVxRJumnhv0BNdLkGHPZvQkaiEETHS3Wg0b5QeHu8hgW9NI1ctxYJJcn2TMWWI9JEfzHTDcxyoC/vJzCmO712je0xicMVgKKQJcdd6FQOz+FIZEFCILweDy2RPPWhla6CD2WPRUC3TICO9cyXLY3AqoiQhvxKXWaLJ0gxgDJkrGrU3TIR4cfeeIS6TBv6cDJ2fSzPQbpD7m9dhtKf9Up7527E/usV2reOqwyxfkFNAS86aAurjz/UbC2wlDgyTZrI8ugUa/pjX3mIOYUxfH7TNRHa2HFh6ww=;g9ZaqpnklfpRP4VHh0aJIA=="
+secured: "p+uYwqerbBQ9i+1Y9nMvu0jLlNWDAhAYbc5x3m//HulXAl0ECG8IPS6hPGKWZC+gETuwp7/AEldif0tX+uw+nVbykuz1g0sGa+mXv+PRYisJkP8bLwgwRbky+Ra/6y/sFWSZpySaxN6+a0EtZW0Km+U8O3U9Ls/NIwWvS95hW9zs6DVs9huANbZf8efluYgqN/TaMO0wOUU9e8n9owp/yLMe0gS1Q4BH0CQpcw+F+JqOJ36LT6jQE+YHxRTA7l1cg51ljjwixt/tLmcr1keZ0szt6rw4HkqCEgp7leKsVWL2LjQpbWl8P92nifvM7rQ4yKFusdBcDVb24/JOgvY89L/xQjrOnckEVDy+/Pj744Q=;s3IVujxED7hlJ/KJI5gMzA=="
 ---
 

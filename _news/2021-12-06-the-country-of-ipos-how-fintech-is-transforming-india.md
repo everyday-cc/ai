@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/country-ipos-how-fintech-transformi
 webUrl: "https://www.linkedin.com/pulse/country-ipos-how-fintech-transforming-india-pathikrit-banerjee"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1080
     height: 720
     isCached: true
+
+related:
+  - title: "Bullish on industrial, consumer, healthcare and fintech in India: John Praveen"
+    excerpt: "Agencies  We probably won't see the kind of strong earnings we saw in 2021 either in the US or India and might see earnings more in the 15-20% range rather than in the 20-30% range, says John Praveen,"
+    publishedDateTime: 2021-12-09T10:40:00Z
+    webUrl: "https://economictimes.indiatimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/articleshow/88186185.cms"
+    ampWebUrl: "https://m.economictimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/amp_articleshow/88186185.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/amp_articleshow/88186185.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-18354,msid-88186369/john-praveen.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "qHdLOxaFTOv2urxtpTv/jEEWdoo6rceAuj2aviy1tmWkg9P0QXrVwwO20TsgqeMOLVH+6UrvlOgf+z7HPKmqvlYnP3d412w/QV4nwo3jszU0yij2Ww1U0MD3Ttd4LLR1/PFhWqO1QuWQ8kPQUCIV4aKtZNv8jvs4yG6ZNUJkBrNgb11jsuWeEFiJ0YSX/h6n8kQgc6tFF1/SEE8+8FcF644YwLWhyDsYfUgbETNe+qRrtvoqr0NnkT44gpyoLDrn3n5U5L6DNdUpPr+HL/GeMbWIAy7PVQxmbi1frS7mWVDABA6kIICmzOPM9AsoyB4Jpws01E6tbofuxATRUmDpF3Z4qbOfRTOg+q5lOibVImz485Q/FcPWcWbUeO7SMCdq9OZEJM9qkC0qzIHPDg4R1rU7gQdJ3feYKfg6NqgTRe2CBgbbkqh21Qu4aUAtYmIool8GRbcijQCTQvciqru88xHsxHCxHOJwH3AGk/Hb7XmtYj1ry1Yp/XQjNTIJXKwb2ShFvL5pPq9ofDk+lWaFFA==;B/GCr5LK03pFp3OmHBplpw=="
 ---

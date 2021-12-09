@@ -22,15 +22,22 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Self-Driving Startup Robotics Research Raises $228 Million in Funding"
-    excerpt: "Self-Driving Startup Robotics Research Raises $228 Million in Funding By Nick Carey LONDON (Reuters) - Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial ..."
-    publishedDateTime: 2021-12-09T06:29:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-09/self-driving-startup-robotics-research-raises-228-million-in-funding"
+  - title: "Self-driving startup Robotics Research raises $228 million in funding"
+    excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
+    publishedDateTime: 2021-12-09T10:29:00Z
+    webUrl: "https://www.gadgetsnow.com/tech-news/self-driving-startup-robotics-research-raises-228-million-in-funding/articleshow/88185888.cms"
+    ampWebUrl: "https://www.gadgetsnow.com/tech-news/self-driving-startup-robotics-research-raises-228-million-in-funding/amp_articleshow/88185888.cms"
+    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/self-driving-startup-robotics-research-raises-228-million-in-funding/amp_articleshow/88185888.cms"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 81
+      name: Gadgets Now
+      domain: gadgetsnow.com
+    quality: 91
+    images:
+      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-88185888,imgsize-500908,width-800/88185888.jpg"
+        width: 800
+        height: 601
+        isCached: true
   - title: "Clinical voice AI startup Suki.Ai raises $55 million in Series C round"
     excerpt: "Suki.Ai has raised $55 million in a Series C funding round led by March Capital with participation from existing and angel investors."
     publishedDateTime: 2021-12-08T18:47:00Z

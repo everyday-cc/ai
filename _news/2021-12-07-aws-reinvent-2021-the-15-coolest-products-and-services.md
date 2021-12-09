@@ -53,6 +53,20 @@ related:
         width: 650
         height: 466
         isCached: true
+  - title: "Five key takeaways from AWS re:Invent"
+    excerpt: "Venkatesh Govindarajan and Kelsea Luce from Cloudreach provide five key takeaways from the recent AWS re:Invent conference"
+    publishedDateTime: 2021-12-09T10:24:00Z
+    webUrl: "https://www.information-age.com/five-key-takeaways-from-aws-reinvent-123498006/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 39
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/12/five-key-takeaways-from-aws-reinvent.jpeg.optimal.jpeg"
+        width: 1068
+        height: 675
+        isCached: true
 
 secured: "xtKoN+QIZk+l3ql5Ukx4ITKO/Gpw4vP45JWGDNTVQlW2iEVh6AiLicO++u6VfeTPFkjrOERprZFPfiCJKRGCLt6aCKr3ragAK2K6gGdh60viE7uIsGdy7FtKdZCg6cmw0hNxjBgO63/35PCLZ3Y/s0DwgMQXbb+DJ7t+OqCc9HegF/z9K3AzkfydShOlGz+rD6PW2YkyJq7PiGpSILt7lQ+KRCWiLQmV/w9yNMR3eABl74gl5fdLsxeb9fvrVGgZjsPFj1h950JDKLjPB1UDaw3eyN3jDf/psbVZp/fJOBedOsGqNlXoenK844DhleYLMrKO4ULEmvXxCi2JtZS6uLozB2dzZG41FKWEk0q0akY=;4TJCrdMrS6C7ctMUJ9ATDg=="
 ---
