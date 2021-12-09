@@ -1,30 +1,46 @@
 ---
 category: news
 title: "Robotaxi race opens up as top contender Waymo in low gear in Arizona"
-excerpt: "Alphabet's Waymo risks losing its lead in the US race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches. Companies incl"
-publishedDateTime: 2021-12-09T01:29:00Z
-originalUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
-webUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
+excerpt: "(Reuters) – Alphabet Inc’s Waymo risks losing its lead in the ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ..."
+publishedDateTime: 2021-12-08T19:23:00Z
+originalUrl: "https://www.fxempire.com/news/article/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race-834044"
+webUrl: "https://www.fxempire.com/news/article/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race-834044"
+ampWebUrl: "https://amp.fxempire.com/en/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race/834044"
+cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race/834044"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: FXEmpire.com
+  domain: fxempire.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL"
-    width: 1200
-    height: 676
+  - url: "https://responsive.fxempire.com/cover/615x410/_n/_fxempire_/2021/12/tagreuters.com2021newsml_LYNXMPEHB70O42.jpg"
+    width: 615
+    height: 410
     isCached: true
 
 related:
+  - title: "FOCUS-Waymo's slow-going in Arizona opens up U.S. robotaxi race"
+    excerpt: "Dec 8 (Reuters) - Alphabet Inc’s Waymo risks losing its lead in ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ..."
+    publishedDateTime: 2021-12-08T13:26:00Z
+    webUrl: "https://www.reuters.com/article/alphabet-waymo-idUSL1N2R80CD"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/rHX0XRhoxv2jlP3Cl9R9TkKoGhk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VXENWUVLHRBQ5MHF5O3ZDWQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Waymo's slow-going in Arizona opens up U.S. robotaxi race"
     excerpt: "Alphabet Inc's Waymo risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches."
     publishedDateTime: 2021-12-08T12:30:00Z
@@ -65,6 +81,6 @@ related:
         height: 800
         isCached: true
 
-secured: "wXfbOjBzaHIVHw7LY3SHy1Yz1iXkqbPm882KMjYuyleYYjaH+zGJxl/XSYqQejbF0vZgfz/nSa2g81z76xGDVJQQCSEpiFS2MZiJ2ir4ru0ING8RmeDHJchfafwdMBjmRFdaQMTlsO3VfhlASxKqbefxTp5UXRdOEpY7u/TGsDDWw4uM6ipUM+Yghonz/BkXV3Joq/7TEyrFBEA2a4USVQx9cY+wtABDHCl53h2VyhQ604mKJnXYIgByCijGWGTGSn/BGpG8HZrcUVhzNWiTUxIDo3wSdSJabZ9KzzV4d+mCtEwzrH/y8X7v9gibS0kR4om0dLMIjN+okCWpPD+KzNmh7cijbenhr54wyLxKEOI=;kbnHnxeQ/60Sy1dGFpBzkw=="
+secured: "eXYf/qGJKcQ1z1PAyxqPxHi8Y6R5gHbZPwqmLoSiFD1gXCQoT8RwEojXt78LgBjPdXtei2Fa002wdtX3+y6/0223RryscXSh/acxX9xyNVXx6GsmtSM5qG+jCNyh1WcNg3vYXqYqpFmjsIqn4cis4AMSOP4hOY2TTY33frQa780AamP4dTi6pn/CwbizHt1kjYGB4nWU8NgZMlDf3UECm16kJcqsQ98AO1faosJ3w3KnDJIncE2HR5VejEB3uf3FoZ894J0U96isOGJmeeOITWsMG9X/yf9ApIWaYkb8xQxieqDvm5dw0gvSIJX2xfYODHg+1vf2p0mt1ChnekK7GMrESxZwSUHQbC9OFZe4FI4=;y1DUoIz8j3A9cCfqQ6u28Q=="
 ---
 

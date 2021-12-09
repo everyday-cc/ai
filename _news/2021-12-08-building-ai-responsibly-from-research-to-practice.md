@@ -35,20 +35,15 @@ related:
         isCached: true
   - title: "Oriole Park to test artificial intelligence security product"
     excerpt: "Oriole Park at Camden Yards will test a new security technology during the upcoming baseball season that uses 3D imaging and artificial intelligence to detect concealed weapons. The Maryland Stadium Authority announced Tuesday the ballpark will try out a walk-through portal called Hexwave that can screen 1,"
-    publishedDateTime: 2021-12-09T20:51:00Z
-    webUrl: "https://www.chron.com/sports/article/Oriole-Park-to-test-artificial-intelligence-16688241.php"
-    ampWebUrl: "https://www.chron.com/sports/amp/Oriole-Park-to-test-artificial-intelligence-16688241.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/sports/amp/Oriole-Park-to-test-artificial-intelligence-16688241.php"
+    publishedDateTime: 2021-12-09T22:51:00Z
+    webUrl: "https://www.sfchronicle.com/sports/article/Oriole-Park-to-test-artificial-intelligence-16688241.php"
+    ampWebUrl: "https://www.sfchronicle.com/sports/amp/Oriole-Park-to-test-artificial-intelligence-16688241.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/sports/amp/Oriole-Park-to-test-artificial-intelligence-16688241.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 74
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 54
 
 secured: "br3N1JvWc1bTb71tLTn4eRfNO0Fzt9O6PIB+JNEHMTaESnwx0ArI709+uOFAaPZjcanHja8EQlNrzNFe3UT94D29vtPdSuVuIkvhVrEm09/Q5jHrrHzeGqyJt5jl1kf/o+6MeYwyO4bGsHrp9YkrW6Rga/WiQ7kQ0otB6iOXigCM7jTBgjyPq+P/LFJqn+WhbGV1QIQkqFkEHInzYbM0kNZW1LezaxYZ2dmMEoTJ+Nvb/rSxBAhYm/qSfQFbAJllJxRl+15QKuZqkdJrU+Bqk/Liw6c874APpbCevZuySM3VQu3lqJZZOrAZLflgXlHgPf03MHbpPEH2T9iIWpmQ80mGta7TrBoy/hlfriZKtwE=;csYpZy17vSuXB2K1GS+Kcg=="
 ---

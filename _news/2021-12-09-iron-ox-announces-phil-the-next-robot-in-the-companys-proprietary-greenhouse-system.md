@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Iron Ox Announces Phil: The Next Robot In The Company’s Proprietary Greenhouse System"
-excerpt: "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, has officially announced its second"
-publishedDateTime: 2021-12-09T11:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20211209005250/en/Iron-Ox-Announces-Phil-The-Next-Robot-In-The-Company’s-Proprietary-Greenhouse-System"
-webUrl: "https://www.businesswire.com/news/home/20211209005250/en/Iron-Ox-Announces-Phil-The-Next-Robot-In-The-Company’s-Proprietary-Greenhouse-System"
+excerpt: "Iron Ox, a farming innovation company with deep expertise in plant science, robotics and artificial intelligence, has officially announced its second ground-breaking greenhouse robot, Phil. This press release features multimedia."
+publishedDateTime: 2021-12-09T10:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/iron-ox-announces-phil-the-next-robot-in-the-company-s-proprietary-greenhouse-system/article_6ee42a16-3e93-51c1-a875-aa4ee2cfb9b5.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/iron-ox-announces-phil-the-next-robot-in-the-company-s-proprietary-greenhouse-system/article_6ee42a16-3e93-51c1-a875-aa4ee2cfb9b5.html"
 type: article
-quality: 12
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/0/b4/0b4359cd-d914-5523-85b3-a9b15a8d6c5e/61b1e29a3818f.image.jpg?crop=1762%2C925%2C0%2C125&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Iron Ox offers next robot in its proprietary greenhouse system"
@@ -34,6 +40,6 @@ related:
         height: 337
         isCached: true
 
-secured: "Z7K1sgd4EX3bF4kpzZpjSV+/jfaKwprm671SKvR+20FG8D4zLSq9QUUba42qD/tR5ZjJegO3z3g/5+kK8gmQ+k2rlNUerw7aXULMg5gn/LJZ/SKqFzCPqf57IfPiWiRaoGOGmLdnpkwyHFMlpankCU7PFCexN0QzZIVHk4BZ/9eS5+GMBbr8dvJmZn/xyakYQ/ZT/rnPAj56jRFtUl0K6V/iss76XVUFManoJAFCjwqU4/35HUuDLWnda/AnjMkOmwu2hAkU3H1SMiEQLbQUfoyVT0BhMKt+Rc+qpKwR8Z4+Th0BE399QFL4giFgt5tswhlHd0qAvCYIBGJvq8PSixhbRbOAg0aZhqVdcRBw64QcsrONvkW6AqoXhjNnrS6F1kbN1Gw8sdswiLbVuKukyJ0U58lPxDTZ2KW5w418TJ2PQoRqQZzcEi50EbC/Rw6YkFjiiKa3x/L6wQ/hT9RjyY9klyavO14TfIra+mDwj1on6emzN/7sD7955eAVSoZxUMNhA4LmBHlEpvSLX42+bw==;6bwd1egXtEM4lQIOeBAZlg=="
+secured: "xezif7ZbPIdFIur1hiHXgSYy24/APbREpg+gflqqW8UX7RsVafQFLmoGddlTUH5hUbONSK2kUfSDD8JC8/4wXqcAYmelZ2YpvDX87fFTUcpiQwC5MGSRuss/cv7ZZZYNOlWKMZY/D1oKm6uLznR2E2HVx94PgDZ6U5mix0N9+FbrdSXyGWOaV7L9KWIWIm8CMZlDojf70c6tHLrdmajnCyEz4C6KjtZI1qqm1+SwR9Rlk3M6Y9Z15zoyukibjxVkBIE3OVGyls5Bbg6Z4wEL/wzC4uNKaEIn6nHjNMuHfArPwmP80seu1yyeXnkx8M7B90Bg97sCVJAxm3qOMFShEiZ5nXLZXuBu14WUMftiZBQ=;x8+Yo1+9A3vaClKCeyif5Q=="
 ---
 

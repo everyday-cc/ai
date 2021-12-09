@@ -2,29 +2,23 @@
 category: news
 title: "Oriole Park to test artificial intelligence security product"
 excerpt: "Oriole Park at Camden Yards will test a new security technology during the upcoming baseball season that uses 3D imaging and artificial intelligence to detect concealed weapons. The Maryland Stadium Authority announced Tuesday the ballpark will try out a walk-through portal called Hexwave that can screen 1,"
-publishedDateTime: 2021-12-09T20:51:00Z
-originalUrl: "https://www.chron.com/sports/article/Oriole-Park-to-test-artificial-intelligence-16688241.php"
-webUrl: "https://www.chron.com/sports/article/Oriole-Park-to-test-artificial-intelligence-16688241.php"
-ampWebUrl: "https://www.chron.com/sports/amp/Oriole-Park-to-test-artificial-intelligence-16688241.php"
-cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/sports/amp/Oriole-Park-to-test-artificial-intelligence-16688241.php"
+publishedDateTime: 2021-12-09T22:51:00Z
+originalUrl: "https://www.sfchronicle.com/sports/article/Oriole-Park-to-test-artificial-intelligence-16688241.php"
+webUrl: "https://www.sfchronicle.com/sports/article/Oriole-Park-to-test-artificial-intelligence-16688241.php"
+ampWebUrl: "https://www.sfchronicle.com/sports/amp/Oriole-Park-to-test-artificial-intelligence-16688241.php"
+cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/sports/amp/Oriole-Park-to-test-artificial-intelligence-16688241.php"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - AI
   - AI in Security
-
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
 
 related:
   - title: "New resources and tools to enable product leaders to implement AI responsibly"
@@ -51,6 +45,6 @@ related:
       domain: publicnow.com
     quality: 19
 
-secured: "a44GOB4DL64a29S7t6addyt9+eD3hEbMzsvhJjYNqGu8vIZTYNsgkRFYXlnEeXfXNJLt3hi3LqSE32Dhzv5TNQ4Gkeg6D02FTzsjzlp7r8ZFWqWgrhj2xC45sWkwrayqCIDHCzNUWQf8vFuRETDDzpO3LBKrU/J3U6eou0UH3ua8AcmG/0qwWRwAqBNaUUMlYWpzcr/oVwT8Y2d5Ej9lvYXl5/pw/lvD6bS1K+d00hQbZGTHHiqg4RtoIv+vCMScWELvBQweJNxrBSgrrN/8AulFx4VimZbzvgDpDwoAdA63eG4AI+BUXUmFszvStPcdp6WgfblXOrkdwaBP/yK3s/fvLGscaES4c0Qis9o05Hk=;Gf7DEIQMWzuDsgfwo5S7Cw=="
+secured: "ztqWeKVf2UDpfHwx+erbQQApK89bVHwQ2GnrFf70YaD69gVz6s4k57aMrfcgnJKjEVUEmyCHW12xezUXZeMvijTcCB9u8I7TzJjklaMmxiPvwfV6MNY+V0y0SX1vDosf1ZHPQWo5BN8YzZ59G27ETxZiHSCIuOn7GPpBXKqSf6dV5vsHI56u6iV84Gyq3nbNejNFoQ54gkazWlrVJPC4oXduVsZJoZ+QEAAUXFfZPcTVqSNVNHbVCloa5C+yGg+H0/u4AJjZlOqBy5BqaTPbnfoUuwoMoA3rokqoTc7Xzqel/BT67PGkEma+d2iU6BStCDpjVCYsSC28w0ft0dMgXKkptd9Ymx1wsfzXqiE7ajg=;Ux+sDi84mhUaIsJaJRPSzg=="
 ---
 

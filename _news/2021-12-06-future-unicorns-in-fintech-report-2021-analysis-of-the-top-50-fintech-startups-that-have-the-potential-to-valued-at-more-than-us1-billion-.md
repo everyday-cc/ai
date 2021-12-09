@@ -47,6 +47,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Upstart (UPST): A Fintech Investment To Act On Today"
+    excerpt: "Upstart UPST, the AI-driven fintech innovator changing the way creditworthiness is assessed, is ripe for a buy today with a couple of key support levels ready to maintain its recent buoyancy, following an overdone sell-off last month."
+    publishedDateTime: 2021-12-09T20:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today"
+    ampWebUrl: "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "How can banks still thrive as fintech meets 5G?"
     excerpt: "Digital banking in Thailand has taken a big leap forward in recent years. According to McKinsey’s new Personal Financial Services 2021 survey, which covers approximately 20,000 urban banked respondents in 15 Asia-Pacific markets,"
     publishedDateTime: 2021-12-08T11:45:00Z

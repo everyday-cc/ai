@@ -24,6 +24,17 @@ images:
     height: 899
     isCached: true
 
+related:
+  - title: "Can companies police the biases found in artificial intelligence?"
+    excerpt: "How can bias be removed from artificial intelligence? NPR's Audie Cornish talks with Kenneth Chenault, co-chair of the Data and Trust Alliance, on how corporations can take steps to make that happen."
+    publishedDateTime: 2021-12-09T21:51:00Z
+    webUrl: "https://www.boisestatepublicradio.org/2021-12-09/can-companies-police-the-biases-found-in-artificial-intelligence"
+    type: article
+    provider:
+      name: Boise State Public Radio
+      domain: boisestatepublicradio.org
+    quality: 17
+
 secured: "X3WgwHPA01SWsLs4hmAUkIy2iOKjI59fKFOYE7xJ3FbriSuCdOwamwRcstjWgbLOHwtf7RZMJEaBnNqNVFv0DqtBQ7vBxHLFU4YuxgR4hoxBGRXyhzg6Wx1RGNtPpqHOTRiiTe1ScOjwbJBnUdCBFqNKwO7eqXyi3ojIdom/YU2VNynMsMkvZTnUF7TRlAGas3egLv1IWZonXuXNeKBKl3AmoPkYA05oy2dXvUBV4mhvCsRidhwAUqjwFal7ks7VijVB5nkKZ4c9x92YAHjvy5fLa8E6Uo0mP4Hw8k2H6VS7MS8P2ZEk5LoYWrAjNDJGzHAFXFp3C9h2ZN8X8q7OtsJBSX28w/Ld13XCqLFNdT2yn0fITAJtCw6uLg4d63FtGDgfn+8zYBWJH72cI5JohsGr8TpsvxP93QijznkBxgrMzcTK9Bfy1NnVErRNNdb0tco8nA3Nqvt61qqUjV6BpvKupMEqTthA+feOShh3JZcB7kVD3STCc2kjSVsdgvmx1om4UVaV7Mrh2T+JDpbPfA==;1mTUWgmxtYPwCBJCoF8ktA=="
 ---
 
