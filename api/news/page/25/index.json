@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-11-18-tools-tricks-and-learning-in-machine-learning-ft-aliaksei-mikhailiuk-ml-054.md",
+      "title": "Tools, Tricks, and Learning in Machine Learning ft. Aliaksei Mikhailiuk - ML 054",
+      "excerpt": "Aliaksei Mikhailiuk joins the Adventure to discuss the tools he wishes he'd mastered before getting his PhD in Machine Learning. However, the conversation meanders through his background, what qualifications people should have, algorithms, and approaches ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.audible.com/pd/Tools-Tricks-and-Learning-in-Machine-Learning-ft-Aliaksei-Mikhailiuk-ML-054-Podcast/B09M7C5SG5",
+      "originalUrl": "https://www.audible.com/pd/Tools-Tricks-and-Learning-in-Machine-Learning-ft-Aliaksei-Mikhailiuk-ML-054-Podcast/B09M7C5SG5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/51hS6VOUAML._SL500_.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Audible",
+        "domain": "audible.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-18-from-facial-recognition-check-in-to-public-education-space-geisinger-expands.md",
       "title": "From facial recognition check-in to public education space: Geisinger expands",
       "excerpt": "Multiple pieces of heavy equipment thrummed in the background and Life Flight Helicopter roared overhead before it landed on the nearby hospital roof.",
@@ -1164,57 +1207,6 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-the-impact-of-climate-change-and-how-ai-can-help.md",
-      "title": "The Impact Of Climate Change And How AI Can Help",
-      "excerpt": "Embracing and implementing artificial intelligence in our organizations is a huge step toward adjusting to our harsh reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-impact-of-climate-change-and-how-ai-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-impact-of-climate-change-and-how-ai-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6193b6e4c36862f21d707d2e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-17T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

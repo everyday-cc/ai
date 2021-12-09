@@ -53,6 +53,20 @@ related:
         width: 472
         height: 315
         isCached: true
+  - title: "Amazon Introduces SageMaker Canvas. Just Another ML No-Code Platform?"
+    excerpt: "Amazon SageMaker Canvas aims to help business analysts build their own ML systems without dependence on data engineering teams."
+    publishedDateTime: 2021-12-09T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/amazon-introduces-sagemaker-canvas-just-another-ml-no-code-platform/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/sage.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "HVeoQ/C/GnhoW/xidhQMESpJSOUHUeUPBg68y0jriPArBZMAQ5vup0vhUUoeUIRiUVyUn+vYpKArTEKjLq/HMa1VdQWIWrgEYMIQJ1JoBOaADUA3qggvVV1U5GfTW9buT1X2YRy2uKG4Uk7NVApCNFOu9FJgPvcuczJUa1Y/O9tRIRCYbP5aZ/3v68uzn/SYZIDq8G9MQG5FErwoU0OT9HswpkSLYcslkHjyz8f6GdyXChdhvSfqS9IY33wU6uAPeR67sAD7jiVTTJpb7cj4Fr6qTJ4ffjwEEgSMx3SMW4bDNRDcUMDPbizLYdYQ6KB/5Id0ykbTWh5rCGd6re8N0H+Z3FMVnxrTBIZXjYznQktPphRdQouTpgAD5mlLuMAEizLzTGdmx8UI17FzqGBwYlXAopu3vdWDX6aLaud8EWYrWy4xilfDmoBttzsbrH2P0aZ8kljMN9oF3ex8XJLMqNlkBhdpLFwNk01OCXPhT73l/wDecW1HhELJULYF1ntdbPSFGIs7Il6nuF+wMXdj5w==;hvmYYENuy44Y/dXtEhaS2g=="
 ---

@@ -1,33 +1,25 @@
 ---
 category: news
 title: "Self-driving startup Robotics Research raises $228 mln in funding"
-excerpt: "LONDON, Dec 9 (Reuters) - Self-driving technology startup Robotic Research said on Thursday it has ... but that had now changed and the company's RR.AI commercial unit was now capitalising on it. \"That's one of the reasons we have sought investment now ..."
-publishedDateTime: 2021-12-09T06:19:00Z
-originalUrl: "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/"
-webUrl: "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/"
+excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
+publishedDateTime: 2021-12-09T05:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding"
+webUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding"
+ampWebUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Autos
-
-images:
-  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63"
-    width: 1200
-    height: 628
-    isCached: true
+  - AI
+  - AI in Robotics
 
 related:
   - title: "Self-Driving Startup Robotics Research Raises $228 Million in Funding"
@@ -39,21 +31,35 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 81
-  - title: "Contenders in self-driving trucking"
-    excerpt: "As the year nears a close, the self-driving truck industry is gaining momentum. Many companies notched major technical and business-related milestones in recent months. Here's a look at what each company has done in 2021,"
-    publishedDateTime: 2021-12-06T04:00:00Z
-    webUrl: "https://www.autonews.com/shift/contenders-self-driving-trucking"
+  - title: "Clinical voice AI startup Suki.Ai raises $55 million in Series C round"
+    excerpt: "Suki.Ai has raised $55 million in a Series C funding round led by March Capital with participation from existing and angel investors."
+    publishedDateTime: 2021-12-08T18:47:00Z
+    webUrl: "https://techstory.in/suki-ai-raises-55-million-in-series-c-round/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/12/Suki.Ai_.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Self-driving tech company Robotic Research lands $228M in first outside funding; Luminar among investors"
+    excerpt: "Self-driving tech company Robotic Research Inc. said Thursday it has raised $228 million in its first round of outside funding in the company's nearly two-decade history. The money comes from not just the regular crowd of venture capitalists."
+    publishedDateTime: 2021-12-09T06:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-company-robotic-research-lands-228m-first-outside-funding-luminar"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
-    quality: 24
+    quality: 7
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AURORA-MAIN_i_0.jpg"
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/LUMINAR-MAIN_i.png"
         width: 800
         height: 600
         isCached: true
 
-secured: "6oyvkeD4Zz2acRgtfzdwY/0hdxoFNtCICn4yJXLV32JTQhoNAyWUtcfAgW//HKmOKVx67BtfPvisLKoT4rWeWrGSEFsnCekNgVBjRaX/9BXOv4Lzkk9rV1V487fQ82xjENWlVgoUWfqzzlry2HkYGpMvyFxEFEidEPR0z4CDenj8xneWtak19PLmAxfupd1xxH2X+ZulwcJgmtWt38Ltjz6AtXPGWVAKuUouji2j/rR3ndnG88a8XJtGBQXKOwsksRHMGlHPgEWZECav9pHxk5mJRAsUyITUbFLcKwErv9bxV7W9w+Y/L8N21b0gqytcPMbOEGkaUyry9mMuwX9Q5qEKY/hrMfW1hvODFlXSbvU=;dBe0id8TwEhp94Rxp5IHiQ=="
+secured: "1MylT2E5SEz+tnk6YsinVjJ1PjSAvU3aXP1HRnTJYRFesTTOnjKLJJspt4e5dcoupCpmDY+paJnESQ/c1Lfwf+MA0lW1wDFWYj6ju6qDDwnPVC6nTVXXnfwxBVY1fHJUlxKTNtDHdT3PLzBF467ueVOH/EFGREcIy3QWlB+ds4GD3ZyX+8x4jx0UiVIOthib0sXv65PohvV0zhm9NeIVMmv9Prg5fO2SYBtDT6M5fLucMn/A3aSBJZpMOMnusiyEvba2dKnEhn/GnOCW0ymmodEFg7ciOyN86rkEWpZlGw5+DHqr3fA8sAv7+R9VXjm8D4I9ijfhFROEeLVmq+rtJ6kQlYMS8LKMpbgw+7hXo4+4+SQlZ0/RPbxrxyefvqsEGVBLew5tA76cA2JoWxoh9E4b3A6rlgIVdYhtcBeb2CAMCSm4GJmmQwRO3CYIYBlEHDFCUcfCezPojz7T0TL9cg+gzhp7POm+Ki5kLxiWTXvn7jATwb722WJJniEE+Y82fkRXdHUalke/ofIGhoDyMQ==;UcuelqNCg95P12aIVH8e7w=="
 ---
 

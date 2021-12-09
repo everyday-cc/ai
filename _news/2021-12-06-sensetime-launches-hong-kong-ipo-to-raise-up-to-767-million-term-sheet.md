@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/chinas-sensetime-aims-to-raise-up-t
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055"
 type: article
 quality: 186
-heat: 206
+heat: 216
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "US to blacklist Chinese AI company SenseTime over Xinjiang ahead of IPO"
+    excerpt: "The US will put SenseTime, the Chinese artificial intelligence company that specialises in facial recognition software, on an investment blacklist on Friday, the same day that it prices its Hong Kong initial public offering."
+    publishedDateTime: 2021-12-09T07:49:00Z
+    webUrl: "https://www.ft.com/content/8ee73509-e364-494e-b4c8-ff9a4f675078"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "t++T1LIcJiOiMxQNAVGq+Do0juf5yEok7LyvnMc0JXKvCVQ32KTONcntRlFW937Nl0AQT7OPlbDRM4Ijcx0+Be+XXKsb4pikFbJgAu31vl8vkn+qMMXugtRl9fmNEO/Uztai9G0P6I39Ge/3xAycT63HivfqYOEzsMGd6jMeJ3V1T5OGZOSRynCmNVEAOFdSwgbM0jCEryxfumg4msf07YsZMDzv4y/gvzPC4/CSFzLLRaUc2QQsibn1jow9yK+wwHVxWlY5G3mskpX4z+cNF0pTpNmDIiE3Z0QSzdyvl4NG/DUBAVCstyUpjVk9Ew53n5ac1xRqk33bfuZsogUdfBgA7glbey6MMNr1m6STAf2lHc09hEtgL4X6UbpDNEqxUeLiRsMK8pS5H01N2uZ6cwpJyhpp4bXNHeMH4LHMCwBuzWa19XblgmfojVrjidnKakObMShxa7yKlZGnL87D+uuxYGQvt2PgnBN7hzPfpJif6mkPvnnCpfCUBkEJcW8jw8mKVfSZzH3ONAcm0cKppHxvagSBFDBTU1sTwEhBGlY=;/9lEPAb1s7IJERF3le6PIg=="
 ---

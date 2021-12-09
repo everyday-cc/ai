@@ -56,6 +56,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "US to blacklist Chinese AI company SenseTime over Xinjiang ahead of IPO"
+    excerpt: "The US will put SenseTime, the Chinese artificial intelligence company that specialises in facial recognition software, on an investment blacklist on Friday, the same day that it prices its Hong Kong initial public offering."
+    publishedDateTime: 2021-12-09T07:49:00Z
+    webUrl: "https://www.ft.com/content/8ee73509-e364-494e-b4c8-ff9a4f675078"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "eqnmmobRjHuS3pBAmZyY+lWy3qK8ZXf7cRWagmIu1DVX0QpWATBh2Rm3YWG1aJv4/YmNYC6N2Cpy9krHygvmD//lXr0xz+zkXrGZGsBwhSO40NONXQKgkR+TbcBfacx2+cQ3UlVgUNmJZ3uF5f1fN+cACV2cJFsaacuDCe5JoAuyskx5y465A7zB6ee1po4ZIzht5mg4P3MLc4SKircJvRoE9nUgGMTbTGoOTbBo/igTZKlRo5TK0MjESDydEyr+3wSFenAgvLQDvGnaF+3n6bnG1zMJptVyD07s0Ru1E1aaxOCLrQ9dLllu6z7db1n1+zNUVfSl2a8MAVo55cE8GcG23G6FMfbG6LhfksVvcd8VYMZmd4U+Ok7YlluG4+jwQIZp20V34OziYfD6dE9tL0+O+c6FuP3fqD8hNyzv0p3vS6YwBkSDFj1OEr6LREIf+tlRhlME9sHu+kU8Be3cap6MZyA2gLJZCibSk2b8vN89U2frCdG7qvD1vi6L83LMbeoeQHf1SSubqaqwT9O5CA==;VS8aQo1jkImkVSQxClGNtw=="
 ---

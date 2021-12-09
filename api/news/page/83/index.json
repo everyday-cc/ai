@@ -2,6 +2,50 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2021-10-07-marketing-automation-the-best-ai-tools-for-boosting-growth.md",
+      "title": "Marketing Automation: The Best AI Tools for Boosting Growth",
+      "excerpt": "This AI tool can be placed on your website or connected with LiveChat, Facebook Messenger ... automated intelligence with your business’ research and knowledge on a central platform for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sitepoint.com/marketing-automation-ai-tools-boost-growth/",
+      "originalUrl": "https://www.sitepoint.com/marketing-automation-ai-tools-boost-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.sitepoint.com/wp-content/uploads/2021/10/1633400963ai-marketing-automation.jpg",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-06T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SitePoint",
+        "domain": "sitepoint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-10-07-robotics-pioneer-yoky-matsuoka-on-the-human-touch-in-her-new-personal-assistant-venture-yohana.md",
       "title": "Robotics pioneer Yoky Matsuoka on the human touch in her new personal assistant venture Yohana",
       "excerpt": "Yoky Matsuoka has served as head of innovation at Google and as chief technology officer at Nest, and she won a prestigious MacArthur “genius” award in 2007 while a professor at the University",
@@ -1077,49 +1121,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-06-senate-bill-would-require-new-metrics-to-fuse-artificial-intelligence-across-the-us-defense-landscape.md",
-      "title": "Senate Bill Would Require New Metrics to Fuse Artificial Intelligence Across the U.S. Defense Landscape",
-      "excerpt": "S.D., recently introduced legislation that would require the Defense Department to institute performance objectives and metrics to incorporate artificial intelligence and digital readiness across all of its platforms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/10/senate-bill-would-require-new-metrics-fuse-artificial-intelligence-across-us-defense-landscape/185874/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/10/senate-bill-would-require-new-metrics-fuse-artificial-intelligence-across-us-defense-landscape/185874/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/10/05/AP21271558857270_1/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

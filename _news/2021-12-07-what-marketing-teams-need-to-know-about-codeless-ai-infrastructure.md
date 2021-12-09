@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marke
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ae4041e9233e47e2b90539%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1922%26cropY1%3D127%26cropY2%3D1207"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Nothing to fear about artificial intelligence"
+    excerpt: "There is a far better world ahead, when robots and automation will replace all laborious and mundane work, freeing us to think more"
+    publishedDateTime: 2021-12-09T07:52:00Z
+    webUrl: "https://www.zawya.com/uae/en/business/story/Nothing_to_fear_about_artificial_intelligence-SNG_268053399/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_268053399/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_268053399/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/200423074653IQCN.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Artificial Intelligence Is All the Rage. What You Need to Know."
     excerpt: "UBS calls artificial intelligence a top investment theme for the coming decade. But Eric Schmidt, who used to run Google, warns that investing in AI isn’t so easy."

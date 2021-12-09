@@ -7,7 +7,7 @@ originalUrl: "https://invezz.com/etf/ai-etfs/"
 webUrl: "https://invezz.com/etf/ai-etfs/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 683
     height: 1000
     isCached: true
+
+related:
+  - title: "Pentagon issues artificial intelligence (AI) ethics guidelines to safeguard access to the latest technology"
+    excerpt: "The Pentagon will require third-party developers to use these guidelines when building AI whether that AI is for an HR system or target recognition."
+    publishedDateTime: 2021-12-09T07:42:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14215231/artificial-intelligence-ai-technology-ethics"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 51
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/12/16x9/Military_AI_8_Dec_2021.61b0897d917e2.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "kHHSrIE/sWzaMvlJxJb3XmgO/XiU3V1+O990LEP19Gsuy8RVtVKlapnnDN1+g0Y5pNqcwZDEbZ0F6+PTZNaVbxaShFfCVIZxt4WYe0HrUXUMu5LMW0ti7CpEWUa284mEDiu0/IFNJi2OBQrtXHdySFY6NaImpVzOD36JM2/nZgYQp5p0xRzH1/v40uvEdpaJV2Y0zBmvLYTY1vqiu7VNRUep1LVCSKGN82puU4tz6RN2meBUPhlBx/vDG9khyw4hUkSYEAgH2+Xa186/fWtaga3nWImSVKRgDuAlkl62+mZHZVCFrW7CN1xg0XGDxc+xVlKDlBUGME0CB0Nx6+8/6dTWDToF/mCm/xI0uzUS8lQ=;yfiQOR3ZZS8Os7LKxnhuTA=="
 ---

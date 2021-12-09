@@ -58,6 +58,20 @@ related:
         width: 683
         height: 512
         isCached: true
+  - title: "New Center for Artificial Intelligence"
+    excerpt: "The new centre conducts basic and application-oriented research on the topic of artificial intelligence (AI) that covers the entire"
+    publishedDateTime: 2021-12-09T08:20:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/new-center-for-artificial-intelligence-891725884.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1704702/St_Polten_University_of_Applied_Sciences_Logo.jpg?p=facebook"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "ftZ29FC/HSzjwL5WGagFs37vn+qqll31qqufMVPKSFBzFUzlhfAgqSpdzmGkTxB6ly9Sei/4i3T8cEn2PAgX4FDhe3M+3W9/iBR3eaZFBjueuEujd9aT4jCU02hQoPEtwvVGHZAOAN1n83uaWCx8K8g3kpJ8twSXF98n5XDi3Ik1xxLThodfCsXNU4diOCpbG4nz6hAUe0QHZjf9hu7HWh9OGwPts/0twHrhAGDS5Co2nt2CaIhCPyR/EwQlU1ZOo67QM4ZlRNZcIr3aEIW2qaZlhsAov/FtMxq0L9KOziCRFq5eqitaXrCXax/TWNH/yPOf2YLIRKc+fGoBQHLymtAO4RUbXzWaABgFLbJ3aHE=;7LVWmbO2RKWoQ4W4SNtOsg=="
 ---

@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Viz.ai Launches AI-Powered Modules for Pulmonary Embolism and Aortic Disease"
-excerpt: "Concept: American medical imaging startup Viz.ai has launched AI-powered modules for pulmonary embolism (PE) and aortic disease. Its 3D mobile viewer can provide dynamic visualization of the anatomy to the physicians. It could eventually help them make ..."
-publishedDateTime: 2021-12-09T05:45:00Z
-originalUrl: "https://www.just-drinks.com/research-reports/viz-ai-launches-ai-powered-modules-for-pulmonary-embolism-and-aortic-disease/"
-webUrl: "https://www.just-drinks.com/research-reports/viz-ai-launches-ai-powered-modules-for-pulmonary-embolism-and-aortic-disease/"
+excerpt: "Concept: American medical imaging startup Viz.ai has launched AI-powered modules for pulmonary embolism (PE) and aortic disease. Its 3D mobile viewer can provide dynamic visualization of the anatomy to the physicians."
+publishedDateTime: 2021-12-09T05:21:00Z
+originalUrl: "https://www.retail-insight-network.com/research-reports/viz-ai-launches-ai-powered-modules-for-pulmonary-embolism-and-aortic-disease/"
+webUrl: "https://www.retail-insight-network.com/research-reports/viz-ai-launches-ai-powered-modules-for-pulmonary-embolism-and-aortic-disease/"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Drinks
-  domain: just-drinks.com
+  name: Verdict Retail
+  domain: retail-insight-network.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/12/shutterstock_1936906642.jpg"
+  - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/12/shutterstock_1936906642.jpg"
     width: 500
     height: 334
     isCached: true
@@ -41,6 +41,6 @@ related:
         height: 622
         isCached: true
 
-secured: "fdJwblIsTGfrMwnHQntYGfxlNwzhrQsPEqvDwOHR64HVnfWNKMKW8jMTrk3qIzSGtjTXz6AlpCwPYK/ZJpOg4G7PJXmXeq98e7UwUIbjEEgZgvCP8eix8XTGfCyKxvgs5M3G/cNewciHtUjYWIpAcaG28OPec3nNCyNmPUSW8G/ihfz0D6e3V+Ai0coIEP0MY7EO5kQl2grTNnvruvIAaC/Z0I+nucmavPWx9XrAZXKERNBiqkddqh7oID/UFQWo5t7SBdLmQzx2J2etuBj7u4fmTSU/dl10zgerhdzmmi8fzqEPbG/6fVnuEi6Id4Ds94BtFdXvOAXmFhDdgihYgJZ9tXMld94P8TL6WT1ehhg=;g4ZV0rENxxsCa050wNoxiA=="
+secured: "GhYfTS+lk0Mu96MTWf3mOhadRuXcG6Qxbv675jqWeGVpVEDaQ2cKoeV6+T6enF1wPpC9cGgnSXSL7vUeZn3qEf9DnRX9hBWaloapPyCeHQfZRuYWV3lvDV6D9F6+3/+4NgNrPgENusi1tm8VNP4fnJmEdXPdnKRZeqprNl4vxclx177duVnOs+1YttlJ4WWP/L+cnYHOkj6I7FK14EIog7sFXPAdf+wA5ndEHkm6En4SDMv/3F3Vw5VFcS28EX4oJFyVEoEQzAych30TbWYPVAJZlG1+v/l/QE38pvt9ueIAsawoXGTQn4g/PSRU4Sfz5y9h+rPwAlhd5dfnlaFI1WJWpYx5rzY0oLn3dGRODc8=;8bPMhOze5svlHqOd/A4q5w=="
 ---
 

@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-09-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
-      "title": "Self-driving startup Robotics Research raises $228 mln in funding",
-      "excerpt": "LONDON, Dec 9 (Reuters) - Self-driving technology startup Robotic Research said on Thursday it has ... but that had now changed and the company's RR.AI commercial unit was now capitalising on it. \"That's one of the reasons we have sought investment now ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/",
-      "originalUrl": "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T22:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-12-09-shieldiot-launches-worlds-first-coreset-ai-security-platform.md",
       "title": "ShieldIOT Launches World’s First Coreset-AI Security Platform",
       "excerpt": "Concept: Israeli cybersecurity solutions provider ShieldIOT has rolled out the world’s first Coreset-AI security platform ... geographic presence and increase the personnel count. The startup was able to raise $7.4M in a Series A funding led by NextLeap ...",
@@ -95,6 +42,41 @@
       "topics": [
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
+      "title": "Self-driving startup Robotics Research raises $228 mln in funding",
+      "excerpt": "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
+      "originalUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp",
+      "publishedDateTime": "2021-12-08T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -360,7 +342,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/plan-the-locations-of-green-car-charging-stations-with-an-amazon-sagemaker-built-in-algorithm/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -406,10 +388,10 @@
     {
       "path": "_news/2021-12-09-facebook-says-its-new-ai-can-identify-more-problems-faster.md",
       "title": "Facebook Says Its New AI Can Identify More Problems Faster",
-      "excerpt": "Shot Learner” system doesn't need to see as many examples to identify troublesome posts, and works in more than 100 languages.",
+      "excerpt": "Shot Learner” system doesn’t need to see as many examples to identify troublesome posts, and it works in more than 100 languages.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster",
-      "originalUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster",
+      "webUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/",
+      "originalUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,
@@ -451,6 +433,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-tpa-tests-new-self-driving-wheelchairs.md",
+      "title": "TPA tests new self-driving wheelchairs",
+      "excerpt": "The motorized wheelchairs, similar to the ones you’d see in a supermarket, are free for passengers including those with mobility issues and injuries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtsp.com/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
+      "originalUrl": "https://www.wtsp.com/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wtsp.com/assets/WTSP/images/fd127d07-cefb-479c-8bbf-5b926dfc5e6d/fd127d07-cefb-479c-8bbf-5b926dfc5e6d_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
+      "cdnAmpWebUrl": "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
+      "publishedDateTime": "2021-12-08T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTSP",
+        "domain": "wtsp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -817,7 +842,7 @@
       "originalUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1177,58 +1202,6 @@
         "name": "research",
         "domain": "research-live.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-ai-trends-2022-spare-us-the-hype-we-want-business-results.md",
-      "title": "AI Trends 2022: Spare Us The Hype, We Want Business Results",
-      "excerpt": "The latest industry analyst predictions about artificial intelligence (AI) are out, and they’re certain to oust a ton of assumptions we’ve made to date.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa26692c756c16b9644f5a%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/amp/",
-      "publishedDateTime": "2021-12-08T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

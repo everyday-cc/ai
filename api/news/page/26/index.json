@@ -2,6 +2,57 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-11-17-the-impact-of-climate-change-and-how-ai-can-help.md",
+      "title": "The Impact Of Climate Change And How AI Can Help",
+      "excerpt": "Embracing and implementing artificial intelligence in our organizations is a huge step toward adjusting to our harsh reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-impact-of-climate-change-and-how-ai-can-help/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/17/the-impact-of-climate-change-and-how-ai-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6193b6e4c36862f21d707d2e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-ai2-ceo-oren-etzioni-to-chair-uipaths-new-ai-advisory-board.md",
       "title": "AI2 CEO Oren Etzioni to chair UiPath’s new AI advisory board",
       "excerpt": "UiPath, a publicly traded \"robotic automation process\" company, announced that Allen Institute for Artificial Intelligence (AI2) CEO Oren Etzioni will chair its new artificial intelligence",
@@ -1084,39 +1135,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-ai-stock-9-things-to-know-about-c3ai-as-cathie-wood-bets-big-on-artificial-intelligence.md",
-      "title": "AI Stock: 9 Things to Know About C3.ai as Cathie Wood Bets Big on Artificial Intelligence",
-      "excerpt": "C3.ai (NYSE: AI) stock is getting a boost on Monday after ARK Invest CEO Cathie Wood singles out artificial intelligence ( AI) as the next big move in investing. Here’s what Wood had to say on the matter at the Milken Institute conference in October,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-stock%3A-9-things-to-know-about-c3.ai-as-cathie-wood-bets-big-on-artificial-intelligence",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-stock%3A-9-things-to-know-about-c3.ai-as-cathie-wood-bets-big-on-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-stock%3A-9-things-to-know-about-c3.ai-as-cathie-wood-bets-big-on-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-stock%3A-9-things-to-know-about-c3.ai-as-cathie-wood-bets-big-on-artificial-intelligence?amp",
-      "publishedDateTime": "2021-11-16T20:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

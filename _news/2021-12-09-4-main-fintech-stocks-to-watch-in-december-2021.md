@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Finnish CVC Helen Ventures invests in AI EnergyTech startup"
+    excerpt: "Energy trading-as-a-service company enspired lands USD 8.7M of fresh capital, adding to its momentum to solve a key challenge in the energy transition by making power grids more flexible. The funding round,"
+    publishedDateTime: 2021-12-09T07:37:00Z
+    webUrl: "https://arcticstartup.com/finnish-cvc-helen-ventures-invests-in-ai-energytech-startup/"
+    type: article
+    provider:
+      name: ArcticStartup
+      domain: arcticstartup.com
+    quality: 37
+    images:
+      - url: "https://arcticstartup.com/wp-content/uploads/2021/12/Enspired_468-scaled.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
   - title: "Fintech companies use alternate data to build credit profiles"
     excerpt: "Hyderabad: Small businesses in the unorganised segment are seldom in the good books of banks and lenders. Lack of financial transaction history to assess"
     publishedDateTime: 2021-12-05T19:17:00Z
@@ -86,6 +100,6 @@ related:
         height: 421
         isCached: true
 
-secured: "69I68SND+sJTbIRO/UpgemqF3wupjlh14zCqW4Oh+Q05IPXSEBRMD592h6JCaKrhLCVWHSxr6a3S/ZNS2oVQ6mvIYUnSn6YTJD+e2MTt06LHSLmx76o8/4X5R7YUzYGF9dxqkvIbshAdMlBoRb1CetyYmmCf13CBoO9nDqced8x0Cx1/B9KMdo4NR4xBtipK7a3NYb9OjTQP6+OzH+C+uRxrNawka/mGKiLqKpngbMhoI3PJ50U1SZdiE1ZqhwEAriND7eiLo/pPXFYl2WJwcSy6Mk70BnsmJXPb6U6L1gA4DjU8eaDhsQ5Yg4beLkJOgYL+dlT4eRGb6YQ5bYLLN38z/FZjgABmMfTkaF/tlVc=;4IvGmsnjdVEWk0wvQPWSxQ=="
+secured: "q77yzH3L2i33LXP3aloM6hmkGY2FsdnIwuLyWgiLVU5FPrS/TRHyNJUQ3+7cavJaMbA9WoNF3mMeiDdYuv0eUQafAPLxud2XAe4gLsWadahB1aXPSp66Xaacvjrg8e4/QCJaGQalVWY+JUSY3QL+B1DaRYezOt/Eni9A50/NDrT7GSHU+VRmep8xsDT0u3tSqQLFdvRAF7vlRvWehllAYOK0Mo7QdzziQF9R7aQFbtgMdac/nt7p8umBFt3MXgULcPvgljmUTdTI5uCrLYppqXrKnuJOrlYaf3xebb1Yruq9TIUw6Ac5dei3nFgJp2TBQLDNz2madoHXF9WEF7MVH+shFY2I0CsrhfckWna1chm4RBgOfERJ/FyZHMze+eBr6OXKz0n3LHDfI3Fk/nbdSrxo3SrkkTXwRhIy9mK4J0iilY7DgS9w75VhSH79lyuuoQIQUf3huvaielXbg1U93zT8wWG/7NEsqtqr1m3joag6sj0qoaF8kq+GeOy/o30gCb9vPZPgaXIgdOktzSXA3A==;V7Z7hvgAoIMfq3yq6/eOSQ=="
 ---
 

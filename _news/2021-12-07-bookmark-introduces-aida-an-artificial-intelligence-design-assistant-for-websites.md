@@ -27,16 +27,16 @@ images:
 
 related:
   - title: "Viz.ai Launches AI-Powered Modules for Pulmonary Embolism and Aortic Disease"
-    excerpt: "Concept: American medical imaging startup Viz.ai has launched AI-powered modules for pulmonary embolism (PE) and aortic disease. Its 3D mobile viewer can provide dynamic visualization of the anatomy to the physicians. It could eventually help them make ..."
-    publishedDateTime: 2021-12-09T05:45:00Z
-    webUrl: "https://www.just-drinks.com/research-reports/viz-ai-launches-ai-powered-modules-for-pulmonary-embolism-and-aortic-disease/"
+    excerpt: "Concept: American medical imaging startup Viz.ai has launched AI-powered modules for pulmonary embolism (PE) and aortic disease. Its 3D mobile viewer can provide dynamic visualization of the anatomy to the physicians."
+    publishedDateTime: 2021-12-09T05:21:00Z
+    webUrl: "https://www.retail-insight-network.com/research-reports/viz-ai-launches-ai-powered-modules-for-pulmonary-embolism-and-aortic-disease/"
     type: article
     provider:
-      name: Drinks
-      domain: just-drinks.com
+      name: Verdict Retail
+      domain: retail-insight-network.com
     quality: 34
     images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/12/shutterstock_1936906642.jpg"
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/20/2021/12/shutterstock_1936906642.jpg"
         width: 500
         height: 334
         isCached: true

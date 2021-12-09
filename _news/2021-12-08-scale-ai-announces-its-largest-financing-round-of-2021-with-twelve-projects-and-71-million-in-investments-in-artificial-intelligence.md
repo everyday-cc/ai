@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Finnish CVC Helen Ventures invests in AI EnergyTech startup"
+    excerpt: "Energy trading-as-a-service company enspired lands USD 8.7M of fresh capital, adding to its momentum to solve a key challenge in the energy transition by making power grids more flexible. The funding round,"
+    publishedDateTime: 2021-12-09T07:37:00Z
+    webUrl: "https://arcticstartup.com/finnish-cvc-helen-ventures-invests-in-ai-energytech-startup/"
+    type: article
+    provider:
+      name: ArcticStartup
+      domain: arcticstartup.com
+    quality: 37
+    images:
+      - url: "https://arcticstartup.com/wp-content/uploads/2021/12/Enspired_468-scaled.jpg"
+        width: 2560
+        height: 1708
+        isCached: true
   - title: "Fintech companies use alternate data to build credit profiles"
     excerpt: "Hyderabad: Small businesses in the unorganised segment are seldom in the good books of banks and lenders. Lack of financial transaction history to assess"
     publishedDateTime: 2021-12-05T19:17:00Z

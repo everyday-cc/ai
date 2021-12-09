@@ -2,17 +2,17 @@
 category: news
 title: "3 Impacts of AI in the Machine Translation Industry"
 excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
-publishedDateTime: 2021-12-07T23:03:00Z
-originalUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
-webUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+publishedDateTime: 2021-12-07T22:13:00Z
+originalUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Times Union
-  domain: timesunion.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Natural Language Processing
@@ -146,6 +146,6 @@ related:
         height: 389
         isCached: true
 
-secured: "ScIdITdXUjXimUkVFM/VH+kw2+tojsTAsBrarJp+aI+6w3iggLK+f+Bn1sS1T0Yx7ArUiCdWxnjlvf81w4HU56ND6YCvp28l5IS7nLyHz8R81ea0PrJcky4rDIPRrzgPKZ2bWE3BoUI42t9aOI91BWf7cvD4UiQNFLpCK3uqHNCKodoSATP9h3OYXRHr4pZVSWpnaD7dT7KiVAMZX0NRMf/yoE/vsnvmxXemDkNrZ6x0qSN28SPdF/OyZVhnv9OMToBR5dIOqxk3KXLpZsbXV9+Gnuq9A8peYHBQX+nqdAZymkgIO1cBShlJGVFa6PlM5ClmAuBxn+5vrzoqQGKC7YWxRubWqBAqoNj9jIgjQEk=;8QaVJ2c4WU/zbCsma1S4WA=="
+secured: "hzjc/6a3TUajRZvE4ifmlZTr3PkMq6UfxKGm/uJHGLHDcz7KcYa+IEHIGi6QfFCIMi3/k8TsNYJftm3nw1hX3AYQ1r0caoirD3ci7MRvSTu3DnsSXXDIOk4BzRSx8QYjZEKj5k3gO0n+mG3Kk/e5DhSBayCv2oGUyn8hUFfvlDhMkR3qld+4rwgHHcl7Efq+f03314fDwpAS/P3vBpm0ONVd1Tr1lciT9FsZBfGQYG/OmUowvmgRIb4DxJGWLmycOhH1XKd0Rd4ZnYrEZri8tyAA55do2EtSh1I7Y2K4gNlXLcTZUhw9tQz/c9uwMbycYj0gvLWo67IIkNgaPWkZkhVh7lnszImQ0zv9/O26HII=;q5jVvSB9cuzMywzEifJ/Pg=="
 ---
 

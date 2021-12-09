@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-10-25-tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues.md",
+      "title": "Tesla Pulls Its New Full Self-Driving Beta Due to Software 'Issues'",
+      "excerpt": "U.S. electric car maker Tesla Inc on Sunday rolled back the latest version of its Full Self-Driving (FSD) beta software, less than a day after its release, after users complained of false collision warnings and other issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/top-news/articles/2021-10-24/tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues",
+      "originalUrl": "https://www.usnews.com/news/top-news/articles/2021-10-24/tesla-pulls-its-new-full-self-driving-beta-due-to-software-issues",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-24T21:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-tusimple-taking-retail-money-may-be-too-simple.md",
       "title": "TuSimple: Taking Retail Money May Be Too Simple",
       "excerpt": "Driverless technology is the future of ... A wicked waste of dumb money may be chasing the industry. Artificial intelligence is progressively more central to leading investment themes – whether ...",
@@ -1302,58 +1345,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-how-good-is-good-enough-the-corporate-move-toward-esg.md",
-      "title": "How Good Is Good Enough? The Corporate Move Toward ESG",
-      "excerpt": "Take Google, for example. For Google to get into China and compete with Baidu, it has to significantly censor its most popular product: search. Doing so means giving in to an inhumane ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/13/how-good-is-good-enough-the-corporate-move-toward-esg/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/13/how-good-is-good-enough-the-corporate-move-toward-esg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F616590b1f6a5fe7449160cbc%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/13/how-good-is-good-enough-the-corporate-move-toward-esg/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/13/how-good-is-good-enough-the-corporate-move-toward-esg/amp/",
-      "publishedDateTime": "2021-10-13T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

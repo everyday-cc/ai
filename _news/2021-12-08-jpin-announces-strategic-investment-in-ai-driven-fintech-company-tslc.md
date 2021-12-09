@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/jpin-announces-stra
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/amp_articleshow/88162825.cms"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/ai-powered-finance-assistants.jpg.png?itok=T_w9zlmv"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Finnish CVC Helen Ventures invests in AI EnergyTech startup"
+    excerpt: "Energy trading-as-a-service company enspired lands USD 8.7M of fresh capital, adding to its momentum to solve a key challenge in the energy transition by making power grids more flexible. The funding round,"
+    publishedDateTime: 2021-12-09T07:37:00Z
+    webUrl: "https://arcticstartup.com/finnish-cvc-helen-ventures-invests-in-ai-energytech-startup/"
+    type: article
+    provider:
+      name: ArcticStartup
+      domain: arcticstartup.com
+    quality: 37
+    images:
+      - url: "https://arcticstartup.com/wp-content/uploads/2021/12/Enspired_468-scaled.jpg"
+        width: 2560
+        height: 1708
         isCached: true
   - title: "Fintech companies use alternate data to build credit profiles"
     excerpt: "Hyderabad: Small businesses in the unorganised segment are seldom in the good books of banks and lenders. Lack of financial transaction history to assess"

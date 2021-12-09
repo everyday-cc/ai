@@ -26,6 +26,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Wärtsilä partners with Microsoft to strengthen their Edge platform and industrialise Marine IoT"
+    excerpt: "Wärtsilä Voyage, in partnership with Microsoft, aims to reinforce the synergies within its end-to-end digital services portfolio"
+    publishedDateTime: 2021-12-08T22:00:00Z
+    webUrl: "https://www.vesselfinder.com/news/22366-Wrtsil-partners-with-Microsoft-to-strengthen-their-Edge-platform-and-industrialise-Marine-IoT"
+    type: article
+    provider:
+      name: VesselFinder
+      domain: vesselfinder.com
+    quality: 27
+    images:
+      - url: "https://static.vesselfinder.net/images/priv/b46a763b8550f68742beee078567c15f-768"
+        width: 768
+        height: 432
+        isCached: true
+
 secured: "Tqct67HgGMb8Met9iIBbzZl0tcQWuQ2hUYzJxZZhIOzMZDcVUNX1coHgpsTsGy4PM81ge3V1aJhNFol0ixU2urKv9fBKAkAD48G4DmF5nvg62noOW+KLvlwPtqjTEMVMQaq4hopaOZna8R+ULt2NtbaShuTkiOkYOJRVkpS+YdRb3HMpRQr5bFfqOej8LZncL/FNJxZdTr4JY8af9ndIimY8Ec9r0UXVf01k28sZcR371cqcCKVCVq/jbsU2LCILG+ZG+iWOcLAqijzpjZPuYZ4d3HEswsQdBPfc35VNWxzJjwULEdqcQup2FqVVr0rAxvZKDSY+p5Q7Tg8061qZXWIgz+uW+lzgK1QJEf2HHcw=;2URZv+EM1CGVfFg+Ks4hpA=="
 ---
 

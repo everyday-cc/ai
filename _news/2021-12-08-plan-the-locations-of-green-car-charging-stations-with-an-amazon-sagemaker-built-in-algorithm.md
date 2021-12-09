@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/plan-the-locations-o
 webUrl: "https://aws.amazon.com/blogs/machine-learning/plan-the-locations-of-green-car-charging-stations-with-an-amazon-sagemaker-built-in-algorithm/"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_m_166316213_2.jpg"
         width: 472
         height: 315
+        isCached: true
+  - title: "Amazon Introduces SageMaker Canvas. Just Another ML No-Code Platform?"
+    excerpt: "Amazon SageMaker Canvas aims to help business analysts build their own ML systems without dependence on data engineering teams."
+    publishedDateTime: 2021-12-09T08:30:00Z
+    webUrl: "https://analyticsindiamag.com/amazon-introduces-sagemaker-canvas-just-another-ml-no-code-platform/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/sage.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Amazon SageMaker Studio Lab from the Eyes of an MLOps Engineer"
     excerpt: "Invent 2021 conference, an announcement from Swami Sivasubramanian, Vice President for Amazon AI, caught my attention — the launch of Amazon SageMaker Studio Lab. Since the initial launch of the Amazon Machine Learning service at re:Invent 2015,"

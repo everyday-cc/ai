@@ -4,43 +4,25 @@
     {
       "path": "_news/2021-12-09-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
       "title": "Self-driving startup Robotics Research raises $228 mln in funding",
-      "excerpt": "LONDON, Dec 9 (Reuters) - Self-driving technology startup Robotic Research said on Thursday it has ... but that had now changed and the company's RR.AI commercial unit was now capitalising on it. \"That's one of the reasons we have sought investment now ...",
+      "excerpt": "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/",
-      "originalUrl": "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/",
+      "webUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
+      "originalUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T22:19:00-08:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp",
+      "publishedDateTime": "2021-12-08T21:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,9 +31,52 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI in Autos",
         "AI",
-        "AI in Autos"
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-tpa-tests-new-self-driving-wheelchairs.md",
+      "title": "TPA tests new self-driving wheelchairs",
+      "excerpt": "The motorized wheelchairs, similar to the ones you’d see in a supermarket, are free for passengers including those with mobility issues and injuries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtsp.com/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
+      "originalUrl": "https://www.wtsp.com/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wtsp.com/assets/WTSP/images/fd127d07-cefb-479c-8bbf-5b926dfc5e6d/fd127d07-cefb-479c-8bbf-5b926dfc5e6d_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
+      "cdnAmpWebUrl": "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
+      "publishedDateTime": "2021-12-08T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTSP",
+        "domain": "wtsp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1088,50 +1113,6 @@
       ]
     },
     {
-      "path": "_news/2021-11-26-artificial-intelligence-ethics-agreement-adopted-by-193-countries.md",
-      "title": "Artificial Intelligence Ethics Agreement adopted by 193 countries",
-      "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
-      "originalUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/World-News/headquarters_flags_michel_ravassard-71532c23-f38e-4881-9939-f84f2b790098.jpeg",
-          "width": 740,
-          "height": 452,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bna.bh",
-        "domain": "www.bna.bh",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-11-26-teslas-self-driving-business-is-powering-ahead-despite-setbacks.md",
       "title": "Tesla's Self-Driving Business Is Powering Ahead Despite Setbacks",
       "excerpt": "The run-up is partly due to Tesla’s solid execution, with deliveries for this year poised to grow by almost 70% to about 850,000 vehicles, despite the ongoing semiconductor shortage. Tesla’s sizable lead in the self-driving market has also traditionally been a very big driver of the company’s valuation.",
@@ -1163,6 +1144,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-artificial-intelligence-ethics-agreement-adopted-by-193-countries.md",
+      "title": "Artificial Intelligence Ethics Agreement adopted by 193 countries",
+      "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bna.bh/en/National/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
+      "originalUrl": "https://www.bna.bh/en/National/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/World-News/headquarters_flags_michel_ravassard-71532c23-f38e-4881-9939-f84f2b790098.jpeg",
+          "width": 740,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bna.bh",
+        "domain": "www.bna.bh",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1334,58 +1359,6 @@
         "name": "Automotive News",
         "domain": "autonews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-baidu-kicks-off-its-robotaxi-business-after-getting-the-ok-to-charge-fees-in-beijing.md",
-      "title": "Baidu kicks off its robotaxi business, after getting the OK to charge fees in Beijing",
-      "excerpt": "Effective Thursday, Baidu's Apollo unit that runs the robotaxi business can collect fares from passengers taking one of 67 self-driving cars in Beijing's suburban district of Yizhuang. While the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
-      "originalUrl": "https://www.cnbc.com/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106979826-1637738392441-gettyimages-1280199601-vcg111302456269.jpeg?v=1637738596",
-          "width": 4716,
-          "height": 3397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
-      "publishedDateTime": "2021-11-25T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

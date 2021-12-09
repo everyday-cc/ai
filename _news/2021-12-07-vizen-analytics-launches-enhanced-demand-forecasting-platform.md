@@ -25,33 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Big Data Analytics in Telecom Market 2022 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2026"
-    excerpt: "Dec 07, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “AI and Big Data Analytics in Telecom Market” report offers advanced research outline of the industry including definitions ..."
-    publishedDateTime: 2021-12-07T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-2022-with-geographic-segmentation-statistical-forecast-and-competitive-landscape-report-to-2026-2021-12-07"
+  - title: "Komprise adds support for AWS analytics services"
+    excerpt: "Komprise embraces new AWS innovations to accelerate file migrations to the cloud and maximize the use of cloud-native data analytics services"
+    publishedDateTime: 2021-12-09T07:55:00Z
+    webUrl: "https://www.ciol.com/komprise-adds-support-for-aws/"
+    ampWebUrl: "https://www.ciol.com/komprise-adds-support-for-aws/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/komprise-adds-support-for-aws/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
+      name: CIOL
+      domain: ciol.com
+    quality: 39
+  - title: "Komprise Adds Support For New AWS File Storage And Analytics Services"
+    excerpt: "Komprise announced expanded support for new Amazon Web Services (AWS) file services to accelerate petabyte-scale file data migrations to the cloud, while enabli"
+    publishedDateTime: 2021-12-09T07:51:00Z
+    webUrl: "https://technuter.com/tech/komprise-adds-support-for-new-aws-file-storage-and-analytics-services.html"
+    type: article
+    provider:
+      name: technuter.com
+      domain: technuter.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://technuter.com/wp-content/uploads/2020/01/Microsoft-390x205.jpg"
+        width: 390
+        height: 205
         isCached: true
-  - title: "PETRONAS avoids equipment failure with AI-infused AVEVA Predictive Analytics in the cloud"
-    excerpt: "Malaysia-based oil and gas company PETRONAS has achieved system expansion using cloud across 10 new sites, reduced downtime at onshore and offshore facilities and boosted operational efficiencies with AVEVA."
-    publishedDateTime: 2021-12-08T12:57:00Z
-    webUrl: "https://www.intelligentcio.com/apac/2021/12/08/petronas-avoids-equipment-failure-with-ai-infused-aveva-predictive-analytics-in-the-cloud/"
+  - title: "8% BTC hike more success for Quantum Inspired Machine Learning analytics engine Quantabotics"
+    excerpt: "Perfect timing from Toridion's Quantum Inspired Machine Learning powered financial analytics \"Quantabotics\" Issues a SBI smart buy in at 10:05 UTC analytically projecting the market had bottomed out."
+    publishedDateTime: 2021-12-07T13:35:00Z
+    webUrl: "https://www.linkedin.com/pulse/8-btc-hike-more-success-quantum-inspired-machine-learning-analytics-/"
     type: article
     provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 30
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 28
     images:
-      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2021/12/Picture-3-W.jpg"
-        width: 1000
-        height: 450
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGkVjVWv9QVRQ/article-cover_image-shrink_720_1280/0/1638883660386?e=1644451200&v=beta&t=Q28KlvXruiD0rqji3aGaHN6tl7RBbz5uNOGPBlMfhRc"
+        width: 761
+        height: 720
         isCached: true
   - title: "Cognitive Analytics Market to Be Worth $48 Billion By 2026"
     excerpt: "Polaris Market Research anticipates a 37.3 compound annual growth rate for cognitive analytics solutions worldwide for the next five years."

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-08-ai-trends-2022-spare-us-the-hype-we-want-business-results.md",
+      "title": "AI Trends 2022: Spare Us The Hype, We Want Business Results",
+      "excerpt": "The latest industry analyst predictions about artificial intelligence (AI) are out, and they’re certain to oust a ton of assumptions we’ve made to date.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa26692c756c16b9644f5a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/12/08/ai-trends-2022-spare-us-the-hype-we-want-business-results/amp/",
+      "publishedDateTime": "2021-12-08T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-healthcare-startup-sukiai-raises-55mn-led-by-march-capital.md",
       "title": "Healthcare startup Suki.AI raises $55mn led by March Capital",
       "excerpt": "Suki.AI Inc, a health-tech start-up, has raised $55 million (around ₹412 crore) in a Series C funding round led by March Capital, the company said in a statement. The round also saw participation from Philips Ventures, and existing investors such as ...",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -156,7 +208,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/articleshow/88162825.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -908,7 +960,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1139,7 +1191,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1180,50 +1232,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-university-wide-institute-to-integrate-natural-artificial-intelligence.md",
-      "title": "University-wide Institute to Integrate Natural, Artificial Intelligence",
-      "excerpt": "Harvard University on Tuesday launched the Kempner Institute for the Study of Natural and Artificial Intelligence, a new University-wide initiative standing at the intersection of neuroscience and artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://news.harvard.edu/gazette/story/2021/12/new-harvard-institute-to-study-natural-artificial-intelligence/",
-      "originalUrl": "https://hms.harvard.edu/news/university-wide-institute-integrate-natural-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.harvard.edu/wp-content/uploads/2021/11/AI_Social-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Medical School",
-        "domain": "harvard.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Autos"
       ]
     }
   ],

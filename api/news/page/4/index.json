@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-06-open-sourcing-human-rights-documentation-in-the-digital-age-why-machine-learning-isnt-a-silver-bullet.md",
+      "title": "Open-Sourcing Human Rights Documentation In The Digital Age — Why Machine Learning Isn’t A Silver Bullet",
+      "excerpt": "Increasingly, human rights violations are documented live on social media, only to be automatically erased for violating content moderation policies. Hadi al-Khatib, founder of Mnemonic, saves these audiovisual documents so they are available as evidence for lawyers and journalists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/",
+      "originalUrl": "https://www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a9fe130050db7974644f5a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ashoka/2021/12/06/open-sourcing-human-rights-documentation-in-the-digital-age---why-machine-learning-isnt-a-silver-bullet/amp/",
+      "publishedDateTime": "2021-12-06T05:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-smart-robot-market-2021-2028.md",
       "title": "Smart Robot Market 2021-2028",
       "excerpt": "The global smart robot market size is expected to reach USD 31.11 billion by 2027, exhibiting a CAGR of 23.1% during the forecast period. Rapid industrialization coupled with intelligent infrastructure projects will contribute positively to the growth of the market,",
@@ -449,7 +501,7 @@
       "originalUrl": "https://www.usnews.com/news/technology/articles/2021-12-05/sensetime-launches-hong-kong-ipo-to-raise-up-to-767-million-term-sheet",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -1145,57 +1197,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-05-report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation.md",
-      "title": "Report: 95% of tech leaders say that AI will drive future innovation",
-      "excerpt": "A majority of leaders also agreed that robots will be deployed across their organization to enhance nearly every business function.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/",
-      "originalUrl": "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/04/report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation/amp/",
-      "publishedDateTime": "2021-12-04T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

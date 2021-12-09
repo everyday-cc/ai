@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 789
     isCached: true
-
-related:
-  - title: "Crypto-advice from an AI adviser: What is the future for financial services?"
-    excerpt: "In the last five years we have seen digital investment platforms, robots giving financial advice, and the rise of cryptocurrency. How will financial services deal with what is coming around the corner?"
-    publishedDateTime: 2021-12-04T16:00:00Z
-    webUrl: "https://www.stuff.co.nz/business/the-monitor/126989719/cryptoadvice-from-an-ai-adviser-what-is-the-future-for-financial-services"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 36
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/t/f/1/1/image.related.StuffLandscapeSixteenByNine.1420x800.23ltw7.png/1638484422529.jpg"
-        width: 1420
-        height: 798
-        isCached: true
 
 secured: "VgTg2tK9LVHazTlVRyVpkGDtcspfjwRUIeA3ttKFrklVeYL3RP95xam0LTT0wlwiS4tagC4K1N6Vm7gVzBsXauFoH2imYXQII1A+l8kjNJzcpumrJPpHt2Sv/7qPutrohkmq5yhPPQULWXMELW2790JsG6fhL7aP+nRgzrM4gPmLMyA4YT+jUR5iD+Jd7bLzcH5V9+3/8GjYIvpbEjq4a5BUbg2ZqpgNh14BZUHih+px4dwM3jsSChJCkm1Pyp5moljcdZniz3UN10jVoxcgEXd2CU17Sis6W8IJz0PJ+InlGz5dOjtsth8cMkcw+woJG0UIQnLuO9/eaRL9n3o2x2jn0qIsIRMfvqOOBQaoK0o4yJ52mCEqbxXDooVNF+xCKyRbL/uLBBdTZ0MwmV4krI95qokVdnXjlZIbeEuOcpbNoIJIU0EqZXuz68b6EVnvmrCA2qAWlzx6N0EhZQmbVtYAWBmAAdMZPJSzjAso3CRDzPDxJhkmcIGrWgksNX7lmDecYwbBc/0wbp3RBH6Qag==;lw45Zjz5UxDTbxq1+WBP7Q=="
 ---

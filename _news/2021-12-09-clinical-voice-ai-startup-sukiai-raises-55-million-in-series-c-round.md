@@ -24,21 +24,39 @@ images:
     isCached: true
 
 related:
-  - title: "Suki, a Siri-like voice platform for doctors, raises $55 million"
-    excerpt: "Suki is an AI-powered voice platform that doctors can use to generate and retrieve medical notes, and reduce time-consuming administration."
-    publishedDateTime: 2021-12-07T16:14:00Z
-    webUrl: "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/"
-    ampWebUrl: "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/"
+  - title: "Self-driving startup Robotics Research raises $228 mln in funding"
+    excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
+    publishedDateTime: 2021-12-09T05:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 101
+  - title: "Self-Driving Startup Robotics Research Raises $228 Million in Funding"
+    excerpt: "Self-Driving Startup Robotics Research Raises $228 Million in Funding By Nick Carey LONDON (Reuters) - Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial ..."
+    publishedDateTime: 2021-12-09T06:29:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-09/self-driving-startup-robotics-research-raises-228-million-in-funding"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 81
+  - title: "Self-driving tech company Robotic Research lands $228M in first outside funding; Luminar among investors"
+    excerpt: "Self-driving tech company Robotic Research Inc. said Thursday it has raised $228 million in its first round of outside funding in the company's nearly two-decade history. The money comes from not just the regular crowd of venture capitalists."
+    publishedDateTime: 2021-12-09T06:00:00Z
+    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-company-robotic-research-lands-228m-first-outside-funding-luminar"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 7
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/9c849f8e-1c22-4954-b3fa-a6a10ddac299_LeticiaRamireznote-1.png?w=1200&strip=all"
-        width: 1199
-        height: 601
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/LUMINAR-MAIN_i.png"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "+FUYADMlCwiE5IQGvK/6Z28iVFqfi584Dee9yQZqwaB4E7enz+/UysV2FIZdE0DwcWl2nWs70goil5P7uiE3/4fkjqBvnJEHJ7FzT8jR8r66lvXQVznMtPeU5xFk9PEwvdVZ3bEIdrOkOdsF6xNv5p3Zlbvsku12OSrG8PlVMB9p4X4fNu5YiFYC+lSscnOocN9IbHm8rSwqTc0kImIs2eSjtEXnSg67EYjBYLz1TMizGzspdcfsw5KjRt8gAx6N8C+qiyqQnLDJENr5UouUJQ76QS1ASHoJvZ4JbDGhtjxSj5XnmqJMi7lzDRyU8mNjjj4sBSa2m9iQPgYIoEiwYgfmnmsIEtZ6loafG80Z/oM=;JYWNXBuN9tdXzgCIlGkYLw=="
