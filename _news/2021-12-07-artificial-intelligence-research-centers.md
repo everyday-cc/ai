@@ -42,6 +42,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Google’s real challengers could be independent AI researchers"
+    excerpt: "Many say we need independent research on AI. Good news on that came from Timnit Gebru, a former ethical AI researcher at Alphabet Inc’s Google. She had been fired a year ago following a dispute over a paper critical of large AI models,"
+    publishedDateTime: 2021-12-07T17:02:00Z
+    webUrl: "https://www.livemint.com/opinion/googles-real-challengers-could-be-independent-ai-researchers-11638896252429.html"
+    ampWebUrl: "https://www.livemint.com/opinion/googles-real-challengers-could-be-independent-ai-researchers/amp-11638896252429.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/googles-real-challengers-could-be-independent-ai-researchers/amp-11638896252429.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2021/12/07/600x338/Google_1638896315418_1638896328893.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "C3QR0X87OcwuqG1On6GuVCBt2DSKRKgv0vJsdH66B74i3MPCZnB6MulKmusgNyBbaHtEP8lgepXOujAI3k82z58fa5atKiN4bZitN1vOfNs/GymNbbZCoVcOlCmMdO+6u51NFMrZmv4rzke2oUD1PmPlmJ4lh4BxUWsaxCVJDHcaBmsZPX/k5OYWWGl2PDBbcPbp6rEWY3+mkwHpS2U0JtTHijitAzyzxRHlOWGaY0Ez1eGTCrTTouEn6NASn6CmWmYiXcStizx1LpyPsfnwOCbjwSPzM/8aF8ITnmO9M/8ti2JAhipfGgaHY1QQezyujYpV9AIFxcGMbJBP6lAacgxHamgRHCq/5fgH2C/xsCwKc4OM0k1ff2ayST6BhnXZA7YFQ7NhfOjJJcobDp3rrRcm7lLVtMTufvSTgyKcHnZ+OrTGGV6zrxBx+YQtBauuB5VDjFtRbP65OptLYXTfaFzOvo+ygElPVeX0oXnbQWUOGy0a20jLU1oDOzZU2Q7EVhV9VHQ+oVrijA5gmWW0kw==;UB03173OKJHtbR5Hv/jobw=="
 ---

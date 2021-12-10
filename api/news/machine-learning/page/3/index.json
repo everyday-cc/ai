@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-30-the-good-the-bad-and-the-ugly-of-deep-learning-technology.md",
+      "title": "The good, the bad and the ugly of deep learning technology",
+      "excerpt": "The use of deep learning for social media and online content generation has gained equal parts attraction and concern in recent years. With a reputation as a cog in the fake news machine, deep learning has been a driving force behind political propaganda,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
+      "originalUrl": "https://www.itproportal.com/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/the-good-the-bad-and-the-ugly-of-deep-learning-technology/",
+      "publishedDateTime": "2021-11-30T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-nasas-deep-learning-ai-discovers-301-planets-hiding-in-plain-sight-that-humans-missed.md",
       "title": "NASA's Deep Learning AI Discovers 301 Planets Hiding In Plain Sight That Humans Missed",
       "excerpt": "Thanks to a new deep neural network called ExoMiner, NASA has added a whopping 301 exoplanets that human eyes had missed. These exoplanets have been added to the 4,569 other planets that have been validated by NASA.",
@@ -1322,50 +1365,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study.md",
-      "title": "Artificial Intelligence and Machine Learning, Cloud Computing, and 5G Will Be the Most Important Technologies in 2022, Says New IEEE Study",
-      "excerpt": "Chief information officers, chief technology officers, and technology leaders globally surveyed on key technology trends, priorities, and predictions for 2022 and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/vulnerabilities-threats/artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study",
-      "originalUrl": "https://www.darkreading.com/vulnerabilities-threats/artificial-intelligence-and-machine-learning-cloud-computing-and-5g-will-be-the-most-important-technologies-in-2022-says-new-ieee-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.darkreading.com/images/og-image.jpg",
-          "width": 342,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T00:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

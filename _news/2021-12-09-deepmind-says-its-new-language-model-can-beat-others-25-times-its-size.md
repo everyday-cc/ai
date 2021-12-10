@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/12/08/1041557/deepmind-languag
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/"
 type: article
 quality: 159
-heat: 210
+heat: 220
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fbuttkick.jpg&signature=c04853f72d2f4a282900d68fdec7b802"
         width: 1280
         height: 640
+        isCached: true
+  - title: "DeepMind’s latest AI shines light on dark room of molecules"
+    excerpt: "DeepMind has created the best chess player, one of the most accurate weather forecasting systems and a poker player that could give the card sharks of Las Vegas"
+    publishedDateTime: 2021-12-10T00:01:00Z
+    webUrl: "https://www.thetimes.co.uk/article/deepminds-latest-ai-shines-light-on-dark-room-of-molecules-thww79qk3"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 54
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F004fe298-591b-11ec-81f2-17f963b74220.jpg?crop=3680%2C2070%2C92%2C107&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "DeepMind neural networks open new window to understanding electron interactions"
     excerpt: "Neural networks can be used to build a more accurate map of the density and interaction between electrons than was previously attainable, new research from DeepMind shows. The result is a step towards enabling scientists to better understand the interactions between electrons,"

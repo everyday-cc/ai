@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-changing-fu
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-changing-future-radiology-michael-spencer-"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,82 @@ images:
     isCached: true
 
 related:
+  - title: "Why AI is the future of fraud detection"
+    excerpt: "A strategic and effective approach to online fraud detection will be needed in order to tackle increasingly sophisticated threats to online retailers."
+    publishedDateTime: 2021-12-09T23:50:00Z
+    webUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/"
+    ampWebUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/06/LOGIN-FRAUD-e1639061228103.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Why Chatbots Failed and the Future of Conversational AI"
+    excerpt: "One of the first uses of AI in customer service was in chatbots. These days, “chatbot” almost sounds like a dirty word. It comes up again and again in my conversations with ot"
+    publishedDateTime: 2021-12-07T06:30:00Z
+    webUrl: "https://www.entrepreneur.com/article/400644"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1638547674-GettyImages-1206801125.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Common but Different Futures: AI Inequity and Global Emissions"
+    excerpt: "Some researchers and policymakers suggest that Artificial Intelligence or AI will provide the most game-changing solutions to climate change."
+    publishedDateTime: 2021-12-09T06:57:00Z
+    webUrl: "https://www.orfonline.org/research/common-but-different-futures/"
+    ampWebUrl: "https://www.orfonline.org/research/common-but-different-futures/"
+    cdnAmpWebUrl: "https://www-orfonline-org.cdn.ampproject.org/c/s/www.orfonline.org/research/common-but-different-futures/"
+    type: article
+    provider:
+      name: Observer Research Foundation
+      domain: orfonline.org
+    quality: 59
+    images:
+      - url: "https://www.orfonline.org/wp-content/uploads/2021/12/Pic-002.jpg"
+        width: 347
+        height: 439
+        isCached: true
+  - title: "Vision tech developments give a glimpse of the future"
+    excerpt: "Advances in assistive technology have removed many access barriers for people with vision loss. But it's the development of visual prosthesis that has the potential to offer a whole new way of 'seeing' the world."
+    publishedDateTime: 2021-12-07T17:50:00Z
+    webUrl: "https://medicalxpress.com/news/2021-12-vision-tech-glimpse-future.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-12-vision-tech-glimpse-future.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-vision-tech-glimpse-future.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/vision-tech-developmen.jpg"
+        width: 1000
+        height: 667
+        isCached: true
+  - title: "How Artificial Intelligence Enables Lasers to be Weapons of the Future"
+    excerpt: "The Navy has been researching laser technologies for decades and lasers have recently matured to the point where they are being integrated and tested on ships for operational use."
+    publishedDateTime: 2021-12-05T11:00:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/how-artificial-intelligence-enables-lasers-be-weapons-future-197486"
+    type: article
+    provider:
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 37
+    images:
+      - url: "https://nationalinterest.org/sites/default/files/main_images/laser%20uss%20ponce%20flickr.jpg"
+        width: 1260
+        height: 838
+        isCached: true
   - title: "The Scope & Future of Responsible AI"
     excerpt: "Widely referred to as Responsible AI, the concept has been around for the longest time but has recently become a mainstream conversation point."
     publishedDateTime: 2021-12-06T08:30:00Z
@@ -44,6 +120,24 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Artificial Intelligence key to traffic solutions in cities of the future"
+    excerpt: "Coupled with existing systems comprised of network cameras and monitoring solutions, the innovation and application of AI heralds a new era in traffic management. Artificial Intelligence key to traffic solutions in cities of the future."
+    publishedDateTime: 2021-12-06T08:13:00Z
+    webUrl: "https://www.constructionweekonline.com/business/insights/artificial-intelligence-key-to-traffic-solutions-in-cities-of-the-future"
+    type: article
+    provider:
+      name: Construction Week Online
+      domain: constructionweekonline.com
+    quality: 16
+  - title: "Why Artificial Intelligence is considered key to traffic solutions across cities of the future"
+    excerpt: "Coupled with existing systems comprised of network cameras and monitoring solutions, the innovation and application of artificial intelligence heralds a new era in traffic management. Why Artificial Intelligence is considered key to traffic solutions across cities of the future."
+    publishedDateTime: 2021-12-08T11:44:00Z
+    webUrl: "https://www.constructionweekonline.com/business/insights/artificial-intelligence-key-to-traffic-solutions-in-cities-of-the-future"
+    type: article
+    provider:
+      name: Construction Week Online
+      domain: constructionweekonline.com
+    quality: 5
 
 secured: "+d7VlspziKoRLg0u553IEHgFL2r75JvlLVWZ8MBCHoTLi2MuPWlNRcVsthheA8TP04gcVk+h/K6V6DIpNeyk46r66ngznIEaF1rEAGOlCazYK7Qt05kF3DPR9XmUSXChpIVUftZxMqkADTCieCDA/Jty73JQhw7n5JnretLzdpirdXpymSomPszIeUv0OJoxRK7a9FaYxFh/wdYLb0wHQljVeQT6bPS78GcYfe9eVWOHgxU52fWHD01gXQUxlF3uo3nuQcJ9igzk7k0pEISYqU9aTtd3fDpCu5r4H3W/ojJ3+dESwUL+dt7N/EOtPxivh2dXG71yXK3ojfaQTLlnYhIH2mfiQp8gawM+lIWOqe3lnOwbfB1fK8nzpVlEmuruebOvx/jngudNVLiGbxkeTIJ/w1Zi/bWKs12Gj7IPgO3LkGdwv1b2rb558Z7kU1mxo9by1ml+2RrvZtnyBmFn+qtSNOiTPM/YGW2AT7e2X6KqaFLnO2OySCn54Uw0emHG8k37DjWVsA/Bamd7AaodXg==;DDQwd7LujSURmnb1G+p/Uw=="
 ---

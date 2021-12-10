@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-05-these-tiny-xenobot-robots-can-biologically-reproduce-to-create-a-family.md",
+      "title": "These Tiny Xenobot Robots Can Biologically Reproduce to Create a Family!",
+      "excerpt": "A team of researchers has developed a new kind of robot called \"Xenobot\" that can biologically reproduce to create \"baby\" Xenobots.",
+      "sourceUrl": null,
+      "webUrl": "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/",
+      "originalUrl": "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beebom.com/wp-content/uploads/2021/12/shutterstock_2010089492-min.jpg?w=750&quality=75",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/",
+      "cdnAmpWebUrl": "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/tiny-xenobot-robots-can-biologically-reproduce-create-family/amp/",
+      "publishedDateTime": "2021-12-04T10:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Beebom",
+        "domain": "beebom.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-05-report-95-of-tech-leaders-say-that-ai-will-drive-future-innovation.md",
       "title": "Report: 95% of tech leaders say that AI will drive future innovation",
       "excerpt": "A majority of leaders also agreed that robots will be deployed across their organization to enhance nearly every business function.",
@@ -232,6 +275,41 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-cognitive-rehab-one-patients-painstaking-path-through-long-covid-19-therapy.md",
+      "title": "Cognitive rehab: One patient’s painstaking path through long COVID-19 therapy",
+      "excerpt": "It is one of many strategies Lewis, 34, has learned from “cognitive rehab,” an intensive ... administrative director of outpatient therapy services, said data on patients’ results was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/nation-world/cognitive-rehab-one-patients-painstaking-path-through-long-covid-19-therapy/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/cognitive-rehab-one-patients-painstaking-path-through-long-covid-19-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/nation-world/cognitive-rehab-one-patients-painstaking-path-through-long-covid-19-therapy/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/cognitive-rehab-one-patients-painstaking-path-through-long-covid-19-therapy/?amp=1",
+      "publishedDateTime": "2021-12-03T19:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1109,101 +1187,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-1-dividend-king-is-leveraging-ai-to-stay-on-top.md",
-      "title": "1 Dividend King Is Leveraging AI to Stay On Top",
-      "excerpt": "With new entrants using artificial intelligence to disrupt the industry, this company is taking things into its own hands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveraging-artificial-intelligence/",
-      "originalUrl": "https://www.fool.com/investing/2021/12/03/1-dividend-king-leveraging-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/655460/couple-meets-insurance-agent-at-home-getty.jpg",
-          "width": 2120,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-global-assistive-robotics-market-size-to-reach-usd-2516-billion-in-2028.md",
-      "title": "Global Assistive Robotics Market Size to Reach USD 25.16 Billion in 2028",
-      "excerpt": "Rapidly increasing geriatric population, advancements in Artificial Intelligence, and surging prevalence of autism are some key factors driving market revenue growth Market Size – USD 5.05 Billion in 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/",
-      "originalUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/12/Assistive-Robotics-Market.jpg",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/",
-      "publishedDateTime": "2021-12-03T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

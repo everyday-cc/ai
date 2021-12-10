@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-details-its-next-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
 type: article
 quality: 117
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure widens its space ecosystem through deals with Airbus and data partners"
+    excerpt: "Today, Azure Space is lifting the curtain on a new array of space-centric offerings, including satellite imagery from Airbus, software-based communication links from ST Engineering iDirect and geospatial data analysis from Esri, Blackshark.ai and Orbital ..."
+    publishedDateTime: 2021-12-09T14:46:00Z
+    webUrl: "https://www.geekwire.com/2021/microsoft-azure-widens-its-space-ecosystem-through-deals-with-airbus-and-data-partners/"
+    ampWebUrl: "https://www.geekwire.com/2021/microsoft-azure-widens-its-space-ecosystem-through-deals-with-airbus-and-data-partners/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-azure-widens-its-space-ecosystem-through-deals-with-airbus-and-data-partners/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 91
   - title: "Microsoft can produce drone-like photography from space with the power of Azure and AI"
     excerpt: "Microsoft announced several new partnerships and capabilities for Azure Space. The company's tech is being used to take high-res images from space and to help respond to disasters."
     publishedDateTime: 2021-12-09T17:37:00Z

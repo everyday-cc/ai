@@ -2,6 +2,207 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-08-aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis.md",
+      "title": "AWS Deep Learning AMIs: New framework-specific DLAMIs for production complement the original multi-framework DLAMIs",
+      "excerpt": "Since its launch in November 2017, the&nbsp;AWS Deep Learning Amazon Machine Image (DLAMI) has been the preferred method for running deep learning frameworks on Amazon Elastic Compute Cloud (Amazon EC2). For deep learning practitioners and learners who want to accelerate deep learning in the cloud, the",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T13:50:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-the-uks-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai.md",
+      "title": "The U.K.’s new AI transparency standard is a step closer to accountable AI",
+      "excerpt": "The UK Government launched a new algorithmic transparency standard last week. Here's what it means for people and society.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/",
+      "originalUrl": "https://venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1287119472.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/the-u-k-s-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai/amp/",
+      "publishedDateTime": "2021-12-08T13:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-clinical-text-mining-using-the-amazon-comprehend-medical-new-snomed-ct-api.md",
+      "title": "Clinical text mining using the Amazon Comprehend Medical new SNOMED CT API",
+      "excerpt": "Mining medical concepts from written clinical text, such as patient encounters, plays an important role in clinical analytics and decision-making applications, such as population analytics for providers, pre-authorization for payers, and adverse-event detection for pharma companies. Medical concepts",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/clinical-text-mining-using-the-amazon-comprehend-medical-new-snomed-ct-api/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/clinical-text-mining-using-the-amazon-comprehend-medical-new-snomed-ct-api/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T13:08:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-plan-the-locations-of-green-car-charging-stations-with-an-amazon-sagemaker-built-in-algorithm.md",
+      "title": "Plan the locations of green car charging stations with an Amazon SageMaker built-in algorithm",
+      "excerpt": "While the fuel economy of new gasoline or diesel-powered vehicles improves every year, green vehicles are considered even more environmentally friendly because they’re powered by alternative fuel or electricity. Hybrid electric vehicles (HEVs), battery only electric vehicles (BEVs), fuel cell electric",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/plan-the-locations-of-green-car-charging-stations-with-an-amazon-sagemaker-built-in-algorithm/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/plan-the-locations-of-green-car-charging-stations-with-an-amazon-sagemaker-built-in-algorithm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/10/fig-92-1-947x630.png",
+          "width": 947,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T12:48:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-facebook-says-its-new-ai-can-identify-more-problems-faster.md",
       "title": "Facebook Says Its New AI Can Identify More Problems Faster",
       "excerpt": "Shot Learner” system doesn’t need to see as many examples to identify troublesome posts, and it works in more than 100 languages.",
@@ -49,49 +250,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-tpa-tests-new-self-driving-wheelchairs.md",
-      "title": "TPA tests new self-driving wheelchairs",
-      "excerpt": "The motorized wheelchairs, similar to the ones you’d see in a supermarket, are free for passengers including those with mobility issues and injuries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtsp.com/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
-      "originalUrl": "https://www.wtsp.com/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wtsp.com/assets/WTSP/images/fd127d07-cefb-479c-8bbf-5b926dfc5e6d/fd127d07-cefb-479c-8bbf-5b926dfc5e6d_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
-      "cdnAmpWebUrl": "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
-      "publishedDateTime": "2021-12-08T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTSP",
-        "domain": "wtsp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -156,7 +314,7 @@
       "originalUrl": "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -552,7 +710,7 @@
       "originalUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1051,134 +1209,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-to-scale-services-in-an-unscalable-industry-this-founder-built-a-robot-painter.md",
-      "title": "To Scale Services in an Unscalable Industry, This Founder Built a Robot Painter",
-      "excerpt": "RENTON, WA / ACCESSWIRE / December 8, 2021 / The pandemic has served as a wake-up call for many. From shortages of so-called ‘essentials'",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/to-scale-services-in-an-unscalable-industry-this-founder-built-a-robot-painter-1031031455",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/to-scale-services-in-an-unscalable-industry-this-founder-built-a-robot-painter-1031031455",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.accesswire.com/users/newswire/images/675576/euxfUW-Mhb0inlIf57sL1SXFVuOV6meOZo4bwEwsAVQlHpiam__4WY0XU4uJh9ItPskYAek4wnFDA0ps2o9uetkFndDgLbA3DzpHZtffEe0a9BGlzSlNCMDZrUCe2yMoZWJMR6Yb.jpg",
-          "width": 1000,
-          "height": 1158,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-leading-employers-adopt-criteria-to-mitigate-algorithmic-bias-in-workforce-decisions.md",
-      "title": "Leading Employers Adopt Criteria To Mitigate Algorithmic Bias In Workforce Decisions",
-      "excerpt": "More than a dozen of the world's leading employers today announced that they are adopting criteria to mitigate data and algorithmic bias",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/leading-employers-adopt-criteria-to-mitigate-algorithmic-bias-in-workforce-decisions-301439946.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/leading-employers-adopt-criteria-to-mitigate-algorithmic-bias-in-workforce-decisions-301439946.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc.md",
-      "title": "JPIN announces strategic investment in AI-driven fintech company TSLC",
-      "excerpt": "The new capital will be used to fuel the growth of TSLCs digital lending operations, grow its global talent pool, step up business development, deepen its AI and predictive analytics capabilities and expand into selecting emerging and frontier markets.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/articleshow/88162825.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/articleshow/88162825.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-5508,msid-88162849/ai.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/amp_articleshow/88162825.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/amp_articleshow/88162825.cms",
-      "publishedDateTime": "2021-12-08T00:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

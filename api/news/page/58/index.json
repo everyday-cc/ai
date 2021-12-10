@@ -2,6 +2,92 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-10-26-ai-estimated-to-provide-10-boost-to-uk-gdp-by-2030.md",
+      "title": "AI estimated to provide 10% boost to UK GDP by 2030",
+      "excerpt": "Capabilities provided by artificial intelligence (AI) systems and related technologies such as robots and driverless vehicles could provide a 10% boost to the UK economy by 2030, but there are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030?_gl=1*iphwe2*_ga*MzEzNzc3ODIzLjE1NjE2Mjk1NzY.*_ga_TQKE4GS5P9*MTYzNDU3MDQ1NS4zMDguMS4xNjM0NTcwNTgwLjA.&_ga=2.154875644.53959175.1634552366-313777823.1561629576",
+      "originalUrl": "https://www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030?_gl=1*iphwe2*_ga*MzEzNzc3ODIzLjE1NjE2Mjk1NzY.*_ga_TQKE4GS5P9*MTYzNDU3MDQ1NS4zMDguMS4xNjM0NTcwNTgwLjA.&_ga=2.154875644.53959175.1634552366-313777823.1561629576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-brain-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252507990/AI-estimated-to-provide-10-boost-to-UK-GDP-by-2030?amp=1",
+      "publishedDateTime": "2021-10-26T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-pepsico-hiring-150-in-dallas-for-new-digital-hub-leveraging-ai-and-machine-learning.md",
+      "title": "PepsiCo hiring 150 in Dallas for new ‘digital hub’ leveraging AI and machine learning",
+      "excerpt": "PepsiCo’s chief strategy and transformation officer describes the new high-tech team as a first for legacy consumer packaged goods brands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beveragedaily.com/Article/2021/10/26/PepsiCo-s-new-Digital-Hubs-to-develop-AI-and-machine-learning?utm_source=copyright&utm_medium=OnSite&utm_campaign=copyright",
+      "originalUrl": "https://www.msn.com/en-us/finance/companies/pepsico-hiring-150-in-dallas-for-new-e2-80-98digital-hub-e2-80-99-leveraging-ai-and-machine-learning/ar-AAPYqqF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/beveragedaily.com/news/r-d/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning/12958789-1-eng-GB/PepsiCo-s-new-Digital-Hubs-to-develop-AI-and-machine-learning.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T07:38:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "beveragedaily.com/article/2021/10/26/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning?utm_source=copyright&utm_medium=onsite&utm_campaign=copyright",
+        "domain": "beveragedaily.com/article/2021/10/26/pepsico-s-new-digital-hubs-to-develop-ai-and-machine-learning?utm_source=copyright&utm_medium=onsite&utm_campaign=copyright",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-fintech-mortgage-lender-button-finance-finalizes-2m-seed-round.md",
       "title": "Fintech Mortgage Lender Button Finance Finalizes $2M Seed Round",
       "excerpt": "Button Finance, Inc., a Fintech mortgage lender focused on home equity, announced that it has finalized a $2 million seed round. The proceeds should allow Button Finance to recruit talent and to further develop its proprietary technology.",
@@ -1074,100 +1160,6 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details.md",
-      "title": "IIT Delhi to offer MTech in Machine Intelligence and Data Science. Check details",
-      "excerpt": "IIT Delhi's Senate, the faculty body responsible for taking all major educational decisions, has approved the proposed programme titled ‘M Tech in Machine Intelligence and Data Science’ (MINDS)",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html",
-      "originalUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details-11635239982902.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/10/26/600x338/185614e0-310a-11ec-901b-e0eb6ffe225f_1635240619247_1635240635839.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/iit-delhi-to-offer-mtech-in-machine-intelligence-and-data-science-check-details/amp-11635239982902.html",
-      "publishedDateTime": "2021-10-26T02:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-ai-powered-spend-management-platform-yokoy-secures-26m.md",
-      "title": "AI-powered spend management platform Yokoy secures $26M",
-      "excerpt": "Yokoy, a company developing spend management tools for enterprises, has raised $26 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/",
-      "originalUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/ai-powered-spend-management-platform-yokoy-secures-26m/amp/",
-      "publishedDateTime": "2021-10-26T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

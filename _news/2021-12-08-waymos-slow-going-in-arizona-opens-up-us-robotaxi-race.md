@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Waymo's slow-going in Arizona opens up U.S. robotaxi race"
-excerpt: "Alphabet Inc's Waymo risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches."
-publishedDateTime: 2021-12-08T12:30:00Z
-originalUrl: "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/"
-webUrl: "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/"
+title: "Waymo's slow-going in Arizona opens up US robotaxi race"
+excerpt: "Alphabet Inc's Waymo risks losing its lead in the ... of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field."
+publishedDateTime: 2021-12-08T13:31:00Z
+originalUrl: "https://www.channelnewsasia.com/business/waymos-slow-going-arizona-opens-us-robotaxi-race-2367096"
+webUrl: "https://www.channelnewsasia.com/business/waymos-slow-going-arizona-opens-us-robotaxi-race-2367096"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/kcukEDS_xfrmW9E7pUxyC0dZjbw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VWCAES5GCZLOFGZLTSQFXKL66Y.jpg"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL"
     width: 1200
-    height: 628
+    height: 676
     isCached: true
 
 related:
@@ -85,6 +81,6 @@ related:
         height: 800
         isCached: true
 
-secured: "l2ArVRFdHXNtCjegxfRoHB60svv/7gEzb1Zom+TE+Yp5vtB2lVlBcckDwUTwhdHCnFMLJxF8VB/jB3fBMMTlZjNumTK6WfQCKQVvaWSv+U0SrYlYGQVX/3iaAxc0mhVv4acqczVQrPcrl067rX7g1N+2SLf133rETvjqyAr6DGGFGve60vG+ARTp3treUjREUEez8Mv3Z0T3hPX7aZHUzohfMzNS/0qhfFkz7vp7J9lol/lpz2RxOT3Oa6ZkPxdOZ5IBD4I6mn6dvWYNL1wXiwWbtp6CDQgmfVaR1AQjHnKXYUdAUmEV0X8AtoxqFc1xUdvKN8uRzPOkwXveAfbUBWf4In8ZFakVTnSEJ24c3kAJ7IjeMbWuMhebxFhI7wOEbl7xvlqAvEIq5kA6Nvr00rX4qu9jsY+IVXOE0b2ZWyMK7uucWRHsFX8AN1e39KndPQH+c/O9TkmY21FDeop83lK+16HB7jCzoJ48GOXDtJ1vWjYScSx1h0dHy9yJlJyKNpVC1lTwcJquzcbMeuBmOg==;uw5tiLHYL4tfHdinq6XmYA=="
+secured: "juTq4SdO4MsRe54fZI96TC0BGbwDt7Z4lkEDw9f/3B3nmZLE3qRxgnrX2hcP64TP8fQ1DBqXVrAesy2zYmoQHBcbwy8xPrbICcJWXTInowpP1j61ONJIsSI+k9pHpGK+XRCQkPovxekAK3xPYlPjKUtUgnqAdzwfCvpxMYWiRgUK1TGy6ht4xOGUq0urfOXddai/WkPZ2kHJydR81mcH1/Mb/ahb61Uwqed/wexfGNtt1VMYv2wqql1Bpgl37KmUZH1iY4Lw7aJo2EYTCGsEJm7ONjtnRPfUcJooy0MlQHEzD9pENZpiRW27KGhJL1NdwDWuGr7nA13HFYgckjaSr6zr8e29kx+PzFG0Jh09zEw=;GvPi/hXi0LAXLImYt57YpA=="
 ---
 

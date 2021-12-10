@@ -41,20 +41,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Why Chatbots Failed and the Future of Conversational AI"
-    excerpt: "One of the first uses of AI in customer service was in chatbots. These days, “chatbot” almost sounds like a dirty word. It comes up again and again in my conversations with ot"
-    publishedDateTime: 2021-12-07T06:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/400644"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1638547674-GettyImages-1206801125.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "New Center for Artificial Intelligence"
     excerpt: "The new centre conducts basic and application-oriented research on the topic of artificial intelligence (AI) that covers the entire"
     publishedDateTime: 2021-12-09T08:20:00Z

@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Microsoft Azure widens its space ecosystem through deals with Airbus and data partners"
+    excerpt: "Today, Azure Space is lifting the curtain on a new array of space-centric offerings, including satellite imagery from Airbus, software-based communication links from ST Engineering iDirect and geospatial data analysis from Esri, Blackshark.ai and Orbital ..."
+    publishedDateTime: 2021-12-09T14:46:00Z
+    webUrl: "https://www.geekwire.com/2021/microsoft-azure-widens-its-space-ecosystem-through-deals-with-airbus-and-data-partners/"
+    ampWebUrl: "https://www.geekwire.com/2021/microsoft-azure-widens-its-space-ecosystem-through-deals-with-airbus-and-data-partners/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-azure-widens-its-space-ecosystem-through-deals-with-airbus-and-data-partners/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 91
   - title: "Microsoft-owned Nuance could limit growth of newer AI voice entrants in healthcare"
     excerpt: "AI voice-based clinical assistant startup Suki bagged $55 million in Series C funding, boosting its valuation to $400 million. The company will use the fresh capital to expand its health system partnerships and advance AI capabilities of its platform,"
     publishedDateTime: 2021-12-09T05:56:00Z

@@ -2,6 +2,93 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-11-30-eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability.md",
+      "title": "Eftpos expands security kit bag with new AI anti-fraud capability",
+      "excerpt": "Eftpos has switched on a new AI anti-fraud online capability as the Australian debit payments provider continues to expand its security features. The new capability is underpinned by a fraud detection engine that uses AI and machine learning to predict individual behaviour in real time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability/",
+      "originalUrl": "https://www.zdnet.com/article/eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability/",
+      "publishedDateTime": "2021-11-29T20:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-trans-ai-will-propel-artificial-general-intelligence-to-superintelligence.md",
+      "title": "Trans-AI will propel Artificial General Intelligence to Superintelligence",
+      "excerpt": "The critical issue is that Artificial Intelligence is weak and narrow, instead of being trans-disciplinary AI or true machine intelligence and learnin..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-87995459,imgsize-1900172,width-1200,height-628,overlay-etcio/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
+      "publishedDateTime": "2021-11-29T19:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-botto-the-decentralized-aihuman-artist-makes-its-first-million.md",
       "title": "Botto, the decentralized AI/human artist, makes its first million",
       "excerpt": "An AI algorithm called Botto has made somewhere around US$1.3 million at auction for its first six NFT artworks. Botto generates thousands of images, and a community of humans vote to influence its direction and decide which pieces go to auction.",
@@ -1096,101 +1183,6 @@
         "AI in Robotics",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-government-launches-unique-face-recognition-tech-for-pensioners.md",
-      "title": "Government launches 'unique' face recognition tech for pensioners",
-      "excerpt": "\"The central government has been sensitive to the needs of pensioners and to ensure ease of living for them. Soon after coming to power in 2014, the government decided to introduce and implement digital life certificate for the pensioners.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/articleshow/87985779.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/articleshow/87985779.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-59696,msid-87985779/government-launches-unique-face-recognition-tech-for-pensioners.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/government-launches-unique-face-recognition-tech-for-pensioners/amp_articleshow/87985779.cms",
-      "publishedDateTime": "2021-11-29T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-cyber-monday-vacuum-deals-2021-todays-biggest-savings.md",
-      "title": "Cyber Monday vacuum deals 2021: today's biggest savings",
-      "excerpt": "Multiple control options – including touch and voice – and the 100-hour battery life make it a convenient and low-effort way to keep your home clean. Shark AV993 IQ Robot Vacuum: $379.99 Shark ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/black-friday/best-black-friday-vacuum-deals",
-      "originalUrl": "https://www.techradar.com/uk/black-friday/best-black-friday-vacuum-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TRr7iHHnTgY7byfwZYbziY-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

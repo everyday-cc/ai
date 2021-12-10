@@ -2,6 +2,91 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-10-28-relationship-intelligence-startup-staircase-ai-raises-4m-to-accelerate-go-to-market-plans.md",
+      "title": "Relationship intelligence startup Staircase AI raises $4M to accelerate go-to-market plans",
+      "excerpt": "The seed round included Disruptive AI and StageOne Ventures. Founded in 2019, Staircase AI offers a platform that uses advanced machine learning to analyze thousands of digital engagements between companies and their existing customers.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/10/27/relationship-intelligence-startup-staircase-ai-raises-4m-accelerate-go-market-plans/",
+      "originalUrl": "https://siliconangle.com/2021/10/27/relationship-intelligence-startup-staircase-ai-raises-4m-accelerate-go-market-plans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/10/staircaseai.png",
+          "width": 950,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T19:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-28-delta-airlines-using-facial-recognition-to-check-in-travelers.md",
+      "title": "Delta Airlines Using Facial Recognition to Check-in Travelers",
+      "excerpt": "A new facial recognition technology being used by Delta Airlins will analyze people's faces and compare them to passport information stored in a TSA database. Local Health Departments Prepare As ...",
+      "sourceUrl": null,
+      "webUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/",
+      "originalUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/A37/DED/A37DED67A23E096BAE785B57DF9F72CA.jpg?Expires=1729987200&KeyName=mcpkey1&Signature=aurFBxgHrBcuZZ6Law-LjsYkO8k",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp",
+      "cdnAmpWebUrl": "https://detroit-cbslocal-com.cdn.ampproject.org/c/s/detroit.cbslocal.com/video/6147990-delta-airlines-using-facial-recognition-to-check-in-travelers/?amp",
+      "publishedDateTime": "2021-10-27T19:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Detroit",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-28-global-computer-vision-in-healthcare-market-2021-by-key-players-segmentation-industry-growth-opportunities-and-forecast-by-2027.md",
       "title": "Global Computer Vision in Healthcare Market 2021 by Key Players, Segmentation, Industry Growth, Opportunities and Forecast by 2027",
       "excerpt": "Global Computer Vision in Healthcare Market 2021-2027 unveiled by MarketsandResearch.biz contains an extensive assessment of the business vertical and features the distinctive market segments. The report provides brief information about market size,",
@@ -1063,101 +1148,6 @@
         "name": "WOWT.com",
         "domain": "wowt.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-good-machine-learning-practice-for-medical-device-development-guiding-principles.md",
-      "title": "Good Machine Learning Practice for Medical Device Development: Guiding Principles",
-      "excerpt": "The U.S. Food and Drug Administration (FDA ... the development of Good Machine Learning Practice (GMLP). These guiding principles will help promote safe, effective, and high-quality medical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles",
-      "originalUrl": "https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fda.gov/themes/custom/preview/img/FDA-Social-Graphic.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-27T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Center for Food Safety and Applied Nutrition",
-        "domain": "fda.gov",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-robot-taxi-boats-take-to-the-water-in-amsterdam.md",
-      "title": "Robot taxi boats take to the water in Amsterdam",
-      "excerpt": "The self-driving boat, dubbed Roboat III, is the creation of MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the Senseable City Laboratory, and the Amsterdam Institute for Advanced Metropolitan Solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "originalUrl": "https://www.zdnet.com/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b28ff8b30f4357577c4bd78f6367cfa9959b5b56/2021/10/25/c75fd06e-1512-4c6e-9770-86eb11d8f1cc/screenshot-2021-10-25-at-10-58-37.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 791,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robot-taxi-boats-take-to-the-water-in-amsterdam/",
-      "publishedDateTime": "2021-10-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

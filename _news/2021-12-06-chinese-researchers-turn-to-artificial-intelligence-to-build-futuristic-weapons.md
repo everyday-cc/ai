@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.scmp.com/news/china/science/article/3158522/chinese-rese
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3158522/chinese-researchers-turn-artificial-intelligence-build"
 type: article
 quality: 83
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: South China Morning Post
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s real challengers could be independent AI researchers"
-    excerpt: "Many say we need independent research on AI. Good news on that came from Timnit Gebru, a former ethical AI researcher at Alphabet Inc’s Google. She had been fired a year ago following a dispute over a paper critical of large AI models,"
-    publishedDateTime: 2021-12-07T17:02:00Z
-    webUrl: "https://www.livemint.com/opinion/googles-real-challengers-could-be-independent-ai-researchers-11638896252429.html"
-    ampWebUrl: "https://www.livemint.com/opinion/googles-real-challengers-could-be-independent-ai-researchers/amp-11638896252429.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/googles-real-challengers-could-be-independent-ai-researchers/amp-11638896252429.html"
+  - title: "U.S. to Bar Investment in Chinese AI Giant, Considers Banning Key Exports to Top Chip Maker"
+    excerpt: "The focus on SenseTime and Semiconductor Manufacturing International is part of broader Biden administration effort against China’s tech firms."
+    publishedDateTime: 2021-12-09T22:33:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799"
+    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 94
     images:
-      - url: "https://images.livemint.com/img/2021/12/07/600x338/Google_1638896315418_1638896328893.jpg"
-        width: 600
-        height: 338
+      - url: "https://images.wsj.net/im-449342/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "iNdc+wIaXHVFBts4dl85asvhEfwMctboHkzK/0YNeDPi0mbravYyAoOlFlHkYDr6NvZqud5JBhLAv2gkgv1R7mKYeZH3V3s8id5xF+NnJLjoi0Daqa/7a7gDsskPkRDIVfwWI6aJ2djE/sOHMFwHPPh4PLo80Sww4FwY87tqY3wx1hKvMmnKP0FtzNxqyyYZbAUGP9Yu4I+bVraMGxBRjF3JmB+4vGLm6E4UXzTg1hJRT7po5mpLJqdmIRWdP6z36kNG/svFJZRozKlNGZXGNvKElachDpZJH27wwycKFjHFzHXixBqm/SlQwLRXJBPu+3UFAIi93K9+NWSlqZe7lBHI90KXX0SFpuODVhoacps=;nXW11G829/UyUlFVJk9N1w=="

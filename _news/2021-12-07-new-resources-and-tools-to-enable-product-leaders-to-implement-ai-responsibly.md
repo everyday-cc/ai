@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/new-resources-and-tools-to-enable
 webUrl: "https://azure.microsoft.com/blog/new-resources-and-tools-to-enable-product-leaders-to-implement-ai-responsibly/"
 type: article
 quality: 86
-heat: 107
+heat: 106
 published: true
 
 provider:

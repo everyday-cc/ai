@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/"
 type: article
 quality: 89
-heat: 92
+heat: 89
 published: true
 
 provider:

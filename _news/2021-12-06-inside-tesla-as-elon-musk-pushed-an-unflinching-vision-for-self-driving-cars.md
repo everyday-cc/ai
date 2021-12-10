@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-m
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
 type: article
 quality: 88
-heat: 208
+heat: 198
 published: true
 
 provider:
@@ -169,20 +169,6 @@ related:
       - url: "https://i.insider.com/61ae37a30b0acf0018c4087f?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Tesla’s Full Self-driving Beta 10.6 emphasis on precision of movements"
-    excerpt: "Tesla's Full Self-Driving (FSD) technology update will be the 10.6 version. Tesla is focusing on three things with this update."
-    publishedDateTime: 2021-12-05T08:33:00Z
-    webUrl: "https://techstory.in/teslas-full-self-driving-beta-10-6-emphasis-on-precision-of-movements/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/12/Tesla-Full-Self-Driving-Beta-Hero.jpg"
-        width: 1600
-        height: 792
         isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ promotional videos were faked – report"
     excerpt: "The electric vehicle manufacturer produced fraudulent advertising material and compromised safety for vehicle aesthetics, former employees have"

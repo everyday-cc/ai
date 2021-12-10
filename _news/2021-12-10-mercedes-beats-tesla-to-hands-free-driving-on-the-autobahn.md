@@ -7,7 +7,7 @@ originalUrl: "https://www.ttnews.com/articles/mercedes-beats-tesla-hands-free-dr
 webUrl: "https://www.ttnews.com/articles/mercedes-beats-tesla-hands-free-driving-autobahn"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mercedes Gets First Approval for Truly Self-Driving Car"
+    excerpt: "The German car maker beats Tesla to the punch with a car that will allow drivers to let go of the wheel in some situations."
+    publishedDateTime: 2021-12-09T23:46:00Z
+    webUrl: "https://www.barrons.com/articles/mercedes-gets-first-approval-for-truly-self-driving-car-51639093613"
+    ampWebUrl: "https://www.barrons.com/amp/articles/mercedes-self-driving-car-51639093613"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/mercedes-self-driving-car-51639093613"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-425789/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Mercedes-Benz to launch Level 3 self-driving system in 2022 after gaining regulatory approval"
     excerpt: "Mercedes will launch its Level 3 self-driving system in Germany initially, but is already testing it in the U.S."
     publishedDateTime: 2021-12-09T18:00:00Z

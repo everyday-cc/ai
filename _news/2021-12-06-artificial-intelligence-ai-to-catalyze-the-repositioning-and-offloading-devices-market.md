@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/artificial-intelligence-ai-to-catalyze-the-r
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/amp/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Impacts
@@ -25,24 +25,6 @@ images:
     width: 700
     height: 400
     isCached: true
-
-related:
-  - title: "How market-leading retail brands are using AI"
-    excerpt: "Your friend posts a photo of their totally on-trend new shoes. You know you need a pair—but discover they come with a £500 price tag.  What do you do?"
-    publishedDateTime: 2021-12-07T16:14:00Z
-    webUrl: "https://techhq.com/2021/12/how-market-leading-retail-brands-are-using-ai/"
-    ampWebUrl: "https://techhq.com/amp/2021/12/how-market-leading-retail-brands-are-using-ai/"
-    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/how-market-leading-retail-brands-are-using-ai/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 57
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/12/CUSTOM-GettyImages-1329747480-375x210.jpg"
-        width: 375
-        height: 210
-        isCached: true
 
 secured: "ihjhEK5GcLEMAKMl/mLb7K/tRsXmBJU26ZQeKuC39MySbI+xmbSNbK5OA2uBQfL6tJyXY1E7zyqWjYF1uTmNd3Sj/BF7H68+EE+HGfC7K+2eCey4U6xnDxFn4elQ/VAMgpWd8P/mmNl/6Zw0dr2ZBEiRHG0NLKcCH/+ucfPAnWtbyfJYzT99hpZ1Rb2DK7bsr1xmE83CoCoLSbMNmLyXoXCbkoxU7U2FQoCDgrsZ1Fgz8rom++F8VI/uiU40F/z/QvDRJu2gqOEtpc1NZ3UA+vKvMyhapiVpO0jmE9t/pxQuTu92ZSZ07nW/2cjGMuqBPs0Lk3FW9gwfBglZLIqE3ViKqXrok3UqjZhjXsfNHI3QvU4DxsSMcGsDwkwZ80AwBpUueg9n+6vebzVRUqdy+r75MSpDQp2b5SC+iDoF8In48hXcfPhxBiqPZ6NBbg4q1ZrV4QY70b9ko5GsP6YQwxByc02q/abtZlcKjrxuUPmz1r3YQHg4coLfkIDBvmtbKkf3YgSU1GBNVpo8hTIRsw==;Jc9y4junlQIICYdf5qEl1A=="
 ---

@@ -307,35 +307,26 @@
       ]
     },
     {
-      "path": "_news/2021-12-06-artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market.md",
-      "title": "Artificial Intelligence (AI) to catalyze the Repositioning and Offloading Devices Market",
-      "excerpt": "With Ulcers and Spinal Cord Deformities at the peak, the Repositioning and Offloading Devices Market to sway the board on a Stupendous note With incidences of pressure ulcers increasing at an alarming rate amongst the elderly population staying with disabilities,",
+      "path": "_news/2021-12-04-cognitive-rehab-one-patients-painstaking-path-through-long-covid-19-therapy.md",
+      "title": "Cognitive rehab: One patient’s painstaking path through long COVID-19 therapy",
+      "excerpt": "It is one of many strategies Lewis, 34, has learned from “cognitive rehab,” an intensive ... administrative director of outpatient therapy services, said data on patients’ results was ...",
       "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/",
+      "webUrl": "https://www.seattletimes.com/nation-world/cognitive-rehab-one-patients-painstaking-path-through-long-covid-19-therapy/",
+      "originalUrl": "https://www.seattletimes.com/nation-world/cognitive-rehab-one-patients-painstaking-path-through-long-covid-19-therapy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/12/Repositioning-and-Offloading-Devices.png",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-ai-to-catalyze-the-repositioning-and-offloading-devices-market/amp/",
-      "publishedDateTime": "2021-12-05T13:48:00-08:00",
+      "ampWebUrl": "https://www.seattletimes.com/nation-world/cognitive-rehab-one-patients-painstaking-path-through-long-covid-19-therapy/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/nation-world/cognitive-rehab-one-patients-painstaking-path-through-long-covid-19-therapy/?amp=1",
+      "publishedDateTime": "2021-12-03T19:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -345,6 +336,7 @@
         "news"
       ],
       "topics": [
+        "Microsoft AI",
         "AI",
         "AI in Healthcare"
       ]

@@ -57,6 +57,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Hospitality Facial Recognition Tools"
+    excerpt: "Zoox Pass - Zoox Smart Data, a technology company specializing in consumer profiles and data analytics, has announced the launch of Zoox Pass, a new"
+    publishedDateTime: 2021-12-08T16:26:00Z
+    webUrl: "https://www.trendhunter.com/trends/zoox-pass"
+    ampWebUrl: "https://www.trendhunter.com/amp/trends/zoox-pass"
+    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/zoox-pass"
+    type: article
+    provider:
+      name: TrendHunter
+      domain: trendhunter.com
+    quality: 59
+    images:
+      - url: "https://cdn.trendhunterstatic.com/thumbs/zoox-pass.jpeg"
+        width: 622
+        height: 478
+        isCached: true
   - title: "Why some CT renters want government recognition for their union"
     excerpt: "They now want official government recognition of their group. About a dozen people protested last week at City Hall, with the primary goal of asking government officials for formal recognition of their union as well as the go-ahead for the union to file a complaint with the Fair Rent Commission."
     publishedDateTime: 2021-12-08T12:32:00Z
