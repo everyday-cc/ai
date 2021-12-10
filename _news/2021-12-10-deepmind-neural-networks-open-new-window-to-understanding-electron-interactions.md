@@ -98,10 +98,24 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DeepMind AI tackles one of chemistry’s most valuable techniques"
+    excerpt: "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed the first machine-learning model that suggests a molecule’s characteristics by predicting the distribution of electrons within it."
+    publishedDateTime: 2021-12-10T15:48:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-03697-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 54
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-03697-8/d41586-021-03697-8_19948082.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "DeepMind’s latest AI shines light on dark room of molecules"
     excerpt: "DeepMind has created the best chess player, one of the most accurate weather forecasting systems and a poker player that could give the card sharks of Las Vegas"
     publishedDateTime: 2021-12-10T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/deepminds-latest-ai-shines-light-on-dark-room-of-molecules-thww79qk3?shareToken=a92b7d9eb096c39543f25dd189bd8045"
+    webUrl: "https://www.thetimes.co.uk/article/1fc096ce-5919-11ec-81f2-17f963b74220?shareToken=f82596f3d92e69d99b8b3b151c492235"
     type: article
     provider:
       name: The Times

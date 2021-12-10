@@ -73,6 +73,20 @@ related:
         width: 375
         height: 210
         isCached: true
+  - title: "How AI Is Enabling Self-Learning Factories"
+    excerpt: "This is where new technologies come into play, especially autonomous self-learning systems that can immediately respond to changes and individual specifications with the help of artificial intelligence (AI)."
+    publishedDateTime: 2021-12-09T19:54:00Z
+    webUrl: "https://hbr.org/sponsored/2021/12/how-ai-is-enabling-self-learning-factories"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/12/Picture1.png"
+        width: 735
+        height: 410
+        isCached: true
 
 secured: "pwwtv2F3ttRcEWXroJTMpsuFRExCVTXO9B9Avy36M7DyRSQ4sGaDzwtJwluqAbO3m8BZ2JTEX29bFeC3Odmhv7QimjYG1T2EL3Y+F5L1r6ETwsISfkt/AsCyp4yF4BswgraW+e7eBYwhSlk++WsETtwfNpJKgFyA4aShijT+0NGxOAOcKp6fEuWHT/mbURn9CIjLGO4eXy2ShWCwzNFVuTCbLfZWJInvWG49JwPlvFuht/YtImcs2mxOkRb21ae8Dhyv727sOpSGSmz+w6dJY8Nu3JvbDZNRyIap/todMX2lOgkhkYGgZYIzm+FBt9ypwhMb9Jk0yTF0i1BIx9hjQk1Zqu6UmykYv6rFD/Ty8m8=;PbSCmL1EbPYhVNy8d8kyHw=="
 ---

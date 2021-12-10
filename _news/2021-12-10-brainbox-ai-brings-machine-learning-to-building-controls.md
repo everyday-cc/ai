@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learni
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://cdn2.techhq.com/wp-content/uploads/2021/12/CUSTOM-GettyImages-1329747480-375x210.jpg"
         width: 375
         height: 210
+        isCached: true
+  - title: "How AI Is Enabling Self-Learning Factories"
+    excerpt: "This is where new technologies come into play, especially autonomous self-learning systems that can immediately respond to changes and individual specifications with the help of artificial intelligence (AI)."
+    publishedDateTime: 2021-12-09T19:54:00Z
+    webUrl: "https://hbr.org/sponsored/2021/12/how-ai-is-enabling-self-learning-factories"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 37
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2021/12/Picture1.png"
+        width: 735
+        height: 410
         isCached: true
   - title: "VOICE 2021 Brings Leading Artificial Intelligence Brands to Arlington National Landing, December 7-8"
     excerpt: "VOICE 2021, the industry's leading voice, AI, and ambient computing ecosystems event opens today in Arlington, VA. The summit is being relocated to National Landing from New Jersey, where it attracted 7,"

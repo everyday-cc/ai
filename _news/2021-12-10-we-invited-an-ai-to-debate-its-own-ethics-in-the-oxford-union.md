@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/we-invited-an-ai-to-debate-its-own-e
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-173607"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     height: 280
     isCached: true
 
-secured: "1HOCwpXUeYNaqWBf/xKB5SEwWz7fRx5m/GLHMW8OpTWOMGwjFDcqS6P6sXuAcz8yIVTGve0hghyXJns+r3QD/FKBNg7Vx8BTU8eUjGEYf3klVspjvHo2WdCOOAhsV+me0efJzEtBbsJf9k5aNGqeHpwdVNQFhBz6LiZYT1IE1wcAx358cwlih5NR2gJeoe+AngFc7ifD+1Uy6gfgLHxQXj3Um5gLYdBYjle0YcrUG1JAIo3F7cErG96H3AVCMNjoPcn8ag/f2W0W9YZLahuiZztYiFe8YIYEZw+NNmzzVhmxnwGyp6p0k8Z4oFSz2xrJtGqyFVICjB70rZ3Vy7YlqnfHb5RcEckY7vDffMb2vUc=;L4zffW3Pb8sSpFNPXeUIRQ=="
+related:
+  - title: "We invited an AI to debate its own ethics in the Oxford Union – what it said was startling"
+    excerpt: "Andrew Stephen receives research funding from the Oxford Future of Marketing Initiative, which is funded by a consortium of companies, including Meta, Google, Twitter, WPP, L’Oréal, Kantar, Reckitt and Teradata."
+    publishedDateTime: 2021-12-10T14:21:00Z
+    webUrl: "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607"
+    ampWebUrl: "https://theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling-173607"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 66
+    images:
+      - url: "https://images.theconversation.com/files/436935/original/file-20211210-140109-wcrkj5.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=280&fit=crop"
+        width: 320
+        height: 280
+        isCached: true
+
+secured: "6vK+C9zboXQuQplOWSkNvEzhMAODgbWOjyKJgPJtEMGD1w4s9XSrUesDBn8+SBT6Gy0g0pVHSgLyAcAdSTlBWVoEF5vxYrgrwplyUBbALuKC4Tr+hU7lxL+8NFjfpxHNTU2uW6FDQA/pQ/olERFrQzx4YtOQTu0qtjAfvnWG2/d+qPV4nIi55jkh3B5QMFPO9wYezzUdx/yy9GaIeyza1Sggcn9m8fKPfJqOPLgI6Zbb3Z+fU/cgPu5+dSrF9l8VRRLYnW5TAZNxEhonFKfO0JJZfCR0QDyLqyzKqWBL7CaRgMjwPxCT1Zh92HkFilAfJ/Tb+ZFnSzw8INO5icgTH+n9CIFgcZqh+XwqmM2/aHLWomnfeP5CuDSv8ENCxEKXu9T1VlI+lJfsWosC5LvxEsvv60Z6HE/kCT0r9EJPT/rqKcKBGdnqVWahMV536RjbqBsV5aKDV1OjEK3FGY6XGhWk9H2WMdg5pXkyQ3biWDGKsKaRx4rmNnrabWSX4nm4SCEK6gDsNwNNTxqespr6gw==;NrXa+bDVl7LrxmF9XxXGUQ=="
 ---
 

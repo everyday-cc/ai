@@ -3,8 +3,8 @@ category: news
 title: "The Pentagon and UMD to launch intel-focused research center"
 excerpt: "The Applied Research Laboratory for Intelligence and Security will focus on basic and applied research for the security and intelligence communities."
 publishedDateTime: 2021-12-07T13:52:00Z
-originalUrl: "https://defensesystems.com/articles/2021/12/07/dod-umd-ic-research-center.aspx?oly_enc_id="
-webUrl: "https://defensesystems.com/articles/2021/12/07/dod-umd-ic-research-center.aspx?oly_enc_id="
+originalUrl: "https://defensesystems.com/articles/2021/12/07/dod-umd-ic-research-center.aspx"
+webUrl: "https://defensesystems.com/articles/2021/12/07/dod-umd-ic-research-center.aspx"
 type: article
 quality: 24
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "wZG3fZUsbbOrkAf8SzxaQvwcEEJ7Hi4uEmOr7iYvPcHMlsBe88Qj2IhQI/6B1R/lVpLskq9zm1+qftCAfazsBYnLQhOXksFQN1s76yGsIzmOEdG3guyNCS5P3fOThc32Vr6Q1RrNMfunNxNcs5Ojiv5MIS6rR+tBV3p1j5EjI1Jsb4T9oqlpebnASdK47Jg5NlVg8w2BIklha51yilk+Or9ReML1oD/u+rMpWFaoOhWEoV4l94M6QcR9u5SyY2+o+dXKX+7cs9xQ9iwBl5f6aG0svJnaMMLtx0AAlXS2diHh/h/J2bGjEADoVoZuu+tt1Zzp4VmwfCpemBE7VHO2hqmj5fyjKaMc5dzmZ1mLGJA=;rdbTz+PwqiqzUKdxfXG1Pw=="
+secured: "MU/NU5I7RggtJDQfa+H6gfRPK3Dhehm+2xNaIhCBQqizSGsxDu6jQ/dYmLQ1HKzbYUSw+4hO+PzmRalkpkOmnRIqob9tNAySjOJyNl3XDrOzlyIGUgeTApOQewEkULW3uoPCPt5viUnr/VYKNp/90RNw2NvuHJhg9NdKfBZCtFcyCFtom24T/o1PgYD1vVeyUkXU6ZlrR4UFTh9mVeO09ejf3+O+5FFR+nOmE2Picqpsd3TNEazvCAziT2jx7lttV+xgB93UmuUKSzbW7OG7vsyfh79VAL0kWo3GduG4AMW4008s39nKWz/g/c/eIn0bIRim26+FRJHaGWorixudAW2eCbDZUK53SVNwCanzqIw=;4s21QqSX22zt0jkjytwWZw=="
 ---
 

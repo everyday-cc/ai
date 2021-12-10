@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Will AI and ML Revolutionize the Financial Services Industry?"
+    excerpt: "Hortz: What do you see that is holding up a greater usage of AI and ML? Bo Howell: Two major reasons for the slow spread of AI and ML in the financial services industry are a lack"
+    publishedDateTime: 2021-12-10T14:54:00Z
+    webUrl: "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry"
+    ampWebUrl: "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
   - title: "Agricultural AI on the upswing"
     excerpt: "Wall Street Journal, explaining rising interest in AI technology. “To do so farmers need to monitor a constant stream of data on plants, soil and atmospheric conditions.” There is also a labor and monetary factor."
     publishedDateTime: 2021-12-07T18:11:00Z
@@ -44,20 +55,6 @@ related:
       - url: "https://theproducenews.com/sites/default/files/styles/fp_slider/public/2021-12/raleys.jpg?h=3ca652f7&itok=SQaNC2UZ"
         width: 635
         height: 355
-        isCached: true
-  - title: "The Myth of Artificial Intelligence"
-    excerpt: "The Age of AI works to take the debate about artificial intelligence off the table by obscuring the relevant technologies and the political economy behind them. Its title alone— The Age of AI: And Our Human Future —declares an epoch and aspires to speak on behalf of everyone."
-    publishedDateTime: 2021-12-08T10:08:00Z
-    webUrl: "https://prospect.org/culture/books/myth-of-artificial-intelligence-kissinger-schmidt-huttenlocher/"
-    type: article
-    provider:
-      name: The American Prospect
-      domain: prospect.org
-    quality: 39
-    images:
-      - url: "https://prospect.org/downloads/17263/download/ND21%20Whittaker-Suchman.jpeg?cb=2453342ee267685544e111e7618379c5&w=1200"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Artificial intelligence revolutionizes modern art"
     excerpt: "Artificial intelligence is affecting artistic fields and cultural projects, leading to a boost in investments in the UAE because of the special natur"

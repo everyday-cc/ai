@@ -2,49 +2,6 @@
   "page": 52,
   "value": [
     {
-      "path": "_news/2021-10-31-tech-time-delta-air-lines-launches-new-facial-recognition-software.md",
-      "title": "Tech Time: Delta Air Lines launches new facial recognition software",
-      "excerpt": "To streamline the check-in process at the airport, Delta Air Lines is introducing new facial recognition technology to airport security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/",
-      "originalUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1vhqlrjc8h82r.cloudfront.net/10-31-2021/t_36a7d442f26b4d2085ef3805536c4fcc_name_image.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/tech/2021/10/31/tech-time-delta-air-lines-launches-new-facial-recognition-software/?outputType=amp",
-      "publishedDateTime": "2021-10-31T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-31-the-d-link-eagle-pro-ai-router-brings-affordable-wifi-6-for-all.md",
       "title": "The D-Link Eagle Pro AI Router Brings Affordable WiFi 6 For All",
       "excerpt": "D-Link is the latest brand to join the affordable WiFi 6 party with the new R15 Eagle Pro AI AX1500 smart router. This surprisingly small and lightweight router combines Wi-Fi 6 technology and artificial intelligence in a router that offers strong wireless coverage and higher speeds,",
@@ -1205,6 +1162,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-30-one-ec-restaurant-may-have-an-answer-to-the-national-labor-shortage-robotic-servers.md",
+      "title": "One E.C. Restaurant May Have an Answer to the National Labor Shortage: Robotic Servers",
+      "excerpt": "While gorging on delicious sushi rolls and Lo Mein noodles at Eau Claire’s Shanghai Bistro, you might spot a rather unusual and extraordinary addition to their wait staff. Its name is Jonny 5. No, it’s not the fictional robotic star of the 1980s \"Short Circuit\" films;",
+      "sourceUrl": null,
+      "webUrl": "https://volumeone.org/articles/2021/10/29/285420-one-ec-restaurant-may-have-an-answer-to-the",
+      "originalUrl": "https://volumeone.org/articles/2021/10/29/285420-one-ec-restaurant-may-have-an-answer-to-the",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://volumeone.org/uploads/image/article/285/420/285420/header_1920x1080/123967_web_servi_shanghai_bistro_rebecca_mennecke_2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-29T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Volume One",
+        "domain": "volumeone.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

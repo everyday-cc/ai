@@ -7,7 +7,7 @@ originalUrl: "https://www.totaltele.com/511936/Cloud-Fintech-innovator-fonYou-se
 webUrl: "https://www.totaltele.com/511936/Cloud-Fintech-innovator-fonYou-secures-7-Million-growth-funding-from-Banco-Santanders-Smart-Fund"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 500
     height: 500
     isCached: true
+
+related:
+  - title: "Fintech Platform fonYou Acquires €7M from Banco Santander Smart Fund"
+    excerpt: "Fintech platform fonYou has announced that it has acquired €7 million in capital from Banco Santander’s Smart Fund, as part of a financing transaction that will aim to support fonYou’s future tech dev"
+    publishedDateTime: 2021-12-10T15:02:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/12/184049-fintech-platform-fonyou-acquires-e7m-from-banco-santander-smart-fund/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184049-fintech-platform-fonyou-acquires-e7m-from-banco-santander-smart-fund/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184049-fintech-platform-fonyou-acquires-e7m-from-banco-santander-smart-fund/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/12/Banco-Santander-Boston-Massachusetts.jpeg"
+        width: 960
+        height: 1280
+        isCached: true
 
 secured: "eXaB0saWh71RG/QVNSlHM6ZgheajlvZa64TuZqZS4sLjVPTsO00dPty1iGpnhirPsUOS9lOb5hS8TZpYGZxZI+YRdlWDYqDwmIIevB0XJSPSUNtqzdP8PsRr1lO5rzhugnhltpFQc21ajK3Zm+jYTq/ZkXXe3XetcEfc1DWO51WMzITVpdY+jK4QWNzlllfHpwi99AYcr/4bjSpAF6Im9jA3Rg9Q5dhSArvjrZMabFW2Q4eRJMdbasUtwL9ZN9f939tMCm4SRscFYgx3hc8y0ArWXyfYJjLv6PO43yGDnBL+61OphEFfgjPij/N5yCSgHuDM6l6Yp1jDYs1hk5/cJYuDAJ1KDbDwEEXu2vUS4uE=;qwiPhJr/Ti4q1Psk0oBuHg=="
 ---

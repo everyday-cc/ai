@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Replicating Xenobots Could Help Cure Diseases—Or Create New Bioweapons"
+    excerpt: "In 2020, scientists made global headlines by creating “ xenobots ”—tiny “ programmable ” living things made of several thousand frog stem cells. These pioneer xenobots could move around in fluids, and scientists claimed they could be useful for monitoring radioactivity,"
+    publishedDateTime: 2021-12-10T15:27:00Z
+    webUrl: "https://singularityhub.com/2021/12/10/self-replicating-xenobots-could-help-cure-diseases-or-create-new-bioweapons/"
+    ampWebUrl: "https://singularityhub.com/2021/12/10/self-replicating-xenobots-could-help-cure-diseases-or-create-new-bioweapons/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/10/self-replicating-xenobots-could-help-cure-diseases-or-create-new-bioweapons/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 42
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/12/parent-xenobot-and-offspring-xenobot-2.jpeg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Will self-replicating 'xenobots' cure diseases or turn the whole world into grey goo?"
     excerpt: "In 2020, scientists made global headlines by creating 'xenobots' – tiny 'programmable' living things made of several thousand frog stem cells. These pioneer xenobots could move around in fluids, and scientists claimed they could be useful for monitoring radioactivity,"
     publishedDateTime: 2021-12-10T12:27:00Z

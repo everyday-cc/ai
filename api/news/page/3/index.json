@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-08-synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more.md",
+      "title": "Synthesia raises $50M to leverage synthetic avatars for corporate training and more",
+      "excerpt": "Synthesia, a startup using AI to create synthetic videos, is walking a fine, but thus far prosperous, line between being creepy and being pretty freakin’ cool. Today, it announced the close of a $50 million Series B funding round led by Kleiner Perkins,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/",
+      "originalUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/img-Hero-WithActor.png?w=1024",
+          "width": 1023,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/",
+      "publishedDateTime": "2021-12-08T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars.md",
+      "title": "Those Sordid Follow-Home Robberies To First Rise And Then Thankfully Decline During The Coming Era Of AI Self-Driving Cars",
+      "excerpt": "Follow-home robberies are in the news quite a bit. For the coming era of AI self-driving cars, such criminal acts will at first be emboldened and then later be generally overcome as driverless cars become widespread.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aefa7a83c2df708b6c19fd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2441%26cropY1%3D61%26cropY2%3D1435",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-12-08T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts.md",
       "title": "NewtonX raises $32M for AI that connects customers with subject-matter experts",
       "excerpt": "NewtonX, a startup developing graph technology that connects experts with companies seeking answers to questions, has raised $32 million.",
@@ -891,59 +994,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-08-language-modelling-at-scale-gopher-ethical-considerations-and-retrieval.md",
-      "title": "Language Modelling at Scale: Gopher, Ethical considerations, and Retrieval",
-      "excerpt": "We are releasing three papers on language models, Gopher, Ethical considerations, and Retrieval.",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/language-modelling-at-scale",
-      "originalUrl": "https://deepmind.com/blog/article/language-modelling-at-scale",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/6LUqTcdYHclfg9MX2IFrDmlnqUVyi7rQJU4PNRBuXOfqwV8srvuj41E8AW_NduDnvj_sTHnvCw1N72TQKxdIrZhs6lM-WwcUyjpHohHStQzSPo1DCBw",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-12-08-ex-tesla-impossible-foods-lawyer-takes-top-legal-job-at-robot-farming-startup.md",
       "title": "Ex-Tesla, Impossible Foods lawyer takes top legal job at robot farming startup",
       "excerpt": "Myra Pasek, who was the second in-house lawyer hired by Tesla Inc's Elon Musk and the first general counsel for Impossible Foods Inc, is taking on a new startup assignment, joining Silicon Valley-based robotic farming company Iron Ox Inc as general counsel.",
@@ -1140,58 +1190,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-navers-large-language-model-is-powering-shopping-recommendations.md",
-      "title": "Naver’s large language model is powering shopping recommendations",
-      "excerpt": "In an interview with VentureBeat, South Korea search giant Naver explained how it's using large language models to power new user experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/07/navers-large-language-model-is-powering-shopping-recommendations/",
-      "originalUrl": "https://venturebeat.com/2021/12/07/navers-large-language-model-is-powering-shopping-recommendations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/07/navers-large-language-model-is-powering-shopping-recommendations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/navers-large-language-model-is-powering-shopping-recommendations/amp/",
-      "publishedDateTime": "2021-12-07T12:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

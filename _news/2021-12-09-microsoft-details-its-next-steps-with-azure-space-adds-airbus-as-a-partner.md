@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-details-its-next-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
 type: article
 quality: 117
-heat: 187
+heat: 217
 published: true
 
 provider:
@@ -104,6 +104,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft's new SpaceEye technology enables imaging satellites to 'see' through clouds using AI"
+    excerpt: "Microsoft has announced significant expansions to its Azure Space ecosystem. Microsoft is adding SpaceEye, which lets users 'see' through clouds, and delivering AI-enhanced imagery to make satellite photos have as much detail and fidelity as traditional aerial photography."
+    publishedDateTime: 2021-12-10T16:13:00Z
+    webUrl: "https://www.dpreview.com/news/1077091689/microsofts-new-spaceeye-technology-azure-space"
+    ampWebUrl: "https://m.dpreview.com/news/1077091689/microsofts-new-spaceeye-technology-azure-space.amp"
+    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/1077091689/microsofts-new-spaceeye-technology-azure-space.amp"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 62
+    images:
+      - url: "https://2.img-dpreview.com/files/p/E~TS590x0~articles/1077091689/microsoft-azure-orbital-space-bts.png"
+        width: 590
+        height: 316
+        isCached: true
   - title: "Microsoft expands Azure Space ecosystem"
     excerpt: "Microsoft offered further proof of its intent to play a growing role in the space sector by unveiling new Azure Space products and announcing partnerships with Airbus, Kongsberg Satellite Services, STE iDirect,"
     publishedDateTime: 2021-12-09T15:40:00Z
@@ -117,6 +133,34 @@ related:
       - url: "https://spacenews.com/wp-content/uploads/2021/12/rsz_project_turing.jpg"
         width: 879
         height: 349
+        isCached: true
+  - title: "5 Things You Should Know about Microsoft AI"
+    excerpt: "I was asked by a colleague to provide some key messages about Microsoft AI. I did a quick write-up and sent them over to her."
+    publishedDateTime: 2021-12-10T15:07:00Z
+    webUrl: "https://www.linkedin.com/pulse/5-things-you-should-know-microsoft-ai-xiaopeng-li"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHusGPlRHcrrQ/article-cover_image-shrink_720_1280/0/1639146122835?e=1644451200&v=beta&t=_xowkWg9sPAcqdMvYfiK5iT_D5h0EMfuNH7p90Px8rQ"
+        width: 1120
+        height: 720
+        isCached: true
+  - title: "Microsoft announces new partnerships and capabilities for Azure Space"
+    excerpt: "Microsoft has announced new capabilities and partnerships for Azure Space, the company’s cloud computing platform that connects satellites and services across industries."
+    publishedDateTime: 2021-12-10T13:04:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-announces-capabilities-azure-space"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 54
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/12/microsoft-partnerships-capabilities-azure-space.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "CVS Health and Microsoft agree new strategic alliance"
     excerpt: "Healthcare provider CVS Health and Microsoft have agreed a new strategic alliance to develop new healthcare solutions and provide 300,000 CVS Health employees with tools to serve over one million customers."

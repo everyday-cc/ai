@@ -108,6 +108,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
+    excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to make predictions on potential synergistic anti-cancer drug combinations for"
+    publishedDateTime: 2021-12-10T16:49:00Z
+    webUrl: "https://www.baystreet.ca/stockstowatch/11857/AI-to-Boost-Cancer-Drug-Combination-Studies-and-Treatments-of-the-Future"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 36
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/1b.jpg"
+        width: 845
+        height: 396
+        isCached: true
   - title: "Why Artificial Intelligence is considered key to traffic solutions across cities of the future"
     excerpt: "Coupled with existing systems comprised of network cameras and monitoring solutions, the innovation and application of artificial intelligence heralds a new era in traffic management. Why Artificial Intelligence is considered key to traffic solutions across cities of the future."
     publishedDateTime: 2021-12-08T11:44:00Z

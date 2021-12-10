@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Robotaxi race opens up as top contender Waymo in low gear in Arizona"
-excerpt: "Alphabet Inc's Waymo risks losing its lead in the ... of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field."
+excerpt: "Companies including Ford Motor Co's Argo AI and General Motors Co's Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence ..."
 publishedDateTime: 2021-12-08T19:49:00Z
 originalUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
 webUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
@@ -79,6 +79,6 @@ related:
         height: 800
         isCached: true
 
-secured: "2fNAaVj/o93iNXMhC8NFvKWY79X4hvvTE/s6YJrhvrFZCI6Ey/wynfhiiPoIj6gmPkrT8kohSxMpfDZm7Dbdmiew/H+pCx3srzNxcFMdk22DDa3Htt6u99L9D9bS4LRIwAeUMef6ryKBSAECOBFwwIs5Crjr1o/fCSPoHhpQK095pX9nBlrTLLVLwDrTgkgQU5RCg2/5u7+HMPKu5otcMYQ04gjLy9g6r/UyBnc6vAE1B/4tHcxmUmxR7czTCKYbPPRYLC1gHy0U59b8KpM6+Zif3O8t9aq24uM2KuCPvnwOsUz7szsnmIvYJ8AEothCVckbKOVT/nPd+LACkx0wJn+huDSJhHMowMEn0RJ2qx4=;nygTGg0vyCCANNmN0m7O8Q=="
+secured: "8Z2mFioZZpU1pYMdDU6+6pboMu1vkZOvDONBqIfTJEtBcV6FjmNe4SnY/+GKGTZgQHLv+Z9TI9UlaVID4/WONpceP95bjDnFHKZelAWzI+a+Hb2SpGCE9ASwfZwvyJeBLd1ZPe7aeUMgGRbaG9F+V8yLu7xE2RmQ6kpYRGDXJxQHVaogs3kHMmTHd9uzy1AMMXywI2Wl5v60egHfui33SOsspkreTzJq9DSTMdoEx6T3AQ3jYK15I6e2JZOSYY7rdnE6kEaRj+QTbWg6mAnJZ5A0XdjXNhgePjc2aOF3Ey+xZGZBQs8mdcg1MR4BcVRIVDIKZjWzHEU1/RPN06hJaeaRSj7U0Mc+E8CPB0n4DBo=;fcumsBiGC57dvhqzgpVUlg=="
 ---
 

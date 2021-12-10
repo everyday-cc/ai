@@ -41,6 +41,22 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Chinese AI Giant SenseTime Delays IPO as U.S. Prepares Investment Ban"
+    excerpt: "Artificial-intelligence company SenseTime Group is trying to keep its initial public offering alive, according to a person familiar with the matter, as the Biden administration prepares to add the company to a blacklist that will ban American investors from buying its shares."
+    publishedDateTime: 2021-12-10T14:30:00Z
+    webUrl: "https://www.wsj.com/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    ampWebUrl: "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-449875/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Chinese AI startup SenseTime Group to raise $767 million in Hong Kong IPO"
     excerpt: "Eight cornerstone investors have signed up for the IPO and subscribed for $450 million, or 58.6% of the deal, before its launch."
     publishedDateTime: 2021-12-06T02:59:00Z

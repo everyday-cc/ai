@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-det
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
 type: article
 quality: 87
-heat: 158
+heat: 168
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/Tredence_AIM.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
+    excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to make predictions on potential synergistic anti-cancer drug combinations for"
+    publishedDateTime: 2021-12-10T16:49:00Z
+    webUrl: "https://www.baystreet.ca/stockstowatch/11857/AI-to-Boost-Cancer-Drug-Combination-Studies-and-Treatments-of-the-Future"
+    type: article
+    provider:
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 36
+    images:
+      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/1b.jpg"
+        width: 845
+        height: 396
         isCached: true
   - title: "Artificial Intelligence key to traffic solutions in cities of the future"
     excerpt: "Coupled with existing systems comprised of network cameras and monitoring solutions, the innovation and application of AI heralds a new era in traffic management. Artificial Intelligence key to traffic solutions in cities of the future."

@@ -25,49 +25,65 @@ images:
     isCached: true
 
 related:
-  - title: "Data labeling will fuel the AI revolution"
-    excerpt: "Labeling data for AI using the right techniques helps companies make better decisions and has a measurable impact on business success."
-    publishedDateTime: 2021-12-08T00:40:00Z
-    webUrl: "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/"
-    ampWebUrl: "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/"
+  - title: "The limitations of scaling up AI language models"
+    excerpt: "In a panel at NeurIPS 2021, experts discussed the limitations of training larger and larger natural language models akin to OpenAI's GPT-3."
+    publishedDateTime: 2021-12-10T14:30:00Z
+    webUrl: "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/"
+    ampWebUrl: "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/GPT-3-applications-products-startups-cropped.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Language Modelling at Scale: Gopher, Ethical considerations, and Retrieval"
+    excerpt: "We are releasing three papers on language models, Gopher, Ethical considerations, and Retrieval."
+    publishedDateTime: 2021-12-08T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/language-modelling-at-scale"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-12811727531.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://lh3.googleusercontent.com/6LUqTcdYHclfg9MX2IFrDmlnqUVyi7rQJU4PNRBuXOfqwV8srvuj41E8AW_NduDnvj_sTHnvCw1N72TQKxdIrZhs6lM-WwcUyjpHohHStQzSPo1DCBw"
+        width: 512
+        height: 288
         isCached: true
-  - title: "Agricultural AI on the upswing"
-    excerpt: "Wall Street Journal, explaining rising interest in AI technology. “To do so farmers need to monitor a constant stream of data on plants, soil and atmospheric conditions.” There is also a labor and monetary factor."
-    publishedDateTime: 2021-12-07T18:11:00Z
-    webUrl: "https://theproducenews.com/technology/agricultural-ai-upswing"
+  - title: "Naver’s large language model is powering shopping recommendations"
+    excerpt: "In an interview with VentureBeat, South Korea search giant Naver explained how it's using large language models to power new user experiences."
+    publishedDateTime: 2021-12-07T20:40:00Z
+    webUrl: "https://venturebeat.com/2021/12/07/navers-large-language-model-is-powering-shopping-recommendations/"
+    ampWebUrl: "https://venturebeat.com/2021/12/07/navers-large-language-model-is-powering-shopping-recommendations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/navers-large-language-model-is-powering-shopping-recommendations/amp/"
     type: article
     provider:
-      name: The Produce News
-      domain: theproducenews.com
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Items tagged with ai language model"
+    excerpt: "Its most recent findings come from a 280 billion parameter language model named Gopher. The thought of an AI robot having natural conversations with humans has been the focus of many science fiction movies."
+    publishedDateTime: 2021-12-09T17:01:00Z
+    webUrl: "https://hothardware.com/tags/ai-language-model"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
     quality: 39
     images:
-      - url: "https://theproducenews.com/sites/default/files/styles/fp_slider/public/2021-12/raleys.jpg?h=3ca652f7&itok=SQaNC2UZ"
-        width: 635
-        height: 355
-        isCached: true
-  - title: "Artificial intelligence revolutionizes modern art"
-    excerpt: "Artificial intelligence is affecting artistic fields and cultural projects, leading to a boost in investments in the UAE because of the special natur"
-    publishedDateTime: 2021-12-09T09:43:00Z
-    webUrl: "https://menafn.com/1103331479/Artificial-intelligence-revolutionizes-modern-art"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_74_menafn.jpg"
-        width: 512
-        height: 341
+      - url: "https://images.hothardware.com/contentimages/newsitem/57007/content/deepmind-gopher(1).jpg"
+        width: 708
+        height: 419
         isCached: true
 
 secured: "JRXGpKDBHbEogaOUDHk+B2afeiQDY6f+xiJXphHizoArFnsUacmRd1FjVjjUk4mfgpKHz4CsckeJ9KGZpsHQn5jL+vdv4sWC0O70itJlkYiV8BrsDXdA+d6Wk4KCYajF4yM8QwPOGWbQjJWsQpNinRUgVRXzfZFfIUlH7LR70U5EulZNnrMF+87fCvQp2/lBq+jIA0zdrdNmuvF8AVNQxSGIqwfT4KxTQT+C+ixXYv3bG3bl2X5LzG5Rc0J/Vul2kwgmp6ML0tGsGJVhCcWXK2YNYl5OqCld/8b4Y+0mWrIfXAEwXM6Ic4/N8yRZ17MaWAYRghb3AudSuOHv9XLt4IX5BOYYnvpBZAVKc7sSuyA+X6qTopuaUazy/l4yBKAcC1ff/QKL5CaV18X2fJk+pdBNvN25TRPvs/hIj/8tkzLkbkFv58VDqdAO+THq2WF+sv3RTEIXFkM6Hny+pjoyGLlc3XeTu5lFigvkGg8iO/THuTCGrthZy/hmMtf0Ne5VmXswglq4u99/15mxINDIqA==;qe2E4w6+KfmFB/E+QcaUkg=="

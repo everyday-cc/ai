@@ -144,49 +144,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-07-robots-evolve-bodies-and-brains-like-animals-in-mits-new-ai-training-simulator.md",
-      "title": "Robots Evolve Bodies and Brains Like Animals in MIT’s New AI Training Simulator",
-      "excerpt": "MIT's new virtual world allows soft robots to evolve bodies and brains in parallel. Intriguingly, many took on shapes similar to real animals.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/12/06/robots-evolve-bodies-and-brains-like-animals-in-mits-new-ai-training-simulator/",
-      "originalUrl": "https://singularityhub.com/2021/12/06/robots-evolve-bodies-and-brains-like-animals-in-mits-new-ai-training-simulator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/12/evolution-gym-ai-robot-mit-csail-1.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/12/06/robots-evolve-bodies-and-brains-like-animals-in-mits-new-ai-training-simulator/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/06/robots-evolve-bodies-and-brains-like-animals-in-mits-new-ai-training-simulator/?amp=1",
-      "publishedDateTime": "2021-12-06T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-07-a-serious-game-microsoft-azure-champions-user-generated-content.md",
       "title": "A Serious Game: Microsoft Azure Champions ‘User Generated Content’",
       "excerpt": "User Generated Content brings communities together to turn games into ever-evolving platforms. By providing game developers with a set of tools to create open environments for players, they can increase engagement while empowering individual creators to share and monetize their work.",
@@ -1224,6 +1181,57 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-can-a-tiny-ai-group-stand-up-to-google.md",
+      "title": "Can a Tiny AI Group Stand Up to Google?",
+      "excerpt": "Scientist Timnit Gebru has set up an AI research group one year after getting fired from Google, but she and others are fighting an uphill battle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-12-06/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-12-06/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEswj2yFA1x0/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

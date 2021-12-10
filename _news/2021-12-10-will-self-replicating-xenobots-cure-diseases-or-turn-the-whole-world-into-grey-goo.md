@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newshub.co.nz/home/technology/2021/12/will-self-replicat
 cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/technology/2021/12/will-self-replicating-xenobots-cure-diseases-or-turn-the-whole-world-into-grey-goo.amp.html"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Replicating Xenobots Could Help Cure Diseases—Or Create New Bioweapons"
+    excerpt: "In 2020, scientists made global headlines by creating “ xenobots ”—tiny “ programmable ” living things made of several thousand frog stem cells. These pioneer xenobots could move around in fluids, and scientists claimed they could be useful for monitoring radioactivity,"
+    publishedDateTime: 2021-12-10T15:27:00Z
+    webUrl: "https://singularityhub.com/2021/12/10/self-replicating-xenobots-could-help-cure-diseases-or-create-new-bioweapons/"
+    ampWebUrl: "https://singularityhub.com/2021/12/10/self-replicating-xenobots-could-help-cure-diseases-or-create-new-bioweapons/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/10/self-replicating-xenobots-could-help-cure-diseases-or-create-new-bioweapons/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 42
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2021/12/parent-xenobot-and-offspring-xenobot-2.jpeg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "US scientists create world’s first-ever living robots – and they’re now able to self-replicate"
     excerpt: "US scientists created the first living robots, called xenobots. Now researchers have discovered a new form of biological reproduction – xenobots can self-replicate – in a way that is unlike anything seen in plants or animals,"
     publishedDateTime: 2021-12-06T06:01:00Z

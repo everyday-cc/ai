@@ -83,6 +83,17 @@ related:
         width: 1800
         height: 1800
         isCached: true
+  - title: "Mass Fintech Hub Doubles Membership to Support Growing Fintech Ecosystem in the Commonwealth"
+    excerpt: "In less than six months, the Mass Fintech Hub, a public-private partnership dedicated to making the Commonwealth a key player in Fintech, has more than doubled its membership and received 'hundreds of requests to join its growing programming geared towards developing fintechs."
+    publishedDateTime: 2021-12-10T14:49:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 13
 
 secured: "tW2K0/xxrKybXugHi35AnV1sxV4gazSgBL+5CKCUxUusxiMs1du3t9E7VSWYZ9KT8Yj//RQVT7pKDpn6K0UDQfvyuIsu6jvTHxUaDhcLgVfbyLE7kLRXomkZex7i9rJJtSbl+0N3Cdnpjk32Imi02NPrQ6MoxphkSvwz7qguluh6BROSLg1BDUxpoNWY079EbK1tpdPDneX2eCJ7+HyYiBAYYdxmk44aYUW0/u5+WrE5DI5AWd2RLnEtUR6WWbTRxcWPJPE5X8KmGC95FQ3bVT00hO/vxpv2scfl/xdBwtE6upGVRvlFEdnldl0u8yWgKutY4JseYMj1DMsj8HFWt16VQVeGmOf74aYXi6gTdNaVEXSYrF0f1LqG2mcYszF/xR2kOuqWh1M2NYwF6ID60e3ZPcEUmOfqsSjyXViOIbfEiQgKztTEsjGHNgwbXRFtrc9QIxUUHm5F628qnLp6hibUUCB33FIlW6wN+VXsfPeI/c9MzIvPlcaGb4kaZJL0Wyi+XeZFBAuXyCLROFDlcA==;L3EoYx1g/7SjZOwx814Xeg=="
 ---

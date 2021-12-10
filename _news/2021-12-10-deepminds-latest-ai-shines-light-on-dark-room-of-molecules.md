@@ -3,8 +3,8 @@ category: news
 title: "DeepMind’s latest AI shines light on dark room of molecules"
 excerpt: "DeepMind has created the best chess player, one of the most accurate weather forecasting systems and a poker player that could give the card sharks of Las Vegas"
 publishedDateTime: 2021-12-10T00:01:00Z
-originalUrl: "https://www.thetimes.co.uk/article/deepminds-latest-ai-shines-light-on-dark-room-of-molecules-thww79qk3?shareToken=a92b7d9eb096c39543f25dd189bd8045"
-webUrl: "https://www.thetimes.co.uk/article/deepminds-latest-ai-shines-light-on-dark-room-of-molecules-thww79qk3?shareToken=a92b7d9eb096c39543f25dd189bd8045"
+originalUrl: "https://www.thetimes.co.uk/article/1fc096ce-5919-11ec-81f2-17f963b74220?shareToken=f82596f3d92e69d99b8b3b151c492235"
+webUrl: "https://www.thetimes.co.uk/article/1fc096ce-5919-11ec-81f2-17f963b74220?shareToken=f82596f3d92e69d99b8b3b151c492235"
 type: article
 quality: 54
 heat: -1
@@ -103,6 +103,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DeepMind AI tackles one of chemistry’s most valuable techniques"
+    excerpt: "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed the first machine-learning model that suggests a molecule’s characteristics by predicting the distribution of electrons within it."
+    publishedDateTime: 2021-12-10T15:48:00Z
+    webUrl: "https://www.nature.com/articles/d41586-021-03697-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 54
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-03697-8/d41586-021-03697-8_19948082.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "DeepMind neural networks open new window to understanding electron interactions"
     excerpt: "Neural networks can be used to build a more accurate map of the density and interaction between electrons than was previously attainable, new research from DeepMind shows. The result is a step towards enabling scientists to better understand the interactions between electrons,"
     publishedDateTime: 2021-12-09T19:14:00Z
@@ -113,6 +127,6 @@ related:
       domain: eurekalert.org
     quality: 32
 
-secured: "HvzLykRzZOGkwmE9h9OPjo+R5E/nFOYIFAesEZD+3j2fJeb++/8z1b2nUM0zVmc/BriYTr9VXUsltD54IDLPPDdgMp7pdcBD5ycnV5mBQZvp1HIrYWyFb88BQ79fNkmMGgG9T38iXk209Whcdl3nHxSf6opV1FpBM/GP1OGGsWp+n/xmj/DTV3jJcG3Jqzp2xz1K182Ab1+krwFCBP32C4e26RYk/Tcemlry5OtCN+sKbOEGxo0EgNdflF3FFDq9KwjyPidx4Dz6s3QaFJ50bXMYD7SQ4SFqpsHzkTaR+EiFs5tIQuQ+VXoIMK2EG0rVBLJFzos8CdgPXdZQCxmOfcnbL8A6l1TzpxspPc3YNCasiAMZCJgICWML7/3XzdQtOKksxwzutiDmWoB+24d5/Lhh3bOQIPXHqDMBfcUQwUe2VyLoX+p499Tuq3XXr4srf18GdLrNS8jpQZCzf3MAiHRS3fUSDhuNO+xtmT/zPGYSZjFkuYFpG7Exf65Pd3TcQLrWJa8W/HAqx18PqbEj6Q==;HWrjUk9NHR66MkBWpnK1UA=="
+secured: "OZCXS9gbHu7PqoTCtPo7/Rck/5KwYEq6f+qZE3kpRey/A9wjvMnz1J9VqzqvgszZWbq35WI7O0JmhL39ezo00MZN8/72JzyJXnvy26/c4NaNOXUYSa2Ds/L5gC/Sk37vr0vQEMYhP1dklDUxA/w30ciCVhvHSy2KSLuyBwH8ljUhzoGRJsrqte4Jb/m5Y2uAX8+I6Wylp2EVHjLIv4Mfd69+PIpx76n8eU62ujlrmOLahFh0YQ9Yfs/M+4ofMvfOlqFQ9UBaKzfCEneupYNFro82r7LCeDH4z4p3EoPqDCrOq6+YwCypQoNtgrXYbZtsmptJu/afHM9pjhQ+IYoGKbjfVapq4pEcptzErWNO9cs=;lQjXdIFqf7Fhmy/jDOUPyw=="
 ---
 

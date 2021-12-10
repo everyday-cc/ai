@@ -25,6 +25,22 @@ images:
     height: 563
     isCached: true
 
+related:
+  - title: "Tye Sheridan, Nikola Todorovic VFX Startup Wonder Dynamics Raises $9M; Epic Games, Samsung Investors"
+    excerpt: "Wonder Dynamics, a startup founded by Ready Player One star Tye Sheridan and VFX expert Nikola Todorovic that aims to lower the cost and level the playing field for visual effects, raised $9 million in a Series A funding round that included Epic Games and Samsung as investors."
+    publishedDateTime: 2021-12-10T16:02:00Z
+    webUrl: "https://www.imdb.com/news/ni63486317/"
+    type: article
+    provider:
+      name: IMDb
+      domain: imdb.com
+    quality: 22
+    images:
+      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
+        width: 1000
+        height: 1000
+        isCached: true
+
 secured: "hdRK8rx2WWeYOT3XVbMPmL1Vmgr2WZLsG1h/kQS+zOoVUyRu6Dm/VkVaURizSPgAUlEHuIgGq91zahi5W3mJQxhyqaJL0/aqJMVlPtmcyeKv7BtfEbQgZ67hGu7285VfH3+sYm6tNYWg8jSB9rFi2cC2EPgXWu7T83SoWpqykxdNjphYXsge/x1dz1Zg48elKLeFUhDaFrn3T5W/oH2/o+mNSCnLaJ7XhprwGGy3ljg9dUMDP14uU/x1aCgbgSv7Qd4Qtm4WVgP9MzkhQxsw591M7bGcHAQYX2qOVj4Cg28dHVe0LU/DS8il45ixzALyCDSlh2eSXFFn7QybhWB5CUaWPM9XEUG0yzeZPXYoLtc=;JaJyuMDop0Po4P3YMwuXjg=="
 ---
 
