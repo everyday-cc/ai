@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI startup SenseTime discussing fate of $767m HK IPO with exchange"
+    excerpt: "Chinese artificial intelligence startup SenseTime Group is discussing the fate of its planned $767 million Hong Kong initial public offering (IPO) with the city’s stock exchange"
+    publishedDateTime: 2021-12-10T13:58:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/sensetime-hk-ipo-2-273541/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 37
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2020/08/c44d98398f353d39a016f971d99df110.jpg"
+        width: 1280
+        height: 631
+        isCached: true
   - title: "US to blacklist Chinese AI company SenseTime over Xinjiang ahead of IPO"
     excerpt: "The US will put SenseTime, the Chinese artificial intelligence company that specialises in facial recognition software, on an investment blacklist on Friday, the same day that it prices its Hong Kong initial public offering."
     publishedDateTime: 2021-12-09T07:49:00Z

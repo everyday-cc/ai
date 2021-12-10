@@ -2,6 +2,208 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-04-how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler.md",
+      "title": "How to take advantage of Microsoft 365's AI meeting Scheduler",
+      "excerpt": "Can a computer plan your meetings for you over email? See how Scheduler for Microsoft 365 uses AI to handle this tedious chore.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/03/62a79d85-7901-4b4a-a2dd-d91b0ee8db8c/resize/1200x/ee03377875167bd67e3d988e0d938258/shutterstock-1680627343.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
+      "publishedDateTime": "2021-12-03T12:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-peter-jackson-details-how-get-back-used-machine-learning-to-restore-the-beatles-sound-and-footage-exclusive.md",
+      "title": "Peter Jackson Details How ‘Get Back’ Used Machine Learning to Restore the Beatles’ Sound and Footage (EXCLUSIVE)",
+      "excerpt": "There were several hurdles Peter Jackson’s “Get Back” had to mount before the eight-hour documentary could premiere on Disney Plus, including persuading the surviving members of",
+      "sourceUrl": null,
+      "webUrl": "https://variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/",
+      "originalUrl": "https://variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://variety.com/wp-content/uploads/2021/12/Get-Back-Beatles-Footage-And-Sound.jpg?w=1024",
+          "width": 1024,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/amp/",
+      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2021/music/news/peter-jackson-get-back-restored-beatles-footage-sound-1235125819/amp/",
+      "publishedDateTime": "2021-12-03T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Variety",
+        "domain": "variety.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021.md",
+      "title": "Top 12 AI and machine learning announcements at AWS re:Invent 2021",
+      "excerpt": "Invent 2021 conference, Amazon announced a slew of new Amazon Web Services features powered by AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
+      "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/",
+      "publishedDateTime": "2021-12-03T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "AI in Finance",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-ai-weekly-recognition-of-bias-in-ai-continues-to-grow.md",
+      "title": "AI Weekly: Recognition of bias in AI continues to grow",
+      "excerpt": "There's growing recognition that AI encodes biases. Efforts are underway to address these while recognizing the challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/03/ai-weekly-recognition-of-bias-in-ai-continues-to-grow/",
+      "originalUrl": "https://venturebeat.com/2021/12/03/ai-weekly-recognition-of-bias-in-ai-continues-to-grow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/03/ai-weekly-recognition-of-bias-in-ai-continues-to-grow/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/ai-weekly-recognition-of-bias-in-ai-continues-to-grow/amp/",
+      "publishedDateTime": "2021-12-03T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-6-best-identity-theft-protection-services-of-december-2021.md",
       "title": "6 Best Identity Theft Protection Services of December 2021",
       "excerpt": "With Total and Ultra plans Identity theft protection services can provide the help you need if your data has been compromised. These services monitor your personal information, credit files and the web,",
@@ -1002,179 +1204,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours.md",
-      "title": "These 4 Indian Airports Will Have Facial Recognition; Data Will Be Deleted In 24 Hours",
-      "excerpt": "The Airports Authority of India has been working on a project of FRT-based Biometric Boarding System.Facial Recognition Technology (FRT) is highly looked forward to, after the Indian government announ",
-      "sourceUrl": null,
-      "webUrl": "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/",
-      "originalUrl": "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://trak.in/wp-content/uploads/2021/12/72b0f32797dd441c89b1396bba9ac524_18.jpeg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/amp/",
-      "cdnAmpWebUrl": "https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/amp/",
-      "publishedDateTime": "2021-12-02T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Trak.in - India Business Blog",
-        "domain": "trak.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-qualcomm-technologies-and-google-cloud-announce-collaboration-on-neural-architecture-search-for-the-connected-intelligent-edge.md",
-      "title": "Qualcomm Technologies and Google Cloud Announce Collaboration on Neural Architecture Search for the Connected Intelligent Edge",
-      "excerpt": "Qualcomm Technologies and Google Cloud are collaborating on Neural Architecture Search (NAS), enabling the companies to create and optimize AI models automatically rather than manually. • First available on Snapdragon® 8,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/176743/",
-      "originalUrl": "https://www.newswiretoday.com/news/176743/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference.md",
-      "title": "SKKU: FinTech Research & Education Center for Global Leaders in Financial Innovation holds “2021 Global AI Finance Research Conference”",
-      "excerpt": "FinTech Research & Education Center for Global Leaders in Financial Innovation (Director: Prof. Kyo Jik Song) will hold the “2021 Global AI Finance Research Conference” at Sonocam Hotel in Yeosu from",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
-      "originalUrl": "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/11/640px-Samsung_Library_at_Suwon_campus_of_Sungkyunkwan_University.jpeg",
-          "width": 640,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/skku-fintech-research-education-center-for-global-leaders-in-financial-innovation-holds-2021-global-ai-finance-research-conference/",
-      "publishedDateTime": "2021-12-02T19:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-emerging-ai-companies-are-driving-a-paradigm-shift-in-ml.md",
-      "title": "Emerging AI Companies Are Driving A Paradigm Shift in ML",
-      "excerpt": "Leadership from Cruise and Facebook AI discuss the emergence of AI native companies and the paradigm shift being driven by advances in ML and robotics. Just as web transformed business, then the emergence of mobile and cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/video/emerging-ai-companies-are-driving-a-paradigm-shift-in-ml/",
-      "originalUrl": "https://techcrunch.com/video/emerging-ai-companies-are-driving-a-paradigm-shift-in-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.vidible.tv/prod/2021-12/01/61a7d5b4d0cfc04f658ab6fd/61a7d658b3835047bf8f1227_o_U_v1.jpg?w=640&h=360",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

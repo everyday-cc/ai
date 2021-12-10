@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-21-poll-do-you-think-ai-chips-on-phones-have-lived-up-to-the-hype.md",
+      "title": "Poll: Do you think AI chips on phones have lived up to the hype?",
+      "excerpt": "Dedicated AI chips have been available on smartphones for quite a few years now, but have they lived up to the hype?",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
+      "originalUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
+      "publishedDateTime": "2021-10-21T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-brainchip-begins-taking-orders-of-akida-ai-processor-development-kits.md",
       "title": "BrainChip Begins Taking Orders of Akida AI Processor Development Kits",
       "excerpt": "BrainChip Holdings Ltd (ASX: BRN), (OTCQX: BRCHF), a leading provider of ultra-low power high performance artificial intelligence technology, today announced BrainChip will be taking orders of two development kits for its Akida™ advanced neural networking processor,",
@@ -1354,49 +1397,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-07-exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads.md",
-      "title": "Exxact Corporation Releases New NVIDIA HGX A100 Powered Servers for AI and HPC Workloads",
-      "excerpt": "This new line of GPU-accelerated systems allows researchers and scientists to combine simulation, data analytics, and AI to drive scientific progress. NVIDIA HGX combines NVIDIA A100 Tensor Core ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads-1030848351",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/exxact-corporation-releases-new-nvidia-hgx-a100-powered-servers-for-ai-and-hpc-workloads-1030848351",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-06T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

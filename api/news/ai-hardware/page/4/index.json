@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-04-better-ai-stock-nvidia-or-palantir.md",
+      "title": "Better AI Stock: Nvidia or Palantir",
+      "excerpt": "Nvidia (NASDAQ:NVDA) and Palantir operate in different sectors, but both tech companies are profiting from the secular expansion of the artificial intelligence (AI) market. Nvidia",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
+      "originalUrl": "https://www.fool.com/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F649882%2Fgettyimages-664246660.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
+      "publishedDateTime": "2021-11-04T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-04-aptiv-tops-expectations-but-chip-shortage-will-continue-to-hit-self-driving-cars.md",
       "title": "Aptiv Tops Expectations but Chip Shortage Will Continue to Hit Self-Driving Cars",
       "excerpt": "The advanced automotive safety systems supplier reports earnings that beat expectations, but lingering supply-chain problems will affect the company for at least a few more quarters.",
@@ -1417,49 +1469,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-21-poll-do-you-think-ai-chips-on-phones-have-lived-up-to-the-hype.md",
-      "title": "Poll: Do you think AI chips on phones have lived up to the hype?",
-      "excerpt": "Dedicated AI chips have been available on smartphones for quite a few years now, but have they lived up to the hype?",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
-      "originalUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
-      "publishedDateTime": "2021-10-21T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

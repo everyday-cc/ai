@@ -2,6 +2,239 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-11-03-xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score.md",
+      "title": "XPeng launches ‘Smart Driving Points’ beta, eerily similar to Tesla’s ‘Safety Score’",
+      "excerpt": "XPeng will implement a 'Smart Driving Points' scoring system very similar to Tesla that ensures drivers don't abuse its self-driving tech.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/",
+      "originalUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2021/11/XPeng-Smart-Driving-Points.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/02/xpeng-launches-smart-driving-points-beta-eerily-similar-to-teslas-safety-score/amp/",
+      "publishedDateTime": "2021-11-02T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-robots-hit-the-streets-as-demand-for-food-delivery-grows.md",
+      "title": "Robots hit the streets as demand for food delivery grows",
+      "excerpt": "Robot food delivery is no longer the stuff of science fiction. But you may not see it in your neighborhood anytime soon. Hundreds of little robots __ knee-high and able to hold around four large pizzas __ are now navigating college campuses and even some city sidewalks in the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "originalUrl": "https://www.mysanantonio.com/news/article/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "cdnAmpWebUrl": "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/news/amp/Robots-hit-the-streets-as-demand-for-food-16584031.php",
+      "publishedDateTime": "2021-11-02T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "My San Antonio",
+        "domain": "mysanantonio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-facebook-to-shut-down-face-recognition-system-delete-data.md",
+      "title": "Facebook to shut down face-recognition system, delete data",
+      "excerpt": "Facebook says it will shut down its face-recognition system and will delete the faceprints of more than 1 billion people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksla.com/2021/11/02/facebook-shut-down-face-recognition-system-delete-data/",
+      "originalUrl": "https://www.ksla.com/2021/11/02/facebook-shut-down-face-recognition-system-delete-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/IF2cLlf2MJQeFMKSCbRwJq8iuKU=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/D4V6RZBG6RCI7NOS4LWGWRD6DY.jpg",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSLA",
+        "domain": "ksla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-changing-the-world-with-3d-data.md",
+      "title": "Changing the world with 3D data",
+      "excerpt": "Learn more how 3D data and ToF 3D image sensors are impacting a wide range of applications including retail, health, sports, and automotive.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/",
+      "originalUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-605695789.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/02/changing-the-world-with-3d-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/02/changing-the-world-with-3d-data/amp/",
+      "publishedDateTime": "2021-11-02T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-west-lafayette-facial-recognition-ban-remains-in-ordinance.md",
+      "title": "West Lafayette facial recognition ban remains in ordinance",
+      "excerpt": "A civil and constructive debate over West Lafayette's ban on facial recognition software occurred Monday night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlfi.com/content/news/West-Lafayette-facial-recognition-ban-remains-in-ordinance-575660031.html",
+      "originalUrl": "https://www.wlfi.com/content/news/West-Lafayette-facial-recognition-ban-remains-in-ordinance-575660031.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.field59.com/WLFI/825fb5f80dfde4cbffab5cb33e3ee0564f984088.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://www.wlfi.com/templates/AMP?contentID=575660031",
+      "cdnAmpWebUrl": "https://www-wlfi-com.cdn.ampproject.org/c/www.wlfi.com/templates/AMP?contentID=575660031",
+      "publishedDateTime": "2021-11-02T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLFI",
+        "domain": "wlfi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-02-microsofts-new-azure-openai-service-brings-gpt-3-to-a-few-more-developers.md",
       "title": "Microsoft’s new Azure OpenAI Service brings GPT-3 to (a few) more developers",
       "excerpt": "Microsoft today announced the launch of the Azure OpenAI Service, which, as the name implies, makes OpenAI’s machine learning models available on the Azure platform. Specifically, that means GPT-3, OpenAI’s groundbreaking language model that can,",
@@ -954,239 +1187,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-how-ai-creates-synthetic-speech.md",
-      "title": "How AI Creates Synthetic Speech",
-      "excerpt": "What is different these days is that the quality of synthesized speech is improving, thanks to several companies using AI to create voice skins for enterprise companies and content creators that give more options for turning text into speech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6180e37b097087a68b795e53%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/02/how-ai-creates-synthetic-speech/amp/",
-      "publishedDateTime": "2021-11-02T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-tcs-recognized-as-a-leader-in-idc-marketscape-for-managed-cloud-services-in-asia-pacific-excluding-japan.md",
-      "title": "TCS Recognized as a Leader in IDC MarketScape for Managed Cloud Services in Asia-Pacific (Excluding Japan)",
-      "excerpt": "Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting, and business solutions organization, has been positioned as a Leader in the IDC MarketScape for Asia-Pacific (Excluding Japan) Managed Cloud Services [1].",
-      "sourceUrl": null,
-      "webUrl": "https://www.tcs.com/tcs-recognized-leader-in-idc-marketscape-for-managed-cloud-services-in-asia-pacific-excluding-japan",
-      "originalUrl": "https://www.tcs.com/tcs-recognized-leader-in-idc-marketscape-for-managed-cloud-services-in-asia-pacific-excluding-japan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tata Consultancy Services",
-        "domain": "tcs.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-machine-learning-as-a-service-mlaas-market-size-to-record-3986-cagr-through-2027.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Size to Record 39.86% CAGR Through 2027",
-      "excerpt": "Nov 02, 2021 (Market Insight Reports) -- Global Machine Learning as a Service (MLaaS) Market was valued at USD 1.60 billion in 2020 and is anticipated to showcase a y-o-y growth rate of 39.86% ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-record-3986-cagr-through-2027-2021-11-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-to-record-3986-cagr-through-2027-2021-11-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-3-ways-to-use-data-analytics-and-machine-learning-in-test-automation.md",
-      "title": "3 ways to use data, analytics, and machine learning in test automation",
-      "excerpt": "He believes machine learning is key to handling increasing test volumes. “The quality of digital business is the quality of the code and testing that runs it. The more code there is to test ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3636217/3-ways-to-use-data-analytics-and-machine-learning-in-test-automation.html",
-      "originalUrl": "https://www.infoworld.com/article/3636217/3-ways-to-use-data-analytics-and-machine-learning-in-test-automation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/03/automation-100712884-large.jpg?auto=webp&quality=85,70",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3636217/3-ways-to-use-data-analytics-and-machine-learning-in-test-automation.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3636217/3-ways-to-use-data-analytics-and-machine-learning-in-test-automation.amp.html",
-      "publishedDateTime": "2021-11-01T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-over-90-of-uae-employees-believe-robots-can-support-their-career-better-than-humans.md",
-      "title": "Over 90% of UAE employees believe robots can support their career better than humans",
-      "excerpt": "According to a new study by Oracle and Workplace Intelligence, an HR research and advisory firm, people are turning to robots to help ... but are ready to regain control of their futures.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/over-90-of-uae-employees-believe-robots-can-support-their-career-better-than-humans/",
-      "originalUrl": "https://gulfbusiness.com/over-90-of-uae-employees-believe-robots-can-support-their-career-better-than-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2018/05/Science-robot-hand.jpg",
-          "width": 594,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-01T20:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

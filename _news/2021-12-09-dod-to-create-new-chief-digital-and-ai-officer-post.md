@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pentagon creates new digital and artificial intelligence office"
+    excerpt: "The position is meant to streamline disparate efforts within the department to drive faster innovation and capabilities with China in mind."
+    publishedDateTime: 2021-12-08T23:01:00Z
+    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/"
+    type: article
+    provider:
+      name: C4ISRNET
+      domain: c4isrnet.com
+    quality: 137
+    images:
+      - url: "https://www.c4isrnet.com/resizer/2h70Sw0X79RAhto2FDovtPsVyzE=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/HXSBFKDG35FRPDV2AMO6XH4UPE.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Pentagon creates new overseer for innovation: chief digital and artificial intelligence officer"
     excerpt: "The Joint Artificial Intelligence Center, Defense Digital Service and Chief Data Officer will now report a new Chief Digital and Artificial Intelligence officer"
     publishedDateTime: 2021-12-08T23:02:00Z
@@ -40,19 +54,19 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Pentagon creates new digital and artificial intelligence office"
-    excerpt: "The position is meant to streamline disparate efforts within the department to drive faster innovation and capabilities with China in mind."
-    publishedDateTime: 2021-12-08T23:01:00Z
-    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/"
+  - title: "Pentagon adds new top AI role"
+    excerpt: "Deputy Secretary of Defense Kathleen Hicks, shown here at a September 2021 press briefing, announced the creation of a new top AI post at the Pentagon. (DOD  U.S. Air Force Staff Sgt. Brittany A. Chase) The Pentagon is creating a new position to lead its artificial intelligence efforts."
+    publishedDateTime: 2021-12-09T18:08:00Z
+    webUrl: "https://fcw.com/Articles/2021/12/09/ai-office-osd-dod.aspx?p=1"
     type: article
     provider:
-      name: C4ISRNET
-      domain: c4isrnet.com
-    quality: 37
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 39
     images:
-      - url: "https://www.c4isrnet.com/resizer/2h70Sw0X79RAhto2FDovtPsVyzE=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/HXSBFKDG35FRPDV2AMO6XH4UPE.jpg"
-        width: 1024
-        height: 576
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/PEOPLE/H/hicks_kathleen_briefs.jpg"
+        width: 760
+        height: 368
         isCached: true
   - title: "DOD to Hire First-Ever Chief Digital and Artificial Intelligence Officer, Form New Office"
     excerpt: "The Defense Department will hire its first chief digital and artificial intelligence officer and formally establish a new office under their purview—by next summer—via an organizational restructure it deems necessary to advance data and technology integration and innovation across its massive enterprise."

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-det
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 158
 published: true
 
 provider:

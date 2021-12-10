@@ -2,25 +2,25 @@
 category: news
 title: "Can companies police the biases found in artificial intelligence?"
 excerpt: "How can bias be removed from artificial intelligence? NPR's Audie Cornish talks with Kenneth Chenault, co-chair of the Data and Trust Alliance, on how corporations can take steps to make that happen."
-publishedDateTime: 2021-12-09T21:58:00Z
-originalUrl: "https://www.capradio.org/news/npr/story?storyid=1062791766"
-webUrl: "https://www.capradio.org/news/npr/story?storyid=1062791766"
+publishedDateTime: 2021-12-09T23:52:00Z
+originalUrl: "https://www.wbur.org/npr/1062791766/can-companies-police-the-biases-found-in-artificial-intelligence"
+webUrl: "https://www.wbur.org/npr/1062791766/can-companies-police-the-biases-found-in-artificial-intelligence"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Capital Public Radio
-  domain: capradio.org
+  name: WBUR
+  domain: wbur.org
 
 topics:
   - AI
 
 images:
-  - url: "https://www.capradio.org/images/share/placeholder.jpg"
-    width: 1200
-    height: 628
+  - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/wbur-tile.png"
+    width: 1700
+    height: 1700
     isCached: true
 
 related:
@@ -41,7 +41,7 @@ related:
   - title: "NYC Targets Artificial Intelligence Bias in Hiring Under New Law"
     excerpt: "New York City has a new law on the books—one of the boldest measures of its kind in the country—that aims to curb hiring bias that can occur when businesses use artificial intelligence tools to screen out job candidates."
     publishedDateTime: 2021-12-10T10:41:00Z
-    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/nyc-targets-artificial-intelligence-bias-in-hiring-under-new-law"
+    webUrl: "https://news.bloomberglaw.com/daily-labor-report/nyc-targets-artificial-intelligence-bias-in-hiring-under-new-law"
     type: article
     provider:
       name: Bloomberg Law
@@ -62,6 +62,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "OjEGib40RjLPqyekfwWwRVm69I5zei4CepYJqHCnpYfFmS2RWmPf9KOcy8+5C0YL4q5brlZl2G95hMjHAJBaDTVMWWxbbnPTSlP0PWJYjLsWLStdf/HdRutp333tOclaNNVWJJZVGJK7EKqFbI7jF1bR1C6+Wv9+jtcnGAK0qF9GynRU9j0P4VRvVQu31i4XJApVH2/qPaKikbizxxcW9V4Cbqvz0DWlvAIMgmOPnRRsFwgUP6QaAjSg0QmkCXZKrWYwuX3kTuZrMokVfDSls1qtbnEwJcS/palpMP+J5hql+UafzeezUQUc5e3z8aKml+fTE6eEaNW3E/B6Jd9NrgwYGWWkZjgKlv0Dtw1mEDo=;pMtlQYyg4IfKYIDgqghauA=="
+secured: "3HwRF3TblCvHwEOI1N6bp51RJLtGj5NrLtx8mYZgPN7d7GMd5NCaXh5aTK+qDHKfmH98QbzxW5HwAQouKUwcpVDZPP/8+LKKp8zfq6L3nUrUxB5mUKOB2IWl9uj9KFxJ9h0p2PDshTNjhZhf+FFPegnDR8KjeKCPO0QnZze4YXqpblaXstJZhO4ZWRJauYWDJQosvbT+uyZDXUIsM+WGyb9+ibrGXCzAk//tWkiiTrJLbl4kSWcSS0sZzU34Z/GGsmgJhAD9KZNbKf6uYhfg8PL5pfmebx5VMgYzzsfMvf1thxTpgK2tSnsDpjP/WhhV37Qh2QvFCZM1ZtyXXhuSjUz2KeYkx9NwSADRV1X6wB0=;ez0Y0wglyuquHSdjhI75nQ=="
 ---
 

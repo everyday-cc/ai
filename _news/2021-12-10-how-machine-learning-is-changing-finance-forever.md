@@ -44,6 +44,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Cyber Daily: U.S. to Bar Investment in Chinese Facial Recognition Firm"
+    excerpt: "The use of facial recognition sparks debate and we’ve covered local bans, such as in Portland and San Francisco. As with data privacy in general, there is no federal law in the U.S. to set boundaries,"
+    publishedDateTime: 2021-12-10T13:06:00Z
+    webUrl: "https://www.wsj.com/articles/cyber-daily-u-s-to-bar-investment-in-chinese-facial-recognition-firm-11639145216"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qZNWuSzcONNPb6262ODZKO0+DtP2PLuRdJHxSFo2zLl+Milk3diLnNgaRIAhCMqQwGT8emK1jkn8wdy1YnDhN6ajQY3saAp0dmy/hIC18NIils4gyKQHnbztTFFhm6DjvzHf6+M/CGmesGNQ47Y9kAPmsy144KbtfkvAabhUbqGEDCDut4+PAvCv1NsdGNzOuy17l8b/vchuC6w8OtCf7J3qFaORo2EBNtss4rTSIvDBFsLeIQM+VLOCa9GiBLJ/XGNeU3+mQ5+PrrwB1Q2DzUsj/JIkZYL0HP21xcVuShtuJMZ/+Nmj64bXoKiX+8fpJnk6ObEE0mk2k7NiUCeVdWFC/Ed3QdICQZxPU5voA1kfSowe2U3lmTIdOjmj/LNKNJunzliNaCebQdI15BJAVqWCMx25FumwU72PM3gxRpHe1iZULXHQbXhYhx0UkojTvnoEL5f8B6HgrKigPA2De67TW4jF61TN7CDzz2MFdIF1DtfXtXK4xo10P3pHjqukOzwCoWK2GqKSb1P931SAPA==;BuKDA/cxrmSWIkgtzhJlbQ=="
 ---

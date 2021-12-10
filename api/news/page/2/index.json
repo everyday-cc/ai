@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-09-millions-of-americans-will-now-be-eligible-for-superhero-healthcare.md",
+      "title": "Millions Of Americans Will Now Be Eligible For Superhero Healthcare",
+      "excerpt": "Following Wonder Woman Gal Gadot's announcement last week that she would be joining forces with healthcare giant K Health, the company is now announcing it will provide primary care to 10 million more",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b20098bc35b3d9629e2162%2F0x0.jpg%3FcropX1%3D418%26cropX2%3D4579%26cropY1%3D0%26cropY2%3D2340",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/amp/",
+      "publishedDateTime": "2021-12-09T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students.md",
+      "title": "UK’s Atom Learning picks up $25M from SoftBank for an AI-based online learning platform aimed at elementary school-aged students",
+      "excerpt": "The Covid-19 pandemic ushered in a new chapter for virtual learning, giving a boost of attention to existing tools and spurring the creation of new services and use cases as students of all ages were ordered to stay home and stay out of classrooms.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/",
+      "originalUrl": "https://techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/atom-learning.jpg?w=1024",
+          "width": 1024,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/amp/",
+      "publishedDateTime": "2021-12-09T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone.md",
       "title": "The Psychology Of Voice Technology: Building A Better Voice Assistant For Everyone",
       "excerpt": "If a voice assistant can't do its primary job and understand what's being asked, the user is a lot less likely to continue using it. So, what can be done to create a more inclusive VUI experience?",
@@ -98,6 +202,57 @@
       ]
     },
     {
+      "path": "_news/2021-12-09-deeprouteai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production.md",
+      "title": "DeepRoute.ai unveils ‘affordable’ advanced autonomous driving solution for mass production",
+      "excerpt": "The L4 solution’s price point is the same as current L2 solutions. Shenzhen-based autonomous driving startup DeepRoute.",
+      "sourceUrl": null,
+      "webUrl": "https://kr-asia.com/deeproute-ai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production",
+      "originalUrl": "https://www.linkedin.com/pulse/deeprouteai-unveils-affordable-advanced-autonomous-driving-solution-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://console.kr-asia.com/wp-content/uploads/2021/11/Car-1.png",
+          "width": 2084,
+          "height": 1032,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kr-asia.com/deeproute-ai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production",
+      "cdnAmpWebUrl": "https://amp-kr--asia-com.cdn.ampproject.org/c/s/amp.kr-asia.com/deeproute-ai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production",
+      "publishedDateTime": "2021-12-09T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen.md",
       "title": "Bullish on industrial, consumer, healthcare and fintech in India: John Praveen",
       "excerpt": "Agencies  We probably won't see the kind of strong earnings we saw in 2021 either in the US or India and might see earnings more in the 15-20% range rather than in the 20-30% range, says John Praveen,",
@@ -187,43 +342,25 @@
     {
       "path": "_news/2021-12-09-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
       "title": "Self-driving startup Robotics Research raises $228 mln in funding",
-      "excerpt": "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles.",
+      "excerpt": "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/",
-      "originalUrl": "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/",
+      "webUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
+      "originalUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 152,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T21:12:00-08:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp",
+      "publishedDateTime": "2021-12-08T21:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -232,8 +369,9 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -286,6 +424,48 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-pentagon-creates-new-digital-and-artificial-intelligence-office.md",
+      "title": "Pentagon creates new digital and artificial intelligence office",
+      "excerpt": "The position is meant to streamline disparate efforts within the department to drive faster innovation and capabilities with China in mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.c4isrnet.com/resizer/2h70Sw0X79RAhto2FDovtPsVyzE=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/HXSBFKDG35FRPDV2AMO6XH4UPE.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T15:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -589,6 +769,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-tpa-tests-new-self-driving-wheelchairs.md",
+      "title": "TPA tests new self-driving wheelchairs",
+      "excerpt": "The motorized wheelchairs, similar to the ones you’d see in a supermarket, are free for passengers including those with mobility issues and injuries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtsp.com/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
+      "originalUrl": "https://www.wtsp.com/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wtsp.com/assets/WTSP/images/fd127d07-cefb-479c-8bbf-5b926dfc5e6d/fd127d07-cefb-479c-8bbf-5b926dfc5e6d_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
+      "cdnAmpWebUrl": "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
+      "publishedDateTime": "2021-12-08T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTSP",
+        "domain": "wtsp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -986,248 +1209,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts.md",
-      "title": "NewtonX raises $32M for AI that connects customers with subject-matter experts",
-      "excerpt": "NewtonX, a startup developing graph technology that connects experts with companies seeking answers to questions, has raised $32 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/",
-      "originalUrl": "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/",
-      "publishedDateTime": "2021-12-08T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-natural-language-processing-and-conversational-ai-in-the-call-center.md",
-      "title": "Natural Language Processing and Conversational AI in the Call Center",
-      "excerpt": "Natural language processing (NLP) and conversational AI are often used together with machine learning, natural language understanding (NLU) to create sophisticated applications that enable machines to communicate with human beings. This article will look ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/",
-      "originalUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/a40ebbb5088c4bb7a3be22349378658d.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/amp/",
-      "publishedDateTime": "2021-12-08T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-moderna-stock-is-sold-by-this-robot-trader-it-bought-tesla-and-merck-instead.md",
-      "title": "Moderna Stock Is Sold by This Robot Trader. It Bought Tesla and Merck Instead.",
-      "excerpt": "Artificial intelligence-run fund AMOM also loaded up on shares of Netflix, and bet big on a very low-profile medical device specialist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159?refsec=hp_INTERESTS_technical-analysis",
-      "originalUrl": "https://www.barrons.com/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159?refsec=hp_INTERESTS_technical-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-77576/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159",
-      "publishedDateTime": "2021-12-08T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-red-hat-brings-ansible-it-automation-engine-to-azure.md",
-      "title": "Red Hat brings Ansible IT automation engine to Azure",
-      "excerpt": "Red Hat is bringing the Ansible Automation Platform to Microsoft's Azure, helping companies manage and scale their IT environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/",
-      "originalUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/Red-Hat.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/red-hat-brings-its-ansible-it-automation-engine-to-azure/amp/",
-      "publishedDateTime": "2021-12-08T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind.md",
-      "title": "The Era Of ‘Pervasive AI’ Has Begun: Get Going Or Get Left Behind",
-      "excerpt": "This new era of AI — \"pervasive AI\" — marks the end of technology paralysis and the beginning of transformation enablement. So, no more excuses. Stop worrying about how AI works and start focusing on what you want it to do for your business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af6519fc3b7cc9b1a728d7%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/08/the-era-of-pervasive-ai-has-begun-get-going-or-get-left-behind/amp/",
-      "publishedDateTime": "2021-12-08T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

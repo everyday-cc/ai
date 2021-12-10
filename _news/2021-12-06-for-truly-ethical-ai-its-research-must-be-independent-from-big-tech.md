@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/dec/06/google-silicon
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://images.livemint.com/img/2021/12/07/600x338/Google_1638896315418_1638896328893.jpg"
         width: 600
         height: 338
-        isCached: true
-  - title: "Artificial Intelligence Research Centers"
-    excerpt: "Timnit Gebru,’ a former AI researcher at Google, has launched its own independent artificial intelligence research center after"
-    publishedDateTime: 2021-12-06T22:22:00Z
-    webUrl: "https://www.trendhunter.com/trends/artificial-intelligence-research"
-    ampWebUrl: "https://www.trendhunter.com/amp/trends/artificial-intelligence-research"
-    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/artificial-intelligence-research"
-    type: article
-    provider:
-      name: TrendHunter
-      domain: trendhunter.com
-    quality: 57
-    images:
-      - url: "https://cdn.trendhunterstatic.com/thumbs/artificial-intelligence-research.jpeg"
-        width: 800
-        height: 534
         isCached: true
 
 secured: "v2vDmb/Gyk9R7mPvafOEjV5JwuT8eaDxcQpTWzEkqyP8890ugF+FPeqcIdOD3cUGZ3qnu/mLm2iMYG2WVZ7SyuAfaw0uPT11pCPvCxdrNqKVemB1QpSuCwBOd8H82MHgzWYBCDM08WEM/b2GB7IaUOpGSKD5AhbkWRoeR1yGp99Jj2b0AXtYR7d4bXwQzrnHDL2T1bo1rrYu2GqIgpEMT2J/gbUxEjEJAumdafC8GgpC8OtWRljInKEBM/wk5RTAHP7kDmgFa7qp0MdhEuvPEIGt/Zx1cI4mv6jo3LaJbvB/Kp0DkJB47WTns50rP9fBXdbU8izBsESEKYr+RzphRfphNeedbfnJOBb3a7Rj3gGuhxx4l4L5Na8lGlwK+eXD3Z9kF2VFqefPYp+retTFyP2IIpNQ9Ji4S0e41nZohydwrTFQKH9hDPcg6yjLGPJbwLreiIHZkdElifhefkYS0vSbMIa9pXa3vjkOicZYODoSvzO5b7gzOeU7qAxfv+9RVDHs/8mPqGU2+ewB/N/K/A==;QEteCDrwCQksL1xcc/ENmQ=="

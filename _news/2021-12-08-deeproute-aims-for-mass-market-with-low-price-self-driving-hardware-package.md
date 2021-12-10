@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepRoute.ai unveils ‘affordable’ advanced autonomous driving solution for mass production"
+    excerpt: "The L4 solution’s price point is the same as current L2 solutions. Shenzhen-based autonomous driving startup DeepRoute."
+    publishedDateTime: 2021-12-09T11:08:00Z
+    webUrl: "https://kr-asia.com/deeproute-ai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production"
+    ampWebUrl: "https://amp.kr-asia.com/deeproute-ai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production"
+    cdnAmpWebUrl: "https://amp-kr--asia-com.cdn.ampproject.org/c/s/amp.kr-asia.com/deeproute-ai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 147
+    images:
+      - url: "https://console.kr-asia.com/wp-content/uploads/2021/11/Car-1.png"
+        width: 2084
+        height: 1032
+        isCached: true
   - title: "Autonomous driving startup Deeproute.ai prices L4 solution at $10,000"
     excerpt: "Deeproute.ai, an autonomous vehicle startup with offices in Shenzhen and Fremont, California, unveiled an ambitious self-driving solution on Wednesday. The package, named DeepRoute-Driver 2.0, is a production-ready Level 4 system that costs approximately $10,"
     publishedDateTime: 2021-12-08T03:38:00Z

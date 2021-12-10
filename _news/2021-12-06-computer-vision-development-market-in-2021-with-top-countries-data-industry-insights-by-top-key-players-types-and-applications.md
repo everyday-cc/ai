@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global BFSI Artificial Intelligence Market 2021 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2027"
-    excerpt: "The report named Global BFSI Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 presents this market’s past performance analysis, latest market performance estimation for the current year,"
-    publishedDateTime: 2021-12-05T21:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-bfsi-artificial-intelligence-market-2021-key-players-comprehensive-research-swot-analysis-and-forecast-by-2027-2021-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Mz5k1Rgm4gUDh0RWGyJYI01pqzFdbDCyHX/iVJ7SFvB6H5PF1JIu6v///79fIDl0XVC2ybPGZMVFDEKzkUbdLY6mO81dpZ2slbi/1BHjRXdzkB6NSg5codGgth/Osohwjc8rV3UW3o8ZPhObnh/QeORyqD9WmtjrmJMBhiFEBB1X7noTrv5foru9RdmTgj/p0JE2m87hJVUq9x/oFRvpYClDicynmBGL+m4PRxQ2A8zFzB8wxIGG8B/5lq9cBfAik7bJkm80WQa1ypDjRf4XFw3tqmLu8C3mOZoiHL5ORjxAMOFLXNiAWpkMkYgsQtOm+7DGBORMdke6I3ZdosTefrKQjFw4jKdfu/ph4RPlF+w=;3LFJ8nV5N3W0DXXnssgWag=="
 ---

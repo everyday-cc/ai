@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-10-we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union.md",
+      "title": "We invited an AI to debate its own ethics – in the Oxford Union",
+      "excerpt": "Andrew Stephen receives research funding from the Oxford Future of Marketing Initiative, which is funded by a consortium of companies, including Meta, Google, Twitter, WPP, L’Oréal, Kantar, Reckitt and Teradata.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-173607",
+      "originalUrl": "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-173607",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/436935/original/file-20211210-140109-wcrkj5.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=280&fit=crop",
+          "width": 320,
+          "height": 280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-173607",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-173607",
+      "publishedDateTime": "2021-12-10T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek.md",
+      "title": "Microsoft researchers: We've trained AI to find software bugs using hide-and-seek",
+      "excerpt": "Microsoft creates an AI bug detector that learns to hunt for and fix bugs without being training it on data from real bugs. Does it work? Kind of.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/",
+      "publishedDateTime": "2021-12-10T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-supercharge-your-geforce-gpu-with-these-6-must-use-features.md",
       "title": "Supercharge your GeForce GPU with these 6 must-use features",
       "excerpt": "Give your GeForce graphics a boost. From higher frames per second to more visual flair, these tips will help you get more from your GeForce GPU.",
@@ -203,7 +290,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -297,58 +384,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-10-upstart-upst-a-fintech-investment-to-act-on-today.md",
-      "title": "Upstart (UPST): A Fintech Investment To Act On Today",
-      "excerpt": "Upstart (UPST) is ripe for a buy today with a couple of key support levels ready to maintain its buoyancy, following an overdone sell-off last month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/401880",
-      "originalUrl": "https://www.entrepreneur.com/article/401880",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-401880.jpeg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-10-us-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker.md",
       "title": "U.S. to Bar Investment in Chinese AI Giant, Considers Banning Key Exports to Top Chip Maker",
       "excerpt": "The focus on SenseTime and Semiconductor Manufacturing International is part of broader Biden administration effort against China’s tech firms.",
@@ -357,7 +392,7 @@
       "originalUrl": "https://www.wsj.com/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -409,7 +444,7 @@
       "originalUrl": "https://thenextweb.com/news/codifying-humanity-why-ai-sucks-content-moderation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -605,6 +640,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-upstart-upst-a-fintech-investment-to-act-on-today.md",
+      "title": "Upstart (UPST): A Fintech Investment To Act On Today",
+      "excerpt": "Upstart UPST, the AI-driven fintech innovator changing the way creditworthiness is assessed, is ripe for a buy today with a couple of key support levels ready to maintain its recent buoyancy, following an overdone sell-off last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today",
+      "originalUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp",
+      "publishedDateTime": "2021-12-09T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1112,110 +1181,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-millions-of-americans-will-now-be-eligible-for-superhero-healthcare.md",
-      "title": "Millions Of Americans Will Now Be Eligible For Superhero Healthcare",
-      "excerpt": "Following Wonder Woman Gal Gadot's announcement last week that she would be joining forces with healthcare giant K Health, the company is now announcing it will provide primary care to 10 million more",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b20098bc35b3d9629e2162%2F0x0.jpg%3FcropX1%3D418%26cropX2%3D4579%26cropY1%3D0%26cropY2%3D2340",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/amp/",
-      "publishedDateTime": "2021-12-09T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students.md",
-      "title": "UK’s Atom Learning picks up $25M from SoftBank for an AI-based online learning platform aimed at elementary school-aged students",
-      "excerpt": "The Covid-19 pandemic ushered in a new chapter for virtual learning, giving a boost of attention to existing tools and spurring the creation of new services and use cases as students of all ages were ordered to stay home and stay out of classrooms.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/",
-      "originalUrl": "https://techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/atom-learning.jpg?w=1024",
-          "width": 1024,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/09/uks-atom-learning-picks-up-25m-from-softbank-for-an-ai-based-online-learning-platform-aimed-at-elementary-school-aged-students/amp/",
-      "publishedDateTime": "2021-12-09T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

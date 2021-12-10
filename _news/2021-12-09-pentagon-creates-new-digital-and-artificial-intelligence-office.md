@@ -6,9 +6,9 @@ publishedDateTime: 2021-12-08T23:01:00Z
 originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/"
 webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 137
+heat: 177
+published: true
 
 provider:
   name: C4ISRNET
@@ -40,6 +40,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Pentagon adds new top AI role"
+    excerpt: "Deputy Secretary of Defense Kathleen Hicks, shown here at a September 2021 press briefing, announced the creation of a new top AI post at the Pentagon. (DOD  U.S. Air Force Staff Sgt. Brittany A. Chase) The Pentagon is creating a new position to lead its artificial intelligence efforts."
+    publishedDateTime: 2021-12-09T18:08:00Z
+    webUrl: "https://fcw.com/Articles/2021/12/09/ai-office-osd-dod.aspx?p=1"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 39
+    images:
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/PEOPLE/H/hicks_kathleen_briefs.jpg"
+        width: 760
+        height: 368
+        isCached: true
   - title: "DOD to create new chief digital and AI officer post"
     excerpt: "The DOD will create a new office to oversee the JAIC, DDS and chief data officer to centralize its innovation efforts."
     publishedDateTime: 2021-12-09T15:49:00Z
@@ -69,6 +83,6 @@ related:
         height: 400
         isCached: true
 
-secured: "DEtmWavR4RWw2DBTKrlWUOlpzAjUbselsyML4H85Pok1XCZSzqpHlrceIAj9EitVXBiHkUPjxgKUJrYYh2ciw7+yhkJrFAHel3na+RKxaupKfv9WWV19fuE3JvNdusbVyr8pt2b/N8CZdh2yP/S4fACdTdhsa9uvrOxwcuEbMGTgHsJUsRzs/rX/w9EvLD8K21wiBb9r/wmm6+vF6x9RXZQ4i4YrQwO3E8YwkYcDGObK0s9NCaDG8GFm75deKOqvbAhh1S/GGwHwhFSajTaICMcvES8Q7yboP2ry+9umv4qjdSh/cy84ABXZVZ+XsvnjjKNHvjULUZyKI2DluJMATIhj8kePt45I+oK9u9jzQJAn7iqy4xU8PVPdKHBIRm98v4hfIg+nn91MIkMtV0ElyibL9j6a155DaDf0AtkfAmcecpBriEHMB9gsDp/I9NqwZgHiMB6Mw79x+oLG3V9HVCXQV3J8sslNQZYynhEPldJDDjhoJ/V6sr8NEzxYDQviwZ0PvOGZlBV2wwtwbUkPzw==;fKWyj38zFLnP/HIeE8tdHA=="
+secured: "Y1B5aNvblnlw+PwwBOXwe8ZoOMIjfFoz3XHT6bhhGB3k8SJixWNaYH1Uo5yGNAs+tHqWaT+eB9rZOn7Gg4Wmmcjd45+6/xGhd1yyyeGaBKoczfVGY+XGrQwo+ykotW1tBxmbt3s4N2xM+K4FZEtxHW48/zkWr3EE0+ND6zAz52NYIiUtLeRNfWg3uKUqWc0cE3Sth2ekaQsro6sdTzVPrYSkWEUL9nDeytSinvYOnNRh+FAWGl3RC+51lmLLDuVPzq9fTKQCwEslpTLuDaGdC7ODU9EYfbUCRqhYdKEiegW2Yl7anx5iwHofcirOmY7cRt23oLz0KH5hVoxULhdachEaIjgUq8zaULAWclWXRoiia1oJ90Rp8nQ+qdL8n0mwHdlI8eUr7OS8CDMbuCkc84lIQmtwqhabPtBXYyrBzXl8uzTdAbk5O1HLzGjh28XqxE/YXngrBmGcb4Yx/JhX1ppI0/sRcCbOcIROvY28QZlVEDhqStDrDPUbKbyU1afbwFaoZEFsDCLB39TV16OLZbx+TGZDde2rzQ9adAN2LxY=;/+F8o8sXCLjolThDWaPlXA=="
 ---
 

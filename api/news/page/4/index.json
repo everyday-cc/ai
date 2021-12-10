@@ -2,6 +2,211 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-08-identity-verification-startup-incode-raises-220m.md",
+      "title": "Identity verification startup Incode raises $220M",
+      "excerpt": "Incode, a company developing an AI-powered identity verification product, has raised $220 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/07/identity-verification-startup-incode-raises-220m/",
+      "originalUrl": "https://venturebeat.com/2021/12/07/identity-verification-startup-incode-raises-220m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-522152569-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/07/identity-verification-startup-incode-raises-220m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/identity-verification-startup-incode-raises-220m/amp/",
+      "publishedDateTime": "2021-12-07T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-please-hold-how-ai-is-changing-customer-service-in-call-centers.md",
+      "title": "Please hold: How AI is changing customer service in call centers",
+      "excerpt": "Advances in AI and NLP provide powerful tools to support agents, increase efficiency, cut costs, and greatly enhance customer experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/07/please-hold-how-ai-is-changing-customer-service-in-call-centers/",
+      "originalUrl": "https://venturebeat.com/2021/12/07/please-hold-how-ai-is-changing-customer-service-in-call-centers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-684584328.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/07/please-hold-how-ai-is-changing-customer-service-in-call-centers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/please-hold-how-ai-is-changing-customer-service-in-call-centers/amp/",
+      "publishedDateTime": "2021-12-07T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer.md",
+      "title": "Get more done with lifetime access to AI-powered music and a Pomodoro timer",
+      "excerpt": "There are a lot of ways to increase your productivity, but few of them will be as effortless and enjoyable as simply listening to music that has been optimized by AI for getting work done.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
+      "originalUrl": "https://www.techrepublic.com/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/20/0261a7b9-aa96-4169-89bb-f07e45ad2aa8/resize/1200x/199e2d794b65e2788f7eefa49082fb24/istock-1181026897.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
+      "publishedDateTime": "2021-12-07T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning.md",
+      "title": "The Future Of Work: How Slack Is Reinventing Hybrid Collaboration With Machine Learning",
+      "excerpt": "Slack, an already integral part of the modern workforce, is redefining the norm of remote and hybrid work yet again with its new collaboration tools - huddles and clips. With the help of AWS machine learning (ML),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/07/the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/07/the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61afb30e21036f0141922566%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/07/the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/12/07/the-future-of-work-how-slack-is-reinventing-hybrid-collaboration-with-machine-learning/amp/",
+      "publishedDateTime": "2021-12-07T10:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-suki-a-siri-like-voice-platform-for-doctors-raises-55-million.md",
       "title": "Suki, a Siri-like voice platform for doctors, raises $55 million",
       "excerpt": "Suki is an AI-powered voice platform that doctors can use to generate and retrieve medical notes, and reduce time-consuming administration.",
@@ -972,191 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-meta-picks-aws-as-strategic-ai-cloud-provider.md",
-      "title": "Meta Picks AWS as Strategic AI Cloud Provider",
-      "excerpt": "Amazon Web Services has announced that Meta (formerly Facebook) has deepened its relationship with AWS as a strategic cloud provider, using AWS’s cloud infrastructure to complement its on-premises infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/12/meta-picks-aws-as-strategic-ai-cloud-provider/",
-      "originalUrl": "https://insidehpc.com/2021/12/meta-picks-aws-as-strategic-ai-cloud-provider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2021/12/Meta-logo.png",
-          "width": 340,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
-      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
-      "excerpt": "A wide-reaching program looks for fresh machine learning technology to complete menial procedures and tasks, allowing VA clinicians and partners to focus on care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/12/06/america_united_states_department_of_veterans_affairs_picture_id1152538330_3/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-human-intuition-and-machine-reasoning-ais-helping-us-solve-giant-math-puzzles.md",
-      "title": "Human intuition and machine reasoning: AI’s helping us solve giant math puzzles",
-      "excerpt": "Mathematical discoveries take creativity – and now a little help from AI. Here's how neural nets are helping us develop intuition.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/human-intuition-machine-reasoning-ais-helping-us-solve-giant-math-puzzles-syndication",
-      "originalUrl": "https://thenextweb.com/news/human-intuition-machine-reasoning-ais-helping-us-solve-giant-math-puzzles-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FMathematician-teacher-AI-math-blackboard-hed.jpg&signature=ce79ebf5b685916e316302e581625ff6",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-robots-evolve-bodies-and-brains-like-animals-in-mits-new-ai-training-simulator.md",
-      "title": "Robots Evolve Bodies and Brains Like Animals in MIT’s New AI Training Simulator",
-      "excerpt": "MIT's new virtual world allows soft robots to evolve bodies and brains in parallel. Intriguingly, many took on shapes similar to real animals.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/12/06/robots-evolve-bodies-and-brains-like-animals-in-mits-new-ai-training-simulator/",
-      "originalUrl": "https://singularityhub.com/2021/12/06/robots-evolve-bodies-and-brains-like-animals-in-mits-new-ai-training-simulator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/12/evolution-gym-ai-robot-mit-csail-1.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/12/06/robots-evolve-bodies-and-brains-like-animals-in-mits-new-ai-training-simulator/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/06/robots-evolve-bodies-and-brains-like-animals-in-mits-new-ai-training-simulator/?amp=1",
-      "publishedDateTime": "2021-12-06T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

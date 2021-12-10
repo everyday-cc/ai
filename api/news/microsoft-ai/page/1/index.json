@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-10-microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek.md",
+      "title": "Microsoft researchers: We've trained AI to find software bugs using hide-and-seek",
+      "excerpt": "Microsoft creates an AI bug detector that learns to hunt for and fix bugs without being training it on data from real bugs. Does it work? Kind of.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/",
+      "publishedDateTime": "2021-12-10T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner.md",
       "title": "Microsoft details its next steps with Azure Space; adds Airbus as a partner",
       "excerpt": "Microsoft is moving ahead with its work to bring Azure cloud capabilities to companies that need satellite, geospatial and other space-related technologies",
@@ -627,6 +670,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-02-tata-consultancy-services-deploys-cognix-customer-experience-platform-to-agl.md",
+      "title": "Tata Consultancy Services deploys Cognix customer experience platform to AGL",
+      "excerpt": "digital-led services across all of our products. TCS’ expertise and cognitive solutions have made it a key strategic partner in our journey.” Last week, TCS expanded its IT services deal with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/tata-consultancy-services-deploys-cognix-customer-experience-platform-to-agl-573403",
+      "originalUrl": "https://www.crn.com.au/news/tata-consultancy-services-deploys-cognix-customer-experience-platform-to-agl-573403",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/20211201115742_0_0_0_0_70__News_iStock-1034334920_electricity_utility.jpg",
+          "width": 2120,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-nvidia-again-claims-the-title-for-the-fastest-ai-competitors-disagree.md",
       "title": "NVIDIA Again Claims The Title For The Fastest AI; Competitors Disagree",
       "excerpt": "After all, training tiny models like Resnet on over 4000 GPU’s in order to claim the fastest hardware crown is irrelevant in the real world. Rather, TTT is a demonstration of scalability, which is universally important to AI practitioners.",
@@ -864,19 +950,19 @@
     {
       "path": "_news/2021-12-01-mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
       "title": "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "WARREN, N.J. and BANGALORE, India, Dec. 1, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on",
+      "excerpt": "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/ca/eca138ab-1f6a-575c-ab5b-20f351a1974f/607984186af13.image.jpg?crop=659%2C346%2C420%2C0&resize=659%2C346&order=crop%2Cresize",
-          "width": 659,
-          "height": 346,
+          "url": "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook",
+          "width": 1496,
+          "height": 785,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -889,8 +975,8 @@
       "publishedDateTime": "2021-12-01T01:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1345,92 +1431,6 @@
         "Microsoft AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-microsoft-launches-fully-managed-azure-load-testing-service.md",
-      "title": "Microsoft launches fully managed Azure Load Testing service",
-      "excerpt": "Microsoft has launched a fully managed load testing service for Azure, helping QA testers and developers optimize their app's performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/",
-      "originalUrl": "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/",
-      "publishedDateTime": "2021-11-26T15:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-cognitive-collaboration-market-to-grow-at-a-cagr-of-xxx-during-the-period-2021-2028.md",
-      "title": "Cognitive Collaboration Market to grow at a CAGR of XX.X% during the period 2021-2028",
-      "excerpt": "The Insight Partners delivers well-researched industry-wide information on the Cognitive Collaboration market. It provides information on the market’s essential aspects such as top participants ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
-      "originalUrl": "https://www.openpr.com/news/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
-      "publishedDateTime": "2021-11-25T20:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

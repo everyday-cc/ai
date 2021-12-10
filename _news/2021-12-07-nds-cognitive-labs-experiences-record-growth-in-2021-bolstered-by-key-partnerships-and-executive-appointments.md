@@ -1,27 +1,27 @@
 ---
 category: news
 title: "NDS Cognitive Labs Experiences Record Growth in 2021, Bolstered by Key Partnerships and Executive Appointments"
-excerpt: "NDS Cognitive Labs (NDS) today announced the company’s record-setting 2021 company growth, enabled by partnerships with Clip (digital payment provider), major banks in Latin America, and global and US technology companies."
-publishedDateTime: 2021-12-07T14:32:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-mexico-information-technology-22186b257904452babb3796d3bd52f5b"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-mexico-information-technology-22186b257904452babb3796d3bd52f5b"
+excerpt: "NDS Cognitive Labs (NDS ... global technology companies such as IBM, Amazon, Microsoft, Google, Intel and more. For more information on our services and solutions, please contact hello@ ..."
+publishedDateTime: 2021-12-07T15:13:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/nds-cognitive-labs-experiences-record-growth-in-2021-bolstered-by-key-partnerships-and-executive-appointments/article_b9c84551-a587-5512-890d-9935840fb46a.html"
+webUrl: "https://www.bakersfield.com/ap/news/nds-cognitive-labs-experiences-record-growth-in-2021-bolstered-by-key-partnerships-and-executive-appointments/article_b9c84551-a587-5512-890d-9935840fb46a.html"
 type: article
 quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://frontpages.bakersfieldcdn.com/TBC/frontpage-large.jpg"
+    width: 500
+    height: 1100
     isCached: true
 
 related:
@@ -49,6 +49,6 @@ related:
         height: 480
         isCached: true
 
-secured: "wsQKVpZDQxQ8GR0UD2tbDNXb9xVMwS0xeOZ42J8fJl9p+srUlofP4sGCdw9VMfuAcQmDPUYMZuRZv6chrZ1JwR3Z88imzAX2+2LPoXfWGRhL9DwxazOuwjQyNcmXVXdtaotfp0TUF0Qov49iu2RXF5YCDvS8hRDFtj9ri0ulEHXJMF7BRJLzp5J8arWxs7iW/aEfthGAlpGDe/mK6hcPUlHJNHg5A4ntt4TOjsmboEfn/bHIvl0+UPMIQ+puh4ss6Dx2r/OEd+iTwgJkJDtj35LnV7Otl9rNUz0/7IY6/3xOvm5gdPLCTH8mUT8n97+5pKiROQPoTsNFqRMjkk5XATdTNL/1ZYLxYe50RTH2osw=;F2eWrebW+hnVh0wnJmjOjQ=="
+secured: "H3WBZyHn+d0jzRWweJbNVU0tRurcGlQ66iGhXRGA0pVGFqy/BGr8F3xm2Km4dyB6h5TqFr+pKnl8S/+YSPLdeorOHXBWct3Q2MRGoRxBSSeYDSkUwP5bYbzMunVfUUO0tL5/u3o4aJejAZiUeJqgFL4JlUMkg654X0N5t9/s3Qwj0RRoLac+7oNDxfe2lOC7hI55KnQrOP9u3imaRd9MF98PCwR0GKYCi/WqcdrARwtr4nVhIy5WlZy8qvX38oTLhlUJVZqYFsdJIUWRQw0/NQPYDYp8HZLdUNBBA7s3q7w0n4/zjh2BoSZYONOlqBJL/jtjVNrxv3uHYoRwmBfrawgKBUM0CNBr5bmw8vaKGz8=;8uKMnm+s9G2rZ3wz6uxRJg=="
 ---
 

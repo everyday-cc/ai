@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/12/07/deeproute-l4-10000-usd/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/07/deeproute-l4-10000-usd/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "DeepRoute.ai unveils ‘affordable’ advanced autonomous driving solution for mass production"
+    excerpt: "The L4 solution’s price point is the same as current L2 solutions. Shenzhen-based autonomous driving startup DeepRoute."
+    publishedDateTime: 2021-12-09T11:08:00Z
+    webUrl: "https://kr-asia.com/deeproute-ai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production"
+    ampWebUrl: "https://amp.kr-asia.com/deeproute-ai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production"
+    cdnAmpWebUrl: "https://amp-kr--asia-com.cdn.ampproject.org/c/s/amp.kr-asia.com/deeproute-ai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 147
+    images:
+      - url: "https://console.kr-asia.com/wp-content/uploads/2021/11/Car-1.png"
+        width: 2084
+        height: 1032
+        isCached: true
   - title: "Deeproute aims for mass market with low-price self-driving hardware package"
     excerpt: "Chinese self-driving startup Deeproute has launched its next-generation sensing platform, boasting a per unit cost of just $10,000 – well below the market average – and targeting mass production with automakers as early as 2024. The hardware suite ..."
     publishedDateTime: 2021-12-08T06:04:00Z

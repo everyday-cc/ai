@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Upstart (UPST): A Fintech Investment To Act On Today"
-excerpt: "Upstart (UPST) is ripe for a buy today with a couple of key support levels ready to maintain its buoyancy, following an overdone sell-off last month."
-publishedDateTime: 2021-12-09T23:00:00Z
-originalUrl: "https://www.entrepreneur.com/article/401880"
-webUrl: "https://www.entrepreneur.com/article/401880"
+excerpt: "Upstart UPST, the AI-driven fintech innovator changing the way creditworthiness is assessed, is ripe for a buy today with a couple of key support levels ready to maintain its recent buoyancy, following an overdone sell-off last month."
+publishedDateTime: 2021-12-09T20:22:00Z
+originalUrl: "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today"
+webUrl: "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today"
+ampWebUrl: "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp"
 type: article
 quality: 54
 heat: 74
 published: true
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-401880.jpeg"
-    width: 620
-    height: 413
-    isCached: true
 
 related:
   - title: "DIFC FinTech Hive’s largest cohort sees 44 startups taking part"
@@ -55,6 +47,6 @@ related:
         height: 917
         isCached: true
 
-secured: "kCOxuzTVxj6evZGuuzeIEAa0BVahFHZYqBNzt/ts6jVFUbQfksV84FJKFUU34fKLHM3Sins7gZRO4o6M719MEwWdrGiA+ZbTzrl4um203nPP7Fr5AsLtXkVaIzZD1ZPEwu0QgBy/ia+5ASBQ2xc9awjuDA3oLnfc5Ep9wR7E+s/yeeUu39GD9qjpNsKNBQwUZ30LlxdcGynYZ5NwaVwdBMCopXq37Z/29UEtjFiKFcKuiiQuYGo9J2y8SHM83G1CTfwe6LLpKJIDqPzUtdjXOXgSPn7/QcEgJLaXUISOk14VS9nzol3KpJ9jHUBzRy4I275xBuU6HmzSaBqG0xhJ3GJutgi1GCMJGG7wB/FhC9A=;xc6f4eX5clmebANC8G3I3w=="
+secured: "kMrtCdMbAAvxcuzq3cqT85E0LavXnIR9x3uGTT/3WB+pc+dUHGuJpX1pFN9n4GanXKrh0mO6zt2CS7GxEFShaJwM6bAeFWnQbGKexdmwft8JOqWEmjl3IZUdtWoUoAVTkKH3nzeRUgFe3w9LDYk5UeBLmaMfzUaT9qM/5HLGg+sptTGYPGS7GgiRGbSxBOTmpB2SNStiyYRT+CiAYxWhQQJ+U06f3ZSTUIdUwjHj7XtTDNt7jEh6a8Toit8ho4ONFwxiB3N6pmGYJh5GKE70wb//fO0qRNdrWsjCeqOgXJYDyMKUhRYzB1YWOaI1kIdCw9VjAYLM/6eopIgHX+VqTshjA/f8rpBzzFkV6I+H7pc=;Cko9V27goKdwuGjwX5r+zw=="
 ---
 

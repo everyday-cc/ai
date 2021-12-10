@@ -21,18 +21,18 @@ topics:
 
 related:
   - title: "NDS Cognitive Labs Experiences Record Growth in 2021, Bolstered by Key Partnerships and Executive Appointments"
-    excerpt: "NDS Cognitive Labs (NDS) today announced the company’s record-setting 2021 company growth, enabled by partnerships with Clip (digital payment provider), major banks in Latin America, and global and US technology companies."
-    publishedDateTime: 2021-12-07T14:32:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-mexico-information-technology-22186b257904452babb3796d3bd52f5b"
+    excerpt: "NDS Cognitive Labs (NDS ... global technology companies such as IBM, Amazon, Microsoft, Google, Intel and more. For more information on our services and solutions, please contact hello@ ..."
+    publishedDateTime: 2021-12-07T15:13:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/nds-cognitive-labs-experiences-record-growth-in-2021-bolstered-by-key-partnerships-and-executive-appointments/article_b9c84551-a587-5512-890d-9935840fb46a.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: The Bakersfield Californian
+      domain: bakersfield.com
     quality: 4
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://frontpages.bakersfieldcdn.com/TBC/frontpage-large.jpg"
+        width: 500
+        height: 1100
         isCached: true
   - title: "NDS Cognitive Labs Experiences Record Growth in 2021, Bolstered by Key Partnerships and Executive Appointments"
     excerpt: "NDS Cognitive Labs (NDS) today announced the company's record-setting 2021 company growth, enabled by partnerships with Clip (digital payment provider), major banks in Latin America, and global and US technology companies."

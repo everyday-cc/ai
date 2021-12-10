@@ -43,22 +43,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Artificial Intelligence Research Centers"
-    excerpt: "Timnit Gebru,’ a former AI researcher at Google, has launched its own independent artificial intelligence research center after"
-    publishedDateTime: 2021-12-06T22:22:00Z
-    webUrl: "https://www.trendhunter.com/trends/artificial-intelligence-research"
-    ampWebUrl: "https://www.trendhunter.com/amp/trends/artificial-intelligence-research"
-    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/artificial-intelligence-research"
-    type: article
-    provider:
-      name: TrendHunter
-      domain: trendhunter.com
-    quality: 57
-    images:
-      - url: "https://cdn.trendhunterstatic.com/thumbs/artificial-intelligence-research.jpeg"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "gALND7GmcGxogiW7m1U6rKxhjiP11643+0b8eZ1yMMhzR5FoXRL8ow7u3ykIt1yhBU8WO4TuPwIGKyyFVqXHNw1+0HLoeCi4ko6cCMa4IwD6xojbr2bCrVlpHP10mwxFYg6lPDiAVioKhbipnP8DBarkRtliO4OEnu7/1iVJSy8L96QXp2TQVgFwhNJxL9EaHsBsUmzYghVMpeKbMpB+APLqglG6IG7r+lXvLVUsuwjAe/USRVC3B3vLMVamNWMF1mPX8f8o1a8nKmRVia2DBFShMIA62dQKvnP76dCpPRnX1/mSlzHdSbuZAW2eZU1F8JNteXiHrHZvvTPkQOXBjtX3PJHp10PfJXVI0rXKP04QXak5nW/YNOUglha4b3LtALfqfwmB9lGJ7hNARpetVbKtAPwJ+aB+K61uURcRHaPZlUHXtWxdNOVlR1Tz1DUqDOfQX83aIwxK5kG1DbpxZCq+T8WmHby790uLHrxIOaHYME/vrmVOARbtJcr2fMwviMaurJDautHY9KrshZYOVQ==;D9PsOoXkSM6B/lHyLDvLJA=="
 ---

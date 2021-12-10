@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global BFSI Artificial Intelligence Market 2021 Key Players, Comprehensive Research, SWOT Analysis and Forecast by 2027"
-    excerpt: "The report named Global BFSI Artificial Intelligence Market 2021 by Company, Regions, Type and Application, Forecast to 2027 presents this market’s past performance analysis, latest market performance estimation for the current year,"
-    publishedDateTime: 2021-12-05T21:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-bfsi-artificial-intelligence-market-2021-key-players-comprehensive-research-swot-analysis-and-forecast-by-2027-2021-12-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision Development Market in 2021: with Top Countries Data, Industry Insights by Top Key Players, Types and Applications"
     excerpt: "Computer Vision Development Market 2021 Global Industry Market research report provides key analysis on the market status of the Computer Vision Development manufacturers with market size ..."
     publishedDateTime: 2021-12-06T00:00:00Z

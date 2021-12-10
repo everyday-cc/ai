@@ -35,18 +35,18 @@ related:
       domain: tmcnet.com
     quality: 42
   - title: "NDS Cognitive Labs Experiences Record Growth in 2021, Bolstered by Key Partnerships and Executive Appointments"
-    excerpt: "NDS Cognitive Labs (NDS) today announced the company’s record-setting 2021 company growth, enabled by partnerships with Clip (digital payment provider), major banks in Latin America, and global and US technology companies."
-    publishedDateTime: 2021-12-07T14:32:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-mexico-information-technology-22186b257904452babb3796d3bd52f5b"
+    excerpt: "NDS Cognitive Labs (NDS ... global technology companies such as IBM, Amazon, Microsoft, Google, Intel and more. For more information on our services and solutions, please contact hello@ ..."
+    publishedDateTime: 2021-12-07T15:13:00Z
+    webUrl: "https://www.bakersfield.com/ap/news/nds-cognitive-labs-experiences-record-growth-in-2021-bolstered-by-key-partnerships-and-executive-appointments/article_b9c84551-a587-5512-890d-9935840fb46a.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: The Bakersfield Californian
+      domain: bakersfield.com
     quality: 4
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://frontpages.bakersfieldcdn.com/TBC/frontpage-large.jpg"
+        width: 500
+        height: 1100
         isCached: true
 
 secured: "4VpUNQll1itRtB5aIl2ZoegR8RCiMYd9FdQ2cIorh+C07JJiFt89KUkcG2yiruNVvwUvvrje+U5qCEfUdoIDC0YdL7Z7xZ2qB6AP98NZa+TnDNGi4HE/k/xIcA8JwkXQGqrTt7cDAPP7eID4MG1UK2DsAJ4hf0/jSW0JBrBG6yjnbVOf1IajzI+3gD7M40qVQ0dC5TG9eyoIHlDjLnRgZCupFqpf7X9nEO8zLS8On/lzWwPeFRBrnaoOv3M5wFEg0mZGFue+OLlKEKgQjGhWg0BJtUj5hJOVHX3aJWjSuOfkfwuQ+UpdgbaWGrDc4iW+5zxCjMTZnRB8Eej1zcv5Cjz+8BN6GvWWyImP9dqRzdw=;ZyB3bMTy04bS9CBOhsK9oQ=="
