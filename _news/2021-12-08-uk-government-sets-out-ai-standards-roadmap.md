@@ -9,7 +9,7 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5093242&name=uk-gover
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5093242&name=uk-government-sets-out-ai-standards-roadmap"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -54,6 +54,34 @@ related:
       - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/12/dreamstime_m_137582267-scaled.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "UK publishes roadmap to create an 'AI assurance ecosystem'"
+    excerpt: "AI assurance services such as audit, certification and impact evaluations are set to become a 'multibillion-pound industry', government says"
+    publishedDateTime: 2021-12-10T07:58:00Z
+    webUrl: "https://www.computing.co.uk/news/4041885/uk-publishes-roadmap-create-ai-assurance-ecosystem"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/46662dd/8a73e314-5e63-4833-993e-234750e70c30/8/artificial-intelligence-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "UK publishes world's first roadmap to AI assurance ecosystem"
+    excerpt: "AI assurance services such as audit, certification and impact evaluations are set to become a 'multibillion-pound industry', government says"
+    publishedDateTime: 2021-12-10T07:53:00Z
+    webUrl: "https://www.computing.co.uk/news/4041885/uk-publishes-world-roadmap-ai-assurance-ecosystem"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/46662dd/8a73e314-5e63-4833-993e-234750e70c30/8/artificial-intelligence-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
 
 secured: "28pKBroPMjLb5bUEqIsya7c3Ha6ZvPiMVAYfwkpTOpF5/HDS8UgiR4vH2z27Ulgbsm2Il4aDVU1jqVCidKML9rHBU/qM0Et0R9xk4LGb7LqrF4W5tKZarrFocZz5bIk8EBL0Y/xU0kKLuA708NHf5gz3MJByEqwpJUhOe16V2gO06SPTL/9xTolpQZQGx7mfws1o4x7luXsgw+ekdqN2NIT8lCFO7XRhaMcyqUUery+paqWr2H8+UjmTDI8drWX4NFBNl4u5mevpmw2L7XNLCvP8oV7avSVJOEpVhwERqOFiQZJViGht1zzb4yOMNggZhHgOVQQvB7QIxb3UzeNmiCGZofsWprvuUPDigQH+1po=;1P3l0kEccwOfHj6Glo8iKw=="

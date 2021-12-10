@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-excerpt: "WARREN, N.J. and BANGALORE, India, Dec. 1, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on"
+excerpt: "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning"
 publishedDateTime: 2021-12-01T09:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html"
+originalUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
+webUrl: "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
@@ -17,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/ca/eca138ab-1f6a-575c-ab5b-20f351a1974f/607984186af13.image.jpg?crop=659%2C346%2C420%2C0&resize=659%2C346&order=crop%2Cresize"
-    width: 659
-    height: 346
+  - url: "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook"
+    width: 1496
+    height: 785
     isCached: true
 
-secured: "jX0p6TImz2di/RNWqDc+sJacqQa+/+fLfWG4xJaE13NyiJWjFwc8k+jFLSfzbcMLY3jmACO5C7NVYpajwz9S7/2Boid0VsB+ynSms+TbFHHFq5T06UAm92kFL7zLC9WxqnxZUPiVCmRjQJO/wdBka1muac2CL2ZH44uSJRLIgfRquXLYzOXegW2p3iIh0nFoANaslHqB7kx0t1203Ju19Nqcp/YSQ7jV4RAX3Jv+9mRjJqIxxdrNHlhz7VySE5vmzGZ2ejAJRf+7yyfe43Wo1yOA7UYTrMVk2UmRPwh0mQChBVOdC71pdrf9PTQpi8Ny1Z0Qe8LOSrYNlqGD7fRATfVZHzFd79fzNuzh8uBb2x0=;UH9QYiY3kKQn2GSLVyPbpg=="
+secured: "LXf0NqMBolr5+LeDCvrWkSqwQeem0KYc8NKv1V+Rl3jqpTq/K6ERHy4SrZA9xjq64o1aUTT5QqJSEv90LpceVamU7/mMvn4/DIjcuNgqkaTJnVTU4VkVtCmiRF0ReaGbvygx4BzmQVWegq7LLxmMCA8lX5EVfl4n8KgMp7Cj8PA835CfqAemEO8Jo2CGY84BsiVwD5c0dsWtgckYszzBOvs078zlWpjzrTkG8DnGOf2MXvkP4cfeRlXsgQqQj49K7PVpJvmKZmXEs7gqxATwde8jXKWKtS+Vvl/oI8WW4reHiZXLSeBaHzktsaxeVBpEZ8BWGmWB31HmFI+fLht5KAUyFgk0GwVm4cnUiYlCUIo=;JYf5GxWafirrTAT6Q3hCEQ=="
 ---
 

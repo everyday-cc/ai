@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-details-its-next-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
 type: article
 quality: 117
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Azure Orbital opens up space to everyone"
+    excerpt: "In a new blog post, Microsoft detailed new partnerships and new features that it hopes will result in better satellite imagery, better connectivity, and more data/insights. Azure Orbital is a fully managed cloud-based ground station-as-a-service that lets users communicate with their spacecraft or satellite constellations,"
+    publishedDateTime: 2021-12-10T10:16:00Z
+    webUrl: "https://www.techradar.com/nz/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZH7WojY7sx4CoX3riUocJ7-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Azure widens its space ecosystem through deals with Airbus and data partners"
     excerpt: "Today, Azure Space is lifting the curtain on a new array of space-centric offerings, including satellite imagery from Airbus, software-based communication links from ST Engineering iDirect and geospatial data analysis from Esri, Blackshark.ai and Orbital ..."
     publishedDateTime: 2021-12-09T14:46:00Z

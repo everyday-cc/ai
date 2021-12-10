@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Worldwide AI and Robotics in A&D Industry to 2026 - Asia-Pacific to Witness Highest Growth During the Forecast Period - ResearchAndMarkets.com"
+    excerpt: "The \"AI and Robotics in A&D Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to ResearchAndMarkets.com's offering. The AI and Robotics in A&D Market is projected to grow from USD 17."
+    publishedDateTime: 2021-12-10T10:53:00Z
+    webUrl: "https://www.lelezard.com/en/news-20150837.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 33
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "PETRONAS avoids equipment failure with AI-infused AVEVA Predictive Analytics in the cloud"
     excerpt: "Malaysia-based oil and gas company PETRONAS has achieved system expansion using cloud across 10 new sites, reduced downtime at onshore and offshore facilities and boosted operational efficiencies with AVEVA."
     publishedDateTime: 2021-12-08T12:57:00Z
@@ -42,6 +56,20 @@ related:
       - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2021/12/Picture-3-W.jpg"
         width: 1000
         height: 450
+        isCached: true
+  - title: "CITIC Telecom CPC wins 3 Industry Awards in Recognition of Innovation Excellence"
+    excerpt: "Receives CCF Big Data & Computing Intelligence Contest Award, International Innovation Awards and CAHK STAR Awards HONG KO CITIC Telecom Internat"
+    publishedDateTime: 2021-12-10T08:31:00Z
+    webUrl: "https://www.pr-inside.com/citic-telecom-cpc-wins-3-industry-awards-in-recognition-of-innovation-excellence-r4857866.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 19
+    images:
+      - url: "http://www.pr-inside.com/images/uploads/pr/2016/80989/20211210_low-citiccpc2-2112-9-2_80989.jpg"
+        width: 260
+        height: 260
         isCached: true
 
 secured: "jKjsxbjabmaarxdFEXn8ha8p3RQolXd7sePEnEGGuQDo9a80JaoBbWVarbblfrTOUqA6ARPI5gMjzLNI88fhlO7jrlF0KaJyIe/HnGu93GlfV25oeHwUnDUvIrWQPNI5m2qbQJXc5/BhRZ15pEB0CmGt6DmMf3OAkd3LCHe0Tzk29qY99XXVyJSh7y7qVRHDl2jwSMJh+nxBK7U3qum1HHaWkowFZxc1SPY/dWgZE8MS3qd0+XPnee6104QaNxFL7CAC8l2vdJMSBG/Kz7pPOZQQQs5l3Iv5KwbD0xyWZ2iT6oy65DiauEfgnxz+EuGOK1EE3lGujVTRNmr8+y2O7m3WgWQxv2jMNbU/rIlrrVw=;Wrwg50XhdGhPu6k2YDuL2A=="

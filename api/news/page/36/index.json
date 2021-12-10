@@ -2,6 +2,196 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-11-11-israel-using-facial-recognition-surveillance-in-palestinian-city.md",
+      "title": "Israel using facial recognition surveillance in Palestinian city",
+      "excerpt": "HEBRON: Israel's army has deployed a sweeping personal data collection programme using facial recognition technology targeting Palestinians in parts of the occupied West Bank, an",
+      "sourceUrl": null,
+      "webUrl": "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city",
+      "originalUrl": "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": " https://i.tribune.com.pk/media/images/Surveillance1636573997-0/Surveillance1636573997-0.jpg  ",
+          "width": 712,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1",
+      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2328819/israel-using-facial-recognition-surveillance-in-palestinian-city?amp=1",
+      "publishedDateTime": "2021-11-10T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Express Tribune",
+        "domain": "tribune.com.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-standard-ai-completes-computer-vision-acquisition-bolsters-ml-leadership-to-drive-the-future-of-autonomous-retail.md",
+      "title": "Standard AI Completes Computer Vision Acquisition, Bolsters ML Leadership to Drive the Future of Autonomous Retail",
+      "excerpt": "“Standard Cognition”), a world leader in computer vision for retail, today announced it has completed both the acquisition ... AI platform in exciting new ways to drive forward the future of ...",
+      "sourceUrl": null,
+      "webUrl": "https://aithority.com/computer-vision/standard-ai-completes-computer-vision-acquisition-bolsters-ml-leadership-to-drive-the-future-of-autonomous-retail/",
+      "originalUrl": "https://www.businesswire.com/news/home/20211110005448/en/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://aithority.com/wp-content/uploads/2021/11/Standard-AI-Completes-Computer-Vision-Acquisition-Bolsters-ML-Leadership-to-Drive-the-Future-of-Autonomous-Retail.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech.md",
+      "title": "Standard AI acquires ThirdEye and teams up to bolster autonomous checkout tech",
+      "excerpt": "Standard AI, which provides an AI-based solution for autonomous retail checkout, has acqui-hired computer vision startup ThirdEye Labs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/",
+      "originalUrl": "https://venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/0N5A4946-e1596208218299.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/10/standard-ai-acquires-thirdeye-and-teams-up-to-bolster-autonomous-checkout-tech/amp/",
+      "publishedDateTime": "2021-11-10T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-11-googles-project-relate-aims-to-help-people-with-atypical-speech-communicate.md",
+      "title": "Google's Project Relate Aims to Help People With Atypical Speech Communicate",
+      "excerpt": "Google's newest assistive technology, Project Relate, looks to help people with atypical speech communicate with the people and technology around them.",
+      "sourceUrl": null,
+      "webUrl": "https://in.pcmag.com/news/146071/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate",
+      "originalUrl": "https://in.pcmag.com/news/146071/googles-project-relate-aims-to-help-people-with-atypical-speech-communicate",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_in/news/g/googles-pr/googles-project-relate-aims-to-help-people-with-atypical-spe_5rm9.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-unis-are-using-ai-to-keep-students-from-cheating-and-its-a-bit-creepy.md",
       "title": "Unis are using AI to keep students from cheating and it’s a bit creepy",
       "excerpt": "Some programs simply enable a person to supervise students remotely. More sophisticated, automated proctoring software hijacks the student’s computer to block and monitor suspicious activity. These programs often use artificial intelligence (AI) to scrutinise exam conduct.",
@@ -958,189 +1148,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-nlp-powered-smart-bots-improve-transaction-rates-among-customers.md",
-      "title": "NLP-powered smart bots improve transaction rates among customers",
-      "excerpt": "These bots use natural language processing (NLP), a combination of artificial intelligence (AI ... Gargi Dasgupta, director of IBM Research India and CTO of IBM India-SA, says, “IBM Research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers-11636538404851.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers-11636538404851.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/11/10/600x338/Screenshot_2021-11-10_at_3.48.05_PM_1636539504549_1636539513776.png",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers/amp-11636538404851.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nlppowered-smart-bots-improve-transaction-rates-among-customers/amp-11636538404851.html",
-      "publishedDateTime": "2021-11-10T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-artificial-intelligence-in-healthcare-market-size-share-key-players-growth-analysis-and-forecast-2029.md",
-      "title": "Artificial Intelligence in Healthcare Market Size, Share, Key Players, Growth Analysis and Forecast 2029",
-      "excerpt": "The Global Artificial Intelligence in Healthcare Market is estimated to value over USD 65.3 billion by 2029 end and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-key-players-growth-analysis-and-forecast-2029-2021-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-share-key-players-growth-analysis-and-forecast-2029-2021-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-seeq-announces-expanded-microsoft-azure-machine-learning-support.md",
-      "title": "Seeq Announces Expanded Microsoft Azure Machine Learning Support",
-      "excerpt": "With the new Azure Machine Learning integration, data science teams can develop models using Azure Machine Learning Studio and then publish them using the Seeq Azure Add-ons feature, available ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103138360/Seeq-Announces-Expanded-Microsoft-Azure-Machine-Learning-Support",
-      "originalUrl": "https://menafn.com/1103138360/Seeq-Announces-Expanded-Microsoft-Azure-Machine-Learning-Support",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-11/10/pr_13627_630d8d0a_image_story.jpg",
-          "width": 2555,
-          "height": 1302,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-10T00:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-voice-assistant-application-market-projected-to-reach-112-billion-by-2026-with-a-remarkable-cagr-of-324.md",
-      "title": "Voice Assistant Application Market projected to reach $11.2 billion by 2026, with a remarkable CAGR of 32.4%",
-      "excerpt": "According to a new market research report \"Voice Assistant Application Market with COVID-19 Impact by Component, Deployment Mode, Organization Size, Channel Integration (Websites, Mobile Applications),",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/271695421/voice-assistant-application-market-projected-to-reach-112-billion-by-2026-with-a-remarkable-cagr-of-324",
-      "originalUrl": "https://www.bignewsnetwork.com/news/271695421/voice-assistant-application-market-projected-to-reach-112-billion-by-2026-with-a-remarkable-cagr-of-324",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1636956935514.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-09T22:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

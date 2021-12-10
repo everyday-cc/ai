@@ -3,8 +3,8 @@ category: news
 title: "Group backed by top companies moves to combat AI bias in hiring"
 excerpt: "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination."
 publishedDateTime: 2021-12-09T23:16:00Z
-originalUrl: "https://www.bizjournals.com/losangeles/news/2021/12/09/artificial-intelligence-bias-combat.html"
-webUrl: "https://www.bizjournals.com/losangeles/news/2021/12/09/artificial-intelligence-bias-combat.html"
+originalUrl: "https://www.bizjournals.com/columbus/news/2021/12/09/artificial-intelligence-bias-combat.html"
+webUrl: "https://www.bizjournals.com/columbus/news/2021/12/09/artificial-intelligence-bias-combat.html"
 type: article
 quality: 19
 heat: -1
@@ -35,19 +35,19 @@ related:
         isCached: true
   - title: "Can companies police the biases found in artificial intelligence?"
     excerpt: "How can bias be removed from artificial intelligence? NPR's Audie Cornish talks with Kenneth Chenault, co-chair of the Data and Trust Alliance, on how corporations can take steps to make that happen."
-    publishedDateTime: 2021-12-09T20:51:00Z
-    webUrl: "https://www.kuow.org/stories/can-companies-police-the-biases-found-in-artificial-intelligence"
+    publishedDateTime: 2021-12-09T21:58:00Z
+    webUrl: "https://www.capradio.org/news/npr/story?storyid=1062791766"
     type: article
     provider:
-      name: KUOW
-      domain: kuow.org
+      name: Capital Public Radio
+      domain: capradio.org
     quality: 37
     images:
-      - url: "https://kuow-prod.imgix.net/store/48a3e099e3a28e297f37554252d04e90.png?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=402&w=402"
-        width: 402
-        height: 402
+      - url: "https://www.capradio.org/images/share/placeholder.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
-secured: "BklO5Dim6z4ee+xCkbyGhM8luUjn7lxguiJFMD0CBqhEmapjYO7uLMN0cuM37PEmYc5+4NppCRTSmZQTWL6gvarb5mjLroKztml11HdI2nVo6PxbObbbEXr37+/jGRxc1H6k6OsfYMF5BxqjIVdpNZBpDD4sTWh64eyF5JWgHV5hfEbt5z9iXVZSPfNi4f4OVK4N7wicYsy1hqsuJaEyOxtC3mzh9Dzc9f8YSbcO2onxqt4GaRTviOdaentCrBft0dQVo3nRrcfjADZi0qjwwl2vDAvOTcgtlpXp0cTbkt8np+eLU2hsEC9dpapZ1JBBL2ixePH+hThYiXAyBW3EcoqF5+qg+0NyE/NzsfE/qGUvourEcT5D6s3iML2y6wP69wEjw12xqweFs/9I28U7uAsB1EP1mJCPvir6bVLNZxMwFMqvFWHudqPXjALfkrDGv87Z+smNuIye7yK6lAz0uwv9QPDK/P+ow7rCWWbkL3MbOusKHl0XceoD0gb+fGalyOmjiJCH59rmbccnr4c/Aw==;v/O3bEVIlYN1M32eiMdaAw=="
+secured: "cjeLQp9nG0CJuT2tqteweQXQzDpvZbtRE2UlNZw/pyIA7kg79bygf8S9KtHEXbBOVwb/Xph1Ri26prz98NNgcMa3S72We+xK7/JrPAAzCgE0fceMiZeYBYxSSLxqtRef4v89tfZ3dO+GeHYVnYtV3JnfQoF20SFWprA0AbTNM/V5bhzIVhVobZQ01rN6ulBYEmSgwMekvS3UtcepdsAwGijJShAg5McJDTn4jgVDitZefHraKl9aoJlcP9hTvAfcJyYWfsh3NwMNFbgXTx8lbHh8NaoNL9/uXXsBJx51NZNulawR1/xCJ7L0fXQ9KYfC3BtGZ0SNzgP8x45j6RI/0L7ijAyBhZTyDVe4TWaGwwogmmXV54DARy/W0LQg5v6IYjs+CENSwUc/goRJi48QD76J0g9miJ6AL81U5tC7r840Hcog8bj6RA/P7rWig+/CZl2IjpMS/kRMbf0y37BPsEsMu/dECm/zHPar03guI/oiNFcydH1yZ/fio0ukRB9pTc9x6y/ueGgNEn0E+5YJGg==;xw4SlGa6jXWZX5MEWlrPjg=="
 ---
 

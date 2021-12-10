@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-23-qualcomm-develops-eyes-free-smartphone-for-the-blind-and-visually-impaired-calls-it-ray.md",
+      "title": "Qualcomm develops eyes-free smartphone for the blind and visually impaired, calls it Ray",
+      "excerpt": "Qualcomm and Project Ray, however, are aiming to consolidate phone calls, text messaging with voice read-out, navigation, object recognition, audio book reading and more for the visually impaired ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2012-10-23-qualcomm-ray-smartphone-eyes-free-blind-visually-impaired.html",
+      "originalUrl": "https://www.engadget.com/2012-10-23-qualcomm-ray-smartphone-eyes-free-blind-visually-impaired.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/DHoHJGG4a.E06Km02pVGTw--~B/aD00MDA7dz02MjA7YXBwaWQ9eXRhY2h5b24-/https://www.blogcdn.com/www.engadget.com/media/2012/10/project-ray.jpg",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-computer-vision-in-artificial-intelligence-ai-market-2021-segmentation-and-analysis-by-recent-trends-development-and-growth-by-regions-to.md",
       "title": "Computer Vision in Artificial Intelligence (AI) Market 2021 Segmentation and Analysis by Recent Trends, Development and Growth by Regions to 2026",
       "excerpt": "Computer Vision in Artificial Intelligence (AI) Market” covering both global and regional markets. It aims to give",
@@ -1345,49 +1397,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-computer-vision-in-artificial-intelligence-ai-market-2021-report-forecast-by-global-industry-trends-future-growth-regional-overview.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market 2021 Report Forecast by Global Industry Trends, Future Growth, Regional Overview",
-      "excerpt": "A research assessment conducted to provide a thorough analysis of the Computer Vision in Artificial Intelligence (AI) market and various aspects of the market mainly",
-      "sourceUrl": null,
-      "webUrl": "https://www.reportsgo.com/computer-vision-in-artificial-intelligence-ai-market-177065",
-      "originalUrl": "https://www.reportsgo.com/computer-vision-in-artificial-intelligence-ai-market-177065",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reportsgo.com/img/img-7.png",
-          "width": 500,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "reportsgo",
-        "domain": "reportsgo.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

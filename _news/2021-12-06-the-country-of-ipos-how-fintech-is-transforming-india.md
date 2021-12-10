@@ -45,6 +45,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "TruBoard & Biz2X Join Hands to Innovate Indian FinTech Market"
+    excerpt: "TruBoard, a FinTech start-up ventures into innovative partnership with Biz2Credit to organise the latter’s digital lending platform Biz2X in India. This partnership is likely to provide end-to-end digital flow for TruBoard customers,"
+    publishedDateTime: 2021-12-10T10:39:00Z
+    webUrl: "https://www.siliconindia.com/finance/news/truboard--biz2x-join-hands-to-innovate-indian-fintech-market--nid-217573.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 24
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/Krgc249D.jpg"
+        width: 570
+        height: 367
+        isCached: true
 
 secured: "qHdLOxaFTOv2urxtpTv/jEEWdoo6rceAuj2aviy1tmWkg9P0QXrVwwO20TsgqeMOLVH+6UrvlOgf+z7HPKmqvlYnP3d412w/QV4nwo3jszU0yij2Ww1U0MD3Ttd4LLR1/PFhWqO1QuWQ8kPQUCIV4aKtZNv8jvs4yG6ZNUJkBrNgb11jsuWeEFiJ0YSX/h6n8kQgc6tFF1/SEE8+8FcF644YwLWhyDsYfUgbETNe+qRrtvoqr0NnkT44gpyoLDrn3n5U5L6DNdUpPr+HL/GeMbWIAy7PVQxmbi1frS7mWVDABA6kIICmzOPM9AsoyB4Jpws01E6tbofuxATRUmDpF3Z4qbOfRTOg+q5lOibVImz485Q/FcPWcWbUeO7SMCdq9OZEJM9qkC0qzIHPDg4R1rU7gQdJ3feYKfg6NqgTRe2CBgbbkqh21Qu4aUAtYmIool8GRbcijQCTQvciqru88xHsxHCxHOJwH3AGk/Hb7XmtYj1ry1Yp/XQjNTIJXKwb2ShFvL5pPq9ofDk+lWaFFA==;B/GCr5LK03pFp3OmHBplpw=="
 ---

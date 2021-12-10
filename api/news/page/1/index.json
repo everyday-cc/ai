@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-10-oostos-deep-learning-enhances-facial-recognition-accuracy-and-expands-uses.md",
+      "title": "Oosto’s deep learning enhances facial recognition accuracy and expands uses",
+      "excerpt": "Newer facial recognition systems are scalable and provide more accurate results, and the end-user selects the parameters of system performance to suit their own application needs. “We",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "originalUrl": "https://www.sourcesecurity.com/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/eu-ban-facial-recognition-920.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "publishedDateTime": "2021-12-10T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders.md",
+      "title": "How Sars is using machine learning and big data to nail tax offenders",
+      "excerpt": "The South African Revenue Service said its efforts to expand the use of data to detect tax non-compliance is beginning to bear fruit.",
+      "sourceUrl": null,
+      "webUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/",
+      "originalUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcentral.co.za/wp-content/uploads/2021/09/tax-2156-1120-2.jpg",
+          "width": 2156,
+          "height": 1120,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/?amp=1",
+      "cdnAmpWebUrl": "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/?amp=1",
+      "publishedDateTime": "2021-12-10T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCentral",
+        "domain": "techcentral.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-brainbox-ai-brings-machine-learning-to-building-controls.md",
       "title": "BrainBox AI brings machine learning to building controls",
       "excerpt": "BrainBox AI focuses primarily on controlling HVAC systems, which accounts for the majority of the energy consumption in most buildings.",
@@ -861,7 +949,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1110,93 +1198,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-education-is-key-to-helping-cees-healthcare-professionals-embrace-ai.md",
-      "title": "Education is key to helping CEE’s healthcare professionals embrace AI",
-      "excerpt": "Education is the most important factor for the fast adoption of healthcare innovations. In Central, Eastern and Southern Europe, EIT Health and GE Healthcare are making it happen.",
-      "sourceUrl": null,
-      "webUrl": "https://emerging-europe.com/news/education-is-key-to-helping-cees-healthcare-professionals-embrace-ai/",
-      "originalUrl": "https://emerging-europe.com/news/education-is-key-to-helping-cees-healthcare-professionals-embrace-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://emerging-europe.com/wp-content/uploads/2021/12/bigstock-portrait-of-a-female-researche-16436390.jpeg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T03:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "emerging-europe.com",
-        "domain": "emerging-europe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-shieldiot-launches-worlds-first-coreset-ai-security-platform.md",
-      "title": "ShieldIOT Launches World’s First Coreset-AI Security Platform",
-      "excerpt": "Concept: Israeli cybersecurity solutions provider ShieldIOT has rolled out the world’s first Coreset-AI security platform ... geographic presence and increase the personnel count. The startup was able to raise $7.4M in a Series A funding led by NextLeap ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-drinks.com/research-reports/shieldiot-launches-worlds-first-coreset-ai-security-platform/",
-      "originalUrl": "https://www.just-drinks.com/research-reports/shieldiot-launches-worlds-first-coreset-ai-security-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/12/shutterstock_549199645.jpg",
-          "width": 500,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T22:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drinks",
-        "domain": "just-drinks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

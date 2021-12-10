@@ -55,6 +55,34 @@ related:
         width: 640
         height: 962
         isCached: true
+  - title: "UK publishes roadmap to create an 'AI assurance ecosystem'"
+    excerpt: "AI assurance services such as audit, certification and impact evaluations are set to become a 'multibillion-pound industry', government says"
+    publishedDateTime: 2021-12-10T07:58:00Z
+    webUrl: "https://www.computing.co.uk/news/4041885/uk-publishes-roadmap-create-ai-assurance-ecosystem"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/46662dd/8a73e314-5e63-4833-993e-234750e70c30/8/artificial-intelligence-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
+  - title: "UK publishes world's first roadmap to AI assurance ecosystem"
+    excerpt: "AI assurance services such as audit, certification and impact evaluations are set to become a 'multibillion-pound industry', government says"
+    publishedDateTime: 2021-12-10T07:53:00Z
+    webUrl: "https://www.computing.co.uk/news/4041885/uk-publishes-world-roadmap-ai-assurance-ecosystem"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 39
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/46662dd/8a73e314-5e63-4833-993e-234750e70c30/8/artificial-intelligence-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
 
 secured: "zHeho7yCMIVHwpEQt9FdtYGNWrEMF5K3gEhqFhSKcT46ekwZMdgFesJaH5CWVZWps0lUm8F4l/f4n2VuQmYFZGzTIQ3EFJGUiNBKFFCPggi1wqzV0x6YKavSwwp/qmm7lI8pgFopFJAomvee6PPn+YrLs+jqQfhVYy9NR351hIEP/LBgmV5qYTLsxNuf05BzoAiHHuZSGPd79gkUsgNaZTbvkV91EzR7SNOUNnftSzq5X97SWuFRnF/OhRhx8OidHCUFKGanatriyS85RmpNqUvAWym+u0ULcHkTRWmINArYMXQ8gOksU0LtxO67eDvXBMLROkp0QNcb8TerSwQZYJnbtjXAE/dSvISfN2RapohWE0TmcaUZNHsaPa+pjpFRVbB95uwyhHTMN4MN/OACAVuvg0BsjetZDVPB5hecxZRb535zrTB+mYtkG7vdVCPXwYu9UdY7vFvBkwla2xn/WoBOtCTtErfWf+QzwZS+CqdMRpwauo5SFmXNGvQokzwGvx70wl99W0k12o0gw3JCpw==;+6bRCxRALCWPbYKMdWqBnQ=="
 ---

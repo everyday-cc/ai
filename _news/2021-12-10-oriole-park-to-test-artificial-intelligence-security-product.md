@@ -1,24 +1,30 @@
 ---
 category: news
 title: "Oriole Park to test artificial intelligence security product"
-excerpt: "Oriole Park at Camden Yards will test a new security technology during the upcoming baseball season that uses 3D imaging and artificial intelligence to detect concealed weapons. The Maryland Stadium Authority announced Tuesday the ballpark will try out a walk-through portal called Hexwave that can screen 1,"
-publishedDateTime: 2021-12-09T22:51:00Z
-originalUrl: "https://www.sfchronicle.com/sports/article/Oriole-Park-to-test-artificial-intelligence-16688241.php"
-webUrl: "https://www.sfchronicle.com/sports/article/Oriole-Park-to-test-artificial-intelligence-16688241.php"
-ampWebUrl: "https://www.sfchronicle.com/sports/amp/Oriole-Park-to-test-artificial-intelligence-16688241.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/sports/amp/Oriole-Park-to-test-artificial-intelligence-16688241.php"
+excerpt: "Oriole Park at Camden Yards will test a new security technology during the upcoming baseball season that uses 3D imaging and artificial intelligence to detect concealed weapons."
+publishedDateTime: 2021-12-09T17:49:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
+webUrl: "https://www.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
+ampWebUrl: "https://amp.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
 type: article
-quality: 54
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - AI
   - AI in Security
+
+images:
+  - url: "https://twt-thumbs.washtimes.com/media/image/2020/03/26/virus_outbreak_opening_day_photo_gallery_47677_c0-195-4681-2925_s1200x700.jpg?d5d2a7e657e1b5cb3f3095d76f0781371316f285"
+    width: 1200
+    height: 700
+    isCached: true
 
 related:
   - title: "New resources and tools to enable product leaders to implement AI responsibly"
@@ -45,6 +51,6 @@ related:
       domain: publicnow.com
     quality: 19
 
-secured: "ztqWeKVf2UDpfHwx+erbQQApK89bVHwQ2GnrFf70YaD69gVz6s4k57aMrfcgnJKjEVUEmyCHW12xezUXZeMvijTcCB9u8I7TzJjklaMmxiPvwfV6MNY+V0y0SX1vDosf1ZHPQWo5BN8YzZ59G27ETxZiHSCIuOn7GPpBXKqSf6dV5vsHI56u6iV84Gyq3nbNejNFoQ54gkazWlrVJPC4oXduVsZJoZ+QEAAUXFfZPcTVqSNVNHbVCloa5C+yGg+H0/u4AJjZlOqBy5BqaTPbnfoUuwoMoA3rokqoTc7Xzqel/BT67PGkEma+d2iU6BStCDpjVCYsSC28w0ft0dMgXKkptd9Ymx1wsfzXqiE7ajg=;Ux+sDi84mhUaIsJaJRPSzg=="
+secured: "22OEFCYwmHOHOYopu1WOSwtuxI9EYAq28hdaMAMFn1qWWbEP2yl8u1XZKH0buGKH6KnOhF6blCl8esfUSjret6Kl+ZKlbRHm4TVCBuiki3PJhef446Lyeniflu4U9pQ/2BNruAYPPy33SEr58JQEXUSyD/FlAX/07BIXLKGDxuWDVCjpd7EwfXrMm4JkyA7ACIBmTcpLUAULM88DvsunGB+aU8pgRlSTIRNYbU3rQuJrS+/biT6pRaZmhO0f67kX9mHwam5l4bjEhqk2JijZpgAHpGVVyv1PDxHmbTeK2xK48/4j34TBhGKwZu6L0itxip0lXL3veH99A3vRxxfGnqrkx8EsyvYoCNA1xVgz9Pg=;4IfldH0vHjNtCSaN1G5lgA=="
 ---
 

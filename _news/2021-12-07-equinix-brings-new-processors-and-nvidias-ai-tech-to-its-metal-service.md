@@ -7,7 +7,7 @@ originalUrl: "https://www.datacenterdynamics.com/en/news/equinix-brings-new-proc
 webUrl: "https://www.datacenterdynamics.com/en/news/equinix-brings-new-processors-and-nvidias-ai-tech-to-its-metal-service/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 600
     height: 314
     isCached: true
+
+related:
+  - title: "Learn Machine Learning and AI in new NVIDIA course"
+    excerpt: "NVIDIA has partnered with iD Tech to create a new Artificial Intelligence and Machine Learning Course that will be starting in February 2022"
+    publishedDateTime: 2021-12-10T10:44:00Z
+    webUrl: "https://www.geeky-gadgets.com/learn-machine-learning-and-ai-in-new-nvidia-course-10-12-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 54
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/12/learn-machine-learning.jpg"
+        width: 700
+        height: 472
+        isCached: true
 
 secured: "zsM0XjVGxXFveYI/tULq1JlJYHo4x5RwFwr6h6p/WqOCTw0OMvAXv/rw150h7rFA0KrnjAoIqrBwe8v1iAfoPPWdElDrC10fD6NceV7jo2Oizj9trAnkK+ntFq2wwsAlbetxYVm/IFJTnAftD41P52BrZXz9808KG0yLxa2Tt0aI2AYHG/WEHzrRYBagAGIHff6JWaaCCR5NS8wed7iNSejBesCxOlIWdWiyDW3nsWmgK3gZhenrOOnKLZ/I5p7oQiDo81iaEt1ZKPoMN2RvMGMjFvJ6VeUzbne0ydPqlVReiVC1/k2e0x5zHFQk6QHf7c1APyNbTnTkv5dDCLwrTZNZN/27q8dMxARgLshvG22weIGd9LfSbG6N2XR/8DE63E584fVeXvKPWOUmIhx61NRYK/1aMF5vRlzSjEl8Y7Cb0oa7JkANgtMiaWj4rdO4NJjGWz7+YdvX/8EOnsfRrqwV/vK8KZTrdYCOFJm9k4p7Bg4eBpD02JVAFdIbOed17s0Ow5lqXc6F400dEbjwYg==;8GdxlgCZjpN7701X2ddVOw=="
 ---
