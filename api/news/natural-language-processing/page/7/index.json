@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-09-27-natural-language-processing-nlp-market-share-growth-size-regional-overview-leading-company-analysis-and-key-country-forecast-to-2021-2030.md",
+      "title": "Natural Language Processing (NLP) Market Share, Growth, Size, Regional Overview, Leading Company Analysis and Key Country Forecast to 2021-2030",
+      "excerpt": "Sep 27, 2021 (AmericaNewsHour) -- In a recent published report, Kenneth Research has updated the market report for Natural Language Processing (NLP) Market for 2021 till 2030. Report further now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-share-growth-size-regional-overview-leading-company-analysis-and-key-country-forecast-to-2021-2030-2021-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-share-growth-size-regional-overview-leading-company-analysis-and-key-country-forecast-to-2021-2030-2021-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-26T17:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-26-bennett-to-urge-action-on-iran-in-un-speech-wont-focus-on-palestinians-aide.md",
       "title": "Bennett to urge action on Iran in UN speech, won’t focus on Palestinians — aide",
       "excerpt": "PM will warn at UN that world at a ‘critical stage in the Iranian nuclear program’; adviser says Israel’s ties with world ‘multi-faceted,’ mustn’t be defined by Palestinian issue",
@@ -1304,49 +1356,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-15-iit-bombay-launches-project-udaan-a-language-translator.md",
-      "title": "IIT Bombay launches Project Udaan, a language translator",
-      "excerpt": "Language is more than just a medium of communication, it is the unseen thread that connects our past, present, and future” – VP M. Venkaiah Naidu What separates human beings from the rest of the living creatures is their ability to speak and be understood.",
-      "sourceUrl": null,
-      "webUrl": "https://newsonair.com/2021/09/15/iit-bombay-launches-project-udaan-a-language-translator/",
-      "originalUrl": "https://newsonair.com/2021/09/15/iit-bombay-launches-project-udaan-a-language-translator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsonair.com/wp-content/uploads/2021/06/cropped-12-1.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-15T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NEWS ON AIR",
-        "domain": "newsonair.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

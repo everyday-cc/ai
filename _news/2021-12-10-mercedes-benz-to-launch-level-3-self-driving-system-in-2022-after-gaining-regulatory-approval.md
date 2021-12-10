@@ -55,6 +55,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Gaming while driving: Tesla allows it, Mercedes-Benz does recall"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+    publishedDateTime: 2021-12-10T18:39:00Z
+    webUrl: "https://www.clickorlando.com/business/2021/12/10/gaming-while-driving-tesla-allows-it-mercedes-benz-does-recall/"
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/WOWGQP7ZRZCC3B5SMX32XNFPSM.jpg?_a=ATABlcW0"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Mercedes-Benz self-driving car technology approved for use"
     excerpt: "Approval of the self-driving system paves the way for it to be offered to customers where national legislation allows its use."
     publishedDateTime: 2021-12-09T14:31:00Z

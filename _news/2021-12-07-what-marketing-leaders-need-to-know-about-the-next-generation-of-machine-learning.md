@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Artificial Intelligence Is All the Rage. What You Need to Know."
-    excerpt: "UBS calls artificial intelligence a top investment theme for the coming decade. But Eric Schmidt, who used to run Google, warns that investing in AI isn’t so easy."
-    publishedDateTime: 2021-12-06T01:48:00Z
-    webUrl: "https://www.barrons.com/articles/stocks-investing-artificial-intelligence-51638579011"
-    ampWebUrl: "https://www.barrons.com/amp/articles/stocks-investing-artificial-intelligence-51638579011"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/stocks-investing-artificial-intelligence-51638579011"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-446312/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "ChTrXMTdq5JsRb86zWkZPGQodq/NspTCwP/j3+07myxQYyjGDEw0ILMBmoHoE5hc3Tb228R/ylN4XzZuXB2I3YGieoxfqmTwa/pUAIw4+geQEjpUzZjTq+ZxwlyIeaGHSd5eqiKYwdu94XF/OlXuidig0zNmG9galBTZi4LSwsXyacNjIoAycz9aSn3bBCMFZ6w7xRboCqGyeMwgmLERBV7XwlsPku8hme882JeX+g49uBhCpwISJU21LcJ8Wv6R8liGjWw5lMlJ8xS4pNUQO/cJ94AX7FfDTruG/qA57Pfyif4Qoza2UUkacR2lDlJf2EYm6ftmTRJ21jPlefKwBxXtB3bTI0chEHM/U3QsoxW6MjZZRFA7GAC4W9jBzLZ3eWMI2OIXX4uyFP3vCiP/PhjlYZh7zWbgVnulOiLFXjjFOdXf2Z+4pTkAMr/ykBZQV9+KrXtCsjFcjIoI4kp6ROkoULCD25UCwa1gOh6tcnj8I2ZNZZx/f8RInUTQQ/S7dKeNT800ycOlKtnyoQA6Qw==;WCVJmDo+sm9ZlqBFTpLa2Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/u-s-to-bar-investment-in-chinese-ai
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799"
 type: article
 quality: 94
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2021/12/How-Machine-Learning-is-Changing-Finance-Forever.jpeg"
         width: 1200
         height: 439
+        isCached: true
+  - title: "U.S. adds Chinese AI startup SenseTime to economic blacklist"
+    excerpt: "The U.S. Treasury Department in a statement said it added Chinese artificial intelligence company SenseTime to a list of \"Chinese military-industrial complex companies\", accusing it of having developed facial recognition programs that can determine a target's ethnicity,"
+    publishedDateTime: 2021-12-10T16:57:00Z
+    webUrl: "https://asia.nikkei.com/Politics/International-relations/US-China-tensions/U.S.-adds-Chinese-AI-startup-SenseTime-to-economic-blacklist"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F7%252F6%252F1%252F37851674-1-eng-GB%252FRTS1JOEB.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "WZWO8v95dbwEwcvroeupT+k1uVUYnBPgXBxiKTeb2buH9eowpgAW0Nriiw7DVZ8GpFIjlCmzvbAocl24XL8mSERakHeB5GTufPZHh+GscnkxMigPrdawCojpbYoFbk9Dg/BGQFWHHcCzkzN5Duz5MzzM/XI5Y60RxxTMI+V/w6EDivVbwIgES+TdZfffoltPoc29NPln9Nec17q5oCP6mIgKTdkU6zfJEYF8nFk7GZhhHBjMnxkbJN3VuN4s6vIxHdnaevpYb2zDAkLRS07sBt7n0bQEgB2ylYDysVcj7IPfzmHfHotzvteUZZZUTNugVHs9UY/1quKBE0EDRWQNDqAfWrc1O3DGV0a912ma/eKC7I24Xrl2A15NCToycSUTPVm4H9YbKzTZZp8/294JL89C8I06XeV+2AxUbE5YBZ7ZwGsFciPaIToshMvAqCbpvgkRCZdjqExC7ZO2NBK0faidfZwgm/5PHXzixWkrNuZK5JKS47Wjn8VHx1n9PK61UTTBupU+naFt4Xim1WCqAw==;S/KiUM9BWCani3FvIiQcSg=="

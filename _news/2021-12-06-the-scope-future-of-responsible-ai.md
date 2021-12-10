@@ -101,16 +101,16 @@ related:
         height: 667
         isCached: true
   - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
-    excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to make predictions on potential synergistic anti-cancer drug combinations for"
-    publishedDateTime: 2021-12-10T16:49:00Z
-    webUrl: "https://www.baystreet.ca/stockstowatch/11857/AI-to-Boost-Cancer-Drug-Combination-Studies-and-Treatments-of-the-Future"
+    excerpt: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future VANCOUVER – USA News Group – Researchers led by a scholar from City Univ"
+    publishedDateTime: 2021-12-10T18:31:00Z
+    webUrl: "https://menafn.com/1103339820/AI-to-Boost-Cancer-Drug-Combination-Studies-and-Treatments-of-the-Future"
     type: article
     provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 36
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
     images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/1b.jpg"
+      - url: "https://menafn.com/updates/pr/2021-12/10/B_090beimage_story.jpg"
         width: 845
         height: 396
         isCached: true

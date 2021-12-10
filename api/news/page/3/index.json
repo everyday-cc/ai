@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-09-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger.md",
+      "title": "DeepMind experiment shows AI must grow smarter, not just bigger",
+      "excerpt": "The dominant approach to building more advanced artificial intelligences is simply to scale up their computing power, but AI firm DeepMind says we are reaching a point of diminishing returns",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/",
+      "originalUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/08141652/PRI_214101935.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/",
+      "publishedDateTime": "2021-12-08T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard.md",
+      "title": "Zuckerberg And Chan Pledge $500 Million Of Their Facebook Fortune To Create An AI Institute At Harvard",
+      "excerpt": "Zuckerberg and Chan, who met at a Harvard fraternity party in 2003, have already given $42 million to Harvard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/",
+      "originalUrl": "https://www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b0e1baf0550134f0c07bcd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/susanadams/2021/12/08/zuckerberg-and-chan-pledge-500-million-of-their-facebook-fortune-to-create-an-ai-institute-at-harvard/amp/",
+      "publishedDateTime": "2021-12-08T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more.md",
       "title": "Synthesia raises $50M to leverage synthetic avatars for corporate training and more",
       "excerpt": "Synthesia, a startup using AI to create synthetic videos, is walking a fine, but thus far prosperous, line between being creepy and being pretty freakin’ cool. Today, it announced the close of a $50 million Series B funding round led by Kleiner Perkins,",
@@ -1097,100 +1192,6 @@
         "Machine Learning",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-operational-intelligence-startup-netspring-lands-13m.md",
-      "title": "Operational intelligence startup NetSpring lands $13M",
-      "excerpt": "NetSpring, a startup offering an AI-driven operational intelligence solution, today announced it has raised $13 million in a series A round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/07/operational-intelligence-startup-netspring-lands-13m/",
-      "originalUrl": "https://venturebeat.com/2021/12/07/operational-intelligence-startup-netspring-lands-13m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-554489637-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/07/operational-intelligence-startup-netspring-lands-13m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/operational-intelligence-startup-netspring-lands-13m/amp/",
-      "publishedDateTime": "2021-12-07T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-a-system-for-designing-and-training-intelligent-soft-robots.md",
-      "title": "A system for designing and training intelligent soft robots",
-      "excerpt": "Let's say you wanted to build the world's best stair-climbing robot. You'd need to optimize for both the brain and the body, perhaps by giving the bot some high-tech legs and feet, coupled with a powerful algorithm to enable the climb.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/a-system-for-designing.jpg",
-          "width": 750,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-intelligent-soft-robots.amp",
-      "publishedDateTime": "2021-12-07T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

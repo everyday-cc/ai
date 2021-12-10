@@ -40,20 +40,6 @@ related:
         width: 340
         height: 283
         isCached: true
-  - title: "Meta Selects AWS as a ‘Key’ Cloud Provider"
-    excerpt: "Meta is deepening its relationship with AWS as a “key” and “long-term” strategic cloud provider. See more here:"
-    publishedDateTime: 2021-12-06T02:44:00Z
-    webUrl: "https://www.datamation.com/cloud/meta-selects-aws-key-cloud-provider/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/AWS-logo.png"
-        width: 1400
-        height: 840
-        isCached: true
 
 secured: "X1UA7yrw785W9w619q0XjaYtz1URg8SveuB6u4Ht5q+NdZOkpBPdwUeYtgjqt8HqP7Bu+t82TS4uFpSCmQ8Hqc34QfFv2RNjUQgAgBDJh8ihPIV2I4LcrIdHTZhow3DRw0xO+aTh4qB88zWxu3vx19WtlN7EoarX9jloOxM95KIE33JGurtKlZkq0gAY2JKlIdBnwp1L158dbzE4zWd23xaD4NhCka22yYNuzZTBJ+FoSAi+qMtlBXEbtz58FIkeYZMHeL6mzByd5A3EX3q8OS0/nie0tv22RqsAs3Jc4H0Wcol32WJuo+vbaK3fSmMedYryJAHg9+OtqJiE+9jSmMSicU0nOBgg2I9uZYbbHogA+3hFVOdxBzeDTJMfq0Bqx2R5DT75cexiOaJnA1o4pEfhDozmjEeqSX63ct5i7D6Cge/lEXuFAUVVfDjJ9EemzdaKczBF4gXiFKkVmbn4eFB1JW0ZzFSxb2OQHuZaSY+tLwHn9EHD4NGOnB4ZCiva8PllJqN4N89i6i306vDK/w==;C2ELYaofR6S69xk14J4GNg=="
 ---

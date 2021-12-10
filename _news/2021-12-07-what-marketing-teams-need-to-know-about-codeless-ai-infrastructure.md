@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marke
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ae4041e9233e47e2b90539%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1922%26cropY1%3D127%26cropY2%3D1207"
         width: 1200
         height: 674
-        isCached: true
-  - title: "Artificial Intelligence Is All the Rage. What You Need to Know."
-    excerpt: "UBS calls artificial intelligence a top investment theme for the coming decade. But Eric Schmidt, who used to run Google, warns that investing in AI isn’t so easy."
-    publishedDateTime: 2021-12-06T01:48:00Z
-    webUrl: "https://www.barrons.com/articles/stocks-investing-artificial-intelligence-51638579011"
-    ampWebUrl: "https://www.barrons.com/amp/articles/stocks-investing-artificial-intelligence-51638579011"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/stocks-investing-artificial-intelligence-51638579011"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 57
-    images:
-      - url: "https://images.barrons.com/im-446312/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "1U9xh9QzXebUtlFFJ5sPdUOvfO2hXhuOrMxvSgNiV50YwDQlUBHsO+arIeC5gf8TYsNeedKw33kdo8uCxsx/4MPUw+KcKUDirSedods+M7FHgV6MRxQU1BLi8IyvGEvdC+WQZZJk6pZEUxX+Fr5uwyhaw6wsdBY84zUAoy2f+EappxgvGvNWTr/ObYBh+Qv2zF5ATWqK0CvkGDw73gBhy+GGG9pKVpfL3AM3Iw8kxrq88qiPqc/fp4f18t7seJ4WL0p/p7GLC2xNK/13REj2c+p26hp8/CeRaIHxKinTi9kGPgSOp/StEXz2lmIrSw+hOE2P3dHSxw4MwAEtmmgIiNyVjqFl3VGUvQa4Y/f7m5xn0FZM9AKI8eLTkYM7/a0bw18t6k4szrL5uJK/5GRFk74dlnhyI590nsrrMEzo+sQQkOyaIb+TVDEygQHy3RqOis1zxTuI7j9eqnF+foqgB6A2ZTQ8JE2SBfedgKPo9MYLl5Mb/tZ4cKZ1FTHE/icze+xOytqcqofvWBRjSZGVGg==;W1c58EaH0in0bUC0qaiyKA=="

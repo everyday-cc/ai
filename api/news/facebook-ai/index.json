@@ -343,50 +343,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-07-meta-picks-aws-as-strategic-ai-cloud-provider.md",
-      "title": "Meta Picks AWS as Strategic AI Cloud Provider",
-      "excerpt": "Amazon Web Services has announced that Meta (formerly Facebook) has deepened its relationship with AWS as a strategic cloud provider, using AWS’s cloud infrastructure to complement its on-premises infrastructure,",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/12/meta-picks-aws-as-strategic-ai-cloud-provider/",
-      "originalUrl": "https://insidehpc.com/2021/12/meta-picks-aws-as-strategic-ai-cloud-provider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2021/12/Meta-logo.png",
-          "width": 340,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-06-for-truly-ethical-ai-its-research-must-be-independent-from-big-tech.md",
       "title": "For truly ethical AI, its research must be independent from big tech",
       "excerpt": "We must curb the power of Silicon Valley and protect those who speak up about the harms of AI",
@@ -1434,6 +1390,49 @@
       "provider": {
         "name": "Robotics Tomorrow",
         "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-02-facebook-to-shut-down-face-recognition-system-delete-data.md",
+      "title": "Facebook to shut down face-recognition system, delete data",
+      "excerpt": "Facebook says it will shut down its face-recognition system and will delete the faceprints of more than 1 billion people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksla.com/2021/11/02/facebook-shut-down-face-recognition-system-delete-data/",
+      "originalUrl": "https://www.ksla.com/2021/11/02/facebook-shut-down-face-recognition-system-delete-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-ksla-prod.cdn.arcpublishing.com/resizer/IF2cLlf2MJQeFMKSCbRwJq8iuKU=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/D4V6RZBG6RCI7NOS4LWGWRD6DY.jpg",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-02T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSLA",
+        "domain": "ksla.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-12-02-future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software.md",
+      "title": "Future Chip Innovation Will Be Driven By AI-Powered Co-Optimization Of Hardware And Software",
+      "excerpt": "The invention of the printing press and the ascension of the internet come to mind as similar inflection points, but current innovation trends are being driven by artificial intelligence (AI) at scale,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8e24e35c83b6938d1e648%2F0x0.jpg",
+          "width": 1000,
+          "height": 579,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2021/12/02/future-chip-innovation-will-be-driven-by-ai-powered-co-optimization-of-hardware-and-software/amp/",
+      "publishedDateTime": "2021-12-02T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-artificial-intelligence-based-spine-modeling-now-available.md",
+      "title": "Artificial Intelligence Based Spine Modeling Now Available",
+      "excerpt": "Based on artificial intelligence (AI) algorithms from IBM’s Watson Health, Ricoh USA, the U.S. arm of the Japanese digital services and information company, has created a remarkable, must-be-seen-to-be-believed,",
+      "sourceUrl": null,
+      "webUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/",
+      "originalUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ryortho.com/wp-content/uploads/2021/12/ArtificialIntelligence_ROCOH_WEB.jpg",
+          "width": 850,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/amp/",
+      "cdnAmpWebUrl": "https://ryortho-com.cdn.ampproject.org/c/s/ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/amp/",
+      "publishedDateTime": "2021-12-02T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orthopedics This Week",
+        "domain": "ryortho.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-how-machine-learning-aids-new-mathematics-discoveries.md",
       "title": "How Machine Learning Aids New Mathematics Discoveries",
       "excerpt": "Computers have long been used to aid mathematicians when it comes to solving long, complex and experimental equations. Additionally, machine learning and AI have also found application in disproving mathematical conjectures and theorems by being able to toil through vast fields of data and spot anomalies.",
@@ -1065,85 +1160,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-optus-deploys-5g-standalone-on-aws-deepracer-vehicles-at-e-racing-event.md",
-      "title": "Optus deploys 5G standalone on AWS DeepRacer vehicles at e-racing event",
-      "excerpt": "Optus also reports that the AWS DeepRacer is the first autonomous 1/18th scale car specifically developed to help people of all skill levels get hands-on with reinforcement learning, an advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecompaper.com/news/optus-deploys-5g-standalone-on-aws-deepracer-vehicles-at-e-racing-event--1406273",
-      "originalUrl": "https://www.telecompaper.com/news/optus-deploys-5g-standalone-on-aws-deepracer-vehicles-at-e-racing-event--1406273",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T00:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecompaper",
-        "domain": "telecompaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-introduces-new-features-to-make-ml-more-accessible.md",
-      "title": "AWS introduces new features to make ML more accessible",
-      "excerpt": "Amazon Web Services (AWS) has announced a slew of features and services to make technologies like machine learning more accessible and cost-effective,..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st.etb2bimg.com/Themes/Release/images/responsive/etcio-logo-400x400.jpg",
-          "width": 850,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233",
-      "publishedDateTime": "2021-12-01T23:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

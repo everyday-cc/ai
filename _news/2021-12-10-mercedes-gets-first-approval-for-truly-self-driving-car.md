@@ -41,6 +41,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Gaming while driving: Tesla allows it, Mercedes-Benz does recall"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+    publishedDateTime: 2021-12-10T18:39:00Z
+    webUrl: "https://www.clickorlando.com/business/2021/12/10/gaming-while-driving-tesla-allows-it-mercedes-benz-does-recall/"
+    type: article
+    provider:
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/WOWGQP7ZRZCC3B5SMX32XNFPSM.jpg?_a=ATABlcW0"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Mercedes-Benz to launch Level 3 self-driving system in 2022 after gaining regulatory approval"
     excerpt: "Mercedes will launch its Level 3 self-driving system in Germany initially, but is already testing it in the U.S."
     publishedDateTime: 2021-12-09T18:00:00Z
@@ -67,6 +81,6 @@ related:
       domain: fleetnews.co.uk
     quality: 24
 
-secured: "I8Odzk5gfs03nNwA1JbjXv+s//7m2i9pK30RzeFimYIuyvXiSYBCnpA6DYmUNYiqtDQltraImW9VSiS6cLG8qcyUJiQePnFR3fDE2B9HEDeqWc96FIl+0MImsNaIbBnRZddQuH7Up5spbtgIoLTZG2OGfSAfc10VWFHPC66FPgW4lNDCr3fb4tPS7VCgXD8HtRcIDm/NRajBGv47TAuUALH41eoDvYENI+pNfaIMZ3Qu670ntU+dctL+1kowH575/JpXVLac8Pwij4m3YnObwdyeU+nLws0Z75pnDReVtQAsSUx6P2QAahoXjMGy4DhzycBZFjAXJF0p1hcwwv+TSohjPSTA+WzitOHnHUKhet0=;titgBVQWPCgdkWMPCR9tDQ=="
+secured: "cI3efFVr/2hZMZjonIYHCVPNidlLfforWMScYNfVZRtlw1hAkiZ9yF6GPdwrviMVEw5xoI/BJuuShzfcu/bRp8d0zEhIcaqJy50he6te5X75bYpD3xZuBS2+TIN2JX42+CuzEe/BDMy6mEdetisp4hCFZ5ceF+8T848cAJeFyUhUUhT76PCPhuBuuB5Gd1A9MW80biN8Kd9a3YMB8rk55JC5Ule+rI3vGNI7qJxMLGc5DdtDPek6/ymKrWQ9JOkNjGnlDm9NAF5q9G/icb1eTZAH6ighlLDB2l5uTQ8ts5rHsvR1UZW6cDrgRBxPOXhiU5h/jtc26sZa7fQTOot6b8UUOJTUpn8KEH3cUALg1XIE0MroFCRsMa4xwd/BrkxKV8XYw6itOQyrmvwvQpSieEQkS8ggGyawqWU0Ku+Ys8Kqagb3QVmveok4W5Q8NItkCQRbq1pIXL9xX2UQ2sWAcrlRk3gXsw1M+Vrr57+x2YgS9GmDbfzVbAirPiqmIyqUAzOJPotZrtzhmapyPjiy2g==;6EDOX/tVwE/tSH87kPrUdg=="
 ---
 

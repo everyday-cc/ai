@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-cyberlinks-facemereg-brings-best-i
 webUrl: "https://www.tmcnet.com/usubmit/-cyberlinks-facemereg-brings-best-in-class-facial-recognition-/2021/12/07/9506277.htm"
 type: article
 quality: 2
-heat: 2
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Bitkey integrates CyberLink’s facial recognition into smart office platform"
+    excerpt: "Registered users can then use their face to automatically unlock doors and access elevators as they approach their assigned facilities."
+    publishedDateTime: 2021-12-10T17:22:00Z
+    webUrl: "https://www.biometricupdate.com/202112/bitkey-integrates-cyberlinks-facial-recognition-into-smart-office-platform"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://www.biometricupdate.com/wp-content/uploads/2021/07/facial-recognition-large.png"
+        width: 1100
+        height: 734
+        isCached: true
 
 secured: "rvQfuVxYXfScuUyucvxAZ5vYxxk0l43/U9+BA5SeeuxDOeJuCskGgtH3BnqaE4FjyUcx4dM2huYB9kyv1aMQVt+UjltiTIxth+sRFX7Tlwg4bD3rYHYEV/LsYYX6HsqJ+1rKuVcRGbbLU62PnIVcKY4iSmGX1v9zXwtb3ecEtFvWvIapEKMEZW8n7hYHbBJa/DhGaj7Y62BGS4mTpIUOppp6RpYOw/nLgOYuicYBhYAnmiOt01Zafoi+JSs02Y9IvjtJYR+PyRz+GwEBgtZDTcKEXEoMjFHQETXrY2RhPdBBR8vShstynxVZeW0jtYHijNHLvsC+7ZbCgacac3KAxJ+COl5c37N8diSakQcELUE=;WZoBVnCDKDXhsxvuX8vfEg=="
 ---

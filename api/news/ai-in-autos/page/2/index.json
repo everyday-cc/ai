@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-25-baidu-ponyai-approved-for-robotaxi-services-in-beijing.md",
+      "title": "Baidu, Pony.ai approved for robotaxi services in Beijing",
+      "excerpt": "SHANGHAI (Reuters) – Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.metro.us/baidu-pony-ai-approved-for/",
+      "originalUrl": "https://www.metro.us/baidu-pony-ai-approved-for/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHAO03V-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metro.us/baidu-pony-ai-approved-for/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-pony-ai-approved-for/amp/",
+      "publishedDateTime": "2021-11-25T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-baidu-ponyai-cleared-for-beijing-robotaxi-service.md",
       "title": "Baidu, Pony.ai cleared for Beijing robotaxi service",
       "excerpt": "SHANGHAI -- Chinese tech group Baidu and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the companies deploy not more than 100 vehicles in ...",
@@ -129,6 +172,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-baidu-pony-ai-granted-chinas-first-licences-to-charge-passengers-for-self-driving-taxis-in-beijing.md",
+      "title": "Baidu, Pony AI granted China’s first licences to charge passengers for self-driving taxis in Beijing",
+      "excerpt": "Pony AI is an autonomous driving technology company founded in late 2016 by James Peng and Lou Tiancheng, formerly two key developers and engineers at Baidu’s self-driving unit. Pony started ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "originalUrl": "https://www.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/25/6fdc88ce-dddc-4a5d-8ba9-e374c88fc240_dea56383.jpg?itok=TisaetVJ&v=1637822271",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3157327/baidu-pony-ai-granted-chinas-first-licences-charge-passengers",
+      "publishedDateTime": "2021-11-24T23:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1323,101 +1418,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-artificial-intelligence-ai-in-retail-market-2021-2028.md",
-      "title": "Artificial Intelligence (AI) in Retail Market 2021-2028",
-      "excerpt": "New study report \" Artificial Intelligence (AI) in Retail Market Overview: The global artificial intelligence (AI) in retail market size is expected to reach USD 31.18 billion by 2028, exhibiting a CAGR of 30.",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
-      "originalUrl": "https://www.openpr.com/news/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub18124618_g.jpg",
-          "width": 800,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2466399/global-artificial-intelligence-ai-in-retail-market-2021-reach",
-      "publishedDateTime": "2021-11-18T01:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-baidus-robotaxi-service-aims-to-be-in-100-cities-by-2030.md",
-      "title": "Baidu’s robotaxi service aims to be in 100 cities by 2030",
-      "excerpt": "Baidu keeps ramping up its autonomous driving ambitions. The Chinese tech company made its name in search engines and still relies greatly on search ads for revenues. But it’s hoping that its heavy bet on autonomous driving will pay off down the road.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/",
-      "originalUrl": "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/image001-2.jpg?w=1024",
-          "width": 1024,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/17/baidu-robotaxi-2030/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/17/baidu-robotaxi-2030/amp/",
-      "publishedDateTime": "2021-11-17T20:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

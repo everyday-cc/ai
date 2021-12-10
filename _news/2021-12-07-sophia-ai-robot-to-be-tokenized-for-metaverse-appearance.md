@@ -9,7 +9,7 @@ ampWebUrl: "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-m
 cdnAmpWebUrl: "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How a VR startup took the money and ran to the metaverse"
+    excerpt: "Dedric Reid has been selling his own version of the metaverse on and off for the past five years. He calls it MetaWorld and describes it as a persistent, decentralized space filled with life and change."
+    publishedDateTime: 2021-12-10T17:03:00Z
+    webUrl: "https://www.engadget.com/metaworld-nft-metaverse-dedric-reid-clubhouse-discord-170052007.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 52
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-12/99b33170-5848-11ec-befc-49d83b88b040"
+        width: 2560
+        height: 1310
+        isCached: true
   - title: "100 Versions Of Robot Sophia Ready For Metaverse"
     excerpt: "The latest iteration of Sophia allows 100 versions of her in NFT format to be available in the metaverse Sophia, the humanoid robot built by Hanson Robotics, will now have her virtual anime version in 100 non-fungible tokens (NFT) and be seen in the metaverse."
     publishedDateTime: 2021-12-07T12:59:00Z

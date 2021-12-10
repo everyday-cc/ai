@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/daily-labor-report/nyc-targets-artif
 webUrl: "https://news.bloomberglaw.com/daily-labor-report/nyc-targets-artificial-intelligence-bias-in-hiring-under-new-law"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,45 +22,6 @@ images:
     width: 958
     height: 368
     isCached: true
-
-related:
-  - title: "Group backed by top companies moves to combat AI bias in hiring"
-    excerpt: "The companies are responding to concerns, backed by an ample body of research, that AI programs can inadvertently produce biased ... figure it out later,’” said Chenault, who was on the Facebook board for two years, until 2020. Corporate America ..."
-    publishedDateTime: 2021-12-09T00:12:00Z
-    webUrl: "https://www.northbaybusinessjournal.com/article/industrynews/group-backed-by-top-companies-moves-to-combat-ai-bias-in-hiring/"
-    type: article
-    provider:
-      name: The North Bay Business Journal
-      domain: northbaybusinessjournal.com
-    quality: 39
-    images:
-      - url: "https://imengine.prod.srp.navigacloud.com?uuid=03680FE6-D7CF-48C2-A263-35116FF79BEB&type=primary&q=72&width=1200"
-        width: 1200
-        height: 899
-        isCached: true
-  - title: "Can companies police the biases found in artificial intelligence?"
-    excerpt: "How can bias be removed from artificial intelligence? NPR's Audie Cornish talks with Kenneth Chenault, co-chair of the Data and Trust Alliance, on how corporations can take steps to make that happen."
-    publishedDateTime: 2021-12-09T23:52:00Z
-    webUrl: "https://www.wbur.org/npr/1062791766/can-companies-police-the-biases-found-in-artificial-intelligence"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 37
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/wbur-tile.png"
-        width: 1700
-        height: 1700
-        isCached: true
-  - title: "Group backed by top companies moves to combat AI bias in hiring"
-    excerpt: "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination."
-    publishedDateTime: 2021-12-09T23:16:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2021/12/09/artificial-intelligence-bias-combat.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "NPvU6jFm1qnPmQ/vykcOjg31jFfCELfoU+x8kLRfmcX3V3zUDwQVT9kIUJRf8adFAriY7r3+kFNtGzcR3/9w4gtph3q30lJgPbLYiANLu0IAFZe8lnVwVjYydYc5uXKmFdixqmA2BotuT8yKbGoB4afVqcm5YonGiKQLfae4UOE7EuwxrUwS6OG1xvWqJwPvBfjnrYSAyAFgSKI4o708gq7d3is53hLRshTf3JU5d/1iKbzHxGZMBol1xlPsK0no+5le2Y0iGXkDdwpjiEO7E98YyVtMKXya44K+9DTQS+fY+T9yq/0uQXx4L/qzps2wbs4NAWfhHTIYui+fPqTe6w8mj1RT6mmy9VriuDgNVePmKejejAil/lUSvnELu+5newz96QWvLK0nhOBpOOOX6ilbMd6Qlq25ouLLOU4ZeJo+w4dKlqjhJHRjrhsj4bP9wzN4UO0k2XYMvjWD0h6DEBtvOyvzIarP0pUIBNJ/w0qK+JjXX8ODvLG1YgZKMPgMdle36g+SUqlkMyRdKBewIg==;rG8Pyb8wCJ+PP+nPX6LusQ=="
 ---

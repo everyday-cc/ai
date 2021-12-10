@@ -57,22 +57,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Chinese AI startup SenseTime Group to raise $767 million in Hong Kong IPO"
-    excerpt: "Eight cornerstone investors have signed up for the IPO and subscribed for $450 million, or 58.6% of the deal, before its launch."
-    publishedDateTime: 2021-12-06T02:59:00Z
-    webUrl: "https://www.businesstoday.in/latest/world/story/chinese-ai-startup-sensetime-group-to-raise-767-million-in-hong-kong-ipo-314497-2021-12-06"
-    ampWebUrl: "https://www.businesstoday.in/amp/latest/world/story/chinese-ai-startup-sensetime-group-to-raise-767-million-in-hong-kong-ipo-314497-2021-12-06"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/world/story/chinese-ai-startup-sensetime-group-to-raise-767-million-in-hong-kong-ipo-314497-2021-12-06"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 56
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/sensetime-sixteen_nine.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI startup SenseTime discussing fate of $767m HK IPO with exchange"
     excerpt: "Chinese artificial intelligence startup SenseTime Group is discussing the fate of its planned $767 million Hong Kong initial public offering (IPO) with the city’s stock exchange"
     publishedDateTime: 2021-12-10T13:58:00Z

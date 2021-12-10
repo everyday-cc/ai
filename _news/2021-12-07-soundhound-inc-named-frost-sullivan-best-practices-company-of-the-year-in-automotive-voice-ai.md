@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-soundhound-inc-named-frost-sulliva
 webUrl: "https://www.tmcnet.com/usubmit/-soundhound-inc-named-frost-sullivan-best-practices-company-/2021/12/07/9506367.htm"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Can companies police the biases found in artificial intelligence?"
+    excerpt: "How can bias be removed from artificial intelligence? NPR's Audie Cornish talks with Kenneth Chenault, co-chair of the Data and Trust Alliance, on how corporations can take steps to make that happen."
+    publishedDateTime: 2021-12-09T23:52:00Z
+    webUrl: "https://www.wbur.org/npr/1062791766/can-companies-police-the-biases-found-in-artificial-intelligence"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 37
+    images:
+      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/wbur-tile.png"
+        width: 1700
+        height: 1700
+        isCached: true
 
 secured: "H//2nDtebl1DZKFXdqy6H/a56CErYqg7cy/CW+BXLnryvrW/YtJ/T3eX9R0/Xvf+ETVSe0N+x+dkjHcMH5wxXdf4Eo2BdfSFEyo7jmGUdoZQyUSpOpmowXCSrbY0GDkKR9Y3VcnA3Cs6yB3DXJIUm+5rwpb6ihsZX1uLttRbkeihFjNCBPF63GTpGZT//ZSmWdwUdmSfz6G7KKQq06fqXggbSH/V3wXhxvZbDSYwmPlPrHdb9Jwrz6VLkHyRSuK4QGtsENaJ0SznKzLS2oxXHFNKEKWdFAmg1iJ7kC8JRGCK/Vt0/pVoLvTl37V2JCWKbYum7C8v/jq17hQjkmO2EP9UBZSVUYlS4vwZWTJE9Hk0uB1ALlyONnX0qTKBVMBLuHzGHXuVmrwmLH67klhALyoLoS0SVzRlugVkWLjLkLGxLmwoacYBJiFKtjCIDBr5MEPdd5SaAZIQoIym16iXtvTHWXf3w/ZjYOIwSYUXaEr3dluS9oDy5BR0Vo4GF6KFe13KK/Hf79BgCCJTlklPVw==;kxSYbPvibN5/Lxvv/Woe4A=="
 ---

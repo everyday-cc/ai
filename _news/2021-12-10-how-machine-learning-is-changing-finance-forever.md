@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. adds Chinese AI startup SenseTime to economic blacklist"
+    excerpt: "The U.S. Treasury Department in a statement said it added Chinese artificial intelligence company SenseTime to a list of \"Chinese military-industrial complex companies\", accusing it of having developed facial recognition programs that can determine a target's ethnicity,"
+    publishedDateTime: 2021-12-10T16:57:00Z
+    webUrl: "https://asia.nikkei.com/Politics/International-relations/US-China-tensions/U.S.-adds-Chinese-AI-startup-SenseTime-to-economic-blacklist"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F7%252F6%252F1%252F37851674-1-eng-GB%252FRTS1JOEB.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "qZNWuSzcONNPb6262ODZKO0+DtP2PLuRdJHxSFo2zLl+Milk3diLnNgaRIAhCMqQwGT8emK1jkn8wdy1YnDhN6ajQY3saAp0dmy/hIC18NIils4gyKQHnbztTFFhm6DjvzHf6+M/CGmesGNQ47Y9kAPmsy144KbtfkvAabhUbqGEDCDut4+PAvCv1NsdGNzOuy17l8b/vchuC6w8OtCf7J3qFaORo2EBNtss4rTSIvDBFsLeIQM+VLOCa9GiBLJ/XGNeU3+mQ5+PrrwB1Q2DzUsj/JIkZYL0HP21xcVuShtuJMZ/+Nmj64bXoKiX+8fpJnk6ObEE0mk2k7NiUCeVdWFC/Ed3QdICQZxPU5voA1kfSowe2U3lmTIdOjmj/LNKNJunzliNaCebQdI15BJAVqWCMx25FumwU72PM3gxRpHe1iZULXHQbXhYhx0UkojTvnoEL5f8B6HgrKigPA2De67TW4jF61TN7CDzz2MFdIF1DtfXtXK4xo10P3pHjqukOzwCoWK2GqKSb1P931SAPA==;BuKDA/cxrmSWIkgtzhJlbQ=="
 ---

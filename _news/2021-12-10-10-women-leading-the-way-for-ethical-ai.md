@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/10-women-leading-the-way-for-ethical
 webUrl: "https://analyticsindiamag.com/10-women-leading-the-way-for-ethical-ai/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Global Agreement Defines The Ethics of Artificial Intelligence"
-    excerpt: "A historic agreement defines the common values and principles needed to ensure the healthy development of Artificial Intelligence (AI). All the member states of the UN Educational, Scientific and Cultural Organization ( UNESCO) have signed the agreement."
-    publishedDateTime: 2021-12-06T01:07:00Z
-    webUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916-global-agreement-defines-the-ethics-of-artificial-intelligence"
-    type: article
-    provider:
-      name: IDN-InDepthNews
-      domain: indepthnews.info
-    quality: 56
-    images:
-      - url: "https://www.indepthnews.info/images/artificial_intelligence.jpg"
-        width: 750
-        height: 337
-        isCached: true
 
 secured: "m3O0gQZs71KTHzHNFuYaxwm8Xw6XqjeovDwlKLXBBsJdgBqL9kXVg1zcwAJe2e0OvSA3oX957Oes+grwRrfGxGq491slbpfPe5HbRCrTod5NP7vJWCBCAioxXq2Dqp+q2KL4xZuy4s/sRNutXlqzh9jhcE+VZX4sGuy3nWxKR7ZAqeLXYercmPBl4gMMawizL8hfVkAwI3xMqXLbvgEIqgtSytTNbmjhEjGPFJe1lKXx229Kek/UFJN4QbysEhGtQfUZ9yY8iDs6pNJ86219lRDSCmpenALMKKETO8Dzc15XL59rhbkubbF0xi1N1PQUFBLLxc19PVdFI67ijp+6Asvc1Ndu0JBvnydqf7yz5Iw=;O2AHXdwRoaw9TH5YkaGX7A=="
 ---

@@ -48,6 +48,20 @@ related:
         width: 635
         height: 400
         isCached: true
+  - title: "Driving digital transformation across the UK healthcare sector"
+    excerpt: "Brian Murphy at Cumulus Neuroscience explores how AI tools could transform drug development in the difficult area of cognitive disorders"
+    publishedDateTime: 2021-12-10T15:56:00Z
+    webUrl: "https://www.openaccessgovernment.org/cognitive-disorders/125967/"
+    type: article
+    provider:
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 39
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/12/MG_6964_T5_ROOM1-scaled.jpg"
+        width: 2000
+        height: 1375
+        isCached: true
 
 secured: "Gx/ORP1YQtALFrNz8j18ULRZ+H9yyXjdJV55lz4sT44oGoOlUR1guzj3VQiAU5JGKCGraTpZCjaNiEAWiefzv8hU3Jm+YMfik0qqsmwPkNDSZVVETaMwB6I9Hr1aQ0LYesnL7fu/8F5ySy60Ct10sy2HKGlYZVPw5kKNeITIT87/xB3oIfH82tfKBowlGAY8j7pMQeZ8rcrhggRNB9PhfheT0dzsha5KXI8hKUdITrEK2HN2kEdWXrR00ZGMcr6vNMNjabK7tEuTrwHvd6RrhZuQuX4RCiAmgT0Yg9s2jH0zzCyWWCho31wX9AYsazmwZZ/6KonkBGTazjKV2iu1rqkuxDq7Wn4J12q+Fa4/6Ws=;DwSOM7mljuRV1pq6bVKT9A=="
 ---

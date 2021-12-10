@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Headroom launches to combat Zoom fatigue with AI"
+    excerpt: "Headroom is like Zoom on steroids. It's an AI-powered platform that automates many of the laborious tasks involved in virtual video meetings."
+    publishedDateTime: 2021-12-10T18:20:00Z
+    webUrl: "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/headroom-launches-to-combat-zoom-fatigue-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/Gestures.png?fit=800%2C427&strip=all"
+        width: 800
+        height: 427
+        isCached: true
   - title: "Group backed by top companies moves to combat AI bias in hiring"
     excerpt: "The companies are responding to concerns, backed by an ample body of research, that AI programs can inadvertently produce biased ... figure it out later,’” said Chenault, who was on the Facebook board for two years, until 2020. Corporate America ..."
     publishedDateTime: 2021-12-09T00:12:00Z
@@ -32,34 +48,6 @@ related:
       - url: "https://imengine.prod.srp.navigacloud.com?uuid=03680FE6-D7CF-48C2-A263-35116FF79BEB&type=primary&q=72&width=1200"
         width: 1200
         height: 899
-        isCached: true
-  - title: "Can companies police the biases found in artificial intelligence?"
-    excerpt: "How can bias be removed from artificial intelligence? NPR's Audie Cornish talks with Kenneth Chenault, co-chair of the Data and Trust Alliance, on how corporations can take steps to make that happen."
-    publishedDateTime: 2021-12-09T23:52:00Z
-    webUrl: "https://www.wbur.org/npr/1062791766/can-companies-police-the-biases-found-in-artificial-intelligence"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 37
-    images:
-      - url: "https://d279m997dpfwgl.cloudfront.net/wp/2016/06/wbur-tile.png"
-        width: 1700
-        height: 1700
-        isCached: true
-  - title: "NYC Targets Artificial Intelligence Bias in Hiring Under New Law"
-    excerpt: "New York City has a new law on the books—one of the boldest measures of its kind in the country—that aims to curb hiring bias that can occur when businesses use artificial intelligence tools to screen out job candidates."
-    publishedDateTime: 2021-12-10T10:41:00Z
-    webUrl: "https://news.bloomberglaw.com/daily-labor-report/nyc-targets-artificial-intelligence-bias-in-hiring-under-new-law"
-    type: article
-    provider:
-      name: Bloomberg Law
-      domain: bloomberglaw.com
-    quality: 37
-    images:
-      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/86938d8/2147483647/crop/958x368%2B0%2B0/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F04%2F02%2Fe6e250304e9f805af51c6e6000d8%2Fbli-ai-hiring-958x369-002.png"
-        width: 958
-        height: 368
         isCached: true
 
 secured: "cjeLQp9nG0CJuT2tqteweQXQzDpvZbtRE2UlNZw/pyIA7kg79bygf8S9KtHEXbBOVwb/Xph1Ri26prz98NNgcMa3S72We+xK7/JrPAAzCgE0fceMiZeYBYxSSLxqtRef4v89tfZ3dO+GeHYVnYtV3JnfQoF20SFWprA0AbTNM/V5bhzIVhVobZQ01rN6ulBYEmSgwMekvS3UtcepdsAwGijJShAg5McJDTn4jgVDitZefHraKl9aoJlcP9hTvAfcJyYWfsh3NwMNFbgXTx8lbHh8NaoNL9/uXXsBJx51NZNulawR1/xCJ7L0fXQ9KYfC3BtGZ0SNzgP8x45j6RI/0L7ijAyBhZTyDVe4TWaGwwogmmXV54DARy/W0LQg5v6IYjs+CENSwUc/goRJi48QD76J0g9miJ6AL81U5tC7r840Hcog8bj6RA/P7rWig+/CZl2IjpMS/kRMbf0y37BPsEsMu/dECm/zHPar03guI/oiNFcydH1yZ/fio0ukRB9pTc9x6y/ueGgNEn0E+5YJGg==;xw4SlGa6jXWZX5MEWlrPjg=="

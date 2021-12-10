@@ -2,6 +2,84 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2021-09-20-top-5-machine-learning-trends-in-2021-2022.md",
+      "title": "Top 5 Machine Learning Trends in 2021-2022",
+      "excerpt": "Trend 2. AutoML Auto-ML brings improved data labeling tools to the table and enables the possibility of automatic tuning of neural network architectures. Evgeniy Krasnokutsky PhD, AI/ML Solution ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20210920ph08435/top-5-machine-learning-trends-in-2021-2022",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20210920ph08435/top-5-machine-learning-trends-in-2021-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-20-machine-learning-as-a-service-market-2021-deep-analysis-of-current-trends-and-future-demand.md",
+      "title": "Machine Learning As A Service Market 2021: Deep Analysis of Current Trends and Future Demand",
+      "excerpt": "Machine Learning As A Service Market Size, Share & Trends Analysis Report By Component (Software, Services), By Organization Size (Large Enterprises, Small",
+      "sourceUrl": null,
+      "webUrl": "https://www.mynewsdesk.com/brandessence/pressreleases/machine-learning-as-a-service-market-2021-deep-analysis-of-current-trends-and-future-demand-3129625",
+      "originalUrl": "https://www.mynewsdesk.com/brandessence/pressreleases/machine-learning-as-a-service-market-2021-deep-analysis-of-current-trends-and-future-demand-3129625",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resources.mynewsdesk.com/image/upload/c_fill,h_628,q_auto:good,w_1200/pyt4neqcirntw7gawcxa.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-20T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mynewsdesk.com",
+        "domain": "mynewsdesk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-09-20-german-gpu-sales-point-to-more-price-hikes-and-a-drop-in-availability-this-year.md",
       "title": "German GPU sales point to more price hikes and a drop in availability this year",
       "excerpt": "As we move into the later part of 2021, trends and evil rumours point to a worsening of both price and availability for GPU stock. That means it could be a while longer before the GPU shortage finally subsides and the ridiculous pricing we've been subject to fully balances out.",
@@ -1043,102 +1121,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices.md",
-      "title": "Microsoft and Honor sign partnership to develop new AI, devices",
-      "excerpt": "According to the strategic cooperation memorandum signed by the two companies, Honor will adopt AI speech and AI translation services based on Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527",
-      "originalUrl": "https://www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2021/09/22/159963-untitled-design-2021-09-22t115616143.jpg?itok=hh4Sia_8",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527/amp",
-      "cdnAmpWebUrl": "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/technology/news-microsoft-and-honor-sign-partnership-to-develop-new-ai-devices-165527/amp",
-      "publishedDateTime": "2021-09-17T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zee Business",
-        "domain": "zeebiz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-18-chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu.md",
-      "title": "China’s Baidu unveils autonomous driving ‘robot truck’ Xingtu",
-      "excerpt": "Baidu’s open-source autonomous driving platform Apollo has spawned Xingtu, an electric ‘robot truck’, as mainland China’s artificial intelligence and search engine giant revs up the development of next-generation vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
-      "originalUrl": "https://www.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/09/18/44b8b9a0-17b7-11ec-ab69-f2bfe93835cf_image_hires_023635.JPG?itok=HjlXUvBM&v=1631903802",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3149206/chinas-baidu-unveils-autonomous-driving-robot-truck-xingtu",
-      "publishedDateTime": "2021-09-17T19:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

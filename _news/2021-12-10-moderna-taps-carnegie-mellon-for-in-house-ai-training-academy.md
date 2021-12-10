@@ -1,0 +1,45 @@
+---
+category: news
+title: "Moderna taps Carnegie Mellon for in-house AI training academy"
+excerpt: "As it looks to one day move beyond COVID-19 vaccines and take its mRNA tech to other diseases, Moderna has established a new artificial intelligence training program for its employees in partnership with Carnegie Mellon University."
+publishedDateTime: 2021-12-10T15:13:00Z
+originalUrl: "https://www.fiercebiotech.com/medtech/moderna-taps-carnegie-mellon-for-house-ai-training-academy"
+webUrl: "https://www.fiercebiotech.com/medtech/moderna-taps-carnegie-mellon-for-house-ai-training-academy"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: FierceBiotech
+  domain: fiercebiotech.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://qtxasset.com/fiercebiotech/1639150176/GettyImages-1295693748.jpg/GettyImages-1295693748.jpg?VersionId=yGyZFpGe5mGLJpDvJREhymFlWpd8bZsr"
+    width: 3840
+    height: 2160
+    isCached: true
+
+related:
+  - title: "Moderna Launches AI Academy in Partnership with Carnegie Mellon University"
+    excerpt: "Moderna, Inc., a biotechnology company pioneering messenger RNA (mRNA) therapeutics and vaccines, today announced the launch of its Artificial Intelligence (AI) Academy, an innovative initiative that will bring to life an immersive"
+    publishedDateTime: 2021-12-09T20:13:00Z
+    webUrl: "https://www.lelezard.com/en/news-20149261.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 37
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
+secured: "tfse3JLe9mV/xQjxE33zkxROwfYM+9Jbib1iNCjEgL3yctxo1v7+4WzbwJPwcDWDfsBz6LGhBBxbQNyURmiI3gQtjkCMOn4C9nlXp02oErkh91tjooDUGoOg4VIGjp8+kVfGHOH1KrVW1MyXZjauQdpyg73qE2WQ143UQVWLhI3nCNzrlnLxjsHXbZqX+r0+GmT6KW2lE5aT0hdeK1tKWm/P455gYdx8sCcaALgitLcBiSpe1C440se2yaQUsVA/gnlTpduFxe6oACiTVZt5DLO3U+PlcaHp/N6LizPbMoEPpknIKQ4BglQSCJTaVttMI3E37tkLlo+g864tSpamxyfdf9juqJMG/j0YrY/Lt4A=;XH7lBwTkWVFJBg5G2eKTUQ=="
+---
+

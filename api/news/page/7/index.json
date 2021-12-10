@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-04-how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler.md",
+      "title": "How to take advantage of Microsoft 365's AI meeting Scheduler",
+      "excerpt": "Can a computer plan your meetings for you over email? See how Scheduler for Microsoft 365 uses AI to handle this tedious chore.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/03/62a79d85-7901-4b4a-a2dd-d91b0ee8db8c/resize/1200x/ee03377875167bd67e3d988e0d938258/shutterstock-1680627343.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-take-advantage-of-microsoft-365s-ai-meeting-scheduler/",
+      "publishedDateTime": "2021-12-03T12:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-peter-jackson-details-how-get-back-used-machine-learning-to-restore-the-beatles-sound-and-footage-exclusive.md",
       "title": "Peter Jackson Details How ‘Get Back’ Used Machine Learning to Restore the Beatles’ Sound and Footage (EXCLUSIVE)",
       "excerpt": "There were several hurdles Peter Jackson’s “Get Back” had to mount before the eight-hour documentary could premiere on Disney Plus, including persuading the surviving members of",
@@ -477,6 +529,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-yellowfin-launches-guided-natural-language-query-making-true-self-service-analytics-available-to-everyone.md",
+      "title": "Yellowfin Launches Guided Natural Language Query, Making True Self-service Analytics Available to Everyone",
+      "excerpt": "Yellowfin, a world-leading and innovative analytics vendor, has today announced the general availability of Guided NLQ (Natural Language Query), leveraging natural language processing to enable anyone - regardless of skill level and expertise - to ask data questions in plain language and instantly receive the answer in Yellowfin.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-yellowf-launches-guided-natural-language-query-making-true-/2021/12/03/9504439.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-yellowf-launches-guided-natural-language-query-making-true-/2021/12/03/9504439.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1100,100 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems.md",
-      "title": "South African crowd-solving startup Zindi building a community of data scientists and using AI to solve real world problems",
-      "excerpt": "Zindi is all about using AI to solve real world problems for companies and individuals. And the South Africa-based crowd-solving startup has done that over the last three years they have been in existence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
-      "originalUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Zindi-Team-in-Cape-Town-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/",
-      "publishedDateTime": "2021-12-02T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours.md",
-      "title": "These 4 Indian Airports Will Have Facial Recognition; Data Will Be Deleted In 24 Hours",
-      "excerpt": "The Airports Authority of India has been working on a project of FRT-based Biometric Boarding System.Facial Recognition Technology (FRT) is highly looked forward to, after the Indian government announ",
-      "sourceUrl": null,
-      "webUrl": "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/",
-      "originalUrl": "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://trak.in/wp-content/uploads/2021/12/72b0f32797dd441c89b1396bba9ac524_18.jpeg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/amp/",
-      "cdnAmpWebUrl": "https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/amp/",
-      "publishedDateTime": "2021-12-02T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Trak.in - India Business Blog",
-        "domain": "trak.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -87,6 +87,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
+    excerpt: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future VANCOUVER – USA News Group – Researchers led by a scholar from City Univ"
+    publishedDateTime: 2021-12-10T18:31:00Z
+    webUrl: "https://menafn.com/1103339820/AI-to-Boost-Cancer-Drug-Combination-Studies-and-Treatments-of-the-Future"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/10/B_090beimage_story.jpg"
+        width: 845
+        height: 396
+        isCached: true
   - title: "The Scope & Future of Responsible AI"
     excerpt: "Widely referred to as Responsible AI, the concept has been around for the longest time but has recently become a mainstream conversation point."
     publishedDateTime: 2021-12-06T08:30:00Z
@@ -100,20 +114,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/Tredence_AIM.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
-    excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to make predictions on potential synergistic anti-cancer drug combinations for"
-    publishedDateTime: 2021-12-10T16:49:00Z
-    webUrl: "https://www.baystreet.ca/stockstowatch/11857/AI-to-Boost-Cancer-Drug-Combination-Studies-and-Treatments-of-the-Future"
-    type: article
-    provider:
-      name: BayStreet
-      domain: baystreet.ca
-    quality: 36
-    images:
-      - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/1b.jpg"
-        width: 845
-        height: 396
         isCached: true
   - title: "Artificial Intelligence key to traffic solutions in cities of the future"
     excerpt: "Coupled with existing systems comprised of network cameras and monitoring solutions, the innovation and application of AI heralds a new era in traffic management. Artificial Intelligence key to traffic solutions in cities of the future."

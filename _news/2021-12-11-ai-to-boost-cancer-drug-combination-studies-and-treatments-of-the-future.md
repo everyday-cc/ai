@@ -1,24 +1,25 @@
 ---
 category: news
 title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
-excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to make predictions on potential synergistic anti-cancer drug combinations for"
-publishedDateTime: 2021-12-10T16:49:00Z
-originalUrl: "https://www.baystreet.ca/stockstowatch/11857/AI-to-Boost-Cancer-Drug-Combination-Studies-and-Treatments-of-the-Future"
-webUrl: "https://www.baystreet.ca/stockstowatch/11857/AI-to-Boost-Cancer-Drug-Combination-Studies-and-Treatments-of-the-Future"
+excerpt: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future VANCOUVER – USA News Group – Researchers led by a scholar from City Univ"
+publishedDateTime: 2021-12-10T18:31:00Z
+originalUrl: "https://menafn.com/1103339820/AI-to-Boost-Cancer-Drug-Combination-Studies-and-Treatments-of-the-Future"
+webUrl: "https://menafn.com/1103339820/AI-to-Boost-Cancer-Drug-Combination-Studies-and-Treatments-of-the-Future"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: BayStreet
-  domain: baystreet.ca
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "http://www.baystreet.ca/images/articlegroups/original/yahoonews/private/1b.jpg"
+  - url: "https://menafn.com/updates/pr/2021-12/10/B_090beimage_story.jpg"
     width: 845
     height: 396
     isCached: true
@@ -133,6 +134,6 @@ related:
       domain: constructionweekonline.com
     quality: 5
 
-secured: "m8ke2QI6G5MxnqOXO1w9DtX8LWf+8WsOnSn/TWtc2igN9LzVNvjEJmbUP8TZlYljPHoCmLVsCD35zcbYTZwWi4Lm+95tlaNUp6XEf1nlTr0q3H8TL7GtFr8gnoaK+RuQo98jMj4F5Aw+Qj+h6Cw1eHazDp99orlV2016siYwYxm5R8x2BcnWhfzQ887+sYOtk8YpznHVFSWChfK+fOt9ok2BgJTi1v7UoPUU5FIDZP3fcHzNY5ki+4fahyIabWWe4h3BXmIwD3/bKj02YmBABFKhTOuj1sVo2nNZALbyBiNxuMR5a+QFpNiFv56FFdunowESWN4NdR8BMxvK89EJkxicSqHndsOBxdhxpDN9RZs=;YaSUbT60EYS71eSwsR9yUA=="
+secured: "1oViABULX7I70M36XfP6Hmyz2iaH+rVY7jOEoCNb5YwIJLsdhvRUAGg7zJb6ppiGnPDVucxgENVjRYCx6VOCwBkX5p8CeCot5sHqg+iqCyS1h0GYY1Og4De7JT0GX/w017obko66918sCqQ+nTyCS4UGVSr628b0uWN3YZw2epWopXCWH018pztwRq12CYjkG7X7v/y9En3Nah/c27v8P7SM6ksupXboaIxJWKL+NbMqOOE1vKUE3rO6CLVuPHKb6XDB8mpVsD+HKBF+c897Qy8Rb/q7H109E25WtXU92XPtRxutYDdiSD7HL7zzxJnN84gMvQvJYq5jolPcaCIyLv4+6j67M3HCTEZoYVQK0b0=;kBKuya+e8lcnw3GfZo9LUg=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://insidehpc.com/2021/12/meta-picks-aws-as-strategic-ai-cloud
 webUrl: "https://insidehpc.com/2021/12/meta-picks-aws-as-strategic-ai-cloud-provider/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: insideHPC
@@ -39,20 +39,6 @@ related:
       - url: "https://www.thefastmode.com/media/k2/items/src/a34c80067b718897b153520ea014c7f5.jpg?t=20211208_012326"
         width: 752
         height: 408
-        isCached: true
-  - title: "Meta Selects AWS as a ‘Key’ Cloud Provider"
-    excerpt: "Meta is deepening its relationship with AWS as a “key” and “long-term” strategic cloud provider. See more here:"
-    publishedDateTime: 2021-12-06T02:44:00Z
-    webUrl: "https://www.datamation.com/cloud/meta-selects-aws-key-cloud-provider/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 39
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/07/AWS-logo.png"
-        width: 1400
-        height: 840
         isCached: true
 
 secured: "OebkqJWMVJkqK0rjF0w9gf3SAsTPLjONPTzofkMF8PW4pO87zoF1ZT+p5RO0qnuQ6Bx7tNgkidzWJVZZIg/MNvyZA9vOKJkDkwZX16TFMFtUo5MUAJiGeWGZpL8e6wE61KLoksJROWbjPfLpokQR/NmipENRbJgqf3rhf66PhdH1MnDL4UMl8i9/DSnUzwREws7qFGcJ+kP0Q8j1Ph8ahAVIZhf+D2buItJvr9BAqrBhT/qs5Tx8YIJLcXR2Zccr0Td9tOXWjzO+pv5lTn71Fc+CljmYuk6NGBdsy2QQ79dNfIAaWDVxEnPI8X1/kNgFU9C+uoDQrax5gM8kjJnd3bLHj/bxHkdlSCnPR83xTGtFadTWxpYiiaCOe/N0+8nJwcujZB+yYLfoLB20h6cU7t6gevKgwAnl5Op3RU/08isVzli9O0eyUM+pjkNwJ/2NPno4uzNJno9lNyEF9gtNj9mh/RHHVWdiXhUdT9EB2KGZGu6TFQIaOMXEYPyhBkMeZlndT3IiATBnJHSfeoLxFg==;HyWMMuRBHABHXtJWXgbYJg=="
