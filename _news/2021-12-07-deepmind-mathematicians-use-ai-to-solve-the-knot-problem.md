@@ -57,6 +57,22 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "In breakthrough, DeepMind's AI has cracked two mathematical problems that have stumped experts for decades"
+    excerpt: "For the first time, the technology has been used to identify mathematical connections that have eluded researchers for decades."
+    publishedDateTime: 2021-12-10T03:19:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/article/in-breakthrough-deepminds-ai-has-cracked-two-mathematical-problems-that-have-stumped-experts-for-decades/839322"
+    ampWebUrl: "https://www.timesnownews.com/amp/technology-science/article/in-breakthrough-deepminds-ai-has-cracked-two-mathematical-problems-that-have-stumped-experts-for-decades/839322"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/technology-science/article/in-breakthrough-deepminds-ai-has-cracked-two-mathematical-problems-that-have-stumped-experts-for-decades/839322"
+    type: article
+    provider:
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 56
+    images:
+      - url: "https://imgk.timesnownews.com/story/iStock-1284335972.jpg?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "6XA1aXsiOtq2SORAYF4IBGqqH4DIkBgsD6OrKEOCV9l+ambMBNu9ap8IdZNxK/5m/AUKe7jZqRoYvFTqZuBfxKYXSD+K6Zf/F4qjd1+hyOuK7AngXmvMbcQmItvI5zd4urFCgonHYIfwd2e0UIOPPoYclpt0hX6U0JHqceopRGZP7Kv1qECzU8cIMfeRmyXB6HqZAU7y+xcWnmj/uXhAU3xk36mIf/lmMSwIuOXqwIu5fEJuALrvIRg7u1f2yR48ViabRVipq78eyEZxnnR2KYlWMzTiHazAlwMq0M1qiJ36wdTHEcbFVqrCay/0eczcfFjp0lMfIVbmdvL4uE56Zg6V+xV+wpWNfDQJy6zwyNCAeZHM/G3tX1dlAtlRPo5XaGE++sFWYeotnOxnsIpje4qQWumCCBWI85+Xmq5giayMSob+ShX/BtT9TAfA9bFChv4P5Ue7j3GE8XF+zrAUYOcZ/klKM1+AuGAFzKe43Vwzi3MF9XqhgeFLRiXUwbmQ04rH0p8htryd62Uk0Yycbg==;4/xb0Rp3VsS3KREZSkKcWA=="
 ---

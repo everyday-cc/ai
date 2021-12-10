@@ -2,110 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2021-12-03-video-of-realistic-humanoid-robot-has-the-internet-terrified-oh-my-god.md",
-      "title": "Video of Realistic Humanoid Robot Has the Internet Terrified: 'Oh My God'",
-      "excerpt": "The robot can be seen looking around the room and staring at its hands in a demonstration by British robotics firm Engineered Arts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766",
-      "originalUrl": "https://www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1944984/ameca-robot.png",
-          "width": 1497,
-          "height": 969,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/viral-clip-realistic-humanoid-robot-twitter-video-engineered-arts-1655766?amp=1",
-      "publishedDateTime": "2021-12-03T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals.md",
-      "title": "The IBM Research AI Hardware Center: Solid Progress, Aggressive Goals",
-      "excerpt": "IBM AI acceleration technologies are so good, most AI chip companies would be better off licensing the tech from IBM.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8eb11777726e67d5e1c91%2F0x0.png",
-          "width": 742,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/12/03/the-ibm-research-ai-hardware-center-solid-progress-aggressive-goals/amp/",
-      "publishedDateTime": "2021-12-03T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-03-the-onset-of-data-centric-ai-and-why-its-here-to-stay.md",
       "title": "The Onset Of Data-Centric AI And Why It’s Here To Stay",
       "excerpt": "The present circumstances indicate that if a company or organization wishes to start working with an AI system or wants to improve their current operation, giving much more emphasis on the data component will be a huge step forward.",
@@ -1175,6 +1071,103 @@
         "Machine Learning",
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-cvs-health-and-microsoft-link-up-to-speed-healthcares-digital-shift-on-retails-frontlines.md",
+      "title": "CVS Health and Microsoft Link Up to Speed Healthcare’s Digital Shift on Retail’s Frontlines",
+      "excerpt": "Connected healthcare keeps making new connections as firms from different parts of the business world join forces to drive greater digital transformation for millions of consumers. New evidence of the gathering trend comes from CVS Health and Microsoft,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/",
+      "originalUrl": "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/CVS-Health-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/amp/",
+      "publishedDateTime": "2021-12-02T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-aws-brings-no-code-to-amazon-sagemaker-machine-learning.md",
+      "title": "AWS brings no-code to Amazon SageMaker machine learning",
+      "excerpt": "Amazon SageMaker Canvas provides a visual interface for preparing data and training models, no programming or machine learning expertise required.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyimages-1206796363_2400x1600-100858181-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html",
+      "publishedDateTime": "2021-12-02T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

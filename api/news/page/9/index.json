@@ -2,49 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-12-02-enzolytics-announces-progress-as-it-recognizes-world-aids-day.md",
-      "title": "Enzolytics Announces Progress As It Recognizes World AIDS Day",
-      "excerpt": "COLLEGE STATION, TX / ACCESSWIRE / December 2, 2021 / Enzolytics wishes to recognize and acknowledge World AIDS Day - a day to call attention to the continued need for a more effective treatment for HIV,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/Accesswire/coronavirus-pandemic-technology-science-business-health-b3280a8c4aa90116b7919d23da08f298",
-      "originalUrl": "https://apnews.com/press-release/Accesswire/coronavirus-pandemic-technology-science-business-health-b3280a8c4aa90116b7919d23da08f298",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-you-can-now-get-150000-if-you-let-a-robot-use-your-face-and-voice.md",
       "title": "You can now get £150,000 if you let a robot use your face and voice",
       "excerpt": "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot.",
@@ -1139,6 +1096,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-announcing-support-for-extracting-data-from-identity-documents-using-amazon-textract.md",
+      "title": "Announcing support for extracting data from identity documents using Amazon Textract",
+      "excerpt": "Creating efficiencies in your business is at the top of your list. You want your employees to be more productive, have them focus on high impact tasks, or find ways to implement better processes to improve the outcomes to your customers. There are various ways to solve this problem, and more companies",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-support-for-extracting-data-from-identity-documents-using-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-support-for-extracting-data-from-identity-documents-using-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/30/3-6671-Passport.jpg",
+          "width": 800,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T15:25:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     }
   ],

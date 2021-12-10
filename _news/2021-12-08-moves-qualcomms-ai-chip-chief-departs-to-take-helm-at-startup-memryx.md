@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-depart
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp"
 type: article
 quality: 86
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -119,15 +119,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 29
-  - title: "Chip shortage to ease next year, says Qualcomm CEO"
-    excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the situation is expected to improve next year. According to The Elec website, Amon said that supply has improved this year over 2020 and the situation is expected to further improve in 2022,"
-    publishedDateTime: 2021-12-05T11:26:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20211205/3867803.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "LwLBUKagZ723mhyY7ofwfc4pksT81r730pPzn6d7a4Jlh1URwPME7Wi42u0OLuDAWcivYstHbeU0BuMz8J8trR9Ktx19UTTq18Rst6gFkJ8jFFDvqT4duF2JhutsP+R7TodzJqZKCECO1m2O1AvJPYuY503ErXh9teBw2IPCKz/sgMhKRG6SUv+at35NJ+Hx4I9T5be70Loeg0fkSqTxSM00AER0n9azNQo3/pQTgjguafAPIUVIw9rVUI2SfNq1sGMGg5bW02JhQx0ZBreueeE9LvpRYuVRTFut+nWwLtPdbRdga3+odTopNiwbQL267rHn/bED4wapcB9VfmzC9T2mG/jYNFIiQMwFDqhDijI=;5ftMLl9fM5+JsJbJcIVm9w=="
 ---

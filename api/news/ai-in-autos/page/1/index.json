@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-09-tpa-tests-new-self-driving-wheelchairs.md",
-      "title": "TPA tests new self-driving wheelchairs",
-      "excerpt": "The motorized wheelchairs, similar to the ones you’d see in a supermarket, are free for passengers including those with mobility issues and injuries.",
+      "path": "_news/2021-12-09-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
+      "title": "Self-driving startup Robotics Research raises $228 mln in funding",
+      "excerpt": "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles.",
       "sourceUrl": null,
-      "webUrl": "https://www.wtsp.com/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
-      "originalUrl": "https://www.wtsp.com/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
+      "webUrl": "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/",
+      "originalUrl": "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 151,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wtsp.com/assets/WTSP/images/fd127d07-cefb-479c-8bbf-5b926dfc5e6d/fd127d07-cefb-479c-8bbf-5b926dfc5e6d_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
-      "cdnAmpWebUrl": "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9",
-      "publishedDateTime": "2021-12-08T12:18:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T21:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTSP",
-        "domain": "wtsp.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,7 +50,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -533,6 +543,49 @@
         "AI",
         "AI in Autos",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-ponyai-begins-paid-autonomous-robotaxi-services-in-china.md",
+      "title": "Pony.ai begins paid autonomous robotaxi services in China",
+      "excerpt": "Pony.ai has become one of the few autonomous vehicle companies to begin charging for robotaxi services in Beijing, China, after receiving approval from the city. With approval, Pony.ai will be permitted to charge money for robotaxi rides from the public,",
+      "sourceUrl": null,
+      "webUrl": "https://electronics360.globalspec.com/article/17486/pony-ai-begins-paid-autonomous-robotaxi-services-in-china",
+      "originalUrl": "https://electronics360.globalspec.com/article/17486/pony-ai-begins-paid-autonomous-robotaxi-services-in-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electronics360.globalspec.com/images/assets/486/17486/Pony.jpg",
+          "width": 752,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T05:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1314,49 +1367,6 @@
       "provider": {
         "name": "Metro US",
         "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-baidu-ponyai-cleared-for-beijing-robotaxi-service.md",
-      "title": "Baidu, Pony.ai cleared for Beijing robotaxi service",
-      "excerpt": "SHANGHAI -- Chinese tech group Baidu and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the companies deploy not more than 100 vehicles in ...",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/technology/baidu-ponyai-cleared-beijing-robotaxi-service",
-      "originalUrl": "https://europe.autonews.com/technology/baidu-ponyai-cleared-beijing-robotaxi-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/RTXEXMJ3%281%29.JPG",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
         "images": null,
         "publishers": null,
         "authors": null

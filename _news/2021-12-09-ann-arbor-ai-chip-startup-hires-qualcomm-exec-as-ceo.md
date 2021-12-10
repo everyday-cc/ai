@@ -119,15 +119,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 29
-  - title: "Chip shortage to ease next year, says Qualcomm CEO"
-    excerpt: "Amid the global chip shortage, Qualcomm CEO Cristiano Amon said that the chip shortage is gradually easing and the situation is expected to improve next year. According to The Elec website, Amon said that supply has improved this year over 2020 and the situation is expected to further improve in 2022,"
-    publishedDateTime: 2021-12-05T11:26:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20211205/3867803.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "ePq4b/0dym6C/w4DZqhi+++SdCYZdv2oYLFQrL+1204l5pLrenfco48oNMzgNB864zaU+SfqxAO7QIhJzV6hheYgP/B4Pn0l/8tbRAHUMksq6Bf8dbAIO3pY+cLol8AjsFJra0kjqxZsXSmaZ0/0XvFe28vEtUEeLC57Pu5pZfV55Q35xf3gjxJgyEOWN+CvpLe+KYMNqkjwxQ5UgLeNaKQTlzLYRksGszSczy9DtvBnZJ7Zxv83yWIOiU58hmVHxxYat3URAcKfqyhNd4QDYVi8qTmsrWgxb7S8tYRFrqCH80lJQclfUpNEGpSmoeIBYFHo64MLZdt9glho3L5eNcceVTzelHYTinNiHystAELW7Jd2ZUftr/ru5aYkr70krWkXB6prDkJwTtpyh3FyZahfJDG2yvD4VKxmzLZpi7rldffHLdMtjpbMd7n+XDp3tsEFUZzG9Q8oPfI/IkiGd5LTDyTeNT5xjku3pjaKBtKN0WL+2A4WIqKXeATYqUAZennA2mMHXGgFA4bKkzPZig==;BkFzqSYmXEJINm0FANJ89A=="
 ---

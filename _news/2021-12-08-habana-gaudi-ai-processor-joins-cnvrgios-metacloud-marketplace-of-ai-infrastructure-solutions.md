@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Habana Gaudi AI Processor Joins cnvrg.io's Metacloud Marketplace of AI Infrastructure Solutions"
-excerpt: "PRNewswire/ -- cnvrg.io, the operating system for artificial intelligence (AI) and machine learning (ML) built by data scientists, today announced"
-publishedDateTime: 2021-12-08T14:30:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/habana-gaudi-ai-processor-joins-cnvrgios-metacloud-marketplace-of-ai-infrastructure-solutions-301440081.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/habana-gaudi-ai-processor-joins-cnvrgios-metacloud-marketplace-of-ai-infrastructure-solutions-301440081.html"
+excerpt: "SANTA CLARA, Calif., Dec. 8, 2021 /PRNewswire/ -- cnvrg.io, the operating system for artificial intelligence (AI) and machine learning (ML) built by data scientists, today announced that Habana's Gaud"
+publishedDateTime: 2021-12-08T13:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/habana-gaudi-ai-processor-joins-cnvrg-ios-metacloud-marketplace-of-ai-infrastructure-solutions/article_d216fc00-0cf2-5e30-915f-c3553f7132a6.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/habana-gaudi-ai-processor-joins-cnvrg-ios-metacloud-marketplace-of-ai-infrastructure-solutions/article_d216fc00-0cf2-5e30-915f-c3553f7132a6.html"
 type: article
-quality: 27
+quality: 7
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1160338/cnvrg_io_Logo.jpg?p=facebook"
-    width: 796
-    height: 419
-    isCached: true
 
 related:
   - title: "cnvrg.io is Making AI More Accessible and Powerful with Latest Integration"
@@ -63,6 +57,6 @@ related:
       domain: insidehpc.com
     quality: 26
 
-secured: "c3goVGospewzNJ/cJ4ipPpilnDLctbkwomzSt2YyQnaJcVyHmr/x5JEzggRTY9nQeWElt0WzbDheN28DSTNN9kgeTk6cfybR/R+xHPYwdtX2k88yxlzBemF71F75C7EHdl3oMvTk9wmsh5E+svZPwOmVOOUPS3PilzaoHP7P1OYGO1PpRzKcwjYY86NkJmzEuwMH4V+xvBLPVRqihfCZwOZhjTnuoLUztNbgwI6YxQDEQ/7wB9zQxIA1wW9Q+fl+u6uSxZ7vyc1/0B7LCrWcox1GiO29eA+j34voEe/2UmQG2m7DrE+H9GubP9vRcMDfK5Hbuu4mnFbn6xWwLmKGlQXhLL8KzUCOwLAiTSO1NF7oh04k0LZ1VKxrk1JGcEhT7yNV0AGC3iJMAOm2zFv5jjATdQKF7h1c84BDHNfhqQewuZvKT/Hkr/JlepZLBjsFFSwn1QQdvYaHtADEqK+Z89D0frctG6AiJM4YEmjNXa7CTMora9iFJY0wokO/zvPuIoEWBYdmbgx2UesFqlckMw==;9zcgW87hgl6g338y2AbVbA=="
+secured: "NfWmr1+Tve1ecclnAUn+knmi0gjTLzHMe/xNaCSM8XuxV8BfLkj6Ct/rxK3mJDxfSOHg50NtDd6hL6f1+ddUjF6szxmYfJz+t7U706Fp1XpHsf0rC3pWdWxux/mtPruGrrGLslKgYnVfhMknUHgvdxEvXBj5+jWgZaJzDVtcQW8EpodfPUkxrxmlfyAg8Az/DI4RKmoSZvXPnCNeuNNU4F8Xtf2kYMhPeTA8KX37twZx8th/DBWNIpyD6WCDLVDUvBbe4+FhJP4c4LI0a+yLHgMrz7EhXVDZ3d2+3+iAFFCbjWq2wY0E9EQhIQFog16eBX7acDhZ2C1vsaRctLLITf7U+EqrXKZ8OS89tSVquYqNb9XhJV7Sw2lhJslA9hYY36faBBB1GmAoE8n+reoiWfp+3Z4jABU0n/X8wPWIpNmYzUUEehxQFF0xVfpKkH5ToqHvdo6tk3RH55II+3d4/B4hYKw6d6i5HlZTLoGNt/dtT6hrolPJDqUi9dZ9EyscXCbewjo07C0zPI0dtHEvkA==;Ceob70kImvWjQJpYMzuGgQ=="
 ---
 

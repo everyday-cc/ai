@@ -43,6 +43,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Cloud related roles take up 10% of total jobs; demand up 40% since last year"
+    excerpt: "The top skills in demand for cloud professionals include Cloud computing, AWS/Azure, Cloud Migration, SAP, Cloud Security, Machine Learning/AI"
+    publishedDateTime: 2021-12-10T04:16:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/india-business/cloud-related-roles-take-up-10-of-total-jobs-demand-up-40-since-last-year/articleshow/88199125.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 21
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-88199145,width-1070,height-580,imgsize-18890,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
 
 secured: "G3McK3S/cBdpxi5GblQtZldNS20JlLfNRgFg2pEDZwRTJISUuQfi8fEeR6AfTu2qV743ipXpXV3pacfMeKOptNGQ+jePFt59odhTB01P3t+v1TMSKtsAZD31ijtxk3ieAy/lzLE/FFo5gEzYg0e8hSZoguQDr2Nh3v4f5HLzje0kOpq+PKnxy7kvP4hSMPTMALwE5o491IYywh4A/IRy+tX/VVVmE/Q1ISxYNBIYC7BiwmvR8fh7X2+mKxNwN+olPbep6YLXywXXkXBwiemswH6rBtyOHR0IRfH2Xm6YGGp7zVLyy8o3QmkhNlfaiw55sC3gwj8mqivsBvmKj8GhJI7ncDXws13oPd6Kf79F1Bo=;z2YJskdD8PqxGJmg7DSUBQ=="
 ---

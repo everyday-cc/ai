@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "SMB Lending Fraud being Combatted with Fintech, AI"
+    excerpt: "After almost a month in service, Linear Financial Technologies has seen success with its machine learning fraud detection program, Linear Defense. The technology is used to help prevent fraud in all stages of small business lending."
+    publishedDateTime: 2021-12-09T00:00:00Z
+    webUrl: "https://debanked.com/2021/12/smb-lending-fraud-being-combatted-with-fintech-ai/"
+    type: article
+    provider:
+      name: deBanked
+      domain: debanked.com
+    quality: 39
+    images:
+      - url: "https://debanked.com/wp-content/uploads/2019/04/onlinefraud.jpg"
+        width: 817
+        height: 586
+        isCached: true
   - title: "SaaS Fintech Numerated Acquires Fincura, Adding Spreading Automation, Financial Analysis to Loan Origination System"
     excerpt: "Numerated, a fast-growing Fintech SaaS firm, has reportedly acquired Fincura Inc., 'adding spreading automation and financial analysis to Numerated’s Digital Loan Origination System.' The acquisition expands Numerated’s underwriting capabilities for business loans that 'require deep financial analysis,"
     publishedDateTime: 2021-12-08T17:19:00Z

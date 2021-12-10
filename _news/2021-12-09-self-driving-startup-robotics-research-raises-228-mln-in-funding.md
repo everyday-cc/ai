@@ -1,24 +1,33 @@
 ---
 category: news
 title: "Self-driving startup Robotics Research raises $228 mln in funding"
-excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
-publishedDateTime: 2021-12-09T05:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding"
-webUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding"
-ampWebUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
+excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
+publishedDateTime: 2021-12-09T05:12:00Z
+originalUrl: "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/"
+webUrl: "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/"
 type: article
-quality: 99
-heat: 140
+quality: 101
+heat: 151
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Self-Driving Startup Robotics Research Raises $228 Million in Funding"
@@ -58,6 +67,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Contenders in self-driving trucking"
+    excerpt: "As the year nears a close, the self-driving truck industry is gaining momentum. Many companies notched major technical and business-related milestones in recent months. Here's a look at what each company has done in 2021,"
+    publishedDateTime: 2021-12-06T04:00:00Z
+    webUrl: "https://www.autonews.com/shift/contenders-self-driving-trucking"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AURORA-MAIN_i_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Self-driving tech company Robotic Research lands $228M in first outside funding; Luminar among investors"
     excerpt: "Self-driving tech company Robotic Research Inc. said Thursday it has raised $228 million in its first round of outside funding in the company's nearly two-decade history. The money comes from not just the regular crowd of venture capitalists."
     publishedDateTime: 2021-12-09T06:00:00Z
@@ -73,6 +96,6 @@ related:
         height: 600
         isCached: true
 
-secured: "kzTDUioDj1x8CixW6TjvcJtCbCghJZ3NwVtyu0HB2gSnnStPKuPPZ6vatXhuCENKIrme2batW3TaLmg8ClWVSi1QiO5s0ToF6nF4sRpB2sBbxrapPFiXpoH0bZ/p9zpwqFXOV+gm9twX1TMvoRQz7Ge0oLDcm2qWDx51EFNtIVjAfEGLrX85N0H2SuYyf9cl9xDe43rBthls3qnwCjTLIg1ynjo+tPhv9YRaTdmqlhwc6N7VOh5rK1PXpO5bAKy7OxuIL/Pn44nkQvKigP5l4rBvPDIKjwnnyEISFcoHZtQx0UQhfgk84FuLot0vIHHeRhhWtbYxk51akrJEPpeoYYZsbHddlP8Doe20b/tT5GAQElYq1OxMf33vErqePPfhPEOBKWfULqdI224DQV3HXUBeMZ37ovtcgnhmmnAa1YzQ1QOe/ognULMXficW2I732dkEzjXx2NiW+IkHPnsC+vrX5BJ2F6Uo39m58ka4dVXPBiSZPAA1RmaO1rwtMGHBFke12woXyS9HU5sfJJWXJg==;ToHwAl1mSN5bQc2teEsxHg=="
+secured: "MmlsX148n1m8DV2FvsddhMtSZIz6byUvlXXs+Ff/Meo4nN0EPDqzRacpKa9+flU3NhilWdWK7Wfbl3dYkr6JuKEX/lMMdPRX7OzLmotMV9Tid+fDf1J9zO9vp+AoOAr9fvBIokE6lJ6l7Wh5KXAE97ONAePD90yXWAnOI8UvNY3BLCDkgjmF7VRBnc4rFgknRD978I+biEPuTfCY7bj057dP1g9WcLy+93qF++RJ3IjAbu/l1Mqi68M64WCCIfVqUPkI0biCI+csJfptsrwXD7KOhZAMvUaFoq1U3JcURgmbtCsMFXH6UtRqvlATQTypMxDzq7qjnDrL8+OpByj4jm2P67lr9XjXO9JVDOXqg78=;w2k5/8T5GWQlesVE3Ha27Q=="
 ---
 

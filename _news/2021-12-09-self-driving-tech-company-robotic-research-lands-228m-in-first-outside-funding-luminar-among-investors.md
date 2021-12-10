@@ -26,16 +26,19 @@ images:
 
 related:
   - title: "Self-driving startup Robotics Research raises $228 mln in funding"
-    excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
-    publishedDateTime: 2021-12-09T05:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
+    excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
+    publishedDateTime: 2021-12-09T05:12:00Z
+    webUrl: "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 99
+      name: Reuters
+      domain: reuters.com
+    quality: 101
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Self-Driving Startup Robotics Research Raises $228 Million in Funding"
     excerpt: "Self-Driving Startup Robotics Research Raises $228 Million in Funding ... but that had now changed and the company's RR.AI commercial unit was now capitalising on it. \"That's one of the reasons we have sought investment now is because the prices of the ..."
     publishedDateTime: 2021-12-09T06:36:00Z
@@ -72,6 +75,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/12/Suki.Ai_.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "Contenders in self-driving trucking"
+    excerpt: "As the year nears a close, the self-driving truck industry is gaining momentum. Many companies notched major technical and business-related milestones in recent months. Here's a look at what each company has done in 2021,"
+    publishedDateTime: 2021-12-06T04:00:00Z
+    webUrl: "https://www.autonews.com/shift/contenders-self-driving-trucking"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AURORA-MAIN_i_0.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "od6RecKymvbJ7aLxvb0Zfp6Qki+8uqGLkopqHmre6Yd6YjuByUnMSBjEQAQhM/JDXv25X/ZiEi5p6FO8TGKPDCDWJvGtYmWs2IC1cD4Hs/aQy2sppE4ASVTQARPwn1mKh+o3i+EK+5zs1Vlc0QoJk9U/9SDMEwQRkfyRaX7339ixWaCYl55krZV+pIv+BaL65Y+LgQ7aIPfI07IWzJ3nNbl+myjlUZ8aMZOXEqM/n+4J9bOCOsfAovA1a6MCOVoOcPMOH8glCTgV4afen6Bp++EMA0XNB3SDdA18MYKsPxuGSHT3luckA8coyJaPntb19EWnirKa8rtnJIsmIKTgqHddaThmQEQzTVS7bc3oNMywkOBm62Z7s8BcLVlJVHT3GRhY/M6KhV+Af3JqQO4RYhqrgMImtmZTXkvS3bY4NYx3hcYbjDFqR47OSN7HY4JeDIF2chdi3psmhEHQo4Pv+/5Hw0RdXuVGIIgtyQF6q2FNIUkiy7V5ad+Iph7VcoG5KGx51L6Ns0Mdrfko+48fyw==;edhsseFHiDhsTtkQL3eHRw=="

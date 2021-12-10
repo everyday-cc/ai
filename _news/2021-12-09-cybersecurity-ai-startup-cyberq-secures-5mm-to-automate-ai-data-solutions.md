@@ -3,8 +3,8 @@ category: news
 title: "CyberSecurity AI startup CyberQ secures 5Mm to automate AI data solutions"
 excerpt: "CyberQ Technologies Inc. has raised 5Mm in seed funding to expand its expert team of outcome based solution providers.Turing Technology Group (TTG) led the seed round. The new funding will help grow the team and expand recruiting,"
 publishedDateTime: 2021-12-08T18:12:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-d612b1c80cb008b4cc1c07b6da2099fe"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-d612b1c80cb008b4cc1c07b6da2099fe"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-d612b1c80cb008b4cc1c07b6da2099fe"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-d612b1c80cb008b4cc1c07b6da2099fe"
 type: article
 quality: 36
 heat: -1
@@ -53,6 +53,6 @@ related:
         height: 450
         isCached: true
 
-secured: "cb3VztA0VpYOL9vl6jlm5686KCUtdTsVLqLT/YYOTbH+LpXY04FB/GamUPVVIUnuo17CvjYPabLObxp4rHGOv33xGQG3DRCuaArcZrbvDqfRYz3c8rTkhgVKMqTKyMInpdKslJ9dkp65CEkdrZWqQyrzwx13lvQbb3bOoXu6U4ET+pQXs0Ai4kEruIcFsaJ1u0OS63Kqz6k4Vo8Gs2Hz0jM6d1cons3xvxVwU0JdU6DRU9KgXb4LDuMnYyKaGJDurgLLYLd/2Z9ulOppQM4JAjC52rii6deYEwe4MlaTvOzp4IV23/TMK3yjNx6fbyi45CNMZt8hzHA4cmeUlLAN32PaDbZFTSDAgMyL3K/4TRs=;+ToecTZOevlOf2IQMQ+QAA=="
+secured: "xmLEutnRRhBq12mNslOisS2BXEeHmNiNiEluBoL/GjkUhlT+80GKjxxa0sCyD9WKChceYtCqwq/9d25MccN6D0ehZXYKjyPt5U/uEk71PQRSSUgWeMN2QIaA0DsodW9FHPoZF5BiowSCzKDGzWuvchmczj5zSU7e7hxx90nwu1W8zCnY880RxRzGbwK3IWG9eN6MV1kIwo7PAHFlpOfIJ3b9AGLvmjHQcJTu7Q8nHehoZAbaslJIY4v7TtLzN/Oum08GXjkTq3K9D0w3gEGXXq+aQtR441gV4GJNiuLlef5LGHCjrHS4D7LSuMFwAag4GMSx84kzX7LsRFQeM2Hlq3nWFGdOx9IMjrBP2ooQ84Q=;vC6jLl9XSvJyrBIGcQ1jeA=="
 ---
 

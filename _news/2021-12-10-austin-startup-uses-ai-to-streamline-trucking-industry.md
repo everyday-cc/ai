@@ -9,7 +9,7 @@ ampWebUrl: "https://www.governing.com/next/austin-startup-uses-ai-to-streamline-
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/austin-startup-uses-ai-to-streamline-trucking-industry?_amp=true"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,36 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Austin Startup Bets on AI Reshaping the Trucking Industry"
+    excerpt: "Austin-based trucking startup AI Fleet is betting that using artificial intelligence technology and focusing on drivers could help transform the trucking industry."
+    publishedDateTime: 2021-12-09T16:45:00Z
+    webUrl: "https://www.ttnews.com/articles/austin-startup-bets-ai-reshaping-trucking-industry"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 37
+    images:
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/aifleet-main-1200.jpg?itok=5u4LzHSE"
+        width: 470
+        height: 246
+        isCached: true
+  - title: "Driver shortage worsens as industry dreams of self-driving trucks"
+    excerpt: "A truck driver shortage is contributing to ongoing supply chain issues in the U.S. — and making the thought of driverless trucks even more appealing."
+    publishedDateTime: 2021-12-06T04:00:00Z
+    webUrl: "https://www.autonews.com/shift/driver-shortage-worsens-industry-dreams-self-driving-trucks"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/SEMI-MAIN_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "4jWUpNzTYt8R5nn6u4Szoe0FUbsOuPoKsq2t4QQ3HzUpRhC8LhHT9kuncBaUEYllH66a7iQfNv9CBfpJX7mb7Nem+Vd+4180a35Fi0f0mnKQDZY2LfckIBjbTFMQ4hVueo6NXI7m5TGiWqBzEb9NaaoZ1ulyVvAJV9UP0Bo1egVRdzFfGJkxSyt5wWZbRBsLK/pzzAXhqRE1i+GEJu1uUxRsoSloGnHDkW+h7AeGPFz4C2+46OCiESAsLAnCmxE5gln+B6Onb60Wgmvs4HDFffUHdrUAS3gFVaPAb9px3EsBnpxs2BlWC7t9LWXal8pQsgdlKpriGmdBpXVrYsdCCegZZNgbrcy5GKLXgfuJOJWoTqe96ba16TMtTs9/R+6U0I/62+ga6eCQwb/mrS8Zb5yNlsDjxfxpoZdstWDQ3jzduodFj9j+rUqCYruL+EIb52XYsLRZwJr9jzt7Fg397Ho8tQQ29kxSdjn6+9/6xhZA8QdnOv8Z9eLcZg0gB/od16qo9WLu2wjLbYsgQMznCg==;aPWykqFGikMvmXO0Q32CFA=="
 ---

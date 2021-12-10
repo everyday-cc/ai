@@ -2,84 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-12-08-moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx.md",
-      "title": "MOVES-Qualcomm's AI chip chief departs to take helm at startup MemryX",
-      "excerpt": "Keith Kressin, the executive who oversaw Qualcomm Inc's QCOM.O artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup. Kressin has become chief executive of MemryX,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx",
-      "originalUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/moves-qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx?amp",
-      "publishedDateTime": "2021-12-08T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-healthcare-startup-sukiai-raises-55mn-led-by-march-capital.md",
-      "title": "Healthcare startup Suki.AI raises $55mn led by March Capital",
-      "excerpt": "Suki.AI Inc, a health-tech start-up, has raised $55 million (around ₹412 crore) in a Series C funding round led by March Capital, the company said in a statement. The round also saw participation from Philips Ventures, and existing investors such as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital-11638963113259.html",
-      "originalUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital-11638963113259.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/12/08/600x338/Suki_1638963476381_1638963482280.JPG",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital/amp-11638963113259.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/healthcare-startup-suki-ai-raises-55mn-led-by-march-capital/amp-11638963113259.html",
-      "publishedDateTime": "2021-12-08T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-12-08-time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022.md",
       "title": "Time To Ante Up: Three AI Trends Financial Services Should Bet On In 2022",
       "excerpt": "For years, financial services have stayed ahead of the curve as early adopters with online banking apps and financial planning tools. Artificial intelligence (AI) has been a key driver of this transformation,",
@@ -1214,6 +1136,91 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-algorithms-are-making-many-of-your-decisions-and-you-might-be-ok-with-that.md",
+      "title": "Algorithms are making many of your decisions, and you might be OK with that",
+      "excerpt": "The odds are good that at least a few algorithms helped you find this article. After all, algorithms—which are essentially systems or processes that help make a choice—have been around nearly forever.",
+      "sourceUrl": null,
+      "webUrl": "https://news.arizona.edu/story/algorithms-are-making-many-your-decisions-–-and-you-might-be-ok",
+      "originalUrl": "https://techxplore.com/news/2021-12-algorithms-decisions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.uanews.arizona.edu/s3fs-public/styles/uaqs_card_image/public/images/people/kyle.jpeg?itok=xLpRSRj7",
+          "width": 568,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-facial-recognition-isnt-working-for-some-windows-11-users.md",
+      "title": "Facial recognition isn’t working for some Windows 11 users",
+      "excerpt": "Some Windows 11 users are claiming that the facial recognition software won't work, but the OS isn't to blame, but the hardware itself.",
+      "sourceUrl": null,
+      "webUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/",
+      "originalUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2021/12/facial-recognition-windows-11.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/facial-recognition-not-working-windows-11/?amp",
+      "publishedDateTime": "2021-12-07T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

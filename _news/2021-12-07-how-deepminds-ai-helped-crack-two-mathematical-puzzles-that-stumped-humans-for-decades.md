@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "In breakthrough, DeepMind's AI has cracked two mathematical problems that have stumped experts for decades"
+    excerpt: "For the first time, the technology has been used to identify mathematical connections that have eluded researchers for decades."
+    publishedDateTime: 2021-12-10T03:19:00Z
+    webUrl: "https://www.timesnownews.com/technology-science/article/in-breakthrough-deepminds-ai-has-cracked-two-mathematical-problems-that-have-stumped-experts-for-decades/839322"
+    ampWebUrl: "https://www.timesnownews.com/amp/technology-science/article/in-breakthrough-deepminds-ai-has-cracked-two-mathematical-problems-that-have-stumped-experts-for-decades/839322"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/technology-science/article/in-breakthrough-deepminds-ai-has-cracked-two-mathematical-problems-that-have-stumped-experts-for-decades/839322"
+    type: article
+    provider:
+      name: timesnownews.com
+      domain: timesnownews.com
+    quality: 56
+    images:
+      - url: "https://imgk.timesnownews.com/story/iStock-1284335972.jpg?tr=w-400,h-300,fo-auto"
+        width: 400
+        height: 300
+        isCached: true
   - title: "DeepMind & Mathematicians Use AI To Solve The Knot Problem"
     excerpt: "It is the first time that AI/computer is being used to seek out patterns. Researchers believe that this could benefit other areas of maths that involve large datasets."
     publishedDateTime: 2021-12-07T05:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/shift/driver-shortage-worsens-industry-dr
 webUrl: "https://www.autonews.com/shift/driver-shortage-worsens-industry-dreams-self-driving-trucks"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,34 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving technology won’t endanger truck driver's role, developers say"
-    excerpt: "Those who become truck drivers today could retire as truck drivers in 40 or 50 years, according to industry experts. Job requirements, however, are expected to change significantly as Level 4 automation is adopted."
-    publishedDateTime: 2021-12-08T14:11:00Z
-    webUrl: "https://www.fleetowner.com/technology/autonomous-vehicles/article/21183187/selfdriving-technology-wont-endanger-truck-drivers-role-developers-say"
+  - title: "Austin Startup Bets on AI Reshaping the Trucking Industry"
+    excerpt: "Austin-based trucking startup AI Fleet is betting that using artificial intelligence technology and focusing on drivers could help transform the trucking industry."
+    publishedDateTime: 2021-12-09T16:45:00Z
+    webUrl: "https://www.ttnews.com/articles/austin-startup-bets-ai-reshaping-trucking-industry"
     type: article
     provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 22
+      name: Transport Topics
+      domain: ttnews.com
+    quality: 37
     images:
-      - url: "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2021/12/16x9/AVs_dreamstime_170242422_Ded_Mityay.61b0ab0d244aa.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/aifleet-main-1200.jpg?itok=5u4LzHSE"
+        width: 470
+        height: 246
         isCached: true
-  - title: "Self-Driving Coalition for Safer Streets: Framework needed for automated trucking"
-    excerpt: "Coalition general counsel Ariel Wolf says federal guidelines are needed to expand self-driving truck testing and deployment options."
-    publishedDateTime: 2021-12-06T04:00:00Z
-    webUrl: "https://www.autonews.com/shift/self-driving-coalition-safer-streets-framework-needed-automated-trucking"
+  - title: "Austin Startup Uses AI to Streamline Trucking Industry"
+    excerpt: "The trucking industry faces high turnover among drivers because its business model isn’t driver-centric. A tech company uses artificial intelligence to determine which routes are best for both the driver and revenue generation."
+    publishedDateTime: 2021-12-09T21:34:00Z
+    webUrl: "https://www.governing.com/next/austin-startup-uses-ai-to-streamline-trucking-industry"
+    ampWebUrl: "https://www.governing.com/next/austin-startup-uses-ai-to-streamline-trucking-industry?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/austin-startup-uses-ai-to-streamline-trucking-industry?_amp=true"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 19
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TRUCKS-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
+      name: Governing
+      domain: governing.com
+    quality: 37
 
 secured: "qd4PM7HiWLQawLVKVHQ5KxxOJwslDuU5jGqlbWIn0i0nC4aV/N/xMnju3mMSrpAHmDO43CVxDZKuISIBY9bP1R8ALLngIP7M5G0f8I8xivjjID5ZWM9MWFqIl1D7GIJYt/iwj+8eb6u4HD2MNH0sXP0zXMJz2FJGj2yW1KIpMSgK61U92ruIIAExdDqhMT/ijCMWZsPxpJkN6Mf9rlzW/ePuP9MiAYvMjutPRlxAfKXuZ3kUde8fTkN6WATZTIgYN878Rkpo3DsQXmkjCyGanp8XizEYIbzmc8KjN125PYADAgx1zKdPnlAzlNUdB1rFZZUCp/eGQaeno8RzDlH8A0A9S92OiB3KBgGtSy41ZNY=;F3AgO9NKJrnQP6vfVY8j3A=="
 ---

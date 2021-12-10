@@ -36,20 +36,6 @@ related:
         isCached: true
   - title: "Habana Gaudi AI Processor Joins cnvrg.io's Metacloud Marketplace of AI Infrastructure Solutions"
     excerpt: "PRNewswire/ -- cnvrg.io, the operating system for artificial intelligence (AI) and machine learning (ML) built by data scientists, today announced"
-    publishedDateTime: 2021-12-08T14:30:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/habana-gaudi-ai-processor-joins-cnvrgios-metacloud-marketplace-of-ai-infrastructure-solutions-301440081.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
-    images:
-      - url: "https://mma.prnewswire.com/media/1160338/cnvrg_io_Logo.jpg?p=facebook"
-        width: 796
-        height: 419
-        isCached: true
-  - title: "Habana Gaudi AI Processor Joins cnvrg.io's Metacloud Marketplace of AI Infrastructure Solutions"
-    excerpt: "PRNewswire/ -- cnvrg.io, the operating system for artificial intelligence (AI) and machine learning (ML) built by data scientists, today announced"
     publishedDateTime: 2021-12-08T20:30:00Z
     webUrl: "https://www.prnewswire.com/il/news-releases/habana-gaudi-ai-processor-joins-cnvrg-io-s-metacloud-marketplace-of-ai-infrastructure-solutions-839888428.html"
     type: article
@@ -62,6 +48,15 @@ related:
         width: 796
         height: 419
         isCached: true
+  - title: "Habana Gaudi AI Processor Joins cnvrg.io's Metacloud Marketplace of AI Infrastructure Solutions"
+    excerpt: "SANTA CLARA, Calif., Dec. 8, 2021 /PRNewswire/ -- cnvrg.io, the operating system for artificial intelligence (AI) and machine learning (ML) built by data scientists, today announced that Habana's Gaud"
+    publishedDateTime: 2021-12-08T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/habana-gaudi-ai-processor-joins-cnvrg-ios-metacloud-marketplace-of-ai-infrastructure-solutions/article_d216fc00-0cf2-5e30-915f-c3553f7132a6.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 7
 
 secured: "Ll7BordCjsOamunhCrXC/+WsFAZ1adI95lrYIztxExWoXNr7i9qeb80Nw1LY6/DTEOlOrd3Q97CEiEHrSLIv0XOjziliIK9WEfEfzbV5j+9lIBhkIpTklZDzaL6mjtY7toPqkZSy54mSzaw8qyP4nqno9aCA3Cq5pUhS5w39DplD5E4UAprfamB+jaUzeVwZPKdSwTefikkOYriMyNiUpq7y/UBsxFJ8lMsMrKUG6zJj+0WrczD7nOu4vPesBJZq2syEZ03Jh7ehMPEZIdWSYK5lxRB/q6EjbKpgJrEaLd6mZgoLvGSqyP/pCxHk9Ma4frbPdYBhItxWcP26EbeKNuxbiePuD9CXUQVc0J02bQQ=;muz8Sb2CWqXX6wtwG/azRg=="
 ---
