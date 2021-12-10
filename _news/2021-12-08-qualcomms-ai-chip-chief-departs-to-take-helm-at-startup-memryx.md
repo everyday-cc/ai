@@ -1,33 +1,26 @@
 ---
 category: news
-title: "Qualcomm's AI chip chief departs to take helm at startup MemryX"
-excerpt: "Keith Kressin, the executive who oversaw Qualcomm Inc's artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup."
-publishedDateTime: 2021-12-08T12:08:00Z
-originalUrl: "https://www.reuters.com/technology/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2021-12-08/"
-webUrl: "https://www.reuters.com/technology/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2021-12-08/"
+title: "Qualcomm's AI Chip Chief Departs to Take Helm at Startup MemryX"
+excerpt: "Keith Kressin, the executive who oversaw Qualcomm Inc's artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup. Kressin has become chief executive of MemryX,"
+publishedDateTime: 2021-12-08T13:08:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-12-08/qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-12-08/qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx"
 type: article
-quality: 86
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
   - AI Hardware
-  - AI in Robotics
-
-images:
-  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=60"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "MOVES-Qualcomm's AI chip chief departs to take helm at startup MemryX"
@@ -109,6 +102,6 @@ related:
       domain: businesswire.com
     quality: 29
 
-secured: "HCkpf9tj9RTZBsnqBAod13l6oLOoin1t1nRaVoDzto151H6w2kYm3vlT3hXqAVyuu3DoqE9wE22EHWkzAC0QonrYdGEaCm0wguneaQ4NTcFllMhXWzR6fvR4u/B7eoBhNUkAii1up+rOqFSoDu+5jYapcr79Yb9a0UCXhaEesSQAH1Av9n9o0lzr4nD8Mh6zt526cM9FCBFk25f/lvNkgxddP5EzAAspXX7X3ivD8NSWBLYpUqrGZtTDun02dTVMTCW7C+6NYjNJnRmdtvLwwWgwCKNTH7aDIlHezPLEXaw8H7s4m5FmI8Km+rnyNWk2bIR3GNeScoRqfohambYbOljf321o0uB1q8X8kOsNgOY=;9GveEuKy8iE0CmatwvyXIA=="
+secured: "u3dZ19Y14n14dhT+AmqWtkkzyPjZPlyuUdOhEffhM13NfMBGX1/piE+rW33hEdyEN4CNllKffxtcDc+KWTU63F8efsuchlo8AVuxHYO/K6PYHvaV+DcgwhqX1zLEH4oMWNbPGYw5rOVm/2N7hhCIIZJinK0nu5uXJ+uihiQESxJz6dTi76oST26BWcTsbdnmpzP+GP+jJ1D+Nph4A2PxxbHC0BWYz3r3oHGBeEkhBjWUHHjEJT2aPlIinOjMtsunPt0nq6l9AGK6Jtq1aGARQO7pYm5E++QjIWnfjkGVJDzTrKz3R6nCN54KeNoaP7GLLuT7aXDqNZFBggspkjlqYOYiEO275IZ5yUK050WTWDY=;fQa5Ii8bVKCaAH4CbyGBEw=="
 ---
 

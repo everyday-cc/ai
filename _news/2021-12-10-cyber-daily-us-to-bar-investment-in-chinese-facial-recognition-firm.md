@@ -45,6 +45,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Chinese AI Giant SenseTime Delays IPO as U.S. Prepares Investment Ban"
+    excerpt: "Artificial-intelligence company SenseTime Group is trying to keep its initial public offering alive, according to a person familiar with the matter, as the Biden administration prepares to add the company to a blacklist that will ban American investors from buying its shares."
+    publishedDateTime: 2021-12-10T14:30:00Z
+    webUrl: "https://www.wsj.com/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    ampWebUrl: "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-449875/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "How Machine Learning is Changing Finance Forever"
     excerpt: "Innovation drives things forward no matter the industry that is on the receiving end. In finance, innovation over the last decade has seen how financial institutions, banks, and lenders interact with their customers and provide financial services change exponentially."
     publishedDateTime: 2021-12-10T05:41:00Z
@@ -75,6 +91,15 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "US to blacklist Chinese AI company SenseTime over Xinjiang ahead of IPO"
+    excerpt: "The US will put SenseTime, the Chinese artificial intelligence company that specialises in facial recognition software, on an investment blacklist on Friday, the same day that it prices its Hong Kong initial public offering."
+    publishedDateTime: 2021-12-09T07:49:00Z
+    webUrl: "https://www.ft.com/content/8ee73509-e364-494e-b4c8-ff9a4f675078"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "rSDA1BZp6g8ew//yAeBRPuhgHDl14y2SeygsK5MjatLwxkE1NRMk9gsQO/noh9loL8ixaebw48Nl9DfpLwe+UPVakNL9FyVhQ8EKXmxHYeBdKVYVQUWAx4Y5tEpvsjpiU//rbiOLBJ2U1SbtmaXb3wWlSV9tuNoTPUWahLzYQ/tiIot+S+YKBybxDtXnpilSzocdZNSA+RwHDVBcHVWU1Xm8Ag/+FtfOVQjfIO/wmxsMThHYUqPgY0WBxQyTXahwH88yFILNEQH9E4T19A4heN+TCd4Aq/PnGCu64IkHoD9pMO292xOEL8r5+bnPpYTe0kKeHmQ7jeWBN42T/5JKC7jICexBRMoMTDLatD2X3/A=;mlnMcklg2/0Qw2SdgE2DlA=="
 ---

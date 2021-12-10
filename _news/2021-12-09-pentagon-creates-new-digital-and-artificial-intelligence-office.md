@@ -7,7 +7,7 @@ originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentag
 webUrl: "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/"
 type: article
 quality: 137
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/PEOPLE/H/hicks_kathleen_briefs.jpg"
         width: 760
         height: 368
+        isCached: true
+  - title: "Pentagon adds new top AI role"
+    excerpt: "Pentagon adds new top AI role. By Lauren C. Williams; Dec 10, 2021; NOTE: This article first appeared on FCW.com. The Pentagon is creating a new position"
+    publishedDateTime: 2021-12-10T21:29:00Z
+    webUrl: "https://washingtontechnology.com/articles/2021/12/10/ai-office-osd-dod.aspx"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 39
+    images:
+      - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "DOD to create new chief digital and AI officer post"
     excerpt: "The DOD will create a new office to oversee the JAIC, DDS and chief data officer to centralize its innovation efforts."

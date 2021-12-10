@@ -9,7 +9,7 @@ ampWebUrl: "https://www.scientificamerican.com/article/pompeiis-ruins-to-be-reco
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/pompeiis-ruins-to-be-reconstructed-by-robot/?amp=true"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Robots with Artificial Intelligence to Reconstruct Pompeii Frescoes"
+    excerpt: "A robot fitted with artificial intelligence will be used to restore frescoes damaged in Pompeii nearly 2,000 years ago."
+    publishedDateTime: 2021-12-10T21:13:00Z
+    webUrl: "https://greekreporter.com/2021/12/11/robots-with-artificial-intelligence-to-reconstruct-pompeii-frescoes/"
+    type: article
+    provider:
+      name: Greek Reporter
+      domain: greekreporter.com
+    quality: 54
+    images:
+      - url: "https://greekreporter.com/wp-content/uploads/2020/11/Pompeii_Wikimedia.jpg"
+        width: 1011
+        height: 431
+        isCached: true
   - title: "How Robots Could Help Restore Fragmented Frescoes in Pompeii"
     excerpt: "Using artificial intelligence, scientists have put together a computerized system that could rebuild the magnificent murals destroyed by Mount Vesuvius"
     publishedDateTime: 2021-12-08T18:36:00Z

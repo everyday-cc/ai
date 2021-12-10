@@ -89,12 +89,12 @@ related:
         isCached: true
   - title: "3 Impacts of AI in the Machine Translation Industry"
     excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
-    publishedDateTime: 2021-12-07T22:13:00Z
-    webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+    publishedDateTime: 2021-12-07T23:03:00Z
+    webUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Times Union
+      domain: timesunion.com
     quality: 54
     images:
       - url: "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg"
@@ -114,20 +114,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
         width: 615
         height: 384
-        isCached: true
-  - title: "NVIDIA Introduces Platform to Create AI Avatars"
-    excerpt: "NVIDIA is introducing a platform for generating interactive artificial intelligence (AI) avatars. See more here:"
-    publishedDateTime: 2021-12-06T05:18:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/nvidia-platform-ai-avatars/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
-        width: 1024
-        height: 389
         isCached: true
 
 secured: "jCu3wdnRELYNaKuBqcAV5dP2IZbeOVHsWcb6rx2I8y9dABllSkLJNcsu9V3Rn0E1xU+E59ijFOkU0dAzaR2kHR/C6W5SV41A8bw4tOrcgIFwo3MpztTs5ulSuBslg+TSYsD994O4g0BFsEFKc5qS7oEbfsnFIMpCX30j5NdfDTiAvBNTAGBR05fhm+95k1M3QzIXPT5GqUeukFbxPvvlz0jMMmr0KiXOHfYXJrJio4eX4yJe5nz7eODQyI90LBvGlMPQBiDR5y77ZmK8D4VwnaGfpGnZTknKkAlYXYNoX+GZZpxcSPxX8WOvxVTFEjhDHz24kTorMbRmKimUDp1kY4bBJxihda3ui8GC86S8m14=;nf/NKQzrWavhSw8BQs1b2w=="

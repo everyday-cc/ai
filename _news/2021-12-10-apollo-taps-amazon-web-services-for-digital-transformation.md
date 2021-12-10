@@ -39,6 +39,20 @@ related:
         width: 627
         height: 418
         isCached: true
+  - title: "Data democratization a key focus for Informatica as it expands partnership with AWS"
+    excerpt: "A new artificial intelligence-powered solution from Informatica LLC for AWS Lake Formation is designed with these principles in mind. As part of AWS re:Invent 2021, enterprise data management specialist Informatica introduced a way to democratize access to cloud data lakes in Amazon Web Services Inc."
+    publishedDateTime: 2021-12-10T21:20:00Z
+    webUrl: "https://siliconangle.com/2021/12/10/data-democratization-a-key-focus-for-informatica-as-it-expands-partnership-with-aws-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/Rik-Tamm-Daniels-AWS-reInvent-2021.jpeg"
+        width: 1767
+        height: 1178
+        isCached: true
 
 secured: "r9D9gwLOEeLBBLRTDjQW/5g8V+JIMa9MBQCXhsHYzoFyic849N+4vNBe1zFiWA4AVWEycSAVpbH/sHwpOUI+80x0pVzfOsEOlAj1KlslrT0OIcIqUXCp2NpoC64jp387ePfpAFtIAQ5U/e1f3ZXmxbYOBNukjyHGRpi4aoE33Gg98Qq4CpOe9POerPUESWsGXkARxOi54Hyz85FF1zxrQl8MVacFymbGw32l7Ct7v0gumKtmpMfkmvKEY7hZoGyPTkzUWGX5SeEuQM44TTniSe/tIY7n5hCzQ3Ls8c6SdXu6sVQ0M1o2yCO5ATF+r/rYtcxuRR/oMUdnELwJpX0b0SOcwx3IKAX+7nEMdfXcvzAGnkgaUNTVtRSkjMLQT2iUF7R5rKkL6eON/BByLKgEhODH9nEfVUdTggqug09Zn2mWUKZ+nJLBpVuu8aBBz1JCralMhRCVTjXpnNYolP2wDQwsOxdhWqu5JmD8SmdFHOiHkIePCh5tHdnwIPx/OYCM8eqIFU3x/F23S4AQdS6MNg==;NBB8LcpYgivGDvUZmZ/UPw=="
 ---

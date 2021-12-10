@@ -57,6 +57,20 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Human-like brain helps robot out of a maze"
+    excerpt: "A maze is a popular device among psychologists to assess the learning capacity of mice or rats. But how about robots? Can they learn to successfully navigate the twists and turns of a labyrinth? Now,"
+    publishedDateTime: 2021-12-10T22:28:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/937565"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2ea4ecab-ab57-4255-baea-2f82bcd95e48/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
+        isCached: true
   - title: "This humanoid robot makes perfect human-like faces"
     excerpt: "As robots evolve to do more work around us, the UK-based humanoid robot manufacturer Engineered Arts has infused more human-like facial expressions into one of its robots, which may leave you with an eerie feeling."
     publishedDateTime: 2021-12-06T10:55:00Z

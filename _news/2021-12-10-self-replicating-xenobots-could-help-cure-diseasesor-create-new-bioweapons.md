@@ -43,20 +43,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "US scientists create world’s first-ever living robots – and they’re now able to self-replicate"
-    excerpt: "US scientists created the first living robots, called xenobots. Now researchers have discovered a new form of biological reproduction – xenobots can self-replicate – in a way that is unlike anything seen in plants or animals,"
-    publishedDateTime: 2021-12-06T06:01:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/06/us-scientists-create-worlds-first-ever-living-robots-and-theyre-now-able-to-self-replicate"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 27
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/12/06/1394599.jpeg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Will self-replicating xenobots cure diseases, yield new bioweapons, or simply turn the whole world into grey goo?"
     excerpt: "In 2020, scientists made global headlines by creating \"xenobots\"—tiny \"programmable\" living things made of several thousand frog stem cells."
     publishedDateTime: 2021-12-09T14:00:00Z

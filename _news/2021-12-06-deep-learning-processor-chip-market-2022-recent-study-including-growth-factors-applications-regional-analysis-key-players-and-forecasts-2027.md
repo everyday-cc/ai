@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-processor-
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-processor-chip-market-2022-recent-study-including-growth-factors-applications-regional-analysis-key-players-and-forecasts-2027-2021-12-06"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Increasing Investments in NLP in Healthcare and Life Sciences Market Bolsters Industry Growth"
-    excerpt: "Natural Language Processing or NLP is a rapidly emerging sector in the overall artificial intelligence or AI technological field. Rising investments in the global NLP in healthcare and life sciences market have provided effective solutions to extract ..."
-    publishedDateTime: 2021-12-06T05:15:00Z
-    webUrl: "https://techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/"
-    ampWebUrl: "https://techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/amp/"
+  - title: "AI and Big Data Analytics in Telecom Market 2022 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2026"
+    excerpt: "Dec 07, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “AI and Big Data Analytics in Telecom Market” report offers advanced research outline of the industry including definitions ..."
+    publishedDateTime: 2021-12-07T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-2022-with-geographic-segmentation-statistical-forecast-and-competitive-landscape-report-to-2026-2021-12-07"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 65
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/12/brain-study-background-mental-health-care-medical-technology-scaled.jpg"
-        width: 2560
-        height: 1706
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "DVQSKcnWoTlkx1FVQ2TRAMcqORbrqaoZw69nFn8LWOrxaSX6OdDUwtLc8bdUKN8LQ/ERwxiV3SLIFs84xBeOQR0nWhsIFLkuXU9c7+brr18TFYXW7YcJt00zOdz+SvUsvg6FgvXtZX1r04k0rjB08AL1Qdbzg4bXLDYJBiwkI38rcXl2AMtR2EFsMyISoKzkTUmzQ++ZMy/9CEIlSsQiAgxSjJQr7jtoCJRGhxaRyGqWwyfcofl4qDSlkw4z8tNum1UrmkDRH9cPDMHm7S7khMVePSXXAgZArTWkWDHPpNboE7aim+i1YRNzZf7RLJCDY5M8jwT5np7XQfa4AsrKX0uQSwTSnvNXErnQSnlHRqE=;8hAS+C3AmlLBJzhaa/26Lg=="

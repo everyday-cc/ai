@@ -101,6 +101,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
+    excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to"
+    publishedDateTime: 2021-12-10T15:49:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/b24548916/ai-to-boost-cancer-drug-combination-studies-and-treatments-of-the-future"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Scope & Future of Responsible AI"
     excerpt: "Widely referred to as Responsible AI, the concept has been around for the longest time but has recently become a mainstream conversation point."
     publishedDateTime: 2021-12-06T08:30:00Z

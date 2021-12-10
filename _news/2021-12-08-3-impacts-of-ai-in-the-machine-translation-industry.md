@@ -2,17 +2,17 @@
 category: news
 title: "3 Impacts of AI in the Machine Translation Industry"
 excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
-publishedDateTime: 2021-12-07T22:13:00Z
-originalUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
-webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+publishedDateTime: 2021-12-07T23:03:00Z
+originalUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+webUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - Natural Language Processing
@@ -115,21 +115,7 @@ related:
         width: 851
         height: 315
         isCached: true
-  - title: "NVIDIA Introduces Platform to Create AI Avatars"
-    excerpt: "NVIDIA is introducing a platform for generating interactive artificial intelligence (AI) avatars. See more here:"
-    publishedDateTime: 2021-12-06T05:18:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/nvidia-platform-ai-avatars/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
-        width: 1024
-        height: 389
-        isCached: true
 
-secured: "EE2T849OVumWRN748/mgjbFcS4PnF+OTKBljwv/pHYKFUFxdF5atX940FI3Gh7iDLB3c2P+z6o25RS1N9j9+EVO2tq941oGH/g/GAiCdJLCRuJlqsPgH9xcKqhJqIEWd7F40XmogoabkSbhcfNn3zmssAeUbQp0ht03vPJVyX9dM8ix96FnpQYoxoTTyNEoDmq52LpL5hXQloGo+ugWIQtxd3xlmSaANzj4IPPgDokXY4djecLyPhO3aSgiQ2Ze1i5+YdBhGLAEFegzx9G8GLfshblfMhXF0n4UWrZ+0PoQHjd0ythxuzNQJEhs3nZfoX6PRHAM/R+3aRRmyhpnkUUogiwtOjxTpXW1djianNyC87LjLn4AzNThYKss7kAYGBgy7VhdDtD6t/OOK5ZJ5GrDYrqtIoNpIJ9nvAO/13jDSL0wWY4WGfezlvQyRcMf9eD8CxxQ7k6tRHiZFPT9PwOE8VWjSNgUIYPhRzv9s+991nGDhVG+lpn1PaKvdLy/jxAdtwvwnQvUaaxHnip9Vvw==;K3F81uspuCeq/eSnZh9V+g=="
+secured: "xEbrfxJvu12e7R7faAMANpPVrQ5jvREyxZzwIH8GHdLXmPNoXe+gwSZztyfkDy9r5Enx7cmqLwpa2LEUROtx6yT55q3/kKs1wQQwKm4kvk9UD7XX/RPN2OgHkTKW0rgJ4/vdWKrb+yvazopKSSfUx9aAyKqHobKRVr0jzNG5j4iIrqeVih5bKai0wGF73EA+WpJKaa9rqkPcs9e/WHLaW6kGSXVYeK8D7wkwIWRrjNTCLsgDgyBbew0s2NP65ObCsLKtDZ0E3srtL5QB4byWw1J26Z36AQIsF73oVdmvesmUd5ylgwKTjZcKg+LTt96wuiV3yOMtdsAwLElO7F4WqjoRP5W93dJAoud6I2jVbd8=;0HKz1H0mKPDE5W8FyuzCqw=="
 ---
 

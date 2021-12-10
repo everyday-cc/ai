@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/plan-the-locations-o
 webUrl: "https://aws.amazon.com/blogs/machine-learning/plan-the-locations-of-green-car-charging-stations-with-an-amazon-sagemaker-built-in-algorithm/"
 type: article
 quality: 78
-heat: 108
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Hierarchical Forecasting using Amazon SageMaker"
+    excerpt: "Time series forecasting is a common problem in machine learning (ML) and statistics. Some common day-to-day use cases of time series forecasting involve predicting product sales, item demand, component supply, service tickets, and all as a function of time. More often than not, time series data follows"
+    publishedDateTime: 2021-12-10T22:19:22Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecasting-using-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/11/ml-3943-image017-742x630.png"
+        width: 742
+        height: 630
+        isCached: true
   - title: "AWS brings no-code to Amazon SageMaker machine learning"
     excerpt: "Amazon SageMaker Canvas provides a visual interface for preparing data and training models, no programming or machine learning expertise required."
     publishedDateTime: 2021-12-09T00:04:00Z

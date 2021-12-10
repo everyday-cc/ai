@@ -7,7 +7,7 @@ originalUrl: "https://news.bloomberglaw.com/daily-labor-report/nyc-targets-artif
 webUrl: "https://news.bloomberglaw.com/daily-labor-report/nyc-targets-artificial-intelligence-bias-in-hiring-under-new-law"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 958
     height: 368
     isCached: true
+
+related:
+  - title: "New NYC law restricts hiring based on artificial intelligence"
+    excerpt: "Employers won’t be allowed to use AI to screen job candidates unless the tech has gone through an audit to check for bias."
+    publishedDateTime: 2021-12-10T21:59:00Z
+    webUrl: "https://www.marketplace.org/2021/12/10/new-nyc-law-restricts-hiring-based-on-artificial-intelligence/"
+    ampWebUrl: "https://www.marketplace.org/2021/12/10/new-nyc-law-restricts-hiring-based-on-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2021/12/10/new-nyc-law-restricts-hiring-based-on-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 57
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/12/GettyImages-1046103888.jpg?fit=740%2C416"
+        width: 739
+        height: 416
+        isCached: true
 
 secured: "NPvU6jFm1qnPmQ/vykcOjg31jFfCELfoU+x8kLRfmcX3V3zUDwQVT9kIUJRf8adFAriY7r3+kFNtGzcR3/9w4gtph3q30lJgPbLYiANLu0IAFZe8lnVwVjYydYc5uXKmFdixqmA2BotuT8yKbGoB4afVqcm5YonGiKQLfae4UOE7EuwxrUwS6OG1xvWqJwPvBfjnrYSAyAFgSKI4o708gq7d3is53hLRshTf3JU5d/1iKbzHxGZMBol1xlPsK0no+5le2Y0iGXkDdwpjiEO7E98YyVtMKXya44K+9DTQS+fY+T9yq/0uQXx4L/qzps2wbs4NAWfhHTIYui+fPqTe6w8mj1RT6mmy9VriuDgNVePmKejejAil/lUSvnELu+5newz96QWvLK0nhOBpOOOX6ilbMd6Qlq25ouLLOU4ZeJo+w4dKlqjhJHRjrhsj4bP9wzN4UO0k2XYMvjWD0h6DEBtvOyvzIarP0pUIBNJ/w0qK+JjXX8ODvLG1YgZKMPgMdle36g+SUqlkMyRdKBewIg==;rG8Pyb8wCJ+PP+nPX6LusQ=="
 ---

@@ -75,12 +75,12 @@ related:
         isCached: true
   - title: "3 Impacts of AI in the Machine Translation Industry"
     excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
-    publishedDateTime: 2021-12-07T22:13:00Z
-    webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+    publishedDateTime: 2021-12-07T23:03:00Z
+    webUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Times Union
+      domain: timesunion.com
     quality: 54
     images:
       - url: "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg"
@@ -114,20 +114,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/default.jpg"
         width: 851
         height: 315
-        isCached: true
-  - title: "NVIDIA Introduces Platform to Create AI Avatars"
-    excerpt: "NVIDIA is introducing a platform for generating interactive artificial intelligence (AI) avatars. See more here:"
-    publishedDateTime: 2021-12-06T05:18:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/nvidia-platform-ai-avatars/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 37
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-2-1024x389.jpeg"
-        width: 1024
-        height: 389
         isCached: true
 
 secured: "X9P+yrJ77Gdj7LQFuzIh2gn0zPKI/RnCMbCNvyhveUX7PZylNfUGvpj8MPjRK9upqc9dV4gAfFoNIp8dAf59JWCtNsJOfs1CE34L1KA1Za5Q7IEuaVI1UGUQWyX6JJA276P+2BEg0esuR1vwHHaJm9u/smJUNuONUv4ssikOy9VJW6u7BWG5EzJaJFHwcqO2lHGJqlOWU5Qu+JkKR1EnGuJWoKY8KkrTMJng+ickwk6TCoSwNRDfuLLoh4xeKp6MpjSGEivWHbM8S54TDWdWEguuMy4Z1RLaSdG1ZPUl7z6QD7l3nB7nsEGIDwSGHGXoM6NnL9spLL2vWqhb8X6IjcAjj1luChj/Axs4Wq4parcjZqP+eXUSgCqflpehaU/Zltgcl+BATTj012MGKazKhqaqQX9YTN8pStB8JhhRxbiY/hq66wf+UYwTFYR6iTjnZkaGaOcx2MP6+Yjr+9YMwnwmh9i6H9lDOxs77hYD8yzI4gICy5/w69nnphHluKBpceBsL6CTmRP9z7iGuIpAbA==;MXZTPvVLk3QfxVjWnF0jDg=="

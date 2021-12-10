@@ -30,20 +30,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "Qualcomm's AI chip chief departs to take helm at startup MemryX"
-    excerpt: "Keith Kressin, the executive who oversaw Qualcomm Inc's artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup."
-    publishedDateTime: 2021-12-08T12:08:00Z
-    webUrl: "https://www.reuters.com/technology/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2021-12-08/"
+  - title: "Qualcomm's AI Chip Chief Departs to Take Helm at Startup MemryX"
+    excerpt: "Keith Kressin, the executive who oversaw Qualcomm Inc's artificial intelligence chip efforts, has left to take the top job at a Michigan-based semiconductor startup. Kressin has become chief executive of MemryX,"
+    publishedDateTime: 2021-12-08T13:08:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-08/qualcomms-ai-chip-chief-departs-to-take-helm-at-startup-memryx"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=60"
-        width: 1200
-        height: 628
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Qualcomm AI executive heads to MemryX"
     excerpt: "Fabless AI chip start-up MemryX hired Keith Kressin as CEO, nabbing a leader of one of Qualcomm’s key business areas. MemryX stated Kressin held the role of SVP and GM of compute and cloud at Qualcomm,"
     publishedDateTime: 2021-12-09T17:41:00Z

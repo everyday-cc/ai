@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-too
 ampWebUrl: "https://venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals/amp/"
 type: article
-quality: 75
-heat: 75
+quality: 77
+heat: 77
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/11/Earth-2-Image.png?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "IqF4Jkx0Ly6szKMkMR9rNthw+9IafP0TNlOHPvnfPK60uGCTOkxvumlFaJysdFGJKl+PcVMNymAAlDOR3CYYoGnT0mFGnvcfZkPpYnng9bimZK7J0l3/KO6vtGjYqKDj5jt0/YzNecza9+Q40rCwa/D2WYq+oqm6kedYhsnqX8E54YBIdQwMXMZbcYWW7oucXqZRKyTgoxdbQrxdUHv3AwRGSLJQZyrnXvk/YhgmYuYAE42fTgzpGi3ADpi3biYRnVJ6QFSsyCGzfBJbFdf5FaR4VrqMcOFJc12KNAhjAst4fLDHao0xJHqpPn4j+P2TVmZ4W9XhqycklwRyb3be4tUetRtMx5fRvIks5s40GhA=;Z/1Q0vDQHRHzlOiQbidDzw=="
+secured: "TrXCAWcOQe4MfR4K4ifHKlQecGq13HUAyjxDA6QTdrFZumOe8WBX+V+6PY+HxkMZJyAEhQ/MA3vp++SC+UiwiOiam88KH+JKvDGIGrn6yrewx+e1lzj0oFcQYIAFFrjrMAHss7PQznQocJ7/zHakue2UEaVxzfeI6wGDEnbJeekLKCiTCursWDSD27N0cqd8pC0i3jJ54nTXvFmddpMx/ONgYWCha0wqeYmyo71iZyv9y/Ngrblp+sO2B8kIZxHkLzTuXOXXzC7/Ck9E2ahHv2jH1+XgaSZstQwdrWnhHe3ZJaBjYgtU6YwpGeqEAr6ZXcSIfEuTjI6SnUquX8WXWbT7kdRgdF8MFbJ0BiQ4OjbHgHRiQHVoRFj8CpVFL6HiuEKf62kzeYvTN+hvqA8r10ZWJCzlvgZYDmaAfq44Ln3ZpZ6PAVHFyuZ4faH9XEfMR/4IHAglfBqegF7AxA1ieJao1R63ZTHW9kpKPV3+RkNkXwsJl2ofGjlRB2rtFWfWEBCU2MPfgjwbyUGGAr1GFA==;l/+3SmInr7Pp3EwX6AC3cw=="
 ---
 

@@ -68,6 +68,20 @@ related:
         width: 760
         height: 368
         isCached: true
+  - title: "Pentagon adds new top AI role"
+    excerpt: "Pentagon adds new top AI role. By Lauren C. Williams; Dec 10, 2021; NOTE: This article first appeared on FCW.com. The Pentagon is creating a new position"
+    publishedDateTime: 2021-12-10T21:29:00Z
+    webUrl: "https://washingtontechnology.com/articles/2021/12/10/ai-office-osd-dod.aspx"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 39
+    images:
+      - url: "https://washingtontechnology.com/~/media/GIG/Washington%20Technology/WTlogo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "DOD to Hire First-Ever Chief Digital and Artificial Intelligence Officer, Form New Office"
     excerpt: "The Defense Department will hire its first chief digital and artificial intelligence officer and formally establish a new office under their purview—by next summer—via an organizational restructure it deems necessary to advance data and technology integration and innovation across its massive enterprise."
     publishedDateTime: 2021-12-08T23:13:00Z

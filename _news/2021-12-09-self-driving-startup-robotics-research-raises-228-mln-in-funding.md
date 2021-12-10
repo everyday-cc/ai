@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-resear
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
 type: article
 quality: 101
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
         width: 978
         height: 547
         isCached: true
+  - title: "Trucks catch up in the self-driving vehicle race"
+    excerpt: "Instead, fully self-driving cars are struggling to get away from the starting grid and some investors are betting that driverless trucks will reach the chequered flag first. Only a year ago, startups developing robotaxis were pulling in eight times more funding than firms working on autonomous trucks,"
+    publishedDateTime: 2021-12-09T14:58:00Z
+    webUrl: "https://www.reuters.com/markets/europe/trucks-catch-up-self-driving-vehicle-race-2021-12-09/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://www.reuters.com/resizer/Hr14Tq7p2fycQMPHuA6TWf8EUME=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CFEGJMZYXNIUFCWLH2MD44CT4U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Clinical voice AI startup Suki.Ai raises $55 million in Series C round"
     excerpt: "Suki.Ai has raised $55 million in a Series C funding round led by March Capital with participation from existing and angel investors."
     publishedDateTime: 2021-12-08T18:47:00Z
@@ -88,6 +102,6 @@ related:
         height: 600
         isCached: true
 
-secured: "WVidyswQhzG9/xHuax7P5MGuJCYpzaytBwAf/pr4rA5LOs1tMqmiKAf6uFJbJgH+57WsGw0U1YO3DW0/ppl1XbH+cvqkqWsANeg31qCYembkUImFMcMH8AO2jSVknI8L/L1LkPQAKdBg9+6X4aCv9rP6LoKnx4bcR911+ntGGM+4uO0aPWWUo2sbtg7juy06QMPY41LKeAANU3BucaeBX1+1xVqs1f2jOjo1A7vHFSIJ5RK72jUqysRVTZkPyX7skAIOu9nZg5RnX/0pOYhtApUXjSN/qtGdcmUTC0812LmTiyshe0OALA8aeklwpcg8Zwl5aS/MGEjmeypE2NTbYWj0QGDZ7L/znutyMBpnD1yU+UneDVXP2tTT5ziyJrxZYZY4GGHtBHvNyZJHWhKBXtbv7fQlAu964vjWo2lbO72eQu1PKdpPyeYQzwHXcVcKV8oXKgRdjYhSKr8EemjWVspoUCDpddNilFiCFkewN1VefzKzL+/mJJOO/Z8MeyJybsAesJnpImYp3aYYSxfmNA==;nsGHxE32YLcItnL8m9wiwg=="
+secured: "/C++uBfaPxHJA18AieXXYnRUJmYzNngCi6krmMUnh8C2zto0vj0UrsP0g8J5qzT+7TUFB2IyWXWVsXvDKM/aTAwf5oFzIzDGplPakiqR1EpdK6am0c5Az12GByLtFRQsszsj5SXftetLII+QmLagQML+gGe6wZgUvWcyYLZETaBnqsmSdJzr7Ro0dx9uCSYGXYGdaSUhR4NC3e6wixyWZkSwqc5lKkuqjTm4XeQwmg/IIawKGAAxEvpHJZiSGCBvRMyg3OtLE70G7vnPl7HkzZyqTdJDQ5MzUa0bx1eyEJoJhpLjFo7F1L+u3Y42wb2OT0FEyUHFymQ/q8LhRr2J9oWDjo+8Og3JH639OiE1gKvz7u8Nv0Rh9HDJcsh8Kb7JF+XH+0tIB3NrDpoGaW+UHTIQ3dABQ7hTLDQXqddeLiOwlRC3Kplrn9E5VdWzQJo9KdlrtN1Cv5aI25s0ugf7gbiyUSkx5N2hXC40n2tiyBx7PAWqQPgTAWL1KoCb+Hm0IzGy6ZCDunh0FNeuezNOFA==;sSUUHQ1S3rsTSsvr8w1XEQ=="
 ---
 

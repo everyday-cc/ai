@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "SenseTime Launches Hong Kong IPO to Raise up to $767 Million -Term Sheet"
-    excerpt: "HONG KONG (Reuters) -Chinese artificial intelligence startup SenseTime Group is looking to raise up to $767 million in its Hong Kong initial public offering (IPO), according to a term sheet seen by Reuters."
-    publishedDateTime: 2021-12-06T06:54:00Z
-    webUrl: "https://www.wsj.com/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055"
-    ampWebUrl: "https://www.wsj.com/amp/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055"
+  - title: "U.S. to Bar Investment in Chinese AI Giant, Considers Banning Key Exports to Top Chip Maker"
+    excerpt: "The focus on SenseTime and Semiconductor Manufacturing International is part of broader Biden administration effort against China’s tech firms."
+    publishedDateTime: 2021-12-09T22:33:00Z
+    webUrl: "https://www.wsj.com/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799"
+    ampWebUrl: "https://www.wsj.com/amp/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 186
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 94
     images:
-      - url: "https://images.wsj.net/im-446639?width=860&height=573"
-        width: 860
-        height: 573
+      - url: "https://images.wsj.net/im-449342/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Chinese AI Giant SenseTime Delays IPO as U.S. Prepares Investment Ban"
     excerpt: "Artificial-intelligence company SenseTime Group is trying to keep its initial public offering alive, according to a person familiar with the matter, as the Biden administration prepares to add the company to a blacklist that will ban American investors from buying its shares."
@@ -50,33 +50,49 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "AI Giant SenseTime’s USD769 Million Hong Kong IPO Gets Underway"
-    excerpt: "SenseTime, China’s biggest artificial intelligence company, has started accepting subscriptions ahead of its HKD6 billion (USD769 million) initial public offering on the Hong Kong stock exchange on Dec."
-    publishedDateTime: 2021-12-07T08:34:00Z
-    webUrl: "https://www.yicaiglobal.com/news/ai-giant-sensetime-usd769-million-hong-kong-ipo-gets-underway"
+  - title: "Cyber Daily: U.S. to Bar Investment in Chinese Facial Recognition Firm"
+    excerpt: "The use of facial recognition sparks debate and we’ve covered local bans, such as in Portland and San Francisco. As with data privacy in general, there is no federal law in the U.S. to set boundaries,"
+    publishedDateTime: 2021-12-10T13:06:00Z
+    webUrl: "https://www.wsj.com/articles/cyber-daily-u-s-to-bar-investment-in-chinese-facial-recognition-firm-11639145216"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 39
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/ai-giant-sensetime-usd769-million-hong-kong-ipo-gets-underway/18082164823031808.jpg"
-        width: 720
-        height: 480
+      - url: "https://s.wsj.net/img/meta/wsj-social-share.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI startup SenseTime discussing fate of $767m HK IPO with exchange"
-    excerpt: "Chinese artificial intelligence startup SenseTime Group is discussing the fate of its planned $767 million Hong Kong initial public offering (IPO) with the city’s stock exchange"
-    publishedDateTime: 2021-12-10T13:58:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/sensetime-hk-ipo-2-273541/"
+  - title: "How Machine Learning is Changing Finance Forever"
+    excerpt: "Innovation drives things forward no matter the industry that is on the receiving end. In finance, innovation over the last decade has seen how financial institutions, banks, and lenders interact with their customers and provide financial services change exponentially."
+    publishedDateTime: 2021-12-10T05:41:00Z
+    webUrl: "https://techbullion.com/how-machine-learning-is-changing-finance-forever/"
+    ampWebUrl: "https://techbullion.com/how-machine-learning-is-changing-finance-forever/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-machine-learning-is-changing-finance-forever/amp/"
     type: article
     provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
+      name: Impacts
+      domain: techbullion.com
+    quality: 76
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/How-Machine-Learning-is-Changing-Finance-Forever.jpeg"
+        width: 1200
+        height: 439
+        isCached: true
+  - title: "U.S. adds Chinese AI startup SenseTime to economic blacklist"
+    excerpt: "The U.S. Treasury Department in a statement said it added Chinese artificial intelligence company SenseTime to a list of \"Chinese military-industrial complex companies\", accusing it of having developed facial recognition programs that can determine a target's ethnicity,"
+    publishedDateTime: 2021-12-10T16:57:00Z
+    webUrl: "https://asia.nikkei.com/Politics/International-relations/US-China-tensions/U.S.-adds-Chinese-AI-startup-SenseTime-to-economic-blacklist"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
     quality: 37
     images:
-      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2020/08/c44d98398f353d39a016f971d99df110.jpg"
-        width: 1280
-        height: 631
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F4%252F7%252F6%252F1%252F37851674-1-eng-GB%252FRTS1JOEB.JPG?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "Sc7Au+m1GMplVHrwaEdcK4EKO2yioSF/Xe0C+645m6fzZbEdz6Eg30isynmjDrMJQJbFdMKixXq7T62eWza1JDpfJBfBh1M0yKjbMHbh2T4PxbzbxdFjImpwuCvYaamzFLH4oMJsEpb9cS1Ljrcqsvh4ydu4CH0AduA5Zqj+iOiMn4Lrh/jcfjnULnjvkqtnNIEX1TFM3mMaJbMQKXtySDjMvGmKOaLdvjFVgnULLMHgmTmg+TOXQfqjYXNi/j8c1SfIEotypw4BSg5ruC4a2er/UfpvuTMURykSrm2Xrvh66Kh0RWC/Y01Vh1yAzzHvlPFZ+sf3SoQnA/lN3YQ5RnBTJ4jwX1Hn2nlN8+YzEGgdp9/B8YtiVz0J4xbK21lLMDVPJawEzQSHbO3kMY5gtZ9EFJmpJXuczi0D7QWw+ZxTUusk/+59sGx97MNV9Sbm1BoRNS0//DJ3A34jm1mbYhex8y1r7axFue2hJ0Vbhbeb77HnR+/mqwwzMyqU4kjKBAWPmNZ6Ue+kFZoAnCjPwQ==;nYDQsHTSJFpHg2go7oxQHA=="

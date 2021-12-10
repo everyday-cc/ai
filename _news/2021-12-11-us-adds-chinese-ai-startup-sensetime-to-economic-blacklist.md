@@ -40,6 +40,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Chinese AI Giant SenseTime Delays IPO as U.S. Prepares Investment Ban"
+    excerpt: "Artificial-intelligence company SenseTime Group is trying to keep its initial public offering alive, according to a person familiar with the matter, as the Biden administration prepares to add the company to a blacklist that will ban American investors from buying its shares."
+    publishedDateTime: 2021-12-10T14:30:00Z
+    webUrl: "https://www.wsj.com/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    ampWebUrl: "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-449875/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Cyber Daily: U.S. to Bar Investment in Chinese Facial Recognition Firm"
     excerpt: "The use of facial recognition sparks debate and we’ve covered local bans, such as in Portland and San Francisco. As with data privacy in general, there is no federal law in the U.S. to set boundaries,"
     publishedDateTime: 2021-12-10T13:06:00Z
@@ -70,6 +86,15 @@ related:
         width: 1200
         height: 439
         isCached: true
+  - title: "US to blacklist Chinese AI company SenseTime over Xinjiang ahead of IPO"
+    excerpt: "The US will put SenseTime, the Chinese artificial intelligence company that specialises in facial recognition software, on an investment blacklist on Friday, the same day that it prices its Hong Kong initial public offering."
+    publishedDateTime: 2021-12-09T07:49:00Z
+    webUrl: "https://www.ft.com/content/8ee73509-e364-494e-b4c8-ff9a4f675078"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "1pEKgy74Q+Bh5qTTpavm99DM9LixcP6K9OI2QHOCmFe5sIG7D+krpTJ2cOdqx/OUTnjXezIbr7DLAry0NtWm4JatitpFeV6wFZnKDpyxtqtF8Ge/byocZqYFofoccnOlwyUCp+JdQrla+0X267zCUGGQojYkUcVqf0EKlQQ5IiT8/CboMGVIqcVbdRcaHcKL8vfQFcv7SQFNJn7LuhnRwpcijThjq797tyVu8B+QngViaQ7lUAMXO8cc3rH02FO5Pgmy6I8W/b7Ap3xSmqNdZ1A++h1Bg1GerACTDruX8rkI9Cp9Udks/2Z18UTBGnV8hV3uqMTuRR8WvBOyYksrncdhxp5XR8CCS49dseF7Hzc=;HIoBVcVxVnRE7HgcHQj3ow=="
 ---

@@ -1,22 +1,24 @@
 ---
 category: news
 title: "Artificial Intelligence Being Used to Accurately Predict Synergistic Cancer Drug Combinations"
-excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI)"
+excerpt: "USA News Group - Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to make predictions on potential synergistic anti-cancer drug combinations for both therapeutic and toxic effects."
 publishedDateTime: 2021-12-10T17:36:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations/article_999f13d0-32c7-5950-81f4-cb8827721829.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations/article_999f13d0-32c7-5950-81f4-cb8827721829.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24550786/artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/n24550786/artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations"
+ampWebUrl: "https://www.benzinga.com/amp/content/24550786"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24550786"
 type: article
-quality: 6
-heat: 6
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "VIXIPSMDAY/ENUjb2ndee+PMSkgoeZNEFJwYPCPD69zYIxsKy4sf9kgyqM+55MZW1qgOJE6MvH2i3fMMJqcwvooMNKD+vQzBd0AzyJqvgN/eGc6u9ARVNctKTMK3BDeVrgef0FPoSI3pf1z5BdytrbJyqbFwNEgqjJDwVBKkj+cExmilk0OMYdQn5Dqa1YUDPYHUpzIkaxsNMmmwJ8DPdWDsm2SEdyrYLUhv8e/W9cjb6kDj5OaZaQ6KpPA9YTg3MK3yFHBnXJd+ejKWN8wp8/vK+tCDMoz3294FarBbRMa7WlirMkb1hOjkNgKzhRTS8i8vhQxiY2ULz2YI+tYoHRaGiHTrxK9k7xdp73ccZ8HymoHt/bK1E3UctrdX0AgFh5DB2SVFfPKyrGVm0JD9otyrplO5aD+RNqlkWnaEx8nlAYcl4cXnTKwGDCHjju1ZlCj8x1OntyHp04+StrUCck7OoqL5/YI/lBH5TWgFDQiOHjrZ5YLYPzmUmCXr2iOmHWRo2CHjmdFAS1ItfW1Szw==;q3GpOjZhnO15pGIYaYJi2w=="
+secured: "IU0f5b7MLJBshG5pKlzF76QkMY24sTQW3MEh0ppt1AX7XOb9vZ6DEkE2ayIIsENTHVo2fNIYAZbzzsVEbvo8zgwnW/cIj7TF5viP9FToLuQcOpZEYmd5x7lNi29t0G+7mJqZxCLJPkTWn1pQqlthUof9Gi2BaG8bNf6YLwfVUNv/K7SIncT8AoR22oDhA8GOa51fGUkEM1rufaUlCv8oFvek4kGIUjASJ5jo5cb5qXLU+e60XnZu2CSgmcygXsUE88KyOJVDIK2QhL9YDY+hs5GlxhCQwRzjUdCaV4sOS1hq9noEnkXwAR1NfvefkQeAXS7oN2qa5ZQJ6Uw6bLZ6c11YPlXuElNDGs/rLtmCGXU=;Sxx6We/Ojczz6gZcrYGjQQ=="
 ---
 

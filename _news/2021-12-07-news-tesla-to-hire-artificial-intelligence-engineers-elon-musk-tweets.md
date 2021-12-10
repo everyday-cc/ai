@@ -72,22 +72,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "‘As always’: Elon Musk tweets on recent Tesla hiring for AI engineers"
-    excerpt: "US-based electric vehicle company Tesla is hiring AI engineers who are passionate about solving day-to-day problems through artificial intelligence."
-    publishedDateTime: 2021-12-06T06:59:00Z
-    webUrl: "https://www.businesstoday.in/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06"
-    ampWebUrl: "https://www.businesstoday.in/amp/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06"
-    cdnAmpWebUrl: "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/trending/story/as-always-elon-musk-tweets-on-recent-tesla-hiring-for-ai-engineers-314524-2021-12-06"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 76
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/elon-musk2-sixteen_nine.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Ex Tesla Engineers Claim Full-Self Driving Autopilot Video Was Manipulated And Edited Out Barrier Collision"
     excerpt: "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers"
     publishedDateTime: 2021-12-07T21:13:00Z

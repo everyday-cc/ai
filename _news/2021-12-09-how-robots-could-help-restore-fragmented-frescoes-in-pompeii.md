@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robots with Artificial Intelligence to Reconstruct Pompeii Frescoes"
+    excerpt: "A robot fitted with artificial intelligence will be used to restore frescoes damaged in Pompeii nearly 2,000 years ago."
+    publishedDateTime: 2021-12-10T21:13:00Z
+    webUrl: "https://greekreporter.com/2021/12/11/robots-with-artificial-intelligence-to-reconstruct-pompeii-frescoes/"
+    type: article
+    provider:
+      name: Greek Reporter
+      domain: greekreporter.com
+    quality: 54
+    images:
+      - url: "https://greekreporter.com/wp-content/uploads/2020/11/Pompeii_Wikimedia.jpg"
+        width: 1011
+        height: 431
+        isCached: true
   - title: "Pompeii’s Ruins to Be Reconstructed by Robot"
     excerpt: "An ambitious project is under way to develop a robot with enough smarts, strength and sensitivity to restore fragmented archaeological remains"
     publishedDateTime: 2021-12-06T11:50:00Z

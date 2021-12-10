@@ -71,20 +71,6 @@ related:
         width: 470
         height: 246
         isCached: true
-  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
-    excerpt: "A few days after reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving, Mercedes-Benz has issued a U.S. recall for a simliar issue."
-    publishedDateTime: 2021-12-10T20:52:00Z
-    webUrl: "https://www.chicagotribune.com/business/ct-biz-gaming-while-driving-tesla-mercedes-20211210-55f3brectbgxrgj53t4ryksnr4-story.html"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 39
-    images:
-      - url: "https://www.chicagotribune.com/resizer/IKSvJs0VdV6qE4WQl2bzj0vswNE=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/HQNYLJAB67LCEKJPPLFGS75BVQ.aspx"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Mercedes-Benz to launch Level 3 self-driving system in 2022 after gaining regulatory approval"
     excerpt: "Mercedes will launch its Level 3 self-driving system in Germany initially, but is already testing it in the U.S."
     publishedDateTime: 2021-12-09T18:00:00Z
@@ -110,6 +96,15 @@ related:
       name: Fleet News
       domain: fleetnews.co.uk
     quality: 24
+  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
+    excerpt: "MB is following the regulatory rules as they are supposed to — in sharp contrast to what we've been seeing from Tesla.”"
+    publishedDateTime: 2021-12-10T22:36:00Z
+    webUrl: "https://www.courthousenews.com/gaming-while-driving-tesla-allows-it-mercedes-does-recall/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 19
 
 secured: "iXeUR0TdtjN0sh5dK3lcF6jpOP0ZNsFbOhvtLtVlPhQ1ag6KG1y3WUVt+r780XG4CIdw+vpowf75HoONSG43uaU6VVVRBWnTyA9TNmZXnIvSrRxExH5C+w58pn3mmPv4bI/aUb9eye8RYAriT4P7PKJK8ICq4wwKHSz7+qJkxz8L/ukuVOivjaBcuYBIyyZUe9vWy+ODKsGJdOTpR1NGbptLbyF3D4fc6ODd+5S4VBuGHY0lKK6q43HR1SigRIDDP5SAsKPzwRFLXixc0A+kpFr6GBJhx56FpZ4qvz0NU5lXiKf96w3hC2pTs/RemsFC6muvdXhN2DiFE9Y3qAbQmOzXxzeAjv42OnHCk6Pc16o=;K4bJBZgfsYfyEiCm8tF+vQ=="
 ---
