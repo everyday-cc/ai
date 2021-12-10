@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/mercedes-self-driving-car-51639
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/mercedes-self-driving-car-51639093613"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Mercedes-Benz Has Beaten Tesla To Getting Hands-Free Driving Approval In Germany"
+    excerpt: "Advertisement The German government has given Mercedes permission to put its Level 3 autonomous driving technology on the road, Bloomberg reported. The system will be available to the general public on the new Mercedes S-Class and EQS saloons early next year,"
+    publishedDateTime: 2021-12-10T19:43:00Z
+    webUrl: "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/"
+    ampWebUrl: "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 54
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/mercedes-benz-bloomberg-1200.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Mercedes Beats Tesla to Hands-Free Driving on the Autobahn"
     excerpt: "Tesla, Alphabet Inc.’s Waymo and others have been chasing self-driving technology for years. A fully autonomous vehicle would be highly attractive to premium customers, allowing drivers to work or use entertainment systems while on journeys. RoadSigns ..."
     publishedDateTime: 2021-12-09T16:48:00Z
@@ -54,6 +70,20 @@ related:
       - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/WOWGQP7ZRZCC3B5SMX32XNFPSM.jpg?_a=ATABlcW0"
         width: 700
         height: 394
+        isCached: true
+  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
+    excerpt: "A few days after reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving, Mercedes-Benz has issued a U.S. recall for a simliar issue."
+    publishedDateTime: 2021-12-10T20:52:00Z
+    webUrl: "https://www.chicagotribune.com/business/ct-biz-gaming-while-driving-tesla-mercedes-20211210-55f3brectbgxrgj53t4ryksnr4-story.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 39
+    images:
+      - url: "https://www.chicagotribune.com/resizer/IKSvJs0VdV6qE4WQl2bzj0vswNE=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/HQNYLJAB67LCEKJPPLFGS75BVQ.aspx"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Mercedes-Benz to launch Level 3 self-driving system in 2022 after gaining regulatory approval"
     excerpt: "Mercedes will launch its Level 3 self-driving system in Germany initially, but is already testing it in the U.S."

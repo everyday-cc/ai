@@ -7,7 +7,7 @@ originalUrl: "https://www.financialbuzz.com/baxter-presents-data-at-ashp-meeting
 webUrl: "https://www.financialbuzz.com/baxter-presents-data-at-ashp-meeting-indicating-machine-learning-may-enhance-infusion-pump-programming-safety/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "RSIP Vision Presents New Technology for Non-Invasive Planning of Coronary Intervention"
-    excerpt: "Dec 8, 2021-- RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, today announces a new coronary artery modelling technology."
-    publishedDateTime: 2021-12-08T14:06:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-middle-east-israel-9cf930ff76b14167a9236892bedcc7d7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 16
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "q3bdT4/IRNUROE4hPoXkym3SZXVp1gxHVkWyaBRVlLhZBJMHnxk2056R76eXFOYZuH0m4/iLwYcqbqzH2NLxcfXS1CSIsmj8EzC5FIxMkddyT5lzm23mIQcN0Tjnsiym3OitwNU+Y25a+FD8dO5CRQKp/hWZa4cwe9huoPaAuxXK12YBGUM06FJflY0Z0+WbYsKncg4a+ULdUl6SbTxp9fafTOWQE9sssdtuMY7u0EOHtFtZddCbjkUvLtwHFXtldP+GcWP0kJShYj5KLX0zky+Fzh9OILV8/CQ30oAEJj5LRu1i0zzufePVGfc7B8/wa6V6h5HE7YGy2hSDKo+r71oDfpXvyQPpTJF7JB1Vf7I=;PpNu2VO7wNpYFB2WdPHikQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2021-12-06/small-ai-sta
 webUrl: "https://www.bloomberg.com/opinion/articles/2021-12-06/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -58,15 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cohere and Google Cloud Partnering on AI"
-    excerpt: "The natural language processing (NLP) company Cohere and Google Cloud are entering an artificial intelligence (AI) partnership. See more here:"
-    publishedDateTime: 2021-12-06T12:10:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/cohere-and-google-cloud-partnering-on-ai/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 19
 
 secured: "f+0Db3Yj5oktTYQeABmBv0L+yN5Q5KL7iQgFy91MhYKpxhdxAkogRAS9+eyhEsaoOgEqcBWSR6KUSiUo4u0ts1ZSkr89xHF/d/LwrVZSXn0q7RjA7nozrESw60UjhElQ8U2ri2ev+AeUro4SMLkYJO6RE1Jqw3P7wUtQTG6e7w6P3oh6gDv5LtfutaqRUZS+duUqf64I9NWUToUq5vBRAFHO4Dee6XYUETtnp7KxQLUKqjdd65gsr5iB7On9EEwQN/z6vwrevsPsnKXSNcGDfcvHE1enMWB+tJp5joNLNZkE8A96ovFelpUnEOtwil9pGh9o5fTZspl1E1HEv7Mm8q1ApBUAvWAJ66wZJPnyjZ3P5QUxfNXoua5925u9ChK4dfF1RQzCR4PQmlFcMB5aV/+S1R69v1FSHppkMBpaw/cytdd9DLKeGD+pid+29uzXkzWHiaupTj7W9jLUw2bqfLfnKSl8ZPYVaPs15q43kLfenuvcR6YF4LTWT/i2b/WRFCSn7yrhfpD8JdZRF46ang==;iElmzXG14XxJJXr+nLp4pA=="
 ---

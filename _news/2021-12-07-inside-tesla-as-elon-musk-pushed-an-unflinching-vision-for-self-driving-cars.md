@@ -52,6 +52,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla drivers can play video games while driving. Federal safety regulators are asking why."
+    excerpt: "A recent over-the-air update pushed out by Tesla delivered an unexpected new feature — the ability for a motorist to play video games, even while driving — and"
+    publishedDateTime: 2021-12-10T19:56:00Z
+    webUrl: "https://www.nbcnews.com/business/autos/tesla-drivers-can-play-video-games-driving-federal-safety-regulators-a-rcna8381"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna8381"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna8381"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 79
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211210-tesla-al-1229-019969.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "‘As always’: Elon Musk tweets on recent Tesla hiring for AI engineers"
     excerpt: "US-based electric vehicle company Tesla is hiring AI engineers who are passionate about solving day-to-day problems through artificial intelligence."
     publishedDateTime: 2021-12-06T06:59:00Z

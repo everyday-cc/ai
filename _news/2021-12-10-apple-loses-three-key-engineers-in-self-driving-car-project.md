@@ -25,35 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Analyst: Apple shares could hit $200 as self-driving car and headset projects loom"
-    excerpt: "Analysts at Morgan Stanley now say that Apple shares could hit $200 as we inch closer to the launch of new products such as an augmented reality headset or self-driving car. Shares of Apple stock rose over 2."
-    publishedDateTime: 2021-12-07T14:48:00Z
-    webUrl: "https://9to5mac.com/2021/12/07/apple-shares-could-hit-200/"
-    ampWebUrl: "https://9to5mac.com/2021/12/07/apple-shares-could-hit-200/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/12/07/apple-shares-could-hit-200/amp/"
+  - title: "We now know what the self-driving Apple Car might look like"
+    excerpt: "Several rumors point to Apple possibly working on a self-driving car to one day rival Tesla. A British car leasing-company revealed what the car may look like."
+    publishedDateTime: 2021-12-10T18:01:00Z
+    webUrl: "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/?amp"
     type: article
     provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 38
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 74
     images:
-      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/01/apple-park.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/apple_car_render.jpg"
+        width: 757
+        height: 407
         isCached: true
-  - title: "Morgan Stanley hikes Apple price target, sees 21% upside from plans for smart glasses and self-driving car"
-    excerpt: "Morgan Stanley said it's time to consider the company's plans to launch an augmented reality product and self-driving car in the next few years."
-    publishedDateTime: 2021-12-07T09:02:00Z
-    webUrl: "https://cnbc.com/2021/12/07/morgan-stanley-hikes-apple-price-target-on-plans-for-ar-autonomous-vehicle.html"
+  - title: "Why LiDAR might be the future of self-driving cars"
+    excerpt: "Tesla has put a big bet on computer vision against LiDAR. The recent advances and low prices might help LiDAR challenge the industry leader."
+    publishedDateTime: 2021-12-08T15:55:00Z
+    webUrl: "https://www.themanufacturer.com/articles/why-lidar-might-be-the-future-of-self-driving-cars/?change_country=UK"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 36
+      name: Manufacturing
+      domain: themanufacturer.com
+    quality: 24
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106916376-1627075724207-gettyimages-1231271066-omarques_19022021_tech_5.jpeg?v=1627076581"
-        width: 4500
-        height: 3000
+      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/12/08154845/Why-LiDAR-Might-Be-the-Future-of-Self-driving-Cars-Final-Approved-2.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Apple loses key engineers from self-driving car project"
     excerpt: "Apple’s self-driving car project has lost three key engineers in recent weeks, adding to a rash of departures from a tumultuous business with daunting ambitions. Eric Rogers, billed as Apple’s chief engineer for radar systems on the project,"

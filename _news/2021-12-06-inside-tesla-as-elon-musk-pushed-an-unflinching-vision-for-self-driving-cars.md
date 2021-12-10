@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-m
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
 type: article
 quality: 88
-heat: 198
+heat: 208
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Felon-burn-money.jpg&signature=e036468bf08b9464f7f31ef7c598bb32"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Tesla drivers can play video games while driving. Federal safety regulators are asking why."
+    excerpt: "A recent over-the-air update pushed out by Tesla delivered an unexpected new feature — the ability for a motorist to play video games, even while driving — and"
+    publishedDateTime: 2021-12-10T19:56:00Z
+    webUrl: "https://www.nbcnews.com/business/autos/tesla-drivers-can-play-video-games-driving-federal-safety-regulators-a-rcna8381"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna8381"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna8381"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 79
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211210-tesla-al-1229-019969.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "‘As always’: Elon Musk tweets on recent Tesla hiring for AI engineers"
     excerpt: "US-based electric vehicle company Tesla is hiring AI engineers who are passionate about solving day-to-day problems through artificial intelligence."

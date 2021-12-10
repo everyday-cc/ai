@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/12/08/1041557/deepmind-languag
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/"
 type: article
 quality: 159
-heat: 230
+heat: 240
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2021/12/09143205/PRI_214116079.jpg?width=1200&enable=upscale"
         width: 1200
         height: 800
+        isCached: true
+  - title: "DeepMind Says Its New AI Has Almost the Reading Comprehension of a High Schooler"
+    excerpt: "Alphabet's AI research company DeepMind has released the next generation of its language model that almost has the reading comprehension of a high schooler."
+    publishedDateTime: 2021-12-10T20:21:00Z
+    webUrl: "https://futurism.com/deepmind-ai-reading-comprehension"
+    ampWebUrl: "https://futurism.com/deepmind-ai-reading-comprehension/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/deepmind-ai-reading-comprehension/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 69
+    images:
+      - url: "https://wp-assets.futurism.com/2021/12/deepmind-ai-reading-comprehension-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "DeepMind's Massive Gopher AI Language Model Can Have Surprisingly Natural Conversations"
     excerpt: "Google's DeepMind utilizes a 280 billion parameter language model named Gopher in its AI research, but it's not perfect."

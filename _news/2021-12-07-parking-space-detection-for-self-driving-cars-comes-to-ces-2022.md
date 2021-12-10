@@ -25,63 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Those Sordid Follow-Home Robberies To First Rise And Then Thankfully Decline During The Coming Era Of AI Self-Driving Cars"
-    excerpt: "Follow-home robberies are in the news quite a bit. For the coming era of AI self-driving cars, such criminal acts will at first be emboldened and then later be generally overcome as driverless cars become widespread."
-    publishedDateTime: 2021-12-08T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/amp/"
+  - title: "MORAI and dSPACE to Co-develop Autonomous Driving Validation Simulator"
+    excerpt: "MORAI-dSPACE deal greenlights co-simulation developmentIntegrating the strengths of both companies to generate synergy across autonomous driving"
+    publishedDateTime: 2021-12-09T14:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/morai-and-dspace-to-co-develop-autonomous-driving-validation-simulator-1031035733"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aefa7a83c2df708b6c19fd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2441%26cropY1%3D61%26cropY2%3D1435"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
-    excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists. To achieve this,"
-    publishedDateTime: 2021-12-08T23:46:00Z
-    webUrl: "https://www.malaymail.com/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
-    ampWebUrl: "https://www.malaymail.com/amp/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 55
-    images:
-      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-12/0912_argo_AI-seo.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Beyond Expo | Self-flying cars are closer to being realized than self-driving cars: Geely executive"
-    excerpt: "Despite regulatory barriers and ethical issues, self-flying cars are likely to be ready before autonomous road vehicles, Guo Liang, chief executive of Geely-owned Aerofugia said at the Beyond Expo event held in Macau on Dec. 3. The movements of unmanned ..."
-    publishedDateTime: 2021-12-08T12:18:00Z
-    webUrl: "https://technode.com/2021/12/08/beyond-expo-self-flying-cars-are-closer-to-being-realized-than-self-driving-cars-geely-executive/"
-    ampWebUrl: "https://technode.com/2021/12/08/beyond-expo-self-flying-cars-are-closer-to-being-realized-than-self-driving-cars-geely-executive/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/08/beyond-expo-self-flying-cars-are-closer-to-being-realized-than-self-driving-cars-geely-executive/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 30
-    images:
-      - url: "https://technode.com/wp-content/uploads/2021/12/tt.jpeg"
-        width: 1600
-        height: 1066
-        isCached: true
-  - title: "AI could stop crashes between self-driving cars, cyclists"
-    excerpt: "(Rawpixel pic) PARIS: Argo AI, a start-up specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially ... in turn prepare the actions of the self-driving vehicle as effectively as ..."
-    publishedDateTime: 2021-12-09T02:38:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2021/12/09/ai-could-stop-crashes-between-self-driving-cars-cyclists/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
 
 secured: "YyoIniEf/YpLU/XrAzP2YFKC2DnjdnVXwC1IVNzoLsChC+ne7HyrttmAAZvLrIIS9nOCotVjhUS3oJsM6K+Qvs/VDo0QlKYCX/a/X+xu/5ANTwhd2WWLq3nEQ3o5MllOMATr0vDPtV+z0yDCcEocOEdWxF47mcPr0LvM7ItXYZDR9dUmPBQ3MeBhYuOCs+n6d65NP53hVXUkL2+pWdv0sU5kCdGCvgPl5JboIex/PFAyO/0hxZrAZyo83cmm2V1H+Qb34bdjXoUkLXOCrv5VYeVw/orGVyro658Sb8Bzj9vao+NSLYDxSkr7AbDuL7WtXWpGhpeac1lFBS4P3o3iciTQiPGu5s3ysh6CvjQErMx2j1EAFRg+g/cVfa8iSLzVkt28RUfzWRK08NegBfCA9hrQ64/iMtXvBf0WEpZ54vRTe/CCPf4v0OClyi5pBABLVoxsufqv0yMXLFFWO9yGKiSGOwZRtrz4l+4miVplP0LJKbwN0o1Du4gyqKTIM7Ri8a54t/MQsTQNkUbi93ggEQ==;WHI1+RxmLauHLplTI+5f8w=="
 ---

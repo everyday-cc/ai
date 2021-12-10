@@ -172,6 +172,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Local startup Forward Edge-AI gets Microsoft funding for pathogen-detecting device"
+    excerpt: "Forward Edge has been working with Sam Houston State University to develop a device able to detect 32 different pathogens, including the virus that causes Covid-19."
+    publishedDateTime: 2021-12-10T19:02:00Z
+    webUrl: "https://www.bizjournals.com/sanantonio/news/2021/12/10/forward-edge-ai-gets-funding-from-microsoft.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 28
 
 secured: "AscaqVHsSyI26UA1+iEJ78pVmca8YxiZX8S9UzUQjGgNLDxguYh5mqVNOzEP2mpJ6JRtLj7m3PNUY1QKpIkHuXq3ibfpftxJlzClPX/ddbplUxlZ5hPJ1UPh7oOo1hPqtwGc3DjMON7eoqxntW+31woTnWg6uMK2hX5FD74S8qFlEbJR7pYKHr7pX9JZlYi5+9hXNo3g3wJ8AJG1WuofSA9OgObTQWdLspdMC8HLJan9OIunQBCIBscHHf1mWxHX1Gx11r8mvjDrnanqvxWS/UN2xuvl3NbAx8PgkfcuzCxJIPwQP7TE4abz4GV36pgOB9WuvukBIurRV9Pz+oqYqamJXznDj7caRwMM7TfZKsAh9LtBCTg3PuxmTfM1l9BlXTFidq7xd/QEYMvYBaloUM0x36F55Mdd81gHpn8xeayUfopwbI9zfttaSsuZwAHtP4E1PG2FNopS5fylrzcbrkzRgQLFtzg7ZZUFHUyUHoLLHKv07/2pv98sNp0WmVuRTCZPXtIHWIzON8Tv+9t5dA==;rJbV++/3d04Q0pYpOb/jnQ=="
 ---

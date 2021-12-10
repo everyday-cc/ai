@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-foll
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/amp/"
 type: article
 quality: 63
-heat: 103
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "AI is thriving on and driving the edge"
+    excerpt: "The edge is an ideal environment for AI largely because it's still in the greenfield stage of development and has been so widely distributed."
+    publishedDateTime: 2021-12-10T20:45:00Z
+    webUrl: "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/"
+    ampWebUrl: "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1168105746-e1639167996694.jpg?fit=800%2C475&strip=all"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "AI is making better therapists"
+    excerpt: "Researchers are using AI to examine the language used by therapists. It could lead to more people getting better, and staying better."
+    publishedDateTime: 2021-12-06T10:12:00Z
+    webUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/"
+    ampWebUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
   - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
     excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists. To achieve this,"
     publishedDateTime: 2021-12-08T23:46:00Z
@@ -47,44 +79,70 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Beyond Expo | Self-flying cars are closer to being realized than self-driving cars: Geely executive"
-    excerpt: "Despite regulatory barriers and ethical issues, self-flying cars are likely to be ready before autonomous road vehicles, Guo Liang, chief executive of Geely-owned Aerofugia said at the Beyond Expo event held in Macau on Dec. 3. The movements of unmanned ..."
-    publishedDateTime: 2021-12-08T12:18:00Z
-    webUrl: "https://technode.com/2021/12/08/beyond-expo-self-flying-cars-are-closer-to-being-realized-than-self-driving-cars-geely-executive/"
-    ampWebUrl: "https://technode.com/2021/12/08/beyond-expo-self-flying-cars-are-closer-to-being-realized-than-self-driving-cars-geely-executive/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/08/beyond-expo-self-flying-cars-are-closer-to-being-realized-than-self-driving-cars-geely-executive/"
+  - title: "Enforcement on the Edge: Artificial Intelligence and Machine Learning in Federal Law Enforcement"
+    excerpt: "Federal law enforcement agencies are consistently on the lookout for innovation that can help protect American citizens and borders. These activities are becoming increasingly field-based, which in turn demands that rapid analysis of the information gathered must move to the edge too."
+    publishedDateTime: 2021-12-10T08:04:00Z
+    webUrl: "https://www.defenseone.com/assets/enforcement-edge-artificial-intelligence-and-machine-learning-federal-law-enforcement.pdf"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 30
+      name: Defense One
+      domain: defenseone.com
+    quality: 41
     images:
-      - url: "https://technode.com/wp-content/uploads/2021/12/tt.jpeg"
-        width: 1600
-        height: 1066
+      - url: "https://cdn.defenseone.com/media/screen_shot_2021-11-18_at_11.40.45_am.png"
+        width: 1812
+        height: 1356
         isCached: true
-  - title: "Parking space detection for self-driving cars comes to CES 2022"
-    excerpt: "Software developer StradVision will showcase its latest software developments including parking space detection features and vision perception for augmented reality applications at the upcoming CES 2022 trade show in Las Vegas."
-    publishedDateTime: 2021-12-07T13:31:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17504/parking-space-detection-for-self-driving-cars-comes-to-ces-2022"
+  - title: "Agricultural AI on the upswing"
+    excerpt: "Wall Street Journal, explaining rising interest in AI technology. “To do so farmers need to monitor a constant stream of data on plants, soil and atmospheric conditions.” There is also a labor and monetary factor."
+    publishedDateTime: 2021-12-07T18:11:00Z
+    webUrl: "https://theproducenews.com/technology/agricultural-ai-upswing"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
+      name: The Produce News
+      domain: theproducenews.com
+    quality: 39
     images:
-      - url: "https://electronics360.globalspec.com/images/assets/504/17504/software.png"
-        width: 752
-        height: 422
+      - url: "https://theproducenews.com/sites/default/files/styles/fp_slider/public/2021-12/raleys.jpg?h=3ca652f7&itok=SQaNC2UZ"
+        width: 635
+        height: 355
         isCached: true
-  - title: "AI could stop crashes between self-driving cars, cyclists"
-    excerpt: "(Rawpixel pic) PARIS: Argo AI, a start-up specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially ... in turn prepare the actions of the self-driving vehicle as effectively as ..."
-    publishedDateTime: 2021-12-09T02:38:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2021/12/09/ai-could-stop-crashes-between-self-driving-cars-cyclists/"
+  - title: "How Artificial Intelligence is Driving Holiday Shopping Revenues"
+    excerpt: "Artificial Intelligence tools continue to become more effective, affordable, and accessible for retailers of all sizes; they will be better equipped to make the most of the critical holiday shopping season."
+    publishedDateTime: 2021-12-08T20:04:00Z
+    webUrl: "https://www.mytotalretail.com/article/how-artificial-intelligence-is-driving-holiday-shopping-revenues/"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
+      name: Total Retail
+      domain: mytotalretail.com
+    quality: 37
+    images:
+      - url: "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/12/GettyImages-1327336888.jpg&w=750&h=340"
+        width: 750
+        height: 340
+        isCached: true
+  - title: "How artificial intelligence is changing the mergers and acquisitions process"
+    excerpt: "Babst Calland's W. Dane Fennell and Christian A. Farmakis dive into how AI is transforming due diligence in the legal marketplace."
+    publishedDateTime: 2021-12-07T22:30:00Z
+    webUrl: "https://www.sbnonline.com/article/how-artificial-intelligence-is-changing-the-mergers-and-acquisitions-process/"
+    type: article
+    provider:
+      name: Smart Business Magazine
+      domain: sbnonline.com
+    quality: 34
+    images:
+      - url: "https://www.sbnonline.com/wp-content/uploads/2021/12/DaneFennell_BabstCalland.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Cohere and Google Cloud Partnering on AI"
+    excerpt: "The natural language processing (NLP) company Cohere and Google Cloud are entering an artificial intelligence (AI) partnership. See more here:"
+    publishedDateTime: 2021-12-06T12:10:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/cohere-and-google-cloud-partnering-on-ai/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
     quality: 19
 
 secured: "MFnn/LpEG0oMkiUzly8ksgvn8P/o8wWOCr7UT6x+ZjrNW3IO3eV9oIvBaMD7GdA8p5TIzquJf+m4AqF6A/5BV86QXQRauY2PsBEeCgymnrJOA4tWfHx1giOYBzQU+Tpg0I5xZDUDQNlZVdRLBFkM0uXhv8lZed0Jr7yPfgPAjQEL03itAgfoV6Um+4oIkQ0FJEIMy1VKf5twL/GeqR17XzV9vgyRUzZgTKOsHvwGDiqBZSuNSEpLHjW6mK5GTmdHNebALYJGo+zwPwsiZlEBm7PUY7CXQ88UAP6U/DFTsw+kcA384P+PiW5jmShHs8CMinZSWK3iDIYzdNKcg5cwv82IyVD9StQLaOj0/ixnaXwZ3Kl7DKDPb6FQTJ1/tyalMLQpUAbvhSyEgsAbxsxHaSCsSDRYCRkRxpF6oiseQeog9PFdJpeoS/NTpxtkOuhvlps7j5AB/jryUfz3ylSunsFJvDnx6uL0uEPWIairPeDGIhB7RlE1Px8isEEY8uA8WkRSJ1tMzuM3yecKk5yZEA==;NAiy4Le9JWgzpOFWOSNd5w=="

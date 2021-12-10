@@ -49,22 +49,6 @@ related:
         width: 1200
         height: 400
         isCached: true
-  - title: "AI is making better therapists"
-    excerpt: "Researchers are using AI to examine the language used by therapists. It could lead to more people getting better, and staying better."
-    publishedDateTime: 2021-12-06T10:12:00Z
-    webUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/"
-    ampWebUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 61
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Ancient information combined with Artificial Intelligence aimed at creating wealth and well-being"
     excerpt: "The “tea, spices and wellness” project led by Ioncure Tech Pvt Ltd, aims to connect herb cultivators in remote tribal areas with urban consumers, building a sustainable supply chain using AI"
     publishedDateTime: 2021-12-08T16:30:00Z

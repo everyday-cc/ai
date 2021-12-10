@@ -45,34 +45,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple loses key engineers from self-driving car project"
-    excerpt: "Apple’s self-driving car project has lost three key engineers in recent weeks, adding to a rash of departures from a tumultuous business with daunting ambitions. Eric Rogers, billed as Apple’s chief engineer for radar systems on the project,"
-    publishedDateTime: 2021-12-09T08:27:00Z
-    webUrl: "https://www.irishtimes.com/business/technology/apple-loses-key-engineers-from-self-driving-car-project-1.4750969"
-    type: article
-    provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 24
-    images:
-      - url: "https://www.irishtimes.com/image-creator/?id=1.4750968&origw=1275"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Apple Loses Three Key Engineers in Self-Driving Car Project"
-    excerpt: "Apple has reportedly has lost a number of key engineers in its self-driving car project to a pair of Silicon Valley air taxi companies in recent weeks."
-    publishedDateTime: 2021-12-09T19:10:00Z
-    webUrl: "https://www.iphoneincanada.ca/news/apple-engineers-car/"
-    type: article
-    provider:
-      name: iPhone in Canada
-      domain: iphoneincanada.ca
-    quality: 24
-    images:
-      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2021/12/archer-640x427.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "LIKS93AnESgTsqkuVAofyO1ok3nV0tJLoWekduk3oGRJbln6kDU0XmkJzBMZmDDrK8+UosDhSoiNPVMmJ7Sz/0qfnQKcm6vCf3drl57T/JIWUzgQCmytN1GRleiuMMnpM5HA9ISIl/MEocGU1naTDXsdE+KQ3tj26YZmfMaNtvJFUiRHvvpW9ujv8K3+uX3d8XFrgCuWQ7zl1WV0cu+b3vYRvHbMt6vcJfsft0dOKHeXDX2t4pISn2Bs79AcG0vDgSeP1s8FFiZbUAoA7Bd39ZhpMHK1pnZiRv8dUSUHLtBeLqMKVtDTuXiRZCkf+mvXQYljVPnIssze36xv5NZ8A33SI02W7Owt5io6QtApalW6ooy+bZkdLFAcqljQw9LpKjSTXvNdmTQyzIGcaKE0VcajbQex9VUWixZBayuBTc6Cg+Mm86MKZXBnsQeCX6zFUT9MONJa2+/c9JY/a3iv7pVtwN1lrAAonpWdy27896aIDzLdn8DYthkJNzMHSDNk1TvYAcyj2/4iOI9SGXhwrA==;J1kwOlPuS3ZlHZJIByGAsQ=="
 ---

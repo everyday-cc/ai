@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-middle-east-israel-9cf930ff76b14167a9236892bedcc7d7"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Baxter Presents Data at ASHP Meeting Indicating Machine Learning May Enhance Infusion Pump Programming Safety"
-    excerpt: "Baxter International Inc. (NYSE:BAX), a leader in innovative technology for medication delivery, announced new data from a retrospective study finding that machine learning, a type of artificial intelligence (AI) that uses algorithms to find patterns in large amounts of data,"
-    publishedDateTime: 2021-12-08T13:30:00Z
-    webUrl: "https://www.financialbuzz.com/baxter-presents-data-at-ashp-meeting-indicating-machine-learning-may-enhance-infusion-pump-programming-safety/"
+  - title: "RSIP Vision unveils coronary artery 3D reconstructions"
+    excerpt: "Computer software and artificial intelligence firm RSIP Vision has introduced software that generates 3D reconstructions of coronary arteries from angiography exams."
+    publishedDateTime: 2021-12-10T19:07:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=134526"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 24
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_09_14_17_40_3190_heart_artificial_intelligence_AI_400.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "a1td/h+JTg9++ng5AcN5B9Udj/w9pw/xIGYQATTOoEFO2R9CT8DznquUxvZl+NkEeV7EHln/df8oeQHgdz7qRfakhUC9oRq2S4x8dkjQ24HYEB+UWkEgL9H4ww9Jh47TA+jPA00VVzUKSMkIMLNSUXJQUg6GzOR1jGghkLZYpvn89TYfcxFmqQXFickrcyh9qFLDwktu7dHG96eg1JoSeVts/7qEGffzJEWVymUblqOFKt7NzvytS/TNhhGCYxRQ4j53zhcpDZRJppxk/khku1ucTiL9p+9bDayxax6wCm1VlfmcPTpY+8FSOeWo/WPghz1GomTCy4PXYPl65wv2ZP6eC7G+PnpdbkrPQYDotoQ=;2y1I29eol/HTU3pZRFWNJQ=="
 ---

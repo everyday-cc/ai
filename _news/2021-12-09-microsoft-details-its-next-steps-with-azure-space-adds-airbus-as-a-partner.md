@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-details-its-next-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
 type: article
 quality: 117
-heat: 217
+heat: 227
 published: true
 
 provider:
@@ -176,6 +176,15 @@ related:
         width: 940
         height: 443
         isCached: true
+  - title: "Local startup Forward Edge-AI gets Microsoft funding for pathogen-detecting device"
+    excerpt: "Forward Edge has been working with Sam Houston State University to develop a device able to detect 32 different pathogens, including the virus that causes Covid-19."
+    publishedDateTime: 2021-12-10T19:02:00Z
+    webUrl: "https://www.bizjournals.com/sanantonio/news/2021/12/10/forward-edge-ai-gets-funding-from-microsoft.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 28
 
 secured: "ZoA3Gi/nurEwukM76aQe9rfExrm2+zWIGYTlCodFZ6IoM6FZ7vWfvs4smglosoMKjjwP0dBdHsngOAB3D3oLwzp2HQAilMiQsubloUKItBVGkiE2KE5ZaYvPAm3WfXen/0cayL5TDmLZ7FORBRGTJxfhiHiElylr6NToKF/NCz5SjBN9U2LB0RMZi24std+Thzu46DEpyOlpcKJx3n1d7mU+ohoFCmkshw/UXRya0acWLNhNd1ptLrK10dtSxIoY2UBuOMGYHa7YLeCAFhsGM77yYtN5wtNwC+YTyoEeNnZfvEoynirTaWcJCakMgPimO/y54VQZuMeXLurUT/c4DqPnTg5KYaeeJwwwWtfrenjszluS//K5SDLUjn/1ysubWam0sjrQ7Qpg2uWGQzf9SXvxPmuo9Hn52f/+wBAQ2h8S8ZTpt58Z/+G/zR8TT+MQpFQu1g5k3XRfNLe1rQmP9F5DGflLGMjsv1yZjFXdAhi+L69srC0IrQG3eFCBuByW0ygUlV55BxYtCPN/aM/tqg==;qnFe6KMNVVaONhISkG0fug=="
 ---

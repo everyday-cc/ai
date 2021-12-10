@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DeepMind Says Its New AI Has Almost the Reading Comprehension of a High Schooler"
+    excerpt: "Alphabet's AI research company DeepMind has released the next generation of its language model that almost has the reading comprehension of a high schooler."
+    publishedDateTime: 2021-12-10T20:21:00Z
+    webUrl: "https://futurism.com/deepmind-ai-reading-comprehension"
+    ampWebUrl: "https://futurism.com/deepmind-ai-reading-comprehension/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/deepmind-ai-reading-comprehension/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 69
+    images:
+      - url: "https://wp-assets.futurism.com/2021/12/deepmind-ai-reading-comprehension-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "DeepMind's Massive Gopher AI Language Model Can Have Surprisingly Natural Conversations"
     excerpt: "Google's DeepMind utilizes a 280 billion parameter language model named Gopher in its AI research, but it's not perfect."
     publishedDateTime: 2021-12-09T17:01:00Z

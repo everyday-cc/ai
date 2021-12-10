@@ -35,20 +35,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 37
-  - title: "Driver shortage worsens as industry dreams of self-driving trucks"
-    excerpt: "A truck driver shortage is contributing to ongoing supply chain issues in the U.S. — and making the thought of driverless trucks even more appealing."
-    publishedDateTime: 2021-12-06T04:00:00Z
-    webUrl: "https://www.autonews.com/shift/driver-shortage-worsens-industry-dreams-self-driving-trucks"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/SEMI-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "GdlhF1gs/cNcTCJIuGQVkOCzDm6yhF8h/Eh4UhbaWnOn6EbxzKmoekYtjQCorGc0LMM0fcXA35uTL2oi3SCJJe1oAtECh1rjzLenxi14W5aTWLCbmFyYbzzwAjGHrVUx6J0t5ABmIUb/bfpVM+DeiFOaN1r3VnpsNDpCHouLEMLiFlYME1A7c84ZbBWiMBUFMUOHYlHgYKSdRslL/9zwDuMb0nz5Mh/RJOy+SEwCQ+t9gs80R6IOLb02OnjXvxElzXTbOP/MUkXE2j7/YR3ZWdQMad/uoRky7Mv8sTu/C7RYHQmvXpO94Td8gpoLd0uJUeJ6kt0+JAwKMLuu47vYEW8mjW4yHjzqId9fUZUAJ49iQ1b6KBaI5GXtt0Hn5HgMAPrm69YmdV4fTpimX8DyeZELQ2+b0TXhPK2vYqIZYLojpigM5iTXrATcK+M3baBlx+Elx+i3SGm4vSccpmauW9W57R8Tdx2KOi5XcvFOnyR1J0LfEPn+0ua1UpQbrbfnuFmrNQEgZ5bdzUSvGRtdow==;06uppqaKq34MkcYTbos7mQ=="
 ---

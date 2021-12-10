@@ -28,107 +28,119 @@ images:
     isCached: true
 
 related:
-  - title: "Simulating matter on the quantum scale with AI"
-    excerpt: "Using neural networks to model electron interactions in molecules and materials, advancing the state-of-the-art towards the long-standing challenge of the density functional in quantum chemistry"
-    publishedDateTime: 2021-12-09T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI"
+  - title: "AI is thriving on and driving the edge"
+    excerpt: "The edge is an ideal environment for AI largely because it's still in the greenfield stage of development and has been so widely distributed."
+    publishedDateTime: 2021-12-10T20:45:00Z
+    webUrl: "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/"
+    ampWebUrl: "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://lh3.googleusercontent.com/sbg0s5HRyjgaED1YsDARdTCWIS4nO0lR2kaC1j0016qpQa6rM7G26aIUSOWfgZATVsh0jRZ1v3Jjfb8Yd4nzX-0OYrHSK1u0NJO5b51kCqPlGuAGdQ"
-        width: 512
-        height: 288
-        isCached: true
-  - title: "The power of AI can be unleashed with a focus on ethics"
-    excerpt: "An EY survey reveals the public’s concerns around the growing use of artificial intelligence – but also the opportunities for organisations that take the right ethical approach."
-    publishedDateTime: 2021-12-09T06:00:00Z
-    webUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics"
-    ampWebUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 74
-    images:
-      - url: "https://www.computerweekly.com/visuals/German/article/ethics-morals-3-adobe.jpg"
-        width: 1200
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1168105746-e1639167996694.jpg?fit=800%2C475&strip=all"
+        width: 800
         height: 400
         isCached: true
-  - title: "Ancient information combined with Artificial Intelligence aimed at creating wealth and well-being"
-    excerpt: "The “tea, spices and wellness” project led by Ioncure Tech Pvt Ltd, aims to connect herb cultivators in remote tribal areas with urban consumers, building a sustainable supply chain using AI"
-    publishedDateTime: 2021-12-08T16:30:00Z
-    webUrl: "https://www.nationalheraldindia.com/science-tech/ancient-information-combined-with-artificial-intelligence-aimed-at-creating-wealth-and-well-being"
-    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/science-tech/ancient-information-combined-with-artificial-intelligence-aimed-at-creating-wealth-and-well-being"
-    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-tech/ancient-information-combined-with-artificial-intelligence-aimed-at-creating-wealth-and-well-being"
+  - title: "Those Sordid Follow-Home Robberies To First Rise And Then Thankfully Decline During The Coming Era Of AI Self-Driving Cars"
+    excerpt: "Follow-home robberies are in the news quite a bit. For the coming era of AI self-driving cars, such criminal acts will at first be emboldened and then later be generally overcome as driverless cars become widespread."
+    publishedDateTime: 2021-12-08T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/08/those-sordid-follow-home-robberies-to-first-rise-and-then-thankfully-decline-during-the-coming-era-of-ai-self-driving-cars/amp/"
     type: article
     provider:
-      name: National Herald
-      domain: nationalheraldindia.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 63
     images:
-      - url: "https://gumlet.assettype.com/nationalherald%2F2021-08%2F7861b76f-0b7c-41ce-ab55-bdae2c7f09ae%2F19284592_403.jpg?rect=0%2C18%2C940%2C494&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 940
-        height: 494
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aefa7a83c2df708b6c19fd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2441%26cropY1%3D61%26cropY2%3D1435"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Simulating matter on the nanoscale with AI"
-    excerpt: "In a paper published today in the scientific journal Science, DeepMind demonstrates how neural networks can be used to describe electron interactions in chemical systems more accurately than existing methods."
-    publishedDateTime: 2021-12-09T19:00:00Z
-    webUrl: "https://phys.org/news/2021-12-simulating-nanoscale-ai.html"
-    ampWebUrl: "https://phys.org/news/2021-12-simulating-nanoscale-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-simulating-nanoscale-ai.amp"
+  - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
+    excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists. To achieve this,"
+    publishedDateTime: 2021-12-08T23:46:00Z
+    webUrl: "https://www.malaymail.com/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
+    ampWebUrl: "https://www.malaymail.com/amp/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/drive/2021/12/09/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cycl/2027106"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
+      name: malaymail
+      domain: malaymail.com
+    quality: 55
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/nanotechnology-1.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-12/0912_argo_AI-seo.jpeg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Evaluating Chronic Disease Progression With Artificial Intelligence"
-    excerpt: "With artificial intelligence, University of Buffalo researchers have developed a novel system that models chronic disease progression as patients age. The AI model examines metabolic and cardiovascular biomarkers to determine the health status and disease risks across a patient’s lifespan."
-    publishedDateTime: 2021-12-09T17:00:00Z
-    webUrl: "https://healthitanalytics.com/news/evaluating-chronic-disease-progression-with-artificial-intelligence"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
+  - title: "Enforcement on the Edge: Artificial Intelligence and Machine Learning in Federal Law Enforcement"
+    excerpt: "Federal law enforcement agencies are consistently on the lookout for innovation that can help protect American citizens and borders. These activities are becoming increasingly field-based, which in turn demands that rapid analysis of the information gathered must move to the edge too."
+    publishedDateTime: 2021-12-10T08:04:00Z
+    webUrl: "https://www.defenseone.com/assets/enforcement-edge-artificial-intelligence-and-machine-learning-federal-law-enforcement.pdf"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 57
+      name: Defense One
+      domain: defenseone.com
+    quality: 41
     images:
-      - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
-        width: 480
-        height: 278
+      - url: "https://cdn.defenseone.com/media/screen_shot_2021-11-18_at_11.40.45_am.png"
+        width: 1812
+        height: 1356
         isCached: true
-  - title: "Saving Lives With Artificial Intelligence"
-    excerpt: "A new technology developed at Tel Aviv University will make it possible, using artificial intelligence, to identify patients who are at risk of serious"
-    publishedDateTime: 2021-12-07T11:59:00Z
-    webUrl: "https://hamodia.com/2021/12/07/saving-lives-with-artificial-intelligence/"
+  - title: "Agricultural AI on the upswing"
+    excerpt: "Wall Street Journal, explaining rising interest in AI technology. “To do so farmers need to monitor a constant stream of data on plants, soil and atmospheric conditions.” There is also a labor and monetary factor."
+    publishedDateTime: 2021-12-07T18:11:00Z
+    webUrl: "https://theproducenews.com/technology/agricultural-ai-upswing"
     type: article
     provider:
-      name: Hamodia
-      domain: hamodia.com
+      name: The Produce News
+      domain: theproducenews.com
+    quality: 39
+    images:
+      - url: "https://theproducenews.com/sites/default/files/styles/fp_slider/public/2021-12/raleys.jpg?h=3ca652f7&itok=SQaNC2UZ"
+        width: 635
+        height: 355
+        isCached: true
+  - title: "How Artificial Intelligence is Driving Holiday Shopping Revenues"
+    excerpt: "Artificial Intelligence tools continue to become more effective, affordable, and accessible for retailers of all sizes; they will be better equipped to make the most of the critical holiday shopping season."
+    publishedDateTime: 2021-12-08T20:04:00Z
+    webUrl: "https://www.mytotalretail.com/article/how-artificial-intelligence-is-driving-holiday-shopping-revenues/"
+    type: article
+    provider:
+      name: Total Retail
+      domain: mytotalretail.com
     quality: 37
     images:
-      - url: "https://images.hamodia.com/hamod-uploads/2021/12/07050423/7f5fe743e5056f0e35e13f7dc7924882.jpg"
-        width: 580
-        height: 330
+      - url: "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/12/GettyImages-1327336888.jpg&w=750&h=340"
+        width: 750
+        height: 340
         isCached: true
-  - title: "DeepMind simulates matter on the nanoscale with AI"
-    excerpt: "In a paper published by Science, DeepMind demonstrates how neural networks can improve approximation of the Density Functional (a method used to describe electron interactions in chemical systems). This illustrates deep learning’s promise in accurately simulating matter at the quantum mechanical level."
-    publishedDateTime: 2021-12-09T19:34:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/936901"
+  - title: "How artificial intelligence is changing the mergers and acquisitions process"
+    excerpt: "Babst Calland's W. Dane Fennell and Christian A. Farmakis dive into how AI is transforming due diligence in the legal marketplace."
+    publishedDateTime: 2021-12-07T22:30:00Z
+    webUrl: "https://www.sbnonline.com/article/how-artificial-intelligence-is-changing-the-mergers-and-acquisitions-process/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Smart Business Magazine
+      domain: sbnonline.com
     quality: 34
+    images:
+      - url: "https://www.sbnonline.com/wp-content/uploads/2021/12/DaneFennell_BabstCalland.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Cohere and Google Cloud Partnering on AI"
+    excerpt: "The natural language processing (NLP) company Cohere and Google Cloud are entering an artificial intelligence (AI) partnership. See more here:"
+    publishedDateTime: 2021-12-06T12:10:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/cohere-and-google-cloud-partnering-on-ai/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 19
 
 secured: "QTSKaYv3CE3vyzCOxA/pNQ3IAa7RIuRHEkHGUozLi452J6QRFyZkwQ40WbWsso/3jYgYctnlw4FNz0wx/patMOef7TE3+UNCuz63SNFtUqk40ATJAYwMAoq8nepJU0moJPcliYOQBYeb+tOjsfdEq/nSORH3OzPntmkaw3inpyL/vIxlYmHBJd5uchUxxEDr7dWwr8p2l+1E8ngF7wFDdftCjoB/53XroW/CZ3UVpLSv2uIhjYxSC7J6JyypkJZFXkD+SNR+HBdYPNB8YOmNuq75zfKc76fHbwzB/57OvzF4yuHnd9ID/Tq0NLA7ZChx+4y0webhDQliiV7sdDGFQbsHencxyJyZj/lI8795n4HsxRUhuGp4AI36Zp8bMyAhYwZTHRp4qBv0F9lpyyRl/FDwHBsgaCqU+GBzjozqF3VCbKdBtaD6ovYdLYkOXsanfGfWusn8lYLy87Ui5nB8JnQ7+iL4daCysg5vAy2vWZlexGbQxqPHYJK+BUAJKHkJlME8ym8XQxJ4vU0WCbgadw==;vaW5feKXRjUh0vlokPUF0Q=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chan Zuckerberg Initiative Pledges $500 Million for AI Institute at Harvard"
+    excerpt: "Mark Zuckerberg and Priscilla Chan ’07 pledged $500 million over the next 15 years to found the Kempner Institute for the Study of Natural and Artificial Intelligence at Harvard, the Chan Zuckerberg Initiative announced Tuesday."
+    publishedDateTime: 2021-12-10T19:49:00Z
+    webUrl: "https://www.thecrimson.com/article/2021/12/8/chan-zuckerberg-donates-500-million/"
+    type: article
+    provider:
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 37
+    images:
+      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2021/05/25/180043_1350406.jpeg.2000x1500_q95_crop-smart_upscale.jpg"
+        width: 2000
+        height: 1500
+        isCached: true
   - title: "Fueling Research Or Another Publicity Stunt? The Truth Behind Zuckerberg-Funded AI Institute"
     excerpt: "Zuckerberg and Chan have committed $500 million over the next 15 years towards the Kempner Institute for the Study of Natural and Artificial Intelligence."
     publishedDateTime: 2021-12-09T11:30:00Z
