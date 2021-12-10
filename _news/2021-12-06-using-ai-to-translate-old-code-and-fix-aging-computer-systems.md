@@ -7,8 +7,8 @@ originalUrl: "https://www.uab.edu/reporter/research/grants-awarded/item/9683-usi
 webUrl: "https://www.uab.edu/reporter/research/grants-awarded/item/9683-using-ai-to-translate-old-code-and-fix-aging-computer-systems"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Kaleido Scope
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Scientists Are Using AI to Understand Climate Change"
+    excerpt: "The climate is changing faster than ever before. Machine learning could be a key understanding how--and to what extent. That's according to Karen A. McKinnon, assistant professor at UCLA's Institute of the Environment and Sustainability."
+    publishedDateTime: 2021-12-08T19:09:00Z
+    webUrl: "https://www.inc.com/kevin-j-ryan/machine-learning-climate-change-neurips.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1232186180_489523_ljsza6.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Cloud Computing, Neuroimaging, AI, and the Urgent Need to Address the Global Dementia Crisis"
     excerpt: "With COVID surging and retreating across different regions of the globe, it may be a while before we can assess the full measure of what the pandemic has to teach us about health at both the individual and community level."
     publishedDateTime: 2021-12-07T15:55:00Z

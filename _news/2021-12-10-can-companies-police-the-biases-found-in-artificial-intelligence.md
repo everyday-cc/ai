@@ -2,25 +2,25 @@
 category: news
 title: "Can companies police the biases found in artificial intelligence?"
 excerpt: "How can bias be removed from artificial intelligence? NPR's Audie Cornish talks with Kenneth Chenault, co-chair of the Data and Trust Alliance, on how corporations can take steps to make that happen."
-publishedDateTime: 2021-12-09T21:58:00Z
-originalUrl: "https://www.capradio.org/news/npr/story?storyid=1062791766"
-webUrl: "https://www.capradio.org/news/npr/story?storyid=1062791766"
+publishedDateTime: 2021-12-09T20:51:00Z
+originalUrl: "https://www.kuow.org/stories/can-companies-police-the-biases-found-in-artificial-intelligence"
+webUrl: "https://www.kuow.org/stories/can-companies-police-the-biases-found-in-artificial-intelligence"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Capital Public Radio
-  domain: capradio.org
+  name: KUOW
+  domain: kuow.org
 
 topics:
   - AI
 
 images:
-  - url: "https://www.capradio.org/images/share/placeholder.jpg"
-    width: 1200
-    height: 628
+  - url: "https://kuow-prod.imgix.net/store/48a3e099e3a28e297f37554252d04e90.png?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=402&w=402"
+    width: 402
+    height: 402
     isCached: true
 
 related:
@@ -48,6 +48,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "FWCXzuuR7HoB9C/q/unqz//20vQzcqzwY2egj4WhIGSoN9LKSLU7CIzQBe3dpSa+HAgDKiSsn2hLp/nMdHaJAHsXkkTLpq6E4VcV55vWydxGad2nW9sO0XsoJib9Gba8LjeJeUYHBb+qSd+JE2OWqS2+ui+8Chz8jHYJCj323CzuskgTJLadMrjtQV+ssw1Kq3nfCDO3k44zpnUhwsgKXkhWpr4JnBiS4Suc3gtjo5pJj4N/UXdPUr2VJv0QCyqL4IX0trLjoogigXPHXSCQfexo3XBBUQwnee7NEgWBpkN8hSyZ2ULUMD4n+w3lhya2+nX5XtAF72samLAp6j1NglKEAtUMIof7ELEmScMfpIk=;qPBJUHCtOg/d7+bgsp1Tnw=="
+secured: "oMBhBH3kiy+EmFbqkIHmTo/SkRLsKFFkwoAov7EfdKMUj4pPFqh7Cw4iZ6aa8hdlmH4uo6PyJjHVLJeRl5i/mNOvbcT6lhHS7TpIwDY+BYfxXY+bW5WE4f1o/4u4Zscx5dgBg7cuRktRVQcwN8bLF8STTP58qYsDjF8cD5pIyAAIqx72fHwR+XHkJ/JNz7aEcyWqOkeH2NNeQYyrTTz5UHlHP1q2EyTAg7b1ztzg3DoJi6gEGkhXa+5Cc4Zb5mZvo9Hy7d9Oplg+hMJEcf3WTYnsmO7zFYXlkbU8E/78jLkFpll5mhypbqdvaA+puX8DsyWorffh4M7iSdJUOBu4tH+IgbnwZMiF80f/jxHcdaA=;WKrAA9U805iNiPTZ7IDIeA=="
 ---
 

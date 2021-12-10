@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Robotaxi race opens up as top contender Waymo in low gear in Arizona"
-excerpt: "(Reuters) – Alphabet Inc’s Waymo risks losing its lead in the ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ..."
-publishedDateTime: 2021-12-08T19:23:00Z
-originalUrl: "https://www.fxempire.com/news/article/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race-834044"
-webUrl: "https://www.fxempire.com/news/article/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race-834044"
-ampWebUrl: "https://amp.fxempire.com/en/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race/834044"
-cdnAmpWebUrl: "https://amp-fxempire-com.cdn.ampproject.org/c/s/amp.fxempire.com/en/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race/834044"
+excerpt: "Alphabet Inc's Waymo risks losing its lead in the ... of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field."
+publishedDateTime: 2021-12-08T19:49:00Z
+originalUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
+webUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: FXEmpire.com
-  domain: fxempire.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://responsive.fxempire.com/cover/615x410/_n/_fxempire_/2021/12/tagreuters.com2021newsml_LYNXMPEHB70O42.jpg"
-    width: 615
-    height: 410
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
@@ -81,6 +79,6 @@ related:
         height: 800
         isCached: true
 
-secured: "AXRxNdQWdSaVSPtzLogdhMp01+lHbS5Jcl7LMZga3JAVwpIHOydU+XbxPuHCF68ANUCxacDbskzJjWtJ23eJQDIQcKpe9X5M1LHO9qS4A5UUbRHAXi+SFAsQxvMT5kEWHwHYiROuNdUDV8Hepp9I/TSikoxzKjE24FDqQBFry97QP7/sDatOxMd/L62WVGVdTkllc2CCNPVQ122pBQ+9lfGgQSAvelpqLijOf3pDkYSHtZ3zuRHB17oJtaugsVJYCw6e1Eb2dcer9equpEbRvovS1ygsSgQC7dhMwdp4UYhpOyl7DchW6ifVS5VRHd9jpP/wUxqkymlRY5TJxMdWQFl9gZ6dozAoESxloGOs8hs=;lkaCaphGmQkGdErI3jkyLw=="
+secured: "XHEjN7lFnfdm8E/nHnIjyzyvHUmMpCUAffMy4pw0nPQUAiqbxwJbnpbnabLiHfHVhpSyd7JzPNt5hcCXwiCFx0CDKBcuuPXuj2+b1Tn2iXL2oIlufWVEvBHK0Q3iN+YeEXXBbE1hB4R/xkbEm1rTrCjV3zZM1IkbxZKe11Ff3oi9urfld8+gYnLxt7BAVH85pDRRJovJAZiIX0/OJgXmWtDc7uGRejFACK6fWcSmbYJNmMj/OYCVcpl5l70Rw0HfRrsLcgep5Gv2BOs/T5AACSALpKcisYoMU7cwMvdrIpUIdCk6Qz/hOCxaMiVHM3d+1loeYIKkgXhsBtOPqU9pga7isgayLLTFR9+bIIuGCDE=;quX3iJjpMQYPhQN90tc9CA=="
 ---
 

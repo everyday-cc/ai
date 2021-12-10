@@ -2,19 +2,17 @@
 category: news
 title: "Microsoft and Esri Deliver Centralized Satellite Image Analysis in Azure Orbital"
 excerpt: "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit."
-publishedDateTime: 2021-12-09T21:38:00Z
-originalUrl: "https://gisuser.com/2021/12/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/"
-webUrl: "https://gisuser.com/2021/12/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/"
-ampWebUrl: "https://gisuser.com/2021/12/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/amp/"
-cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/12/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/amp/"
+publishedDateTime: 2021-12-10T07:25:00Z
+originalUrl: "https://www.businesswireindia.com/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital-76392.html"
+webUrl: "https://www.businesswireindia.com/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital-76392.html"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: gisuser.com
-  domain: gisuser.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - Microsoft AI
@@ -107,6 +105,6 @@ related:
         height: 443
         isCached: true
 
-secured: "LQzbyZqHDrVck1Ac56xHtqD4tQlVuVvH5I8SUa2Ikk7UUIC/rE+KWpj807mBgSOg7ZudSbaRxXRCrnCZsRnOhXseuhdTsdejef99EYkPSVcyadJdbbwIAZ4sYCKaPo44+IguT9MBXE5N9T2Muv4G8RwUkucdItWTDPRELdkiugjuhpDE1+b7nwQvx2BB3nuMwnhQl0uPn5LdKDZdJfEsK9JBF0nDcwg43HAVasl8KtnV9s2d651iUpaL2O/FKhuEIxm8nxlSSSDuCV0nYYQ/08ZdM/5RvPJOoSL/UIOUIGbasfrn28fBZghiwS6zyT3S3DmuCtAIkomvKZgjP9SQjJj6XlHgBD8ljYyaJKUHPXQ=;w6OMzUud2uCixItJFT1lKw=="
+secured: "+xSkxF3NoIrLvR3OvVgf1/W5GTW+gVtolG49QZnqyk0dgu2V9Fd13F0Y2kYTdQsJnI9sa7Zx3bV/1EnyHy0AUKuiE+OYarXPbgRPgkNJeiJv8fnFK4mbIIo72swmihs0js8ReoukqgAuHKhqXM6wR+vlhwXdMplKsXbzZI9KkPimCk61nzpfz34HGg7JjEeCNxhh5oahDbBa79GXaJs1Cho6sClJn6+6XkHAkPtxTs+yRI/zUK4TNw6ScTtcrGRDxZTHMJWOvO2h1r8c3e6ncGD1PisPk+Q8E2h4jHt/k4VW92q9K7mxEI2FHfEAGc6o2Iui3zj5ts5uToKrBFzb8Lln6PWseexbFqeLjJx6HC8=;7GC07BeWa96HYDABpoZ6EA=="
 ---
 

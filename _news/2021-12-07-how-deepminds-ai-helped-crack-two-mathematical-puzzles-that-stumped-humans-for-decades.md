@@ -59,20 +59,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "DeepMind & Mathematicians Use AI To Solve The Knot Problem"
-    excerpt: "It is the first time that AI/computer is being used to seek out patterns. Researchers believe that this could benefit other areas of maths that involve large datasets."
-    publishedDateTime: 2021-12-07T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-mathematicians-use-ai-to-solve-the-knot-problem/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/DeepMind_AIM.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "UhnNUY/YHPimkRmqJmHcTWmFPBn2C51ypxBb2h5jmhLtWj6cvfG2pWsMEDddU3INaQ9+g89MckoinqrUvJFuV5p19Cy8tUyQi2I4yyjBzPz6dwPenkRu9B7R3TOX/YAKXVaj3g34O9DMR3mx3l44M6YIy114eNeLEP03rvR9QUmUUfxrdWJW8kI6xsHUIMS5SsZdkPy0/0zp5v1tKW2iBvwbJIyB1a5dkHV9Vxt0mmaBekjEc8So18oyg6ftfVjy+c1UXHOBCVJXnzPh8YGbI6BIuyNRdLZYdF8Akcz1BSCqP7c0O9RQBY6+2bccSGrvG91wJ3n5RxUzg/HbB4AmgJM1bB/ETA0z6D1bww8ZvXiG4Ez1WtUTF5AhQb2mWyNeE5ybVJZYhU4/na2cc8qaiOxVP5vrBz99w7ndPi77J7/KRJ6z7cgf4YAcv8f3D+74hMYK7Ufh522AScI4XoRwfEzVJ8ceY9tUaRHn1GbGFqfVGc4y/lFBI7MNlQUCbC7YfyWW7oI0dVEdJKqxypTvvw==;NuvGIfrnKbh//wP9XqO46A=="
 ---

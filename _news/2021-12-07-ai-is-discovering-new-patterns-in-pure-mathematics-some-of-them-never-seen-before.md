@@ -9,8 +9,8 @@ ampWebUrl: "https://wonderfulengineering.com/ai-is-discovering-new-patterns-in-p
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/amp/"
 type: article
 quality: 85
-heat: -1
-published: false
+heat: 95
+published: true
 
 provider:
   name: Wonderful Engineering
@@ -28,35 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists identify new pattern in mathematics using artificial intelligence"
-    excerpt: "Scientists have identified patterns in mathematics that have never been seen before.  The discovery, made by the use of artificial intelligence, can help to develop fundamentally new problem-solving techniques."
-    publishedDateTime: 2021-12-05T16:49:00Z
-    webUrl: "https://www.wionews.com/science/scientists-identify-new-pattern-in-mathematics-using-artificial-intelligence-434395"
-    ampWebUrl: "https://www.wionews.com/science/scientists-identify-new-pattern-in-mathematics-using-artificial-intelligence-434395/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science/scientists-identify-new-pattern-in-mathematics-using-artificial-intelligence-434395/amp"
+  - title: "DeepMind & Mathematicians Use AI To Solve The Knot Problem"
+    excerpt: "It is the first time that AI/computer is being used to seek out patterns. Researchers believe that this could benefit other areas of maths that involve large datasets."
+    publishedDateTime: 2021-12-07T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-mathematicians-use-ai-to-solve-the-knot-problem/"
     type: article
     provider:
-      name: WION
-      domain: wionews.com
-    quality: 86
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
     images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2019/02/14/83987-untitled-design.jpg"
-        width: 918
-        height: 506
-        isCached: true
-  - title: "How Scientists Are Using AI to Understand Climate Change"
-    excerpt: "The climate is changing faster than ever before. Machine learning could be a key understanding how--and to what extent. That's according to Karen A. McKinnon, assistant professor at UCLA's Institute of the Environment and Sustainability."
-    publishedDateTime: 2021-12-08T19:09:00Z
-    webUrl: "https://www.inc.com/kevin-j-ryan/machine-learning-climate-change-neurips.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1232186180_489523_ljsza6.jpg"
-        width: 1024
-        height: 576
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/DeepMind_AIM.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "t7+/+i1Tp0CW2XJ+XG+CrXAtd/h5jgRTgndAgVhfmh8xRAPidEIMtlV2e5ohaPYKSpsV5LB0kPSYKxnck1XjyOjTmWieTb6Lu9qIlnYfzkkSh+RdcgQgs7yK/fvLATUhkitiqHH/wvbN0puK8m3gkdWAT33yNadxB5tD6vbsooINnbzzPGjVJxWJvTHiYcxCWvTvsF/0YBMbjwQMvzZGlgz9eqKeknmMrMrwTudxyoJTXUiav0+0PhnKx2HLmMshCu+xgYV+wBYrt26DspzAcVftRxRb5g/C3cHtdpKTcT2QU33jSvXAcawiztfGOjsafudcEFbbYJQdN1/cGCNz+luW1j5oD1IDNv+Hk1OmKrFbHsNbz+RMV3ul51BENosUYFf1+g0+hL7TvluUtYDx9NR1hmh94BAJG9jP6z/UhCIE1S15/LbSMBOuyd1SoQ8LK/5va0OY4gyqvlLbzTHbY18gOY/THX9sPjVVYiQj0PKSBcGGSpA+P01+KCQVi3uWwVflVzTvElvBMdBSfv6rDw==;G0chF6UJS6pdQPQz2erKiw=="

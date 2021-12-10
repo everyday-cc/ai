@@ -25,28 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 Top Fintech Stocks To Watch In December 2021"
-    excerpt: "Are These The Best Fintech Stocks To Buy Right Now? Fintech stocks have been one of the most lucrative sectors in the stock market this year. This should not come as a surprise as the sector continues to benefit from the shift to digital payments,"
-    publishedDateTime: 2021-12-05T15:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021"
-    ampWebUrl: "https://www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-top-fintech-stocks-to-watch-in-december-2021?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Best Stocks To Invest In Right Now? 4 Tech For Your Watchlist"
-    excerpt: "Are These Good Tech Stocks To Invest In Now? Tech stocks appear to be a key focus of investors in the latest stock market hot streak. This is apparent as the tech-heavy Nasdaq ind"
-    publishedDateTime: 2021-12-08T19:39:00Z
-    webUrl: "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist"
-    ampWebUrl: "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Upstart (UPST): A Fintech Investment To Act On Today"
     excerpt: "Upstart UPST, the AI-driven fintech innovator changing the way creditworthiness is assessed, is ripe for a buy today with a couple of key support levels ready to maintain its recent buoyancy, following an overdone sell-off last month."
     publishedDateTime: 2021-12-09T20:22:00Z
@@ -58,85 +36,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "How can banks still thrive as fintech meets 5G?"
-    excerpt: "Digital banking in Thailand has taken a big leap forward in recent years. According to McKinsey’s new Personal Financial Services 2021 survey, which covers approximately 20,000 urban banked respondents in 15 Asia-Pacific markets,"
-    publishedDateTime: 2021-12-08T11:45:00Z
-    webUrl: "https://www.bangkokpost.com/business/2228723/how-can-banks-still-thrive-as-fintech-meets-5g-"
+  - title: "DIFC FinTech Hive’s largest cohort sees 44 startups taking part"
+    excerpt: "DIFC FinTech Hive, the first and largest financial technology accelerator in the Middle East, Africa and South Asia (MEASA) region, saw 44 successful start-ups taking part, making it the largest cohort."
+    publishedDateTime: 2021-12-07T04:41:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/DIFC_FinTech_Hives_largest_cohort_sees_44_startups_taking_part-SNG_267280437/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_267280437/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_267280437/"
     type: article
     provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 39
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20211208/c1_2228723_211208184552_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Survey Reveals FinTech is Now a Necessity, Heralds the End of In-Person Banking"
-    excerpt: "Blumberg Capital, a leading early-stage venture capital firm, today announced the results of its fourth annual survey of consumer behavior and attitudes on financial technology, known as fintech. The study,"
-    publishedDateTime: 2021-12-06T14:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-survey-reveals-fintech-now-necessity-heralds-end-in-/2021/12/06/9505195.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/1336014/Blumberg_Capital_Logo.jpg"
-        width: 400
-        height: 268
-        isCached: true
-  - title: "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding ..."
-    excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts BOSTON, M In less than six months, the Mass Fintech Hub,"
-    publishedDateTime: 2021-12-09T13:01:00Z
-    webUrl: "https://www.pr-inside.com/mass-fintech-hub-more-than-doubles-membership-to-bolster-expanding-r4857729.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
+      name: Zawya
+      domain: zawya.com
     quality: 24
-    images:
-      - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Adam Martel to launch new AI fintech startup following Gravyty's merger deal"
-    excerpt: "Adam Martel, best known as CEO and co-founder of Boston-based Gravyty, has left the AI fundraising company and is working on a new venture."
-    publishedDateTime: 2021-12-07T19:24:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2021/12/07/adam-martel-to-launch-new-startup.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
-  - title: "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding Fintech Ecosystem in the Commonwealth"
-    excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts. BOSTON, MA / ACCESSWIRE"
-    publishedDateTime: 2021-12-09T14:01:00Z
-    webUrl: "https://apnews.com/press-release/Accesswire/technology-business-boston-massachusetts-financial-services-5b8364673b51a42051bfe4853117597c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 7
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Future Unicorns in Fintech Report 2021: Analysis of the Top 50 Fintech Startups that have the Potential to Valued at More than US$1 Billion - Research"
-    excerpt: "The \"Future Unicorns in Fintech\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the top 50 Fintech startups that have the potential to become unicorns (valuation more than US$1bn) based on the Unicorn Prediction Model."
-    publishedDateTime: 2021-12-06T15:26:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=582874"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "cydxYbkCYj/fuXCQitnUGNKPl9NKov6j5PdFlw9ldHmoV4a4qUYnvTgDrlaXxxqSD/sZoBDL3ogMZYeq1VLHx/G/5bjwmX0wyo5TwmkmUARwz2uGXnHprup7XykqSsi4rCxW0fBowWUq90UrLeJVmnpcTiUEM2tPG8WHjKm5JTBPq7C/9CBhQUmmRZ/F62MCpY2PYkU3+t3Clit9YkstoNjgbVtdinlWzBxlyzhCBCFS/u8gIAR3i9Aaafv6uogJuMTVPyoBaZjv3i09Hv2ATh+fWI/1Nfzv1QIDAVe3nnUwuVjUM+NyW5Q8QEFAiA3ol/dDXgjjdoPhqDA//6JD0h8Ckhys5php5M2mT2MP9S5Ow/jjzgFfykoA9+fgKDovr/b55shKzECxwHnLC8ES8StA9/x2+l5dFTaWE+PoDHRWsAathry9gqrG68v0BvqOnTxYR+XuUJcDN3W0Iwt3sXqskFankTxglFbupfOOv9CrxhBjhY21VOT3/ZDD4gpuYwn+++CChdDdZrTynEygjg==;rlv2nl3ycyOwEahstsunQg=="
 ---

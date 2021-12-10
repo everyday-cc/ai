@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Sense raises $50M to bolster recruitment efforts with AI"
-    excerpt: "Sense, a startup developing AI-powered recruitment and hiring solutions for companies, has raised $50 million."
-    publishedDateTime: 2021-12-05T16:48:00Z
-    webUrl: "https://venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1332176260-e1635784317222.jpg?fit=800%2C475&strip=all"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "1Ld0jMfhMy8ZilzfYSKTFrmwVxQM0xwsyNZjCzDJdNBE5pZRYzfgZpjPpRkEVr0p1OULKSM/UaV4enx/cWHLb6Vv6yJX70BoRqyDidoAog1jBUn3r87WGUAgtcRFnca6ZmlBWizNUZThM3snT1ZyHT4vHyRokzTYw3r7TcN/TPk4+wRX/dj4HR9osohpVuR/J5lPE0pu/1reJ2FJVHMDDss8oTUtDqgplz9qfPgokKI56jypM79WILox9U2Ys6TxpFpciZFGvKAB8M1VlLVM+UI+icggYO81dByyozVmdTjs1z+1cnit+yBtsR2tAxG+ScHBHMx+Pc8f6YRadw4zCdN1orrvmJkssJtLWeGQFuBLIbwF8hrWChv2FT8KXgz8r6yN5t66LvgCjJcZ+tDen1l3LirMa+HalZZqo65HcWim/bSA0EGtyjuiegoV9CCsQ99nYABoscYnIQX2UVFRm9Xcu/teQTo8BiFlTmW0pX49wn91Ndbbu8Gm2CzpiQdZm3L9bbN0/NOGvsDrwJuiiA==;iRn83hl+SETpAgcKr6c5EQ=="
 ---

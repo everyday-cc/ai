@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-go
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849/amp"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ethical-hacker.jpg"
         width: 2880
         height: 1920
-        isCached: true
-  - title: "How AI Is Connecting Employers With Software Engineers"
-    excerpt: "To help connect employers with talented candidates, companies have started using AI recruitment strategies. These AI recruitment strategies use machine learning algorithms to create an optimized list of candidates for just about any job opening."
-    publishedDateTime: 2021-12-10T06:16:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/How-AI-Is-Connecting-Employers-With-Software-16690120.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 37
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/14/57/21810133/3/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "7WTvN2gkr2pnMp2o27wLrRU1GfBzVrrGJZQRSbYLqRR+iM2XB0qUFfVHvS0qqa31q+2LdNKwrew/p26h5ahB6JumN6dzDwnb9Jb6MHRmpds+/SqLqkziyX+1tZho6SwpEtHHazqH8wg8UOX3/d2pjsxVroX8FiY+0gtJ2+Lbty/hzJif2yBg7Mc/UmjdSVK+0UAihtqncl8B8v75rI3+6VMJHGI1zXony3Lfc1HwEHctNnvj56Uy6Gxao2aJMx78Gj76sB6Lzrs22sSuZsYV8usVWy3MWiH8fA3D5gh+0ivnQNlydKKXij2ubAT48yjyiM4Nvg9cP1VV3TR4RK3XR6WgMlG2KPlmxi5zCG7F4RskxXhOiOVYMP/qRq5FnqBBnvcw9z7qBy7eNHhQJavs/UgjlFqOvBitxNbCxzAE5b6TU+m4EoKfBW+tg9T74wnUk5GrEBCrsGQGkDAC70lvUiUMoF5OQQlcF9QLBTqX7INMfQQ0Rx7gn4BaxKRAdvKdfsfDW++RJoN3qwrhSIP5hg==;8WfmkIY8Z4KjGMRCX1Zj8g=="

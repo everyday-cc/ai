@@ -28,6 +28,22 @@ images:
     height: 380
     isCached: true
 
+related:
+  - title: "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding Fintech Ecosystem in the Commonwealth"
+    excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts. BOSTON, MA / ACCESSWIRE"
+    publishedDateTime: 2021-12-09T14:01:00Z
+    webUrl: "https://apnews.com/press-release/Accesswire/technology-business-boston-massachusetts-financial-services-5b8364673b51a42051bfe4853117597c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 7
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "zcXCu/CGFdFHmS5HP+jkHWWnt8ENnYYIvMol0qaJ2VAaz9jwYhb5uNlHKfjxc8ibqNiIdPXtq9Z/GetgKLz9IdCo541OQI34sG5/Yri1GcoM11829WWz9JDry3cfB1248jHtwfkQUY7t92zRdxSNbHs5mbtXUJ491ioidC25FEoepOi7cV0r0NZiL6kQzmSD/QUARnDGwOjHFoip/Hoxticf7ISIVhyA4BIrXMlnkuftAVcFfpYsYDX3cfuci9pqau8/GftBhgyn8H2M/ywK4oMoScmUO4Qx+Cf+/iHrMvLxae4au8gOBNtFXZ8g5bRkIH+SWAXZJkf97DAbALYOuZO7+2QVHS3araNxaUVUAYff6X/TbqXvSJc+I28Ll0JZxgCDPZP6OKEjNi2bf/Ej7DxIjl1oXwPBrQi0ddGZp+tai4EHAdJs9ZNQLg3Ookw84CT6qF134ZdUrG92OL3IJm3Bba95gQlrNI15kVWWiHjwOCVZxPm/zNCnbUc4F4DpkYzqe91+Io0ltPIM8az7Qg==;AO+c+NPmwmjZXpwXlwLEDQ=="
 ---
 

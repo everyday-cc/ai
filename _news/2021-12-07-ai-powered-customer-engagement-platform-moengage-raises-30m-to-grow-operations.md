@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-pl
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/"
 type: article
 quality: 183
-heat: 203
+heat: 193
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sense raises $50M to bolster recruitment efforts with AI"
-    excerpt: "Sense, a startup developing AI-powered recruitment and hiring solutions for companies, has raised $50 million."
-    publishedDateTime: 2021-12-05T16:48:00Z
-    webUrl: "https://venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/05/sense-raises-50m-to-bolster-recruitment-efforts-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1332176260-e1635784317222.jpg?fit=800%2C475&strip=all"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Robust Intelligence raises $30M Series B to stress test AI models"
     excerpt: "Robust Intelligence, an AI startup that helps businesses stress test their AI models and prevent them from failing, today announced that it has raised a $30 million Series B funding round led by Tiger Global."
     publishedDateTime: 2021-12-09T16:00:00Z

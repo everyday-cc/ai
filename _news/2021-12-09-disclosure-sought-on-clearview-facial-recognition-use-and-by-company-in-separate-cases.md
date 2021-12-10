@@ -74,38 +74,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Clearview AI Is Enroute to Win an US Patent for Facial Recognition Technology"
-    excerpt: "If you haven't heard of Clearview AI then you should, as the company's facial recognition technology has likely already spotted you. Clearview’s software goes through public images from social media to help law enforcement identify wanted individuals by matching their public images with those found in government databases or surveillance footage."
-    publishedDateTime: 2021-12-05T15:20:00Z
-    webUrl: "https://interestingengineering.com/clearview-ai-is-enroute-to-win-patent-for-facial-recognition-technology"
-    ampWebUrl: "https://amp.interestingengineering.com/clearview-ai-is-enroute-to-win-patent-for-facial-recognition-technology"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/clearview-ai-is-enroute-to-win-patent-for-facial-recognition-technology"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 71
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/jvwvVn2Xwx/sizes/facial-recognition-technology-reveals-information-about-diverse-picture-id1199708194_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
-  - title: "Clearview AI Wins Web-Scraping Facial Recognition Patent Triggering Big Brother Privacy Concerns"
-    excerpt: "The award of this patent and acceptance of the needs outlined within indicate that Clearview and the government are willing to open the door to numerous facial recognition implementations."
-    publishedDateTime: 2021-12-05T16:19:00Z
-    webUrl: "https://hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
-    ampWebUrl: "https://amp.hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/clearview-ai-facial-recognition-wins-patent"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 61
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/56972/content/clearview-ai-facial-recognition-wins-patent.jpg"
-        width: 708
-        height: 472
-        isCached: true
   - title: "Police Release Findings From Independent Expert Review Of Facial Recognition Technology"
     excerpt: "An independent review has provided Police with detailed advice on the opportunities and risks associated with the use of Facial Recognition Technology (FRT). In responding to the review Police has decided it will not use live Facial Recognition technology without further detailed analysis,"
     publishedDateTime: 2021-12-08T21:41:00Z

@@ -82,17 +82,6 @@ related:
         width: 879
         height: 349
         isCached: true
-  - title: "Microsoft and Esri Deliver Centralized Satellite Image Analysis in Azure Orbital"
-    excerpt: "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit."
-    publishedDateTime: 2021-12-09T21:38:00Z
-    webUrl: "https://gisuser.com/2021/12/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/"
-    ampWebUrl: "https://gisuser.com/2021/12/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/amp/"
-    cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2021/12/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/amp/"
-    type: article
-    provider:
-      name: gisuser.com
-      domain: gisuser.com
-    quality: 49
   - title: "CVS Health and Microsoft agree new strategic alliance"
     excerpt: "Healthcare provider CVS Health and Microsoft have agreed a new strategic alliance to develop new healthcare solutions and provide 300,000 CVS Health employees with tools to serve over one million customers."
     publishedDateTime: 2021-12-06T16:11:00Z
@@ -107,6 +96,15 @@ related:
         width: 940
         height: 443
         isCached: true
+  - title: "Microsoft and Esri Deliver Centralized Satellite Image Analysis in Azure Orbital"
+    excerpt: "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit."
+    publishedDateTime: 2021-12-10T07:25:00Z
+    webUrl: "https://www.businesswireindia.com/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital-76392.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 29
 
 secured: "XnqYGvlP9g6kz5CoNTMBNJZVRNWzJLIZ/OW+Ygg7kGu57DnZBqmZkB3kaviozeBb5a/i4b2SeMe6eR928/TFwh8cIgGu3MntefxqbS9SpObcH1y9xEdLHb71H7oK09Vgc3x3+oCiWH4Ugnzr0IlY+amhI0ZmRgjJJgUNo/SVR+e2mgEAPJ2WETGWuMjHhHw2xNfyXSPLZKjYCIfWxBjWHC+msXx36+P/qwXkqlBCwuH4shX5EQK1hexT/PZhvrwfV+GpqArcv6jMJAA7/urQHea7BSueIGfHHNnKVRZWJ1VSHFwoXXGkehUrGLZGW57jLF4VD3dkAQ8n3v4c7tDl4I9yYQZQmVypW0iRgVukB7v+Gwe62uyHNzL3iTzHhVX25RYld543Df0ZRQ7vdvDai9f1B8EWzkXrCLyc2a1O7L5W4QfDNIWg4sQBcBa9KOptA8uOSGKZGPr5ZqMXEJNaM5ewFdwsOgXvgucDBRV2dvkOivUDsar+cJDrKh3/9o4IMHQUe3hPvc9jeRcCdmCP0A==;HirqWeGTufp40QxudGhh+w=="
 ---

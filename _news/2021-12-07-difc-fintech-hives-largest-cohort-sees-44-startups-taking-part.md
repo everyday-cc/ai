@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_267280437/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_267280437/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -21,19 +21,30 @@ topics:
   - AI
 
 related:
-  - title: "Arlington’s First Rate Launches $25M VC Fund to Boost Seed-Stage Fintech Startups"
-    excerpt: "First Rate Ventures says it's the first fintech-focused venture capital firm in the Dallas-Fort Worth area that will focus on investments in early-stage startups in wealth, investment, regulatory, and mortgage technologies."
-    publishedDateTime: 2021-12-09T00:41:00Z
-    webUrl: "https://dallasinnovates.com/arlingtons-first-rate-launches-25m-vc-fund-to-boost-seed-stage-fintech-startups/"
+  - title: "Upstart (UPST): A Fintech Investment To Act On Today"
+    excerpt: "Upstart UPST, the AI-driven fintech innovator changing the way creditworthiness is assessed, is ripe for a buy today with a couple of key support levels ready to maintain its recent buoyancy, following an overdone sell-off last month."
+    publishedDateTime: 2021-12-09T20:22:00Z
+    webUrl: "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today"
+    ampWebUrl: "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp"
     type: article
     provider:
-      name: dallasinnovates.com
-      domain: dallasinnovates.com
-    quality: 19
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Numerated Acquires Fintech to Improve Underwriting Process"
+    excerpt: "Boston-based Numerated, a financial technology company that provides a business loan origination platform for banks and credit unions, has acquired another local fintech that the company said would help reduce work for lenders using the platform."
+    publishedDateTime: 2021-12-07T16:23:00Z
+    webUrl: "https://www.bankerandtradesman.com/numerated-acquires-fintech-to-improve-underwriting-process/"
+    type: article
+    provider:
+      name: Banker & Tradesman
+      domain: bankerandtradesman.com
+    quality: 24
     images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2021/12/VentureCapital-concept-iStock-970.jpg"
-        width: 970
-        height: 464
+      - url: "https://www.bankerandtradesman.com/wp-content/uploads/2021/12/Robotic-Hand-Giving-Check-EDIT.jpg"
+        width: 1375
+        height: 917
         isCached: true
 
 secured: "ypV7fCe9Xn04da2COt6gNT729t0rgv5RQ5UIbvyqFl8umRnIxZLyjuIU5IQHpNORwbZcgLBfLsjyW37sxZ7E2N0a2BhxXvya/T4H1DEu+d3RLjIC0QqezEkp8XD0UzuLMJyKB22cdLDadvgGfBelbok/La+tsJQIZzGi6fhfPJbvttUOiHAEZlBvRlbcGRdaP8jqW/bVJZn+8vHzLNdieDbhr+nozjJOQPO7jYFFx9RZyxnRMPoLfveZvYqQy7nPeSQuq3+4xRC/0S4DN/D+dRzZlxI1zsWEMlXq+AKWXnRH+2pS49RzRUtfu6lwIncfbz7CRBGcl7zW2uqR8Xp3FQTKZPcGlEmL77rWVad2BvU=;9k6L9gJV+3Q/EXbhmA0QGg=="

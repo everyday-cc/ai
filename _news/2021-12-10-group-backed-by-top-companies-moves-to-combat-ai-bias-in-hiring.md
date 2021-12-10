@@ -35,17 +35,17 @@ related:
         isCached: true
   - title: "Can companies police the biases found in artificial intelligence?"
     excerpt: "How can bias be removed from artificial intelligence? NPR's Audie Cornish talks with Kenneth Chenault, co-chair of the Data and Trust Alliance, on how corporations can take steps to make that happen."
-    publishedDateTime: 2021-12-09T21:58:00Z
-    webUrl: "https://www.capradio.org/news/npr/story?storyid=1062791766"
+    publishedDateTime: 2021-12-09T20:51:00Z
+    webUrl: "https://www.kuow.org/stories/can-companies-police-the-biases-found-in-artificial-intelligence"
     type: article
     provider:
-      name: Capital Public Radio
-      domain: capradio.org
+      name: KUOW
+      domain: kuow.org
     quality: 37
     images:
-      - url: "https://www.capradio.org/images/share/placeholder.jpg"
-        width: 1200
-        height: 628
+      - url: "https://kuow-prod.imgix.net/store/48a3e099e3a28e297f37554252d04e90.png?ixlib=rails-2.1.4&auto=format&crop=faces&fit=crop&h=402&w=402"
+        width: 402
+        height: 402
         isCached: true
 
 secured: "BklO5Dim6z4ee+xCkbyGhM8luUjn7lxguiJFMD0CBqhEmapjYO7uLMN0cuM37PEmYc5+4NppCRTSmZQTWL6gvarb5mjLroKztml11HdI2nVo6PxbObbbEXr37+/jGRxc1H6k6OsfYMF5BxqjIVdpNZBpDD4sTWh64eyF5JWgHV5hfEbt5z9iXVZSPfNi4f4OVK4N7wicYsy1hqsuJaEyOxtC3mzh9Dzc9f8YSbcO2onxqt4GaRTviOdaentCrBft0dQVo3nRrcfjADZi0qjwwl2vDAvOTcgtlpXp0cTbkt8np+eLU2hsEC9dpapZ1JBBL2ixePH+hThYiXAyBW3EcoqF5+qg+0NyE/NzsfE/qGUvourEcT5D6s3iML2y6wP69wEjw12xqweFs/9I28U7uAsB1EP1mJCPvir6bVLNZxMwFMqvFWHudqPXjALfkrDGv87Z+smNuIye7yK6lAz0uwv9QPDK/P+ow7rCWWbkL3MbOusKHl0XceoD0gb+fGalyOmjiJCH59rmbccnr4c/Aw==;v/O3bEVIlYN1M32eiMdaAw=="
