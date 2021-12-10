@@ -2,21 +2,29 @@
 category: news
 title: "Microsoft and Esri Deliver Centralized Satellite Image Analysis in Azure Orbital"
 excerpt: "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit."
-publishedDateTime: 2021-12-10T07:25:00Z
-originalUrl: "https://www.businesswireindia.com/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital-76392.html"
-webUrl: "https://www.businesswireindia.com/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital-76392.html"
+publishedDateTime: 2021-12-10T10:52:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
+webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
 type: article
-quality: 29
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-88207179,imgsize-43790,width-1200,height-628,overlay-etcio/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Microsoft details its next steps with Azure Space; adds Airbus as a partner"
@@ -121,6 +129,6 @@ related:
         height: 443
         isCached: true
 
-secured: "+xSkxF3NoIrLvR3OvVgf1/W5GTW+gVtolG49QZnqyk0dgu2V9Fd13F0Y2kYTdQsJnI9sa7Zx3bV/1EnyHy0AUKuiE+OYarXPbgRPgkNJeiJv8fnFK4mbIIo72swmihs0js8ReoukqgAuHKhqXM6wR+vlhwXdMplKsXbzZI9KkPimCk61nzpfz34HGg7JjEeCNxhh5oahDbBa79GXaJs1Cho6sClJn6+6XkHAkPtxTs+yRI/zUK4TNw6ScTtcrGRDxZTHMJWOvO2h1r8c3e6ncGD1PisPk+Q8E2h4jHt/k4VW92q9K7mxEI2FHfEAGc6o2Iui3zj5ts5uToKrBFzb8Lln6PWseexbFqeLjJx6HC8=;7GC07BeWa96HYDABpoZ6EA=="
+secured: "2Mrk7gVHx2VB3lubSNwf94NyTz7MHc4nSKsEEuPgzFoCvGLCKpHTlCkldvAx3qNMF5hSQEZ3vS/p5UZ+Pevk4I6aVu1k4ZLfOLlzfYnzNT0lNFH9tKWMR+FN6kCyHohl7s5huYLRGJ7X86eifIHTSe7oStHeAdV8IsRDbdJs+oXWCer978CxNwKNAdf9QoDXWaXR1OCdczpshiW6T2xc0BtHMtzLW/7KYsDKvNYa5OLUTUocncYCp93zqpheIEpEnDmFxTRDMyCGqNFLBAL0sXM1ulGokKIrlhlr4yjCEetzZnYGPKTXJtmX/7YDLyhnbgCYkrnM6rpZeXDOyusEfYWfrYAli3oq+UWSGd4JjXw=;am/aQDvALp10HTzkg8DzMw=="
 ---
 

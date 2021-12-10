@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "NYC Targets Artificial Intelligence Bias in Hiring Under New Law"
+    excerpt: "New York City has a new law on the books—one of the boldest measures of its kind in the country—that aims to curb hiring bias that can occur when businesses use artificial intelligence tools to screen out job candidates."
+    publishedDateTime: 2021-12-10T10:41:00Z
+    webUrl: "https://news.bloomberglaw.com/privacy-and-data-security/nyc-targets-artificial-intelligence-bias-in-hiring-under-new-law"
+    type: article
+    provider:
+      name: Bloomberg Law
+      domain: bloomberglaw.com
+    quality: 37
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/86938d8/2147483647/crop/958x368%2B0%2B0/resize/960x369%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F04%2F02%2Fe6e250304e9f805af51c6e6000d8%2Fbli-ai-hiring-958x369-002.png"
+        width: 958
+        height: 368
+        isCached: true
 
 secured: "cjeLQp9nG0CJuT2tqteweQXQzDpvZbtRE2UlNZw/pyIA7kg79bygf8S9KtHEXbBOVwb/Xph1Ri26prz98NNgcMa3S72We+xK7/JrPAAzCgE0fceMiZeYBYxSSLxqtRef4v89tfZ3dO+GeHYVnYtV3JnfQoF20SFWprA0AbTNM/V5bhzIVhVobZQ01rN6ulBYEmSgwMekvS3UtcepdsAwGijJShAg5McJDTn4jgVDitZefHraKl9aoJlcP9hTvAfcJyYWfsh3NwMNFbgXTx8lbHh8NaoNL9/uXXsBJx51NZNulawR1/xCJ7L0fXQ9KYfC3BtGZ0SNzgP8x45j6RI/0L7ijAyBhZTyDVe4TWaGwwogmmXV54DARy/W0LQg5v6IYjs+CENSwUc/goRJi48QD76J0g9miJ6AL81U5tC7r840Hcog8bj6RA/P7rWig+/CZl2IjpMS/kRMbf0y37BPsEsMu/dECm/zHPar03guI/oiNFcydH1yZ/fio0ukRB9pTc9x6y/ueGgNEn0E+5YJGg==;xw4SlGa6jXWZX5MEWlrPjg=="
 ---

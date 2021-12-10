@@ -74,6 +74,22 @@ related:
         width: 800
         height: 370
         isCached: true
+  - title: "Microsoft and Esri Deliver Centralized Satellite Image Analysis in Azure Orbital"
+    excerpt: "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit."
+    publishedDateTime: 2021-12-10T10:52:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88207179,imgsize-43790,width-1200,height-628,overlay-etcio/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft-owned Nuance could limit growth of newer AI voice entrants in healthcare"
     excerpt: "AI voice-based clinical assistant startup Suki bagged $55 million in Series C funding, boosting its valuation to $400 million. The company will use the fresh capital to expand its health system partnerships and advance AI capabilities of its platform,"
     publishedDateTime: 2021-12-09T05:56:00Z
@@ -116,16 +132,7 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Microsoft and Esri Deliver Centralized Satellite Image Analysis in Azure Orbital"
-    excerpt: "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit."
-    publishedDateTime: 2021-12-10T07:25:00Z
-    webUrl: "https://www.businesswireindia.com/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital-76392.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 29
 
-secured: "CWumTGs3O+TXVD/iXxsd3sZJp5yjK9eFYNlLbE7PH3lY3Emo0QLU5di8QWljul1FOrPIKHuORizuZ0/Cu47be9RKIpXMnYvygOVJaHtHORY2ZPmU7gwEk7ZSuZkHPh5/z2P3yWbGaWq8+fqdNtdG0CjRNMRflZzlE0meCgEp8fEaxbzQkPqX0THA5ETubDfhyJ6H6BqXgzQWLY3+goC/YfiOD6rEgqd/rAz2mVw+jJl8eC9Y0LRkdnWZ1i2JvQz+H78PlPIv7oQjN/M6ffgY1m/cRXQ9NYyZd/xrJqhiABjHelXqk8KcQE4fHCYkhA/FwPomxqTt4jasZSYsyxWqWePxSk4tLud7OXF1PVAjTWQ=;R3N3edW10Ca5GEOKBXlRDQ=="
+secured: "VA4Lz5qxWP2WTWVsUjZ3vJKALNvCX1z3PTZH0P4LvLIJMK5d/et28vyeedwi3dR0iuShUjXK9IRx8eZMwYAqgByDvEr3SBOkq4+oCVCDo/o/yyk8oMUd4+LQGMS87YRc94lf/44OWRwAfkm50MAAXseZ9COTdD5rAJZuS+rHy+WQ/+qBzCI+0QbPKfXb/+E82p8ycQ1QTzMeh6KOS58/xW6DvXsxsDQ1ao6+jSUdy0pXBshXdNmwgpj5RnpkrywFerVDkfcb/QEWS2XSNi4MWQPs6GRMvgruqHKT2Uedcw4udKd0iYT5tbCSjKsIllEgzCd6z0Aq+Par0fr6HwBZqE3CDbrIjx9qKtSIZAA+12o+lfC4CFFV6fWYlMETF2nA2OebaAqIJTffO9rwLK1ZUpsZHzvw7ebuf10cGvm0EvO6G58pAZ74PGwp53cYDJqENehAoVusWmnuLPzB91bIxxH3/Kmuhorsap2GGjBglIT/Rbgme5aApWNkH1Gxc3xgVO15Gjlc9e/T7hw8SBys/Q==;apyzBFX7/NTMTDmLxXz/7g=="
 ---
 

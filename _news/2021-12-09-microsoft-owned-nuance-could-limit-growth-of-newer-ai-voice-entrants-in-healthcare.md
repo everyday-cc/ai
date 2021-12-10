@@ -85,6 +85,22 @@ related:
         width: 800
         height: 370
         isCached: true
+  - title: "Microsoft and Esri Deliver Centralized Satellite Image Analysis in Azure Orbital"
+    excerpt: "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit."
+    publishedDateTime: 2021-12-10T10:52:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88207179,imgsize-43790,width-1200,height-628,overlay-etcio/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Microsoft expands Azure Space ecosystem"
     excerpt: "Microsoft offered further proof of its intent to play a growing role in the space sector by unveiling new Azure Space products and announcing partnerships with Airbus, Kongsberg Satellite Services, STE iDirect,"
     publishedDateTime: 2021-12-09T15:40:00Z
@@ -113,15 +129,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Microsoft and Esri Deliver Centralized Satellite Image Analysis in Azure Orbital"
-    excerpt: "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit."
-    publishedDateTime: 2021-12-10T07:25:00Z
-    webUrl: "https://www.businesswireindia.com/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital-76392.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 29
 
 secured: "23txA4rTGl3zCrHp05RFKtvimoUF4QhbqAu6c0p1Q7Mw5Xsg0xCJsJmZ/G08tXD3JoL/i93WoCN4XrM+EIatEia+IrBlw27aBQtPIuCE5Y9fxerqRZnyflEkUTA3zpHcC3TfQN27e5dqEubJH8h7UGOXTbDlrhGM334s/04XK2VEcjDg5F+/2VHSgjJnMB6DPuebl5+iPfiitywwJhd5EvyB1hhl4yWuB4ZIujZKdnylAzIaRwbVbegusG3SwZ+O2HRG8vCujWjB5FVylierUb2swJl8VQrWVUQmgJb7ECF4PH80wl/Tsezrdz224p+ApWrI7dSWcQh6QmjhG4r/mFlAVXhPUIxPe4qlpw5jJ/m1iJQH7FScE8qToaYDgf+M/X1LxR7jZXU59rkAkgOddoQsW8Qkd99djPgrpJeUbzhYmBIAryVvmou8uN8cNjm79j8ME0uQ/zjcGN7Efrij/4ukqJw576suKBmYALmvXvivCah4/VWQmsvtuftG/7qz8HeQLoBp/6kSllU/VJGmGw==;bXqPXy7fLaSaG2Ybc9FDBQ=="
 ---

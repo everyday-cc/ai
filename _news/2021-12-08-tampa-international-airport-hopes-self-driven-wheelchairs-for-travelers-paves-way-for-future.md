@@ -43,20 +43,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Contenders in self-driving trucking"
-    excerpt: "As the year nears a close, the self-driving truck industry is gaining momentum. Many companies notched major technical and business-related milestones in recent months. Here's a look at what each company has done in 2021,"
-    publishedDateTime: 2021-12-06T04:00:00Z
-    webUrl: "https://www.autonews.com/shift/contenders-self-driving-trucking"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AURORA-MAIN_i_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "j7c9RHCyjuQbLuHtl1Gt8kV+22j/R5/MYuIz+1XMqJamGqi4BsjNiUvmYIcA9Ii5hEaL6/Lf0HN2hb7fmrJnRsiYxN987HdNe2U19QUECDOYdZpj5Q2S8ksdlRZnKebweHwX+9zo3RZ2gs8zNLbuQ7xE9Rrgn4GwmbPtQ5zTLHXurCiICyAWCdXzgvf6cPfOVOeUttZUe5EXYTK2nR5s4Uy8RodUGqfzXfbQ/jlLXZp+w9HUUXkU5Shp0CWHiVXDPcxjoK1cWcegr611jkiOFBKOO3Ny7lOpBb7A96NNlUN9ndAX0r46O/vmaqIJBeFkyRlTQOlJG1kRtSHWeVR8S0feBG89BcLXgKa3wJK7LqM=;einXcPwYoQmxMwjthfoQXQ=="
 ---

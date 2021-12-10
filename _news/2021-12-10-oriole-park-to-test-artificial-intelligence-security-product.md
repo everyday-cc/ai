@@ -2,29 +2,23 @@
 category: news
 title: "Oriole Park to test artificial intelligence security product"
 excerpt: "Oriole Park at Camden Yards will test a new security technology during the upcoming baseball season that uses 3D imaging and artificial intelligence to detect concealed weapons."
-publishedDateTime: 2021-12-09T17:49:00Z
-originalUrl: "https://www.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
-webUrl: "https://www.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
-ampWebUrl: "https://amp.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
+publishedDateTime: 2021-12-10T10:08:00Z
+originalUrl: "https://www.kentucky.com/news/business/article256457406.html"
+webUrl: "https://www.kentucky.com/news/business/article256457406.html"
+ampWebUrl: "https://amp.kentucky.com/news/business/article256457406.html"
+cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article256457406.html"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: Lexington Herald Leader
+  domain: kentucky.com
 
 topics:
   - AI
   - AI in Security
-
-images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2020/03/26/virus_outbreak_opening_day_photo_gallery_47677_c0-195-4681-2925_s1200x700.jpg?d5d2a7e657e1b5cb3f3095d76f0781371316f285"
-    width: 1200
-    height: 700
-    isCached: true
 
 related:
   - title: "New resources and tools to enable product leaders to implement AI responsibly"
@@ -51,6 +45,6 @@ related:
       domain: publicnow.com
     quality: 19
 
-secured: "22OEFCYwmHOHOYopu1WOSwtuxI9EYAq28hdaMAMFn1qWWbEP2yl8u1XZKH0buGKH6KnOhF6blCl8esfUSjret6Kl+ZKlbRHm4TVCBuiki3PJhef446Lyeniflu4U9pQ/2BNruAYPPy33SEr58JQEXUSyD/FlAX/07BIXLKGDxuWDVCjpd7EwfXrMm4JkyA7ACIBmTcpLUAULM88DvsunGB+aU8pgRlSTIRNYbU3rQuJrS+/biT6pRaZmhO0f67kX9mHwam5l4bjEhqk2JijZpgAHpGVVyv1PDxHmbTeK2xK48/4j34TBhGKwZu6L0itxip0lXL3veH99A3vRxxfGnqrkx8EsyvYoCNA1xVgz9Pg=;4IfldH0vHjNtCSaN1G5lgA=="
+secured: "JTYk1ctaqpk2ab6uRIlEDpuga9FUUs/ARxT0qNQAHeaH/9aDAthMuRNRV7amkpdenLF7azGBH/JwcUtcYmtSLLDw8DxUOEvPvj85p147Z4ICqwygL6vIXsrnADhLa2pdlcxapWn644gd+Cu00gfhOoeHrHkW+7XkMfwfHEZYSds8S2qgM0d57mFa6h8cdAYLI59q8gziAvEvB4fGCkuQyVYZnx/KYzoDfLYk0UYisiCdkC6goGS2b9SA12i4GeXRz5lrrmmMYFemz5gjqYT78MXOOyHfKgWocplw+OpclxOlSqy1hcOlWbpZeu4k6VB4ze/ya6aW4NxeKeSes2vApodKtq5cSUlzQj3NUvP/Fhw=;K4bpDuZBoxw5glxUWQJNag=="
 ---
 

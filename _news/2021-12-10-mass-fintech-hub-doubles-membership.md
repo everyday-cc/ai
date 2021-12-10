@@ -85,20 +85,6 @@ related:
         width: 2560
         height: 1708
         isCached: true
-  - title: "Fintech companies use alternate data to build credit profiles"
-    excerpt: "Hyderabad: Small businesses in the unorganised segment are seldom in the good books of banks and lenders. Lack of financial transaction history to assess"
-    publishedDateTime: 2021-12-05T19:17:00Z
-    webUrl: "https://telanganatoday.com/fintech-companies-use-alternate-data-to-build-credit-profiles"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 24
-    images:
-      - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2020/03/Telangana-Today-News-1.jpg"
-        width: 750
-        height: 415
-        isCached: true
   - title: "SCALE AI announces its largest financing round of 2021 with twelve projects and $71 million in investments in artificial intelligence"
     excerpt: "With twelve projects representing a total of $71 million in investments announced today by SCALE AI, the Artificial Intelligence (AI) integration movement is continuing its rapid growth in Canada. From the supply chain for aviation parts"
     publishedDateTime: 2021-12-08T15:26:00Z

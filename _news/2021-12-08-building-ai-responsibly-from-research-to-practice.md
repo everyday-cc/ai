@@ -35,20 +35,15 @@ related:
         isCached: true
   - title: "Oriole Park to test artificial intelligence security product"
     excerpt: "Oriole Park at Camden Yards will test a new security technology during the upcoming baseball season that uses 3D imaging and artificial intelligence to detect concealed weapons."
-    publishedDateTime: 2021-12-09T17:49:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
-    ampWebUrl: "https://amp.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/dec/9/oriole-park-to-test-artificial-intelligence-securi/"
+    publishedDateTime: 2021-12-10T10:08:00Z
+    webUrl: "https://www.kentucky.com/news/business/article256457406.html"
+    ampWebUrl: "https://amp.kentucky.com/news/business/article256457406.html"
+    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article256457406.html"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 74
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/03/26/virus_outbreak_opening_day_photo_gallery_47677_c0-195-4681-2925_s1200x700.jpg?d5d2a7e657e1b5cb3f3095d76f0781371316f285"
-        width: 1200
-        height: 700
-        isCached: true
+      name: Lexington Herald Leader
+      domain: kentucky.com
+    quality: 54
 
 secured: "br3N1JvWc1bTb71tLTn4eRfNO0Fzt9O6PIB+JNEHMTaESnwx0ArI709+uOFAaPZjcanHja8EQlNrzNFe3UT94D29vtPdSuVuIkvhVrEm09/Q5jHrrHzeGqyJt5jl1kf/o+6MeYwyO4bGsHrp9YkrW6Rga/WiQ7kQ0otB6iOXigCM7jTBgjyPq+P/LFJqn+WhbGV1QIQkqFkEHInzYbM0kNZW1LezaxYZ2dmMEoTJ+Nvb/rSxBAhYm/qSfQFbAJllJxRl+15QKuZqkdJrU+Bqk/Liw6c874APpbCevZuySM3VQu3lqJZZOrAZLflgXlHgPf03MHbpPEH2T9iIWpmQ80mGta7TrBoy/hlfriZKtwE=;csYpZy17vSuXB2K1GS+Kcg=="
 ---

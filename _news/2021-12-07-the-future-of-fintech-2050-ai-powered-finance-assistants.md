@@ -71,20 +71,6 @@ related:
         width: 2560
         height: 1708
         isCached: true
-  - title: "Fintech companies use alternate data to build credit profiles"
-    excerpt: "Hyderabad: Small businesses in the unorganised segment are seldom in the good books of banks and lenders. Lack of financial transaction history to assess"
-    publishedDateTime: 2021-12-05T19:17:00Z
-    webUrl: "https://telanganatoday.com/fintech-companies-use-alternate-data-to-build-credit-profiles"
-    type: article
-    provider:
-      name: Telangana Today
-      domain: telanganatoday.com
-    quality: 24
-    images:
-      - url: "https://di5qs4dv32t01.cloudfront.net/wp-content/uploads/2020/03/Telangana-Today-News-1.jpg"
-        width: 750
-        height: 415
-        isCached: true
   - title: "Mass Fintech Hub doubles membership"
     excerpt: "In less than six months, the Mass Fintech Hub, a public-private partnership dedicated to making the Commonwealth a global leader in fintech, has more than doubled its membership and received hundreds of requests to join its growing programming geared towards developing fintechs."
     publishedDateTime: 2021-12-09T17:01:00Z

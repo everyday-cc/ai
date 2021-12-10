@@ -41,17 +41,17 @@ related:
         isCached: true
   - title: "Worldwide AI and Robotics in A&D Industry to 2026 - Asia-Pacific to Witness Highest Growth During the Forecast Period - ResearchAndMarkets.com"
     excerpt: "The \"AI and Robotics in A&D Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to ResearchAndMarkets.com's offering. The AI and Robotics in A&D Market is projected to grow from USD 17."
-    publishedDateTime: 2021-12-10T10:53:00Z
-    webUrl: "https://www.lelezard.com/en/news-20150837.html"
+    publishedDateTime: 2021-12-10T09:46:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=585895"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 33
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
   - title: "CITIC Telecom CPC wins 3 Industry Awards in Recognition of Innovation Excellence"
     excerpt: "Receives CCF Big Data & Computing Intelligence Contest Award, International Innovation Awards and CAHK STAR Awards HONG KO CITIC Telecom Internat"

@@ -2,26 +2,26 @@
 category: news
 title: "Worldwide AI and Robotics in A&D Industry to 2026 - Asia-Pacific to Witness Highest Growth During the Forecast Period - ResearchAndMarkets.com"
 excerpt: "The \"AI and Robotics in A&D Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to ResearchAndMarkets.com's offering. The AI and Robotics in A&D Market is projected to grow from USD 17."
-publishedDateTime: 2021-12-10T10:53:00Z
-originalUrl: "https://www.lelezard.com/en/news-20150837.html"
-webUrl: "https://www.lelezard.com/en/news-20150837.html"
+publishedDateTime: 2021-12-10T09:46:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=585895"
+webUrl: "https://us.acrofan.com/detail.php?number=585895"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
@@ -68,6 +68,6 @@ related:
         height: 260
         isCached: true
 
-secured: "RF0TxW3+im/M6Vgs/ivykJnB0lm9uYKd+5STQ3yI6j2LSQRYWlrsWiYuV+g2CCTLzn8nFNW2u2WqEDAFB2YsjPgPTzQkvXep41cGV2kQROk8dRAqSXzyjq3Lg/Ec7cNud8ezAt2DhUgbb8LTwMGtU9uT2HEGofrXrI0yiL/5olz/p+BJfgeQGT7RQf5RBiuQ0m07R6miO+1+S4D39nhIBNvoSKco+6LkuSgfeNxQgGG/2uMmz0XKB3k7jcBCXK4AMSpoFYL9DUEafmzXu702zVrbnU4JK66/GEyqjsfi/hwd3f1XV82/BmbZMzmCWYTfF+JtNIUg6m4LykJRSRQAGRjkZvlEada7Zh1+Hd0ZpQM=;vyQJJPhIc9N59kDRKQwTIg=="
+secured: "5PblA+8mPzVT050irazuPjdAyM7g5/eAdWZBF7T6GklXfsNMSwWHSue0G+87ssl7DDnD7bzjdz0TQXc4/Bk0tuvEH+UTuwWdnLdaXIvjqrzY3QQecsVl6kK/hICTgTlHHoGCX8qdvd3MCrykDquAjzaHXIaFNAA8q/cAivQJt2iESS6gGiM0qeXtQK5vw4RYGCK305F7++Kdr2ZGyduRt7tudEonnbM8oLBFdMpN3BTcV4fIi5kcEfInMdC5w3aKth6DN2jw244adl/27wFqXy5o8AFG9BT+Or1owomTbX7PyaSMB48CIRysmQLIxX57Aj7pSe4HrKrKZviONGMBHqAdmKC5pTA+YwTIo2njNxU=;zd0Fys3QZWXMZMiPz92wUw=="
 ---
 
