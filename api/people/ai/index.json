@@ -16,7 +16,7 @@
       "twitter": {
         "username": "elonmusk",
         "url": "https://twitter.com/elonmusk",
-        "followers": 65849978
+        "followers": 65861273
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Elon_Musk"
@@ -25,50 +25,13 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 731,
+      "heat": 746,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1442634650703237120/mXIcYtIs_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Elon Musk",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/andrej-karpathy.md",
-      "title": "Andrej Karpathy",
-      "excerpt": "Director of AI at Tesla. Previously a Research Scientist at OpenAI, and CS PhD student at Stanford. I like to train Deep Neural Nets on large datasets.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrej-karpathy/index.json",
-      "webUrl": "https://everyday.cc/ai/people/andrej-karpathy/",
-      "type": "profile",
-      "name": "Andrej Karpathy",
-      "bio": "Director of AI at Tesla. Previously a Research Scientist at OpenAI, and CS PhD student at Stanford. I like to train Deep Neural Nets on large datasets.",
-      "location": "Stanford",
-      "website": "https://t.co/UnoPfBvH9V",
-      "twitter": {
-        "username": "karpathy",
-        "url": "https://twitter.com/karpathy",
-        "followers": 416901
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/andrej-karpathy-9a650716/"
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Andrej_Karpathy"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 407,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Andrej Karpathy",
           "isCached": true
         }
       ],
@@ -88,7 +51,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 904358
+        "followers": 904579
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -112,13 +75,92 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 356,
+      "heat": 410,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Lex Fridman",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/andrej-karpathy.md",
+      "title": "Andrej Karpathy",
+      "excerpt": "Director of AI at Tesla. Previously a Research Scientist at OpenAI, and CS PhD student at Stanford. I like to train Deep Neural Nets on large datasets.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrej-karpathy/index.json",
+      "webUrl": "https://everyday.cc/ai/people/andrej-karpathy/",
+      "type": "profile",
+      "name": "Andrej Karpathy",
+      "bio": "Director of AI at Tesla. Previously a Research Scientist at OpenAI, and CS PhD student at Stanford. I like to train Deep Neural Nets on large datasets.",
+      "location": "Stanford",
+      "website": "https://t.co/UnoPfBvH9V",
+      "twitter": {
+        "username": "karpathy",
+        "url": "https://twitter.com/karpathy",
+        "followers": 416927
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/andrej-karpathy-9a650716/"
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Andrej_Karpathy"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 406,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Andrej Karpathy",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/ilya-sutskever.md",
+      "title": "Ilya Sutskever",
+      "excerpt": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/ilya-sutskever/index.json",
+      "webUrl": "https://everyday.cc/ai/people/ilya-sutskever/",
+      "type": "profile",
+      "name": "Ilya Sutskever",
+      "bio": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
+      "twitter": {
+        "username": "ilyasut",
+        "url": "https://twitter.com/ilyasut",
+        "followers": 69767
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
+        "citations": 282310
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Ilya_Sutskever"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "openai.com",
+        "domain": "openai.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 332,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1425684733753626624/q521TgTG_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Ilya Sutskever",
           "isCached": true
         }
       ],
@@ -157,6 +199,52 @@
           "width": 400,
           "height": 400,
           "title": "Animashree Anandkumar",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/yann-lecun.md",
+      "title": "Yann LeCun",
+      "excerpt": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/yann-lecun/index.json",
+      "webUrl": "https://everyday.cc/ai/people/yann-lecun/",
+      "type": "profile",
+      "name": "Yann LeCun",
+      "bio": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
+      "location": "New York",
+      "website": "http://yann.lecun.com/",
+      "twitter": {
+        "username": "ylecun",
+        "url": "https://twitter.com/ylecun",
+        "followers": 287697
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
+        "citations": 224168
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "New York University",
+        "domain": "nyu.edu"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Robotics"
+      ],
+      "heat": 292,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Yann LeCun",
           "isCached": true
         }
       ],
@@ -210,7 +298,7 @@
             "Computer Vision",
             "AI in Healthcare"
           ],
-          "heat": 225,
+          "heat": 186,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
@@ -255,7 +343,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 249,
+          "heat": 242,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -268,7 +356,7 @@
         }
       ],
       "size": 23,
-      "heat": 298,
+      "heat": 290,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -294,7 +382,7 @@
       "twitter": {
         "username": "AndrewYNg",
         "url": "https://twitter.com/AndrewYNg",
-        "followers": 626126
+        "followers": 626140
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrewyng/"
@@ -342,164 +430,77 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/yann-lecun.md",
-      "title": "Yann LeCun",
-      "excerpt": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/yann-lecun/index.json",
-      "webUrl": "https://everyday.cc/ai/people/yann-lecun/",
+      "path": "_people/john-carmack.md",
+      "title": "John Carmack",
+      "excerpt": "Consulting CTO at Oculus VR. Working on artificial general intelligence (AGI) in Facebook",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-carmack/index.json",
+      "webUrl": "https://everyday.cc/ai/people/john-carmack/",
       "type": "profile",
-      "name": "Yann LeCun",
-      "bio": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
-      "location": "New York",
-      "website": "http://yann.lecun.com/",
+      "name": "John Carmack",
+      "bio": "Consulting CTO at Oculus VR. Working on artificial general intelligence (AGI) in Facebook",
+      "location": "Dallas, TX",
+      "website": "https://t.co/c0ndp2bkKs",
       "twitter": {
-        "username": "ylecun",
-        "url": "https://twitter.com/ylecun",
-        "followers": 287690
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
-        "citations": 224168
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
+        "username": "ID_AA_Carmack",
+        "url": "https://twitter.com/ID_AA_Carmack",
+        "followers": 945673
       },
       "affiliation": {
         "path": "",
-        "name": "New York University",
-        "domain": "nyu.edu"
+        "name": "Facebook",
+        "domain": "facebook.com"
       },
       "topics": [
         "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Robotics"
+        "Facebook AI"
       ],
-      "heat": 289,
+      "heat": 278,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
+          "url": "https://pbs.twimg.com/profile_images/1106497789/aa_icon_option_2_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Yann LeCun",
+          "title": "John Carmack",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/collections/top-ai-professors-in-stanford.md",
-      "title": "Top AI Professors in Stanford",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/top-ai-professors-in-stanford/index.json",
-      "webUrl": "https://everyday.cc/ai/people/collections/top-ai-professors-in-stanford/",
-      "type": "collection",
-      "name": "Top AI Professors in Stanford",
-      "bio": "",
+      "path": "_people/demis-hassabis.md",
+      "title": "Demis Hassabis",
+      "excerpt": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/demis-hassabis/index.json",
+      "webUrl": "https://everyday.cc/ai/people/demis-hassabis/",
+      "type": "profile",
+      "name": "Demis Hassabis",
+      "bio": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
+      "website": "http://t.co/8B3TFG0hNp",
+      "twitter": {
+        "username": "demishassabis",
+        "url": "https://twitter.com/demishassabis",
+        "followers": 244428
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
+        "citations": 66485
+      },
+      "affiliation": {
+        "path": "",
+        "name": "ac.uk - Homepage",
+        "domain": "ac.uk - Homepage"
+      },
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Andrew Ng",
-          "excerpt": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
-          "type": "profile",
-          "name": "Andrew Ng",
-          "bio": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ],
-          "heat": 289,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Andrew Ng",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Christopher D Manning",
-          "excerpt": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
-          "type": "profile",
-          "name": "Christopher D Manning",
-          "bio": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
-          "topics": [
-            "AI",
-            "Natural Language Processing",
-            "Machine Learning"
-          ],
-          "heat": 135,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
-              "width": 400,
-              "height": 400,
-              "title": "Christopher D Manning",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Fei-Fei Li",
-          "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-          "type": "profile",
-          "name": "Fei-Fei Li",
-          "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-          "topics": [
-            "AI",
-            "Machine Learning",
-            "Computer Vision",
-            "AI in Healthcare"
-          ],
-          "heat": 225,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Fei-Fei Li",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Josh Cogan",
-          "excerpt": "PhD Physics, Stanford University",
-          "type": "profile",
-          "name": "Josh Cogan",
-          "bio": "PhD Physics, Stanford University",
-          "topics": [
-            "AI",
-            "Machine Learning"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://scholar.google.com/citations?view_op=view_photo&user=_EPCKe0AAAAJ&citpid=2",
-              "width": 128,
-              "height": 84,
-              "title": "Josh Cogan",
-              "isCached": false
-            }
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 270,
+      "heat": 272,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Andrew Ng",
+          "title": "Demis Hassabis",
           "isCached": true
         }
       ],
@@ -549,7 +550,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 224,
+          "heat": 204,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1437346003187904516/ny9QBy0v_400x400.jpg",
@@ -594,7 +595,7 @@
             "Machine Learning",
             "AI in Autos"
           ],
-          "heat": 356,
+          "heat": 410,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
@@ -607,7 +608,7 @@
         }
       ],
       "size": 6,
-      "heat": 268,
+      "heat": 244,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=medium_photo&user=910z20QAAAAJ&citpid=3",
@@ -631,7 +632,7 @@
       "twitter": {
         "username": "geoffreyhinton",
         "url": "https://twitter.com/geoffreyhinton",
-        "followers": 131629
+        "followers": 131638
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
@@ -649,7 +650,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 249,
+      "heat": 242,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -709,7 +710,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 249,
+          "heat": 242,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -733,7 +734,7 @@
             "Computer Vision",
             "AI in Robotics"
           ],
-          "heat": 289,
+          "heat": 292,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
@@ -746,7 +747,7 @@
         }
       ],
       "size": 3,
-      "heat": 249,
+      "heat": 242,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
@@ -759,20 +760,195 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/john-carmack.md",
-      "title": "John Carmack",
-      "excerpt": "Consulting CTO at Oculus VR. Working on artificial general intelligence (AGI) in Facebook",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-carmack/index.json",
-      "webUrl": "https://everyday.cc/ai/people/john-carmack/",
+      "path": "_people/jeff-dean.md",
+      "title": "Jeff Dean",
+      "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jeff-dean/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jeff-dean/",
       "type": "profile",
-      "name": "John Carmack",
-      "bio": "Consulting CTO at Oculus VR. Working on artificial general intelligence (AGI) in Facebook",
-      "location": "Dallas, TX",
-      "website": "https://t.co/c0ndp2bkKs",
+      "name": "Jeff Dean",
+      "bio": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
+      "website": "https://t.co/ajoSG5g4Rn",
       "twitter": {
-        "username": "ID_AA_Carmack",
-        "url": "https://twitter.com/ID_AA_Carmack",
-        "followers": 945662
+        "username": "jeffdean",
+        "url": "https://twitter.com/jeffdean",
+        "followers": 199113
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
+        "citations": 199063
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/google.com-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 230,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jeff Dean",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/collections/top-ai-professors-in-stanford.md",
+      "title": "Top AI Professors in Stanford",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/top-ai-professors-in-stanford/index.json",
+      "webUrl": "https://everyday.cc/ai/people/collections/top-ai-professors-in-stanford/",
+      "type": "collection",
+      "name": "Top AI Professors in Stanford",
+      "bio": "",
+      "topics": [
+        "AI"
+      ],
+      "topItems": [
+        {
+          "path": "",
+          "title": "Andrew Ng",
+          "excerpt": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
+          "type": "profile",
+          "name": "Andrew Ng",
+          "bio": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ],
+          "heat": 289,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Andrew Ng",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Christopher D Manning",
+          "excerpt": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
+          "type": "profile",
+          "name": "Christopher D Manning",
+          "bio": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
+          "topics": [
+            "AI",
+            "Natural Language Processing",
+            "Machine Learning"
+          ],
+          "heat": 172,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
+              "width": 400,
+              "height": 400,
+              "title": "Christopher D Manning",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Fei-Fei Li",
+          "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
+          "type": "profile",
+          "name": "Fei-Fei Li",
+          "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
+          "topics": [
+            "AI",
+            "Machine Learning",
+            "Computer Vision",
+            "AI in Healthcare"
+          ],
+          "heat": 186,
+          "images": [
+            {
+              "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
+              "width": 400,
+              "height": 400,
+              "title": "Fei-Fei Li",
+              "isCached": true
+            }
+          ]
+        },
+        {
+          "path": "",
+          "title": "Josh Cogan",
+          "excerpt": "PhD Physics, Stanford University",
+          "type": "profile",
+          "name": "Josh Cogan",
+          "bio": "PhD Physics, Stanford University",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://scholar.google.com/citations?view_op=view_photo&user=_EPCKe0AAAAJ&citpid=2",
+              "width": 128,
+              "height": 84,
+              "title": "Josh Cogan",
+              "isCached": false
+            }
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 223,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Andrew Ng",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/soumith-chintala.md",
+      "title": "Soumith Chintala",
+      "excerpt": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/soumith-chintala/index.json",
+      "webUrl": "https://everyday.cc/ai/people/soumith-chintala/",
+      "type": "profile",
+      "name": "Soumith Chintala",
+      "bio": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
+      "location": "New York, NY",
+      "website": "https://soumith.ch/",
+      "twitter": {
+        "username": "soumithchintala",
+        "url": "https://twitter.com/soumithchintala",
+        "followers": 93260
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/soumith"
       },
       "affiliation": {
         "path": "",
@@ -781,15 +957,59 @@
       },
       "topics": [
         "AI",
-        "Facebook AI"
+        "Machine Learning",
+        "Facebook AI",
+        "PyTorch"
       ],
-      "heat": 234,
+      "heat": 209,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1106497789/aa_icon_option_2_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "John Carmack",
+          "title": "Soumith Chintala",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/joy-buolamwini.md",
+      "title": "Joy Buolamwini",
+      "excerpt": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/joy-buolamwini/index.json",
+      "webUrl": "https://everyday.cc/ai/people/joy-buolamwini/",
+      "type": "profile",
+      "name": "Joy Buolamwini",
+      "bio": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
+      "location": "United States",
+      "website": "https://www.patreon.com/poetofcode",
+      "twitter": {
+        "username": "jovialjoy",
+        "url": "https://twitter.com/jovialjoy",
+        "followers": 70360
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/buolamwini/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "MIT",
+        "domain": "mit.edu"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 204,
+      "tags": [
+        "Artist"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1437346003187904516/ny9QBy0v_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Joy Buolamwini",
           "isCached": true
         }
       ],
@@ -809,7 +1029,7 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 392998
+        "followers": 393005
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
@@ -843,231 +1063,13 @@
         "Computer Vision",
         "AI in Healthcare"
       ],
-      "heat": 225,
+      "heat": 186,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Fei-Fei Li",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/joy-buolamwini.md",
-      "title": "Joy Buolamwini",
-      "excerpt": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/joy-buolamwini/index.json",
-      "webUrl": "https://everyday.cc/ai/people/joy-buolamwini/",
-      "type": "profile",
-      "name": "Joy Buolamwini",
-      "bio": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
-      "location": "United States",
-      "website": "https://www.patreon.com/poetofcode",
-      "twitter": {
-        "username": "jovialjoy",
-        "url": "https://twitter.com/jovialjoy",
-        "followers": 70358
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/buolamwini/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "MIT",
-        "domain": "mit.edu"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 224,
-      "tags": [
-        "Artist"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1437346003187904516/ny9QBy0v_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Joy Buolamwini",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/jeff-dean.md",
-      "title": "Jeff Dean",
-      "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jeff-dean/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jeff-dean/",
-      "type": "profile",
-      "name": "Jeff Dean",
-      "bio": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "website": "https://t.co/ajoSG5g4Rn",
-      "twitter": {
-        "username": "jeffdean",
-        "url": "https://twitter.com/jeffdean",
-        "followers": 199110
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
-        "citations": 199063
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Google",
-        "domain": "google.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/google.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/google.com-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 222,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jeff Dean",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/chelsea-finn.md",
-      "title": "Chelsea Finn",
-      "excerpt": "CS Faculty @Stanford. Research scientist @GoogleAI. PhD from @Berkeley_EECS, EECS BS from @MIT",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/chelsea-finn/index.json",
-      "webUrl": "https://everyday.cc/ai/people/chelsea-finn/",
-      "type": "profile",
-      "name": "Chelsea Finn",
-      "bio": "CS Faculty @Stanford. Research scientist @GoogleAI. PhD from @Berkeley_EECS, EECS BS from @MIT",
-      "location": "Palo Alto, CA",
-      "website": "https://t.co/R71YZ0CUzE",
-      "twitter": {
-        "username": "chelseabfinn",
-        "url": "https://twitter.com/chelseabfinn",
-        "followers": 40878
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=1xw2vTsAAAAJ",
-        "citations": 18071
-      },
-      "affiliation": {
-        "path": "",
-        "name": "stanford.edu - Homepage",
-        "domain": "stanford.edu - Homepage"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 221,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1173119656665604101/Ke_EP63l_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Chelsea Finn",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/soumith-chintala.md",
-      "title": "Soumith Chintala",
-      "excerpt": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/soumith-chintala/index.json",
-      "webUrl": "https://everyday.cc/ai/people/soumith-chintala/",
-      "type": "profile",
-      "name": "Soumith Chintala",
-      "bio": "I ❤ research -- multi-modal world models, robots.\nI think deeply about lowering the barrier to use A.I.\nI co-created and lead PyTorch at Facebook A.I.",
-      "location": "New York, NY",
-      "website": "https://soumith.ch/",
-      "twitter": {
-        "username": "soumithchintala",
-        "url": "https://twitter.com/soumithchintala",
-        "followers": 93261
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/soumith"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Facebook",
-        "domain": "facebook.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI",
-        "PyTorch"
-      ],
-      "heat": 210,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Soumith Chintala",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/demis-hassabis.md",
-      "title": "Demis Hassabis",
-      "excerpt": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/demis-hassabis/index.json",
-      "webUrl": "https://everyday.cc/ai/people/demis-hassabis/",
-      "type": "profile",
-      "name": "Demis Hassabis",
-      "bio": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
-      "website": "http://t.co/8B3TFG0hNp",
-      "twitter": {
-        "username": "demishassabis",
-        "url": "https://twitter.com/demishassabis",
-        "followers": 244396
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
-        "citations": 66485
-      },
-      "affiliation": {
-        "path": "",
-        "name": "ac.uk - Homepage",
-        "domain": "ac.uk - Homepage"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 203,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Demis Hassabis",
           "isCached": true
         }
       ],
@@ -1087,7 +1089,7 @@
       "twitter": {
         "username": "alexandr_wang",
         "url": "https://twitter.com/alexandr_wang",
-        "followers": 15837
+        "followers": 15836
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/alexandrwang/"
@@ -1103,7 +1105,7 @@
         "Computer Vision",
         "AI in Autos"
       ],
-      "heat": 197,
+      "heat": 179,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1423304335463702539/f3yoJGnp_400x400.jpg",
@@ -1116,40 +1118,96 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/bernhard-scholkopf.md",
-      "title": "Bernhard Schölkopf",
-      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/bernhard-scholkopf/index.json",
-      "webUrl": "https://everyday.cc/ai/people/bernhard-scholkopf/",
+      "path": "_people/chelsea-finn.md",
+      "title": "Chelsea Finn",
+      "excerpt": "CS Faculty @Stanford. Research scientist @GoogleAI. PhD from @Berkeley_EECS, EECS BS from @MIT",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/chelsea-finn/index.json",
+      "webUrl": "https://everyday.cc/ai/people/chelsea-finn/",
       "type": "profile",
-      "name": "Bernhard Schölkopf",
-      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "name": "Chelsea Finn",
+      "bio": "CS Faculty @Stanford. Research scientist @GoogleAI. PhD from @Berkeley_EECS, EECS BS from @MIT",
+      "location": "Palo Alto, CA",
+      "website": "https://t.co/R71YZ0CUzE",
       "twitter": {
-        "username": "bschoelkopf",
-        "url": "https://twitter.com/bschoelkopf",
-        "followers": 8374
+        "username": "chelseabfinn",
+        "url": "https://twitter.com/chelseabfinn",
+        "followers": 40880
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 181648
+        "url": "https://scholar.google.com/citations?user=1xw2vTsAAAAJ",
+        "citations": 18071
       },
       "affiliation": {
         "path": "",
-        "name": "tuebingen.mpg.de",
-        "domain": "tuebingen.mpg.de"
+        "name": "stanford.edu - Homepage",
+        "domain": "stanford.edu - Homepage"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 176,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1173119656665604101/Ke_EP63l_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Chelsea Finn",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/christopher-d-manning.md",
+      "title": "Christopher D Manning",
+      "excerpt": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-d-manning/index.json",
+      "webUrl": "https://everyday.cc/ai/people/christopher-d-manning/",
+      "type": "profile",
+      "name": "Christopher D Manning",
+      "bio": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
+      "location": "Palo Alto",
+      "website": "https://nlp.stanford.edu/~manning/",
+      "twitter": {
+        "username": "chrmanning",
+        "url": "https://twitter.com/chrmanning",
+        "followers": 85763
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
+        "citations": 179163
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "AI",
-        "Math for AI",
+        "Natural Language Processing",
         "Machine Learning"
       ],
-      "heat": 159,
+      "heat": 172,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
           "width": 400,
           "height": 400,
-          "title": "Bernhard Schölkopf",
+          "title": "Christopher D Manning",
           "isCached": true
         }
       ],
@@ -1185,7 +1243,7 @@
         "Math for AI",
         "Machine Learning"
       ],
-      "heat": 157,
+      "heat": 145,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg",
@@ -1198,42 +1256,68 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/ilya-sutskever.md",
-      "title": "Ilya Sutskever",
-      "excerpt": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/ilya-sutskever/index.json",
-      "webUrl": "https://everyday.cc/ai/people/ilya-sutskever/",
+      "path": "_people/laurence-moroney.md",
+      "title": "Laurence Moroney",
+      "excerpt": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/laurence-moroney/index.json",
+      "webUrl": "https://everyday.cc/ai/people/laurence-moroney/",
       "type": "profile",
-      "name": "Ilya Sutskever",
-      "bio": "Co-founder and Chief Scientist of OpenAI. I spent three wonderful years as a Research Scientist at the Google Brain Team. Before that, I was a co-founder of DNNresearch. And before that, I was a postdoc in Stanford with Andrew Ng's group. And in the beginning, I was a student in the Machine Learning group of Toronto, working with Geoffrey Hinton.",
+      "name": "Laurence Moroney",
+      "bio": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
+      "location": "Sammamish, WA",
+      "website": "https://research.google/people/RajatMonga/",
       "twitter": {
-        "username": "ilyasut",
-        "url": "https://twitter.com/ilyasut",
-        "followers": 69740
+        "username": "lmoroney",
+        "url": "https://twitter.com/lmoroney",
+        "followers": 25247
       },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
-        "citations": 282310
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Ilya_Sutskever"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "openai.com",
-        "domain": "openai.com"
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/laurence-moroney/"
       },
       "topics": [
         "AI",
-        "Machine Learning"
+        "Google AI",
+        "Machine Learning",
+        "TensorFlow"
       ],
-      "heat": 147,
+      "heat": 142,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1425684733753626624/q521TgTG_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1438898262602256386/CiWrR6Gi_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Ilya Sutskever",
+          "title": "Laurence Moroney",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/kate-crawford.md",
+      "title": "Kate Crawford",
+      "excerpt": "Co-founder @AINowInstitute, NYU | Principal Researcher MSR | Distinguished Research Professor NYU | Chair of AI and Justice, École Normale Supérieure",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/kate-crawford/index.json",
+      "webUrl": "https://everyday.cc/ai/people/kate-crawford/",
+      "type": "profile",
+      "name": "Kate Crawford",
+      "bio": "Co-founder @AINowInstitute, NYU | Principal Researcher MSR | Distinguished Research Professor NYU | Chair of AI and Justice, École Normale Supérieure",
+      "location": "New York City",
+      "website": "https://www.katecrawford.net/",
+      "twitter": {
+        "username": "katecrawford",
+        "url": "https://twitter.com/katecrawford",
+        "followers": 76988
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 140,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/844013024809631744/tvoeKcfV_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Kate Crawford",
           "isCached": true
         }
       ],
@@ -1253,7 +1337,7 @@
       "twitter": {
         "username": "NandoDF",
         "url": "https://twitter.com/NandoDF",
-        "followers": 85851
+        "followers": 85850
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
@@ -1268,7 +1352,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 145,
+      "heat": 133,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1338407584370462720/WVbG5sqw_400x400.jpg",
@@ -1281,56 +1365,111 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/christopher-d-manning.md",
-      "title": "Christopher D Manning",
-      "excerpt": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-d-manning/index.json",
-      "webUrl": "https://everyday.cc/ai/people/christopher-d-manning/",
+      "path": "_people/martin-ford.md",
+      "title": "Martin Ford",
+      "excerpt": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/martin-ford/index.json",
+      "webUrl": "https://everyday.cc/ai/people/martin-ford/",
       "type": "profile",
-      "name": "Christopher D Manning",
-      "bio": "Director, @StanfordAILab. Prof. CS & Linguistics, @Stanford. 🇦🇺 Do #NLProc. Find out what I'm up to at @stanfordnlp. 👋",
-      "location": "Palo Alto",
-      "website": "https://nlp.stanford.edu/~manning/",
+      "name": "Martin Ford",
+      "bio": "Martin Ford is a futurist and author focusing on artificial intelligence and robotics, and the impact of these technologies on the job market, economy and society. He has written three books on technology.",
+      "location": "Silicon Valley, CA",
+      "website": "https://t.co/NRuuR6oILg",
       "twitter": {
-        "username": "chrmanning",
-        "url": "https://twitter.com/chrmanning",
-        "followers": 85760
+        "username": "MFordFuture",
+        "url": "https://twitter.com/MFordFuture",
+        "followers": 48999
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Martin_Ford_(author)"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 122,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/539018046287790080/Wvt135w6_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Martin Ford",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/bernhard-scholkopf.md",
+      "title": "Bernhard Schölkopf",
+      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/bernhard-scholkopf/index.json",
+      "webUrl": "https://everyday.cc/ai/people/bernhard-scholkopf/",
+      "type": "profile",
+      "name": "Bernhard Schölkopf",
+      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "twitter": {
+        "username": "bschoelkopf",
+        "url": "https://twitter.com/bschoelkopf",
+        "followers": 8374
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
-        "citations": 179163
+        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
+        "citations": 181648
       },
       "affiliation": {
         "path": "",
-        "name": "Stanford",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
+        "name": "tuebingen.mpg.de",
+        "domain": "tuebingen.mpg.de"
       },
       "topics": [
         "AI",
-        "Natural Language Processing",
+        "Math for AI",
         "Machine Learning"
       ],
-      "heat": 135,
+      "heat": 112,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
+          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Christopher D Manning",
+          "title": "Bernhard Schölkopf",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/rana-el-kaliouby.md",
+      "title": "Rana el Kaliouby",
+      "excerpt": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/rana-el-kaliouby/index.json",
+      "webUrl": "https://everyday.cc/ai/people/rana-el-kaliouby/",
+      "type": "profile",
+      "name": "Rana el Kaliouby",
+      "bio": "Entrepreneur. Scientist. Co-founder and CEO @Affectiva. On a mission to humanize technology with #EmotionAI - YGL @WEF. #HumanFirst",
+      "location": "Boston",
+      "website": "https://t.co/CptEKpnJzd",
+      "twitter": {
+        "username": "kaliouby",
+        "url": "https://twitter.com/kaliouby",
+        "followers": 24534
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/kaliouby/"
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Rana_el_Kaliouby"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 96,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/667860223512612864/sK_qnOSx_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rana el Kaliouby",
           "isCached": true
         }
       ],
@@ -1350,7 +1489,7 @@
       "twitter": {
         "username": "smolix",
         "url": "https://twitter.com/smolix",
-        "followers": 18332
+        "followers": 18329
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
@@ -1374,107 +1513,13 @@
         "AWS AI",
         "Machine Learning"
       ],
-      "heat": 115,
+      "heat": 92,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Alex Smola",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/javier-m-duarte.md",
-      "title": "Javier M. Duarte",
-      "excerpt": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/javier-m-duarte/index.json",
-      "webUrl": "https://everyday.cc/ai/people/javier-m-duarte/",
-      "type": "profile",
-      "name": "Javier M. Duarte",
-      "bio": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
-      "location": "San Diego, CA",
-      "website": "https://t.co/Z06UY9gVRv",
-      "twitter": {
-        "username": "jmgduarte",
-        "url": "https://twitter.com/jmgduarte",
-        "followers": 354
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
-        "citations": 151408
-      },
-      "affiliation": {
-        "path": "",
-        "name": "fnal.gov",
-        "domain": "fnal.gov"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 71,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1442955547343343616/vvBBIGGR_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Javier M. Duarte",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/harry-shum.md",
-      "title": "Harry Shum",
-      "excerpt": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/harry-shum/index.json",
-      "webUrl": "https://everyday.cc/ai/people/harry-shum/",
-      "type": "profile",
-      "name": "Harry Shum",
-      "bio": "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing.",
-      "location": "Redmond, WA",
-      "website": "http://t.co/NY3kFUGs7a",
-      "twitter": {
-        "username": "harryshum",
-        "url": "https://twitter.com/harryshum",
-        "followers": 17409
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
-        "citations": 47885
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Harry_Shum"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Computer Vision"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Harry Shum",
           "isCached": true
         }
       ],
@@ -1494,147 +1539,18 @@
       "twitter": {
         "username": "jackclarksf",
         "url": "https://twitter.com/jackclarksf",
-        "followers": 43897
+        "followers": 43895
       },
       "topics": [
         "AI"
       ],
-      "heat": 64,
+      "heat": 87,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Jack Clark",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/sougwen-chung.md",
-      "title": "Sougwen Chung",
-      "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/sougwen-chung/index.json",
-      "webUrl": "https://everyday.cc/ai/people/sougwen-chung/",
-      "type": "profile",
-      "name": "Sougwen Chung",
-      "bio": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
-      "location": "New York, New York",
-      "website": "https://sougwen.com/",
-      "twitter": {
-        "username": "sougwen",
-        "url": "https://twitter.com/sougwen",
-        "followers": 9128
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/sougwenchung/"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 64,
-      "tags": [
-        "Artist"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Sougwen Chung",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/collections/top-ai-artists.md",
-      "title": "Top AI Artists",
-      "excerpt": "Top artists exploring the impact of AI on art, culture and society.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/collections/top-ai-artists/index.json",
-      "webUrl": "https://everyday.cc/ai/people/collections/top-ai-artists/",
-      "type": "collection",
-      "name": "Top AI Artists",
-      "bio": "Top artists exploring the impact of AI on art, culture and society.",
-      "topics": [
-        "AI"
-      ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Joy Buolamwini",
-          "excerpt": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
-          "type": "profile",
-          "name": "Joy Buolamwini",
-          "bio": "Joy Adowaa Buolamwini is a Ghanaian-American computer scientist and digital activist based at the MIT Media Lab. She founded the Algorithmic Justice League, an organisation that looks to challenge bias in decision making software.",
-          "topics": [
-            "AI"
-          ],
-          "heat": 224,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1437346003187904516/ny9QBy0v_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Joy Buolamwini",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Sougwen Chung",
-          "excerpt": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
-          "type": "profile",
-          "name": "Sougwen Chung",
-          "bio": "Chung's work explores the mark-made-by-hand and the mark-made-by-machine as an approach to understanding the dynamics of humans and systems. Chung is a former research fellow at MIT’s Media Lab and a pioneer in the field of human-machine collaboration. In 2019, she was selected as the Woman of the Year in Monaco for achievement in the Arts & Sciences.",
-          "topics": [
-            "AI",
-            "AI in Robotics"
-          ],
-          "heat": 64,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png",
-              "width": 400,
-              "height": 400,
-              "title": "Sougwen Chung",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Taryn Southern",
-          "excerpt": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
-          "type": "profile",
-          "name": "Taryn Southern",
-          "bio": "AI artist | futurist | storyteller | recovering youtuber. Follow my documentary @iamhuman for screenings/release dates. AI album: http://bit.ly/iamAI",
-          "topics": [
-            "AI"
-          ],
-          "heat": 0,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/899673407423356928/Y0ZP2-I7_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Taryn Southern",
-              "isCached": true
-            }
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1437346003187904516/ny9QBy0v_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Joy Buolamwini",
           "isCached": true
         }
       ],

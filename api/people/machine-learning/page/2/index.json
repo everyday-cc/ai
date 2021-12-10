@@ -4,6 +4,74 @@
   "page": 2,
   "value": [
     {
+      "path": "_people/lev-dudko.md",
+      "title": "Lev Dudko",
+      "excerpt": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lev-dudko/index.json",
+      "webUrl": "https://everyday.cc/ai/people/lev-dudko/",
+      "type": "profile",
+      "name": "Lev Dudko",
+      "bio": "Lomonosov Moscow State University Skobeltsyn Institute of Nuclear Physics",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=zEQGLhoAAAAJ",
+        "citations": 193456
+      },
+      "affiliation": {
+        "path": "",
+        "name": "sinp.msu.ru",
+        "domain": "sinp.msu.ru"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+          "width": 128,
+          "height": 128,
+          "title": "Lev Dudko",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/lily-asquith.md",
+      "title": "Lily Asquith",
+      "excerpt": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/lily-asquith/index.json",
+      "webUrl": "https://everyday.cc/ai/people/lily-asquith/",
+      "type": "profile",
+      "name": "Lily Asquith",
+      "bio": "Royal Society Dorothy Hodgkin Research Fellow, University of Sussex",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=cFhAMkoAAAAJ",
+        "citations": 207765
+      },
+      "affiliation": {
+        "path": "",
+        "name": "University of Sussex",
+        "domain": "sussex.ac.uk"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+          "width": 128,
+          "height": 128,
+          "title": "Lily Asquith",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/luc-van-gool.md",
       "title": "Luc Van Gool",
       "excerpt": "professor computer vision @ ETH Zurich ee.ethz.ch & @ KU Leuven,  Head Toyota Res Lab …",
@@ -153,37 +221,27 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/christopher-m-bishop.md",
-      "title": "Christopher M. Bishop",
-      "excerpt": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-m-bishop/index.json",
-      "webUrl": "https://everyday.cc/ai/people/christopher-m-bishop/",
+      "path": "_people/francisco-matorras.md",
+      "title": "Francisco Matorras",
+      "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/francisco-matorras/index.json",
+      "webUrl": "https://everyday.cc/ai/people/francisco-matorras/",
       "type": "profile",
-      "name": "Christopher M. Bishop",
-      "bio": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "location": "Cambridge, England",
-      "website": "https://t.co/qaAoprog1k",
+      "name": "Francisco Matorras",
+      "bio": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
       "twitter": {
-        "username": "chrisbishopmsft",
-        "url": "https://twitter.com/chrisbishopmsft",
-        "followers": 5629
+        "username": "fmatorras",
+        "url": "https://twitter.com/fmatorras",
+        "followers": 285
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
-        "citations": 133021
+        "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
+        "citations": 260468
       },
       "affiliation": {
         "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "unican.es",
+        "domain": "unican.es"
       },
       "topics": [
         "AI",
@@ -192,90 +250,10 @@
       "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_400x400.jpeg",
           "width": 400,
           "height": 400,
-          "title": "Christopher M. Bishop",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/oren-etzioni.md",
-      "title": "Oren Etzioni",
-      "excerpt": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/oren-etzioni/index.json",
-      "webUrl": "https://everyday.cc/ai/people/oren-etzioni/",
-      "type": "profile",
-      "name": "Oren Etzioni",
-      "bio": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
-      "location": "Seattle",
-      "website": "https://allenai.org/team/orene/",
-      "twitter": {
-        "username": "etzioni",
-        "url": "https://twitter.com/etzioni",
-        "followers": 26309
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
-        "citations": 44108
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Allen Institute for AI (AI2)",
-        "domain": "allenai.org"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Oren Etzioni",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/andrew-moore.md",
-      "title": "Andrew Moore",
-      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/andrew-moore/index.json",
-      "webUrl": "https://everyday.cc/ai/people/andrew-moore/",
-      "type": "profile",
-      "name": "Andrew Moore",
-      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "location": "Pittsburgh, PA",
-      "website": "http://www.cs.cmu.edu/~awm/",
-      "twitter": {
-        "username": "awmcmu",
-        "url": "https://twitter.com/awmcmu",
-        "followers": 6123
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
-      },
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Andrew Moore",
+          "title": "Francisco Matorras",
           "isCached": true
         }
       ],
@@ -329,7 +307,7 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 6,
+      "heat": 32,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
@@ -355,7 +333,7 @@
       "twitter": {
         "username": "kaifulee",
         "url": "https://twitter.com/kaifulee",
-        "followers": 1522145
+        "followers": 1522146
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=lm2nBYkAAAAJ",
@@ -390,37 +368,44 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/laurence-moroney.md",
-      "title": "Laurence Moroney",
-      "excerpt": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/laurence-moroney/index.json",
-      "webUrl": "https://everyday.cc/ai/people/laurence-moroney/",
+      "path": "_people/oren-etzioni.md",
+      "title": "Oren Etzioni",
+      "excerpt": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/oren-etzioni/index.json",
+      "webUrl": "https://everyday.cc/ai/people/oren-etzioni/",
       "type": "profile",
-      "name": "Laurence Moroney",
-      "bio": "Lead of AI Developer Relations at Google. Futurist, Optimist, Artist, Advocate and Author of SciFi, NonFic and more. Tries to be nice.",
-      "location": "Sammamish, WA",
-      "website": "https://research.google/people/RajatMonga/",
+      "name": "Oren Etzioni",
+      "bio": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
+      "location": "Seattle",
+      "website": "https://allenai.org/team/orene/",
       "twitter": {
-        "username": "lmoroney",
-        "url": "https://twitter.com/lmoroney",
-        "followers": 25247
+        "username": "etzioni",
+        "url": "https://twitter.com/etzioni",
+        "followers": 26309
       },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/laurence-moroney/"
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
+        "citations": 44108
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Allen Institute for AI (AI2)",
+        "domain": "allenai.org"
       },
       "topics": [
         "AI",
-        "Google AI",
-        "Machine Learning",
-        "TensorFlow"
+        "Machine Learning"
       ],
       "heat": 0,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1438898262602256386/CiWrR6Gi_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Laurence Moroney",
+          "title": "Oren Etzioni",
           "isCached": true
         }
       ],
