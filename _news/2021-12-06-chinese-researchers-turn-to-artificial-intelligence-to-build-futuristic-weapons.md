@@ -46,6 +46,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "How Machine Learning is Changing Finance Forever"
+    excerpt: "Innovation drives things forward no matter the industry that is on the receiving end. In finance, innovation over the last decade has seen how financial institutions, banks, and lenders interact with their customers and provide financial services change exponentially."
+    publishedDateTime: 2021-12-10T05:41:00Z
+    webUrl: "https://techbullion.com/how-machine-learning-is-changing-finance-forever/"
+    ampWebUrl: "https://techbullion.com/how-machine-learning-is-changing-finance-forever/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-machine-learning-is-changing-finance-forever/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 76
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2021/12/How-Machine-Learning-is-Changing-Finance-Forever.jpeg"
+        width: 1200
+        height: 439
+        isCached: true
 
 secured: "iNdc+wIaXHVFBts4dl85asvhEfwMctboHkzK/0YNeDPi0mbravYyAoOlFlHkYDr6NvZqud5JBhLAv2gkgv1R7mKYeZH3V3s8id5xF+NnJLjoi0Daqa/7a7gDsskPkRDIVfwWI6aJ2djE/sOHMFwHPPh4PLo80Sww4FwY87tqY3wx1hKvMmnKP0FtzNxqyyYZbAUGP9Yu4I+bVraMGxBRjF3JmB+4vGLm6E4UXzTg1hJRT7po5mpLJqdmIRWdP6z36kNG/svFJZRozKlNGZXGNvKElachDpZJH27wwycKFjHFzHXixBqm/SlQwLRXJBPu+3UFAIi93K9+NWSlqZe7lBHI90KXX0SFpuODVhoacps=;nXW11G829/UyUlFVJk9N1w=="
 ---

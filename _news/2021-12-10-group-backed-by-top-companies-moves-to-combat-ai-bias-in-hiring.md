@@ -3,8 +3,8 @@ category: news
 title: "Group backed by top companies moves to combat AI bias in hiring"
 excerpt: "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination."
 publishedDateTime: 2021-12-09T23:16:00Z
-originalUrl: "https://www.bizjournals.com/columbus/news/2021/12/09/artificial-intelligence-bias-combat.html"
-webUrl: "https://www.bizjournals.com/columbus/news/2021/12/09/artificial-intelligence-bias-combat.html"
+originalUrl: "https://www.bizjournals.com/losangeles/news/2021/12/09/artificial-intelligence-bias-combat.html"
+webUrl: "https://www.bizjournals.com/losangeles/news/2021/12/09/artificial-intelligence-bias-combat.html"
 type: article
 quality: 19
 heat: -1
@@ -48,6 +48,6 @@ related:
         height: 628
         isCached: true
 
-secured: "FwI7gRtu7WLKZQ3eSBCGcXXOU1PEeWdRbuMx7yyjOwpkd5XGuDRV+piz/fb7xbWaxEHkg/okKKSWl/brUlZsNyTxapDBuxli5WwJxDwKNO6z1OAudAIcjZWR2rwUJ7FGP3A+AUtNIcrJCsvn4IjBBnKmdy+tza/RymZ+Cj8h1L57Pc9ogTdZ5S1JOQB4iMdTtQ6nKbp6QLAXpgf+p251grDZcoUgN7SDVPGQ3mTKQm9Rzs/cKX7cxD9MYIptlRS5vGko8GbENo2opblTZVZHicVjWerGau+X9f3PD3XfpKfyjgV8JgOkgvt7TITyntRZV5TCgOSi59rOxKwYtblbjs+3qTyUDpCMX5ibJKKbqZhSeFmZ/qFQVsrx1D2jEWfhP5nfywTPBPAleZNsZ2z4/cE6+gLEqi3UbzRXOYBrhabZt9JF/tm13T+FjPUt78vcMaGgmE815m08baovAdh2vtzeCQzmMa49YZ5VW7PsGXwTNWkd3qVWEkk9O+MsFhSrH96FO0Q0F2PebahXnm5Kow==;FbhD3zS2poC0Awfqas1vFA=="
+secured: "BklO5Dim6z4ee+xCkbyGhM8luUjn7lxguiJFMD0CBqhEmapjYO7uLMN0cuM37PEmYc5+4NppCRTSmZQTWL6gvarb5mjLroKztml11HdI2nVo6PxbObbbEXr37+/jGRxc1H6k6OsfYMF5BxqjIVdpNZBpDD4sTWh64eyF5JWgHV5hfEbt5z9iXVZSPfNi4f4OVK4N7wicYsy1hqsuJaEyOxtC3mzh9Dzc9f8YSbcO2onxqt4GaRTviOdaentCrBft0dQVo3nRrcfjADZi0qjwwl2vDAvOTcgtlpXp0cTbkt8np+eLU2hsEC9dpapZ1JBBL2ixePH+hThYiXAyBW3EcoqF5+qg+0NyE/NzsfE/qGUvourEcT5D6s3iML2y6wP69wEjw12xqweFs/9I28U7uAsB1EP1mJCPvir6bVLNZxMwFMqvFWHudqPXjALfkrDGv87Z+smNuIye7yK6lAz0uwv9QPDK/P+ow7rCWWbkL3MbOusKHl0XceoD0gb+fGalyOmjiJCH59rmbccnr4c/Aw==;v/O3bEVIlYN1M32eiMdaAw=="
 ---
 

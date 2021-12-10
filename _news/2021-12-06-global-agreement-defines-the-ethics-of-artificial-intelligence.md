@@ -7,7 +7,7 @@ originalUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916
 webUrl: "https://www.indepthnews.info/index.php/sustainability/poverty/4916-global-agreement-defines-the-ethics-of-artificial-intelligence"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 750
     height: 337
     isCached: true
+
+related:
+  - title: "10 Women Leading The Way For Ethical AI"
+    excerpt: "Analytics India Magazine has curated a list of ten women from across the globe who are leading the ethical AI fight against the big techs of the world."
+    publishedDateTime: 2021-12-10T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/10-women-leading-the-way-for-ethical-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/women-in-ai-banner_11zon.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "3ov+uMnAx3Du9q3lhlAKiuDCj1iISnYO7/3CXpTP6QKPJJOBLMdViA5RGSNEENmS9AgeRhZlwYCVSlCGiZN69OmU+qw76liJAyyeMQmzWZ9Obj9naZzcR3qJOFqa9KvYox5d0O1gvU8NYXSeJl9Q/FVMHJR+8dBZCAvTyaKxmRouFu6CiOBaaUq8Qm4inuQRU7qK3fEro+zU3dIF6tOES71+2yj+CTr99k/VA6grM3XlNv6FFBXi+PKV/8xWD4UPdrQWFXh2v1Ke77dL6Jcru1GZ8v0bRdLvtjmnEKtkcEGHQGb0TIv3O8IEJfqdfDrSMpw8T0ANrOd6jFFXzuiww8msS8XzpQUMZroZuJZmq+s=;5YixGTMsgNNLqbXbgfAC8g=="
 ---

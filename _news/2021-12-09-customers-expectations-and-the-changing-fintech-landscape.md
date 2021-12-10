@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/customers-expectations-changing-fin
 webUrl: "https://www.linkedin.com/pulse/customers-expectations-changing-fintech-landscape-danijella-dragas"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -27,33 +27,6 @@ images:
     width: 675
     height: 380
     isCached: true
-
-related:
-  - title: "The deep dive: Chatbots in FinTech and banking"
-    excerpt: "The evolution of the FinTech and banking sector has created an enormous need to provide better customer service, paving a way for chatbots."
-    publishedDateTime: 2021-12-09T12:21:00Z
-    webUrl: "https://ibsintelligence.com/ibsi_prime_news/the-deep-dive-chatbots-in-fintech-and-banking/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 39
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/12/IBSI_Website_Weekly-Chart_680x400_061221.jpg"
-        width: 680
-        height: 400
-        isCached: true
-  - title: "DIFC FinTech Hive’s largest cohort sees 44 startups taking part"
-    excerpt: "DIFC FinTech Hive, the first and largest financial technology accelerator in the Middle East, Africa and South Asia (MEASA) region, saw 44 successful start-ups taking part, making it the largest cohort."
-    publishedDateTime: 2021-12-07T04:41:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/DIFC_FinTech_Hives_largest_cohort_sees_44_startups_taking_part-SNG_267280437/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_267280437/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_267280437/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
 
 secured: "zcXCu/CGFdFHmS5HP+jkHWWnt8ENnYYIvMol0qaJ2VAaz9jwYhb5uNlHKfjxc8ibqNiIdPXtq9Z/GetgKLz9IdCo541OQI34sG5/Yri1GcoM11829WWz9JDry3cfB1248jHtwfkQUY7t92zRdxSNbHs5mbtXUJ491ioidC25FEoepOi7cV0r0NZiL6kQzmSD/QUARnDGwOjHFoip/Hoxticf7ISIVhyA4BIrXMlnkuftAVcFfpYsYDX3cfuci9pqau8/GftBhgyn8H2M/ywK4oMoScmUO4Qx+Cf+/iHrMvLxae4au8gOBNtFXZ8g5bRkIH+SWAXZJkf97DAbALYOuZO7+2QVHS3araNxaUVUAYff6X/TbqXvSJc+I28Ll0JZxgCDPZP6OKEjNi2bf/Ej7DxIjl1oXwPBrQi0ddGZp+tai4EHAdJs9ZNQLg3Ookw84CT6qF134ZdUrG92OL3IJm3Bba95gQlrNI15kVWWiHjwOCVZxPm/zNCnbUc4F4DpkYzqe91+Io0ltPIM8az7Qg==;AO+c+NPmwmjZXpwXlwLEDQ=="
 ---

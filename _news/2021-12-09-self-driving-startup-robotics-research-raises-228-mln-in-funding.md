@@ -1,33 +1,24 @@
 ---
 category: news
 title: "Self-driving startup Robotics Research raises $228 mln in funding"
-excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
-publishedDateTime: 2021-12-09T05:12:00Z
-originalUrl: "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/"
-webUrl: "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/"
+excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
+publishedDateTime: 2021-12-09T05:00:00Z
+originalUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding"
+webUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding"
+ampWebUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
 type: article
-quality: 101
-heat: 151
+quality: 99
+heat: 150
 published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
-
-images:
-  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63"
-    width: 1200
-    height: 628
-    isCached: true
+  - AI
 
 related:
   - title: "Self-Driving Startup Robotics Research Raises $228 Million in Funding"
@@ -53,6 +44,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Self-driving startup Robotics Research raises $228m from SoftBank, others"
+    excerpt: "The fundraising round also included an investment from Luminar Technologies, which makes lidar sensors used in self-driving cars."
+    publishedDateTime: 2021-12-10T00:18:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/robotics-research-funding-softbank-273403/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 68
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2017/12/softbank.jpg"
+        width: 978
+        height: 547
+        isCached: true
   - title: "Clinical voice AI startup Suki.Ai raises $55 million in Series C round"
     excerpt: "Suki.Ai has raised $55 million in a Series C funding round led by March Capital with participation from existing and angel investors."
     publishedDateTime: 2021-12-08T18:47:00Z
@@ -66,20 +71,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/12/Suki.Ai_.jpg"
         width: 2400
         height: 1600
-        isCached: true
-  - title: "Contenders in self-driving trucking"
-    excerpt: "As the year nears a close, the self-driving truck industry is gaining momentum. Many companies notched major technical and business-related milestones in recent months. Here's a look at what each company has done in 2021,"
-    publishedDateTime: 2021-12-06T04:00:00Z
-    webUrl: "https://www.autonews.com/shift/contenders-self-driving-trucking"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AURORA-MAIN_i_0.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Self-driving tech company Robotic Research lands $228M in first outside funding; Luminar among investors"
     excerpt: "Self-driving tech company Robotic Research Inc. said Thursday it has raised $228 million in its first round of outside funding in the company's nearly two-decade history. The money comes from not just the regular crowd of venture capitalists."
@@ -96,6 +87,6 @@ related:
         height: 600
         isCached: true
 
-secured: "MmlsX148n1m8DV2FvsddhMtSZIz6byUvlXXs+Ff/Meo4nN0EPDqzRacpKa9+flU3NhilWdWK7Wfbl3dYkr6JuKEX/lMMdPRX7OzLmotMV9Tid+fDf1J9zO9vp+AoOAr9fvBIokE6lJ6l7Wh5KXAE97ONAePD90yXWAnOI8UvNY3BLCDkgjmF7VRBnc4rFgknRD978I+biEPuTfCY7bj057dP1g9WcLy+93qF++RJ3IjAbu/l1Mqi68M64WCCIfVqUPkI0biCI+csJfptsrwXD7KOhZAMvUaFoq1U3JcURgmbtCsMFXH6UtRqvlATQTypMxDzq7qjnDrL8+OpByj4jm2P67lr9XjXO9JVDOXqg78=;w2k5/8T5GWQlesVE3Ha27Q=="
+secured: "KDC6vuIAW9EUF6MhDgRUkT+fBONt1oCsegvrqxYLBd9NodZEbUFH6NkWYiGKryij9bR/3NUHSie7rh3/B9VekR//OpqHJo8KP4GQqbVI3VxsyENtYQZMszsivTaB+n2vvPXW7LEqMTne6MPwbyF9joIUNhXPGRadbIFOFgeGACkcVmw0r1EXERYX1HoPRqPQqPGtr3el9yv/BvA02mkZkaERrOR10Q7OwWiOgJoDUeLOKHfMcCLaoZEnDGSUEh3r92JnrrzvvJrZ9dtGB2i/rQ3wzDp+ASkJi58YNa7wRpJH7l+VSs2bJCq4qWntkoLOIGpPINKZgO5CcveO90RAcxFsMVywjCpakmrSi4vyRThLedBO2i//+RHiaQNm+kSn8I24FkdJnmay+9IsSrENC4a5KPbDIdL+9EEGf20ZYzmuTPLlLXmSQVHLcCNumFg4WwYgftGBfo26rlvBAs0vwP6suj2As0aKGVkkDLPxv9bclyR6UBVT46vaIoYXAGcltPVuEg+2YokSVmITci79HA==;XNPJ2KM0IckiWMLkHIYW/A=="
 ---
 

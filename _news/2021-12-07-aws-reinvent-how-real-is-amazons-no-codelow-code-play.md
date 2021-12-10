@@ -7,7 +7,7 @@ originalUrl: "https://thenewstack.io/aws-reinvent-how-real-is-amazons-no-code-lo
 webUrl: "https://thenewstack.io/aws-reinvent-how-real-is-amazons-no-code-low-code-play/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Re:Invent Wrap-Up: Social Issues, Networking Focus, Partner Revenue"
-    excerpt: "Ever the fierce competitor, AWS unveiled plenty of new initiatives in its annual event, and even evinced a budding social awareness."
-    publishedDateTime: 2021-12-05T14:36:00Z
-    webUrl: "https://www.eweek.com/cloud/aws-reinvent-wrap-up/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/cloud-technology.jpeg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "AWS Re:Invent 2021: The 15 Coolest Products And Services"
     excerpt: "A platform to turn Java applications into microservices. And a drone that brings together artificial intelligence and 5G. These offerings from Boston Dynamics, vFunction and Qualcomm, respectively ..."
     publishedDateTime: 2021-12-06T18:29:00Z

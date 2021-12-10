@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Re:Invent Wrap-Up: Social Issues, Networking Focus, Partner Revenue"
-    excerpt: "Ever the fierce competitor, AWS unveiled plenty of new initiatives in its annual event, and even evinced a budding social awareness."
-    publishedDateTime: 2021-12-05T14:36:00Z
-    webUrl: "https://www.eweek.com/cloud/aws-reinvent-wrap-up/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/cloud-technology.jpeg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "AWS Re:Invent: How Real Is Amazon’s No-Code/Low-Code Play?"
     excerpt: "Low-code/no-code underpinned some of ’ (AWS) key announcements at its annual Re:Invent users conference in Las Vegas, including the availability of the no-code platform SageMaker Canvas for machine learning (ML)."
     publishedDateTime: 2021-12-07T15:01:00Z

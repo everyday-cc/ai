@@ -44,6 +44,20 @@ related:
         width: 800
         height: 445
         isCached: true
+  - title: "How AI Is Connecting Employers With Software Engineers"
+    excerpt: "To help connect employers with talented candidates, companies have started using AI recruitment strategies. These AI recruitment strategies use machine learning algorithms to create an optimized list of candidates for just about any job opening."
+    publishedDateTime: 2021-12-10T06:16:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/How-AI-Is-Connecting-Employers-With-Software-16690120.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/14/57/21810133/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "Z2LhPF4kHF4BZCoJ18oUNF44xWis2zU4qxiU2KkdV+xLONMepOZMbD2EOQ634SK8BEnweBi/GKPF0KMC3w+PPwTkEXmsJVykL/U02noqmEXXnXczYo75PMkxEghgXqN6LgM1sJjLMOmfRJyRTVft9b3DRiLTxMQ2/wLnSzeq3zvt5Wl561O40yCpplMjP05EQRpI0ljuVBVm8VEq9kLmDp8xXQ6RFqz4mINT8nqZOW2sY833J+AM2W1IkXvzW7vwgvq6+gdCSJhdkLffmzTsKb4u+qDJH1EcpUmeDwkJ86WwcF1RHI6kVjBcLiZ5hxR/j6LYQyfXdFIy8YLnAZr1k+nTNWceLdUYn6k/P+XqMA7RucAhH95KYxl1Y4JOV8pZnitEgZ51QJy0r5xYn9hnpzSp2FobIM2qm9hA3KU6TNP17ENiTFt5QIcwiJ2R2H1BBmVDa3qcrCZQEur3t8BoN8/wYwiSn39WC6G22a6WuTWu/2NzJD8Eeu1FQTEMkr083btfOw6p349P0LLC5Rdb6g==;xy3rUJKVbxxoZuRAYUm95g=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Machine learning identifies mammal species with the potential to spread SARS-CoV-2"
-excerpt: "Insights can guide surveillance to prevent secondary spillover, new variants White-tailed deer are among the high-risk species flagged by the researchers. Back and forth transmission of SARS-CoV-2, the virus that causes COVID-19,"
-publishedDateTime: 2021-12-09T22:30:00Z
-originalUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=304071"
-webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=304071"
+excerpt: "To overcome this obstacle, the team developed a machine learning model that combined data on the biological traits of 5,400 mammal species with available data on ACE2. The goal: to identify mammal species with high zoonotic capacity -- the ability to ..."
+publishedDateTime: 2021-12-09T21:20:00Z
+originalUrl: "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=304071&org=NSF"
+webUrl: "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=304071&org=NSF"
 type: article
 quality: 33
 heat: 33
@@ -24,6 +24,6 @@ images:
     height: 220
     isCached: true
 
-secured: "61ExCLyjdXVFsCxk2SWOL9lxjCbKPajy3ODBiM2LOI5Rt9DorYqaNcX3SpFDwUshNbG2OiDezTz9C95kiC8MahysOYBjOmxfUDQYZoy9BAeZm2FtAA8nZILMsDn91oln1RLd3zI7M+jMU+afj17hnK5SyDdRq6rwl8jc0o1mm1J3gf/XgjguEclieW4x42I3SByZwzfWOGp+W11HG9M2iehZWdQzNJAVFV0JIwnUnMjOeYLASGR7vjzM3mkpyNo1tWYjMAMy3wgJZUmf/FY4jxckd7sIPXUVjbUwCzhAebyB1NAkS+Gb9svuuWRpbdItsZDwL6xWykSAe+Lj5Z1GKhJ7/dsR6bXpqoqYmkU9E/c=;MT+sNBnjMqMSAMxLLBZczA=="
+secured: "7FzKYQO3CekBZbwq7Vm/LRapjSAoqr95be9WQNFcMVMBmDPgIbYPB/U4ZS0Um6TVVq/0I0hiBwctMvAIlJQdPAzSH+TFU8M8vc6hlMM7EfqIRoyHfrhywWSo1wN8JSQdnzGGzSX+SvrZt9+n3TOeo33dAgQ2MXN8RtScgj1lSnfMRmEdEEE00Xhtv7CDkX3tqXedccZ2LfqAwUIfG0ydd2o2u3hOs/SviaMqckBa6hts8p7JYJAq8S3DV4qmZsthCQv5FD3ubxv8KNV7a8sYzGdujkowH9klnb448XuPhfsAo8XDBPWRNhL+WbKiz3RhsF4AWggZekWezoj3DWjbaalJDjFXVc+thoVF3VEDwNU=;RKZG8YguGtOVwTB834ZZRQ=="
 ---
 
