@@ -1,21 +1,21 @@
 ---
 category: news
 title: "A Groundbreaking Artificial Intelligence Teaching Tool for Elementary Students"
-excerpt: "Photon Education is launching a first-of-its-kind AI Discovery Kit, which is distributed exclusively in the US by leading K-12 professional learning organization Eduscape."
-publishedDateTime: 2021-12-08T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-groundbreaking-artificial-intelligence-teaching-tool-for-elementary-students/article_d6ee718c-122d-5332-bc39-d79052df63db.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/a-groundbreaking-artificial-intelligence-teaching-tool-for-elementary-students/article_d6ee718c-122d-5332-bc39-d79052df63db.html"
+excerpt: "It is a ready-to-use solution dedicated to educators who would like to introduce their students to artificial intelligence technology ... the city model can be used as a space to learn about self-driving vehicles, discussing all the information these ..."
+publishedDateTime: 2021-12-08T14:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-groundbreaking-artificial-intelligence-teaching-tool-elementary-students-/2021/12/08/9507351.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-groundbreaking-artificial-intelligence-teaching-tool-elementary-students-/2021/12/08/9507351.htm"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
 
 related:
@@ -36,6 +36,6 @@ related:
         height: 600
         isCached: true
 
-secured: "YrxeWKr+0fFTz+HFZumwaqEvnuJzT5tOGo1joGtzO9dFq6ukaJeNRf7PRukiG9/fO6P57L+rvLAlbaMfzpfVUPlcqdLdQVFlgbiYed17Dmjpvkib08LpVPpcuCmRiPN7hD1jL9WXgb4n2NOHvqdkq+Pt0ze12TIE8OaDzTOkixlvma6Fl/XSTPRQZRjSbuxMYkhb7ixOJwX/+GHDAFz/MJGwbZAuHNwu1QosWsxl4aV8AiQAKS4P48y8ml8UDuB88AMXuM4V9KC7axIvpl6jrUlHpQBK5SRleLPkD0fOuuR6SWNX4gzJk0VjEIepVlAemizvmXWdGxz5Ha+YyJ3OhGEt+1kL7LbNr+ZX5tBM6MdUSHLov2SPMXdcX3G4nljS3pvnwMwWmzZOtQBGwUmQUb+vKowz53i0demjaIjdPrxhnQRaj3eaCblAkUjCbpIftenmmwnHZZg5AFxg41rPVLsSoecqs8ggg/LPwEWMr010jsTEqyY3hQ9+emECN+V6QUDIxc43ykeePeIyiq+tfQ==;xe0xiQtXTL7T8VwURLPM2Q=="
+secured: "uZPj6jiDsZINlvegXmoo73moF85KMXhYG0RpjNBQ8nAvA4wLD4dRRo5/+r6jCo9JE9jnfkWfyrsXRzGeh4NtrJ2lghdwOLqr1qWtaA1eLPvUm0KR9OiNESTNZEzrlVJZfXJ49yDH2JyM3wqElfBi2an16yxo3M+UGpA/xWBaoxINHi+PG6ukt55pVj3Zd3pDZDXivVCjPN59l7wfo6fqIf1O77wgcWuliPYpGW2MRbjSujSNmq1B/dEFXfbqIdiskGC4ewxGj+L+rYx+e2IwjnPqMf0+Xiz0+0okOwo0O0JRhNcg6r6pfoe4RKThkeblgg5CB8MLiU45lkqZ5yTovR/Fn4mlSFqaR1uBPV91C1M=;CDjTQryZ51h3sPUaMKM8aA=="
 ---
 

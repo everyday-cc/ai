@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-
 ampWebUrl: "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/"
 type: article
-quality: 104
-heat: 124
+quality: 106
+heat: 136
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1282120747-e1638981626372.jpg?fit=800%2C600&strip=all"
@@ -31,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nothing to fear about artificial intelligence"
+    excerpt: "There is a far better world ahead, when robots and automation will replace all laborious and mundane work, freeing us to think more"
+    publishedDateTime: 2021-12-09T07:52:00Z
+    webUrl: "https://www.zawya.com/uae/en/business/story/Nothing_to_fear_about_artificial_intelligence-SNG_268053399/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_268053399/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_268053399/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/200423074653IQCN.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How market-leading retail brands are using AI"
     excerpt: "Your friend posts a photo of their totally on-trend new shoes. You know you need a pair—but discover they come with a £500 price tag.  What do you do?"
     publishedDateTime: 2021-12-07T16:14:00Z
@@ -62,6 +79,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Q4/6prw52vxl8FME3siHA3DBSZgb1HSoUAWX4N8nD6a7NJkvJIQsgfjY2AhmX/XgtDBRWJvWM+HEzDA8Bk2lvMy7jiR2Za5zisAKFNuWVtDDdp/9oVW+YJJ8Fo8xxqywSNNM1IUXvO8HpUhLNT5nleimj94A+MQ5bDum/KeuIlt4XKvL6DRBrIsrzwRpeMRVWLajMLVL/xRahK7457dJA3S8lfqUkc5BIAkcQh0+hdiKT/CvTb68+pa2QsReq29lClhz91M7PKtn78nosUQyVaQMGRpnJcVZF/8Ftcek2T/wzeY0AawZfe5xucKeFe3Xel8edtGjdQNqnGbVTsUSs1yE0tTbZQQOvWkuifO1cSI=;s+uaYC7KcADTp1m1VcVxvg=="
+secured: "tMc9rATn1CSzIu6iflci12qlomiv3+6HxiSh2BiAuopfxWt7kVukEs0KdHPRzKdbDkbtsMvbSqQrTr04SyyAKBDCCb2BXnwT1Ka2u0oXuKFSQqYiTnkTs7K+GUlQO2+HYeg7egkLwv57qngPJD801iiuVlkSJ8upTiM5u1omZ1rLImU3uXLkrewuAR1RPJp0qrwCqY7o8/EFs8Pj/36AsabhiONTU3Sl9zGgmyA04G72tFPHuHQyZXQEDxP6OGjdjwsqNhH1kZzk2Gu/eQ4NlzcUuERUxxQDn62/bTGoN5R48pI467v32mzIpUpLts2TqyF8ZKGULo5kPT4TtA59MUTPSNvctYXO7hFsJN3tlAi0JcTDS1iCx7uZm9wzcLOhyOvR8T3yqhruZEdXg1oYRJ8W9T99e8rBsPZqyjtzVpXwOd+ZeHye59vXXmpT4ubJLXLFEgmgy76N+gB6IeJ5QxGhHzB775VRebwUoXSFzHsqSu9pxrhqtKVLJ5rEIXyq+tbjbZUvgrE9Wpm+qBLIOg==;e08wOzB/oop52Hp3CsDp/A=="
 ---
 

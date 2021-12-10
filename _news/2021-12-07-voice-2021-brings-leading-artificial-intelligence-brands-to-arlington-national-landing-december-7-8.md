@@ -35,11 +35,27 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1282120747-e1638981626372.jpg?fit=800%2C600&strip=all"
         width: 800
         height: 400
+        isCached: true
+  - title: "Nothing to fear about artificial intelligence"
+    excerpt: "There is a far better world ahead, when robots and automation will replace all laborious and mundane work, freeing us to think more"
+    publishedDateTime: 2021-12-09T07:52:00Z
+    webUrl: "https://www.zawya.com/uae/en/business/story/Nothing_to_fear_about_artificial_intelligence-SNG_268053399/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_268053399/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_268053399/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/200423074653IQCN.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How market-leading retail brands are using AI"
     excerpt: "Your friend posts a photo of their totally on-trend new shoes. You know you need a pair—but discover they come with a £500 price tag.  What do you do?"

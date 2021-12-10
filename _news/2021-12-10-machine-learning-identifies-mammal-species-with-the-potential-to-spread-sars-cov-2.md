@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Machine learning identifies mammal species with the potential to spread SARS-CoV-2"
-excerpt: "Insights can guide surveillance to prevent secondary spillover, new variants White-tailed deer are among the high-risk species flagged by the researchers. Back and forth transmission of SARS-CoV-2, the virus that causes COVID-19,"
-publishedDateTime: 2021-12-09T22:30:00Z
-originalUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=304071"
-webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=304071"
+excerpt: "To overcome this obstacle, the team developed a machine learning model that combined data on the biological traits of 5,400 mammal species with available data on ACE2. The goal: to identify mammal species with high zoonotic capacity -- the ability to ..."
+publishedDateTime: 2021-12-09T21:20:00Z
+originalUrl: "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=304071&org=NSF"
+webUrl: "https://nsf.gov/discoveries/disc_summ.jsp?cntn_id=304071&org=NSF"
 type: article
 quality: 33
 heat: 33
@@ -24,6 +24,6 @@ images:
     height: 220
     isCached: true
 
-secured: "GN36q22ok2loZAnqsno6lh6L+9/4qglEHnda5CdQT5hIPqYgggsym6cfuK6bvgbTfpUvvQUBEvnGfwI4dI8ubD3zbdcVkDqvoCjKftJXF/Kxxkj53yxWLso0P/KckfpNGpoU1CR67bkvJ98WdcyaF0OYuW2Jc5bTIuqZWehd7xG9dl783POSy2NrZGbZBFeYRaiirzVrCETmA+uiCY46P63KkXunwmU/N8dp1sK3aO5Gg8n3H0GWnzlZmvBVRvB3ewf/kYfMr4sMBLe1K99p5qZUlwMSxJKc3G7DHXnuU2WdL3LbIkMkkm34p9WLrbg1OMAkiOxOJgX8FW8hn0QJMX84dgDKoBXDg5Fse4y9CNHLRyhMBP51JcmJbxjO+6jOaOY1n0mO1Z7fXJrrdpi5ORqpU+JDogYtDIT26d81+s0LymtvZ9fO9IhxpVVTdhXPsFT4HgmlF9hi3SWvZSm5UHsvL7N2jXb3i6JSaZE70GrgHbv62LDkpFeQCYtLdmDYuKTaKamMwVdOSsrQ/o4JFA==;bSYHg9t0DvWUD/ekE4R+kA=="
+secured: "XSfgFbiw2SZ2KpyA/VqCbndq5EWQVhyy2uoUbAC120eI82WBykG3VDJzpfL8HJ7dgGsnC1rwT3KBbhZ8Q4z/ZshVJnIHuJnLLNhZIJKRpcw7Fxc8YGoxIRSarkCSAjmutrmiJXWNJVfnhxv1OPYNnM/7gBy25TdV6OWlkBfrBiKwupTFYaDZ2X1130nN4tOU5utruTEwvti0CXhvDWlohJy9D/oNYaHU49IfRb6Drv7yUZuWCLUIu/UFQF3C4DdIXSPOtyXyL0Iv53taps6isyIImwimjsROX78jESHgTTJmwqnFNpOx8wSBMPa/eKm425pumA1YPMmRUEycqKAZuND8f5M4HQqVqkSrGYXzjZg=;a25eE3Jp0k3QREBXMXaQZg=="
 ---
 

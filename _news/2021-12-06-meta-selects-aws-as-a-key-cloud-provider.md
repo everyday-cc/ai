@@ -39,6 +39,20 @@ related:
         width: 340
         height: 283
         isCached: true
+  - title: "Meta Selects AWS as Strategic AI Cloud Provider"
+    excerpt: "Meta (formerly facebook) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS’s proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-08T01:25:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/21661-meta-selects-aws-as-strategic-ai-cloud-provider"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 56
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/a34c80067b718897b153520ea014c7f5.jpg?t=20211208_012326"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "7sspqqsIwjrbb1YIudfZVGw+OSglJbIK5XdDpRofm/OqbQhbhJkd5y0CtvsoEXP3vF3oYOf2GYWBhuIrfNuPcTc8ASSPCDe5W0xUWNgKhEaU2+rbpIbdV30Q9eUy6LcB2iDW4v0XDwt3VWJMxZeCjW5JR0lnKXlhaBcBvnqJEeHcFovMzjwi8UGFT63Va1aX3Zp5Y0e1ZJ9JWNZf0mHLe7NX28vyJmIoJUK2XA7NtTj+JNKbDgBybQ4R1T+dymJVOXMTB8R8Vu7uluge0FgXcJZLXMRiaNng/HbsN4g8Oet0+ghKORMI6Q5XmRAqsmYEZmZrwmvbc/c9TSjBBIh53tD+wwd+S545wa+Tjrf8S7chX5+4P5w4S7XNiaIWWbfEbwE58V+fXl542pWtmobLUAOHcDCUdWFdb7A2E+yvCkR4GT21b1kwVrdnA/MLQQ0Ih0QtuD+dlqjdCo3N/4RuhyjuyANE/32LwDtHsmxWvcvBOlLv8IsKSiGhYL43uOFdzGoZPw/Xu14YZh6/5kZjPQ==;NuC1ONsyn9l5qKU7U1Yddw=="
 ---

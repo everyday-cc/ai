@@ -41,17 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Merced County self-driving car site gets $2M upgrade, as leaders aim to attract business"
-    excerpt: "Located at the Castle Commerce Center, the site allows for autonomous vehicle testing in a setting that mimics real-life landscapes."
-    publishedDateTime: 2021-12-05T11:00:00Z
-    webUrl: "https://www.mercedsunstar.com/news/business/article256257892.html"
-    ampWebUrl: "https://amp.mercedsunstar.com/news/business/article256257892.html"
-    cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/business/article256257892.html"
-    type: article
-    provider:
-      name: Merced Sun-Star
-      domain: mercedsunstar.com
-    quality: 30
   - title: "Merced County Test Site for Self-Driving Cars Gets $2M Upgrade"
     excerpt: "While Merced County officials have said there are companies under contract to test at the site, they won’t say who those entities are because of the proprietary nature of the products being developed and tested there."
     publishedDateTime: 2021-12-06T23:35:00Z

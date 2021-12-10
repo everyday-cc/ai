@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Nothing to fear about artificial intelligence"
-    excerpt: "There is a far better world ahead, when robots and automation will replace all laborious and mundane work, freeing us to think more"
-    publishedDateTime: 2021-12-09T07:52:00Z
-    webUrl: "https://www.zawya.com/uae/en/business/story/Nothing_to_fear_about_artificial_intelligence-SNG_268053399/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_268053399/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_268053399/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 59
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/200423074653IQCN.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial Intelligence Is All the Rage. What You Need to Know."
     excerpt: "UBS calls artificial intelligence a top investment theme for the coming decade. But Eric Schmidt, who used to run Google, warns that investing in AI isn’t so easy."
     publishedDateTime: 2021-12-06T01:48:00Z

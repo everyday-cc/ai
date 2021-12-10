@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-25-baidu-kicks-off-its-robotaxi-business-after-getting-the-ok-to-charge-fees-in-beijing.md",
+      "title": "Baidu kicks off its robotaxi business, after getting the OK to charge fees in Beijing",
+      "excerpt": "Effective Thursday, Baidu's Apollo unit that runs the robotaxi business can collect fares from passengers taking one of 67 self-driving cars in Beijing's suburban district of Yizhuang. While the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
+      "originalUrl": "https://www.cnbc.com/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106979826-1637738392441-gettyimages-1280199601-vcg111302456269.jpeg?v=1637738596",
+          "width": 4716,
+          "height": 3397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
+      "publishedDateTime": "2021-11-25T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-self-driving-bus-market-2021-industry-share-cagr-status-top-key-players-geographical-region-latest-development-and-swot-analysis-2027.md",
       "title": "Self-driving Bus Market 2021: Industry Share, CAGR Status, Top Key Players, Geographical Region, Latest Development and SWOT Analysis 2027",
       "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry. The global Self-driving Bus market was valued at USD million in 2020 and it is expected to reach USD million by the end of 2027,",
@@ -1375,58 +1427,6 @@
       "topics": [
         "AI",
         "AI in Sales",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-tesla-tsla-secures-new-197-mwh-megapack-order-to-go-on-its-autobidder-ai-platform.md",
-      "title": "Tesla (TSLA) secures new 197 MWh Megapack order to go on its Autobidder AI platform",
-      "excerpt": "Tesla (TSLA) has secured a new Megapack order for 197 MWh of capacity to deploy in the UK and use its Autobidder AI platform. Megapack has quickly emerged as the leading battery system for large utility-scale energy storage systems.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/",
-      "originalUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/09/Tesla-new-megapack-project-uk-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/11/17/tesla-tsla-secures-new-197-mwh-megapack-order-autobidder-ai-platform/amp/",
-      "publishedDateTime": "2021-11-17T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Autos"
       ]
     }

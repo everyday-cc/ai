@@ -7,8 +7,8 @@ originalUrl: "https://insidehpc.com/2021/12/meta-picks-aws-as-strategic-ai-cloud
 webUrl: "https://insidehpc.com/2021/12/meta-picks-aws-as-strategic-ai-cloud-provider/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: insideHPC
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Meta Selects AWS as Strategic AI Cloud Provider"
+    excerpt: "Meta (formerly facebook) has deepened its relationship with AWS as a strategic cloud provider. Meta uses AWS’s proven infrastructure and comprehensive capabilities to complement its existing on-premises infrastructure,"
+    publishedDateTime: 2021-12-08T01:25:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/21661-meta-selects-aws-as-strategic-ai-cloud-provider"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 56
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/a34c80067b718897b153520ea014c7f5.jpg?t=20211208_012326"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Meta Selects AWS as a ‘Key’ Cloud Provider"
     excerpt: "Meta is deepening its relationship with AWS as a “key” and “long-term” strategic cloud provider. See more here:"
     publishedDateTime: 2021-12-06T02:44:00Z

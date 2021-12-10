@@ -2,6 +2,143 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-11-30-portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay.md",
+      "title": "Portugal’s ‘Predictive maintenance’ startup Stratio pulls in a $12M Series A round led by Forestay",
+      "excerpt": "The fleet management industry needs to be able to predict when a truck or a van is about to break down. Not only does this prevent millions in lost revenues, it also has huge implications for supply chains.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/",
+      "originalUrl": "https://techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Stratio.jpeg?w=660",
+          "width": 660,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/amp/",
+      "publishedDateTime": "2021-11-29T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-how-cognitive-computing-can-be-used-in-real-life.md",
+      "title": "How Cognitive Computing Can Be Used in Real Life",
+      "excerpt": "Cognitive Computing refers to the next generation of computing ... Assessment of risk: Risk management in financial services entails analyzing market trends, historical data, and other factors to forecast the degree of uncertainty associated with an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/how-cognitive-computing-can-be-used-in-real-life-nid-34683-cid-166.html",
+      "originalUrl": "https://www.cioreview.com/news/how-cognitive-computing-can-be-used-in-real-life-nid-34683-cid-166.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/news_new/sliderimage/ryv82.350.jpg",
+          "width": 300,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-samsung-brings-three-automotive-chips-for-5g-infotainment-read-details.md",
+      "title": "Samsung brings three automotive chips for 5G, infotainment. Read details",
+      "excerpt": "Samsung has introduced three of its latest automotive chip solutions; the Exynos Auto T5123 for 5G connectivity, the Exynos Auto V7 for in-vehicle infotainment systems and the ASIL-B certified S2VPS01 power management IC (PMIC) for the Auto V series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details-11638251302523.html",
+      "originalUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details-11638251302523.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/11/30/600x338/LSI-Automotive-Solutions_main1_1638251508275_1638251513779.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details/amp-11638251302523.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details/amp-11638251302523.html",
+      "publishedDateTime": "2021-11-29T21:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-eftpos-expands-security-kit-bag-with-new-ai-anti-fraud-capability.md",
       "title": "Eftpos expands security kit bag with new AI anti-fraud capability",
       "excerpt": "Eftpos has switched on a new AI anti-fraud online capability as the Australian debit payments provider continues to expand its security features. The new capability is underpinned by a fraud detection engine that uses AI and machine learning to predict individual behaviour in real time.",
@@ -1054,135 +1191,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-ico-warns-facial-recognition-company-clearview-ai-could-face-17m-fine-over-privacy-breaches.md",
-      "title": "ICO warns facial recognition company Clearview AI could face £17m fine over privacy breaches",
-      "excerpt": "The controversial facial recognition company, Clearview AI, has been warned it could face a £17 million fine for multiple breaches of UK Data Protection law. The Information Commissioner said today that the company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches",
-      "originalUrl": "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 343,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/facial-recognition-ID-2-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510161/ICO-warns-facial-recognition-company-Clearview-AI-could-face-17m-fine-over-privacy-breaches?amp=1",
-      "publishedDateTime": "2021-11-29T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-new-chest-imaging-database-assists-ai-in-the-covid-19-fight.md",
-      "title": "New Chest Imaging Database Assists AI in the COVID-19 Fight",
-      "excerpt": "Data journal GigaScience is the National COVID-19 Chest Imaging Database (NCCID), a centralized database containing chest X-rays, Computed Tomography (CT) and MRI scans from patients across the UK. Ut",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/",
-      "originalUrl": "https://scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Chest-Xray-Image-777x583.jpg",
-          "width": 777,
-          "height": 583,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/amp/",
-      "publishedDateTime": "2021-11-29T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-massrobotics-announces-aws-robotics-startup-accelerator.md",
-      "title": "MassRobotics Announces AWS Robotics Startup Accelerator",
-      "excerpt": "AWS Robotics Accelerator to scale robotics startups focused on automation and IIOT BOSTON, MA / ACCESSWIRE / November 29, 2021 / MassRobotics has announced a new Amazon Web Services, Inc. (AWS) Robotics Startup Accelerator to address the biggest challenges in the automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm",
-      "originalUrl": "https://www.pr-inside.com/massrobotics-announces-aws-robotics-startup-accelerator-r4856567.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR-Inside",
-        "domain": "pr-inside.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -3,10 +3,10 @@ category: news
 title: "How K–12 Schools Can Use Artificial Intelligence in Education"
 excerpt: "What role will artificial intelligence play in the future of education? For educators, AI can feel like an exciting development — or a terrifying unknown. AI technology is advancing quickly and creating solutions once thought impossible."
 publishedDateTime: 2021-12-09T16:19:00Z
-originalUrl: "https://edtechmagazine.com/k12/higher/k12/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon"
-webUrl: "https://edtechmagazine.com/k12/higher/k12/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon"
-ampWebUrl: "https://edtechmagazine.com/k12/higher/k12/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp"
-cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/higher/k12/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp"
+originalUrl: "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon"
+webUrl: "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon"
+ampWebUrl: "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp"
+cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp"
 type: article
 quality: 74
 heat: 94
@@ -21,7 +21,7 @@ topics:
   - AI in Education
 
 images:
-  - url: "https://edtechmagazine.com/k12/higher/k12/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/GettyImages-1220250522.jpg?itok=y0r6bHRt"
+  - url: "https://edtechmagazine.com/k12/k12/higher/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/GettyImages-1220250522.jpg?itok=y0r6bHRt"
     width: 1440
     height: 500
     isCached: true
@@ -56,6 +56,6 @@ related:
         height: 933
         isCached: true
 
-secured: "VayJgtPGmG8HhGkMHpwd8Fb+jD3OKT5BlpPJNQJQISxw39ouKgIJjFuHux3gZEJm03RBXFHaPhftb82XlbGY8yr1tZ+bl1X04urTW01YD4HTrq6JQGSxSReQUYBHN5yP6RU45whM4KelbXGrL89o0XXxZNIRPpAV85V04brPbrtOIh2FxxH8807NZzqcP5vZYZ4c75VjRKKzsaf28XqaXybNx2HBNEBk3nkrpclMlfO1B7B5I//9LLrNILvzr+btk02k0YXTT6HicVzkAAgcJw88BLy3ZQsO5YoNugIA9NoaSX3cqmySMZiy6EoYJVcM3KUJ5T7ksHLAllrb00FF2yQmlo0Zwh2eyrhMKWFlm4o=;6lbU7CSmkPkskv9Bn3wCqg=="
+secured: "AwgS3o6kvpeZZbgeIszWeF/MiyFn82vwROtNUURJOAarmqrev5R0S6WJeF6Xns1WWqow3pQkWCQD7zdzbk6EGkqxct6k3tssMe3LsbeNCh9YCjlHYtEusxuFBQwJeu4AFoyjkorR9mYc+EM/VeJbjcR8h0h/om6FNmQLdi92Ght9YAmROOQF/GjkbuifCdQX35X6MXFDqpKmu92u7mgagn/pKf98qHagWtcM9QolLsyQ9Sqi6ZEC79ryhuAhXcahO5EYOrxVCPVNgAOOSN6NF6goWzudXelCp9C7it5mxbLVViLHHpOZnmDucJx4u2WPR2/capAugIbWvx2GLu577Rl64Gu3P0AWpLB5enn9Qk4=;dh5oX3KEiQsnMgJd9OhM8w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-det
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/vision-tech-developmen.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "How Artificial Intelligence Enables Lasers to be Weapons of the Future"
-    excerpt: "The Navy has been researching laser technologies for decades and lasers have recently matured to the point where they are being integrated and tested on ships for operational use."
-    publishedDateTime: 2021-12-05T11:00:00Z
-    webUrl: "https://nationalinterest.org/blog/reboot/how-artificial-intelligence-enables-lasers-be-weapons-future-197486"
-    type: article
-    provider:
-      name: The National Interest
-      domain: nationalinterest.org
-    quality: 37
-    images:
-      - url: "https://nationalinterest.org/sites/default/files/main_images/laser%20uss%20ponce%20flickr.jpg"
-        width: 1260
-        height: 838
         isCached: true
   - title: "The Scope & Future of Responsible AI"
     excerpt: "Widely referred to as Responsible AI, the concept has been around for the longest time but has recently become a mainstream conversation point."

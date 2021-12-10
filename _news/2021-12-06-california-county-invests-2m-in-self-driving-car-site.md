@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Merced County self-driving car site gets $2M upgrade, as leaders aim to attract business"
-    excerpt: "Located at the Castle Commerce Center, the site allows for autonomous vehicle testing in a setting that mimics real-life landscapes."
-    publishedDateTime: 2021-12-05T11:00:00Z
-    webUrl: "https://www.mercedsunstar.com/news/business/article256257892.html"
-    ampWebUrl: "https://amp.mercedsunstar.com/news/business/article256257892.html"
-    cdnAmpWebUrl: "https://amp-mercedsunstar-com.cdn.ampproject.org/c/s/amp.mercedsunstar.com/news/business/article256257892.html"
-    type: article
-    provider:
-      name: Merced Sun-Star
-      domain: mercedsunstar.com
-    quality: 30
   - title: "Autonomous tractors are driving sustainability, but hitting regulatory roadblocks in California"
     excerpt: "As farmers begin to embrace more agtech, worker protection laws remain a hurdle, along with developing the workforce needed to operate and maintain complex new machinery."
     publishedDateTime: 2021-12-08T14:35:00Z
