@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Tesla and Mercedes vehicles allow gaming while driving: Mercedes issued a recall. Tesla has not."
+    excerpt: "The disparity raised questions about whether auto safety standards are being applied equally by the National Highway Traffic Safety Administration."
+    publishedDateTime: 2021-12-11T17:12:00Z
+    webUrl: "https://www.usatoday.com/story/money/cars/2021/12/11/tesla-mercedes-recall-touch-screen-video-gaming-driving/6476758001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6476758001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6476758001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 46
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/0328bf59e8b67856ba597e7cd83ab33a26761265/c=0-140-3978-2387/local/-/media/2017/07/18/USATODAY/USATODAY/636359798759324563-Daimler.JPG?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "Mercedes Gets First Approval for Truly Self-Driving Car"
     excerpt: "The German car maker beats Tesla to the punch with a car that will allow drivers to let go of the wheel in some situations."
     publishedDateTime: 2021-12-10T03:52:00Z
@@ -128,6 +144,31 @@ related:
       name: News Tribune
       domain: thenewstribune.com
     quality: 39
+  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+    publishedDateTime: 2021-12-11T17:51:00Z
+    webUrl: "https://www.kansas.com/news/business/article256490316.html"
+    ampWebUrl: "https://amp.kansas.com/news/business/article256490316.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article256490316.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 39
+  - title: "Self-driving Car Market Next Big Thing | Major Giants- Toyota, General Motors, Tesla"
+    excerpt: "Latest Study on Industrial Growth of Global Self-driving Car Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of the Self-driving Car market."
+    publishedDateTime: 2021-12-11T09:36:00Z
+    webUrl: "https://www.linkedin.com/pulse/self-driving-car-market-next-big-thing-major-giants-toyota-sutar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 32
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGVG4bCGPTTGw/article-cover_image-shrink_720_1280/0/1639215105558?e=1644451200&v=beta&t=zR0p2DGL0tPnfA0bHNHIV-MPdfbnyHZUai6zCmEaytY"
+        width: 1084
+        height: 720
+        isCached: true
   - title: "Mercedes-Benz self-driving car technology approved for use"
     excerpt: "Approval of the self-driving system paves the way for it to be offered to customers where national legislation allows its use."
     publishedDateTime: 2021-12-09T14:31:00Z

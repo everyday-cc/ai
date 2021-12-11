@@ -35,6 +35,17 @@ related:
         width: 2880
         height: 1907
         isCached: true
+  - title: "Machine Learning Predicts Death Risk in Heart Disease Patients"
+    excerpt: "A new machine learning/artificial intelligence score provided an accurate forecast of the likelihood of patients with suspected or known coronary artery disease dying within 10 years."
+    publishedDateTime: 2021-12-11T17:02:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-predicts-death-risk-in-heart-disease-patients-204678-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-predicts-death-risk-in-heart-disease-patients-204678-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-predicts-death-risk-in-heart-disease-patients-204678-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
 
 secured: "I9Kui3f04wPLGzghpfpGIz9u3sU0iTd3dFXNzRBH3JUePE+UnUvH9bLP/kUR1iJnuCPqggxdzzC/cvyAXp9e1gfLJtqdJReii1TldRhnZGpR2lgSKZTYI0httOe5sbIpLgZ1DO9ofTvY7WmlFqt28p0yBUzjXQnxFi3iwS9yTapk99RknMaJWj/WvqDbIVOgjGYi1xb13RcXa5idFt8uzkbSbQQGG9CuWGIlmWlTHf6OmtWSxNrcKlB9yHeV9tp9P1MkP7BWDl1+ophio6eTgzWS+USWCMl1DRaOxcc28avU/U7Fnn+r2mnmb6esIE1f2IYVGuoatT6INFiKMZiO6/BzwhdC1JEQ3/ptRutwqNQ=;uUrNZhRh/CnrwWiiqahFcg=="
 ---

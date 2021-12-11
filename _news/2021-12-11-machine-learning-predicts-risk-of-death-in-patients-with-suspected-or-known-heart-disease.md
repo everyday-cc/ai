@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-death-patients-heart-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-death-patients-heart-disease.amp"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Predicts Death Risk in Heart Disease Patients"
+    excerpt: "A new machine learning/artificial intelligence score provided an accurate forecast of the likelihood of patients with suspected or known coronary artery disease dying within 10 years."
+    publishedDateTime: 2021-12-11T17:02:00Z
+    webUrl: "https://www.medindia.net/news/machine-learning-predicts-death-risk-in-heart-disease-patients-204678-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/machine-learning-predicts-death-risk-in-heart-disease-patients-204678-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-predicts-death-risk-in-heart-disease-patients-204678-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
   - title: "Title: Machine learning predicts risk of death in patients with suspected or known heart disease"
     excerpt: "A novel artificial intelligence score provides a more accurate forecast of the likelihood of patients with suspected or known coronary artery disease dying within 10 years than established scores used by health professionals worldwide."
     publishedDateTime: 2021-12-11T09:16:00Z

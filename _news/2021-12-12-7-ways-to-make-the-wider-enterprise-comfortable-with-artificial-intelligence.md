@@ -8,7 +8,7 @@ webUrl: "https://www.zdnet.com/article/7-ways-to-make-the-wider-enterprise-comfo
 ampWebUrl: "https://www.zdnet.com/google-amp/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/b69676836265b32ca94f94801caf39999a7daa54/2021/12/11/7d39977b-c3b3-40d2-bc7b-6906cbf57ec4/grow-sign-nyc-june-2021-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
@@ -176,6 +177,6 @@ related:
       domain: eurekalert.org
     quality: 34
 
-secured: "wvOQxtKIVOhiYQRLVfeTyyuGhpD37vxr9x7PeTTKxyfuoemuVmbeqdyJbfgsDzVzsq2y7mim4gjfpCCQop+x4lcTYBhEPGX4Z0v/rHwBGSCiz4acuvuc2VO2toUqIQ9dr2K6fX5KVblWU1tlx/zJpCDVdoX66VGKj/xkzo57agdHKO+7IlQWjKf4B4jAyl1FjwaifmZmF/1p/fM0492Dqri/bwatW8L/fJ4QlaB34Sgps7Kk4OW0i6rOZXGOE8WMasHgO966JCJ1XPIV1FD4PV+h9t90pgG7so7ctiM+Ahay7D8S7cHLXKY9Ayb+CwOR3XqjKuZwhEpF7jM8KLV65/wJqJQdltHUCivBNOyPN6o=;9zEEEEkHWAlE88nlYIqnkQ=="
+secured: "r0p9CVARL9DuqbSHz7aLMWqEpTsVKS7ZGBx12GepLB2FkQXoBU+2v9mRPRt2IyD+hP2xKq8LXm/5exzyNYHFQ51xvpKcNO0pJSlUk2So4naZmUI9nxNkxIJCACH9lMbxZR8rq8ee6YM0qb3UXqbVOUu1be1fmADSbchjdBY1zfV4zZIZFMl2rnQhjOsSwOA0dmacUY3QnFJLi2SMdsNbZrKfZZtqjSXF6a7j/71LHG7LZYKO8CpYONAyzy44bJM0g/bRY0Gb815Dz5qg9YhHsEDLIR2+OYPS6gVcTqSp9kMiU+avCoTVrkV/gqyB1X1GbzAWKe7zmEBJnVuy0tiEIMvLySIK5nIgxlVkhLqyX5Vocxm1Mo/Ik0wbxDt7vY1TQBuBZk3P1Bbhd+HgKV1Vw2BCPG/Bk/WxcasJG62RJMDLrO50InsG7l+W1xTLCF6/3b7DZXVJew72Eh9HB5ef/dDFSTOTn0oxBiPfM1xP/yI4yUGyk6tp246kOlHnD7znvyo+xU0195LML2Z3Ran/sw==;xAHo5nL8tatYDBJSKSpSVQ=="
 ---
 

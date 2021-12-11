@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/apple-self-driving-car-3d-re
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/apple-self-driving-car-3d-render-images-revealed/?amp"
 type: article
 quality: 74
-heat: 104
+heat: 105
 published: true
 
 provider:

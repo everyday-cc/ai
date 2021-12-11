@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/12/08/1041544/podcast-how-ai-i
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/08/1041544/podcast-how-ai-is-giving-a-woman-back-her-voice/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     width: 3000
     height: 1687
     isCached: true
+
+related:
+  - title: "GeekWire Podcast: We assess the AWS outage, take an AI quiz, and try Amazon’s Halo View"
+    excerpt: "Is the world relying too much on Amazon Web Services? We take stock of the fallout from the big AWS outage (which was the subject of a detailed explanation from"
+    publishedDateTime: 2021-12-11T17:58:00Z
+    webUrl: "https://www.geekwire.com/2021/geekwire-podcast-we-assess-the-aws-outage-take-an-ai-quiz-and-try-amazons-halo-view/"
+    ampWebUrl: "https://www.geekwire.com/2021/geekwire-podcast-we-assess-the-aws-outage-take-an-ai-quiz-and-try-amazons-halo-view/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/geekwire-podcast-we-assess-the-aws-outage-take-an-ai-quiz-and-try-amazons-halo-view/amp/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 76
 
 secured: "gxBFCbjwL8N5zwOY3wei451RiPSb0hJ4+dWIMO4jqY+fcLxUsqDs/LCEhoSq7ehObgXiNicn/Ub+uz+uU7ms78nnWiBnBOKp+jC0g2YOUYPYoob3cDVkytqaChPLonofIuVDRwg9qHNbBTGPj6WjIoQ7V7cUCth3qiAUOzwI9/Pg97mzY/N5Prx8L+Bwu/5rc6uvGsZzy/A1C8qxE8HIXjfk6vBDvcX+dnJiv9hjjs5GEScIRkNx2DQn39Y3B8pi9/g8SlTtAgfHgx4AvWbXvjCyxBK5DCLQ7PUT8R1jWmCeWJ9GxrBTj3gExmySxGRCC570vI30Hxg4vz+q6iNkGThZKMZaHBlSNMp0qEG+OD+fgGNwPWkasXFKoCKfgySPYov8CqfZsY1AFbxN0LPj8tdgVgNtIrF66OKt/ebkipb80C5oCtabYOcPi6t8FX8C3o+lqzLu963KEMH8CrkSwkKYEiptmtOlcmLh4pXV7MlYRSfXsnJjdcLYe0XpNVP6ymY+dnp6WpEDWMDUEqDXVA==;0E5V1C55YSO2n1p/6mMDbg=="
 ---
