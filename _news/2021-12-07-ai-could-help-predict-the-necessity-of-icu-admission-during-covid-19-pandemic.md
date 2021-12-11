@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20211207/AI-could-help-predict
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211207/AI-could-help-predict-the-necessity-of-ICU-admission-during-COVID-19-pandemic.aspx"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "New AI tool could change how COVID ICU works"
-    excerpt: "New technology could be used to help doctors make the most of limited resources during COVID-19 by identifying patients in need of intensive care treatment"
-    publishedDateTime: 2021-12-06T14:50:00Z
-    webUrl: "https://www.openaccessgovernment.org/ai-prediction/125436/"
-    type: article
-    provider:
-      name: openaccessgovernment.org
-      domain: openaccessgovernment.org
-    quality: 37
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/12/dreamstime_xxl_70037200-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "U3illyAs8gUF4vGWK8U145SZbpDqAlSsihaYvmidjQnSoOq9gb6LXpjDLTa0HL86tyD0jpFrZLnKiPAV8SN3Dosb7PZF/3mKc58M2nAg6j+4ALJKKR8NIKgKbWBkEN+v4jtJKkgVIlXdP5Axfdov+Tdu1F/Q6aUTQPc9wY4fm960HgXsfmvx7LG5xUNX+GGS4hvPKwSzS80JeNENguI4pql97RgpskPNoWlOot/5tZYh3O2uBR1NbVBuzRWLFBgJzMyc8QzUvrrpbNyamlns+io6qNlv+kwRcNSo3Qx+Kch6gf3EL4+22GcH7omnrX8pV1FeygZkFZWEsO4o7WT9L1WH/hvEaQ4RxZstzpqBcWE=;7uxrdZf5arl27q84+UJYcg=="
 ---

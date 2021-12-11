@@ -39,20 +39,6 @@ related:
         width: 2120
         height: 1415
         isCached: true
-  - title: "Back to the future: self-driving boats to ease Amsterdam congestion"
-    excerpt: "From houseboats to floating farms, when space gets tight, the Dutch turn to their ample waterways. The latest example: the Roboat—or robotic boat—an autonomous, electric vessel that works as a water taxi, waste collection system, bridge, and even a ..."
-    publishedDateTime: 2021-12-06T13:19:00Z
-    webUrl: "https://www.dutchnews.nl/features/2021/12/back-to-the-future-self-driving-boats-to-ease-amsterdam-congestion/"
-    type: article
-    provider:
-      name: DutchNews.NL
-      domain: dutchnews.nl
-    quality: 24
-    images:
-      - url: "https://www.dutchnews.nl/wpcms/wp-content/uploads/2021/12/Roboat01©MIT_AMS-Institute-e1638714789744.jpg"
-        width: 620
-        height: 425
-        isCached: true
 
 secured: "hCYwzyfiIT3A37ByBXqGiHFMn+ZoWMN8J/u446P8DrcOnhjcj3LtDTJOpffZJyaFxCBtVyI9QAGXAG/YssxnDJ3OMBcdX00ZQv7bKJnTKdkC7f4E93ZDgWos21m8mrMDnItK34FTyXaRWJ6cyAOkuvtfOWZFNNKLk6rFn7QTezxu7yOWRoiizA+4gTOrp3S7dWQfkN9PWcWTJLg18XXtINZWbDBYfrqOz/LyyzLW4VUasnTc+D7deqeScyfScmmnllrhnbFaULmWZ7ul7LSDOprlTi98xm/zom9WifCVfroE1o6JPdgBiRthQhCRmPXfRUTLAUga8/mz23O/0AP0t8Nz0jE7vBFg3V7VTsz0CGmCjDMj5x/UXf2xPskEPsJmpv+jnpsXaE+zzKwn6jMmhcnDfSJ4gal3vJPBChCxLHGbDr9BeG+MkJNxWSGUcexMyox1xmrABureJbAr/AulB5HLUpLiRsK5BXssvr6SiPLXB6vI78oPjyLBDD4jrRa6czCIwKJ5BBAvaA4nPK6MZQ==;Ue2CcXuCqDin0f3oHiO2VA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2021/12/10/investing-in-the-future-
 webUrl: "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://insights.globalspec.com/images/assets/821/17821/Nature.png"
         width: 830
         height: 545
-        isCached: true
-  - title: "Back to the future: self-driving boats to ease Amsterdam congestion"
-    excerpt: "From houseboats to floating farms, when space gets tight, the Dutch turn to their ample waterways. The latest example: the Roboat—or robotic boat—an autonomous, electric vessel that works as a water taxi, waste collection system, bridge, and even a ..."
-    publishedDateTime: 2021-12-06T13:19:00Z
-    webUrl: "https://www.dutchnews.nl/features/2021/12/back-to-the-future-self-driving-boats-to-ease-amsterdam-congestion/"
-    type: article
-    provider:
-      name: DutchNews.NL
-      domain: dutchnews.nl
-    quality: 24
-    images:
-      - url: "https://www.dutchnews.nl/wpcms/wp-content/uploads/2021/12/Roboat01©MIT_AMS-Institute-e1638714789744.jpg"
-        width: 620
-        height: 425
         isCached: true
 
 secured: "A+gJo7I1HX7JZijul9pWOUbaiPUPTDajfNMX4EPL7+nAmD04rtk444mbHYcVprgUecHassBwdACamEVzq+FtTZ5zkT6rWCO2zfRbwIvdjhN7O7w0W5Cs1GYGVq0EhxL/KTZ7A0kjaMtx/BPi98VR7oM1iHHR9yY659ByXOpoK7ZEVtDNM7o1K+McCmVnspqjzVzhPWxP5SZ5zghdb+L2hFbp1jzVfroz/n+sC1RjCjsnJtUmjwFEs9vjaA+WmV74Kce6C3Xq+VNLrmpjDcojbb157b7qrRvoNGCeOesJtxGjIO6nVQV+pzNvisw8NK4KXsxRaxdpA09a7njgqnEV5m55o67GP2HNTyqlUu6W87tbwIN5qlgRjFs2XjGxH+2+yVbJUTiEeYUqlGoY8uvnE50rIBcvCcgjD7KvaFPSRCrZ+KOO8FmSbFR2rinQFtv+imvQMUiphDS+Re0AXh5OAsfVlnZFNqF8fdbclL3o/Gb67MRQRUqXXvZiPnBt3NJ/CLX7y1kDxG7B6uzN7RD9Og==;3R4TUcajixeqo297278ERA=="

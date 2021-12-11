@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/m2gen-announces-co
 webUrl: "https://markets.businessinsider.com/news/stocks/m2gen-announces-collaboration-with-microsoft-to-advance-bioinformatics-solutions-for-oncology-1031035161"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,44 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft (MSFT) to Support CVS Health's Digital Transformation"
-    excerpt: "Microsoft MSFT is teaming up with CVS Health CVS to help the latter ramp up its digital transformation endeavours. This will help CVS health to provide a data-oriented and personal customer experience along with greater compliance with the company’s own patient confidentiality rules,"
-    publishedDateTime: 2021-12-06T14:28:00Z
-    webUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation"
-    ampWebUrl: "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp"
+  - title: "MajorKey Technologies and Valence Group Join Forces to Create Full-Service Digital Transformation Partner to Commercial and Public Sector Clients"
+    excerpt: "MajorKey Technologies, the company bringing harmony to its clients' digital operations, backed by The Acacia Group, today announced"
+    publishedDateTime: 2021-12-09T14:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/majorkey-technologies-and-valence-group-join-forces-to-create-full-service-digital-transformation-partner-to-commercial-and-public-sector-clients-831070917.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "CVS Health (CVS) New Alliance to Boost Digital Transformation"
-    excerpt: "CVS Health's (CVS) collaboration with Microsoft will accelerate digital transformation and empower employees to provide more customized and affordable care."
-    publishedDateTime: 2021-12-07T14:01:00Z
-    webUrl: "https://www.entrepreneur.com/article/401170"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 54
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 0
     images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-401170.jpeg"
-        width: 635
-        height: 400
-        isCached: true
-  - title: "Driving digital transformation across the UK healthcare sector"
-    excerpt: "Brian Murphy at Cumulus Neuroscience explores how AI tools could transform drug development in the difficult area of cognitive disorders"
-    publishedDateTime: 2021-12-10T15:56:00Z
-    webUrl: "https://www.openaccessgovernment.org/cognitive-disorders/125967/"
-    type: article
-    provider:
-      name: openaccessgovernment.org
-      domain: openaccessgovernment.org
-    quality: 39
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2021/12/MG_6964_T5_ROOM1-scaled.jpg"
-        width: 2000
-        height: 1375
+      - url: "https://mma.prnewswire.com/media/1519735/MajoyKey_Logo.jpg?p=facebook"
+        width: 845
+        height: 445
         isCached: true
 
 secured: "Gx/ORP1YQtALFrNz8j18ULRZ+H9yyXjdJV55lz4sT44oGoOlUR1guzj3VQiAU5JGKCGraTpZCjaNiEAWiefzv8hU3Jm+YMfik0qqsmwPkNDSZVVETaMwB6I9Hr1aQ0LYesnL7fu/8F5ySy60Ct10sy2HKGlYZVPw5kKNeITIT87/xB3oIfH82tfKBowlGAY8j7pMQeZ8rcrhggRNB9PhfheT0dzsha5KXI8hKUdITrEK2HN2kEdWXrR00ZGMcr6vNMNjabK7tEuTrwHvd6RrhZuQuX4RCiAmgT0Yg9s2jH0zzCyWWCho31wX9AYsazmwZZ/6KonkBGTazjKV2iu1rqkuxDq7Wn4J12q+Fa4/6Ws=;DwSOM7mljuRV1pq6bVKT9A=="

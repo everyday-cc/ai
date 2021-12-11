@@ -90,6 +90,6 @@ related:
       domain: euronews.com
     quality: 19
 
-secured: "TNj5SmtbyoJM6cZhFwVwVhGU1G348h75oZOX/iUX0OcanW8RSPZ/YX7+570xzxZYpPfziIKJzP0P+KG48ZJV5RXnwKhh5V7ZWmpdGrq0ywdoP2s8/onDwK+LZgixGwKoZ8rOogUSJ4YFeT7l31mkn3LAC6/OLAEFDOS9l++/TN0MQbw31wyFTkQyoKpnc4Z05xIs4/4ExhhqooMvFlvx8mQbYpHqnyeVnvBmK3kdmt20+GYvRhhfQI1DhQJ1IQLez3tRsq9GnYpudpxS3OEbo4ruZePW6lZaC/1mHsIhlgDXaC33XoVvc0jXhasb1XftLVHR2HlNkdO3lfIt1aVqt9JdkBUip+TktgfLoviduh8=;8SjOcmrhK2JMJvcRSkcEfA=="
+secured: "/lOmef8voKIPJfU4jD3PMhdBlNVapGJJgEwLlFWfKhYs41bCTVen+Hx0ro50CvFT/cv+uxu1lfNzvc/O7JMTsuj4OI7zKuYTo/KkQ4s88nCnIY+9whlUgLZgHy7b0oB0FcbSo8rY+yoh3ynG8JEaF5hpnz5zp9YnOvoR7c6NSzMaSJFFT7kBAuiFziZI53BPVFf8Y/V0Do4lfxnKWYCQO41KZ5jnZTcrCSu0AHLaWhXetwJ4Nctg7QSK0PMCE2I2ZNp8Sq/Tz9huZJKLhVIBjYkou6CiZXgvwizOAtreVWDyUosnOmkMfV2gXF3UOGNTUkGzWgtEISYmDfdjd2nJN5LTzbr+sEglijdAgNY+MF0=;vS/PlmwYxvbf/uBRCFBjDw=="
 ---
 

@@ -1,23 +1,22 @@
 ---
 category: news
-title: "DeepMind neural networks open new window to understanding electron interactions"
-excerpt: "Neural networks can be used to build a more accurate map of the density and interaction between electrons than was previously attainable, new research from DeepMind shows. The result is a step towards enabling scientists to better understand the interactions between electrons,"
-publishedDateTime: 2021-12-09T19:14:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/936923"
-webUrl: "https://www.eurekalert.org/news-releases/936923"
+title: "DeepMind AI Tackles Valuable Chemistry Technique"
+excerpt: "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed a machine-learning model that suggests a molecule’s characteristics by predicting the distribu"
+publishedDateTime: 2021-12-11T06:00:00Z
+originalUrl: "https://www.realclearscience.com/2021/12/11/deepmind_ai_tackles_valuable_chemistry_technique_807443.html"
+webUrl: "https://www.realclearscience.com/2021/12/11/deepmind_ai_tackles_valuable_chemistry_technique_807443.html"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: RealClearScience
+  domain: realclearscience.com
 
 topics:
-  - Machine Learning
-  - AI
   - Google AI
+  - AI
 
 related:
   - title: "DeepMind says its new language model can beat others 25 times its size"
@@ -142,16 +141,16 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "DeepMind AI Tackles Valuable Chemistry Technique"
-    excerpt: "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed a machine-learning model that suggests a molecule’s characteristics by predicting the distribu"
-    publishedDateTime: 2021-12-11T06:00:00Z
-    webUrl: "https://www.realclearscience.com/2021/12/11/deepmind_ai_tackles_valuable_chemistry_technique_807443.html"
+  - title: "DeepMind neural networks open new window to understanding electron interactions"
+    excerpt: "Neural networks can be used to build a more accurate map of the density and interaction between electrons than was previously attainable, new research from DeepMind shows. The result is a step towards enabling scientists to better understand the interactions between electrons,"
+    publishedDateTime: 2021-12-09T19:14:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936923"
     type: article
     provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 34
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 32
 
-secured: "89fqDu3ZoabkwS2SHpKwIEyFaKD3Roz8Rh+CUesPyVjru88eicmwPMOERcr5enHvjirkZk4dx2hvkCYeJRodlVaPkRLqCiEPO3p8DgFBI5KSvg7m/UkFjPklgaLx5dkVtV4gFtCROKLgERK5EEa/X+nKzuElX3EkWq2j/jonaI7x2rO6XBTdjdsPq6pI701pFhIXadtmff7o0bWbq/oycyqwW14y1W4LPtV2qJyC29TjYyL6+xyKzjhIu7ZRZpGTJKF7gVDnHs7nrMwiAnXFO01JRPl1Kgw55PQWq8OVX0OVNdti76L50fnMeVAmh658Cpv/odpuBbsEpFdtNKjWwgTPAzOFTRQ3pjvVr/h4AfA=;yTY1F/eIPodbbTwKJSJbmA=="
+secured: "+nAg+HIiBa7KeGEdfXZDtoWk+OqcLvFVHfZAx4mad/ilYkEfJkAiZjg4O9tetM2SB96dVZ60phEU17gJ3DJB7SqvsBt5XOOJr8/wzrFqMoZukJZ4tdKAWDH3s2vtt5w3vrWznqbSHY97pnqCMZZLYcU3TPkI4x2Lu7BqQIBiJx6oaEaVTOtwRtteRuJ5hEq8uH/EuoyhQ11Q4yUZF4j+UlWFSrD3CFOTuO1FD+Prvmb/vgB9sijF+giOW0vaXeqndWvcxS39/rYO6gjLAMpAprTFOv3fINzkNRHc+UfyN/dUpIz8Wp7PZWBKsctqWwL281LZaXyjk/QV/mSDimR/vWe2jC0JGXhkIE1K8qnu3TSvnZa2eH+gm4tYkNAUDFULdoKxAk5Duc1d5xSfj0cPBGe527UaeCGkuI/oR2SJmzgJle3EF5RhRHfRP3g5ES93uJR+hnLullJulPXR6z3lBMzcHn7agrGA11/RHFkKSs7L3g0plbwOVuy2nQmZv5+hoSEOnCHOMsKtoegUSXnmPw==;mojmtXwDklkSbYy5cttPDg=="
 ---
 

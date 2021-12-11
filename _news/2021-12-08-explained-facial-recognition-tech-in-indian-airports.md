@@ -73,31 +73,17 @@ related:
         isCached: true
   - title: "3 Impacts of AI in the Machine Translation Industry"
     excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
-    publishedDateTime: 2021-12-07T22:13:00Z
-    webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+    publishedDateTime: 2021-12-07T23:03:00Z
+    webUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Times Union
+      domain: timesunion.com
     quality: 54
     images:
       - url: "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Machine Learning Is The Most Acquired Skill In India"
-    excerpt: "Data, Data, Everywhere are the top two popular courses to upskill in the demanding ecosystem The Future of Jobs 2020 report by the World Economic Forum states that AI and Machine Learning Specialists,"
-    publishedDateTime: 2021-12-06T13:44:00Z
-    webUrl: "https://analyticsindiamag.com/machine-learning-is-the-most-acquired-skill-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/default.jpg"
-        width: 851
-        height: 315
         isCached: true
 
 secured: "yqjeIF3KBcfIy7059y+ie3xdvctmywW++8nt7mB6gnCfpmXtO680Dmk++Ztdh8iiIKNQpthBXhpZOQD2wsY3tJweFwstLUAoXYRrlDGGkv1+8ZkzLHw+V5sekwxDJzgPkdFyI94uI0qePLi1F+F3DBjASuJDzqfCSZ3ZP4hYZdhL5oKMlqMzEbF4Oa/JR4WkuwLDrj98P5fShNQDcjAzepSxG9lhO7s2eDaSrhZwOAuzz77lERuNTXT7ziVGYcGsEqyhr3Vpe9jNzTSfre6uxxqGP2RZSqml8f7GtYAGkq5A4asQC2S7b+gnsrC/EqTOXF4Y5JzyViNnZk+ddpifpHUFOwYNCx334DknyHnfLMBdrNpJKM8p8LCqs8OHxlw1cfcShlls+OnWbEh1KqUpCsDgsO2XftFYhBQ3yTXZuybFp2PTzELmrJ+HUVG75PQ1NCmFeQntdoNPsoO6BtFfjzTOIihlEzaUZWaLVq896m4pFSKM8TlXYBUAVEubgPTC5c2qV9CcHUze5cO+1Jaqsg==;nniaG3QrpAMcM3q3JTo5bw=="

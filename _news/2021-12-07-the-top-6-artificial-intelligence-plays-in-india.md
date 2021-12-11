@@ -9,7 +9,7 @@ ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&
 cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
 type: article
 quality: 61
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -60,12 +60,12 @@ related:
         isCached: true
   - title: "3 Impacts of AI in the Machine Translation Industry"
     excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
-    publishedDateTime: 2021-12-07T22:13:00Z
-    webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+    publishedDateTime: 2021-12-07T23:03:00Z
+    webUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Times Union
+      domain: timesunion.com
     quality: 54
     images:
       - url: "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg"
@@ -85,20 +85,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
         width: 615
         height: 384
-        isCached: true
-  - title: "Machine Learning Is The Most Acquired Skill In India"
-    excerpt: "Data, Data, Everywhere are the top two popular courses to upskill in the demanding ecosystem The Future of Jobs 2020 report by the World Economic Forum states that AI and Machine Learning Specialists,"
-    publishedDateTime: 2021-12-06T13:44:00Z
-    webUrl: "https://analyticsindiamag.com/machine-learning-is-the-most-acquired-skill-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/default.jpg"
-        width: 851
-        height: 315
         isCached: true
 
 secured: "jrXyZ9EYEkLfPBik/83llRwKMmQJVenW/rtIG53BIQETVjRmf9etGBrWpwA63qg/4mBbROjlGhxKzKw9CzSaDPCAse7vsjwFcjD6e2hRVLpx0v4XtabKJwUeVxnaRyNJIdPc3V7xT9Cq7FE6gcUaSp9kV4Z9w/mOm7nmkag5HatVJ5PHRUUCyQF3fMyEL5FzBNB+CRkXGxwxYNOQCIpZZqWLxceIWfe8C/AW88WHqBe+gFAZgGorJz00kkPlVRzCM7wmv2L+/GX7nLABQ9XjAQOogPaZkxTzfSC4Dm/nknDPTfyQ3pntzgnWNPypHvJsiUbkkIgo2yknuXFQ1jutnhOf5i8hpvJyKV26aXJpaqw=;ak5evXZxq5EQmhBy7V+Urg=="

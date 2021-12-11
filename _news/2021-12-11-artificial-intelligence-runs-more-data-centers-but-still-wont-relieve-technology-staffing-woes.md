@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-run
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 1600
     isCached: true
 
-secured: "19ckkoaIiALxvQaokJQtN9gI+jr6w53v8h2nd+niQpQCcGvknHXCr0/pY6EG8vB+swHROiTeHzH93rCOxt/rQou0fgnqDIqojwaxIU0haMVXZ/4+fHt+1SF5yodLfevpLEfHUQ5FJ/hHcEXt+VOB2yFNcNijZZDrVJB72fChPtk27HDA0d9oMyGVUDP6F6rCG+0WVzDsdQ2Iv9QRvLXkrPDTQ0NsrZKZ7n12AoOIYSx9AeCUMXCoY5j9qgMm4q7sLNyOpFdL/l9vlfvmWVnTRUtePT30eH3tkXlH0T9P7VqR0EpSlIKTjoKRKhNHxnZ3tjctD2lhgcGI2rT5bIwCHG5Rj0cRR2+sjEd10ZXte7g=;7g0mK+LfYgKjb4fbUc5JuA=="
+secured: "itMK+KKWoIzpom3k1KkHjDZOVeq6ENjDVdwuXT6CjL201C8R/ICO2J4bqs3sI1sbQETiC7JKGAAdoe4s8YjMey/0l0Qg9JdUQQPsoVhaUx/MEvlQKUKjCA6FebKMTn9jfB/Fp9MwSInKvP70pX5rJpkzTctdKTT8ebCtmjLbyOxQ4m88RVmQUI8DS2kh36AFrns0R7ia+nLpkzR8QfPFrXOGo/+OBsObtGwtiP7apZ3efmGm9mYWkB5j8/xC7ha4YK1UjWUUEiVPjDeJoPhMz2vUCjdR5o8GGatJkfI2AYKJ0LWP1e/rW3K3Wtu7bzwcsS78ZNrt4cBZ0l6SnWLc68+ihWJut+MqOe54CM8nLRN2zK7U0RNzmkdIYvTIE9jgtFwFVkd9ZCaxlwwYUDv18EhVFb+fN0eTdsbtJ25Pf1CwwNgtTHhik59pfwT4ZmAJSpPLX2YEd8pqIHy2xQ4GS/D5gCIqPnFI9lKWuyDMcJKcvhnaQ1rtgPQC0VMHLMTxVjyIceyq4fAMNvLMxNJaEg==;e21kWCdelvFAb7nSFw5T6A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/cloud-computing-neuroimaging-ai-urg
 webUrl: "https://www.linkedin.com/pulse/cloud-computing-neuroimaging-ai-urgent-need-address-moore-md-phd"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     width: 1280
     height: 648
     isCached: true
-
-related:
-  - title: "Using AI to translate old code and fix aging computer systems"
-    excerpt: "UAB computer scientists are contributing to a DARPA-funded initiative with artificial intelligence-based programming languages that allow humans to understand the “safety and correctness of code in the wild."
-    publishedDateTime: 2021-12-06T14:34:00Z
-    webUrl: "https://www.uab.edu/reporter/research/grants-awarded/item/9683-using-ai-to-translate-old-code-and-fix-aging-computer-systems"
-    type: article
-    provider:
-      name: Kaleido Scope
-      domain: uab.edu
-    quality: 54
-    images:
-      - url: "https://www.uab.edu/reporter/media/k2/items/cache/43dd04518ac7ab808ae810eda3a2d063_XL.jpg"
-        width: 900
-        height: 676
-        isCached: true
-  - title: "How Scientists Are Using AI to Understand Climate Change"
-    excerpt: "The climate is changing faster than ever before. Machine learning could be a key understanding how--and to what extent. That's according to Karen A. McKinnon, assistant professor at UCLA's Institute of the Environment and Sustainability."
-    publishedDateTime: 2021-12-08T19:09:00Z
-    webUrl: "https://www.inc.com/kevin-j-ryan/machine-learning-climate-change-neurips.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1232186180_489523_ljsza6.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "b3VrsjDhzwEZeGSOdH1e5qfy6xhjQhIE/qmQsBTSovbdwEdiU5BRwxzEqQ+ddO0fN3Y22zZeGQ0TrT0+RHmdV40yhMWWq1CaHEwmnXeJoCaVFlFQeEknApyWzOFRLChCAxF1FMvrSgDlAnV4mCKwm6+jXbtvgkECzOZcyaMIscMtt6lGXQZGThiigHHBhzmIcK3Vt43SUZBrvRkBuP1ayz7ZOB2O7uN/CVPdh7Wx2Y8YqluaxHZlFPgM2QCukwDQEH/KQMIv/eqQLxpCTozKT83bHJnEcHbawBZuhQlELUTXQaEpdBbQoy2Zlwz9ztLVy2djnhMVtvqv82CmsIJbOS6gXEX2ZcyBwpspDRPiGD4=;gqAqmy5WgEylCMA6lLms8Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/12/08/1041557/deepmind-languag
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/"
 type: article
 quality: 159
-heat: 239
+heat: 249
 published: true
 
 provider:
@@ -122,7 +122,7 @@ related:
   - title: "DeepMind’s latest AI shines light on dark room of molecules"
     excerpt: "DeepMind has created the best chess player, one of the most accurate weather forecasting systems and a poker player that could give the card sharks of Las Vegas"
     publishedDateTime: 2021-12-10T00:01:00Z
-    webUrl: "https://www.thetimes.co.uk/article/deepminds-latest-ai-shines-light-on-dark-room-of-molecules-thww79qk3?shareToken=a92b7d9eb096c39543f25dd189bd8045"
+    webUrl: "https://www.thetimes.co.uk/article/1fc096ce-5919-11ec-81f2-17f963b74220?shareToken=f82596f3d92e69d99b8b3b151c492235"
     type: article
     provider:
       name: The Times
@@ -133,6 +133,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepMind AI Tackles Valuable Chemistry Technique"
+    excerpt: "A team led by scientists at the London-based artificial-intelligence company DeepMind has developed a machine-learning model that suggests a molecule’s characteristics by predicting the distribu"
+    publishedDateTime: 2021-12-11T06:00:00Z
+    webUrl: "https://www.realclearscience.com/2021/12/11/deepmind_ai_tackles_valuable_chemistry_technique_807443.html"
+    type: article
+    provider:
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 34
   - title: "DeepMind neural networks open new window to understanding electron interactions"
     excerpt: "Neural networks can be used to build a more accurate map of the density and interaction between electrons than was previously attainable, new research from DeepMind shows. The result is a step towards enabling scientists to better understand the interactions between electrons,"
     publishedDateTime: 2021-12-09T19:14:00Z

@@ -39,20 +39,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Survey Reveals FinTech is Now a Necessity, Heralds the End of In-Person Banking"
-    excerpt: "Blumberg Capital, a leading early-stage venture capital firm, today announced the results of its fourth annual survey of consumer behavior and attitudes on financial technology, known as fintech. The study,"
-    publishedDateTime: 2021-12-06T14:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-survey-reveals-fintech-now-necessity-heralds-end-in-/2021/12/06/9505195.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/1336014/Blumberg_Capital_Logo.jpg"
-        width: 400
-        height: 268
-        isCached: true
   - title: "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding ..."
     excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts BOSTON, M In less than six months, the Mass Fintech Hub,"
     publishedDateTime: 2021-12-09T13:01:00Z

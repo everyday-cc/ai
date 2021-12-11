@@ -1,22 +1,31 @@
 ---
 category: news
-title: "DeepMind simulates matter on the nanoscale with AI"
-excerpt: "In a paper published by Science, DeepMind demonstrates how neural networks can improve approximation of the Density Functional (a method used to describe electron interactions in chemical systems). This illustrates deep learning’s promise in accurately simulating matter at the quantum mechanical level."
-publishedDateTime: 2021-12-09T19:34:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/936901"
-webUrl: "https://www.eurekalert.org/news-releases/936901"
+title: "The therapists using AI to make therapy better"
+excerpt: "Researchers are learning more about how therapy works by examining the language therapists use with clients. It could lead to more people getting better, and staying better."
+publishedDateTime: 2021-12-07T13:16:00Z
+originalUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/"
+webUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/"
+ampWebUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
+cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
 type: article
-quality: 34
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: MIT Technology Review
+  domain: technologyreview.com
 
 topics:
-  - Google AI
+  - Natural Language Processing
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000"
+    width: 3000
+    height: 1687
+    isCached: true
 
 related:
   - title: "Simulating matter on the quantum scale with AI"
@@ -32,22 +41,6 @@ related:
       - url: "https://lh3.googleusercontent.com/sbg0s5HRyjgaED1YsDARdTCWIS4nO0lR2kaC1j0016qpQa6rM7G26aIUSOWfgZATVsh0jRZ1v3Jjfb8Yd4nzX-0OYrHSK1u0NJO5b51kCqPlGuAGdQ"
         width: 512
         height: 288
-        isCached: true
-  - title: "The therapists using AI to make therapy better"
-    excerpt: "Researchers are learning more about how therapy works by examining the language therapists use with clients. It could lead to more people getting better, and staying better."
-    publishedDateTime: 2021-12-07T13:16:00Z
-    webUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/"
-    ampWebUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 76
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000"
-        width: 3000
-        height: 1687
         isCached: true
   - title: "The power of AI can be unleashed with a focus on ethics"
     excerpt: "An EY survey reveals the public’s concerns around the growing use of artificial intelligence – but also the opportunities for organisations that take the right ethical approach."
@@ -127,7 +120,16 @@ related:
         width: 580
         height: 330
         isCached: true
+  - title: "DeepMind simulates matter on the nanoscale with AI"
+    excerpt: "In a paper published by Science, DeepMind demonstrates how neural networks can improve approximation of the Density Functional (a method used to describe electron interactions in chemical systems). This illustrates deep learning’s promise in accurately simulating matter at the quantum mechanical level."
+    publishedDateTime: 2021-12-09T19:34:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936901"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
 
-secured: "Pwy85BWzhSj4N+VIIfzB76VtJAfn97DuoSJsyi+t54V8nHTK3ALrmHEa3ZORLSrHc/8QnagIA/1djx31x/vLFJ36h8+02Uv/z1hjp8SC33DFoHKV6MA6l+O2kMfmryeHe1IP4vWD2bu3HDUmc26Ioa1Oy27+LOary9U9rX8nx0O4M7yx/hOIPnhuxs2RQQNDdVgrDHnzW+tIX1o9RpSxmvdDU/266bmri2uv5MtJWUw8PQHh/5G0SvnaiIZJQvLVMKzPa0X6TFc7zmxTY7oyOAAWV6bBxaOcxCQwea8+DM01FwyRu5aTpiClw1luCzmxPOraKNPSdsoGk5kQelr3KMm27eUYy4MWrvrGjX4cHm8=;b8apYADxZd4cbw4H/7/AeA=="
+secured: "HBayJVfY0uOWDgXpuXLGpQEX+a49hXGwjtwtIsU4DhJHwtsy9c5tbw2YvPPKPuyADjQq0BXnds8nhiSor9Y4fT4n/oodq7GlMr/Y+hGj4i36ncIRlnHsypEwtFTcHwoPszQwmDIh+1PdJvt0XNJBjeX1DslgqIvKjFmanE65i0kJSlYAqZTXgN0yQ882To+IkaKRd4nkQamU+HTSZwCzijpGvmRET27fgdVHl0tYJgHlz6cY4LB+u94C+tqOSIjH67QAmE7bU9nnslrblX347yI5L70gbR51YboqhbtRzwcKztJxkDHUqLku1QEZ9RlEDGdOXgHZagEhRRJyK4xayahRkRePbNrjI8urMYf88Q8=;1+TL4wPRiHkx3mtxXAOPSQ=="
 ---
 

@@ -59,12 +59,12 @@ related:
         isCached: true
   - title: "3 Impacts of AI in the Machine Translation Industry"
     excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
-    publishedDateTime: 2021-12-07T22:13:00Z
-    webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+    publishedDateTime: 2021-12-07T23:03:00Z
+    webUrl: "https://www.timesunion.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
+      name: Times Union
+      domain: timesunion.com
     quality: 54
     images:
       - url: "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg"
@@ -84,20 +84,6 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
         width: 615
         height: 384
-        isCached: true
-  - title: "Machine Learning Is The Most Acquired Skill In India"
-    excerpt: "Data, Data, Everywhere are the top two popular courses to upskill in the demanding ecosystem The Future of Jobs 2020 report by the World Economic Forum states that AI and Machine Learning Specialists,"
-    publishedDateTime: 2021-12-06T13:44:00Z
-    webUrl: "https://analyticsindiamag.com/machine-learning-is-the-most-acquired-skill-in-india/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/default.jpg"
-        width: 851
-        height: 315
         isCached: true
 
 secured: "0kpfwrxwUaX94UsxWNBud8xNP7iuxMvDtM24MztvQANNskiUXW4c8GlBh0YphuEiRoAPp5q+MWPLag7NQFpxsWC/EcAKkavMHa3Ij1We9vbyyJ2mVDx080xojJODQ3BIqX2vIWw9I5LAStGi3ZG4RvRJ9zsWfEVvJXqG9LJ1WsxZakIXCds7JTjOwNXF7EPLSsu0QctZYiAQM07Q/giuA/5154oLcRBLGBpbt+5N9YzQod8cQlljAy4n3Dbw73zPEKYnM1tZCzr9+ujQBQPQbBWS6M2noQymHmcjJml4xZ2UKCCN4CN8mwDBEfU7BjQuWUl/CcJZxqAsZ/bfR2IOW1oUF650FMVTwMHOUCu5bJr/PkAqzP0HiHazY6ZqukmrHdM5Ps73ydavFaED8Gzd6sp5+tb98zJpkbnlHvEV3ZJyQ5wlrkLlNiaRchkAl9QTVRUXH2oQ90OJTr1BhayojgQQrKVR3PVHylRUIqDwLzLcQtFJDKjJV1wk4nCHG4lAHSO25qHRMWE7A2MZ2vzDQg==;bv+YVZl7iBaskVBhnvaqzw=="
