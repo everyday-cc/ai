@@ -44,7 +44,7 @@ related:
   - title: "Group backed by top companies moves to combat AI bias in hiring"
     excerpt: "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination."
     publishedDateTime: 2021-12-09T23:16:00Z
-    webUrl: "https://www.bizjournals.com/bizjournals/news/2021/12/09/artificial-intelligence-bias-combat.html"
+    webUrl: "https://www.bizjournals.com/newyork/news/2021/12/09/artificial-intelligence-bias-combat.html"
     type: article
     provider:
       name: The Business Journals

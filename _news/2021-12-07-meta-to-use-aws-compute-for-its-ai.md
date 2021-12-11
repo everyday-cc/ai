@@ -41,20 +41,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "Machine Learning Company Agxio Wins AI Welsh Enterprise Award 2021"
-    excerpt: "Agxio, the revolutionary data science and machine learning specialists in the biotech, life sciences and agricultural sciences industries, has won the"
-    publishedDateTime: 2021-12-07T03:55:00Z
-    webUrl: "https://businessnewswales.com/machine-learning-company-agxio-wins-ai-welsh-enterprise-award-2021/"
-    type: article
-    provider:
-      name: businessnewswales.com
-      domain: businessnewswales.com
-    quality: 54
-    images:
-      - url: "https://businessnewswales.com/wp-content/uploads/ag.png"
-        width: 580
-        height: 385
-        isCached: true
 
 secured: "uhPloY+O3Ljnit95fahBcMGomSDBCC+29wVJqLHbklfo6DbIEcxfv1nxZTaOgtWSvxFaRBImOmQC0XA5ad1Gr9hhtMvXNBg2nW8CJ8DJAcSmRGKM9BAc0jHLM934kj3PDYo3u3ij1o9HJIMisY0ZNo3b60FC89blzDmWYBr59HbkmrsklRi6TFote7K5AFPHCJ1sBs6hfFegi+w/rPzylwY2y++e7+ah4MBNg6Fw9hYrQ5+28jwbpP0znb0rDrwk6Qa2nkQbj7rLiBI4Lbwp1QnT3C9C9rqBv8FxchRDxbQtvrz8rcu6Meng5hxq3JkilQpAGlHjiRUw77GiC/kRB7jWhbPzADJia7DqgVDB9NI=;C2+y1HZDsASjWv6jyE670w=="
 ---

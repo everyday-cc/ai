@@ -3,8 +3,8 @@ category: news
 title: "Group backed by top companies moves to combat AI bias in hiring"
 excerpt: "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination."
 publishedDateTime: 2021-12-09T23:16:00Z
-originalUrl: "https://www.bizjournals.com/bizjournals/news/2021/12/09/artificial-intelligence-bias-combat.html"
-webUrl: "https://www.bizjournals.com/bizjournals/news/2021/12/09/artificial-intelligence-bias-combat.html"
+originalUrl: "https://www.bizjournals.com/newyork/news/2021/12/09/artificial-intelligence-bias-combat.html"
+webUrl: "https://www.bizjournals.com/newyork/news/2021/12/09/artificial-intelligence-bias-combat.html"
 type: article
 quality: 19
 heat: -1
@@ -50,6 +50,6 @@ related:
         height: 899
         isCached: true
 
-secured: "SIx41rkGskYeVTaqpdbpBr9LH7F3Mwxo3++rlHu78/PD3aTupfVdTWSE/9eVFvw7guGbQKP3J0Dn0VD1yOcvXi46Xg4Y4/z3Hp9poqJXdsOjtF7pdFrQKL8mBqz/8WwjlljSxqBRdCnDadKZtzpC1nTWintKOtSz4yXi6mURheWwY/cSo6w69zB+5aoMGgtfp7thvGSGJ5R0pEm7Y7P6J98qoyl9gIKulMCax2LfNz7qHVM1Ur6jAeXFXrbrGQWouTGje5GO05TAz3GrmNwEhTmow6o2ltavx/HxVfQrLrJHrQOzLVnxaWU6UX+ut8Os3aC4nAZQqOLaOoUfIWNNudnjgbnRJ1rmYGCuP99TMkVJXUVLrNXws22wB11yDk/XkBGD4z73xBoNL9QAMdTOYaJRjlzxDO2F8CC1YlKkrdx/+7zZ0X+oA79WO9yF8kYI5uf/gNPYM5qAqxbK/fPbKfeG7feHEYYjMQJqxX2Rz8DH2XeKn0y0jFlDp7y1m6EyFpF3lFhQllpu/A4Z9akWFw==;qPOdOd+00rPPSsr15tnabw=="
+secured: "uQfgo99K04c6lnNsTyQkv9nyI/TVSB9M7mA08tal3uoxhK/3NgSNS3xMVNbna3K5kfiiOQzQOsAHR/ugOJFwYdUOQ9ScyvsYJoh+6ieFAEi+3Nd0cJ0srik6Po0SkCYZlxnK2gwP6C1ibf2s9WNtxSKXc4iSfLHK9NxEYHd51TlI2pP+8KHUMS4UH4wQblDARL8VoVLUAFe1v+v3daiwnoJb6o4VgKrw6SyqPnrrPQO1XJBxq0X+cg4/RYG2kr6kiJGuu/ZJI8IAR+2bK0zTQsXJ/7nxuGJRGv4BT4gEXsZAEM2FyUpxxD/KVv5ZAbGFrU+6m3+dxhIAMjSRUgTaN0uDoOr28OnNRPpbUnr4C3B7k041SCn3c2IbUG/2qf6/Bs25Rck8uUKOLgnwSZWhQNY/CH7KKXaOj7mdqNoKl8IvL1wcY9+ODw3BNOfPKg7PTgWCxCTXYL4il73wNisxOC8MQfyof/WipRJ8kRRZyudz7FBEYZo+7j5Kat1kONZkGASwUe2l5hfywGFCAi527g==;Lfk/dWShDX74bECRwrS0HA=="
 ---
 

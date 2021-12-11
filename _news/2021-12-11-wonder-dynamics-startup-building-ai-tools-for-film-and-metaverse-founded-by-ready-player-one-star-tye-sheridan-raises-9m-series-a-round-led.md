@@ -24,49 +24,47 @@ images:
     isCached: true
 
 related:
-  - title: "Tye Sheridan, Nikola Todorovic VFX Startup Wonder Dynamics Raises $9M; Epic Games, Samsung Investors"
-    excerpt: "Wonder Dynamics, a startup founded by Ready Player One star Tye Sheridan and VFX expert Nikola Todorovic, that aims to lower the cost and level the playing field for visual effects, raised $9"
-    publishedDateTime: 2021-12-10T14:00:00Z
-    webUrl: "https://deadline.com/2021/12/tye-sheridan-nikola-todorovic-vfx-wonder-dynamics-epic-games-samsung-steve-spielberg-joe-russo-1234888265/"
-    ampWebUrl: "https://deadline.com/2021/12/tye-sheridan-nikola-todorovic-vfx-wonder-dynamics-epic-games-samsung-steve-spielberg-joe-russo-1234888265/amp/"
-    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2021/12/tye-sheridan-nikola-todorovic-vfx-wonder-dynamics-epic-games-samsung-steve-spielberg-joe-russo-1234888265/amp/"
+  - title: "How a VR startup took the money and ran to the metaverse"
+    excerpt: "Dedric Reid has been selling his own version of the metaverse on and off for the past five years. He calls it MetaWorld and describes it as a persistent, decentralized space filled with life and change."
+    publishedDateTime: 2021-12-10T17:03:00Z
+    webUrl: "https://www.engadget.com/metaworld-nft-metaverse-dedric-reid-clubhouse-discord-170052007.html"
     type: article
     provider:
-      name: Deadline.com
-      domain: deadline.com
-    quality: 42
+      name: Engadget
+      domain: engadget.com
+    quality: 52
     images:
-      - url: "https://deadline.com/wp-content/uploads/2021/12/Nikola-Todorovic-Tye-Sheridan-2.jpg?w=1000"
-        width: 1000
-        height: 563
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-12/99b33170-5848-11ec-befc-49d83b88b040"
+        width: 2560
+        height: 1310
         isCached: true
-  - title: "CORRECTING and REPLACING Tye Sheridan's Startup Wonder Dynamics Raises $9M Series A Round"
-    excerpt: "Tye Sheridan's Startup Wonder Dynamics Raises $9M Series A round (instead of Wonder Dynamics, Startup Building AI Tools for Film and Metaverse Founded by Ready Player One Star Tye Sheridan, Raises $9M Series A"
-    publishedDateTime: 2021-12-11T10:57:00Z
-    webUrl: "https://www.lelezard.com/en/news-20151916.html"
+  - title: "100 Versions Of Robot Sophia Ready For Metaverse"
+    excerpt: "The latest iteration of Sophia allows 100 versions of her in NFT format to be available in the metaverse Sophia, the humanoid robot built by Hanson Robotics, will now have her virtual anime version in 100 non-fungible tokens (NFT) and be seen in the metaverse."
+    publishedDateTime: 2021-12-07T12:59:00Z
+    webUrl: "https://analyticsindiamag.com/100-versions-of-robot-sophia-ready-for-metaverse/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 28
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/FF8OoaUUcAck9S6.jpg"
+        width: 1628
+        height: 954
         isCached: true
-  - title: "Tye Sheridan, Nikola Todorovic VFX Startup Wonder Dynamics Raises $9M; Epic Games, Samsung Investors"
-    excerpt: "Wonder Dynamics, a startup founded by Ready Player One star Tye Sheridan and VFX expert Nikola Todorovic that aims to lower the cost and level the playing field for visual effects, raised $9 million in a Series A funding round that included Epic Games and Samsung as investors."
-    publishedDateTime: 2021-12-10T16:02:00Z
-    webUrl: "https://www.imdb.com/news/ni63486317/"
+  - title: "Tech Insider: Baidu Enters the Metaverse, a Self-Driving System for as Little as $10,000"
+    excerpt: "Welcome to Caixin’s Tech Insider, your twice-weekly wrap on the movers, shakers and deal-makers in China’s tech scene. Baidu teases metaverse app Search giant Baidu Inc. has teased the launch of a metaverse app on Dec."
+    publishedDateTime: 2021-12-10T12:13:00Z
+    webUrl: "https://www.caixinglobal.com/2021-12-10/tech-insider-baidu-enters-the-metaverse-a-self-driving-system-for-as-little-as-10000-101816390.html"
     type: article
     provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 22
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 30
     images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
+      - url: "https://img.caixin.com/2021-12-10/163913795584429_560_373.jpg"
+        width: 560
+        height: 373
         isCached: true
 
 secured: "NdUlb/U1fxLH8MmuqsvgsSVXg2E3wn5IHhmB2c62KoK6/S3d1aH+ywz+LWFL31otoUQIM59jDq9wMbpn6YO9ntkfpTR0X1k9NJ7qLxf8ndLQ8N70pc9NvgsgZDVmMSzUktb/ziEobMkAEhlDL7ZjEkDVYLcpPf2POYO69GYTA7aKwNkqbbwok1bf9BSZJdicXibkRUOfLIv71HosVeb9VcVyPl5OvIaHxweXUhDfzGKeVd0xaQEKgLuEHq3BM1IhYQ3i/ccoQKMEuevW151eubuhUchp+wjwJtORERer9kRcNkNo0vv0PgmLCTRX0L1ehfrVBaHpardMJVkmtp+TcZxXpqg2VXsQ5oa9nBTYeJw=;LaHewVoFurpyTRw5r8/mxA=="

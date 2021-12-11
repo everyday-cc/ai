@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew"
 type: article
 quality: 61
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Company Agxio Wins AI Welsh Enterprise Award 2021"
-    excerpt: "Agxio, the revolutionary data science and machine learning specialists in the biotech, life sciences and agricultural sciences industries, has won the"
-    publishedDateTime: 2021-12-07T03:55:00Z
-    webUrl: "https://businessnewswales.com/machine-learning-company-agxio-wins-ai-welsh-enterprise-award-2021/"
-    type: article
-    provider:
-      name: businessnewswales.com
-      domain: businessnewswales.com
-    quality: 54
-    images:
-      - url: "https://businessnewswales.com/wp-content/uploads/ag.png"
-        width: 580
-        height: 385
-        isCached: true
   - title: "Meta To Use AWS Compute For Its AI"
     excerpt: "Meta and AWS will help enterprises use PyTorch on AWS to bring deep learning models faster and easier into production"
     publishedDateTime: 2021-12-07T06:52:00Z

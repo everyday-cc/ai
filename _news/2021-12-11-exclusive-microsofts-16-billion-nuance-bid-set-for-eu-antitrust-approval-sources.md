@@ -32,9 +32,9 @@ related:
   - title: "Microsoft Azure Orbital opens up space to everyone"
     excerpt: "In a new blog post, Microsoft detailed new partnerships and new features that it hopes will result in better satellite imagery, better connectivity, and more data/insights. Azure Orbital is a fully managed cloud-based ground station-as-a-service that lets users communicate with their spacecraft or satellite constellations,"
     publishedDateTime: 2021-12-10T10:16:00Z
-    webUrl: "https://www.techradar.com/uk/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    webUrl: "https://www.techradar.com/nz/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
     type: article
     provider:
       name: TechRadar
@@ -120,6 +120,6 @@ related:
       domain: bizjournals.com
     quality: 28
 
-secured: "W1Fx0sg0VK64NaXRGuCsg6C0Y2uPf3TsgtSB7LAZbujp3q8W0l5oOFKdC0imfXFKm0+Qa7nbG/nUAa24wYIynaD0l/z84+upUdZTUIHoqGCo4RL8lqfam0A8CXDXYOSfmx2nV4M/A6+ooxmIb2rKGew0FO8vpomjpOAFj9BWs4J9nHc7jxkVbBh5uWJmxwv6vTM3AvkrFrDLVUqsWOkB0b+phCSaxr0j//a3S9s/6vntXm7kYOEcqzDdn6494wYPz/jW/hpyCKEaIgZcKcypt+fg56pwd5RjDi3Zu2mKMGh2thhowjvYqAUYYHv1v6cYYAZnVHet1OXqhLOSOOhld+tysHjSna2L1iMszj+8vno=;omr5QPrKO98jipd8MZ1TjQ=="
+secured: "hmJkjYyshB3C2bWcYVii1GqOOAtNft9sE7zsXQncgUbrgG6kCJAMKi1fdGM6ypZDDrfTjvVzbn6x21Js7EvMdZc3zr0FNd4I39YGOWyV7q5tf1qQ8C1atwYmILZqbuwByjn1L1XPNmO1CHOjAZAgadaGmHF3RvxAyXviWCVsMbjk6gY8+36yHAu8Ki1jbFqW+H2XRfbfh08eF0/+v8zU6dNpVU+eU26x3JFaYxW3lfwaVz3o9ncZSptKBHLHE0dEeoPJf8yQRHr+3YnbZeAMNsncc9iz/wNdHs4CiniGySoEmKAJjPYgYrk1fvraJ1nprWobW3e3Py9lAE00NvJm0sEZc65E/OIdMx7p62426w/9SFvoxbhQY+sIisQYSAXpay1n3g1FTSwOwgz8sjcqeeFiOEFIPmVF5hj9RRzpFftDeRSSlW6m1kyRKWvADsGebv8BsBinWU4Iwg/h83bK+Vo92ygQzIe8+3WFTDAAvPZ3tiidWtPGujFtXfMZses/g9cFexZfyV8SMrpy25+1YeRFAQFH46yZ12TCkcnbysA=;u/9Tne5W9lNyYFz9TyntRg=="
 ---
 

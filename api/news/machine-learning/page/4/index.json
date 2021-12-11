@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-20-seeq-announces-expanded-microsoft-azure-machine-learning-support.md",
+      "title": "Seeq Announces Expanded Microsoft Azure Machine Learning Support",
+      "excerpt": "With the new Azure Machine Learning integration, data science teams can develop models using Azure Machine Learning Studio and then publish them using the Seeq Azure Add-ons feature, available ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/seeq-announces-expanded-microsoft-azure-machine-learning-support-301416517.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/seeq-announces-expanded-microsoft-azure-machine-learning-support-301416517.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1678935/Seeq_Azure_Add_On_press_release_image.jpg?p=facebook",
+          "width": 798,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-19T14:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-scientists-use-machine-learning-to-predict-smells-based-on-brain-activity-in-worms.md",
+      "title": "Scientists use machine learning to predict smells based on brain activity in worms",
+      "excerpt": "It sounds like a party trick: scientists can now look at the brain activity of a tiny worm and tell you which chemical the animal smelled a few seconds before. But the findings of a new study, led by Salk Associate Professor Sreekanth Chalasani,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-11-scientists-machine-based-brain-worms.html",
+      "originalUrl": "https://phys.org/news/2021-11-scientists-machine-based-brain-worms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/reading-the-mind-of-a.jpg",
+          "width": 1880,
+          "height": 1495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-11-scientists-machine-based-brain-worms.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-11-scientists-machine-based-brain-worms.amp",
+      "publishedDateTime": "2021-11-19T13:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-identifying-patients-needing-help-with-squark-automl-at-upmc.md",
       "title": "Identifying Patients Needing Help With Squark AutoML At UPMC",
       "excerpt": "UPMC uses automated machine learning software from Squark to identify patients who may benefit from living donor liver transplants.",
@@ -1318,92 +1405,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-european-banking-authority-releases-machine-learning-discussion-paper.md",
-      "title": "European Banking Authority Releases Machine Learning Discussion Paper",
-      "excerpt": "The European Banking Authority (EBA) has released its discussion paper on machine learning 'used in the context of internal ratings-based (IRB) models to calculate regulatory capital for credit risk.' As noted in the announcement,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/50-Euros-Europe-Inspect-Review-Look.jpeg",
-          "width": 1400,
-          "height": 1867,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/11/182830-european-banking-authority-releases-machine-learning-discussion-paper/amp/",
-      "publishedDateTime": "2021-11-12T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-12-googles-self-supervised-ai-model-can-help-improve-neural-networks-in-medical-research.md",
-      "title": "Google’s self-supervised AI model can help improve neural networks in medical research",
-      "excerpt": "The key postulate of self supervised machine learning models is that they are trained on unlabelled data, thereby enabling application of AI in niche areas where collection of clearly defined data sets may be difficult,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research-11636706824623.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research-11636706824623.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/11/12/600x338/6829affde82f48e5b57be0ef8b730720-c93d3f78e87f4e7da936d62d7e48ef21-0_1623317195889_1636707284807.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research/amp-11636706824623.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/googles-ai-model-can-help-improve-neural-networks-in-medical-research/amp-11636706824623.html",
-      "publishedDateTime": "2021-11-12T00:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

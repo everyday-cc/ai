@@ -1,27 +1,23 @@
 ---
 category: news
 title: "EduTech Startup GeniRobot to Expand Southeast Asian Market via Thailand Joint Venture"
-excerpt: "From GeniRobot's Thailand-based subsidiary, GENITHAI, plans to expand its EduTech services further into the Southeast Asian market. GeniRobot, is an EduTech enterprise and a joint venture member of Born2Global Centre,"
-publishedDateTime: 2021-12-10T14:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/edutech-startup-genirobot-to-expand-southeast-asian-market-via-thailand-joint-venture-1031038822"
-webUrl: "https://markets.businessinsider.com/news/stocks/edutech-startup-genirobot-to-expand-southeast-asian-market-via-thailand-joint-venture-1031038822"
+excerpt: "From GeniRobot 's Thailand -based subsidiary, GENITHAI, plans to expand its EduTech services further into the Southeast Asian market. GeniRobot, is an EduTech enterprise and a joint venture member of Born2Global Centre,"
+publishedDateTime: 2021-12-10T14:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-edutech-startup-genirobot-expand-southeast-asian-market-via-/2021/12/10/9509193.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-edutech-startup-genirobot-expand-southeast-asian-market-via-/2021/12/10/9509193.htm"
 type: article
-quality: 57
-heat: 57
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "cYMXVicG4ifPjpP8cdGx49iuRuKuGOaxcpUIXu/Rp9FTgCisSacab56mVZuQ5DDqdvVhRuYvwO5FC2/Rm1tSiXTSxymqPvjsZ2O/XFJpolBI2bwNmecf/B28SZjZo0Zdeq5ls4DgdGRkeJ7Y1adJ44eFWcMO+6S6S5mD2ydlm/d0+/m7x7+OP0sqc/IWsRsqqRKeN0R7gOzleeIGJjZVuMqBgo569ESMdOKehmpp4pr38ITccqWjiAJucmenfGHWbC1SIhCik8QM7wyXlBv785l7ttWeaTxvtz+A7XmzBUEfzoo1cqq4e2qjdEJRcpel1+GYYz2Ts6bgR3Nu/MHwsmkS0WXj5vfOJVpn7u/MAxA=;0cQYzbk16e9EZZb38UGtiQ=="
+secured: "XAklrfrO8K5mDzL5rXEAL947WgZo8hZVqJbXbbc2p9pASpHURN2k7IaKNaKMFdvMYHDZ4JOrMW1s7HFvG9eqx61/eMtD3l821oT/55ygX7LR2yvZp5sq5Rk8/UdyRIMKS+6U/RcwZIAS0m/52gG8zNjFrwM/afcEmsa2p9m05+4q3gKivk4F4JLR29c1jTFxf8Gbd7hxMkgkJu4FAvchUWd++M59kiZXik6sJ0ww09d5pLsotQ7+3YKIdDB69lT7Y4L2qCw7VlQsXsQ0dh3C1xYmqXaKV5sZAA5EqiXbCkUuW5mdZDPqRMkA4k7kf4MK40Y1POZpJoHjzGzhbCDeUkTWRbwXBz8pkHWMzNuWqWE=;QNEJjPPlARI223xSX9u3Vw=="
 ---
 

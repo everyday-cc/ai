@@ -2,6 +2,133 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2021-09-27-how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon.md",
+      "title": "How a pet subscription startup is outfoxing giants like Chewy and Amazon",
+      "excerpt": "How do you build a subscription box business to rival major brands? PetFriendly, a startup that sells vet-quality flea & tick medication on a subscription model, has found success through personalization,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
+      "originalUrl": "https://www.zdnet.com/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/r/2021/09/24/a2d68c1a-71cd-4586-b855-19681a8742f9/resize/1200xauto/4e5c19dae51ada923f1f3e2d32cbfcec/dog-and-laptop.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-a-pet-subscription-startup-is-outfoxing-giants-like-chewy-and-amazon/",
+      "publishedDateTime": "2021-09-27T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-worried-about-facial-recognition-big-tech-wants-your-anal-prints-too.md",
+      "title": "Worried About Facial Recognition? Big Tech Wants Your Anal Prints Too",
+      "excerpt": "Privacy concerns related to the implications of facial recognition have been raised several times but you may not have thought much about a very different part of your body being scanned. Sanjiv Gambhir,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
+      "originalUrl": "https://www.thequint.com/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2020-02%2F18813c2f-9015-42ff-b4e4-712fc1e86819%2FiStock_1165098319.jpg",
+          "width": 745,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/worried-about-facial-recognition-big-tech-wants-your-anal-prints-too",
+      "publishedDateTime": "2021-09-27T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav.md",
+      "title": "AI navigation startup Phiar lands ex-Google manager, funding from Telenav",
+      "excerpt": "Phiar, a startup aiming to enhance in-car navigation systems by overlaying directions on real-time video, announced on Monday that Google's head of Android automotive platforms joined as chief executive and State Farm Ventures led a $12 million funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27",
+      "originalUrl": "https://www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-navigation-startup-phiar-lands-ex-google-manager-funding-from-telenav-2021-09-27?amp",
+      "publishedDateTime": "2021-09-27T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-cyber-security-in-the-public-cloud.md",
       "title": "Cyber security in the public cloud",
       "excerpt": "A brief guide to the network, infrastructure, data, and application security capabilities AWS, Microsoft Azure, and Google Cloud provide to prevent cyber attacks and protect your cloud-based resources and workloads.",
@@ -1008,145 +1135,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-ai-strategies-for-growth-workshop-in-collaboration-with-aws.md",
-      "title": "AI strategies for growth workshop in collaboration with AWS",
-      "excerpt": "Sharjah -Sharjah Research Technology and Innovation Park hosted a workshop on artificial intelligence (AI) and machine learning (ML), delivered by Amazon Web Services (AWS). The “AI Strategies for Growth” workshop, which took place on Sunday on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/uae/en/press-releases/story/AI_strategies_for_growth_workshop_in_collaboration_with_AWS-ZAWYA20210925100215/",
-      "originalUrl": "https://www.zawya.com/uae/en/press-releases/story/AI_strategies_for_growth_workshop_in_collaboration_with_AWS-ZAWYA20210925100215/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/pr/images/2021/ITApark_2021_09_25.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/ZAWYA20210925100215/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210925100215/",
-      "publishedDateTime": "2021-09-25T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-migrate-multi-worker-cpugpu-training.md",
-      "title": "Migrate multi-worker CPU/GPU training",
-      "excerpt": "Distributed training with TensorFlow Parameter server training with Keras Model.fit/a custom training loop MultiWorkerMirroredStrategy with Keras Model.fit MultiWorkerMirroredStrategy with a custom training loop. def _input_fn(): return tf1.data.Dataset ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/migrate/multi_worker_cpu_gpu_training?hl=de",
-      "originalUrl": "https://www.tensorflow.org/guide/migrate/multi_worker_cpu_gpu_training?hl=de",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png?hl=de",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-25T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-twin-cities-thai-restaurant-hires-robot-server-amid-staffing-shortage.md",
-      "title": "Twin Cities Thai Restaurant Hires Robot Server Amid Staffing Shortage",
-      "excerpt": "DeeDee, a server assistant robot, is the first of its type operating in the state. It can carry food, drinks, and dirty dishes between the kitchen and dining tables.",
-      "sourceUrl": null,
-      "webUrl": "https://minnesota.cbslocal.com/2021/09/25/twin-cities-thai-restaurant-hires-robot-server-amid-staffing-shortage/",
-      "originalUrl": "https://minnesota.cbslocal.com/2021/09/25/twin-cities-thai-restaurant-hires-robot-server-amid-staffing-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://minnesota.cbslocal.com/wp-content/uploads/sites/15909630/2021/09/DeeDee.jpg",
-          "width": 1026,
-          "height": 578,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://minnesota.cbslocal.com/2021/09/25/twin-cities-thai-restaurant-hires-robot-server-amid-staffing-shortage/?amp",
-      "cdnAmpWebUrl": "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2021/09/25/twin-cities-thai-restaurant-hires-robot-server-amid-staffing-shortage/?amp",
-      "publishedDateTime": "2021-09-25T00:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

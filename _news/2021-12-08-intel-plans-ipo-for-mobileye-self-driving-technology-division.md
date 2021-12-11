@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Will Take Mobileye Public in 2022"
-    excerpt: "The chip maker’s Israeli subsidiary builds driver-assistance technology for major automakers and is now testing self-driving cars."
-    publishedDateTime: 2021-12-07T03:31:00Z
-    webUrl: "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html"
-    ampWebUrl: "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 172
-    images:
-      - url: "https://static01.nyt.com/images/2021/12/06/multimedia/06mobileye/06mobileye-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Intel plans to take self-driving car unit Mobileye public"
     excerpt: "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters."
     publishedDateTime: 2021-12-07T07:37:00Z
@@ -72,6 +56,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1626819349"
         width: 3500
         height: 2334
+        isCached: true
+  - title: "Intel Plans Potential $50 Billion IPO For Its Israeli Self-Driving Car Unit, Shares Rise"
+    excerpt: "The tech giant said that it would take its self-driving car firm, Mobileye, public next year at a potential valuation of more than $50 billion, sources first told The Wall Street Journal. Intel originally acquired 100% of the Israeli company in 2017 for $15."
+    publishedDateTime: 2021-12-07T15:27:00Z
+    webUrl: "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/"
+    ampWebUrl: "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 65
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af8aa58245aba99ca728d7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3995%26cropY1%3D153%26cropY2%3D2399"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Intel to take Mobileye self-driving car unit public in 2022"
     excerpt: "The Israeli-based company, which Intel bought in 2017 for about $15 billion, has been a standout performer for the world's top chip producer."
@@ -105,6 +105,36 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Intel is spinning off its self-driving unit for $50B — why?"
+    excerpt: "Intel acquired Mobileye for $15B in 2017. With markets hungry for next-gen auto tech, its spinning off the self-driving unit at a potential $50B valuation."
+    publishedDateTime: 2021-12-09T02:05:00Z
+    webUrl: "https://thehustle.co/12092021-intel-mobileye/"
+    ampWebUrl: "https://thehustle.co/12092021-intel-mobileye/"
+    cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/12092021-intel-mobileye/"
+    type: article
+    provider:
+      name: The Hustle
+      domain: thehustle.co
+    quality: 44
+    images:
+      - url: "https://thehustle.co/wp-content/uploads/2021/12/News-Brief_2021-12-09T015615.842Z.jpg"
+        width: 600
+        height: 330
+        isCached: true
+  - title: "Chipzilla to make its self-driving car unit public"
+    excerpt: "Mobileeye plans IPO  Intel is planning to make its self-driving-car unit Mobileye a public company in the middle of next year -- an IPO could value the Israeli unit at more than $50 billion Chipzilla expects to retain Mobileye's executive team and hold on to a majority ownership in"
+    publishedDateTime: 2021-12-07T11:26:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/54007-chipzilla-to-make-its-self-driving-car-unit-public"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 24
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/1fe68e50434d250817039055a6f59a23_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Intel plans to take its self-driving wing Mobileye public"
     excerpt: "Intel Corp. plans to take Mobileye, its self-driving arm, public via an initial public offering in the mid 2022 time frame. Intel will remain the majority owner of Mobileye and collaborate on projects for the automotive sector including the advancement of autonomous vehicle technology and the computing that is needed to power these future cars."
     publishedDateTime: 2021-12-08T13:39:00Z
@@ -118,6 +148,20 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/509/17509/mobileye.jpg"
         width: 752
         height: 423
+        isCached: true
+  - title: "Intel's self-driving unit to get IPO"
+    excerpt: "Mobileye, which has been growing faster than its parent, makes chips and software that work with sensors to let vehicles handle more driving functions."
+    publishedDateTime: 2021-12-07T18:10:00Z
+    webUrl: "https://www.linkedin.com/news/story/intels-self-driving-unit-to-get-ipo-4598769/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQGaQSUzonLJdw/storylineheaderimage-shrink_400_400/0/1638900630048?e=1638993600&v=beta&t=ATEYMYGhpkl8NPyLKNYOZK3jg1HXGVq5YjSo2icnmpk"
+        width: 400
+        height: 264
         isCached: true
   - title: "Intel Intends to Take Self-driving Car Unit Mobileye Public"
     excerpt: "Intel this week announced its intention to take Mobileye public in the United States in mid-2022 via an initial public offering (IPO) of"

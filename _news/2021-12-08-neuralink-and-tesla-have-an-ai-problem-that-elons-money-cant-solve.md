@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elo
 webUrl: "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "News: Tesla to hire Artificial Intelligence engineers: Elon Musk tweets"
-    excerpt: "According to the official website the AI and Autopilot unit of Tesla develops and deploys autonomy at scale in vehicles robots and more"
-    publishedDateTime: 2021-12-07T04:16:00Z
-    webUrl: "https://www.peoplematters.in/news/recruitment/tesla-to-hire-artificial-intelligence-engineers-elon-musk-tweets-31858"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 56
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1636960766/ad-kqkzykwk.png"
-        width: 990
-        height: 550
-        isCached: true
   - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-Driving cars"
     excerpt: "Tesla may have undermined safety in designing its driver-assistance system to fit CEO Elon Musk’s vision, former employees said. Now the NHTSA is investigating at least 12 accidents in which Teslas using Autopilot drove into parked vehicles."
     publishedDateTime: 2021-12-07T05:03:00Z

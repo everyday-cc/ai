@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-12-02-artificial-intelligence-in-the-global-healthcare-market-2021-2025-growing-potential-of-ai-based-tools-for-elderly-care-researchandmarketscom.md",
+      "title": "Artificial Intelligence in the Global Healthcare Market 2021-2025: Growing Potential of AI-Based Tools for Elderly Care - ResearchAndMarkets.com",
+      "excerpt": "Insights & Forecast with Potential Impact of COVID-19 (2021-2025)\" report has been added to ResearchAndMarkets.com's offering. The global AI in healthcare market is forecasted to record a value of US$22.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/b24400000/artificial-intelligence-in-the-global-healthcare-market-2021-2025-growing-potential-of-ai-based-to",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/b24400000/artificial-intelligence-in-the-global-healthcare-market-2021-2025-growing-potential-of-ai-based-to",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24400000",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24400000",
+      "publishedDateTime": "2021-12-02T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-translation-and-localization-services-for-blockchain-and-cryptocurrency.md",
+      "title": "Translation and Localization Services for Blockchain and Cryptocurrency",
+      "excerpt": "Blockchain technology and Cryptocurrency are selling like hotcakes in recent times. People are eager to switch to digital currency and a system that is decentralized, secure, and transparent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/translation-localization-services-blockchain-bruce-li",
+      "originalUrl": "https://www.linkedin.com/pulse/translation-localization-services-blockchain-bruce-li",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png",
+          "width": 1400,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T01:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt.md",
       "title": "Facial recognition tech at 4 airports to be introduced by March 2022: Govt",
       "excerpt": "The Airports Authority of India (AAI) is working on a project of FRT-based Biometric Boarding System as part of the first phase of Digi Yatra Implementation at four airports",
@@ -1067,92 +1162,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-tata-consultancy-services-deploys-cognix-customer-experience-platform-to-agl.md",
-      "title": "Tata Consultancy Services deploys Cognix customer experience platform to AGL",
-      "excerpt": "digital-led services across all of our products. TCS’ expertise and cognitive solutions have made it a key strategic partner in our journey.” Last week, TCS expanded its IT services deal with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/tata-consultancy-services-deploys-cognix-customer-experience-platform-to-agl-573403",
-      "originalUrl": "https://www.crn.com.au/news/tata-consultancy-services-deploys-cognix-customer-experience-platform-to-agl-573403",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20211201115742_0_0_0_0_70__News_iStock-1034334920_electricity_utility.jpg",
-          "width": 2120,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-7-eleven-to-pilot-delivery-via-robotics-powered-vehicles.md",
-      "title": "7-Eleven to pilot delivery via robotics-powered vehicles",
-      "excerpt": "Convenience store giant 7-Eleven plans to test online order delivery in California using Nuro autonomous vehicles. Irving, Texas-based 7-Eleven said Wednesday said the pilot in Mountain View, Calif.,",
-      "sourceUrl": null,
-      "webUrl": "https://www.supermarketnews.com/online-retail/7-eleven-pilot-delivery-robotics-powered-vehicles",
-      "originalUrl": "https://www.supermarketnews.com/online-retail/7-eleven-pilot-delivery-robotics-powered-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.supermarketnews.com/sites/supermarketnews.com/files/7Eleven-Nuro%20autonomous%20vehicle%20delivery.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supermarket News",
-        "domain": "supermarketnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
