@@ -23,7 +23,7 @@
       "twitter": {
         "username": "SentinelOne",
         "url": "https://twitter.com/SentinelOne",
-        "followers": 14489
+        "followers": 14490
       },
       "size": "201-500 employees",
       "yearFounded": 2013,
@@ -76,7 +76,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 14475
+        "followers": 14477
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -135,7 +135,7 @@
       "twitter": {
         "username": "anduriltech",
         "url": "https://twitter.com/anduriltech",
-        "followers": 10243
+        "followers": 10244
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -392,7 +392,7 @@
       "twitter": {
         "username": "zscaler",
         "url": "https://twitter.com/zscaler",
-        "followers": 11492
+        "followers": 11494
       },
       "yearFounded": 0,
       "locations": [
@@ -430,7 +430,7 @@
       "twitter": {
         "username": "deeplcom",
         "url": "https://twitter.com/deeplcom",
-        "followers": 11446
+        "followers": 11447
       },
       "yearFounded": 0,
       "locations": [
@@ -530,7 +530,7 @@
       "twitter": {
         "username": "lemonade_inc",
         "url": "https://twitter.com/lemonade_inc",
-        "followers": 27929
+        "followers": 27928
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -689,7 +689,7 @@
       "twitter": {
         "username": "qctrlHQ",
         "url": "https://twitter.com/qctrlHQ",
-        "followers": 3942
+        "followers": 3943
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -805,7 +805,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 84426
+        "followers": 84427
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -864,7 +864,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 12619
+        "followers": 12618
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -923,7 +923,7 @@
       "twitter": {
         "username": "meet_cleo",
         "url": "https://twitter.com/meet_cleo",
-        "followers": 18282
+        "followers": 18281
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -1237,7 +1237,7 @@
       "twitter": {
         "username": "insitro",
         "url": "https://twitter.com/insitro",
-        "followers": 3511
+        "followers": 3510
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -1283,7 +1283,7 @@
       "twitter": {
         "username": "moveworks",
         "url": "https://twitter.com/moveworks",
-        "followers": 5258
+        "followers": 5260
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1390,7 +1390,7 @@
       "twitter": {
         "username": "Aptiv",
         "url": "https://twitter.com/Aptiv",
-        "followers": 17617
+        "followers": 17618
       },
       "yearFounded": 0,
       "locations": [
@@ -1541,7 +1541,7 @@
       "twitter": {
         "username": "PonyAI_tech",
         "url": "https://twitter.com/PonyAI_tech",
-        "followers": 1533
+        "followers": 1534
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1794,11 +1794,6 @@
       },
       "crunchbase": {
         "url": "https://www.crunchbase.com/organization/nuro-2"
-      },
-      "twitter": {
-        "username": "nurobots",
-        "url": "https://www.twitter.com/nurobots",
-        "followers": 5262
       },
       "size": "201-500 employees",
       "yearFounded": 2016,

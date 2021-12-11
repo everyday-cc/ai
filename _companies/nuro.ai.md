@@ -13,11 +13,6 @@ linkedin:
 crunchbase:
   url: "https://www.crunchbase.com/organization/nuro-2"
 
-twitter:
-  username: "nurobots"
-  url: "https://www.twitter.com/nurobots"
-  followers: 5262
-
 size: 201-500 employees
 yearFounded: 2016
 locations:

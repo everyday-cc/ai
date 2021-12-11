@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 11998112
+        "followers": 11999344
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -190,7 +190,7 @@
       "twitter": {
         "username": "Uber",
         "url": "https://twitter.com/Uber",
-        "followers": 1070220
+        "followers": 1070221
       },
       "yearFounded": 0,
       "locations": [
@@ -236,7 +236,7 @@
       "twitter": {
         "username": "Waymo",
         "url": "https://twitter.com/Waymo",
-        "followers": 70648
+        "followers": 70650
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2009,
@@ -289,7 +289,7 @@
       "twitter": {
         "username": "NAVYA_Group",
         "url": "https://twitter.com/NAVYA_Group",
-        "followers": 9676
+        "followers": 9678
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -340,7 +340,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 25886
+        "followers": 25891
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -500,7 +500,7 @@
       "twitter": {
         "username": "aurora_inno",
         "url": "https://twitter.com/aurora_inno",
-        "followers": 12619
+        "followers": 12618
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -668,7 +668,7 @@
       "twitter": {
         "username": "Aptiv",
         "url": "https://twitter.com/Aptiv",
-        "followers": 17617
+        "followers": 17618
       },
       "yearFounded": 0,
       "locations": [
@@ -710,7 +710,7 @@
       "twitter": {
         "username": "PonyAI_tech",
         "url": "https://twitter.com/PonyAI_tech",
-        "followers": 1533
+        "followers": 1534
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -763,11 +763,6 @@
       },
       "crunchbase": {
         "url": "https://www.crunchbase.com/organization/nuro-2"
-      },
-      "twitter": {
-        "username": "nurobots",
-        "url": "https://www.twitter.com/nurobots",
-        "followers": 5262
       },
       "size": "201-500 employees",
       "yearFounded": 2016,
@@ -1158,7 +1153,7 @@
       "twitter": {
         "username": "AEyeInc",
         "url": "https://twitter.com/AEyeInc",
-        "followers": 1517
+        "followers": 1518
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -1264,7 +1259,7 @@
       "twitter": {
         "username": "NautoInc",
         "url": "https://twitter.com/NautoInc",
-        "followers": 3633
+        "followers": 3632
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -1321,7 +1316,7 @@
       "twitter": {
         "username": "preferrednet",
         "url": "https://twitter.com/preferrednet",
-        "followers": 5839
+        "followers": 5840
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
