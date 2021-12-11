@@ -93,7 +93,7 @@ related:
     provider:
       name: HotHardware
       domain: hothardware.com
-    quality: 66
+    quality: 68
     images:
       - url: "https://images.hothardware.com/contentimages/newsitem/57007/content/deepmind-gopher(1).jpg"
         width: 708

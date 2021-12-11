@@ -3,10 +3,10 @@ category: news
 title: "Microsoft Azure Orbital opens up space to everyone"
 excerpt: "In a new blog post, Microsoft detailed new partnerships and new features that it hopes will result in better satellite imagery, better connectivity, and more data/insights. Azure Orbital is a fully managed cloud-based ground station-as-a-service that lets users communicate with their spacecraft or satellite constellations,"
 publishedDateTime: 2021-12-10T10:16:00Z
-originalUrl: "https://www.techradar.com/uk/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-webUrl: "https://www.techradar.com/uk/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+originalUrl: "https://www.techradar.com/nz/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+webUrl: "https://www.techradar.com/nz/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
 type: article
 quality: 104
 heat: -1
@@ -120,6 +120,6 @@ related:
       domain: bizjournals.com
     quality: 28
 
-secured: "qGZACaUXIy+6PY63Q79g0aAVWdo82BEVFxM44anX56aD2BUX31WIJQmvE3CPvU/irew7UVNRC0mXv429tN4EyR3NgRGpXHPfyWwsCg4Ds2kdXZ2bTZZ9ZZqY2+Z/fy9TXgU4xLaxhk9pS986/9u7yWOgGMMjCm0Y/0QDFUDHINCXJ+D1z8yhqQ/7aAfdNWKeSubwhbFy9EZII+TD6VrqGhPgzIpaDlh4nYY0IIu4hfoMWg/4OoCSLfdBZ+n0mhZgwZhPd0sCYBC6NOnNc7MVtY5vmQ03K1UawHaO5icKFBERX5QCY3dNQdwNnFQkgwFbw6Qx068pcDUNFOOPh87wEBzKT0uRvzFSipeXygStVeAtzmnbIuiqkP1tO/+o3mm5SoWcySpvnAmTs/0K74dx7QsBG8P82Rh/TAZlv0moZ68cxVP2M9KT2o9OdzIDjG9Ibb2ZJbflvaUcnqtd0fzpdPnDCVlEfRAAqlahRLLYT3x/t/Ruj5UfC6pu0yBtzVcGHTDs1vlt5JJqIyeF23w7cg==;3IDIK/ZHnTJeJT6IoAaXtg=="
+secured: "NUlz+EXju/lYiizi63DCRireSiDWFal6I5r/YcA7afBuTgrof4c8fap4PyAS7fwy7mORjZtJIz09Jtlm+LFPo3KCpC3s4h/8flKnlmP+3K78I7dpuqJ5zW3xV6dOSh7beW90ueS791wiXXXVbq7w2Xo49DdXpKjSjHcbJ7zt/tuDHKrzbKLJujUhKaGWenrLdhM5N9/i7jT8t8x9YViaeBo8nXyWEQOgw248in+o2byrWGieNHfS3tPLf3tt8gkjJEOGlfYyGWFqplqcIUCUhnMY+V42+t2OiLF1KENPKVChC0xUzk3q0MGfOXQ592zS6g2HkUwkxaC8r0aWc6A7c/gswyW3osxD3qqBGH/MEbw=;hcYESILWB6CLpNqcDfAfUw=="
 ---
 

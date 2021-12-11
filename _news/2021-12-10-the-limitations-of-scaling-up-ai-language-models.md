@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-lan
 ampWebUrl: "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/"
 type: article
-quality: 91
-heat: 121
+quality: 93
+heat: 123
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Facebook AI
   - AI
   - Natural Language Processing
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/01/GPT-3-applications-products-startups-cropped.jpg?w=1200&strip=all"

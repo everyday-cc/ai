@@ -53,7 +53,7 @@
       "originalUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -85,7 +85,9 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Machine Learning",
+        "IBM AI"
       ]
     },
     {
@@ -695,7 +697,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -736,7 +738,8 @@
       "topics": [
         "Facebook AI",
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "AI Hardware"
       ]
     },
     {

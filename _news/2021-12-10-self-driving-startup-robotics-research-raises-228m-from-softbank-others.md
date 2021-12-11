@@ -87,6 +87,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Trucks catch up in self-driving vehicle race"
+    excerpt: "We would all be whizzing round in robotaxis by now if Elon Musk had been right. Instead, fully self-driving vehicles are struggling to get away from the starting grid and some investors are betting that driverless trucks would reach the chequered flag first."
+    publishedDateTime: 2021-12-11T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/12/12/2003769423"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 24
+    images:
+      - url: "https://www.taipeitimes.com/images/2021/12/12/P12-211212-311.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Self-driving tech company Robotic Research lands $228M in first outside funding; Luminar among investors"
     excerpt: "Self-driving tech company Robotic Research Inc. said Thursday it has raised $228 million in its first round of outside funding in the company's nearly two-decade history. The money comes from not just the regular crowd of venture capitalists."
     publishedDateTime: 2021-12-09T06:00:00Z

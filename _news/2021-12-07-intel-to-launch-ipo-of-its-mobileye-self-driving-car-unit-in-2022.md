@@ -91,34 +91,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Intel to list shares in self-driving car unit Mobileye - WSJ"
-    excerpt: "Intel Corp is planning to publicly list shares in its self-driving-car unit Mobileye, which could value the unit at north of $50 billion ,the Wall Street Journal reported on Monday, citing people familiar with the matter."
-    publishedDateTime: 2021-12-06T23:27:00Z
-    webUrl: "https://www.reuters.com/article/intel-mobileye-ipo/update-1-intel-to-list-shares-in-self-driving-car-unit-mobileye-wsj-idUSL4N2SS02C"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/HxLWCUwhHMM4SwuGFJT2uw2TtvQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJJS5JKBAFOZFNPFKBVNCGTJ5Y.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Intel to list shares of its Mobileye self-driving-car unit"
-    excerpt: "The company is expected to announce the move, which could value Mobileye at north of $50 billion, as soon as this week, the people said."
-    publishedDateTime: 2021-12-06T23:33:00Z
-    webUrl: "https://www.marketwatch.com/story/intel-to-list-shares-of-its-mobileye-self-driving-car-unit-11638837213?mod=amy-hoaks-home-economics"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://images.mktw.net/im-447206/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Intel will sell stake in Mobileye self-driving car technology, which could raise billions"
     excerpt: "Intel said it will retain a majority stake in Mobileye, an Israeli company Intel acquired for $15.3 billion in 2017. Self-driving cars have emerged much more slowly than Intel and other technology companies expected but Mobileye’s technology remains very highly regarded – The Wall Street Journal wrote Monday that the business could be valued at more than $50 billion."
     publishedDateTime: 2021-12-07T02:14:00Z

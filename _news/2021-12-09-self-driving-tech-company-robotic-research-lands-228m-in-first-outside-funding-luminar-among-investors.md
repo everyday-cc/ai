@@ -101,6 +101,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Trucks catch up in self-driving vehicle race"
+    excerpt: "We would all be whizzing round in robotaxis by now if Elon Musk had been right. Instead, fully self-driving vehicles are struggling to get away from the starting grid and some investors are betting that driverless trucks would reach the chequered flag first."
+    publishedDateTime: 2021-12-11T16:00:00Z
+    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/12/12/2003769423"
+    type: article
+    provider:
+      name: The Taipei Times
+      domain: taipeitimes.com
+    quality: 24
+    images:
+      - url: "https://www.taipeitimes.com/images/2021/12/12/P12-211212-311.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "od6RecKymvbJ7aLxvb0Zfp6Qki+8uqGLkopqHmre6Yd6YjuByUnMSBjEQAQhM/JDXv25X/ZiEi5p6FO8TGKPDCDWJvGtYmWs2IC1cD4Hs/aQy2sppE4ASVTQARPwn1mKh+o3i+EK+5zs1Vlc0QoJk9U/9SDMEwQRkfyRaX7339ixWaCYl55krZV+pIv+BaL65Y+LgQ7aIPfI07IWzJ3nNbl+myjlUZ8aMZOXEqM/n+4J9bOCOsfAovA1a6MCOVoOcPMOH8glCTgV4afen6Bp++EMA0XNB3SDdA18MYKsPxuGSHT3luckA8coyJaPntb19EWnirKa8rtnJIsmIKTgqHddaThmQEQzTVS7bc3oNMywkOBm62Z7s8BcLVlJVHT3GRhY/M6KhV+Af3JqQO4RYhqrgMImtmZTXkvS3bY4NYx3hcYbjDFqR47OSN7HY4JeDIF2chdi3psmhEHQo4Pv+/5Hw0RdXuVGIIgtyQF6q2FNIUkiy7V5ad+Iph7VcoG5KGx51L6Ns0Mdrfko+48fyw==;edhsseFHiDhsTtkQL3eHRw=="
 ---

@@ -33,6 +33,22 @@ related:
         width: 512
         height: 288
         isCached: true
+  - title: "7 ways to make the wider enterprise comfortable with artificial intelligence"
+    excerpt: "The challenge is putting people first in any and all AI projects. AI practitioners provide recommendations for building a people-centric, yet AI-driven culture"
+    publishedDateTime: 2021-12-11T16:55:00Z
+    webUrl: "https://www.zdnet.com/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-ways-to-make-the-wider-enterprise-comfortable-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 84
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/b69676836265b32ca94f94801caf39999a7daa54/2021/12/11/7d39977b-c3b3-40d2-bc7b-6906cbf57ec4/grow-sign-nyc-june-2021-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 1600
+        isCached: true
   - title: "The therapists using AI to make therapy better"
     excerpt: "Researchers are learning more about how therapy works by examining the language therapists use with clients. It could lead to more people getting better, and staying better."
     publishedDateTime: 2021-12-07T13:16:00Z

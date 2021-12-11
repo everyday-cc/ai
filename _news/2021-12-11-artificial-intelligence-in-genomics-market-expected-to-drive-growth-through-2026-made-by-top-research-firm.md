@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103339644/Artificial-Intelligence-In-Genomics-
 webUrl: "https://menafn.com/1103339644/Artificial-Intelligence-In-Genomics-Market-expected-to-drive-growth-through-2026-made-by-top-research-firm"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,36 @@ images:
     width: 366
     height: 250
     isCached: true
+
+related:
+  - title: "Worldwide AI and Robotics in A&D Industry to 2026 - Asia-Pacific to Witness Highest Growth During the Forecast Period - ResearchAndMarkets.com"
+    excerpt: "The “AI and Robotics in A&D Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)” report has been added to ResearchAndMarkets.com’s offering. The AI and Robotics in A&D Market is projected to grow from USD 17."
+    publishedDateTime: 2021-12-10T10:46:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-general-electric-co-lockheed-martin-corp-30ac81dc8db544e1ac4ad7ec85e4709a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Worldwide Facial Recognition Industry to 2026 - Players Include 3M, Aware and Ayonix Among Others"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global facial recognition market reached a value of US$ 3."
+    publishedDateTime: 2021-12-08T19:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-facial-recognition-industry-to-2026---players-include-3m-aware-and-ayonix-among-others-301440515.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "xqKwo/lbE5chdmRC/4kyOCadsSZT5rNQ+XlHrHm+rI5ZKDuKUX7nXDEob4uZVFqiFBVfVVW8/vAm8olz1APVOcBnFcCx7JXYKaLIq8uXdKQScyjKk54Whow79HQDBA7FKdMnVxeytytQLcbdLQTySeF5iOWws0AxYwT4dkSO2abjFFhAShUjrtSM9elPJ+tT66QDtnOo8UIoYV4iJN7JtL2katqHgRuQnnaZp0zjqC3OSLYXXE3lXImLd69uWmeSp2DA8bNZJXOI+Nmr6oL8RCfbD2rf+QIe9OBVM7YBq5mE+UFXi5iDfSckNbergiHE3Wz2dAakS3whZvHqLz+JRfnMiw330m+z8H+wUg291iE=;9vgKA2otJXHALOPk5UO88g=="
 ---

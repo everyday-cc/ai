@@ -37,7 +37,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 51
+    quality: 55
     images:
       - url: "https://scitechdaily.com/images/3DP3-Infers-Accurate-Pose-Estimates-of-Objects-777x532.jpg"
         width: 777

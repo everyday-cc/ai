@@ -26,19 +26,16 @@ images:
 
 related:
   - title: "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud Detection"
-    publishedDateTime: 2021-12-08T14:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/speech-to-text-api-market-worth-5-4-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--842034608.html"
+    excerpt: "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud"
+    publishedDateTime: 2021-12-08T13:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/n24501684/speech-to-text-api-market-worth-5-4-billion-by-2026-exclusive-report-by-marketsandmarkets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24501684"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24501684"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
-        isCached: true
 
 secured: "vP1ibwoZRWbMonWEPb3TD7hnorYVcRs3qFCOfJZ+D1r48bIn5ejSHZoHPrB+ItnV78zWtZALqLSYfmLiOzZ7pcpTnL3BGrNteDKefGybNWulpuGn3NRVauAM2/pLHNAtgobaDaJ/Xd2Eu2XdgrXKGZTws21sbwhMmLeQP0cBsu3O+TQblyp5qwNVBvcJNWRadi5MlZ11s8wa8Y+q6aSjlHS8UeG2ml7MlYmScnMZ7tpblAJh22UBSXmaodvj3Q+ElkfOeqQwRfiC2PUzfGZYnUrtuHDPv+43IiYnF6IpzLgIE9VQMbgHII5YPwgvYfGKmSWW1hCSqE2laAHIjZ0cWPHjZZNgQZ8ibbi0+rorgtQ=;HTZQOZKB272Lx2FPxWftWA=="
 ---

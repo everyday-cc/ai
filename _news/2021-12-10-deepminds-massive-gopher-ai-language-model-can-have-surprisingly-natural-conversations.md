@@ -8,7 +8,7 @@ webUrl: "https://hothardware.com/news/deepminds-gopher-ai-language-model-can-hav
 ampWebUrl: "https://amp.hothardware.com/news/deepminds-gopher-ai-language-model-can-have-natural-conversations"
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/deepminds-gopher-ai-language-model-can-have-natural-conversations"
 type: article
-quality: 66
+quality: 68
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://images.hothardware.com/contentimages/newsitem/57007/content/deepmind-gopher(1).jpg"

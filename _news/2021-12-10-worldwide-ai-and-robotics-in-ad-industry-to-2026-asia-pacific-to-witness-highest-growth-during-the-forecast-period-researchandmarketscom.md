@@ -1,73 +1,60 @@
 ---
 category: news
 title: "Worldwide AI and Robotics in A&D Industry to 2026 - Asia-Pacific to Witness Highest Growth During the Forecast Period - ResearchAndMarkets.com"
-excerpt: "The \"AI and Robotics in A&D Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to ResearchAndMarkets.com's offering. The AI and Robotics in A&D Market is projected to grow from USD 17."
-publishedDateTime: 2021-12-10T09:46:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=585895"
-webUrl: "https://us.acrofan.com/detail.php?number=585895"
+excerpt: "The “AI and Robotics in A&D Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)” report has been added to ResearchAndMarkets.com’s offering. The AI and Robotics in A&D Market is projected to grow from USD 17."
+publishedDateTime: 2021-12-10T10:46:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-general-electric-co-lockheed-martin-corp-30ac81dc8db544e1ac4ad7ec85e4709a"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-robotics-general-electric-co-lockheed-martin-corp-30ac81dc8db544e1ac4ad7ec85e4709a"
 type: article
-quality: 33
-heat: -1
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Robotics
+  - IBM AI
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
-  - title: "AI and Big Data Analytics in Telecom Market 2022 with Geographic Segmentation, Statistical Forecast and Competitive Landscape Report to 2026"
-    excerpt: "Dec 07, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry\" “AI and Big Data Analytics in Telecom Market” report offers advanced research outline of the industry including definitions ..."
-    publishedDateTime: 2021-12-07T00:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-and-big-data-analytics-in-telecom-market-2022-with-geographic-segmentation-statistical-forecast-and-competitive-landscape-report-to-2026-2021-12-07"
+  - title: "Worldwide Facial Recognition Industry to 2026 - Players Include 3M, Aware and Ayonix Among Others"
+    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global facial recognition market reached a value of US$ 3."
+    publishedDateTime: 2021-12-08T19:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-facial-recognition-industry-to-2026---players-include-3m-aware-and-ayonix-among-others-301440515.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 26
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
-  - title: "PETRONAS avoids equipment failure with AI-infused AVEVA Predictive Analytics in the cloud"
-    excerpt: "Malaysia-based oil and gas company PETRONAS has achieved system expansion using cloud across 10 new sites, reduced downtime at onshore and offshore facilities and boosted operational efficiencies with AVEVA."
-    publishedDateTime: 2021-12-08T12:57:00Z
-    webUrl: "https://www.intelligentcio.com/apac/2021/12/08/petronas-avoids-equipment-failure-with-ai-infused-aveva-predictive-analytics-in-the-cloud/"
+  - title: "Artificial Intelligence In Genomics Market expected to drive growth through 2026 made by top research firm"
+    excerpt: "Global Artificial Intelligence In Genomics Market Research reports published by MarkNtel Advisors, provides a complete analysis of the market and is"
+    publishedDateTime: 2021-12-10T16:43:00Z
+    webUrl: "https://menafn.com/1103339644/Artificial-Intelligence-In-Genomics-Market-expected-to-drive-growth-through-2026-made-by-top-research-firm"
     type: article
     provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 30
-    images:
-      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2021/12/Picture-3-W.jpg"
-        width: 1000
-        height: 450
-        isCached: true
-  - title: "CITIC Telecom CPC wins 3 Industry Awards in Recognition of Innovation Excellence"
-    excerpt: "Receives CCF Big Data & Computing Intelligence Contest Award, International Innovation Awards and CAHK STAR Awards HONG KO CITIC Telecom Internat"
-    publishedDateTime: 2021-12-10T08:31:00Z
-    webUrl: "https://www.pr-inside.com/citic-telecom-cpc-wins-3-industry-awards-in-recognition-of-innovation-excellence-r4857866.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 19
     images:
-      - url: "http://www.pr-inside.com/images/uploads/pr/2016/80989/20211210_low-citiccpc2-2112-9-2_80989.jpg"
-        width: 260
-        height: 260
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?148258"
+        width: 366
+        height: 250
         isCached: true
 
-secured: "vJe0nnrbTqAVQY/onK2Wrj5UzgiBzpco9c63VTajZb0Hfbhq1gm1ZOqRN23NyI3nEqtE+quTbeP2XNZxWJeaTO1Lw5psENYO1Dp/m5qhmZUZk7uj2DfBviN2Dun4mhFrlZMtJHCrFYAxYrG12McGPpbLC7XE8XEdBwhU4660VvTkC4DkRLy/eQeWJUDMc45H1Sc8MRyNR+5rlcu/NuShvppaV/y0R4yX3g7M9dJ4EhDuZGEnRVMWNkTjUB/o+n19AN/EOT4gslAMIyonrOoCmpnTXH3NR5gm+zKyoV4DBJ//mT6Vw/IjAEsKr8tcMdx8G4TwEPcxA4MJETWnmNfb3gSVl/DYhusKCKlMnJv53l4+5KNMyOPqvgIUMikjxR7YrHqBoH96CdU8JipCQRjBh7HUzB1q0TaryM7AhOhdZ6MzCWRATGgM/nazO7xbnPSo3fTBsCME68MyJe236RxNWCpiEeLiQce98itD7kwbX0YxmD44d4YxEClhcBNROtrQZ9tF2Z+/uzkUxF6JHj8p1Q==;hqcZKG8IZY/KRY3fZJImYg=="
+secured: "dF0y/8fQS6/BtWd5xAcLbOmhYqbBmV4TKSQWamILYaVy3N81weR/XYehnln6LFPULs2vo17I1LlbrDm2p3JZ5R3jJhF2ISMh6jNyW3UaBTwOFQegVA8r2m7fGJHvD7AmorRk9cbsvJ88DGvlml99kOYWySFhT5gu8Z1IU5Gzuxo8pHWQx65jYFGNBuWfyW1bxuiaEJlr3Z5GwV4zBTJ745fiAQLpyJUMsELIMH9Ri5F0HF9hfyRPGu+xv6zZsVHtmjin//GSUlE6MTo3Pr3YSPiAAhjX9uao86DTHLv/pzwY2kjH8C+3G8XBbQ7rh/pJiyKCx4GSBHlVREkhtoIvGk5YcZQUctKNng+piNyaN4Y=;Gtj7IcRiiFukBjCCb4aynQ=="
 ---
 
