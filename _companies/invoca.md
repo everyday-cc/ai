@@ -2,7 +2,7 @@
 name: "Invoca"
 overview: "Invoca is an AI-powered call tracking and conversational analytics company that brings the depth of marketing analytics traditionally limited to digital consumer interactions to the world of human-to-human selling. With Invoca, marketers can use real-time call and conversational analytics to maximize the return of their paid media campaigns in Google and Facebook, and improve the buying experience by enriching customer profiles in Salesforce and Adobe Experience Cloud. With Fortune 500 customers and deep partnerships with the technologies marketers use every day, Invoca has raised $116M from leading venture capitalists including Accel, Upfront Ventures, H.I.G. Growth Partners, Morgan Stanley, and Salesforce Ventures. For more information, visit www.invoca.com."
 type: "profile"
-heat: 58
+heat: 50
 
 website: https://www.invoca.com
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=NLLaC8pNKY8"
 
-secured: "BBVTl/UGWbTsP+qx8NXOPoLL4eJLUET5OQD4N3SuutPqkNIocAidz8i4w3NeV8lAaoh5zTqNt9UW97+bdDfBX9bFmy6L553Ac4KDXCyIeGVjQE5fSyB6NETGqdGkrfdVkIySpnb70LMAldRECRXrx4PQWRnEnkyqbUsSphonuFgmwX34EDCz1jyhQS8HuQnMfJodPJI+ETjOQf9JGgHiCrhmRYwn7ONUtE5YSDwnZ67CeQ6GQAWF5/aS8Xl6YE5R+H1vltOa2c9z1kjV0HS+ewxV/H8sC0U46pN2NhAVi85KLWo/zg8B5qLCjC/tEatjTx2Yc3QzGDRWivKipMdXDtHNa29isCibaWWCHfjdMO25Vffeh4iUdnapaLqEAokkBjRiBmgBPOc+o01xn9ZFhi8hvnjyS/YDmAJItU8Fqw0=;eP2gpvvw2tWCgrPFCDjang=="
+secured: "xxOGx/AytXzNNXw+BFTCtfQDXb0NjTcvvI3bDpOiQofkAKS+Czfu9NjIG4grvF20O/5dXlNgDi7huD5oIvgv5iNFXtOVoYNncv/BfO+dSFouI6fWtZCA0yX/mnnvW4yREyO6maYz3k4/O+/D27tS5kLpX9Kau4P2w8R27GjQ5IBjbkAYK0rUeNZ5NWk1Ud1ct6GTm8z4CxwSIXusvAPH9b09CIDuVBVfl6Ifj71Jd7ik536rD9dfZ9/BdOD3ZuoqEZvYsHRoXXTsrBNoXBUft5DhrwV5QKl8Oxvg5TNNT/wCNLQW59vkdnq33dYicizcLGCIoHBVub32z0kO1GJoBxJTUu0ftRunk3aw7KJx1GT0K3o5obvKRRJgwpc9b30uD0nt7y9hSs5pv8I7i+mEMX2++LybduaBogRcBnIck68=;P/KwkhhRg68gPUYsTmQIYw=="
 ---
 

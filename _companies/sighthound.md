@@ -2,7 +2,7 @@
 name: "Sighthound"
 overview: "Sighthound combines machine vision, big data, analytics, and industry-upending intelligence to help see obviously valuable information in previously unobvious data."
 type: "profile"
-heat: 58
+heat: 50
 
 website: https://www.sighthound.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=JdZBDfOO25I"
 
-secured: "XWivEyuF8pkDftqNSgF/r6eflgbCEDw0gOZiidIaZlQziovqi10zmBYVMnbMj0cP49hMnHlzVj83urSzNl9NWltzdW2kVJmb6xmu+aNkSg63zT/f9KGimXQXUoARW6uj8bW29rAMkI1HdhZiNq5fgydAWRcxJ55poOrukIRZ7+6I2o/nujFNvYyQws2+JZM6ihU3r6WLiZ27V2peCJuY2TJjwCAqZ3QsNIedfEbjSKYcKf7PKs4o0eHVGTd3INp+KUq1OrmgJDN41dUlvBlICkg4WdTRqeGqMLE9ltGBpw8aABCZsqdn3fF4fg3Sw/VPhW/do9eoLAss5sZWamNbdPvw/ornraIN5EfGc0GV0QOAJ3xzmoDKzsKw0OGW85D0mnw3FvK1bwFFzvE78bJ0Ng==;z1GnkqiAx3mZ08Zt3kpsnA=="
+secured: "QFpMPO20wsMrAiI2RqI7+Fv1T8TQ7iv7fG9kmg1tjgM82jtRA+P3ExNa52kEs0wemgHwC9cTzDxyWEXq4cqrUP8Xmkkk2FhVgmMDNHlYk/FlpS4XLrkTkyOgYrs5epdCsTJuuVNwoyoErKjiPYVj+QzQZAIuj5x4RT30T4hRbfRTN4NH05dbX1NTtv87OKB/pXEF07RhixyJJk/M+gpYSeUgM2hZBiFenypXZgzUuYPiKL+WMltQJPWamT4x1DKn+NGDX6oP6qyrDPrOB8Qb9bgf/NMnfwe6oak8x2J9KtDklbPznG02+VaQIHxFxNACAOdhy+7xE55j4TyQn6uoc6P4vk0m2lw4/nsaBXZ3zNq3xufL7Dqq+MgqzpXiEPKNrbQKNnnS7cD882TUVzFBwg==;OSqdPeKaN5+9ckEfOvG6Gw=="
 ---
 
