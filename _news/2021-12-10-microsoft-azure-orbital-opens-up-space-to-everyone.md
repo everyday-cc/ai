@@ -162,20 +162,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "CVS Health and Microsoft agree new strategic alliance"
-    excerpt: "Healthcare provider CVS Health and Microsoft have agreed a new strategic alliance to develop new healthcare solutions and provide 300,000 CVS Health employees with tools to serve over one million customers."
-    publishedDateTime: 2021-12-06T16:11:00Z
-    webUrl: "https://www.technologyrecord.com/Article/cvs-health-and-microsoft-agree-new-strategic-alliance-127401"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 39
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10629/img-CV-Health_940x443.jpg"
-        width: 940
-        height: 443
-        isCached: true
   - title: "Local startup Forward Edge-AI gets Microsoft funding for pathogen-detecting device"
     excerpt: "Forward Edge has been working with Sam Houston State University to develop a device able to detect 32 different pathogens, including the virus that causes Covid-19."
     publishedDateTime: 2021-12-10T19:02:00Z
@@ -186,6 +172,6 @@ related:
       domain: bizjournals.com
     quality: 28
 
-secured: "v85xmsQ/sSbW1xSDhKK7zRKXwMAMLzHpUPJqChu3P8La3hrzFKy8G35oXe0kgHhZ6xQeU9jTCd7FgqovEM3jkzx+GmKZ1WlHaVvh//AXIto2KIxT8qaWYe/+C0/5sLekEXRFEOu1/GDuapuvriZDOuYU5frimz4FKfjl13TLjNYYGMgrRhjcOPyKBHf5yVjLHqEeANwRxmi+eRQzkCByAO1Yj4DW9SaAHTBBRHtsmJplFXmDdronlZefLgqiUkbY8EC+JSpKOdrZQUSrv9FmjflCrZ7WkZY2eUWKC6XlHZn7ToZ9cN71S8kusLs43og7hGoofU0879FFaiqT02w5icngCLAc/YQtxQ/JitaxQfg=;MIZAmAc71A2oPY/u7gCxXw=="
+secured: "XAqwHH+s+jAoAcGeEwPA7uIN5qbQKBKfacuDM7ZWw0NZlRmvPPHoCDDBltkH2MqGUTPsxaKBvKFmkfJz1MCjApYzXKNwDPAgZK5yLTQGlfE2QnTjiQE1jWgAPH/ZLl6zGpEzcA/srSKz1fsk+FDZhiu8mHDlWI97NYaVVhNk+Ojhj/bxxr2zkoJXNZXOpoujuqGjsxBzNgdGz1/Imr3XNC7ofpkOPW0T10g1cHmdASyl9ShKZ4cG1rWSrczeGrt3uOgO21+BHGDyx5LanjhxYZ4kmLX8yntxr0P2BR165GihFlRGYMwbcWSzjhR4eqEqCEFkWY5XetQAp+70lrV4wT4Ht0DN40IFgWxSTVMwOxKEmtFjb6pnvIcjKItBrHmIdOsHlM5OBF6i5OUsexRGxoCbYdFX1hkPaCiY82iPD5lsEbLrHuPvsnGrbmbSvD2d06YAWHCQqpT/TGL/pSRNxDJTZuwmJcoL/REq0HRuO0bF3CPtRRjbNIXgugWfEwx2QbgWErDT/+kpw0PmE40D9w==;afa09Ut+QLkQgP6xt1t/DQ=="
 ---
 

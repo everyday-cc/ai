@@ -73,20 +73,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "A Tesla on Autopilot crashed into a barrier while filming of a video promoting the company's self-driving tech, NYT reports"
-    excerpt: "A video showing off Tesla's self-driving capabilities isn't exactly what it seems, The New York Times reports. The clip is still on Tesla's website."
-    publishedDateTime: 2021-12-06T16:30:00Z
-    webUrl: "https://www.businessinsider.com/tesla-autopilot-video-self-driving-crash-barrier-nyt-2021-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://i.insider.com/61ae37a30b0acf0018c4087f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "GSiL1Pv7PYLoc9tqOdT/4dP9FDCcmsL11/xSc5EzyimJlbvV8rpc0dY7WOKqLb6nxqB57w6O2kLJ/ML5eYvyECgpuCU5ZlBn+LuQ6HPlJarPOQKOaHV/5KsSUJ3UEyQfiqa2AvCbjcmaGGwDvAoYbHxMpNz0mRXA1RZSMna21lFf989b+IhLTEWlz0BBiEvpzx4tcNT4Iq/e1ab21L2JfqfQGc6oDoqVHeyDXMlVlMA39U9WG8Le3KLk4FEQpq8YvK98Lp/Pf6qlj6KKKM7MPoll0CHyoVoKxrQoD8FwtKNEzeiYWMAo7+2NlZtlTEDSyrTnQjomwbc86cbJ8JGIo624X/4ybxwSiPriJluhD0w=;/SZJ9najo9MTRI/ZcC8ySg=="
 ---

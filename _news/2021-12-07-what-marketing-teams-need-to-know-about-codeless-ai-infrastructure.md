@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marke
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "What Marketing Leaders Need To Know About The Next Generation Of Machine Learning"
-    excerpt: "Monolith AI is a leading artificial intelligence engineering software company that is building the next generation in machine learning software."
-    publishedDateTime: 2021-12-06T16:11:00Z
-    webUrl: "https://www.forbes.com/sites/drgeraintevans/2021/12/06/what-marketing-leaders-need-to-know-about-the-next-generation-of-machine-learning/"
-    ampWebUrl: "https://www.forbes.com/sites/drgeraintevans/2021/12/06/what-marketing-leaders-need-to-know-about-the-next-generation-of-machine-learning/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drgeraintevans/2021/12/06/what-marketing-leaders-need-to-know-about-the-next-generation-of-machine-learning/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 101
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ae4041e9233e47e2b90539%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1922%26cropY1%3D127%26cropY2%3D1207"
-        width: 1200
-        height: 674
-        isCached: true
 
 secured: "1U9xh9QzXebUtlFFJ5sPdUOvfO2hXhuOrMxvSgNiV50YwDQlUBHsO+arIeC5gf8TYsNeedKw33kdo8uCxsx/4MPUw+KcKUDirSedods+M7FHgV6MRxQU1BLi8IyvGEvdC+WQZZJk6pZEUxX+Fr5uwyhaw6wsdBY84zUAoy2f+EappxgvGvNWTr/ObYBh+Qv2zF5ATWqK0CvkGDw73gBhy+GGG9pKVpfL3AM3Iw8kxrq88qiPqc/fp4f18t7seJ4WL0p/p7GLC2xNK/13REj2c+p26hp8/CeRaIHxKinTi9kGPgSOp/StEXz2lmIrSw+hOE2P3dHSxw4MwAEtmmgIiNyVjqFl3VGUvQa4Y/f7m5xn0FZM9AKI8eLTkYM7/a0bw18t6k4szrL5uJK/5GRFk74dlnhyI590nsrrMEzo+sQQkOyaIb+TVDEygQHy3RqOis1zxTuI7j9eqnF+foqgB6A2ZTQ8JE2SBfedgKPo9MYLl5Mb/tZ4cKZ1FTHE/icze+xOytqcqofvWBRjSZGVGg==;W1c58EaH0in0bUC0qaiyKA=="
 ---

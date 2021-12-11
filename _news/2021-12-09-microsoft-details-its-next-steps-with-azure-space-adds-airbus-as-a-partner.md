@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-details-its-next-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
 type: article
 quality: 117
-heat: 227
+heat: 217
 published: true
 
 provider:
@@ -161,20 +161,6 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2021/12/microsoft-partnerships-capabilities-azure-space.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "CVS Health and Microsoft agree new strategic alliance"
-    excerpt: "Healthcare provider CVS Health and Microsoft have agreed a new strategic alliance to develop new healthcare solutions and provide 300,000 CVS Health employees with tools to serve over one million customers."
-    publishedDateTime: 2021-12-06T16:11:00Z
-    webUrl: "https://www.technologyrecord.com/Article/cvs-health-and-microsoft-agree-new-strategic-alliance-127401"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 39
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10629/img-CV-Health_940x443.jpg"
-        width: 940
-        height: 443
         isCached: true
   - title: "Local startup Forward Edge-AI gets Microsoft funding for pathogen-detecting device"
     excerpt: "Forward Edge has been working with Sam Houston State University to develop a device able to detect 32 different pathogens, including the virus that causes Covid-19."

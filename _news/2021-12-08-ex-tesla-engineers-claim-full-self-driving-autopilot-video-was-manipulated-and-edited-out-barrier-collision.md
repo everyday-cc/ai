@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-pro
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/c68bad7932c80687766c35aebf5a6a38.png"
         width: 800
         height: 450
-        isCached: true
-  - title: "A Tesla on Autopilot crashed into a barrier while filming of a video promoting the company's self-driving tech, NYT reports"
-    excerpt: "A video showing off Tesla's self-driving capabilities isn't exactly what it seems, The New York Times reports. The clip is still on Tesla's website."
-    publishedDateTime: 2021-12-06T16:30:00Z
-    webUrl: "https://www.businessinsider.com/tesla-autopilot-video-self-driving-crash-barrier-nyt-2021-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://i.insider.com/61ae37a30b0acf0018c4087f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ promotional videos were faked – report"
     excerpt: "The electric vehicle manufacturer produced fraudulent advertising material and compromised safety for vehicle aesthetics, former employees have"

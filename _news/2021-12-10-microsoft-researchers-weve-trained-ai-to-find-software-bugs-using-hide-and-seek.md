@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-researchers-weve-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
 type: article
 quality: 79
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://cdn.trendhunterstatic.com/thumbs/artificial-intelligence-research.jpeg"
         width: 800
         height: 534
+        isCached: true
+  - title: "AI Researchers Fight Noise by Turning to Biology"
+    excerpt: "Tiny amounts of artificial noise can fool neural networks, but not humans. Some researchers are looking to neuroscience for a fix. Artificial intelligence sees things we don’t — often to its detriment. While machines have gotten incredibly good at ..."
+    publishedDateTime: 2021-12-07T17:36:00Z
+    webUrl: "https://www.quantamagazine.org/ai-researchers-fight-noise-by-turning-to-biology-20211207/"
+    type: article
+    provider:
+      name: Quanta Magazine
+      domain: quantamagazine.org
+    quality: 39
+    images:
+      - url: "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/12/Adversarial_attacks_1200_Social.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "sZh/IDSBi6avghY0YFKYdISJvNT/SMhjgKhoikUupfr7Rr9IXVF0OEW77J1+aMnSbqs8EwnI5bkJ4+ALaOg00h8F1pR2vc0C/UK6IFsn7jLvzFOI8bzS9aP21jL5O9lV6R4Z1ZQZ+C5jRkrgK22aD/j80FUuoWDkCxJgHBYboX+SjIIlpdZHOGQKV7KGBfIKmzSrv5hOiG/duJ43zLkJ2B088unk+4J+IxWLWJU43NcWzKKNEl79Bb/r0+Za+VW7uLb0V7u1EZt8m4jwjdmuyCg7GJTY8XvfXAGWDKf+Ym1X1A4Ztrf3+lqF+L1YwJnm47GAdUKat0K/fvOSdbQdZDChBZIvnKaX1Kf72f9S4BG0QLi92qMuuovdJfPDVxvg0VwSxYKG+yqN3HP2FUU4PjUHBD2ZawTu0JoIb/gOVpQ9MUbuuFEErxR3Lx73DhEoY64VUutqqnH7WpQYYhrIDeogiymYiEzwUw4I0tEvZ20ERGwLqZJa7nmVOGL3DHVFKIpb9fMkNTSkdRElDelh3g==;4vPckjntk4TnlMcxi2yHoA=="

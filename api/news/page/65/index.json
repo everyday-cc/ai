@@ -2,6 +2,126 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2021-10-21-global-robotaxi-market-size-share-analysis-report-forecast-to-2026.md",
+      "title": "Global Robotaxi Market, Size, Share, Analysis Report & Forecast to 2026",
+      "excerpt": "The robotaxi is a self driving taxi that takes leverage of AI, ML, Iot and other technologies for ride-hailing. The rising trend of autonomous vehicle, zero emission vehicles, and new mobility ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2436075/global-robotaxi-market-size-share-analysis-report-forecast",
+      "originalUrl": "https://www.openpr.com/news/2436075/global-robotaxi-market-size-share-analysis-report-forecast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2436075/global-robotaxi-market-size-share-analysis-report-forecast",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2436075/global-robotaxi-market-size-share-analysis-report-forecast",
+      "publishedDateTime": "2021-10-21T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc.md",
+      "title": "Tech Top 5: Brainchip nabs US patent for Akida AI chip, jumps almost 15pc",
+      "excerpt": "Brainchip granted US patent, while Elmo boosts revenue and Ansarada expands into GRC market; also semiconductor and cybersecurity updates.",
+      "sourceUrl": null,
+      "webUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/",
+      "originalUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://stockhead.com.au/wp-content/uploads/2021/10/ezgif.com-crop-6.gif",
+          "width": 480,
+          "height": 269,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/?amp",
+      "cdnAmpWebUrl": "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/tech-top-5-brainchip-nabs-us-patent-for-akida-ai-chip-jumps-almost-15pc/?amp",
+      "publishedDateTime": "2021-10-21T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "stockhead",
+        "domain": "stockhead.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-21-poll-do-you-think-ai-chips-on-phones-have-lived-up-to-the-hype.md",
+      "title": "Poll: Do you think AI chips on phones have lived up to the hype?",
+      "excerpt": "Dedicated AI chips have been available on smartphones for quite a few years now, but have they lived up to the hype?",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
+      "originalUrl": "https://www.androidauthority.com/ai-chips-phones-hype-poll-3043488/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/amp/ai-chips-phones-hype-poll-3043488/",
+      "publishedDateTime": "2021-10-21T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-10-21-baidu-inc-bidu-outpaces-stock-market-gains-what-you-should-know.md",
       "title": "Baidu Inc. (BIDU) Outpaces Stock Market Gains: What You Should Know",
       "excerpt": "In the latest trading session, Baidu Inc. (BIDU ... is projected to generate $100s of billions by 2025. From self-driving cars to consumer data analysis, people are relying on machines more ...",
@@ -1005,154 +1125,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-ai-meets-autonomous-vehicles-and-calls-for-ai-ethics-to-make-it-inclusive.md",
-      "title": "AI meets Autonomous Vehicles and calls for AI Ethics to make it Inclusive",
-      "excerpt": "I believe in Steve Job's advice to keep doing what we are passionate about and connect the dots later. I am excited to see how my passion for Autonomous Vehicles and my recent work with teaching Artificial Intelligence to Product and Business users is coming together now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-meets-autonomous-vehicles-calls-ethics-make-inclusive-sudha-jamthe",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-meets-autonomous-vehicles-calls-ethics-make-inclusive-sudha-jamthe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFmzzOHAWq63Q/article-cover_image-shrink_720_1280/0/1634712849105?e=1640822400&v=beta&t=__zTcIj5fTCXYt-VaP6qSFTRuMf_kKUf6XsUu-QOXfs",
-          "width": 1038,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-20T00:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-google-cloud-tools-aim-to-ease-machine-learning-cross-cloud-analytics.md",
-      "title": "Google Cloud tools aim to ease machine learning, cross-cloud analytics",
-      "excerpt": "GCP is offering new data and machine learning tools designed to clear up data inefficiencies and ease application development for enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/692337/google-cloud-tools-aim-ease-machine-learning-cross-cloud-analytics/",
-      "originalUrl": "https://www.reseller.co.nz/article/692337/google-cloud-tools-aim-ease-machine-learning-cross-cloud-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_15.jpg",
-          "width": 472,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T21:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-20-debug-tf2-migrated-training-pipeline.md",
-      "title": "Debug TF2 Migrated Training Pipeline",
-      "excerpt": "One assumption is you have TF1.x code and trained models for comparison, and you want to build a TF2 model that achieves similar validation accuracy. This notebook does NOT cover debugging performance issues for training/inference speed or memory usage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/guide/migrate/migration_debugging",
-      "originalUrl": "https://www.tensorflow.org/guide/migrate/migration_debugging",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-19T19:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

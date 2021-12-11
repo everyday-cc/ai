@@ -1,27 +1,27 @@
 ---
 category: news
 title: "RSIP Vision Presents New Technology for Non-Invasive Planning of Coronary Intervention"
-excerpt: "RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, today announces a new coronary artery modelling technology. This technology enables quick and accurate reconstruction of the coronary vasculature during angiography into a 3D model."
-publishedDateTime: 2021-12-08T13:06:00Z
-originalUrl: "https://www.valdostadailytimes.com/news/business/rsip-vision-presents-new-technology-for-non-invasive-planning-of-coronary-intervention/article_ed0db733-928a-52e9-b906-02f0014074cc.html"
-webUrl: "https://www.valdostadailytimes.com/news/business/rsip-vision-presents-new-technology-for-non-invasive-planning-of-coronary-intervention/article_ed0db733-928a-52e9-b906-02f0014074cc.html"
+excerpt: "Dec 8, 2021-- RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, today announces a new coronary artery modelling technology."
+publishedDateTime: 2021-12-08T14:06:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-health-middle-east-israel-9cf930ff76b14167a9236892bedcc7d7"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-middle-east-israel-9cf930ff76b14167a9236892bedcc7d7"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
-    width: 300
-    height: 250
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "sJmBzhTegUCOtg2som7loAfTrqJGcrPRoce+Ie4aF5ULkE7RBpD+v3SIkKtbTEs8CL+Yt77mQtEpKPATUSIUf05aTpZQ2uSV0uUalUvpzOHIIQZpz0YM5mchiPhrsDSq7jwLvs486qZSezEG94HJ5gRZ0miLmTSs1+1HufsifpXi3LfUTkGb/M1uFYphQ1qZ0PLCWOLeI9TWM0NyZAvnemGseValb3ledtCVAkRrLfFYoTbWSezF5FpdBgJwJJNuuVFVlzAJzNXC8qrFHy72P0kTLX33KwcsNxoBsi0SSCVBSPRTWrW2aqpoeeLZZNMUFHzy7/cpxA/Mgdad5asT2WVAIDHef0NDfWrQEwFW/L8=;Oeza5TKjPdMfwRv4+28qqw=="
+secured: "fWuXJW5DlOfOE2W4HTvwsd67O3wP7+1FFEhr1TJnApNtrQkNbeZLxObtltO3ybzzGWxv4NMDZ9sJe+QbDNs3luSv6nefu3GMyIdDrOeoHUN4l99mVKH2zKH4BukypjLpvnnsSFslA9GTxShAPnCE7sgtPVFvv78iTGRqEmd0zO8ApcDH8n1frfE+G059arjrO3IkJ2TLZJotmVbLv6/XGQTaU3k8qi1XPN6NzshUu6kZnBMKs4VogZdF3PR1zfK38NZyDMl00xbAP/Iu0voNfXFXHVRvejV3/Vgq+Mt0fpEeEmeM5eZsiM+gJF2r469jTgO+qqW0wM9ppCec3Zc7yg4o+tNQxWHZ2uvdkyuzETE=;BGJHfDq9wmB+eceqkvWQ9A=="
 ---
 

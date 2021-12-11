@@ -59,20 +59,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "A Tesla on Autopilot crashed into a barrier while filming of a video promoting the company's self-driving tech, NYT reports"
-    excerpt: "A video showing off Tesla's self-driving capabilities isn't exactly what it seems, The New York Times reports. The clip is still on Tesla's website."
-    publishedDateTime: 2021-12-06T16:30:00Z
-    webUrl: "https://www.businessinsider.com/tesla-autopilot-video-self-driving-crash-barrier-nyt-2021-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://i.insider.com/61ae37a30b0acf0018c4087f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ promotional videos were faked – report"
     excerpt: "The electric vehicle manufacturer produced fraudulent advertising material and compromised safety for vehicle aesthetics, former employees have"
     publishedDateTime: 2021-12-08T22:01:00Z

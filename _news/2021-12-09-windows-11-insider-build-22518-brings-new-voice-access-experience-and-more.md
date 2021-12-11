@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 723
         isCached: true
+  - title: "Go hands-free with Windows 11! See how voice access feature works"
+    excerpt: "The recent Windows 11 voice access feature is different from Microsoft's Speech Recognition tool, as it lets you control every part of the Operating System unlike the Speech Recognition tool which works for a few elements."
+    publishedDateTime: 2021-12-11T07:27:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/go-hands-free-with-windows-11-see-how-voice-access-feature-works-71639207630095.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/go-hands-free-with-windows-11-see-how-voice-access-feature-works-71639207630095.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/go-hands-free-with-windows-11-see-how-voice-access-feature-works-71639207630095.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/12/11/1600x900/f5985478-2de3-11ec-8712-a64d0e3a1eeb_1634458457338_1639207766271.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "GWOdXLKGGwg9gfSe8JGGBbmHWEi7wYmpCUpH+F7VaSlc7+OfLroD0UWX9l/IshVpUHlpxzAqT8wuQhUEvgbgtFW0fkxZdzbchTlsN76DNbVDoUWGN2a79DfnxE6B1zLqXLY+bqS2ch4BEYc2y/tQzOJIGv+Gi63ku0ec1EKXSlWjBttHCiCO/z3jEgoffl5dNXaqdxku1PyR8l0M44hPm53JPy0/qwiFwJVFUJPrdQ72R13hMEAik8RHSOw+FcAccANnLRvNOR81zc10WpCbnbz3f60Zc9v3EjZZwS4du/cau6DTRwMl+Sq4J/xdZckNzTwGoAmkn7NGSGZeIbSHp+h8Dx7bEoEd+JPvm3J36kWQvTvOO4rhrmPiC6S3BhB7qWeK3ZZhH1mXpKfRDqGhsyCqHaifv3DU+o+Ib3Fjes0I2GFDQX2RxYP0Hpn5Jn/KXaLVDltHqI4HdkhhIDCRO1F/XdttxQSlyoGbdLXQ2CGku/Y8rL/D0SVEve3I8ZhYiALx/fE/Wn/V175HucfHHQ==;e1nXINDoluRHmXI0+7gVig=="
 ---

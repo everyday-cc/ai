@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Go hands-free with Windows 11! See how voice access feature works"
+    excerpt: "The recent Windows 11 voice access feature is different from Microsoft's Speech Recognition tool, as it lets you control every part of the Operating System unlike the Speech Recognition tool which works for a few elements."
+    publishedDateTime: 2021-12-11T07:27:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/go-hands-free-with-windows-11-see-how-voice-access-feature-works-71639207630095.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/go-hands-free-with-windows-11-see-how-voice-access-feature-works-71639207630095.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/go-hands-free-with-windows-11-see-how-voice-access-feature-works-71639207630095.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/12/11/1600x900/f5985478-2de3-11ec-8712-a64d0e3a1eeb_1634458457338_1639207766271.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Windows 11 Insider build 22518 brings new Voice Access experience and more"
     excerpt: "The Windows 11 preview build 22518 introduces Voice access, a new experience allowing people with mobility disabilities to control their PC and author text with their voice."
     publishedDateTime: 2021-12-08T17:32:00Z

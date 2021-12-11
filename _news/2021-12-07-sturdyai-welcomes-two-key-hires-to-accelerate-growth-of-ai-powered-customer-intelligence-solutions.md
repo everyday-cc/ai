@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-sturdyai-welcomes-two-key-hires-ac
 webUrl: "https://www.tmcnet.com/usubmit/-sturdyai-welcomes-two-key-hires-accelerate-growth-ai-/2021/12/07/9505758.htm"
 type: article
 quality: 3
-heat: -1
+heat: 3
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Health System Adoption of LeanTaaS's AI based Capacity Management Solutions Continued to Accelerate in 2021"
-    excerpt: "LeanTaaS, Inc., a Silicon Valley software innovator that increases patient access and transforms operational performance for healthcare providers, today announced an impressive year of strategic growth in 2021,"
-    publishedDateTime: 2021-12-06T16:34:00Z
-    webUrl: "https://www.lelezard.com/en/news-20141980.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 21
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "rtfKhjpsKUm0LuljmaokYFpl8AGxHBr59TJ46SlVkyjkUdXCNXCKI9D5LnQCcuUTmVqG23hxBfeP4BHkr1T3EzOKQML9fQNkruwB8RmhWUpPwlJ9uFIczDfHAw5w6S4gBrXNMputhJ3OElUWZXKGB4cNbIhy9HoPcn1Y9szRCS49UdOf2gZzfhAIBZGiQWvx6zFdDXH72cPcGA/0WVIzE1GZ4UGJHREQBlX5DVuSMSPlhQeRZ73hvg15DZPBloqxS5OVw+5+R0CvKUQCJfHbOiJPVrM3qWWQefvSyuCwxNSR7PvG+4mhoAILVeIhzObCzAC2PekeD4rDX+DHO9WNHgpzgxyFBpaNGuDEerXHUmk=;HtaMTU9Dzp+B3C53jmSdVQ=="
 ---

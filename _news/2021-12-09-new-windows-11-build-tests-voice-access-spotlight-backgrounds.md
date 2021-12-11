@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pcworld.com/article/558293/new-windows-11-build-tests-vo
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/558293/new-windows-11-build-tests-voice-access-spotlight-backgrounds-feature.html/amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/f491bb044391185b5c7d9b1f841ce05c4b2f30f2/2021/12/08/2a3c2e5f-6892-4bfb-bbd4-6e9764b2c815/newwidgetentrypointwin11.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 723
+        isCached: true
+  - title: "Go hands-free with Windows 11! See how voice access feature works"
+    excerpt: "The recent Windows 11 voice access feature is different from Microsoft's Speech Recognition tool, as it lets you control every part of the Operating System unlike the Speech Recognition tool which works for a few elements."
+    publishedDateTime: 2021-12-11T07:27:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/go-hands-free-with-windows-11-see-how-voice-access-feature-works-71639207630095.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/go-hands-free-with-windows-11-see-how-voice-access-feature-works-71639207630095.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/go-hands-free-with-windows-11-see-how-voice-access-feature-works-71639207630095.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 44
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2021/12/11/1600x900/f5985478-2de3-11ec-8712-a64d0e3a1eeb_1634458457338_1639207766271.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Windows 11 Insider build 22518 brings new Voice Access experience and more"
     excerpt: "The Windows 11 preview build 22518 introduces Voice access, a new experience allowing people with mobility disabilities to control their PC and author text with their voice."

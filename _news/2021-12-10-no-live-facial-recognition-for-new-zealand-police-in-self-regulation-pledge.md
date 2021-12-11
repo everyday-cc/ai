@@ -39,6 +39,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Police Release Findings From Independent Expert Review Of Facial Recognition Technology"
+    excerpt: "An independent review has provided Police with detailed advice on the opportunities and risks associated with the use of Facial Recognition Technology (FRT). In responding to the review Police has decided it will not use live Facial Recognition technology without further detailed analysis,"
+    publishedDateTime: 2021-12-08T21:41:00Z
+    webUrl: "https://www.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 31
 
 secured: "oLzMhI/3uBuMhk0Zdu227KIzBn3KJaGeMYxrrgo1SyofuAsgEvsmeqjjhwodY3PeX9ZAI/9KMkvEfhoL2VwOMfXicQ9wqCLIUU9cYT1tPRcIm7pKoHmIw0xkxGkQ0A+JBKHqVjnXjrNu93K16A41pwTEJ51bE75U1D04A1PIK2lvnEdgAZAKyVLbTo/wvFJBs/aKBmtR039Itu9ZuG9HQWPfcTkdvv2Wpg2WN/tToPHu5fILk6UDNgajJixu0osxib6hX9FPlkDptgy3PFWFpjAWRq0cWZw/IT7/V+9AC7xW+o8duf3XUL1CAs4Bf57AqZzLcmFF7QKSfjgRJ0nABSr+dCYejiH3v3TwJOXq3QDASLxx5uwxHnW4pSZnRGGL+XKhqiSeXFUSNb9wRJ/+MpqUmUoqOltlAOE67qFw6k3L6rQuWwMbyyo9EFKmUNvdorB2eoqw5FqcWWm+G1+5ixWU76071+i6X9oZIkadtgC9E/nQFZHKGbc2fV7CP3Wn2vdGJSvJAntU1/EpXYABQQ==;IZ3iMPvv6d3djtxhHt/Opg=="
 ---

@@ -21,91 +21,34 @@ topics:
   - AI
 
 related:
-  - title: "Clearview AI close to being awarded a US patent for its facial recognition tech"
-    excerpt: "Controversial firm Clearview AI is close to being awarded a patent for its facial recognition technology, which is used to scan faces from pictures available on"
-    publishedDateTime: 2021-12-06T16:33:00Z
-    webUrl: "https://www.techspot.com/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html"
+  - title: "ACLU Calls for Halt of Homeland Security’s Use Of Facial Recognition Technology"
+    excerpt: "The civil rights organization said that the biometrics technology can lead to discriminatory arrests based on race."
+    publishedDateTime: 2021-12-08T16:33:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/aclu-calls-halt-homeland-securitys-use-facial-recognition-technology/187377/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 100
+      name: Nextgov
+      domain: nextgov.com
+    quality: 54
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/12/2021-12-06-image-9.jpg"
-        width: 2560
-        height: 1439
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/08/biometric_security_scan_picture_id1297832671/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Clearview AI's 'Search Engine for Faces' Set to Receive Patent"
-    excerpt: "Privacy experts worry the patent could normalize Clearview’s controversial data scraping practices in lieu of meaningful legal constraints."
-    publishedDateTime: 2021-12-06T21:45:00Z
-    webUrl: "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740"
-    ampWebUrl: "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 87
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ueqb57yidtjtmqxjectm.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Clearview AI To Get Facial Recognition Patent; Should We Be Scared?"
-    excerpt: "Clearview AI, the firm that created the controversial facial recognition and scrapes social media platforms to add pictures of people on its database, is about to be awarded a patent for its technology."
-    publishedDateTime: 2021-12-08T07:15:00Z
-    webUrl: "https://www.gizbot.com/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 74
-    images:
-      - url: "https://www.gizbot.com/img/2021/12/4-1638947408.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Disclosure sought on Clearview facial recognition use and by company in separate cases"
-    excerpt: "A Freedom of Information Act request seeks details about the use of Clearview AI’s facial recognition by the Criminal Investigation Division of the U.S. Army."
-    publishedDateTime: 2021-12-08T21:44:00Z
-    webUrl: "https://www.biometricupdate.com/202112/disclosure-sought-on-clearview-facial-recognition-use-and-by-company-in-separate-cases"
+  - title: "No live facial recognition for New Zealand Police in self-regulation pledge"
+    excerpt: "An independent review of the opportunities and risks associated with facial recognition has made a series of recommendations for limited use."
+    publishedDateTime: 2021-12-09T21:37:00Z
+    webUrl: "https://www.biometricupdate.com/202112/no-live-facial-recognition-for-new-zealand-police-in-self-regulation-pledge"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 33
+    quality: 37
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "Clearview’s internet-as-facial recognition reference database concept to be granted patent"
-    excerpt: "Clearview has received a ‘notice of allowance’ from the USPTO, setting up a grant of the patent once all the associated fees have been paid."
-    publishedDateTime: 2021-12-06T16:11:00Z
-    webUrl: "https://www.biometricupdate.com/202112/clearviews-internet-as-facial-recognition-reference-database-concept-to-be-granted-patent"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 29
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/23131916/patents-ideas.jpg"
-        width: 848
-        height: 339
-        isCached: true
-  - title: "UK: US facial recognition firm Clearview AI faces £17m fine for breaching data protection law, considers appealing"
-    excerpt: "A US company that gathered photos of people from Facebook and other social media sites for use in facial recognition by its clients is facing a £17m fine after the Information Commissioner’s Office (ICO) found it had committed “serious breaches” of data protection law."
-    publishedDateTime: 2021-12-07T09:01:00Z
-    webUrl: "https://www.business-humanrights.org/my/latest-news/uk-us-facial-recognition-firm-faces-17m-fine-for-breaching-data-protection-law-the-company-considers-an-appeal/"
-    type: article
-    provider:
-      name: 洗護用品和肥皂
-      domain: business-humanrights.org
-    quality: 12
 
 secured: "216bEDNe6qvilIEHODHLoR00a6DXPxborPZyw/iDtwguWwouKYuAYxIRBSd7x7GMkhqhlcdo4uqG+cpCZmp9kRifflZKV4qMLfjOc8cFLjLQ41pWK8FTusOTd0XHTcAIFjlYthsfOOz2LbKyvr+IuQ+f4kZZR875FyvRuYIxtes7mOM7HWn42+flMKH50rzAy+XYJ1QBnO8OgfeKwO7TvvZPrO2QE+CYOu9w4skV9mjyTETlUdzFQkIbgiotWQPtbJViUKPknTACSjhddCk6ocmBnqzCzNVnioCa8geHVS7v/JyFqUog2TP8/7yTyztiwLSnpqwgfnrv9ocBjrehGOZDNz0zdBjKf9W+gdG+9cI=;E2/d5LLCdnNRcrqHvZ5YFg=="
 ---
