@@ -7,7 +7,7 @@ originalUrl: "https://www.just-drinks.com/research-reports/shieldiot-launches-wo
 webUrl: "https://www.just-drinks.com/research-reports/shieldiot-launches-worlds-first-coreset-ai-security-platform/"
 type: article
 quality: 54
-heat: 74
+heat: 76
 published: true
 
 provider:

@@ -43,22 +43,6 @@ related:
         width: 350
         height: 215
         isCached: true
-  - title: "Machine learning becomes most acquired skill in India on Coursera in 2021"
-    excerpt: "According to the Annual Employability Survey by Aspiring Minds, 2.5% of Indian engineers possess technical skills in artificial intelligence (AI) that the industry requires"
-    publishedDateTime: 2021-12-06T09:48:00Z
-    webUrl: "https://www.livemint.com/education/news/machine-learning-becomes-most-acquired-skill-in-india-on-coursera-in-2021-11638783681363.html"
-    ampWebUrl: "https://www.livemint.com/education/news/machine-learning-becomes-most-acquired-skill-in-india-on-coursera-in-2021/amp-11638783681363.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/machine-learning-becomes-most-acquired-skill-in-india-on-coursera-in-2021/amp-11638783681363.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 58
-    images:
-      - url: "https://images.livemint.com/img/2021/12/06/600x338/it3-kqRE--621x414@LiveMint_1638783930875.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "The Hindu Explains | Facial recognition tech in Indian airports"
     excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
     publishedDateTime: 2021-12-07T14:08:00Z

@@ -1,26 +1,78 @@
 ---
 category: news
 title: "Gaming while driving: Tesla allows it, Mercedes does recall"
-excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
-publishedDateTime: 2021-12-11T00:03:00Z
-originalUrl: "https://www.sunherald.com/news/business/article256490316.html"
-webUrl: "https://www.sunherald.com/news/business/article256490316.html"
-ampWebUrl: "https://amp.sunherald.com/news/business/article256490316.html"
-cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article256490316.html"
+excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving"
+publishedDateTime: 2021-12-10T18:16:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/gaming-driving-tesla-mercedes-recall-81677819"
+webUrl: "https://abcnews.go.com/Business/wireStory/gaming-driving-tesla-mercedes-recall-81677819"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Biloxi Sun Herald
-  domain: sunherald.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_f6c58126f5c1429992e3d6153cc7aae5_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
 related:
+  - title: "Mercedes Beats Tesla to Hands-Free Driving"
+    excerpt: "Mercedes can sell its autonomous drive package, called Drive Pilot, to be used on parts of Germany’s Autobahn network at a max speed of 37 miles per hour."
+    publishedDateTime: 2021-12-11T02:45:00Z
+    webUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046"
+    ampWebUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/095054b0b60700436cb2a63bc98eee08.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Tesla drivers can play video games while driving. Federal safety regulators are asking why."
+    excerpt: "A recent over-the-air update pushed out by Tesla delivered an unexpected new feature — the ability for a motorist to play video games, even while driving — and"
+    publishedDateTime: 2021-12-10T19:56:00Z
+    webUrl: "https://www.nbcnews.com/business/autos/tesla-drivers-can-play-video-games-driving-federal-safety-regulators-a-rcna8381"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna8381"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna8381"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 79
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211210-tesla-al-1229-019969.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Tesla Faked Original Full Self-Driving Video, Former Employees Allege"
+    excerpt: "Tesla faked the original 2016 video showing a Model S driving itself without any human intervention, according to former employees interviewed by the New York Times. The allegations were made in a broader story exposing internal divisions at Tesla over its approach to safety in developing and marketing its Autopilot and Full Self-Driving hardware and software."
+    publishedDateTime: 2021-12-06T12:40:00Z
+    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/"
+    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 59
+    images:
+      - url: "https://www.motortrend.com/uploads/sites/5/2019/06/Tesla-Model-3-Autopilot-10.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Mercedes-Benz Has Beaten Tesla To Getting Hands-Free Driving Approval In Germany"
     excerpt: "Advertisement The German government has given Mercedes permission to put its Level 3 autonomous driving technology on the road, Bloomberg reported. The system will be available to the general public on the new Mercedes S-Class and EQS saloons early next year,"
     publishedDateTime: 2021-12-10T19:43:00Z
@@ -107,6 +159,6 @@ related:
       domain: fleetnews.co.uk
     quality: 24
 
-secured: "6JR18ftNw0ky17nyjWAz+Sj+UCPz7ynVjmxYMMeet5g/kx8O1gERu4n9dqOexq630mOPqCnxkDUxQQ75MHAZ8+5Ruk9naRMeAro7bz4wwfTSJ5+PDKe5rNlD9HPQr0quSmHJ7STqxF5ohWZb6bu6P58MVYI414MpctDY69SN0iTm+CMXtQgi49LoY1YwqZEjnuornFoPkjMM9xYk3Ze7pT+Z7zmHGFU/0acSfr822xh4tGsOS1aYTCxGO0NxwKUajPhvpDS5H7eXPoEGIsGDTQ8vwfMYxrQ5sYpXCdGv3MXW+/UrH5wXdERwjpb2kcGUxUfRMa1TWqx0fvNNaw2IsNEK2RQwJnnaMZEh9jinuzJgbps38OqiTP9cN++gAJ6DakxsCg0k4uslS6Rno6YTfOdGg74P8ZFktjbwwGcAX1ivbGJu49kTAAj7H0tZ3qbAffP/y+yDR6sds+IrOCabH6iuFIXqVbndd0V0wKMf/xkBkja297bQvULRl+fybNZ1OPgy0Rz34X9LHoWSOsmsvQ==;QQsUh3E8v0ENmvkMZTouTw=="
+secured: "+LZ4eRT0n63Vt/GWf86R4y7J5iGDiS/w8qLgnoETbsRzPpZmtF8ID5WBXUTn2VHDD6ULQJnY/Nq+EF3txzLUc+AtfHrFxyIx6hQ2ETBRke0YEk8KeeZPm8ItRZsePWZYRk2c1Os5a3uvgz/6jM0ARdA0CtEnmWa+2cSu6iZolt+FdSVR2QsOU9NG7BU0wTE7Yv85SdXDn5rgf6nG4KNIDRrYichXKCrX+JLNbAgmmU0b9F+gY3xOY5GZGEP1OIt3PytpznJDzHfkoSqamSibY+Vt0AQVtbnT3RqbJT/yaS0fN0aS2w2zV2X4YIgZxawp782myOHFZuq4bZr7MwEiiwo1T+L2BEuBnQkxyGAeato=;AShOC7dlofWMGKofyxqUhQ=="
 ---
 

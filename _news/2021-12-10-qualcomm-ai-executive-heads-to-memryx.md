@@ -46,7 +46,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63"
         width: 1200

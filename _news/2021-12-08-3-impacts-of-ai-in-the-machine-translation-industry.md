@@ -41,22 +41,6 @@ related:
         width: 350
         height: 215
         isCached: true
-  - title: "Machine learning becomes most acquired skill in India on Coursera in 2021"
-    excerpt: "According to the Annual Employability Survey by Aspiring Minds, 2.5% of Indian engineers possess technical skills in artificial intelligence (AI) that the industry requires"
-    publishedDateTime: 2021-12-06T09:48:00Z
-    webUrl: "https://www.livemint.com/education/news/machine-learning-becomes-most-acquired-skill-in-india-on-coursera-in-2021-11638783681363.html"
-    ampWebUrl: "https://www.livemint.com/education/news/machine-learning-becomes-most-acquired-skill-in-india-on-coursera-in-2021/amp-11638783681363.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/education/news/machine-learning-becomes-most-acquired-skill-in-india-on-coursera-in-2021/amp-11638783681363.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 58
-    images:
-      - url: "https://images.livemint.com/img/2021/12/06/600x338/it3-kqRE--621x414@LiveMint_1638783930875.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Machine Learning is the most acquired skill in India on Coursera in 2021"
     excerpt: "As per Future of Jobs 2020 by the World Economic Forum, AI and Machine Learning Specialists, Data Analysts and Data Scientists are emerging job roles. Therefore, graduates and professionals are ..."
     publishedDateTime: 2021-12-09T02:54:00Z
@@ -116,6 +100,6 @@ related:
         height: 315
         isCached: true
 
-secured: "nkoWtnqm6ZYahb00hTVCjX4RnTSk+VN3K4RIsyq07jg1ZDZp4229STFLig1V8hA4+MxCmMFDb/gS8WMzCo1JHxKvF5rQ4IBNMrqILJBP0etT87nQILBqcKPnN0tqsYMoJwGU8dNM3GTUGuJzYbdxcwF8klP+kkxcqBDmXuPpDV/VG+vow1jr95EwTm4OxfL9WEODeEqGHPNMd7u9pXmOhW5st8fpegkvF7eymjkhoSQBYhasaDRNFg+4jNTdoTy5iL2joKvttFAsWbDLjQxcQ7+/V17EKbhBKFWNHc1P1bWH+dtUYbiwE/MAlKiPYbBrYufS+QccznF9jdmagkDijYB2TD8lobvIJQmkAnNqezU=;JXcMBTiulSSiNtJFx1nqbA=="
+secured: "PwtvNW6z7l1GRZxCrwoSNQDqAy1vg+IF1r47GJ8MbV/Dj8c7UCyp/c0+ZUrUKzqTuYf4V9Sv+5XMeUAVzg4GsS7GZgBir7t4YeawyI2ZJnH5yxhdpifGVWF98x18dFnLx1KyaP36YaZhnAeZ6cXhSD9IcOYuZ/7fPjCrB+6AAmn0Ze9rh0E+J96C8tx/ulbfXsKFhzeZXnUXbf7EqlgNPPj2R4dju7iq2dbxURwYyqycwPdsH1Kx6iiWgr2YEPhzd36lKY8YRbuMlYBrqse6Njp2p7f+OG1vUE3dDoVinO0ctELmEkEdSNrVmr3U0ZeUwUmBZ+RM4cKa1GpkABwQxMrzynqWjI2A9UAhyy5h1bWqC+rFkoyk4t+5h2RG32J+oGlngNnfpSJ8fb45JWOjkarxEMab3gd0yDpXMfo2v6sJbmC+AV+MLp4sar5gvBi0aEuCn2sELtZQ/KEAEJGUoXO6uVIIXhkAiOhMCdzYq0NSnnKHChvtVQDap0lcip9pciW9hmMrnQBMoyBjhfpHcQ==;QzksV8rZxiFmWv9wE377cA=="
 ---
 

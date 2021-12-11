@@ -9,8 +9,8 @@ ampWebUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-pro
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: Carscoops
@@ -27,52 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Inside Tesla as Elon Musk Pushed an Unflinching Vision for Self-Driving Cars"
-    excerpt: "The automaker may have undermined safety in designing its Autopilot driver-assistance system to fit its chief executive’s vision, former employees say."
-    publishedDateTime: 2021-12-06T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html"
-    ampWebUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 88
-    images:
-      - url: "https://static01.nyt.com/images/2021/12/07/business/07tesla-autopilot1/00tesla-autopilot01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Neuralink and Tesla have an AI problem that Elon’s money can’t solve"
-    excerpt: "What do Tesla's FSD system, Neuralink's algorithms, and lazy people all have in common? It'd be great if they worked."
-    publishedDateTime: 2021-12-07T22:25:00Z
-    webUrl: "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 86
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Felon-burn-money.jpg&signature=e036468bf08b9464f7f31ef7c598bb32"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Tesla drivers can play video games while driving. Federal safety regulators are asking why."
-    excerpt: "A recent over-the-air update pushed out by Tesla delivered an unexpected new feature — the ability for a motorist to play video games, even while driving — and"
-    publishedDateTime: 2021-12-10T19:56:00Z
-    webUrl: "https://www.nbcnews.com/business/autos/tesla-drivers-can-play-video-games-driving-federal-safety-regulators-a-rcna8381"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna8381"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna8381"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 79
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211210-tesla-al-1229-019969.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Ex Tesla Engineers Claim Video Promoting Full-Self Driving Autopilot 2.0 Edited Out Collision With A Barrier"
     excerpt: "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers"
     publishedDateTime: 2021-12-07T20:31:00Z
@@ -88,36 +42,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "Tesla Faked Original Full Self-Driving Video, Former Employees Allege"
-    excerpt: "Tesla faked the original 2016 video showing a Model S driving itself without any human intervention, according to former employees interviewed by the New York Times. The allegations were made in a broader story exposing internal divisions at Tesla over its approach to safety in developing and marketing its Autopilot and Full Self-Driving hardware and software."
-    publishedDateTime: 2021-12-06T12:40:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/"
-    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://www.motortrend.com/uploads/sites/5/2019/06/Tesla-Model-3-Autopilot-10.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "News: Tesla to hire Artificial Intelligence engineers: Elon Musk tweets"
-    excerpt: "According to the official website the AI and Autopilot unit of Tesla develops and deploys autonomy at scale in vehicles robots and more"
-    publishedDateTime: 2021-12-07T04:16:00Z
-    webUrl: "https://www.peoplematters.in/news/recruitment/tesla-to-hire-artificial-intelligence-engineers-elon-musk-tweets-31858"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 56
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1636960766/ad-kqkzykwk.png"
-        width: 990
-        height: 550
         isCached: true
   - title: "I Still Can't Get Over Tesla Allegedly Faking Its Original Self-Driving Autopilot Video"
     excerpt: "For years we have wondered if what’s going on at Tesla is just a shitshow or a scam, and none of that conversation is made any easier after reading a new report from the New York Times, in which multiple former employees claim that the company’s 2016 “hey our cars can totally drive themselves” video was faked."
@@ -163,17 +87,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-Driving cars"
-    excerpt: "Tesla may have undermined safety in designing its driver-assistance system to fit CEO Elon Musk’s vision, former employees said. Now the NHTSA is investigating at least 12 accidents in which Teslas using Autopilot drove into parked vehicles."
-    publishedDateTime: 2021-12-07T05:03:00Z
-    webUrl: "https://www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/"
-    ampWebUrl: "https://www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 38
 
 secured: "ATzOlVM+z8KOxyYsXbKqg6glWNUIyjItQsV29IuwcjBv0HJY9y/hhpdrV7eWxoSQbfPvBcMz6PvFWTXjIFPeSN2x3lJhKcR5ICatuvoVruC6AOhmA01yZnAkbMDNKm91HZaQpYiUghkfs7XxE8EwvgUlzi5Ux2+oht70UQHeNQ1KXl9AI2TO5q7pQXQRKu4ajk2coQGX+XHnzod6hr3q/P1FEe8XblvSOLnaAnIWnzAQH7ZLyss5B7/3U+f4+Uy9j3hMOQWkUjZPpMRl5OjrU/yPse2UehgUjvNlqqsZkkW2nCFkGaNEGsHGZcFn89L8VLL4n8j+tuYGHnOhgxlgLPzggLcXB734QtnpS4VmDC9G1lft8uoq45pbkyKly+I83Paz5wPjAl/cuI7LXvIG7w7jcfL0ORriccKGeYXL+o0dmA4lRK1Qf3/rkdnUBQrYsEbh7fTLnAO5hLIypG2eoytgtGXlUNrGV2AsOnvNgrORKAbRpbdWFO9BgQNbbRKZn2awdEtlcQ63Y4YesEwYig==;X/cEmYPMcl4DMCPFK5Cwzw=="
 ---

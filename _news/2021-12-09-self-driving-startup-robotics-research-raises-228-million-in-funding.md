@@ -24,19 +24,16 @@ topics:
 
 related:
   - title: "Self-driving startup Robotics Research raises $228 mln in funding"
-    excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
-    publishedDateTime: 2021-12-09T05:12:00Z
-    webUrl: "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/"
+    excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
+    publishedDateTime: 2021-12-09T05:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 99
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63"
-        width: 1200
-        height: 628
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 101
   - title: "Self-driving startup Robotics Research raises US$228 million in funding"
     excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised US$228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
     publishedDateTime: 2021-12-09T18:14:00Z

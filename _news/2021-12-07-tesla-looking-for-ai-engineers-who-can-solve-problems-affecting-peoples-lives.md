@@ -20,20 +20,45 @@ topics:
   - AI in Autos
 
 related:
-  - title: "How Tesla has fully utilized AI sources on journey of being a leading brand?"
-    excerpt: "Technology is a super magnificent miracle. When I was a kid, I used to think \"How does this television be made? From where did they start building it? What they've put into it so that we see faces moving on it?"
-    publishedDateTime: 2021-12-07T07:27:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-tesla-has-fully-utilized-ai-sources-journey-being-leading-"
+  - title: "Neuralink and Tesla have an AI problem that Elon’s money can’t solve"
+    excerpt: "What do Tesla's FSD system, Neuralink's algorithms, and lazy people all have in common? It'd be great if they worked."
+    publishedDateTime: 2021-12-07T22:25:00Z
+    webUrl: "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 53
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFvr3KCpcyvyw/article-cover_image-shrink_720_1280/0/1638860879926?e=1644451200&v=beta&t=IDypcctUey8Hnqec12il5b36Ynpqgs9SScRnfxvgwoM"
-        width: 1080
-        height: 720
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Felon-burn-money.jpg&signature=e036468bf08b9464f7f31ef7c598bb32"
+        width: 1280
+        height: 640
         isCached: true
+  - title: "News: Tesla to hire Artificial Intelligence engineers: Elon Musk tweets"
+    excerpt: "According to the official website the AI and Autopilot unit of Tesla develops and deploys autonomy at scale in vehicles robots and more"
+    publishedDateTime: 2021-12-07T04:16:00Z
+    webUrl: "https://www.peoplematters.in/news/recruitment/tesla-to-hire-artificial-intelligence-engineers-elon-musk-tweets-31858"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 56
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1636960766/ad-kqkzykwk.png"
+        width: 990
+        height: 550
+        isCached: true
+  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-Driving cars"
+    excerpt: "Tesla may have undermined safety in designing its driver-assistance system to fit CEO Elon Musk’s vision, former employees said. Now the NHTSA is investigating at least 12 accidents in which Teslas using Autopilot drove into parked vehicles."
+    publishedDateTime: 2021-12-07T05:03:00Z
+    webUrl: "https://www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/"
+    ampWebUrl: "https://www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 38
 
 secured: "iLUIGs3PY49YdJOI6Lu3BghDD0MZoA6f/cYkicv3e7cesgeDuq11UdCwdHsE+4KCpSNDJz3RlFfvXlweTpdybL2owvuS1XEk6pgTMIosWzD1QSvNDp24tUU0KJm7CeYRKmgmH6S2Ql/vTaVDjoOtC7mXq5orNumnvjMa5/GAwcoqg09QNnA2Bdxr3lyxtPdtnzWBVMQkGiLgdSVtbONmI9nEp8hzCl/EYIrBN8hqpGQtmaoNz9U3BQYkFqbGRtDyRJAUrbaD72lq1IKKuFrlM00RNnY7Dk48SJHVExRw5GyG0EcJCfu/oNbwABjS1un0MY4CW1YvUvFfRF1butDZKJgcylkp/eeKhid7cHtOya7wh6RP5nHSF2SKQsiQki0nEplZUoKgAeRzheC8ny2Hc0Eu9A80yDtQF2CHZ1UAu7x2d7qOW4XzbWaJ16gIEz0qM5XYAkwTYWy1vqGFA7/CkN6OrgrHSYG10h0Kjrltkrrpkn6JMxceU9ycky820UM9bA6Kh9FOS5aYQhFWXJ2xtQ==;xRu8gwpVnl71XeOSEWZjIA=="
 ---

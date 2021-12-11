@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Picsart to Acquire Computer Vision and AI Company DeepCraft"
-excerpt: "As video editing surges on the creator platform, the boutique firm will help accelerate Picsart's video offering through AI and image processing Picsart, the world's"
-publishedDateTime: 2021-12-02T14:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/b24408178/picsart-to-acquire-computer-vision-and-ai-company-deepcraft"
-ampWebUrl: "https://www.benzinga.com/amp/content/24408178"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24408178"
+excerpt: "Picsart, the world’s leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an undisclosed sum."
+publishedDateTime: 2021-12-02T15:28:00Z
+originalUrl: "https://www.financialbuzz.com/picsart-to-acquire-computer-vision-and-ai-company-deepcraft/"
+webUrl: "https://www.financialbuzz.com/picsart-to-acquire-computer-vision-and-ai-company-deepcraft/"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "vvefktF9YYkVgdr+3btrAgnRKfMu2Czgo8f9hLEPfkAtWzm/4hLIMegLg+Ts2CydDBbvTLyEoPQv6yvQFrv00KpTbZ9z2IVBT+AbMFvAEkJ5cnoNi1FVlefZI7rlq8KSfuMzrO3pHgpShljV8kBmo1bA10uozBl4+cegUKm62iCMGB0yLxch4f+jmgagVJCqn9nc/y7vaRtHvC/UqZ8bf9lIl5kYHB86lQNDdPzl9+Ew/Aon6xG/UWVGsWGafwlWRlSQxrLHRpPaiJ3yeQ4dz/q/za28Aetwtk3QLxCtvXyD2Nt3oHkzKd/MvcVB+HoqIU/tlE0FYZ8pFZaltvoudo9RzoXsjSUkNobs1e8VpnMjA4yd+UNaM/1Zwl18lXKoC1oJwZqYBjohp/KRjbQfyi47lplVyjtqNWQDx/jbStylyvVlTYt5V0kV82im1ILivQBI6cDhqeq/4+jnJ5Wsmzeq9hllZy6duZHJCMhVqVDYizFsV9LGnyImGPfpLY54QHSsqcJU7x8Ga1DxbrP9dA==;6gOwBS9K6q569WuiK25ubA=="
+secured: "glAy6dG6x9NCBOzEmick+38Lw8kal7L0dTkhr/weKINyjBEJQJZ+aVzKnX746uWUtxXZp6b2+RuGUBBTXYbsLpAcuy7gepHYpbcwijXFsPCx3rCLf4qqz3xy4UUYj0kZVtQc/dEHZSyFPeNHTkvWaSmrA7E9LTGq8VTmFmLGam9olaWNlG/jXz03OwKNHtH+kjKJsNJw04fz8qt0hiDYvV+1x8XuJptyEhv6oEIMLLjNiYvOvZyeb044F7mx4AZEs+yhux/6mAc93ZgYUfgG9j7U8HrXuiuLruG5fUkiMDS+QqeLQhQpEwCEhqUWCphVU1cY8FXaxovEYRYtR25h834JG1sGcPMwaBlueLSqBbCYofe50T8fAj7XRqazPVt7781U9fH3bwPHxCDnt/AMDepzBsdhuJ64Q+Z52IuVc6qA2r03xOtk33SrFvz8lG1NjCaxHgMuw9HGqsbqTp8hPYuJj3gh0XhMddikRMf2k72WeYiudMGKAJ/zleK49wknncC+rIjsjE9nP5oKduZvWQ==;lTs6L5tepeaHSleMQ+PvNQ=="
 ---
 

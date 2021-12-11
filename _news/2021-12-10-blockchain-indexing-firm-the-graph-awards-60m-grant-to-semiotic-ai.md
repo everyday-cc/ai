@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/09/blockchain-indexing-firm-the-grap
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/Machine_Learning_Artificial_Intelligence_and_Blockchain_are_Revolutionizing_the_Legal_Industry.jpeg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How Blockchain And AI Will Affect Businesses In The Next 10 Years"
-    excerpt: "Two disruptive technologies are gaining more and more prominence that will shape the course of people’s lives and culture over the next ten years: blockchain and artificial intelligence (AI). Both are experiencing expanded use and innovation,"
-    publishedDateTime: 2021-12-06T11:02:00Z
-    webUrl: "https://www.fieldtechnologiesonline.com/doc/how-blockchain-and-ai-will-affect-businesses-in-the-next-years-0001"
-    type: article
-    provider:
-      name: Field Technologies Online
-      domain: fieldtechnologiesonline.com
-    quality: 41
-    images:
-      - url: "https://vertassets.blob.core.windows.net/image/87f8a9cb/87f8a9cb-b01d-4f15-956a-c3c0195a9486/blockchain_technology_istock_1182014606.jpg"
-        width: 450
-        height: 300
         isCached: true
 
 secured: "2tsCmRTzQam5JSwwL39W+O+vq/KLdESRUUdKZdmhxJCi/dBrl8eW2DD1a6k6NlVJgT7lC46Sas4aujAty7Ll5AT/Em1EVZIbEIzKII1nk7TIL3LgPjvfYnl2yT3xDhCYiuDAfJ6JApk705RvujRNG043aeuHbhnkZGl0BB9Twl4dM+buGbnv/9MTFX3y1J7ZadiXrNoQo2XchR2wqFKibAth+pU2AYe98H70Fi8aXm4EBFs7r7NqBbut2eUw/wnRlXHc4pDBdYNsd0GNi+rYMPgmkWS+GEDSlvOCrCXlxY4iKxrY6CzMqHbfy98MIEumJxwhnVPm0U2nudC+1FuK8o/n2pYv6WR5Fk8kCufHS5V0MZqigDvxOWUty6n69jsJzT3oDmXq7IwTlO28I4DUC9lDIQ40O8P1btc/2RwxwfBTuavDqG0Xgmqz83iw/JoQFno/0JWRosbRWteEjzqwDzVdYMo6OAjQwejKJBQWPbVsfEI1Ue9G0cql2Y9C1qKOQo27S9CdPsgLfLxkFWChRg==;bZefdLRhihgOltkHZ/CUiw=="

@@ -57,29 +57,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "A humanoid robot makes eerily lifelike facial expressions"
-    excerpt: "Engineered Arts, a UK-based designer, and manufacturer of humanoid robots, recently showed off one of its most lifelike creations in a video posted on YouTube. The robot, called Ameca, is shown making a series of incredibly human-like facial expressions."
-    publishedDateTime: 2021-12-06T09:45:00Z
-    webUrl: "https://www.khaama.com/a-humanoid-robot-makes-eerily-lifelike-facial-expressions/"
-    type: article
-    provider:
-      name: Khaama Press
-      domain: khaama.com
-    quality: 39
-    images:
-      - url: "https://www.khaama.com/wp-content/uploads/2021/12/61aa489d5d47cc0018e93cc1.jpg"
-        width: 1136
-        height: 852
-        isCached: true
-  - title: "This humanoid robot makes perfect human-like faces"
-    excerpt: "As robots evolve to do more work around us, the UK-based humanoid robot manufacturer Engineered Arts has infused more human-like facial expressions into one of its robots, which may leave you with an eerie feeling."
-    publishedDateTime: 2021-12-06T10:55:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20211206/3868400.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "DO5E4ubr5pe7d/dXSDjGIBQLZ8q5IgtHjurZHImec5d9yKWY52LCadC36+flwkMz5FWJT9dKUJtblRahWzVY+ObPsqGR5vxEPl2HRp5qw0noEdH/WbErKyznMOIhV8sOi70ZqR2lykp399xombBQqsy6GxDDVnrIHGucf8HLV+mrDbe6HqGAH+ltg8J8yDjozuA0ExSdWrfA4P28kGKowkIyEpUS1LXHCF19UBru9oaL6nZEtIEeLKLa0sMVlSSJMAUrnKw40O5l7zybmVxHyMtmE1jvE3gEf9vl2hRvk9WafXza5GKxJMWX/JcC6zk/F9lA5M3DEtXyVQvlUxTIM6ytMElwPkwGirEK2VKVSfo=;uCiwmnqzu9oA7YVr7Q8Y0w=="
 ---

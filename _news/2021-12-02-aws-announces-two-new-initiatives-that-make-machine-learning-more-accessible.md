@@ -1,22 +1,21 @@
 ---
 category: news
 title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
-excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
-publishedDateTime: 2021-12-01T18:34:00Z
-originalUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
-webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
+excerpt: "The program uses AWS DeepRacer and the new AWS DeepRacer Student League to teach students foundational machine learning concepts by giving them hands-on experience training machine learning models for autonomous race cars, while providing educational ..."
+publishedDateTime: 2021-12-01T19:01:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible"
+webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
-secured: "Z6wqkSkMVWp0QBY4XzWUyYqExsWK7Fr/oJWLuaQScyjGYzvHJPiaCKfq4Q0Z7cc9SvOSj519soLxs45eHXWe2PIfeM4RZ32Jpb4oFt8DNcJxJujA1Df5bdyU6R3d0bowSZWBSueTXopBbsVAI7on8+yUYmwlzXJTRjzm3z0UuxukieXM7mYGggeHSoDfDnWaduWiVUUdQY4sG7qmkAr0o0pkJv2n6c25o0NtW0EAwJyjidP5jpu9qt3iCOGcl17wcuMU+sVQrCtghehbA2hxTp42AtC0G7Rj9LezrZL0rWj0NAmm9cBRECdaIS7kEc4S0H8dIuhOe909Z5iUVXpJPSCEm1zKHg9ec19MH3dZI+U=;oJkRSYphhVaq4ttLqkMS2w=="
+secured: "vYLg+/oxVQkpUVmD5w8BAUrF8Fr51rKy5nSAaPs/2SV77ETcueY5q/IgJrbUXYnQvhfWZ/Z0Er1TwiR1/s6M14f1tRmTtQEpMEJ4qA2W3YgTm+yBnthI5SEGiPJayiyd6pJx13lpBIwFlG8FWPUWWF8J8QOop9QEwtkm3iQcK7vJrbCli9aqBMZm0HtGsprzIkt4ZdfKn3xUKwmJhRUM+4XnR8FE7DX+Y2FbjlQN5jKucG9Oh3HhofGVrIZOkmphukaWETwq23xBI5OG51bCuaJssXT/SbUzXOX2irNVaI6R6KeAGj1N9ldNdYEqbk5PhQ9tPWLGjCLfmnLCkEyqrmaC/fvzdApqKH383hOh1Lc=;f8dz9we/x1R2GnycjmYlNQ=="
 ---
 

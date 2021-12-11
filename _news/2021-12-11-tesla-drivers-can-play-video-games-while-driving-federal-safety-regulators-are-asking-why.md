@@ -27,67 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Inside Tesla as Elon Musk Pushed an Unflinching Vision for Self-Driving Cars"
-    excerpt: "The automaker may have undermined safety in designing its Autopilot driver-assistance system to fit its chief executive’s vision, former employees say."
-    publishedDateTime: 2021-12-06T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html"
-    ampWebUrl: "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html"
+  - title: "Mercedes Beats Tesla to Hands-Free Driving"
+    excerpt: "Mercedes can sell its autonomous drive package, called Drive Pilot, to be used on parts of Germany’s Autobahn network at a max speed of 37 miles per hour."
+    publishedDateTime: 2021-12-11T02:45:00Z
+    webUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046"
+    ampWebUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 88
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
     images:
-      - url: "https://static01.nyt.com/images/2021/12/07/business/07tesla-autopilot1/00tesla-autopilot01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Neuralink and Tesla have an AI problem that Elon’s money can’t solve"
-    excerpt: "What do Tesla's FSD system, Neuralink's algorithms, and lazy people all have in common? It'd be great if they worked."
-    publishedDateTime: 2021-12-07T22:25:00Z
-    webUrl: "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 86
-    images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Felon-burn-money.jpg&signature=e036468bf08b9464f7f31ef7c598bb32"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Ex Tesla Engineers Claim Full-Self Driving Autopilot Video Was Manipulated And Edited Out Barrier Collision"
-    excerpt: "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers"
-    publishedDateTime: 2021-12-07T21:13:00Z
-    webUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/"
-    ampWebUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 71
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
-  - title: "Ex Tesla Engineers Claim Video Promoting Full-Self Driving Autopilot 2.0 Edited Out Collision With A Barrier"
-    excerpt: "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers"
-    publishedDateTime: 2021-12-07T20:31:00Z
-    webUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/"
-    ampWebUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 70
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-1024x555.jpg"
-        width: 1024
-        height: 555
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/095054b0b60700436cb2a63bc98eee08.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Tesla Faked Original Full Self-Driving Video, Former Employees Allege"
     excerpt: "Tesla faked the original 2016 video showing a Model S driving itself without any human intervention, according to former employees interviewed by the New York Times. The allegations were made in a broader story exposing internal divisions at Tesla over its approach to safety in developing and marketing its Autopilot and Full Self-Driving hardware and software."
@@ -105,75 +59,105 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "News: Tesla to hire Artificial Intelligence engineers: Elon Musk tweets"
-    excerpt: "According to the official website the AI and Autopilot unit of Tesla develops and deploys autonomy at scale in vehicles robots and more"
-    publishedDateTime: 2021-12-07T04:16:00Z
-    webUrl: "https://www.peoplematters.in/news/recruitment/tesla-to-hire-artificial-intelligence-engineers-elon-musk-tweets-31858"
+  - title: "Mercedes-Benz Has Beaten Tesla To Getting Hands-Free Driving Approval In Germany"
+    excerpt: "Advertisement The German government has given Mercedes permission to put its Level 3 autonomous driving technology on the road, Bloomberg reported. The system will be available to the general public on the new Mercedes S-Class and EQS saloons early next year,"
+    publishedDateTime: 2021-12-10T19:43:00Z
+    webUrl: "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/"
+    ampWebUrl: "https://wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/mercedes-has-beaten-tesla-to-getting-hands-free-driving-approval-in-germany/amp/"
     type: article
     provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 56
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 54
     images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1636960766/ad-kqkzykwk.png"
-        width: 990
-        height: 550
-        isCached: true
-  - title: "I Still Can't Get Over Tesla Allegedly Faking Its Original Self-Driving Autopilot Video"
-    excerpt: "For years we have wondered if what’s going on at Tesla is just a shitshow or a scam, and none of that conversation is made any easier after reading a new report from the New York Times, in which multiple former employees claim that the company’s 2016 “hey our cars can totally drive themselves” video was faked."
-    publishedDateTime: 2021-12-08T14:30:00Z
-    webUrl: "https://jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253"
-    ampWebUrl: "https://jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 51
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/c68bad7932c80687766c35aebf5a6a38.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "A Tesla on Autopilot crashed into a barrier while filming of a video promoting the company's self-driving tech, NYT reports"
-    excerpt: "A video showing off Tesla's self-driving capabilities isn't exactly what it seems, The New York Times reports. The clip is still on Tesla's website."
-    publishedDateTime: 2021-12-06T16:30:00Z
-    webUrl: "https://www.businessinsider.com/tesla-autopilot-video-self-driving-crash-barrier-nyt-2021-12"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
-    images:
-      - url: "https://i.insider.com/61ae37a30b0acf0018c4087f?width=1200&format=jpeg"
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/mercedes-benz-bloomberg-1200.jpg"
         width: 1200
-        height: 600
+        height: 667
         isCached: true
-  - title: "Tesla’s ‘Full Self-Driving’ promotional videos were faked – report"
-    excerpt: "The electric vehicle manufacturer produced fraudulent advertising material and compromised safety for vehicle aesthetics, former employees have"
-    publishedDateTime: 2021-12-08T22:01:00Z
-    webUrl: "https://www.drive.com.au/news/teslas-full-self-driving-promotional-videos-were-faked-report/"
+  - title: "Mercedes Gets First Approval for Truly Self-Driving Car"
+    excerpt: "The German car maker beats Tesla to the punch with a car that will allow drivers to let go of the wheel in some situations."
+    publishedDateTime: 2021-12-10T03:52:00Z
+    webUrl: "https://www.barrons.com/articles/mercedes-self-driving-car-51639093613"
+    ampWebUrl: "https://www.barrons.com/amp/articles/mercedes-self-driving-car-51639093613"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/mercedes-self-driving-car-51639093613"
     type: article
     provider:
-      name: Drive.com.au
-      domain: drive.com.au
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-425789/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Mercedes Beats Tesla to Hands-Free Driving on the Autobahn"
+    excerpt: "Tesla, Alphabet Inc.’s Waymo and others have been chasing self-driving technology for years. A fully autonomous vehicle would be highly attractive to premium customers, allowing drivers to work or use entertainment systems while on journeys. RoadSigns ..."
+    publishedDateTime: 2021-12-09T16:48:00Z
+    webUrl: "https://www.ttnews.com/articles/mercedes-beats-tesla-hands-free-driving-autobahn"
+    type: article
+    provider:
+      name: Transport Topics
+      domain: ttnews.com
     quality: 39
     images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/msrtue4f03egr5chq2dt"
-        width: 400
-        height: 225
+      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/mercedes-autonomous-main-1200.jpg?itok=ffVFiJGm"
+        width: 470
+        height: 246
         isCached: true
-  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-Driving cars"
-    excerpt: "Tesla may have undermined safety in designing its driver-assistance system to fit CEO Elon Musk’s vision, former employees said. Now the NHTSA is investigating at least 12 accidents in which Teslas using Autopilot drove into parked vehicles."
-    publishedDateTime: 2021-12-07T05:03:00Z
-    webUrl: "https://www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/"
-    ampWebUrl: "https://www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/?amp=1"
+  - title: "Gaming while driving: Tesla allows it, Mercedes-Benz does recall"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+    publishedDateTime: 2021-12-10T18:39:00Z
+    webUrl: "https://www.clickorlando.com/business/2021/12/10/gaming-while-driving-tesla-allows-it-mercedes-benz-does-recall/"
     type: article
     provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 38
+      name: Click Orlando
+      domain: clickorlando.com
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/WOWGQP7ZRZCC3B5SMX32XNFPSM.jpg?_a=ATABlcW0"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving"
+    publishedDateTime: 2021-12-10T18:16:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/gaming-driving-tesla-mercedes-recall-81677819"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 39
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_f6c58126f5c1429992e3d6153cc7aae5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Mercedes-Benz to launch Level 3 self-driving system in 2022 after gaining regulatory approval"
+    excerpt: "Mercedes will launch its Level 3 self-driving system in Germany initially, but is already testing it in the U.S."
+    publishedDateTime: 2021-12-09T18:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1134400_mercedes-benz-to-launch-level-3-self-driving-system-in-2022-after-gaining-regulatory-approval"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 28
+    images:
+      - url: "https://images.hgmsites.net/hug/mercedes-benz-drive-pilot_100818541_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Mercedes-Benz self-driving car technology approved for use"
+    excerpt: "Approval of the self-driving system paves the way for it to be offered to customers where national legislation allows its use."
+    publishedDateTime: 2021-12-09T14:31:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/manufacturer-news/2021/12/09/mercedes-benz-self-driving-car-technology-approved-for-use"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/manufacturer-news/2021/12/09/mercedes-benz-self-driving-car-technology-approved-for-use"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/manufacturer-news/2021/12/09/mercedes-benz-self-driving-car-technology-approved-for-use"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 24
 
 secured: "IGN2OXOrUgwCg5HmQhW2ervFNdf2iPpqbk0Zjjebm9v/lzXLgNEBMtlGGZvwQgNbEqIXDvUxRLpGjVMmgQ64xNtq8pc6JkReDFgKAvYDScx+XQICbM4eAhPYdDPlnRAc5fJ8otUboi06wOh5tc7SETZAUbQ15WAc4BvvQqVBGhgi/FUq/CYt6bGUZsGoatHdfU712VVBDGEJpPwIr7fAo3ac/CDVPQmO/9yKfAkaN2gNqwgeUh2O5hzZJk4pCS7WKcaMvrMaQH682gs8xxmv9xOySxQF3ph/iel+TlNy97LLMp0S0h6yScmqtE4yehlOwnTyJveoGr3el2XRLzL13II7E+NUzjGDD8XT4jx1pkk=;BeFuAFNaaVBqwIaU1+tpvA=="
 ---

@@ -1,48 +1,36 @@
 ---
 category: news
-title: "Tesla Faked Original Full Self-Driving Video, Former Employees Allege"
-excerpt: "Tesla faked the original 2016 video showing a Model S driving itself without any human intervention, according to former employees interviewed by the New York Times. The allegations were made in a broader story exposing internal divisions at Tesla over its approach to safety in developing and marketing its Autopilot and Full Self-Driving hardware and software."
-publishedDateTime: 2021-12-06T12:40:00Z
-originalUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/"
-webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/"
-ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/amp/"
-cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/amp/"
+title: "Mercedes Beats Tesla to Hands-Free Driving"
+excerpt: "Mercedes can sell its autonomous drive package, called Drive Pilot, to be used on parts of Germany’s Autobahn network at a max speed of 37 miles per hour."
+publishedDateTime: 2021-12-11T02:45:00Z
+originalUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046"
+webUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046"
+ampWebUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 89
+heat: 179
+published: true
 
 provider:
-  name: Motor Trend
-  domain: motortrend.com
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.motortrend.com/uploads/sites/5/2019/06/Tesla-Model-3-Autopilot-10.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/095054b0b60700436cb2a63bc98eee08.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
-  - title: "Mercedes Beats Tesla to Hands-Free Driving"
-    excerpt: "Mercedes can sell its autonomous drive package, called Drive Pilot, to be used on parts of Germany’s Autobahn network at a max speed of 37 miles per hour."
-    publishedDateTime: 2021-12-11T02:45:00Z
-    webUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046"
-    ampWebUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/095054b0b60700436cb2a63bc98eee08.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Tesla drivers can play video games while driving. Federal safety regulators are asking why."
     excerpt: "A recent over-the-air update pushed out by Tesla delivered an unexpected new feature — the ability for a motorist to play video games, even while driving — and"
     publishedDateTime: 2021-12-10T19:56:00Z
@@ -58,6 +46,22 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211210-tesla-al-1229-019969.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Tesla Faked Original Full Self-Driving Video, Former Employees Allege"
+    excerpt: "Tesla faked the original 2016 video showing a Model S driving itself without any human intervention, according to former employees interviewed by the New York Times. The allegations were made in a broader story exposing internal divisions at Tesla over its approach to safety in developing and marketing its Autopilot and Full Self-Driving hardware and software."
+    publishedDateTime: 2021-12-06T12:40:00Z
+    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/"
+    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 59
+    images:
+      - url: "https://www.motortrend.com/uploads/sites/5/2019/06/Tesla-Model-3-Autopilot-10.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Mercedes-Benz Has Beaten Tesla To Getting Hands-Free Driving Approval In Germany"
     excerpt: "Advertisement The German government has given Mercedes permission to put its Level 3 autonomous driving technology on the road, Bloomberg reported. The system will be available to the general public on the new Mercedes S-Class and EQS saloons early next year,"
@@ -159,6 +163,6 @@ related:
       domain: fleetnews.co.uk
     quality: 24
 
-secured: "FKkrKbjtNvPgWDRKwMrGavHllIn1dWfx07rjWMnelrPS2n4YjqA04uW7YW4i/1JAQ3ylIWGyPLkI/A2Bt8ef/GpUMpU5V4LEuV+akIWOHavA7yi98gFgx9DD/wPJnBCIRw2VI8DmZ2ZX3DmMXJKmewR1WCkRaw8IBp4E1cnz8OY12ZmiIsF+U92gqk/36WxVhWXM+6+rFgSllVp80ookULU3bZFBp56Qw/Z6Q7SvVtK4MfuukRVVJI4c9eIAkcOv4oSbN1eybNfaj42CnovcmnDCjXpZQbcNFvDiPquTjTPL6QwtLDBUJh4362GJ5iZJncCJMvna1EAMZPgyTkQLbkWVRXptwlTgnuELBSzPrTMb56l+bh8aOLK/0tW8atB1JuMKoS4CB8OwwlDB7ydPj0z627H4FaqaY/fEveDtiJsSTfsP+x0pdHTIFLIRA+QCcSuZTytlfW8UKqS0rtauHPtgP3CP9BCoqCIeERZikNvR/pNjNRvQ4+rwfqSEJ/zpGW2IWJWDLsaUcgY+qiByJA==;pNXNPQ3boWZfxyGmAUXn7A=="
+secured: "WTvqQryu6icVFXdhFrj7rwgHhf+4WY9tdX4Jp745PaMsAfD9mKYtiTXkDZBJkvISrUR6McsbRaVNzo3Fod68cvk7ojCuxXyNkks1aID5MTJTNBJoKOoxAAyuFuzZVekdw8i/n1t2uQYGXH032mdPK/LZoyaRAW2lDenElVIKJi1nZATkip/A+q7AVgl6MAPpsozJSpwT9PCs8heT+LMVfzK+dttYOPpK8/LK9w6iUONCgulSyjm9qHSr+QpidNsFtIES7P15nvH6ZHGd/c5C/aIpLotTasHvO7XL3nH+5zuxBB1uJPOjvrFf8pcvguIOR3CpQ5BD75fpI9oJl9ESAzioMhRO1IqWczM6mQD3NG8=;MoXE5SDM9I0iLyuf6w/FNA=="
 ---
 

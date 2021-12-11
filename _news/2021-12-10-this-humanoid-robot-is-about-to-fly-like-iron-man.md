@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-i
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -61,29 +61,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "A humanoid robot makes eerily lifelike facial expressions"
-    excerpt: "Engineered Arts, a UK-based designer, and manufacturer of humanoid robots, recently showed off one of its most lifelike creations in a video posted on YouTube. The robot, called Ameca, is shown making a series of incredibly human-like facial expressions."
-    publishedDateTime: 2021-12-06T09:45:00Z
-    webUrl: "https://www.khaama.com/a-humanoid-robot-makes-eerily-lifelike-facial-expressions/"
-    type: article
-    provider:
-      name: Khaama Press
-      domain: khaama.com
-    quality: 39
-    images:
-      - url: "https://www.khaama.com/wp-content/uploads/2021/12/61aa489d5d47cc0018e93cc1.jpg"
-        width: 1136
-        height: 852
-        isCached: true
-  - title: "This humanoid robot makes perfect human-like faces"
-    excerpt: "As robots evolve to do more work around us, the UK-based humanoid robot manufacturer Engineered Arts has infused more human-like facial expressions into one of its robots, which may leave you with an eerie feeling."
-    publishedDateTime: 2021-12-06T10:55:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/India/20211206/3868400.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "j6VeKlx2EOfQUKBPc9aZgb0KDkiQhlCAxCDWbfN0gE5P1AWBXJsHYhfDtY1wBwGeVzrJATLVPeqqvfh7NErgGtQuMCRM21DxlUz3Q7nt74aSc8QiCMRu0RvU4IMbM6OcAy5K+1ZGRBBV8hPWGTofW9n61tK8DFdoUnaQscLI3t/bukU6Umq27roA5tZkqOR0xvHlMDv3BoxK6iUBdQwxM3fPrB8Lg+5kRiQYHohwmfpvW5L4FOXrj8BUHzr71xTPgl3+Q18xuM0RqXf9tiPbPOl8B9cxur8uCjT0ASQWTN98NXmRfR0BhxSDCF/kuqOthBSjOUv9D1zSw+y+xRVAgsyOz00Tr3xfXtebeJNNQiDjzBEKhjSTgJ8LBEaGhKg0fGamJO/Tu3JKqjA2P9FtkIA32m6qxwZpGm5oFpdTUOlEvZlWpPvGC+9HGutLZzjb/VcK5knrijWDUg4lRqp02m0srpC/XcqBOkxvaDRcgHZQ2qta0XcQxKtLNjniVMR/KdmF732zMBycwL/60dEPlQ==;Eg/19T8sW+sr3QlgP2YkLg=="
 ---

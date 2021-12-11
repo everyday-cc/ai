@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-08T12:08:00Z
 originalUrl: "https://www.reuters.com/technology/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2021-12-08/"
 webUrl: "https://www.reuters.com/technology/qualcomms-ai-chip-chief-departs-take-helm-startup-memryx-2021-12-08/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63"
