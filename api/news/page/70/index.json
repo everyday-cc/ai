@@ -2,49 +2,6 @@
   "page": 70,
   "value": [
     {
-      "path": "_news/2021-10-19-hearing-loss-researcher-and-other-experts-say-ai-can-transform-hearing-healthcare-and-research.md",
-      "title": "Hearing-loss researcher and other experts say AI can transform hearing healthcare and research",
-      "excerpt": "In a paper published online in the journal Nature Machine Intelligence, experts from the U.K. and U.S. call for artificial intelligence to be applied to advancing research and developing new therapies to meet the growing global demand for hearing care.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-hearing.jpg",
-          "width": 2880,
-          "height": 1744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-10-hearing-loss-experts-ai-healthcare.amp",
-      "publishedDateTime": "2021-10-18T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-10-19-ico-to-step-in-after-schools-use-facial-recognition-to-speed-up-lunch-queue.md",
       "title": "ICO to step in after schools use facial recognition to speed up lunch queue",
       "excerpt": "Privacy campaigners raise concerns after nine schools in North Ayrshire scan faces of pupils to take payments",
@@ -1142,6 +1099,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-18-finch-capitals-state-of-european-fintech-as-record-amounts-of-capital-is-raised-signs-emerging-that-the-fintech-blast-is-slowing.md",
+      "title": "Finch Capital’s State of European FinTech: as Record Amounts of Capital Is Raised, Signs Emerging That the FinTech Blast Is Slowing",
+      "excerpt": "Few deals drive FinTech volumes, record number of mid-market M&A transactions, but European capital markets remain elusive for FinTech Today Finch Capital issued the 6th edition of its annual State of European FinTech Report for 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/transaction-banking/finch-capitals-state-european-fintech-record-amounts-capital-raised-signs",
+      "originalUrl": "https://financialit.net/news/transaction-banking/finch-capitals-state-european-fintech-record-amounts-capital-raised-signs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/all/themes/fin/img/android-btn.png",
+          "width": 646,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-18T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

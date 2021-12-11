@@ -2,49 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-12-03-google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project.md",
-      "title": "Google ethical AI co-lead Timnit Gebru launches own research project",
-      "excerpt": "Google scientist Dr Timnit Gebru's exit exposes rift in its ethical AI unit, head Jeff Dean faces criticism. Gebru was ousted from Google after a falling out with manag",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2020/12/Dr-Timnit-Gebru-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html/amp",
-      "publishedDateTime": "2021-12-03T02:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-03-computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year.md",
       "title": "Computing Security Awards 2021: Heimdal™ Wins AI and Machine Learning-Based Security of the Year",
       "excerpt": "We are delighted to announce that Heimdal™ secured first place in the AI and Machine Learning-Based Security of the Year category at the Computing Security Awards 2021.",
@@ -1150,6 +1107,58 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push.md",
+      "title": "Picsart acquires R&D company DeepCraft in seven-figure deal to aid video push",
+      "excerpt": "The company believes DeepCraft’s AI technical talent and its breakthroughs in computer vision and machine learning will enhance Picsart’s own AI technology and help the company better support ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/",
+      "originalUrl": "https://techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Picsart_DC_04-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push/amp/",
+      "publishedDateTime": "2021-12-02T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

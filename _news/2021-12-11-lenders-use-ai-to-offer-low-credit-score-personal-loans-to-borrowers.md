@@ -2,26 +2,26 @@
 category: news
 title: "Lenders use AI to offer low credit score personal loans to borrowers"
 excerpt: "Fintech lenders are increasing their use of AI to go beyond the traditional credit scores and offer personal loans to borrowers with lower credit scores."
-publishedDateTime: 2021-12-11T02:50:00Z
-originalUrl: "https://www.fox5atlanta.com/money/lenders-ai-low-credit-score-personal-loans"
-webUrl: "https://www.fox5atlanta.com/money/lenders-ai-low-credit-score-personal-loans"
-ampWebUrl: "https://www.fox5atlanta.com/money/lenders-ai-low-credit-score-personal-loans.amp"
-cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/money/lenders-ai-low-credit-score-personal-loans.amp"
+publishedDateTime: 2021-12-10T20:15:00Z
+originalUrl: "https://www.q13fox.com/money/lenders-ai-low-credit-score-personal-loans"
+webUrl: "https://www.q13fox.com/money/lenders-ai-low-credit-score-personal-loans"
+ampWebUrl: "https://www.q13fox.com/money/lenders-ai-low-credit-score-personal-loans.amp"
+cdnAmpWebUrl: "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/money/lenders-ai-low-credit-score-personal-loans.amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: FOX 5 Atlanta
-  domain: fox5atlanta.com
+  name: Q13 FOX News
+  domain: q13fox.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2021/12/932/470/Credible-Upstart-iStock-1281297414-12-10-21-.jpg?ve=1&tl=1"
+  - url: "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2021/12/932/470/Credible-Upstart-iStock-1281297414-12-10-21-.jpg?ve=1&tl=1"
     width: 932
     height: 470
     isCached: true
@@ -44,6 +44,6 @@ related:
         height: 720
         isCached: true
 
-secured: "eGoGLePDx5u/JXShC+R3prNT+drR9UDy3WUB9N5NtBQNZTTsOFy0/sG6Si86Jl09/fcAUCiiQNAu0/ZKcnzb20ncfWiQDYcqL/HQpBbVzFf7k1AfciSR09wUIXq5ZPGG8TyARiH8jU0zzSNwW/FiXSuPZ66agT1Ed+dYAd8FtgdH3MV360K8u8b43HzNCZPS5y97BZwgQ/hRZ7qinHQ7F9ApIT0iWVqFmhp4YLNlNh7METW2bkslw+a66zaSEm++Fz3Wkq0yZtEAwf+9aE3tiMCdJMugFwF8bB6mj2q4pyDdgaDekW6eUUVsU6/NquZoilWR1442P21V0i59JbYpYUvFhDxCs4QgIEXmXzR/Bq0=;GiMu5xFDfaMSKgOuxLOEZQ=="
+secured: "kE1Ah0G0K9mYczhVAmJvXJqo/85RE/Mpi/XnnT1ZqaDfupFDb/f8EgoyrN7Vg3cMEQ4NXmTj6zl28RUKmSSVX3uX8IxG3hI4s4ibIA41FI8NMvem2po6l6i6ifbxaMs/V3bFaSiHf+wCaLoWfpwmiakTdhqCieRk8vzY9DFA1D/NSYBpF/8buOaWCab+mMa75Q9OpQh7xvPAWbMAuRkD5BebFaHyASNEKu4y0ZrGZI7WkDT0pIkq/s6rYMsFwzOMr0c1JhXNGEnvIalLBQbbTbqA0eJ73p6C3sWQAIzf39YqgrpAxi5BmemngE+QbaR8MAOdhGPCPaeK62Karcp3B5qBOVi8Ir5413IQM14sbyA=;1esZaJSn7+PB169fiEDPTg=="
 ---
 

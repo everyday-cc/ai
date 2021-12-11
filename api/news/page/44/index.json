@@ -2,49 +2,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_news/2021-11-07-deep-learning-method-detects-disease-biomarkers.md",
-      "title": "Deep Learning Method Detects Disease Biomarkers",
-      "excerpt": "Researchers at the University of Waterloo have developed a deep learning network that can detect disease biomarkers with a high degree of accuracy. It achieves 98 percent detection of peptide features in a dataset,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/deep-learning-method-detects-disease-biomarkers/",
-      "originalUrl": "https://www.unite.ai/deep-learning-method-detects-disease-biomarkers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs-SQf3vJas/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/11/analysis-2030261_1280.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-06T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-07-how-one-startup-is-shaking-up-the-consumer-trading-boom.md",
       "title": "How one startup is shaking up the consumer trading boom",
       "excerpt": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. It’s inspired by the daily TechCrunch+ column where it gets its name. Want it in your inbox every Saturday?  Happy Saturday,",
@@ -1175,6 +1132,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-05-who-is-the-robot-voice-in-finch-caleb-landry-jones-shines-as-a-bumbling-ai.md",
+      "title": "Who Is the Robot Voice in ‘Finch’? Caleb Landry Jones Shines As A Bumbling AI",
+      "excerpt": "I’m speaking of course, of the voice of the anthropomorphic robot who becomes Hanks’ son/best friend in the movie, Jeff. The premise of Finch is fairly straightforward. A series of radioactive solar flares have destroyed the ozone layer,",
+      "sourceUrl": null,
+      "webUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/",
+      "originalUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://decider.com/wp-content/uploads/2021/11/Finch-robot-voice.jpg?quality=90&strip=all&w=680&h=450",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/amp/",
+      "cdnAmpWebUrl": "https://decider-com.cdn.ampproject.org/c/s/decider.com/2021/11/05/finch-robot-voice-caleb-landry-jones/amp/",
+      "publishedDateTime": "2021-11-05T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Decider",
+        "domain": "decider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-09-shieldiot-launches-worlds-first-coreset-ai-security-platform.md",
-      "title": "ShieldIOT Launches World’s First Coreset-AI Security Platform",
-      "excerpt": "Concept: Israeli cybersecurity solutions provider ShieldIOT has rolled out the world’s first Coreset-AI security platform ... geographic presence and increase the personnel count. The startup was able to raise $7.4M in a Series A funding led by NextLeap ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-drinks.com/research-reports/shieldiot-launches-worlds-first-coreset-ai-security-platform/",
-      "originalUrl": "https://www.just-drinks.com/research-reports/shieldiot-launches-worlds-first-coreset-ai-security-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-drinks.com/wp-content/uploads/sites/36/2021/12/shutterstock_549199645.jpg",
-          "width": 500,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T22:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drinks",
-        "domain": "just-drinks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2021-12-09-self-driving-startup-robotics-research-raises-228-mln-in-funding.md",
       "title": "Self-driving startup Robotics Research raises $228 mln in funding",
       "excerpt": "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles.",
@@ -825,7 +782,7 @@
       "originalUrl": "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1193,6 +1150,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-lenovo-utilizing-artificial-intelligence-in-new-edge-computing-server-rollout.md",
+      "title": "Lenovo utilizing artificial intelligence in new edge computing server rollout",
+      "excerpt": "Lenovo Infrastructure Solutions Group (ISG) announces the expansion of the Lenovo ThinkEdge portfolio with the introduction of the new ThinkEdge SE450 server, delivering an artificial intelligence (AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.wraltechwire.com/2021/12/08/lenovo-utilizing-artificial-intelligence-in-new-edge-computing-server-rollout/",
+      "originalUrl": "https://www.wraltechwire.com/2021/12/08/lenovo-utilizing-artificial-intelligence-in-new-edge-computing-server-rollout/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg",
+          "width": 772,
+          "height": 434,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wraltechwire.com/2021/12/08/lenovo-utilizing-artificial-intelligence-in-new-edge-computing-server-rollout/?amp=1",
+      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2021/12/08/lenovo-utilizing-artificial-intelligence-in-new-edge-computing-server-rollout/?amp=1",
+      "publishedDateTime": "2021-12-08T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

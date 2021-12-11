@@ -34,21 +34,16 @@ related:
         height: 260
         isCached: true
   - title: "CITIC Telecom CPC wins 3 Industry Awards in Recognition of Innovation Excellence empowering Enterprises via ICT-MiiND Strategy"
-    excerpt: "CITIC Telecom International CPC Limited (CITIC Telecom CPC), a wholly-owned subsidiary of CITIC Telecom International Holdings Limited (SEHK: 1883), is honored to announce its winning of 3"
-    publishedDateTime: 2021-12-09T08:02:00Z
-    webUrl: "https://www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering"
-    ampWebUrl: "https://www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering?amp"
+    excerpt: "Receives CCF Big Data & Computing Intelligence Contest Award, International Innovation Awards and CAHK STAR AwardsHONG KONG, Dec 9, 2021 - (ACN Newswire) - CITIC"
+    publishedDateTime: 2021-12-09T07:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/a24517618/citic-telecom-cpc-wins-3-industry-awards-in-recognition-of-innovation-excellence-empowering-enterp"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24517618"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24517618"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 16
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/asiaone_default.jpg?itok=yY5XVIZh"
-        width: 763
-        height: 509
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "oa5QF0cgVkBlLs/Hgvif+c5U2LPnqOQbRCdh9+k1soMfdbbuhKdLtNH2bVQ5kB/NoPgBDMAAuwr8Cjlnz6V7zEkdH0yMwc4+ui98KN4csZc8mDLoHOlmm16YZcNFGMxtZBZbdgvznnHzaBwY1E1cSIrirAySJkW8y3kWu+f+10WhRufw5EaEnCm9yv5XKnZujJm7HMYkOUf7Envllu+bU2pJ9XJNPsUw/MjDaAsIyBoIDMDdYe6XPVmbl6wChvqQJi9BCdFCmgj8dAzYL2o1YoEJICZyEzwEoOBX7tc4Iw/cpdxwOgkNmwQ13q2Zx7GCxr7jfghRt1D2T3RY1OiglGwBIOMzvZPyZ+aDIDA7Woc=;luWlNdbwad9kNhCav92CNA=="
 ---

@@ -2,57 +2,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_news/2021-11-04-the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4.md",
-      "title": "The Huge Market Failure Of AI And The Sequence Of Events That Led Us To It (Part 4)",
-      "excerpt": "The real revolutionary potential in AI lies not in the specific capabilities of a single solution (however sophisticated) but rather in establishing an AI multiplier that will enable efficient and scalable deployment of dozens of AI solutions within each enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61095f169be9fec2c781acb3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/amp/",
-      "publishedDateTime": "2021-11-04T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-04-gelsight-partners-with-meta-ai-to-democratize-digital-tactile-sensing.md",
       "title": "GelSight Partners with Meta AI to Democratize Digital Tactile Sensing",
       "excerpt": "GelSight will commercially manufacture the DIGIT sensor to increase access and enable new tactile applications in robotics and beyond",
@@ -1184,6 +1133,49 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-11-04-why-big-tech-wants-some-facial-recognition-rules.md",
+      "title": "Why Big Tech Wants (Some) Facial Recognition Rules",
+      "excerpt": "The world’s biggest technology companies can usually be counted on to oppose rules reining in new products, but some have been making an exception for facial recognition software. That’s not to say that any consensus has developed on this rapidly developing branch of artificial intelligence: The European Union and cities and states across the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/11/03/8212fa46-3cdc-11ec-bd6f-da376f47304e_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/why-big-tech-wants-some-facial-recognition-rules/2021/11/03/8212fa46-3cdc-11ec-bd6f-da376f47304e_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QFHZHAB43QI6ZPLP3I3W6RZQJY.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-03T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     }
   ],

@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Why Chatbots Failed and the Future of Conversational AI"
-    excerpt: "One of the first uses of AI in customer service was in chatbots. These days, “chatbot” almost sounds like a dirty word. It comes up again and again in my conversations with ot"
-    publishedDateTime: 2021-12-07T06:30:00Z
-    webUrl: "https://www.entrepreneur.com/article/400644"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 67
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1638547674-GettyImages-1206801125.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Common but Different Futures: AI Inequity and Global Emissions"
     excerpt: "Some researchers and policymakers suggest that Artificial Intelligence or AI will provide the most game-changing solutions to climate change."
     publishedDateTime: 2021-12-09T06:57:00Z

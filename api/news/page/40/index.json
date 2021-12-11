@@ -2,49 +2,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_news/2021-11-09-thinking-through-the-ethics-of-new-techbefore-theres-a-problem.md",
-      "title": "Thinking Through the Ethics of New Tech…Before There’s a Problem",
-      "excerpt": "There’s a familiar pattern when a new technology is introduced: It grows rapidly, comes to permeate our lives, and only then does society begin to see and address the problems it creates. But is it possible to head off possible problems?",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem?ab=hero-main-text",
-      "originalUrl": "https://hbr.org/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem?ab=hero-main-text",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2021/11/Nov21_09_80488495.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem",
-      "publishedDateTime": "2021-11-09T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-09-mediamath-and-ibm-watson-advertising-strengthen-relationship-to-deliver-transparent-addressable-weather-based-ad-targeting.md",
       "title": "MediaMath and IBM Watson Advertising Strengthen Relationship to Deliver Transparent, Addressable Weather-Based Ad Targeting",
       "excerpt": "an IBM Business, Watson Advertising Weather Targeting marries weather's ability to help drive action with Watson AI's capability to aggregate and analyze complex data sets. This unique combination ...",
@@ -1206,6 +1163,49 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-nvidia-as-full-stack-provider-puts-focus-on-autonomy-for-vehicles-and-everything-that-moves.md",
+      "title": "Nvidia as ‘full stack’ provider puts focus on autonomy for vehicles and ‘everything that moves’",
+      "excerpt": "With so much attention focused by automakers on autonomous and electric vehicles, Nvidia has pushed out two new AI platforms to boost the digital experience inside the vehicle. In a GTC keynote on Tuesday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fierceelectronics.com/electronics/nvidia-as-full-stack-provider-puts-focus-autonomy-for-vehicles-and-everything-moves",
+      "originalUrl": "https://www.fierceelectronics.com/electronics/nvidia-as-full-stack-provider-puts-focus-autonomy-for-vehicles-and-everything-moves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fierceelectronics/1636406028/nvidia%20drive%20dashboard%20image.jpg?VersionId=XHqJf7gkR6fdQiMZfZ01ffKyL58CoQuw",
+          "width": 774,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-09T00:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fierceelectronics",
+        "domain": "fierceelectronics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

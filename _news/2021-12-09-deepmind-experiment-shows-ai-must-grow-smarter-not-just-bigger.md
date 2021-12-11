@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2300657-deepmind-experiment-sho
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://imgk.timesnownews.com/story/iStock-1284335972.jpg?tr=w-400,h-300,fo-auto"
         width: 400
         height: 300
-        isCached: true
-  - title: "DeepMind & Mathematicians Use AI To Solve The Knot Problem"
-    excerpt: "It is the first time that AI/computer is being used to seek out patterns. Researchers believe that this could benefit other areas of maths that involve large datasets."
-    publishedDateTime: 2021-12-07T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-mathematicians-use-ai-to-solve-the-knot-problem/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/DeepMind_AIM.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "9XKmLd+mrExoP/2muNo3PA8jagbrIplqd7x35tBQcQVoUA7cp7+kM1Sd/L79G0+rFtQ7F963lN1o07CCWuAdaDOMPaVqlhu4FS2LVefWECPCEgVsRxaQXwqarWT6zXeFX77Qh02wqtN2JI3UuMNEn45Wdv6LEhZi12gVNo4aFqKThOImHqHH2x+3hdT72Dr3fXPXGNE03beJ4FrUJFsc4zCjsFI7DnObF9ya0nCZK/wfChhRZ4+cGzM+4ItecamxweTHlVu/732A7Ne+gcKvXBru1SUtnx4Gl5NsuAzSmtRhn+q0B9CXd7PiGKVp9s9LjKHs7EyKqxhyDk0L7N5VQCSc9YvjiisNQtj6+d3Cv7i9lvZb9NMXJgggs+VQtUmAWJfgyWpPNAy9zckh8SvywzhT7iDZ6Ois4LWejp9hiAGDEyiWoylF3kunWoXBslhEa3eGSC51nSvvwRWU7csZlP9CzKVNJLe4+3WXRthKxJOsib6Xt7XbuzULQHn7rc5k2RapBukzmwFlKxvUy5k+Mg==;csQQ6+wGl2kjqxYcyFVIBg=="

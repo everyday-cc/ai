@@ -2,58 +2,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2021-11-10-timnit-gebru-says-artificial-intelligence-needs-to-slow-down.md",
-      "title": "Timnit Gebru Says Artificial Intelligence Needs to Slow Down",
-      "excerpt": "Artificial intelligence researchers are facing a problem of accountability: How do you try to ensure decisions are responsible when the decision maker is not a responsible person, but rather an algorithm?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
-      "originalUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6189c83d08983f9bcb06800e/master/pass/Timnit-Gebru.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/rewired-2021-timnit-gebru/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/rewired-2021-timnit-gebru/amp",
-      "publishedDateTime": "2021-11-09T13:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-10-azure-machine-learning-for-predictive-and-analytical-work.md",
       "title": "Azure Machine Learning for Predictive and Analytical Work",
       "excerpt": "Let me tell you about some unnoticed services that deserve attention of those, who want to be ahead of the game. Azure Machine Learning is a cloud service designed to carry out predictive and analytical work. Simply put, it’s an instrument that allows ...",
@@ -1168,6 +1116,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-thinking-through-the-ethics-of-new-techbefore-theres-a-problem.md",
+      "title": "Thinking Through the Ethics of New Tech…Before There’s a Problem",
+      "excerpt": "There’s a familiar pattern when a new technology is introduced: It grows rapidly, comes to permeate our lives, and only then does society begin to see and address the problems it creates. But is it possible to head off possible problems?",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem?ab=hero-main-text",
+      "originalUrl": "https://hbr.org/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem?ab=hero-main-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/11/Nov21_09_80488495.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/11/thinking-through-the-ethics-of-new-techbefore-theres-a-problem",
+      "publishedDateTime": "2021-11-09T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

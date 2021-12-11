@@ -2,17 +2,17 @@
 category: news
 title: "In robotics demonstration, Sacred Heart Greenwich students see SPOT run — and more"
 excerpt: "It is not often that one can say Sacred Heart Greenwich has gone to the dogs, but that was the case Friday — to the delight of hundreds of students. For a special end to computer science week at the all-girls private school,"
-publishedDateTime: 2021-12-11T04:34:00Z
-originalUrl: "https://www.houstonchronicle.com/news/article/In-robotics-demonstration-Sacred-Heart-Greenwich-16692491.php"
-webUrl: "https://www.houstonchronicle.com/news/article/In-robotics-demonstration-Sacred-Heart-Greenwich-16692491.php"
+publishedDateTime: 2021-12-11T03:34:00Z
+originalUrl: "https://www.greenwichtime.com/news/article/In-robotics-demonstration-Sacred-Heart-Greenwich-16692491.php"
+webUrl: "https://www.greenwichtime.com/news/article/In-robotics-demonstration-Sacred-Heart-Greenwich-16692491.php"
 type: article
 quality: 48
 heat: 48
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
+  name: Greenwich Time
+  domain: greenwichtime.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 1384
     isCached: true
 
-secured: "BaZi2HekpbaOfOaRBWLY8e/TC0+6YR5TZskdMq5i30M2arjLg2q3NeceAqLa+o81JKw894Z8HBHwydNpyC5Y81PhFjiazN2gs6ZC95qo/J3Q+yDuUu9hb07TeB0K7v/KREISSNEN8ymRqK1kyjQhY+lfPt0HHA6fpfHOYTwDjybvZzhvyInQF+3UH2PNDhitWoy4JLaP3TumE/QNnxiwL9sx4qxZEKHG1bnwS+AigM0k4FcWafVaHfhI/GZ4zUhMDoCjiUWqcQU3+NsJ15oTUE36tImFnmeUSU8s8nqTTk+YXy6il7qb/T1bN+dnwNNXqYBQk5acR3EhmmDQHj8hDnai/8+o7LIzPvx7OweQynkKWnotRcdbil8XEnHZfKzl/J79RXZR9/FADDWQpra3CiVMVeUyDJwYAUHx5tZEXcUQWeMqIPFscjVEbrawrZ9uJZQSfnnOyuL7nmzVW3+7ssKUGDddCvKE+HVt+g17BpeqsWSSXUvkr8tJYFiChCSrQ3L0K0fCdJiO9xFfAnEaJQ==;EOcSU6bxqI0fdSjNo6AquQ=="
+secured: "hUyIPSqqu2gLnKRrnpqXLk2oYU/yMaIfAoSUuHLFWe5y7RNNGsRf/LWUDcRjbSmLkMRvdbF4PtVZjercmqLFkTLMrd92digY9WanSpGccQqjaW5Sktok9PMzpo1x+vUkx3ln193oG3h8yrNDRudvP+/ckN1GJqkN8LZKmk0rwXA7EqxRFemVc6TNb8RYyTTrH9K3gfvBvrqXv8aeE+JGZU2Nkb/WC6qaqCz+ukpNr18RHagHTFJkiXsMM+v8IwcVLp6v3fGxB56bQqPRwc7fdmW2Mhva+NI5Z84/PUYNvgtYKGsnRGjKoPknSve4sPi7FqmujyEEK2EfLOA/rr9v99I8xgtfBGu1L/XMo7tKGmU=;t7AoGAwBYLvXG3rg6TN9Qg=="
 ---
 

@@ -2,58 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2021-11-27-microsoft-launches-fully-managed-azure-load-testing-service.md",
-      "title": "Microsoft launches fully managed Azure Load Testing service",
-      "excerpt": "Microsoft has launched a fully managed load testing service for Azure, helping QA testers and developers optimize their app's performance.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/",
-      "originalUrl": "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/GettyImages-1306394018-e1615886711349.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/30/microsoft-launches-fully-managed-azure-load-testing-service/amp/",
-      "publishedDateTime": "2021-11-26T15:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-11-27-ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines.md",
       "title": "AI Weekly: UN recommendations point to need for AI ethics guidelines",
       "excerpt": "The United Nations' new AI ethics regulations point to growing recognition of the need for AI ethics guidelines.",
@@ -1143,6 +1091,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros.md",
+      "title": "Artificial intelligence in the healthcare sector: Lindera successfully closes financing round of six million euros",
+      "excerpt": "Lindera– one of the leading deep-tech companies in the field of computer vision – has successfully closed a Series A financing round. The Berlin-based health-tech company is receiving additional growt",
+      "sourceUrl": null,
+      "webUrl": "https://www.djournal.com/artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros/article_db459d96-a723-5570-98bc-9f77961f3171.html",
+      "originalUrl": "https://www.djournal.com/artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros/article_db459d96-a723-5570-98bc-9f77961f3171.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/a/12/a12a1954-7d37-5490-aa80-d0bb0d17c216/619fa25c6fc1b.image.jpg?crop=1272%2C668%2C3%2C0&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Journal",
+        "domain": "djournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

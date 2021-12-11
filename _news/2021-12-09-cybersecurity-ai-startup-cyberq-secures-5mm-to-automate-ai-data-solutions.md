@@ -38,20 +38,6 @@ related:
         width: 500
         height: 334
         isCached: true
-  - title: "Serbia launches first National Artificial Intelligence platform"
-    excerpt: "The first National Artificial Intelligence platform in Serbia was launched on Monday at the State Data Centre in the town of Kragujevac. President Aleksandar Vucić said at the opening that the national data centre will allow access to all information from medical centres across the country later this week."
-    publishedDateTime: 2021-12-07T06:25:00Z
-    webUrl: "https://www.euractiv.com/section/politics/short_news/serbia-launches-first-national-artificial-intelligence-platform/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 37
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/11/w_57273813-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "gKlvA/vDX1y9kZ0PcbuRA5HR8aYq8zylNQP4q/o+gf6h6ugZH1QGYQ0VXlNxuXBbLitOq/VAMRK36Ahq6QQUI/BES8Pth2ZsFP8GpiGKj2U5VupL7n+hfU8VDJiVwPDf2mAULoYw2qtxPMVx/x3lVQLfDePgJQXEp8LSiyEWYzFDg0JSgsHjbalDAt0+mcdz6FG1DgHV1rYyyxn9dchpqq2A+S1eTUoKIlY5k05f/I11p7I4/uD7qXPlKeXH95MfhlnLNzIWhcI4K5c8cU1i5HnSepwajpcjgDH/hCj0WVxO+nK/kIiTezJmcQU+b2KsgyHxBPM98AKNBczpO4YzmubqADqTyGZanwtJNowh/7A=;a0b3jx4Q+RDHTD4iX8uhsw=="
 ---

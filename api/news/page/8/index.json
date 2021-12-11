@@ -2,57 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-12-04-how-to-turn-ai-failure-into-ai-success.md",
-      "title": "How to turn AI failure into AI success",
-      "excerpt": "Enterprises are racing into AI-driven analytics and processes, but there will be a steep learning curve before certain advances are made.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/",
-      "originalUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/data-e1619691430527.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/",
-      "publishedDateTime": "2021-12-03T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-04-15-essential-alexa-skills-that-amazons-ai-assistant-can-learn-to-help-make-your-life-easier.md",
       "title": "15 essential Alexa skills that Amazon's AI assistant can learn to help make your life easier",
       "excerpt": "Amazon Alexa skills allow you to customize the artificially intelligent assistant to suit all sorts of needs.",
@@ -1202,6 +1151,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project.md",
+      "title": "Google ethical AI co-lead Timnit Gebru launches own research project",
+      "excerpt": "Google scientist Dr Timnit Gebru's exit exposes rift in its ethical AI unit, head Jeff Dean faces criticism. Gebru was ousted from Google after a falling out with manag",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2020/12/Dr-Timnit-Gebru-770x433.jpg?impolicy=website&width=770&height=431",
+          "width": 770,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html/amp",
+      "publishedDateTime": "2021-12-03T02:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

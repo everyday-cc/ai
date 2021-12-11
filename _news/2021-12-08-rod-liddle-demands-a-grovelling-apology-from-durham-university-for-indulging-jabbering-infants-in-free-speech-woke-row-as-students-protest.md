@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/news/article-10288183/amp/Rod-Liddle-dem
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10288183/amp/Rod-Liddle-demands-grovelling-apology-Durham-University.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Hundreds of woke students take to the streets to demand sacking of Durham University's Professor Tim Luckhurst after he branded them 'pathetic' in free speech row"
-    excerpt: "Around 200 students gathered at Durham University this afternoon to protest about the row that blew up following a speech by writer Rod Liddle at an end of year event."
-    publishedDateTime: 2021-12-08T18:58:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-10289371/Hundreds-woke-students-streets-demand-sacking-Durham-University-Professor.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-10289371/amp/Hundreds-woke-students-streets-demand-sacking-Durham-University-Professor.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10289371/amp/Hundreds-woke-students-streets-demand-sacking-Durham-University-Professor.html"
+  - title: "Durham University Rod Liddle free speech ringleader is a Jeremy Corbyn fan who stood for Labour"
+    excerpt: "Sean Hannigan, 22, (pictured) is one of the ringleaders of the student backlash against Rod Liddle's speech at Durham University and a Jeremy Corbyn supporter who stood for the Labour Party."
+    publishedDateTime: 2021-12-11T21:23:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10300043/Durham-University-Rod-Liddle-free-speech-ringleader-Jeremy-Corbyn-fan-stood-Labour.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10300043/amp/Durham-University-Rod-Liddle-free-speech-ringleader-Jeremy-Corbyn-fan-stood-Labour.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10300043/amp/Durham-University-Rod-Liddle-free-speech-ringleader-Jeremy-Corbyn-fan-stood-Labour.html"
     type: article
     provider:
       name: Daily Mail
       domain: dailymail.co.uk
-    quality: 0
+    quality: 32
     images:
-      - url: "https://i.dailymail.co.uk/1s/2021/12/08/18/51508543-0-image-a-2_1638988016729.jpg"
+      - url: "https://i.dailymail.co.uk/1s/2021/12/11/21/51494463-0-image-a-5_1639259525581.jpg"
         width: 636
         height: 382
         isCached: true

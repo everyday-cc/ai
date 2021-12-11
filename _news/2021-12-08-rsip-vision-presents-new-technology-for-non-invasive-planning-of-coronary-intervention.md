@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "RSIP Vision unveils coronary artery 3D reconstructions"
-    excerpt: "Computer software and artificial intelligence firm RSIP Vision has introduced software that generates 3D reconstructions of coronary arteries from angiography exams."
-    publishedDateTime: 2021-12-10T19:07:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=134526"
+  - title: "Baxter touts data supporting use of machine learning for infusion pump programming"
+    excerpt: "Baxter announced today that data shows the potential for machine learning supporting decision-making with infusion pump programming."
+    publishedDateTime: 2021-12-08T14:32:00Z
+    webUrl: "https://www.massdevice.com/baxter-touts-data-supporting-use-of-machine-learning-for-infusion-pump-programming/"
     type: article
     provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 24
+      name: MassDevice
+      domain: massdevice.com
+    quality: 35
     images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2021_09_14_17_40_3190_heart_artificial_intelligence_AI_400.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.massdevice.com/wp-content/uploads/2018/10/baxter-large.jpg"
+        width: 770
+        height: 500
         isCached: true
+  - title: "Baxter Presents Data at ASHP Meeting Indicating Machine Learning May Enhance Infusion Pump Programming Safety"
+    excerpt: "Baxter International Inc. (NYSE:BAX), a leader in innovative technology for medication delivery, announced new data from a retrospective study finding that machine learning, a type of artificial intelligence (AI) that uses algorithms to find patterns in large amounts of data,"
+    publishedDateTime: 2021-12-08T13:30:00Z
+    webUrl: "https://www.financialbuzz.com/baxter-presents-data-at-ashp-meeting-indicating-machine-learning-may-enhance-infusion-pump-programming-safety/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "fWuXJW5DlOfOE2W4HTvwsd67O3wP7+1FFEhr1TJnApNtrQkNbeZLxObtltO3ybzzGWxv4NMDZ9sJe+QbDNs3luSv6nefu3GMyIdDrOeoHUN4l99mVKH2zKH4BukypjLpvnnsSFslA9GTxShAPnCE7sgtPVFvv78iTGRqEmd0zO8ApcDH8n1frfE+G059arjrO3IkJ2TLZJotmVbLv6/XGQTaU3k8qi1XPN6NzshUu6kZnBMKs4VogZdF3PR1zfK38NZyDMl00xbAP/Iu0voNfXFXHVRvejV3/Vgq+Mt0fpEeEmeM5eZsiM+gJF2r469jTgO+qqW0wM9ppCec3Zc7yg4o+tNQxWHZ2uvdkyuzETE=;BGJHfDq9wmB+eceqkvWQ9A=="
 ---

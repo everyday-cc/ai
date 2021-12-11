@@ -35,21 +35,16 @@ related:
       domain: telecompaper.com
     quality: 19
   - title: "CITIC Telecom CPC wins 3 Industry Awards in Recognition of Innovation Excellence empowering Enterprises via ICT-MiiND Strategy"
-    excerpt: "CITIC Telecom International CPC Limited (CITIC Telecom CPC), a wholly-owned subsidiary of CITIC Telecom International Holdings Limited (SEHK: 1883), is honored to announce its winning of 3"
-    publishedDateTime: 2021-12-09T08:02:00Z
-    webUrl: "https://www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering"
-    ampWebUrl: "https://www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering?amp"
+    excerpt: "Receives CCF Big Data & Computing Intelligence Contest Award, International Innovation Awards and CAHK STAR AwardsHONG KONG, Dec 9, 2021 - (ACN Newswire) - CITIC"
+    publishedDateTime: 2021-12-09T07:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/a24517618/citic-telecom-cpc-wins-3-industry-awards-in-recognition-of-innovation-excellence-empowering-enterp"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24517618"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24517618"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 16
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/asiaone_default.jpg?itok=yY5XVIZh"
-        width: 763
-        height: 509
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "Q9vjuWwxLR4OHM+FT7VB3rzXLNOfhaBPglZsoa97B2Z1xjsFuXR79F7U8Wfdvykl+HsSb0T1KwJUOuSXqn+q8b+WEV2tmzRpA1e6MZw/c7QwI9h2xxjUdCGgRRcIIle+uaNlxo7gbQXBNjWwmOLfgeP6OQK0R/5797TH1duVjSnPwFbmKEHKd9kS/1tGKsF/6FrezCGq7nv//nx7pJD0mSM0QrCj+7j5RWsAIAdOode/was2a6uaNgkFKsDUQehn4zUF/nHkPwCMFzAgZ0Ou80ukuWebRbQ7UsMJ1z5EtHrwLDVE3jVCizrsy6nqLOvf5B6ui52mDGdI05rciDvSF7OFrCpdLXJnf5KPVycq/us=;+xo+40VQalhlrj3vhsOQ5w=="
 ---

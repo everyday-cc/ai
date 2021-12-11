@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elo
 webUrl: "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve"
 type: article
 quality: 86
-heat: 106
+heat: 86
 published: true
 
 provider:
@@ -28,28 +28,6 @@ images:
     width: 1280
     height: 640
     isCached: true
-
-related:
-  - title: "Inside Tesla as Elon Musk pushed an unflinching vision for self-Driving cars"
-    excerpt: "Tesla may have undermined safety in designing its driver-assistance system to fit CEO Elon Musk’s vision, former employees said. Now the NHTSA is investigating at least 12 accidents in which Teslas using Autopilot drove into parked vehicles."
-    publishedDateTime: 2021-12-07T05:03:00Z
-    webUrl: "https://www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/"
-    ampWebUrl: "https://www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 38
-  - title: "Tesla looking for AI engineers who can solve problems affecting people’s lives"
-    excerpt: "As always, Tesla is looking for hardcore AI engineers who care about solving problems that directly affect people’s lives in a major way. — Elon Musk (@"
-    publishedDateTime: 2021-12-07T05:48:00Z
-    webUrl: "https://techstory.in/tesla-looking-for-ai-engineers-who-can-solve-problems-affecting-peoples-lives/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 32
 
 secured: "8E9kn5LjQxJYLOxh9TGmwm3wTLO3pn5iVrCp/8uX4MX4XKvsS3qhOhrhcxsS4P0hdju9ynLwz5gKZXWRGMNVntfYtTqrH6UhvQFnq/NHa7uyLtwJnzcScKeRkM76RmkdkRFsItQIMU2VkdnaFiZyTOdRgWfkFrvliUKUq06DcSFAxpIap6lgq6uffM4lnJr1Gggn1bawYco3+/JjXhL6QFa0AAiViumgBm1meKfRmx70jIslX4Wh8thIo8zxVzRUDcuzwyrg2C24WgTQ7+hZZaiAw0qae3uVwUI8QcDYy3abdOlnMmo1MABtBql03zYdBIPYgUS6pe4UuQqpgzhkk/X+JmcL0kBMGgo0rY6m8brUDDCwmezQtkmaex3r14S9adK9MvKLtbdkBYWYseb0qp2ASqvr6Isi3GumYMChdtigG32t8C6oMG8OpXh+NM9q+3VFK5nf7yiDrHDmrDuG8M9wacpO05f/cOneGQ1BAHCOUWFpCCWzetP+jApjqcTaRnXvnqlgAf36rHrclGbkFQ==;b3lpmTKYV6H6q+FoKGxmPQ=="
 ---

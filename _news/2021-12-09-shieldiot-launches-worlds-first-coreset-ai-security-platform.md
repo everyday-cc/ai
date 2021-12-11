@@ -7,8 +7,8 @@ originalUrl: "https://www.just-drinks.com/research-reports/shieldiot-launches-wo
 webUrl: "https://www.just-drinks.com/research-reports/shieldiot-launches-worlds-first-coreset-ai-security-platform/"
 type: article
 quality: 54
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Drinks
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Serbia launches first National Artificial Intelligence platform"
-    excerpt: "The first National Artificial Intelligence platform in Serbia was launched on Monday at the State Data Centre in the town of Kragujevac. President Aleksandar Vucić said at the opening that the national data centre will allow access to all information from medical centres across the country later this week."
-    publishedDateTime: 2021-12-07T06:25:00Z
-    webUrl: "https://www.euractiv.com/section/politics/short_news/serbia-launches-first-national-artificial-intelligence-platform/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 37
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2021/11/w_57273813-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "CyberSecurity AI startup CyberQ secures 5Mm to automate AI data solutions"
     excerpt: "CyberQ Technologies Inc. has raised 5Mm in seed funding to expand its expert team of outcome based solution providers.Turing Technology Group (TTG) led the seed round. The new funding will help grow the team and expand recruiting,"
     publishedDateTime: 2021-12-08T18:12:00Z
