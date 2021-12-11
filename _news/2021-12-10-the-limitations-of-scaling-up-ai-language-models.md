@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "The Myth of Artificial Intelligence"
-    excerpt: "The Age of AI works to take the debate about artificial intelligence off the table by obscuring the relevant technologies and the political economy behind them. Its title alone— The Age of AI: And Our Human Future —declares an epoch and aspires to speak on behalf of everyone."
-    publishedDateTime: 2021-12-08T10:08:00Z
-    webUrl: "https://prospect.org/culture/books/myth-of-artificial-intelligence-kissinger-schmidt-huttenlocher/"
-    type: article
-    provider:
-      name: The American Prospect
-      domain: prospect.org
-    quality: 39
-    images:
-      - url: "https://prospect.org/downloads/17263/download/ND21%20Whittaker-Suchman.jpeg?cb=2453342ee267685544e111e7618379c5&w=1200"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Items tagged with ai language model"
     excerpt: "Its most recent findings come from a 280 billion parameter language model named Gopher. The thought of an AI robot having natural conversations with humans has been the focus of many science fiction movies."

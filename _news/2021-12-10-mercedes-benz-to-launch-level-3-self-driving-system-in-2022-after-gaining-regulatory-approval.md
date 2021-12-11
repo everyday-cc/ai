@@ -119,14 +119,14 @@ related:
         isCached: true
   - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
     excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
-    publishedDateTime: 2021-12-11T12:01:00Z
-    webUrl: "https://www.sunherald.com/news/business/article256490316.html"
-    ampWebUrl: "https://amp.sunherald.com/news/business/article256490316.html"
-    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article256490316.html"
+    publishedDateTime: 2021-12-11T14:00:00Z
+    webUrl: "https://www.thenewstribune.com/news/business/article256490316.html"
+    ampWebUrl: "https://amp.thenewstribune.com/news/business/article256490316.html"
+    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article256490316.html"
     type: article
     provider:
-      name: Biloxi Sun Herald
-      domain: sunherald.com
+      name: News Tribune
+      domain: thenewstribune.com
     quality: 39
   - title: "Mercedes-Benz self-driving car technology approved for use"
     excerpt: "Approval of the self-driving system paves the way for it to be offered to customers where national legislation allows its use."

@@ -25,66 +25,137 @@ images:
     isCached: true
 
 related:
-  - title: "The limitations of scaling up AI language models"
-    excerpt: "In a panel at NeurIPS 2021, experts discussed the limitations of training larger and larger natural language models akin to OpenAI's GPT-3."
-    publishedDateTime: 2021-12-10T14:30:00Z
-    webUrl: "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/"
-    ampWebUrl: "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/01/GPT-3-applications-products-startups-cropped.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Language Modelling at Scale: Gopher, Ethical considerations, and Retrieval"
-    excerpt: "We are releasing three papers on language models, Gopher, Ethical considerations, and Retrieval."
-    publishedDateTime: 2021-12-08T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/language-modelling-at-scale"
+  - title: "Simulating matter on the quantum scale with AI"
+    excerpt: "Using neural networks to model electron interactions in molecules and materials, advancing the state-of-the-art towards the long-standing challenge of the density functional in quantum chemistry"
+    publishedDateTime: 2021-12-09T00:00:00Z
+    webUrl: "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI"
     type: article
     provider:
       name: DeepMind
       domain: deepmind.com
-    quality: 89
+    quality: 189
     images:
-      - url: "https://lh3.googleusercontent.com/6LUqTcdYHclfg9MX2IFrDmlnqUVyi7rQJU4PNRBuXOfqwV8srvuj41E8AW_NduDnvj_sTHnvCw1N72TQKxdIrZhs6lM-WwcUyjpHohHStQzSPo1DCBw"
+      - url: "https://lh3.googleusercontent.com/sbg0s5HRyjgaED1YsDARdTCWIS4nO0lR2kaC1j0016qpQa6rM7G26aIUSOWfgZATVsh0jRZ1v3Jjfb8Yd4nzX-0OYrHSK1u0NJO5b51kCqPlGuAGdQ"
         width: 512
         height: 288
         isCached: true
-  - title: "Naver’s large language model is powering shopping recommendations"
-    excerpt: "In an interview with VentureBeat, South Korea search giant Naver explained how it's using large language models to power new user experiences."
-    publishedDateTime: 2021-12-07T20:40:00Z
-    webUrl: "https://venturebeat.com/2021/12/07/navers-large-language-model-is-powering-shopping-recommendations/"
-    ampWebUrl: "https://venturebeat.com/2021/12/07/navers-large-language-model-is-powering-shopping-recommendations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/navers-large-language-model-is-powering-shopping-recommendations/amp/"
+  - title: "The therapists using AI to make therapy better"
+    excerpt: "Researchers are learning more about how therapy works by examining the language therapists use with clients. It could lead to more people getting better, and staying better."
+    publishedDateTime: 2021-12-07T13:16:00Z
+    webUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/"
+    ampWebUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 76
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
+  - title: "The power of AI can be unleashed with a focus on ethics"
+    excerpt: "An EY survey reveals the public’s concerns around the growing use of artificial intelligence – but also the opportunities for organisations that take the right ethical approach."
+    publishedDateTime: 2021-12-09T06:00:00Z
+    webUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics"
+    ampWebUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
     quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"
+      - url: "https://www.computerweekly.com/visuals/German/article/ethics-morals-3-adobe.jpg"
         width: 1200
-        height: 600
+        height: 400
         isCached: true
-  - title: "Items tagged with ai language model"
-    excerpt: "Its most recent findings come from a 280 billion parameter language model named Gopher. The thought of an AI robot having natural conversations with humans has been the focus of many science fiction movies."
-    publishedDateTime: 2021-12-09T17:01:00Z
-    webUrl: "https://hothardware.com/tags/ai-language-model"
+  - title: "Ancient information combined with Artificial Intelligence aimed at creating wealth and well-being"
+    excerpt: "The “tea, spices and wellness” project led by Ioncure Tech Pvt Ltd, aims to connect herb cultivators in remote tribal areas with urban consumers, building a sustainable supply chain using AI"
+    publishedDateTime: 2021-12-08T16:30:00Z
+    webUrl: "https://www.nationalheraldindia.com/science-tech/ancient-information-combined-with-artificial-intelligence-aimed-at-creating-wealth-and-well-being"
+    ampWebUrl: "https://www.nationalheraldindia.com/amp/story/science-tech/ancient-information-combined-with-artificial-intelligence-aimed-at-creating-wealth-and-well-being"
+    cdnAmpWebUrl: "https://www-nationalheraldindia-com.cdn.ampproject.org/c/s/www.nationalheraldindia.com/amp/story/science-tech/ancient-information-combined-with-artificial-intelligence-aimed-at-creating-wealth-and-well-being"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
+      name: National Herald
+      domain: nationalheraldindia.com
+    quality: 61
+    images:
+      - url: "https://gumlet.assettype.com/nationalherald%2F2021-08%2F7861b76f-0b7c-41ce-ab55-bdae2c7f09ae%2F19284592_403.jpg?rect=0%2C18%2C940%2C494&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 940
+        height: 494
+        isCached: true
+  - title: "Simulating matter on the nanoscale with AI"
+    excerpt: "In a paper published today in the scientific journal Science, DeepMind demonstrates how neural networks can be used to describe electron interactions in chemical systems more accurately than existing methods."
+    publishedDateTime: 2021-12-09T19:00:00Z
+    webUrl: "https://phys.org/news/2021-12-simulating-nanoscale-ai.html"
+    ampWebUrl: "https://phys.org/news/2021-12-simulating-nanoscale-ai.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-simulating-nanoscale-ai.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/nanotechnology-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Evaluating Chronic Disease Progression With Artificial Intelligence"
+    excerpt: "With artificial intelligence, University of Buffalo researchers have developed a novel system that models chronic disease progression as patients age. The AI model examines metabolic and cardiovascular biomarkers to determine the health status and disease risks across a patient’s lifespan."
+    publishedDateTime: 2021-12-09T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/evaluating-chronic-disease-progression-with-artificial-intelligence"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/evaluating-chronic-disease-progression-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 57
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
+  - title: "Agricultural AI on the upswing"
+    excerpt: "Wall Street Journal, explaining rising interest in AI technology. “To do so farmers need to monitor a constant stream of data on plants, soil and atmospheric conditions.” There is also a labor and monetary factor."
+    publishedDateTime: 2021-12-07T18:11:00Z
+    webUrl: "https://theproducenews.com/technology/agricultural-ai-upswing"
+    type: article
+    provider:
+      name: The Produce News
+      domain: theproducenews.com
     quality: 39
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/57007/content/deepmind-gopher(1).jpg"
-        width: 708
-        height: 419
+      - url: "https://theproducenews.com/sites/default/files/styles/fp_slider/public/2021-12/raleys.jpg?h=3ca652f7&itok=SQaNC2UZ"
+        width: 635
+        height: 355
         isCached: true
+  - title: "Saving Lives With Artificial Intelligence"
+    excerpt: "A new technology developed at Tel Aviv University will make it possible, using artificial intelligence, to identify patients who are at risk of serious"
+    publishedDateTime: 2021-12-07T11:59:00Z
+    webUrl: "https://hamodia.com/2021/12/07/saving-lives-with-artificial-intelligence/"
+    type: article
+    provider:
+      name: Hamodia
+      domain: hamodia.com
+    quality: 37
+    images:
+      - url: "https://images.hamodia.com/hamod-uploads/2021/12/07050423/7f5fe743e5056f0e35e13f7dc7924882.jpg"
+        width: 580
+        height: 330
+        isCached: true
+  - title: "DeepMind simulates matter on the nanoscale with AI"
+    excerpt: "In a paper published by Science, DeepMind demonstrates how neural networks can improve approximation of the Density Functional (a method used to describe electron interactions in chemical systems). This illustrates deep learning’s promise in accurately simulating matter at the quantum mechanical level."
+    publishedDateTime: 2021-12-09T19:34:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936901"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
 
 secured: "JRXGpKDBHbEogaOUDHk+B2afeiQDY6f+xiJXphHizoArFnsUacmRd1FjVjjUk4mfgpKHz4CsckeJ9KGZpsHQn5jL+vdv4sWC0O70itJlkYiV8BrsDXdA+d6Wk4KCYajF4yM8QwPOGWbQjJWsQpNinRUgVRXzfZFfIUlH7LR70U5EulZNnrMF+87fCvQp2/lBq+jIA0zdrdNmuvF8AVNQxSGIqwfT4KxTQT+C+ixXYv3bG3bl2X5LzG5Rc0J/Vul2kwgmp6ML0tGsGJVhCcWXK2YNYl5OqCld/8b4Y+0mWrIfXAEwXM6Ic4/N8yRZ17MaWAYRghb3AudSuOHv9XLt4IX5BOYYnvpBZAVKc7sSuyA+X6qTopuaUazy/l4yBKAcC1ff/QKL5CaV18X2fJk+pdBNvN25TRPvs/hIj/8tkzLkbkFv58VDqdAO+THq2WF+sv3RTEIXFkM6Hny+pjoyGLlc3XeTu5lFigvkGg8iO/THuTCGrthZy/hmMtf0Ne5VmXswglq4u99/15mxINDIqA==;qe2E4w6+KfmFB/E+QcaUkg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021/88177055"
 type: article
 quality: 58
-heat: -1
+heat: 58
 published: false
 
 provider:
@@ -25,66 +25,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "The Top 6 Artificial Intelligence Plays in India"
-    excerpt: "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible."
-    publishedDateTime: 2021-12-06T22:39:00Z
-    webUrl: "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6"
-    ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
-    cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
-    type: article
-    provider:
-      name: Equitymaster
-      domain: equitymaster.com
-    quality: 61
-    images:
-      - url: "https://www.eqimg.com/images/2021/09292021-PH-equitymaster.jpg"
-        width: 350
-        height: 215
-        isCached: true
-  - title: "The Hindu Explains | Facial recognition tech in Indian airports"
-    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
-    publishedDateTime: 2021-12-07T14:08:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 54
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "3 Impacts of AI in the Machine Translation Industry"
-    excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
-    publishedDateTime: 2021-12-07T22:13:00Z
-    webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Explained | Facial recognition tech in Indian airports"
-    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
-    publishedDateTime: 2021-12-08T08:06:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 54
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
-        width: 615
-        height: 384
-        isCached: true
 
 secured: "0kpfwrxwUaX94UsxWNBud8xNP7iuxMvDtM24MztvQANNskiUXW4c8GlBh0YphuEiRoAPp5q+MWPLag7NQFpxsWC/EcAKkavMHa3Ij1We9vbyyJ2mVDx080xojJODQ3BIqX2vIWw9I5LAStGi3ZG4RvRJ9zsWfEVvJXqG9LJ1WsxZakIXCds7JTjOwNXF7EPLSsu0QctZYiAQM07Q/giuA/5154oLcRBLGBpbt+5N9YzQod8cQlljAy4n3Dbw73zPEKYnM1tZCzr9+ujQBQPQbBWS6M2noQymHmcjJml4xZ2UKCCN4CN8mwDBEfU7BjQuWUl/CcJZxqAsZ/bfR2IOW1oUF650FMVTwMHOUCu5bJr/PkAqzP0HiHazY6ZqukmrHdM5Ps73ydavFaED8Gzd6sp5+tb98zJpkbnlHvEV3ZJyQ5wlrkLlNiaRchkAl9QTVRUXH2oQ90OJTr1BhayojgQQrKVR3PVHylRUIqDwLzLcQtFJDKjJV1wk4nCHG4lAHSO25qHRMWE7A2MZ2vzDQg==;bv+YVZl7iBaskVBhnvaqzw=="
 ---

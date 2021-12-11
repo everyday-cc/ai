@@ -55,22 +55,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "Case Western Reserve University acquires new 'Artificial Intelligence SuperComputer'"
-    excerpt: "As a result of the system, more researchers will be able to manipulate larger amounts of data simultaneously and quickly."
-    publishedDateTime: 2021-12-06T22:37:00Z
-    webUrl: "https://www.wkyc.com/article/news/education/case-western-reserve-university-artificial-intelligence-supercomputer/95-e78224da-2a2f-46ab-8af6-7901e289b3d7"
-    ampWebUrl: "https://www.wkyc.com/amp/article/news/education/case-western-reserve-university-artificial-intelligence-supercomputer/95-e78224da-2a2f-46ab-8af6-7901e289b3d7"
-    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/education/case-western-reserve-university-artificial-intelligence-supercomputer/95-e78224da-2a2f-46ab-8af6-7901e289b3d7"
-    type: article
-    provider:
-      name: WKYC3
-      domain: wkyc.com
-    quality: 50
-    images:
-      - url: "https://media.wkyc.com/assets/WKYC/images/76e3ceec-0e7b-4122-b975-6213fe4f6537/76e3ceec-0e7b-4122-b975-6213fe4f6537_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "EpR07ifMJK/UAYkRKldZofbPaxZ8C9UilVtR0QlcpWXnngCnqsFecr4lc1pNuZoI46OLSv2s+ctJexgrJxUS66OXuqb9rVeM6SzHMNChewmKfSMTU7DJbVRvBCxXCUwnT6JagZzG0+G/i8S49sr+z2ZulOx2HUEVzGGHP99F0VaqqJpbFmHs4pVygustFdYsvW1UlUmfD9tkLEMC6FAK3HsvDWwBljAKhU90lWZ7LQrZyF/w/DGPUko7GmeFNd7zUZeULvvwBdXuf9aM+PbpDLohCZMUH36iVr/M2D+mvQVMbYvcM39/oye4WXZezg2ihYYD0ZVuroVl7oBHMFkM5MrsVhEg9G/JYUxCVSLnk/BkXpKn2NIRCeCGlGTRN5T5gN/Wg8Sp01XNP1vIMDit71PWB8rmqNUo9J0fxM9xtZBnST9xV3rastOfHiSgylL/NJuCxfZVjMDCcYBhHjHm0rfSOAquosHthjT77+rWLJrATHRZmZa7upyENeK4QvQdx+RXhcNX0o7waJ2dBMmZmQ==;8idiTb1CF3O/FlihuRek4A=="
 ---

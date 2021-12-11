@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-09T00:00:00Z
 originalUrl: "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI"
 webUrl: "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI"
 type: article
-quality: 89
-heat: 159
+quality: 189
+heat: 279
 published: true
 
 provider:
@@ -109,6 +109,34 @@ related:
         width: 480
         height: 278
         isCached: true
+  - title: "Agricultural AI on the upswing"
+    excerpt: "Wall Street Journal, explaining rising interest in AI technology. “To do so farmers need to monitor a constant stream of data on plants, soil and atmospheric conditions.” There is also a labor and monetary factor."
+    publishedDateTime: 2021-12-07T18:11:00Z
+    webUrl: "https://theproducenews.com/technology/agricultural-ai-upswing"
+    type: article
+    provider:
+      name: The Produce News
+      domain: theproducenews.com
+    quality: 39
+    images:
+      - url: "https://theproducenews.com/sites/default/files/styles/fp_slider/public/2021-12/raleys.jpg?h=3ca652f7&itok=SQaNC2UZ"
+        width: 635
+        height: 355
+        isCached: true
+  - title: "The Myth of Artificial Intelligence"
+    excerpt: "The Age of AI works to take the debate about artificial intelligence off the table by obscuring the relevant technologies and the political economy behind them. Its title alone— The Age of AI: And Our Human Future —declares an epoch and aspires to speak on behalf of everyone."
+    publishedDateTime: 2021-12-08T10:08:00Z
+    webUrl: "https://prospect.org/culture/books/myth-of-artificial-intelligence-kissinger-schmidt-huttenlocher/"
+    type: article
+    provider:
+      name: The American Prospect
+      domain: prospect.org
+    quality: 39
+    images:
+      - url: "https://prospect.org/downloads/17263/download/ND21%20Whittaker-Suchman.jpeg?cb=2453342ee267685544e111e7618379c5&w=1200"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Saving Lives With Artificial Intelligence"
     excerpt: "A new technology developed at Tel Aviv University will make it possible, using artificial intelligence, to identify patients who are at risk of serious"
     publishedDateTime: 2021-12-07T11:59:00Z
@@ -133,6 +161,6 @@ related:
       domain: eurekalert.org
     quality: 34
 
-secured: "92o43/V8Ra4MWOZohs1G15BfBf7qZzu+v+DBld2jbPu8yFMMWmXlzbaWGuTM4Rw0TWR9d0dDlE41gp+eGB+ITpWfSsJSbr1f2SLk3iAbGoZiuExFlMnSZ8gpLY1FmJLdfBw+/qCfPnKK+pDC6nu/ejyJ/wtVSq8qL+NCC8iaFeXNGtpFu7VjGezujHe4WfLoy5q/WLfda2M91vvCU7GTxQtpWJBGaoI7aFHq2YtLafjuPAD9/zQmlVYn2wK28pP6s28Uj4UYKyqk+nrcoXnrd4kOaXomHTKyGU4JWSoT/btvf0pwH55kxRphE2g55Z8TJ8G2cn+8ceQWeTQp0ZdnpGsSyuLswpnVRlSZLRXNkp8=;aHmu0K2wm7rvs/j0U5GfOg=="
+secured: "CsdOL5lCA0A1LfAL13D7w384FLm77IbRmfQrXGxfGKerhRI40/ZtaW+Y5fdS+LRcfZNx9QOJqsrEEkmu3cPtkXOnYCKuztluQIHdrIYuJ8+3tg6lm3Gw4mVkOBofO8QrtOZYmuiF1HL24aWfJxnY8UcsHqP2uClLxTY37VmegLpkgnmio05yiM+uY9G0GfKX3Wi+eo6TweS5K/9pHA/OEGrEOke6/VVXZ9xSCyNzMDH/EG4y3FRsRDNWZdbQ7CtdqpVahIaY1aWPuhsscV98utBRnhSZtxdz5sL0GqKWCqFOSO25xlxXA92RmPOmlVGRpoDrZjO4uq682+oV4AlY3Qd2/kwHOP4y504C8i98afJ1imUpfDkU5+WIAGHJnCiSf9erHMFaIBWNV/MMNy7Rdjpm93IaT8IybUtHzkEs+CWI1J6069TVmWnagw6w/+mMttKAutJ5/ag9noPl5DBLsfhAOkYLIfAt3gTcv3ETYgNHTWckDG+U21DyPukgNXBBlIq2CLGs53joLyaVauskXhoTnQsnTHHpS0VX/ex8Cn56p3O+D08wY1PYoAMlqNDb;WK/xiCfNf3gNJUiMnQRyDw=="
 ---
 

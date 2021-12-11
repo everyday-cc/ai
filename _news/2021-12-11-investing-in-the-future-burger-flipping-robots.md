@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2021/12/10/investing-in-the-future-
 webUrl: "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/"
 type: article
 quality: 69
-heat: 70
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Motley Fool

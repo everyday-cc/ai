@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-10-20-3m-names-americas-top-young-scientist-of-2021-14-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health.md",
+      "title": "3M Names America's Top Young Scientist of 2021: 14-Year-Old Sarah Park, for Music Therapy Treatment to Improve Mental Health",
+      "excerpt": "ST. PAUL, Minn. and SILVER SPRING, Md., Oct. 20, 2021 /PRNewswire/ -- 3M (@3M) and Discovery Education (@DiscoveryEd) have named 14-year-old",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/3m-names-america-s-top-young-scientist-of-2021-14-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health-1030882271",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/3m-names-america-s-top-young-scientist-of-2021-14-year-old-sarah-park-for-music-therapy-treatment-to-improve-mental-health-1030882271",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1665091/2021_3M_Young_Scientist_Winner_Sarah_Park.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-20T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-20-innovations-in-training-using-artificial-intelligence-and-machine-learning.md",
       "title": "Innovations in training using artificial intelligence and machine learning",
       "excerpt": "Innovations in training using artificial intelligence and machine learning . Can Artificial Intelligence (AI) and Machine Learning get you ready for take-off or surgery? The PVCES",
@@ -1298,50 +1350,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-10-01-mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi.md",
-      "title": "Mega summit on artificial intelligence (AI) held in Vigyan Bhawan, New Delhi",
-      "excerpt": "PTI takes no editorial responsibility for the same.) The second edition of the Global Artificial Intelligence Summit & Awards (GAISA), was a two day event, where companies were felicitated for their pioneering work, in the field of AI. New Delhi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "originalUrl": "https://www.outlookindia.com/newsscroll/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/mega-summit-on-artificial-intelligence-ai-held-in-vigyan-bhawan-new-delhi/2170740",
-      "publishedDateTime": "2021-10-01T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
         "AI in Healthcare"
       ]
     }

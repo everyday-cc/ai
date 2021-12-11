@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Best Stocks To Buy Now? 4 Robotics Stocks For Your December Watchlist"
+    excerpt: "Do You Have These 4 Robotics Stocks On Your Radar? As the stock market appears to be taking a breather today, tech stocks could continue to present opportunities for investors. Th"
+    publishedDateTime: 2021-12-11T11:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist"
+    ampWebUrl: "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "5 Artificial Intelligence Stocks To Watch In December 2021"
     excerpt: "Hot Artificial Intelligence Stocks To Check Out This Month. As adoption of artificial intelligence (AI) rises, artificial intelligence stocks could be among the biggest benefici"
     publishedDateTime: 2021-12-10T19:37:00Z
@@ -38,20 +49,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Synaptiq CEO Stephen Sklarew to Host NASCLA’s Artificial Intelligence in Construction Webinar on December 9"
-    excerpt: "Synaptiq CEO and Co-Founder Stephen Sklarew will host a webinar on artificial intelligence in construction for the National Association of State Contractors Licensing Agencies ( NASCLA) on Thursday, December 9,"
-    publishedDateTime: 2021-12-09T01:12:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-artificial-intelligence-7bfb9b7075e68131590503dc03935f8a"
+  - title: "Best Stocks To Invest In Right Now? 4 Tech For Your Watchlist"
+    excerpt: "Are These Good Tech Stocks To Invest In Now? Tech stocks appear to be a key focus of investors in the latest stock market hot streak. This is apparent as the tech-heavy Nasdaq ind"
+    publishedDateTime: 2021-12-08T19:39:00Z
+    webUrl: "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist"
+    ampWebUrl: "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist?amp"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "q77yzH3L2i33LXP3aloM6hmkGY2FsdnIwuLyWgiLVU5FPrS/TRHyNJUQ3+7cavJaMbA9WoNF3mMeiDdYuv0eUQafAPLxud2XAe4gLsWadahB1aXPSp66Xaacvjrg8e4/QCJaGQalVWY+JUSY3QL+B1DaRYezOt/Eni9A50/NDrT7GSHU+VRmep8xsDT0u3tSqQLFdvRAF7vlRvWehllAYOK0Mo7QdzziQF9R7aQFbtgMdac/nt7p8umBFt3MXgULcPvgljmUTdTI5uCrLYppqXrKnuJOrlYaf3xebb1Yruq9TIUw6Ac5dei3nFgJp2TBQLDNz2madoHXF9WEF7MVH+shFY2I0CsrhfckWna1chm4RBgOfERJ/FyZHMze+eBr6OXKz0n3LHDfI3Fk/nbdSrxo3SrkkTXwRhIy9mK4J0iilY7DgS9w75VhSH79lyuuoQIQUf3huvaielXbg1U93zT8wWG/7NEsqtqr1m3joag6sj0qoaF8kq+GeOy/o30gCb9vPZPgaXIgdOktzSXA3A==;V7Z7hvgAoIMfq3yq6/eOSQ=="
 ---

@@ -2,6 +2,387 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2021-10-25-driving-ai-adoption-with-explainability-at-the-core.md",
+      "title": "Driving AI Adoption With Explainability At The Core",
+      "excerpt": "Some business leaders are still wary of enterprise-wide AI adoption and are taking a one-step-at-a-time approach toward it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048e165345b4ab79c3f331a%2F0x0.jpg",
+          "width": 1140,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/10/25/driving-ai-adoption-with-explainability-at-the-core/amp/",
+      "publishedDateTime": "2021-10-25T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism.md",
+      "title": "The State of AI in 2021: Language models, healthcare, ethics, and AI agnosticism",
+      "excerpt": "Healthcare is just getting started with its AI moment, bigger language models mean bigger complications, and there may now be a third pole for AGI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/",
+      "originalUrl": "https://www.zdnet.com/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/cc7c6b5a2d1bd2322b59c93c7c0f67399a5f6fc8/2020/10/26/8d555a8e-93f7-4d63-bd13-e40696bdc433/quantum-computing.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 783,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-state-of-ai-in-2021-language-models-healthcare-ethics-and-ai-agnosticism/",
+      "publishedDateTime": "2021-10-25T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-tesla-starts-rolling-out-full-self-driving-beta-103-after-a-false-start.md",
+      "title": "Tesla starts rolling out Full Self-Driving Beta 10.3 after a false start",
+      "excerpt": "Tesla has restarted the rollout of its Full Self-Driving Beta 10.3 update after a false start with a lot of bugs had them revert to the previous version. Tesla FSD Beta 10.3 was supposed to come Friday,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/",
+      "originalUrl": "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2021/03/Tesla-full-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/25/tesla-starts-rolling-out-full-self-driving-beta-10-3-after-false-start/amp/",
+      "publishedDateTime": "2021-10-25T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-ai-and-big-data-analytics-in-telecom-market-still-has-room-to-grow-emerging-players-aws-baidu-alibaba-facebook.md",
+      "title": "AI and Big Data Analytics in Telecom Market Still Has Room to Grow | Emerging Players AWS, Baidu, Alibaba, Facebook",
+      "excerpt": "Latest Study on Industrial Growth of Global AI and Big Data Analytics in Telecom Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of the AI and Big Data Analytics in Telecom market.",
+      "sourceUrl": null,
+      "webUrl": "https://manometcurrent.com/ai-and-big-data-analytics-in-telecom-market-still-has-room-to-grow-emerging-players-aws-baidu-alibaba-facebook/",
+      "originalUrl": "https://manometcurrent.com/ai-and-big-data-analytics-in-telecom-market-still-has-room-to-grow-emerging-players-aws-baidu-alibaba-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://manometcurrent.com/ai-and-big-data-analytics-in-telecom-market-still-has-room-to-grow-emerging-players-aws-baidu-alibaba-facebook/?amp=1",
+      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/ai-and-big-data-analytics-in-telecom-market-still-has-room-to-grow-emerging-players-aws-baidu-alibaba-facebook/?amp=1",
+      "publishedDateTime": "2021-10-25T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manometcurrent.com",
+        "domain": "manometcurrent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-the-expertai-nl-api-now-available-in-aws-marketplace.md",
+      "title": "The expert.ai NL API Now Available in AWS Marketplace",
+      "excerpt": "watch the video introduction How to Become an AI Expert Using the expert.ai NL API and visit the expert.ai NL API in AWS Marketplace. Expert.ai (EXAI:IM) is the premier artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/the-expertai-nl-api-now-available-in-aws-marketplace-301407132.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/the-expertai-nl-api-now-available-in-aws-marketplace-301407132.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook",
+          "width": 1500,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-25T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-omniscient-master-teaches-ai-drone-real-flying-skills-in-virtual-world.md",
+      "title": "Omniscient Master Teaches AI Drone Real Flying Skills In Virtual World",
+      "excerpt": "A team from the University of Zurich (UZH) trained AI to fly a drone in a virtual environment full of obstacles before letting it out in the real world, where it outperformed piloting software. Training AI in virtual environments could have huge implications for drones and robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/10/25/omniscient-master-teaches-ai-drone-real-flying-skills-in-virtual-world/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/10/25/omniscient-master-teaches-ai-drone-real-flying-skills-in-virtual-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6176a5fc9ef080218f4d1794%2F0x0.jpg",
+          "width": 1200,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/10/25/omniscient-master-teaches-ai-drone-real-flying-skills-in-virtual-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/10/25/omniscient-master-teaches-ai-drone-real-flying-skills-in-virtual-world/amp/",
+      "publishedDateTime": "2021-10-25T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education.md",
+      "title": "How Should We Approach the Ethical Considerations of AI in K-12 Education?",
+      "excerpt": "We live in a world fundamentally transformed by our own creations. Once imagined only in science fiction, artificial intelligence now powers much of",
+      "sourceUrl": null,
+      "webUrl": "https://www.edsurge.com/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education",
+      "originalUrl": "https://www.edsurge.com/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/14446/How_Should_We_Approach_the_Ethical_Considerations_of_AI_in_K-1634587066.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop",
+          "width": 640,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education",
+      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2021-10-25-how-should-we-approach-the-ethical-considerations-of-ai-in-k-12-education",
+      "publishedDateTime": "2021-10-25T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdSurge",
+        "domain": "edsurge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-10-25-the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it.md",
+      "title": "The Use Of Artificial Intelligence In Business Codifies Gendered Ageism. How Do We Fix It?",
+      "excerpt": "As more organizations adopt AI and use data to make decisions like hiring, what are the consequences of not involving a diverse set of individuals, especially women, in the design process?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/",
+      "originalUrl": "https://www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6174762f6160a396701d73f3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bonniemarcus/2021/10/25/the-use-of-artificial-intelligence-in-business-codifies-gendered-ageism-how-do-we-fix-it/amp/",
+      "publishedDateTime": "2021-10-25T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-artificial-intelligence-ai-in-construction.md",
       "title": "Artificial Intelligence (AI) in Construction",
       "excerpt": "Examples of artificial intelligence (AI) in construction are increasingly common throughout the industry, from planning to building. Construction professionals are turning to AI to add efficiency and accuracy to projects,",
@@ -787,395 +1168,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier.md",
-      "title": "How Moveworks’ AI platform broke through the multilingual NLP barrier",
-      "excerpt": "Multilingual NLP in an enterprise context -- using no scripting or system-integration prework -- is the future of conversational AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/",
-      "originalUrl": "https://venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/nlp-e1634938579138.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/24/how-moveworks-ai-platform-broke-through-the-multilingual-nlp-barrier/amp/",
-      "publishedDateTime": "2021-10-24T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-artificial-intelligence-ai-in-banking.md",
-      "title": "Artificial Intelligence (AI) in Banking",
-      "excerpt": "Artificial intelligence (AI) is one of the most disruptive technologies today, and the banking industry is a prime example of its potential. AI in banking is a relatively new concept, but it’s already making banks safer,",
-      "sourceUrl": null,
-      "webUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-banking/",
-      "originalUrl": "https://www.datamation.com/artificial-intelligence/artificial-intelligence-in-banking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datamation.com/wp-content/uploads/2020/06/campaign-creators-pypeCEaJeZY-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-24T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datamation",
-        "domain": "datamation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-what-automation-ai-ar-robotics-mean-for-the-future-of-work-in-mining.md",
-      "title": "What automation, AI, AR, robotics mean for the future of work in mining",
-      "excerpt": "Technological advancements like automation, artificial intelligence, augmented reality, and robotics taking place in parallel with the growing",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/what-automation--ai--ar--robotics-mean-for-the-future-of-work-in-mining-10657996",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-24T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-25-4-things-vcs-get-wrong-about-ai.md",
-      "title": "4 things VCs get wrong about AI",
-      "excerpt": "Buying AI isn't like buying SaaS; the way users test the technology, make purchase decisions, and enter into contracts is very different.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/24/4-things-vcs-get-wrong-about-ai/",
-      "originalUrl": "https://venturebeat.com/2021/10/24/4-things-vcs-get-wrong-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI-e1621941163863.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/24/4-things-vcs-get-wrong-about-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/24/4-things-vcs-get-wrong-about-ai/amp/",
-      "publishedDateTime": "2021-10-24T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-intel-cto-greg-lavender-interview-why-chip-maker-is-spending-on-both-manufacturing-and-software.md",
-      "title": "Intel CTO Greg Lavender interview — Why chip maker is spending on both manufacturing and software",
-      "excerpt": "Dean Takahashi talks with Intel CTO Greg Lavender about why the chip maker is investing heavily in both manufacturing and software.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/10/24/intel-cto-greg-lavender-interview-why-chip-maker-is-spending-on-both-manufacturing-and-software/",
-      "originalUrl": "https://venturebeat.com/2021/10/24/intel-cto-greg-lavender-interview-why-chip-maker-is-spending-on-both-manufacturing-and-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/10/cto.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/10/24/intel-cto-greg-lavender-interview-why-chip-maker-is-spending-on-both-manufacturing-and-software/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/24/intel-cto-greg-lavender-interview-why-chip-maker-is-spending-on-both-manufacturing-and-software/amp/",
-      "publishedDateTime": "2021-10-24T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain.md",
-      "title": "Researchers Use Artificial Intelligence Supported Neural Networks To Reason Like The Human Brain",
-      "excerpt": "A neural network, a series of algorithms that strives to recognize underlying relationships in a set of given data with",
-      "sourceUrl": null,
-      "webUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/",
-      "originalUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbooky.com/wp-content/uploads/2021/10/Researchers-Uses-Artificial-Intelligence-Supported-Neural-Networks.jpg",
-          "width": 777,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/?amp=1",
-      "cdnAmpWebUrl": "https://techbooky-com.cdn.ampproject.org/c/s/techbooky.com/researchers-use-artificial-intelligence-supported-neural-networks-to-reason-like-the-human-brain/?amp=1",
-      "publishedDateTime": "2021-10-24T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it.md",
-      "title": "“AI 2041” Co-Author Kai-Fu Lee Talks About AI’s Sweeping Future And How He Invests In It",
-      "excerpt": "Kai-Fu Lee has been sizing up the implications for decades. The former Google executive turned venture capitalist looked at U.S.-China competition in his 2018 book, “AI Superpowers.” His new book, “AI 2041,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/",
-      "originalUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6175629b1f835cb5881bf699%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/russellflannery/2021/10/24/ai-2041-co-author-kai-fu-lee-talks-about-ais-sweeping-future-and-how-he-invests-in-it/amp/",
-      "publishedDateTime": "2021-10-24T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-10-24-whats-a-self-driving-car-heres-an-explanation.md",
-      "title": "What's a self-driving car? Here's an explanation",
-      "excerpt": "Understand what is, and isn't a self-driving or autonomous car with this explainer. There are no self-driving cars on sale today. Point blank. That's the cold-hard truth. Nothing fits the bill based on the SAE Scale of Autonomy's standard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-autonomous-car-explanation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-autonomous-car-explanation/",
-      "publishedDateTime": "2021-10-24T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

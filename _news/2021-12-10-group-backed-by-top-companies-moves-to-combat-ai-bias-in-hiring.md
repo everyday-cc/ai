@@ -3,8 +3,8 @@ category: news
 title: "Group backed by top companies moves to combat AI bias in hiring"
 excerpt: "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination."
 publishedDateTime: 2021-12-09T23:16:00Z
-originalUrl: "https://www.bizjournals.com/columbus/news/2021/12/09/artificial-intelligence-bias-combat.html"
-webUrl: "https://www.bizjournals.com/columbus/news/2021/12/09/artificial-intelligence-bias-combat.html"
+originalUrl: "https://www.bizjournals.com/bizjournals/news/2021/12/09/artificial-intelligence-bias-combat.html"
+webUrl: "https://www.bizjournals.com/bizjournals/news/2021/12/09/artificial-intelligence-bias-combat.html"
 type: article
 quality: 19
 heat: -1
@@ -50,6 +50,6 @@ related:
         height: 899
         isCached: true
 
-secured: "cjeLQp9nG0CJuT2tqteweQXQzDpvZbtRE2UlNZw/pyIA7kg79bygf8S9KtHEXbBOVwb/Xph1Ri26prz98NNgcMa3S72We+xK7/JrPAAzCgE0fceMiZeYBYxSSLxqtRef4v89tfZ3dO+GeHYVnYtV3JnfQoF20SFWprA0AbTNM/V5bhzIVhVobZQ01rN6ulBYEmSgwMekvS3UtcepdsAwGijJShAg5McJDTn4jgVDitZefHraKl9aoJlcP9hTvAfcJyYWfsh3NwMNFbgXTx8lbHh8NaoNL9/uXXsBJx51NZNulawR1/xCJ7L0fXQ9KYfC3BtGZ0SNzgP8x45j6RI/0L7ijAyBhZTyDVe4TWaGwwogmmXV54DARy/W0LQg5v6IYjs+CENSwUc/goRJi48QD76J0g9miJ6AL81U5tC7r840Hcog8bj6RA/P7rWig+/CZl2IjpMS/kRMbf0y37BPsEsMu/dECm/zHPar03guI/oiNFcydH1yZ/fio0ukRB9pTc9x6y/ueGgNEn0E+5YJGg==;xw4SlGa6jXWZX5MEWlrPjg=="
+secured: "SIx41rkGskYeVTaqpdbpBr9LH7F3Mwxo3++rlHu78/PD3aTupfVdTWSE/9eVFvw7guGbQKP3J0Dn0VD1yOcvXi46Xg4Y4/z3Hp9poqJXdsOjtF7pdFrQKL8mBqz/8WwjlljSxqBRdCnDadKZtzpC1nTWintKOtSz4yXi6mURheWwY/cSo6w69zB+5aoMGgtfp7thvGSGJ5R0pEm7Y7P6J98qoyl9gIKulMCax2LfNz7qHVM1Ur6jAeXFXrbrGQWouTGje5GO05TAz3GrmNwEhTmow6o2ltavx/HxVfQrLrJHrQOzLVnxaWU6UX+ut8Os3aC4nAZQqOLaOoUfIWNNudnjgbnRJ1rmYGCuP99TMkVJXUVLrNXws22wB11yDk/XkBGD4z73xBoNL9QAMdTOYaJRjlzxDO2F8CC1YlKkrdx/+7zZ0X+oA79WO9yF8kYI5uf/gNPYM5qAqxbK/fPbKfeG7feHEYYjMQJqxX2Rz8DH2XeKn0y0jFlDp7y1m6EyFpF3lFhQllpu/A4Z9akWFw==;qPOdOd+00rPPSsr15tnabw=="
 ---
 

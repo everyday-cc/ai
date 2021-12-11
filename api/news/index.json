@@ -2,6 +2,127 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-11-ai-and-machine-learning-in-the-travel-industry-how-to-do-it-right.md",
+      "title": "AI and Machine Learning in the Travel Industry: How to do it Right",
+      "excerpt": "Nonetheless, the travel industry is (slowly but surely) recovering. The numbers are expected to go back to pre-pandemic times over the next two to three years, which means that now is the perfect time for travel businesses to explore ways to prepare for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://insidebigdata.com/2021/12/11/ai-and-machine-learning-in-the-travel-industry-how-to-do-it-right/",
+      "originalUrl": "https://insidebigdata.com/2021/12/11/ai-and-machine-learning-in-the-travel-industry-how-to-do-it-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2021/12/Travel_AI_safe.jpg",
+          "width": 300,
+          "height": 379,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-11T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do.md",
+      "title": "New Artificial Intelligence System Enables Machines That See the World More Like Humans Do",
+      "excerpt": "A new “common-sense” approach to computer vision enables artificial intelligence that interprets scenes more accurately than other systems do. Computer vision systems sometimes make inferences about a scene that fly in the face of common sense.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
+      "originalUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/3DP3-Infers-Accurate-Pose-Estimates-of-Objects-777x532.jpg",
+          "width": 777,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/",
+      "publishedDateTime": "2021-12-11T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist.md",
+      "title": "Best Stocks To Buy Now? 4 Robotics Stocks For Your December Watchlist",
+      "excerpt": "Do You Have These 4 Robotics Stocks On Your Radar? As the stock market appears to be taking a breather today, tech stocks could continue to present opportunities for investors. Th",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist",
+      "originalUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp",
+      "publishedDateTime": "2021-12-11T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes.md",
       "title": "Artificial intelligence runs more data centers, but still won't relieve technology staffing woes",
       "excerpt": "Forecasting data center capacity remains a dark art, and a continuing challenge for companies. AI to the rescue? Hold that thought.",
@@ -10,7 +131,7 @@
       "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -105,58 +226,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-11-investing-in-the-future-burger-flipping-robots.md",
-      "title": "Investing in the Future: Burger-Flipping Robots?",
-      "excerpt": "Soon, that could include burger-flipping robots. Yes, you read that right. In this segment of Backstage Pass, recorded on Nov. 19, Motley Fool contributors Toby Bordelon and Rachel Warren discuss an innovative company called Miso Robotics that could soon change the way you order your fast-food burgers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
-      "originalUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/656059/gettyimages-954256282.jpg",
-          "width": 2120,
-          "height": 1415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-10-hierarchical-forecasting-using-amazon-sagemaker.md",
       "title": "Hierarchical Forecasting using Amazon SageMaker",
       "excerpt": "Time series forecasting is a common problem in machine learning (ML) and statistics. Some common day-to-day use cases of time series forecasting involve predicting product sales, item demand, component supply, service tickets, and all as a function of time. More often than not, time series data follows",
@@ -165,7 +234,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecasting-using-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -217,7 +286,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -368,40 +437,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-11-5-artificial-intelligence-stocks-to-watch-in-december-2021.md",
-      "title": "5 Artificial Intelligence Stocks To Watch In December 2021",
-      "excerpt": "Hot Artificial Intelligence Stocks To Check Out This Month. As adoption of artificial intelligence (AI) rises, artificial intelligence stocks could be among the biggest benefici",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021",
-      "originalUrl": "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021?amp",
-      "publishedDateTime": "2021-12-10T11:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-11-headroom-launches-to-combat-zoom-fatigue-with-ai.md",
       "title": "Headroom launches to combat Zoom fatigue with AI",
       "excerpt": "Headroom is like Zoom on steroids. It's an AI-powered platform that automates many of the laborious tasks involved in virtual video meetings.",
@@ -502,6 +537,58 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-exclusive-microsofts-16-billion-nuance-bid-set-for-eu-antitrust-approval-sources.md",
+      "title": "Exclusive-Microsoft's $16 billion Nuance bid set for EU antitrust approval -sources",
+      "excerpt": "A Microsoft logo is seen in Los Angeles, California U.S. November 7, 2017. REUTERS/Lucy Nicholson/File Photo/File Photo",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/exclusive-eu-regulators-set-okay-16-bln-microsoft-nuance-deal-sources-say-2021-12-10/",
+      "originalUrl": "https://www.reuters.com/news/picture/exclusive-microsofts-16-billion-nuance-b-idUSKBN2IP0UR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/S6ULVEOZDVLILIHGLNYJ5EPUEE.jpg",
+          "width": 4657,
+          "height": 3105,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T08:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -608,7 +695,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -705,7 +792,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -748,7 +835,7 @@
       "originalUrl": "https://www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -779,6 +866,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-booz-allen-completes-ai-platform-spinoff-susan-penfield-quoted.md",
+      "title": "Booz Allen Completes AI Platform Spinoff; Susan Penfield Quoted",
+      "excerpt": "Booz Allen Hamilton (NYSE: BAH) has finished spinning off its artificial intelligence platform into a standalone company that will advance the deployment of production-ready AI, build on existing client base across federal and commercial markets and expand its developer community and partner ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govconwire.com/2021/12/booz-allen-completes-ai-platform-spinoff/",
+      "originalUrl": "https://www.govconwire.com/2021/12/booz-allen-completes-ai-platform-spinoff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.govconwire.com/wp-content/uploads/2021/12/00P4y00001NOAh3EAH.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GovCon Wire",
+        "domain": "govconwire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1035,57 +1164,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-10-secretive-ai-companies-need-to-cooperate-with-good-hackers-to-keep-us-all-safe-experts-warn.md",
-      "title": "Secretive AI Companies Need to Cooperate With Good Hackers to Keep Us All Safe, Experts Warn",
-      "excerpt": "Such a call to action is needed, the authors argue, because of the growing mistrust between the public and the software developers who create AI, and because current strategies to identify and report harmful instances of AI are inadequate.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849",
-      "originalUrl": "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8e3899c1ccbdc7eeafc2c711e7db050d.jpg",
-          "width": 800,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849/amp",
-      "publishedDateTime": "2021-12-09T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-10-us-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker.md",
       "title": "U.S. to Bar Investment in Chinese AI Giant, Considers Banning Key Exports to Top Chip Maker",
       "excerpt": "The focus on SenseTime and Semiconductor Manufacturing International is part of broader Biden administration effort against China’s tech firms.",
@@ -1134,111 +1212,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-codifying-humanity-why-ai-sucks-at-content-moderation.md",
-      "title": "Codifying humanity: Why AI sucks at content moderation",
-      "excerpt": "Meta unveiled a new content moderation AI system that it claims is a step towards generalized AI systems. We think they might be exaggerating.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/codifying-humanity-why-ai-sucks-content-moderation",
-      "originalUrl": "https://thenextweb.com/news/codifying-humanity-why-ai-sucks-content-moderation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fzipperzuck.jpg&signature=f413e64c9b1f9fae8b90159af5c31f24",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T14:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-instabase-adds-deep-learning-to-make-sense-of-unstructured-data.md",
-      "title": "Instabase adds deep learning to make sense of unstructured data",
-      "excerpt": "Instabase hopes to help businesses benefit from unstructured data with the help of some good, old-fashioned AI",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/",
-      "originalUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1223790172.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/amp/",
-      "publishedDateTime": "2021-12-09T13:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

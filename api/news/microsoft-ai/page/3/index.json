@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-16-differences-in-care-between-younger-and-older-patients-in-the-2019-english-national-memory-service-audit.md",
+      "title": "Differences in care between younger and older patients in the 2019 English national memory service audit",
+      "excerpt": "Clinical implications Memory services seeing younger people need expertise in functional cognitive disorder ... Clinical Network for analysis of the national data-set using Microsoft Excel. Statistical comparisons were performed using chi-squared tests.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/bjpsych-bulletin/article/differences-in-care-between-younger-and-older-patients-in-the-2019-english-national-memory-service-audit/44E239FDA0BA5EC3882F403554B7C499",
+      "originalUrl": "https://www.cambridge.org/core/journals/bjpsych-bulletin/article/differences-in-care-between-younger-and-older-patients-in-the-2019-english-national-memory-service-audit/44E239FDA0BA5EC3882F403554B7C499",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.cambridge.org/covers/BJB_0_0_0/bjpsych_bulletin.jpg?send-full-size-image=true",
+          "width": 1810,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-global-cognitive-services-market-key-country-data-2021-competitive-landscape-swot-analysis-opportunities-and-challenges-growth-by-2026.md",
       "title": "Global Cognitive Services Market Key Country Data 2021 | Competitive Landscape, SWOT Analysis, Opportunities and Challenges, Growth by 2026",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Cognitive Services Market - Analysis and Insights: Nov 15, 2021 (The Expresswire) -- The report starts with an ...",
@@ -1298,49 +1341,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news.md",
-      "title": "Microsoft Takes on the Metaverse, Updates Teams and Viva & More Digital Workplace News",
-      "excerpt": "Facebook Connect, Google I/O and Salesforce’s Dreamforce all merit a look, but in terms of the digital workplace and productivity technology, Ignite is really the big one. This year’s Ignite conference,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-workplace/microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news/",
-      "originalUrl": "https://www.cmswire.com/digital-workplace/microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/bbc9ac2063824d6f9206062d0ef36882.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-workplace/microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/microsoft-takes-on-the-metaverse-updates-teams-and-viva-more-digital-workplace-news/amp/",
-      "publishedDateTime": "2021-11-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
         "images": null,
         "publishers": null,
         "authors": null

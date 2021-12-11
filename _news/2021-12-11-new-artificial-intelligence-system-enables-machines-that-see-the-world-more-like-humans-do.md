@@ -8,9 +8,9 @@ webUrl: "https://scitechdaily.com/new-artificial-intelligence-system-enables-mac
 ampWebUrl: "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/"
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 51
+heat: 71
+published: true
 
 provider:
   name: SciTech Daily
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://scitechdaily.com/images/3DP3-Infers-Accurate-Pose-Estimates-of-Objects-777x532.jpg"

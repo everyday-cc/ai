@@ -7,8 +7,8 @@ originalUrl: "https://fintechnews.sg/56987/sponsoredpost/the-next-frontiers-of-a
 webUrl: "https://fintechnews.sg/56987/sponsoredpost/the-next-frontiers-of-ai-and-machine-learning-in-data/"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Fintech Singapore
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "3 Impacts of AI in the Machine Translation Industry"
+    excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
+    publishedDateTime: 2021-12-07T22:13:00Z
+    webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Current Status of Artificial Intelligence"
     excerpt: "AI (Artificial Intelligence) is used in increasingly more areas of our lives, as both companies and people rely on its recommendations. Although this year has been just as challenging for the worldpopulation,"
     publishedDateTime: 2021-12-09T14:53:00Z

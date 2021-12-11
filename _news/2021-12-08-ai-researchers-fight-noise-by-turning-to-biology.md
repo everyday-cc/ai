@@ -36,22 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 79
-  - title: "Artificial Intelligence Research Centers"
-    excerpt: "Timnit Gebru,’ a former AI researcher at Google, has launched its own independent artificial intelligence research center after"
-    publishedDateTime: 2021-12-06T22:22:00Z
-    webUrl: "https://www.trendhunter.com/trends/artificial-intelligence-research"
-    ampWebUrl: "https://www.trendhunter.com/amp/trends/artificial-intelligence-research"
-    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/artificial-intelligence-research"
-    type: article
-    provider:
-      name: TrendHunter
-      domain: trendhunter.com
-    quality: 57
-    images:
-      - url: "https://cdn.trendhunterstatic.com/thumbs/artificial-intelligence-research.jpeg"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "nSLH28zuTB6CY1HeMtsG+kMibhqQzmyt1N6KIhG3LJNNGnxoEZytPsGNs426Q/BAytgQZsq64FyvVvoDkwpvr1W3IBCUypvYwIp5d/feEp2F1ORtxl8BSQJDoW475A3FOBeMCBA2Ih1Szec/CKxIinGqNwr0tz23zf092spgsajynYGxpL7zMxnXMdyThyhYrAh5fZkMfMKp6S/LrwtKFno1WdWtgHO0NvHSGRmeYjFGIUZ4NBDi5WE205SQnhYn+7VvV3DcwZ2vbhnFBDxqpN46wO1jhjUu9xXRtozLzyCm4OlHF3Q4bhKRSDJe3gLOjmY2xdRetenACIUZcPPS71O17/WMKnvKj53EV4ZSpRA=;vQ/UV7Evhtx/B8YbTk3gxg=="
 ---

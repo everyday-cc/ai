@@ -92,20 +92,6 @@ related:
         width: 1812
         height: 1356
         isCached: true
-  - title: "Agricultural AI on the upswing"
-    excerpt: "Wall Street Journal, explaining rising interest in AI technology. “To do so farmers need to monitor a constant stream of data on plants, soil and atmospheric conditions.” There is also a labor and monetary factor."
-    publishedDateTime: 2021-12-07T18:11:00Z
-    webUrl: "https://theproducenews.com/technology/agricultural-ai-upswing"
-    type: article
-    provider:
-      name: The Produce News
-      domain: theproducenews.com
-    quality: 39
-    images:
-      - url: "https://theproducenews.com/sites/default/files/styles/fp_slider/public/2021-12/raleys.jpg?h=3ca652f7&itok=SQaNC2UZ"
-        width: 635
-        height: 355
-        isCached: true
   - title: "How Artificial Intelligence is Driving Holiday Shopping Revenues"
     excerpt: "Artificial Intelligence tools continue to become more effective, affordable, and accessible for retailers of all sizes; they will be better equipped to make the most of the critical holiday shopping season."
     publishedDateTime: 2021-12-08T20:04:00Z
@@ -135,6 +121,6 @@ related:
         height: 300
         isCached: true
 
-secured: "cg8khUh7dqH2lmhAxxHmVOzjtMqtMip+bC7c49xOCJflnWGGj+DIvGDGiEy6fyDN2/YzZss5kdWkUiKwqDxVeI4Bqf1eujKznR0FCaPPH6JhmfqIYSJ7vDtQJeIqgETxrt22rSws2tA+a2YAE7Ps13iJ2pd7Omo2pzARQI2AEG2Zpi7T9zfYhxjQFF2eWPmtMhGmIS7G7B5yPRAORVoXaIeR8dtK6PkiQs5vj8DGr29Kmcf0wUXiIeDWN+MPJZd64SFhO+1EKnALjgkWqThwXnvyYX4fAMKcFbaBcQuu8xbDXHLyg+2O/HqEqleDkyShSO4da9YRV3MNCQmrJ+odlmXX4dRbtAorQQJtHFhoh/Y=;tEYncy7izzdMTTgZdH0xvw=="
+secured: "HcHE8699FORI2VWLIa3R+vfFxFcFPd6AQShrLcvsLn9AJVRZ5uhrA8WDvpLnYYyVx/O4WUwt+dYTB/tClYjYXwugqQ0yVPCsXyY2P9ir5GgaRRdO3n4bvNdrYuaYTPBidBlDL3zVsTZMiVXSHNboMqtqIEFJM5uV1l+mzgFlXNZdqWWe9pCCmzhtLA0pSlKYewJXFSo4HZ1UFNOq8hDD39R5n7y7uvgyMFteUy9yMSnGESRaD6X0oFXLx7u8IlSI88pxPv8FatVy+BK7Zn5voYR8SQ/Nap84NRrIcbQv3W8bQgKQABCncAlBEastIE0Hm9UKbQBOVoU9GKJ1DB51CLcxyWAhLSLU1KYEMZGC4rSRgyh9vbLqeVTjBYyIt/+dsohI5AO7X47R5qSqppmWIIUCSXnoejpVfQQ/jhQ3xHzzAfGuVWUT4dk1fopvGEGeS/OUJ1PS+71ZmBT9eTzIYMN0eM2RSEMq22EpPqacQX7NIZjVxEJTfbBLEpABZNNSIVohWqMTsuOi73AAfk4EVA==;5uM5uWS17aFY2u9NyvdXCw=="
 ---
 

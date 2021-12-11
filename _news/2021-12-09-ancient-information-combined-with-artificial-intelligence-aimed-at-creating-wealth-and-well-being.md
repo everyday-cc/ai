@@ -35,7 +35,7 @@ related:
     provider:
       name: DeepMind
       domain: deepmind.com
-    quality: 89
+    quality: 189
     images:
       - url: "https://lh3.googleusercontent.com/sbg0s5HRyjgaED1YsDARdTCWIS4nO0lR2kaC1j0016qpQa6rM7G26aIUSOWfgZATVsh0jRZ1v3Jjfb8Yd4nzX-0OYrHSK1u0NJO5b51kCqPlGuAGdQ"
         width: 512
@@ -104,6 +104,34 @@ related:
       - url: "https://healthitanalytics.com/images/sized/2020-09-18-GettyImages-1154235081-e4b00c1efb9503a805928b101c78b499.jpg"
         width: 480
         height: 278
+        isCached: true
+  - title: "Agricultural AI on the upswing"
+    excerpt: "Wall Street Journal, explaining rising interest in AI technology. “To do so farmers need to monitor a constant stream of data on plants, soil and atmospheric conditions.” There is also a labor and monetary factor."
+    publishedDateTime: 2021-12-07T18:11:00Z
+    webUrl: "https://theproducenews.com/technology/agricultural-ai-upswing"
+    type: article
+    provider:
+      name: The Produce News
+      domain: theproducenews.com
+    quality: 39
+    images:
+      - url: "https://theproducenews.com/sites/default/files/styles/fp_slider/public/2021-12/raleys.jpg?h=3ca652f7&itok=SQaNC2UZ"
+        width: 635
+        height: 355
+        isCached: true
+  - title: "The Myth of Artificial Intelligence"
+    excerpt: "The Age of AI works to take the debate about artificial intelligence off the table by obscuring the relevant technologies and the political economy behind them. Its title alone— The Age of AI: And Our Human Future —declares an epoch and aspires to speak on behalf of everyone."
+    publishedDateTime: 2021-12-08T10:08:00Z
+    webUrl: "https://prospect.org/culture/books/myth-of-artificial-intelligence-kissinger-schmidt-huttenlocher/"
+    type: article
+    provider:
+      name: The American Prospect
+      domain: prospect.org
+    quality: 39
+    images:
+      - url: "https://prospect.org/downloads/17263/download/ND21%20Whittaker-Suchman.jpeg?cb=2453342ee267685544e111e7618379c5&w=1200"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Saving Lives With Artificial Intelligence"
     excerpt: "A new technology developed at Tel Aviv University will make it possible, using artificial intelligence, to identify patients who are at risk of serious"

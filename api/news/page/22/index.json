@@ -2,6 +2,368 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-11-23-scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis.md",
+      "title": "Scaling for the future of ophthalmology with artificial intelligence powered by Azure Healthcare APIs",
+      "excerpt": "ZEISS partnered with Microsoft to power the ZEISS Medical Ecosystem with the Azure Healthcare APIs. Azure Healthcare APIs allow for data to be standardized and exchanged between the ZEISS medical centers and their devices across the world while leveraging Microsoft's geo-support for data residency requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis/",
+      "originalUrl": "https://azure.microsoft.com/blog/scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-3-fintech-stocks-to-buy-on-any-dip.md",
+      "title": "3 Fintech Stocks To Buy on Any Dip",
+      "excerpt": "In light of this, fintech stocks should continue to see explosive growth in the post-pandemic world. Moreover, unlike the traditional financial industry, their asset-light structures could provide fintech stocks ample room to boost margins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip",
+      "originalUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-fintech-stocks-to-buy-on-any-dip?amp",
+      "publishedDateTime": "2021-11-23T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-how-ai-powered-tech-can-improve-digital-accessibility.md",
+      "title": "How AI-powered tech can improve digital accessibility",
+      "excerpt": "Despite one billion people, or roughly 15% of the global population, living with a disability, there remains much work to be done by governments and businesses to close the digital access divide that exists today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361623/how-ai-powered-tech-can-improve-digital-accessibility",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361623/how-ai-powered-tech-can-improve-digital-accessibility",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1637656131/itpro/2021/11/shutterstock_woman%20sign%20languaging.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T00:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-chinas-ai-giant-sensetime-readies-hong-kong-ipo.md",
+      "title": "China’s AI giant SenseTime readies Hong Kong IPO",
+      "excerpt": "One of China’s biggest AI solution providers SenseTime is a step closer to its initial public offering. SenseTime has received regulatory approval to list on the Hong Kong Stock Exchange, according to media reports.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/23/sensetime-ipo/",
+      "originalUrl": "https://techcrunch.com/2021/11/23/sensetime-ipo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1063617496.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/23/sensetime-ipo/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/23/sensetime-ipo/amp/",
+      "publishedDateTime": "2021-11-23T00:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-cognitive-analytics-market-2021-top-players-emerging-demand-business-profit-analysis-sales-revenue-and-expansion-strategies-by-2026.md",
+      "title": "Cognitive Analytics Market 2021: Top Players, Emerging Demand, Business Profit Analysis, Sales Revenue and Expansion Strategies by 2026",
+      "excerpt": "Nov 23, 2021 (Heraldkeepers) -- The Cognitive Analytics ... Nuance Communications, Microsoft Corporation, Oracle Corporation, Amazon Web Services, Google LLC, Intel Corporation, and Narrative ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-top-players-emerging-demand-business-profit-analysis-sales-revenue-and-expansion-strategies-by-2026-2021-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-2021-top-players-emerging-demand-business-profit-analysis-sales-revenue-and-expansion-strategies-by-2026-2021-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T23:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires.md",
+      "title": "AI Firefight: PG&E Using Artificial Intelligence To Help Stop Wildfires",
+      "excerpt": "PG&E is trying something new to help stop wildfires. The utility is testing artificial intelligence software in some of its ALERTWildfire cameras set up around the state.",
+      "sourceUrl": null,
+      "webUrl": "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/",
+      "originalUrl": "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m101675-ucdn.mp.lura.live/anv-iupl/1FD/FA5/1FDFA5A43B22D5E135477BB753EAEE6F.jpg?Expires=1732233600&KeyName=mcpkey1&Signature=FJUU18ZaSYcSubArBbUM3YM4nh8",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/?amp",
+      "cdnAmpWebUrl": "https://sacramento-cbslocal-com.cdn.ampproject.org/c/s/sacramento.cbslocal.com/video/6162737-ai-firefight-pge-using-artificial-intelligence-to-help-stop-wildfires/?amp",
+      "publishedDateTime": "2021-11-22T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-swiss-re-partners-with-tcs-to-develop-a-resilient-and-futuristic-digital-workplace.md",
+      "title": "Swiss Re Partners with TCS to Develop a Resilient and Futuristic Digital Workplace",
+      "excerpt": "To find out more, read our updated Cookie Policy Swiss Re Partners with TCS to Develop a Resilient and Futuristic Digital Workplace Tata Consultancy Services to Further Develop the New Digital Core on Microsoft 365 to Allow the Reinsurer to Enhance their User Experience Even More,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tcs.com/swiss-re-partners-tcs-resilient-futuristic-digital-workplace",
+      "originalUrl": "https://www.tcs.com/swiss-re-partners-tcs-resilient-futuristic-digital-workplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tata Consultancy Services",
+        "domain": "tcs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-facial-recognition-market-size-opportunity-analysis-report-by-2026.md",
+      "title": "Facial Recognition Market Size | Opportunity Analysis Report by 2026",
+      "excerpt": "Facial Recognition Market size is set to cross USD 12 billion by 2026, according to a new research report by Global Market Insights, Inc. Global facial recognition market is growing demand for advanced identification and verification technologies stemming from rising security concerns is poised to drive outlook.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T21:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-university-of-helsinki-massive-open-online-course-ethics-of-ai-translated-in-finnish-and-swedish.md",
       "title": "University of Helsinki: Massive open online course Ethics of AI translated in Finnish and Swedish",
       "excerpt": "The Finnish and Swedish translations for the University of Helsinki’s online course Ethics of AI will open on 23 November, in connection with a seminar on information policy at the Ministry of Finances.",
@@ -736,377 +1098,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-how-do-you-scale-artificial-intelligence-ai-in-healthcare.md",
-      "title": "How do you scale Artificial Intelligence (AI) in Healthcare?",
-      "excerpt": "Sunny Dosanjh, Director lead for Deloitte’s Healthcare AI and Data team, explores the three key aspects in scaling AI in healthcare",
-      "sourceUrl": null,
-      "webUrl": "https://www.openaccessgovernment.org/healthcare-artificial-intelligence/124827/",
-      "originalUrl": "https://www.openaccessgovernment.org/healthcare-artificial-intelligence/124827/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.openaccessgovernment.org/wp-content/uploads/2021/11/dreamstime_xxl_163033011-scaled.jpg",
-          "width": 2000,
-          "height": 1108,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openaccessgovernment.org",
-        "domain": "openaccessgovernment.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-ai-combines-advanced-ability-to-learn-patterns-using-traditional-machine-learning.md",
-      "title": "AI Combines Advanced Ability to Learn Patterns Using Traditional Machine Learning",
-      "excerpt": "A new research center focusing on next-generation artificial intelligence (AI) technology will create the high-caliber expertise that Australia needs to be competitive in the approaching machine learning-enabled global economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12617",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12617",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12617_16375844573647560.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12617",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12617",
-      "publishedDateTime": "2021-11-22T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-aws-wins-adidas-contract-to-host-its-sap-workloads.md",
-      "title": "AWS wins Adidas contract to host its SAP workloads",
-      "excerpt": "The sports clothing firm says the deal will help create a more sophisticated system for managing supply and demand",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads",
-      "originalUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1637598528/itpro/adidas_shoeboxes_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/amazon-web-services-aws/361621/aws-wins-adidas-contract-to-host-its-sap-workloads?amp",
-      "publishedDateTime": "2021-11-22T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-brazilian-airports-expand-facial-recognition-trials.md",
-      "title": "Brazilian airports expand facial recognition trials",
-      "excerpt": "The domestic airports in São Paulo and Rio de Janeiro are advancing trials of a system developed by the federal government.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/brazilian-airports-expand-facial-recognition-trials/",
-      "originalUrl": "https://www.zdnet.com/article/brazilian-airports-expand-facial-recognition-trials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brazilian-airports-expand-facial-recognition-trials/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazilian-airports-expand-facial-recognition-trials/",
-      "publishedDateTime": "2021-11-22T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-iot-anomaly-detection-startup-shield-iot-lands-74m.md",
-      "title": "IoT anomaly detection startup Shield-IoT lands $7.4M",
-      "excerpt": "IoT, which offers AI-driven anomaly detection for internet of things networks, raised $7.4 million for expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shield-iot-lands-7-4m/",
-      "originalUrl": "https://venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shield-iot-lands-7-4m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Shield-IoT.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shield-iot-lands-7-4m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/iot-anomaly-detection-startup-shield-iot-lands-7-4m/amp/",
-      "publishedDateTime": "2021-11-22T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales.md",
-      "title": "Retailers Use AI to Build Trust in Secondhand Luxury, Sneaker Sales",
-      "excerpt": "Vidyuth Srinivasan, CEO of high-value goods authentication platform Entrupy, told PYMNTS counterfeit items are a $3 trillion problem for the retail industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/",
-      "originalUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/11/luxury-retail-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/retailers-use-ai-to-build-trust-in-secondhand-luxury-sneaker-sales/amp/",
-      "publishedDateTime": "2021-11-22T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-red-hat-bolsters-partner-ecosystem-to-accelerate-data-science-pipelines-across-the-open-hybrid-cloud.md",
-      "title": "Red Hat Bolsters Partner Ecosystem to Accelerate Data Science Pipelines Across the Open Hybrid Cloud",
-      "excerpt": "Red Hat, Inc., the world’s leading provider of open source solutions, today announced the availability of Red Hat OpenShift Data Science as a field trial, as well as an expanded partner ecosystem focused on this new cloud service offering.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-fd3edb68af4f431895e6eca8b976ba26",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-artificial-intelligence-fd3edb68af4f431895e6eca8b976ba26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-nvidias-latest-ai-tech-translates-text-into-landscape-images.md",
-      "title": "Nvidia’s latest AI tech translates text into landscape images",
-      "excerpt": "Nvidia today detailed an AI system called GauGAN2, the successor to its GauGAN model, that lets users create lifelike landscape images that don’t exist. Combining techniques like segmentation mapping,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/",
-      "originalUrl": "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/Nvidia-e1576619111438.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/nvidias-latest-ai-tech-translates-text-into-landscape-images/amp/",
-      "publishedDateTime": "2021-11-22T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

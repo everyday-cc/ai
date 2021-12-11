@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://cdn.defenseone.com/media/screen_shot_2021-11-18_at_11.40.45_am.png"
         width: 1812
         height: 1356
-        isCached: true
-  - title: "Agricultural AI on the upswing"
-    excerpt: "Wall Street Journal, explaining rising interest in AI technology. “To do so farmers need to monitor a constant stream of data on plants, soil and atmospheric conditions.” There is also a labor and monetary factor."
-    publishedDateTime: 2021-12-07T18:11:00Z
-    webUrl: "https://theproducenews.com/technology/agricultural-ai-upswing"
-    type: article
-    provider:
-      name: The Produce News
-      domain: theproducenews.com
-    quality: 39
-    images:
-      - url: "https://theproducenews.com/sites/default/files/styles/fp_slider/public/2021-12/raleys.jpg?h=3ca652f7&itok=SQaNC2UZ"
-        width: 635
-        height: 355
         isCached: true
   - title: "How Artificial Intelligence is Driving Holiday Shopping Revenues"
     excerpt: "Artificial Intelligence tools continue to become more effective, affordable, and accessible for retailers of all sizes; they will be better equipped to make the most of the critical holiday shopping season."

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-11-exclusive-microsofts-16-billion-nuance-bid-set-for-eu-antitrust-approval-sources.md",
+      "title": "Exclusive-Microsoft's $16 billion Nuance bid set for EU antitrust approval -sources",
+      "excerpt": "A Microsoft logo is seen in Los Angeles, California U.S. November 7, 2017. REUTERS/Lucy Nicholson/File Photo/File Photo",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/exclusive-eu-regulators-set-okay-16-bln-microsoft-nuance-deal-sources-say-2021-12-10/",
+      "originalUrl": "https://www.reuters.com/news/picture/exclusive-microsofts-16-billion-nuance-b-idUSKBN2IP0UR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/S6ULVEOZDVLILIHGLNYJ5EPUEE.jpg",
+          "width": 4657,
+          "height": 3105,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T08:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek.md",
       "title": "Microsoft researchers: We've trained AI to find software bugs using hide-and-seek",
       "excerpt": "Microsoft creates an AI bug detector that learns to hunt for and fix bugs without being training it on data from real bugs. Does it work? Kind of.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -984,19 +1036,19 @@
     {
       "path": "_news/2021-12-01-mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
       "title": "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning",
+      "excerpt": "WARREN, N.J. and BANGALORE, India, Dec. 1, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-301434823.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1004066/Mindtree_Logo.jpg?p=facebook",
-          "width": 1496,
-          "height": 785,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/ca/eca138ab-1f6a-575c-ab5b-20f351a1974f/607984186af13.image.jpg?crop=659%2C346%2C420%2C0&resize=659%2C346&order=crop%2Cresize",
+          "width": 659,
+          "height": 346,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1009,8 +1061,8 @@
       "publishedDateTime": "2021-12-01T01:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1367,50 +1419,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-artificial-intelligence-ai-in-construction-market-growing-at-a-cagr-351-key-player-oracle-microsoft-alice-technologies-darktrace-autodesk.md",
-      "title": "Artificial Intelligence (AI) in Construction Market Growing at a CAGR 35.1% | Key Player Oracle, Microsoft, Alice Technologies, DarKTrace, Autodesk",
-      "excerpt": "Artificial Intelligence (AI ... and related services. In July 2017, IBM launched its Watson-based service platform, created on cloud and designed to enhance service providers’ operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-construction-market-growing-at-a-cagr-35-1-key-player-oracle-microsoft-alice-technologies-darktrace-autodesk",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-construction-market-growing-at-a-cagr-35-1-key-player-oracle-microsoft-alice-technologies-darktrace-autodesk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/Thailand_tourism-Phuket-AFP-1K-05-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI",
         "Microsoft AI"
       ]

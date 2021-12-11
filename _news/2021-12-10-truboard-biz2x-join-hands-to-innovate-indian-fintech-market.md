@@ -41,6 +41,34 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "The Hindu Explains | Facial recognition tech in Indian airports"
+    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
+    publishedDateTime: 2021-12-07T14:08:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 54
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
+        width: 615
+        height: 384
+        isCached: true
+  - title: "Explained | Facial recognition tech in Indian airports"
+    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
+    publishedDateTime: 2021-12-08T08:06:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 54
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
+        width: 615
+        height: 384
+        isCached: true
 
 secured: "A6h2jUCWBraynP/xvLWaNagd1MCTjfHyHX9WVlf7URWWa/rqtes64fA/V32jJvW4KaMk8f/r3zXdvAnhYCxNNOZX2Ej53MkDFmqSE7LHS+HD++NdOk62N+WSBUjY90du6iAd3H7eRA/xD5kidaO5W6b/AT2KUeJQLDlDzwVwlMM4GxH0i0S3zeoaJ0jwi4EcXkrzJhnkz0NCokskTfnpugSpJi/HcARf5xILsnH3yW4MSyFF2dZrwtu7XsSrpwgRlo/eiKSfsCyL2nvUAyvnGyrmI1aDlpbhTXLPbRFPDERErl+9PvTBz/ASn/u3TE13b8e06Jy8dJiX+2p/2VLUoNQDyv5sBO9R4Aa3wSTLN0znbZqBJGR6IBXc4ZH+OBHlZ9ciU49lYqveIcf79q/iGywyhbe1WY4A1KiACLC7GyWj9a/DWpLSiImUIHRSkXCuN3hbktqKIEMJTLxWoAjFpZj4KLyi3G9us5GhRDQtufFJMD8XWcN9SV45y4Q4TpxAxgwP3ph6HNCxMbZ3DhiQ+g==;qPJJpDwYsiOe51CqAo120w=="
 ---

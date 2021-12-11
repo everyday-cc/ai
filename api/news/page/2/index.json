@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-10-codifying-humanity-why-ai-sucks-at-content-moderation.md",
+      "title": "Codifying humanity: Why AI sucks at content moderation",
+      "excerpt": "Meta unveiled a new content moderation AI system that it claims is a step towards generalized AI systems. We think they might be exaggerating.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/codifying-humanity-why-ai-sucks-content-moderation",
+      "originalUrl": "https://thenextweb.com/news/codifying-humanity-why-ai-sucks-content-moderation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fzipperzuck.jpg&signature=f413e64c9b1f9fae8b90159af5c31f24",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-instabase-adds-deep-learning-to-make-sense-of-unstructured-data.md",
+      "title": "Instabase adds deep learning to make sense of unstructured data",
+      "excerpt": "Instabase hopes to help businesses benefit from unstructured data with the help of some good, old-fashioned AI",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/",
+      "originalUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1223790172.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/instabase-adds-deep-learning-to-make-sense-of-unstructured-data/amp/",
+      "publishedDateTime": "2021-12-09T13:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-how-bias-creeps-into-the-ai-designed-to-detect-toxicity.md",
       "title": "How bias creeps into the AI designed to detect toxicity",
       "excerpt": "Bias can creep into the AI models used to determine whether comments are 'toxic' versus 'non-toxic,' leading to harmful mistakes.",
@@ -139,6 +244,50 @@
       ]
     },
     {
+      "path": "_news/2021-12-10-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-experts-argue.md",
+      "title": "Community of ethical hackers needed to prevent AI's looming 'crisis of trust', experts argue",
+      "excerpt": "The Artificial Intelligence industry should create a global community of hackers and \"threat modelers\" dedicated to stress-testing the harm potential of new AI products in order to earn the trust of governments and the public before it's too late.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ethical-hacker.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.amp",
+      "publishedDateTime": "2021-12-09T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-why-companies-should-be-using-ai-to-fight-cyberattacks.md",
       "title": "Why companies should be using AI to fight cyberattacks",
       "excerpt": "Cyberattackers use AI, so why not apply it as a defense? One expert explains why AI can take your cybersecurity to the next level of protection.",
@@ -198,7 +347,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/09/blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -549,7 +698,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 177,
       "tags": null,
       "images": [
         {
@@ -844,6 +993,50 @@
       ]
     },
     {
+      "path": "_news/2021-12-09-bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen.md",
+      "title": "Bullish on industrial, consumer, healthcare and fintech in India: John Praveen",
+      "excerpt": "Agencies  We probably won't see the kind of strong earnings we saw in 2021 either in the US or India and might see earnings more in the 15-20% range rather than in the 20-30% range, says John Praveen,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/articleshow/88186185.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/articleshow/88186185.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-18354,msid-88186369/john-praveen.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/amp_articleshow/88186185.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/amp_articleshow/88186185.cms",
+      "publishedDateTime": "2021-12-09T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona.md",
       "title": "FOCUS-Robotaxi race opens up as top contender Waymo in low gear in Arizona",
       "excerpt": "Companies including Ford Motor Co’s Argo AI and General Motors Co’s Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence ... the first and only fully driverless taxi service in the ...",
@@ -971,205 +1164,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-simulating-matter-on-the-quantum-scale-with-ai.md",
-      "title": "Simulating matter on the quantum scale with AI",
-      "excerpt": "Using neural networks to model electron interactions in molecules and materials, advancing the state-of-the-art towards the long-standing challenge of the density functional in quantum chemistry",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI",
-      "originalUrl": "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/sbg0s5HRyjgaED1YsDARdTCWIS4nO0lR2kaC1j0016qpQa6rM7G26aIUSOWfgZATVsh0jRZ1v3Jjfb8Yd4nzX-0OYrHSK1u0NJO5b51kCqPlGuAGdQ",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-pentagon-creates-new-digital-and-artificial-intelligence-office.md",
-      "title": "Pentagon creates new digital and artificial intelligence office",
-      "excerpt": "The position is meant to streamline disparate efforts within the department to drive faster innovation and capabilities with China in mind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/08/pentagon-creates-new-digital-and-artificial-intelligence-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/2h70Sw0X79RAhto2FDovtPsVyzE=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/HXSBFKDG35FRPDV2AMO6XH4UPE.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T15:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-natural-language-processing-is-shaping-intelligent-automation.md",
-      "title": "Natural language processing is shaping intelligent automation",
-      "excerpt": "The content of this article is inspired by Pascal’s book Intelligent Automation. Natural language processing is the name usually given to computers’ ability to perform linguistic tasks ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/08/natural-language-processing-is-shaping-intelligent-automation/",
-      "originalUrl": "https://venturebeat.com/2021/12/08/natural-language-processing-is-shaping-intelligent-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/01/shutterstock_529299211.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/08/natural-language-processing-is-shaping-intelligent-automation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/natural-language-processing-is-shaping-intelligent-automation/amp/",
-      "publishedDateTime": "2021-12-08T14:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis.md",
-      "title": "AWS Deep Learning AMIs: New framework-specific DLAMIs for production complement the original multi-framework DLAMIs",
-      "excerpt": "Since its launch in November 2017, the&nbsp;AWS Deep Learning Amazon Machine Image (DLAMI) has been the preferred method for running deep learning frameworks on Amazon Elastic Compute Cloud (Amazon EC2). For deep learning practitioners and learners who want to accelerate deep learning in the cloud, the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T13:50:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

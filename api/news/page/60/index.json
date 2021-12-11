@@ -2,6 +2,392 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-10-26-deepdraper-a-technique-that-predicts-how-clothes-would-look-on-different-people.md",
+      "title": "DeepDraper: A technique that predicts how clothes would look on different people",
+      "excerpt": "In recent years, some computer scientists have been exploring the potential of deep-learning techniques for virtually dressing 3D digital versions of humans. Such techniques could have numerous valuable applications,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-10-deepdraper-technique-people.html",
+      "originalUrl": "https://techxplore.com/news/2021-10-deepdraper-technique-people.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/deepdraper-a-technique.jpg",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-10-deepdraper-technique-people.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-10-deepdraper-technique-people.amp",
+      "publishedDateTime": "2021-10-26T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-fabric-brings-in-200m-as-it-passes-1b-in-valuation.md",
+      "title": "Fabric brings in $200M as it passes $1B in valuation",
+      "excerpt": "Micro-fulfillment technology company Fabric has closed a $200 million Series C financing round at a valuation of more than $1 billion, according to a Tuesday press release. The company, which has raised $336 million since it was founded, plans to use the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.grocerydive.com/news/fabric-brings-in-200m-as-it-passes-1b-in-valuation/608871/",
+      "originalUrl": "https://www.grocerydive.com/news/fabric-brings-in-200m-as-it-passes-1b-in-valuation/608871/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.grocerydive.com/user_media/cache/fd/11/fd11b30f8466332446de7488304b7d7f.jpg",
+          "width": 770,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-26T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "grocerydive.com",
+        "domain": "grocerydive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-hai-robotics-wins-nextgen-supply-chain-award.md",
+      "title": "Hai Robotics Wins NextGen Supply Chain Award",
+      "excerpt": "Hai Robotics provides efficient, intelligent, flexible, and customized warehouse automation solutions through robotics technology and AI algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/",
+      "originalUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://worldindustrialreporter.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/amp/",
+      "cdnAmpWebUrl": "https://worldindustrialreporter-com.cdn.ampproject.org/c/s/worldindustrialreporter.com/hai-robotics-wins-nextgen-supply-chain-award/amp/",
+      "publishedDateTime": "2021-10-26T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "worldindustrialreporter.com",
+        "domain": "worldindustrialreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad.md",
+      "title": "Photoshop update brings new Sensei AI features to desktop, Raw camera support to iPad",
+      "excerpt": "Adobe MAX is here, and the company’s most popular editing software is unsurprisingly getting a host of updates for the occasion. The most significant updates are landing on Photoshop for desktop,",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
+      "originalUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/10/Photoshop-update-brings-new-Sensei-AI-features-to-desktop-Raw-camera-support-to-iPad.jpg",
+          "width": 1440,
+          "height": 950,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/photoshop-update-brings-new-sensei-ai-features-to-desktop-raw-camera-support-to-ipad-26696698/amp/",
+      "publishedDateTime": "2021-10-26T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-adobe-continues-its-ai-push-in-creative-cloud.md",
+      "title": "Adobe continues its AI push in Creative Cloud",
+      "excerpt": "Over the course of the last few years, Adobe has gone all-in on AI. At its MAX conference this year, that’s once again on full display across updates for virtually all of its products, powered by its Sensei AI platform.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/",
+      "originalUrl": "https://techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/10/landscape_mixer.gif",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/26/adobe-continues-its-ai-push-in-creative-cloud/amp/",
+      "publishedDateTime": "2021-10-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex.md",
+      "title": "Cisco launches new AI-powered and hybrid event features for Webex",
+      "excerpt": "Cisco has launched a range of new features for Webex, including AI-powered noise reduction and a 'wellness' portal for teams.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/",
+      "originalUrl": "https://venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/cisco-fullwidth-mw-12120.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/10/26/cisco-launches-new-ai-powered-and-hybrid-event-features-for-webex/amp/",
+      "publishedDateTime": "2021-10-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-this-ai-resurrects-ancient-board-gamesand-lets-you-play-them.md",
+      "title": "This AI Resurrects Ancient Board Games—and Lets You Play Them",
+      "excerpt": "What tabletop games did our ancestors play in 1000 BCE? A new research project wants to find out, and make them playable online too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/",
+      "originalUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/617700c0a7da35fe9f08a7f7/master/pass/Games-Ancient-Games-Online-1226937967.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/this-ai-resurrects-ancient-board-games-lets-you-play-them/amp",
+      "publishedDateTime": "2021-10-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-26-can-artificial-intelligence-take-the-guesswork-out-of-the-customer-journey.md",
+      "title": "Can Artificial Intelligence Take The Guesswork Out Of The Customer Journey?",
+      "excerpt": "From shopping malls and sports arenas, to train stations and city streets, C2RO is an AI-powered video analytics platform that captures anonymized data about people’s movement so organizations can improve the customer experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/10/26/can-artificial-intelligence-take-the-guesswork-out-of-the-customer-journey/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/10/26/can-artificial-intelligence-take-the-guesswork-out-of-the-customer-journey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F615f342c6b96a12cd286bcaa%2F0x0.jpg",
+          "width": 1200,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/10/26/can-artificial-intelligence-take-the-guesswork-out-of-the-customer-journey/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/10/26/can-artificial-intelligence-take-the-guesswork-out-of-the-customer-journey/amp/",
+      "publishedDateTime": "2021-10-26T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-26-aws-wins-deal-to-store-uk-spy-agencies-work-brings-ai-to-the-table.md",
       "title": "AWS wins deal to store UK spy agencies' work, brings AI to the table",
       "excerpt": "The UK's spy agencies will move top secret data to AWS data centers and gain access to its artificial intelligence tools.",
@@ -780,367 +1166,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-global-natural-language-processing-in-bfsi-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027.md",
-      "title": "Global Natural Language Processing in BFSI Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2027",
-      "excerpt": "A research study conducted on Global Natural Language Processing in BFSI Market 2021 by Company, Regions, Type",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027-2021-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-in-bfsi-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027-2021-10-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T17:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-global-cognitive-dysfunction-and-amyloid-neuropathology-in-late-life-and-treatment-resistant-major-depression.md",
-      "title": "Global cognitive dysfunction and β-amyloid neuropathology in late-life and treatment-resistant major depression",
-      "excerpt": "Taipei, Taiwan Institute of Brain Science and Brain Research Center, School of Medicine, National Yang Ming Chiao Tung University, Taipei, Taiwan Institute of Cognitive Neuroscience, National Central University, Jhongli, Taiwan",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/global-cognitive-dysfunction-and-amyloid-neuropathology-in-latelife-and-treatmentresistant-major-depression/59CC95EDAD28DA8EE35B96905BCB6EC6",
-      "originalUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/global-cognitive-dysfunction-and-amyloid-neuropathology-in-latelife-and-treatmentresistant-major-depression/59CC95EDAD28DA8EE35B96905BCB6EC6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.cambridge.org/covers/PSM_0_0_0/psychological_medicine.jpg?send-full-size-image=true",
-          "width": 1920,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-banjo-loans-bets-on-data-addiction-for-risk-platform.md",
-      "title": "Banjo Loans bets on Data Addiction for risk platform",
-      "excerpt": "In addition, the company has started using Azure Machine Learning services. Read more Microsoft homes in on Oracle and SAP integrations with Clear Software acquisition \"Banjo is data-driven,\" Hedt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/692470/banjo-loans-bets-data-addiction-risk-platform/",
-      "originalUrl": "https://www.arnnet.com.au/article/692470/banjo-loans-bets-data-addiction-risk-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/julian-hedt_1.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T16:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-facebook-knew-about-failed-to-police-abusive-content-globally-documents.md",
-      "title": "Facebook knew about, failed to police, abusive content globally - documents",
-      "excerpt": "The company lacks AI systems to detect abusive ... a minimum number of content moderators for any language offered on the platform. LOST IN TRANSLATION Facebook's users are a powerful resource ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/facebook-knew-about-failed-police-abusive-content-globally-documents-2021-10-25/",
-      "originalUrl": "https://www.reuters.com/technology/facebook-knew-about-failed-police-abusive-content-globally-documents-2021-10-25/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/RUYmrrHpVC6nModFrl3Op9gHkcc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DLBA2LZN6JOU5GTWVQYKN7YQPY.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-the-false-hope-of-current-approaches-to-explainable-artificial-intelligence-in-health-care.md",
-      "title": "The false hope of current approaches to explainable artificial intelligence in health care",
-      "excerpt": "The black-box nature of current artificial intelligence (AI) has caused some to question whether AI must be explainable to be used in high-stakes scenarios such as medicine. It has been argued that explainable AI will engender trust with the health-care workforce,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00208-9/fulltext",
-      "originalUrl": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00208-9/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lancet",
-        "domain": "thelancet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-kbra-altman-launches-high-yield-return-forecasting-model-a-differentiated-approach-using-machine-learning-allows-the-model-to-keep-pace-with.md",
-      "title": "KBRA Altman Launches High Yield Return Forecasting Model: A Differentiated Approach Using Machine Learning Allows the Model to Keep Pace with Changing Market Conditions",
-      "excerpt": "KBRA Altman, a division of KBRA Analytics, is pleased to announce the launch of its new High Yield Return Forecasting Model. Unlike traditional approa",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211025005713/en/KBRA-Altman-Launches-High-Yield-Return-Forecasting-Model-A-Differentiated-Approach-Using-Machine-Learning-Allows-the-Model-to-Keep-Pace-with-Changing-Market-Conditions",
-      "originalUrl": "https://www.businesswire.com/news/home/20211025005713/en/KBRA-Altman-Launches-High-Yield-Return-Forecasting-Model-A-Differentiated-Approach-Using-Machine-Learning-Allows-the-Model-to-Keep-Pace-with-Changing-Market-Conditions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T15:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-travel-expenses-ai-startup-worth-100-million-in-fund-raiser.md",
-      "title": "Travel Expenses AI Startup Worth $100 million in Fund Raiser",
-      "excerpt": "A Switzerland-based startup that says it uses artificial intelligence to help mange travel expenses is raising funds at $100 million valuation, according to people familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-10-25/travel-expenses-ai-startup-worth-100-million-in-fund-raiser",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-10-25/travel-expenses-ai-startup-worth-100-million-in-fund-raiser",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i63.dYmgwUJw/v0/1200x900.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-25T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-26-we-need-to-pay-attention-to-ai-bias-before-its-too-late.md",
-      "title": "We need to pay attention to AI bias before it's too late",
-      "excerpt": "Cognitive bias leads to AI bias, and the garbage-in/garbage-out axiom applies. Experts offer advice on how to limit the fallout from AI bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
-      "originalUrl": "https://www.techrepublic.com/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/25/cc0205d8-ff0a-4d0b-b4c6-a09713397ea1/resize/1200x/269e9cf0da4d09b32d22a62c64a5f3f2/shutterstock-1717584028.jpg",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/we-need-to-pay-attention-to-ai-bias-before-its-too-late/",
-      "publishedDateTime": "2021-10-25T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

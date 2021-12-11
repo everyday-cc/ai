@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-researchers-weve-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
 type: article
 quality: 79
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -25,22 +25,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Artificial Intelligence Research Centers"
-    excerpt: "Timnit Gebru,’ a former AI researcher at Google, has launched its own independent artificial intelligence research center after"
-    publishedDateTime: 2021-12-06T22:22:00Z
-    webUrl: "https://www.trendhunter.com/trends/artificial-intelligence-research"
-    ampWebUrl: "https://www.trendhunter.com/amp/trends/artificial-intelligence-research"
-    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/artificial-intelligence-research"
-    type: article
-    provider:
-      name: TrendHunter
-      domain: trendhunter.com
-    quality: 57
-    images:
-      - url: "https://cdn.trendhunterstatic.com/thumbs/artificial-intelligence-research.jpeg"
-        width: 800
-        height: 534
-        isCached: true
   - title: "AI Researchers Fight Noise by Turning to Biology"
     excerpt: "Tiny amounts of artificial noise can fool neural networks, but not humans. Some researchers are looking to neuroscience for a fix. Artificial intelligence sees things we don’t — often to its detriment. While machines have gotten incredibly good at ..."
     publishedDateTime: 2021-12-07T17:36:00Z

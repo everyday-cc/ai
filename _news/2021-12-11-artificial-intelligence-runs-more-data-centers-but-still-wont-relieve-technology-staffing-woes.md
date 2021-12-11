@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-run
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

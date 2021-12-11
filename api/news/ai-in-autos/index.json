@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-11-new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do.md",
+      "title": "New Artificial Intelligence System Enables Machines That See the World More Like Humans Do",
+      "excerpt": "A new “common-sense” approach to computer vision enables artificial intelligence that interprets scenes more accurately than other systems do. Computer vision systems sometimes make inferences about a scene that fly in the face of common sense.",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
+      "originalUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/3DP3-Infers-Accurate-Pose-Estimates-of-Objects-777x532.jpg",
+          "width": 777,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/",
+      "publishedDateTime": "2021-12-11T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-mercedes-beats-tesla-to-hands-free-driving.md",
       "title": "Mercedes Beats Tesla to Hands-Free Driving",
       "excerpt": "Mercedes can sell its autonomous drive package, called Drive Pilot, to be used on parts of Germany’s Autobahn network at a max speed of 37 miles per hour.",
@@ -62,7 +106,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -104,40 +148,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-5-artificial-intelligence-stocks-to-watch-in-december-2021.md",
-      "title": "5 Artificial Intelligence Stocks To Watch In December 2021",
-      "excerpt": "Hot Artificial Intelligence Stocks To Check Out This Month. As adoption of artificial intelligence (AI) rises, artificial intelligence stocks could be among the biggest benefici",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021",
-      "originalUrl": "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021?amp",
-      "publishedDateTime": "2021-12-10T11:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -190,6 +200,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-experts-argue.md",
+      "title": "Community of ethical hackers needed to prevent AI's looming 'crisis of trust', experts argue",
+      "excerpt": "The Artificial Intelligence industry should create a global community of hackers and \"threat modelers\" dedicated to stress-testing the harm potential of new AI products in order to earn the trust of governments and the public before it's too late.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ethical-hacker.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.amp",
+      "publishedDateTime": "2021-12-09T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1336,49 +1390,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-baidu-begins-commercial-robotaxi-services-in-beijing.md",
-      "title": "Baidu begins commercial robotaxi services in Beijing",
-      "excerpt": "Baidu received the country’s first permit for commercial robotaxi services, a major milestone for Chinese self-driving car industry.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
-      "originalUrl": "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technode.com/wp-content/uploads/2021/11/WechatIMG558的副本.jpeg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
-      "publishedDateTime": "2021-11-26T01:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

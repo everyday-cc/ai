@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew"
 cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew"
 type: article
 quality: 61
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -55,22 +55,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/118310780_747024792786998_5825864557738398697_n-scaled.jpg"
         width: 2560
         height: 1706
-        isCached: true
-  - title: "Case Western Reserve University acquires new 'Artificial Intelligence SuperComputer'"
-    excerpt: "As a result of the system, more researchers will be able to manipulate larger amounts of data simultaneously and quickly."
-    publishedDateTime: 2021-12-06T22:37:00Z
-    webUrl: "https://www.wkyc.com/article/news/education/case-western-reserve-university-artificial-intelligence-supercomputer/95-e78224da-2a2f-46ab-8af6-7901e289b3d7"
-    ampWebUrl: "https://www.wkyc.com/amp/article/news/education/case-western-reserve-university-artificial-intelligence-supercomputer/95-e78224da-2a2f-46ab-8af6-7901e289b3d7"
-    cdnAmpWebUrl: "https://www-wkyc-com.cdn.ampproject.org/c/s/www.wkyc.com/amp/article/news/education/case-western-reserve-university-artificial-intelligence-supercomputer/95-e78224da-2a2f-46ab-8af6-7901e289b3d7"
-    type: article
-    provider:
-      name: WKYC3
-      domain: wkyc.com
-    quality: 50
-    images:
-      - url: "https://media.wkyc.com/assets/WKYC/images/76e3ceec-0e7b-4122-b975-6213fe4f6537/76e3ceec-0e7b-4122-b975-6213fe4f6537_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
 
 secured: "VcmnZ6AMuKDYzLZ2aLr3HckQx6dPwaEFvbg6SL85rIiBcdyudw+IQeFY1YIOPFhS01fYd49SUj/5EzN6pueYbeGCuQtUbM6w22t7UvVjEWS7jXQWnip+C5LprN2QUoyssMMIdSyBSThnkXUudxbzR9UTnGzRXMwmAS9g1K/46cNg2pCDrFX1xchrSFJ39s4hJ2fvJGG4tJHW785wTy9hmTCopI4uhqQULmqb6HMQpeFhEsN/GYiMf+xy5F/SlxllC68ffLxX0IFNdCNI2ncHqdpBdEV8jAo+cx3EOn+pIPoZp5sKf+1FabcHOTIV275dRl4Y4EQqGKj0IlvyLpxkrOPNNyOoRSncgE9Uoc1OZJjUQrx/jyCruru4V9RAqqeqTIU9wVg3oZ2+yXGv427GHXKmwORFVxcZvli2s8oi+QmmJjB/6TWOBHd7krVbGVgOMb3Ay2GwuMOXp7bc+Mx758jDYtm8jx9FTCiUCjyEzTjYFZyn53hYZr0QNVOnuwzKXiGkRL7jKBmW7bVwzyzLMw==;9cthFG7k2xQN9p4qbYYcpg=="

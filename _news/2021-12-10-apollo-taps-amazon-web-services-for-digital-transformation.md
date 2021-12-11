@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM plans further software integration with AWS to deepen business transformation"
-    excerpt: "To accelerate cloud transformation, IBM and Amazon Web Services Inc. have tightened their ties and strengthened critical features, including security, automation and artificial intelligence. “One of the things that we’re seeing with our clients at IBM is a lot of that low-hanging fruit of the cloud was achieved,"
-    publishedDateTime: 2021-12-06T21:50:00Z
-    webUrl: "https://siliconangle.com/2021/12/06/ibm-plans-further-software-integration-with-aws-to-deepen-business-transformation-reinvent/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/IMG_6637.jpg"
-        width: 627
-        height: 418
-        isCached: true
   - title: "Data democratization a key focus for Informatica as it expands partnership with AWS"
     excerpt: "A new artificial intelligence-powered solution from Informatica LLC for AWS Lake Formation is designed with these principles in mind. As part of AWS re:Invent 2021, enterprise data management specialist Informatica introduced a way to democratize access to cloud data lakes in Amazon Web Services Inc."
     publishedDateTime: 2021-12-10T21:20:00Z

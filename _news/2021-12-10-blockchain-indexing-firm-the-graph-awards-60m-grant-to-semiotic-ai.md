@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/09/blockchain-indexing-firm-the-grap
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Machine Learning, Artificial Intelligence and Blockchain are Revolutionizing the Legal Industry"
-    excerpt: "Blockchain, machine learning, and artificial intelligence are revolutionizing the legal industry. Digital transformation in the legal industry has been slow, but as benefits are becoming more obvious,"
-    publishedDateTime: 2021-12-06T21:29:00Z
-    webUrl: "https://www.bbntimes.com/technology/machine-learning-artificial-intelligence-and-blockchain-are-revolutionizing-the-legal-industry?s=09"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 59
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/Machine_Learning_Artificial_Intelligence_and_Blockchain_are_Revolutionizing_the_Legal_Industry.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "2tsCmRTzQam5JSwwL39W+O+vq/KLdESRUUdKZdmhxJCi/dBrl8eW2DD1a6k6NlVJgT7lC46Sas4aujAty7Ll5AT/Em1EVZIbEIzKII1nk7TIL3LgPjvfYnl2yT3xDhCYiuDAfJ6JApk705RvujRNG043aeuHbhnkZGl0BB9Twl4dM+buGbnv/9MTFX3y1J7ZadiXrNoQo2XchR2wqFKibAth+pU2AYe98H70Fi8aXm4EBFs7r7NqBbut2eUw/wnRlXHc4pDBdYNsd0GNi+rYMPgmkWS+GEDSlvOCrCXlxY4iKxrY6CzMqHbfy98MIEumJxwhnVPm0U2nudC+1FuK8o/n2pYv6WR5Fk8kCufHS5V0MZqigDvxOWUty6n69jsJzT3oDmXq7IwTlO28I4DUC9lDIQ40O8P1btc/2RwxwfBTuavDqG0Xgmqz83iw/JoQFno/0JWRosbRWteEjzqwDzVdYMo6OAjQwejKJBQWPbVsfEI1Ue9G0cql2Y9C1qKOQo27S9CdPsgLfLxkFWChRg==;bZefdLRhihgOltkHZ/CUiw=="
 ---

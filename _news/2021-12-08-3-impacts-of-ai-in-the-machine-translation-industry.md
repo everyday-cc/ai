@@ -25,65 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "The Top 6 Artificial Intelligence Plays in India"
-    excerpt: "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible."
-    publishedDateTime: 2021-12-06T22:39:00Z
-    webUrl: "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6"
-    ampWebUrl: "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
-    cdnAmpWebUrl: "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India"
+  - title: "The Next Frontiers of AI and Machine Learning in Data"
+    excerpt: "Over the last three years, between 40-50% of respondents reported deploying AI/ML in data driven business sectors."
+    publishedDateTime: 2021-12-08T04:23:00Z
+    webUrl: "https://fintechnews.sg/56987/sponsoredpost/the-next-frontiers-of-ai-and-machine-learning-in-data/"
     type: article
     provider:
-      name: Equitymaster
-      domain: equitymaster.com
-    quality: 61
-    images:
-      - url: "https://www.eqimg.com/images/2021/09292021-PH-equitymaster.jpg"
-        width: 350
-        height: 215
-        isCached: true
-  - title: "Machine Learning is the most acquired skill in India on Coursera in 2021"
-    excerpt: "As per Future of Jobs 2020 by the World Economic Forum, AI and Machine Learning Specialists, Data Analysts and Data Scientists are emerging job roles. Therefore, graduates and professionals are ..."
-    publishedDateTime: 2021-12-09T02:54:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/business-analytics/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021/88177055"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/business-analytics/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021/88177055"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/business-analytics/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021/88177055"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
+      name: Fintech Singapore
+      domain: fintechnews.sg
     quality: 58
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88177055,imgsize-104416,width-1200,height-628,overlay-etcio/machine-learning-is-the-most-acquired-skill-in-india-on-coursera-in-2021.jpg"
-        width: 1200
-        height: 628
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/11/The-Next-Frontiers-of-AI-and-Machine-Learning-in-Data.jpg?x47707"
+        width: 2048
+        height: 1136
         isCached: true
-  - title: "The Hindu Explains | Facial recognition tech in Indian airports"
-    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
-    publishedDateTime: 2021-12-07T14:08:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
+  - title: "Current Status of Artificial Intelligence"
+    excerpt: "AI (Artificial Intelligence) is used in increasingly more areas of our lives, as both companies and people rely on its recommendations. Although this year has been just as challenging for the worldpopulation,"
+    publishedDateTime: 2021-12-09T14:53:00Z
+    webUrl: "https://www.linkedin.com/pulse/current-status-artificial-intelligence-stefan-pechardscheck"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 54
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 41
     images:
-      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "Explained | Facial recognition tech in Indian airports"
-    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
-    publishedDateTime: 2021-12-08T08:06:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 54
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
-        width: 615
-        height: 384
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEbPk5daAVfxg/article-cover_image-shrink_720_1280/0/1639061348860?e=1644451200&v=beta&t=s7OmyfEKCBaGXs5ums1CLvEflp4UxA2CHNliclZzB6M"
+        width: 1080
+        height: 720
         isCached: true
 
 secured: "ZJHN5uexEp7sgrBT221onCPcvZ4Dgd5jTgXE9krstf1i1YdrEsz0zLHZ3gVnHGDlx1j97O454N/F9NwLxKn86HsSqIe1rES3w6btczBliAP0Yi3wxZcoRVQGPb5VmOixJrNzREGgbOIteCLTKeyeXRwJPc96My0lA8xrghOOBS8GwknS7y1atj6syfmV8bZMbzogfHMIGgTZlICAjPa6DQScvpzkvFSEMAhc7+c9i0eEG7/WNtCWruN6WvDq/e2NKU6kt6EM4fZOpy36jvym/2fQGZpLO03En9AqJ131wAJk2gXwR7tsjSZ/Xce9NNJbmYMjZ0DFn1RltaA8rRHEs1qcLTmH96kDNY9P8J3caAWZjR3HD2A9F9soTD3k3pwDSoMWX12eO0cdPpJmiaa01H2RsoKjYAXuLxmKprSMF07l38fj17P9lOmX5Mq3e6psWr7KkH8Kjrki8wfqexgYthTPP2WfdCAsVRXqaLjq7QMvkGSJ2B8E+fr35IH9TnzkJ0jBNGJveVVOpACkQIz48g==;4+lMImie2XMs5mvumfyyXQ=="

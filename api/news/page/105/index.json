@@ -2,6 +2,400 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2021-09-23-explore-image-analysis-results-from-amazon-rekognition-and-store-your-findings-in-amazon-documentdb.md",
+      "title": "Explore image analysis results from Amazon Rekognition and store your findings in Amazon DocumentDB",
+      "excerpt": "When we analyze images, we may want to incorporate other metadata related to the image. Examples include when and where the image was taken, who took the image, as well as what is featured in the image. One way to represent this metadata is to use a JSON format, which is well-suited for a document […]",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/explore-image-analysis-results-from-amazon-rekognition-and-store-your-findings-in-amazon-documentdb/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/explore-image-analysis-results-from-amazon-rekognition-and-store-your-findings-in-amazon-documentdb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/14/ML-3022-image003.jpg",
+          "width": 1240,
+          "height": 831,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T09:51:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-android-adds-facial-gesture-controls-and-handwriting-recognition-accessibility-features.md",
+      "title": "Android adds facial gesture controls and handwriting recognition accessibility features",
+      "excerpt": "Google’s raft of new features coming to Android this fall includes some interesting new accessibility features. There are new facial gesture controls designed for people with motor impairments, as well as a new handwriting recognition feature for Lookout,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
+      "originalUrl": "https://www.theverge.com/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/sY-QLcLpUYEAsrQHxGaStgDRTx8=/0x0:1284x856/1400x933/filters:focal(540x326:744x530):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/69898308/Untitled__2_.0.png",
+          "width": 1284,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/9/23/22689349/android-facial-gesture-controls-handwriting-recognition-accessibility-features",
+      "publishedDateTime": "2021-09-23T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-gm-invests-300m-in-chinas-self-driving-car-company-momenta.md",
+      "title": "GM invests $300M in China’s self-driving car company Momenta",
+      "excerpt": "General Motors is investing $300 million in China's self-driving car company Momenta. GM said Thursday that the investment will speed up the development of next-generation self-driving technologies in China.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070",
+      "originalUrl": "https://apnews.com/article/business-technology-china-3ac51a2f83d29fffa9807a5b74b02070",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/1759e8719a7e4b3196a74cd342b7b4ee/3000.jpeg",
+          "width": 2999,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-samsung-in-talks-with-tesla-to-make-next-gen-self-driving-chips-korea-economic-daily.md",
+      "title": "Samsung in talks with Tesla to make next-gen self-driving chips -Korea Economic Daily",
+      "excerpt": "Samsung Electronics is in talks with Tesla to make Tesla's next-generation self-driving chips based on Samsung's 7-nanometre chip production process, a South Korean newspaper reported on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/samsung-talks-with-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2021-09-23/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/samsung-talks-with-tesla-make-next-gen-self-driving-chips-korea-economic-daily-2021-09-23/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/WvidrcP5l2WCxHpUqCwZpUom3cQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FKIHL5J22BM6LM73QL4MWKOOG4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-23T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-tesla-is-in-talks-with-samsung-to-produce-its-next-gen-full-self-driving-chip.md",
+      "title": "Tesla is in talks with Samsung to produce its next-gen Full Self-Driving chip",
+      "excerpt": "According to a new report from Korea, Tesla is currently in talks with Samsung Electronics to produce its next-gen Full Self-Driving chip. The new chip is expected to first launch in the Tesla Cybertruck next year.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
+      "originalUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 423,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Screen-Shot-2019-04-22-at-2.48.54-PM-e1568302212821.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/09/23/tesla-in-talks-samsung-produce-next-gen-full-self-driving-chip/amp/",
+      "publishedDateTime": "2021-09-23T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-openai-unveils-model-that-can-summarize-books-of-any-length.md",
+      "title": "OpenAI unveils model that can summarize books of any length",
+      "excerpt": "And Facebook is reportedly developing an AI tool that summarizes news articles so users don’t have to read them. OpenAI’s new model builds on the company’s previous research, which found ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/09/23/openai-unveils-model-that-can-summarize-books-of-any-length/",
+      "originalUrl": "https://venturebeat.com/2021/09/23/openai-unveils-model-that-can-summarize-books-of-any-length/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/09/23/openai-unveils-model-that-can-summarize-books-of-any-length/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/23/openai-unveils-model-that-can-summarize-books-of-any-length/amp/",
+      "publishedDateTime": "2021-09-23T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-opinion-how-artificial-intelligence-could-save-your-life.md",
+      "title": "Opinion: How artificial intelligence could save your life",
+      "excerpt": "Machine intelligence implies serious consequences for human life, with mass unemployment being just one example. And yet, the transformative power of AI might actually save people’s lives. AI aims to simulate the human mind’s ability to learn,",
+      "sourceUrl": null,
+      "webUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life",
+      "originalUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.prod.postmedia.digital/montrealgazette/wp-content/uploads/2021/09/afp_1qa2a5.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/",
+      "cdnAmpWebUrl": "https://montrealgazette-com.cdn.ampproject.org/c/s/montrealgazette.com/opinion/opinion-how-artificial-intelligence-could-save-your-life/wcm/5f1cb3c0-543d-4e66-a770-f4122faac455/amp/",
+      "publishedDateTime": "2021-09-23T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Montreal News",
+        "domain": "montrealgazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-johnson-controls-adds-new-body-worn-camera-autonomous-robot-and-mail-screening-solutions-to-its-building-security-portfolio.md",
+      "title": "Johnson Controls adds new body worn camera, autonomous robot and mail screening solutions to its building security portfolio",
+      "excerpt": "A security operator can control the main robot’s movable front-facing camera ... is the ‘new normal’, that means a lapse in security - at least in a thief’s mind. So how worried should business owners be? Well, the latest figures are pretty ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/johnson-controls-body-worn-camera-autonomous-robot-mail-screening-solutions-building-security-co-2900-ga-co-1632393374-ga-co-1632394913-ga-npr.1632396364.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/johnson-controls-body-worn-camera-autonomous-robot-mail-screening-solutions-building-security-co-2900-ga-co-1632393374-ga-co-1632394913-ga-npr.1632396364.html?ref=nav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sourcesecurity.com/img/news/612/johnson-controls-visual-alarm-monitoring-web-based-client-c-cure-9000-system-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/johnson-controls-body-worn-camera-autonomous-robot-mail-screening-solutions-building-security-co-2900-ga-co-1632393374-ga-co-1632394913-ga-npr.1632396364.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/johnson-controls-body-worn-camera-autonomous-robot-mail-screening-solutions-building-security-co-2900-ga-co-1632393374-ga-co-1632394913-ga-npr.1632396364.html",
+      "publishedDateTime": "2021-09-23T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-09-23-nvidia-and-open-robotics-accelerate-ros-2-performance.md",
       "title": "NVIDIA and Open Robotics accelerate ROS 2 performance",
       "excerpt": "NVIDIA and Open Robotics have entered into an agreement to accelerate ROS 2 performance on NVIDIA’s Jetson edge AI platform and GPU-based systems. These in",
@@ -764,395 +1158,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-building-more-equitable-education-systems-with-the-help-of-ai.md",
-      "title": "Building More Equitable Education Systems With The Help Of AI",
-      "excerpt": "AI is already supporting education non-profits in their efforts to provide students with the skills they need for success in college and beyond, and might be the key to enabling lasting change in educational systems worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614bbdbab0e0477d030c0d2e%2F0x0.jpg",
-          "width": 1200,
-          "height": 747,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2021/09/22/building-more-equitable-education-systems-with-the-help-of-ai/amp/",
-      "publishedDateTime": "2021-09-22T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-mitsubishi-heavy-industries-engineering-partners-in-new-concession-of-dubai-metro-and-dubai-tram-in-joint-venture-with-keolis-and-mitsubishi.md",
-      "title": "Mitsubishi Heavy Industries Engineering partners in new concession of Dubai Metro and Dubai Tram in joint venture with Keolis and Mitsubishi Corp.",
-      "excerpt": "Billed as the longest driverless metro project worldwide ... diverse technology solutions that incorporate digital and artificial intelligence advancements in the transportation field.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1102846970/Mitsubishi-Heavy-Industries-Engineering-partners-in-new-concession-of-Dubai-Metro-and-Dubai-Tram-in-joint-venture-with-Keolis-and-Mitsubishi-Corp&source=28",
-      "originalUrl": "https://menafn.com/1102846970/Mitsubishi-Heavy-Industries-Engineering-partners-in-new-concession-of-Dubai-Metro-and-Dubai-Tram-in-joint-venture-with-Keolis-and-Mitsubishi-Corp&source=28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-09/22/M_fb87eimage_story.jpg",
-          "width": 1000,
-          "height": 562,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-facebooks-chief-technology-officer-to-step-down-in-2022.md",
-      "title": "Facebook’s Chief Technology Officer to Step Down in 2022",
-      "excerpt": "Mike Schroepfer, who leads the company’s artificial intelligence and other technical efforts, said he planned to transition into a role as a senior fellow.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.html",
-      "originalUrl": "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/09/22/multimedia/22facebook/22facebook-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/09/22/technology/facebook-cto-step-down-mike-schroepfer.amp.html",
-      "publishedDateTime": "2021-09-22T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-the-state-of-mlops-in-2021-is-dominated-by-startups.md",
-      "title": "The state of MLOps in 2021 is dominated by startups",
-      "excerpt": "Closing the gaps in MLOps is a lucrative new opportunity for startups, one that Dr. Ori Cohen says has seen $3.8 billion in funding already.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-dominated-by-startups/",
-      "originalUrl": "https://venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-dominated-by-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/GettyImages-1193139738-e1632245679253.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-dominated-by-startups/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/22/the-state-of-mlops-in-2021-is-dominated-by-startups/amp/",
-      "publishedDateTime": "2021-09-22T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-mit-developed-a-toolkit-used-to-create-3d-printed-muscle-sensing-wearables.md",
-      "title": "MIT developed a toolkit used to create 3D-printed muscle-sensing wearables",
-      "excerpt": "MIT's Science and Artificial Intelligence Laboratory (CSAIL) will present its research at the upcoming ACM Symposium on User Interface Software and Technology (UIST) next month, with",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
-      "originalUrl": "https://www.techspot.com/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-22-image-49.jpg",
-          "width": 2230,
-          "height": 1212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91378-mit-developed-toolkit-used-create-3d-printed-muscle.html",
-      "publishedDateTime": "2021-09-22T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-fintech-zest-ai-becomes-a-cuso.md",
-      "title": "Fintech Zest AI Becomes a CUSO",
-      "excerpt": "Zest AI, a Los Angeles-based provider of artificial intelligence-powered loan underwriting software, has further solidified its role in the credit union industry by officially becoming a CUSO, Zest AI announced Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/",
-      "originalUrl": "https://www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cutimes.com/contrib/content/uploads/sites/413/2019/07/fintech-acquisition-e1564581828696.jpg",
-          "width": 620,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/?amp=1",
-      "cdnAmpWebUrl": "https://www-cutimes-com.cdn.ampproject.org/c/s/www.cutimes.com/2021/09/22/fintech-zest-ai-becomes-a-cuso/?amp=1",
-      "publishedDateTime": "2021-09-22T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Credit Union Times",
-        "domain": "cutimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-robotics-and-blockchain-top-the-list-of-fastest-growing-industries.md",
-      "title": "Robotics and Blockchain Top the List of Fastest-Growing Industries",
-      "excerpt": "Agricultural technology, big data, and other tech sectors continued speedy growth, according to a new report on the global state of entrepreneurship.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inc.com/gabrielle-bienasz/global-startup-ecosystem-report-robotics-artificial-intelligence.html",
-      "originalUrl": "https://www.inc.com/gabrielle-bienasz/global-startup-ecosystem-report-robotics-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-916478814_481999_mpzers.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-22T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-23-ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark.md",
-      "title": "AI industry, obsessed with speed, is loathe to consider the energy cost in latest MLPerf benchmark",
-      "excerpt": "on Wednesday issued the latest vendor results for performance on benchmark tests of machine learning such as object recognition and natural language processing. Compared to the previous report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "originalUrl": "https://www.zdnet.com/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ad988efb009532b6ffb0ff752ba39e0e2f795839/2021/10/05/d4f24554-7da2-44c4-8e5d-87c09f1f8234/20210924-tiernan-beth-sus.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-industry-obsessed-with-speed-is-loathe-to-consider-the-energy-cost-in-latest-mlperf-benchmark/",
-      "publishedDateTime": "2021-09-22T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

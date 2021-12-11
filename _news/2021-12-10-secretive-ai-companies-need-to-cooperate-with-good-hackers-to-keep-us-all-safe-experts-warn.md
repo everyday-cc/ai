@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-go
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849/amp"
 type: article
 quality: 76
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gizmodo
@@ -40,7 +40,7 @@ related:
     provider:
       name: techxplore.com
       domain: techxplore.com
-    quality: 65
+    quality: 165
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ethical-hacker.jpg"
         width: 2880

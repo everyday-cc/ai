@@ -44,6 +44,20 @@ related:
         width: 2048
         height: 1136
         isCached: true
+  - title: "3 Impacts of AI in the Machine Translation Industry"
+    excerpt: "This has become even more important due to globalization and the advent of instant translation technologies via API, not only for trade but also for news, legal issues, etc. Given that there are over 7,"
+    publishedDateTime: 2021-12-07T22:13:00Z
+    webUrl: "https://www.chron.com/business/article/3-Impacts-of-AI-in-the-Machine-Translation-16682156.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/11/70/21798428/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "hve+60IAt7CJegPcD1Z0ir9UfYPTMGu0FprL5tj8S9DC9QpT/H10p5yIKh0gKRaRT47qgjc6ZFLri2sMDWSaNrgmVZT/S17D6FRetKmnaHVkfcEf51NE0gcoC0yFxMCNTlgabbOfzp6HJfiOkuVX0mfRyiDu1Cqq35EU4yUWolVHBJiGx7ffWMfa2sw2O72/zD+CFhnvPhQ9HiTMpqXWkmF1KVRYlH4MS4qxx1TsXnM0PooN6TdNF/L66pgjASe5G6TClmpFYdIG90QOKJA1/AW15spGsCu5HNI2PimnXeDQRIm2dD4nXj1VLlsjeiCu9JXsu5DpWHqN0Dd9DL9kVwD2w07TZE1cDzXLDTc6LBo=;eEk9d+ee01ni5yoL6Oq0/g=="
 ---

@@ -100,20 +100,6 @@ related:
         width: 1812
         height: 1356
         isCached: true
-  - title: "Agricultural AI on the upswing"
-    excerpt: "Wall Street Journal, explaining rising interest in AI technology. “To do so farmers need to monitor a constant stream of data on plants, soil and atmospheric conditions.” There is also a labor and monetary factor."
-    publishedDateTime: 2021-12-07T18:11:00Z
-    webUrl: "https://theproducenews.com/technology/agricultural-ai-upswing"
-    type: article
-    provider:
-      name: The Produce News
-      domain: theproducenews.com
-    quality: 39
-    images:
-      - url: "https://theproducenews.com/sites/default/files/styles/fp_slider/public/2021-12/raleys.jpg?h=3ca652f7&itok=SQaNC2UZ"
-        width: 635
-        height: 355
-        isCached: true
   - title: "How artificial intelligence is changing the mergers and acquisitions process"
     excerpt: "Babst Calland's W. Dane Fennell and Christian A. Farmakis dive into how AI is transforming due diligence in the legal marketplace."
     publishedDateTime: 2021-12-07T22:30:00Z
