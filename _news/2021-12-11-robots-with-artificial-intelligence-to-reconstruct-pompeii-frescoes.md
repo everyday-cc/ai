@@ -7,7 +7,7 @@ originalUrl: "https://greekreporter.com/2021/12/11/robots-with-artificial-intell
 webUrl: "https://greekreporter.com/2021/12/11/robots-with-artificial-intelligence-to-reconstruct-pompeii-frescoes/"
 type: article
 quality: 54
-heat: 65
+heat: 64
 published: false
 
 provider:

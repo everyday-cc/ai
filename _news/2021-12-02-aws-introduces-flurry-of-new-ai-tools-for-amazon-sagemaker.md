@@ -19,6 +19,7 @@ topics:
   - AI
   - AWS AI
   - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/amazon.png"

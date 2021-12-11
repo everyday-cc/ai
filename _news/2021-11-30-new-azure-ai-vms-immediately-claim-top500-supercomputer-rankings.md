@@ -14,6 +14,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteWaveSmall.jpg"
@@ -21,6 +22,6 @@ images:
     height: 450
     isCached: true
 
-secured: "GgFdU7a6bllYD+e7ifpoMeJtzcl9m6wTA1fpeR1FDhTR2pU8Q9N4OPxMq9OH6eYAKn3adSRjyrvHEehgLc+Djcbf4wg8v4ikMuJQx7DdTDs3VDy5hvuaWJtsofClTPoUFOXvhyqu68ArlTVbdAQbsvRqVTvp/Q6r9MR2HCO6Fo9d4qkL2MHu+u1JAekjF65BS2Qt06J56zZfnNQgyBeuVkHx4cemD4NyM7fiZZo2QG7tzmQzvgkZeXy/QTR53toM3F+kOTmmelx1Wx3HZBpRywSIBYPIkQ1and2lAjUV5XZMV+MP+Q7kyX4195EY7tttGXC8h/OKDKnk3aRLFJByAswcsrFnBnNlawbhfAR4Jt8=;lkl0kY1hhBN0Qz+93O2XAQ=="
+secured: "tjANVlCIACoDGOtqPOQAWW3Qim1zxW5GPMqdoEwC6QJ5w0gnpEt38gPAB6xINfaB+MFmaD/K2AcctaecOPirB/F7Mkq2tsSa/n4LjxwcV54XjYcBpyNBr28pI4UedL+MGo7/GnSv9fDgMGXhyTJELlF8ZYwM7Mv4HCpeBsHtwXdr2VvHV7HdhIsaFcHXYrwv5QCAFdU23/bjD4HXC3RvDAxhksmPkqbVj2hKdG148iitWQe8YDzLMf1NMLmOZGz98hEtscYAoKnNA1uVnL4CvRFyXQFExMSU7l3GGPJ/zW9vHp+9dMXDaiJlfuRh0/Kx6xRBPI6u0DqrABPvDZDhFXBXN01Ymt3cyR2r1viVqI2clK9QqiS2aSsiT2DwffmxmYBorBoUyVRoNbalhU60PPuWhuLf01wfRwONSL9CeWB1ez3qiGhljftSRgQLCTZTh9vXsIMtiH/k3bzsYE9WLf7+sf3uHjUXqkS0YYktbB3+pCalwSPsHCgmTkv4RNZ7o8tnL/tGHtZmRK+dyECIQA==;tjeTY5GA0UMoSBZHN8Mt0g=="
 ---
 

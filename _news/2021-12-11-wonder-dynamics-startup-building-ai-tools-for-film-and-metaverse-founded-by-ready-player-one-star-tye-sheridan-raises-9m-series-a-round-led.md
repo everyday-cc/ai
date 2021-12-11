@@ -40,19 +40,19 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "CORRECTING and REPLACING Tye Sheridan’s Startup Wonder Dynamics Raises $9M Series A Round"
-    excerpt: "Tye Sheridan’s Startup Wonder Dynamics Raises $9M Series A round (instead of Wonder Dynamics, Startup Building AI Tools for Film and Metaverse Founded by Ready Player One Star Tye Sheridan, Raises $9M Series A Round Led by Horizons Ventures and Epic Games,"
-    publishedDateTime: 2021-12-11T00:59:00Z
-    webUrl: "https://fredericksburg.com/lifestyles/technology/correcting-and-replacing-tye-sheridan-s-startup-wonder-dynamics-raises-9m-series-a-round/article_effae0c1-48e0-5978-bd9d-70a0ca59e3f7.html"
+  - title: "CORRECTING and REPLACING Tye Sheridan's Startup Wonder Dynamics Raises $9M Series A Round"
+    excerpt: "Tye Sheridan's Startup Wonder Dynamics Raises $9M Series A round (instead of Wonder Dynamics, Startup Building AI Tools for Film and Metaverse Founded by Ready Player One Star Tye Sheridan, Raises $9M Series A"
+    publishedDateTime: 2021-12-11T10:57:00Z
+    webUrl: "https://www.lelezard.com/en/news-20151916.html"
     type: article
     provider:
-      name: Fredericksburg.com
-      domain: fredericksburg.com
+      name: Le Lézard
+      domain: lelezard.com
     quality: 28
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/0/18/018b3c41-1c8a-5e57-9f3e-2ad812d341e1/61b40d6797903.image.jpg?crop=1200%2C630%2C0%2C85&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Tye Sheridan, Nikola Todorovic VFX Startup Wonder Dynamics Raises $9M; Epic Games, Samsung Investors"
     excerpt: "Wonder Dynamics, a startup founded by Ready Player One star Tye Sheridan and VFX expert Nikola Todorovic that aims to lower the cost and level the playing field for visual effects, raised $9 million in a Series A funding round that included Epic Games and Samsung as investors."

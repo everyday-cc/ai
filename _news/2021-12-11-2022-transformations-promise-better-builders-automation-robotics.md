@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/10/2022-transformations-promise-bett
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/2022-transformations-promise-better-business-builders-automation-and-robotics/amp/"
 type: article
 quality: 104
-heat: 106
+heat: 107
 published: true
 
 provider:

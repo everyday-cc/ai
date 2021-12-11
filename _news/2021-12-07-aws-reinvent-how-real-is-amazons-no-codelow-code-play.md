@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Re:Invent 2021: The 15 Coolest Products And Services"
-    excerpt: "A platform to turn Java applications into microservices. And a drone that brings together artificial intelligence and 5G. These offerings from Boston Dynamics, vFunction and Qualcomm, respectively ..."
-    publishedDateTime: 2021-12-06T18:29:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/aws-re-invent-2021-the-15-coolest-products-and-services"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0270-13e50c736b4d-9c65a216a991-1000/aws-reinvent-intro-photo.jpg"
-        width: 610
-        height: 458
-        isCached: true
   - title: "Five key takeaways from AWS re:Invent"
     excerpt: "Venkatesh Govindarajan and Kelsea Luce from Cloudreach provide five key takeaways from the recent AWS re:Invent conference"
     publishedDateTime: 2021-12-09T10:24:00Z

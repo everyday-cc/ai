@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/to-see-proteins-change-in-quadrillionths
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/to-see-proteins-change-in-quadrillionths-of-a-second-use-ai/amp"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 1600
     isCached: true
 
-secured: "QcMaHoQsyWLUZz2Yr/fVac4Yidwyh/0wozzp2PtUT/LiSiTAiZcS5JQTDX3tSmO3eF5UvUmdgxsx3Z3h0bWEsbHN1oEsTRb1RplmwjvotL22jYdY+iDQtXuavvXX0IWUa+bo0B7FsaW+OxCIuU4egF+MeAxucly8w1X+elYT6i9NzlcCvuzAj/Vl4HdXakxV2ZfttybdCc08uxSEhHd016wZm/wumWTC6ktwsnsLto2MYhlRP9cxI8SGh4jCCbHdERNhcKqQ6KneFB95t2H/6oQXJHdQGSG1ZuGE2yQZhUozre8o/UsVSZTv+PzGxoFgctBEo9ajbIWqU/nS+o4raeuub7NuA9HFncjRSRVBgLA=;M8G+rBCHZNsfkthqzkoi4w=="
+secured: "Ar/t/T9ohCPCO8EdQlObUBM2MLSgZideSg8EtulcEqbIbqIENPcwO2ofBeW6jU8V5zhfvnbOj2Gubr2jCmx11qvXYIoVkeB0wMeSDmjXfyhgq95o0nF3ElP7e6vrdNVwaahF5+UKsog2l7eBR/2CNYAsH3NgK2soszEB/dfr3uH8/62aSO8/9c6zHJGfnwOHtJ8pMhDDxqvgF8oM0hiV3CXkLgCim+BvFW99zMgRu+hY9+LP5SEix61O1WUQol7XtwDaIBLY3ue6AKJqbyl0FoevHBmOesB9/Kw0OpfzurFaeLAMTmre+pkybVCnCknOfFXR5uk3uCvH5EAs5J42Gq+QDxgDg+028gYG6A/RDBYILIfGftb2Di7Sxp4b3qzhXijlm/VZ/+Wsgleq/bm7ZMBBILf/8eP09fDD8vA2qxluAJV0/VC3Jn8e/TFbjKzzvKA+IlcBmyM4lLf6zhxWYIWD3a2ouMW4Ee6RJeZPeSTD5fuPVkLjZVgjdt6gBOTUd/FW87nWgcWaa3gRbgQjzQ==;V+rfdHDthJeGJkGcedx+Fg=="
 ---
 

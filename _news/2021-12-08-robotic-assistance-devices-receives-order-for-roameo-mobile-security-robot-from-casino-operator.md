@@ -40,15 +40,6 @@ related:
         width: 500
         height: 262
         isCached: true
-  - title: "ForwardX Robotics Named Top 10 Logistics Tech Startup for 2021"
-    excerpt: "About ForwardX Robotics ForwardX Robotics is a global technology leader in the fields of AI and Robotics. Through its flexible automation platform comprising of intelligent mobile robots and AI-enabled software, ForwardX delivers material handling ..."
-    publishedDateTime: 2021-12-06T17:26:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2021/12/06/forwardx-robotics-named-top-10-logistics-tech-startup-for-2021/17926/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 34
 
 secured: "f+g/+OAvKUd1HPsf9PxrOK8h41mKoX4/7zLhgO402T768ksMtyktZHzgOO5w0NQHT4Ch6PdWfyDf7IUd6AolltDmJvtgDov+DPXfRQHVXy1buMRGFS6oiqt3msE+Zw47TT/GNa9yz8j0IIdkqLtFGvyLYZzrqxR/uMFc+SSRTUcQ3BvrLx8fA+4RmEQNaViOCKQfgvDc+WD+0eg9PY7lMnGH3an4vKFmQHDpMKjILU2adTnSBvBrRLYhG/JLFZTApToxgpn4SSvy1UfqStgPbwbKxXwKGuFQUv+Hnz0efJ6HKARKPzyTaXZT0Om+0Da3Y6uuF+UWTzHZql887FSE9Hvt0wBEL5iMSvNOcmEyIYM=;2sFJDRkM6Mm+WdW89lyzlg=="
 ---

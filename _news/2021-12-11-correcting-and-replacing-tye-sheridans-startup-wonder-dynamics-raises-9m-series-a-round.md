@@ -1,26 +1,26 @@
 ---
 category: news
-title: "CORRECTING and REPLACING Tye Sheridan’s Startup Wonder Dynamics Raises $9M Series A Round"
-excerpt: "Tye Sheridan’s Startup Wonder Dynamics Raises $9M Series A round (instead of Wonder Dynamics, Startup Building AI Tools for Film and Metaverse Founded by Ready Player One Star Tye Sheridan, Raises $9M Series A Round Led by Horizons Ventures and Epic Games,"
-publishedDateTime: 2021-12-11T00:59:00Z
-originalUrl: "https://fredericksburg.com/lifestyles/technology/correcting-and-replacing-tye-sheridan-s-startup-wonder-dynamics-raises-9m-series-a-round/article_effae0c1-48e0-5978-bd9d-70a0ca59e3f7.html"
-webUrl: "https://fredericksburg.com/lifestyles/technology/correcting-and-replacing-tye-sheridan-s-startup-wonder-dynamics-raises-9m-series-a-round/article_effae0c1-48e0-5978-bd9d-70a0ca59e3f7.html"
+title: "CORRECTING and REPLACING Tye Sheridan's Startup Wonder Dynamics Raises $9M Series A Round"
+excerpt: "Tye Sheridan's Startup Wonder Dynamics Raises $9M Series A round (instead of Wonder Dynamics, Startup Building AI Tools for Film and Metaverse Founded by Ready Player One Star Tye Sheridan, Raises $9M Series A"
+publishedDateTime: 2021-12-11T10:57:00Z
+originalUrl: "https://www.lelezard.com/en/news-20151916.html"
+webUrl: "https://www.lelezard.com/en/news-20151916.html"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Fredericksburg.com
-  domain: fredericksburg.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/0/18/018b3c41-1c8a-5e57-9f3e-2ad812d341e1/61b40d6797903.image.jpg?crop=1200%2C630%2C0%2C85&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -69,6 +69,6 @@ related:
         height: 339
         isCached: true
 
-secured: "Rbm9sH5BMWh6lOjiL962AhwpcnZIGtImgitao2hff5vhMyjiHzWSN9OnSCzfB7aniBsDAPyCJ5R9dda2K4EpU83GuvD2RyBY0ozSkdSF9GvV6vPBPC2NFFvVGibpfvJLGqJ7QKwGxSL12mlJ/vPEfjImIxa7ztf5JdRrNzJQZpKlrYMmPuzU0nDDlVxMBEMKHo4vchrM/efUiS0lzDoUMBqH9ibKhV6f7aktjsNveL751E9bCg2TBAml1h1cEiJKml/GVxR1miMWQn2bIYskqX94SVWbR4AJQZRRHh6vz5g4tt535+vdUq+t63+Zx2SzzhAcbe8yL15o6HN0by1l9dNvV184bZOmeaIjnqvD7WA=;vFb78+J8DkFA3K80UvA7mA=="
+secured: "tfTtog+eIt4HzBv6CSUgSze0TmWCShgj5FtUK6smFdJbXLp7s+jTscUeEbv0QEUN7NB6I9zJhhc/6HGxW8NETo3V3It2H7eJpgTNRQmD41FSE6XOThEvLKg10MIgvCnHhIuWkFoRXciV+2dTwC6Mx9aMjwLlrYRAIO0ewBFdfdUMF17mzqRJx+WjsrjNILvvqw1qijzpdzkWuuxhzLrfxyoAb4nozZW/DB2g+DENWb0/tL97uxPu2TO1YiY0NZJuMAexYw0b4ZQikZ2RCRxZiRrvmmeJAgbybEr67joF94mrurib2sa5wX+bJehjLUj+0NztD+wKIVY2ycw1gAcgj02osvGN+8vTZZbny9n+n/Y=;9TxL95WK3OIp1bBLnvya3Q=="
 ---
 

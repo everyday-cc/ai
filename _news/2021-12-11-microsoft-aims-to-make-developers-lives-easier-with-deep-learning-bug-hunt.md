@@ -1,31 +1,30 @@
 ---
 category: news
-title: "5 Things You Should Know about Microsoft AI"
-excerpt: "I was asked by a colleague to provide some key messages about Microsoft AI. I did a quick write-up and sent them over to her."
-publishedDateTime: 2021-12-10T15:07:00Z
-originalUrl: "https://www.linkedin.com/pulse/5-things-you-should-know-microsoft-ai-xiaopeng-li"
-webUrl: "https://www.linkedin.com/pulse/5-things-you-should-know-microsoft-ai-xiaopeng-li"
+title: "Microsoft aims to make developers lives' easier with deep learning bug hunt"
+excerpt: "Bugs are a real thorn in developers' sides. That's why Microsoft researchers are training AI to do the work for them."
+publishedDateTime: 2021-12-10T20:05:00Z
+originalUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt"
+webUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt"
+ampWebUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
+cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
 type: article
-quality: 54
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: LinkedIn
-  domain: linkedin.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Windows Central
+  domain: windowscentral.com
 
 topics:
-  - Microsoft AI
+  - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C5612AQHusGPlRHcrrQ/article-cover_image-shrink_720_1280/0/1639146122835?e=1644451200&v=beta&t=_xowkWg9sPAcqdMvYfiK5iT_D5h0EMfuNH7p90Px8rQ"
-    width: 1120
-    height: 720
+  - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/08/grounded-screenshot-ladybug-01.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -72,22 +71,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 91
-  - title: "Microsoft aims to make developers lives' easier with deep learning bug hunt"
-    excerpt: "Bugs are a real thorn in developers' sides. That's why Microsoft researchers are training AI to do the work for them."
-    publishedDateTime: 2021-12-10T20:05:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 89
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/08/grounded-screenshot-ladybug-01.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Microsoft can produce drone-like photography from space with the power of Azure and AI"
     excerpt: "Microsoft announced several new partnerships and capabilities for Azure Space. The company's tech is being used to take high-res images from space and to help respond to disasters."
     publishedDateTime: 2021-12-09T17:37:00Z
@@ -164,6 +147,20 @@ related:
         width: 879
         height: 349
         isCached: true
+  - title: "5 Things You Should Know about Microsoft AI"
+    excerpt: "I was asked by a colleague to provide some key messages about Microsoft AI. I did a quick write-up and sent them over to her."
+    publishedDateTime: 2021-12-10T15:07:00Z
+    webUrl: "https://www.linkedin.com/pulse/5-things-you-should-know-microsoft-ai-xiaopeng-li"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHusGPlRHcrrQ/article-cover_image-shrink_720_1280/0/1639146122835?e=1644451200&v=beta&t=_xowkWg9sPAcqdMvYfiK5iT_D5h0EMfuNH7p90Px8rQ"
+        width: 1120
+        height: 720
+        isCached: true
   - title: "Microsoft announces new partnerships and capabilities for Azure Space"
     excerpt: "Microsoft has announced new capabilities and partnerships for Azure Space, the company’s cloud computing platform that connects satellites and services across industries."
     publishedDateTime: 2021-12-10T13:04:00Z
@@ -188,6 +185,6 @@ related:
       domain: bizjournals.com
     quality: 28
 
-secured: "eKUSgPTqJafPhuYgpPEZ6Ud9ypDCStrV4IzUyN+mWAZ8VbSq8iM9G6vHgiF2SkaQ5z0Y6Rs67xs+HLyK+BrbrU3UOB1nIWdaiPTyZ7M00vxutqSjny9FD8WEC9jGJLvxW9lk7uvh9915Ge9j5IUZiM/TlfNjBMn0AEb38c6/KMNxhPkeRA4qYbQsB1OTxUFjaqY8yazozvTnoTMhfpvWRJvrESgkjm0f/9uKSoJ9pQnwmLtGJsi8wJd46j7CHBVTurriKl8VHa3hvxFFF/rPxOx35+UOGmYOFEHcMudRts9dOQ0X3n9gJ+wdXDEvVPv3Ed9xaz3GDkZ8Ok02Y3YMoKFSOUUqmsVKxzlHl0JKrptj5VZAV3LM74gJhibhXa/5P3DUrlByjaRbRzxvVF3GhNzLHPYkGYFrd2DuSMKQyamweHjz9pbSXBJbEnYA3HIGC7n4rE5X5Jcz00AV6RzIaPXWxDKyh7lLaQz09DTBO0SwaQWid9Zlcw4ANwbiYh4M/abc5LZ2dN8HwJvqmuzZcA==;FsglvTaH1LCuPU9lMq0PuQ=="
+secured: "8k5nZwksHjW9Ey9oHaoRHcFbzsjG7aZnv6B7NFMXMmgPp8e4C2qP8em7gKo8PhuAyLY58ijwZewNYu8otj+biZg6qYEwopj5z/X0qMuKjQCWtiyTJCdesNuYNenWAyb5M/MaqVbXcTU0jsnNqLDQnJG6BRV7jinu0N1V+nqQvTfBInisC5H9WA15hOo+qaYwEeBX7voUhgYzAGr4ZVozXoIizrW/1OeE+5OvRHVkTNoMXMdv6JLwhTiarX05CZPD1Vu6fKmeZqoRGu2Ip4OyW6QT2vlz+FRqCsFM1qauClD5NO5ibimWBz2jY//VA+WkQeH4bUIhn0xVg57gE548PbNqGaaYK3xktvR8tHU8h0M=;acBy9MD9tN4g9sjd8K6qhA=="
 ---
 

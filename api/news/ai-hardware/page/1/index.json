@@ -1400,21 +1400,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-30-coolpad-cool-20-pro-teaser-poster-confirms-the-mediatek-dimensity-900-5g-chip.md",
-      "title": "Coolpad Cool 20 Pro teaser poster confirms the MediaTek Dimensity 900 5G chip",
-      "excerpt": "Chinese smartphone maker Coolpad is expected to release the COOL 20 Pro smartphone on December 1. The company had earlier released a teaser poster which gave us a look at the design of the sleek smartphone.",
+      "path": "_news/2021-11-30-new-azure-ai-vms-immediately-claim-top500-supercomputer-rankings.md",
+      "title": "New Azure AI VMs Immediately Claim Top500 Supercomputer Rankings",
+      "excerpt": "Visual Studio coders who dabble in artificial intelligence projects can now take advantage of new Azure virtual machines (VMs) featuring 80 GB NVIDIA GPUs that immediately claimed four spots on the TOP500 supercomputers list,",
       "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/11/29/coolpad-cool-20-pro-teaser-poster-confirms-the-mediatek-dimensity-900-5g-chip/",
-      "originalUrl": "https://www.gizmochina.com/2021/11/29/coolpad-cool-20-pro-teaser-poster-confirms-the-mediatek-dimensity-900-5g-chip/",
+      "webUrl": "https://visualstudiomagazine.com/articles/2021/11/29/azure-ai-vms.aspx",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2021/11/29/azure-ai-vms.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/coolpad-cool-20-pro.jpg",
-          "width": 820,
-          "height": 1458,
+          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/BlackWhiteWaveSmall.jpg",
+          "width": 647,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1422,23 +1422,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/11/29/coolpad-cool-20-pro-teaser-poster-confirms-the-mediatek-dimensity-900-5g-chip/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/29/coolpad-cool-20-pro-teaser-poster-confirms-the-mediatek-dimensity-900-5g-chip/?amp=1",
-      "publishedDateTime": "2021-11-29T08:55:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T14:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1447,8 +1438,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI"
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

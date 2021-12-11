@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-01-swimming-australia-making-gold-medalists-with-machine-learning.md",
+      "title": "Swimming Australia: Making Gold Medalists With Machine Learning",
+      "excerpt": "For Swimming Australia, a more unified view of data was essential to optimizing athlete performance at the Tokyo Olympic games—and bringing home nine gold medals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a556232a037d3c244a6212%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/amp/",
+      "publishedDateTime": "2021-11-30T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-3-ways-ai-and-machine-learning-can-transform-public-agencies.md",
       "title": "3 Ways AI and Machine Learning Can Transform Public Agencies",
       "excerpt": "Over the past decade, Artificial Intelligence and Machine Learning (AI/ML) have moved from the realm of science fiction into the corporate and governmental mainstream. But while executives know what AI/ML is on a conceptual level, fewer leaders understand ...",
@@ -1333,40 +1385,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-can-using-artificial-intelligence-lead-to-intellectual-property-infringement.md",
-      "title": "Can using artificial intelligence lead to intellectual property infringement?",
-      "excerpt": "It is co-authored by partner Gina Bibby and intellectual property / technology summer 2021 intern Erica Barseghian. The short answer is, yes. As retail and fashion companies increasingly use artificial intelligence (AI) and machine learning technologies to perform predictive consumer analysis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.martindale.com/legal-news/article_withers-bergman-llp_2552029.htm",
-      "originalUrl": "https://www.martindale.com/legal-news/article_withers-bergman-llp_2552029.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Martindale",
-        "domain": "martindale.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

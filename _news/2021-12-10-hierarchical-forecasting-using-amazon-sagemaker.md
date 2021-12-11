@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecas
 webUrl: "https://aws.amazon.com/blogs/machine-learning/hierarchical-forecasting-using-amazon-sagemaker/"
 type: article
 quality: 89
-heat: 129
+heat: 130
 published: true
 
 provider:

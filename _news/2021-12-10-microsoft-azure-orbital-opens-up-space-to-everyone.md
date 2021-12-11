@@ -3,10 +3,10 @@ category: news
 title: "Microsoft Azure Orbital opens up space to everyone"
 excerpt: "In a new blog post, Microsoft detailed new partnerships and new features that it hopes will result in better satellite imagery, better connectivity, and more data/insights. Azure Orbital is a fully managed cloud-based ground station-as-a-service that lets users communicate with their spacecraft or satellite constellations,"
 publishedDateTime: 2021-12-10T10:16:00Z
-originalUrl: "https://www.techradar.com/nz/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-webUrl: "https://www.techradar.com/nz/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+originalUrl: "https://www.techradar.com/uk/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+webUrl: "https://www.techradar.com/uk/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
 type: article
 quality: 104
 heat: -1
@@ -58,6 +58,22 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 91
+  - title: "Microsoft aims to make developers lives' easier with deep learning bug hunt"
+    excerpt: "Bugs are a real thorn in developers' sides. That's why Microsoft researchers are training AI to do the work for them."
+    publishedDateTime: 2021-12-10T20:05:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 89
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/08/grounded-screenshot-ladybug-01.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Microsoft can produce drone-like photography from space with the power of Azure and AI"
     excerpt: "Microsoft announced several new partnerships and capabilities for Azure Space. The company's tech is being used to take high-res images from space and to help respond to disasters."
     publishedDateTime: 2021-12-09T17:37:00Z
@@ -172,6 +188,6 @@ related:
       domain: bizjournals.com
     quality: 28
 
-secured: "XAqwHH+s+jAoAcGeEwPA7uIN5qbQKBKfacuDM7ZWw0NZlRmvPPHoCDDBltkH2MqGUTPsxaKBvKFmkfJz1MCjApYzXKNwDPAgZK5yLTQGlfE2QnTjiQE1jWgAPH/ZLl6zGpEzcA/srSKz1fsk+FDZhiu8mHDlWI97NYaVVhNk+Ojhj/bxxr2zkoJXNZXOpoujuqGjsxBzNgdGz1/Imr3XNC7ofpkOPW0T10g1cHmdASyl9ShKZ4cG1rWSrczeGrt3uOgO21+BHGDyx5LanjhxYZ4kmLX8yntxr0P2BR165GihFlRGYMwbcWSzjhR4eqEqCEFkWY5XetQAp+70lrV4wT4Ht0DN40IFgWxSTVMwOxKEmtFjb6pnvIcjKItBrHmIdOsHlM5OBF6i5OUsexRGxoCbYdFX1hkPaCiY82iPD5lsEbLrHuPvsnGrbmbSvD2d06YAWHCQqpT/TGL/pSRNxDJTZuwmJcoL/REq0HRuO0bF3CPtRRjbNIXgugWfEwx2QbgWErDT/+kpw0PmE40D9w==;afa09Ut+QLkQgP6xt1t/DQ=="
+secured: "V9gwHWRr32Mq0X75wISCBHZXJb/yhIXStecbBIqiQ+R/O2fE+si/nYr9o2Dp0ztdWXLHB+OvcRUwgS2AADXj+z45EW7hI/55uOb2xA02ugHvCsgjMfvYPwNskp7dvsRTcEDlk2vJFDa81r4L236gyg6/LbmWZng4yJs5+UGGb9wa4RZt5Gf/vOgiGnC/ZjmD7fpvYW/d8rofQ4k6+SS265j2u5n6v3Gsy3L+OaiSbqGkXzQjegXJY/7ahtEMHJKbYaIj42ebu7RKDlKkB0YhPRCVUaXxdm2MiSV3LRxLt3JVLLfygpHDCPMOCLW9ckmznh5/QDwypWnKCV9k3MPLZDQVwZgjcRzPqn7ElhCa6Os=;6ozuswWSUfopJeoXb6zDTA=="
 ---
 
