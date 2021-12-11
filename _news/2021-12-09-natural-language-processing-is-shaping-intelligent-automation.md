@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/08/natural-language-processing-is-sh
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/natural-language-processing-is-shaping-intelligent-automation/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 99
 published: true
 
 provider:

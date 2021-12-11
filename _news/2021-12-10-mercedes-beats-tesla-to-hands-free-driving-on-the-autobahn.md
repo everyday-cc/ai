@@ -71,6 +71,17 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+    publishedDateTime: 2021-12-11T00:03:00Z
+    webUrl: "https://www.sunherald.com/news/business/article256490316.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/article256490316.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article256490316.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 39
   - title: "Mercedes-Benz to launch Level 3 self-driving system in 2022 after gaining regulatory approval"
     excerpt: "Mercedes will launch its Level 3 self-driving system in Germany initially, but is already testing it in the U.S."
     publishedDateTime: 2021-12-09T18:00:00Z
@@ -96,15 +107,6 @@ related:
       name: Fleet News
       domain: fleetnews.co.uk
     quality: 24
-  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
-    excerpt: "MB is following the regulatory rules as they are supposed to — in sharp contrast to what we've been seeing from Tesla.”"
-    publishedDateTime: 2021-12-10T22:36:00Z
-    webUrl: "https://www.courthousenews.com/gaming-while-driving-tesla-allows-it-mercedes-does-recall/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 19
 
 secured: "jLU5q6jCMQQonsyKnAgmtEc03volxB5PXGyjmI7Oms8Zc3UyiHHwzPj7ryqoJL9VFSJ9uDjVZJUEmrcMn8H31V7i6GjpqKsD5WTPZaufWP9dHAJX7mQMYUWrWVF4uX+FT9a2+5M4glGjylFG7MThgYqZ3bhNBt1CX1eF2DTRNWqe8Jk5qpPpC6z0qoj9SpfSdnpEV5p1XGh+pLiA6pLzaD5nT0pZQkFDAvo1AsaT/YSNG9K8O7zsApy8ZvkoCDQibFOm4C8Xxr41rtd0LNXgCgomwrs45YRFRdfJZgRf9pZl0IYwZiAEPJP0j6QYML6g6N2XJVsTCInbcLxXX4Q3ZhXECVq2G1kJcIH35/IBK2k=;bx3o4JYvShQRgIu10+bPvA=="
 ---

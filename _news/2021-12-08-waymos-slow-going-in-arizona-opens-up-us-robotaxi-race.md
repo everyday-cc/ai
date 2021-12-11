@@ -1,30 +1,40 @@
 ---
 category: news
-title: "Waymo's slow-going in Arizona opens up US robotaxi race"
-excerpt: "Alphabet Inc's Waymo risks losing its lead in the ... of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field."
-publishedDateTime: 2021-12-08T13:31:00Z
-originalUrl: "https://www.channelnewsasia.com/business/waymos-slow-going-arizona-opens-us-robotaxi-race-2367096"
-webUrl: "https://www.channelnewsasia.com/business/waymos-slow-going-arizona-opens-us-robotaxi-race-2367096"
+title: "Waymo's slow-going in Arizona opens up U.S. robotaxi race"
+excerpt: "Alphabet Inc’s Waymo risks losing its lead in the ... of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field."
+publishedDateTime: 2021-12-08T13:33:00Z
+originalUrl: "https://www.euronews.com/next/2021/12/08/alphabet-waymo"
+webUrl: "https://www.euronews.com/next/2021/12/08/alphabet-waymo"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Euronews
+  domain: euronews.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL"
-    width: 1200
-    height: 676
-    isCached: true
-
 related:
+  - title: "FOCUS-Robotaxi race opens up as top contender Waymo in low gear in Arizona"
+    excerpt: "Companies including Ford Motor Co’s Argo AI and General Motors Co’s Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence ... the first and only fully driverless taxi service in the ..."
+    publishedDateTime: 2021-12-09T09:20:00Z
+    webUrl: "https://cn.reuters.com/article/alphabet-waymo-idCNL1N2ST1XM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2ST1XM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2ST1XM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 87
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20211208&t=2&i=1584054208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHB714Y"
+        width: 817
+        height: 545
+        isCached: true
   - title: "FOCUS-Waymo's slow-going in Arizona opens up U.S. robotaxi race"
     excerpt: "Dec 8 (Reuters) - Alphabet Inc’s Waymo risks losing its lead in ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ..."
     publishedDateTime: 2021-12-08T13:26:00Z
@@ -39,17 +49,17 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "FOCUS-Robotaxi race opens up as top contender Waymo in low gear in Arizona"
-    excerpt: "Alphabet Inc's Waymo GOOGL.O risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own launches."
-    publishedDateTime: 2021-12-08T17:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona"
-    ampWebUrl: "https://www.nasdaq.com/articles/focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona?amp"
+  - title: "FOCUS-Waymo's slow-going in Arizona opens up U.S. robotaxi race"
+    excerpt: "Companies including Ford Motor Co’s Argo AI and General Motors Co’s Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence ... the first and only fully driverless taxi service in the ..."
+    publishedDateTime: 2021-12-09T09:20:00Z
+    webUrl: "https://cn.reuters.com/article/alphabet-waymo-idCNL1N2R80CD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2R80CD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2R80CD"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
+      name: Reuters
+      domain: reuters.com
+    quality: 69
   - title: "Robotaxi race opens up as top contender Waymo in low gear in Arizona"
     excerpt: "CHANDLER, Arizona: Alphabet's Waymo risks losing its lead in the ... dollars in financing needed to automate driving through artificial intelligence software and expensive sensors."
     publishedDateTime: 2021-12-08T19:49:00Z
@@ -79,6 +89,6 @@ related:
         height: 800
         isCached: true
 
-secured: "uOJJTWLdf+iNGPQMidmXLHF68r+YqJW/fvdJ3z6O4mnQ+Mk9gdmxKRhjrJMLJvg8BUDXLBUUY55fGFUnzTA3hNIIVhMpaNZooWb7AxJyzrSsVZ6tdpDmAOy26wR7uq8Ou72IZPQ1evwswRt0rgnk64llFuLw4a3NiipNBYhlJZD0Gk0BgkwHSukPskPaD2yFZ6X8yY1+Wdc7NUcDZBLuy+r15xSH0lHLtz+/nFY4zt/0BXc2nBnvkdcIw1ta1kH01QT4uAJ6ifLZBYNi74VQXnkmmRzd/k21ymWCO98Gn0PM014AiibIwdc2Y2uZPT7PgXTy7O+zJKcOMo5HFyqgmSftozP8sqNcPQ2reJr3UhQ=;ss1wavjsWDqshloetGJWMQ=="
+secured: "yXAF1YFX9J3NCGzIBipyf0KKT7GDobmiX5fOQ8ILE6Vs1jeLxdhkyeOvgBcKlULllFN2mmD1QlwSWCLPJVTeVpdyMmge9O7JuKd9dOLWsgYhVhkp4ETUkm5dD5q6Clx3QmVZiw1g3WKKMrfd5gKR89dKhZL3Iuun1mbCjMPIBrDAcqh5UwGisgJZIVIxHRDRgOLoauP0IoFjc6dbfFlNopZr2PQA8OoLjxUy+PyptSH//pUydO9/xHTo5GBfQwUf+5hSPNzfigs27S2CZ6HVe5EGj7is3gLbhr8rP/yAyE3F6WHbJHscEstv80ZTdTu1y0ZEn1QEvITJYkHd1F7PPMspZ5ImEHW8x//ruGe/z2c=;M14NcBBtcjCVtyvdIMXE9Q=="
 ---
 

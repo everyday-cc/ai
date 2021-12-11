@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-det
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
 type: article
 quality: 87
-heat: 178
+heat: 159
 published: true
 
 provider:
@@ -118,29 +118,6 @@ related:
         width: 845
         height: 396
         isCached: true
-  - title: "The Scope & Future of Responsible AI"
-    excerpt: "Widely referred to as Responsible AI, the concept has been around for the longest time but has recently become a mainstream conversation point."
-    publishedDateTime: 2021-12-06T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/the-scope-future-of-responsible-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/Tredence_AIM.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Artificial Intelligence key to traffic solutions in cities of the future"
-    excerpt: "Coupled with existing systems comprised of network cameras and monitoring solutions, the innovation and application of AI heralds a new era in traffic management. Artificial Intelligence key to traffic solutions in cities of the future."
-    publishedDateTime: 2021-12-06T08:13:00Z
-    webUrl: "https://www.constructionweekonline.com/business/insights/artificial-intelligence-key-to-traffic-solutions-in-cities-of-the-future"
-    type: article
-    provider:
-      name: Construction Week Online
-      domain: constructionweekonline.com
-    quality: 16
   - title: "Why Artificial Intelligence is considered key to traffic solutions across cities of the future"
     excerpt: "Coupled with existing systems comprised of network cameras and monitoring solutions, the innovation and application of artificial intelligence heralds a new era in traffic management. Why Artificial Intelligence is considered key to traffic solutions across cities of the future."
     publishedDateTime: 2021-12-08T11:44:00Z

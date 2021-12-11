@@ -40,22 +40,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "AI could help doctors make the best use of ICU beds during the COVID-19 pandemic"
-    excerpt: "New technology could help doctors make the most of limited resources during the COVID-19 pandemic by identifying patients who require intensive care unit (ICU) treatment."
-    publishedDateTime: 2021-12-06T08:36:00Z
-    webUrl: "https://techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/icu-1.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
 
 secured: "0K5MTRrQy1zhS8KS9rYx87TMW0yFlBboPmphv/TlHsXC2a2ZhrpVxakgn5cPplF80ThakKh+o4g0JtMpzIqLIbnUIS87zDNI9xGCHKtVBpJTEuMZCDqccRbUu5EnJXUGToxC9BqE+V+60hnK2mmvft/Kn+dFUdgmxPzXsT6oKs85DaJrkMqv0MszP+w1UKgGENgKayzNlQde5ydbRYtxVVKhQ1zwzenxZzqLv/MZ1d3NYdrx52TJE6dgE9JLNiYoLvCh7u854sHhPKL6KN/GdV48rpWlhB94iwwDDhgaucmrx6Mz7wlI+8pCW+hZ8scAoTwrbR6UrslAdko8NbF2zZGEz11giwVVH9UP8O17j77GfLZfRP/u62NJ3vQNst0uj1jd4MTH9UaNsOb9MHgbqekxaRBSnyCGfUhFeRuAIqsFc8/jl8DurqgwyvKAVYcicLLC5tOWgdz8zdqrwh34QY4lZGQD2evz+rkUhnMcIpDxD3lQ5466aoVS7EYaodhBjK/pkOsNG6G/f3n1rFLBxg==;Lc9o14qTeX0Mt3tyLce06A=="
 ---

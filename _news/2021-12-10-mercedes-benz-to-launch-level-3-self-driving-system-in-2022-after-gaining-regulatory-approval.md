@@ -85,6 +85,17 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+    publishedDateTime: 2021-12-11T00:03:00Z
+    webUrl: "https://www.sunherald.com/news/business/article256490316.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/article256490316.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article256490316.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 39
   - title: "Mercedes-Benz self-driving car technology approved for use"
     excerpt: "Approval of the self-driving system paves the way for it to be offered to customers where national legislation allows its use."
     publishedDateTime: 2021-12-09T14:31:00Z
@@ -96,15 +107,6 @@ related:
       name: Fleet News
       domain: fleetnews.co.uk
     quality: 24
-  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
-    excerpt: "MB is following the regulatory rules as they are supposed to — in sharp contrast to what we've been seeing from Tesla.”"
-    publishedDateTime: 2021-12-10T22:36:00Z
-    webUrl: "https://www.courthousenews.com/gaming-while-driving-tesla-allows-it-mercedes-does-recall/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 19
 
 secured: "ZBLhsieSEuX3wppp28KP1z2TsI9FXVEBB8c+K+Iy0rFttJptACzwHijWYnqNWJEHXoAb5L8T+vlsIXVycnhErGVrytCWk23ZkEQ1GiWJORX9AHT9lRlTeg2G1vmqu1pYq/cbStxWGVG0MwNC3gXPTwFwTjF9k0GRsPI/mIu6ChwM9A5zET9E1kexhRgmi6fYt0a5m85bd8zNvT9ggO4tnEUq81gsMDp89JfWZmudJ68khXucR1FOQBxG3rEg6jfzfPXtdGhG0VHkeBPykbIVeOMw8/MZdSpO8DtpTT6WQAi+0O5RhKrFuAs5DAxKQqY/73BBbOpwGLpe98xZWFYdCOu58Hpul2cbSrisvXOcKDJDL+YkCMsq/ev5SESsyI2FMOchzXOvcoNyGqIuj7e+lbIfLGvHIVokLxCHGOcCHArCTleUSjuk1/T/4SbS7U9lqB3rr3pfIXnqz/plNMEDSFo/ZX0U0hp6huEaCKzKoXjGibJVVFOp+g6XhC7xHOz5ghnUbglbtrb9/pdo/Rsc7Q==;ccffpfwEDwhAH+EkijJqjw=="
 ---

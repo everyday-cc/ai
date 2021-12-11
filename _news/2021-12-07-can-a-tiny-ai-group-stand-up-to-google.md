@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can a Tiny AI Group Stand Up to Google?"
-    excerpt: "Scientist Timnit Gebru has set up an AI research group one year after getting fired from Google, but she and others are fighting an uphill battle."
-    publishedDateTime: 2021-12-06T08:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2021-12-06/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEswj2yFA1x0/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "PARMY OLSON: Can a tiny AI group stand up to Google?"
     excerpt: "Scientist Timnit Gebru has set up an AI research group one year after getting fired from Google, but she and others are fighting an uphill battle."
     publishedDateTime: 2021-12-06T11:23:00Z

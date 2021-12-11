@@ -81,6 +81,17 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+    publishedDateTime: 2021-12-11T00:03:00Z
+    webUrl: "https://www.sunherald.com/news/business/article256490316.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/article256490316.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article256490316.html"
+    type: article
+    provider:
+      name: Biloxi Sun Herald
+      domain: sunherald.com
+    quality: 39
   - title: "Mercedes-Benz to launch Level 3 self-driving system in 2022 after gaining regulatory approval"
     excerpt: "Mercedes will launch its Level 3 self-driving system in Germany initially, but is already testing it in the U.S."
     publishedDateTime: 2021-12-09T18:00:00Z
@@ -95,15 +106,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
-    excerpt: "MB is following the regulatory rules as they are supposed to — in sharp contrast to what we've been seeing from Tesla.”"
-    publishedDateTime: 2021-12-10T22:36:00Z
-    webUrl: "https://www.courthousenews.com/gaming-while-driving-tesla-allows-it-mercedes-does-recall/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 19
 
 secured: "NLVxi9udGsw9nibGcYpEsJeArRUmGdQudEB7fJrfUodonjZd2AIPsAa5QDySs8HBYQlaVAz+l1zueihYhyX2j0gDfh6OPR1g64B2J+UZrcvOdq/2/zoVanb0hltHLetfYf60Bf+tnf7dFV22cBARwGi8nQ8YeUIN7fix21A4mahdYpFysf1LVFTGfuaJY1XQOygaA04RgTkGEFcYRsuZScBPbNqj4bYIgJjiTtvzykqCRi8WcTWL+OpUkbiTJfNME8bLp/4tf93SJb3zMfrHSIrBdnZVHOoNWMGM0xS39e1Teiw6w6BBK0H1UyvFmnIaHSCriGC1JK3pQ8U8Vyb2SL4sJJiy0fjFpNu9ZMQSJgqIcxCGg1Tiu7Uky4dXZJ2IixelAN/h1h+oDI0uhejp65mhrOgTn/KikTR90IJieOB0BNsW2h11XunqCB2ESTKE1/ZbJlAy9iS11jq2WWYsSfPFHuZwnxSv4fNVbEfPWG6f3fKY/2OLu0aXhSsNrJgYEq2ijm5O8Zr/jwwJj5cE9w==;X4H75oht95hbZVYCBdUZVw=="
 ---

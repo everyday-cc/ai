@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2021/12/08/1041557/deepmind-languag
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/"
 type: article
 quality: 159
-heat: 240
+heat: 239
 published: true
 
 provider:

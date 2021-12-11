@@ -1,25 +1,32 @@
 ---
 category: news
 title: "Self-driving startup Robotics Research raises $228 mln in funding"
-excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
-publishedDateTime: 2021-12-09T05:00:00Z
-originalUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding"
-webUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding"
-ampWebUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
+excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
+publishedDateTime: 2021-12-09T05:12:00Z
+originalUrl: "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/"
+webUrl: "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/"
 type: article
-quality: 101
-heat: 162
+quality: 99
+heat: 159
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
+
+images:
+  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Self-Driving Startup Robotics Research Raises $228 Million in Funding"
@@ -102,6 +109,6 @@ related:
         height: 600
         isCached: true
 
-secured: "/C++uBfaPxHJA18AieXXYnRUJmYzNngCi6krmMUnh8C2zto0vj0UrsP0g8J5qzT+7TUFB2IyWXWVsXvDKM/aTAwf5oFzIzDGplPakiqR1EpdK6am0c5Az12GByLtFRQsszsj5SXftetLII+QmLagQML+gGe6wZgUvWcyYLZETaBnqsmSdJzr7Ro0dx9uCSYGXYGdaSUhR4NC3e6wixyWZkSwqc5lKkuqjTm4XeQwmg/IIawKGAAxEvpHJZiSGCBvRMyg3OtLE70G7vnPl7HkzZyqTdJDQ5MzUa0bx1eyEJoJhpLjFo7F1L+u3Y42wb2OT0FEyUHFymQ/q8LhRr2J9oWDjo+8Og3JH639OiE1gKvz7u8Nv0Rh9HDJcsh8Kb7JF+XH+0tIB3NrDpoGaW+UHTIQ3dABQ7hTLDQXqddeLiOwlRC3Kplrn9E5VdWzQJo9KdlrtN1Cv5aI25s0ugf7gbiyUSkx5N2hXC40n2tiyBx7PAWqQPgTAWL1KoCb+Hm0IzGy6ZCDunh0FNeuezNOFA==;sSUUHQ1S3rsTSsvr8w1XEQ=="
+secured: "ZTTznttNZIXPGn+oX8iA0J6b1Ivdt1sGYBPGrUB4EJ+IGsAMjg2Iqp0vLpHRR0+S4C73Pz60dYwQPxswNfb313cm4ZRUNnP1p4mcoKn7dIxUzq8Nzc8HC+BWevtmFWK9nrV+JPM2HwVmo9IAOiXii/ZACAAE4xuI3aphrDZF+rsGqaB/rGmrx3hd6mkCGzmkMNgqnT8hbAyhFS/9BoV19txgF1xZsEBICFH2nbrWWNDCEagf8JVrZ3GSzV9hmhrr4HJAa613kXdEpJ+d0Xp/+ONoZ48SDHEAuD151HkumNV0yLulGq23reD7PZ7k7if+JpIdc/oCNtERhobOyiOYZip8qf3cKatXgwRllTKu77Q=;ojW3Ed8nR9wDl7lJf2qrMg=="
 ---
 

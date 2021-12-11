@@ -59,6 +59,22 @@ related:
         width: 622
         height: 478
         isCached: true
+  - title: "Police are using hand-held facial recognition cameras on the streets for the first time"
+    excerpt: "The technology, initially to be deployed by 70 frontline officers in South Wales and Gwent, uses an 'artificial intelligence' mobile phone app. (File image.)"
+    publishedDateTime: 2021-12-10T23:40:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10298385/Police-using-hand-held-facial-recognition-cameras-streets-time.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10298385/amp/Police-using-hand-held-facial-recognition-cameras-streets-time.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10298385/amp/Police-using-hand-held-facial-recognition-cameras-streets-time.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 51
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/12/11/00/51616297-0-image-a-98_1639182688746.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Why some CT renters want government recognition for their union"
     excerpt: "They now want official government recognition of their group. About a dozen people protested last week at City Hall, with the primary goal of asking government officials for formal recognition of their union as well as the go-ahead for the union to file a complaint with the Fair Rent Commission."
     publishedDateTime: 2021-12-08T12:32:00Z

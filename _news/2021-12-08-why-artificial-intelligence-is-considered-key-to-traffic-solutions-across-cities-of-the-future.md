@@ -122,29 +122,6 @@ related:
         width: 845
         height: 396
         isCached: true
-  - title: "The Scope & Future of Responsible AI"
-    excerpt: "Widely referred to as Responsible AI, the concept has been around for the longest time but has recently become a mainstream conversation point."
-    publishedDateTime: 2021-12-06T08:30:00Z
-    webUrl: "https://analyticsindiamag.com/the-scope-future-of-responsible-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/Tredence_AIM.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Artificial Intelligence key to traffic solutions in cities of the future"
-    excerpt: "Coupled with existing systems comprised of network cameras and monitoring solutions, the innovation and application of AI heralds a new era in traffic management. Artificial Intelligence key to traffic solutions in cities of the future."
-    publishedDateTime: 2021-12-06T08:13:00Z
-    webUrl: "https://www.constructionweekonline.com/business/insights/artificial-intelligence-key-to-traffic-solutions-in-cities-of-the-future"
-    type: article
-    provider:
-      name: Construction Week Online
-      domain: constructionweekonline.com
-    quality: 16
 
 secured: "eLwoyQnR6DllQ2qtzR95VhSaUzNI249dJaPHpb09f877gxqdqnjflsNKr0WtsEklhiX23wh+0u5ArnodkQs1Y0WFZ0fZvzRC9S4H+t90Hs42nXUKi2FoBaOixb2pgJ3krMNViq3U65aSyS8irG+TazbDZVjzs1KfG7JRAwi3FPpx6SvRPEZMXY8BSfsqeV0Sw5BznEc6bC18lVeOAzm0D6rnLpbFaUvTSFZ8jZNmnFSCe7kcSov1z8L3dV8tZeWJ9QzEIK6UWkyfaVxvsuIzYCcDXdVb6ELdgUNPlKyGfBx32EU5LtGkBeuOrnbDgmAaWsO6HBtn0Wvr7CnhOi2Tmv9lfTq7cQgnJMUMs/N2zuFSFblBnYq/8fVXHy5SYIbavFJrilXMX7pm8atpXinfd5hk95jQIEDFXFZV0JvDuNd2JHxAaHqf+FStISM08Dy270mwJxQqeSmJCMXGkbZG9vY8Q1q37m5cLE5wDKEZRDfA9geS7Uvf9uQlNGLBnVkk0TL2d/jBzGxGlmA5bc8f3w==;TmLRUnw/X1V/IksNArfITA=="
 ---

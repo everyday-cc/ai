@@ -30,16 +30,19 @@ images:
 
 related:
   - title: "Self-driving startup Robotics Research raises $228 mln in funding"
-    excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank 9984.T to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
-    publishedDateTime: 2021-12-09T05:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-startup-robotics-research-raises-%24228-mln-in-funding?amp"
+    excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised $228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
+    publishedDateTime: 2021-12-09T05:12:00Z
+    webUrl: "https://www.reuters.com/markets/us/self-driving-startup-robotics-research-raises-228-mln-funding-2021-12-09/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 101
+      name: Reuters
+      domain: reuters.com
+    quality: 99
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=63"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Self-Driving Startup Robotics Research Raises $228 Million in Funding"
     excerpt: "Self-Driving Startup Robotics Research Raises $228 Million in Funding ... but that had now changed and the company's RR.AI commercial unit was now capitalising on it. \"That's one of the reasons we have sought investment now is because the prices of the ..."
     publishedDateTime: 2021-12-09T06:36:00Z
@@ -106,6 +109,6 @@ related:
         height: 600
         isCached: true
 
-secured: "pnvQO6RHYTXH3dmohD/qVGzdzEse9y7nFHDn91ROIjqmX0pcTTXm8CsunurDDiN18BggoxwKAazQKun8XTkvnChugZ6lAj9kQiR86yTpol/HzaTF+9Ut5WOkEHeCw4p+5pd9xC4rZ7U7KJ1ifiCwk6QdJV8KYdbUTQLTi3nz8FH4/7BNH8bI5ggv2U36u7B2p1ixYeeomW2slFpA9t2IeNgV9ZdsGSXSOknijlrQO4Nb5jBAEpRq3J6SgYw/HpWjZ8+GD048g0is+kUOGCGa1++G9LYwIY+hnd8do6HsIyAvpjKSkTgRJcq4ACsnA68l+Ducejxh51BlmWh5amXn5GJvaQwZH4++y8ACaLAjPrA=;ahhRCsr2bTMyM0OX97tmQQ=="
+secured: "DiJskk8gh7tKMG0KohUyKs+0v9N68ymashV5WJB1mKUzE5CtuubObOLuKM7+isnVoUEHLwSreUPCNYihR6cPyJ72HYhDJvz7WGgNU6K7mughDJVwERo3WTHWNQwqrkFjVtwYS5Mgk7is+ZUBW9hWISK77ak660RDry9N/2oDo4uMYEQQHJDN1SYNwlK5bSQYIx93PIAqx9ArFIfGH8cMSjKM2WgOBkPXfzgRmJDlzRcuASYhStFGjjLzTdMpOPvNCIo22ZF+0ua7yy93XA00i4EhHITCunDr84FIDZV09MFIOPrHs2v86EZASBiEBruvcjG5wuGKdbDHql7ovlzoUOzz8CuiphzAd3KiMypZz5kQT7U+ObWTh0X3XfZ+xcM2OFP2X3z5xSc52EPdG8CioczUXUTHNSm8y+3/cZCPsJFDZ5zoz3rlb1A8g90ulDeAieeYyeJCvbEVtDWt+GDY6f7kNeOtEBxxp8ivqRyZeSPIjB8K22xDRtPJ2anobXiRvrtLqfMKdHoZDqnZ3kaMdA==;1BuINzm08PbYVGfCnAJbbA=="
 ---
 

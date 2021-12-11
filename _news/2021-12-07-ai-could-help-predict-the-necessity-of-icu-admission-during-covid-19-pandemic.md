@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20211207/AI-could-help-predict
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20211207/AI-could-help-predict-the-necessity-of-ICU-admission-during-COVID-19-pandemic.aspx"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: News Medical
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI could help doctors make the best use of ICU beds during the COVID-19 pandemic"
-    excerpt: "New technology could help doctors make the most of limited resources during the COVID-19 pandemic by identifying patients who require intensive care unit (ICU) treatment."
-    publishedDateTime: 2021-12-06T08:36:00Z
-    webUrl: "https://techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-doctors-icu-beds-covid-.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/icu-1.jpg"
-        width: 2880
-        height: 1620
-        isCached: true
   - title: "New AI tool could change how COVID ICU works"
     excerpt: "New technology could be used to help doctors make the most of limited resources during COVID-19 by identifying patients in need of intensive care treatment"
     publishedDateTime: 2021-12-06T14:50:00Z

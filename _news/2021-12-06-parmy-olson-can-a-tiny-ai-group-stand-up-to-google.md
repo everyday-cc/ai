@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/opinion/2021-12-06-parm
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/opinion/2021-12-06-parmy-olson-can-a-tiny-ai-group-stand-up-to-google/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can a Tiny AI Group Stand Up to Google?"
-    excerpt: "Scientist Timnit Gebru has set up an AI research group one year after getting fired from Google, but she and others are fighting an uphill battle."
-    publishedDateTime: 2021-12-06T08:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2021-12-06/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEswj2yFA1x0/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Can a Tiny AI Group Stand Up to Google?"
     excerpt: "Many say we need independent research into AI, and good news on that came Thursday from Timnit Gebru, a former ethical AI researcher at Alphabet Inc.’s Google. She had been fired exactly a year ago following a dispute over a paper critical of large AI models,"
     publishedDateTime: 2021-12-06T17:20:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-go
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849/amp"
 type: article
 quality: 76
-heat: 86
+heat: 87
 published: true
 
 provider:
