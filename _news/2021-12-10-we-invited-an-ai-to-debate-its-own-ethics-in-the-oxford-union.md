@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/we-invited-an-ai-to-debate-its-own-e
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-173607"
 type: article
 quality: 76
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI debates own ethics at Oxford Union"
+    excerpt: "In a debate at Oxford Union, an AI Megatron presents arguments and counter-arguments on whether AI can be ethical"
+    publishedDateTime: 2021-12-11T07:00:00Z
+    webUrl: "https://tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union"
+    ampWebUrl: "https://tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2333460/ai-debates-own-ethics-at-oxford-union?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 74
+    images:
+      - url: " https://i.tribune.com.pk/media/images/860008-robotichandAFP-1427471057/860008-robotichandAFP-1427471057.jpg  "
+        width: 620
+        height: 388
+        isCached: true
   - title: "An AI Debates Its Own Ethics At Oxford Union - What It Said Was Startling"
     excerpt: "Not a day passes without a fascinating snippet on the ethical challenges created by \"black box\" AI systems. These use machine learning to figure out patterns within data and make decisions often witho"
     publishedDateTime: 2021-12-11T04:47:00Z

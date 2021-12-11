@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI In Marketing is The Digital Marketing Trend For Present And Future"
+    excerpt: "An intelligent digital marketer never hesitates to make use of new edge technologies to bring better ROI for the business.  Let us be clear- If you’re not using AI in marketing, your marketing strategies require urgent modification."
+    publishedDateTime: 2021-12-11T11:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-marketing-digital-trend-present-future-narayan-shukla"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE6rKWcgmrJ-g/article-cover_image-shrink_600_2000/0/1639222775558?e=1644451200&v=beta&t=FnyGXOW3HAlfP4rCGyknMVzN5eWvsWKCpKGO1jnvOEM"
+        width: 920
+        height: 438
+        isCached: true
   - title: "Enforcement on the Edge: Artificial Intelligence and Machine Learning in Federal Law Enforcement"
     excerpt: "Federal law enforcement agencies are consistently on the lookout for innovation that can help protect American citizens and borders. These activities are becoming increasingly field-based, which in turn demands that rapid analysis of the information gathered must move to the edge too."
     publishedDateTime: 2021-12-10T08:04:00Z

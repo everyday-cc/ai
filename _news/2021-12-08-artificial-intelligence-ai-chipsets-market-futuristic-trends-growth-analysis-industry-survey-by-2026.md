@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-07T19:07:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-futuristic-trends-growth-analysis-industry-survey-by-2026-2021-12-07"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-futuristic-trends-growth-analysis-industry-survey-by-2026-2021-12-07"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

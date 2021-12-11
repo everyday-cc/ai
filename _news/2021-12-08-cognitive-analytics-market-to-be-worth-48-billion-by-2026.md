@@ -64,20 +64,6 @@ related:
         width: 761
         height: 720
         isCached: true
-  - title: "Vizen Analytics Launches Enhanced Demand Forecasting Platform"
-    excerpt: "Technology solutions provider Vizen Analytics is launching an enhanced version of its proprietary Empowered-AI™ demand forecasting platform."
-    publishedDateTime: 2021-12-06T20:27:00Z
-    webUrl: "https://www.dcvelocity.com/articles/53165-vizen-analytics-launches-enhanced-demand-forecasting-platform"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 24
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/uploaded-thumbnails/3adffaac-74dc-4c1b-9810-3ab307b53e4d.JPG?crop=true&height=430&t=1638468859&width=640"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "X2mDV4pfWxfAAKgH+jnatZ+6LxUr88Q+qwrXBFHi+kjfHOts/CiHxJIPCCjkpV7zb2fI4PMeyt3JQCMl+Q+0UzBMxUN3trqXvcG1dQSJ7OUfWHem4dWs04m0fCmHglDef0vIvT6YFsPSfMZwbQMoWf3U6z5v3eOySGjYozMiTVMS/kUvIbLgP74ltO2rtUAv0bd/fnNmUiMNuq0e1L4N46Ij22UJ5BinjYtRB+uQTLhAyHH7zqy1Z8Y+8qBIBKHsjFqkOb2W94Zg8CZW+j+eN3axJ4x0b5ZsTXjGQThnWv6AijMKh5YgCH/r+yB2/lUfqyQCYcztXh4ja8yqXbbnm33CYqhlsnDEYTXybujieBM=;Ofaxfvmgj4pRJFialBe+Mw=="
 ---

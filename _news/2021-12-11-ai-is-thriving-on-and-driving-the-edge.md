@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aefa7a83c2df708b6c19fd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2441%26cropY1%3D61%26cropY2%3D1435"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI In Marketing is The Digital Marketing Trend For Present And Future"
+    excerpt: "An intelligent digital marketer never hesitates to make use of new edge technologies to bring better ROI for the business.  Let us be clear- If you’re not using AI in marketing, your marketing strategies require urgent modification."
+    publishedDateTime: 2021-12-11T11:46:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-marketing-digital-trend-present-future-narayan-shukla"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE6rKWcgmrJ-g/article-cover_image-shrink_600_2000/0/1639222775558?e=1644451200&v=beta&t=FnyGXOW3HAlfP4rCGyknMVzN5eWvsWKCpKGO1jnvOEM"
+        width: 920
+        height: 438
         isCached: true
   - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
     excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists. To achieve this,"

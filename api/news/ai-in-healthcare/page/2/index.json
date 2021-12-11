@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-23-healthcare-triangle-hcti-selected-by-monument-health-to-automate-document-processing.md",
+      "title": "Healthcare Triangle (HCTI) Selected By Monument Health to Automate Document Processing",
+      "excerpt": "Healthcare Triangle, Inc. (HCTI) to provide Monument Health with critical support to unlock the data in the documents and gain a comprehensive view of patients&CloseCurlyQuote; medical history PLEASANTON,",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2021/11/23/healthcare-triangle-hcti-selected-by-monument-health-to-automate-document",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2021/11/23/healthcare-triangle-hcti-selected-by-monument-health-to-automate-document",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-global-cognitive-informatics-market-research-report-2021-2026-healthcare-and-biomedicine-industry-will-lead-to-the-adoption-of-cognitive-service.md",
       "title": "Global Cognitive Informatics Market Research Report 2021-2026 - Healthcare and Biomedicine Industry Will Lead to the Adoption of Cognitive Service",
       "excerpt": "The enterprise sector will have the highest adoption of cognitive applications and services The global market will reach USD $32.6B by 2026, growing at 40.3% CAGR from 2021 to 2026 Key Topics Covered",
@@ -1348,60 +1383,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence.md",
-      "title": "Landing AI: Unlocking The Power Of Data-Centric Artificial Intelligence",
-      "excerpt": "There is normally an assumption that Artificial Intelligence (AI) requires huge volumes of data. Here, we explore a data-centric approach to AI, which instead focuses on data quality and domain expertise - an approach advocated by Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618a1203531adf7a3d1b3daf%2F0x0.jpg%3FcropX1%3D95%26cropX2%3D2400%26cropY1%3D0%26cropY2%3D1729",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/11/09/landing-ai-unlocking-the-power-of-data-centric-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-11-08T21:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

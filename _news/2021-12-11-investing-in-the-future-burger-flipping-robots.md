@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2021/12/10/investing-in-the-future-
 webUrl: "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/"
 type: article
 quality: 69
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 2120
     height: 1415
     isCached: true
-
-related:
-  - title: "Inspired by nature: Robots"
-    excerpt: "Nature has also been a proven source of inspiration for recent developments in the robotics field, namely, robots that mimic animals and animal locomotion — primarily jumping, swimming, climbing, walking and even punching."
-    publishedDateTime: 2021-12-06T20:44:00Z
-    webUrl: "https://insights.globalspec.com/article/17821/inspired-by-nature-robots"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://insights.globalspec.com/images/assets/821/17821/Nature.png"
-        width: 830
-        height: 545
-        isCached: true
 
 secured: "A+gJo7I1HX7JZijul9pWOUbaiPUPTDajfNMX4EPL7+nAmD04rtk444mbHYcVprgUecHassBwdACamEVzq+FtTZ5zkT6rWCO2zfRbwIvdjhN7O7w0W5Cs1GYGVq0EhxL/KTZ7A0kjaMtx/BPi98VR7oM1iHHR9yY659ByXOpoK7ZEVtDNM7o1K+McCmVnspqjzVzhPWxP5SZ5zghdb+L2hFbp1jzVfroz/n+sC1RjCjsnJtUmjwFEs9vjaA+WmV74Kce6C3Xq+VNLrmpjDcojbb157b7qrRvoNGCeOesJtxGjIO6nVQV+pzNvisw8NK4KXsxRaxdpA09a7njgqnEV5m55o67GP2HNTyqlUu6W87tbwIN5qlgRjFs2XjGxH+2+yVbJUTiEeYUqlGoY8uvnE50rIBcvCcgjD7KvaFPSRCrZ+KOO8FmSbFR2rinQFtv+imvQMUiphDS+Re0AXh5OAsfVlnZFNqF8fdbclL3o/Gb67MRQRUqXXvZiPnBt3NJ/CLX7y1kDxG7B6uzN7RD9Og==;3R4TUcajixeqo297278ERA=="
 ---

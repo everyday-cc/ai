@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-12-machine-learning-flags-remedi
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-learning-flags-remedies-good.amp"
 type: article
 quality: 43
-heat: 43
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "New Artificial Intelligence System Enables Machines That See the World More Like Humans Do"
+    excerpt: "A new “common-sense” approach to computer vision enables artificial intelligence that interprets scenes more accurately than other systems do. Computer vision systems sometimes make inferences about a scene that fly in the face of common sense."
+    publishedDateTime: 2021-12-11T12:21:00Z
+    webUrl: "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/"
+    ampWebUrl: "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 49
+    images:
+      - url: "https://scitechdaily.com/images/3DP3-Infers-Accurate-Pose-Estimates-of-Objects-777x532.jpg"
+        width: 777
+        height: 532
+        isCached: true
   - title: "Machines that see the world more like humans do"
     excerpt: "a software engineer in the MIT-IBM Watson AI Lab; recent EECS master’s graduate Austin Garrett; Dan Gutfreund, a principal investigator in the MIT-IBM Watson AI Lab; Joshua B. Tenenbaum ..."
     publishedDateTime: 2021-12-08T00:00:00Z

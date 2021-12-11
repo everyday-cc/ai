@@ -1,33 +1,27 @@
 ---
 category: news
-title: "Microsoft Azure Orbital opens up space to everyone"
-excerpt: "In a new blog post, Microsoft detailed new partnerships and new features that it hopes will result in better satellite imagery, better connectivity, and more data/insights. Azure Orbital is a fully managed cloud-based ground station-as-a-service that lets users communicate with their spacecraft or satellite constellations,"
-publishedDateTime: 2021-12-10T10:16:00Z
-originalUrl: "https://www.techradar.com/uk/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-webUrl: "https://www.techradar.com/uk/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+title: "Microsoft AI-900 Dumps - Actual AI-900 Exam Questions With Online Test Engine"
+excerpt: "Get Success In AI-900 Exam With Microsoft AI-900 Dumps. People often want to succeed in their Azure AI Fundamentals AI-900 certification exam, and they might feel that there is al"
+publishedDateTime: 2021-12-08T00:00:00Z
+originalUrl: "https://www.mindsetkit.org/practices/iwOIFoOS23xJsbKN"
+webUrl: "https://www.mindsetkit.org/practices/iwOIFoOS23xJsbKN"
 type: article
-quality: 104
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mindset Kit
+  domain: mindsetkit.org
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/ZH7WojY7sx4CoX3riUocJ7-1200-80.jpg"
-    width: 1200
-    height: 675
+  - url: "https://www.mindsetkit.org/static/images/why-mindsets.png"
+    width: 900
+    height: 680
     isCached: true
 
 related:
@@ -46,6 +40,22 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/a3b721ab06beacb17c8657a6b0a68efdcbe9c0f8/2021/12/09/3a4c102d-9780-4fee-88db-7a8c0f08f42d/azurespacegeospatial.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Microsoft Azure Orbital opens up space to everyone"
+    excerpt: "In a new blog post, Microsoft detailed new partnerships and new features that it hopes will result in better satellite imagery, better connectivity, and more data/insights. Azure Orbital is a fully managed cloud-based ground station-as-a-service that lets users communicate with their spacecraft or satellite constellations,"
+    publishedDateTime: 2021-12-10T10:16:00Z
+    webUrl: "https://www.techradar.com/uk/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/ZH7WojY7sx4CoX3riUocJ7-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft Azure widens its space ecosystem through deals with Airbus and data partners"
     excerpt: "Today, Azure Space is lifting the curtain on a new array of space-centric offerings, including satellite imagery from Airbus, software-based communication links from ST Engineering iDirect and geospatial data analysis from Esri, Blackshark.ai and Orbital ..."
@@ -178,20 +188,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft AI-900 Dumps - Actual AI-900 Exam Questions With Online Test Engine"
-    excerpt: "Get Success In AI-900 Exam With Microsoft AI-900 Dumps. People often want to succeed in their Azure AI Fundamentals AI-900 certification exam, and they might feel that there is al"
-    publishedDateTime: 2021-12-08T00:00:00Z
-    webUrl: "https://www.mindsetkit.org/practices/iwOIFoOS23xJsbKN"
-    type: article
-    provider:
-      name: Mindset Kit
-      domain: mindsetkit.org
-    quality: 51
-    images:
-      - url: "https://www.mindsetkit.org/static/images/why-mindsets.png"
-        width: 900
-        height: 680
-        isCached: true
   - title: "Local startup Forward Edge-AI gets Microsoft funding for pathogen-detecting device"
     excerpt: "Forward Edge has been working with Sam Houston State University to develop a device able to detect 32 different pathogens, including the virus that causes Covid-19."
     publishedDateTime: 2021-12-10T19:02:00Z
@@ -202,6 +198,6 @@ related:
       domain: bizjournals.com
     quality: 28
 
-secured: "qGZACaUXIy+6PY63Q79g0aAVWdo82BEVFxM44anX56aD2BUX31WIJQmvE3CPvU/irew7UVNRC0mXv429tN4EyR3NgRGpXHPfyWwsCg4Ds2kdXZ2bTZZ9ZZqY2+Z/fy9TXgU4xLaxhk9pS986/9u7yWOgGMMjCm0Y/0QDFUDHINCXJ+D1z8yhqQ/7aAfdNWKeSubwhbFy9EZII+TD6VrqGhPgzIpaDlh4nYY0IIu4hfoMWg/4OoCSLfdBZ+n0mhZgwZhPd0sCYBC6NOnNc7MVtY5vmQ03K1UawHaO5icKFBERX5QCY3dNQdwNnFQkgwFbw6Qx068pcDUNFOOPh87wEBzKT0uRvzFSipeXygStVeAtzmnbIuiqkP1tO/+o3mm5SoWcySpvnAmTs/0K74dx7QsBG8P82Rh/TAZlv0moZ68cxVP2M9KT2o9OdzIDjG9Ibb2ZJbflvaUcnqtd0fzpdPnDCVlEfRAAqlahRLLYT3x/t/Ruj5UfC6pu0yBtzVcGHTDs1vlt5JJqIyeF23w7cg==;3IDIK/ZHnTJeJT6IoAaXtg=="
+secured: "knfskVRn9WDkRWlhTcIRVO811JF6oyrdX0bfpQ3VjKVNk4pm3rvYgdMhl0XD4itxVR2GYiU1sDEZPlz2ST6Rtwu8ARdVnYHSDUg7xa8ZvNvYOCiFr9ghuhLNLdXe4z05s4Twj7NX4VD+SRgQVyA7mE2tzAgblCOqBmcEQME7/kqzq89j3Fo1kUUfKdgSIA8YxeQXkY6FuaMjrVzBhK0w2Us40rb44HZUVxdytMExcvZEb53x4Y/AfPsziPRFpQdC/7qUGbwPCouJLboGWHkLFrH4qw7bAqke1Xakmb4b9Z2GIB89WLDr5VRys1NDIEg8U0xBjhOz3iWRTCJhXi92LfMexKc/YOvCYKy0+/NXf5o=;AOOSYKC0m9Ufpk+wbTr91A=="
 ---
 

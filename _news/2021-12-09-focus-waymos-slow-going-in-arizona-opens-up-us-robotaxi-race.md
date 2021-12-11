@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Waymo’s slow-going in Arizona opens up U.S. robotaxi race"
+    excerpt: "(Reuters) – Alphabet Inc’s Waymo risks losing its lead in the ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ..."
+    publishedDateTime: 2021-12-08T13:32:00Z
+    webUrl: "https://www.metro.us/waymos-slow-going-in-arizona/"
+    ampWebUrl: "https://www.metro.us/waymos-slow-going-in-arizona/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/waymos-slow-going-in-arizona/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 59
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHB714Y-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Robotaxi race opens up as top contender Waymo in low gear in Arizona"
     excerpt: "CHANDLER, Arizona: Alphabet's Waymo risks losing its lead in the ... dollars in financing needed to automate driving through artificial intelligence software and expensive sensors."
     publishedDateTime: 2021-12-08T19:49:00Z
@@ -83,15 +99,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Waymo's slow-going in Arizona opens up U.S. robotaxi race"
-    excerpt: "Alphabet Inc’s Waymo risks losing its lead in the ... of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field."
-    publishedDateTime: 2021-12-08T13:33:00Z
-    webUrl: "https://www.euronews.com/next/2021/12/08/alphabet-waymo"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 19
 
 secured: "wx2xHjVrMPk/NtjMP7nUq4RO0icqQXI7wucySJttY+i1atXYIgqqaSYQjPkiXWVKQjkWf8W6ghHWdqhCIopa46lw0OLqI+gYnb7ywcQM8HAXypwKl1/ChVfDkW1ENYqtDfZKAB91+nA9VwEyxo+Lc6i7DWOhVo4AHPAobGVACmFfjhxhocIFFMsINl1KbielgKyUORjWOia3cAB56plBt1w1HQSdY84qyV2xQiLfUH1TAHDnbRL2uT1tsypduVKscm9zQiev8KP5TUT9IZn+kQwiaJ39oeb4DzWGw5S7JYxe1CsT0C3C8tyl68qSSeGfNbpp1m6TeI+yymQ+Hzdx4/LTLW9in3tsytFH82NwwIU=;nNEe30yvOgKWBRprF0bogQ=="
 ---

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "New Artificial Intelligence System Enables Machines That See the World More Like Humans Do"
+    excerpt: "A new “common-sense” approach to computer vision enables artificial intelligence that interprets scenes more accurately than other systems do. Computer vision systems sometimes make inferences about a scene that fly in the face of common sense."
+    publishedDateTime: 2021-12-11T12:21:00Z
+    webUrl: "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/"
+    ampWebUrl: "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 49
+    images:
+      - url: "https://scitechdaily.com/images/3DP3-Infers-Accurate-Pose-Estimates-of-Objects-777x532.jpg"
+        width: 777
+        height: 532
+        isCached: true
   - title: "Machine-learning system flags remedies that might do more harm than good"
     excerpt: "Sepsis claims the lives of nearly 270,000 people in the U.S. each year. The unpredictable medical condition can progress rapidly, leading to a swift drop in blood pressure, tissue damage, multiple organ failure,"
     publishedDateTime: 2021-12-09T15:25:00Z

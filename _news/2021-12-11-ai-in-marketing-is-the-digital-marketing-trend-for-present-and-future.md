@@ -1,27 +1,32 @@
 ---
 category: news
-title: "Enforcement on the Edge: Artificial Intelligence and Machine Learning in Federal Law Enforcement"
-excerpt: "Federal law enforcement agencies are consistently on the lookout for innovation that can help protect American citizens and borders. These activities are becoming increasingly field-based, which in turn demands that rapid analysis of the information gathered must move to the edge too."
-publishedDateTime: 2021-12-10T08:04:00Z
-originalUrl: "https://www.defenseone.com/assets/enforcement-edge-artificial-intelligence-and-machine-learning-federal-law-enforcement.pdf"
-webUrl: "https://www.defenseone.com/assets/enforcement-edge-artificial-intelligence-and-machine-learning-federal-law-enforcement.pdf"
+title: "AI In Marketing is The Digital Marketing Trend For Present And Future"
+excerpt: "An intelligent digital marketer never hesitates to make use of new edge technologies to bring better ROI for the business.  Let us be clear- If you’re not using AI in marketing, your marketing strategies require urgent modification."
+publishedDateTime: 2021-12-11T11:46:00Z
+originalUrl: "https://www.linkedin.com/pulse/ai-marketing-digital-trend-present-future-narayan-shukla"
+webUrl: "https://www.linkedin.com/pulse/ai-marketing-digital-trend-present-future-narayan-shukla"
 type: article
-quality: 41
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Defense One
-  domain: defenseone.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Facebook AI
   - AI
-  - Machine Learning
+  - AI in Marketing
 
 images:
-  - url: "https://cdn.defenseone.com/media/screen_shot_2021-11-18_at_11.40.45_am.png"
-    width: 1812
-    height: 1356
+  - url: "https://media-exp1.licdn.com/dms/image/C5612AQE6rKWcgmrJ-g/article-cover_image-shrink_600_2000/0/1639222775558?e=1644451200&v=beta&t=FnyGXOW3HAlfP4rCGyknMVzN5eWvsWKCpKGO1jnvOEM"
+    width: 920
+    height: 438
     isCached: true
 
 related:
@@ -57,20 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI In Marketing is The Digital Marketing Trend For Present And Future"
-    excerpt: "An intelligent digital marketer never hesitates to make use of new edge technologies to bring better ROI for the business.  Let us be clear- If you’re not using AI in marketing, your marketing strategies require urgent modification."
-    publishedDateTime: 2021-12-11T11:46:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-marketing-digital-trend-present-future-narayan-shukla"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE6rKWcgmrJ-g/article-cover_image-shrink_600_2000/0/1639222775558?e=1644451200&v=beta&t=FnyGXOW3HAlfP4rCGyknMVzN5eWvsWKCpKGO1jnvOEM"
-        width: 920
-        height: 438
-        isCached: true
   - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
     excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists. To achieve this,"
     publishedDateTime: 2021-12-08T23:46:00Z
@@ -86,6 +77,20 @@ related:
       - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2021/2021-12/0912_argo_AI-seo.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Enforcement on the Edge: Artificial Intelligence and Machine Learning in Federal Law Enforcement"
+    excerpt: "Federal law enforcement agencies are consistently on the lookout for innovation that can help protect American citizens and borders. These activities are becoming increasingly field-based, which in turn demands that rapid analysis of the information gathered must move to the edge too."
+    publishedDateTime: 2021-12-10T08:04:00Z
+    webUrl: "https://www.defenseone.com/assets/enforcement-edge-artificial-intelligence-and-machine-learning-federal-law-enforcement.pdf"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 41
+    images:
+      - url: "https://cdn.defenseone.com/media/screen_shot_2021-11-18_at_11.40.45_am.png"
+        width: 1812
+        height: 1356
         isCached: true
   - title: "Agricultural AI on the upswing"
     excerpt: "Wall Street Journal, explaining rising interest in AI technology. “To do so farmers need to monitor a constant stream of data on plants, soil and atmospheric conditions.” There is also a labor and monetary factor."
@@ -130,6 +135,6 @@ related:
         height: 300
         isCached: true
 
-secured: "gKY7Q0kfjBTwAJbWsoOxUuRNfHZz4f9aoBUwSvnZzubbfCi+6NQu06mSTBeEDm75UljmI/10n13VQs30B1t4uRQebQIOV7nPkzCpfyms2Gi2DrGfAFL/G+7IUiJL3p8v4tdBCpU1cF4jdVbL1wZxJ2J73UA6WOPZDU6GU4FuBvjF/ae8zhFHqqP+XS8C/X4epTc65JYfZGKkLVljI9uIZWjFsAuH0sXNGQ0yZ+kU2z42pXU4UVyO01PzhjtNQghwtLHxt97mZj4ONVrqEVob/spWqWIgC5vK7q1vVnLhsL9AzPnCWxw87EoNoqLx0hhnvkt411opVtVvPhMiI2K4WaJwhEgTXIyrAlRWrVl2KAY=;k8UJOnQhCzlF3jMguVRY6A=="
+secured: "cg8khUh7dqH2lmhAxxHmVOzjtMqtMip+bC7c49xOCJflnWGGj+DIvGDGiEy6fyDN2/YzZss5kdWkUiKwqDxVeI4Bqf1eujKznR0FCaPPH6JhmfqIYSJ7vDtQJeIqgETxrt22rSws2tA+a2YAE7Ps13iJ2pd7Omo2pzARQI2AEG2Zpi7T9zfYhxjQFF2eWPmtMhGmIS7G7B5yPRAORVoXaIeR8dtK6PkiQs5vj8DGr29Kmcf0wUXiIeDWN+MPJZd64SFhO+1EKnALjgkWqThwXnvyYX4fAMKcFbaBcQuu8xbDXHLyg+2O/HqEqleDkyShSO4da9YRV3MNCQmrJ+odlmXX4dRbtAorQQJtHFhoh/Y=;tEYncy7izzdMTTgZdH0xvw=="
 ---
 

@@ -66,6 +66,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
+  - title: "Waymo’s slow-going in Arizona opens up U.S. robotaxi race"
+    excerpt: "(Reuters) – Alphabet Inc’s Waymo risks losing its lead in the ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ..."
+    publishedDateTime: 2021-12-08T13:32:00Z
+    webUrl: "https://www.metro.us/waymos-slow-going-in-arizona/"
+    ampWebUrl: "https://www.metro.us/waymos-slow-going-in-arizona/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/waymos-slow-going-in-arizona/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 59
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHB714Y-BASEIMAGE.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Pilot robotaxi services launched in Beijing"
     excerpt: "Tech company Baidu Inc and self-driving start-up Pony.ai are the first pair of enterprises granted permission to offer paid services and provide up to 100 self-driving vehicles for commercial ..."
     publishedDateTime: 2021-12-07T12:47:00Z
@@ -80,16 +96,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Waymo's slow-going in Arizona opens up U.S. robotaxi race"
-    excerpt: "Alphabet Inc’s Waymo risks losing its lead in the ... of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field."
-    publishedDateTime: 2021-12-08T13:33:00Z
-    webUrl: "https://www.euronews.com/next/2021/12/08/alphabet-waymo"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 19
 
-secured: "5171nQlts1q/SivpjoWt1GMqaCP3xLtN18mLIiFY7cGj6b2n7IzK13j6i0223skOm+RF55iT2L889PTDoIeULzknol9mncZ7+xPQf06TdmzbqwIJpE1a36zt/mDgV2OSAea8aJm+W5ZjVbu+7Wq7FwHIynho8mEmokN5mhpn65l2VHPYsCOqEUEvyzjtkLoA4G4qT5j7lQ0VQYr++ID16XSk+D4YsDuHcqRlpFhAc+HqHYOBqzryN6CB5Z9whrsjMiGvBq+/REPHFtSUiz67O/yZ/alEzqimVzxW6THgrIfjKxPMMCicDvQ2LgAdwn7YF/Ko5K/Mdie026LDmvLfJiDLGES5dXqu/JHt5B5sRM4=;UAZcnG0FZxuwwwb8nRaxrA=="
+secured: "tQPB16BImKIYl0RC+wQMdxyCl/hvimhjH42xyXKVRfB+q+HuHoFkcXl5+B2+KC9h8cM1ClvQKPS1YMaJbEK6LiMFi4lXBOtM+tr1WyBIZfKf3szMZqoEOkKv+lItKOOz7nBACKzb4tjZTAUW7FVVMZa1K3O2JGDTN0ydiyN2xOKtBfRq7NAErcVGi/HQr+gcs4zqx7zDpLuY6AvMWD00K/er5E14LXT89PXw6RFZBsBa1SrliUwHNLUEnn/LbKMMVrxguiyO5t+L9iaCFxnrERGlFWBf5DpGjmtEE+uh97V4rZBzuRk3pEwVoH/L7CvRzZdsbZ0I2t3vO51/2PX4oR/IVgV37d0Dkm0lpR3YPj8=;Ay8vqAICtK1ApUZ9TF+iKw=="
 ---
 

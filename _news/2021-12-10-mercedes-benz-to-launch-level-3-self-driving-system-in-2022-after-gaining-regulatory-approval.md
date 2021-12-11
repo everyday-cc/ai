@@ -118,19 +118,16 @@ related:
         height: 394
         isCached: true
   - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
-    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving"
-    publishedDateTime: 2021-12-10T18:16:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/gaming-driving-tesla-mercedes-recall-81677819"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+    publishedDateTime: 2021-12-11T12:01:00Z
+    webUrl: "https://www.sunherald.com/news/business/article256490316.html"
+    ampWebUrl: "https://amp.sunherald.com/news/business/article256490316.html"
+    cdnAmpWebUrl: "https://amp-sunherald-com.cdn.ampproject.org/c/s/amp.sunherald.com/news/business/article256490316.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Biloxi Sun Herald
+      domain: sunherald.com
     quality: 39
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_f6c58126f5c1429992e3d6153cc7aae5_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Mercedes-Benz self-driving car technology approved for use"
     excerpt: "Approval of the self-driving system paves the way for it to be offered to customers where national legislation allows its use."
     publishedDateTime: 2021-12-09T14:31:00Z
