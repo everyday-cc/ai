@@ -2,6 +2,48 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-11-20-ai-played-big-role-in-approach-to-pandemic-says-uae-minister.md",
+      "title": "AI Played 'Big Role' in Approach to Pandemic, Says UAE Minister",
+      "excerpt": "Omar Al Olama, the UAE's AI Minister, explains how COVID-19 has been an accelerator for AI applications; why the US and China would benefit from a 'constant dialogue' on AI; and why 'the new roads that we need to be building right now are roads in the digital realm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister",
+      "originalUrl": "https://www.realclearpolitics.com/2021/11/20/ai_played_big_role_in_approach_to_pandemic_says_uae_minister_557114.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-11/omar.jpeg?h=a5ae579a&itok=OqPGVht5",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister?amp",
+      "cdnAmpWebUrl": "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister?amp",
+      "publishedDateTime": "2021-11-20T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-reshaping-fintech-with-ai-top-ai-innovations-in-the-financial-industry.md",
       "title": "Reshaping Fintech with AI: Top AI Innovations in the Financial Industry",
       "excerpt": "Banking and finance procedures have been made easier because of the use of AI and machine learning. Check out the top 10 AI innovations in the financial industry.",
@@ -1165,58 +1207,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-policymakers-want-to-regulate-ai-but-lack-consensus-on-how.md",
-      "title": "Policymakers want to regulate AI but lack consensus on how",
-      "excerpt": "Commentary: AI is considered \"world changing\" by policymakers, but it's unclear how to ensure positive outcomes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/policymakers-want-to-regulate-ai-but-lack-consensus-on-how/",
-      "originalUrl": "https://www.techrepublic.com/article/policymakers-want-to-regulate-ai-but-lack-consensus-on-how/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/policymakers-want-to-regulate-ai-but-lack-consensus-on-how/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/policymakers-want-to-regulate-ai-but-lack-consensus-on-how/",
-      "publishedDateTime": "2021-11-19T05:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

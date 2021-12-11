@@ -2,6 +2,58 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-11-17-global-deep-learning-in-ct-scanners-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026.md",
+      "title": "Global Deep Learning in CT Scanners Market Size, Share, Revenue & Demand | Future Opportunities | Forecast upto 2026",
+      "excerpt": "In 2022, “Deep Learning in CT Scanners Market“ revenue was Million USD in 2016, grew to Million USD in 2021, and will",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-in-ct-scanners-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026-2021-11-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-in-ct-scanners-market-size-share-revenue-demand-future-opportunities-forecast-upto-2026-2021-11-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-baidu-q3-adj-net-income-declines-ai-cloud-revenue-up-73.md",
       "title": "Baidu Q3 Adj. Net Income Declines; AI Cloud Revenue Up 73%",
       "excerpt": "Rong Luo, CFO of Baidu, said: \"With a diversified AI portfolio, including cloud services, smart transportation, smart devices, self-driving, smart EV and robotaxi, we are well positioned for long ...",
@@ -1076,58 +1128,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-windows-10s-forgotten-november-feature-update-is-rolling-out-now.md",
-      "title": "Windows 10’s forgotten November feature update is rolling out now",
-      "excerpt": "Microsoft began shipping the Windows 10 November 2021 Update (21H2) today, which PC users can begin asking for via Windows Update.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/552325/windows-10s-forgotten-feature-update-is-rolling-out-now.html",
-      "originalUrl": "https://www.pcworld.com/article/552325/windows-10s-forgotten-feature-update-is-rolling-out-now.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2021/11/windows-10-fading.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/552325/windows-10s-forgotten-feature-update-is-rolling-out-now.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/552325/windows-10s-forgotten-feature-update-is-rolling-out-now.html/amp",
-      "publishedDateTime": "2021-11-16T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

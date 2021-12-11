@@ -57,22 +57,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Tesla Faked Original Full Self-Driving Video, Former Employees Allege"
-    excerpt: "Tesla faked the original 2016 video showing a Model S driving itself without any human intervention, according to former employees interviewed by the New York Times. The allegations were made in a broader story exposing internal divisions at Tesla over its approach to safety in developing and marketing its Autopilot and Full Self-Driving hardware and software."
-    publishedDateTime: 2021-12-06T12:40:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/"
-    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://www.motortrend.com/uploads/sites/5/2019/06/Tesla-Model-3-Autopilot-10.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Mercedes-Benz Has Beaten Tesla To Getting Hands-Free Driving Approval In Germany"
     excerpt: "Advertisement The German government has given Mercedes permission to put its Level 3 autonomous driving technology on the road, Bloomberg reported. The system will be available to the general public on the new Mercedes S-Class and EQS saloons early next year,"
     publishedDateTime: 2021-12-10T19:43:00Z
@@ -134,19 +118,16 @@ related:
         height: 394
         isCached: true
   - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
-    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving"
-    publishedDateTime: 2021-12-10T18:16:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/gaming-driving-tesla-mercedes-recall-81677819"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+    publishedDateTime: 2021-12-11T04:04:00Z
+    webUrl: "https://www.kansas.com/news/business/article256490316.html"
+    ampWebUrl: "https://amp.kansas.com/news/business/article256490316.html"
+    cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article256490316.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Wichita Eagle
+      domain: kansas.com
     quality: 39
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_f6c58126f5c1429992e3d6153cc7aae5_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Mercedes-Benz self-driving car technology approved for use"
     excerpt: "Approval of the self-driving system paves the way for it to be offered to customers where national legislation allows its use."
     publishedDateTime: 2021-12-09T14:31:00Z

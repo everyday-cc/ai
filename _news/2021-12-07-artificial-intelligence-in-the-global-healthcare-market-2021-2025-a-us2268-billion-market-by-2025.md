@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificia
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-the-global-healthcare-market-2021-2025-a-us-22-68-billion-market/article_56a1cbf0-42f7-517f-b585-916871dfb454.html"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -20,68 +20,20 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Smart Robot Market 2021-2028"
-    excerpt: "The global smart robot market size is expected to reach USD 31.11 billion by 2027, exhibiting a CAGR of 23.1% during the forecast period. Rapid industrialization coupled with intelligent infrastructure projects will contribute positively to the growth of the market,"
-    publishedDateTime: 2021-12-06T12:52:00Z
-    webUrl: "https://www.openpr.com/news/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow"
-    ampWebUrl: "https://www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow"
+  - title: "Future Unicorns in Fintech Report 2021: Analysis of the Top 50 Fintech Startups that have the Potential to Valued at More than US$1 Billion - Research"
+    excerpt: "The \"Future Unicorns in Fintech\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the top 50 Fintech startups that have the potential to become unicorns (valuation more than US$1bn) based on the Unicorn Prediction Model."
+    publishedDateTime: 2021-12-06T15:26:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=582874"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc06500488_g.jpg"
-        width: 800
-        height: 428
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) Robots Market Trajectory & Analytics, 2021-2026 – ResearchAndMarkets.com"
-    excerpt: "Global Market Trajectory & Analytics” report has been added to ResearchAndMarkets.com’s offering. Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026 The global market for Artificial Intelligence (AI) Robots estimated at US$5."
-    publishedDateTime: 2021-12-06T11:21:00Z
-    webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-ai-robots-market-trajectory-analytics-2021-2026-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 30
-  - title: "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud Detection"
-    publishedDateTime: 2021-12-08T14:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/speech-to-text-api-market-worth-5-4-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--842034608.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
-        isCached: true
-  - title: "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarketstm"
-    excerpt: "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud Detection & Prevention, Content Transcription, Subtitle Generation), Deployment Mode,"
-    publishedDateTime: 2021-12-08T15:26:00Z
-    webUrl: "https://www.lelezard.com/en/news-20146808.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 12
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Global Facial Recognition Market (2021 to 2026) – Industry Trends, Share, Size, Growth, Opportunity and Forecasts – ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global facial recognition market reached a value of US$ 3."
-    publishedDateTime: 2021-12-07T13:11:00Z
-    webUrl: "https://www.financialbuzz.com/global-facial-recognition-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "EZzRO74iDMZwHNLzBeikBWobgOFr3Oatm1hcE74DwRx5En4kJxfTYWm2r2sbS94WZcw//kNwxV6F3/KPTWg/aqTqFwQtzaOH2TGNxQplUGXkRcZj5zxLob2S4ScDUaU7Vz7EymFxx+X/qj9wuHo3GLHLwdf7f0NlmOBqBHR8c2ESR5PGiLQ3rRiVrlWIxet0Eq1uArlIriVfbpzfO/i0ywfqV9uSgUc2jJYnECHl/ni3EBJYFMQSl//ASFUkLzaEnQanMs6fZZbTpWgUgcrXbXv/hZr+NULuXpKFVjEGuUFVtnSWUBGnN/QmnRm+7N1O0Scv3wh8Gp6arMzucrKRZksdB+u6YxUdA3w5qRgoDs+ROgYRaNcRouVfAIvktB9CvfErjgvutL9zg62ppPKmZtFVRvdjzarDGZBzzUJKfV3LnvUQ6hdPUoHZ4WcCPtZbFdlVBesnaj0ihLwPktUBdRuGy64k+dRlYkr/VRwxmNn/wR0hxoT6Vu4e6t1oZAWH3Nuz/am7xo7+cSI7/YJQUQ==;Dhx1V5H8gsud0UdnuDXYIA=="
 ---

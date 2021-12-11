@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -120,15 +120,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Cohere and Google Cloud Partnering on AI"
-    excerpt: "The natural language processing (NLP) company Cohere and Google Cloud are entering an artificial intelligence (AI) partnership. See more here:"
-    publishedDateTime: 2021-12-06T12:10:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/cohere-and-google-cloud-partnering-on-ai/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 19
 
 secured: "4oIQ4K0YzCj47PIolLNo7Nh3Hif60K56O/vMno48BDKq1lUS7ep7Ieif4KZ0mm7pwjkakUvZJCMVJQW+C6j+y/2Hkv06eRc/EOUA8QbJQ1r2JkA/y/Tsr/ZiM+Tt72BGXr0J1tidrlAa8uXSOmgpwrz7iB/E8tSlU4iRJezCOtloOqVqRrhg6d/9hG4f+c44vkWaxenRuSaigb4x3fPJqWbomS8DFTrc9bgmOvRmIsew/FuS08JEQ/dWpIaK9KnX3aY61TCQjjdOuhkTvSAEn3IGqUQglcZka4tQGPwBn56VjqSzMHubEL6/9gsMphFc0AoUUGGRpGLo+SnMWfHD7IRESE/aL3VVfr+nGEyf/IaJjUm7j/1IilC6b+s09z9k4XDR0i7HTgNuzYtCyOv2iN7WjAnDlvJM3/g5nFAux9VhBxIxHRRbn6ZPD1yw9aiI0mcOvIAGML9TR0pS8aa3OlubaGPV4tSJXosS4sDhSF6QwCPoRJpcoioYL+Rhx1A/aqWxA42INAozLV6UudLNnw==;8sUcGI7z67j0CX+M9uZB1Q=="
 ---

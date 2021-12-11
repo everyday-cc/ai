@@ -56,18 +56,18 @@ related:
         height: 628
         isCached: true
   - title: "Robotaxi race opens up as top contender Waymo in low gear in Arizona"
-    excerpt: "Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field. In the first and ..."
-    publishedDateTime: 2021-12-08T19:58:00Z
-    webUrl: "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/"
+    excerpt: "CHANDLER, Arizona: Alphabet's Waymo risks losing its lead in the ... dollars in financing needed to automate driving through artificial intelligence software and expensive sensors."
+    publishedDateTime: 2021-12-08T19:49:00Z
+    webUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
     images:
-      - url: "https://www.reuters.com/resizer/rHX0XRhoxv2jlP3Cl9R9TkKoGhk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VXENWUVLHRBQ5MHF5O3ZDWQ.jpg"
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL"
         width: 1200
-        height: 628
+        height: 676
         isCached: true
   - title: "Pilot robotaxi services launched in Beijing"
     excerpt: "Tech company Baidu Inc and self-driving start-up Pony.ai are the first pair of enterprises granted permission to offer paid services and provide up to 100 self-driving vehicles for commercial ..."

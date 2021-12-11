@@ -1,39 +1,25 @@
 ---
 category: news
 title: "RBEI Joins AWS Independent Software Vendor (ISV) Accelerate Program"
-excerpt: "Robert Bosch Engineering and Business Solutions (RBEI) announced today that it has joined the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS Partners who provide software solutions that run on or integrate with AWS."
-publishedDateTime: 2021-12-07T05:32:00Z
-originalUrl: "https://www.thedailytimes.com/business/rbei-joins-aws-independent-software-vendor-isv-accelerate-program/article_8da3fcc6-e32a-5211-a964-27ada618de5e.html"
-webUrl: "https://www.thedailytimes.com/business/rbei-joins-aws-independent-software-vendor-isv-accelerate-program/article_8da3fcc6-e32a-5211-a964-27ada618de5e.html"
+excerpt: "RBEI uses AWS to power its software-led solutions that connect ... is to facilitate connected living with products and solutions that either contain artificial intelligence (AI) or have been developed or manufactured with its help. Bosch improves quality ..."
+publishedDateTime: 2021-12-07T05:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/b24472799/rbei-joins-aws-independent-software-vendor-isv-accelerate-program"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/b24472799/rbei-joins-aws-independent-software-vendor-isv-accelerate-program"
+ampWebUrl: "https://www.benzinga.com/amp/content/24472799"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24472799"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: thedailytimes.com
-  domain: thedailytimes.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Astadia Joins AWS Public Sector Partner Program"
-    excerpt: "Astadia, a leading mainframe migration software company, joined the Amazon Web Services (AWS) Public Sector Partner Program (PSP), which recognizes AWS Partners with cloud-based solutions and experience across government,"
-    publishedDateTime: 2021-12-07T15:54:00Z
-    webUrl: "https://www.lelezard.com/en/news-20144446.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-
-secured: "cX/ILAUgBLQKGwnskWN6Ib+4wv30dNr5JXuAY8GpJkrPHiCz3OM282ziWMZwqBpe1R05LTUNhpqCTedXIr3nrAZ8fFvR9rHNaSbMYarVuTjtnBTVOIRhmxCzHEgebgqf6VjZWFYtObEGMJei5sMnyWEKrv7TLQl/C6HqZw/do5uORVICOeFSdcRQoBMooTQpfmsA7GTmpr9hEizkXJ0G35LYaaFG8g6vDx96g98jPuEWUwgWYo1KLjnx4TjqBUGa3nQy9OtahvK/0hJ2izAFoDOTAclBW93Mi754aoCvPaE+yCNwEYst9aZx4T4VD6VGi2/3Wn4om0RQHLbwOZoGl7QAZPkVAHQrk9rbDm5jSN23u06KFUwfe0eQfI2T8MHmteWvT3lqxElzNCUAKYRR2ire2ca5E+4WfO5EXPX5PZv/hrE9nwATtpZHhffRIDqFLl9T/GUjXvDbQhCN0joDQDqip+s0MDr+BlUGJxsx4jF68xOyEKpMZ/TDMra9rp/ozZGEbjnQ7RLTAZ/26fiwZQ==;/aKqYBTdTYPitR70yoNBSQ=="
+secured: "7TRrGcL77fGLP1g2GtlCCxR9JpFWtO4KjR408HjUcFoLGbIT0x6b8SMJB9ri3uPhN/gjqZReI9YP1VDb4GaTQBwfidhnLc6zJEBd0wTBpo/tuL3vEOVxAYeSwmkEZI2zGuLU4vLvppqgCIedWDsL5HmgvO9cnPTutcjJm09wqnzyCpfkT6cl/umRaUBpzeVNptpxN29cGDhknMghc5LyMPafh+mswoWPaqFPCBUXW84MVoWAK7LPLTBInLG9M4uYpdFKKtv9qGy2O2AxgxnOOitp0kgPxdIQRSSN/PDZHdKnieNECFeLGtNO9X9x6bZbWhr/2y5JqVNpw9q/EblJhh0GS0x3ivFCwuoVu3I+xA8=;YQO00QL2eB+ZTq1xbv79Cg=="
 ---
 

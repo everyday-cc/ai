@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/we-invited-an-ai-to-debate-its-own-e
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-173607"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "An AI Debates Its Own Ethics At Oxford Union - What It Said Was Startling"
+    excerpt: "Not a day passes without a fascinating snippet on the ethical challenges created by \"black box\" AI systems. These use machine learning to figure out patterns within data and make decisions often witho"
+    publishedDateTime: 2021-12-11T04:47:00Z
+    webUrl: "https://www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358"
+    ampWebUrl: "https://www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 73
+    images:
+      - url: "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
   - title: "We invited an AI to debate its own ethics in the Oxford Union – what it said was startling"
     excerpt: "Andrew Stephen receives research funding from the Oxford Future of Marketing Initiative, which is funded by a consortium of companies, including Meta, Google, Twitter, WPP, L’Oréal, Kantar, Reckitt and Teradata."
     publishedDateTime: 2021-12-10T14:21:00Z

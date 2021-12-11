@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.sg/56987/sponsoredpost/the-next-frontiers-of-a
 webUrl: "https://fintechnews.sg/56987/sponsoredpost/the-next-frontiers-of-ai-and-machine-learning-in-data/"
 type: article
 quality: 58
-heat: -1
+heat: 68
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "What AI-Based Recruiting Can Learn From HR Leaders"
-    excerpt: "Artificial intelligence (AI) in HR is a very hot topic. But is it effective in helping HR professionals find suitable candidates, or match employees to opportunities? In a recent browsing session for talent management software,"
-    publishedDateTime: 2021-12-06T12:07:00Z
-    webUrl: "https://www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/"
-    ampWebUrl: "https://www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/amp/"
+  - title: "Current Status of Artificial Intelligence"
+    excerpt: "AI (Artificial Intelligence) is used in increasingly more areas of our lives, as both companies and people rely on its recommendations. Although this year has been just as challenging for the worldpopulation,"
+    publishedDateTime: 2021-12-09T14:53:00Z
+    webUrl: "https://www.linkedin.com/pulse/current-status-artificial-intelligence-stefan-pechardscheck"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 41
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8f6a930ffa5ea24f8a7aa%2F0x0.jpg"
-        width: 1200
-        height: 600
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEbPk5daAVfxg/article-cover_image-shrink_720_1280/0/1639061348860?e=1644451200&v=beta&t=s7OmyfEKCBaGXs5ums1CLvEflp4UxA2CHNliclZzB6M"
+        width: 1080
+        height: 720
         isCached: true
 
 secured: "z9ITEOA6txOSLGZKSyqtiHR58iwEclaPKbYapxDrRsp815vz51XooAmIECmCtXNR1Dm4pUkW61KP/7Oi6jWr24GhAHP8M28e8MHiV6BILR0vWa2wTmS9hUiBBBy4R4ThVl2+JEw9JgUCr7bJ8S81PtyUoqxafWUWCetI3whkoS9CVuwwgh7XvqpzoTxGqEcTSibFZ/pK4ZDdNUetWU5uU+WrKQM1oerD3jZva4HT9O4G/IHAPyf8hTxSya6b2v8Q/xOONzwErHwTMN/A6eU+RNfFwpe6L6J7CoIdZba4+fZChVdicODQhrKbOp0MEFwINm8PIBVr5FyfK/QnVNDxafvquJgT5H0AhLtylFZqR+plkMIhUHKp6KbjVM7QAYH3zoj+jwrEA6DvRdN2eGpfT4seJfwAcGBaia3xD7pgKu2TdD8HS9QBnft9UqgQWw2Q50R70Zom9RGM5ZKOwC3K7bD60nyDK2HJipa/ZcNZ5rWF9kjcAxLEK/QHbS4w6hqxReb+CIbYMiyD0KrlfWSRoA==;Hya72wpFGdrcxD5foi+q4g=="

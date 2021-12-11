@@ -2,6 +2,39 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-10-14-imagine-the-climate-future-in-your-neighbourhood-or-anywhere-else-using-artificial-intelligence.md",
+      "title": "Imagine the Climate Future in your Neighbourhood (or anywhere else) Using Artificial Intelligence",
+      "excerpt": "PRNewswire/ - Concerned by the sharp rise in natural disasters around the world, a team of AI researchers at Mila is launching a website that lets people see the potential impact of climate change on any address,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbc29.com/prnewswire/2021/10/14/imagine-climate-future-your-neighbourhood-or-anywhere-else-using-artificial-intelligence/",
+      "originalUrl": "https://www.nbc29.com/prnewswire/2021/10/14/imagine-climate-future-your-neighbourhood-or-anywhere-else-using-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC29",
+        "domain": "nbc29.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-what-are-the-threats-and-opportunities-of-data-science-and-machine-learning.md",
       "title": "What are the threats and opportunities of data science and machine learning?",
       "excerpt": "As with most things, many of the threats and challenges in using data science, artificial intelligence and machine learning ... working in financial services, to have access to reams of data ...",
@@ -1074,58 +1107,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-tesla-is-under-pressure-from-nhtsa-over-full-self-driving-beta-nda-and-stealth-recall.md",
-      "title": "Tesla is under pressure from NHTSA over Full Self-Driving Beta NDA and ‘stealth recall’",
-      "excerpt": "The NHTSA is upping the pressure on Tesla as the regulator asked for more information about the non-disclosure agreement it made Full Self-Driving Beta testers agree to. The government is also questioning Tesla about what it believes to be a potential “stealth recall” of Autopilot.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/",
-      "originalUrl": "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/10/13/tesla-under-pressure-nhtsa-over-full-self-driving-beta-nda-stealth-recall/amp/",
-      "publishedDateTime": "2021-10-13T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

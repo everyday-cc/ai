@@ -2,6 +2,49 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-11-05-should-you-be-using-ai-to-solve-your-online-retail-woes.md",
+      "title": "Should you be using AI to solve your online retail woes?",
+      "excerpt": "The use of AI in e-Commerce and digital retail is commonplace, so how exactly can it be used to alleviate problems faced by online retailers?",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/",
+      "originalUrl": "https://techwireasia.com/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/10/shutterstock_524159932-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/11/should-you-be-using-ai-to-solve-your-online-retail-woes/",
+      "publishedDateTime": "2021-11-04T20:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-05-how-artificial-intelligence-is-helping-veterans-become-first-time-homebuyers.md",
       "title": "How Artificial Intelligence Is Helping Veterans Become First Time Homebuyers",
       "excerpt": "Recent statistics show that veteran homelessness increased by about 4% in 2020, aggravating an already bad situation. The US government and the VA have created very accommodating measures to enable Veterans to become homeowners.",
@@ -1165,39 +1208,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-cdpq-leads-us70-million-financing-round-in-sama-an-ai-training-data-platform.md",
-      "title": "CDPQ leads US$70 million financing round in Sama, an AI training data platform",
-      "excerpt": "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training to power AI applications and to develop the first end-to-end AI platform to manage the complete AI lifecycle The company has approximately 40 employees in Montreal where it intends to strengthen its presence with a research and product development hub MONTRÉAL,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cdpq-leads-us70-million-financing-round-in-sama-an-ai-training-data-platform-301415882.html",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-canada-montreal-8e7928684b9df0a642dc179d2c054258",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

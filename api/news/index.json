@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-11-artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes.md",
+      "title": "Artificial intelligence runs more data centers, but still won't relieve technology staffing woes",
+      "excerpt": "Forecasting data center capacity remains a dark art, and a continuing challenge for companies. AI to the rescue? Hold that thought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
+      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d70ba295950230358690ae93de9e3cd78a0a4f16/2021/12/11/956f4dc7-de64-4b18-aa0d-20f338995549/reflection-ball-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-runs-more-data-centers-but-still-wont-relieve-technology-staffing-woes/",
+      "publishedDateTime": "2021-12-10T20:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-mercedes-beats-tesla-to-hands-free-driving.md",
       "title": "Mercedes Beats Tesla to Hands-Free Driving",
       "excerpt": "Mercedes can sell its autonomous drive package, called Drive Pilot, to be used on parts of Germany’s Autobahn network at a max speed of 37 miles per hour.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -62,7 +113,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -158,49 +209,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-11-robots-with-artificial-intelligence-to-reconstruct-pompeii-frescoes.md",
-      "title": "Robots with Artificial Intelligence to Reconstruct Pompeii Frescoes",
-      "excerpt": "A robot fitted with artificial intelligence will be used to restore frescoes damaged in Pompeii nearly 2,000 years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://greekreporter.com/2021/12/11/robots-with-artificial-intelligence-to-reconstruct-pompeii-frescoes/",
-      "originalUrl": "https://greekreporter.com/2021/12/11/robots-with-artificial-intelligence-to-reconstruct-pompeii-frescoes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://greekreporter.com/wp-content/uploads/2020/11/Pompeii_Wikimedia.jpg",
-          "width": 1011,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Greek Reporter",
-        "domain": "greekreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-11-ai-is-thriving-on-and-driving-the-edge.md",
       "title": "AI is thriving on and driving the edge",
       "excerpt": "The edge is an ideal environment for AI largely because it's still in the greenfield stage of development and has been so widely distributed.",
@@ -209,7 +217,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -653,7 +661,7 @@
       "originalUrl": "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-173607",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -697,7 +705,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "images": null,
       "content": "\r\n",

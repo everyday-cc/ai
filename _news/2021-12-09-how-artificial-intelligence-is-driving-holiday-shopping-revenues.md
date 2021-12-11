@@ -114,15 +114,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Cohere and Google Cloud Partnering on AI"
-    excerpt: "The natural language processing (NLP) company Cohere and Google Cloud are entering an artificial intelligence (AI) partnership. See more here:"
-    publishedDateTime: 2021-12-06T12:10:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/cohere-and-google-cloud-partnering-on-ai/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 19
 
 secured: "WyAvrPLDuIGN0EEK1YOypZpeRieZuvVYsdB245apyzDWM0x6RsIWd0Ee8bdwN88QTp4PXiwv8lgmy9JVLPHYk5adT7qhFN2qg3Oeo+lT1yRv+DjNs7fEDgt1llYuu5xCoNl5AjGBDY6koM46xl/Aj37qlbWnG2gobDIKKzwma6kudu5qe10/5vq3KLTsp4CAaIy0UxiPqYE/Kk4kJhtm+FnEcwkg8CFne3RyCKolhqzyNLdcsfwTjOaju8JR4USe/dLVhkyciwuM6+qFCJ1uLZxu56j3kP5NNZfrMkloHTJRv5JlLyeBHPbsksmjhxBY9T4LPHb/esb7so9C274x4YCAsRdKdI4OYRfcc1wQGYU=;EZ3yzZ7eaMz5NCbpPaoc3g=="
 ---

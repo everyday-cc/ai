@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-02-radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters.md",
+      "title": "Radium looks to speed up AI and ML jobs in cloud datacenters",
+      "excerpt": "Radium, which uses AI and machine learning to accelerate cloud hardware, is deploying its solutions to cloud datacenters run by Cyxtera.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/",
+      "originalUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/02/data-center-cloud-wavebreakmedia-shutterstock.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/amp/",
+      "publishedDateTime": "2021-12-02T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-can-intel-powered-evo-certified-laptops-challenge-apples-m1-macbooks.md",
       "title": "Can Intel-Powered, Evo-Certified Laptops Challenge Apple’s M1 MacBooks?",
       "excerpt": "Another feature central to the new processors is Artificial Intelligence ... thanks to the hardware-based Intel Gaussian and Neural Network Accelerator 2.0, as well as Intel Iris Xe integrated ...",
@@ -1093,57 +1145,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-reimagining-your-customer-experience-with-conversational-ai.md",
-      "title": "Reimagining Your Customer Experience With Conversational AI",
-      "excerpt": "That needn’t be the case: it’s time for organizations to reevaluate the role of conversational AI in customer experiences. In many cases, it’s already become obvious that simple speech can replace high-friction processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a7ff3b1e9bfe123b852719%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1578%26cropY1%3D0%26cropY2%3D887",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/12/01/reimagining-your-customer-experience-with-conversational-ai/amp/",
-      "publishedDateTime": "2021-12-01T14:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

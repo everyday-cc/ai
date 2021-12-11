@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "PARMY OLSON: Can a tiny AI group stand up to Google?"
-    excerpt: "Scientist Timnit Gebru has set up an AI research group one year after getting fired from Google, but she and others are fighting an uphill battle."
-    publishedDateTime: 2021-12-06T11:23:00Z
-    webUrl: "https://www.businesslive.co.za/bloomberg/opinion/2021-12-06-parmy-olson-can-a-tiny-ai-group-stand-up-to-google/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bloomberg/opinion/2021-12-06-parmy-olson-can-a-tiny-ai-group-stand-up-to-google/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bloomberg/opinion/2021-12-06-parmy-olson-can-a-tiny-ai-group-stand-up-to-google/"
+  - title: "Google’s real challengers could be independent AI researchers"
+    excerpt: "Many say we need independent research on AI. Good news on that came from Timnit Gebru, a former ethical AI researcher at Alphabet Inc’s Google. She had been fired a year ago following a dispute over a paper critical of large AI models,"
+    publishedDateTime: 2021-12-07T17:02:00Z
+    webUrl: "https://www.livemint.com/opinion/googles-real-challengers-could-be-independent-ai-researchers-11638896252429.html"
+    ampWebUrl: "https://www.livemint.com/opinion/googles-real-challengers-could-be-independent-ai-researchers/amp-11638896252429.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/googles-real-challengers-could-be-independent-ai-researchers/amp-11638896252429.html"
     type: article
     provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
+      name: Mint
+      domain: livemint.com
     quality: 59
     images:
-      - url: "https://lh3.googleusercontent.com/-cUuVDCl8uOy9cRNy2JQvlKTbk11yNhS0dgwuehjZE40NZTbrFBKYNmQX1k76i-HnGI9CTJLuMc1hWj6d9mLMMj7MrIDjtL6kqNCLBmVP_s1JQ=s512"
-        width: 512
-        height: 341
+      - url: "https://images.livemint.com/img/2021/12/07/600x338/Google_1638896315418_1638896328893.jpg"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "LCfBO51cToSYoxLkg11tKyuQZryUXB3ObnJbBZo+gPi5IxkKteIqdrOt5sbQ7E7ZN5ObiaXaDWv4oyzqptEFiEGiPtACPM5yH/jGDgTEugoOZSkUfM7s9zlxhnbAO4iXpQAiMs30zEg/Ou9Axmr8GIUY3KVf6nJ6hAN/Lrlv6hBOf8FY8G9et9MT3SGcmAosisL/KZrxB2Cnm891Us5M6/EXEB6r38eoRHajaIHKE56S2ZSE14rUU9rdcSgFQyb2G8gX3/SxiEFHH9W9MCOSbZPH10PCpl51YQS8K/oztk408K09d/SHEaimPv1i2EU+zozCgOXPT+dQR6gIKEKjthmMsbaB/p3AU4KZR9Bei0A=;uuhFkxSOlLP12Kozir1i2Q=="

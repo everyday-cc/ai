@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/markets/expert-view/bullish-on-industria
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/amp_articleshow/88186185.cms"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: India Times
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Country of IPOs – How #Fintech is Transforming India?"
-    excerpt: "Fintech revolution, and investors across the world seem to be vying to get hold of a piece of action. In the last decade, across the global financial industry, Fintech or Financial technology has taken centre stage."
-    publishedDateTime: 2021-12-06T12:42:00Z
-    webUrl: "https://www.linkedin.com/pulse/country-ipos-how-fintech-transforming-india-pathikrit-banerjee"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEbRPKrBmCQmg/article-cover_image-shrink_720_1280/0/1638792232670?e=1644451200&v=beta&t=CQQaLMCmoIeEBKcL2G20RUKhxBCUHM-kzr35GHq7Ldw"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "TruBoard & Biz2X Join Hands to Innovate Indian FinTech Market"
     excerpt: "TruBoard, a FinTech start-up ventures into innovative partnership with Biz2Credit to organise the latter’s digital lending platform Biz2X in India. This partnership is likely to provide end-to-end digital flow for TruBoard customers,"
     publishedDateTime: 2021-12-10T10:39:00Z

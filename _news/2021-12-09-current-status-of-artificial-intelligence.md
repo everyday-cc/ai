@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/current-status-artificial-intellige
 webUrl: "https://www.linkedin.com/pulse/current-status-artificial-intelligence-stefan-pechardscheck"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -30,29 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "Voice AI Startup Skit announces the appointment of new members"
-    excerpt: "Voice AI Startup Skit announces the appointment of new members - Skit, the voice AI startup has announced the appointment of 2 new members, Vijit Banthia as Vice"
-    publishedDateTime: 2021-12-08T09:41:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/voice-ai-startup-skit-announces-the-appointment-of-new-members-nid-217545-cid-19.html"
+  - title: "The Next Frontiers of AI and Machine Learning in Data"
+    excerpt: "Over the last three years, between 40-50% of respondents reported deploying AI/ML in data driven business sectors."
+    publishedDateTime: 2021-12-08T04:23:00Z
+    webUrl: "https://fintechnews.sg/56987/sponsoredpost/the-next-frontiers-of-ai-and-machine-learning-in-data/"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 58
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/9OQ4o5sr.jpg"
-        width: 570
-        height: 367
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2021/11/The-Next-Frontiers-of-AI-and-Machine-Learning-in-Data.jpg?x47707"
+        width: 2048
+        height: 1136
         isCached: true
-  - title: "Spot AI Gives Away Free, AI-Powered, NDAA-Compliant Cameras"
-    excerpt: "Video intelligence innovator Spot AI announced it will give free AI-powered, NDAA-compliant cameras to any U.S. business. Due to security concerns, Section 889 of the NDAA for FY 2019 bans the U.S. government's use of covered telecommunications equipment or services made by specified Chinese manufacturers."
-    publishedDateTime: 2021-12-09T14:43:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-spot-ai-gives-away-free-ai-powered-ndaa-/2021/12/09/9508560.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "hve+60IAt7CJegPcD1Z0ir9UfYPTMGu0FprL5tj8S9DC9QpT/H10p5yIKh0gKRaRT47qgjc6ZFLri2sMDWSaNrgmVZT/S17D6FRetKmnaHVkfcEf51NE0gcoC0yFxMCNTlgabbOfzp6HJfiOkuVX0mfRyiDu1Cqq35EU4yUWolVHBJiGx7ffWMfa2sw2O72/zD+CFhnvPhQ9HiTMpqXWkmF1KVRYlH4MS4qxx1TsXnM0PooN6TdNF/L66pgjASe5G6TClmpFYdIG90QOKJA1/AW15spGsCu5HNI2PimnXeDQRIm2dD4nXj1VLlsjeiCu9JXsu5DpWHqN0Dd9DL9kVwD2w07TZE1cDzXLDTc6LBo=;eEk9d+ee01ni5yoL6Oq0/g=="
 ---

@@ -2,6 +2,58 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2021-10-11-fintech-and-compliance-its-not-one-size-fits-all.md",
+      "title": "Fintech And Compliance: It’s Not One Size Fits All",
+      "excerpt": "Fintech companies are the future of business. But with new rules and regulations being created to keep watch over them, compliance must be viewed as a top priority at fintech companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/",
+      "originalUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61605e0d20fbebdd18e54839%2F0x0.jpg",
+          "width": 1200,
+          "height": 704,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliemyerswood/2021/10/11/fintech-and-compliance-its-not-one-size-fits-all/amp/",
+      "publishedDateTime": "2021-10-11T07:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-how-artificial-intelligence-and-machine-learning-is-altering-the-marketing-landscape.md",
       "title": "How Artificial Intelligence and Machine Learning is altering the marketing landscape?",
       "excerpt": "In this technological era, new technologies are being introduced in the market now and then. Businesses are no more using the traditional marketing methods to generate ROI (Return on Investment). Busi",
@@ -1108,49 +1160,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-top-canadian-researcher-says-ai-robots-deserve-human-rights.md",
-      "title": "Top Canadian researcher says AI robots deserve human rights",
-      "excerpt": "Should artificially intelligent robots have the same rights as people? Yes, says one of Canada’s top artificial intelligence (AI) entrepreneurs. Suzanne Gildert is co-founder and chief scientific officer of Kindred AI, a Vancouver startup whose backers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/top-canadian-researcher-says-ai-robots-deserve-human-rights/95730",
-      "originalUrl": "https://www.itbusiness.ca/news/top-canadian-researcher-says-ai-robots-deserve-human-rights/95730",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2017/09/ai-human-hands-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/top-canadian-researcher-says-ai-robots-deserve-human-rights/95730?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/top-canadian-researcher-says-ai-robots-deserve-human-rights/95730?amp=1",
-      "publishedDateTime": "2021-10-10T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

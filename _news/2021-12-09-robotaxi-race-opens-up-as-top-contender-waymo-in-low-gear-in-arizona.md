@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Robotaxi race opens up as top contender Waymo in low gear in Arizona"
-excerpt: "Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field. In the first and ..."
-publishedDateTime: 2021-12-08T19:58:00Z
-originalUrl: "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/"
-webUrl: "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/"
+excerpt: "CHANDLER, Arizona: Alphabet's Waymo risks losing its lead in the ... dollars in financing needed to automate driving through artificial intelligence software and expensive sensors."
+publishedDateTime: 2021-12-08T19:49:00Z
+originalUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
+webUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.reuters.com/resizer/rHX0XRhoxv2jlP3Cl9R9TkKoGhk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VXENWUVLHRBQ5MHF5O3ZDWQ.jpg"
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL"
     width: 1200
-    height: 628
+    height: 676
     isCached: true
 
 related:
@@ -94,6 +90,6 @@ related:
       domain: euronews.com
     quality: 19
 
-secured: "SZ9z8/y7bZo/+Dk3IAbhM0NmnggsFt7g/QCYyRF0mdNqOnTGlFG50u6rQLqygUVXr82smYVVt/bj1PD5qUIuOVJz3JZYfEhq4wqbenUuIsJTZPH3XDfffmd28PsFJ3obOtvWu4aKOOdKjZdivThH22kDJymPJtDjg2lnL4GIqe5LajqGrnIRxS6hqZBuTcZgwUqOfwU5nLqLblPfQbXr2OMU3X2QDnH4QyKeqnxW7/h+Uw5GmjMzKpLS7/5+P+iv/CO9YP/qw6fqCB9G0Vo3F5Ah/lRMk8eNMycFj14tKKNtIsN0yyO/TNqGeJCr5wr/4bfjdH7kSF3Y0TWk6a2/z5kXHqCeOybl/xoCkK9oq2U=;aTcA72ju87Iu5Iou3k0Z2w=="
+secured: "TNj5SmtbyoJM6cZhFwVwVhGU1G348h75oZOX/iUX0OcanW8RSPZ/YX7+570xzxZYpPfziIKJzP0P+KG48ZJV5RXnwKhh5V7ZWmpdGrq0ywdoP2s8/onDwK+LZgixGwKoZ8rOogUSJ4YFeT7l31mkn3LAC6/OLAEFDOS9l++/TN0MQbw31wyFTkQyoKpnc4Z05xIs4/4ExhhqooMvFlvx8mQbYpHqnyeVnvBmK3kdmt20+GYvRhhfQI1DhQJ1IQLez3tRsq9GnYpudpxS3OEbo4ruZePW6lZaC/1mHsIhlgDXaC33XoVvc0jXhasb1XftLVHR2HlNkdO3lfIt1aVqt9JdkBUip+TktgfLoviduh8=;8SjOcmrhK2JMJvcRSkcEfA=="
 ---
 

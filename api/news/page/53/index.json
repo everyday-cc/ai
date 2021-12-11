@@ -2,6 +2,49 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-10-30-boston-dynamics-boasts-spot-robots-dance-moves.md",
+      "title": "Boston Dynamics boasts Spot Robot’s dance moves",
+      "excerpt": "Boston Dynamics is one of the leading engineering companies in the world that specialises in building robots and human simulation software. Spot Robot is one of its best or rather most popular agile mobile robots,",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/boston-dynamics-boasts-spot-robots-dance-moves/",
+      "originalUrl": "https://techstory.in/boston-dynamics-boasts-spot-robots-dance-moves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/10/maxresdefault.jpeg",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-30T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-30-att-and-h2o-collab-on-feature-store-for-ai-developers.md",
       "title": "AT&T and H2O collab on feature store for AI developers",
       "excerpt": "Telecom giant AT&T and AI cloud firm H2O have jointly launched an AI feature store to help organizations accelerate AI development.",
@@ -1123,49 +1166,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-a-book-on-trading-money-machine-makes-it-to-the-market-shelves.md",
-      "title": "A book on trading \"Money Machine\" makes it to the market shelves",
-      "excerpt": "The entrepreneur, affiliate marketer, investor, blogger, and author Manish Yadav has recently launched the book Money Machine on 8th August 2021 in Mumbai. Th",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaysiasun.com/news/271607902/a-book-on-trading-money-machine-makes-it-to-the-market-shelves",
-      "originalUrl": "https://www.malaysiasun.com/news/271607902/a-book-on-trading-money-machine-makes-it-to-the-market-shelves",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/ani1635524890.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-29T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Malaysia Sun",
-        "domain": "malaysiasun.com",
         "images": null,
         "publishers": null,
         "authors": null

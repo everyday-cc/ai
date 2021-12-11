@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-11-27-itll-be-a-while-fully-automated-driverless-cars-are-further-away-than-you-think.md",
+      "title": "It'll Be A While: Fully Automated, Driverless Cars Are Further Away Than You Think",
+      "excerpt": "Thus was born Google's Chauffeur project, now Waymo. \"Imagine ... all of the hurdles still to be overcome are related to artificial intelligence-related driving. There's cyber-security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/",
+      "originalUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.motortrend.com/uploads/sites/11/2019/01/Autonomous-State-10.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/amp/",
+      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/driverless-autonomous-cars-timeline/amp/",
+      "publishedDateTime": "2021-11-27T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Motor Trend",
+        "domain": "motortrend.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-27-analysis-of-mental-and-physical-disorders-associated-with-covid-19-in-online-health-forums-a-natural-language-processing-study.md",
       "title": "Analysis of mental and physical disorders associated with COVID-19 in online health forums: a natural language processing study.",
       "excerpt": "Online health forums provide rich and untapped real-time data on population health. Through novel data extraction and natural language processing (NLP) techniques, we characterise the evolution of mental and physical health concerns relating to the COVID-19 pandemic among online health forum users.",
@@ -1090,50 +1133,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-these-machine-learning-algorithms-can-add-great-value-to-a-business-in-cutting-down-costs.md",
-      "title": "These machine learning algorithms can add great value to a business in cutting down costs",
-      "excerpt": "Machine learning algorithms can help computers play chess, get smart, personal, and perform surgeries. Machine learning is one of the vital technologies that has been used in the current world. Let’s see what ML algorithms for business can favour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-10-machine-learning-algorithms-to-benefit-business-operations/",
-      "originalUrl": "https://www.analyticsinsight.net/top-10-machine-learning-algorithms-to-benefit-business-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Top-10-Machine-Learning-Algorithms-to-Benefit-Business-Operations.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

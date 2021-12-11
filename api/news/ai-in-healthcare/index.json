@@ -132,21 +132,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-09-bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen.md",
-      "title": "Bullish on industrial, consumer, healthcare and fintech in India: John Praveen",
-      "excerpt": "Agencies  We probably won't see the kind of strong earnings we saw in 2021 either in the US or India and might see earnings more in the 15-20% range rather than in the 20-30% range, says John Praveen,",
+      "path": "_news/2021-12-09-the-opportunity-for-ai-in-healthcare.md",
+      "title": "The opportunity for AI in Healthcare",
+      "excerpt": "Artificial Intelligence (AI), has played a robust and growing role in the world. What many people don’t realize is that AI presents itself in several different forms that impact everyday life.",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/articleshow/88186185.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/articleshow/88186185.cms",
+      "webUrl": "https://www.linkedin.com/pulse/opportunity-ai-healthcare-evan-kirstel-b2b-techfluencer",
+      "originalUrl": "https://www.linkedin.com/pulse/opportunity-ai-healthcare-evan-kirstel-b2b-techfluencer",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-18354,msid-88186369/john-praveen.jpg",
-          "width": 600,
-          "height": 450,
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHDKOYsCMB7gg/article-cover_image-shrink_720_1280/0/1638980123840?e=1644451200&v=beta&t=s9NKpDgy5Ym2j712LfpDyOdkavQOuNExrXAO_e176EI",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -154,14 +154,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/amp_articleshow/88186185.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/amp_articleshow/88186185.cms",
-      "publishedDateTime": "2021-12-09T02:40:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T08:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -170,9 +179,8 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {

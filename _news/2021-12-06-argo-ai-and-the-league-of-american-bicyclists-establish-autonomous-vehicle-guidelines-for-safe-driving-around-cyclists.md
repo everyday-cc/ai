@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/argo-ai-and-the-le
 webUrl: "https://markets.businessinsider.com/news/stocks/argo-ai-and-the-league-of-american-bicyclists-establish-autonomous-vehicle-guidelines-for-safe-driving-around-cyclists-1031025988"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -29,38 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Argo AI Focuses On Cyclist Identification For Automated Vehicles"
-    excerpt: "Argo AI, the automated driving developer majority owned by Ford and Volkswagen has teamed up with the League of American Bicyclists to try to make roads safer for those on two wheels."
-    publishedDateTime: 2021-12-06T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/samabuelsamid/2021/12/06/argo-ai-focuses-on-cyclist-identification-for-automated-vehicles/"
-    ampWebUrl: "https://www.forbes.com/sites/samabuelsamid/2021/12/06/argo-ai-focuses-on-cyclist-identification-for-automated-vehicles/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/12/06/argo-ai-focuses-on-cyclist-identification-for-automated-vehicles/amp/"
+  - title: "AI could stop crashes between self-driving cars, cyclists"
+    excerpt: "(Rawpixel pic) PARIS: Argo AI, a start-up specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially ... in turn prepare the actions of the self-driving vehicle as effectively as ..."
+    publishedDateTime: 2021-12-09T02:38:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2021/12/09/ai-could-stop-crashes-between-self-driving-cars-cyclists/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ae004e141815981bb90539%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Argo releases standard for how self-driving cars should act around cyclists"
-    excerpt: "Argo AI, an autonomous driving technology company, teamed up with advocacy group the League of American Cyclists (LAB) to come up with guidelines for how self-driving vehicles should identify and interact with cyclists."
-    publishedDateTime: 2021-12-06T13:00:00Z
-    webUrl: "https://techcrunch.com/2021/12/06/argo-releases-standard-for-how-self-driving-cars-should-act-around-cyclists/"
-    ampWebUrl: "https://techcrunch.com/2021/12/06/argo-releases-standard-for-how-self-driving-cars-should-act-around-cyclists/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/06/argo-releases-standard-for-how-self-driving-cars-should-act-around-cyclists/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 72
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/12/Argo-Bike-Testing.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "gnb0lrK1X53e5PUtw4dcdGLFgROKJx5KPS1qwMYyZOu3Ns4+52qiUslcGxdI+cIq+eS+6WQsS2qYXs87A0Ou3iHw4BwfZLlmOKq0Q512XFqDjGwE+GFTTgW/OEgSx3rIGbfuHAKkKRbPMxyiMS4gga5SOuP+eUZWPU1HbIR4dHgsF9BmmgkYJweE5wbwmo9ArA+gKT9M/pj1Nm0THfC+eninhB1Qgv4JgXHPpeEvMJnSfETge0QpqNrekeH8tqgT+kCMKLKlziMEsHumGynfpkYz1LWYNCMM6JYkayLCNcfCZogvO2yXiaLQrYesJGH8syTjqINTKS/TEGiuh9eo55pHsLrUMWVKEBphFE6t4lHGkgRbZQosYCWu09+JR/pHKA+0uldQw3EjnC2jBt6SoIz21XGay8de1wtvoRRVStyqzpNbzFacAA80EaG9bTnganNNKawPZZ9ENv2z+dZUhVx/2BsCxfedpEBJV7KpvvPoo+u3K3kKy5sU7WiHM1xcvHmKjijGwvTCmlAlBBXS2A==;K8RQrZujUZJSnbBe1YP9vQ=="
 ---

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -41,49 +41,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-robots-with-artificial-intelligence-to-reconstruct-pompeii-frescoes.md",
-      "title": "Robots with Artificial Intelligence to Reconstruct Pompeii Frescoes",
-      "excerpt": "A robot fitted with artificial intelligence will be used to restore frescoes damaged in Pompeii nearly 2,000 years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://greekreporter.com/2021/12/11/robots-with-artificial-intelligence-to-reconstruct-pompeii-frescoes/",
-      "originalUrl": "https://greekreporter.com/2021/12/11/robots-with-artificial-intelligence-to-reconstruct-pompeii-frescoes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://greekreporter.com/wp-content/uploads/2020/11/Pompeii_Wikimedia.jpg",
-          "width": 1011,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Greek Reporter",
-        "domain": "greekreporter.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -694,6 +651,58 @@
         "name": "techxplore.com",
         "domain": "techxplore.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-artificial-intelligence-ai-chipsets-market-futuristic-trends-growth-analysis-industry-survey-by-2026.md",
+      "title": "Artificial Intelligence (AI) Chipsets Market Futuristic Trends, Growth Analysis, Industry Survey by 2026",
+      "excerpt": "Market Study Report has added a research study on ‘ Artificial Intelligence (AI) Chipsets market’ which offers",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-futuristic-trends-growth-analysis-industry-survey-by-2026-2021-12-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-futuristic-trends-growth-analysis-industry-survey-by-2026-2021-12-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

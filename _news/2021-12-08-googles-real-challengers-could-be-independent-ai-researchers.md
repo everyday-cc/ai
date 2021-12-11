@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/googles-real-challengers-could-be-i
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/googles-real-challengers-could-be-independent-ai-researchers/amp-11638896252429.html"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "For truly ethical AI, its research must be independent from big tech"
-    excerpt: "We must curb the power of Silicon Valley and protect those who speak up about the harms of AI"
-    publishedDateTime: 2021-12-06T12:33:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru"
+  - title: "Can a Tiny AI Group Stand Up to Google?"
+    excerpt: "Many say we need independent research into AI, and good news on that came Thursday from Timnit Gebru, a former ethical AI researcher at Alphabet Inc.’s Google. She had been fired exactly a year ago following a dispute over a paper critical of large AI models,"
+    publishedDateTime: 2021-12-06T17:20:00Z
+    webUrl: "https://www.bloombergquint.com/gadfly/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 76
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 39
     images:
-      - url: "https://i.guim.co.uk/img/media/507cadd8062f426e1ca22df47fde57b3f8b0441f/0_0_4017_2410/master/4017.jpg?width=620&quality=85&auto=format&fit=max&s=187facc6d0d3cbbb25719b24e035a55c"
-        width: 620
-        height: 372
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "gALND7GmcGxogiW7m1U6rKxhjiP11643+0b8eZ1yMMhzR5FoXRL8ow7u3ykIt1yhBU8WO4TuPwIGKyyFVqXHNw1+0HLoeCi4ko6cCMa4IwD6xojbr2bCrVlpHP10mwxFYg6lPDiAVioKhbipnP8DBarkRtliO4OEnu7/1iVJSy8L96QXp2TQVgFwhNJxL9EaHsBsUmzYghVMpeKbMpB+APLqglG6IG7r+lXvLVUsuwjAe/USRVC3B3vLMVamNWMF1mPX8f8o1a8nKmRVia2DBFShMIA62dQKvnP76dCpPRnX1/mSlzHdSbuZAW2eZU1F8JNteXiHrHZvvTPkQOXBjtX3PJHp10PfJXVI0rXKP04QXak5nW/YNOUglha4b3LtALfqfwmB9lGJ7hNARpetVbKtAPwJ+aB+K61uURcRHaPZlUHXtWxdNOVlR1Tz1DUqDOfQX83aIwxK5kG1DbpxZCq+T8WmHby790uLHrxIOaHYME/vrmVOARbtJcr2fMwviMaurJDautHY9KrshZYOVQ==;D9PsOoXkSM6B/lHyLDvLJA=="

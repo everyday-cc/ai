@@ -26,17 +26,6 @@ images:
     height: 1066
     isCached: true
 
-related:
-  - title: "AI could stop crashes between self-driving cars, cyclists"
-    excerpt: "(Rawpixel pic) PARIS: Argo AI, a start-up specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially ... in turn prepare the actions of the self-driving vehicle as effectively as ..."
-    publishedDateTime: 2021-12-09T02:38:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/automotive/2021/12/09/ai-could-stop-crashes-between-self-driving-cars-cyclists/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
-
 secured: "uGGpnrrTGSv3BkO/azkIBCuT4nFlp41GtoS0aSJxSGzvy5EIWvVv+TiCN37SzjMZiCcDqq0jLEJJyy8YHnhcQhXndbIhC9evdE302jrEEJcToYBgxo/AF7EFF77JS7sirmTk3bz+nOJr12pAnpjziciWD8EWgKF3+uF/aRim2IOjciwa4EaxD6pxqU7LktF0k8qfeUP6hoc6DxJFy1+0khWHW0NldASexV7syKofVLw4iIY1isyN39ivew7ye7tS2jIgXpAPyDEtZU+I1g6nZDJD1C4/Eg8Hr8ETaH8WyB4Uds4wiPF3O94FG55j1wilrAyE/oIY8gZAUDw3Lul+AXxCthZ2IsYXGVtCoLmrbQaSj4xZ/gdcxW8osSjv4CthSiuxIw1APdhuCk02oOyAxAJ41l3VAXUvdeFK1Q17d6oMnqQdFT5L1LfhzVYemmZdRFi8pg1DHcfKBmVcVgGHoSCFEo8ZCARdtpnrdUajr9USXmQndYmipEcz6tp0ZqkUmH3p4hVl0IZzJ5kBtI8kxw==;MQ3V+i9iGwqxVrmCE9EDOA=="
 ---
 

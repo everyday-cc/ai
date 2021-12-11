@@ -14,6 +14,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.cioreview.com/news_new/sliderimage/ryv82.350.jpg"

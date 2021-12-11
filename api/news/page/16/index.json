@@ -2,6 +2,48 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-11-29-new-chest-imaging-database-assists-ai-in-the-covid-19-fight.md",
+      "title": "New Chest Imaging Database Assists AI in the COVID-19 Fight",
+      "excerpt": "Data journal GigaScience is the National COVID-19 Chest Imaging Database (NCCID), a centralized database containing chest X-rays, Computed Tomography (CT) and MRI scans from patients across the UK. Ut",
+      "sourceUrl": null,
+      "webUrl": "https://scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/",
+      "originalUrl": "https://scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Chest-Xray-Image-777x583.jpg",
+          "width": 777,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-chest-imaging-database-assists-ai-in-the-covid-19-fight/amp/",
+      "publishedDateTime": "2021-11-29T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-massrobotics-announces-aws-robotics-startup-accelerator.md",
       "title": "MassRobotics Announces AWS Robotics Startup Accelerator",
       "excerpt": "AWS Robotics Accelerator to scale robotics startups focused on automation and IIOT BOSTON, MA / ACCESSWIRE / November 29, 2021 / MassRobotics has announced a new Amazon Web Services, Inc. (AWS) Robotics Startup Accelerator to address the biggest challenges in the automation,",
@@ -1164,49 +1206,6 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-itll-be-a-while-fully-automated-driverless-cars-are-further-away-than-you-think.md",
-      "title": "It'll Be A While: Fully Automated, Driverless Cars Are Further Away Than You Think",
-      "excerpt": "Thus was born Google's Chauffeur project, now Waymo. \"Imagine ... all of the hurdles still to be overcome are related to artificial intelligence-related driving. There's cyber-security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/",
-      "originalUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motortrend.com/uploads/sites/11/2019/01/Autonomous-State-10.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/driverless-autonomous-cars-timeline/amp/",
-      "publishedDateTime": "2021-11-27T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
         "images": null,
         "publishers": null,
         "authors": null

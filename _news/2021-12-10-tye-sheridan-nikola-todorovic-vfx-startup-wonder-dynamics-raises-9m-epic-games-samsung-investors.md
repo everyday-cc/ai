@@ -29,14 +29,14 @@ related:
   - title: "CORRECTING and REPLACING Tye Sheridan’s Startup Wonder Dynamics Raises $9M Series A Round"
     excerpt: "Tye Sheridan’s Startup Wonder Dynamics Raises $9M Series A round (instead of Wonder Dynamics, Startup Building AI Tools for Film and Metaverse Founded by Ready Player One Star Tye Sheridan, Raises $9M Series A Round Led by Horizons Ventures and Epic Games,"
     publishedDateTime: 2021-12-11T00:59:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/technology/correcting-and-replacing-tye-sheridan-s-startup-wonder-dynamics-raises-9m-series-a-round/article_f4f3f4b5-4f38-5dcd-89d2-b08509f3e5e3.html"
+    webUrl: "https://fredericksburg.com/lifestyles/technology/correcting-and-replacing-tye-sheridan-s-startup-wonder-dynamics-raises-9m-series-a-round/article_effae0c1-48e0-5978-bd9d-70a0ca59e3f7.html"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: Fredericksburg.com
+      domain: fredericksburg.com
     quality: 28
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/7e/07ea359b-4763-534c-a762-25acd215b330/61b40d3f229d8.image.jpg?crop=1200%2C630%2C0%2C85&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/0/18/018b3c41-1c8a-5e57-9f3e-2ad812d341e1/61b40d6797903.image.jpg?crop=1200%2C630%2C0%2C85&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
         isCached: true

@@ -39,20 +39,6 @@ related:
         width: 2120
         height: 1415
         isCached: true
-  - title: "Could we fall in love with robots?"
-    excerpt: "Signs are that we are capable of forming intimate relationships with many things, especially those that are programmed especially for us."
-    publishedDateTime: 2021-12-06T12:31:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2021/12/could-we-fall-in-love-with-robots/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/17280/falling-for-robots-dreamstime.jpg?crop=0,0.15752351097178685,0,0.35021551724137928&cropmode=percentage&width=1200&height=450&rnd=132830008860000000"
-        width: 1200
-        height: 450
-        isCached: true
   - title: "Back to the future: self-driving boats to ease Amsterdam congestion"
     excerpt: "From houseboats to floating farms, when space gets tight, the Dutch turn to their ample waterways. The latest example: the Roboat—or robotic boat—an autonomous, electric vessel that works as a water taxi, waste collection system, bridge, and even a ..."
     publishedDateTime: 2021-12-06T13:19:00Z

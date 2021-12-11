@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Gaming while driving: Tesla allows it, Mercedes does recall"
-excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving"
-publishedDateTime: 2021-12-10T18:16:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/gaming-driving-tesla-mercedes-recall-81677819"
-webUrl: "https://abcnews.go.com/Business/wireStory/gaming-driving-tesla-mercedes-recall-81677819"
+excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
+publishedDateTime: 2021-12-11T04:04:00Z
+originalUrl: "https://www.kansas.com/news/business/article256490316.html"
+webUrl: "https://www.kansas.com/news/business/article256490316.html"
+ampWebUrl: "https://amp.kansas.com/news/business/article256490316.html"
+cdnAmpWebUrl: "https://amp-kansas-com.cdn.ampproject.org/c/s/amp.kansas.com/news/business/article256490316.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Wichita Eagle
+  domain: kansas.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_f6c58126f5c1429992e3d6153cc7aae5_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Mercedes Beats Tesla to Hands-Free Driving"
@@ -56,22 +52,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-12/211210-tesla-al-1229-019969.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Tesla Faked Original Full Self-Driving Video, Former Employees Allege"
-    excerpt: "Tesla faked the original 2016 video showing a Model S driving itself without any human intervention, according to former employees interviewed by the New York Times. The allegations were made in a broader story exposing internal divisions at Tesla over its approach to safety in developing and marketing its Autopilot and Full Self-Driving hardware and software."
-    publishedDateTime: 2021-12-06T12:40:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/"
-    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-video-allegedly-faked/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://www.motortrend.com/uploads/sites/5/2019/06/Tesla-Model-3-Autopilot-10.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Mercedes-Benz Has Beaten Tesla To Getting Hands-Free Driving Approval In Germany"
     excerpt: "Advertisement The German government has given Mercedes permission to put its Level 3 autonomous driving technology on the road, Bloomberg reported. The system will be available to the general public on the new Mercedes S-Class and EQS saloons early next year,"
@@ -159,6 +139,6 @@ related:
       domain: fleetnews.co.uk
     quality: 24
 
-secured: "+LZ4eRT0n63Vt/GWf86R4y7J5iGDiS/w8qLgnoETbsRzPpZmtF8ID5WBXUTn2VHDD6ULQJnY/Nq+EF3txzLUc+AtfHrFxyIx6hQ2ETBRke0YEk8KeeZPm8ItRZsePWZYRk2c1Os5a3uvgz/6jM0ARdA0CtEnmWa+2cSu6iZolt+FdSVR2QsOU9NG7BU0wTE7Yv85SdXDn5rgf6nG4KNIDRrYichXKCrX+JLNbAgmmU0b9F+gY3xOY5GZGEP1OIt3PytpznJDzHfkoSqamSibY+Vt0AQVtbnT3RqbJT/yaS0fN0aS2w2zV2X4YIgZxawp782myOHFZuq4bZr7MwEiiwo1T+L2BEuBnQkxyGAeato=;AShOC7dlofWMGKofyxqUhQ=="
+secured: "etGLioCFoyJNgwAPz/ZYeQZl0ovFa+bnotoenkVjcoT3+3CavCnOP1BVDEL+5OXrpLFzYftmx/wlZbeCjXUjLlHkBz2DClwLiVx4l1iTTwn0rrPnaKvdy2ur/t7iW0PcKUn8YLVFwDb+Q9GV9UAK7N5u6baMRNHdN8oXNBdIpo/VcR5blncB/xDkduAbsj/rAWpKL6uA5CfYYKSxJM0syQH313ZYwVgx0MVlf1p6DqV7ockCsGQrq754jYQzQ4Z1IlBui7Pk4zj1tVMiRR/tYzK5Y004H4Y/0biPySdqavme5lP5aQbspsgulsZhWkhX/Fv5AzHy9TdZcL0bZDeeMCnJV1FowhlkRKXLVuMeL3vK+nvlvA3XCcNRhuNFa0sduum5+k5UIjmIfeDpWE0r6eUFb66DFRWseQgryuZgt83vNhlHQt0fk8C3mt6lHB/4uS57YBQinF6qFaZUjiGVFBoq7pIN9lEtkAmuZ3RJytWk+HyeIyq3REv7qzaBxFv+IYF8FYm4EYc+15AOyd3jHg==;JIe7AP3O+T0kyO0xHc3D1w=="
 ---
 

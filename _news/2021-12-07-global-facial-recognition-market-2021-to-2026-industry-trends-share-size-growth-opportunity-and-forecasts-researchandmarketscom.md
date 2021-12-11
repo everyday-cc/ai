@@ -19,67 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Smart Robot Market 2021-2028"
-    excerpt: "The global smart robot market size is expected to reach USD 31.11 billion by 2027, exhibiting a CAGR of 23.1% during the forecast period. Rapid industrialization coupled with intelligent infrastructure projects will contribute positively to the growth of the market,"
-    publishedDateTime: 2021-12-06T12:52:00Z
-    webUrl: "https://www.openpr.com/news/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow"
-    ampWebUrl: "https://www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow"
+  - title: "Artificial Intelligence (AI) Chipsets Market Futuristic Trends, Growth Analysis, Industry Survey by 2026"
+    excerpt: "Market Study Report has added a research study on ‘ Artificial Intelligence (AI) Chipsets market’ which offers"
+    publishedDateTime: 2021-12-07T19:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-futuristic-trends-growth-analysis-industry-survey-by-2026-2021-12-07"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
     images:
-      - url: "https://cdn.openpr.com/U/c/Uc06500488_g.jpg"
-        width: 800
-        height: 428
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) Robots Market Trajectory & Analytics, 2021-2026 – ResearchAndMarkets.com"
-    excerpt: "Global Market Trajectory & Analytics” report has been added to ResearchAndMarkets.com’s offering. Global Artificial Intelligence (AI) Robots Market to Reach $21.4 Billion by 2026 The global market for Artificial Intelligence (AI) Robots estimated at US$5."
-    publishedDateTime: 2021-12-06T11:21:00Z
-    webUrl: "https://www.financialbuzz.com/global-artificial-intelligence-ai-robots-market-trajectory-analytics-2021-2026-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 30
-  - title: "Artificial Intelligence in the Global Healthcare Market 2021-2025: A US$22.68 Billion Market by 2025"
-    excerpt: "The \"Artificial Intelligence in the Global Healthcare Market (2021-2025)\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-12-06T21:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-the-global-healthcare-market-2021-2025-a-us-22-68-billion-market/article_56a1cbf0-42f7-517f-b585-916871dfb454.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
-  - title: "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud Detection"
-    publishedDateTime: 2021-12-08T14:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/speech-to-text-api-market-worth-5-4-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--842034608.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
-        isCached: true
-  - title: "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarketstm"
-    excerpt: "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud Detection & Prevention, Content Transcription, Subtitle Generation), Deployment Mode,"
-    publishedDateTime: 2021-12-08T15:26:00Z
-    webUrl: "https://www.lelezard.com/en/news-20146808.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 12
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "I10VtntkrXKOnhEsWHCQJLSthPPUlQ96ETLnYk4pJAmqsq8GMOv67RTKJlT/C58/dyyvQ0uKzZuVhJ+Jq9bKQHLLTSkMoQvNoujNOTmHBitE5bhFdoSMGZBVb7aaYN7q/m4WG2fjTetRUz/oQ5/INsHhFSrxCmNMjU4HtWwKjo5L4ySjun4dMo9smzRyOzkIJDW5dZawWN/7U76o+duD6iNectjNZvowvQRkiBDyCpOnxAeyU+h+P/pm10nwAlgYkD+EOAcolSTDpEk517sTnLCtjROhZ3TTJSoBNtmr/RJ/fILwz8MMKLDXKG+Bexv9D6HyJD8da7ra6SlezWeb3CtBlEz6yspQeiToc6HfndY=;8CAwMB9FmlMVhuwXazciRA=="

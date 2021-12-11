@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-12-03-artificial-intelligence-ai-to-detect-signs-of-anxiety.md",
+      "title": "Artificial Intelligence (AI) to Detect Signs of Anxiety",
+      "excerpt": "Artificial intelligence (AI) has been used to detect behavioral signs of anxiety with more than 90% accuracy, reveled researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-can-detect-stroke-and-dementia-risk.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-to-detect-signs-of-anxiety-204566-1.htm",
+      "publishedDateTime": "2021-12-02T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing.md",
       "title": "Who Is Shruti Rijhwani? PhD Candidate Working On Natural Language Processing",
       "excerpt": "Shruti Rijhwani, Ph.D. from Carnegie Mellon University, USA has been named by Forbes as \"2022 Forbes 30 Under 30 in Science\" for her prolific work in the area for conservation of endangered language",
@@ -246,10 +289,10 @@
     {
       "path": "_news/2021-12-02-picsart-to-acquire-computer-vision-and-ai-company-deepcraft.md",
       "title": "Picsart to Acquire Computer Vision and AI Company DeepCraft",
-      "excerpt": "Picsart, the world’s leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an undisclosed sum.",
+      "excerpt": "Picsart, the world's leading digital creation platform and a top 20 most downloaded app worldwide, today announced that it is acquiring the research and development company DeepCraft for an undisclosed sum.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/picsart-to-acquire-computer-vision-and-ai-company-deepcraft/",
-      "originalUrl": "https://www.financialbuzz.com/picsart-to-acquire-computer-vision-and-ai-company-deepcraft/",
+      "webUrl": "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-picsart-acquire-computer-vision-ai-company-deepcraft-/2021/12/02/9503917.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -259,11 +302,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T07:28:00-08:00",
+      "publishedDateTime": "2021-12-02T07:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1107,58 +1150,6 @@
         "AWS AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters.md",
-      "title": "Radium looks to speed up AI and ML jobs in cloud datacenters",
-      "excerpt": "Radium, which uses AI and machine learning to accelerate cloud hardware, is deploying its solutions to cloud datacenters run by Cyxtera.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/",
-      "originalUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/02/data-center-cloud-wavebreakmedia-shutterstock.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/radium-looks-to-speed-up-ai-and-ml-jobs-in-cloud-datacenters/amp/",
-      "publishedDateTime": "2021-12-02T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

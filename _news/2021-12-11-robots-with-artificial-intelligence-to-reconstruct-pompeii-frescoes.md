@@ -7,8 +7,8 @@ originalUrl: "https://greekreporter.com/2021/12/11/robots-with-artificial-intell
 webUrl: "https://greekreporter.com/2021/12/11/robots-with-artificial-intelligence-to-reconstruct-pompeii-frescoes/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Greek Reporter
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pompeii’s Ruins to Be Reconstructed by Robot"
-    excerpt: "An ambitious project is under way to develop a robot with enough smarts, strength and sensitivity to restore fragmented archaeological remains"
-    publishedDateTime: 2021-12-06T11:50:00Z
-    webUrl: "https://www.scientificamerican.com/article/pompeiis-ruins-to-be-reconstructed-by-robot/"
-    ampWebUrl: "https://www.scientificamerican.com/article/pompeiis-ruins-to-be-reconstructed-by-robot/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/pompeiis-ruins-to-be-reconstructed-by-robot/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
   - title: "How Robots Could Help Restore Fragmented Frescoes in Pompeii"
     excerpt: "Using artificial intelligence, scientists have put together a computerized system that could rebuild the magnificent murals destroyed by Mount Vesuvius"
     publishedDateTime: 2021-12-08T18:36:00Z

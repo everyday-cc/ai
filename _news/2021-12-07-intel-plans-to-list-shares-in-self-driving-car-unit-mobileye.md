@@ -61,6 +61,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Intel plans to take self-driving car unit Mobileye public"
+    excerpt: "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters."
+    publishedDateTime: 2021-12-07T07:37:00Z
+    webUrl: "https://www.reuters.com/article/intel-mobileye-ipo-idCAKBN2IM010"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2IM010"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2IM010"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20211207&t=2&i=1583830999&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHB600M"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Intel plans to take self-driving car unit public in the U.S. in mid-2022"
     excerpt: "Intel has announced that it plans to list Mobileye, the Israeli autonomous driving firm it acquired for $15.3 billion in 2017."
     publishedDateTime: 2021-12-07T14:01:00Z
@@ -76,20 +92,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1626819349"
         width: 3500
         height: 2334
-        isCached: true
-  - title: "Intel plans to take self-driving car unit Mobileye public"
-    excerpt: "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters."
-    publishedDateTime: 2021-12-07T02:46:00Z
-    webUrl: "https://www.reuters.com/markets/us/intel-list-shares-self-driving-car-unit-mobileye-wsj-2021-12-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://www.reuters.com/resizer/HxLWCUwhHMM4SwuGFJT2uw2TtvQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JJJS5JKBAFOZFNPFKBVNCGTJ5Y.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Intel to launch IPO of its Mobileye self-driving-car unit in 2022"
     excerpt: "Intel said it would take the unit public in the U.S. in mid-2022 through an initial public offering of new Mobileye stock."

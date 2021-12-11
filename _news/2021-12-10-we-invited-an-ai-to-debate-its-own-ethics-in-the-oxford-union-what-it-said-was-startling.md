@@ -44,6 +44,22 @@ related:
         width: 320
         height: 280
         isCached: true
+  - title: "An AI Debates Its Own Ethics At Oxford Union - What It Said Was Startling"
+    excerpt: "Not a day passes without a fascinating snippet on the ethical challenges created by \"black box\" AI systems. These use machine learning to figure out patterns within data and make decisions often witho"
+    publishedDateTime: 2021-12-11T04:47:00Z
+    webUrl: "https://www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358"
+    ampWebUrl: "https://www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/science/an-ai-debates-its-own-ethics-at-oxford-union-what-it-said-was-startling-2646358/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 73
+    images:
+      - url: "https://c.ndtvimg.com/2021-12/g3gv78ps_artificial-intelligence-generic-pixabay_625x300_11_December_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "kDqCv6PFlUZbcGYQbRMrMVnQn9SHAYNqJzox7comXxZIq+FG5y2y7JGr0sqyuYHlG4kIkFHmBu95qhkV9WsoPE2ebEV+Oi6/1jlEyDcNs0mW879yVlUQ6IN1MJhsYOtTs+zgi/qkBhcIAqvd42k7XZeUz+hBAyuqviJEyjK+Cahy5hd83Vbf03NG9aLnDuDTlR6SGT+Q0kmos5FA9pXqhXw7yZozerkVb+REKYCuFJJMBPUeWDLutVsJuefrYxctGnIE72prIM9enA7in9QPnUlo0hiPiie8pcMSPuR1n9oa6LwsxTWKxiesGRLXZ/P+xRFvuRY6RUWZYqQE0fj+qGvY6UZxsSp3Rwkg6cWy96PtcpFKAH+fT7rTB1++CAg+gyAVqOuADeMkgH5AtlOPwbrwnVFUoPnYK5hYFthayeCOgZv1swkQlSJRRezESeStCPKlOS0sNV4imVJIjNscv75UzVF2GFVJeyRhhwjLkPcinS8oSBbE3XuiNZWqpP6OoGhNRWAN+H9BLZoMrpz9rA==;HEZMsDIbKbYc06nSrxxNIw=="
 ---

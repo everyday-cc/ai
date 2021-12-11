@@ -39,17 +39,6 @@ related:
         width: 1011
         height: 431
         isCached: true
-  - title: "Pompeii’s Ruins to Be Reconstructed by Robot"
-    excerpt: "An ambitious project is under way to develop a robot with enough smarts, strength and sensitivity to restore fragmented archaeological remains"
-    publishedDateTime: 2021-12-06T11:50:00Z
-    webUrl: "https://www.scientificamerican.com/article/pompeiis-ruins-to-be-reconstructed-by-robot/"
-    ampWebUrl: "https://www.scientificamerican.com/article/pompeiis-ruins-to-be-reconstructed-by-robot/?amp=true"
-    cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/pompeiis-ruins-to-be-reconstructed-by-robot/?amp=true"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
 
 secured: "AT25kPmSfEZIc1DLiJGydcpnlX7pW66sOhNwt2Trc8NKcUVrEe0a14xt7ybXe8YjUPxLrEK4l16ZZlJ81c6q6kcq5h551ex6MVgH9khwUsXR8nLfMisRa0QNSPwyvrQ0FDWlbhoErFuDhSXmKZ5qkLixr+rSHMTFI1ht2JYHJugZDE+4qtNQomhv717QlKLqyxfuAAiEBeCTqkKwOboSNixYWFObPO+bxRGJMzr+34bsJhiuXErDlUqtDWFnB15e3UXYLSaocjQCHO+iYl5KDROqgWnIW1GhvISBMddHl7loN/rXPMPUZuj1mhxG8KizWi3bI8e7ODiLcffDLD7uySfiomo69xT1Syl1cRsUb5yVLT2ZOwXU1Uc9++rlhb/tkai0dCGMmPGa/4ebQRX6crRFxzBS6wqp/sVOGO3U4mpIdyrTNPPMDRBoinDKD2fm0xraAnVJb6IrHtvmkJn3atWr2YDCbaGlQTCxIP9xFNujMckILfphbwgVPIrUA53GyhZkM98ALLfsRpys/NuA4A==;+bAFa/8UJLYFxLptx/iJvg=="
 ---

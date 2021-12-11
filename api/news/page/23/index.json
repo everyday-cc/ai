@@ -2,6 +2,40 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-11-22-approyo-inc-migrates-cc-polymers-sap-environment-to-microsoft-azure-cloud.md",
+      "title": "Approyo, Inc. Migrates CC Polymers' SAP Environment to Microsoft AZURE Cloud",
+      "excerpt": "Approyo, Inc., a leader in global SAP & IT Managed Services and Solutions; today announced that Corpus Christi Polymers (CC Polymers) had selected Approyo as its SAP managed solutions and security provider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/11/22/9497402.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/11/22/9497402.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T02:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-amazon-web-services.md",
       "title": "Adidas Migrates SAP Environments To Amazon Web Services",
       "excerpt": "Amazon Web Services, an Amazon.com, Inc. company, (AMZN) on Monday announced that global sports brand adidas AG has selected AWS as its preferred cloud provider for SAP workloads. Running business-critical SAP workloads in the cloud would enable adidas to digitize core business processes across its value chain to provide better consumer experiences,",
@@ -1083,48 +1117,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-ai-played-big-role-in-approach-to-pandemic-says-uae-minister.md",
-      "title": "AI Played 'Big Role' in Approach to Pandemic, Says UAE Minister",
-      "excerpt": "Omar Al Olama, the UAE's AI Minister, explains how COVID-19 has been an accelerator for AI applications; why the US and China would benefit from a 'constant dialogue' on AI; and why 'the new roads that we need to be building right now are roads in the digital realm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister",
-      "originalUrl": "https://www.realclearpolitics.com/2021/11/20/ai_played_big_role_in_approach_to_pandemic_says_uae_minister_557114.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2021-11/omar.jpeg?h=a5ae579a&itok=OqPGVht5",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister?amp",
-      "cdnAmpWebUrl": "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/originals/2021/11/ai-played-big-role-approach-pandemic-says-uae-artificial-intelligence-minister?amp",
-      "publishedDateTime": "2021-11-20T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
