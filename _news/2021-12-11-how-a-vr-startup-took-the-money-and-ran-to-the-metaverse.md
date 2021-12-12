@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/metaworld-nft-metaverse-dedric-reid-clubh
 webUrl: "https://www.engadget.com/metaworld-nft-metaverse-dedric-reid-clubhouse-discord-170052007.html"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "100 Versions Of Robot Sophia Ready For Metaverse"
-    excerpt: "The latest iteration of Sophia allows 100 versions of her in NFT format to be available in the metaverse Sophia, the humanoid robot built by Hanson Robotics, will now have her virtual anime version in 100 non-fungible tokens (NFT) and be seen in the metaverse."
-    publishedDateTime: 2021-12-07T12:59:00Z
-    webUrl: "https://analyticsindiamag.com/100-versions-of-robot-sophia-ready-for-metaverse/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/FF8OoaUUcAck9S6.jpg"
-        width: 1628
-        height: 954
-        isCached: true
   - title: "Tech Insider: Baidu Enters the Metaverse, a Self-Driving System for as Little as $10,000"
     excerpt: "Welcome to Caixin’s Tech Insider, your twice-weekly wrap on the movers, shakers and deal-makers in China’s tech scene. Baidu teases metaverse app Search giant Baidu Inc. has teased the launch of a metaverse app on Dec."
     publishedDateTime: 2021-12-10T12:13:00Z

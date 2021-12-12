@@ -42,7 +42,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 71
   - title: "4 main Fintech stocks to watch in December 2021"
     excerpt: "fintech stocks on the stock market today. First, we have the cloud-based artificial intelligence (AI) loan platform, Reached. For those who don't know, the company's platform aggregates consumer ..."
     publishedDateTime: 2021-12-09T03:47:00Z

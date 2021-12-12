@@ -157,20 +157,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Saving Lives With Artificial Intelligence"
-    excerpt: "A new technology developed at Tel Aviv University will make it possible, using artificial intelligence, to identify patients who are at risk of serious"
-    publishedDateTime: 2021-12-07T11:59:00Z
-    webUrl: "https://hamodia.com/2021/12/07/saving-lives-with-artificial-intelligence/"
-    type: article
-    provider:
-      name: Hamodia
-      domain: hamodia.com
-    quality: 37
-    images:
-      - url: "https://images.hamodia.com/hamod-uploads/2021/12/07050423/7f5fe743e5056f0e35e13f7dc7924882.jpg"
-        width: 580
-        height: 330
-        isCached: true
 
 secured: "Pwy85BWzhSj4N+VIIfzB76VtJAfn97DuoSJsyi+t54V8nHTK3ALrmHEa3ZORLSrHc/8QnagIA/1djx31x/vLFJ36h8+02Uv/z1hjp8SC33DFoHKV6MA6l+O2kMfmryeHe1IP4vWD2bu3HDUmc26Ioa1Oy27+LOary9U9rX8nx0O4M7yx/hOIPnhuxs2RQQNDdVgrDHnzW+tIX1o9RpSxmvdDU/266bmri2uv5MtJWUw8PQHh/5G0SvnaiIZJQvLVMKzPa0X6TFc7zmxTY7oyOAAWV6bBxaOcxCQwea8+DM01FwyRu5aTpiClw1luCzmxPOraKNPSdsoGk5kQelr3KMm27eUYy4MWrvrGjX4cHm8=;b8apYADxZd4cbw4H/7/AeA=="
 ---

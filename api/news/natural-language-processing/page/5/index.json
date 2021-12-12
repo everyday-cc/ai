@@ -2,50 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-10-20-the-google-pixel-6-brings-a-new-chip-and-lofty-ai-powered-promises.md",
-      "title": "The Google Pixel 6 brings a new chip and lofty, AI-powered promises",
-      "excerpt": "The new Google Pixel 6 and Pixel 6 Pro smartphones rely on a custom-built chip to add clever and useful AI-driven features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/",
-      "originalUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2021/10/19/9-design-pro-details.jpg?auto=webp",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/reviews/google-pixel-6-pro-smartphone-specs/?amp",
-      "publishedDateTime": "2021-10-19T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-10-20-live-translate-comes-to-a-wealth-of-apps-gboard-for-pixel-6-series.md",
       "title": "Live Translate Comes To A Wealth Of Apps & Gboard For Pixel 6 Series",
       "excerpt": "With today's announcement of the Google Pixel 6 and Pixel 6 Pro, Google is also introducing a wealth of new features including Live Translate in-app with",
@@ -1335,6 +1291,40 @@
       "provider": {
         "name": "Design-Reuse",
         "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-09-early-evoked-brain-activity-underlies-auditory-and-audiovisual-speech-recognition-deficits-in-schizophrenia.md",
+      "title": "Early evoked brain activity underlies auditory and audiovisual speech recognition deficits in schizophrenia",
+      "excerpt": "Objectives People with Schizophrenia (SZ) show deficits in auditory and audiovisual speech recognition. It is possible that these deficits are related to aberrant early sensory pr",
+      "sourceUrl": null,
+      "webUrl": "https://europepmc.org/article/PPR/PPR405579",
+      "originalUrl": "https://europepmc.org/article/PPR/PPR405579",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-09T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Europe PMC",
+        "domain": "europepmc.org",
         "images": null,
         "publishers": null,
         "authors": null

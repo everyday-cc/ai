@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition isn’t working for some Windows 11 users"
-    excerpt: "Some Windows 11 users are claiming that the facial recognition software won't work, but the OS isn't to blame, but the hardware itself."
-    publishedDateTime: 2021-12-07T12:42:00Z
-    webUrl: "https://windowsreport.com/facial-recognition-not-working-windows-11/"
-    ampWebUrl: "https://windowsreport.com/facial-recognition-not-working-windows-11/?amp"
-    cdnAmpWebUrl: "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/facial-recognition-not-working-windows-11/?amp"
-    type: article
-    provider:
-      name: Windows
-      domain: windowsreport.com
-    quality: 59
-    images:
-      - url: "https://cdn.windowsreport.com/wp-content/uploads/2021/12/facial-recognition-windows-11.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "NEC: Facial recognition can check for vaccination"
     excerpt: "The CEO of Japanese electronics maker NEC says its facial-recognition technology could help fight the spread of coronavirus infections by being used to verify people's vaccination status."
     publishedDateTime: 2021-12-08T03:53:00Z
@@ -58,6 +42,34 @@ related:
       - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20211208_18_1055617_L.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "SiLC single-chip LiDAR system could ease 3D facial recognition integration"
+    excerpt: "SiLC Technologies has launched a new vision sensor system that integrates LiDAR capabilities onto a single chip. The ability to integrate three-dimensional photonics on a lower-cost chip could ultimately help proliferate the use of computer vision systems that more accurately detect and measure faces and other biometric markers for identification and other purposes."
+    publishedDateTime: 2021-12-07T21:52:00Z
+    webUrl: "https://www.biometricupdate.com/202112/silc-single-chip-lidar-system-could-ease-3d-facial-recognition-integration"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
+  - title: "ACLU Calls for Halt of Homeland Security’s Use Of Facial Recognition Technology"
+    excerpt: "The civil rights organization said that the biometrics technology can lead to discriminatory arrests based on race."
+    publishedDateTime: 2021-12-08T16:33:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/aclu-calls-halt-homeland-securitys-use-facial-recognition-technology/187377/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 54
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/08/biometric_security_scan_picture_id1297832671/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Police are using hand-held facial recognition cameras on the streets for the first time"
     excerpt: "The technology, initially to be deployed by 70 frontline officers in South Wales and Gwent, uses an 'artificial intelligence' mobile phone app. (File image.)"
@@ -75,35 +87,33 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Why some CT renters want government recognition for their union"
-    excerpt: "They now want official government recognition of their group. About a dozen people protested last week at City Hall, with the primary goal of asking government officials for formal recognition of their union as well as the go-ahead for the union to file a complaint with the Fair Rent Commission."
-    publishedDateTime: 2021-12-08T12:32:00Z
-    webUrl: "https://www.nhregister.com/business/article/Why-some-CT-renters-want-government-recognition-16684333.php"
-    ampWebUrl: "https://www.nhregister.com/business/amp/Why-some-CT-renters-want-government-recognition-16684333.php"
-    cdnAmpWebUrl: "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/business/amp/Why-some-CT-renters-want-government-recognition-16684333.php"
+  - title: "how many has amazon jeff bezos secretly facial recognition?"
+    excerpt: "Which Amazon service is used to detect the faces in an image? A face can be detected by Amazon Rekognition Image using the DetectFaces operation that looks for key facial features such as the eyes, nose, and mouth. A given image is analyzed for the 100 ..."
+    publishedDateTime: 2021-12-09T03:24:00Z
+    webUrl: "https://www.ictsd.org/business/jeff-bezos/how-many-has-amazon-jeff-bezos-secretly-facial-recognition/"
     type: article
     provider:
-      name: New Haven Register
-      domain: nhregister.com
-    quality: 44
+      name: ICTSD
+      domain: ictsd.org
+    quality: 41
     images:
-      - url: "https://s.hdnux.com/photos/01/23/12/52/21801624/3/ratio3x2_400.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.ictsd.org/wp-content/uploads/2021/10/how-does-jeff-bezos-make-money-if-amazon-is-losing-money.jpg"
+        width: 550
+        height: 413
         isCached: true
-  - title: "Facial Recognition Tech Perpetuates Racial Bias. So Why Are We Still Using It?"
-    excerpt: "This unregulated technology has served to enhance discriminatory practices by law enforcement and further endanger the lives of communities of color."
-    publishedDateTime: 2021-12-09T19:39:00Z
-    webUrl: "https://www.yesmagazine.org/opinion/2021/12/09/facial-recognition-software-racial-bias"
+  - title: "No live facial recognition for New Zealand Police in self-regulation pledge"
+    excerpt: "An independent review of the opportunities and risks associated with facial recognition has made a series of recommendations for limited use."
+    publishedDateTime: 2021-12-09T21:37:00Z
+    webUrl: "https://www.biometricupdate.com/202112/no-live-facial-recognition-for-new-zealand-police-in-self-regulation-pledge"
     type: article
     provider:
-      name: YES! Magazine
-      domain: yesmagazine.org
-    quality: 35
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
     images:
-      - url: "https://www.yesmagazine.org/wp-content/uploads/2021/12/Facial-Recognition_1400x840.jpg"
-        width: 1400
-        height: 840
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "eG8fkI9+bhXvd25O9SpPDRU/nqilZ9QVvDg+St+Emu6XICVoOSTKeI//ScBi6rIYf4aHrBG37KiFIwkW07cDfD1dZruECeCVQtawIbLVWmNu04UH8iVNCk9vbnmP8AdzIhg2+HgOK+QCTzow06CIsQ9MU1BM8+4fcYj0ycphCdWYsZM7I4HkobMBAJfA0NzhWvGkXvGBX9IYoolWTOlFH7URqqn2ExGEemLiksM8s5dkk9/mX0Y9CKl3U0UeL3aBKcOH1R+fIHCrjQ3j61iPHz7ADSItI945r/xer9RFojVeHTiGrHikuNyOl2ymqlq3TbM83u8E2EGLe67yKqlCsFYlYA9wUqHe4D1hSnlLMcwG1FyLlbCbuhBQ8qrmrj3tKJvbrqqGsXCG2VESTb1PT691zsHLIFPhlIHEWVtqZaCDlilK8BwlIyno0ptedTwKZV66tVGpIPnHWP17KpeY0rNDtWawlW624c1HVQcjRUQBObGv5u6i5kI2DoGY1XCrAqfZq5iN36imnFxHhYyaGg==;hgvhHeMEAEqGGIyQjNMAbQ=="

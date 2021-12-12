@@ -7,7 +7,7 @@ originalUrl: "https://www.ictsd.org/business/jeff-bezos/how-many-has-amazon-jeff
 webUrl: "https://www.ictsd.org/business/jeff-bezos/how-many-has-amazon-jeff-bezos-secretly-facial-recognition/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,95 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition using Eigenfaces"
-    excerpt: "The primary goal of this project was to implement the method of Eigenfaces for face recognition by projecting the face images on the feature space (face space) which best represents the variations among distinct faces."
-    publishedDateTime: 2021-12-09T01:12:00Z
-    webUrl: "https://github.com/aravind-3105/Face-Recognition-using-Eigenfaces"
+  - title: "NEC: Facial recognition can check for vaccination"
+    excerpt: "The CEO of Japanese electronics maker NEC says its facial-recognition technology could help fight the spread of coronavirus infections by being used to verify people's vaccination status."
+    publishedDateTime: 2021-12-08T03:53:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/"
+    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/amp.html"
+    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20211208_18/amp.html"
     type: article
     provider:
-      name: GitHub
-      domain: github.com
-    quality: 39
+      name: NHK
+      domain: nhk.or.jp
+    quality: 59
     images:
-      - url: "https://opengraph.githubassets.com/4d0b1b770ce599e5d20cc1f57af282bd380ddd241fda30605ad5ea61813d5457/aravind-3105/Face-Recognition-using-Eigenfaces"
-        width: 1200
-        height: 600
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20211208_18_1055617_L.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Hospitality Facial Recognition Tools"
+    excerpt: "Zoox Pass - Zoox Smart Data, a technology company specializing in consumer profiles and data analytics, has announced the launch of Zoox Pass, a new"
+    publishedDateTime: 2021-12-08T16:26:00Z
+    webUrl: "https://www.trendhunter.com/trends/zoox-pass"
+    ampWebUrl: "https://www.trendhunter.com/amp/trends/zoox-pass"
+    cdnAmpWebUrl: "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/zoox-pass"
+    type: article
+    provider:
+      name: TrendHunter
+      domain: trendhunter.com
+    quality: 59
+    images:
+      - url: "https://cdn.trendhunterstatic.com/thumbs/zoox-pass.jpeg"
+        width: 622
+        height: 478
+        isCached: true
+  - title: "SiLC single-chip LiDAR system could ease 3D facial recognition integration"
+    excerpt: "SiLC Technologies has launched a new vision sensor system that integrates LiDAR capabilities onto a single chip. The ability to integrate three-dimensional photonics on a lower-cost chip could ultimately help proliferate the use of computer vision systems that more accurately detect and measure faces and other biometric markers for identification and other purposes."
+    publishedDateTime: 2021-12-07T21:52:00Z
+    webUrl: "https://www.biometricupdate.com/202112/silc-single-chip-lidar-system-could-ease-3d-facial-recognition-integration"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
+  - title: "ACLU Calls for Halt of Homeland Security’s Use Of Facial Recognition Technology"
+    excerpt: "The civil rights organization said that the biometrics technology can lead to discriminatory arrests based on race."
+    publishedDateTime: 2021-12-08T16:33:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/aclu-calls-halt-homeland-securitys-use-facial-recognition-technology/187377/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 54
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/08/biometric_security_scan_picture_id1297832671/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Police are using hand-held facial recognition cameras on the streets for the first time"
+    excerpt: "The technology, initially to be deployed by 70 frontline officers in South Wales and Gwent, uses an 'artificial intelligence' mobile phone app. (File image.)"
+    publishedDateTime: 2021-12-10T23:40:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-10298385/Police-using-hand-held-facial-recognition-cameras-streets-time.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-10298385/amp/Police-using-hand-held-facial-recognition-cameras-streets-time.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10298385/amp/Police-using-hand-held-facial-recognition-cameras-streets-time.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 51
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/12/11/00/51616297-0-image-a-98_1639182688746.jpg"
+        width: 636
+        height: 382
+        isCached: true
+  - title: "No live facial recognition for New Zealand Police in self-regulation pledge"
+    excerpt: "An independent review of the opportunities and risks associated with facial recognition has made a series of recommendations for limited use."
+    publishedDateTime: 2021-12-09T21:37:00Z
+    webUrl: "https://www.biometricupdate.com/202112/no-live-facial-recognition-for-new-zealand-police-in-self-regulation-pledge"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/09/28121359/shutterstock_1437798524-scaled.jpg"
+        width: 2048
+        height: 1365
         isCached: true
 
 secured: "5Jp+xtVoASJq46kRFsD4ibvOgyGyOLl2S+45pavclSzBuAydzfeuuQ921wqsbL9RwTOjhirhT+bsiWqUu5PrLux2D2lnDRgWIOJE2MvMPlxV285/iKweTx/zC6Zs0Mozy/dl1WcfDbBCMiufjrm9G2RVkwLYqxx6mOsuW3tzoxLHXLjfZ1KTu8b/M8rsekmGFgaiNYV5JP6Hy9wdkF61UaKaj3GImGTzUiNgwnG5TP2BbA+HEtWxj+xlVQsV2JrnBdAe5vEFQH3uNiy2pdyXEQCGnXCRJ5rOdXDhwBRdotwt22+pxWjdoVXua1n90tda1ge/yI+J1qD8gI2TNaAA8cgnywlahWpyBjVlCepKNi8=;PGJb72BM8FBnhadKdOXYmw=="

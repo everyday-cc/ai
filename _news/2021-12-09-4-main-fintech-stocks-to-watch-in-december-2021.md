@@ -48,7 +48,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 71
   - title: "Best Stocks To Invest In Right Now? 4 Tech For Your Watchlist"
     excerpt: "Are These Good Tech Stocks To Invest In Now? Tech stocks appear to be a key focus of investors in the latest stock market hot streak. This is apparent as the tech-heavy Nasdaq ind"
     publishedDateTime: 2021-12-08T19:39:00Z

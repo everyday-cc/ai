@@ -8,7 +8,7 @@ webUrl: "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-wat
 ampWebUrl: "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021?amp"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 related:
   - title: "Best Stocks To Buy Now? 4 Robotics Stocks For Your December Watchlist"

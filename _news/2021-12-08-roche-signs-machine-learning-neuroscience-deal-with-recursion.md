@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/onweb/roche-signs-machine-learning-
 webUrl: "https://www.bloombergquint.com/onweb/roche-signs-machine-learning-neuroscience-deal-with-recursion"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Roche Signs Machine-Learning Neuroscience Deal With Recursion"
-    excerpt: "Roche Holding AG sealed a decade-long collaboration deal with U.S. biotech Recursion Pharmaceuticals Inc. to use machine learning to search out potential drugs for neuroscience and cancer. The deal allows for as many as 40 experimental programs to emerge from the Recursion technology,"
-    publishedDateTime: 2021-12-07T12:55:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-12-07/roche-signs-machine-learning-neuroscience-deal-with-recursion"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqjgtnKKL8sM/v0/1200x901.jpg"
-        width: 1200
-        height: 901
-        isCached: true
 
 secured: "A1DnnZ1e8h0bs3Sk88Ap1jEyG4PBsszcn6h8cl4+aeWDRh9ccs2mYsF3ZC+H4vIq0TD+Zenn43RvWEhrQpeQ51M2xrtYY2ZzziWMbbEu/MZLCh3Akv45qTsRbFvtcWqBt1goZOV3JWWMaSokc7wFHSFTVpBij0CKs0XIvcky+nOtK5YZZocbGC7kLCUFtbrFWxSooXhXX66XqzeX2BRbn6sEnGqIyVwhnG0e3ngYWEu2rnizDjBELsnx4hMnnCW47JdlPdBs1OQ8gTqVaYFwduSy9Qd7zeXiMbPM0B2h+sWF5Xt4daocmp7SZ2QiKqw8HZnJAjXY3RfrmNbxU0Idf/EjJsqWTSfJVLOu3DES06k=;PAYgqOYjfzb7+XEPhjFeTQ=="
 ---

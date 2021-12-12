@@ -86,20 +86,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Pilot robotaxi services launched in Beijing"
-    excerpt: "Tech company Baidu Inc and self-driving start-up Pony.ai are the first pair of enterprises granted permission to offer paid services and provide up to 100 self-driving vehicles for commercial ..."
-    publishedDateTime: 2021-12-07T12:47:00Z
-    webUrl: "https://www.independent.co.uk/asia/china/china-daily/robotaxi-service-beijing-launch-china-b1971313.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 24
-    images:
-      - url: "https://static.independent.co.uk/2021/12/07/12/taxi.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "qW0WqQELfhyl4D/Yj6zidDcf2zUR2NWXGYHiyH7KGgRVAmnu5o2nyOlIfey8vD6viK8b8D1e6iJBXKXAZ+CmZBQdZyOtrUTWZpS5j1ZwTYxyXYXIndiCv7plLKg4aLwucVhTeQZyuJE9EP+V+xSuJB9bugpOAQsGw7z5EoDzhrle/rzhZ2aXYlsKDCfOXec1BEclPvohhD8NU2e5I68Ml9ZvTvoG7/k82FBS0/YDZWz5lujH2dXMnu2gHS55I0oc0zAaFtenJgz3HPjCJhtFcijmEXYrZcV4YU4hYO+/EPwnwHPOni+aG74GO+aVmcF1Yo+3NJBa64BzpuoYHIVqPpe+bbEGWeyxoiQD7y6WGSI=;qj2indYBYBYlNgv+2ZAGKA=="
 ---

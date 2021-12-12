@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Cognitive Space 2021 Recap – Momentum in Artificial Intelligence for Satellite Operations"
-excerpt: "Cognitive Space announced the highlights of a very successful year in its mission to dramatically improve the way we monitor the Earth for economic, environmental, and national security understanding."
-publishedDateTime: 2021-12-08T02:41:00Z
-originalUrl: "https://www.wfmz.com/news/ap/ap-business/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations/article_29f3c599-2740-5608-bbe3-7fb9ecfcfb2e.html"
-webUrl: "https://www.wfmz.com/news/ap/ap-business/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations/article_29f3c599-2740-5608-bbe3-7fb9ecfcfb2e.html"
+excerpt: "The platform revolutionizes satellite operations with the power of artificial intelligence for mission ... including the Amazon Web Services (AWS) Seraphim Space Accelerator and the NGA Startup ..."
+publishedDateTime: 2021-12-08T04:40:00Z
+originalUrl: "https://www.wdrb.com/news/national/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations/article_2c819d6e-d431-5e0a-aee1-8a59b4493439.html"
+webUrl: "https://www.wdrb.com/news/national/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations/article_2c819d6e-d431-5e0a-aee1-8a59b4493439.html"
 type: article
-quality: 30
-heat: 30
+quality: 10
+heat: 10
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: WDRB
+  domain: wdrb.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/4b/e4bc99db-b225-569e-9c54-7a882c1f592d/61b04eca9c26a.image.jpg?crop=796%2C418%2C80%2C0&resize=796%2C418&order=crop%2Cresize"
-    width: 796
-    height: 418
-    isCached: true
-
-secured: "RccyW7vDCs1u2K7mwXjmaet/y89wtUJqRdevVxPI/Rn45UqRpCDRlNsBDkOa+g1u2jUHBn64x/rOCwXOGOAerHwz6jom54UqKTejcdIzJtYfMiNoQ/BdC9DwU8pNvr7gineof5ytFo+oPr61El2bjNw2QwhhD115DuKMJCbQsuOTe4STbrvjVycPyU6jcK5CrKTzhXEu0pJgXK1+t2gsePbgiRDjFinPjDll8OT6Z0DjDe7ag4y4Pjs9AMe6LQteeP8R9SbDZunOsqgZRzkivn0VD5xVHRN/NOd+OlcK0ez5Bkn3OXFS11xa2nkOuP54z/xbGXtBOG3SnT9LqtDAP6tyorQTk2b/nvKLxR4A2XM=;qTJhIU6QqtWaCJXryYHUmg=="
+secured: "C9VVWLeORI0B6D8CKpykQs/NubeT8spsvYCiKs1ygDQpDc37jNEJN0KaCXhzvxdkWu7mWDcxWNvClcFGj5Vc43N/K4382ME+CakHj0zU+d4M96H1rUOBwShugFj/+ADR0dc6FuFqXtHLtpmPnNq0NAxrdHbGj6AZp6ntqK7hIdPGeH0+Lv2E9/vS21cCsHx3Fu59qegPXJeDIlqhcNaQQYp1CnCpfcXrIlf9D3OciBaUYRy5oD6oxY+ey0YWtASL7lBLOjbAVNHt1BPs/7EA7Gvt/TSoaB25vQ0RZeM0rgSKVgQPvgFXudCWBHM5Ikcx1epmLnngQn/mH0FoXOCDsr94e9RQF/w2P5B1EeyBWRE=;A/DY6ABrcR+TN5S959RO9g=="
 ---
 

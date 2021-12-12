@@ -39,20 +39,6 @@ related:
         width: 2560
         height: 1310
         isCached: true
-  - title: "100 Versions Of Robot Sophia Ready For Metaverse"
-    excerpt: "The latest iteration of Sophia allows 100 versions of her in NFT format to be available in the metaverse Sophia, the humanoid robot built by Hanson Robotics, will now have her virtual anime version in 100 non-fungible tokens (NFT) and be seen in the metaverse."
-    publishedDateTime: 2021-12-07T12:59:00Z
-    webUrl: "https://analyticsindiamag.com/100-versions-of-robot-sophia-ready-for-metaverse/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/12/FF8OoaUUcAck9S6.jpg"
-        width: 1628
-        height: 954
-        isCached: true
   - title: "Wonder Dynamics, Startup Building AI Tools for Film and Metaverse Founded by Ready Player One Star Tye Sheridan, Raises $9M Series A Round Led by Hori"
     excerpt: "Wonder Dynamics, a startup developing AI powered production tools, announced today it has raised $9 million in what it called a"
     publishedDateTime: 2021-12-10T22:21:00Z

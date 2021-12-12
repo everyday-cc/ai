@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2ST1XM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2ST1XM"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Pilot robotaxi services launched in Beijing"
-    excerpt: "Tech company Baidu Inc and self-driving start-up Pony.ai are the first pair of enterprises granted permission to offer paid services and provide up to 100 self-driving vehicles for commercial ..."
-    publishedDateTime: 2021-12-07T12:47:00Z
-    webUrl: "https://www.independent.co.uk/asia/china/china-daily/robotaxi-service-beijing-launch-china-b1971313.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 24
-    images:
-      - url: "https://static.independent.co.uk/2021/12/07/12/taxi.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "qlUhGksZrTEu4aQHfSm8Qf2X1jgno8fstzPEvKNnSJE50qUdzgL/YtyV/dDj+B74ST3ksQzeevqVlF59tlL6tTArGqqImK+wkojLEQqHXfvL6lMJJQMJAzBeLdsmPu3E4zXh9ysJIyLlnaNsqw4iY4bSwQkql2viIT1ARFbTSW6I5f37ayCnCHDbqfD7oYAbQpJwlnyalZTWgJOqX6wTa1Kit4GpjBpQqsOCbb1k10LwzSzfrwJlyszsRqGNVCOerDCWmXHJsEMhM92vHsWWxXrG6R+EU+9zlr1raKgKXtB432REs8dy0yFsqHh5bL1s8TvajEPiIOnRIyCHkSwI3q0NVics2VxbJ6+ymwa67xM=;yP5Cc2r+NCCkuXhhdQZWuA=="

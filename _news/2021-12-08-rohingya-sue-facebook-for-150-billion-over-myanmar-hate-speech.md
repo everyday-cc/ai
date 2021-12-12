@@ -26,24 +26,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "‘It is the internet’: Rohingya launch £150bn Facebook lawsuit over genocide hate speech"
-    excerpt: "Facebook’s failure to combat hate speech was a key factor in the 2017 genocide of Rohingya Muslims in Myanmar, a legal action launched today has claimed. Lawyers for the victims in the UK and US have filed claims worth more than £150 billion in compensation in “one the largest group claims for victims of a crime against humanity brought before a domestic court anywhere in the world”,"
-    publishedDateTime: 2021-12-07T11:02:00Z
-    webUrl: "https://www.theweek.co.uk/news/world-news/asia-pacific/955070/rohingya-launch-150bn-facebook-hate-speech-lawsuit"
-    ampWebUrl: "https://www.theweek.co.uk/news/world-news/asia-pacific/955070/rohingya-launch-150bn-facebook-hate-speech-lawsuit?amp"
-    cdnAmpWebUrl: "https://www-theweek-co-uk.cdn.ampproject.org/c/s/www.theweek.co.uk/news/world-news/asia-pacific/955070/rohingya-launch-150bn-facebook-hate-speech-lawsuit?amp"
-    type: article
-    provider:
-      name: The Week UK
-      domain: theweek.co.uk
-    quality: 36
-    images:
-      - url: "https://mediacloud.theweek.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638872246/theweek/2021/12/Rohingya-refugee-858696362.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-
 secured: "MBOy7IPKOSWH1AqYixswQ4ZlhyZ4qxTO0ELIhgxAdqqlIfvqyxoFUlCdeMJOGevMxg27RcQ4vjAYZnxH+Twf9LuV0Y6/+JdwfIq4XK0Kp7+LyxbkmVKQrLCvB1A4e+KuOqa7vYiX6EpyTI3eCV03zrKBDQePCrzq+dgar4YpnvY2ezf2kD14Y6czFUjsSQzUASy7HRX4oAWietDdeQPQ9Z9A9wLaUO5gDwjvcMcIQacMA7oPNf/UY+fNqsLk4tErYyd6nTWJdiP920QCh1SuwWSNiCRwzBVuFHaVewSSFH3Q2YwZIyY3qa9SgRxWVe6YtqT/VRp5KaVGjd3X56+7Uv2t8X5XDSTMujwaRMg3lyMnsGQ5GzP1xow2mfGbezNPOYhSOU3I7Cffj07ziQND/MQTupLSkYw328739QXWJxVXT/C2v1raq9U05V0nusMx5Y/tLxLMmO64B0IwElYM1ziA/cTnZEl0vHlvSvCJoVRYLLqQkodEJ/pzBReIO+SxJwrH3ppwhFrZe1lr1Fk4IQ==;htrVswrEioF3vLh/BNABzg=="
 ---
 
