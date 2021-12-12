@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/news/intel-plans-to-take-self-dri
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/intel-plans-to-take-self-driving-car-unit-mobileye-public-report/amp-11638868167534.html"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Plans Potential $50 Billion IPO For Its Israeli Self-Driving Car Unit, Shares Rise"
-    excerpt: "The tech giant said that it would take its self-driving car firm, Mobileye, public next year at a potential valuation of more than $50 billion, sources first told The Wall Street Journal. Intel originally acquired 100% of the Israeli company in 2017 for $15."
-    publishedDateTime: 2021-12-07T15:27:00Z
-    webUrl: "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/"
-    ampWebUrl: "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af8aa58245aba99ca728d7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3995%26cropY1%3D153%26cropY2%3D2399"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel is spinning off its self-driving unit for $50B — why?"
     excerpt: "Intel acquired Mobileye for $15B in 2017. With markets hungry for next-gen auto tech, its spinning off the self-driving unit at a potential $50B valuation."
     publishedDateTime: 2021-12-09T02:05:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://images.hgmsites.net/hug/mobileye-self-driving-prototype_100818436_h.jpg"
         width: 1920
         height: 1088
-        isCached: true
-  - title: "Intel plans to take its self-driving wing Mobileye public"
-    excerpt: "Intel Corp. plans to take Mobileye, its self-driving arm, public via an initial public offering in the mid 2022 time frame. Intel will remain the majority owner of Mobileye and collaborate on projects for the automotive sector including the advancement of autonomous vehicle technology and the computing that is needed to power these future cars."
-    publishedDateTime: 2021-12-08T13:39:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17509/intel-plans-to-take-its-self-driving-wing-mobileye-public"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/509/17509/mobileye.jpg"
-        width: 752
-        height: 423
         isCached: true
   - title: "Intel's self-driving unit to get IPO"
     excerpt: "Mobileye, which has been growing faster than its parent, makes chips and software that work with sensors to let vehicles handle more driving functions."

@@ -7,7 +7,7 @@ originalUrl: "https://www.thisdaylive.com/index.php/2021/12/08/lawmakers-ask-fg-
 webUrl: "https://www.thisdaylive.com/index.php/2021/12/08/lawmakers-ask-fg-to-adopt-artificial-intelligence-in-curbing-insecurity/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Insecurity: Reps task FG on adopting Artificial Intelligence"
-    excerpt: "The House of Representatives, on Tuesday, tasked FG to liaise with the Robotics and Artificial Intelligence Nigeria (RAIN) as part of ongoing"
-    publishedDateTime: 2021-12-07T16:17:00Z
-    webUrl: "https://tribuneonlineng.com/insecurity-reps-task-fg-on-adopting-artificial-intelligence/"
-    type: article
-    provider:
-      name: Nigerian Tribune
-      domain: tribuneonlineng.com
-    quality: 39
-    images:
-      - url: "https://tribuneonlineng.com/wp-content/uploads/2021/06/REPS.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Nigeria: Lawmakers Ask FG to Adopt Artificial Intelligence in Curbing Insecurity"
     excerpt: "The House of Representatives has urged the federal government to liaise with the Robotics and Artificial Intelligence Nigeria (RAIN) to provide advanced methods of curbing insecurity in Nigeria."
     publishedDateTime: 2021-12-08T06:06:00Z

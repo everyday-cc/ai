@@ -2,6 +2,48 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2021-10-14-artificial-intelligence-helps-complete-beethoven-symphony.md",
+      "title": "Artificial Intelligence helps complete Beethoven Symphony",
+      "excerpt": "Before his death, Ludwig van Beethoven had started writing the 10th symphony. But only a few notes and musical sketches were left. Watch video on Zee News",
+      "sourceUrl": null,
+      "webUrl": "https://zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html",
+      "originalUrl": "https://zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://english.cdn.zeenews.com/sites/default/files/styles/zm_700x400/public/2021/10/14/00000003_23.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html/amp",
+      "cdnAmpWebUrl": "https://zeenews-india-com.cdn.ampproject.org/c/s/zeenews.india.com/video/news/artificial-intelligence-helps-complete-beethoven-symphony-2402597.html/amp",
+      "publishedDateTime": "2021-10-14T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-putting-ai-in-the-pilots-seat-three-strategies-for-navigating-the-post-pandemic-travel-boom.md",
       "title": "Putting AI In The Pilot’s Seat: Three Strategies For Navigating The Post-Pandemic Travel Boom",
       "excerpt": "If I had written an article about the role of AI in the travel industry 18 months ago, I might have covered the rise in chatbots fielding customer service inquiries or Hilton’s hallmark Connie concierge.",
@@ -1107,49 +1149,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-microsoft-azure-identity-management-features-pricing.md",
-      "title": "Microsoft Azure Identity Management: Features & Pricing",
-      "excerpt": "User Access Admin: Enables you to manage all user access to Azure resources. Identifying inconsistent access patterns can help you protect your company, this can all be done using security monitoring, alerts and machine learning. Usage reports can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusinessedge.com/it-management/microsoft-azure-identity-management-features-pricing/",
-      "originalUrl": "https://www.itbusinessedge.com/it-management/microsoft-azure-identity-management-features-pricing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/10/Microsoft-Azure-dashboard.png",
-          "width": 1458,
-          "height": 824,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business Edge",
-        "domain": "itbusinessedge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

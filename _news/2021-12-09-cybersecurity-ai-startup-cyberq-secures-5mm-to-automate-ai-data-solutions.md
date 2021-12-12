@@ -2,24 +2,26 @@
 category: news
 title: "CyberSecurity AI startup CyberQ secures 5Mm to automate AI data solutions"
 excerpt: "CyberQ Technologies Inc. has raised 5Mm in seed funding to expand its expert team of outcome based solution providers.Turing Technology Group (TTG) led the seed round. The new funding will help grow the team and expand recruiting,"
-publishedDateTime: 2021-12-08T19:11:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/cybersecurity-ai-startup-cyberq-secures-5mm-to-automate-ai-data-solutions-1031033364"
-webUrl: "https://markets.businessinsider.com/news/stocks/cybersecurity-ai-startup-cyberq-secures-5mm-to-automate-ai-data-solutions-1031033364"
+publishedDateTime: 2021-12-08T18:12:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-d612b1c80cb008b4cc1c07b6da2099fe"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-d612b1c80cb008b4cc1c07b6da2099fe"
 type: article
-quality: 46
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "ShieldIOT Launches World’s First Coreset-AI Security Platform"
@@ -37,6 +39,6 @@ related:
         height: 334
         isCached: true
 
-secured: "5YMNz2SR5vWWqYXTn54BGNAKlBUzRq7oHCnRxZUeMb0FC5W69u4naBXWSSmWFbQZXRAuNjvqjz/FLjjf3V95dj/YkYtXUJTuSYt//re1ucgPirhqtW0NXKF+n0joQb41ryW1I0TSD8+1IfLnJCJPslJkPUr6a7YeI2bB7qvsTCSRgCemlhuS+9T6DKljGnXG5inbJfw5oX448mACiqI7deC4qoBLOK6CfRewOxFXHYz9nKbSnTR6T+1FuViWzU1w3Y6KUpgx+y32YqPt3tWZbcHnNxRTSc5/pstbgtv3IfWICSb+KvXP0C7tM1NK7CtdESdt8ZXjrywydOsyL9MuySpTKeWIMoJANJaAnlOpQhc=;9Ac+2woqN8T9utLkS6fRxg=="
+secured: "r++JT9GFKeJahi2ci4seDYeDSbZ0RGWRGUT+q8Fc892hEounxnUjqUM2JZWpPpI694r4mbNsbqwem3blRGNrY3sfDmquL2za1FRjkmd+Mc46c+Tv1RqGOq3aezS+fAw73cokmMIe+iASnBoUwRQ3owprQYUXKVIdxRnFsSwkPMOKBomHI3UBdFwMNaesEWA2nOaedwaN+x1c6KtpwWb/0WK1NhJha4KYHd/FlO9E6OygAADb6Jvermb/Nv+pEDqsr1tZ22FURdJBlJ1aitNlGZkjofvQiFlxKU5ZT6v9kIoK8mEs1/QY58pBsBWCky1WqEy/4mYMdBeZ5QATHDHrGM84CGU4bdni2lCPCRIlbv4=;u2ztwotlDCByLCVchCi/cQ=="
 ---
 

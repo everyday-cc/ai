@@ -41,34 +41,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Stellantis Bets on Artificial Intelligence, Wants To Beat Tesla at Its Own Game"
-    excerpt: "Stellantis bets on artificial intelligence and expects software revenue to reach $23 billion a year by 2030 through services and subscriptions."
-    publishedDateTime: 2021-12-07T16:27:00Z
-    webUrl: "https://www.autoevolution.com/news/stellantis-bets-on-artificial-intelligence-wants-to-beat-tesla-at-its-own-game-175951.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 50
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/stellantis-bets-on-artificial-intelligence-wants-to-beat-tesla-on-it-own-game-175951_1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Stellantis Bets Big on Artificial Intelligence, Wants To Beat Tesla at Its Own Game"
-    excerpt: "Stellantis bets on artificial intelligence and expects software revenue to reach $23 billion a year by 2030 through services and subscriptions."
-    publishedDateTime: 2021-12-07T16:27:00Z
-    webUrl: "https://www.autoevolution.com/news/stellantis-bets-on-artificial-intelligence-wants-to-beat-tesla-at-its-own-game-175951.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 48
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/stellantis-bets-on-artificial-intelligence-wants-to-beat-tesla-on-it-own-game-175951_1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Stellantis Targets $20B+ in Sales From Software by 2030"
     excerpt: "The company is setting up an academy that aims to reskill more than 1,000 of its workers with data and analytics skills."
     publishedDateTime: 2021-12-07T19:07:00Z
@@ -98,20 +70,6 @@ related:
       - url: "https://images.firstpost.com/wp-content/uploads/2021/12/stellantis-to-add-ai-enabled-software-to-34-million-vehicles-targets-extra-revenue-of-20-billion-euros.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Stellantis plans to embed AI software in cars to raise profits"
-    excerpt: "iPhone manufacturer Foxconn on customized cockpits and Waymo to push their autonomous driving work into light commercial vehicle delivery fleets. Stellantis’ embrace of artificial intelligence ..."
-    publishedDateTime: 2021-12-07T15:23:00Z
-    webUrl: "https://www.canadianmanufacturing.com/uQ5uW"
-    type: article
-    provider:
-      name: Canadian Manufacturing
-      domain: canadianmanufacturing.com
-    quality: 39
-    images:
-      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2021/10/PLT_INDUSYRY4.0_WSUPERBIXBOX_SEPT21_JLR.jpg"
-        width: 300
-        height: 600
         isCached: true
   - title: "Stellantis plans rollout of Level 3 automated driving in 2024"
     excerpt: "Level 3 tech will be rolled out across the automaker's full portfolio, Joachim Langenwalter, head of artificial intelligence, software and hardware said."

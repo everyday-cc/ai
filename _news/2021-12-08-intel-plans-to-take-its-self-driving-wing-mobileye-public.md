@@ -25,114 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Plans Potential $50 Billion IPO For Its Israeli Self-Driving Car Unit, Shares Rise"
-    excerpt: "The tech giant said that it would take its self-driving car firm, Mobileye, public next year at a potential valuation of more than $50 billion, sources first told The Wall Street Journal. Intel originally acquired 100% of the Israeli company in 2017 for $15."
-    publishedDateTime: 2021-12-07T15:27:00Z
-    webUrl: "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/"
-    ampWebUrl: "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/"
+  - title: "TPA tests new self-driving wheelchairs"
+    excerpt: "The motorized wheelchairs, similar to the ones you’d see in a supermarket, are free for passengers including those with mobility issues and injuries."
+    publishedDateTime: 2021-12-08T20:18:00Z
+    webUrl: "https://www.wtsp.com/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/tampa-airport-driving-wheel-chairs/67-b767a533-c9fc-4ea1-ac16-e60659e801c9"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
+      name: WTSP
+      domain: wtsp.com
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af8aa58245aba99ca728d7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3995%26cropY1%3D153%26cropY2%3D2399"
-        width: 1200
-        height: 675
+      - url: "https://media.wtsp.com/assets/WTSP/images/fd127d07-cefb-479c-8bbf-5b926dfc5e6d/fd127d07-cefb-479c-8bbf-5b926dfc5e6d_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Intel plans to take self-driving car unit Mobileye public: Report"
-    excerpt: "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters."
-    publishedDateTime: 2021-12-07T20:45:00Z
-    webUrl: "https://www.livemint.com/companies/news/intel-plans-to-take-self-driving-car-unit-mobileye-public-report-11638868167534.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/intel-plans-to-take-self-driving-car-unit-mobileye-public-report/amp-11638868167534.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/intel-plans-to-take-self-driving-car-unit-mobileye-public-report/amp-11638868167534.html"
+  - title: "Tampa International Airport hopes self-driven wheelchairs for travelers paves way for future"
+    excerpt: "TPA is testing out a pilot program that allows passengers to use self-powered wheelchairs that can be driven instead of pushed. They hope to make it a permanent option."
+    publishedDateTime: 2021-12-08T10:44:00Z
+    webUrl: "https://www.fox13news.com/news/tampa-international-airport-hopes-self-driven-wheelchairs-for-travelers-paves-way-for-future"
+    ampWebUrl: "https://www.fox13news.com/news/tampa-international-airport-hopes-self-driven-wheelchairs-for-travelers-paves-way-for-future.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/tampa-international-airport-hopes-self-driven-wheelchairs-for-travelers-paves-way-for-future.amp"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
+      name: Fox 13
+      domain: fox13news.com
+    quality: 48
     images:
-      - url: "https://images.livemint.com/img/2021/12/07/600x338/Mobileye_1638868453811_1638868453986.JPG"
-        width: 600
-        height: 338
+      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2021/12/932/470/P-TPA-AUTOMATIC-WHEELCHAIRS_WTVTc054_186.mp4_.00_01_26_07.Still003.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
         isCached: true
-  - title: "Intel is spinning off its self-driving unit for $50B — why?"
-    excerpt: "Intel acquired Mobileye for $15B in 2017. With markets hungry for next-gen auto tech, its spinning off the self-driving unit at a potential $50B valuation."
-    publishedDateTime: 2021-12-09T02:05:00Z
-    webUrl: "https://thehustle.co/12092021-intel-mobileye/"
-    ampWebUrl: "https://thehustle.co/12092021-intel-mobileye/"
-    cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/12092021-intel-mobileye/"
-    type: article
-    provider:
-      name: The Hustle
-      domain: thehustle.co
-    quality: 44
-    images:
-      - url: "https://thehustle.co/wp-content/uploads/2021/12/News-Brief_2021-12-09T015615.842Z.jpg"
-        width: 600
-        height: 330
-        isCached: true
-  - title: "Intel plans IPO for Mobileye self-driving technology division"
-    excerpt: "Intel on Monday announced plans to take Mobileye public. Intel acquired the Israeli self-driving technology company in 2017 in a $15.3 billion deal, and has since helped grow it to become a market leader in driver-assistance and self-driving systems."
-    publishedDateTime: 2021-12-08T14:30:00Z
-    webUrl: "https://www.motorauthority.com/news/1134385_intel-plans-ipo-for-mobileye-self-driving-technology-division"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/mobileye-self-driving-prototype_100818436_h.jpg"
-        width: 1920
-        height: 1088
-        isCached: true
-  - title: "Intel's self-driving unit to get IPO"
-    excerpt: "Mobileye, which has been growing faster than its parent, makes chips and software that work with sensors to let vehicles handle more driving functions."
-    publishedDateTime: 2021-12-07T18:10:00Z
-    webUrl: "https://www.linkedin.com/news/story/intels-self-driving-unit-to-get-ipo-4598769/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQGaQSUzonLJdw/storylineheaderimage-shrink_400_400/0/1638900630048?e=1638993600&v=beta&t=ATEYMYGhpkl8NPyLKNYOZK3jg1HXGVq5YjSo2icnmpk"
-        width: 400
-        height: 264
-        isCached: true
-  - title: "Intel Intends to Take Self-driving Car Unit Mobileye Public"
-    excerpt: "Intel this week announced its intention to take Mobileye public in the United States in mid-2022 via an initial public offering (IPO) of"
-    publishedDateTime: 2021-12-09T02:51:00Z
-    webUrl: "https://www.thefastmode.com/investments-and-expansions/21682-intel-intends-to-take-self-driving-car-unit-mobileye-public"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 24
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/46d119b0fce0513a8f317451330a29c3.jpg?t=20211209_012423"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "Intel to make Israeli self-driving car unit Mobileye public in US"
-    excerpt: "The deal could value the Israeli unit at more than $50 billion.The post Intel to make Israeli self-driving car unit Mobileye public in US appeared first on JNS.org."
-    publishedDateTime: 2021-12-08T13:37:00Z
-    webUrl: "https://www.clevelandjewishnews.com/jns/intel-to-make-israeli-self-driving-car-unit-mobileye-public-in-us/article_4f0595ae-b269-59e5-beb0-91608382d6b1.html"
-    type: article
-    provider:
-      name: Cleveland Jewish News
-      domain: clevelandjewishnews.com
-    quality: 4
-  - title: "Intel to Take Self-Driving Car Unit Public"
-    excerpt: "The planned listing of Mobileye is Intel's latest move to revive its fortunes as its stock lags behind rivals such as AMD and Nvidia."
-    publishedDateTime: 2021-12-08T01:55:00Z
-    webUrl: "https://www.cfo.com/ipos/2021/12/intel-to-take-self-driving-car-unit-public/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 4
 
 secured: "8Vk1c3ZleM03BdJOkyZ2GqId9KgI9mw7zI3+rNkSSo/RQWxwJJhgnq73RoBnnTKaN1nf8f2sDZPbevgDIKtTPFxb+ZIjfVe39yuMETTWT89UAA9sFvW1SvF6xD+Oyvr7TpqKLIDxdlO0WS5sS7tnUC0uIJl8ZIKijP98n4bRDexapc6GmLBFRFmw+7ka3lXkynbNM79Cu8Yu4rlLe+K5CZ59czlAyhqflk+pqUOhwlsrytjf28YNOEhlp06Gopf2c72qOGL9YRjYiwn6Dg0MjlHSb8yoMtE98cETyGMhUAgbtDmjseHTpES3fFKjKQ9xCMWRmJotMeXuFl7c8tHs2bFi6wlPs62YYD+UJVJtPbRAY++WyKkop44m97SpsF8Agx6B2lxenXXkc38MuD5r2bunNEtnHW1MrKIr1lvkrJ3J83xr9PBABDoM4ys5TSxUo/CrzEBDpzjCnlcVs+LPat94hi01ccMxtoO3F0GZBVFksuEvYG3NaSxhPWLpEdGLftK1qAa6MZ8Y6x/yNbRfmA==;8L33e3b51P/E0U7a1hnJFg=="
 ---

@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How market-leading retail brands are using AI"
-    excerpt: "Your friend posts a photo of their totally on-trend new shoes. You know you need a pair—but discover they come with a £500 price tag.  What do you do?"
-    publishedDateTime: 2021-12-07T16:14:00Z
-    webUrl: "https://techhq.com/2021/12/how-market-leading-retail-brands-are-using-ai/"
-    ampWebUrl: "https://techhq.com/amp/2021/12/how-market-leading-retail-brands-are-using-ai/"
-    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/how-market-leading-retail-brands-are-using-ai/"
-    type: article
-    provider:
-      name: TechHQ
-      domain: techhq.com
-    quality: 57
-    images:
-      - url: "https://cdn2.techhq.com/wp-content/uploads/2021/12/CUSTOM-GettyImages-1329747480-375x210.jpg"
-        width: 375
-        height: 210
-        isCached: true
 
 secured: "YHHNIaTvC0v4ZlUiCMW5HWdfoRSTHxFbPKeUAmgZBzJqOwh4VuECJ5Xika7nV7QPCZpLlPETGv8VOFE/FqYRz6FmPYMBryDfVOBG8dTPGa5tIf/A8BbcfBUvsctuZFkHBLAa3ud3lLE8rJgeC37m2TlKCpOrCxF54R/Mi+sfJeE7tM/0prv2BZxQ8lGjpbfVcE0h8+QOpKxynldTPx6EPblHjmqWUgQo0znTRsWEpXCiYY4UzQA/wHK21XM4Bb8Fd5GwSpPvN2ZQXdpPLdXjkqtaJg4JL1Zj80h7pY12JA9XXEJ/hl5MG+WZAOUhmRM8QUhmkJ1VTPGlBgZVZg5vFwqQEqEp7LOSPqtIXc2W9E4ZFQDmMiI2l65yjv2DV8KUrqBlMSb//yDu1rC6lDIkfseGS/lAvQ3SaLf8umpZFPCTczc1ny5kR8b+XulsnIkI6W1Sb9C3bh3s2FXdYzCCRC3XVvRPSw33H/qCSCsruvvzqn6qZpm+oiOoixNxYqZ9gNH6UdhjSOX3Z+cAqArCVg==;JPEaRSwRH7Eh8G9fBtWyOg=="
 ---

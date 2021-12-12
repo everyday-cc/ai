@@ -43,6 +43,20 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Intel plans to take its self-driving wing Mobileye public"
+    excerpt: "Intel Corp. plans to take Mobileye, its self-driving arm, public via an initial public offering in the mid 2022 time frame. Intel will remain the majority owner of Mobileye and collaborate on projects for the automotive sector including the advancement of autonomous vehicle technology and the computing that is needed to power these future cars."
+    publishedDateTime: 2021-12-08T13:39:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17509/intel-plans-to-take-its-self-driving-wing-mobileye-public"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/509/17509/mobileye.jpg"
+        width: 752
+        height: 423
+        isCached: true
 
 secured: "j7c9RHCyjuQbLuHtl1Gt8kV+22j/R5/MYuIz+1XMqJamGqi4BsjNiUvmYIcA9Ii5hEaL6/Lf0HN2hb7fmrJnRsiYxN987HdNe2U19QUECDOYdZpj5Q2S8ksdlRZnKebweHwX+9zo3RZ2gs8zNLbuQ7xE9Rrgn4GwmbPtQ5zTLHXurCiICyAWCdXzgvf6cPfOVOeUttZUe5EXYTK2nR5s4Uy8RodUGqfzXfbQ/jlLXZp+w9HUUXkU5Shp0CWHiVXDPcxjoK1cWcegr611jkiOFBKOO3Ny7lOpBb7A96NNlUN9ndAX0r46O/vmaqIJBeFkyRlTQOlJG1kRtSHWeVR8S0feBG89BcLXgKa3wJK7LqM=;einXcPwYoQmxMwjthfoQXQ=="
 ---

@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-26-193-countries-adopt-1st-global-agreement-on-ethics-of-ai.md",
+      "title": "193 countries adopt 1st global agreement on Ethics of AI",
+      "excerpt": "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.pna.gov.ph/articles/1161070",
+      "originalUrl": "https://www.pna.gov.ph/articles/1161070",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg",
+          "width": 720,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-26T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gov",
+        "domain": "pna.gov.ph",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-193-countries-adopt-the-first-global-agreement-on-the-ethics-of-artificial-intelligence.md",
       "title": "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence",
       "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
@@ -1332,49 +1376,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles.md",
-      "title": "Baidu, Swiss Re ink partnership to explore insurance for autonomous vehicles",
-      "excerpt": "Swiss reinsurance company teams up with Chinese tech giant Baidu to develop insurance services that cover the entire value chain of autonomous driving, spanning producing pricing, claims, and underwriting data standards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles/",
-      "originalUrl": "https://www.zdnet.com/article/baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-swiss-re-ink-partnership-to-explore-insurance-for-autonomous-vehicles/",
-      "publishedDateTime": "2021-11-19T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

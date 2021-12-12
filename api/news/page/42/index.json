@@ -2,6 +2,58 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-11-09-google-tests-project-relate-a-voice-recognition-and-synthesis-app-for-people-with-speech-impairments.md",
+      "title": "Google tests Project Relate, a voice recognition and synthesis app for people with speech impairments",
+      "excerpt": "The simple fact is that speech recognition engines need lots of recorded speech to learn how to interpret it correctly, and that data is biased in favor of common speech patterns. People with ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/09/google-project-relate-speech-ai-impairments/",
+      "originalUrl": "https://techcrunch.com/2021/11/09/google-project-relate-speech-ai-impairments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EU2oCVlzEZk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/09/google-project-relate-speech-ai-impairments/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/09/google-project-relate-speech-ai-impairments/amp/",
+      "publishedDateTime": "2021-11-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-ai-chipmaker-hailo-raises-136-million.md",
       "title": "AI Chipmaker Hailo Raises $136 Million",
       "excerpt": "AI chipmaker Hailo raised $136 million in its latest funds round, representing one of the largest investments ever in the AI chip space. It comes amid the ongoing global chip shortage, and a surge in demand for the company's technology,",
@@ -1108,49 +1160,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-08-bt-steps-up-robotics-play-with-new-lab.md",
-      "title": "BT steps up robotics play with new lab",
-      "excerpt": "BT opened a robotics test lab in its R&D campus Adastral Park in the UK county of Suffolk, to trial technology for maintenance and deployment of telecoms infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/bt-steps-up-robotics-play-with-new-lab",
-      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/bt-steps-up-robotics-play-with-new-lab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2021/11/MWL-BT-Tim-Whitley-Adastral-Park-650.png",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/bt-steps-up-robotics-play-with-new-lab/amp",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/bt-steps-up-robotics-play-with-new-lab/amp",
-      "publishedDateTime": "2021-11-08T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

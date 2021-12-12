@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-11-26-baidu-ponyai-cleared-for-beijing-robotaxi-service.md",
+      "title": "Baidu, Pony.ai cleared for Beijing robotaxi service",
+      "excerpt": "SHANGHAI -- Chinese tech group Baidu Inc. and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the companies deploy not more than 100 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/china/baidu-ponyai-cleared-beijing-robotaxi-service",
+      "originalUrl": "https://www.autonews.com/china/baidu-ponyai-cleared-beijing-robotaxi-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/RTXEXMJ3%281%29.JPG",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T11:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-nvidias-latest-ai-technology-transforms-words-into-realistic-images.md",
       "title": "Nvidia's latest AI technology transforms words into realistic images",
       "excerpt": "Nvidia showed its GauGAN technology for the first time in 2019, but only recently we saw it being featured in a product available for the general",
@@ -1148,49 +1191,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-heres-why-an-mit-professor-thinks-ai-will-cause-more-harm-than-good.md",
-      "title": "Here's Why an MIT Professor Thinks AI Will Cause More Harm Than Good",
-      "excerpt": "Artificial intelligence holds tremendous promise, but the technology also threatens society. According to MIT Economist Daron Acemoğlu, AI must be regulated now.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/will-ai-cause-more-harm-than-good",
-      "originalUrl": "https://interestingengineering.com/will-ai-cause-more-harm-than-good",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/V0OyvqBgGQ/sizes/multi-coloured-squares-in-mid-air-gathering-to-form-head-picture-id970317224_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/will-ai-cause-more-harm-than-good",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/will-ai-cause-more-harm-than-good",
-      "publishedDateTime": "2021-11-24T13:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }
