@@ -40,22 +40,6 @@ related:
         width: 2084
         height: 1032
         isCached: true
-  - title: "Deeproute aims for mass market with low-price self-driving hardware package"
-    excerpt: "Chinese self-driving startup Deeproute has launched its next-generation sensing platform, boasting a per unit cost of just $10,000 – well below the market average – and targeting mass production with automakers as early as 2024. The hardware suite ..."
-    publishedDateTime: 2021-12-08T06:04:00Z
-    webUrl: "https://technode.com/2021/12/08/deeproute-aims-for-mass-market-with-low-price-self-driving-hardware-package/"
-    ampWebUrl: "https://technode.com/2021/12/08/deeproute-aims-for-mass-market-with-low-price-self-driving-hardware-package/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/08/deeproute-aims-for-mass-market-with-low-price-self-driving-hardware-package/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 57
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
 
 secured: "4fbRPVz89xgNLsGm8uA8N1eHXWFPt1DSG+6ROS5EtuIFPhOvHfoh2MlUibieF97L9yxSWtkSJsz8/0zJp152wvxVmRE9pHD5H1qJ0tT64nfBPHGqkGkCRL1L4C7hV2u2RPdUO0HTCiSmVR17JswTY/lQjCHFroh/5KBxaUrGWq+XnX0b7rmxFyUVOPDnOHbzS/bNmHj9eYJQaiVtamTqoNtmu7MUD3QvTeef+TctlHqt5eAerS8jzrl6gZ2IpTfi9KMWJle6hMhIUDxj6vllUqBOYuzNuDp0umpP4njtSERShS6q8DPJ78l7f/OrNDep95AbYc2YsAcggLAdbFIJkPwMlmySEhhnJkqSRPDQ2dk=;3D95DqLeOa12OBSHy3EC5A=="
 ---

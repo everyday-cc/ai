@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
+  - title: "Leveraging AI to Combat Financial Crimes: Trends, Applications, & Practices"
+    excerpt: "AI and Machine Learning With financial crime on the rise, financial institutions are increasingly looking to artificial intelligence to help them get the upper hand. Most financial services companies are aware that artificial intelligence is getting faster ..."
+    publishedDateTime: 2021-12-12T22:34:00Z
+    webUrl: "https://www.eventbrite.sg/e/leveraging-ai-to-combat-financial-crimes-trends-applications-practices-tickets-223838265277"
+    type: article
+    provider:
+      name: Eventbrite
+      domain: eventbrite.sg
+    quality: 37
+    images:
+      - url: "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F197409679%2F686361592213%2F1%2Foriginal.20211207-082701?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C233%2C5808%2C2904&s=35cdffe193aa2bf4004c91ebf82e5438"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "VgTg2tK9LVHazTlVRyVpkGDtcspfjwRUIeA3ttKFrklVeYL3RP95xam0LTT0wlwiS4tagC4K1N6Vm7gVzBsXauFoH2imYXQII1A+l8kjNJzcpumrJPpHt2Sv/7qPutrohkmq5yhPPQULWXMELW2790JsG6fhL7aP+nRgzrM4gPmLMyA4YT+jUR5iD+Jd7bLzcH5V9+3/8GjYIvpbEjq4a5BUbg2ZqpgNh14BZUHih+px4dwM3jsSChJCkm1Pyp5moljcdZniz3UN10jVoxcgEXd2CU17Sis6W8IJz0PJ+InlGz5dOjtsth8cMkcw+woJG0UIQnLuO9/eaRL9n3o2x2jn0qIsIRMfvqOOBQaoK0o4yJ52mCEqbxXDooVNF+xCKyRbL/uLBBdTZ0MwmV4krI95qokVdnXjlZIbeEuOcpbNoIJIU0EqZXuz68b6EVnvmrCA2qAWlzx6N0EhZQmbVtYAWBmAAdMZPJSzjAso3CRDzPDxJhkmcIGrWgksNX7lmDecYwbBc/0wbp3RBH6Qag==;lw45Zjz5UxDTbxq1+WBP7Q=="
 ---

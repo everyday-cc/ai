@@ -1,10 +1,10 @@
 ---
 category: news
 title: "To see proteins change in a quadrillionth of a second, use AI"
-excerpt: "Then the AI extracts the complete 3D image from this group of snapshots and learns what the entire movement should look like, creating a sort of animated “movie” of it. “Using artificial intelligence at each time point,"
+excerpt: "But, for scientists, “an instant” is not unquantifiable—the changes in the protein’s structure happen in the remarkably short amount of time known as a femtosecond, or a quadrillionth of a second. A second is to a femtosecond what 32 million years is to a second,"
 publishedDateTime: 2021-12-12T12:37:00Z
-originalUrl: "https://arstechnica.com/science/2021/12/to-see-proteins-change-in-a-quadrillionth-of-a-second-use-ai/2/"
-webUrl: "https://arstechnica.com/science/2021/12/to-see-proteins-change-in-a-quadrillionth-of-a-second-use-ai/2/"
+originalUrl: "https://arstechnica.com/science/2021/12/to-see-proteins-change-in-a-quadrillionth-of-a-second-use-ai/?comments=1"
+webUrl: "https://arstechnica.com/science/2021/12/to-see-proteins-change-in-a-quadrillionth-of-a-second-use-ai/?comments=1"
 type: article
 quality: 67
 heat: -1
@@ -45,6 +45,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "JJcTUgbTOMlamkH71egw2SzmBbWSGvW38qm+f+zmsBAGLI+x1ldnmoHtV0KX3YY+/Nd8oCwyvPEnm6H+dEnjTmJbKZvnbxarAZ3OF3wKrl283l1YpcvAh8Qz3WWbjX42vTYt2HKJX6yFlAvxb11XexeABxhYrMjF45c8ad4wEUqWSqXvaiapi6rjZVjakZGNREWeDVJ9JULSOkXKYhf/h53CFrVmsT3C4WK6TXnuk8N+SBEpSHDtYiljndB2mlFK+vlsRNs11qXnPiruBzK49Sv2yHPZ6BznyspxZxXf28mQc8sF1KNGFiDAZatTdiKhsYLTRgTJLraovZ3k/K1C6d0l4wx5LrgD1i+NhOyn3iwL2fbUBP/edau57Yx3J4+EYXr9u0yJg7MQswQlbvjgpzTgT+4lnmg7SB9RUnnYcZo/Zxn6bGOapu/u6NkZKRPiOZfHQG4iHxcaeVqfhEeThgFTRfv/qgfVPNIyPtHocr/kYwGOt0GO9mwuY4XSrn9lLHj1ThVeTcjxIVsj62zlHQ==;G9HaDLadrGCRgmSmjfzxhA=="
+secured: "zpRADdAYcPTr+Z85EW9fsi7zRUOI659Vmnxx9uuFtnUWvqJjdxWfaL8Do3t73n/zl2m3qU6Q1eAjySRjZ+THEFJS4MU497C//xX1n7PUyMU7ciUMgEWGPjv1Js5AsiG+nqrNqoJ/FpUn5DcZFOFPPBiaUbmTSKWBRkk0cs3OA+NsEp87SeGwg8SiEiD9M6GSXdD1Ti/klsclpOuqkQAuvc4dJVREJLtYAQcf3Hsi0lKQ84EFpTocivICcksFMGIpQQJEzmPT77xWWJPN9o1lH4AHYB4QXZhFJ+WCFg7tLAneSBFmR0ot+3zeb1J8wyPt4qWDD/Cmt/2ztMS1tlkCRlg1tNoc5DG5v2lKP4FJOtk=;o9HR/Ls/jz3aEl69EU3VRw=="
 ---
 

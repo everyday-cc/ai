@@ -2,51 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-12-13-nigerian-startups-artificial-intelligence-e-market-penetration.md",
-      "title": "Nigerian startups, Artificial Intelligence, e-market penetration",
-      "excerpt": "Artificial Intelligence highly rated among the most disruptive technologies, is a great means for startups to achieve their growth targets",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2021/12/nigerian-startups-artificial-intelligence-e-market-penetration/",
-      "originalUrl": "https://www.vanguardngr.com/2021/12/nigerian-startups-artificial-intelligence-e-market-penetration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg",
-          "width": 412,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2021/12/nigerian-startups-artificial-intelligence-e-market-penetration/amp/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2021/12/nigerian-startups-artificial-intelligence-e-market-penetration/amp/",
-      "publishedDateTime": "2021-12-12T09:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-12-11-ai-weekly-ai-researchers-release-toolkit-to-promote-ai-that-helps-to-achieve-sustainability-goals.md",
       "title": "AI Weekly: AI researchers release toolkit to promote AI that helps to achieve sustainability goals",
       "excerpt": "A set of tools released by researchers, SustainBench, aims to promote the development of AI systems that help achieve sustainability goals.",
@@ -1429,6 +1384,50 @@
       "provider": {
         "name": "Daily Sun",
         "domain": "daily-sun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-artificial-intelligence-ethics-agreement-adopted-by-193-countries.md",
+      "title": "Artificial Intelligence Ethics Agreement adopted by 193 countries",
+      "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
+      "originalUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/World-News/headquarters_flags_michel_ravassard-71532c23-f38e-4881-9939-f84f2b790098.jpeg",
+          "width": 740,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bna.bh",
+        "domain": "www.bna.bh",
         "images": null,
         "publishers": null,
         "authors": null

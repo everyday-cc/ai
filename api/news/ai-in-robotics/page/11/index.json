@@ -2,50 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2021-09-30-amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says.md",
-      "title": "Amazon's new $1,000 home-patrolling robot is flawed and could fall down stairs, report says",
-      "excerpt": "Amazon's new home robot Astro may not be ready for the real world, Vice reported, citing two unnamed sources who worked on the project. Amazon announced Astro on Tuesday, touting it as a mobile ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says/articleshow/86615774.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says/articleshow/86615774.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/86615601.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says/amp_articleshow/86615774.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/amazons-new-1000-home-patrolling-robot-is-flawed-and-could-fall-down-stairs-report-says/amp_articleshow/86615774.cms",
-      "publishedDateTime": "2021-09-29T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2021-09-30-meet-russias-new-killer-robot.md",
       "title": "Meet Russia’s New Killer Robot",
       "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
@@ -1389,6 +1345,50 @@
       "topics": [
         "AI Hardware",
         "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-09-23-national-ai-strategy-can-the-uk-be-the-superpower-it-imagines-itself-to-be.md",
+      "title": "National AI Strategy - can the UK be the superpower it imagines itself to be?",
+      "excerpt": "Does Whitehall have the human intelligence, expertise, and skills to make the UK’s new National AI Strategy work?",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be",
+      "originalUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg",
+          "width": 640,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/national-ai-strategy-can-uk-be-superpower-it-imagines-itself-be?amp",
+      "publishedDateTime": "2021-09-23T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
         "AI in Robotics"
       ]
     }

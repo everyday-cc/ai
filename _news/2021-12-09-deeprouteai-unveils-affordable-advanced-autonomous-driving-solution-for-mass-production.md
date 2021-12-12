@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.kr-asia.com/deeproute-ai-unveils-affordable-advanced-aut
 cdnAmpWebUrl: "https://amp-kr--asia-com.cdn.ampproject.org/c/s/amp.kr-asia.com/deeproute-ai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production"
 type: article
 quality: 147
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deeproute aims for mass market with low-price self-driving hardware package"
-    excerpt: "Chinese self-driving startup Deeproute has launched its next-generation sensing platform, boasting a per unit cost of just $10,000 – well below the market average – and targeting mass production with automakers as early as 2024. The hardware suite ..."
-    publishedDateTime: 2021-12-08T06:04:00Z
-    webUrl: "https://technode.com/2021/12/08/deeproute-aims-for-mass-market-with-low-price-self-driving-hardware-package/"
-    ampWebUrl: "https://technode.com/2021/12/08/deeproute-aims-for-mass-market-with-low-price-self-driving-hardware-package/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/08/deeproute-aims-for-mass-market-with-low-price-self-driving-hardware-package/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 57
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
   - title: "DeepRoute.ai Offers a Production-Ready L4 Autonomous Driving System at a Cool $10,000"
     excerpt: "DeepRoute.ai offers a production-ready L4 Autonomous Driving system at a cool $10,000. The price tag is incredible given the hardware used, with five solid-state lidar sensors, eight cameras, a proprietary computing system,"
     publishedDateTime: 2021-12-09T16:32:00Z
