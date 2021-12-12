@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2021/12/09/robust-intelligence-raises-30m-ser
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/09/robust-intelligence-raises-30m-series-b-to-stress-test-ai-models/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: TechCrunch
@@ -30,21 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered customer engagement platform MoEngage raises $30M to grow operations"
-    excerpt: "MoEngage, a startup developing an AI-driven customer engagement platform, has closed a $30 million venture capital round."
-    publishedDateTime: 2021-12-07T14:22:00Z
-    webUrl: "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/"
-    ampWebUrl: "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/"
+  - title: "FlyFin Raises $8 Million in Funding to Scale First AI Tax Engine for Freelancers and Self-Employed"
+    excerpt: "FlyFin, a fintech provider, announced that it raised $8 million total in a seed and pre-Series A round. Its namesake offering, FlyFin is the first A.I.-powered tax engine that combines the human expertise of CPAs to deliver a cutting-edge,"
+    publishedDateTime: 2021-12-09T13:41:00Z
+    webUrl: "https://www.lelezard.com/en/news-20148966.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 183
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 25
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/communication-6605648_1920-e1632854543166.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Wonder Dynamics, Startup Building AI Tools for Film and Metaverse Founded by Ready Player One Star Tye Sheridan, Raises $9M Series A Round Led by Hori"
+    excerpt: "Wonder Dynamics, a startup developing AI powered production tools, announced today it has raised $9 million in what it called a"
+    publishedDateTime: 2021-12-10T22:21:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=586288"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "1Ld0jMfhMy8ZilzfYSKTFrmwVxQM0xwsyNZjCzDJdNBE5pZRYzfgZpjPpRkEVr0p1OULKSM/UaV4enx/cWHLb6Vv6yJX70BoRqyDidoAog1jBUn3r87WGUAgtcRFnca6ZmlBWizNUZThM3snT1ZyHT4vHyRokzTYw3r7TcN/TPk4+wRX/dj4HR9osohpVuR/J5lPE0pu/1reJ2FJVHMDDss8oTUtDqgplz9qfPgokKI56jypM79WILox9U2Ys6TxpFpciZFGvKAB8M1VlLVM+UI+icggYO81dByyozVmdTjs1z+1cnit+yBtsR2tAxG+ScHBHMx+Pc8f6YRadw4zCdN1orrvmJkssJtLWeGQFuBLIbwF8hrWChv2FT8KXgz8r6yN5t66LvgCjJcZ+tDen1l3LirMa+HalZZqo65HcWim/bSA0EGtyjuiegoV9CCsQ99nYABoscYnIQX2UVFRm9Xcu/teQTo8BiFlTmW0pX49wn91Ndbbu8Gm2CzpiQdZm3L9bbN0/NOGvsDrwJuiiA==;iRn83hl+SETpAgcKr6c5EQ=="

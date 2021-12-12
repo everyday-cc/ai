@@ -36,20 +36,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 39
-  - title: "8% BTC hike more success for Quantum Inspired Machine Learning analytics engine Quantabotics"
-    excerpt: "Perfect timing from Toridion's Quantum Inspired Machine Learning powered financial analytics \"Quantabotics\" Issues a SBI smart buy in at 10:05 UTC analytically projecting the market had bottomed out."
-    publishedDateTime: 2021-12-07T13:35:00Z
-    webUrl: "https://www.linkedin.com/pulse/8-btc-hike-more-success-quantum-inspired-machine-learning-analytics-/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 28
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGkVjVWv9QVRQ/article-cover_image-shrink_720_1280/0/1638883660386?e=1644451200&v=beta&t=Q28KlvXruiD0rqji3aGaHN6tl7RBbz5uNOGPBlMfhRc"
-        width: 761
-        height: 720
-        isCached: true
   - title: "Cognitive Analytics Market to Be Worth $48 Billion By 2026"
     excerpt: "Polaris Market Research anticipates a 37.3 compound annual growth rate for cognitive analytics solutions worldwide for the next five years."
     publishedDateTime: 2021-12-08T05:00:00Z

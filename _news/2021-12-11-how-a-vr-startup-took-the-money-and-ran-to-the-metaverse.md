@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/metaworld-nft-metaverse-dedric-reid-clubh
 webUrl: "https://www.engadget.com/metaworld-nft-metaverse-dedric-reid-clubhouse-discord-170052007.html"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Engadget
@@ -41,20 +41,6 @@ related:
       - url: "https://img.caixin.com/2021-12-10/163913795584429_560_373.jpg"
         width: 560
         height: 373
-        isCached: true
-  - title: "Wonder Dynamics, Startup Building AI Tools for Film and Metaverse Founded by Ready Player One Star Tye Sheridan, Raises $9M Series A Round Led by Hori"
-    excerpt: "Wonder Dynamics, a startup developing AI powered production tools, announced today it has raised $9 million in what it called a"
-    publishedDateTime: 2021-12-10T22:21:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=586288"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "GLovb3k5GLBf4oLeEkvUvS/SMSmcffcet02nueDyBjfFBLIcsp66eciSPDoEtzXH2fprABj+Kwh/+cto1gKKfMCgsQSYlS0FKPpHeFX7fUa3xhka7b6t0pPa8VCek/jmwagEMEfKkoP0+x12ynSo+zju+rntnTVv6mYN9Qi+VayacwgAfqZqRth0GZqBCshkT675y0VQYujnN99DrmEMJu6HWlWv8Y0uQt1czBg0fqlGYGHyXhi7+tCC3s9Kw108LxAcrfP/Ffeqnh+VcS1ilJq7GYVK40TTSjLRxh5wfwK/2EK6iXYh1ygmFmQYaBjDfK+dYY2KL0dd7FquO73GhdC/xf38PxLe7GFXvksLa+LQLw140XehuAwnS1s7BL0cXePYfLyh17GIKwa4wy5HGTdyRn2Z7koUArERCj4BfBL/vg1JkqW3kRTgSiJOzItsYkklnzO7fn5X5W/3BK72j8w0Ad0b8XsueU6o5Snj3zKAC4FcDmJCzzvwgQxfUKvW4GcI7Q4GgpYsgFJ554a4dg==;qyHZ0ps/NC5RvAwyzqzoKg=="

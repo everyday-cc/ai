@@ -50,20 +50,6 @@ related:
         width: 390
         height: 205
         isCached: true
-  - title: "8% BTC hike more success for Quantum Inspired Machine Learning analytics engine Quantabotics"
-    excerpt: "Perfect timing from Toridion's Quantum Inspired Machine Learning powered financial analytics \"Quantabotics\" Issues a SBI smart buy in at 10:05 UTC analytically projecting the market had bottomed out."
-    publishedDateTime: 2021-12-07T13:35:00Z
-    webUrl: "https://www.linkedin.com/pulse/8-btc-hike-more-success-quantum-inspired-machine-learning-analytics-/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 28
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGkVjVWv9QVRQ/article-cover_image-shrink_720_1280/0/1638883660386?e=1644451200&v=beta&t=Q28KlvXruiD0rqji3aGaHN6tl7RBbz5uNOGPBlMfhRc"
-        width: 761
-        height: 720
-        isCached: true
 
 secured: "X2mDV4pfWxfAAKgH+jnatZ+6LxUr88Q+qwrXBFHi+kjfHOts/CiHxJIPCCjkpV7zb2fI4PMeyt3JQCMl+Q+0UzBMxUN3trqXvcG1dQSJ7OUfWHem4dWs04m0fCmHglDef0vIvT6YFsPSfMZwbQMoWf3U6z5v3eOySGjYozMiTVMS/kUvIbLgP74ltO2rtUAv0bd/fnNmUiMNuq0e1L4N46Ij22UJ5BinjYtRB+uQTLhAyHH7zqy1Z8Y+8qBIBKHsjFqkOb2W94Zg8CZW+j+eN3axJ4x0b5ZsTXjGQThnWv6AijMKh5YgCH/r+yB2/lUfqyQCYcztXh4ja8yqXbbnm33CYqhlsnDEYTXybujieBM=;Ofaxfvmgj4pRJFialBe+Mw=="
 ---

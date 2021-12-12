@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel plans to take self-driving car unit public in the U.S. in mid-2022"
-    excerpt: "Intel has announced that it plans to list Mobileye, the Israeli autonomous driving firm it acquired for $15.3 billion in 2017."
-    publishedDateTime: 2021-12-07T14:01:00Z
-    webUrl: "https://www.cnbc.com/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 73
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1626819349"
-        width: 3500
-        height: 2334
-        isCached: true
   - title: "Intel Plans Potential $50 Billion IPO For Its Israeli Self-Driving Car Unit, Shares Rise"
     excerpt: "The tech giant said that it would take its self-driving car firm, Mobileye, public next year at a potential valuation of more than $50 billion, sources first told The Wall Street Journal. Intel originally acquired 100% of the Israeli company in 2017 for $15."
     publishedDateTime: 2021-12-07T15:27:00Z
@@ -58,22 +42,6 @@ related:
     quality: 65
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af8aa58245aba99ca728d7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3995%26cropY1%3D153%26cropY2%3D2399"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Intel to take Mobileye self-driving car unit public in 2022"
-    excerpt: "The Israeli-based company, which Intel bought in 2017 for about $15 billion, has been a standout performer for the world's top chip producer."
-    publishedDateTime: 2021-12-07T14:26:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/12/07/intel-take-mobileye-self-driving-car-unit-public-2022/6416074001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/6416074001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6416074001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/25/PDTN/d812d806-4587-43d4-8206-a77031aaa2a2-AP4979885432315477.jpg?auto=webp&crop=1199,674,x0,y15&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-futuristic-trends-growth-analysis-industry-survey-by-2026-2021-12-07"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MarketWatch
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Global Facial Recognition Market (2021 to 2026) – Industry Trends, Share, Size, Growth, Opportunity and Forecasts – ResearchAndMarkets.com"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026” report has been added to ResearchAndMarkets.com’s offering. The global facial recognition market reached a value of US$ 3."
-    publishedDateTime: 2021-12-07T13:11:00Z
-    webUrl: "https://www.financialbuzz.com/global-facial-recognition-market-2021-to-2026-industry-trends-share-size-growth-opportunity-and-forecasts-researchandmarkets-com/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "k9Bnoapw66MmNT9iJlXykJCQPHjN4MHXHvCBAJTrTMPSSrIcZzNDapmrOGx4an4o5KlSCrJtK1CfESMF8hngNPagIi6FIRKEWMzp6otSj2K9j4wKuYhVPeImleJyF8IQnIvStpsk5V0xPhLEkuA5rLr2NZPSVETw0bmyAPElwLYb8x/+maRZzD5zztwyKR0rqO4L+qpTAXPce2g78VLH1dJVvsvM1j8a0GGiPGM6+b/cjZNKUIKcL+UutcJ6bFvD2S1+yuEBPbVmk3+CwfYQ6fqAq/cwKPxC7Io1nSZKiNqqAWgLgM3+3andKvCaNYa8TQm9MGbA7XBaIqf7i0+ugCm8EO8uG7C/tFI3AkUgdP0=;2JsKdMozpR2rRd6gdxdi7A=="
 ---

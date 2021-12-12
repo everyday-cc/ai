@@ -40,20 +40,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "The Urgency of the Moment for Congress on AI and National Security"
-    excerpt: "ODNI's Corin Stone writes in the last of her series on the adaptation of Artificial Intelligence by the IC that Congress has a role to play"
-    publishedDateTime: 2021-12-07T14:54:00Z
-    webUrl: "https://www.thecipherbrief.com/the-urgency-of-the-moment-for-congress-on-ai-and-national-security"
-    type: article
-    provider:
-      name: The Cipher Brief
-      domain: thecipherbrief.com
-    quality: 54
-    images:
-      - url: "https://www.thecipherbrief.com/wp-content/uploads/2021/12/IMAGE-Capitol.jpg"
-        width: 683
-        height: 512
-        isCached: true
 
 secured: "JJsK6e2SaPAEyP7N6thaAp5Ljr+OxMPPOHuh5JpciYbdYXzv/nUrbTotujK+DTPOKVEMeFBB9AEZWsjPrB25xohLqoe5bZCFge+fIv3H9gnmpegnSr9jabDp4i+Z2E5OeUbVTnFHuBLeh7C+F86JGdyIONeGnSRds5abRcpKW4HVvp/elHRAVd3h8VI2XOTUt/CArAS1tmfcsk3/0hZDZHN7DT2AhnQzHOwwAG5k+Uot5al3i2txSlgmsAlezPrXJG8FqpTRYGAXukJpOyRjfrVEl67c65UCGiXcM9aBEM7IHt0OGiO+ETXxsaigGIZEbAw+JMrDkZ30R3tMhnILTcaJrdGUE3fI0bBGYWxwMNQ=;Nx2s/WNfONn5LnLPKs4lpQ=="
 ---

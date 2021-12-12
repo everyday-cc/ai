@@ -24,33 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "How a VR startup took the money and ran to the metaverse"
-    excerpt: "Dedric Reid has been selling his own version of the metaverse on and off for the past five years. He calls it MetaWorld and describes it as a persistent, decentralized space filled with life and change."
-    publishedDateTime: 2021-12-10T17:03:00Z
-    webUrl: "https://www.engadget.com/metaworld-nft-metaverse-dedric-reid-clubhouse-discord-170052007.html"
+  - title: "Robust Intelligence raises $30M Series B to stress test AI models"
+    excerpt: "Robust Intelligence, an AI startup that helps businesses stress test their AI models and prevent them from failing, today announced that it has raised a $30 million Series B funding round led by Tiger Global."
+    publishedDateTime: 2021-12-09T16:00:00Z
+    webUrl: "https://techcrunch.com/2021/12/09/robust-intelligence-raises-30m-series-b-to-stress-test-ai-models/"
+    ampWebUrl: "https://techcrunch.com/2021/12/09/robust-intelligence-raises-30m-series-b-to-stress-test-ai-models/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/09/robust-intelligence-raises-30m-series-b-to-stress-test-ai-models/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 52
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-12/99b33170-5848-11ec-befc-49d83b88b040"
-        width: 2560
-        height: 1310
+      - url: "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1271697775.jpg?w=1024"
+        width: 1024
+        height: 604
         isCached: true
-  - title: "Tech Insider: Baidu Enters the Metaverse, a Self-Driving System for as Little as $10,000"
-    excerpt: "Welcome to Caixin’s Tech Insider, your twice-weekly wrap on the movers, shakers and deal-makers in China’s tech scene. Baidu teases metaverse app Search giant Baidu Inc. has teased the launch of a metaverse app on Dec."
-    publishedDateTime: 2021-12-10T12:13:00Z
-    webUrl: "https://www.caixinglobal.com/2021-12-10/tech-insider-baidu-enters-the-metaverse-a-self-driving-system-for-as-little-as-10000-101816390.html"
+  - title: "FlyFin Raises $8 Million in Funding to Scale First AI Tax Engine for Freelancers and Self-Employed"
+    excerpt: "FlyFin, a fintech provider, announced that it raised $8 million total in a seed and pre-Series A round. Its namesake offering, FlyFin is the first A.I.-powered tax engine that combines the human expertise of CPAs to deliver a cutting-edge,"
+    publishedDateTime: 2021-12-09T13:41:00Z
+    webUrl: "https://www.lelezard.com/en/news-20148966.html"
     type: article
     provider:
-      name: Caixin Global
-      domain: caixinglobal.com
-    quality: 30
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 25
     images:
-      - url: "https://img.caixin.com/2021-12-10/163913795584429_560_373.jpg"
-        width: 560
-        height: 373
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "NdUlb/U1fxLH8MmuqsvgsSVXg2E3wn5IHhmB2c62KoK6/S3d1aH+ywz+LWFL31otoUQIM59jDq9wMbpn6YO9ntkfpTR0X1k9NJ7qLxf8ndLQ8N70pc9NvgsgZDVmMSzUktb/ziEobMkAEhlDL7ZjEkDVYLcpPf2POYO69GYTA7aKwNkqbbwok1bf9BSZJdicXibkRUOfLIv71HosVeb9VcVyPl5OvIaHxweXUhDfzGKeVd0xaQEKgLuEHq3BM1IhYQ3i/ccoQKMEuevW151eubuhUchp+wjwJtORERer9kRcNkNo0vv0PgmLCTRX0L1ehfrVBaHpardMJVkmtp+TcZxXpqg2VXsQ5oa9nBTYeJw=;LaHewVoFurpyTRw5r8/mxA=="

@@ -2,6 +2,83 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2021-09-14-ai-hampered-by-public-perception-ethics-concerns.md",
+      "title": "AI hampered by public perception, ethics concerns",
+      "excerpt": "A panel of experts thrashed-out key barriers facing the development of AI products and features in Russia and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/01/Artificial_Intelligence_Robot_Generic_SS-e1607946380220.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns/amp",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/ai-hampered-by-public-perception-ethics-concerns/amp",
+      "publishedDateTime": "2021-09-14T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-14-neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market.md",
+      "title": "NeuReality collaborates with Xilinx to deliver NeuReality's novel AI-centric server to the market",
+      "excerpt": "NeuReality, an Israeli AI startup developing high performance AI compute platforms for cloud data centers and edge nodes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n22933078/neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n22933078/neureality-collaborates-with-xilinx-to-deliver-neurealitys-novel-ai-centric-server-to-the-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-14T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-14-healthcare-natural-language-processing-nlp-market-to-witness-huge-growth-by-2028-oracle-corporation-hewlett-packard-co-cerner-corporation.md",
       "title": "Healthcare Natural Language Processing (NLP) Market to Witness Huge Growth by 2028 | Oracle Corporation, Hewlett-Packard Co., Cerner Corporation",
       "excerpt": "The report does include most recent post-pandemic market survey on Healthcare Natural Language Processing (NLP) Market. Competition Analysis : Oracle Corporation, Hewlett-Packard Co., Cerner Corporation,",
@@ -998,92 +1075,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials.md",
-      "title": "Futuristic AI-Based Computing Devices: Physicists Simulate Artificial Brain Networks With New Quantum Materials",
-      "excerpt": "Pandemic lockdown forces a new perspective on designs for futuristic AI-based computing devices. Isaac Newton’s groundbreaking scientific productivity while isolated from the spread of bubonic plague is legendary.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/",
-      "originalUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Complex-Emergent-Behaviors-777x466.jpg",
-          "width": 777,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/futuristic-ai-based-computing-devices-physicists-simulate-artificial-brain-networks-with-new-quantum-materials/amp/",
-      "publishedDateTime": "2021-09-14T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-14-growing-demand-for-deep-learing-through-neural-networks-is-driving-the-demand-for-the-market.md",
-      "title": "Growing demand for deep learing through neural networks is driving the demand for the market.",
-      "excerpt": "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to be driven owing to extensive rise in the big data analytics, emergence of the deep learning through neural networks and cognitive analytical procedures in various verticals including IT & Telecommunication,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/deep-neural-networks-market-research-report-by-product-global-forecast-to-2027-cumulative-impact-of-covid-19key-player-are-oracle-microsoft-ibm-qualcomm-intel-ward-systems-starmind-neural/",
-      "originalUrl": "https://manometcurrent.com/deep-neural-networks-market-research-report-by-product-global-forecast-to-2027-cumulative-impact-of-covid-19key-player-are-oracle-microsoft-ibm-qualcomm-intel-ward-systems-starmind-neural/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/09/1-17.jpg",
-          "width": 700,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/deep-neural-networks-market-research-report-by-product-global-forecast-to-2027-cumulative-impact-of-covid-19key-player-are-oracle-microsoft-ibm-qualcomm-intel-ward-systems-starmind-neural/?amp=1",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/deep-neural-networks-market-research-report-by-product-global-forecast-to-2027-cumulative-impact-of-covid-19key-player-are-oracle-microsoft-ibm-qualcomm-intel-ward-systems-starmind-neural/?amp=1",
-      "publishedDateTime": "2021-09-14T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

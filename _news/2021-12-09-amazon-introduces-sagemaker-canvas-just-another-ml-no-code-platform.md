@@ -68,20 +68,6 @@ related:
         width: 472
         height: 315
         isCached: true
-  - title: "Amazon SageMaker Studio Lab from the Eyes of an MLOps Engineer"
-    excerpt: "Invent 2021 conference, an announcement from Swami Sivasubramanian, Vice President for Amazon AI, caught my attention — the launch of Amazon SageMaker Studio Lab. Since the initial launch of the Amazon Machine Learning service at re:Invent 2015,"
-    publishedDateTime: 2021-12-07T14:00:00Z
-    webUrl: "https://thenewstack.io/amazon-sagemaker-studio-lab-from-the-eyes-of-an-mlops-engineer/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 39
-    images:
-      - url: "https://cdn.thenewstack.io/media/2021/12/b223e448-sagemaker-lite.png"
-        width: 603
-        height: 352
-        isCached: true
 
 secured: "Li8c9kJFPvsxJ9Lh0kwenMf6ia/PN3oOV7MGmxqWmOQQBsr7erXt8ezRyN61SlLZ6DHJ/5H1Oi2iV21DftZ3+E9cW+X7bRS0JLNfhf1M+b25hvxc8d5eB+Ql55/fHI2CqvkYeQbLK24iQJb4D7meZNEvmODnb3sPzc7Iv+y5NJvOZYd6p3XXrWUl6NYx2Q7aIzK4IaAjiZs8nP635j7mxg+kWA4+BqQl8FonJQY39yjenAaza4M6NIfE8GTqDFZ/XO8UEgZPf4OOI2ohiUtTa3RYHKRZOkHf3X2sVqrv97+enfHCtZkbOFMshp7by6a+p1sbB47aEiKLkk72HC+/N8hr9PKBoriIhYsVYtOUjZA8EcCWQEPVCkvOtLag6IWGmQJQ1Ltj02mviZh/1I2pJAXPgKTHl8xmv6JTUfPcg41HXGsmyDglWBZHNZHyXfl6wMekuJrngEza5PIJxH1tEymYKjxsgR5j85aM1dX50EX1P37Yts+n3Bttbr2pu2SKz15xwKI4aSl5hct0Oumlog==;F8j/6Z+5qqZ2jENLBLbu+w=="
 ---

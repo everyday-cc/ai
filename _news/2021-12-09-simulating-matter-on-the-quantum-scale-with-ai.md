@@ -7,7 +7,7 @@ originalUrl: "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum
 webUrl: "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI"
 type: article
 quality: 189
-heat: 279
+heat: 269
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/b69676836265b32ca94f94801caf39999a7daa54/2021/12/11/7d39977b-c3b3-40d2-bc7b-6906cbf57ec4/grow-sign-nyc-june-2021-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 1600
-        isCached: true
-  - title: "The therapists using AI to make therapy better"
-    excerpt: "Researchers are learning more about how therapy works by examining the language therapists use with clients. It could lead to more people getting better, and staying better."
-    publishedDateTime: 2021-12-07T13:16:00Z
-    webUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/"
-    ampWebUrl: "https://www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/06/1041345/ai-nlp-mental-health-better-therapists-psychology-cbt/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 76
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/11/Unknown-2.jpeg?w=3000"
-        width: 3000
-        height: 1687
         isCached: true
   - title: "The power of AI can be unleashed with a focus on ethics"
     excerpt: "An EY survey reveals the public’s concerns around the growing use of artificial intelligence – but also the opportunities for organisations that take the right ethical approach."

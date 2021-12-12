@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/customer-experience/natural-language-program
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Urgency of the Moment for Congress on AI and National Security"
-    excerpt: "ODNI's Corin Stone writes in the last of her series on the adaptation of Artificial Intelligence by the IC that Congress has a role to play"
-    publishedDateTime: 2021-12-07T14:54:00Z
-    webUrl: "https://www.thecipherbrief.com/the-urgency-of-the-moment-for-congress-on-ai-and-national-security"
-    type: article
-    provider:
-      name: The Cipher Brief
-      domain: thecipherbrief.com
-    quality: 54
-    images:
-      - url: "https://www.thecipherbrief.com/wp-content/uploads/2021/12/IMAGE-Capitol.jpg"
-        width: 683
-        height: 512
-        isCached: true
   - title: "New Center for Artificial Intelligence"
     excerpt: "The new centre conducts basic and application-oriented research on the topic of artificial intelligence (AI) that covers the entire"
     publishedDateTime: 2021-12-09T08:20:00Z

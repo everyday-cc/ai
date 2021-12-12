@@ -1,18 +1,15 @@
 ---
 category: news
 title: "Fordham University Hosts Global Ethical Vision AI Conference"
-excerpt: "On November 29th, Fordham University hosted a conference entitled, “ Ethical Vision Artificial Intelligence: Creating an Effective AI Com"
-publishedDateTime: 2021-12-03T11:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-new-york-artificial-intelligence-fordham-university-36ff5280f33249e1985b48cd8470d2f9"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-new-york-artificial-intelligence-fordham-university-36ff5280f33249e1985b48cd8470d2f9"
+excerpt: "guests and employees by identifying security and safety threats in real-time by exploiting the power of AI-based face and object recognition technologies. Mr. Nicolls presented a scale of ..."
+publishedDateTime: 2021-12-03T11:27:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/fordham-university-hosts-global-ethical-vision-ai-conference/article_82a21bbc-cb73-5769-aa90-a5076767871e.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/fordham-university-hosts-global-ethical-vision-ai-conference/article_82a21bbc-cb73-5769-aa90-a5076767871e.html"
 type: article
-quality: 56
-heat: 56
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Computer Vision
@@ -20,11 +17,11 @@ topics:
   - AI Ethics
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg"
+    width: 350
+    height: 456
     isCached: true
 
-secured: "YDNIzB+C3iwaXsA1dUhCPQ4MjNTjL2893TZ71LnCziaSx5rjBo4XDQUNi+59LkYktqbvH9X9nmbZCvRTUfmYSTOiYJ0egm9mrFM31V4TO6AVPUzEklNlvvhmqwdlDt+xFRp/mGLMhr3HhxnJPl2nrehAc9VUye+d7nTNXnvFxkWQ9byt62HqjTrB4E67mpdh+v+lJlMeMzTRqVTvBqkYT8o36fmGyAY+J4EuMi27kD2WLp9jVbtTZyjEdeHhykMApIesYVf8zyq8joNxtR55+9mUnObuv6S0QmrQD3s3Dcw5skEvB0FfP3x6YMd1nE4/r1WRzHMBg9TYSwN5Y24j4MmlPsaiWjZQ5tnlVnWMPks=;hV4vyvUz7ObyRCEyXn6AUA=="
+secured: "81ffLDySSjy+VHTCwWScbY8MMrzQmLenrSDyUG4ZMp/n0aYGbz+yGoZZR0isy/edrI7U8ssHPbYOdTsb29SCtVLVyZVhYrvAt0Z/mcmMecnXniF+CaW/TStJ4fPYk4Uhl/TGUIpd1FTxHkPfulL2ZYFljwY9B4zkiNQp4iQRtSdoBm67mP1d7+x68bNxmCnG4rus0UrR/6WmlLg6oESJ8bYw9+EBewRPULtsgOSZ9I7CtOzootHdsztgCEwrmWRznDScCdwKT0SJxo2+hm1uXG9Hul9O6U9/kPNFJ8RJrxUkRw/lg++miGbt9LrpPlzvwuqSIZIAEwBSY8Nf+tM2/iFGYrTd/6syDsYZobwHq68=;Y4FqysmA7fvSwr79KWpIew=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learni
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -77,20 +77,6 @@ related:
       - url: "https://hbr.org/resources/images/article_assets/2021/12/Picture1.png"
         width: 735
         height: 410
-        isCached: true
-  - title: "VOICE 2021 Brings Leading Artificial Intelligence Brands to Arlington National Landing, December 7-8"
-    excerpt: "VOICE 2021, the industry's leading voice, AI, and ambient computing ecosystems event opens today in Arlington, VA. The summit is being relocated to National Landing from New Jersey, where it attracted 7,"
-    publishedDateTime: 2021-12-07T13:32:00Z
-    webUrl: "https://www.lelezard.com/en/news-20143648.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "tMc9rATn1CSzIu6iflci12qlomiv3+6HxiSh2BiAuopfxWt7kVukEs0KdHPRzKdbDkbtsMvbSqQrTr04SyyAKBDCCb2BXnwT1Ka2u0oXuKFSQqYiTnkTs7K+GUlQO2+HYeg7egkLwv57qngPJD801iiuVlkSJ8upTiM5u1omZ1rLImU3uXLkrewuAR1RPJp0qrwCqY7o8/EFs8Pj/36AsabhiONTU3Sl9zGgmyA04G72tFPHuHQyZXQEDxP6OGjdjwsqNhH1kZzk2Gu/eQ4NlzcUuERUxxQDn62/bTGoN5R48pI467v32mzIpUpLts2TqyF8ZKGULo5kPT4TtA59MUTPSNvctYXO7hFsJN3tlAi0JcTDS1iCx7uZm9wzcLOhyOvR8T3yqhruZEdXg1oYRJ8W9T99e8rBsPZqyjtzVpXwOd+ZeHye59vXXmpT4ubJLXLFEgmgy76N+gB6IeJ5QxGhHzB775VRebwUoXSFzHsqSu9pxrhqtKVLJ5rEIXyq+tbjbZUvgrE9Wpm+qBLIOg==;e08wOzB/oop52Hp3CsDp/A=="

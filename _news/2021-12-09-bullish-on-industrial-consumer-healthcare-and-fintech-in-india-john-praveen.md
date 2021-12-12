@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/markets/expert-view/bullish-on-industria
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/amp_articleshow/88186185.cms"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Hindu Explains | Facial recognition tech in Indian airports"
-    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
-    publishedDateTime: 2021-12-07T14:08:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 54
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Explained | Facial recognition tech in Indian airports"
     excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
     publishedDateTime: 2021-12-08T08:06:00Z

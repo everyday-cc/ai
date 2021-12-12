@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/08/natural-language-processing-is-sh
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/natural-language-processing-is-shaping-intelligent-automation/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "Popular Trends of Intelligent Automation One Should be Aware of"
-    excerpt: "Augmenting RPA with AI technologies broadens the scope of business process automation to nearly any scenario—cognitive bots can reason and"
-    publishedDateTime: 2021-12-07T14:13:00Z
-    webUrl: "https://www.cioapplications.com/news/popular-trends-of-intelligent-automation-one-should-be-aware-of-nid-8900.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 24
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/f1qz1450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "kpSjd45s35qfQe2HHX66Kq1d2O70YDv2+XHcSsxqinCkRknDR5Te4w5cMXioYG0+bXRlSs4Y6fdnwppKh06wwtBP4ifkhzro2YfZguA+tHCzcWp00BwhCg5N1NTE3S41ZydKiKvWYOfzTo/mwZSQEW1zpseuu6JYcAWVIgYV+2nJpey4WTcAh1bgLJK8IISlTWamwNFNxmDGKsHUrOE+2DZD9AQbpCu9C+h/aenJahqzOA/PfFBXM9Fyi9nnlBIpeRc21wkPnbhHwqiYxxPTp+ElP5PyfIh6iK9s5wo2CRn0eQ8cvb2muXMBmy/pFP1pRj4Ca8n6hiIr6ONBniiNge4Jt5t2Huu0IFeYOx2bjOLJ2godnUvzuGPPyKDV9kjZblvSprQGsZT2OM50iIVEBHnAtbZ22S2UamO11BThaUZC4juv4hPcKhCTOuFjG6YHhNWIrVklFASsQRXc529Gj0VXSEDHqGmZsItIpz5nziTUL1O/LLpsm7+wGB+iBNU+mMKZJehKshL3eW03JhQREQ==;wDoNZ1q16frMacjm4ANHgQ=="
 ---

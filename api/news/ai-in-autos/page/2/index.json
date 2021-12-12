@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-11-26-193-countries-adopt-the-first-global-agreement-on-the-ethics-of-artificial-intelligence.md",
+      "title": "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence",
+      "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
+      "originalUrl": "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.daily-sun.com/assets/news_images/2021/11/26/UNESCO.jpg",
+          "width": 830,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
+      "cdnAmpWebUrl": "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
+      "publishedDateTime": "2021-11-26T02:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sun",
+        "domain": "daily-sun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-baidu-begins-commercial-robotaxi-services-in-beijing.md",
       "title": "Baidu begins commercial robotaxi services in Beijing",
       "excerpt": "Baidu received the country’s first permit for commercial robotaxi services, a major milestone for Chinese self-driving car industry.",
@@ -1338,49 +1382,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-we-tried-teslas-full-self-driving-heres-what-happened.md",
-      "title": "We tried Tesla’s ‘full self-driving.’ Here’s what happened",
-      "excerpt": "When a dozen small children crossed in front of our Tesla with “full self-driving,” I had good reason to be nervous. I’d spent my morning so far in the backseat of the Model 3 using “full ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/",
-      "originalUrl": "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/",
-      "publishedDateTime": "2021-11-18T23:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

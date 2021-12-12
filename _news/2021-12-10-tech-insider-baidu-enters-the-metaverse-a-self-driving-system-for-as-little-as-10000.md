@@ -39,20 +39,6 @@ related:
         width: 2560
         height: 1310
         isCached: true
-  - title: "Wonder Dynamics, Startup Building AI Tools for Film and Metaverse Founded by Ready Player One Star Tye Sheridan, Raises $9M Series A Round Led by Hori"
-    excerpt: "Wonder Dynamics, a startup developing AI powered production tools, announced today it has raised $9 million in what it called a"
-    publishedDateTime: 2021-12-10T22:21:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=586288"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "MU1md7Q6U+uyClLKfRKx283IvmGbT9JX9NX35t4is5TDs4EDhoktuTvHLOC/9sq/Elkl1VgVRVhW/DQUnSHl8QydZCfnZ2+Bh/P7RsBuL+HTyR+i+UNtiXSs+PgwFc9mhwARVk7t/6fF4q8DdrM8XS+ivoA6MOZU7uLP2JoVY9CbnIt4TA4pz7VDn3QCmxK9mL45zMvA80bG85GRi8g/xlTp+aP3Pbhorh5ExQvZgZ5JR2OmLOWqiJdV0eebXw2SMQmee6DBeQnugwfqpYIyW7CKSyoydf2BGvFJB1gZxedrkzngJt1kdaxdxqU7HA0pDppZZRTmYgZSbuEzxAoQ9WG8caRkAV2SgfyNtuptszsxftXFWBi37HVc8B8xCqEL8KHx+fGyA7/8xqLCGgP7RsbgfLqyuNOMvB/pjSFyejVeCh/QnlvJ62alp2pU+2ZikDfLHa+o70IHlEKFHfJlCNwKu4fPYjqSbZ+RONSF+HjC9whMiVrnHdLJ2lV1fTbUO2IoXl330w/YsjtWbXEc1g==;OdWqOblbQmSuH1oTIZs7MA=="
 ---

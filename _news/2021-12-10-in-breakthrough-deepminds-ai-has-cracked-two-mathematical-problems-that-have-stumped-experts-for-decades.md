@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How DeepMind’s AI Helped Crack Two Mathematical Puzzles That Stumped Humans for Decades"
-    excerpt: "Machine learning is aiming at the core of mathematics—a science for spotting patterns that lead to theorems about how our world works."
-    publishedDateTime: 2021-12-07T15:00:00Z
-    webUrl: "https://singularityhub.com/2021/12/07/how-deepminds-ai-helped-crack-two-mathematical-puzzles-that-stumped-humans-for-decades/"
-    ampWebUrl: "https://singularityhub.com/2021/12/07/how-deepminds-ai-helped-crack-two-mathematical-puzzles-that-stumped-humans-for-decades/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/07/how-deepminds-ai-helped-crack-two-mathematical-puzzles-that-stumped-humans-for-decades/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 66
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/12/DeepMind_AI_1638533244181.jpg"
-        width: 1068
-        height: 601
-        isCached: true
 
 secured: "pP2F6BVQsDl1Nz2KH7HgAul9v/D4uNvoQHXgoFaDpsI3B99ZAYeCB/BU057kexlOalJzJnmSrIeArm1AupV4qRNXNS28Fa8vSrcWGgxLoPo9NqOvLyK6k0cQ2KK3Ift0ypjJv8UYYjzecBW8azZ3CSp5Rfw/eNf8uQzZ4cW0nzzRj4xVFMtPI5NKwjEkNywaIKLhShDD8m2WRoVOUC5XfW+7f5rUp2NQFd9qsOU0yIdUqEmedZ9xTd1wUw3khiPuZNIJjS5XtdQ3y4x4v1XDHsXiNOGQFZWjgLLsKUoK/dvaAQg0jwc8Wj7EQZpgRq7l7YnFKY9Lg9jG+qzs/2TS5Na5TahISQu465g1I58qsAaWbfUu3nCJJLGVXd8pSD7DZmP5qkR/6lelNgSvIKpjKbYmmwvK32rMkDobMtYWqDC5J8GmnC0Fv++jbS5f35PGS7B0DshEJ+KBJq5DB67KGpilSzvZci5oW/dPsWeiDWpT/Snp+sB7VtkjgLcvDsPToWZTjh7WlCA7Nu4QhB3g8A==;1kEuuVx7ZVzBycstAUz6mg=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "The Hindu Explains | Facial recognition tech in Indian airports"
-    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
-    publishedDateTime: 2021-12-07T14:08:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 54
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
-        width: 615
-        height: 384
-        isCached: true
   - title: "TruBoard & Biz2X Join Hands to Innovate Indian FinTech Market"
     excerpt: "TruBoard, a FinTech start-up ventures into innovative partnership with Biz2Credit to organise the latter’s digital lending platform Biz2X in India. This partnership is likely to provide end-to-end digital flow for TruBoard customers,"
     publishedDateTime: 2021-12-10T10:39:00Z

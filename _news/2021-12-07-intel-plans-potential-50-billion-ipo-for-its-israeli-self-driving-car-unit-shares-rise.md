@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 145
+published: true
 
 provider:
   name: Forbes
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel plans to take self-driving car unit public in the U.S. in mid-2022"
-    excerpt: "Intel has announced that it plans to list Mobileye, the Israeli autonomous driving firm it acquired for $15.3 billion in 2017."
-    publishedDateTime: 2021-12-07T14:01:00Z
-    webUrl: "https://www.cnbc.com/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 73
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1626819349"
-        width: 3500
-        height: 2334
-        isCached: true
-  - title: "Intel to take Mobileye self-driving car unit public in 2022"
-    excerpt: "The Israeli-based company, which Intel bought in 2017 for about $15 billion, has been a standout performer for the world's top chip producer."
-    publishedDateTime: 2021-12-07T14:26:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/12/07/intel-take-mobileye-self-driving-car-unit-public-2022/6416074001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/6416074001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6416074001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/06/25/PDTN/d812d806-4587-43d4-8206-a77031aaa2a2-AP4979885432315477.jpg?auto=webp&crop=1199,674,x0,y15&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Intel plans to take self-driving car unit Mobileye public: Report"
     excerpt: "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters."
     publishedDateTime: 2021-12-07T20:45:00Z

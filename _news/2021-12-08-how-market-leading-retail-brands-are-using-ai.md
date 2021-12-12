@@ -72,20 +72,6 @@ related:
         width: 735
         height: 410
         isCached: true
-  - title: "VOICE 2021 Brings Leading Artificial Intelligence Brands to Arlington National Landing, December 7-8"
-    excerpt: "VOICE 2021, the industry's leading voice, AI, and ambient computing ecosystems event opens today in Arlington, VA. The summit is being relocated to National Landing from New Jersey, where it attracted 7,"
-    publishedDateTime: 2021-12-07T13:32:00Z
-    webUrl: "https://www.lelezard.com/en/news-20143648.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "Jx0ZD6D9X8BA1QAjWajghV4bmoKZUA3AYApmJyAcGKcdnDU7FXUi6pTcYTRN4CXmq/y6lr4zvkmSRYaoJSRI4oijFOjUDdtfjQRt66W039pliHWU8Vd29n+ySdEvOH0mCeZrXVvZJOXYaQW9BolmI/OwTaHVtsGGG7+8KwxvwxH1n1ksARLIpVV8Cv0MSZ2+esej+b486BqatJ8xzI8DWt6SMaG0oraMEHPoedbuogI86iDHUcyFmAAuVIf/SGWi2dXL31GShu3MaXE0T+Tdvp/qB8jh6x07Bg6/iH6P/Izk8nEPYm8tc9KUuN0uSc7ESAIHQ1bMztjkCEWYl5HE4DmlOozyNxPQpfsP0pGtkYAshMRdqVjbj1oiTnkonVntiFdLiLMSpC1W1qQvCkV8PXltlqQxUcHc6XR8luDi8siQDTQ+Q9PBMOkq0aCp6cEGaJg5Zu/uKor7dcwvxTjPFmKjbzBIjN6EtK6yWwOD09N5dwG5VuAoDv8r0XXyEDjyBMe8/5bDWvsCHMPIX8stvQ==;FWR3pRblg3fLHz1Qyq+DEA=="
 ---

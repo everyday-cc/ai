@@ -23,17 +23,6 @@ images:
     height: 1700
     isCached: true
 
-related:
-  - title: "SoundHound Inc. Named Frost & Sullivan Best Practices Company of the Year in Automotive Voice AI"
-    excerpt: "According to Frost & Sullivan, the Best Practices Company of the Year Award is reserved for companies at the forefront of innovation and growth in their respective industries. These companies consolidate their leadership positions by innovating and creating new products,"
-    publishedDateTime: 2021-12-07T14:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-soundhound-inc-named-frost-sullivan-best-practices-company-/2021/12/07/9506367.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
-
 secured: "3HwRF3TblCvHwEOI1N6bp51RJLtGj5NrLtx8mYZgPN7d7GMd5NCaXh5aTK+qDHKfmH98QbzxW5HwAQouKUwcpVDZPP/8+LKKp8zfq6L3nUrUxB5mUKOB2IWl9uj9KFxJ9h0p2PDshTNjhZhf+FFPegnDR8KjeKCPO0QnZze4YXqpblaXstJZhO4ZWRJauYWDJQosvbT+uyZDXUIsM+WGyb9+ibrGXCzAk//tWkiiTrJLbl4kSWcSS0sZzU34Z/GGsmgJhAD9KZNbKf6uYhfg8PL5pfmebx5VMgYzzsfMvf1thxTpgK2tSnsDpjP/WhhV37Qh2QvFCZM1ZtyXXhuSjUz2KeYkx9NwSADRV1X6wB0=;ez0Y0wglyuquHSdjhI75nQ=="
 ---
 

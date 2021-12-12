@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mrt.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in
 cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
 type: article
 quality: 59
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -112,20 +112,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/kokomotribune.com/content/tncms/assets/v3/editorial/8/44/844c6c15-f422-577f-90fe-7a4ec856221f/61afbf6187512.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Stellantis wants to outfit cars with AI to drive up revenue"
-    excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
-    publishedDateTime: 2021-12-07T13:45:00Z
-    webUrl: "https://apnews.com/article/technology-business-software-dd09c1d97485e02a7d33dc0b426b2001"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://storage.googleapis.com/afs-prod/media/8ace94a4da9546028e182b0e1b7af7bb/3000.jpeg"
-        width: 3000
-        height: 2000
         isCached: true
   - title: "Stellantis plans rollout of Level 3 automated driving in 2024"
     excerpt: "Level 3 tech will be rolled out across the automaker's full portfolio, Joachim Langenwalter, head of artificial intelligence, software and hardware said."

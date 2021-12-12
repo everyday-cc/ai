@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newscientist.com/article/2300657-deepmind-experiment-sho
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How DeepMind’s AI Helped Crack Two Mathematical Puzzles That Stumped Humans for Decades"
-    excerpt: "Machine learning is aiming at the core of mathematics—a science for spotting patterns that lead to theorems about how our world works."
-    publishedDateTime: 2021-12-07T15:00:00Z
-    webUrl: "https://singularityhub.com/2021/12/07/how-deepminds-ai-helped-crack-two-mathematical-puzzles-that-stumped-humans-for-decades/"
-    ampWebUrl: "https://singularityhub.com/2021/12/07/how-deepminds-ai-helped-crack-two-mathematical-puzzles-that-stumped-humans-for-decades/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/07/how-deepminds-ai-helped-crack-two-mathematical-puzzles-that-stumped-humans-for-decades/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 66
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2021/12/DeepMind_AI_1638533244181.jpg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "In breakthrough, DeepMind's AI has cracked two mathematical problems that have stumped experts for decades"
     excerpt: "For the first time, the technology has been used to identify mathematical connections that have eluded researchers for decades."
     publishedDateTime: 2021-12-10T03:19:00Z

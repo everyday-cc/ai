@@ -2,6 +2,110 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-12-01-swimming-australia-making-gold-medalists-with-machine-learning.md",
+      "title": "Swimming Australia: Making Gold Medalists With Machine Learning",
+      "excerpt": "For Swimming Australia, a more unified view of data was essential to optimizing athlete performance at the Tokyo Olympic games—and bringing home nine gold medals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a556232a037d3c244a6212%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/11/30/swimming-australia-making-gold-medalists-with-machine-learning/amp/",
+      "publishedDateTime": "2021-11-30T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-3-ways-ai-and-machine-learning-can-transform-public-agencies.md",
+      "title": "3 Ways AI and Machine Learning Can Transform Public Agencies",
+      "excerpt": "Over the past decade, Artificial Intelligence and Machine Learning (AI/ML) have moved from the realm of science fiction into the corporate and governmental mainstream. But while executives know what AI/ML is on a conceptual level, fewer leaders understand ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/resources/227974/3-ways-ai-and-machine-learning-can-transform-public-agencies",
+      "originalUrl": "https://www.infoworld.com/resources/227974/3-ways-ai-and-machine-learning-can-transform-public-agencies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-using-artificial-intelligence-to-advance-energy-technologies.md",
       "title": "Using artificial intelligence to advance energy technologies",
       "excerpt": "Hongliang Xin, an associate professor of chemical engineering in the College of Engineering, and his collaborators have devised a new artificial intelligence framework that can accelerate discovery of materials for important technologies,",
@@ -1080,101 +1184,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay.md",
-      "title": "Portugal’s ‘Predictive maintenance’ startup Stratio pulls in a $12M Series A round led by Forestay",
-      "excerpt": "The fleet management industry needs to be able to predict when a truck or a van is about to break down. Not only does this prevent millions in lost revenues, it also has huge implications for supply chains.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/",
-      "originalUrl": "https://techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Stratio.jpeg?w=660",
-          "width": 660,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/29/portugals-predictive-maintenance-startup-stratio-pulls-in-a-12m-series-a-round-led-by-forestay/amp/",
-      "publishedDateTime": "2021-11-29T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-how-cognitive-computing-can-be-used-in-real-life.md",
-      "title": "How Cognitive Computing Can Be Used in Real Life",
-      "excerpt": "Cognitive Computing refers to the next generation of computing ... Assessment of risk: Risk management in financial services entails analyzing market trends, historical data, and other factors to forecast the degree of uncertainty associated with an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/news/how-cognitive-computing-can-be-used-in-real-life-nid-34683-cid-166.html",
-      "originalUrl": "https://www.cioreview.com/news/how-cognitive-computing-can-be-used-in-real-life-nid-34683-cid-166.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/news_new/sliderimage/ryv82.350.jpg",
-          "width": 300,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T22:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
