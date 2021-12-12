@@ -1,25 +1,48 @@
 ---
 category: news
-title: "Community of ethical hackers needed to prevent AI’s looming ‘crisis of trust’, experts argue"
-excerpt: "A global hacker “red team” and rewards for hunting algorithmic biases are just some of the recommendations from experts who argue that AI faces a “tech-lash” unless firm measures are taken to increase public trust."
-publishedDateTime: 2021-12-09T19:34:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/936808"
-webUrl: "https://www.eurekalert.org/news-releases/936808"
+title: "Community of ethical hackers needed to prevent AI's looming 'crisis of trust', experts argue"
+excerpt: "The Artificial Intelligence industry should create a global community of hackers and \"threat modelers\" dedicated to stress-testing the harm potential of new AI products in order to earn the trust of governments and the public before it's too late."
+publishedDateTime: 2021-12-09T19:00:00Z
+originalUrl: "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.html"
+webUrl: "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.html"
+ampWebUrl: "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.amp"
 type: article
-quality: 25
-heat: -1
-published: false
+quality: 163
+heat: 183
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
-  - AI in Autos
   - AI
   - AI Ethics
 
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ethical-hacker.jpg"
+    width: 2880
+    height: 1920
+    isCached: true
+
 related:
+  - title: "Secretive AI Companies Need to Cooperate With Good Hackers to Keep Us All Safe, Experts Warn"
+    excerpt: "Such a call to action is needed, the authors argue, because of the growing mistrust between the public and the software developers who create AI, and because current strategies to identify and report harmful instances of AI are inadequate."
+    publishedDateTime: 2021-12-09T23:00:00Z
+    webUrl: "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849"
+    ampWebUrl: "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 76
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8e3899c1ccbdc7eeafc2c711e7db050d.jpg"
+        width: 800
+        height: 445
+        isCached: true
   - title: "Community of ethical hackers needed to prevent AI’s looming ‘crisis of trust’"
     excerpt: "A global hacker “red team” and rewards for hunting algorithmic biases are just some of the recommendations from experts who argue that AI faces a “tech-lash” unless firm measures are taken to increase public trust."
     publishedDateTime: 2021-12-11T19:34:00Z
@@ -35,6 +58,6 @@ related:
         height: 442
         isCached: true
 
-secured: "yWdYCXEfgFuMj19lrEtyiF+BPXhRuqJIuYVvT1+RDnzoVuPPRWgeO/h9KBDJCziEd5I4YHIf/LJZbMZDmpdJQSxuUG5GygleA52jZnbtTFid+KIE+8MWrmA76n7hiZaj0LbvIhbkvReXbLh8v60xuIsD72C7FapLc0GUYWZbbc88ox4wOAijBA6CAHSU+PXzi5BzRj7Qn0uA9jrhnafKNfNErAj8HrKhfOG6JYNHEMo+V1jUW+JlGVFLWn+KwB2SjaMuif4nZo4qxWEjNgVZCz2L1plQ9EzcAIrfHB6YDFHluUX7hBmM2yGYpJL3sR1Z1thktKir/ZDLGb/KXOYle+WGIjjt0ZVZETZVSrUddag=;rwPgJdhn1oODCMoeIvHinw=="
+secured: "osESa9NlQ2ybwxSXTHA5QvML0q5RYYyNwAtMGYs15M9zinvcI8+vfPp+xcACyWD6xtsfX1Xqod9k98lHzJbGLnaAVRJ5GSxgqLAPnmdc6Qtkxc0GgUVhj3Xf3aIOA/h0amF6jM47Y53njYu1OSrcM7ZlJRip5N/YzBNKjd/U66hGUuS4yWGbzB4+Crkh0cHnA27VwI4lnDn4vujhY6gdeynpntlIdaBHdPzpgd/z4zqzLT8BZZrV59B3hh5IHbdYOCA36XJCf1BAkhgM4/x12feQNlXxIBsNTRbIqJUTPo98fOSuV5ly7QQD9C5wPO7CpaW3vQ0yjOgS8+l6n08UjsdhzVOR//uDDW6ZwuTSd0o=;EJLsccUH8esR02ugk0qapQ=="
 ---
 

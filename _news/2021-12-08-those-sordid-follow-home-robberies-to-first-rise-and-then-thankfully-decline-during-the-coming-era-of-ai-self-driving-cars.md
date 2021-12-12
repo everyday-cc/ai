@@ -105,20 +105,6 @@ related:
         width: 750
         height: 340
         isCached: true
-  - title: "How artificial intelligence is changing the mergers and acquisitions process"
-    excerpt: "Babst Calland's W. Dane Fennell and Christian A. Farmakis dive into how AI is transforming due diligence in the legal marketplace."
-    publishedDateTime: 2021-12-07T22:30:00Z
-    webUrl: "https://www.sbnonline.com/article/how-artificial-intelligence-is-changing-the-mergers-and-acquisitions-process/"
-    type: article
-    provider:
-      name: Smart Business Magazine
-      domain: sbnonline.com
-    quality: 34
-    images:
-      - url: "https://www.sbnonline.com/wp-content/uploads/2021/12/DaneFennell_BabstCalland.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "MFnn/LpEG0oMkiUzly8ksgvn8P/o8wWOCr7UT6x+ZjrNW3IO3eV9oIvBaMD7GdA8p5TIzquJf+m4AqF6A/5BV86QXQRauY2PsBEeCgymnrJOA4tWfHx1giOYBzQU+Tpg0I5xZDUDQNlZVdRLBFkM0uXhv8lZed0Jr7yPfgPAjQEL03itAgfoV6Um+4oIkQ0FJEIMy1VKf5twL/GeqR17XzV9vgyRUzZgTKOsHvwGDiqBZSuNSEpLHjW6mK5GTmdHNebALYJGo+zwPwsiZlEBm7PUY7CXQ88UAP6U/DFTsw+kcA384P+PiW5jmShHs8CMinZSWK3iDIYzdNKcg5cwv82IyVD9StQLaOj0/ixnaXwZ3Kl7DKDPb6FQTJ1/tyalMLQpUAbvhSyEgsAbxsxHaSCsSDRYCRkRxpF6oiseQeog9PFdJpeoS/NTpxtkOuhvlps7j5AB/jryUfz3ylSunsFJvDnx6uL0uEPWIairPeDGIhB7RlE1Px8isEEY8uA8WkRSJ1tMzuM3yecKk5yZEA==;NAiy4Le9JWgzpOFWOSNd5w=="
 ---

@@ -22,44 +22,15 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Best Stocks To Buy Now? 4 Robotics Stocks For Your December Watchlist"
-    excerpt: "Do You Have These 4 Robotics Stocks On Your Radar? As the stock market appears to be taking a breather today, tech stocks could continue to present opportunities for investors. Th"
-    publishedDateTime: 2021-12-11T11:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist"
-    ampWebUrl: "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp"
+  - title: "Tega Industries to debut on December 13. What could be listing premium?"
+    excerpt: "Tega Industries shares were available at a price of Rs 753 per share in the grey market, a massive 66.2 percent or Rs 300 premium over issue price of Rs 453 per share, as per the IPO Watch and IPO Central."
+    publishedDateTime: 2021-12-12T09:42:00Z
+    webUrl: "https://www.ft.com/content/8ee73509-e364-494e-b4c8-ff9a4f675078"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 84
-  - title: "4 main Fintech stocks to watch in December 2021"
-    excerpt: "fintech stocks on the stock market today. First, we have the cloud-based artificial intelligence (AI) loan platform, Reached. For those who don't know, the company's platform aggregates consumer ..."
-    publishedDateTime: 2021-12-09T03:47:00Z
-    webUrl: "https://es.paperblog.com/4-main-fintech-stocks-to-watch-in-december-2021-6857790/"
-    ampWebUrl: "https://es.paperblog.com/4-main-fintech-stocks-to-watch-in-december-2021-6857790/amp"
-    cdnAmpWebUrl: "https://es-paperblog-com.cdn.ampproject.org/c/s/es.paperblog.com/4-main-fintech-stocks-to-watch-in-december-2021-6857790/amp"
-    type: article
-    provider:
-      name: Paperblog
-      domain: paperblog.com
-    quality: 59
-    images:
-      - url: "https://m1.paperblog.com/i/685/6857790/4-main-fintech-stocks-to-watch-in-december-20-L-csfLNz.jpeg"
-        width: 460
-        height: 283
-        isCached: true
-  - title: "Best Stocks To Invest In Right Now? 4 Tech For Your Watchlist"
-    excerpt: "Are These Good Tech Stocks To Invest In Now? Tech stocks appear to be a key focus of investors in the latest stock market hot streak. This is apparent as the tech-heavy Nasdaq ind"
-    publishedDateTime: 2021-12-08T19:39:00Z
-    webUrl: "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist"
-    ampWebUrl: "https://www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-invest-in-right-now-4-tech-for-your-watchlist?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 102
 
 secured: "jvjwQzvjSGGiq+Foe1jwaPnjtiAaKCbJnddVimRaSwR9ZwuDD/wvJ6xkQYhxQSvm2mWtH430dZm6QVOMbAeA73Y89GvKP4io91QtH53UiGboBFJ2wIEFaKDAjMzZ3wLm5Bzcq8/U/d/UZkI2O7vdPkk+LOa6NzGVnft0ZlfEgYDmoucTF+GqKIEyYuqIKPMc5YTqHLIzUg0xe+D0LmmX2BeY5sxqhbHDd5qlHGVnJsHFWtmwBmvEyQFP0T0Qnju04wtCpj7pPa96Txxg6eiikkmIDyDtEiF5f4lDJVRkznoJX+dt+AgvPCFHo65gTAMpGGsSpdUBZQADpqGP5tsxrCHPS2xyiE4ekHZX9OA+k5w=;Q7XT9eXkB2N8vlt+BLs5Ng=="
 ---

@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-11-17-citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.md",
+      "title": "CITIC Telecom CPC and ASTRI Partnership Expands Business Innovation Possibilities With AI-AR Integration",
+      "excerpt": "The key features include data visualization, cognitive object recognition and middleware enhancement. \"Fostering a culture of innovation and embracing intelligence are our core values and are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-ai-ar",
+      "originalUrl": "https://www.asiaone.com/business/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-ai-ar",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2021/asiaone_default.jpg?itok=3gH19sbL",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-ai-ar?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-ai-ar?amp",
+      "publishedDateTime": "2021-11-17T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-chinas-baidu-pulls-in-near-5bn-revenue-as-ai-turnover-surges.md",
       "title": "China’s Baidu pulls in near $5bn revenue as AI turnover surges",
       "excerpt": "Internet services giant Baidu pulled in nearly $5bn in revenue in its latest quarter, climbing past analyst forecasts, despite China’s ongoing technology",
@@ -1064,58 +1107,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year.md",
-      "title": "Darktrace aims to expand into ‘proactive’ security AI by end of year",
-      "excerpt": "Darktrace, a provider of security powered by artificial intelligence, says it plans to expand into AI-based attack prevention by year's end.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/darktrace.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/darktrace-aims-to-expand-into-proactive-security-ai-by-end-of-year/amp/",
-      "publishedDateTime": "2021-11-16T17:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

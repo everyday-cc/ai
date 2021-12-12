@@ -27,20 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Q&A: More-sustainable concrete with machine learning"
-    excerpt: "MIT-IBM Watson AI Lab researchers aim to design concrete recipe mixtures that use AI to shrink its environmental footprint and cost, while recycling byproducts and increasing performance."
-    publishedDateTime: 2021-12-07T21:54:00Z
-    webUrl: "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207"
+  - title: "Microsoft researchers: We've trained AI to find software bugs using hide-and-seek"
+    excerpt: "Microsoft creates an AI bug detector that learns to hunt for and fix bugs without being training it on data from real bugs. Does it work? Kind of."
+    publishedDateTime: 2021-12-10T13:13:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-researchers-weve-trained-ai-to-find-software-bugs-using-hide-and-seek/"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 86
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202111/man-making-cement.jpg"
-        width: 999
-        height: 666
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 79
 
 secured: "3+n/f35zRPME7KED40M7Re/oROjDC2c62cQ9k+wbp7rcWIGO84HPbp0DCnqykI5SH1eXsb56gsdkw88aX+38a+kHx/aMJLBPEUDesiB2eefdX86RlNyKYiRhIImXzIA9t5k9TNJZd8OfyAjBL26YaS22XkMJfjg3yI+sAmN8av0lwLUfY0V6eIi4sI+fGYJ2ey7vHX6BrQgkqvYzokQbv23Ol6R0G33evDQM092Gh2XVQgP+rfU9HM5AuBCJXFhyU8fb2DzFipXg60Pvn5yBvc6O7VsLmwtyDUWOPwd2xqeYLjxTeJasNlt+YJIEpBBnCUvW1UEfrnCNpqEBcaHEmgLLkJcjNKeHM4YNWom0dx2MGoRpCN3TOfleNN+vW5oiEKTqIZrAqTxgD8pQoDZhSGdDsXml49Jmo+P3DGiu6vHBrbgggUff6VA/fDt1MZwy4GJjXM3PW+vfZvEk+Nme8rg9MVOpz8KizSxTlHIzf3PKkxx3gI7L4k4iVl/RLwfEZxlPsxlGD0z/6kA8wANbBg==;sI2o3ufm6sEk/vrxETP+EQ=="
 ---

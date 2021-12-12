@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Cognitive Media Market Research Report (2021 to 2026) – by Technology, Product, Distribution Channel, Application and Region"
+    excerpt: "4.1.2. North America Cognitive Media Market, By Application 4.1.3. North America Cognitive Media Market, By Technology 4.1.4. North America Cognitive Media Market, By ..."
+    publishedDateTime: 2021-12-09T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-research-report-2021-to-2026-by-technology-product-distribution-channel-application-and-region-2021-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarketstm"
     excerpt: "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud Detection & Prevention, Content Transcription, Subtitle Generation), Deployment Mode,"
     publishedDateTime: 2021-12-08T15:26:00Z

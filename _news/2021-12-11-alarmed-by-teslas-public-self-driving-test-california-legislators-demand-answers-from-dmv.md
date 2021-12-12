@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2021-12-11/is-te
 cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2021-12-11/is-teslas-full-self-driving-public-experiment-safe-legislators-want-answers-from-dmv?_amp=true"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -27,51 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ex Tesla Engineers Claim Full-Self Driving Autopilot Video Was Manipulated And Edited Out Barrier Collision"
-    excerpt: "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers"
-    publishedDateTime: 2021-12-07T21:13:00Z
-    webUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/"
-    ampWebUrl: "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/"
+  - title: "Autonomous tractors are driving sustainability, but hitting regulatory roadblocks in California"
+    excerpt: "As farmers begin to embrace more agtech, worker protection laws remain a hurdle, along with developing the workforce needed to operate and maintain complex new machinery."
+    publishedDateTime: 2021-12-08T14:35:00Z
+    webUrl: "https://www.agri-pulse.com/articles/16915-autonomous-tractors-are-driving-sustainability-but-hitting-regulatory-roadblocks-in-california"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 71
+      name: Agri-Pulse
+      domain: agri-pulse.com
+    quality: 27
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
-  - title: "I Still Can't Get Over Tesla Allegedly Faking Its Original Self-Driving Autopilot Video"
-    excerpt: "For years we have wondered if what’s going on at Tesla is just a shitshow or a scam, and none of that conversation is made any easier after reading a new report from the New York Times, in which multiple former employees claim that the company’s 2016 “hey our cars can totally drive themselves” video was faked."
-    publishedDateTime: 2021-12-08T14:30:00Z
-    webUrl: "https://jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253"
-    ampWebUrl: "https://jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/i-still-cant-get-over-tesla-allegedly-faking-its-origin-1848174253/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 51
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/c68bad7932c80687766c35aebf5a6a38.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Tesla’s ‘Full Self-Driving’ promotional videos were faked – report"
-    excerpt: "The electric vehicle manufacturer produced fraudulent advertising material and compromised safety for vehicle aesthetics, former employees have"
-    publishedDateTime: 2021-12-08T22:01:00Z
-    webUrl: "https://www.drive.com.au/news/teslas-full-self-driving-promotional-videos-were-faked-report/"
-    type: article
-    provider:
-      name: Drive.com.au
-      domain: drive.com.au
-    quality: 39
-    images:
-      - url: "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_225,q_auto:best,w_400/cms/uploads/msrtue4f03egr5chq2dt"
-        width: 400
-        height: 225
+      - url: "https://www.agri-pulse.com/ext/resources/California-Bureau/autonomous-tractor-836x627.jpg?height=635&t=1638851798&width=1200"
+        width: 836
+        height: 627
         isCached: true
 
 secured: "Ts/8ZD4FJ0w5Jx46GYHzjwK5/llnOpnFt/mSeuVDNzq0wAP5QcVUpWFAThV9yrdVB2QrLDktJtQVhEAKLemfVNGUMAS8/uwMZfQBIhVMAtG823k26t3EQ4E8lZT9yDVYVF9NdHiyKpPJFA2BGJr6kDSF9j4bLkU5eRQjmvx673EDJ3OoqqhfN4BxStC5G5s4bEF0gk6QTHX1g07KtwDg9BpJCp+0dJX9OdTW6SIsh6uVLsMwuR6T29AXIAa+GmaY11QCB8hrC0p0zum5pOeMCs8gTjoTvXA7AFEoR+Q7JZ418vOdzMFSnPvd+7/kinp+Az3lTgidpb8YdeYFGzNVOcRpY9FgmlGEPImceuWntnkUgaZ5HbSfFGvtK/s6EgtUbE2iRqF+ucOrqyo2Cgdh60VpT3Wj6aHg0nIEYEWcDv79wDkLOu9z1mlf0WVQiNuI+zjcCzFegMPfEdgBFzl0PIE2+3quLqv38IeATOba+5SC0H/gGhasds3s4WUvG4oMZg3+p+fcw0hFIzYLgNJQJw==;lNzvgF02NGQitmmdu9ghfg=="

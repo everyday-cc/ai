@@ -7,7 +7,7 @@ originalUrl: "https://finchannel.com/community-of-ethical-hackers-needed-to-prev
 webUrl: "https://finchannel.com/community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust/"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Community of ethical hackers needed to prevent AI’s looming ‘crisis of trust’, experts argue"
-    excerpt: "A global hacker “red team” and rewards for hunting algorithmic biases are just some of the recommendations from experts who argue that AI faces a “tech-lash” unless firm measures are taken to increase public trust."
-    publishedDateTime: 2021-12-09T19:34:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/936808"
+  - title: "Community of ethical hackers needed to prevent AI's looming 'crisis of trust', experts argue"
+    excerpt: "The Artificial Intelligence industry should create a global community of hackers and \"threat modelers\" dedicated to stress-testing the harm potential of new AI products in order to earn the trust of governments and the public before it's too late."
+    publishedDateTime: 2021-12-09T19:00:00Z
+    webUrl: "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 25
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 163
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ethical-hacker.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
+  - title: "Secretive AI Companies Need to Cooperate With Good Hackers to Keep Us All Safe, Experts Warn"
+    excerpt: "Such a call to action is needed, the authors argue, because of the growing mistrust between the public and the software developers who create AI, and because current strategies to identify and report harmful instances of AI are inadequate."
+    publishedDateTime: 2021-12-09T23:00:00Z
+    webUrl: "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849"
+    ampWebUrl: "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 76
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8e3899c1ccbdc7eeafc2c711e7db050d.jpg"
+        width: 800
+        height: 445
+        isCached: true
 
 secured: "VGmbfAFQ75GGKvkEfccAvKHdsnMjfC5o/HzImliszDaYDRRCN0lyT1WXVrDybbGduvx4d2Xrca9hnPb4+Ye/0pgL9aUAFkOMmI3LQJydgiYOljG76zTyZ40zjC+nIzCexkmkQC3OknYfep8QcTEXMt/crFg14jCl9TgQmoWLUchhYx/UJFe/gajilkRv24nv2PnsME1QN//vNgvUAvDf6wg0HmFrluZwIIrA4rt2WhZ0rJ4lYRdSqHVj9eAsv2EoSOKisdjjM6BOaPiCQyvFBrOZTA/CgviiF5SixKHePBzMRRMHpPs8vTI5DVToP9su4Q/TdB/fqmGzhGbyFcb/INVSvULDLzXYDPbY30P/MCApP6XbAiLCox+BiNCfbRNGE/xJYr4kGxzXCI7gzsGT89SiWIjXmMMpYDVOvSZF4CioGuWkDIhW+M7Dpxes1qn2X1LjEifXq/CwPq3YKzNFViCA4RR9KS+iizcmAuOtyrGGamQKXyiMMFvQD7Y56p/apNikSdecoAFNu6HAoFc8Kw==;ugYI9+QO9VOjulpR5irYBg=="
 ---

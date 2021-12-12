@@ -2,6 +2,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-03-cvs-health-and-microsoft-link-up-to-speed-healthcares-digital-shift-on-retails-frontlines.md",
+      "title": "CVS Health and Microsoft Link Up to Speed Healthcare’s Digital Shift on Retail’s Frontlines",
+      "excerpt": "Connected healthcare keeps making new connections as firms from different parts of the business world join forces to drive greater digital transformation for millions of consumers. New evidence of the gathering trend comes from CVS Health and Microsoft,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/",
+      "originalUrl": "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/CVS-Health-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/amp/",
+      "publishedDateTime": "2021-12-02T14:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-aws-brings-no-code-to-amazon-sagemaker-machine-learning.md",
       "title": "AWS brings no-code to Amazon SageMaker machine learning",
       "excerpt": "Amazon SageMaker Canvas provides a visual interface for preparing data and training models, no programming or machine learning expertise required.",
@@ -1115,49 +1159,6 @@
         "Facebook AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-leading-speech-technology-for-kids-company-releases-first-of-its-kind-feature-to-accelerate-literacy-instruction.md",
-      "title": "Leading Speech Technology for Kids Company Releases First-of-its-Kind Feature to Accelerate Literacy Instruction",
-      "excerpt": "SoapBox Labs, the speech recognition company that powers joyful learning and play experiences for kids, has launched a new feature that gives educators unprecedented",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leading-speech-technology-for-kids-company-releases-first-of-its-kind-feature-to-accelerate-literacy/article_54ca7c6a-f5c8-59b9-95f6-f898363c5f1f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leading-speech-technology-for-kids-company-releases-first-of-its-kind-feature-to-accelerate-literacy/article_54ca7c6a-f5c8-59b9-95f6-f898363c5f1f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/ff/fff8b4fc-ff0d-5c9a-9854-f68427317181/60ace803540e5.image.jpg?crop=878%2C461%2C560%2C0&resize=878%2C461&order=crop%2Cresize",
-          "width": 878,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

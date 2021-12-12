@@ -58,20 +58,6 @@ related:
         width: 622
         height: 478
         isCached: true
-  - title: "SiLC single-chip LiDAR system could ease 3D facial recognition integration"
-    excerpt: "SiLC Technologies has launched a new vision sensor system that integrates LiDAR capabilities onto a single chip. The ability to integrate three-dimensional photonics on a lower-cost chip could ultimately help proliferate the use of computer vision systems that more accurately detect and measure faces and other biometric markers for identification and other purposes."
-    publishedDateTime: 2021-12-07T21:52:00Z
-    webUrl: "https://www.biometricupdate.com/202112/silc-single-chip-lidar-system-could-ease-3d-facial-recognition-integration"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 54
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
-        isCached: true
   - title: "ACLU Calls for Halt of Homeland Security’s Use Of Facial Recognition Technology"
     excerpt: "The civil rights organization said that the biometrics technology can lead to discriminatory arrests based on race."
     publishedDateTime: 2021-12-08T16:33:00Z

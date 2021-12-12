@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/small-biz/sme-sector/jpin-announces-stra
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/amp_articleshow/88162825.cms"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
+        isCached: true
+  - title: "What Trends are Driving the Fintech Revolution in India?"
+    excerpt: "As PM Modi calls for a Fintech Revolution in India, we discuss major trends shaping the future of Fintech in India and new financial service capabilities."
+    publishedDateTime: 2021-12-12T13:12:00Z
+    webUrl: "https://www.india-briefing.com/news/what-trends-are-driving-the-fintech-revolution-in-india-23809.html/"
+    type: article
+    provider:
+      name: india-briefing.com
+      domain: india-briefing.com
+    quality: 24
+    images:
+      - url: "https://www.india-briefing.com/news/wp-content/uploads/2021/12/What-Trends-are-Leading-Indias-Fintech-Revolution.jpg"
+        width: 900
+        height: 506
         isCached: true
   - title: "SCALE AI announces its largest financing round of 2021 with twelve projects and $71 million in investments in artificial intelligence"
     excerpt: "With twelve projects representing a total of $71 million in investments announced today by SCALE AI, the Artificial Intelligence (AI) integration movement is continuing its rapid growth in Canada. From the supply chain for aviation parts"

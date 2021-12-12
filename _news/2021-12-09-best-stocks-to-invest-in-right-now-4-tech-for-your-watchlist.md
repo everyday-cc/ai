@@ -32,17 +32,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 84
-  - title: "5 Artificial Intelligence Stocks To Watch In December 2021"
-    excerpt: "Hot Artificial Intelligence Stocks To Check Out This Month. As adoption of artificial intelligence (AI) rises, artificial intelligence stocks could be among the biggest benefici"
-    publishedDateTime: 2021-12-10T19:37:00Z
-    webUrl: "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021"
-    ampWebUrl: "https://www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-artificial-intelligence-stocks-to-watch-in-december-2021?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 71
   - title: "4 main Fintech stocks to watch in December 2021"
     excerpt: "fintech stocks on the stock market today. First, we have the cloud-based artificial intelligence (AI) loan platform, Reached. For those who don't know, the company's platform aggregates consumer ..."
     publishedDateTime: 2021-12-09T03:47:00Z

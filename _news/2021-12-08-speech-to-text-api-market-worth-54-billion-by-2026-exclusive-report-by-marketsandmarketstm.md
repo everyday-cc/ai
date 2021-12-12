@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Media Market Research Report (2021 to 2026) – by Technology, Product, Distribution Channel, Application and Region"
+    excerpt: "4.1.2. North America Cognitive Media Market, By Application 4.1.3. North America Cognitive Media Market, By Technology 4.1.4. North America Cognitive Media Market, By ..."
+    publishedDateTime: 2021-12-09T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-research-report-2021-to-2026-by-technology-product-distribution-channel-application-and-region-2021-12-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vP1ibwoZRWbMonWEPb3TD7hnorYVcRs3qFCOfJZ+D1r48bIn5ejSHZoHPrB+ItnV78zWtZALqLSYfmLiOzZ7pcpTnL3BGrNteDKefGybNWulpuGn3NRVauAM2/pLHNAtgobaDaJ/Xd2Eu2XdgrXKGZTws21sbwhMmLeQP0cBsu3O+TQblyp5qwNVBvcJNWRadi5MlZ11s8wa8Y+q6aSjlHS8UeG2ml7MlYmScnMZ7tpblAJh22UBSXmaodvj3Q+ElkfOeqQwRfiC2PUzfGZYnUrtuHDPv+43IiYnF6IpzLgIE9VQMbgHII5YPwgvYfGKmSWW1hCSqE2laAHIjZ0cWPHjZZNgQZ8ibbi0+rorgtQ=;HTZQOZKB272Lx2FPxWftWA=="
 ---
