@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud"
-    publishedDateTime: 2021-12-08T13:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/n24501684/speech-to-text-api-market-worth-5-4-billion-by-2026-exclusive-report-by-marketsandmarkets"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24501684"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24501684"
+  - title: "Deep Learning Market Research Report (2021 to 2026) – by Technology, Product, Distribution Channel, Application and Region"
+    excerpt: "Dec 09, 2021 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. The report covers detailed ..."
+    publishedDateTime: 2021-12-09T00:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-2021-to-2026-by-technology-product-distribution-channel-application-and-region-2021-12-09"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 13
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vP1ibwoZRWbMonWEPb3TD7hnorYVcRs3qFCOfJZ+D1r48bIn5ejSHZoHPrB+ItnV78zWtZALqLSYfmLiOzZ7pcpTnL3BGrNteDKefGybNWulpuGn3NRVauAM2/pLHNAtgobaDaJ/Xd2Eu2XdgrXKGZTws21sbwhMmLeQP0cBsu3O+TQblyp5qwNVBvcJNWRadi5MlZ11s8wa8Y+q6aSjlHS8UeG2ml7MlYmScnMZ7tpblAJh22UBSXmaodvj3Q+ElkfOeqQwRfiC2PUzfGZYnUrtuHDPv+43IiYnF6IpzLgIE9VQMbgHII5YPwgvYfGKmSWW1hCSqE2laAHIjZ0cWPHjZZNgQZ8ibbi0+rorgtQ=;HTZQOZKB272Lx2FPxWftWA=="
 ---

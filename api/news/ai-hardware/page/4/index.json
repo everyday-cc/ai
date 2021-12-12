@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-09-ai-chipmaker-hailo-raises-136-million.md",
+      "title": "AI Chipmaker Hailo Raises $136 Million",
+      "excerpt": "AI chipmaker Hailo raised $136 million in its latest funds round, representing one of the largest investments ever in the AI chip space. It comes amid the ongoing global chip shortage, and a surge in demand for the company's technology,",
+      "sourceUrl": null,
+      "webUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million",
+      "originalUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.chdrstatic.com/media/e275f4bd-3682-4dbc-9167-97e654817f8f.jpg?width=1200&source=backend&auto=webp",
+          "width": 1200,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million.amp",
+      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/ai-chipmaker-hailo-raises-136-million.amp",
+      "publishedDateTime": "2021-11-08T14:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cheddar",
+        "domain": "cheddar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-09-amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads.md",
+      "title": "AMD rolls out Instinct MI200 GPUs for HPC and AI workloads",
+      "excerpt": "AMD on Monday unveiled the Instinct MI200 accelerator, the latest generation of its data center GPU. The chipmaker says it's the fastest HPC and AI accelerator, surpassing records set by the MI100, rolled out last year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
+      "originalUrl": "https://www.zdnet.com/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
+      "publishedDateTime": "2021-11-08T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-06-intel-arc-alchemist-gpu-shows-off-ai-based-xess-magic-in-new-riftbreaker-video.md",
       "title": "Intel Arc Alchemist GPU shows off AI-based XeSS magic in new Riftbreaker video",
       "excerpt": "Two of the leading technologies in this generation's GPU wars have been Nvidia's Deep Learning Super Sampling (DLSS) and AMD's FidelityFX Super Resolution (FSR). Both promise",
@@ -1370,92 +1456,6 @@
       "provider": {
         "name": "Mint",
         "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-mercedes-benz-to-upgrade-to-expensive-chips-to-resolve-shortage.md",
-      "title": "Mercedes-Benz to upgrade to expensive chips to resolve shortage",
-      "excerpt": "Daimler's Mercedes-Benz together with Nvidia Corp will develop semiconductors for sophisticated features..Mercedes-Benz registered sales slump of 21 per cent from July to September in the third quarter.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage-41634964481943.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage-41634964481943.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2021/10/23/600x338/2020-01-11T070253Z_1_LYNXNPEG0A06E_RTROPTP_4_BELGIUM-CAR_1578977810523_1634964680135.JPG",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage/amp-41634964481943.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage/amp-41634964481943.html",
-      "publishedDateTime": "2021-10-23T01:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-23-arm-aiming-for-a-huge-ai-performance-boost-with-next-gen-gpu-architecture.md",
-      "title": "Arm Aiming For A Huge AI Performance Boost With Next-Gen GPU Architecture",
-      "excerpt": "As AI and machine learning capabilities play bigger roles in everyday tasks, companies like Arm must push the performance envelope.",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
-      "originalUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/56582/content/small_arm_gpu_ai_brain.jpg",
-          "width": 708,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
-      "publishedDateTime": "2021-10-22T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
         "images": null,
         "publishers": null,
         "authors": null

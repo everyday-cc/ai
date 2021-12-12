@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-10-oostos-deep-learning-enhances-facial-recognition-accuracy-and-expands-uses.md",
+      "title": "Oosto’s deep learning enhances facial recognition accuracy and expands uses",
+      "excerpt": "Newer facial recognition systems are scalable and provide more accurate results, and the end-user selects the parameters of system performance to suit their own application needs. “We",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "originalUrl": "https://www.sourcesecurity.com/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/eu-ban-facial-recognition-920.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "publishedDateTime": "2021-12-10T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders.md",
       "title": "How Sars is using machine learning and big data to nail tax offenders",
       "excerpt": "The South African Revenue Service said its efforts to expand the use of data to detect tax non-compliance is beginning to bear fruit.",
@@ -261,7 +305,7 @@
       "originalUrl": "https://thenextweb.com/news/codifying-humanity-why-ai-sucks-content-moderation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -691,6 +735,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-10-camden-yards-to-test-using-artificial-intelligence-for-security-at-orioles-games-next-season.md",
+      "title": "Camden Yards to test using artificial intelligence for security at Orioles games next season",
+      "excerpt": "If you're heading out to a ball game at Oriole Park at Camden Yards next spring, you'll likely become a test subject for a new a security technology that uses low-energy radar with 3D imaging and artificial intelligence to detect hidden threats.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/camden-yards-to-test-u.jpg",
+          "width": 2880,
+          "height": 1617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.amp",
+      "publishedDateTime": "2021-12-09T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-this-humanoid-robot-is-about-to-fly-like-iron-man.md",
       "title": "This humanoid robot is about to fly like Iron Man",
       "excerpt": "It’s common for researchers around the world to conduct investigations into creating better drone aircraft. It’s also common for researchers to conduct investigations into building",
@@ -1112,101 +1199,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-deeprouteai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production.md",
-      "title": "DeepRoute.ai unveils ‘affordable’ advanced autonomous driving solution for mass production",
-      "excerpt": "The L4 solution’s price point is the same as current L2 solutions. Shenzhen-based autonomous driving startup DeepRoute.",
-      "sourceUrl": null,
-      "webUrl": "https://kr-asia.com/deeproute-ai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production",
-      "originalUrl": "https://www.linkedin.com/pulse/deeprouteai-unveils-affordable-advanced-autonomous-driving-solution-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://console.kr-asia.com/wp-content/uploads/2021/11/Car-1.png",
-          "width": 2084,
-          "height": 1032,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.kr-asia.com/deeproute-ai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production",
-      "cdnAmpWebUrl": "https://amp-kr--asia-com.cdn.ampproject.org/c/s/amp.kr-asia.com/deeproute-ai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production",
-      "publishedDateTime": "2021-12-09T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen.md",
-      "title": "Bullish on industrial, consumer, healthcare and fintech in India: John Praveen",
-      "excerpt": "Agencies  We probably won't see the kind of strong earnings we saw in 2021 either in the US or India and might see earnings more in the 15-20% range rather than in the 20-30% range, says John Praveen,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/articleshow/88186185.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/articleshow/88186185.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-18354,msid-88186369/john-praveen.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/amp_articleshow/88186185.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/amp_articleshow/88186185.cms",
-      "publishedDateTime": "2021-12-09T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

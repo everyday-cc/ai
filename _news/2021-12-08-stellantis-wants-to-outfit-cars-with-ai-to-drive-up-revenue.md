@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mrt.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in
 cdnAmpWebUrl: "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 159
+published: true
 
 provider:
   name: Midland Reporter-Telegram
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stellantis’ AI strategy targets $22.6b in revenues by 2030"
-    excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands targeting 20 billion euros ($22.6 billion) in annual revenues"
-    publishedDateTime: 2021-12-07T07:22:00Z
-    webUrl: "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/"
-    ampWebUrl: "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/"
-    cdnAmpWebUrl: "https://www-informnny-com.cdn.ampproject.org/c/s/www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/"
-    type: article
-    provider:
-      name: WWTI
-      domain: informnny.com
-    quality: 59
-    images:
-      - url: "https://www.informnny.com/wp-content/uploads/sites/58/2020/02/cropped-50-512X512-1.png?strip=1"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Stellantis Bets on Artificial Intelligence, Wants To Beat Tesla at Its Own Game"
     excerpt: "Stellantis bets on artificial intelligence and expects software revenue to reach $23 billion a year by 2030 through services and subscriptions."
     publishedDateTime: 2021-12-07T16:27:00Z

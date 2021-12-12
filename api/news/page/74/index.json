@@ -2,6 +2,257 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2021-10-15-seeq-expands-machine-learning-support-to-democratize-data-science-innovation.md",
+      "title": "Seeq Expands Machine Learning Support to Democratize Data Science Innovation",
+      "excerpt": "Customer-developed algorithms in Seeq Data Lab—or machine learning operations platforms such as Microsoft Azure Machine Learning, Amazon SageMaker, Anaconda, and others—as part of data science ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/seeq-expands-machine-learning-support-to-democratize-data-science-innovation-301400687.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1660673/Seeq_Expanded_ML_Support_release_image.jpg?p=facebook",
+          "width": 2513,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-10-15-how-surveillance-capitalism-influenced-digital-slave-labour.md",
+      "title": "How Surveillance Capitalism Influenced Digital Slave Labour",
+      "excerpt": "I Cut the 'Big Five' Tech Giants from My Life” by Kashmir Hill Technology creates the very problems that technology solves. Sometimes we make the choice to bring technology into our lives, but sometimes it’s forced upon us.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/how-surveillance-capitalism-influenced-digital-slave-ana-brant-silva",
+      "originalUrl": "https://www.linkedin.com/pulse/how-surveillance-capitalism-influenced-digital-slave-ana-brant-silva",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGoJprBjRAl5g/article-cover_image-shrink_600_2000/0/1634229682190?e=1640822400&v=beta&t=wTb-0cey0kHKTP6i8vUTVdqiw90Hehe18MODvg6HT10",
+          "width": 612,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-execs-from-github-and-microsoft-azure-invest-in-new-ai-startup-that-helps-devs-build-intelligent-apps.md",
+      "title": "Execs from GitHub and Microsoft Azure invest in new AI startup that helps devs build intelligent apps",
+      "excerpt": "Aseem Datar, a former Microsoft Azure General Manager who just joined Madrona as a partner, said Spice AI is “going after a large and significantly important mission as the world sees more and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/",
+      "originalUrl": "https://www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/10/71A491DF-68A5-42E4-A1A4-27C8831D7F45_1_201_a-630x450.jpeg",
+          "width": 630,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/execs-github-microsoft-azure-invest-new-ai-startup-helps-devs-build-intelligent-apps/amp/",
+      "publishedDateTime": "2021-10-14T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-ai-paints-a-picasso-nude-just-like-pablo-did.md",
+      "title": "AI paints a Picasso nude, just like Pablo did",
+      "excerpt": "\"Lost\" Picasso nude comes out of hiding, thanks to artificial intelligence and 3D printing. Before he became famous, Pablo Picasso didn't always have money for art materials, so, like other struggling artists,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
+      "originalUrl": "https://www.cnet.com/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/3UWpF8kjjZoif3mhtMe5tiYmT1A=/2021/10/13/3960fa50-dc17-4c9c-8a46-488e3fcb1990/hidden-picasso-painting.jpg",
+          "width": 1454,
+          "height": 818,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-paints-a-picasso-nude-just-like-pablo-did/",
+      "publishedDateTime": "2021-10-14T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-14-facebook-captured-more-than-2000-hours-of-first-person-video-to-train-next-generation-ai.md",
+      "title": "Facebook captured more than 2,000 hours of first-person video to train next-generation A.I.",
+      "excerpt": "Facebook has announced a research project in which it collected 2,200 hours of first-person footage from around the world to train next-generation AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
+      "originalUrl": "https://www.cnbc.com/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106951850-1633372902996-gettyimages-944799012-HOUSE_ZUCKERBERG.jpeg?v=1633372958",
+          "width": 5000,
+          "height": 3334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/10/14/facebook-announces-ego4d-first-person-video-data-set-for-training-ai.html",
+      "publishedDateTime": "2021-10-14T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-spice-ai-wants-to-help-developers-build-smarter-applications.md",
       "title": "Spice AI wants to help developers build smarter applications",
       "excerpt": "Spice AI, a Seattle-based startup that aims to make it significantly easier for developers to leverage AI in their applications, today announced that it has raised a $1 million seed funding round. That’s obviously not a huge round,",
@@ -955,220 +1206,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global.md",
-      "title": "AI shopping assistant Karma raises $25 million in Series A funding led by Target Global",
-      "excerpt": "AI shopping assistant and shopping network Karma announced that it has raised $25 million in Series A funding led by Target Global followed by MoreTech Ventures, with participation from existing investors including NFX and Altair Capital.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global/",
-      "originalUrl": "https://techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/10/karma-desktop.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/10/14/ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global/amp/",
-      "publishedDateTime": "2021-10-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-imagine-the-climate-future-in-your-neighbourhood-or-anywhere-else-using-artificial-intelligence.md",
-      "title": "Imagine the Climate Future in your Neighbourhood (or anywhere else) Using Artificial Intelligence",
-      "excerpt": "PRNewswire/ - Concerned by the sharp rise in natural disasters around the world, a team of AI researchers at Mila is launching a website that lets people see the potential impact of climate change on any address,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbc29.com/prnewswire/2021/10/14/imagine-climate-future-your-neighbourhood-or-anywhere-else-using-artificial-intelligence/",
-      "originalUrl": "https://www.nbc29.com/prnewswire/2021/10/14/imagine-climate-future-your-neighbourhood-or-anywhere-else-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC29",
-        "domain": "nbc29.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-what-are-the-threats-and-opportunities-of-data-science-and-machine-learning.md",
-      "title": "What are the threats and opportunities of data science and machine learning?",
-      "excerpt": "As with most things, many of the threats and challenges in using data science, artificial intelligence and machine learning ... working in financial services, to have access to reams of data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ftadviser.com/your-industry/2021/10/14/what-are-the-threats-and-opportunities-of-data-science-and-machine-learning/",
-      "originalUrl": "https://www.ftadviser.com/your-industry/2021/10/14/what-are-the-threats-and-opportunities-of-data-science-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F6%2F2%2F2%2F2632266-11-eng-GB%2Fpexels-hitesh-choudhary-693859.jpg%3Fv1?source=ftadviser",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FTAdviser",
-        "domain": "ftadviser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-the-essential-human-element-of-ai-in-education.md",
-      "title": "The essential human element of AI in education",
-      "excerpt": "During World AI Week, the edtech industry and higher education leaders have an opportunity to look to the future of AI in education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/",
-      "originalUrl": "https://www.ecampusnews.com/2021/10/14/the-essential-human-element-of-ai-in-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ecampusnews.com/files/2021/10/AI-in-education.jpeg",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ecampusnews.com",
-        "domain": "ecampusnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models.md",
-      "title": "Humana leverages Microsoft Cloud for Healthcare to develop advanced predictive models",
-      "excerpt": "The teams at Humana believed they had enough data to explore the possibility of proactively identifying when patients were heading toward a high-risk event, and they put Microsoft Cloud for Healthcare and AI technology to the test.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/",
-      "originalUrl": "https://azure.microsoft.com/blog/humana-leverages-microsoft-cloud-for-healthcare-to-develop-advanced-predictive-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-14T01:00:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI in Healthcare"
       ]
     }
   ],

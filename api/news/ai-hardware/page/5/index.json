@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-10-23-mercedes-benz-to-upgrade-to-expensive-chips-to-resolve-shortage.md",
+      "title": "Mercedes-Benz to upgrade to expensive chips to resolve shortage",
+      "excerpt": "Daimler's Mercedes-Benz together with Nvidia Corp will develop semiconductors for sophisticated features..Mercedes-Benz registered sales slump of 21 per cent from July to September in the third quarter.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage-41634964481943.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage-41634964481943.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2021/10/23/600x338/2020-01-11T070253Z_1_LYNXNPEG0A06E_RTROPTP_4_BELGIUM-CAR_1578977810523_1634964680135.JPG",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage/amp-41634964481943.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/mercedesbenz-to-upgrade-to-expensive-chips-to-resolve-shortage/amp-41634964481943.html",
+      "publishedDateTime": "2021-10-23T01:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-23-arm-aiming-for-a-huge-ai-performance-boost-with-next-gen-gpu-architecture.md",
+      "title": "Arm Aiming For A Huge AI Performance Boost With Next-Gen GPU Architecture",
+      "excerpt": "As AI and machine learning capabilities play bigger roles in everyday tasks, companies like Arm must push the performance envelope.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "originalUrl": "https://hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/56582/content/small_arm_gpu_ai_brain.jpg",
+          "width": 708,
+          "height": 397,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/arm-performance-boost-next-gen-gpu-architecture",
+      "publishedDateTime": "2021-10-22T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-22-leopard-imaging-launches-hawk-3d-depth-cameras-leveraging-nvidia-jetson-edge-ai-and-isaac-robotics-platforms.md",
       "title": "Leopard Imaging Launches Hawk 3D Depth Cameras Leveraging NVIDIA Jetson Edge AI and Isaac Robotics Platforms",
       "excerpt": "Leopard Imaging Inc. (Leopard Imaging), a global leader in high-definition embedded camera design and manufacturing, today announced its new 3D Depth Hawk camera supporting the NVIDIA Jetson edge AI and Isaac robotics platforms.",
@@ -1328,94 +1414,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong.md",
-      "title": "Chinese chip firm Horizon Robotics mulls moving US IPO to Hong Kong",
-      "excerpt": "Chinese artificial intelligence chip maker Horizon Robotics is considering moving a US listing plan to Hong Kong as Beijing deepens crackdown on overseas listings, Bloomberg reported on Friday. The firm had been weighing a US initial public offering that could raise as much as $1 billion,",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "originalUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/10/09/chinese-chip-firm-horizon-robotics-mulls-moving-us-ipo-to-hong-kong/",
-      "publishedDateTime": "2021-10-08T20:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-10-09-realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip.md",
-      "title": "Realme GT Neo 2T is coming with Dimensity 1200 AI customized chip",
-      "excerpt": "The Realme GT Neo 2 premiered last month and is set to hit the global market next week. It is predicted that outside of China,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/",
-      "originalUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/10/realme-neo-1024x683.jpeg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/10/08/realme-gt-neo-2t-is-coming-with-dimensity-1200-ai-customized-chip/amp/",
-      "publishedDateTime": "2021-10-08T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

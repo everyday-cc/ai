@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 789
     isCached: true
-
-related:
-  - title: "A Glimpse Into How AI Is Modernizing Data for the Financial Services Industry"
-    excerpt: "Organizations in the financial services sector face a unique set of challenges as they consider how to wrangle and process the vast amount of data they collect. During our Financial Services Summit, I was lucky enough to speak to Brian Anthony,"
-    publishedDateTime: 2021-12-07T08:19:00Z
-    webUrl: "https://www.publicnow.com/view/DF3F2E40855C962ADBF36E6D69E43A5D81B933D2"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 16
 
 secured: "VgTg2tK9LVHazTlVRyVpkGDtcspfjwRUIeA3ttKFrklVeYL3RP95xam0LTT0wlwiS4tagC4K1N6Vm7gVzBsXauFoH2imYXQII1A+l8kjNJzcpumrJPpHt2Sv/7qPutrohkmq5yhPPQULWXMELW2790JsG6fhL7aP+nRgzrM4gPmLMyA4YT+jUR5iD+Jd7bLzcH5V9+3/8GjYIvpbEjq4a5BUbg2ZqpgNh14BZUHih+px4dwM3jsSChJCkm1Pyp5moljcdZniz3UN10jVoxcgEXd2CU17Sis6W8IJz0PJ+InlGz5dOjtsth8cMkcw+woJG0UIQnLuO9/eaRL9n3o2x2jn0qIsIRMfvqOOBQaoK0o4yJ52mCEqbxXDooVNF+xCKyRbL/uLBBdTZ0MwmV4krI95qokVdnXjlZIbeEuOcpbNoIJIU0EqZXuz68b6EVnvmrCA2qAWlzx6N0EhZQmbVtYAWBmAAdMZPJSzjAso3CRDzPDxJhkmcIGrWgksNX7lmDecYwbBc/0wbp3RBH6Qag==;lw45Zjz5UxDTbxq1+WBP7Q=="
 ---

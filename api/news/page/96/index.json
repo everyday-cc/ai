@@ -2,6 +2,237 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2021-09-30-fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets.md",
+      "title": "FinTech Can Help Fill Climate Resilience Gaps In Emerging Markets",
+      "excerpt": "New financial technology (fintech) is helping increase climate resilience across all sectors — most notably on agriculture and energy businesses in emerging markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/",
+      "originalUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6155ae7c589358c2fe64a735%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2021/09/30/fintech-can-help-fill-climate-resilience-gaps-in-emerging-markets/amp/",
+      "publishedDateTime": "2021-09-30T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-google-develops-ai-that-can-accurately-predict-if-it-will-rain-in-the-next-90.md",
+      "title": "Google develops AI that can accurately predict if it will rain in the next 90 ...",
+      "excerpt": "Experts at Google's London-based DeepMind company have created a 'nowcasting' system which they claim is more accurate at predicting rain within the",
+      "sourceUrl": null,
+      "webUrl": "https://en.mogaznews.com/Technology/1838298/Google-develops-AI-that-can-accurately-predict-if-it-will-rain-in-the-next-90-.html",
+      "originalUrl": "https://en.mogaznews.com/Technology/1838298/Google-develops-AI-that-can-accurately-predict-if-it-will-rain-in-the-next-90-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://en.mogaznews.com/temp/resized/medium_2021-09-30-5807097d22.jpg",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.mogaznews.com/Technology/amp/1838298",
+      "cdnAmpWebUrl": "https://en-mogaznews-com.cdn.ampproject.org/c/s/en.mogaznews.com/Technology/amp/1838298",
+      "publishedDateTime": "2021-09-30T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "en.mogaznews.com",
+        "domain": "mogaznews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-decided-to-adopt-ai-four-questions-to-consider-before-you-start.md",
+      "title": "Decided To Adopt AI? Four Questions To Consider Before You Start",
+      "excerpt": "In order to better understand what pitfalls to expect when adopting AI for business processes and how to avoid them, here are a few key questions whose answers should help you successfully start your AI project: 1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/decided-to-adopt-ai-four-questions-to-consider-before-you-start/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/decided-to-adopt-ai-four-questions-to-consider-before-you-start/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd90debd34413a75364fdda%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/09/30/decided-to-adopt-ai-four-questions-to-consider-before-you-start/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/09/30/decided-to-adopt-ai-four-questions-to-consider-before-you-start/amp/",
+      "publishedDateTime": "2021-09-30T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-ai-can-predict-if-it-will-rain-in-two-hours-time.md",
+      "title": "AI can predict if it will rain in two hours' time",
+      "excerpt": "Artificial intelligence can tell whether it is going to rain in the next two hours, research suggests. Scientists at Google-owned London AI lab DeepMind and the University of Exeter partnered with the Met Office to build the so-called nowcasting system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/technology-58748934?at_medium=RSS&at_campaign=KARANGA",
+      "originalUrl": "https://www.bbc.co.uk/news/technology-58748934?at_medium=RSS&at_campaign=KARANGA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1428E/production/_120747528_whatsubject.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-58748934.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-58748934.amp",
+      "publishedDateTime": "2021-09-30T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-eu-us-join-hands-on-chip-supplies-big-tech.md",
+      "title": "EU, US join hands on chip supplies, big tech",
+      "excerpt": "The European Union (EU) and US reaffirmed a commitment to build partnerships aimed at rebalancing global semiconductor supply chains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/home-banner/eu-us-join-hands-on-chip-supplies-big-tech",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/home-banner/eu-us-join-hands-on-chip-supplies-big-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2019/04/MWL2019_Collaboration_Team_Partner-e1611073647646.jpg",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/home-banner/eu-us-join-hands-on-chip-supplies-big-tech/amp",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/home-banner/eu-us-join-hands-on-chip-supplies-big-tech/amp",
+      "publishedDateTime": "2021-09-30T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-dmi-alternatives-raises-40-mn-for-fintech-fund.md",
       "title": "DMI Alternatives raises $40 mn for fintech fund",
       "excerpt": "Within the Fintech ecosystem, Sparkle focuses on alternative lending, consumer finance, financial services IT, payments, regtech, wealthtech and AI-ML platforms to drive automation. A key differentiator for Sparkle is its strategic relationship with DMI ...",
@@ -931,258 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-us-eu-agree-to-work-on-chip-supplies-tech-rules-china-trade.md",
-      "title": "U.S., EU agree to work on chip supplies, tech rules, China trade",
-      "excerpt": "The United States and European Union agreed on Wednesday to deepen transatlantic cooperation to strengthen semiconductor supply chains, curb China's non-market trade practices and take a more unified approach to regulating big,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/",
-      "originalUrl": "https://www.reuters.com/technology/us-eu-launch-consultations-tech-regulations-trade-china-2021-09-29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/QBsO6Th9MsOu5oTWJVWzip48cR0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I7DURYCRLZOA5BEUHD36PYJAKA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T15:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-29-virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker.md",
-      "title": "Virtu Financial enables its customers to apply advanced analytics and machine learning on trade and market data by provisioning Amazon SageMaker",
-      "excerpt": "This is a guest post by Erin Stanton, who currently runs the Global Client Support organization for Virtu Analytics.&nbsp; Virtu Financial is a leading provider of financial services and products that uses cutting-edge technology to deliver liquidity to the global markets and innovative, transparent",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/virtu-financial-enables-its-customers-to-apply-advanced-analytics-and-machine-learning-on-trade-and-market-data-by-provisioning-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/09/29/ML-5556-image001-revised.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-29T14:54:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-amd-wants-to-make-its-chips-30-times-more-energy-efficient-by-2025.md",
-      "title": "AMD wants to make its chips 30 times more energy-efficient by 2025",
-      "excerpt": "For years, Intel had been sitting on its CPU throne, gradually losing its drive to innovate process technology. Instead, the company chose to take the \"abnormally",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/91485-amd-wants-make-chips-30-times-more-energy.html",
-      "originalUrl": "https://www.techspot.com/news/91485-amd-wants-make-chips-30-times-more-energy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/09/2021-09-29-image-36.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/91485-amd-wants-make-chips-30-times-more-energy.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/91485-amd-wants-make-chips-30-times-more-energy.html",
-      "publishedDateTime": "2021-09-29T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-how-startups-can-grow-faster-with-the-cloud.md",
-      "title": "How Startups Can Grow Faster With The Cloud",
-      "excerpt": "Researching cloud infrastructure while starting a business is often a daunting task for startup founders, many of whom wear multiple hats. On top of identifying the most effective solutions and services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/",
-      "originalUrl": "https://www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61548e13ab0a838ac5235414%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/awsstartups/2021/09/29/how-startups-can-grow-faster-with-the-cloud/amp/",
-      "publishedDateTime": "2021-09-29T12:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-insights-on-the-natural-language-processing-global-market-to-2025-featuring-3m-apple-and-health-fidelity-among-others.md",
-      "title": "Insights on the Natural Language Processing Global Market to 2025 - Featuring 3M, Apple and Health Fidelity Among Others",
-      "excerpt": "15.2. Amazon Web Services, Inc. 15.3. Apple Inc. 15.4. Automated Insights, Inc. 15.5. Bitext Innovations, S.L 15.6. Conversica, Inc. 15.7. Dolbey Systems, Inc. 15.8 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/09/n23162501/insights-on-the-natural-language-processing-global-market-to-2025-featuring-3m-apple-and-health-fi",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/09/n23162501/insights-on-the-natural-language-processing-global-market-to-2025-featuring-3m-apple-and-health-fi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/23162501",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/23162501",
-      "publishedDateTime": "2021-09-29T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

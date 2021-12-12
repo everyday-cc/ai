@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-10-intel-teases-alchemist-graphics-card-in-arc-gpu-gameplay-trailer-at-game-awards-show.md",
+      "title": "Intel Teases Alchemist Graphics Card In Arc GPU Gameplay Trailer At Game Awards Show",
+      "excerpt": "The discrete GPU race is currently a contest between just two major players, AMD and NVIDIA, but Intel is getting ready to enter the marathon very soon as well. Lest anyone happened to forget, Intel offered up a sneak peek of its upcoming Arc Alchemist graphics card during The Game Awards 2021 show,",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer",
+      "originalUrl": "https://hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/57017/content/small_intel_arc_alchemist_setup.jpg",
+          "width": 708,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer",
+      "publishedDateTime": "2021-12-10T07:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-the-limitations-of-scaling-up-ai-language-models.md",
       "title": "The limitations of scaling up AI language models",
       "excerpt": "In a panel at NeurIPS 2021, experts discussed the limitations of training larger and larger natural language models akin to OpenAI's GPT-3.",
@@ -341,6 +384,49 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-stellantis-wants-to-outfit-cars-with-ai-to-drive-up-revenue.md",
+      "title": "Stellantis wants to outfit cars with AI to drive up revenue",
+      "excerpt": "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mrt.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php",
+      "originalUrl": "https://www.mrt.com/news/article/Stellantis-AI-strategy-targets-22-6b-in-16681141.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/23/11/55/21797705/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mrt.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php",
+      "cdnAmpWebUrl": "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/news/amp/Stellantis-AI-strategy-targets-22-6b-in-16681141.php",
+      "publishedDateTime": "2021-12-07T17:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Midland Reporter-Telegram",
+        "domain": "mrt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1356,101 +1442,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-hkust-and-other-universities-in-the-city-team-with-us-researchers-to-work-on-ai-chips.md",
-      "title": "HKUST and other universities in the city team with US researchers to work on AI chips",
-      "excerpt": "AI chips are processors optimised for data-intensive AI applications such as Internet of Things (IoT) devices, allowing them to run faster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/30/8881de5f-9221-46c3-83b9-7968d752e7a8_5c1086f0.jpg?itok=d_8xI6OY&v=1638274676",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai",
-      "publishedDateTime": "2021-11-30T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-samsung-brings-three-automotive-chips-for-5g-infotainment-read-details.md",
-      "title": "Samsung brings three automotive chips for 5G, infotainment. Read details",
-      "excerpt": "Samsung has introduced three of its latest automotive chip solutions; the Exynos Auto T5123 for 5G connectivity, the Exynos Auto V7 for in-vehicle infotainment systems and the ASIL-B certified S2VPS01 power management IC (PMIC) for the Auto V series.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details-11638251302523.html",
-      "originalUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details-11638251302523.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/11/30/600x338/LSI-Automotive-Solutions_main1_1638251508275_1638251513779.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details/amp-11638251302523.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details/amp-11638251302523.html",
-      "publishedDateTime": "2021-11-29T21:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

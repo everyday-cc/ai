@@ -21,29 +21,22 @@ topics:
   - AI in Security
 
 related:
-  - title: "New resources and tools to enable product leaders to implement AI responsibly"
-    excerpt: "As AI becomes more deeply embedded in our everyday lives, it is incumbent upon all of us to be thoughtful and responsible in how we apply it to benefit people and society. Join our digital event, Put Responsible AI into Practice, to learn more about these updates, including new guidelines for product"
-    publishedDateTime: 2021-12-07T09:00:17Z
-    webUrl: "https://azure.microsoft.com/blog/new-resources-and-tools-to-enable-product-leaders-to-implement-ai-responsibly/"
+  - title: "Camden Yards to test using artificial intelligence for security at Orioles games next season"
+    excerpt: "If you're heading out to a ball game at Oriole Park at Camden Yards next spring, you'll likely become a test subject for a new a security technology that uses low-energy radar with 3D imaging and artificial intelligence to detect hidden threats."
+    publishedDateTime: 2021-12-09T17:30:00Z
+    webUrl: "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.html"
+    ampWebUrl: "https://techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-camden-yards-artificial-intelligence-orioles.amp"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 86
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 63
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9a2deb3b-438c-4517-8ab4-7b4fb079d7c7.gif"
-        width: 1478
-        height: 684
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/camden-yards-to-test-u.jpg"
+        width: 2880
+        height: 1617
         isCached: true
-  - title: "Building AI responsibly from research to practice"
-    excerpt: "The speed at which artificial intelligence (AI) technologies have improved in competency and moved from the lab into mainstream applications has surprised even the most seasoned AI experts. Despite the progress,"
-    publishedDateTime: 2021-12-07T17:55:00Z
-    webUrl: "https://www.publicnow.com/view/E1C9479827765D725D9BA681DF1E2F637F20B64B"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
 
 secured: "JTYk1ctaqpk2ab6uRIlEDpuga9FUUs/ARxT0qNQAHeaH/9aDAthMuRNRV7amkpdenLF7azGBH/JwcUtcYmtSLLDw8DxUOEvPvj85p147Z4ICqwygL6vIXsrnADhLa2pdlcxapWn644gd+Cu00gfhOoeHrHkW+7XkMfwfHEZYSds8S2qgM0d57mFa6h8cdAYLI59q8gziAvEvB4fGCkuQyVYZnx/KYzoDfLYk0UYisiCdkC6goGS2b9SA12i4GeXRz5lrrmmMYFemz5gjqYT78MXOOyHfKgWocplw+OpclxOlSqy1hcOlWbpZeu4k6VB4ze/ya6aW4NxeKeSes2vApodKtq5cSUlzQj3NUvP/Fhw=;K4bpDuZBoxw5glxUWQJNag=="
 ---

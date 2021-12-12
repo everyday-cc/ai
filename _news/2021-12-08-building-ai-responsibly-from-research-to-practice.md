@@ -7,7 +7,7 @@ originalUrl: "https://www.publicnow.com/view/E1C9479827765D725D9BA681DF1E2F637F2
 webUrl: "https://www.publicnow.com/view/E1C9479827765D725D9BA681DF1E2F637F20B64B"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,33 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "New resources and tools to enable product leaders to implement AI responsibly"
-    excerpt: "As AI becomes more deeply embedded in our everyday lives, it is incumbent upon all of us to be thoughtful and responsible in how we apply it to benefit people and society. Join our digital event, Put Responsible AI into Practice, to learn more about these updates, including new guidelines for product"
-    publishedDateTime: 2021-12-07T09:00:17Z
-    webUrl: "https://azure.microsoft.com/blog/new-resources-and-tools-to-enable-product-leaders-to-implement-ai-responsibly/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 86
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9a2deb3b-438c-4517-8ab4-7b4fb079d7c7.gif"
-        width: 1478
-        height: 684
-        isCached: true
-  - title: "Oriole Park to test artificial intelligence security product"
-    excerpt: "Oriole Park at Camden Yards will test a new security technology during the upcoming baseball season that uses 3D imaging and artificial intelligence to detect concealed weapons."
-    publishedDateTime: 2021-12-10T10:08:00Z
-    webUrl: "https://www.kentucky.com/news/business/article256457406.html"
-    ampWebUrl: "https://amp.kentucky.com/news/business/article256457406.html"
-    cdnAmpWebUrl: "https://amp-kentucky-com.cdn.ampproject.org/c/s/amp.kentucky.com/news/business/article256457406.html"
-    type: article
-    provider:
-      name: Lexington Herald Leader
-      domain: kentucky.com
-    quality: 54
 
 secured: "br3N1JvWc1bTb71tLTn4eRfNO0Fzt9O6PIB+JNEHMTaESnwx0ArI709+uOFAaPZjcanHja8EQlNrzNFe3UT94D29vtPdSuVuIkvhVrEm09/Q5jHrrHzeGqyJt5jl1kf/o+6MeYwyO4bGsHrp9YkrW6Rga/WiQ7kQ0otB6iOXigCM7jTBgjyPq+P/LFJqn+WhbGV1QIQkqFkEHInzYbM0kNZW1LezaxYZ2dmMEoTJ+Nvb/rSxBAhYm/qSfQFbAJllJxRl+15QKuZqkdJrU+Bqk/Liw6c874APpbCevZuySM3VQu3lqJZZOrAZLflgXlHgPf03MHbpPEH2T9iIWpmQ80mGta7TrBoy/hlfriZKtwE=;csYpZy17vSuXB2K1GS+Kcg=="
 ---

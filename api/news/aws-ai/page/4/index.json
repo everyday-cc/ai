@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-10-ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production.md",
+      "title": "ML observability platform WhyLabs raises $10M to monitor models and data in production",
+      "excerpt": "WhyLabs, a startup developing an observability platform for machine learning projects, has raised $10 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/",
+      "originalUrl": "https://venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/zero-maintenance-dc986af684be6e69821625a4dbbfc4c5.png?w=800&resize=800%2C495&strip=all",
+          "width": 800,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/09/ml-observability-platform-whylabs-raises-10m-to-monitor-models-and-data-in-production/amp/",
+      "publishedDateTime": "2021-11-09T15:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-09-bushfire-mitigation-through-machine-learning-with-ausnet-and-aws.md",
       "title": "Bushfire mitigation through Machine Learning with AusNet and AWS",
       "excerpt": "Eastern Australia is among the most fire-prone regions in the world. Although bushfires are a regular occurrence in Australia, the 2019–2020 bushfire crisis set ablaze over 17 million hectares of land (larger than the size of England), costing the Australian economy more than $100 billion between property,",
@@ -1414,49 +1467,6 @@
       "provider": {
         "name": "InfoQ",
         "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-29-amazon-third-quarter-earnings-live-blog.md",
-      "title": "Amazon Third-Quarter Earnings Live Blog",
-      "excerpt": "Among analysts polled by FactSet, the consensus is for Amazon to post Q3 revenue of $111.51 billion (up 16% Y/Y) and GAAP EPS of $8.90 (down 28% due to high spending). Amazon typically shares revenue and operating income guidance in its earnings reports.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/amazon-third-quarter-earnings-live-blog",
-      "originalUrl": "https://www.thestreet.com/investing/amazon-third-quarter-earnings-live-blog",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTcxMjcxMjU4NTgxNzcxOTU1/automobile-manufacturing.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/amazon-third-quarter-earnings-live-blog",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/amazon-third-quarter-earnings-live-blog",
-      "publishedDateTime": "2021-10-28T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
         "images": null,
         "publishers": null,
         "authors": null

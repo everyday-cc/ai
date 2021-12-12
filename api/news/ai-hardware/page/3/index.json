@@ -2,6 +2,112 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-16-rethinking-ai-dire-warnings-and-imperfect-results.md",
+      "title": "Rethinking AI: Dire Warnings And Imperfect Results",
+      "excerpt": "AI has been in the news a lot lately, and not all for good reasons. What are the issues? I am write about some of them here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/",
+      "originalUrl": "https://www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6193d54fad2a42abc3707d2e%2F0x0.jpg",
+          "width": 1200,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/amp/",
+      "publishedDateTime": "2021-11-16T06:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-16-helmai-raises-26m-for-unsupervised-autonomous-driving-software.md",
+      "title": "Helm.ai raises $26M for ‘unsupervised’ autonomous driving software",
+      "excerpt": "Helm.ai, a startup developing software for autonomous vehicles trained using unsupervised learning techniques, has raised $26 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
+      "originalUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/09/cq5dam-web_-1280-1280.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/",
+      "publishedDateTime": "2021-11-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-ai-accelerator-chip-market-shares-swot-analysis-key-development-strategies-and-forecasts-till-2027.md",
       "title": "AI Accelerator Chip Market Shares SWOT Analysis, Key Development Strategies and Forecasts Till 2027",
       "excerpt": "The AI Accelerator Chip Market research report shows the latest market insights, current situation analysis with upcoming trends and breakdown of the products and services. This market report ...",
@@ -1349,92 +1455,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-ai-chipmaker-hailo-raises-136-million.md",
-      "title": "AI Chipmaker Hailo Raises $136 Million",
-      "excerpt": "AI chipmaker Hailo raised $136 million in its latest funds round, representing one of the largest investments ever in the AI chip space. It comes amid the ongoing global chip shortage, and a surge in demand for the company's technology,",
-      "sourceUrl": null,
-      "webUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million",
-      "originalUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.chdrstatic.com/media/e275f4bd-3682-4dbc-9167-97e654817f8f.jpg?width=1200&source=backend&auto=webp",
-          "width": 1200,
-          "height": 605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cheddar.com/media/ai-chipmaker-hailo-raises-136-million.amp",
-      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/ai-chipmaker-hailo-raises-136-million.amp",
-      "publishedDateTime": "2021-11-08T14:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cheddar",
-        "domain": "cheddar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-09-amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads.md",
-      "title": "AMD rolls out Instinct MI200 GPUs for HPC and AI workloads",
-      "excerpt": "AMD on Monday unveiled the Instinct MI200 accelerator, the latest generation of its data center GPU. The chipmaker says it's the fastest HPC and AI accelerator, surpassing records set by the MI100, rolled out last year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
-      "originalUrl": "https://www.zdnet.com/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-rolls-out-instinct-mi200-gpus-for-hpc-and-ai-workloads/",
-      "publishedDateTime": "2021-11-08T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/codifying-humanity-why-ai-sucks-conten
 webUrl: "https://thenextweb.com/news/codifying-humanity-why-ai-sucks-content-moderation"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

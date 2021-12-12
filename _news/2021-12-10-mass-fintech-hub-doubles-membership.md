@@ -41,20 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "The Future of Fintech 2050: AI-Powered Finance Assistants"
-    excerpt: "Discover a possible future in which AI-powered assistants control all aspects of people's financial lives using ultra-personalisation and hyper-automation"
-    publishedDateTime: 2021-12-07T09:00:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/future-fintech-2050-ai-powered-finance-assistants"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 54
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/ai-powered-finance-assistants.jpg.png?itok=T_w9zlmv"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Finnish CVC Helen Ventures invests in AI EnergyTech startup"
     excerpt: "Energy trading-as-a-service company enspired lands USD 8.7M of fresh capital, adding to its momentum to solve a key challenge in the energy transition by making power grids more flexible. The funding round,"
     publishedDateTime: 2021-12-09T07:37:00Z

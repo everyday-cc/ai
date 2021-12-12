@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stellantis’ AI strategy targets $22.6b in revenues by 2030"
-    excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands targeting 20 billion euros ($22.6 billion) in annual revenues"
-    publishedDateTime: 2021-12-07T07:22:00Z
-    webUrl: "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/"
-    ampWebUrl: "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/"
-    cdnAmpWebUrl: "https://www-informnny-com.cdn.ampproject.org/c/s/www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/"
-    type: article
-    provider:
-      name: WWTI
-      domain: informnny.com
-    quality: 59
-    images:
-      - url: "https://www.informnny.com/wp-content/uploads/sites/58/2020/02/cropped-50-512X512-1.png?strip=1"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Stellantis wants to outfit cars with AI to drive up revenue"
     excerpt: "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands, hoping the tech upgrade will help it bring in 20 billion euros ($22.6 billion) in annual revenue by 2030."
     publishedDateTime: 2021-12-08T01:44:00Z

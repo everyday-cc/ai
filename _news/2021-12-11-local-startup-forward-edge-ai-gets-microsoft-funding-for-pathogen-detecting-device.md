@@ -36,9 +36,9 @@ related:
   - title: "Microsoft Azure Orbital opens up space to everyone"
     excerpt: "In a new blog post, Microsoft detailed new partnerships and new features that it hopes will result in better satellite imagery, better connectivity, and more data/insights. Azure Orbital is a fully managed cloud-based ground station-as-a-service that lets users communicate with their spacecraft or satellite constellations,"
     publishedDateTime: 2021-12-10T10:16:00Z
-    webUrl: "https://www.techradar.com/nz/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    webUrl: "https://www.techradar.com/au/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
     type: article
     provider:
       name: TechRadar

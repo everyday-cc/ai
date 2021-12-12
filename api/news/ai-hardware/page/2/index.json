@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-01-hkust-and-other-universities-in-the-city-team-with-us-researchers-to-work-on-ai-chips.md",
+      "title": "HKUST and other universities in the city team with US researchers to work on AI chips",
+      "excerpt": "AI chips are processors optimised for data-intensive AI applications such as Internet of Things (IoT) devices, allowing them to run faster.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/11/30/8881de5f-9221-46c3-83b9-7968d752e7a8_5c1086f0.jpg?itok=d_8xI6OY&v=1638274676",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3157919/hkust-and-other-universities-city-team-us-researchers-work-ai",
+      "publishedDateTime": "2021-11-30T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-samsung-brings-three-automotive-chips-for-5g-infotainment-read-details.md",
+      "title": "Samsung brings three automotive chips for 5G, infotainment. Read details",
+      "excerpt": "Samsung has introduced three of its latest automotive chip solutions; the Exynos Auto T5123 for 5G connectivity, the Exynos Auto V7 for in-vehicle infotainment systems and the ASIL-B certified S2VPS01 power management IC (PMIC) for the Auto V series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details-11638251302523.html",
+      "originalUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details-11638251302523.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/11/30/600x338/LSI-Automotive-Solutions_main1_1638251508275_1638251513779.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details/amp-11638251302523.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/samsung-brings-three-automotive-chips-for-5g-infotainment-read-details/amp-11638251302523.html",
+      "publishedDateTime": "2021-11-29T21:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-new-azure-ai-vms-immediately-claim-top500-supercomputer-rankings.md",
       "title": "New Azure AI VMs Immediately Claim Top500 Supercomputer Rankings",
       "excerpt": "Visual Studio coders who dabble in artificial intelligence projects can now take advantage of new Azure virtual machines (VMs) featuring 80 GB NVIDIA GPUs that immediately claimed four spots on the TOP500 supercomputers list,",
@@ -1343,112 +1438,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-rethinking-ai-dire-warnings-and-imperfect-results.md",
-      "title": "Rethinking AI: Dire Warnings And Imperfect Results",
-      "excerpt": "AI has been in the news a lot lately, and not all for good reasons. What are the issues? I am write about some of them here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/",
-      "originalUrl": "https://www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6193d54fad2a42abc3707d2e%2F0x0.jpg",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/randybean/2021/11/16/rethinking-ai-dire-warnings-and-imperfect-results/amp/",
-      "publishedDateTime": "2021-11-16T06:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-helmai-raises-26m-for-unsupervised-autonomous-driving-software.md",
-      "title": "Helm.ai raises $26M for ‘unsupervised’ autonomous driving software",
-      "excerpt": "Helm.ai, a startup developing software for autonomous vehicles trained using unsupervised learning techniques, has raised $26 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
-      "originalUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/09/cq5dam-web_-1280-1280.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/helm-ai-raises-26m-for-unsupervised-autonomous-driving-software/amp/",
-      "publishedDateTime": "2021-11-16T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
