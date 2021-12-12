@@ -43,22 +43,6 @@ related:
         width: 2084
         height: 1032
         isCached: true
-  - title: "Autonomous driving startup Deeproute.ai prices L4 solution at $10,000"
-    excerpt: "Deeproute.ai, an autonomous vehicle startup with offices in Shenzhen and Fremont, California, unveiled an ambitious self-driving solution on Wednesday. The package, named DeepRoute-Driver 2.0, is a production-ready Level 4 system that costs approximately $10,"
-    publishedDateTime: 2021-12-08T03:38:00Z
-    webUrl: "https://techcrunch.com/2021/12/07/deeproute-l4-10000-usd/"
-    ampWebUrl: "https://techcrunch.com/2021/12/07/deeproute-l4-10000-usd/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/07/deeproute-l4-10000-usd/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://i.ytimg.com/vi/QMm8wqDXZW8/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "DeepRoute.ai Offers a Production-Ready L4 Autonomous Driving System at a Cool $10,000"
     excerpt: "DeepRoute.ai offers a production-ready L4 Autonomous Driving system at a cool $10,000. The price tag is incredible given the hardware used, with five solid-state lidar sensors, eight cameras, a proprietary computing system,"
     publishedDateTime: 2021-12-09T16:32:00Z

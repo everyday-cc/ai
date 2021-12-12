@@ -42,6 +42,22 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Clearview AI Has Acquired A New Patent For Facial Recognition Technology"
+    excerpt: "Advertisement Clearview AI has developed a facial recognition technology that might have spotted you by now. The company’s software skims through public images that are available on social media and uses them to help law enforcement identify wanted individuals by matching their public images with those found in government databases or surveillance footage."
+    publishedDateTime: 2021-12-12T20:32:00Z
+    webUrl: "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/"
+    ampWebUrl: "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Wonderful Engineering
+      domain: wonderfulengineering.com
+    quality: 73
+    images:
+      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-ojipHOC4CfCX.jpg"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "zEMVK05mgecLRjbFfUeCPpIfx969JPtBcv1XfpI0i71WoGOBTJc1/N/gSjnnioGD0HQnWN9hKQp8jSM3c6EyieJqZTO6MBjakXaK2jRTK+mNu5xCPkQZgSeFxnr+uvxmMqZrmK5y55lAmYXQQrvBqpJvry8wc/j6DsCGitPBkVI7mZdvoDg9shqagRIxeDZpwN+aUYTfjOTScsmseWxOfNh2Jqxk5Ug4TqM9EQZLiiwdX/RDrNeuz+GN1jwBAKfKGy21hQKG3VSjg1fBCjw/TeFrudGCt/lzWeSClRY8nB0fAnwZ06UOhRWdXjCK27lbFPgsYLLKh7edvudtsOSyjo9Dt+V0bCi3ktWR/quhOLVc9WGf+AxO0fox4059uCDuvj3nPh0s17KaUecHoUFmRqeCkgKFQyogSUw6bMTsTI6M/v/YIEVLZn556fjf52bCaAti1LFTiaP1bQbbgPdl/nPaw5lW5+ZkTu7SM6EvQMo/upTxPqyOrjtgtXd8ifDXVsK3juDDgtV1Z8YVMkZwHw==;1n/+06SkiZl6Z7GewnZJaQ=="
 ---

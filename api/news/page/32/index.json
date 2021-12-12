@@ -2,6 +2,57 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-11-16-ai-code-discovery-platform-catalyzex-raises-164m.md",
+      "title": "AI code discovery platform CatalyzeX raises $1.64M",
+      "excerpt": "CatalyzeX, a startup enabling AI code discovery for developers and data scientists, has raised $1.64 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/16/ai-code-discovery-platform-catalyzex-raises-1-64m/",
+      "originalUrl": "https://venturebeat.com/2021/11/16/ai-code-discovery-platform-catalyzex-raises-1-64m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1321461813.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/16/ai-code-discovery-platform-catalyzex-raises-1-64m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/16/ai-code-discovery-platform-catalyzex-raises-1-64m/amp/",
+      "publishedDateTime": "2021-11-16T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-ge-pounces-on-surging-healthcare-demand-with-spinoff.md",
       "title": "GE Pounces on Surging Healthcare Demand With Spinoff",
       "excerpt": "In spinning off its healthcare business, GE is betting on the fast-growing diagnostic-imaging-equipment market, a sector facing disruption from artificial intelligence and growing competition from startups.",
@@ -1109,49 +1160,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-in-the-mena-region.md",
-      "title": "Amethis completes a minority investment in Tarjama, the leading language technology & services firm in the MENA region",
-      "excerpt": "Amethis, through its newly launched fund, Amethis MENA Fund II (AMF2), has completed its second transaction, acquiring a",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/n24114911/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-i",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/n24114911/amethis-completes-a-minority-investment-in-tarjama-the-leading-language-technology-services-firm-i",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24114911",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24114911",
-      "publishedDateTime": "2021-11-15T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

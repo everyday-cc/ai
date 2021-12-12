@@ -8,9 +8,9 @@ webUrl: "https://www.vanguardngr.com/2021/12/nigerian-startups-artificial-intell
 ampWebUrl: "https://www.vanguardngr.com/2021/12/nigerian-startups-artificial-intelligence-e-market-penetration/amp/"
 cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2021/12/nigerian-startups-artificial-intelligence-e-market-penetration/amp/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 63
+heat: 73
+published: true
 
 provider:
   name: Vanguard
@@ -19,6 +19,8 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.vanguardngr.com/wp-content/uploads/2018/05/tech-per.jpg"
@@ -42,6 +44,6 @@ related:
         height: 854
         isCached: true
 
-secured: "BCWeXuo3Jmdi+iK+Vawgq/3aNVH1paT9IUFqmkCUn7QsDRvjse/eErkPrNZ8amY4y7Ui//i1VxcuknOibE7+IC8TJAvUL/Y9vtKzqLyp4fQrDCUg5ROy+/OBgjp90yRCZlACuGHlaKXQfNlGJTJPTle2RbVpquS7kiJDjiIuQJuDsYZaBH1xU3NbxCVEy0YBb6+kz57OTnJQCDsnCdgwdA7lSIG7Lbp3NXEnunxnomgQwfJ3DvuyEhKHYU+WM51eSbEgIy/HkhJbpBsS7bUbc9O/TBF1Hf8uMCQQKS2fy3d9LKotH0SxmNrtctO44wDirYC+zUQIzgwxoDCkTFfRC020O2JudjEnOIVEwHgGkAQ=;lHaw6dsqlG0OlCNj8WEj6w=="
+secured: "M9ITONmGcszLh27Yr6UAy3pPzIYRj9OgiTm/YU6D1Ttdq5NkDdNasnnBZz60V5T/XfUhxaNc/gADjtIulK4II7qOKOfGg2DEwMovV+iUeEBQwb8t13tKBuSZKHwq1xWd27JxN2RQsDpNlAjIBhmbvbZ+yHn4mZc2NiXqhBUB6j19G+PT0pShyp/EhacAb4A95mmnPrFydVpyyng1HwCWSU5fodsdu+v1y01uzGl4nEBgybguAL7PXoAMJ04APWpM7xHM6Dlt2sItznwOg/kLVd3nG9wC5duZO0rgt5F9gtm0SAMgYHzF/9Y9y82ws9eIOwArds3r4fnNorXPNFu2Cnr45fQad6aE/v6ZrVyTmQE6IWats6svwMlIViXWmTnQ50KVpYwmKPu1+Rm00OYPy26TST4C0IWU+Dwck0qlCUMhQKvbxt1Y/RkvpLB/ICgKvrlRLt2EHYhapeGXZ61NppKVzja+OuloSOwKPnQRfxK2E0/tZT5OWeCl50ydQS0ewEdE2hxF5OVv8AfgijTp7A==;51Vtl/O2Yqtb2lf1Mn/2OA=="
 ---
 

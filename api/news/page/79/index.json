@@ -2,6 +2,49 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2021-10-12-super-micro-computer-inc.md",
+      "title": "SUPER MICRO COMPUTER INC",
+      "excerpt": "These servers are designed for demanding AI applications where low latency and high application performance are essential. The 2U NVIDIA HGX A100 4-GPU system is suited for deploying modern AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54178784-super-micro-computer-inc-supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to-accelerate-a-wide-range-of-ai-hpc-and-cloud-workl-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2021-10/54178784-super-micro-computer-inc-supermicro-expands-gpu-system-portfolio-with-innovative-new-servers-to-accelerate-a-wide-range-of-ai-hpc-and-cloud-workl-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
+          "width": 400,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-why-graph-db-ai-may-be-the-future-of-data-management.md",
       "title": "Why graph DB + AI may be the future of data management",
       "excerpt": "Dr. Alin Deutsch of UC San Diego explains in a Q&A why graph database algorithms will become the driving force behind the next generation of AI and machine learning apps.",
@@ -1140,49 +1183,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-12-germany-unveils-the-first-self-driving-train.md",
-      "title": "Germany Unveils The First Self-Driving Train",
-      "excerpt": "We know companies are already working on self-driving cars, but what about self-driving trains? As it turns out, over in Germany, rail",
-      "sourceUrl": null,
-      "webUrl": "https://www.ubergizmo.com/2021/10/germany-self-driving-train/",
-      "originalUrl": "https://www.ubergizmo.com/2021/10/germany-self-driving-train/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/cdnssl.ubergizmo.com/wp-content/uploads/2021/10/germany-train.jpg",
-          "width": 705,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ubergizmo.com/2021/10/germany-self-driving-train/amp/",
-      "cdnAmpWebUrl": "https://www-ubergizmo-com.cdn.ampproject.org/c/s/www.ubergizmo.com/2021/10/germany-self-driving-train/amp/",
-      "publishedDateTime": "2021-10-12T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ubergizmo Feed",
-        "domain": "ubergizmo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQEU7CTKRAYZBQ/article-cover_image-shrink_720_1280/0/1638804317784?e=1644451200&v=beta&t=ISnO7ttNkxyoaZ0PHxlLaNZbGepAZqBW6a_qCF9gUE0"

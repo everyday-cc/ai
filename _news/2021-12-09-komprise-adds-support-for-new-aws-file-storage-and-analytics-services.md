@@ -36,20 +36,6 @@ related:
       name: CIOL
       domain: ciol.com
     quality: 39
-  - title: "Cognitive Analytics Market to Be Worth $48 Billion By 2026"
-    excerpt: "Polaris Market Research anticipates a 37.3 compound annual growth rate for cognitive analytics solutions worldwide for the next five years."
-    publishedDateTime: 2021-12-08T05:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Cognitive-Analytics-Market-to-Be-Worth-%2448-Billion-By-2026-150502.aspx"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 24
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/142013-1221_SpeechAI_Verint_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
 
 secured: "uGIBitaTEdNo1dkCoJStr0aaIqImfh8sThx5LL6++pP4nDVS7YF1l82iKC+YRxYaQp6LNewbVH0GiRKMrmqzRJy90HIOLfO/qhhvkieO/4mvLjWMT0WaoMwOyMU+aatDNVIS4/0EcgMYZUF96ldn02sWY6WiutbmRMPMgkzOmq4uC9Y25CAe0N39n79q4yfitHnjBOopfGPNslXRJLzBg6IdLFnUke0gIOFQa4JvWlu2YAXHpiTAUsw32wOVq804WFCOIJuGY/jA2vGeYAbIXRbxx4kmGkLllwjQHEzWskGv9TL0D6eN47T13q9Ot2N/6O/3EPdZqY5NGI5JvNoev+fCkJliWq4h5r4DIVjT5Z0=;nr3YPmkp/4gawM0UTa+bDw=="
 ---

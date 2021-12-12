@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Autos
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://ens-newswire.com/wp-content/uploads/2021/12/WisconsinAutonomousVan.png"
