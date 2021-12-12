@@ -2,6 +2,48 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-11-11-tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech.md",
+      "title": "Toch.ai launches Rs 100 cr Startup Fund; to invest in video, audio tech",
+      "excerpt": "Toch.ai, an AI-driven SaaS platform for digital content players today launched a Rs 100 crore Startup Fund to invest in video and audio tech startups globally over a period of time. The fund aims to empower early-stage startups to drive innovation and bolster growth in the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
+      "originalUrl": "https://www.freepressjournal.in/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/2021-11/e1f7a425-dd56-4a5f-9314-e526345683bf/Toch_ai_Co_Founders.jpeg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/tochai-launches-rs-100-cr-startup-fund-to-invest-in-video-audio-tech",
+      "publishedDateTime": "2021-11-10T23:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-google-pixel-6-series-might-get-face-unlock-smarts-after-all.md",
       "title": "Google Pixel 6 series might get face unlock smarts after all",
       "excerpt": "The Google Pixel 6 series launched without face unlock, however, a new commit suggests that the firm is still working on the feature.",
@@ -1149,50 +1191,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-10-microsoft-india-proposes-varuna-scalable-low-cost-training-of-massive-deep-learning-models.md",
-      "title": "Microsoft India Proposes Varuna: Scalable, Low-Cost Training of Massive Deep Learning Models",
-      "excerpt": "The performance of contemporary AI systems on natural language processing (NLP) tasks would have been difficult to imagine just a few years ago. The 2017 debut of massive language model BERT was a game-changer,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/",
-      "originalUrl": "https://syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2021/11/10/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-142/amp/",
-      "publishedDateTime": "2021-11-10T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

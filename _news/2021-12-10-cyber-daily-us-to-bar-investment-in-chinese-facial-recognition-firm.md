@@ -61,6 +61,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Chinese AI Company SenseTime Delays IPO as U.S. Imposes Investment Ban"
+    excerpt: "The Treasury Department formally placed SenseTime on a list of companies that support China’s military, barring Americans from investing in the company."
+    publishedDateTime: 2021-12-11T02:38:00Z
+    webUrl: "https://www.wsj.com/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    ampWebUrl: "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-449875/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "How Machine Learning is Changing Finance Forever"
     excerpt: "Innovation drives things forward no matter the industry that is on the receiving end. In finance, innovation over the last decade has seen how financial institutions, banks, and lenders interact with their customers and provide financial services change exponentially."
     publishedDateTime: 2021-12-10T05:41:00Z

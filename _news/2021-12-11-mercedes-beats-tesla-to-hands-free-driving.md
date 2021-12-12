@@ -124,16 +124,19 @@ related:
         height: 394
         isCached: true
   - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
-    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
-    publishedDateTime: 2021-12-11T14:00:00Z
-    webUrl: "https://www.thenewstribune.com/news/business/article256490316.html"
-    ampWebUrl: "https://amp.thenewstribune.com/news/business/article256490316.html"
-    cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article256490316.html"
+    excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving"
+    publishedDateTime: 2021-12-10T18:16:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/gaming-driving-tesla-mercedes-recall-81677819"
     type: article
     provider:
-      name: News Tribune
-      domain: thenewstribune.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 39
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_f6c58126f5c1429992e3d6153cc7aae5_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Gaming while driving: Tesla allows it, Mercedes does recall"
     excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
     publishedDateTime: 2021-12-11T17:51:00Z

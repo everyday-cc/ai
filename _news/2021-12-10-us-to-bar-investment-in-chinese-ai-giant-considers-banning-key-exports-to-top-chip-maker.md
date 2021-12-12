@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/u-s-to-bar-investment-in-chinese-ai
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799"
 type: article
 quality: 94
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -34,6 +34,22 @@ related:
   - title: "Chinese AI Giant SenseTime Delays IPO as U.S. Prepares Investment Ban"
     excerpt: "Artificial-intelligence company SenseTime Group is trying to keep its initial public offering alive, according to a person familiar with the matter, as the Biden administration prepares to add the company to a blacklist that will ban American investors from buying its shares."
     publishedDateTime: 2021-12-10T14:30:00Z
+    webUrl: "https://www.wsj.com/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    ampWebUrl: "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-449875/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Chinese AI Company SenseTime Delays IPO as U.S. Imposes Investment Ban"
+    excerpt: "The Treasury Department formally placed SenseTime on a list of companies that support China’s military, barring Americans from investing in the company."
+    publishedDateTime: 2021-12-11T02:38:00Z
     webUrl: "https://www.wsj.com/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
     ampWebUrl: "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"

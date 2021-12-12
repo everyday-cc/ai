@@ -2,6 +2,58 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2021-10-14-fraudsters-cloned-company-directors-voice-in-35-million-bank-heist-police-find.md",
+      "title": "Fraudsters Cloned Company Director’s Voice In $35 Million Bank Heist, Police Find",
+      "excerpt": "AI voice cloning is used in a huge heist in the U.A.E., amidst warnings about cybercriminal use of the new technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-millions/?sh=509787a47559",
+      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2021/10/14/huge-bank-fraud-uses-deep-fake-voice-tech-to-steal-millions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61680b88d05b64310712fd25%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-14T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-ai-shopping-assistant-karma-raises-25-million-in-series-a-funding-led-by-target-global.md",
       "title": "AI shopping assistant Karma raises $25 million in Series A funding led by Target Global",
       "excerpt": "AI shopping assistant and shopping network Karma announced that it has raised $25 million in Series A funding led by Target Global followed by MoreTech Ventures, with participation from existing investors including NFX and Altair Capital.",
@@ -1083,49 +1135,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-14-demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-crime.md",
-      "title": "Demystifying AI for AML: European Banking Federation and SAS help banks worldwide fight financial crime",
-      "excerpt": "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide financial systems each year. That’s an astonishing 2-5% of global GDP. The European Banking Federation (EBF) – uniting 32 national banking associations in Europe,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-europe-health-db23f6b32568c574d43dcc384c068fb3",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-europe-health-db23f6b32568c574d43dcc384c068fb3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

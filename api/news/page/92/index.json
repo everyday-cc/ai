@@ -2,6 +2,58 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2021-10-04-self-driving-citroen-skate-carries-swappable-pods-for-inner-city-travel.md",
+      "title": "Self-driving Citroën Skate carries swappable pods for inner-city travel",
+      "excerpt": "Citroën has introduced an interesting mobility concept that brings together several forward-looking transport technologies into one versatile vehicle. The Citroën Skate is a self-driving electric vehicle platform that can be fitted with different types of pods depending on the job at hand,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/",
+      "originalUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/49de448/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F55%2Fbb%2F8ecafcfd49cda55007acc29fd6b4%2Fcitroen-pullman-hero.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/citroen-skate-autonomous-interchangeable-pods/?amp=true",
+      "publishedDateTime": "2021-10-03T22:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-04-ibm-loss-of-market-share-and-revenue-but-valuation-is-cheap.md",
       "title": "IBM: Loss Of Market Share And Revenue, But Valuation Is Cheap",
       "excerpt": "It includes cognitive applications enabled by IBM’s Watson AI technology; cloud, middleware and data platform software; and mission-critical on-premise transaction processing software.",
@@ -1081,39 +1133,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-10-02-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) has become a buzzword for nearly every company when touting its products and services. What used to be the domain of only a few technology companies is now pervasive in automobiles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2021-10-02?amp",
-      "publishedDateTime": "2021-10-02T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-11-27-building-artificial-intelligence-staffing-is-the-most-challenging-part.md",
+      "title": "Building artificial intelligence: staffing is the most challenging part",
+      "excerpt": "Every company worth its weight is set on achieving practical and scalable artificial intelligence and machine learning. However, it's all much easier said than done -- to which AI leaders within some of the most information-intensive enterprises can attest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/building-artificial-intelligence-staffing-is-the-most-challenging-part/",
+      "originalUrl": "https://www.zdnet.com/article/building-artificial-intelligence-staffing-is-the-most-challenging-part/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/82792f320a8b17f93e4402163655922ba45427cb/2021/11/26/ad71fe56-766b-46a9-9ad4-4f14164f0760/path-station-people-train-station-path-october-2016-photo-by-joe-mckendrick.jpg?width=770&height=578&fit=crop&auto=webp",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-27-uae-launches-first-driverless-autonomous-vehicle.md",
       "title": "UAE launches first driverless autonomous vehicle",
       "excerpt": "The driverless and 100% electric shuttle is one of the first-ever autonomous vehicles to be deployed in the UAE in a ‘mixed traffic mode’, as it can drive on the road with other cars",
@@ -1071,58 +1122,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-vibrating-sleeve-gives-wearer-a-feel-for-languages.md",
-      "title": "Vibrating sleeve gives wearer a feel for languages",
-      "excerpt": "For the past year or so, a student team from the Eindhoven University of Technology has been working on a wearable that could allow folks to understand what's being said in another language through vibrations on the arm.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/",
-      "originalUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0af92a6/2147483647/strip/true/crop/5000x3333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2F86%2F1b496d894a838893aaf9744a2057%2F1115-66cb700208516f8a063418572da51f8c.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/?amp=true",
-      "publishedDateTime": "2021-11-25T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

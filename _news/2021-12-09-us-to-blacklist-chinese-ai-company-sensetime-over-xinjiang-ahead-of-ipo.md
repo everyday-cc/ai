@@ -50,6 +50,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Chinese AI Company SenseTime Delays IPO as U.S. Imposes Investment Ban"
+    excerpt: "The Treasury Department formally placed SenseTime on a list of companies that support China’s military, barring Americans from investing in the company."
+    publishedDateTime: 2021-12-11T02:38:00Z
+    webUrl: "https://www.wsj.com/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    ampWebUrl: "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-449875/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Cyber Daily: U.S. to Bar Investment in Chinese Facial Recognition Firm"
     excerpt: "The use of facial recognition sparks debate and we’ve covered local bans, such as in Portland and San Francisco. As with data privacy in general, there is no federal law in the U.S. to set boundaries,"
     publishedDateTime: 2021-12-10T13:06:00Z

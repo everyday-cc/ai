@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Gaming while driving: Tesla allows it, Mercedes does recall"
-excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving."
-publishedDateTime: 2021-12-11T14:00:00Z
-originalUrl: "https://www.thenewstribune.com/news/business/article256490316.html"
-webUrl: "https://www.thenewstribune.com/news/business/article256490316.html"
-ampWebUrl: "https://amp.thenewstribune.com/news/business/article256490316.html"
-cdnAmpWebUrl: "https://amp-thenewstribune-com.cdn.ampproject.org/c/s/amp.thenewstribune.com/news/business/article256490316.html"
+excerpt: "Earlier this week, reports surfaced that Tesla allows drivers to play video games on dashboard touch screens while vehicles are moving"
+publishedDateTime: 2021-12-10T18:16:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/gaming-driving-tesla-mercedes-recall-81677819"
+webUrl: "https://abcnews.go.com/Business/wireStory/gaming-driving-tesla-mercedes-recall-81677819"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: News Tribune
-  domain: thenewstribune.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s.abcnews.com/images/Technology/WireAP_f6c58126f5c1429992e3d6153cc7aae5_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Mercedes Beats Tesla to Hands-Free Driving"
@@ -180,6 +184,6 @@ related:
       domain: fleetnews.co.uk
     quality: 24
 
-secured: "BfQI/gccxAPVQdnUt0LZlH5It9ZaitOprTdF2FOXK7FlkKzRdPoUHn4J04gG7AIl/PdSKSTJoQunRlbdIGiHwHGHoncjziyi/qVHZMSciQkQmx+j9IFgnWCKhtL0Chr4HP8N6+bJ2Y5h8wgzQtHSYd7HId7VZ5pwPoAVoariqjtb8MMNLckv6KLXMFaeuE98B7LHep9M87IwPLU3X1N+9x+0h+aznYhTNwcshTVDVZWi6SFrTcmfDFOwioHGbn2+Tn5yoLH+qwjt/zt8XZPq7NJIgMyFiHc1UBjQpVcTNOxeDAkh3QZf+B06lwERNzl1Y46ROkGyPdVDn3iBZ6+aA/gLdlXkmqccIDrILStUjL/9Xvt0fsRLzyLtVEV3Z/9fPEbTZir6w7QFI63jD1CpA8W+ZtmiKD8TLyvzGJq5xFRsChPWyCnEeEpaTN+JSStRX/I6V8Hp082tvBsZGwVWvRoeIQTCoZs1ZqxBrea6qIz4mRjkpwbH37pVdWet7t8weChNi2b6UIfrshlD3k9cZQ==;ILY4UMvsiManOhZYsO5/gA=="
+secured: "VsRvz2A+aHDv9dX0iZWvxAjFo+PdxPFGs/HZ+MDAOyjJMynstILiQWNT4qO1WLKJhzyCTZCQBjfCcPEi5G3B8lEFOt7LArt+SYIBzGTTAXzeGkvM0QS6PrmTC+hVfA/2Ee7pSl5unIo1Vp7Wd+m0qDRpDIGdjcx57DzMrW4ObPiCeRwgmWHSLEuIluKHFQe4Hzsn+eGauaZSeArJ1BwKH0RkWcYYD12mynZfhDCVimD8YfG5wtOmsPx+x4FFrHZiqLTfbXL0/S66USwJkLNK9+By/LCXYjjkztOYLJZwJBVr1FrMrSYR8z/5V+J9woJUlCVuMjHeOckbS6H2PqeQg2515RwgsnQ7oDqNW+JsgSk=;qnBC+51ws9VaOhtAliILpA=="
 ---
 

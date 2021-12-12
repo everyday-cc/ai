@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence carries a huge upside. But potential harms need to be managed"
-    excerpt: "The increasing use of artificial intelligence and machine learning in public decision making is raising critical issues around fairness and human rights."
-    publishedDateTime: 2021-12-07T10:04:00Z
-    webUrl: "https://theconversation.com/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073"
-    ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 52
-    images:
-      - url: "https://images.theconversation.com/files/436064/original/file-20211207-27-1vcec0k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop"
-        width: 320
-        height: 224
-        isCached: true
   - title: "Artificial intelligence carries a huge upside, but potential harms need to be managed"
     excerpt: "Artificial intelligence and machine learning have the potential to contribute to the resolution of some of the most intractable problems of our time. Examples include climate change and pandemics. But they have the capacity to cause harm too."
     publishedDateTime: 2021-12-07T18:10:00Z

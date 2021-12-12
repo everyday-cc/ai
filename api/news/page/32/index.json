@@ -2,6 +2,41 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-11-16-concentric-ai-becomes-member-of-microsoft-intelligent-security-association-misa.md",
+      "title": "Concentric AI Becomes Member of Microsoft Intelligent Security Association (MISA)",
+      "excerpt": "Inc., a leading vendor of intelligent AI-based solutions for protecting business-critical data, today announced that it has joined the Microsoft Intelligent Security Association (MISA). The Microsoft (News - Alert) Intelligent Security Association is an ecosystem of independent software vendors and Managed Security Services providers that have integrated their security products with Microsoft's to better defend against increasing cyber-threats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-concentric-ai-becomes-member-microsoft-intelligent-security-association-/2021/11/16/9493036.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-concentric-ai-becomes-member-microsoft-intelligent-security-association-/2021/11/16/9493036.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-11-16-cape-privacy-forges-partnership-with-snowflake-enabling-financial-services-organizations-to-use-encrypted-data-for-predictive-modeling-in-the.md",
       "title": "Cape Privacy Forges Partnership with Snowflake, Enabling Financial Services Organizations to Use Encrypted Data for Predictive Modeling in the Cloud",
       "excerpt": "Cape Privacy has joined the Snowflake Partner Network to partner with Snowflake, the Data Cloud company. As a Snowflake partner,",
@@ -1100,48 +1135,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-wfans-steve-somers-signs-off-jerry-seinfeld-helps-say-goodbye-defends-mets-steve-cohen.md",
-      "title": "WFAN’s Steve Somers signs off: Jerry Seinfeld helps say goodbye, defends Mets’ Steve Cohen",
-      "excerpt": "Longtime WFAN host Steve “The Schmoozer” Somers is leaving the station. Somers said it will be a mutual parting after he declined WFAN’s offer to return to his old overnight job full-time",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/profile/steve-cohen/?sh=7b1407a363f8",
-      "originalUrl": "https://www.nj.com/sports/2021/11/wfans-steve-somers-signs-off-jerry-seinfeld-helps-say-goodbye-defends-mets-steve-cohen.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5a8d946e4bbe6f2652f61ca6%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D703%26cropX2%3D3292%26cropY1%3D80%26cropY2%3D2667",
-          "width": 416,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NJ.com",
-        "domain": "nj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

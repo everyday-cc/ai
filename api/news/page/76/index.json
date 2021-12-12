@@ -2,6 +2,49 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2021-10-14-demystifying-ai-for-aml-european-banking-federation-and-sas-help-banks-worldwide-fight-financial-crime.md",
+      "title": "Demystifying AI for AML: European Banking Federation and SAS help banks worldwide fight financial crime",
+      "excerpt": "The United Nations Office on Drugs and Crime estimates that US$800 billion to $2 trillion is laundered through worldwide financial systems each year. That’s an astonishing 2-5% of global GDP. The European Banking Federation (EBF) – uniting 32 national banking associations in Europe,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-europe-health-db23f6b32568c574d43dcc384c068fb3",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-technology-business-europe-health-db23f6b32568c574d43dcc384c068fb3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-14-aion-labs-biotech-innovation-lab-launched-by-top-pharma-tech-and-investment-leaders.md",
       "title": "AION Labs, Biotech Innovation Lab Launched by Top Pharma, Tech and Investment Leaders",
       "excerpt": "AION Labs, a first-of-its-kind innovation lab spearheading the adoption of AI technologies and computational science to solve",
@@ -1109,58 +1152,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-13-robotics-edtech-startup-wiingy-raises-400000-angel-funding.md",
-      "title": "Robotics Edtech Startup Wiingy Raises $400,000 Angel Funding",
-      "excerpt": "The company will deploy its first fundraise to develop, scale their robotics kits supply chain and build a strong early team with technology, product, teaching and design skills",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/390902",
-      "originalUrl": "https://www.entrepreneur.com/article/390902",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1634123416-TeamWiingy111.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-10-13T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
