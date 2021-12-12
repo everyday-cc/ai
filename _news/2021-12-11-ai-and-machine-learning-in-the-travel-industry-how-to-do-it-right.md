@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2021/12/11/ai-and-machine-learning-in-th
 webUrl: "https://insidebigdata.com/2021/12/11/ai-and-machine-learning-in-the-travel-industry-how-to-do-it-right/"
 type: article
 quality: 54
-heat: 84
+heat: 86
 published: true
 
 provider:

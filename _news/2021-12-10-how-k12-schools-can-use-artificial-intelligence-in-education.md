@@ -9,7 +9,7 @@ ampWebUrl: "https://edtechmagazine.com/k12/article/2021/12/how-k-12-schools-can-
 cdnAmpWebUrl: "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202112/08/61b0a3caa310cdd3d81f8c88.jpeg"
         width: 720
         height: 480
-        isCached: true
-  - title: "NTT West Uses Kyudai AI Tech For Education Trial"
-    excerpt: "NTT West is conducting a trial on improving education quality using a Kyushu-University-developed AI system. The Learning Analytics program evaluates each student’s level of understanding by viewing digital resources"
-    publishedDateTime: 2021-12-08T01:16:00Z
-    webUrl: "https://www.fukuoka-now.com/en/news/ntt-west-uses-kyudai-ai-tech-for-education-trial/"
-    type: article
-    provider:
-      name: Fukuoka Now
-      domain: fukuoka-now.com
-    quality: 56
-    images:
-      - url: "https://i0.wp.com/www.fukuoka-now.com/wp-content/uploads/2021/10/img0987.jpeg?fit=1400%2C933&#038;ssl=1"
-        width: 1400
-        height: 933
         isCached: true
 
 secured: "V0NsJPxt1QX/5UxXccF+5KZ1VZ+nvqfjZcH+/3djNipVzX0AC1n8kVP1cCaxLnl3KUPjlFPN6A1uWGtYepuZGCR/7rXq1aNuSk9iToNzoPmFoKm9MorqxsJ3OwJwVE4fh1tim1wNWc1vj3twA7sat9qc7n7NCs30s60eFHTJjCq/s/nSMQyfdAD0xjdBPah0MYse7URm5zmHew4Zy+EvmbUJjunUbIOS8U73BDzg7QDZQLxf6SQNLnaave/lyyuPmEEzoe1TmdSzAZ/Ions4u9DwDCoOurXTGg8BO/y2JJShvt3H/MVLVuwoaG9A43qLnCrzw+/oJJrPUwnKvqZH4ASBfuWjYk6kAWrJvQkoG2PyV1y+mJrV+SGwOushQJU0Ox1KLlil3Nstuy7cR9h73fAISSsCdXKZmBUkcBb3B4nck0OFhiR0BzkG8uXuolWnpy2h40941oXx35VC5RZw6zldC8cSQkgP7OtRMk+y1CPdtuHNXT+zcG2VOsqtkfMDCqBzTLUheI2STY9idUaq5A==;V3JRJsxwxvNMj2NDoO2RUw=="

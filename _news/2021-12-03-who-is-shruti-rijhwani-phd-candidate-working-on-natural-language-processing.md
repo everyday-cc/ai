@@ -2,9 +2,9 @@
 category: news
 title: "Who Is Shruti Rijhwani? PhD Candidate Working On Natural Language Processing"
 excerpt: "Shruti Rijhwani, Ph.D. from Carnegie Mellon University, USA has been named by Forbes as \"2022 Forbes 30 Under 30 in Science\" for her prolific work in the area for conservation of endangered language"
-publishedDateTime: 2021-12-02T22:34:00Z
-originalUrl: "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/"
-webUrl: "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/"
+publishedDateTime: 2021-12-02T17:04:00Z
+originalUrl: "https://www.shethepeople.tv/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/"
+webUrl: "https://www.shethepeople.tv/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/"
 ampWebUrl: "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/"
 cdnAmpWebUrl: "https://www-shethepeople-tv.cdn.ampproject.org/c/s/www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 400
     isCached: true
 
-secured: "FDrZyg5b7fyJIDPBwc/HmyWCImDJ6n3gV5h46EzglNnvKpA8ariueSmwCjqdgJJiRjx8pd7cXMHuXGOaCNYyTOtp1xzEHxQKo3AGeDOB4de7q/jWlMnMNZ2BY+MygxDTAlamOd9NzylwKkXxHHcJIkFx7UxpcPp/b6h/jz6w0qhVipoJcAsOkHXWkTXheD3TDEITMhD0MUQSwNMpSsLLvBPf5kY64PSarNHN/uBJ8rscRsLFkaEOruNhKNecBiH5yISVAIUx2lSZiuBp+Ov6RWvXCR8lo7PyjhL4Twh8INpTEVm20T5twj9rU7QdfA/azrJnZZ2QHH5nyC+p1VVhJFmB2KAPWv79gseGWcT3qrs=;vPGQu/bJkI8bl1bUDCQfrg=="
+secured: "Np/NIdmGCHf/Gaql2NRqSd7ZM7K2s8S+LW0/l9z0ovX7OqzfbVmolN1ZVtfCd9/ZwdhT3kSl1+odeC5soUMcnM4AVIa2+jySog3IAj6LRL+HxsbTCz/TtCPOB06GbPowf+zJbuF3Te54KPYZoGPJGAvuxePd7WitubEYD2CnvhMfmvKnfHALyGhdgvehJUsCdKcUa+qxiBPNMpyn1vWkU2/IJvNil0uJ/xZ78XjpRRnFqJyLYAL88aa34cyJe+3y7qngcBeQYIM+WSo8pQ0M9RtcFCWBdSglhSkdxDP4cZ0YZDHg/+Gntzg8YwnkOzb8OkycOdr07imWa+yS6v+gQjVq7nHzfykHf7ueK/85fjk=;US+skjKdXxPgQs7NTPoBVA=="
 ---
 

@@ -63,15 +63,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Intel to Take Self-Driving Car Unit Public"
-    excerpt: "The planned listing of Mobileye is Intel's latest move to revive its fortunes as its stock lags behind rivals such as AMD and Nvidia."
-    publishedDateTime: 2021-12-08T01:55:00Z
-    webUrl: "https://www.cfo.com/ipos/2021/12/intel-to-take-self-driving-car-unit-public/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 4
 
 secured: "ESrjVBXN98j3bEo0CGWwG3ZMI3fv/Z0rFpvuL7dZ79unnqF+fr0ueUKsvD+HDFxvVR2+gXofyFRsaqWSZ7CvwindxXFoi/uiocSKJw6LMOuumhrXinwSynnYwrvkjXRXufimuFQiS8JCrOfJkrWT9rLzp3P4hBIUL2YnE153T1x3t9Z+RlkvjAV5T+/SLkYcJSHDbD5Jbm5lI9s+yBwftblvpHYqEsmHfgSsupwYpSaDkTZ6+gDbGHOo7WTypkxOTjSB/AIAHYjNviJXGga0JTALYAWa7Tctad1LTZz0O7nW2VayqUCILRZpM8E+WT/dScmED21WjIXAMuG8B3I3UQt1rcl66+EENWNSwd1C9tKWPr44wegUoNCvX1unrzk1a7dr1LMqRBL5+by0FFU7wV+KlIZOWRdOxNse4D7OiGJ1Rnnl8gGSyqSCepKxKnPP7ytKJtuEX4RZiXw1BaGylioAgVv02c+9oWGFT6FP76n1jzFJp8OIe9Okgh/ur2TJtp4VlybwSqiI1AH5o8ma/w==;0u4pmAMv6ekVc/t5JB41ww=="
 ---

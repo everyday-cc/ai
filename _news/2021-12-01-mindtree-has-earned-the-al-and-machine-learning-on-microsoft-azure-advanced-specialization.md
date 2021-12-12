@@ -1,15 +1,17 @@
 ---
 category: news
 title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-excerpt: "WARREN, N.J. and BANGALORE, India, Dec. 1, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on"
-publishedDateTime: 2021-12-01T09:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html"
+excerpt: "Partners with the AI and Machine Learning on Microsoft Azure advanced specialization can give organizations the tools and knowledge to develop AI solutions on their terms, build AI into their ..."
+publishedDateTime: 2021-12-01T13:04:00Z
+originalUrl: "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization"
+webUrl: "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization"
+ampWebUrl: "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization?amp"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Microsoft AI
@@ -17,11 +19,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/ca/eca138ab-1f6a-575c-ab5b-20f351a1974f/607984186af13.image.jpg?crop=659%2C346%2C420%2C0&resize=659%2C346&order=crop%2Cresize"
-    width: 659
-    height: 346
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/pr-newswire_500_4_140.jpg?itok=5fsUeFER"
+    width: 763
+    height: 509
     isCached: true
 
-secured: "6vI7vU9itURYLj4sKzukKvcAAcUUL/QcYL/Pw4GN7kBiQkH35gQQSptV8TBl99VuZJCXHubaZLChfyDoCwcPDj6YgYTZQAwfZMo4gVbHeianlBsoYbL9N0kR+3mmk1wvH/B01cHmGqxSdmZN/C7YP0viWnJdHCkyAaqIJDVhwgAhxH0JLbwnrwkjNRTm098UjVKNHNK5avY/4cndyCbQPcIX+shDITQmms3Aa6EHVGUEJ33vV8MBgDXmBohdQjNSQDC9wq//tVcegWXHRGoCwEqt0g4lelk7avgDD9tad2pEWOVGCp5lyJUEodyFurQsDtgrSisd3d5HfKnfaTbBi2BZM295VB+MXGvvJ+EYgrw=;sGjV3yG8ZgGhq5InqtzeCw=="
+secured: "5R9CnVYPQOIokedEJjDKNCCxBNRQPPvZhkcHqx+ItVQpxf4TLpE5E/TIBpWmGPqREa37MMvAqxsVJnvEYOcNpXTlrRbAu6q9pHWnJqpk26TrN6Exig4F5DdXb4GSLRhP1Jx5OkthsacS2iZBLYLgGshQLh+qqXxymLAMXdMNG/SpoirWt2593mWsZo9yZK1H7jGZkUocIYmwi0qc02fEozTNKrXnmbkkpGfHXHoJVRwcqxGcAcZmIVgP2xc5SoRJ6LjeuhZCLmuq94W0AAWQVWiAW+jJxrJKiDEs3Z803O0PgB5bB65Olh3GgqVxaTDHpMsMIXscL7j4ogT5xBzg+WBeWiwANR+UZC9holck3ZE=;7/+5TxDrmZlNgxBP43zn4g=="
 ---
 

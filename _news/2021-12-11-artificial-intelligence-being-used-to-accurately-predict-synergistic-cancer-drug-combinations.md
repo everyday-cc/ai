@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Artificial Intelligence Being Used to Accurately Predict Synergistic Cancer Drug Combinations"
-excerpt: "USA News Group - Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence"
-publishedDateTime: 2021-12-10T17:36:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations-301442423.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations-301442423.html"
+excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to make predictions on potential synergistic anti-cancer drug combinations for both therapeutic and toxic effects."
+publishedDateTime: 2021-12-11T05:09:00Z
+originalUrl: "https://www.medindia.net/health-press-release/Artificial-Intelligence-Being-Used-to-Accurately-Predict-Synergistic-Cancer-Drug-Combinations-561010-1.htm"
+webUrl: "https://www.medindia.net/health-press-release/Artificial-Intelligence-Being-Used-to-Accurately-Predict-Synergistic-Cancer-Drug-Combinations-561010-1.htm"
 type: article
 quality: 8
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Medindia
+  domain: medindia.net
 
 topics:
   - AI in Healthcare
@@ -36,6 +36,6 @@ related:
         height: 437
         isCached: true
 
-secured: "8+mToWsYStaWZRMho85XpEdbaCgFBiKM/kHv/bDhg14lFgBqmfiwSu3JTOreED/XTHoYGN6sEwlC3QmgURP71Z5pJySghtEV9uOKyp61gLvvNBOTE8G4sUXXBefRWQ1zhaSkueJMgvuDmywT26CuHwuERlrGyujZYfZL4/saEzmFLR4DjVL1ePOSzj6XGRl8FmFI2u12k6a/Trc45mJONbkVd0Mejp1N1dvYB/1nvc8oyDuEiS4geNU55PO+l/PWOiwauyDLd3ffFa0vFenPHs1AI5wqTEVW8Z1o4QhwijLP37MozoqsmSpRk5PAUq4iJbOga/TpWoaoGE7Iq+2l3NJBURbiVQeMWxSvNWV57Kk=;3qMvn2NCWjpP9DvqkOFiwg=="
+secured: "34rFUkZsy/9ZupxuoznE59xKfx7WKc86+fPq2UD7HsxIoTy3A2WQDQ/8TiMoTuNkCpHOtottQ+sV68er3hmn9OdZNLMpsr8XT26hKBYBC6iSnLPKLLoo2I2HgTlCXPVbdyHUUaml9e5h+5GSl5R2k0ExbmXOMyqZudjIyk5oXZha7RZUg1UwEVIDGUcrzNXxy7EYirjspUWddqHtXK9uXqogc9kZjQspzHmCQHanXkYPjV/xkuuDheebv9EHCFz00S+SLIUDuGcVt+CML0MMtpo0y7eWmcRSEXxej7hu3SgTSIkId4q8JjEZrq1aO6Fkas4IyKk6lPS/KKkSZjBPzpQ6zC/GCddWd0Jl7p8ONHA=;jAO34rPAyc6HA80h60BGYw=="
 ---
 

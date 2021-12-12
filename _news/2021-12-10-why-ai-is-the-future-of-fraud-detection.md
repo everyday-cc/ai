@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-det
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "Investing in the Future: The WisdomTree Artificial Intelligence and Innovation Fund"
+    excerpt: "To offer unique access to the AI investment domain, we introduce the WisdomTree Artificial Intelligence and Innovation Fund (WTAI), the fund that seeks to track the price and yield performance, before fees and expenses,"
+    publishedDateTime: 2021-12-12T14:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund"
+    ampWebUrl: "https://www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/investing-in-the-future%3A-the-wisdomtree-artificial-intelligence-and-innovation-fund?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 63
   - title: "Common but Different Futures: AI Inequity and Global Emissions"
     excerpt: "Some researchers and policymakers suggest that Artificial Intelligence or AI will provide the most game-changing solutions to climate change."
     publishedDateTime: 2021-12-09T06:57:00Z

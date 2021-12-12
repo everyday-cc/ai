@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-11-autonomous-taxi-market-set-to-rev-up.md",
+      "title": "Autonomous taxi market set to rev up",
+      "excerpt": "The market size of China's self-driving taxi services is expected to surpass 1.3 trillion yuan ($203 billion) by 2030, accounting for 60 percent of the country's ride-hailing market by then, said a report by global consultancy IHS Markit.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202111/11/WS618c6db7a310cdd39bc74a71.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202111/11/WS618c6db7a310cdd39bc74a71.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202111/11/618c6db7a310cdd3d819abef.jpeg",
+          "width": 635,
+          "height": 423,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-10T17:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-11-zone-defense-these-self-driving-ai-powered-drones-do-recon-so-soldiers-dont-have-to.md",
       "title": "ZONE DEFENSE: These self-driving, AI-powered drones do recon so soldiers don’t have to",
       "excerpt": "Today, the brothers are cofounders of Shield AI, a rapidly growing artificial intelligence company based in San Diego, with offices in Washington, DC, and Pittsburgh, and Shield AI’s unmanned Nova drones are used in war zones around the world.",
@@ -1307,49 +1350,6 @@
       "provider": {
         "name": "Railway Gazette International",
         "domain": "railwaygazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-tackle-racism-in-ai-blm-co-founder-tells-tech-bosses.md",
-      "title": "Tackle racism in AI, BLM co-founder tells tech bosses",
-      "excerpt": "LISBON (Reuters) -As concerns grow over racial bias in artificial intelligence, Black Lives Matter (BLM) co-founder Opal Tometi urged the tech sector to act fast against perpetuating racism in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/11/04/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/11/04/tackle-racism-in-ai-blm-co-founder-tells-tech-bosses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2021/11/04/1355973.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-03T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
         "images": null,
         "publishers": null,
         "authors": null

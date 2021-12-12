@@ -64,15 +64,6 @@ related:
       name: Cleveland Jewish News
       domain: clevelandjewishnews.com
     quality: 4
-  - title: "Intel to Take Self-Driving Car Unit Public"
-    excerpt: "The planned listing of Mobileye is Intel's latest move to revive its fortunes as its stock lags behind rivals such as AMD and Nvidia."
-    publishedDateTime: 2021-12-08T01:55:00Z
-    webUrl: "https://www.cfo.com/ipos/2021/12/intel-to-take-self-driving-car-unit-public/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 4
 
 secured: "v9kl7R3bCdClBbKqgOpaaRThOT7q3V5Simnsk0QZClDacq8RqN/D9yvBqMPNetJyulJi0jsfkb9tlK0nzrJ5VnIrccNJXi76rTOoOGh1LTVRx/gBFMH87jNX//VaAQ3boYUtAT6StLiArjEDtGg0cWWVSW4pxU7vp+KGdUCf0M0hfUgFNcJdAAUrorzTbSqRWaMSv73NTu5DQC7L9+CzlwFejiAMVlaCnrvmnKrXtPxVbSm3UPp2U/yKfnG5W/YTdkayZOboV1XIQmiU2lRyc2+GN7+zyzAereKsH7z/Vqnd44DNJwviS7ePJ6EzqZPfIx5vIU+SOhpdo7kNX0nU0UhLXbbOf0RSyvW/gTviUXVdBp0zzdnb+Zr6jkujpRZUXP0Gret1acjxt5U7mR9x+YYmgfQ19tCkq9rHR7htuIk2btR5htLmPGu9ZGPHX18+6Li9kyjGAofuiZkKsAZxAU/U6Zp1p12kMNNK7VFkTlsvSkeyqGH66DiuwhxM+CK9bLXv6J9co3tWY9rXvQa3tQ==;NAQ2ygSbT1SDSLO5kk25qQ=="
 ---

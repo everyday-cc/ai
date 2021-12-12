@@ -1,22 +1,21 @@
 ---
 category: news
 title: "AWS Announces Two New Initiatives That Make Machine Learning More Accessible"
-excerpt: "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced two new initiatives designed to make machine learning more accessible for anyone interested in learning and experimenting with the technology."
-publishedDateTime: 2021-12-01T18:34:00Z
-originalUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
-webUrl: "https://www.financialbuzz.com/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible/"
+excerpt: "New $10 million AWS Artificial Intelligence and Machine Learning Scholarship (AWS AI & ML Scholarship) program is designed to prepare underrepresented and underserved students globally for careers in machine learning Amazon SageMaker Studio Lab makes it ..."
+publishedDateTime: 2021-12-01T19:01:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible"
+webUrl: "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
-secured: "5ptwXRpatdiuSDseSYfW4vVtsDZd78Axh9j0/d5FdPlCFoYcDcW8qatZiKiUuERvjR5AwMR/roDuijmrS2tmxM29oYe6/eOpAM5lhjLyjfU/kTRuxWzKLBOh7rNG8LWdc9R6F+5kKvTifZSmYlt6eYHbYRA2FK41imH/skE4uIaalgqskFtikGbydNZ32R3Dw9K3Kzf+vGvkIfnxcIolEJf//e8IPlA8+8YeF8ne7V4covJPPjO9vp6pG53XFzbuQ2KD1Ut778t0JfA3IjBE07UnJRzfap9C06BB2aoFEgng+KcIZ9GpyHDqpn1uXcEuRg6PfbF/5/YhXhIa/YbHs/l6zR4uUzTwEehVSGryglg=;YxBeb4VNcp5C/6iQJXqhoQ=="
+secured: "dYgTp+mhrnXloCqV1zn/fRhLds+Pblm3QPROfe/EqC4Ct9hK1w4Tm1lyu0uExhGxVlIfmO2MI9t26veKxzkoSbpeuRHygTfzUqu7OqBtXUnp2djDJ+CaQxBTgFAhCtKU7nireH5tKOTYwjpXawrGQIu5/rpAdUobALUmSi7J+/X5WupwZ7L4fpDvcIwjFQuruL+9wDWkUXNh1gHM2fg0xrAxZe6yVvcvctiM5dTVbWlKabOkIuCJ1kUzocqqG3nO+/ol3C1GvmZ7hDe/lKkRGlc0Gmu6dzZ5YEr8iW9Jio5yamIBsyKNrhf8InzknJvWL0Xg9+7JYMee/V7122VaoqUdZCREYgrw+MISGGdYljg=;agNmYRHdlYc7F7BZJRot2g=="
 ---
 

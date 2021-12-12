@@ -26,6 +26,19 @@ images:
     height: 390
     isCached: true
 
+related:
+  - title: "Living proof of face recognition"
+    excerpt: "Millions of mobile users already deploy face recognition to unlock their phones. The use of face recognition for digital life certificates is a smart way to offer convenience to pensioners"
+    publishedDateTime: 2021-12-12T17:21:00Z
+    webUrl: "https://www.business-standard.com/article/opinion/living-proof-of-face-recognition-121121200887_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/opinion/living-proof-of-face-recognition-121121200887_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/opinion/living-proof-of-face-recognition-121121200887_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
+
 secured: "V2yuS9SH4dfzl1TBAl++Mp+clTYgeXEYXtUAouSeCHh6xRlp1K/o9cX7PEnLMgPd17l1rGx6Ch5LCCbcyoH4AdBaQbekr2rT+0mqQBYF3q15B5Y0yDywlU128iW763yUhw6lSLLahr+NA6W500dYadadakThmK2WISxep8mqUHSz1KAIPo8KtUgMYXj7vsKMm6s2Bthqko9JwUmNvmuzY1woMfFt++ZMtXB0xcBM6pDAdVvkj4Ik2N8DSHKJaBz/Fk5IWj64lx+2kq6KSQNEoZS4F2B73bZyidqGM5R2/mEgbnsDOxmgwi3HpbpOrulUgRieoRMB8OPYM3QBa3J5DzD3HHLdygFbZ6fpLYUibQraBgK+VJF3yqRIUXFi+2KzsGpGw584zXO6j/1l2bYrBaE18tpajYlwtQWvQLmCfzh48Ri9qEnRSdv1jpih1kSsvjBoTlyjAI6tzws/KEZtOh9zsw6xBEI0ZvnrDh7R2TuzvTaTTmoN0LeGyiacIxd2hgyA+alTrSB+ucEoSyDzOQ==;O24bAIWAJH1GnvOwx14zRQ=="
 ---
 
