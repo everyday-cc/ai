@@ -1,17 +1,15 @@
 ---
 category: news
 title: "Mindtree has Earned the Al and Machine Learning on Microsoft Azure Advanced Specialization"
-excerpt: "Partners with the AI and Machine Learning on Microsoft Azure advanced specialization can give organizations the tools and knowledge to develop AI solutions on their terms, build AI into their ..."
-publishedDateTime: 2021-12-01T13:04:00Z
-originalUrl: "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization"
-webUrl: "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization"
-ampWebUrl: "https://www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/mindtree-has-earned-al-and-machine-learning-microsoft-azure-advanced-specialization?amp"
+excerpt: "WARREN, N.J. and BANGALORE, India, Dec. 1, 2021 /PRNewswire/ -- Mindtree, a global technology services and digital transformation company, today announced it has earned the AI and Machine Learning on"
+publishedDateTime: 2021-12-01T09:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mindtree-has-earned-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization/article_aaff91cb-c175-5e40-9dea-dbdddff348ac.html"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Microsoft AI
@@ -19,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/pr-newswire_500_4_140.jpg?itok=5fsUeFER"
-    width: 763
-    height: 509
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/ca/eca138ab-1f6a-575c-ab5b-20f351a1974f/607984186af13.image.jpg?crop=659%2C346%2C420%2C0&resize=659%2C346&order=crop%2Cresize"
+    width: 659
+    height: 346
     isCached: true
 
-secured: "hDNcmuGGXmNyrk/rGbWE6NBMIwq4WcMVst4nMtf/X71gfPmnSXvViIm3LRR+GKjq2w3X5TgCIS67RksQc6cKMv0+f/ojCdEPQy8HdS33di8e5K/tefcm6p4D2xqDkUJAmIBSu7NIFGV81V28A4X3uKiCEP5Iq2gOH5+IOUkqCUy6p6+SbQ0HNb0AannT/e9r5noEw3Srb/8vWrHtPiQAG0AsPS1nkYX1r4Y8t84KctkpK2UqmQ2TKrBIEfC19yy1c6dvhLVVDYBdejBXK6ZhWRMz7Cnr3M7yQyIh68r+jpasZP+189IgRwKnPEauGcfJzLzUZRDB9ac2pMzluYdd/ZEm/xlMQchZaJEbH6hiU60=;mdC1VYe+6q68QNAwnT6RXw=="
+secured: "FG/23KOHMJcKwSSrH7f9tSEE+ofRGwvzpz5nE5GpEaIp3QRqPSC3DZo5W1u0NEW4PJII27ONzyNEJikBI/w0sINzO2sx6NDViwV1gJAe8Qo9eMCosJdCxZz9GuqwRKm9V93WRjmoEF4dm0xXno9B1BC2OWyuJapMo0i2tnOaXKEyCOfwe4o46511JGdG6kCDCbEaiV89a2m1eFs7YRrhffVt4cGj3xAl1/gLDidxwBKzCJSXDjILOlLaqy0N5SpOCpQ5sLXFJ7TK4kOK7r5maW5Q9JV2zvlnGMQr6v7RDeWECc4XS+43u7lBKbbiJyIW+ShpfwnH8R3I8QHnYGzUlkdbuSrROPLUUyL/0oN/AoI=;EOoZtoLcPOR1VKvy9tC0gw=="
 ---
 

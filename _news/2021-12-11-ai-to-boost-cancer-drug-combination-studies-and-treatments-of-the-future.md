@@ -57,20 +57,6 @@ related:
         width: 347
         height: 439
         isCached: true
-  - title: "Artificial Intelligence is Changing the Future of Radiology & Healthcare"
-    excerpt: "AI workforce look like and at what point does AI truly automate jobs in healthcare? Do you want to support my writing and get more content? Subscribe here. The AI-Human Augmented Healthcare System is Coming Healthcare in the next thirty years (2025 to 2055) will be disrupted by AI,"
-    publishedDateTime: 2021-12-07T20:32:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-changing-future-radiology-michael-spencer-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 55
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEU7CTKRAYZBQ/article-cover_image-shrink_720_1280/0/1638804317784?e=1644451200&v=beta&t=ISnO7ttNkxyoaZ0PHxlLaNZbGepAZqBW6a_qCF9gUE0"
-        width: 1279
-        height: 720
-        isCached: true
   - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
     excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to"
     publishedDateTime: 2021-12-10T15:49:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehustle.co/12092021-intel-mobileye/"
 cdnAmpWebUrl: "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/12092021-intel-mobileye/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel plans to take self-driving car unit Mobileye public: Report"
-    excerpt: "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters."
-    publishedDateTime: 2021-12-07T20:45:00Z
-    webUrl: "https://www.livemint.com/companies/news/intel-plans-to-take-self-driving-car-unit-mobileye-public-report-11638868167534.html"
-    ampWebUrl: "https://www.livemint.com/companies/news/intel-plans-to-take-self-driving-car-unit-mobileye-public-report/amp-11638868167534.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/intel-plans-to-take-self-driving-car-unit-mobileye-public-report/amp-11638868167534.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 44
-    images:
-      - url: "https://images.livemint.com/img/2021/12/07/600x338/Mobileye_1638868453811_1638868453986.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Intel plans IPO for Mobileye self-driving technology division"
     excerpt: "Intel on Monday announced plans to take Mobileye public. Intel acquired the Israeli self-driving technology company in 2017 in a $15.3 billion deal, and has since helped grow it to become a market leader in driver-assistance and self-driving systems."
     publishedDateTime: 2021-12-08T14:30:00Z

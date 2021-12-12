@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/new-artificial-intelligence-system-enables-
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-syste.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "New Machine-Learning System Flags Medical Remedies That Might Do More Harm Than Good"
+    excerpt: "The system could help physicians select the least risky treatments in urgent situations, such as treating sepsis. Sepsis claims the lives of nearly 270,000 people in the U.S. each year. The unpredictable medical condition can progress rapidly,"
+    publishedDateTime: 2021-12-12T12:03:00Z
+    webUrl: "https://scitechdaily.com/new-machine-learning-system-flags-medical-remedies-that-might-do-more-harm-than-good/"
+    ampWebUrl: "https://scitechdaily.com/new-machine-learning-system-flags-medical-remedies-that-might-do-more-harm-than-good/amp/"
+    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-machine-learning-system-flags-medical-remedies-that-might-do-more-harm-than-good/amp/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 37
+    images:
+      - url: "https://scitechdaily.com/images/Machine-Learning-System-Scores-Medical-Treatments-777x518.jpg"
+        width: 777
+        height: 518
         isCached: true
   - title: "Machines that see the world more like humans do"
     excerpt: "a software engineer in the MIT-IBM Watson AI Lab; recent EECS master’s graduate Austin Garrett; Dan Gutfreund, a principal investigator in the MIT-IBM Watson AI Lab; Joshua B. Tenenbaum ..."

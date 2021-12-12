@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Machines that see the world more like humans do"
-excerpt: "a software engineer in the MIT-IBM Watson AI Lab; recent EECS master’s graduate Austin Garrett; Dan Gutfreund, a principal investigator in the MIT-IBM Watson AI Lab; Joshua B. Tenenbaum ..."
-publishedDateTime: 2021-12-08T00:00:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/937264"
-webUrl: "https://www.eurekalert.org/news-releases/937264"
+title: "New Machine-Learning System Flags Medical Remedies That Might Do More Harm Than Good"
+excerpt: "The system could help physicians select the least risky treatments in urgent situations, such as treating sepsis. Sepsis claims the lives of nearly 270,000 people in the U.S. each year. The unpredictable medical condition can progress rapidly,"
+publishedDateTime: 2021-12-12T12:03:00Z
+originalUrl: "https://scitechdaily.com/new-machine-learning-system-flags-medical-remedies-that-might-do-more-harm-than-good/"
+webUrl: "https://scitechdaily.com/new-machine-learning-system-flags-medical-remedies-that-might-do-more-harm-than-good/"
+ampWebUrl: "https://scitechdaily.com/new-machine-learning-system-flags-medical-remedies-that-might-do-more-harm-than-good/amp/"
+cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-machine-learning-system-flags-medical-remedies-that-might-do-more-harm-than-good/amp/"
 type: article
-quality: 4
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: SciTech Daily
+  domain: scitechdaily.com
 
 topics:
-  - IBM AI
+  - Machine Learning
   - AI
+
+images:
+  - url: "https://scitechdaily.com/images/Machine-Learning-System-Scores-Medical-Treatments-777x518.jpg"
+    width: 777
+    height: 518
+    isCached: true
 
 related:
   - title: "New Artificial Intelligence System Enables Machines That See the World More Like Humans Do"
@@ -51,23 +59,16 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "New Machine-Learning System Flags Medical Remedies That Might Do More Harm Than Good"
-    excerpt: "The system could help physicians select the least risky treatments in urgent situations, such as treating sepsis. Sepsis claims the lives of nearly 270,000 people in the U.S. each year. The unpredictable medical condition can progress rapidly,"
-    publishedDateTime: 2021-12-12T12:03:00Z
-    webUrl: "https://scitechdaily.com/new-machine-learning-system-flags-medical-remedies-that-might-do-more-harm-than-good/"
-    ampWebUrl: "https://scitechdaily.com/new-machine-learning-system-flags-medical-remedies-that-might-do-more-harm-than-good/amp/"
-    cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-machine-learning-system-flags-medical-remedies-that-might-do-more-harm-than-good/amp/"
+  - title: "Machines that see the world more like humans do"
+    excerpt: "a software engineer in the MIT-IBM Watson AI Lab; recent EECS master’s graduate Austin Garrett; Dan Gutfreund, a principal investigator in the MIT-IBM Watson AI Lab; Joshua B. Tenenbaum ..."
+    publishedDateTime: 2021-12-08T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/937264"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 37
-    images:
-      - url: "https://scitechdaily.com/images/Machine-Learning-System-Scores-Medical-Treatments-777x518.jpg"
-        width: 777
-        height: 518
-        isCached: true
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 4
 
-secured: "9b/4uO4QppH7WzFlpSuRuit4XPS7W0vUqz4/I2viUecNY2jYAUTw2YOaSDEl9Ux0R1yoeRKM2DxiwWfmdCp6BHY6qkBAFdRpqcIMBDjXoqhWjJL1X8T6n1g3zcfEZ56DQuIIHxBNhJvejZhJ4yLzrHZCo4XIkF6uwTKXXTIJdcf3Ujk2avtPmVA3BY4Y/uKCoQH5Bc/TXyRA1Z28z1bWSTY0MIqOpkNYISuWhLCXe7ACgOmY4oFF49PNYF/qnSsKvViv/qqUYKac0jvSFKlwfma8h4Z+UqEfdEfN/9KLFR8oWTC40CNppzKPo4KDL3d1QKX/ht6YImVEWyMlm2ZAZUkiegCjjKFJyn5wivjzeRY=;0gBUqcUgKcvdS+mVN29ADg=="
+secured: "fi3s9MdUpzrah9Tbb7naruI8/bjJxYEE71CaelTacWocMIOvZmT9wcazRpWhHa0rYqgR8I8dBod5d2QqrNVjzZQpEeHskGzW9ykJs4fkoVjvK2x2FltPIyVEaRfAPv1p18KbdCDTM3fXtxUQdexTc1E4YIkhV3RYf5vqngmUWb8Xc8980XCuWzY6kF38Qvl4Kf7A3AzKZ9uC71egAXRtACrVL6tCuAnEG1ZWdVqJyUnzXXyj4nCcOP+pyhV3hlPsEcJNfQFBwS3V3mQisMCedMwH7dqaicB0nCVHfCLKpKg9/V4PuhiXfsjSaWQ/rKUzYc1YV06wAsWvBoYMwGjPLebYl0FYS8Jx0Kg1XBZWeHE=;yWRxA/20a/5S8ZCJsytHJQ=="
 ---
 
