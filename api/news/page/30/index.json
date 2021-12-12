@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-11-17-uipath-appoints-dr-oren-etzioni-to-chair-new-artificial-intelligence-advisory-board.md",
+      "title": "UiPath Appoints Dr. Oren Etzioni to Chair New Artificial Intelligence Advisory Board",
+      "excerpt": "UiPath , a leading enterprise automation software company, today announced the appointment of Dr. Oren Etzioni to chair its new Artificial Intelligence (AI) Advisory Board. The Advisory Board, to be comprised of AI leaders and experts from academia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20109751.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20109751.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-17T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-citic-telecom-cpc-and-astri-partnership-expands-business-innovation-possibilities-with-ai-ar-integration.md",
       "title": "CITIC Telecom CPC and ASTRI Partnership Expands Business Innovation Possibilities With AI-AR Integration",
       "excerpt": "The key features include data visualization, cognitive object recognition and middleware enhancement. \"Fostering a culture of innovation and embracing intelligence are our core values and are ...",
@@ -1055,58 +1098,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-17-artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready.md",
-      "title": "Artificial intelligence: everyone wants it, but not everyone is ready",
-      "excerpt": "Artificial intelligence technologies have reached impressive levels of adoption, and are seen as a competitive differentiator. But there comes a point when a technology becomes so ubiquitous that it is no longer a competitive differentiator -- think of cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/e467d20ab93256ec3385659485e2cb180cb921e0/2021/11/16/2fc00959-58e2-434c-8181-1b1bd9708138/javits-center-november-2019.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-everyone-wants-it-but-not-everyone-is-ready/",
-      "publishedDateTime": "2021-11-16T18:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

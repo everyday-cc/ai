@@ -63,7 +63,7 @@
       "originalUrl": "https://theconversation.com/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-173607",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -94,49 +94,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-experts-argue.md",
-      "title": "Community of ethical hackers needed to prevent AI's looming 'crisis of trust', experts argue",
-      "excerpt": "The Artificial Intelligence industry should create a global community of hackers and \"threat modelers\" dedicated to stress-testing the harm potential of new AI products in order to earn the trust of governments and the public before it's too late.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ethical-hacker.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.amp",
-      "publishedDateTime": "2021-12-09T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI Ethics"
       ]
@@ -1427,6 +1384,50 @@
       "provider": {
         "name": "Daily Sun",
         "domain": "daily-sun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-artificial-intelligence-ethics-agreement-adopted-by-193-countries.md",
+      "title": "Artificial Intelligence Ethics Agreement adopted by 193 countries",
+      "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
+      "originalUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/World-News/headquarters_flags_michel_ravassard-71532c23-f38e-4881-9939-f84f2b790098.jpeg",
+          "width": 740,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bna.bh",
+        "domain": "www.bna.bh",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://scitechdaily.com/new-artificial-intelligence-system-enables-
 cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 777
         height: 518
         isCached: true
-  - title: "Machines that see the world more like humans do"
-    excerpt: "a software engineer in the MIT-IBM Watson AI Lab; recent EECS master’s graduate Austin Garrett; Dan Gutfreund, a principal investigator in the MIT-IBM Watson AI Lab; Joshua B. Tenenbaum ..."
-    publishedDateTime: 2021-12-08T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/937264"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
 
 secured: "3tewJztvdD1hMtBgrZ1Cbc8ZRSddRMTizPCzetzHXllaeeJBQzRyHSNN0w8Cgi44yneZQc5MYnQ8crbuGNl26a2kcMcQz9RA7PSNELC1HiFcJoW9Vg7bF4gilwo9kjgdt9WSFZQDGH0SDBCghPOpG8pZkdeKJvZvpQY7FVAcmWlSxfzgqGYo9cPlGyCeXootHahlRJRLbeTYOkyy5B3CJ9XG8Id72T2Z0KdpfZhq8rvhgzDeg3hER7YdoeAgF7HolfRYPOxZglhziCSVF1jvhmMG9NCgeJxH9TZV2rW6MflISB0HVpl9ar7yOL2KH2GrVTxcGxnjlqsjfLBvHMszUocBczhdYa/hZi2CftR5MZM=;c3pUyNva0dasnKiTk7W9Kw=="
 ---

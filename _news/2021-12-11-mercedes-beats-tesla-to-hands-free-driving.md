@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-18481
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mercedes-beats-tesla-to-hands-free-driving-1848197046/amp"
 type: article
 quality: 89
-heat: 201
+heat: 202
 published: true
 
 provider:

@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-12-08-a-system-for-designing-and-training-intelligent-soft-robots.md",
-      "title": "A system for designing and training intelligent soft robots",
-      "excerpt": "Let's say you wanted to build the world's best stair-climbing robot. You'd need to optimize for both the brain and the body, perhaps by giving the bot some high-tech legs and feet, coupled with a powerful algorithm to enable the climb.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/a-system-for-designing.jpg",
-          "width": 750,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-intelligent-soft-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-intelligent-soft-robots.amp",
-      "publishedDateTime": "2021-12-07T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-08-identity-verification-startup-incode-raises-220m.md",
       "title": "Identity verification startup Incode raises $220M",
       "excerpt": "Incode, a company developing an AI-powered identity verification product, has raised $220 million in venture capital.",
@@ -92,6 +49,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-3-impacts-of-ai-in-the-machine-translation-industry.md",
+      "title": "3 Impacts of AI in the Machine Translation Industry",
+      "excerpt": "Given that there are over 7,000 languages, content creation ... One of the key drivers of the advanced AI software being deployed for translation services is the access to huge datasets and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/394440",
+      "originalUrl": "https://www.entrepreneur.com/article/394440",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1637701700-shutterstock-687742111.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },

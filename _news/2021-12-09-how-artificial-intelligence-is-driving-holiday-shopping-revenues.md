@@ -100,6 +100,20 @@ related:
         width: 1812
         height: 1356
         isCached: true
+  - title: "Enforcement on the Edge: Artificial Intelligence and Machine Learning in Federal Law Enforcement"
+    excerpt: "Federal law enforcement agencies are consistently on the lookout for innovation that can help protect American citizens and borders. These activities are becoming increasingly field-based, which in turn demands that rapid analysis of the information gathered must move to the edge too."
+    publishedDateTime: 2021-12-12T16:28:00Z
+    webUrl: "https://www.nextgov.com/assets/enforcement-edge-artificial-intelligence-and-machine-learning-federal-law-enforcement.pdf"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 41
+    images:
+      - url: "https://cdn.nextgov.com/media/screen_shot_2021-11-18_at_11.40.45_am.png"
+        width: 1812
+        height: 1356
+        isCached: true
 
 secured: "WyAvrPLDuIGN0EEK1YOypZpeRieZuvVYsdB245apyzDWM0x6RsIWd0Ee8bdwN88QTp4PXiwv8lgmy9JVLPHYk5adT7qhFN2qg3Oeo+lT1yRv+DjNs7fEDgt1llYuu5xCoNl5AjGBDY6koM46xl/Aj37qlbWnG2gobDIKKzwma6kudu5qe10/5vq3KLTsp4CAaIy0UxiPqYE/Kk4kJhtm+FnEcwkg8CFne3RyCKolhqzyNLdcsfwTjOaju8JR4USe/dLVhkyciwuM6+qFCJ1uLZxu56j3kP5NNZfrMkloHTJRv5JlLyeBHPbsksmjhxBY9T4LPHb/esb7so9C274x4YCAsRdKdI4OYRfcc1wQGYU=;EZ3yzZ7eaMz5NCbpPaoc3g=="
 ---

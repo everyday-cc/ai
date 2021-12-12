@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-details-its-next-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-details-its-next-steps-with-azure-space-adds-airbus-as-a-partner/"
 type: article
 quality: 117
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -105,20 +105,6 @@ related:
       - url: "https://2.img-dpreview.com/files/p/E~TS590x0~articles/1077091689/microsoft-azure-orbital-space-bts.png"
         width: 590
         height: 316
-        isCached: true
-  - title: "Microsoft AI-900 Dumps - Actual AI-900 Exam Questions With Online Test Engine"
-    excerpt: "Get Success In AI-900 Exam With Microsoft AI-900 Dumps. People often want to succeed in their Azure AI Fundamentals AI-900 certification exam, and they might feel that there is al"
-    publishedDateTime: 2021-12-08T00:00:00Z
-    webUrl: "https://www.mindsetkit.org/practices/iwOIFoOS23xJsbKN"
-    type: article
-    provider:
-      name: Mindset Kit
-      domain: mindsetkit.org
-    quality: 51
-    images:
-      - url: "https://www.mindsetkit.org/static/images/why-mindsets.png"
-        width: 900
-        height: 680
         isCached: true
 
 secured: "ZoA3Gi/nurEwukM76aQe9rfExrm2+zWIGYTlCodFZ6IoM6FZ7vWfvs4smglosoMKjjwP0dBdHsngOAB3D3oLwzp2HQAilMiQsubloUKItBVGkiE2KE5ZaYvPAm3WfXen/0cayL5TDmLZ7FORBRGTJxfhiHiElylr6NToKF/NCz5SjBN9U2LB0RMZi24std+Thzu46DEpyOlpcKJx3n1d7mU+ohoFCmkshw/UXRya0acWLNhNd1ptLrK10dtSxIoY2UBuOMGYHa7YLeCAFhsGM77yYtN5wtNwC+YTyoEeNnZfvEoynirTaWcJCakMgPimO/y54VQZuMeXLurUT/c4DqPnTg5KYaeeJwwwWtfrenjszluS//K5SDLUjn/1ysubWam0sjrQ7Qpg2uWGQzf9SXvxPmuo9Hn52f/+wBAQ2h8S8ZTpt58Z/+G/zR8TT+MQpFQu1g5k3XRfNLe1rQmP9F5DGflLGMjsv1yZjFXdAhi+L69srC0IrQG3eFCBuByW0ygUlV55BxYtCPN/aM/tqg==;qnFe6KMNVVaONhISkG0fug=="

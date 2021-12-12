@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/12/08/time-to-ante-up-three-ai-trends-financial-services-should-bet-on-in-2022/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1200
     height: 789
     isCached: true
+
+related:
+  - title: "Will AI and ML Revolutionize the Financial Services Industry?"
+    excerpt: "Hortz: What do you see that is holding up a greater usage of AI and ML? Bo Howell: Two major reasons for the slow spread of AI and ML in the financial services industry are a lack"
+    publishedDateTime: 2021-12-10T14:54:00Z
+    webUrl: "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry"
+    ampWebUrl: "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 86
 
 secured: "VgTg2tK9LVHazTlVRyVpkGDtcspfjwRUIeA3ttKFrklVeYL3RP95xam0LTT0wlwiS4tagC4K1N6Vm7gVzBsXauFoH2imYXQII1A+l8kjNJzcpumrJPpHt2Sv/7qPutrohkmq5yhPPQULWXMELW2790JsG6fhL7aP+nRgzrM4gPmLMyA4YT+jUR5iD+Jd7bLzcH5V9+3/8GjYIvpbEjq4a5BUbg2ZqpgNh14BZUHih+px4dwM3jsSChJCkm1Pyp5moljcdZniz3UN10jVoxcgEXd2CU17Sis6W8IJz0PJ+InlGz5dOjtsth8cMkcw+woJG0UIQnLuO9/eaRL9n3o2x2jn0qIsIRMfvqOOBQaoK0o4yJ52mCEqbxXDooVNF+xCKyRbL/uLBBdTZ0MwmV4krI95qokVdnXjlZIbeEuOcpbNoIJIU0EqZXuz68b6EVnvmrCA2qAWlzx6N0EhZQmbVtYAWBmAAdMZPJSzjAso3CRDzPDxJhkmcIGrWgksNX7lmDecYwbBc/0wbp3RBH6Qag==;lw45Zjz5UxDTbxq1+WBP7Q=="
 ---

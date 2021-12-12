@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-go
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849/amp"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Gizmodo
@@ -28,38 +28,6 @@ images:
     width: 800
     height: 445
     isCached: true
-
-related:
-  - title: "Community of ethical hackers needed to prevent AI's looming 'crisis of trust', experts argue"
-    excerpt: "The Artificial Intelligence industry should create a global community of hackers and \"threat modelers\" dedicated to stress-testing the harm potential of new AI products in order to earn the trust of governments and the public before it's too late."
-    publishedDateTime: 2021-12-09T19:00:00Z
-    webUrl: "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.html"
-    ampWebUrl: "https://techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ethical-hackers-ai-looming-crisis.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 163
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/ethical-hacker.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
-  - title: "Community of ethical hackers needed to prevent AI’s looming ‘crisis of trust’"
-    excerpt: "A global hacker “red team” and rewards for hunting algorithmic biases are just some of the recommendations from experts who argue that AI faces a “tech-lash” unless firm measures are taken to increase public trust."
-    publishedDateTime: 2021-12-11T19:34:00Z
-    webUrl: "https://finchannel.com/community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust/"
-    type: article
-    provider:
-      name: The Financial
-      domain: finchannel.com
-    quality: 51
-    images:
-      - url: "https://finchannel.com/wp-content/uploads/2018/07/images_artificialinteligence.jpg"
-        width: 800
-        height: 442
-        isCached: true
 
 secured: "7WTvN2gkr2pnMp2o27wLrRU1GfBzVrrGJZQRSbYLqRR+iM2XB0qUFfVHvS0qqa31q+2LdNKwrew/p26h5ahB6JumN6dzDwnb9Jb6MHRmpds+/SqLqkziyX+1tZho6SwpEtHHazqH8wg8UOX3/d2pjsxVroX8FiY+0gtJ2+Lbty/hzJif2yBg7Mc/UmjdSVK+0UAihtqncl8B8v75rI3+6VMJHGI1zXony3Lfc1HwEHctNnvj56Uy6Gxao2aJMx78Gj76sB6Lzrs22sSuZsYV8usVWy3MWiH8fA3D5gh+0ivnQNlydKKXij2ubAT48yjyiM4Nvg9cP1VV3TR4RK3XR6WgMlG2KPlmxi5zCG7F4RskxXhOiOVYMP/qRq5FnqBBnvcw9z7qBy7eNHhQJavs/UgjlFqOvBitxNbCxzAE5b6TU+m4EoKfBW+tg9T74wnUk5GrEBCrsGQGkDAC70lvUiUMoF5OQQlcF9QLBTqX7INMfQQ0Rx7gn4BaxKRAdvKdfsfDW++RJoN3qwrhSIP5hg==;8WfmkIY8Z4KjGMRCX1Zj8g=="
 ---

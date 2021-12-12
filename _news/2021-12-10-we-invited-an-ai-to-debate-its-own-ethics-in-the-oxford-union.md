@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/we-invited-an-ai-to-debate-its-own-e
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-173607"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "We invited an AI to debate its own ethics in the Oxford Union — what it said was startling"
+    excerpt: "More seriously, former Google CEO Eric Schmidt recently combined with Henry Kissinger to publish The Age of AI: And Our Human Future, a book warning of the dangers of machine-learning AI systems so fast that they could react to hypersonic missiles by firing nuclear weapons before any human got into the decision-making process."
+    publishedDateTime: 2021-12-12T15:00:00Z
+    webUrl: "https://thenextweb.com/news/ai-debate-its-own-ethics"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 76
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F03%2Frobot.jpg&signature=3e919487a34432e6e3ccbdb23e1b6f03"
+        width: 1212
+        height: 606
+        isCached: true
   - title: "AI debates own ethics at Oxford Union"
     excerpt: "In a debate at Oxford Union, an AI Megatron presents arguments and counter-arguments on whether AI can be ethical"
     publishedDateTime: 2021-12-11T07:00:00Z

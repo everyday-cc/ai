@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -33,20 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Language Modelling at Scale: Gopher, Ethical considerations, and Retrieval"
-    excerpt: "We are releasing three papers on language models, Gopher, Ethical considerations, and Retrieval."
-    publishedDateTime: 2021-12-08T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/language-modelling-at-scale"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
-    images:
-      - url: "https://lh3.googleusercontent.com/6LUqTcdYHclfg9MX2IFrDmlnqUVyi7rQJU4PNRBuXOfqwV8srvuj41E8AW_NduDnvj_sTHnvCw1N72TQKxdIrZhs6lM-WwcUyjpHohHStQzSPo1DCBw"
-        width: 512
-        height: 288
-        isCached: true
   - title: "Items tagged with ai language model"
     excerpt: "Its most recent findings come from a 280 billion parameter language model named Gopher. The thought of an AI robot having natural conversations with humans has been the focus of many science fiction movies."
     publishedDateTime: 2021-12-09T17:01:00Z

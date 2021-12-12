@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Language Modelling at Scale: Gopher, Ethical considerations, and Retrieval"
-    excerpt: "We are releasing three papers on language models, Gopher, Ethical considerations, and Retrieval."
-    publishedDateTime: 2021-12-08T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/language-modelling-at-scale"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 89
-    images:
-      - url: "https://lh3.googleusercontent.com/6LUqTcdYHclfg9MX2IFrDmlnqUVyi7rQJU4PNRBuXOfqwV8srvuj41E8AW_NduDnvj_sTHnvCw1N72TQKxdIrZhs6lM-WwcUyjpHohHStQzSPo1DCBw"
-        width: 512
-        height: 288
-        isCached: true
 
 secured: "zTidcDf5Wam1ukL/LT19q6Qloe3ATBhGRxTNOMlt8OWsCbQvFIjey81K7JQwsH8x7X9AIvKSdmdui/lsBQiiVJfLX7YKOJBzSeposTutluJUcMe++QAjAg+G9b+vMEPKCa/AhqjjEmh3zQsSR8so1O096pcQu/wUy6zEEZxUFCeVgidQTBBF0QFTe1owUngrSA+Nwc7wMdnl4h+VxaC9EVfVgy6LStu5wzZHpWUw+kpxio3i6Q1owQUNa8JBbpciJz9Y4Ce2xuTWg/A82E+PVPYTx1LCxoNNy7bQ+Q3Fq8rEpHdgb0gNsCDVCVVsid1Z1ff+13loSxILQ2ep3dWer5kuRnOu36BHF1MwyNwIrxTgt0xhlGdM9vVOD/sqsI14u1A2WDz6pQo6j+xzUZD0EjfIEwgzQQkrPPRRl3mkvXU5m5M4cKa/ayjP4VFJHC5xQEkygR9SWjpNi9WwpehyLazTpSrseBWUWAWJ8duTqxzKUQwFt1S7Dx0xeYMdC27lwevPp03/9plGKgIcIxTDDA==;4eDgvASxiFhtel9ijXakag=="
 ---

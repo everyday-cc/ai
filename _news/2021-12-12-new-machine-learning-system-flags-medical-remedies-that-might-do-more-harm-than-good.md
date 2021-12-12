@@ -59,15 +59,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Machines that see the world more like humans do"
-    excerpt: "a software engineer in the MIT-IBM Watson AI Lab; recent EECS master’s graduate Austin Garrett; Dan Gutfreund, a principal investigator in the MIT-IBM Watson AI Lab; Joshua B. Tenenbaum ..."
-    publishedDateTime: 2021-12-08T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/937264"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 4
 
 secured: "HsTlscRIKrGbYLqee/zreJaGyTa5iU4NSFHgimRhq1zeBAUYEkuewUsoz064tddphidkQK65jVXQcrxOJU/Qdxy+JicEZW62Xi7BsVLEVm6/SitNL4tlk+Sme08m1zR14E/A3jsPxr/E6CvW1Du8PAfzOjw4lwMw2yNH+rsqMIwVeeRIywuYdutSgNn4Z8gpMsoCQhZUBX4I/aauAIFDRGoBgd5/PyEs6v70T0jy+z59JlHWo/63rCmdn30KGc9WgqSrkan51CfNXQUOdvo4S85utPa6U3nzYIZsDjdIXl54KoMajzpSHGVkNC19oUgRRnMOqljs0JpQYy6QeG1nCr6ya2k5XrzamfGP2jTeeC4NacB2ti1eyrkjDAhUVZwtoPgmq6s8LALxrYB9jU4snHr+ShHDaX9fe1byWu3pOmdYLWxtq+emiAtREr9cI5rz7wsMzDAyQ8rq4C6eD7EXFsGoS7KfDEMbKIp8bpGd48nSm0B55U1I/WcWtrDh2CAAOwzuPgTsSs5oZxAkBhH2vQ==;Ipb7X28HdLuuzv9Eeb6pIA=="
 ---

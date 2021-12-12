@@ -2,6 +2,48 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-10-28-github-updates-copilot-ai-pair-programmer-and-codespaces-online-vs-code.md",
+      "title": "GitHub Updates Copilot 'AI Pair Programmer' and Codespaces (Online VS Code)",
+      "excerpt": "Microsoft-owned GitHub announced several updates to its sprawling development and code repository platform, including two fairly new offerings: GitHub Copilot, described as an 'AI pair programmer,' and GitHub Codespaces,",
+      "sourceUrl": null,
+      "webUrl": "https://copilot.github.com/",
+      "originalUrl": "https://visualstudiomagazine.com/articles/2021/10/27/github-updates.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://copilot.github.com/social.png",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-27T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Visual Studio Magazine",
+        "domain": "visualstudiomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-27-optimize-your-budget-and-time-by-submitting-amazon-polly-voice-synthesis-tasks-in-bulk.md",
       "title": "Optimize your budget and time by submitting Amazon Polly voice synthesis tasks in bulk",
       "excerpt": "Amazon Polly is a service that turns text into natural-sounding speech, using dozens of voices in more than 30 languages. You can use it for all sorts of applications, ranging from talking animated avatars, to lifelike virtual agents that answer customer support requests, to automated newscasters reading",
@@ -1148,49 +1190,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-27-atos-integrates-viisights-software-into-atos-computer-vision-platform-to-enable-247-safety-in-cities.md",
-      "title": "Atos integrates viisights software into Atos computer vision platform to enable 24/7 safety in cities",
-      "excerpt": "Atos announces its new partnership to integrate viisights software into its Atos Computer Vision Platform. Atos is a pioneer in global Edge AI. This collaboration will allow viisights’ powerful behavioural video analytics to run on Atos Computer Vision ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/atos-integrates-viisights-software-atos-computer-co-1565673901-ga-co-1609308630-ga.1635335734.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/atos-integrates-viisights-software-atos-computer-co-1565673901-ga-co-1609308630-ga.1635335734.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/612/visights-person-monitoring-fire-detection-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/atos-integrates-viisights-software-atos-computer-co-1565673901-ga-co-1609308630-ga.1635335734.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/atos-integrates-viisights-software-atos-computer-co-1565673901-ga-co-1609308630-ga.1635335734.html",
-      "publishedDateTime": "2021-10-27T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

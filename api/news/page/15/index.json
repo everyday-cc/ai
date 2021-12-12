@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-12-01-aws-announces-new-serverless-options-for-three-analytics-services.md",
+      "title": "AWS Announces New Serverless Options for Three Analytics Services",
+      "excerpt": "Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new serverless options for its suite of analytics services that make it easier to analyze data at any scale without having to configure,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-services-6ef34923e80e452da4a9eb106abc94b6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-aws-gets-a-no-code-ml-service.md",
       "title": "AWS gets a no-code ML service",
       "excerpt": "AWS today announced a new machine learning service, Amazon SageMaker Canvas. Unlike its existing machine learning services, the target audience here isn’t highly technical data scientists and engineers but any engineer or business user inside a company.",
@@ -1152,49 +1195,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-nasa-uses-deep-learning-to-add-301-entries-to-keplers-list-of-exoplanets.md",
-      "title": "NASA Uses Deep Learning to Add 301 Entries to Kepler's List of Exoplanets",
-      "excerpt": "Searching for exoplanets is a daunting task in our vast universe. That's why NASA is looking at machine learning for a little help in the search.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/nasa-uses-deep-learning-to-add-301-entries-to-keplers-list-of-exoplanets",
-      "originalUrl": "https://interestingengineering.com/nasa-uses-deep-learning-to-add-301-entries-to-keplers-list-of-exoplanets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/LBGRADPnO2/sizes/nasa-uses-deep-learning-to-add-301-entries-to-keplers-long-list-of-exoplanets_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/nasa-uses-deep-learning-to-add-301-entries-to-keplers-list-of-exoplanets",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/nasa-uses-deep-learning-to-add-301-entries-to-keplers-list-of-exoplanets",
-      "publishedDateTime": "2021-11-30T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

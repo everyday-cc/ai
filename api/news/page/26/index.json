@@ -2,6 +2,49 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-11-20-motherandroid-chloe-grace-moretz-is-on-the-run-from-robots-in-new-trailer.md",
+      "title": "'Mother/Android': Chloë Grace Moretz is on the run from robots in new trailer",
+      "excerpt": "Chloë Grace Moretz is an expecting mother who is trying to survive amid a war with artificial intelligence in the new trailer for upcoming Hulu film, \"Mother/Android.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "originalUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/2171637350187/2021/1/30206a0b14643694b66e2c2e76dc7c40/v1.5/MotherAndroid-Chlo-Grace-Moretz-is-on-the-run-from-robots-in-new-trailer.jpg",
+          "width": 800,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "publishedDateTime": "2021-11-19T11:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-20-google-clouds-aiml-stack-to-power-toronto-firms-nlp-platform.md",
       "title": "Google Cloud’s AI/ML stack to power Toronto firm’s NLP platform",
       "excerpt": "Google Cloud has announced a multi-year tech partnership with Toronto-based software firm Cohere in which Google Cloud’s artificial intelligence (AI) and machine",
@@ -1147,49 +1190,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-19-we-tried-teslas-full-self-driving-heres-what-happened.md",
-      "title": "We tried Tesla’s ‘full self-driving.’ Here’s what happened",
-      "excerpt": "When a dozen small children crossed in front of our Tesla with “full self-driving,” I had good reason to be nervous. I’d spent my morning so far in the backseat of the Model 3 using “full ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/",
-      "originalUrl": "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/11/hypatia-h_9e7b2b5d3e8539bb029adb3b7f760b9b-h_95d1433a6a676b4f20bcd6465fcf6df9.jpg?w=1024&#038;h=576",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/11/18/we-tried-teslas-full-self-driving-heres-what-happened/amp/",
-      "publishedDateTime": "2021-11-18T23:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
