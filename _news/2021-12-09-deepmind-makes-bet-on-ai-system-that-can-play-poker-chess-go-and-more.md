@@ -48,6 +48,22 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "DeepMind tests the limits of large AI language systems with 280-billion-parameter model"
+    excerpt: "This is one of the topics that Alphabet’s AI lab DeepMind is tackling in a trio of research papers published today. The company’s conclusion is that scaling up these systems further should ..."
+    publishedDateTime: 2021-12-08T18:35:00Z
+    webUrl: "https://www.theverge.com/2021/12/8/22822199/large-language-models-ai-deepmind-scaling-gopher"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/12/8/22822199/large-language-models-ai-deepmind-scaling-gopher"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/12/8/22822199/large-language-models-ai-deepmind-scaling-gopher"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 96
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/f1IZ-bMNnRDmDTmMpOzYTQ4Xnbw=/47x217:1934x1351/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70244595/acastro_200730_1777_ai_0001.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "DeepMind AI helps study strange electrons in chemical reactions"
     excerpt: "Strange so-called fractional electrons are crucial to many chemical reactions, but traditional methods cannot model them – a problem that DeepMind has used machine learning to fix"
     publishedDateTime: 2021-12-09T19:00:00Z

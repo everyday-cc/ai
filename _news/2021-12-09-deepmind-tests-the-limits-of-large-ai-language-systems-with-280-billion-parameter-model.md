@@ -1,23 +1,34 @@
 ---
 category: news
-title: "DeepMind neural networks open new window to understanding electron interactions"
-excerpt: "Neural networks can be used to build a more accurate map of the density and interaction between electrons than was previously attainable, new research from DeepMind shows. The result is a step towards enabling scientists to better understand the interactions between electrons,"
-publishedDateTime: 2021-12-09T19:14:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/936923"
-webUrl: "https://www.eurekalert.org/news-releases/936923"
+title: "DeepMind tests the limits of large AI language systems with 280-billion-parameter model"
+excerpt: "This is one of the topics that Alphabet’s AI lab DeepMind is tackling in a trio of research papers published today. The company’s conclusion is that scaling up these systems further should ..."
+publishedDateTime: 2021-12-08T18:35:00Z
+originalUrl: "https://www.theverge.com/2021/12/8/22822199/large-language-models-ai-deepmind-scaling-gopher"
+webUrl: "https://www.theverge.com/2021/12/8/22822199/large-language-models-ai-deepmind-scaling-gopher"
+ampWebUrl: "https://www.theverge.com/platform/amp/2021/12/8/22822199/large-language-models-ai-deepmind-scaling-gopher"
+cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/12/8/22822199/large-language-models-ai-deepmind-scaling-gopher"
 type: article
-quality: 32
+quality: 96
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: The Verge
+  domain: theverge.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
-  - AI
   - Google AI
+  - AI
+
+images:
+  - url: "https://cdn.vox-cdn.com/thumbor/f1IZ-bMNnRDmDTmMpOzYTQ4Xnbw=/47x217:1934x1351/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70244595/acastro_200730_1777_ai_0001.0.jpg"
+    width: 1400
+    height: 933
+    isCached: true
 
 related:
   - title: "DeepMind says its new language model can beat others 25 times its size"
@@ -51,22 +62,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/12/chess-1483735_1920.jpg?w=1200&strip=all"
         width: 1200
         height: 820
-        isCached: true
-  - title: "DeepMind tests the limits of large AI language systems with 280-billion-parameter model"
-    excerpt: "This is one of the topics that Alphabet’s AI lab DeepMind is tackling in a trio of research papers published today. The company’s conclusion is that scaling up these systems further should ..."
-    publishedDateTime: 2021-12-08T18:35:00Z
-    webUrl: "https://www.theverge.com/2021/12/8/22822199/large-language-models-ai-deepmind-scaling-gopher"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/12/8/22822199/large-language-models-ai-deepmind-scaling-gopher"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/12/8/22822199/large-language-models-ai-deepmind-scaling-gopher"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 96
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/f1IZ-bMNnRDmDTmMpOzYTQ4Xnbw=/47x217:1934x1351/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70244595/acastro_200730_1777_ai_0001.0.jpg"
-        width: 1400
-        height: 933
         isCached: true
   - title: "DeepMind AI helps study strange electrons in chemical reactions"
     excerpt: "Strange so-called fractional electrons are crucial to many chemical reactions, but traditional methods cannot model them – a problem that DeepMind has used machine learning to fix"
@@ -167,7 +162,16 @@ related:
       name: RealClearScience
       domain: realclearscience.com
     quality: 34
+  - title: "DeepMind neural networks open new window to understanding electron interactions"
+    excerpt: "Neural networks can be used to build a more accurate map of the density and interaction between electrons than was previously attainable, new research from DeepMind shows. The result is a step towards enabling scientists to better understand the interactions between electrons,"
+    publishedDateTime: 2021-12-09T19:14:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/936923"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 32
 
-secured: "89fqDu3ZoabkwS2SHpKwIEyFaKD3Roz8Rh+CUesPyVjru88eicmwPMOERcr5enHvjirkZk4dx2hvkCYeJRodlVaPkRLqCiEPO3p8DgFBI5KSvg7m/UkFjPklgaLx5dkVtV4gFtCROKLgERK5EEa/X+nKzuElX3EkWq2j/jonaI7x2rO6XBTdjdsPq6pI701pFhIXadtmff7o0bWbq/oycyqwW14y1W4LPtV2qJyC29TjYyL6+xyKzjhIu7ZRZpGTJKF7gVDnHs7nrMwiAnXFO01JRPl1Kgw55PQWq8OVX0OVNdti76L50fnMeVAmh658Cpv/odpuBbsEpFdtNKjWwgTPAzOFTRQ3pjvVr/h4AfA=;yTY1F/eIPodbbTwKJSJbmA=="
+secured: "MFM9ndEpreI0KhOZ/7nC2OG+krNRwfDDZDsaGWP5Ko6MiPs8NM3ud8I29/A/S25SzctKQUi5gOmNTUoJmV4oTjSjI6dcdHtkG5XUa/KUmqadZ3gfEM/THdE3EeZ2RQxPfSd59/V2ik9ioyLQA1QrXDbEEadOGBzgka+OG3BE+3m7M4Kn5bs6WQF10o5szMuIcnT38oAgSLOf8GaT6jkcXnkNw8pODgDtbt3MxKYhGZmDcxc2nC5426GdgbhHw9uYrKVm+cwblEKRByL9cXAlrpHBoBo8RdeCaYSYAM4SJPOub22Rvl82RHCHtC63sN9E3JiRxRuMwaPXBVyyug2xirdrYaPijK1AiqmJzZio6Mc=;IkdBq3ybxoG8AlhTCjUIKg=="
 ---
 

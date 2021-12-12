@@ -57,22 +57,6 @@ related:
         width: 1279
         height: 720
         isCached: true
-  - title: "Vision tech developments give a glimpse of the future"
-    excerpt: "Advances in assistive technology have removed many access barriers for people with vision loss. But it's the development of visual prosthesis that has the potential to offer a whole new way of 'seeing' the world."
-    publishedDateTime: 2021-12-07T17:50:00Z
-    webUrl: "https://medicalxpress.com/news/2021-12-vision-tech-glimpse-future.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-12-vision-tech-glimpse-future.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-vision-tech-glimpse-future.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/vision-tech-developmen.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
     excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to"
     publishedDateTime: 2021-12-10T15:49:00Z

@@ -53,6 +53,20 @@ related:
         width: 680
         height: 400
         isCached: true
+  - title: "UAE - Young Arabs swipe to fintech as saving, investing takes off"
+    excerpt: "Being raised in the Middle East with a lack of savings and investment culture, many young Arabs are turning to online banking services to help track their spending and budget. When Mayar Akrameh was growing up in Lebanon,"
+    publishedDateTime: 2021-12-12T09:40:00Z
+    webUrl: "https://menafn.com/1103345231/UAE-Young-Arabs-swipe-to-fintech-as-saving-investing-takes-off"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/12/KT_b816cimage_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "SaaS Fintech Numerated Acquires Fincura, Adding Spreading Automation, Financial Analysis to Loan Origination System"
     excerpt: "Numerated, a fast-growing Fintech SaaS firm, has reportedly acquired Fincura Inc., 'adding spreading automation and financial analysis to Numerated’s Digital Loan Origination System.' The acquisition expands Numerated’s underwriting capabilities for business loans that 'require deep financial analysis,"
     publishedDateTime: 2021-12-08T17:19:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/sg/amp/news/boffins-unveil-artificial-inte
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do"
 type: article
 quality: 89
-heat: 109
+heat: 111
 published: true
 
 provider:

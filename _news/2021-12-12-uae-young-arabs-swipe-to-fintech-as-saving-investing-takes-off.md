@@ -1,27 +1,27 @@
 ---
 category: news
-title: "The deep dive: Chatbots in FinTech and banking"
-excerpt: "The evolution of the FinTech and banking sector has created an enormous need to provide better customer service, paving a way for chatbots."
-publishedDateTime: 2021-12-09T12:21:00Z
-originalUrl: "https://ibsintelligence.com/ibsi_prime_news/the-deep-dive-chatbots-in-fintech-and-banking/"
-webUrl: "https://ibsintelligence.com/ibsi_prime_news/the-deep-dive-chatbots-in-fintech-and-banking/"
+title: "UAE - Young Arabs swipe to fintech as saving, investing takes off"
+excerpt: "Being raised in the Middle East with a lack of savings and investment culture, many young Arabs are turning to online banking services to help track their spending and budget. When Mayar Akrameh was growing up in Lebanon,"
+publishedDateTime: 2021-12-12T09:40:00Z
+originalUrl: "https://menafn.com/1103345231/UAE-Young-Arabs-swipe-to-fintech-as-saving-investing-takes-off"
+webUrl: "https://menafn.com/1103345231/UAE-Young-Arabs-swipe-to-fintech-as-saving-investing-takes-off"
 type: article
-quality: 39
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: IBS
-  domain: ibsintelligence.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://ibsintelligence.com/wp-content/uploads/2021/12/IBSI_Website_Weekly-Chart_680x400_061221.jpg"
-    width: 680
-    height: 400
+  - url: "https://menafn.com/updates/pr/2021-12/12/KT_b816cimage_story.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -39,6 +39,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "The deep dive: Chatbots in FinTech and banking"
+    excerpt: "The evolution of the FinTech and banking sector has created an enormous need to provide better customer service, paving a way for chatbots."
+    publishedDateTime: 2021-12-09T12:21:00Z
+    webUrl: "https://ibsintelligence.com/ibsi_prime_news/the-deep-dive-chatbots-in-fintech-and-banking/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 39
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/12/IBSI_Website_Weekly-Chart_680x400_061221.jpg"
+        width: 680
+        height: 400
+        isCached: true
   - title: "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding ..."
     excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts BOSTON, M In less than six months, the Mass Fintech Hub,"
     publishedDateTime: 2021-12-09T13:01:00Z
@@ -52,20 +66,6 @@ related:
       - url: "https://www.pr-inside.com/images/logos/pr-inside/logo_pr-inside_fb.png"
         width: 1200
         height: 628
-        isCached: true
-  - title: "UAE - Young Arabs swipe to fintech as saving, investing takes off"
-    excerpt: "Being raised in the Middle East with a lack of savings and investment culture, many young Arabs are turning to online banking services to help track their spending and budget. When Mayar Akrameh was growing up in Lebanon,"
-    publishedDateTime: 2021-12-12T09:40:00Z
-    webUrl: "https://menafn.com/1103345231/UAE-Young-Arabs-swipe-to-fintech-as-saving-investing-takes-off"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/12/KT_b816cimage_story.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "SaaS Fintech Numerated Acquires Fincura, Adding Spreading Automation, Financial Analysis to Loan Origination System"
     excerpt: "Numerated, a fast-growing Fintech SaaS firm, has reportedly acquired Fincura Inc., 'adding spreading automation and financial analysis to Numerated’s Digital Loan Origination System.' The acquisition expands Numerated’s underwriting capabilities for business loans that 'require deep financial analysis,"
@@ -95,6 +95,6 @@ related:
       domain: crowdfundinsider.com
     quality: 13
 
-secured: "vr0i5+CgRZeQv/jPFuR+zTeURCyMWQUXT/qkzhCstnmrVzzVxCK6RucBbMNyONFQHHlmv3K2Ystqk+QEO3a/ioIMXx2uLM2nvWg7wpWNrF2Nyaf57rqagHgPHTdhDkIev5y9fe6g8ipMyi91bJqZUQ4GzyhbSI/xfMndL+jFOCjt8x8KDEtmrnex8HZSam0XS/Bj5HKH1NIBYMGbuASMbaGoLcDO7TELW9PcFNc5Q91FcZpVeVb6U65xq8hAXJF3qUyReML9CRQ1oW33qG9vXQxyrhv/vhqP5w55/eLEx5DH1Py1GNWNGn8Hs9SZX33Wo3wQ29OQWVTq6bc+jXnQkqDXlXfNgFUfZKBxe8Js18Zha0FqEVm8fEJ62BJh3GdeGLncQ6vdwmwV56hQ+AJPqi9zWsrwr32jP91lg9g33m6ZhQl2lJm8ynTx39olxYQvi+Rz0dwUF4Qv/58VEWf4NxjcFvZ/+3DdSTnXtMvKF831OdFVbjFdR4SSllyeKc/vyPYa01r+mSVdPYPEZPbpgA==;/Rw10MH4u5kLo0ZV21eBZg=="
+secured: "ZjhYKS9R49i+0bK//ZkWq8JlSNfn7QmmnBh8/gIXUZL8j5PR8z3HAlImZH3u0VCbUD7CDXJlQ92VT998xNMGCa+9lfEsJwfEbCgMlz8nSV8yblEjhonPcyKFdInO8BToZ3niO0W5gxKRlsaivVyx7uYk/ezbptQsgXNlR+dsmiP6+E2d4p4qoAhTU0gKmBsfNbGTuiSskHjrGdzWgyKAcs2dDNI4/jk4MBf7L3Ksb4NfkWSJ6+Bsvl6RrZvhKP49N4gB45VAmuRoVrUHDUHeTTJAzPSD7GPAyvwSCoDUXMKN4tBUmUi+YWdTQhjFQLyGpG7pKperZUYCTdJWdZfZbW2WkP1Zrp86tUoJ4VHGoJc=;HJvh+uzmwtPFqh9ipPVAhA=="
 ---
 

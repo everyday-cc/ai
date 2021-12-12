@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/metaworld-nft-metaverse-dedric-reid-clubh
 webUrl: "https://www.engadget.com/metaworld-nft-metaverse-dedric-reid-clubhouse-discord-170052007.html"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Engadget
@@ -41,6 +41,20 @@ related:
       - url: "https://img.caixin.com/2021-12-10/163913795584429_560_373.jpg"
         width: 560
         height: 373
+        isCached: true
+  - title: "Metakings Launches World's First Action-Based Artificial Intelligence Metaverse Game"
+    excerpt: "Metakings Launches World's First Action-Based Artificial Intelligence Metaverse Game <br/> LOS ANGELES, CA, Dec 11, 2021 - (ACN Newswire) - Metaki"
+    publishedDateTime: 2021-12-12T09:46:00Z
+    webUrl: "https://menafn.com/1103343525/Metakings-Launches-Worlds-First-Action-Based-Artificial-Intelligence-Metaverse-Game&source=29"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?295438"
+        width: 374
+        height: 250
         isCached: true
 
 secured: "GLovb3k5GLBf4oLeEkvUvS/SMSmcffcet02nueDyBjfFBLIcsp66eciSPDoEtzXH2fprABj+Kwh/+cto1gKKfMCgsQSYlS0FKPpHeFX7fUa3xhka7b6t0pPa8VCek/jmwagEMEfKkoP0+x12ynSo+zju+rntnTVv6mYN9Qi+VayacwgAfqZqRth0GZqBCshkT675y0VQYujnN99DrmEMJu6HWlWv8Y0uQt1czBg0fqlGYGHyXhi7+tCC3s9Kw108LxAcrfP/Ffeqnh+VcS1ilJq7GYVK40TTSjLRxh5wfwK/2EK6iXYh1ygmFmQYaBjDfK+dYY2KL0dd7FquO73GhdC/xf38PxLe7GFXvksLa+LQLw140XehuAwnS1s7BL0cXePYfLyh17GIKwa4wy5HGTdyRn2Z7koUArERCj4BfBL/vg1JkqW3kRTgSiJOzItsYkklnzO7fn5X5W/3BK72j8w0Ad0b8XsueU6o5Snj3zKAC4FcDmJCzzvwgQxfUKvW4GcI7Q4GgpYsgFJ554a4dg==;qyHZ0ps/NC5RvAwyzqzoKg=="

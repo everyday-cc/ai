@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "UAE - Young Arabs swipe to fintech as saving, investing takes off"
+    excerpt: "Being raised in the Middle East with a lack of savings and investment culture, many young Arabs are turning to online banking services to help track their spending and budget. When Mayar Akrameh was growing up in Lebanon,"
+    publishedDateTime: 2021-12-12T09:40:00Z
+    webUrl: "https://menafn.com/1103345231/UAE-Young-Arabs-swipe-to-fintech-as-saving-investing-takes-off"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/12/KT_b816cimage_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Mass Fintech Hub Doubles Membership to Support Growing Fintech Ecosystem in the Commonwealth"
     excerpt: "In less than six months, the Mass Fintech Hub, a public-private partnership dedicated to making the Commonwealth a key player in Fintech, has more than doubled its membership and received 'hundreds of requests to join its growing programming geared towards developing fintechs."
     publishedDateTime: 2021-12-10T14:49:00Z

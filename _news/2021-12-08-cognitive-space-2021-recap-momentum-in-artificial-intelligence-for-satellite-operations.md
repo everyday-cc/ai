@@ -2,22 +2,24 @@
 category: news
 title: "Cognitive Space 2021 Recap – Momentum in Artificial Intelligence for Satellite Operations"
 excerpt: "The platform revolutionizes satellite operations with the power of artificial intelligence for mission ... including the Amazon Web Services (AWS) Seraphim Space Accelerator and the NGA Startup ..."
-publishedDateTime: 2021-12-08T04:40:00Z
-originalUrl: "https://www.wdrb.com/news/national/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations/article_2c819d6e-d431-5e0a-aee1-8a59b4493439.html"
-webUrl: "https://www.wdrb.com/news/national/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations/article_2c819d6e-d431-5e0a-aee1-8a59b4493439.html"
+publishedDateTime: 2021-12-08T04:20:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/b24494436/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/b24494436/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations"
+ampWebUrl: "https://www.benzinga.com/amp/content/24494436"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24494436"
 type: article
-quality: 10
-heat: 10
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: WDRB
-  domain: wdrb.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "C9VVWLeORI0B6D8CKpykQs/NubeT8spsvYCiKs1ygDQpDc37jNEJN0KaCXhzvxdkWu7mWDcxWNvClcFGj5Vc43N/K4382ME+CakHj0zU+d4M96H1rUOBwShugFj/+ADR0dc6FuFqXtHLtpmPnNq0NAxrdHbGj6AZp6ntqK7hIdPGeH0+Lv2E9/vS21cCsHx3Fu59qegPXJeDIlqhcNaQQYp1CnCpfcXrIlf9D3OciBaUYRy5oD6oxY+ey0YWtASL7lBLOjbAVNHt1BPs/7EA7Gvt/TSoaB25vQ0RZeM0rgSKVgQPvgFXudCWBHM5Ikcx1epmLnngQn/mH0FoXOCDsr94e9RQF/w2P5B1EeyBWRE=;A/DY6ABrcR+TN5S959RO9g=="
+secured: "VAPgtGURsY58RvxgV3lBMBKZd14jmEwntodBeymdegq3f2QKyHA4oPSQCmuCqlTAadXlZvmResvgP6fPEWAHaLwT6un1o42U4KjN0Sd3uecq9HlYkQ6C14LYcfGkwgZ6QiZn/HbN2QvEfV9Q6ynNkeL4wJUTsafvzNBCAxPs61FWjiTu4N0UWN9HduEZ9ZArfCK2uMy9a+raLfAKcRM1kcA/H0RsRHezH7WBRDRK9Dqj9RlTTu5ezdHlf54vegLEvOeG1ozmTQ8nCriBIXr/S1Pr84F6OMCCCsb87zInSi6lcsi2LmkZ/ptmN9iPzc2KAxYMYkLiN+0ytnNj7hxgUyH9Sv03jNID14QiPoVDkA4=;VDfl02dnSz/2ODAdIoIQ9A=="
 ---
 

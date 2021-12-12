@@ -65,20 +65,6 @@ related:
         width: 1920
         height: 1088
         isCached: true
-  - title: "Intel's self-driving unit to get IPO"
-    excerpt: "Mobileye, which has been growing faster than its parent, makes chips and software that work with sensors to let vehicles handle more driving functions."
-    publishedDateTime: 2021-12-07T18:10:00Z
-    webUrl: "https://www.linkedin.com/news/story/intels-self-driving-unit-to-get-ipo-4598769/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQGaQSUzonLJdw/storylineheaderimage-shrink_400_400/0/1638900630048?e=1638993600&v=beta&t=ATEYMYGhpkl8NPyLKNYOZK3jg1HXGVq5YjSo2icnmpk"
-        width: 400
-        height: 264
-        isCached: true
   - title: "Intel Intends to Take Self-driving Car Unit Mobileye Public"
     excerpt: "Intel this week announced its intention to take Mobileye public in the United States in mid-2022 via an initial public offering (IPO) of"
     publishedDateTime: 2021-12-09T02:51:00Z

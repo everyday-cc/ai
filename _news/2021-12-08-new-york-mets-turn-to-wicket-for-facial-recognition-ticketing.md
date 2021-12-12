@@ -7,7 +7,7 @@ originalUrl: "https://www.sportspromedia.com/news/new-york-mets-wicket-facial-re
 webUrl: "https://www.sportspromedia.com/news/new-york-mets-wicket-facial-recognition-tickets-citi-field-mlb/?blocktaxonomy=news"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "New York Mets Expand Wicket’s Facial Recognition at Citi Field"
-    excerpt: "The New York Mets are partnering with identity recognition software Wicket to expand facial-ticketing at Citi Field."
-    publishedDateTime: 2021-12-07T18:36:00Z
-    webUrl: "https://www.sporttechie.com/new-york-mets-expand-wickets-facial-recognition-at-citi-field"
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 39
-    images:
-      - url: "https://sporttechie-dev.s3.amazonaws.com/Important%20Data/sporttechie-image.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "y753NmWKH/2Wgz9E2evMqCNbABixryY2M//2rAy1h0mgKZQgbEbbfuR/aSLmkw0eV/Bpi3OSGMBmAo7J78a8i4qLO8i5YiI3DJYS9yKSvBDorCEbacjvQoSK9Itcv8XlgSM7sqYd0IAH1Db/ZxKRgTFFX8t38u3YbSfHMR/RZ8v8biD9smTcYEiWRgMV7bsSqB6DI7gACE93+CvDa+xc3aVbsAopVbmzm1RUDU9k5T+R3Bn+ovOqkEoGhCQBl5+0mIgQnHyV3RIKlITYZvSn83V2ihXBLAzs3tl12NgR4EvV4tom50ptfMUzdDYuB8zPHENNT/+PHo8gX9M1wYmrTuwGJPpRZbN3EvuaS118gseCrg1XdbTVJVG8sFGrVCeL96gAStMTGUgj6C9szrUWHk3c6FHWK0i3Gve/KVVA27R3q8rDlYU8ZSV/73h/SbgaVVkCVvs1ISFkBv+h6LaAogXT2u/8Vlr6SaSEeNARt3QAT4IH3cWwva6NIAy3DWlZrOTLouxX2/VG2Ay2ngHuOg==;CQU43pUWyMY74qv3EMdihw=="
 ---
