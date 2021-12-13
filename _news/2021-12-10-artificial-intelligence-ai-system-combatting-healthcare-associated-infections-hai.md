@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ai-system-c
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ai-system-combatting-hai-jack-hueter"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: LinkedIn
@@ -27,6 +27,22 @@ images:
     width: 969
     height: 720
     isCached: true
+
+related:
+  - title: "Rugged embedded computing system for artificial intelligence (AI) and sensor processing introduced by Elma"
+    excerpt: "Jetsys-5320 is for high-resolution sensor processing, movement tracking, automatic target recognition, threat location, and predictive maintenance."
+    publishedDateTime: 2021-12-13T07:36:00Z
+    webUrl: "https://www.militaryaerospace.com/computers/article/14222160/embedded-computing-artificial-intelligence-ai-sensor-processing"
+    type: article
+    provider:
+      name: Military
+      domain: militaryaerospace.com
+    quality: 34
+    images:
+      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/12/Elma_13_Dec_2021.61b30ac793962.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "/jbAHs5ZcqHsAMmu2GGjG8z/BTqvin/YQ0tbjzxgHzZwS2A5mod3saMa0YW8rQlxWLGfHKU81YNnDs1wbsffj7Qmkp3Ggvbm+DEp9OJYDjLL5ktj+cnHeAFFXV9+rNK8dKEnztf95q1xLAalztVSINcEuRsx9deWQTlz/kG/aLOvCTu0zsZpmC8XTTx5J8CxJCxN0PL7scFJZ4MJdDlG/JvyATOpj+7w/AXdm4xVKYhmjR0qmu942KAUnJIF7dB85Oh12AJu/S7+AueLp1evWELD/pDQcHzn5RDZu/zCRMFVMwxm5F9bHsG7SOE5TejAAO5xJiGA03efMHUaTKVkEX61nxGOapheLr6ZQ/myEXPHZnrb5ULMLzQEqGZIkPFKi7nJUf8lEn+kLkmhqsfmxAD1iKA8w7UOuaZ4V/fitngu3UGuV8ECDL6KhGxfq9uqds0T12UP1jqwnMPgvkLsNxCB69U6F2ImmLqRzsI1VWDiI9LE8OP7TGMUJEfTXYGbSwzoKkskTsHpMd8GW7AS0g==;8Qq6DpvlDymX+R0jVPXNXQ=="
 ---

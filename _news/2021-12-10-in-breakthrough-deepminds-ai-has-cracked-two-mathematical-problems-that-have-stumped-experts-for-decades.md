@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesnownews.com/amp/technology-science/article/in-break
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/amp/technology-science/article/in-breakthrough-deepminds-ai-has-cracked-two-mathematical-problems-that-have-stumped-experts-for-decades/839322"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 400
     height: 300
     isCached: true
-
-related:
-  - title: "DeepMind experiment shows AI must grow smarter, not just bigger"
-    excerpt: "The dominant approach to building more advanced artificial intelligences is simply to scale up their computing power, but AI firm DeepMind says we are reaching a point of diminishing returns"
-    publishedDateTime: 2021-12-08T16:00:00Z
-    webUrl: "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/"
-    ampWebUrl: "https://www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/"
-    cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2300657-deepmind-experiment-shows-ai-must-grow-smarter-not-just-bigger/amp/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 74
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/12/08141652/PRI_214101935.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "pP2F6BVQsDl1Nz2KH7HgAul9v/D4uNvoQHXgoFaDpsI3B99ZAYeCB/BU057kexlOalJzJnmSrIeArm1AupV4qRNXNS28Fa8vSrcWGgxLoPo9NqOvLyK6k0cQ2KK3Ift0ypjJv8UYYjzecBW8azZ3CSp5Rfw/eNf8uQzZ4cW0nzzRj4xVFMtPI5NKwjEkNywaIKLhShDD8m2WRoVOUC5XfW+7f5rUp2NQFd9qsOU0yIdUqEmedZ9xTd1wUw3khiPuZNIJjS5XtdQ3y4x4v1XDHsXiNOGQFZWjgLLsKUoK/dvaAQg0jwc8Wj7EQZpgRq7l7YnFKY9Lg9jG+qzs/2TS5Na5TahISQu465g1I58qsAaWbfUu3nCJJLGVXd8pSD7DZmP5qkR/6lelNgSvIKpjKbYmmwvK32rMkDobMtYWqDC5J8GmnC0Fv++jbS5f35PGS7B0DshEJ+KBJq5DB67KGpilSzvZci5oW/dPsWeiDWpT/Snp+sB7VtkjgLcvDsPToWZTjh7WlCA7Nu4QhB3g8A==;1kEuuVx7ZVzBycstAUz6mg=="
 ---

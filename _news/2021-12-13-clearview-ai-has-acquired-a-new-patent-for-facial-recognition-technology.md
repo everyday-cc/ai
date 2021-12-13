@@ -9,7 +9,7 @@ ampWebUrl: "https://wonderfulengineering.com/clearview-ai-has-acquired-a-new-pat
 cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/clearview-ai-has-acquired-a-new-patent-for-facial-recognition-technology/amp/"
 type: article
 quality: 73
-heat: 113
+heat: 104
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "ACLU Calls for Halt of Homeland Security’s Use Of Facial Recognition Technology"
-    excerpt: "The civil rights organization said that the biometrics technology can lead to discriminatory arrests based on race."
-    publishedDateTime: 2021-12-08T16:33:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/aclu-calls-halt-homeland-securitys-use-facial-recognition-technology/187377/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/08/biometric_security_scan_picture_id1297832671/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "New Center for Artificial Intelligence"
     excerpt: "The new centre conducts basic and application-oriented research on the topic of artificial intelligence (AI) that covers the entire"
     publishedDateTime: 2021-12-09T08:20:00Z

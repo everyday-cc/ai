@@ -40,6 +40,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 101
+  - title: "Self-driving startup Robotics Research raises $228 mln in funding"
+    excerpt: "LONDON, Dec 9 (Reuters) - Self-driving technology startup Robotic Research said on Thursday it has ... but that had now changed and the company’s RR.AI commercial unit was now capitalising on it. “That’s one of the reasons we have sought investment ..."
+    publishedDateTime: 2021-12-11T06:21:00Z
+    webUrl: "https://cn.reuters.com/article/roboticsresearch-autonomous-idCNL1N2SS196"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2SS196"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2SS196"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 99
   - title: "Self-Driving Startup Robotics Research Raises $228 Million in Funding"
     excerpt: "Self-Driving Startup Robotics Research Raises $228 Million in Funding ... but that had now changed and the company's RR.AI commercial unit was now capitalising on it. \"That's one of the reasons we have sought investment now is because the prices of the ..."
     publishedDateTime: 2021-12-09T06:36:00Z

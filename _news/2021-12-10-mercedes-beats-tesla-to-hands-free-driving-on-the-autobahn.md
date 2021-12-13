@@ -57,6 +57,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Tesla “Full Self Driving” has serious issues – almost hit a pedestrian"
+    excerpt: "Tesla \"Full Self Driving\" has serious issues - almost hit a pedestrian. We might not be getting rid of the wheels anytime soon"
+    publishedDateTime: 2021-12-13T08:15:00Z
+    webUrl: "https://www.gizchina.com/2021/12/13/tesla-full-self-driving-has-serious-issues-almost-hit-a-pedestrian/"
+    ampWebUrl: "https://www.gizchina.com/2021/12/13/tesla-full-self-driving-has-serious-issues-almost-hit-a-pedestrian/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/12/13/tesla-full-self-driving-has-serious-issues-almost-hit-a-pedestrian/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 74
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/12/Tesla-HERO-1-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Mercedes-Benz Has Beaten Tesla To Getting Hands-Free Driving Approval In Germany"
     excerpt: "Advertisement The German government has given Mercedes permission to put its Level 3 autonomous driving technology on the road, Bloomberg reported. The system will be available to the general public on the new Mercedes S-Class and EQS saloons early next year,"
     publishedDateTime: 2021-12-10T19:43:00Z

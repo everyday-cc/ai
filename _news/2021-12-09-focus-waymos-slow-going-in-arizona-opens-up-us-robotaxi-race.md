@@ -42,18 +42,18 @@ related:
         height: 545
         isCached: true
   - title: "Robotaxi race opens up as top contender Waymo in low gear in Arizona"
-    excerpt: "CHANDLER, Arizona: Alphabet's Waymo risks losing its lead in the ... dollars in financing needed to automate driving through artificial intelligence software and expensive sensors."
-    publishedDateTime: 2021-12-08T19:49:00Z
-    webUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
+    excerpt: "Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field. In the first and ..."
+    publishedDateTime: 2021-12-08T19:58:00Z
+    webUrl: "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
+      name: Reuters
+      domain: reuters.com
+    quality: 69
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL"
+      - url: "https://www.reuters.com/resizer/rHX0XRhoxv2jlP3Cl9R9TkKoGhk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VXENWUVLHRBQ5MHF5O3ZDWQ.jpg"
         width: 1200
-        height: 676
+        height: 628
         isCached: true
 
 secured: "wx2xHjVrMPk/NtjMP7nUq4RO0icqQXI7wucySJttY+i1atXYIgqqaSYQjPkiXWVKQjkWf8W6ghHWdqhCIopa46lw0OLqI+gYnb7ywcQM8HAXypwKl1/ChVfDkW1ENYqtDfZKAB91+nA9VwEyxo+Lc6i7DWOhVo4AHPAobGVACmFfjhxhocIFFMsINl1KbielgKyUORjWOia3cAB56plBt1w1HQSdY84qyV2xQiLfUH1TAHDnbRL2uT1tsypduVKscm9zQiev8KP5TUT9IZn+kQwiaJ39oeb4DzWGw5S7JYxe1CsT0C3C8tyl68qSSeGfNbpp1m6TeI+yymQ+Hzdx4/LTLW9in3tsytFH82NwwIU=;nNEe30yvOgKWBRprF0bogQ=="

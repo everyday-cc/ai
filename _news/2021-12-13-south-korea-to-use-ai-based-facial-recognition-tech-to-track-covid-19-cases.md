@@ -74,6 +74,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "How facial recognition technology will be used to track positive Covid cases"
+    excerpt: "If you thought being asked to check into a cafe with your smartphone was “a step too far”, this new development in coronavirus tech might rustle your feathers."
+    publishedDateTime: 2021-12-13T08:15:00Z
+    webUrl: "https://www.news.com.au/technology/online/security/how-facial-recognition-technology-will-be-used-to-track-positive-covid-cases/news-story/67500e603797c6cfdb50c0bb9a8331c9"
+    ampWebUrl: "https://www.news.com.au/technology/online/security/how-facial-recognition-technology-will-be-used-to-track-positive-covid-cases/news-story/67500e603797c6cfdb50c0bb9a8331c9?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/online/security/how-facial-recognition-technology-will-be-used-to-track-positive-covid-cases/news-story/67500e603797c6cfdb50c0bb9a8331c9?amp"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 56
+    images:
+      - url: "https://content.api.news/v3/images/bin/79cca39fb87818408995242365d7a910"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "/3JX1O5V5LfOmnYRZuLTymyUyjCNR6meeh43N6iVQDB3GeG6MrmYvN+ScSDdgiAPUaBP1v75YVb+73HCbX/25eNSjr4NrTTI849zgsXO6JkvMxDoo4xKo9Hv9RN6WcbZVm7xSsA9Sfyy9XPZK6Uw+fLFxqPGESe3SD6+FykE1x0ggPifahN0g+iGavjki0yvbKEDHnR5ksNaK09z/23KTFKnwK+MyM2q+QADx3HuoJG6OqXTQ/orR8ByvVHUEQb335MwnIIrFLfqrAMNvxdVf6gaM/gnii19rFjaqCVQNT8aUUBh2C923Kn0YzTGT5JvQbjd2+JszuUVqMAGqBYGvfZNfszsDbKeE7nHpJoleWI=;i5ZCRNkjmQfRqesmJzu3Fw=="
 ---

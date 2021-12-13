@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/asia/east-asia/article/3159471/coronavirus
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -77,7 +77,23 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How facial recognition technology will be used to track positive Covid cases"
+    excerpt: "If you thought being asked to check into a cafe with your smartphone was “a step too far”, this new development in coronavirus tech might rustle your feathers."
+    publishedDateTime: 2021-12-13T08:15:00Z
+    webUrl: "https://www.news.com.au/technology/online/security/how-facial-recognition-technology-will-be-used-to-track-positive-covid-cases/news-story/67500e603797c6cfdb50c0bb9a8331c9"
+    ampWebUrl: "https://www.news.com.au/technology/online/security/how-facial-recognition-technology-will-be-used-to-track-positive-covid-cases/news-story/67500e603797c6cfdb50c0bb9a8331c9?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/online/security/how-facial-recognition-technology-will-be-used-to-track-positive-covid-cases/news-story/67500e603797c6cfdb50c0bb9a8331c9?amp"
+    type: article
+    provider:
+      name: News.com.au
+      domain: news.com.au
+    quality: 56
+    images:
+      - url: "https://content.api.news/v3/images/bin/79cca39fb87818408995242365d7a910"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "KKmt7b0qQspSm0trNozfI362Ui4OGFhDqN9yME9WnG2cFBLEE8YmTy6TI6//2Bo/f/CKjoSE/LQaD560KiJ0yVL6bpuouDIl64ViIYDZ2WlZ/rOtjW8Sg6j4IyQx8OoimP7d4oPfyymNotrHRi/givUntYNLee/6UHe8QogtlsHxG63y6rNWw5hgi8gnL3xnJwQ1LQe0vGhBZjl7ntT00O5h5Ri6MKVU0ucBDKXm50Ww4yYE1dL7pE4rJGKUj/i0fK2eKxBIcqsl8CxbAHkwnXRsW4ocKrtA+B0UDimx67M3SyaGZMSDQkwcNg1wpRx5FSqb7rOJLx0rVb2cKW8zXgoxk/1KXGv+h0Z7mKlUUio=;Ql8vg2pNCywPWaBygqY7Ig=="
+secured: "ZF/ZRg49LCw/GxxE8FrnWnHBmj01LZfne4ewliHdGaGLjWYLrELxQpBC+bxdDoiicfNfgDg6Ss9uFdHVIO48KGncYwwjEgJTANHlQuGTOwpxI6jhrYc21EDhcQ5+Zvixcfy52WSfqRHo/Gbb8LofkOFfNhbn1H8wQPpEywiF10kTL7EVhi/YT8OqJaHjwaqwSNWel9Qko72KdvKls02/CE3QuMDbYIHdTY21VIdhzIV/AUTe0tKy5h1EKjFPsJYyuNrZa1D1H6vUhB0ofKHaoNuwQ5C8lbiJVJ4kHJN4U5rwHkoEm8rE+dBOl6JS0V3m4MVPIFD8l72YOrsEd5tCMHoF/dz0qs7MJvIbyZ59fFF68c/4tE2T3BDXO3F1OxYjL+rLvoCIZ5lnYFpQ/oUp77UkQLSvwEB95rZGDVZU7JOhVC/yU5Y6xP4dsZ+XVVRnwTQ0y7sLAkWxdncg8yUSCZ8AcUxN1s2nNiHoc61X05d27pJQ4k6VQhcT4Zrh2+T7Aug17bCi6B7al1k5tkcfeQ==;xsnOgJZLyhsXRwFzgjilxw=="
 ---
 

@@ -66,6 +66,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Chinese AI Giant SenseTime Remains Committed To IPO Despite U.S. Blacklist"
+    excerpt: "Chinese artificial intelligence company SenseTime has decided to postpone its initial public offering in Hong Kong after it was put on a U.S. investment blacklist, although the company insists that it still intends to complete the listing."
+    publishedDateTime: 2021-12-13T07:35:00Z
+    webUrl: "https://www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/"
+    ampWebUrl: "https://www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b6f6a34d9d48fe56dda795%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Cyber Daily: U.S. to Bar Investment in Chinese Facial Recognition Firm"
     excerpt: "The use of facial recognition sparks debate and we’ve covered local bans, such as in Portland and San Francisco. As with data privacy in general, there is no federal law in the U.S. to set boundaries,"
     publishedDateTime: 2021-12-10T13:06:00Z

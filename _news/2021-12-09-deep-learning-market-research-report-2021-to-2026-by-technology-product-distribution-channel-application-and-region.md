@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech-to-text API Market worth $5.4 billion by 2026 - Exclusive Report by MarketsandMarketstm"
-    excerpt: "According to a market research report \"Speech-to-text API Market by Component (Software and Services), Application (Fraud Detection & Prevention, Content Transcription, Subtitle Generation), Deployment Mode,"
-    publishedDateTime: 2021-12-08T15:26:00Z
-    webUrl: "https://www.lelezard.com/en/news-20146808.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 12
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "lbo3DSdcsXGiGDutHLYP+Gz12asEQH2z7sQQzQvuwQhMhmulkwBTg4BBVwtqxiEJub3YIcxKLT2GR7KmHRsUWgJbSzgwx56ekiG4KjmJSi75uPnyqXfNjzmtn0Gev3GevviCIrfDfSTKDxlM821EYdEU/MBGAe9joS7EGTGsqlUEWNHd6aP0b6Gb2Co1C/qVW/Agvy6OipnoEDcn01XpIEQDrcBHjarhYEdycbNH2oZ6Tys1dxxrTZl73Kl2X3G6UKYta0k4/jrFsOvotNgfx+Id+WmCvhF9Slt0+FgG0Q9rt9+rmE54N7uQpCpnhFRgsjKEOcAymlfoh99lM2OIVArv3uF7WNVTYS/jGq59VSs=;eZiROygHjd6r11d6csikIA=="
 ---

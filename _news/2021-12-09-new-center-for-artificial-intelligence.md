@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "ACLU Calls for Halt of Homeland Security’s Use Of Facial Recognition Technology"
-    excerpt: "The civil rights organization said that the biometrics technology can lead to discriminatory arrests based on race."
-    publishedDateTime: 2021-12-08T16:33:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/aclu-calls-halt-homeland-securitys-use-facial-recognition-technology/187377/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/08/biometric_security_scan_picture_id1297832671/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Disclosure sought on Clearview facial recognition use and by company in separate cases"
     excerpt: "A Freedom of Information Act request seeks details about the use of Clearview AI’s facial recognition by the Criminal Investigation Division of the U.S. Army."
     publishedDateTime: 2021-12-08T21:44:00Z

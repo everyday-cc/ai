@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Qualcomm's AI chip chief leaves company to take top job at startup"
-    excerpt: "Kressin told Reuters he left Qualcomm, which is nearly tied with Intel Corp for the tile of second-largest U.S. chip firm by market capitalization, for MemryX, which has only 30 e"
-    publishedDateTime: 2021-12-08T15:29:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/qualcomms-ai-chip-chief-leaves-company-to-take-top-job-at-startup/articleshow/88170760.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-88170760,imgsize-18838,width-800/88170760.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "ePq4b/0dym6C/w4DZqhi+++SdCYZdv2oYLFQrL+1204l5pLrenfco48oNMzgNB864zaU+SfqxAO7QIhJzV6hheYgP/B4Pn0l/8tbRAHUMksq6Bf8dbAIO3pY+cLol8AjsFJra0kjqxZsXSmaZ0/0XvFe28vEtUEeLC57Pu5pZfV55Q35xf3gjxJgyEOWN+CvpLe+KYMNqkjwxQ5UgLeNaKQTlzLYRksGszSczy9DtvBnZJ7Zxv83yWIOiU58hmVHxxYat3URAcKfqyhNd4QDYVi8qTmsrWgxb7S8tYRFrqCH80lJQclfUpNEGpSmoeIBYFHo64MLZdt9glho3L5eNcceVTzelHYTinNiHystAELW7Jd2ZUftr/ru5aYkr70krWkXB6prDkJwTtpyh3FyZahfJDG2yvD4VKxmzLZpi7rldffHLdMtjpbMd7n+XDp3tsEFUZzG9Q8oPfI/IkiGd5LTDyTeNT5xjku3pjaKBtKN0WL+2A4WIqKXeATYqUAZennA2mMHXGgFA4bKkzPZig==;BkFzqSYmXEJINm0FANJ89A=="
 ---

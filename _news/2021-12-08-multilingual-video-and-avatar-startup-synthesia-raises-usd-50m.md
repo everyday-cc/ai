@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://slator.com/assets/2021/12/Synthesia.png"
@@ -96,6 +97,6 @@ related:
       domain: usnews.com
     quality: 46
 
-secured: "FehsuXvXVwpZVMJkQIp97tjNPesI8SPnIZUIp+v7xsWDa0iJPgy1/hpjvHGRtUfGUnjmNrZoiXnn+KdYixgcRzsJAw80MUBqp5in+ZWVbc6IAa61maC0BvDGeT5QHeAM6UKzZ33HMYc51V9/g3NwnHN0Y2TPfWVPt2SaYtddAEry62zzVn40F4Baz52HwaqYoXtDRX7KtNrs1n5jF0v7jejlsx9ppweduNpYtxCXwDHVmU0EgeQbbn6EUA7tt8VKwOmlKEivZ3Ria3LKg5vGx27CMVi3GpEcYZSGD0z9PcyVfmIJ1Fyu70fchIp3pIHLz8elaav7GBMXmx4aHJMNMaoGcOuysRjbmpCKcldB9LY=;vppwqFs7QjP2qIvYaaEwAA=="
+secured: "vbMIg5uK+zcNkOf19uVJhb/r+lPUmzenlZwOeZW3nfDd+smPIt2bVaDckAjfRLe5gJ0nCQ59VfLKwyLj3j/vUpQ5s1dxfoIWLfde0qCSM8aDdFc8CNAD/ehxNpg93/09CSPHUfThkDi6bQ1Q9/fZGw5YIDiKIJ0J3vMgvcvlqpoE9pszJfzHZQa4QDg6d4zbyv/QFwp2QdKYcYge5W8cyPXgdwC/ZWYM1LszGGe0SUeW9a33uiXxlQC+2X0pKxBB5SjdqgYkhsXgHrYLHrTikZpsKchxmbPc48qXzpUuZ+0sZMkl8+16wvYyA8MSgvvlbeqUjZZMjik6B3xITM0/uqzeq2w0HRBfTYlmcrz7a/B/lO8zIt89+GMpejX3dgQH+A2fnHZO03w7CKdy1V9Tja5jZV6JL65uuPwFnuzKrMp5hR4xfLY7bUpqp3a2GIFYl4w/B+4ruoJi7vj3CX97CrRer285AutZKixoEboMzGNI1ChPaLGyQHA1c/o9p5IM2rwBGmEPVtlZR4ksLgcTyg==;aH2Jdg1x/fDJnhwVNJxi/w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ciol.com/komprise-adds-support-for-aws/amp/"
 cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/komprise-adds-support-for-aws/amp/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "AI and analytics — Gearing for computing demands of next-gen AI apps"
+    excerpt: "There was a session on AI and analytics — gearing for computing demands of next-gen AI apps, at the India Mobile Congress 2021. The participants were: Xavier Kuriyan, Director Solutions and Alliances,"
+    publishedDateTime: 2021-12-10T08:44:00Z
+    webUrl: "https://www.dqindia.com/ai-and-analytics-gearing-for-computing-demands-of-next-gen-ai-apps/"
+    ampWebUrl: "https://www.dqindia.com/ai-and-analytics-gearing-for-computing-demands-of-next-gen-ai-apps/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-and-analytics-gearing-for-computing-demands-of-next-gen-ai-apps/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/12/AI.jpg"
+        width: 1004
+        height: 568
+        isCached: true
   - title: "Komprise Adds Support For New AWS File Storage And Analytics Services"
     excerpt: "Komprise announced expanded support for new Amazon Web Services (AWS) file services to accelerate petabyte-scale file data migrations to the cloud, while enabli"
     publishedDateTime: 2021-12-09T07:51:00Z

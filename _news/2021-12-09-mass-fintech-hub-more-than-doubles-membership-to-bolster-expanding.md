@@ -7,7 +7,7 @@ originalUrl: "https://www.pr-inside.com/mass-fintech-hub-more-than-doubles-membe
 webUrl: "https://www.pr-inside.com/mass-fintech-hub-more-than-doubles-membership-to-bolster-expanding-r4857729.htm"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Customers' Expectations And The Changing Fintech Landscape"
-    excerpt: "Digital lending is proving to be a viable alternative for reaching individuals who have previously been unable to obtain financial services. Innovative products can overcome geographical barriers, make services more accessible,"
-    publishedDateTime: 2021-12-09T12:56:00Z
-    webUrl: "https://www.linkedin.com/pulse/customers-expectations-changing-fintech-landscape-danijella-dragas"
+  - title: "UAE - Young Arabs swipe to fintech as saving, investing takes off"
+    excerpt: "Being raised in the Middle East with a lack of savings and investment culture, many young Arabs are turning to online banking services to help track their spending and budget. When Mayar Akrameh was growing up in Lebanon,"
+    publishedDateTime: 2021-12-12T09:40:00Z
+    webUrl: "https://menafn.com/1103345231/UAE-Young-Arabs-swipe-to-fintech-as-saving-investing-takes-off"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 24
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQF2ox9U5UEbPg/article-cover_image-shrink_600_2000/0/1638885389417?e=1644451200&v=beta&t=FkrJKXuaSd8q_t-c1sd4JsgG1RnJn0qdZ0tmqB56kic"
-        width: 675
-        height: 380
+      - url: "https://menafn.com/updates/pr/2021-12/12/KT_b816cimage_story.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Fintech startup launches bookkeeping app for side-hustlers"
     excerpt: "A booking and tax returns app for the self-employed and side-hustlers has launched, following a £650,000 fundraise. The app, launched by startup Earnr, is geared towards the increasing number of those with side-hustles alongside their main job."
@@ -53,6 +53,17 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Mass Fintech Hub Doubles Membership to Support Growing Fintech Ecosystem in the Commonwealth"
+    excerpt: "In less than six months, the Mass Fintech Hub, a public-private partnership dedicated to making the Commonwealth a key player in Fintech, has more than doubled its membership and received 'hundreds of requests to join its growing programming geared towards developing fintechs."
+    publishedDateTime: 2021-12-10T14:49:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 13
   - title: "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding Fintech Ecosystem in the Commonwealth"
     excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts. BOSTON, MA / ACCESSWIRE"
     publishedDateTime: 2021-12-09T14:01:00Z

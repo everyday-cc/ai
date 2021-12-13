@@ -37,6 +37,20 @@ related:
       name: manometcurrent.com
       domain: manometcurrent.com
     quality: 31
+  - title: "Cloud Artificial Intelligence Market Outlook 2027 - Industry Trends, Opportunities and Forecast"
+    excerpt: "AMR Logo The global cloud AI market is expected to grow significantly over the forecast period, owing to an increasing adoption rate of c"
+    publishedDateTime: 2021-12-10T22:52:00Z
+    webUrl: "https://menafn.com/1103338457/Cloud-Artificial-Intelligence-Market-Outlook-2027-Industry-Trends-Opportunities-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/10/EP_a6ed0image_story.jpeg"
+        width: 480
+        height: 400
+        isCached: true
   - title: "Worldwide Facial Recognition Industry to 2026 - Players Include 3M, Aware and Ayonix Among Others"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global facial recognition market reached a value of US$ 3."
     publishedDateTime: 2021-12-08T19:15:00Z

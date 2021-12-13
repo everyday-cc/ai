@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Robotaxi race opens up as top contender Waymo in low gear in Arizona"
-excerpt: "CHANDLER, Arizona: Alphabet's Waymo risks losing its lead in the ... dollars in financing needed to automate driving through artificial intelligence software and expensive sensors."
-publishedDateTime: 2021-12-08T19:49:00Z
-originalUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
-webUrl: "https://www.channelnewsasia.com/business/robotaxi-race-opens-top-contender-waymo-low-gear-arizona-2367096"
+excerpt: "Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field. In the first and ..."
+publishedDateTime: 2021-12-08T19:58:00Z
+originalUrl: "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/"
+webUrl: "https://www.reuters.com/technology/waymos-slow-going-arizona-opens-up-us-robotaxi-race-2021-12-08/"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--vTqORboE--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2021-12-08t195613z_1_lynxmpehb714y_rtroptp_3_alphabet-waymo.jpg?itok=ODAKkWpL"
+  - url: "https://www.reuters.com/resizer/rHX0XRhoxv2jlP3Cl9R9TkKoGhk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VXENWUVLHRBQ5MHF5O3ZDWQ.jpg"
     width: 1200
-    height: 676
+    height: 628
     isCached: true
 
 related:
@@ -53,6 +57,6 @@ related:
       domain: reuters.com
     quality: 69
 
-secured: "eZ9zIiYJjPg3Dy0q0i8rmCqKUErc+txvqn0s3C2TJ+AT71hWNXAp9EVA/uWNfUQUc/6WhHJgPKfQd+ZUSj7KLSUCHt2uUI5PEtBCUH4UrsD7K8uW5CYKSG8bLfUJFXgR5u0Yrf4tyBf9tW3WIlW84SUMi6D50eSIR/t9vhgcrf0PadgcbAUJ0jFVPCoxO0hFiaB3mwuKKutT5ASi5/DwU3pFdTc38qA/8YEQfiQ9+pLPh9o05tuNkrhT509t+ZryLkD1ij/TeGRtwxDfVsXP7GF1hYmw8G0cv5gTns9+4cm+qVrUVsOKBpomyi/MXR5NBiWxEzXqmbOH9kws3jlhFSd8MXW0R+UyftaWXfLurtY=;lNlyNQ6fN8xwl1wXTbJqCQ=="
+secured: "psDzCIbzpY+NHfUUDmQIBsFOoedupLpmudrhue0fKOwZu1yWpcEepc72fkuHSrm2ibbblTkxYZUvctmwNppzKDRTVMjSPLCxyJYmui6XYwu+DS7R+U+5PM2BvQhWYTBfnI0P6v1gFuZk6xhETfWtlPzE66F2l7cr7vEbbcwc3meSKZUQNbppKqAaxJFZeRF4dfSFMMBYOLy25IIYGHOHIoGpVFWMQrhsDc6+ACR3wKJfYVoYsykdE0Do4KR1l1fDcQuMzYsZ0VkboqBGCqJZ84kggLaOZ/qjdO7wELC2CwnEc3mUX5PDKcmrzWsLQfnMZqIi2G0H2jGORjrkk5/5taPWE38WkVtAJLUyL5IfQjo=;/aThapiOUhRKUSxUbCpnag=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/synthesia-which-is-developing-ai-to-generate-synthetic-videos-secures-50m/amp/"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: VentureBeat
@@ -31,22 +31,15 @@ images:
     isCached: true
 
 related:
-  - title: "Synthesia raises $50M to leverage synthetic avatars for corporate training and more"
-    excerpt: "Synthesia, a startup using AI to create synthetic videos, is walking a fine, but thus far prosperous, line between being creepy and being pretty freakin’ cool. Today, it announced the close of a $50 million Series B funding round led by Kleiner Perkins,"
-    publishedDateTime: 2021-12-08T15:50:00Z
-    webUrl: "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/"
-    ampWebUrl: "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/"
+  - title: "Researchers train AI on ‘synthetic data’ to uncover Syrian war crimes"
+    excerpt: "In 2017, researchers at Syrian human rights group Mnemonic were faced with a huge mountain to climb. They had more than 350,000 hours of video that contained evidence of war crimes, ranging from chemical attacks to the use of banned munitions,"
+    publishedDateTime: 2021-12-09T05:00:00Z
+    webUrl: "https://www.ft.com/content/8399873e-0dda-4c87-ba59-0e2678166fba"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 181
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/12/img-Hero-WithActor.png?w=1024"
-        width: 1023
-        height: 659
-        isCached: true
+      name: The Financial Times
+      domain: ft.com
+    quality: 17
 
 secured: "5gGNNX9RlboUw56By7tIEMjF8d+ZfslJFMoktvGKtJsTdBzq8J1k4YknWL9jXIQy2zipb5ESarkG6ZOMm0pxhM02nh0SJb2S2l7wCaILyUM0ZzVAu1LQZ5gr1hfBfJGihRFVFi/A+9Nx4qz00ruHEqKLT/6hZZZI8kxHFChLTwZkZs1jZdMFdJXQmUwSy4yNQyR5DOck/MVYwh60UAeVmMVnGazKb7enaFueLGMqq2+dUbdPI0D/VeDlBFCz6AqqJjflI7mdY9BFdTmDsv7OsGo2mlYaW/sybyr4mngMMvhVSGmRKvt/ROkTBKbaSyyCSKw0SO9Bpnn/tiB2LzEoMxvO04ZTbYVL86/5th9Qz9MEAXAC1kdgQs0OTP40Y4ab16j7k+l81kK5Az0W1nfgustzOXzam6G1AemVEX8n0/SvvSnjmVfsRJHSkllBxUaNhwY6z4IlSrVeePho6KVbVrPhuGMLMg2llvtPmyY0BTYtMc8mT3Zp1/8ekDfRgPQRPwQeH+L08EXs+TvP+A3tTA==;6c6UDGmqioH/2L0eih0tgw=="
 ---

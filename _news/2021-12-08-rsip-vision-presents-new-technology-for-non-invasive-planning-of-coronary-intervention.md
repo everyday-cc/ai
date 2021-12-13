@@ -1,54 +1,26 @@
 ---
 category: news
 title: "RSIP Vision Presents New Technology for Non-Invasive Planning of Coronary Intervention"
-excerpt: "Dec 8, 2021-- RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, today announces a new coronary artery modelling technology."
-publishedDateTime: 2021-12-08T14:06:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-health-middle-east-israel-9cf930ff76b14167a9236892bedcc7d7"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-health-middle-east-israel-9cf930ff76b14167a9236892bedcc7d7"
+excerpt: "RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, today announces a new coronary artery modelling technology. This technology enables quick and accurate reconstruction of the coronary vasculature during angiography into a 3D model."
+publishedDateTime: 2021-12-08T13:06:00Z
+originalUrl: "https://www.valdostadailytimes.com/news/business/rsip-vision-presents-new-technology-for-non-invasive-planning-of-coronary-intervention/article_ed0db733-928a-52e9-b906-02f0014074cc.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/rsip-vision-presents-new-technology-for-non-invasive-planning-of-coronary-intervention/article_ed0db733-928a-52e9-b906-02f0014074cc.html"
 type: article
-quality: 16
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://static.cnhionline.com/ksherman/images/rtj_ad.gif"
+    width: 300
+    height: 250
     isCached: true
 
-related:
-  - title: "Baxter touts data supporting use of machine learning for infusion pump programming"
-    excerpt: "Baxter announced today that data shows the potential for machine learning supporting decision-making with infusion pump programming."
-    publishedDateTime: 2021-12-08T14:32:00Z
-    webUrl: "https://www.massdevice.com/baxter-touts-data-supporting-use-of-machine-learning-for-infusion-pump-programming/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 35
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2018/10/baxter-large.jpg"
-        width: 770
-        height: 500
-        isCached: true
-  - title: "Baxter Presents Data at ASHP Meeting Indicating Machine Learning May Enhance Infusion Pump Programming Safety"
-    excerpt: "Baxter International Inc. (NYSE:BAX), a leader in innovative technology for medication delivery, announced new data from a retrospective study finding that machine learning, a type of artificial intelligence (AI) that uses algorithms to find patterns in large amounts of data,"
-    publishedDateTime: 2021-12-08T13:30:00Z
-    webUrl: "https://www.financialbuzz.com/baxter-presents-data-at-ashp-meeting-indicating-machine-learning-may-enhance-infusion-pump-programming-safety/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
-
-secured: "fWuXJW5DlOfOE2W4HTvwsd67O3wP7+1FFEhr1TJnApNtrQkNbeZLxObtltO3ybzzGWxv4NMDZ9sJe+QbDNs3luSv6nefu3GMyIdDrOeoHUN4l99mVKH2zKH4BukypjLpvnnsSFslA9GTxShAPnCE7sgtPVFvv78iTGRqEmd0zO8ApcDH8n1frfE+G059arjrO3IkJ2TLZJotmVbLv6/XGQTaU3k8qi1XPN6NzshUu6kZnBMKs4VogZdF3PR1zfK38NZyDMl00xbAP/Iu0voNfXFXHVRvejV3/Vgq+Mt0fpEeEmeM5eZsiM+gJF2r469jTgO+qqW0wM9ppCec3Zc7yg4o+tNQxWHZ2uvdkyuzETE=;BGJHfDq9wmB+eceqkvWQ9A=="
+secured: "Ckl6w92ANvAhlTL5FCJSNgQVZQcUrGG58Gr1UHuN1Vi6P5rd1E43oe/jsIyaKA6dmd2jZHjeQX8c4YfOgvq1KtBGP8GO6yaNY/+xxIDRJwZBYH4Qx3eJPymQfZceHsBYGHHo5Sakiz9NgvniBz2u3p5zmU8z9ojriCSGZYD5fUFEUY7lGj2GyupPdKSVLorx6RqV6Rczitpc5Xg0MHh8T9BJAZQhstlEgfO40OM82XyNknXJ6z2dNOo6GyDbWoqf+4oPJ60c3ZpSHW5zou1VyYbi9oiJz1LchYD/pgBCjiORJ7dI0Vbs2DDKrWyWUkOVB3jrc3156SdfNEW/pS7q+GLcqNVv+DwqW1Oa9+Ik7/A=;oIHOkpP5OaqVttD615Kt6Q=="
 ---
 

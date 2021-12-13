@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Why LiDAR might be the future of self-driving cars"
-    excerpt: "Tesla has put a big bet on computer vision against LiDAR. The recent advances and low prices might help LiDAR challenge the industry leader."
-    publishedDateTime: 2021-12-08T15:55:00Z
-    webUrl: "https://www.themanufacturer.com/articles/why-lidar-might-be-the-future-of-self-driving-cars/?change_country=UK"
+  - title: "Apple Self-Driving Car: Here’s How It Would Shape Up"
+    excerpt: "Apple has been long-rumored to be working on an autonomous electric vehicle, and now 3D concept renders have suggested how the car would look like. Vanarama, a British car-leasing firm, drew inspiration from several Apple products to accurately depict the rumored vehicle."
+    publishedDateTime: 2021-12-13T06:55:00Z
+    webUrl: "https://www.gizbot.com/internet/features/apple-self-driving-car-design-features-renders-revealed-078179.html"
+    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/apple-self-driving-car-design-features-renders-revealed-078179.html"
+    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/apple-self-driving-car-design-features-renders-revealed-078179.html"
     type: article
     provider:
-      name: Manufacturing
-      domain: themanufacturer.com
-    quality: 24
+      name: GIZBOT
+      domain: gizbot.com
+    quality: 44
     images:
-      - url: "https://themanufacturer-cdn-1.s3.eu-west-2.amazonaws.com/wp-content/uploads/2021/12/08154845/Why-LiDAR-Might-Be-the-Future-of-Self-driving-Cars-Final-Approved-2.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://www.gizbot.com/img/2021/12/4-1639378217.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Apple loses key engineers from self-driving car project"
     excerpt: "Apple’s self-driving car project has lost three key engineers in recent weeks, adding to a rash of departures from a tumultuous business with daunting ambitions. Eric Rogers, billed as Apple’s chief engineer for radar systems on the project,"

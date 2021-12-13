@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/qualcomm-
 cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/qualcomm-ai-executive-heads-to-memryx/amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Qualcomm's AI chip chief leaves company to take top job at startup"
-    excerpt: "Kressin told Reuters he left Qualcomm, which is nearly tied with Intel Corp for the tile of second-largest U.S. chip firm by market capitalization, for MemryX, which has only 30 e"
-    publishedDateTime: 2021-12-08T15:29:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/qualcomms-ai-chip-chief-leaves-company-to-take-top-job-at-startup/articleshow/88170760.cms"
-    type: article
-    provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-88170760,imgsize-18838,width-800/88170760.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Ann Arbor AI chip startup hires Qualcomm exec as CEO"
     excerpt: "An Ann Arbor startup founded by two University of Michigan professors aiming to make microchips for artificial intelligence applications has lured a new CEO from among the top executive ranks of chipmaking giant Qualcomm Inc."

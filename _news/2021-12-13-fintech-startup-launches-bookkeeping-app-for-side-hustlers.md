@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Customers' Expectations And The Changing Fintech Landscape"
-    excerpt: "Digital lending is proving to be a viable alternative for reaching individuals who have previously been unable to obtain financial services. Innovative products can overcome geographical barriers, make services more accessible,"
-    publishedDateTime: 2021-12-09T12:56:00Z
-    webUrl: "https://www.linkedin.com/pulse/customers-expectations-changing-fintech-landscape-danijella-dragas"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQF2ox9U5UEbPg/article-cover_image-shrink_600_2000/0/1638885389417?e=1644451200&v=beta&t=FkrJKXuaSd8q_t-c1sd4JsgG1RnJn0qdZ0tmqB56kic"
-        width: 675
-        height: 380
-        isCached: true
   - title: "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding ..."
     excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts BOSTON, M In less than six months, the Mass Fintech Hub,"
     publishedDateTime: 2021-12-09T13:01:00Z
@@ -53,6 +39,31 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "UAE - Young Arabs swipe to fintech as saving, investing takes off"
+    excerpt: "Being raised in the Middle East with a lack of savings and investment culture, many young Arabs are turning to online banking services to help track their spending and budget. When Mayar Akrameh was growing up in Lebanon,"
+    publishedDateTime: 2021-12-12T09:40:00Z
+    webUrl: "https://menafn.com/1103345231/UAE-Young-Arabs-swipe-to-fintech-as-saving-investing-takes-off"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/12/KT_b816cimage_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Mass Fintech Hub Doubles Membership to Support Growing Fintech Ecosystem in the Commonwealth"
+    excerpt: "In less than six months, the Mass Fintech Hub, a public-private partnership dedicated to making the Commonwealth a key player in Fintech, has more than doubled its membership and received 'hundreds of requests to join its growing programming geared towards developing fintechs."
+    publishedDateTime: 2021-12-10T14:49:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/12/184052-mass-fintech-hub-doubles-membership-to-support-growing-fintech-ecosystem-in-the-commonwealth/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 13
   - title: "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding Fintech Ecosystem in the Commonwealth"
     excerpt: "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts. BOSTON, MA / ACCESSWIRE"
     publishedDateTime: 2021-12-09T14:01:00Z
@@ -68,6 +79,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Ij5eOcHh33ZjmQnFiPLkyriU7ghHaf0FZXWN0u3fffr2qyi1xL2rMXTLHFD/Oq5S1rnKx26R4qyGE7Erd3bUpwm01E7a/Ee8mbot3s/vr3U7o/Px9iA9D4Bk1UgejN6BTyOZNyaGtc0+LXRrGNwfHjuji+qbG08ek+EVgK/6Vr34MWNKAOQMZZnsFD9m7hWxGieOx6XCo7j/LOjMsKsz/bw1lJ1nZNkNqW3TJjpG0mMXxMJMzLqp8YsEkwrJXPtWdgMt2iIIyyl4vPOptT/X4gdF7h3140G3tOWrcdK3u9nsia8fpagOZrwx7vRQgeVT4f6HDaYx1WstKzVCbajtSNcduhIwysB/dWNbpoyVcHI=;/H7t6LJV9wJsnpoW3gZ2Zw=="
+secured: "wpDknZNncaLQaAuvyuCVe7XRuiuEkkxQiJT5sFQraKAa5Zk3H0VZF5Uun1NEorS4ZllQ7Y9zIincWoS7g1puJUfmVQCkrga+Ok81sq4hedVOA++1zNN6aWQvofovnulcPr1XSkhWBDNeWGrlJZuvSJo62PPEl1tXkETyvRJOXKG0CWzqGE+ubTK917QDadAW3yEDh/cEl+NVNcaHreI42Hr9qtMra7VkDpPeFz2t+bNG+drn5gtNAjOcwkOJjRzUl88G/SmMBiAjKpEgCYoHrlOv8q5Gw1ohOqJ3LJmNQPorxWFWqhu7e/3bX3KM+lWt/VLQH22UIzj/G0xBS+zKYtDn5NebKXdXHQMyW8ljaDIQn1wKjSoht354jOZj5fJ4ezkyzqeHLwAU4mO8FG7oo70nAl+shH6lRimQl/QWA1+FZziRfnbFJsGqQMWyo1DVeqbBxjkykj56foQYT7Blpgtzm2LadYfGWL6H977UoT3vN0JX+r6rU4aQenQmw/PNvi3P1CNBdl5CCGZ5NY36HQ==;3R7OfrIDPxkEeOlsZ7bTWA=="
 ---
 
