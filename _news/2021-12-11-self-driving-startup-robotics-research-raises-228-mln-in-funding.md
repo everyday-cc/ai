@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2SS196"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2SS196"
 type: article
 quality: 99
-heat: 139
+heat: 119
 published: true
 
 provider:
@@ -25,15 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-Driving Startup Robotics Research Raises $228 Million in Funding"
-    excerpt: "Self-Driving Startup Robotics Research Raises $228 Million in Funding ... but that had now changed and the company's RR.AI commercial unit was now capitalising on it. \"That's one of the reasons we have sought investment now is because the prices of the ..."
-    publishedDateTime: 2021-12-09T06:36:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-12-09/self-driving-startup-robotics-research-raises-228-million-in-funding"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 79
   - title: "Self-driving startup Robotics Research raises US$228 million in funding"
     excerpt: "Self-driving technology startup Robotic Research said on Thursday it has raised US$228 million from investors including SoftBank to scale up its commercial division's solutions for trucks, buses and logistics vehicles."
     publishedDateTime: 2021-12-09T18:14:00Z
@@ -61,20 +52,6 @@ related:
       - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2017/12/softbank.jpg"
         width: 978
         height: 547
-        isCached: true
-  - title: "Self-driving tech company Robotic Research lands $228M in first outside funding; Luminar among investors"
-    excerpt: "Self-driving tech company Robotic Research Inc. said Thursday it has raised $228 million in its first round of outside funding in the company's nearly two-decade history. The money comes from not just the regular crowd of venture capitalists."
-    publishedDateTime: 2021-12-09T06:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-tech-company-robotic-research-lands-228m-first-outside-funding-luminar"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 7
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/LUMINAR-MAIN_i.png"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "B2JC4NNN+FXKzItjhtxcn3HWOz2DHpEKYPm+tEU1qbehh7BorNwDdvJD508HbdWPgfxhw5zPtcA4fMldSfW/hUBAI93bPpkCdDXCAnzZn7HUnVnqx7M7dC1CZp66XDYgR2vd2Ip6FFqebnTsl8bjzl6pDCuf2iOK+9oe2J9OQvTz8kZ/zCZNMWsO6IrbfkMmyD4BAVmCpqplxBYg5xQGXa4DcKFiAa3bJltJSHEW0bZW5tDhUZNdFWmPrcoBqbrVRaA5SZiVePrZ2ev7rgwKC4Pn1LI7OUfrAXc/MoMqduUUF91WE870L0flSBOGzwyGRI1k2KryoAbqH6y5LU0JS+Lew+pR+kJjrn7o4WeYdvM=;QnR/YCV8eJPTn7ysdPeFPA=="

@@ -39,6 +39,20 @@ related:
         width: 3840
         height: 2160
         isCached: true
+  - title: "Moderna partners with Carnegie Mellon to teach employees about AI"
+    excerpt: "The biotech firm Moderna and Carnegie Mellon University created an artificial intelligence education program so employees can use AI in their work, CMU executive education program director Nicholas Hamilton-Archer told EdScoop."
+    publishedDateTime: 2021-12-13T22:38:00Z
+    webUrl: "https://edscoop.com/moderna-partners-carnegie-mellon-ai/"
+    type: article
+    provider:
+      name: edscoop.com
+      domain: edscoop.com
+    quality: 37
+    images:
+      - url: "https://edscoop.com/wp-content/uploads/sites/4/2021/12/GettyImages-1286811002.jpg"
+        width: 2308
+        height: 1298
+        isCached: true
 
 secured: "ZbxIaclMAjMN59LAPZroEWEIZYp3520mzzL7l4flSUs1u1Uj6JghsgJcc3gZLqKDe+c5E0WEKT7ZmDsOm7P+1n/RRXHEz79x9MeZgTcseFDco2JWIpizqJthSBIj6IBW9Qfllt4A2abdF2SyrHdJqH4kP2cgeHVTUwDyXNfzpwesZTMRAH98P0duWlXQ4gp4snNrHa4ebV2Cn8XZrgMwutPoHMRe7hFU6AF6dgRkVW7ayJP+AYGL3okPyf3m59qnMpM78TZ0ijwmtfKjnzk+NFETcebQG/k+uDMGLFuh2c/LKR9ROSCaif/uJD4RHHezSuT+XWjRWU/CMcElq1GnYXV8ND13aMWJRUZ+qLWYP04=;Y+k+JxTuHi44h3hq8sTc1g=="
 ---

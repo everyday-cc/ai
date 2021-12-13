@@ -24,6 +24,22 @@ images:
     height: 1500
     isCached: true
 
+related:
+  - title: "Idemia partners to bring 3D face biometrics to Japanese physical access control market"
+    excerpt: "Idemia has partnered with Shoden and Genetec to provide integrated 3D facial recognition access control systems in Japan."
+    publishedDateTime: 2021-12-13T22:44:00Z
+    webUrl: "https://www.biometricupdate.com/202112/idemia-partners-to-bring-3d-face-biometrics-to-japanese-physical-access-control-market"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
+
 secured: "/3GwpVELC3YfEwqeysVnZTBF1jfTNCF4E6p8MTlkK1Yq/NRt7z52gQUHTqOwIMmsNS1mcWuqdcGSi8EV8Y0X6le0HqMFDXqjWLZWiGA7ORfdrMwY+i5/3+U5ueCwmCDzzXDuXGlHvsN1rpb5kVZDh5j7hvOddKNvmU6aOpuKRrhEAaLBC54QqQf5HylwUpMvsQAjEbxJm0UAvP/K4RLaMVms371sDgasAJQdCZ2AUNeggs+1Bm4Ywo93BPAl/CUFVXdV1+ACHJ8Lp8XOlIi4Ane4XfyZTVaxZNgz2+Of8r3i77t6eerWieTVOtN3zJXGbtYUjKs0T0w+UsoaHee/dBHS6ltjhXmr7+wO5LQQD6iX8zxSwOG5OwP2z87KCROwNVvv3mG9pbXEKXc8FzVFs5nthiZS5b4KP+p//TzN0VlqmK5mMC9RJwF4oGZbcRc4sLTkuF9eYBS9xSnl9YImEokJY3KDSiC4XWSLI2JDScpWv0PlBGGAAf16YvhEnah+HohLFy05PXHWiJNUpCwHdg==;q7qqvpHjAcw4F6qsjlYt+Q=="
 ---
 

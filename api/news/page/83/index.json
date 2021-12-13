@@ -2,6 +2,92 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2021-10-11-an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud.md",
+      "title": "An artificial intelligence ecosystem isn't necessarily all cloud",
+      "excerpt": "A call for greater enterprise architecture in building AI ecosystems, leveraging both cloud and on-premises systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud/",
+      "originalUrl": "https://www.zdnet.com/article/an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/bb4ba6c2233102b81d58df1794507788cee886fa/2021/10/11/3ff2cb35-671b-4587-b278-d39ea185ec1c/path-station-people-train-station-path-october-2016-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/an-artificial-intelligence-ecosystem-isnt-necessarily-all-cloud/",
+      "publishedDateTime": "2021-10-11T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-11-kiromic-biopharma-announces-strategic-collaboration-with-gemelli-teaching-hospital-to-accelerate-the-analysis-of-allogeneic-car-t-clinical-trial.md",
+      "title": "Kiromic BioPharma Announces Strategic Collaboration with Gemelli Teaching Hospital to Accelerate the Analysis of Allogeneic CAR-T Clinical Trial Candidate Alexis ISO-1 in Solid ...",
+      "excerpt": "Alexis ISO-1 is Company’s First Artificial Intelligence-identified, Gamma Delta T Cell Engineered Iso-Mesothelin Candidate to Address Solid Tumor Cancers HOUSTON-- ( BUSINESS WIRE )--Kiromic BioPharma,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211011005172/en/Kiromic-BioPharma-Announces-Strategic-Collaboration-with-Gemelli-Teaching-Hospital-to-Accelerate-the-Analysis-of-Allogeneic-CAR-T-Clinical-Trial-Candidate-Alexis-ISO-1-in-Solid-Cancers",
+      "originalUrl": "https://www.businesswire.com/news/home/20211011005172/en/Kiromic-BioPharma-Announces-Strategic-Collaboration-with-Gemelli-Teaching-Hospital-to-Accelerate-the-Analysis-of-Allogeneic-CAR-T-Clinical-Trial-Candidate-Alexis-ISO-1-in-Solid-Cancers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-microsoft-taps-ai-techniques-to-bring-translator-to-100-languages.md",
       "title": "Microsoft taps AI techniques to bring Translator to 100 languages",
       "excerpt": "Microsoft says it's using AI techniques to improve the quality of language translations across its services, including Translator.",
@@ -1107,94 +1193,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-ai-doesnt-explain-itself-machine-learning-has-a-deus-ex-machina-problem.md",
-      "title": "AI doesn't explain itself - machine learning has a \"Deus ex Machina\" problem",
-      "excerpt": "Too often, AI vendors tell us - \"Machine learning handles that.\" So what exactly does that mean? Vendors are making what I call Deux es Machina claims about AI - now it's time to back those claims up.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem",
-      "originalUrl": "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-12/ai-chess.jpg",
-          "width": 1279,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-doesnt-explain-itself-machine-learning-has-deus-ex-machina-problem?amp",
-      "publishedDateTime": "2021-10-11T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-10-11-three-months-of-smp-robotics-patrolling-in-dubai.md",
-      "title": "Three months of SMP robotics patrolling in Dubai",
-      "excerpt": "Picard security robots have been patrolling in various territories in Dubai UAE. High temperatures of the summer months did not interfere with the reliable operation of",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/months-smp-robotics-patrolling-dubai-co-14203-ga.1630477158.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/months-smp-robotics-patrolling-dubai-co-14203-ga.1630477158.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sourcesecurity.com/img/news/920/backdated-to-september-16-2019-three-months-of-smp-robotics-patrolling-in-dubai-920x533.jpg",
-          "width": 920,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/months-smp-robotics-patrolling-dubai-co-14203-ga.1630477158.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/months-smp-robotics-patrolling-dubai-co-14203-ga.1630477158.html",
-      "publishedDateTime": "2021-10-11T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

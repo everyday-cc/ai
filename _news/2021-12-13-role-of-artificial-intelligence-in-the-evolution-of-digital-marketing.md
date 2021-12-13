@@ -55,22 +55,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 63
-  - title: "Common but Different Futures: AI Inequity and Global Emissions"
-    excerpt: "Some researchers and policymakers suggest that Artificial Intelligence or AI will provide the most game-changing solutions to climate change."
-    publishedDateTime: 2021-12-09T06:57:00Z
-    webUrl: "https://www.orfonline.org/research/common-but-different-futures/"
-    ampWebUrl: "https://www.orfonline.org/research/common-but-different-futures/"
-    cdnAmpWebUrl: "https://www-orfonline-org.cdn.ampproject.org/c/s/www.orfonline.org/research/common-but-different-futures/"
-    type: article
-    provider:
-      name: Observer Research Foundation
-      domain: orfonline.org
-    quality: 59
-    images:
-      - url: "https://www.orfonline.org/wp-content/uploads/2021/12/Pic-002.jpg"
-        width: 347
-        height: 439
-        isCached: true
   - title: "AI to Boost Cancer Drug Combination Studies and Treatments of the Future"
     excerpt: "Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI) framework to"
     publishedDateTime: 2021-12-10T15:49:00Z

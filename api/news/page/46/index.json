@@ -2,6 +2,101 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-11-08-metas-face-recognition-ai-may-yet-metastasize.md",
+      "title": "Meta’s face recognition AI may yet metastasize",
+      "excerpt": "Facebook said it would drop this tool and delete a billion-plus face templates, but it looks integral to its parent company’s metaverse ambitions. This makes privacy regulation a must",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html",
+      "originalUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize-11636303105217.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/11/07/600x338/edit_1636303267610_1636303286718.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/metas-face-recognition-ai-may-yet-metastasize/amp-11636303105217.html",
+      "publishedDateTime": "2021-11-07T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-08-colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars.md",
+      "title": "Colorado Bear Busts In And Finally Sort Of Busts Out Of A Car, Providing Bearish Lessons For AI Self-Driving Cars",
+      "excerpt": "Bears are smart enough to try and find food inside of cars, which brings up considerations for AI ... [+] self-driving cars. Get ready for a bit of a surprise. Imagine that you’ve driven up to the mountains to enjoy some fresh air and are relishing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F613e7aa68eb80aa61d6a1636%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3403%26cropY1%3D24%26cropY2%3D2555",
+          "width": 1200,
+          "height": 893,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/11/07/colorado-bear-busts-in-and-finally-sort-of-busts-out-of-a-car-providing-bearish-lessons-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2021-11-07T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-07-alphabet-chases-wonder-drugs-with-deepmind-ai-spinoff-isomorphic-labs.md",
       "title": "Alphabet Chases Wonder Drugs With DeepMind AI Spinoff Isomorphic Labs",
       "excerpt": "After DeepMind's breakthrough in protein folding last year, Alphabet will double down on artificial intelligence in biology and health with its new venture.",
@@ -1051,92 +1146,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-google-nest-cam-indoor-wired-review-the-best-nest-yet.md",
-      "title": "Google Nest Cam (indoor, wired) review: The best Nest yet",
-      "excerpt": "It's also the smartest. With on-device machine learning for specific object recognition, sound recognition and some free video history, there's a lot to like. The price is high and other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/security/google-nest-cam-wired-indoor-review-the-best-nest-yet/",
-      "originalUrl": "https://www.cnet.com/home/security/google-nest-cam-wired-indoor-review-the-best-nest-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/vI1aDyJSJSO-9QeNjcyWcCmoJr0=/1200x630/2021/10/06/5083f7e3-e1fd-49f8-a75b-8e026597c9b8/20211006-130938.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-nest-cam-wired-indoor-review-the-best-nest-yet/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-nest-cam-wired-indoor-review-the-best-nest-yet/",
-      "publishedDateTime": "2021-11-05T18:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-06-castle-biosciences-publishes-decisiondx-melanoma-study-on-the-validation-of-the-i31-gep-slnb-artificial-intelligence-algorithm.md",
-      "title": "Castle Biosciences Publishes DecisionDx®-Melanoma Study on the Validation of the i31-GEP SLNB Artificial Intelligence Algorithm",
-      "excerpt": "Castle announced the publication of a study validating performance of the i31-SLNB algorithm to determine sentinel lymph node biopsy positivity risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm",
-      "originalUrl": "https://www.businesswire.com/news/home/20211105005811/en/Castle-Biosciences-Publishes-DecisionDx®-Melanoma-Study-on-the-Validation-of-the-i31-GEP-SLNB-Artificial-Intelligence-Algorithm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-05T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,92 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2021-09-27-absa-launches-facial-recognition-tech-in-south-africa.md",
+      "title": "Absa Launches Facial Recognition Tech in South Africa",
+      "excerpt": "Absa, one of South Africa’s largest banks and a pan-African lender, has officially launched facial recognition technology in its Android and iOS apps, which some users will need to utilize to authenticate certain transactions through facial scans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/",
+      "originalUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itnewsafrica.com/wp-content/uploads/2021/09/Absa-Facial-Recognition-Tech.jpeg",
+          "width": 800,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/?amp",
+      "cdnAmpWebUrl": "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/09/absa-launches-facial-recognition-tech-in-south-africa/?amp",
+      "publishedDateTime": "2021-09-27T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News Africa",
+        "domain": "itnewsafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-27-language-io-launches-ai-powered-machine-translations.md",
+      "title": "Language I/O Launches AI-Powered Machine Translations",
+      "excerpt": "Concept: Wyoming’s startup Language I/O has developed AI-powered software for real-time, company-specific language translations. It claims to provide text-to-text translation in over 100 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/research-reports/language-i-o-launches-ai-powered-machine-translations/",
+      "originalUrl": "https://www.just-auto.com/research-reports/language-i-o-launches-ai-powered-machine-translations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/37/2021/09/shutterstock_757643182.jpg",
+          "width": 500,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-thailands-first-virtual-influencer-is-a-21-year-old-woman-powered-by-ai.md",
       "title": "Thailand's first 'virtual influencer' is a 21-year-old woman powered by AI",
       "excerpt": "Thai branding agency SIA Bangkok has unveiled what they're calling \"the first metaverse human in Thailand\", and you can't deny just how life-like this 'influencer' looks: Claiming to be the \"first virtual influencer agency in Thailand\",",
@@ -1067,102 +1153,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-exclusive-ice-just-paid-39-million-for-rapid-ai-powered-facial-recognition-at-migrant-detention-facilities.md",
-      "title": "Exclusive: ICE just paid $3.9 million for 'rapid' AI-powered facial recognition at migrant detention facilities",
-      "excerpt": "ICE has a new contract with a company called Trust Stamp that says it offers facial matching through 3D renderings of people's heads and faces.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
-      "originalUrl": "https://www.businessinsider.com/ice-gets-rapid-ai-facial-recognition-at-migrant-detention-facilities-2021-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images2.markets.businessinsider.com/6010d4561d2df20018b710ac?format=jpeg",
-          "width": 701,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-09-25-gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china.md",
-      "title": "GM Invests $300 Million in Momenta to Deliver Next-Generation Self-Driving Technologies in China",
-      "excerpt": "General Motors will invest $300 million in Momenta to accelerate the development of next-generation self-driving technologies for future GM vehicles in China. “Customers in China are embracing electrification and advanced self-driving technology faster than anywhere else in the world,",
-      "sourceUrl": null,
-      "webUrl": "https://electriccarsreport.com/2021/09/gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china/",
-      "originalUrl": "https://electriccarsreport.com/2021/09/gm-invests-300-million-in-momenta-to-deliver-next-generation-self-driving-technologies-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electriccarsreport.com/wp-content/uploads/2021/09/GM-Momenta.jpg?7a2bad&7a2bad",
-          "width": 640,
-          "height": 321,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-24T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "electriccarsreport.com",
-        "domain": "electriccarsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

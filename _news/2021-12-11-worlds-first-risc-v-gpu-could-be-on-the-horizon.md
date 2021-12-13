@@ -27,10 +27,10 @@ images:
 related:
   - title: "The world's first RISC-V GPU could be on the horizon"
     excerpt: "By creating GPUs specifically for RISC-V, it will be easier to conduct AI and machine learning work using chips featuring the architecture. However, by focusing on shaders, a GPU extension for ..."
-    publishedDateTime: 2021-12-11T01:52:00Z
-    webUrl: "https://www.techradar.com/sg/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon"
-    ampWebUrl: "https://www.techradar.com/sg/amp/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon"
+    publishedDateTime: 2021-12-11T01:47:00Z
+    webUrl: "https://www.techradar.com/uk/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon"
+    ampWebUrl: "https://www.techradar.com/uk/amp/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon"
     type: article
     provider:
       name: TechRadar

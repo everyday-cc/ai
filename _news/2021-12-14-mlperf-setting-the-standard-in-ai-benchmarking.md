@@ -6,8 +6,8 @@ publishedDateTime: 2021-12-13T19:42:00Z
 originalUrl: "https://www.linkedin.com/pulse/mlperf-setting-standard-ai-benchmarking-ronald-van-loon"
 webUrl: "https://www.linkedin.com/pulse/mlperf-setting-standard-ai-benchmarking-ronald-van-loon"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQH1QGiB9wFKyg/article-cover_image-shrink_600_2000/0/1639409459731?e=1645056000&v=beta&t=qWIGe55cQAVcT0_QRuzHAeVeoMYIjr6ONBp8nbeHTSk"
@@ -28,6 +29,6 @@ images:
     height: 400
     isCached: true
 
-secured: "tiiJrbVKw7R9peMK6BGrGYP4qoP0JGbeKdF+q2vo4GNFsyY+MwU1WCNZn3TKxTmjaEY8SnBhe2omsuv+u4KsTM0YDFuiPdI4vss7TZs2Mg5HbfKE0jm6Sm7pfqLEZNB1welKTUx3GU+t8Fle0Cdha4Gv5IVIJ55iQOpGRZozopNpIVlwwTpCRH882wg3rHy1aGzFcPhLopgOijOvNJXsaeKOya4H7lDg5BlgDpST1Zm2XY2dfzmag34ZP+mGeqPC19qSMP/cGAR1B0tHLVQzUgZoKTqkbCnohA+Ain52T3kjScTvXQGn+GaT85w+cBsvWR65/wyanJnJT8fvxV6eotYaYdl0LskpAhjRp9n6pt8=;YdT2XhYGlQJ81fcDQytZZA=="
+secured: "PdxElHXMxzRpkyG3CkJCQeRV0wP+fEo1bx2yQfGEEuAay8Ick7EdWpkKI+uZWvltKo7jfL8e4Ubu+xSgAOMWVGD904QZ46Hl9rTkye0eIeYdM48ln7IWwYzySpCxNJb8Xed1q1Vu41m6kmRO3Yz2jTg30l4NC/Et4kDasFYWfhnQYZRktDuCINe11j5127n7/voflfJR64ysbtaOzQMbpaors891ptDABEjuN2NtZcXRcVOuOro8X9kiR1CdsNuG8+JrFNXuDZY9C1VCPr2U5ntil3RRIy0+QLFvSPZ7zkTwyfDrfQY8rFB7A0rH4xbM+jeqeofBJTobKYc+xelCrmqwvdNpFK5lhuxuyUEWnqm2apAKeAlcQEC7EDUbBdFmGS3vHbzXiLG3kmYpVsNkI27d7obRNBYMwTurGmUjRy8RHKQWy7WeARKRMZYj8gzYw8WNpALEJfhMDqO/IaTrG9tCPtj0sqjpWqiwapmCZ+RvYvu7YCD8vnNFmZpfwGVA/zBr5SEjnXvg3/NQ9fi28w==;fZDHG9tWSFPXGUyR3hcq1A=="
 ---
 

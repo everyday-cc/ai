@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-fin
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/will-ai-and-ml-revolutionize-the-financial-services-industry?amp"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/aifleet-main-1200.jpg?itok=5u4LzHSE"
         width: 470
         height: 246
-        isCached: true
-  - title: "AI Curator for the Music Industry: Hit Potential Algorithm Helps to Discover Next Smash"
-    excerpt: "Musiio, an artificial intelligence brand for the music industry, has a revolutionary Hit Potential Algorithm that analyzes music at scale and awards scores between 0 to 100. The algorithm score depends on the likelihood of commercial success."
-    publishedDateTime: 2021-12-09T06:03:00Z
-    webUrl: "https://www.alphansotech.com/ai-curator-for-the-music-industry-hit-potential-algorithm-helps-to-discover-next-smash"
-    type: article
-    provider:
-      name: alphansotech.com
-      domain: alphansotech.com
-    quality: 29
-    images:
-      - url: "https://www.alphansotech.com/wp-content/uploads/2021/11/AI-Curator-for-the-Music-Industry-Hit-Potential-Algorithm-Helps-to-Discover-Next-Smash-1024x576.png"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "LlGFna6ySw8rMCziHmoSxgUbe1fLkqT4S0l3XUQmQ1tdhnWzoUPK9fMlRSehHb0J+5M3PC/qZ3fbWRYIIXOzFsu6cumFVA9NH+rFGzwjZ6tdYAbWdg3wZhqj7X2/dBoxOrMTHp9lnD5Kkohu6f/zwfn6nBXwW4gZAmg3ArwKMbBiwGNLWHnqXuk3YKGl/u3sHWqhSqpcE6U1FbAZwqAr+Os411Ucu8FDianjBPM9ottv6cYnvJrT2KSeK4jz4YPYsnRUmOMQSpGKQSpuXaVS7jztIdc0gIKFV/UCYAym2D0Iw/nF/b7/qiVwBRjQozs2tZWmaLjkdNcQFcZNra5yGQS5mF/xPL8YLpWpvTbo7Vw=;pzTUq7lduakr6wY9e0NMKw=="

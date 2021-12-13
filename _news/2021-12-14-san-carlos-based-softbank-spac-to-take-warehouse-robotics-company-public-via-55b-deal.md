@@ -35,6 +35,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Walmart-backed warehouse robot vendor Symbotic to go public"
+    excerpt: "Move will raise $725 million for firm through SPAC merger, help it build more autonomous, AI-powered “Symbots.”"
+    publishedDateTime: 2021-12-13T21:58:00Z
+    webUrl: "https://www.dcvelocity.com/articles/53238-walmart-backed-warehouse-robot-vendor-symbotic-to-go-public"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 39
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2021/12/13/60c82084e524e64734fd4156_Bot-Isometric.png?height=635&t=1639432820&width=1200"
+        width: 600
+        height: 473
+        isCached: true
   - title: "Warehouse robotics company set to become public via $5.5B reverse merger"
     excerpt: "The latest tech company to migrate to the public markets through a deal with a special purpose acquisition company, or SPAC, is Wilmington-based Symbotic LLC. The 14-year-old warehouse robotics specialist and Walmart Inc."
     publishedDateTime: 2021-12-13T16:34:00Z

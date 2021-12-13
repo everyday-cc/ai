@@ -30,21 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "The power of AI can be unleashed with a focus on ethics"
-    excerpt: "An EY survey reveals the public’s concerns around the growing use of artificial intelligence – but also the opportunities for organisations that take the right ethical approach."
-    publishedDateTime: 2021-12-09T06:00:00Z
-    webUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics"
-    ampWebUrl: "https://www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/The-power-of-AI-can-be-unleashed-with-a-focus-on-ethics?amp=1"
+  - title: "The Evolution of AI: How Enterprises Grow to AI 2.0"
+    excerpt: "With deep support from the C-suite and the right mix of skillsets and strategies, enterprises can move to the next stage of AI development."
+    publishedDateTime: 2021-12-13T19:38:00Z
+    webUrl: "https://www.eweek.com/big-data-and-analytics/growth-of-artificial-intelligence/"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 74
+      name: eWeek
+      domain: eweek.com
+    quality: 67
     images:
-      - url: "https://www.computerweekly.com/visuals/German/article/ethics-morals-3-adobe.jpg"
-        width: 1200
-        height: 400
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/coding-data-tunnel.jpeg"
+        width: 1920
+        height: 1152
         isCached: true
 
 secured: "hve+60IAt7CJegPcD1Z0ir9UfYPTMGu0FprL5tj8S9DC9QpT/H10p5yIKh0gKRaRT47qgjc6ZFLri2sMDWSaNrgmVZT/S17D6FRetKmnaHVkfcEf51NE0gcoC0yFxMCNTlgabbOfzp6HJfiOkuVX0mfRyiDu1Cqq35EU4yUWolVHBJiGx7ffWMfa2sw2O72/zD+CFhnvPhQ9HiTMpqXWkmF1KVRYlH4MS4qxx1TsXnM0PooN6TdNF/L66pgjASe5G6TClmpFYdIG90QOKJA1/AW15spGsCu5HNI2PimnXeDQRIm2dD4nXj1VLlsjeiCu9JXsu5DpWHqN0Dd9DL9kVwD2w07TZE1cDzXLDTc6LBo=;eEk9d+ee01ni5yoL6Oq0/g=="

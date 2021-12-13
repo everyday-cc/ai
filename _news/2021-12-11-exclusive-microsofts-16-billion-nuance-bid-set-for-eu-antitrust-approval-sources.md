@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/exclusive-microsofts-16-billi
 webUrl: "https://www.reuters.com/business/exclusive-eu-regulators-set-okay-16-bln-microsoft-nuance-deal-sources-say-2021-12-10/"
 type: article
 quality: 163
-heat: 233
+heat: 223
 published: true
 
 provider:
@@ -30,11 +30,11 @@ images:
 
 related:
   - title: "Microsoft Azure Orbital opens up space to everyone"
-    excerpt: "“Built on Azure by Microsoft Research, SpaceEye is an AI-based system that generates daily cloud-free optical and multispectral imagery for the planet.” This technology is also enhancing Bing ..."
-    publishedDateTime: 2021-12-10T10:30:00Z
-    webUrl: "https://www.techradar.com/uk/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    excerpt: "In a new blog post, Microsoft detailed new partnerships and new features that it hopes will result in better satellite imagery, better connectivity, and more data/insights. Azure Orbital is a fully managed cloud-based ground station-as-a-service that lets users communicate with their spacecraft or satellite constellations,"
+    publishedDateTime: 2021-12-10T10:16:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-orbital-opens-up-space-to-everyone"
     type: article
     provider:
       name: TechRadar
@@ -44,20 +44,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/ZH7WojY7sx4CoX3riUocJ7-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft-owned Nuance could limit growth of newer AI voice entrants in healthcare"
-    excerpt: "AI voice-based clinical assistant startup Suki bagged $55 million in Series C funding, boosting its valuation to $400 million. The company will use the fresh capital to expand its health system partnerships and advance AI capabilities of its platform,"
-    publishedDateTime: 2021-12-09T05:56:00Z
-    webUrl: "https://www.emarketer.com/content/microsoft-owned-nuance-could-limit-growth-of-newer-ai-voice-entrants-healthcare"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 65
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/ba44032230f6072cc1de0f4b015701c1/default-image-share.png?im=FitAndFill,width=1200,height=630"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft expands Azure Space ecosystem"
     excerpt: "Microsoft offered further proof of its intent to play a growing role in the space sector by unveiling new Azure Space products and announcing partnerships with Airbus, Kongsberg Satellite Services, STE iDirect,"

@@ -45,6 +45,57 @@
       ]
     },
     {
+      "path": "_news/2021-12-14-the-evolution-of-ai-how-enterprises-grow-to-ai-20.md",
+      "title": "The Evolution of AI: How Enterprises Grow to AI 2.0",
+      "excerpt": "With deep support from the C-suite and the right mix of skillsets and strategies, enterprises can move to the next stage of AI development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/growth-of-artificial-intelligence/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/growth-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/coding-data-tunnel.jpeg",
+          "width": 1920,
+          "height": 1152,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T11:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides.md",
       "title": "Can an Artificial Intelligence Be Ethical? Researchers Asked AI, and It Sees Both Sides",
       "excerpt": "A team of researchers asked an artificial intelligence program whether or not it can be ethical! And it turns out AI ethics might depend on us.",
@@ -442,7 +493,7 @@
       "originalUrl": "https://www.ft.com/content/e1da7cbc-5c12-4d82-bfc8-de3d80e4475a",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1155,39 +1206,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-12-tega-industries-to-debut-on-december-13-what-could-be-listing-premium.md",
-      "title": "Tega Industries to debut on December 13. What could be listing premium?",
-      "excerpt": "Tega Industries shares were available at a price of Rs 753 per share in the grey market, a massive 66.2 percent or Rs 300 premium over issue price of Rs 453 per share, as per the IPO Watch and IPO Central.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/8ee73509-e364-494e-b4c8-ff9a4f675078",
-      "originalUrl": "https://www.moneycontrol.com/news/business/ipo/tega-industries-to-debut-on-december-13-what-could-be-listing-premium-7816661.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-12T01:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

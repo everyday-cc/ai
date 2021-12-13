@@ -1,33 +1,31 @@
 ---
 category: news
 title: "Machine learning speeds up vehicle routing"
-excerpt: "MIT researchers use a machine-learning-augmented method to speed up the solutions to vehicle routing problems for large sets of cities."
-publishedDateTime: 2021-12-10T21:45:00Z
-originalUrl: "https://news.mit.edu/2021/machine-learning-speeds-vehicle-routing-1210"
-webUrl: "https://news.mit.edu/2021/machine-learning-speeds-vehicle-routing-1210"
+excerpt: "Waiting for a holiday package to be delivered? There's a tricky math problem that needs to be solved before the delivery truck pulls up to your door, and MIT researchers have a strategy that could speed up the solution."
+publishedDateTime: 2021-12-11T07:29:00Z
+originalUrl: "https://techxplore.com/news/2021-12-machine-vehicle-routing.html"
+webUrl: "https://techxplore.com/news/2021-12-machine-vehicle-routing.html"
+ampWebUrl: "https://techxplore.com/news/2021-12-machine-vehicle-routing.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-machine-vehicle-routing.amp"
 type: article
-quality: 69
-heat: 69
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Massachusetts Institute of Technology
-  domain: mit.edu
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg"
-      width: 50
-      height: 50
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://news.mit.edu/sites/default/files/images/202112/vehicle-routing.png"
-    width: 2000
-    height: 1333
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/navigation.jpg"
+    width: 2880
+    height: 1920
     isCached: true
 
-secured: "gi83k64P51NuEb7/+t2QlXXf0H17wN9HtT8ZtMtZN3YHdxZqle1GCmA/YeQ9lqhErHXt6xGp1NWODfN87UyUFZ072IbXLHOTCZVwI2LhD0+dm96xzCLtyTR8qimdEMlko8TuuuWXIjQXRpiZ9avWwdFcXFEz8XELgIvX+GxecGJ5JKUBGmq96bn00i/drVrWvyIxh2AA6eENvqMwDsaGP6jmYbltT2hSonGYr2zFGY4Lym0ZIc4Y63OOsRTk2W8qxJVih0PIIjdl6uIFhvwSTne6ydGXu+lt78066IfHm2DBAiXY3FzwpDeSpP5XLVLhoeXwX4sf72qm/dDXmdfiTAth5+CCamt1klrozUITywkEOR6rBI6zL2xDleqJFkw1fdOXTUOxYMiQziafS0cGcW91vieZPLtwNoNTmbfTMrAEjNP/91sHqrIxeS5BP5LT5hKQpCRoJDloS1hLKf4SE+SRp2h85ifsvuGVUyiQ3In1Uwbgc1C0+8d5Y0t18GTVJ5DPyXfW+GrNi1HgpbhqmQ==;v+N/nnyIoTpxUrpn4z5G9g=="
+secured: "Atn+fXbGfq3teiVQ9ZjWi12ZtZusBhddOIr9pl0DC8ROcTmFzsjhJac2Sx44NUQihczJCQCTrbfZGx/BfEwG2XeevISQls2j0O1lyNt+WIn9eoRtHGAsuG3H2R6E/7pRi4nrd5tJudPhhxut3GjQ5RjhVP2jHAbY0gZVAgQ0v+4ntOpfy+noKgpgj6nly4ZmM0ZFjyEU5yBLgjHvkgmLrZ4vQykHDJn2AyqNITIjxjApWY64MwSNMeMtbHRGURrZmJVGQ2Gs/8pKawZ+fJ6fJRnGXdflQrW2ceIemx0nA5kV7un2SrEsnRYzSqxgTFCA8ZgLIcZGuvCvYIpJ+jPB1CsZJMcAh3oiVkmIZcVUEQ0=;KspHiUSmQ9KHwqFI8qYjiw=="
 ---
 

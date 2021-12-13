@@ -2,6 +2,110 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-11-15-astera-labs-announces-memory-acceleration-to-clear-datacenter-aiml-bottlenecks.md",
+      "title": "Astera Labs announces memory acceleration to clear datacenter AI/ML bottlenecks",
+      "excerpt": "Astera Labs announced a memory accelerator platform based on the Compute Express Link (CXL) standard for datacenter devices.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/",
+      "originalUrl": "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/06/datacenters-e1621237633386.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/15/astera-labs-announces-memory-acceleration-to-clear-datacenter-ai-ml-bottlenecks/amp/",
+      "publishedDateTime": "2021-11-15T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-11-15-dare-to-dream-patrick-tu-cofounder-of-dayta-ai.md",
+      "title": "Dare To Dream: Patrick Tu, Cofounder Of Dayta AI",
+      "excerpt": "Founded in 2018, the startup quickly won accolades from the Hong Kong government and Forbes, as well as backing from HKAI Lab, an accelerator program funded by the Alibaba Hong Kong Entrepreneurs Fund and SenseTime,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/osim/2021/11/15/dare-to-dream-patrick-tu-cofounder-of-dayta-ai/",
+      "originalUrl": "https://www.forbes.com/sites/osim/2021/11/15/dare-to-dream-patrick-tu-cofounder-of-dayta-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F618d30111073e0d0396d9951%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/osim/2021/11/15/dare-to-dream-patrick-tu-cofounder-of-dayta-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/osim/2021/11/15/dare-to-dream-patrick-tu-cofounder-of-dayta-ai/amp/",
+      "publishedDateTime": "2021-11-15T04:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-15-ai-start-up-gives-sustainable-wastewater-management-a-high-tech-refresh.md",
       "title": "AI Start-Up Gives Sustainable Wastewater Management A High-Tech Refresh",
       "excerpt": "In Australia, start-up Streamwise D.I. has developed an AI-powered intelligence platform providing industrial-grade digitisation for wastewater treatment.",
@@ -1079,101 +1183,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-regulators-looking-into-complaint-about-teslas-full-self-driving-software.md",
-      "title": "Regulators looking into complaint about Tesla's 'Full Self-Driving' software",
-      "excerpt": "U.S. auto safety regulators are looking into a complaint from a Tesla driver that the company’s “Full Self-Driving” software caused a crash.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/regulators-looking-complaint-teslas-full-self-driving-software-rcna5537",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/regulators-looking-complaint-teslas-full-self-driving-software-rcna5537",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2021-11/211113-tesla-model-y-cc-811p-604deb.jpg",
-          "width": 4985,
-          "height": 3135,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna5537",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna5537",
-      "publishedDateTime": "2021-11-13T17:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-14-report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult.md",
-      "title": "Report: 95% of execs say hiring professionals trained in AI is difficult",
-      "excerpt": "As leaders consider hiring new AI talent, they shouldn't overlook the importance of training to help mitigate bias and encourage ethical AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/",
-      "originalUrl": "https://venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1063745878-e1636476907899.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/13/report-95-of-execs-say-hiring-professionals-trained-in-ai-is-difficult/amp/",
-      "publishedDateTime": "2021-11-13T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

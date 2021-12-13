@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-08-suki-a-siri-like-voice-platform-for-doctors-raises-55-million.md",
+      "title": "Suki, a Siri-like voice platform for doctors, raises $55 million",
+      "excerpt": "Suki is an AI-powered voice platform that doctors can use to generate and retrieve medical notes, and reduce time-consuming administration.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/",
+      "originalUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/9c849f8e-1c22-4954-b3fa-a6a10ddac299_LeticiaRamireznote-1.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/",
+      "publishedDateTime": "2021-12-07T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise.md",
+      "title": "Intel Plans Potential $50 Billion IPO For Its Israeli Self-Driving Car Unit, Shares Rise",
+      "excerpt": "The tech giant said that it would take its self-driving car firm, Mobileye, public next year at a potential valuation of more than $50 billion, sources first told The Wall Street Journal. Intel originally acquired 100% of the Israeli company in 2017 for $15.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/",
+      "originalUrl": "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61af8aa58245aba99ca728d7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3995%26cropY1%3D153%26cropY2%3D2399",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sergeiklebnikov/2021/12/07/intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise/amp/",
+      "publishedDateTime": "2021-12-07T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-nds-cognitive-labs-experiences-record-growth-in-2021-bolstered-by-key-partnerships-and-executive-appointments.md",
       "title": "NDS Cognitive Labs Experiences Record Growth in 2021, Bolstered by Key Partnerships and Executive Appointments",
       "excerpt": "NDS Cognitive Labs (NDS ... global technology companies such as IBM, Amazon, Microsoft, Google, Intel and more. For more information on our services and solutions, please contact hello@ ...",
@@ -1067,101 +1171,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-clearview-ais-search-engine-for-faces-set-to-receive-patent.md",
-      "title": "Clearview AI's 'Search Engine for Faces' Set to Receive Patent",
-      "excerpt": "Privacy experts worry the patent could normalize Clearview’s controversial data scraping practices in lieu of meaningful legal constraints.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740",
-      "originalUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ueqb57yidtjtmqxjectm.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp",
-      "publishedDateTime": "2021-12-06T13:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
-      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
-      "excerpt": "A wide-reaching program looks for fresh machine learning technology to complete menial procedures and tasks, allowing VA clinicians and partners to focus on care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/12/06/america_united_states_department_of_veterans_affairs_picture_id1152538330_3/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,93 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-12-03-global-assistive-robotics-market-size-to-reach-usd-2516-billion-in-2028.md",
+      "title": "Global Assistive Robotics Market Size to Reach USD 25.16 Billion in 2028",
+      "excerpt": "Rapidly increasing geriatric population, advancements in Artificial Intelligence, and surging prevalence of autism are some key factors driving market revenue growth Market Size – USD 5.05 Billion in 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/",
+      "originalUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/12/Assistive-Robotics-Market.jpg",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/global-assistive-robotics-market-size-to-reach-usd-25-16-billion-in-2028/amp/",
+      "publishedDateTime": "2021-12-03T05:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics.md",
+      "title": "What meets the eye: get granular consumer insights with visual analytics",
+      "excerpt": "Social network and search engine algorithms favor images and video over plain text, which means visual content receives wider reach and better engagement from users now than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrum.com/industryinsights/2021/12/03/what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics",
+      "originalUrl": "https://www.thedrum.com/industryinsights/2021/12/03/what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-669632-image_21--default--1080.png",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drum",
+        "domain": "thedrum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign.md",
       "title": "Moloco Earns 2021 SMARTIES Award for Machine Learning & AI Campaign",
       "excerpt": "Esteemed marketing trade association MMA has recognized Moloco as a leader in marketing technology REDWOOD CITY, Calif. (PRWEB) Moloco (",
@@ -1066,110 +1153,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-aws-brings-no-code-to-amazon-sagemaker-machine-learning.md",
-      "title": "AWS brings no-code to Amazon SageMaker machine learning",
-      "excerpt": "Amazon SageMaker Canvas provides a visual interface for preparing data and training models, no programming or machine learning expertise required.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyimages-1206796363_2400x1600-100858181-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html",
-      "publishedDateTime": "2021-12-02T12:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-us-rejects-calls-for-regulating-or-banning-killer-robots.md",
-      "title": "US rejects calls for regulating or banning ‘killer robots’",
-      "excerpt": "US official proposes ‘non-binding code of conduct’ at United Nations but campaigners disagree",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_70_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0fe3dc3678121882d7e62f5530c8dae3",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
-      "publishedDateTime": "2021-12-02T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

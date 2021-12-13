@@ -2,6 +2,108 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-11-29-is-your-ai-project-doomed-to-fail-before-it-begins.md",
+      "title": "Is your AI project doomed to fail before it begins?",
+      "excerpt": "Yet despite increased adoption over the past two years, only a small percentage of companies feel they are gaining significant value from their AI initiatives. Where are their efforts going wrong? Simple missteps can derail any AI initiative,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/28/is-your-ai-project-doomed-to-fail-before-it-begins/",
+      "originalUrl": "https://venturebeat.com/2021/11/28/is-your-ai-project-doomed-to-fail-before-it-begins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/28/is-your-ai-project-doomed-to-fail-before-it-begins/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/28/is-your-ai-project-doomed-to-fail-before-it-begins/amp/",
+      "publishedDateTime": "2021-11-28T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-28-vuno-boasts-of-its-ai-solutions-and-research-results-at-rsna-2021.md",
+      "title": "VUNO Boasts of its AI Solutions and Research Results at RSNA 2021",
+      "excerpt": "South Korean artificial intelligence (AI) developer VUNO Inc. announced that it will join the Radiological Society of North America 2021 (RSNA 2021), one of the biggest annual events, featuring a series of industry symposia in radiology.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vuno-boasts-of-its-ai-solutions-and-research-results-at-rsna-2021-1031007150",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vuno-boasts-of-its-ai-solutions-and-research-results-at-rsna-2021-1031007150",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1696983/VUNO_at_RSNA_2021.jpg",
+          "width": 400,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-28T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-28-ai-chatbots-their-influence-on-mobile-technology.md",
       "title": "AI, Chatbots & Their Influence on Mobile Technology",
       "excerpt": "Relatively, chatbots are also now witnessing rapid growth in their adoption by corporates, big or small, to assist users with queries faster than ever before. A report by Statista states, by 2025, the global AI market is expected to cross a value threshold amounting to $126 billion.",
@@ -1091,83 +1193,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-teslas-self-driving-business-is-powering-ahead-despite-setbacks.md",
-      "title": "Tesla's Self-Driving Business Is Powering Ahead Despite Setbacks",
-      "excerpt": "The run-up is partly due to Tesla’s solid execution, with deliveries for this year poised to grow by almost 70% to about 850,000 vehicles, despite the ongoing semiconductor shortage. Tesla’s sizable lead in the self-driving market has also traditionally been a very big driver of the company’s valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/teslas-self-driving-business-is-powering-ahead-despite-setbacks",
-      "originalUrl": "https://www.nasdaq.com/articles/teslas-self-driving-business-is-powering-ahead-despite-setbacks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/teslas-self-driving-business-is-powering-ahead-despite-setbacks?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/teslas-self-driving-business-is-powering-ahead-despite-setbacks?amp",
-      "publishedDateTime": "2021-11-25T22:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-our-global-agreement-on-ai-could-reduce-bias-and-surveillance.md",
-      "title": "Our global agreement on AI could reduce bias and surveillance",
-      "excerpt": "Nearly 200 countries have signed up to UNESCO's agreement on the ethics of artificial intelligence. This could help make the technology fairer for all, says Gabriela Ramos",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/",
-      "originalUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2021/11/24163708/PRI_211829081.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2298789-our-global-agreement-on-ai-could-reduce-bias-and-surveillance/amp/",
-      "publishedDateTime": "2021-11-25T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

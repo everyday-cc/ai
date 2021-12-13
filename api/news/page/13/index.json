@@ -2,6 +2,101 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-12-02-smartling-lands-160m-to-help-companies-translate-their-content-automatically.md",
+      "title": "Smartling lands $160M to help companies translate their content automatically",
+      "excerpt": "Smartling, a company providing a mix of AI- and human-powered translation services, has raised $160 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/",
+      "originalUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-3324171_1920-e1631120646603.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/amp/",
+      "publishedDateTime": "2021-12-02T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-enzolytics-announces-progress-as-it-recognizes-world-aids-day.md",
+      "title": "Enzolytics Announces Progress As It Recognizes World AIDS Day",
+      "excerpt": "COLLEGE STATION, TX / ACCESSWIRE / December 2, 2021 / Enzolytics wishes to recognize and acknowledge World AIDS Day - a day to call attention to the continued need for a more effective treatment for HIV,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/Accesswire/coronavirus-pandemic-technology-science-business-health-b3280a8c4aa90116b7919d23da08f298",
+      "originalUrl": "https://apnews.com/press-release/Accesswire/coronavirus-pandemic-technology-science-business-health-b3280a8c4aa90116b7919d23da08f298",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T04:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-you-can-now-get-150000-if-you-let-a-robot-use-your-face-and-voice.md",
       "title": "You can now get £150,000 if you let a robot use your face and voice",
       "excerpt": "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot.",
@@ -1042,94 +1137,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-sizes-trainium-for-aiml-model-boom.md",
-      "title": "AWS Sizes Trainium for AI/ML Model Boom",
-      "excerpt": "While AWS is making it clear they will continue to innovate around GPUs for cloud-based machine learning, there was little doubt after today that their",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/",
-      "originalUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Des12-1024x476.jpg",
-          "width": 1024,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/amp/",
-      "publishedDateTime": "2021-12-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-using-fpgas-for-ai.md",
-      "title": "Using FPGAs For AI",
-      "excerpt": "Artificial intelligence (AI ... and the LUT structure of the programmable fabric lends itself well to a lot of neural network (NN) architectures. Second, the ability to field reprogram the entire chip, or parts of the chip, has gotten better over time.”",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/using-fpgas-for-ai/",
-      "originalUrl": "https://semiengineering.com/using-fpgas-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/12/fpgas2.png?fit=974%2C856&#038;ssl=1",
-          "width": 974,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

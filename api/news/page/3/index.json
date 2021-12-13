@@ -2,6 +2,60 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-10-the-limitations-of-scaling-up-ai-language-models.md",
+      "title": "The limitations of scaling up AI language models",
+      "excerpt": "In a panel at NeurIPS 2021, experts discussed the limitations of training larger and larger natural language models akin to OpenAI's GPT-3.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/",
+      "originalUrl": "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GPT-3-applications-products-startups-cropped.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/",
+      "publishedDateTime": "2021-12-10T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union.md",
       "title": "We invited an AI to debate its own ethics – in the Oxford Union",
       "excerpt": "Andrew Stephen receives research funding from the Oxford Future of Marketing Initiative, which is funded by a consortium of companies, including Meta, Google, Twitter, WPP, L’Oréal, Kantar, Reckitt and Teradata.",
@@ -426,7 +480,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1146,49 +1200,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-how-k12-schools-can-use-artificial-intelligence-in-education.md",
-      "title": "How K–12 Schools Can Use Artificial Intelligence in Education",
-      "excerpt": "What role will artificial intelligence play in the future of education? For educators, AI can feel like an exciting development — or a terrifying unknown. AI technology is advancing quickly and creating solutions once thought impossible.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon",
-      "originalUrl": "https://edtechmagazine.com/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/k12/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/GettyImages-1220250522.jpg?itok=y0r6bHRt",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp",
-      "publishedDateTime": "2021-12-09T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

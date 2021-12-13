@@ -63,20 +63,6 @@ related:
         width: 512
         height: 341
         isCached: true
-  - title: "AI Curator for the Music Industry: Hit Potential Algorithm Helps to Discover Next Smash"
-    excerpt: "Musiio, an artificial intelligence brand for the music industry, has a revolutionary Hit Potential Algorithm that analyzes music at scale and awards scores between 0 to 100. The algorithm score depends on the likelihood of commercial success."
-    publishedDateTime: 2021-12-09T06:03:00Z
-    webUrl: "https://www.alphansotech.com/ai-curator-for-the-music-industry-hit-potential-algorithm-helps-to-discover-next-smash"
-    type: article
-    provider:
-      name: alphansotech.com
-      domain: alphansotech.com
-    quality: 29
-    images:
-      - url: "https://www.alphansotech.com/wp-content/uploads/2021/11/AI-Curator-for-the-Music-Industry-Hit-Potential-Algorithm-Helps-to-Discover-Next-Smash-1024x576.png"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "GdlhF1gs/cNcTCJIuGQVkOCzDm6yhF8h/Eh4UhbaWnOn6EbxzKmoekYtjQCorGc0LMM0fcXA35uTL2oi3SCJJe1oAtECh1rjzLenxi14W5aTWLCbmFyYbzzwAjGHrVUx6J0t5ABmIUb/bfpVM+DeiFOaN1r3VnpsNDpCHouLEMLiFlYME1A7c84ZbBWiMBUFMUOHYlHgYKSdRslL/9zwDuMb0nz5Mh/RJOy+SEwCQ+t9gs80R6IOLb02OnjXvxElzXTbOP/MUkXE2j7/YR3ZWdQMad/uoRky7Mv8sTu/C7RYHQmvXpO94Td8gpoLd0uJUeJ6kt0+JAwKMLuu47vYEW8mjW4yHjzqId9fUZUAJ49iQ1b6KBaI5GXtt0Hn5HgMAPrm69YmdV4fTpimX8DyeZELQ2+b0TXhPK2vYqIZYLojpigM5iTXrATcK+M3baBlx+Elx+i3SGm4vSccpmauW9W57R8Tdx2KOi5XcvFOnyR1J0LfEPn+0ua1UpQbrbfnuFmrNQEgZ5bdzUSvGRtdow==;06uppqaKq34MkcYTbos7mQ=="
 ---

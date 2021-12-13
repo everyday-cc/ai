@@ -2,6 +2,101 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-11-30-ai-just-designed-the-worlds-first-living-robot-that-can-make-babies.md",
+      "title": "AI Just Designed The World’s First Living Robot That Can Make Babies",
+      "excerpt": "People have philosophized about this forever,” says Joshua Bongard, senior author and computer scientist at the University of Vermont. “But now you can actually do experiments to create biological machines,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/",
+      "originalUrl": "https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a2ddf3713ca3529d70c192%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5000%26cropY1%3D234%26cropY2%3D2578",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/amp/",
+      "publishedDateTime": "2021-11-29T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-emerging-technologies-engines-of-the-fourth-industrial-revolution.md",
+      "title": "Emerging technologies: engines of the Fourth Industrial Revolution",
+      "excerpt": "In one of the recent World Economic Forum meetings in Davos, there was a panel discussion on emerging technologies wherein some of the most innovative and promising technologies highlighted are: Blockchain,",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbazaaronline.com/2021/11/29/emerging-technologies-engines-of-the-fourth-industrial-revolution-447878/",
+      "originalUrl": "https://www.americanbazaaronline.com/2021/11/29/emerging-technologies-engines-of-the-fourth-industrial-revolution-447878/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.americanbazaaronline.com/wp-content/uploads/2021/01/Communication.jpg",
+          "width": 1100,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.americanbazaaronline.com/2021/11/29/emerging-technologies-engines-of-the-fourth-industrial-revolution-447878/?amp",
+      "cdnAmpWebUrl": "https://www-americanbazaaronline-com.cdn.ampproject.org/c/s/www.americanbazaaronline.com/2021/11/29/emerging-technologies-engines-of-the-fourth-industrial-revolution-447878/?amp",
+      "publishedDateTime": "2021-11-29T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "americanbazaaronline.com",
+        "domain": "americanbazaaronline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-unesco-launches-global-standard-for-ai-ethics.md",
       "title": "UNESCO launches global standard for AI ethics",
       "excerpt": "Standard aims to provide AI with a strong ethical basis that will not only protect but also promote human rights and human dignity.",
@@ -1089,108 +1184,6 @@
         "Microsoft AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-is-your-ai-project-doomed-to-fail-before-it-begins.md",
-      "title": "Is your AI project doomed to fail before it begins?",
-      "excerpt": "Yet despite increased adoption over the past two years, only a small percentage of companies feel they are gaining significant value from their AI initiatives. Where are their efforts going wrong? Simple missteps can derail any AI initiative,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/28/is-your-ai-project-doomed-to-fail-before-it-begins/",
-      "originalUrl": "https://venturebeat.com/2021/11/28/is-your-ai-project-doomed-to-fail-before-it-begins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/data-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/28/is-your-ai-project-doomed-to-fail-before-it-begins/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/28/is-your-ai-project-doomed-to-fail-before-it-begins/amp/",
-      "publishedDateTime": "2021-11-28T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-28-vuno-boasts-of-its-ai-solutions-and-research-results-at-rsna-2021.md",
-      "title": "VUNO Boasts of its AI Solutions and Research Results at RSNA 2021",
-      "excerpt": "South Korean artificial intelligence (AI) developer VUNO Inc. announced that it will join the Radiological Society of North America 2021 (RSNA 2021), one of the biggest annual events, featuring a series of industry symposia in radiology.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/vuno-boasts-of-its-ai-solutions-and-research-results-at-rsna-2021-1031007150",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/vuno-boasts-of-its-ai-solutions-and-research-results-at-rsna-2021-1031007150",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1696983/VUNO_at_RSNA_2021.jpg",
-          "width": 400,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-28T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
