@@ -115,6 +115,20 @@ related:
         width: 750
         height: 340
         isCached: true
+  - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
+    excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists."
+    publishedDateTime: 2021-12-13T00:04:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/13/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cyclists"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/12/12/1403364.jpg"
+        width: 1240
+        height: 827
+        isCached: true
 
 secured: "qrWjxByzI9n7dNMdgnnXu3YlJLMYL/Rpq29eyXZVyjimFDe6z6XY7AnCCUpk/hay7qcuyHYfghKwk0JJgFzefKdat3EGkjKJ0Bfa/1N66Sw2FurTgerFb2lb3QTSaZK8fwtWNjDPC31YhMHno1yssp1J/dWswJgajoIj0d8MnGOtFOY8HyKoFpghYdA6c4JTzVI9zXJM+MhXeqrLifPqcafG3dhve1fVCNp4L2btRLd9I7IYLci0ISo0640JY8204n+Kxid6GgHL4daJbELyhbdfVPaos4tDKkQFs3yi3pY8uqVtEzy7WcjPW25sXqmowj0ezQ008KCiwR97OtLa/AX4/K0iItWVsKyPQ69+Dd4=;wtgItlnS3RMVwjEYr1m/rA=="
 ---

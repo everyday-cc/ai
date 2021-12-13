@@ -2,6 +2,92 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2021-09-30-could-autonomous-robots-be-more-dangerous-than-nukes.md",
+      "title": "Could Autonomous Robots Be More Dangerous than Nukes?",
+      "excerpt": "Without established regulations and prohibitions on autonomous weapons, they could pose a great danger and possibly destabilize current nuclear strategies.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
+      "originalUrl": "https://interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/3oOpl2P5OW/sizes/could-autonomous-robots-be-more-dangerous-than-nukes_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/could-autonomous-robots-be-more-dangerous-than-nukes",
+      "publishedDateTime": "2021-09-30T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-09-30-niti-aayog-aws-intel-collaborate-for-experience-studio.md",
+      "title": "NITI Aayog, AWS, Intel collaborate for experience studio",
+      "excerpt": "Niti Aayog, Amazon Web Services (AWS) and Intel have come together to establish a new experience studio that will be a hub for collaboration and experimentation. The studio has been set up at the Niti Aayog Frontier Technologies Cloud Innovation Centre (CIC) in Niti Aayog''s premises here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
+      "originalUrl": "https://www.outlookindia.com/newsscroll/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.outlookindia.com/public/uploads/no-image-new.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/newsscroll/amp/niti-aayog-aws-intel-collaborate-for-experience-studio/2170369",
+      "publishedDateTime": "2021-09-30T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-09-30-semiconductor-stocks-that-stand-to-gain-through-the-chip-shortage-and-beyond.md",
       "title": "Semiconductor Stocks That Stand To Gain Through The Chip Shortage And Beyond",
       "excerpt": "Our theme on Stocks That Benefit From The Semiconductor Shortage, which includes companies that produce machinery and tools for chipmaking and semiconductor players with their own fab capacity, has returned about 26% year-to-date,",
@@ -1136,102 +1222,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-immuniweb-launches-free-cloud-security-test-to-detect-unprotected-storage.md",
-      "title": "ImmuniWeb Launches Free Cloud Security Test to Detect Unprotected Storage",
-      "excerpt": "The IDC cloud security survey 2021 states that as many as 98% of companies were victims of a cloud data breach within the past 18 months. Fostered by the pandemic, small and large organizations from all over the world are migrating their data and infrastructure into a public cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html",
-      "originalUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehackernews.com/images/-md3YVJjBNZY/YVSuqolg06I/AAAAAAAABRA/69R-lwGKrmURHClMyTIQ7NDOS3eUN0b_QCLcBGAsYHQ/s728-e1000/cloud-security-test.jpg",
-          "width": 728,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html?amp=1",
-      "cdnAmpWebUrl": "https://thehackernews-com.cdn.ampproject.org/c/s/thehackernews.com/2021/09/immuniweb-launches-free-cloud-security.html?amp=1",
-      "publishedDateTime": "2021-09-30T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hacker News",
-        "domain": "thehackernews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-09-30-contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review.md",
-      "title": "Contract management startup ContractPodAI nabs $115M for AI-driven legal review",
-      "excerpt": "ContractPodAI, a company developing a platform for AI-powered legal review, has raised $115 million in a funding round led by SoftBank.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/",
-      "originalUrl": "https://venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/3fb9dd87-044a-4aaf-9fa1-93be7fa400a4-e1597178224936.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/09/30/contract-management-startup-contractpodai-nabs-115m-for-ai-driven-legal-review/amp/",
-      "publishedDateTime": "2021-09-30T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

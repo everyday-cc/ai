@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Clearview AI To Get Facial Recognition Patent; Should We Be Scared?"
-    excerpt: "Clearview AI, the firm that created the controversial facial recognition and scrapes social media platforms to add pictures of people on its database, is about to be awarded a patent for its technology."
-    publishedDateTime: 2021-12-08T07:15:00Z
-    webUrl: "https://www.gizbot.com/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html"
-    ampWebUrl: "https://www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html"
-    cdnAmpWebUrl: "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html"
-    type: article
-    provider:
-      name: GIZBOT
-      domain: gizbot.com
-    quality: 74
-    images:
-      - url: "https://www.gizbot.com/img/2021/12/4-1638947408.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Clearview AI Has Acquired A New Patent For Facial Recognition Technology"
     excerpt: "Advertisement Clearview AI has developed a facial recognition technology that might have spotted you by now. The company’s software skims through public images that are available on social media and uses them to help law enforcement identify wanted individuals by matching their public images with those found in government databases or surveillance footage."
     publishedDateTime: 2021-12-12T20:32:00Z
@@ -58,6 +42,31 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "ACLU Calls for Halt of Homeland Security’s Use Of Facial Recognition Technology"
+    excerpt: "The civil rights organization said that the biometrics technology can lead to discriminatory arrests based on race."
+    publishedDateTime: 2021-12-08T16:33:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/aclu-calls-halt-homeland-securitys-use-facial-recognition-technology/187377/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 54
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/08/biometric_security_scan_picture_id1297832671/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "Police Release Findings From Independent Expert Review Of Facial Recognition Technology"
+    excerpt: "An independent review has provided Police with detailed advice on the opportunities and risks associated with the use of Facial Recognition Technology (FRT). In responding to the review Police has decided it will not use live Facial Recognition technology without further detailed analysis,"
+    publishedDateTime: 2021-12-08T21:41:00Z
+    webUrl: "https://www.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 31
 
 secured: "zEMVK05mgecLRjbFfUeCPpIfx969JPtBcv1XfpI0i71WoGOBTJc1/N/gSjnnioGD0HQnWN9hKQp8jSM3c6EyieJqZTO6MBjakXaK2jRTK+mNu5xCPkQZgSeFxnr+uvxmMqZrmK5y55lAmYXQQrvBqpJvry8wc/j6DsCGitPBkVI7mZdvoDg9shqagRIxeDZpwN+aUYTfjOTScsmseWxOfNh2Jqxk5Ug4TqM9EQZLiiwdX/RDrNeuz+GN1jwBAKfKGy21hQKG3VSjg1fBCjw/TeFrudGCt/lzWeSClRY8nB0fAnwZ06UOhRWdXjCK27lbFPgsYLLKh7edvudtsOSyjo9Dt+V0bCi3ktWR/quhOLVc9WGf+AxO0fox4059uCDuvj3nPh0s17KaUecHoUFmRqeCkgKFQyogSUw6bMTsTI6M/v/YIEVLZn556fjf52bCaAti1LFTiaP1bQbbgPdl/nPaw5lW5+ZkTu7SM6EvQMo/upTxPqyOrjtgtXd8ifDXVsK3juDDgtV1Z8YVMkZwHw==;1n/+06SkiZl6Z7GewnZJaQ=="
 ---

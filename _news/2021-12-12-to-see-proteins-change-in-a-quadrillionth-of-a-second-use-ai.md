@@ -1,10 +1,10 @@
 ---
 category: news
 title: "To see proteins change in a quadrillionth of a second, use AI"
-excerpt: "But, for scientists, “an instant” is not unquantifiable—the changes in the protein’s structure happen in the remarkably short amount of time known as a femtosecond, or a quadrillionth of a second. A second is to a femtosecond what 32 million years is to a second,"
+excerpt: "Then the AI extracts the complete 3D image from this group of snapshots and learns what the entire movement should look like, creating a sort of animated “movie” of it. “Using artificial intelligence at each time point,"
 publishedDateTime: 2021-12-12T12:37:00Z
-originalUrl: "https://arstechnica.com/science/2021/12/to-see-proteins-change-in-a-quadrillionth-of-a-second-use-ai/?comments=1"
-webUrl: "https://arstechnica.com/science/2021/12/to-see-proteins-change-in-a-quadrillionth-of-a-second-use-ai/?comments=1"
+originalUrl: "https://arstechnica.com/science/2021/12/to-see-proteins-change-in-a-quadrillionth-of-a-second-use-ai/2/"
+webUrl: "https://arstechnica.com/science/2021/12/to-see-proteins-change-in-a-quadrillionth-of-a-second-use-ai/2/"
 type: article
 quality: 67
 heat: -1
@@ -45,6 +45,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "zpRADdAYcPTr+Z85EW9fsi7zRUOI659Vmnxx9uuFtnUWvqJjdxWfaL8Do3t73n/zl2m3qU6Q1eAjySRjZ+THEFJS4MU497C//xX1n7PUyMU7ciUMgEWGPjv1Js5AsiG+nqrNqoJ/FpUn5DcZFOFPPBiaUbmTSKWBRkk0cs3OA+NsEp87SeGwg8SiEiD9M6GSXdD1Ti/klsclpOuqkQAuvc4dJVREJLtYAQcf3Hsi0lKQ84EFpTocivICcksFMGIpQQJEzmPT77xWWJPN9o1lH4AHYB4QXZhFJ+WCFg7tLAneSBFmR0ot+3zeb1J8wyPt4qWDD/Cmt/2ztMS1tlkCRlg1tNoc5DG5v2lKP4FJOtk=;o9HR/Ls/jz3aEl69EU3VRw=="
+secured: "uNrdJfwiF6Auan1FfmaIiNX5K76jJJqOX4kZ13CYi13qXzzU3NIypKgta82z7eyzKiYO+p6Miq6BvwIDUtIoJWJpwe9+umTHtZ7Sd1c5he2bomnfLod02NP/vfAh/JAhz2GBzkxZ35oYFyLbNPIAJR8MeqawLSmraDB7f7OMLmwdFRyQPS7A9mQDcwf2IERDFWIjsarx0zn45jllAncHYafw/sbxPzKtiGIzsktw8fvhIjN41PY5aPJrSDDh31FTIpS8mxp1I04M9qEH74MCiGtGIBFNBoFJZxhVshARa4KY/0sJQA9iOSBLNrXmMb9oDzN1Ub7TxAtn7F05zf8FJpS9+cDZoDWntzyWfb+9kjA=;pPxt3zl9kzybf/tsXMbltA=="
 ---
 

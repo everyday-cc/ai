@@ -44,6 +44,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "AI Uses Reinforcement Learning to Navigate Oceans"
+    excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are working on an artificial intelligence (AI) that can enable autonomous drones to use ocean currents to aid their navigation. With this approach, the drones don’t have to fight through the currents."
+    publishedDateTime: 2021-12-12T23:19:00Z
+    webUrl: "https://www.unite.ai/ai-uses-reinforcement-learning-to-navigate-oceans/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/12/water-2259329_1280.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "/AqDkJ6ln1giipEpW3EoqrtsxVPBsy/MkMOSwpkfsJ55K/sUHzpITTYmfuR7RpVuv/8R3dd27b1fN2mogbfjTeqrdRm3rPkSXKtwwCxHP/PvVzWADp59z2cgW7MXI4nGDi+OYhqx+/FmuPN7pZzLCwf4eAz7Qk6qW5sa0QVqpVzzZEsKKfLPBU4yxTR89btUuAKGwwPu/B+iVnaKK2gaazKwAwVOivybrkPB3alIMy3XWmQSJBEXDbhkVkNLVQdwqqg6QahRPzO/vumhHLaQKoRswdFduEzGcqeuQibx4FEgCHJYW5/Hn1ElVm9hf5Le72kh7g2Uk1SmDkaAliH/eHYehHtcsaphfn3nC8keoW62ekqvv11CgJBvV0v5RLsW7aF/FyMFOGn+SvoK5EdsU8DL+O77DbHPug8r+ay5BQ8HK9IrabmOnYvje3meUg3EAl9scJ3tMhjrY3BvPnOqiTpfYaWD5Wje6x2SFwnV3X7MA+Fe9FzCXVp6HsOjeSmGYRRdgXpYXThfDvWHkVb+qw==;nTTbcetXKHX7ewOn95GCVg=="
 ---

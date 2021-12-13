@@ -35,34 +35,6 @@ related:
         width: 622
         height: 478
         isCached: true
-  - title: "Explained | Facial recognition tech in Indian airports"
-    excerpt: "What is the Digi Yatra scheme under which FRT is being implemented? What are the concerns surrounding the biometric technology?"
-    publishedDateTime: 2021-12-08T08:06:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/the-hindu-explains-facial-recognition-tech-in-indian-airports/article37885267.ece"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 54
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/qojmkz/article37885266.ece/ALTERNATES/LANDSCAPE_615/iStock-1318076199"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "ACLU Calls for Halt of Homeland Security’s Use Of Facial Recognition Technology"
-    excerpt: "The civil rights organization said that the biometrics technology can lead to discriminatory arrests based on race."
-    publishedDateTime: 2021-12-08T16:33:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/aclu-calls-halt-homeland-securitys-use-facial-recognition-technology/187377/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 54
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/08/biometric_security_scan_picture_id1297832671/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Police are using hand-held facial recognition cameras on the streets for the first time"
     excerpt: "The technology, initially to be deployed by 70 frontline officers in South Wales and Gwent, uses an 'artificial intelligence' mobile phone app. (File image.)"
     publishedDateTime: 2021-12-10T23:40:00Z
@@ -176,17 +148,6 @@ related:
         width: 1400
         height: 840
         isCached: true
-  - title: "Police Release Findings From Independent Expert Review Of Facial Recognition Technology"
-    excerpt: "An independent review has provided Police with detailed advice on the opportunities and risks associated with the use of Facial Recognition Technology (FRT). In responding to the review Police has decided it will not use live Facial Recognition technology without further detailed analysis,"
-    publishedDateTime: 2021-12-08T21:41:00Z
-    webUrl: "https://www.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
-    ampWebUrl: "https://m.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
-    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2112/S00024/police-release-findings-from-independent-expert-review-of-facial-recognition-technology.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 31
 
 secured: "y753NmWKH/2Wgz9E2evMqCNbABixryY2M//2rAy1h0mgKZQgbEbbfuR/aSLmkw0eV/Bpi3OSGMBmAo7J78a8i4qLO8i5YiI3DJYS9yKSvBDorCEbacjvQoSK9Itcv8XlgSM7sqYd0IAH1Db/ZxKRgTFFX8t38u3YbSfHMR/RZ8v8biD9smTcYEiWRgMV7bsSqB6DI7gACE93+CvDa+xc3aVbsAopVbmzm1RUDU9k5T+R3Bn+ovOqkEoGhCQBl5+0mIgQnHyV3RIKlITYZvSn83V2ihXBLAzs3tl12NgR4EvV4tom50ptfMUzdDYuB8zPHENNT/+PHo8gX9M1wYmrTuwGJPpRZbN3EvuaS118gseCrg1XdbTVJVG8sFGrVCeL96gAStMTGUgj6C9szrUWHk3c6FHWK0i3Gve/KVVA27R3q8rDlYU8ZSV/73h/SbgaVVkCVvs1ISFkBv+h6LaAogXT2u/8Vlr6SaSEeNARt3QAT4IH3cWwva6NIAy3DWlZrOTLouxX2/VG2Ay2ngHuOg==;CQU43pUWyMY74qv3EMdihw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/markets/expert-view/bullish-on-industria
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/amp_articleshow/88186185.cms"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: India Times
@@ -41,6 +41,20 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/Krgc249D.jpg"
         width: 570
         height: 367
+        isCached: true
+  - title: "What Trends are Driving the Fintech Revolution in India?"
+    excerpt: "As PM Modi calls for a Fintech Revolution in India, we discuss major trends shaping the future of Fintech in India and new financial service capabilities."
+    publishedDateTime: 2021-12-12T13:12:00Z
+    webUrl: "https://www.india-briefing.com/news/what-trends-are-driving-the-fintech-revolution-in-india-23809.html/"
+    type: article
+    provider:
+      name: india-briefing.com
+      domain: india-briefing.com
+    quality: 24
+    images:
+      - url: "https://www.india-briefing.com/news/wp-content/uploads/2021/12/What-Trends-are-Leading-Indias-Fintech-Revolution.jpg"
+        width: 900
+        height: 506
         isCached: true
 
 secured: "koVVbeGjpj5xCvuGvEYFA9+mSixA+a8wnO/5FR9zpofTsjsZTPNUSvUmAz9tq3UeZa+03bUgB8hV5HI/lluIUxq3X9FIs6pMXFtNxx/0O0meOi94cpoPVydGnNB91Yq/wnh1Gb/Kio7l/jq50XWWzCVepXGYvPocA02v45wIjuROZJU4v7vWpLcAv0/c1CL8/oxrVklsavSF4xX2Bi0R7tf/AHGFFun1zUp+HOIvdex6Yby0gg5esyici41XJZQ/xMghr55uEgpJwTnmKuO6oZ7dEQbvqJG8D+HqMJ32/QyFlPzyR5u2lUUHTextUVYFCC3HbNbNcZr1ppJoaxwgBR5ubLZi+EUxXvYBvVzcCI3KYQVsQmUYuBKF35YquB5J9nrtDLn950ABFMeIcW1ys2Mds5umIiyNznNe43AzdrnVJwHS9RFe2vE9jMgyOlKRQ4k7MpLCIkDugqJPR97S6Bw+ExxKw7dIGSs58Fdm++xYzyJT90iJW/t+BFm40F4tUJWASY9G+OWZ2FfvdefEyQ==;X2wL21ktSWWA0VnFezHspg=="

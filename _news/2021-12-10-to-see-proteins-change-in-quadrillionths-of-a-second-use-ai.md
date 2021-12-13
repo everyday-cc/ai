@@ -31,9 +31,9 @@ images:
 
 related:
   - title: "To see proteins change in a quadrillionth of a second, use AI"
-    excerpt: "But, for scientists, “an instant” is not unquantifiable—the changes in the protein’s structure happen in the remarkably short amount of time known as a femtosecond, or a quadrillionth of a second. A second is to a femtosecond what 32 million years is to a second,"
+    excerpt: "Then the AI extracts the complete 3D image from this group of snapshots and learns what the entire movement should look like, creating a sort of animated “movie” of it. “Using artificial intelligence at each time point,"
     publishedDateTime: 2021-12-12T12:37:00Z
-    webUrl: "https://arstechnica.com/science/2021/12/to-see-proteins-change-in-a-quadrillionth-of-a-second-use-ai/?comments=1"
+    webUrl: "https://arstechnica.com/science/2021/12/to-see-proteins-change-in-a-quadrillionth-of-a-second-use-ai/2/"
     type: article
     provider:
       name: Ars Technica

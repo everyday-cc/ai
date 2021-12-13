@@ -2,6 +2,92 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-11-17-cnn-with-periodic-loss-functin-training-the-cnn-neural-network.md",
+      "title": "CNN with periodic loss functin - Training the CNN neural network",
+      "excerpt": "Training and using a neural network to read out the value of an analog display - example including small node server for demonstration - neural-network-analog-needle-readout/CNN_Version2.md at",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/jomjol/neural-network-analog-needle-readout/blob/main/CNN_Version2.md",
+      "originalUrl": "https://github.com/jomjol/neural-network-analog-needle-readout/blob/main/CNN_Version2.md",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://opengraph.githubassets.com/1a1e6688ea47979425e5647d9f3cad1a14e98d228bc673947c120600c2e060d7/jomjol/neural-network-analog-needle-readout",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T23:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-17-singapore-fintech-festival-2021-sees-33-year-on-year-growth-in-attendees.md",
+      "title": "Singapore FinTech Festival 2021 sees 33% year-on-year growth in attendees",
+      "excerpt": "The sixth edition of the Singapore FinTech Festival (SFF) with the theme \"Web 3.0 and its impact on financial services\" concluded on 12 November 2021. The week-long event attracted 60,000 attendees, representing a 33% year-on-year growth.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/11/17/9494131.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/11/17/9494131.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1690555/0811B106.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-16T22:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-17-artificial-intelligence-ai-market-next-big-thing-major-giants-ibm-microsoft-hanson-robotics.md",
       "title": "Artificial Intelligence (AI) Market Next Big Thing | Major Giants IBM, Microsoft, Hanson Robotics",
       "excerpt": "Market study describes how the technology industry is evolving and how major and emerging players in the indus",
@@ -1069,101 +1155,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-thoughts-on-artificial-intelligence-conferences-for-business-audiences.md",
-      "title": "Thoughts On Artificial Intelligence Conferences For Business Audiences",
-      "excerpt": "If you are a business line manager or in the CxO suite, you want to hear what is actually being accomplished with artificial intelligence, with strong examples that are relatable. You also want to hear about the non-technical implications of the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/11/16/thoughts-on-artificial-intelligence-conferences-for-business-audiences/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/11/16/thoughts-on-artificial-intelligence-conferences-for-business-audiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D23%26cropY2%3D516",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/11/16/thoughts-on-artificial-intelligence-conferences-for-business-audiences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/11/16/thoughts-on-artificial-intelligence-conferences-for-business-audiences/amp/",
-      "publishedDateTime": "2021-11-16T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-big-data-privacy-for-machine-learning-just-got-100-times-cheaper.md",
-      "title": "Big data privacy for machine learning just got 100 times cheaper",
-      "excerpt": "Rice University computer scientists have discovered an inexpensive way for tech companies to implement a rigorous form of personal data privacy when using or sharing large databases for machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-11-big-privacy-machine-cheaper.html",
-      "originalUrl": "https://techxplore.com/news/2021-11-big-privacy-machine-cheaper.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/big-data-privacy-for-m.jpg",
-          "width": 1650,
-          "height": 1098,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-11-big-privacy-machine-cheaper.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-big-privacy-machine-cheaper.amp",
-      "publishedDateTime": "2021-11-16T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

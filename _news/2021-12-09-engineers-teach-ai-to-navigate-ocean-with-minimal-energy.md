@@ -39,6 +39,20 @@ related:
         width: 333
         height: 499
         isCached: true
+  - title: "AI Uses Reinforcement Learning to Navigate Oceans"
+    excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are working on an artificial intelligence (AI) that can enable autonomous drones to use ocean currents to aid their navigation. With this approach, the drones don’t have to fight through the currents."
+    publishedDateTime: 2021-12-12T23:19:00Z
+    webUrl: "https://www.unite.ai/ai-uses-reinforcement-learning-to-navigate-oceans/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/12/water-2259329_1280.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Engineers teach AI to navigate ocean with minimal energy (w/video)"
     excerpt: "Engineers at Caltech, ETH Zurich, and Harvard are developing an artificial intelligence (AI) that will allow autonomous drones to use ocean currents to aid their navigation, rather than fighting their way through them."
     publishedDateTime: 2021-12-09T09:42:00Z

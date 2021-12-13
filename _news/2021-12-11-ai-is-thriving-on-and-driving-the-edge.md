@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/ai-is-thriving-on-and-driving-the-edge/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
       - url: "https://www.mytotalretail.com/thumb/?src=/wp-content/uploads/sites/14/2021/12/GettyImages-1327336888.jpg&w=750&h=340"
         width: 750
         height: 340
+        isCached: true
+  - title: "The AI that could help prevent accidents between self-driving cars and cyclists"
+    excerpt: "Argo AI, a startup specialising in the development of autonomous driving systems, is working on creating an artificial intelligence system specially designed to avoid collisions with cyclists."
+    publishedDateTime: 2021-12-13T00:04:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/12/13/the-ai-that-could-help-prevent-accidents-between-self-driving-cars-and-cyclists"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 35
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/12/12/1403364.jpg"
+        width: 1240
+        height: 827
         isCached: true
 
 secured: "4oIQ4K0YzCj47PIolLNo7Nh3Hif60K56O/vMno48BDKq1lUS7ep7Ieif4KZ0mm7pwjkakUvZJCMVJQW+C6j+y/2Hkv06eRc/EOUA8QbJQ1r2JkA/y/Tsr/ZiM+Tt72BGXr0J1tidrlAa8uXSOmgpwrz7iB/E8tSlU4iRJezCOtloOqVqRrhg6d/9hG4f+c44vkWaxenRuSaigb4x3fPJqWbomS8DFTrc9bgmOvRmIsew/FuS08JEQ/dWpIaK9KnX3aY61TCQjjdOuhkTvSAEn3IGqUQglcZka4tQGPwBn56VjqSzMHubEL6/9gsMphFc0AoUUGGRpGLo+SnMWfHD7IRESE/aL3VVfr+nGEyf/IaJjUm7j/1IilC6b+s09z9k4XDR0i7HTgNuzYtCyOv2iN7WjAnDlvJM3/g5nFAux9VhBxIxHRRbn6ZPD1yw9aiI0mcOvIAGML9TR0pS8aa3OlubaGPV4tSJXosS4sDhSF6QwCPoRJpcoioYL+Rhx1A/aqWxA42INAozLV6UudLNnw==;8sUcGI7z67j0CX+M9uZB1Q=="

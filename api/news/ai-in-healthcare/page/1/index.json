@@ -132,21 +132,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-09-artificial-intelligence-helps-improve-outcomes-for-depression-treatment.md",
-      "title": "Artificial intelligence helps improve outcomes for depression treatment",
-      "excerpt": "An international team of scientists, including a Western University researcher, have developed an artificial intelligence (AI) tool that facilitates more personalized treatments for depression and improves patient outcomes.",
+      "path": "_news/2021-12-09-bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen.md",
+      "title": "Bullish on industrial, consumer, healthcare and fintech in India: John Praveen",
+      "excerpt": "Agencies  We probably won't see the kind of strong earnings we saw in 2021 either in the US or India and might see earnings more in the 15-20% range rather than in the 20-30% range, says John Praveen,",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-12-bogged-police-rethink.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-12-bogged-police-rethink.html",
+      "webUrl": "https://economictimes.indiatimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/articleshow/88186185.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/articleshow/88186185.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/depression.jpg",
-          "width": 1920,
-          "height": 1271,
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-18354,msid-88186369/john-praveen.jpg",
+          "width": 600,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -154,13 +154,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-12-bogged-police-rethink.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-bogged-police-rethink.amp",
-      "publishedDateTime": "2021-12-08T09:13:00-08:00",
+      "ampWebUrl": "https://m.economictimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/amp_articleshow/88186185.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/expert-view/bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen/amp_articleshow/88186185.cms",
+      "publishedDateTime": "2021-12-09T02:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -170,8 +170,9 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI in Finance",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

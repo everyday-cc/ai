@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Asia-Pacific AI in Computer Vision Market is Blooming at a CAGR of 49.8% from 2020 to 2027 | Business Market Insights"
+    excerpt: "The AI in computer vision market in APAC is expected to grow from US$ 1,156.92 million in 2019 to US$ 27,754.01 million by 2027; it is estimated to grow at a CAGR of 49.8% from 2020 to 2027. The Business Market Insights provides you regional research analysis on “Asia-Pacific AI in Computer Vision Market” and forecast to 2027."
+    publishedDateTime: 2021-12-10T05:33:00Z
+    webUrl: "https://manometcurrent.com/asia-pacific-ai-in-computer-vision-market-is-blooming-at-a-cagr-of-49-8-from-2020-to-2027-business-market-insights/"
+    ampWebUrl: "https://manometcurrent.com/asia-pacific-ai-in-computer-vision-market-is-blooming-at-a-cagr-of-49-8-from-2020-to-2027-business-market-insights/"
+    cdnAmpWebUrl: "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/asia-pacific-ai-in-computer-vision-market-is-blooming-at-a-cagr-of-49-8-from-2020-to-2027-business-market-insights/"
+    type: article
+    provider:
+      name: manometcurrent.com
+      domain: manometcurrent.com
+    quality: 31
   - title: "Worldwide Facial Recognition Industry to 2026 - Players Include 3M, Aware and Ayonix Among Others"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global facial recognition market reached a value of US$ 3."
     publishedDateTime: 2021-12-08T19:15:00Z

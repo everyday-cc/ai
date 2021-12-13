@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-st
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/best-stocks-to-buy-now-4-robotics-stocks-for-your-december-watchlist?amp"
 type: article
 quality: 84
-heat: 104
+heat: 105
 published: true
 
 provider:
