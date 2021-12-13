@@ -8,8 +8,8 @@ webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-doctors-wit
 ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-helps-doctors-with-patient-diagnoses-204697-1.htm"
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-doctors-with-patient-diagnoses-204697-1.htm"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.medindia.net/amp-images/health-images/telemonitoring-patients.jpg"
@@ -25,6 +26,6 @@ images:
     height: 1000
     isCached: true
 
-secured: "LDPNTEgVpDtuOeg+H8TmcsofcQ0rFt+07jxGJJiULRpICMwiSSmwxtmLnR9Kf9rm4EdAO7xPFdaJJ3Tj++Rx+/kkRyCVBPJKBnPayUqXng0X1bjLVKv5W32AXmd3UzwN2ZKvQc+bnm6IFeMemrAaOKG07zPaJ2180Ho6p/hiNxhqX8xNB7VOhsp7hDcIARTzbrygCfQbZ/iIRNeRsv9HAETMfrXMDYl+laUO9Jf4f2VCv+xtUnSZC4sFB+21OrbIxVGy31TlnGMTpDDkTqGZzvkjaDu+w87xoBEv5vq1ep8B7NrX9zisOWmmLJZq0beWeS8jbRlKTgwVwup75PhHJwk3QiVWrjF3RK/OZ8OfySg=;72W3geapDadpx5xh6yoD0g=="
+secured: "esnWIEQIeER/DiXt/2Lf2VZY9MqaPktixAcoYDR2eQIyTn6CImH3A5onDDzxOXo8pauKvrk8IwTApZd1JaeRDT2Zmeqfw1Wau6JVOXStjN7ByMU+lQDULuBc7qYUIsbnCrSZJ79WFIX34r8pOeMFSfKq1es33YAK66jEFcl32hXpDGIbp4Fnc3eAtn6XxsP6Sy5hW7nqKJ6cA2MJ8de1YlN3R5eM1yWr75/aziQlyQgXQoWpTbSZ1rpTVy4LZdoqBr4QvQeJsJ5YufO3AM7aczN6gaVEwnCh0hA25PddfVvqJ4QvjUxCM2nxiI9LLKgZ9n6O/uHz0SO/SNxPVF+xEAicDUtWl3+/Y4Q/b3z37hVsbnTm+2qtElH5VOuep3PiyI6uOqAVefGQxMZiE48Ov+79EK89xe3j8ip+izAmD6l+cm+S2cMNJRxNX1BurvUNxSdQ6l3Ykn4ytnDJanhHdTVtqxlYScGrmGSOEsj6mIqWVHlGC0OVnYzuMK/xSwKytgUK4bBXpTqNSOQaMS/i4A==;134XA+wrvf8BI4gZV+uwJw=="
 ---
 

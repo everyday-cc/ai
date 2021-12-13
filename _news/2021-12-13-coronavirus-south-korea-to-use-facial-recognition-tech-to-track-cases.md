@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/asia/east-asia/article/3159471/coronavirus
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/east-asia/article/3159471/coronavirus-south-korea-use-facial-recognition-tech-track-cases"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fa2b23dba-5c04-11ec-9cd9-b6f698a4b9a5.jpg?crop=4652%2C2617%2C0%2C242&resize=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "South Korea launching facial recognition CCTV pilot to trace COVID cases"
+    excerpt: "South Korea is planning to add facial recognition to its contact-tracing initiative, with the hope of saving numerous hours of labor."
+    publishedDateTime: 2021-12-13T18:48:00Z
+    webUrl: "https://www.biometricupdate.com/202112/south-korea-launching-facial-recognition-cctv-pilot-to-trace-covid-cases"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
+        width: 1600
+        height: 1109
         isCached: true
 
 secured: "ZF/ZRg49LCw/GxxE8FrnWnHBmj01LZfne4ewliHdGaGLjWYLrELxQpBC+bxdDoiicfNfgDg6Ss9uFdHVIO48KGncYwwjEgJTANHlQuGTOwpxI6jhrYc21EDhcQ5+Zvixcfy52WSfqRHo/Gbb8LofkOFfNhbn1H8wQPpEywiF10kTL7EVhi/YT8OqJaHjwaqwSNWel9Qko72KdvKls02/CE3QuMDbYIHdTY21VIdhzIV/AUTe0tKy5h1EKjFPsJYyuNrZa1D1H6vUhB0ofKHaoNuwQ5C8lbiJVJ4kHJN4U5rwHkoEm8rE+dBOl6JS0V3m4MVPIFD8l72YOrsEd5tCMHoF/dz0qs7MJvIbyZ59fFF68c/4tE2T3BDXO3F1OxYjL+rLvoCIZ5lnYFpQ/oUp77UkQLSvwEB95rZGDVZU7JOhVC/yU5Y6xP4dsZ+XVVRnwTQ0y7sLAkWxdncg8yUSCZ8AcUxN1s2nNiHoc61X05d27pJQ4k6VQhcT4Zrh2+T7Aug17bCi6B7al1k5tkcfeQ==;xsnOgJZLyhsXRwFzgjilxw=="

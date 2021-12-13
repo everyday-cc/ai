@@ -133,6 +133,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "South Korea launching facial recognition CCTV pilot to trace COVID cases"
+    excerpt: "South Korea is planning to add facial recognition to its contact-tracing initiative, with the hope of saving numerous hours of labor."
+    publishedDateTime: 2021-12-13T18:48:00Z
+    webUrl: "https://www.biometricupdate.com/202112/south-korea-launching-facial-recognition-cctv-pilot-to-trace-covid-cases"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/11151135/biometric-identification-facial-recognition.jpg"
+        width: 1600
+        height: 1109
+        isCached: true
 
 secured: "f6vEMkTb556XjTnoeJvJhwyouXA943IeWEYOfc23I3p0Dojaf26Xd40NLeEzzLnKaiimxqVsDNSUOffxtD8VJhdLqaJdvzVPRqhyInCRUdP//DXs/TocROfheQ1EL9q1pe1ppXCpR0UY4j45CmpoENIE6HV1sAgtxCrTVfiiV4Q5k+TIM7kS1ovNycifF4XQtST1+xoRJNkd+sd8k00npw6UvjAOv6CIaiq7gq0j8aNYvBViR/EA+DclpM/Nqa52GjttXvuJpT0m8D4PO19XDNRSPBhG88A4ivzwcyJkgjQzKo+DwO4Gll7KnNEnBgdtC7/pXq8pN+3CM9Qi4MdMlIkJ9fu+TA4p3Wak+UgshTwpGPXkUYKHDykPfc9IgoEmlKCw6+YcwnulzL5F8CQekTe6TlpZYGv6h0pbhcMMrnDjNFRs+klDw6v3jpPU3+sVmoFv+X/mdWh+T9jsvUZlJ9QN+vsOink+Ox0I+W+a4j/xtbJsFchAh25PZHcMQN75fGe6O5bcXIhPpJRDKImsDg==;O7F6pyGtEhe90Ao1K7X3dg=="
 ---

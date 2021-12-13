@@ -39,6 +39,20 @@ related:
         width: 760
         height: 368
         isCached: true
+  - title: "Pentagon adds new role to lead, coordinate AI efforts"
+    excerpt: "AI & Analytics.. By Lauren C. Williams; ; The Pentagon is creating a new position to lead its artificial intellig"
+    publishedDateTime: 2021-12-13T17:18:00Z
+    webUrl: "https://defensesystems.com/articles/2021/12/13/ai-office-osd-dod.aspx"
+    type: article
+    provider:
+      name: Defense Systems
+      domain: defensesystems.com
+    quality: 39
+    images:
+      - url: "https://defensesystems.com/-/media/GIG/EDIT_SHARED/PEOPLE/H/hicks_kathleen_briefs.jpg"
+        width: 760
+        height: 368
+        isCached: true
 
 secured: "sJun+csx1nsdrBWPuAOR6uyv6cV2AayL479MjCOpT7pveAcmYyG1gbTQipn/K0/Vi32mzGYB5KtC3td/pLKiafybpX1pSMYQRMqgZWqa3T5ICw+pyHpA5owQ5jhlaAf25KOSdwv04otzQEzFbuL8I9qBUUa/e/nUzi0L1BvjW61ZIyEP5Lv1IH+bNXnHzoKxeN6ZCcla5owa7ZK7hYlICRDQ3rzcswOsjGQAa1mgJVeBDEylYREnQCmYLbFG+K7rDQdoIuRIWgQIyzNsUrp0AK0n20nA7NpG0h3qitjQtdOt38e80KRiGJ75kCtFQJU+Shy6+Z8iq0Igbw1ZlLenoTuUHqJN/miOCVDF2MvliGE=;5TAwtjCiVRqwb3WJ9nItvQ=="
 ---

@@ -51,6 +51,15 @@ related:
         width: 390
         height: 205
         isCached: true
+  - title: "AI box PC combines a 10th Gen CPU, dual 2.5GbE and dual PCIe for medical analytics"
+    excerpt: "Q470 AI Box PC” runs on Comet Lake-S and supplies up to 128GB DDR4, 2x 2.5GbE, M.2 A- and M-key, and PCIe x4 and x16 for Nvidia Tesla T4. Intel plans to phase out Comet Lake-S in 2022."
+    publishedDateTime: 2021-12-13T17:26:00Z
+    webUrl: "https://linuxgizmos.com/ai-box-pc-combines-a-10th-gen-cpu-dual-2-5gbe-and-dual-pcie-for-medical-analytics/"
+    type: article
+    provider:
+      name: run Linux-based Opera TV
+      domain: linuxgizmos.com
+    quality: 13
 
 secured: "dMKMQmrBl22Ju39+992j/dWnJKavII4avf0V8bc81X83Hog8px2QLElQ3W+bfv28rAYXaKfB9B0qqLJ+3m0hRaVYdGwXcK0z3YD1ITakVyHQrFQ5gRyEbyL97sYNERCwKqHXUS1g5d8zbaNR+2EQsDZ6ci183VEdjTMlanYVK3MUZ/vbBtp12Y6jDaoZ5fPmBBVPczFMvYghksNZwXJbKFECOMojTwaPfmsTp8x32luf7aC1Wv6moToXkqA4DlOAQKnq6kuiYapA533LM1jkKEQVNCxS3pwDsHtW4NjihpOU6q8E5/Dt4HCJ5URR4gCM7y3zxEkykoJavxqCFW8SVT8nga1o9IFhIOIAi1QsYPBYtPt4KOjLoXhvmB6pUuJDu+gp2c0CVgZI3S4MdFt3l/CO0s7AlMJIGvxHSpyi0PRecfdlOZ7AI0q9rYx0x4yUPBKvEc+mlg0ZEoybrKeozjMlof+wWoaB8NKk6lZcSp1VgxMz7aVYHokqZpxyqjKPGhDh9QtzALKaoy9uy/cfGw==;vF3wAJ7QB2c7avqHZJq/yQ=="
 ---
